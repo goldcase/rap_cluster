@@ -1,2 +1,20 @@
-*.swp
+# From 25cf
+# Sass
+.sass-cache
+
+# Mac OS
 .DS_Store
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
