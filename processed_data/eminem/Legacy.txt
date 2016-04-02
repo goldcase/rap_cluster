@@ -1,97 +1,858 @@
-"legacy" lyrics
-eminem lyrics
-"legacy"
-tell me where to go, tell me what to do
-i'll be right there for you
-tell me what to say, no matter if it's true
-i'll say it all for you
-i used to be the type of kid that would always think the sky is falling
-why am i so differently wired? am i a martian?
-what kind of twisted experiment am i involved in?
-'cause i don't belong in this world
-that's why i'm scoffing at authority, defiant often
-flying off at the handle at my mom, no dad
-so i am non-compliant at home, at school i'm just shy and awkward
-and i don't need no goddamn psychologist
-tryna diagnose why i have all these underlying problems
-thinking he can try and solve them
-i'm outside chalking up drawings on the sidewalk
-and in the front drive talking to myself
-either that or inside hiding off in the corner somewhere quiet
-trying not to be noticed 'cause i'm crying and sobbing
-i had a bad day at school so i ain't talking
-some cocksucker shoved me into a fucking locker
-'cause he said that i eyeballed him
-and if you fall, i'll get you there
-i'll be your savior from all the wars that are fought
-inside your world
-please have faith in my words
-'cause this is my legacy, legacy, eh
-this is my legacy, legacy, eh
-there's no guarantee,
-it's not up to me,
-we can only see
-this is my legacy, legacy
-legacy, legacy
-i used to be the type of kid that would always think the sky is falling
-why am i so differently wired in my noggin?
-'cause sporadic as my thoughts come, it's mind boggling
-'cause i obsess on everything in my mind small shit
-bothers me but not my father, he said sayonara then split
-but i don't give a shit i'm fine long as
-there's batteries in my walkman nothing's the matter with me
-shit look on the bright side at least i ain't walking
-i bike ride through the neighborhood of my apartment
-complex on a ten speed which i've acquired parts that i
-find in the garbage, a frame, then put tires on it
-headphones on look straight ahead if kids try and start shit
-but if this is all there is for me life offers
-why bother even try and put up a fight, it's nonsense
-but i think a light bulb just lit up in my conscience
-what about them rhymes i've been jottin'
-they're kinda giving me confidence
-instead of tryna escape through my comics,
-why don't i just blast a little something like onyx
-to put me in the mood to wanna fight and write songs that
-say what i wanna say to the kid that said that i eyeballed him
-grab hold of my balls like that's right fight's on bitch
-who would've knew from the moment i turned the mic on that
-i could be iconic, and my conquest
-is word to phife dawg from a tribe called quest
-this is my legacy, legacy, eh
-this is my legacy, legacy, eh
-there's no guarantee,
-it's not up to me,
-we can only see
-this is my legacy, legacy
-legacy, legacy
-i used to be the type of kid that would always think the sky is falling
-now i think the fact that i'm differently wired's awesome
-'cause if i wasn't i wouldn't be able to work
-words like this and connect lines like crosswords
-and use my enemy's words as strength
-to try and draw from, and get inspired off em
-'cause all my life i was told and taught i am not shit
-by you wack fucking giant sacks of lying dog shit
-now you shut up bitch, i am talking
-thought i was full of horseshit and now
-you fucking worship the ground in which i am walking
-me against the world so what? i'm brian dawkins
-versus the whole 0 and 16 lions offense
-so bring on the giants falcons and miami dolphins
-it's the body bag game bitch i'm supplying coffins
-'cause you dicks, butt kiss, a bunch of brian baldingers
-you gon' die a ball licker i've been diabolical
-with this dialogue since 99 rawkus
-you don't respect the legacy i leave behind y'all can
-suck a dick, the day you beat me pigs'll fly out my ass
-in a flying saucer full of italian sausage
-the most high exalting and i ain't halting
-till i die of exhaustion inhale my exhaust fumes
-the best part about me is i am not you
-i'm me and i'm the fire marshall and this is my
-legacy, legacy, eh
-this is my legacy, legacy, eh
-there's no guarantee, it's not up to me, we can only see
-this is my legacy, legacy
-legacy, legacy
+(dp1
+Vwalking
+p2
+I2
+sVwords
+p3
+I3
+sVlyrics
+p4
+I2
+sVexalting
+p5
+I1
+sVbunch
+p6
+I1
+sVhalting
+p7
+I1
+sVbring
+p8
+I1
+sVbatteries
+p9
+I1
+sVunderlying
+p10
+I1
+sVdrawings
+p11
+I1
+sVenemys
+p12
+I1
+sVgo
+p13
+I1
+sVcorner
+p14
+I1
+sVfine
+p15
+I1
+sVfind
+p16
+I1
+sVground
+p17
+I1
+sVaint
+p18
+I3
+sVwrite
+p19
+I1
+sVgiant
+p20
+I1
+sVapartment
+p21
+I1
+sVsacks
+p22
+I1
+sVtill
+p23
+I1
+sVsomewhere
+p24
+I1
+sVdick
+p25
+I1
+sVsky
+p26
+I3
+sVbehind
+p27
+I1
+sVhim
+p28
+I2
+sVparts
+p29
+I1
+sVbike
+p30
+I1
+sVdifferently
+p31
+I3
+sVcrying
+p32
+I1
+sVdicks
+p33
+I1
+sVride
+p34
+I1
+sVtold
+p35
+I1
+sVdad
+p36
+I1
+sVdo
+p37
+I1
+sVthem
+p38
+I1
+sVhandle
+p39
+I1
+sVget
+p40
+I2
+sVbeat
+p41
+I1
+sVchalking
+p42
+I1
+sVmyself
+p43
+I1
+sVcrosswords
+p44
+I1
+sVpsychologist
+p45
+I1
+sVquest
+p46
+I1
+sVmom
+p47
+I1
+sVfall
+p48
+I1
+sVfront
+p49
+I1
+sVworld
+p50
+I3
+sVblast
+p51
+I1
+sVday
+p52
+I2
+sVschool
+p53
+I2
+sVlike
+p54
+I4
+sVdie
+p55
+I2
+sVmiami
+p56
+I1
+sVshy
+p57
+I1
+sVboggling
+p58
+I1
+sVbright
+p59
+I1
+sVtheyre
+p60
+I1
+sVtry
+p61
+I4
+sVbag
+p62
+I1
+sVbad
+p63
+I1
+sVeither
+p64
+I1
+sValways
+p65
+I3
+sVsmall
+p66
+I1
+sVsidewalk
+p67
+I1
+sVwouldve
+p68
+I1
+sVside
+p69
+I1
+sVyall
+p70
+I1
+sVbitch
+p71
+I3
+sVem
+p72
+I1
+sVahead
+p73
+I1
+sViconic
+p74
+I1
+sVright
+p75
+I2
+sVneighborhood
+p76
+I1
+sVoften
+p77
+I1
+sVten
+p78
+I1
+sVexhaust
+p79
+I1
+sVfucking
+p80
+I3
+sVgoddamn
+p81
+I1
+sVframe
+p82
+I1
+sVauthority
+p83
+I1
+sVphife
+p84
+I1
+sVtires
+p85
+I1
+sVsee
+p86
+I3
+sVlegacy
+p87
+I27
+sVconnect
+p88
+I1
+sVescape
+p89
+I1
+sVversus
+p90
+I1
+sVhome
+p91
+I1
+sVbest
+p92
+I1
+sVsaucer
+p93
+I1
+sVeven
+p94
+I1
+sVleave
+p95
+I1
+sVsausage
+p96
+I1
+sVsaid
+p97
+I3
+sVmood
+p98
+I1
+sVgiving
+p99
+I1
+sVspeed
+p100
+I1
+sVsince
+p101
+I1
+sVplease
+p102
+I1
+sVworship
+p103
+I1
+sVeverything
+p104
+I1
+sVoutside
+p105
+I1
+sVexperiment
+p106
+I1
+sVsayonara
+p107
+I1
+sVuse
+p108
+I1
+sVass
+p109
+I1
+sVfalling
+p110
+I3
+sVhold
+p111
+I1
+sVcause
+p112
+I9
+sVobsess
+p113
+I1
+sVbody
+p114
+I1
+sVshut
+p115
+I1
+sVfull
+p116
+I2
+sVscoffing
+p117
+I1
+sV0
+I1
+sVlittle
+p118
+I1
+sVeminem
+p119
+I1
+sVtaught
+p120
+I1
+sVput
+p121
+I3
+sVnoncompliant
+p122
+I1
+sVgrab
+p123
+I1
+sVsupplying
+p124
+I1
+sVhiding
+p125
+I1
+sVfaith
+p126
+I1
+sVkids
+p127
+I1
+sVlicker
+p128
+I1
+sVnothings
+p129
+I1
+sVwalkman
+p130
+I1
+sVhorseshit
+p131
+I1
+sVinvolved
+p132
+I1
+sVill
+p133
+I4
+sVheadphones
+p134
+I1
+sVkiss
+p135
+I1
+sVquiet
+p136
+I1
+sVcalled
+p137
+I1
+sVthinking
+p138
+I1
+sVnoggin
+p139
+I1
+sVwack
+p140
+I1
+sVwhole
+p141
+I1
+sVthink
+p142
+I5
+sVthats
+p143
+I2
+sVtribe
+p144
+I1
+sVgiants
+p145
+I1
+sVthere
+p146
+I1
+sVdont
+p147
+I5
+sVgarbage
+p148
+I1
+sVfather
+p149
+I1
+sVconquest
+p150
+I1
+sVshoved
+p151
+I1
+sVnonsense
+p152
+I1
+sVfumes
+p153
+I1
+sVmarshall
+p154
+I1
+sVleast
+p155
+I1
+sVsporadic
+p156
+I1
+sVrespect
+p157
+I1
+sVfight
+p158
+I2
+sVstraight
+p159
+I1
+sVeh
+p160
+I6
+sVfire
+p161
+I1
+sVwan
+p162
+I2
+sVconfidence
+p163
+I1
+sVinhale
+p164
+I1
+sVwould
+p165
+I3
+sVstart
+p166
+I1
+sVcome
+p167
+I1
+sVflying
+p168
+I2
+sVtwisted
+p169
+I1
+sVlong
+p170
+I1
+sVnoticed
+p171
+I1
+sVbothers
+p172
+I1
+sVacquired
+p173
+I1
+sVfought
+p174
+I1
+sVlions
+p175
+I1
+sVdolphins
+p176
+I1
+sVtype
+p177
+I3
+sVtell
+p178
+I3
+sVexhaustion
+p179
+I1
+sVtryna
+p180
+I2
+sVlife
+p181
+I2
+sVcoffins
+p182
+I1
+sVthat
+p183
+I2
+sVfly
+p184
+I1
+sVturned
+p185
+I1
+sVonyx
+p186
+I1
+sVwars
+p187
+I1
+sVeyeballed
+p188
+I2
+sV99
+p189
+I1
+sVoffers
+p190
+I1
+sVpart
+p191
+I1
+sVdawg
+p192
+I1
+sVsavior
+p193
+I1
+sVbutt
+p194
+I1
+sVbulb
+p195
+I1
+sVtrying
+p196
+I1
+sVtrue
+p197
+I1
+sVme
+p198
+I3
+sVkind
+p199
+I1
+sVballs
+p200
+I1
+sVword
+p201
+I1
+sVlook
+p202
+I2
+sVdawkins
+p203
+I1
+sV16
+p204
+I1
+sVcomics
+p205
+I1
+sVinside
+p206
+I2
+sVwork
+p207
+I1
+sVdialogue
+p208
+I1
+sVas
+p209
+I1
+sVrhymes
+p210
+I1
+sVmatter
+p211
+I2
+sVlocker
+p212
+I1
+sVmartian
+p213
+I1
+sVcan
+p214
+I1
+sVlight
+p215
+I1
+sVmy
+p216
+I1
+sVcould
+p217
+I1
+sVtheres
+p218
+I4
+sVdiagnose
+p219
+I1
+sVive
+p220
+I3
+sVgame
+p221
+I1
+sVgive
+p222
+I1
+sVwasnt
+p223
+I1
+sVawesome
+p224
+I1
+sVfights
+p225
+I1
+sVmind
+p226
+I2
+sVit
+p227
+I1
+sVnow
+p228
+I1
+sVdog
+p229
+I1
+sVhigh
+p230
+I1
+sVtalking
+p231
+I3
+sVsay
+p232
+I4
+sVrawkus
+p233
+I1
+sVim
+p234
+I10
+sVsomething
+p235
+I1
+sVin
+p236
+I1
+sVneed
+p237
+I1
+sVoffense
+p238
+I1
+sVwouldnt
+p239
+I1
+sVcocksucker
+p240
+I1
+sVshit
+p241
+I6
+sVguarantee
+p242
+I3
+sVstrength
+p243
+I1
+sVawkward
+p244
+I1
+sVna
+p245
+I2
+sVmic
+p246
+I1
+sVbelong
+p247
+I1
+sVable
+p248
+I1
+sVdefiant
+p249
+I1
+sVlit
+p250
+I1
+sVbrian
+p251
+I2
+sVdiabolical
+p252
+I1
+sVcomplex
+p253
+I1
+sVsplit
+p254
+I1
+sVinstead
+p255
+I1
+sVyou
+p256
+I3
+sVconscience
+p257
+I1
+sVdraw
+p258
+I1
+sVused
+p259
+I3
+sVwireds
+p260
+I1
+sVbother
+p261
+I1
+sVknew
+p262
+I1
+sVproblems
+p263
+I1
+sVball
+p264
+I1
+sVpigsll
+p265
+I1
+sVmoment
+p266
+I1
+sVgon
+p267
+I1
+sVwired
+p268
+I2
+sVkinda
+p269
+I1
+sVbaldingers
+p270
+I1
+sVsuck
+p271
+I1
+sVitalian
+p272
+I1
+sVthoughts
+p273
+I1
+sVkid
+p274
+I4
+sVi
+I1
+sVsobbing
+p275
+I1
+sVinspired
+p276
+I1
+sVlines
+p277
+I1
+sVdrive
+p278
+I1
+sVthought
+p279
+I1
+sVsolve
+p280
+I1
+sVlying
+p281
+I1
+sVjottin
+p282
+I1
+sVfalcons
+p283
+I1
+sVfact
+p284
+I1
+sVsongs
+p285
+I1
+s.

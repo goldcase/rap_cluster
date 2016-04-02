@@ -1,59 +1,509 @@
-"gangsta's delight" lyrics
-50 cent lyrics
-"gangsta's delight"
-this is hip hop
-it go clip pop
-it hit em if ya hit me
-da clip pop it popped and it don't stop
-papa said we bang bang boogie
-we get em oh goodie
-keep the hoodie when your fuckin wit me me me
-now what you hear is not a test
-i said its not a test nigga its not a test
-got my teflon on wrapped around my chest
-i do it tha best ya heard i do it tha best
-tuck da nine by my spine all the time
-stunt when i want a dead nigga fuck wit mine
-my neck and my ear get to flickin like a strobe
-my wrist and my whips have niggas like whoa
-i'm the underground king i reside on the throne
-in the club wylin out over henny and patron
-me i'm in the zone yea me i'm in the zone
-it's bottle after bottle til g-stacks are blown
-shawty in my ear like please take me home
-before the next song come on dawg we gone
-off to the hotel, motel, the holiday inn
-she said if i knew you worked the cat from the back
-like that i woulda brought my friend a huh huh huh huh
-i'm so raw yea i'm so raw
-me i'm so ghetto i'm oh so hardcore
-i'm down by law this style ya never saw
-i give em jus a little then watch em fiend for more
-yea they want more they hot and they want more
-they love the way i kick it they addicted to ya boy
-i'm ecstasy i'm the ultimate trip
-i have ya in the mornin like a dope fiend sick
-now feel the rush i'm like pure cocaine
-i have the whole night club goin insane
-no matter how rich i get i'm never gonna change
-i will let it rain push me i let it rain
-i do this shit myself lawyer money ain't a thang
-da unit is the game
-the yin and the yang
-we went from poor to rich now look we da shit
-you best control ya bitch or she'll be in tha six
-a huh huh huh huh
-i'm fresh ta death
-i'm rockin the vest
-i'm strapped movin round with tha heat
-i said i do it tha best
-i'm not tha one you should test
-that's why my name ring bells in the street
-i put that work in
-yea yea
-i put that work in
-yea yea
-i put that work in
-yea yea
-i put that work in
-yea yea
+(dp1
+Vsix
+p2
+I1
+sVlyrics
+p3
+I2
+sVyea
+p4
+I11
+sVmoney
+p5
+I1
+sVcocaine
+p6
+I1
+sVgo
+p7
+I1
+sVhardcore
+p8
+I1
+sVraw
+p9
+I2
+sVstyle
+p10
+I1
+sVdeath
+p11
+I1
+sVzone
+p12
+I2
+sVthang
+p13
+I1
+sVhot
+p14
+I1
+sVrich
+p15
+I2
+sVfiend
+p16
+I2
+sVwhips
+p17
+I1
+sVholiday
+p18
+I1
+sVkick
+p19
+I1
+sVta
+p20
+I1
+sVhip
+p21
+I1
+sVmornin
+p22
+I1
+sVhit
+p23
+I2
+sVaround
+p24
+I1
+sVget
+p25
+I3
+sVya
+p26
+I6
+sVdope
+p27
+I1
+sVstop
+p28
+I1
+sVwoulda
+p29
+I1
+sVda
+p30
+I4
+sVunderground
+p31
+I1
+sVbang
+p32
+I2
+sVstunt
+p33
+I1
+sVghetto
+p34
+I1
+sVlike
+p35
+I6
+sVspine
+p36
+I1
+sV50
+p37
+I1
+sVnight
+p38
+I1
+sVaddicted
+p39
+I1
+sVwent
+p40
+I1
+sVbells
+p41
+I1
+sVround
+p42
+I1
+sVem
+p43
+I4
+sVnigga
+p44
+I2
+sVback
+p45
+I1
+sVdead
+p46
+I1
+sVdawg
+p47
+I1
+sVlawyer
+p48
+I1
+sVhome
+p49
+I1
+sVbest
+p50
+I4
+sVmovin
+p51
+I1
+sVsaid
+p52
+I4
+sVwylin
+p53
+I1
+sVmotel
+p54
+I1
+sVboogie
+p55
+I1
+sVplease
+p56
+I1
+sVecstasy
+p57
+I1
+sVgot
+p58
+I1
+sVaint
+p59
+I1
+sVnever
+p60
+I2
+sVlet
+p61
+I2
+sVhoodie
+p62
+I1
+sVput
+p63
+I4
+sVcome
+p64
+I1
+sVchange
+p65
+I1
+sVthrone
+p66
+I1
+sVboy
+p67
+I1
+sVoh
+p68
+I2
+sVkeep
+p69
+I1
+sVgstacks
+p70
+I1
+sVwhole
+p71
+I1
+sVfuckin
+p72
+I1
+sVthats
+p73
+I1
+sVreside
+p74
+I1
+sVinsane
+p75
+I1
+sVlove
+p76
+I1
+sVdont
+p77
+I1
+sVblown
+p78
+I1
+sVfeel
+p79
+I1
+sVpop
+p80
+I2
+sVone
+p81
+I1
+sVbrought
+p82
+I1
+sVwit
+p83
+I2
+sVbitch
+p84
+I1
+sVring
+p85
+I1
+sVflickin
+p86
+I1
+sVunit
+p87
+I1
+sVstrapped
+p88
+I1
+sVlittle
+p89
+I1
+sVpatron
+p90
+I1
+sVyin
+p91
+I1
+sVcent
+p92
+I1
+sVnext
+p93
+I1
+sVway
+p94
+I1
+sVwrapped
+p95
+I1
+sVwhoa
+p96
+I1
+sVfriend
+p97
+I1
+sVmore
+p98
+I2
+sVpopped
+p99
+I1
+sVshell
+p100
+I1
+sVname
+p101
+I1
+sVclub
+p102
+I2
+sVhotel
+p103
+I1
+sVhuh
+p104
+I8
+sVfuck
+p105
+I1
+sVjus
+p106
+I1
+sVheat
+p107
+I1
+sVhear
+p108
+I1
+sVsick
+p109
+I1
+sVworked
+p110
+I1
+sVear
+p111
+I2
+sVme
+p112
+I2
+sVking
+p113
+I1
+sVrush
+p114
+I1
+sVlook
+p115
+I1
+sVniggas
+p116
+I1
+sVtuck
+p117
+I1
+sVcat
+p118
+I1
+sVmatter
+p119
+I1
+sVstreet
+p120
+I1
+sVnine
+p121
+I1
+sVcontrol
+p122
+I1
+sVgone
+p123
+I1
+sVvest
+p124
+I1
+sVclip
+p125
+I2
+sVgive
+p126
+I1
+sVin
+p127
+I4
+sVgangstas
+p128
+I2
+sVmine
+p129
+I1
+sVheard
+p130
+I1
+sVinn
+p131
+I1
+sVim
+p132
+I16
+sVwant
+p133
+I3
+sVgoodie
+p134
+I1
+sVwork
+p135
+I4
+sVsaw
+p136
+I1
+sVtrip
+p137
+I1
+sVshit
+p138
+I2
+sVpure
+p139
+I1
+sVna
+p140
+I1
+sVsong
+p141
+I1
+sVrockin
+p142
+I1
+sVtil
+p143
+I1
+sVchest
+p144
+I1
+sVhenny
+p145
+I1
+sVtake
+p146
+I1
+sVhop
+p147
+I1
+sVtest
+p148
+I4
+sVshawty
+p149
+I1
+sVultimate
+p150
+I1
+sVpoor
+p151
+I1
+sVteflon
+p152
+I1
+sVwatch
+p153
+I1
+sVknew
+p154
+I1
+sVpapa
+p155
+I1
+sVrain
+p156
+I2
+sVdelight
+p157
+I2
+sVgon
+p158
+I1
+sVwrist
+p159
+I1
+sVlaw
+p160
+I1
+sVgoin
+p161
+I1
+sVneck
+p162
+I1
+sVgame
+p163
+I1
+sVyang
+p164
+I1
+sVstrobe
+p165
+I1
+sVbottle
+p166
+I2
+sVtime
+p167
+I1
+sVpush
+p168
+I1
+sVfresh
+p169
+I1
+sVtha
+p170
+I6
+s.

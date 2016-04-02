@@ -1,18 +1,29 @@
-"stickabush" lyrics
-de la soul lyrics
-"stickabush"
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, (uh-huh) stickabush, (oh yeah)
-stickabush, (oh yeah) stickabush, stickabush
-stickabush, stickabush, stickabush, stickabush
-stickabush, stickabush, stickabush (bullshit!)
+(dp1
+Vyeah
+p2
+I2
+sVstickabush
+p3
+I58
+sVlyrics
+p4
+I2
+sVla
+p5
+I1
+sVde
+p6
+I1
+sVsoul
+p7
+I1
+sVoh
+p8
+I2
+sVuhhuh
+p9
+I1
+sVbullshit
+p10
+I1
+s.

@@ -1,69 +1,431 @@
-"call me" lyrics
-50 cent lyrics
-"call me"
-(feat. tweet, hope, tony yayo)
-(call me) why you naggin me?
-(call me) girl you houndin me (yo why you houndin me)
-(call me) why you harassin me?
-i don't want alone time, i just wanna fuck
-(call me) why you naggin me?
-(call me) girl you houndin me
-(call me) why you harassin me?
-i don't want alone time, i just wanna fuck
-50 cent, yayo, featuring hope, uh huh
-as we proceed, uh
-you didn't like the way i wore my hair (what up)
-you didn't like the style a clothes i wear (uh huh)
-you didn't like the little things i do
-just tryin to be close to you (c'mon, c'mon)
-look i done changed up bitch, i done came up
-my neck, my wrist, my ears, my fists are all blinged up
-in the hood they say 50 "you a grimy nigga"
-with the rims in that coupe stay shiny nigga (stay shiny nigga)
-when you disrespect me is where i draw the line
-you seen my artwork but you ain't seen me draw the nine
-come through the hood, you'll get shot homey just cause i say so
-i'm the hottest shit on this street, i don't do j lo (here we go)
-(call me) why you naggin me? {naggin you?}
-(call me) girl you houndin me {oh now i'm houndin you}
-(call me) why you harrasin me? {stop playin}
-i don't want alone time, i just wanna fuck
-(call me) why you naggin me? {man you call me}
-(call me) girl you houndin me {yeah whatever}
-(call me) why you harrasin me?
-i don't want alone time, i just wanna fuck
-uh huh, yeah
-i remember when you was a little bum nigga (what up)
-no champagne, just strictly rum nigga (uh huh)
-no pies, no cake, couldn't get a crum nigga (crum nigga)
-fuck too fast, to quick to cum nigga
-now you wanna talk like you big shit
-like you found a better bitch, wit a ass this sick
-you know you love this nigga, why is you frontin?
-cause when you's fuckin wit hope, baby girl you just fuckin (c'mon)
-(call me) why you naggin me?
-(call me) girl you houndin me
-(call me) why you harrasin me?
-i don't want alone time, i just wanna fuck {i just wanna fuck}
-(call me) why you naggin me?
-(call me) girl you houndin me
-(call me) why you harrasin me?
-i don't want alone time, i just wanna fuck
-yeah, um, yayo!
-don't call me bitch, don't be naggin me
-cause the police thinkin 'bout baggin me (baggin me)
-you wanna call me on my cell, but don't got money for bail
-and you the main reason that i'm stuck in the jail
-you showed 'em where the mag at (uh huh), showed 'em where the stash at (uh huh)
-got a order of protection, no i'm doin five flat
-in my heart i thought you was the one
-"til you dialed them three numbers 9 1 1 (bitch)
-(call me) why you naggin me?
-(call me) girl you houndin me
-(call me) why you harassin me?
-i don't want alone time, i just wanna fuck
-(call me) why you naggin me?
-(call me) girl you houndin me
-(call me) why you harassin me?
-i don't want alone time, i just wanna fuck
-call me
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVgo
+p5
+I1
+sVfeat
+p6
+I1
+sVaint
+p7
+I1
+sV1
+I2
+sVstyle
+p8
+I1
+sVpolice
+p9
+I1
+sVlo
+p10
+I1
+sVtweet
+p11
+I1
+sVbetter
+p12
+I1
+sVharassin
+p13
+I4
+sVcum
+p14
+I1
+sVmain
+p15
+I1
+sVhope
+p16
+I3
+sVfists
+p17
+I1
+sVdo
+p18
+I1
+sVcrum
+p19
+I2
+sVyo
+p20
+I1
+sVget
+p21
+I2
+sVbig
+p22
+I1
+sVstop
+p23
+I1
+sVfrontin
+p24
+I1
+sVfive
+p25
+I1
+sVknow
+p26
+I1
+sVartwork
+p27
+I1
+sVpies
+p28
+I1
+sVwore
+p29
+I1
+sVbout
+p30
+I1
+sVlike
+p31
+I5
+sVcause
+p32
+I3
+sV50
+p33
+I3
+sVquick
+p34
+I1
+sVfound
+p35
+I1
+sVears
+p36
+I1
+sVem
+p37
+I2
+sVnigga
+p38
+I9
+sVyeah
+p39
+I3
+sVhair
+p40
+I1
+sVstreet
+p41
+I1
+sVclose
+p42
+I1
+sVgirl
+p43
+I9
+sVbail
+p44
+I1
+sVnaggin
+p45
+I10
+sVrum
+p46
+I1
+sVcell
+p47
+I1
+sVgot
+p48
+I2
+sVchampagne
+p49
+I1
+sVyoull
+p50
+I1
+sVass
+p51
+I1
+sVblinged
+p52
+I1
+sVrims
+p53
+I1
+sVdisrespect
+p54
+I1
+sVreason
+p55
+I1
+sVprotection
+p56
+I1
+sVwear
+p57
+I1
+sValone
+p58
+I8
+sVcome
+p59
+I1
+sVoh
+p60
+I1
+sVchanged
+p61
+I1
+sVclothes
+p62
+I1
+sVshiny
+p63
+I2
+sVfuckin
+p64
+I2
+sVlove
+p65
+I1
+sVdont
+p66
+I12
+sVwhatever
+p67
+I1
+sVone
+p68
+I1
+sVwit
+p69
+I2
+sVdone
+p70
+I2
+sVbitch
+p71
+I4
+sVtony
+p72
+I1
+sVcouldnt
+p73
+I1
+sVyous
+p74
+I1
+sVhood
+p75
+I2
+sVwan
+p76
+I11
+sVlittle
+p77
+I2
+sVfast
+p78
+I1
+sVproceed
+p79
+I1
+sVstrictly
+p80
+I1
+sVthree
+p81
+I1
+sVcent
+p82
+I2
+sVcoupe
+p83
+I1
+sVhoundin
+p84
+I10
+sVstuck
+p85
+I1
+sVcall
+p86
+I30
+sVway
+p87
+I1
+sVgrimy
+p88
+I1
+sVfeaturing
+p89
+I1
+sVtryin
+p90
+I1
+sVflat
+p91
+I1
+sVhuh
+p92
+I6
+sVbum
+p93
+I1
+sVbaby
+p94
+I1
+sVline
+p95
+I1
+sVhottest
+p96
+I1
+sVyayo
+p97
+I3
+sVremember
+p98
+I1
+sVme
+p99
+I24
+sVlook
+p100
+I1
+sVshowed
+p101
+I2
+sVdialed
+p102
+I1
+sVj
+I1
+sVup
+p103
+I4
+sVum
+p104
+I1
+sVnine
+p105
+I1
+sVuh
+p106
+I7
+sVcake
+p107
+I1
+sVhomey
+p108
+I1
+sVdidnt
+p109
+I3
+sVheart
+p110
+I1
+sVcmon
+p111
+I3
+sVharrasin
+p112
+I4
+sVfuck
+p113
+I10
+sVsay
+p114
+I2
+sVim
+p115
+I4
+sVnumbers
+p116
+I1
+sVwant
+p117
+I8
+sVplayin
+p118
+I1
+sVseen
+p119
+I2
+sVshit
+p120
+I2
+sVbaggin
+p121
+I2
+sVthings
+p122
+I1
+sVthinkin
+p123
+I1
+sVtil
+p124
+I1
+sVsick
+p125
+I1
+sV9
+I1
+sVjail
+p126
+I1
+sVyou
+p127
+I2
+sVdraw
+p128
+I2
+sVdoin
+p129
+I1
+sVtime
+p130
+I8
+sVstay
+p131
+I2
+sVwrist
+p132
+I1
+sVmag
+p133
+I1
+sVman
+p134
+I1
+sVneck
+p135
+I1
+sVstash
+p136
+I1
+sVthought
+p137
+I1
+sVso
+p138
+I1
+sVtalk
+p139
+I1
+sVna
+p140
+I11
+sVorder
+p141
+I1
+sVcame
+p142
+I1
+s.

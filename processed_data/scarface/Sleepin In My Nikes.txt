@@ -1,85 +1,716 @@
-"sleepin' in my nikes" lyrics
-scarface lyrics
-"sleepin' in my nikes"
-(feat. seagram)
-dedicated to the homeboy seag
-r.i.p. to the homeboy seag
-still ridin though
-still ridin
-watch out for the police, mayn, cause they after a muthafucka
-yeah nigga
-once again it's that nigga named seag in the muthafuckin house
-you know what i'm sayin
-and my realities is the next nigga's nightmares
-you know what i'm sayin?
-keepin it real
-69 ville
-for life, nigga
-spent 75 on some cakes
-straight raw, 2.2 was each weight
-and fuck the law, niggas on my beeper wanna get hooked up
-the colas in the beaker with the soda gettin cooked up
-it's all about makin g's, i'm the man
-27 in the oz's, the bag weighs a gramm
-walk a tight rope cause the feds is watchin me
-cause i'm slingin mo' dope than a pharmacy
-i got it on wholesale, takeover's the target
-straight snow sale, nigga, floodin the market
-and i can give a fuck, nigga, if you wanna tussle
-jealous of my figures, you're best to check your hustle
-we can get down if you run up
-i'm from the town where niggas get down from sun down to sun up
-gotta watch my back, niggas creepin in the strike zone
-always got my gat, they got me sleepin with my nikes on
-every day and night
-livin in the life
-they got me sleepin in my nikes
-it's do or die against my rivals
-i could give a fuck cause it's all about survival
-fuck it, i'm high, mentally stuck, do or die
-who the fuck am i? a young killer on the rise
-look in my eyes, you see the vision of a nigga feelin trapped in his inner self
-it's fuckin with my mental health
-born in the city where the niggas die young
-mist-covered street corners collapsed where i slung
-and everybody standin stiff waitin on the cake
-i'm waitin on a muthafuckin break, ain't no escape
-make no mistakes and leave a muthafucka breathin
-they all got to die this evening, cause i believe in
-you kill a muthafucka 'fore a nigga come through
-with his crew makin your nightmares come true
-now who gon' be the first to die cause i'd extinguished your whole click
-gimme the money, nigga, no shit
-i'm in your spot with a glock, down to bomb
-on any nigga needin bomb, sleep with your muthafuckin nikes on
-gots to watch these pirates tryin to get my treasure
-i don't know why it's, but police pressure
-got me feelin like a zero, mayn, no good
-but i'm knowin i'm a hero, mayn, in my hood
-now i'm havin dreams of firin at them lames
-i used to have dreams of retirin from the game
-now as fast as i got it, i'ma lose it
-see, the cash and narcotics made me ruthless
-timer know the real, they heard the situation
-'bout the drama in the ville, i'm 3rd generation
-now they wanna put a jacket on my risen hustle
-cause i couldn't hack it livin in the struggle
-now i live every minute like my last one
-labelled a menace and a threat, and i'ma blast em
-seldom i can smile when the lights is on
-and if you're livin like me, you better sleep with your nikes on
-yeah, uknowmsayin
-keep your muthafuckin eyes focused, mayn
-on this muthafuckin game out here
-uknowmsayin, cause it ain't no joke, mayn
-uknowmsayin, cause you never plan to fail
-you fail the plan
-you feel what i'm sayin?
-so keep it real, mayn
-and keep your eyes open for these busters
-and these snake-ass niggas, uknowmsayin?
-falsely advertisin as a muthafuckin homeboy, uknowmsayin?
-these niggas gon' get they muthafuckin character assassinated out here
-uknowmsayin, for perpetratin
-you feel what i'm sayin, nigga?
-mob life
+(dp1
+Vstandin
+p2
+I1
+sVfirin
+p3
+I1
+sVgs
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I1
+sVcakes
+p7
+I1
+sVslung
+p8
+I1
+sVmistakes
+p9
+I1
+sVkill
+p10
+I1
+sVhack
+p11
+I1
+sVbomb
+p12
+I2
+sVstill
+p13
+I2
+sVfeat
+p14
+I1
+sVneedin
+p15
+I1
+sVaint
+p16
+I2
+sV27
+p17
+I1
+sVpolice
+p18
+I2
+sVsayin
+p19
+I4
+sV22
+p20
+I1
+sVperpetratin
+p21
+I1
+sVretirin
+p22
+I1
+sVtreasure
+p23
+I1
+sVcharacter
+p24
+I1
+sVyoung
+p25
+I2
+sVpharmacy
+p26
+I1
+sVbetter
+p27
+I1
+sVhavin
+p28
+I1
+sVminute
+p29
+I1
+sVsmile
+p30
+I1
+sVbout
+p31
+I1
+sVta
+p32
+I1
+sVreal
+p33
+I3
+sVtown
+p34
+I1
+sVevening
+p35
+I1
+sVlivin
+p36
+I3
+sVget
+p37
+I5
+sVmuthafuckin
+p38
+I7
+sVdope
+p39
+I1
+sVmayn
+p40
+I6
+sVwatch
+p41
+I3
+sVfeelin
+p42
+I2
+sVbreak
+p43
+I1
+sVgame
+p44
+I2
+sVmade
+p45
+I1
+sVevery
+p46
+I2
+sVknow
+p47
+I4
+sVmob
+p48
+I1
+sVheard
+p49
+I1
+sVday
+p50
+I1
+sVdreams
+p51
+I2
+sVlook
+p52
+I1
+sVlike
+p53
+I3
+sVstiff
+p54
+I1
+sValways
+p55
+I1
+sVseldom
+p56
+I1
+sVgettin
+p57
+I1
+sVleave
+p58
+I1
+sVbag
+p59
+I1
+sVgood
+p60
+I1
+sVnight
+p61
+I1
+sVthrough
+p62
+I1
+sVhustle
+p63
+I2
+sVstraight
+p64
+I2
+sVvision
+p65
+I1
+sVem
+p66
+I1
+sVville
+p67
+I2
+sVnigga
+p68
+I10
+sVmental
+p69
+I1
+sVweight
+p70
+I1
+sVgeneration
+p71
+I1
+sVhouse
+p72
+I1
+sVyeah
+p73
+I2
+sVused
+p74
+I1
+sVcash
+p75
+I1
+sVborn
+p76
+I1
+sVsee
+p77
+I2
+sVstreet
+p78
+I1
+sVdie
+p79
+I5
+sVmistcovered
+p80
+I1
+sVhero
+p81
+I1
+sVseag
+p82
+I3
+sVclick
+p83
+I1
+sVbest
+p84
+I1
+sVgon
+p85
+I2
+sVtussle
+p86
+I1
+sV3rd
+p87
+I1
+sVsleepin
+p88
+I4
+sVruthless
+p89
+I1
+sVsun
+p90
+I2
+sVbreathin
+p91
+I1
+sVhooked
+p92
+I1
+sVlights
+p93
+I1
+sVhealth
+p94
+I1
+sVhood
+p95
+I1
+sVit
+p96
+I1
+sVgot
+p97
+I8
+sVcause
+p98
+I9
+sVwatchin
+p99
+I1
+sVima
+p100
+I2
+sVone
+p101
+I1
+sVrun
+p102
+I1
+sVrisen
+p103
+I1
+sVcity
+p104
+I1
+sVlose
+p105
+I1
+sVridin
+p106
+I2
+sVhere
+p107
+I2
+sVmuthafucka
+p108
+I3
+sVnightmares
+p109
+I2
+sVpressure
+p110
+I1
+sVfocused
+p111
+I1
+sVozs
+p112
+I1
+sVsituation
+p113
+I1
+sVput
+p114
+I1
+sVgots
+p115
+I1
+sVcome
+p116
+I2
+sVbeaker
+p117
+I1
+sVon
+p118
+I4
+sVlast
+p119
+I1
+sVzone
+p120
+I1
+sVknowin
+p121
+I1
+sVjoke
+p122
+I1
+sVcould
+p123
+I1
+sVtimer
+p124
+I1
+sVkeep
+p125
+I3
+sVdrama
+p126
+I1
+sVfigures
+p127
+I1
+sVfloodin
+p128
+I1
+sVsoda
+p129
+I1
+sVsnakeass
+p130
+I1
+sVwhole
+p131
+I1
+sVlames
+p132
+I1
+sVfuckin
+p133
+I1
+sVfirst
+p134
+I1
+sVnamed
+p135
+I1
+sVdont
+p136
+I1
+sVweighs
+p137
+I1
+sVfeel
+p138
+I2
+sVmakin
+p139
+I2
+sVwalk
+p140
+I1
+sVstruggle
+p141
+I1
+sV69
+p142
+I1
+sVcouldnt
+p143
+I1
+sVcrew
+p144
+I1
+sVopen
+p145
+I1
+sVbusters
+p146
+I1
+sVmarket
+p147
+I1
+sVpirates
+p148
+I1
+sVeverybody
+p149
+I1
+sVwan
+p150
+I3
+sVstuck
+p151
+I1
+sVcreepin
+p152
+I1
+sVtakeovers
+p153
+I1
+sVfast
+p154
+I1
+sVnext
+p155
+I1
+sVrivals
+p156
+I1
+sVlive
+p157
+I1
+sVinner
+p158
+I1
+sVstrike
+p159
+I1
+sVgim
+p160
+I1
+sVman
+p161
+I1
+sVlife
+p162
+I3
+sVglock
+p163
+I1
+sVseagram
+p164
+I1
+sVslingin
+p165
+I1
+sVcollapsed
+p166
+I1
+sVgat
+p167
+I1
+sVfore
+p168
+I1
+sVback
+p169
+I1
+sVlabelled
+p170
+I1
+sVbelieve
+p171
+I1
+sVtrue
+p172
+I1
+sVrealities
+p173
+I1
+sVsleep
+p174
+I2
+sVbeeper
+p175
+I1
+sVme
+p176
+I2
+sVtryin
+p177
+I1
+sVtarget
+p178
+I1
+sVniggas
+p179
+I7
+sVwholesale
+p180
+I1
+sVmo
+p181
+I1
+sVup
+p182
+I4
+sVrope
+p183
+I1
+sVcake
+p184
+I1
+sVim
+p185
+I14
+sVdedicated
+p186
+I1
+sVgive
+p187
+I2
+sVescape
+p188
+I1
+sVnarcotics
+p189
+I1
+sVfuck
+p190
+I5
+sVrip
+p191
+I1
+sVspent
+p192
+I1
+sVhigh
+p193
+I1
+sVraw
+p194
+I1
+sVrise
+p195
+I1
+sVscarface
+p196
+I1
+sVin
+p197
+I1
+sVassassinated
+p198
+I1
+sVcheck
+p199
+I1
+sVshit
+p200
+I1
+sVzero
+p201
+I1
+sVcorners
+p202
+I1
+sVna
+p203
+I3
+sVself
+p204
+I1
+sVtrapped
+p205
+I1
+sVsnow
+p206
+I1
+sVhomeboy
+p207
+I3
+sVid
+p208
+I1
+sVtight
+p209
+I1
+sVfalsely
+p210
+I1
+sVextinguished
+p211
+I1
+sVsurvival
+p212
+I1
+sVwaitin
+p213
+I2
+sVkiller
+p214
+I1
+sVthreat
+p215
+I1
+sVeyes
+p216
+I3
+sVthough
+p217
+I1
+sVspot
+p218
+I1
+sVkeepin
+p219
+I1
+sV75
+p220
+I1
+sVfeds
+p221
+I1
+sVplan
+p222
+I2
+sVnever
+p223
+I1
+sVjealous
+p224
+I1
+sVlaw
+p225
+I1
+sVmentally
+p226
+I1
+sVnikes
+p227
+I6
+sVmenace
+p228
+I1
+sVuknowmsayin
+p229
+I6
+sVyoure
+p230
+I2
+sVsale
+p231
+I1
+sVjacket
+p232
+I1
+sVcooked
+p233
+I1
+sVblast
+p234
+I1
+sVcolas
+p235
+I1
+sVadvertisin
+p236
+I1
+sVfail
+p237
+I2
+sVgramm
+p238
+I1
+sVmake
+p239
+I1
+s.

@@ -1,84 +1,611 @@
-"sprinkle me" lyrics
-e-40 lyrics
-"sprinkle me"
-(feat. suga t)
-(burrrp, burp)
-yeah, hocus pocus, skiggedy skay
-it ain't nuttin but me
-that nigga e-40
-finna sprinkle some of you fools with some of this
-this g-a-m-e man some of this game
-understand my sista
-finna sprinkle you fools with sprinkle sista
-understand this doe
-it don't stop til the motherfucking glock pop
-(don't stop) and fuck a glock i'm fuckin with a 6r
-p226 diana ross cousin nina
-misdemeanor, that's what we do, understand it
-i be more hipper than a hippopotamus
-get off in your head like a neurologist
-pushin more weight than atlas
-got a partner by the name of 2pacalypse
-the seven-oh-seven my roots go hella far back to flor terrace
-i pull a forty out of my ballcap
-and den i flush it down my esopha-garus
-the group that i'm with the click
-suga, d-shot, legit
-family orientated
-game related, it's the shit
-killing motherfuckers off crucial
-sittin em down mutual
-running through these lyrics as if i was fibered
-like metamucil
-timah timah.... forty wata.. forty wata
-sprinkle me main, sprinkle me main, sprinkle me main, sprinkle me main
-big timah timah, big timah.... forty wata-ahh
-sprinkle me main, sprinkle me main, sprinkle me main
-kick that shit suga
-here comes the top notch, ooh ooh ooh here i be
-clicked out me suga t from the v
-i'm quick to smob (quick to smob), always down for the job
-ya gotta strut that's a gang of shot (gang of shot)
-ooh ooh ooh i'm a fool
-slangin more mail as i smobs through yo' hood
-straight shakin all, these bustas and busterettes
-tryin to claim fame off my chavez rep (chavez rep)
-ohh, why oh why must i be so tight? (why oh why)
-most folks tell me, suga you ain't right
-(why oh why suga you ain't right)
-it makes me wanna scream while i make ya holla
-pullin a gang of clout like that al-mighty dollar
-suga suga (ahh yeah that's me) suga suga
-that's my sista (you know my name!)
-sprinkle me girl, sprinkle me girl (ahaha)
-sprinkle me girl, sprinkle me girl
-suga suga (that's what they call me)
-dat's my sista (i ain't right!)
-sprinkle me girl, sprinkle me girl, sprinkle me girl, sprinkle me girl
-(check the flotation!)
-nigga phin on a playa makin mega
-tryin to knock the hustle just because we way too major
-(e they try to test your testicles, you know that shit ain't cool)
-suga don't make me have to come up out the sound booth
-and act a fuckin fool
-(all these old hoe-cake ass niggaz, they make me so damn sick)
-boom boom boom boom boom on a trick
-playa play her for false and get rubbed off ya don't want malse
-fuck around and get evaporated
-cause i'ma timah timah.... timah timah
-forty wata... forty wata
-sprinkle me main, sprinkle me main, sprinkle me main, sprinkle me main
-big timah timah... big timah
-forty wata... forty wata
-sprinkle me main, sprinkle me main, sprinkle me main
-that's what we do, beatch!
-understand this shit, understand it
-what's happenin suga, you in this bitch with me?
-(haha thought you heard)
-yeah that's what we do for the motherfuckin... nine-five
-(ha for the nine-five, yeah)
-sick wid it records, jive all the time
-(understandin the system main)
-it's mob city, v-town, it's mob city
-it's mob city v-town niggaz
-(mobbin through ya hood)
+(dp1
+Vshot
+p2
+I2
+sVesophagarus
+p3
+I1
+sVlyrics
+p4
+I3
+sVskiggedy
+p5
+I1
+sVdollar
+p6
+I1
+sVterrace
+p7
+I1
+sVgo
+p8
+I1
+sVmalse
+p9
+I1
+sVfeat
+p10
+I1
+sVboom
+p11
+I5
+sVhipper
+p12
+I1
+sVaint
+p13
+I5
+sVgroup
+p14
+I1
+sVtesticles
+p15
+I1
+sVtight
+p16
+I1
+sVvtown
+p17
+I2
+sVatlas
+p18
+I1
+sVmail
+p19
+I1
+sVmain
+p20
+I15
+sVkick
+p21
+I1
+sVross
+p22
+I1
+sVfool
+p23
+I2
+sVsound
+p24
+I1
+sVmisdemeanor
+p25
+I1
+sVaround
+p26
+I1
+sVyo
+p27
+I1
+sVget
+p28
+I3
+sVfar
+p29
+I1
+sVbig
+p30
+I4
+sVsittin
+p31
+I1
+sVstop
+p32
+I2
+sVstrut
+p33
+I1
+sVrecords
+p34
+I1
+sVgame
+p35
+I3
+sVclout
+p36
+I1
+sVflotation
+p37
+I1
+sVmob
+p38
+I3
+sVfalse
+p39
+I1
+sVahaha
+p40
+I1
+sVlike
+p41
+I3
+sVknock
+p42
+I1
+sVname
+p43
+I2
+sValways
+p44
+I1
+sVcool
+p45
+I1
+sVtry
+p46
+I1
+sVt
+I1
+sVquick
+p47
+I2
+sVhustle
+p48
+I1
+sVgang
+p49
+I3
+sVem
+p50
+I1
+sVnigga
+p51
+I2
+sVnuttin
+p52
+I1
+sVweight
+p53
+I1
+sVslangin
+p54
+I1
+sVdiana
+p55
+I1
+sVyeah
+p56
+I4
+sVrelated
+p57
+I1
+sVskay
+p58
+I1
+sVbooth
+p59
+I1
+sVflush
+p60
+I1
+sVgirl
+p61
+I8
+sVhoecake
+p62
+I1
+sVfinna
+p63
+I2
+sVhippopotamus
+p64
+I1
+sVtrick
+p65
+I1
+sVmotherfuckin
+p66
+I1
+sVrep
+p67
+I2
+sVcrucial
+p68
+I1
+sVforty
+p69
+I8
+sVsista
+p70
+I4
+sVroots
+p71
+I1
+sVplaya
+p72
+I2
+sVgot
+p73
+I2
+sVcause
+p74
+I1
+sVsmob
+p75
+I2
+sVass
+p76
+I1
+sVbe
+p77
+I1
+sVright
+p78
+I3
+sVcity
+p79
+I3
+sVmetamucil
+p80
+I1
+sVsuga
+p81
+I14
+sVkilling
+p82
+I1
+sVjob
+p83
+I1
+sVburp
+p84
+I1
+sVburrrp
+p85
+I1
+sVfuck
+p86
+I2
+sVcousin
+p87
+I1
+sVcome
+p88
+I1
+sVclicked
+p89
+I1
+sVlegit
+p90
+I1
+sVevaporated
+p91
+I1
+sVmega
+p92
+I1
+sVoh
+p93
+I3
+sVact
+p94
+I1
+sVneurologist
+p95
+I1
+sVpullin
+p96
+I1
+sVunderstandin
+p97
+I1
+sVmakes
+p98
+I1
+sVmotherfuckers
+p99
+I1
+sVfuckin
+p100
+I2
+sVthats
+p101
+I7
+sVmotherfucking
+p102
+I1
+sVmajor
+p103
+I1
+sVwid
+p104
+I1
+sVwhats
+p105
+I1
+sVdont
+p106
+I4
+sVfamily
+p107
+I1
+sVahh
+p108
+I1
+sVmakin
+p109
+I1
+sVpop
+p110
+I1
+sVhappenin
+p111
+I1
+sVbusterettes
+p112
+I1
+sVbitch
+p113
+I1
+sVold
+p114
+I1
+sVhood
+p115
+I2
+sVwan
+p116
+I1
+sVfibered
+p117
+I1
+sVninefive
+p118
+I2
+sVtop
+p119
+I1
+sVsmobs
+p120
+I1
+sVsystem
+p121
+I1
+sVmobbin
+p122
+I1
+sValmighty
+p123
+I1
+sVcall
+p124
+I1
+sVway
+p125
+I1
+sVjive
+p126
+I1
+sVdamn
+p127
+I1
+sVtryin
+p128
+I2
+sVtell
+p129
+I1
+sVballcap
+p130
+I1
+sVhead
+p131
+I1
+sVglock
+p132
+I2
+sVhaha
+p133
+I1
+sVooh
+p134
+I6
+sVback
+p135
+I1
+sVfolks
+p136
+I1
+sV6r
+p137
+I1
+sVunderstand
+p138
+I5
+sVp226
+p139
+I1
+sVha
+p140
+I1
+sVmust
+p141
+I1
+sVme
+p142
+I4
+sVpull
+p143
+I1
+sVe40
+p144
+I2
+sVbeatch
+p145
+I1
+sVthis
+p146
+I1
+sVstraight
+p147
+I1
+sVniggaz
+p148
+I2
+sVnina
+p149
+I1
+sV2pacalypse
+p150
+I1
+sVden
+p151
+I1
+sVv
+I1
+sVta
+p152
+I1
+sVpushin
+p153
+I1
+sVclaim
+p154
+I1
+sVohh
+p155
+I1
+sVplay
+p156
+I1
+sVit
+p157
+I2
+sVheard
+p158
+I1
+sVim
+p159
+I4
+sVwant
+p160
+I1
+sVpartner
+p161
+I1
+sVfame
+p162
+I1
+sVshit
+p163
+I4
+sVholla
+p164
+I1
+sVmutual
+p165
+I1
+sVhocus
+p166
+I1
+sVrubbed
+p167
+I1
+sVcheck
+p168
+I1
+sVna
+p169
+I1
+sVmake
+p170
+I3
+sVclick
+p171
+I1
+sVtil
+p172
+I1
+sVya
+p173
+I4
+sVshakin
+p174
+I1
+sVphin
+p175
+I1
+sVorientated
+p176
+I1
+sVsick
+p177
+I2
+sVtest
+p178
+I1
+sVsevenohseven
+p179
+I1
+sVfools
+p180
+I2
+sVpocus
+p181
+I1
+sVsprinkle
+p182
+I27
+sVchavez
+p183
+I2
+sVtimah
+p184
+I12
+sVscream
+p185
+I1
+sVima
+p186
+I1
+sVwata
+p187
+I6
+sVdats
+p188
+I1
+sVrunning
+p189
+I1
+sVwhy
+p190
+I1
+sVman
+p191
+I1
+sVdshot
+p192
+I1
+sVe
+I1
+sVbustas
+p193
+I1
+sVflor
+p194
+I1
+sVdoe
+p195
+I1
+sVthought
+p196
+I1
+sVhella
+p197
+I1
+sVcomes
+p198
+I1
+sVtime
+p199
+I1
+sVnotch
+p200
+I1
+sVwataahh
+p201
+I1
+sVknow
+p202
+I2
+s.

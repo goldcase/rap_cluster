@@ -1,83 +1,756 @@
-two words lyrics
-kanye west lyrics
-two words
-feat mos def freeway harlem boys choir
-streets playa getcha mail
-two places youll end  either dead jail
-still nowhere gostill nowhere go
-throw ya hands bustless bustas boostas hoes
-everybody fuck that
-still nowhere gosill nowhere go
-two words united states love brakes
-low brow high stakes crack smoke black folks
-big macs fat folks ecstasy capsules
-presidential scandals everybody move
-two words mos def k west hot shit
-calm get back ghetto people got this
-game ball lock shit dump cock shit
-wont stop shit everybody move
-two words bk  ny bedstuy
-two hawks hungry many thats why
-streets know game cant ball dont play
-every traffic one lane everybody move
-two words mos def black check hot shit
-calm get back ghetto people got this
-game point lock long pump cocked
-wont stop everybody move
-throw ya hands bustless bustas throw hands high
-boostas hoes everybody fuck ohhhhhh
-still nowhere gostill nowhere go ohhhhhh
-keep ya hands bustless bustas till reach sky
-boostas hoes everybody fuck ohhhhhh
-still nowhere gostill nowhere go ohhhhhh
-aiyyo two words chi town south side world wide
-cuz rep till fuckin die
-one neck two chains one waist two gats
-one wall twenty plaques dudes say gimme that
-limelight blueprint 5 mics
-go getters rhyme like shoulda signed twice
-imitated grammy nominated
-hotel accommodated cheerleader prom dated
-barbershop playa hated mom pop bootlegged it
-felt like rained till roof caved in
-two words chi town raised crazy
-live two words fuck pay me
-screamin jesus save me
-know game be
-cant let em change me
-cuz judgment day gon blame me
-look god me
-throw basically know could racially profile high
-cuffed hosed pimped hoe ohhhhhh
-plus got whole city hold ohhhhhh
-bottom top
-place go down
-two words freeway two letters ar
-turn yall rap niggaz two words fast runners
-like jackie jurner better sleep burner
-heat skeet blow reef ya car
-god two words guns break arms
-break necks break backs steven segul
-freeyoung bars fresh men roc
-left beef pot jay sent dogs
-broads forget ya squad let em find yourself
-screamin four words send lord
-two words freeways slightly retarded
-fuck around throw clip ya artist leave broad
-throw red white
-hands blue black
-throw calm down
-hands move back
-throw motherfuckers askin
-hands that
-throw know the
-hands almighty mighty johnny jack
-throw mos def
-hands k west
-throw go people
-hands get shit ya chest
-throw north south
-hands east west
-throw got concert
-hands contest
-high show em like
+(dp1
+Vmom
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVburner
+p5
+I1
+sVmove
+p6
+I5
+sVnominated
+p7
+I1
+sVfour
+p8
+I1
+sVjurner
+p9
+I1
+sVracially
+p10
+I1
+sVgo
+p11
+I7
+sVkanye
+p12
+I1
+sVstill
+p13
+I4
+sVfeat
+p14
+I1
+sVfind
+p15
+I1
+sVcocked
+p16
+I1
+sVlimelight
+p17
+I1
+sVtill
+p18
+I3
+sVhated
+p19
+I1
+sVsky
+p20
+I1
+sVcuz
+p21
+I2
+sVsend
+p22
+I1
+sVbetter
+p23
+I1
+sVblack
+p24
+I3
+sVniggaz
+p25
+I1
+sVjohnny
+p26
+I1
+sVcrack
+p27
+I1
+sVfolks
+p28
+I2
+sVmail
+p29
+I1
+sVsave
+p30
+I1
+sVsent
+p31
+I1
+sVme
+p32
+I6
+sVroc
+p33
+I1
+sVcapsules
+p34
+I1
+sVaround
+p35
+I1
+sVget
+p36
+I3
+sVya
+p37
+I7
+sVbig
+p38
+I1
+sVstop
+p39
+I2
+sVfat
+p40
+I1
+sVbreak
+p41
+I3
+sVgame
+p42
+I4
+sVevery
+p43
+I1
+sVknow
+p44
+I4
+sVwords
+p45
+I14
+sVhands
+p46
+I12
+sVworld
+p47
+I1
+sVjesus
+p48
+I1
+sVday
+p49
+I1
+sVpresidential
+p50
+I1
+sVghetto
+p51
+I2
+sVwont
+p52
+I2
+sVlike
+p53
+I4
+sVjack
+p54
+I1
+sVartist
+p55
+I1
+sVdie
+p56
+I1
+sVhotel
+p57
+I1
+sVpimped
+p58
+I1
+sVchest
+p59
+I1
+sVchoir
+p60
+I1
+sVtwice
+p61
+I1
+sVhosed
+p62
+I1
+sVeither
+p63
+I1
+sVaccommodated
+p64
+I1
+sVside
+p65
+I1
+sVyall
+p66
+I1
+sVem
+p67
+I3
+sVbars
+p68
+I1
+sVcould
+p69
+I1
+sVdump
+p70
+I1
+sVpeople
+p71
+I3
+sVstreets
+p72
+I2
+sVback
+p73
+I3
+sVdead
+p74
+I1
+sVaskin
+p75
+I1
+sVmighty
+p76
+I1
+sVroof
+p77
+I1
+sVhoes
+p78
+I3
+sVarms
+p79
+I1
+sVblue
+p80
+I1
+sVscandals
+p81
+I1
+sVgon
+p82
+I1
+sVbottom
+p83
+I1
+sVgod
+p84
+I2
+sVrep
+p85
+I1
+sVcaved
+p86
+I1
+sVpump
+p87
+I1
+sVfreeyoung
+p88
+I1
+sVplaya
+p89
+I2
+sVgot
+p90
+I4
+sVyoull
+p91
+I1
+sVguns
+p92
+I1
+sVred
+p93
+I1
+sVwide
+p94
+I1
+sVbe
+p95
+I1
+sVskeet
+p96
+I1
+sVbootlegged
+p97
+I1
+sVmen
+p98
+I1
+sVohhhhhh
+p99
+I6
+sVgostill
+p100
+I3
+sVblame
+p101
+I1
+sVlet
+p102
+I2
+sVnowhere
+p103
+I8
+sVbk
+p104
+I1
+sVthrow
+p105
+I13
+sVchange
+p106
+I1
+sVmos
+p107
+I4
+sVmany
+p108
+I1
+sVboostas
+p109
+I3
+sVjay
+p110
+I1
+sVjackie
+p111
+I1
+sVscreamin
+p112
+I2
+sVkeep
+p113
+I1
+sVprom
+p114
+I1
+sVplus
+p115
+I1
+sVdated
+p116
+I1
+sVsmoke
+p117
+I1
+sVchi
+p118
+I2
+sVwhole
+p119
+I1
+sVmotherfuckers
+p120
+I1
+sVsouth
+p121
+I2
+sVthats
+p122
+I1
+sVimitated
+p123
+I1
+sVraised
+p124
+I1
+sVchains
+p125
+I1
+sVlove
+p126
+I1
+sVdont
+p127
+I1
+sVpoint
+p128
+I1
+sVwall
+p129
+I1
+sVpot
+p130
+I1
+sVdudes
+p131
+I1
+sVone
+p132
+I4
+sVdown
+p133
+I2
+sVpop
+p134
+I1
+sVyourself
+p135
+I1
+sVfast
+p136
+I1
+sVcheerleader
+p137
+I1
+sVforget
+p138
+I1
+sVconcert
+p139
+I1
+sVeverybody
+p140
+I7
+sVcity
+p141
+I1
+sVbrakes
+p142
+I1
+sVbeef
+p143
+I1
+sVwest
+p144
+I4
+sVtop
+p145
+I1
+sVhawks
+p146
+I1
+sVtwo
+p147
+I18
+sVlong
+p148
+I1
+sVshoulda
+p149
+I1
+sValmighty
+p150
+I1
+sVlive
+p151
+I1
+sVlow
+p152
+I1
+sVblow
+p153
+I1
+sVgim
+p154
+I1
+sVdogs
+p155
+I1
+sVcalm
+p156
+I3
+sVblueprint
+p157
+I1
+sVnorth
+p158
+I1
+sVthat
+p159
+I3
+sVgetcha
+p160
+I1
+sVgetters
+p161
+I1
+sVmics
+p162
+I1
+sVsegul
+p163
+I1
+sVit
+p164
+I1
+sVboys
+p165
+I1
+sVheat
+p166
+I1
+sVgrammy
+p167
+I1
+sVbasically
+p168
+I1
+sVreef
+p169
+I1
+sVlord
+p170
+I1
+sVhold
+p171
+I1
+sVrunners
+p172
+I1
+sVwhite
+p173
+I1
+sVsleep
+p174
+I1
+sVwaist
+p175
+I1
+sVtown
+p176
+I2
+sVhigh
+p177
+I4
+sVeast
+p178
+I1
+sVlook
+p179
+I1
+sVplaces
+p180
+I1
+sVthis
+p181
+I2
+sVcar
+p182
+I1
+sVtwenty
+p183
+I1
+sVsigned
+p184
+I1
+sVsteven
+p185
+I1
+sVbroads
+p186
+I1
+sVar
+p187
+I1
+sVbarbershop
+p188
+I1
+sVletters
+p189
+I1
+sVsay
+p190
+I1
+sVcock
+p191
+I1
+sVk
+I2
+sVdef
+p192
+I4
+sVcrazy
+p193
+I1
+sVclip
+p194
+I1
+sVlock
+p195
+I2
+sVbrow
+p196
+I1
+sVfuck
+p197
+I5
+sVstates
+p198
+I1
+sVecstasy
+p199
+I1
+sVcant
+p200
+I2
+sVrained
+p201
+I1
+sVnecks
+p202
+I1
+sVrap
+p203
+I1
+sVin
+p204
+I1
+sVbedstuy
+p205
+I1
+sVplaques
+p206
+I1
+sVcheck
+p207
+I1
+sVshit
+p208
+I6
+sVretarded
+p209
+I1
+sVunited
+p210
+I1
+sVend
+p211
+I1
+sVbustless
+p212
+I3
+sVturn
+p213
+I1
+sVpay
+p214
+I1
+sVbacks
+p215
+I1
+sVgats
+p216
+I1
+sVny
+p217
+I1
+sVhot
+p218
+I2
+sVsquad
+p219
+I1
+sV5
+I1
+sVplace
+p220
+I1
+sVcuffed
+p221
+I1
+sVprofile
+p222
+I1
+sVplay
+p223
+I1
+sVball
+p224
+I2
+sVmacs
+p225
+I1
+sVgosill
+p226
+I1
+sVrhyme
+p227
+I1
+sVfelt
+p228
+I1
+sVreach
+p229
+I1
+sVaiyyo
+p230
+I1
+sVleave
+p231
+I1
+sVhoe
+p232
+I1
+sVfresh
+p233
+I1
+sVjudgment
+p234
+I1
+sVwhy
+p235
+I1
+sVfreeways
+p236
+I1
+sVstakes
+p237
+I1
+sVlane
+p238
+I1
+sVneck
+p239
+I1
+sVbustas
+p240
+I3
+sVslightly
+p241
+I1
+sVcontest
+p242
+I1
+sVhungry
+p243
+I1
+sVfreeway
+p244
+I2
+sVjail
+p245
+I1
+sVfuckin
+p246
+I1
+sVbroad
+p247
+I1
+sVtraffic
+p248
+I1
+sVthe
+p249
+I1
+sVharlem
+p250
+I1
+sVleft
+p251
+I1
+s.

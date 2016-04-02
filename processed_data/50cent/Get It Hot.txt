@@ -1,57 +1,350 @@
-"get it hot" lyrics
-50 cent lyrics
-"get it hot"
-(feat. lloyd banks)
-i get down, i get down, i get down (yeah, yeah)
-i get down, i get down (i like the way that sounds)
-i get down, i get down, i get down (yeah, yeah)
-i get down, i get down
-get it get it get it hot hot hot hot hot
-get it get it get it hot hot hot hot hot
-get it get it get it hot
-oh i think she like me, hell yeah she like me
-my watch game crazy, audemar's so icy
-she like it when i stunt, me i'm what she want
-i'm in that rich nigga fraternity, we only talk bread (get it get it get it)
-got money out the asshole, the money on my head
-don't mean nothin, i said don't mean nothin (get it get it get it)
-the rose in the rover i'm drinkin and i'm drivin
-that nigga try and get at me i'm pullin out and firin
-to see if i'm stuntin, the piece it ain't nothin
-royal fees ain't nothin, i just blow a lil' somethin
-now shorty got a thing for me she feel like i'm the shit
-my guess is i'm the kind of nigga she wanna be with
-hot hot hot hot hot
-get it get it get it hot hot hot hot hot
-get it get it get it hot
-(she want me, yeah yeah, she want me)
-(she want me, why you think she on me?)
-get it get it get it hot hot hot hot hot
-get it get it get it hot hot hot hot hot
-get it get it get it hot
-(she want me, yeah yeah, she want me)
-(she want me, why you think she on me?)
-get it get it get it
-i'm a substitute teacher, welcome to sex ed.
-she'll be an a student time she get out my bed
-i'm flashy, i'm rollin with the stones
-get at me, i'm movin with the chrome (get it get it get it)
-a made man, a don corleone
-no matter where i'm at i'm doin what the fuck i want
-i'm shinin, my wrists all canary
-now try me, i keep a shooter near me
-i'm grindin, like i ain't made my first mil'
-like i ain't signed a first deal, like i ain't at the first meal
-i'm hungry, i really want it all
-now watch me, i'll show you how to ball (get it get it get it)
-life in the fast lane, fast car fast cash
-freak bitch, fast ass (get it get it get it)
-i'm where the money at mayne, fast on the draw
-fast runnin from the law (get it get it get it)
-she like the bad boys, the bad boys
-the bad boys (get it get it get it)
-she like the bad boys, the bad boys
-the bad boys (get it get it get it)
-get it get it get it
-get it get it get it
-get it get it get it
+(dp1
+Vstones
+p2
+I1
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoney
+p6
+I3
+sVcanary
+p7
+I1
+sVaudemars
+p8
+I1
+sVlloyd
+p9
+I1
+sVhell
+p10
+I1
+sVfeat
+p11
+I1
+sVdrinkin
+p12
+I1
+sVrover
+p13
+I1
+sVrose
+p14
+I1
+sVroyal
+p15
+I1
+sVrich
+p16
+I1
+sVrunnin
+p17
+I1
+sVget
+p18
+I75
+sVwatch
+p19
+I2
+sVgame
+p20
+I1
+sVbitch
+p21
+I1
+sVstunt
+p22
+I1
+sVbread
+p23
+I1
+sVlike
+p24
+I10
+sV50
+p25
+I1
+sVtry
+p26
+I2
+sVbad
+p27
+I6
+sVflashy
+p28
+I1
+sVmeal
+p29
+I1
+sVmean
+p30
+I2
+sVnigga
+p31
+I3
+sVdeal
+p32
+I1
+sVed
+p33
+I1
+sVyeah
+p34
+I9
+sVsex
+p35
+I1
+sVsee
+p36
+I1
+sVshinin
+p37
+I1
+sVsigned
+p38
+I1
+sVsubstitute
+p39
+I1
+sVreally
+p40
+I1
+sVmovin
+p41
+I1
+sVsaid
+p42
+I1
+sVgrindin
+p43
+I1
+sVicy
+p44
+I1
+sVgot
+p45
+I2
+sVass
+p46
+I1
+sVblow
+p47
+I1
+sVdrivin
+p48
+I1
+sVmayne
+p49
+I1
+sVteacher
+p50
+I1
+sVstuntin
+p51
+I1
+sVoh
+p52
+I1
+sVill
+p53
+I1
+sVkeep
+p54
+I1
+sVthing
+p55
+I1
+sVfraternity
+p56
+I1
+sVpullin
+p57
+I1
+sVthink
+p58
+I3
+sVfirst
+p59
+I3
+sVdont
+p60
+I2
+sVfeel
+p61
+I1
+sVdown
+p62
+I1
+sVfast
+p63
+I6
+sVfees
+p64
+I1
+sVsounds
+p65
+I1
+sVwan
+p66
+I1
+sVguess
+p67
+I1
+sVaint
+p68
+I5
+sVchrome
+p69
+I1
+sVcent
+p70
+I1
+sVway
+p71
+I1
+sVhead
+p72
+I1
+sVshell
+p73
+I1
+sVshorty
+p74
+I1
+sVfuck
+p75
+I1
+sVboys
+p76
+I6
+sVcorleone
+p77
+I1
+sVwith
+p78
+I1
+sVme
+p79
+I6
+sVkind
+p80
+I1
+sVmade
+p81
+I2
+sVcar
+p82
+I1
+sVcash
+p83
+I1
+sVbed
+p84
+I1
+sVmatter
+p85
+I1
+sVnear
+p86
+I1
+sVpiece
+p87
+I1
+sVcrazy
+p88
+I1
+sVfreak
+p89
+I1
+sVit
+p90
+I12
+sVim
+p91
+I18
+sVnothin
+p92
+I4
+sVwant
+p93
+I9
+sVshit
+p94
+I1
+sVmil
+p95
+I1
+sVlil
+p96
+I1
+sVna
+p97
+I1
+sVfirin
+p98
+I1
+sVhot
+p99
+I35
+sVasshole
+p100
+I1
+sVdraw
+p101
+I1
+sVball
+p102
+I1
+sVwrists
+p103
+I1
+sVdoin
+p104
+I1
+sVwelcome
+p105
+I1
+sVstudent
+p106
+I1
+sVlaw
+p107
+I1
+sVman
+p108
+I1
+sVsomethin
+p109
+I1
+sVlane
+p110
+I1
+sVshooter
+p111
+I1
+sVlife
+p112
+I1
+sVhungry
+p113
+I1
+sVrollin
+p114
+I1
+sVtime
+p115
+I1
+sVbanks
+p116
+I1
+sVtalk
+p117
+I1
+s.

@@ -1,66 +1,535 @@
-"dirty dancer" lyrics
-snoop dogg lyrics
-"dirty dancer"
-(feat. trey songz)
-i wanna see you working baby, you’re my dirty dancer
-you’re my dirty dancer
-you’re my dirty dancer
-you’re my dirty dancer
-you’re my, you’re my dirty dancer
-you’re my dirty dancer
-you’re my dirty dancer
-you’re my dirty dancer
-that’s my dirty girl, she do her dirty dance
-she get dirty money, for her dirty man
-she give me everything, she take her dirty chance
-she say i’m something new, not like her other man
-well let me do the thinking, this what i recommend
-my nigger money talk that’s what she comprehend
-say that sad story, you hear them violins?
-and for a tall glass of landy, here it is
-she living in my lap, just like a two for one
-see that’s the fact, couple of stacks, she gonna leave with one
-shoot that weak gang, like a bb gun
-and watch her do her thang, oh she gonna get it done
-this girl body out the game, she a home run
-she my dirty dancer, i owe her one
-system overload, brain overdone, it’s big snoop dogg,
-go on sing it trey songz
-you know money aint a thang, i love the way you working it
-drinks on me cause i love the way you twerkin’ it
-tell me is you ready? what’s your answer shorty?
-you’re my dirty dancer
-you’re my dirty dancer
-the cash on deck, what you working with
-face down, ass up
-from the club to the crib, you know what it is
-you’re my, you’re my dirty, you’re my dirty dancer
-she my dirty dancer, this her favorite song
-and when she at the house, when she all alone
-she in the mirror dancing nasty with no panties on
-i see you girl, fantasizing about to set the tone
-can’t wait to put your heels, and stilettos on
-i know you’re ready show the world what you really on
-dancing like that, you might need a license
-so enticing, dancing while she setting prices
-damn, thats dangerous but lucrative
-do it right, go big and you get super rich
-with that fat ass and them super hips
-slow motion mami, we know you the shit
-it’s a dirty world so be a dirty chick
-and i’ll do them other girls this about chips
-let it take control and make it make sense
-money ain’t a thang, you’re my dirty chick
-girl you know i want it, don’t you want it too
-i can do whatever, he was never ever gonna do
-girl your body’s so sick, i just wanna touch you
-take your clothes off and your toes curl up
-do ya body body like nobody never do
-get it like ohhh, do it,
-once we’ve done it, you’ll be feeling like ooooooh
-had a lot of women but nobody like yooou
-girl the way you move
-baby puyt ya tricks on me
-and she do it real quick, 6 feet
-get ya red lipstick please
-do ya dirty dance on me
+(dp1
+Vlyrics
+p2
+I2
+sVdeck
+p3
+I1
+sVdance
+p4
+I2
+sVmoney
+p5
+I4
+sVmove
+p6
+I1
+sVbrain
+p7
+I1
+sVgang
+p8
+I1
+sVgo
+p9
+I2
+sVtone
+p10
+I1
+sVfeat
+p11
+I1
+sVaint
+p12
+I1
+sVslow
+p13
+I1
+sVthinking
+p14
+I1
+sVthang
+p15
+I3
+sVit\u2019s
+p16
+I2
+sVcomprehend
+p17
+I1
+sVrich
+p18
+I1
+sVohhh
+p19
+I1
+sVmight
+p20
+I1
+sVreal
+p21
+I1
+sVdo
+p22
+I2
+sVget
+p23
+I5
+sVi\u2019m
+p24
+I1
+sVbig
+p25
+I2
+sVcouple
+p26
+I1
+sVwatch
+p27
+I1
+sVoverdone
+p28
+I1
+sVme
+p29
+I2
+sVgame
+p30
+I1
+sVknow
+p31
+I5
+sVworld
+p32
+I2
+sVnasty
+p33
+I1
+sVchips
+p34
+I1
+sVfantasizing
+p35
+I1
+sVlike
+p36
+I8
+sVever
+p37
+I1
+sVgun
+p38
+I1
+sVleave
+p39
+I1
+sVnigger
+p40
+I1
+sVyou\u2019ll
+p41
+I1
+sVquick
+p42
+I1
+sVchick
+p43
+I2
+sVclothes
+p44
+I1
+sVass
+p45
+I2
+sVset
+p46
+I1
+sVhouse
+p47
+I1
+sVyou\u2019re
+p48
+I16
+sVtouch
+p49
+I1
+sVsee
+p50
+I3
+sVmirror
+p51
+I1
+sVhome
+p52
+I1
+sVgirl
+p53
+I6
+sVdrinks
+p54
+I1
+sVliving
+p55
+I1
+sVyooou
+p56
+I1
+sVgon
+p57
+I3
+sVlipstick
+p58
+I1
+sVfat
+p59
+I1
+sVpuyt
+p60
+I1
+sVoverload
+p61
+I1
+sVeverything
+p62
+I1
+sVnew
+p63
+I1
+sVcause
+p64
+I1
+sVred
+p65
+I1
+sVbody
+p66
+I3
+sVtoes
+p67
+I1
+sVrun
+p68
+I1
+sVbb
+p69
+I1
+sVnever
+p70
+I2
+sVweak
+p71
+I1
+sVtwerkin\u2019
+p72
+I1
+sVplease
+p73
+I1
+sVlet
+p74
+I2
+sValone
+p75
+I1
+sVsing
+p76
+I1
+sVsuper
+p77
+I2
+sVwait
+p78
+I1
+sVon
+p79
+I3
+sVsnoop
+p80
+I2
+sVlicense
+p81
+I1
+sVoh
+p82
+I1
+sVviolins
+p83
+I1
+sVfavorite
+p84
+I1
+sVmotion
+p85
+I1
+sVlucrative
+p86
+I1
+sVthats
+p87
+I1
+sVprices
+p88
+I1
+sV6
+I1
+sVlove
+p89
+I2
+sVowe
+p90
+I1
+sVlandy
+p91
+I1
+sVcrib
+p92
+I1
+sVone
+p93
+I3
+sVfeet
+p94
+I1
+sVput
+p95
+I1
+sVdancer
+p96
+I15
+sVdone
+p97
+I2
+sVwan
+p98
+I2
+sVstory
+p99
+I1
+sVworking
+p100
+I3
+sVdogg
+p101
+I2
+sVgirls
+p102
+I1
+sVsystem
+p103
+I1
+sVmami
+p104
+I1
+sVdamn
+p105
+I1
+sVdon\u2019t
+p106
+I1
+sVway
+p107
+I3
+sVrecommend
+p108
+I1
+sVshow
+p109
+I1
+sVreally
+p110
+I1
+sVtell
+p111
+I1
+sVtoo
+p112
+I1
+sVi\u2019ll
+p113
+I1
+sVclub
+p114
+I1
+sVbody\u2019s
+p115
+I1
+sVnobody
+p116
+I2
+sVshorty
+p117
+I1
+sVglass
+p118
+I1
+sVwhatever
+p119
+I1
+sVhear
+p120
+I1
+sVbaby
+p121
+I2
+sVhips
+p122
+I1
+sVwith
+p123
+I1
+sVwomen
+p124
+I1
+sVshoot
+p125
+I1
+sVdangerous
+p126
+I1
+sVain\u2019t
+p127
+I1
+sVcash
+p128
+I1
+sVtrey
+p129
+I2
+sVwhat\u2019s
+p130
+I1
+sVdirty
+p131
+I25
+sVfeeling
+p132
+I1
+sVcontrol
+p133
+I1
+sVgive
+p134
+I1
+sVis
+p135
+I2
+sVwe\u2019ve
+p136
+I1
+sVit
+p137
+I3
+sVsad
+p138
+I1
+sVheels
+p139
+I1
+sVsay
+p140
+I2
+sVright
+p141
+I1
+sVsomething
+p142
+I1
+sVwant
+p143
+I2
+sVsense
+p144
+I1
+sVready
+p145
+I2
+sVcurl
+p146
+I1
+sVshit
+p147
+I1
+sVdancing
+p148
+I3
+sVna
+p149
+I5
+sVmake
+p150
+I2
+sVsong
+p151
+I1
+sVya
+p152
+I4
+sVneed
+p153
+I1
+sVsetting
+p154
+I1
+sVstilettos
+p155
+I1
+sVtake
+p156
+I3
+sVsick
+p157
+I1
+sVanswer
+p158
+I1
+sVyou
+p159
+I1
+sVpanties
+p160
+I1
+sVcan\u2019t
+p161
+I1
+sVthat\u2019s
+p162
+I3
+sVenticing
+p163
+I1
+sVooooooh
+p164
+I1
+sVchance
+p165
+I1
+sVlot
+p166
+I1
+sVtwo
+p167
+I1
+sVlap
+p168
+I1
+sVman
+p169
+I2
+sVup
+p170
+I2
+sVtricks
+p171
+I1
+sVwell
+p172
+I1
+sVface
+p173
+I1
+sVtalk
+p174
+I1
+sVsongz
+p175
+I2
+sVtall
+p176
+I1
+sVstacks
+p177
+I1
+sVfact
+p178
+I1
+s.

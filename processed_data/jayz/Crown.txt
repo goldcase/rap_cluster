@@ -1,48 +1,433 @@
-"crown" lyrics
-jay-z lyrics
-"crown"
-they can't keep a gooda man down
-always keep a smile when they want me to frowns
-keep the vibes and they stood my grounds
-they will never ever take my crown
-who jah bless i say no man curse
-things gettin' better when they thought it would be worse
-here comes the officers askin' for a search
-they found no weapon just only a draw of herbs
-you in the presence of a king
-scratch that, you in the presence of a god
-put in the belly of the beast
-i escaped, a nigga never had a job
-scott boras, you over baby
-robinson cano, you coming with me
-these niggas is like rotary phones
-it's a new day, hit up kd
-niggas always try to knock a nigga down
-knock me to my knees about a million times
-uncle said i'll never sell a million records
-i sold a million records like a million times
-these niggas shouldn't let me in
-i ball so hard on espn
-see my name come across on cnn
-'bout 6 minutes, you gonna see it again
-'bout 6 minutes, you gonna see me again
-shit on me
-these niggas tried to shit on me
-i was left for dead
-they tried to wipe me out of your history
-bulletproof glass, glass roof like the pope
-bulletproof love, niggas down since the yolk
-bitch asked if i was god
-fuck i'm supposed to say, "no"
-you already seen me turn a man to a g.o.a.t.
-you already know what i could do with the coke
-drop it in the water, made it disappear
-i made it reappear, i had that bitch on a rope
-i make my roof get ghost
-bottom grill, i make my tooth get gold
-all the shit did, i wasn't supposed to live
-hallelujah hov
-wasn't for the 'caine wouldn't be able
-wasn't for the bread, probably be dead
-best friends become ya enemies
-niggas' knives are double-edged
+(dp1
+Vlyrics
+p2
+I2
+sVscratch
+p3
+I1
+sVscott
+p4
+I1
+sVpope
+p5
+I1
+sVwipe
+p6
+I1
+sVbetter
+p7
+I1
+sVgon
+p8
+I2
+sVjah
+p9
+I1
+sVboras
+p10
+I1
+sVsmile
+p11
+I1
+sVbout
+p12
+I2
+sVbread
+p13
+I1
+sVbelly
+p14
+I1
+sVhit
+p15
+I1
+sVworse
+p16
+I1
+sVget
+p17
+I2
+sVya
+p18
+I1
+sVrecords
+p19
+I2
+sVknow
+p20
+I1
+sVcaine
+p21
+I1
+sVday
+p22
+I1
+sVlike
+p23
+I3
+sVknock
+p24
+I2
+sVname
+p25
+I1
+sValways
+p26
+I2
+sVgettin
+p27
+I1
+sVshouldnt
+p28
+I1
+sVtry
+p29
+I1
+sVvibes
+p30
+I1
+sVhallelujah
+p31
+I1
+sVfound
+p32
+I1
+sVnigga
+p33
+I2
+sVespn
+p34
+I1
+sVphones
+p35
+I1
+sVhard
+p36
+I1
+sVcrown
+p37
+I3
+sVdead
+p38
+I2
+sVyolk
+p39
+I1
+sVsee
+p40
+I3
+sVaskin
+p41
+I1
+sVbest
+p42
+I1
+sVenemies
+p43
+I1
+sVknees
+p44
+I1
+sVturn
+p45
+I1
+sVcurse
+p46
+I1
+sVstood
+p47
+I1
+sVbottom
+p48
+I1
+sVgod
+p49
+I2
+sVsince
+p50
+I1
+sVfrowns
+p51
+I1
+sVdisappear
+p52
+I1
+sVcnn
+p53
+I1
+sVnew
+p54
+I1
+sVever
+p55
+I1
+sVacross
+p56
+I1
+sVnever
+p57
+I3
+sVsold
+p58
+I1
+sVmillion
+p59
+I4
+sVwater
+p60
+I1
+sVjob
+p61
+I1
+sVlet
+p62
+I1
+sVbecome
+p63
+I1
+sVput
+p64
+I1
+sVcome
+p65
+I1
+sVsearch
+p66
+I1
+sVwouldnt
+p67
+I1
+sVbulletproof
+p68
+I2
+sVreappear
+p69
+I1
+sVill
+p70
+I1
+sVtimes
+p71
+I2
+sVgooda
+p72
+I1
+sVasked
+p73
+I1
+sVcomes
+p74
+I1
+sVgrounds
+p75
+I1
+sValready
+p76
+I2
+sVlove
+p77
+I1
+sVpresence
+p78
+I2
+sVdown
+p79
+I2
+sVjayz
+p80
+I1
+sVbitch
+p81
+I2
+sVdoubleedged
+p82
+I1
+sVwould
+p83
+I1
+sVlive
+p84
+I1
+sV6
+I2
+sVcoke
+p85
+I1
+sVglass
+p86
+I2
+sVuncle
+p87
+I1
+sVbaby
+p88
+I1
+sVprobably
+p89
+I1
+sVgold
+p90
+I1
+sVme
+p91
+I3
+sVking
+p92
+I1
+sVmade
+p93
+I2
+sVniggas
+p94
+I6
+sVsay
+p95
+I2
+sVroof
+p96
+I2
+sVrope
+p97
+I1
+sVknives
+p98
+I1
+sVsupposed
+p99
+I2
+sVminutes
+p100
+I2
+sVcould
+p101
+I1
+sVhistory
+p102
+I1
+sVwasnt
+p103
+I3
+sVcano
+p104
+I1
+sVfuck
+p105
+I1
+sVescaped
+p106
+I1
+sVcant
+p107
+I1
+sVim
+p108
+I1
+sVwant
+p109
+I1
+sVin
+p110
+I1
+sVseen
+p111
+I1
+sVkeep
+p112
+I3
+sVrobinson
+p113
+I1
+sVshit
+p114
+I3
+sVsell
+p115
+I1
+sVagain
+p116
+I2
+sVno
+p117
+I1
+sVthings
+p118
+I1
+sVbless
+p119
+I1
+sVable
+p120
+I1
+sVofficers
+p121
+I1
+sVgrill
+p122
+I1
+sVhov
+p123
+I1
+sVtake
+p124
+I1
+sVgoat
+p125
+I1
+sVdraw
+p126
+I1
+sVball
+p127
+I1
+sVtried
+p128
+I2
+sVbeast
+p129
+I1
+sVherbs
+p130
+I1
+sVsaid
+p131
+I1
+sVcoming
+p132
+I1
+sVfriends
+p133
+I1
+sVman
+p134
+I3
+sVghost
+p135
+I1
+sVdrop
+p136
+I1
+sVkd
+p137
+I1
+sVweapon
+p138
+I1
+sVrotary
+p139
+I1
+sVtooth
+p140
+I1
+sVthought
+p141
+I1
+sVna
+p142
+I2
+sVmake
+p143
+I2
+sVleft
+p144
+I1
+s.

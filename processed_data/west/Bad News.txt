@@ -1,40 +1,155 @@
-bad news lyrics
-kanye west lyrics
-bad news
-didnt know
-waiting you
-waiting dream
-thatll never come true
-didnt know
-waiting you
-face turnt stone
-heard news
-decide break rules
-cos heard real bad news
-people talk
-like old news
-played act like already knew
-let ask
-long known too
-played act like hes brand new
-decide break rules
-cos heard real bad news
-real bad news
-real bad news
-real bad news
-oh gonna
-keep another wont
-oh gonna
-keep like never knew
-oh gonna
-keep another love you
-oh gonna
-keep ike never knew
-im waiting dream
-thatll never come true
-oh gonna
-keep like never knew
-face turnt stone
-heard news
-whats news
-channel crew
+(dp1
+Valready
+p2
+I1
+sVold
+p3
+I1
+sVthatll
+p4
+I2
+sVlyrics
+p5
+I2
+sVpeople
+p6
+I1
+sVna
+p7
+I5
+sVheard
+p8
+I4
+sVim
+p9
+I1
+sVanother
+p10
+I2
+sVkanye
+p11
+I1
+sVkeep
+p12
+I5
+sVgon
+p13
+I5
+sVhes
+p14
+I1
+sVwest
+p15
+I1
+sVplayed
+p16
+I2
+sVlong
+p17
+I1
+sVcrew
+p18
+I1
+sVwaiting
+p19
+I4
+sVcome
+p20
+I2
+sVtoo
+p21
+I1
+sVwhats
+p22
+I1
+sVnew
+p23
+I1
+sVyou
+p24
+I3
+sVchannel
+p25
+I1
+sVreal
+p26
+I5
+sVwont
+p27
+I1
+sVknew
+p28
+I4
+sVlove
+p29
+I1
+sVrules
+p30
+I2
+sVbrand
+p31
+I1
+sVnever
+p32
+I5
+sVcos
+p33
+I2
+sVbreak
+p34
+I2
+sVlet
+p35
+I1
+sVknow
+p36
+I2
+sVdecide
+p37
+I2
+sVask
+p38
+I1
+sVnews
+p39
+I11
+sVtrue
+p40
+I2
+sVknown
+p41
+I1
+sVstone
+p42
+I2
+sVlike
+p43
+I5
+sVoh
+p44
+I5
+sVdream
+p45
+I2
+sVturnt
+p46
+I2
+sVface
+p47
+I2
+sVbad
+p48
+I7
+sVike
+p49
+I1
+sVact
+p50
+I2
+sVdidnt
+p51
+I2
+sVtalk
+p52
+I1
+s.

@@ -1,80 +1,616 @@
-"breathe easy (lyrical exercise)" lyrics
-jay-z lyrics
-"breathe easy (lyrical exercise)"
-so i had to memorize these rhymes until i got home
-ya understand?  once you memorize a sentence
-it's like an exercise
-ya niggas can't be serious right now
-i'm the all time heavy weight champion of flowers
-i'm leading the league in at least six statistical categories right now
-best flow, most consistent, realest stories
-most charisma, i set the most trends
-and my interviews are hotter
-holla
-i jog in the graveyard
-spar in the same ring
-now it's house by the building
-where malcolm x was slain
-i spring train in the winter
-round early december
-run suicide drills over and over
-with the weight of the world on my shoulder
-that's why they call me "hova"
-i'm far from being god
-but i work goddamn hard
-i wake up the birds who in the nerves is sleep
-i'm catching my second wind the second the first one end
-i am "focused man"
-and i'm not afraid of death
-and i'm going all out
-i circle the vultures in a van and
-i run the block (run)
-pull up in a drop (pull up)
-push up on my money (push up)
-i'm in great shape dunny
-i keep jacks jumping thirty six sets
-like a personal trainer i teach coke to stretch
-i pump and rock sweats
-all white trainers
-the ghettoes, billy blanks
-i show you niggas what pain is
-maintain your stamina
-hov will damage ya
-spot you two rhymes y'all niggas is amateurs
-the fifth
-a dead lift if
-niggas don't want to get shot then y'all niggas better squat
-i drop your set for rep
-no need to hit the showers
-the spit from the fifth leave you wet
-lyrical exercise
-y'all niggas ain't tired right?
-one, one
-two, two
-three, three
-four, breathe easy
-suckers
-get your weight up
-not your hate up
-jigga man is diesel
-when i lift the eight up
-y'all ain't ready to workout with the boy
-your flow is brain on drugs
-mines is rap on steroids
-i lift every voice when i sing
-my ability
-make yours look like an exercise in futility
-bring your squad
-biceps, triceps, and quads
-we don't struggle with undeveloped muscles
-y'all ain't real
-that's y'all achilles heel
-same routine when you see me you know the drill
-i spot ya
-i lift the weight of the watch off your arm
-remain nice and calm
-put down your things
-trinidad of the game know my way around your ring
-no matter how many pounds you bring
-it sounds like the same old thing
-r-o-c is the strongest team
+(dp1
+Vrealest
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVsentence
+p5
+I1
+sVmoney
+p6
+I1
+sVover
+p7
+I1
+sVroc
+p8
+I1
+sVfour
+p9
+I1
+sVbrain
+p10
+I1
+sVshape
+p11
+I1
+sVsleep
+p12
+I1
+sVstatistical
+p13
+I1
+sVhate
+p14
+I1
+sVbirds
+p15
+I1
+sVfifth
+p16
+I2
+sVaint
+p17
+I3
+sVdeath
+p18
+I1
+sVpersonal
+p19
+I1
+sVshow
+p20
+I1
+sVbetter
+p21
+I1
+sVgoing
+p22
+I1
+sVeasy
+p23
+I3
+sVwet
+p24
+I1
+sVcircle
+p25
+I1
+sVteam
+p26
+I1
+sVdunny
+p27
+I1
+sVreal
+p28
+I1
+sVhit
+p29
+I1
+sVaround
+p30
+I1
+sVget
+p31
+I2
+sVfar
+p32
+I1
+sVworkout
+p33
+I1
+sVwatch
+p34
+I1
+sVearly
+p35
+I1
+sVgame
+p36
+I1
+sVevery
+p37
+I1
+sVknow
+p38
+I2
+sVworld
+p39
+I1
+sVnow
+p40
+I2
+sVundeveloped
+p41
+I1
+sVcategories
+p42
+I1
+sVshoulder
+p43
+I1
+sVbiceps
+p44
+I1
+sVspit
+p45
+I1
+sVlike
+p46
+I4
+sVbring
+p47
+I2
+sVdrop
+p48
+I2
+sVjayz
+p49
+I1
+sVleave
+p50
+I1
+sVbilly
+p51
+I1
+sVrock
+p52
+I1
+sVnerves
+p53
+I1
+sVround
+p54
+I1
+sVyall
+p55
+I6
+sVheavy
+p56
+I1
+sVright
+p57
+I3
+sVold
+p58
+I1
+sVweight
+p59
+I4
+sVtired
+p60
+I1
+sVhouse
+p61
+I1
+sVconsistent
+p62
+I1
+sVhard
+p63
+I1
+sVdead
+p64
+I1
+sVup
+p65
+I5
+sVsecond
+p66
+I2
+sVcatching
+p67
+I1
+sVhome
+p68
+I1
+sVarm
+p69
+I1
+sVbest
+p70
+I1
+sVout
+p71
+I1
+sVsweats
+p72
+I1
+sVmatter
+p73
+I1
+sVgod
+p74
+I1
+sVrep
+p75
+I1
+sVdiesel
+p76
+I1
+sVmines
+p77
+I1
+sVtrainers
+p78
+I1
+sVpump
+p79
+I1
+sVrap
+p80
+I1
+sVroutine
+p81
+I1
+sVgot
+p82
+I1
+sVexercise
+p83
+I5
+sVrun
+p84
+I3
+sVability
+p85
+I1
+sVgoddamn
+p86
+I1
+sVtriceps
+p87
+I1
+sVsuicide
+p88
+I1
+sVfocused
+p89
+I1
+sVstruggle
+p90
+I1
+sVx
+I1
+sVput
+p91
+I1
+sVsuckers
+p92
+I1
+sVteach
+p93
+I1
+sVlyrical
+p94
+I3
+sVleague
+p95
+I1
+sVgreat
+p96
+I1
+sVthirty
+p97
+I1
+sVmany
+p98
+I1
+sVkeep
+p99
+I1
+sVthing
+p100
+I1
+sVamateurs
+p101
+I1
+sVheel
+p102
+I1
+sVfutility
+p103
+I1
+sVblock
+p104
+I1
+sVfirst
+p105
+I1
+sVtrainer
+p106
+I1
+sVdont
+p107
+I2
+sVsteroids
+p108
+I1
+sVmalcolm
+p109
+I1
+sVjog
+p110
+I1
+sVone
+p111
+I3
+sVslain
+p112
+I1
+sVset
+p113
+I2
+sVsing
+p114
+I1
+sVring
+p115
+I2
+sVtrinidad
+p116
+I1
+sVquads
+p117
+I1
+sVvan
+p118
+I1
+sVstretch
+p119
+I1
+sVleading
+p120
+I1
+sVinterviews
+p121
+I1
+sVtwo
+p122
+I3
+sVleast
+p123
+I1
+sVstamina
+p124
+I1
+sVcharisma
+p125
+I1
+sVcall
+p126
+I1
+sVcalm
+p127
+I1
+sVway
+p128
+I1
+sVspring
+p129
+I1
+sVspar
+p130
+I1
+sVwhite
+p131
+I1
+sVbreathe
+p132
+I3
+sVmuscles
+p133
+I1
+sVchampion
+p134
+I1
+sVgraveyard
+p135
+I1
+sVboy
+p136
+I1
+sVdrugs
+p137
+I1
+sVcoke
+p138
+I1
+sVtrain
+p139
+I1
+sVunderstand
+p140
+I1
+sVflowers
+p141
+I1
+sVpull
+p142
+I2
+sVlook
+p143
+I1
+sVniggas
+p144
+I6
+sVsounds
+p145
+I1
+sVwork
+p146
+I1
+sVdrills
+p147
+I1
+sVtrends
+p148
+I1
+sVrhymes
+p149
+I2
+sVghettoes
+p150
+I1
+sVremain
+p151
+I1
+sVstories
+p152
+I1
+sVthree
+p153
+I2
+sVdrill
+p154
+I1
+sVvoice
+p155
+I1
+sVwake
+p156
+I1
+sVsquat
+p157
+I1
+sVand
+p158
+I1
+sVhotter
+p159
+I1
+sVshowers
+p160
+I1
+sVdecember
+p161
+I1
+sVis
+p162
+I1
+sVpounds
+p163
+I1
+sVready
+p164
+I1
+sVcant
+p165
+I1
+sVim
+p166
+I7
+sVwant
+p167
+I1
+sVneed
+p168
+I1
+sVjacks
+p169
+I1
+sVholla
+p170
+I1
+sVafraid
+p171
+I1
+sVend
+p172
+I1
+sVwinter
+p173
+I1
+sVmemorize
+p174
+I2
+sVjigga
+p175
+I1
+sVthings
+p176
+I1
+sVmake
+p177
+I1
+sVsix
+p178
+I2
+sVdamage
+p179
+I1
+sVhov
+p180
+I1
+sVya
+p181
+I4
+sVsquad
+p182
+I1
+sVif
+p183
+I1
+sVhova
+p184
+I1
+sVnice
+p185
+I1
+sVblanks
+p186
+I1
+sVpain
+p187
+I1
+sVsee
+p188
+I1
+sVsets
+p189
+I1
+sVspot
+p190
+I2
+sVjumping
+p191
+I1
+sVeight
+p192
+I1
+sVstrongest
+p193
+I1
+sVachilles
+p194
+I1
+sVvultures
+p195
+I1
+sVman
+p196
+I2
+sVbuilding
+p197
+I1
+sVlift
+p198
+I4
+sVflow
+p199
+I2
+sVmaintain
+p200
+I1
+sVtime
+p201
+I1
+sVpush
+p202
+I2
+sVserious
+p203
+I1
+sVthats
+p204
+I2
+sVwind
+p205
+I1
+s.

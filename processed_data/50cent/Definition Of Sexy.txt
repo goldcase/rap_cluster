@@ -1,69 +1,379 @@
-"definition of sexy" lyrics
-50 cent lyrics
-"definition of sexy"
-she make me want it, want it
-on the late night or in the early mornin'
-i'm gonna be where she gonna be
-she is the definition of sexy to me
-i'm gonna push up on it, on it
-yea, let 'er know that i want it, want it
-she wanna be where i wanna be
-she is the definition of sexy to me
-seduction, i'm stumblin'
-she weak and doubtin' my eyes
-she want a kick in her thighs
-it's perfect, it's worth it
-i do what i got to get it
-i ain't trippin' shit, i'm with it
-i put it down when i hit it
-she'll be so happy she did it
-i bet she'll never forget it
-in bed i'm like a wizard
-shoulder i squeeze in
-she'll wanna kiss it over and over
-her body's a map, i'm the guide
-i'm just here to show 'er
-how i get to that g spot, non-stop
-tic toc, time fly
-hella fun, no lie
-oh i know i can give her what she needs
-slow mo or high speed
-existential need
-she make me want it, want it
-on the late night or in the early mornin'
-i'm gonna be where she gonna be
-she is the definition of sexy to me
-i'm gonna push up on it, on it
-yea, let 'er know that i want it, want it
-she wanna be where i wanna be
-she is the definition of sexy to me
-you can hear us from the next room when we go at it
-i started her addiction, she got a habit
-she gotta have it, i'm always on my job
-i work it nice and hard, i mean i work it how she wants
-she my homie lover friend and she might just bring her other friend
-feel the rush, adrenaline, i make it to your basement
-i say just keep it simple baby
-we ain't gotta talk, look baby
-if you want it and i want it
-maybe you should have it
-maybe we got one life to live
-it's precious the time we share
-now call me when you're in need
-baby girl, i'll be there
-folks showin' me
-you can confide, i'm a ride
-24/7, ready to cross it
-she make me want it, want it
-on the late night or in the early mornin'
-i'm gonna be where she gonna be
-she is the definition of sexy to me
-i'm gonna push up on it, on it
-yea, let 'er know that i want it, want it
-she wanna be where i wanna be
-she is the definition of sexy to me
-she's the definition
-she's the definition
-she is
-she is
-she is
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVyea
+p5
+I3
+sVover
+p6
+I1
+sVbring
+p7
+I1
+sVgo
+p8
+I1
+sVspeed
+p9
+I1
+sVperfect
+p10
+I1
+sVslow
+p11
+I1
+sVwizard
+p12
+I1
+sVlate
+p13
+I3
+sVsimple
+p14
+I1
+sVfolks
+p15
+I1
+sVmight
+p16
+I1
+sVworth
+p17
+I1
+sVkick
+p18
+I1
+sVta
+p19
+I2
+sVme
+p20
+I7
+sVmornin
+p21
+I3
+sVhit
+p22
+I1
+sVget
+p23
+I2
+sVearly
+p24
+I3
+sVadrenaline
+p25
+I1
+sVknow
+p26
+I4
+sVkiss
+p27
+I1
+sVbasement
+p28
+I1
+sVlook
+p29
+I1
+sVshoulder
+p30
+I1
+sVtrippin
+p31
+I1
+sVlike
+p32
+I1
+sValways
+p33
+I1
+sV50
+p34
+I1
+sVthighs
+p35
+I1
+sVnight
+p36
+I3
+sVnice
+p37
+I1
+sVride
+p38
+I1
+sVmean
+p39
+I1
+sVbe
+p40
+I6
+sVhard
+p41
+I1
+sVbed
+p42
+I1
+sVgirl
+p43
+I1
+sVer
+p44
+I4
+sVgon
+p45
+I9
+sVstumblin
+p46
+I1
+sVgot
+p47
+I5
+sVaint
+p48
+I2
+sVdoubtin
+p49
+I1
+sVnever
+p50
+I1
+sVweak
+p51
+I1
+sVjob
+p52
+I1
+sVlet
+p53
+I3
+sVput
+p54
+I1
+sVsexy
+p55
+I8
+sVprecious
+p56
+I1
+sVdefinition
+p57
+I10
+sVg
+I1
+sVoh
+p58
+I1
+sVill
+p59
+I1
+sV247
+p60
+I1
+sVkeep
+p61
+I1
+sVexistential
+p62
+I1
+sVhabit
+p63
+I1
+sVthere
+p64
+I1
+sVfeel
+p65
+I1
+sVconfide
+p66
+I1
+sVone
+p67
+I1
+sVwan
+p68
+I7
+sVseduction
+p69
+I1
+sVcent
+p70
+I1
+sVnext
+p71
+I1
+sVlive
+p72
+I1
+sVcall
+p73
+I1
+sVtoc
+p74
+I1
+sVbodys
+p75
+I1
+sVfriend
+p76
+I2
+sVhappy
+p77
+I1
+sVwants
+p78
+I1
+sVeyes
+p79
+I1
+sVshell
+p80
+I3
+sVstarted
+p81
+I1
+sVhear
+p82
+I1
+sVbaby
+p83
+I3
+sVsqueeze
+p84
+I1
+sVfly
+p85
+I1
+sVrush
+p86
+I1
+sVroom
+p87
+I1
+sVmo
+p88
+I1
+sVwork
+p89
+I2
+sVus
+p90
+I1
+sVlover
+p91
+I1
+sVfun
+p92
+I1
+sVguide
+p93
+I1
+sVbet
+p94
+I1
+sVshes
+p95
+I2
+sVgive
+p96
+I1
+sVshowin
+p97
+I1
+sVis
+p98
+I3
+sVshare
+p99
+I1
+sVit
+p100
+I19
+sVhigh
+p101
+I1
+sVready
+p102
+I1
+sVsay
+p103
+I1
+sVhomie
+p104
+I1
+sVim
+p105
+I13
+sVwant
+p106
+I15
+sVin
+p107
+I1
+sVneed
+p108
+I2
+sVshit
+p109
+I1
+sVlie
+p110
+I1
+sVneeds
+p111
+I1
+sVna
+p112
+I16
+sVmake
+p113
+I4
+sVcross
+p114
+I1
+sVnonstop
+p115
+I1
+sVtic
+p116
+I1
+sVmap
+p117
+I1
+sVspot
+p118
+I1
+sVmaybe
+p119
+I2
+sVyoure
+p120
+I1
+sVlife
+p121
+I1
+sVhella
+p122
+I1
+sVtime
+p123
+I2
+sVpush
+p124
+I3
+sVaddiction
+p125
+I1
+sVtalk
+p126
+I1
+s.

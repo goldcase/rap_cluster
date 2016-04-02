@@ -1,65 +1,538 @@
-"nigga witta gun" lyrics
-dr. dre lyrics
-"nigga witta gun"
-who is the man with the masterplan?
-a nigga witta motherfucking gun!
-44 reasons come to mind
-why you motherfucking brothers hard to find.
-he be walkin' on the streets and fuckin' with mine.
-stupid punk can't fuck with a mastermind.
-see i never take a step on a compton block
-or la without the ak ready to pop.
-'cause them punk motherfuckers in black and white
-ain't the only motherfuckers i got to fight.
-i think it's better to retellin' the facts than cuffed up
-and jacked and fucked up.
-what you niggas looking at? you do in...
-goddamn, 'cause it's the city.
-and for a youth to survive a nigga gotta be a gangster.
-and i'm a nigga you can't remove.
-took out a lot of motherfuckers for tryin' to prove
-to their homies they can hang by dealin' with me.
-but once again in the end they d-e-a-d.
-i never did time on a murder yet.
-'cause i relax and back do a job and jet.
-yo, i know you understand my flow,
-so here we go when death row
-come. let a motherfucker know...
-d-r-e! a motherfucker who's known for carryin' gats
-and kick raps that make snaps.
-adapts to anything violent that i'm located at.
-if you see me on the solo moves believe that i'm strapped.
-44, .38 or ak 47.
-'cause mo' live with charlie sheen.
-you want a stairway to heaven?
-just put my finger on the trigger and pull back
-and lay a punk motherfucker flat.
-as he wonder what popped before he got popped,
-i told you i was dre and you know it don't stop.
-now i know you understand my flow,
-so here we go when death row
-come. let a motherfucker know...
-i break some off. i break some off.
-yeah, i break some off. i break some off.
-yeah, i break some off.
-but i ain't speakin' about between the thighs.
-i'm talkin' about cockin' a guage in between your eyes.
-that'll make you drop to your knees, 'cause you realise
-that a gat will make any nigga civilised.
-old buster ass nigga talkin' bullshit.
-don't know that i'm the wrong nigga to fuck with.
-get lit or hit up by the doctor.
-a nigga to break some off properly.
-real g.
-so don't doubt it.
-i'm the one who's doin' it
-while these other niggas talk about it.
-and if motherfuckers come at me wrong
-i straight put my 44 desert eagle to his motherfucking dome.
-and show him why they call me the notorious one.
-the name is dre, eastwood when i'm packin' a gun.
-you don't believe me, wanna step up and give it a try.
-and if you die you's a buster 'cause real niggas don't die.
-but some still don't hear me though.
-you're too ninny not to hear me nigga, yo.
-so now you know...
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVviolent
+p4
+I1
+sVcarryin
+p5
+I1
+sVfacts
+p6
+I1
+sVstill
+p7
+I1
+sVeyes
+p8
+I1
+sVyet
+p9
+I1
+sVrow
+p10
+I2
+sVaint
+p11
+I2
+sVdeath
+p12
+I2
+sVla
+p13
+I1
+sVcockin
+p14
+I1
+sVbetter
+p15
+I1
+sVblack
+p16
+I1
+sVhomies
+p17
+I1
+sVkick
+p18
+I1
+sVta
+p19
+I1
+sVreal
+p20
+I2
+sVhit
+p21
+I1
+sVyo
+p22
+I2
+sVget
+p23
+I1
+sVstop
+p24
+I1
+sVbreak
+p25
+I6
+sVmasterplan
+p26
+I1
+sVdr
+p27
+I1
+sVbullshit
+p28
+I1
+sVname
+p29
+I1
+sVpackin
+p30
+I1
+sVheaven
+p31
+I1
+sVadapts
+p32
+I1
+sVdie
+p33
+I2
+sVyeah
+p34
+I2
+sVguage
+p35
+I1
+sVgun
+p36
+I4
+sVremove
+p37
+I1
+sVtalkin
+p38
+I2
+sVtry
+p39
+I1
+sVstupid
+p40
+I1
+sVthighs
+p41
+I1
+sVrealise
+p42
+I1
+sVnotorious
+p43
+I1
+sVstraight
+p44
+I1
+sVass
+p45
+I1
+sVnigga
+p46
+I10
+sVold
+p47
+I1
+sVeagle
+p48
+I1
+sVgoddamn
+p49
+I1
+sVhard
+p50
+I1
+sVback
+p51
+I2
+sVdead
+p52
+I1
+sVgo
+p53
+I2
+sVsee
+p54
+I2
+sVwonder
+p55
+I1
+sVknees
+p56
+I1
+sVwitta
+p57
+I3
+sVfind
+p58
+I1
+sVlooking
+p59
+I1
+sVfinger
+p60
+I1
+sVit
+p61
+I3
+sVgot
+p62
+I3
+sVcause
+p63
+I6
+sVtold
+p64
+I1
+sVstairway
+p65
+I1
+sVsolo
+p66
+I1
+sVstrapped
+p67
+I1
+sVdoubt
+p68
+I1
+sVnever
+p69
+I2
+sVmotherfucker
+p70
+I4
+sVdome
+p71
+I1
+sVg
+I1
+sVjob
+p72
+I1
+sVlet
+p73
+I2
+sVput
+p74
+I2
+sVcome
+p75
+I4
+sV38
+p76
+I1
+sVbuster
+p77
+I2
+sVanything
+p78
+I1
+sVcivilised
+p79
+I1
+sVcompton
+p80
+I1
+sVpunk
+p81
+I3
+sVstep
+p82
+I2
+sVwalkin
+p83
+I1
+sVdre
+p84
+I4
+sVthink
+p85
+I1
+sVblock
+p86
+I1
+sVmotherfucking
+p87
+I3
+sVdont
+p88
+I6
+sVreasons
+p89
+I1
+sVpop
+p90
+I1
+sVone
+p91
+I2
+sVna
+p92
+I1
+sVeastwood
+p93
+I1
+sVwhos
+p94
+I2
+sVyous
+p95
+I1
+sVwan
+p96
+I1
+sVcity
+p97
+I1
+sVjet
+p98
+I1
+sVprove
+p99
+I1
+sVspeakin
+p100
+I1
+sVfight
+p101
+I1
+sVlive
+p102
+I1
+sVtrigger
+p103
+I1
+sVcall
+p104
+I1
+sVlot
+p105
+I1
+sVsurvive
+p106
+I1
+sVwhite
+p107
+I1
+sVtryin
+p108
+I1
+sVsheen
+p109
+I1
+sVflat
+p110
+I1
+sVpopped
+p111
+I2
+sVmurder
+p112
+I1
+sVrelax
+p113
+I1
+sVgat
+p114
+I1
+sVtook
+p115
+I1
+sVfuck
+p116
+I2
+sVproperly
+p117
+I1
+sVunderstand
+p118
+I2
+sVknown
+p119
+I1
+sVbelieve
+p120
+I2
+sVwith
+p121
+I1
+sVme
+p122
+I1
+sVpull
+p123
+I1
+sVdealin
+p124
+I1
+sVniggas
+p125
+I3
+sVgangster
+p126
+I1
+sVmo
+p127
+I1
+sVup
+p128
+I2
+sVyouth
+p129
+I1
+sVthatll
+p130
+I1
+sVgive
+p131
+I1
+sVraps
+p132
+I1
+sVak
+p133
+I2
+sVmind
+p134
+I1
+sVmine
+p135
+I1
+sVcant
+p136
+I2
+sVim
+p137
+I7
+sVat
+p138
+I1
+sVwant
+p139
+I1
+sVin
+p140
+I1
+sVready
+p141
+I1
+sVretellin
+p142
+I1
+sVmoves
+p143
+I1
+sVend
+p144
+I1
+sVdoctor
+p145
+I1
+sV47
+p146
+I1
+sV44
+p147
+I3
+sVgats
+p148
+I1
+sVlit
+p149
+I1
+sVlocated
+p150
+I1
+sVtake
+p151
+I1
+sVcuffed
+p152
+I1
+sVsnaps
+p153
+I1
+sVbrothers
+p154
+I1
+sVthough
+p155
+I1
+sVdoin
+p156
+I1
+sVhang
+p157
+I1
+sVninny
+p158
+I1
+sVwrong
+p159
+I2
+sVstreets
+p160
+I1
+sVlay
+p161
+I1
+sVfucked
+p162
+I1
+sVmastermind
+p163
+I1
+sVdesert
+p164
+I1
+sVman
+p165
+I1
+sVjacked
+p166
+I1
+sVdrop
+p167
+I1
+sVoff
+p168
+I3
+sVcharlie
+p169
+I1
+sVyoure
+p170
+I1
+sVflow
+p171
+I2
+sVmotherfuckers
+p172
+I4
+sVwithout
+p173
+I1
+sVfuckin
+p174
+I1
+sVtime
+p175
+I1
+sVhear
+p176
+I2
+sVmake
+p177
+I3
+sVtalk
+p178
+I1
+sVknow
+p179
+I7
+s.

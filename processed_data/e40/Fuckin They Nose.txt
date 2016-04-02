@@ -1,102 +1,872 @@
-"fuckin' they nose" lyrics
-e-40 lyrics
-"fuckin' they nose"
-(feat. the click)
-let's make it happen
-mmmhmm.. i mean it can't get mo' mobber
-y'know, we like to buy our shit in bulk
-y'know in volumes
-y'know like costco?  we fuck with bosco
-(fuckin with bosco) you smell me?
-it's that mob shit nigga, so damn sinister
-sssshit, beotch!
-fuckin they nose like this
-your nose, fuckin your nose like this
-like that?  it's like that
-like this!
-fuckin they nose like this
-it's like this
-like that?  like that
-like this! (weeee, beeee)
-fuckin they nose like this
-your nose, fuckin your nose like this
-like that?  it's like that
-like this!
-fuckin they nose like this
-it's like this
-like that?  like that
-like this!
-i be the first out, nigga shady bring the worst out
-black beretta put the thirst out
-see i'm rollin in my truck, dick hardest to fuck
-hit a block, and let the bitch blow on my sock
-i got bass rock tips, red-nose tits
-las vegas chips better dub out here (uh-huh)
-spend g's overseas got 'em sprung on the game (sprung on the game)
-and all in amsterdam you was hearin my name
-i move raps over beats, tales from the street
-concrete walker, straight male stalker
-(??) broken temple of hemp, i keep it simple
-money all mine, i give a fuck if you fine
-my crew, doggish, sic-wid-it hoggish
-ball in two-thousand, suckers ain't allowed in
-catch me on the track with the froze up wrists
-and i'll be fuckin they nose, like this (beeotch!)
-these bitches in competition (what what)
-but ain't gon' bust a grape in a food fight
-and nigga, you blowin hot air
-i don't care, i keep a spare square
-bitches better beware, run up i dare you
-suga t the boss bitch, hittin switches
-mobbin old school then beatin down bitches
-i'm struttin my tools, fool; give it up or shut up
-been done mess around and got stuck-up, set up
-i still ride with yola copped in my cot
-impulse with chops and still be a top notch
-fuckin your nose, and yo' dome (and yo' dome)
-man shot, let these haters know
-i was intrigued by the way things ran
-how it was done (what else) how a bitches mind was run
-so i hollered at the master pimp, who was dressed in mink
-i asked him could i buy him a drink
-he said, "what can i do for you son?" i said i wish to pimp
-i want yo' same stroll, and i want yo' limp
-i want my mail to be as long as yours
-sport big cars and breakin all the whores
-load me up with your finest disk
-i'm only fifteen and i'm ready to pimp
-i want my hoes to pull in all the tricks
-i'm fuckin they nose like this
-fuckin they nose like this
-aowwww, aowwww, i can feel it when you talk
-when you talk
-even when you walk
-whenever i walk
-won't you sprinkle me
-sprinkle me mayne
-just thank you, thank you
-just what?  sprinkle me mayne
-fuckin they nose like this
-uh-huh
-just thank you, thank you
-beotch!  remember me?
-from "i got a mirror in my pocket and i practice lookin hard"
-i'm in the traffic pervin ridin on about a buck-oh-fever
-down (??) boulevard
-i does the thing to do peddle to the metal
-punchin on the gas, great dipped caddy showin my ass
-flamboastin, straight out of vallel'
-but i got this mack game, comin from oakland
-niggaz love me, i'm a boss (i'm a boss)
-my accountant keith say that i should lease
-but see i'm ethnic, fuck a tax write-off
-i'm off that st. ide's, i got that charlie in my deck
-i'm dang near paralyzed, runnin over the yellow reflectors about to wreck
-i'm seein two's, three's, oasises and mirages
-bumpin into trees, leaves, garbage cans and garages
-under my seat, military issue
-spoofed up insurance, sr-22
-a sack of broccoli and a bunch of bottles, i'm grounded
-fuck around and got my vehicle impounded
-shit beotch, fuck, elroy's roughed me up
-them bitches knew i had power cause i got out within a month
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVdeck
+p4
+I1
+sVmirages
+p5
+I1
+sVmoney
+p6
+I1
+sVbeware
+p7
+I1
+sVmove
+p8
+I1
+sVwriteoff
+p9
+I1
+sVyellow
+p10
+I1
+sVmonth
+p11
+I1
+sVswitches
+p12
+I1
+sVbring
+p13
+I1
+sVoasises
+p14
+I1
+sVstalker
+p15
+I1
+sVoakland
+p16
+I1
+sVshot
+p17
+I1
+sVpeddle
+p18
+I1
+sVstill
+p19
+I2
+sVfeat
+p20
+I1
+sVdont
+p21
+I1
+sVblow
+p22
+I1
+sVhaters
+p23
+I1
+sVgrape
+p24
+I1
+sVthank
+p25
+I4
+sVgrounded
+p26
+I1
+sVblowin
+p27
+I1
+sVdick
+p28
+I1
+sVbust
+p29
+I1
+sVcrew
+p30
+I1
+sVbetter
+p31
+I2
+sVfeel
+p32
+I1
+sVlets
+p33
+I1
+sVblack
+p34
+I1
+sVstroll
+p35
+I1
+sVmail
+p36
+I1
+sVset
+p37
+I1
+sVinsurance
+p38
+I1
+sVbeotch
+p39
+I3
+sVrednose
+p40
+I1
+sVfool
+p41
+I1
+sVrunnin
+p42
+I1
+sVroughed
+p43
+I1
+sVhit
+p44
+I1
+sVaround
+p45
+I2
+sVyo
+p46
+I4
+sVget
+p47
+I1
+sVfood
+p48
+I1
+sVbig
+p49
+I1
+sVpractice
+p50
+I1
+sVtrees
+p51
+I1
+sVpocket
+p52
+I1
+sVgame
+p53
+I3
+sVvegas
+p54
+I1
+sVworst
+p55
+I1
+sVknow
+p56
+I1
+sVmobber
+p57
+I1
+sVmob
+p58
+I1
+sVhemp
+p59
+I1
+sVbeeotch
+p60
+I1
+sVchips
+p61
+I1
+sVpunchin
+p62
+I1
+sVdare
+p63
+I1
+sVlike
+p64
+I26
+sVwont
+p65
+I1
+sVschool
+p66
+I1
+sVname
+p67
+I1
+sVpimp
+p68
+I3
+sVcause
+p69
+I1
+sVvallel
+p70
+I1
+sVmirror
+p71
+I1
+sVdome
+p72
+I2
+sVshowin
+p73
+I1
+sVnose
+p74
+I15
+sVhittin
+p75
+I1
+sVrock
+p76
+I1
+sVleaves
+p77
+I1
+sVmo
+p78
+I1
+sVmean
+p79
+I1
+sVem
+p80
+I1
+sVnigga
+p81
+I3
+sVold
+p82
+I1
+sVyola
+p83
+I1
+sVhard
+p84
+I1
+sVstuckup
+p85
+I1
+sVcompetition
+p86
+I1
+sVup
+p87
+I3
+sVsee
+p88
+I2
+sVstreet
+p89
+I1
+sVhoes
+p90
+I1
+sVhappen
+p91
+I1
+sVsport
+p92
+I1
+sVyknow
+p93
+I3
+sVout
+p94
+I2
+sVeven
+p95
+I1
+sVmobbin
+p96
+I1
+sVberetta
+p97
+I1
+sVgon
+p98
+I1
+sVpervin
+p99
+I1
+sVwreck
+p100
+I1
+sVfine
+p101
+I1
+sVtales
+p102
+I1
+sVintrigued
+p103
+I1
+sVthirst
+p104
+I1
+sVdipped
+p105
+I1
+sVdisk
+p106
+I1
+sVmess
+p107
+I1
+sVvehicle
+p108
+I1
+sVcars
+p109
+I1
+sVgot
+p110
+I8
+sVtips
+p111
+I1
+sVbunch
+p112
+I1
+sVissue
+p113
+I1
+sVtemple
+p114
+I1
+sVass
+p115
+I1
+sVaint
+p116
+I2
+sVshut
+p117
+I1
+sVknew
+p118
+I1
+sVrun
+p119
+I2
+sVbass
+p120
+I1
+sVpower
+p121
+I1
+sVmilitary
+p122
+I1
+sVsuga
+p123
+I1
+sVsssshit
+p124
+I1
+sVsprung
+p125
+I2
+sVboss
+p126
+I3
+sVbroken
+p127
+I1
+sVlet
+p128
+I2
+sVput
+p129
+I1
+sVsuckers
+p130
+I1
+sVbroccoli
+p131
+I1
+sVtwos
+p132
+I1
+sVfifteen
+p133
+I1
+sVcare
+p134
+I1
+sVgreat
+p135
+I1
+sVstruttin
+p136
+I1
+sVcot
+p137
+I1
+sVman
+p138
+I1
+sVill
+p139
+I1
+sVsinister
+p140
+I1
+sVkeep
+p141
+I2
+sVmmmhmm
+p142
+I1
+sVlookin
+p143
+I1
+sVspare
+p144
+I1
+sVtop
+p145
+I1
+sVblock
+p146
+I1
+sVfirst
+p147
+I1
+sVload
+p148
+I1
+sVfinest
+p149
+I1
+sVlove
+p150
+I1
+sVfroze
+p151
+I1
+sVgarbage
+p152
+I1
+sVsimple
+p153
+I1
+sVlimp
+p154
+I1
+sVridin
+p155
+I1
+sVthrees
+p156
+I1
+sVsack
+p157
+I1
+sVson
+p158
+I1
+sVran
+p159
+I1
+sVsquare
+p160
+I1
+sVdone
+p161
+I2
+sVbitch
+p162
+I2
+sVcopped
+p163
+I1
+sVamsterdam
+p164
+I1
+sVuhhuh
+p165
+I2
+sVtools
+p166
+I1
+sVflamboastin
+p167
+I1
+sVboulevard
+p168
+I1
+sVseein
+p169
+I1
+sVkeith
+p170
+I1
+sVdub
+p171
+I1
+sVsock
+p172
+I1
+sVaccountant
+p173
+I1
+sVlong
+p174
+I1
+sVfight
+p175
+I1
+sVhoggish
+p176
+I1
+sVmayne
+p177
+I2
+sVdamn
+p178
+I1
+sVbuckohfever
+p179
+I1
+sVway
+p180
+I1
+sVbreakin
+p181
+I1
+sVmaster
+p182
+I1
+sVbosco
+p183
+I2
+sVlease
+p184
+I1
+sVbuy
+p185
+I2
+sVsaid
+p186
+I2
+sVthat
+p187
+I4
+sVtax
+p188
+I1
+sVbitches
+p189
+I5
+sVgas
+p190
+I1
+sVwithin
+p191
+I1
+sVmine
+p192
+I1
+sVbulk
+p193
+I1
+sVgarages
+p194
+I1
+sVimpulse
+p195
+I1
+sVcatch
+p196
+I1
+sVyours
+p197
+I1
+sVcostco
+p198
+I1
+sVme
+p199
+I3
+sVpull
+p200
+I1
+sVe40
+p201
+I1
+sVhearin
+p202
+I1
+sVthis
+p203
+I14
+sVwish
+p204
+I1
+sVstraight
+p205
+I2
+sVbeats
+p206
+I1
+sVniggaz
+p207
+I1
+sVair
+p208
+I1
+sVhardest
+p209
+I1
+sVdang
+p210
+I1
+sVmale
+p211
+I1
+sVcould
+p212
+I1
+sVsay
+p213
+I1
+sVchops
+p214
+I1
+sVmink
+p215
+I1
+sVgive
+p216
+I2
+sVraps
+p217
+I1
+sVin
+p218
+I1
+sVmind
+p219
+I1
+sVfuck
+p220
+I6
+sVbeatin
+p221
+I1
+sVcant
+p222
+I1
+sVsr22
+p223
+I1
+sVim
+p224
+I13
+sVcans
+p225
+I1
+sVwant
+p226
+I4
+sVallowed
+p227
+I1
+sVready
+p228
+I1
+sVdoggish
+p229
+I1
+sVst
+p230
+I1
+sVshit
+p231
+I3
+sVride
+p232
+I1
+sVspoofed
+p233
+I1
+sVbottles
+p234
+I1
+sVthing
+p235
+I1
+sVthings
+p236
+I1
+sVmake
+p237
+I1
+sVwhen
+p238
+I1
+sVclick
+p239
+I1
+sVwalk
+p240
+I2
+sVhot
+p241
+I1
+sVtits
+p242
+I1
+sVjust
+p243
+I1
+sVtricks
+p244
+I1
+sVyou
+p245
+I3
+sVides
+p246
+I1
+sVsmell
+p247
+I1
+sVweeee
+p248
+I1
+sVelroys
+p249
+I1
+sVsprinkle
+p250
+I3
+sVbeeee
+p251
+I1
+sVparalyzed
+p252
+I1
+sVwrists
+p253
+I1
+sVtrack
+p254
+I1
+sVcaddy
+p255
+I1
+sVimpounded
+p256
+I1
+sVdrink
+p257
+I1
+sVwhat
+p258
+I1
+sVball
+p259
+I1
+sVbumpin
+p260
+I1
+sVcomin
+p261
+I1
+sVasked
+p262
+I1
+sVhollered
+p263
+I1
+sVsicwidit
+p264
+I1
+sVethnic
+p265
+I1
+sVelse
+p266
+I1
+sVmack
+p267
+I1
+sVreflectors
+p268
+I1
+sVlas
+p269
+I1
+sVwhores
+p270
+I1
+sVremember
+p271
+I1
+sVaowwww
+p272
+I2
+sVwhenever
+p273
+I1
+sVcharlie
+p274
+I1
+sVshady
+p275
+I1
+sVmetal
+p276
+I1
+sVrollin
+p277
+I1
+sVtwothousand
+p278
+I1
+sVseat
+p279
+I1
+sVconcrete
+p280
+I1
+sVnear
+p281
+I1
+sVtruck
+p282
+I1
+sVfuckin
+p283
+I14
+sVvolumes
+p284
+I1
+sVdressed
+p285
+I1
+sVwalker
+p286
+I1
+sVtraffic
+p287
+I1
+sVoverseas
+p288
+I1
+sVnotch
+p289
+I1
+sVspend
+p290
+I1
+sVtalk
+p291
+I2
+s.

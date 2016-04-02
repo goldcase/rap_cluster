@@ -1,56 +1,515 @@
-"cha cha cha" lyrics
-mc lyte lyrics
-"cha cha cha"
-(kick this one here for me and my dj)
-you can cha-cha-cha to this mardis gras
-i'm the dopest female that you've heard thus far
-and i do get better, the voice gets wetter
-nobody gets hurt (as long as you let her)
-do my thing with an '89 swing
-the dopeness i write, i guarantee delight
-to the hip-hop maniac, the uptown brainiac
-in full effect, mc lyte is back
-and better than before as if that was possible
-my competition, you'll find them in the hospital
-visiting time, i think it's on a sunday
-but notice they only get one day to shine
-the rest of the week is mine
-and i'll blind you with the science that the others have yet to find
-so come along and i'll lead you the right way
-just clap your hands to the words i say, come on...
-(kick this one here for me and my dj)
-i've got the power to spread out and devour
-at the same time i'll eat you up with a rhyme
-but i'll let you slide cuz you accidently hopped on the wrong side
-now come on, that's suicide
-hypothetically speaking
-ok, let's say you didn't know what you were doing
-you're new in town, and you're looking around
-for another name to ruin, and it's me that you're pursuing?
-well well well, i'll be damned
-i might as well tell you who i am
-i am the capital l-y-t-e
-and it's shocking i'm the one you're mocking
-oh yes, i've been watching you watching me
-and like the fat on your back it's plain to see
-that you're a wannabe, but you can't be what you're not
-so you better start living with what you got
-(kick this one here for me and my dj)
-yeah, dj k-rock when you hear a scratch
-now it's time to kick a rhyme out the batch
-and you're the receiver eager as a beaver
-time to convert the non-believer
-that i'm a roadrunner leaving you in the dust
-i can adjust to the times and at times i might just get quicker
-than the ticker of your pacemaker
-more tender than a roni but harder than a jawbreaker
-so don't ever second guess me
-and if you're wondering who could the best be
-think a second and recollect the worst whipping you ever had yet
-and i'll bet that i did it
-my fingerprints are still on you
-how many times i gotta warn you
-about the light?  it'll blind your sight
-but the rhythm will still guide you through the night
-(kick this tip...
-kick this one here for me and my dj)
+(dp1
+Vlyrics
+p2
+I2
+sVscratch
+p3
+I1
+sVrest
+p4
+I1
+sVhopped
+p5
+I1
+sVstill
+p6
+I2
+sVfind
+p7
+I2
+sVreceiver
+p8
+I1
+sVnonbeliever
+p9
+I1
+sVsuicide
+p10
+I1
+sVruin
+p11
+I1
+sVitll
+p12
+I1
+sVcuz
+p13
+I1
+sVbetter
+p14
+I3
+sVeager
+p15
+I1
+sVlets
+p16
+I1
+sVspread
+p17
+I1
+sVrhythm
+p18
+I1
+sVpursuing
+p19
+I1
+sVmight
+p20
+I2
+sVkick
+p21
+I6
+sVta
+p22
+I1
+sVme
+p23
+I2
+sVdj
+p24
+I5
+sVaround
+p25
+I1
+sVget
+p26
+I3
+sVfar
+p27
+I1
+sVcould
+p28
+I1
+sVrhyme
+p29
+I2
+sVpossible
+p30
+I1
+sVfat
+p31
+I1
+sVworst
+p32
+I1
+sVknow
+p33
+I1
+sVwords
+p34
+I1
+sVhands
+p35
+I1
+sVnot
+p36
+I1
+sVticker
+p37
+I1
+sVday
+p38
+I1
+sVlike
+p39
+I1
+sVdopeness
+p40
+I1
+sVname
+p41
+I1
+sVever
+p42
+I2
+sVgras
+p43
+I1
+sVchachacha
+p44
+I1
+sVslide
+p45
+I1
+sVadjust
+p46
+I1
+sVplain
+p47
+I1
+sVwannabe
+p48
+I1
+sVshocking
+p49
+I1
+sVside
+p50
+I1
+sVclap
+p51
+I1
+sVright
+p52
+I1
+sVanother
+p53
+I1
+sVdoing
+p54
+I1
+sVback
+p55
+I2
+sVcompetition
+p56
+I1
+sVbatch
+p57
+I1
+sVsee
+p58
+I1
+sV89
+p59
+I1
+sVsight
+p60
+I1
+sVtender
+p61
+I1
+sVyes
+p62
+I1
+sVbest
+p63
+I1
+sVliving
+p64
+I1
+sVwetter
+p65
+I1
+sVlead
+p66
+I1
+sVvisiting
+p67
+I1
+sVyet
+p68
+I2
+sVlooking
+p69
+I1
+sVcapital
+p70
+I1
+sVit
+p71
+I1
+sVgot
+p72
+I3
+sVyoull
+p73
+I1
+sVbe
+p74
+I1
+sVnotice
+p75
+I1
+sVfull
+p76
+I1
+sVpower
+p77
+I1
+sVnight
+p78
+I1
+sVguess
+p79
+I1
+sVwhipping
+p80
+I1
+sVdevour
+p81
+I1
+sVlet
+p82
+I2
+sVothers
+p83
+I1
+sValong
+p84
+I1
+sVcome
+p85
+I3
+sVshine
+p86
+I1
+sVon
+p87
+I1
+sVconvert
+p88
+I1
+sVok
+p89
+I1
+sVmaniac
+p90
+I1
+sVmany
+p91
+I1
+sVill
+p92
+I6
+sVwrong
+p93
+I1
+sVrecollect
+p94
+I1
+sVleaving
+p95
+I1
+sVthing
+p96
+I1
+sVyouve
+p97
+I1
+sVdopest
+p98
+I1
+sVthink
+p99
+I2
+sVthats
+p100
+I1
+sVblind
+p101
+I2
+sVroadrunner
+p102
+I1
+sVdont
+p103
+I1
+sVfingerprints
+p104
+I1
+sVone
+p105
+I6
+sVquicker
+p106
+I1
+sVfemale
+p107
+I1
+sVuptown
+p108
+I1
+sVsecond
+p109
+I2
+sVcha
+p110
+I6
+sVroni
+p111
+I1
+sVher
+p112
+I1
+sVstart
+p113
+I1
+sVlyte
+p114
+I3
+sVhospital
+p115
+I1
+sVlong
+p116
+I1
+sVhypothetically
+p117
+I1
+sVway
+p118
+I1
+sVmardis
+p119
+I1
+sVtell
+p120
+I1
+sVspeaking
+p121
+I1
+sVguide
+p122
+I1
+sVwondering
+p123
+I1
+sVam
+p124
+I1
+sVnobody
+p125
+I1
+sVhurt
+p126
+I1
+sVwarn
+p127
+I1
+sVmocking
+p128
+I1
+sVhear
+p129
+I1
+sVpacemaker
+p130
+I1
+sVeat
+p131
+I1
+sVtown
+p132
+I1
+sVmc
+p133
+I2
+sVscience
+p134
+I1
+sVoh
+p135
+I1
+sVharder
+p136
+I1
+sVcant
+p137
+I1
+sVaccidently
+p138
+I1
+sVvoice
+p139
+I1
+sVdidnt
+p140
+I1
+sVdamned
+p141
+I1
+sVbet
+p142
+I1
+sVive
+p143
+I2
+sVthus
+p144
+I1
+sVmine
+p145
+I1
+sVheard
+p146
+I1
+sVsay
+p147
+I2
+sVim
+p148
+I3
+sVbeaver
+p149
+I1
+sVtimes
+p150
+I3
+sVguarantee
+p151
+I1
+sVjawbreaker
+p152
+I1
+sVwatching
+p153
+I2
+sVtip
+p154
+I1
+sVwrite
+p155
+I1
+sVsunday
+p156
+I1
+sVnew
+p157
+I1
+sVyou
+p158
+I2
+sVgets
+p159
+I2
+sVweek
+p160
+I1
+sVswing
+p161
+I1
+sVeffect
+p162
+I1
+sVdelight
+p163
+I1
+sVhiphop
+p164
+I1
+sVdust
+p165
+I1
+sVyeah
+p166
+I1
+sVlight
+p167
+I1
+sVyoure
+p168
+I8
+sVwell
+p169
+I4
+sVkrock
+p170
+I1
+sVbrainiac
+p171
+I1
+sVtime
+p172
+I4
+s.

@@ -1,105 +1,742 @@
-"niggaz 4 life" lyrics
-n.w.a. lyrics
-"niggaz 4 life"
-why do i call myself a nigger, you ask me?
-well it's because motherfuckers want to blast me
-and run me outa my neighborhood
-they label me as a dope dealer
-yo! and say that i'm no good
-but i can't find jobs so niggers wouldn't have to go out
-gave up some dope on the corner so they could show out
-when the cops came, they gave a fake name
-because the life in the streets is just a head game
-so therefore, to make more
-a fifteen year old black kid will go and rob a liquor store
-and get shot in the process
-he ate up a nine bullet and now he's put to rest
-why do i call myself a nigger, you ask me?
-i guess it's the way shit has to be
-back when i was young gettin a job was murder
-fuck flippin burgers
-'cause a deserve a nine-to-five i can be proud of
-that i can speak loud of
-and to help a nigger get out of.
-yo! the concrete playground
-but most motherfuckers only want you to stay down
-but i'm a smart motherfucker you see
-one of the best producers in the rap music industry
-gettin paid like a mother fucker
-a young brother who don't give a fuck about another
-why do i call myself a nigger, you ask me?
-because police always wanna harass me
-every time that i'm rollin
-they swear up and down that the car was stolen
-make me get faced down in the street
-they throw the shit out my car on the concrete
-in front of a residence
-a million white motherfuckers on my back like i shot the president
-why do i call myself a nigger, you ask me?
-because my mouth is so mother fuckin nasty
-bitch this, bitch that
-nigger this, nigger that
-in the mean while my pockets are gettin fat
-gettin paid to say this shit here
-makin more in a week than a doctor makes in a year
-so, why not call myself a nigger?
-it's better than pulling the trigger and goin up the river
-and don't i get called a nigger anyway?
-booked as a motherfucker and locked away
-so... so, cut out all that bull shit
-yo! i guess i'll be a nigga for life
-(niggers, crack-heads, thieves.
-if there's a hell below, we're all gonna go.)
-nigger. nigger. nigger
-nigger. nigger
-nigger, please
-i'm treated like a fuckin disease.
-you say: why can i call myself a nigger so quick?
-cause i can reach in my draws and pull out a bigger dick
-yo! niggers say nigger we cool
-but, cracker say nigger not to fuck up
-but i got to be a fast nigger
-not to be the last nigger
-or i have to beat your ass, nigger
-in the city you see action first
-then hear about it later
-in a verse i curse
-because i  with this to keep my shit straight bumpin'
-murder created by the streets of compton
-i get it from the underground poet
-i live it, i see it, and i write it
-because i know it
-and if you think i'm fucking your wife
-your mother fuckin' right
-yo! because i'm a nigger for life
-nigger, this
-nigger, that
-the actual fact is that i'm black
-and bound to attract
-the attention of another
-i mean the other
-but i'm a mother fucker that'll have them running for cover
-you see, i don't give a fuck about nothing
-except getting paid, getting bitches, and  with stitches
-which is all needed to read it and find a rhyme
-and then it's time to say
-the nigger's here to stay
-but what about the fake niggers, the house niggers
-to get paid quick they gotta suck a fat dick
-but nwa is outta your mother fuckin' range
-we ain't gonna change a mother fuckin' thing
-i call myself a nigger 'cause my skin won't whiten
-i call myself a nigger 'cause the shit that i'm writing
-hypes me, hypes other mother fuckers around me
-and that's the reason why they want to surround me
-and ask me: why do i call myself a nigger-o
-ain't none of their fuckin' business 'cause i'll let the trigger go
-so get out of my presence, and get out of my sight
-'cause mc ren is a nigger for life
-you're a nigger 'til you die
-if you're a poor nigger, then you're a poor nigger
-if you're a rich nigger, you're a rich nigger
-but you never stop being a nigger
-and if you get to be educated, you's an education nigger
-it's plain to see, you can't change me
-'cause i'm a be a nigger for life
+(dp1
+Vhypes
+p2
+I2
+sVshot
+p3
+I2
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVthatll
+p7
+I1
+sVrob
+p8
+I1
+sVanyway
+p9
+I1
+sVrest
+p10
+I1
+sVstitches
+p11
+I1
+sVnwa
+p12
+I2
+sVskin
+p13
+I1
+sVgo
+p14
+I4
+sVcorner
+p15
+I1
+sVfind
+p16
+I2
+sVaint
+p17
+I2
+sVninetofive
+p18
+I1
+sVcut
+p19
+I1
+sVpolice
+p20
+I1
+sVniggers
+p21
+I6
+sVdick
+p22
+I2
+sVyoung
+p23
+I2
+sVwriting
+p24
+I1
+sVbetter
+p25
+I1
+sVverse
+p26
+I1
+sVthieves
+p27
+I1
+sVblack
+p28
+I2
+sV4
+I2
+sVrich
+p29
+I2
+sVcool
+p30
+I1
+sVsmart
+p31
+I1
+sVgave
+p32
+I2
+sVgood
+p33
+I1
+sVaround
+p34
+I1
+sVyo
+p35
+I5
+sVget
+p36
+I9
+sVbeat
+p37
+I1
+sVdope
+p38
+I2
+sVrhyme
+p39
+I1
+sVfat
+p40
+I2
+sVbound
+p41
+I1
+sVgame
+p42
+I1
+sVevery
+p43
+I1
+sVknow
+p44
+I1
+sVfront
+p45
+I1
+sVnasty
+p46
+I1
+sVblast
+p47
+I1
+sVbigger
+p48
+I1
+sVlike
+p49
+I3
+sVwont
+p50
+I1
+sVname
+p51
+I1
+sVill
+p52
+I2
+sValways
+p53
+I1
+sVgettin
+p54
+I4
+sVbrother
+p55
+I1
+sVnigger
+p56
+I35
+sVburgers
+p57
+I1
+sVdie
+p58
+I1
+sVquick
+p59
+I2
+sVriver
+p60
+I1
+sVmean
+p61
+I2
+sVpoor
+p62
+I2
+sVnigga
+p63
+I1
+sVneighborhood
+p64
+I1
+sVfucking
+p65
+I1
+sVhouse
+p66
+I1
+sVliquor
+p67
+I1
+sVstreets
+p68
+I2
+sVback
+p69
+I2
+sVup
+p70
+I1
+sVsee
+p71
+I5
+sVstreet
+p72
+I1
+sVsight
+p73
+I1
+sVyear
+p74
+I2
+sVrun
+p75
+I1
+sVbest
+p76
+I1
+sVout
+p77
+I2
+sVgon
+p78
+I2
+sVdraws
+p79
+I1
+sVaway
+p80
+I1
+sVplease
+p81
+I1
+sVlabel
+p82
+I1
+sVouta
+p83
+I1
+sVren
+p84
+I1
+sVplayground
+p85
+I1
+sVit
+p86
+I2
+sVgot
+p87
+I2
+sVdoctor
+p88
+I1
+sVcause
+p89
+I7
+sVexcept
+p90
+I1
+sVass
+p91
+I1
+sVbe
+p92
+I1
+sVattention
+p93
+I1
+sVjobs
+p94
+I1
+sVbusiness
+p95
+I1
+sVcity
+p96
+I1
+sVcrackheads
+p97
+I1
+sVmillion
+p98
+I1
+sVmotherfucker
+p99
+I2
+sVhere
+p100
+I1
+sVjob
+p101
+I1
+sVlet
+p102
+I1
+sVfucker
+p103
+I2
+sVput
+p104
+I1
+sVbumpin
+p105
+I1
+sVfifteen
+p106
+I1
+sVthrow
+p107
+I1
+sVchange
+p108
+I2
+sVfaced
+p109
+I1
+sVhell
+p110
+I1
+sVate
+p111
+I1
+sVlast
+p112
+I1
+sVwouldnt
+p113
+I1
+sVcreated
+p114
+I1
+sVof
+p115
+I3
+sVcould
+p116
+I1
+sVcompton
+p117
+I1
+sVreason
+p118
+I1
+sVsurround
+p119
+I1
+sVcalled
+p120
+I1
+sVthing
+p121
+I1
+sVharass
+p122
+I1
+sVswear
+p123
+I1
+sVwhiten
+p124
+I1
+sVpockets
+p125
+I1
+sVaction
+p126
+I1
+sVloud
+p127
+I1
+sVmotherfuckers
+p128
+I3
+sVfuckin
+p129
+I6
+sVfirst
+p130
+I1
+sVna
+p131
+I3
+sVdont
+p132
+I3
+sVpresence
+p133
+I1
+sVplain
+p134
+I1
+sVmakin
+p135
+I1
+sVone
+p136
+I1
+sVdown
+p137
+I1
+sVask
+p138
+I5
+sVright
+p139
+I1
+sVbitch
+p140
+I2
+sVanother
+p141
+I2
+sVfake
+p142
+I2
+sVold
+p143
+I1
+sVyous
+p144
+I1
+sVspeak
+p145
+I1
+sVwan
+p146
+I1
+sVguess
+p147
+I2
+sVhes
+p148
+I1
+sVfuckers
+p149
+I1
+sVfast
+p150
+I1
+sVneeded
+p151
+I1
+sVlive
+p152
+I1
+sVtrigger
+p153
+I2
+sVcall
+p154
+I9
+sVtherefore
+p155
+I1
+sVway
+p156
+I1
+sVpoet
+p157
+I1
+sVmusic
+p158
+I1
+sVwhite
+p159
+I1
+sVgoin
+p160
+I1
+sVstore
+p161
+I1
+sVmore
+p162
+I1
+sVhead
+p163
+I1
+sVmurder
+p164
+I2
+sVthat
+p165
+I3
+sVbitches
+p166
+I1
+sVfuck
+p167
+I4
+sVcops
+p168
+I1
+sVhear
+p169
+I1
+sVbull
+p170
+I1
+sVactual
+p171
+I1
+sVme
+p172
+I9
+sVpull
+p173
+I1
+sVnone
+p174
+I1
+sVstolen
+p175
+I1
+sVlocked
+p176
+I1
+sVniggero
+p177
+I1
+sVmc
+p178
+I1
+sVthis
+p179
+I1
+sVcar
+p180
+I2
+sVstraight
+p181
+I1
+sVgetting
+p182
+I2
+sVcracker
+p183
+I1
+sVcant
+p184
+I2
+sVniggaz
+p185
+I2
+sVnine
+p186
+I1
+sVresidence
+p187
+I1
+sVpulling
+p188
+I1
+sVta
+p189
+I1
+sVtreated
+p190
+I1
+sVindustry
+p191
+I1
+sVtheres
+p192
+I1
+sVlater
+p193
+I1
+sVoutta
+p194
+I1
+sVrap
+p195
+I1
+sVgive
+p196
+I2
+sVprocess
+p197
+I1
+sVcover
+p198
+I1
+sVlife
+p199
+I7
+sVsay
+p200
+I6
+sVeducated
+p201
+I1
+sVim
+p202
+I10
+sVwant
+p203
+I3
+sVkeep
+p204
+I1
+sVattract
+p205
+I1
+sVdealer
+p206
+I1
+sVshit
+p207
+I6
+sVeducation
+p208
+I1
+sVflippin
+p209
+I1
+sVdeserve
+p210
+I1
+sVmake
+p211
+I2
+sVrange
+p212
+I1
+sVwrite
+p213
+I1
+sVread
+p214
+I1
+sVother
+p215
+I1
+sVunderground
+p216
+I1
+sVyoure
+p217
+I5
+sVweek
+p218
+I1
+sVstop
+p219
+I1
+sVtime
+p220
+I2
+sVreach
+p221
+I1
+sVpaid
+p222
+I4
+sVstay
+p223
+I2
+sVproducers
+p224
+I1
+sVrunning
+p225
+I1
+sVcurse
+p226
+I1
+sVmouth
+p227
+I1
+sVnever
+p228
+I1
+sVnothing
+p229
+I1
+sVpresident
+p230
+I1
+sVsuck
+p231
+I1
+sVkid
+p232
+I1
+sVbooked
+p233
+I1
+sVtil
+p234
+I1
+sVbullet
+p235
+I1
+sVwife
+p236
+I1
+sVmakes
+p237
+I1
+sVproud
+p238
+I1
+sVwell
+p239
+I1
+sVdisease
+p240
+I1
+sVrollin
+p241
+I1
+sVthink
+p242
+I1
+sVconcrete
+p243
+I2
+sVfact
+p244
+I1
+sVmother
+p245
+I7
+sVthats
+p246
+I1
+sVcame
+p247
+I1
+s.

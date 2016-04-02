@@ -1,72 +1,619 @@
-"cause and effect" lyrics
-gang starr lyrics
-"cause and effect"
-you ain't livin right punk, i'll have to school you
-not rule you, but i'll say yo you fool yourself
-when you try to deny and defy written laws
-this means your cause has lost
-think about it, take the time, and even ponder longer
-then let your mind start to wander
-go black and track the facts, about all of your mistakes
-it only takes to one to make fate
-pick up your life, clean up your act, and get a legal plan
-you can, or be an evil man
-caught, and then you claim you're not responsible
-the choice was yours, when the fun's gone you will realize
-that you don't get somethin for nothin, why you bluffin?
-others even brothers are stuffin their pockets
-with honest cash, they'll laugh, so don't knock it
-jock it, cause the guru must stop it
-i'll jab you, smack you, crack -- you're demolished
-you must acknowledge -- life is like a college in itself
-get a degree in reality
-or you will be upon it like a lawn you'll be walked on
-gone, never to see or be the same again
-friend, cause the time you spend
-bringin down yourself, bringin down the pace
-bringin down your friends, bringin down the race
-will have your life in a wreck
-and homeboy life is cause and effect
-exactly what you put in boy, you will get out of it
-the energy released comes back, there is no doubt of it
-so when you thrive to connive and contrive foolish deeds
-this means you'll bleed from greed
-dig the rhyme dig the thought, of what'll happen
-you're nappin, you're gonna fall off the map 'n'
-lie out, and cry out, why?  you got the short end of the stick
-cause you're too quick to run tricks
-open your mind, widen your sight, get out of your rut
-move, and get the lead out of your butt
-cause you can't live without a plan to get freshed chump
-and you shouldn't stand to let
-anything sway you from the path you know is truthful
-chill, cause you know the chosen youth will
-take over, and control the whole so don't blow it
-know it, cause the guru must show it
-i'll teach you, reachin each so you're enlightened
-emcees are frightened, by what i write in my songs
-cause i express what i manifest
-while some of you fall down to the ground with breakdowns
-never to see or be the same again
-friend, cause the time you spend
-bringin down yourself, bringin down the pace
-bringin down your friends, bringin down the race
-will have your life in a wreck
-and homeboy life is cause and effect
-you're still playin games lame, i'll have to end you
-straight to the gate of fate, so you can claim your doom
-will you decay as you pay in repentance
-i light my sentence like incense
-breathe in, expel your fears as you marvel
-heed what i feed, you won't starve you'll make it
-but if you don't, you will be finished
-you'll dissapear, you will diminish
-never to see or be the same again
-friend, cause the time you spend
-bringin down yourself, bringin down the pace
-bringin down your friends, bringin down the race
-will leave you bugged and upset
-cause homeboy life is cause and effect
-cause and effect!!
-once again, premier and the guru
-it's like that
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVstuffin
+p4
+I1
+sVmove
+p5
+I1
+sVmistakes
+p6
+I1
+sVbugged
+p7
+I1
+sVgang
+p8
+I1
+sVfacts
+p9
+I1
+sVrepentance
+p10
+I1
+sVstill
+p11
+I1
+sVjock
+p12
+I1
+sVaint
+p13
+I1
+sVacknowledge
+p14
+I1
+sVchosen
+p15
+I1
+sVsentence
+p16
+I1
+sVdeeds
+p17
+I1
+sVblack
+p18
+I1
+sVcrack
+p19
+I1
+sVchill
+p20
+I1
+sVjab
+p21
+I1
+sVreachin
+p22
+I1
+sVfool
+p23
+I1
+sVpay
+p24
+I1
+sVlivin
+p25
+I1
+sVfate
+p26
+I2
+sVget
+p27
+I7
+sVexpress
+p28
+I1
+sVstop
+p29
+I1
+sVchoice
+p30
+I1
+sVlame
+p31
+I1
+sVsmack
+p32
+I1
+sVknow
+p33
+I3
+sVfall
+p34
+I2
+sVone
+p35
+I1
+sVrealize
+p36
+I1
+sVwont
+p37
+I1
+sVknock
+p38
+I1
+sVschool
+p39
+I1
+sVlike
+p40
+I4
+sVlost
+p41
+I1
+sVyoull
+p42
+I4
+sVdig
+p43
+I2
+sVmanifest
+p44
+I1
+sVtry
+p45
+I1
+sVrace
+p46
+I3
+sVheed
+p47
+I1
+sVquick
+p48
+I1
+sVfoolish
+p49
+I1
+sVright
+p50
+I1
+sVexpel
+p51
+I1
+sVenergy
+p52
+I1
+sVback
+p53
+I1
+sVgo
+p54
+I1
+sVsee
+p55
+I3
+sVcollege
+p56
+I1
+sVsight
+p57
+I1
+sVbluffin
+p58
+I1
+sVhappen
+p59
+I1
+sVwander
+p60
+I1
+sVeven
+p61
+I2
+sVwill
+p62
+I1
+sVgon
+p63
+I1
+sVlead
+p64
+I1
+sVwreck
+p65
+I2
+sVnappin
+p66
+I1
+sVwalked
+p67
+I1
+sVlegal
+p68
+I1
+sVwhatll
+p69
+I1
+sVwritten
+p70
+I1
+sVgot
+p71
+I1
+sVground
+p72
+I1
+sVcause
+p73
+I17
+sVdissapear
+p74
+I1
+sVthrive
+p75
+I1
+sVblow
+p76
+I1
+sVrun
+p77
+I1
+sVcry
+p78
+I1
+sVdegree
+p79
+I1
+sVnever
+p80
+I3
+sVlet
+p81
+I2
+sVothers
+p82
+I1
+sVput
+p83
+I1
+sVpath
+p84
+I1
+sVteach
+p85
+I1
+sVbleed
+p86
+I1
+sVrut
+p87
+I1
+sVon
+p88
+I1
+sVanything
+p89
+I1
+sVill
+p90
+I5
+sVconnive
+p91
+I1
+sVpunk
+p92
+I1
+sVincense
+p93
+I1
+sVhonest
+p94
+I1
+sVgames
+p95
+I1
+sVstand
+p96
+I1
+sVpockets
+p97
+I1
+sVpick
+p98
+I1
+sVwhole
+p99
+I1
+sVthink
+p100
+I1
+sVcomes
+p101
+I1
+sVfeed
+p102
+I1
+sVwiden
+p103
+I1
+sVdont
+p104
+I4
+sVgone
+p105
+I2
+sVyourself
+p106
+I1
+sVlaugh
+p107
+I1
+sVopen
+p108
+I1
+sVenlightened
+p109
+I1
+sVtakes
+p110
+I1
+sVcaught
+p111
+I1
+sVstart
+p112
+I1
+sVlive
+p113
+I1
+sVdoubt
+p114
+I1
+sVstarr
+p115
+I1
+sVmeans
+p116
+I2
+sVfriend
+p117
+I3
+sVbreathe
+p118
+I1
+sVstarve
+p119
+I1
+sVlife
+p120
+I7
+sVfuns
+p121
+I1
+sVboy
+p122
+I1
+sVcontrive
+p123
+I1
+sVexactly
+p124
+I1
+sVlawn
+p125
+I1
+sVcant
+p126
+I1
+sVreleased
+p127
+I1
+sVfinished
+p128
+I1
+sVstick
+p129
+I1
+sVbringin
+p130
+I12
+sVbutt
+p131
+I1
+sVdiminish
+p132
+I1
+sVdoom
+p133
+I1
+sVmust
+p134
+I3
+sVsway
+p135
+I1
+sVstraight
+p136
+I1
+sVcash
+p137
+I1
+sVn
+I1
+sVyouth
+p138
+I1
+sVpace
+p139
+I3
+sVcontrol
+p140
+I1
+sVclaim
+p141
+I2
+sVmarvel
+p142
+I1
+sVfrightened
+p143
+I1
+sVpremier
+p144
+I1
+sVmind
+p145
+I2
+sVit
+p146
+I7
+sVfreshed
+p147
+I1
+sVsay
+p148
+I1
+sVitself
+p149
+I1
+sVrule
+p150
+I1
+sVplayin
+p151
+I1
+sVdecay
+p152
+I1
+sVagain
+p153
+I3
+sVponder
+p154
+I1
+sVtheyll
+p155
+I1
+sVyo
+p156
+I1
+sVguru
+p157
+I3
+sVna
+p158
+I1
+sVmake
+p159
+I2
+sVresponsible
+p160
+I1
+sVfears
+p161
+I1
+sVhomeboy
+p162
+I3
+sVreality
+p163
+I1
+sVwrite
+p164
+I1
+sVthat
+p165
+I1
+sVdemolished
+p166
+I1
+sVtake
+p167
+I2
+sVgate
+p168
+I1
+sVyou
+p169
+I2
+sVtruthful
+p170
+I1
+sVmap
+p171
+I1
+sVshouldnt
+p172
+I1
+sVemcees
+p173
+I1
+sVbrothers
+p174
+I1
+sVlie
+p175
+I1
+sVtrack
+p176
+I1
+sVrhyme
+p177
+I1
+sVdefy
+p178
+I1
+sVact
+p179
+I1
+sVupon
+p180
+I1
+sVeffect
+p181
+I6
+sVevil
+p182
+I1
+sVleave
+p183
+I1
+sVplan
+p184
+I2
+sVchump
+p185
+I1
+sVend
+p186
+I2
+sVfriends
+p187
+I3
+sVman
+p188
+I1
+sVsomethin
+p189
+I1
+sVdeny
+p190
+I1
+sVshort
+p191
+I1
+sVlonger
+p192
+I1
+sVlight
+p193
+I1
+sVtricks
+p194
+I1
+sVyoure
+p195
+I7
+sVupset
+p196
+I1
+sVnothin
+p197
+I1
+sVthought
+p198
+I1
+sVbreakdowns
+p199
+I1
+sVwithout
+p200
+I1
+sVclean
+p201
+I1
+sVtime
+p202
+I4
+sVsongs
+p203
+I1
+sVspend
+p204
+I3
+sVgreed
+p205
+I1
+sVlaws
+p206
+I1
+s.

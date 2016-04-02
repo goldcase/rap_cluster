@@ -1,67 +1,557 @@
-"sweet" lyrics
-common lyrics
-"sweet"
-you know they be asking ’bout common, where he at?
-i’m doing what i do, hip hop, thats what i do
-yeah
-how can i say this, fuck it i’m the greatest
-i am the a-list for all these great debaters
-a lot of ya’ll nah nah, forgot na, who i am
-the ’87 nigga used to rah rah in the jam
-ow yeah, we put them things in the air
-when i drop a single, it’s really like a pair
-of air jordans, important to the culture
-if you aint true to it, callate la boca
-get my drink on like a coaster
-post up on a wall, a mic, used to live off
-hip hop master cleanse, i’mma get my shit off
-rollin’ in a maserati gran with the lid off
-i bit off like a monster, live nigga this is my encore
-encore, encore, i rhyme for the commoners
-my name synonymous with prominence
-i’m to hip hop what obama is to politics
-common is
-yeah, man, y’all niggas man, you soft muthfuckers
-yeah my man, muthafcker
-then come around my crib
-you know where i’m from
-some hoes ass niggas
-singing all around me man, la la la
-you aint muthafucking frank sinatra
-uh, lil bitch
-yeah, this the raw right here
-yeah this the raw right here nigga
-sweet muthafuckas
-sweet ass bitch muthafucka
-wa da da da, wa dada dada da
-the c-o double-m o-n, i’m not playin’
-da da man at work, i make my own lane
-i’m the franchise so i rock my own chain
-no i. said give ‘em that 80′s cocaine
-somethin’ raw, something pure so i stayed in that vain
-the hero that he know, that he cold
-like winters below in the geo, wipe ya feet off in the regal
-i’m king, observe the throne and the dream
-i have it, supreme like mathematics
-yeah, i rep the fresh air for you asthmatic rap addicts
-pro black magic, this is semi-automatic
-rap we won’t jam in traffic
-the game need direction, i’m here to map it
-uh, some people say that they be missing creativity
-but when it come to hip hop, it begins and it’s with me
-sweet
-you know man, you should know where i come from
-you should know who i am nigga
-you should never wanna go against me
-you know man, you too soft for that man
-i be seeing you man, i see it in your eyes man
-you aint the type of nigga to go against me
-you get in my presence you gon’ feel like a little hoe
-you aint a man yet, you tryna be somebody else
-man, be yourself man, you come around my crib, you get your shit took
-huh, wherever you go, you probably be overseas in europe and get yo shit took
-you’s a hoe, you know you sweet
-aint nothing you can do man, people see that man
-broads be seeing you sweet
-done wit’ you muthafuckas, it’s over for you
-it’s over for you? it’s over, sweet muthafucka
+(dp1
+Vi\u2019mma
+p2
+I1
+sVjordans
+p3
+I1
+sVcoaster
+p4
+I1
+sVlyrics
+p5
+I2
+sVya
+p6
+I1
+sVsemiautomatic
+p7
+I1
+sVgo
+p8
+I3
+sV80\u2032s
+p9
+I1
+sVcold
+p10
+I1
+sVeyes
+p11
+I1
+sVyet
+p12
+I1
+sVmake
+p13
+I1
+sVaint
+p14
+I5
+sVchain
+p15
+I1
+sVla
+p16
+I4
+sVtrue
+p17
+I1
+sVwon\u2019t
+p18
+I1
+sVit\u2019s
+p19
+I5
+sVfeel
+p20
+I1
+sVjam
+p21
+I2
+sVblack
+p22
+I1
+sVregal
+p23
+I1
+sVhip
+p24
+I4
+sVdo
+p25
+I1
+sVya\u2019ll
+p26
+I1
+sVsomebody
+p27
+I1
+sVaround
+p28
+I3
+sVyo
+p29
+I1
+sVget
+p30
+I5
+sVi\u2019m
+p31
+I8
+sVrhyme
+p32
+I1
+sVaddicts
+p33
+I1
+sVda
+p34
+I6
+sVme
+p35
+I3
+sVgame
+p36
+I1
+sVtraffic
+p37
+I1
+sVknow
+p38
+I8
+sVbit
+p39
+I1
+sVgeo
+p40
+I1
+sVwipe
+p41
+I1
+sVlike
+p42
+I6
+sVmagic
+p43
+I1
+sVname
+p44
+I1
+sVdoublem
+p45
+I1
+sV\u2019bout
+p46
+I1
+sVdrop
+p47
+I1
+sV\u201987
+p48
+I1
+sVcommon
+p49
+I3
+sVgran
+p50
+I1
+sVrock
+p51
+I1
+sVsoft
+p52
+I2
+sVeurope
+p53
+I1
+sVnigga
+p54
+I5
+sVpeople
+p55
+I2
+sVyeah
+p56
+I7
+sVmuthafuckas
+p57
+I2
+sVculture
+p58
+I1
+sVdebaters
+p59
+I1
+sVcallate
+p60
+I1
+sVreally
+p61
+I1
+sVyou\u2019s
+p62
+I1
+sVnothing
+p63
+I1
+sVsaid
+p64
+I1
+sVsinging
+p65
+I1
+sVrep
+p66
+I1
+sVmuthfuckers
+p67
+I1
+sVasking
+p68
+I1
+sVasthmatic
+p69
+I1
+sVit
+p70
+I1
+sVprobably
+p71
+I1
+sVass
+p72
+I2
+sVhero
+p73
+I1
+sVmonster
+p74
+I1
+sVwa
+p75
+I2
+sVmissing
+p76
+I1
+sVfrank
+p77
+I1
+sVnever
+p78
+I1
+sVmuthafucka
+p79
+I2
+sVhere
+p80
+I1
+sVput
+p81
+I1
+sVpost
+p82
+I1
+sVcome
+p83
+I4
+sVthrone
+p84
+I1
+sVgreat
+p85
+I1
+sVwherever
+p86
+I1
+sVmuthafcker
+p87
+I1
+sVow
+p88
+I1
+sVthats
+p89
+I1
+sVseeing
+p90
+I2
+sVco
+p91
+I1
+sVpresence
+p92
+I1
+sVwall
+p93
+I1
+sVsweet
+p94
+I8
+sVvain
+p95
+I1
+sVsynonymous
+p96
+I1
+sVcrib
+p97
+I2
+sVfeet
+p98
+I1
+sVfranchise
+p99
+I1
+sVright
+p100
+I2
+sVdone
+p101
+I1
+sVbitch
+p102
+I2
+sVcocaine
+p103
+I1
+sVhoes
+p104
+I1
+sVwan
+p105
+I1
+sVlittle
+p106
+I1
+sVfrom
+p107
+I2
+sVcreativity
+p108
+I1
+sVwit\u2019
+p109
+I1
+sV\u2018em
+p110
+I1
+sVlive
+p111
+I2
+sVmaster
+p112
+I1
+sVlot
+p113
+I1
+sVtype
+p114
+I1
+sVpro
+p115
+I1
+sVtryna
+p116
+I1
+sVdirection
+p117
+I1
+sVhuh
+p118
+I1
+sVlane
+p119
+I1
+sVboca
+p120
+I1
+sVobserve
+p121
+I1
+sVcleanse
+p122
+I1
+sVobama
+p123
+I1
+sVbegins
+p124
+I1
+sVking
+p125
+I1
+sVniggas
+p126
+I2
+sVwork
+p127
+I1
+sVprominence
+p128
+I1
+sVsay
+p129
+I2
+sVair
+p130
+I3
+sVbroads
+p131
+I1
+sVy\u2019all
+p132
+I1
+sVuh
+p133
+I2
+sVencore
+p134
+I3
+sVsomething
+p135
+I1
+sVsupreme
+p136
+I1
+sVplayin\u2019
+p137
+I1
+sVgive
+p138
+I1
+sVis
+p139
+I1
+sVforgot
+p140
+I1
+sVam
+p141
+I1
+sVfuck
+p142
+I1
+sVrah
+p143
+I2
+sVraw
+p144
+I3
+sVsingle
+p145
+I1
+sVat
+p146
+I1
+sVrap
+p147
+I2
+sVneed
+p148
+I1
+sVpolitics
+p149
+I1
+sVshit
+p150
+I3
+sVlid
+p151
+I1
+sVhoe
+p152
+I2
+sVmaserati
+p153
+I1
+sVrollin\u2019
+p154
+I1
+sVpure
+p155
+I1
+sVlil
+p156
+I1
+sVna
+p157
+I2
+sVnah
+p158
+I2
+sVstayed
+p159
+I1
+sVsinatra
+p160
+I1
+sVhop
+p161
+I4
+sVmathematics
+p162
+I1
+sVyou
+p163
+I1
+sVmap
+p164
+I1
+sVused
+p165
+I2
+sVsee
+p166
+I2
+sValist
+p167
+I1
+sVdrink
+p168
+I1
+sVtook
+p169
+I2
+sVimportant
+p170
+I1
+sVpair
+p171
+I1
+sVelse
+p172
+I1
+sVwinters
+p173
+I1
+sVman
+p174
+I15
+sVmuthafucking
+p175
+I1
+sVoff
+p176
+I3
+sVcommoners
+p177
+I1
+sVsomethin\u2019
+p178
+I1
+sVdada
+p179
+I2
+sVgon\u2019
+p180
+I1
+sVgreatest
+p181
+I1
+sVthings
+p182
+I1
+sVfresh
+p183
+I1
+sVoverseas
+p184
+I1
+sVdream
+p185
+I1
+sVmic
+p186
+I1
+s.

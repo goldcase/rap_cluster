@@ -1,52 +1,443 @@
-"airplanes" lyrics
-lupe fiasco lyrics
-"airplanes"
-(feat. haley williams)
-can we pretend that airplanes
-in the night sky
-are like shooting stars
-i could really use a wish right now (wish right now, wish right now)
-can we pretend that airplanes
-in the night sky
-are like shooting stars
-i could really use a wish right now (wish right now, wish right now)
-wishes that the world could see
-from the position of my girl and me
-from the perspective of laying on the hood of a car
-looking up at the stars with all the connections cut
-cause when you stuck, advantages vanishes
-bandages on the damages of what depression does
-so quest it cuz, who are they to question us?
-beating up our ear drums like question love
-with all of their requests from above
-press from below, only directions to bus
-thus we laying in the cut on the cutlass supreme
-looking up at the scene
-hoping it doesn’t cut, the fresh and the make up
-get re-fed the lines and reminded of what they mean
-the importance of really acting like they important
-and if you don’t feel ‘em you should force ‘em now…
-can we pretend that airplanes
-in the night sky
-are like shooting stars
-i could really use a wish right now (wish right now, wish right now)
-can we pretend that airplanes
-in the night sky
-are like shooting stars
-i could really use a wish right now (wish right now, wish right now)
-wishes that mend the broken heart
-fill the open palm, pardon my flow and thoughts
-my departure from the norm, the parch thats more warm
-walks on from the marching of your armies and the dropping of your bombs
-the walking on the waters now stomping on the pond
-the ripples now a wave
-it can’t be peaceful with a pistol in your face
-you can’t beat the people so you picking on they place
-i jump to defend i’m wage with a page
-my pen’s mightier than them and i got missles on the stage
-this couch is for the cowards and stretchers for the brave
-and i happily lay upon the bed that i have made
-like house keep, sheets and pillow case
-but i don’t sleep, dreams keeping me awake
-they went up thinking they would never touch the ground
-but we gon wish it ‘pon ‘em on the way back down
+(dp1
+Vwalking
+p2
+I1
+sVlyrics
+p3
+I2
+sVparch
+p4
+I1
+sVsleep
+p5
+I1
+sVtouch
+p6
+I1
+sVdoesn\u2019t
+p7
+I1
+sVfeat
+p8
+I1
+sVmarching
+p9
+I1
+sVwage
+p10
+I1
+sVcut
+p11
+I3
+sVpardon
+p12
+I1
+sVthinking
+p13
+I1
+sVsky
+p14
+I4
+sVcuz
+p15
+I1
+sVmissles
+p16
+I1
+sVmend
+p17
+I1
+sVnorm
+p18
+I1
+sVcase
+p19
+I1
+sVget
+p20
+I1
+sVbeat
+p21
+I1
+sVscene
+p22
+I1
+sVwishes
+p23
+I2
+sVpress
+p24
+I1
+sVworld
+p25
+I1
+sVnow
+p26
+I4
+sVdreams
+p27
+I1
+sVpistol
+p28
+I1
+sVlike
+p29
+I7
+sVlaying
+p30
+I2
+sVbombs
+p31
+I1
+sVwish
+p32
+I13
+sVwent
+p33
+I1
+sVpage
+p34
+I1
+sVmean
+p35
+I1
+sVright
+p36
+I12
+sVforce
+p37
+I1
+sVpeople
+p38
+I1
+sVhouse
+p39
+I1
+sVhaley
+p40
+I1
+sVback
+p41
+I1
+sVconnections
+p42
+I1
+sVsee
+p43
+I1
+sVpalm
+p44
+I1
+sVperspective
+p45
+I1
+sVgirl
+p46
+I1
+sVdepression
+p47
+I1
+sVreally
+p48
+I5
+sVgon
+p49
+I1
+sVrefed
+p50
+I1
+sVdefend
+p51
+I1
+sVlooking
+p52
+I2
+sVimportance
+p53
+I1
+sVacting
+p54
+I1
+sVdoes
+p55
+I1
+sVabove
+p56
+I1
+sVgot
+p57
+I1
+sVbeating
+p58
+I1
+sVcause
+p59
+I1
+sVcan\u2019t
+p60
+I2
+sVnever
+p61
+I1
+sVbed
+p62
+I1
+sVlupe
+p63
+I1
+sVnight
+p64
+I4
+sVbroken
+p65
+I1
+sVadvantages
+p66
+I1
+sVdrums
+p67
+I1
+sVdirections
+p68
+I1
+sVpicking
+p69
+I1
+sVstage
+p70
+I1
+sVcould
+p71
+I5
+sVkeep
+p72
+I1
+sVplace
+p73
+I1
+sVrequests
+p74
+I1
+sV\u2018pon
+p75
+I1
+sVpillow
+p76
+I1
+sVthats
+p77
+I1
+sVcutlass
+p78
+I1
+sVlove
+p79
+I1
+sVfeel
+p80
+I1
+sVbandages
+p81
+I1
+sVdown
+p82
+I1
+sVbrave
+p83
+I1
+sVopen
+p84
+I1
+sVhood
+p85
+I1
+sVuse
+p86
+I4
+sVwould
+p87
+I1
+sVpen\u2019s
+p88
+I1
+sVnow\u2026
+p89
+I1
+sVquestion
+p90
+I2
+sVripples
+p91
+I1
+sVcowards
+p92
+I1
+sVstuck
+p93
+I1
+sVdropping
+p94
+I1
+sVdon\u2019t
+p95
+I2
+sVstars
+p96
+I5
+sVstomping
+p97
+I1
+sVwilliams
+p98
+I1
+sVway
+p99
+I1
+sVhappily
+p100
+I1
+sVbus
+p101
+I1
+sVpeaceful
+p102
+I1
+sVairplanes
+p103
+I6
+sVwarm
+p104
+I1
+sVawake
+p105
+I1
+sVear
+p106
+I1
+sVme
+p107
+I1
+sVjump
+p108
+I1
+sVkeeping
+p109
+I1
+sVmade
+p110
+I1
+sVcar
+p111
+I1
+sVpretend
+p112
+I4
+sVup
+p113
+I1
+sVus
+p114
+I1
+sVheart
+p115
+I1
+sVsupreme
+p116
+I1
+sVhoping
+p117
+I1
+sVlines
+p118
+I1
+sVthus
+p119
+I1
+sVmightier
+p120
+I1
+sVwalks
+p121
+I1
+sVpond
+p122
+I1
+sVshooting
+p123
+I4
+sVfill
+p124
+I1
+sV\u2018em
+p125
+I3
+sVmake
+p126
+I1
+sVreminded
+p127
+I1
+sVvanishes
+p128
+I1
+sVcouch
+p129
+I1
+sVi\u2019m
+p130
+I1
+sVdamages
+p131
+I1
+sVarmies
+p132
+I1
+sVwaters
+p133
+I1
+sVupon
+p134
+I1
+sVimportant
+p135
+I1
+sVground
+p136
+I1
+sVlay
+p137
+I1
+sVsheets
+p138
+I1
+sVposition
+p139
+I1
+sVwave
+p140
+I1
+sVthoughts
+p141
+I1
+sVstretchers
+p142
+I1
+sVflow
+p143
+I1
+sVdeparture
+p144
+I1
+sVface
+p145
+I1
+sVquest
+p146
+I1
+sVfiasco
+p147
+I1
+sVfresh
+p148
+I1
+s.

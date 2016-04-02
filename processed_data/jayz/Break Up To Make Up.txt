@@ -1,52 +1,466 @@
-"break up to make up" lyrics
-jay-z lyrics
-"break up to make up"
-mmmmm.. ohhhh, ohhhohhhhh
-oooohhh.. ohhh no, mmmmm
-you and me, havin sex
-after an argument, that shit's the best
-you and me, havin sex yeahh
-after an argument, that shit's the best
-(think about it while the streets you roam
-it's dom p and army in the fridge when you get home)
-i storm in, she storm out
-it's like the "war of the roses" goin on in my house
-it's a little seperation but i know how to fix the situation
-mami just sufferin from love deprevation
-so i gotta give her thug reperations
-put it in the life until love leg is shakin
-slow and passionate, 'til we forget what happens
-then we laughin and we back friends
-you don't have to fuss and fight
-why don't you just spend the night
-baby let's just kiss and hug
-you know the words girl let's make up
-so much love to be made
-instead of screamin, "who's to blame?"
-girl i don't wanna.. let you go, i need you so
-girlfriend didn't believe me when i said i'd be back in a little
-cause i had the chris t on with the crease in the middle
-plus a fresh cut and the freezin icicles
-on my wrist, on my hand, that's when shit hit the fan
-said, "you never spend timey, what's up with that?"
-translated it means
-hit it hard from the back
-yeah she hid my car keys
-and forced me to fall asleep to her heartbeat
-i don't want.. baby i don't want to fight
-i just wanna make it right (ooh yeah)
-put out problems to the side
-let's just make sweet love tonight (i don't want)
-baby i don't want to fight
-i just wanna make it right (ohhhhh love)
-put our problems to the side
-let's just make sweet love tonight
-sex so intense, all that's on my mind
-it ain't feel this good since the very first time
-i'm pullin her close, she's pullin away
-i'm tryin to kiss her mouth but she keeps turnin her face
-cute sex game like our very first date
-we ain't know each other well enough, we had to wait
-but oh!  i know just where your hot spot at
-you can not deny that, so do not try that
-i do not buy that..
+(dp1
+Vcute
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVicicles
+p5
+I1
+sVgo
+p6
+I1
+sVwhats
+p7
+I1
+sVaint
+p8
+I2
+sVslow
+p9
+I1
+sVfix
+p10
+I1
+sVhot
+p11
+I1
+sVhavin
+p12
+I2
+sVlets
+p13
+I4
+sVohhh
+p14
+I1
+sVta
+p15
+I1
+sVgood
+p16
+I1
+sVhit
+p17
+I2
+sVget
+p18
+I1
+sVohhhohhhhh
+p19
+I1
+sVfridge
+p20
+I1
+sVbreak
+p21
+I2
+sVgame
+p22
+I1
+sVfan
+p23
+I1
+sVknow
+p24
+I4
+sVkiss
+p25
+I2
+sVfall
+p26
+I1
+sVlike
+p27
+I2
+sVtry
+p28
+I1
+sVp
+I1
+sVnight
+p29
+I1
+sVtranslated
+p30
+I1
+sVpassionate
+p31
+I1
+sVside
+p32
+I2
+sVright
+p33
+I2
+sVhouse
+p34
+I1
+sVturnin
+p35
+I1
+sVstreets
+p36
+I1
+sVback
+p37
+I3
+sVsex
+p38
+I4
+sVmmmmm
+p39
+I2
+sVshes
+p40
+I1
+sVdeprevation
+p41
+I1
+sVhome
+p42
+I1
+sVgirl
+p43
+I2
+sVbest
+p44
+I2
+sVout
+p45
+I1
+sVhappens
+p46
+I1
+sVsaid
+p47
+I2
+sVfreezin
+p48
+I1
+sVaway
+p49
+I1
+sVsince
+p50
+I1
+sVenough
+p51
+I1
+sVoooohhh
+p52
+I1
+sVgot
+p53
+I1
+sVcause
+p54
+I1
+sVreperations
+p55
+I1
+sVasleep
+p56
+I1
+sVleg
+p57
+I1
+sVspot
+p58
+I1
+sVnever
+p59
+I1
+sVblame
+p60
+I1
+sVcut
+p61
+I1
+sVlet
+p62
+I1
+sVput
+p63
+I3
+sVlaughin
+p64
+I1
+sVintense
+p65
+I1
+sVwait
+p66
+I1
+sVhard
+p67
+I1
+sVtimey
+p68
+I1
+sVface
+p69
+I1
+sVscreamin
+p70
+I1
+sVohhhhh
+p71
+I1
+sVplus
+p72
+I1
+sVroam
+p73
+I1
+sVheartbeat
+p74
+I1
+sVpullin
+p75
+I2
+sVmouth
+p76
+I1
+sVseperation
+p77
+I1
+sVthats
+p78
+I2
+sVlove
+p79
+I6
+sVdont
+p80
+I7
+sVfeel
+p81
+I1
+sVsweet
+p82
+I2
+sVdate
+p83
+I1
+sVjayz
+p84
+I1
+sVfight
+p85
+I3
+sVsufferin
+p86
+I1
+sVwan
+p87
+I3
+sVlittle
+p88
+I2
+sVarmy
+p89
+I1
+sVwhos
+p90
+I1
+sVmami
+p91
+I1
+sVmuch
+p92
+I1
+sVstorm
+p93
+I2
+sVshits
+p94
+I2
+sVtryin
+p95
+I1
+sVwar
+p96
+I1
+sVlife
+p97
+I1
+sVhug
+p98
+I1
+sVthat
+p99
+I3
+sVooh
+p100
+I1
+sVyeah
+p101
+I2
+sVbaby
+p102
+I3
+sVbelieve
+p103
+I1
+sVmade
+p104
+I1
+sVmiddle
+p105
+I1
+sVneed
+p106
+I1
+sVoh
+p107
+I1
+sVup
+p108
+I2
+sVsituation
+p109
+I1
+sVdidnt
+p110
+I1
+sVhid
+p111
+I1
+sVgive
+p112
+I1
+sVmind
+p113
+I1
+sVargument
+p114
+I2
+sVtonight
+p115
+I2
+sVgirlfriend
+p116
+I1
+sVbuy
+p117
+I1
+sVim
+p118
+I2
+sVat
+p119
+I1
+sVwant
+p120
+I4
+sVclose
+p121
+I1
+sVthug
+p122
+I1
+sVohhhh
+p123
+I1
+sVcrease
+p124
+I1
+sVid
+p125
+I1
+sVshit
+p126
+I1
+sVcar
+p127
+I1
+sVforced
+p128
+I1
+sVna
+p129
+I3
+sVmake
+p130
+I7
+sVmeans
+p131
+I1
+sVtil
+p132
+I1
+sVroses
+p133
+I1
+sVshakin
+p134
+I1
+sVyeahh
+p135
+I1
+sVinstead
+p136
+I1
+sVfuss
+p137
+I1
+sVkeys
+p138
+I1
+sVkeeps
+p139
+I1
+sVproblems
+p140
+I2
+sVhand
+p141
+I1
+sVwrist
+p142
+I1
+sVchris
+p143
+I1
+sVfriends
+p144
+I1
+sVgoin
+p145
+I1
+sVdeny
+p146
+I1
+sVdom
+p147
+I1
+sVwell
+p148
+I1
+sVthink
+p149
+I1
+sVso
+p150
+I1
+sVtime
+p151
+I1
+sVfresh
+p152
+I1
+sVfirst
+p153
+I2
+sVwords
+p154
+I1
+sVspend
+p155
+I2
+s.

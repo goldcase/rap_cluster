@@ -1,25 +1,239 @@
-"the shot (intro)" lyrics
-ice cube lyrics
-"the shot (intro)"
-hi how ya doin' ?
-doctor's office, could you hold please? yes sir can i help you?
-yes i have a four o'clock appointment, i'm here to get my shot.
-okay, come right with me.
-this isn't gonna take too long is it?
-here we are, here have a seat right here.
-oh great, thanks, thanks.
-the doctor will be right with you, and can i get you anything?
-uhh maybe a glass of water would be great.
-okay great.
-damn, what is taking so long?
-yo wussup?
-hi how ya doin' ?
-alright, let's see what we got here uhh, mr. white huh?
-yes sir that's me.
-heh, i heard you don't like shots do ya?
-no i sure don't.
-aww you're a big boy uhh this won't hurt a bit,
-jus' uhh turn your head...
-let's get this over with.
-yeah uhh, rub a little alcohol on there, right here,
-for you, and uhh brace yourself!
+(dp1
+Vright
+p2
+I4
+sVshot
+p3
+I3
+sVhelp
+p4
+I1
+sVoffice
+p5
+I1
+sVrub
+p6
+I1
+sVyourself
+p7
+I1
+sVit
+p8
+I1
+sVseat
+p9
+I1
+sVfour
+p10
+I1
+sVheard
+p11
+I1
+sVisnt
+p12
+I1
+sVintro
+p13
+I2
+sVim
+p14
+I1
+sVlong
+p15
+I2
+sVokay
+p16
+I2
+sVyes
+p17
+I3
+sVdont
+p18
+I2
+sVyeah
+p19
+I1
+sVsir
+p20
+I2
+sVlittle
+p21
+I1
+sVgon
+p22
+I1
+sVlyrics
+p23
+I2
+sVwould
+p24
+I1
+sVdoctor
+p25
+I1
+sVna
+p26
+I1
+sVbrace
+p27
+I1
+sVplease
+p28
+I1
+sVice
+p29
+I1
+sVoclock
+p30
+I1
+sVlets
+p31
+I2
+sVdamn
+p32
+I1
+sVtake
+p33
+I1
+sVgot
+p34
+I1
+sVyou
+p35
+I1
+sVheh
+p36
+I1
+sVsure
+p37
+I1
+sVyoure
+p38
+I1
+sVwont
+p39
+I1
+sVhead
+p40
+I1
+sVcube
+p41
+I1
+sVappointment
+p42
+I1
+sVyo
+p43
+I1
+sVget
+p44
+I3
+sVya
+p45
+I3
+sVbig
+p46
+I1
+sVdoin
+p47
+I2
+sVhuh
+p48
+I1
+sVhere
+p49
+I2
+sVhurt
+p50
+I1
+sVwater
+p51
+I1
+sVglass
+p52
+I1
+sVhi
+p53
+I2
+sVaww
+p54
+I1
+sVuhh
+p55
+I6
+sVdoctors
+p56
+I1
+sVbit
+p57
+I1
+sVhold
+p58
+I1
+sVcome
+p59
+I1
+sVwhite
+p60
+I1
+sValcohol
+p61
+I1
+sVme
+p62
+I2
+sVboy
+p63
+I1
+sVgreat
+p64
+I3
+sVlike
+p65
+I1
+sVanything
+p66
+I1
+sVoh
+p67
+I1
+sVmaybe
+p68
+I1
+sVcould
+p69
+I1
+sVwussup
+p70
+I1
+sVwith
+p71
+I1
+sVsee
+p72
+I1
+sVturn
+p73
+I1
+sVshots
+p74
+I1
+sVmr
+p75
+I1
+sValright
+p76
+I1
+sVthats
+p77
+I1
+sVtaking
+p78
+I1
+sVjus
+p79
+I1
+sVthanks
+p80
+I2
+s.

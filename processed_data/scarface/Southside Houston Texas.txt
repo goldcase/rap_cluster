@@ -1,69 +1,552 @@
-"southside: houston, texas" lyrics
-scarface lyrics
-"southside: houston, texas"
-(feat. devin, tela)
-meanwhile, on the southside of town...
-southside, the south, southside
-now what you niggas know about the dirty south
-nigga you spit the wrong shit you gettin' spurred in the mouth
-southside, let the spotlight shine, heat 'em up
-introduce 'em to the glock 1-9, beat 'em up
-who in the muthafuckin' house y'all, the gulf coast
-sippin' blurbs, we perb on, serve and get a smoke
-eyes bleedin' from the brown shit
-the porch thick as you could ever fuk around wit
-and shut you down, bitch
-i represent from all angles of the south
-from s.a. to m-i-a, we in the house
-knockin' busta muthafuckas out
-so what you sayin'
-if you for real about this goddamn game
-you'd say you playin'
-so what you claimin'
-peep the game that's bein' spit
-tell dem niggas who ain't listenin'
-that southside's the shit
-i'm screamin' "dirty south"
-while i'm chuckin' up my deuce
-dedicated to my down ass niggas
-the south trues, the southside
-southside, nigga what, nigga southside
-bitches come a dime from outta town
-with they mouth wide open
-scopin' out the popped trunks, trippin'
-off the candy paint, drippin'
-elbows and vogues slippin'
-lookin' for sumtin' to happen
-and thinkin' that these streets are cool
-and i'm the fool to show 'em 'round
-'cuz i be rappin'
-that's when i let 'em  know
-hoe, there's no southern hospitality
-'cuz when dey get here
-then the southern fatality
-i ball
-wit a group of niggas when it's time to do a job
-fuck these groupie bitches smokin' drankin' with the squad
-because it gets crazy after dark
-they keep they hands on they gun
-from 5th ward to south park
-the southside
-bitches and hoes, jewelry and clothes
-money to fold, afterparties and shows
-that's how it goes in this dirty hole
-southside muthafuckas need to let 'em know that uhh
-(niggas ain't playin' in texas)
-even our bitches be bouncin' in bubble lexus
-in the 'llac, in the back, wit yack
-that's our thang
-niggas got game and you slang like main
-i been around the world and i-i-i-i
-love my southside niggas
-i don't know man
-i don't know why, why
-we some live ass niggas
-makes no sense how they pimp in the chi
-i'm gone ball from the h to the m 'til i die
-a-t-l, what the hell, you know atlanta be live
-in between new orleans, shit , we 'bout it and high
-come on
+(dp1
+Vhouston
+p2
+I2
+sVspurred
+p3
+I1
+sVorleans
+p4
+I1
+sVlyrics
+p5
+I2
+sVrepresent
+p6
+I1
+sVmoney
+p7
+I1
+sVhands
+p8
+I1
+sVslippin
+p9
+I1
+sVhell
+p10
+I1
+sVlexus
+p11
+I1
+sVfeat
+p12
+I1
+sVhole
+p13
+I1
+sVaint
+p14
+I2
+sVtil
+p15
+I1
+sVgroup
+p16
+I1
+sVsayin
+p17
+I1
+sVgulf
+p18
+I1
+sVthang
+p19
+I1
+sVshow
+p20
+I1
+sVcuz
+p21
+I2
+sVbout
+p22
+I1
+sVmain
+p23
+I1
+sVtexas
+p24
+I3
+sVreal
+p25
+I1
+sVbrown
+p26
+I1
+sVaround
+p27
+I2
+sVget
+p28
+I2
+sVmuthafuckin
+p29
+I1
+sVbein
+p30
+I1
+sVintroduce
+p31
+I1
+sVcoast
+p32
+I1
+sVdark
+p33
+I1
+sVgame
+p34
+I3
+sVknow
+p35
+I6
+sVsouthside
+p36
+I12
+sVworld
+p37
+I1
+sVchuckin
+p38
+I1
+sVpimp
+p39
+I1
+sVcool
+p40
+I1
+sVtrippin
+p41
+I1
+sVlike
+p42
+I1
+sVknockin
+p43
+I1
+sVgroupie
+p44
+I1
+sVgettin
+p45
+I1
+sVmuthafuckas
+p46
+I2
+sVcandy
+p47
+I1
+sVh
+I1
+sVdie
+p48
+I1
+sVshows
+p49
+I1
+sVround
+p50
+I1
+sVyall
+p51
+I1
+sVclothes
+p52
+I1
+sVem
+p53
+I6
+sVnigga
+p54
+I3
+sVblurbs
+p55
+I1
+sVclaimin
+p56
+I1
+sVhouse
+p57
+I2
+sVbleedin
+p58
+I1
+sVstreets
+p59
+I1
+sVback
+p60
+I1
+sVgun
+p61
+I1
+sVfold
+p62
+I1
+sVhoes
+p63
+I1
+sVyack
+p64
+I1
+sVplayin
+p65
+I2
+sVbusta
+p66
+I1
+sVout
+p67
+I1
+sVeven
+p68
+I1
+sVjewelry
+p69
+I1
+sVtrunks
+p70
+I1
+sVgoes
+p71
+I1
+sVgot
+p72
+I1
+sVever
+p73
+I1
+sVdirty
+p74
+I3
+sVass
+p75
+I2
+sVshut
+p76
+I1
+sVperb
+p77
+I1
+sVdrankin
+p78
+I1
+sVhere
+p79
+I1
+sVjob
+p80
+I1
+sVlet
+p81
+I3
+sVsmokin
+p82
+I1
+sVfatality
+p83
+I1
+sVpeep
+p84
+I1
+sVcome
+p85
+I2
+sVshine
+p86
+I1
+sVon
+p87
+I1
+sVsouthsides
+p88
+I1
+sVbouncin
+p89
+I1
+sVcould
+p90
+I1
+sVllac
+p91
+I1
+sVscreamin
+p92
+I1
+sVspotlight
+p93
+I1
+sVtrues
+p94
+I1
+sVsmoke
+p95
+I1
+sVhospitality
+p96
+I1
+sVmakes
+p97
+I1
+sVsouth
+p98
+I6
+sVthats
+p99
+I4
+sVlove
+p100
+I1
+sVdont
+p101
+I2
+sVgone
+p102
+I1
+sVyoud
+p103
+I1
+sVcrazy
+p104
+I1
+sVwit
+p105
+I3
+sVbitch
+p106
+I1
+sVthick
+p107
+I1
+sVopen
+p108
+I1
+sVdevin
+p109
+I1
+sVsumtin
+p110
+I1
+sVchi
+p111
+I1
+sV5th
+p112
+I1
+sVtela
+p113
+I1
+sVpaint
+p114
+I1
+sVlive
+p115
+I2
+sVgoddamn
+p116
+I1
+sVman
+p117
+I1
+sVbubble
+p118
+I1
+sVtell
+p119
+I1
+sVeyes
+p120
+I1
+sVglock
+p121
+I1
+sVspit
+p122
+I2
+sVporch
+p123
+I1
+sVbitches
+p124
+I4
+sVserve
+p125
+I1
+sVfuck
+p126
+I1
+sVheat
+p127
+I1
+sVangles
+p128
+I1
+sVward
+p129
+I1
+sVdeuce
+p130
+I1
+sVlistenin
+p131
+I1
+sVwide
+p132
+I1
+sVrappin
+p133
+I1
+sVafterparties
+p134
+I1
+sVniggas
+p135
+I8
+sV19
+p136
+I1
+sVup
+p137
+I2
+sVdrippin
+p138
+I1
+sVdem
+p139
+I1
+sVim
+p140
+I4
+sVatlanta
+p141
+I1
+sVfuk
+p142
+I1
+sVtheres
+p143
+I1
+sVfool
+p144
+I1
+sVdedicated
+p145
+I1
+sVoutta
+p146
+I1
+sVatl
+p147
+I1
+sVpopped
+p148
+I1
+sVhigh
+p149
+I1
+sVsay
+p150
+I1
+sVscarface
+p151
+I1
+sVsense
+p152
+I1
+sVneed
+p153
+I1
+sVvogues
+p154
+I1
+sVhappen
+p155
+I1
+sVshit
+p156
+I4
+sVsippin
+p157
+I1
+sVmia
+p158
+I1
+sVthinkin
+p159
+I1
+sVmeanwhile
+p160
+I1
+sViiii
+p161
+I1
+sVbeat
+p162
+I1
+sVsquad
+p163
+I1
+sVnew
+p164
+I1
+sVgets
+p165
+I1
+sVelbows
+p166
+I1
+sVball
+p167
+I2
+sVlookin
+p168
+I1
+sVdime
+p169
+I1
+sVpark
+p170
+I1
+sVsouthern
+p171
+I2
+sVtown
+p172
+I2
+sVwrong
+p173
+I1
+sVhoe
+p174
+I1
+sVmouth
+p175
+I2
+sVuhh
+p176
+I1
+sVwhy
+p177
+I1
+sVslang
+p178
+I1
+sVkeep
+p179
+I1
+sVm
+I1
+sVdey
+p180
+I1
+sVtime
+p181
+I1
+sVscopin
+p182
+I1
+sVsa
+p183
+I1
+s.

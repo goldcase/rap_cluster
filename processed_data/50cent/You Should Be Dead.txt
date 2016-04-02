@@ -1,47 +1,400 @@
-"you should be dead" lyrics
-50 cent lyrics
-"you should be dead"
-i rock a nigga to sleep,
-roc-roc-roc-a-bye baby
-roc-roc-roc-a-bye baby
-you should be dead by now
-smile but wait until my shooters come round
-with the talids and hollow tip rounds
-in my hood they know how i be down (when i say dead, you dead)
-nigga i show you my teeth all through the beef
-paint the sidewalk red with the back of your head
-shootouts in my hood like a daily routine
-d's think im involved with a nigga hit hard
-so when i empty the shell and the hollow tips fly
-nigga you can cross your heart and hope not to die
-come through squash the drama send niggas with llamas
-they'll eat your ass up fuck being masked up
-i was given the gift of life
-first sabrinas since then ive been jammed up
-and fucked with the nina
-nana raised nine kids i turned out the meanest
-i mean a menace
-fuck with me and your finished
-you should be dead by now
-smile but wait until my shooters come round
-with the talids and hollow tip rounds
-in my hood they know how i be down (when i say dead, you dead)
-homie i dont always pay my debts when i owe a nigga bullets
-got an arsenal of infiltry and niggas to pull it
-go head stay out on me, dump weight its nothing
-i chase a nigga down, and touch him, catch him and buss him
-bitch get out the way, baby while i spray it
-i wet a nigga like a hydrant on a hot summer day
-but you can catch me in may riding down with the k
-better watch what you say, we get it popping today
-yeah me i make it hot round here, i call the shots round here
-i have a nigga tearing off your top round here
-this is a land of broken hearts, where bullets shatter dreams
-and everything a nigga want is only triple beams
-southside
-you should be dead by now
-smile but wait until my shooters come round
-with the talids and hollow tip rounds
-in my hood they know how i be down (when i say dead, you dead)
-roc-roc-roc-a-bye baby
-roc-roc-roc-a-bye baby
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVcatch
+p5
+I2
+sVsleep
+p6
+I1
+sVgo
+p7
+I1
+sVmeanest
+p8
+I1
+sVbuss
+p9
+I1
+sVdebts
+p10
+I1
+sVsend
+p11
+I1
+sVhim
+p12
+I1
+sVbetter
+p13
+I1
+sVwet
+p14
+I1
+sVsmile
+p15
+I3
+sVhope
+p16
+I1
+sVhit
+p17
+I1
+sVget
+p18
+I2
+sVbeams
+p19
+I1
+sVwatch
+p20
+I1
+sVknow
+p21
+I3
+sVsouthside
+p22
+I1
+sVnow
+p23
+I3
+sVds
+p24
+I1
+sVdreams
+p25
+I1
+sVlike
+p26
+I2
+sVgift
+p27
+I1
+sVdie
+p28
+I1
+sV50
+p29
+I1
+sVhydrant
+p30
+I1
+sVshots
+p31
+I1
+sValways
+p32
+I1
+sVsidewalk
+p33
+I1
+sVround
+p34
+I6
+sVrocrocrocabye
+p35
+I4
+sVmean
+p36
+I1
+sVnigga
+p37
+I9
+sVdump
+p38
+I1
+sVhard
+p39
+I1
+sVback
+p40
+I1
+sVdead
+p41
+I11
+sVtouch
+p42
+I1
+sVpopping
+p43
+I1
+sVnana
+p44
+I1
+sVsince
+p45
+I1
+sVeverything
+p46
+I1
+sVmasked
+p47
+I1
+sVroutine
+p48
+I1
+sVgot
+p49
+I1
+sVtips
+p50
+I1
+sVred
+p51
+I1
+sVshooters
+p52
+I3
+sVass
+p53
+I1
+sVrock
+p54
+I1
+sVhere
+p55
+I2
+sVbroken
+p56
+I1
+sVspray
+p57
+I1
+sVcome
+p58
+I4
+sVwait
+p59
+I3
+sVkids
+p60
+I1
+sVinvolved
+p61
+I1
+sVk
+I1
+sVdrama
+p62
+I1
+sVshootouts
+p63
+I1
+sVthink
+p64
+I1
+sVfirst
+p65
+I1
+sVraised
+p66
+I1
+sVdont
+p67
+I1
+sVive
+p68
+I1
+sVowe
+p69
+I1
+sVarsenal
+p70
+I1
+sVhollow
+p71
+I4
+sVnothing
+p72
+I1
+sVjammed
+p73
+I1
+sVbitch
+p74
+I1
+sVrounds
+p75
+I3
+sVhood
+p76
+I4
+sVgiven
+p77
+I1
+sVweight
+p78
+I1
+sVbeef
+p79
+I1
+sVtop
+p80
+I1
+sVcent
+p81
+I1
+sVpaint
+p82
+I1
+sVcall
+p83
+I1
+sVway
+p84
+I1
+sVempty
+p85
+I1
+sVhead
+p86
+I2
+sVshell
+p87
+I1
+sVsquash
+p88
+I1
+sVit
+p89
+I2
+sVfinished
+p90
+I1
+sVinfiltry
+p91
+I1
+sVriding
+p92
+I1
+sVbaby
+p93
+I5
+sVtearing
+p94
+I1
+sVeat
+p95
+I1
+sVfly
+p96
+I1
+sVpull
+p97
+I1
+sVniggas
+p98
+I2
+sVup
+p99
+I2
+sVnina
+p100
+I1
+sVnine
+p101
+I1
+sVtoday
+p102
+I1
+sVheart
+p103
+I1
+sVtriple
+p104
+I1
+sVturned
+p105
+I1
+sVfuck
+p106
+I2
+sVsay
+p107
+I4
+sVhomie
+p108
+I1
+sVim
+p109
+I1
+sVwant
+p110
+I1
+sVchase
+p111
+I1
+sVtheyll
+p112
+I1
+sVpay
+p113
+I1
+sVmake
+p114
+I1
+sVtip
+p115
+I3
+sVcross
+p116
+I1
+sVhot
+p117
+I2
+sVday
+p118
+I1
+sVmay
+p119
+I1
+sVshatter
+p120
+I1
+sVllamas
+p121
+I1
+sVstay
+p122
+I1
+sVtalids
+p123
+I3
+sVbullets
+p124
+I2
+sVfucked
+p125
+I1
+sVyeah
+p126
+I1
+sVland
+p127
+I1
+sVlife
+p128
+I1
+sVdaily
+p129
+I1
+sVsabrinas
+p130
+I1
+sVteeth
+p131
+I1
+sVhearts
+p132
+I1
+sVmenace
+p133
+I1
+s.

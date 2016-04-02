@@ -1,83 +1,678 @@
-"keep me down" lyrics
-scarface lyrics
-"keep me down"
-this song is about a nigga always trying to keep you down you know
-now touch that
-we made something from nothing
-and vowed to never tear it apart
-we turned the street hustle into an art
-that would quickly change life forever for us
-no more riding bikes or catching the bus
-we on the roll up, money to fold up
-with cognac and cooked yola
-got the neighborhood about to blow up, but hold up
-i see this van sittin', this old cat in a fitted
-trying to get your little homey tore up
-yo bruh, we ain't working on this corner take your ass on, dog
-before you make me feed your ass to my hogs you fucking faggot
-i know you want to catch me with this bag so you can hide me
-or with my 44 so you can 45 me
-you put this shit off in our neighborhoods and sweat us
-and when you finally catch us up you give us letters
-a cold thing
-just when a nigga reach his gold man
-you hand him a case for easing out the dope game
-and i'm...
-watching us unfold with the times
-he don't really want a nigga to climb
-you'd rather separate me from my family forever
-instead of trying to keep us together
-you motherfuckers would rather keep me down...
-so what i rap about these streets
-that don't make me be no less of a man
-than a person that do work with his hands
-it's bad enough i gots to deal with all these pressures that stand
-you tryin' to make me stray away from my plan
-know what i'm sayin'?
-i'm from the gutter, where all we had was one another
-no wheat bread to butter, from one bed to the other
-all uncles and no brother
-my mother's at work
-my grandfather was my dad
-and when he died it hurt
-and as i hold back the tears my eye-wells swell
-i been praying for heaven, i been living in hell
-and these niggas in my age group is dead or either locked up
-the bitches no better, they smoked out or knocked up
-but i still love my hood, that's where it started
-ain't no hard feelings, we partners nigga, regardless
-that's why you always see me coming around
-cause i could never turn my back on my town
-but still i'm...
-watching us unfold with the times
-he don't really want a nigga to climb
-you'd rather separate me from my family forever
-instead of trying to keep us together
-you motherfuckers would rather keep me down...
-money never changed me
-money changed the people around
-now they plot to try to keep me down
-but still i rise like yeast
-your whole conversation bout b
-fuck a nigga talking bout me, i'm a g
-the realest motherfucker ever done it
-you can't continue to pimp me and y'all eat from it
-so fuck every soul who ever felt like i owed
-them a god damn dime, or a god damn rhyme or a god damn chance
-motherfucker you sad
-you a grown ass man, holding a nigga hand
-now get out on your own, stop depending on your homes
-to chuck you a bone, and stop throwing stones
-and that goes for everybody thinking it's them
-fuck you, you and you
-her, him and him
-tom, dick and kim
-all of y'all stand accused
-saying fuck to me
-and i done bought your children's shoes
-i'm...
-watching us unfold with the times
-he don't really want a nigga to climb
-you'd rather separate me from my family forever
-instead of trying to keep us together
-you motherfuckers would rather keep me down...
+(dp1
+Vstones
+p2
+I1
+sVsaying
+p3
+I1
+sVrealest
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVless
+p7
+I1
+sVmoney
+p8
+I3
+sVbikes
+p9
+I1
+sVtore
+p10
+I1
+sVtouch
+p11
+I1
+sVcorner
+p12
+I1
+sVcold
+p13
+I1
+sVpraying
+p14
+I1
+sVchildrens
+p15
+I1
+sVblow
+p16
+I1
+sVpartners
+p17
+I1
+sVtrying
+p18
+I5
+sVgroup
+p19
+I1
+sVgold
+p20
+I1
+sVthinking
+p21
+I1
+sVdick
+p22
+I1
+sVeat
+p23
+I1
+sVbetter
+p24
+I1
+sVfinally
+p25
+I1
+sVcognac
+p26
+I1
+sVriding
+p27
+I1
+sVwatching
+p28
+I3
+sVbread
+p29
+I1
+sVdad
+p30
+I1
+sVcase
+p31
+I1
+sVthem
+p32
+I1
+sVaround
+p33
+I2
+sVyo
+p34
+I1
+sVget
+p35
+I2
+sVdope
+p36
+I1
+sVsittin
+p37
+I1
+sVrhyme
+p38
+I1
+sVgame
+p39
+I1
+sVb
+I1
+sVevery
+p40
+I1
+sVknow
+p41
+I3
+sVhands
+p42
+I1
+sVfeelings
+p43
+I1
+sVhim
+p44
+I1
+sVapart
+p45
+I1
+sVheaven
+p46
+I1
+sVlike
+p47
+I2
+sVpimp
+p48
+I1
+sVmothers
+p49
+I1
+sVtear
+p50
+I1
+sValways
+p51
+I2
+sVbrother
+p52
+I1
+sVgrandfather
+p53
+I1
+sVtry
+p54
+I1
+sVbag
+p55
+I1
+sVbad
+p56
+I1
+sVcontinue
+p57
+I1
+sVeither
+p58
+I1
+sVconversation
+p59
+I1
+sVbought
+p60
+I1
+sVyall
+p61
+I2
+sVnigga
+p62
+I8
+sVart
+p63
+I1
+sVyola
+p64
+I1
+sVdeal
+p65
+I1
+sVpeople
+p66
+I1
+sVfucking
+p67
+I1
+sVstreets
+p68
+I1
+sVback
+p69
+I2
+sVdead
+p70
+I1
+sVsoul
+p71
+I1
+sVfold
+p72
+I1
+sVsee
+p73
+I2
+sVstreet
+p74
+I1
+sVchuck
+p75
+I1
+sVbed
+p76
+I1
+sVhell
+p77
+I1
+sVyeast
+p78
+I1
+sVreally
+p79
+I3
+sVliving
+p80
+I1
+sVturn
+p81
+I1
+sVstill
+p82
+I3
+sVhide
+p83
+I1
+sVgod
+p84
+I3
+sVaway
+p85
+I1
+sVdime
+p86
+I1
+sVpressures
+p87
+I1
+sVenough
+p88
+I1
+sVgoes
+p89
+I1
+sVit
+p90
+I2
+sVgot
+p91
+I1
+sVcause
+p92
+I1
+sVhustle
+p93
+I1
+sVass
+p94
+I3
+sVaint
+p95
+I2
+sVwheat
+p96
+I1
+sVlove
+p97
+I1
+sVnever
+p98
+I3
+sVmotherfucker
+p99
+I2
+sVever
+p100
+I2
+sVunfold
+p101
+I3
+sVput
+p102
+I1
+sVgots
+p103
+I1
+sVbone
+p104
+I1
+sVchange
+p105
+I1
+sVsayin
+p106
+I1
+sVaccused
+p107
+I1
+sVworking
+p108
+I1
+sVg
+I1
+sVcould
+p109
+I1
+sVchanged
+p110
+I2
+sVkeep
+p111
+I10
+sVthing
+p112
+I1
+sVsweat
+p113
+I1
+sVclimb
+p114
+I3
+sVwhole
+p115
+I1
+sVmotherfuckers
+p116
+I3
+sVthats
+p117
+I2
+sVfeed
+p118
+I1
+sVletters
+p119
+I1
+sVdont
+p120
+I4
+sVfamily
+p121
+I3
+sVyoud
+p122
+I3
+sVone
+p123
+I2
+sVdown
+p124
+I5
+sVhogs
+p125
+I1
+sVdone
+p126
+I2
+sVanother
+p127
+I1
+sVneighborhood
+p128
+I1
+sVhood
+p129
+I1
+sVeverybody
+p130
+I1
+sVplot
+p131
+I1
+sVlittle
+p132
+I1
+sVvan
+p133
+I1
+sVwould
+p134
+I4
+sVtears
+p135
+I1
+sVquickly
+p136
+I1
+sVthrowing
+p137
+I1
+sVdamn
+p138
+I3
+sVdied
+p139
+I1
+sVbruh
+p140
+I1
+sVtryin
+p141
+I1
+sVeyewells
+p142
+I1
+sVlife
+p143
+I1
+sVhard
+p144
+I1
+sVthat
+p145
+I1
+sVstarted
+p146
+I1
+sVbus
+p147
+I1
+sVbitches
+p148
+I1
+sVhurt
+p149
+I1
+sVcatch
+p150
+I2
+sVhold
+p151
+I2
+sVbout
+p152
+I2
+sVme
+p153
+I4
+sVhomes
+p154
+I1
+sVmade
+p155
+I1
+sVlocked
+p156
+I1
+sVniggas
+p157
+I1
+sVhomey
+p158
+I1
+sVup
+p159
+I5
+sVus
+p160
+I10
+sVcat
+p161
+I1
+sVwork
+p162
+I2
+sVcatching
+p163
+I1
+sVknocked
+p164
+I1
+sVim
+p165
+I6
+sVfaggot
+p166
+I1
+sVowed
+p167
+I1
+sVrap
+p168
+I1
+sVgive
+p169
+I1
+sVturned
+p170
+I1
+sVfuck
+p171
+I4
+sVsad
+p172
+I1
+sVtalking
+p173
+I1
+sVcant
+p174
+I1
+sVscarface
+p175
+I1
+sVsomething
+p176
+I1
+sVwant
+p177
+I4
+sVtimes
+p178
+I3
+sVshit
+p179
+I1
+sVgrown
+p180
+I1
+sVuncles
+p181
+I1
+sVperson
+p182
+I1
+sVrather
+p183
+I6
+sV44
+p184
+I1
+sV45
+p185
+I1
+sVtom
+p186
+I1
+sVold
+p187
+I1
+sVother
+p188
+I1
+sVtake
+p189
+I1
+sVholding
+p190
+I1
+sVinstead
+p191
+I3
+sVyou
+p192
+I1
+sVroll
+p193
+I1
+sVstand
+p194
+I2
+sVstray
+p195
+I1
+sVrise
+p196
+I1
+sVregardless
+p197
+I1
+sVseparate
+p198
+I3
+sVstop
+p199
+I2
+sVswell
+p200
+I1
+sVfelt
+p201
+I1
+sVreach
+p202
+I1
+sVhand
+p203
+I2
+sVtown
+p204
+I1
+sVchance
+p205
+I1
+sVplan
+p206
+I1
+sVkim
+p207
+I1
+sVcoming
+p208
+I1
+sVnothing
+p209
+I1
+sVsong
+p210
+I1
+sVvowed
+p211
+I1
+sVman
+p212
+I3
+sVbutter
+p213
+I1
+sVforever
+p214
+I4
+sVgutter
+p215
+I1
+sVneighborhoods
+p216
+I1
+sVage
+p217
+I1
+sVdepending
+p218
+I1
+sVdog
+p219
+I1
+sVtogether
+p220
+I3
+sVcooked
+p221
+I1
+sVeasing
+p222
+I1
+sVsmoked
+p223
+I1
+sVmake
+p224
+I3
+sVfitted
+p225
+I1
+s.

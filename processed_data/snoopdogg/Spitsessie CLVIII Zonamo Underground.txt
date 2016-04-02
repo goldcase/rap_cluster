@@ -1,59 +1,405 @@
-"spitsessie clviii zonamo underground" lyrics
-snoop dogg lyrics
-"spitsessie clviii zonamo underground"
-i’m here now nigger yeah, you’ve been waiting on me to bust on this beat.
-so let me go ahead and do my thing.
-i’ve got one all ready.
-you can smoke on the jeezy
-imma smoke on the bleezy
-nigger take it easy
-big snoop heezy all-in the place let the beat go bang and turnup the bass
-imma give it to you live and direct on stage
-cuz imma different nigger when i hit that stage
-my name is snoop dogg and you can turn the page
-kick that shit like a 12-gage
-motherfucker get close to the shit that i bang like
-snoop dogg is on the microphone and i came like
-this is that good shit straight from my brain like
-nigger gettin’ close try to pitch in frame like
-don’t get close cuz i represent the coast
-burn a nigger like a breakfast toast
-yes indeed i procceed
-and i’m in amsterdam blowing weed
-with my niggers
-we gettin’ money, money, money, money, money, money, money
-we gettin’ money, money, money, money, money, money, money
-let me break it down like this
-see, see to get money is a small thing for me
-to get money is a big thing for you
-but you don’t get it like i get it cuz your name ain’t snoop
-and you don’t roll around in a 78’ coupe
-with the windows lay that
-laidback
-with a bad bitch holding on my
-litt that
-yeah i'm bout to do that
-and rear that
-and clear that
-and do it to you just like did that
-boom bam
-cuz i go like that
-i make a motherfucker wanna flow like that
-i take it back to the store like that
-bust your bitch and make her wanna hold like that
-cuz i’m all about cheese
-snoop dogg d o dubble g
-i am the one and only s n dubble o p d o dubble g why from the lbc
-and i get money, money, money, money, money, money, money, money
-let me break it down for you one time
-green is for the money
-green is for the book
-green is for the shit i’ve been doing in the club
-green is for the people that been down with me
-and green is for the motherfucking dpg
-we get it all the time
-never ever faking the font
-and green is for the shit i’ve been put in my blunt
-and green is for the motherfucker standing on the side ones snoop gets a touchdown
-and screamout east-side
-money, money, money, money, money, money, money, money
+(dp1
+Vrepresent
+p2
+I1
+sVlyrics
+p3
+I2
+sVmotherfucking
+p4
+I1
+sVindeed
+p5
+I1
+sVbrain
+p6
+I1
+sVpitch
+p7
+I1
+sVgo
+p8
+I3
+sVyes
+p9
+I1
+sVfont
+p10
+I1
+sVtoast
+p11
+I1
+sVimma
+p12
+I3
+sVcuz
+p13
+I5
+sVbust
+p14
+I2
+sVeasy
+p15
+I1
+sVmoney
+p16
+I33
+sVheezy
+p17
+I1
+sVbout
+p18
+I1
+sVkick
+p19
+I1
+sVboom
+p20
+I1
+sVgood
+p21
+I1
+sVhit
+p22
+I1
+sVaround
+p23
+I1
+sVget
+p24
+I8
+sVbeat
+p25
+I2
+sVbig
+p26
+I2
+sVjeezy
+p27
+I1
+sVcoast
+p28
+I1
+sVbreak
+p29
+I2
+sVbang
+p30
+I2
+sVones
+p31
+I1
+sVrear
+p32
+I1
+sVname
+p33
+I2
+sVlike
+p34
+I13
+sVtry
+p35
+I1
+sVp
+I1
+sVnigger
+p36
+I5
+sVsmall
+p37
+I1
+sVbam
+p38
+I1
+sVstraight
+p39
+I1
+sVpeople
+p40
+I1
+sVframe
+p41
+I1
+sVyeah
+p42
+I2
+sVd
+I2
+sVi\u2019ve
+p43
+I3
+sVsee
+p44
+I2
+sVallin
+p45
+I1
+sVgettin\u2019
+p46
+I3
+sVspitsessie
+p47
+I2
+sVdpg
+p48
+I1
+sVbad
+p49
+I1
+sVwaiting
+p50
+I1
+sVgot
+p51
+I1
+sVever
+p52
+I1
+sVside
+p53
+I1
+sVblowing
+p54
+I1
+sVbass
+p55
+I1
+sVburn
+p56
+I1
+sV78\u2019
+p57
+I1
+sVmotherfucker
+p58
+I3
+sVlet
+p59
+I4
+sVdubble
+p60
+I3
+sVprocceed
+p61
+I1
+sVput
+p62
+I1
+sVstage
+p63
+I2
+sVahead
+p64
+I1
+sVeastside
+p65
+I1
+sVo
+I3
+sVpage
+p66
+I1
+sVturn
+p67
+I1
+sVzonamo
+p68
+I2
+sVsmoke
+p69
+I2
+sVcheese
+p70
+I1
+sVone
+p71
+I3
+sVbitch
+p72
+I2
+sVtouchdown
+p73
+I1
+sVamsterdam
+p74
+I1
+sVstanding
+p75
+I1
+sVwan
+p76
+I2
+sVlaidback
+p77
+I1
+sVsnoop
+p78
+I7
+sVdogg
+p79
+I4
+sVcoupe
+p80
+I1
+sVlive
+p81
+I1
+sVdon\u2019t
+p82
+I3
+sVstore
+p83
+I1
+sVback
+p84
+I1
+sVthat
+p85
+I8
+sVclub
+p86
+I1
+sVdirect
+p87
+I1
+sVhold
+p88
+I1
+sVme
+p89
+I2
+sVclviii
+p90
+I2
+sVg
+I2
+sVthis
+p91
+I1
+sVain\u2019t
+p92
+I1
+sVn
+I1
+sVscreamout
+p93
+I1
+sVfaking
+p94
+I1
+sVmy
+p95
+I1
+sVyou\u2019ve
+p96
+I1
+sVgive
+p97
+I1
+sVlbc
+p98
+I1
+sVim
+p99
+I1
+sVclose
+p100
+I3
+sVready
+p101
+I1
+sVbreakfast
+p102
+I1
+sVshit
+p103
+I5
+sVdifferent
+p104
+I1
+sVthing
+p105
+I3
+sVlitt
+p106
+I1
+sVmake
+p107
+I2
+sVbleezy
+p108
+I1
+sVi\u2019m
+p109
+I3
+sVbook
+p110
+I1
+sVtake
+p111
+I2
+sVholding
+p112
+I1
+sVunderground
+p113
+I2
+sVplace
+p114
+I1
+sVyou
+p115
+I1
+sVgets
+p116
+I1
+sVblunt
+p117
+I1
+sVroll
+p118
+I1
+sV12gage
+p119
+I1
+sVturnup
+p120
+I1
+sVtime
+p121
+I2
+sVmicrophone
+p122
+I1
+sVweed
+p123
+I1
+sVlay
+p124
+I1
+sVnever
+p125
+I1
+sVniggers
+p126
+I1
+sVwindows
+p127
+I1
+sVclear
+p128
+I1
+sVflow
+p129
+I1
+sVgreen
+p130
+I7
+sVna
+p131
+I2
+sVcame
+p132
+I1
+s.

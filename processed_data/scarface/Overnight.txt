@@ -1,109 +1,904 @@
-"overnight" lyrics
-scarface lyrics
-"overnight"
-(feat. do or die, rock roc & snypaz)
-yo nod
-what's up b-lo?
-hey man, niggaz tryin' to stir up shit between amongst us
-and chicago man, what you think about this shit?
-ah, between us and the snypaz?
-man i'm talkin about us and every muh-fuckin body, man
-ah but you know we too tight up in chicago
-we got love worldwide baby don't stop, north, south, east and west
-that's right, know what i'm saying, straight up comin to you
-snypaz and do or die, rap-a-lot mafia
-from the chi, here it go like this
-i went from zip locks and bakin soda
-to smokin herb, cookin 'ola
-never lookin overnight success
-cause i want a rover
-hold you head up and stick yo chest out
-and if you heavy off in this game then get yo vest out
-i hit the scence like po-po's
-in the four door chevrolet, we gas
-with hats broke off to the left
-to show you exactly where you at
-i want the scratch that you done say
-remember, bust a cap a lot
-for the rooftop snypaz snap a lot
-puttin down with rap-a-lot
-you'll die, can't fuck with us
-so when you say it, you'll a lie
-you'll try and get shut down
-from texas all the way back to chi
-ain't no success even if you cryin for it
-them niggas alive know it, they dyin for it
-even them niggas that kill, get caught, and strive for it
-i strive for it
-that's why i sixteen years and a positive
-try to let go of my negative
-only got one life to live
-it's fucked up, only had one chance
-and now i'm takin it
-see niggas fakin it
-if a nigga ain't real then his ass ain't makin it
-overnight, i had to do more than hold the mike
-had to control the fight
-had to make sure my dough was right
-had to make sure my boys was tight
-noise and lights, stalkin from the end of my (?) gonna spook ya
-horror type of tactics, you bet the snypaz (?) knew ya
-stressed out, had me feelin left out
-stuck and i gotta get my self out
-but when i was kid then crept out
-fuck all the ones who never helped out
-stepped out with grams and plans to be an overnight achiever
-since (....?....) to non-believers, overnight
-you can do what you wanna do
-but it ain't gonna happen for you
-not overnight
-overnight, overnight, overnight
-overnight, overnight, overnight
-livin it up, this ain't no overnight shit
-see (?) got a death wish
-but do or die and snypaz, represent chi-town
-took a life and get lit up quick
-rain niggas got me doin this
-used to be on some sell ass shit
-or mail that bitch back home in a box
-and leave no trail of this
-now won't witness this and this is
-how's it's gonna fall
-all of y'all gonna battle
-leave this life, all shells gon drop tonight
-you say that you want a spot
-better they hit like the shit from rap-a-lot
-so pack that glock or ak stops your clock, my straps get hot
-even though it's hot it ain't hot enough to stop this entourage
-rain, do or die, pick a piece snypaz, one big mob
-better stop that heart
-beuregard this industry from backyards to owin lexus cars
-so flex that shit cause down in texas, everybody talks
-cause ain't gonna fall, overnight
-i got an american dream of gettin out the ghetto
-runnin out they mails
-about the loved ones that said they love me, but didn't care
-do roc scare? with the fuckin niggas who groundin me
-it's roc on the block, 45 glock cocked
-finna pop these niggas and they drop
-i'm screamin more and more and more war
-killa for scrilla and more war, more war (more war)
-i'm screamin more and more and more war
-killa for scrilla and more war, more war (more war)
-a to the muthafuckin k
-runnin through the gateway bustin at the niggas back
-uh, ooo wee, whip a, nigga, wit his, own gat
-oh snap, you in the business, dump him in the tar
-point blank range, nigga i'm game, do anything
-(..?..) , (..?..), hangin out the window
-me and my comrades take a nigga out his shoes
-rule number one, don't get it confused
-i'm talkin bout that one three, s-h-o-t
-nine millimeter kill 'em off of me
-make 'em freeze
-kill for my nigga that'll kill for me
-infa, red, lights and bombs leave a bitch, a nigga his arms
-stay alarmed, vietnam, when i closed caskets
-pimp, lyrical tactics, shit look hectic
-when i bomb a bad bitch
-1997 niggas, and you can't do it overnight
+(dp1
+Vsaying
+p2
+I1
+sVstressed
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVya
+p7
+I2
+sVscratch
+p8
+I1
+sVhats
+p9
+I1
+sVroc
+p10
+I3
+sVyears
+p11
+I1
+sVfour
+p12
+I1
+sVbakin
+p13
+I1
+sVkill
+p14
+I4
+sVstops
+p15
+I1
+sVbattle
+p16
+I1
+sVgo
+p17
+I2
+sVlove
+p18
+I2
+sVlexus
+p19
+I1
+sVfeat
+p20
+I1
+sVcocked
+p21
+I1
+sVaint
+p22
+I7
+sVrover
+p23
+I1
+sVone
+p24
+I5
+sVrooftop
+p25
+I1
+sVwee
+p26
+I1
+sVpoint
+p27
+I1
+sVhot
+p28
+I3
+sVbust
+p29
+I1
+sVbetter
+p30
+I2
+sVscrilla
+p31
+I2
+sVloved
+p32
+I1
+sVsnap
+p33
+I2
+sVmail
+p34
+I1
+sVbout
+p35
+I1
+sVeast
+p36
+I1
+sVtexas
+p37
+I2
+sVta
+p38
+I1
+sVreal
+p39
+I1
+sVdo
+p40
+I1
+sVhit
+p41
+I2
+sVlivin
+p42
+I1
+sVyo
+p43
+I3
+sVget
+p44
+I7
+sVnod
+p45
+I1
+sVbig
+p46
+I1
+sVhorror
+p47
+I1
+sVstop
+p48
+I3
+sVfeelin
+p49
+I1
+sVme
+p50
+I3
+sVgame
+p51
+I2
+sVones
+p52
+I2
+sVevery
+p53
+I1
+sVknow
+p54
+I3
+sVkid
+p55
+I1
+sVspook
+p56
+I1
+sVcryin
+p57
+I1
+sVmob
+p58
+I1
+sVsixteen
+p59
+I1
+sVputtin
+p60
+I1
+sVstrive
+p61
+I2
+sVwont
+p62
+I1
+sVlike
+p63
+I3
+sVsuccess
+p64
+I2
+sVdie
+p65
+I5
+sVdrop
+p66
+I2
+sVpopos
+p67
+I1
+sVtry
+p68
+I2
+sVbad
+p69
+I1
+sVwit
+p70
+I1
+sVred
+p71
+I1
+sVbombs
+p72
+I1
+sVrock
+p73
+I1
+sVquick
+p74
+I1
+sVdough
+p75
+I1
+sVwent
+p76
+I1
+sVyall
+p77
+I1
+sVheavy
+p78
+I1
+sVola
+p79
+I1
+sVright
+p80
+I2
+sVdump
+p81
+I1
+sVmails
+p82
+I1
+sVblank
+p83
+I1
+sVback
+p84
+I3
+sValive
+p85
+I1
+sVass
+p86
+I2
+sVachiever
+p87
+I1
+sVsee
+p88
+I2
+sVused
+p89
+I1
+sVniggaz
+p90
+I1
+sVhome
+p91
+I1
+sVhappen
+p92
+I1
+sVfinna
+p93
+I1
+sVwitness
+p94
+I1
+sVout
+p95
+I6
+sVeven
+p96
+I3
+sVleave
+p97
+I3
+sVgon
+p98
+I6
+sVrepresent
+p99
+I1
+sVinfa
+p100
+I1
+sVchicago
+p101
+I2
+sVentourage
+p102
+I1
+sVtakin
+p103
+I1
+sVtake
+p104
+I1
+sVsince
+p105
+I1
+sVfreeze
+p106
+I1
+sVak
+p107
+I1
+sVgateway
+p108
+I1
+sVlights
+p109
+I2
+sVblo
+p110
+I1
+sVclosed
+p111
+I1
+sVherb
+p112
+I1
+sVgat
+p113
+I1
+sVgot
+p114
+I6
+sVfall
+p115
+I2
+sVthree
+p116
+I1
+sVcause
+p117
+I3
+sVmuthafuckin
+p118
+I1
+sVowin
+p119
+I1
+sVbody
+p120
+I1
+sVshut
+p121
+I1
+sVnoise
+p122
+I1
+sVbusiness
+p123
+I1
+sVscence
+p124
+I1
+sVnever
+p125
+I2
+sVarms
+p126
+I1
+sVdeath
+p127
+I1
+sVlet
+p128
+I1
+sVsmokin
+p129
+I1
+sVhectic
+p130
+I1
+sVconfused
+p131
+I1
+sVsnypaz
+p132
+I7
+sVcars
+p133
+I1
+sVshot
+p134
+I1
+sVmuhfuckin
+p135
+I1
+sVbox
+p136
+I1
+sVanything
+p137
+I1
+sVoh
+p138
+I1
+sVdyin
+p139
+I1
+sVindustry
+p140
+I1
+sVscreamin
+p141
+I2
+sVamerican
+p142
+I1
+sVyoull
+p143
+I3
+sVlookin
+p144
+I1
+sVwest
+p145
+I1
+sVcomrades
+p146
+I1
+sVthink
+p147
+I1
+sVsouth
+p148
+I1
+sVthats
+p149
+I2
+sVem
+p150
+I2
+sVwhats
+p151
+I1
+sVdont
+p152
+I2
+sVpick
+p153
+I1
+sVstalkin
+p154
+I1
+sVghetto
+p155
+I1
+sVmakin
+p156
+I1
+sVpop
+p157
+I1
+sVnegative
+p158
+I1
+sVdown
+p159
+I1
+sVnigga
+p160
+I6
+sVdone
+p161
+I1
+sVbitch
+p162
+I3
+sVcomin
+p163
+I1
+sVmafia
+p164
+I1
+sVpositive
+p165
+I1
+sVeverybody
+p166
+I1
+sVwan
+p167
+I1
+sVcaskets
+p168
+I1
+sVzip
+p169
+I1
+sVshells
+p170
+I1
+sVchi
+p171
+I2
+sVcaught
+p172
+I1
+sVhey
+p173
+I1
+sVfight
+p174
+I1
+sVstuck
+p175
+I1
+sVlive
+p176
+I1
+sVwindow
+p177
+I1
+sVlot
+p178
+I2
+sVtryin
+p179
+I1
+sVtype
+p180
+I1
+sVis
+p181
+I1
+sVgroundin
+p182
+I1
+sVhead
+p183
+I1
+sVglock
+p184
+I2
+sVdoor
+p185
+I1
+sVway
+p186
+I1
+sVenough
+p187
+I1
+sVooo
+p188
+I1
+sVexactly
+p189
+I1
+sVgas
+p190
+I1
+sVtook
+p191
+I1
+sVamongst
+p192
+I1
+sVit
+p193
+I7
+sVkilla
+p194
+I2
+sVboys
+p195
+I1
+sVgettin
+p196
+I1
+sVstick
+p197
+I1
+sVbroke
+p198
+I1
+sVbaby
+p199
+I1
+sVnumber
+p200
+I1
+sVhold
+p201
+I2
+sVgrams
+p202
+I1
+sVrunnin
+p203
+I2
+sVtonight
+p204
+I1
+sVbomb
+p205
+I1
+sVtalks
+p206
+I1
+sVtactics
+p207
+I2
+sVlook
+p208
+I1
+sV1997
+p209
+I1
+sVniggas
+p210
+I8
+sVthis
+p211
+I3
+sVwish
+p212
+I1
+sVstraight
+p213
+I1
+sVcap
+p214
+I1
+sVcant
+p215
+I2
+sVus
+p216
+I4
+sVwar
+p217
+I8
+sVnine
+p218
+I1
+sVuh
+p219
+I1
+sVfakin
+p220
+I1
+sVbeuregard
+p221
+I1
+sVim
+p222
+I7
+sVchitown
+p223
+I1
+sVpiece
+p224
+I1
+sVdidnt
+p225
+I1
+sVk
+I1
+sVbet
+p226
+I1
+sVpack
+p227
+I1
+sVcontrol
+p228
+I1
+sVheart
+p229
+I1
+sVvest
+p230
+I1
+sVstraps
+p231
+I1
+sVthatll
+p232
+I1
+sVtar
+p233
+I1
+sVflex
+p234
+I1
+sVah
+p235
+I2
+sVstepped
+p236
+I1
+sVfuck
+p237
+I2
+sVnonbelievers
+p238
+I1
+sVbustin
+p239
+I1
+sVhelped
+p240
+I1
+sVlocks
+p241
+I1
+sVsay
+p242
+I3
+sVscarface
+p243
+I1
+sVat
+p244
+I1
+sVwant
+p245
+I3
+sVlyrical
+p246
+I1
+sVnorth
+p247
+I1
+sVshit
+p248
+I7
+sVsell
+p249
+I1
+sVlie
+p250
+I1
+sVend
+p251
+I1
+sVchevrolet
+p252
+I1
+sVmake
+p253
+I3
+sV45
+p254
+I1
+sVmike
+p255
+I1
+sVrange
+p256
+I1
+sVlit
+p257
+I1
+sVtight
+p258
+I2
+sVchest
+p259
+I1
+sVvietnam
+p260
+I1
+sVwhip
+p261
+I1
+sVyou
+p262
+I2
+sVhangin
+p263
+I1
+sVstir
+p264
+I1
+sVtalkin
+p265
+I2
+sVcookin
+p266
+I1
+sVworldwide
+p267
+I1
+sVcare
+p268
+I1
+sVsure
+p269
+I2
+sVplans
+p270
+I1
+sVthough
+p271
+I1
+sVknew
+p272
+I1
+sVdoin
+p273
+I1
+sVsoda
+p274
+I1
+sVspot
+p275
+I1
+sVrain
+p276
+I2
+sVstay
+p277
+I1
+sVmillimeter
+p278
+I1
+sVchance
+p279
+I1
+sVsaid
+p280
+I1
+sVfucked
+p281
+I1
+sValarmed
+p282
+I1
+sVman
+p283
+I4
+sVhows
+p284
+I1
+sVremember
+p285
+I1
+sVtrail
+p286
+I1
+sVclock
+p287
+I1
+sVlife
+p288
+I3
+sVovernight
+p289
+I16
+sVrule
+p290
+I1
+sVscare
+p291
+I1
+sVbackyards
+p292
+I1
+sVblock
+p293
+I1
+sVfuckin
+p294
+I1
+sVcrept
+p295
+I1
+sVpimp
+p296
+I1
+sVna
+p297
+I6
+sVrapalot
+p298
+I3
+sVdream
+p299
+I1
+sVself
+p300
+I1
+sVleft
+p301
+I2
+s.

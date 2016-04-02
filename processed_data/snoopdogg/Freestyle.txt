@@ -1,73 +1,532 @@
-"freestyle" lyrics
-snoop dogg lyrics
-"freestyle"
-(with kurupt)
-yea man, i heard you wasn't gonna do it no more
-they said it was overwith for you
-overwith? shit nigga i ain't going nowhere
-shit nigga i ain't going nowhere
-shit nigga i ain't going nowhere
-snoop dogg this is me
-back up in the place to be
-i walk a bit, i blaze a jay
-i talk some shit, hey hey hey hey
-i'm going at baby
-listen close we gon' dream
-and we gon' toast, this that year
-when things was bad this that time
-when i'm gon' smash getting cash
-is all i know, i think the year was '94
-or was it later really don't matter
-cause i gets cheese, i gets cheddar
-funny style, funny niggas
-funny style, funny niggas
-funny style, kurupt in the building
-they funny style, aye snoop
-punk motherfuckers in disguise i can tell
-soon as i see them when i rise in the spot
-gotti in the building everybody realized
-looking in my eyes niggas is surprised
-what the fuck is cracking don't they know what's happening?
-the next time this nigga get close, clap him
-this nigga like a bitch moving so slow
-just bring the beat back and let the shit bang
-cause snoop is on the mic and i came to bang
-i don't come to play i come to drop heat
-and niggas like you get dusted in the streets
-you just try to rap about what you know
-and i'm gonna keep this shit way on the low
-me man my clique me and my crew
-we come through this bitch and banging on you
-you think you can fuck with us
-but i don't think you'll fuck with us
-see we the shit dpgc
-for 20 years and thats all me
-bitch, run through the spot
-tipping the hit
-run and get all my money nigga i get
-the bitches they love me and they stay on my dick
-i'm rolling with dabs, little half
-me and big snoop getting that bread
-make them pussy lips spread
-bitches is crazy, they all on my dick
-loving my mercedes what up bitch
-i'mma show you motherfuckers whats a poster g
-and let me get these niggas close to me
-you can size me up, you can picture the frame
-you can study my style you can write down my name
-you can change up the beat and you can slow this shit down
-you can try to get close but this is still dogg pound
-we be fuckin it up, we be smoking the dope
-we be on the tour bus from coast to coast
-got all my money, all my hoes
-every corner, all my hoes
-all my homies, all my souls
-like what's crackin, and they know
-in a second niggas get hit then it's over
-look look, why these niggas trippin all over
-in the spot with my homies deep with heaters
-looking at these suckers pulling out they millimeters
-so y'all should know when you stepped up
-you got fucked up and that's what's up
-see this is true we gray and blue
-dpgc i thought you knew
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVyea
+p4
+I1
+sVmoney
+p5
+I2
+sVover
+p6
+I2
+sVcheddar
+p7
+I1
+sVsoon
+p8
+I1
+sVyears
+p9
+I1
+sVdisguise
+p10
+I1
+sVlove
+p11
+I1
+sVstill
+p12
+I1
+sVaint
+p13
+I3
+sVstyle
+p14
+I5
+sVslow
+p15
+I2
+sV20
+p16
+I1
+sVjay
+p17
+I1
+sVimma
+p18
+I1
+sVdick
+p19
+I2
+sVcrew
+p20
+I1
+sVgoing
+p21
+I4
+sVblaze
+p22
+I1
+sVhomies
+p23
+I2
+sVsurprised
+p24
+I1
+sVstepped
+p25
+I1
+sVhit
+p26
+I2
+sVget
+p27
+I7
+sVbeat
+p28
+I2
+sVbig
+p29
+I1
+sVdope
+p30
+I1
+sVrise
+p31
+I1
+sVcoast
+p32
+I2
+sVbang
+p33
+I2
+sVevery
+p34
+I1
+sVknow
+p35
+I5
+sVhalf
+p36
+I1
+sVbit
+p37
+I1
+sVhim
+p38
+I1
+sVbread
+p39
+I1
+sVsmash
+p40
+I1
+sVlike
+p41
+I3
+sVbring
+p42
+I1
+sVyoull
+p43
+I1
+sVdrop
+p44
+I1
+sVtry
+p45
+I2
+sVbad
+p46
+I1
+sVmillimeters
+p47
+I1
+sVsecond
+p48
+I1
+sVdabs
+p49
+I1
+sVclap
+p50
+I1
+sVnigga
+p51
+I6
+sVoverwith
+p52
+I2
+sVstreets
+p53
+I1
+sVback
+p54
+I2
+sVup
+p55
+I2
+sVsee
+p56
+I3
+sVyear
+p57
+I2
+sVclose
+p58
+I4
+sVreally
+p59
+I1
+sVblue
+p60
+I1
+sVheaters
+p61
+I1
+sVgon
+p62
+I5
+sVdusted
+p63
+I1
+sVlooking
+p64
+I2
+sVgot
+p65
+I2
+sVcause
+p66
+I2
+sVbe
+p67
+I1
+sVrun
+p68
+I2
+sVmercedes
+p69
+I1
+sVlet
+p70
+I2
+sVkurupt
+p71
+I2
+sVlips
+p72
+I1
+sVclique
+p73
+I1
+sVsuckers
+p74
+I1
+sVsouls
+p75
+I1
+sVcome
+p76
+I3
+sVchange
+p77
+I1
+sVg
+I1
+sVtoast
+p78
+I1
+sVstudy
+p79
+I1
+sVpunk
+p80
+I1
+sVkeep
+p81
+I1
+sVtour
+p82
+I1
+sVplace
+p83
+I1
+sVdpgc
+p84
+I2
+sVmotherfuckers
+p85
+I2
+sVfuckin
+p86
+I1
+sVnowhere
+p87
+I3
+sVcheese
+p88
+I1
+sVwhats
+p89
+I4
+sVdont
+p90
+I4
+sVpussy
+p91
+I1
+sVwalk
+p92
+I1
+sVdown
+p93
+I1
+sVna
+p94
+I2
+sVbitch
+p95
+I4
+sVframe
+p96
+I1
+sVsize
+p97
+I1
+sVeverybody
+p98
+I1
+sVlittle
+p99
+I1
+sVsnoop
+p100
+I5
+sVaye
+p101
+I1
+sVdogg
+p102
+I3
+sVhey
+p103
+I4
+sVnext
+p104
+I1
+sVspread
+p105
+I1
+sVlow
+p106
+I1
+sVway
+p107
+I1
+sVyall
+p108
+I1
+sVtell
+p109
+I1
+sVmore
+p110
+I1
+sVeyes
+p111
+I1
+sVname
+p112
+I1
+sVgray
+p113
+I1
+sVfreestyle
+p114
+I2
+sVposter
+p115
+I1
+sVbitches
+p116
+I2
+sVheat
+p117
+I1
+sVcorner
+p118
+I1
+sVbaby
+p119
+I1
+sVsmoking
+p120
+I1
+sVtrue
+p121
+I1
+sV94
+p122
+I1
+sVme
+p123
+I3
+sVgotti
+p124
+I1
+sVlook
+p125
+I2
+sVniggas
+p126
+I7
+sVgetting
+p127
+I2
+sVcash
+p128
+I1
+sVus
+p129
+I2
+sVmatter
+p130
+I1
+sVpulling
+p131
+I1
+sVlisten
+p132
+I1
+sVtipping
+p133
+I1
+sVcrazy
+p134
+I1
+sVpound
+p135
+I1
+sVwasnt
+p136
+I1
+sVhoes
+p137
+I2
+sVfuck
+p138
+I3
+sVdeep
+p139
+I1
+sVheard
+p140
+I1
+sVim
+p141
+I4
+sVrap
+p142
+I1
+sVshit
+p143
+I8
+sVfunny
+p144
+I6
+sVthings
+p145
+I1
+sVmic
+p146
+I1
+sVwrite
+p147
+I1
+sVloving
+p148
+I1
+sVbus
+p149
+I1
+sVyou
+p150
+I2
+sVgets
+p151
+I2
+sVpicture
+p152
+I1
+sVplay
+p153
+I1
+sVknew
+p154
+I1
+sVspot
+p155
+I3
+sVstay
+p156
+I1
+sVsaid
+p157
+I1
+sVmoving
+p158
+I1
+sVcracking
+p159
+I1
+sVrolling
+p160
+I1
+sVman
+p161
+I2
+sVbuilding
+p162
+I2
+sVthought
+p163
+I1
+sVrealized
+p164
+I1
+sVhappening
+p165
+I1
+sVtrippin
+p166
+I1
+sVlater
+p167
+I1
+sVbanging
+p168
+I1
+sVthink
+p169
+I3
+sVfucked
+p170
+I1
+sVcame
+p171
+I1
+sVtime
+p172
+I2
+sVcrackin
+p173
+I1
+sVthats
+p174
+I2
+sVdream
+p175
+I1
+sVmake
+p176
+I1
+sVtalk
+p177
+I1
+s.

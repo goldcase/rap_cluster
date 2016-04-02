@@ -1,105 +1,770 @@
-"3 a.m." lyrics
-eminem lyrics
-"3 a.m."
-oh oh oh oh oh ooh
-there is no escaping....
-there's no place to hide....
-you scream, "someone save me?"
-but they don't pay no mind...
-goodbye!
-you're walkin' down a horror corridor
-it's almost 4 in the morning and you're in a
-nightmare, it's horrible
-right there's the coroner
-waiting for ya to turn the corner so he can corner ya
-you're a goner he's onto ya
-out the corner of his cornea he just saw you run
-all you want is to rest 'cause you can't run anymore you're done
-all he wants is to kill you in front of an audience
-while everybody is watching in the party applauding it
-here i sit while i'm caught up in deep, thought again
-contemplating my next plot again
-swallowing a klonopin while i'm nodding in and out on the ottoman
-at the ramada inn, holdin' on to the pill bottle then
-lick my finger and swirl it round the bottom and make sure i got all of it
-wake up naked at mcdonald's with
-blood all over me, dead bodies behind the counter, shit
-guess i must have just blacked out again...
-not again!
-it's 3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
-i said...
-it's 3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
-sitting nude in my living room, it's almost noon
-i wonder what's on the tube, maybe they'll show some boobs
-surfin' every channel until i find hannah montana
-then i reach for the aloe and lanolin
-bust all over the wall paneling dismantlin' every candle
-on top of the fireplace mantle and
-grab my flannel and my bandana then
-kiss the naked mannequin man again
-you can see him standin' in my front window if you look in
-i'm just a hooligan who's used to usin' hallucinogens
-causin' illusions again
-brain contusions again
-cutting and bruisin' the skin
-razors, scissors and pins
-jesus, when does it end?
-phases, that i go through
-days that i'm so confused
-days that i don't know who
-gave, these molecules to
-me, what am i gon' do?
-hey the prodigal son
-the diabolical one
-very methodical when i slaughter them
-it's 3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
-i said...
-it's 3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
-she puts the lotion in the bucket, it puts the lotion on the skin, or else it gets the hose again
-she puts the lotion in the bucket, it puts the lotion on the skin, or else it gets the hose again
-i cut and i slash slice and gash
-last night was a blast
-i can't quite remember when i had that
-much fun of a half pint of a jack
-my last vic and a half
-a flashlight up kim kardashian's ass
-i remember the first time i dismembered a family member
-december i think it was, i was havin' drinks with my cousin
-i wrapped him in christmas lights, pushed him into the stinkin' tub
-cut him up into pieces and just when i went to drink his blood
-i thought i oughta drink his bath water that oughta be fun
-that's when my days of serial murder manslaughter begun
-the sight of blood excites me, that might be an artery son
-your blood curdling screams just don't seem to bother me none
-it's 3 a.m. and here i come so you should probably run
-a secret passageway around here man there's got to be one
-oh no there's probably none, he can scream all that he wants
-top of his lungs, but ain't no stoppin' me from choppin' him up... up
-'cause it's...
-3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
-i said...
-it's 3 a.m. in the mornin'
-put my key in the door and
-bodies layin' all over the floor and
-i don't remember how they got there
-but i guess i must've killed em (killed em)
+(dp1
+Vstandin
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVcornea
+p5
+I1
+sVapplauding
+p6
+I1
+sVrest
+p7
+I1
+sVbrain
+p8
+I1
+sVkill
+p9
+I1
+sVskin
+p10
+I3
+sVgo
+p11
+I1
+sVottoman
+p12
+I1
+sVmcdonalds
+p13
+I1
+sVfind
+p14
+I1
+sVone
+p15
+I2
+sVcut
+p16
+I2
+sVillusions
+p17
+I1
+sVlights
+p18
+I1
+sVexcites
+p19
+I1
+sV3
+I9
+sVcontemplating
+p20
+I1
+sVto
+p21
+I1
+sVwindow
+p22
+I1
+sVtube
+p23
+I1
+sV4
+I1
+sVmolecules
+p24
+I1
+sVcurdling
+p25
+I1
+sVsave
+p26
+I1
+sVmight
+p27
+I1
+sVpill
+p28
+I1
+sVgave
+p29
+I1
+sVthen
+p30
+I2
+sVthem
+p31
+I1
+sVsomeone
+p32
+I1
+sVaround
+p33
+I1
+sVwatching
+p34
+I1
+sVya
+p35
+I3
+sVhorror
+p36
+I1
+sVnone
+p37
+I2
+sVswirl
+p38
+I1
+sVcutting
+p39
+I1
+sVevery
+p40
+I2
+sVknow
+p41
+I1
+sVkiss
+p42
+I1
+sVhalf
+p43
+I2
+sVfront
+p44
+I2
+sVartery
+p45
+I1
+sVson
+p46
+I2
+sVfireplace
+p47
+I1
+sVkilled
+p48
+I12
+sVkardashians
+p49
+I1
+sVcounter
+p50
+I1
+sVgets
+p51
+I2
+sVnoon
+p52
+I1
+sVnude
+p53
+I1
+sVmorning
+p54
+I1
+sVnaked
+p55
+I2
+sVaudience
+p56
+I1
+sVnodding
+p57
+I1
+sVnight
+p58
+I1
+sVthrough
+p59
+I1
+sVgrab
+p60
+I1
+sVround
+p61
+I1
+sVmanslaughter
+p62
+I1
+sVem
+p63
+I12
+sVklonopin
+p64
+I1
+sVright
+p65
+I1
+sVdiabolical
+p66
+I1
+sVmethodical
+p67
+I1
+sVgash
+p68
+I1
+sVdead
+p69
+I1
+sVup
+p70
+I1
+sVsee
+p71
+I1
+sVused
+p72
+I1
+sVslice
+p73
+I1
+sVbegun
+p74
+I1
+sVcorner
+p75
+I3
+sVescaping
+p76
+I1
+sVlanolin
+p77
+I1
+sVquite
+p78
+I1
+sVwonder
+p79
+I1
+sVliving
+p80
+I1
+sVphases
+p81
+I1
+sVsaid
+p82
+I3
+sVhide
+p83
+I1
+sVbottom
+p84
+I1
+sVnightmare
+p85
+I1
+sVusin
+p86
+I1
+sVthats
+p87
+I1
+sVcoroner
+p88
+I1
+sVwaiting
+p89
+I1
+sVfinger
+p90
+I1
+sVslash
+p91
+I1
+sVhorrible
+p92
+I1
+sVgot
+p93
+I8
+sVcause
+p94
+I2
+sVchristmas
+p95
+I1
+sVdrink
+p96
+I2
+sVass
+p97
+I1
+sVflashlight
+p98
+I1
+sVhose
+p99
+I2
+sVrun
+p100
+I3
+sVscreams
+p101
+I1
+sVdo
+p102
+I1
+sVhooligan
+p103
+I1
+sVboobs
+p104
+I1
+sVslaughter
+p105
+I1
+sVeminem
+p106
+I1
+sVwater
+p107
+I1
+sVprodigal
+p108
+I1
+sVkey
+p109
+I6
+sVput
+p110
+I6
+sVcousin
+p111
+I1
+sVtub
+p112
+I1
+sVlotion
+p113
+I4
+sVcome
+p114
+I1
+sVwent
+p115
+I1
+sVlast
+p116
+I2
+sVoh
+p117
+I6
+sVdays
+p118
+I3
+sVchoppin
+p119
+I1
+sVwalkin
+p120
+I1
+sVturn
+p121
+I1
+sVplace
+p122
+I1
+sVonto
+p123
+I1
+sVtop
+p124
+I2
+sVjack
+p125
+I1
+sVfirst
+p126
+I1
+sVbath
+p127
+I1
+sVvic
+p128
+I1
+sVwhats
+p129
+I1
+sVdont
+p130
+I9
+sVfamily
+p131
+I1
+sVmantle
+p132
+I1
+sVwall
+p133
+I1
+sVjesus
+p134
+I1
+sVdismembered
+p135
+I1
+sVdone
+p136
+I1
+sVbust
+p137
+I1
+sVoughta
+p138
+I2
+sVscissors
+p139
+I1
+sVwhos
+p140
+I1
+sVeverybody
+p141
+I1
+sVplot
+p142
+I1
+sVguess
+p143
+I7
+sVputs
+p144
+I4
+sVhes
+p145
+I1
+sVcaught
+p146
+I1
+sVthere
+p147
+I6
+sVhey
+p148
+I1
+sVnext
+p149
+I1
+sVsecret
+p150
+I1
+sVmuch
+p151
+I1
+sVcausin
+p152
+I1
+sVwrapped
+p153
+I1
+sVcontusions
+p154
+I1
+sVwants
+p155
+I2
+sVgon
+p156
+I1
+sVmurder
+p157
+I1
+sVdoor
+p158
+I6
+sVlungs
+p159
+I1
+sVbehind
+p160
+I1
+sVkim
+p161
+I1
+sVam
+p162
+I1
+sVooh
+p163
+I1
+sVconfused
+p164
+I1
+sVwake
+p165
+I1
+sVmannequin
+p166
+I1
+sVprobably
+p167
+I2
+sVwith
+p168
+I1
+sVmust
+p169
+I1
+sVme
+p170
+I1
+sVrazors
+p171
+I1
+sVhannah
+p172
+I1
+sVstoppin
+p173
+I1
+sVroom
+p174
+I1
+sVlayin
+p175
+I6
+sValoe
+p176
+I1
+sVbucket
+p177
+I2
+sVinn
+p178
+I1
+sVholdin
+p179
+I1
+sVhavin
+p180
+I1
+sVfun
+p181
+I2
+sVtheres
+p182
+I4
+sVand
+p183
+I13
+sVlick
+p184
+I1
+sVsight
+p185
+I1
+sVlook
+p186
+I1
+sValmost
+p187
+I2
+sVdecember
+p188
+I1
+sVfloor
+p189
+I6
+sVmind
+p190
+I1
+sVit
+p191
+I2
+sVdeep
+p192
+I1
+sVpieces
+p193
+I1
+sVpushed
+p194
+I1
+sVcant
+p195
+I2
+sVmornin
+p196
+I6
+sVim
+p197
+I4
+sVwant
+p198
+I1
+sVcandle
+p199
+I1
+sVserial
+p200
+I1
+sVsaw
+p201
+I1
+sVseem
+p202
+I1
+sVshit
+p203
+I1
+sVagain
+p204
+I9
+sVtheyll
+p205
+I1
+sVanymore
+p206
+I1
+sVsit
+p207
+I1
+sVpay
+p208
+I1
+sVmake
+p209
+I1
+sVsitting
+p210
+I1
+sVaint
+p211
+I1
+sVmember
+p212
+I1
+sVswallowing
+p213
+I1
+sVthat
+p214
+I1
+sVcorridor
+p215
+I1
+sVgoner
+p216
+I1
+sVparty
+p217
+I1
+sVbandana
+p218
+I1
+sVhallucinogens
+p219
+I1
+sVchannel
+p220
+I1
+sVpint
+p221
+I1
+sVblacked
+p222
+I1
+sVsure
+p223
+I1
+sVgoodbye
+p224
+I1
+sVsurfin
+p225
+I1
+sVbother
+p226
+I1
+sVramada
+p227
+I1
+sVwho
+p228
+I1
+sVreach
+p229
+I1
+sVmontana
+p230
+I1
+sVblood
+p231
+I4
+sVmustve
+p232
+I6
+sVpassageway
+p233
+I1
+sVend
+p234
+I1
+sVflannel
+p235
+I1
+sVelse
+p236
+I2
+sVstinkin
+p237
+I1
+sVman
+p238
+I2
+sVa
+I1
+sVpins
+p239
+I1
+sVin
+p240
+I1
+sVremember
+p241
+I8
+sVmaybe
+p242
+I1
+sVyoure
+p243
+I4
+sVdrinks
+p244
+I1
+sVthink
+p245
+I1
+sVthought
+p246
+I2
+sVblast
+p247
+I1
+sVpaneling
+p248
+I1
+sVbottle
+p249
+I1
+sVtime
+p250
+I1
+sVbruisin
+p251
+I1
+sVits
+p252
+I1
+sVscream
+p253
+I2
+sVbodies
+p254
+I7
+sVdismantlin
+p255
+I1
+s.

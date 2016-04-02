@@ -1,91 +1,647 @@
-"hennesey and buddah" lyrics
-snoop dogg lyrics
-"hennesey and buddah"
-(feat. kokane)
-dpg, is down with us
-x to the z, is down with us
-d-r-e, is down with us
-my nigga kokane, is down with us
-eastside gang is, down with us
-niggas talkin shit, i'm gettin ready to bust
-i'm number one (one, one, one)
-with a bullet motherfuckers
-i got this henn in my cup
-and this buddah got me stuck
-i'm just trying to compose myself (compose myself)
-i don't know why i act this way
-i just wanna be left alone
-i'm just trying to enjoy myself (enjoy myself)
-aww naw (who is it?)
-it's motherfuckin' snoop dogg
-i live the fast life, where ya keep ya cash tight
-in broad daylight, walkin' wit ya flashlight
-addin' up what ya brought in from last night
-she mad tight with mad bite (is that right?)
-bad lil bitches on my tizeam (tizeam)
-nigga, that's the american drizeam (wha-wha-wha-what)
-pussy broke the president (yeah it did)
-and pussy made a pimp rich (yeah it did)
-i live like 'em both as i smoke on my dope
-on my boat...thumbin' through c-notes
-now here's a toast to the coast
-cuz we doin' it the most (we doin' it the most)
-playa playa high costs
-uno, dos, i'm bout to get ghost
-stackin what ya mackin d-o-double g
-the shit ya doin' is so lovely
-the haters hate cuz they will never be
-there ain't no limit to this melody (melody)
-you niggas sippin on that jealousy (jealousy)
-i pour a tall glass of hennesey (want some?)
-do you wanna have a sip with me?
-or would you rather try and trip with me? (trip with me?)
-put ya cups on the table and your hands in the air
-and touch your brim to the side, that's only if you a player
-and all the ladies in this motherfucker acting up
-don't hurt nobody when you back it up
-cuz we came here to have a good time
-me and my niggas in the sunshine (sunshine)
-on 3 wheels with one 9 (ya know)
-it's time to shine, the world is mine (the world is mine)
-i never ever dropped a dime (shiiit)
-nigga might cop a dime
-never hesitate to pop a 9 (bah!)
-and always come up with the proper line
-stick to the script bitch i'm hurtin shit (hurtin shit)
-let me show you motherfuckers what i'm workin with
-(what you workin with?)
-don't need no water to go with your order
-and you aint got to smuggle the shit up over the border
-affordable, sportable, unbelievable, feasible, and reasonable
-we leavin' 'em low
-cuz me and my loc, keep big leaves of smoke
-gallons of hennesey and 16 liters of coke
-he done drank and she done smoked
-the meters are broke, we put the v to the note
-i brought the weed to smoke
-and dr. dre, he hooked the beat up, indeed it was dope
-stackin what ya mackin d-o-double g
-the shit ya doin' is so lovely
-the haters hate cuz they can never be
-there ain't no limit to this melody (melody)
-you niggas sippin on that jealousy (jealousy)
-i pour a tall glass of hennesey (hennesey)
-do you wanna have a sip with me? (sip with me?)
-or would you rather try and trip with me? (trip with me?)
-put ya cups on the table and your hands in the air
-and touch your brim to the side, that's only if you a player
-and all the ladies in this motherfucker acting up
-don't hurt nobody when you back it up
-cuz we came here to have a good time
-me and my niggas in the sunshine (sunshine)
-on 3 wheels with one 9 (ya know)
-yeah
-shaquille o'neal, is down with us
-look half dead, is down with us
-my nigga mel-man, is down with us
-and eastside watts, is down with us
-the whole crip car, is down with us
-my niggas on the four yard, i'm givin it up
-we number one (one, one, one)
-with a bullet motherfuckers
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVliters
+p4
+I1
+sVhalf
+p5
+I1
+sVfour
+p6
+I1
+sVgang
+p7
+I1
+sVbrim
+p8
+I2
+sVtouch
+p9
+I2
+sVmelody
+p10
+I4
+sVfeat
+p11
+I1
+sVflashlight
+p12
+I1
+sVcompose
+p13
+I2
+sVgivin
+p14
+I1
+sVcup
+p15
+I1
+sVcuz
+p16
+I6
+sVbust
+p17
+I1
+sVhurtin
+p18
+I2
+sVrich
+p19
+I1
+sVindeed
+p20
+I1
+sVbout
+p21
+I1
+sVmight
+p22
+I1
+sVmotherfuckin
+p23
+I1
+sVmelman
+p24
+I1
+sVgood
+p25
+I2
+sVworkin
+p26
+I2
+sVget
+p27
+I1
+sVya
+p28
+I12
+sVbig
+p29
+I1
+sVdope
+p30
+I2
+sVhate
+p31
+I2
+sVcoast
+p32
+I1
+sVknow
+p33
+I3
+sVhands
+p34
+I2
+sVworld
+p35
+I2
+sVdr
+p36
+I1
+sVlook
+p37
+I1
+sVlike
+p38
+I1
+sVpimp
+p39
+I1
+sVdid
+p40
+I2
+sValways
+p41
+I1
+sVgettin
+p42
+I1
+sVdpg
+p43
+I1
+sVbad
+p44
+I1
+sV16
+p45
+I1
+sVreasonable
+p46
+I1
+sVnight
+p47
+I1
+sVx
+I1
+sVside
+p48
+I2
+sVbah
+p49
+I1
+sVenjoy
+p50
+I2
+sVnigga
+p51
+I4
+sVbe
+p52
+I2
+sVsome
+p53
+I1
+sVyeah
+p54
+I3
+sVdead
+p55
+I1
+sVup
+p56
+I5
+sVgo
+p57
+I1
+sVdaylight
+p58
+I1
+sVsportable
+p59
+I1
+sVmeters
+p60
+I1
+sVpour
+p61
+I2
+sVproper
+p62
+I1
+sVmine
+p63
+I2
+sVkokane
+p64
+I2
+sVboatthumbin
+p65
+I1
+sVtry
+p66
+I2
+sVbuddah
+p67
+I3
+sVheres
+p68
+I1
+sVbroad
+p69
+I1
+sVhooked
+p70
+I1
+sVacting
+p71
+I2
+sVplaya
+p72
+I2
+sVgot
+p73
+I3
+sVever
+p74
+I1
+sVaffordable
+p75
+I1
+sVtoast
+p76
+I1
+sVaddin
+p77
+I1
+sVright
+p78
+I1
+sVloc
+p79
+I1
+sVnever
+p80
+I4
+sVmotherfucker
+p81
+I2
+sVwater
+p82
+I1
+sVlet
+p83
+I1
+sVshaquille
+p84
+I1
+sValone
+p85
+I1
+sVhaters
+p86
+I2
+sVweed
+p87
+I1
+sVcome
+p88
+I1
+sVshine
+p89
+I1
+sVcop
+p90
+I1
+sVwatts
+p91
+I1
+sVlast
+p92
+I1
+sVwould
+p93
+I2
+sVg
+I2
+sVgallons
+p94
+I1
+sVeastside
+p95
+I2
+sVscript
+p96
+I1
+sVkeep
+p97
+I2
+sVwalkin
+p98
+I1
+sVamerican
+p99
+I1
+sVsmoke
+p100
+I3
+sVact
+p101
+I1
+sVsunshine
+p102
+I4
+sVdre
+p103
+I2
+sVmotherfuckers
+p104
+I3
+sVthats
+p105
+I3
+sVem
+p106
+I2
+sVladies
+p107
+I2
+sVdont
+p108
+I4
+sVpussy
+p109
+I2
+sVnumber
+p110
+I2
+sVpop
+p111
+I1
+sVone
+p112
+I10
+sVbrought
+p113
+I2
+sVput
+p114
+I3
+sVwit
+p115
+I1
+sVdone
+p116
+I2
+sVbitch
+p117
+I1
+sVtizeam
+p118
+I2
+sVtable
+p119
+I2
+sVcups
+p120
+I2
+sVcrip
+p121
+I1
+sVwan
+p122
+I3
+sVoneal
+p123
+I1
+sVsnoop
+p124
+I2
+sVaint
+p125
+I3
+sVdogg
+p126
+I2
+sVbite
+p127
+I1
+sVjealousy
+p128
+I4
+sVfast
+p129
+I1
+sVstuck
+p130
+I1
+sVlive
+p131
+I2
+sVdrank
+p132
+I1
+sVlow
+p133
+I1
+sVway
+p134
+I1
+sVlovely
+p135
+I2
+sVback
+p136
+I2
+sVleavin
+p137
+I1
+sVlife
+p138
+I1
+sVcoke
+p139
+I1
+sVbitches
+p140
+I1
+sVhurt
+p141
+I2
+sVglass
+p142
+I2
+sVstick
+p143
+I1
+sVbroke
+p144
+I2
+sVbeat
+p145
+I1
+sVyard
+p146
+I1
+sVline
+p147
+I1
+sVtrying
+p148
+I2
+sVwith
+p149
+I1
+sVme
+p150
+I4
+sVmyself
+p151
+I2
+sVmade
+p152
+I1
+sVdrizeam
+p153
+I1
+sVniggas
+p154
+I6
+sVcar
+p155
+I1
+sVcash
+p156
+I1
+sVus
+p157
+I10
+sVair
+p158
+I2
+sVcnotes
+p159
+I1
+sVv
+I1
+sVz
+I1
+sVleaves
+p160
+I1
+sVhenn
+p161
+I1
+sVdodouble
+p162
+I2
+sVstackin
+p163
+I2
+sVmackin
+p164
+I2
+sVit
+p165
+I1
+sVhigh
+p166
+I1
+sVplayer
+p167
+I2
+sVim
+p168
+I8
+sVdropped
+p169
+I1
+sVwant
+p170
+I1
+sVready
+p171
+I1
+sVlimit
+p172
+I2
+sVfeasible
+p173
+I1
+sVborder
+p174
+I1
+sVtrip
+p175
+I4
+sVshit
+p176
+I6
+sVhesitate
+p177
+I1
+sVsippin
+p178
+I2
+sVlil
+p179
+I1
+sVna
+p180
+I3
+sVnote
+p181
+I1
+sVtight
+p182
+I2
+sVneed
+p183
+I1
+sVnaw
+p184
+I1
+sV9
+I3
+sVtalkin
+p185
+I1
+sVwhawhawhawhat
+p186
+I1
+sVunbelievable
+p187
+I1
+sVnobody
+p188
+I2
+sVshiiit
+p189
+I1
+sVdime
+p190
+I2
+sVaww
+p191
+I1
+sVdoin
+p192
+I4
+sVhennesey
+p193
+I6
+sV3
+I2
+sVmost
+p194
+I1
+sVsip
+p195
+I3
+sVmad
+p196
+I2
+sVtall
+p197
+I2
+sVpresident
+p198
+I1
+sVwheels
+p199
+I2
+sVghost
+p200
+I1
+sVsmoked
+p201
+I1
+sVbullet
+p202
+I2
+sVwhole
+p203
+I1
+sVsmuggle
+p204
+I1
+sVrather
+p205
+I2
+sVcosts
+p206
+I1
+sVtime
+p207
+I3
+sVdos
+p208
+I1
+sVuno
+p209
+I1
+sVorder
+p210
+I1
+sVcame
+p211
+I2
+sVleft
+p212
+I1
+s.

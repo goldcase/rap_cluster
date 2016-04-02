@@ -1,62 +1,518 @@
-"want what i got" lyrics
-mc lyte lyrics
-"want what i got"
-(feat. missy 'misdemeanor' elliott, mocha)
-i can rock a party with a glass of hennessey
-i know i make yall sick with the way i boogie
-my fake ass friends wanna hang out tonight
-i’ll tell ‘em follow me then i’ll ditch ‘em at the light
-i see ‘em at the club, they wanna know why i’m whilin’
-cause i smoke weed now i’m high like a pilot
-spendin’ more cheese than you throw on a salad
-hand me my mike, if you ‘bout it, then i’m ‘bout it
-mmmm, yea i’m ‘bout it
-don’t doubt it, don’t doubt it
-i’m the mc lyte boo but please don’t crowd me
-cause my security might get rowdy
-make ‘em punch you out and watch your vision go cloudy
-now all you freaks wanna speak cuz i’m back
-stick to your gossip like the glue to your tracks
-i never liked your ass, by the way, cuz you’re wack
-give a dog a bone so here’s a lyte snack
-yo yo (yo) want what i got
-come through then
-you at home wit’ a safe you ain’t got nothin’ in
-ask how i got it and keep it comin’ in
-from hustlin’, doublin’ and publishin’ (publishin’)
-want what i got
-come through then
-you at home wit’ a safe you ain’t got nothin’ in (nothin’ in)
-ask how i got it and keep it comin’ in
-from hustlin’, doublin’ and publishin’
-used to be a rookie singin’ latti datti
-now me and missy beco-rockin’ the party
-flooded movado ain’t i fly though
-never let ‘em see you comin’, that’s my motto
-i’m on it, i’m on it, i had the nigga goin’
-said i was hot tomali, mind blowin’
-it’s crucial, how some folks get bourgeois
-or bourgeois, did i lose you or did you lose me
-either way we miles apart
-i’m hittin’ the ribbon, you at the start
-i’m never, ever, ever, gonna let you think
-that your shit don’t stink
-so don’t come around here thinkin’ you can’t get it
-you’ll be the first to admit it
-how you got punked by hip-hop’s greatest
-missy and lyte bringin’ you the latest, yo yo
-i treat niggas like they my hoe
-blaze ‘em then i go
-straight to the nikko
-meet another puerto rico
-cute like tico
-copy me like kinko
-you know i’ma freak, yo
-i don’t love them amigos
-i’m straight to their pockets
-bow all their sockets
-i’m plush like carpet
-they wanna stick the target
-i don’t give a fuck what you rock
-cuz you see what i got, want what i got
-want what i got
+(dp1
+Vcute
+p2
+I1
+sVlyrics
+p3
+I2
+sVyea
+p4
+I1
+sVcrucial
+p5
+I1
+sVcopy
+p6
+I1
+sVmisdemeanor
+p7
+I1
+sVyall
+p8
+I1
+sVkinko
+p9
+I1
+sVhiphop\u2019s
+p10
+I1
+sVgo
+p11
+I2
+sVfollow
+p12
+I1
+sVtico
+p13
+I1
+sVglue
+p14
+I1
+sVfeat
+p15
+I1
+sVcarpet
+p16
+I1
+sVbringin\u2019
+p17
+I1
+sVsnack
+p18
+I1
+sVpockets
+p19
+I1
+sVit\u2019s
+p20
+I1
+sVcuz
+p21
+I3
+sVrico
+p22
+I1
+sVblaze
+p23
+I1
+sVfolks
+p24
+I1
+sVpuerto
+p25
+I1
+sVhennessey
+p26
+I1
+sVmight
+p27
+I1
+sVthen
+p28
+I2
+sVaround
+p29
+I1
+sVyo
+p30
+I6
+sVget
+p31
+I3
+sVi\u2019m
+p32
+I12
+sVsafe
+p33
+I2
+sVwatch
+p34
+I1
+sVgoin\u2019
+p35
+I1
+sVknow
+p36
+I3
+sVthinkin\u2019
+p37
+I1
+sVapart
+p38
+I1
+sVhere\u2019s
+p39
+I1
+sV\u2018bout
+p40
+I3
+sVlike
+p41
+I6
+sVever
+p42
+I2
+sVcloudy
+p43
+I1
+sVplush
+p44
+I1
+sVmiles
+p45
+I1
+sVeither
+p46
+I1
+sVrock
+p47
+I2
+sVsecurity
+p48
+I1
+sVstraight
+p49
+I2
+sVbone
+p50
+I1
+sVnikko
+p51
+I1
+sVcan\u2019t
+p52
+I1
+sVcomin\u2019
+p53
+I3
+sVnigga
+p54
+I1
+sVcrowd
+p55
+I1
+sVback
+p56
+I1
+sVyou\u2019re
+p57
+I1
+sVsee
+p58
+I3
+sVused
+p59
+I1
+sVgossip
+p60
+I1
+sVhome
+p61
+I2
+sVribbon
+p62
+I1
+sVsaid
+p63
+I1
+sVmovado
+p64
+I1
+sVboogie
+p65
+I1
+sVplease
+p66
+I1
+sVsockets
+p67
+I1
+sVfreaks
+p68
+I1
+sVgot
+p69
+I12
+sVcause
+p70
+I2
+sVblowin\u2019
+p71
+I1
+sVass
+p72
+I2
+sVdatti
+p73
+I1
+sVyou\u2019ll
+p74
+I1
+sVnever
+p75
+I3
+sVpunch
+p76
+I1
+sVtracks
+p77
+I1
+sVlet
+p78
+I2
+sVask
+p79
+I2
+sVmotto
+p80
+I1
+sVhand
+p81
+I1
+sVcome
+p82
+I3
+sVthrow
+p83
+I1
+sVkeep
+p84
+I2
+sVadmit
+p85
+I1
+sVvision
+p86
+I1
+sVsmoke
+p87
+I1
+sVboo
+p88
+I1
+sVthink
+p89
+I1
+sVfirst
+p90
+I1
+sVcheese
+p91
+I1
+sVliked
+p92
+I1
+sVlove
+p93
+I1
+sVmc
+p94
+I2
+sVmocha
+p95
+I1
+sVanother
+p96
+I1
+sVfake
+p97
+I1
+sVditch
+p98
+I1
+sVamigos
+p99
+I1
+sVspeak
+p100
+I1
+sVwan
+p101
+I4
+sVwack
+p102
+I1
+sVlyte
+p103
+I4
+sVwit\u2019
+p104
+I2
+sVlatti
+p105
+I1
+sVstart
+p106
+I1
+sVdoubt
+p107
+I2
+sVmissy
+p108
+I3
+sVdon\u2019t
+p109
+I7
+sVway
+p110
+I3
+sVbecorockin\u2019
+p111
+I1
+sVtell
+p112
+I1
+sVtreat
+p113
+I1
+sVmike
+p114
+I1
+sVdoublin\u2019
+p115
+I2
+sVi\u2019ll
+p116
+I2
+sVclub
+p117
+I1
+sVhittin\u2019
+p118
+I1
+sVfuck
+p119
+I1
+sVmmmm
+p120
+I1
+sVglass
+p121
+I1
+sVstick
+p122
+I2
+sVspendin\u2019
+p123
+I1
+sVpublishin\u2019
+p124
+I3
+sVpilot
+p125
+I1
+sVme
+p126
+I2
+sVhigh
+p127
+I1
+sVsingin\u2019
+p128
+I1
+sVtarget
+p129
+I1
+sVsalad
+p130
+I1
+sVniggas
+p131
+I1
+sVain\u2019t
+p132
+I3
+sVmeet
+p133
+I1
+sVstink
+p134
+I1
+sVfreak
+p135
+I1
+sVgive
+p136
+I2
+sVmind
+p137
+I1
+sVit
+p138
+I5
+sVtonight
+p139
+I1
+sVfly
+p140
+I1
+sVwant
+p141
+I6
+sVin
+p142
+I4
+sVbow
+p143
+I1
+sVshit
+p144
+I1
+sVhoe
+p145
+I1
+sVnothin\u2019
+p146
+I3
+sVna
+p147
+I5
+sVmake
+p148
+I2
+sVhot
+p149
+I1
+sVpunked
+p150
+I1
+sVsick
+p151
+I1
+sVrookie
+p152
+I1
+sVparty
+p153
+I2
+sVelliott
+p154
+I1
+sVtomali
+p155
+I1
+sVhustlin\u2019
+p156
+I2
+sVwhilin\u2019
+p157
+I1
+sVi\u2019ma
+p158
+I1
+sVthat\u2019s
+p159
+I1
+sVthough
+p160
+I1
+sVflooded
+p161
+I1
+sVhang
+p162
+I1
+sVweed
+p163
+I1
+sVgon
+p164
+I1
+sVfriends
+p165
+I1
+sVbourgeois
+p166
+I2
+sVlight
+p167
+I1
+sVlose
+p168
+I2
+sVrowdy
+p169
+I1
+sVdog
+p170
+I1
+sVgreatest
+p171
+I1
+sV\u2018em
+p172
+I6
+sVlatest
+p173
+I1
+s.

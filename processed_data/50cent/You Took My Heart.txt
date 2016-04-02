@@ -1,57 +1,506 @@
-"you took my heart" lyrics
-50 cent lyrics
-"you took my heart"
-"so tonight, i wanna talk to you about the relationship
-between money and peace... "
-a lot of people say it's not about money, it's about peace!
-it's about money...
-you took my heart from me
-i'll never be the same
-now killing won't be hard for me
-cause i can't feel a thing
-sunday morning, preacher in the pulpit
-kissed my nanna, i can't listen to this bullshit
-it's all good til they ask me for an offering
-all we got is pain, so that's all i can offer him
-my mama cold, she put me in this cold world
-left me, what i got to protect me?
-oh, i got a 9, yeah i got a 9!
-and all this ambition, bitch i'm on the grind
-sky's the limit, 2 for 5's the gimmick
-you line something up, i tie something up
-they run up out that crib with that money, nigga what
-school of hard knocks, i'm ahead of my class
-with no hesitation put a hole in your ass
-see, no it's never my fault when i fuck up
-i knock your ass out, to wake you the fuck up
-brass knuckles and my knife: now tell me wassup
-i made it to a half a mansion, shit i thought i made it
-hood bitches on a nigga, yeah all on a nigga
-the d's his the door with the batter ram
-i'm standing by the toilet that's broke, tryna flush this shit
-bizzy was my nigga started fucking with that cracker shit
-beat me out my money, nigga ran off with my mack key
-i was down, he kicked me when i'm down
-when i think about this kid, it fucks my head up right now
-you know the same niggas that got me shot, killed your brother
-and you ain't never did shit about that, motherfucker
-when niggas was beefing with you, i shot that park up
-now i'm thinking about the occasions, my gun blazing
-you got me feeling like a sucker b
-you took my heart from me
-(son, i don't give a fuck son we can back right now)
-i'll never be the same
-(niggas gonna try and front on me and be right there?)
-now killing won't be hard for me
-(nah, nah, i'm putting them niggas on house arrest)
-cause i can't feel a thing
-i'm a go and i'm a go back, fuck that
-i'm a stay on them niggas 'til they can feel me breathing on them
-you, you look at these fake ass niggas
-they think cause they saying some fake shit in music, that the shit i be saying ain't real
-all you gotta do is ask niggas, they tell you about me
-they don't say fifty though they say boo boo
-uh uh
-find out
-find out if i let it go
-man turn this shit off
+(dp1
+Vsaying
+p2
+I2
+sVshot
+p3
+I2
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I5
+sVhalf
+p6
+I1
+sVds
+p7
+I1
+sVgun
+p8
+I1
+sVworld
+p9
+I1
+sVmansion
+p10
+I1
+sVcold
+p11
+I2
+sVline
+p12
+I1
+sVaint
+p13
+I2
+sVthinking
+p14
+I1
+sVwassup
+p15
+I1
+sV5s
+p16
+I1
+sVbullshit
+p17
+I1
+sVarrest
+p18
+I1
+sVskys
+p19
+I1
+sVta
+p20
+I1
+sVreal
+p21
+I1
+sVthem
+p22
+I1
+sVgood
+p23
+I1
+sVbeat
+p24
+I1
+sVsucker
+p25
+I1
+sVb
+I1
+sVbatter
+p26
+I1
+sVknow
+p27
+I1
+sVambition
+p28
+I1
+sVfront
+p29
+I1
+sVknocks
+p30
+I1
+sVnow
+p31
+I2
+sVhim
+p32
+I1
+sVlook
+p33
+I1
+sVwont
+p34
+I2
+sVknock
+p35
+I1
+sVschool
+p36
+I1
+sVlike
+p37
+I1
+sVoccasions
+p38
+I1
+sV50
+p39
+I1
+sVblazing
+p40
+I1
+sVmorning
+p41
+I1
+sVtry
+p42
+I1
+sVnigga
+p43
+I5
+sVpeople
+p44
+I1
+sVfucking
+p45
+I1
+sVhouse
+p46
+I1
+sVhard
+p47
+I3
+sVyeah
+p48
+I2
+sVbrother
+p49
+I1
+sVpreacher
+p50
+I1
+sVgo
+p51
+I3
+sVsee
+p52
+I1
+sVflush
+p53
+I1
+sVout
+p54
+I1
+sVwhat
+p55
+I1
+sVgon
+p56
+I1
+sVhesitation
+p57
+I1
+sVbeefing
+p58
+I1
+sVfucks
+p59
+I1
+sVfind
+p60
+I2
+sVpulpit
+p61
+I1
+sVgot
+p62
+I7
+sVcause
+p63
+I3
+sVknife
+p64
+I1
+sVass
+p65
+I3
+sVkicked
+p66
+I1
+sVrun
+p67
+I1
+sVnever
+p68
+I4
+sVnanna
+p69
+I1
+sVkilling
+p70
+I2
+sVlet
+p71
+I1
+sVkey
+p72
+I1
+sVput
+p73
+I2
+sVprotect
+p74
+I1
+sVahead
+p75
+I1
+sVoh
+p76
+I1
+sVfault
+p77
+I1
+sVill
+p78
+I2
+sVthing
+p79
+I2
+sVboo
+p80
+I2
+sVthink
+p81
+I2
+sVthats
+p82
+I2
+sVdont
+p83
+I2
+sVtoilet
+p84
+I1
+sVfeel
+p85
+I3
+sVcrib
+p86
+I1
+sVson
+p87
+I2
+sVdown
+p88
+I1
+sVask
+p89
+I2
+sVright
+p90
+I3
+sVbitch
+p91
+I1
+sVfake
+p92
+I2
+sVgimmick
+p93
+I1
+sVhood
+p94
+I1
+sVstanding
+p95
+I1
+sVwan
+p96
+I1
+sVknuckles
+p97
+I1
+sVfifty
+p98
+I1
+sVthere
+p99
+I1
+sVcent
+p100
+I1
+sVbizzy
+p101
+I1
+sV2
+I1
+sVmusic
+p102
+I1
+sVlot
+p103
+I1
+sVmama
+p104
+I1
+sVman
+p105
+I1
+sVtell
+p106
+I2
+sVkilled
+p107
+I1
+sVlisten
+p108
+I1
+sVback
+p109
+I2
+sVtryna
+p110
+I1
+sVhead
+p111
+I1
+sVdoor
+p112
+I1
+sVoffering
+p113
+I1
+sVoffer
+p114
+I1
+sVstarted
+p115
+I1
+sVbitches
+p116
+I1
+sVpark
+p117
+I1
+sVtook
+p118
+I4
+sVcant
+p119
+I3
+sVit
+p120
+I1
+sVwake
+p121
+I1
+sVbroke
+p122
+I1
+sVhole
+p123
+I1
+sVme
+p124
+I6
+sVmade
+p125
+I2
+sVthat
+p126
+I1
+sVniggas
+p127
+I7
+sVcracker
+p128
+I1
+sVup
+p129
+I4
+sVlimit
+p130
+I1
+sVuh
+p131
+I2
+sVmotherfucker
+p132
+I1
+sVfeeling
+p133
+I1
+sVheart
+p134
+I4
+sVgive
+p135
+I1
+sVran
+p136
+I1
+sVram
+p137
+I1
+sVfuck
+p138
+I4
+sVtonight
+p139
+I1
+sVsay
+p140
+I3
+sVbreathing
+p141
+I1
+sVim
+p142
+I9
+sVsomething
+p143
+I2
+sVkissed
+p144
+I1
+sVshit
+p145
+I7
+sVrelationship
+p146
+I1
+sVturn
+p147
+I1
+sVna
+p148
+I2
+sVnah
+p149
+I2
+sVpeace
+p150
+I2
+sVsame
+p151
+I2
+sVtil
+p152
+I2
+sVsunday
+p153
+I1
+sV9
+I2
+sVtie
+p154
+I1
+sVpain
+p155
+I1
+sVthough
+p156
+I1
+sVstay
+p157
+I1
+sVbrass
+p158
+I1
+sVmack
+p159
+I1
+sVclass
+p160
+I1
+sVkid
+p161
+I1
+sVoff
+p162
+I1
+sVgrind
+p163
+I1
+sVthought
+p164
+I1
+sVputting
+p165
+I1
+sVtalk
+p166
+I1
+sVleft
+p167
+I1
+s.

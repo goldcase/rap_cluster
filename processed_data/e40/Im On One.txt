@@ -1,49 +1,377 @@
-"i'm on one" lyrics
-e-40 lyrics
-"i'm on one"
-(you’re on/ you’re on/ you’re on/ you’re on)
-i’m on: one, one, one, one, one
-i’m on like a pot/ i cook up
-i got the hook up
-a slap makes the demons look up
-i got em’ shook up
-...
-yayo college is what i took up
-northern cali fo ya my nizzle
-put up or shut up
-homeboy loaded like a shot gun
-smokin’ like a chimney
-higher
-than the trees in yosemite
-twisted like a pretzel
-drinkin cranberry and cognac
-stay afloat keep my head above sea level
-so much hate in my region
-so much stress in my brain
-hey a rapper ain’t eatin’
-so he needs someone to blame
-so they blame it on ya boy
-cause i got the biggest mouth
-light it up and have a chain
-see the soul train
-step your bar game up
-practice your penmanship
-stop the claiming and making excuses
-nigga make a hit
-just the other day i heard a fuck nigga say
-funny y’all with him but vallejo ain’t in the bay
-i said that’s some hard shit a nigga like you would say
-cause’ it’s haters like your washed up ass that’s in the way
-ugh. tycoon diamonds
-glimmin like the sun
-i’m in a fucked up mood
-and a nigga on one
-smokin’ on smelly
-yappin on my celly
-hustlin’
-getting’ money is a habit
-always getting dusty
-always in the traffic
-out of town out of state
-doing shows makin’ cake
-spitin
+(dp1
+Vugh
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVglimmin
+p6
+I1
+sVbrain
+p7
+I1
+sVem\u2019
+p8
+I1
+sVdrinkin
+p9
+I1
+sVchain
+p10
+I1
+sVnorthern
+p11
+I1
+sVit\u2019s
+p12
+I1
+sVpretzel
+p13
+I1
+sVcognac
+p14
+I1
+sVpenmanship
+p15
+I1
+sVtycoon
+p16
+I1
+sVtown
+p17
+I1
+sVsomeone
+p18
+I1
+sVhit
+p19
+I1
+sVya
+p20
+I2
+sVpractice
+p21
+I1
+sVstop
+p22
+I1
+sVvallejo
+p23
+I1
+sVtrees
+p24
+I1
+sVgame
+p25
+I1
+sVtraffic
+p26
+I1
+sVcook
+p27
+I1
+sVone
+p28
+I8
+sVday
+p29
+I1
+sVchimney
+p30
+I1
+sVbar
+p31
+I1
+sVlike
+p32
+I7
+sVlevel
+p33
+I1
+sValways
+p34
+I2
+sVrapper
+p35
+I1
+sVgun
+p36
+I1
+sVbay
+p37
+I1
+sVcause\u2019
+p38
+I1
+sVnigga
+p39
+I4
+sVhabit
+p40
+I1
+sVhard
+p41
+I1
+sVnizzle
+p42
+I1
+sVyou\u2019re
+p43
+I4
+sVsee
+p44
+I1
+sVcollege
+p45
+I1
+sVsea
+p46
+I1
+sVsaid
+p47
+I1
+sVmood
+p48
+I1
+sVhate
+p49
+I1
+sVafloat
+p50
+I1
+sVwashed
+p51
+I1
+sVdemons
+p52
+I1
+sVgetting\u2019
+p53
+I1
+sVstate
+p54
+I1
+sVdiamonds
+p55
+I1
+sVgot
+p56
+I3
+sVeatin\u2019
+p57
+I1
+sVcause
+p58
+I1
+sVshows
+p59
+I1
+sVass
+p60
+I1
+sVshut
+p61
+I1
+sVblame
+p62
+I2
+sVstep
+p63
+I1
+sVput
+p64
+I1
+sVspitin
+p65
+I1
+sVboy
+p66
+I1
+sVgetting
+p67
+I1
+sVdusty
+p68
+I1
+sVregion
+p69
+I1
+sVkeep
+p70
+I1
+sVcranberry
+p71
+I1
+sVmakes
+p72
+I1
+sVmakin\u2019
+p73
+I1
+sVpot
+p74
+I1
+sVhey
+p75
+I1
+sVhook
+p76
+I1
+sVsmelly
+p77
+I1
+sVloaded
+p78
+I1
+sVwould
+p79
+I1
+sVsmokin\u2019
+p80
+I2
+sVtwisted
+p81
+I1
+sVcali
+p82
+I1
+sVmuch
+p83
+I2
+sVway
+p84
+I1
+sVbiggest
+p85
+I1
+sVyappin
+p86
+I1
+sVhead
+p87
+I1
+sVon
+p88
+I1
+sVtook
+p89
+I1
+sVtrain
+p90
+I1
+sVhaters
+p91
+I1
+sVyayo
+p92
+I1
+sVcelly
+p93
+I1
+sVe40
+p94
+I1
+sVlook
+p95
+I1
+sVain\u2019t
+p96
+I2
+sVsoul
+p97
+I1
+sVy\u2019all
+p98
+I1
+sVcake
+p99
+I1
+sVmaking
+p100
+I1
+sVshook
+p101
+I1
+sVup
+p102
+I7
+sVfuck
+p103
+I1
+sVslap
+p104
+I1
+sVheard
+p105
+I1
+sVsay
+p106
+I2
+sVim
+p107
+I2
+sVshit
+p108
+I1
+sVyosemite
+p109
+I1
+sVfunny
+p110
+I1
+sVneeds
+p111
+I1
+sVmake
+p112
+I1
+sVclaiming
+p113
+I1
+sVhomeboy
+p114
+I1
+sVexcuses
+p115
+I1
+sVhigher
+p116
+I1
+sVhustlin\u2019
+p117
+I1
+sVthat\u2019s
+p118
+I2
+sVstay
+p119
+I1
+sVmouth
+p120
+I1
+sVfucked
+p121
+I1
+sVfo
+p122
+I1
+sVstress
+p123
+I1
+sVi\u2019m
+p124
+I3
+sVlight
+p125
+I1
+sVsun
+p126
+I1
+s.

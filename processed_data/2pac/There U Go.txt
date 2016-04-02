@@ -1,46 +1,400 @@
-"there u go" lyrics
-2pac lyrics
-"there u go"
-(feat. outlawz & big syke)
-there you go.....acting like a hoe....
-(i don't know why i'll be fucking with you)
-was it the liqour
-that makes me act blind?
-the times i'm with her
-anonymous pictures
-of other niggas trying to kiss her
-will i love her, or shall i dis her
-i'm sick of this scandalous shit i deal with
-trying to paint a perfect picture!
-my memories of jealousy no longer care free....
-'cause so much bullshit your girlfriends keep telling me
-i'm on tour but now my bedrooms an open door
-so it got me thinking what am i trying for?
-when i was young i was so very dumb
-eager to please a little trick on a mission trying 2 get 'em up p
-me and my niggas is thug niggas, former known drug dealers!
-we don't love bitches!, and believe they don't love niggas!
-i got 'em plain by attraction
-but you became a distraction a threat to my paper stacking
-i thought you'd change, but now i know
-can't turn a hoe into a house wife baby
-and there you go...
-there you there you go, acting like a hoe
-there you there you go, acting like a hoe!
-there you there you go, acting like a hoe
-acting like a hoe, acting like a hoe!
-see the word on the streets your
-just a groopy on a world tour
-now i find out for myself your
-girl you need to check yourself...
-you need to check this, i got this game twisted
-so i don't claim 'em, just bang 'em...
-papa raised a player, so player i'll play 'em
-i got hoez, that got more hoez than me
-so how i love getting hooked like i ain't got g
-truly, cutie, booty babe!
-but that ain't enough
-and the head make me bag, still that just ain't enough
-when i don't trust her, bitch be lien too much
-she be dieing to fuck me, you be buying the stuff...
-see old friend i know.
+(dp1
+Vkiss
+p2
+I1
+sVlyrics
+p3
+I2
+sVhooked
+p4
+I1
+sVmission
+p5
+I1
+sVbaby
+p6
+I1
+sVpaper
+p7
+I1
+sVworld
+p8
+I1
+sVgo
+p9
+I6
+sVstill
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVperfect
+p13
+I1
+sVtrying
+p14
+I4
+sVthinking
+p15
+I1
+sVyoung
+p16
+I1
+sVattraction
+p17
+I1
+sVbuying
+p18
+I1
+sVcutie
+p19
+I1
+sVsyke
+p20
+I1
+sVget
+p21
+I1
+sVbig
+p22
+I1
+sVbedrooms
+p23
+I1
+sVtruly
+p24
+I1
+sVgame
+p25
+I1
+sVknow
+p26
+I3
+sVanonymous
+p27
+I1
+sVdieing
+p28
+I1
+sVtelling
+p29
+I1
+sV2
+I1
+sVbullshit
+p30
+I1
+sVdistraction
+p31
+I1
+sVlike
+p32
+I7
+sVp
+I1
+sVstuff
+p33
+I1
+sVdis
+p34
+I1
+sVem
+p35
+I5
+sVbooty
+p36
+I1
+sVdeal
+p37
+I1
+sVfucking
+p38
+I1
+sVhouse
+p39
+I1
+sVstreets
+p40
+I1
+sVsee
+p41
+I2
+sVdumb
+p42
+I1
+sVgirl
+p43
+I1
+sVhoez
+p44
+I2
+sVfor
+p45
+I1
+sVbag
+p46
+I1
+sVmemories
+p47
+I1
+sVplease
+p48
+I1
+sVacting
+p49
+I5
+sVgot
+p50
+I6
+sVcause
+p51
+I1
+sVaint
+p52
+I3
+sVfree
+p53
+I1
+sVchange
+p54
+I1
+sVcare
+p55
+I1
+sVgroopy
+p56
+I1
+sVgetting
+p57
+I1
+sVill
+p58
+I2
+sVdrug
+p59
+I1
+sVkeep
+p60
+I1
+sVturn
+p61
+I1
+sVtour
+p62
+I2
+sVbecame
+p63
+I1
+sVthreat
+p64
+I1
+sVact
+p65
+I1
+sVmakes
+p66
+I1
+sVblind
+p67
+I1
+sVraised
+p68
+I1
+sVlove
+p69
+I4
+sVdont
+p70
+I5
+sVyoud
+p71
+I1
+sVlien
+p72
+I1
+sVyourself
+p73
+I1
+sVbitch
+p74
+I1
+sVold
+p75
+I1
+sVtrust
+p76
+I1
+sVopen
+p77
+I1
+sVyour
+p78
+I2
+sVlittle
+p79
+I1
+sVher
+p80
+I3
+sVeager
+p81
+I1
+sVjealousy
+p82
+I1
+sVtwisted
+p83
+I1
+sVplayer
+p84
+I2
+sVpaint
+p85
+I1
+sVmuch
+p86
+I2
+sVoutlawz
+p87
+I1
+sVfriend
+p88
+I1
+sVhead
+p89
+I1
+sVdoor
+p90
+I1
+sVenough
+p91
+I2
+sVbitches
+p92
+I1
+sVgirlfriends
+p93
+I1
+sVknown
+p94
+I1
+sVbelieve
+p95
+I1
+sVwith
+p96
+I1
+sVformer
+p97
+I1
+sV2pac
+p98
+I1
+sVdealers
+p99
+I1
+sVme
+p100
+I2
+sVword
+p101
+I1
+sVg
+I1
+sVniggas
+p102
+I4
+sVplain
+p103
+I1
+sVtrick
+p104
+I1
+sVclaim
+p105
+I1
+sVliqour
+p106
+I1
+sVscandalous
+p107
+I1
+sVstacking
+p108
+I1
+sVfuck
+p109
+I1
+sVneed
+p110
+I2
+sVcant
+p111
+I1
+sVim
+p112
+I3
+sVthug
+p113
+I1
+sVbabe
+p114
+I1
+sVtimes
+p115
+I1
+sVcheck
+p116
+I2
+sVshit
+p117
+I1
+sVhoe
+p118
+I7
+sVmake
+p119
+I1
+sVsick
+p120
+I1
+sVyou
+p121
+I1
+sVpicture
+p122
+I1
+sVplay
+p123
+I1
+sVshall
+p124
+I1
+sVpapa
+p125
+I1
+sVlonger
+p126
+I1
+sVwife
+p127
+I1
+sVgoacting
+p128
+I1
+sVbang
+p129
+I1
+sVthought
+p130
+I1
+sVu
+I2
+sVpictures
+p131
+I1
+s.

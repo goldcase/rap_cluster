@@ -1,61 +1,431 @@
-"punch drunk love (the eye)" lyrics
-common lyrics
-"punch drunk love (the eye)"
-(feat. kanye west)
-come on come on come on come one
-come on girl lets goooo
-hey baby
-am i crazy
-or was u giving me the eye (the eye)
-you said maybe (yea)
-well you crazy
-because i know i'm too fly
-i already know im too fly (too fly)
-yeah i know what cha like.
-like now i'm off the wine (wine)
-and we can take our time (time)
-so much i want to i wants to fronts spilled the bump when we grind
-my uh in is ya body
-my uh is in ya mind
-check my dictionary
-that ass is so divine
-it slippery when its wet girl
-i can read the signs
-i knocked and i knocked (uh) can i come inside
-i knocked and i knocked girl can i come inside
-i feel like its home when i'm in between ya thighs
-it's the joy, and the pain, and the bites and the brain
-what make it feel so good
-that type of stuff u cant explain
-i do what i do to do to make it rain
-u got the invite tonight
-and i'm so glad ya came
-cuz you the type that danger we gain in yo
-mic check like the way i begin my show
-girl i come from chi-ca-so n i go
-turn around its about to be a tko
-some call me com (com)
-some call me the red (red)
-u can call me daddy, i'ma put ya to bed
-an appetite for seduction
-and it gotta be fed
-her sexual eruption got ya hitting ya head
-on the board
-and knock and screaming, oh lord
-we exchange like students cuz i student abroad
-and listen to ya body and low key partin'
-and i keep pushing and pushing
-u bout to volley em' up
-we the type to make lovin and we up
-we take a ride down south cuz u need to re-up
-girl u call me big bank like i was saving it up
-i'm the doctor i can hold it till my patients is up
-i make, i make i make it hot baby
-i know i know i know just stop baby
-when we do it like we don't want it to end
-its 3 pm we gon do it again.
-come on girl lets go
-to distant lands unknown
-we can fly on air
-if love is everywhere,
-for you and me
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVyea
+p4
+I1
+sVtko
+p5
+I1
+sVbrain
+p6
+I1
+sVlands
+p7
+I1
+sVdistant
+p8
+I1
+sVsigns
+p9
+I1
+sVgo
+p10
+I2
+sVkanye
+p11
+I1
+sVappetite
+p12
+I1
+sVfeat
+p13
+I1
+sVima
+p14
+I1
+sVfronts
+p15
+I1
+sVtill
+p16
+I1
+sVexplain
+p17
+I1
+sVdanger
+p18
+I1
+sVcuz
+p19
+I3
+sVlets
+p20
+I2
+sVair
+p21
+I1
+sVboard
+p22
+I1
+sVwet
+p23
+I1
+sVlord
+p24
+I1
+sVbout
+p25
+I1
+sVta
+p26
+I1
+sVgood
+p27
+I1
+sVaround
+p28
+I1
+sVyo
+p29
+I1
+sVya
+p30
+I8
+sVbig
+p31
+I1
+sVstop
+p32
+I1
+sVlovin
+p33
+I1
+sVknow
+p34
+I6
+sVscreaming
+p35
+I1
+sVbank
+p36
+I1
+sVknock
+p37
+I1
+sVlike
+p38
+I7
+sVpartin
+p39
+I1
+sVstuff
+p40
+I1
+sVthighs
+p41
+I1
+sVride
+p42
+I1
+sVem
+p43
+I1
+sVass
+p44
+I1
+sVbump
+p45
+I1
+sVyeah
+p46
+I1
+sVhome
+p47
+I1
+sVgirl
+p48
+I6
+sVdivine
+p49
+I1
+sVsexual
+p50
+I1
+sVsaid
+p51
+I1
+sVgiving
+p52
+I1
+sVsaving
+p53
+I1
+sV3
+I1
+sVgot
+p54
+I3
+sVred
+p55
+I2
+sVcommon
+p56
+I1
+sVbody
+p57
+I2
+sVdictionary
+p58
+I1
+sVexchange
+p59
+I1
+sVjoy
+p60
+I1
+sVpushing
+p61
+I2
+sVpunch
+p62
+I2
+sVkey
+p63
+I1
+sVput
+p64
+I1
+sVcome
+p65
+I9
+sVabroad
+p66
+I1
+sVoh
+p67
+I1
+sVspilled
+p68
+I1
+sVkeep
+p69
+I1
+sVturn
+p70
+I1
+sVunknown
+p71
+I1
+sVvolley
+p72
+I1
+sVcom
+p73
+I2
+sVsouth
+p74
+I1
+sValready
+p75
+I1
+sVlove
+p76
+I3
+sVdont
+p77
+I1
+sVdrunk
+p78
+I2
+sVfeel
+p79
+I2
+sVone
+p80
+I1
+sVpm
+p81
+I1
+sVcha
+p82
+I1
+sVfed
+p83
+I1
+sVeye
+p84
+I4
+sVwest
+p85
+I1
+sVseduction
+p86
+I1
+sVhey
+p87
+I1
+sVhitting
+p88
+I1
+sVmuch
+p89
+I1
+sVcall
+p90
+I4
+sVlow
+p91
+I1
+sVway
+p92
+I1
+sVtype
+p93
+I3
+sVlisten
+p94
+I1
+sVwants
+p95
+I1
+sVhead
+p96
+I1
+sVinvite
+p97
+I1
+sVeverywhere
+p98
+I1
+sVgain
+p99
+I1
+sVbaby
+p100
+I3
+sVhold
+p101
+I1
+sVglad
+p102
+I1
+sVfly
+p103
+I4
+sVinside
+p104
+I2
+sVbed
+p105
+I1
+sVn
+I1
+sVreup
+p106
+I1
+sVpatients
+p107
+I1
+sVslippery
+p108
+I1
+sVuh
+p109
+I3
+sVknocked
+p110
+I4
+sVdaddy
+p111
+I1
+sVbites
+p112
+I1
+sVcrazy
+p113
+I2
+sVmind
+p114
+I1
+sVgoooo
+p115
+I1
+sVtonight
+p116
+I1
+sVcant
+p117
+I1
+sVim
+p118
+I6
+sVwant
+p119
+I2
+sVneed
+p120
+I1
+sVchicaso
+p121
+I1
+sVcheck
+p122
+I2
+sVend
+p123
+I1
+sVdoctor
+p124
+I1
+sVmake
+p125
+I6
+sVread
+p126
+I1
+sVhot
+p127
+I1
+sVtake
+p128
+I2
+sVbegin
+p129
+I1
+sVpain
+p130
+I1
+sVstudents
+p131
+I1
+sVeruption
+p132
+I1
+sVrain
+p133
+I1
+sVgon
+p134
+I1
+sVstudent
+p135
+I1
+sVmaybe
+p136
+I1
+sVwell
+p137
+I1
+sVgrind
+p138
+I1
+sVu
+I7
+sVtime
+p139
+I2
+sVmic
+p140
+I1
+sVcame
+p141
+I1
+sVwine
+p142
+I2
+s.

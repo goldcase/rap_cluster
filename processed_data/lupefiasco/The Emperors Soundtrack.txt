@@ -1,79 +1,575 @@
-"the emperor's soundtrack" lyrics
-lupe fiasco lyrics
-"the emperor's soundtrack"
-i told you i would show up screaming fnf
-till the world, blow up, they said i was so finished
-i told 'em its show business
-meaning it's no business, since fiasco's in it
-disrespect the dress code; wear my street clothes in it
-measured, sold, and clothed in it
-opened up clones, after i entered and drove in it, like unh
-only fear god
-know the weapons of the weak
-the weakness of the hard
-and never fall asleep
-roll in it, let music bumping, windows tinted
-through they neighborhoods and all of the wolves in it
-it's already controlled in it
-seen it come and go, selling they soul in it
-diamond and gold plated
-fountain of youth, dipping my toes in it
-bounced in the booth, spit it, like scolding it
-putting my heart and my soul in it
-cause
-i only fear god
-know the weapons of the weak
-the weakness of the hard
-and never fall asleep
-once upon a time, not long ago
-where the pushaman creep, where they live life po'
-with fifteen in the clip and one in the hold
-hallway wall full of bricks, only some of us know
-none of us know the makers of the toast
-like the bottom of the stove, that was used in the murderin' of the scroll
-heart colder than eds
-won't let the cd's city defeat me
-rub me out like genies; smoke a sweet to my graffiti
-nigga what
-i only fear god
-know the weapons of the weak
-the weakness of the hard
-and i will never sleep
-marvin billups said what's up to the reaper
-hell met like riddell and high water hello
-to the five year old gunshot killer, i hear ya
-clearer than the invisible man in the mirror
-cheer up, i'll put in on the bars like beer nuts
-put a bug in they ear, so from here up, they hear us
-then we only fear god
-know the weapons of the weak
-the weakness of the hard
-and we will never sleep
-once upon a time, not long ago
-where the pushaman creep, where they live life po'
-i put it on my grand mama's daughter
-my microphone control of the soul of slave humming "wading in the water"
-i author like dw's brother, like a hustler
-god place me in ya armor, i prescribe no partners
-i do it for the hood like a parka
-and tell my niggas not to shiver
-only time we quiver like a archer is
-cause we only fear god
-know the weapons of the weak
-the weakness of the hard
-and we will never sleep
-here we are now, entertain us
-change don't change us
-ever since the game trained us
-we came up like worms in the rain
-i dream my chain became a loose noose that was used to hang us
-so now, my insane brain, my 32 teeth
-and two feet creep like its elm street
-cause
-i only fear god
-know the weapons of the weak
-the weakness of the hard
-and i will never sleep
-once upon a time, not long ago
-where the pushaman creep, where they live life po'
-he said...
+(dp1
+Vcode
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I2
+sVstove
+p5
+I1
+sVworms
+p6
+I1
+sVeds
+p7
+I1
+sVsleep
+p8
+I4
+sVcds
+p9
+I1
+sVgo
+p10
+I1
+sVhell
+p11
+I1
+sVfear
+p12
+I6
+sVhustler
+p13
+I1
+sVblow
+p14
+I1
+sVpartners
+p15
+I1
+sVear
+p16
+I1
+sVgold
+p17
+I1
+sVelm
+p18
+I1
+sVbricks
+p19
+I1
+sVya
+p20
+I2
+sVweakness
+p21
+I6
+sVkiller
+p22
+I1
+sVgame
+p23
+I1
+sVputting
+p24
+I1
+sVknow
+p25
+I8
+sVfall
+p26
+I2
+sVworld
+p27
+I1
+sVscreaming
+p28
+I1
+sVwont
+p29
+I1
+sVlike
+p30
+I12
+sVfiascos
+p31
+I1
+sVclothed
+p32
+I1
+sVever
+p33
+I1
+sVdipping
+p34
+I1
+sVbrother
+p35
+I1
+sVmirror
+p36
+I1
+sVclothes
+p37
+I1
+sVem
+p38
+I1
+sVgenies
+p39
+I1
+sVbars
+p40
+I1
+sVnigga
+p41
+I1
+sVold
+p42
+I1
+sVcolder
+p43
+I1
+sVhard
+p44
+I6
+sVstreet
+p45
+I2
+sVasleep
+p46
+I2
+sVbooth
+p47
+I1
+sVriddell
+p48
+I1
+sVmakers
+p49
+I1
+sVcreep
+p50
+I4
+sVwhat
+p51
+I1
+sVsaid
+p52
+I3
+sVopened
+p53
+I1
+sVbottom
+p54
+I1
+sVarmor
+p55
+I1
+sVgod
+p56
+I7
+sVsince
+p57
+I2
+sVweapons
+p58
+I6
+sVrub
+p59
+I1
+sVfountain
+p60
+I1
+sVnoose
+p61
+I1
+sVcause
+p62
+I3
+sVtold
+p63
+I2
+sVtoast
+p64
+I1
+sVmamas
+p65
+I1
+sVtoes
+p66
+I1
+sVbusiness
+p67
+I2
+sVlupe
+p68
+I1
+sVmarvin
+p69
+I1
+sVsold
+p70
+I1
+sVnever
+p71
+I6
+sVweak
+p72
+I6
+sVdisrespect
+p73
+I1
+sVmet
+p74
+I1
+sVentertain
+p75
+I1
+sVlet
+p76
+I2
+sVwear
+p77
+I1
+sVinvisible
+p78
+I1
+sVcome
+p79
+I1
+sVchange
+p80
+I2
+sVwater
+p81
+I2
+sVdaughter
+p82
+I1
+sV32
+p83
+I1
+sVill
+p84
+I1
+sVfnf
+p85
+I1
+sVbecame
+p86
+I1
+sVplace
+p87
+I1
+sVsmoke
+p88
+I1
+sVdefeat
+p89
+I1
+sVunh
+p90
+I1
+sVchain
+p91
+I1
+sVgunshot
+p92
+I1
+sValready
+p93
+I1
+sVwhats
+p94
+I1
+sVdont
+p95
+I1
+sVwall
+p96
+I1
+sVsweet
+p97
+I1
+sVone
+p98
+I1
+sVfeet
+p99
+I1
+sVput
+p100
+I3
+sVtrained
+p101
+I1
+sVhumming
+p102
+I1
+sVdrove
+p103
+I1
+sVhang
+p104
+I1
+sVhood
+p105
+I1
+sVcity
+p106
+I1
+sVwould
+p107
+I1
+sVfifteen
+p108
+I1
+sVbeer
+p109
+I1
+sVlong
+p110
+I3
+sVlive
+p111
+I3
+sVshiver
+p112
+I1
+sVmusic
+p113
+I1
+sVteeth
+p114
+I1
+sVentered
+p115
+I1
+sVbillups
+p116
+I1
+sVpo
+p117
+I3
+sVlife
+p118
+I3
+sVselling
+p119
+I1
+sVcontrolled
+p120
+I1
+sVspit
+p121
+I1
+sVfinished
+p122
+I1
+sVhear
+p123
+I2
+sVloose
+p124
+I1
+sVclones
+p125
+I1
+sVhold
+p126
+I1
+sVbug
+p127
+I1
+sVme
+p128
+I1
+sVnone
+p129
+I1
+sVfull
+p130
+I1
+sVniggas
+p131
+I1
+sVsoul
+p132
+I3
+sVus
+p133
+I7
+sVtell
+p134
+I1
+sVyouth
+p135
+I1
+sVarcher
+p136
+I1
+sVcontrol
+p137
+I1
+sVheart
+p138
+I2
+sVquiver
+p139
+I1
+sVclip
+p140
+I1
+sVis
+p141
+I1
+sVyear
+p142
+I1
+sVit
+p143
+I9
+sVemperors
+p144
+I2
+sVhigh
+p145
+I1
+sVtinted
+p146
+I1
+sVdiamond
+p147
+I1
+sVgraffiti
+p148
+I1
+sVseen
+p149
+I1
+sVdress
+p150
+I1
+sVdws
+p151
+I1
+sVmicrophone
+p152
+I1
+sVscolding
+p153
+I1
+sVinsane
+p154
+I1
+sVnuts
+p155
+I1
+sVplated
+p156
+I1
+sVbrain
+p157
+I1
+sVtill
+p158
+I1
+sVprescribe
+p159
+I1
+sVgrand
+p160
+I1
+sVparka
+p161
+I1
+sVroll
+p162
+I1
+sVhallway
+p163
+I1
+sVused
+p164
+I2
+sVslave
+p165
+I1
+sVwading
+p166
+I1
+sVfiasco
+p167
+I1
+sVupon
+p168
+I3
+sVclearer
+p169
+I1
+sVrain
+p170
+I1
+sVsoundtrack
+p171
+I2
+sVmeaning
+p172
+I1
+sVpushaman
+p173
+I3
+sVmurderin
+p174
+I1
+sVtwo
+p175
+I1
+sVmeasured
+p176
+I1
+sVman
+p177
+I1
+sVago
+p178
+I3
+sVbumping
+p179
+I1
+sVneighborhoods
+p180
+I1
+sVwindows
+p181
+I1
+sVauthor
+p182
+I1
+sVhello
+p183
+I1
+sVcheer
+p184
+I1
+sVreaper
+p185
+I1
+sVtime
+p186
+I4
+sVfive
+p187
+I1
+sVwolves
+p188
+I1
+sVbounced
+p189
+I1
+sVdream
+p190
+I1
+sVscroll
+p191
+I1
+sVcame
+p192
+I1
+s.

@@ -1,72 +1,412 @@
-"i love my momma" lyrics
-snoop dogg lyrics
-"i love my momma"
-momma.. momma..
-i love my momma
-i love my momma..
-through all the drama..
-momma.. momma..
-i love my momma
-check it out
-the first one to hold me (yeah)
-the first one to scold me (yes-o)
-you never cease to teach me
-and always try to reach me (momma..)
-took me to school the first day
-taught me how to kneel, down and pray (amen)
-you learned me how to count from one to ten
-and never forget, where i've been
-momma..
-yeah, i love my momma
-through all the drama, i love my momma (i love my momma)
-through all the drama, i love my momma
-yeah, i love my momma -- love you momma (momma!)
-i love my momma
-through all the drama, yeah i love my momma
-i love you mom (momma!)
-i love my momma
-through all the drama, yeah i love my momma
-i love you momma (i love you momma)
-yeah, i love you momma, yeah, i love you momma
-(listen here) trip..
-you taught me how to care (uhh)
-you taught me how to share (f'real)
-you taught me how to love and to give
-thanks to the one above -- i love you momma
-yeah, i love my momma
-i love you momma, i love my momma -- i love you momma
-i love you momma (i love you momma)
-i love my momma (i love you momma)
-i love my momma (now you tell em snoop)
-you taught me how to read and write, how to fight
-my do's and dont's, my wills and my wont's
-i'll never forget, the things that we went through
-bangin oldies in the livin room, sippin brew
-schlitz malt liquor was the thing back then
-my momma was my homey my daddy, and my best friend
-ask the twinz, them my lil locos to the end
-and warren g and nate dogg, shit them my true friends
-time and time again, i'ma spit this rhyme again
-she the queen in my life, and i'ma make sure she gon' shine again
-she taught me everythang, but she didn't charge a fee
-she taught me everythang, except how to see a g
-for the nine months you carried, i hope you bury me
-instead of the other way around, and i put that on dogg pound
-i made you cry, you made me smile
-i just wanna say i love you for life
-and that's the reason why i'm here now
-love, snoop
-i love my momma, yeah..
-i love my momma (i love you momma)
-yeah, i love my momma (i love you momma)
-through all the drama, yeah, yo, yeah, i love you (i love you)
-momma, momma, momma, momma, i love my momma
-momma, i love you momma
-i love you momma
-momma, momma
-your money wasn't always long (fo' sho')
-but your heart was forever strong (momma.. momma..)
-you taught me bout faith and hope
-and never ever get hooked on dope
-momma.. (i love you, i love you momma)
-i love you momma.. (throught all the drama, i love my momma)
+(dp1
+Vforget
+p2
+I2
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVqueen
+p5
+I1
+sVcease
+p6
+I1
+sVthanks
+p7
+I1
+sVna
+p8
+I1
+sVwarren
+p9
+I1
+sVima
+p10
+I2
+sVpray
+p11
+I1
+sVscold
+p12
+I1
+sVexcept
+p13
+I1
+sVcharge
+p14
+I1
+sVsmile
+p15
+I1
+sVbout
+p16
+I1
+sVnate
+p17
+I1
+sVthen
+p18
+I1
+sVlivin
+p19
+I1
+sVyo
+p20
+I1
+sVget
+p21
+I1
+sVread
+p22
+I1
+sVdope
+p23
+I1
+sVrhyme
+p24
+I1
+sVuhh
+p25
+I1
+sVmom
+p26
+I1
+sVwonts
+p27
+I1
+sVnow
+p28
+I1
+sVday
+p29
+I1
+sVschool
+p30
+I1
+sValways
+p31
+I2
+sVcry
+p32
+I1
+sVtry
+p33
+I1
+sVthrough
+p34
+I1
+sVwent
+p35
+I1
+sVsho
+p36
+I1
+sVem
+p37
+I1
+sVthrought
+p38
+I1
+sVten
+p39
+I1
+sVliquor
+p40
+I1
+sVyeah
+p41
+I12
+sVsee
+p42
+I1
+sVtaught
+p43
+I8
+sVbest
+p44
+I1
+sVout
+p45
+I1
+sVgon
+p46
+I1
+sVeverythang
+p47
+I2
+sVhooked
+p48
+I1
+sVlocos
+p49
+I1
+sVlearned
+p50
+I1
+sVever
+p51
+I1
+sVtwinz
+p52
+I1
+sVkneel
+p53
+I1
+sVoldies
+p54
+I1
+sVamen
+p55
+I1
+sVnever
+p56
+I4
+sVreason
+p57
+I1
+sVask
+p58
+I1
+sVteach
+p59
+I1
+sVstrong
+p60
+I1
+sVbury
+p61
+I1
+sVcare
+p62
+I1
+sVyeso
+p63
+I1
+sVfaith
+p64
+I1
+sVcarried
+p65
+I1
+sVg
+I2
+sVill
+p66
+I1
+sVmonths
+p67
+I1
+sVcount
+p68
+I1
+sVdrama
+p69
+I7
+sVthing
+p70
+I1
+sVfirst
+p71
+I3
+sVlove
+p72
+I47
+sVheart
+p73
+I1
+sVone
+p74
+I4
+sVput
+p75
+I1
+sVmomma
+p76
+I59
+sVpound
+p77
+I1
+sVlong
+p78
+I1
+sVwan
+p79
+I1
+sVfee
+p80
+I1
+sVsnoop
+p81
+I3
+sVdogg
+p82
+I3
+sVwills
+p83
+I1
+sVbeen
+p84
+I1
+sVfight
+p85
+I1
+sVdonts
+p86
+I1
+sVway
+p87
+I1
+sVtell
+p88
+I1
+sVfriend
+p89
+I1
+sVlisten
+p90
+I1
+sVshine
+p91
+I1
+sVlife
+p92
+I2
+sVspit
+p93
+I1
+sVtook
+p94
+I1
+sVback
+p95
+I1
+sVhold
+p96
+I1
+sVtrue
+p97
+I1
+sVme
+p98
+I2
+sVmade
+p99
+I2
+sVroom
+p100
+I1
+sVmalt
+p101
+I1
+sVhomey
+p102
+I1
+sVnine
+p103
+I1
+sVhope
+p104
+I2
+sVdaddy
+p105
+I1
+sVdidnt
+p106
+I1
+sVive
+p107
+I1
+sVfreal
+p108
+I1
+sVgive
+p109
+I1
+sVwasnt
+p110
+I1
+sVshare
+p111
+I1
+sVsay
+p112
+I1
+sVim
+p113
+I1
+sVschlitz
+p114
+I1
+sVcheck
+p115
+I1
+sVshit
+p116
+I1
+sVaround
+p117
+I1
+sVagain
+p118
+I2
+sVsippin
+p119
+I1
+sVend
+p120
+I1
+sVlil
+p121
+I1
+sVthings
+p122
+I1
+sVmake
+p123
+I1
+sVtrip
+p124
+I1
+sVwrite
+p125
+I1
+sVinstead
+p126
+I1
+sVyou
+p127
+I1
+sVsure
+p128
+I1
+sVreach
+p129
+I1
+sVfriends
+p130
+I1
+sVfo
+p131
+I1
+sVforever
+p132
+I1
+sVbangin
+p133
+I1
+sVtime
+p134
+I2
+sVbrew
+p135
+I1
+sVdos
+p136
+I1
+sVthats
+p137
+I1
+s.

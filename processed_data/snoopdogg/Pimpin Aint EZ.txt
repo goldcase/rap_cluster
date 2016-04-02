@@ -1,84 +1,601 @@
-"pimpin ain't ez" lyrics
-snoop dogg lyrics
-"pimpin ain't ez"
-(feat. r. kelly)
-uugh, yeah
-snoop, kells, once again
-and this is for the non-believers
-that seem to think that pimping is easy
-aiyyo uncle snoop
-let's go get these knuckleheads
-pop bottles (pop bottles)
-shake hands (shake hands)
-recognise (recognise) i'm the man
-i try to tell 'em but they won't understand that pimping ain't easy
-i got money (got money)
-i got cars (got cars)
-still fucking with them hood superstars (superstars)
-spend a hundred grand over by the bar like pimping ain't easy
-well it ain't
-all them faces in that laker paint
-casa by the lake
-make a little nigga faint
-balling is what i does
-i ain't messing with you can'ts
-i'm a can do negro
-a real life california hero
-about six zeros at the end of the number in my bank account
-nigga ain't ya mad at me
-i'm so happy to see that you stopped your life to watch mine
-yeah you see it fool
-snoop's everywhere, italy i'm heavy there
-did a show in rome like hoe say you ain't never there
-talking 'bout you popping bottles
-i don't see none
-you made it rain where?
-i don't see a wand
-go on get it off
-that's what they like to hear
-it's your money pimp
-we don't fight it here
-it's hard enough to be me
-not trying to be you is someting i got to see
-until then i'mma
-this ain't a joke a loc made it look easy to you
-i been through some shit
-i made it easy for ya
-now you ain't got to do much, i pop at everybody
-go unwrap a bottle, share it with them busybodies
-tell 'em what she want to hear
-how you would like to take her out of town and shopping here
-and snoopy is your homie
-nah nah girl he out of here
-yeah he just act like he don't know me when he all up in here
-you a fool jack
-though i don't condone faking for a bitch
-don't call it pimping when you're bringing home the bacon to this bitch
-go ahead and talk money
-talk, look at the chicks it brought
-but know the deal you better flip her like a somersault
-snoopy never played the role for which he wasn't built for
-never called somebody friend that i wouldn't kill for
-i do this balling cause i can not cause it's cool
-i pop cause i'm the man
-now watch me and kells
-i got pimping in my veins
-pimping in my blood
-pimping in my swag
-pimping in my cup
-walking like a pimp when i walking through the club
-pause like a pimp so the hoes show me love
-pimp by day, pimp by night
-pimp haters make me keep my pimp game tight
-see y'all type of fools make a nigga want thug
-like shots of patron make a nigga want fuck
-but i ain't on that shit so i'mma throw my hands up
-and keep it sexy pimping cause thats how i does
-uncle snoop say kells go hard or go home
-yo hating motherfuckers, i'm still here
-to all my honeys in the club getting money with the thugs
-keep it pimping baby
-keep it pimping baby
-southside, westside, eastside, northside
-keep it pimping baby
-keep it pimping
+(dp1
+Vchicks
+p2
+I1
+sVwalking
+p3
+I2
+sVlyrics
+p4
+I2
+sVshow
+p5
+I2
+sVmoney
+p6
+I5
+sVsouthside
+p7
+I1
+sVkill
+p8
+I1
+sVshake
+p9
+I2
+sVgo
+p10
+I6
+sVstill
+p11
+I2
+sVfeat
+p12
+I1
+sVaint
+p13
+I11
+sVswag
+p14
+I1
+sVpause
+p15
+I1
+sVcup
+p16
+I1
+sVimma
+p17
+I2
+sVbringing
+p18
+I1
+sVlake
+p19
+I1
+sVbetter
+p20
+I1
+sVlets
+p21
+I1
+sVcants
+p22
+I1
+sVeasy
+p23
+I5
+sVbout
+p24
+I1
+sVfool
+p25
+I2
+sVtown
+p26
+I1
+sVsomebody
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I2
+sVya
+p30
+I2
+sVwatch
+p31
+I2
+sVnone
+p32
+I1
+sVgame
+p33
+I1
+sVmade
+p34
+I3
+sVknow
+p35
+I2
+sVsnoopy
+p36
+I2
+sVhands
+p37
+I3
+sVsnoops
+p38
+I1
+sVday
+p39
+I1
+sVbank
+p40
+I1
+sVcool
+p41
+I1
+sVwont
+p42
+I1
+sVbar
+p43
+I1
+sVlike
+p44
+I9
+sVpimp
+p45
+I7
+sVcondone
+p46
+I1
+sVtry
+p47
+I1
+sVstopped
+p48
+I1
+sVshots
+p49
+I1
+sVnight
+p50
+I1
+sVveins
+p51
+I1
+sVwhere
+p52
+I1
+sVsuperstars
+p53
+I2
+sVem
+p54
+I2
+sVnigga
+p55
+I4
+sVdeal
+p56
+I1
+sVfucking
+p57
+I1
+sVhard
+p58
+I2
+sVbacon
+p59
+I1
+sVyeah
+p60
+I3
+sVup
+p61
+I1
+sVsee
+p62
+I6
+sVez
+p63
+I2
+sVhome
+p64
+I2
+sVgirl
+p65
+I1
+sVpopping
+p66
+I1
+sVfor
+p67
+I2
+sVuugh
+p68
+I1
+sVwouldnt
+p69
+I1
+sVenough
+p70
+I1
+sVdoes
+p71
+I2
+sVgot
+p72
+I7
+sVcause
+p73
+I4
+sVhero
+p74
+I1
+sVcars
+p75
+I2
+sVnever
+p76
+I3
+sVlaker
+p77
+I1
+sVhere
+p78
+I5
+sVcalifornia
+p79
+I1
+sVrain
+p80
+I1
+sVfuck
+p81
+I1
+sVsexy
+p82
+I1
+sVhaters
+p83
+I1
+sVwestside
+p84
+I1
+sVthrow
+p85
+I1
+sVnorthside
+p86
+I1
+sVwould
+p87
+I1
+sVahead
+p88
+I1
+sVgetting
+p89
+I1
+sVpimping
+p90
+I13
+sVeastside
+p91
+I1
+sVkeep
+p92
+I6
+sVyall
+p93
+I1
+sVfaces
+p94
+I1
+sVthink
+p95
+I1
+sVthats
+p96
+I2
+sVheavy
+p97
+I1
+sVthere
+p98
+I2
+sVlove
+p99
+I1
+sVdont
+p100
+I6
+sVbusybodies
+p101
+I1
+sVnumber
+p102
+I1
+sVpop
+p103
+I4
+sVbrought
+p104
+I1
+sVbitch
+p105
+I2
+sVhear
+p106
+I2
+sVhood
+p107
+I1
+sVeverybody
+p108
+I1
+sVloc
+p109
+I1
+sVlittle
+p110
+I1
+sVpatron
+p111
+I1
+sVsnoop
+p112
+I4
+sVdogg
+p113
+I1
+sVfaint
+p114
+I1
+sVfight
+p115
+I1
+sVpaint
+p116
+I1
+sVmuch
+p117
+I1
+sVzeros
+p118
+I1
+sVsomersault
+p119
+I1
+sVcall
+p120
+I1
+sVhundred
+p121
+I1
+sVtype
+p122
+I1
+sVtell
+p123
+I2
+sVfriend
+p124
+I1
+sVhappy
+p125
+I1
+sVlife
+p126
+I2
+sVshopping
+p127
+I1
+sVpimpin
+p128
+I2
+sVunwrap
+p129
+I1
+sVclub
+p130
+I2
+sVhoneys
+p131
+I1
+sVnegro
+p132
+I1
+sVfools
+p133
+I1
+sVuncle
+p134
+I2
+sVbaby
+p135
+I3
+sVtrying
+p136
+I1
+sVme
+p137
+I2
+sVaccount
+p138
+I1
+sVmessing
+p139
+I1
+sVcasa
+p140
+I1
+sVlook
+p141
+I2
+sVflip
+p142
+I1
+sVr
+I1
+sVjoke
+p143
+I1
+sVfaking
+p144
+I1
+sVcalled
+p145
+I1
+sVreal
+p146
+I1
+sVyoure
+p147
+I1
+sVwand
+p148
+I1
+sVplayed
+p149
+I1
+sVwasnt
+p150
+I1
+sVblood
+p151
+I1
+sVhoes
+p152
+I1
+sVshare
+p153
+I1
+sVmine
+p154
+I1
+sVnonbelievers
+p155
+I1
+sVtalking
+p156
+I1
+sVsay
+p157
+I2
+sVhomie
+p158
+I1
+sVim
+p159
+I6
+sVwant
+p160
+I3
+sVthug
+p161
+I1
+sVseem
+p162
+I1
+sVshit
+p163
+I2
+sVagain
+p164
+I1
+sVthugs
+p165
+I1
+sVhoe
+p166
+I1
+sVbottles
+p167
+I3
+sVbuilt
+p168
+I1
+sVmake
+p169
+I4
+sVsix
+p170
+I1
+sVballing
+p171
+I2
+sVnah
+p172
+I2
+sVtight
+p173
+I1
+sVrole
+p174
+I1
+sVtake
+p175
+I1
+sVgrand
+p176
+I1
+sVhating
+p177
+I1
+sVyou
+p178
+I1
+sVthough
+p179
+I1
+sVact
+p180
+I1
+sVaiyyo
+p181
+I1
+sVkelly
+p182
+I1
+sVsometing
+p183
+I1
+sVmad
+p184
+I1
+sVrecognise
+p185
+I2
+sVend
+p186
+I1
+sVunderstand
+p187
+I1
+sVman
+p188
+I2
+sVoff
+p189
+I1
+sVitaly
+p190
+I1
+sVwell
+p191
+I1
+sVmotherfuckers
+p192
+I1
+sVkells
+p193
+I3
+sVrome
+p194
+I1
+sVbottle
+p195
+I1
+sVknuckleheads
+p196
+I1
+sVeverywhere
+p197
+I1
+sVspend
+p198
+I1
+sVtalk
+p199
+I2
+sVjack
+p200
+I1
+s.

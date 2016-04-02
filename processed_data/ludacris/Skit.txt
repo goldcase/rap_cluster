@@ -1,24 +1,191 @@
-"skit" lyrics
-ludacris lyrics
-"skit"
-you might as well put dat down we on our way to cali to get some real dough
-hello
-waz up girl?
-waz up baby? i miss you.
-i know
-when you coming out here?
-who da fuck iz dat?
-ahh damn
-i don't play dat shit
-owwwwwwwwww
-get off dis got dammn phone. nigga who da fuck iz dis? i'm an og nigga
-waz up nigga dis dis luda.
-luda who nigga
-luda
-luda.. luda... ludacris?
-ye ye yeah nigga
-ahh. snap. aye man how you know my girl? man i got all yo albums. man back for the first
-time. man ya know what i'm sayin'. i even got incognegro man. ahhh, man. my bad baby get up off da
-floor. you didn't tell me it waz luda. ain't dat a bitch. my girl fuckin luda.
-he he hello?
-yeaah, ima call you back.
+(dp1
+Vluda
+p2
+I7
+sViz
+p3
+I2
+sVdont
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I2
+sVahh
+p7
+I2
+sVskit
+p8
+I2
+sVcall
+p9
+I1
+sVput
+p10
+I1
+sVnigga
+p11
+I5
+sVdough
+p12
+I1
+sVbitch
+p13
+I1
+sVgirl
+p14
+I3
+sVmiss
+p15
+I1
+sVowwwwwwwwww
+p16
+I1
+sVshit
+p17
+I1
+sVincognegro
+p18
+I1
+sVeven
+p19
+I1
+sVsayin
+p20
+I1
+sVfloor
+p21
+I1
+sVaye
+p22
+I1
+sVcali
+p23
+I1
+sVdammn
+p24
+I1
+sVdamn
+p25
+I1
+sVwaz
+p26
+I4
+sVway
+p27
+I1
+sVahhh
+p28
+I1
+sVsnap
+p29
+I1
+sVgot
+p30
+I3
+sVyou
+p31
+I1
+sVmight
+p32
+I1
+sVtell
+p33
+I1
+sVreal
+p34
+I1
+sVaint
+p35
+I1
+sVplay
+p36
+I1
+sVyo
+p37
+I1
+sVget
+p38
+I3
+sVya
+p39
+I1
+sVfuck
+p40
+I2
+sVye
+p41
+I2
+sVhere
+p42
+I1
+sVda
+p43
+I3
+sVdat
+p44
+I4
+sVphone
+p45
+I1
+sVknow
+p46
+I3
+sVcoming
+p47
+I1
+sVbaby
+p48
+I2
+sValbums
+p49
+I1
+sVman
+p50
+I6
+sVyeah
+p51
+I1
+sVima
+p52
+I1
+sVog
+p53
+I1
+sVwell
+p54
+I1
+sVyeaah
+p55
+I1
+sVbad
+p56
+I1
+sVback
+p57
+I2
+sVtime
+p58
+I1
+sVim
+p59
+I2
+sVfirst
+p60
+I1
+sVdidnt
+p61
+I1
+sVhello
+p62
+I2
+sVfuckin
+p63
+I1
+sVdis
+p64
+I4
+s.

@@ -1,146 +1,887 @@
-"you must love me" lyrics
-jay-z lyrics
-"you must love me"
-talking: throughout my life (uh huh uh huh uh)
-no matter what i've done.(right)
-you've been merciful and your love endureth (yeah)
-through all things (ye yeah) for that
-i am eternally grateful.
-since my date of birth
-bought you nothing but hurt
-play those video games
-stole change from ya purse
-sat on the cold court bench
-'til i was arraigned in ya skirt
-saw the pain in ya face
-through you maintained a smirk
-all you did was motivate me
-don't let 'em hold you back
-what i do i turned around
-and i sold you crack
-i was a bastard for that
-still i'm drowning in shame
-just remember one thing now
-you're not to blame
-you was newly seperated
-tryin' to escape ya world
-and through my thirst
-i didn't help you
-i just made things worse
-i hated me and everybody
-that created crack
-had me thinkin'
-the newest kicks and the latest gat
-still haven't apologized
-so please play this back
-while i try to come to terms
-with such a heinous act
-you know in more than one way
-cocaine numbs the brain
-all i did was think about
-how the funds once came
-then i ran across this memory
-and it stung the brain
-how can you ever destroy the beauty
-from which one came
-that's a savage you're the reason
-why me and these beats make a marriage
-why i rhyme above average and
-i ain't shit
-glad you got yourself together
-no thanks to me
-strong and beautiful the way thangs should be
-you must love me
-say that you love me
-all i know say that you must love me.
-ohh yeah
-we used to fight every night
-but i never would suffer
-just smile my big brother's
-tryna make me tougher
-as we grew fussing and fighting continued
-as i plundered through ya stuff
-and snuck ya clothes to school
-got intense real intense
-as we got older
-never believed it would lead
-to be popped in one in ya shoulda
-where my rings? knew you had it
-'cause you took too long
-as mickey, andy, and the girl that bought it looked on
-huffin' and puffin' gun in my hand
-told you step outside
-hoping you said no but you hurt my pride
-made our way down the steps
-maybe you thought it was just a threat
-or maybe ya life was just that crazy
-and you was beggin' for death
-try to justify this in my young mind
-but ya drillin' it
-and my ego hurt combined
-drove me berzerk
-saw the devil in your eyes
-high off more than weed
-confused i just closed
-my young eyes and squeezed
-what a sound
-opened my eyes just in time
-to see ya stumbling to the ground
-damn what the fuck i done now
-runnin' around in a circle
-thinking i'm assed out
-hot gun burnin' my waist
-ran straight to jazz' house
-like a stranger damn i just shot my nigga
-and ran off into the night as if it was not my nigga
-left the scene how could i go out that way
-still you asked to see me in the hospital ya next day
-you must love me.
-what after all the wrong i've done
-i know you must
-everything in my power and within my frame
-to protect you from this life and
-keep you away from the game
-but you was one of the few people
-that i can trust
-and the fact of the matter i slang
-these pies for us
-you put the pressure on me dearly
-rarely would you let it go
-was a thousand and one times
-i had to tell you no
-when it was one of those days
-when nobody was around
-and i needed emergency trip
-out of town
-searched my mental rolodex
-for all the numbers i know
-as you stared in my face
-asking me could you go
-i'm agreed said sender
-everything'll go smooth
-just tell her what to do
-and everything'll go through
-strapped her body with them thangs
-as you boarded the plane
-couldn't explain these strange feelings
-that i caught and the pain
-i'm thinkin' why would i send you
-when i knew it ain't right
-i'm thinkin' what would
-make you sacrifice ya life
-you must love me
-after everything that i've done wrong
-i know inside you must love me
-i know that you love me
-you showed me i know it
-i know
-say that you love me
-say that you love me
-i know you must love me
-oh yes you do
-inside i know it
-you've always shown it
-you love me yea yeah
-oh yeah
-i know that you love me
+(dp1
+Vnewest
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVoh
+p5
+I2
+sVyea
+p6
+I1
+sVrings
+p7
+I1
+sVagreed
+p8
+I1
+sVpeople
+p9
+I1
+sVyoung
+p10
+I2
+sVbrain
+p11
+I2
+sVthrough
+p12
+I1
+sVthanks
+p13
+I1
+sVgrateful
+p14
+I1
+sVleft
+p15
+I1
+sVgo
+p16
+I5
+sVshot
+p17
+I1
+sVcold
+p18
+I1
+sVstill
+p19
+I3
+sVeyes
+p20
+I3
+sVground
+p21
+I1
+sVaint
+p22
+I2
+sVdeath
+p23
+I1
+sVthinking
+p24
+I1
+sVhated
+p25
+I1
+sVexplain
+p26
+I1
+sVoutside
+p27
+I1
+sVsend
+p28
+I1
+sVbench
+p29
+I1
+sVcrack
+p30
+I2
+sVsmile
+p31
+I1
+sVcircle
+p32
+I1
+sVpride
+p33
+I1
+sVsearched
+p34
+I1
+sVreal
+p35
+I1
+sVsound
+p36
+I1
+sVworse
+p37
+I1
+sVemergency
+p38
+I1
+sVya
+p39
+I12
+sVbig
+p40
+I1
+sVstung
+p41
+I1
+sVjazz
+p42
+I1
+sVye
+p43
+I1
+sVbeggin
+p44
+I1
+sVnext
+p45
+I1
+sVgame
+p46
+I1
+sVgrew
+p47
+I1
+sVevery
+p48
+I1
+sVknow
+p49
+I11
+sVbirth
+p50
+I1
+sVdearly
+p51
+I1
+sVtrust
+p52
+I1
+sVworld
+p53
+I1
+sVnow
+p54
+I2
+sVcontinued
+p55
+I1
+sVday
+p56
+I1
+sVlike
+p57
+I1
+sVschool
+p58
+I1
+sVbeautiful
+p59
+I1
+sVstranger
+p60
+I1
+sVcause
+p61
+I1
+sVseperated
+p62
+I1
+sVmaintained
+p63
+I1
+sVtry
+p64
+I2
+sVstuff
+p65
+I1
+sVsteps
+p66
+I1
+sVnight
+p67
+I2
+sVrarely
+p68
+I1
+sVhavent
+p69
+I1
+sVtold
+p70
+I1
+sVboarded
+p71
+I1
+sVstraight
+p72
+I1
+sVclothes
+p73
+I1
+sVem
+p74
+I1
+sVasked
+p75
+I1
+sVnigga
+p76
+I2
+sVmental
+p77
+I1
+sVtougher
+p78
+I1
+sVdrove
+p79
+I1
+sVhouse
+p80
+I1
+sVmind
+p81
+I1
+sVyeah
+p82
+I5
+sVaround
+p83
+I3
+sVgun
+p84
+I2
+sVfussing
+p85
+I1
+sVsee
+p86
+I2
+sVvideo
+p87
+I1
+sVescape
+p88
+I1
+sVprotect
+p89
+I1
+sVgirl
+p90
+I1
+sVyes
+p91
+I1
+sVout
+p92
+I1
+sVsavage
+p93
+I1
+sVmickey
+p94
+I1
+sVcocaine
+p95
+I1
+sVfeelings
+p96
+I1
+sVopened
+p97
+I1
+sVlead
+p98
+I1
+sVsmirk
+p99
+I1
+sVsaw
+p100
+I2
+sVsince
+p101
+I1
+sVplease
+p102
+I1
+sVinside
+p103
+I2
+sVthirst
+p104
+I1
+sVeverything
+p105
+I2
+sVarraigned
+p106
+I1
+sVasking
+p107
+I1
+sVapologized
+p108
+I1
+sVclosed
+p109
+I1
+sVit
+p110
+I5
+sVgot
+p111
+I3
+sVnewly
+p112
+I1
+sVcaught
+p113
+I1
+sVever
+p114
+I1
+sVacross
+p115
+I1
+sVbought
+p116
+I2
+sVbody
+p117
+I1
+sVbe
+p118
+I1
+sVknew
+p119
+I2
+sVterms
+p120
+I1
+sVpower
+p121
+I1
+sVsold
+p122
+I1
+sVnever
+p123
+I2
+sVstared
+p124
+I1
+sVblame
+p125
+I1
+sVsqueezed
+p126
+I1
+sVreason
+p127
+I1
+sVlet
+p128
+I2
+sVconfused
+p129
+I1
+sVstrong
+p130
+I1
+sVcome
+p131
+I1
+sVintense
+p132
+I2
+sVchange
+p133
+I1
+sVon
+p134
+I1
+sVdrowning
+p135
+I1
+sVdrillin
+p136
+I1
+sVsender
+p137
+I1
+sVcreated
+p138
+I1
+sVwaist
+p139
+I1
+sVput
+p140
+I1
+sVstep
+p141
+I1
+sVkeep
+p142
+I1
+sVthing
+p143
+I1
+sVpuffin
+p144
+I1
+sVplane
+p145
+I1
+sVgames
+p146
+I1
+sVthreat
+p147
+I1
+sVyouve
+p148
+I2
+sVthink
+p149
+I1
+sVthats
+p150
+I1
+sVsacrifice
+p151
+I1
+sVand
+p152
+I2
+sVnobody
+p153
+I1
+sVlove
+p154
+I15
+sVdont
+p155
+I1
+sVwithin
+p156
+I1
+sVscene
+p157
+I1
+sVone
+p158
+I7
+sVnothing
+p159
+I1
+sVjayz
+p160
+I1
+sVright
+p161
+I1
+sVdone
+p162
+I3
+sVaway
+p163
+I1
+sVcouldnt
+p164
+I1
+sVthroughout
+p165
+I1
+sVeverybody
+p166
+I1
+sVstrapped
+p167
+I1
+sVdevil
+p168
+I1
+sVassed
+p169
+I1
+sVwould
+p170
+I5
+sValways
+p171
+I1
+sVhospital
+p172
+I1
+sVmotivate
+p173
+I1
+sVlong
+p174
+I1
+sVfight
+p175
+I1
+sVneeded
+p176
+I1
+sVandy
+p177
+I1
+sVcombined
+p178
+I1
+sVway
+p179
+I4
+sVmemory
+p180
+I1
+sVdamn
+p181
+I2
+sVtryin
+p182
+I1
+sVframe
+p183
+I1
+sVdoneright
+p184
+I1
+sVtryna
+p185
+I1
+sVlife
+p186
+I4
+sVthat
+p187
+I2
+sVturned
+p188
+I1
+sVthousand
+p189
+I1
+sVgat
+p190
+I1
+sVhuh
+p191
+I2
+sVabout
+p192
+I1
+sVback
+p193
+I2
+sVheinous
+p194
+I1
+sVberzerk
+p195
+I1
+sVeternally
+p196
+I1
+sVkicks
+p197
+I1
+sVhold
+p198
+I1
+sVglad
+p199
+I1
+sVmust
+p200
+I9
+sVme
+p201
+I14
+sVmade
+p202
+I2
+sVshowed
+p203
+I1
+sVshame
+p204
+I1
+sVstumbling
+p205
+I1
+sVolder
+p206
+I1
+sVsmooth
+p207
+I1
+sVsay
+p208
+I4
+sVus
+p209
+I1
+sVtell
+p210
+I2
+sVmatter
+p211
+I2
+sVshoulda
+p212
+I1
+sVpies
+p213
+I1
+sVmarriage
+p214
+I1
+sVuh
+p215
+I3
+sVhand
+p216
+I1
+sVeverythingll
+p217
+I2
+sVbelieved
+p218
+I1
+sVpressure
+p219
+I1
+sVdidnt
+p220
+I1
+sVcould
+p221
+I2
+sVnumbers
+p222
+I1
+sVnumbs
+p223
+I1
+sVive
+p224
+I3
+sVcrazy
+p225
+I1
+sVohh
+p226
+I1
+sVhoping
+p227
+I1
+sVdo
+p228
+I2
+sVran
+p229
+I3
+sVpurse
+p230
+I1
+sVpopped
+p231
+I1
+sVrolodex
+p232
+I1
+sVdays
+p233
+I1
+sVhigh
+p234
+I1
+sVtalking
+p235
+I1
+sVbeats
+p236
+I1
+sVim
+p237
+I5
+sVfighting
+p238
+I1
+sVsnuck
+p239
+I1
+sVplundered
+p240
+I1
+sVtimes
+p241
+I1
+sVstole
+p242
+I1
+sVtrip
+p243
+I1
+sVshit
+p244
+I1
+sVsat
+p245
+I1
+sVthought
+p246
+I1
+sVbastard
+p247
+I1
+sVcourt
+p248
+I1
+sVno
+p249
+I1
+sVthings
+p250
+I2
+sVthinkin
+p251
+I3
+sVtil
+p252
+I1
+sVfuck
+p253
+I1
+sVhot
+p254
+I1
+sVstrange
+p255
+I1
+sVmerciful
+p256
+I1
+sVweed
+p257
+I1
+sVfunds
+p258
+I1
+sVdestroy
+p259
+I1
+sVyou
+p260
+I2
+sVsuffer
+p261
+I1
+sVplay
+p262
+I2
+sVused
+p263
+I1
+sVpain
+p264
+I2
+sVbrothers
+p265
+I1
+sVbeauty
+p266
+I1
+sVrhyme
+p267
+I1
+sVtown
+p268
+I1
+sVact
+p269
+I1
+sVshown
+p270
+I1
+sVtook
+p271
+I1
+sVskirt
+p272
+I1
+sVwrong
+p273
+I2
+sVsaid
+p274
+I2
+sVdate
+p275
+I1
+sVburnin
+p276
+I1
+sVhurt
+p277
+I3
+sVslang
+p278
+I1
+sVremember
+p279
+I1
+sVendureth
+p280
+I1
+sVmaybe
+p281
+I2
+sVaverage
+p282
+I1
+sVyoure
+p283
+I2
+sVtogether
+p284
+I1
+sVface
+p285
+I2
+sVlooked
+p286
+I1
+sVthangs
+p287
+I2
+sVego
+p288
+I1
+sVfact
+p289
+I1
+sVtime
+p290
+I1
+sVrunnin
+p291
+I1
+sVhuffin
+p292
+I1
+sVjustify
+p293
+I1
+sVmake
+p294
+I3
+sVcame
+p295
+I2
+sVlatest
+p296
+I1
+s.

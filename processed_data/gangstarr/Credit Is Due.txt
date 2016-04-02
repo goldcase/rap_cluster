@@ -1,69 +1,550 @@
-"credit is due" lyrics
-gang starr lyrics
-"credit is due"
-now i'm about to get funky.. to somethin that premier plays
-funky.. we gonna do it this way
-i'm gettin funky.. to somethin that premier plays
-i'm the guru and we'll do it this way
-now give the credit.. where it is due
-give the credit y'all.. where it's due
-now give the credit.. where it is due
-give the credit y'all.. where it's due
-i'm heated up, cause i'm seein folks that are so phony
-they didn't know me when i was broke and i was lonely
-only a few came to check me, so they come first..
-.. and yo our people come next g
-we'd go to a club, the milky way or the payday
-the outlaw spots, where the music was real hot
-and you wasn't there, when the underrated, real mc's
-came equipped.. and used to kick slick lyrics
-all live, without no lipsync
-to a dope crate, building skills from instinct
-i'm tired of people, gettin all excited
-i'm not trippin on just a thing, but i'm delighted
-to let you know, that some others be flim-flammin
-i'll let you know, that all this time, we been jammin
-so give up the props hobbes, jealousy's a flaw
-if the next man deserves it, earns it, it should be law
-so let him pass right through
-because you got to give the credit y'all where it is due
-you know you got to give the credit.. where it is due
-give the credit y'all.. where it's due
-give the credit.. where it is due
-give the credit y'all.. where it's due
-some of the dopest mc's don't really get enough light
-cause their record companies don't really market them right
-most of the people signin acts, they ain't from the street
-cause yo they come from the sweet..
-.. soft section of town
-while they be sweatin and pretendin that they know a real rap sound
-but i know some guys, and some ladies, that can fill those spots mate
-to promote the real greats
-and educate, and get it straight
-and mobilizin the imitators, exposin the explosive core
-i hope to explore
-galaxies of remedies for your wack rap sickness
-as i convey relay, mack rap quickness
-in this business, i witness trickyness
-some mc's are into stickyness
-but i'm sayin this, from experience, i'm furious
-i didn't get this far overnight, and there's nothin like
-the real thing, the real swing right?  (real swing right?)
-( "on and on..") i'm takin things that are true
-so won't you give the credit y'all where it is due
-so yo i'm fed, cause people like to talk too much
-they're misled, and yo they like to sqwak too much
-but let me tell you baby you can't front on this
-twenty-four track mix, with the deep-ass kick
-the objective, is to surely demolish
-the chances of the wack takin all the dollars
-support the brothers who are truly gifted
-this way, the odds, could never be shifted
-like my man, you know he works real hard
-he's good at what he does and now he lives real large
-so why envy him, or anyone in his crew
-just sit back and give the credit y'all where it is due
-give the credit.. where it's due
-give the credit y'all.. where it is due
-give the credit.. where it's due
-just give the credit y'all.. where it is due
+(dp1
+Vgreats
+p2
+I1
+sVthings
+p3
+I1
+sVsweatin
+p4
+I1
+sVlyrics
+p5
+I3
+sVchances
+p6
+I1
+sVcrate
+p7
+I1
+sVthrough
+p8
+I1
+sVgang
+p9
+I1
+sVjealousys
+p10
+I1
+sVgo
+p11
+I1
+sVtakin
+p12
+I2
+sVdeepass
+p13
+I1
+sVaint
+p14
+I1
+sVenvy
+p15
+I1
+sVsayin
+p16
+I1
+sVwed
+p17
+I1
+sVtrue
+p18
+I1
+sVenough
+p19
+I1
+sVstickyness
+p20
+I1
+sVcrew
+p21
+I1
+sVequipped
+p22
+I1
+sVfolks
+p23
+I1
+sVexcited
+p24
+I1
+sVkick
+p25
+I2
+sVreal
+p26
+I9
+sVsound
+p27
+I1
+sVlonely
+p28
+I1
+sVyo
+p29
+I4
+sVget
+p30
+I4
+sVfar
+p31
+I1
+sVcould
+p32
+I1
+sVdope
+p33
+I1
+sVcredit
+p34
+I17
+sVimitators
+p35
+I1
+sVquickness
+p36
+I1
+sVknow
+p37
+I7
+sVfront
+p38
+I1
+sVswing
+p39
+I2
+sVwont
+p40
+I1
+sVtrippin
+p41
+I1
+sVlike
+p42
+I4
+sVskills
+p43
+I1
+sVgettin
+p44
+I2
+sVcompanies
+p45
+I1
+sVtheyre
+p46
+I1
+sVsignin
+p47
+I1
+sVexposin
+p48
+I1
+sVmisled
+p49
+I1
+sVlipsync
+p50
+I1
+sVworks
+p51
+I1
+sVsoft
+p52
+I1
+sVstraight
+p53
+I1
+sVyall
+p54
+I9
+sVhobbes
+p55
+I1
+sVright
+p56
+I4
+sVpeople
+p57
+I4
+sVsqwak
+p58
+I1
+sVhard
+p59
+I1
+sVback
+p60
+I1
+sVstreet
+p61
+I1
+sVconvey
+p62
+I1
+sVpass
+p63
+I1
+sVexplosive
+p64
+I1
+sVwitness
+p65
+I1
+sVreally
+p66
+I2
+sVpretendin
+p67
+I1
+sVlarge
+p68
+I1
+sVeducate
+p69
+I1
+sVgon
+p70
+I1
+sVplays
+p71
+I2
+sVsection
+p72
+I1
+sVslick
+p73
+I1
+sVpayday
+p74
+I1
+sVmate
+p75
+I1
+sVprops
+p76
+I1
+sVgot
+p77
+I2
+sVcause
+p78
+I4
+sVcore
+p79
+I1
+sVearns
+p80
+I1
+sVbusiness
+p81
+I1
+sVgifted
+p82
+I1
+sVnever
+p83
+I1
+sVgalaxies
+p84
+I1
+sVfed
+p85
+I1
+sVmobilizin
+p86
+I1
+sVexplore
+p87
+I1
+sVlet
+p88
+I4
+sVothers
+p89
+I1
+sVinstinct
+p90
+I1
+sVtrickyness
+p91
+I1
+sVcome
+p92
+I3
+sVg
+I1
+sVill
+p93
+I1
+sVexperience
+p94
+I1
+sVthing
+p95
+I2
+sVjammin
+p96
+I1
+sVmilky
+p97
+I1
+sVdopest
+p98
+I1
+sVdeserves
+p99
+I1
+sVfirst
+p100
+I1
+sVladies
+p101
+I1
+sVdont
+p102
+I2
+sVsweet
+p103
+I1
+sVdelighted
+p104
+I1
+sVheated
+p105
+I1
+sVmarket
+p106
+I1
+sVwack
+p107
+I2
+sVseein
+p108
+I1
+sVhes
+p109
+I1
+sVmack
+p110
+I1
+sVsupport
+p111
+I1
+sVtired
+p112
+I1
+sVdue
+p113
+I17
+sVspots
+p114
+I2
+sVnext
+p115
+I2
+sVanyone
+p116
+I1
+sVlive
+p117
+I1
+sVmuch
+p118
+I2
+sVmusic
+p119
+I1
+sVtruly
+p120
+I1
+sVway
+p121
+I4
+sVstarr
+p122
+I1
+sVtell
+p123
+I1
+sVremedies
+p124
+I1
+sVflaw
+p125
+I1
+sVtwentyfour
+p126
+I1
+sVrelay
+p127
+I1
+sVclub
+p128
+I1
+sVphony
+p129
+I1
+sVlives
+p130
+I1
+sVbroke
+p131
+I1
+sVbaby
+p132
+I1
+sVpromote
+p133
+I1
+sVmcs
+p134
+I3
+sVtown
+p135
+I1
+sVdemolish
+p136
+I1
+sVthis
+p137
+I1
+sVoutlaw
+p138
+I1
+sVrecord
+p139
+I1
+sVhope
+p140
+I1
+sVdidnt
+p141
+I2
+sVdollars
+p142
+I1
+sVtheres
+p143
+I1
+sVshifted
+p144
+I1
+sVgive
+p145
+I16
+sVwasnt
+p146
+I1
+sVpremier
+p147
+I2
+sVcant
+p148
+I1
+sVgood
+p149
+I1
+sVim
+p150
+I12
+sVrap
+p151
+I3
+sVcheck
+p152
+I1
+sVfill
+p153
+I1
+sVguru
+p154
+I1
+sVna
+p155
+I1
+sVacts
+p156
+I1
+sVfunky
+p157
+I3
+sVmix
+p158
+I1
+sVhot
+p159
+I1
+sVsurely
+p160
+I1
+sVobjective
+p161
+I1
+sVused
+p162
+I1
+sVbrothers
+p163
+I1
+sVsickness
+p164
+I1
+sVtrack
+p165
+I1
+sVtime
+p166
+I1
+sVlaw
+p167
+I1
+sVguys
+p168
+I1
+sVman
+p169
+I2
+sVbuilding
+p170
+I1
+sVsomethin
+p171
+I2
+sVlight
+p172
+I1
+sVodds
+p173
+I1
+sVsit
+p174
+I1
+sVwell
+p175
+I1
+sVovernight
+p176
+I1
+sVnothin
+p177
+I1
+sVwithout
+p178
+I1
+sVtalk
+p179
+I1
+sVflimflammin
+p180
+I1
+sVfurious
+p181
+I1
+sVunderrated
+p182
+I1
+sVcame
+p183
+I2
+s.

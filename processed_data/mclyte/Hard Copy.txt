@@ -1,60 +1,261 @@
-"hard copy" lyrics
-mc lyte lyrics
-"hard copy"
-(feat. lin que, kink e-z)
-step 1 to the 2
-yeah
-rrrah
-i'm a big shot, hot shot, gimme one shot, i wreck shop
-in and out the boon docks i got the street smarts
-i'm on the air like jordan
-you'll never die of boredom
-you'll only hear my floor them
-i'm on them, i'm in there, so prepare to live it up
-i'm on the type of... that makes a... wanna give it up
-so what's up with the logics?
-it's the l to the e, and you hear me in the projects
-and i didn't get hard yet, so dodge it
-watch me enlarge it, i'ma roadhog it
-so you think you can get with me?
-(it's the l to the e) why don't you step to me?
-(it's the l to the e) why don't you step to me?
-(it's the l to the e) why don't you step to me?
-(it's the l to the e) why don't you step to me?
-i'm a big shot, hot shot, gimme one shot, i wreck shop
-pad locks, nine glocks, still i got the street smarts
-yeah, i'm on the air like jordan
-you'll never die of boredom
-you'll only hear my floor them
-cause i'm on them, i'm in there, so prepare to live it up
-i'm on the type of shit that make a bitch wanna give it up
-so what's up with the logics?
-it's the l to the q, yo, i think you better dog that
-and i didn't get hard yet, so dodge it
-watch me enlarge it, i'ma roadhog it
-and you think you can get with me?
-(yo, it's the l to the q) so come and step to me
-(it's the l to the q) so come and step to me
-(it's the l to the q) so come and step to me
-(it's the l to the q) so come and step to me
-i'm a big shot, i'm a hot shot, give me one shot, i wreck shop
-so you wanna hang with dreadlocks? yes, i got the street smarts
-ugh, through the air like jordan
-you'll never die of boredom
-you'll only hear my floor them
-cause i'm on them, and in there, so prepare to give it up
-i'm on the type of shit that make a bitch wanna give it up
-so what's up with the logics?
-it's the kink e-z, and you see me in the projects
-and i didn't even get hard yet, so dodge it
-watch me enlarge it, i'ma roadhog it
-so you think you wanna fuck with me?
-(it's the kink to the e) don't step to me
-(it's the kink to the e) don't step to me
-(it's the kink to the e) don't step to me
-(it's the kink to the e) don't step to me
-duke da moon
-hard copy
-hard copy
-hard copy
-it's a hard copy
+(dp1
+Vshop
+p2
+I3
+sVugh
+p3
+I1
+sVshot
+p4
+I9
+sVlyrics
+p5
+I2
+sVwhats
+p6
+I3
+sVyes
+p7
+I1
+sVstill
+p8
+I1
+sVrrrah
+p9
+I1
+sVyet
+p10
+I3
+sVima
+p11
+I3
+sVbetter
+p12
+I1
+sVdodge
+p13
+I3
+sVthem
+p14
+I3
+sVyo
+p15
+I2
+sVget
+p16
+I5
+sVdocks
+p17
+I1
+sVwatch
+p18
+I3
+sVda
+p19
+I1
+sVroadhog
+p20
+I3
+sVprojects
+p21
+I2
+sVlike
+p22
+I3
+sVcause
+p23
+I2
+sVl
+I10
+sVdie
+p24
+I3
+sVhard
+p25
+I9
+sVyeah
+p26
+I2
+sVkink
+p27
+I6
+sVsee
+p28
+I1
+sVstreet
+p29
+I3
+sVez
+p30
+I2
+sVeven
+p31
+I1
+sVwreck
+p32
+I3
+sVfeat
+p33
+I1
+sVmoon
+p34
+I1
+sVgot
+p35
+I3
+sVyoull
+p36
+I6
+sVnever
+p37
+I3
+sVstep
+p38
+I13
+sVque
+p39
+I1
+sVcome
+p40
+I4
+sVmakes
+p41
+I1
+sVthink
+p42
+I4
+sVduke
+p43
+I1
+sVsmarts
+p44
+I3
+sVdont
+p45
+I8
+sVone
+p46
+I3
+sVbitch
+p47
+I2
+sVwan
+p48
+I5
+sVlogics
+p49
+I3
+sVprepare
+p50
+I3
+sVglocks
+p51
+I1
+sVlyte
+p52
+I1
+sVlive
+p53
+I2
+sV2
+I1
+sVgim
+p54
+I2
+sVtype
+p55
+I3
+sVthat
+p56
+I1
+sVdreadlocks
+p57
+I1
+sVfuck
+p58
+I1
+sVhear
+p59
+I4
+sVboredom
+p60
+I3
+sVcopy
+p61
+I6
+sVme
+p62
+I17
+sVmc
+p63
+I1
+sVup
+p64
+I6
+sVair
+p65
+I3
+sVnine
+p66
+I1
+sVdidnt
+p67
+I3
+sVgive
+p68
+I5
+sVit
+p69
+I6
+sVlocks
+p70
+I1
+sVim
+p71
+I14
+sVshit
+p72
+I2
+sVfloor
+p73
+I3
+sVna
+p74
+I5
+sVmake
+p75
+I2
+sVenlarge
+p76
+I3
+sV1
+I1
+sVhot
+p77
+I3
+sVpad
+p78
+I1
+sVboon
+p79
+I1
+sVbig
+p80
+I3
+sVhang
+p81
+I1
+sVe
+I9
+sVdog
+p82
+I1
+sVq
+I5
+sVjordan
+p83
+I3
+sVlin
+p84
+I1
+s.

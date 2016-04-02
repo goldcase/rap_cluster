@@ -1,98 +1,842 @@
-"patience" lyrics
-nas lyrics
-"patience"
-(with damian marley)
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kiye
-ni kêra môgô
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kagni
-ni kêra môgô
-some of the smartest dummies
-can't read the language of egyptian mummies
-an' a fly go a moon
-and can't find food for the starving tummies
-pay no mind to the youths
-cause it's not like the future depends on it
-but save the animals in the zoo
-cause the chimpanzee dem a make big money
-this is how the media pillages
-on the tv the picture is
-savages in villages
-and the scientist still can't explain the pyramids, huh
-evangelists making a living on the videos of ribs of the little kids
-stereotyping the image of the images
-and this is what the image is
-you buy a khaki pants
-and all of a sudden you say a indiana jones
-an' a thief out gold and thief out the scrolls and even the buried bones
-some of the worst paparazzis i've ever seen and i ever known
-put the worst on display so the world can see
-and that's all they will ever show
-so the ones in the west
-will never move east
-and feel like they could be at home
-dem get tricked by the beast
-but a where dem ago flee when the monster is fully grown?
-solomonic linage whe dem still can't defeat and them coulda never clone
-my spiritual dna that print in my soul and i will forever own lord
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kiye
-ni kêra môgô
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kagni
-ni kêra môgô
-huh, we born not knowing, are we born knowing all?
-we growing wiser, are we just growing tall?
-can you read thoughts? can you read palms?
-huh, can you predict the future? can you see storms, coming?
-the earth was flat if you went too far you would fall off
-now the earth is round if the shape change again everybody woulda start laugh
-the average man can't prove of most of the things that he chooses to speak of
-and still won't research and find out the root of the truth that you seek of
-scholars teach in universities and claim that they're smart and cunning
-tell them find a cure when we sneeze and that's when their nose start running
-and the rich get stitched up, when we get cut
-man a heal dem broken bones in the bush with the wed mud
-can you read signs? can you read stars?
-can you make peace? can you fight war?
-can you milk cows, even though you drive cars? huh
-can you survive, against all odds, now?
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kiye
-ni kêra môgô
-sabali, sabali, sabali, yonkontê
-sabali, sabali, sabali, kagni
-ni kêra môgô
-who wrote the bible? who wrote the qur'an?
-and was it a lightning storm
-that gave birth to the earth
-and then dinosaurs were born? damn
-who made up words? who made up numbers?
-and what kind of spell is mankind under?
-everything on the planet we preserve and can it
-microwaved it and try it
-no matter what we'll survive it
-what's hu? what's man? what's human?
-anything along the land we consuming
-eatin', deletin', ruin
-trying to get paper
-gotta have land, gotta have acres
-so i can sit back like jack nicholson
-watch niggas play the game like the lakers
-in a world full of 52 fakers
-gypsies, seances, mystical prayers
-you superstitious? throw salt over your shoulders
-make a wish for the day cuz
-like somebody got a doll of me
-stickin' needles in my arteries
-but i can't feel it
-sometimes it's like 'pardon me, but i got a real big spirit'
-i'm fearless.... i'm fearless
-don't you try and grab hold of my soul
-it's like a military soldier since seven years old
-i held real dead bodies in my arms
-felt their body turn cold, oh
-why we born in the first place
-if this is how we gotta go?
-damn.
+(dp1
+Vthings
+p2
+I1
+sVall
+p3
+I1
+sVpeace
+p4
+I1
+sVsalt
+p5
+I1
+sVwords
+p6
+I1
+sVlyrics
+p7
+I2
+sVshow
+p8
+I1
+sVmoney
+p9
+I1
+sVpardon
+p10
+I1
+sVmove
+p11
+I1
+sVtricked
+p12
+I1
+sVfelt
+p13
+I1
+sVyears
+p14
+I1
+sVheld
+p15
+I1
+sVshape
+p16
+I1
+sVscientist
+p17
+I1
+sVhuman
+p18
+I1
+sVsigns
+p19
+I1
+sVgo
+p20
+I2
+sVearth
+p21
+I3
+sVcold
+p22
+I1
+sVstill
+p23
+I3
+sVfind
+p24
+I3
+sVdummies
+p25
+I1
+sVcut
+p26
+I1
+sVsoldier
+p27
+I1
+sVgold
+p28
+I1
+sVwed
+p29
+I1
+sVtv
+p30
+I1
+sVexplain
+p31
+I1
+sVstorms
+p32
+I1
+sVcuz
+p33
+I1
+sVacres
+p34
+I1
+sVdoll
+p35
+I1
+sVsolomonic
+p36
+I1
+sVbush
+p37
+I1
+sVgrab
+p38
+I1
+sVrich
+p39
+I1
+sVunder
+p40
+I1
+sVlord
+p41
+I1
+sVsave
+p42
+I1
+sVsmart
+p43
+I1
+sVgave
+p44
+I1
+sVreal
+p45
+I2
+sVme
+p46
+I1
+sVstarving
+p47
+I1
+sVsomebody
+p48
+I1
+sVegyptian
+p49
+I1
+sVfood
+p50
+I1
+sVbig
+p51
+I2
+sVspell
+p52
+I1
+sVwatch
+p53
+I1
+sVkind
+p54
+I1
+sVwoulda
+p55
+I1
+sVgame
+p56
+I1
+sVones
+p57
+I1
+sVworst
+p58
+I2
+sVjack
+p59
+I1
+sVbirth
+p60
+I1
+sVwiser
+p61
+I1
+sVworld
+p62
+I2
+sVnow
+p63
+I1
+sVflee
+p64
+I1
+sVday
+p65
+I1
+sVwont
+p66
+I1
+sVdamian
+p67
+I1
+sVlike
+p68
+I7
+sVever
+p69
+I3
+sVniggas
+p70
+I1
+sVtummies
+p71
+I1
+sVtry
+p72
+I2
+sVpaper
+p73
+I1
+sVnose
+p74
+I1
+sVtruth
+p75
+I1
+sVfully
+p76
+I1
+sVwent
+p77
+I1
+sVround
+p78
+I1
+sVwrote
+p79
+I2
+sVpreserve
+p80
+I1
+sVwhe
+p81
+I1
+sVold
+p82
+I1
+sVpicture
+p83
+I1
+sVm�g�
+p84
+I6
+sVuniversities
+p85
+I1
+sVthief
+p86
+I2
+sVdead
+p87
+I1
+sVsoul
+p88
+I2
+sVmystical
+p89
+I1
+sVpillages
+p90
+I1
+sVdepends
+p91
+I1
+sVfull
+p92
+I1
+sVimages
+p93
+I1
+sVhome
+p94
+I1
+sVtheyre
+p95
+I1
+sVmarley
+p96
+I1
+sVmonster
+p97
+I1
+sVeven
+p98
+I2
+sVliving
+p99
+I1
+sVturn
+p100
+I1
+sVpalms
+p101
+I1
+sVsince
+p102
+I1
+sVstitched
+p103
+I1
+sVmoon
+p104
+I1
+sVmud
+p105
+I1
+sVcars
+p106
+I1
+sVprint
+p107
+I1
+sVgot
+p108
+I5
+sVfall
+p109
+I1
+sVcause
+p110
+I2
+sVpants
+p111
+I1
+sVknowing
+p112
+I2
+sVeverybody
+p113
+I1
+sVkhaki
+p114
+I1
+sVscrolls
+p115
+I1
+sVquran
+p116
+I1
+sVcoulda
+p117
+I1
+sVnever
+p118
+I2
+sVconsuming
+p119
+I1
+sVsmartest
+p120
+I1
+sVarteries
+p121
+I1
+sVput
+p122
+I1
+sVteach
+p123
+I1
+sVdinosaurs
+p124
+I1
+sVthrow
+p125
+I1
+sVchange
+p126
+I1
+sVkids
+p127
+I1
+sVlanguage
+p128
+I1
+sVbroken
+p129
+I1
+sVof
+p130
+I2
+sVribs
+p131
+I1
+sVstickin
+p132
+I1
+sVlakers
+p133
+I1
+sVodds
+p134
+I1
+sVeatin
+p135
+I1
+sVgrown
+p136
+I1
+sVplace
+p137
+I1
+sVsuperstitious
+p138
+I1
+sVdefeat
+p139
+I1
+sVmilitary
+p140
+I1
+sVfearless
+p141
+I2
+sVruin
+p142
+I1
+sVthats
+p143
+I2
+sV52
+p144
+I1
+sVhold
+p145
+I1
+sVwhats
+p146
+I3
+sVago
+p147
+I1
+sVclaim
+p148
+I1
+sVfeel
+p149
+I2
+sVimage
+p150
+I2
+sVspiritual
+p151
+I1
+sVroot
+p152
+I1
+sVgypsies
+p153
+I1
+sVpatience
+p154
+I2
+sVfakers
+p155
+I1
+sVlaugh
+p156
+I1
+sVbody
+p157
+I1
+sVresearch
+p158
+I1
+sVspeak
+p159
+I1
+sVevangelists
+p160
+I1
+sVstereotyping
+p161
+I1
+sVlittle
+p162
+I1
+sVdna
+p163
+I1
+sVwould
+p164
+I1
+sVprove
+p165
+I1
+sVwest
+p166
+I1
+sVprayers
+p167
+I1
+sVchooses
+p168
+I1
+sVfight
+p169
+I1
+sVspirit
+p170
+I1
+sVstart
+p171
+I2
+sVdamn
+p172
+I2
+sVstars
+p173
+I1
+sVindiana
+p174
+I1
+sVtell
+p175
+I1
+sVback
+p176
+I1
+sVmedia
+p177
+I1
+sVshoulders
+p178
+I1
+sVbuy
+p179
+I1
+sVstorm
+p180
+I1
+sVheal
+p181
+I1
+sVvillages
+p182
+I1
+sVhuh
+p183
+I4
+sVforever
+p184
+I1
+sVchimpanzee
+p185
+I1
+sVhu
+p186
+I1
+sVbible
+p187
+I1
+sVarms
+p188
+I1
+sVsurvive
+p189
+I2
+sVknown
+p190
+I1
+sVtrying
+p191
+I1
+sVsabali
+p192
+I36
+sVkagni
+p193
+I3
+sVcunning
+p194
+I1
+sVfly
+p195
+I1
+sVcows
+p196
+I1
+sVeast
+p197
+I1
+sVanimals
+p198
+I1
+sVanything
+p199
+I1
+sVborn
+p200
+I4
+sVwish
+p201
+I1
+sVoh
+p202
+I1
+sVsay
+p203
+I1
+sVwar
+p204
+I1
+sVplanet
+p205
+I1
+sVmatter
+p206
+I1
+sVfuture
+p207
+I2
+sVcould
+p208
+I1
+sVdem
+p209
+I5
+sVgrowing
+p210
+I2
+sVmaking
+p211
+I1
+sVlightning
+p212
+I1
+sVk�ra
+p213
+I6
+sVdisplay
+p214
+I1
+sVnumbers
+p215
+I1
+sVive
+p216
+I1
+sVseven
+p217
+I1
+sVplay
+p218
+I1
+sVvideos
+p219
+I1
+sVflat
+p220
+I1
+sVpredict
+p221
+I1
+sVnicholson
+p222
+I1
+sVis
+p223
+I2
+sVmind
+p224
+I1
+sVit
+p225
+I5
+sVlinage
+p226
+I1
+sVcant
+p227
+I6
+sVsudden
+p228
+I1
+sVim
+p229
+I2
+sVburied
+p230
+I1
+sVbones
+p231
+I2
+sVseen
+p232
+I1
+sVmade
+p233
+I2
+sVseek
+p234
+I1
+sVyonkont�
+p235
+I6
+sVni
+p236
+I6
+sVdont
+p237
+I1
+sVsit
+p238
+I1
+sVpay
+p239
+I1
+sVmake
+p240
+I3
+sVget
+p241
+I4
+sVmilk
+p242
+I1
+sVzoo
+p243
+I1
+sVnas
+p244
+I1
+sVsavages
+p245
+I1
+sVmummies
+p246
+I1
+sVsee
+p247
+I2
+sVthough
+p248
+I1
+sVclone
+p249
+I1
+sVseances
+p250
+I1
+sVbeast
+p251
+I1
+sVaverage
+p252
+I1
+sVrunning
+p253
+I1
+sVmankind
+p254
+I1
+sVcoming
+p255
+I1
+sValong
+p256
+I1
+sVmicrowaved
+p257
+I1
+sVsneeze
+p258
+I1
+sVscholars
+p259
+I1
+sVthoughts
+p260
+I1
+sVman
+p261
+I3
+sVjones
+p262
+I1
+sVkiye
+p263
+I3
+sVland
+p264
+I2
+sVoff
+p265
+I1
+sVread
+p266
+I5
+sVta
+p267
+I3
+sVyouths
+p268
+I1
+sVsometimes
+p269
+I1
+sVwell
+p270
+I1
+sVdrive
+p271
+I1
+sVneedles
+p272
+I1
+sVpaparazzis
+p273
+I1
+sVdeletin
+p274
+I1
+sVpyramids
+p275
+I1
+sVfar
+p276
+I1
+sVtall
+p277
+I1
+sVeverything
+p278
+I1
+sVfirst
+p279
+I1
+sVcure
+p280
+I1
+sVbodies
+p281
+I1
+s.

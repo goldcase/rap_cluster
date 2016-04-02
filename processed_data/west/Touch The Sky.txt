@@ -1,78 +1,638 @@
-touch sky lyrics
-kanye west lyrics
-touch sky
-feat lupe fiasco
-gotta testify come spot looking extra fly
-day die imma touch sky
-gotta testify come spot looking extra fly
-day die imma touch sky
-back thought pink polos would hurt roc
-cam got shit pop doors closed
-felt like bad boys street team couldnt work lox locks
-lets go
-take em back plan
-momma hopped uhaul van
-pessimists aint talked them
-plus aint phone apartment
-lets take em back club
-least hour would stand line
-wanted dance
-went jacob hour got advance
-wanted shine
-jays favorite line dog due time
-look like damn dog am
-hip hop legend
-think died accident cause must heaven
-lets take em highighighighighigh la la la la la la la
-top world baby ttop world
-lets take em highighighighighigh la la la la la la la
-top world baby ttop world
-back gucci shit rock
-back slick rick got shit pop
-id anything say got it
-damn new loafers hurt pocket
-anybody wanted kwest beats
-girl split buffet kfc
-dog nervous breakdowns
-like damn niggas much better me
-baby im going airplane
-dont know ill back again
-sure enough sent plane tickets
-came kick things became different
-girl cheated sheets skeeted on
-couldnt keep home thought needed nia long
-im trying write wrongs
-funny wrongs helped write song
-now
-gotta testify come spot looking extra fly
-day die gonna touch sky
-gonna touch sky babygirl testify come spot
-looking extra fly
-day die gonna touch sky
-yes yes yes guess whos third
-lupe steal like lupin third
-hear like ear till im beer curb
-peach fuzz buzz beard verge
-slow like syrup
-bottleshaped body like mrs butterworths
-say another word
-im back block like im laying street
-im trying stop lion like mumra
-im lying im laying beat
-engarge touchÃ© lupe cool unthawed
-still feel possessed gun charge
-come correct porn star
-fresh pair steps best foreign car
-represent first
-let end verse right horns like
-back home baby
-sky high
-im im sky high
-im im sky high
-im im sky high
-im im sky high
-im im sky high
-sky sky high
-im im sky high
-yeah keep rolling
-feels good home baby feels good home
+(dp1
+Vrepresent
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I1
+sVroc
+p5
+I1
+sVslick
+p6
+I1
+sVhorns
+p7
+I1
+sVgo
+p8
+I1
+sVkanye
+p9
+I1
+sVhopped
+p10
+I1
+sVstill
+p11
+I1
+sVfeat
+p12
+I1
+sVbottleshaped
+p13
+I1
+sVaint
+p14
+I2
+sVpolos
+p15
+I1
+sVapartment
+p16
+I1
+sVla
+p17
+I14
+sVimma
+p18
+I2
+sVnervous
+p19
+I1
+sVlupin
+p20
+I1
+sVsky
+p21
+I16
+sVmumra
+p22
+I1
+sVbetter
+p23
+I1
+sVloafers
+p24
+I1
+sVlets
+p25
+I4
+sVgoing
+p26
+I1
+sVrick
+p27
+I1
+sVsent
+p28
+I1
+sVta
+p29
+I3
+sVhip
+p30
+I1
+sVme
+p31
+I1
+sVthem
+p32
+I1
+sVhighighighighighigh
+p33
+I2
+sVhop
+p34
+I1
+sVsong
+p35
+I1
+sVbeat
+p36
+I1
+sVstop
+p37
+I1
+sVpocket
+p38
+I1
+sVfeels
+p39
+I2
+sVknow
+p40
+I1
+sVnew
+p41
+I1
+sVjacob
+p42
+I1
+sVworld
+p43
+I4
+sVnow
+p44
+I1
+sVday
+p45
+I4
+sVcool
+p46
+I1
+sVtickets
+p47
+I1
+sVheaven
+p48
+I1
+sVlike
+p49
+I10
+sVdie
+p50
+I4
+sVlaying
+p51
+I2
+sVgun
+p52
+I1
+sVttop
+p53
+I2
+sVbad
+p54
+I1
+sVfuzz
+p55
+I1
+sVsteps
+p56
+I1
+sVteam
+p57
+I1
+sVwent
+p58
+I1
+sVsteal
+p59
+I1
+sVem
+p60
+I4
+sVbabygirl
+p61
+I1
+sVtalked
+p62
+I1
+sVanother
+p63
+I1
+sVporn
+p64
+I1
+sVback
+p65
+I8
+sVtouch
+p66
+I7
+sVlion
+p67
+I1
+sVstreet
+p68
+I2
+sVhome
+p69
+I4
+sVgirl
+p70
+I2
+sVyes
+p71
+I3
+sVbest
+p72
+I1
+sVunthawed
+p73
+I1
+sVgon
+p74
+I3
+sVear
+p75
+I1
+sVtestify
+p76
+I4
+sVlooking
+p77
+I4
+sVenough
+p78
+I1
+sVclosed
+p79
+I1
+sVgot
+p80
+I7
+sVcause
+p81
+I1
+sVcorrect
+p82
+I1
+sVbody
+p83
+I1
+sVnia
+p84
+I1
+sVlupe
+p85
+I3
+sVskeeted
+p86
+I1
+sVrock
+p87
+I1
+sVslow
+p88
+I1
+sVlet
+p89
+I1
+sVwanted
+p90
+I3
+sVcome
+p91
+I5
+sVlegend
+p92
+I1
+sVshine
+p93
+I1
+sVadvance
+p94
+I1
+sVaccident
+p95
+I1
+sVanything
+p96
+I1
+sVill
+p97
+I1
+sVfavorite
+p98
+I1
+sVkeep
+p99
+I2
+sVbecame
+p100
+I1
+sVplus
+p101
+I1
+sVstand
+p102
+I1
+sVbuzz
+p103
+I1
+sVthink
+p104
+I1
+sVblock
+p105
+I1
+sVfirst
+p106
+I1
+sVuhaul
+p107
+I1
+sVkwest
+p108
+I1
+sVdont
+p109
+I1
+sVextra
+p110
+I4
+sVfeel
+p111
+I1
+sVcharge
+p112
+I1
+sVpop
+p113
+I2
+sVna
+p114
+I3
+sVmomma
+p115
+I1
+sVright
+p116
+I1
+sVkfc
+p117
+I1
+sVverge
+p118
+I1
+sVcouldnt
+p119
+I2
+sVjays
+p120
+I1
+sVguess
+p121
+I1
+sVlong
+p122
+I1
+sVvan
+p123
+I1
+sVwould
+p124
+I2
+sVwest
+p125
+I1
+sVtop
+p126
+I2
+sVdue
+p127
+I1
+sVleast
+p128
+I1
+sVwhos
+p129
+I1
+sVwrongs
+p130
+I2
+sVneeded
+p131
+I1
+sVbeer
+p132
+I1
+sVmuch
+p133
+I1
+sVdamn
+p134
+I3
+sVbutterworths
+p135
+I1
+sVlox
+p136
+I1
+sVsyrup
+p137
+I1
+sVbeard
+p138
+I1
+sVrolling
+p139
+I1
+sVon
+p140
+I1
+sVclub
+p141
+I1
+sVhurt
+p142
+I2
+sVboys
+p143
+I1
+sVverse
+p144
+I1
+sVhear
+p145
+I1
+sVbaby
+p146
+I5
+sVline
+p147
+I2
+sVtrying
+p148
+I2
+sVmust
+p149
+I1
+sVfly
+p150
+I4
+sVhigh
+p151
+I8
+sVword
+p152
+I1
+sVlook
+p153
+I1
+sVhour
+p154
+I2
+sVniggas
+p155
+I1
+sVsplit
+p156
+I1
+sVwork
+p157
+I1
+sVbeats
+p158
+I1
+sVgucci
+p159
+I1
+sVkick
+p160
+I1
+sVcam
+p161
+I1
+sVtouché
+p162
+I1
+sVcurb
+p163
+I1
+sVam
+p164
+I1
+sVit
+p165
+I1
+sVanybody
+p166
+I1
+sVhelped
+p167
+I1
+sVlocks
+p168
+I1
+sVsay
+p169
+I2
+sVgood
+p170
+I2
+sVim
+p171
+I20
+sVairplane
+p172
+I1
+sVforeign
+p173
+I1
+sVid
+p174
+I1
+sVshit
+p175
+I3
+sVcar
+p176
+I1
+sVpink
+p177
+I1
+sVagain
+p178
+I1
+sVdifferent
+p179
+I1
+sVend
+p180
+I1
+sVpeach
+p181
+I1
+sVthings
+p182
+I1
+sVwrite
+p183
+I2
+sVtill
+p184
+I1
+sVtake
+p185
+I4
+sVdoors
+p186
+I1
+sVsure
+p187
+I1
+sVstar
+p188
+I1
+sVfunny
+p189
+I1
+sVfelt
+p190
+I1
+sVspot
+p191
+I4
+sVbuffet
+p192
+I1
+sVplane
+p193
+I1
+sVplan
+p194
+I1
+sVsheets
+p195
+I1
+sVfiasco
+p196
+I1
+sVpair
+p197
+I1
+sVdied
+p198
+I1
+sVyeah
+p199
+I1
+sVbreakdowns
+p200
+I1
+sVcheated
+p201
+I1
+sVthird
+p202
+I2
+sVphone
+p203
+I1
+sVpessimists
+p204
+I1
+sVpossessed
+p205
+I1
+sVdog
+p206
+I3
+sVmrs
+p207
+I1
+sVthought
+p208
+I2
+sVlying
+p209
+I1
+sVtime
+p210
+I1
+sVfresh
+p211
+I1
+sVengarge
+p212
+I1
+sVcame
+p213
+I1
+s.

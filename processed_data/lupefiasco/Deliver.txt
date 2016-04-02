@@ -1,66 +1,590 @@
-"deliver" lyrics
-lupe fiasco lyrics
-"deliver"
-(feat. ty dolla $ign)
-(pow)
-thirty somethin' shots from the ghetto gun
-all in the ears of the ghetto young
-some ghetto girls, some ghetto sons
-throwing rocks at the bus and other ghetto fun
-i always wondered where the ghetto from
-cause i'm from the ghetto, the never ghetto come
-but you win if the bell of my ghetto rung
-but if the ghetto lose, that mean a ghetto won
-that's how they do the ghetto, that's how the ghetto done
-they keep it, they never bring the ghetto none
-we make the ghetto tick, we make the ghetto run
-we make the ghetto sick, we make the ghetto dumb
-these niggas off that ghetto beer and that ghetto rum
-and that ghetto bass with my ghetto drums
-and my ghetto words and these ghetto problems
-get ghetto sums
-that's why...
-the pizza man don't come here no more
-too much dope
-too many niggas on the porch
-so the pizza man don't approach (no, no, no)
-pizza man don't come here no more
-too many niggas on the block
-too many niggas gettin shot
-so the pizza man don't stop (pow, pow, pow)
-the pizza man don't come here no more
-too many niggas gettin robbed
-niggas don't wanna starve but
-"niggas ain't got no jobs, blah blah blah"
-the pizza man don't come here no more
-deliver, deliver, deliver
-is it cause they're selling nicks out there all day
-cause a prostitute sucking dick in the hallway
-little caesar's never sendin' pizza out ya'll way
-papa johns never get delivered where y'all stayed
-the ghetto was a physical manifestation of hate
-and a place where ethnicity determines your placement
-a place that defines your station
-remind you niggas your place is the basement
-white people in the attic
-niggas selling dope, white people is the addicts
-white folks act like they ain't show us how to traffic
-all that dope to china, you don't call that trappin'?
-breaking bad, learned that from a tv
-so don't say its politics when you see me
-when you gon' apologize for your cd
-nigga that don't match red and black to a gd
-can i get delivered from the sin and get a little slice of heaven i can enter in again
-or maybe just imagine that i'm livin in a mansion or a palace and my pizza gets delivered in a benz
-make a savior out of savage like they made it out of magic
-so it take a nigga havoc and it make it into friends
-you don't even need a salad, it don't make a nigga fatter
-actually take a nigga backwards and make a nigga thin
-that's a deep dish
-chicago style get the peace stick
-homerunner hitter, i be drillin' on the weak pitch
-pay into the plate then i put it in your face
-i'm a man, never bitin' on the hands that i eat with
-no giordano or di giorno
-homemade bull, they bring it to him like a toro
-throwing dough up in the air-bottom to the top and shredder full of cheese smarter than a purple ninja turtle
+(dp1
+Vbull
+p2
+I1
+sVpeace
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVhands
+p7
+I1
+sVairbottom
+p8
+I1
+sVlivin
+p9
+I1
+sVbring
+p10
+I2
+sVgd
+p11
+I1
+sVdough
+p12
+I1
+sVpitch
+p13
+I1
+sVmansion
+p14
+I1
+sVfeat
+p15
+I1
+sVaint
+p16
+I2
+sVstyle
+p17
+I1
+sVshredder
+p18
+I1
+sVty
+p19
+I1
+sVtv
+p20
+I1
+sVnicks
+p21
+I1
+sVtoro
+p22
+I1
+sVdick
+p23
+I1
+sVyoung
+p24
+I1
+sVactually
+p25
+I1
+sVgiordano
+p26
+I1
+sVblack
+p27
+I1
+sVwin
+p28
+I1
+sVfolks
+p29
+I1
+sVdrillin
+p30
+I1
+sVmatch
+p31
+I1
+sVpay
+p32
+I1
+sVsucking
+p33
+I1
+sVget
+p34
+I5
+sVsmarter
+p35
+I1
+sVdope
+p36
+I3
+sVstop
+p37
+I1
+sVaddicts
+p38
+I1
+sVsons
+p39
+I1
+sVtraffic
+p40
+I1
+sVwords
+p41
+I1
+sVbasement
+p42
+I1
+sVninja
+p43
+I1
+sVtick
+p44
+I1
+sVday
+p45
+I1
+sVghetto
+p46
+I26
+sVheaven
+p47
+I1
+sVmagic
+p48
+I1
+sVlike
+p49
+I3
+sVapproach
+p50
+I1
+sVgettin
+p51
+I2
+sVgun
+p52
+I1
+sVtheyre
+p53
+I1
+sVremind
+p54
+I1
+sVbad
+p55
+I1
+sVrung
+p56
+I1
+sValways
+p57
+I1
+sVyall
+p58
+I2
+sVmean
+p59
+I1
+sVturtle
+p60
+I1
+sVnigga
+p61
+I5
+sVpeople
+p62
+I2
+sVthrowing
+p63
+I2
+sVapologize
+p64
+I1
+sVdish
+p65
+I1
+sVsee
+p66
+I1
+sVdumb
+p67
+I1
+sVjobs
+p68
+I1
+sVrocks
+p69
+I1
+sVeven
+p70
+I1
+sVdelivered
+p71
+I3
+sVgon
+p72
+I1
+sVwondered
+p73
+I1
+sVchicago
+p74
+I1
+sVpurple
+p75
+I1
+sVhate
+p76
+I1
+sVhavoc
+p77
+I1
+sVcd
+p78
+I1
+sVwon
+p79
+I1
+sVgot
+p80
+I1
+sVlearned
+p81
+I1
+sVcause
+p82
+I3
+sVred
+p83
+I1
+sVfull
+p84
+I1
+sVrun
+p85
+I1
+sVbass
+p86
+I1
+sVrum
+p87
+I1
+sVlupe
+p88
+I1
+sVpapa
+p89
+I1
+sVnever
+p90
+I5
+sVdeliver
+p91
+I5
+sVchina
+p92
+I1
+sVdrums
+p93
+I1
+sVimagine
+p94
+I1
+sVput
+p95
+I1
+sVcome
+p96
+I5
+sVfatter
+p97
+I1
+sVbackwards
+p98
+I1
+sVthirty
+p99
+I1
+sVmany
+p100
+I4
+sVkeep
+p101
+I1
+sVplace
+p102
+I3
+sVact
+p103
+I1
+sVears
+p104
+I1
+sVshots
+p105
+I1
+sVblock
+p106
+I1
+sVthats
+p107
+I4
+sVcheese
+p108
+I1
+sVcaesars
+p109
+I1
+sVdont
+p110
+I12
+sVbell
+p111
+I1
+sVpow
+p112
+I4
+sVjohns
+p113
+I1
+sVdolla
+p114
+I1
+sVdone
+p115
+I1
+sVtrappin
+p116
+I1
+sVwan
+p117
+I1
+sVlittle
+p118
+I2
+sVfrom
+p119
+I1
+sVgiorno
+p120
+I1
+sVtop
+p121
+I1
+sVgirls
+p122
+I1
+sVattic
+p123
+I1
+sVbeer
+p124
+I1
+sVmuch
+p125
+I1
+sVcall
+p126
+I1
+sVway
+p127
+I1
+sVwhite
+p128
+I3
+sVprostitute
+p129
+I1
+sVmore
+p130
+I4
+sVstarve
+p131
+I1
+sVselling
+p132
+I2
+sVhomemade
+p133
+I1
+sVporch
+p134
+I1
+sVrobbed
+p135
+I1
+sVbus
+p136
+I1
+sVbut
+p137
+I1
+sVstick
+p138
+I1
+sVsavior
+p139
+I1
+sVmanifestation
+p140
+I1
+sVwith
+p141
+I1
+sVeat
+p142
+I1
+sVme
+p143
+I1
+sVnone
+p144
+I1
+sVmade
+p145
+I1
+sVdetermines
+p146
+I1
+sVsalad
+p147
+I1
+sVniggas
+p148
+I9
+sVus
+p149
+I1
+sVthin
+p150
+I1
+sVfun
+p151
+I1
+sVdi
+p152
+I1
+sVpalace
+p153
+I1
+sVplate
+p154
+I1
+sVbenz
+p155
+I1
+sVbitin
+p156
+I1
+sVdeep
+p157
+I1
+sVblah
+p158
+I3
+sVsay
+p159
+I1
+sVim
+p160
+I3
+sVpolitics
+p161
+I1
+sVneed
+p162
+I1
+sVstation
+p163
+I1
+sVethnicity
+p164
+I1
+sVphysical
+p165
+I1
+sVagain
+p166
+I1
+sVno
+p167
+I1
+sVna
+p168
+I1
+sVmake
+p169
+I8
+sVbreaking
+p170
+I1
+sVstayed
+p171
+I1
+sVgets
+p172
+I1
+sVtake
+p173
+I2
+sVsick
+p174
+I1
+sVign
+p175
+I1
+sVdefines
+p176
+I1
+sVsin
+p177
+I1
+sVweak
+p178
+I1
+sVpizza
+p179
+I8
+sVhallway
+p180
+I1
+sVsavage
+p181
+I1
+sVsums
+p182
+I1
+sVenter
+p183
+I1
+sVproblems
+p184
+I1
+sVslice
+p185
+I1
+sVhomerunner
+p186
+I1
+sVfriends
+p187
+I1
+sVwhy
+p188
+I1
+sVman
+p189
+I7
+sVsomethin
+p190
+I1
+sVplacement
+p191
+I1
+sVmaybe
+p192
+I1
+sVlose
+p193
+I1
+sVsendin
+p194
+I1
+sVface
+p195
+I1
+sVhitter
+p196
+I1
+sVfiasco
+p197
+I1
+s.

@@ -1,64 +1,536 @@
-"money makes the world go round" lyrics
-scarface lyrics
-"money makes the world go round"
-(feat. daz)
-money makes the world go round
-money makes me do all things i do
-hang with my homies smoke weed drink brew
-ride down belford one deep and ?? crew
-and money makes the world go round
-money makes the world go round
-living in a mansion one day with my wife
-stack me up some papers these days one night
-if wind stop blowing these days than my sight
-winds start blowing i'm paid trump tight
-got to have papers these days in my life
-i got to have paper these days of my life
-money makes the world go round
-without a doubt
-they all want to see about a clout
-they don't know
-don't want to know or see what its about
-we faced with danger do any thing for the paper
-scarred for life of the street mentality done made us
-watch out for the snakes and fakes
-out to take what's yours so prepare and beware
-money makes the world go round for some niggers
-money makes the world kill all niggers quicker
-its reala, the haps
-the cheese, the scraps
-the cheddar, whatever you call it its all ???
-some people gots to have it
-some really need it
-a lot might even sacrifice their life to retrieve it
-i see that money's good for me
-money's good to me
-money can't buy me love
-but it can rent me some pussy
-you get your hands on a little bit of it and before you know it
-you go crazy without, do strange things for it
-although its made of paper, it don't grow on trees
-unless you coming up blowin weed, while you smoke on tweeds
-you see money makes the world go round
-makes the price of living go up
-chances of living go down
-you see money makes the world go round
-if you ain't got it you nothing
-but when you come up than they hound you
-i take me a shit and try to gather my thoughts
-but where the southwest be, that's why i sip on a quart
-you see my mind is on a whole lot more than just rap
-you see you got to be something, until this rap shit happen
-its been a long time since i got my hand on some cheese
-its been addictive, my daughter can't get what she needs
-shit is fucked up, you wonder why we rob and sell dope
-i go days without eating, it ain't because i snort coke
-fool i'm broke, what's a good way to get paid these days
-flip burgers, or lay your ass down and get sprayed
-hey man i got to reason with ya
-naw, fuck trying to reason
-i'm tired of struggling so now its hunting season
-i hope you understand by now what i'm thinking
-get a bag of that dank, of the hemp and i'm steady drinking
-contemplating on what should i do
-this nigga got g's, i'm talking about a hundred or two
+(dp1
+Vsprayed
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVtweeds
+p5
+I1
+sVmoney
+p6
+I12
+sVbeware
+p7
+I1
+sVcheddar
+p8
+I1
+sVpaper
+p9
+I3
+sVkill
+p10
+I1
+sVwinds
+p11
+I1
+sVlove
+p12
+I1
+sVfeat
+p13
+I1
+sVgo
+p14
+I13
+sVaint
+p15
+I2
+sVhunting
+p16
+I1
+sVblowin
+p17
+I1
+sVniggers
+p18
+I2
+sVbelford
+p19
+I1
+sVcontemplating
+p20
+I1
+sVcrew
+p21
+I1
+sVchances
+p22
+I1
+sVthinking
+p23
+I1
+sVhomies
+p24
+I1
+sVmight
+p25
+I1
+sVrob
+p26
+I1
+sVhope
+p27
+I1
+sVsouthwest
+p28
+I1
+sVfool
+p29
+I1
+sVdo
+p30
+I2
+sVgood
+p31
+I3
+sVget
+p32
+I5
+sVya
+p33
+I1
+sVdope
+p34
+I1
+sVwatch
+p35
+I1
+sVtrees
+p36
+I1
+sVdrinking
+p37
+I1
+sVclout
+p38
+I1
+sVhands
+p39
+I1
+sVworld
+p40
+I10
+sVbit
+p41
+I1
+sVday
+p42
+I1
+sVdaz
+p43
+I1
+sVtry
+p44
+I1
+sVbag
+p45
+I1
+sVsnort
+p46
+I1
+sVnight
+p47
+I1
+sVround
+p48
+I9
+sVtwo
+p49
+I1
+sVquicker
+p50
+I1
+sVretrieve
+p51
+I1
+sVsnakes
+p52
+I1
+sVpeople
+p53
+I1
+sVflip
+p54
+I1
+sVmansion
+p55
+I1
+sVsee
+p56
+I7
+sVstreet
+p57
+I1
+sVsight
+p58
+I1
+sVhappen
+p59
+I1
+sVreally
+p60
+I1
+sVeven
+p61
+I1
+sVliving
+p62
+I3
+sVsince
+p63
+I1
+sVrap
+p64
+I2
+sVgot
+p65
+I7
+sVprice
+p66
+I1
+sVass
+p67
+I1
+sVblowing
+p68
+I2
+sVeating
+p69
+I1
+sVquart
+p70
+I1
+sVreason
+p71
+I2
+sValthough
+p72
+I1
+sVgots
+p73
+I1
+sVscarred
+p74
+I1
+sVcome
+p75
+I1
+sVfaced
+p76
+I1
+sVhemp
+p77
+I1
+sVabout
+p78
+I1
+sVdaughter
+p79
+I1
+sVdays
+p80
+I6
+sVthing
+p81
+I1
+sVsmoke
+p82
+I2
+sVnaw
+p83
+I1
+sVmakes
+p84
+I12
+sVthats
+p85
+I1
+sVcheese
+p86
+I2
+sVwhats
+p87
+I2
+sVdont
+p88
+I3
+sVhaps
+p89
+I1
+sVdanger
+p90
+I1
+sVpussy
+p91
+I1
+sVwhatever
+p92
+I1
+sVone
+p93
+I3
+sVdown
+p94
+I1
+sVfucked
+p95
+I1
+sVnigga
+p96
+I1
+sVdone
+p97
+I1
+sVlittle
+p98
+I1
+sVprepare
+p99
+I1
+sVtired
+p100
+I1
+sVhey
+p101
+I1
+sVlong
+p102
+I1
+sVgrow
+p103
+I1
+sVstart
+p104
+I1
+sVdoubt
+p105
+I1
+sVcall
+p106
+I1
+sVlot
+p107
+I2
+sVhundred
+p108
+I1
+sVlife
+p109
+I4
+sVbuy
+p110
+I1
+sVway
+p111
+I1
+sVseason
+p112
+I1
+sVcoke
+p113
+I1
+sVmentality
+p114
+I1
+sVfuck
+p115
+I1
+sVmoneys
+p116
+I2
+sVunderstand
+p117
+I1
+sVbroke
+p118
+I1
+sVtrying
+p119
+I1
+sVme
+p120
+I2
+sVmade
+p121
+I2
+sVride
+p122
+I1
+sVup
+p123
+I1
+sVus
+p124
+I1
+sVdank
+p125
+I1
+sVhand
+p126
+I1
+sVim
+p127
+I6
+sVaddictive
+p128
+I1
+sVsomething
+p129
+I1
+sVcrazy
+p130
+I1
+sVtrump
+p131
+I1
+sVmind
+p132
+I1
+sVit
+p133
+I5
+sVdeep
+p134
+I1
+sVfakes
+p135
+I1
+sVtalking
+p136
+I1
+sVcant
+p137
+I2
+sVscarface
+p138
+I1
+sVrent
+p139
+I1
+sVwant
+p140
+I2
+sVneed
+p141
+I1
+sVhound
+p142
+I1
+sVshit
+p143
+I3
+sVsell
+p144
+I1
+sVneeds
+p145
+I1
+sVsip
+p146
+I1
+sVreala
+p147
+I1
+sVthings
+p148
+I2
+sVstruggling
+p149
+I1
+sVtight
+p150
+I1
+sVstrange
+p151
+I1
+sVtake
+p152
+I2
+sVpapers
+p153
+I2
+sVscraps
+p154
+I1
+sVyou
+p155
+I1
+sVwonder
+p156
+I1
+sVunless
+p157
+I1
+sVstop
+p158
+I1
+sVsacrifice
+p159
+I1
+sVdrink
+p160
+I1
+sVhang
+p161
+I1
+sVpaid
+p162
+I2
+sVweed
+p163
+I2
+sVlay
+p164
+I1
+sVcoming
+p165
+I1
+sVnothing
+p166
+I1
+sVstack
+p167
+I1
+sVthoughts
+p168
+I1
+sVman
+p169
+I1
+sVwife
+p170
+I1
+sVwhole
+p171
+I1
+sVgather
+p172
+I1
+sVsteady
+p173
+I1
+sVburgers
+p174
+I1
+sVwithout
+p175
+I3
+sVtime
+p176
+I1
+sVbrew
+p177
+I1
+sVwind
+p178
+I1
+sVknow
+p179
+I3
+s.

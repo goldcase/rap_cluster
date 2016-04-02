@@ -1,77 +1,588 @@
-"shit don't stop" lyrics
-2pac lyrics
-"shit don't stop"
-shit don't stop
-game rules often slang to the right fools
-heavy hittin' at this motherfucker's straight spittin'
-diggin' deep into your brain while tryin to explain
-why real niggas need to stick to the game
-it's the same got these motherfuckers changin' on me
-jealous-ass player-haters gaming on me
-look out motherfucker homey-g
-as in gettin' motherfuckers 'fore they come get me
-get down for the right for the wishes
-fake ass nigga, you in shit, for fightin' over bitches
-you call that a player?
-straight-ass sissy
-see me at my show nigga miss me
-cause i ain't tryin' to hear that bullshit
-got a pistol motherfucker try to pull quick
-and just cause i'm rappin don't mean i ain't scrappin
-and if you clip when the shit happens, it don't stop
-shit don't stop...
-now my guess is true
-them thug life niggas is a bull
-everywhere we go
-the niggas trippin at the door
-i want to dance with you
-you can dance at the party and not get whipped
-see the shit don't stop
-my 9 goes pop
-your body drip-drop
-throw that ass in a zip-loc
-now you've been hauled away in a body bag
-get your sammy d said how your blood got sneeze me
-yo you fuckin' with a thug yo your ass gets plugged
-with this hollow-point slugs
-with ya under the rug
-that's why my deaf niggas don't play that shit
-in thug life niggas be the craziest
-so when you think about fuckin' this
-you better wear a vest
-but it really don't matter
-we ain't aimin' at your chest
-nah we blowin holes in your motherfuckin' skull
-make sure your ass is smoked
-that's all the fat lady wrote
-you heard that fat bitch sing when my shit went bang-bang
-but it don't pay when i flaunt your brain
-nigga, ain't no plain cane brothers come no show
-in the casket
-git'n they ass kicked
-and blasted
-it don't stop
-all i wanna do is try to mac the hoes
-spin bank on thangs sellin me a sponsor on my foes
-it's like each and every one they got the look of death
-i got my 9 nigga
-don't be silly
-you better watch your step
-and pussies we crossin when my crew is flossin'
-bitches we tossin'
-and niggas we crossin'
-it's like a murder rhyme when we hit your hood
-it's all good
-the punks? i wish you would!
-wouldn't better to just corrolate what we bust
-instead of kickin' dust
-gets a press y'all from nuts
-cause ain't no herbs here
-and ain't no morgues
-beware of the water 'cause they full of sharks
-but in every state
-niggas perpetrate and test
-where i come from fools die for less
-and thugs keep thugin' till their casket drop
-it's on 'till i die
-and the shit don't stop
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I2
+sVdance
+p4
+I2
+sVmorgues
+p5
+I1
+sVbeware
+p6
+I1
+sVbrain
+p7
+I2
+sVflaunt
+p8
+I1
+sVhauled
+p9
+I1
+sVgo
+p10
+I1
+sVthugin
+p11
+I1
+sVaint
+p12
+I6
+sVdeath
+p13
+I1
+sVblowin
+p14
+I1
+sVspin
+p15
+I1
+sVexplain
+p16
+I1
+sVless
+p17
+I1
+sVbust
+p18
+I1
+sVbullshit
+p19
+I1
+sVbetter
+p20
+I3
+sVcorrolate
+p21
+I1
+sVdripdrop
+p22
+I1
+sVaimin
+p23
+I1
+sVreal
+p24
+I1
+sVtossin
+p25
+I1
+sVgood
+p26
+I1
+sVhit
+p27
+I1
+sVyo
+p28
+I2
+sVget
+p29
+I4
+sVrules
+p30
+I1
+sVstop
+p31
+I8
+sVfat
+p32
+I2
+sVheard
+p33
+I1
+sVtest
+p34
+I1
+sVgame
+p35
+I2
+sVwishes
+p36
+I1
+sVspittin
+p37
+I1
+sVinstead
+p38
+I1
+sVpress
+p39
+I1
+sVlady
+p40
+I1
+sVyou
+p41
+I1
+sVbank
+p42
+I1
+sVlike
+p43
+I2
+sVtrippin
+p44
+I1
+sVd
+I1
+sVbangbang
+p45
+I1
+sVdie
+p46
+I2
+sVgettin
+p47
+I1
+sVjealousass
+p48
+I1
+sVtry
+p49
+I2
+sVbag
+p50
+I1
+sVsissy
+p51
+I1
+sVdiggin
+p52
+I1
+sVhittin
+p53
+I1
+sVwish
+p54
+I1
+sVquick
+p55
+I1
+sVwent
+p56
+I1
+sVwrote
+p57
+I1
+sVmean
+p58
+I1
+sVheavy
+p59
+I1
+sVbody
+p60
+I2
+sVright
+p61
+I2
+sVoften
+p62
+I1
+sVdeaf
+p63
+I1
+sVplay
+p64
+I1
+sVsee
+p65
+I2
+sVhollowpoint
+p66
+I1
+sVfull
+p67
+I1
+sVsponsor
+p68
+I1
+sVhoes
+p69
+I1
+sVreally
+p70
+I1
+sVhappens
+p71
+I1
+sVsaid
+p72
+I1
+sVpussies
+p73
+I1
+sVaway
+p74
+I1
+sVstate
+p75
+I1
+sVbitch
+p76
+I1
+sVgoes
+p77
+I1
+sVgot
+p78
+I5
+sVpistol
+p79
+I1
+sVcause
+p80
+I4
+sVslugs
+p81
+I1
+sVwhipped
+p82
+I1
+sVass
+p83
+I5
+sVsharks
+p84
+I1
+sVkicked
+p85
+I1
+sVstraightass
+p86
+I1
+sVmotherfucker
+p87
+I2
+sVpunks
+p88
+I1
+sVrug
+p89
+I1
+sVwater
+p90
+I1
+sVstep
+p91
+I1
+sVwear
+p92
+I1
+sVsing
+p93
+I1
+sVcome
+p94
+I3
+sVthrow
+p95
+I1
+sVblasted
+p96
+I1
+sVevery
+p97
+I2
+sVfoes
+p98
+I1
+sVwouldnt
+p99
+I1
+sVfightin
+p100
+I1
+sVkeep
+p101
+I1
+sVyall
+p102
+I1
+sVyouve
+p103
+I1
+sVmotherfuckers
+p104
+I3
+sVfuckin
+p105
+I2
+sVthats
+p106
+I2
+sVdont
+p107
+I13
+sVgitn
+p108
+I1
+sVpop
+p109
+I1
+sVone
+p110
+I1
+sVtill
+p111
+I2
+sVnigga
+p112
+I4
+sVchangin
+p113
+I1
+sVfake
+p114
+I1
+sVsammy
+p115
+I1
+sVcrew
+p116
+I1
+sVmiss
+p117
+I1
+sVhood
+p118
+I1
+sVwan
+p119
+I1
+sVguess
+p120
+I1
+sVcasket
+p121
+I2
+sVwould
+p122
+I1
+sVcall
+p123
+I1
+sVtryin
+p124
+I2
+sVlife
+p125
+I2
+sVmurder
+p126
+I1
+sVdoor
+p127
+I1
+sVcraziest
+p128
+I1
+sVbitches
+p129
+I2
+sVkickin
+p130
+I1
+sVfore
+p131
+I1
+sVhere
+p132
+I1
+sVeverywhere
+p133
+I1
+sVstick
+p134
+I1
+sVbull
+p135
+I1
+sVtrue
+p136
+I1
+sV2pac
+p137
+I1
+sVme
+p138
+I4
+sVpull
+p139
+I1
+sVrappin
+p140
+I1
+sVlook
+p141
+I2
+sVskull
+p142
+I1
+sVniggas
+p143
+I7
+sVplain
+p144
+I1
+sVstraight
+p145
+I1
+sVmatter
+p146
+I1
+sVsilly
+p147
+I1
+sVvest
+p148
+I1
+sVcane
+p149
+I1
+sVclip
+p150
+I1
+sVdeep
+p151
+I1
+sVplayer
+p152
+I1
+sVim
+p153
+I1
+sVwant
+p154
+I1
+sVneed
+p155
+I1
+sVcrossin
+p156
+I2
+sVshit
+p157
+I10
+sVthugs
+p158
+I1
+sVsellin
+p159
+I1
+sVpay
+p160
+I1
+sVnah
+p161
+I1
+sVhomeyg
+p162
+I1
+sVnuts
+p163
+I1
+sVplugged
+p164
+I1
+sVrhyme
+p165
+I1
+sVya
+p166
+I1
+sVchest
+p167
+I1
+sVmotherfuckin
+p168
+I1
+sV9
+I2
+sVparty
+p169
+I1
+sVfools
+p170
+I2
+sVgets
+p171
+I2
+sVscrappin
+p172
+I1
+sVgaming
+p173
+I1
+sVthug
+p174
+I3
+sVsure
+p175
+I1
+sVbrothers
+p176
+I1
+sVwatch
+p177
+I1
+sVflossin
+p178
+I1
+sVherbs
+p179
+I1
+sVmac
+p180
+I1
+sVblood
+p181
+I1
+sVziploc
+p182
+I1
+sVdust
+p183
+I1
+sVsneeze
+p184
+I1
+sVslang
+p185
+I1
+sVdrop
+p186
+I1
+sVholes
+p187
+I1
+sVthink
+p188
+I1
+sVperpetrate
+p189
+I1
+sVthangs
+p190
+I1
+sVna
+p191
+I1
+sVhear
+p192
+I1
+sVplayerhaters
+p193
+I1
+sVsmoked
+p194
+I1
+sVmake
+p195
+I1
+s.

@@ -1,65 +1,596 @@
-"time travelin' (a tribute to fela)" lyrics
-common lyrics
-"time travelin' (a tribute to fela)"
-(feat. vinia mojica, roy hargrove, femi kuti)
-what what, we do this time
-rock rock....
-yes, let this music travel through you
-talk about feelings, yeah yo
-yo wassup world?
-yo what's happening?
-it's the c-double-o and i'm back again
-take this back and then, tell a friend
-spaces and places you been, time travelin
-time travelin *echoes*
-yo, i was a piano player in my last lifetime
-now i write rhymes, sip white wine and let my light shine
-out the dark space, with the world on my mind like scarface
-though my sex drive like a car chase
-more than a uhh, it's the piece of mind i chase
-stakes are high, like my uncle is
-we both got problems, he never confronted his
-under the bridge i wrote, some shit to stay afloat
-and paint a picture, raw like the first coat
-send my old man a note to keep his phone on
-my little cuz'll know cheap tricks are homegrown
-travel to a place sweeter than home, listenin to nina simone
-repeat this psalm, to the sky i'm keepin my palms
-facin the east, actions macin the beast
-embracin the streets, my god caught a case cuz he beat
-his lady down, it's two-thou
-that ain't the way we lay it down
-souls get, found and lost at the roads they cross
-many paid dues, but few knew the costs
-i ran through the moss like randy
-touchindown wit god, close friends, and family
-recognize the voice in the wilderness
-com sense, '92 and i'm still in this
-time travelin, took my time in hand
-my rhyme learn and plan
-jealousy, money and pride can burn a man
-some walk but never learn to stand
-still, afraid to expand what they feel
-i'm dealin wit, wakes, marriages
-atm's, ericsson's
-loud niggas that whisper carelessness
-if we livin in revelation
-why should the people of the sun have to run?
-come to esau in a year, he'll have freedom
-he ask why i hadn't been to see him
-really, i ain't have a good reason
-he said, "rah, give back what you receivin"
-in a race against time, i was caught
-in the same game as you, but long live the sport
-it's time travelin
-it's the c-double-o and i'm back again
-take this back and then, tell a friend
-spaces and places you been
-time travelin  time travelin....
-time travelin
-time travelin
-yeah, yo wassup world, yo what's happening?
-it's the c-double-o and i'm back again
-take this back and then, tell a friend
-spaces and places you been
-time travelin
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVcheap
+p4
+I1
+sVsouls
+p5
+I1
+sVactions
+p6
+I1
+sVreceivin
+p7
+I1
+sVroy
+p8
+I1
+sVspaces
+p9
+I3
+sVhell
+p10
+I1
+sVyes
+p11
+I1
+sVstill
+p12
+I2
+sVfeat
+p13
+I1
+sVaint
+p14
+I2
+sVnote
+p15
+I1
+sVwilderness
+p16
+I1
+sVwassup
+p17
+I2
+sVsky
+p18
+I1
+sVcuz
+p19
+I1
+sVsend
+p20
+I1
+sVhim
+p21
+I1
+sVrandy
+p22
+I1
+sVtwothou
+p23
+I1
+sVpiano
+p24
+I1
+sVeast
+p25
+I1
+sVcase
+p26
+I1
+sVhis
+p27
+I1
+sVlivin
+p28
+I1
+sVyo
+p29
+I6
+sVget
+p30
+I1
+sVbeat
+p31
+I1
+sVrhyme
+p32
+I1
+sVuhh
+p33
+I1
+sVdark
+p34
+I1
+sVgame
+p35
+I1
+sVbeast
+p36
+I1
+sVknow
+p37
+I1
+sVworld
+p38
+I3
+sVwalk
+p39
+I1
+sVlady
+p40
+I1
+sVcarelessness
+p41
+I1
+sVmacin
+p42
+I1
+sVhomegrown
+p43
+I1
+sVlike
+p44
+I5
+sVlost
+p45
+I1
+sVniggas
+p46
+I1
+sVrace
+p47
+I1
+sVcommon
+p48
+I1
+sVrock
+p49
+I2
+sVfound
+p50
+I1
+sVwrote
+p51
+I1
+sVlearn
+p52
+I2
+sVold
+p53
+I1
+sVpeople
+p54
+I1
+sVstreets
+p55
+I1
+sVyeah
+p56
+I2
+sVsex
+p57
+I1
+sVsee
+p58
+I1
+sVbeen
+p59
+I2
+sVyear
+p60
+I1
+sVhome
+p61
+I1
+sVsport
+p62
+I1
+sVreally
+p63
+I1
+sVsaid
+p64
+I1
+sVericssons
+p65
+I1
+sVspace
+p66
+I1
+sVgod
+p67
+I2
+sVafloat
+p68
+I1
+sVcom
+p69
+I1
+sVgot
+p70
+I1
+sVtribute
+p71
+I2
+sVburn
+p72
+I1
+sVrun
+p73
+I1
+sVnever
+p74
+I2
+sVatms
+p75
+I1
+sVreason
+p76
+I1
+sVlet
+p77
+I2
+sVhand
+p78
+I1
+sVcuzll
+p79
+I1
+sVcome
+p80
+I1
+sVshine
+p81
+I1
+sVon
+p82
+I1
+sVcdoubleo
+p83
+I3
+sVlast
+p84
+I1
+sVvinia
+p85
+I1
+sVmany
+p86
+I1
+sVkeep
+p87
+I1
+sVsimone
+p88
+I1
+sVplace
+p89
+I1
+sVstand
+p90
+I1
+sVembracin
+p91
+I1
+sVconfronted
+p92
+I1
+sVstakes
+p93
+I1
+sVwhats
+p94
+I2
+sVfamily
+p95
+I1
+sVfeel
+p96
+I1
+sVmarriages
+p97
+I1
+sVfeelings
+p98
+I1
+sVdown
+p99
+I1
+sVask
+p100
+I1
+sVwit
+p101
+I2
+sVfemi
+p102
+I1
+sVroads
+p103
+I1
+sVfacin
+p104
+I1
+sVlittle
+p105
+I1
+sVlong
+p106
+I1
+sVrevelation
+p107
+I1
+sVcaught
+p108
+I2
+sVjealousy
+p109
+I1
+sVesau
+p110
+I1
+sVpaint
+p111
+I1
+sVlive
+p112
+I1
+sVmusic
+p113
+I1
+sVexpand
+p114
+I1
+sVway
+p115
+I1
+sVwhisper
+p116
+I1
+sVwhite
+p117
+I1
+sVtell
+p118
+I3
+sVfriend
+p119
+I3
+sVtravelin
+p120
+I11
+sVfreedom
+p121
+I1
+sVtook
+p122
+I1
+sVback
+p123
+I7
+sVphone
+p124
+I1
+sVuncle
+p125
+I1
+sVhadnt
+p126
+I1
+sVsun
+p127
+I1
+sV92
+p128
+I1
+sVlistenin
+p129
+I1
+sVtouchindown
+p130
+I1
+sVdealin
+p131
+I1
+sVplaces
+p132
+I3
+sVplayer
+p133
+I1
+sVthis
+p134
+I1
+sVcar
+p135
+I1
+sVrhymes
+p136
+I1
+sVnina
+p137
+I1
+sVpsalm
+p138
+I1
+sVsweeter
+p139
+I1
+sVlight
+p140
+I1
+sVscarface
+p141
+I1
+sVpiece
+p142
+I1
+sVdues
+p143
+I1
+sVhargrove
+p144
+I1
+sVbridge
+p145
+I1
+sVwakes
+p146
+I1
+sVgive
+p147
+I1
+sVran
+p148
+I1
+sVrecognize
+p149
+I1
+sVis
+p150
+I1
+sVsense
+p151
+I1
+sVmind
+p152
+I2
+sVrah
+p153
+I1
+sVhigh
+p154
+I1
+sVraw
+p155
+I1
+sVgood
+p156
+I1
+sVim
+p157
+I6
+sVkuti
+p158
+I1
+sVclose
+p159
+I1
+sVlifetime
+p160
+I1
+sVplan
+p161
+I1
+sVvoice
+p162
+I1
+sVmojica
+p163
+I1
+sVshit
+p164
+I1
+sVchase
+p165
+I2
+sVagain
+p166
+I3
+sVsip
+p167
+I1
+sVloud
+p168
+I1
+sVtravel
+p169
+I2
+sVcross
+p170
+I1
+sVwrite
+p171
+I1
+sVtake
+p172
+I3
+sVyou
+p173
+I1
+sVpicture
+p174
+I1
+sVrepeat
+p175
+I1
+sVpalms
+p176
+I1
+sVthough
+p177
+I1
+sVknew
+p178
+I1
+sVproblems
+p179
+I1
+sVpaid
+p180
+I1
+sVstay
+p181
+I1
+sVkeepin
+p182
+I1
+sVafraid
+p183
+I1
+sVlay
+p184
+I1
+sVmoss
+p185
+I1
+sVfriends
+p186
+I1
+sVfela
+p187
+I2
+sVman
+p188
+I2
+sVhappening
+p189
+I2
+sVcoat
+p190
+I1
+sVtricks
+p191
+I1
+sVdrive
+p192
+I1
+sVpride
+p193
+I1
+sVcosts
+p194
+I1
+sVtime
+p195
+I14
+sVechoes
+p196
+I1
+sVfirst
+p197
+I1
+sVtalk
+p198
+I1
+sVwine
+p199
+I1
+s.

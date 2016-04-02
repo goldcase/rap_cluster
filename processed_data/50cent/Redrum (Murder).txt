@@ -1,45 +1,409 @@
-"redrum (murder)" lyrics
-50 cent lyrics
-"redrum (murder)"
-{"doesn't really matter - us"}
-no it don't fuckin matter!
-{"doesn't really matter - us"}
-we gon' do it my way
-{"doesn't really matter - us"}
-from here on out it's my way
-187 in motion
-hammer cocked when i'm coastin, yeah
-187 in motion
-hammer cocked when i'm coastin
-redrum, redrum
-fuck with me it'll be murder one
-redrum, redrum
-one shooter, ten shots, one gun
-this is redrum
-{"oh it's too late, oh it's too late"}
-if i hit him i'll hurt him, i just catch him and murk him
-i'm not sittin here waitin for him to come back - naw!
-soon as i spot him i got him, i'ma run up and drop him
-get that p-90 poppin, nigga hold that - uhh!
-i get the gun and they runnin, niggaz know me for dumbin
-i got a good reputation, what the fuck can i say
-some of these niggaz is bitches, yeah most of 'em snitches
-so i don't let 'em know it's me, doin dirt when it's me
-i know just how to work it, i can make it go perfect
-have the homicides sittin there, scratchin their head
-to me a victim's a victim, you could pay me and pick 'em
-then i hunt him down and take his head off like i dare ya
-i bet you think that i'm vicious, catch you huggin and kissin
-while the love's in the air, i put a hole in your heart
-plus so now that i'm missin, i'm a fuckin magician
-you might find my dna, all over your broad
-me and my cannibal methods, i eat you niggaz for breakfast
-see the cannon respect it, nigga take off the chain (now!)
-robberies turn to murder, i do shit you ain't heard of
-change my mind and just pop you, in a blink of an eye
-i know you thought i was bluffin, but to me this is nothin
-now you can lay there, leakin, go 'head curl up and die
-you tell god when you see him, i'll be happy to meet him
-i went to service this evenin, he forgives, not i
-it's murder
-nothin but murder
+(dp1
+Vlyrics
+p2
+I2
+sVsoon
+p3
+I1
+sVvictim
+p4
+I1
+sVgo
+p5
+I2
+sVfind
+p6
+I1
+sVdont
+p7
+I2
+sVperfect
+p8
+I1
+sVchain
+p9
+I1
+sVitll
+p10
+I1
+sVpoppin
+p11
+I1
+sVlate
+p12
+I2
+sVmight
+p13
+I1
+sVtake
+p14
+I2
+sVrunnin
+p15
+I1
+sVgood
+p16
+I1
+sVvictims
+p17
+I1
+sVget
+p18
+I2
+sVya
+p19
+I1
+sVcannon
+p20
+I1
+sVsittin
+p21
+I2
+sVuhh
+p22
+I1
+sVknow
+p23
+I4
+sVnow
+p24
+I1
+sVhim
+p25
+I3
+sVdare
+p26
+I1
+sVlike
+p27
+I1
+sVdie
+p28
+I1
+sVhunt
+p29
+I1
+sVgun
+p30
+I2
+sVscratchin
+p31
+I1
+sVshots
+p32
+I1
+sVwent
+p33
+I1
+sVem
+p34
+I3
+sVhomicides
+p35
+I1
+sVmurk
+p36
+I1
+sVmethods
+p37
+I1
+sVten
+p38
+I1
+sVyeah
+p39
+I2
+sV50
+p40
+I1
+sVsee
+p41
+I2
+sVus
+p42
+I3
+sVbluffin
+p43
+I1
+sVhammer
+p44
+I2
+sVreally
+p45
+I3
+sVgon
+p46
+I1
+sVforgives
+p47
+I1
+sVevenin
+p48
+I1
+sVbroad
+p49
+I1
+sVgot
+p50
+I2
+sVima
+p51
+I1
+sVrun
+p52
+I1
+sVdirt
+p53
+I1
+sVlet
+p54
+I1
+sVmeet
+p55
+I1
+sVput
+p56
+I1
+sVeye
+p57
+I1
+sVcome
+p58
+I1
+sVchange
+p59
+I1
+sVoh
+p60
+I2
+sVrobberies
+p61
+I1
+sVof
+p62
+I1
+sVill
+p63
+I2
+sVmotion
+p64
+I2
+sVturn
+p65
+I1
+sVplus
+p66
+I1
+sVpick
+p67
+I1
+sVthink
+p68
+I1
+sVfuckin
+p69
+I2
+sVcocked
+p70
+I2
+sVcoastin
+p71
+I2
+sVpop
+p72
+I1
+sVone
+p73
+I3
+sVdoesnt
+p74
+I3
+sVcannibal
+p75
+I1
+sVrespect
+p76
+I1
+sVblink
+p77
+I1
+sVmagician
+p78
+I1
+sVdna
+p79
+I1
+sVservice
+p80
+I1
+sVaint
+p81
+I1
+sVcent
+p82
+I1
+sV187
+p83
+I2
+sVway
+p84
+I2
+sVtell
+p85
+I1
+sVhappy
+p86
+I1
+sVhead
+p87
+I3
+sVmurder
+p88
+I6
+sVredrum
+p89
+I7
+sVbitches
+p90
+I1
+sVback
+p91
+I1
+sVnigga
+p92
+I2
+sVcatch
+p93
+I2
+sVhole
+p94
+I1
+sVhold
+p95
+I1
+sVeat
+p96
+I1
+sVme
+p97
+I1
+sVleakin
+p98
+I1
+sVwork
+p99
+I1
+sVniggaz
+p100
+I3
+sVair
+p101
+I1
+sVmatter
+p102
+I4
+sVkissin
+p103
+I1
+sVloves
+p104
+I1
+sVsnitches
+p105
+I1
+sVcould
+p106
+I1
+sVbet
+p107
+I1
+sVheart
+p108
+I1
+sVmind
+p109
+I1
+sVfuck
+p110
+I2
+sVheard
+p111
+I1
+sVsay
+p112
+I1
+sVim
+p113
+I6
+sVhit
+p114
+I1
+sVbreakfast
+p115
+I1
+sVcurl
+p116
+I1
+sVshit
+p117
+I1
+sVdumbin
+p118
+I1
+sVpay
+p119
+I1
+sVmake
+p120
+I1
+sVp90
+p121
+I1
+sVnaw
+p122
+I1
+sVwaitin
+p123
+I1
+sVdoin
+p124
+I1
+sVmissin
+p125
+I1
+sVspot
+p126
+I1
+sVvicious
+p127
+I1
+sVlay
+p128
+I1
+sVhurt
+p129
+I1
+sVdrop
+p130
+I1
+sVi
+I1
+sVshooter
+p131
+I1
+sVnothin
+p132
+I2
+sVthought
+p133
+I1
+sVreputation
+p134
+I1
+sVgod
+p135
+I1
+sVhuggin
+p136
+I1
+s.

@@ -1,76 +1,602 @@
-"almost haunted" lyrics
-eminem lyrics
-"almost haunted"
-(feat. taylor swift)
-i stuck my dick in this game like a rapist
-they call me slim roethlisberger
-i go bezerker than a fed-up post-office worker
-a merk her with a mossberg
-i'm pissed off get murdered
-like someone took a ketchup squirter
-squirted a frankfurter
-for a gangster you shoulda shit your pants
-when you saw the chainsaw get to waving
-like a terrible towel
-i faced her around
-but his fangs come out
-get your brains blown out
-that's what i call blowing your mind
-when i come back
-like nut on your spine
-i'm a thumb tack
-that you slept on son
-now here i come screaming attack like i just stepped on one
-low on the totem till he showed 'em
-defiance, giant scrotum
-he don't owe them bitches shit
-his bridges, he out grow'd em
-come on, come on don't leave me like this
-i thought i had you figured out
-something's gone terribly wrong
-you're all i wanted
-come on, come on don't leave me like this
-i thought i had you figured out
-can't breath whenever you gone
-can't turn back now, i'm haunted
-i'm back for revenge
-i lost a battle that ain't happening again
-i'm at your throat like strep
-i step, strapped with a pen
-metaphors wrote on my hand,
-someone distorted my mint
-read some i wrote on a napkin
-i do what i have to to win
-pull at it all stops, any who touch a mic prior's
-not even austin powers, how the fuck are they mike meyers
-and tell that psycho to pass the torch
-to the whack before i take a shit in his jack-o-lantern
-and smash it on his porch
-now get off my dick
-dick's too short a word for my dick
-get off my antidisestablishmentariani sm, you prick
-you call me the champ; call me the space shuttle destroyer
-i just blew up the challenger, matter fact i need a lawyer
-i displaced my clause with enough plaster
-to make a cast beat his ass naked and peed in his corner like burn choyder
-you're the eminem backwards, you're mini-me
-see he's in a whole nother weight class
-he smokes your bb's you beat back bullets
-you're full of it; you were just in his cd's
-left at infinite, now he's back like someone pissed in his wheaties
-no peace treaties, he's turned into a beast
-his new slim shady ep's got the attention of the mighty d. r. e
-i'm haunted i'm dead your gone
-come on, come on don't leave me like this
-i thought i had you figured out
-something's gone terribly wrong
-won't finish what you started
-come on, come on don't leave me like this
-i thought i had you figured out
-can't breath whenever you gone
-can't go back, i'm haunted
-oooooh
-you and i walk a fragile line
-i have known it all this time
-never ever thought i'd see it break.
-never thought i'd see it
+(dp1
+Vlyrics
+p2
+I2
+sVtotem
+p3
+I1
+sVfangs
+p4
+I1
+sVtreaties
+p5
+I1
+sVroethlisberger
+p6
+I1
+sVbattle
+p7
+I1
+sVcds
+p8
+I1
+sVgo
+p9
+I2
+sVcorner
+p10
+I1
+sVpsycho
+p11
+I1
+sVstrep
+p12
+I1
+sVfeat
+p13
+I1
+sVmake
+p14
+I1
+sVaint
+p15
+I1
+sVbridges
+p16
+I1
+sVgiant
+p17
+I1
+sVthumb
+p18
+I1
+sVdestroyer
+p19
+I1
+sVdick
+p20
+I3
+sVenough
+p21
+I1
+sVclause
+p22
+I1
+sVjackolantern
+p23
+I1
+sVdicks
+p24
+I1
+sVpass
+p25
+I1
+sVwhack
+p26
+I1
+sVsomeone
+p27
+I3
+sVscrotum
+p28
+I1
+sVaround
+p29
+I1
+sVtouch
+p30
+I1
+sVget
+p31
+I5
+sVread
+p32
+I1
+sVsquirter
+p33
+I1
+sVplaster
+p34
+I1
+sVbreak
+p35
+I1
+sVgame
+p36
+I1
+sVhaunted
+p37
+I5
+sVgot
+p38
+I1
+sVstep
+p39
+I1
+sVson
+p40
+I1
+sVscreaming
+p41
+I1
+sVketchup
+p42
+I1
+sVsquirted
+p43
+I1
+sVwont
+p44
+I1
+sVsmash
+p45
+I1
+sVdisplaced
+p46
+I1
+sVtowel
+p47
+I1
+sVlike
+p48
+I12
+sVlost
+p49
+I1
+sVspine
+p50
+I1
+sVfragile
+p51
+I1
+sVleave
+p52
+I4
+sVwrote
+p53
+I2
+sVem
+p54
+I2
+sVblew
+p55
+I1
+sVweight
+p56
+I1
+sVnaked
+p57
+I1
+sVnut
+p58
+I1
+sVtorch
+p59
+I1
+sVback
+p60
+I6
+sVdead
+p61
+I1
+sVd
+I1
+sVgangster
+p62
+I1
+sVsee
+p63
+I3
+sVfull
+p64
+I1
+sVmighty
+p65
+I1
+sVlawyer
+p66
+I1
+sVfrankfurter
+p67
+I1
+sVout
+p68
+I6
+sVeven
+p69
+I1
+sVrapist
+p70
+I1
+sVspace
+p71
+I1
+sVwheaties
+p72
+I1
+sVstops
+p73
+I1
+sVcast
+p74
+I1
+sVpen
+p75
+I1
+sVnew
+p76
+I1
+sVever
+p77
+I1
+sVpants
+p78
+I1
+sVass
+p79
+I1
+sVblowing
+p80
+I1
+sVturned
+p81
+I1
+sVburn
+p82
+I1
+sVrevenge
+p83
+I1
+sVpeed
+p84
+I1
+sVeminem
+p85
+I2
+sVmurdered
+p86
+I1
+sVdefiance
+p87
+I1
+sVwanted
+p88
+I1
+sVcome
+p89
+I11
+sVshoulda
+p90
+I1
+sVpissed
+p91
+I2
+sVfaced
+p92
+I1
+sVchoyder
+p93
+I1
+sVfigured
+p94
+I4
+sVterrible
+p95
+I1
+sVterribly
+p96
+I2
+sVaustin
+p97
+I1
+sVmetaphors
+p98
+I1
+sVthats
+p99
+I1
+sVmossberg
+p100
+I1
+sVdont
+p101
+I5
+sVblown
+p102
+I1
+sVowe
+p103
+I1
+sVwin
+p104
+I1
+sVone
+p105
+I1
+sVbezerker
+p106
+I1
+sVinfinite
+p107
+I1
+sVmerk
+p108
+I1
+sVchamp
+p109
+I1
+sVstrapped
+p110
+I1
+sVhes
+p111
+I3
+sVswift
+p112
+I1
+sVslept
+p113
+I1
+sVbreath
+p114
+I2
+sVstuck
+p115
+I1
+sVattack
+p116
+I1
+sVpostoffice
+p117
+I1
+sVlow
+p118
+I1
+sVoooooh
+p119
+I1
+sVcall
+p120
+I4
+sVbbs
+p121
+I1
+sVtell
+p122
+I1
+sVmike
+p123
+I1
+sVporch
+p124
+I1
+sVstarted
+p125
+I1
+sVbrains
+p126
+I1
+sVbitches
+p127
+I1
+sVworker
+p128
+I1
+sVtook
+p129
+I1
+sVit
+p130
+I1
+sVnother
+p131
+I1
+sVbackwards
+p132
+I1
+sVbeat
+p133
+I2
+sVe
+I1
+sVline
+p134
+I1
+sVpull
+p135
+I1
+sVword
+p136
+I1
+sVshowed
+p137
+I1
+sVchallenger
+p138
+I1
+sVthis
+p139
+I4
+sVmatter
+p140
+I1
+sVr
+I1
+sVattention
+p141
+I1
+sVfedup
+p142
+I1
+sVmeyers
+p143
+I1
+sVpowers
+p144
+I1
+sVgone
+p145
+I5
+sVtaylor
+p146
+I1
+sValmost
+p147
+I2
+sVslim
+p148
+I2
+sVmind
+p149
+I1
+sVfuck
+p150
+I1
+sVeps
+p151
+I1
+sVneed
+p152
+I1
+sVcant
+p153
+I4
+sVantidisestablishmentariani
+p154
+I1
+sVim
+p155
+I8
+sVdistorted
+p156
+I1
+sVthroat
+p157
+I1
+sVsaw
+p158
+I1
+sVid
+p159
+I2
+sVshit
+p160
+I3
+sVagain
+p161
+I1
+sVturn
+p162
+I1
+sVmint
+p163
+I1
+sVgrowd
+p164
+I1
+sVpeace
+p165
+I1
+sVsomethings
+p166
+I2
+sVwalk
+p167
+I1
+sVtill
+p168
+I1
+sVtake
+p169
+I1
+sVshuttle
+p170
+I1
+sVstepped
+p171
+I1
+sVfinish
+p172
+I1
+sVprick
+p173
+I1
+sVtime
+p174
+I1
+sVhand
+p175
+I1
+sVwaving
+p176
+I1
+sVwrong
+p177
+I2
+sVtack
+p178
+I1
+sVbullets
+p179
+I1
+sVnever
+p180
+I2
+sVminime
+p181
+I1
+sVclass
+p182
+I1
+sVknown
+p183
+I1
+sVshort
+p184
+I1
+sVbeast
+p185
+I1
+sVhappening
+p186
+I1
+sVwhenever
+p187
+I2
+sVwhole
+p188
+I1
+sVshady
+p189
+I1
+sVyoure
+p190
+I4
+sVsmokes
+p191
+I1
+sVchainsaw
+p192
+I1
+sVnapkin
+p193
+I1
+sVthought
+p194
+I6
+sVsm
+p195
+I1
+sVpriors
+p196
+I1
+sVmic
+p197
+I1
+sVfact
+p198
+I1
+sVleft
+p199
+I1
+s.

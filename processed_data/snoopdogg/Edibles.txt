@@ -1,46 +1,364 @@
-"edibles" lyrics
-snoop dogg lyrics
-"edibles"
-(feat. t.i.)
-and once it all dissolves (to the left)
-and it mixes with the music (to the right)
-and it makes you wanna do it (to the left)
-in a way you never knew it (to the right)
-pass the dutchie to the left
-like it is 4/20
-pass the dutchie to the right
-like it is 4/20
-pass the dutchie to the left
-like it is 4/20
-pass the dutchie to the right
-like it is 4/20
-pass the dutchie to the left
-come aboard the friendly sky's and let it go (cupcakes)
-here's my metaphor (cookies)
-you so edible
-lemme know for sure, you squidg your eyes and let it go (chocolate)
-you already know (molly)
-its that edible, girl
-come along to the friendly sky's and enjoy the ride (cupcakes)
-it makes the music life (cookies)
-to get that body high girl
-come along to the friendly sky's you'd be occupied (chocolate)
-off the point of your mind (molly)
-without you feeling inside (cookies)
-badabang badabang
-got a chain you can see through
-graduated to a range from a regal
-hit the club and i leave with it 82
-that's the difference between me and you
-just how we do it  went straight to the head
-on a worldwide tour me and skateboard
-ate more bitches in the lobby on the molly
-pretty sexy yet exotic fill em all in my ferrari yep
-i'd probably do a menage of 4 and
-got em running upstairs got em coming in pairs
-may i relieve you of your jacket can i touch you there
-she took off her underwear, it ain't no hair under there
-i solemnly swear, i will not share
-this game with a lame, let him learn for himself
-i owe a nigga shit, better earn for himself
-quit tripping on me, be concerned with yourself
+(dp1
+Vlyrics
+p2
+I2
+sVrelieve
+p3
+I1
+sVthrough
+p4
+I1
+sVgo
+p5
+I2
+sVyep
+p6
+I1
+sVfeat
+p7
+I1
+sVyet
+p8
+I1
+sVaint
+p9
+I1
+sVbadabang
+p10
+I2
+sVchain
+p11
+I1
+sVconcerned
+p12
+I1
+sVbetter
+p13
+I1
+sV4
+I1
+sVpretty
+p14
+I1
+sVti
+p15
+I1
+sVregal
+p16
+I1
+sVskys
+p17
+I3
+sVfriendly
+p18
+I3
+sVhit
+p19
+I1
+sVget
+p20
+I1
+sVsquidg
+p21
+I1
+sVgame
+p22
+I1
+sVknow
+p23
+I2
+sVgot
+p24
+I3
+sVdifference
+p25
+I1
+sVearn
+p26
+I1
+sVlike
+p27
+I4
+sVleave
+p28
+I1
+sVwent
+p29
+I1
+sVride
+p30
+I1
+sVenjoy
+p31
+I1
+sVcookies
+p32
+I3
+sVright
+p33
+I4
+sVupstairs
+p34
+I1
+sVhair
+p35
+I1
+sVtouch
+p36
+I1
+sVsee
+p37
+I1
+sVpass
+p38
+I5
+sV82
+p39
+I1
+sVgirl
+p40
+I2
+sVedibles
+p41
+I2
+sVcupcakes
+p42
+I2
+sVheres
+p43
+I1
+sVinside
+p44
+I1
+sV420
+p45
+I4
+sVbody
+p46
+I1
+sVmenage
+p47
+I1
+sVnever
+p48
+I1
+sVmolly
+p49
+I3
+sVlem
+p50
+I1
+sVlet
+p51
+I3
+sVgraduated
+p52
+I1
+sVsexy
+p53
+I1
+sValong
+p54
+I2
+sVcome
+p55
+I3
+sVtripping
+p56
+I1
+sVdutchie
+p57
+I5
+sVpairs
+p58
+I1
+sVate
+p59
+I1
+sVskateboard
+p60
+I1
+sVmixes
+p61
+I1
+sVtour
+p62
+I1
+sVswear
+p63
+I1
+sVaboard
+p64
+I1
+sVmakes
+p65
+I2
+sVthats
+p66
+I1
+sVexotic
+p67
+I1
+sVem
+p68
+I3
+sValready
+p69
+I1
+sVpoint
+p70
+I1
+sVowe
+p71
+I1
+sVyoud
+p72
+I1
+sVyourself
+p73
+I1
+sVnigga
+p74
+I1
+sVwan
+p75
+I1
+sVmetaphor
+p76
+I1
+sVsnoop
+p77
+I1
+sVdogg
+p78
+I1
+sVthere
+p79
+I2
+sVmusic
+p80
+I2
+sVway
+p81
+I1
+sVlife
+p82
+I1
+sVsolemnly
+p83
+I1
+sVclub
+p84
+I1
+sVshare
+p85
+I1
+sVbitches
+p86
+I1
+sVtook
+p87
+I1
+sVchocolate
+p88
+I2
+sVprobably
+p89
+I1
+sVme
+p90
+I1
+sVedible
+p91
+I2
+sVstraight
+p92
+I1
+sVlearn
+p93
+I1
+sVfeeling
+p94
+I1
+sVmind
+p95
+I1
+sVhead
+p96
+I1
+sVhigh
+p97
+I1
+sVhimself
+p98
+I2
+sVoccupied
+p99
+I1
+sVid
+p100
+I1
+sVshit
+p101
+I1
+sVfill
+p102
+I1
+sVlame
+p103
+I1
+sVna
+p104
+I1
+sVrange
+p105
+I1
+sVyou
+p106
+I1
+sVworldwide
+p107
+I1
+sVsure
+p108
+I1
+sVmay
+p109
+I1
+sVknew
+p110
+I1
+sVquit
+p111
+I1
+sVrunning
+p112
+I1
+sVcoming
+p113
+I1
+sVlobby
+p114
+I1
+sVunderwear
+p115
+I1
+sVeyes
+p116
+I1
+sVdissolves
+p117
+I1
+sVjacket
+p118
+I1
+sVwithout
+p119
+I1
+sVferrari
+p120
+I1
+sVleft
+p121
+I5
+s.

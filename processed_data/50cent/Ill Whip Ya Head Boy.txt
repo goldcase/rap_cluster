@@ -1,74 +1,567 @@
-"i'll whip ya head boy" lyrics
-50 cent lyrics
-"i'll whip ya head boy"
-(feat. young buck)
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-2 niggaz in the front, 2 niggaz in the back
-thats 4 niggaz ridin' strapped in grandpa's cadillac
-the voice in my head say fuck all these niggaz
-then i start thinkin', i should rob all these niggaz
-man my homies then wan' do whatever i wan' do
-i say i wan' eat they say shit we wan' eat to
-lets ride around find a nigga stuntin' on front street
-with the shine's on niggaz be lookin' like lunch meat
-i run up on a nigga, pop one on the floor
-tell um come up off that shit 'fore we start poppin' some more
-fuck a ski mask, man niggaz know who i iz
-i got a full clip and niggaz know i get biz
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i'm up early in the mornin', tryna make a move
-come in here with me shorty take your lil' on the school
-even though she cause the drama, you love your baby momma
-i hit her with the llama to get this cake
-give us the coke, the cash, the combo to the safe
-but she don't know it, damn, ok we'll wait
-i play with your kid on the couch, while your bitch on the phone
-put a gun to her head sayin' daddy come home
-you was rollin' poppin' bubbly, didn't think it get ugly
-in the hood shit is lovely until it go bad
-now you can pray for a miracle and god might be hearin' you
-that the nine will jam right in my hand
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i got, its homies screamin' buck you need to calm down
-niggaz be gettin' killed everytime you come around
-we ran up in his crib made his momma kiss the ground
-she askin' god, what my baby dunn did now?
-i'm takin' everything, jewellery i want it all
-duck tape him up, rip the phone cords out the wall
-fuck waitin' we can startin' waitin' on tomorrow
-so ask satan if he got a car that i can borrow
-i'm impatient like a money hungry rap star
-i jack him for his chain and i can get a new jaguar
-the mack i have his brains all over the fuckin' sidewalk
-and i'ma be on cnn again it ain't my fault
-march nigga step, right nigga left
-g-unit soldier i'm thuggin' till my death
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
-i'll whip your head boy, you know i will
-i'll whip your head boy, with the back of the steal
-i'll whip your head boy, your cap could get pealed
-i'll whip your head boy, your ass could get killed
+(dp1
+Vcrib
+p2
+I1
+sVkiss
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVrob
+p6
+I1
+sVmove
+p7
+I1
+sVall
+p8
+I1
+sVgo
+p9
+I1
+sVfeat
+p10
+I1
+sVfind
+p11
+I1
+sVground
+p12
+I1
+sVima
+p13
+I1
+sVdeath
+p14
+I1
+sVsayin
+p15
+I1
+sVpray
+p16
+I1
+sVpoppin
+p17
+I2
+sVyoung
+p18
+I1
+sVto
+p19
+I1
+sVlets
+p20
+I1
+sVjam
+p21
+I1
+sVtape
+p22
+I1
+sV4
+I1
+sVhomies
+p23
+I2
+sVski
+p24
+I1
+sVdo
+p25
+I1
+sVmornin
+p26
+I1
+sVhit
+p27
+I1
+sVaround
+p28
+I2
+sVget
+p29
+I20
+sVya
+p30
+I2
+sVsafe
+p31
+I1
+sVearly
+p32
+I1
+sVlunch
+p33
+I1
+sVhearin
+p34
+I1
+sVbiz
+p35
+I1
+sVpop
+p36
+I1
+sVllama
+p37
+I1
+sVnew
+p38
+I1
+sVfront
+p39
+I2
+sVnow
+p40
+I1
+sVkilled
+p41
+I9
+sVmeat
+p42
+I1
+sVschool
+p43
+I1
+sVjaguar
+p44
+I1
+sVlike
+p45
+I2
+sVeverytime
+p46
+I1
+sVgettin
+p47
+I1
+sV50
+p48
+I1
+sVmiracle
+p49
+I1
+sVbad
+p50
+I1
+sVstartin
+p51
+I1
+sVcar
+p52
+I1
+sVsidewalk
+p53
+I1
+sVsteal
+p54
+I8
+sVnigga
+p55
+I4
+sVjewellery
+p56
+I1
+sVback
+p57
+I9
+sVgun
+p58
+I1
+sVstreet
+p59
+I1
+sVus
+p60
+I1
+sVhome
+p61
+I1
+sVwhip
+p62
+I34
+sVeven
+p63
+I1
+sVwill
+p64
+I8
+sVgod
+p65
+I2
+sVeverything
+p66
+I1
+sVcnn
+p67
+I1
+sVgot
+p68
+I3
+sVcause
+p69
+I1
+sVass
+p70
+I8
+sVaint
+p71
+I1
+sVgrandpas
+p72
+I1
+sVfull
+p73
+I1
+sVrun
+p74
+I1
+sVdunn
+p75
+I1
+sVstrapped
+p76
+I1
+sVridin
+p77
+I1
+sVstep
+p78
+I1
+sVput
+p79
+I1
+sVcome
+p80
+I4
+sVstuntin
+p81
+I1
+sVwait
+p82
+I1
+sVbuck
+p83
+I2
+sVdaddy
+p84
+I1
+sVok
+p85
+I1
+sVfault
+p86
+I1
+sVill
+p87
+I34
+sVscreamin
+p88
+I1
+sVdrama
+p89
+I1
+sVsoldier
+p90
+I1
+sVlookin
+p91
+I1
+sVchain
+p92
+I1
+sVthink
+p93
+I1
+sVjack
+p94
+I1
+sVthats
+p95
+I1
+sVlove
+p96
+I1
+sVdont
+p97
+I1
+sVwall
+p98
+I1
+sVwhatever
+p99
+I1
+sVone
+p100
+I1
+sVdown
+p101
+I1
+sVask
+p102
+I1
+sVmomma
+p103
+I2
+sVright
+p104
+I2
+sVbitch
+p105
+I1
+sVduck
+p106
+I1
+sVtomorrow
+p107
+I1
+sVhood
+p108
+I1
+sVbubbly
+p109
+I1
+sVwan
+p110
+I4
+sVcent
+p111
+I1
+sVborrow
+p112
+I1
+sVstart
+p113
+I2
+sV2
+I2
+sVdamn
+p114
+I1
+sVcalm
+p115
+I1
+sVsatan
+p116
+I1
+sVcords
+p117
+I1
+sVkid
+p118
+I1
+sVtell
+p119
+I1
+sVmore
+p120
+I1
+sVtryna
+p121
+I1
+sVhead
+p122
+I36
+sVboy
+p123
+I34
+sVbrains
+p124
+I1
+sVcoke
+p125
+I1
+sVcombo
+p126
+I1
+sVshorty
+p127
+I1
+sVfore
+p128
+I1
+sVphone
+p129
+I2
+sVbaby
+p130
+I2
+sVgunit
+p131
+I1
+sVeat
+p132
+I2
+sVlovely
+p133
+I1
+sVmight
+p134
+I1
+sVride
+p135
+I1
+sVcap
+p136
+I8
+sVcash
+p137
+I1
+sVniggaz
+p138
+I9
+sVum
+p139
+I1
+sVugly
+p140
+I1
+sVnine
+p141
+I1
+sVcake
+p142
+I1
+sVthuggin
+p143
+I1
+sVvoice
+p144
+I1
+sVdidnt
+p145
+I1
+sVcould
+p146
+I16
+sViz
+p147
+I1
+sVrap
+p148
+I1
+sVclip
+p149
+I1
+sVgive
+p150
+I1
+sVran
+p151
+I1
+sVwell
+p152
+I1
+sVfuck
+p153
+I3
+sVrip
+p154
+I1
+sVsay
+p155
+I3
+sVim
+p156
+I4
+sVwant
+p157
+I1
+sVpealed
+p158
+I8
+sVneed
+p159
+I1
+sVmarch
+p160
+I1
+sVshines
+p161
+I1
+sVmade
+p162
+I1
+sVshit
+p163
+I3
+sVfloor
+p164
+I1
+sVlil
+p165
+I1
+sVmake
+p166
+I1
+sVtakin
+p167
+I1
+sVcouch
+p168
+I1
+sVtill
+p169
+I1
+sVtake
+p170
+I1
+sVyou
+p171
+I1
+sVwaitin
+p172
+I2
+sVplay
+p173
+I1
+sVaskin
+p174
+I1
+sVstar
+p175
+I1
+sVthough
+p176
+I1
+sVcadillac
+p177
+I1
+sVhand
+p178
+I1
+sVmack
+p179
+I1
+sVman
+p180
+I2
+sVmask
+p181
+I1
+sVhungry
+p182
+I1
+sVrollin
+p183
+I1
+sVimpatient
+p184
+I1
+sVfuckin
+p185
+I1
+sVleft
+p186
+I1
+sVthinkin
+p187
+I1
+sVknow
+p188
+I11
+s.

@@ -1,89 +1,614 @@
-"ask yourself a question (bonus cut)" lyrics
-dr. dre lyrics
-"ask yourself a question (bonus cut)"
-check it out
-here's a penny for your thoughts
-a nicklebag of bliss
-an m-16 with eighteen clips
-i'm all set to bust, treacherous
-illustrious, homie don't question us
-just ask yourself the question
-how many hoes can i fuck in one night?
-just ask yourself the question, nigga
-how many niggaz can i blast on sight?
-i'm ferocious, and you knows this nigga
-bitches wear skirts, shake ass and bump
-i pop pistols, that's all i do
-i pop one at him and pop two at you
-i'm illusive, i'ma glock it
-pistol popping activist with the key to the bucket
-i rip your pockets of the side of your pants
-you glare to the side and you glance, i'm in my g-boy stance
-how the fuck you make it this far?
-no matter where you at, or who you are
-people treat me like kareem abdul jabbar
-i hear ooh's and aah's when i jumps in my car
-just from last night you can tell
-that i'm addicted to the fast life
-shouts out to my homeboys mad and quell
-you go on and fuck misty, while i fuck michelle
-just ask yourself the question
-how many hoes can i fuck in one night?
-just ask yourself the question
-how many niggaz can i blast on sight?
-just ask yourself the question
-(girl: is it cool to ride) or is it cool to fuck?
-just ask yourself the question
-i don't know why these motherfuckers wanna fuck with us
-what you wanna do, penetrate me?
-bump my crib? bust and fuck my bitch, nigga?
-i never thought a nigga would trip
-off a little piece of ass that he know he could get
-any day (any day) and any time (any time)
-you'se a vegetarian (what?), i like beef, turkey and pork
-fish and chips, chips and dip
-fuck it, hand me my knife and my fork
-i'm not too picky nigga, kurupt young gotti
-a.k.a. low ricky nigga (what up momma?)
-substantialar, tyrannosaurus, gigantic titanic tarantula.
-on a creep homie, wake up
-don't sleep homie, supposed to know it
-look, i'm hazardous to health, nigga, bitch, nigga
-don't ask me shit 'till you ask yourself
-just ask yourself the question
-how many hoes can i fuck in one night?
-just ask yourself the question
-how many niggaz can i blast on sight?
-just ask yourself the question
-(girl: is it cool to ride) or is it cool to fuck?
-just ask yourself the question
-i don't know why these motherfuckers wanna fuck with us
-what the fuck is up? man life's a bitch
-you gotta put your pistol to the sky,
-kill a million motherfuckers and get high in order to be cool
-man, you'se a motherfucking fool (speak to these niggaz)
-i thought the same way, back in the days
-young, with a lack on daily things
-never thought too much, homie, never trip
-i got drunk as fuck, the homies blaze sticks
-look out for them niggaz out to catch us
-so i'ma stay forgetting to tank your pistol with you (your pistol nigga)
-niggaz get swallowed in the game
-i cock and bust hollows to peer, duck and frame
-yo nigga, that shit sounds like i did it
-don't blaze the ??? without the top bullet
-niggaz look like they're doped up like tired bitches
-with the eyes wide gone you spit the hard boom
-wiping shit the fuck out like typhoons
-with the little homeboys, t-bone and cartoons
-motherfucker don't ask me for shit
-fuck everything you believe in, little bitch
-just ask yourself the question
-how many hoes can i fuck in one night?
-just ask yourself the question
-how many niggaz can i blast on sight?
-just ask yourself the question
-(girl: is it cool to ride) or is it cool to fuck?
-just ask yourself the question
-i don't know why these motherfuckers wanna fuck with us
-what, what?
+(dp1
+Vjabbar
+p2
+I1
+sVthings
+p3
+I1
+sVcrib
+p4
+I1
+sVlyrics
+p5
+I2
+sVlack
+p6
+I1
+sVshouts
+p7
+I1
+sVsleep
+p8
+I1
+sVshake
+p9
+I1
+sVgo
+p10
+I1
+sVeyes
+p11
+I1
+sVima
+p12
+I2
+sVcut
+p13
+I2
+sVchips
+p14
+I2
+sVsky
+p15
+I1
+sVyoung
+p16
+I2
+sVbust
+p17
+I3
+sVbliss
+p18
+I1
+sVblaze
+p19
+I2
+sVhomies
+p20
+I1
+sVkareem
+p21
+I1
+sVfool
+p22
+I1
+sVdo
+p23
+I1
+sVdoped
+p24
+I1
+sVsubstantialar
+p25
+I1
+sVyo
+p26
+I1
+sVget
+p27
+I3
+sVfar
+p28
+I1
+sVhard
+p29
+I1
+sVgame
+p30
+I1
+sVknow
+p31
+I5
+sVgot
+p32
+I2
+sVpenetrate
+p33
+I1
+sVblast
+p34
+I4
+sVdr
+p35
+I1
+sVday
+p36
+I2
+sVcool
+p37
+I7
+sVspit
+p38
+I1
+sVlike
+p39
+I6
+sVtheyre
+p40
+I1
+sVcartoons
+p41
+I1
+sVnight
+p42
+I5
+sVaddicted
+p43
+I1
+sVkill
+p44
+I1
+sVdip
+p45
+I1
+sVside
+p46
+I2
+sVpork
+p47
+I1
+sVset
+p48
+I1
+sVglare
+p49
+I1
+sVpeople
+p50
+I1
+sVbump
+p51
+I2
+sVfish
+p52
+I1
+sVduck
+p53
+I1
+sVtreacherous
+p54
+I1
+sVback
+p55
+I1
+sVare
+p56
+I1
+sVsight
+p57
+I4
+sVhoes
+p58
+I4
+sVgirl
+p59
+I3
+sVsounds
+p60
+I1
+sVpopping
+p61
+I1
+sVout
+p62
+I1
+sVwhat
+p63
+I1
+sVforgetting
+p64
+I1
+sVheres
+p65
+I1
+sVricky
+p66
+I1
+sVeverything
+p67
+I1
+sVactivist
+p68
+I1
+sVhealth
+p69
+I1
+sVwide
+p70
+I1
+sVtarantula
+p71
+I1
+sVpistol
+p72
+I4
+sVknife
+p73
+I1
+sVpants
+p74
+I1
+sVass
+p75
+I2
+sVtyphoons
+p76
+I1
+sVmillion
+p77
+I1
+sVferocious
+p78
+I1
+sVstance
+p79
+I1
+sVjumps
+p80
+I1
+sVnever
+p81
+I3
+sVmotherfucker
+p82
+I1
+sVquell
+p83
+I1
+sVwear
+p84
+I1
+sVkey
+p85
+I1
+sVask
+p86
+I19
+sVstay
+p87
+I1
+sVlast
+p88
+I1
+sVbeef
+p89
+I1
+sVmany
+p90
+I8
+sVcould
+p91
+I1
+sVtitanic
+p92
+I1
+sVpockets
+p93
+I1
+sVaka
+p94
+I1
+sVdre
+p95
+I1
+sVmotherfuckers
+p96
+I4
+sVthats
+p97
+I1
+sVmotherfucking
+p98
+I1
+sVkurupt
+p99
+I1
+sVpistols
+p100
+I1
+sVdont
+p101
+I8
+sVdrunk
+p102
+I1
+sVquestion
+p103
+I17
+sVpop
+p104
+I3
+sVone
+p105
+I5
+sVput
+p106
+I1
+sVmomma
+p107
+I1
+sVnigga
+p108
+I10
+sVbitch
+p109
+I4
+sVframe
+p110
+I1
+sVm16
+p111
+I1
+sVglance
+p112
+I1
+sVswallowed
+p113
+I1
+sVoohs
+p114
+I1
+sVspeak
+p115
+I1
+sVturkey
+p116
+I1
+sVwan
+p117
+I4
+sVlittle
+p118
+I3
+sVlifes
+p119
+I1
+sVwould
+p120
+I1
+sVyouse
+p121
+I2
+sVabdul
+p122
+I1
+sVtop
+p123
+I1
+sVtired
+p124
+I1
+sVillustrious
+p125
+I1
+sVtwo
+p126
+I1
+sVfast
+p127
+I1
+sVhollows
+p128
+I1
+sVmuch
+p129
+I1
+sVtreat
+p130
+I1
+sVway
+p131
+I1
+sVboom
+p132
+I1
+sVtell
+p133
+I1
+sVlow
+p134
+I1
+sVhomeboys
+p135
+I2
+sVlife
+p136
+I1
+sVglock
+p137
+I1
+sVknows
+p138
+I1
+sVpeer
+p139
+I1
+sVhazardous
+p140
+I1
+sVbitches
+p141
+I2
+sVit
+p142
+I3
+sVwiping
+p143
+I1
+sVtbone
+p144
+I1
+sVhear
+p145
+I1
+sVcatch
+p146
+I1
+sVbelieve
+p147
+I1
+sVme
+p148
+I1
+sVmisty
+p149
+I1
+sVgotti
+p150
+I1
+sVtank
+p151
+I1
+sVlook
+p152
+I3
+sVcar
+p153
+I1
+sVride
+p154
+I3
+sVbucket
+p155
+I1
+sVup
+p156
+I1
+sVniggaz
+p157
+I8
+sVclips
+p158
+I1
+sVmatter
+p159
+I1
+sVhomie
+p160
+I4
+sVsupposed
+p161
+I1
+sVgigantic
+p162
+I1
+sVpiece
+p163
+I1
+sVcock
+p164
+I1
+sVvegetarian
+p165
+I1
+sVskirts
+p166
+I1
+sVfork
+p167
+I1
+sVsticks
+p168
+I1
+sVnicklebag
+p169
+I1
+sVpenny
+p170
+I1
+sVfuck
+p171
+I19
+sVrip
+p172
+I1
+sVdays
+p173
+I1
+sVhigh
+p174
+I1
+sVeighteen
+p175
+I1
+sVim
+p176
+I7
+sVcheck
+p177
+I1
+sVshit
+p178
+I4
+sVgone
+p179
+I1
+sVus
+p180
+I5
+sVna
+p181
+I4
+sVmake
+p182
+I1
+sVtrip
+p183
+I2
+sVtill
+p184
+I1
+sVcreep
+p185
+I1
+sVyou
+p186
+I1
+sVaahs
+p187
+I1
+sVgboy
+p188
+I1
+sVbonus
+p189
+I2
+sVhand
+p190
+I1
+sVmad
+p191
+I1
+sVillusive
+p192
+I1
+sVthoughts
+p193
+I1
+sVman
+p194
+I2
+sVmichelle
+p195
+I1
+sVpicky
+p196
+I1
+sVbullet
+p197
+I1
+sVta
+p198
+I1
+sVdaily
+p199
+I1
+sVthought
+p200
+I3
+sVtyrannosaurus
+p201
+I1
+sVwithout
+p202
+I1
+sVtime
+p203
+I2
+sVwake
+p204
+I1
+sVorder
+p205
+I1
+s.

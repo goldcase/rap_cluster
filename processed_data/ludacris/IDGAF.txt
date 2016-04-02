@@ -1,71 +1,568 @@
-"idgaf" lyrics
-ludacris lyrics
-"idgaf"
-we have a motto – we don't give a fuck
-we don't give a fuck about shit
-we don't give a fuck
-we don't give a fuck
-easy, motherfuckers
-and ya'll no scared of us from time to time
-i don't give a fuck!
-weeeeeeeeeeeeelllll... it's that nigga you been waitin on
-tryna get more information, conversation, debatin and hatin em
-i need some pussy that i could take out my frustrations on
-or a yacht and a bunch of a bad bitches
-that maybe i could just take a vacation on
-i'm faded, i'm smashed,
-i'm spendin all this cash
-got bout 5 racks in my pocket,
-i don't really know how long it's gon last
-pour that drink all in that cup
-throw that stink all in that blunt
-grab that chick with all that butt and guess what...
-i don't really give a fuck
-life is a puzzle i'm tryna get together
-every day tryna figure out what 2 women like to fair together
-ding ding, let me get inside the ring 'cause i think i got the perfect match
-don't be nervous, come on out yo shell, let's wait for the birds to hatch
-shoo fly, shoo bitch, now it's time for the birds to fly
-me around this purple haze created a little purple sky
-if you smoke that dirt don't be jealous of my mary jane (mary jane)
-8 albums, motherfucker, ain't a damn thing changed
-i'm faded, i'm smashed,
-i'm spendin all this cash
-got bout 5 racks in my pocket,
-i don't really know how long it's gon last
-pour that drink all in that cup
-throw that stink all in that blunt
-grab that chick with all that butt and guess what...
-i don't really give a fuck
-i done got rich and lost my damn mind
-platinum plaques got a nigga celebratin all the damn time
-luda!
-quit foolin around and get some work done
-no, i'd rather go to magic and see a bitch twerk some
-i think i, i think i deserve it, i'm in that guinness book
-rappers throwin shots and i throw em right back
-still got these niggas shook
-people see me in the movies and they think i went hollywood
-only difference is i'm bumpin the molly with a bunch of mollies and poppin does the molly good
-it does, i mean it really does
-was that luda in the lamborghini? i mean it really was
-hurry up and get a picture on yo iphone
-and turn around, bend over but let me get one on my phone (say cheese)
-i got it, i'm a save it philp so better send it off
-haters don't dirt 'cause i'm just so clean and a nigga just drinks em off
-since '99 i've been in go mode
-and every time i see yo bitch in the club she be in hoe mode
-hoe mode? hoe mode
-hoe mode? hoe mode
-i press a button and the whole damn crib just go in hoe mode
-yea the lights go dim and the candles getting lit and i pour some fuckin drinks
-aye, did luda really fucked yo girl?
-what you fuckin think?
-i'm faded, i'm smashed,
-i'm spendin all this cash
-got bout 5 racks in my pocket,
-i don't really know how long it's gon last
-pour that drink all in that cup
-throw that stink all in that blunt
-grab that chick with all that butt and guess what...
-i don't really give a fuck
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVshoo
+p4
+I2
+sVhatin
+p5
+I1
+sVgo
+p6
+I4
+sVstill
+p7
+I1
+sVbirds
+p8
+I2
+sVbunch
+p9
+I2
+sVperfect
+p10
+I1
+sVhaters
+p11
+I1
+sVcup
+p12
+I3
+sVnervous
+p13
+I1
+sVsky
+p14
+I1
+sVsend
+p15
+I1
+sVbetter
+p16
+I1
+sVyea
+p17
+I1
+sVlets
+p18
+I1
+sVeasy
+p19
+I1
+sV8
+I1
+sVbout
+p20
+I3
+sVsave
+p21
+I1
+sVmatch
+p22
+I1
+sVcelebratin
+p23
+I1
+sVgood
+p24
+I1
+sVaround
+p25
+I3
+sVyo
+p26
+I4
+sVget
+p27
+I6
+sVpocket
+p28
+I3
+sVevery
+p29
+I2
+sVknow
+p30
+I3
+sVpress
+p31
+I1
+sVcandles
+p32
+I1
+sVdifference
+p33
+I1
+sVday
+p34
+I1
+sVdim
+p35
+I1
+sVmagic
+p36
+I1
+sVlike
+p37
+I1
+sVlost
+p38
+I1
+sVbutton
+p39
+I1
+sVdebatin
+p40
+I1
+sVbad
+p41
+I1
+sVmode
+p42
+I7
+sVshots
+p43
+I1
+sVchick
+p44
+I3
+sVgrab
+p45
+I3
+sVyall
+p46
+I1
+sVmean
+p47
+I2
+sVem
+p48
+I3
+sVnigga
+p49
+I3
+sVfair
+p50
+I1
+sVpeople
+p51
+I1
+sVfrustrations
+p52
+I1
+sVscared
+p53
+I1
+sVsome
+p54
+I1
+sVback
+p55
+I1
+sVidgaf
+p56
+I2
+sV\u2013
+I1
+sVus
+p57
+I1
+sVgirl
+p58
+I1
+sVreally
+p59
+I9
+sVwhat
+p60
+I3
+sVgon
+p61
+I3
+sVpurple
+p62
+I2
+sVspendin
+p63
+I3
+sVsince
+p64
+I1
+sVlights
+p65
+I1
+sVhaze
+p66
+I1
+sVdoes
+p67
+I1
+sVturn
+p68
+I1
+sVgot
+p69
+I8
+sVweeeeeeeeeeeeelllll
+p70
+I1
+sVcause
+p71
+I2
+sVaint
+p72
+I1
+sVthrowin
+p73
+I1
+sVdirt
+p74
+I2
+sVmolly
+p75
+I2
+sVlittle
+p76
+I1
+sVmotherfucker
+p77
+I1
+sVlet
+p78
+I2
+sVmotto
+p79
+I1
+sVcome
+p80
+I1
+sVthrow
+p81
+I4
+sVwait
+p82
+I1
+sVon
+p83
+I3
+sVlast
+p84
+I3
+sVcreated
+p85
+I1
+sVcould
+p86
+I2
+sVchanged
+p87
+I1
+sVconversation
+p88
+I1
+sVsmoke
+p89
+I1
+sVwhole
+p90
+I1
+sVthink
+p91
+I5
+sVfuckin
+p92
+I2
+sVaye
+p93
+I1
+sVding
+p94
+I2
+sVcheese
+p95
+I1
+sVdont
+p96
+I14
+sVpussy
+p97
+I1
+sVpuzzle
+p98
+I1
+sVcrib
+p99
+I1
+sVone
+p100
+I1
+sVfucked
+p101
+I1
+sVright
+p102
+I1
+sVdone
+p103
+I2
+sVbitch
+p104
+I3
+sVring
+p105
+I1
+sVplatinum
+p106
+I1
+sVquit
+p107
+I1
+sVguess
+p108
+I3
+sVguinness
+p109
+I1
+sVvacation
+p110
+I1
+sVlong
+p111
+I3
+sV2
+I1
+sVdamn
+p112
+I4
+sViphone
+p113
+I1
+sVjane
+p114
+I2
+sVhollywood
+p115
+I1
+sVwas
+p116
+I1
+sVmary
+p117
+I2
+sVtryna
+p118
+I3
+sVlife
+p119
+I1
+sVshell
+p120
+I1
+sVrich
+p121
+I1
+sVclub
+p122
+I1
+sVbitches
+p123
+I1
+sV99
+p124
+I1
+sVphone
+p125
+I1
+sVbutt
+p126
+I3
+sValbums
+p127
+I1
+sVhurry
+p128
+I1
+sVwomen
+p129
+I1
+sVfly
+p130
+I2
+sVlamborghini
+p131
+I1
+sVniggas
+p132
+I1
+sVinside
+p133
+I1
+sVwork
+p134
+I1
+sVcash
+p135
+I3
+sVpour
+p136
+I4
+sVmovies
+p137
+I1
+sVfaded
+p138
+I3
+sVsmashed
+p139
+I3
+sVshook
+p140
+I1
+sVluda
+p141
+I3
+sVive
+p142
+I1
+sVstink
+p143
+I3
+sVfigure
+p144
+I1
+sVgive
+p145
+I8
+sVmind
+p146
+I1
+sVfuck
+p147
+I8
+sVsay
+p148
+I1
+sVpoppin
+p149
+I1
+sVim
+p150
+I14
+sVbend
+p151
+I1
+sVneed
+p152
+I1
+sVtwerk
+p153
+I1
+sVplaques
+p154
+I1
+sVid
+p155
+I1
+sVshit
+p156
+I1
+sVinformation
+p157
+I1
+sVhoe
+p158
+I6
+sVthing
+p159
+I1
+sVrather
+p160
+I1
+sVdeserve
+p161
+I1
+sVfoolin
+p162
+I1
+sVlit
+p163
+I1
+sVbook
+p164
+I1
+sV5
+I3
+sVtake
+p165
+I2
+sVhatch
+p166
+I1
+sVdrinks
+p167
+I2
+sVblunt
+p168
+I3
+sVwaitin
+p169
+I1
+sVpicture
+p170
+I1
+sVsee
+p171
+I3
+sVgetting
+p172
+I1
+sVrappers
+p173
+I1
+sVdrink
+p174
+I3
+sVbumpin
+p175
+I1
+sVjealous
+p176
+I1
+sVracks
+p177
+I3
+sVoff
+p178
+I2
+sVmaybe
+p179
+I1
+sVwent
+p180
+I1
+sVyacht
+p181
+I1
+sVtogether
+p182
+I2
+sVmotherfuckers
+p183
+I1
+sVclean
+p184
+I1
+sVtime
+p185
+I5
+sVphilp
+p186
+I1
+sVmollies
+p187
+I1
+s.

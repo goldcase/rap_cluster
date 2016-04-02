@@ -1,110 +1,918 @@
-"doggz gonna get ya" lyrics
-snoop dogg lyrics
-"doggz gonna get ya"
-(feat. mac)
-i'm in junior high with a c+ grade
-at the end of the day i don't hit the arcade
-i to school from my moms apartment
-i got to tell these niggas everyday don't shit
-cause where i'm at if you soft you lost
-and to stay on course, you got to roll with force
-my homeboy dogg is chilling in a benz
-in front of his building witht the rest of his friends
-i give him a pound no i mean i shake his hand
-he's the neighborhood drug dealer, my man
-i go upstairs, i hug my mother
-i kiss my sister and i punch my brother
-i sit down on the bed to watch some t.v.
-do my ears decieve me
-no that's the fourth time this week
-four young brothers got shot in the street
-the very next day while i'm off to class
-my momma go to work cold bustin' her ass
-my sisters cute but shes got no gear
-i got three pair of pants and with my brother i share
-so there in school i made a fool
-with one and a half pair of pants, you aint cool
-cause there's no dollars for nothing else
-i got beans, rice, and bread on my shelf
-now everyday i see my momma struggling
-so now its time i got to do something
-i look for work
-i get dissed like a jerk
-i do odd jobs
-and come home like a slob
-so here comes dogg his gold is shivery
-he gives me two hundred for a quick delivery
-i do it once i do it twice
-and now there's stake with the beans and rice
-my mothers nervous but she knows the deal
-my sisters gear now has sex appeal
-my brothers my partner and were getting paper
-and three months later the whole hood cought the vapors
-my family's happy and everything is new
-now tell me what the fuck am i suppose to do
-doggz gonna get ya
-ay yo yo check this out snoop
-all these niggas always talking about
-"they looove this" and niggas got looove for you
-or nigga i looove this ride or this chin around my neck nigga
-you niggas dont know what the fuck love really mean
-nigga you cant buy love at no corner store nigga
-love aint got no price tag
-snoop i want you to kick this shit to them niggas
-hmm
-money is flowing everything is fine
-i bought my self and uzi and my brother a nine
-business is booming everyhing is cool
-i pull about a g a week, fuck school
-a year passed by and i began to grow
-not in height but juice and cash flow
-i kick up my feet to watch some t.v.
-cause now i got other people working for me
-i got a 55" television you know
-and every once in a while i hear "just say no"
-or the other commercial i love
-that's when they say this is you brain on drugs
-i pick up the remote control and just turn
-cause with this bullshit i'm not concerned
-me and my brother bounced in the benz
-we driving around our territory again
-i pull up at the light like a superstar
-an automatic weapon cold sprayed my car
-i hit the accellerater scared as shit
-i drove one block to find my brother was hit
-he wasnt dead but the blood was pouring
-and all i could think about was warren
-later i found it was dogg and his crew
-now tell mw what the fuck am i suppose to do
-yeah so now you see what i'm talkin bout nigga
-you see what that love shit do ya
-this nigga said he had love nigga and this nigga done shot yo brother
-so what the fuck you gone do now
-my brother s out of it but i'm still in it
-on top of that i'm in it to win it
-i cant believe that dogg would dis me
-that faggot that punk he soft or sissy
-i driving around with three of my guys
-the war is on and i'm on the rise
-we rolled right up to dogg's favorite hang out
-what's cracking dogg and let the bullets stang out
-someone shot back so we took cover
-and all i could about was my brother
-dogg jumped up and began to run
-bustin shots hopping to hit someone
-so i just stopped and let off three shot
-two hit that nigga and one hit a cop
-i threw down the gun and began to shout
-"ay y'all all lets break out got 'em dip out
-now as i left there goes the boys in blue
-they pointin they guns at my four man crew
-they shot down one, they shot down two
-now tell me what the fuck am i suppose to do
-ya see the moral of the story is this
-love is a motherfucka
-and doggs is a motherfucka
-you mix the two up you bound to get some drama
-loves gonna get ya
-naw nigga doggz gonna get ya you ever try to play me and thats real
-thats real
-thats real
+(dp1
+Vcute
+p2
+I1
+sVnow
+p3
+I1
+sVsprayed
+p4
+I1
+sVshot
+p5
+I6
+sVlyrics
+p6
+I2
+sVmoney
+p7
+I1
+sVboys
+p8
+I1
+sVrest
+p9
+I1
+sVgun
+p10
+I1
+sVfour
+p11
+I2
+sVcourse
+p12
+I1
+sVpaper
+p13
+I1
+sVit
+p14
+I2
+sVshake
+p15
+I1
+sVgo
+p16
+I2
+sVcorner
+p17
+I1
+sVcold
+p18
+I2
+sVstill
+p19
+I1
+sVfeat
+p20
+I1
+sVfind
+p21
+I1
+sVuzi
+p22
+I1
+sVaint
+p23
+I2
+sVapartment
+p24
+I1
+sVgold
+p25
+I1
+sVtook
+p26
+I1
+sVdoggs
+p27
+I2
+sVtv
+p28
+I2
+sVnervous
+p29
+I1
+sVconcerned
+p30
+I1
+sVyoung
+p31
+I1
+sVbullshit
+p32
+I1
+sVshout
+p33
+I1
+sVslob
+p34
+I1
+sVjumped
+p35
+I1
+sVbread
+p36
+I1
+sVrice
+p37
+I2
+sVeveryhing
+p38
+I1
+sVkick
+p39
+I2
+sVfool
+p40
+I1
+sVdo
+p41
+I3
+sVsomeone
+p42
+I2
+sVhit
+p43
+I6
+sVaround
+p44
+I3
+sVjerk
+p45
+I1
+sVget
+p46
+I7
+sVmoms
+p47
+I1
+sVrise
+p48
+I1
+sVwatch
+p49
+I2
+sVjuice
+p50
+I1
+sVbreak
+p51
+I1
+sVevery
+p52
+I1
+sVknow
+p53
+I2
+sVkiss
+p54
+I1
+sVhalf
+p55
+I1
+sVfront
+p56
+I1
+sVsay
+p57
+I2
+sVvapors
+p58
+I1
+sVday
+p59
+I2
+sVcool
+p60
+I2
+sVschool
+p61
+I3
+sVbout
+p62
+I1
+sVlike
+p63
+I3
+sVlost
+p64
+I1
+sVmothers
+p65
+I1
+sVcought
+p66
+I1
+sValways
+p67
+I1
+sVterritory
+p68
+I1
+sVbrother
+p69
+I8
+sVtalkin
+p70
+I1
+sVtry
+p71
+I1
+sVtwice
+p72
+I1
+sVsissy
+p73
+I1
+sVstopped
+p74
+I1
+sVshots
+p75
+I1
+sVcar
+p76
+I1
+sVquick
+p77
+I1
+sVwitht
+p78
+I1
+sVnine
+p79
+I1
+sVbought
+p80
+I1
+sVsoft
+p81
+I2
+sVyall
+p82
+I1
+sVears
+p83
+I1
+sVem
+p84
+I1
+sVnigga
+p85
+I10
+sVforce
+p86
+I1
+sVupstairs
+p87
+I1
+sVdeal
+p88
+I1
+sVpeople
+p89
+I1
+sVscared
+p90
+I1
+sVyeah
+p91
+I1
+sVdead
+p92
+I1
+sVsex
+p93
+I1
+sVsee
+p94
+I4
+sVstreet
+p95
+I1
+sVshes
+p96
+I1
+sVyear
+p97
+I1
+sVhome
+p98
+I1
+sVodd
+p99
+I1
+sVreally
+p100
+I1
+sVbooming
+p101
+I1
+sVshivery
+p102
+I1
+sVgon
+p103
+I5
+sVbrain
+p104
+I1
+sVdriving
+p105
+I2
+sVfine
+p106
+I1
+sVchin
+p107
+I1
+sVmw
+p108
+I1
+sVeverything
+p109
+I2
+sVmix
+p110
+I1
+sVrun
+p111
+I1
+sVwhats
+p112
+I1
+sVflowing
+p113
+I1
+sVdoggz
+p114
+I4
+sVgot
+p115
+I12
+sVappeal
+p116
+I1
+sVcause
+p117
+I4
+sVguns
+p118
+I1
+sVpants
+p119
+I2
+sVass
+p120
+I1
+sVworking
+p121
+I1
+sVjobs
+p122
+I1
+sVbusiness
+p123
+I1
+sVrolled
+p124
+I1
+sVcommercial
+p125
+I1
+sVpunch
+p126
+I1
+sVever
+p127
+I1
+sVdip
+p128
+I1
+sVlet
+p129
+I2
+sVgrow
+p130
+I1
+sVfound
+p131
+I1
+sVhand
+p132
+I1
+sVcome
+p133
+I1
+sVmotherfucka
+p134
+I2
+sVcop
+p135
+I1
+sVsister
+p136
+I1
+sVsuperstar
+p137
+I1
+sVarcade
+p138
+I1
+sVg
+I1
+sVgetting
+p139
+I1
+sVcover
+p140
+I1
+sVautomatic
+p141
+I1
+sVdollars
+p142
+I1
+sVmonths
+p143
+I1
+sVpunk
+p144
+I1
+sVdrug
+p145
+I1
+sVdrama
+p146
+I1
+sVturn
+p147
+I1
+sVnothing
+p148
+I1
+sVstang
+p149
+I1
+sVyou
+p150
+I1
+sVreal
+p151
+I3
+sVmean
+p152
+I2
+sVwhole
+p153
+I1
+sVthink
+p154
+I1
+sVcomes
+p155
+I1
+sVthats
+p156
+I5
+sVlove
+p157
+I7
+sVdont
+p158
+I3
+sVpick
+p159
+I1
+sVgrade
+p160
+I1
+sVwin
+p161
+I1
+sVbound
+p162
+I1
+sVone
+p163
+I4
+sVfeet
+p164
+I1
+sVpair
+p165
+I2
+sVmomma
+p166
+I2
+sVright
+p167
+I1
+sVdone
+p168
+I1
+sVneighborhood
+p169
+I1
+sVdrove
+p170
+I1
+sVhood
+p171
+I1
+sVpouring
+p172
+I1
+sVstory
+p173
+I1
+sVsnoop
+p174
+I3
+sVhes
+p175
+I1
+sVwould
+p176
+I1
+sVdogg
+p177
+I7
+sVtop
+p178
+I1
+sVdis
+p179
+I1
+sVthree
+p180
+I4
+sVnext
+p181
+I1
+sVpassed
+p182
+I1
+sVhundred
+p183
+I1
+sVtell
+p184
+I4
+sVstore
+p185
+I1
+sVgives
+p186
+I1
+sVback
+p187
+I1
+sVhug
+p188
+I1
+sVgear
+p189
+I2
+sVthrew
+p190
+I1
+sVdrugs
+p191
+I1
+sVshelf
+p192
+I1
+sVc
+I1
+sVnew
+p193
+I1
+sVelse
+p194
+I1
+sVdelivery
+p195
+I1
+sVhmm
+p196
+I1
+sVlets
+p197
+I1
+sVhear
+p198
+I1
+sVpointin
+p199
+I1
+sVbelieve
+p200
+I1
+sVjunior
+p201
+I1
+sVgoes
+p202
+I1
+sVme
+p203
+I3
+sVpull
+p204
+I2
+sVtelevision
+p205
+I1
+sVmade
+p206
+I1
+sVlook
+p207
+I1
+sVaccellerater
+p208
+I1
+sVniggas
+p209
+I5
+sVthis
+p210
+I1
+sV55
+p211
+I1
+sVride
+p212
+I1
+sVwork
+p213
+I2
+sVcash
+p214
+I1
+sVbed
+p215
+I1
+sVwar
+p216
+I1
+sVwarren
+p217
+I1
+sVdissed
+p218
+I1
+sVtag
+p219
+I1
+sVfamilys
+p220
+I1
+sVloves
+p221
+I1
+sVabout
+p222
+I1
+sVfaggot
+p223
+I1
+sVhappy
+p224
+I1
+sVcould
+p225
+I2
+sVchilling
+p226
+I1
+sVtheres
+p227
+I2
+sVcontrol
+p228
+I1
+sVgone
+p229
+I1
+sVpound
+p230
+I1
+sVgive
+p231
+I1
+sVwasnt
+p232
+I1
+sVfavorite
+p233
+I1
+sVblood
+p234
+I1
+sVbenz
+p235
+I2
+sVshare
+p236
+I1
+sVfuck
+p237
+I6
+sVhigh
+p238
+I1
+sVtalking
+p239
+I1
+sVcant
+p240
+I2
+sVbuy
+p241
+I1
+sVim
+p242
+I8
+sVsomething
+p243
+I1
+sVwant
+p244
+I1
+sVay
+p245
+I2
+sVpartner
+p246
+I1
+sVeveryday
+p247
+I2
+sVshit
+p248
+I4
+sVknows
+p249
+I1
+sVagain
+p250
+I1
+sVend
+p251
+I1
+sVyo
+p252
+I3
+sVsit
+p253
+I1
+sVcheck
+p254
+I1
+sVna
+p255
+I5
+sVself
+p256
+I1
+sVstake
+p257
+I1
+sVhomeboy
+p258
+I1
+sVdealer
+p259
+I1
+sVya
+p260
+I7
+sVnaw
+p261
+I1
+sVfourth
+p262
+I1
+sVbeans
+p263
+I2
+sVstruggling
+p264
+I1
+sVout
+p265
+I3
+sVroll
+p266
+I1
+sVguys
+p267
+I1
+sVweek
+p268
+I2
+sVblue
+p269
+I1
+sVplay
+p270
+I1
+sVbrothers
+p271
+I2
+sVsuppose
+p272
+I3
+sVprice
+p273
+I1
+sVmother
+p274
+I1
+sVhang
+p275
+I1
+sVstay
+p276
+I1
+sVmac
+p277
+I1
+sVsaid
+p278
+I1
+sVbullets
+p279
+I1
+sVtwo
+p280
+I4
+sVcracking
+p281
+I1
+sVsisters
+p282
+I2
+sVfriends
+p283
+I1
+sVclass
+p284
+I1
+sVman
+p285
+I2
+sVbuilding
+p286
+I1
+sVno
+p287
+I1
+sVremote
+p288
+I1
+sVneck
+p289
+I1
+sVhopping
+p290
+I1
+sVcrew
+p291
+I2
+sVlooove
+p292
+I3
+sVlight
+p293
+I1
+sVweapon
+p294
+I1
+sVlater
+p295
+I2
+sVflow
+p296
+I1
+sVbustin
+p297
+I2
+sVdecieve
+p298
+I1
+sVmoral
+p299
+I1
+sVheight
+p300
+I1
+sVblock
+p301
+I1
+sVtime
+p302
+I2
+sVbounced
+p303
+I1
+sVbegan
+p304
+I3
+sVleft
+p305
+I1
+s.

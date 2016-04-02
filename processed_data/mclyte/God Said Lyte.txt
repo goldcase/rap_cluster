@@ -1,84 +1,682 @@
-"god said lyte" lyrics
-mc lyte lyrics
-"god said lyte"
-yeah, god said lyte from the beginning of time
-i'm giving 'em rhymes of feminine kind, keeping it tight
-knockin' the edge off they shoulder
-colder than any mc, and hotter than the next
-check the text
-to the left a seagull lights the truth
-kick it to the youth, pocket full of proof
-ready to raise the roof, off the vocal booth
-put hoes back on the track cause they loose
-no one a never come there
-i have 'em going quicker than city of angels left the air last year
-don't y'all know i scorch mc's
-leave them all toast from the neck to the knees
-it's remarkable as i spark a few
-of these rhymes, some rappers find it hard to do
-goldie of the game, everything bout to change
-you gettin' stripped for ya shit, niggaz thought you knew
-i'm rhymin' and designin', also creatin'
-the dope, def rhyme that is always bein' taken
-by a sucker mc that wants to be like me, like me
-no trait of originality, none whatsoever
-don't ever second guess me, guess me
-and if you're wonderin' who could the best be
-the hip-hop maniac, uptown brainiac
-in full effect mc lyte is back
-lyte and maad phunk, we flamin' on
-and took a vacation, some of them came and gone
-when i push beef it's like flaming y'all
-tender as i serve these loose rappin' broads
-she sellin' straight up sex, by the sea shore
-we bang beats from boogie down to bk, new york
-i sport the finest of wears, your highness is here
-end your rhyming career
-i spits it like you wanna do but can't
-your skills iffy cause you tryna dance
-due to the circumstance, get your hands up high
-you know the routine, freeze 'em like a drive-by
-you know when i roll through i'm reppin' old school
-thought i told you, here let me show you, i don't know you
-fuck you, i don't owe you nothin'
-paper thin, georgie, had 'em wildin' somethin'
-i'm rhymin' and designin', also creatin'
-the dope, def rhyme that is always bein' taken
-by a sucker mc that wants to be like me, like me
-no trait of originality, none whatsoever
-don't ever second guess me, guess me
-and if you're wonderin' who could the best be
-the hip-hop maniac, uptown brainiac
-in full effect mc lyte is back
-none of these broads wanna get on a track with me
-except for digga and b, they got balls, as for the rest of y'all
-you ain't for me you against me
-means i'm coming for your stacks relentlessly
-you see they speak on a passin', lyte was a lesson
-i'm still shakin' these hoes down, without a weapon
-got you guessin' why won't this bitch ever die
-sure as you get high, we'll never see eye-to-eye
-i'm the lytro and i might go psycho
-if i'm on my psycho, act like you might know
-which way the light go, but you never will
-cause i never spill, fuck it i said it, i'm that ill
-i keeps a tight lip bout what the light hits
-i'm get excited bout what i'm gon' get
-they mad in the studio catchin' the blues
-why, cause they still can't fill my shoes
-i'm rhymin' and designin', also creatin'
-the dope, def rhyme that is always bein' taken
-by a sucker mc that wants to be like me, like me
-no trait of originality, none whatsoever
-don't ever second guess me, guess me
-and if you're wonderin' who could the best be
-the hip-hop maniac, uptown brainiac
-in full effect mc lyte is back
-i'm rhymin' and designin', also creatin'
-the dope, def rhyme that is always bein' taken
-by a sucker mc that wants to be like me, like me
-no trait of originality, none whatsoever
-don't ever second guess me, guess me
-and if you're wonderin' who could the best be
-the hip-hop maniac, uptown brainiac
-in full effect mc lyte is back
+(dp1
+Vphunk
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVdance
+p5
+I1
+sVtext
+p6
+I1
+sVnone
+p7
+I5
+sVrest
+p8
+I1
+sVever
+p9
+I5
+sVgo
+p10
+I2
+sVpsycho
+p11
+I2
+sVstill
+p12
+I2
+sVfind
+p13
+I1
+sVshoes
+p14
+I1
+sVtoast
+p15
+I1
+sVremarkable
+p16
+I1
+sVgot
+p17
+I2
+sValso
+p18
+I4
+sVexcept
+p19
+I1
+sVoriginality
+p20
+I4
+sVcircumstance
+p21
+I1
+sVgoing
+p22
+I1
+sVniggaz
+p23
+I1
+sVwhatsoever
+p24
+I4
+sVbout
+p25
+I3
+sVmight
+p26
+I2
+sVexcited
+p27
+I1
+sVkick
+p28
+I1
+sVdo
+p29
+I1
+sVget
+p30
+I5
+sVya
+p31
+I1
+sVsucker
+p32
+I4
+sVdope
+p33
+I4
+sVrhyme
+p34
+I4
+sVkind
+p35
+I1
+sVpocket
+p36
+I1
+sVgame
+p37
+I1
+sVballs
+p38
+I1
+sVknow
+p39
+I5
+sVhands
+p40
+I1
+sVpassin
+p41
+I1
+sVmaad
+p42
+I1
+sVshoulder
+p43
+I1
+sVschool
+p44
+I1
+sVlike
+p45
+I12
+sVknockin
+p46
+I1
+sVrhymin
+p47
+I4
+sVskills
+p48
+I1
+sValways
+p49
+I4
+sVgettin
+p50
+I1
+sVrelentlessly
+p51
+I1
+sVroll
+p52
+I1
+sVleave
+p53
+I1
+sVpaper
+p54
+I1
+sVtruth
+p55
+I1
+sVdie
+p56
+I1
+sVeyetoeye
+p57
+I1
+sVscorch
+p58
+I1
+sVem
+p59
+I4
+sVquicker
+p60
+I1
+sVold
+p61
+I1
+sVdue
+p62
+I1
+sVcolder
+p63
+I1
+sVhard
+p64
+I1
+sVyeah
+p65
+I1
+sVsex
+p66
+I1
+sVsecond
+p67
+I4
+sVroof
+p68
+I1
+sVsea
+p69
+I1
+sVyear
+p70
+I1
+sVtender
+p71
+I1
+sVwont
+p72
+I1
+sVblues
+p73
+I1
+sVsport
+p74
+I1
+sVbest
+p75
+I4
+sVknees
+p76
+I1
+sVsaid
+p77
+I4
+sVgiving
+p78
+I1
+sVgod
+p79
+I3
+sVboogie
+p80
+I1
+sVlights
+p81
+I1
+sVrhymes
+p82
+I2
+sVroutine
+p83
+I1
+sVnew
+p84
+I1
+sVdesignin
+p85
+I4
+sVcause
+p86
+I4
+sVtold
+p87
+I1
+sVbe
+p88
+I4
+sVfull
+p89
+I5
+sVwears
+p90
+I1
+sVill
+p91
+I1
+sVspits
+p92
+I1
+sVdriveby
+p93
+I1
+sVloose
+p94
+I2
+sVhere
+p95
+I1
+sVbk
+p96
+I1
+sVlet
+p97
+I1
+sVyork
+p98
+I1
+sVput
+p99
+I1
+sVspark
+p100
+I1
+sVcome
+p101
+I1
+sVchange
+p102
+I1
+sVon
+p103
+I1
+sVhits
+p104
+I1
+sVlast
+p105
+I1
+sVmaniac
+p106
+I4
+sVcareer
+p107
+I1
+sVcould
+p108
+I4
+sVgoldie
+p109
+I1
+sVguessin
+p110
+I1
+sVyall
+p111
+I3
+sVact
+p112
+I1
+sVstudio
+p113
+I1
+sVproof
+p114
+I1
+sVwildin
+p115
+I1
+sVfinest
+p116
+I1
+sVdont
+p117
+I7
+sVkeeps
+p118
+I1
+sVowe
+p119
+I1
+sVcreatin
+p120
+I4
+sVone
+p121
+I1
+sVwill
+p122
+I1
+sVbitch
+p123
+I1
+sVuptown
+p124
+I4
+sVlesson
+p125
+I1
+sVwan
+p126
+I2
+sVspeak
+p127
+I1
+sVcity
+p128
+I1
+sVguess
+p129
+I8
+sVraise
+p130
+I1
+sVbeef
+p131
+I1
+sVaint
+p132
+I1
+sVlyte
+p133
+I10
+sVbeginning
+p134
+I1
+sVthere
+p135
+I1
+sVvacation
+p136
+I1
+sVnext
+p137
+I1
+sVreppin
+p138
+I1
+sVfew
+p139
+I1
+sVway
+p140
+I1
+sVtaken
+p141
+I4
+sVmeans
+p142
+I1
+sVangels
+p143
+I1
+sVwants
+p144
+I4
+sVtryna
+p145
+I1
+sVtrait
+p146
+I4
+sVserve
+p147
+I1
+sVtook
+p148
+I1
+sVback
+p149
+I5
+sVfeminine
+p150
+I1
+sVcatchin
+p151
+I1
+sVlytro
+p152
+I1
+sVfreeze
+p153
+I1
+sVmcs
+p154
+I1
+sVhighness
+p155
+I1
+sVme
+p156
+I10
+sVkeeping
+p157
+I1
+sVb
+I1
+sVrappin
+p158
+I1
+sVmc
+p159
+I10
+sVgeorgie
+p160
+I1
+sVstraight
+p161
+I1
+sVspill
+p162
+I1
+sVcant
+p163
+I2
+sVvocal
+p164
+I1
+sVair
+p165
+I1
+sVyouth
+p166
+I1
+sVbroads
+p167
+I2
+sVthin
+p168
+I1
+sVseagull
+p169
+I1
+sVweapon
+p170
+I1
+sVdef
+p171
+I4
+sVbooth
+p172
+I1
+sVgone
+p173
+I1
+sVhotter
+p174
+I1
+sVstripped
+p175
+I1
+sVhoes
+p176
+I2
+sVfuck
+p177
+I2
+sVhigh
+p178
+I2
+sVbeats
+p179
+I1
+sVim
+p180
+I13
+sVnothin
+p181
+I1
+sVready
+p182
+I1
+sVcheck
+p183
+I1
+sVshit
+p184
+I1
+sVfill
+p185
+I1
+sVend
+p186
+I1
+sVsellin
+p187
+I1
+sVna
+p188
+I2
+sVflaming
+p189
+I1
+sVtight
+p190
+I2
+sVshakin
+p191
+I1
+sVwithout
+p192
+I1
+sVlip
+p193
+I1
+sVdigga
+p194
+I1
+sVyou
+p195
+I1
+sVbein
+p196
+I4
+sVwonderin
+p197
+I4
+sVsure
+p198
+I1
+sVsee
+p199
+I2
+sVtrack
+p200
+I2
+sVrappers
+p201
+I1
+sVknew
+p202
+I1
+sVeffect
+p203
+I4
+sVhiphop
+p204
+I4
+sVgon
+p205
+I1
+sVmad
+p206
+I1
+sVnever
+p207
+I4
+sVcoming
+p208
+I1
+sVflamin
+p209
+I1
+sVsomethin
+p210
+I1
+sVneck
+p211
+I1
+sVlight
+p212
+I2
+sVrhyming
+p213
+I1
+sVyoure
+p214
+I4
+sVwell
+p215
+I1
+sVbang
+p216
+I1
+sViffy
+p217
+I1
+sVthought
+p218
+I2
+sVbrainiac
+p219
+I4
+sVshore
+p220
+I1
+sVedge
+p221
+I1
+sVtime
+p222
+I1
+sVpush
+p223
+I1
+sVeverything
+p224
+I1
+sVstacks
+p225
+I1
+sVcame
+p226
+I1
+sVleft
+p227
+I2
+s.

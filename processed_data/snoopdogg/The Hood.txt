@@ -1,78 +1,623 @@
-"the hood" lyrics
-snoop dogg lyrics
-"the hood"
-(with tha dogg pound)
-everything i do is for the hood
-i'll probably never leave from my hood, my hood
-get a lot of love in the hood, the hood
-that's why i represent for my hood, my hood
-no matter how much money that i got
-my home sweet home's right here on the block
-b side counting all this gwap, this is all a nigga got
-watching for them haters and them fakers and them traders
-catch me on the other side, with all the money makers
-shout out to my home girl, hustling like it's niggas too
-shooting dice and pimping few, doing what them bitches do
-surviving, tying the knot, keep my chucks laced
-east side since i trip and fall, fieets i'm stumble on a pay
-see i'm hood rich with a hood bitch, you know all that hood shit
-pull up and i pull fast, bagging up on your ass quick
-worldwide, hood at your confrontation
-niggas blasting motivation, niggas flashing
-get money, yeah that's what happening
-i'm proud of the pills, purp, paper, the pussy poppin
-bitches in short skirts keeping the clock pocking
-life on the block, drop top from old schools
-fights in the club, niggas must remain loose
-everything i do is for the hood (is for the hood)
-i'll probably never leave from my hood (it's for the hood)
-get a lot of love in the hood (worldwide)
-that's why i represent for my hood, hood
-hey yo, it's closing weather up rainin here
-you know i'm from the hood, yeah i don't care
-one in a new, new, can it be
-regardless the problems, gonna keep it g
-that's a burglar life, i can adapt too
-house full of niggas like trap do
-do know its' real shit, baby this ain't no add fool
-run up in that old school, run up in a new school
-smoking so we yeah roll with the tutu
-dbcg, that's my crew, tell me what the fuck would you do?
-no busters, no marks, have money, have heart
-we scapes in the day time, but we vicious at dark
-on your mark, get set, go, start
-did to grab it in, have money, fuck friends
-help day we get it in, you see we here in the street
-can't stand for defeat, in jail nigga all leave them 6 feet deep
-shout out to og's bg's and yg's
-i'm proud of the pills, purp, paper, the pussy poppin
-bitches in short skirts keeping the clock pocking
-life on the block, drop top from old schools
-fights in the club, niggas must remain loose
-everything i do is for the hood (is for the hood)
-i'll probably never leave from my hood (from the hood)
-get a lot of love in the hood (in the hood)
-that's why i represent for my hood, my hood
-you know i climbed from the bottom, yeah i made it out the hood
-got them goons popping at you, just to make it understood
-you can't claim cob without being up in the streets
-grow up in the trenches yea maneuver all throughout the streets
-at a certain time at night, clutching on that heat
-for them gangster pimps and busters ass, niggas on the street
-in the hood it's only good just for them i'm upon the block
-we cannot ever leave this spot, because we served in rock
-i'mma go see the stripper, see who the big tipper
-fuck the vip, i'm in the front with my niggas
-make it rain on some bitches, yeah we parking lot pixie
-couple niggas i ain't trippin, that's the life that i'm living, cause i'm
-i'm proud of the pills, purp, paper, the pussy poppin
-bitches in short skirts keeping the clock pocking
-life on the block, drop top from old schools
-fights in the club, niggas must remain loose
-everything i do is for the hood (it's for the hood)
-i'll probably never leave from my hood (that's right)
-get a lot of love in the hood (in the time)
-that's why i represent for my hood
-shout out to everybody from the hood
-no matter what color you are
-you dig?
+(dp1
+Vrepresent
+p2
+I4
+sVbottom
+p3
+I1
+sVset
+p4
+I1
+sVhelp
+p5
+I1
+sVlyrics
+p6
+I2
+sVgwap
+p7
+I1
+sVyea
+p8
+I1
+sVmoney
+p9
+I5
+sVtrenches
+p10
+I1
+sVbaby
+p11
+I1
+sVpaper
+p12
+I3
+sVgo
+p13
+I2
+sVregardless
+p14
+I1
+sVaint
+p15
+I2
+sVlaced
+p16
+I1
+sVdice
+p17
+I1
+sVclutching
+p18
+I1
+sVpoppin
+p19
+I3
+sVcrew
+p20
+I1
+sVshout
+p21
+I3
+sVrich
+p22
+I1
+sVpussy
+p23
+I3
+sVdbcg
+p24
+I1
+sVflashing
+p25
+I1
+sVeast
+p26
+I1
+sVspot
+p27
+I1
+sVreal
+p28
+I1
+sVdo
+p29
+I3
+sVgood
+p30
+I1
+sVyo
+p31
+I1
+sVwatching
+p32
+I1
+sVbig
+p33
+I1
+sVcouple
+p34
+I1
+sVrock
+p35
+I1
+sVhomes
+p36
+I1
+sVmarks
+p37
+I1
+sVgoons
+p38
+I1
+sVmade
+p39
+I1
+sVknow
+p40
+I4
+sVknot
+p41
+I1
+sVfall
+p42
+I1
+sVschools
+p43
+I3
+sVtutu
+p44
+I1
+sVday
+p45
+I2
+sVtrippin
+p46
+I1
+sVschool
+p47
+I2
+sVlike
+p48
+I2
+sVcause
+p49
+I1
+sVdrop
+p50
+I3
+sVleave
+p51
+I6
+sVweather
+p52
+I1
+sVtrap
+p53
+I1
+sVnight
+p54
+I1
+sVquick
+p55
+I1
+sVserved
+p56
+I1
+sVgrab
+p57
+I1
+sVside
+p58
+I3
+sVright
+p59
+I2
+sVold
+p60
+I4
+sVmaneuver
+p61
+I1
+sVhouse
+p62
+I1
+sVstreets
+p63
+I2
+sVyeah
+p64
+I5
+sVunderstood
+p65
+I1
+sVsee
+p66
+I4
+sVfull
+p67
+I1
+sVare
+p68
+I1
+sVparking
+p69
+I1
+sVdig
+p70
+I1
+sVhome
+p71
+I2
+sVgirl
+p72
+I1
+sVmakers
+p73
+I1
+sVpopping
+p74
+I1
+sVbagging
+p75
+I1
+sVliving
+p76
+I1
+sVgon
+p77
+I1
+sVclock
+p78
+I3
+sVfieets
+p79
+I1
+sVsince
+p80
+I1
+sVbusters
+p81
+I2
+sVeverything
+p82
+I4
+sVadapt
+p83
+I1
+sVprobably
+p84
+I4
+sVever
+p85
+I1
+sVass
+p86
+I2
+sVbe
+p87
+I1
+sVscapes
+p88
+I1
+sVloose
+p89
+I3
+sVrun
+p90
+I2
+sVgot
+p91
+I3
+sVnever
+p92
+I4
+sVhere
+p93
+I1
+sVadd
+p94
+I1
+sVconfrontation
+p95
+I1
+sVupon
+p96
+I1
+sVcare
+p97
+I1
+sVwould
+p98
+I1
+sVg
+I1
+sVpimping
+p99
+I1
+sVill
+p100
+I4
+sVclimbed
+p101
+I1
+sVkeep
+p102
+I2
+sVimma
+p103
+I1
+sVbgs
+p104
+I1
+sVstand
+p105
+I1
+sVdefeat
+p106
+I1
+sVblock
+p107
+I5
+sVthats
+p108
+I9
+sVlove
+p109
+I4
+sVdont
+p110
+I1
+sVsurviving
+p111
+I1
+sVheart
+p112
+I1
+sVcolor
+p113
+I1
+sVsweet
+p114
+I1
+sVone
+p115
+I1
+sVfeet
+p116
+I1
+sVvip
+p117
+I1
+sVnigga
+p118
+I2
+sVfakers
+p119
+I1
+sVbitch
+p120
+I1
+sVthroughout
+p121
+I1
+sVstumble
+p122
+I1
+sVhood
+p123
+I37
+sVeverybody
+p124
+I1
+sVburglar
+p125
+I1
+sVsnoop
+p126
+I1
+sVdogg
+p127
+I2
+sVtop
+p128
+I3
+sVhey
+p129
+I1
+sVfast
+p130
+I1
+sVmark
+p131
+I1
+sVstart
+p132
+I1
+sVmuch
+p133
+I1
+sVtoo
+p134
+I2
+sVlot
+p135
+I5
+sV6
+I1
+sVtell
+p136
+I1
+sVlife
+p137
+I5
+sVclub
+p138
+I3
+sVbitches
+p139
+I5
+sVchucks
+p140
+I1
+sVogs
+p141
+I1
+sVrainin
+p142
+I1
+sVpixie
+p143
+I1
+sVheat
+p144
+I1
+sVtying
+p145
+I1
+sVcatch
+p146
+I1
+sVsmoking
+p147
+I1
+sVhaters
+p148
+I1
+sVmust
+p149
+I3
+sVpull
+p150
+I2
+sVkeeping
+p151
+I3
+sVb
+I1
+sVniggas
+p152
+I10
+sVgangster
+p153
+I1
+sVclaim
+p154
+I1
+sVmatter
+p155
+I2
+sVremain
+p156
+I3
+sVstreet
+p157
+I2
+sVcan
+p158
+I1
+sVygs
+p159
+I1
+sVclosing
+p160
+I1
+sVskirts
+p161
+I3
+sVfool
+p162
+I1
+sVmotivation
+p163
+I1
+sVpound
+p164
+I1
+sVcertain
+p165
+I1
+sVfights
+p166
+I3
+sVfuck
+p167
+I3
+sVdeep
+p168
+I1
+sVcant
+p169
+I2
+sVim
+p170
+I10
+sVcounting
+p171
+I1
+sVtrip
+p172
+I1
+sVshit
+p173
+I2
+sVstripper
+p174
+I1
+sVpocking
+p175
+I3
+sVshooting
+p176
+I1
+sVnot
+p177
+I1
+sVpay
+p178
+I1
+sVmake
+p179
+I2
+sVget
+p180
+I7
+sVpills
+p181
+I3
+sVtraders
+p182
+I1
+sVcob
+p183
+I1
+sVfront
+p184
+I1
+sVnew
+p185
+I3
+sVhustling
+p186
+I1
+sVroll
+p187
+I1
+sVworldwide
+p188
+I2
+sVtipper
+p189
+I1
+sVblasting
+p190
+I1
+sVtime
+p191
+I3
+sVproblems
+p192
+I1
+sVvicious
+p193
+I1
+sVrain
+p194
+I1
+sVpimps
+p195
+I1
+sVpurp
+p196
+I3
+sVfriends
+p197
+I1
+sVgrow
+p198
+I1
+sVdark
+p199
+I1
+sVshort
+p200
+I3
+sVhappening
+p201
+I1
+sVproud
+p202
+I3
+sVwithout
+p203
+I1
+sVjail
+p204
+I1
+sVna
+p205
+I1
+sVtha
+p206
+I1
+s.

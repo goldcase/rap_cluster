@@ -1,48 +1,113 @@
-"get away" lyrics
-snoop dogg lyrics
-"get away"
-(feat. angela hunte)
-gotta get away
-gotta get away
-to a place i love
-to a place i love
-gotta get away
-gotta get away
-to a place i love
-to a place i love
-‘cause when them boys in my shooting
-they i’m missing on a dark play
-‘cause when you at them and tell them
-and the gun fill them belly
-and grown enough so you can be the last living crew for
-the euphoria, the euphoria
-shoot
-gotta get away
-gotta get away
-to a place i love
-to a place i love
-you gonna have to jump on it
-you gonna have to lift it
-you gonna have to jump on it
-you gonna have to lift it
-you gonna have to jump on it
-you gonna have to lift it
-you gonna have to jump on it
-you gonna have to lift it
-‘cause when you at them and tell them
-and the gun fill them belly
-and grown enough so you can be the last living crew for
-the euphoria , the euphoria
-shoot
-gotta get away
-gotta get away
-to a place i love
-to a place i love
-gotta get away
-gotta get away
-to a place i love
-to a place i love
-gotta get away
-gotta get away
-to a place i love
-to a place i love
+(dp1
+Vlove
+p2
+I12
+sVlyrics
+p3
+I2
+sVthem
+p4
+I2
+sVgun
+p5
+I2
+sVjump
+p6
+I4
+sVshooting
+p7
+I1
+sVfeat
+p8
+I1
+sVfill
+p9
+I2
+sVgrown
+p10
+I2
+sVliving
+p11
+I2
+sVgon
+p12
+I8
+sVsnoop
+p13
+I1
+sVdogg
+p14
+I1
+sVaway
+p15
+I14
+sV\u2018cause
+p16
+I3
+sVangela
+p17
+I1
+sVcrew
+p18
+I2
+sVenough
+p19
+I2
+sVbelly
+p20
+I2
+sVgot
+p21
+I12
+sVtell
+p22
+I2
+sVta
+p23
+I12
+sVplay
+p24
+I1
+sVget
+p25
+I14
+sVi\u2019m
+p26
+I1
+sVit
+p27
+I8
+sVdark
+p28
+I1
+sVboys
+p29
+I1
+sVlift
+p30
+I4
+sVeuphoria
+p31
+I4
+sVshoot
+p32
+I2
+sVlast
+p33
+I2
+sVfor
+p34
+I2
+sVhunte
+p35
+I1
+sVplace
+p36
+I12
+sVna
+p37
+I8
+sVmissing
+p38
+I1
+s.

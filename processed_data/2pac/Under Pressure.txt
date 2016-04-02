@@ -1,102 +1,703 @@
-"under pressure" lyrics
-2pac lyrics
-"under pressure"
-under pressure
-yeah, babyyy
-when tha pressures on...
-when it's on it's on
-one of these days i'll
-learn
-don't fuck with trick ass niggas
-cause they
-turn into bitch ass niggas
-i'm sick of bein stuck in tha county jail
-my niggas clown
-bring a pound
-when they posten bail
-smokein' blunts in tha driveway
-my four-five screamin
-fuck tha police
-won't fly away, thug, till i die
-you wonder why i'm made this way
-i wasn't
-turned out
-i was raised this way
-of thinkin
-these are tha dreams of a young teen
-sceam, and stack green on tha crack fiends
-one time can't hold me
-one of these days
-we gotta bust back for tha homies
-locked down in tha penitentry
-finaly loose my mind
-if tha pigs succeed
-stress, smoken weed and nicoteen
-but what a nigga really need is thorozine
-right before i die
-i'll be curseing tha law
-reincarnated bitch even worse than before
-my four-four's givin payback
-my underhanded plan
-to get them niggas while they laid back
-and big stretch hit tha scene with tha mini 14
-servin suckers like dope fiends
-and lead tha whole team
-under pressure nigga
-that's right
-never run
-throw your gun in tha air
-oh yeah
-nigga bust ain't no time to spare
-called tha ruffest mothafucker and we fuck shit up
-and with tha stainless steel , we cut shit up
-flash and blast a nigga with tha quickness
-cock tha four pound motherfucker when i spit this and rip this
-damn, my mind is in tha depths of hell
-but when i'm walking on tha street kid my name rings bells
-and i never fell
-nigga i stand to tall
-i'm just a thug motherfucker who was born to brawl
-givin my all
-so niggas wanna bring it to me
-so i'ma sell my cocain
-and lay they ass down 'g'
-under pressure
-yeah, look here tho
-runnin wild
-i never smiled as a juvenile
-even now i keep a frown when i come around
-don't ask me about tha past
-it was all bad
-shots blasted
-will i last
-in tha wrong path
-in tha dark is where my heart saw tha most grief
-mothafuckers is getten shanked over gold teeth
-am i sick ?
-cause i'm addicted to get splifted
-watch tha stupid ass tricks get lifted
-nothens changed
-cause in tha came it's a steady aim
-fuck friends
-cause when in danger those niggas change
-puff weed
-and stuff g's in my sock g
-call ki's and hennessy where tha glock be
-times passen will i last here another day
-i put my gun away
-and grab my ak
-it's getten hectic
-i can't call it
-house full of alcoholics
-now we're niggas under pressure
-yeah, that's right...
-under pressure, we're niggas under pressure
-yeah
-when tha pressures on it's a hit
-ski mask
-extra gats
-bring tha clips
-don't nobody move when we walk tha streets
-they stay silent
-cause talk is cheap
+(dp1
+Vwalking
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVlay
+p5
+I1
+sVmove
+p6
+I1
+sVcheap
+p7
+I1
+sVall
+p8
+I1
+sVruffest
+p9
+I1
+sVfour
+p10
+I1
+sVbring
+p11
+I3
+sVreincarnated
+p12
+I1
+sVhell
+p13
+I1
+sVbail
+p14
+I1
+sVbefore
+p15
+I1
+sVaint
+p16
+I1
+sVsteel
+p17
+I1
+sVcut
+p18
+I1
+sVpolice
+p19
+I1
+sVgivin
+p20
+I2
+sVflash
+p21
+I1
+sVyoung
+p22
+I1
+sVbust
+p23
+I2
+sVnothens
+p24
+I1
+sVhomies
+p25
+I1
+sVski
+p26
+I1
+sVta
+p27
+I1
+sVme
+p28
+I2
+sVhit
+p29
+I2
+sVworse
+p30
+I1
+sVget
+p31
+I3
+sVbig
+p32
+I1
+sVbein
+p33
+I1
+sVwatch
+p34
+I1
+sVdark
+p35
+I1
+sVquickness
+p36
+I1
+sVmade
+p37
+I1
+sVjail
+p38
+I1
+sVsplifted
+p39
+I1
+sVthey
+p40
+I1
+sVpayback
+p41
+I1
+sVblast
+p42
+I1
+sVday
+p43
+I1
+sVdreams
+p44
+I1
+sVname
+p45
+I1
+sVwont
+p46
+I1
+sVthorozine
+p47
+I1
+sVlike
+p48
+I1
+sVdie
+p49
+I2
+sVservin
+p50
+I1
+sVgun
+p51
+I2
+sVclown
+p52
+I1
+sVbad
+p53
+I1
+sVstupid
+p54
+I1
+sVshots
+p55
+I1
+sVteam
+p56
+I1
+sVaddicted
+p57
+I1
+sVgrab
+p58
+I1
+sVout
+p59
+I1
+sVlifted
+p60
+I1
+sVnigga
+p61
+I5
+sVbe
+p62
+I1
+sVhouse
+p63
+I1
+sVstreets
+p64
+I1
+sVyeah
+p65
+I5
+sVaround
+p66
+I1
+sVpast
+p67
+I1
+sVborn
+p68
+I1
+sVstreet
+p69
+I1
+sVdriveway
+p70
+I1
+sVwonder
+p71
+I1
+sVeven
+p72
+I2
+sVaim
+p73
+I1
+sVfourfive
+p74
+I1
+sVlead
+p75
+I1
+sVaway
+p76
+I2
+sVextra
+p77
+I1
+sVrings
+p78
+I1
+sVtricks
+p79
+I1
+sVpressures
+p80
+I2
+sVlaid
+p81
+I1
+sVstuff
+p82
+I1
+sVit
+p83
+I1
+sVgot
+p84
+I1
+sVcause
+p85
+I5
+sVass
+p86
+I4
+sVima
+p87
+I1
+sVnever
+p88
+I3
+sVrun
+p89
+I1
+sVbrawl
+p90
+I1
+sVloose
+p91
+I1
+sVmotherfucker
+p92
+I2
+sVpressure
+p93
+I8
+sVsucceed
+p94
+I1
+sVspare
+p95
+I1
+sVhectic
+p96
+I1
+sVask
+p97
+I1
+sVsuckers
+p98
+I1
+sVstay
+p99
+I1
+sVcome
+p100
+I1
+sVthrow
+p101
+I1
+sVblasted
+p102
+I1
+sVon
+p103
+I2
+sVgetten
+p104
+I2
+sVlast
+p105
+I2
+sVunderhanded
+p106
+I1
+sVg
+I2
+sVoh
+p107
+I1
+sVill
+p108
+I2
+sVchanged
+p109
+I1
+sVdays
+p110
+I2
+sVscreamin
+p111
+I1
+sVkeep
+p112
+I1
+sVturn
+p113
+I1
+sVfell
+p114
+I1
+sVstand
+p115
+I1
+sVpuff
+p116
+I1
+sVwhole
+p117
+I1
+sVthats
+p118
+I2
+sVraised
+p119
+I1
+sVdont
+p120
+I3
+sVheart
+p121
+I1
+sVscene
+p122
+I1
+sVone
+p123
+I3
+sVcounty
+p124
+I1
+sVput
+p125
+I1
+sVright
+p126
+I3
+sVbitch
+p127
+I2
+sVanother
+p128
+I1
+sVpath
+p129
+I1
+sVrunnin
+p130
+I1
+sVblunts
+p131
+I1
+sVwan
+p132
+I1
+sVsilent
+p133
+I1
+sVstretch
+p134
+I1
+sVstainless
+p135
+I1
+sVsock
+p136
+I1
+sVstuck
+p137
+I1
+sVdamn
+p138
+I1
+sVchange
+p139
+I1
+sVway
+p140
+I2
+sVpenitentry
+p141
+I1
+sVcall
+p142
+I2
+sVpassen
+p143
+I1
+sVteen
+p144
+I1
+sVglock
+p145
+I1
+sVspit
+p146
+I1
+sVmind
+p147
+I2
+sVcrack
+p148
+I1
+sVhennessy
+p149
+I1
+sVback
+p150
+I2
+sVgrief
+p151
+I1
+sVmothafuckers
+p152
+I1
+sVcurseing
+p153
+I1
+sVposten
+p154
+I1
+sVgold
+p155
+I1
+sVhold
+p156
+I1
+sV2pac
+p157
+I1
+sVfly
+p158
+I1
+sVfiends
+p159
+I2
+sVlocked
+p160
+I1
+sV14
+p161
+I1
+sVfull
+p162
+I1
+sVniggas
+p163
+I8
+sVthis
+p164
+I1
+sVup
+p165
+I2
+sVair
+p166
+I1
+sVtrick
+p167
+I1
+sVlearn
+p168
+I1
+sVwild
+p169
+I1
+sVcock
+p170
+I1
+sVcalled
+p171
+I1
+sVmini
+p172
+I1
+sVjuvenile
+p173
+I1
+sVpound
+p174
+I2
+sVlook
+p175
+I1
+sVwasnt
+p176
+I1
+sVmask
+p177
+I1
+sVak
+p178
+I1
+sVturned
+p179
+I1
+sVfuck
+p180
+I4
+sVrip
+p181
+I1
+sVdanger
+p182
+I1
+sVneed
+p183
+I1
+sVcant
+p184
+I2
+sVim
+p185
+I5
+sVcocain
+p186
+I1
+sVthug
+p187
+I2
+sVnicoteen
+p188
+I1
+sVtimes
+p189
+I1
+sVsaw
+p190
+I1
+sVshit
+p191
+I2
+sVfrown
+p192
+I1
+sVsell
+p193
+I1
+sVshanked
+p194
+I1
+sVna
+p195
+I1
+sVthinkin
+p196
+I1
+sVgats
+p197
+I1
+sVwalk
+p198
+I1
+sVtill
+p199
+I1
+sVsick
+p200
+I2
+sVsmokein
+p201
+I1
+sVreally
+p202
+I1
+sVdope
+p203
+I1
+sVbells
+p204
+I1
+sVnobody
+p205
+I1
+sVkis
+p206
+I1
+sVteeth
+p207
+I1
+sVweed
+p208
+I2
+sVdepths
+p209
+I1
+sVwrong
+p210
+I1
+sVpigs
+p211
+I1
+sVplan
+p212
+I1
+sVsmiled
+p213
+I1
+sVfinaly
+p214
+I1
+sVlaw
+p215
+I1
+sVfriends
+p216
+I1
+sVstack
+p217
+I1
+sVkid
+p218
+I1
+sVclips
+p219
+I1
+sVstress
+p220
+I1
+sVmothafucker
+p221
+I1
+sVsceam
+p222
+I1
+sVfourfours
+p223
+I1
+sVsteady
+p224
+I1
+sVtho
+p225
+I1
+sVsmoken
+p226
+I1
+sValcoholics
+p227
+I1
+sVgreen
+p228
+I1
+sVcame
+p229
+I1
+sVtime
+p230
+I2
+sVbabyyy
+p231
+I1
+sVtall
+p232
+I1
+sVtalk
+p233
+I1
+sVtha
+p234
+I30
+s.

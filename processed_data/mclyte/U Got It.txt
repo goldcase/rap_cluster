@@ -1,66 +1,426 @@
-"u got it" lyrics
-mc lyte lyrics
-"u got it"
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-pop that crys, mr. juicy lips
-what i gotta do for you to ride these hips
-slide to the whip, ride to the strip
-get a place on the low, right off fifth
-low lights, move right, seats real cushy
-make a move on you, hope i ain't too pushy
-i like the way we vibe
-but there's something about you baby that's making me hot
-and i don't smoke, but i will take a tote for you
-i see you risin', tell me what ya going through
-you wanna what, oh shit, now you talkin' to me
-that sexy shit gon' bring out the new york in me
-i know you heard me say it before, lyte as a rock
-i hope you knock, come on baby, put it on the spot
-by that knot in your jeans i see you holdin' a lot
-you makin' me hot, so show me what you got
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-you lookin' good chick, i wanna get that
-tell me what i gotta do to get with that
-you lookin' good girl, i wanna get that (aha)
-tell me what i gotta do to get with that
-at the club i gotta preview
-you followin' me, i can see you in the rear views
-you swallowin' me, every word that you heard me say
-rolled up the elevator, ran down the hallway
-blast through the doorway, pause
-you gon' make me drop my drawers
-x that nigga, come out yours
-back's real big and shoulders broad
-six pack, let me hit that with your thick back
-from the kitchen floor to the jacuzzi
-anywhere we do it, you gon' salute me
-i got the whipped cream, i got the magazines
-before we hit it you gon' have to get that ass clean
-get that hat boy, and crack that back boy
-and don't be scared if i smack it from the back boy
-i'm feeling sticky like i'm hot from the sun, oh
-what you sayin', you ain't got one
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-you lookin' good boy, you got that fire now
-so you a hot boy, i'll be your hot toy
-you know the routine, rub up on my blue jeans
-and if you do it good, well then you got me
-and if you do it good, good, well then you got me, me
-well then you got me, me, ooh, ooh, ooh, pause
+(dp1
+Vsix
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmove
+p5
+I2
+sVbring
+p6
+I1
+sVjacuzzi
+p7
+I1
+sVthrough
+p8
+I1
+sVseats
+p9
+I1
+sVfifth
+p10
+I1
+sVaint
+p11
+I2
+sVblast
+p12
+I1
+sVsayin
+p13
+I1
+sVjuicy
+p14
+I1
+sVcushy
+p15
+I1
+sVgoing
+p16
+I1
+sVcrack
+p17
+I1
+sVfollowin
+p18
+I1
+sVhat
+p19
+I1
+sVhope
+p20
+I2
+sVta
+p21
+I4
+sVreal
+p22
+I2
+sVgood
+p23
+I16
+sVhit
+p24
+I2
+sVget
+p25
+I7
+sVya
+p26
+I1
+sVbig
+p27
+I1
+sVsmack
+p28
+I1
+sVevery
+p29
+I1
+sVknow
+p30
+I7
+sVknot
+p31
+I1
+sVnew
+p32
+I1
+sVnow
+p33
+I6
+sVrear
+p34
+I1
+sVknock
+p35
+I1
+sVlike
+p36
+I2
+sVdrop
+p37
+I1
+sVslide
+p38
+I1
+sVholdin
+p39
+I1
+sVwhipped
+p40
+I1
+sVrock
+p41
+I1
+sVchick
+p42
+I1
+sVright
+p43
+I2
+sVpushy
+p44
+I1
+sVscared
+p45
+I1
+sVback
+p46
+I3
+sVlips
+p47
+I1
+sVgirl
+p48
+I1
+sVwhip
+p49
+I1
+sVblue
+p50
+I6
+sVgon
+p51
+I4
+sVtote
+p52
+I1
+sVbroad
+p53
+I1
+sVlights
+p54
+I1
+sVroutine
+p55
+I6
+sVgot
+p56
+I24
+sVsalute
+p57
+I1
+sVass
+p58
+I1
+sVrub
+p59
+I6
+sVpause
+p60
+I2
+sVlet
+p61
+I1
+sVyork
+p62
+I1
+sVx
+I1
+sVput
+p63
+I1
+sVsexy
+p64
+I1
+sVcome
+p65
+I2
+sVkitchen
+p66
+I1
+sVboy
+p67
+I15
+sVoh
+p68
+I2
+sVill
+p69
+I6
+sVdrawers
+p70
+I1
+sVdoorway
+p71
+I1
+sVplace
+p72
+I1
+sVsmoke
+p73
+I1
+sVpack
+p74
+I1
+sVswallowin
+p75
+I1
+sVthats
+p76
+I1
+sVaha
+p77
+I1
+sVdont
+p78
+I2
+sVjeans
+p79
+I7
+sVmakin
+p80
+I1
+sVpop
+p81
+I1
+sVone
+p82
+I1
+sVnigga
+p83
+I1
+sVmagazines
+p84
+I1
+sVstrip
+p85
+I1
+sVthick
+p86
+I1
+sVwan
+p87
+I3
+sVtoy
+p88
+I6
+sVlyte
+p89
+I2
+sVelevator
+p90
+I1
+sVlow
+p91
+I2
+sVway
+p92
+I1
+sVpreview
+p93
+I1
+sVtell
+p94
+I3
+sVshoulders
+p95
+I1
+sVlot
+p96
+I1
+sVthat
+p97
+I3
+sVfire
+p98
+I6
+sVooh
+p99
+I3
+sVcrys
+p100
+I1
+sVbaby
+p101
+I2
+sVme
+p102
+I10
+sVword
+p103
+I1
+sVmc
+p104
+I1
+sVride
+p105
+I2
+sVsee
+p106
+I3
+sVanywhere
+p107
+I1
+sVmr
+p108
+I1
+sVmaking
+p109
+I1
+sVfeeling
+p110
+I1
+sVtheres
+p111
+I1
+sVran
+p112
+I1
+sVit
+p113
+I1
+sVsticky
+p114
+I1
+sVheard
+p115
+I2
+sVsay
+p116
+I2
+sVim
+p117
+I2
+sVsomething
+p118
+I1
+sVrolled
+p119
+I1
+sVshit
+p120
+I2
+sVcream
+p121
+I1
+sVfloor
+p122
+I1
+sVvibe
+p123
+I1
+sVna
+p124
+I3
+sVmake
+p125
+I2
+sVviews
+p126
+I1
+sVbacks
+p127
+I1
+sVclub
+p128
+I1
+sVhot
+p129
+I15
+sVtake
+p130
+I1
+sVyou
+p131
+I1
+sVtalkin
+p132
+I1
+sVhallway
+p133
+I1
+sVlookin
+p134
+I8
+sVspot
+p135
+I1
+sVrisin
+p136
+I1
+sVwell
+p137
+I8
+sVu
+I2
+sVclean
+p138
+I1
+sVsun
+p139
+I1
+sVyours
+p140
+I1
+sVhips
+p141
+I1
+s.

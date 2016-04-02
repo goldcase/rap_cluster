@@ -1,6 +1,44 @@
-"name tag (premier & the guru)" lyrics
-gang starr lyrics
-"name tag (premier & the guru)"
-the dj's name is premier, and i'm the guru
-will you please!
-will you please, take your seats and clear the aisles?!
+(dp1
+Vdjs
+p2
+I1
+sVname
+p3
+I3
+sVlyrics
+p4
+I2
+sVguru
+p5
+I3
+sVseats
+p6
+I1
+sVclear
+p7
+I1
+sVpremier
+p8
+I3
+sVplease
+p9
+I2
+sVtag
+p10
+I2
+sVim
+p11
+I1
+sVgang
+p12
+I1
+sVstarr
+p13
+I1
+sVaisles
+p14
+I1
+sVtake
+p15
+I1
+s.

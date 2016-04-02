@@ -1,57 +1,479 @@
-"the people" lyrics
-common lyrics
-"the people"
-(feat. dwele)
-louder, louder, louder, louder, louder, louder
-louder, louder, yeah
-yeah, it's for the people
-this is street radio, for unsung heroes
-riding in they regal, trying to stay legal
-my daughter found nemo, i found the new primo
-yeah you know how we do, we do it for the people
-and the struggles of the brothers and the folks
-with lovers under dope, experiment to discover hopes
-scuffle for notes, the rougher i wrote, times were harder
-went from rocky starter to a voice of a martyr
-why white folks focus on dogs and yoga
-while people on the low end trying to ball and get over
-lyrics are like liquor for the fallen soldiers
-from the bounce to the ounce, its all our culture
-everyday we hustling, tryna get them custom rims
-law we ain't trusting them, thick broads we lust in them
-sick and tired of bunchin it, i look on the bus at them
-when i see them struggling, i think how i'm touching them
-the people
-the day, has come
-now we, are one
-just take, your time
-and then, you'll find
-this is street radio, for unsung heroes
-riding in they regal, trying to stay legal
-my daughter found nemo, i found the new primo
-yeah you know how we do, we do it for the people
-the people said that i was sharp on tv
-at the grammy's, though they tried to india.arie me
-got back stage, and i bumped into stevie
-he said no matter what, the people gone see me
-can't leave rap alone the streets need me
-hunger in they eyes, is what seems to feed me
-inside peace mixed with beast seem to breed me
-nobody believe, until i believe me
-now i'm on the rise doing business with my guys
-visions realize, music affected lives
-a gift from the skies, to be recognize
-i'm keeping my eyes on the people, that's the prize
-this is street radio, for unsung heroes
-riding in they regal, trying to stay legal
-my daughter found nemo, i found the new primo
-yeah you know how we do, we do it for the people
-from englewood to a single hood in botswana
-i see the i in we my nigga, yours is my drama
-standin in front of the judge with no honor
-my raps ignite the people like obama
-the karma of the streets is needs and takes
-sometimes we find peace in beats and breaks
-put the bang in the back so the seats can shake
-rebel cadillac music for the people sake
-the people
+(dp1
+Vignite
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I3
+sVhunger
+p5
+I1
+sVover
+p6
+I1
+sVfocus
+p7
+I1
+sVjudge
+p8
+I1
+sVradio
+p9
+I3
+sVseats
+p10
+I1
+sVsoldiers
+p11
+I1
+sVfeat
+p12
+I1
+sVfind
+p13
+I2
+sVaint
+p14
+I1
+sVindiaarie
+p15
+I1
+sVtv
+p16
+I1
+sVseems
+p17
+I1
+sVrealize
+p18
+I1
+sVregal
+p19
+I3
+sVriding
+p20
+I3
+sVskies
+p21
+I1
+sVthem
+p22
+I3
+sVaffected
+p23
+I1
+sVget
+p24
+I2
+sVdope
+p25
+I1
+sVrise
+p26
+I1
+sVbang
+p27
+I1
+sVtouching
+p28
+I1
+sVbeast
+p29
+I1
+sVknow
+p30
+I3
+sVgot
+p31
+I1
+sVfront
+p32
+I1
+sVday
+p33
+I1
+sVrocky
+p34
+I1
+sVenglewood
+p35
+I1
+sVlike
+p36
+I2
+sVgift
+p37
+I1
+sVprimo
+p38
+I3
+sVleave
+p39
+I1
+sVcommon
+p40
+I1
+sVfound
+p41
+I6
+sVwent
+p42
+I1
+sVnotes
+p43
+I1
+sVwrote
+p44
+I1
+sVnigga
+p45
+I1
+sVpeople
+p46
+I14
+sVliquor
+p47
+I1
+sVstreets
+p48
+I2
+sVscuffle
+p49
+I1
+sVbounce
+p50
+I1
+sVculture
+p51
+I1
+sVsee
+p52
+I3
+sVstreet
+p53
+I3
+sVtried
+p54
+I1
+sVlovers
+p55
+I1
+sVmatter
+p56
+I1
+sVlegal
+p57
+I3
+sVexperiment
+p58
+I1
+sVnew
+p59
+I3
+sVyoull
+p60
+I1
+sVbusiness
+p61
+I1
+sVrims
+p62
+I1
+sVrebel
+p63
+I1
+sValone
+p64
+I1
+sVcome
+p65
+I1
+sVstage
+p66
+I1
+sVbumped
+p67
+I1
+sVdaughter
+p68
+I3
+sVstevie
+p69
+I1
+sVtimes
+p70
+I1
+sVdrama
+p71
+I1
+sVounce
+p72
+I1
+sVmixed
+p73
+I1
+sVfallen
+p74
+I1
+sVthink
+p75
+I1
+sVthats
+p76
+I1
+sVfeed
+p77
+I1
+sVbreed
+p78
+I1
+sVshake
+p79
+I1
+sVone
+p80
+I1
+sVput
+p81
+I1
+sVthick
+p82
+I1
+sVvisions
+p83
+I1
+sVrougher
+p84
+I1
+sVhood
+p85
+I1
+sVtakes
+p86
+I1
+sVsake
+p87
+I1
+sVguys
+p88
+I1
+sVtired
+p89
+I1
+sVcustom
+p90
+I1
+sVdwele
+p91
+I1
+sVmusic
+p92
+I2
+sVlow
+p93
+I1
+sVwhite
+p94
+I1
+sVdogs
+p95
+I1
+sVback
+p96
+I2
+sVtryna
+p97
+I1
+sVeyes
+p98
+I2
+sVbus
+p99
+I1
+sVbelieve
+p100
+I2
+sVnobody
+p101
+I1
+sVyeah
+p102
+I5
+sVfolks
+p103
+I2
+sVlives
+p104
+I1
+sVhopes
+p105
+I1
+sVtrying
+p106
+I4
+sVstarter
+p107
+I1
+sVobama
+p108
+I1
+sVme
+p109
+I6
+sVkeeping
+p110
+I1
+sVlook
+p111
+I1
+sVinside
+p112
+I1
+sVharder
+p113
+I1
+sVsingle
+p114
+I1
+sVbroads
+p115
+I1
+sVlouder
+p116
+I8
+sVvoice
+p117
+I1
+sVgone
+p118
+I1
+sVraps
+p119
+I1
+sVrecognize
+p120
+I1
+sVtrusting
+p121
+I1
+sVnemo
+p122
+I3
+sVlust
+p123
+I1
+sVcant
+p124
+I1
+sVim
+p125
+I3
+sVrap
+p126
+I1
+sVneed
+p127
+I1
+sVsharp
+p128
+I1
+sVseem
+p129
+I1
+sVmartyr
+p130
+I1
+sVeveryday
+p131
+I1
+sVneeds
+p132
+I1
+sVyoga
+p133
+I1
+sVbeats
+p134
+I1
+sVpeace
+p135
+I2
+sVstruggles
+p136
+I1
+sVbotswana
+p137
+I1
+sVtake
+p138
+I1
+sVsick
+p139
+I1
+sVstruggling
+p140
+I1
+sVhustling
+p141
+I1
+sVgrammys
+p142
+I1
+sVball
+p143
+I1
+sVbrothers
+p144
+I1
+sVthough
+p145
+I1
+sVcadillac
+p146
+I1
+sVstay
+p147
+I3
+sVdiscover
+p148
+I1
+sVunsung
+p149
+I3
+sVsaid
+p150
+I2
+sVend
+p151
+I1
+sVheroes
+p152
+I3
+sVlaw
+p153
+I1
+sVbunchin
+p154
+I1
+sVprize
+p155
+I1
+sVbreaks
+p156
+I1
+sVsometimes
+p157
+I1
+sVhonor
+p158
+I1
+sVkarma
+p159
+I1
+sVtime
+p160
+I1
+s.

@@ -1,73 +1,629 @@
-"bitch bad" lyrics
-lupe fiasco lyrics
-"bitch bad"
-yeah
-i say bitch bad, woman good, lady better
-hey, hey, hey, hey
-now imagine there's a shawty, maybe five maybe four
-ridin' 'round with his mama listening to the radio
-and a song comes on and a not far off from being born
-doesn't know the difference between right and wrong
-now i ain't trying to make it too complex
-but let's just say shawty has an undeveloped context
-about the perception of women these days
-his mama sings along and this what she says
-"niggas i'm a bad bitch, and i'm bad bitch
-far above average"
-and maybe other rhyming words like cabbage and savage
-and baby carriage and other things that match it
-couple of things that are happenin' here
-first he's relatin' the word "bitch" with his mama, comma
-and because she's relatin' to herself, his most important source of help,
-and mental health, he may skew respect for dishonor
-bitch bad, woman good
-lady better, they misunderstood
-(i'm killin' these bitches)
-uh, tell 'em
-bitch bad, woman good
-lady better, they misunderstood
-they misunderstood
-(i'm killin' these bitches)
-yeah, now imagine a group of little girls nine through twelve
-on the internet watchin' videos listenin' to songs by themselves
-it doesn't really matter if they have parental clearance
-they understand the internet better than their parents
-now being the interent, the content's probably uncensored
-they're young, so they're maleable and probably unmentored
-a complicated combination, maybe with no relevance
-until that intelligence meets their favorite singer's preference
-"bad bitches, bad bitches, bad bitches
-that's all i want and all i like in life is bad bitches, bad bitches"
-now let's say that they less concerned with him
-and more with the video girl acquiescent to his whims
-ah, the plot thickens
-high heels, long hair, fat booty, slim
-reality check, i'm not trippin'
-they don't see a paid actress, just what makes a bad bitch
-disclaimer: this rhymer, lupe's not usin' bitch as a lesson
-but as a psychological weapon
-to set in your mind and really mess with your conceptions
-discretions, reflections, it's clever misdirection
-cause, while i was rappin' they was growin' up fast
-nobody stepped in to ever slow 'em up, gasp
-sure enough, in this little world
-the little boy meets one of those little girls
-and he thinks she a bad bitch and she thinks she a bad bitch
-he thinks this respectfully, she thinks of that sexually
-she got the wrong idea, he don't wanna fuck her
-he thinks she's bad at being a bitch like his mother
-momma never dress like that, come out the house, hot mess like that
-ass, titties, dress like that
-all out to impress like that
-just like that, you see the fruit of the confusion
-he caught in a reality, she caught in an illusion
-bad mean good to her, she really nice and smart
-but bad mean bad to him, bitch don't play your part
-but bitch still bad to her if you say it the wrong way
-but she think she a bitch, what a double entendre
-bitch bad, woman good
-lady better, they misunderstood
-you're misunderstood
-bitch bad, woman good
-lady better, greatest motherhood
-(i'm killin' these bitches)
+(dp1
+Vset
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVactress
+p6
+I1
+sVfour
+p7
+I1
+sVradio
+p8
+I1
+sVrespectfully
+p9
+I1
+sVworld
+p10
+I1
+sVna
+p11
+I1
+sVstill
+p12
+I1
+sVentendre
+p13
+I1
+sVaint
+p14
+I1
+sVslow
+p15
+I1
+sVgroup
+p16
+I1
+sVuncensored
+p17
+I1
+sVlady
+p18
+I5
+sVconcerned
+p19
+I1
+sVyoung
+p20
+I1
+sVbetter
+p21
+I6
+sVsource
+p22
+I1
+sVlets
+p23
+I2
+sVparents
+p24
+I1
+sVrelevance
+p25
+I1
+sVsmart
+p26
+I1
+sVmatch
+p27
+I1
+sVstepped
+p28
+I1
+sVgood
+p29
+I6
+sVcombination
+p30
+I1
+sVsong
+p31
+I1
+sVfar
+p32
+I2
+sVcouple
+p33
+I1
+sVtitties
+p34
+I1
+sVfat
+p35
+I1
+sVmisdirection
+p36
+I1
+sVgreatest
+p37
+I1
+sVfive
+p38
+I1
+sVknow
+p39
+I1
+sVwords
+p40
+I1
+sVgot
+p41
+I1
+sVrappin
+p42
+I1
+sVdifference
+p43
+I1
+sVundeveloped
+p44
+I1
+sVhim
+p45
+I1
+sVtrippin
+p46
+I1
+sVlike
+p47
+I8
+sVever
+p48
+I1
+sVmomma
+p49
+I1
+sVpreference
+p50
+I1
+sVtheyre
+p51
+I2
+sVmotherhood
+p52
+I1
+sVbad
+p53
+I22
+sVcomma
+p54
+I1
+sVround
+p55
+I1
+sVdisclaimer
+p56
+I1
+sVem
+p57
+I2
+sVtwelve
+p58
+I1
+sVright
+p59
+I1
+sVsays
+p60
+I1
+sVmental
+p61
+I1
+sVintelligence
+p62
+I1
+sVyeah
+p63
+I2
+sVhair
+p64
+I1
+sVborn
+p65
+I1
+sVsee
+p66
+I2
+sVsure
+p67
+I1
+sVvideo
+p68
+I1
+sVshes
+p69
+I2
+sVsexually
+p70
+I1
+sVgirl
+p71
+I1
+sVthinks
+p72
+I5
+sVreally
+p73
+I3
+sVsavage
+p74
+I1
+sVusin
+p75
+I1
+sVthats
+p76
+I1
+sVmess
+p77
+I2
+sVenough
+p78
+I1
+sVhealth
+p79
+I1
+sVinternet
+p80
+I2
+sVprobably
+p81
+I2
+sVbooty
+p82
+I1
+sVcause
+p83
+I1
+sVwatchin
+p84
+I1
+sVass
+p85
+I1
+sVperception
+p86
+I1
+sVparental
+p87
+I1
+sVlupe
+p88
+I1
+sVconfusion
+p89
+I1
+sVnever
+p90
+I1
+sVridin
+p91
+I1
+sVhere
+p92
+I1
+sVwhims
+p93
+I1
+sVcomplicated
+p94
+I1
+sVimagine
+p95
+I2
+sVsingers
+p96
+I1
+sValong
+p97
+I1
+sVcome
+p98
+I1
+sVboy
+p99
+I1
+sVinterent
+p100
+I1
+sVfavorite
+p101
+I1
+sVdays
+p102
+I1
+sVhot
+p103
+I1
+sVfruit
+p104
+I1
+sVcontext
+p105
+I1
+sVmean
+p106
+I2
+sVmakes
+p107
+I1
+sVcaught
+p108
+I2
+sVcomes
+p109
+I1
+sVfirst
+p110
+I1
+sVrhyming
+p111
+I1
+sVdont
+p112
+I3
+sVgrowin
+p113
+I1
+sVone
+p114
+I1
+sVpsychological
+p115
+I1
+sVhappenin
+p116
+I1
+sVlupes
+p117
+I1
+sVdoesnt
+p118
+I2
+sVbitch
+p119
+I18
+sVrespect
+p120
+I1
+sVlesson
+p121
+I1
+sVwan
+p122
+I1
+sVfuck
+p123
+I1
+sVplot
+p124
+I1
+sVlittle
+p125
+I4
+sVkillin
+p126
+I3
+sVher
+p127
+I1
+sVhes
+p128
+I1
+sVskew
+p129
+I1
+sVgirls
+p130
+I2
+sVhey
+p131
+I4
+sVlong
+p132
+I1
+sVway
+p133
+I1
+sVhouse
+p134
+I1
+sVmama
+p135
+I3
+sVthemselves
+p136
+I1
+sVtell
+p137
+I1
+sVmisunderstood
+p138
+I5
+sVlife
+p139
+I1
+sVclever
+p140
+I1
+sVmaleable
+p141
+I1
+sVmind
+p142
+I1
+sVbitches
+p143
+I8
+sVimpress
+p144
+I1
+sVidea
+p145
+I1
+sVpart
+p146
+I1
+sVunderstand
+p147
+I1
+sVbaby
+p148
+I1
+sVtrying
+p149
+I1
+sVwomen
+p150
+I1
+sVlistenin
+p151
+I1
+sVword
+p152
+I1
+sVniggas
+p153
+I1
+sVdouble
+p154
+I1
+sVfast
+p155
+I1
+sVrhymer
+p156
+I1
+sVmatter
+p157
+I1
+sVcarriage
+p158
+I1
+sVnine
+p159
+I1
+sVuh
+p160
+I1
+sVthickens
+p161
+I1
+sVweapon
+p162
+I1
+sVtheres
+p163
+I1
+sVplay
+p164
+I1
+sVvideos
+p165
+I1
+sVah
+p166
+I1
+sVslim
+p167
+I1
+sVlistening
+p168
+I1
+sVit
+p169
+I1
+sVhigh
+p170
+I1
+sVsay
+p171
+I4
+sVwoman
+p172
+I5
+sVim
+p173
+I6
+sVwant
+p174
+I1
+sVheels
+p175
+I1
+sVdress
+p176
+I2
+sVcheck
+p177
+I1
+sVcontents
+p178
+I1
+sVrelatin
+p179
+I2
+sVsings
+p180
+I1
+sVthings
+p181
+I2
+sVmake
+p182
+I1
+sVthat
+p183
+I3
+sVdishonor
+p184
+I1
+sVreality
+p185
+I2
+sVconceptions
+p186
+I1
+sVcomplex
+p187
+I1
+sVshawty
+p188
+I2
+sVunmentored
+p189
+I1
+sVillusion
+p190
+I1
+sVnice
+p191
+I1
+sVmeets
+p192
+I2
+sVdiscretions
+p193
+I1
+sVnobody
+p194
+I1
+sVmay
+p195
+I1
+sVmother
+p196
+I1
+sVpaid
+p197
+I1
+sVwrong
+p198
+I3
+sVimportant
+p199
+I1
+sVgasp
+p200
+I1
+sVcabbage
+p201
+I1
+sVmaybe
+p202
+I4
+sVaverage
+p203
+I1
+sVyoure
+p204
+I1
+sVthink
+p205
+I1
+sVreflections
+p206
+I1
+sVfiasco
+p207
+I1
+sVclearance
+p208
+I1
+sVacquiescent
+p209
+I1
+sVsongs
+p210
+I1
+s.

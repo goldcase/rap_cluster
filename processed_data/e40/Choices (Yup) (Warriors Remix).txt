@@ -1,62 +1,323 @@
-"choices (yup) (warriors remix)" lyrics
-e-40 lyrics
-"choices (yup) (warriors remix)"
-nope, yup, nope, yup, nope, yup, nope, yup
-did it happen in one day? (nope)
-came a long way? (yup)
-never know what kind of angle (nope)
-crossover, break your ankle (yup)
-sloppy with the rock? (nope)
-steph curry with the shot? (yup)
-suckers? (nope)
-splash brothers? (yup)
-ain't no stoppin' (nope)
-klay thompson? (yup)
-under pressure, is he chokin'? (nope)
-do it big like bogut? (yup)
-never let 'em tell us that we can't (nope)
-go hard like barnes in the paint? (yup)
-never ever slowin' up the pace (nope)
-shoot a three-pointer in his face (yup)
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-these haters is hatin'
-i already know, but we never gon' choke (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-and i ain't got to sell my soul (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-if you hate, you ain't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-i don't care if you don't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-do we panic, do we flinch? (nope)
-come hard off the bench? (yup)
-horrible? (nope)
-turned up in the oracle? (yup)
-can't beat steve kerr (nope)
-i'm a warrior like the "blur" (yup)
-got somethin' to say? (nope)
-fool, this the bay (yup)
-coward? (nope)
-hustle like iguodala? (yup)
-do we ever play weak? (nope)
-finesse like david lee? (yup)
-ain't nobody better than my team (nope)
-money like draymond green? (yup)
-ain't nobody finna crush our dream (nope)
-won't stop 'til we get a ring (yup)
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-everybody say, "warriors", warriors
-these haters is hatin'
-i already know, but we never gon' choke (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-and i ain't got to sell my soul (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-if you hate, you ain't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-i don't care if you don't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I9
+sVsteve
+p5
+I1
+sVgo
+p6
+I1
+sViguodala
+p7
+I1
+sVhate
+p8
+I2
+sVaint
+p9
+I7
+sVbench
+p10
+I1
+sVbetter
+p11
+I1
+sVthompson
+p12
+I1
+sVteam
+p13
+I1
+sVflinch
+p14
+I1
+sVfool
+p15
+I1
+sVget
+p16
+I1
+sVbeat
+p17
+I1
+sVbig
+p18
+I1
+sVhorrible
+p19
+I1
+sVstop
+p20
+I1
+sVe40
+p21
+I1
+sVsloppy
+p22
+I1
+sVbreak
+p23
+I1
+sVknow
+p24
+I3
+sVday
+p25
+I1
+sVwont
+p26
+I1
+sVlike
+p27
+I10
+sVnope
+p28
+I20
+sVgettin
+p29
+I8
+sVkerr
+p30
+I1
+sVsteph
+p31
+I1
+sVrock
+p32
+I1
+sVslowin
+p33
+I1
+sVem
+p34
+I1
+sVhard
+p35
+I2
+sVyeah
+p36
+I24
+sVdraymond
+p37
+I1
+sVhappen
+p38
+I1
+sVbay
+p39
+I1
+sVfinna
+p40
+I1
+sVgon
+p41
+I2
+sVcrush
+p42
+I1
+sVbogut
+p43
+I1
+sVblur
+p44
+I1
+sVgot
+p45
+I3
+sVever
+p46
+I2
+sVhustle
+p47
+I1
+sVwarrior
+p48
+I1
+sVlee
+p49
+I1
+sVnever
+p50
+I5
+sVweak
+p51
+I1
+sVpressure
+p52
+I1
+sVlet
+p53
+I1
+sVsuckers
+p54
+I1
+sVstay
+p55
+I8
+sVcome
+p56
+I1
+sVcare
+p57
+I2
+sVyup
+p58
+I22
+sVchoke
+p59
+I2
+sVdavid
+p60
+I1
+sVcurry
+p61
+I1
+sValready
+p62
+I2
+sVdont
+p63
+I4
+sVone
+p64
+I1
+sVring
+p65
+I1
+sVeverybody
+p66
+I8
+sVlong
+p67
+I1
+sVthreepointer
+p68
+I1
+sVpaint
+p69
+I1
+sVsplash
+p70
+I1
+sVway
+p71
+I1
+sVankle
+p72
+I1
+sVtell
+p73
+I1
+sVnobody
+p74
+I2
+sVhatin
+p75
+I2
+sVhaters
+p76
+I2
+sVshoot
+p77
+I1
+sVkind
+p78
+I1
+sVcoward
+p79
+I1
+sVsoul
+p80
+I2
+sVus
+p81
+I1
+sVchoices
+p82
+I2
+sVpace
+p83
+I1
+sVsay
+p84
+I9
+sVturned
+p85
+I1
+sVcrossover
+p86
+I1
+sVcant
+p87
+I2
+sVim
+p88
+I9
+sVstoppin
+p89
+I1
+sVsell
+p90
+I2
+sVangle
+p91
+I1
+sVno
+p92
+I8
+sVbarnes
+p93
+I1
+sVtil
+p94
+I1
+sVpanic
+p95
+I1
+sVplay
+p96
+I1
+sVchokin
+p97
+I1
+sVbrothers
+p98
+I1
+sVklay
+p99
+I1
+sVsomethin
+p100
+I1
+sVremix
+p101
+I2
+sVfinesse
+p102
+I1
+sVface
+p103
+I1
+sVgreen
+p104
+I1
+sVwarriors
+p105
+I18
+sVoracle
+p106
+I1
+sVdream
+p107
+I1
+sVcame
+p108
+I1
+s.

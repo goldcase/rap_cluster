@@ -1,88 +1,617 @@
-slow jamz lyrics
-kanye west lyrics
-slow jamz
-feat twista jamie foxx
-gonna be
-say youre gonna be
-oh oh oh oh oh
-said wants marvin gaye luther vandross little anita definitely set party right
-gonna gonna gonna gonna gonna well well well well well
-said want ready world new edition minnie ripperton definitely set party right
-gonna gonna gonna gonna gonna well well well well well
-told drive new whip
-bring friends cool with
-im gonna bring cool whip
-want strip
-see new chick
-get grind on
-grabbing calling biggie like shine home
-man swear fine homes
-always lying though
-telling diamonds know rhinestones
-got light skinned friend look like michael jackson
-got dark skinned friend look like michael jackson
-play ready world  ready action
-dawg said aint freak got prove man wrong
-im play vandross
-youre gonna take pants off
-im gonna play gladys knight
-youre gonna get right
-got looking gliss hands wrists
-im laying back smoking cannabis
-come rocking rhythm like marvin luther
-tell aint messing kanman twist
-chi be
-sipping hennessy
-play rb
-trying smoke b
-looking properly
-feeling g
-always well well well well well
-come sip evelyn champagne
-aint know twista work like whispers
-hit stop light get isaac
-rims still moving im bumping little spinners
-im smoking b
-dipping streets
-bumping rb
-got leave
-something 23s
-well well well well well
-earth wind smoke fire
-let get sheets wet listening keith sweat
-put daze maze
-fullfilling every temptation slow jamming deep sex
-ready world girl
-come make touch body baby dont say me
-every moment controllin im loving way holding listening jodeci
-come bend ass
-bumping teddy pendergrass
-id hit back melody roll slow
-gotta go fast im gonna finish last
-matter much thug see
-still spit like rb club me
-luther come hope finna still love me
-baby drop another slow jam
-us lovers need hold hands
-aint got man hop brougham
-keep pimping like old man
-got roll plan
-cause i
-take dome
-got bone
-stay zone
-got get home
-gotta run on
-well well well well well
-baby drop another slow jam
-us lovers need hold hands
-aint got man hop brohem
-keep pimping like old man
-got roll plan
-cause i
-take home
-could get on
-disconnect phone
-get goin
-trying make moan
-well well well well well
+(dp1
+Vlyrics
+p2
+I2
+sVhands
+p3
+I3
+sVbring
+p4
+I2
+sVearth
+p5
+I1
+sVtouch
+p6
+I1
+sVkanye
+p7
+I1
+sVmelody
+p8
+I1
+sVstill
+p9
+I3
+sVfeat
+p10
+I1
+sVspinners
+p11
+I1
+sVaint
+p12
+I5
+sVslow
+p13
+I6
+sVkeith
+p14
+I1
+sVzone
+p15
+I1
+sVpendergrass
+p16
+I1
+sVjam
+p17
+I2
+sVrhythm
+p18
+I1
+sVwet
+p19
+I1
+sVisaac
+p20
+I1
+sVhope
+p21
+I1
+sVta
+p22
+I2
+sVhit
+p23
+I2
+sVhop
+p24
+I2
+sVget
+p25
+I7
+sVstop
+p26
+I1
+sVfinish
+p27
+I1
+sVsipping
+p28
+I1
+sVdark
+p29
+I1
+sVwhispers
+p30
+I1
+sVevery
+p31
+I2
+sVknow
+p32
+I2
+sVlistening
+p33
+I2
+sVnew
+p34
+I3
+sVtelling
+p35
+I1
+sVworld
+p36
+I3
+sVcool
+p37
+I2
+sVcontrollin
+p38
+I1
+sVlike
+p39
+I8
+sValways
+p40
+I2
+sVdrop
+p41
+I2
+sVmichael
+p42
+I2
+sVminnie
+p43
+I1
+sVcalling
+p44
+I1
+sVleave
+p45
+I1
+sV23s
+p46
+I1
+sVknight
+p47
+I1
+sVchick
+p48
+I1
+sVpants
+p49
+I1
+sVbone
+p50
+I1
+sVass
+p51
+I1
+sVset
+p52
+I2
+sVold
+p53
+I2
+sVlaying
+p54
+I1
+sVstreets
+p55
+I1
+sVback
+p56
+I2
+sVsex
+p57
+I1
+sVedition
+p58
+I1
+sVsee
+p59
+I2
+sVdawg
+p60
+I1
+sVus
+p61
+I2
+sVgo
+p62
+I1
+sVbiggie
+p63
+I1
+sVhome
+p64
+I3
+sVgirl
+p65
+I1
+sVfinna
+p66
+I1
+sVwhip
+p67
+I2
+sVgon
+p68
+I17
+sVjackson
+p69
+I2
+sVjodeci
+p70
+I1
+sVtemptation
+p71
+I1
+sVfine
+p72
+I1
+sVlooking
+p73
+I2
+sVcannabis
+p74
+I1
+sVrb
+p75
+I3
+sVdiamonds
+p76
+I1
+sVgot
+p77
+I13
+sVhold
+p78
+I2
+sVchampagne
+p79
+I1
+sVcause
+p80
+I2
+sVtold
+p81
+I1
+sVbody
+p82
+I1
+sVbe
+p83
+I3
+sVrun
+p84
+I1
+sVrims
+p85
+I1
+sVmarvin
+p86
+I2
+sVdome
+p87
+I1
+sVgladys
+p88
+I1
+sVdipping
+p89
+I1
+sVlet
+p90
+I1
+sVput
+p91
+I1
+sVdisconnect
+p92
+I1
+sVcome
+p93
+I5
+sVshine
+p94
+I1
+sVon
+p95
+I3
+sVluther
+p96
+I3
+sVlast
+p97
+I1
+sVg
+I1
+sVoh
+p98
+I5
+sVpimping
+p99
+I2
+sVcould
+p100
+I1
+sVteddy
+p101
+I1
+sVmoment
+p102
+I1
+sVjamz
+p103
+I2
+sVkeep
+p104
+I2
+sVswear
+p105
+I1
+sVkanman
+p106
+I1
+sVsweat
+p107
+I1
+sVsmoke
+p108
+I2
+sVchi
+p109
+I1
+sVaction
+p110
+I1
+sVanita
+p111
+I1
+sVlove
+p112
+I1
+sVdont
+p113
+I1
+sVright
+p114
+I3
+sVanother
+p115
+I2
+sVstrip
+p116
+I1
+sVripperton
+p117
+I1
+sVvandross
+p118
+I2
+sVfire
+p119
+I1
+sVmoan
+p120
+I1
+sVlittle
+p121
+I2
+sVgoin
+p122
+I1
+sVprove
+p123
+I1
+sVwest
+p124
+I1
+sVrhinestones
+p125
+I1
+sVfast
+p126
+I1
+sVmuch
+p127
+I1
+sVway
+p128
+I1
+sVmaze
+p129
+I1
+sVmessing
+p130
+I1
+sVtell
+p131
+I1
+sVfriend
+p132
+I2
+sVloving
+p133
+I1
+sVwants
+p134
+I1
+sVfullfilling
+p135
+I1
+sVdaze
+p136
+I1
+sVspit
+p137
+I1
+sVgrabbing
+p138
+I1
+sVgliss
+p139
+I1
+sVjamie
+p140
+I1
+sVhennessy
+p141
+I1
+sVphone
+p142
+I1
+sVproperly
+p143
+I1
+sVbaby
+p144
+I3
+sVsmoking
+p145
+I2
+sVrocking
+p146
+I1
+sVtrying
+p147
+I2
+sVwith
+p148
+I1
+sVme
+p149
+I3
+sVhomes
+p150
+I1
+sVb
+I2
+sVlook
+p151
+I2
+sVthug
+p152
+I1
+sVwork
+p153
+I1
+sVgaye
+p154
+I1
+sVmatter
+p155
+I1
+sVfeeling
+p156
+I1
+sVlovers
+p157
+I2
+sVbend
+p158
+I1
+sVfreak
+p159
+I1
+sVevelyn
+p160
+I1
+sVdeep
+p161
+I1
+sVtwist
+p162
+I1
+sVtwista
+p163
+I2
+sVsay
+p164
+I2
+sVim
+p165
+I8
+sVsomething
+p166
+I1
+sVwant
+p167
+I2
+sVready
+p168
+I4
+sVbrohem
+p169
+I1
+sVid
+p170
+I1
+sVsip
+p171
+I1
+sVna
+p172
+I17
+sVmake
+p173
+I2
+sVfoxx
+p174
+I1
+sVneed
+p175
+I2
+sVtake
+p176
+I3
+sVholding
+p177
+I1
+sVparty
+p178
+I2
+sVjamming
+p179
+I1
+sVroll
+p180
+I3
+sVclub
+p181
+I1
+sVplay
+p182
+I4
+sVskinned
+p183
+I2
+sVwrists
+p184
+I1
+sVthough
+p185
+I1
+sVstay
+p186
+I1
+sVwrong
+p187
+I1
+sVsaid
+p188
+I3
+sVmoving
+p189
+I1
+sVplan
+p190
+I2
+sVsheets
+p191
+I1
+sVfriends
+p192
+I1
+sVman
+p193
+I6
+sVbrougham
+p194
+I1
+sVoff
+p195
+I1
+sVi
+I2
+sVlight
+p196
+I2
+sVyoure
+p197
+I3
+sVwell
+p198
+I30
+sVdrive
+p199
+I1
+sVgrind
+p200
+I1
+sVdefinitely
+p201
+I2
+sVwind
+p202
+I1
+sVbumping
+p203
+I3
+sVlying
+p204
+I1
+s.

@@ -1,134 +1,823 @@
-"u can be touched" lyrics
-2pac lyrics
-"u can be touched"
-life...
-what the f**k is life for ni**az like us?
-been waking up to another muthaf**kin' day
-i'm the type of soldier,
-a ni**a that seen
-everything in my muthaf**kin eyes
-i seen my parents get killed
-to my muthaf**kin eyes
-i seen my brother kill his-self in my eyes
-i seen pac.. yak.. die in the struggle in my eyes
-so i know anybody can be touched
-you know what i mean?
-oh god forgive me
-somebody please say a prayer for me
-needed my parents
-but they was never there for me
-believe in everything they feed me
-i'm seeing demons
-i wake up screaming
-who believe me or was i dreaming?
-five fingers on the .45 chrome
-dead aim at my brain, infared with no lights on
-i ain't afraid to die, i want to see what's after this
-i'm living blind writing rhymes
-til they capture this
-and if we die let the world understand why
-soldier my eyes hate to see a young thug cry
-they seeing us inside a casket
-that's how they see us
-oh god forgive us ghetto bastards
-we human beings
-they leaving us inside this hell-hole
-just waiting to fail so they tell us
-that's what jail for
-adolescense young teens turned violent
-it's floating, in a world turned silent
-cause you could be touched
-young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
-young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
-i live life high speed
-moving a million miles per hour
-towards my destiny
-making decesions carelessly
-yeah it's me, yo ni**a man child
-bomb first stand proud
-ain't looking for hand-outs
-twenty-five years up in this bi**h
-and i'll be damned if i ain't leaving rich
-and leave my kids a grip
-i let my blood drip off in this thug s**t
-you can be touched, i catch you slippin' while i'm on a money mission
-like right now, 30 dollars to my john hancock
-try to get mo' so my s**t don't flock
-i lick off shots for everything they owe me
-and when it's my time to go
-i pray the lord hold me
-(u can be touched)
-i was born in the city that never sleeps
-schooled by the realest of the real ni**az
-that ever breathed
-and i was big when i was young
-and now i see that i was dumb
-my ni**a.. lonnie just got hit with 10... 10 years
-for trusting a friend
-they left him stuck in the penn
-i love him, we all here just to die here, plus
-nobody cares what got here
-touched by a angel and kissed by the lord
-praise the thug ways and i'll never be bored
-touched by a angel and kissed by the lord
-y'all praise the thug ways
-so forever it's on.. baby
-my young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
-young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
-why grieve this life
-planted by the fiends and pipes
-green lights so
-i'm seeing-seeing everything twice
-pretty much of nothing nice
-(naw) we sucking it up
-even when we get a job, we f**king it up
-like it can't happen to us
-i could never be a bum
-yeah right, you wound up one
-god forbid i'm touched, y'all keep living it up
-look and learn
-next it could be your turn... word
-yes this a felonies' hobby
-that got me here thinking robbery
-day to day all year long
-teflon protects my body
-it's such unimportant in this criminal cartel
-i'm caught and supporting me
-so in these streets of hockey
-i play the goalie,
-secretz to war licks, and score s**t
-share between clients and homies
-remember what patcino told me
-before he past
-watch them clowns with them crocodile smiles
-cause they phony, i get that cash, stay lonely
-and i'm point like a thong
-and it's survive for the strong
-living outside the laws of this crooked world
-i was born touched
-my young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
-young ni**az in the wild life
-criminal mind of a juvenile still live a child life
-thinking he can make his pay
-too in a rush, ni**az better slow down
-cause you can be touched
+(dp1
+Vblind
+p2
+I1
+sVrealest
+p3
+I1
+sVbomb
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I1
+sVkeep
+p7
+I1
+sVbum
+p8
+I1
+sVmission
+p9
+I1
+sVyears
+p10
+I2
+sVbrain
+p11
+I1
+sVviolent
+p12
+I1
+sVever
+p13
+I1
+sVkill
+p14
+I1
+sVper
+p15
+I1
+sVhuman
+p16
+I1
+sVslippin
+p17
+I1
+sVlove
+p18
+I1
+sVyes
+p19
+I1
+sVstill
+p20
+I6
+sVhate
+p21
+I1
+sVprotects
+p22
+I1
+sVaint
+p23
+I3
+sVslow
+p24
+I6
+sVsleeps
+p25
+I1
+sVlights
+p26
+I2
+sVthinking
+p27
+I7
+sVpoint
+p28
+I1
+sVyoung
+p29
+I9
+sVwriting
+p30
+I1
+sVbetter
+p31
+I6
+sVforbid
+p32
+I1
+sVplanted
+p33
+I1
+sVparents
+p34
+I2
+sVtouched
+p35
+I16
+sVrich
+p36
+I1
+sVhomies
+p37
+I1
+sVlord
+p38
+I3
+sVcriminal
+p39
+I7
+sVgoalie
+p40
+I1
+sVoutside
+p41
+I1
+sVgrip
+p42
+I1
+sVlonely
+p43
+I1
+sVsomebody
+p44
+I1
+sVsucking
+p45
+I1
+sVyo
+p46
+I1
+sVget
+p47
+I4
+sVwake
+p48
+I1
+sVbig
+p49
+I1
+sVwatch
+p50
+I1
+sVrobbery
+p51
+I1
+sVunimportant
+p52
+I1
+sVfiends
+p53
+I1
+sVbastards
+p54
+I1
+sVknow
+p55
+I2
+sVdollars
+p56
+I1
+sVworld
+p57
+I3
+sVscreaming
+p58
+I1
+sVkilled
+p59
+I1
+sVghetto
+p60
+I1
+sVlike
+p61
+I4
+sVcrocodile
+p62
+I1
+sVhisself
+p63
+I1
+sVhancock
+p64
+I1
+sVcry
+p65
+I1
+sVbrother
+p66
+I1
+sVhandouts
+p67
+I1
+sVleave
+p68
+I1
+sVtwice
+p69
+I1
+sVmiles
+p70
+I1
+sVclowns
+p71
+I1
+sVshots
+p72
+I1
+sVdie
+p73
+I4
+sVmo
+p74
+I1
+sVyall
+p75
+I2
+sVmean
+p76
+I1
+sVright
+p77
+I2
+sVsupporting
+p78
+I1
+sVstreets
+p79
+I1
+sVyeah
+p80
+I2
+sVdead
+p81
+I1
+sVwaking
+p82
+I1
+sVpast
+p83
+I1
+sVgo
+p84
+I1
+sVsee
+p85
+I4
+sVdumb
+p86
+I1
+sVus
+p87
+I7
+sVyear
+p88
+I1
+sVfail
+p89
+I1
+sVflock
+p90
+I1
+sVcartel
+p91
+I1
+sVmuthafkin
+p92
+I3
+sVeven
+p93
+I1
+sVliving
+p94
+I3
+sVlonnie
+p95
+I1
+sVdestiny
+p96
+I1
+sVfor
+p97
+I1
+sVways
+p98
+I2
+sVgod
+p99
+I3
+sVpipes
+p100
+I1
+sVplease
+p101
+I1
+sVfingers
+p102
+I1
+sVdemons
+p103
+I1
+sVlooking
+p104
+I1
+sVeverything
+p105
+I4
+sVwaiting
+p106
+I1
+sVscore
+p107
+I1
+sVgot
+p108
+I3
+sVteens
+p109
+I1
+sVcause
+p110
+I8
+sVspeed
+p111
+I1
+sVtold
+p112
+I1
+sVbody
+p113
+I1
+sVdecesions
+p114
+I1
+sVmillion
+p115
+I1
+sVbored
+p116
+I1
+sVthong
+p117
+I1
+sVnever
+p118
+I4
+sVforgive
+p119
+I2
+sVhere
+p120
+I1
+sVjob
+p121
+I1
+sVhellhole
+p122
+I1
+sVlet
+p123
+I2
+sVstruggle
+p124
+I1
+sVstrong
+p125
+I1
+sVplay
+p126
+I1
+sVbaby
+p127
+I1
+sVon
+p128
+I1
+sVkids
+p129
+I1
+sVlearn
+p130
+I1
+sVoh
+p131
+I2
+sVcould
+p132
+I3
+sV30
+p133
+I1
+sVleaving
+p134
+I2
+sVsoldier
+p135
+I2
+sVfelonies
+p136
+I1
+sVplus
+p137
+I1
+sVstand
+p138
+I1
+sVshare
+p139
+I1
+sVthats
+p140
+I2
+sVfeed
+p141
+I1
+sVseeing
+p142
+I2
+sVhold
+p143
+I1
+sVwhats
+p144
+I1
+sVdont
+p145
+I1
+sVdamned
+p146
+I1
+sVowe
+p147
+I1
+sVcash
+p148
+I1
+sVone
+p149
+I1
+sVdown
+p150
+I6
+sVbeings
+p151
+I1
+sVpretty
+p152
+I1
+sVanother
+p153
+I1
+sVdreaming
+p154
+I1
+sVadolescense
+p155
+I1
+sVinfared
+p156
+I1
+sVcity
+p157
+I1
+sVcasket
+p158
+I1
+sVsilent
+p159
+I1
+sVniaz
+p160
+I14
+sVstuck
+p161
+I1
+sVchrome
+p162
+I1
+sVcaught
+p163
+I1
+sVlong
+p164
+I1
+sVnext
+p165
+I1
+sVneeded
+p166
+I1
+sVlive
+p167
+I7
+sVmuch
+p168
+I1
+sVyak
+p169
+I1
+sVsurvive
+p170
+I1
+sVjohn
+p171
+I1
+sVtype
+p172
+I1
+sVtell
+p173
+I1
+sVfriend
+p174
+I1
+sVhockey
+p175
+I1
+sVeyes
+p176
+I5
+sVpenn
+p177
+I1
+sVsecretz
+p178
+I1
+sVmind
+p179
+I6
+sVnobody
+p180
+I1
+sVphony
+p181
+I1
+sVcant
+p182
+I1
+sVunderstand
+p183
+I1
+sVchild
+p184
+I7
+sVcatch
+p185
+I1
+sVlicks
+p186
+I1
+sVbelieve
+p187
+I2
+sVseeingseeing
+p188
+I1
+sV2pac
+p189
+I1
+sVme
+p190
+I6
+sV10
+p191
+I2
+sVrush
+p192
+I6
+sVcarelessly
+p193
+I1
+sVword
+p194
+I1
+sVlook
+p195
+I1
+sVhour
+p196
+I1
+sVborn
+p197
+I2
+sVthis
+p198
+I2
+sVinside
+p199
+I2
+sVclients
+p200
+I1
+sVgrieve
+p201
+I1
+sVup
+p202
+I3
+sVrhymes
+p203
+I1
+sVwar
+p204
+I1
+sVaim
+p205
+I1
+sVpraise
+p206
+I2
+sVschooled
+p207
+I1
+sVwild
+p208
+I6
+sVmaking
+p209
+I1
+sVfking
+p210
+I1
+sVill
+p211
+I2
+sVreal
+p212
+I1
+sVjuvenile
+p213
+I6
+sVlick
+p214
+I1
+sVhobby
+p215
+I1
+sVangel
+p216
+I2
+sVpatcino
+p217
+I1
+sVtrusting
+p218
+I1
+sVturned
+p219
+I2
+sVlife
+p220
+I16
+sVdrip
+p221
+I1
+sVhigh
+p222
+I1
+sVsay
+p223
+I1
+sVim
+p224
+I8
+sVwant
+p225
+I1
+sVprayer
+p226
+I1
+sVthug
+p227
+I4
+sVseen
+p228
+I4
+sVfloating
+p229
+I1
+sVkissed
+p230
+I2
+sVhappen
+p231
+I1
+sVhit
+p232
+I1
+sVcapture
+p233
+I1
+sVafraid
+p234
+I1
+sVbih
+p235
+I1
+sVlaws
+p236
+I1
+sVturn
+p237
+I1
+sVpay
+p238
+I6
+sVmake
+p239
+I6
+sV45
+p240
+I1
+sVwound
+p241
+I1
+sVgreen
+p242
+I1
+sVtil
+p243
+I1
+sVpac
+p244
+I1
+sVnaw
+p245
+I1
+sVcrooked
+p246
+I1
+sVjail
+p247
+I1
+sVday
+p248
+I3
+sVnice
+p249
+I1
+sVpray
+p250
+I1
+sVsmiles
+p251
+I1
+sVteflon
+p252
+I1
+sVtowards
+p253
+I1
+sVtwentyfive
+p254
+I1
+sVnia
+p255
+I3
+sVstay
+p256
+I1
+sVmoving
+p257
+I1
+sVblood
+p258
+I1
+sVbreathed
+p259
+I1
+sVnothing
+p260
+I1
+sVfk
+p261
+I1
+sVwhy
+p262
+I1
+sVman
+p263
+I1
+sVforever
+p264
+I1
+sVremember
+p265
+I1
+sVtry
+p266
+I1
+sVproud
+p267
+I1
+sVanybody
+p268
+I1
+sVst
+p269
+I3
+sVcares
+p270
+I1
+sVu
+I3
+sVtime
+p271
+I1
+sVfive
+p272
+I1
+sVfirst
+p273
+I1
+sVleft
+p274
+I1
+s.

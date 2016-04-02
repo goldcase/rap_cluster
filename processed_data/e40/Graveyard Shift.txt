@@ -1,63 +1,535 @@
-"graveyard shift" lyrics
-e-40 lyrics
-"graveyard shift"
-(feat. cousin fik & choose up cheese)
-graveyard shift d-boys don't quit
-when the sun goes down it's still money to get
-grave-graveyard shift d-boys don't quit
-when the sun goes down it's still money to get
-graveyard shift d-boys don't quit
-when the sun goes down it's still money to get (graveyard shift)
-grave-graveyard shift d-boys don't quit
-when the sun goes down it's still money to get (the graveyard shift)
-uhh, i was out there on the scene
-she pulled up, "you doin anything? " uhh
-"you know i'm good for it
-tomorrow is the first you know i can afford it" uhh
-at four am in the morning anything goes
-the court smoke crack, the rich powered they nose (they nose?)
-the po-po shift change (shift change)
-hustlin' in the rain (in the rain)
-sirens and ambulances
-it was stuck in the storm mane he swallowed a half an ounce
-momma yellin' and screamin' top of her lungs
-in the middle of the street, god why did you take my son? (wahhhhh)
-crime scenes and things the choir sings
-at the funeral service they catered it with churches (with churches)
-chicken that is (chicken)
-back to biz i'm on the graveyard shift
-can i get a witness?
-my shop don't close i'm like 24 hour fitness
-anytime anything i got it
-tell me what'chu and need and we can meet by sonic's
-i don't sleep i'm in insomniac
-the nigga with the jug, they call me that
-soon as they leave, they call me back
-like same thang mane where you get that at?
-i go hard, cookin' and whippin'
-if you need some love, you know i ain't trippin'
-doing the graveyard, i really slang hard
-got blue light specials like k-mart
-bay smarts, stock gang
-and i keep that gas, heatane
-no sleep, i'm up till dawn
-i need hunds i'm about my funds
-cousin fik, listen, uh
-bitch black on the streets
-ain't nobody out but fiends and police
-a roach, a rat, a couple straight cats
-and they escalade flats from a couple of straight caps
-uh, chicken maiden the v
-it's where a knock can get a hit for they three (uh-huh)
-a nigga a take off your dome (what else)
-hit a house lick where everybody home (home invasions?)
-emergency room with pats
-somebody else done got smacked (bop bop bop bop bop bop bop)
-read it an hour later
-vallejo time carrel online paper (on the computer)
-shit is scary like a cemetery
-the graveyard shift can lead to preliminaries
-cause the dark a always find you (what about...)
-walking by yourself feel the streets behind you on that
-graveyard shift d-boys don't quit
-when the sun goes down it's still money to get
+(dp1
+Vshop
+p2
+I1
+sVwalking
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I5
+sVhalf
+p6
+I1
+sVpopo
+p7
+I1
+sVsoon
+p8
+I1
+sVfour
+p9
+I1
+sVpaper
+p10
+I1
+sVsleep
+p11
+I2
+sVgang
+p12
+I1
+sVknock
+p13
+I1
+sVgo
+p14
+I1
+sVsmarts
+p15
+I1
+sVchicken
+p16
+I3
+sVstill
+p17
+I5
+sVfeat
+p18
+I1
+sVfind
+p19
+I1
+sV24
+p20
+I1
+sVpolice
+p21
+I1
+sVthang
+p22
+I1
+sVcemetery
+p23
+I1
+sVcrime
+p24
+I1
+sVblack
+p25
+I1
+sVchoose
+p26
+I1
+sVrich
+p27
+I1
+sVcrack
+p28
+I1
+sVfik
+p29
+I2
+sVpreliminaries
+p30
+I1
+sVgood
+p31
+I1
+sVhit
+p32
+I2
+sVemergency
+p33
+I1
+sVget
+p34
+I8
+sVread
+p35
+I1
+sVcouple
+p36
+I2
+sVonline
+p37
+I1
+sVvallejo
+p38
+I1
+sVuhh
+p39
+I3
+sVcaps
+p40
+I1
+sVdark
+p41
+I1
+sVbiz
+p42
+I1
+sVknow
+p43
+I3
+sVgot
+p44
+I3
+sVuhhuh
+p45
+I1
+sVroach
+p46
+I1
+sVtrippin
+p47
+I1
+sVwhatchu
+p48
+I1
+sVlike
+p49
+I4
+sValways
+p50
+I1
+sVmorning
+p51
+I1
+sVchoir
+p52
+I1
+sVnose
+p53
+I2
+sVfitness
+p54
+I1
+sVnigga
+p55
+I2
+sVhouse
+p56
+I1
+sVhard
+p57
+I2
+sVback
+p58
+I2
+sVstreet
+p59
+I1
+sVclose
+p60
+I1
+sVdawn
+p61
+I1
+sVbay
+p62
+I1
+sVwitness
+p63
+I1
+sVreally
+p64
+I1
+sVblue
+p65
+I1
+sVleave
+p66
+I1
+sVwahhhhh
+p67
+I1
+sVlead
+p68
+I1
+sVsun
+p69
+I5
+sVbehind
+p70
+I1
+sVgoes
+p71
+I6
+sVchurches
+p72
+I2
+sVcause
+p73
+I1
+sVsirens
+p74
+I1
+sVaint
+p75
+I2
+sVpats
+p76
+I1
+sVfuneral
+p77
+I1
+sVdome
+p78
+I1
+sVflats
+p79
+I1
+sVcousin
+p80
+I2
+sVchange
+p81
+I2
+sVcookin
+p82
+I1
+sVscary
+p83
+I1
+sVabout
+p84
+I1
+sVkmart
+p85
+I1
+sVanything
+p86
+I3
+sVbop
+p87
+I7
+sVshift
+p88
+I13
+sVscreamin
+p89
+I1
+sVkeep
+p90
+I1
+sVounce
+p91
+I1
+sVmane
+p92
+I2
+sVsmoke
+p93
+I1
+sVfirst
+p94
+I1
+sVcheese
+p95
+I1
+sVambulances
+p96
+I1
+sVlove
+p97
+I1
+sVdont
+p98
+I7
+sVfeel
+p99
+I1
+sVscene
+p100
+I1
+sVson
+p101
+I1
+sVmomma
+p102
+I1
+sVsmacked
+p103
+I1
+sVdone
+p104
+I1
+sVbitch
+p105
+I1
+sVescalade
+p106
+I1
+sVswallowed
+p107
+I1
+sVtomorrow
+p108
+I1
+sVeverybody
+p109
+I1
+sVquit
+p110
+I5
+sVservice
+p111
+I1
+sVpowered
+p112
+I1
+sVcarrel
+p113
+I1
+sVtop
+p114
+I1
+sVthree
+p115
+I1
+sVstuck
+p116
+I1
+sVcats
+p117
+I1
+sVcall
+p118
+I2
+sVstorm
+p119
+I1
+sVtell
+p120
+I1
+sVlisten
+p121
+I1
+sVstreets
+p122
+I2
+sVhustlin
+p123
+I1
+sVlungs
+p124
+I1
+sVthat
+p125
+I2
+sVafford
+p126
+I1
+sVfunds
+p127
+I1
+sVhunds
+p128
+I1
+sVgas
+p129
+I1
+sVelse
+p130
+I2
+sVdboys
+p131
+I5
+sVcatered
+p132
+I1
+sVe40
+p133
+I1
+sVfiends
+p134
+I1
+sVroom
+p135
+I1
+sVhour
+p136
+I2
+sVmiddle
+p137
+I1
+sVspecials
+p138
+I1
+sVstraight
+p139
+I2
+sVscenes
+p140
+I1
+sVcomputer
+p141
+I1
+sVuh
+p142
+I2
+sVv
+I1
+sVmeet
+p143
+I1
+sVlick
+p144
+I1
+sVit
+p145
+I2
+sVyellin
+p146
+I1
+sVrat
+p147
+I1
+sVim
+p148
+I6
+sVat
+p149
+I1
+sVhome
+p150
+I2
+sVneed
+p151
+I3
+sVsomebody
+p152
+I1
+sVshit
+p153
+I1
+sVjug
+p154
+I1
+sVgravegraveyard
+p155
+I2
+sVsings
+p156
+I1
+sVcourt
+p157
+I1
+sVgraveyard
+p158
+I10
+sVinsomniac
+p159
+I1
+sVthings
+p160
+I1
+sVtill
+p161
+I1
+sVtake
+p162
+I2
+sVheatane
+p163
+I1
+sVsonics
+p164
+I1
+sVstock
+p165
+I1
+sVnobody
+p166
+I1
+sVmaiden
+p167
+I1
+sVinvasions
+p168
+I1
+sVdoin
+p169
+I1
+sVtime
+p170
+I1
+sVrain
+p171
+I2
+sVwhippin
+p172
+I1
+sVslang
+p173
+I1
+sVlight
+p174
+I1
+sVlater
+p175
+I1
+sVanytime
+p176
+I1
+sVgod
+p177
+I1
+sVpulled
+p178
+I1
+s.

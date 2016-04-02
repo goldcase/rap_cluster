@@ -1,54 +1,326 @@
-good night lyrics
-kanye west lyrics
-good night
-feat al back mos def
-im sure anymoremore
-knocking doordoor
-faces know
-ja make sunny true
-dont wanna say goodbye
-ill say good night
-people goodbyes
-im gonna say good night
-right see vivid
-like yesterday like could relive
-grandparents field tridip
-im little kid tryna touch exhibits
-itll fade get get hold
-man wish could stop time like photograph
-every joke told id know laugh
-man man wouldnt let moment pass
-mean dream fallin
-mean dream ballin
-mean never dream
-dont really know cause cant recall
-sorta fly get chance say hi
-people never got chance say bye
-maybe could pull em outta dreams
-real life try
-close far
-far cigar
-cant dwell past got today
-imma live like theres tomorrow
-goodbye
-dont wanna say goodbye
-ill say good night
-people goodbyes
-im gonna say good night
-uhh
-part heart live
-dream beautiful unusual
-wake like everyday new
-stay true hood musical
-art live
-dream beautiful unusual
-wake like everyday new
-stay true hood musical
-dont wanna say goodbye
-ill say good night
-people goodbyes
-im gonna say good night
-im sure anymoremore
-knocking doordoor
-faces know
-ja make sunny true
+(dp1
+Vlyrics
+p2
+I2
+sVtouch
+p3
+I1
+sVkanye
+p4
+I1
+sVfeat
+p5
+I1
+sVimma
+p6
+I1
+sVitll
+p7
+I1
+sVexhibits
+p8
+I1
+sVfade
+p9
+I1
+sVbye
+p10
+I1
+sVreal
+p11
+I1
+sVgood
+p12
+I8
+sVget
+p13
+I3
+sVmos
+p14
+I1
+sVstop
+p15
+I1
+sVuhh
+p16
+I1
+sVevery
+p17
+I1
+sVknow
+p18
+I4
+sVnew
+p19
+I2
+sVtridip
+p20
+I1
+sVdreams
+p21
+I1
+sVlike
+p22
+I6
+sVgoodbyes
+p23
+I3
+sVtry
+p24
+I1
+sVnight
+p25
+I8
+sVmean
+p26
+I3
+sVem
+p27
+I1
+sVright
+p28
+I1
+sVart
+p29
+I1
+sVpeople
+p30
+I4
+sVdoordoor
+p31
+I2
+sVback
+p32
+I1
+sVpast
+p33
+I1
+sVsee
+p34
+I1
+sVpass
+p35
+I1
+sVclose
+p36
+I1
+sVrelive
+p37
+I1
+sVgon
+p38
+I3
+sVsorta
+p39
+I1
+sVgot
+p40
+I2
+sVcause
+p41
+I1
+sVtold
+p42
+I1
+sVgrandparents
+p43
+I1
+sVnever
+p44
+I2
+sVunusual
+p45
+I2
+sVlet
+p46
+I1
+sVja
+p47
+I2
+sVrecall
+p48
+I1
+sVwouldnt
+p49
+I1
+sVjoke
+p50
+I1
+sVill
+p51
+I3
+sVmoment
+p52
+I1
+sVfaces
+p53
+I2
+sVdont
+p54
+I4
+sVknocking
+p55
+I2
+sVlaugh
+p56
+I1
+sVfallin
+p57
+I1
+sVballin
+p58
+I1
+sVtomorrow
+p59
+I1
+sVhood
+p60
+I2
+sVwan
+p61
+I3
+sVlittle
+p62
+I1
+sVvivid
+p63
+I1
+sVwest
+p64
+I1
+sVlive
+p65
+I3
+sVdwell
+p66
+I1
+sVkid
+p67
+I1
+sVtoday
+p68
+I1
+sVtryna
+p69
+I1
+sVlife
+p70
+I1
+sVhi
+p71
+I1
+sVwake
+p72
+I2
+sVhold
+p73
+I1
+sVtrue
+p74
+I4
+sVfly
+p75
+I1
+sVpull
+p76
+I1
+sVphotograph
+p77
+I1
+sVwish
+p78
+I1
+sVcant
+p79
+I2
+sVcould
+p80
+I3
+sVdef
+p81
+I1
+sVtheres
+p82
+I1
+sVbeautiful
+p83
+I2
+sVheart
+p84
+I1
+sVoutta
+p85
+I1
+sVal
+p86
+I1
+sVsay
+p87
+I11
+sVim
+p88
+I6
+sVanymoremore
+p89
+I2
+sVid
+p90
+I1
+sVna
+p91
+I6
+sVmake
+p92
+I2
+sVeveryday
+p93
+I2
+sVfield
+p94
+I1
+sVreally
+p95
+I1
+sVsure
+p96
+I2
+sVsunny
+p97
+I2
+sVcigar
+p98
+I1
+sVyesterday
+p99
+I1
+sVstay
+p100
+I2
+sVchance
+p101
+I2
+sVman
+p102
+I3
+sVmaybe
+p103
+I1
+sVpart
+p104
+I1
+sVgoodbye
+p105
+I4
+sVtime
+p106
+I1
+sVfar
+p107
+I2
+sVdream
+p108
+I5
+sVmusical
+p109
+I2
+s.

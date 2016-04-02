@@ -1,67 +1,434 @@
-new slaves lyrics
-kanye west lyrics
-new slaves
-momma raised era when
-clean water served fairer skin
-clothes would thought help
-wasnt satisfied unless picked cotton myself
-see broke nigga racism
-thats dont touch anything store
-theres rich nigga racism
-thats come please buy more
-want bentley fur coat diamond chain
-blacks want things
-used niggas everybody play me
-spending everything alexander wang
-new slaves
-see leaders theres followers
-id rather dick swallower
-see leaders theres followers
-id rather dick swallower
-throw maybach keys
-wear heart sleeve
-know new slaves
-see blood leaves
-see blood leaves
-see blood leaves
-know new slaves
-see blood leaves
-throwing hate me
-want stay ease
-fuck corporation
-yall niggas cant control me
-know new slaves
-know new slaves
-im wild fuck out
-im going bobby boucher
-know pussy aint free
-niggas pussy aint me
-yall throwing contracts me
-know niggas cant read
-throw maybach keys
-fuck cest la vie
-know new slaves
-yall niggas cant fuck me
-yall niggas cant fuck ye
-yall niggas cant fuck ye
-ill move family country
-cant see stay
-go grab reporters
-smash recorders
-see theyll confuse us bullshit like new world order
-meanwhile dea
-teamed cca
-tryna lock niggas up
-tryna make new slaves
-see thats private owned prison
-get piece today
-probably hamptons
-braggin bout maid
-fuck hampton house
-ill fuck hampton spouse
-came hampton blouse
-hampton mouth
-yall bout turn shit up
-im bout tear shit down
-im bout air shit out
-fuck gon say now
+(dp1
+Vhampton
+p2
+I4
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVmove
+p5
+I1
+sVsatisfied
+p6
+I1
+sVteamed
+p7
+I1
+sVskin
+p8
+I1
+sVtouch
+p9
+I1
+sVkanye
+p10
+I1
+sVhate
+p11
+I1
+sVaint
+p12
+I2
+sVchain
+p13
+I1
+sVla
+p14
+I1
+sVease
+p15
+I1
+sVdick
+p16
+I2
+sVmaid
+p17
+I1
+sVgoing
+p18
+I1
+sVrich
+p19
+I1
+sVprison
+p20
+I1
+sVbout
+p21
+I4
+sVmaybach
+p22
+I2
+sVmeanwhile
+p23
+I1
+sVcontracts
+p24
+I1
+sVye
+p25
+I2
+sVknow
+p26
+I7
+sVreporters
+p27
+I1
+sVworld
+p28
+I1
+sVnow
+p29
+I1
+sVbullshit
+p30
+I1
+sValexander
+p31
+I1
+sVsmash
+p32
+I1
+sVlike
+p33
+I1
+sVsleeve
+p34
+I1
+sVbobby
+p35
+I1
+sVtear
+p36
+I1
+sVserved
+p37
+I1
+sVgrab
+p38
+I1
+sVyall
+p39
+I6
+sVclothes
+p40
+I1
+sVowned
+p41
+I1
+sVnigga
+p42
+I2
+sVleaders
+p43
+I2
+sVbentley
+p44
+I1
+sVthrowing
+p45
+I2
+sVhouse
+p46
+I1
+sVgo
+p47
+I1
+sVsee
+p48
+I10
+sVtoday
+p49
+I1
+sVpicked
+p50
+I1
+sVout
+p51
+I2
+sVblouse
+p52
+I1
+sVgon
+p53
+I1
+sVblacks
+p54
+I1
+sVplease
+p55
+I1
+sVeverything
+p56
+I1
+sVcest
+p57
+I1
+sVnew
+p58
+I10
+sVfree
+p59
+I1
+sVwater
+p60
+I1
+sVwear
+p61
+I1
+sVcome
+p62
+I1
+sVthrow
+p63
+I2
+sVanything
+p64
+I1
+sVcountry
+p65
+I1
+sVleaves
+p66
+I4
+sVrecorders
+p67
+I1
+sVturn
+p68
+I1
+sVthats
+p69
+I3
+sVraised
+p70
+I1
+sVdont
+p71
+I1
+sVfamily
+p72
+I1
+sVvie
+p73
+I1
+sVpussy
+p74
+I2
+sVconfuse
+p75
+I1
+sVswallower
+p76
+I2
+sVprivate
+p77
+I1
+sVdown
+p78
+I1
+sVmomma
+p79
+I1
+sVeverybody
+p80
+I1
+sVwould
+p81
+I1
+sVspending
+p82
+I1
+sVwest
+p83
+I1
+sVracism
+p84
+I2
+sVhamptons
+p85
+I1
+sVstore
+p86
+I1
+sVmore
+p87
+I1
+sVtryna
+p88
+I2
+sVbuy
+p89
+I1
+sVbroke
+p90
+I1
+sVprobably
+p91
+I1
+sVme
+p92
+I6
+sVboucher
+p93
+I1
+sVmyself
+p94
+I1
+sVfur
+p95
+I1
+sVniggas
+p96
+I8
+sVup
+p97
+I2
+sVus
+p98
+I1
+sVair
+p99
+I1
+sVera
+p100
+I1
+sVwild
+p101
+I1
+sVdea
+p102
+I1
+sVpiece
+p103
+I1
+sVill
+p104
+I2
+sVsay
+p105
+I1
+sVtheres
+p106
+I3
+sVcontrol
+p107
+I1
+sVheart
+p108
+I1
+sVwang
+p109
+I1
+sVwasnt
+p110
+I1
+sVlock
+p111
+I1
+sVfuck
+p112
+I9
+sVcant
+p113
+I6
+sVdiamond
+p114
+I1
+sVim
+p115
+I4
+sVwant
+p116
+I3
+sVfairer
+p117
+I1
+sVshit
+p118
+I3
+sVcotton
+p119
+I1
+sVtheyll
+p120
+I1
+sVrather
+p121
+I2
+sVcorporation
+p122
+I1
+sVmake
+p123
+I1
+sVget
+p124
+I1
+sVwhen
+p125
+I1
+sVid
+p126
+I2
+sVread
+p127
+I1
+sVfollowers
+p128
+I2
+sVplay
+p129
+I1
+sVused
+p130
+I1
+sVunless
+p131
+I1
+sVclean
+p132
+I1
+sVkeys
+p133
+I2
+sVbraggin
+p134
+I1
+sVstay
+p135
+I2
+sVmouth
+p136
+I1
+sVblood
+p137
+I4
+sVspouse
+p138
+I1
+sVcoat
+p139
+I1
+sVthought
+p140
+I1
+sVslaves
+p141
+I9
+sVthings
+p142
+I1
+sVcca
+p143
+I1
+sVorder
+p144
+I1
+sVcame
+p145
+I1
+s.

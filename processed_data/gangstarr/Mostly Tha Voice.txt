@@ -1,65 +1,583 @@
-"mostly tha voice" lyrics
-gang starr lyrics
-"mostly tha voice"
-it's mostly tha voice, that gets you up
-it's mostly tha voice, that makes you buck
-a lot of rappers got flavor, and some got skills
-but if your voice ain't dope then you need to (chill... chill...)
-up steps one, and he gets done
-then up steps another, he gets smothered
-that's word to mother, or should i say moms
-i drop bombs, scorchin niggaz like napalm
-sucka, boy, get off my shit
-get off my dick so what i make butter hits
-you better change your behavior, battling gangstarr
-no religion could save ya
-my religion is rap, r-a-p
-r-e-a-l-i-t-y, g
-cause when i rock street kids rejoice
-i got mad rhymes, still
-so when you think you know the whole you don't even know the half
-you're not a threat to myself, and neither to my staff
-not the type to really dance too much, although i used to
-rather bust a fresh line, and get loose to
-the blunted ill types of beats premier makes
-makes your girl's rear shake, let me set it straight
-some rappers use hooks to this shit
-but if you took that shit out
-and you took all the music out
-what would remain?  the voice no doubt
-bless my soul i control
-when in pimp mode
-my bank roll expands
-i invest in my man
-i plan, to keep rap real
-so if your shit ain't fat then kneel
-you squeal, feeling pain from my oral flex
-what about oral sex, which chick's next
-to open wide and get a chunk from a real brother
-yeah, some real funk from a real brother
-they get sprung and most of them don't recover
-but i don't diss em i just talk to em
-cause the sound, of my voice, it does a lot to em
-so you and, the niggaz right there
-be aware, like swv, i'm right here
-waitin to correct your ass
-and if you don't follow now i'll disrespect your ass
-more vicious than sid, do a crime with no bid
-i tell a bitch that i didn't when you know that i did
-take a trip to a land a-far
-then come back, and people still know gangstarr
-see i'm the ladies choice
-cause i got crazy styles, still
-oh shit shug, whattup
-(whassup money?)
-just loungin, about to go do this shit in the studio
-(oh yeah, you just let me get on that shit
-you always said i could get on, you need to let me get on that)
-word?
-(for real man)
-yo man
-(don't front on that shit)
-i'm sayin yo, if i let you get busy, youknowhati'msayin
-you can't be dissapointin me
-(i flip shit, i'ma flip shit on this)
-aight man, let's go
+(dp1
+Vchicks
+p2
+I1
+sVwhattup
+p3
+I1
+sVdiss
+p4
+I1
+sVlyrics
+p5
+I2
+sVdance
+p6
+I1
+sVhooks
+p7
+I1
+sVoral
+p8
+I2
+sVgang
+p9
+I1
+sVshake
+p10
+I1
+sVgo
+p11
+I2
+sVfollow
+p12
+I1
+sVflavor
+p13
+I1
+sVstill
+p14
+I3
+sVstaff
+p15
+I1
+sVaint
+p16
+I2
+sVbusy
+p17
+I1
+sVsayin
+p18
+I1
+sVdick
+p19
+I1
+sVbust
+p20
+I1
+sVcrime
+p21
+I1
+sVbetter
+p22
+I1
+sVto
+p23
+I2
+sVlets
+p24
+I1
+sVbank
+p25
+I1
+sVmoney
+p26
+I1
+sVsave
+p27
+I1
+sVreal
+p28
+I5
+sVflex
+p29
+I1
+sVdissapointin
+p30
+I1
+sVyo
+p31
+I2
+sVget
+p32
+I9
+sVya
+p33
+I1
+sVdope
+p34
+I1
+sVfat
+p35
+I1
+sVchoice
+p36
+I1
+sVme
+p37
+I1
+sVknow
+p38
+I4
+sVhalf
+p39
+I1
+sVfront
+p40
+I1
+sVrear
+p41
+I1
+sVlike
+p42
+I2
+sVpimp
+p43
+I1
+sVskills
+p44
+I1
+sValways
+p45
+I1
+sVdrop
+p46
+I1
+sVbrother
+p47
+I2
+sVbless
+p48
+I1
+sVdid
+p49
+I1
+sVsteps
+p50
+I2
+sVmode
+p51
+I1
+sVbombs
+p52
+I1
+sVrock
+p53
+I1
+sVout
+p54
+I2
+sVem
+p55
+I3
+sVset
+p56
+I1
+sVpeople
+p57
+I1
+sVchunk
+p58
+I1
+sVfeeling
+p59
+I1
+sVyeah
+p60
+I2
+sVsoul
+p61
+I1
+sVsee
+p62
+I1
+sVstreet
+p63
+I1
+sVdoubt
+p64
+I1
+sVniggaz
+p65
+I2
+sVreally
+p66
+I1
+sVeven
+p67
+I1
+sVsaid
+p68
+I1
+sVreligion
+p69
+I2
+sVwhassup
+p70
+I1
+sVgot
+p71
+I4
+sVneither
+p72
+I1
+sVcause
+p73
+I3
+sVcorrect
+p74
+I1
+sVkneel
+p75
+I1
+sVass
+p76
+I2
+sVima
+p77
+I1
+sVblunted
+p78
+I1
+sVloose
+p79
+I1
+sVsprung
+p80
+I1
+sVhere
+p81
+I1
+sVdisrespect
+p82
+I1
+sVshug
+p83
+I1
+sVlet
+p84
+I4
+sValthough
+p85
+I1
+sVsmothered
+p86
+I1
+sVchange
+p87
+I1
+sVboy
+p88
+I1
+sVhits
+p89
+I1
+sVkids
+p90
+I1
+sVg
+I1
+sVbattling
+p91
+I1
+sVcould
+p92
+I2
+sVkeep
+p93
+I1
+sVthreat
+p94
+I1
+sVstudio
+p95
+I1
+sVflip
+p96
+I2
+sVwhole
+p97
+I1
+sVthink
+p98
+I1
+sVthats
+p99
+I1
+sVladies
+p100
+I1
+sVdont
+p101
+I5
+sVyouknowhatimsayin
+p102
+I1
+sVone
+p103
+I1
+sVright
+p104
+I2
+sVdone
+p105
+I1
+sVbitch
+p106
+I1
+sVanother
+p107
+I1
+sVopen
+p108
+I1
+sVbeats
+p109
+I1
+sVuse
+p110
+I1
+sVrejoice
+p111
+I1
+sVscorchin
+p112
+I1
+sVwould
+p113
+I1
+sVcome
+p114
+I1
+sVthere
+p115
+I1
+sVgirls
+p116
+I1
+sVnext
+p117
+I1
+sVmuch
+p118
+I1
+sVmusic
+p119
+I1
+sVlot
+p120
+I2
+sVstarr
+p121
+I1
+sVsqueal
+p122
+I1
+sVtype
+p123
+I1
+sVtell
+p124
+I1
+sVswv
+p125
+I1
+sVback
+p126
+I1
+sVmostly
+p127
+I4
+sVbuck
+p128
+I1
+sVtook
+p129
+I2
+sVcant
+p130
+I1
+sVaware
+p131
+I1
+sVline
+p132
+I1
+sVsex
+p133
+I1
+sVfunk
+p134
+I1
+sVchill
+p135
+I2
+sVsound
+p136
+I1
+sVwide
+p137
+I1
+sVword
+p138
+I2
+sVthis
+p139
+I1
+sVstraight
+p140
+I1
+sVoh
+p141
+I2
+sVup
+p142
+I1
+sVrhymes
+p143
+I1
+sVremain
+p144
+I1
+sVbehavior
+p145
+I1
+sVinvest
+p146
+I1
+sVaight
+p147
+I1
+sVvoice
+p148
+I7
+sVdidnt
+p149
+I1
+sVill
+p150
+I2
+sVsucka
+p151
+I1
+sVafar
+p152
+I1
+sVcontrol
+p153
+I1
+sVstyles
+p154
+I1
+sVcrazy
+p155
+I1
+sVnapalm
+p156
+I1
+sVpremier
+p157
+I1
+sVsay
+p158
+I1
+sVim
+p159
+I3
+sVrap
+p160
+I3
+sVneed
+p161
+I2
+sVplan
+p162
+I1
+sVrecover
+p163
+I1
+sVtrip
+p164
+I1
+sVshit
+p165
+I10
+sVrather
+p166
+I1
+sVmake
+p167
+I1
+sVthat
+p168
+I1
+sVreality
+p169
+I1
+sVmoms
+p170
+I1
+sVgangstarr
+p171
+I2
+sVtake
+p172
+I1
+sVsid
+p173
+I1
+sVgets
+p174
+I3
+sVroll
+p175
+I1
+sVwaitin
+p176
+I1
+sVused
+p177
+I1
+sVpain
+p178
+I1
+sVloungin
+p179
+I1
+sVrappers
+p180
+I2
+sVvicious
+p181
+I1
+sVmad
+p182
+I1
+sVtypes
+p183
+I1
+sVman
+p184
+I4
+sVbutter
+p185
+I1
+sVland
+p186
+I1
+sVmakes
+p187
+I3
+sVbid
+p188
+I1
+sVyoure
+p189
+I1
+sVtalk
+p190
+I1
+sVmother
+p191
+I1
+sVfresh
+p192
+I1
+sVexpands
+p193
+I1
+sVtha
+p194
+I4
+s.

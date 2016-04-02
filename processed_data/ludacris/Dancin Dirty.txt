@@ -1,83 +1,505 @@
-"dancin dirty" lyrics
-ludacris lyrics
-"dancin dirty"
-(feat. chris brown)
-heeeeeeeeeee... leggo
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty on the flow 'cause she know a nigga watchin
-dirty on the flow 'cause she know a nigga watchin
-she with her friends – they might go
-they poppin ass like they poppin bottles
-i'm with my niggas, we got dough
-so bend that ass for this cash on the flow... leggo
-shake that, shake it like you mean it
-you take another shot, me and yo girl gon double-team it
-she drop it to the floor like i ain't even never seen it
-and runnin that dirty mouth like i ain't even tryna clean it
-so i... grab a cup, fill it to the brim
-then hand you a night cap and say we going for a swim
-later on at the crib-o, hard as an armadillo
-she say she think she love me so i told that bitch dido
-flexin these georgia bitches, then let em right off they leashes
-they thinkin i'm so feciscious til i beat that pussy to pieces
-i'm checkin they facial features, they shakin like some sort of seizure
-and thinkin i'm some sort of hater,
-hatin alien, nice to meet ya
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty on the flow 'cause she know a nigga watchin
-dirty on the flow 'cause she know a nigga watchin
-she with her friends – they might go
-they poppin ass like they poppin bottles
-i'm with my niggas, we got dough
-so bend that ass for this cash on the flow... leggo
-throw it, throw it like you know it
-these girls be actin shy but you just ain't afraid to show it
-i got all this money and i'm down, so fun to blow it
-'cause she ask me for a drink and i'm down, so fun to bow it
-i'm a make it strong, she says she like it fruity
-in another 30 minutes i be feelin on her booty
-an hour after that i'll have her twisted like a cyclone
-legs wrapped around me til she squeeze me like a python
-i call that sizzle, we both been gone off that liquor
-she let down all her defenses, and yes i give her the business
-with a quickness she came to her senses
-well i'm choppin and snappin pictures
-relentless but so persistent
-now she said it's just ludacris
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty on the flow 'cause she know a nigga watchin
-dirty on the flow 'cause she know a nigga watchin
-she with her friends – they might go
-they poppin ass like they poppin bottles
-i'm with my niggas, we got dough
-so bend that ass for this cash on the flow... leggo
-pop it, pop it like a stripper
-pop it like a soda can, pop it for a snicker
-pop it for these fast balls, throw it like a picture
-when the waitress yellin last call – drop it on a nigga, blah
-this girl's bomber, flew her to puntacana
-we sippin on some coladas
-i'm takin off her pajamas
-she nasty, with a nice persona
-she bitin me like piranha
-the model, the girlfriend dumber
-she must get it from her mama
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty - she dancing dirty
-she dancing dirty on the flow 'cause she know a nigga watchin
-dirty on the flow 'cause she know a nigga watchin
-she with her friends – they might go
-they poppin ass like they poppin bottles
-i'm with my niggas, we got dough
-so bend that ass for this cash on the flow... leggo
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I2
+sVmoney
+p5
+I1
+sValien
+p6
+I1
+sVdough
+p7
+I4
+sVbrim
+p8
+I1
+sVshake
+p9
+I2
+sVgo
+p10
+I4
+sVyes
+p11
+I1
+sVbomber
+p12
+I1
+sVfeat
+p13
+I1
+sVfeciscious
+p14
+I1
+sVaint
+p15
+I3
+sVdoubleteam
+p16
+I1
+sVcup
+p17
+I1
+sVsnicker
+p18
+I1
+sVdancin
+p19
+I2
+sVpoppin
+p20
+I8
+sVpiranha
+p21
+I1
+sVgoing
+p22
+I1
+sVactin
+p23
+I1
+sVdancing
+p24
+I36
+sVmight
+p25
+I4
+sVhater
+p26
+I1
+sVswim
+p27
+I1
+sVbrown
+p28
+I1
+sVaround
+p29
+I1
+sVyo
+p30
+I1
+sVget
+p31
+I1
+sVbeat
+p32
+I1
+sVcheckin
+p33
+I1
+sVflew
+p34
+I1
+sVfeelin
+p35
+I1
+sVquickness
+p36
+I1
+sVballs
+p37
+I1
+sVknow
+p38
+I9
+sVfacial
+p39
+I1
+sVnasty
+p40
+I1
+sVlike
+p41
+I16
+sVshy
+p42
+I1
+sVdido
+p43
+I1
+sVdrop
+p44
+I2
+sVnight
+p45
+I1
+sVgrab
+p46
+I1
+sVtold
+p47
+I1
+sVrelentless
+p48
+I1
+sVmean
+p49
+I1
+sVem
+p50
+I1
+sVnigga
+p51
+I9
+sVsays
+p52
+I1
+sVliquor
+p53
+I1
+sVhard
+p54
+I1
+sVsippin
+p55
+I1
+sV\u2013
+I5
+sVgirl
+p56
+I1
+sVpajamas
+p57
+I1
+sVeven
+p58
+I2
+sVgon
+p59
+I1
+sVpictures
+p60
+I1
+sVcyclone
+p61
+I1
+sVgot
+p62
+I5
+sVcause
+p63
+I9
+sVwatchin
+p64
+I8
+sVass
+p65
+I8
+sVblow
+p66
+I1
+sVdumber
+p67
+I1
+sVbusiness
+p68
+I1
+sVdefenses
+p69
+I1
+sVnever
+p70
+I1
+sVlet
+p71
+I2
+sVask
+p72
+I1
+sVflexin
+p73
+I1
+sVstrong
+p74
+I1
+sVthrow
+p75
+I3
+sVlast
+p76
+I1
+sVill
+p77
+I1
+sV30
+p78
+I1
+sVchoppin
+p79
+I1
+sVbow
+p80
+I1
+sVcoladas
+p81
+I1
+sVsoda
+p82
+I1
+sVthink
+p83
+I1
+sVwaitress
+p84
+I1
+sVleggo
+p85
+I5
+sVlove
+p86
+I1
+sVfeatures
+p87
+I1
+sVpussy
+p88
+I1
+sVseizure
+p89
+I1
+sVpop
+p90
+I5
+sVright
+p91
+I1
+sVbitch
+p92
+I1
+sVanother
+p93
+I2
+sVbooty
+p94
+I1
+sVgirls
+p95
+I2
+sVtwisted
+p96
+I1
+sVfast
+p97
+I1
+sVmama
+p98
+I1
+sVcall
+p99
+I2
+sVshow
+p100
+I1
+sVlegs
+p101
+I1
+sVsort
+p102
+I2
+sVtryna
+p103
+I1
+sVsizzle
+p104
+I1
+sVpython
+p105
+I1
+sVbitches
+p106
+I1
+sVbitin
+p107
+I1
+sVwrapped
+p108
+I1
+sVarmadillo
+p109
+I1
+sVpuntacana
+p110
+I1
+sVhatin
+p111
+I1
+sVsqueeze
+p112
+I1
+sVmust
+p113
+I1
+sVrunnin
+p114
+I1
+sVgeorgia
+p115
+I1
+sVhour
+p116
+I1
+sVniggas
+p117
+I4
+sVcap
+p118
+I1
+sVcash
+p119
+I4
+sVblah
+p120
+I1
+sVleashes
+p121
+I1
+sVdirty
+p122
+I43
+sVfun
+p123
+I2
+sVmeet
+p124
+I1
+sVminutes
+p125
+I1
+sVfruity
+p126
+I1
+sVgone
+p127
+I1
+sVlater
+p128
+I1
+sVgive
+p129
+I1
+sVwell
+p130
+I1
+sVit
+p131
+I8
+sVpieces
+p132
+I1
+sVyellin
+p133
+I1
+sVsay
+p134
+I2
+sVsenses
+p135
+I1
+sVim
+p136
+I12
+sVbend
+p137
+I4
+sVgirlfriend
+p138
+I1
+sVseen
+p139
+I1
+sVfill
+p140
+I1
+sVafraid
+p141
+I1
+sVbottles
+p142
+I4
+sVfloor
+p143
+I1
+sVthinkin
+p144
+I2
+sVtakin
+p145
+I1
+sVtil
+p146
+I2
+sVya
+p147
+I1
+sVshakin
+p148
+I1
+sVtake
+p149
+I1
+sVstripper
+p150
+I1
+sVnice
+p151
+I2
+sVpicture
+p152
+I1
+sVpersona
+p153
+I1
+sVsnappin
+p154
+I1
+sVdrink
+p155
+I1
+sVhand
+p156
+I1
+sVsaid
+p157
+I1
+sVmouth
+p158
+I1
+sVchris
+p159
+I1
+sVfriends
+p160
+I4
+sVheeeeeeeeeee
+p161
+I1
+sVflow
+p162
+I12
+sVpersistent
+p163
+I1
+sVcribo
+p164
+I1
+sVclean
+p165
+I1
+sVmodel
+p166
+I1
+sVmake
+p167
+I1
+sVcame
+p168
+I1
+s.

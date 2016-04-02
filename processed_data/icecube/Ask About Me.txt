@@ -1,76 +1,569 @@
-"ask about me" lyrics
-ice cube lyrics
-"ask about me"
-i check it in on the west coast (ask about me)
-i check it in in the dirty south (a-yeay)
-i check it in in the mid-west (hustle, man)
-i check it in on the east coast (the hustle gang)
-(look at me)
-(don matta')
-(poppa don)
-check my blood pressure,
-they think they fresher than the don
-prescription pills to keep me calm,
-nigga, i'm da bomb!
-in the black testerosa,
-sippin' on mimosa,
-a bleedin' ?nosa?
-i'm in the west, we ain't got the ?nego?
-give me sicko kilos from puerto rico
-when i okay it,
-so much cheese, you got to weigh it
-never thought these niggaz was the feds
-"freeze" was the sound
-i started lettin' off rounds,
-lay the whole fuckin' room down
-i don't wanna see your honor,
-ratha eat pirhana from benny hana,
-smokin' marijuana in my sauna,
-i done hade it with these attics and faggots,
-they them rattic causin' static,
-bring me my a-u-t-o-matic,
-oh niggaz wanna se how we ride
-bitch, you know the muthafuckin' side,
-world muthafuckin' wide.
-make yo' hustle official,
-and them niggaz that's wit' you,
-gotta push tha issue,
-on the fools that dis you,
-whether pump or pistol,
-when it's up in yo' gristle,
-hand yo' mama a tissue,
-if i decide to kiss you.
-(replace "a-yeay" with "ask about me")
-can you dig her?
-it's the bigger, seven-figure, super nigga
-wit' the triggas at yo' dome,
-we like to roam,
-through yo' muthafuckin' home like a comb
-and find the money that's gone
-and we'll take you, shake you,
-break you, take two,
-play you on wit' the chrome,
-nigga shoot!
-execute, they try to electrocute
-i got too much loot
-ya say i'm on yo' hit list,
-you niggaz miss,
-tryin' to turn my muthafuckin' cheese into swiss
-rappers make bucks and i can hear it,
-hard to fear it,
-'cuz i know you grew up on my lyrics
-it's the boss player,
-never lost hair over assholes,
-blast holes in you muthafuckin' tadpoles
-like a bullfrog,
-nigga i'm a bullhog,
-guppies get worked like puppies by the bulldog
-where millions never gave a fuck about sicilians,
-or killas on t.v. can see,
-we got the real ones
-so check yo' muthafuckin cd-rom
-and your world wide web, dot com,
-it's the don mega!
-what cha call it? (the hustle gang)
-what cha call it? (hustle, man)
-ask about me
+(dp1
+Vbomb
+p2
+I1
+sVkiss
+p3
+I1
+sVlyrics
+p4
+I3
+sVmoney
+p5
+I1
+sVassholes
+p6
+I1
+sVtesterosa
+p7
+I1
+sVbring
+p8
+I1
+sVgang
+p9
+I2
+sVshake
+p10
+I1
+sVfear
+p11
+I1
+sVayeay
+p12
+I2
+sVfind
+p13
+I1
+sVaint
+p14
+I1
+sVweb
+p15
+I1
+sVblast
+p16
+I1
+sVtriggas
+p17
+I1
+sVtv
+p18
+I1
+sVhade
+p19
+I1
+sVcuz
+p20
+I1
+sVrico
+p21
+I1
+sVblack
+p22
+I1
+sVpuerto
+p23
+I1
+sVeast
+p24
+I1
+sVmidwest
+p25
+I1
+sVta
+p26
+I1
+sVreal
+p27
+I1
+sVme
+p28
+I4
+sVelectrocute
+p29
+I1
+sVcube
+p30
+I1
+sVhit
+p31
+I1
+sVyo
+p32
+I7
+sVget
+p33
+I1
+sVmuthafuckin
+p34
+I6
+sVcoast
+p35
+I2
+sVbreak
+p36
+I1
+sVshoot
+p37
+I1
+sVones
+p38
+I1
+sVknow
+p39
+I2
+sVdecide
+p40
+I1
+sVworld
+p41
+I2
+sVreplace
+p42
+I1
+sVfools
+p43
+I1
+sVbigger
+p44
+I1
+sVroom
+p45
+I1
+sVpoppa
+p46
+I1
+sVexecute
+p47
+I1
+sVlike
+p48
+I4
+sVlost
+p49
+I1
+sVdig
+p50
+I1
+sVlist
+p51
+I1
+sVtry
+p52
+I1
+sVnosa
+p53
+I1
+sVautomatic
+p54
+I1
+sVside
+p55
+I1
+sVnego
+p56
+I1
+sVnigga
+p57
+I4
+sVbullfrog
+p58
+I1
+sVbleedin
+p59
+I1
+sVhard
+p60
+I1
+sVkilos
+p61
+I1
+sVhair
+p62
+I1
+sVsee
+p63
+I2
+sVstatic
+p64
+I1
+sVhome
+p65
+I1
+sVpills
+p66
+I1
+sVice
+p67
+I1
+sVpump
+p68
+I1
+sVcom
+p69
+I1
+sVgot
+p70
+I5
+sVpistol
+p71
+I1
+sVissue
+p72
+I1
+sVrappers
+p73
+I1
+sVhustle
+p74
+I5
+sVlettin
+p75
+I1
+sVcha
+p76
+I2
+sVnever
+p77
+I3
+sVdome
+p78
+I1
+sVboss
+p79
+I1
+sVpressure
+p80
+I1
+sVsmokin
+p81
+I1
+sVask
+p82
+I5
+sVhand
+p83
+I1
+sVsuper
+p84
+I1
+sVprescription
+p85
+I1
+sVmega
+p86
+I1
+sVrattic
+p87
+I1
+sVkeep
+p88
+I1
+sVturn
+p89
+I1
+sVratha
+p90
+I1
+sVroam
+p91
+I1
+sVtha
+p92
+I1
+sVdis
+p93
+I1
+sVwhole
+p94
+I1
+sVhonor
+p95
+I1
+sVfuckin
+p96
+I1
+sVblood
+p97
+I1
+sVfaggots
+p98
+I1
+sVcheese
+p99
+I2
+sVpirhana
+p100
+I1
+sVdont
+p101
+I1
+sVgristle
+p102
+I1
+sVdown
+p103
+I1
+sVwit
+p104
+I3
+sVdone
+p105
+I1
+sVbitch
+p106
+I1
+sVmatta
+p107
+I1
+sVmiss
+p108
+I1
+sVrounds
+p109
+I1
+sVmillions
+p110
+I1
+sVwan
+p111
+I2
+sVcomb
+p112
+I1
+sVtadpoles
+p113
+I1
+sVher
+p114
+I1
+sVchrome
+p115
+I1
+sVwest
+p116
+I2
+sVtwo
+p117
+I1
+sVmuch
+p118
+I2
+sVcall
+p119
+I2
+sVcalm
+p120
+I1
+sVcausin
+p121
+I1
+sVmama
+p122
+I1
+sVtryin
+p123
+I1
+sVkillas
+p124
+I1
+sVstarted
+p125
+I1
+sVfuck
+p126
+I1
+sVguppies
+p127
+I1
+sVmarijuana
+p128
+I1
+sVbulldog
+p129
+I1
+sVhear
+p130
+I1
+sVcdrom
+p131
+I1
+sVworked
+p132
+I1
+sVfreeze
+p133
+I1
+sVeat
+p134
+I1
+sVsicilians
+p135
+I1
+sVsound
+p136
+I1
+sVwide
+p137
+I2
+sVgrew
+p138
+I1
+sVlook
+p139
+I1
+sVwhether
+p140
+I1
+sVride
+p141
+I1
+sVoh
+p142
+I1
+sVattics
+p143
+I1
+sVniggaz
+p144
+I4
+sVdirty
+p145
+I1
+sVloot
+p146
+I1
+sVgave
+p147
+I1
+sVgone
+p148
+I1
+sVfresher
+p149
+I1
+sVgive
+p150
+I1
+sVholes
+p151
+I1
+sVofficial
+p152
+I1
+sVit
+p153
+I4
+sVplayer
+p154
+I1
+sVsay
+p155
+I1
+sVtissue
+p156
+I1
+sVim
+p157
+I4
+sVbucks
+p158
+I1
+sVcheck
+p159
+I6
+sVsippin
+p160
+I1
+sVna
+p161
+I2
+sVmake
+p162
+I2
+sVya
+p163
+I1
+sVtake
+p164
+I2
+sVyou
+p165
+I4
+sVplay
+p166
+I1
+sVokay
+p167
+I1
+sVhana
+p168
+I1
+sVsauna
+p169
+I1
+sVmimosa
+p170
+I1
+sVswiss
+p171
+I1
+sVfeds
+p172
+I1
+sVlay
+p173
+I1
+sVpuppies
+p174
+I1
+sVda
+p175
+I1
+sVman
+p176
+I2
+sVdon
+p177
+I2
+sVsevenfigure
+p178
+I1
+sVdot
+p179
+I1
+sVwell
+p180
+I1
+sVbenny
+p181
+I1
+sVthink
+p182
+I1
+sVthought
+p183
+I1
+sVbullhog
+p184
+I1
+sVsouth
+p185
+I1
+sVpush
+p186
+I1
+sVweigh
+p187
+I1
+sVthats
+p188
+I2
+sVsicko
+p189
+I1
+sVse
+p190
+I1
+s.

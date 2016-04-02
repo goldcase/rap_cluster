@@ -1,98 +1,764 @@
-"girls, girls, girls" lyrics
-jay-z lyrics
-"girls, girls, girls"
-(feat. biz markie, slick rick, q-tip)
-girls i love you.. i love all y'all
-hehehe, hehehe, f'real
-i love girls, girls, girls, girls
-girls, i do adore
-yo put your number on this paper cause i would love to date ya
-holla at ya when i come off tour, yeah
-i got this spanish chica, she don't like me to roam
-so she call me cabron plus marricon
-said she likes to cook rice so she likes me home
-i'm like, "un momento" - mami, slow up your tempo
-i got this black chick, she don't know how to act
-always talkin out her neck, makin her fingers snap
-she like, "listen jigga man, i don't care if you rap
-you better - r-e-s-p-e-c-t me"
-i got this french chick that love to french kiss
-she thinks she's bo derek, wear her hair in a twist
-my, cherie amor, tÂ£ est belle
-merci, you fine as fuck but you givin me hell
-i got this indian squaw the day that i met her
-asked her what tribe she with, red dot or feather
-she said all you need to know is i'm not a ho
-and to get with me you better be chief lots-a-dough
-now that's spanish chick, french chick, indian and black
-that's fried chicken, curry chicken, damn i'm gettin fat
-arroz con pollo, french fries and crepe
-an appetitite for destruction but i scrape the plate
-i love
-girls, girls, girls, girls (uh-huh)
-girls, i do adore
-yo put your number on this paper cause i would love to date ya
-holla at ya when i come off tour
-i love girls, girls, girls, girls
-girls all over the globe
-i come scoop you in that coupe, sittin on deuce-zeroes
-fix your hair in the mirror, let's roll - c'mon
-i got this young chick, she so immature
-she like, "why you don't buy me reeboks no more?"
-like to show out in public, throw tantrums on the floor
-gotta toss a couple dollars, just to shut up her holla
-got a project chick, that plays her part
-and if it goes down y'all that's my heart
-baby girl so thorough she been with me from the start
-hid my drugs from the narcs, hid my guns by the parts
-i got this model chick that don't cook or clean
-but she dress her ass off and her walk is mean
-only thing wrong with ma she's always on the scene
-god damn she's fine but she parties all the time
-i get frequent flier mileage from my stewardess chick
-she look right in that tight blue dress, she's thick
-she gives me extra pillows and seat back love
-so i had to introduce her to the mile high club
-now that's young chick, stewardess, project and model
-that means i fly rough early, plus i know tahoe
-that means i'm new school, pop pills and stay in beef
-but i never have a problem with my first class seat
-i love
-girls, girls, girls, girls
-girls, i do adore
-yo put your number on this paper cause i would love to date ya
-holla at ya when i come off tour
-i love girls, girls, girls, girls
-girls all over the globe
-i come scoop you in that coupe, sittin on deuce-zeroes
-fix your hair in the mirror, let's roll
-i got this paranoid chick, she's scared to come to the house
-a hypochondriac who says ouch before i whip it out
-got a chick from peru, that sniff peru
-she got a cousin at customs that get shit through
-got this weedhead chick, she always catch me doin shit
-crazy girl wanna leave me but she always forgets
-got this chinese chick, had to leave her quick'
-cause she kept bootleggin my shit - man
-i got this african chick with eddie murphy on her skull
-she like, "jigga man, why you treat me like animal?"
-i'm like excuse me ms. fufu, but when i met your ass
-you was dead broke and naked, and now you want half
-i got this ho that after twelve million sold
-mami's a narcolyptic, always sleepin on hov'
-gotta tie the back of her head like deuce bigalow
-i got so many girls across the globe..
-i love girls, girls, girls, girls
-girls, i do adore
-yo put your number on this paper cause i would love to date ya
-holla at ya when i come off tour
-i love girls, girls, girls, girls
-girls all over the globe
-i come scoop you in that coupe, sittin on deuce-zeroes
-fix your hair in the mirror, let's roll
-i love girls, girls, girls, girls
-girls, i do adore
-yo put your number on this paper cause i would love to date ya
-holla at ya when i come off tour
-i love girls, girls, girls, girls
-girls, girls..
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVflier
+p4
+I1
+sVhalf
+p5
+I1
+sVouch
+p6
+I1
+sVslick
+p7
+I1
+sVcatch
+p8
+I1
+sVpaper
+p9
+I5
+sVmomento
+p10
+I1
+sVthorough
+p11
+I1
+sVhell
+p12
+I1
+sVchicken
+p13
+I2
+sVmarkie
+p14
+I1
+sVfeat
+p15
+I1
+sVslow
+p16
+I1
+sVbigalow
+p17
+I1
+sVgivin
+p18
+I1
+sVmillion
+p19
+I1
+sVtight
+p20
+I1
+sVparanoid
+p21
+I1
+sVfix
+p22
+I3
+sVyoung
+p23
+I2
+sVbetter
+p24
+I2
+sVlets
+p25
+I3
+sVblack
+p26
+I2
+sVrick
+p27
+I1
+sVsnap
+p28
+I1
+sVimmature
+p29
+I1
+sVrice
+p30
+I1
+sVbootleggin
+p31
+I1
+sVta
+p32
+I2
+sVplate
+p33
+I1
+sVfly
+p34
+I1
+sVyo
+p35
+I5
+sVget
+p36
+I3
+sVya
+p37
+I10
+sVcouple
+p38
+I1
+sVsittin
+p39
+I3
+sVfat
+p40
+I1
+sVmakin
+p41
+I1
+sVearly
+p42
+I1
+sVbiz
+p43
+I1
+sVknow
+p44
+I3
+sVkiss
+p45
+I1
+sVnew
+p46
+I1
+sVcook
+p47
+I2
+sVna
+p48
+I1
+sVday
+p49
+I1
+sVschool
+p50
+I1
+sVscene
+p51
+I1
+sVlike
+p52
+I9
+sValways
+p53
+I5
+sVgettin
+p54
+I1
+sVroll
+p55
+I3
+sVleave
+p56
+I2
+sVchica
+p57
+I1
+sVquick
+p58
+I1
+sVchick
+p59
+I14
+sVchinese
+p60
+I1
+sVarroz
+p61
+I1
+sVyall
+p62
+I2
+sVmean
+p63
+I1
+sVmile
+p64
+I1
+sVtwelve
+p65
+I1
+sVright
+p66
+I1
+sVsays
+p67
+I1
+sVhouse
+p68
+I1
+sVglobe
+p69
+I4
+sVparties
+p70
+I1
+sVyeah
+p71
+I1
+sVdead
+p72
+I1
+sVseat
+p73
+I2
+sVhair
+p74
+I4
+sVacross
+p75
+I1
+sVeddie
+p76
+I1
+sVshes
+p77
+I5
+sVmirror
+p78
+I3
+sVcabron
+p79
+I1
+sVgirl
+p80
+I2
+sVthinks
+p81
+I1
+sVwhip
+p82
+I1
+sVout
+p83
+I1
+sVqtip
+p84
+I1
+sVnaked
+p85
+I1
+sVsaid
+p86
+I2
+sVplays
+p87
+I1
+sVsleepin
+p88
+I1
+sVfine
+p89
+I2
+sVfingers
+p90
+I1
+sVindian
+p91
+I2
+sVgoes
+p92
+I1
+sVgot
+p93
+I17
+sVcause
+p94
+I6
+sVpublic
+p95
+I1
+sVred
+p96
+I1
+sVass
+p97
+I2
+sVgives
+p98
+I1
+sVshut
+p99
+I1
+sVnever
+p100
+I1
+sVwan
+p101
+I1
+sVtantrums
+p102
+I1
+sVlotsadough
+p103
+I1
+sVsold
+p104
+I1
+sVbo
+p105
+I1
+sVtempo
+p106
+I1
+sVfrench
+p107
+I4
+sVmet
+p108
+I2
+sVwear
+p109
+I1
+sVamor
+p110
+I1
+sVput
+p111
+I5
+sVcousin
+p112
+I1
+sVcustoms
+p113
+I1
+sVcome
+p114
+I9
+sVthrow
+p115
+I1
+sVcare
+p116
+I1
+sVnarcolyptic
+p117
+I1
+sVher
+p118
+I1
+sVmany
+p119
+I1
+sVdollars
+p120
+I1
+sVthrough
+p121
+I1
+sVthing
+p122
+I1
+sVtour
+p123
+I5
+sVplus
+p124
+I2
+sVact
+p125
+I1
+sVcurry
+p126
+I1
+sVt£
+p127
+I1
+sVfrequent
+p128
+I1
+sVthats
+p129
+I4
+sVtribe
+p130
+I1
+sVhehehe
+p131
+I2
+sVlove
+p132
+I18
+sVdont
+p133
+I5
+sVextra
+p134
+I1
+sVnumber
+p135
+I5
+sVpop
+p136
+I1
+sVwalk
+p137
+I1
+sVnarcs
+p138
+I1
+sVjayz
+p139
+I1
+sVcmon
+p140
+I1
+sVlikes
+p141
+I2
+sVspanish
+p142
+I2
+sVrespect
+p143
+I1
+sVthick
+p144
+I1
+sVuhhuh
+p145
+I1
+sVreeboks
+p146
+I1
+sVwould
+p147
+I5
+sVgirls
+p148
+I54
+sVcoupe
+p149
+I3
+sVmami
+p150
+I1
+sVstart
+p151
+I1
+sVcall
+p152
+I1
+sVtreat
+p153
+I1
+sVtahoe
+p154
+I1
+sVtime
+p155
+I1
+sVdamn
+p156
+I2
+sVfeather
+p157
+I1
+sVdestruction
+p158
+I1
+sVscared
+p159
+I1
+sVlisten
+p160
+I1
+sVhead
+p161
+I1
+sVbuy
+p162
+I1
+sVperu
+p163
+I2
+sVafrican
+p164
+I1
+sVdrugs
+p165
+I1
+sVmurphy
+p166
+I1
+sVback
+p167
+I2
+sVexcuse
+p168
+I1
+sVpart
+p169
+I1
+sVho
+p170
+I2
+sVbroke
+p171
+I1
+sVbaby
+p172
+I1
+sVkept
+p173
+I1
+sVdeuce
+p174
+I1
+sVappetitite
+p175
+I1
+sVme
+p176
+I1
+sVhigh
+p177
+I1
+sVma
+p178
+I1
+sVlook
+p179
+I1
+sVskull
+p180
+I1
+sVfufu
+p181
+I1
+sVfries
+p182
+I1
+sVproject
+p183
+I2
+sVmerci
+p184
+I1
+sVun
+p185
+I1
+sVadore
+p186
+I5
+sVms
+p187
+I1
+sVpollo
+p188
+I1
+sVmarricon
+p189
+I1
+sVproblem
+p190
+I1
+sVfried
+p191
+I1
+sVmamis
+p192
+I1
+sVfirst
+p193
+I1
+sVheart
+p194
+I1
+sVcrazy
+p195
+I1
+sVfreal
+p196
+I1
+sVwant
+p197
+I1
+sVtoss
+p198
+I1
+sVfuck
+p199
+I1
+sVtwist
+p200
+I1
+sVneed
+p201
+I1
+sVim
+p202
+I5
+sVstewardess
+p203
+I2
+sVrap
+p204
+I1
+sVhome
+p205
+I1
+sVcherie
+p206
+I1
+sVsniff
+p207
+I1
+sVdress
+p208
+I2
+sVshit
+p209
+I3
+sVsquaw
+p210
+I1
+sVholla
+p211
+I6
+sVrough
+p212
+I1
+sVbeef
+p213
+I1
+sVjigga
+p214
+I2
+sVbelle
+p215
+I1
+sVmeans
+p216
+I2
+sVscrape
+p217
+I1
+sVpills
+p218
+I1
+sVhov
+p219
+I1
+sVguns
+p220
+I1
+sVparts
+p221
+I1
+sVderek
+p222
+I1
+sVanimal
+p223
+I1
+sVtie
+p224
+I1
+sVmore
+p225
+I1
+sVtalkin
+p226
+I1
+sVclub
+p227
+I1
+sVblue
+p228
+I1
+sVhypochondriac
+p229
+I1
+sVmileage
+p230
+I1
+sVpillows
+p231
+I1
+sVdoin
+p232
+I1
+sVroam
+p233
+I1
+sVstay
+p234
+I1
+sVwrong
+p235
+I1
+sVest
+p236
+I1
+sVintroduce
+p237
+I1
+sVdate
+p238
+I5
+sVclass
+p239
+I1
+sVman
+p240
+I3
+sVforgets
+p241
+I1
+sVcrepe
+p242
+I1
+sVneck
+p243
+I1
+sVfloor
+p244
+I1
+sVasked
+p245
+I1
+sVscoop
+p246
+I3
+sVchief
+p247
+I1
+sVclean
+p248
+I1
+sVgod
+p249
+I1
+sVhid
+p250
+I2
+sVmodel
+p251
+I2
+sVcon
+p252
+I1
+sVweedhead
+p253
+I1
+sVdot
+p254
+I1
+sVdeucezeroes
+p255
+I3
+s.

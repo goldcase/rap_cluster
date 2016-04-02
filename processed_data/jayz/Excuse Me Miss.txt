@@ -1,100 +1,670 @@
-"excuse me miss" lyrics
-jay-z lyrics
-"excuse me miss"
-(feat. pharrell williams (neptunes))
-you can't roll a blunt to this one
-you gotta, you gotta well, ya gotta light a j
-you gotta puff a j on this one {*inhales*}
-you can't even drink crist-all on this one
-you gotta drink crist-all
-buy some red wine, a little gocha 9-7
-this is for the grown and sexy, uhh
-you're so contagious, i can't take it
-have my baby, let's just make it
-ex-cuse me; what's your name?
-yeah, can i get my grown man on for one second?
-cause i see some ladies tonight that should be hangin wit jay-z, jay-z
-(pharrell: so hot to trot.. la-dy!)
-excuse me miss, what's your name?
-can you come, hang with me?
-possibly, can i take you out, to-night
-you already know what it's hittin for
-ma i got whatever outside and you know what i'm sittin on
-50/50 venture with them s dots kickin off
-armadale poppin now, only bring a nigga more
-only thing missin is a missus
-you ain't even gotta do the dishes, got two dishwashers
-got one chef, one maid, all i need is a partner
-to play spades with the cards up, all trust
-who else you gon' run with, the truth is us
-only dudes movin units - em, pimp juice and us
-.. it's the roc in here!
-maebach outside got rocks of air
-pj's on the runway, young got air
-i don't land at a airport, i call it the clearport
-therefore, i don't wanna hear more
-back and forth about who's hot as young, holla!
-sex-cuse me... damn!
-you're so contagious, i can't take it
-have my baby, let's just make it
-i got my gocha 9-7 on right now
-la-dy..
-you gotta puff a j to this one
-can't roll a blunt up to this one boy
-you're so contagious, i can't take it
-have my baby, let's just make it
-ex-cuse me; what's your name? (aoww!)
-cause i see some ladies tonight
-that should be rollin wit jay-z, jay-z
-so hot to trot.. la-dy! what's your name?
-cause i see some ladies tonight
-that should be rollin wit jay-z, jay-z
-you're so foxy girl.. you're so hot to trot..
-everybody's like, "he's no item! please don't like him.
-he don't wife 'em, he one nights 'em!"
-now she don't like him, she never met him
-groupies try to take advantage of him, he won't let 'em
-he don't need 'em, so he treats 'em like he treats 'em
-better them than me, she don't agree with him
-she's mad at that, he's not havin that
-so those opposites attract like mag-a-nets
-she sees more than the benz wagon, the friends taggin along
-with a flashy nigga braggin on the song
-she gets a glimpse of shawn and she likes that
-he 2-ways her, so she writes back
-smiley faces after all of her phrases
-either she the one or i'm caught in "the matrix"
-but fukkit, let the +fish-burne+
-red or green pill, you live and you learn, c'mon!
-sex-cuse me... damn!
-you gotta throw on your fine linens for this one
-you're so contagious, i can't take it
-have my baby, let's just make it
-you might go, you mighta gotta go get you some scooby doo's
-la-dy..
-gotta throw on ya scooby doo's; those are shoes by the way
-you're so contagious, i can't take it
-gotta throw on scooby doo's, hehehehe
-have my baby, let's just make it
-ex-cuse me; what's your name?
-this for the grown and sexy, only for the grown and sexy
-so hot to trot.. la-dy! what's your name?
-woo!
-you're so foxy girl.. you're so hot to trot..
-love let's go half on a son, i know my past ain't one
-you can easily get past, but that chapter is done
-... but i'm done readin for now
-remember spades face up, you can believe him for now
-but ma you got a f'real f'serious role
-i'm bout to give you all the keys and security codes
-bout to show you where the cheese, let you know i ain't playin
-but, before i jump out the window, what's your name?
-sex-cuse me... damn!
-you're so contagious, i can't take it
-have my baby, let's just make it
-la-dy..
-you're so contagious, i can't take it
-have my baby, let's just make it
-ex-cuse me; what's your name?
-so hot to trot.. la-dy! what's your name?
-you're so foxy girl.. you're so hot to trot..
+(dp1
+Vson
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVroc
+p6
+I1
+sVbring
+p7
+I1
+sVgo
+p8
+I3
+sVlove
+p9
+I1
+sVfeat
+p10
+I1
+sVtrot
+p11
+I7
+sVaint
+p12
+I3
+sVglimpse
+p13
+I1
+sVwrites
+p14
+I1
+sVpoppin
+p15
+I1
+sVyoung
+p16
+I2
+sVhim
+p17
+I3
+sVbetter
+p18
+I1
+sVmaid
+p19
+I1
+sVlets
+p20
+I8
+sVbout
+p21
+I2
+sVfukkit
+p22
+I1
+sVpill
+p23
+I1
+sVta
+p24
+I11
+sVadvantage
+p25
+I1
+sVget
+p26
+I3
+sVya
+p27
+I2
+sVaoww
+p28
+I1
+sVsittin
+p29
+I1
+sVuhh
+p30
+I1
+sVpossibly
+p31
+I1
+sVknow
+p32
+I4
+sVhalf
+p33
+I1
+sVhehehehe
+p34
+I1
+sVnow
+p35
+I3
+sVlady
+p36
+I7
+sVpimp
+p37
+I1
+sVpjs
+p38
+I1
+sVlike
+p39
+I5
+sVwont
+p40
+I1
+sVwagon
+p41
+I1
+sVgets
+p42
+I1
+sVname
+p43
+I9
+sVcontagious
+p44
+I7
+sVforth
+p45
+I1
+sVrocks
+p46
+I1
+sVtry
+p47
+I1
+sVitem
+p48
+I1
+sVflashy
+p49
+I1
+sVhittin
+p50
+I1
+sVsecurity
+p51
+I1
+sVem
+p52
+I7
+sVmissus
+p53
+I1
+sVnigga
+p54
+I2
+sVwoo
+p55
+I1
+sVgroupies
+p56
+I1
+sVmighta
+p57
+I1
+sVyeah
+p58
+I1
+sVchef
+p59
+I1
+sVsecond
+p60
+I1
+sVshes
+p61
+I1
+sVplayin
+p62
+I1
+sVgirl
+p63
+I3
+sVeven
+p64
+I2
+sVmovin
+p65
+I1
+sVgon
+p66
+I1
+sVmatrix
+p67
+I1
+sVfor
+p68
+I1
+sVfine
+p69
+I1
+sVjump
+p70
+I1
+sVplease
+p71
+I1
+sVkeys
+p72
+I1
+sVoutside
+p73
+I2
+sVcristall
+p74
+I2
+sVgot
+p75
+I18
+sVcause
+p76
+I3
+sVred
+p77
+I2
+sVeither
+p78
+I1
+sVdishwashers
+p79
+I1
+sVdrink
+p80
+I2
+sVrun
+p81
+I1
+sVtruth
+p82
+I1
+sVright
+p83
+I1
+sVnever
+p84
+I1
+sVhere
+p85
+I1
+sVmet
+p86
+I1
+sVlet
+p87
+I3
+sVsexy
+p88
+I3
+sValong
+p89
+I1
+sVinhales
+p90
+I1
+sVcome
+p91
+I1
+sVthrow
+p92
+I3
+sVchapter
+p93
+I1
+sVon
+p94
+I1
+sVphrases
+p95
+I1
+sVthing
+p96
+I1
+sVairport
+p97
+I1
+sVfaces
+p98
+I1
+sVpuff
+p99
+I2
+sVneptunes
+p100
+I1
+sV2ways
+p101
+I1
+sVcheese
+p102
+I1
+sVladies
+p103
+I3
+sValready
+p104
+I1
+sVwhats
+p105
+I9
+sVdont
+p106
+I7
+sVwhatever
+p107
+I1
+sVone
+p108
+I12
+sVjayz
+p109
+I7
+sVwit
+p110
+I3
+sVdone
+p111
+I2
+sVlikes
+p112
+I1
+sVtrust
+p113
+I1
+sVmiss
+p114
+I3
+sVwan
+p115
+I1
+sVlittle
+p116
+I1
+sVsexcuse
+p117
+I3
+sVhes
+p118
+I2
+sVgocha
+p119
+I2
+sVcaught
+p120
+I1
+sVtwo
+p121
+I1
+sVwhos
+p122
+I1
+sVlive
+p123
+I1
+sVwindow
+p124
+I1
+sVcall
+p125
+I1
+sVtherefore
+p126
+I1
+sVway
+p127
+I1
+sVdamn
+p128
+I3
+sVwilliams
+p129
+I1
+sVmore
+p130
+I2
+sVdots
+p131
+I1
+sVbuy
+p132
+I1
+sVdoos
+p133
+I3
+sVboy
+p134
+I1
+sVshawn
+p135
+I1
+sVscooby
+p136
+I3
+sVeverybodys
+p137
+I1
+sVelse
+p138
+I1
+sVexcuse
+p139
+I7
+sVdudes
+p140
+I1
+sVhear
+p141
+I1
+sVopposites
+p142
+I1
+sVbaby
+p143
+I7
+sVspades
+p144
+I2
+sVattract
+p145
+I1
+sVbelieve
+p146
+I1
+sV97
+p147
+I2
+sVremember
+p148
+I1
+sVme
+p149
+I1
+sVpast
+p150
+I2
+sVma
+p151
+I2
+sVpharrell
+p152
+I2
+sVmight
+p153
+I1
+sVrunway
+p154
+I1
+sVj
+I3
+sVsee
+p155
+I3
+sVus
+p156
+I2
+sVair
+p157
+I2
+sVhavin
+p158
+I1
+sVventure
+p159
+I1
+sVlearn
+p160
+I1
+sVcards
+p161
+I1
+sVfishburne
+p162
+I1
+sVagree
+p163
+I1
+sVcmon
+p164
+I1
+sVsees
+p165
+I1
+sVgive
+p166
+I1
+sVtaggin
+p167
+I1
+sVbenz
+p168
+I1
+sVit
+p169
+I14
+sVsmiley
+p170
+I1
+sVreadin
+p171
+I1
+sVtonight
+p172
+I4
+sVjuice
+p173
+I1
+sVcant
+p174
+I10
+sVclearport
+p175
+I1
+sVim
+p176
+I4
+sVneed
+p177
+I2
+sVpartner
+p178
+I1
+sVfreal
+p179
+I1
+sV5050
+p180
+I1
+sVgrown
+p181
+I4
+sVholla
+p182
+I1
+sVnights
+p183
+I1
+sVdishes
+p184
+I1
+sVna
+p185
+I1
+sVmake
+p186
+I7
+sVthat
+p187
+I2
+sVfoxy
+p188
+I3
+sVhot
+p189
+I8
+sVrole
+p190
+I1
+sVtake
+p191
+I9
+sVunits
+p192
+I1
+sVhangin
+p193
+I1
+sVblunt
+p194
+I2
+sVroll
+p195
+I2
+sVfserious
+p196
+I1
+sVplay
+p197
+I1
+sVeasily
+p198
+I1
+sVmissin
+p199
+I1
+sVhang
+p200
+I1
+sVbraggin
+p201
+I1
+sVarmadale
+p202
+I1
+sVcodes
+p203
+I1
+sVmad
+p204
+I1
+sVsong
+p205
+I1
+sVfriends
+p206
+I1
+sVman
+p207
+I1
+sVland
+p208
+I1
+sVoff
+p209
+I1
+sVtreats
+p210
+I2
+sVmaganets
+p211
+I1
+sVwife
+p212
+I1
+sVlight
+p213
+I1
+sVyoure
+p214
+I13
+sVwell
+p215
+I1
+sVrollin
+p216
+I2
+sVface
+p217
+I1
+sVmaebach
+p218
+I1
+sVgreen
+p219
+I1
+sVback
+p220
+I2
+sVlinens
+p221
+I1
+sVkickin
+p222
+I1
+sVwine
+p223
+I1
+s.

@@ -1,126 +1,826 @@
-"gangsta gangsta" lyrics
-n.w.a. lyrics
-"gangsta gangsta"
-here's a little somethin' bout a nigga like me
-never shoulda been let out the penititary
-ice cube would like ta say
-that i'm a crazy mutha fucka from around the way
-since i was a youth, i smoked weed out
-now i'm the mutha fucka that ya read about
-takin' a life or two
-that's what the hell i do, you don't like how i'm livin
-well fuck you!
-this is a gang, and i'm in it
-my man dre'll fuck you up in a minute
-with a right left, right left you're toothless
-and then you say goddamn they ruthless!
-everwhere we go they say
-n w a's fuckin' up tha program
-and then you realize we don't care
-we don't just say no, we to busy sayin' yeah!
-to drinkin' straight out the eight bottle
-do i look like a mutha fuckin role model?
-to a kid lookin' up ta me
-life ain't nothin but bitches and money.
-cause i'm tha type o' nigga that's built ta last
-if ya fuck wit me i'll put a foot in ya ass
-see i don't give a fuck 'cause i keep bailin
-yo, what the fuck are they yellin
-gangsta, gangsta!  that's what they're yellin
-"it's not about a salary, it's all about reality"
-gangsta, gangsta!  that's what they're yellin
-"hopin you sophisticated motherfuckers hear what i have to say"
-when me and my posse stepped in the house
-all the punk-ass niggaz start breakin out
-cause you know, they know whassup
-so we started lookin for the bitches with the big butts
-like her, but she keep cryin
-"i got a boyfriend" bitch stop lyin
-dumb-ass hooker ain't nuttin but a dyke
-suddenly i see, some niggaz that i don't like
-walked over to em, and said, "whassup?"
-the first nigga that i saw, hit em in the jaw
-ren started stompin em, and so did e
-by that time got rushed by security
-out the door, but we don't quit
-ren said, "let's start some shit!"
-i got a shotgun, and here's the plot
-takin niggaz out with a flurry of buckshots
-boom boom boom, yeah i was gunnin
-and then you look, all you see is niggaz runnin
-and fallin and yellin and pushin and screamin
-and cussin, i stepped back, and i kept bustin
-and then i realized it's time for me to go
-so i stopped, jumped in the vehicle
-it's like this, because of that who-ride
-n.w.a. is wanted for a homicide
-cause i'm the type of nigga that's built to last
-fuck wit me, i'll put my foot in your ass
-see i don't give a fuck, cause i keep bailin
-yo, what the fuck are they yellin?
-gangsta, gangsta!  that's what they're yellin
-"it's not about a salary, it's all about reality"
-gangsta, gangsta!  that's what they're yellin
-"he'll tell you exactly how he feel, and don't want a fuckin thing back"
-homies all standin around, just hangin
-some dope-dealin, some gang-bangin
-we decide to roll and we deep
-see a nigga on dayton's and we creep
-real slow, and before you know
-i had my shotgun pointed in the window
-he got scared, and hit the gas
-right then, i knew i has to smoke his ass
-he kept rollin, i jumped in the bucket
-we couldn't catch him, so i said fuck it
-then we headed right back to the fort
-sweatin all the bitches in the biker shorts
-we didn't get no play, from the ladies
-with six niggaz in a car are you crazy?
-she was scared, and it was showin
-we all said "fuck you bitch!" and kept goin
-to the hood, and we was fin to
-find somethin else to get into
-like some pussy, or in fact
-a bum rush, but we call it rat pack
-on a nigga for nuttin at all
-ice cube'll go stupid when i'm full of eight ball
-i might stumble, but i won't lose
-now i'm dressed in the county blues
-cause i'm the type of nigga that's built to last
-if you fuck wit me, i'll put my foot in your ass
-i don't give a fuck, cause i keep bailin
-yo, what the fuck are they yellin?
-(wait a minute, wait a minute, cut this shit)
-{man whatcha gonna do now?}
-"what we're gonna do right here is go way back"
-(how far you goin back?)
-"way back"
-"as we go a lil somethin like this"
-here's a lil gangsta, short in size
-a t-shirt and levi's is his only disguise
-built like a tank yet hard to hit
-ice cube and eazy e cold runnin shit
-well i'm eazy e the one they're talkin about
-nigga tried to roll the dice and just crapped out
-police tried to roll, so it's time to go
-i creeped away real slow and jumped in the six-fo'
-wit the "diamond in the back, sun-roof top"
-diggin the scene with the gangsta lean
-cause i'm the e, i don't slang or bang
-i just smoke motherfuckers like it ain't no thang
-and all you bitches, you know i'm talkin to you
-"we want to fuck you eazy!" i want to fuck you too
-cause you see, i don't really take no shit
-cause i'm the type of nigga that's built to last
-if you fuck wit me, i'll put my foot in your ass
-i don't give a fuck, cause i keep bailin
-yo, what the fuck are they yellin?
-gangsta, gangsta!  that's what they're yellin
-"it's not about a salary, it's all about reality"
-gangsta, gangsta!  that's what they're yellin
-"he'll fuck up you and yours, and anything that gets in his way"
-gangsta, gangsta!  that's what they're yellin
-"it's not about a salary, it's all about reality"
-gangsta, gangsta!  that's what they're yellin
-"he'll just call you a low-life motherfucker, and talk about your
-funky ways"
+(dp1
+Vscreamin
+p2
+I1
+sVstandin
+p3
+I1
+sVposse
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I1
+sVpointed
+p7
+I1
+sVsweatin
+p8
+I1
+sVcryin
+p9
+I1
+sVbiker
+p10
+I1
+sVnwa
+p11
+I2
+sVgo
+p12
+I6
+sVhell
+p13
+I4
+sVcold
+p14
+I1
+sVlowlife
+p15
+I1
+sVtakin
+p16
+I2
+sVfind
+p17
+I1
+sVto
+p18
+I1
+sVaint
+p19
+I3
+sVbusy
+p20
+I1
+sVpolice
+p21
+I1
+sVsayin
+p22
+I1
+sVcall
+p23
+I2
+sVjaw
+p24
+I1
+sVwindow
+p25
+I1
+sVknew
+p26
+I1
+sVlyin
+p27
+I1
+sVfeel
+p28
+I1
+sVlets
+p29
+I1
+sVprogram
+p30
+I1
+sVhomies
+p31
+I1
+sVgangsta
+p32
+I22
+sVfort
+p33
+I1
+sVfin
+p34
+I1
+sVta
+p35
+I3
+sVreal
+p36
+I2
+sVrunnin
+p37
+I2
+sVcube
+p38
+I2
+sVhit
+p39
+I3
+sVlivin
+p40
+I1
+sVyo
+p41
+I4
+sVget
+p42
+I2
+sVread
+p43
+I1
+sVhopin
+p44
+I1
+sVstop
+p45
+I1
+sVfirst
+p46
+I1
+sVbang
+p47
+I1
+sVknow
+p48
+I4
+sVdecide
+p49
+I1
+sVfoot
+p50
+I4
+sVtank
+p51
+I1
+sVnow
+p52
+I1
+sVpunkass
+p53
+I1
+sVrealize
+p54
+I1
+sVminute
+p55
+I3
+sVwont
+p56
+I1
+sVgets
+p57
+I1
+sVlike
+p58
+I11
+sVdisguise
+p59
+I1
+sVwait
+p60
+I2
+sVtheyre
+p61
+I9
+sVlose
+p62
+I1
+sVwit
+p63
+I5
+sVstopped
+p64
+I1
+sVdopedealin
+p65
+I1
+sVeverwhere
+p66
+I1
+sVsecurity
+p67
+I1
+sVgang
+p68
+I1
+sVem
+p69
+I3
+sVwhoride
+p70
+I1
+sVnigga
+p71
+I9
+sVnuttin
+p72
+I2
+sVeazy
+p73
+I3
+sVdiggin
+p74
+I1
+sVgoddamn
+p75
+I1
+sVscared
+p76
+I2
+sVhard
+p77
+I1
+sVyeah
+p78
+I2
+sVsee
+p79
+I6
+sVfull
+p80
+I1
+sVgoin
+p81
+I2
+sVblues
+p82
+I1
+sVtalkin
+p83
+I2
+sVcreep
+p84
+I1
+sVout
+p85
+I3
+sVsaid
+p86
+I4
+sVgunnin
+p87
+I1
+sVheres
+p88
+I3
+sVjumped
+p89
+I3
+sVtried
+p90
+I2
+sVsince
+p91
+I1
+sVlean
+p92
+I1
+sVice
+p93
+I3
+sVyet
+p94
+I1
+sVstupid
+p95
+I1
+sVren
+p96
+I2
+sVwhassup
+p97
+I2
+sVgot
+p98
+I4
+sVhooker
+p99
+I1
+sVcause
+p100
+I11
+sVdice
+p101
+I1
+sVfucka
+p102
+I2
+sVass
+p103
+I5
+sVdrinkin
+p104
+I1
+sVbailin
+p105
+I4
+sVplot
+p106
+I1
+sVnever
+p107
+I1
+sVmotherfucker
+p108
+I1
+sVpenititary
+p109
+I1
+sVcut
+p110
+I1
+sVslow
+p111
+I2
+sVlet
+p112
+I1
+sVput
+p113
+I4
+sVdrell
+p114
+I1
+sVbutts
+p115
+I1
+sVshoulda
+p116
+I1
+sVcare
+p117
+I1
+sVabout
+p118
+I2
+sVlast
+p119
+I4
+sVall
+p120
+I1
+sVanything
+p121
+I1
+sVill
+p122
+I4
+sVbreakin
+p123
+I1
+sVo
+I1
+sVkeep
+p124
+I5
+sVthing
+p125
+I1
+sVelse
+p126
+I1
+sVlookin
+p127
+I2
+sVthang
+p128
+I1
+sVtshirt
+p129
+I1
+sVpack
+p130
+I1
+sVmotherfuckers
+p131
+I2
+sVfuckin
+p132
+I3
+sVthats
+p133
+I13
+sVladies
+p134
+I1
+sVdont
+p135
+I12
+sVheaded
+p136
+I1
+sVsuddenly
+p137
+I1
+sVpussy
+p138
+I1
+sVinto
+p139
+I1
+sVscene
+p140
+I1
+sVone
+p141
+I1
+sVcounty
+p142
+I1
+sVna
+p143
+I2
+sVright
+p144
+I5
+sVbitch
+p145
+I2
+sVfallin
+p146
+I1
+sVcussin
+p147
+I1
+sVcouldnt
+p148
+I1
+sVways
+p149
+I1
+sVstumble
+p150
+I1
+sVhood
+p151
+I1
+sVsize
+p152
+I1
+sVquit
+p153
+I1
+sVlittle
+p154
+I1
+sVwanted
+p155
+I1
+sVstompin
+p156
+I1
+sVwould
+p157
+I1
+sVrushed
+p158
+I1
+sVtop
+p159
+I1
+sVball
+p160
+I1
+sVtwo
+p161
+I1
+sVstepped
+p162
+I2
+sVsixfo
+p163
+I1
+sVstart
+p164
+I2
+sVbuckshots
+p165
+I1
+sVdumbass
+p166
+I1
+sVtoo
+p167
+I1
+sVway
+p168
+I4
+sVhouse
+p169
+I1
+sVrollin
+p170
+I1
+sVman
+p171
+I2
+sVtype
+p172
+I4
+sVtell
+p173
+I1
+sVback
+p174
+I7
+sVcubell
+p175
+I1
+sVlife
+p176
+I2
+sVdiamond
+p177
+I1
+sVdoor
+p178
+I1
+sVshorts
+p179
+I1
+sVstarted
+p180
+I2
+sVbitches
+p181
+I4
+sVgas
+p182
+I1
+sVit
+p183
+I2
+sVhear
+p184
+I1
+sVmight
+p185
+I1
+sVbum
+p186
+I1
+sVcatch
+p187
+I1
+sVkept
+p188
+I3
+sVcrapped
+p189
+I1
+sVbout
+p190
+I1
+sVboyfriend
+p191
+I1
+sVme
+p192
+I2
+sVrush
+p193
+I1
+sVtoothless
+p194
+I1
+sVlook
+p195
+I2
+sVthis
+p196
+I1
+sVcar
+p197
+I1
+sVstraight
+p198
+I1
+sVwhatcha
+p199
+I1
+sVbucket
+p200
+I1
+sVrat
+p201
+I1
+sVniggaz
+p202
+I5
+sVn
+I1
+sVyouth
+p203
+I1
+sVsmoke
+p204
+I2
+sVlevis
+p205
+I1
+sVyour
+p206
+I1
+sVdidnt
+p207
+I1
+sVpushin
+p208
+I1
+sVcrazy
+p209
+I2
+sVgive
+p210
+I4
+sVshowin
+p211
+I1
+sVsunroof
+p212
+I1
+sVfuck
+p213
+I19
+sVdeep
+p214
+I1
+sVyellin
+p215
+I13
+sVsay
+p216
+I5
+sVim
+p217
+I13
+sVwalked
+p218
+I1
+sVwant
+p219
+I3
+sVtake
+p220
+I1
+sVsaw
+p221
+I1
+sVdyke
+p222
+I1
+sVshit
+p223
+I4
+sVaround
+p224
+I2
+sVhomicide
+p225
+I1
+sVreally
+p226
+I1
+sVbuilt
+p227
+I5
+sVlil
+p228
+I2
+sVdressed
+p229
+I1
+sVsix
+p230
+I1
+sVfunky
+p231
+I1
+sVreality
+p232
+I4
+sVya
+p233
+I3
+sVrole
+p234
+I1
+sVboom
+p235
+I3
+sVbig
+p236
+I1
+sVyou
+p237
+I2
+sVhangin
+p238
+I1
+sVroll
+p239
+I3
+sVcreeped
+p240
+I1
+sVplay
+p241
+I1
+sVexactly
+p242
+I1
+sVw
+I1
+sVgangbangin
+p243
+I1
+sVdaytons
+p244
+I1
+sVmutha
+p245
+I3
+sVweed
+p246
+I1
+sVtalk
+p247
+I1
+sVflurry
+p248
+I1
+sVgon
+p249
+I2
+sVeight
+p250
+I2
+sVsophisticated
+p251
+I1
+sVslang
+p252
+I1
+sVkid
+p253
+I1
+sVsalary
+p254
+I4
+sVsomethin
+p255
+I3
+sVrealized
+p256
+I1
+sVshort
+p257
+I1
+sVe
+I4
+sVshotgun
+p258
+I2
+sVyoure
+p259
+I1
+sVwell
+p260
+I2
+sVbustin
+p261
+I1
+sVnothin
+p262
+I1
+sVvehicle
+p263
+I1
+sVruthless
+p264
+I1
+sVfact
+p265
+I1
+sVbottle
+p266
+I1
+sVtime
+p267
+I3
+sVfar
+p268
+I1
+sVmodel
+p269
+I1
+sVsmoked
+p270
+I1
+sVaway
+p271
+I1
+sVtha
+p272
+I2
+sVleft
+p273
+I2
+s.

@@ -1,88 +1,751 @@
-"la di da di live" lyrics
-slick rick lyrics
-"la di da di live"
-(feat. doug e. fresh)
-hit it!
-aww yea!
-yea...
-la di da di... la di da di,
-la di, la di!
-you know what, you peep this,
-la di da di, we like to party.
-we don't cause trouble, we dont bother nobody.
-we're... just some men that's on the mic,
-and when we rock upon the mic,
-we rock the mic (right!).
-for all a y'all, keepin' y'all in health.
-just to see ya smile and enjoy ya'self.
-cause it's cool when you cause a cozy conditionin',
-that we create, so that's our mission, so listen,
-to what we say because this type of shit happens everyday.
-i... woke up around ten o'clock in the mornin',
-gave myself a (strech up), a mornin' yawn and...
-went to the bathroom to wash up,
-had some soap on my face and my hand upon the cup,
-i said a (mirror mirror!) on the wall...
-who is the top choice of them all?
-there was a rumble dumble,
-five minutes it lasted.... the mirror said,
-(you are you concieted bastard!).
-yo that's true, that's why we never have no beef,
-so then i washed off the soap and brushed the gold teeth.
-used "oil of olay" cause my skin gets pale.
-then i got the files, for my fingernails.
-true to the style on my behalf
-i put the bubbles in the tub so i could have a bubble bath.
-clean, dry, was my body and hair,
-i threw on my brand new gucci underwear.
-for all the girls i might take home,
-i got the johnson's baby powder and the (polo colonge).
-fresh dressed like a millions bucks, threw on the valley shoes
-and the fly green socks.
-stepped out the house, stopped short, oh no!
-i went back in i forgot the...
-then i dilly (dally) ran through a (alley),
-bumped into my old girl (sally) from the (valley).
-this was a girl playing hard to get
-so i said "what's wrong?" cause she looked upset
-she said uh, (it's all because of you)
-say what? (i'm feeling sad and blue)
-she said what? (you went away)
-and now, my life is filled with rainy days.
-and i love you so, how much you'll never know.
-cause you took your love away from me.
-now what was i to do
-she was crying over me and she was feeling blue
-i said, "don't cry, (dry, your eye)
-here comes your mother with those two little guys"
-her mean mother steps and says to me ("hi!")
-hit sally in the face and decked her in the (eye!)
-punched her in the belly, and stepped on her (feet)
-slammed the child on the hard concrete
-the bitch was strong, the kids was gone.
-something was wrong i said what was going on?
-i tried to break it up i said, stop it, leave her
-she said, "if i can't have you (she can't either")
-she grabbed me closely by my socks
-so i broke the hell out like i had the chicken pox
-but uh, she gave chase, she caught up quick
-she put a finger in the face of mc rick, and said
-so we can go cruising in my oj, and what?
-i'll give you all my love today.
-what? ricky ricky ricky what?
-somehow your words just hypnotize me
-and i just love your jazzy ways
-yo mc rick my love is here to stay"
-and on and on and on she kept on
-the bitch been around before my mother's born
-i said, "cheer up!" i gave her a kiss
-i said, "you can't have me i'm too young for you miss"
-she said, "no you're not," then she starts crying
-i says, "i'm thirty-four", she says, ("stop lying!")
-i said, "i am -- go ask my mother
-and with your wrinkled pussy, i can't be your lover!"
-to the tick tock and you don't stopf
-to the tick tick ya don't... hit it!
-doug e. fresh y'all, give him a round of applause y'all,
-doug e. fresh!
-yea, what up?
+(dp1
+Vcruising
+p2
+I1
+sVall
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVyea
+p6
+I3
+sVmission
+p7
+I1
+sVskin
+p8
+I1
+sVhell
+p9
+I1
+sVlove
+p10
+I5
+sVchicken
+p11
+I1
+sVfeat
+p12
+I1
+sVbubbles
+p13
+I1
+sVstyle
+p14
+I1
+sVtick
+p15
+I3
+sVgrabbed
+p16
+I1
+sVgold
+p17
+I1
+sVla
+p18
+I7
+sVtrue
+p19
+I2
+sVyoung
+p20
+I1
+sVoclock
+p21
+I1
+sVgoing
+p22
+I1
+sVrick
+p23
+I3
+sVcrying
+p24
+I2
+sVpussy
+p25
+I1
+sVsmile
+p26
+I1
+sVmight
+p27
+I1
+sVgave
+p28
+I3
+sVme
+p29
+I2
+sVmornin
+p30
+I2
+sVhit
+p31
+I3
+sVaround
+p32
+I2
+sVyo
+p33
+I2
+sVdi
+p34
+I12
+sVya
+p35
+I2
+sVcaught
+p36
+I1
+sVstop
+p37
+I2
+sVchoice
+p38
+I1
+sVbreak
+p39
+I1
+sVsomehow
+p40
+I1
+sVfive
+p41
+I1
+sVknow
+p42
+I2
+sVclosely
+p43
+I1
+sVnew
+p44
+I1
+sVtrouble
+p45
+I1
+sVbelly
+p46
+I1
+sVyou
+p47
+I1
+sVcolonge
+p48
+I1
+sVcool
+p49
+I1
+sVhypnotize
+p50
+I1
+sVlike
+p51
+I3
+sVmothers
+p52
+I1
+sVyoull
+p53
+I1
+sVcry
+p54
+I1
+sVleave
+p55
+I1
+sVstopped
+p56
+I1
+sVeither
+p57
+I1
+sVrock
+p58
+I2
+sVquick
+p59
+I1
+sVwent
+p60
+I3
+sVolay
+p61
+I1
+sVround
+p62
+I1
+sVyall
+p63
+I4
+sVmean
+p64
+I1
+sVenjoy
+p65
+I1
+sVright
+p66
+I1
+sVold
+p67
+I1
+sVten
+p68
+I1
+sVhouse
+p69
+I1
+sVhard
+p70
+I2
+sVconcieted
+p71
+I1
+sVhair
+p72
+I1
+sVgo
+p73
+I2
+sVsee
+p74
+I1
+sVoil
+p75
+I1
+sVpowder
+p76
+I1
+sVmirror
+p77
+I3
+sVhome
+p78
+I1
+sVgirl
+p79
+I2
+sVpale
+p80
+I1
+sVhappens
+p81
+I1
+sVwhat
+p82
+I1
+sVsaid
+p83
+I14
+sVkids
+p84
+I1
+sVways
+p85
+I1
+sVaway
+p86
+I2
+sVwashed
+p87
+I1
+sVslick
+p88
+I1
+sVricky
+p89
+I3
+sVhealth
+p90
+I1
+sVfinger
+p91
+I1
+sVgot
+p92
+I2
+sVstopf
+p93
+I1
+sVcause
+p94
+I6
+sVfilled
+p95
+I1
+sVbody
+p96
+I1
+sVnever
+p97
+I2
+sVcozy
+p98
+I1
+sVask
+p99
+I1
+sVmen
+p100
+I1
+sVlittle
+p101
+I1
+sVjazzy
+p102
+I1
+sVput
+p103
+I2
+sVpeep
+p104
+I1
+sVdally
+p105
+I1
+sVdry
+p106
+I2
+sVbumped
+p107
+I1
+sVunderwear
+p108
+I1
+sVfeeling
+p109
+I2
+sVher
+p110
+I1
+sVrumble
+p111
+I1
+sVstarts
+p112
+I1
+sVcould
+p113
+I1
+sVcup
+p114
+I1
+sVkiss
+p115
+I1
+sVdays
+p116
+I1
+sVdumble
+p117
+I1
+sVwrinkled
+p118
+I1
+sVtoday
+p119
+I1
+sVcreate
+p120
+I1
+sVyaself
+p121
+I1
+sVthats
+p122
+I4
+sVwhats
+p123
+I1
+sVdont
+p124
+I5
+sVpox
+p125
+I1
+sVwall
+p126
+I1
+sVstrech
+p127
+I1
+sVforgot
+p128
+I1
+sVsocks
+p129
+I2
+sVbath
+p130
+I1
+sVfeet
+p131
+I1
+sVwash
+p132
+I1
+sVbitch
+p133
+I2
+sVpolo
+p134
+I1
+sVsays
+p135
+I3
+sVmiss
+p136
+I1
+sVtub
+p137
+I1
+sVmillions
+p138
+I1
+sVbathroom
+p139
+I1
+sVstrong
+p140
+I1
+sVeye
+p141
+I2
+sVbeef
+p142
+I1
+sVfingernails
+p143
+I1
+sVguys
+p144
+I1
+sVtop
+p145
+I1
+sVgive
+p146
+I2
+sVgirls
+p147
+I1
+sVtwo
+p148
+I1
+sVlive
+p149
+I2
+sVmuch
+p150
+I1
+sVvalley
+p151
+I2
+sVtype
+p152
+I1
+sVwoke
+p153
+I1
+sVlisten
+p154
+I1
+sVfiles
+p155
+I1
+sVlife
+p156
+I1
+sVon
+p157
+I2
+sVbrand
+p158
+I1
+sVnobody
+p159
+I1
+sVtook
+p160
+I1
+sVcant
+p161
+I4
+sVback
+p162
+I1
+sVmc
+p163
+I2
+sVhi
+p164
+I1
+sVbroke
+p165
+I1
+sVchild
+p166
+I1
+sVbaby
+p167
+I1
+sVkept
+p168
+I1
+sVbrushed
+p169
+I1
+sVbehalf
+p170
+I1
+sVoj
+p171
+I1
+sVfly
+p172
+I1
+sVconditionin
+p173
+I1
+sVdecked
+p174
+I1
+sVborn
+p175
+I1
+sVthis
+p176
+I1
+sVbubble
+p177
+I1
+sVbother
+p178
+I1
+sVoh
+p179
+I1
+sVup
+p180
+I2
+sVgucci
+p181
+I1
+sVuh
+p182
+I2
+sVlover
+p183
+I1
+sVpunched
+p184
+I1
+sVthrew
+p185
+I2
+sVminutes
+p186
+I1
+sVill
+p187
+I1
+sVand
+p188
+I1
+sVgone
+p189
+I1
+sVdo
+p190
+I1
+sVran
+p191
+I1
+sVdoug
+p192
+I3
+sVit
+p193
+I2
+sValley
+p194
+I1
+sVsad
+p195
+I1
+sVsay
+p196
+I2
+sVim
+p197
+I3
+sVsomething
+p198
+I1
+sVjohnsons
+p199
+I1
+sVbucks
+p200
+I1
+sVtock
+p201
+I1
+sVeveryday
+p202
+I1
+sVshit
+p203
+I1
+sVchase
+p204
+I1
+sVbastard
+p205
+I1
+sVno
+p206
+I1
+sVdressed
+p207
+I1
+sVmic
+p208
+I3
+sVget
+p209
+I1
+sVdilly
+p210
+I1
+sVslammed
+p211
+I1
+sVtake
+p212
+I1
+sVsteps
+p213
+I1
+sVparty
+p214
+I1
+sVstepped
+p215
+I2
+sVgets
+p216
+I1
+sVsoap
+p217
+I2
+sVblue
+p218
+I2
+sVused
+p219
+I1
+sVtried
+p220
+I1
+sVaww
+p221
+I1
+sVmother
+p222
+I3
+sVupon
+p223
+I2
+sVrainy
+p224
+I1
+sVhand
+p225
+I1
+sVkeepin
+p226
+I1
+sVyawn
+p227
+I1
+sVwrong
+p228
+I2
+sVda
+p229
+I5
+sVsally
+p230
+I2
+sVthirtyfour
+p231
+I1
+sVshort
+p232
+I1
+sVe
+I3
+sVapplause
+p233
+I1
+sVyoure
+p234
+I1
+sVupset
+p235
+I1
+sVlasted
+p236
+I1
+sVstay
+p237
+I1
+sVface
+p238
+I3
+sVlooked
+p239
+I1
+sVconcrete
+p240
+I1
+sVcheer
+p241
+I1
+sVgreen
+p242
+I1
+sVcomes
+p243
+I1
+sVclean
+p244
+I1
+sVteeth
+p245
+I1
+sVfresh
+p246
+I4
+sVthe
+p247
+I1
+sVwords
+p248
+I1
+sVplaying
+p249
+I1
+sVlying
+p250
+I1
+s.

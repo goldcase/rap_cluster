@@ -1,88 +1,731 @@
-"between me, you & liberation" lyrics
-common lyrics
-"between me, you & liberation"
-(feat. cee-lo)
-she rested her head upon my chest
-sensed liberation in between breaths
-wonder if sex is what she found it in
-peace, found it laying down with men
-wasn't there to judge her, many ways i loved her
-it was more than bodies we shared with each other
-we laid under the cover of friends
-a place where many lovers began
-i began, to feel her body shake in my hand
-body language, it's so hard trying to understand
-usually after sex, it's a good feel
-took by silence, emotion stood still
-i could feel, her tears spill, from her grille
-hurt from before that began to build
-she told me hold me, a story she assembled it
-tellin' it, trying not to remember it
-it was a story of innocence taken
-thought she could redeem, through love makin'
-when she was eight she was raped by her father
-and tried to escape through multiple sex partners
-felt pitiful, she had only learned,
-to love through the physical, inside it burned
-my heart turned, i thought of what this man did
-she forgave him, she grew to understand it
-her soul was tired and never really rested
-only with men through aggression
-said it was a blessing and it happened for a reason
-by speaking it, she found freedom
-between me and you
-sometimes i wish a, careless whisper
-serenade her, without speaking a word
-because of you i'm stronger, i'm afraid no longer
-i feel so alive in me, you have liberated me
-she laid, i watched her breathe
-happy to be here, not afraid to leave
-i couldn't conceive her not being here
-death in her face her not having fear
-less than a year she was diagnosed with it
-memories of that year, so close and vivid
-happiness, would only visit, once in a while
-to watch an adult, becoming a child
-somehow, i knew she'd make it
-the life of one so given early would god take it?
-hurt she placed in, hope and prayer
-hurt she placed in chemo and lost hair
-i stare with my eyes closed
-wonder when the body leave does the mind go
-watchin' jordan became less important
-seeing this disease eat away my aunt's organs
-according to doctors theres no cure
-we went through doubt, and cases of insure
-wish i knew then how to heal with herbs
-knew a part of her i could heal with words
-but the creator was sending for her
-what seemed like the end was the beginning for her
-like that, she didn't want us to remember her
-no more medication did she want us to give to her
-it spread from her liver to her lungs to her last breath
-only to be freed through death
-between me and you
-he spoke with his eyes, tear-filled
-a lump in his throat, his fear built
-my whole life it was in steel
-this ain't the way that men feel
-a feeling, he said he wish he could kill
-a feeling, not even time could heal
-this is how real life's supposed to be?
-for it to happen to someone close to me?
-so far we'd come, for him to tell me
-as he did, insecurity held me
-i felt like he failed me
-to the spirit, yelled help me
-i'd known him for like what seemed forever
-about going pro we dreamed together
-never knew it would turn out like this
-for so long he tried to fight this
-now there was no way for him to ignore it
-his parents found out and hated him for it
-how could i judge him? had to accept him if i truly loved him
-no longer he said had he hated himself
-through sexuality he liberated himself
-between me and you
-liberation...
-peace
+(dp1
+Vserenade
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I2
+sVdreamed
+p6
+I1
+sVdoctors
+p7
+I1
+sVheld
+p8
+I1
+sVkill
+p9
+I1
+sVshake
+p10
+I1
+sVgo
+p11
+I1
+sVfear
+p12
+I2
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVassembled
+p15
+I1
+sVaggression
+p16
+I1
+sVseemed
+p17
+I2
+sVaint
+p18
+I1
+sVpartners
+p19
+I1
+sVtrying
+p20
+I2
+sVwed
+p21
+I1
+sVhated
+p22
+I2
+sVfather
+p23
+I1
+sVknew
+p24
+I4
+sVspirit
+p25
+I1
+sVliberation
+p26
+I4
+sVtears
+p27
+I1
+sVspread
+p28
+I1
+sVparents
+p29
+I1
+sVpitiful
+p30
+I1
+sVhope
+p31
+I1
+sVhappened
+p32
+I1
+sVreal
+p33
+I1
+sVsteel
+p34
+I1
+sVgood
+p35
+I1
+sVfar
+p36
+I1
+sVwatch
+p37
+I1
+sVprayer
+p38
+I1
+sVtruly
+p39
+I1
+sVearly
+p40
+I1
+sVredeem
+p41
+I1
+sVwords
+p42
+I1
+sVsupposed
+p43
+I1
+sVjudge
+p44
+I2
+sVburned
+p45
+I1
+sVbe
+p46
+I1
+sVgoing
+p47
+I1
+sVlike
+p48
+I5
+sVlost
+p49
+I1
+sVceelo
+p50
+I1
+sVdid
+p51
+I1
+sVconceive
+p52
+I1
+sVlaying
+p53
+I1
+sVleave
+p54
+I2
+sVsomeone
+p55
+I1
+sVcareless
+p56
+I1
+sVcommon
+p57
+I1
+sVfound
+p58
+I4
+sVwent
+p59
+I1
+sVwatchin
+p60
+I1
+sVshed
+p61
+I1
+sVtired
+p62
+I1
+sVhard
+p63
+I1
+sVstronger
+p64
+I1
+sValive
+p65
+I1
+sVsex
+p66
+I3
+sVhair
+p67
+I1
+sVus
+p68
+I2
+sVescape
+p69
+I1
+sVclose
+p70
+I2
+sVhappen
+p71
+I1
+sVwonder
+p72
+I2
+sVeven
+p73
+I1
+sVignore
+p74
+I1
+sVlovers
+p75
+I1
+sVstood
+p76
+I1
+sVways
+p77
+I1
+sVmemories
+p78
+I1
+sVaway
+p79
+I1
+sVliberated
+p80
+I2
+sVlaid
+p81
+I2
+sVhappiness
+p82
+I1
+sVclosed
+p83
+I1
+sVshared
+p84
+I1
+sVlearned
+p85
+I1
+sVtold
+p86
+I1
+sVbody
+p87
+I3
+sVstare
+p88
+I1
+sVnever
+p89
+I2
+sVmen
+p90
+I3
+sVgiven
+p91
+I1
+sVhere
+p92
+I1
+sVreason
+p93
+I1
+sVdeath
+p94
+I2
+sVinnocence
+p95
+I1
+sVbeginning
+p96
+I1
+sVspoke
+p97
+I1
+sVsending
+p98
+I1
+sVlast
+p99
+I1
+sVwould
+p100
+I3
+sVlanguage
+p101
+I1
+sVspill
+p102
+I1
+sVmany
+p103
+I2
+sVcould
+p104
+I6
+sVaccording
+p105
+I1
+sVturn
+p106
+I1
+sVbecame
+p107
+I1
+sVplace
+p108
+I1
+sVforgave
+p109
+I1
+sVinsecurity
+p110
+I1
+sVusually
+p111
+I1
+sVyelled
+p112
+I1
+sVwhole
+p113
+I1
+sVsilence
+p114
+I1
+sVemotion
+p115
+I1
+sVseeing
+p116
+I1
+sVlove
+p117
+I2
+sVfeel
+p118
+I5
+sVimportant
+p119
+I1
+sVmakin
+p120
+I1
+sVone
+p121
+I1
+sVtearfilled
+p122
+I1
+sVcouldnt
+p123
+I1
+sVfight
+p124
+I1
+sVtake
+p125
+I1
+sVstory
+p126
+I2
+sVlifes
+p127
+I1
+sVvivid
+p128
+I1
+sVher
+p129
+I5
+sVfailed
+p130
+I1
+sVcome
+p131
+I1
+sVcreator
+p132
+I1
+sVvisit
+p133
+I1
+sVlong
+p134
+I1
+sVraped
+p135
+I1
+sVbreath
+p136
+I1
+sVdoubt
+p137
+I1
+sVway
+p138
+I2
+sVchemo
+p139
+I1
+sVtaken
+p140
+I1
+sVtell
+p141
+I1
+sVspeaking
+p142
+I2
+sVhappy
+p143
+I1
+sVbreathe
+p144
+I1
+sVhead
+p145
+I1
+sVhimself
+p146
+I2
+sVhim
+p147
+I1
+sVsaid
+p148
+I3
+sVlungs
+p149
+I1
+sVmind
+p150
+I1
+sVbecoming
+p151
+I1
+sVblessing
+p152
+I1
+sVtook
+p153
+I1
+sVhurt
+p154
+I3
+sVpart
+p155
+I1
+sVsensed
+p156
+I1
+sVadult
+p157
+I1
+sVbreaths
+p158
+I1
+sVchild
+p159
+I1
+sVknown
+p160
+I1
+sVcases
+p161
+I1
+sVhold
+p162
+I1
+sVeat
+p163
+I1
+sVlonger
+p164
+I2
+sVme
+p165
+I6
+sVloved
+p166
+I2
+sVgrew
+p167
+I1
+sVword
+p168
+I1
+sVthis
+p169
+I2
+sVwish
+p170
+I3
+sVinside
+p171
+I1
+sVsoul
+p172
+I1
+sVtellin
+p173
+I1
+sVplaced
+p174
+I2
+sVwhile
+p175
+I1
+sVsexuality
+p176
+I1
+sVtime
+p177
+I1
+sVfreedom
+p178
+I1
+sVjordan
+p179
+I1
+sVfeeling
+p180
+I2
+sVdidnt
+p181
+I1
+sVtheres
+p182
+I1
+sVheart
+p183
+I1
+sVmedication
+p184
+I1
+sVgive
+p185
+I1
+sVwasnt
+p186
+I1
+sVwhisper
+p187
+I1
+sVpro
+p188
+I1
+sVyear
+p189
+I2
+sVturned
+p190
+I1
+sVit
+p191
+I8
+sVaccept
+p192
+I1
+sVcure
+p193
+I1
+sVim
+p194
+I2
+sVwant
+p195
+I2
+sVin
+p196
+I1
+sVthroat
+p197
+I1
+sVwatched
+p198
+I1
+sVorgans
+p199
+I1
+sVid
+p200
+I1
+sVphysical
+p201
+I1
+sVafraid
+p202
+I2
+sVend
+p203
+I1
+sVbuilt
+p204
+I1
+sVaunts
+p205
+I1
+sVbegan
+p206
+I3
+sVpeace
+p207
+I2
+sVsomehow
+p208
+I1
+sVchest
+p209
+I1
+sVother
+p210
+I1
+sVbuild
+p211
+I1
+sVreally
+p212
+I1
+sVheal
+p213
+I3
+sVlife
+p214
+I2
+sVdiagnosed
+p215
+I1
+sVmultiple
+p216
+I1
+sVtried
+p217
+I2
+sVeyes
+p218
+I2
+sVfelt
+p219
+I2
+sVupon
+p220
+I1
+sVlump
+p221
+I1
+sVhand
+p222
+I1
+sVherbs
+p223
+I1
+sVrested
+p224
+I2
+sVeight
+p225
+I1
+sVgrille
+p226
+I1
+sVfriends
+p227
+I1
+sVfreed
+p228
+I1
+sVman
+p229
+I1
+sVinsure
+p230
+I1
+sVforever
+p231
+I1
+sVremember
+p232
+I2
+sVsometimes
+p233
+I1
+sVcover
+p234
+I1
+sVdisease
+p235
+I1
+sVtogether
+p236
+I1
+sVface
+p237
+I1
+sVthought
+p238
+I2
+sVwithout
+p239
+I1
+sVgod
+p240
+I1
+sVunderstand
+p241
+I2
+sVmake
+p242
+I1
+sVbodies
+p243
+I1
+sVliver
+p244
+I1
+s.

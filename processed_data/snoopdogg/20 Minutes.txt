@@ -1,131 +1,774 @@
-"20 minutes" lyrics
-snoop dogg lyrics
-"20 minutes"
-(feat. goldie loc)
-hey yo goldie loc let me hear some dog (puff)
-we gotta go some for the hood that's on the real
-yeah, this is a public service anouncement from the mathafuckin lbc
-yeah, check this out cuzz, uhm,
-hey yo goldie loc
-let's do this for the homies in the hood
-the dub, waddup
-no disrespect to them other hoods
-but this is where i'm from
-3-2-1 i can't cum
-no other way
-no way, no how
-you know the bowwow do it long beach style
-to the fullest young nigga row
-with my steal i cap home feeling like a o
-no he didn't, yes he did
-bank your chin in her crib
-this ain't no fed
-but now he did
-on the other side where the cowboys at
-where the brown blast black
-and the black blast right back
-that's a fact in the city where i'm from
-you betta get ready
-caus here they kitty come cum
-nigga we can dumb on your bitchass
-i ain't trippin caus i'm from the oldschool
-and i never hesita to blast
-see, we be innin
-you gotta beginnin to win
-holla back nigga in 20 minutes
-gimme your mic and watch me brake these niggas
-how they figga
-bustas get shot tryin to plot
-blew the dice hit them twice hit a seven
-now snoop watch me trip when i back your eleven
-mix for licks to double my chips
-some bangers so much i got cheers even go to there
-now back up and watch me stack up my dirt
-i steal like g'z when you woke up and it hurt
-watch me try matches no need for no practice
-fuck around and get straight stoned with the package
-dogg get the weed bangin
-how the homies feel
-if me and you left here for hangin
-i feel like givin it up
-caus i'm a young nigga livin it up
-me and snoop ain't give a fuck
-20 minutes to get your c-walk on
-you know i get my ride on all on his own
-check this out dog, you don't know me shit
-you know i respresent the eastside long beach with the crip nigga
-two's, o's, fo's and hoes
-nigga only fuckin with the real 2-0's
-20 minutes, 20 minutes
-holla at me, 20 minutes
-deuce, fo's, hoes and clothes
-nigga only fuckin with the real 2-0's
-20 minutes, 20 minutes
-holla at me, 20 minutes
-we ride
-sliding of to the eastside
-hoo-ride, to homicide
-rollin in the g-ride
-so what yall bustas gon'do
-when the pimps, bangers and hustlaz smash on you
-one for the money
-and too for the sjizzo
-i'm lil goldie loc that gives a fuck about a hizzo
-three to the fizzo
-and five to the sizacks
-my nigga snoop dogg gives a fuck about a bi-zitch
-yeah you hearded from me, mmm,
-authograve that ass
-nigga, l-a-l-g
-little goldie loc
-goldie locks the same thang
-smashing for the hood caus i wanted to gangbang
-will i change
-hell nah nigga
-quick to jack that ass to make my bank roll bigga
-trip
-i shot em down
-i shot em , shot em down
-and if the too damn big
-then i cut em , cut em down
-nigga where the pound
-hell yeah i'm from the pound
-nigga how that sound
-dogg pound bounce
-i got homies from the dub that bang everyday
-i got homies from the hood that do the same all day
-i keep my feet real close to the street
-and keep my hands real close to the heat
-i'm not descreet when it comes to the dogg
-i'm a real o like eight-ball
-we c now us by the gangbangin
-crackslangin, entertain us
-sippin silver set not to contain us
-askin which one of yall niggas wanna scrap
-we can do it g-style
-mathafucker strap
-just like i tought nigga
-you got caught
-ol'bitchass nigga droppin all that soul
-you see, first thangs first when your a grown man
-you gotta get up, get out and get your own man
-see, i don't owe you and you don't owe me
-it's 1999 i'm the og
-respect your g'z is what my homies told me
-so i show real love to the dubs
-20 minutes, 20 minutes cuzz
-yeah, nigga 20 minutes cuzz
-and like i said
-deuce, fo's, hoes and shows
-nigga only fuckin with the real 2-0's
-yeah 20 minutes
-holla at me nigga like i said
-two's, fo's, hoes and shows
-nigga only fuckin with the real 2-0's
-20 minutes, 20 minutes
-holla at me cuzz
-20 minutes
-roll, roll, roll your dubs
-eastside i-t-c
-roll your doggin doggy dogg
-nigga this d-p-g
+(dp1
+Vmathafuckin
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I1
+sVgz
+p6
+I2
+sVhesita
+p7
+I1
+sVstoned
+p8
+I1
+sVgo
+p9
+I2
+sVshot
+p10
+I4
+sVyes
+p11
+I1
+sVfizzo
+p12
+I1
+sVfeat
+p13
+I1
+sVrow
+p14
+I1
+sVaint
+p15
+I3
+sVstyle
+p16
+I1
+sVlicks
+p17
+I1
+sV20
+p18
+I17
+sVinnin
+p19
+I1
+sVmix
+p20
+I1
+sVthang
+p21
+I1
+sVyoung
+p22
+I2
+sVsilver
+p23
+I1
+sVowe
+p24
+I2
+sVlets
+p25
+I1
+sVblack
+p26
+I2
+sVhomies
+p27
+I5
+sVcum
+p28
+I2
+sVhizzo
+p29
+I1
+sVride
+p30
+I2
+sVta
+p31
+I3
+sVreal
+p32
+I9
+sVbrown
+p33
+I1
+sVanouncement
+p34
+I1
+sVhit
+p35
+I2
+sVaround
+p36
+I1
+sVyo
+p37
+I2
+sVget
+p38
+I9
+sVmatches
+p39
+I1
+sVbig
+p40
+I1
+sVuhm
+p41
+I1
+sVkitty
+p42
+I1
+sVitc
+p43
+I1
+sVbang
+p44
+I1
+sVfive
+p45
+I1
+sVknow
+p46
+I4
+sVhands
+p47
+I1
+sVfullest
+p48
+I1
+sVblast
+p49
+I3
+sVchips
+p50
+I1
+sVday
+p51
+I1
+sVbank
+p52
+I2
+sVtrippin
+p53
+I1
+sVdoggy
+p54
+I1
+sVlike
+p55
+I7
+sVdid
+p56
+I2
+sVlalg
+p57
+I1
+sVfigga
+p58
+I1
+sVbetta
+p59
+I1
+sVbeginnin
+p60
+I1
+sVsliding
+p61
+I1
+sVtry
+p62
+I1
+sVtwice
+p63
+I1
+sVcuzz
+p64
+I4
+sVcontain
+p65
+I1
+sVquick
+p66
+I1
+sVshows
+p67
+I2
+sVsteal
+p68
+I2
+sVside
+p69
+I1
+sVyall
+p70
+I2
+sVclothes
+p71
+I1
+sVem
+p72
+I5
+sVmmm
+p73
+I1
+sVblew
+p74
+I1
+sVnigga
+p75
+I19
+sVhell
+p76
+I2
+sVsizacks
+p77
+I1
+sVbrake
+p78
+I1
+sVrespect
+p79
+I1
+sVyeah
+p80
+I6
+sVbounce
+p81
+I1
+sVup
+p82
+I2
+sVgride
+p83
+I1
+sVsee
+p84
+I3
+sVstreet
+p85
+I1
+sVdumb
+p86
+I1
+sVcowboys
+p87
+I1
+sVhome
+p88
+I1
+sVoldschool
+p89
+I1
+sVgangbang
+p90
+I1
+sVeven
+p91
+I1
+sVdpg
+p92
+I1
+sVsaid
+p93
+I2
+sVfos
+p94
+I4
+sVscrap
+p95
+I1
+sVdirt
+p96
+I1
+sVgot
+p97
+I7
+sVbitchass
+p98
+I1
+sVpublic
+p99
+I1
+sVtold
+p100
+I1
+sVass
+p101
+I2
+sVcity
+p102
+I1
+sVnever
+p103
+I1
+sVlittle
+p104
+I1
+sVjack
+p105
+I1
+sVdisrespect
+p106
+I1
+sVcut
+p107
+I2
+sVbowwow
+p108
+I1
+sVlet
+p109
+I1
+sVwaddup
+p110
+I1
+sVcwalk
+p111
+I1
+sVeveryday
+p112
+I1
+sVwanted
+p113
+I1
+sVcome
+p114
+I1
+sVchange
+p115
+I1
+sVdice
+p116
+I1
+sVpimps
+p117
+I1
+sVc
+I1
+sVservice
+p118
+I1
+sVpackage
+p119
+I1
+sVog
+p120
+I1
+sVminutes
+p121
+I17
+sVgivin
+p122
+I1
+sVolbitchass
+p123
+I1
+sVplot
+p124
+I1
+sVo
+I2
+sVtwos
+p125
+I2
+sVentertain
+p126
+I1
+sVpuff
+p127
+I1
+sVos
+p128
+I1
+sVcaught
+p129
+I1
+sVfuckin
+p130
+I4
+sVthats
+p131
+I2
+sVown
+p132
+I1
+sVlove
+p133
+I1
+sVdont
+p134
+I3
+sVfeel
+p135
+I2
+sVwin
+p136
+I1
+sVhustlaz
+p137
+I1
+sVsmashing
+p138
+I1
+sV20s
+p139
+I4
+sVcrib
+p140
+I1
+sVone
+p141
+I2
+sVdown
+p142
+I3
+sVright
+p143
+I1
+sVsoul
+p144
+I1
+sVdescreet
+p145
+I1
+sVcrip
+p146
+I1
+sVwan
+p147
+I1
+sVhood
+p148
+I4
+sVloc
+p149
+I5
+sVfed
+p150
+I1
+sVfrom
+p151
+I1
+sVsnoop
+p152
+I4
+sVtought
+p153
+I1
+sVdogg
+p154
+I6
+sVdub
+p155
+I2
+sVthere
+p156
+I1
+sVmathafucker
+p157
+I1
+sVhey
+p158
+I2
+sVlong
+p159
+I2
+sVeleven
+p160
+I1
+sVmuch
+p161
+I1
+sVdamn
+p162
+I1
+sVway
+p163
+I2
+sVgim
+p164
+I1
+sVtryin
+p165
+I1
+sVwoke
+p166
+I1
+sVgives
+p167
+I2
+sVstrap
+p168
+I1
+sVbizitch
+p169
+I1
+sVgstyle
+p170
+I1
+sVsound
+p171
+I1
+sVaskin
+p172
+I1
+sVback
+p173
+I4
+sVlocks
+p174
+I1
+sVheat
+p175
+I1
+sVhear
+p176
+I1
+sVdeuce
+p177
+I2
+sVme
+p178
+I3
+sVsjizzo
+p179
+I1
+sVniggas
+p180
+I2
+sV1999
+p181
+I1
+sVdouble
+p182
+I1
+sVstraight
+p183
+I1
+sVcap
+p184
+I1
+sVcant
+p185
+I1
+sVus
+p186
+I3
+sVdroppin
+p187
+I1
+sVthree
+p188
+I1
+sVchin
+p189
+I1
+sVfeeling
+p190
+I1
+sVdidnt
+p191
+I1
+sVeastside
+p192
+I3
+sVfeet
+p193
+I1
+sVat
+p194
+I1
+sVseven
+p195
+I1
+sVpound
+p196
+I3
+sVgive
+p197
+I1
+sVauthograve
+p198
+I1
+sVhoes
+p199
+I4
+sVfuck
+p200
+I4
+sVbigga
+p201
+I1
+sVsmash
+p202
+I1
+sVneed
+p203
+I1
+sVlbc
+p204
+I1
+sVim
+p205
+I9
+sVgoldie
+p206
+I6
+sVclose
+p207
+I2
+sVready
+p208
+I1
+sVkeep
+p209
+I2
+sVcheck
+p210
+I2
+sVshit
+p211
+I1
+sVlivin
+p212
+I1
+sVhomicide
+p213
+I1
+sVholla
+p214
+I5
+sVsippin
+p215
+I1
+sVthangs
+p216
+I1
+sVlil
+p217
+I1
+sVna
+p218
+I1
+sVmic
+p219
+I1
+sVtrip
+p220
+I2
+sVcrackslangin
+p221
+I1
+sVhow
+p222
+I1
+sV321
+p223
+I1
+sVmake
+p224
+I1
+sVhoods
+p225
+I1
+sVeightball
+p226
+I1
+sVyou
+p227
+I1
+sVhangin
+p228
+I1
+sVbeach
+p229
+I2
+sVroll
+p230
+I5
+sVgrown
+p231
+I1
+sVpractice
+p232
+I1
+sVset
+p233
+I1
+sVbangers
+p234
+I2
+sVgangbangin
+p235
+I1
+sVwatch
+p236
+I4
+sVdubs
+p237
+I2
+sVweed
+p238
+I1
+sVcheers
+p239
+I1
+sVnah
+p240
+I1
+sVhurt
+p241
+I1
+sVstack
+p242
+I1
+sVman
+p243
+I2
+sVdoggin
+p244
+I1
+sVgondo
+p245
+I1
+sVbustas
+p246
+I2
+sVbangin
+p247
+I1
+sVhooride
+p248
+I1
+sVdog
+p249
+I2
+sVrollin
+p250
+I1
+sVcaus
+p251
+I4
+sVhearded
+p252
+I1
+sVcomes
+p253
+I1
+sVfirst
+p254
+I2
+sVrespresent
+p255
+I1
+sVfact
+p256
+I1
+sVleft
+p257
+I1
+s.

@@ -1,11 +1,65 @@
-"curtains close (skit)" lyrics
-eminem lyrics
-"curtains close (skit)"
-is this thing on?
-where'd everybody go?
-guess who's back?
-back again….
-ken is back, tell some…men
-rub my back, rub my back, rub my back, rub my back….
-eh….wait…..hello?
-eh…..goodnight
+(dp1
+Veverybody
+p2
+I1
+sVcurtains
+p3
+I2
+sVguess
+p4
+I1
+sVeh\u2026goodnight
+p5
+I1
+sVsome\u2026men
+p6
+I1
+sVlyrics
+p7
+I2
+sVon
+p8
+I1
+sVrub
+p9
+I4
+sVwhered
+p10
+I1
+sVken
+p11
+I1
+sVagain\u2026
+p12
+I1
+sVskit
+p13
+I2
+sVeh\u2026wait\u2026hello
+p14
+I1
+sVeminem
+p15
+I1
+sVthing
+p16
+I1
+sVback\u2026
+p17
+I1
+sVback
+p18
+I6
+sVgo
+p19
+I1
+sVclose
+p20
+I2
+sVwhos
+p21
+I1
+sVtell
+p22
+I1
+s.

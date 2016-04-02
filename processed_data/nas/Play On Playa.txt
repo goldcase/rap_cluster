@@ -1,110 +1,910 @@
-"play on playa" lyrics
-nas lyrics
-"play on playa"
-(feat. snoop dogg)
-uh, light somethin',
-stop frontin'
-how much money's enough, think maybe like a trillion' figures
-pray my daughter don't wild like them hilton sisters,
-that'd kill me yo, filthy rich, my daughter pass it onto the next generation,
-throwin' carnations
-at my tombstone,
-in my new home,
-meet mom's in my east st. laurent suit on,
-then we do a dance like my man
-luther dan,
-but my verse came first,
-i stole change out her purse,
-now i wanna dig her up outta the earth,
-two more but lean forward, toward a new paragraph,
-blue carrots, d-class,
-strictly that kush in the weed bags,
-tryna' figure out what barry gordie (?) had,
-put in production,
-studio's smokey now, hard like davin ruffin,
-hit a spliff through a seance,
-and i, play on playa
-finest females, i spit game on, i spray tha, gotta' get your papes on, playa on playa,
-before it's all gone, sip don, tip weight up, do y'all thing when i swing, baby,
-spend dub's on yeh rugs(?), gotta' live crazy,
-finest females, i spit game on, i spray tha, get your papes on,
-playa on playa, get your papes on, play on playa, get your papes on..uh
-ruby red grapefruit juice
-with grey goose,
-rubies in the jesus
-piece,
-pimped out like snoopy,
-but a east coast thing,
-my girl's stocking,
-tied up in a knot top a' my beanhead,
-billion dollar dream head,
-went from triple beams to digitals,
-servin' fiends to minimal,
-sixty g's no criminal,
-no mo',
-jus mo' doe,
-my motions pouring,
-oprah's earrings,
-on fingers while your girl performs cunning lingas,
-cause' there's big money a rumour lingers,
-barber cleans his blade,
-then they give me a fade,
-hot towel on the face,
-hot models who vommit after they eat so they can stay lightweight,
-swallowin' my protein like an ovaltine shake,
-come thru' like mo green from godfather,
-so clean where i step i 'clorox it',
-keep twenty g's on both sides of the thighs,
-that's four pockets, eighty thousand, browse for the nicest price,
-but we ain't into buyin' conflict ice,
-that's the shit they stole from the congo,
-and other block soil,
-true mack foil,
-nappy hair jus spinnin',
-hunny gave me a massage with the happy ending,
-finest females i jus came on,
-and sprayed uh, gotta get yeh papes on, play on playa
-it's kinda hard for a playa like you,
-but let me show you how a nigga like me, get revenue,
-what ya never do
-is punk out whatchu better do,
-never let the game get ahead of you,
-get a better view,
-better yet, a better clue,
-praise god, imma marry you,
-get your hoe to, carry you,
-bury you,
-slowly, roll me another blunt,
-stuff it,
-lick it,
-puff it,
-tuck it,
-fuck it,
-that man,
-that game,
-that thang
-it busts,
-in d.o double g we trust!
-yup, yup, young roll with the two steps,
-he creepin' with tha two tec's,
-they sleepin' with two chicks,
-right before we blast all you heard was two clicks,
-end of existence,
-for instance,
-rewind,
-replay it,
-re-chop it,
-remix it,
-we twist it,
-goddamn d.o double g, cuz we missed it,
-travel slow,
-im an indian, but not a navajo, i
-smoke the big leaf
-end all the big beefs,
-my hair in two braid's, im the big chief,
-ladda da' beep bah baddda!
-yeah, break that down, how fresh yeh are,
-the king from queens, mr.escobar,
-connect with the best from the west, yes yes, yah are,
-oh my god, it's snoop dogg and nas,
-playa play on, play on, play on,  play on, play on, play on
+(dp1
+Vyeh
+p2
+I3
+sVrubies
+p3
+I1
+sVsprayed
+p4
+I1
+sVgs
+p5
+I2
+sVknot
+p6
+I1
+sVlyrics
+p7
+I2
+sVshow
+p8
+I1
+sVdance
+p9
+I1
+sVmoney
+p10
+I1
+sVtop
+p11
+I1
+sVdollar
+p12
+I1
+sVyoung
+p13
+I1
+sVending
+p14
+I1
+sVfour
+p15
+I1
+sVmassage
+p16
+I1
+sVpapes
+p17
+I5
+sVoprahs
+p18
+I1
+sVkill
+p19
+I1
+sVmotions
+p20
+I1
+sVshake
+p21
+I1
+sVking
+p22
+I1
+sVearth
+p23
+I1
+sVyes
+p24
+I2
+sVfeat
+p25
+I1
+sVyet
+p26
+I1
+sVaint
+p27
+I1
+sVvommit
+p28
+I1
+sVslow
+p29
+I1
+sVtecs
+p30
+I1
+sVpray
+p31
+I1
+sVtrue
+p32
+I1
+sVpunk
+p33
+I1
+sVovaltine
+p34
+I1
+sVbetter
+p35
+I4
+sVqueens
+p36
+I1
+sVverse
+p37
+I1
+sVproduction
+p38
+I1
+sVrich
+p39
+I1
+sVonuh
+p40
+I1
+sVeast
+p41
+I2
+sVta
+p42
+I3
+sVhit
+p43
+I1
+sVperforms
+p44
+I1
+sVyo
+p45
+I1
+sVget
+p46
+I9
+sVmoms
+p47
+I1
+sVbeams
+p48
+I1
+sVdan
+p49
+I1
+sVrewind
+p50
+I1
+sVstop
+p51
+I1
+sVcoast
+p52
+I1
+sVheard
+p53
+I1
+sVgame
+p54
+I4
+sVfrontin
+p55
+I1
+sVnappy
+p56
+I1
+sVsnoopy
+p57
+I1
+sVgot
+p58
+I3
+sVblast
+p59
+I1
+sVrumour
+p60
+I1
+sVwhatchu
+p61
+I1
+sVtowel
+p62
+I1
+sVlike
+p63
+I9
+sVmack
+p64
+I1
+sVmarry
+p65
+I1
+sVdig
+p66
+I1
+sVroll
+p67
+I2
+sVstuff
+p68
+I1
+sVsteps
+p69
+I1
+sVminimal
+p70
+I1
+sVbreak
+p71
+I1
+sVwent
+p72
+I1
+sVbeanhead
+p73
+I1
+sVyall
+p74
+I1
+sVview
+p75
+I1
+sVcreepin
+p76
+I1
+sVstudios
+p77
+I1
+sVpimped
+p78
+I1
+sVcarnations
+p79
+I1
+sVweight
+p80
+I1
+sVcuz
+p81
+I1
+sVgeneration
+p82
+I1
+sVgoddamn
+p83
+I1
+sVthrowin
+p84
+I1
+sVhard
+p85
+I2
+sVyeah
+p86
+I1
+sVrechop
+p87
+I1
+sVgoose
+p88
+I1
+sVreplay
+p89
+I1
+sVconnect
+p90
+I1
+sVpass
+p91
+I1
+sVhome
+p92
+I1
+sVgirl
+p93
+I1
+sVblade
+p94
+I1
+sVbest
+p95
+I1
+sVblue
+p96
+I1
+sVinstance
+p97
+I1
+sVya
+p98
+I1
+sVmissed
+p99
+I1
+sVsleepin
+p100
+I1
+sVgod
+p101
+I2
+sVlean
+p102
+I1
+sVfingers
+p103
+I1
+sVice
+p104
+I1
+sVgrapefruit
+p105
+I1
+sVenough
+p106
+I1
+sVindian
+p107
+I1
+sVclorox
+p108
+I1
+sVplaya
+p109
+I11
+sVnew
+p110
+I2
+sVcause
+p111
+I1
+sVred
+p112
+I1
+sVthighs
+p113
+I1
+sVbeefs
+p114
+I1
+sVexistence
+p115
+I1
+sVright
+p116
+I1
+sVpouring
+p117
+I1
+sVeighty
+p118
+I1
+sVnever
+p119
+I2
+sVbeep
+p120
+I1
+sVspray
+p121
+I2
+sVseance
+p122
+I1
+sVlet
+p123
+I2
+sVtwenty
+p124
+I1
+sVput
+p125
+I1
+sVstay
+p126
+I1
+sVcome
+p127
+I1
+sVchange
+p128
+I1
+sVon
+p129
+I2
+sVluther
+p130
+I1
+sVpiece
+p131
+I1
+sVdaughter
+p132
+I2
+sVdavin
+p133
+I1
+sVahead
+p134
+I1
+sVface
+p135
+I1
+sVthatd
+p136
+I1
+sVyup
+p137
+I2
+sVcleans
+p138
+I1
+sVstep
+p139
+I1
+sVkeep
+p140
+I1
+sVthing
+p141
+I2
+sVfigures
+p142
+I1
+sVbah
+p143
+I1
+sVpockets
+p144
+I1
+sVbarry
+p145
+I1
+sVpuff
+p146
+I1
+sVonto
+p147
+I1
+sVthink
+p148
+I1
+sVblock
+p149
+I1
+sVfirst
+p150
+I1
+sVbury
+p151
+I1
+sVfinest
+p152
+I3
+sVdont
+p153
+I1
+sVspliff
+p154
+I1
+sVrevenue
+p155
+I1
+sVjesus
+p156
+I1
+sVsixty
+p157
+I1
+sVcongo
+p158
+I1
+sVspinnin
+p159
+I1
+sVanother
+p160
+I1
+sVgave
+p161
+I1
+sVcarry
+p162
+I1
+sVtrust
+p163
+I1
+sVwan
+p164
+I1
+sVthang
+p165
+I1
+sVsnoop
+p166
+I2
+sVbrowse
+p167
+I1
+sVdogg
+p168
+I2
+sVstrictly
+p169
+I1
+sVtrillion
+p170
+I1
+sVgirls
+p171
+I1
+sVtwo
+p172
+I6
+sVnext
+p173
+I1
+sVruffin
+p174
+I1
+sVbusts
+p175
+I1
+sVlive
+p176
+I1
+sVmuch
+p177
+I1
+sVslowly
+p178
+I1
+sVyah
+p179
+I1
+sVclicks
+p180
+I1
+sVsuit
+p181
+I1
+sVforward
+p182
+I1
+sVthru
+p183
+I1
+sVtuck
+p184
+I1
+sVwest
+p185
+I1
+sVhappy
+p186
+I1
+sVtryna
+p187
+I1
+sVhead
+p188
+I1
+sVfemales
+p189
+I3
+sVfade
+p190
+I1
+sVspit
+p191
+I2
+sVimma
+p192
+I1
+sVdclass
+p193
+I1
+sVfuck
+p194
+I1
+sVclue
+p195
+I1
+sVbuyin
+p196
+I1
+sVmoneys
+p197
+I1
+sVhunny
+p198
+I1
+sVnigga
+p199
+I1
+sVbaby
+p200
+I1
+sVbaddda
+p201
+I1
+sVruby
+p202
+I1
+sVeat
+p203
+I1
+sVstocking
+p204
+I1
+sVcunning
+p205
+I1
+sVhair
+p206
+I2
+sVfiends
+p207
+I1
+sVg
+I2
+sVservin
+p208
+I1
+sVgordie
+p209
+I1
+sVdouble
+p210
+I2
+sVmo
+p211
+I3
+sVdigitals
+p212
+I1
+sVlingers
+p213
+I1
+sVgrey
+p214
+I1
+sVnavajo
+p215
+I1
+sVparagraph
+p216
+I1
+sVnicest
+p217
+I1
+sVuh
+p218
+I2
+sVpraise
+p219
+I1
+sVlight
+p220
+I1
+sVwild
+p221
+I1
+sVmeet
+p222
+I1
+sVtoward
+p223
+I1
+sVtheres
+p224
+I1
+sVgone
+p225
+I1
+sVcrazy
+p226
+I1
+sVlick
+p227
+I1
+sVoutta
+p228
+I1
+sVfigure
+p229
+I1
+sVgive
+p230
+I1
+sVsoil
+p231
+I1
+sVim
+p232
+I2
+sVcarrots
+p233
+I1
+sVpurse
+p234
+I1
+sVearrings
+p235
+I1
+sVsmoke
+p236
+I1
+sVtwist
+p237
+I1
+sVjuice
+p238
+I1
+sVhilton
+p239
+I1
+sVtriple
+p240
+I1
+sVlightweight
+p241
+I1
+sVprotein
+p242
+I1
+sVdoe
+p243
+I1
+sVstole
+p244
+I2
+sVrugs
+p245
+I1
+sVshit
+p246
+I1
+sVbags
+p247
+I1
+sVsip
+p248
+I1
+sVend
+p249
+I2
+sVna
+p250
+I1
+sVtravel
+p251
+I1
+sVtip
+p252
+I1
+sVoh
+p253
+I1
+sVbraids
+p254
+I1
+sVmrescobar
+p255
+I1
+sVnas
+p256
+I2
+sVhot
+p257
+I2
+sVchicks
+p258
+I1
+sVhoe
+p259
+I1
+sVbig
+p260
+I4
+sVgreen
+p261
+I1
+sVblunt
+p262
+I1
+sVthousand
+p263
+I1
+sVconflict
+p264
+I1
+sVcriminal
+p265
+I1
+sVplay
+p266
+I11
+sVladda
+p267
+I1
+sVgodfather
+p268
+I1
+sVkush
+p269
+I1
+sVmodels
+p270
+I1
+sVprice
+p271
+I1
+sVswing
+p272
+I1
+sVdubs
+p273
+I1
+sVtied
+p274
+I1
+sVweed
+p275
+I1
+sVfoil
+p276
+I1
+sVswallowin
+p277
+I1
+sVbarber
+p278
+I1
+sVkinda
+p279
+I1
+sVsisters
+p280
+I1
+sVleaf
+p281
+I1
+sVda
+p282
+I1
+sVfilthy
+p283
+I1
+sVsides
+p284
+I1
+sVman
+p285
+I2
+sVbillion
+p286
+I1
+sVsomethin
+p287
+I1
+sVremix
+p288
+I1
+sVlaurent
+p289
+I1
+sVsmokey
+p290
+I1
+sVjus
+p291
+I3
+sVmaybe
+p292
+I1
+sVlingas
+p293
+I1
+sVst
+p294
+I1
+sVchief
+p295
+I1
+sVtombstone
+p296
+I1
+sVtha
+p297
+I3
+sVclean
+p298
+I1
+sVfresh
+p299
+I1
+sVthats
+p300
+I2
+sVdream
+p301
+I1
+sVspend
+p302
+I1
+sVcame
+p303
+I2
+s.

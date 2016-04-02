@@ -1,69 +1,556 @@
-"do what you do" lyrics
-scarface lyrics
-"do what you do"
-(feat. b-legit & bushwick bill)
-i flip, make hits, and stick like peanut butter
-five g's to the homie my money he didn't stutter
-the gutter with the gats, fuck that, we need the lucho
-it ain't no in between such things as being neutral
-we shoot y'all, answering to me if it's needed
-catch you in the bucket and fuck it we gon feed it
-we bleed it, a-k spray and nine milla
-you fuckin with a killa for scrilla
-money wanna deala
-peel 'em from the back and fact, you're ass out
-throw you in the trunk, we bump and mash out
-we blast out and get the fuck outta dodge
-and leave your body corpse parked at the travellodge
-you can't reason with a fool with guns and no brains
-thrown off your balcony get stoned and let's remain
-we stressed main, paper come up short
-plus this bitch with my baby tryin to take me to court
-i need a new quarter, plus my screws is loose
-makin niggas wanna pour shit down like orange juice
-i one two, and slap the fuck outta you
-so go on about my business bitch, and do what you do
-you like to run shit
-do what you do
-you fuck with powder bitch?
-hey yo, do what you do
-you turn dyke too
-yeah, do what you do
-but if it's fuck me bitch, then it's fuck you too
-if you build a heist
-yo, do what you do
-you like to talk the vice?
-do what you do
-speakin on my crew
-nigga, do what you do
-but if it's fuck me bitch, then it's fuck you too
-me and two freaks in b-legit's back seat
-f-u-c-k-i-n-g
-i got clunkers, cuz you know big chuck like em plump
-sippin hurricane bumpin slurricane cuz it thumps
-in my trunk my pistol grip pump at all times
-kryptonite got me blowed cuz i hit it five times
-i got condom on my dick, but my mind is on scrilla
-bitches just respect this nigga chuck and i'ma killa
-me and my nigga, four hoes, weed, and liquor
-headed to the boat to freak these bitches on the river
-and since i'm from the south these hoes showin me love
-and b is from the west, he really don't give a fuck
-twenty minutes later, all hell broke loose
-bitches suckin dick and lickin up nut juice
-one bitch said she like to eat pussy too
-she looked at me, i said shit, bitch, do what you do
-bitch you like suckin dick?
-do what you do
-homie, you like to eat pussy?
-do what you do
-nigga you like bein broke?
-do what you do
-bitch you wanna fuck me, i wanna fuck you too
-nigga you like stealin cars?
-do what you do
-nigga you like bein 'hind bars?
-do what you do
-nigga you don't give a fuck about shit?
-do what you do
-nigga it's fuck bushwick, well fuck you too
+(dp1
+Vblegits
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I2
+sVfour
+p6
+I1
+sVcatch
+p7
+I1
+sVpaper
+p8
+I1
+sVparked
+p9
+I1
+sVstoned
+p10
+I1
+sVgo
+p11
+I1
+sVhell
+p12
+I1
+sVstealin
+p13
+I1
+sVfeat
+p14
+I1
+sVaint
+p15
+I1
+sVclunkers
+p16
+I1
+sVpeanut
+p17
+I1
+sVdick
+p18
+I3
+sVcuz
+p19
+I3
+sVcrew
+p20
+I1
+sVlets
+p21
+I1
+sVblegit
+p22
+I1
+sVcondom
+p23
+I1
+sVhind
+p24
+I1
+sVorange
+p25
+I1
+sVmain
+p26
+I1
+sVbuild
+p27
+I1
+sVfool
+p28
+I1
+sVdo
+p29
+I15
+sVhit
+p30
+I1
+sVyo
+p31
+I2
+sVget
+p32
+I2
+sVbig
+p33
+I1
+sVbein
+p34
+I2
+sVscrilla
+p35
+I2
+sVb
+I1
+sVfive
+p36
+I2
+sVknow
+p37
+I1
+sVgot
+p38
+I3
+sVblast
+p39
+I1
+sVdeala
+p40
+I1
+sVlike
+p41
+I11
+sVnut
+p42
+I1
+sVheist
+p43
+I1
+sVyeah
+p44
+I1
+sVchuck
+p45
+I2
+sVleave
+p46
+I1
+sVquarter
+p47
+I1
+sVyall
+p48
+I1
+sVbushwick
+p49
+I2
+sVbody
+p50
+I1
+sVbars
+p51
+I1
+sVnigga
+p52
+I8
+sVbump
+p53
+I1
+sVliquor
+p54
+I1
+sVback
+p55
+I2
+sVseat
+p56
+I1
+sVpowder
+p57
+I1
+sVhoes
+p58
+I2
+sVout
+p59
+I2
+sVsouth
+p60
+I1
+sVtravellodge
+p61
+I1
+sVgon
+p62
+I1
+sVbusiness
+p63
+I1
+sVcorpse
+p64
+I1
+sVsince
+p65
+I1
+sVhurricane
+p66
+I1
+sVpump
+p67
+I1
+sVfreaks
+p68
+I1
+sVnew
+p69
+I1
+sVpistol
+p70
+I1
+sVguns
+p71
+I1
+sVass
+p72
+I1
+sVima
+p73
+I1
+sVrun
+p74
+I1
+sVpeel
+p75
+I1
+sVcars
+p76
+I1
+sVloose
+p77
+I2
+sVreason
+p78
+I1
+sVtwenty
+p79
+I1
+sVtrunk
+p80
+I2
+sVweed
+p81
+I1
+sVcome
+p82
+I1
+sVthrow
+p83
+I1
+sVthrown
+p84
+I1
+sVhits
+p85
+I1
+sVriver
+p86
+I1
+sVminutes
+p87
+I1
+sVspray
+p88
+I1
+sVtimes
+p89
+I2
+sVturn
+p90
+I1
+sVplus
+p91
+I2
+sVslurricane
+p92
+I1
+sVstressed
+p93
+I1
+sVfuckin
+p94
+I1
+sVfeed
+p95
+I1
+sVem
+p96
+I2
+sVlucho
+p97
+I1
+sVlove
+p98
+I1
+sVdont
+p99
+I2
+sVheaded
+p100
+I1
+sVpussy
+p101
+I2
+sVmakin
+p102
+I1
+sVone
+p103
+I2
+sVbitch
+p104
+I9
+sVrespect
+p105
+I1
+sVkryptonite
+p106
+I1
+sVboat
+p107
+I1
+sVwan
+p108
+I4
+sVspeakin
+p109
+I1
+sVtwo
+p110
+I2
+sVbleed
+p111
+I1
+sVneeded
+p112
+I1
+sVtoo
+p113
+I6
+sVblowed
+p114
+I1
+sVfreak
+p115
+I1
+sVtryin
+p116
+I1
+sVwest
+p117
+I1
+sVbrains
+p118
+I1
+sVbitches
+p119
+I3
+sVstutter
+p120
+I1
+sVit
+p121
+I1
+sVneutral
+p122
+I1
+sVgutter
+p123
+I1
+sVstick
+p124
+I1
+sVbroke
+p125
+I2
+sVbaby
+p126
+I1
+sVeat
+p127
+I2
+sVshoot
+p128
+I1
+sVthumps
+p129
+I1
+sVniggas
+p130
+I1
+sVbill
+p131
+I1
+sVbucket
+p132
+I1
+sVflip
+p133
+I1
+sVpour
+p134
+I1
+sVsuckin
+p135
+I2
+sVremain
+p136
+I1
+sVnine
+p137
+I1
+sVim
+p138
+I1
+sVplump
+p139
+I1
+sVdidnt
+p140
+I1
+sVdodge
+p141
+I1
+sVlater
+p142
+I1
+sVoutta
+p143
+I2
+sVgive
+p144
+I2
+sVshowin
+p145
+I1
+sVak
+p146
+I1
+sVmind
+p147
+I1
+sVfuck
+p148
+I15
+sVslap
+p149
+I1
+sVfucking
+p150
+I1
+sVjuice
+p151
+I2
+sVcant
+p152
+I1
+sVhomie
+p153
+I2
+sVscarface
+p154
+I1
+sVneed
+p155
+I2
+sVscrews
+p156
+I1
+sVdyke
+p157
+I1
+sVshit
+p158
+I4
+sVbalcony
+p159
+I1
+sVsippin
+p160
+I1
+sVcourt
+p161
+I1
+sVna
+p162
+I4
+sVmake
+p163
+I1
+sVanswering
+p164
+I1
+sVgats
+p165
+I1
+sVtake
+p166
+I1
+sVyou
+p167
+I1
+sVreally
+p168
+I1
+sVmilla
+p169
+I1
+sVhey
+p170
+I1
+sVbumpin
+p171
+I1
+sVsaid
+p172
+I2
+sVlickin
+p173
+I1
+sVbutter
+p174
+I1
+sVshort
+p175
+I1
+sVvice
+p176
+I1
+sVyoure
+p177
+I1
+sVwell
+p178
+I1
+sVmash
+p179
+I1
+sVlooked
+p180
+I1
+sVtalk
+p181
+I1
+sVthings
+p182
+I1
+sVgrip
+p183
+I1
+sVkilla
+p184
+I2
+sVfact
+p185
+I1
+s.

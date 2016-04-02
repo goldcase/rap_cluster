@@ -1,106 +1,808 @@
-"g.o.a.t." lyrics
-eminem lyrics
-"g.o.a.t."
-i'm a goat
-and for those of y'all who don't know what a goat is
-it means the greatest of all time
-and i consider myself one of those
-so thank you very much, here it goes!
-this is the part i was worried about
-everyone thinks that my career is down the tubes
-and i'm in some dusty garage inhaling them carbon monoxide fumes
-and everyone's telling me what i should do
-and how i should come out and what to rap about
-and i know i got a lot up in my medulla oblongata that i gotta get out
-and i'm not sure how this is gonna come off
-they're probably gonna think that i'm coming off as cocky (haha)
-like i just started giving a fuck what you really think about me
-see, the thing about me
-is you don't really know a thing about me
-everyone's making a stink about me
-like there's some kind of a aura of that of the king around me
-surround me with nothin' but gangsters, killers, and bangers
-and the most dangerous criminals
-and i feel like i'm more comfortable around them than i do my own motherfuckin' neighbors
-but, see, my dream is to be remembered as one of the best when i leave
-but why does it seem like i'm not even put up in the same category as other emcees?
-so when weezy says that he's better than jay-z
-please, be that just subliminally
-means he thinks jigga's the best and that he's
-the only one up in that league, see
-and it's easy just to consider me one of the greatest white rappers there is
-knowing god damn well that i'm one of the best motherfucking rappers who ever lived period.
-i'm a goat
-and i don't mean to gloat
-but i know what i know and i know what you think
-and these magazines'll never put it in ink
-because how would it look if they considered me as a goat?
-and for those of y'all who don't know what a goat is
-it means the greatest of all time
-and i consider myself one of those
-so thank you very much, here it goes!
-maybe they figure that i'm on my way out the game
-so they gotta go try to find em a new eminem
-or a new shady, if they think it's gonna happen
-man, i thought i was crazy
-or maybe i could be takin' it wrong and they're tryna pay homage to me in a strange way
-so let me pay homage to my fellow white competitors almost in the same way
-see, you hardly ever do hear anyone even bringing up that paul wall's white
-cause lyrically he doesn't pose a threat to anyone, see, he's just aight
-and bubba sparxxx, he just won't write
-because he's so caught up in that snow white
-that timbaland can't even get him in the studio
-he's so gone off that coke, right
-and it's so sad, cause he's dope, right
-america's next great white hope, right
-so now they feel like they gotta come up with some corny ass white rapper show, right
-and which i'm still havin' mixed feelings about
-they said it'd be real, i'm just spillin' it out
-there's somethin' about a white boy talking black and runnin' around with a damn grill in his mouth
-and i love when the say that tiger woods shit
-"isn't it ironic that the best rapper's white and the best golfer's black?"
-and i'm the one who's gotta catch all the flack offa' that
-but these are the people who never had heard of an eminem until 8 mile had came out
-but i had already hit middle america
-parents had all got to likin' me now
-when suddenly i wasn't such a bad guy
-all of the hatred for me must've died
-thought i committed career suicide so i had to turn back into the bad guy
-so faggoty faggoty faggoty gays
-and anatomy god made raggedy ann and andy
-not raggedy andy and andy and andy
-and angelina jolie is just another ho
-and brad is a sucka' because once i fuck her
-she wants to go to somalia to adopt another baby
-you know what i say? no
-you better save some of them kids from madonna
-she needs all the publicity she can get
-you want a shady? well, you got it, man
-i ain't apologizin' for shit.
-i'm a goat
-and i don't mean to gloat
-but i know what i know and i know what you think
-and these magazines'll never put it in ink
-because how would it look if they considered me as a goat?
-and for those of y'all who don't know what a goat is
-it means the greatest of all time
-and i consider myself one of those
-so thank you very much, here it goes!
-man, i'm takin' my ball and goin' home, man
-shit is too easy
-nobody even wants to pass me the ball cause
-(i'm a goat)
-so don't worry, i'm out the motherfuckin' game
-and y'all can sit and argue about who's the motherfuckin' best
-but y'all know that
-(i'm a goat)
-and like i said, i'm one of the motherfuckin' best
-before you get your panties in a motherfuckin' bunch
-but before i go, i'd like to say fuck you very much to everybody who wasn't there from the start
-and thank you very much to everybody who was
-and y'all ain't gotta say it, just think it
-cause i know that you know that i know that you know that i know that you know
-(i'm a goat)
-(hahahaha)
-i'm out, y'all
-it's been real, peace
+(dp1
+Vneighbors
+p2
+I1
+sVpeace
+p3
+I1
+sVconsider
+p4
+I4
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVitd
+p7
+I1
+sVbaby
+p8
+I1
+sVisnt
+p9
+I1
+sVwoods
+p10
+I1
+sVcocky
+p11
+I1
+sVcommitted
+p12
+I1
+sVgo
+p13
+I3
+sVpaul
+p14
+I1
+sVeveryones
+p15
+I2
+sVtakin
+p16
+I2
+sVfind
+p17
+I1
+sVbunch
+p18
+I1
+sVaint
+p19
+I2
+sVnow
+p20
+I1
+sVthank
+p21
+I4
+sVhomage
+p22
+I2
+sVsparxxx
+p23
+I1
+sVbetter
+p24
+I2
+sVhavin
+p25
+I1
+sVstrange
+p26
+I1
+sVblack
+p27
+I2
+sVeasy
+p28
+I2
+sVgrill
+p29
+I1
+sVpay
+p30
+I2
+sVsave
+p31
+I1
+sVhope
+p32
+I1
+sVmedulla
+p33
+I1
+sVreal
+p34
+I2
+sVdo
+p35
+I1
+sVhit
+p36
+I1
+sVaround
+p37
+I3
+sVget
+p38
+I4
+sVdope
+p39
+I1
+sVgame
+p40
+I2
+sVkillers
+p41
+I1
+sVknow
+p42
+I19
+sVprobably
+p43
+I1
+sVtelling
+p44
+I1
+sVfeelings
+p45
+I1
+sVbringing
+p46
+I1
+sVwont
+p47
+I1
+sVpanties
+p48
+I1
+sVlike
+p49
+I7
+sVcause
+p50
+I4
+sVrapper
+p51
+I1
+sVtheyre
+p52
+I2
+sVleave
+p53
+I1
+sVgarage
+p54
+I1
+sVbad
+p55
+I2
+sVdoesnt
+p56
+I1
+sVguy
+p57
+I2
+sVyall
+p58
+I7
+sVmean
+p59
+I2
+sVem
+p60
+I1
+sVass
+p61
+I1
+sVeveryone
+p62
+I1
+sVsays
+p63
+I1
+sVpeople
+p64
+I1
+sVstill
+p65
+I1
+sVback
+p66
+I1
+sVsit
+p67
+I1
+sVflack
+p68
+I1
+sVsee
+p69
+I5
+sVangelina
+p70
+I1
+sVpass
+p71
+I1
+sVspillin
+p72
+I1
+sVhappen
+p73
+I1
+sVworried
+p74
+I1
+sVthinks
+p75
+I2
+sVbest
+p76
+I7
+sVout
+p77
+I3
+sVeven
+p78
+I4
+sVtry
+p79
+I1
+sVgon
+p80
+I3
+sVgangsters
+p81
+I1
+sVgiving
+p82
+I1
+sVgod
+p83
+I2
+sVplease
+p84
+I1
+sVsomalia
+p85
+I1
+sVgoes
+p86
+I3
+sVgot
+p87
+I8
+sVever
+p88
+I2
+sVbubba
+p89
+I1
+sVknowing
+p90
+I1
+sVweezy
+p91
+I1
+sVright
+p92
+I4
+sVremembered
+p93
+I1
+sVnever
+p94
+I3
+sVeminem
+p95
+I3
+sVinhaling
+p96
+I1
+sVgays
+p97
+I1
+sVsuicide
+p98
+I1
+sVlet
+p99
+I1
+sVno
+p100
+I1
+sVgloat
+p101
+I2
+sVput
+p102
+I3
+sVcarbon
+p103
+I1
+sVcome
+p104
+I3
+sVlyrically
+p105
+I1
+sVleague
+p106
+I1
+sVabout
+p107
+I3
+sVkids
+p108
+I1
+sVher
+p109
+I1
+sVcareer
+p110
+I2
+sVcould
+p111
+I1
+sVlikin
+p112
+I1
+sVapologizin
+p113
+I1
+sVsurround
+p114
+I1
+sVamericas
+p115
+I1
+sVthing
+p116
+I2
+sVaura
+p117
+I1
+sVthreat
+p118
+I1
+sVbrad
+p119
+I1
+sVmixed
+p120
+I1
+sVstudio
+p121
+I1
+sVhatred
+p122
+I1
+sVargue
+p123
+I1
+sVthink
+p124
+I6
+sVmotherfucking
+p125
+I1
+sValready
+p126
+I1
+sVlove
+p127
+I1
+sVdont
+p128
+I7
+sVpose
+p129
+I1
+sVfeel
+p130
+I2
+sVfaggoty
+p131
+I3
+sVperiod
+p132
+I1
+sVone
+p133
+I9
+sVoffa
+p134
+I1
+sVfumes
+p135
+I1
+sVjayz
+p136
+I1
+sVjiggas
+p137
+I1
+sVanother
+p138
+I2
+sVhome
+p139
+I1
+sVwhos
+p140
+I2
+sVraggedy
+p141
+I2
+sVandy
+p142
+I4
+sVeverybody
+p143
+I2
+sVcriminals
+p144
+I1
+sVsad
+p145
+I1
+sVwould
+p146
+I2
+sVhes
+p147
+I6
+sVcaught
+p148
+I1
+sVwas
+p149
+I1
+sVnext
+p150
+I1
+sVanyone
+p151
+I2
+sVwasnt
+p152
+I2
+sVmuch
+p153
+I5
+sVdamn
+p154
+I2
+sVlot
+p155
+I1
+sVparents
+p156
+I1
+sVwhite
+p157
+I8
+sVgoin
+p158
+I1
+sVhardly
+p159
+I1
+sVann
+p160
+I1
+sVwants
+p161
+I2
+sVtryna
+p162
+I1
+sVlived
+p163
+I1
+sVway
+p164
+I3
+sVboy
+p165
+I1
+sVstarted
+p166
+I1
+sVcoke
+p167
+I1
+sVnobody
+p168
+I1
+sVhaha
+p169
+I1
+sVgreat
+p170
+I1
+sVit
+p171
+I1
+sVtiger
+p172
+I1
+sVpart
+p173
+I1
+sVhear
+p174
+I1
+sV8
+I1
+sVoblongata
+p175
+I1
+sVtimbaland
+p176
+I1
+sVcatch
+p177
+I1
+sVfellow
+p178
+I1
+sVjolie
+p179
+I1
+sVthose
+p180
+I3
+sVme
+p181
+I5
+sVking
+p182
+I1
+sVkind
+p183
+I1
+sVmade
+p184
+I1
+sVlook
+p185
+I2
+sVheard
+p186
+I1
+sVmustve
+p187
+I1
+sVdangerous
+p188
+I1
+sVsay
+p189
+I4
+sVmiddle
+p190
+I1
+sVdusty
+p191
+I1
+sVmile
+p192
+I1
+sVmaybe
+p193
+I2
+sVaight
+p194
+I1
+sVmaking
+p195
+I1
+sVta
+p196
+I5
+sVsucka
+p197
+I1
+sVtheres
+p198
+I2
+sVgone
+p199
+I1
+sVstink
+p200
+I1
+sVcorny
+p201
+I1
+sVfigure
+p202
+I1
+sValmost
+p203
+I1
+sVsuddenly
+p204
+I1
+sVis
+p205
+I4
+sVfuck
+p206
+I3
+sVcrazy
+p207
+I1
+sVcomfortable
+p208
+I1
+sVtalking
+p209
+I1
+sVcant
+p210
+I1
+sVim
+p211
+I20
+sVrap
+p212
+I1
+sVink
+p213
+I2
+sVironic
+p214
+I1
+sVmadonna
+p215
+I1
+sVseem
+p216
+I1
+sVid
+p217
+I1
+sVshit
+p218
+I3
+sVpublicity
+p219
+I1
+sVbangers
+p220
+I1
+sVneeds
+p221
+I1
+sVmonoxide
+p222
+I1
+sVwant
+p223
+I1
+sVturn
+p224
+I1
+sVna
+p225
+I3
+sVmeans
+p226
+I4
+sVsnow
+p227
+I1
+sVstart
+p228
+I1
+sVwrite
+p229
+I1
+sVrunnin
+p230
+I1
+sVthat
+p231
+I2
+sVsubliminally
+p232
+I1
+sVmotherfuckin
+p233
+I5
+sVnew
+p234
+I2
+sVreally
+p235
+I2
+sVgoat
+p236
+I13
+sVcategory
+p237
+I1
+sVsure
+p238
+I1
+sVemcees
+p239
+I1
+sVrappers
+p240
+I3
+sVball
+p241
+I2
+sVanatomy
+p242
+I1
+sVwrong
+p243
+I1
+sVsaid
+p244
+I2
+sVmouth
+p245
+I1
+sVmagazinesll
+p246
+I2
+sVcoming
+p247
+I1
+sVhahahaha
+p248
+I1
+sVamerica
+p249
+I1
+sVdied
+p250
+I1
+sVman
+p251
+I4
+sVsomethin
+p252
+I1
+sVgolfers
+p253
+I1
+sVoff
+p254
+I1
+sVconsidered
+p255
+I2
+sVtubes
+p256
+I1
+sVshady
+p257
+I2
+sVadopt
+p258
+I1
+sVwell
+p259
+I2
+sVwalls
+p260
+I1
+sVnothin
+p261
+I1
+sVthought
+p262
+I2
+sVcompetitors
+p263
+I1
+sVgreatest
+p264
+I4
+sVworry
+p265
+I1
+sVtime
+p266
+I3
+sVdream
+p267
+I1
+sVcame
+p268
+I1
+sVho
+p269
+I1
+s.

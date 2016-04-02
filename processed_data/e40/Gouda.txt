@@ -1,96 +1,763 @@
-"gouda" lyrics
-e-40 lyrics
-"gouda"
-(feat. b-legit, stressmatic of the federation)
-gouda
-sick wid it records
-bme
-warner brothers
-the machinery (yee!)
-oh, look out pimp!
-heavy on the grindin' entertainment
-stovetop productions
-oh, hustlers are us
-my game sharper than an elephant's tusk
-me myself at night the only that i can trust
-sleep with one eye open finger on the pistol clutch (ka ka ka!)
-i got my hands and everything, i'm real instrumental
-i'm as real as they come and got no bitch potential
-when i was comin' up there certain things we don't allow
-like long fingernails and me and arching the eyebrow
-here's another thing i don't condone and don't approve
-how all of a sudden snitchin' became cool (i dunno)
-i'm gamed up i be chewin' on this mack granite
-og jay be stomped that laced that niggas posted never can
-i brought the baddest broad in the whole facilitation
-all by way of mouthpiece just by my manipulation
-i can make it look like i'm at my best when i'm at my worst
-persuade the broad to put on the dress and break her for her purse
-ten wraps and a rubber band (gouda)
-three or four more in my other hand (gouda)
-five, ten, fifteen, twenty (gouda)
-twenty-five, thirty, thirty-five, forty (chalupa)
-gettin' money i'm a stunna, man (gouda)
-in a 'nike shoe box like a hundred grand (gouda)
-forty-five, fifty-five, sixty-five, seventy-five (gouda)
-eighty-five, ninety-five, wait, what am i doing? (chalupa)
-a day in the life on the soil in caliscrillya
-take the wrong turn and these youngsters out here kill ya
-well i ain't concerned, they love us hustlers and dealers
-they wanna tear our houses down so they can build some of my kids
-oh, just tryna get my point across
-where i'm from it's pandemonium and chaos
-where i'm from the lights is off, we use matches
-where i'm from we do it bare-faced instead of ski masks (ka ka ka!)
-oh, no more talking on them cells
-i heard the federal went ahead and bought nextel (what?)
-oh, over-crowded jails
-they got us sleepin' in the gym instead of our own cells
-ooh, put our yeti together
-me and my investors, we flippin' ten or better
-i got some booty, got a little bit of cheddar
-mama now you got more killers than a peacock better
-gettin' money i'm a stunna man
-with bitch like i do little whips about the stunna van
-my ? she a runner man
-off top, i'm a boss, shoot a box full of rubber bands
-contraband, on the other hand
-big girls, big quips, turn around, roll center man
-on the real, i'm a gentleman
-put the scrilla, i'm a killa, man, hit it like a little man
-what you doin' with that?
-from the scratch, we can load up the 'lac
-a-1, we can bring that back
-from day 1, we get them wraps
-big stacks from the back of the shack
-aye, i buy the weed man
-hella turkey bags just to put my weed in
-oh, we gettin' chalupa
-wrapped cheese in a rubber band and call it gouda
-look out pimp! ai-i-i-te! what it do!
-we gettin' it, so whatchu need?  (gouda)
-bay business, so whatchu need? (gouda)
-we gettin' it, so whatchu need? (gouda)
-ice ?, so whatchu need? (chalupa)
-we gettin' it, so whatchu need?  (gouda)
-bay business, so whatchu need? (gouda)
-we gettin' it, so whatchu need? (gouda)
-sick wid it, so whatchu need? (chalupa)
-we doin' way too much (gouda)
-we never watered down, we doin' way too much (gouda)
-and you don't wanna stunt with us (gouda)
-hustlers are us, we doin' way too much  (chalupa)
-we doin' way too much (gouda)
-we never watered down, we doin' way too much (gouda)
-and you don't wanna stunt with us (gouda)
-hustlers are us, we doin' way too much  (chalupa)
-the definition of gouda
-(what's the definition?)
-chalupa, scrilla, scratch, paper, yaper
-capital (the definition)
-gouda means cheese, and cheese means yaper you square ass square butts
-biiiiiattchhhhh!
-let's get back to what we're talkin' about earlier
-what was we talkin' about earlier, pi-imp?
-hustlers...hustlers are us. uh oh. ahhh.
-look out (look out, pimp)
+(dp1
+Vpeacock
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVyee
+p5
+I1
+sVchaos
+p6
+I1
+sVfour
+p7
+I1
+sVbring
+p8
+I1
+sVpaper
+p9
+I1
+sVsleep
+p10
+I1
+sVshoe
+p11
+I1
+sVwhats
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I1
+sV1
+I1
+sVlaced
+p15
+I1
+sVjay
+p16
+I1
+sVmuch
+p17
+I6
+sVbaddest
+p18
+I1
+sVbutts
+p19
+I1
+sVbetter
+p20
+I2
+sVfingernails
+p21
+I1
+sVlets
+p22
+I1
+sVblegit
+p23
+I1
+sVstunna
+p24
+I3
+sVtusk
+p25
+I1
+sVwhips
+p26
+I1
+sVthirtyfive
+p27
+I1
+sVstomped
+p28
+I1
+sVski
+p29
+I1
+sVbuild
+p30
+I1
+sVreal
+p31
+I3
+sVdo
+p32
+I1
+sVhit
+p33
+I1
+sVfederation
+p34
+I1
+sVget
+p35
+I3
+sVya
+p36
+I1
+sVcheddar
+p37
+I1
+sVyeti
+p38
+I1
+sVbreak
+p39
+I1
+sVrecords
+p40
+I1
+sVgame
+p41
+I1
+sVkillers
+p42
+I1
+sVworst
+p43
+I1
+sVhands
+p44
+I1
+sVstunt
+p45
+I2
+sVbit
+p46
+I1
+sVheard
+p47
+I1
+sVbarefaced
+p48
+I1
+sVday
+p49
+I2
+sVcool
+p50
+I1
+sVwhatchu
+p51
+I8
+sVlike
+p52
+I5
+sVpimp
+p53
+I3
+sVsnitchin
+p54
+I1
+sVclutch
+p55
+I1
+sVgettin
+p56
+I7
+sVwatered
+p57
+I2
+sVeyebrow
+p58
+I1
+sVbay
+p59
+I2
+sVtear
+p60
+I1
+sVstressmatic
+p61
+I1
+sVnight
+p62
+I1
+sVkill
+p63
+I1
+sVwent
+p64
+I1
+sVwarner
+p65
+I1
+sVheavy
+p66
+I1
+sVahead
+p67
+I1
+sVsquare
+p68
+I2
+sVflippin
+p69
+I1
+sVten
+p70
+I3
+sVelephants
+p71
+I1
+sVback
+p72
+I3
+sVaround
+p73
+I1
+sVweed
+p74
+I2
+sVproductions
+p75
+I1
+sVpandemonium
+p76
+I1
+sVuh
+p77
+I1
+sVlittle
+p78
+I3
+sVgouda
+p79
+I24
+sVtalkin
+p80
+I2
+sVbest
+p81
+I1
+sVtwentyfive
+p82
+I1
+sVhustlershustlers
+p83
+I1
+sVwhat
+p84
+I1
+sVentertainment
+p85
+I1
+sVheres
+p86
+I1
+sVbroad
+p87
+I2
+sVgrindin
+p88
+I1
+sVforty
+p89
+I1
+sVice
+p90
+I1
+sVeverything
+p91
+I1
+sVfinger
+p92
+I1
+sVcapital
+p93
+I1
+sVcontraband
+p94
+I1
+sVgot
+p95
+I6
+sVpistol
+p96
+I1
+sVacross
+p97
+I1
+sVbought
+p98
+I1
+sVass
+p99
+I1
+sVfull
+p100
+I1
+sVbusiness
+p101
+I2
+sVfortyfive
+p102
+I1
+sVlights
+p103
+I1
+sVnever
+p104
+I3
+sVwraps
+p105
+I2
+sVboss
+p106
+I1
+sVhouses
+p107
+I1
+sVaiiite
+p108
+I1
+sVkilla
+p109
+I1
+sVput
+p110
+I4
+sVvan
+p111
+I1
+sVlac
+p112
+I1
+sVcome
+p113
+I1
+sVyaper
+p114
+I2
+sVearlier
+p115
+I2
+sVwait
+p116
+I1
+sVbox
+p117
+I2
+sVdefinition
+p118
+I3
+sVgamed
+p119
+I1
+sVthirty
+p120
+I1
+sVoh
+p121
+I7
+sVog
+p122
+I1
+sVdunno
+p123
+I1
+sVwrong
+p124
+I1
+sVhustlers
+p125
+I4
+sVthing
+p126
+I1
+sVbecame
+p127
+I1
+sVchalupa
+p128
+I8
+sVscrilla
+p129
+I2
+sVtwenty
+p130
+I1
+sVwhole
+p131
+I1
+sVconcerned
+p132
+I1
+sVload
+p133
+I1
+sVcheese
+p134
+I3
+sVwid
+p135
+I2
+sVlove
+p136
+I1
+sVdont
+p137
+I5
+sVnextel
+p138
+I1
+sVpoint
+p139
+I1
+sVone
+p140
+I1
+sVbrought
+p141
+I1
+sVbitch
+p142
+I2
+sVanother
+p143
+I1
+sVcomin
+p144
+I1
+sVbooty
+p145
+I1
+sVchewin
+p146
+I1
+sVtrust
+p147
+I1
+sVopen
+p148
+I1
+sVwan
+p149
+I3
+sVturkey
+p150
+I1
+sVfacilitation
+p151
+I1
+sVuse
+p152
+I1
+sVeye
+p153
+I1
+sVsharper
+p154
+I1
+sVshack
+p155
+I1
+sVaye
+p156
+I1
+sVfifteen
+p157
+I1
+sVtop
+p158
+I1
+sVmouthpiece
+p159
+I1
+sVgirls
+p160
+I1
+sVthree
+p161
+I1
+sVlong
+p162
+I1
+sVfiftyfive
+p163
+I1
+sVcall
+p164
+I1
+sVway
+p165
+I7
+sVsoil
+p166
+I1
+sVmama
+p167
+I1
+sVmeans
+p168
+I2
+sVcondone
+p169
+I1
+sVtryna
+p170
+I1
+sVlife
+p171
+I1
+sVbuy
+p172
+I1
+sVbig
+p173
+I3
+sVbme
+p174
+I1
+sVgym
+p175
+I1
+sVahhh
+p176
+I1
+sVooh
+p177
+I1
+sVinstrumental
+p178
+I1
+sVwrapped
+p179
+I1
+sVkids
+p180
+I1
+sVstovetop
+p181
+I1
+sVbiiiiiattchhhhh
+p182
+I1
+sVmanipulation
+p183
+I1
+sVposted
+p184
+I1
+sVshoot
+p185
+I1
+sVseventyfive
+p186
+I1
+sVe40
+p187
+I1
+sVhundred
+p188
+I1
+sVsixtyfive
+p189
+I1
+sVlook
+p190
+I5
+sVniggas
+p191
+I1
+sVcells
+p192
+I2
+sVus
+p193
+I8
+sVpersuade
+p194
+I1
+sVpiimp
+p195
+I1
+sVcan
+p196
+I1
+sVinstead
+p197
+I2
+sVinvestors
+p198
+I1
+sVarching
+p199
+I1
+sVrunner
+p200
+I1
+sVcertain
+p201
+I1
+sVpurse
+p202
+I1
+sVtalking
+p203
+I1
+sVsudden
+p204
+I1
+sVim
+p205
+I13
+sVin
+p206
+I1
+sVneed
+p207
+I8
+sVturn
+p208
+I2
+sVdress
+p209
+I1
+sVninetyfive
+p210
+I1
+sVeightyfive
+p211
+I1
+sVjails
+p212
+I1
+sVnike
+p213
+I1
+sVthings
+p214
+I1
+sVmake
+p215
+I1
+sVthat
+p216
+I1
+sVrubber
+p217
+I3
+sVmatches
+p218
+I1
+sVpotential
+p219
+I1
+sVtake
+p220
+I1
+sVsick
+p221
+I2
+sVgrand
+p222
+I1
+sVgranite
+p223
+I1
+sVroll
+p224
+I1
+sVbrothers
+p225
+I1
+sVbands
+p226
+I1
+sVbags
+p227
+I1
+sVdoin
+p228
+I7
+sVcenter
+p229
+I1
+sVyoungsters
+p230
+I1
+sVmasks
+p231
+I1
+sVhand
+p232
+I2
+sVa1
+p233
+I1
+sVovercrowded
+p234
+I1
+sVcaliscrillya
+p235
+I1
+sVscratch
+p236
+I2
+sVquips
+p237
+I1
+sVmack
+p238
+I1
+sVman
+p239
+I7
+sVka
+p240
+I6
+sVdealers
+p241
+I1
+sVband
+p242
+I2
+sVapprove
+p243
+I1
+sVsleepin
+p244
+I1
+sVwell
+p245
+I1
+sVtogether
+p246
+I1
+sVgentleman
+p247
+I1
+sVfederal
+p248
+I1
+sVhella
+p249
+I1
+sVmachinery
+p250
+I1
+sVallow
+p251
+I1
+sVna
+p252
+I3
+sVfive
+p253
+I1
+sVstacks
+p254
+I1
+s.

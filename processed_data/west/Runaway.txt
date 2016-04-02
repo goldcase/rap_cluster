@@ -1,87 +1,462 @@
-runaway lyrics
-kanye west lyrics
-runaway
-feat pusha t
-look
-look
-ladies gentlemen laladies gentlemen
-want show look like beautiful stars tonight
-want show look like beautiful stars tonight
-want show look like beautiful stars tonight
-always find yeah always find somethin wrong
-puttin shit way long
-im gifted findin dont like most
-think time us toast
-lets toast douchebags
-lets toast assholes
-lets toast scumbags
-every one know
-lets toast jerkoffs
-thatll never take work off
-baby got plan
-run away fast can
-find pictures email
-sent girl picture dick
-dont know females
-im good shit
-see could good girl
-still addicted hoodrats
-blame everything you
-least know thats im good at
-see always find
-always find
-yeah always find somethin wrong
-puttin shit way long
-im gifted findin dont like most
-think time us toast
-lets toast douchebags
-lets toast assholes
-lets toast scumbags
-every one know
-lets toast jerkoffs
-thatll never take work off
-baby got plan
-run away fast can
-rrrurururun away
-run away baby
-look look look look you
-run away baby
-look look look you
-run away
-run away baby
-247 365 pussy stays mind
-iiii right right admit it
-pick next move could leave live it
-ichabod crane motherfuckin top off
-split go back wearin knockoffs huh
-knock neimans shop off
-lets talk mai tais waitress top off
-fools like vultures wanna fly freddy loafers
-cant blame em aint never seen versace sofas
-every bag every blouse every bracelet
-comes price tag baby face it
-leave cant accept basics
-plenty hoes ballernigga matrix
-invisibly set rolex faceless
-im young rich tasteless
-p
-never much romantic
-could never take intimacy
-know damage
-cause look eyes killing me
-guess youve got another advantage
-cause could blame everything
-dont know im manage
-one day leave
-yeah always find somethin wrong
-puttin shit way long
-im gifted findin dont like most
-think time us toast
-lets toast douchebags
-lets toast assholes
-lets toast scumbags
-every one know
-lets toast jerkoffs
-thatll never take work off
-baby got plan
-run away fast can
+(dp1
+Vshop
+p2
+I1
+sVleast
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I3
+sVmove
+p6
+I1
+sVassholes
+p7
+I3
+sVyoung
+p8
+I1
+sVgo
+p9
+I1
+sVkanye
+p10
+I1
+sVstill
+p11
+I1
+sVfeat
+p12
+I1
+sVfind
+p13
+I7
+sVtoast
+p14
+I15
+sVgentlemen
+p15
+I2
+sVjerkoffs
+p16
+I3
+sVdick
+p17
+I1
+sVtais
+p18
+I1
+sVday
+p19
+I1
+sVloafers
+p20
+I1
+sVlets
+p21
+I13
+sVrich
+p22
+I1
+sVsent
+p23
+I1
+sVmotherfuckin
+p24
+I1
+sVme
+p25
+I1
+sVgood
+p26
+I3
+sVadvantage
+p27
+I1
+sVversace
+p28
+I1
+sVevery
+p29
+I6
+sVknow
+p30
+I7
+sVstays
+p31
+I1
+sVyou
+p32
+I3
+sVromantic
+p33
+I1
+sVknock
+p34
+I1
+sVbasics
+p35
+I1
+sVlike
+p36
+I7
+sValways
+p37
+I6
+sVgifted
+p38
+I3
+sVbracelet
+p39
+I1
+sVleave
+p40
+I3
+sVbag
+p41
+I1
+sVt
+I1
+sVaddicted
+p42
+I1
+sVem
+p43
+I1
+sVright
+p44
+I2
+sVyeah
+p45
+I3
+sVpusha
+p46
+I1
+sVsee
+p47
+I2
+sVfools
+p48
+I1
+sVinvisibly
+p49
+I1
+sVgirl
+p50
+I2
+sVblouse
+p51
+I1
+sVmatrix
+p52
+I1
+sVp
+I1
+sVpictures
+p53
+I1
+sVaway
+p54
+I8
+sVeverything
+p55
+I2
+sVgot
+p56
+I4
+sV365
+p57
+I1
+sVcause
+p58
+I2
+sVemail
+p59
+I1
+sVaint
+p60
+I1
+sVrun
+p61
+I7
+sVnever
+p62
+I6
+sVkilling
+p63
+I1
+sVblame
+p64
+I3
+sV247
+p65
+I1
+sVcould
+p66
+I4
+sVsofas
+p67
+I1
+sVadmit
+p68
+I1
+sVpick
+p69
+I1
+sVknockoffs
+p70
+I1
+sVthink
+p71
+I3
+sVwaitress
+p72
+I1
+sVthats
+p73
+I1
+sVrrrurururun
+p74
+I1
+sVladies
+p75
+I1
+sVdont
+p76
+I5
+sVpussy
+p77
+I1
+sVmanage
+p78
+I1
+sVone
+p79
+I4
+sVset
+p80
+I1
+sVlong
+p81
+I3
+sVanother
+p82
+I1
+sVballernigga
+p83
+I1
+sVvultures
+p84
+I1
+sVrunaway
+p85
+I2
+sVwan
+p86
+I1
+sVguess
+p87
+I1
+sVwest
+p88
+I1
+sVtop
+p89
+I2
+sVfast
+p90
+I3
+sVnext
+p91
+I1
+sVlive
+p92
+I1
+sVmuch
+p93
+I1
+sVstars
+p94
+I3
+sVback
+p95
+I1
+sVeyes
+p96
+I1
+sVfemales
+p97
+I1
+sVway
+p98
+I3
+sVtasteless
+p99
+I1
+sVhuh
+p100
+I1
+sVfindin
+p101
+I3
+sVit
+p102
+I3
+sVbaby
+p103
+I7
+sVcrane
+p104
+I1
+sVfly
+p105
+I1
+sVlook
+p106
+I13
+sVwearin
+p107
+I1
+sVsplit
+p108
+I1
+sVwork
+p109
+I3
+sVneimans
+p110
+I1
+sVrolex
+p111
+I1
+sVus
+p112
+I3
+sVfreddy
+p113
+I1
+sVcan
+p114
+I3
+sVbeautiful
+p115
+I3
+sVthatll
+p116
+I3
+sVichabod
+p117
+I1
+sVhoes
+p118
+I1
+sVmind
+p119
+I1
+sVlaladies
+p120
+I1
+sVaccept
+p121
+I1
+sVtonight
+p122
+I3
+sVscumbags
+p123
+I3
+sVcant
+p124
+I2
+sVtag
+p125
+I1
+sVim
+p126
+I7
+sVat
+p127
+I1
+sVwant
+p128
+I3
+sVseen
+p129
+I1
+sVdouchebags
+p130
+I3
+sVfaceless
+p131
+I1
+sVshit
+p132
+I4
+sVna
+p133
+I1
+sVdamage
+p134
+I1
+sViiii
+p135
+I1
+sVtake
+p136
+I4
+sVputtin
+p137
+I3
+sVpicture
+p138
+I1
+sVprice
+p139
+I1
+sVyouve
+p140
+I1
+sVmost
+p141
+I3
+sVwrong
+p142
+I3
+sVplan
+p143
+I3
+sVplenty
+p144
+I1
+sVmai
+p145
+I1
+sVhoodrats
+p146
+I1
+sVsomethin
+p147
+I3
+sVoff
+p148
+I6
+sVface
+p149
+I1
+sVcomes
+p150
+I1
+sVtime
+p151
+I3
+sVintimacy
+p152
+I1
+sVtalk
+p153
+I1
+s.

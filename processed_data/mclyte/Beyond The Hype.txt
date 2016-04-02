@@ -1,62 +1,398 @@
-"beyond the hype" lyrics
-mc lyte lyrics
-"beyond the hype"
-i, am, back on the scene
-i'm takin it to the extremes
-new blend, i've been schemin
-raw type stuff i know you've been fiendin
-waitin for, such a long time
-for mc lyte to drop another dope rhyme
-well i deliver as quick as you call my name
-i'm beyond the hype, beyond the fame
-so now, i prove to you
-that i can shake you groove you and move you too
-i am, too much to bear
-to touch and then share
-once you've had one taste one touch one bite
-all you want is m-c lyte!
-and i deliver as quick as you call my name
-i'm beyond the hype, beyond the fame
-we've got to try to move beyond
-i'm comin
-we've got to try to break on through
-to the extreme
-we've got to try to move beyond
-beyond the hype
-we've got to try to break on through!
-can't, you, see, i'm beyond the hype
-and all that type of jazz and pizazz
-i'm, into, reality
-forget the fantasy, this is me
-beyond the hype, so don't believe
-what you read, cause they'll deceive
-so now i come to you
-telling no lies, the truth is in my eyes
-unlike the broadcasters on the news
-who try to tell you, the don'ts and the do's
-the media blows things out of proportion
-the public's eye, proceed with caution
-it's a dog eat dog world
-but we'll be alright
-all we gots to do is stick together
-and move beyond the hype
-you, must, trust when i say i'm here to stay
-and believe i'll never leave
-haste, makes, waste
-the track is all that, so pick up the pace
-forget the rumors, gossip, shit-talk
-besides that's old news, and that can walk
-i'm beyond that, you are also
-release the negative vibe and let it go
-so now, i come to you
-bearing gifts that certainly uplift
-from coast to coast, midwest i'm the most
-but still, not on a high post
-i'm comin, just call my name
-beyond the hype, beyond the fame
-down to earth, i'm just that type
-to take you and move beyond the hype
-i'm comin
-to the extreme
-beyond the hype
-beyond the hype...
+(dp1
+Vthings
+p2
+I1
+sVforget
+p3
+I2
+sVlyrics
+p4
+I2
+sVmove
+p5
+I5
+sVthrough
+p6
+I2
+sVshake
+p7
+I1
+sVtouch
+p8
+I2
+sVgossip
+p9
+I1
+sVstill
+p10
+I1
+sVtakin
+p11
+I1
+sVcertainly
+p12
+I1
+sVproportion
+p13
+I1
+sVrelease
+p14
+I1
+sVmidwest
+p15
+I1
+sVweve
+p16
+I4
+sVread
+p17
+I1
+sVdope
+p18
+I1
+sVjazz
+p19
+I1
+sVrhyme
+p20
+I1
+sVbear
+p21
+I1
+sVcoast
+p22
+I2
+sVbreak
+p23
+I2
+sVfiendin
+p24
+I1
+sVknow
+p25
+I1
+sVgot
+p26
+I4
+sVtelling
+p27
+I1
+sVworld
+p28
+I1
+sVwalk
+p29
+I1
+sVyou
+p30
+I3
+sVname
+p31
+I3
+sVfantasy
+p32
+I1
+sVdrop
+p33
+I1
+sVtry
+p34
+I5
+sVstuff
+p35
+I1
+sVtruth
+p36
+I1
+sVquick
+p37
+I2
+sVold
+p38
+I1
+sVpublics
+p39
+I1
+sVcomin
+p40
+I3
+sVback
+p41
+I1
+sVgo
+p42
+I1
+sVsee
+p43
+I1
+sVearth
+p44
+I1
+sVbeyond
+p45
+I18
+sVleave
+p46
+I1
+sVnew
+p47
+I1
+sVcause
+p48
+I1
+sVnever
+p49
+I1
+sVdeliver
+p50
+I2
+sVhype
+p51
+I12
+sVlet
+p52
+I1
+sVbesides
+p53
+I1
+sVnews
+p54
+I2
+sVpost
+p55
+I1
+sVcome
+p56
+I2
+sVextreme
+p57
+I2
+sVshittalk
+p58
+I1
+sVill
+p59
+I1
+sVextremes
+p60
+I1
+sVyouve
+p61
+I2
+sVmakes
+p62
+I1
+sVthats
+p63
+I1
+sVdont
+p64
+I1
+sVbearing
+p65
+I1
+sVscene
+p66
+I1
+sVone
+p67
+I3
+sVlies
+p68
+I1
+sVanother
+p69
+I1
+sVbroadcasters
+p70
+I1
+sVblows
+p71
+I1
+sVtrust
+p72
+I1
+sVeye
+p73
+I1
+sVproceed
+p74
+I1
+sVprove
+p75
+I1
+sVlyte
+p76
+I3
+sVbite
+p77
+I1
+sVnegative
+p78
+I1
+sVlong
+p79
+I1
+sVmuch
+p80
+I1
+sVcall
+p81
+I3
+sVtoo
+p82
+I1
+sVwaste
+p83
+I1
+sVtype
+p84
+I3
+sVtell
+p85
+I1
+sVdonts
+p86
+I1
+sVeyes
+p87
+I1
+sVmc
+p88
+I3
+sVstick
+p89
+I1
+sVbelieve
+p90
+I2
+sVeat
+p91
+I1
+sVmust
+p92
+I1
+sVme
+p93
+I1
+sVunlike
+p94
+I1
+sVsay
+p95
+I1
+sVpace
+p96
+I1
+sVcaution
+p97
+I1
+sVgroove
+p98
+I1
+sVive
+p99
+I1
+sVtaste
+p100
+I1
+sVshare
+p101
+I1
+sVhigh
+p102
+I1
+sVraw
+p103
+I1
+sVcant
+p104
+I1
+sVim
+p105
+I12
+sVwant
+p106
+I1
+sVpizazz
+p107
+I1
+sVuplift
+p108
+I1
+sVfame
+p109
+I3
+sVtheyll
+p110
+I1
+sVvibe
+p111
+I1
+sVmedia
+p112
+I1
+sVreality
+p113
+I1
+sValso
+p114
+I1
+sVtake
+p115
+I1
+sVschemin
+p116
+I1
+sVwaitin
+p117
+I1
+sVtrack
+p118
+I1
+sVgots
+p119
+I1
+sVpick
+p120
+I1
+sVstay
+p121
+I1
+sVgifts
+p122
+I1
+sVmost
+p123
+I1
+sVrumors
+p124
+I1
+sVwell
+p125
+I2
+sVdog
+p126
+I2
+sVtogether
+p127
+I1
+sVhaste
+p128
+I1
+sVdeceive
+p129
+I1
+sVtime
+p130
+I1
+sValright
+p131
+I1
+sVdos
+p132
+I1
+sVblend
+p133
+I1
+s.

@@ -1,110 +1,853 @@
-"wtf?" lyrics
-public enemy lyrics
-"wtf?"
-i occupy this state of mind
-like i'm born a second time
-the masses ask the question why
-them asses spend a life behind
-on the mic the pic
-against this prison industry
-where most of them look just like me
-mf'-k the tea party
-made you pay for education
-got no money got you waitin
-tricks to keep the people fooled
-something in the food my dude
-about your future where you rank
-who you think and who you thank
-behind the banks and all them tanks
-new whirl odor on the brink
-revolution stop the feds
-count the homeless under fed
-sue the pharmaceutical off the meds
-leavin people left for dead
-look back 80 years instead
-simply blamed it on the reds
-pay close attention to what is said
-but while you listen watch your heads.
-you chase the money you chase the fame
-the human race is what they're playing
-a game of life is what i'm sayin
-split em up call them names
-at the age i am if i can't teach
-i shouldn't open my mouth to speak
-talking loud and sayin nothing
-and frontin like they doin something
-feel the people
-heal the people
-power goes out
-to the people
-18-35 is grown
-cant afford to leave the home
-can't afford to buy a home
-can't afford to keep a home
-boarded up foreclosed cribs
-based on whatcha bank did
-yet see these guys advertise to the poor for clothes
-the doors are closed
-they slam the doors on your nose
-who the hell is telling you
-what the hell they selling you
-why the hell do you believe
-where we headed when we leave
-wtf?
-wtf?
-wtf?
-from barack obama to flavor flav
-we both be a first till we get to our grave
-i'm the first hype man in music
-he's the first black president
-he's the first black resident
-to be ever come president
-free your mind your ass will follow
-flavor flav all the way to the apollo
-freeport li to la
-throw a frito olay off the dock of the bay
-you wanna know why a kid goes to school?
-and in his book-bag he carries a tool
-because hes trying to be like his idols in the streets
-gang warfare to the raw fare
-don't even try to go up there
-penalties that you cant bear
-you lose your sight your ass cant hear
-it weighs so much it'll crush your life
-don't play with god he gave you live
-the last man standing he hopes to behold
-his weight in stature his weight in gold
-what goes in your wash comes out in your rinse
-back down so tight that you call it condensed
-cant stand the pressure, cant stand the pain
-my life is so dry i wish it would rain
-just like the temptations not just the singing group
-i'm here to tell you now so don't ignore the scoop
-i been in this rap game for 25 years
-if we made the rock and roll hall of fame
-we deserve our chairs
-to what we fought the power to who stole the soul
-brothers gonna work it out
-from the ground we hold
-god says to man ima let you live
-god says to man ima let you live
-god says to man ima give you power
-not for the intent to misuse your power
-if you wanna dance you got to play the bands
-people die by other hands
-the innocent, the ku klux klan
-iraq and iran an afhganistan
-they go to war they don't come back
-the note comes home killed in attack
-all the medals from fort bragg
-collected by a widow along with the flag
-41 gun salute 4 jets in the air
-now thats going out of style the
-contribution was fear
-what you reap is what you sow
-a man got killed for what he know
-if you wanna be a -- and get a good wife
-stay the fuck offa skype and don't believe the hype
-wtf?
-wtf?
-wtf?
+(dp1
+Vlyrics
+p2
+I2
+sVdance
+p3
+I1
+sVmoney
+p4
+I2
+sVhands
+p5
+I1
+sVmfk
+p6
+I1
+sVyears
+p7
+I2
+sVidols
+p8
+I1
+sVgang
+p9
+I1
+sVhuman
+p10
+I1
+sVgo
+p11
+I2
+sVhell
+p12
+I3
+sVflavor
+p13
+I2
+sVbrink
+p14
+I1
+sVground
+p15
+I1
+sVima
+p16
+I3
+sV25
+p17
+I1
+sVstyle
+p18
+I1
+sVapollo
+p19
+I1
+sVbased
+p20
+I1
+sVthank
+p21
+I1
+sV1835
+p22
+I1
+sVmasses
+p23
+I1
+sVitll
+p24
+I1
+sVstate
+p25
+I1
+sVli
+p26
+I1
+sVbarack
+p27
+I1
+sVair
+p28
+I1
+sVblack
+p29
+I2
+sV4
+I1
+sVinnocent
+p30
+I1
+sVprison
+p31
+I1
+sVfort
+p32
+I1
+sVhall
+p33
+I1
+sVgave
+p34
+I1
+sVme
+p35
+I1
+sVgood
+p36
+I1
+sVclosed
+p37
+I1
+sVget
+p38
+I2
+sVfood
+p39
+I1
+sVbands
+p40
+I1
+sVrock
+p41
+I1
+sVwatch
+p42
+I1
+sVbear
+p43
+I1
+sVdock
+p44
+I1
+sVgame
+p45
+I2
+sVfrontin
+p46
+I1
+sVfare
+p47
+I1
+sVknow
+p48
+I2
+sVtanks
+p49
+I1
+sVparty
+p50
+I1
+sVtelling
+p51
+I1
+sVreap
+p52
+I1
+sVbehold
+p53
+I1
+sVbank
+p54
+I1
+sVwarfare
+p55
+I1
+sVenemy
+p56
+I1
+sVschool
+p57
+I1
+sVlike
+p58
+I5
+sVdie
+p59
+I1
+sVwash
+p60
+I1
+sVdid
+p61
+I1
+sVroll
+p62
+I1
+sVgun
+p63
+I1
+sVtheyre
+p64
+I1
+sVleave
+p65
+I2
+sVchairs
+p66
+I1
+sVrace
+p67
+I1
+sVnose
+p68
+I1
+sVwhatcha
+p69
+I1
+sVhype
+p70
+I2
+sVolay
+p71
+I1
+sVboarded
+p72
+I1
+sVtrying
+p73
+I1
+sVclothes
+p74
+I1
+sVem
+p75
+I1
+sVpoor
+p76
+I1
+sVrevolution
+p77
+I1
+sVsays
+p78
+I3
+sVsow
+p79
+I1
+sVweight
+p80
+I2
+sVpeople
+p81
+I6
+sVtea
+p82
+I1
+sVpenalties
+p83
+I1
+sVstreets
+p84
+I1
+sVback
+p85
+I3
+sVdead
+p86
+I1
+sVsoul
+p87
+I1
+sVborn
+p88
+I1
+sVsecond
+p89
+I1
+sVshouldnt
+p90
+I1
+sVsight
+p91
+I1
+sVfollow
+p92
+I1
+sVclose
+p93
+I1
+sV80
+p94
+I1
+sVbay
+p95
+I1
+sVfear
+p96
+I1
+sVklan
+p97
+I1
+sVeven
+p98
+I1
+sVtry
+p99
+I1
+sVsue
+p100
+I1
+sVsaid
+p101
+I1
+sVgod
+p102
+I4
+sVklux
+p103
+I1
+sVyet
+p104
+I1
+sVcrush
+p105
+I1
+sVmeds
+p106
+I1
+sVbehind
+p107
+I2
+sVgoes
+p108
+I3
+sVweighs
+p109
+I1
+sVnew
+p110
+I1
+sVhold
+p111
+I1
+sVever
+p112
+I1
+sVpublic
+p113
+I1
+sVsalute
+p114
+I1
+sVass
+p115
+I2
+sVcondensed
+p116
+I1
+sViran
+p117
+I1
+sVpower
+p118
+I4
+sVwan
+p119
+I3
+sVgot
+p120
+I4
+sVodor
+p121
+I1
+sVattention
+p122
+I1
+sVfree
+p123
+I1
+sVpressure
+p124
+I1
+sVlet
+p125
+I2
+sVwtf
+p126
+I8
+sVask
+p127
+I1
+sVgroup
+p128
+I1
+sVteach
+p129
+I1
+sViraq
+p130
+I1
+sVcome
+p131
+I2
+sVthrow
+p132
+I1
+sVsayin
+p133
+I2
+sVdry
+p134
+I1
+sVlast
+p135
+I1
+sVmisuse
+p136
+I1
+sVindustry
+p137
+I1
+sVla
+p138
+I1
+sVkeep
+p139
+I2
+sVcarries
+p140
+I1
+sVstand
+p141
+I2
+sVfought
+p142
+I1
+sVmouth
+p143
+I1
+sVcontribution
+p144
+I1
+sVwidow
+p145
+I1
+sVloud
+p146
+I1
+sVthink
+p147
+I1
+sVcomes
+p148
+I2
+sVfirst
+p149
+I4
+sVreds
+p150
+I1
+sVdont
+p151
+I5
+sVheaded
+p152
+I1
+sVfeel
+p153
+I1
+sVquestion
+p154
+I1
+sVrank
+p155
+I1
+sVoffa
+p156
+I1
+sVna
+p157
+I4
+sVintent
+p158
+I1
+sVsimply
+p159
+I1
+sVnames
+p160
+I1
+sVhomeless
+p161
+I1
+sVopen
+p162
+I1
+sValong
+p163
+I1
+sVspeak
+p164
+I1
+sVstanding
+p165
+I1
+sVpharmaceutical
+p166
+I1
+sVfed
+p167
+I1
+sVheads
+p168
+I1
+sVwould
+p169
+I1
+sVhes
+p170
+I3
+sVthere
+p171
+I1
+sVdude
+p172
+I1
+sVlive
+p173
+I3
+sVwhy
+p174
+I1
+sVoccupy
+p175
+I1
+sVasses
+p176
+I1
+sVmuch
+p177
+I1
+sVcall
+p178
+I2
+sVway
+p179
+I1
+sVbragg
+p180
+I1
+sVcollected
+p181
+I1
+sVmusic
+p182
+I1
+sVkid
+p183
+I1
+sVtell
+p184
+I1
+sVkilled
+p185
+I2
+sVlisten
+p186
+I1
+sVtight
+p187
+I1
+sVlife
+p188
+I4
+sVbuy
+p189
+I1
+sVadvertise
+p190
+I1
+sVfrito
+p191
+I1
+sVafford
+p192
+I3
+sVgoing
+p193
+I1
+sVheal
+p194
+I1
+sVsinging
+p195
+I1
+sVdeserve
+p196
+I1
+sVflag
+p197
+I1
+sVforeclosed
+p198
+I1
+sVhopes
+p199
+I1
+sVfooled
+p200
+I1
+sVgold
+p201
+I1
+sVbelieve
+p202
+I2
+sVobama
+p203
+I1
+sVcount
+p204
+I1
+sVmade
+p205
+I2
+sVskype
+p206
+I1
+sVlook
+p207
+I2
+sVraw
+p208
+I1
+sVwish
+p209
+I1
+sVflav
+p210
+I2
+sVfreeport
+p211
+I1
+sVsee
+p212
+I1
+sVwar
+p213
+I1
+sVwork
+p214
+I1
+sVfuture
+p215
+I1
+sVstature
+p216
+I1
+sVselling
+p217
+I1
+sVtemptations
+p218
+I1
+sVage
+p219
+I1
+sVgive
+p220
+I1
+sVresident
+p221
+I1
+sVpic
+p222
+I1
+sVmind
+p223
+I2
+sVfuck
+p224
+I1
+sVtalking
+p225
+I1
+sVcant
+p226
+I8
+sVslam
+p227
+I1
+sVim
+p228
+I4
+sVsomething
+p229
+I2
+sVrap
+p230
+I1
+sVhome
+p231
+I4
+sVeducation
+p232
+I1
+sVstole
+p233
+I1
+sVfame
+p234
+I2
+sVchase
+p235
+I2
+sVgrown
+p236
+I1
+sVwhirl
+p237
+I1
+sVpay
+p238
+I2
+sVmic
+p239
+I1
+sV41
+p240
+I1
+sVnote
+p241
+I1
+sVtill
+p242
+I1
+sVsplit
+p243
+I1
+sVdoors
+p244
+I2
+sVinstead
+p245
+I1
+sVyou
+p246
+I2
+sVignore
+p247
+I1
+sVjets
+p248
+I1
+sVtool
+p249
+I1
+sVmedals
+p250
+I1
+sVwaitin
+p251
+I1
+sVplay
+p252
+I2
+sVleavin
+p253
+I1
+sVpain
+p254
+I1
+sVbrothers
+p255
+I1
+sVstop
+p256
+I1
+sVdoin
+p257
+I1
+sVrain
+p258
+I1
+sVstay
+p259
+I1
+sVgon
+p260
+I1
+sVfeds
+p261
+I1
+sVattack
+p262
+I1
+sVnothing
+p263
+I1
+sVpresident
+p264
+I2
+sVguys
+p265
+I1
+sVblamed
+p266
+I1
+sVgrave
+p267
+I1
+sVman
+p268
+I6
+sVwife
+p269
+I1
+sVcribs
+p270
+I1
+sVbookbag
+p271
+I1
+sVtricks
+p272
+I1
+sVlose
+p273
+I1
+sVplaying
+p274
+I1
+sVscoop
+p275
+I1
+sVthats
+p276
+I1
+sVku
+p277
+I1
+sVtime
+p278
+I1
+sVbanks
+p279
+I1
+sVhear
+p280
+I1
+sVafhganistan
+p281
+I1
+sVspend
+p282
+I1
+sVrinse
+p283
+I1
+sVleft
+p284
+I1
+s.

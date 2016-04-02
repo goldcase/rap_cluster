@@ -1,56 +1,391 @@
-"lay down (smoked)" lyrics
-50 cent lyrics
-"lay down (smoked)"
-(feat. ned the wino)
-move the fuck out the way,
-this might get rain today
-don’t wanna play now
-i’m on a roll
-that's where i plan to stay
-forget the badge you made
-and lay down
-nigga better watch what the fuck you say to me
-tricks are for kids don’t play with me
-you’ll get smoked, i ain’t for the bullshit
-got the chrome bulldog for that bullshit
-problem nigga, it’s ok with me
-the revolver always stay with me
-you’ll get smoked, i ain’t for the bullshit
-44 bulldog for that bullshit
-nigga that was my mama crack spot
-i got birth rights
-i lay a nigga out on the turf nice
-fuck a fist fight
-shit shift all of sudden, you can box my box cutter as i can see it cutting
-lord have mercy, jesus, lord have mercy
-i bet this hurts you like it hurts me, it hurts
-hot as hell when that gunpowder burning
-what goes around don’t come around
-when i’m putting work in
-nigga swallow your pride and run you stick around your done
-move the fuck out the way
-this might get rain today
-don’t wanna play now
-i’m on a roll
-that’s where i plan to stay
-forget the badge you made
-and lay down
-i don’t know you what the fuck you wanna say to me
-i’m telling you niggas don’t play with me
-you’ll get smoked, i ain’t for the bullshit
-got the chrome bulldog for that bullshit
-body on the ground it’s ok with me
-i make examples so niggas don’t play with me
-you’ll get smoked, i ain’t for the bullshit
-44 bulldog for that bullshit
-i got a gun fetish, choppa in the trunk
-i shoot a duck flying right out the sky with the punk
-a nigga 8 out of 8 of moving targets
-16 in the clip, i’ll dump them all in your whip
-you think i’m joking, i’m not
-you’ll find out when that glock get to dumping
-and your back get hot
-i got a temper, you don’t wanna test my patience
-and end up doc’s new patient
-stump your head on the pavement
-you try and come at me on some brave shit
+(dp1
+Vforget
+p2
+I2
+sVlyrics
+p3
+I2
+sVmove
+p4
+I2
+sVnot
+p5
+I1
+sVhell
+p6
+I1
+sVfeat
+p7
+I1
+sVfind
+p8
+I1
+sVground
+p9
+I1
+sVit\u2019s
+p10
+I2
+sVsky
+p11
+I1
+sVbetter
+p12
+I1
+sVcrack
+p13
+I1
+sVlord
+p14
+I2
+sVpride
+p15
+I1
+sVmight
+p16
+I2
+sVcutter
+p17
+I1
+sVshoot
+p18
+I1
+sVdoc\u2019s
+p19
+I1
+sVaround
+p20
+I3
+sVget
+p21
+I8
+sVi\u2019m
+p22
+I6
+sVwatch
+p23
+I1
+sVcutting
+p24
+I1
+sVputting
+p25
+I1
+sVknow
+p26
+I1
+sVbirth
+p27
+I1
+sVfetish
+p28
+I1
+sVtelling
+p29
+I1
+sVnow
+p30
+I2
+sVbullshit
+p31
+I8
+sVchoppa
+p32
+I1
+sVlike
+p33
+I1
+sValways
+p34
+I1
+sVniggas
+p35
+I2
+sV50
+p36
+I1
+sVtry
+p37
+I1
+sVpavement
+p38
+I1
+sV16
+p39
+I1
+sVnigga
+p40
+I6
+sVstump
+p41
+I1
+sVdump
+p42
+I1
+sVdumping
+p43
+I1
+sVback
+p44
+I1
+sVgun
+p45
+I1
+sVsee
+p46
+I1
+sVexamples
+p47
+I1
+sVfist
+p48
+I1
+sVyou\u2019ll
+p49
+I5
+sVtargets
+p50
+I1
+sVwhip
+p51
+I1
+sVbrave
+p52
+I1
+sVned
+p53
+I1
+sVrevolver
+p54
+I1
+sVthats
+p55
+I1
+sVgoes
+p56
+I1
+sVgot
+p57
+I5
+sVbadge
+p58
+I2
+sVbody
+p59
+I1
+sVrun
+p60
+I1
+sVhurts
+p61
+I3
+sVcome
+p62
+I2
+sVbox
+p63
+I2
+sVkids
+p64
+I1
+sVok
+p65
+I2
+sVshift
+p66
+I1
+sVpunk
+p67
+I1
+sVturf
+p68
+I1
+sVswallow
+p69
+I1
+sVthink
+p70
+I1
+sVlay
+p71
+I5
+sVburning
+p72
+I1
+sVtrunk
+p73
+I1
+sVjesus
+p74
+I1
+sVdown
+p75
+I2
+sVpatience
+p76
+I1
+sVright
+p77
+I1
+sVdone
+p78
+I1
+sVduck
+p79
+I1
+sVwan
+p80
+I4
+sVjoking
+p81
+I1
+sVchrome
+p82
+I2
+sVflying
+p83
+I1
+sVcent
+p84
+I1
+sVfight
+p85
+I1
+sVdon\u2019t
+p86
+I8
+sVway
+p87
+I2
+sVmama
+p88
+I1
+sVtoday
+p89
+I2
+sVhead
+p90
+I1
+sVglock
+p91
+I1
+sVi\u2019ll
+p92
+I1
+sVbulldog
+p93
+I4
+sVstick
+p94
+I1
+sV8
+I2
+sVgunpowder
+p95
+I1
+sVme
+p96
+I7
+sVmercy
+p97
+I2
+sVmade
+p98
+I2
+sVrights
+p99
+I1
+sVain\u2019t
+p100
+I4
+sVwork
+p101
+I1
+sVproblem
+p102
+I1
+sVtemper
+p103
+I1
+sVbet
+p104
+I1
+sVclip
+p105
+I1
+sVfuck
+p106
+I5
+sVsay
+p107
+I2
+sVsudden
+p108
+I1
+sVin
+p109
+I1
+sVshit
+p110
+I2
+sVend
+p111
+I1
+sVna
+p112
+I4
+sV44
+p113
+I2
+sVhot
+p114
+I2
+sVpatient
+p115
+I1
+sVtest
+p116
+I1
+sVnew
+p117
+I1
+sVroll
+p118
+I2
+sVnice
+p119
+I1
+sVplay
+p120
+I5
+sVthat\u2019s
+p121
+I1
+sVspot
+p122
+I1
+sVrain
+p123
+I2
+sVstay
+p124
+I3
+sVmoving
+p125
+I1
+sVplan
+p126
+I2
+sVtricks
+p127
+I1
+sVwino
+p128
+I1
+sVsmoked
+p129
+I6
+sVmake
+p130
+I1
+s.

@@ -1,157 +1,1029 @@
-"street fame" lyrics
-2pac lyrics
-"street fame"
-turn it up in my head phones
-(coming to a ghetto near you, street fame)
-more
-haha, coming to a ghetto near you,
-i wasn't mad until these tricks me<
-it's time to sanitize my posse
-look how paranoid these niggas got me
-cellular calls are being traced
-since surveillance silently
-momma chill
-thug livin pay the bills
-and die violently
-closed caskets
-expose bastards i leave em bloody
-deloris tucker don't let your kids hear a nigga speak on gettin money
-ain't nothin funny
-cream<<
-got a nigga seein things
-why, hit the lye hope to god i can fly
-lethal weapon i'ma savage
-still a method to my madness
-blast niggaz laugh call em care cabbage
-read em and weep, put em to sleep they hell bound
-lyrics will leave em spell bound
-clown now tired of being held down
-cross my heart hope to die
-blinded in some pussy
-millionaire
-living care free
-sucka free
-playa haters miss me
-hope in hard times never catch me slippin
-fuck authorities they wonder why minorities be trippin
-we ain't having it
-time to tear this shit back, ghetto children kick back
-once i hit the mat
-niggaz will never get this shit back
-spit it so eloquently
-my pistols represent me
-bust until my rounds empty
-back for the street fame
-(one love to my true thugs)
-comin to a ghetto near you
-street fame
-(bust)
-comin to a ghetto near you
-street fame
-all out warfare, eye for a eye
-bustin on my enemies bad boy killing
-(street fame)
-straight dissing you
-fuck lil' kim you nasty bitch
-temperatures rises
-niggaz blinded by my lyrical disguise
-no time to plot retreats
-niggaz shiver and die
-multiple rounds found laced
-in his body and face
-wrapped in plastic the acid, erased all traces
-criminal tactics the rap game
-became so drastic
-military mind mashed all the walls they blasted
-if we bleed then they suffocate
-chokin in terror
-so we strive singularize we reflect in the mirrors
-the prophecy is clear
-niggaz lock n load disappear
-strategize with no fear
-waging war for years
-the crack game wasn't big enough
-ready to rush
-you bitch made motherfuckers get murdered and touched
-i go to jail niggaz screamin
-free me
-speakin freely
-conversatin with my comrades
-kicking swahili
-indeed nature feel my first seed
-it gets worse
-plans are cursed to be a g
-on the first to breathe
-currency in stacks
-artillery in the back
-strapped
-armies, we camouflaged in all black
-when we attack
-holla out my set
-nigga tighten your jaw
-givin birth to outlawz
-(ha ha)
-street fame
-(bust nigga bust)
-comin to a ghetto near you
-(hell yeah)
-street fame it's true
-(only makaveli the don can put it down like this, hey nas ...) (note: "time to die" was removed)
-comin to a ghetto near you
-with street fame
-positive identification
-got me rushed to the station
-stuck in this line up
-tryin hard to hide my face
-they placed the name but can't recall description
-i ain't did shit officer
-that bitch trippin
-promise retaliation
-they plan busted
-no man to be trusted
-everything corrupted once man touched it
-kamikaze
-hoping that none of the spies find me
-that's why we bye bye daily
-knowin cops trail me
-but why cry
-floatin while we tokin on this potent branch
-flossing in the thug stance, flipping pockets out inside my pants
-never underestimate me
-playa hate me
-see me and hide
-sure as hollow points shatter, enemies die
-spread love dead thugs
-gettin buried in riches
-take a chance to advance fuck them worrin bitches
-penitentiary's a possibility, bust and pray
-wear a rubber so i live to fuck another day
-hey...
-ain't nothin strange
-i'm 25 dying to change
-but still i bang wanting street fame
-(that's the end of that)
-thugged out, makaveli the don
-representin the outlawz
-(street fame)
-one love to my true niggaz
-(comin to a ghetto near you)
-(street fame)
-makaveli the don
-killuminati
-(comin to a ghetto near you)
-(street fame)
-yo check this out
-i'ma tell you like this
-(street fame)
-if the lifestyle that you living
-got you taking more fucking shorts
-than getting props
-then that lifestyle need to stop
-best to recognize some outlaw shit
-cause only in this outlaw lifestyle can you truly come to
-to see what this life's supposed to be like
-nigga you'll start to see riches, fine bitches and hitting switches
-shit
-to me that shit sound delicious
-street fame
+(dp1
+Vrepresent
+p2
+I1
+sVswitches
+p3
+I1
+sVsleep
+p4
+I1
+sVgo
+p5
+I1
+sVhate
+p6
+I1
+sVchildren
+p7
+I1
+sVterror
+p8
+I1
+sVsound
+p9
+I1
+sVworse
+p10
+I1
+sVcellular
+p11
+I1
+sVblast
+p12
+I1
+sVtrippin
+p13
+I2
+sVtear
+p14
+I1
+sVdie
+p15
+I5
+sVgettin
+p16
+I2
+sVleave
+p17
+I2
+sVdeloris
+p18
+I1
+sVtired
+p19
+I1
+sVphones
+p20
+I1
+sVslippin
+p21
+I1
+sVstreet
+p22
+I16
+sVacid
+p23
+I1
+sVhide
+p24
+I2
+sVplaya
+p25
+I2
+sVpenitentiarys
+p26
+I1
+sVmethod
+p27
+I1
+sVbody
+p28
+I1
+sVstance
+p29
+I1
+sVnever
+p30
+I3
+sVlet
+p31
+I1
+sVpossibility
+p32
+I1
+sVchange
+p33
+I1
+sVboy
+p34
+I1
+sVkids
+p35
+I1
+sVscreamin
+p36
+I1
+sVmilitary
+p37
+I1
+sVthats
+p38
+I2
+sVlove
+p39
+I3
+sVworrin
+p40
+I1
+sVbloody
+p41
+I1
+sVplot
+p42
+I1
+sVeye
+p43
+I2
+sVpositive
+p44
+I1
+sVlive
+p45
+I1
+sVcall
+p46
+I1
+sVtryin
+p47
+I1
+sVtell
+p48
+I1
+sVtouched
+p49
+I2
+sVbreathe
+p50
+I1
+sVexpose
+p51
+I1
+sVhaha
+p52
+I1
+sVtrail
+p53
+I1
+sVprophecy
+p54
+I1
+sV2pac
+p55
+I1
+sVfly
+p56
+I1
+sVnone
+p57
+I1
+sVniggas
+p58
+I1
+sVrecall
+p59
+I1
+sVniggaz
+p60
+I7
+sVtemperatures
+p61
+I1
+sVconversatin
+p62
+I1
+sVsucka
+p63
+I1
+sVheart
+p64
+I1
+sVcorrupted
+p65
+I1
+sVmirrors
+p66
+I1
+sVlock
+p67
+I1
+sVartillery
+p68
+I1
+sVfuck
+p69
+I4
+sVcurrency
+p70
+I1
+sVstation
+p71
+I1
+sVend
+p72
+I1
+sVdisappear
+p73
+I1
+sVarmies
+p74
+I1
+sVdescription
+p75
+I1
+sVreflect
+p76
+I1
+sVmad
+p77
+I1
+sVcoming
+p78
+I2
+sVdrastic
+p79
+I1
+sVcabbage
+p80
+I1
+sVman
+p81
+I2
+sVjail
+p82
+I1
+sVpay
+p83
+I1
+sVindeed
+p84
+I1
+sVyears
+p85
+I1
+sVheld
+p86
+I1
+sVhell
+p87
+I2
+sVstill
+p88
+I2
+sVima
+p89
+I2
+sV25
+p90
+I1
+sVlaced
+p91
+I1
+sVpray
+p92
+I1
+sVsuffocate
+p93
+I1
+sVbye
+p94
+I2
+sVyo
+p95
+I1
+sVspell
+p96
+I1
+sVshatter
+p97
+I1
+sVtucker
+p98
+I1
+sVwalls
+p99
+I1
+sVnothin
+p100
+I2
+sVday
+p101
+I1
+sVstrive
+p102
+I1
+sVname
+p103
+I1
+sVtraced
+p104
+I1
+sVfound
+p105
+I1
+sVbills
+p106
+I1
+sVtraces
+p107
+I1
+sVem
+p108
+I5
+sVdelicious
+p109
+I1
+sVhard
+p110
+I2
+sVyeah
+p111
+I1
+sVblinded
+p112
+I2
+sVplans
+p113
+I1
+sVliving
+p114
+I2
+sVgod
+p115
+I1
+sVsince
+p116
+I1
+sVgot
+p117
+I4
+sVcause
+p118
+I1
+sVfree
+p119
+I3
+sVspies
+p120
+I1
+sVput
+p121
+I2
+sVrises
+p122
+I1
+sVbleed
+p123
+I1
+sVcare
+p124
+I2
+sVadvance
+p125
+I1
+sVg
+I1
+sVtimes
+p126
+I1
+sVturn
+p127
+I1
+sVmotherfuckers
+p128
+I1
+sVfirst
+p129
+I2
+sVdont
+p130
+I1
+sVkilluminati
+p131
+I1
+sVfeel
+p132
+I1
+sVflipping
+p133
+I1
+sVone
+p134
+I2
+sVbitch
+p135
+I3
+sVanother
+p136
+I1
+sVcomin
+p137
+I6
+sVmiss
+p138
+I1
+sVstart
+p139
+I1
+sVplastic
+p140
+I1
+sVretreats
+p141
+I1
+sVattack
+p142
+I1
+sVshiver
+p143
+I1
+sVwrapped
+p144
+I1
+sVshorts
+p145
+I1
+sVcops
+p146
+I1
+sVwarfare
+p147
+I1
+sVbusted
+p148
+I1
+sVoutlaw
+p149
+I2
+sVriches
+p150
+I2
+sVsupposed
+p151
+I1
+sVcamouflaged
+p152
+I1
+sVwasnt
+p153
+I2
+sVmind
+p154
+I1
+sVseed
+p155
+I1
+sVcomrades
+p156
+I1
+sVburied
+p157
+I1
+sVrap
+p158
+I1
+sVneed
+p159
+I1
+sVlil
+p160
+I1
+sVnote
+p161
+I1
+sVflossing
+p162
+I1
+sVtake
+p163
+I1
+sVwanting
+p164
+I1
+sVthug
+p165
+I2
+sVsure
+p166
+I1
+sVmultiple
+p167
+I1
+sVmashed
+p168
+I1
+sVplan
+p169
+I1
+sVclear
+p170
+I1
+sVbustin
+p171
+I1
+sVface
+p172
+I2
+sVpoints
+p173
+I1
+sVlyrics
+p174
+I3
+sVlethal
+p175
+I1
+sVfear
+p176
+I1
+sVfine
+p177
+I1
+sVfind
+p178
+I1
+sVaint
+p179
+I4
+sVha
+p180
+I2
+sVparanoid
+p181
+I1
+sVjaw
+p182
+I1
+sVbust
+p183
+I5
+sVmakaveli
+p184
+I3
+sVblack
+p185
+I1
+sVsanitize
+p186
+I1
+sVhope
+p187
+I3
+sVhit
+p188
+I2
+sVget
+p189
+I2
+sVstop
+p190
+I1
+sVtruly
+p191
+I1
+sVthugged
+p192
+I1
+sVnasty
+p193
+I1
+sVghetto
+p194
+I9
+sVcry
+p195
+I1
+sVretaliation
+p196
+I1
+sVbad
+p197
+I1
+sVsilently
+p198
+I1
+sVset
+p199
+I1
+sVpotent
+p200
+I1
+sVsee
+p201
+I3
+sVbest
+p202
+I1
+sVwonder
+p203
+I1
+sVposse
+p204
+I1
+sVenough
+p205
+I1
+sVidentification
+p206
+I1
+sVclosed
+p207
+I1
+sVprops
+p208
+I1
+sVyoull
+p209
+I1
+sVpants
+p210
+I1
+sVnature
+p211
+I1
+sVkilling
+p212
+I1
+sVkicking
+p213
+I1
+sVwear
+p214
+I1
+sVspeakin
+p215
+I1
+sVlyrical
+p216
+I1
+sVblasted
+p217
+I1
+sVfreely
+p218
+I1
+sVtaking
+p219
+I1
+sVmillionaire
+p220
+I1
+sVminorities
+p221
+I1
+sVbecame
+p222
+I1
+sVload
+p223
+I1
+sVmadness
+p224
+I1
+sVhollow
+p225
+I1
+sVlaugh
+p226
+I1
+sVspeak
+p227
+I1
+sVerased
+p228
+I1
+sVlifes
+p229
+I1
+sVseein
+p230
+I1
+sVcome
+p231
+I1
+sVhitting
+p232
+I1
+sVoutlawz
+p233
+I2
+sVempty
+p234
+I1
+sVspit
+p235
+I1
+sVtokin
+p236
+I1
+sVcatch
+p237
+I1
+sVhaters
+p238
+I1
+sVchill
+p239
+I1
+sVfloatin
+p240
+I1
+sVcriminal
+p241
+I1
+sVlook
+p242
+I1
+sVstraight
+p243
+I1
+sVn
+I1
+sVnear
+p244
+I8
+sVhoping
+p245
+I1
+sVviolently
+p246
+I1
+sVcant
+p247
+I1
+sVim
+p248
+I1
+sVready
+p249
+I1
+sVfame
+p250
+I16
+sVtrusted
+p251
+I1
+sVfunny
+p252
+I1
+sVwaging
+p253
+I1
+sVthings
+p254
+I1
+sVcross
+p255
+I1
+sVsurveillance
+p256
+I1
+sVstrange
+p257
+I1
+sVunderestimate
+p258
+I1
+sVgets
+p259
+I1
+sVtighten
+p260
+I1
+sVchokin
+p261
+I1
+sVsingularize
+p262
+I1
+sVkim
+p263
+I1
+sVweep
+p264
+I1
+sVweapon
+p265
+I1
+sVbang
+p266
+I1
+sVdissing
+p267
+I1
+sVrepresentin
+p268
+I1
+sVgivin
+p269
+I1
+sVmoney
+p270
+I1
+sVdisguise
+p271
+I1
+sVswahili
+p272
+I1
+sVspread
+p273
+I1
+sVcrack
+p274
+I1
+sVkick
+p275
+I1
+sVlivin
+p276
+I1
+sVread
+p277
+I1
+sVbig
+p278
+I1
+sVgame
+p279
+I2
+sVbastards
+p280
+I1
+sVbirth
+p281
+I1
+sVlike
+p282
+I3
+sVclown
+p283
+I1
+sVofficer
+p284
+I1
+sVnigga
+p285
+I5
+sVfucking
+p286
+I1
+sVback
+p287
+I5
+sVdead
+p288
+I1
+sVenemies
+p289
+I2
+sVsavage
+p290
+I1
+sVeverything
+p291
+I1
+sVstrapped
+p292
+I1
+sVmurdered
+p293
+I1
+sVcaskets
+p294
+I1
+sVlifestyle
+p295
+I3
+sVknowin
+p296
+I1
+sVgetting
+p297
+I1
+sVpockets
+p298
+I1
+sVeloquently
+p299
+I1
+sVpistols
+p300
+I1
+sVpussy
+p301
+I1
+sVbound
+p302
+I2
+sVcursed
+p303
+I1
+sVmomma
+p304
+I1
+sVpromise
+p305
+I1
+sVrounds
+p306
+I2
+sVrushed
+p307
+I1
+sVhey
+p308
+I2
+sVstuck
+p309
+I1
+sVkamikaze
+p310
+I1
+sVwar
+p311
+I1
+sVhead
+p312
+I1
+sVbitches
+p313
+I2
+sVhear
+p314
+I1
+sVline
+p315
+I1
+sVremoved
+p316
+I1
+sVtrue
+p317
+I3
+sVrush
+p318
+I1
+sVmade
+p319
+I1
+sVtactics
+p320
+I1
+sVmat
+p321
+I1
+sVinside
+p322
+I1
+sVplaced
+p323
+I1
+sVstrategize
+p324
+I1
+sVrecognize
+p325
+I1
+sVlye
+p326
+I1
+sVcheck
+p327
+I1
+sVshit
+p328
+I6
+sVcream
+p329
+I1
+sVholla
+p330
+I1
+sVthugs
+p331
+I2
+sVdying
+p332
+I1
+sVrubber
+p333
+I1
+sVnas
+p334
+I1
+sVbranch
+p335
+I1
+sVchance
+p336
+I1
+sVauthorities
+p337
+I1
+sVcalls
+p338
+I1
+sVtricks
+p339
+I1
+sVdaily
+p340
+I1
+sVtime
+p341
+I4
+sVstacks
+p342
+I1
+s.

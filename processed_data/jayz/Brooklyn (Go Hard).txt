@@ -1,84 +1,607 @@
-"brooklyn (go hard)" lyrics
-jay-z lyrics
-"brooklyn (go hard)"
-(feat. santogold)
-brooklyn!!! brooklyn!!! brooklyn!!! brooklyn!!!
-brooklyn!!! we go hard!!! we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-this is black hoodie rap, there's no fear in my eyes where they lookin at
-better look on map, besides, mi nah like to eye fight
-mi nah think such a ting is worth a man's life (christ!!!)
-but if a man test my stuy, i promise he won't like my reply
-boom bye bye like buju i'm crucial
-i'm a brooklyn boy i may take some gettin use to
-chain snatchin, ain't have it, gotta get it
-same shitted, from brownsville to bainbrididge
-fatherless child, mama put double shifts
-so the number runners was the only one i hanged widith
-before you know it i'm in the game, bang fidith
-fit no orangutans piddeals ciddaps like orange's i'm dangerous
-please!!! tell me what the name of this is
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!! (b-r-o-o-k!!!)
-brooklyn we go hard, we go hard!!!! (l-y-n!! come again!!!)
-brooklyn we go hard, we go hard!!!! (b-r-o-o-k!!!)
-brooklyn we go hard, we go hard!!!! (l-y-n!! come again!!!)
-i father, i brooklyn dodger them
-i jack, i rob, i sin
-awww man, i'm jackie robinson
-except when i run base, i dodge the pen
-lucky me, lucky we, they didn't get me
-now when i bring the nets i'm the black branch ricky
-from brooklyn corners, burnin branches of sticky
-spread love, biggie, brooklyn, hippie
-i pity, the fool with jewels like mr. t
-with long history in my borough, they borrow
-with no intentions of returnin, tomorrow
-the sun don't come out for many, like annie
-half orphan, mama never had an abortion
-papa sort of did, still i managed to live
-i go hard, i owe it all to the crib
-now please tell me, what the fuck's harder than this!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!! (b-r-o-o-k!!!)
-brooklyn we go hard, we go hard!!!! (l-y-n!! come again!!!)
-brooklyn we go hard, we go hard!!!! (b-r-o-o-k!!!)
-brooklyn we go hard, we go hard!!!! (l-y-n!! come again!!!)
-while i'm doin my time due to circumstance
-cross that bridge is the consequence
-once pretend now i paid my dues
-risk takers we break the rules
-get so dark, but i see good
-bed-stuy stay high in my neck of the woods
-now, let it ring out, it's a warnin
-(brook-lyn!!!) let it be sworn in
-gotta make it stick workin like we good color
-rip it to the core, underneath it or we oughta
-right into the clip, bring it to the floor
-one step one step give it up more
-all this stuff and the streets are a mess
-with big ass dreams and a sick death wish
-probably like the commercials says
-kill the voice screamin in my head
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
-brooklyn we go hard, we go hard!!!!
+(dp1
+Vmanaged
+p2
+I1
+sVlyrics
+p3
+I2
+sVplease
+p4
+I2
+sVrob
+p5
+I1
+sVhalf
+p6
+I1
+sVpiddeals
+p7
+I1
+sVbring
+p8
+I2
+sVwoods
+p9
+I1
+sVkill
+p10
+I1
+sVgo
+p11
+I71
+sVfear
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVdont
+p15
+I1
+sVaint
+p16
+I1
+sVdeath
+p17
+I1
+sVchain
+p18
+I1
+sVfit
+p19
+I1
+sVbrook
+p20
+I4
+sVexcept
+p21
+I1
+sVbetter
+p22
+I1
+sVto
+p23
+I1
+sVspread
+p24
+I1
+sVblack
+p25
+I2
+sVdreams
+p26
+I1
+sVbye
+p27
+I2
+sVworth
+p28
+I1
+sVtake
+p29
+I1
+sVdodge
+p30
+I1
+sVthem
+p31
+I1
+sVgood
+p32
+I2
+sVworkin
+p33
+I1
+sVrisk
+p34
+I1
+sVget
+p35
+I3
+sVrules
+p36
+I1
+sVbig
+p37
+I1
+sVlucky
+p38
+I2
+sVoranges
+p39
+I1
+sVbreak
+p40
+I1
+sVbang
+p41
+I1
+sVknow
+p42
+I1
+sVrip
+p43
+I1
+sVgot
+p44
+I2
+sVrunners
+p45
+I1
+sVlike
+p46
+I8
+sVwont
+p47
+I1
+sVname
+p48
+I1
+sVcorners
+p49
+I1
+sVgettin
+p50
+I1
+sVfidith
+p51
+I1
+sVborrow
+p52
+I1
+sVstuff
+p53
+I1
+sVt
+I1
+sVdangerous
+p54
+I1
+sVdodger
+p55
+I1
+sVright
+p56
+I1
+sVsays
+p57
+I1
+sVabortion
+p58
+I1
+sVhard
+p59
+I71
+sVorphan
+p60
+I1
+sVcommercials
+p61
+I1
+sVsee
+p62
+I1
+sVhanged
+p63
+I1
+sVbiggie
+p64
+I1
+sVrun
+p65
+I1
+sVvoice
+p66
+I1
+sVchrist
+p67
+I1
+sVnets
+p68
+I1
+sVstuy
+p69
+I1
+sVcrucial
+p70
+I1
+sVfucks
+p71
+I1
+sVricky
+p72
+I1
+sVmess
+p73
+I1
+sVpen
+p74
+I1
+sVsick
+p75
+I1
+sVunderneath
+p76
+I1
+sVreply
+p77
+I1
+sVass
+p78
+I1
+sVcore
+p79
+I1
+sVorangutans
+p80
+I1
+sVcircumstance
+p81
+I1
+sVbuju
+p82
+I1
+sVnever
+p83
+I1
+sVstep
+p84
+I2
+sVbase
+p85
+I1
+sVlet
+p86
+I2
+sVhoodie
+p87
+I1
+sVput
+p88
+I1
+sVcome
+p89
+I5
+sVpity
+p90
+I1
+sVboy
+p91
+I1
+sVmans
+p92
+I1
+sVmany
+p93
+I1
+sVjackie
+p94
+I1
+sVscreamin
+p95
+I1
+sVlookin
+p96
+I1
+sVconsequence
+p97
+I1
+sVhistory
+p98
+I1
+sVhead
+p99
+I1
+sVthink
+p100
+I1
+sVbrownsville
+p101
+I1
+sVharder
+p102
+I1
+sVlove
+p103
+I1
+sVbesides
+p104
+I1
+sVbridge
+p105
+I1
+sVowe
+p106
+I1
+sVfather
+p107
+I1
+sVnumber
+p108
+I1
+sVcrib
+p109
+I1
+sVone
+p110
+I3
+sVjayz
+p111
+I1
+sVpromise
+p112
+I1
+sVoughta
+p113
+I1
+sVring
+p114
+I1
+sVtomorrow
+p115
+I1
+sVuse
+p116
+I1
+sVeye
+p117
+I1
+sVhippie
+p118
+I1
+sVreturnin
+p119
+I1
+sVdue
+p120
+I1
+sVlong
+p121
+I1
+sVfight
+p122
+I1
+sVting
+p123
+I1
+sVlive
+p124
+I1
+sVmama
+p125
+I2
+sVtell
+p126
+I2
+sVmore
+p127
+I1
+sVsort
+p128
+I1
+sVlife
+p129
+I1
+sVstreets
+p130
+I1
+sVit
+p131
+I1
+sVstick
+p132
+I1
+sVchild
+p133
+I1
+sVprobably
+p134
+I1
+sVsantogold
+p135
+I1
+sVme
+p136
+I1
+sVlook
+p137
+I1
+sVthis
+p138
+I1
+sVdouble
+p139
+I1
+sVpretend
+p140
+I1
+sVmi
+p141
+I2
+sVciddaps
+p142
+I1
+sVmr
+p143
+I1
+sVta
+p144
+I2
+sVdidnt
+p145
+I1
+sVdues
+p146
+I1
+sVtheres
+p147
+I1
+sVfool
+p148
+I1
+sVwidith
+p149
+I1
+sVawww
+p150
+I1
+sVclip
+p151
+I1
+sVgive
+p152
+I1
+sVis
+p153
+I1
+sVwarnin
+p154
+I1
+sVeyes
+p155
+I1
+sVjewels
+p156
+I1
+sVsticky
+p157
+I1
+sVhigh
+p158
+I1
+sVim
+p159
+I7
+sVat
+p160
+I1
+sVrap
+p161
+I1
+sVin
+p162
+I1
+sVbedstuy
+p163
+I1
+sVlyn
+p164
+I4
+sVborough
+p165
+I1
+sVrobinson
+p166
+I1
+sVagain
+p167
+I4
+sVburnin
+p168
+I1
+sVfatherless
+p169
+I1
+sVnah
+p170
+I2
+sVcross
+p171
+I1
+sVsnatchin
+p172
+I1
+sVshifts
+p173
+I1
+sVcolor
+p174
+I1
+sVboom
+p175
+I1
+sVbranch
+p176
+I1
+sVtest
+p177
+I1
+sVsworn
+p178
+I1
+sVsin
+p179
+I1
+sVmap
+p180
+I1
+sVshitted
+p181
+I1
+sVannie
+p182
+I1
+sVbainbrididge
+p183
+I1
+sVmay
+p184
+I1
+sVdoin
+p185
+I1
+sVtime
+p186
+I1
+sVpapa
+p187
+I1
+sVpaid
+p188
+I1
+sVstay
+p189
+I1
+sVintentions
+p190
+I1
+sVbrooklyn
+p191
+I45
+sVtakers
+p192
+I1
+sVman
+p193
+I2
+sVdark
+p194
+I1
+sVbranches
+p195
+I1
+sVneck
+p196
+I1
+sVwish
+p197
+I1
+sVfloor
+p198
+I1
+sVgame
+p199
+I1
+sVsun
+p200
+I1
+sVmake
+p201
+I1
+sVjack
+p202
+I1
+s.

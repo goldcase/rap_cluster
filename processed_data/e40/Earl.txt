@@ -1,78 +1,497 @@
-"earl" lyrics
-e-40 lyrics
-"earl"
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-i'm from vallejo, california, land of the homer
-sides lost lives, politics and drama
-over supersize, thump young in a hornya
-watch out for that boy in the hoodie, mane, he a monster
-light a sucker up, fried buster like chimichanga
-somebody come scoop his ass, call a coroner
-i guess that's the way we bread
-chemical babies mislead
-it's spooky out here in the yay
-these goblins will get on your head
-these thundacat's management ain't scared to be deceased
-they always cover up they ears
-when i'm yelling and hollering out peace
-they going through it, they cranky
-stressed out and tense
-they starving, they hungry
-they eating soup with chopsticks
-plus it's a shortage on purple
-and it's a drought on them bricks
-so he'll go decide to do a kick door
-and pull a few licks
-some of them parents on drugs
-some of them never been loved
-some of them want to be thugs
-some of them just need a hug
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-i'mma be around for a minute
-so get used to it, i was through with it
-before most of you marshmallows knew want to do with it
-pushing them zones, serving that drome
-balling like i play hoop with it
-never at home, always be gone
-doing a show on the verse split
-let it be known, i tote my chrome
-refuse to get caught loose with it
-looking down at my shoe with it, i'mma real baboon with it
-40 over there slipping, he snoozing, he ain't wake
-he looking like a plate, he chipped up and draped
-you fuck niggas got me fucked up, nigga, i'm a shooter
-think about the consequences, nigga, i got gouda
-and niggas with gouda will send a nigga, fuck a case
-'cause niggas with gouda will have your whole family erased
-but that ain't something i endorse
-i only wore it by force
-i'm trying to teach the youth to be loyal and play sports
-instead of in and out of court
-and back and forth to prison, utilize they skills
-and stay up out the system
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-ex d-boy used to sell that girl
-now they know my name all across the world
-they say earl, earl, they say earl, earl
-i'm from vallejo, california
-the land of the homer
-sides lost lives, politics and drama
-sides lost lives, politics and drama
-sides lost lives, politics and drama
-i'm from vallejo, california
-the land of the homer
-sides lost lives, politics and drama
-sides lost lives, politics and drama
-sides lost lives, politics and drama
+(dp1
+Vserving
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVshoe
+p5
+I1
+sVgo
+p6
+I1
+sVhell
+p7
+I1
+sVaint
+p8
+I3
+sVlicks
+p9
+I1
+sVimma
+p10
+I2
+sVyoung
+p11
+I1
+sVsend
+p12
+I1
+sVhornya
+p13
+I1
+sVverse
+p14
+I1
+sVgoing
+p15
+I1
+sVparents
+p16
+I1
+sVthump
+p17
+I1
+sVkick
+p18
+I1
+sVloved
+p19
+I1
+sVreal
+p20
+I1
+sVplate
+p21
+I1
+sVstarving
+p22
+I1
+sVsomebody
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I3
+sVwake
+p26
+I1
+sVsucker
+p27
+I1
+sVendorse
+p28
+I1
+sVwatch
+p29
+I1
+sVe40
+p30
+I1
+sVknow
+p31
+I6
+sVdecide
+p32
+I1
+sVworld
+p33
+I6
+sVminute
+p34
+I1
+sVbread
+p35
+I1
+sVearl
+p36
+I26
+sVlike
+p37
+I3
+sVlost
+p38
+I7
+sVskills
+p39
+I1
+sValways
+p40
+I2
+sVniggas
+p41
+I3
+sVslipping
+p42
+I1
+sVshortage
+p43
+I1
+sVears
+p44
+I1
+sVnigga
+p45
+I3
+sVforce
+p46
+I1
+sVscared
+p47
+I1
+sVback
+p48
+I1
+sVzones
+p49
+I1
+sVmarshmallows
+p50
+I1
+sVex
+p51
+I6
+sVhome
+p52
+I1
+sVgirl
+p53
+I6
+sVgouda
+p54
+I3
+sVtote
+p55
+I1
+sVchimichanga
+p56
+I1
+sVpurple
+p57
+I1
+sVlooking
+p58
+I2
+sVcoroner
+p59
+I1
+sVhollering
+p60
+I1
+sVgot
+p61
+I2
+sVbaboon
+p62
+I1
+sVcause
+p63
+I1
+sVacross
+p64
+I6
+sVass
+p65
+I1
+sVpushing
+p66
+I1
+sVeating
+p67
+I1
+sVmonster
+p68
+I1
+sVsupersize
+p69
+I1
+sVnever
+p70
+I2
+sVmanagement
+p71
+I1
+sVcalifornia
+p72
+I3
+sVhoodie
+p73
+I1
+sVteach
+p74
+I1
+sVcome
+p75
+I1
+sVboy
+p76
+I1
+sVchipped
+p77
+I1
+sVyelling
+p78
+I1
+sVdrama
+p79
+I7
+sVplus
+p80
+I1
+sVmane
+p81
+I1
+sVstressed
+p82
+I1
+sVlet
+p83
+I1
+sVwhole
+p84
+I1
+sVthink
+p85
+I1
+sVthats
+p86
+I1
+sVfamily
+p87
+I1
+sVbricks
+p88
+I1
+sVspooky
+p89
+I1
+sVhoop
+p90
+I1
+sVsports
+p91
+I1
+sVerased
+p92
+I1
+sVguess
+p93
+I1
+sVgoblins
+p94
+I1
+sVyay
+p95
+I1
+sVchrome
+p96
+I1
+sVcaught
+p97
+I1
+sVsystem
+p98
+I1
+sVname
+p99
+I6
+sVdboy
+p100
+I6
+sVcall
+p101
+I1
+sVway
+p102
+I1
+sVhead
+p103
+I1
+sVhug
+p104
+I1
+sVdoor
+p105
+I1
+sVdrugs
+p106
+I1
+sVprison
+p107
+I1
+sVfuck
+p108
+I2
+sVdraped
+p109
+I1
+sVtense
+p110
+I1
+sVloose
+p111
+I1
+sVdrome
+p112
+I1
+sVknown
+p113
+I1
+sVtrying
+p114
+I1
+sVbuster
+p115
+I1
+sVhomer
+p116
+I3
+sVpull
+p117
+I1
+sVvallejo
+p118
+I3
+sVwore
+p119
+I1
+sV40
+p120
+I1
+sVthundacats
+p121
+I1
+sVyouth
+p122
+I1
+sVsoup
+p123
+I1
+sVfried
+p124
+I1
+sVdeceased
+p125
+I1
+sVgone
+p126
+I1
+sVshooter
+p127
+I1
+sVit
+p128
+I5
+sVcase
+p129
+I1
+sVsay
+p130
+I12
+sVim
+p131
+I6
+sVsomething
+p132
+I1
+sVwant
+p133
+I2
+sVneed
+p134
+I1
+sVpolitics
+p135
+I7
+sVsell
+p136
+I6
+sVthugs
+p137
+I1
+sVcourt
+p138
+I1
+sVpeace
+p139
+I1
+sVutilize
+p140
+I1
+sVballing
+p141
+I1
+sVchemical
+p142
+I1
+sVsplit
+p143
+I1
+sVbabies
+p144
+I1
+sVinstead
+p145
+I1
+sVplay
+p146
+I2
+sVused
+p147
+I7
+sVcranky
+p148
+I1
+sVforth
+p149
+I1
+sVknew
+p150
+I1
+sVstay
+p151
+I1
+sVfucked
+p152
+I1
+sVdrought
+p153
+I1
+sVsides
+p154
+I7
+sVrefuse
+p155
+I1
+sVland
+p156
+I3
+sVconsequences
+p157
+I1
+sVlight
+p158
+I1
+sVsnoozing
+p159
+I1
+sVcover
+p160
+I1
+sVhungry
+p161
+I1
+sVmislead
+p162
+I1
+sVscoop
+p163
+I1
+sVloyal
+p164
+I1
+sVchopsticks
+p165
+I1
+sVlives
+p166
+I7
+s.

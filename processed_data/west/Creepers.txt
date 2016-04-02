@@ -1,48 +1,272 @@
-creepers lyrics
-kanye west lyrics
-creepers
-performed kid cudi
-yeah see waitin there
-see jockin there
-see lookin girl here
-worried bout girl here
-keep eyes creepy stare
-turn head hey
-see waitin there
-see jockin there
-thinkin bout life
-talkin bout young dig
-im doin thang know mean get right
-think know think know
-deal real
-im doin thang know mean get right
-think know think know
-deal real
-im doin thang know mean yo
-dont love im workin fix
-dont need bitch trying take mind grip
-one wish itd wishes duh
-fuck tryna make rhyme throw stones bitch ass
-cutting deep even though bleed stand alone
-alone ill heart lion still shining sucka ass
-work work work inner peace
-fightin freedom soul hear speech
-yeah mumble im trippin many pills
-hah figured know nigga
-yeah see waitin there
-see jockin there
-see lookin girl here
-worried bout girl here
-keep eyes creepy stare
-turn head hey
-see waitin there
-see jockin there
-thinkin bout life
-talkin bout young dig
-im doin thang know mean get right
-think know think know
-deal real
-im doin thang know mean get right
-think know think know
-deal real
-im doin thang know mean yo
+(dp1
+Vjockin
+p2
+I4
+sVstones
+p3
+I1
+sVlyrics
+p4
+I2
+sVitd
+p5
+I1
+sVkanye
+p6
+I1
+sVstill
+p7
+I1
+sVhah
+p8
+I1
+sVthang
+p9
+I6
+sVfix
+p10
+I1
+sVyoung
+p11
+I2
+sVbout
+p12
+I6
+sVreal
+p13
+I4
+sVworkin
+p14
+I1
+sVyo
+p15
+I2
+sVget
+p16
+I4
+sVrhyme
+p17
+I1
+sVwishes
+p18
+I1
+sVknow
+p19
+I15
+sVtrippin
+p20
+I1
+sVdig
+p21
+I2
+sVworried
+p22
+I2
+sVmean
+p23
+I6
+sVright
+p24
+I4
+sVdeal
+p25
+I4
+sVyeah
+p26
+I3
+sVsee
+p27
+I10
+sVgirl
+p28
+I4
+sVpills
+p29
+I1
+sVshining
+p30
+I1
+sVeven
+p31
+I1
+sVass
+p32
+I2
+sVduh
+p33
+I1
+sVhere
+p34
+I4
+sValone
+p35
+I2
+sVbleed
+p36
+I1
+sVfigured
+p37
+I1
+sVfreedom
+p38
+I1
+sVill
+p39
+I1
+sVfightin
+p40
+I1
+sVcreepy
+p41
+I2
+sVkeep
+p42
+I2
+sVturn
+p43
+I2
+sVstand
+p44
+I1
+sVlookin
+p45
+I2
+sVhead
+p46
+I2
+sVthink
+p47
+I8
+sVlove
+p48
+I1
+sVdont
+p49
+I2
+sVone
+p50
+I1
+sVnigga
+p51
+I1
+sVbitch
+p52
+I2
+sVmumble
+p53
+I1
+sVstare
+p54
+I2
+sVwest
+p55
+I1
+sVthere
+p56
+I8
+sVhey
+p57
+I2
+sVthrow
+p58
+I1
+sVinner
+p59
+I1
+sVtryna
+p60
+I1
+sVeyes
+p61
+I2
+sVhear
+p62
+I1
+sVtrying
+p63
+I1
+sVwish
+p64
+I1
+sVwork
+p65
+I3
+sVsoul
+p66
+I1
+sVmany
+p67
+I1
+sVsucka
+p68
+I1
+sVheart
+p69
+I1
+sVmind
+p70
+I1
+sVfuck
+p71
+I1
+sVdeep
+p72
+I1
+sVim
+p73
+I8
+sVperformed
+p74
+I1
+sVneed
+p75
+I1
+sVcreepers
+p76
+I2
+sVmake
+p77
+I1
+sVpeace
+p78
+I1
+sVspeech
+p79
+I1
+sVtake
+p80
+I1
+sVtalkin
+p81
+I2
+sVwaitin
+p82
+I4
+sVlion
+p83
+I1
+sVthough
+p84
+I1
+sVdoin
+p85
+I6
+sVkid
+p86
+I1
+sVlife
+p87
+I2
+sVcudi
+p88
+I1
+sVcutting
+p89
+I1
+sVgrip
+p90
+I1
+sVthinkin
+p91
+I2
+s.

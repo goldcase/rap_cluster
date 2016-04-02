@@ -1,79 +1,511 @@
-"cappucino" lyrics
-mc lyte lyrics
-"cappucino"
-it was a café
-it was a café on the westside
-it was a café on
-it was a café on the westside, midtown
-it was a café on the westside, midtown
-said they had the best cap of cappucino around
-so i stepped in, and i ordered a cup
-someone grabbed me by my throat and said, "shut the fuck up!"
-and i did, pronto, quick fast
-how much longer would the torture last?
-in the wrong place, at the wrong time
-it was a drug sale, i could feel from behind
-death, it was gettin closer, right behind my back
-ready to attack
-i got shot in a shoot-out, and then i died
-i could feel it, i was on the other side
-in between lives, i'm so confused
-what do i do, oh, what do i do?
-but was it really time for me to go?
-why, oh why did i need cappucino?
-why, oh why?
-why, oh why did i need cappucino?
-why, oh why?
-why, oh why did i need cappucino?
-why, oh why did i need cappucino?
-but then i calmed down, i spotted some friends
-that i knew in a past life, way back when
-a couple had died in a drug world
-and this one guy died fightin over his girl
-another died drivin while intoxicated
-why do people make livin so complicated?
-but then i saw a girl, her name was mary
-introduced to drugs by her boyfriend harry
-he sold crack to the kids on the uptown corners
-a social worker named hannah smith tried to warn her
-but she wouldn't listen, no one listens
-i saw the light, i awakened, it was a dream
-man oh man, you shoulda heard me scream
-so glad to be given - my life back
-so good to be livin - or is dead better?
-i didn't have to run from the bullets or drugs
-and i didn't have to run from the murderers or thugs
-i didn't have to worry about fallin from a plane
-but at this café was death still callin my name?
-or did this café even exist?
-and was my name just another on the death list?
-i knew it couldn't happen, even though
-on the bottom of my shirt was a spot of cappucino...
-cappucino
-cappucino
-bust it, to some of you that really don't know
-i break it down to you, the word 'cappucino'
-it's somewhat like coffee, then again not quite
-it's creamy and smooth, and it goes down light
-they charge you 3 dollars, you ask is it worth it?
-but when you start drinkin... shit, it'd be workin
-i'm hooked, well, i was, cause, yo, it's the best
-but if everytime i drink i voyage through death
-i leave it alone and just stick to tea
-cappucino was fly, but too fly for me
-why, oh why did i need cappucino?
-cappucino
-why, oh why did i need cappucino?
-cappucino
-why, oh why?
-why, oh why?
-why, oh why did i need cappucino?
-cappucino
-cappucino
-cappucino
-cappucino
-it was a café on the westside
-it was a café on the west...
-it was a café on the westside
-it was a café on the west...
-cappucino
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVitd
+p4
+I1
+sVgo
+p5
+I1
+sVstill
+p6
+I1
+sVdrinkin
+p7
+I1
+sVdeath
+p8
+I4
+sVgrabbed
+p9
+I1
+sVcup
+p10
+I1
+sVpronto
+p11
+I1
+sVsmith
+p12
+I1
+sV3
+I1
+sVbust
+p13
+I1
+sVbetter
+p14
+I1
+sVcharge
+p15
+I1
+sVcrack
+p16
+I1
+sVworth
+p17
+I1
+sVdo
+p18
+I1
+sVcoffee
+p19
+I1
+sVsomeone
+p20
+I1
+sVworkin
+p21
+I1
+sVaround
+p22
+I1
+sVtorture
+p23
+I1
+sVhannah
+p24
+I1
+sVcouple
+p25
+I1
+sVbreak
+p26
+I1
+sVme
+p27
+I1
+sVknow
+p28
+I1
+sVworld
+p29
+I1
+sVlike
+p30
+I1
+sVname
+p31
+I3
+sVeverytime
+p32
+I1
+sVcorners
+p33
+I1
+sVgettin
+p34
+I1
+sVlist
+p35
+I1
+sVleave
+p36
+I1
+sVharry
+p37
+I1
+sVquick
+p38
+I1
+sVguy
+p39
+I1
+sVside
+p40
+I1
+sVspotted
+p41
+I1
+sVright
+p42
+I1
+sVpeople
+p43
+I1
+sVtea
+p44
+I1
+sVback
+p45
+I3
+sVdead
+p46
+I1
+sVpast
+p47
+I1
+sVrun
+p48
+I2
+sVgirl
+p49
+I2
+sVbest
+p50
+I2
+sVreally
+p51
+I2
+sVcloser
+p52
+I1
+sVvoyage
+p53
+I1
+sVsaid
+p54
+I2
+sVbottom
+p55
+I1
+sVtried
+p56
+I1
+sVhooked
+p57
+I1
+sVbehind
+p58
+I2
+sVgoes
+p59
+I1
+sVit
+p60
+I1
+sVgot
+p61
+I1
+sVcause
+p62
+I1
+sVcalmed
+p63
+I1
+sVshut
+p64
+I1
+sVdrink
+p65
+I1
+sVdrivin
+p66
+I1
+sVsold
+p67
+I1
+sVquite
+p68
+I1
+sVcomplicated
+p69
+I1
+sVask
+p70
+I1
+sVwestside
+p71
+I5
+sVshoulda
+p72
+I1
+sVon
+p73
+I1
+sVkids
+p74
+I1
+sVlast
+p75
+I1
+sVher
+p76
+I1
+sVwouldnt
+p77
+I1
+sVoh
+p78
+I13
+sVcould
+p79
+I2
+sVfightin
+p80
+I1
+sVdrug
+p81
+I2
+sVintoxicated
+p82
+I1
+sVplace
+p83
+I1
+sVsocial
+p84
+I1
+sVintroduced
+p85
+I1
+sVnamed
+p86
+I1
+sVdont
+p87
+I1
+sVfeel
+p88
+I2
+sVone
+p89
+I2
+sValone
+p90
+I1
+sVanother
+p91
+I2
+sVcaf�
+p92
+I11
+sVfallin
+p93
+I1
+sVuptown
+p94
+I1
+sVcouldnt
+p95
+I1
+sVmurderers
+p96
+I1
+sVgiven
+p97
+I1
+sVwould
+p98
+I1
+sVstart
+p99
+I1
+sVlyte
+p100
+I1
+sVwest
+p101
+I2
+sVfast
+p102
+I1
+sVcreamy
+p103
+I1
+sVattack
+p104
+I1
+sVmuch
+p105
+I1
+sVway
+p106
+I1
+sVmary
+p107
+I1
+sVlisten
+p108
+I1
+sVlife
+p109
+I2
+sVdrugs
+p110
+I2
+sVyo
+p111
+I1
+sVworker
+p112
+I1
+sVconfused
+p113
+I1
+sVwarn
+p114
+I1
+sVlives
+p115
+I1
+sVstick
+p116
+I1
+sVsomewhat
+p117
+I1
+sVglad
+p118
+I1
+sVboyfriend
+p119
+I1
+sVfly
+p120
+I2
+sVword
+p121
+I1
+sVmc
+p122
+I1
+sVheard
+p123
+I1
+sVcap
+p124
+I1
+sVsmooth
+p125
+I1
+sVup
+p126
+I1
+sVmidtown
+p127
+I2
+sVexist
+p128
+I1
+sVawakened
+p129
+I1
+sVdidnt
+p130
+I3
+sVdollars
+p131
+I1
+sVordered
+p132
+I1
+sVfuck
+p133
+I1
+sVthroat
+p134
+I1
+sVgood
+p135
+I1
+sVim
+p136
+I2
+sVready
+p137
+I1
+sVsaw
+p138
+I2
+sVhappen
+p139
+I1
+sVworry
+p140
+I1
+sVlivin
+p141
+I2
+sVthugs
+p142
+I1
+sVshirt
+p143
+I1
+sVmake
+p144
+I1
+sVwhen
+p145
+I1
+sVneed
+p146
+I7
+sVshit
+p147
+I1
+sVstepped
+p148
+I1
+sVlistens
+p149
+I1
+sVeven
+p150
+I2
+sVcappucino
+p151
+I22
+sVthough
+p152
+I1
+sVknew
+p153
+I2
+sVspot
+p154
+I1
+sVwrong
+p155
+I2
+sVplane
+p156
+I1
+sVbullets
+p157
+I1
+sVfriends
+p158
+I1
+sVwhy
+p159
+I4
+sVdied
+p160
+I4
+sVman
+p161
+I2
+sVcallin
+p162
+I1
+sVshootout
+p163
+I1
+sVlonger
+p164
+I1
+sVlight
+p165
+I2
+sVwell
+p166
+I1
+sVsale
+p167
+I1
+sVtime
+p168
+I2
+sVdream
+p169
+I1
+sVscream
+p170
+I1
+s.

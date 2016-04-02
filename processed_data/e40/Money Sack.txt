@@ -1,61 +1,446 @@
-"money sack" lyrics
-e-40 lyrics
-"money sack"
-(feat. lil boosie)
-aaaw shit
-aye, yo, farty, i'm home, nigga
-welcome home, family
-felt deep in the cut, dawg, groovie
-four real niggas, four roogas
-money on my mind as we bung straight boosin'
-straight boosin' that new bay music
-party on my lap as i cruise with my bad chick
-bad chick, bad chick, badder than my last chick
-all my dudes, we spark a lot
-but we tottin' big pistols in the parkin' lot
-we on that dum' dum' dum' dum' dum' dum' shit
-my side ride or die on that where ya from shit?
-east oakland, where ye at, thug?
-whip it whip it whip it bring it back plug
-real nigga, ye ain't even gotta ask us
-lost sum' real niggas so i'm tattered up
-shy town pass so i'm 'get it up'!
-niggas on the benz slidin' one lead eye
-woke up this mo'ning like fuck that (fuck it fuck fuck it fuck that shit)
-man, it's time to get my money sack (i said man, it's time to get my money sack)
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
-woke up this mo'ning like fuck that
-opened up a loud pack and rolled a baseball bat
-this that power, that skunk, took a shower and grabbed my corpesmith
-a western 4-5th, leave a bitch nigga stiff
-from the beginning, my nigga, fo' i was straight to go
-i was plottin' on dope when i was hittin' briah
-tried to make an honest dolla, didn't work fo' me
-so i did what i had to do for my family
-we on that dum' dum' dum' dum' dum' dum' shit
-hit a bitch nigga with a drum stick
-draggin' my knuckles on the crown like an ape
-tougher than the three dolla state
-psychedelic colors in my presidential
-i'm a real one, i ain't got no bitch potential
-raised in a drug infested environment
-free all of my real ones and solitary confinements
-woke up this mo'ning like fuck that (fuck it fuck fuck it fuck that shit)
-man, it's time to get my money sack (i said man, it's time to get my money sack)
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
-my money sack, my money sack
-gettin' that money sack
-hey! out here gettin' it
-baby, show 100 stacks
-nigga, fuck that nigga, bitch!
-aye aye aye aye aye aye aye
-bitch!
-woke up this mo'ning like fuck that (fuck it fuck fuck it fuck that shit)
-man, it's time to get my money sack (i said man, it's time to get my money sack)
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
-hustle hustle hustle hustle hustle
+(dp1
+Vcorpesmith
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I12
+sVfelt
+p6
+I1
+sVfour
+p7
+I2
+sVbring
+p8
+I1
+sVcolors
+p9
+I1
+sVcruise
+p10
+I1
+sVgo
+p11
+I1
+sVinfested
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I2
+sVsolitary
+p15
+I1
+sVcut
+p16
+I1
+sVgrabbed
+p17
+I1
+sVdolla
+p18
+I2
+sVenvironment
+p19
+I1
+sVeast
+p20
+I1
+sVta
+p21
+I1
+sVreal
+p22
+I5
+sVme
+p23
+I1
+sVhit
+p24
+I1
+sVyo
+p25
+I1
+sVget
+p26
+I7
+sVya
+p27
+I1
+sVbig
+p28
+I1
+sVdope
+p29
+I1
+sVye
+p30
+I2
+sVones
+p31
+I1
+sVdudes
+p32
+I1
+sVgot
+p33
+I2
+sVslidin
+p34
+I1
+sVpresidential
+p35
+I1
+sVbat
+p36
+I1
+sVlike
+p37
+I5
+sVlost
+p38
+I1
+sVstiff
+p39
+I1
+sVdie
+p40
+I1
+sVgettin
+p41
+I2
+sVbay
+p42
+I1
+sVleave
+p43
+I1
+sVbad
+p44
+I3
+sVhittin
+p45
+I1
+sVshy
+p46
+I1
+sVtottin
+p47
+I1
+sVchick
+p48
+I4
+sVstraight
+p49
+I3
+sVnigga
+p50
+I7
+sVboosin
+p51
+I2
+sVplottin
+p52
+I1
+sVcrown
+p53
+I1
+sVback
+p54
+I1
+sVboosie
+p55
+I1
+sVdawg
+p56
+I1
+sVpass
+p57
+I1
+sVhome
+p58
+I2
+sVwhip
+p59
+I3
+sVeven
+p60
+I1
+sVsaid
+p61
+I3
+sVopened
+p62
+I1
+sVlead
+p63
+I1
+sVsum
+p64
+I1
+sVstate
+p65
+I1
+sVnew
+p66
+I1
+sVhustle
+p67
+I45
+sVfarty
+p68
+I1
+sVpower
+p69
+I1
+sVrolled
+p70
+I1
+sVconfinements
+p71
+I1
+sVfree
+p72
+I1
+sVbaseball
+p73
+I1
+sVask
+p74
+I1
+sVspark
+p75
+I1
+sVbeginning
+p76
+I1
+sVplug
+p77
+I1
+sVlast
+p78
+I1
+sVdrug
+p79
+I1
+sVside
+p80
+I1
+sVstick
+p81
+I1
+sVdraggin
+p82
+I1
+sVloud
+p83
+I1
+sVraised
+p84
+I1
+sVpistols
+p85
+I1
+sVfamily
+p86
+I2
+sVsack
+p87
+I11
+sVone
+p88
+I2
+sVbitch
+p89
+I5
+sVoakland
+p90
+I1
+sVhey
+p91
+I1
+sVape
+p92
+I1
+sVknuckles
+p93
+I1
+sVeye
+p94
+I1
+sVdum
+p95
+I12
+sVaye
+p96
+I8
+sVtougher
+p97
+I1
+sVthree
+p98
+I1
+sVmusic
+p99
+I1
+sVlot
+p100
+I2
+sVbadder
+p101
+I1
+sVparkin
+p102
+I1
+sVwoke
+p103
+I4
+sVthat
+p104
+I1
+sV100
+p105
+I1
+sVtook
+p106
+I1
+sVit
+p107
+I1
+sVwestern
+p108
+I1
+sVtattered
+p109
+I1
+sVbaby
+p110
+I1
+sVdrum
+p111
+I1
+sVtown
+p112
+I1
+sVe40
+p113
+I1
+sVniggas
+p114
+I3
+sVride
+p115
+I1
+sVwork
+p116
+I1
+sVup
+p117
+I2
+sVus
+p118
+I1
+sVshower
+p119
+I1
+sVdidnt
+p120
+I1
+sVpack
+p121
+I1
+sVgroovie
+p122
+I1
+sVaaaw
+p123
+I1
+sVbenz
+p124
+I1
+sVmind
+p125
+I1
+sVfuck
+p126
+I17
+sVdeep
+p127
+I1
+sVim
+p128
+I4
+sVthug
+p129
+I1
+sVhonest
+p130
+I1
+sVshit
+p131
+I7
+sVbung
+p132
+I1
+sVlil
+p133
+I1
+sVmake
+p134
+I1
+sVpotential
+p135
+I1
+sVfo
+p136
+I2
+sVbriah
+p137
+I1
+sVparty
+p138
+I1
+sV45th
+p139
+I1
+sVtried
+p140
+I1
+sVwelcome
+p141
+I1
+sVlap
+p142
+I1
+sVpsychedelic
+p143
+I1
+sVman
+p144
+I6
+sVmoning
+p145
+I4
+sVtime
+p146
+I6
+sVskunk
+p147
+I1
+sVstacks
+p148
+I1
+sVroogas
+p149
+I1
+s.

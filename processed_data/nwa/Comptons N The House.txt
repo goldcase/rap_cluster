@@ -1,123 +1,878 @@
-"compton's n the house" lyrics
-n.w.a. lyrics
-"compton's n the house"
-ah yeah, right about now compton's in de mothafuckin' house (yeah do it do it)
-nwa's in full effect
-hey yo yella boy, kick me that funky-ass beat
-yeah, who's in de mothafuckin' house?
-compton's in the mothafuckin' house!
-yeah, compton's definetly in the house
-hey yo ren, what we're gonna do?
-to the people over here
-to the people out there
-to the people, the people, the people, people, the people, people
-from everywhere watching the show
-paying top dolars because they know
-when we're on the stage, we're in a mothafuckin' range
-so dre, why don't you get the 12 guage (yeah)
-and show 'em how eazy-duz-it
-so if you punks wanna make somethin' of it
-step up, run up, get up, what's up sucker
-you want some of this?
-then you're a stupid mothafucka!
-kickin' - like the kick from a kickdrum
-yella boy on the drum gettin' dumb
-programmin' - a beat that's hittin'
-and if you listen then you know we're not bullshittin'
-dope - like a pound or a key
-so shut de fuck up and listen to me
-i make these killings
-i got money to the ceiling (why's that?)
-cuz i'm a mothafuckin' ruthless villain
-mc ren - stamping any fool in my way
-with some help from my homeboy dre
-now my name iz dre - de mothafuckin' doctor
-rippin' shit up (oh yeah) and here to rock ya
-with some help from my homeboy e
-the criminal of the ruthless posse
-fuckin' it up (word up) iz what we do
-the reputation of the nwa crew
-gettin' busy because we're cold stampin'
-and we're born and raised
-and we're born and raised
-and we're born and raised in compton
-speakin' of compton, it's makin' me sick (why?)
-everybody'z talkin' that crazy shit
-sayin' they were raised in the cpt (aha)
-just as i was, they try to be like me
-poppin' that shit, get the fuck out my face
-knowin' that they never even seen the place
-claimin' my city is my city they claim
-mothafuckaz we're about to put some salt in your game ..
-yeah i'm tired of these mothafuckerz runnin' around town, talkin' about
-they're from compton and shit, tryin' to get on the bandwagon ..
-yeah dre, i know what you're sayin' man, but let's tell 'em who we're
-talkin' about ..
-what do you call a crew that can rap like that ...?
-yo nwa call 'em mothafuckaz wack..
-(yeah you know what time it iz, listen to why we call 'em wack)
-they got a wacky wack record put o' wacky wack crews
-yo what about the lyrics?
-that shit's wacky wack too
-with a fucked up style and a fucked up show
-hey yo ren, what about the scratchin', is it def?
-fuck no!
-the mothafuckin' record is a mothafuckin' wack
-the mothafuckin' cracka jack needs to step the fuck back ...
-do you want some of this?
-hell no ..
-dre the mothafuckin' doctor
-well for the record it's ren and for the street it's villain
-dre the mothafuckin' doctor
-well for the record it's ren and for the street it's villain
-yella boy, why don't you kick me one of them funky-ass beats?
-my boy .. my boy .. my boy ice cube
-yo we got my homeboy eazy e in de house
-won't you tell 'em what your name iz?
-mc ren is the mothafuckin' coroner
-i'm gettin' rid of mothafuckaz as if they was a foreigner
-show no crip to pretend when i'm seen
-i punch you can block it but i'm a still get in
-this ain't a tk yo in the first
-but it's some shit from a nigga in black it's much worse
-then a beat from tyson cuz ren is not nice and
-your ass is better off just rollin' a dice and
-findin' you a number for luck
-cuz you all need it when you see i don't give a fuck
-my identity, and the shit is gettin' shown
-without a video i'm still gettin' on
-i'm at a show then my picture is takin'
-one click of the flash and punk niggaz are breakin'
-to the door, tryin' to join my fan club
-lipstickin' over one of my dubs
-and it's the minimal scratch for the moment
-until i fuck up the so called opponet
-that's standing in the zone of the twilight
-sayin' how in de fuck did he get mixed up in my fight
-it was'nt a mistake, it was a set-up
-so until i'm finished poppin' my lyrics you should shut up
-and don't attempt to speak
-because it's bad enough you rollin' up shit quick
-with a nigga like ren about the hit
-now lemme hear you mothafuckaz talk some more shit
-i'm a bust your ass in your mouth,
-yo, unless you're sayin' "compton's in de house"
-who realy cares - about a sucker on a take off
-bust de move, we can have a shake n' bake-off
-me and you can go cuz i don't care yo
-rap fight or guerilla warfare
-we can rumble, cuz when my lungs go in and out
-i kick rhymes in a bundle to win about
-or scarier scaffle
-i just muffle the eye position, there's no competition
-let 'em know that dre is gettin' stronger
-compton's in de house but now it's some' longer
-i won't get set-up, shut up, i'm kinda fed up
-you can say uncle and i still won't let up
-cuz dre is the mothafuckin' doctor
-and if me and ren's on the mike it's like propaganda, no doubt
-"boy you should've known by now" ..
-compton's in the house
-yeah, it's time to put compton on de map, don't ever think you can get it on
-you stupid mothafuckaz!
-compton's in the house ..
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I4
+sVshow
+p4
+I5
+sVmoney
+p5
+I1
+sVmove
+p6
+I1
+sVscaffle
+p7
+I1
+sVuncle
+p8
+I1
+sVmap
+p9
+I1
+sVnwa
+p10
+I3
+sVshake
+p11
+I1
+sVeazy
+p12
+I1
+sVhell
+p13
+I1
+sVcold
+p14
+I1
+sVstill
+p15
+I3
+sVtakin
+p16
+I1
+sVcompetition
+p17
+I1
+sVaint
+p18
+I1
+sVstyle
+p19
+I1
+sVkillings
+p20
+I1
+sVsayin
+p21
+I4
+sVzone
+p22
+I1
+sVcoroner
+p23
+I1
+sVflash
+p24
+I1
+sVpoppin
+p25
+I2
+sVcuz
+p26
+I6
+sVbust
+p27
+I2
+sVcrew
+p28
+I2
+sVbetter
+p29
+I1
+sVlets
+p30
+I1
+sVblack
+p31
+I1
+sVtk
+p32
+I1
+sVscratch
+p33
+I1
+sVcriminal
+p34
+I1
+sVmike
+p35
+I1
+sVno
+p36
+I1
+sVkick
+p37
+I4
+sVtake
+p38
+I1
+sVfool
+p39
+I1
+sVdo
+p40
+I2
+sVcube
+p41
+I1
+sVhit
+p42
+I1
+sVaround
+p43
+I1
+sVyo
+p44
+I9
+sVget
+p45
+I8
+sVbeat
+p46
+I3
+sVsucker
+p47
+I2
+sVdope
+p48
+I1
+sVde
+p49
+I10
+sVnumber
+p50
+I1
+sVgame
+p51
+I1
+sVdefinetly
+p52
+I1
+sVfan
+p53
+I1
+sVknow
+p54
+I5
+sVjoin
+p55
+I1
+sVtwilight
+p56
+I1
+sVname
+p57
+I2
+sVwont
+p58
+I3
+sVlike
+p59
+I6
+sVgettin
+p60
+I6
+sVguage
+p61
+I1
+sVscratchin
+p62
+I1
+sVtheyre
+p63
+I1
+sVtry
+p64
+I1
+sVbad
+p65
+I1
+sVstupid
+p66
+I2
+sVhittin
+p67
+I1
+sVrock
+p68
+I1
+sVquick
+p69
+I1
+sVnice
+p70
+I1
+sVdolars
+p71
+I1
+sVrens
+p72
+I1
+sVluck
+p73
+I1
+sVem
+p74
+I6
+sVright
+p75
+I1
+sVclaimin
+p76
+I1
+sVpeople
+p77
+I8
+sVhouse
+p78
+I11
+sVtryin
+p79
+I2
+sVyeah
+p80
+I10
+sVwacky
+p81
+I3
+sVup
+p82
+I3
+sVborn
+p83
+I3
+sVsee
+p84
+I1
+sVstamping
+p85
+I1
+sVdumb
+p86
+I1
+sVlipstickin
+p87
+I1
+sVgo
+p88
+I2
+sVclick
+p89
+I1
+sVout
+p90
+I1
+sVeven
+p91
+I1
+sVshown
+p92
+I1
+sVgon
+p93
+I1
+sVnigga
+p94
+I2
+sVcracka
+p95
+I1
+sVruthless
+p96
+I2
+sVopponet
+p97
+I1
+sVposse
+p98
+I1
+sVice
+p99
+I1
+sVpaying
+p100
+I1
+sVenough
+p101
+I1
+sVren
+p102
+I8
+sVscarier
+p103
+I1
+sVgot
+p104
+I3
+sVever
+p105
+I1
+sVdice
+p106
+I1
+sVminimal
+p107
+I1
+sVass
+p108
+I2
+sVshut
+p109
+I3
+sVfull
+p110
+I1
+sVrun
+p111
+I1
+sVkickdrum
+p112
+I1
+sVbandwagon
+p113
+I1
+sVcity
+p114
+I2
+sVdoubt
+p115
+I1
+sVforeigner
+p116
+I1
+sVnever
+p117
+I1
+sVpunch
+p118
+I1
+sVpunks
+p119
+I1
+sVlem
+p120
+I1
+sVbreakin
+p121
+I1
+sVstep
+p122
+I2
+sVbusy
+p123
+I1
+sVlet
+p124
+I2
+sVhere
+p125
+I1
+sVkey
+p126
+I1
+sVput
+p127
+I3
+sVrumble
+p128
+I1
+sVspeakin
+p129
+I1
+sVstage
+p130
+I1
+sVboy
+p131
+I7
+sVabout
+p132
+I2
+sVdrum
+p133
+I1
+sVknowin
+p134
+I1
+sVoh
+p135
+I1
+sVcompton
+p136
+I4
+sVpunk
+p137
+I1
+sVo
+I1
+sVpropaganda
+p138
+I1
+sVbakeoff
+p139
+I1
+sVrange
+p140
+I1
+sVplace
+p141
+I1
+sVmixed
+p142
+I1
+sVtheres
+p143
+I1
+sVdre
+p144
+I8
+sVthink
+p145
+I1
+sVfuckin
+p146
+I1
+sVthats
+p147
+I2
+sVraised
+p148
+I4
+sVaha
+p149
+I1
+sVwhats
+p150
+I1
+sVdont
+p151
+I6
+sVfunkyass
+p152
+I2
+sVwin
+p153
+I1
+sVmakin
+p154
+I1
+sVone
+p155
+I3
+sViz
+p156
+I4
+sVhear
+p157
+I1
+sVfight
+p158
+I2
+sVcrip
+p159
+I1
+sVfed
+p160
+I1
+sVyella
+p161
+I3
+sVspeak
+p162
+I1
+sVstanding
+p163
+I1
+sVwan
+p164
+I1
+sVwack
+p165
+I6
+sVeye
+p166
+I1
+sVrhymes
+p167
+I1
+sVcares
+p168
+I1
+sVtop
+p169
+I1
+sVthere
+p170
+I1
+sVhey
+p171
+I3
+sVwhos
+p172
+I1
+sVmothafuckerz
+p173
+I1
+sVmuch
+p174
+I1
+sVcall
+p175
+I3
+sVtell
+p176
+I2
+sVway
+p177
+I1
+sVcrews
+p178
+I1
+sVshits
+p179
+I1
+sVmothafucka
+p180
+I1
+sVbullshittin
+p181
+I1
+sVlisten
+p182
+I3
+sVback
+p183
+I1
+sVceiling
+p184
+I1
+sVdoor
+p185
+I1
+sVlungs
+p186
+I1
+sVthat
+p187
+I1
+sVclub
+p188
+I1
+sVmuffle
+p189
+I1
+sVfindin
+p190
+I1
+sVfuck
+p191
+I7
+sVfinished
+p192
+I1
+sVguerilla
+p193
+I1
+sVeverywhere
+p194
+I1
+sVtoo
+p195
+I1
+sVknown
+p196
+I1
+sVattempt
+p197
+I1
+sVstronger
+p198
+I1
+sVme
+p199
+I3
+sVcare
+p200
+I1
+sV12
+p201
+I1
+sVword
+p202
+I1
+sVwarfare
+p203
+I1
+sVmc
+p204
+I2
+sVthis
+p205
+I2
+sVsetup
+p206
+I2
+sVpretend
+p207
+I1
+sVwhys
+p208
+I1
+sVniggaz
+p209
+I1
+sVn
+I3
+sVrecord
+p210
+I4
+sVstreet
+p211
+I2
+sVwere
+p212
+I1
+sVvideo
+p213
+I1
+sVsay
+p214
+I1
+sVcalled
+p215
+I1
+sVdef
+p216
+I1
+sVmistake
+p217
+I1
+sVand
+p218
+I2
+sVclaim
+p219
+I1
+sVcrazy
+p220
+I1
+sVpound
+p221
+I1
+sVrap
+p222
+I2
+sVgive
+p223
+I1
+sVwasnt
+p224
+I1
+sVah
+p225
+I1
+sVprogrammin
+p226
+I1
+sVit
+p227
+I2
+sVmothafuckin
+p228
+I13
+sVneeds
+p229
+I1
+sVvillain
+p230
+I3
+sVim
+p231
+I10
+sVwant
+p232
+I2
+sVin
+p233
+I1
+sVneed
+p234
+I1
+sVseen
+p235
+I2
+sVrid
+p236
+I1
+sVshit
+p237
+I8
+sVworse
+p238
+I1
+sVmothafuckaz
+p239
+I5
+sVbeats
+p240
+I1
+sVdoctor
+p241
+I4
+sVna
+p242
+I2
+sVmake
+p243
+I2
+sVwatching
+p244
+I1
+sVrippin
+p245
+I1
+sVoff
+p246
+I1
+sVhomeboy
+p247
+I3
+sVrealy
+p248
+I1
+sVya
+p249
+I1
+sVwithout
+p250
+I1
+sVnwas
+p251
+I1
+sVsick
+p252
+I1
+sVtalkin
+p253
+I3
+sVcomptons
+p254
+I9
+sVpicture
+p255
+I1
+sVunless
+p256
+I1
+sVshouldve
+p257
+I1
+sVeverybodyz
+p258
+I1
+sVdubs
+p259
+I1
+sVeffect
+p260
+I1
+sVbundle
+p261
+I1
+sVeazyduzit
+p262
+I1
+sVtown
+p263
+I1
+sVmoment
+p264
+I1
+sVmouth
+p265
+I1
+sVkinda
+p266
+I1
+sVposition
+p267
+I1
+sVfucked
+p268
+I2
+sVtyson
+p269
+I1
+sVon
+p270
+I2
+sVtired
+p271
+I1
+sVwhy
+p272
+I1
+sVidentity
+p273
+I1
+sVman
+p274
+I1
+sVsomethin
+p275
+I1
+sVstampin
+p276
+I1
+sVe
+I2
+sVlonger
+p277
+I1
+sVsalt
+p278
+I1
+sVyoure
+p279
+I3
+sVwell
+p280
+I2
+sVrollin
+p281
+I2
+sVface
+p282
+I1
+sVreputation
+p283
+I1
+sVblock
+p284
+I1
+sVtime
+p285
+I2
+sVrunnin
+p286
+I1
+sVfirst
+p287
+I1
+sVcpt
+p288
+I1
+sVkickin
+p289
+I1
+sVtalk
+p290
+I1
+sVjack
+p291
+I1
+s.

@@ -1,50 +1,371 @@
-flight school lyrics
-kanye west lyrics
-flight school
-feat tpain
-let get theme music
-baby forget everything know
-lets take way back hello
-say youre living like died before
-got place go
-oooh let take flight school
-well learn fly
-oooh let take flight school
-lights
-hey
-youve never high kiss ground goodbye
-say damn baby get fly
-flight school
-got superman power superman cape
-last hours superman late
-clock ticking damn wait
-man come back save day
-fly across earth put things reverse
-wish life movie could rehearse
-certain things cant doctor say im worst
-aint enough patience needed nurse
-thatll come bed late see head ache
-get head straight give head great
-every time popped like vcr
-took breath away performed cpr
-cars clothes lights boats
-guess trying sow raw oats
-penthouse position penthouse btches
-see pimped crib must exhibit
-sht last years haze like isaac
-close eyes tighter asian eyes
-get realize got wings angels fly with
-louis vuitton feathers thats fly sht
-baby
-forget everything know
-lets take way back hello
-say youre living like died before
-got place go
-oooh let take flight school
-well learn fly
-oooh let take flight school
-lights
-hey
-youve never high kiss ground goodbye
-say damn baby get fly
-flight school
+(dp1
+Vforget
+p2
+I2
+sVlyrics
+p3
+I2
+sVyears
+p4
+I1
+sVasian
+p5
+I1
+sVgo
+p6
+I2
+sVearth
+p7
+I1
+sVfeat
+p8
+I1
+sVbefore
+p9
+I2
+sVaint
+p10
+I1
+sVeverything
+p11
+I2
+sVvcr
+p12
+I1
+sVrealize
+p13
+I1
+sVlate
+p14
+I2
+sVtheme
+p15
+I1
+sVisaac
+p16
+I1
+sVsave
+p17
+I1
+sVget
+p18
+I5
+sVevery
+p19
+I1
+sVknow
+p20
+I2
+sVkiss
+p21
+I2
+sVcape
+p22
+I1
+sVday
+p23
+I1
+sVschool
+p24
+I8
+sVsht
+p25
+I2
+sVlike
+p26
+I4
+sVlouis
+p27
+I1
+sVpimped
+p28
+I1
+sVoooh
+p29
+I4
+sVclothes
+p30
+I1
+sVfeathers
+p31
+I1
+sVback
+p32
+I3
+sVsee
+p33
+I2
+sVkanye
+p34
+I1
+sVclose
+p35
+I1
+sVwings
+p36
+I1
+sVliving
+p37
+I2
+sVclock
+p38
+I1
+sVmovie
+p39
+I1
+sVaway
+p40
+I1
+sVrehearse
+p41
+I1
+sVlights
+p42
+I3
+sVenough
+p43
+I1
+sVticking
+p44
+I1
+sVgot
+p45
+I4
+sVnurse
+p46
+I1
+sVground
+p47
+I2
+sVacross
+p48
+I1
+sVpower
+p49
+I1
+sVcars
+p50
+I1
+sVnever
+p51
+I2
+sVhours
+p52
+I1
+sVlet
+p53
+I5
+sVput
+p54
+I1
+sVache
+p55
+I1
+sVcome
+p56
+I2
+sVwait
+p57
+I1
+sVvuitton
+p58
+I1
+sVgreat
+p59
+I1
+sVlast
+p60
+I2
+sVreverse
+p61
+I1
+sVhaze
+p62
+I1
+sVcould
+p63
+I1
+sVplace
+p64
+I2
+sVyouve
+p65
+I2
+sVhead
+p66
+I3
+sVthats
+p67
+I1
+sVexhibit
+p68
+I1
+sVcrib
+p69
+I1
+sVpatience
+p70
+I1
+sVsow
+p71
+I1
+sVguess
+p72
+I1
+sVwest
+p73
+I1
+sVhey
+p74
+I2
+sVbreath
+p75
+I1
+sVneeded
+p76
+I1
+sVmusic
+p77
+I1
+sVtighter
+p78
+I1
+sVway
+p79
+I2
+sVdamn
+p80
+I3
+sVangels
+p81
+I1
+sVpopped
+p82
+I1
+sVflight
+p83
+I8
+sVtook
+p84
+I1
+sVlets
+p85
+I2
+sVbaby
+p86
+I4
+sVtrying
+p87
+I1
+sVwith
+p88
+I1
+sVmust
+p89
+I1
+sVfly
+p90
+I7
+sVoats
+p91
+I1
+sVwish
+p92
+I1
+sVstraight
+p93
+I1
+sVcant
+p94
+I1
+sVbed
+p95
+I1
+sVlearn
+p96
+I2
+sVtpain
+p97
+I1
+sVpenthouse
+p98
+I2
+sVthatll
+p99
+I1
+sVgive
+p100
+I1
+sVcertain
+p101
+I1
+sVlife
+p102
+I1
+sVhigh
+p103
+I2
+sVraw
+p104
+I1
+sVsay
+p105
+I5
+sVim
+p106
+I1
+sVperformed
+p107
+I1
+sVsuperman
+p108
+I3
+sVdoctor
+p109
+I1
+sVthings
+p110
+I2
+sVtake
+p111
+I6
+sVboats
+p112
+I1
+sVeyes
+p113
+I2
+sVbtches
+p114
+I1
+sVposition
+p115
+I1
+sVdied
+p116
+I2
+sVman
+p117
+I1
+sVyoure
+p118
+I2
+sVwell
+p119
+I2
+sVgoodbye
+p120
+I2
+sVtime
+p121
+I1
+sVworst
+p122
+I1
+sVcpr
+p123
+I1
+sVhello
+p124
+I2
+s.

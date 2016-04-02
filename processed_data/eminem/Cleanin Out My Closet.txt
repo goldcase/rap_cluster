@@ -1,88 +1,734 @@
-"cleanin out my closet" lyrics
-eminem lyrics
-"cleanin out my closet"
-where's my snare?
-i have no snare in my headphones - there you go
-yeah... yo, yo
-have you ever been hated or discriminated against?
-i have; i've been protested and demonstrated against
-picket signs for my wicked rhymes, look at the times
-sick as the mind of the motherfucking kid that's behind
-all this commotion emotions run deep as ocean's exploding
-tempers flaring from parents just blow 'em off and keep going
-not taking nothing from no one give 'em hell long as i'm breathing
-keep kicking ass in the morning and taking names in the evening
-leave 'em with a taste as sour as vinegar in they mouth
-see they can trigger me, but they'll never figure me out
-look at me now; i bet ya probably sick of me now ain't you momma?
-i'mma make you look so ridiculous now
-i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry; but tonight
-i'm cleaning out my closet (one more time)
-i said i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry, but tonight
-i'm cleaning out my closet
-ha! i got some skeletons in my closet
-and i don't know if no one knows it
-so before they thrown me inside my coffin and close it
-i'mma expose it; i'll take you back to '73
-before i ever had a multi-platinum selling cd
-i was a baby, maybe i was just a couple of months
-my faggot father must have had his panties up in a bunch
-cause he split, i wonder if he even kissed me goodbye
-no i don't. on second thought i just fucking wished he would die
-i look at hailie, and i couldn't picture leaving her side
-even if i hated kim, i grit my teeth and i'd try
-to make it work with her at least for hailie's sake
-i maybe made some mistakes
-but i'm only human, but i'm man enough to face them today
-what i did was stupid, no doubt it was dumb
-but the smartest shit i did was take the bullets outta that gun
-cause i'da killed him; shit i would've shot kim and him both
-it's my life, i'd like to welcome y'all to "the eminem show"
-i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry; but tonight
-i'm cleaning out my closet (one more time)
-i said i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry, but tonight
-i'm cleaning out my closet
-now i would never diss my own momma just to get recognition
-take a second to listen for who you think this record is dissing
-but put yourself in my position; just try to envision
-witnessing your momma popping prescription pills in the kitchen
-bitching that someone's always going through her purse and shit's missing
-going through public housing systems, victim of munchhausen's syndrome
-my whole life i was made to believe i was sick when i wasn't
-'til i grew up, now i blew up, it makes you sick to ya stomach
-doesn't it? wasn't it the reason you made that cd for me ma?
-so you could try to justify the way you treated me ma?
-but guess what? you're getting older now and it's cold when you're lonely
-and nathan's growing up so quick he's gonna know that you're phony
-and hailie's getting so big now; you should see her, she's beautiful
-but you'll never see her - she won't even be at your funeral!
-see what hurts me the most is you won't admit you was wrong
-bitch do your song - keep telling yourself that you was a mom!
-but how dare you try to take what you didn't help me to get
-you selfish bitch; i hope you fucking burn in hell for this shit
-remember when ronnie died and you said you wished it was me?
-well guess what, i am dead - dead to you as can be!
-i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry; but tonight
-i'm cleaning out my closet (one more time)
-i said i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry, but tonight
-i'm cleaning out my closet
-i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry; but tonight
-i'm cleaning out my closet (one more time)
-i said i'm sorry momma!
-i never meant to hurt you!
-i never meant to make you cry, but tonight
-i'm cleaning out my closet
+(dp1
+Vleast
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmistakes
+p7
+I1
+sVhuman
+p8
+I1
+sVsigns
+p9
+I1
+sVgo
+p10
+I1
+sVhell
+p11
+I2
+sVcold
+p12
+I1
+sVbunch
+p13
+I1
+sVblow
+p14
+I1
+sVbelieve
+p15
+I1
+sVimma
+p16
+I2
+sVhated
+p17
+I2
+sVfather
+p18
+I1
+sVenough
+p19
+I1
+sVgoing
+p20
+I3
+sVparents
+p21
+I1
+sVsystems
+p22
+I1
+sVsorry
+p23
+I8
+sVhope
+p24
+I1
+sVsplit
+p25
+I1
+sVmeant
+p26
+I16
+sVmakes
+p27
+I1
+sVevening
+p28
+I1
+sVwished
+p29
+I2
+sVyo
+p30
+I2
+sVget
+p31
+I2
+sVya
+p32
+I2
+sVcould
+p33
+I1
+sVcouple
+p34
+I1
+sVoceans
+p35
+I1
+sVburn
+p36
+I1
+sVgrew
+p37
+I1
+sVknow
+p38
+I2
+sVmom
+p39
+I1
+sVgot
+p40
+I1
+sVtelling
+p41
+I1
+sVsnare
+p42
+I2
+sVnow
+p43
+I1
+sVbullets
+p44
+I1
+sVkilled
+p45
+I1
+sVdare
+p46
+I1
+sVwont
+p47
+I2
+sVlike
+p48
+I1
+sVill
+p49
+I1
+sVcause
+p50
+I2
+sVcry
+p51
+I8
+sVgun
+p52
+I1
+sVmorning
+p53
+I1
+sVleave
+p54
+I1
+sVstupid
+p55
+I1
+sVdie
+p56
+I1
+sVquick
+p57
+I1
+sVside
+p58
+I1
+sVyall
+p59
+I1
+sVbitch
+p60
+I2
+sVem
+p61
+I3
+sVblew
+p62
+I1
+sVenvision
+p63
+I1
+sVpicket
+p64
+I1
+sVbe
+p65
+I1
+sVfucking
+p66
+I2
+sVyeah
+p67
+I1
+sVdead
+p68
+I2
+sVdiscriminated
+p69
+I1
+sVsee
+p70
+I4
+sVdumb
+p71
+I1
+sVshes
+p72
+I1
+sVclose
+p73
+I1
+sVdied
+p74
+I1
+sVpills
+p75
+I1
+sVrecognition
+p76
+I1
+sVout
+p77
+I1
+sVeven
+p78
+I3
+sVtry
+p79
+I4
+sVsaid
+p80
+I5
+sVcloset
+p81
+I11
+sVemotions
+p82
+I1
+sVcd
+p83
+I2
+sVbehind
+p84
+I1
+sVexploding
+p85
+I1
+sVcleanin
+p86
+I2
+sVever
+p87
+I2
+sVpublic
+p88
+I1
+sVdemonstrated
+p89
+I1
+sVwouldve
+p90
+I1
+sVass
+p91
+I1
+sVaint
+p92
+I1
+sVwelcome
+p93
+I1
+sVrun
+p94
+I1
+sVmissing
+p95
+I1
+sVdoubt
+p96
+I1
+sVmultiplatinum
+p97
+I1
+sVnever
+p98
+I19
+sVeminem
+p99
+I2
+sVkicking
+p100
+I1
+sVreason
+p101
+I1
+sVhurts
+p102
+I1
+sVput
+p103
+I1
+sVkitchen
+p104
+I1
+sVthrown
+p105
+I1
+sVvinegar
+p106
+I1
+sVprescription
+p107
+I1
+sVsmartest
+p108
+I1
+sVdidnt
+p109
+I1
+sVtaking
+p110
+I2
+sVheadphones
+p111
+I1
+sVnathans
+p112
+I1
+sVagainst
+p113
+I2
+sVkeep
+p114
+I3
+sVadmit
+p115
+I1
+sVyoull
+p116
+I1
+sV73
+p117
+I1
+sVwhole
+p118
+I1
+sVthink
+p119
+I1
+sVthats
+p120
+I1
+sVmotherfucking
+p121
+I1
+sVdont
+p122
+I2
+sVwonder
+p123
+I1
+sVone
+p124
+I6
+sVmomma
+p125
+I11
+sVdoesnt
+p126
+I1
+sVnames
+p127
+I1
+sVcouldnt
+p128
+I1
+sVskeletons
+p129
+I1
+sVguess
+p130
+I2
+sVwould
+p131
+I2
+sVhes
+p132
+I1
+sVsake
+p133
+I1
+sVhousing
+p134
+I1
+sVlong
+p135
+I1
+sVwasnt
+p136
+I2
+sVlonely
+p137
+I1
+sVtrigger
+p138
+I1
+sVwitnessing
+p139
+I1
+sVway
+p140
+I1
+sVshits
+p141
+I1
+sVman
+p142
+I1
+sVtoday
+p143
+I1
+sVwicked
+p144
+I1
+sVback
+p145
+I1
+sVmunchhausens
+p146
+I1
+sVlife
+p147
+I2
+sVselling
+p148
+I1
+sVstomach
+p149
+I1
+sVtempers
+p150
+I1
+sVhailie
+p151
+I1
+sVboth
+p152
+I1
+sVpurse
+p153
+I1
+sVexpose
+p154
+I1
+sVgetting
+p155
+I2
+sVphony
+p156
+I1
+sValways
+p157
+I1
+sVhurt
+p158
+I8
+sVridiculous
+p159
+I1
+sVbig
+p160
+I1
+sVbaby
+p161
+I1
+sVprobably
+p162
+I1
+sVha
+p163
+I1
+sVpopping
+p164
+I1
+sVmust
+p165
+I1
+sVme
+p166
+I1
+sVmade
+p167
+I3
+sVma
+p168
+I2
+sVlook
+p169
+I4
+sVinside
+p170
+I1
+sVwork
+p171
+I1
+sVsecond
+p172
+I2
+sVrhymes
+p173
+I1
+sVrecord
+p174
+I1
+sVsour
+p175
+I1
+sVgrowing
+p176
+I1
+sVfaggot
+p177
+I1
+sVlisten
+p178
+I1
+sVtreated
+p179
+I1
+sVcoffin
+p180
+I1
+sVbet
+p181
+I1
+sVbeautiful
+p182
+I1
+sVive
+p183
+I1
+sVmonths
+p184
+I1
+sVoutta
+p185
+I1
+sVfigure
+p186
+I1
+sVgive
+p187
+I1
+sVtaste
+p188
+I1
+sVwell
+p189
+I1
+sVflaring
+p190
+I1
+sVmind
+p191
+I1
+sVit
+p192
+I2
+sVdeep
+p193
+I1
+sVtonight
+p194
+I8
+sVbreathing
+p195
+I1
+sVim
+p196
+I19
+sVgrit
+p197
+I1
+sVtimes
+p198
+I1
+sVid
+p199
+I2
+sVshit
+p200
+I3
+sVknows
+p201
+I1
+sVselfish
+p202
+I1
+sVprotested
+p203
+I1
+sVtheyll
+p204
+I1
+sVsyndrome
+p205
+I1
+sVna
+p206
+I1
+sVmake
+p207
+I10
+sVsong
+p208
+I1
+sVcommotion
+p209
+I1
+sVtil
+p210
+I1
+sVhailies
+p211
+I2
+sVtake
+p212
+I4
+sVsick
+p213
+I4
+sVsomeones
+p214
+I1
+sVyou
+p215
+I8
+sVpanties
+p216
+I1
+sVronnie
+p217
+I1
+sVbitching
+p218
+I1
+sVpicture
+p219
+I1
+sVvictim
+p220
+I1
+sVteeth
+p221
+I1
+sVleaving
+p222
+I1
+sVwrong
+p223
+I1
+sVgon
+p224
+I1
+sVmouth
+p225
+I1
+sVcleaning
+p226
+I8
+sVkim
+p227
+I2
+sVnothing
+p228
+I1
+sVwheres
+p229
+I1
+sVkid
+p230
+I1
+sVdiss
+p231
+I1
+sVremember
+p232
+I1
+sVolder
+p233
+I1
+sVmaybe
+p234
+I2
+sVyoure
+p235
+I3
+sVkissed
+p236
+I1
+sVdissing
+p237
+I1
+sVface
+p238
+I1
+sVthought
+p239
+I1
+sVgoodbye
+p240
+I1
+sVtime
+p241
+I4
+sVfuneral
+p242
+I1
+sVposition
+p243
+I1
+sVida
+p244
+I1
+sVjustify
+p245
+I1
+s.

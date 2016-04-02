@@ -1,109 +1,858 @@
-"100 miles and runnin'" lyrics
-n.w.a. lyrics
-"100 miles and runnin'"
-and why do we call ourself 'niggaz 4 life'.
-'cause if we die we still gon' be some dead niggas.
-"you don't really think you're gonna get away, do you?"
-"we haven't spotted them yet."
-"but they're somewhere in the immediate vicinity."
-a 100 miles and runnin'.
-mc ren, i hold the gun and
-you want me to kill a mutherfucker and it's done in.
-since i'm stereotyped to kill and destruct -
-is one of the main reasons i don't give a fuck.
-chances are usually not good
-'cause i freeze with my hands on a hot hood.
-and gettin' jacked by the you-know-who.
-when in a black and white the capacity is two.
-we're not alone, we're three more brothers, i mean street-brothers.
-now wearin' my dyes, 'cause i'm not stupid, mutherfuckers.
-they're out to take our heads for what we said in the past.
-point blank - they can kizz my black azz.
-i didn't stutter when i said "fuck tha police".
-'cause it's hard for a nigga to get peace.
-now it's broken and can't be fixed.
-'cause police and little black niggers don't mix so
-now i'm creepin' through the fall.
-runnin' like a team. well, see, i might have slayed y'all.
-so for now pack the gun and
-hold it in the air.
-'cause mc ren has a 100 miles of runnin'...
-"into this news. four fugitives are on the run."
-"fbi sources tell us that the four are headed"
-"100 miles to their homebase, compton."
-lend me a mutherfuckin' ear.
-so i can tell you why...
-runnin' with my brothers, headed for the homebase.
-with a steady pace on the face that just we raced.
-the road ahead goes on and on.
-the shit is gettin' longer than the mutherfuckin' marathon.
-runnin' on but never runnin' out.
-stayin' wired and if i get tired, i can still try out.
-hitchhikin' if that's what it gotta do.
-but nobody's pickin' up a nigga witta attitude.
-confused...
-yo, but dre's a nigga with nuthin' to lose.
-one of the few who's been accused and abused
-of the crime of poisonin' young minds.
-but you don't know shit til you been in my shoes.
-and dre is back from the c-p-t.
-droppin' some shit that's d-o-p-e.
-so fuck the p-o-l-i-c-e!
-and any mutherfucker that disagrees.
-stuck and runnin' hard, hauling ass.
-'cause i'm a nigga known for havin' a notorious past.
-my mind was slick - my temper was too quick.
-now the fbi's all over my dick.
-got us tick and runnin' just to find the gun that started the clock.
-that's when the e jumped off the startin' block.
-a 100 miles from home and ,yo, it's a long stretch.
-a little sprintin' mutherfucker that they won't catch.
-yeah, back to compton again.
-yo, it's either that or the federal pen.
-'cause niggas been runnin' since beginning of time.
-takin' a minute to tell you what's on my mutherfuckin' mind.
-runnin' like i just don't care.
-compton's 50 miles but , yo, i'mma get there.
-archin' my back and on a straight rough.
-just like carl lewis i'm ballin' the fuck out.
-from city to city i'm a menace as i pass by.
-rippin' up shit just so you can remember i'm
-a straight up nigga that's done in, gunnin' and comin'
-straight at yo ass.
-a 100 miles and runnin'...
-this one goes out to the four brothers from compton.
-you're almost there, but the fbi has a little message for you:
-"nowhere to run to, baby. nowhere to hide."
-good luck brothers.
-runnin' like a nigga i hate to lose.
-show me on the news but i hate to be abused.
-i know it was a set-up.
-so now i'm gonna get up.
-even if the fbi wants me to shut up.
-but i've got 10 000 niggas strong.
-they got everybody singin' my "fuck tha police" song.
-and while they treat my group like dirt,
-their whole fuckin' family is wearin' our t-shirts.
-so i'mma run til i can't run no more.
-'cause it's time for mc ren to settle the score.
-i got a urge to kick down doors.
-at my grave like a slave even if the ren calls.
-clouds are dark and brothers are hidin'.
-dick-tricklin' at the sunny mutherfucker's are ridin'.
-started with five and, yo, one couldn't take it.
-so now there's four 'cause the fifth couldn't make it.
-the number's even - now i'm leavin'.
-we're never gettin' took by a bitch with a weave in.
-her and the troops are right behind me.
-but they're so fuckin' stupid, they'll never find me.
-one more mile to go through the dark streets.
-runnin' like a mutherfucker on my own two feet.
-but you know i never stumble or lag last.
-i'm almost home so i better haul ass.
-tearin' up everything in sight.
-it's a little crazy mutherfucker dodging the searchlight.
-now that chase, the shit, is done and
-four mutherfuckers goin' crazy with
-a 100 miles of runnin'!
-stop! stop! stop! stop!
-surprise, niggas
+(dp1
+Vshoes
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVchances
+p5
+I1
+sVlewis
+p6
+I1
+sVfall
+p7
+I1
+sVyoung
+p8
+I1
+sVfour
+p9
+I5
+sVsources
+p10
+I1
+sVattitude
+p11
+I1
+sVmile
+p12
+I1
+sVkill
+p13
+I2
+sVnwa
+p14
+I1
+sVgo
+p15
+I1
+sVrough
+p16
+I1
+sVstill
+p17
+I2
+sVtakin
+p18
+I1
+sVyet
+p19
+I1
+sVfifth
+p20
+I1
+sVear
+p21
+I1
+sVpolice
+p22
+I4
+sVsomewhere
+p23
+I1
+sVheaded
+p24
+I2
+sVvicinity
+p25
+I1
+sVleavin
+p26
+I1
+sVcrime
+p27
+I1
+sVbetter
+p28
+I1
+sVhavin
+p29
+I1
+sVmutherfuckin
+p30
+I3
+sVblack
+p31
+I3
+sV4
+I1
+sVstreetbrothers
+p32
+I1
+sVmain
+p33
+I1
+sVmight
+p34
+I1
+sVkick
+p35
+I1
+sVta
+p36
+I1
+sVpoisonin
+p37
+I1
+sVabused
+p38
+I2
+sVgood
+p39
+I2
+sVyo
+p40
+I6
+sVget
+p41
+I5
+sVdope
+p42
+I1
+sVsunny
+p43
+I1
+sVhate
+p44
+I2
+sVdark
+p45
+I2
+sVpickin
+p46
+I1
+sVhaul
+p47
+I1
+sVfive
+p48
+I1
+sVknow
+p49
+I3
+sVhands
+p50
+I1
+sVyouknowwho
+p51
+I1
+sVtick
+p52
+I1
+sVminute
+p53
+I1
+sVlike
+p54
+I7
+sVwont
+p55
+I1
+sVclouds
+p56
+I1
+sVmc
+p57
+I3
+sVdie
+p58
+I1
+sVgettin
+p59
+I3
+sVgun
+p60
+I3
+sVtheyre
+p61
+I3
+sVtry
+p62
+I1
+sVstupid
+p63
+I2
+sVeither
+p64
+I1
+sVstartin
+p65
+I1
+sVteam
+p66
+I1
+sVquick
+p67
+I1
+sVnotorious
+p68
+I1
+sVhavent
+p69
+I1
+sVfixed
+p70
+I1
+sVsetup
+p71
+I1
+sVyall
+p72
+I1
+sVmean
+p73
+I1
+sVspotted
+p74
+I1
+sVcreepin
+p75
+I1
+sVnigga
+p76
+I6
+sVtired
+p77
+I1
+sVhard
+p78
+I2
+sVback
+p79
+I3
+sVdead
+p80
+I1
+sVfreeze
+p81
+I1
+sVpast
+p82
+I2
+sVsee
+p83
+I1
+sVaccused
+p84
+I1
+sVus
+p85
+I2
+sVsight
+p86
+I1
+sVpass
+p87
+I1
+sVhome
+p88
+I2
+sVmutherfuckers
+p89
+I3
+sVstop
+p90
+I4
+sVmessage
+p91
+I1
+sVsurprise
+p92
+I1
+sVreally
+p93
+I1
+sVeven
+p94
+I3
+sVgunnin
+p95
+I1
+sVgon
+p96
+I3
+sVcapacity
+p97
+I1
+sVtroops
+p98
+I1
+sVclock
+p99
+I1
+sVwitta
+p100
+I1
+sVjumped
+p101
+I1
+sVaway
+p102
+I1
+sVsince
+p103
+I2
+sVslick
+p104
+I1
+sVfind
+p105
+I2
+sVstayin
+p106
+I1
+sVeverything
+p107
+I1
+sVpen
+p108
+I1
+sVmiles
+p109
+I9
+sVren
+p110
+I4
+sVgoes
+p111
+I2
+sVgot
+p112
+I5
+sVcause
+p113
+I10
+sVass
+p114
+I3
+sVeverybody
+p115
+I1
+sVshut
+p116
+I1
+sVnever
+p117
+I4
+sVrun
+p118
+I4
+sVdirt
+p119
+I1
+sVdres
+p120
+I1
+sVstereotyped
+p121
+I1
+sVridin
+p122
+I1
+sVbroken
+p123
+I1
+sVsingin
+p124
+I1
+sVnowhere
+p125
+I2
+sVcarl
+p126
+I1
+sValone
+p127
+I1
+sVnews
+p128
+I2
+sV100
+p129
+I8
+sVstrong
+p130
+I1
+sVbeginning
+p131
+I1
+sVcare
+p132
+I1
+sVlast
+p133
+I1
+sVslayed
+p134
+I1
+sVhidin
+p135
+I1
+sVcompton
+p136
+I3
+sVminds
+p137
+I1
+sVourself
+p138
+I1
+sVniggers
+p139
+I1
+sV000
+p140
+I1
+sVusually
+p141
+I1
+sVluck
+p142
+I1
+sVdre
+p143
+I1
+sVthink
+p144
+I1
+sVroad
+p145
+I1
+sVthats
+p146
+I4
+sVdicktricklin
+p147
+I1
+sVdick
+p148
+I1
+sVwhats
+p149
+I1
+sVdont
+p150
+I5
+sVfamily
+p151
+I1
+sVpoint
+p152
+I1
+sVreasons
+p153
+I1
+sVcouldnt
+p154
+I2
+sVone
+p155
+I5
+sVfeet
+p156
+I1
+sVsprintin
+p157
+I1
+sVright
+p158
+I1
+sVdone
+p159
+I3
+sVbitch
+p160
+I1
+sVblank
+p161
+I1
+sVfbi
+p162
+I3
+sVballin
+p163
+I1
+sVstumble
+p164
+I1
+sVhood
+p165
+I1
+sVbaby
+p166
+I1
+sVcity
+p167
+I2
+sVlittle
+p168
+I4
+sVheads
+p169
+I1
+sVscore
+p170
+I1
+sVlose
+p171
+I2
+sVstretch
+p172
+I1
+sVtwo
+p173
+I2
+sVlong
+p174
+I1
+sVwhos
+p175
+I1
+sVstuck
+p176
+I1
+sVcall
+p177
+I1
+sVtreat
+p178
+I1
+sVhomebase
+p179
+I2
+sVimma
+p180
+I2
+sVwhite
+p181
+I1
+sVgoin
+p182
+I1
+sVtell
+p183
+I3
+sVwants
+p184
+I1
+sVhitchhikin
+p185
+I1
+sVlife
+p186
+I1
+sVstreets
+p187
+I1
+sVraced
+p188
+I1
+sVdisagrees
+p189
+I1
+sVbehind
+p190
+I1
+sVstarted
+p191
+I2
+sVstutter
+p192
+I1
+sVtook
+p193
+I1
+sVimmediate
+p194
+I1
+sVconfused
+p195
+I1
+sVnobodys
+p196
+I1
+sVknown
+p197
+I1
+sVcalls
+p198
+I1
+sVhold
+p199
+I2
+sVremember
+p200
+I1
+sVrunnin
+p201
+I16
+sV10
+p202
+I1
+sVahead
+p203
+I1
+sVwearin
+p204
+I2
+sVniggas
+p205
+I4
+sVstraight
+p206
+I3
+sVniggaz
+p207
+I1
+sVair
+p208
+I1
+sVpace
+p209
+I1
+sVazz
+p210
+I1
+sVdroppin
+p211
+I1
+sVthree
+p212
+I1
+sVnuthin
+p213
+I1
+sVdidnt
+p214
+I1
+sVtemper
+p215
+I1
+sVpack
+p216
+I1
+sVcatch
+p217
+I1
+sVblock
+p218
+I1
+sVcrazy
+p219
+I2
+sVgroup
+p220
+I1
+sVgive
+p221
+I1
+sValmost
+p222
+I2
+sVsteady
+p223
+I1
+sVarchin
+p224
+I1
+sVmind
+p225
+I2
+sVfuck
+p226
+I5
+sVive
+p227
+I1
+sVcant
+p228
+I2
+sVim
+p229
+I10
+sVnumbers
+p230
+I1
+sVwant
+p231
+I1
+sVdodging
+p232
+I1
+sVtheres
+p233
+I1
+sVshit
+p234
+I5
+sVchase
+p235
+I1
+sVyeah
+p236
+I1
+sVtheyll
+p237
+I1
+sVna
+p238
+I2
+sVmake
+p239
+I1
+sVpeace
+p240
+I1
+sVrippin
+p241
+I1
+sVtearin
+p242
+I1
+sVtil
+p243
+I2
+sVmix
+p244
+I1
+sVhot
+p245
+I1
+sVtake
+p246
+I2
+sVdoors
+p247
+I1
+sVkizz
+p248
+I1
+sVyou
+p249
+I1
+sVmutherfucker
+p250
+I5
+sVcomptons
+p251
+I1
+sVurge
+p252
+I1
+sVsettle
+p253
+I1
+sVslave
+p254
+I1
+sVbrothers
+p255
+I5
+sVlend
+p256
+I1
+sVtshirts
+p257
+I1
+sVwhole
+p258
+I1
+sVlag
+p259
+I1
+sVcomin
+p260
+I1
+sVsaid
+p261
+I2
+sVwired
+p262
+I1
+sVhide
+p263
+I1
+sVsong
+p264
+I1
+sVsearchlight
+p265
+I1
+sVgrave
+p266
+I1
+sVweave
+p267
+I1
+sVjacked
+p268
+I1
+sVfuckin
+p269
+I2
+sVe
+I1
+sVlonger
+p270
+I1
+sVmarathon
+p271
+I1
+sVfbis
+p272
+I1
+sVyoure
+p273
+I2
+sVwell
+p274
+I1
+sVhauling
+p275
+I1
+sVdestruct
+p276
+I1
+sVface
+p277
+I1
+sVfederal
+p278
+I1
+sVfugitives
+p279
+I1
+sVtime
+p280
+I2
+sVdyes
+p281
+I1
+sVmenace
+p282
+I1
+sVcpt
+p283
+I1
+sVtha
+p284
+I2
+sV50
+p285
+I1
+s.

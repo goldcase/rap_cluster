@@ -1,69 +1,387 @@
-"speak into the mic" lyrics
-ludacris lyrics
-"speak into the mic"
-check 1, 2 speak into the microphone
-tell that bitch to speak into the microphone
-now work it work it, cause practice make perfect, ok
-now work it work it, cause practice make perfect, ok
-now work it work it, cause practice make perfect, ok
-now work it work it, cause practice make perfect, ok
-i love it when she do it, she do it how i like it
-see the party at the studio and you just got invited
-she the truth up in the booth
-i love it when she spits them verses
-when she finish with that mic
-it make me want to buy some purses
-got so many instrumentals
-i hope she never stop it
-and this microphone's expensive
-so i hope she never drop it
-i beat it like a drum, i tap it like some snares
-and she almost blew her speakers
-but that bitch don't really care
-she a top notch freak
-i like the way she work it
-she be choking on that chicken
-and she know just how to jerk it
-put some spice up in your life
-so i whispered in her ear
-and told her go and grab that mic
-you'll be the artist of the year
-and i'm like
-check 1, 2
-speak into the microphone
-tell that bitch to speak into the microphone
-check 1, 2
-speak into the microphone
-tell that bitch to speak into the microphone
-now work it, work it cause practice make perfect, ok
-now work it, work it cause practice make perfect, ok
-now work it, work it cause practice make perfect, ok
-now work it, work it cause practice make perfect, ok
-i need her in my life
-she always come in handy
-and she got that type of skills
-that make you think she won a grammy
-i was almost nominated
-i always contemplate it
-if she was on the billboard top 100
-then that bitch will dominate it
-cause she grab that mic and go to work
-spit that verse i go berserk
-booth so hot take off your shirt
-grab that drink, roll up the purp
-we wasted in the studio
-making a movie yo, with a boogie ho
-just a little gangster paradise we like coolio
-i'm faded cause i think i just discovered a star
-and you my best kept secret they don't know who your are
-i keep her close and tell her baby don't be going to far
-cause she know when to grab that microphone
-whether she be in the booth or the car
-she goin' make me sign her to a record deal
-hit the store and buy her some giuseppe heels
-she be on that mic so long she out of breath
-put her in the booth and work her half to death
-she goin' make me sign her to a record deal
-hit the store and buy her some giuseppe heels
-she be on that mic so long she out of breath
-put her in the booth and work her half to death
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVnominated
+p4
+I1
+sVverses
+p5
+I1
+sVbaby
+p6
+I1
+sVgo
+p7
+I3
+sVchicken
+p8
+I1
+sVgrammy
+p9
+I1
+sVperfect
+p10
+I8
+sVdeath
+p11
+I2
+sVspits
+p12
+I1
+sVverse
+p13
+I1
+sVgoing
+p14
+I1
+sVhope
+p15
+I2
+sVhit
+p16
+I2
+sVjerk
+p17
+I1
+sVbeat
+p18
+I1
+sVpractice
+p19
+I8
+sVstop
+p20
+I1
+sVknow
+p21
+I3
+sVhalf
+p22
+I2
+sVhandy
+p23
+I1
+sVdiscovered
+p24
+I1
+sVlike
+p25
+I6
+sVartist
+p26
+I1
+sVskills
+p27
+I1
+sVyoull
+p28
+I1
+sVdrop
+p29
+I1
+sVtruth
+p30
+I1
+sValways
+p31
+I2
+sVgrab
+p32
+I4
+sVmicrophones
+p33
+I1
+sVblew
+p34
+I1
+sVdeal
+p35
+I2
+sVsign
+p36
+I2
+sVgangster
+p37
+I1
+sVsee
+p38
+I1
+sVbooth
+p39
+I5
+sVyear
+p40
+I1
+sVbillboard
+p41
+I1
+sVclose
+p42
+I1
+sVbest
+p43
+I1
+sVreally
+p44
+I1
+sVsnares
+p45
+I1
+sVmovie
+p46
+I1
+sVboogie
+p47
+I1
+sVpurses
+p48
+I1
+sVwon
+p49
+I1
+sVparadise
+p50
+I1
+sVgot
+p51
+I3
+sVdominate
+p52
+I1
+sVcause
+p53
+I11
+sVberserk
+p54
+I1
+sVtold
+p55
+I1
+sVwhispered
+p56
+I1
+sVnever
+p57
+I2
+sVcontemplate
+p58
+I1
+sVstudio
+p59
+I2
+sVput
+p60
+I3
+sV100
+p61
+I1
+sVcome
+p62
+I1
+sVgiuseppe
+p63
+I2
+sVcare
+p64
+I1
+sVdrum
+p65
+I1
+sVmany
+p66
+I1
+sVinvited
+p67
+I1
+sVkeep
+p68
+I1
+sVthink
+p69
+I2
+sVlove
+p70
+I2
+sVdont
+p71
+I3
+sVbitch
+p72
+I5
+sVfreak
+p73
+I1
+sVexpensive
+p74
+I1
+sVspeak
+p75
+I8
+sVlittle
+p76
+I1
+sVtop
+p77
+I2
+sVlong
+p78
+I2
+sVbreath
+p79
+I2
+sVsecret
+p80
+I1
+sV2
+I3
+sVway
+p81
+I1
+sVtype
+p82
+I1
+sVtell
+p83
+I4
+sVstore
+p84
+I2
+sVcoolio
+p85
+I1
+sVlife
+p86
+I2
+sVbuy
+p87
+I3
+sVspit
+p88
+I1
+sVho
+p89
+I1
+sVwasted
+p90
+I1
+sVok
+p91
+I8
+sVear
+p92
+I1
+sVspice
+p93
+I1
+sVwhether
+p94
+I1
+sVcar
+p95
+I1
+sVinstrumentals
+p96
+I1
+sVwork
+p97
+I20
+sVrecord
+p98
+I2
+sVfaded
+p99
+I1
+sVmaking
+p100
+I1
+sVare
+p101
+I1
+sVtap
+p102
+I1
+sValmost
+p103
+I2
+sVit
+p104
+I7
+sVheels
+p105
+I2
+sVim
+p106
+I2
+sVwant
+p107
+I1
+sVneed
+p108
+I1
+sVcheck
+p109
+I3
+sVmicrophone
+p110
+I7
+sVpurp
+p111
+I1
+sVshirt
+p112
+I1
+sVchoking
+p113
+I1
+sVmic
+p114
+I7
+sV1
+I3
+sVfar
+p115
+I1
+sVhot
+p116
+I1
+sVtake
+p117
+I1
+sVparty
+p118
+I1
+sVroll
+p119
+I1
+sVfinish
+p120
+I1
+sVstar
+p121
+I1
+sVdrink
+p122
+I1
+sVyo
+p123
+I1
+sVspeakers
+p124
+I1
+sVgoin
+p125
+I2
+sVkept
+p126
+I1
+sVnotch
+p127
+I1
+sVmake
+p128
+I12
+s.

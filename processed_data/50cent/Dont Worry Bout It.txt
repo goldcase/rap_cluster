@@ -1,51 +1,431 @@
-"don't worry 'bout it" lyrics
-50 cent lyrics
-"don't worry 'bout it"
-(feat. yo gotti)
-don't worry 'bout how i get my money, bitch, just know i get my money
-don't worry 'bout i spend my money, boy, i got a lot
-don't worry 'bout that car i drive, don't worry 'bout that bike i ride
-don't worry 'bout them diamonds in that bezel on my watch
-don't worry 'bout it, don't worry 'bout it
-don't worry 'bout a mothafuckin' thing
-don't worry 'bout it, don't worry 'bout it
-we got a strap up in here if niggas playing
-when time pass and i'm not around, niggas saying i'm out of town
-probably moving them bricks around, they swear they know how i get down
-don't worry 'bout what i'm doing, don't worry 'bout what i'm doing
-my closet full of that fly shit, black card when i buy shit
-sell the shit you get high with, these niggas on my dick
-don't worry 'bout what i'm doing, don't worry 'bout what i'm doing
-that's your bitch, i understand, i've seen it all on instagram
-i'm just from the past, i done been all in that ass
-don't worry 'bout what i'm doing, don't worry 'bout what i'm doing
-don't be worry 'bout my record deals cause i still got my plug
-don't be worry 'bout my bitch pimping, she get money out that club
-don't be worry 'bout my partners and 'em, we get money, we eating
-you talk shit 'bout a real nigga, bitch, you must be tweaking
-don't be worried 'bout my whereabouts, money all i care about
-keeping it real in my neighborhood, play with me and i'mma air it out
-why you worry 'bout my money, nigga? bitch, you think i'm broke?
-the fed worry 'bout what i'm doing, think i'm selling dope
-i may be and i may not, go to jail i may rot
-i ain't never gon' snitch, nigga, never been no bitch nigga
-i got big guns, need a extra large, y'all niggas got question marks
-talking down on a real nigga, that's how you get a hater charged
-don't worry 'bout what they talking 'bout
-don't tell me what that bitch done said
-i'm done with her, you can go with her
-i'm leaving here with another bitch
-don't worry 'bout how they look at me
-my diamonds on, damn, look at me
-these pussy nigga be shooked at me
-wanna judge and throw the book at me
-don't worry 'bout it, i ain't worried 'bout it
-had time to talk to my legal team
-don't worry 'bout it, i ain't worried 'bout it
-ain't shit they could do to me
-still rocking, still rolling
-we holding, bill folding, you know it
-when i start to ball out money start to fall out
-throw it up, it fall out the sky
-baddest bitches go all out, whole bar get bought out
-that's what i call my lifestyle
+(dp1
+Vsaying
+p2
+I1
+sVshooked
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I8
+sVfall
+p6
+I2
+sVgo
+p7
+I3
+sVstill
+p8
+I3
+sVfeat
+p9
+I1
+sVaint
+p10
+I4
+sVpartners
+p11
+I1
+sVimma
+p12
+I1
+sVbaddest
+p13
+I1
+sVdick
+p14
+I1
+sVsky
+p15
+I1
+sVbike
+p16
+I1
+sVblack
+p17
+I1
+sVmarks
+p18
+I1
+sVbout
+p19
+I32
+sVhater
+p20
+I1
+sVreal
+p21
+I3
+sVtown
+p22
+I1
+sVaround
+p23
+I2
+sVyo
+p24
+I1
+sVget
+p25
+I8
+sVbig
+p26
+I1
+sVdope
+p27
+I1
+sVwatch
+p28
+I1
+sVkeeping
+p29
+I1
+sVme
+p30
+I5
+sVknow
+p31
+I3
+sVprobably
+p32
+I1
+sVjudge
+p33
+I1
+sVbar
+p34
+I1
+sV50
+p35
+I1
+sVworried
+p36
+I3
+sVdeals
+p37
+I1
+sVteam
+p38
+I1
+sVyall
+p39
+I1
+sVem
+p40
+I1
+sVnigga
+p41
+I6
+sVneighborhood
+p42
+I1
+sVinstagram
+p43
+I1
+sVdoing
+p44
+I3
+sVpast
+p45
+I1
+sVpass
+p46
+I1
+sVout
+p47
+I3
+sVlarge
+p48
+I1
+sVgon
+p49
+I1
+sVcloset
+p50
+I1
+sVrot
+p51
+I1
+sVlegal
+p52
+I1
+sVwhereabouts
+p53
+I1
+sVdiamonds
+p54
+I2
+sVgot
+p55
+I5
+sVcause
+p56
+I1
+sVguns
+p57
+I1
+sVbought
+p58
+I1
+sVass
+p59
+I1
+sVfull
+p60
+I1
+sVeating
+p61
+I1
+sVnever
+p62
+I2
+sVthrow
+p63
+I2
+sVcard
+p64
+I1
+sVcare
+p65
+I1
+sVplug
+p66
+I1
+sVboy
+p67
+I1
+sVabout
+p68
+I1
+sVfolding
+p69
+I1
+sVpimping
+p70
+I1
+sVcould
+p71
+I1
+sVleaving
+p72
+I1
+sVthing
+p73
+I1
+sVswear
+p74
+I1
+sVwhole
+p75
+I1
+sVthink
+p76
+I2
+sVthats
+p77
+I3
+sVdont
+p78
+I27
+sVextra
+p79
+I1
+sVbricks
+p80
+I1
+sVpussy
+p81
+I1
+sVstrap
+p82
+I1
+sVdown
+p83
+I1
+sVdone
+p84
+I3
+sVbitch
+p85
+I8
+sVanother
+p86
+I1
+sVbezel
+p87
+I1
+sVwan
+p88
+I1
+sVfed
+p89
+I1
+sVher
+p90
+I1
+sVquestion
+p91
+I1
+sVcent
+p92
+I1
+sVstart
+p93
+I2
+sVdamn
+p94
+I1
+sVlot
+p95
+I1
+sVcall
+p96
+I1
+sVtell
+p97
+I1
+sVbuy
+p98
+I1
+sVclub
+p99
+I1
+sVbitches
+p100
+I1
+sVunderstand
+p101
+I1
+sVbroke
+p102
+I1
+sVlifestyle
+p103
+I1
+sVrocking
+p104
+I1
+sVmust
+p105
+I1
+sVfly
+p106
+I1
+sVgotti
+p107
+I1
+sVlook
+p108
+I2
+sVniggas
+p109
+I4
+sVcar
+p110
+I1
+sVride
+p111
+I1
+sVbill
+p112
+I1
+sVair
+p113
+I1
+sVrecord
+p114
+I1
+sVtweaking
+p115
+I1
+sVive
+p116
+I1
+sVit
+p117
+I6
+sVmothafuckin
+p118
+I1
+sVhigh
+p119
+I1
+sVtalking
+p120
+I2
+sVselling
+p121
+I1
+sVim
+p122
+I14
+sVneed
+p123
+I1
+sVseen
+p124
+I1
+sVworry
+p125
+I27
+sVsell
+p126
+I1
+sVna
+p127
+I1
+sVbook
+p128
+I1
+sVshit
+p129
+I5
+sVholding
+p130
+I1
+sVplay
+p131
+I1
+sVball
+p132
+I1
+sVmay
+p133
+I3
+sVsaid
+p134
+I1
+sVmoving
+p135
+I1
+sVsnitch
+p136
+I1
+sVrolling
+p137
+I1
+sVdrive
+p138
+I1
+sVspend
+p139
+I1
+sVjail
+p140
+I1
+sVtime
+p141
+I2
+sVplaying
+p142
+I1
+sVtalk
+p143
+I2
+sVcharged
+p144
+I1
+s.

@@ -1,44 +1,398 @@
-"my own way" lyrics
-snoop dogg lyrics
-"my own way"
-(feat. mr. porter)
-bank accounts big cars
-living good like a movie star
-my mama house ain't in the hood no more
-i moved her out to san luis obispo
-but it's a trip though cause i'm a 20 crip though
-i gotta lay low my homies wanna do low
-i got two strikes and i'm a get my third
-these niggas snitching on me they think i'm selling birds
-so when i'm in the streets i'm quick on my feet
-see talk is cheap so i stay quick on my heat
-you niggas bad well dogg is badder
-rat-a-tatter make you niggas scatter
-i went shotta your boy want me now
-went to the station that nigga straight point me out
-so i'm a lay away and spray away and spray away
-cause at this time i think it's best i just stay away
-they say i am a fool cause i like to do my thing my own way
-i gotta couple strikes against me one more and i'm on my way
-i ain't got time to hang around the hood like i used to do i gotta get my bread
-keep my head it's either go to jail or get this money instead
-separate elevate
-concentrate dominate and innovate
-try to be fly as me
-and every other homie tell them lie to me
-i need a deal i need some stones
-i need some beats dogg i need a loan
-help me out throw me some cash
-if i got you got it and you ain't got to ask
-but on the real or is it lately
-a lot of homies they tried to implicate me
-they say i am changed is it the fame
-if i throw it to you then charge it to the game
-money fold overload
-in the hood another episode
-man i'm getting old the game cold
-yeah i'm from the dub but that ain't how i roll
-they say i am a fool cause i like to do my thing my own way
-i gotta couple strikes against me one more and i'm on my way
-i ain't got time to hang around the hood like i used to do i gotta get my bread
-keep my head it's either go to jail or get this money instead
+(dp1
+Vstones
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I3
+sVcheap
+p6
+I1
+sVelevate
+p7
+I1
+sVoverload
+p8
+I1
+sVgo
+p9
+I2
+sVcold
+p10
+I1
+sVfeat
+p11
+I1
+sVbirds
+p12
+I1
+sVaint
+p13
+I5
+sVimplicate
+p14
+I1
+sV20
+p15
+I1
+sVcharge
+p16
+I1
+sVhomies
+p17
+I2
+sVshotta
+p18
+I1
+sVta
+p19
+I5
+sVfool
+p20
+I2
+sVme
+p21
+I3
+sVgood
+p22
+I1
+sVaround
+p23
+I2
+sVget
+p24
+I5
+sVbig
+p25
+I1
+sVcouple
+p26
+I2
+sVgame
+p27
+I2
+sVevery
+p28
+I1
+sVnow
+p29
+I1
+sVbank
+p30
+I1
+sVbread
+p31
+I2
+sVlike
+p32
+I5
+sVtry
+p33
+I1
+sVbad
+p34
+I1
+sVeither
+p35
+I2
+sVquick
+p36
+I2
+sVwent
+p37
+I2
+sVnigga
+p38
+I1
+sVold
+p39
+I1
+sVdeal
+p40
+I1
+sVhouse
+p41
+I1
+sVstreets
+p42
+I1
+sVyeah
+p43
+I1
+sVcash
+p44
+I1
+sVfold
+p45
+I1
+sVsee
+p46
+I1
+sVbest
+p47
+I1
+sVout
+p48
+I1
+sVliving
+p49
+I1
+sVmovie
+p50
+I1
+sVaway
+p51
+I4
+sVseparate
+p52
+I1
+sVobispo
+p53
+I1
+sVgot
+p54
+I11
+sVdominate
+p55
+I1
+sVcause
+p56
+I4
+sVporter
+p57
+I1
+sVcars
+p58
+I1
+sVspray
+p59
+I2
+sVconcentrate
+p60
+I1
+sVask
+p61
+I1
+sVluis
+p62
+I1
+sVthrow
+p63
+I2
+sVboy
+p64
+I1
+sVgetting
+p65
+I1
+sVchanged
+p66
+I1
+sVfame
+p67
+I1
+sVkeep
+p68
+I2
+sVthing
+p69
+I2
+sVthink
+p70
+I2
+sVlay
+p71
+I2
+sVinnovate
+p72
+I1
+sVpoint
+p73
+I1
+sVloan
+p74
+I1
+sVone
+p75
+I2
+sVfeet
+p76
+I1
+sVaccounts
+p77
+I1
+sVanother
+p78
+I1
+sVcrip
+p79
+I1
+sVhood
+p80
+I4
+sVwan
+p81
+I1
+sVsnoop
+p82
+I1
+sVdogg
+p83
+I3
+sVdub
+p84
+I1
+sVtwo
+p85
+I1
+sVstation
+p86
+I1
+sVbadder
+p87
+I1
+sVlow
+p88
+I2
+sVway
+p89
+I6
+sVmama
+p90
+I1
+sVtell
+p91
+I1
+sVmore
+p92
+I1
+sVhead
+p93
+I2
+sVselling
+p94
+I1
+sVlot
+p95
+I1
+sVsnitching
+p96
+I1
+sVheat
+p97
+I1
+sVfly
+p98
+I1
+sVniggas
+p99
+I3
+sVstraight
+p100
+I1
+sVbeats
+p101
+I1
+sVmr
+p102
+I1
+sVscatter
+p103
+I1
+sVreal
+p104
+I1
+sVsan
+p105
+I1
+sVmoved
+p106
+I1
+sVsay
+p107
+I3
+sVhomie
+p108
+I1
+sVim
+p109
+I10
+sVwant
+p110
+I1
+sVneed
+p111
+I4
+sVtrip
+p112
+I1
+sVlie
+p113
+I1
+sVna
+p114
+I1
+sVmake
+p115
+I1
+sVlately
+p116
+I1
+sVratatatter
+p117
+I1
+sVinstead
+p118
+I2
+sVroll
+p119
+I1
+sVused
+p120
+I2
+sVstar
+p121
+I1
+sVtried
+p122
+I1
+sVthough
+p123
+I2
+sVhang
+p124
+I2
+sVstay
+p125
+I2
+sVstrikes
+p126
+I3
+sVman
+p127
+I1
+sVepisode
+p128
+I1
+sVthird
+p129
+I1
+sVwell
+p130
+I1
+sVjail
+p131
+I2
+sVtime
+p132
+I3
+sVtalk
+p133
+I1
+s.

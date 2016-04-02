@@ -1,103 +1,906 @@
-"bump heads" lyrics
-eminem lyrics
-"bump heads"
-(feat. 50 cent, g-unit)
-yeah, shady, hahahaha
-g g g g g g g g-unit
-here we go again
-does it make you mad when i switch my flow?
-you can't understand how i get my dough
-50 cent i'm on fire cause shady said so
-i'm on fire
-everybody's in a rush try to get the throne
-i just get on the track and try to set the tone
-i ain't tryna use nobody as a steppin stone
-but don't compare me
-i'm better off jus' left alone
-and i ain't even tryna go there wit record sales
-i'm just tryna keep it humble and respect myself
-say what up, keep steppin, and just rep d-12
-keep my nose clean, stay away from weapons, jail
-and livin wreckless
-but if you go check my belt
-you may see something else i used to protect myself
-a vest, to stop a rueger and deflect the shells
-and send 'em back at you faster than they left the barrel
-and i don't even carry guns no more, i don't got to
-got undercover cops that'll legally pop you
-and i done seen a lot of people cross the line
-but this motherfucker ja musta lost his mind
-that x, got him thinkin' he was dmx
-then he switched to 'pac now he's tryna be him next
-so which one are you? x, luther, pac or michael
-juss keep singin' the same song, recycled
-we'd all much rather get along and fight you
-me and hailie danced to your songs we liked you
-and you don't really wanna step inside no mic booth
-c'mon now, you know the white boy'll bite you
-i hurt your pride dawg and you know i don't like to
-but i will if i have to, with syllable after syllable i just slap you
-killin' you fasta than you poppin' pill afta little pill of them tabs of that shit you on
-but if you want it you got it you'd bump this shit too, if we ain't diss you on it
-but if we lock horns we can charge harder than busta
-we bump heads wit any motherfucker that wants to
-so whats the, deal where was all the tough talk?
-when i walked up to you like, ja what up dawg?
-how come you didn't say you had a problem then?
-when you was standin' there wit all your men, we coulda solved this then
-i'ma grown man dawg come holla
-all you did was slap hands, smile and swallow,
-another one of them little x pills in front of me
-and tell me 50 cent was everything you wanna be come on
-i know you don't want it with me
-you know you don't want it with me
-you, talk an' you soon will see
-you don't wanna bump heads with me
-i know you don't want it with me
-you, talk an' you soon you will see
-you know you don't want it with me
-you couldn't son me if my father helped you
-my punchlines is hot, my bars'll melt you
-ja you stuart little, shells'll lift you
-every other week i'm buyin a new pistol
-i clap at your ass with this chrome 38
-and put six thru your hats of seven 3/8
-irv you ain't suge knight, you should shook night
-i put my knife in ya wind pipe and freeze ya on the turnpike
-you know and i know who took ya chain
-you got robbed two times so ya ass is lame
-i'm down to die for this shit all i need is bail
-you betta stick to tha movies with steven seigel, bitch
-i know you don't want it with me
-you know you don't want it with me
-you, talk an' you soon will see
-you don't wanna bump heads with me
-i know you don't want it with me
-you, talk an' you soon you will see
-you know you don't want it with me
-fuck that i'm miles away
-and these industry niggas startin' to get outta hand
-i'ma find your whereabouts by stompin' 'em out ya man
-tellin' new york, even in compton they understand
-i'm on the block where you was raised doin' chocolate out tha game an'...
-they see me more pop a boy for icey cuz i could
-shootin' guns for money you probably forgot your way around the hood
-bitch when you paranoid it's hard to make a song
-now you want it wit' us, half your artists got to make a point
-every magazine i own your on your knees takin' prayer picture
-and you ain't even got shot yet, you scared bitches
-you don't know nuttin' about what pain is sucka
-i'll put your ass to the ground like a train conductor, muh'fucker
-i know you don't want it with me
-you know you don't want it with me
-you, talk an' you soon will see
-you don't wanna bump heads with me
-i know you don't want it with me
-you, talk an' you soon you will see
-you know you don't want it with me
-yeah nigga yeah
-shady aftermath g-unit
-fuck you think they call us g unit for
-cause we move units uhha
-don't think we ain't billin you for this motherfucking studio time
-a matter a fact keep call it a 50 we'll call it even
+(dp1
+Vson
+p2
+I1
+sVjuss
+p3
+I1
+sVstandin
+p4
+I1
+sVdiss
+p5
+I1
+sVshot
+p6
+I1
+sVlyrics
+p7
+I2
+sVswitched
+p8
+I1
+sVmoney
+p9
+I1
+sVhats
+p10
+I1
+sVhalf
+p11
+I1
+sVsoon
+p12
+I6
+sVrecycled
+p13
+I1
+sVdough
+p14
+I1
+sVirv
+p15
+I1
+sVhorns
+p16
+I1
+sVgo
+p17
+I3
+sVwhats
+p18
+I1
+sVpunchlines
+p19
+I1
+sVfeat
+p20
+I1
+sVfind
+p21
+I1
+sVdanced
+p22
+I1
+sVaint
+p23
+I6
+sVwhereabouts
+p24
+I1
+sVchain
+p25
+I1
+sVtook
+p26
+I1
+sVwed
+p27
+I1
+sVtough
+p28
+I1
+sVpoppin
+p29
+I1
+sVcuz
+p30
+I1
+sVsend
+p31
+I1
+sVbetter
+p32
+I1
+sVmic
+p33
+I1
+sVcharge
+p34
+I1
+sVchocolate
+p35
+I1
+sVboyll
+p36
+I1
+sVsmile
+p37
+I1
+sVpride
+p38
+I1
+sVpill
+p39
+I2
+sVuhha
+p40
+I1
+sVmove
+p41
+I1
+sVbillin
+p42
+I1
+sVlivin
+p43
+I1
+sVget
+p44
+I5
+sVya
+p45
+I5
+sVcould
+p46
+I1
+sVstop
+p47
+I1
+sVgame
+p48
+I1
+sVevery
+p49
+I2
+sVknow
+p50
+I17
+sVhands
+p51
+I1
+sVfront
+p52
+I1
+sVlittle
+p53
+I3
+sVthinkin
+p54
+I1
+sVartists
+p55
+I1
+sVwell
+p56
+I1
+sVlike
+p57
+I3
+sVlost
+p58
+I1
+sVknight
+p59
+I1
+sVmichael
+p60
+I1
+sV50
+p61
+I4
+sVrueger
+p62
+I1
+sVsolved
+p63
+I1
+sVmiles
+p64
+I1
+sVnose
+p65
+I1
+sVstartin
+p66
+I1
+sVnight
+p67
+I1
+sVx
+I3
+sVraised
+p68
+I1
+sVundercover
+p69
+I1
+sVclap
+p70
+I1
+sVem
+p71
+I2
+sVset
+p72
+I1
+sVnuttin
+p73
+I1
+sVdeal
+p74
+I1
+sVpeople
+p75
+I1
+sVbump
+p76
+I7
+sVluther
+p77
+I1
+sVscared
+p78
+I1
+sVhard
+p79
+I1
+sVyeah
+p80
+I3
+sVaround
+p81
+I1
+sVfreeze
+p82
+I1
+sVsee
+p83
+I8
+sVdawg
+p84
+I3
+sVsteppin
+p85
+I2
+sVbooth
+p86
+I1
+sVdie
+p87
+I1
+sVill
+p88
+I1
+sVbusta
+p89
+I1
+sVpills
+p90
+I1
+sVreally
+p91
+I1
+sVeven
+p92
+I5
+sVtry
+p93
+I2
+sVsaid
+p94
+I1
+sVnigga
+p95
+I1
+sVmovies
+p96
+I1
+sVbail
+p97
+I1
+sVaway
+p98
+I2
+sVmelt
+p99
+I1
+sVyet
+p100
+I1
+sVweapons
+p101
+I1
+sVmay
+p102
+I1
+sVmusta
+p103
+I1
+sVgot
+p104
+I7
+sVpistol
+p105
+I1
+sVcause
+p106
+I2
+sVguns
+p107
+I2
+sVknife
+p108
+I1
+sVass
+p109
+I3
+sVima
+p110
+I2
+sVsuge
+p111
+I1
+sVbitches
+p112
+I1
+sVmen
+p113
+I1
+sVmotherfucker
+p114
+I2
+sVeminem
+p115
+I1
+sVsingin
+p116
+I1
+sVstudio
+p117
+I1
+sVyork
+p118
+I1
+sVgunit
+p119
+I3
+sVaftermath
+p120
+I1
+sValong
+p121
+I1
+sVhand
+p122
+I1
+sVcome
+p123
+I3
+sVja
+p124
+I3
+sVthrone
+p125
+I1
+sVboy
+p126
+I1
+sVprotect
+p127
+I1
+sV38
+p128
+I2
+sVg
+I8
+sVcoulda
+p129
+I1
+sVhes
+p130
+I1
+sVput
+p131
+I3
+sVstep
+p132
+I1
+sVkeep
+p133
+I5
+sVparanoid
+p134
+I1
+sVmagazine
+p135
+I1
+sVstuart
+p136
+I1
+sVtha
+p137
+I2
+sVswallow
+p138
+I1
+sVshootin
+p139
+I1
+sVthink
+p140
+I2
+sVblock
+p141
+I1
+sVmotherfucking
+p142
+I1
+sVliked
+p143
+I1
+sVtone
+p144
+I1
+sVdont
+p145
+I22
+sVpoint
+p146
+I1
+sVground
+p147
+I1
+sVfather
+p148
+I1
+sVyoud
+p149
+I1
+sVvest
+p150
+I1
+sVpop
+p151
+I2
+sVone
+p152
+I2
+sValone
+p153
+I1
+sVwit
+p154
+I4
+sVdone
+p155
+I1
+sVbitch
+p156
+I2
+sVanother
+p157
+I1
+sVsteven
+p158
+I1
+sVcarry
+p159
+I1
+sVrespect
+p160
+I1
+sVcouldnt
+p161
+I1
+sVfight
+p162
+I1
+sVhood
+p163
+I1
+sVbelt
+p164
+I1
+sVfuck
+p165
+I2
+sVwan
+p166
+I5
+sVuse
+p167
+I1
+sVkillin
+p168
+I1
+sVheads
+p169
+I6
+sVstompin
+p170
+I1
+sVshells
+p171
+I1
+sVchrome
+p172
+I1
+sVbite
+p173
+I1
+sVtwo
+p174
+I1
+sVcent
+p175
+I3
+sVnext
+p176
+I1
+sVmuch
+p177
+I1
+sVcall
+p178
+I3
+sVlot
+p179
+I1
+sVlegally
+p180
+I1
+sVwhite
+p181
+I1
+sVthru
+p182
+I1
+sVtell
+p183
+I1
+sVwants
+p184
+I1
+sVtryna
+p185
+I4
+sVtellin
+p186
+I1
+sVhailie
+p187
+I1
+sVfire
+p188
+I2
+sVshellsll
+p189
+I1
+sVnobody
+p190
+I1
+sVstone
+p191
+I1
+sVback
+p192
+I1
+sVbuyin
+p193
+I1
+sVjus
+p194
+I1
+sVhurt
+p195
+I1
+sVlift
+p196
+I1
+sVunderstand
+p197
+I2
+sVstick
+p198
+I1
+sVprobably
+p199
+I1
+sVline
+p200
+I1
+sVicey
+p201
+I1
+sVmatter
+p202
+I1
+sVme
+p203
+I2
+sVbarsll
+p204
+I1
+sVrush
+p205
+I1
+sVniggas
+p206
+I1
+sVinside
+p207
+I1
+sVharder
+p208
+I1
+sVsay
+p209
+I2
+sVseven
+p210
+I1
+sVrecord
+p211
+I1
+sVconductor
+p212
+I1
+sVdmx
+p213
+I1
+sVafta
+p214
+I1
+sVproblem
+p215
+I1
+sVfact
+p216
+I1
+sVdidnt
+p217
+I1
+sVindustry
+p218
+I1
+sVsucka
+p219
+I1
+sVshook
+p220
+I1
+sVcompare
+p221
+I1
+sVcmon
+p222
+I1
+sVoutta
+p223
+I1
+sVthatll
+p224
+I1
+sVtabs
+p225
+I1
+sVlock
+p226
+I1
+sVforgot
+p227
+I1
+sVmind
+p228
+I1
+sVsales
+p229
+I1
+sVslap
+p230
+I2
+sVhelped
+p231
+I1
+sVcant
+p232
+I1
+sVway
+p233
+I1
+sVim
+p234
+I8
+sVsomething
+p235
+I1
+sVwant
+p236
+I14
+sVprayer
+p237
+I1
+sVneed
+p238
+I1
+sVseen
+p239
+I1
+sVfasta
+p240
+I1
+sVtimes
+p241
+I1
+sVcheck
+p242
+I1
+sVshit
+p243
+I3
+sVbetta
+p244
+I1
+sVgrown
+p245
+I1
+sVholla
+p246
+I1
+sVus
+p247
+I2
+sVd12
+p248
+I1
+sVlame
+p249
+I1
+sVrather
+p250
+I1
+sVna
+p251
+I5
+sVmake
+p252
+I3
+sVsong
+p253
+I2
+sVcross
+p254
+I1
+sVtakin
+p255
+I1
+sVrobbed
+p256
+I1
+sVhot
+p257
+I1
+sVpac
+p258
+I2
+sVseigel
+p259
+I1
+sVcompton
+p260
+I1
+sVunits
+p261
+I1
+sVnew
+p262
+I2
+sVwreckless
+p263
+I1
+sVweek
+p264
+I1
+sVpicture
+p265
+I1
+sVeverybodys
+p266
+I1
+sVused
+p267
+I1
+sVpain
+p268
+I1
+sVknees
+p269
+I1
+sVtrack
+p270
+I1
+sVdoin
+p271
+I1
+sVdeflect
+p272
+I1
+sVstay
+p273
+I1
+sVunit
+p274
+I1
+sVsyllable
+p275
+I2
+sVmad
+p276
+I1
+sVmuhfucker
+p277
+I1
+sVhahahaha
+p278
+I1
+sVelse
+p279
+I1
+sVsix
+p280
+I1
+sVman
+p281
+I2
+sVfaster
+p282
+I1
+sVcops
+p283
+I1
+sVshady
+p284
+I3
+sVhumble
+p285
+I1
+sVflow
+p286
+I1
+sVwalked
+p287
+I1
+sVpipe
+p288
+I1
+sVswitch
+p289
+I1
+sVtrain
+p290
+I1
+sVjail
+p291
+I1
+sVwind
+p292
+I1
+sVclean
+p293
+I1
+sVtime
+p294
+I1
+sVturnpike
+p295
+I1
+sVeverything
+p296
+I1
+sVbarrel
+p297
+I1
+sVsongs
+p298
+I1
+sVrep
+p299
+I1
+sVtalk
+p300
+I7
+sVleft
+p301
+I2
+s.

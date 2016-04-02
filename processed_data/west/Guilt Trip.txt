@@ -1,53 +1,341 @@
-guilt trip lyrics
-kanye west lyrics
-guilt trip
-feat kid cudi
-need call need make known
-nother one something gone capricorn
-dancing lawn fancy like things likes
-lives life im living mine
-dem gwaan dem dem dem gwaan
-dem gwaan gwaan gwaan chop spray
-dem gwaan dem dem dem gwaan
-dem gwaan gwaan gwaan chop spray
-maybe cause leos
-trios plus trips rio
-couldnt helped gettin cold
-better bring ski clothes pick keyhole
-door locked im feelin right now
-cause time heart got shot down
-blockablocka blocka blockablocka blocka
-pour little champagne cranberry vodka
-feelin lied like parents never said adopted
-feelings like zulu nothing shaka
-hit jamaican dick im new shabba
-lookin daddy call big poppa
-next saga
-focus future let crew knock her
-star wars fur yeah im rockin chewbacca
-one chief rocka number one chief rocka
-dem gwaan dem dem dem gwaan
-dem gwaan gwaan gwaan chop chop chop
-dem gwaan dem dem dem gwaan
-dem gwaan gwaan gwaan chop spray
-none ah dem guts rise spray
-none ah dem guts bust sk
-mind mind
-mind mind mind mind
-mind mind
-mind mind mind mind
-mind mind
-mind mind mind
-ohh
-love much whyd let go
-love much whyd let go
-love much whyd let go
-let go let go let go let go
-love much whyd let go
-let go let go
-mind mind
-mind mind mind mind
-mind mind
-mind mind mind mind
-mind mind
-mind mind mind
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVsaga
+p4
+I1
+sVfocus
+p5
+I1
+sVbring
+p6
+I1
+sVshaka
+p7
+I1
+sVgo
+p8
+I10
+sVkanye
+p9
+I1
+sVcold
+p10
+I1
+sVfeat
+p11
+I1
+sVnow
+p12
+I1
+sVdick
+p13
+I1
+sVbust
+p14
+I1
+sVcrew
+p15
+I1
+sVbetter
+p16
+I1
+sVparents
+p17
+I1
+sVski
+p18
+I1
+sVhit
+p19
+I1
+sVzulu
+p20
+I1
+sVknock
+p21
+I1
+sVbig
+p22
+I1
+sVrise
+p23
+I1
+sVfeelin
+p24
+I2
+sVnew
+p25
+I1
+sVfur
+p26
+I1
+sVfeelings
+p27
+I1
+sVpoppa
+p28
+I1
+sVtrios
+p29
+I1
+sVlike
+p30
+I3
+sVcapricorn
+p31
+I1
+sVgettin
+p32
+I1
+sVrocka
+p33
+I2
+sVclothes
+p34
+I1
+sVright
+p35
+I1
+sVyeah
+p36
+I1
+sVshabba
+p37
+I1
+sVliving
+p38
+I1
+sVsaid
+p39
+I1
+sVguilt
+p40
+I2
+sVgot
+p41
+I1
+sVchampagne
+p42
+I1
+sVcause
+p43
+I2
+sVnever
+p44
+I1
+sVspray
+p45
+I4
+sVlet
+p46
+I11
+sVchewbacca
+p47
+I1
+sVnother
+p48
+I1
+sVchop
+p49
+I6
+sVplus
+p50
+I1
+sVlookin
+p51
+I1
+sVpick
+p52
+I1
+sVcudi
+p53
+I1
+sVguts
+p54
+I2
+sVlove
+p55
+I4
+sVlied
+p56
+I1
+sVheart
+p57
+I1
+sVnumber
+p58
+I1
+sVfancy
+p59
+I1
+sVone
+p60
+I3
+sVdown
+p61
+I1
+sVleos
+p62
+I1
+sVlikes
+p63
+I1
+sVcouldnt
+p64
+I1
+sVlittle
+p65
+I1
+sVher
+p66
+I1
+sVwest
+p67
+I1
+sVadopted
+p68
+I1
+sVnext
+p69
+I1
+sVmuch
+p70
+I4
+sVcall
+p71
+I2
+sVrockin
+p72
+I1
+sVlife
+p73
+I1
+sVdoor
+p74
+I1
+sVwars
+p75
+I1
+sVlives
+p76
+I1
+sVgwaan
+p77
+I20
+sVknown
+p78
+I1
+sVnone
+p79
+I2
+sVlocked
+p80
+I1
+sVblockablocka
+p81
+I2
+sVpour
+p82
+I1
+sVfuture
+p83
+I1
+sVjamaican
+p84
+I1
+sVdem
+p85
+I22
+sVwhyd
+p86
+I4
+sVdaddy
+p87
+I1
+sVtrips
+p88
+I1
+sVgone
+p89
+I1
+sVvodka
+p90
+I1
+sVohh
+p91
+I1
+sVah
+p92
+I2
+sVmind
+p93
+I34
+sVmine
+p94
+I1
+sVhelped
+p95
+I1
+sVrio
+p96
+I1
+sVim
+p97
+I4
+sVsomething
+p98
+I1
+sVneed
+p99
+I2
+sVtrip
+p100
+I2
+sVdancing
+p101
+I1
+sVthings
+p102
+I1
+sVmake
+p103
+I1
+sVstar
+p104
+I1
+sVcranberry
+p105
+I1
+sVblocka
+p106
+I2
+sVnothing
+p107
+I1
+sVkid
+p108
+I1
+sVlawn
+p109
+I1
+sVmaybe
+p110
+I1
+sVsk
+p111
+I1
+sVchief
+p112
+I2
+sVtime
+p113
+I1
+sVkeyhole
+p114
+I1
+s.

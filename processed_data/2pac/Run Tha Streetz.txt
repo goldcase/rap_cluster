@@ -1,133 +1,738 @@
-"run tha streetz" lyrics
-2pac lyrics
-"run tha streetz"
-(feat. storm, mutah, michel'le)
-(you can run tha streetz with your thugs)
-i'll be waiting for you
-until you get through
-i'll be waiting)
-now peep it
-here go tha secret on how to keep a playa
-some love makin' and homecookin'
-i'll see ya later
-it don't take alot to keep a nigga hard
-must be a lady in tha light
-but real freaky in tha dark
-plus i got some enemies, baby
-hold my pistol
-and wrap your arms around a nigga
-everytime i kiss you
-can you visualize the picture ?
-me and you in extasy
-don't be upset
-it's good sex
-when you next to me
-do you wanna test me ?
-put your tired head on my chest
-a thug niggas in tha house
-now you can rest
-i betcha never screamed a niggas whole name out
-and felt tha pleasure and tha pain
-about to fuck tha very taste out your mouth
-if you call me when you need me
-1-800-skypage
-when you wanna see me
-cause i can be your man
-and baby you can be my lady
-but you gotta give a nigga space
-or you'll drive me crazy
-run tha streetz....
-(you can run tha streetz with your thugs)
-i'll be waiting for you
-until you get through
-i'll be waiting)
-now me and you was cool
-but i ain't tha one to play tha fool
-can't make no money in bed
-so ain't no future fuckin' you
-i ain't tha bitch ta love ya
-can't do a damn thang for you
-if you ain't about money
-9 times outta ten
-i'll ignore you
-it's a man's world
-but real women make tha shit go around
-disrespect
-and i clown
-tha type of bitch to throw down
-throw up tha block
-cause nothin' stops my chips
-i boss playa with this
-then twist you lame tricks
-holla if ya understand my plan ladies
-fuck havin' babies by them shady ass niggas
-swearin', he can save me
-my stratagies official
-checkin' ya pockets while i tounge kiss ya
-soft as tissue
-so my next issue is 'how to diss you ?'
-they call me storm
-from tha day i was born
-i been known to break tha coldest muthafucker
-till' his hearts warm
-i ain't never been tha type to wait at home alone
-just cause we bone
-don't mean you own me
-nigga, i'm grown
-(you can run tha streetz with your thugs)
-i'll be waiting for you
-until you get through
-i'll be waiting)
-i'd rather run tha streetz to make some mail
-and put tha game down tight
-for these gamin' bitches could get it right
-it might be a plan that i'm choosen
-don't get in confusion
-because i'm known for showin' examples
-how i do it
-thinkin' i'm new to this
-because i'm younger
-where i'll only leave you suspecious and to wonder
-and at tha end i make a come up
-nigga, was raiseed up
-off of m.o.b.
-fighting over something
-that's tellen me don't run tha streetz
-so tell me am i wrong ?
-for tryin' to communicate through a song
-i'm up early in tha morning
-by sunrise i'll be gone
-all my homies is waitin' for me
-plotin' on plans that we made
-and all tha fun that it's gonna be
-so meet me at 3'
-and don't be late nigga
-we hagin' out all night
-while drinkin' straight liquor
-i heard it's popin' at a club
-but they say i can't get in
-cause i'm dressed like a thug
-until i die
-i'll be game related
-got me strivin' for a million
-stayin' motivated
-now that we made it
-it's a battle
-just for tha big money
-i'm livin' wild
-no smiles
-cause ain't a thing funny
-i came up hungry
-just a little nigga
-tryin' to make it
-i only got one chance
-so i gotta take it
-ya never know when it's all gonna happen
-tha rappen or tha drugs
-but until then
-give me love
-and let me run tha streetz
-(you can run tha streetz with your thugs)
-i'll be waiting for you
-until you get through
-i'll be waiting)
+(dp1
+Vdiss
+p2
+I1
+sVstrivin
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I3
+sVrest
+p6
+I1
+sVknown
+p7
+I2
+sVthrough
+p8
+I4
+sVbattle
+p9
+I1
+sVmob
+p10
+I1
+sVgo
+p11
+I2
+sVfeat
+p12
+I1
+sVaint
+p13
+I6
+sVstayin
+p14
+I1
+sVhold
+p15
+I1
+sVtight
+p16
+I1
+sVtounge
+p17
+I1
+sVthang
+p18
+I1
+sVraiseed
+p19
+I1
+sVwaiting
+p20
+I8
+sVlate
+p21
+I1
+sVhavin
+p22
+I1
+sVsuspecious
+p23
+I1
+sVmail
+p24
+I1
+sVwomen
+p25
+I1
+sVmight
+p26
+I1
+sVta
+p27
+I3
+sVreal
+p28
+I2
+sVbreak
+p29
+I1
+sVtellen
+p30
+I1
+sVgood
+p31
+I1
+sVmotivated
+p32
+I1
+sVaround
+p33
+I2
+sVget
+p34
+I7
+sVya
+p35
+I6
+sVcould
+p36
+I1
+sVcheckin
+p37
+I1
+sVdark
+p38
+I1
+sVtest
+p39
+I1
+sVgame
+p40
+I2
+sVmade
+p41
+I2
+sVknow
+p42
+I1
+sVkiss
+p43
+I2
+sVnew
+p44
+I1
+sVworld
+p45
+I1
+sVheard
+p46
+I1
+sVlady
+p47
+I2
+sVday
+p48
+I1
+sVcool
+p49
+I1
+sVdown
+p50
+I1
+sVsmiles
+p51
+I1
+sVname
+p52
+I1
+sVeverytime
+p53
+I1
+sVcause
+p54
+I5
+sVclown
+p55
+I1
+sVmorning
+p56
+I1
+sVignore
+p57
+I1
+sVnight
+p58
+I1
+sVextasy
+p59
+I1
+sVsoft
+p60
+I1
+sVbone
+p61
+I1
+sVmean
+p62
+I1
+sVstreetz
+p63
+I10
+sVnigga
+p64
+I7
+sVten
+p65
+I1
+sVtired
+p66
+I1
+sVswearin
+p67
+I1
+sVhouse
+p68
+I1
+sVliquor
+p69
+I1
+sVhard
+p70
+I1
+sVrelated
+p71
+I1
+sVsex
+p72
+I1
+sVborn
+p73
+I1
+sVsee
+p74
+I2
+sVexamples
+p75
+I1
+sVdie
+p76
+I1
+sVhome
+p77
+I1
+sVhappen
+p78
+I1
+sVpopin
+p79
+I1
+sVsunrise
+p80
+I1
+sVenemies
+p81
+I1
+sVleave
+p82
+I1
+sVvisualize
+p83
+I1
+sVspace
+p84
+I1
+sVstops
+p85
+I1
+sVchips
+p86
+I1
+sVhomecookin
+p87
+I1
+sVrappen
+p88
+I1
+sVplaya
+p89
+I2
+sVgot
+p90
+I5
+sVpistol
+p91
+I1
+sVfreaky
+p92
+I1
+sVass
+p93
+I1
+sVbe
+p94
+I1
+sVmillion
+p95
+I1
+sVrun
+p96
+I10
+sVdrinkin
+p97
+I1
+sVconfusion
+p98
+I1
+sVnever
+p99
+I3
+sVcommunicate
+p100
+I1
+sVboss
+p101
+I1
+sVdisrespect
+p102
+I1
+sVwild
+p103
+I1
+sVlet
+p104
+I1
+sVput
+p105
+I2
+sVpeep
+p106
+I1
+sVcome
+p107
+I1
+sVthrow
+p108
+I2
+sVwait
+p109
+I1
+sVmans
+p110
+I1
+sV1800skypage
+p111
+I1
+sVill
+p112
+I13
+sVchance
+p113
+I1
+sVkeep
+p114
+I2
+sVthing
+p115
+I1
+sVplotin
+p116
+I1
+sVyoull
+p117
+I1
+sVplus
+p118
+I1
+sValot
+p119
+I1
+sVdrugs
+p120
+I1
+sVwhole
+p121
+I1
+sVfuckin
+p122
+I1
+sVthats
+p123
+I1
+sVladies
+p124
+I1
+sVlove
+p125
+I3
+sVdont
+p126
+I6
+sVgone
+p127
+I1
+sVwonder
+p128
+I1
+sVmakin
+p129
+I1
+sVone
+p130
+I2
+sVscreamed
+p131
+I1
+sValone
+p132
+I1
+sVright
+p133
+I1
+sVbitch
+p134
+I2
+sVwrap
+p135
+I1
+sVearly
+p136
+I1
+sVwan
+p137
+I2
+sVlittle
+p138
+I1
+sVhomies
+p139
+I1
+sVarms
+p140
+I1
+sVnext
+p141
+I2
+sVchoosen
+p142
+I1
+sVshowin
+p143
+I1
+sVsecret
+p144
+I1
+sVcall
+p145
+I2
+sVstorm
+p146
+I2
+sVdamn
+p147
+I1
+sVtryin
+p148
+I2
+sVtype
+p149
+I2
+sVtell
+p150
+I1
+sVhead
+p151
+I1
+sV9
+I1
+sVstratagies
+p152
+I1
+sVclub
+p153
+I1
+sVbitches
+p154
+I1
+sVfuck
+p155
+I2
+sVwarm
+p156
+I1
+sVunderstand
+p157
+I1
+sVbaby
+p158
+I2
+sVcoldest
+p159
+I1
+sVbetcha
+p160
+I1
+sV2pac
+p161
+I1
+sVmust
+p162
+I1
+sVme
+p163
+I6
+sVsave
+p164
+I1
+sVniggas
+p165
+I3
+sVthis
+p166
+I2
+sVstraight
+p167
+I1
+sVofficial
+p168
+I1
+sVhagin
+p169
+I1
+sVup
+p170
+I2
+sVbed
+p171
+I1
+sVmuthafucker
+p172
+I1
+sVfuture
+p173
+I1
+sVfun
+p174
+I1
+sVmeet
+p175
+I1
+sVshady
+p176
+I1
+sVsay
+p177
+I1
+sVsomething
+p178
+I1
+sVfool
+p179
+I1
+sVcrazy
+p180
+I1
+sVplans
+p181
+I1
+sVoutta
+p182
+I1
+sVgive
+p183
+I2
+sVtaste
+p184
+I1
+sVit
+p185
+I5
+sVhungry
+p186
+I1
+sVtwist
+p187
+I1
+sVneed
+p188
+I1
+sVcant
+p189
+I3
+sVtissue
+p190
+I1
+sVim
+p191
+I8
+sVfighting
+p192
+I1
+sVin
+p193
+I1
+sVthug
+p194
+I2
+sVtimes
+p195
+I1
+sVid
+p196
+I1
+sVshit
+p197
+I1
+sVlivin
+p198
+I1
+sVgrown
+p199
+I1
+sVholla
+p200
+I1
+sVthugs
+p201
+I4
+sVissue
+p202
+I1
+sVend
+p203
+I1
+sVlame
+p204
+I1
+sVrather
+p205
+I1
+sVna
+p206
+I4
+sVmake
+p207
+I5
+sVsong
+p208
+I1
+sVtill
+p209
+I1
+sVchest
+p210
+I1
+sVtake
+p211
+I2
+sVbabies
+p212
+I1
+sVbig
+p213
+I1
+sVmutah
+p214
+I1
+sVyou
+p215
+I8
+sVout
+p216
+I1
+sVwaitin
+p217
+I1
+sVpicture
+p218
+I1
+sVplay
+p219
+I1
+sVpain
+p220
+I1
+sVpockets
+p221
+I1
+sVfunny
+p222
+I1
+sVfelt
+p223
+I1
+sVcame
+p224
+I1
+sV3
+I1
+sVwrong
+p225
+I1
+sVgon
+p226
+I2
+sVmouth
+p227
+I1
+sVplan
+p228
+I2
+sVhearts
+p229
+I1
+sVman
+p230
+I1
+sVmichelle
+p231
+I1
+sVyounger
+p232
+I1
+sVgamin
+p233
+I1
+sVlight
+p234
+I1
+sVtricks
+p235
+I1
+sVlater
+p236
+I1
+sVupset
+p237
+I1
+sVdrive
+p238
+I1
+sVnothin
+p239
+I1
+sVlike
+p240
+I1
+sVblock
+p241
+I1
+sVdressed
+p242
+I1
+sVpleasure
+p243
+I1
+sVthinkin
+p244
+I1
+sVtha
+p245
+I33
+s.

@@ -1,75 +1,644 @@
-"just fuckin'" lyrics
-e-40 lyrics
-"just fuckin'"
-(feat. bosko)
-what's goin on momma? i don't know why you trippin
-i don't know why you act this way, this way
-you already knew what it was from the beginnin
-you know how we've been gettin down
-i know you want this too
-we just friends right?
-we should never stop what we do
-we got a good thing goin baby
-we're not in love but we pretennnnd
-we both know we're just fu-ckin (we're fuckin)
-the situation's a win-win (it's a win-win)
-we both know we're just fu-ckin (we're fuckin)
-oooh; thick like a big bowl of grits, big tits good looks
-i knew you had some good gush gush
-cause you look like you did and i can tell it was bomb (what type)
-the type of broad to squirt when she bust a nut and she cum
-you said you know i got a man but he ain't treatin me fair
-he always gone plus he never take me nowhere
-i said what'chu tryin to tell me, he act like you don't exist?
-yup and when he come home he smell like liquor and fish
-fool don't know what he missin, he tardy and lame
-but that's his loss, and it's my game
-you got a mean throat game and your coochie is serious
-pussy so good i fuck you on your peroid
-naw we ain't in love but we can damn sho' pretend to be
-get a sack of that broccoli and a bottle of hennessy
-check into a room at the fairfield inn (and then what)
-fire up some purple, let the beatings begin (oooh)
-your girlfriends is jealous and sexually frustrated
-so of course they hated after you told 'em how i ate it
-and you know what they say about fellas with big feet
-so why you wanna put my business out in the street?
-they already give me extra long hugs and shit (what else)
-they want your position, they tryin to scoot you up out of it
-take your foot of the gas, i thought we had an arrangement
-you missin the point, it ain't gon' be no engagement
-you need to play your position, or you out of the game
-you testin my mackin, you out of yo' range
-we just fuck-buddies, i'm just stickin and bonin ya
-get somewhere with that dumb shit, stick to the formula
-i'll come over later when your kids asleep
-and so some nasty things that they gon' have to bleep
-give it to you good, while he out there trickin
-make your man say, "girl yo' coo-coo feel different!"
-we just fuckin
-baby please stop the whinin
-let me tell out your linin
-orgasms multiplyin
-under the sun that's shinin
-on-ly a fool would throw this a-wayyyyyyyyyyy (ooooh)
-we just fuckin
-don't act like you want this to end
-i know you don't, know you don't (oooh)
-we both know we're just fu-ckin (we just fuckin sweetheart)
-we can do this and still be friends
-(yeah, we can still be friends)
-we both know we're just fu-ckin (we just fuckin)
-just let me do ya baby (just let me do ya)
-just let me screw ya baby (let me screw ya)
-i swear i'll fuck you all night
-you know, i'll come through
-i got the astroglide, i got the larger size prophylactics
-lifestyle, oowop edition you smell me?
-it's therapeutic and healin
-you know we got a certain chemistry sweetheart
-i come through the turf the other day
-y'knahmean they scream out - here for the hemp list
-here for the hemp list
-i go pick up a zip, stop by the liquor sto'
-pick up a bottle of beefeater and donald duck grapefruit juice
-cause i know that's yo' favorite, oooh
+(dp1
+Vbomb
+p2
+I1
+sVlyrics
+p3
+I2
+sVfuckbuddies
+p4
+I1
+sVtherapeutic
+p5
+I1
+sVcourse
+p6
+I1
+sVthrough
+p7
+I1
+sVlooks
+p8
+I1
+sVgo
+p9
+I1
+sVlove
+p10
+I2
+sVstill
+p11
+I2
+sVfeat
+p12
+I1
+sVlinin
+p13
+I1
+sVaint
+p14
+I3
+sVfellas
+p15
+I1
+sVsomewhere
+p16
+I1
+sVsituations
+p17
+I1
+sVpoint
+p18
+I1
+sVbust
+p19
+I1
+sVooooh
+p20
+I1
+sVgrapefruit
+p21
+I1
+sVthrow
+p22
+I1
+sVcum
+p23
+I1
+sVnaw
+p24
+I1
+sVfool
+p25
+I2
+sVdo
+p26
+I1
+sVtreatin
+p27
+I1
+sVweve
+p28
+I1
+sVyo
+p29
+I3
+sVtrippin
+p30
+I1
+sVya
+p31
+I5
+sVbig
+p32
+I3
+sVstop
+p33
+I3
+sVstickin
+p34
+I1
+sVgame
+p35
+I3
+sVknow
+p36
+I16
+sVformula
+p37
+I1
+sVfoot
+p38
+I1
+sVnasty
+p39
+I1
+sVday
+p40
+I1
+sVroom
+p41
+I1
+sVloss
+p42
+I1
+sVwhatchu
+p43
+I1
+sVlike
+p44
+I5
+sValways
+p45
+I1
+sVgettin
+p46
+I1
+sVlist
+p47
+I2
+sVbeginnin
+p48
+I1
+sVgush
+p49
+I2
+sVoooh
+p50
+I4
+sVmean
+p51
+I1
+sVem
+p52
+I1
+sVright
+p53
+I1
+sVwhinin
+p54
+I1
+sVfair
+p55
+I1
+sVbonin
+p56
+I1
+sVnut
+p57
+I1
+sVplay
+p58
+I1
+sVedition
+p59
+I1
+sVdonald
+p60
+I1
+sVstreet
+p61
+I1
+sVdumb
+p62
+I1
+sVastroglide
+p63
+I1
+sVsexually
+p64
+I1
+sVhome
+p65
+I1
+sVgirl
+p66
+I1
+sVyknahmean
+p67
+I1
+sVwhat
+p68
+I1
+sVsaid
+p69
+I2
+sVbusiness
+p70
+I1
+sVkids
+p71
+I1
+sVpurple
+p72
+I1
+sVbroad
+p73
+I1
+sVplease
+p74
+I1
+sVgrits
+p75
+I1
+sVit
+p76
+I2
+sVgot
+p77
+I6
+sVsquirt
+p78
+I1
+sVcause
+p79
+I2
+sVtold
+p80
+I1
+sVbe
+p81
+I1
+sVasleep
+p82
+I1
+sVknew
+p83
+I2
+sVfish
+p84
+I1
+sVbleep
+p85
+I1
+sVnever
+p86
+I2
+sVlet
+p87
+I6
+sVnowhere
+p88
+I1
+sVput
+p89
+I1
+sVcome
+p90
+I4
+sVcoochie
+p91
+I1
+sVhemp
+p92
+I2
+sVate
+p93
+I1
+sVlifestyle
+p94
+I1
+sVzip
+p95
+I1
+sVyup
+p96
+I1
+sVill
+p97
+I3
+sVlarger
+p98
+I1
+sVfavorite
+p99
+I1
+sVthing
+p100
+I1
+sVrange
+p101
+I1
+sVswear
+p102
+I1
+sVplus
+p103
+I1
+sVact
+p104
+I3
+sVturf
+p105
+I1
+sVsho
+p106
+I1
+sVfuckin
+p107
+I12
+sVthats
+p108
+I3
+sVpretennnnd
+p109
+I1
+sValready
+p110
+I2
+sVwhats
+p111
+I1
+sVdont
+p112
+I7
+sVextra
+p113
+I1
+sVfeel
+p114
+I1
+sVpussy
+p115
+I1
+sVtrickin
+p116
+I1
+sVsack
+p117
+I1
+sVdown
+p118
+I1
+sVperoid
+p119
+I1
+sVmomma
+p120
+I1
+sVduck
+p121
+I1
+sVthick
+p122
+I1
+sVsize
+p123
+I1
+sVwan
+p124
+I1
+sVwould
+p125
+I1
+sVengagement
+p126
+I1
+sVlong
+p127
+I1
+sVfairfield
+p128
+I1
+sVdamn
+p129
+I1
+sVtoo
+p130
+I1
+sVway
+p131
+I2
+sVgoin
+p132
+I2
+sVtype
+p133
+I2
+sVtell
+p134
+I3
+sVcoocoo
+p135
+I1
+sVsweetheart
+p136
+I2
+sVfire
+p137
+I1
+sVgas
+p138
+I1
+sVhennessy
+p139
+I1
+sVgirlfriends
+p140
+I1
+sVbeatings
+p141
+I1
+sVbosko
+p142
+I1
+sVstick
+p143
+I1
+sVliquor
+p144
+I2
+sVbaby
+p145
+I4
+sVsun
+p146
+I1
+sVwinwin
+p147
+I2
+sVme
+p148
+I1
+sVe40
+p149
+I1
+sVtryin
+p150
+I2
+sVlook
+p151
+I1
+sVjuice
+p152
+I1
+sVpretend
+p153
+I1
+sVsay
+p154
+I2
+sVshinin
+p155
+I1
+sVbeefeater
+p156
+I1
+sVim
+p157
+I1
+sVtestin
+p158
+I1
+sVfeet
+p159
+I1
+sVpick
+p160
+I2
+sVgone
+p161
+I1
+sVhated
+p162
+I1
+sVgive
+p163
+I2
+sVcertain
+p164
+I1
+sVmackin
+p165
+I1
+sVfuck
+p166
+I2
+sVneed
+p167
+I1
+sVinn
+p168
+I1
+sVgood
+p169
+I5
+sVexist
+p170
+I1
+sVwant
+p171
+I3
+sVoowop
+p172
+I1
+sVthroat
+p173
+I1
+sVcheck
+p174
+I1
+sVshit
+p175
+I2
+sVscrew
+p176
+I2
+sVdifferent
+p177
+I1
+sVend
+p178
+I1
+sVlame
+p179
+I1
+sVna
+p180
+I1
+sVmake
+p181
+I1
+sVget
+p182
+I2
+sVbowl
+p183
+I1
+sVarrangement
+p184
+I1
+sVtake
+p185
+I2
+sVtits
+p186
+I1
+sVhugs
+p187
+I1
+sVsmell
+p188
+I2
+sVtardy
+p189
+I1
+sVprophylactics
+p190
+I1
+sVbegin
+p191
+I1
+sVsto
+p192
+I1
+sVawayyyyyyyyyyy
+p193
+I1
+sVhealin
+p194
+I1
+sVmissin
+p195
+I2
+sVgon
+p196
+I2
+sVposition
+p197
+I2
+sVjealous
+p198
+I1
+sVelse
+p199
+I1
+sVfriends
+p200
+I3
+sVbroccoli
+p201
+I1
+sVman
+p202
+I2
+sVyeah
+p203
+I1
+sVnight
+p204
+I1
+sVlater
+p205
+I1
+sVmultiplyin
+p206
+I1
+sVthought
+p207
+I1
+sVorgasms
+p208
+I1
+sVfrustrated
+p209
+I1
+sVscoot
+p210
+I1
+sVbottle
+p211
+I2
+sVthings
+p212
+I1
+sVserious
+p213
+I1
+sVchemistry
+p214
+I1
+sVscream
+p215
+I1
+s.

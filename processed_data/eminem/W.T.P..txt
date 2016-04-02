@@ -1,113 +1,932 @@
-"w.t.p." lyrics
-eminem lyrics
-"w.t.p."
-yeah! oh! get up! i said get up! let's go!
-better watch out, now
-here we come (come)
-and we ain't stoppin' until
-we see the mornin' sun (sun)
-so give us room to do our thing
-cause we ain't come to hurt no one (one)
-so everybody come on get up on the floor
-right now and grab someone (one)
-now first of all i'm the boss
-i just wanna get that across
-man even my dentist hates when i floss
-pull up to the club in a pinto likes it's a porsche
-garbage bag for one of the windows
-spray-painted doors with the flames on 'em
-michigan plates and my name's on 'em
-baby, shady's here come on get him
-if you dames want 'em
-but he ain't stupid so quit tryin' to run them games on him
-he's immune to cupid, why you tryin' to put your claims on him?
-cause you won't do to me what you did to the last man
-now climb in back try not to kick over the gas can
-there's a half a gallon in it, that could be our last chance
-we have of just gettin' home, now could i get that lap dance?
-she's got a tattoo of me right above her ass man
-in the streets of warren, michigan we call 'em tramp stamps
-that means she belongs to me, time to put the damn clamps
-down and show this hussy who's the man
-now, get in, dance!
-now you can do this on your own
-but everyone knows that no one likes to be alone
-so get on the floor and grab somebody!
-ain't nothin' but a white trash party!
-so let's have us a little bash
-and if anyone asks
-it ain't no one but us trash
-you dunno, you better ask somebody
-cause we're havin' a white trash party!
-pull a fifth of bacardi from outta my underwear
-and walk around the party without a care
-like a body without a head
-lookin' like a zombie from night of the livin' dead
-and tomorrow i probably still be too high to get outta bed
-til i feel like i been hit wit the sharp part'a the hammer
-mixin' hennessey and fanta with pepto and mylanta
-i shoot the gift like i'm hollerin' "die santa!"
-missed the tree and hit rudolph and two innocent bystanders
-so quit tryin' ta play the wall like you balling
-get on the floor when the beat drops and stop stallin'
-they call me the stephon marbury of rap, darlin'
-cause as soon as they throw on some r-kelly i start ballin'
-makin' it rain for the ladies in the mini's
-but i'm not throwin' ones, fives, tens, or even twenties
-i'm throwin' quarters, nickels, dimes, pennies up at skinnies
-man i do this for them bunnies up at denny's
-from the north, east and west, but when
-it comes to them trailers in them south parks
-muffle it, cause homie that hood's tighter than kenny's
-so ladies if your belly button's not an innie then i'm outie
-now hop in my minivan, let's get rowdy
-c'mon
-now you can do this on your own
-but everyone knows that no one likes to be alone
-so get on the floor and grab somebody!
-ain't nothin' but a white trash party!
-so let's have us a little bash
-and if anyone asks
-if there ain't no one but us trash
-you dunno, you better ask somebody
-cause we're havin' a white trash party!
-now whether you're black, white or purple
-if you're misunderstood
-but you don't give a fuck
-you ain't doin' shit that you should
-long as you know you're up to evil
-and you're no damn good
-get on the floor, man, and rep your 'hood
-now honey, don't let them pricks trip
-we should make a quick dip
-and go do some donuts in the hospital parkin' lot
-cause girl i got a sick wip
-kick the back window outta my gremlin
-put two milk crates in the trunk
-rip out the stick shift and
-make a five seater
-i'll be damned if i feed a chick
-it ain't like me to split a piece 'a dry pita
-i'll be the s-l to the i-m to the s-h-a-d-y
-and i don't need a tank top to be a wife beater
-i'll rip a tree out the ground
-and flip it upside down
-'fore i turn over a new leaf, clown
-i'll tell ya now
-i'm so raw i still need to un-thaw
-you feel me, yall?
-i shut the club down like drake in the mall
-but baby, a body like that's against the law
-you the baddest little chain with the blades i ever saw
-cold slaw containers, empty straw wrappers and all
-you got more junk in your trunk than i do in my car
-now get up!
-now you can do this on your own
-but everyone knows that no one likes to be alone
-so get on the floor and grab somebody!
-ain't nothin' but a white trash party!
-so let's have us a little bash
-and if anyone asks
-if there ain't no one but us trash
-you dunno, you better ask somebody
-cause we're havin' a white trash party!
+(dp1
+Vall
+p2
+I1
+sVrudolph
+p3
+I1
+sVkick
+p4
+I2
+sVlyrics
+p5
+I2
+sVdames
+p6
+I1
+sVdance
+p7
+I2
+sVpennies
+p8
+I1
+sVsoon
+p9
+I1
+sVstallin
+p10
+I1
+sVquarters
+p11
+I1
+sVbacardi
+p12
+I1
+sVever
+p13
+I1
+sVparks
+p14
+I1
+sVgo
+p15
+I2
+sVcold
+p16
+I1
+sVstill
+p17
+I2
+sVmilk
+p18
+I1
+sVfifth
+p19
+I1
+sVwarren
+p20
+I1
+sVaint
+p21
+I11
+sVtil
+p22
+I1
+sVchain
+p23
+I1
+sVwindow
+p24
+I1
+sVshow
+p25
+I1
+sVstamps
+p26
+I1
+sVcupid
+p27
+I1
+sVshould
+p28
+I1
+sVbetter
+p29
+I4
+sVtramp
+p30
+I1
+sVlets
+p31
+I5
+sVbelongs
+p32
+I1
+sVblack
+p33
+I1
+sVsaw
+p34
+I1
+sVinnocent
+p35
+I1
+sVfanta
+p36
+I1
+sVgirl
+p37
+I1
+sVhennessey
+p38
+I1
+sVhates
+p39
+I1
+sVta
+p40
+I1
+sVjunk
+p41
+I1
+sVsomeone
+p42
+I1
+sVsomebody
+p43
+I6
+sVaround
+p44
+I1
+sVget
+p45
+I15
+sVbeat
+p46
+I1
+sVwall
+p47
+I1
+sVmichigan
+p48
+I2
+sVwatch
+p49
+I1
+sVones
+p50
+I1
+sVfive
+p51
+I1
+sVknow
+p52
+I1
+sVhalf
+p53
+I1
+sVskinnies
+p54
+I1
+sVnow
+p55
+I2
+sVnew
+p56
+I1
+sVhim
+p57
+I3
+sVwont
+p58
+I1
+sVcar
+p59
+I1
+sVlike
+p60
+I8
+sVgift
+p61
+I1
+sVdie
+p62
+I1
+sVgettin
+p63
+I1
+sVclown
+p64
+I1
+sVtry
+p65
+I1
+sVbag
+p66
+I1
+sVmarbury
+p67
+I1
+sVstupid
+p68
+I1
+sVya
+p69
+I1
+sVhavin
+p70
+I3
+sVquick
+p71
+I1
+sVchick
+p72
+I1
+sVgrab
+p73
+I4
+sVdip
+p74
+I1
+sVyall
+p75
+I1
+sVnames
+p76
+I1
+sVem
+p77
+I4
+sVass
+p78
+I1
+sVright
+p79
+I2
+sVfives
+p80
+I1
+sVbuttons
+p81
+I1
+sVthrowin
+p82
+I2
+sVstreets
+p83
+I1
+sVyeah
+p84
+I1
+sVdead
+p85
+I1
+sVsplit
+p86
+I1
+sVsee
+p87
+I1
+sVshes
+p88
+I1
+sVhome
+p89
+I1
+sVstoppin
+p90
+I1
+sVhammer
+p91
+I1
+sVeven
+p92
+I2
+sVturn
+p93
+I1
+sVsaid
+p94
+I1
+sVleaf
+p95
+I1
+sVmissed
+p96
+I1
+sVpurple
+p97
+I1
+sVsun
+p98
+I2
+sVrep
+p99
+I1
+sVdoin
+p100
+I1
+sVfloss
+p101
+I1
+sVsick
+p102
+I1
+sVrap
+p103
+I1
+sVbeater
+p104
+I1
+sVtens
+p105
+I1
+sVgot
+p106
+I3
+sVclamps
+p107
+I1
+sVhollerin
+p108
+I1
+sVcause
+p109
+I8
+sVacross
+p110
+I1
+sVwtp
+p111
+I2
+sVgremlin
+p112
+I1
+sVshut
+p113
+I1
+sVrun
+p114
+I1
+sVbed
+p115
+I1
+sVquit
+p116
+I2
+sVbaddest
+p117
+I1
+sVnight
+p118
+I1
+sVeminem
+p119
+I1
+sVzombie
+p120
+I1
+sVlet
+p121
+I1
+sVevil
+p122
+I1
+sVsanta
+p123
+I1
+sVtrunk
+p124
+I2
+sVput
+p125
+I3
+sVboss
+p126
+I1
+sVcome
+p127
+I5
+sVthrow
+p128
+I1
+sVbash
+p129
+I3
+sVcare
+p130
+I1
+sVdry
+p131
+I1
+sVunderwear
+p132
+I1
+sVpiece
+p133
+I1
+sVlast
+p134
+I2
+sVflames
+p135
+I1
+sVoh
+p136
+I1
+sVdunno
+p137
+I3
+sVcould
+p138
+I2
+sVask
+p139
+I3
+sVdamned
+p140
+I1
+sVthing
+p141
+I1
+sVhoney
+p142
+I1
+sVempty
+p143
+I1
+sVgames
+p144
+I1
+sVlookin
+p145
+I1
+sVdonuts
+p146
+I1
+sVpita
+p147
+I1
+sVclimb
+p148
+I1
+sVdimes
+p149
+I1
+sVtop
+p150
+I1
+sVcomes
+p151
+I1
+sVfirst
+p152
+I1
+sVfeed
+p153
+I1
+sVpepto
+p154
+I1
+sVladies
+p155
+I2
+sVown
+p156
+I3
+sVdont
+p157
+I3
+sVgarbage
+p158
+I1
+sVfeel
+p159
+I2
+sVgood
+p160
+I1
+sVmakin
+p161
+I1
+sVone
+p162
+I10
+sVdown
+p163
+I1
+sVhussy
+p164
+I1
+sVeveryone
+p165
+I3
+sVlikes
+p166
+I4
+sVoutie
+p167
+I1
+sVdarlin
+p168
+I1
+sVraw
+p169
+I1
+sVminivan
+p170
+I1
+sVbody
+p171
+I2
+sVballin
+p172
+I1
+sVtomorrow
+p173
+I1
+sVhood
+p174
+I1
+sVcrates
+p175
+I1
+sVeverybody
+p176
+I1
+sVwan
+p177
+I1
+sVlittle
+p178
+I4
+sVasks
+p179
+I3
+sVhes
+p180
+I1
+sVwest
+p181
+I1
+sVhospital
+p182
+I1
+sVporsche
+p183
+I1
+sVtwo
+p184
+I2
+sVlong
+p185
+I1
+sVwhos
+p186
+I1
+sVanyone
+p187
+I3
+sVstart
+p188
+I1
+sVwit
+p189
+I1
+sVtwenties
+p190
+I1
+sVcall
+p191
+I2
+sVlot
+p192
+I1
+sVdamn
+p193
+I2
+sVwhite
+p194
+I7
+sVtryin
+p195
+I3
+sVuntil
+p196
+I1
+sVcontainers
+p197
+I1
+sVmisunderstood
+p198
+I1
+sVback
+p199
+I2
+sVhead
+p200
+I1
+sVnorth
+p201
+I1
+sVknows
+p202
+I3
+sVparkin
+p203
+I1
+sVsl
+p204
+I1
+sVclub
+p205
+I2
+sVmuffle
+p206
+I1
+sVspraypainted
+p207
+I1
+sVgas
+p208
+I1
+sVfore
+p209
+I1
+sVhurt
+p210
+I1
+sVdentist
+p211
+I1
+sVstick
+p212
+I1
+sVeast
+p213
+I1
+sVbaby
+p214
+I2
+sVprobably
+p215
+I1
+sVcmon
+p216
+I1
+sVshoot
+p217
+I1
+sVpull
+p218
+I2
+sVbunnies
+p219
+I1
+sVtank
+p220
+I1
+sVroom
+p221
+I1
+sVhop
+p222
+I1
+sVwhether
+p223
+I1
+sVbelly
+p224
+I1
+sVtree
+p225
+I2
+sVflip
+p226
+I1
+sVus
+p227
+I7
+sVtell
+p228
+I1
+sVmall
+p229
+I1
+sVhomie
+p230
+I1
+sVcan
+p231
+I1
+sVshift
+p232
+I1
+sVseater
+p233
+I1
+sVdrops
+p234
+I1
+sVill
+p235
+I4
+sVtheres
+p236
+I1
+sVand
+p237
+I1
+sVnickels
+p238
+I1
+sVoutta
+p239
+I3
+sVmylanta
+p240
+I1
+sVgive
+p241
+I2
+sVslaw
+p242
+I1
+sVfuck
+p243
+I1
+sVrip
+p244
+I2
+sVhigh
+p245
+I1
+sVbystanders
+p246
+I1
+sVmornin
+p247
+I1
+sVim
+p248
+I7
+sVwant
+p249
+I1
+sVsharp
+p250
+I1
+sVneed
+p251
+I2
+sVgallon
+p252
+I1
+sVpinto
+p253
+I1
+sValone
+p254
+I3
+sVtrip
+p255
+I1
+sVshit
+p256
+I1
+sVlivin
+p257
+I1
+sVhit
+p258
+I2
+sVtattoo
+p259
+I1
+sVfloor
+p260
+I6
+sVna
+p261
+I1
+sVmake
+p262
+I2
+sVmeans
+p263
+I1
+sVwhen
+p264
+I1
+sVballing
+p265
+I1
+sVwalk
+p266
+I1
+sVimmune
+p267
+I1
+sVparty
+p268
+I7
+sVdoors
+p269
+I1
+sVhoods
+p270
+I1
+sVplates
+p271
+I1
+sVtrash
+p272
+I9
+sVwip
+p273
+I1
+sVblades
+p274
+I1
+sVwrappers
+p275
+I1
+sVplay
+p276
+I1
+sVdrake
+p277
+I1
+sVparta
+p278
+I1
+sVstop
+p279
+I1
+sVinnie
+p280
+I1
+sVdennys
+p281
+I1
+sVrain
+p282
+I1
+sVkennys
+p283
+I1
+sVtrailers
+p284
+I1
+sVchance
+p285
+I1
+sVground
+p286
+I1
+sVmixin
+p287
+I1
+sVrkelly
+p288
+I1
+sVstephon
+p289
+I1
+sVlaw
+p290
+I1
+sVlap
+p291
+I1
+sVtighter
+p292
+I1
+sVman
+p293
+I6
+sVminis
+p294
+I1
+sVwife
+p295
+I1
+sVwindows
+p296
+I1
+sVup
+p297
+I1
+sVshady
+p298
+I1
+sVyoure
+p299
+I4
+sVrowdy
+p300
+I1
+sVnothin
+p301
+I3
+sVunthaw
+p302
+I1
+sVwithout
+p303
+I2
+sVupside
+p304
+I1
+sVsouth
+p305
+I1
+sVpricks
+p306
+I1
+sVtime
+p307
+I1
+sVshadys
+p308
+I1
+sVclaims
+p309
+I1
+sVthats
+p310
+I1
+sVstraw
+p311
+I1
+s.

@@ -1,65 +1,280 @@
-lift lyrics
-kanye west lyrics
-lift off
-jayz
-feat beyonce
-engines running
-gon’ take moon take stars
-many people know take far
-i’m supercharged
-i’m ’bout take whole thing mars
-gon’ take moon take stars
-don’t know make far
-many scars
-‘bout take whole thing mars
-lift off
-lift takin’ coat off
-showin’ tattoos i’m showoff huh
-feel pain rolled off
-got whole city go off
-many niggas wit’ bitch
-many people wanna roll now
-like know na na na know now
-know know now
-gon’ take moon take stars
-many people know take far
-i’m supercharged
-i’m ’bout take whole thing mars
-gon’ take moon take stars
-don’t know make far
-many scars
-‘bout take whole thing mars
-lift ahh ahh
-like know na na na know now
-know know now
-know know now
-know know now…
-lift off
-rappers hear watch throne
-gon pissed off
-earth boring em
-shit making dick soft
-earnhart eventually hit big wall
-5432 need fuel
-lift off
-gon’ take moon take stars
-many people know take far
-i’m supercharged
-i’m ’bout take whole thing mars
-gon’ take moon take stars
-don’t know make far
-many scars
-‘bout take whole thing mars
-20 seconds counting
-tminus 15 seconds guidance internal
-12 11 10 9
-ignition sequence start
-6 5 4 3 2 1
-zero engine running
-lift liftoff
-gon’ take moon take stars
-gon’ take moon take stars
-many people know take far
-take stars
-many people know take far
-gon’ gon’ gon’…
+(dp1
+Vlyrics
+p2
+I2
+sVgon\u2019\u2026
+p3
+I1
+sVgo
+p4
+I1
+sVearth
+p5
+I1
+sVfeat
+p6
+I1
+sV20
+p7
+I1
+sVguidance
+p8
+I1
+sVdick
+p9
+I1
+sVbeyonce
+p10
+I1
+sVwall
+p11
+I1
+sVshowin\u2019
+p12
+I1
+sV4
+I1
+sVfuel
+p13
+I1
+sVeventually
+p14
+I1
+sVhit
+p15
+I1
+sVi\u2019m
+p16
+I7
+sVbig
+p17
+I1
+sVwatch
+p18
+I1
+sVknow
+p19
+I20
+sVnow
+p20
+I6
+sVshowoff
+p21
+I1
+sV\u2018bout
+p22
+I3
+sVlike
+p23
+I2
+sV\u2019bout
+p24
+I3
+sVsoft
+p25
+I1
+sVem
+p26
+I1
+sVsequence
+p27
+I1
+sVzero
+p28
+I1
+sVtakin\u2019
+p29
+I1
+sVkanye
+p30
+I1
+sVgon
+p31
+I1
+sVmoon
+p32
+I8
+sVrolled
+p33
+I1
+sV3
+I1
+sVgot
+p34
+I1
+sVtattoos
+p35
+I1
+sVwan
+p36
+I1
+sVseconds
+p37
+I2
+sVpissed
+p38
+I1
+sVthrone
+p39
+I1
+sVmany
+p40
+I10
+sVscars
+p41
+I3
+sVthing
+p42
+I6
+sVliftoff
+p43
+I1
+sVwhole
+p44
+I7
+sVfeel
+p45
+I1
+sVahh
+p46
+I2
+sVjayz
+p47
+I1
+sVbitch
+p48
+I1
+sV5432
+p49
+I1
+sVcity
+p50
+I1
+sVengines
+p51
+I1
+sVwest
+p52
+I1
+sVnow\u2026
+p53
+I1
+sVpeople
+p54
+I6
+sVwit\u2019
+p55
+I1
+sVstart
+p56
+I1
+sV2
+I1
+sVdon\u2019t
+p57
+I3
+sVstars
+p58
+I9
+sVmars
+p59
+I6
+sVengine
+p60
+I1
+sVearnhart
+p61
+I1
+sV6
+I1
+sVhuh
+p62
+I1
+sVlift
+p63
+I8
+sVhear
+p64
+I1
+sV11
+p65
+I1
+sV10
+p66
+I1
+sV12
+p67
+I1
+sV15
+p68
+I1
+sVniggas
+p69
+I1
+sVboring
+p70
+I1
+sVignition
+p71
+I1
+sVmaking
+p72
+I1
+sVneed
+p73
+I1
+sVcounting
+p74
+I1
+sVshit
+p75
+I1
+sVna
+p76
+I7
+sVmake
+p77
+I3
+sV1
+I1
+sVfar
+p78
+I8
+sVinternal
+p79
+I1
+sV5
+I1
+sVtake
+p80
+I28
+sV9
+I1
+sVroll
+p81
+I1
+sVpain
+p82
+I1
+sVrappers
+p83
+I1
+sVrunning
+p84
+I2
+sVoff
+p85
+I8
+sVcoat
+p86
+I1
+sVgon\u2019
+p87
+I10
+sVsupercharged
+p88
+I3
+sVtminus
+p89
+I1
+s.

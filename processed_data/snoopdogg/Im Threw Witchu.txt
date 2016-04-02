@@ -1,74 +1,562 @@
-"i'm threw witchu" lyrics
-snoop dogg lyrics
-"i'm threw witchu"
-(feat. soopafly)
-yeah man, this is another 9 inch dick classic
-we wanna dedicate this one, to all the fellas
-who got a hardhead bitch, who just won't listen
-y'know?  the best thing to do, is leave her
-don't hit her, shake that ho (bitch i'm gone!)
-bitch i'm gone.. i can't take it no mo'
-i can't get through to you
-there's nothin i can say that you seem to understand
-bitch i'm gonnnnnnnnneeeeeee.. i'm out oh yeah yeah yeah
-i'm through wit'chu
-oh i'm through wit'chu, yeah
-i knew that you, was a ho back then
-and bitch you're still one now
-ya like to bust, nuts in your face
-but with that big-ass mouth
-you need to shut the fuck up, you talk too much
-i told you once before, yeah
-that pimpin don't, like to tell you twice
-so i'm walkin out that dooooooooooor
-bitch i'm gone.. oh yeah bitch i'm, oh i, i got to get the, hell outta here
-i can't get through to you
-i can't get through to you, you talk too much, i can't tell you shit
-bitch i'm gonnnnnnnnneeeeeee.. oh yeah i'm goin i got to get out
-i'm through wit'chu
-oh yeah, i'm through wit'chu bitch, yeah yeah
-(bitch i'm gone) bitch i'm through wit'chu
-i'm through wit'chu, cause i refuse to lose
-i can't be locked in your world
-(bitch i'm gone) i need to breath, i got to roll
-(i'm through wit'chu) ain't no way
-i can stay another day wit'chu
-bye bye bitch, and wit all the other pussy, yeah
-a nigga got besides yo' big head good and butt fo' ugly kids
-still livin with ya grandmama buckin mouth ass
-you shoulda known, you was fuckin with a mack (mack)
-instead of steppin your game up, you got pushed way to the back
-(step off, step on back)
-i seen yo' expression, when you seen me pimpin in the club
-it looked like, it looked like you wanted to break down, down and cry
-but i just didn't give a damn, i didn't give a damn, no no i didn't
-cause bitches ain't shit, anyway, so don't even ask me why
-bitch i'm gone.. i'm i'm gone hah, yes i am, i got to get ta
-i can't get through to you
-got to get ta, got to get ta hell outta here, oh yeah
-bitch i'm gonnnnnnnnneeeeeee.. oh bitch a, i got too many bitches, anyway
-i'm through wit'chu
-to be, foolin wit'cho, ugly, ugly, ugly ass
-oh, break it down (break it down)
-oh we got to break it down (break it down, break it down)
-whoaahhh, aw yeah yeah yeah yeah
-hey hey hey, what's up baby?
-come on in, sit down, what'chu got, what'chu got there?
-y'now, i seen you today baby, you know what?
-just sit the fuck down bitch!
-i ain't playin no god damn game wit'chu right now bitch
-y'knahmean?  there's a lotta time and effort up in this shit, y'knahmean?
-wanna tell you a lil' somethin like this bitch
-i got everything, you don't have nothin
-bitch, i ain't believin a motherfuckin word you say bitch
-get yo' shit, and get the fuck outta here
-even though it's yo' motherfuckin house, get the fuck up outta here
-you know what?  i'm leavin this motherfucker
-got a fo' bedroom upstairs, i'm movin your sister in bitch
-and i gotta protective order against yo' punk bitch-ass
-so we gon' partyin all night long
-and your sister a twin so the bitch is the same bitch
-i'm out
-aw, my car is parked right outside
-i got a full tank of gas, and away i go
-bye bye
+(dp1
+Vlyrics
+p2
+I2
+sVanyway
+p3
+I2
+sVbaby
+p4
+I2
+sVparked
+p5
+I1
+sVshake
+p6
+I1
+sVgo
+p7
+I1
+sVhell
+p8
+I2
+sVyes
+p9
+I1
+sVstill
+p10
+I2
+sVfeat
+p11
+I1
+sVaint
+p12
+I4
+sVdick
+p13
+I1
+sVbust
+p14
+I1
+sVbye
+p15
+I4
+sVpartyin
+p16
+I1
+sVta
+p17
+I4
+sVthen
+p18
+I1
+sVgood
+p19
+I1
+sVhit
+p20
+I1
+sVlivin
+p21
+I1
+sVyo
+p22
+I5
+sVget
+p23
+I12
+sVya
+p24
+I2
+sVbig
+p25
+I1
+sVbreak
+p26
+I6
+sV9
+I1
+sVgame
+p27
+I2
+sVknow
+p28
+I2
+sVworld
+p29
+I1
+sVnow
+p30
+I1
+sVday
+p31
+I1
+sVwont
+p32
+I1
+sVwhatchu
+p33
+I2
+sVlike
+p34
+I5
+sVsoopafly
+p35
+I1
+sVcry
+p36
+I1
+sVleave
+p37
+I1
+sVtwice
+p38
+I1
+sVlose
+p39
+I1
+sVbuckin
+p40
+I1
+sVass
+p41
+I2
+sVmotherfuckin
+p42
+I2
+sVnigga
+p43
+I1
+sVupstairs
+p44
+I1
+sVhouse
+p45
+I1
+sVbedroom
+p46
+I1
+sVyeah
+p47
+I17
+sVsteppin
+p48
+I1
+sVfellas
+p49
+I1
+sVplayin
+p50
+I1
+sVyknahmean
+p51
+I2
+sVyknow
+p52
+I1
+sVbest
+p53
+I1
+sVout
+p54
+I2
+sVeven
+p55
+I2
+sVwhat
+p56
+I1
+sVgon
+p57
+I1
+sVlotta
+p58
+I1
+sVgod
+p59
+I1
+sVaway
+p60
+I1
+sVeverything
+p61
+I1
+sVoutside
+p62
+I1
+sVgot
+p63
+I17
+sVbitchass
+p64
+I1
+sVcause
+p65
+I2
+sVtold
+p66
+I1
+sVwitchu
+p67
+I12
+sVhah
+p68
+I1
+sVshut
+p69
+I1
+sVfull
+p70
+I1
+sVright
+p71
+I2
+sVword
+p72
+I1
+sVnight
+p73
+I1
+sVmotherfucker
+p74
+I1
+sVhere
+p75
+I3
+sVstep
+p76
+I2
+sVbesides
+p77
+I1
+sVask
+p78
+I1
+sVwitcho
+p79
+I1
+sVwanted
+p80
+I1
+sVcome
+p81
+I1
+sVshoulda
+p82
+I1
+sVbigass
+p83
+I1
+sVsister
+p84
+I2
+sVkids
+p85
+I1
+sVher
+p86
+I1
+sVoh
+p87
+I10
+sVmany
+p88
+I1
+sVpunk
+p89
+I1
+sVdedicate
+p90
+I1
+sVwalkin
+p91
+I1
+sVthing
+p92
+I1
+sVexpression
+p93
+I1
+sVfuckin
+p94
+I1
+sVthere
+p95
+I1
+sVwhats
+p96
+I1
+sVdont
+p97
+I4
+sVpussy
+p98
+I1
+sVone
+p99
+I2
+sVdown
+p100
+I2
+sVtwin
+p101
+I1
+sVwit
+p102
+I1
+sVbitch
+p103
+I24
+sVanother
+p104
+I2
+sVwan
+p105
+I2
+sVsnoop
+p106
+I1
+sVdogg
+p107
+I1
+sVgive
+p108
+I2
+sVgonnnnnnnnneeeeeee
+p109
+I3
+sVlong
+p110
+I1
+sVbreath
+p111
+I1
+sVmuch
+p112
+I2
+sVdamn
+p113
+I3
+sVway
+p114
+I2
+sVman
+p115
+I1
+sVtell
+p116
+I3
+sVtoday
+p117
+I1
+sVthrew
+p118
+I2
+sVhead
+p119
+I1
+sVpimpin
+p120
+I2
+sVclub
+p121
+I1
+sVbitches
+p122
+I2
+sVgas
+p123
+I1
+sVback
+p124
+I3
+sVdooooooooooor
+p125
+I1
+sVynow
+p126
+I1
+sVunderstand
+p127
+I1
+sVho
+p128
+I2
+sVbutt
+p129
+I1
+sVknown
+p130
+I1
+sVeffort
+p131
+I1
+sVlocked
+p132
+I1
+sVcar
+p133
+I1
+sVmo
+p134
+I1
+sVsay
+p135
+I2
+sVugly
+p136
+I4
+sVlisten
+p137
+I1
+sVdidnt
+p138
+I3
+sVwhoaahhh
+p139
+I1
+sVtheres
+p140
+I2
+sVgone
+p141
+I7
+sVoutta
+p142
+I4
+sVbelievin
+p143
+I1
+sVclassic
+p144
+I1
+sVfuck
+p145
+I4
+sVpushed
+p146
+I1
+sVcant
+p147
+I7
+sVprotective
+p148
+I1
+sVim
+p149
+I28
+sVaw
+p150
+I2
+sVneed
+p151
+I2
+sVseen
+p152
+I3
+sVseem
+p153
+I1
+sVshit
+p154
+I4
+sVsit
+p155
+I2
+sVlil
+p156
+I1
+sVna
+p157
+I2
+sVfoolin
+p158
+I1
+sVnuts
+p159
+I1
+sVtake
+p160
+I1
+sVfo
+p161
+I2
+sVinch
+p162
+I1
+sVinstead
+p163
+I1
+sVyou
+p164
+I3
+sVroll
+p165
+I1
+sVleavin
+p166
+I1
+sVhey
+p167
+I3
+sVthough
+p168
+I1
+sVknew
+p169
+I1
+sVmovin
+p170
+I1
+sVstay
+p171
+I1
+sVmouth
+p172
+I2
+sVmack
+p173
+I2
+sVwhy
+p174
+I1
+sVgoin
+p175
+I1
+sVsomethin
+p176
+I1
+sVrefuse
+p177
+I1
+sVtank
+p178
+I1
+sVyoure
+p179
+I1
+sVnothin
+p180
+I2
+sVface
+p181
+I1
+sVlooked
+p182
+I2
+sVhardhead
+p183
+I1
+sVtime
+p184
+I1
+sVorder
+p185
+I1
+sVtalk
+p186
+I2
+sVgrandmama
+p187
+I1
+s.

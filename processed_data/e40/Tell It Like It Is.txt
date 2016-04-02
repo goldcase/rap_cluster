@@ -1,145 +1,941 @@
-"tell it like it is" lyrics
-e-40 lyrics
-"tell it like it is"
-how can i help you
-what can i do for ya
-lookin’ for that china white
-girl that’s soft
-if i aint got it
-i know where to find it
-if i can get it for you
-boss
-how much you got in your budget
-the more you buy the less it costs
-i could front you a few off the side
-as long as your ass don’t double cross
-you crossed a lot of raccoons
-get your cranium sawed off
-i got mouths to feed my nigga
-i can’t afford to take no loss
-i can give your ass a number
-it’s up to you to keep it quite
-you can’t be a punk about nothin’
-you gotta keep the money comin’
-i’m out here
-dealin’ with these suckers
-stopin’ the fake ass
-busters
-they stab your ass in the back
-these brothers turn on you
-i know when it’s gonna get short
-how long this sureness suppose to last
-i aint got the weather channel
-to predict the forcast
-the plan is hustlin’
-‘cause there ain’t no work there aint no job
-so they stuck in playing this game
-and the next thing they gonna rob
-two faceded little ol’ heathen
-workin’ with the law
-man no matter what you do for nigga
-they aint never gonna be satisfied
-tell it like it is
-my whole thing is like
-why dudes be lettin’ cats get in their ear though
-i’m just tellin’ it like it is
-i don’t know what the fuck happened between ’96 up into now
-nigga is hoes
-i’ma tell it like it is
-man nigga is going out backwards man
-kill all this snitchin’my nigga what’s up with that
-tell it like it is
-if there was a snake it would’ve bite ya
-see you’ve been fallowin’ so many nigga you wouldn’t even know what hit ya
-now you don’t know which way to look
-you don’t really know which way to turn
-got you trying to protect yourself
-with all the bridges you done burned
-you nigga cry to us nowadays
-nigga feelings get hurt too easily
-might as well wear a tampon
-might as well be a breezy
-a closed mouth don’t get fed
-and a lazy hustler don’t get bread
-pimpin’ i can’t read minds
-i don’t know what’s in your head
-everybody think they know it all
-wanna hear nobody speak
-shut the fuck up and listen sometime
-even if you an o.g.
-personally i’m a grinder
-let no grass grow under my feet
-don’t nothin’ come to a sleeper
-but a dream
-a vision without a plan
-is just a hallucination
-i gotta lotta folks in the pen
-programmin’
-i’m gonna give it to you straight
-i ain’t gonna give it to you late
-i’ma tell your ass what’s real
-i ain’t gonna tell ya nothin’ fake
-man i got my own dreams
-everybody wants me to finance theirs
-tell it like it is
-you know who i like i like that boy 40 man
-he’s 20 years in the game and he consistent
-just tellin’ it like it is
-not all of them but allot of these new dudes is
-ringtone rappers man
-i’ma tell it like it is
-fools just have one album out
-and act like they just it
-tell it like it is
-same song third verse
-it’s from the heart it aint rehearsed
-the world is full of associates
-but very few friends
-that wanna contribute nothin’
-but wanna help spend your ends
-think before you rock yo mouth
-park your tongue and lip
-watchin who you talkin’ round
-never know who you’re havin’ dinner with
-aint got nothing good to say
-don’t say nothin’ at all
-that’s what i was told
-that’s what i was taught when i was small
-a lot of theses so called artists got too much
-talent
-you should be getting’ your money on
-instead of hatin’ on the next man
-it’s lonely at the top
-but it’s next to crowed at the bottom
-tha’s why i always keep my pistol cocked
-in case i gotta stop em’
-...
-trunk full of slap
-hollerin’ at em’ back
-pocket full of scraps
-nothin’ but thousand stacks
-i’m old school
-actin’ a fool makin’ my presence known
-i look at business face to face
-don’t like to talk on phones
-when i’m at a stop sign or a red light
-i leave one car space in front of me
-tell it like it is
-just so i could have enough room to get outta there
-just in case someone try to pop at me or something
-tell it like it is
-that’s how i was raised
-i’m still a student of the game
-you could learn from a baby
-i’ma tell it like it is
-man i was hollerin’ at my grand partner
-he said 40 return phone calls and you’ll keep your friends
-tell it like it is
-bitch
-you two faceded ass mother fuckers
-i didn’t just help create my music mother fucker
-i invented it
-everybody wanna know what the fuck mob music is
-nigga this is mob music
-poor ass mother fuckers
-bitch
+(dp1
+Vall
+p2
+I2
+sVhelp
+p3
+I3
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVmoney
+p6
+I2
+sVrob
+p7
+I1
+sVpersonally
+p8
+I1
+sVsatisfied
+p9
+I1
+sVyears
+p10
+I1
+sVtop
+p11
+I1
+sVknown
+p12
+I1
+sVkill
+p13
+I1
+sVringtone
+p14
+I1
+sVmob
+p15
+I2
+sVon
+p16
+I1
+sVstill
+p17
+I1
+sVem\u2019
+p18
+I2
+sVfind
+p19
+I1
+sVhustler
+p20
+I1
+sVaint
+p21
+I6
+sVbridges
+p22
+I1
+sV\u201996
+p23
+I1
+sV20
+p24
+I1
+sVtellin\u2019
+p25
+I2
+sVmother
+p26
+I3
+sVtrying
+p27
+I1
+sVit\u2019s
+p28
+I5
+sVenough
+p29
+I1
+sVlate
+p30
+I1
+sVverse
+p31
+I1
+sVgoing
+p32
+I1
+sVfallowin\u2019
+p33
+I1
+sVdreams
+p34
+I1
+sVfolks
+p35
+I1
+sVbread
+p36
+I1
+sVmight
+p37
+I2
+sVcreate
+p38
+I1
+sVround
+p39
+I1
+sVta
+p40
+I3
+sVreal
+p41
+I1
+sVme
+p42
+I1
+sVgood
+p43
+I1
+sVhit
+p44
+I1
+sVfinance
+p45
+I1
+sVyo
+p46
+I1
+sVget
+p47
+I8
+sVya
+p48
+I4
+sVgrand
+p49
+I1
+sVmouth
+p50
+I2
+sVdidn\u2019t
+p51
+I1
+sVpocket
+p52
+I1
+sVscraps
+p53
+I1
+sVgame
+p54
+I3
+sVknow
+p55
+I11
+sVnew
+p56
+I1
+sVfront
+p57
+I2
+sVworld
+p58
+I1
+sVnow
+p59
+I1
+sVcrossed
+p60
+I1
+sVfools
+p61
+I1
+sVlettin\u2019
+p62
+I1
+sVwould\u2019ve
+p63
+I1
+sVsnitchin\u2019my
+p64
+I1
+sVloss
+p65
+I1
+sVschool
+p66
+I1
+sVpistol
+p67
+I1
+sVcrowed
+p68
+I1
+sVlike
+p69
+I19
+sVcalled
+p70
+I1
+sVhatin\u2019
+p71
+I1
+sVcry
+p72
+I1
+sVleave
+p73
+I1
+sVstraight
+p74
+I1
+sVprogrammin\u2019
+p75
+I1
+sVrock
+p76
+I1
+sVsmall
+p77
+I1
+sVcalls
+p78
+I1
+sVtold
+p79
+I1
+sVsoft
+p80
+I1
+sVside
+p81
+I1
+sVvision
+p82
+I1
+sVass
+p83
+I7
+sVnigga
+p84
+I9
+sVold
+p85
+I1
+sVsawed
+p86
+I1
+sVconsistent
+p87
+I1
+sVartists
+p88
+I1
+sVback
+p89
+I2
+sVyou\u2019re
+p90
+I1
+sVsee
+p91
+I1
+sVtaught
+p92
+I1
+sVlearn
+p93
+I1
+sVhoes
+p94
+I1
+sVyou\u2019ll
+p95
+I1
+sVgirl
+p96
+I1
+sVthat\u2019s
+p97
+I4
+sVeven
+p98
+I2
+sVtry
+p99
+I1
+sVgon
+p100
+I6
+sVlotta
+p101
+I1
+sVbottom
+p102
+I1
+sVhe\u2019s
+p103
+I1
+sVbusiness
+p104
+I1
+sVgetting\u2019
+p105
+I1
+sVpen
+p106
+I1
+sVclosed
+p107
+I1
+sVgot
+p108
+I11
+sVburned
+p109
+I1
+sVhurt
+p110
+I1
+sVred
+p111
+I1
+sVwatchin
+p112
+I1
+sVcan\u2019t
+p113
+I3
+sVlazy
+p114
+I1
+sVfull
+p115
+I3
+sVrehearsed
+p116
+I1
+sVraccoons
+p117
+I1
+sVhollerin\u2019
+p118
+I2
+sVpresence
+p119
+I1
+sVnever
+p120
+I2
+sVactin\u2019
+p121
+I1
+sVfed
+p122
+I1
+sVhere
+p123
+I1
+sVboss
+p124
+I1
+sVfeelings
+p125
+I1
+sVjob
+p126
+I1
+sVchina
+p127
+I1
+sVlookin\u2019
+p128
+I1
+sVtrunk
+p129
+I1
+sVwouldn\u2019t
+p130
+I1
+sVsuckers
+p131
+I1
+sVquite
+p132
+I1
+sVcome
+p133
+I1
+sVboy
+p134
+I1
+sVprotect
+p135
+I1
+sVbackwards
+p136
+I1
+sVlast
+p137
+I1
+sVinvented
+p138
+I1
+sVwhat\u2019s
+p139
+I3
+sVog
+p140
+I1
+sVmany
+p141
+I1
+sVcould
+p142
+I3
+sVstacks
+p143
+I1
+sVpunk
+p144
+I1
+sVspace
+p145
+I1
+sVminds
+p146
+I1
+sVkeep
+p147
+I4
+sVturn
+p148
+I2
+sVdinner
+p149
+I1
+sVdealin\u2019
+p150
+I1
+sVol\u2019
+p151
+I1
+sVtongue
+p152
+I1
+sVwhole
+p153
+I1
+sVthink
+p154
+I2
+sVwear
+p155
+I1
+sVfeed
+p156
+I1
+sVraised
+p157
+I1
+sVcocked
+p158
+I1
+sVmakin\u2019
+p159
+I1
+sVsign
+p160
+I1
+sVnumber
+p161
+I1
+sVcranium
+p162
+I1
+sVyourself
+p163
+I1
+sVfeet
+p164
+I1
+sVpop
+p165
+I1
+sVweather
+p166
+I1
+sVdone
+p167
+I1
+sVbitch
+p168
+I2
+sVsureness
+p169
+I1
+sVfake
+p170
+I2
+sVfool
+p171
+I1
+sVnowadays
+p172
+I1
+sVbusters
+p173
+I1
+sVspeak
+p174
+I1
+sVeverybody
+p175
+I3
+sVwan
+p176
+I4
+sVlittle
+p177
+I1
+sVlight
+p178
+I1
+sVbaby
+p179
+I1
+sValways
+p180
+I1
+sVbite
+p181
+I1
+sVthere
+p182
+I1
+sVfuckers
+p183
+I2
+sVtwo
+p184
+I2
+sVlong
+p185
+I2
+sVnext
+p186
+I3
+sVstuck
+p187
+I1
+sVlonely
+p188
+I1
+sVmuch
+p189
+I2
+sVmusic
+p190
+I3
+sVdon\u2019t
+p191
+I10
+sVlot
+p192
+I2
+sVphones
+p193
+I1
+sVwhite
+p194
+I1
+sVtell
+p195
+I14
+sVlisten
+p196
+I1
+sVwants
+p197
+I1
+sVhead
+p198
+I1
+sVbuy
+p199
+I1
+sVway
+p200
+I2
+sVforcast
+p201
+I1
+sVafford
+p202
+I1
+sVthousand
+p203
+I1
+sVnobody
+p204
+I1
+sVcontribute
+p205
+I1
+sVfuck
+p206
+I3
+sVphone
+p207
+I1
+sVdudes
+p208
+I2
+sVhear
+p209
+I1
+sVtampon
+p210
+I1
+sVworkin\u2019
+p211
+I1
+sVtalent
+p212
+I1
+sVear
+p213
+I1
+sVwith
+p214
+I1
+sVcase
+p215
+I2
+sVe40
+p216
+I1
+sVlook
+p217
+I2
+sVdouble
+p218
+I1
+sVain\u2019t
+p219
+I3
+sVwork
+p220
+I1
+sVbudget
+p221
+I1
+sVus
+p222
+I1
+sVmatter
+p223
+I1
+sVassociates
+p224
+I1
+sVsuppose
+p225
+I1
+sVtheirs
+p226
+I1
+sVcats
+p227
+I1
+sVhallucination
+p228
+I1
+sVhappened
+p229
+I1
+sVtha\u2019s
+p230
+I1
+sVfaceded
+p231
+I2
+sVsomething
+p232
+I1
+sVheart
+p233
+I1
+sVstop
+p234
+I2
+sVyou\u2019ve
+p235
+I1
+sVoutta
+p236
+I1
+sVgive
+p237
+I3
+sVpredict
+p238
+I1
+sVface
+p239
+I2
+sVis
+p240
+I15
+sVpimpin\u2019
+p241
+I1
+sVone
+p242
+I2
+sVit
+p243
+I4
+sVslap
+p244
+I1
+sVreturn
+p245
+I1
+sVsay
+p246
+I2
+sVsometime
+p247
+I1
+sVout
+p248
+I1
+sVhavin\u2019
+p249
+I1
+sVshut
+p250
+I1
+sVpartner
+p251
+I1
+sVtalkin\u2019
+p252
+I1
+sVcar
+p253
+I1
+sVlet
+p254
+I1
+sVgrinder
+p255
+I1
+sVroom
+p256
+I1
+sVnothin\u2019
+p257
+I6
+sVthing
+p258
+I2
+sVends
+p259
+I1
+sVna
+p260
+I10
+sV\u2018cause
+p261
+I1
+sVcross
+p262
+I1
+sV40
+p263
+I2
+sVsomeone
+p264
+I1
+sVi\u2019m
+p265
+I7
+sVthat
+p266
+I1
+sVwithout
+p267
+I1
+sVlip
+p268
+I1
+sVtake
+p269
+I1
+sVsleeper
+p270
+I1
+sVheathen
+p271
+I1
+sVinstead
+p272
+I1
+sVyou
+p273
+I3
+sVreally
+p274
+I1
+sVchannel
+p275
+I1
+sVpoor
+p276
+I1
+sValbum
+p277
+I1
+sVhustlin\u2019
+p278
+I1
+sVi\u2019ma
+p279
+I4
+sVbrothers
+p280
+I1
+sVmouths
+p281
+I1
+sVthough
+p282
+I1
+sVeasily
+p283
+I1
+sVpark
+p284
+I1
+sVrappers
+p285
+I1
+sVact
+p286
+I1
+sVfucker
+p287
+I1
+sVsaid
+p288
+I1
+sVstab
+p289
+I1
+sVplan
+p290
+I2
+sVstudent
+p291
+I1
+sVnothing
+p292
+I1
+sVsong
+p293
+I1
+sVlaw
+p294
+I1
+sVfriends
+p295
+I2
+sVgrow
+p296
+I1
+sVman
+p297
+I8
+sVshort
+p298
+I1
+sVoff
+p299
+I1
+sVthird
+p300
+I1
+sVspend
+p301
+I1
+sVread
+p302
+I1
+sVstopin\u2019
+p303
+I1
+sVgrass
+p304
+I1
+sVwell
+p305
+I2
+sVbreezy
+p306
+I1
+sVtheses
+p307
+I1
+sVcosts
+p308
+I1
+sVallot
+p309
+I1
+sVcomin\u2019
+p310
+I1
+sVdream
+p311
+I1
+sVplaying
+p312
+I1
+sVtalk
+p313
+I1
+sVsnake
+p314
+I1
+s.

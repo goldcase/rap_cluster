@@ -1,62 +1,574 @@
-"area codes" lyrics
-ludacris lyrics
-"area codes"
-(feat. nate dogg)
-i've got hoes
-i've got hoes, in different area codes (area, area codes..codes)
-hoes, hoes, in different area codes (area, area codes..codes)
-now you thought i was just 7-7-0
-and 4-0-4, i'm worldwide bitch, act like yall don't know
-it's the abominabol "o" man
-globe-trot international post man
-neighbor-dick dope man
-7-1-8s, 2-0-2's
-i send small cities and states i-o-u's
-9-0-1, matter fact 3-0-5
-i'll jump off the d-4, we can meet outside
-so control your hormones and keep your drawers on
-'til i close the door and i'm jumping your bone
-3-1-2, 3-1-3, 2-1-5, 8-0-3
-read your hor-o-scope and eat some hor-derves
-ten i pump one these hoes is self serve
-7-5-7, 4-1-0, my cell phone says overload
-now everyday is a hol-i-day
-so stop the violence and put the 4-4 away, keeps you to hold today
-5-0-4, 9-7-2
-7-1-3, whatcha gon do
-you checkin up the scene, i'm checkin a ho tonight
-with perpendicular vehicular homicide
-3-1-4, 2-0-1
-too much green, too much fun
-i bang cock in bangkok
-can't stop, i turn and hit the same spot
-think not, i'm the thrilla in manilla,
-schlong in hong kong
-pimp em like vision, magic don juan
-man after henny with a coke and a smile
-i just pick up the muthafuckin phone and dial
-i got my condoms in a big-ass-sack
-i'm slaggin this dick like a new jack, biatch
-is it cuz they like my gangsta walk?
-is it cuz they like my gangsta talk?
-is it cuz they like my handsome face?
-is it cuz they like my gangsta ways?
-whatever it is, they love it
-and they just won't let me be
-i handle my biz, don't rush me
-just relax and let me be free
-whenever i call, come running
-2-1-2 or 2-1-3
-you know that i ball, stop frontin
-'for i call on something to free
-9-1-6, 4-1-5, 7-0-4
-shout out to the 2-0-6
-everybody in the 8-0-8
-2-1-6, 7-0-2, 4-1-4
-3-1-7, 2-1-4, 2-8-1
-3-3-4, 2-0-5, i see ya
-3-1-8, 6-0-1, 2-0-3
-8-0-4, 4-0-2, 3-0-1
-9-0-4, 4-0-7, 8-5-0
-7-0-8, 5-0-2
-and different area codes..
+(dp1
+V216
+p2
+I1
+sV214
+p3
+I1
+sV215
+p4
+I1
+sV212
+p5
+I1
+sV213
+p6
+I1
+sVlyrics
+p7
+I2
+sVludacris
+p8
+I1
+sVya
+p9
+I1
+sVbigasssack
+p10
+I1
+sVkong
+p11
+I1
+sVmanilla
+p12
+I1
+sVschlong
+p13
+I1
+sVd4
+p14
+I1
+sVfeat
+p15
+I1
+sVdick
+p16
+I1
+sVoutside
+p17
+I1
+sVsend
+p18
+I1
+sV407
+p19
+I1
+sVshout
+p20
+I1
+sV404
+p21
+I1
+sV402
+p22
+I1
+sV281
+p23
+I1
+sVsmile
+p24
+I1
+sVgangsta
+p25
+I3
+sVholiday
+p26
+I1
+sVnate
+p27
+I1
+sVdo
+p28
+I1
+sVhit
+p29
+I1
+sVread
+p30
+I1
+sVdope
+p31
+I1
+sVstop
+p32
+I3
+sVbang
+p33
+I1
+sVfrontin
+p34
+I1
+sVbiz
+p35
+I1
+sVknow
+p36
+I2
+sVinternational
+p37
+I1
+sVwalk
+p38
+I1
+sVwont
+p39
+I1
+sVmagic
+p40
+I1
+sVlike
+p41
+I7
+sVpimp
+p42
+I1
+sV414
+p43
+I1
+sV415
+p44
+I1
+sV410
+p45
+I1
+sVwhatcha
+p46
+I1
+sVsmall
+p47
+I1
+sVbone
+p48
+I1
+sVem
+p49
+I1
+sV201
+p50
+I1
+sV318
+p51
+I1
+sVsays
+p52
+I1
+sVten
+p53
+I1
+sVcuz
+p54
+I4
+sV313
+p55
+I1
+sV312
+p56
+I1
+sV317
+p57
+I1
+sV702
+p58
+I1
+sV314
+p59
+I1
+sVjump
+p60
+I1
+sVsee
+p61
+I1
+sVhoes
+p62
+I5
+sVclose
+p63
+I1
+sVdial
+p64
+I1
+sVgon
+p65
+I1
+sVways
+p66
+I1
+sVaway
+p67
+I1
+sV206
+p68
+I1
+sVoverload
+p69
+I1
+sVcell
+p70
+I1
+sVpump
+p71
+I1
+sVgot
+p72
+I3
+sV916
+p73
+I1
+sVbe
+p74
+I1
+sV301
+p75
+I1
+sV305
+p76
+I1
+sVfree
+p77
+I2
+sVperpendicular
+p78
+I1
+sVbangkok
+p79
+I1
+sVlet
+p80
+I2
+sVput
+p81
+I1
+sVpost
+p82
+I1
+sVcities
+p83
+I1
+sVcome
+p84
+I1
+sVjuan
+p85
+I1
+sVhandle
+p86
+I1
+sVon
+p87
+I1
+sV901
+p88
+I1
+sVcondoms
+p89
+I1
+sV904
+p90
+I1
+sVill
+p91
+I1
+sVviolence
+p92
+I1
+sVo
+I1
+sVkeep
+p93
+I1
+sVdrawers
+p94
+I1
+sVvehicular
+p95
+I1
+sVyall
+p96
+I1
+sVact
+p97
+I1
+sVthink
+p98
+I1
+sVlove
+p99
+I1
+sVdont
+p100
+I2
+sV334
+p101
+I1
+sVscene
+p102
+I1
+sVwhatever
+p103
+I1
+sVone
+p104
+I1
+sVbitch
+p105
+I1
+sV708
+p106
+I1
+sVeverybody
+p107
+I1
+sV850
+p108
+I1
+sV972
+p109
+I1
+sVarea
+p110
+I9
+sVdogg
+p111
+I1
+sVvision
+p112
+I1
+sVhorderves
+p113
+I1
+sV704
+p114
+I1
+sVmuch
+p115
+I2
+sVcheckin
+p116
+I2
+sV202s
+p117
+I1
+sVcall
+p118
+I2
+sV504
+p119
+I1
+sV502
+p120
+I1
+sVtoday
+p121
+I1
+sVdoor
+p122
+I1
+sVrelax
+p123
+I1
+sVcoke
+p124
+I1
+sVserve
+p125
+I1
+sVphone
+p126
+I2
+sVho
+p127
+I1
+sVbiatch
+p128
+I1
+sVhold
+p129
+I1
+sVeat
+p130
+I1
+sVhandsome
+p131
+I1
+sVme
+p132
+I1
+sVtonight
+p133
+I1
+sVrush
+p134
+I1
+sVcodescodes
+p135
+I2
+sV713
+p136
+I1
+sVmatter
+p137
+I1
+sVfun
+p138
+I1
+sVmeet
+p139
+I1
+sVcock
+p140
+I1
+sVcontrol
+p141
+I1
+sVive
+p142
+I2
+sVslaggin
+p143
+I1
+sV601
+p144
+I1
+sVit
+p145
+I1
+sVthrilla
+p146
+I1
+sVstates
+p147
+I1
+sVcant
+p148
+I1
+sVim
+p149
+I5
+sVsomething
+p150
+I1
+sV757
+p151
+I1
+sVeveryday
+p152
+I1
+sVhomicide
+p153
+I1
+sVdifferent
+p154
+I3
+sVcodes
+p155
+I5
+sVturn
+p156
+I1
+sVself
+p157
+I1
+sVtil
+p158
+I1
+sVglobetrot
+p159
+I1
+sVhenny
+p160
+I1
+sVhormones
+p161
+I1
+sVnew
+p162
+I1
+sV718s
+p163
+I1
+sVabominabol
+p164
+I1
+sVworldwide
+p165
+I1
+sV203
+p166
+I1
+sVball
+p167
+I1
+sV205
+p168
+I1
+sV770
+p169
+I1
+sVhoroscope
+p170
+I1
+sVneighbordick
+p171
+I1
+sVpick
+p172
+I1
+sVspot
+p173
+I1
+sVhong
+p174
+I1
+sVrunning
+p175
+I1
+sVjumping
+p176
+I1
+sVman
+p177
+I4
+sVwhenever
+p178
+I1
+sVious
+p179
+I1
+sVface
+p180
+I1
+sVthought
+p181
+I1
+sV808
+p182
+I1
+sVgreen
+p183
+I1
+sVtalk
+p184
+I1
+sVkeeps
+p185
+I1
+sV803
+p186
+I1
+sVmuthafuckin
+p187
+I1
+sV804
+p188
+I1
+sV44
+p189
+I1
+sVfact
+p190
+I1
+sVjack
+p191
+I1
+s.

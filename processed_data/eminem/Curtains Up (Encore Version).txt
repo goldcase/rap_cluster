@@ -1,9 +1,47 @@
-"curtains up (encore version)" lyrics
-eminem lyrics
-"curtains up (encore version)"
-still on?
-yo, is the mic on?
-check, check, check
-alright, let's do it
-let's go, come on
-(eminem, eminem, eminem)
+(dp1
+Vcurtains
+p2
+I2
+sVyo
+p3
+I1
+sVlyrics
+p4
+I2
+sVon
+p5
+I3
+sVmic
+p6
+I1
+sVit
+p7
+I1
+sVeminem
+p8
+I4
+sVgo
+p9
+I1
+sVlets
+p10
+I2
+sVversion
+p11
+I2
+sValright
+p12
+I1
+sVstill
+p13
+I1
+sVcome
+p14
+I1
+sVcheck
+p15
+I3
+sVencore
+p16
+I2
+s.

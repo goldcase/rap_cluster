@@ -1,61 +1,532 @@
-"drama never ends" lyrics
-50 cent lyrics
-"drama never ends"
-i get that gun, you know that blow and baking soda be the recipe
-fasho i make that .40 cali' blow, you get the best of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
-i know for sure i'll split your mothafuckin' head, you get to testin' me
-you call the cops and i get knocked, i swear to the death of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
-it's hard, yeah, it's hard, this that new york shit
-that black glove, wood grip, outline 'em and chalk shit
-i don't wanna talk, say a prayer for my enemies
-droptop, ten shots, i'll make your ass a memory
-time to ride, homicide, i'm down with it
-i'll wave that chopper, hit your whip and shake the ground with it
-fuck with n dot bonepart, get your ass blown apart
-hip hop's napoleon, you know war, you know me then
-i'll hunt you like a great dane
-hit you, hit you like a freight train
-run off with your fake chains
-i'll give you mothafuckas somethin' to believe in
-knife work your lungs, i'll make it hard to breathe in
-little shit could be a big enough reason
-you're dancin' with the wolves, fool, better feed them
-i feel for you, you ain't ready for the outcome
-nigga i'll get at you all week with the same gun
-i get that gun, you know that blow and baking soda be the recipe
-fasho i make that .40 cali' blow, you get the best of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
-i know for sure i'll split your mothafuckin' head, you get to testin' me
-you call the cops and i get knocked, i swear to the death of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
-me i punch every nigga first i had a fight with
-maybe it's genetics, mama made me like this
-cocaine baby, problem child, half crazy
-children of the corn, i've been warned so long
-big strap for robberies with my little 380
-i'll make your little lady miscarry a baby
-you leave the scene unseen when i get to trippin'
-pistol whip your head hard enough to blur your vision
-what up, comrade, salute, i pull rank, i got bank
-just fucked up work, askin' if we'll use shanks
-every clique i'm in my clique, nigga, i run shit
-i put in my own work, run, get who you gon' get
-this is how it feels when you squeeze a smith & wesson
-when talk is not an option, it's a form of expression
-you got to go to work on a nigga
-the red shit comin' through the shirt on a nigga
-my gift to a gravedigger
-i get that gun, you know that blow and baking soda be the recipe
-fasho i make that .40 cali' blow, you get the best of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
-i know for sure i'll split your mothafuckin' head, you get to testin' me
-you call the cops and i get knocked, i swear to the death of me
-the drama's gonna never end, never end
-keep thinkin' i'm playin'
+(dp1
+Vlyrics
+p2
+I2
+sVrecipe
+p3
+I3
+sVfreight
+p4
+I1
+sVshake
+p5
+I1
+sVgo
+p6
+I1
+sVmiscarry
+p7
+I1
+sVchildren
+p8
+I1
+sVground
+p9
+I1
+sVblow
+p10
+I6
+sVdeath
+p11
+I3
+sVhops
+p12
+I1
+sVdancin
+p13
+I1
+sVsmith
+p14
+I1
+sVbetter
+p15
+I1
+sVwood
+p16
+I1
+sVblack
+p17
+I1
+sVtestin
+p18
+I3
+sVhip
+p19
+I1
+sVthen
+p20
+I1
+sVthem
+p21
+I1
+sVhit
+p22
+I3
+sVget
+p23
+I17
+sVbig
+p24
+I2
+sVwave
+p25
+I1
+sVfeels
+p26
+I1
+sVevery
+p27
+I2
+sVknow
+p28
+I8
+sVunseen
+p29
+I1
+sVhalf
+p30
+I1
+sVlady
+p31
+I1
+sVbank
+p32
+I1
+sVapart
+p33
+I1
+sVtrippin
+p34
+I1
+sVbaking
+p35
+I3
+sVlike
+p36
+I3
+sVgift
+p37
+I1
+sVwarned
+p38
+I1
+sVdramas
+p39
+I6
+sVhunt
+p40
+I1
+sVgun
+p41
+I4
+sVglove
+p42
+I1
+sVleave
+p43
+I1
+sVsalute
+p44
+I1
+sVshots
+p45
+I1
+sVwhip
+p46
+I2
+sVvision
+p47
+I1
+sVem
+p48
+I1
+sVnigga
+p49
+I5
+sVten
+p50
+I1
+sVhard
+p51
+I4
+sVyeah
+p52
+I1
+sV50
+p53
+I1
+sVaskin
+p54
+I1
+sVplayin
+p55
+I6
+sVwesson
+p56
+I1
+sVbest
+p57
+I3
+sVenemies
+p58
+I1
+sVgon
+p59
+I7
+sVgenetics
+p60
+I1
+sVsqueeze
+p61
+I1
+sVgravedigger
+p62
+I1
+sVenough
+p63
+I2
+sVblur
+p64
+I1
+sVnew
+p65
+I1
+sVpistol
+p66
+I1
+sVchains
+p67
+I1
+sVknife
+p68
+I1
+sVass
+p69
+I2
+sVaint
+p70
+I1
+sVends
+p71
+I2
+sVrun
+p72
+I3
+sVgot
+p73
+I2
+sVcorn
+p74
+I1
+sVnever
+p75
+I14
+sVpunch
+p76
+I1
+sV380
+p77
+I1
+sVreason
+p78
+I1
+sVyork
+p79
+I1
+sVclique
+p80
+I2
+sVput
+p81
+I1
+sVproblem
+p82
+I1
+sVgreat
+p83
+I1
+sVrobberies
+p84
+I1
+sVill
+p85
+I10
+sVexpression
+p86
+I1
+sVkeep
+p87
+I6
+sVdrama
+p88
+I2
+sVswear
+p89
+I3
+sVsoda
+p90
+I3
+sVshanks
+p91
+I1
+sVfirst
+p92
+I1
+sVfeed
+p93
+I1
+sVdont
+p94
+I1
+sVblown
+p95
+I1
+sVfeel
+p96
+I1
+sVscene
+p97
+I1
+sVrank
+p98
+I1
+sVstrap
+p99
+I1
+sVlong
+p100
+I1
+sVchopper
+p101
+I1
+sVfake
+p102
+I1
+sVfool
+p103
+I1
+sVcocaine
+p104
+I1
+sVred
+p105
+I1
+sVwan
+p106
+I1
+sVlittle
+p107
+I3
+sVcent
+p108
+I1
+sVfight
+p109
+I1
+sVcali
+p110
+I3
+sVcall
+p111
+I3
+sVmemory
+p112
+I1
+sVmama
+p113
+I1
+sVdroptop
+p114
+I1
+sVwar
+p115
+I1
+sVbreathe
+p116
+I1
+sVhead
+p117
+I4
+sVoption
+p118
+I1
+sVlungs
+p119
+I1
+sVfasho
+p120
+I3
+sVcomrade
+p121
+I1
+sVfuck
+p122
+I1
+sVcops
+p123
+I3
+sVtrain
+p124
+I1
+sVchild
+p125
+I1
+sVbaby
+p126
+I2
+sVbelieve
+p127
+I1
+sVwith
+p128
+I1
+sVnapoleon
+p129
+I1
+sVme
+p130
+I9
+sVpull
+p131
+I1
+sVmade
+p132
+I1
+sVthis
+p133
+I1
+sVbonepart
+p134
+I1
+sVride
+p135
+I1
+sVwork
+p136
+I4
+sVn
+I1
+sVchalk
+p137
+I1
+sVknocked
+p138
+I3
+sVdane
+p139
+I1
+sVoutcome
+p140
+I1
+sVcould
+p141
+I1
+sVgrip
+p142
+I1
+sVcrazy
+p143
+I1
+sVgive
+p144
+I1
+sVin
+p145
+I2
+sVit
+p146
+I2
+sVmothafuckin
+p147
+I3
+sVive
+p148
+I1
+sVsay
+p149
+I1
+sVim
+p150
+I8
+sVprayer
+p151
+I1
+sVready
+p152
+I1
+sVshit
+p153
+I5
+sVhomicide
+p154
+I1
+sVend
+p155
+I12
+sVform
+p156
+I1
+sVna
+p157
+I7
+sVmake
+p158
+I6
+sVmothafuckas
+p159
+I1
+sV40
+p160
+I3
+sVsplit
+p161
+I3
+sVweek
+p162
+I1
+sVsure
+p163
+I3
+sVuse
+p164
+I1
+sVcomin
+p165
+I1
+sVfucked
+p166
+I1
+sVshirt
+p167
+I1
+sVsomethin
+p168
+I1
+sVoutline
+p169
+I1
+sVmaybe
+p170
+I1
+sVyoure
+p171
+I1
+sVwell
+p172
+I1
+sVtalk
+p173
+I2
+sVtime
+p174
+I1
+sVwolves
+p175
+I1
+sVthinkin
+p176
+I6
+sVdot
+p177
+I1
+s.

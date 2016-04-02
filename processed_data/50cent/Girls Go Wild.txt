@@ -1,75 +1,455 @@
-"girls go wild" lyrics
-50 cent lyrics
-"girls go wild"
-(feat. jeremih)
-(give it to 'em)
-give it to 'em
-don't do much talking, i just check 'em with the d
-got 'bout 3, 4 bad, bad bitches in the tub waiting for me
-oh, my favorite so damn cold, her name elise
-say she got a man, but she can't stand that he's a zero
-bitch, i'm the man, i love her belief
-bet she catch her hands, all all over me
-yeah, gon roll up a leaf
-get you high as nasa, carefull with ya asses
-i only want bad (give it to 'em)
-whatever on tab (give it to 'em)
-i'm a spend a little more change at the bar,
-tell the dj to run it back
-give it to 'em
-give it to 'em
-give it to 'em
-(give it to 'em)
-50 cent got that shit that made them "girls go wild, girls go wild"
-my shit knock in the club and it make them "girls go wild, girls go wild"
-from the front to the back let me kick it "girls go wild, girls go wild"
-i got them macking like they're rocking to my old shit "girls go wild, girls go wild"
-she want me to trick, i think this pussy one for me
-she seen my watch and all the rocks on top of my new pinky ring
-understand i'm out here in these street
-get out of line tryin' to take mine
-i get at you with the heat, boy
-girl, my swag is i'll, friends i blew a couple g's
-shorty bad, i bet ya she's a freak
-she might bring a friend if she want something to eat
-i know they want that (give it to 'em)
-whatever on tab (give it to 'em)
-i'm a spend a little more change at the bar,
-tell the dj to run it back
-give it to 'em
-give it to 'em
-give it to 'em
-(give it to 'em)
-50 cent got that shit that made them "girls go wild, girls go wild"
-my shit knock in the club and it make them "girls go wild, girls go wild"
-from the front to the back let me kick it "girls go wild, girls go wild"
-i got them macking like they rocking to my old shit "girls go wild, girls go wild"
-smoke purple shit and it slow me down, down, down
-i sip brown shit 'till my head spin round, round, round
-shorty says she wants me, you know what's up
-might pop a pill before we fuck
-basicly we all turned up, all the way turned up
-first it's fifty you know you so strong,
-that it's 'tell me how you go so long? '
-non-stop, please can we take a break
-she said "i need water, i need water"
-i don't need no crowd round when i'm performing,
-no tv, no lights, no camcorder
-i let the world know i'm a bedroom star
-ya boy a freak, i always go hard
-i only want bad (give it to 'em)
-whatever on tab (give it to 'em)
-i'm a spend a little more change at the bar,
-tell the dj to run it back
-give it to 'em
-give it to 'em
-give it to 'em
-(give it to 'em)
-50 cent got that shit that made them "girls go wild, girls go wild"
-my shit knock in the club and it make them "girls go wild, girls go wild"
-from the front to the back let me kick it "girls go wild, girls go wild"
-i got them macking like they rocking to my old shit "girls go wild, girls go wild"
-50 cent got that shit that made them "girls go wild, girls go wild"
-my shit knock in the club and it make them "girls go wild, girls go wild"
-from the front to the back let me kick it "girls go wild, girls go wild"
-i got them macking like they rocking to my old shit "girls go wild, girls go
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVhands
+p4
+I1
+sVfifty
+p5
+I1
+sVbring
+p6
+I1
+sVbedroom
+p7
+I1
+sVgo
+p8
+I36
+sVwhats
+p9
+I1
+sVcold
+p10
+I1
+sVfeat
+p11
+I1
+sVline
+p12
+I1
+sVswag
+p13
+I1
+sVslow
+p14
+I1
+sVtv
+p15
+I1
+sV3
+I1
+sV4
+I1
+sVbout
+p16
+I1
+sVmight
+p17
+I2
+sVpill
+p18
+I1
+sVkick
+p19
+I4
+sVbrown
+p20
+I1
+sVdj
+p21
+I3
+sVget
+p22
+I3
+sVya
+p23
+I3
+sVcouple
+p24
+I1
+sVwatch
+p25
+I1
+sVbreak
+p26
+I1
+sVknow
+p27
+I4
+sVgot
+p28
+I10
+sVfront
+p29
+I4
+sVworld
+p30
+I1
+sVname
+p31
+I1
+sVknock
+p32
+I4
+sVbar
+p33
+I3
+sVlike
+p34
+I4
+sValways
+p35
+I1
+sVperforming
+p36
+I1
+sV50
+p37
+I5
+sVtheyre
+p38
+I1
+sVbad
+p39
+I5
+sVround
+p40
+I4
+sVem
+p41
+I21
+sVblew
+p42
+I1
+sVold
+p43
+I4
+sVcrowd
+p44
+I1
+sVhard
+p45
+I1
+sVyeah
+p46
+I1
+sVd
+I1
+sVzero
+p47
+I1
+sVstreet
+p48
+I1
+sVshes
+p49
+I1
+sVelise
+p50
+I1
+sVgirl
+p51
+I1
+sVrocks
+p52
+I1
+sVcarefull
+p53
+I1
+sVgon
+p54
+I1
+sVleaf
+p55
+I1
+sVpurple
+p56
+I1
+sVplease
+p57
+I1
+sVlights
+p58
+I1
+sVwaiting
+p59
+I1
+sVnew
+p60
+I1
+sVrun
+p61
+I3
+sVbelief
+p62
+I1
+sVwater
+p63
+I2
+sVlet
+p64
+I5
+sVfuck
+p65
+I1
+sVtub
+p66
+I1
+sVstrong
+p67
+I1
+sVchange
+p68
+I3
+sVboy
+p69
+I2
+sVoh
+p70
+I1
+sVill
+p71
+I1
+sVfavorite
+p72
+I1
+sVstand
+p73
+I1
+sVsmoke
+p74
+I1
+sVjeremih
+p75
+I1
+sVthink
+p76
+I1
+sVfirst
+p77
+I1
+sVlove
+p78
+I1
+sVdont
+p79
+I2
+sVpussy
+p80
+I1
+sVwhatever
+p81
+I3
+sVone
+p82
+I1
+sVdown
+p83
+I1
+sVpop
+p84
+I1
+sVbitch
+p85
+I1
+sVsays
+p86
+I1
+sVring
+p87
+I1
+sVlittle
+p88
+I3
+sVlong
+p89
+I1
+sVhes
+p90
+I1
+sVtop
+p91
+I1
+sVmacking
+p92
+I4
+sVgirls
+p93
+I34
+sVcent
+p94
+I5
+sVasses
+p95
+I1
+sVmuch
+p96
+I1
+sVdamn
+p97
+I1
+sVway
+p98
+I1
+sVtryin
+p99
+I1
+sVtell
+p100
+I4
+sVfriend
+p101
+I1
+sVwants
+p102
+I1
+sVhead
+p103
+I1
+sVclub
+p104
+I4
+sVbitches
+p105
+I1
+sVshorty
+p106
+I2
+sVback
+p107
+I7
+sVheat
+p108
+I1
+sVunderstand
+p109
+I1
+sVcatch
+p110
+I1
+sVrocking
+p111
+I4
+sVspin
+p112
+I1
+sVeat
+p113
+I1
+sVme
+p114
+I3
+sVpinky
+p115
+I1
+sVmade
+p116
+I4
+sVcant
+p117
+I1
+sVtrick
+p118
+I1
+sVwild
+p119
+I33
+sVbet
+p120
+I2
+sVbasicly
+p121
+I1
+sVfreak
+p122
+I2
+sVtab
+p123
+I3
+sVgive
+p124
+I20
+sVturned
+p125
+I2
+sVmine
+p126
+I1
+sVhigh
+p127
+I1
+sVtalking
+p128
+I1
+sVsay
+p129
+I1
+sVim
+p130
+I7
+sVsomething
+p131
+I1
+sVwant
+p132
+I5
+sVneed
+p133
+I3
+sVseen
+p134
+I1
+sVcheck
+p135
+I1
+sVshit
+p136
+I14
+sVsip
+p137
+I1
+sVmake
+p138
+I4
+sVtill
+p139
+I1
+sVtake
+p140
+I2
+sVroll
+p141
+I1
+sVnonstop
+p142
+I1
+sVstar
+p143
+I1
+sVsaid
+p144
+I1
+sVfriends
+p145
+I1
+sVman
+p146
+I2
+sVup
+p147
+I2
+sVcamcorder
+p148
+I1
+sVnasa
+p149
+I1
+sVspend
+p150
+I3
+s.

@@ -1,114 +1,858 @@
-"public enemy no. 1" lyrics
-public enemy lyrics
-"public enemy no. 1"
-yo chuck, bust a move man
-i was on my way up here to the studio
-ya know what i'm sayin'
-and this brother stop me and axe me
-"yo wassup with that brother chuckie d, he swear he nice"
-i said
-"yo the brother don't swear he's nice, he knows he's nice"
-ya know what i'm sayin'
-so chuck, we gotta fill in
-you turn him into a public enemy man
-now remeber that line you was kicking to me
-on the way out to la
-while we was in the car on our way to the shot
-well yo right now kick the bass for them brothers
-and let them know
-what goes on
-what goes on
-well i'm all in - put it up on the board
-another rapper shot down from the mouth that roared
-1-2-3 down for the count
-the result of my lyrics - oh yes, no doubt
-cold rock rap - 49er supreme
-is what i choose and i use - i never lose to a team
-cause i can can go solo - like a tyson bolo
-make the fly girls wanna have my photo
-run in their room - hang it on the wall
-in remembrance that i rocked them all
-suckers, ducks, ho-hum emcees
-you can't rock the kid - so go cut the cheese
-take this application of rhymes like these
-my rap's red hot - 110 degrees
-so don't start bassin' i'll start placin'
-bets on that you'll be disgracing
-you and your mind from a beatin' from my rhymes
-a time for a crime that i can't find
-i'll show you my gun - my uzi weighs a ton
-because i'm public enemy number one
-one
-you got no rap - but you want to battle
-it's like havin' a boat - but you got no paddle
-cause i never pause - i say it because
-i don't break in stores - but i break all laws
-written while sittin' - all fittin' not bitten
-givin' me the juice that your not gettin'
-i'm not a law obeyer - so you can tell your mayor
-i'm a non-stop, rhythm rock poetry sayer
-i'm the rhyme player - the ozone layer
-a battle what? here's a bible start your prayer
-this word to the wise is justified
-if they ask you what happened - just admit you lied
-you just got caught a - for going out of order
-and now you're servin' football teams their water
-you messed with the master, word to chuck
-and i'll wax cold tax, made sure you got dome
-you just got dissed - all but dismissed
-sucker duck emcees - you get me pissed
-it's no fun - being on the run
-because they got me - public enemy number one
-one - one - one
-one - one - one
-don't you know, don't you know
-i got a posse over force to back me up
-watch out, we got never the match
-ambush attack on my back - doubleteamin', get creamed
-so we have us
-wanna hear it again
-we got a force - enemy down
-the l.i. circuit sound
-ain't it chuckie d, myself and kg - flavor, dj melody
-oh yes, i presume it's the tunes - that make us groom
-to make all the ladies swoom
-but it's also the words from outer region - a goldboy session
-kickin' like bruce lee's chinese connection
-on stereo - never ever
-all wax - yes i'm talkin' about vinyl
-they said stop freeze
-i got froze up
-because i'm public enemy number one
-one - one - one
-one - one - one
-one - one - one
-for all you suckers - liars, your cheap amplifiers
-you crossed up wires are always starting fires
-you grown up criers - now here's a pair of pliers
-get a job like your mother - i heard she fixes old dryers
-you have no desires - your father fixes tires
-you try to sell ya equipment - but you get no buyers
-it's you they never hire - you're never on flyers
-cause you and your crew - is only known as good triers
-known as the poetic political lyrical son
-i'm public enemy number one
-one - one - one
-one - one - one
-one - one - one
-yeah, that's right chuck man
-that's what you gotta do
-you gotta tell them just like that
-ya know what i'm sayin'
-cause yo man, let me tell you a little somethin' man
-these brothers runnin' around - hard headed
-makin' a little jealous
-ya know what i'm sayin'
-just like that, ya know
-they try to bring you down with 'em
-but yo chuck, you gotta let 'em know who's who in the world of beat
-you gotta let 'em know that this is the 80's
-and we can get all the ladies
-and in the backyard we got a fly mercedes
-and that's the way the story goes
-that's just the way the story goes
-let me tell you a little somethin' man
+(dp1
+Vson
+p2
+I1
+sVall
+p3
+I1
+sVshot
+p4
+I2
+sVwords
+p5
+I1
+sVlyrics
+p6
+I3
+sVshow
+p7
+I1
+sVphoto
+p8
+I1
+sVmove
+p9
+I1
+sVcheap
+p10
+I1
+sVcrew
+p11
+I1
+sVremeber
+p12
+I1
+sVwatch
+p13
+I1
+sVbring
+p14
+I1
+sVsession
+p15
+I1
+sVrocked
+p16
+I1
+sVworld
+p17
+I1
+sVgo
+p18
+I2
+sVstores
+p19
+I1
+sVyes
+p20
+I3
+sVfind
+p21
+I1
+sVuzi
+p22
+I1
+sVaint
+p23
+I1
+sVmessed
+p24
+I1
+sVcreamed
+p25
+I1
+sVcut
+p26
+I1
+sVouter
+p27
+I1
+sVsayin
+p28
+I4
+sVla
+p29
+I1
+sVswoom
+p30
+I1
+sVwassup
+p31
+I1
+sVfather
+p32
+I1
+sVpoetic
+p33
+I1
+sVbust
+p34
+I1
+sVcrime
+p35
+I1
+sVbeat
+p36
+I1
+sVhavin
+p37
+I1
+sVgoing
+p38
+I1
+sVdegrees
+p39
+I1
+sVchoose
+p40
+I1
+sVrhythm
+p41
+I1
+sVmercedes
+p42
+I1
+sVchinese
+p43
+I1
+sVplacin
+p44
+I1
+sVkick
+p45
+I1
+sVta
+p46
+I5
+sVfly
+p47
+I2
+sVservin
+p48
+I1
+sVdj
+p49
+I1
+sVgroom
+p50
+I1
+sVyo
+p51
+I6
+sVget
+p52
+I5
+sVya
+p53
+I6
+sVsucker
+p54
+I1
+sVrock
+p55
+I3
+sVstop
+p56
+I2
+sVmakin
+p57
+I1
+sVbreak
+p58
+I2
+sVchuckie
+p59
+I2
+sV123
+p60
+I1
+sVknow
+p61
+I10
+sVpresume
+p62
+I1
+sVwise
+p63
+I1
+sVheard
+p64
+I1
+sVold
+p65
+I1
+sVfroze
+p66
+I1
+sVd
+I2
+sVenemy
+p67
+I9
+sVlike
+p68
+I7
+sVyoull
+p69
+I1
+sVgettin
+p70
+I1
+sVrapper
+p71
+I1
+sVbrother
+p72
+I3
+sVteams
+p73
+I1
+sVozone
+p74
+I1
+sVliars
+p75
+I1
+sVteam
+p76
+I1
+sVtunes
+p77
+I1
+sVus
+p78
+I2
+sVem
+p79
+I3
+sVweighs
+p80
+I1
+sVright
+p81
+I2
+sVforce
+p82
+I2
+sVdo
+p83
+I1
+sVfixes
+p84
+I2
+sVhard
+p85
+I1
+sVback
+p86
+I2
+sVaround
+p87
+I1
+sVchuck
+p88
+I5
+sVtires
+p89
+I1
+sVbattle
+p90
+I2
+sVgivin
+p91
+I1
+sVsure
+p92
+I1
+sVpliers
+p93
+I1
+sVresult
+p94
+I1
+sVlittle
+p95
+I3
+sVcold
+p96
+I2
+sVflavor
+p97
+I1
+sVtry
+p98
+I2
+sVsaid
+p99
+I2
+sVheres
+p100
+I2
+sVposse
+p101
+I1
+sVfreeze
+p102
+I1
+sVpaddle
+p103
+I1
+sVmayor
+p104
+I1
+sVwritten
+p105
+I1
+sVgoes
+p106
+I4
+sVmelody
+p107
+I1
+sVgot
+p108
+I16
+sVjustified
+p109
+I1
+sVcause
+p110
+I4
+sVpublic
+p111
+I8
+sVred
+p112
+I1
+sVfittin
+p113
+I1
+sVsolo
+p114
+I1
+sVfootball
+p115
+I1
+sVrun
+p116
+I2
+sVbass
+p117
+I1
+sVdesires
+p118
+I1
+sVnever
+p119
+I6
+sVdome
+p120
+I1
+sVbolo
+p121
+I1
+sVwater
+p122
+I1
+sVkicking
+p123
+I1
+sVjob
+p124
+I1
+sVpause
+p125
+I1
+sVstudio
+p126
+I1
+sVvinyl
+p127
+I1
+sVpolitical
+p128
+I1
+sVput
+p129
+I1
+sVsuckers
+p130
+I2
+sVlyrical
+p131
+I1
+sVpissed
+p132
+I1
+sVon
+p133
+I2
+sVbible
+p134
+I1
+sVgun
+p135
+I1
+sVoh
+p136
+I2
+sVill
+p137
+I3
+sVdisgracing
+p138
+I1
+sVturn
+p139
+I1
+sVadmit
+p140
+I1
+sVswear
+p141
+I2
+sVcircuit
+p142
+I1
+sVdryers
+p143
+I1
+sVlet
+p144
+I5
+sVgoldboy
+p145
+I1
+sVthats
+p146
+I4
+sVcheese
+p147
+I1
+sVladies
+p148
+I2
+sVdont
+p149
+I5
+sVlied
+p150
+I1
+sVheaded
+p151
+I1
+sVwall
+p152
+I1
+sVconnection
+p153
+I1
+sVcriers
+p154
+I1
+sVflyers
+p155
+I1
+sVnumber
+p156
+I4
+sVone
+p157
+I29
+sVdown
+p158
+I1
+sVask
+p159
+I1
+sVbecause
+p160
+I1
+sVamplifiers
+p161
+I1
+sValways
+p162
+I1
+sVanother
+p163
+I1
+sVduck
+p164
+I1
+sVremembrance
+p165
+I1
+sVambush
+p166
+I1
+sVli
+p167
+I1
+sVboat
+p168
+I1
+sVbitten
+p169
+I1
+sVwan
+p170
+I2
+sVuse
+p171
+I1
+sVhes
+p172
+I2
+sV49er
+p173
+I1
+sVcaught
+p174
+I1
+sVgirls
+p175
+I1
+sVlayer
+p176
+I1
+sVwhos
+p177
+I1
+sVequipment
+p178
+I1
+sVstart
+p179
+I3
+sVattack
+p180
+I1
+sVdoubt
+p181
+I1
+sVton
+p182
+I1
+sVsayer
+p183
+I1
+sVway
+p184
+I5
+sVwax
+p185
+I2
+sVmaster
+p186
+I1
+sVkid
+p187
+I1
+sVtell
+p188
+I4
+sVboard
+p189
+I1
+sVroared
+p190
+I1
+sVknows
+p191
+I1
+sVjealous
+p192
+I1
+sVthat
+p193
+I1
+sVtax
+p194
+I1
+sVsound
+p195
+I1
+sVrunnin
+p196
+I1
+sVwires
+p197
+I1
+sVyeah
+p198
+I1
+sVhear
+p199
+I1
+sVbassin
+p200
+I1
+sVknown
+p201
+I2
+sVline
+p202
+I1
+sVbeatin
+p203
+I1
+sVcount
+p204
+I1
+sValso
+p205
+I1
+sVhire
+p206
+I1
+sVmade
+p207
+I1
+sVword
+p208
+I2
+sVroom
+p209
+I1
+sVplayer
+p210
+I1
+sVthese
+p211
+I1
+sVcar
+p212
+I1
+sVsay
+p213
+I1
+sVrhymes
+p214
+I2
+sVdissed
+p215
+I1
+sVcrossed
+p216
+I1
+sVmatch
+p217
+I1
+sVtriers
+p218
+I1
+sVfun
+p219
+I1
+sVhappened
+p220
+I1
+sVregion
+p221
+I1
+sVhohum
+p222
+I1
+sV110
+p223
+I1
+sVsupreme
+p224
+I1
+sVyoure
+p225
+I2
+sVever
+p226
+I1
+sVwant
+p227
+I1
+sVup
+p228
+I2
+sVraps
+p229
+I1
+sVprayer
+p230
+I1
+sVmind
+p231
+I1
+sVducks
+p232
+I1
+sVjuice
+p233
+I1
+sVcant
+p234
+I2
+sVgood
+p235
+I1
+sVim
+p236
+I12
+sVrap
+p237
+I2
+sVin
+p238
+I1
+sVlees
+p239
+I1
+sVstory
+p240
+I2
+sVfill
+p241
+I1
+sVgrown
+p242
+I1
+sVagain
+p243
+I1
+sVobeyer
+p244
+I1
+sVdoubleteamin
+p245
+I1
+sVna
+p246
+I2
+sVmake
+p247
+I3
+sVpoetry
+p248
+I1
+sVdismissed
+p249
+I1
+sV1
+I2
+sVapplication
+p250
+I1
+sVhot
+p251
+I1
+sVtake
+p252
+I1
+sV80s
+p253
+I1
+sVtalkin
+p254
+I1
+sVnonstop
+p255
+I1
+sVnice
+p256
+I3
+sVbets
+p257
+I1
+sVsell
+p258
+I1
+sVsittin
+p259
+I1
+sVemcees
+p260
+I2
+sVbrothers
+p261
+I2
+sVbruce
+p262
+I1
+sVrhyme
+p263
+I1
+sVtime
+p264
+I1
+sVhang
+p265
+I1
+sVme
+p266
+I2
+sVmother
+p267
+I1
+sVbuyers
+p268
+I1
+sVmouth
+p269
+I1
+sVpair
+p270
+I1
+sVbackyard
+p271
+I1
+sVtyson
+p272
+I1
+sVlaw
+p273
+I1
+sVman
+p274
+I6
+sVsomethin
+p275
+I2
+sVstereo
+p276
+I1
+sVkg
+p277
+I1
+sVlose
+p278
+I1
+sVwell
+p279
+I2
+sVkickin
+p280
+I1
+sVaxe
+p281
+I1
+sVfires
+p282
+I1
+sVstarting
+p283
+I1
+sVorder
+p284
+I1
+sVlaws
+p285
+I1
+s.

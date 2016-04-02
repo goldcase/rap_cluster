@@ -1,7 +1,59 @@
-"chip in da phone" lyrics
-e-40 lyrics
-"chip in da phone"
-marinatin on the corner with a chip in his phone
-you can tell that the hillside was his home
-mo' scratch than the rest of the pushers
-cause he got a chop suey in the bushes
+(dp1
+Vbushes
+p2
+I1
+sVchop
+p3
+I1
+sVe40
+p4
+I1
+sVmo
+p5
+I1
+sVlyrics
+p6
+I2
+sVscratch
+p7
+I1
+sVchip
+p8
+I3
+sVpushers
+p9
+I1
+sVmarinatin
+p10
+I1
+sVda
+p11
+I2
+sVhillside
+p12
+I1
+sVphone
+p13
+I3
+sVrest
+p14
+I1
+sVhome
+p15
+I1
+sVcorner
+p16
+I1
+sVgot
+p17
+I1
+sVcause
+p18
+I1
+sVtell
+p19
+I1
+sVsuey
+p20
+I1
+s.

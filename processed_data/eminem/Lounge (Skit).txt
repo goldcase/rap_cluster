@@ -1,10 +1,56 @@
-"lounge (skit)" lyrics
-eminem lyrics
-"lounge (skit)"
-i never meant to...
-give you mushrooms girl
-i never meant to...
-bring you to my world
-and now you're lying
-the corner cry-y-y-iiiiing
-(wooh! yeah!)
+(dp1
+Vmeant
+p2
+I2
+sVmushrooms
+p3
+I1
+sVyoure
+p4
+I1
+sVbring
+p5
+I1
+sVlyrics
+p6
+I2
+sVgive
+p7
+I1
+sVnever
+p8
+I2
+sVyeah
+p9
+I1
+sVskit
+p10
+I2
+sVcryyyiiiiing
+p11
+I1
+sVeminem
+p12
+I1
+sVlounge
+p13
+I2
+sVto
+p14
+I2
+sVcorner
+p15
+I1
+sVworld
+p16
+I1
+sVgirl
+p17
+I1
+sVlying
+p18
+I1
+sVwooh
+p19
+I1
+s.

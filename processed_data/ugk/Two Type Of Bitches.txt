@@ -1,61 +1,557 @@
-"two type of bitches" lyrics
-ugk lyrics
-"two type of bitches"
-(feat. dizzee rascal and pimpin' ken)
-well it's big bun beeda i built the track
-with girls with tens and the bitches back
-it ain't nowhere fans a bunch with these sluts
-just shake your butts and bring back that stack (stack)
-the mack is back and he's sittin on chrome
-with a piece of chain or herringbone or nugget (nugget)
-that don't mean him a real live hoe
-you ain't ready to roll then go on then, fuck it
-out them ducats, hoes better recognize
-niggaz better recollect, bun finna regulate
-i hit yo' town (what) find me a hoe stroll
-leave that bitch dry and head to another state (hold up)
-me and my brother can't wait when it come to the red
-cause we about that cash, cash
-so if we can't convince ya we'll take your sister
-hit the highway and mash
-you got, bitches that will and you got bitches that won't
-man you got, bitches that do and you got bitches that don't
-man you got, bitches that can and you got bitches that cain't
-you got bitches that know they are and bitches know that they ain't
-no down bitch
-some girls suck, some don't dare
-some girls fuck, some don't care
-i like the girl with the pussy hair
-my partner mike mo like the pussy bare
-some girls scream, some girls moan
-swang big dick, swang sweet jones
-go and get the myth out the cobra head
-girl got down you niggaz scared
-i got a young yellow bitch, i'ma sing it loud
-with a four-inch corner of jet-mink hair
-between her legs is where it great
-and get the money out the nigga when she go on a date
-i stay caked up, rocked up
-magnum rubbers stay socked up
-i ain't tryin to get the wet dick
-hold my good but she ain't that slick
-i know you want this high-dollar cum
-bitch know i got money, wanna get her some
-bitch you must, done lost your mind
-the trick's niggaz over there, you better get on the grind
-bitches not flexin ain't much good
-i should and i would keep clear if i could
-but when i do i just cawn't get away
-cause i gotta fuck all day every day
-that leaves me run loco for real
-all these chickenheads lie about deal
-ain't gotta do it up to make me chill
-find a good spot on the floor and kneel!
-know that my heart's in between my fires
-though i can't take when they look in my eyes
-lookin for love that's no surprise
-comin up off, that's family ties
-then i hit it from the back, all the way
-slap that back and just lock cross say
-not freeze out without no delay
-girls in the chat, i ain't got shit to say
+(dp1
+Vugk
+p2
+I1
+sVcobra
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I2
+sVyellow
+p6
+I1
+sVbring
+p7
+I1
+sVrocked
+p8
+I1
+sVshake
+p9
+I1
+sVgo
+p10
+I3
+sVcorner
+p11
+I1
+sVfeat
+p12
+I1
+sVfind
+p13
+I2
+sVbunch
+p14
+I1
+sVaint
+p15
+I8
+sVchain
+p16
+I1
+sVdick
+p17
+I2
+sVmyth
+p18
+I1
+sVstate
+p19
+I1
+sVswang
+p20
+I2
+sVbetter
+p21
+I3
+sVdare
+p22
+I1
+sVsweet
+p23
+I1
+sVcum
+p24
+I1
+sVchill
+p25
+I1
+sVta
+p26
+I2
+sVreal
+p27
+I2
+sVgood
+p28
+I3
+sVhit
+p29
+I3
+sVyo
+p30
+I1
+sVget
+p31
+I6
+sVya
+p32
+I1
+sVbig
+p33
+I2
+sVsittin
+p34
+I1
+sVevery
+p35
+I1
+sVknow
+p36
+I5
+sVsurprise
+p37
+I1
+sVday
+p38
+I2
+sVstroll
+p39
+I1
+sVwont
+p40
+I1
+sVlike
+p41
+I2
+sVlost
+p42
+I1
+sVnugget
+p43
+I2
+sVbrother
+p44
+I1
+sVleave
+p45
+I1
+sVhighway
+p46
+I1
+sVleaves
+p47
+I1
+sVmean
+p48
+I1
+sVnigga
+p49
+I1
+sVdeal
+p50
+I1
+sVscared
+p51
+I1
+sVsome
+p52
+I1
+sVback
+p53
+I5
+sVup
+p54
+I3
+sVhair
+p55
+I2
+sVkneel
+p56
+I1
+sVfires
+p57
+I1
+sVbare
+p58
+I1
+sVhoes
+p59
+I1
+sVgirl
+p60
+I2
+sVfinna
+p61
+I1
+sVsluts
+p62
+I1
+sVaway
+p63
+I1
+sVrascal
+p64
+I1
+sVslick
+p65
+I1
+sVtrack
+p66
+I1
+sVfans
+p67
+I1
+sVtens
+p68
+I1
+sVgot
+p69
+I13
+sVcause
+p70
+I2
+sVred
+p71
+I1
+sVken
+p72
+I1
+sVrun
+p73
+I1
+sVlove
+p74
+I1
+sVwan
+p75
+I1
+sVherringbone
+p76
+I1
+sVbutts
+p77
+I1
+sVnowhere
+p78
+I1
+sVrubbers
+p79
+I1
+sVima
+p80
+I1
+sVsing
+p81
+I1
+sVflexin
+p82
+I1
+sVcome
+p83
+I1
+sVwait
+p84
+I1
+sVdry
+p85
+I1
+sVsister
+p86
+I1
+sVcould
+p87
+I1
+sVrecollect
+p88
+I1
+sVkeep
+p89
+I1
+sVsocked
+p90
+I1
+sVlookin
+p91
+I1
+sVloud
+p92
+I1
+sVthats
+p93
+I2
+sVbeeda
+p94
+I1
+sVdont
+p95
+I4
+sVfamily
+p96
+I1
+sVpussy
+p97
+I2
+sVchickenheads
+p98
+I1
+sVyoung
+p99
+I1
+sVclear
+p100
+I1
+sVdone
+p101
+I1
+sVbitch
+p102
+I5
+sVanother
+p103
+I1
+sVcomin
+p104
+I1
+sVmoan
+p105
+I1
+sVcaked
+p106
+I1
+sVwould
+p107
+I1
+sVhes
+p108
+I1
+sVchrome
+p109
+I1
+sVgirls
+p110
+I6
+sVtwo
+p111
+I2
+sVlive
+p112
+I1
+sVmuch
+p113
+I1
+sVway
+p114
+I1
+sVlock
+p115
+I1
+sVcare
+p116
+I1
+sVtype
+p117
+I2
+sVhead
+p118
+I2
+sVpimpin
+p119
+I1
+sVmind
+p120
+I1
+sVbitches
+p121
+I12
+sVgreat
+p122
+I1
+sVfuck
+p123
+I3
+sVbun
+p124
+I2
+sVloco
+p125
+I1
+sVhold
+p126
+I2
+sVmust
+p127
+I1
+sVtown
+p128
+I1
+sVfourinch
+p129
+I1
+sVlegs
+p130
+I1
+sVlook
+p131
+I1
+sVwet
+p132
+I1
+sVmo
+p133
+I1
+sVcash
+p134
+I2
+sVniggaz
+p135
+I3
+sVconvince
+p136
+I1
+sVpiece
+p137
+I1
+sVdizzee
+p138
+I1
+sVsay
+p139
+I2
+sVchat
+p140
+I1
+sVrecognize
+p141
+I1
+sVcaint
+p142
+I1
+sVit
+p143
+I1
+sVslap
+p144
+I1
+sVfreeze
+p145
+I1
+sVcawnt
+p146
+I1
+sVcant
+p147
+I3
+sVwant
+p148
+I1
+sVready
+p149
+I1
+sVpartner
+p150
+I1
+sVregulate
+p151
+I1
+sVshit
+p152
+I1
+sVhighdollar
+p153
+I1
+sVlie
+p154
+I1
+sVhoe
+p155
+I2
+sVbuilt
+p156
+I1
+sVfloor
+p157
+I1
+sVna
+p158
+I1
+sVmake
+p159
+I1
+sVmike
+p160
+I1
+sVcross
+p161
+I1
+sVdelay
+p162
+I1
+sVtake
+p163
+I2
+sVgrind
+p164
+I1
+sVmagnum
+p165
+I1
+sVroll
+p166
+I1
+sVjetmink
+p167
+I1
+sVeyes
+p168
+I1
+sVthough
+p169
+I1
+sVducats
+p170
+I1
+sVspot
+p171
+I1
+sVstay
+p172
+I2
+sVhearts
+p173
+I1
+sVdate
+p174
+I1
+sVties
+p175
+I1
+sVsuck
+p176
+I1
+sVmack
+p177
+I1
+sVstack
+p178
+I2
+sVman
+p179
+I2
+sVjones
+p180
+I1
+sVtricks
+p181
+I1
+sVwell
+p182
+I2
+sVmash
+p183
+I1
+sVwithout
+p184
+I1
+sVtryin
+p185
+I1
+sVscream
+p186
+I1
+s.

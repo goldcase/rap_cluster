@@ -1,102 +1,418 @@
-"if i aint f'd up" lyrics
-ludacris lyrics
-"if i aint f'd up"
-i been drinkin' all night
-if i ain't fucked up i don't feel right
-if i
-ain't fucked up i don't feel right
-if i ain't fucked up i don't feel
-right
-i been smokin' all night
-if i ain't fucked up i don't feel
-right
-if i ain't fucked up i don't feel right
-if i ain't fucked up i don't
-feel right
-conjure straight up on the rocks i don't chase shit
-real nigga man, your crew be on that fake shit
-when it come to getting slizzered, man i hold the belt
-swimming pool full of liquor, bitch i'm michael phelps
-drowning all you non-drinkers, non-smokers,
-non-dippers, non-poppers
-babysitter drinking thinking that you might have to go see a doctor
-stop the bullshittin', i let these punks know
-if you ain't turnt, what the fuck you in the club for?
-these niggas must be bout that life, bitch you damn right
-get out my section, off my couch and out my damn sight
-ever since i left the crib, i hit the ground running
-tell the waitress keep
-them motherfucking bottles coming
-i been drinkin' all night
-if i ain't fucked up i don't feel
-right
-if i
-ain't fucked up i don't feel right
-if i ain't fucked up i don't
-feel
-right
-i been smokin' all night
-if i ain't fucked up i don't feel
-right
-if i ain't fucked up i don't feel right
-if i ain't fucked up i
-don't
-feel right
-the be like luda looking rough, but his rhymes smooth
-i'm in the studio, i gotta get my mind skewed
-give me that cup, give me that
-blunt, give me that sticky green
-give me that light, give me that sprite, and that promethazine
-sippin' slow, no ho, i'm not in no rush bitch
-don't tell my doctor, let's just keep this on the hush bitch
-i'm on another level, these niggas on the floor
-they be like who's luda's suplier, bitch you'll never know
-top notch, top tier, i'm a top nigga
-slap her bottom while your girlfriend give me top nigga
-told her listen, you should gargle more, and speak less
-we took some shots
-and turned that shit into a drink fest
-i been drinkin' all night
-if i ain't fucked up i don't feel right
-if i
-ain't fucked up i don't feel right
-if i ain't fucked up i don't feel
-right
-i been smokin' all night
-if i ain't fucked up i don't feel
-right
-if i ain't fucked up i don't feel right
-if i ain't fucked up i don't
-feel right
-i can't think straight
-take a smoke break
-get the blood
-goin', goin'
-light it up and
-smoke somethin'
-smoke somethin'
-smoke
-somethin'
-smoke somethin'
-i can't think straight
-take a drink
-break
-get the cup goin', goin'
-fill it up
-drink somethin'
-drink
-somethin'
-drink somethin'
-drink somethin'
-i been drinkin' all night
-if i ain't fucked up i don't feel right
-if i
-ain't fucked up i don't feel right
-if i ain't fucked up i don't feel
-right
-i been smokin' all night
-if i ain't fucked up i don't feel
-right
-if i ain't fucked up i don't feel right
-if i ain't fucked up i don't
-feel right
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVgo
+p4
+I1
+sVrough
+p5
+I1
+sVconjure
+p6
+I1
+sVaint
+p7
+I27
+sVslow
+p8
+I1
+sVcup
+p9
+I2
+sVthinking
+p10
+I1
+sVless
+p11
+I1
+sVcrew
+p12
+I1
+sVlets
+p13
+I1
+sVbout
+p14
+I1
+sVsuplier
+p15
+I1
+sVmight
+p16
+I1
+sVta
+p17
+I1
+sVreal
+p18
+I1
+sVhit
+p19
+I1
+sVphelps
+p20
+I1
+sVget
+p21
+I4
+sVstop
+p22
+I1
+sVbreak
+p23
+I2
+sVknow
+p24
+I2
+sVdrinking
+p25
+I1
+sVand
+p26
+I1
+sVlike
+p27
+I2
+sVlevel
+p28
+I1
+sVblunt
+p29
+I1
+sVmichael
+p30
+I1
+sVturnt
+p31
+I1
+sVrocks
+p32
+I1
+sVshots
+p33
+I1
+sVnight
+p34
+I8
+sVgargle
+p35
+I1
+sVright
+p36
+I25
+sVliquor
+p37
+I1
+sVhush
+p38
+I1
+sVsee
+p39
+I1
+sVsight
+p40
+I1
+sVskewed
+p41
+I1
+sVfor
+p42
+I1
+sVbottom
+p43
+I1
+sVsection
+p44
+I1
+sVsince
+p45
+I1
+sVlooking
+p46
+I1
+sVbabysitter
+p47
+I1
+sVgot
+p48
+I1
+sVnonsmokers
+p49
+I1
+sVever
+p50
+I1
+sVtold
+p51
+I1
+sVdrinkin
+p52
+I4
+sVfull
+p53
+I1
+sVnever
+p54
+I1
+sVpunks
+p55
+I1
+sVspeak
+p56
+I1
+sVstudio
+p57
+I1
+sVsmokin
+p58
+I4
+sVcome
+p59
+I1
+sVdrowning
+p60
+I1
+sVgetting
+p61
+I1
+sVkeep
+p62
+I2
+sVyoull
+p63
+I1
+sVsmoke
+p64
+I5
+sVlet
+p65
+I1
+sVground
+p66
+I1
+sVthink
+p67
+I2
+sVwaitress
+p68
+I1
+sVswimming
+p69
+I1
+sVmotherfucking
+p70
+I1
+sVdont
+p71
+I26
+sVfeel
+p72
+I24
+sVcrib
+p73
+I1
+sVtier
+p74
+I1
+sVnigga
+p75
+I3
+sVbitch
+p76
+I5
+sVanother
+p77
+I1
+sVfake
+p78
+I1
+sVbelt
+p79
+I1
+sVtop
+p80
+I4
+sVwhos
+p81
+I1
+sVdamn
+p82
+I2
+sVgoin
+p83
+I4
+sVtell
+p84
+I2
+sVlisten
+p85
+I1
+sVlife
+p86
+I1
+sVsprite
+p87
+I1
+sVthat
+p88
+I1
+sVclub
+p89
+I1
+sVturned
+p90
+I1
+sVtook
+p91
+I1
+sVfest
+p92
+I1
+sVho
+p93
+I1
+sVhold
+p94
+I1
+sVmust
+p95
+I1
+sVrush
+p96
+I1
+sVniggas
+p97
+I2
+sVstraight
+p98
+I3
+sVsmooth
+p99
+I1
+sVup
+p100
+I2
+sVrhymes
+p101
+I1
+sVbullshittin
+p102
+I1
+sVnonpoppers
+p103
+I1
+sVluda
+p104
+I1
+sVgive
+p105
+I6
+sVmind
+p106
+I1
+sVfuck
+p107
+I1
+sVslap
+p108
+I1
+sVsticky
+p109
+I1
+sVgirlfriend
+p110
+I1
+sVcant
+p111
+I2
+sVim
+p112
+I5
+sVpromethazine
+p113
+I1
+sVshit
+p114
+I3
+sVchase
+p115
+I1
+sVsippin
+p116
+I1
+sVbottles
+p117
+I1
+sVdoctor
+p118
+I2
+sVcouch
+p119
+I1
+sVtake
+p120
+I2
+sVfill
+p121
+I1
+sVnondrinkers
+p122
+I1
+sVslizzered
+p123
+I1
+sVdrink
+p124
+I6
+sVrunning
+p125
+I1
+sVfd
+p126
+I2
+sVblood
+p127
+I1
+sVcoming
+p128
+I1
+sVfucked
+p129
+I24
+sVnondippers
+p130
+I1
+sVpool
+p131
+I1
+sVman
+p132
+I2
+sVsomethin
+p133
+I8
+sVi
+I5
+sVlight
+p134
+I2
+sVfloor
+p135
+I1
+sVgreen
+p136
+I1
+sVludas
+p137
+I1
+sVnotch
+p138
+I1
+sVleft
+p139
+I1
+s.

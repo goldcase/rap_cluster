@@ -1,75 +1,583 @@
-"dirty money" lyrics
-scarface lyrics
-"dirty money"
-(feat. tanya herron)
-dirty
-nigga, dirty money
-yeah, yeah, yeah, yeah, yeah
-dirty, fo sho
-it's your downfall
-yeah, yeah, yeah, yeah, yeah
-hopeless again, and the more i stick around the shit get more fucked up
-that's why i'm back on holloway gettin' fucked up
-thinkin' back on how it used to be when it was all good
-we wasn't trippin', this was our hood
-i had your motherfuckin back
-and when it was time to go to war, it was like "where these niggaz at?"
-fuck rackets, we ain't never been the type to hold out
-or, let a motherfucker show out
-no doubt, we put it down for the 9-0-triple 4
-droppin tops, fuckin fine hoes
-these other niggaz is finally catching up
-listening to rappers ballin and gettin touched
-wasup? you done forgot about the street rules, splurgin
-is you a motherfucking fool?
-money ain't a thing to a nigga out here rappin
-but to a nigga out there cappin?
-that's they downfall
-[chorus: tanya herron}
-dir-tayyyyy, yeah
-dirty money
-yeah, yeah, yeah, yeah, yeah
-dirty money
-dir-tayyyyyyy, yeah
-dirty money
-yeah, yeah, yeah, yeah, yeah
-dirty money
-now the whole neighborhood silent
-got the fed-e-rals hangin (shhhh)
-while these young niggaz steady sangin
-i need a motherfuckin law-uh-yer (why's that?)
-i'm in a state of paranoia
-how many niggaz in the six-by-six
-fin' to get, some time behind some loud mouth bitch
-fin' to snitch, trapping niggaz up in they downfalls
-taping motherfuckers phone calls
-ay, i've been in this shit for two deep
-from moving ki's, pushing weight was too sweet
-an 8-ball will cost you 75 (dirt cheap)
-back in the game that shit was live
-and all you had to do to survive was get a whole click
-of niggaz, down with they business and stack chips
-savin up for hard times
-do the time when you do the crime
-you niggaz tryin to ? your downfall
-nothing lasts forever but love
-money comes and goes
-but for those ?? it surely goes
-you rollin over in the joint, trying to get your time dropped
-puttin niggaz up forever, cause you did the crime hop
-turned fed, and know they got indictments for real
-runnin in niggaz houses, niggaz fighting appeals
-offering 50 years to innocent motherfuckers
-all because of the game, niggaz run outta hustle
-feds be showin pictures, you got to give 'em somethin
-time make a nigga forget it and start bumping
-and saying shit, jeopardizing the whole thang
-niggaz run out of freedom, niggaz start to sang (yeah, yeah, yeah, yeah, yeah)
-laughing in your face, chuckle and produce
-avoid they conversation, them niggaz the dudes, fool
-thing is, when a motherfucker is doing dirt
-don't come moving it, ya know what i mean
-ya know, that won't get you no rolls royces and shit like mine baby
-your money dirty, wash your shit
-them motherfuckers out here, yeah
-"dirty money"
+(dp1
+Vsaying
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVya
+p6
+I2
+sVmoney
+p7
+I11
+sVsangin
+p8
+I1
+sVsavin
+p9
+I1
+sVcheap
+p10
+I1
+sVyears
+p11
+I1
+sVbehind
+p12
+I1
+sVgo
+p13
+I1
+sVfeat
+p14
+I1
+sVaint
+p15
+I2
+sVtrying
+p16
+I1
+sVthang
+p17
+I1
+sVyoung
+p18
+I1
+sVcrime
+p19
+I2
+sVfinally
+p20
+I1
+sV4
+I1
+sVinnocent
+p21
+I1
+sVcappin
+p22
+I1
+sVfin
+p23
+I2
+sVfool
+p24
+I2
+sVgood
+p25
+I1
+sVaround
+p26
+I1
+sVget
+p27
+I5
+sVrules
+p28
+I1
+sVjoint
+p29
+I1
+sVgame
+p30
+I2
+sVwhys
+p31
+I1
+sVlistening
+p32
+I1
+sVchips
+p33
+I1
+sVholloway
+p34
+I1
+sVwont
+p35
+I1
+sVtrippin
+p36
+I1
+sVlike
+p37
+I2
+sVwash
+p38
+I1
+sVgettin
+p39
+I2
+sV50
+p40
+I1
+sVtaping
+p41
+I1
+sVchorus
+p42
+I1
+sVsang
+p43
+I1
+sVlaughing
+p44
+I1
+sVroyces
+p45
+I1
+sVsho
+p46
+I1
+sVem
+p47
+I1
+sVnigga
+p48
+I4
+sVneighborhood
+p49
+I1
+sVweight
+p50
+I1
+sVdirtayyyyy
+p51
+I1
+sVdownfalls
+p52
+I1
+sVfeds
+p53
+I1
+sVyeah
+p54
+I28
+sVup
+p55
+I3
+sVstreet
+p56
+I1
+sVcatching
+p57
+I1
+sVforgot
+p58
+I1
+sVsplurgin
+p59
+I1
+sV8ball
+p60
+I1
+sVclick
+p61
+I1
+sVchuckle
+p62
+I1
+sVout
+p63
+I2
+sVlawuhyer
+p64
+I1
+sVtrapping
+p65
+I1
+sVmine
+p66
+I1
+sVfine
+p67
+I1
+sVavoid
+p68
+I1
+sVdirt
+p69
+I2
+sVtanya
+p70
+I2
+sVgoes
+p71
+I2
+sVgot
+p72
+I3
+sVcause
+p73
+I1
+sVhustle
+p74
+I1
+sVpushing
+p75
+I1
+sVrun
+p76
+I2
+sVbusiness
+p77
+I1
+sVstate
+p78
+I1
+sVnever
+p79
+I1
+sVmotherfucker
+p80
+I2
+sVjeopardizing
+p81
+I1
+sVhouses
+p82
+I1
+sVlet
+p83
+I1
+sVlasts
+p84
+I1
+sVput
+p85
+I1
+sVcome
+p86
+I1
+sVmany
+p87
+I1
+sVpictures
+p88
+I1
+sVtimes
+p89
+I1
+sVthing
+p90
+I2
+sVhopeless
+p91
+I1
+sVreal
+p92
+I1
+sVmoving
+p93
+I2
+sVmean
+p94
+I1
+sVwhole
+p95
+I3
+sVmotherfuckers
+p96
+I3
+sVfuckin
+p97
+I1
+sVthats
+p98
+I2
+sVmotherfucking
+p99
+I1
+sVappeals
+p100
+I1
+sVlove
+p101
+I1
+sVdont
+p102
+I1
+sVsweet
+p103
+I1
+sVdudes
+p104
+I1
+sVparanoia
+p105
+I1
+sVnothing
+p106
+I1
+sVdone
+p107
+I1
+sVbitch
+p108
+I1
+sVballin
+p109
+I1
+sVrolls
+p110
+I1
+sVhood
+p111
+I1
+sVcost
+p112
+I1
+sVfed
+p113
+I1
+sVsilent
+p114
+I1
+sVshhhh
+p115
+I1
+sVstart
+p116
+I2
+sVindictments
+p117
+I1
+sVtwo
+p118
+I1
+sVrackets
+p119
+I1
+sVdirtayyyyyyy
+p120
+I1
+sVshowin
+p121
+I1
+sVlive
+p122
+I1
+sVdoubt
+p123
+I1
+sVsurvive
+p124
+I1
+sVtryin
+p125
+I1
+sVtype
+p126
+I1
+sVwar
+p127
+I1
+sVtouched
+p128
+I1
+sVherron
+p129
+I2
+sVhard
+p130
+I1
+sVoffering
+p131
+I1
+sVthat
+p132
+I1
+sVback
+p133
+I4
+sVphone
+p134
+I1
+sVstick
+p135
+I1
+sVbaby
+p136
+I1
+sVhold
+p137
+I1
+sVrunnin
+p138
+I1
+sVrappin
+p139
+I1
+sVhop
+p140
+I1
+sVwasup
+p141
+I1
+sVniggaz
+p142
+I14
+sVdroppin
+p143
+I1
+sVdirty
+p144
+I11
+sVfreedom
+p145
+I1
+sVim
+p146
+I2
+sV90triple
+p147
+I1
+sVdropped
+p148
+I1
+sVive
+p149
+I1
+sVoutta
+p150
+I1
+sVdownfall
+p151
+I3
+sVwasnt
+p152
+I1
+sVhoes
+p153
+I1
+sVturned
+p154
+I1
+sVfuck
+p155
+I1
+sVdeep
+p156
+I1
+sVay
+p157
+I1
+sVscarface
+p158
+I1
+sVat
+p159
+I1
+sVneed
+p160
+I1
+sVshit
+p161
+I6
+sVconversation
+p162
+I1
+sVthinkin
+p163
+I1
+sVsixbysix
+p164
+I1
+sVsurely
+p165
+I1
+sVmotherfuckin
+p166
+I2
+sVfederals
+p167
+I1
+sVputtin
+p168
+I1
+sVhangin
+p169
+I1
+sVused
+p170
+I1
+sVkis
+p171
+I1
+sVrappers
+p172
+I1
+sVtops
+p173
+I1
+sV75
+p174
+I1
+sVproduce
+p175
+I1
+sVmouth
+p176
+I1
+sVsnitch
+p177
+I1
+sVfucked
+p178
+I2
+sVfighting
+p179
+I1
+sVstack
+p180
+I1
+sVfo
+p181
+I1
+sVsomethin
+p182
+I1
+sVforever
+p183
+I2
+sVgive
+p184
+I1
+sVcalls
+p185
+I1
+sVloud
+p186
+I1
+sVsteady
+p187
+I1
+sVrollin
+p188
+I1
+sVface
+p189
+I1
+sVcomes
+p190
+I1
+sVtime
+p191
+I5
+sVbumping
+p192
+I1
+sVmake
+p193
+I1
+sVknow
+p194
+I3
+s.

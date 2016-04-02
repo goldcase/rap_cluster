@@ -1,64 +1,398 @@
-"round here" lyrics
-snoop dogg lyrics
-"round here"
-it ain't safe to leave the house
-fuck around 'round here
-these niggaz quick to air ya out
-and lay ya down 'round here
-you run your mouth niggaz will put ya
-in the ground 'round here
-one-time don't even fuck around and come 'round here
-m.l. and 21st, where niggaz worse
-quick to put one in ya first
-before they search your pockets get that china
-and where they got ya that's where they gon' find ya
-they rollin' out there nigga, that's that real shit
-where bein' slick can get you caught up real quick
-hold up homie, don't let this money blind ya
-cause you won't see me standin' right behind ya
-then it's time's up, that's how we talkin' if he come from the beach
-better watch them niggaz out here if they come from the east
-don't stop if i'm not out somewhere so niggaz can see
-cause they don't give a fuck, you stuck if you ain't with me
-my city's a beast..
-you can't walk through the beach unless you walk with a piece
-you can't talk to police 'cause most police is like me
-they get that cheddar like they want it, take yo' shit in the street
-they want that paper out here
-enough to come and take what's on your plate out here
-enough to have somebody take your place out here
-fuckin' around without your strap sound like a bad idea
-it ain't safe to leave the house
-fuck around 'round here
-these niggaz quick to air ya out
-and lay ya down 'round here
-you run your mouth niggaz will put ya
-in the ground 'round here
-one-time don't even fuck around and come 'round here
-this l.a. county nigga
-if you's a bitch then get yo' ass from 'round here nigga
-before they come put bullets in yo' brain
-cause in the hood ain't nothin' really changed
-they tryin' to get that paper just like uncle sam
-and just like sam niggaz just don't give a damn
-they mission is to leave yo' ass in pain
-cause they don't give a fuck about a thing
-it's a cold game, that's how they talkin' if they walk on the west
-better watch yourself without this star protectin' your chest
-these niggaz come from nowhere, get to takin' yo' shit
-you'll get beat outside the set and then sent home in your stretch
-this shit is a mess..
-you can't walk in them streets unless you walk with your vest
-you can't talk to police 'cause most police ain't gon' stress
-they get that cheddar like they want it with they foot in your chest
-they want that paper out here
-enough to come and take what's on your plate out here
-enough to have somebody take your place out here
-fuckin' around without your strap sound like a bad idea
-it ain't safe to leave the house
-fuck around 'round here
-these niggaz quick to air ya out
-and lay ya down 'round here
-you run your mouth niggaz will put ya
-in the ground 'round here
-one-time don't even fuck around and come 'round here
+(dp1
+Vstandin
+p2
+I1
+sVset
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVcheddar
+p6
+I2
+sVmission
+p7
+I1
+sVbrain
+p8
+I1
+sVpaper
+p9
+I3
+sVcold
+p10
+I1
+sVtakin
+p11
+I1
+sVfind
+p12
+I1
+sVground
+p13
+I3
+sVaint
+p14
+I6
+sV21st
+p15
+I1
+sVpolice
+p16
+I4
+sVla
+p17
+I1
+sVsomewhere
+p18
+I1
+sVenough
+p19
+I4
+sVbetter
+p20
+I2
+sVeast
+p21
+I1
+sVsent
+p22
+I1
+sVoutside
+p23
+I1
+sVreal
+p24
+I2
+sVplate
+p25
+I2
+sVsomebody
+p26
+I2
+sVworse
+p27
+I1
+sVyo
+p28
+I5
+sVget
+p29
+I8
+sVya
+p30
+I14
+sVbein
+p31
+I1
+sVsafe
+p32
+I3
+sVstop
+p33
+I1
+sVgame
+p34
+I1
+sVfoot
+p35
+I1
+sVwalk
+p36
+I5
+sVbullets
+p37
+I1
+sVwont
+p38
+I1
+sVlike
+p39
+I7
+sVyoull
+p40
+I1
+sVleave
+p41
+I4
+sVbad
+p42
+I2
+sVprotectin
+p43
+I1
+sVquick
+p44
+I5
+sVround
+p45
+I15
+sVnigga
+p46
+I3
+sVhouse
+p47
+I3
+sVstreets
+p48
+I1
+sVidea
+p49
+I2
+sVsee
+p50
+I2
+sVstreet
+p51
+I1
+sVpain
+p52
+I1
+sVout
+p53
+I3
+sVeven
+p54
+I3
+sVgon
+p55
+I2
+sVslick
+p56
+I1
+sVbehind
+p57
+I1
+sVgot
+p58
+I1
+sVcause
+p59
+I6
+sVass
+p60
+I2
+sVrun
+p61
+I3
+sVhere
+p62
+I19
+sVonetime
+p63
+I3
+sVlet
+p64
+I1
+sVnowhere
+p65
+I1
+sVput
+p66
+I5
+sVcitys
+p67
+I1
+sVcome
+p68
+I9
+sVsearch
+p69
+I1
+sVstrap
+p70
+I2
+sVchanged
+p71
+I1
+sVtimes
+p72
+I1
+sVthing
+p73
+I1
+sVplace
+p74
+I2
+sVpockets
+p75
+I1
+sVwest
+p76
+I1
+sVchina
+p77
+I1
+sVstar
+p78
+I1
+sVfuckin
+p79
+I2
+sVthats
+p80
+I4
+sVblind
+p81
+I1
+sVwhats
+p82
+I2
+sVdont
+p83
+I8
+sVone
+p84
+I1
+sVcounty
+p85
+I1
+sVright
+p86
+I1
+sVbitch
+p87
+I1
+sVyous
+p88
+I1
+sVhood
+p89
+I1
+sVsnoop
+p90
+I1
+sVstretch
+p91
+I1
+sVdogg
+p92
+I1
+sVcaught
+p93
+I1
+sVstuck
+p94
+I1
+sVdamn
+p95
+I1
+sVtryin
+p96
+I1
+sVuncle
+p97
+I1
+sVbeat
+p98
+I1
+sVhold
+p99
+I1
+sVme
+p100
+I2
+sVml
+p101
+I1
+sVniggaz
+p102
+I11
+sVair
+p103
+I3
+sVpiece
+p104
+I1
+sVvest
+p105
+I1
+sVsam
+p106
+I2
+sVgive
+p107
+I3
+sVfuck
+p108
+I8
+sVcant
+p109
+I4
+sVhomie
+p110
+I1
+sVim
+p111
+I1
+sVnothin
+p112
+I1
+sVwant
+p113
+I4
+sVhome
+p114
+I1
+sVshit
+p115
+I4
+sVaround
+p116
+I8
+sVsound
+p117
+I2
+sVchest
+p118
+I2
+sVtake
+p119
+I5
+sVreally
+p120
+I1
+sVbeach
+p121
+I2
+sVtalkin
+p122
+I2
+sVunless
+p123
+I2
+sVmess
+p124
+I1
+sVwatch
+p125
+I2
+sVbeast
+p126
+I1
+sVmouth
+p127
+I3
+sVlay
+p128
+I3
+sVstress
+p129
+I1
+sVrollin
+p130
+I1
+sVwithout
+p131
+I3
+sVfirst
+p132
+I1
+sVtalk
+p133
+I2
+s.

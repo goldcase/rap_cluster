@@ -1,90 +1,712 @@
-"what'z ya phone # (remix)" lyrics
-2pac lyrics
-"what'z ya phone # (remix)"
-(feat. candy hill)
-what's ya phone number?
-now i can make music for ya tempo
-it's just a mental written for the nymphos
-that's a intro
-shook when you rush me
-woke up and touched
-why do you wanna fuck me?
-just cause i'm paid in the worst way, true
-looking kinda good in ya birthday suit
-i wonder if you wild and ya act shy
-do you like to be on top or the backside
-watch when you lick yo lips
-shake yo hips
-god damn i love that shit
-let's stop faking be real now
-i got a room and a hard on , still down?
-you been staring a bar full of black dudes
-say you wanna see my scar and my tattoos
-when we headed for my hide out, act right
-i'm a playa when i ride out, thats right
-what's ya phone number?
-baby it's a show
-and we can get on all night
-(baby lemme give you a call,
-how long will it take to break you off)
-to three or maybe four
-i'm ready for it all, i'm down
-(baby lemme give you a call,
-how long will it take to break you off)
-shit, you gotta work for the number
-work a lil bit harder for my naked slumber
-tryna get it on the come up
-ease breeze 1-2-3 won't get it from me, no!
-can you think a lil farther
-baby throw me them keys and i'll push the galada
-and i ain't tryna barter
-vice grips on my hips
-and my lips on the tip
-now let ya face take a taste
-i promise i will squirt and it won't be mase
-dumb sprung up in my place
-when you leave it ain't ya shoes but my neck you lace
-now tell me now can you roll with a boss bitch
-keep that thang standing tall for a boss bitch
-game mean, keep it clean for a boss bitch
-grab a pen and paper, seven digits of a boss bitch
-oh shit, baby is a dime piece
-more than just my piece
-personally best from the gods
-if i seen her right now
-she could get me hard
-didn't wanna talk to me just to see my car
-never had sex with a rich rap star
-'til i got her in the back of my homeboy's car
-tell me why do we live this way?
-money over bitches let me hear you say
-what's yo phone number?
-are you alone?
-got a pocket full of rubberslet roam
-til i tell ya girlfriend to take you home
-i had fun but baby gotta leave me alone
-picture in my rhyme take time to rewind these ordinary words i say
-if you opening ya mouth
-immediately you find it's time to let the outlawz play
-i know you wanna fuck lemme hear you say
-give it to you good til i come in ya face
-keep it running like a faucet
-you the boss niggaaaaa
-don't be scared to toss it up betcha cum quickaa
-i know how you keep it so thuggish, thuggish
-feel it through ya fingas how you grip this shit
-got ya hittin' it like a bat
-yea hit it like a bat
-like yea mayne i'm high like a plane
-in the back of a g5
-got my legs 'bout a mile high
-got you gripping on my thighs
-boy ya hands on fire
-poppin' bottle looking at my shadow
-how we get it
-and no stoppin' how we did it
-i don't know i just know i gotta get some
-so ruthless, when i fuck better duck
-when you see me whip 'pac in the truck
-rolling like a 8 ball
-now lemme break you off
+(dp1
+Vshoes
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVyea
+p5
+I2
+sVgods
+p6
+I1
+sVfour
+p7
+I1
+sVpaper
+p8
+I1
+sVfarther
+p9
+I1
+sVshake
+p10
+I1
+sVlove
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVfind
+p14
+I1
+sVlace
+p15
+I1
+sVaint
+p16
+I2
+sVbetcha
+p17
+I1
+sVbarter
+p18
+I1
+sVthang
+p19
+I1
+sVease
+p20
+I1
+sVpoppin
+p21
+I1
+sVpen
+p22
+I1
+sVbetter
+p23
+I1
+sVlets
+p24
+I1
+sVniggaaaaa
+p25
+I1
+sVblack
+p26
+I1
+sVtouched
+p27
+I1
+sVrich
+p28
+I1
+sVmoney
+p29
+I1
+sV8
+I1
+sVcum
+p30
+I1
+sVta
+p31
+I3
+sVreal
+p32
+I1
+sVg5
+p33
+I1
+sVgood
+p34
+I2
+sVhit
+p35
+I1
+sVyo
+p36
+I3
+sVget
+p37
+I6
+sVya
+p38
+I15
+sVstop
+p39
+I1
+sVnumber
+p40
+I4
+sVbreak
+p41
+I3
+sVgame
+p42
+I1
+sV123
+p43
+I1
+sVworst
+p44
+I1
+sVknow
+p45
+I4
+sVwords
+p46
+I1
+sVhands
+p47
+I1
+sVimmediately
+p48
+I1
+sVbit
+p49
+I1
+sVnow
+p50
+I2
+sVordinary
+p51
+I1
+sVwont
+p52
+I2
+sVbat
+p53
+I2
+sVbar
+p54
+I1
+sVlike
+p55
+I7
+sVshy
+p56
+I1
+sVcandy
+p57
+I1
+sVnaked
+p58
+I1
+sVmile
+p59
+I1
+sVthighs
+p60
+I1
+sVhittin
+p61
+I1
+sVnight
+p62
+I1
+sVgrab
+p63
+I1
+sVmean
+p64
+I1
+sVright
+p65
+I3
+sVgripping
+p66
+I1
+sVmental
+p67
+I1
+sVthuggish
+p68
+I2
+sVscared
+p69
+I1
+sVhard
+p70
+I2
+sVsome
+p71
+I1
+sVback
+p72
+I2
+sVup
+p73
+I1
+sVquickaa
+p74
+I1
+sVlips
+p75
+I2
+sVdumb
+p76
+I1
+sVhome
+p77
+I1
+sVstoppin
+p78
+I1
+sVoutlawz
+p79
+I1
+sVbest
+p80
+I1
+sVwonder
+p81
+I1
+sVleave
+p82
+I2
+sVhide
+p83
+I1
+sVruthless
+p84
+I1
+sVgod
+p85
+I1
+sVdime
+p86
+I1
+sVlooking
+p87
+I2
+sVwritten
+p88
+I1
+sVhill
+p89
+I1
+sVplaya
+p90
+I1
+sVgot
+p91
+I9
+sVsquirt
+p92
+I1
+sVcause
+p93
+I1
+sVtattoos
+p94
+I1
+sVfull
+p95
+I2
+sVshadow
+p96
+I1
+sVopening
+p97
+I1
+sVnever
+p98
+I1
+sVtempo
+p99
+I1
+sVlem
+p100
+I4
+sVsprung
+p101
+I1
+sVwild
+p102
+I1
+sVlet
+p103
+I3
+sVrubberslet
+p104
+I1
+sValone
+p105
+I2
+sVboss
+p106
+I5
+sVcome
+p107
+I2
+sVthrow
+p108
+I1
+sVstaring
+p109
+I1
+sVdigits
+p110
+I1
+sVboy
+p111
+I1
+sVfaucet
+p112
+I1
+sVoh
+p113
+I1
+sVbackside
+p114
+I1
+sVill
+p115
+I1
+sVkeep
+p116
+I4
+sVplane
+p117
+I1
+sVplace
+p118
+I1
+sVnymphos
+p119
+I1
+sVact
+p120
+I2
+sVthink
+p121
+I1
+sVthats
+p122
+I2
+sVmase
+p123
+I1
+sVwhats
+p124
+I3
+sVdont
+p125
+I2
+sVheaded
+p126
+I1
+sVfeel
+p127
+I1
+sVwhatz
+p128
+I2
+sVdudes
+p129
+I1
+sVdown
+p130
+I2
+sVpromise
+p131
+I1
+sVbitch
+p132
+I4
+sVduck
+p133
+I1
+sVstanding
+p134
+I1
+sVwan
+p135
+I4
+sVrhyme
+p136
+I1
+sVtop
+p137
+I1
+sVthree
+p138
+I1
+sVlong
+p139
+I2
+sVlive
+p140
+I1
+sVcall
+p141
+I2
+sVway
+p142
+I2
+sVsuit
+p143
+I1
+sVmusic
+p144
+I1
+sVlegs
+p145
+I1
+sVtell
+p146
+I3
+sVwoke
+p147
+I1
+sVhomeboys
+p148
+I1
+sVtryna
+p149
+I2
+sVfire
+p150
+I1
+sVbitches
+p151
+I1
+sVgalada
+p152
+I1
+sVit
+p153
+I2
+sVphone
+p154
+I5
+sVhear
+p155
+I2
+sVpersonally
+p156
+I1
+sVbaby
+p157
+I6
+sVsex
+p158
+I1
+sVtrue
+p159
+I1
+sVbout
+p160
+I1
+sV2pac
+p161
+I1
+sVme
+p162
+I6
+sVrush
+p163
+I1
+sVroom
+p164
+I1
+sVslumber
+p165
+I1
+sVride
+p166
+I1
+sVwork
+p167
+I2
+sVharder
+p168
+I1
+sVsee
+p169
+I3
+sVfaking
+p170
+I1
+sVpiece
+p171
+I2
+sVdidnt
+p172
+I1
+sVcould
+p173
+I1
+sVshook
+p174
+I1
+sVgrip
+p175
+I1
+sVseven
+p176
+I1
+sVlick
+p177
+I1
+sVplay
+p178
+I1
+sVgive
+p179
+I3
+sVtaste
+p180
+I1
+sVtoss
+p181
+I1
+sVfuck
+p182
+I3
+sVhigh
+p183
+I2
+sVgirlfriend
+p184
+I1
+sVsay
+p185
+I4
+sVintro
+p186
+I1
+sVim
+p187
+I5
+sVrap
+p188
+I1
+sVready
+p189
+I1
+sVseen
+p190
+I1
+sVscar
+p191
+I1
+sVshit
+p192
+I4
+sVcar
+p193
+I2
+sVno
+p194
+I1
+sVlil
+p195
+I2
+sVna
+p196
+I4
+sVmake
+p197
+I1
+sVtip
+p198
+I1
+sVtil
+p199
+I3
+sVpac
+p200
+I1
+sVtake
+p201
+I5
+sVrewind
+p202
+I1
+sVfingas
+p203
+I1
+sVtruck
+p204
+I1
+sVgrips
+p205
+I1
+sVroll
+p206
+I1
+sVpicture
+p207
+I1
+sVfun
+p208
+I1
+sVball
+p209
+I1
+sVstar
+p210
+I1
+sVbottle
+p211
+I1
+sVdamn
+p212
+I1
+sVkeys
+p213
+I1
+sVwatch
+p214
+I1
+sVroam
+p215
+I1
+sVpaid
+p216
+I1
+sVrunning
+p217
+I1
+sVbirthday
+p218
+I1
+sVmouth
+p219
+I1
+sVkinda
+p220
+I1
+sVrolling
+p221
+I1
+sVpocket
+p222
+I1
+sVremix
+p223
+I2
+sVoff
+p224
+I3
+sVneck
+p225
+I1
+sVvice
+p226
+I1
+sVmaybe
+p227
+I1
+sVface
+p228
+I2
+sVbreeze
+p229
+I1
+sVmayne
+p230
+I1
+sVtalk
+p231
+I1
+sVclean
+p232
+I1
+sVtime
+p233
+I2
+sVpush
+p234
+I1
+sVtall
+p235
+I1
+sVhips
+p236
+I2
+sVwhip
+p237
+I1
+s.

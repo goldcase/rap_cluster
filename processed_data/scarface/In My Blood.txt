@@ -1,125 +1,846 @@
-"in my blood" lyrics
-scarface lyrics
-"in my blood"
-(feat. big mike, dmg, yukmouth)
-you wonder why,
-i hang with these thugs
-whut,
-i'm from the hood
-nigga,
-i gives a fuck (i gives a fuck)
-it's in my blood
-since i was little i been hangin' with these niggas
-and till i die i gon remain with these niggas
-st. paul in
-the m-p-l-s, i hear you callin'
-i put it down yes
-now chris rock were you at
-i heard you say some shit about some blacks
-nigga, this been your ass back
-come see the real deal
-stay in the fields nigga
-these niggas will kill
-this ain't no cap-gun shots, nigga
-this a glock, pah, pah,
-it's death on your block
-knock, knock
-whut's up nigga?
-these sirenes start singing
-it's me and yuk with the l-g in the makin'
-it's stinkin', freakin'
-bowlin' on the weekend
-creepin, seekin'
-me, till the currency
-gimme stacks up on mo' stacks
-i'm dubble parked for the train
-even your moms know my name
-i be the d into the m and the m into the g
-and i bring the b-o-m-b-?
-nigga
-it's in my blood
-smokin sweets, drink 40's to the suds
-and fuckin wit these thugs, nigga
-that's in my blood
-you wonder why us niggas be hustelers
-and out there slingin' drugs, nigga
-that's in my blood
-that drug money, stuff that shit up under the rug
-and make that nigga bug, nigga
-it's in my blood
-niggas like me turn niggas like you into hustelers
-fuckin wit us, fuckin wit us!
-it's in my veins
-like a chain-reaction
-how it all happened
-paps is slangin' crack in the mid 80's
-back in the day when shit was crackin'
-niggas pay 38 for a package
-tightly rappin'
-for shippin' and handelin' taxes was added
-that's where the a-raps headin'
-even when i sleep they in cavage
-lavage shit
-do automatics with scopes under my mattress
-with the dope and the drugmoney,
-stuffin' that shit up under the rugmoney
-thug hungry
-takin' drugs only cause we love money
-i'm a nigga, he's a nigga,
-would you like to be a nigga too
-makin' big scrilla like these niggas do
-you probably be a drugdealer too
-scan and tuned in to the boys in blue
-listen for clues
-in the kitchen bakin up peruvian flake
-it takes
-28 grams
-multiplied by 36 zips to make
-a triple beam brake, a triple beam shake
-a hundred grams on the triple beam flake
-2.2 pounds to be straight
-my niggas just flew in from ga
-ready to buy 4 kilos
-then drive slow back to youngstown ohio
-so fuck these rhymes
-let me stick my dick in your ear,
-and fuck with your mind
-nigga
-niggas betray themselves as low key,
-broken down and fabricated
-easily ejaculated, table with and half way faded
-ain't no wars cause they made it
-that type of bullshit is outdated
-but i played it like i laid it
-my partners have always said that
-it was set me up
-for life
-money, clothes and hoes but road i chose was
-nothin' nice
-niggas know just what it's like to be hustelers
-governors from strugglers
-bitches lovin' us
-blindly chasin' that life we lust
-i blush,
-bottles, havin' thoughts and iring dreams
-goin' down and roll fast
-tryin' to get what my eyes have seen
-fried of me, huh
-nigga for a hand that got me through these eyes right to see
-but part not i was blind to the point,
-not even i could see, or that i could be
-obviously
-i wasn't meant for me this type of trickery
-hit me with the type of mystery
-lay it down like history
-with the intend of be myself and i
-street desire, easila
-piece of mind, i was least to find
-some sassiness
-hossisiless it gets to shit and praise to the farmer innercist
-nobody was meant for it, it was deadly
-and i was discontent
-with the shit that life once sent
-government depend, now most of my time is spent
-escapin' what i love
-it's in my blood
+(dp1
+Vdiscontent
+p2
+I1
+sVleast
+p3
+I1
+sVsirenes
+p4
+I1
+sVlyrics
+p5
+I2
+sVpiece
+p6
+I1
+sVstuffin
+p7
+I1
+sVmoney
+p8
+I3
+sVmultiplied
+p9
+I1
+sVfabricated
+p10
+I1
+sVgot
+p11
+I1
+sVbring
+p12
+I1
+sVbakin
+p13
+I1
+sVkill
+p14
+I1
+sVparked
+p15
+I1
+sVga
+p16
+I1
+sVfreakin
+p17
+I1
+sVbomb
+p18
+I1
+sVpaul
+p19
+I1
+sVlay
+p20
+I1
+sVfeat
+p21
+I1
+sVfind
+p22
+I1
+sVdesire
+p23
+I1
+sVaint
+p24
+I2
+sVlg
+p25
+I1
+sVdeath
+p26
+I1
+sVaraps
+p27
+I1
+sV22
+p28
+I1
+sVchasin
+p29
+I1
+sVdick
+p30
+I1
+sV28
+p31
+I1
+sVmattress
+p32
+I1
+sVejaculated
+p33
+I1
+sV4
+I1
+sVcrack
+p34
+I1
+sVthoughts
+p35
+I1
+sVroad
+p36
+I1
+sVset
+p37
+I1
+sVdrugdealer
+p38
+I1
+sVsent
+p39
+I1
+sVhappened
+p40
+I1
+sVreal
+p41
+I1
+sVdo
+p42
+I1
+sVcallin
+p43
+I1
+sVhit
+p44
+I1
+sVeasily
+p45
+I1
+sVmoms
+p46
+I1
+sVbig
+p47
+I2
+sVdope
+p48
+I1
+sVseekin
+p49
+I1
+sVflew
+p50
+I1
+sVlovin
+p51
+I1
+sVsweets
+p52
+I1
+sVmade
+p53
+I1
+sVcrackin
+p54
+I1
+sVknow
+p55
+I2
+sVstrugglers
+p56
+I1
+sVhalf
+p57
+I1
+sVday
+p58
+I1
+sVrugmoney
+p59
+I1
+sVname
+p60
+I1
+sVmystery
+p61
+I1
+sVknock
+p62
+I2
+sVgets
+p63
+I1
+sVd
+I1
+sVbeam
+p64
+I3
+sVcavage
+p65
+I1
+sVfields
+p66
+I1
+sVniggas
+p67
+I11
+sVtaxes
+p68
+I1
+sVtuned
+p69
+I1
+sVstuff
+p70
+I1
+sV40s
+p71
+I1
+sVshots
+p72
+I1
+sVdie
+p73
+I1
+sVveins
+p74
+I1
+sVsleep
+p75
+I1
+sVspent
+p76
+I1
+sVstraight
+p77
+I1
+sVclothes
+p78
+I1
+sVcreepin
+p79
+I1
+sVnigga
+p80
+I15
+sVdeal
+p81
+I1
+sVscopes
+p82
+I1
+sVbrake
+p83
+I1
+sVchainreaction
+p84
+I1
+sVback
+p85
+I3
+sVkilos
+p86
+I1
+sVsee
+p87
+I3
+sVadded
+p88
+I1
+sVrhymes
+p89
+I1
+sVheadin
+p90
+I1
+sVhoes
+p91
+I1
+sVyes
+p92
+I1
+sVwonder
+p93
+I2
+sVeven
+p94
+I3
+sVgon
+p95
+I1
+sVblacks
+p96
+I1
+sVwasnt
+p97
+I1
+sVtakin
+p98
+I1
+sVsince
+p99
+I1
+sVi
+I1
+sVlaid
+p100
+I1
+sVit
+p101
+I1
+sVprobably
+p102
+I1
+sVcause
+p103
+I2
+sVass
+p104
+I1
+sVslangin
+p105
+I1
+sVchose
+p106
+I1
+sVright
+p107
+I1
+sVpartners
+p108
+I1
+sVroll
+p109
+I1
+sVrock
+p110
+I1
+sVrug
+p111
+I1
+sVlike
+p112
+I8
+sVbroken
+p113
+I1
+sVdrugmoney
+p114
+I1
+sVlet
+p115
+I1
+sVsmokin
+p116
+I1
+sVdubble
+p117
+I1
+sVclues
+p118
+I1
+sVput
+p119
+I1
+sVdepend
+p120
+I1
+sVhand
+p121
+I1
+sVcome
+p122
+I1
+sVyukmouth
+p123
+I1
+sVkitchen
+p124
+I1
+sVflake
+p125
+I2
+sV38
+p126
+I1
+sVg
+I1
+sVpackage
+p127
+I1
+sVslow
+p128
+I1
+sVcould
+p129
+I2
+sV36
+p130
+I1
+sVdrug
+p131
+I1
+sVturn
+p132
+I1
+sVyuk
+p133
+I1
+sVinnercist
+p134
+I1
+sVblush
+p135
+I1
+sVblock
+p136
+I1
+sVthats
+p137
+I3
+sVblind
+p138
+I1
+sVlove
+p139
+I2
+sVkey
+p140
+I1
+sVpoint
+p141
+I1
+sVshake
+p142
+I1
+sVmakin
+p143
+I2
+sVcurrency
+p144
+I1
+sVzips
+p145
+I1
+sVwit
+p146
+I3
+sVfast
+p147
+I1
+sVohio
+p148
+I1
+sVeasila
+p149
+I1
+sVtable
+p150
+I1
+sVsinging
+p151
+I1
+sVhood
+p152
+I1
+sVsassiness
+p153
+I1
+sVlittle
+p154
+I1
+sVtakes
+p155
+I1
+sVwould
+p156
+I1
+sVhes
+p157
+I1
+sValways
+p158
+I1
+sVplayed
+p159
+I1
+sVtightly
+p160
+I1
+sVstart
+p161
+I1
+sVtoo
+p162
+I2
+sVway
+p163
+I1
+sVtime
+p164
+I1
+sVgim
+p165
+I1
+sVhundred
+p166
+I1
+sVtype
+p167
+I3
+sViring
+p168
+I1
+sVbullshit
+p169
+I1
+sVgives
+p170
+I2
+sVmike
+p171
+I1
+sVglock
+p172
+I1
+sVthat
+p173
+I1
+sVdrugs
+p174
+I2
+sVslingin
+p175
+I1
+sVgovernment
+p176
+I1
+sVbitches
+p177
+I1
+sVhuh
+p178
+I1
+sVwars
+p179
+I1
+sVbetray
+p180
+I1
+sVboys
+p181
+I1
+sVtrain
+p182
+I1
+sVhear
+p183
+I1
+sVstick
+p184
+I1
+sVblindly
+p185
+I1
+sVbe
+p186
+I1
+sVear
+p187
+I1
+sVoutdated
+p188
+I1
+sVbug
+p189
+I1
+sVme
+p190
+I1
+sVlust
+p191
+I1
+sVpounds
+p192
+I1
+sVrappin
+p193
+I1
+sVautomatics
+p194
+I1
+sVdmg
+p195
+I1
+sVwas
+p196
+I1
+sVmo
+p197
+I1
+sVmpls
+p198
+I1
+sVus
+p199
+I4
+sVwhuts
+p200
+I1
+sVyoungstown
+p201
+I1
+sVremain
+p202
+I1
+sVstreet
+p203
+I1
+sVhavin
+p204
+I1
+sVpraise
+p205
+I1
+sVfaded
+p206
+I1
+sVim
+p207
+I3
+sVlisten
+p208
+I1
+sVescapin
+p209
+I1
+sVhistory
+p210
+I1
+sVmeant
+p211
+I2
+sVready
+p212
+I1
+sVtrickery
+p213
+I1
+sVwhut
+p214
+I1
+sVscan
+p215
+I1
+sVperuvian
+p216
+I1
+sVshippin
+p217
+I1
+sVhossisiless
+p218
+I1
+sVsuds
+p219
+I1
+sVmind
+p220
+I2
+sVfuck
+p221
+I4
+sVdrive
+p222
+I1
+sVcapgun
+p223
+I1
+sVheard
+p224
+I1
+sVsay
+p225
+I1
+sVbuy
+p226
+I1
+sVscarface
+p227
+I1
+sVat
+p228
+I1
+sVtriple
+p229
+I3
+sVin
+p230
+I1
+sVthug
+p231
+I1
+sVseen
+p232
+I1
+sVbowlin
+p233
+I1
+sVdeadly
+p234
+I1
+sVshit
+p235
+I7
+sVthugs
+p236
+I2
+sVbottles
+p237
+I1
+sVpay
+p238
+I1
+sVmake
+p239
+I2
+sVget
+p240
+I1
+sVmid
+p241
+I1
+sVhustelers
+p242
+I3
+sVtill
+p243
+I2
+sVlow
+p244
+I1
+sVobviously
+p245
+I1
+sVpah
+p246
+I2
+sVhangin
+p247
+I1
+sVhandelin
+p248
+I1
+sVlife
+p249
+I3
+sVnice
+p250
+I1
+sVblue
+p251
+I1
+sV80s
+p252
+I1
+sVintend
+p253
+I1
+sVeyes
+p254
+I2
+sVgovernors
+p255
+I1
+sVfarmer
+p256
+I1
+sVdrink
+p257
+I1
+sVhang
+p258
+I1
+sVstay
+p259
+I1
+sVsaid
+p260
+I1
+sVblood
+p261
+I8
+sVchris
+p262
+I1
+sVweekend
+p263
+I1
+sVstinkin
+p264
+I1
+sVpaps
+p265
+I1
+sVgoin
+p266
+I1
+sVgrams
+p267
+I2
+sVscrilla
+p268
+I1
+sVlavage
+p269
+I1
+sVnobody
+p270
+I1
+sVm
+I2
+sVhungry
+p271
+I1
+sVnothin
+p272
+I1
+sVst
+p273
+I1
+sVpart
+p274
+I1
+sVfuckin
+p275
+I3
+sVfried
+p276
+I1
+sVtryin
+p277
+I1
+sVstacks
+p278
+I2
+sVdreams
+p279
+I1
+s.

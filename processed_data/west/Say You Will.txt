@@ -1,40 +1,152 @@
-say lyrics
-kanye west lyrics
-say will
-would make calls blue
-im awake sleepless til noon
-hey hey hey hey
-dont say will
-unless will
-hey hey hey hey
-dont say will
-play will
-pray will
-mrs sofly crashlands room
-cant waste time might leave soon
-hey hey hey hey
-dont say will
-will
-hey hey hey hey
-dont say will
-one day will
-pray will
-grab neck touch soul
-take cool lose control
-hey hey hey hey
-dont say will
-will
-hey hey hey hey
-dont say will
-will
-pray will
-wish song would really come true
-admit still fantasize you
-you
-hey hey hey hey
-dont say will
-will
-hey hey hey hey
-please say will
-real
-pray will
+(dp1
+Vcontrol
+p2
+I1
+sVdont
+p3
+I7
+sVlyrics
+p4
+I2
+sVtrue
+p5
+I1
+sVsoon
+p6
+I1
+sVone
+p7
+I1
+sVsay
+p8
+I10
+sVim
+p9
+I1
+sVsoul
+p10
+I1
+sVtouch
+p11
+I1
+sVkanye
+p12
+I1
+sVstill
+p13
+I1
+sVreally
+p14
+I1
+sVblue
+p15
+I1
+sVleave
+p16
+I1
+sVwould
+p17
+I2
+sVpray
+p18
+I4
+sVwest
+p19
+I1
+sVmake
+p20
+I1
+sVplease
+p21
+I1
+sVhey
+p22
+I32
+sVtil
+p23
+I1
+sVcome
+p24
+I1
+sVtake
+p25
+I1
+sVcrashlands
+p26
+I1
+sVyou
+p27
+I2
+sVwaste
+p28
+I1
+sVmight
+p29
+I1
+sVreal
+p30
+I1
+sVplay
+p31
+I1
+sVunless
+p32
+I1
+sVsong
+p33
+I1
+sVlose
+p34
+I1
+sVawake
+p35
+I1
+sVsofly
+p36
+I1
+sVday
+p37
+I1
+sVneck
+p38
+I1
+sVroom
+p39
+I1
+sVcalls
+p40
+I1
+sVwish
+p41
+I1
+sVcool
+p42
+I1
+sVsleepless
+p43
+I1
+sVcant
+p44
+I1
+sVmrs
+p45
+I1
+sVwill
+p46
+I20
+sVadmit
+p47
+I1
+sVtime
+p48
+I1
+sVfantasize
+p49
+I1
+sVgrab
+p50
+I1
+sVnoon
+p51
+I1
+s.

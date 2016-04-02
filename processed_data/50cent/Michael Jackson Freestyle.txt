@@ -1,56 +1,439 @@
-"michael jackson freestyle" lyrics
-50 cent lyrics
-"michael jackson freestyle"
-{damn!} i'm number one!
-yeah!
-they say i ain't lyrical! they say i ain't a miracle (yeah!)
-i say some hard shit so they say i ain't spiritual! (uh-huh!)
-they act like they know god better than me
-i know god allah he used to pump crack up the street. (come on!)
-allah o akbar clap him run through your backyard
-let the mack off! - tear half off your back off. (whoooooooohhhooooooooooooooo!)
-ayo pull that back, man!
-ayo play that again man, youkno'msayin'?
-i'm number one!  {"thisis50.com"!}
-yeah!
-they say i ain't lyrical! they say i ain't a miracle (yeah!)
-i say some hard shit so they say i ain't spiritual! (uh-huh!)
-they act like they know god better than me
-i know god allah he used to pump crack up the street. (come on!)
-allah o akbar clap him run through your backyard
-let the mack off! - tear half off your back off. (whoooooooohhhooooooooooooooo!)
-this is my block, my spot, i am here
-i'm a southside nigga 'till the bone, get that clear.
-now i got a better hustle so i'm gettin' better bread
-buy my bitches better shit so they gimme better head. (say: "whaaaat"!)
-you thinkin' about gettin' down  with me yeah you better kid
-where the fuck you gon' get a job you a predicate...
-... felon! - it's back to crack sellin'
-nigga get caught tellin' the show crack the melon! (aaaaahhh-ooooooohhh!)
-i told you i blow now you see it to believe it
-my head gassed up man i'm so conceded.
-nigga you ain't never gonna see me in the hood. (uh-huh!)
-mother-fuck that shit! nigga i'm too good! (hahaaaa!)
-run tell niggaz 50's bougie
-you don't buy his cd's and don't go see his movies! (fuck that!)
-he don't act like he used to in juve' ( whooo!)
-he was on the medication that nigga there loony.
-can it be i been away too long? (ohhhh!)
-i mean way too long!
-can it be i stayed away too long? (i been away man!)
-did i leave your mind when i was gone? (did you forget me?)
-it's not my thing trying to get back! (i'm back baby! i'm back!)
-but this time let me tell you where i'm at! (well, i'm in southside!)
-you don't have to worry - 'cause i'm coming! (haha!)
-back to where i should have always staaaayed!
-and now i've heard the maybe - to your story (this is that shit right here!)
-and it's enough love for me to staaaaaaaay! (ahhhhhhh!) {whooooooooooo kiiiiiiiiiiiiiiiiiiiiiiiiid!}
-can it be i stayed away too long?
-did i leave your mind when i was gone? (i'm a ask you again! did you forget about me?)
-it's not my thing trying to get baaaack,
-but this time let me tell you where i'm at! (south-side!)
-i wanna, wanna be where you are!
-aaaaaaahhhhhhhh! - anywhere you are!
-aaaaaaahhhhhhhh! - i wanna, wanna be where you are!
-aaaaaaahhhhhhhh! - everywhere you are! (i said i wanna be where you are!)
-aaaaaaahhhhhhhh! - (aaaaaaahhhhhhhh!)  {damn!}
+(dp1
+Vforget
+p2
+I2
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVsouthside
+p5
+I3
+sVfelon
+p6
+I1
+sVgo
+p7
+I1
+sVlove
+p8
+I1
+sVstaaaaaaaay
+p9
+I1
+sVaint
+p10
+I7
+sVtrying
+p11
+I2
+sVenough
+p12
+I1
+sVbetter
+p13
+I7
+sVcrack
+p14
+I4
+sVmelon
+p15
+I1
+sVgassed
+p16
+I1
+sVwhooooooooooo
+p17
+I1
+sVpredicate
+p18
+I1
+sVgood
+p19
+I1
+sVget
+p20
+I5
+sVknow
+p21
+I4
+sVhalf
+p22
+I2
+sVcds
+p23
+I1
+sVwhooo
+p24
+I1
+sVbread
+p25
+I1
+sVlike
+p26
+I3
+sVtear
+p27
+I2
+sValways
+p28
+I1
+sVgettin
+p29
+I2
+sVmichael
+p30
+I2
+sV50
+p31
+I1
+sVmiracle
+p32
+I2
+sVleave
+p33
+I2
+sVtold
+p34
+I1
+sVbone
+p35
+I1
+sVmean
+p36
+I1
+sVspiritual
+p37
+I2
+sVnigga
+p38
+I5
+sVhard
+p39
+I2
+sVyeah
+p40
+I5
+sVsee
+p41
+I3
+sVstreet
+p42
+I2
+sVniggaz
+p43
+I1
+sVakbar
+p44
+I2
+sVgon
+p45
+I2
+sVjackson
+p46
+I2
+sVgod
+p47
+I4
+sVaway
+p48
+I4
+sVpump
+p49
+I2
+sVgot
+p50
+I1
+sVcause
+p51
+I1
+sVhustle
+p52
+I1
+sVblow
+p53
+I1
+sVrun
+p54
+I3
+sVnever
+p55
+I1
+sVstory
+p56
+I1
+sVhere
+p57
+I2
+sVbaaaack
+p58
+I1
+sVjob
+p59
+I1
+sVlet
+p60
+I4
+sVfuck
+p61
+I2
+sVcome
+p62
+I2
+sVlyrical
+p63
+I2
+sVon
+p64
+I2
+sVbougie
+p65
+I1
+sVo
+I2
+sVthing
+p66
+I2
+sVclap
+p67
+I2
+sVact
+p68
+I3
+sVhead
+p69
+I2
+sVblock
+p70
+I1
+sVkiiiiiiiiiiiiiiiiiiiiiiiiid
+p71
+I1
+sVstaaaayed
+p72
+I1
+sVdont
+p73
+I4
+sVive
+p74
+I1
+sVcoming
+p75
+I1
+sVnumber
+p76
+I2
+sVone
+p77
+I2
+sVask
+p78
+I1
+sVright
+p79
+I1
+sVlong
+p80
+I4
+sVuhhuh
+p81
+I3
+sVhood
+p82
+I1
+sVwan
+p83
+I5
+sVayo
+p84
+I2
+sVcaught
+p85
+I1
+sVcent
+p86
+I1
+sVdamn
+p87
+I2
+sVmotherfuck
+p88
+I1
+sVaaaaahhhooooooohhh
+p89
+I1
+sVman
+p90
+I4
+sVtell
+p91
+I3
+sVyouknomsayin
+p92
+I1
+sVallah
+p93
+I4
+sVway
+p94
+I1
+sVthat
+p95
+I1
+sVfreestyle
+p96
+I2
+sVmind
+p97
+I2
+sVbitches
+p98
+I1
+sVhaha
+p99
+I1
+sVback
+p100
+I8
+sVloony
+p101
+I1
+sVeverywhere
+p102
+I1
+sVbaby
+p103
+I1
+sVbelieve
+p104
+I1
+sVgim
+p105
+I1
+sVme
+p106
+I5
+sVpull
+p107
+I1
+sVwhaaaat
+p108
+I1
+sVtellin
+p109
+I1
+sVmovies
+p110
+I1
+sVanywhere
+p111
+I1
+sV50s
+p112
+I1
+sVare
+p113
+I4
+sVgone
+p114
+I2
+sVmedication
+p115
+I1
+sVaaaaaaahhhhhhhh
+p116
+I5
+sVwhoooooooohhhooooooooooooooo
+p117
+I2
+sVit
+p118
+I1
+sVheard
+p119
+I1
+sVsay
+p120
+I9
+sVbuy
+p121
+I2
+sVim
+p122
+I13
+sVohhhh
+p123
+I1
+sVthisis50com
+p124
+I1
+sVshit
+p125
+I5
+sVjuve
+p126
+I1
+sVsellin
+p127
+I1
+sVna
+p128
+I6
+sVthinkin
+p129
+I1
+sVstayed
+p130
+I2
+sVtill
+p131
+I1
+sVahhhhhhh
+p132
+I1
+sVworry
+p133
+I1
+sVplay
+p134
+I1
+sVused
+p135
+I3
+sVspot
+p136
+I1
+sVsaid
+p137
+I1
+sVconceded
+p138
+I1
+sVbackyard
+p139
+I2
+sVmack
+p140
+I2
+sVkid
+p141
+I1
+sVmaybe
+p142
+I1
+sVclear
+p143
+I1
+sVwell
+p144
+I1
+sVtime
+p145
+I2
+sVhahaaaa
+p146
+I1
+s.

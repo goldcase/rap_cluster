@@ -1,78 +1,640 @@
-"ass like that" lyrics
-eminem lyrics
-"ass like that"
-the way you shake it, i can't believe it
-i ain't never seen an ass like that
-the way you move it, you make my pee pee go
-doing, doing, doing
-i don't believe it, it's almost too good to be true
-i ain't never seen an ass like that
-the way you move it, you make my pee pee go
-doing, doing, doing
-the way she moves she's like a belly dancer
-she's shaking that ass to that new nelly jam, i
-think someones at the door
-but i don't think i'm gonna answer
-police saying "freeze"
-doing, doing, doing
-what do you mean freeze?
-please, i'm a human being, i have needs
-i'm not done, not till i'm finish peeing
-i am not resisting arrest, i am agreeing mr. officer
-i'm already on my knees
-i can't get on the ground any further, it's impossible for me
-and do not treat me like a murderer, i just like to pee, pee, pee
-yes, i make r&b, i sing song it go
-ring-a-chong, a-ching-chong-chong-chong-ching
-psych, i joke, i joke, i kidd, i kidd
-if i offend i'm sorry, please, please forgive
-for i am triumph, the puppet dog, i am a mere puppet
-i can get away with anything i sing, you will love it
-jessica simpson, looks oh so temptin'
-nick i ain't never seen an ass like that
-everytime i see that show on mtv my pee pee goes
-doing, doing, doing
-mary-kate and ashley used to be so wholesome
-now they're getting older, they're starting to grow bum bums
-i go to the movies and sit down with my pop corn
-police saying "freeze"
-doing doing doing
-what do you mean freeze?
-geez, i just got my seat
-i have ticket, look, i put away my zipper zipped
-please do not remove me from this movie theater please
-i did not even get to see mary-kate shower scene
-i didn't mean to be obscene or make a great big scene
-and don't treat me like i'm pee wee herman, this movies pg
-mr. officer, i demand to see my attorney
-i will simply plead innocent, cop a plea and be free
-free, yes, free, right back on the streets
-what you mean my lawyer's with michael, he's too busy?
-i am triumph, britney spears has shoulders like a man
-and i can say that and you'll laugh cuz that is a puppet on my hand
-hilary duff is not quite old enough so
-i ain't never seen a butt like that
-maybe next year i'll say ass and she'll make my pee pee go
-doing, doing, doing
-the way she moves she dances like a go-go
-in that video she sings get out your bozo
-i need a new boyfriend, hi my name is jojo
-police saying "freeze"
-doing, doing, doing
-what do you mean freeze?
-my computers would be seized and my keys to my ranch
-i just baked cookies mr. officer, looky, take a whiff of these
-here, i make jesus juice, take a sip of this
-nobody is safe from me, no not even me
-i don't even know if i can say the word pee pee, pee
-on the radio, but i think i did
-janet, is that a breast, i think i just saw a tit
-psych, i joke, i joke, i kidd, i kidd
-i don't think my joke is working, i must flee quick
-get to the chopper, everybody get out
-i am not triumph, i am arnold, get down
-so gwen stefani, will you pee pee on me please?
-i ain't never seen an ass like that
-cuz the way you move it, you make my pee pee go
-doing, doing, doing
-what the fuck is wrong with you? (ha!)
+(dp1
+Vsaying
+p2
+I3
+sVha
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmove
+p6
+I3
+sVgwen
+p7
+I1
+sVpsych
+p8
+I2
+sVlooks
+p9
+I1
+sVhuman
+p10
+I1
+sVshake
+p11
+I1
+sVgo
+p12
+I6
+sVyes
+p13
+I2
+sVground
+p14
+I1
+sVaint
+p15
+I5
+sVresisting
+p16
+I1
+sVpolice
+p17
+I3
+sVwee
+p18
+I1
+sVnick
+p19
+I1
+sVcuz
+p20
+I2
+sVarrest
+p21
+I1
+sVjam
+p22
+I1
+sVinnocent
+p23
+I1
+sVsorry
+p24
+I1
+sVmust
+p25
+I1
+sVtake
+p26
+I2
+sVgeez
+p27
+I1
+sVgood
+p28
+I1
+sVseized
+p29
+I1
+sVgoes
+p30
+I1
+sVget
+p31
+I7
+sVbig
+p32
+I1
+sVsafe
+p33
+I1
+sVpeeing
+p34
+I1
+sVobscene
+p35
+I1
+sVnew
+p36
+I2
+sVticket
+p37
+I1
+sVflee
+p38
+I1
+sVname
+p39
+I1
+sVlike
+p40
+I13
+sVeverytime
+p41
+I1
+sVdid
+p42
+I1
+sVmichael
+p43
+I1
+sVremove
+p44
+I1
+sVtheyre
+p45
+I2
+sVthis
+p46
+I1
+sVofficer
+p47
+I3
+sVquick
+p48
+I1
+sVdone
+p49
+I1
+sVshaking
+p50
+I1
+sVtriumph
+p51
+I3
+sVmean
+p52
+I5
+sVattorney
+p53
+I1
+sVright
+p54
+I1
+sVold
+p55
+I1
+sVchopper
+p56
+I1
+sVdoing
+p57
+I8
+sVbums
+p58
+I1
+sVback
+p59
+I1
+sVfreeze
+p60
+I6
+sVsee
+p61
+I3
+sVused
+p62
+I1
+sVvideo
+p63
+I1
+sVshes
+p64
+I2
+sVplead
+p65
+I1
+sVbreast
+p66
+I1
+sVjanet
+p67
+I1
+sVeven
+p68
+I3
+sVknees
+p69
+I1
+sVgon
+p70
+I1
+sVduff
+p71
+I1
+sVmovies
+p72
+I2
+sVmovie
+p73
+I1
+sVaway
+p74
+I2
+sVplease
+p75
+I6
+sVbutt
+p76
+I1
+sVenough
+p77
+I1
+sVrb
+p78
+I1
+sVpee
+p79
+I19
+sVlooky
+p80
+I1
+sVyoull
+p81
+I1
+sVzipped
+p82
+I1
+sVass
+p83
+I8
+sVmurderer
+p84
+I1
+sVjessica
+p85
+I1
+sVcookies
+p86
+I1
+sVwhiff
+p87
+I1
+sVgot
+p88
+I1
+sVcorn
+p89
+I1
+sVnever
+p90
+I5
+sVforgive
+p91
+I1
+sVfree
+p92
+I3
+sVeminem
+p93
+I1
+sVachingchongchongchongching
+p94
+I1
+sVnelly
+p95
+I1
+sVbusy
+p96
+I1
+sVplea
+p97
+I1
+sVput
+p98
+I1
+sVsing
+p99
+I2
+sVquite
+p100
+I1
+sVzipper
+p101
+I1
+sVcop
+p102
+I1
+sVgreat
+p103
+I1
+sVworking
+p104
+I1
+sVanything
+p105
+I1
+sVoh
+p106
+I1
+sVjoke
+p107
+I5
+sVill
+p108
+I1
+sVcomputers
+p109
+I1
+sVkidd
+p110
+I4
+sVthink
+p111
+I5
+sValready
+p112
+I1
+sVlove
+p113
+I1
+sVdont
+p114
+I5
+sVsimply
+p115
+I1
+sVscene
+p116
+I2
+sVpop
+p117
+I1
+sVjesus
+p118
+I1
+sVdown
+p119
+I1
+sVdances
+p120
+I1
+sVdancer
+p121
+I1
+sVpuppet
+p122
+I3
+sVlaugh
+p123
+I1
+sVimpossible
+p124
+I1
+sVnext
+p125
+I1
+sVmere
+p126
+I1
+sVeverybody
+p127
+I1
+sVwould
+p128
+I1
+sVhes
+p129
+I1
+sVseat
+p130
+I1
+sVhilary
+p131
+I1
+sVherman
+p132
+I1
+sVbozo
+p133
+I1
+sVtreat
+p134
+I2
+sVway
+p135
+I6
+sVbaked
+p136
+I1
+sVpg
+p137
+I1
+sVshoulders
+p138
+I1
+sVstreets
+p139
+I1
+sVdoor
+p140
+I1
+sVthat
+p141
+I6
+sVnobody
+p142
+I1
+sVfuck
+p143
+I1
+sVhi
+p144
+I1
+sVbum
+p145
+I1
+sVtheater
+p146
+I1
+sVbelieve
+p147
+I2
+sVtrue
+p148
+I1
+sVboyfriend
+p149
+I1
+sVme
+p150
+I2
+sVword
+p151
+I1
+sVlook
+p152
+I1
+sVbritney
+p153
+I1
+sVthese
+p154
+I1
+sVgetting
+p155
+I1
+sVmtv
+p156
+I1
+sVsay
+p157
+I3
+sVarnold
+p158
+I1
+sVshower
+p159
+I1
+sVmarykate
+p160
+I2
+sVmr
+p161
+I3
+sVdidnt
+p162
+I1
+sVradio
+p163
+I1
+sValmost
+p164
+I1
+sVyear
+p165
+I1
+sVit
+p166
+I2
+sVjuice
+p167
+I1
+sVcant
+p168
+I2
+sVshell
+p169
+I1
+sVim
+p170
+I7
+sVneed
+p171
+I1
+sVseen
+p172
+I5
+sVmoves
+p173
+I2
+sVsaw
+p174
+I1
+sVsings
+p175
+I1
+sVneeds
+p176
+I1
+sVsip
+p177
+I1
+sVwholesome
+p178
+I1
+sVsit
+p179
+I1
+sVagreeing
+p180
+I1
+sVna
+p181
+I1
+sVmake
+p182
+I7
+sVsong
+p183
+I1
+sVtill
+p184
+I1
+sVbelly
+p185
+I1
+sVsomeones
+p186
+I1
+sVanswer
+p187
+I1
+sVso
+p188
+I1
+sVout
+p189
+I1
+sVspears
+p190
+I1
+sVjojo
+p191
+I1
+sVfinish
+p192
+I1
+sVlawyers
+p193
+I1
+sVkeys
+p194
+I1
+sVstefani
+p195
+I1
+sVhand
+p196
+I1
+sVwrong
+p197
+I1
+sVgrow
+p198
+I1
+sVman
+p199
+I1
+sVgogo
+p200
+I1
+sVdemand
+p201
+I1
+sVashley
+p202
+I1
+sVolder
+p203
+I1
+sVi
+I1
+sVmaybe
+p204
+I1
+sVranch
+p205
+I1
+sVdog
+p206
+I1
+sVtit
+p207
+I1
+sVtemptin
+p208
+I1
+sVringachong
+p209
+I1
+sVoffend
+p210
+I1
+sVstarting
+p211
+I1
+sVsimpson
+p212
+I1
+sVknow
+p213
+I1
+s.

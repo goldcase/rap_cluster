@@ -1,67 +1,599 @@
-"ma homiez" lyrics
-scarface lyrics
-"ma homiez"
-(bring it back)
-i bring it back with all my old school game
-no matter how you hate the og, you can't change him
-see, cause to me it's total disrespect
-for motherfuckers who done lived in the ghetto
-turn around and talk they shit
-and try to downgrade the next dude tryin
-to get up out the ghetto like you
-but you straight fried him
-see, now what you niggas need is open eyes
-although you made yourself a couple a million, you keep an open mind
-cause down the stretch, you lose your grips on reality
-and he who grips, slip on life fades fatality
-i seen the same shit you seen in the 70's
-and you can blame shit on me, but nigga never
-beat the flow of a youngster, raised up amongsta
-niggas who ain't bullshit with life, they straight stuck ya
-now how the fuck am i supposed to change
-a place that since my mother been born it ain't been known to change
-and all my niggas can relate to what i bring to 'em
-instead of turnin my back, i sing to 'em
-jockin my homies?
-ride for my homies, think?
-cause i'll die for my homies
-dedicated to my homies who been trapped in the jail
-since these other motherfuckers seem to lost they respect
-for the place, niggas got game on how to handle these streets
-instead of layin dead, you get knocked down you stand on your feet
-if i ain't learn nothing else, i learned to struggle and strive
-cause the ghetto made a man out a nigga, i can't lie
-but every black community done seen the same thing
-somebody come up out the hood and make a strange change
-ain't no forgettin where it started for me
-the hustle out the hood never departed from me
-no matter how many niggas try to change my story
-can't nobody make me go change my story
-so motherfuckers claimin that they represent life
-make sure them hoes is representin it right
-talk to me
-now break it down to the beat one time
-(vocal breakdown)
-talk to me now
-how dare you so called black politicians
-knock me for the game that i explain to my listeners
-see, they wanna put me on remote control
-so they can turn me on and off when they feel it
-and try to take control
-but i refuse to cooperate
-you take away the plug out the game it ain't gon operate
-so now we're picky with the wickedly ways
-and i done been inside the beast in his belly for six days
-cause they solutions is institutionalize
-all the game made millionaires would choose to survive
-instead of fallin dead, we bounce to these beats
-but you look at my music like an ounce on these streets
-i send this out to every street in your city with blacks on em
-since every motherfucker got paid to turn they backs on em
-i got more love for the ghetto than that
-and every time i step my ass out the hood, i go back
-so you can miss me with that bullshit you stressin
-i keep it real with my niggas with no question
-so while you're teachin em that shit they can fake to
-i teach em shit that they can relate to
-my homies
+(dp1
+Vjockin
+p2
+I1
+sVrepresent
+p3
+I1
+sVdeparted
+p4
+I1
+sVlyrics
+p5
+I2
+sVbring
+p6
+I3
+sVsolutions
+p7
+I1
+sVgo
+p8
+I2
+sVhate
+p9
+I1
+sVaint
+p10
+I5
+sVwickedly
+p11
+I1
+sVexplain
+p12
+I1
+sVsend
+p13
+I1
+sVbullshit
+p14
+I2
+sVto
+p15
+I2
+sVblack
+p16
+I2
+sVyoungster
+p17
+I1
+sVhomies
+p18
+I5
+sVstrive
+p19
+I1
+sVhomiez
+p20
+I2
+sVbelly
+p21
+I1
+sVreal
+p22
+I1
+sVme
+p23
+I3
+sVhandle
+p24
+I1
+sVaround
+p25
+I1
+sVget
+p26
+I2
+sVya
+p27
+I1
+sVcouple
+p28
+I1
+sVbreak
+p29
+I1
+sVgame
+p30
+I5
+sVevery
+p31
+I4
+sVnow
+p32
+I1
+sVhim
+p33
+I2
+sVdare
+p34
+I1
+sVghetto
+p35
+I4
+sVknock
+p36
+I1
+sVschool
+p37
+I1
+sVlike
+p38
+I2
+sVlost
+p39
+I1
+sVdie
+p40
+I1
+sVtry
+p41
+I3
+sVamongsta
+p42
+I1
+sVman
+p43
+I1
+sVlose
+p44
+I1
+sVstraight
+p45
+I2
+sVem
+p46
+I6
+sVnigga
+p47
+I2
+sVold
+p48
+I1
+sVclaimin
+p49
+I1
+sVturnin
+p50
+I1
+sVstreets
+p51
+I2
+sVback
+p52
+I4
+sVdead
+p53
+I2
+sVborn
+p54
+I1
+sVsee
+p55
+I3
+sVstreet
+p56
+I1
+sVhoes
+p57
+I1
+sVgon
+p58
+I1
+sVblacks
+p59
+I1
+sVways
+p60
+I1
+sVmiss
+p61
+I1
+sVaway
+p62
+I1
+sVsince
+p63
+I3
+sVlayin
+p64
+I1
+sVit
+p65
+I1
+sVgot
+p66
+I3
+sVlearned
+p67
+I1
+sVcause
+p68
+I5
+sVforgettin
+p69
+I1
+sVhustle
+p70
+I1
+sVass
+p71
+I1
+sVnever
+p72
+I2
+sVcity
+p73
+I1
+sVmillion
+p74
+I1
+sVmotherfucker
+p75
+I1
+sV70s
+p76
+I1
+sVdisrespect
+p77
+I1
+sVstep
+p78
+I1
+sVstruggle
+p79
+I1
+sVfatality
+p80
+I1
+sVdowngrade
+p81
+I1
+sVsing
+p82
+I1
+sVteach
+p83
+I1
+sVcome
+p84
+I1
+sVchange
+p85
+I6
+sVplug
+p86
+I1
+sVblame
+p87
+I1
+sVquestion
+p88
+I1
+sVog
+p89
+I1
+sVmany
+p90
+I1
+sVill
+p91
+I1
+sVdays
+p92
+I1
+sVkeep
+p93
+I2
+sVturn
+p94
+I3
+sVounce
+p95
+I1
+sVplace
+p96
+I2
+sVstand
+p97
+I1
+sVthink
+p98
+I1
+sVraised
+p99
+I1
+sVmotherfuckers
+p100
+I3
+sVlove
+p101
+I1
+sValthough
+p102
+I1
+sVfeel
+p103
+I1
+sVrelate
+p104
+I2
+sVcommunity
+p105
+I1
+sVone
+p106
+I1
+sVfeet
+p107
+I1
+sVput
+p108
+I1
+sVright
+p109
+I1
+sVdone
+p110
+I3
+sVfake
+p111
+I1
+sVfallin
+p112
+I1
+sVrespect
+p113
+I1
+sVtotal
+p114
+I1
+sVopen
+p115
+I2
+sVhood
+p116
+I3
+sVwan
+p117
+I1
+sVstory
+p118
+I2
+sVwould
+p119
+I1
+sVstretch
+p120
+I1
+sVdude
+p121
+I1
+sVnext
+p122
+I1
+sVstuck
+p123
+I1
+sVmusic
+p124
+I1
+sVsurvive
+p125
+I1
+sVtryin
+p126
+I1
+sVchoose
+p127
+I1
+sVlife
+p128
+I3
+sVlived
+p129
+I1
+sVtrapped
+p130
+I1
+sVstarted
+p131
+I1
+sVnobody
+p132
+I1
+sVelse
+p133
+I1
+sVbounce
+p134
+I1
+sVknown
+p135
+I1
+sVfades
+p136
+I1
+sVmillionaires
+p137
+I1
+sVmade
+p138
+I3
+sVma
+p139
+I2
+sVlook
+p140
+I1
+sVniggas
+p141
+I6
+sVride
+p142
+I1
+sVbeats
+p143
+I1
+sVvocal
+p144
+I1
+sVmatter
+p145
+I2
+sVlisteners
+p146
+I1
+sVsupposed
+p147
+I1
+sVlearn
+p148
+I1
+sVknocked
+p149
+I1
+sVfried
+p150
+I1
+sVcalled
+p151
+I1
+sVcontrol
+p152
+I2
+sVdedicated
+p153
+I1
+sVthat
+p154
+I1
+sVmind
+p155
+I1
+sVfuck
+p156
+I1
+sVsomebody
+p157
+I1
+sVcant
+p158
+I3
+sVscarface
+p159
+I1
+sVslip
+p160
+I1
+sVneed
+p161
+I1
+sVseen
+p162
+I3
+sVseem
+p163
+I1
+sVshit
+p164
+I5
+sVlie
+p165
+I1
+sVinside
+p166
+I1
+sVthing
+p167
+I1
+sVna
+p168
+I1
+sVmake
+p169
+I3
+sVsix
+p170
+I1
+sVbacks
+p171
+I1
+sVreality
+p172
+I1
+sVbeat
+p173
+I2
+sVpoliticians
+p174
+I1
+sVstrange
+p175
+I1
+sVtake
+p176
+I2
+sVinstead
+p177
+I3
+sVyou
+p178
+I1
+sVbreakdown
+p179
+I1
+sVsure
+p180
+I1
+sVtime
+p181
+I2
+sVpaid
+p182
+I1
+sVbeast
+p183
+I1
+sVnothing
+p184
+I1
+sVcooperate
+p185
+I1
+sVeyes
+p186
+I1
+sVrefuse
+p187
+I1
+sVremote
+p188
+I1
+sVpicky
+p189
+I1
+sVstressin
+p190
+I1
+sVyoure
+p191
+I1
+sVflow
+p192
+I1
+sVinstitutionalize
+p193
+I1
+sVgrips
+p194
+I2
+sVjail
+p195
+I1
+sVteachin
+p196
+I1
+sVrepresentin
+p197
+I1
+sVmother
+p198
+I1
+sVoperate
+p199
+I1
+sVtalk
+p200
+I3
+s.

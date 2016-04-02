@@ -1,67 +1,590 @@
-"she knowz what she wantz" lyrics
-gang starr lyrics
-"she knowz what she wantz"
-this jam is dedicated
-to that woman that knows what she wants
-and just how to get it, word up
-she knows what she wants
-yo, she knows what she wants
-she knows what she wants and just how to get it
-she knows what she wants
-yeah, she knows what she wants
-she knows what she wants
-she knows what she wants and just how to get it
-she knows what she wants, she's bold so she flaunts
-her hourglass jewels to mad clientele
-rejected oh well, she ain't goin to no hotel
-not the frantic freak type, but if you speak right
-you get to take her out and dig her out on a weeknight
-weekends, she wants to spend your ends
-her shopping spree is colossal, attitude semi-hostile
-mack diva senorita, no reefer, no pizza, just
-shrimp and lobsters, champagne and mobsters
-suckin up the cream like a vac to a carpet
-strictly black market now you're her next target
-watch out... cause yo she knows what she wants
-she knows what she wants
-yo, she knows what she wants
-she knows what she wants and just how to get it
-spotted her in the club, with her crew nearby
-her looks are a lullaby, to pass us by, she's too fly
-never gunshy, hair is blown dry
-she craves a wiseguy to help her gain amplify
-so when you say, "yo baby," she ain't gotta say hi to ya
-cause prior to this, he put rocks on her neck and wrist
-plus a fat joint on her finger
-you best to have a batch of scratch and treats to bring her
-and if you happen to luck up and get in
-you'll find yourself another jealous trick-ass boyfriend
-and furthermore the mink she's donning is stunning
-blinding your senses dunn, never put the two
-before the one son...
-"it's the lesson well learned"
-"it's going down!"
-"it's the lesson well learned"
-"it's going down!"
-she knows what she wants
-yo, she knows what she wants
-yeah, she knows what she wants and just how to get it
-never fall victim to a chicken you was stickin
-even if you think the punanny might be finger-lickin
-never fall victim to a wicked woman's ways
-"why son?"  she's trying to get paid, check it
-one: she said she wanted to give me a son
-two: she said she didn't like my crew
-three: she never ever cooked for me
-four: she was my cheri amore -- yeah right
-it was all hype, i needed more insight
-in retrospect, i know i slept from the first night
-she did a split and that was it
-gave up my pimp license, and flipped my whole friggin script
-but now i'm back like the isley's moving wisely
-sizing up the situation, keeping honies waiting
-cause i got more to do, than to be sucked dry
-this tough guy, will get by, while the chickens wonder why
-i don't be callin cause it's like ex to next kid
-i know what i want, and just how to get it
-like her, no disrespect miss
+(dp1
+Vlobsters
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVscratch
+p5
+I1
+sVinsight
+p6
+I1
+sVfour
+p7
+I1
+sVbring
+p8
+I1
+sVattitude
+p9
+I1
+sVever
+p10
+I1
+sVgang
+p11
+I1
+sVvictim
+p12
+I2
+sVchicken
+p13
+I1
+sVfind
+p14
+I1
+sVcarpet
+p15
+I1
+sVaint
+p16
+I2
+sVjust
+p17
+I1
+sVwomans
+p18
+I1
+sVweekends
+p19
+I1
+sVwaiting
+p20
+I1
+sVcrew
+p21
+I2
+sVjam
+p22
+I1
+sVblack
+p23
+I1
+sVboyfriend
+p24
+I1
+sVmight
+p25
+I1
+sVta
+p26
+I1
+sVme
+p27
+I1
+sVwoman
+p28
+I1
+sVyo
+p29
+I5
+sVget
+p30
+I10
+sVya
+p31
+I1
+sVwatch
+p32
+I1
+sVkeeping
+p33
+I1
+sVfat
+p34
+I1
+sVjoint
+p35
+I1
+sVknow
+p36
+I2
+sVfall
+p37
+I2
+sVson
+p38
+I3
+sVsucked
+p39
+I1
+sVhonies
+p40
+I1
+sVchampagne
+p41
+I1
+sVlike
+p42
+I5
+sVpimp
+p43
+I1
+sVyoull
+p44
+I1
+sVclientele
+p45
+I1
+sVdig
+p46
+I1
+sVrocks
+p47
+I1
+sVnight
+p48
+I1
+sVhype
+p49
+I1
+sVguy
+p50
+I1
+sVlooks
+p51
+I1
+sVspotted
+p52
+I1
+sVright
+p53
+I2
+sVsenorita
+p54
+I1
+sVcolossal
+p55
+I1
+sVyeah
+p56
+I3
+sVbatch
+p57
+I1
+sVhair
+p58
+I1
+sVshes
+p59
+I4
+sVpass
+p60
+I1
+sVhappen
+p61
+I1
+sVbest
+p62
+I1
+sVhourglass
+p63
+I1
+sVeven
+p64
+I1
+sVsituation
+p65
+I1
+sVsaid
+p66
+I2
+sVways
+p67
+I1
+sVfurthermore
+p68
+I1
+sVdunn
+p69
+I1
+sVfinger
+p70
+I1
+sVgunshy
+p71
+I1
+sVflaunts
+p72
+I1
+sVgot
+p73
+I2
+sVlearned
+p74
+I2
+sVspeak
+p75
+I1
+sVcause
+p76
+I4
+sVends
+p77
+I1
+sVbold
+p78
+I1
+sVnever
+p79
+I5
+sVex
+p80
+I1
+sVpaid
+p81
+I1
+sVamore
+p82
+I1
+sVput
+p83
+I2
+sVmobsters
+p84
+I1
+sVwanted
+p85
+I1
+sVpunanny
+p86
+I1
+sVwiseguy
+p87
+I1
+sVdry
+p88
+I2
+sVdisrespect
+p89
+I1
+sVlicense
+p90
+I1
+sVoh
+p91
+I1
+sVshrimp
+p92
+I1
+sVprior
+p93
+I1
+sVdonning
+p94
+I1
+sVplus
+p95
+I1
+sVmoving
+p96
+I1
+sVluck
+p97
+I1
+sVwhole
+p98
+I1
+sVthink
+p99
+I1
+sVnearby
+p100
+I1
+sVtough
+p101
+I1
+sVdont
+p102
+I1
+sVblown
+p103
+I1
+sVwonder
+p104
+I1
+sVlullaby
+p105
+I1
+sVone
+p106
+I2
+sVdown
+p107
+I2
+sVanother
+p108
+I1
+sVlesson
+p109
+I2
+sVmiss
+p110
+I1
+sVmarket
+p111
+I1
+sVweeknight
+p112
+I1
+sVtrickass
+p113
+I1
+sVher
+p114
+I1
+sVscript
+p115
+I1
+sVvac
+p116
+I1
+sVstrictly
+p117
+I1
+sVslept
+p118
+I1
+sVtwo
+p119
+I2
+sVnext
+p120
+I2
+sVneeded
+p121
+I1
+sVgoing
+p122
+I2
+sVstarr
+p123
+I1
+sVkid
+p124
+I1
+sVtype
+p125
+I1
+sVwicked
+p126
+I1
+sVwants
+p127
+I17
+sVsenses
+p128
+I1
+sVshopping
+p129
+I1
+sVknows
+p130
+I16
+sVclub
+p131
+I1
+sVwantz
+p132
+I2
+sVhotel
+p133
+I1
+sVknowz
+p134
+I2
+sVretrospect
+p135
+I1
+sVrejected
+p136
+I1
+sVreefer
+p137
+I1
+sVhi
+p138
+I1
+sVgain
+p139
+I1
+sVbaby
+p140
+I1
+sVtrying
+p141
+I1
+sVchickens
+p142
+I1
+sVamplify
+p143
+I1
+sVfly
+p144
+I1
+sVstickin
+p145
+I1
+sVword
+p146
+I1
+sVtarget
+p147
+I1
+sVsplit
+p148
+I1
+sVup
+p149
+I1
+sVus
+p150
+I1
+sVsuckin
+p151
+I1
+sVstunning
+p152
+I1
+sVthree
+p153
+I1
+sVim
+p154
+I1
+sVgave
+p155
+I1
+sVdidnt
+p156
+I1
+sVfirst
+p157
+I1
+sVdedicated
+p158
+I1
+sVmink
+p159
+I1
+sVfreak
+p160
+I1
+sVgive
+p161
+I1
+sVcheri
+p162
+I1
+sVit
+p163
+I7
+sVjewels
+p164
+I1
+sVsay
+p165
+I2
+sVcallin
+p166
+I1
+sVfrantic
+p167
+I1
+sVwant
+p168
+I1
+sVin
+p169
+I1
+sVflipped
+p170
+I1
+sVcheck
+p171
+I1
+sVcream
+p172
+I1
+sVwisely
+p173
+I1
+sVsemihostile
+p174
+I1
+sVtake
+p175
+I1
+sVfriggin
+p176
+I1
+sVblinding
+p177
+I1
+sVpizza
+p178
+I1
+sVisleys
+p179
+I1
+sVdiva
+p180
+I1
+sVsizing
+p181
+I1
+sVwrist
+p182
+I1
+sVmad
+p183
+I1
+sVjealous
+p184
+I1
+sVspree
+p185
+I1
+sVmack
+p186
+I1
+sVwhy
+p187
+I1
+sVgoin
+p188
+I1
+sVneck
+p189
+I1
+sVfingerlickin
+p190
+I1
+sVyoure
+p191
+I1
+sVwell
+p192
+I3
+sVcraves
+p193
+I1
+sVcooked
+p194
+I1
+sVback
+p195
+I1
+sVtreats
+p196
+I1
+sVspend
+p197
+I1
+s.

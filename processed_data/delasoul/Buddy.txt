@@ -1,99 +1,743 @@
-"buddy" lyrics
-de la soul lyrics
-"buddy"
-hello
-meany, meany, meany, meany (say what?)
-meany, meany, meany, meany (say what?)
-meany, meany, meany, meany, mean
-meany, meany, meany, meany (say what?)
-meany, meany, meany, meany (say what?)
-meany, meany, meany, meany, mean (okay)
-hello it's the soul
-troopin' in wit the jungle patrol
-and this one's about the ko's the knockouts out there
-who's holdin' my buddy
-hold up
-(wait a minute)
-now just wait
-we're gonna talk about buddy on this plate
-but before we let the herd out the gate
-make sure the all the levels are straight out the jungle
-(the jungle, the jungle, the brothers, the brothers)
-de la soul from the soul
-black medallions no gold
-hangin' out wit pos hangin' out wit mase
-buddy buddy buddy all in my face
-for the lap jimbrowski must wear a cap
-just in case the young girl likes to clap
-ain't for the wind but before i begin
-i initiate the buddy with a slap
-now for the next
-i'm the q-tip from a tribe called quest
-and when i quest for the buddy i don't fess
-for my jimmy wants nothin' but the best (the best)
-the best (ooh wee!)
-let's stick out jimmy and see what we can catch
-(stick em up, stick em up jimmy)
-next won't be needed unless
-(jenny wanna get right to the flesh)
-(sweet little woman, sweet little woman)
-i won't lie, i love b-u-d-d-y (why)
-cause i never let it walk on by
-when it comes to me and jenny i seem (very serious)
-like a peak freen
-buddy is the act that occurs on the lip
-when jenny and jimmy start shootin' the gift
-boy let me get shot i won't even riff
-buddy buddy don't you know you make me go nutty
-i'm so glad that you're not a fuddy duddy
-not too skinny and not too chubby
-soft like silly putty
-miss crabtree i hope that you're not mad at me
-cause i told you that it was your buddy
-that was making me ever so horny
-junglelistically horny
-on the dial my buddy talks to me for a while
-plug two is the
-q to her tip
-on the a side and sometimes the flip
-(gotta gotta flip this record)
-buddy is the bud to my daisy tree
-and the luuden to my do-re-mi
-and the pleaser to my man plug 3
-(plug 3 gets all the buddy)
-behind my bush my buddy likes the way that i push
-and like a champ just knock it on out
-never ever once sellin' out
-(oh let loose the juice)
-my buddy helps me to
-(de la my soul)
-keepin' jimmy in total control
-without buddy i'd be on a roll
-(la la la l-la la la la, la la la l-la la la la)
-hey girl i heard ya lookin' for some good times
-if you quest from the soul here's what we'll find
-a whole lot of fun lots of fun together
-just like kissin' cousins (yeah that's kinda clever)
-close like bosoms, bosoms stay close
-if you be my buddy i will toast
-that we're like ethel merts and lucille macgillicuddy
-you can be mines and i can be your buddy
-the best buddy's in evening wear
-long lovin' less tru know (he's in there)
-i feel sorry for those who pay a fare (a fee) word to the d
-i don't beg i just tease my buddy with my right leg
-and when it's ready what's said is buddy is best in bed
-fly buddy told us all to get into a circle
-said don't worry cause i won't hurt you
-all i really wanna do is freak you (she freaked us)
-and i watched and then i checked my swatch
-to see the time
-the soul had formed a buddy line
-and that buddy was (mine all mine)
-now when tribe, the jungle, and de la soul
-is at the clubs our ritual unfolds
-grab our bones and start swingin' our hands
-(then jenny start flockin' it everywhere)
-cause jenifa just wants to stay aware
-yo fellas should we keep her aware
-(mmm hmm, yeah!!!)
+(dp1
+Vfreak
+p2
+I1
+sVbush
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVflesh
+p6
+I1
+sVpleaser
+p7
+I1
+sVbosoms
+p8
+I2
+sVethel
+p9
+I1
+sVbuddys
+p10
+I1
+sVgo
+p11
+I1
+sVtalk
+p12
+I1
+sVlla
+p13
+I2
+sVritual
+p14
+I1
+sVhorny
+p15
+I2
+sVaint
+p16
+I1
+sVmedallions
+p17
+I1
+sVbuddy
+p18
+I27
+sVwee
+p19
+I1
+sVla
+p20
+I16
+sVcousins
+p21
+I1
+sVless
+p22
+I1
+sVyoung
+p23
+I1
+sVlets
+p24
+I1
+sVblack
+p25
+I1
+sVbud
+p26
+I1
+sVtotal
+p27
+I1
+sVsorry
+p28
+I1
+sVhope
+p29
+I1
+sVta
+p30
+I2
+sVplate
+p31
+I1
+sVwoman
+p32
+I2
+sVyo
+p33
+I1
+sVget
+p34
+I3
+sVya
+p35
+I1
+sVde
+p36
+I4
+sVmeany
+p37
+I24
+sVlovin
+p38
+I1
+sVnext
+p39
+I2
+sVaware
+p40
+I2
+sVones
+p41
+I1
+sVknow
+p42
+I2
+sVclubs
+p43
+I1
+sVhands
+p44
+I1
+sVswatch
+p45
+I1
+sVminute
+p46
+I1
+sVd
+I1
+sVwont
+p47
+I4
+sVknock
+p48
+I1
+sVgets
+p49
+I1
+sVlike
+p50
+I6
+sVgift
+p51
+I1
+sVever
+p52
+I2
+sVluuden
+p53
+I1
+sVholdin
+p54
+I1
+sVmacgillicuddy
+p55
+I1
+sVswingin
+p56
+I1
+sVgrab
+p57
+I1
+sVsoft
+p58
+I1
+sVside
+p59
+I1
+sVclap
+p60
+I1
+sVmean
+p61
+I2
+sVem
+p62
+I2
+sVright
+p63
+I2
+sVjunglelistically
+p64
+I1
+sVunfolds
+p65
+I1
+sVflip
+p66
+I2
+sVtalks
+p67
+I1
+sVsee
+p68
+I2
+sVbed
+p69
+I1
+sVfellas
+p70
+I1
+sVokay
+p71
+I1
+sVgirl
+p72
+I2
+sVbest
+p73
+I5
+sVreally
+p74
+I1
+sVqtip
+p75
+I1
+sVdial
+p76
+I1
+sVgon
+p77
+I1
+sVbeg
+p78
+I1
+sVheres
+p79
+I1
+sVdoremi
+p80
+I1
+sVmines
+p81
+I1
+sVfind
+p82
+I1
+sVnutty
+p83
+I1
+sV3
+I2
+sVfreen
+p84
+I1
+sVwhats
+p85
+I1
+sVwithout
+p86
+I1
+sVgot
+p87
+I2
+sVcause
+p88
+I4
+sVoccurs
+p89
+I1
+sVtold
+p90
+I2
+sVtoast
+p91
+I1
+sVloose
+p92
+I1
+sVleg
+p93
+I1
+sVlucille
+p94
+I1
+sVnever
+p95
+I2
+sVherd
+p96
+I1
+sVmmm
+p97
+I1
+sVputty
+p98
+I1
+sVlet
+p99
+I4
+sVwear
+p100
+I2
+sVfuddy
+p101
+I1
+sVwait
+p102
+I2
+sVplug
+p103
+I3
+sVboy
+p104
+I1
+sVcrabtree
+p105
+I1
+sVoh
+p106
+I1
+sVtru
+p107
+I1
+sVhes
+p108
+I1
+sVtimes
+p109
+I1
+sVinitiate
+p110
+I1
+sVlookin
+p111
+I1
+sVact
+p112
+I1
+sVshootin
+p113
+I1
+sVwhole
+p114
+I1
+sVcomes
+p115
+I1
+sVmad
+p116
+I1
+sVtribe
+p117
+I2
+sVjimmy
+p118
+I5
+sVlove
+p119
+I1
+sVdont
+p120
+I4
+sVfeel
+p121
+I1
+sVsweet
+p122
+I2
+sVpos
+p123
+I1
+sVwalk
+p124
+I1
+sVfreaked
+p125
+I1
+sVwit
+p126
+I3
+sVchamp
+p127
+I1
+sVlikes
+p128
+I2
+sVchubby
+p129
+I1
+sVjimbrowski
+p130
+I1
+sVmiss
+p131
+I1
+sVhey
+p132
+I1
+sVwan
+p133
+I2
+sVlittle
+p134
+I2
+sVfee
+p135
+I1
+sVchecked
+p136
+I1
+sVstart
+p137
+I3
+sVtwo
+p138
+I1
+sVlong
+p139
+I1
+sVwhos
+p140
+I1
+sVneeded
+p141
+I1
+sVway
+p142
+I1
+sVtime
+p143
+I1
+sVkos
+p144
+I1
+sVhelps
+p145
+I1
+sVwants
+p146
+I2
+sVclever
+p147
+I1
+sVlot
+p148
+I1
+sVbehind
+p149
+I1
+sVfly
+p150
+I1
+sVsaid
+p151
+I2
+sVline
+p152
+I1
+sVooh
+p153
+I1
+sVyeah
+p154
+I2
+sVhmm
+p155
+I1
+sVeverywhere
+p156
+I1
+sVfess
+p157
+I1
+sVcatch
+p158
+I1
+sVgold
+p159
+I1
+sVhold
+p160
+I1
+sVcircle
+p161
+I1
+sVglad
+p162
+I1
+sVmust
+p163
+I1
+sVcase
+p164
+I1
+sVword
+p165
+I1
+sVheard
+p166
+I1
+sVstraight
+p167
+I1
+sVcap
+p168
+I1
+sVtree
+p169
+I1
+sVsoul
+p170
+I8
+sVmerts
+p171
+I1
+sVrecord
+p172
+I1
+sVevening
+p173
+I1
+sVsilly
+p174
+I1
+sVkissin
+p175
+I1
+sVfun
+p176
+I2
+sVmaking
+p177
+I1
+sVcalled
+p178
+I1
+sVcontrol
+p179
+I1
+sVtroopin
+p180
+I1
+sVsometimes
+p181
+I1
+sVpatrol
+p182
+I1
+sVjenny
+p183
+I4
+sVmine
+p184
+I2
+sVslap
+p185
+I1
+sVtease
+p186
+I1
+sVjuice
+p187
+I1
+sVsay
+p188
+I4
+sVgood
+p189
+I1
+sVim
+p190
+I2
+sVtogether
+p191
+I1
+sVclose
+p192
+I2
+sVready
+p193
+I1
+sVwatched
+p194
+I1
+sVseem
+p195
+I1
+sVkeep
+p196
+I1
+sVid
+p197
+I1
+sVworry
+p198
+I1
+sVlie
+p199
+I1
+sVus
+p200
+I2
+sVformed
+p201
+I1
+sVsellin
+p202
+I1
+sVna
+p203
+I3
+sVmake
+p204
+I2
+sVtip
+p205
+I1
+sVflockin
+p206
+I1
+sVriff
+p207
+I1
+sVlip
+p208
+I1
+sVgate
+p209
+I1
+sVhangin
+p210
+I2
+sVroll
+p211
+I1
+sVfare
+p212
+I1
+sVeven
+p213
+I1
+sVbegin
+p214
+I1
+sVsure
+p215
+I1
+sVunless
+p216
+I1
+sVbrothers
+p217
+I2
+sVduddy
+p218
+I1
+sVdaisy
+p219
+I1
+sVstay
+p220
+I2
+sVkeepin
+p221
+I1
+sVlevels
+p222
+I1
+sVpeak
+p223
+I1
+sVkinda
+p224
+I1
+sVbones
+p225
+I1
+sVhurt
+p226
+I1
+sVlap
+p227
+I1
+sVskinny
+p228
+I1
+sVman
+p229
+I1
+sVmase
+p230
+I1
+sVjenifa
+p231
+I1
+sVyoure
+p232
+I2
+sVwell
+p233
+I1
+sVnothin
+p234
+I1
+sVface
+p235
+I1
+sVq
+I1
+sVlots
+p236
+I1
+sVquest
+p237
+I3
+sVjungle
+p238
+I5
+sVpay
+p239
+I1
+sVpush
+p240
+I1
+sVserious
+p241
+I1
+sVknockouts
+p242
+I1
+sVthats
+p243
+I1
+sVhello
+p244
+I2
+sVwind
+p245
+I1
+sVstick
+p246
+I3
+s.

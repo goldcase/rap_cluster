@@ -1,62 +1,557 @@
-jesus walks lyrics
-kanye west lyrics
-jesus walks
-yo war
-war terrorism racism war ourselves
-jesus walks
-god show way devil trying break down
-jesus walks
-know midwest is
-young  restless
-restless niggas might snatch necklace
-next niggas might jack lexus
-somebody tell niggas kanye west is
-walk valley shadow death is
-top floor view alone leave breathless uhhhh
-try catch uhhhh kinda hard
-getting choked detectives yeah yeah check method
-asking us questions harass arrest us
-saying eat pieces shit like breakfast
-huh yall eat pieces shit whats basis
-aint going nowhere got suits cases
-trunk full coke rental car avis
-mamma used say jesus save us
-well mamma know act fool
-ill gone til november got packs move hope
-jesus walks
-god show way devil trying break down
-jesus walks me
-thing pray feet dont fail now
-jesus walks
-dont think nothing right wrongs
-jesus walks me
-want talk god im afraid aint spoke long
-hustlers killers murderers drug dealers even strippers
-jesus walks them
-victims welfare living hell hell yeah
-jesus walks them
-hear ye hear ye want see thee clearly
-know hear feet get weary
-cause almost nearly extinct
-rappers role models rap dont think
-aint argue facial features
-convert atheists believers
-im trying say way school need teachers
-way kathie lee needed regis thats way need jesus
-go single dog radio needs this
-say rap anything except jesus
-means guns sex lies video tapes
-talk god record wont get played huh
-well take away spins
-probably take away ends
-hope take away sins
-bring day im dreaming about
-next time im club everybody screaming out
-jesus walks
-god show way devil trying break down
-jesus walks
-thing pray feet dont fail now
-jesus walks
-dont thing theres nothing right wrongs
-jesus walks fades
-want talk god im afraid aint spoke long
+(dp1
+Vsaying
+p2
+I1
+sVnow
+p3
+I2
+sVlyrics
+p4
+I2
+sVshow
+p5
+I3
+sVmove
+p6
+I1
+sVbring
+p7
+I1
+sVradio
+p8
+I1
+sVquestions
+p9
+I1
+sVwelfare
+p10
+I1
+sVgo
+p11
+I1
+sVkanye
+p12
+I2
+sVlexus
+p13
+I1
+sVfeatures
+p14
+I1
+sVaint
+p15
+I4
+sVdetectives
+p16
+I1
+sVdeath
+p17
+I1
+sVpray
+p18
+I2
+sVscreaming
+p19
+I1
+sVyoung
+p20
+I1
+sVsuits
+p21
+I1
+sVarrest
+p22
+I1
+sVgoing
+p23
+I1
+sVavis
+p24
+I1
+sVsave
+p25
+I1
+sVmidwest
+p26
+I1
+sVhope
+p27
+I2
+sVfool
+p28
+I1
+sVfades
+p29
+I1
+sVthem
+p30
+I2
+sVsomebody
+p31
+I1
+sVyo
+p32
+I1
+sVget
+p33
+I2
+sVthee
+p34
+I1
+sVye
+p35
+I2
+sVregis
+p36
+I1
+sVbreak
+p37
+I3
+sVkillers
+p38
+I1
+sVknow
+p39
+I3
+sVfacial
+p40
+I1
+sVprobably
+p41
+I1
+sVshadow
+p42
+I1
+sVjesus
+p43
+I17
+sVrental
+p44
+I1
+sVday
+p45
+I1
+sVnearly
+p46
+I1
+sVwont
+p47
+I1
+sVfeet
+p48
+I3
+sVschool
+p49
+I1
+sVlike
+p50
+I1
+sVguns
+p51
+I1
+sVtry
+p52
+I1
+sVyall
+p53
+I1
+sVview
+p54
+I1
+sVright
+p55
+I2
+sVrestless
+p56
+I2
+sVhard
+p57
+I1
+sVyeah
+p58
+I3
+sVsex
+p59
+I1
+sVsee
+p60
+I1
+sVvideo
+p61
+I1
+sVhell
+p62
+I2
+sVfail
+p63
+I2
+sVourselves
+p64
+I1
+sVmight
+p65
+I2
+sVeven
+p66
+I1
+sVleave
+p67
+I1
+sVgod
+p68
+I6
+sVaway
+p69
+I3
+sVbelievers
+p70
+I1
+sVasking
+p71
+I1
+sVgot
+p72
+I2
+sVcause
+p73
+I1
+sVmethod
+p74
+I1
+sVuhhhh
+p75
+I2
+sVends
+p76
+I1
+sVfull
+p77
+I1
+sVlee
+p78
+I1
+sVsins
+p79
+I1
+sVweary
+p80
+I1
+sVbreathless
+p81
+I1
+sVnowhere
+p82
+I1
+sVtrunk
+p83
+I1
+sValone
+p84
+I1
+sVchoked
+p85
+I1
+sVconvert
+p86
+I1
+sVanything
+p87
+I1
+sVgetting
+p88
+I1
+sVill
+p89
+I1
+sVdrug
+p90
+I1
+sVhustlers
+p91
+I1
+sVthing
+p92
+I3
+sVharass
+p93
+I1
+sVspins
+p94
+I1
+sVact
+p95
+I1
+sVargue
+p96
+I1
+sVthink
+p97
+I2
+sVstrippers
+p98
+I1
+sVwhats
+p99
+I1
+sVdont
+p100
+I5
+sVwalk
+p101
+I1
+sVdown
+p102
+I3
+sVlies
+p103
+I1
+sVdreaming
+p104
+I1
+sVextinct
+p105
+I1
+sVnovember
+p106
+I1
+sVmurderers
+p107
+I1
+sVeverybody
+p108
+I1
+sVdevil
+p109
+I3
+sVexcept
+p110
+I1
+sVspoke
+p111
+I2
+sVbasis
+p112
+I1
+sVwest
+p113
+I2
+sVtop
+p114
+I1
+sVracism
+p115
+I1
+sVlong
+p116
+I2
+sVnext
+p117
+I2
+sVwrongs
+p118
+I2
+sVatheists
+p119
+I1
+sVway
+p120
+I6
+sVvalley
+p121
+I1
+sVwar
+p122
+I3
+sVpacks
+p123
+I1
+sVclub
+p124
+I1
+sVcoke
+p125
+I1
+sVhuh
+p126
+I2
+sVabout
+p127
+I1
+sVsnatch
+p128
+I1
+sVhear
+p129
+I3
+sVcatch
+p130
+I1
+sVcases
+p131
+I1
+sVtrying
+p132
+I4
+sVkathie
+p133
+I1
+sVeat
+p134
+I2
+sVme
+p135
+I2
+sVtapes
+p136
+I1
+sVniggas
+p137
+I3
+sVthis
+p138
+I1
+sVcar
+p139
+I1
+sVsingle
+p140
+I1
+sVus
+p141
+I3
+sVtell
+p142
+I1
+sVrecord
+p143
+I1
+sVteachers
+p144
+I1
+sVtheres
+p145
+I1
+sVgone
+p146
+I1
+sVrap
+p147
+I2
+sVplayed
+p148
+I1
+sValmost
+p149
+I1
+sVis
+p150
+I3
+sVpieces
+p151
+I2
+sVsay
+p152
+I3
+sVim
+p153
+I5
+sVwant
+p154
+I3
+sVwalks
+p155
+I14
+sVneed
+p156
+I2
+sVvictims
+p157
+I1
+sVbreakfast
+p158
+I1
+sVcheck
+p159
+I1
+sVshit
+p160
+I2
+sVneeds
+p161
+I1
+sVafraid
+p162
+I2
+sVfloor
+p163
+I1
+sVmeans
+p164
+I1
+sVclearly
+p165
+I1
+sVtil
+p166
+I1
+sVrole
+p167
+I1
+sVtake
+p168
+I3
+sVterrorism
+p169
+I1
+sVout
+p170
+I1
+sVused
+p171
+I1
+sVliving
+p172
+I1
+sVmodels
+p173
+I1
+sVrappers
+p174
+I1
+sVkinda
+p175
+I1
+sVnothing
+p176
+I2
+sVneeded
+p177
+I1
+sVdealers
+p178
+I1
+sVwell
+p179
+I2
+sVdog
+p180
+I1
+sVmamma
+p181
+I2
+sVtime
+p182
+I1
+sVnecklace
+p183
+I1
+sVthats
+p184
+I1
+sVtalk
+p185
+I3
+sVjack
+p186
+I1
+s.

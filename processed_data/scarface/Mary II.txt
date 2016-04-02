@@ -1,45 +1,410 @@
-"mary ii" lyrics
-scarface lyrics
-"mary ii"
-i don't really remember ... feelin' like this
-- i wish they can see they need mary
-in a great day and i'm on it
-coming up out ya
-and every now and then i can't help but to think about ya
-hatin' that we ended like this, but i had ya beefin'
-i knew what that was missin wondering, and i need ya
-more now then i ever did, put in my heart for ya
-starin' at my eyes they ain't shot, wide open
-gotta love forming in my life, for another day
-and i thank you for some other doing, just let em' pray
--just the only thing, i need mary
--sssssshh!, i just need mary
-had me thinkin'
-she was the only i'd ever needed
-stick in ground, runnin' round, like oh..never need her
-i remember seeing cancer sticks, and smellin' inscents
-the intimate, and couch, hoping it's soak sex
-and niggas so thick, i had to call her up the same night
-dang, they said the number still is the same
-wouldn't let my friends kill her
-take ya penetentiary chances to be with her, go deep with her
-cheif with her, sprung on the number lawn braud
-once she get you hot in her clutches, you can't run
-in the dark, hearing footsteps, and you can't sleep
-you find yourself so in love with this bitch, that you can't eat
-paranoia, that's a feeling so scarce(so scarce)
-this bitch almost made me need mary
--i'm the first one to tell you i need mary
--shit, i need mary
-mary, been home sick, i gotta see her
-and when i finally hit you this time, i'd never leave ya
-took ya love for granite, i was blind
-and i'm hoping you can accept my apology, for this one last time
-you can tell that i ain't had her, cuz i can't control her
-this hasheesh, mary i love, just like i told ya
-i'm sensitive as i write you this letter, so listen to it
-seeing if you'd be down for a threesome
-..mary
--i'm the first to ever tell you i need mary
--i'm the first to ever tell you i need mary
--man i tell ya, i need mary
+(dp1
+Vshot
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVchances
+p5
+I1
+sVended
+p6
+I1
+sVkill
+p7
+I1
+sVgo
+p8
+I1
+sVscarce
+p9
+I1
+sVstill
+p10
+I1
+sVfind
+p11
+I1
+sVground
+p12
+I1
+sVaint
+p13
+I2
+sVthank
+p14
+I1
+sVhasheesh
+p15
+I1
+sVpray
+p16
+I1
+sVparanoia
+p17
+I1
+sVfinally
+p18
+I1
+sVbeefin
+p19
+I1
+sVta
+p20
+I2
+sVclutches
+p21
+I1
+sVhit
+p22
+I1
+sVget
+p23
+I1
+sVya
+p24
+I10
+sVfeelin
+p25
+I1
+sVdark
+p26
+I1
+sVevery
+p27
+I1
+sVone
+p28
+I2
+sVday
+p29
+I2
+sVlike
+p30
+I4
+sVinscents
+p31
+I1
+sVleave
+p32
+I1
+sVnight
+p33
+I1
+sVsleep
+p34
+I1
+sVround
+p35
+I1
+sVem
+p36
+I1
+sVsex
+p37
+I1
+sVsee
+p38
+I2
+sVhome
+p39
+I1
+sVreally
+p40
+I1
+sVsaid
+p41
+I1
+sVscarceso
+p42
+I1
+sVgot
+p43
+I2
+sVever
+p44
+I4
+sVtold
+p45
+I1
+sVknew
+p46
+I1
+sVrun
+p47
+I1
+sVintimate
+p48
+I1
+sVnever
+p49
+I1
+sVsprung
+p50
+I1
+sVlet
+p51
+I2
+sVput
+p52
+I1
+sVgreat
+p53
+I1
+sVlast
+p54
+I1
+sVwouldnt
+p55
+I1
+sVthing
+p56
+I1
+sVcheif
+p57
+I1
+sVpenetentiary
+p58
+I1
+sVthreesome
+p59
+I1
+sVfootsteps
+p60
+I1
+sVthink
+p61
+I1
+sVthats
+p62
+I1
+sVblind
+p63
+I1
+sVseeing
+p64
+I2
+sVlove
+p65
+I4
+sVdont
+p66
+I1
+sVcancer
+p67
+I1
+sVyoud
+p68
+I1
+sVnumber
+p69
+I2
+sVohnever
+p70
+I1
+sVhearing
+p71
+I1
+sVbitch
+p72
+I2
+sVanother
+p73
+I1
+sVthick
+p74
+I1
+sVopen
+p75
+I1
+sVsticks
+p76
+I1
+sVher
+p77
+I5
+sVneeded
+p78
+I1
+sVaccept
+p79
+I1
+sVcall
+p80
+I1
+sVwondering
+p81
+I1
+sVmary
+p82
+I14
+sVlisten
+p83
+I1
+sVeyes
+p84
+I1
+sVbraud
+p85
+I1
+sVforming
+p86
+I1
+sVtook
+p87
+I1
+sVstick
+p88
+I1
+sVhatin
+p89
+I1
+sVeat
+p90
+I1
+sVrunnin
+p91
+I1
+sVwide
+p92
+I1
+sVmade
+p93
+I1
+sVniggas
+p94
+I1
+sVthis
+p95
+I1
+sVwish
+p96
+I1
+sVtell
+p97
+I5
+sVdang
+p98
+I1
+sVim
+p99
+I6
+sVfeeling
+p100
+I1
+sVcontrol
+p101
+I1
+sVheart
+p102
+I1
+sVhoping
+p103
+I2
+sValmost
+p104
+I1
+sVit
+p105
+I2
+sVdeep
+p106
+I1
+sVii
+p107
+I2
+sVcant
+p108
+I5
+sVscarface
+p109
+I1
+sVneed
+p110
+I11
+sVid
+p111
+I2
+sVshit
+p112
+I1
+sVsoak
+p113
+I1
+sVsensitive
+p114
+I1
+sVthinkin
+p115
+I1
+sVsame
+p116
+I1
+sVcouch
+p117
+I1
+sVwrite
+p118
+I1
+sVhot
+p119
+I1
+sVtake
+p120
+I1
+sVsick
+p121
+I1
+sVgranite
+p122
+I1
+sVmissin
+p123
+I1
+sVstarin
+p124
+I1
+sVletter
+p125
+I1
+sVcoming
+p126
+I1
+sVfriends
+p127
+I1
+sVman
+p128
+I1
+sVlawn
+p129
+I1
+sVremember
+p130
+I2
+sVapology
+p131
+I1
+sVlife
+p132
+I1
+sVsmellin
+p133
+I1
+sVsssssshh
+p134
+I1
+sVtime
+p135
+I2
+sVfirst
+p136
+I3
+sVcuz
+p137
+I1
+s.

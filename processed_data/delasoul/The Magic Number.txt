@@ -1,96 +1,611 @@
-"the magic number" lyrics
-de la soul lyrics
-"the magic number"
-(got to have soul!)
-3
-that's the magic number
-yes it is
-it's the magic number
-somewhere in this hip-hop soul community
-was born 3 mase, dove and me
-and that's the magic number
-(what does it all mean?)
-difficult preaching is posdnuos' pleasure
-pleasure and preaching starts in the heart
-something that stimulates the music in my measure
-measure in my music, raised in three parts
-casually see but don't do like the soul
-'cause seein' and doin' are actions for monkeys
-doin' hip hop hustle, no rock and roll
-unless your name's brewster, 'cause brewster's a punky
-parents let go 'cause there's magic in the air
-criticising rap shows you're out of order
-stop look and listen to the phrasin' fred astaires
-and don't get offended while mase do-se-do's your daughter
-a tri-camera rolls since our music's now set
-fly rhymes are stored on a d.a.i.s.y. production
-it stands for "da inner sound y'all" and y'all can bet
-that the action's not a trick, but showing the function
-everybody wants to be a deejay
-everybody wants to be an emcee
-but being speakers are the best
-and you don't have to guess
-de la soul posse consists of three
-and that's the magic number
-this here piece of the pie
-is not dessert but the course that we dine
-and three out of every darn time
-the effect is "mmmm" when a daisy grows in your mind
-showing true position, this here piece is
-kissin' the part of the pie that's missin'
-when that negative number fills up the casualty
-maybe you can subtract it
-you can call it your lucky partner
-maybe you can call it your adjective
-but odd as it may be
-without my 1 and 2 where would there be
-my 3
-mase pos and me
-and that's the magic number
-focus is formed by flaunts to the soul
-souls who flaunt styles gain praises by pounds
-common are speakers who are never scrolls
-scrolls written daily creates a new sound
-listeners listen 'cause this here is wisdom
-wisdom of a speaker, a dove and a plug
-set aside a legal substance to feed 'em
-for now get 'em high off this dialect drug
-time is a factor so it's time to count
-count not the negative actions of one
-speakers of soul say it's time to shout
-three forms the soul to a positive sum
-dance to this fix and flex every muscle
-space can be filled if you rise like my lumber
-advance to the tune but don't do the hustle
-shake, rattle, roll to my magic number
-now you may try to subtract it
-but it just won't go away
-three times one?
-(what is it?)
-(one, two, three!)
-and that's the magic number
-(yo, what's up?)
-(1, 2, 3)
-(i say, children, what does it all mean?)
-(woah-woah-wo, 1, 2, 3)
-(i wouldn't lie to you)
-(no more no less, that's the magic number)
-(no more no less)
-(what it is?)
-(no more no less)
-(is this the future?)
-(no more no less)
-(do the shang-a-lang)
-(no more no less)
-(no one on the subway ever chats to me)
-(no more no less)
-(anybody in the audience ever get hit by a car?)
-(no more no less)
-(how high's the water, mama?)
-(no more no less)
-(how high's the water, mama?)
-(no more no less)
-(three feet high and rising)
-(no more no less)
-(three)
-(that's the magic number)
+(dp1
+Vchats
+p2
+I1
+sVposse
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I10
+sVdance
+p6
+I1
+sVdine
+p7
+I1
+sVactions
+p8
+I3
+sVadjective
+p9
+I1
+sVcourse
+p10
+I1
+sVstored
+p11
+I1
+sVflaunt
+p12
+I1
+sVshake
+p13
+I1
+sVgo
+p14
+I2
+sVyes
+p15
+I1
+sVchildren
+p16
+I1
+sVpraises
+p17
+I1
+sVla
+p18
+I2
+sVsomewhere
+p19
+I1
+sVfix
+p20
+I1
+sVwritten
+p21
+I1
+sVforms
+p22
+I1
+sVshout
+p23
+I1
+sVproduction
+p24
+I1
+sVparents
+p25
+I1
+sVcriticising
+p26
+I1
+sVhip
+p27
+I1
+sVfly
+p28
+I1
+sVhit
+p29
+I1
+sVcasually
+p30
+I1
+sVget
+p31
+I3
+sVdessert
+p32
+I1
+sVshowing
+p33
+I2
+sVde
+p34
+I2
+sVstop
+p35
+I1
+sVlucky
+p36
+I1
+sVda
+p37
+I1
+sVevery
+p38
+I2
+sVdarn
+p39
+I1
+sVfocus
+p40
+I1
+sVone
+p41
+I4
+sVmonkeys
+p42
+I1
+sVwont
+p43
+I1
+sVfeet
+p44
+I1
+sVmagic
+p45
+I12
+sVlike
+p46
+I2
+sVpounds
+p47
+I1
+sVever
+p48
+I2
+sVgrows
+p49
+I1
+sVtry
+p50
+I1
+sVaudience
+p51
+I1
+sVcommon
+p52
+I1
+sVrock
+p53
+I1
+sVhustle
+p54
+I2
+sVyall
+p55
+I2
+sVmean
+p56
+I2
+sVem
+p57
+I2
+sVset
+p58
+I2
+sVtricamera
+p59
+I1
+sVborn
+p60
+I1
+sVsee
+p61
+I1
+sVpreaching
+p62
+I2
+sVmeasure
+p63
+I2
+sVodd
+p64
+I1
+sVbest
+p65
+I1
+sVstands
+p66
+I1
+sVspace
+p67
+I1
+sVbrewster
+p68
+I1
+sVsum
+p69
+I1
+sVsince
+p70
+I1
+sVlegal
+p71
+I1
+sV3
+I5
+sVfuture
+p72
+I1
+sVgot
+p73
+I1
+sVcause
+p74
+I4
+sVhighs
+p75
+I2
+sVfilled
+p76
+I1
+sVshows
+p77
+I1
+sVflaunts
+p78
+I1
+sVpunky
+p79
+I1
+sVscrolls
+p80
+I2
+sVnever
+p81
+I1
+sVdeejay
+p82
+I1
+sVfred
+p83
+I1
+sVwater
+p84
+I2
+sVlet
+p85
+I1
+sVconsists
+p86
+I1
+sVsubtract
+p87
+I2
+sVplug
+p88
+I1
+sVadvance
+p89
+I1
+sVshangalang
+p90
+I1
+sVsubstance
+p91
+I1
+sVdaughter
+p92
+I1
+sVwouldnt
+p93
+I1
+sVstarts
+p94
+I1
+sVcount
+p95
+I2
+sVdrug
+p96
+I1
+sVtimes
+p97
+I1
+sVcreates
+p98
+I1
+sVpos
+p99
+I1
+sVdaisy
+p100
+I2
+sVstyles
+p101
+I1
+sVemcee
+p102
+I1
+sVthats
+p103
+I8
+sVfeed
+p104
+I1
+sVraised
+p105
+I1
+sVwhats
+p106
+I1
+sVdont
+p107
+I4
+sVnumber
+p108
+I12
+sVcommunity
+p109
+I1
+sVnegative
+p110
+I2
+sVphrasin
+p111
+I1
+sVrising
+p112
+I1
+sVnames
+p113
+I1
+sVaway
+p114
+I1
+sVfactor
+p115
+I1
+sVrolls
+p116
+I1
+sVeverybody
+p117
+I2
+sVguess
+p118
+I1
+sVseein
+p119
+I1
+sVwould
+p120
+I1
+sVpositive
+p121
+I1
+sVthree
+p122
+I8
+sV2
+I3
+sVmusic
+p123
+I2
+sVinner
+p124
+I1
+sVmama
+p125
+I2
+sVcall
+p126
+I2
+sVlisten
+p127
+I2
+sVfunction
+p128
+I1
+sVyo
+p129
+I1
+sVformed
+p130
+I1
+sVwisdom
+p131
+I2
+sVmmmm
+p132
+I1
+sVpart
+p133
+I1
+sVgain
+p134
+I1
+sVtrue
+p135
+I1
+sVsound
+p136
+I2
+sVlook
+p137
+I1
+sVcar
+p138
+I1
+sVsoul
+p139
+I8
+sVrhymes
+p140
+I1
+sVair
+p141
+I1
+sVtrick
+p142
+I1
+sVoffended
+p143
+I1
+sVlisteners
+p144
+I1
+sVlumber
+p145
+I1
+sVwoahwoahwo
+p146
+I1
+sVkissin
+p147
+I1
+sVpiece
+p148
+I2
+sVbet
+p149
+I1
+sVtheres
+p150
+I1
+sVheart
+p151
+I1
+sVflex
+p152
+I1
+sVrattle
+p153
+I1
+sVmind
+p154
+I1
+sVpie
+p155
+I2
+sVhigh
+p156
+I2
+sVsay
+p157
+I2
+sVdosedos
+p158
+I1
+sVsomething
+p159
+I1
+sVrap
+p160
+I1
+sVpartner
+p161
+I1
+sVbrewsters
+p162
+I1
+sVastaires
+p163
+I1
+sVcasualty
+p164
+I1
+sVlie
+p165
+I1
+sVspeakers
+p166
+I3
+sVstimulates
+p167
+I1
+sVmusics
+p168
+I1
+sVaside
+p169
+I1
+sV1
+I3
+sVparts
+p170
+I1
+sVspeaker
+p171
+I1
+sVhop
+p172
+I1
+sVposdnuos
+p173
+I1
+sVnew
+p174
+I1
+sVroll
+p175
+I2
+sVdifficult
+p176
+I1
+sVdialect
+p177
+I1
+sVrise
+p178
+I1
+sVunless
+p179
+I1
+sVmay
+p180
+I2
+sVdoin
+p181
+I2
+sVmissin
+p182
+I1
+sVsouls
+p183
+I1
+sVeffect
+p184
+I1
+sVhiphop
+p185
+I1
+sVtwo
+p186
+I1
+sVposition
+p187
+I1
+sVdove
+p188
+I2
+sVtune
+p189
+I1
+sVmase
+p190
+I3
+sVfills
+p191
+I1
+sVmaybe
+p192
+I2
+sVyoure
+p193
+I1
+sVanybody
+p194
+I1
+sVdaily
+p195
+I1
+sVwants
+p196
+I2
+sVwithout
+p197
+I1
+sVtime
+p198
+I4
+sVpleasure
+p199
+I2
+sVmuscle
+p200
+I1
+sVorder
+p201
+I1
+sVsubway
+p202
+I1
+s.

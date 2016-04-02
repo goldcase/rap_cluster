@@ -1,61 +1,427 @@
-"just fuckin' around" lyrics
-50 cent lyrics
-"just fuckin' around"
-you can hum all you want to
-cum all you want to
-but i ain't gon' want you
-if nobody wants you
-you like the smiles n the dimples on my face
-bitch that's a bullet wound i ain't mase!
-50 cent skip the bullshit, you fuckin' tonight
-i got some dro, got some henny
-we can go and get right
-i ain't never been arrested for nothing domestic
-but i ain't gon' lie i'll punch a bitch in the eye
-look, don't play games with me baby
-the temptation, the wait, is driving me crazy
-come on give me some ass girl... what up!
-i don't wanna make love
-i just wanna fuck
-i'm only in town tonight
-if you give me some head
-tony, give you some head
-a'ight
-cause i ain't giving you no head, bitch
-tony, tony be on that freaky shit
-my nigga tony give you some fucking head though
-nada mean
-that's why the bitches love tony, ha ha
-alright now, sha let's get to some hard shit!
-if i make it to heaven
-i'll probably be in the bitch lonely
-walk around saying, 'everybody in hell know me'
-you heard of banks, you heard of yayo, them niggaz my homies
-you probably thinking how he get there
-that nigga my coatie
-the weather in hell is kinda hot
-you know like the block
-i heard it really burns
-homie, you know like a shot
-that's alright for me shit
-cause im in the drop
-drive around heavy
-tryna find big and pac
-niggaz think when they die
-all they problems stop
-you die in jail, and wake up in hell
-still on lock
-imagine if you stole something and you got shot
-wake up holdin' your head, still shot
-niggaz don' died of aids
-you know the dirty dick
-wake up in hell horny
-fidna fuck the same bitch
-damn
-yeah, who hotta than me, nigga aaaaah
-the only nigga hotter than me
-dead already nigga
-i know what you thinkin
-you thinkin that's it
-yeah nigga let's just keep it short and sweet
-you know!
+(dp1
+Vsaying
+p2
+I1
+sVshot
+p3
+I3
+sVlyrics
+p4
+I2
+sVskip
+p5
+I1
+sVdomestic
+p6
+I1
+sVgo
+p7
+I1
+sVhell
+p8
+I4
+sVstill
+p9
+I2
+sVfind
+p10
+I1
+sVaint
+p11
+I5
+sVthinking
+p12
+I1
+sVdick
+p13
+I1
+sVto
+p14
+I2
+sVlets
+p15
+I2
+sVpac
+p16
+I1
+sVhomies
+p17
+I1
+sVcum
+p18
+I1
+sVme
+p19
+I2
+sVlonely
+p20
+I1
+sVaround
+p21
+I4
+sVget
+p22
+I3
+sVbig
+p23
+I1
+sVnada
+p24
+I1
+sVstop
+p25
+I1
+sVknow
+p26
+I6
+sVgot
+p27
+I3
+sVburns
+p28
+I1
+sVbullshit
+p29
+I1
+sVheaven
+p30
+I1
+sVlike
+p31
+I3
+sVfreaky
+p32
+I1
+sVdrop
+p33
+I1
+sVarrested
+p34
+I1
+sV50
+p35
+I2
+sVsha
+p36
+I1
+sVweather
+p37
+I1
+sVholdin
+p38
+I1
+sVdie
+p39
+I2
+sVmean
+p40
+I1
+sVheavy
+p41
+I1
+sVright
+p42
+I1
+sVfucking
+p43
+I1
+sVhard
+p44
+I1
+sVyeah
+p45
+I2
+sVdead
+p46
+I1
+sVaids
+p47
+I1
+sVgirl
+p48
+I1
+sVreally
+p49
+I1
+sVgon
+p50
+I2
+sVdriving
+p51
+I1
+sVtemptation
+p52
+I1
+sVgiving
+p53
+I1
+sVhorny
+p54
+I1
+sVdimples
+p55
+I1
+sVcause
+p56
+I2
+sVass
+p57
+I1
+sVnever
+p58
+I1
+sVpunch
+p59
+I1
+sVimagine
+p60
+I1
+sVcome
+p61
+I1
+sVwait
+p62
+I1
+sVill
+p63
+I2
+sVkeep
+p64
+I1
+sVgames
+p65
+I1
+sVdro
+p66
+I1
+sVthink
+p67
+I1
+sVfuckin
+p68
+I3
+sVthats
+p69
+I4
+sValready
+p70
+I1
+sVlove
+p71
+I2
+sVdont
+p72
+I2
+sVsweet
+p73
+I1
+sVwalk
+p74
+I1
+sVnigga
+p75
+I6
+sVbitch
+p76
+I5
+sVtony
+p77
+I5
+sVeverybody
+p78
+I1
+sVwan
+p79
+I2
+sVeye
+p80
+I1
+sVthere
+p81
+I1
+sVcent
+p82
+I2
+sVdamn
+p83
+I1
+sVfidna
+p84
+I1
+sVwants
+p85
+I1
+sVtryna
+p86
+I1
+sVhead
+p87
+I5
+sVhum
+p88
+I1
+sVbitches
+p89
+I1
+sVit
+p90
+I1
+sVhotta
+p91
+I1
+sVwake
+p92
+I3
+sVbaby
+p93
+I1
+sVprobably
+p94
+I2
+sVha
+p95
+I2
+sVyayo
+p96
+I1
+sVtown
+p97
+I1
+sVlook
+p98
+I1
+sVup
+p99
+I1
+sVniggaz
+p100
+I3
+sVn
+I1
+sVdirty
+p101
+I1
+sVaight
+p102
+I1
+sVcrazy
+p103
+I1
+sVhotter
+p104
+I1
+sVgive
+p105
+I4
+sVlock
+p106
+I1
+sVfuck
+p107
+I2
+sVtonight
+p108
+I2
+sVheard
+p109
+I3
+sVhomie
+p110
+I1
+sVim
+p111
+I2
+sVsomething
+p112
+I1
+sVwant
+p113
+I3
+sVstole
+p114
+I1
+sVshit
+p115
+I3
+sVlie
+p116
+I1
+sVna
+p117
+I2
+sVmake
+p118
+I2
+sVwound
+p119
+I1
+sVhot
+p120
+I1
+sVhenny
+p121
+I1
+sVyou
+p122
+I2
+sVsmiles
+p123
+I1
+sVplay
+p124
+I1
+sVnobody
+p125
+I1
+sVthough
+p126
+I1
+sVproblems
+p127
+I1
+sVbanks
+p128
+I1
+sVkinda
+p129
+I1
+sVnothing
+p130
+I1
+sVdied
+p131
+I1
+sVmase
+p132
+I1
+sVshort
+p133
+I1
+sVbullet
+p134
+I1
+sVaaaaah
+p135
+I1
+sVdrive
+p136
+I1
+sVface
+p137
+I1
+sVjail
+p138
+I1
+sVblock
+p139
+I1
+sVcoatie
+p140
+I1
+sValright
+p141
+I2
+sVthinkin
+p142
+I2
+s.

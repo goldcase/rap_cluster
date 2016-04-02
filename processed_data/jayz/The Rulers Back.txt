@@ -1,80 +1,633 @@
-"the ruler's back" lyrics
-jay-z lyrics
-"the ruler's back"
-uh-huh uhh, uhh, uh-uhh
-uh-huh uhh, uhh, uhh
-whoo! whoo! whoo! whoo!
-i, am, back, niggaz
-ha ha ha ha ha.. uh-oh, uh-oh - whoo!
-ladies and gentlemen.. h, to the izzo
-i wanna thank everybody out there for they purchase
-i surely appreciate it - whoo!
-what you about to witness is my thoughts
-just my thoughts man - right or wrong
-just what i was feeling at the time, uhh
-you ever felt like this, you vibe with me
-walk with a nigga man - just vibe with me
-yo, gather round hustlers that's if you still livin
-and get on down, to that ol' jig rhythm
-here's a couple of jewels to help you get through your bid in prison
-a ribbon in the sky, keep your head high
-i, young 'vito, voice of the young people
-mouthpiece for hustlers i'm back motherfuckers
-your reign on the top was shorter than leprechauns
-y'all can't fuck with hov', what type of x y'all on?
-i got great lawyers for cops so dress warm
-charges don't stick to dude he's teflon
-i'm too sexy for jail like i'm right said fred
-i'm not guilty, now gimme back my bread
-mr. district attorney i'm not sure if they told you
-i'm on tv every day, where the fuck could i go to
-plus - hov' don't run, hov' stand and fight
-hov's a soldier, hov' been fightin all his life so
-what could you do to me?  it's not new to me
-sue me; fuck you - what's a couple dollars to me?
-but you will respect me, simple as that
-or i got no problem goin back
-i'm representin for the seat where rosa parks sat
-where malcolm x was shot, where martin luther was popped
-so off we go, let the trumpets blow
-and hold on, because the driver of the mission is a pro
-the ruler's back
-uhh, uh-huh uhh uhh
-i, am, back, niggaz - whoo! whoo! whoo! whoo!
-yeah, yeah, yeah
-turn the motherfuckin music up
-the ruler's back
-i, am, back, niggaz
-yeah, geah, yeah, geah, yeah, geah, yeah
-well in these times, well at least to me
-there's a lot of rappers out there tryin to sound like jay-z
-i'll help you out, here's what you do
-you gonna need a wide lens cause that's a verr' big shoe
-and you got a couple of +beans+ and you don't have a +clue+?
-you situation is +bleek+, i'ma keep it +rell+ cause
-fuckin with me, you gotta drop +amil+
-cause if you gonna cop somethin you gotta cop f'real
-don't only talk it, walk like it - from the bricks to the booth
-i can predict the future like cleo the psychic
-you can't date skee-os and wife it (uh-uh)
-and you can't sell me bullshit, we know the prices
-so what your life is?  we gon' roll
-'til the wheels fall off, y'all muh'fuckers check the tires
-off we go, let the trumpets blow
-and hold on, because the driver of that bentley is a pro
-the ruler's back
-uhh, uhh
-i, am, back, niggaz
-feels good!  ha
-pah, holla at me!
-the ruler's back
-yeah.. whoo!
-yeah.. yeah.. yeah..
-now bounce, c'mon, bounce
-uhh, whoo! whoo!
-bounce, c'mon, bounce
-uhh, uhh, yeah, yeah
-bounce, c'mon, bounce
-uhh, yeah, just my thoughts ladies and gentlemen
-just what i'm feelin at the time, you know what i mean?
-knahmean?
+(dp1
+Vizzo
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I2
+sVlyrics
+p5
+I2
+sVfall
+p6
+I1
+sVmission
+p7
+I1
+sVvito
+p8
+I1
+sVparks
+p9
+I1
+sVgo
+p10
+I3
+sVstill
+p11
+I1
+sVblow
+p12
+I2
+sVjig
+p13
+I1
+sVhold
+p14
+I2
+sVthank
+p15
+I1
+sVtv
+p16
+I1
+sVsky
+p17
+I1
+sVyoung
+p18
+I2
+sVbullshit
+p19
+I1
+sVto
+p20
+I1
+sVsomethin
+p21
+I1
+sVrhythm
+p22
+I1
+sVprison
+p23
+I1
+sVmotherfuckin
+p24
+I1
+sVsound
+p25
+I1
+sVverr
+p26
+I1
+sVlivin
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I2
+sVbig
+p30
+I1
+sVbid
+p31
+I1
+sVuhh
+p32
+I15
+sVfeelin
+p33
+I1
+sVfeels
+p34
+I1
+sVmuhfuckers
+p35
+I1
+sVevery
+p36
+I1
+sVknow
+p37
+I2
+sVnew
+p38
+I1
+sVday
+p39
+I1
+sVbricks
+p40
+I1
+sVbread
+p41
+I1
+sVlike
+p42
+I5
+sVh
+I1
+sVfuture
+p43
+I1
+sVdrop
+p44
+I1
+sVroll
+p45
+I1
+sVmartin
+p46
+I1
+sVx
+I2
+sVround
+p47
+I1
+sVyall
+p48
+I3
+sVshoe
+p49
+I1
+sVattorney
+p50
+I1
+sVright
+p51
+I2
+sVbentley
+p52
+I1
+sVpeople
+p53
+I1
+sVfeeling
+p54
+I1
+sVback
+p55
+I13
+sVbounce
+p56
+I6
+sVseat
+p57
+I1
+sVtires
+p58
+I1
+sVbooth
+p59
+I1
+sVill
+p60
+I1
+sVuhuh
+p61
+I1
+sVwitness
+p62
+I1
+sVsue
+p63
+I1
+sVsaid
+p64
+I1
+sVheres
+p65
+I2
+sVpsychic
+p66
+I1
+sVhov
+p67
+I4
+sVgot
+p68
+I5
+sVever
+p69
+I1
+sVrosa
+p70
+I1
+sVtold
+p71
+I1
+sVima
+p72
+I1
+sVrun
+p73
+I1
+sVfred
+p74
+I1
+sVbleek
+p75
+I1
+sVsurely
+p76
+I1
+sVsexy
+p77
+I1
+sVbeans
+p78
+I1
+sVon
+p79
+I1
+sVgreat
+p80
+I1
+sVol
+p81
+I1
+sVtil
+p82
+I1
+sVcould
+p83
+I2
+sVguilty
+p84
+I1
+sVkeep
+p85
+I2
+sVhustlers
+p86
+I2
+sVsoldier
+p87
+I1
+sVplus
+p88
+I1
+sVstand
+p89
+I1
+sVlet
+p90
+I2
+sVwheels
+p91
+I1
+sVmean
+p92
+I1
+sVmotherfuckers
+p93
+I1
+sVfuckin
+p94
+I1
+sVthats
+p95
+I2
+sVladies
+p96
+I2
+sVwhats
+p97
+I1
+sVdont
+p98
+I4
+sVsimple
+p99
+I1
+sVmalcolm
+p100
+I1
+sVwalk
+p101
+I2
+sVjayz
+p102
+I2
+sVnigga
+p103
+I1
+sVrespect
+p104
+I1
+sVuhhuh
+p105
+I3
+sVeverybody
+p106
+I1
+sVwan
+p107
+I1
+sVskeeos
+p108
+I1
+sVdistrict
+p109
+I1
+sVhes
+p110
+I1
+sVtop
+p111
+I1
+sVmouthpiece
+p112
+I1
+sVdude
+p113
+I1
+sVleast
+p114
+I1
+sVfight
+p115
+I1
+sVuhoh
+p116
+I2
+sVwhoo
+p117
+I13
+sVmusic
+p118
+I1
+sVlot
+p119
+I1
+sVrell
+p120
+I1
+sVgim
+p121
+I1
+sVgoin
+p122
+I1
+sVtype
+p123
+I1
+sVhead
+p124
+I1
+sVleprechauns
+p125
+I1
+sVluther
+p126
+I1
+sVreign
+p127
+I1
+sVyeah
+p128
+I14
+sVcops
+p129
+I1
+sVshorter
+p130
+I1
+sVstick
+p131
+I1
+sVprices
+p132
+I1
+sVha
+p133
+I6
+sVcmon
+p134
+I3
+sVgeah
+p135
+I3
+sVme
+p136
+I7
+sVwide
+p137
+I1
+sVtryin
+p138
+I1
+sVup
+p139
+I1
+sVniggaz
+p140
+I4
+sVamil
+p141
+I1
+sVmr
+p142
+I1
+sVsituation
+p143
+I1
+sVproblem
+p144
+I1
+sVvoice
+p145
+I1
+sVdollars
+p146
+I1
+sVtheres
+p147
+I1
+sVfreal
+p148
+I1
+sVdo
+p149
+I1
+sVpredict
+p150
+I1
+sVfightin
+p151
+I1
+sVpro
+p152
+I2
+sVcop
+p153
+I2
+sVpopped
+p154
+I1
+sVfuck
+p155
+I3
+sVjewels
+p156
+I1
+sVhigh
+p157
+I1
+sVrulers
+p158
+I6
+sVcant
+p159
+I3
+sVgood
+p160
+I1
+sVim
+p161
+I8
+sVknahmean
+p162
+I1
+sVneed
+p163
+I1
+sVtimes
+p164
+I1
+sVdress
+p165
+I1
+sVwell
+p166
+I2
+sVsat
+p167
+I1
+sVcleo
+p168
+I1
+sVholla
+p169
+I1
+sVuhuhh
+p170
+I1
+sVturn
+p171
+I1
+sVvibe
+p172
+I2
+sVna
+p173
+I3
+sVthat
+p174
+I1
+sVhovs
+p175
+I1
+sVcheck
+p176
+I1
+sVgentlemen
+p177
+I2
+sVribbon
+p178
+I1
+sVpah
+p179
+I1
+sVso
+p180
+I1
+sVyou
+p181
+I1
+sVcouple
+p182
+I3
+sVlife
+p183
+I2
+sVsell
+p184
+I1
+sVteflon
+p185
+I1
+sVsure
+p186
+I1
+sVlawyers
+p187
+I1
+sVrappers
+p188
+I1
+sVfelt
+p189
+I1
+sVdriver
+p190
+I2
+sVlens
+p191
+I1
+sVwrong
+p192
+I1
+sVgon
+p193
+I3
+sVdate
+p194
+I1
+sVclue
+p195
+I1
+sVthoughts
+p196
+I3
+sVman
+p197
+I2
+sVpurchase
+p198
+I1
+sVcause
+p199
+I3
+sVwife
+p200
+I1
+sVcharges
+p201
+I1
+sVta
+p202
+I2
+sVtrumpets
+p203
+I2
+sVgather
+p204
+I1
+sVappreciate
+p205
+I1
+sVwarm
+p206
+I1
+sVjail
+p207
+I1
+sVrepresentin
+p208
+I1
+sVtime
+p209
+I2
+sVtalk
+p210
+I1
+s.

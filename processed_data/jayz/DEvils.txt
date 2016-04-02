@@ -1,82 +1,701 @@
-"d'evils" lyrics
-jay-z lyrics
-"d'evils"
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-secret society, tryin to keep their eye on me
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-i can't die, i can't die, i can't die
-(uh, yeah)
-this shit is wicked on these mean streets
-none of my friends speak
-we're all trying to win, but then again
-maybe it's for the best though, 'cause when your're saying too much
-you know they're trying to get you touched
-whoever said illegal was the easy way out couldn't understand the mechanics
-and the workings of the underworld, granted
-nine to five is how ya survive, i ain't trying to survive
-i'm trying to live it to the limit and love it alive
-life ills, poison my body
-i used to say 'fuck mic skills, ' and never prayed to god, i prayed to gotti
-that's right it's wicked, west life i live it
-ain't asking for forgiveness for my sins, endz
-i break bread with the late heads, picking their brains for angles on
-all the evils that the game'll do
-it gets dangerous, money and power is changing us
-and now we're lethal, infected with d'evils...
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-secret society, tryin to keep their eye on me
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-i can't die, i can't die, i can't die
-(yeah, yeah)
-we used to fight for building blocks
-now we fight for blocks with buildings that make a killing
-the closest of friends when we first started
-but grew apart as the money grew, and soon grew black-hearted
-thinking back when we first learned to use rubbers
-he never learned so in turn i'm kidnapping his baby's mother
-my hand around her collar, feeding her cheese
-she said the taste of dollars was shitty so i fed her fifties
-about his whereabouts i wasn't convinced
-so i kept feeding her money 'til her shit started to make sense
-who could ever forsee, we used to stay up all night at slumber parties
-now i'm trying to rock this bitch to sleep
-all the years we were real close
-now i see his fears through her tears, know she's wishing we were still close
-don't cry, it is to be
-in time, i'll take away your miseries and make 'em mine, d'evils...
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-secret society, tryin to keep their eye on me
-dear god, i wonder can you save me?
-illuminati want my mind, soul, and my body.
-dear god, i wonder can you save me?
-i can't die, i can't die, i can't die
-(yeah)
-my flesh, no nigga could test
-my soul is possessed by d'evils in the form of diamonds and lexuses
-the exorcist, got me doing skits like homie
-you don't know me, but the whole world owe me
-strip!
-was thought to be a pleasant guy all my fucking life
-so now i'm down for whatever, ain't nothing nice
-throughout my junior high years it was all friendly
-but now this higher learning got the remy in me
-liquors invaded my kidneys
-got me ready to lick off, mama forgive me
-i can't be held accountable, d'evils beating me down, boo
-got me running with guys, making g's, telling lies that sound true
-come test me, i never cower
-for the love of money, son, i'm giving lead showers
-stop screaming, you know the demon said it's best to die
-and even if jehovah witness, bet he'll never testify, d'evils...
-dear god, i wonder can you save me?
-i can't die, i can't die, i can't die
+(dp1
+Vsaying
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVwhoever
+p5
+I1
+sVmoney
+p6
+I4
+sVwishing
+p7
+I1
+sVsoon
+p8
+I1
+sVyears
+p9
+I2
+sVheld
+p10
+I1
+sVever
+p11
+I1
+sVsleep
+p12
+I1
+sVlethal
+p13
+I1
+sVhell
+p14
+I1
+sVdemon
+p15
+I1
+sVstill
+p16
+I1
+sVguys
+p17
+I1
+sVmake
+p18
+I3
+sVaint
+p19
+I3
+sVfeeding
+p20
+I2
+sVthinking
+p21
+I1
+sVtrue
+p22
+I1
+sVflesh
+p23
+I1
+sVskits
+p24
+I1
+sVlate
+p25
+I1
+sVtears
+p26
+I1
+sVtouched
+p27
+I1
+sVeasy
+p28
+I1
+sVsave
+p29
+I13
+sVlies
+p30
+I1
+sVfriendly
+p31
+I1
+sVreal
+p32
+I1
+sVdo
+p33
+I1
+sVaround
+p34
+I1
+sVget
+p35
+I1
+sVya
+p36
+I1
+sVrock
+p37
+I1
+sVstop
+p38
+I1
+sVnone
+p39
+I1
+sVboo
+p40
+I1
+sVbreak
+p41
+I1
+sVshitty
+p42
+I1
+sVfive
+p43
+I1
+sVknow
+p44
+I4
+sVgot
+p45
+I4
+sVtelling
+p46
+I1
+sVworld
+p47
+I1
+sVapart
+p48
+I1
+sVscreaming
+p49
+I1
+sVbabys
+p50
+I1
+sVbread
+p51
+I1
+sVlike
+p52
+I1
+sVinvaded
+p53
+I1
+sVill
+p54
+I1
+sVskills
+p55
+I1
+sVdie
+p56
+I13
+sVcry
+p57
+I1
+sVtheyre
+p58
+I1
+sVblackhearted
+p59
+I1
+sVnight
+p60
+I1
+sVguy
+p61
+I1
+sVhigher
+p62
+I1
+sVmean
+p63
+I1
+sVem
+p64
+I1
+sVright
+p65
+I1
+sVdevils
+p66
+I7
+sVilluminati
+p67
+I6
+sVstreets
+p68
+I1
+sVills
+p69
+I1
+sVyeah
+p70
+I4
+sValive
+p71
+I1
+sVremy
+p72
+I1
+sVsociety
+p73
+I3
+sVsee
+p74
+I1
+sVkidnapping
+p75
+I1
+sVshes
+p76
+I1
+sVdear
+p77
+I13
+sVclose
+p78
+I2
+sVbest
+p79
+I2
+sVwonder
+p80
+I13
+sVeven
+p81
+I1
+sVsaid
+p82
+I3
+sVlead
+p83
+I1
+sVmine
+p84
+I1
+sVgod
+p85
+I14
+sVaway
+p86
+I1
+sVtestify
+p87
+I1
+sVpoison
+p88
+I1
+sVwhole
+p89
+I1
+sVwhereabouts
+p90
+I1
+sVasking
+p91
+I1
+sVfifties
+p92
+I1
+sVdiamonds
+p93
+I1
+sVnine
+p94
+I1
+sVlearned
+p95
+I2
+sVbeating
+p96
+I1
+sVcause
+p97
+I1
+sVslumber
+p98
+I1
+sVbody
+p99
+I7
+sVgamell
+p100
+I1
+sVendz
+p101
+I1
+sVpower
+p102
+I1
+sVnever
+p103
+I4
+sVsins
+p104
+I1
+sVcower
+p105
+I1
+sVkilling
+p106
+I1
+sVpleasant
+p107
+I1
+sVrubbers
+p108
+I1
+sVheads
+p109
+I1
+sVunderworld
+p110
+I1
+sVpicking
+p111
+I1
+sVstay
+p112
+I1
+sVcome
+p113
+I1
+sVon
+p114
+I1
+sVdollars
+p115
+I1
+sVkeep
+p116
+I3
+sVforsee
+p117
+I1
+sVturn
+p118
+I1
+sVbet
+p119
+I1
+sVwest
+p120
+I1
+sVexorcist
+p121
+I1
+sVthats
+p122
+I1
+sVcheese
+p123
+I1
+sVlove
+p124
+I2
+sVdont
+p125
+I2
+sVowe
+p126
+I1
+sVwin
+p127
+I1
+sVwhatever
+p128
+I1
+sVson
+p129
+I1
+sVnothing
+p130
+I1
+sVjayz
+p131
+I1
+sVnigga
+p132
+I1
+sVbitch
+p133
+I1
+sVlearning
+p134
+I1
+sVparties
+p135
+I1
+sVcouldnt
+p136
+I1
+sVthroughout
+p137
+I1
+sVlexuses
+p138
+I1
+sVspeak
+p139
+I1
+sVuse
+p140
+I1
+sVeye
+p141
+I3
+sVillegal
+p142
+I1
+sVsecret
+p143
+I3
+sVfight
+p144
+I2
+sVstrip
+p145
+I1
+sVwasnt
+p146
+I1
+sVlive
+p147
+I2
+sVmuch
+p148
+I1
+sVinfected
+p149
+I1
+sVway
+p150
+I1
+sVtime
+p151
+I1
+sVmama
+p152
+I1
+sVsurvive
+p153
+I2
+sVtryin
+p154
+I3
+sVwicked
+p155
+I2
+sVback
+p156
+I1
+sVlife
+p157
+I3
+sVform
+p158
+I1
+sVstarted
+p159
+I2
+sVbrains
+p160
+I1
+sVsound
+p161
+I1
+sVfuck
+p162
+I1
+sVunderstand
+p163
+I1
+sVangles
+p164
+I1
+sVbe
+p165
+I1
+sVtrying
+p166
+I5
+sVconvinced
+p167
+I1
+sVjunior
+p168
+I1
+sVwitness
+p169
+I1
+sVme
+p170
+I19
+sVhigh
+p171
+I1
+sVgotti
+p172
+I1
+sVgrew
+p173
+I3
+sVdangerous
+p174
+I1
+sVsoul
+p175
+I7
+sVus
+p176
+I1
+sVlimit
+p177
+I1
+sVuh
+p178
+I1
+sVmaking
+p179
+I1
+sVcould
+p180
+I2
+sVsay
+p181
+I1
+sVmechanics
+p182
+I1
+sVprayed
+p183
+I2
+sVjehovah
+p184
+I1
+sVlick
+p185
+I1
+sVshowers
+p186
+I1
+sVtaste
+p187
+I1
+sVmind
+p188
+I6
+sVit
+p189
+I1
+sVfucking
+p190
+I1
+sVcant
+p191
+I13
+sVhomie
+p192
+I1
+sVim
+p193
+I5
+sVwant
+p194
+I6
+sVsense
+p195
+I1
+sVready
+p196
+I1
+sVshit
+p197
+I2
+sVagain
+p198
+I1
+sVforgive
+p199
+I1
+sVevils
+p200
+I1
+sVgranted
+p201
+I1
+sVfears
+p202
+I1
+sVtil
+p203
+I1
+sVyourre
+p204
+I1
+sVtake
+p205
+I1
+sVtest
+p206
+I2
+sVgets
+p207
+I1
+sVforgiveness
+p208
+I1
+sVnice
+p209
+I1
+sVbuildings
+p210
+I1
+sVused
+p211
+I3
+sVblocks
+p212
+I2
+sVclosest
+p213
+I1
+sVthough
+p214
+I1
+sVfed
+p215
+I1
+sVhand
+p216
+I1
+sVrunning
+p217
+I1
+sVliquors
+p218
+I1
+sVworkings
+p219
+I1
+sVchanging
+p220
+I1
+sVfriends
+p221
+I2
+sVcollar
+p222
+I1
+sVbuilding
+p223
+I1
+sVkept
+p224
+I1
+sVmaybe
+p225
+I1
+sVpossessed
+p226
+I1
+sVmiseries
+p227
+I1
+sVthought
+p228
+I1
+sVgiving
+p229
+I1
+sVaccountable
+p230
+I1
+sVkidneys
+p231
+I1
+sVmother
+p232
+I1
+sVfirst
+p233
+I2
+sVmic
+p234
+I1
+s.

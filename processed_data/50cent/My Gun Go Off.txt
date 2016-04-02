@@ -1,107 +1,523 @@
-"my gun go off" lyrics
-50 cent lyrics
-"my gun go off"
-nigga, my gun go off
-you see the barrell turnin'
-you feel the hollows burnin'
-nigga now you learnin'
-nigga, my gun go off
-call it attempted murder
-nigga i'm trying to merk you,
-when i come back bustin'
-nigga, my gun go off
-don't try to say i'm trippin'
-when i get to flippin'
-then i smack the clip in,
-nigga, my gun go off
-we call it putting work in,
-leaving niggas hurting,
-homocide's learkin'
-my gun go off
-f**k boy you can see it to believe it
-tryna dodge and wave it end up a parapelegic
-believe me its easy
-i'll hurt you, i'll merk you, i'll pop summin'
-drop summin', i ain't gonna stop hunting
-run run till you're spun
-one shot one gun
-one-9...
-1-1 emergency,
-it's murder, b
-it's excellent execution when i'm pulling the trigger
-no mistake for that cake
-i'm hitting you and your niggas
-feel the flame when i aim,
-for the top of your brain
-see the spark and the bang,
-nigga shit ain't a game
-do the math or get blast
-bullets go through the glass
-go through your ass fast
-and the leather seat sitting ave.
-its not a war when there's casualties on one side
-i ride
-turn it up on you niggas after jake ride by
-i click-clack thats that i don't flash, i mash
-i wave the uzi at 'em,
-i make a movie out 'em.
-nigga, my gun go off
-you see the barrell turnin'
-you feel the hollows burnin'
-nigga now you learnin'
-nigga, my gun go off
-call it attempted murder
-nigga i'm trying to merk you,
-when i come back bustin'
-nigga, my gun go off
-don't try to say i'm trippin'
-when i get to flippin'
-then i smack the clip in,
-nigga, my gun go off
-we call it putting work in,
-leaving niggas hurting,
-homocide's learkin'
-my gun go off
-you better lose yourself in the moment
-use it, f**k the music i'ma let it go
-you only get one shot before i back out and fire back
-at you hat, you back, you ass crack, you nut sack.
-your cadillac if you make it to that,
-i'm hitting that
-the 70's was smack
-the 80's crack.
-the 90's was grimey
-millennium mac man
-clips on the whips i ride in 'em
-bad bitches i ride inn 'em
-don't worry i'll get 'em
-gat jammed or un-jammed
-god dam safest the safety don't work
-squeeze the eagle, it chirp.
-end up faced down in the dirt
-more than hurt,
-bring the beef where you hang out,
-bang out,
-shots ring out.
-hit your shoulders trying to blow your brains out.
-hit your homies in their legs,
-bet they have their canes out tomorrow
-you know tomorrow's just a day away,
-if you can keep your heart beatin' then your ass awake.
-nigga, my gun go off
-you see the barrell turnin'
-you feel the hollows burnin'
-nigga now you learnin'
-nigga, my gun go off
-call it attempted murder
-nigga i'm trying to merk you,
-when i come back bustin'
-nigga, my gun go off
-don't try to say i'm tripping'
-when i get to flippin'
-then i smack the clip in,
-nigga, my gun go off
-we call it putting work in,
-leaving niggas hurting,
-homocide's learkin'
-my gun go off
+(dp1
+Vshot
+p2
+I2
+sVtomorrows
+p3
+I1
+sVlyrics
+p4
+I2
+sVbrain
+p5
+I1
+sVgo
+p6
+I20
+sVone9
+p7
+I1
+sVinn
+p8
+I1
+sVuzi
+p9
+I1
+sVaint
+p10
+I2
+sVtrying
+p11
+I4
+sVhunting
+p12
+I1
+sVflash
+p13
+I1
+sVbetter
+p14
+I1
+sVeasy
+p15
+I1
+sVcrack
+p16
+I2
+sVwhips
+p17
+I1
+sVsafety
+p18
+I1
+sVhat
+p19
+I1
+sVspun
+p20
+I1
+sVhurting
+p21
+I3
+sVjake
+p22
+I1
+sVhit
+p23
+I2
+sVemergency
+p24
+I1
+sVget
+p25
+I6
+sVdam
+p26
+I1
+sVstop
+p27
+I1
+sVwave
+p28
+I2
+sVbang
+p29
+I2
+sVhomocides
+p30
+I3
+sVsack
+p31
+I1
+sVexecution
+p32
+I1
+sVday
+p33
+I1
+sVtrippin
+p34
+I2
+sVbring
+p35
+I1
+sVleather
+p36
+I1
+sVdrop
+p37
+I1
+sV50
+p38
+I1
+sVtry
+p39
+I3
+sVsafest
+p40
+I1
+sVbad
+p41
+I1
+sVshots
+p42
+I1
+sVlose
+p43
+I1
+sVside
+p44
+I1
+sVem
+p45
+I5
+sVnigga
+p46
+I19
+sVeagle
+p47
+I1
+sVawake
+p48
+I1
+sVturnin
+p49
+I3
+sVback
+p50
+I6
+sVgun
+p51
+I18
+sVsee
+p52
+I5
+sVbarrell
+p53
+I3
+sV90s
+p54
+I1
+sVtripping
+p55
+I1
+sVgon
+p56
+I1
+sVbeatin
+p57
+I1
+sVmovie
+p58
+I1
+sVsqueeze
+p59
+I1
+sVmillennium
+p60
+I1
+sVmath
+p61
+I1
+sVass
+p62
+I3
+sVima
+p63
+I1
+sVrun
+p64
+I2
+sVdirt
+p65
+I1
+sV70s
+p66
+I1
+sVcanes
+p67
+I1
+sVlet
+p68
+I1
+sVspark
+p69
+I1
+sVcome
+p70
+I3
+sVby
+p71
+I1
+sVfaced
+p72
+I1
+sVboy
+p73
+I1
+sVill
+p74
+I4
+sVmac
+p75
+I1
+sVleaving
+p76
+I3
+sVturn
+p77
+I1
+sVtheres
+p78
+I1
+sVthats
+p79
+I1
+sVdont
+p80
+I6
+sVheart
+p81
+I1
+sVfeel
+p82
+I4
+sVpop
+p83
+I1
+sVone
+p84
+I4
+sVmerk
+p85
+I4
+sVjammed
+p86
+I1
+sVfast
+p87
+I1
+sVring
+p88
+I1
+sVtomorrow
+p89
+I1
+sVuse
+p90
+I1
+sVbeef
+p91
+I1
+sVhomies
+p92
+I1
+sVtop
+p93
+I1
+sVseat
+p94
+I1
+sVcent
+p95
+I1
+sVhollows
+p96
+I3
+sVhitting
+p97
+I2
+sVtrigger
+p98
+I1
+sVcall
+p99
+I6
+sVblow
+p100
+I1
+sVmusic
+p101
+I1
+sVlegs
+p102
+I1
+sVwar
+p103
+I1
+sVtryna
+p104
+I1
+sVshoulders
+p105
+I1
+sVmurder
+p106
+I4
+sVthat
+p107
+I2
+sVfire
+p108
+I1
+sVattempted
+p109
+I3
+sVbitches
+p110
+I1
+sVhurt
+p111
+I2
+sVglass
+p112
+I1
+sVgame
+p113
+I1
+sVnut
+p114
+I1
+sVexcellent
+p115
+I1
+sVbelieve
+p116
+I2
+sVcasualties
+p117
+I1
+sV11
+p118
+I1
+sVb
+I1
+sVniggas
+p119
+I5
+sVride
+p120
+I4
+sVwork
+p121
+I4
+sVclickclack
+p122
+I1
+sVaim
+p123
+I1
+sVflame
+p124
+I1
+sVgrimey
+p125
+I1
+sVcake
+p126
+I1
+sVpulling
+p127
+I1
+sVbet
+p128
+I1
+sVmistake
+p129
+I1
+sVdodge
+p130
+I1
+sVclip
+p131
+I3
+sVim
+p132
+I9
+sVit
+p133
+I1
+sVbustin
+p134
+I3
+sVsay
+p135
+I3
+sVlearnin
+p136
+I3
+sVin
+p137
+I6
+sVave
+p138
+I1
+sVkeep
+p139
+I1
+sVshit
+p140
+I1
+sVunjammed
+p141
+I1
+sVburnin
+p142
+I3
+sVna
+p143
+I1
+sVmake
+p144
+I2
+sVsitting
+p145
+I1
+sVtill
+p146
+I1
+sVworry
+p147
+I1
+sVbrains
+p148
+I1
+sV80s
+p149
+I1
+sVyou
+p150
+I3
+sVout
+p151
+I4
+sVparapelegic
+p152
+I1
+sVgat
+p153
+I1
+sVcadillac
+p154
+I1
+sVhang
+p155
+I1
+sVchirp
+p156
+I1
+sVmoment
+p157
+I1
+sVbullets
+p158
+I1
+sVend
+p159
+I2
+sVfk
+p160
+I2
+sVman
+p161
+I1
+sVclips
+p162
+I1
+sVoff
+p163
+I16
+sVlearkin
+p164
+I3
+sVsummin
+p165
+I2
+sVyoure
+p166
+I1
+sVsmack
+p167
+I4
+sVmash
+p168
+I1
+sVflippin
+p169
+I3
+sVblast
+p170
+I1
+sVgod
+p171
+I1
+sVputting
+p172
+I3
+sVaway
+p173
+I1
+sVknow
+p174
+I1
+s.

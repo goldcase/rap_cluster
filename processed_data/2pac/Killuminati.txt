@@ -1,106 +1,905 @@
-"killuminati" lyrics
-2pac lyrics
-"killuminati"
-let it be prophesized; ni**az'll die because ya crew's goon
-around the way ni**az get murdered by the full moon
-heard it in whispered tones
-ni**az is bold and they choose to roll
-i kill em all, watch now ni**a truth be told
-westside was the war cry, look how they scatter
-ni**az dyin by my 30-yard, brains'll splatter
-wonder why these ni**az cross me
-i'm certified crazy, so sick the world made me
-now diggy-die, everytime i ride it's for reasons
-hard to kill a ni**a cause i'm comin back like jesus
-bow down to my ill nation runnin from drug cases
-lookin at my congregation so full of thug faces
-momma gave a ni**a breath, a life of stress
-i invest in a vest and makin ni**az watch they every step
-label me a threat
-and i ain't even got started with this s**t yet
-thug style baby, hands on my pistol, listen i'm a ridah
-every ni**a breathin pay attention
-bout to show you motherf**kers how it feel, to drop a body
-the simple gun to my lifestyle, killuminati
-yo makaveli they can't stop you
-hold it down
-killuminati and we got you, got you
-yo makaveli they can't stop you
-hold it down
-killuminati and we got you, got you
-yo makaveli they can't stop you
-hold it down
-killuminati and we got you, got you
-yo makaveli they can't stop you
-hold it down
-killuminati and we got you, got you
-after the fire comes the rain, after pleasure there's pain
-even though we broke for the moment, we'll be ballin again
-til i make it yo; my military be prepared for them bustaz
-similar to, bi**hes that scary, get too near me we rushin
-visions of over-packed prisons, fiends and ni**az thug livin
-pressures and three strikes, i hope they don't test us
-they pull the heater ammunition it cranks, psssh
-move without a sound, as we slide down, pistols in place
-they got me fiendin for currency, the money be callin
-it's like i'm - dreamin, see in season me ballin
-participated in felonious behavior
-cock the cocked fo'-five, snatchin ni**az pagers
-labeled a mark soon as we start, it was hard to quit
-we started out drinkin 40's, moved to harder s**t
-god damn now i'm a grown man, i follow no man
-ni**a got my own plan, and it's called killuminati
-i spend most of my time bankin ni**az
-because they hate a ni**a, comin across fake ni**az
-but we made ni**az, old school and i'm thinkin
-y'all some bi**h made ni**az and you steadily sinkin
-o-u-t, l-a-w-z ain't nuttin f**kin with that
-we bustin back comin back for the stacks
-laugh last cash cash, all i want is the paper
-givin them f**kers tool whips, i rule haters
-y'all can't fade us, we kill steal and peal quickly
-the boss ni**az, definitely, put it down strictly
-e.d.i. amin, until the law come for me
-kill em all for shortie, ninety-nine killuminati
-they got me thinkin strugglin and hustling's my only fate
-toppin grams on the kichen plate, tryin to keep that money straight
-times is rollin three up these streets sleep
-but when i crack, hammer cocked back rapped in my sheets
-my life's been crossed, crooked since a seed it hurts
-got a package from the devil, payin my deeds
-preocuppied by the greed, in this crooked life i lead
-more funds to spend, or bigger guns to squeeze
-me and my thugs clock g's simpin naughty thangs
-real as these tatt's on my body, and it's killuminati
-makaveli the don until i'm gone, i maintain
-hold it down, hold it down
-makaveli up in this bi**h, worldwide mash, westside
-makaveli the don until i'm gone, i maintain
-the question we ask, do you know what time it is?
-hold it down, hold it down
-you know what type of s**t we be
-makaveli the don until i'm gone, i maintain
-you want that hip-hop real
-it's that hip-hop that's real
-hold it down, hold it down
-hip-hop that's worldwide, feel?
-makaveli the don until i'm gone, i maintain
-f**k with me ni**a you get killed!
-hold it down, hold it down
-it don't get no realer than this
-makaveli the don until i'm gone, i maintain
-what's my motherf**kin name ni**a?
-hold it down, hold it down
-my ni**az we all bad
-makaveli the don until i'm gone, i maintain
-what's my muh'f**kin name ni**a?
-hold it down, hold it down
-what's my muh'f**kin name?
-makaveli the don until i'm gone, i maintain
-outlawz in this bi**h
-rap pro at his finest
-makaveli the don until i'm gone, i maintain
-repeat!  death row at it's finest
-ni**a, you know what time it is
-makaveli the don until i'm gone, i maintain..
-outlawz..
+(dp1
+Vcalled
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVsound
+p6
+I1
+sVmove
+p7
+I1
+sVsoon
+p8
+I1
+sVhiphop
+p9
+I3
+sVpaper
+p10
+I1
+sVkill
+p11
+I4
+sVcrack
+p12
+I1
+sVfollow
+p13
+I1
+sVmoon
+p14
+I1
+sVhate
+p15
+I1
+sVyet
+p16
+I1
+sVcocked
+p17
+I2
+sVaint
+p18
+I2
+sVsnatchin
+p19
+I1
+sVstyle
+p20
+I1
+sVhaters
+p21
+I1
+sVgivin
+p22
+I1
+sVsimpin
+p23
+I1
+sVfate
+p24
+I1
+sVsteadily
+p25
+I1
+sVmakaveli
+p26
+I14
+sVfeel
+p27
+I2
+sVchoose
+p28
+I1
+sVfade
+p29
+I1
+sVmoney
+p30
+I2
+sVwhips
+p31
+I1
+sVrushin
+p32
+I1
+sVbout
+p33
+I1
+sVmotherfkin
+p34
+I1
+sVdefinitely
+p35
+I1
+sVhope
+p36
+I1
+sVgave
+p37
+I1
+sVreal
+p38
+I3
+sVme
+p39
+I3
+sVcallin
+p40
+I1
+sVaround
+p41
+I1
+sVyo
+p42
+I5
+sVget
+p43
+I4
+sVya
+p44
+I1
+sVgoon
+p45
+I1
+sVwatch
+p46
+I2
+sVnation
+p47
+I1
+sVcongregation
+p48
+I1
+sVfiends
+p49
+I1
+sVevery
+p50
+I2
+sVknow
+p51
+I3
+sVhands
+p52
+I1
+sVworld
+p53
+I1
+sVpeal
+p54
+I1
+sVcrossed
+p55
+I1
+sVkilled
+p56
+I1
+sVbigger
+p57
+I1
+sVthinkin
+p58
+I2
+sVschool
+p59
+I1
+sVammunition
+p60
+I1
+sVlike
+p61
+I2
+sVhustlings
+p62
+I1
+sVeverytime
+p63
+I1
+sVbe
+p64
+I1
+sVdie
+p65
+I1
+sVtimes
+p66
+I1
+sVcry
+p67
+I1
+sVpsssh
+p68
+I1
+sVgun
+p69
+I1
+sVguns
+p70
+I1
+sVslide
+p71
+I1
+sV40s
+p72
+I1
+sVtruth
+p73
+I1
+sVnaughty
+p74
+I1
+sVsleep
+p75
+I1
+sVrapped
+p76
+I1
+sVsteal
+p77
+I1
+sVstraight
+p78
+I1
+sVyall
+p79
+I2
+sVem
+p80
+I2
+sVbody
+p81
+I2
+sVdrop
+p82
+I1
+sVold
+p83
+I1
+sVmash
+p84
+I1
+sVfiendin
+p85
+I1
+sVhard
+p86
+I2
+sVback
+p87
+I4
+sVmaintain
+p88
+I9
+sVsee
+p89
+I1
+sVfelonious
+p90
+I1
+sVpayin
+p91
+I1
+sVhammer
+p92
+I1
+sVfkers
+p93
+I1
+sVwonder
+p94
+I1
+sVeven
+p95
+I2
+sVfofive
+p96
+I1
+sVlead
+p97
+I1
+sVprisons
+p98
+I1
+sVcrooked
+p99
+I2
+sVvisions
+p100
+I1
+sVsqueeze
+p101
+I1
+sVsince
+p102
+I1
+sVprophesized
+p103
+I1
+sVlabeled
+p104
+I1
+sVvest
+p105
+I1
+sVlabel
+p106
+I1
+sVtoppin
+p107
+I1
+sVpressures
+p108
+I1
+sVshortie
+p109
+I1
+sVrap
+p110
+I1
+sVgot
+p111
+I13
+sVpistol
+p112
+I1
+sVcause
+p113
+I1
+sVacross
+p114
+I1
+sVtold
+p115
+I1
+sVwhispered
+p116
+I1
+sVdrinkin
+p117
+I1
+sVfull
+p118
+I2
+sVbold
+p119
+I1
+sVbreathin
+p120
+I1
+sVask
+p121
+I1
+sVattention
+p122
+I1
+sVboss
+p123
+I1
+sVmurdered
+p124
+I1
+sVridah
+p125
+I1
+sVlet
+p126
+I1
+sVhurts
+p127
+I1
+sVquickly
+p128
+I1
+sVpreocuppied
+p129
+I1
+sVwestside
+p130
+I2
+sVcertified
+p131
+I1
+sVscary
+p132
+I1
+sVlifestyle
+p133
+I1
+sVpackage
+p134
+I1
+sVdyin
+p135
+I1
+sVcock
+p136
+I1
+sVill
+p137
+I1
+sVstacks
+p138
+I1
+sVbih
+p139
+I3
+sVstep
+p140
+I1
+sVdrug
+p141
+I1
+sVbow
+p142
+I1
+sVplace
+p143
+I1
+sVlookin
+p144
+I1
+sVfaces
+p145
+I1
+sVmilitary
+p146
+I1
+sVbad
+p147
+I1
+sVcomes
+p148
+I1
+sVthats
+p149
+I2
+sVfake
+p150
+I1
+sVheater
+p151
+I1
+sVpistols
+p152
+I1
+sVwhats
+p153
+I3
+sVdont
+p154
+I2
+sVkilluminati
+p155
+I10
+sVtatts
+p156
+I1
+sVreasons
+p157
+I1
+sVdeeds
+p158
+I1
+sVfkin
+p159
+I1
+sVmakin
+p160
+I1
+sVjesus
+p161
+I1
+sVdown
+p162
+I10
+sVput
+p163
+I1
+sVmomma
+p164
+I1
+sVmuhfkin
+p165
+I2
+sVlaugh
+p166
+I1
+sVcomin
+p167
+I3
+sVnuttin
+p168
+I1
+sVmark
+p169
+I1
+sVballin
+p170
+I2
+sVbankin
+p171
+I1
+sVquit
+p172
+I1
+sVdevil
+p173
+I1
+sVlifes
+p174
+I1
+sVniaz
+p175
+I13
+sVcome
+p176
+I1
+sVstrictly
+p177
+I1
+sVquestion
+p178
+I1
+sVthree
+p179
+I2
+sVdreamin
+p180
+I1
+sVbreath
+p181
+I1
+sVstart
+p182
+I1
+sVtype
+p183
+I1
+sVdamn
+p184
+I1
+sVway
+p185
+I1
+sV30yard
+p186
+I1
+sVfinest
+p187
+I2
+sVoutlawz
+p188
+I2
+sVtryin
+p189
+I1
+sVoverpacked
+p190
+I1
+sVwar
+p191
+I1
+sVfk
+p192
+I1
+sVlisten
+p193
+I1
+sVlife
+p194
+I2
+sVstreets
+p195
+I1
+sVname
+p196
+I3
+sVthat
+p197
+I1
+sVstarted
+p198
+I2
+sVseason
+p199
+I1
+sVtool
+p200
+I1
+sVcrews
+p201
+I1
+sVstrikes
+p202
+I1
+sVrealer
+p203
+I1
+sVbroke
+p204
+I1
+sVbaby
+p205
+I1
+sVlast
+p206
+I1
+sVcases
+p207
+I1
+sVhold
+p208
+I16
+sV2pac
+p209
+I1
+sVrunnin
+p210
+I1
+sVpull
+p211
+I1
+sVmade
+p212
+I3
+sVlook
+p213
+I1
+sVsinkin
+p214
+I1
+sVcurrency
+p215
+I1
+sVthis
+p216
+I1
+sVparticipated
+p217
+I1
+sVride
+p218
+I1
+sVharder
+p219
+I1
+sVcash
+p220
+I2
+sVus
+p221
+I2
+sVnear
+p222
+I1
+sVniazll
+p223
+I1
+sVtime
+p224
+I3
+sVtones
+p225
+I1
+sVsimilar
+p226
+I1
+sVscatter
+p227
+I1
+sVdiggydie
+p228
+I1
+sVtheres
+p229
+I1
+sVgone
+p230
+I9
+sVcrazy
+p231
+I1
+sVbehavior
+p232
+I1
+sVplate
+p233
+I1
+sVsplatter
+p234
+I1
+sVis
+p235
+I2
+sVmoved
+p236
+I1
+sVkichen
+p237
+I1
+sVpro
+p238
+I1
+sVninetynine
+p239
+I1
+sVheard
+p240
+I1
+sVcant
+p241
+I5
+sVseed
+p242
+I1
+sVim
+p243
+I15
+sVrollin
+p244
+I1
+sVwant
+p245
+I2
+sVthug
+p246
+I3
+sVkeep
+p247
+I1
+sVsimple
+p248
+I1
+sVlivin
+p249
+I1
+sVgrown
+p250
+I1
+sVagain
+p251
+I1
+sVthugs
+p252
+I1
+sVcranks
+p253
+I1
+sVpay
+p254
+I1
+sVmake
+p255
+I1
+sVcross
+p256
+I1
+sVedi
+p257
+I1
+sVtil
+p258
+I1
+sVfire
+p259
+I1
+sVwithout
+p260
+I1
+sVsick
+p261
+I1
+sVfunds
+p262
+I1
+sVtest
+p263
+I1
+sVyou
+p264
+I8
+sVroll
+p265
+I1
+sVpagers
+p266
+I1
+sVrow
+p267
+I1
+sVworldwide
+p268
+I2
+sVrepeat
+p269
+I1
+sVpain
+p270
+I1
+sVthreat
+p271
+I1
+sVdeath
+p272
+I1
+sVthough
+p273
+I1
+sVbihes
+p274
+I1
+sVstop
+p275
+I4
+sVnia
+p276
+I10
+sVrain
+p277
+I1
+sVprepared
+p278
+I1
+sVmoment
+p279
+I1
+sVstrugglin
+p280
+I1
+sVplan
+p281
+I1
+sVsheets
+p282
+I1
+sVlaw
+p283
+I1
+sVman
+p284
+I2
+sVbustaz
+p285
+I1
+sVstress
+p286
+I1
+sVamin
+p287
+I1
+sVgrams
+p288
+I1
+sVbrainsll
+p289
+I1
+sVinvest
+p290
+I1
+sVclock
+p291
+I1
+sVwell
+p292
+I1
+sVbustin
+p293
+I1
+sVrule
+p294
+I1
+sVst
+p295
+I3
+sVthangs
+p296
+I1
+sVmotherfkers
+p297
+I1
+sVlawz
+p298
+I1
+sVgod
+p299
+I1
+sVpleasure
+p300
+I1
+sVspend
+p301
+I2
+sVgreed
+p302
+I1
+s.

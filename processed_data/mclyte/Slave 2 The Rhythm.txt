@@ -1,74 +1,616 @@
-"slave 2 the rhythm" lyrics
-mc lyte lyrics
-"slave 2 the rhythm"
-why is it that your watch stopped tickin, but you still keep clockin?
-and no matter how hard you jinx, i keep rockin
-listen, hoe, cause i'm the lyte one
-and if you're lookin for a fight, you found the right one
-(they call me lyte)
-(and i'm a slave to the rhythm)
-(funky fresh, dressed to impress, ready to party)
-i'm not a procrastinator, or a instigator
-but when it comes to dope rhymes on the mic, i'm the creator
-i never look for trouble, but somehow it finds me
-but yo, i just conquer it, and leave it all behind me
-the l-y-t-e, very outspoken
-and when i rock a rhyme, sometimes i leave you chokin
-i'm mc lyte, comin live and direct
-i never lose a battle, cause i always come correct
-in any case i win, again and again
-you see lyte is at the top till the very end
-and even though i may be short, believe, i don't take none
-try your luck and we'll see who will get done
-i mean immediately, like quick fast
-don't turn your back, cause this mic'll be in your ass
-and don't take what i say too lightly
-i beat you, defeat you so quietly
-sneak up and hit you like a fuckin tornado
-cause in the rap field lyte's the fuckin a/k/a doe
-the capital l, the y to the e
-shit, give me room and i'll slay an mc
-whether it's in a crowd, or on the sneak tip
-i wax you and your posse watch you trip and flip
-as you drop the mic, cause you don't have the gift
-to rip a style, fast or slow
-(why, lyte?) too busy hoein it, sniffin up blow
-don't get mad, it's just a talent i was given
-what i'm sayin, i'm a slave to the rhythm
-bein that i'm dissin, i was reminiscin
-you was at my show, yo, you was on a mission
-(yo, what you tellin me, lyte?) she was ass-kissin
-no show, you hoe, no work, you jerk
-(cool, lyte, i think her feelings are hurt)
-alright, i'll chill and i'll come to my senses
-but next time you diss, think of the consequences
-yo, i am no joke, i'm sharp like barbwire
-try to touch me, yo, you're bound to catch a fire
-i never lose my cool, but if i do, yo, you're lost
-i be forced to show and prove exactly who's the boss
-who gets the income - and then some
-i don't diss you for the money, i diss you for the fun
-don't get mad, it's just a talent i was given
-what i'm sayin, i'm a slave to the rhythm
-it took a whole album for you to try and diss me
-and ha-ha-ha, slum bitch, you still missed me
-but yo, i'm off the dissin tip, cause that takes no creation
-i'm into other things that bring me commodation
-so i rap about funny things, or issues that are serious
-sometimes i rap a topic that leave my people curious
-and other times i diss to put one in their place
-if i diss you on wax, then i will diss you to your face
-some say i'm foul, and they don't like the way i'm livin
-but yo, ask me if i care...
-i'm just a slave, i'm just a slave, i'm just a slave
-to the goddamn rhythm
-(they call me lyte)
-(and i'm a slave to the rhythm)
-(funky fresh, dressed to impress, ready to party)
-'gangstress', don't make me laugh
-ha-ha-ha
-and keep your eyes on this
-and keep your eyes on this
-(they call me lyte)
-(and i'm a slave to the rhythm)
-(funky fresh, dressed to impress, ready to party)
+(dp1
+Vforced
+p2
+I1
+sVposse
+p3
+I1
+sVcreation
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I3
+sVtip
+p7
+I2
+sVpeople
+p8
+I1
+sVmission
+p9
+I1
+sVfoul
+p10
+I1
+sVbring
+p11
+I1
+sVdiss
+p12
+I7
+sVbattle
+p13
+I1
+sVstill
+p14
+I2
+sVissues
+p15
+I1
+sVblow
+p16
+I1
+sVstyle
+p17
+I1
+sVslow
+p18
+I1
+sVsayin
+p19
+I2
+sVfield
+p20
+I1
+sVrhythm
+p21
+I8
+sVmoney
+p22
+I1
+sVcool
+p23
+I2
+sVme
+p24
+I4
+sVhit
+p25
+I1
+sVlivin
+p26
+I1
+sVyo
+p27
+I8
+sVget
+p28
+I3
+sVbeat
+p29
+I1
+sVdope
+p30
+I1
+sVrock
+p31
+I1
+sVrhyme
+p32
+I1
+sVasskissin
+p33
+I1
+sVconquer
+p34
+I1
+sVimmediately
+p35
+I1
+sVtrouble
+p36
+I1
+sVfeelings
+p37
+I1
+sVdissin
+p38
+I2
+sVroom
+p39
+I1
+sVthink
+p40
+I2
+sVgets
+p41
+I1
+sVlike
+p42
+I4
+sVgift
+p43
+I1
+sValways
+p44
+I1
+sVdrop
+p45
+I1
+sVl
+I1
+sVtry
+p46
+I3
+sVthis
+p47
+I2
+sVstopped
+p48
+I1
+sVlose
+p49
+I2
+sVquick
+p50
+I1
+sVfound
+p51
+I1
+sVmean
+p52
+I1
+sVright
+p53
+I1
+sVcrowd
+p54
+I1
+sVcreator
+p55
+I1
+sVgoddamn
+p56
+I1
+sVhard
+p57
+I1
+sVsome
+p58
+I1
+sVsomehow
+p59
+I1
+sVtouch
+p60
+I1
+sVsee
+p61
+I2
+sVtellin
+p62
+I1
+sVslave
+p63
+I10
+sVeven
+p64
+I1
+sVleave
+p65
+I3
+sVmissed
+p66
+I1
+sVoutspoken
+p67
+I1
+sVtornado
+p68
+I1
+sVbehind
+p69
+I1
+sVcapital
+p70
+I1
+sVcause
+p71
+I6
+sVcorrect
+p72
+I1
+sVass
+p73
+I1
+sVnever
+p74
+I3
+sVboss
+p75
+I1
+sVbusy
+p76
+I1
+sVslum
+p77
+I1
+sVput
+p78
+I1
+sVcommodation
+p79
+I1
+sVcome
+p80
+I2
+sVcare
+p81
+I1
+sVhahaha
+p82
+I2
+sVtalent
+p83
+I2
+sVface
+p84
+I1
+sVsniffin
+p85
+I1
+sVill
+p86
+I3
+sVkeep
+p87
+I4
+sVturn
+p88
+I1
+sVfunky
+p89
+I3
+sVplace
+p90
+I1
+sVlookin
+p91
+I1
+sVdefeat
+p92
+I1
+sVaka
+p93
+I1
+sVluck
+p94
+I1
+sVwhole
+p95
+I1
+sVfinds
+p96
+I1
+sVcomes
+p97
+I1
+sVquietly
+p98
+I1
+sVdont
+p99
+I9
+sVwin
+p100
+I1
+sVbound
+p101
+I1
+sVone
+p102
+I3
+sVask
+p103
+I1
+sVgangstress
+p104
+I1
+sVdone
+p105
+I1
+sVbitch
+p106
+I1
+sVlaugh
+p107
+I1
+sVcomin
+p108
+I1
+sVprocrastinator
+p109
+I1
+sVnext
+p110
+I1
+sVgiven
+p111
+I2
+sVtakes
+p112
+I1
+sVprove
+p113
+I1
+sVlyte
+p114
+I11
+sVtop
+p115
+I1
+sVslay
+p116
+I1
+sVfast
+p117
+I2
+sVfight
+p118
+I1
+sVwhos
+p119
+I1
+sVlive
+p120
+I1
+sV2
+I2
+sVcall
+p121
+I3
+sVway
+p122
+I1
+sVwax
+p123
+I2
+sVrockin
+p124
+I1
+sVjinx
+p125
+I1
+sVlisten
+p126
+I1
+sVback
+p127
+I1
+sVeyes
+p128
+I2
+sVsenses
+p129
+I1
+sVfire
+p130
+I1
+sVexactly
+p131
+I1
+sVimpress
+p132
+I3
+sVtook
+p133
+I1
+sVdirect
+p134
+I1
+sVcatch
+p135
+I1
+sVbelieve
+p136
+I1
+sVchill
+p137
+I1
+sVcase
+p138
+I1
+sVnone
+p139
+I1
+sVlook
+p140
+I1
+sVmc
+p141
+I3
+sVthings
+p142
+I2
+sVwhether
+p143
+I1
+sVwork
+p144
+I1
+sVflip
+p145
+I1
+sVrhymes
+p146
+I1
+sVmatter
+p147
+I1
+sVtickin
+p148
+I1
+sVjoke
+p149
+I1
+sVfun
+p150
+I1
+sVbarbwire
+p151
+I1
+sVyoure
+p152
+I3
+sVclockin
+p153
+I1
+sVlightly
+p154
+I1
+sVgive
+p155
+I1
+sVrip
+p156
+I1
+sVtopic
+p157
+I1
+sVfunny
+p158
+I1
+sVsay
+p159
+I2
+sVim
+p160
+I20
+sVrap
+p161
+I3
+sVcurious
+p162
+I1
+sVready
+p163
+I3
+sVsharp
+p164
+I1
+sVtimes
+p165
+I1
+sVtrip
+p166
+I1
+sVshit
+p167
+I1
+sVagain
+p168
+I1
+sVhoe
+p169
+I2
+sVend
+p170
+I1
+sVjerk
+p171
+I1
+sVdressed
+p172
+I3
+sVmic
+p173
+I2
+sVmicll
+p174
+I1
+sVlytes
+p175
+I1
+sVhoein
+p176
+I1
+sVtill
+p177
+I1
+sVtake
+p178
+I2
+sVincome
+p179
+I1
+sVparty
+p180
+I3
+sVreminiscin
+p181
+I1
+sVbein
+p182
+I1
+sValbum
+p183
+I1
+sVinstigator
+p184
+I1
+sVchokin
+p185
+I1
+sVthough
+p186
+I1
+sVmay
+p187
+I1
+sVwatch
+p188
+I2
+sVsneak
+p189
+I2
+sValright
+p190
+I1
+sVmad
+p191
+I2
+sVserious
+p192
+I1
+sVhurt
+p193
+I1
+sVshort
+p194
+I1
+sVe
+I1
+sVconsequences
+p195
+I1
+sVsometimes
+p196
+I2
+sVwell
+p197
+I1
+sVlost
+p198
+I1
+sVdoe
+p199
+I1
+sVfuckin
+p200
+I2
+sVtime
+p201
+I1
+sVy
+I1
+sVfresh
+p202
+I3
+sVmake
+p203
+I1
+s.

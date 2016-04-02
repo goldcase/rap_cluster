@@ -1,105 +1,702 @@
-"gangsta move" lyrics
-snoop dogg lyrics
-"gangsta move"
-yeah. anotha dogg house production. my nigga meech roll it.
-wussup. we movin solo for the 9-9, 9-8, ya heard me?
-too many flees, too many bustaz. we doin this shit solo.
-dig it:
-cold game (cold game), new twist (new twist).
-my niggaz step back and let me do this (do this)
-cuz i'm that 5-0 with em, getting 5-0's, sittin getting in the wind
-for all my homies in the pen
-it's back on
-my backbone, my wife in my life & down wit a nigga before my paper was tite.
-boo, you's a real bitch
-i write that real shit
-that them niggaz just got to get with
-i bounce in and out of town just like a basketball player
-pass weed with the g's
-and pass laws with the mayors
-see, that's the difference between
-you, me, and him
-nigga, i'm silk the slim
-with the feather in his brim
-i swim under water and don't get wet
-then bounce back to the hood and c-walk the set
-i keep it gangsta all the time
-an you can ask the doug, insanes, and one-9
-cuz i'm:
-born gangsta, stays on the move (keep it tru, dawgz)
-dogg pound just for the fuck of it (dogg pound!)
-born gangsta, keepin it true
-none of y'all can stop me now
-cuz i'm havin papers now (dogg pound!)
-i stay on em like cop cars
-man, you watch your rabid-ass nine
-tryin to stop cars hoo-bangin this fast-lane game
-it ain't a thang
-i was learnin this game when you was servin your cane
-it's where my shit's at
-flip rats tryin to get some get-back
-sit back, an holla at a playa bout: cold game
-i stay bout it (bout it)
-a bitch'll have you crossed up
-an niggaz get you crossed out
-i cant hang and bang wit y'all no more y'all niggaz flossed out
-an papers what i'm all about
-it's down that bullshit roll with y'all or take the baller
-i take the baller out, he take the small amount
-long-term big shit
-that's what i'm all about
-call em out, stall em out
-fuck em, i twist em
-the hardhead never listen
-they never recognize and they never pay attention
-i stay g, and by the way did i mention: young nigga
-born gangsta, stays on the move (move on, move on)
-dogg pound just for the fuck of it (d-p-g: dogg pound!)
-born gangsta, keepin it true
-none of y'all can stop me now
-cuz i'm havin papers now (get cha money, get cha money: dogg pound!)
-a-b-c-d-p-g-c
-ain't no l-i-m-i-to the t (ain't no limit)
-i'm fuckin wit g's that's makin moves with thugs
-you still catch me hangin out
-in the muthafuckin club
-one love (one love, nigga!), sippin moet
-holla'in at cha bitch (beeyatch!)
-all by my lonely, cuz i don't give a shit
-c-walkin on the dance floor, throwin up dp (dogg pound!)
-an ain't nobody gon' fuck with me
-cuz i'm a tru tank dogg
-with big bank, y'all
-let's sample down with snoop an watch us come back an spank y'all (woo!)
-keepin high, stay on top
-i'm #1 with a bullet and i'm back on top (back on top!)
-(say what?) hunter proof, gold tooth with the diamond in the middle
-roll-model millionaire gangsta ass nigga
-we steady mobbin while we lynchin
-stay independent, on a mission
-by the way did i mention? (keep it gangsta, nigga!)
-born gangsta, stays on the move (move on, move on)
-dogg pound just for the fuck of it (d-p-g: dogg pound!)
-born gangsta keepin it true (keep it real, dawg)
-none of y'all can stop me now (yeah, stop that)
-cuz i'm havin papers now (stop that: dogg pound!)
-born gangsta, stays on the move (stay on the move, move on)
-dogg pound just for the fuck of it (d-p-g: dogg pound!)
-born gangsta keepin it true
-none of y'all can stop me now (stop that)
-cuz i'm havin papers now (yeah: dogg pound! you know!)
-another dogg house production. my nigga meech on the beat. got another smoke
-just goin down, that's how it goes.
-gotta say wussup to all my niggaz in the house
-my nigga meech in the house
-yeah, chop-chop from the agb
-yeah, goldielox
-an the lbc
-warren g
-aww yeah
-kiddie banks from the lbc
-jc
-aww yeah
-from the big lb
-this how we do it y'all, dpg
-and we out:.
+(dp1
+Vnow
+p2
+I2
+sVgs
+p3
+I2
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I2
+sVmove
+p7
+I12
+sVmission
+p8
+I1
+sVpaper
+p9
+I1
+sVbrim
+p10
+I1
+sVone9
+p11
+I1
+sVcold
+p12
+I3
+sVstill
+p13
+I1
+sVabcdpgc
+p14
+I1
+sVwarren
+p15
+I1
+sVaint
+p16
+I4
+sV1
+I1
+sVsilk
+p17
+I1
+sVballer
+p18
+I2
+sVgold
+p19
+I1
+sVmoet
+p20
+I1
+sVtrue
+p21
+I4
+sVcuz
+p22
+I8
+sVbullshit
+p23
+I1
+sVbeat
+p24
+I1
+sVhavin
+p25
+I4
+sVlets
+p26
+I1
+sVproduction
+p27
+I2
+sVbank
+p28
+I1
+sVwet
+p29
+I1
+sVgangsta
+p30
+I13
+sVmayors
+p31
+I1
+sVlbc
+p32
+I2
+sVta
+p33
+I1
+sVreal
+p34
+I3
+sVme
+p35
+I2
+sVservin
+p36
+I1
+sVgoes
+p37
+I1
+sVget
+p38
+I6
+sVya
+p39
+I1
+sVbig
+p40
+I3
+sVgetback
+p41
+I1
+sVsittin
+p42
+I1
+sVstop
+p43
+I8
+sVmention
+p44
+I2
+sVgame
+p45
+I5
+sVbeeyatch
+p46
+I1
+sVknow
+p47
+I1
+sVgot
+p48
+I3
+sVsay
+p49
+I2
+sVdifference
+p50
+I1
+sVhim
+p51
+I1
+sVdp
+p52
+I1
+sVlynchin
+p53
+I1
+sVanotha
+p54
+I1
+sVlike
+p55
+I2
+sVdig
+p56
+I1
+sV50
+p57
+I1
+sVdpg
+p58
+I4
+sVhoobangin
+p59
+I1
+sVstays
+p60
+I4
+sVtru
+p61
+I2
+sVyall
+p62
+I10
+sVem
+p63
+I6
+sVnigga
+p64
+I9
+sVrats
+p65
+I1
+sVanother
+p66
+I2
+sVwoo
+p67
+I1
+sVhouse
+p68
+I4
+sVthrowin
+p69
+I1
+sVyeah
+p70
+I7
+sVbounce
+p71
+I2
+sVup
+p72
+I1
+sVborn
+p73
+I8
+sVsee
+p74
+I1
+sVdawg
+p75
+I1
+sVus
+p76
+I1
+sVgoin
+p77
+I1
+sVpass
+p78
+I2
+sVout
+p79
+I5
+sVmovin
+p80
+I1
+sVgon
+p81
+I1
+sVchopchop
+p82
+I1
+sVpen
+p83
+I1
+sVplaya
+p84
+I1
+sVnew
+p85
+I2
+sVass
+p86
+I1
+sVsolo
+p87
+I2
+sVattention
+p88
+I1
+sVcars
+p89
+I2
+sVnever
+p90
+I3
+sVwater
+p91
+I1
+sVsmall
+p92
+I1
+sVstep
+p93
+I1
+sVmeech
+p94
+I3
+sVlet
+p95
+I1
+sVkiddie
+p96
+I1
+sVask
+p97
+I1
+sVlb
+p98
+I1
+sVstay
+p99
+I6
+sVcome
+p100
+I1
+sVjc
+p101
+I1
+sVon
+p102
+I4
+sVabout
+p103
+I2
+sVflossed
+p104
+I1
+sVg
+I2
+sVgetting
+p105
+I2
+sVmany
+p106
+I2
+sVlongterm
+p107
+I1
+sVmillionaire
+p108
+I1
+sVkeep
+p109
+I4
+sVrollmodel
+p110
+I1
+sVamount
+p111
+I1
+sVsmoke
+p112
+I1
+sVboo
+p113
+I1
+sVlimito
+p114
+I1
+sVproof
+p115
+I1
+sVfuckin
+p116
+I1
+sVthats
+p117
+I4
+sVlove
+p118
+I2
+sVdont
+p119
+I2
+sVmakin
+p120
+I1
+sVspank
+p121
+I1
+sVyoung
+p122
+I1
+sVwit
+p123
+I3
+sVbitch
+p124
+I2
+sVhang
+p125
+I1
+sVyous
+p126
+I1
+sVhood
+p127
+I1
+sVfuck
+p128
+I6
+sVcha
+p129
+I3
+sVbasketball
+p130
+I1
+sVthang
+p131
+I1
+sVsnoop
+p132
+I2
+sVwussup
+p133
+I2
+sVdogg
+p134
+I17
+sVtop
+p135
+I3
+sVmobbin
+p136
+I1
+sVcall
+p137
+I1
+sVway
+p138
+I2
+sVshits
+p139
+I1
+sVfeather
+p140
+I1
+sVtryin
+p141
+I2
+sVlisten
+p142
+I1
+sVlife
+p143
+I1
+sVdiamond
+p144
+I1
+sVcop
+p145
+I1
+sVclub
+p146
+I1
+sVhomies
+p147
+I1
+sVback
+p148
+I7
+sV99
+p149
+I1
+sV98
+p150
+I1
+sVaww
+p151
+I2
+sVcatch
+p152
+I1
+sVwith
+p153
+I1
+sVbout
+p154
+I3
+sVtown
+p155
+I1
+sVsample
+p156
+I1
+sVnone
+p157
+I4
+sVtank
+p158
+I1
+sVinsanes
+p159
+I1
+sVplayer
+p160
+I1
+sVthis
+p161
+I1
+sVcrossed
+p162
+I2
+sVflip
+p163
+I1
+sVniggaz
+p164
+I5
+sVmiddle
+p165
+I1
+sVstall
+p166
+I1
+sVnine
+p167
+I1
+sVcwalk
+p168
+I1
+sVrabidass
+p169
+I1
+sV50s
+p170
+I1
+sVflees
+p171
+I1
+sVbitchll
+p172
+I1
+sVswim
+p173
+I1
+sVpound
+p174
+I13
+sVgive
+p175
+I1
+sVgoldielox
+p176
+I1
+sVrecognize
+p177
+I1
+sVslim
+p178
+I1
+sVcane
+p179
+I1
+sVit
+p180
+I3
+sVhunter
+p181
+I1
+sVagb
+p182
+I1
+sVtwist
+p183
+I3
+sVheard
+p184
+I1
+sVcant
+p185
+I1
+sVlonely
+p186
+I1
+sVim
+p187
+I13
+sVat
+p188
+I1
+sVlimit
+p189
+I1
+sVmoves
+p190
+I1
+sVshit
+p191
+I4
+sVtite
+p192
+I1
+sVholla
+p193
+I1
+sVthugs
+p194
+I1
+sVsippin
+p195
+I1
+sVhollain
+p196
+I1
+sVsit
+p197
+I1
+sVpay
+p198
+I1
+sVthat
+p199
+I2
+sVfastlane
+p200
+I1
+sVwrite
+p201
+I1
+sVmuthafuckin
+p202
+I1
+sVhigh
+p203
+I1
+sVtake
+p204
+I3
+sVpapers
+p205
+I5
+sVlearnin
+p206
+I1
+sVhangin
+p207
+I1
+sVroll
+p208
+I2
+sVindependent
+p209
+I1
+sVnobody
+p210
+I1
+sVset
+p211
+I1
+sVone
+p212
+I2
+sVwatch
+p213
+I2
+sVdoin
+p214
+I1
+sVbackbone
+p215
+I1
+sVdoug
+p216
+I1
+sVweed
+p217
+I1
+sVkeepin
+p218
+I5
+sVman
+p219
+I1
+sVbustaz
+p220
+I1
+sVbullet
+p221
+I1
+sVwife
+p222
+I1
+sVfloor
+p223
+I1
+sVsteady
+p224
+I1
+sVbang
+p225
+I1
+sVtooth
+p226
+I1
+sVhardhead
+p227
+I1
+sVcwalkin
+p228
+I1
+sVtime
+p229
+I1
+sVbanks
+p230
+I1
+sVdawgz
+p231
+I1
+sVwind
+p232
+I1
+sVlaws
+p233
+I1
+s.

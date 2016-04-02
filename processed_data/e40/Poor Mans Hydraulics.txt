@@ -1,107 +1,512 @@
-"poor man's hydraulics" lyrics
-e-40 lyrics
-"poor man's hydraulics"
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-yokin' it up, tearin' it up
-wakin' 'em up, showin' my butt
-serving some weight, having my cake
-acting a ape, smoking my grapes
-lifted and splifted, whiskeyed and twisted
-me and my niggas get it and fit it
-makin' 'em mad, makin' 'em sad
-love to boast, love to brag
-slangin' them raps, selling these tracks
-up in ya broad, up in ya batch
-my trunk is throbbing, my system knock
-my amps is making my woofers pop
-fully refurbished, fully restored
-70' cutlass sticking the floor
-turfin' and crumpin', snapping and stepping
-trappin' and slumming, bangin' and reppin'
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-get it to the right, get it to the left
-make your tires bounce like a insufficient check
-make your car dance like a dance contest
-do some acrobatics till it lead to your arrest
-exciting, joyriding
-high siding, big timing
-brand new shocks, rebuilt motor
-what color paint is that, chocolate mocha?
-chrome lips, chrome tips
-chrome everywhere, chrome on my hip
-reputable, intellectual
-i'm trying to fit you in my schedule
-sticking and moving, reducing my prices
-adjusting my rates, bringin' new clients
-checking my traps, running my route
-collecting my snaps, peeling on out
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-look at me squat, look at me mash
-look at me yoke, look at me smash
-oh, me, i ain't playin'
-oh, me, i'm my biggest fan
-me no cupcake, me no mark
-me no sucka, me got heart
-289, 454
-fresh outta impound, fresh outta tow
-he so foolish, i concur
-roger that, aye, aye sir
-unusual slump, dinormous slap
-he off a blunt, he on that yatch
-show casing, car racing
-ice skating, lane changing
-heads or tails, flipping a coin
-bill of sales everyday morn
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-i punch the gas, i hit the brakes
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-the poor man's hydraulics
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
-get it off the ground
+(dp1
+Vsticking
+p2
+I2
+sVserving
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVdance
+p6
+I2
+sVreputable
+p7
+I1
+sVstepping
+p8
+I1
+sVground
+p9
+I16
+sVaint
+p10
+I1
+sVfit
+p11
+I2
+sV289
+p12
+I1
+sVarrest
+p13
+I1
+sVwhiskeyed
+p14
+I1
+sVcrumpin
+p15
+I1
+sVacrobatics
+p16
+I1
+sVimpound
+p17
+I1
+sVhip
+p18
+I1
+sVhit
+p19
+I20
+sVget
+p20
+I19
+sVya
+p21
+I2
+sVbig
+p22
+I1
+sVcupcake
+p23
+I1
+sVfan
+p24
+I1
+sVsplifted
+p25
+I1
+sVgot
+p26
+I1
+sVtiming
+p27
+I1
+sVmocha
+p28
+I1
+sVknock
+p29
+I1
+sVlike
+p30
+I2
+sVtrappin
+p31
+I1
+sVroger
+p32
+I1
+sVfully
+p33
+I2
+sVthrobbing
+p34
+I1
+sVfoolish
+p35
+I1
+sVem
+p36
+I3
+sVlifted
+p37
+I1
+sVright
+p38
+I1
+sVbrakes
+p39
+I20
+sVbounce
+p40
+I1
+sVbatch
+p41
+I1
+sVtires
+p42
+I1
+sVlips
+p43
+I1
+sVplayin
+p44
+I1
+sVout
+p45
+I1
+sVjoyriding
+p46
+I1
+sVlead
+p47
+I1
+sVtow
+p48
+I1
+sVbroad
+p49
+I1
+sVice
+p50
+I1
+sVacting
+p51
+I1
+sVnew
+p52
+I2
+sVtips
+p53
+I1
+sVracing
+p54
+I1
+sVshocks
+p55
+I1
+sVslangin
+p56
+I1
+sVdinormous
+p57
+I1
+sVsales
+p58
+I1
+sVschedule
+p59
+I1
+sVpunch
+p60
+I20
+sVtracks
+p61
+I1
+sVyoke
+p62
+I1
+sVgrapes
+p63
+I1
+sVtrunk
+p64
+I1
+sVeveryday
+p65
+I1
+sVexciting
+p66
+I1
+sVyatch
+p67
+I1
+sVwoofers
+p68
+I1
+sVmans
+p69
+I22
+sVflipping
+p70
+I1
+sVboast
+p71
+I1
+sVoh
+p72
+I2
+sVroute
+p73
+I1
+sVaye
+p74
+I2
+sVturfin
+p75
+I1
+sVbrag
+p76
+I1
+sVinsufficient
+p77
+I1
+sVcutlass
+p78
+I1
+sVskating
+p79
+I1
+sVlove
+p80
+I2
+sVcolor
+p81
+I1
+sV454
+p82
+I1
+sVmakin
+p83
+I2
+sVpop
+p84
+I1
+sVsystem
+p85
+I1
+sVmotor
+p86
+I1
+sVchanging
+p87
+I1
+sVreducing
+p88
+I1
+sVape
+p89
+I1
+sVunusual
+p90
+I1
+sVheads
+p91
+I1
+sVweight
+p92
+I1
+sVpaint
+p93
+I1
+sVchrome
+p94
+I4
+sVsmash
+p95
+I1
+sVtwisted
+p96
+I1
+sVmark
+p97
+I1
+sVreppin
+p98
+I1
+sVraps
+p99
+I1
+sVrefurbished
+p100
+I1
+sVbiggest
+p101
+I1
+sVrates
+p102
+I1
+sVrebuilt
+p103
+I1
+sVtails
+p104
+I1
+sVselling
+p105
+I1
+sVmorn
+p106
+I1
+sVbrand
+p107
+I1
+sVgas
+p108
+I20
+sVlane
+p109
+I1
+sVchocolate
+p110
+I1
+sVcasing
+p111
+I1
+sVeverywhere
+p112
+I1
+sVbringin
+p113
+I1
+sVbutt
+p114
+I1
+sVprices
+p115
+I1
+sVsmoking
+p116
+I1
+sVtrying
+p117
+I1
+sVbill
+p118
+I1
+sVe40
+p119
+I1
+sVlook
+p120
+I4
+sVniggas
+p121
+I1
+sVchecking
+p122
+I1
+sVcar
+p123
+I2
+sVclients
+p124
+I1
+sVup
+p125
+I1
+sVsiding
+p126
+I1
+sVcake
+p127
+I1
+sVmaking
+p128
+I1
+sVsucka
+p129
+I1
+sVwakin
+p130
+I1
+sVcollecting
+p131
+I1
+sVheart
+p132
+I1
+sVoutta
+p133
+I2
+sVshowin
+p134
+I1
+sVit
+p135
+I1
+sVslap
+p136
+I1
+sVsad
+p137
+I1
+sVhigh
+p138
+I1
+sVim
+p139
+I2
+sVslumming
+p140
+I1
+sVcheck
+p141
+I1
+sVsir
+p142
+I1
+sVsquat
+p143
+I1
+sVcontest
+p144
+I1
+sVslump
+p145
+I1
+sVmake
+p146
+I2
+sVtearin
+p147
+I1
+sVtill
+p148
+I1
+sVblunt
+p149
+I1
+sVadjusting
+p150
+I1
+sVpoor
+p151
+I22
+sVsnaps
+p152
+I1
+sVpeeling
+p153
+I1
+sVhydraulics
+p154
+I22
+sVrunning
+p155
+I1
+sVmoving
+p156
+I1
+sVmad
+p157
+I1
+sV70
+p158
+I1
+sVconcur
+p159
+I1
+sVcoin
+p160
+I1
+sVintellectual
+p161
+I1
+sVtraps
+p162
+I1
+sVbangin
+p163
+I1
+sVfloor
+p164
+I1
+sVsnapping
+p165
+I1
+sVmash
+p166
+I1
+sVfresh
+p167
+I2
+sVamps
+p168
+I1
+sVyokin
+p169
+I1
+sVrestored
+p170
+I1
+sVleft
+p171
+I1
+s.

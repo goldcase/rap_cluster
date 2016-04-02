@@ -1,50 +1,389 @@
-"whip it up" lyrics
-e-40 lyrics
-"whip it up"
-(feat. gucci mane & yv)
-whip it whip it like it's jiffy
-all this money gotta get it
-early morning on the corner
-hustling try'na make a living
-whip it up (whip it up) whip-whip-whip it up
-uhh, charlie hustle gouda bubble
-cop it, twist it, mix it double
-yellow diamonds, yellow truck
-office landing with the fud
-pushing candy, booger sugar
-pistol whip ya with my ruger
-i'm the server he the cook
-place your order let me hook ya (uhh)
-i been up, i been down
-i been lost, i been found
-got that soft, got that brown
-got them greens, got them pound
-she don't like me but she love me
-she be giving me yo money
-i don't know you not the homie
-so i'm up in her tummy
-40 water, gucci up
-hollywood, cali love
-two-three bottles of some bud
-i'm a fuck around, find a plug
-chain so stupid, watch is dumb
-finest oh my bitches young
-put this roller on yo tongue
-slip this sugar you'll be numb
-40 with me i'm a whip it
-be legated i'm sick with it
-like a kilo, i'm a whip it
-call me nino, blue jay city
-gucci sneakers, forty bitches
-all these strippers, fucking with me
-so official 40 triggers
-all these killers ridin' with me
-i been out, i'm blankin'
-i'm yacked, i been drankin'
-swangin' from a vine like beating up my chest
-minice no bud no seeds no stress
-i'm high, she higher
-i'm on, she wired
-my nigga they goin go doody, my nigga they goin go toby
-i'm on the pill with some ropey around the club with my forty
-whip it up
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I2
+sVtoby
+p4
+I1
+sVyellow
+p5
+I2
+sVforty
+p6
+I2
+sVkilo
+p7
+I1
+sVgo
+p8
+I2
+sVcorner
+p9
+I1
+sVruger
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVoffice
+p13
+I1
+sVjay
+p14
+I1
+sVyoung
+p15
+I1
+sVsugar
+p16
+I2
+sVyacked
+p17
+I1
+sVpill
+p18
+I1
+sVta
+p19
+I1
+sVbrown
+p20
+I1
+sVaround
+p21
+I2
+sVyo
+p22
+I2
+sVget
+p23
+I1
+sVya
+p24
+I2
+sVwatch
+p25
+I1
+sVuhh
+p26
+I2
+sVearly
+p27
+I1
+sVkillers
+p28
+I1
+sVknow
+p29
+I1
+sVtwothree
+p30
+I1
+sVcook
+p31
+I1
+sVyv
+p32
+I1
+sVbeating
+p33
+I1
+sVlost
+p34
+I1
+sVgreens
+p35
+I1
+sVminice
+p36
+I1
+sVcandy
+p37
+I1
+sVmorning
+p38
+I1
+sVstupid
+p39
+I1
+sVfound
+p40
+I1
+sVsoft
+p41
+I1
+sVnigga
+p42
+I2
+sVfucking
+p43
+I1
+sVvine
+p44
+I1
+sVdumb
+p45
+I1
+sVgouda
+p46
+I1
+sVwhip
+p47
+I10
+sVblue
+p48
+I1
+sVliving
+p49
+I1
+sVgiving
+p50
+I1
+sVgucci
+p51
+I3
+sVsneakers
+p52
+I1
+sVdiamonds
+p53
+I1
+sVgot
+p54
+I5
+sVpistol
+p55
+I1
+sVyoull
+p56
+I1
+sVhustle
+p57
+I1
+sVdrankin
+p58
+I1
+sVpushing
+p59
+I1
+sVridin
+p60
+I1
+sVlike
+p61
+I4
+sVwater
+p62
+I1
+sVlet
+p63
+I1
+sVput
+p64
+I1
+sVroller
+p65
+I1
+sVplug
+p66
+I1
+sVcop
+p67
+I1
+sVwhipwhipwhip
+p68
+I1
+sVoh
+p69
+I1
+sVseeds
+p70
+I1
+sVplace
+p71
+I1
+sVmane
+p72
+I1
+sVchain
+p73
+I1
+sVstrippers
+p74
+I1
+sVfinest
+p75
+I1
+sVlove
+p76
+I2
+sVdont
+p77
+I2
+sVdown
+p78
+I1
+sVhook
+p79
+I1
+sVropey
+p80
+I1
+sVcity
+p81
+I1
+sVcali
+p82
+I1
+sVcall
+p83
+I1
+sVblankin
+p84
+I1
+sVhollywood
+p85
+I1
+sVbubble
+p86
+I1
+sVtriggers
+p87
+I1
+sVtryna
+p88
+I1
+sVclub
+p89
+I1
+sVbitches
+p90
+I2
+sVlanding
+p91
+I1
+sVfuck
+p92
+I1
+sVlegated
+p93
+I1
+sVbud
+p94
+I2
+sVme
+p95
+I3
+sVhigh
+p96
+I1
+sVe40
+p97
+I1
+sVdouble
+p98
+I1
+sVofficial
+p99
+I1
+sVup
+p100
+I3
+sVtummy
+p101
+I1
+sVfud
+p102
+I1
+sVserver
+p103
+I1
+sVnino
+p104
+I1
+sVpound
+p105
+I1
+sVit
+p106
+I4
+sVtwist
+p107
+I1
+sVhomie
+p108
+I1
+sVim
+p109
+I11
+sVslip
+p110
+I1
+sVbottles
+p111
+I1
+sVmake
+p112
+I1
+sV40
+p113
+I3
+sVmix
+p114
+I1
+sVchest
+p115
+I1
+sVsick
+p116
+I1
+sVhustling
+p117
+I1
+sVhigher
+p118
+I1
+sVbooger
+p119
+I1
+sVjiffy
+p120
+I1
+sVwired
+p121
+I1
+sVnumb
+p122
+I1
+sVtongue
+p123
+I1
+sVgoin
+p124
+I2
+sVstress
+p125
+I1
+sVcharlie
+p126
+I1
+sVswangin
+p127
+I1
+sVtruck
+p128
+I1
+sVorder
+p129
+I1
+sVdoody
+p130
+I1
+s.

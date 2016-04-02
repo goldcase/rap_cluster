@@ -1,86 +1,536 @@
-"celebrate" lyrics
-common lyrics
-"celebrate"
-everybody home, ain’t nobody gone
-and i got all my niggas around
-it feel good, don’t it? getting hood on it
-and i got all my niggas around
-i got a couple minutes in town
-a couple hundred bitches around
-so baby gonna get us a round
-cause i got all my niggas around
-celebrate
-we partying, yeah got body in
-exotic broads lobbying, spanish, somalian
-fly, we live it ’til we die
-we living in the night, toast looking in her eye
-on our paper ’til we get it like dubai
-chi niggas stand up, plastic cups
-girls with the drastic butts, that ask for bucks
-it don’t stop here
-bottles of veuve pop here
-and we gonna get around like 2pac’s here
-celebrate like it’s new year
-some bomb rocks coming, type nuclear
-yeah, it’s so ridiculo’
-lit the medicinal, passed it give-and-go
-backwards liquor store
-celebrate
-everybody home, ain’t nobody gone
-and i got all my niggas around
-it feel good, don’t it? getting hood on it
-and i got all my niggas around
-i got a couple minutes in town
-a couple hundred bitches around
-so baby gonna get us a round
-cause i got all my niggas around
-celebrate
-in my paul smith like an alcoholic
-my guys i used to hoop with, is now who i ball with
-this raw bitch came in looking flawless
-tonight she’ll be giving conscious, headlights!
-beaming from the beemer that her momma bought her
-i got to act right for her like i’m an author
-look where drama brought us, look where karma brought us
-married to the game, like usher we was caught up
-now we got some r&b broads we can call up
-you niggas come around keep the wall up
-smoke blowing out thinking of tomorrow and the simple things
-hustlas from the go, how far we done came
-celebrate
-everybody home, ain’t nobody gone
-and i got all my niggas around
-it feel good, don’t it? getting hood on it
-and i got all my niggas around
-i got a couple minutes in town
-a couple hundred bitches around
-so baby gonna get us a round
-cause i got all my niggas around
-celebrate
-ah, another night, we love the night
-for the life, getting bugged tonight
-wait ’til i get my money right
-told you it’s gonna be on like the benz’s that we lean on
-put my team on, get our heat on
-ah, i knew her when she strip, her name was chardonnay
-my niggas move work even on a holiday
-we come from porches and alleyways
-i’m the big ticket, don’t need no one to validate
-you celebrate
-we ain’t gotta wait
-it’s a toast to you and me
-bills ain’t so bad, celebrate that
-party in the yard ’til the lights come on
-ain’t nobody crying
-we’ve come so far, been climbing
-know the clouds they passed us by
-c’mon and raise your glass up high
-everybody home, ain’t nobody gone
-and i got all my niggas around
-it feel good, don’t it? getting hood on it
-and i got all my niggas around
-i got a couple minutes in town
-a couple hundred bitches around
-so baby gonna get us a round
-cause i got all my niggas around
-celebrate
+(dp1
+Vbomb
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sValleyways
+p5
+I1
+sVmove
+p6
+I1
+sVpaper
+p7
+I1
+sVbugged
+p8
+I1
+sVgo
+p9
+I1
+sVgiveandgo
+p10
+I1
+sVpaul
+p11
+I1
+sVtoast
+p12
+I2
+sVthinking
+p13
+I1
+sVbenz\u2019s
+p14
+I1
+sVit\u2019s
+p15
+I4
+sVsmith
+p16
+I1
+sVbills
+p17
+I1
+sVwall
+p18
+I1
+sVcrying
+p19
+I1
+sVholiday
+p20
+I1
+sVta
+p21
+I1
+sVtown
+p22
+I4
+sVgood
+p23
+I4
+sVaround
+p24
+I18
+sVget
+p25
+I8
+sVi\u2019m
+p26
+I2
+sVbig
+p27
+I1
+sVcouple
+p28
+I8
+sVstop
+p29
+I1
+sVme
+p30
+I1
+sVgame
+p31
+I1
+sVknow
+p32
+I1
+sVnew
+p33
+I1
+sVticket
+p34
+I1
+sVcelebrate
+p35
+I11
+sVname
+p36
+I1
+sVdubai
+p37
+I1
+sVclouds
+p38
+I1
+sVlike
+p39
+I7
+sVdie
+p40
+I1
+sVmarried
+p41
+I1
+sVrocks
+p42
+I1
+sVbad
+p43
+I1
+sVcommon
+p44
+I1
+sVnight
+p45
+I3
+sVtold
+p46
+I1
+sVround
+p47
+I4
+sVright
+p48
+I2
+sVpartying
+p49
+I1
+sVliquor
+p50
+I1
+sVstrip
+p51
+I1
+sVyeah
+p52
+I2
+sVused
+p53
+I1
+sVusher
+p54
+I1
+sVbeemer
+p55
+I1
+sVyear
+p56
+I1
+sVhome
+p57
+I4
+sVeven
+p58
+I1
+sVliving
+p59
+I1
+sVgon
+p60
+I6
+sVgiving
+p61
+I1
+sVnuclear
+p62
+I1
+sVlean
+p63
+I1
+sVlooking
+p64
+I2
+sVlights
+p65
+I1
+sVrb
+p66
+I1
+sVgot
+p67
+I20
+sVcause
+p68
+I4
+sVshe\u2019ll
+p69
+I1
+sVbought
+p70
+I1
+sVbody
+p71
+I1
+sVblowing
+p72
+I1
+sVteam
+p73
+I1
+sVhere
+p74
+I3
+sVbutts
+p75
+I1
+sVask
+p76
+I1
+sVcome
+p77
+I4
+sVby
+p78
+I1
+sVwait
+p79
+I2
+sVon
+p80
+I3
+sVbackwards
+p81
+I1
+sVyard
+p82
+I1
+sVgetting
+p83
+I5
+sVridiculo\u2019
+p84
+I1
+sVkeep
+p85
+I1
+sVsomalian
+p86
+I1
+sVflawless
+p87
+I1
+sVstand
+p88
+I1
+sVsmoke
+p89
+I1
+sVact
+p90
+I1
+sVexotic
+p91
+I1
+sVhustlas
+p92
+I1
+sVlove
+p93
+I1
+sVfeel
+p94
+I4
+sVhoop
+p95
+I1
+sVpop
+p96
+I1
+sVone
+p97
+I1
+sVbrought
+p98
+I2
+sVput
+p99
+I1
+sVmomma
+p100
+I1
+sVdone
+p101
+I1
+sVbitch
+p102
+I1
+sVanother
+p103
+I1
+sVspanish
+p104
+I1
+sVcups
+p105
+I1
+sVtomorrow
+p106
+I1
+sVhood
+p107
+I4
+sVheadlights
+p108
+I1
+sVeverybody
+p109
+I4
+sVeye
+p110
+I1
+sVraise
+p111
+I1
+sVher
+p112
+I1
+sVchi
+p113
+I1
+sVcaught
+p114
+I1
+sVgirls
+p115
+I1
+sVplastic
+p116
+I1
+sVlive
+p117
+I1
+sVcall
+p118
+I1
+sVdon\u2019t
+p119
+I6
+sVpassed
+p120
+I2
+sVhundred
+p121
+I4
+sVtype
+p122
+I1
+sVstore
+p123
+I1
+sVlife
+p124
+I1
+sVchardonnay
+p125
+I1
+sVthat
+p126
+I1
+sVbitches
+p127
+I4
+sVglass
+p128
+I1
+sVheat
+p129
+I1
+sVbaby
+p130
+I4
+sVwith
+p131
+I1
+sVporches
+p132
+I1
+sVfly
+p133
+I1
+sVhigh
+p134
+I1
+sVlook
+p135
+I2
+sVniggas
+p136
+I15
+sVain\u2019t
+p137
+I7
+sVwork
+p138
+I1
+sVup
+p139
+I3
+sVus
+p140
+I7
+sVbroads
+p141
+I2
+sVmedicinal
+p142
+I1
+sVminutes
+p143
+I4
+sVgone
+p144
+I4
+sValcoholic
+p145
+I1
+sVlobbying
+p146
+I1
+sVah
+p147
+I2
+sVwe\u2019ve
+p148
+I1
+sVit
+p149
+I4
+sVtonight
+p150
+I2
+sVraw
+p151
+I1
+sV\u2019til
+p152
+I4
+sVin
+p153
+I1
+sVneed
+p154
+I1
+sVbucks
+p155
+I1
+sVsimple
+p156
+I1
+sVdrama
+p157
+I1
+sVveuve
+p158
+I1
+sVbottles
+p159
+I1
+sVauthor
+p160
+I1
+sVna
+p161
+I6
+sVlit
+p162
+I1
+sVfar
+p163
+I2
+sVparty
+p164
+I1
+sVbeaming
+p165
+I1
+sVnobody
+p166
+I5
+sVknew
+p167
+I1
+sVball
+p168
+I1
+sVc\u2019mon
+p169
+I1
+sVcoming
+p170
+I1
+sVdrastic
+p171
+I1
+sVvalidate
+p172
+I1
+sVguys
+p173
+I1
+sVclimbing
+p174
+I1
+sVconscious
+p175
+I1
+sV2pac\u2019s
+p176
+I1
+sVkarma
+p177
+I1
+sVthings
+p178
+I1
+sVcame
+p179
+I2
+s.

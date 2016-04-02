@@ -1,50 +1,371 @@
-"testify" lyrics
-common lyrics
-"testify"
-she walked in the court her knees buckled
-saying "for a man to survive he need hustle"
-seen and been through struggle her whole life
-made a transition from being his hoe to his wife
-stifling; that night upend the atf bust in
-her daddy was a hustla so she love them
-looked at the jury, how can they judge him?
-she screamed
-before you lock my love away, before you lock my love away
-before you lock my love away, before you lock my love away
-please let me testify
-fear in her chest, her face in tears,
-had her man's back. he was facin' years
-in her name, though the place was his
-they tryna to take everything except the kids
-for years she been through scufflin' fights
-while he tryna to hustle that white
-up all night wonderin' if he's alive
-seeing him tried she bubbled inside and screamed
-before you lock my love away, before you lock my love away
-before you lock my love away, before you lock my love away
-please, let me testify
-the judge yelled for order
-court reporter makin' her words shorter
-his lawyer sat next to him, she could see how the trial was affectin' him
-it hurt for her eyes to connect with him
-using her lies for protectin' him
-they arrested him for murder, and gun possession
-as they read back her confession she screamed
-before you lock my love away, before you lock my love away
-before you lock my love away, before you lock my love away
-please, let me testify
-the court awaited as the foreman got the verdict from the bailiff
-emotional outbursts tears and smeared makeup
-he stated, he was guilty on all charges
-she shakin' like she took it the hardest
-a spin artist, she brought her face up laughin'
-that's when the prosecutor realized what happened
-all that speaking her mind, testifyin' and cryin'
-when this bitch did the crime: the queenpin...
-before you lock my love away, before you lock my love away
-before you lock my love away, before you lock my love away
-please, let me testify
-you accuse me of a, you accuse me of a, you accuse
-please let me testify, please let me testify
-you accuse me of a, you accuse me of a, you accuse
-please let me testify, please let me testify
+(dp1
+Vsaying
+p2
+I1
+sVaccuse
+p3
+I6
+sVlyrics
+p4
+I2
+sVyears
+p5
+I2
+sVcryin
+p6
+I1
+sVfear
+p7
+I1
+sVexcept
+p8
+I1
+sVbust
+p9
+I1
+sVcrime
+p10
+I1
+sVtears
+p11
+I2
+sVstifling
+p12
+I1
+sVhappened
+p13
+I1
+sVthem
+p14
+I1
+sVhis
+p15
+I1
+sVread
+p16
+I1
+sVbubbled
+p17
+I1
+sVwords
+p18
+I1
+sVjudge
+p19
+I2
+sVusing
+p20
+I1
+sVhim
+p21
+I4
+sVcommon
+p22
+I1
+sVbrought
+p23
+I1
+sVtestifyin
+p24
+I1
+sVname
+p25
+I1
+sVartist
+p26
+I1
+sVarrested
+p27
+I1
+sVgun
+p28
+I1
+sVverdict
+p29
+I1
+sVprotectin
+p30
+I1
+sVnight
+p31
+I2
+sVback
+p32
+I2
+sValive
+p33
+I1
+sVsee
+p34
+I1
+sVqueenpin
+p35
+I1
+sVconnect
+p36
+I1
+sVlawyer
+p37
+I1
+sVknees
+p38
+I1
+sVaway
+p39
+I16
+sVplease
+p40
+I8
+sVtestify
+p41
+I10
+sVeverything
+p42
+I1
+sVshakin
+p43
+I1
+sVgot
+p44
+I1
+sVhustla
+p45
+I1
+sVhustle
+p46
+I2
+sVjury
+p47
+I1
+sVreporter
+p48
+I1
+sVmakeup
+p49
+I1
+sVlike
+p50
+I1
+sVlet
+p51
+I8
+sVstruggle
+p52
+I1
+sVlaughin
+p53
+I1
+sVatf
+p54
+I1
+sVmans
+p55
+I1
+sVbuckled
+p56
+I1
+sVcould
+p57
+I1
+sVtransition
+p58
+I1
+sVguilty
+p59
+I1
+sVtrial
+p60
+I1
+sVplace
+p61
+I1
+sVwhole
+p62
+I1
+sVthats
+p63
+I1
+sVseeing
+p64
+I1
+sVlove
+p65
+I17
+sVconfession
+p66
+I1
+sVmakin
+p67
+I1
+sVawaited
+p68
+I1
+sVscreamed
+p69
+I3
+sVlies
+p70
+I1
+sVbitch
+p71
+I1
+sVfacin
+p72
+I1
+sVhes
+p73
+I1
+sVnext
+p74
+I1
+sVsurvive
+p75
+I1
+sVwhite
+p76
+I1
+sVprosecutor
+p77
+I1
+sVpossession
+p78
+I1
+sVtryna
+p79
+I2
+sVeyes
+p80
+I1
+sVmurder
+p81
+I1
+sVtook
+p82
+I1
+sVhurt
+p83
+I1
+sVkids
+p84
+I1
+sVspin
+p85
+I1
+sVmade
+p86
+I1
+sVinside
+p87
+I1
+sVhardest
+p88
+I1
+sVscufflin
+p89
+I1
+sVspeaking
+p90
+I1
+sVemotional
+p91
+I1
+sVaffectin
+p92
+I1
+sVdaddy
+p93
+I1
+sVyelled
+p94
+I1
+sVsmeared
+p95
+I1
+sVstated
+p96
+I1
+sVlock
+p97
+I16
+sVfights
+p98
+I1
+sVmind
+p99
+I1
+sVlife
+p100
+I1
+sVbailiff
+p101
+I1
+sVin
+p102
+I1
+sVneed
+p103
+I1
+sVseen
+p104
+I1
+sVsat
+p105
+I1
+sVhoe
+p106
+I1
+sVcourt
+p107
+I3
+sVshorter
+p108
+I1
+sVchest
+p109
+I1
+sVtake
+p110
+I1
+sVwonderin
+p111
+I1
+sVforeman
+p112
+I1
+sVtried
+p113
+I1
+sVthough
+p114
+I1
+sVoutbursts
+p115
+I1
+sVman
+p116
+I1
+sVrealized
+p117
+I1
+sVupend
+p118
+I1
+sVwife
+p119
+I1
+sVcharges
+p120
+I1
+sVwalked
+p121
+I1
+sVface
+p122
+I2
+sVlooked
+p123
+I1
+sVorder
+p124
+I1
+s.

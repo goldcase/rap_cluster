@@ -1,91 +1,485 @@
-"give her the keys" lyrics
-e-40 lyrics
-"give her the keys"
-yeah (ehhh!!)
-yeah (ehhh!!)
-ahh huh!!
-ahh huh!!
-uuuugggghhh!!
-yeah mane!!
-it's magic!!
-e40 & my partna t-pain
-(nappy boy!!)
-open up that garage
-it's a big fat car
-with a big fat bow on top (on top)
-it's a bentley coupe with the roof let back
-now shawty you know that's hot
-imma give her the keys
-(uuugghh!!) ooohh (uuugghh!!) ooohh (uuugghh!!) ooohh
-now shawty sang it to me
-oooohh!! ooohh!! ooohh!! ooohh!!
-and imma give her the keys
-oooohh!! ooohh!! ooohh!! ooohh!!
-uuuugggghhh!!!!
-from a bucket to a benz
-a benz to a bentley
-down with me from the start
-got my back like a tank top
-when i used to be on the block
-she hid my rocks in her yacht
-got a special place in my heart
-she knows how to play her part
-every time i look at you darling
-i get a hard on
-you sexy without your make up on
-i wanna bone
-move you out the hood
-i told you i would
-i'm not phony
-we both from the same place
-grew up on fried bologna
-they say the opposites attract
-but we gotta a lot in common
-behind every boss player is a boss woman
-imam fiend when it come to our cooking
-you do your thang
-throw down like paula dean
-neck bones & collard greens
-born in the mud, raised in the trap
-down ass broad, never been a sap
-if i ever need bail, went to jail, got popped
-you'll be johnny on the spot
-you'll come & get me out
-a loyalist, not just a friend to me
-we was meant to be
-we got chemistry
-you like when i lay this pipe
-been around each other so long
-they say we starting to look a like
-starting to think a like
-getting our money right
-fuss, fight, then make love all night
-california king on a california queen
-my california dream
-we make a good team
-it's the little things that count
-any means much
-can't nothing come between us
-can't nothing separate us
-you're my backbone
-you my rib
-you my chick
-you my backbone
-you my rib
-you my chick
-it's the little things that count
-any means much
-can't nothing come between us
-cant nothing separate us
-you my backbone
-you my rib
-you my chick
-you my backbone
-you my rib
-you my chick
-yeah mane!!
-it's a drought on loyal females
-the good ones is hard to find mane
-so when you find a good one
-hold on to that broad
-mane you hear me
+(dp1
+Vthings
+p2
+I2
+sVlyrics
+p3
+I2
+sVneed
+p4
+I1
+sVmove
+p5
+I1
+sVbail
+p6
+I1
+sVfind
+p7
+I2
+sVimma
+p8
+I2
+sVthang
+p9
+I1
+sVcollard
+p10
+I1
+sVfiend
+p11
+I1
+sVteam
+p12
+I1
+sVta
+p13
+I1
+sVmeant
+p14
+I1
+sVcount
+p15
+I2
+sVwoman
+p16
+I1
+sVaround
+p17
+I1
+sVget
+p18
+I2
+sVbig
+p19
+I2
+sVfat
+p20
+I2
+sVones
+p21
+I1
+sVhid
+p22
+I1
+sVnappy
+p23
+I1
+sVmagic
+p24
+I1
+sVlike
+p25
+I5
+sVgreens
+p26
+I1
+sVyoull
+p27
+I2
+sVuuuugggghhh
+p28
+I2
+sVrocks
+p29
+I1
+sVqueen
+p30
+I1
+sVsang
+p31
+I1
+sVooohh
+p32
+I9
+sVcommon
+p33
+I1
+sVnight
+p34
+I1
+sVloyalist
+p35
+I1
+sVwent
+p36
+I1
+sVbone
+p37
+I1
+sVright
+p38
+I1
+sVdean
+p39
+I1
+sVbentley
+p40
+I2
+sVhard
+p41
+I2
+sVyeah
+p42
+I4
+sVborn
+p43
+I1
+sVus
+p44
+I4
+sVehhh
+p45
+I2
+sVspecial
+p46
+I1
+sVout
+p47
+I1
+sVgarage
+p48
+I1
+sVbroad
+p49
+I2
+sVcooking
+p50
+I1
+sVmud
+p51
+I1
+sVbehind
+p52
+I1
+sVgot
+p53
+I5
+sVdarling
+p54
+I1
+sVever
+p55
+I1
+sVtold
+p56
+I1
+sVass
+p57
+I1
+sVbe
+p58
+I1
+sVnever
+p59
+I1
+sVboss
+p60
+I2
+sVlet
+p61
+I1
+sVchick
+p62
+I4
+sVsexy
+p63
+I1
+sVcome
+p64
+I4
+sVthrow
+p65
+I1
+sVon
+p66
+I2
+sVgetting
+p67
+I1
+sVbow
+p68
+I1
+sVplace
+p69
+I2
+sVmane
+p70
+I4
+sVcalifornia
+p71
+I3
+sVthink
+p72
+I1
+sVblock
+p73
+I1
+sVthats
+p74
+I1
+sVraised
+p75
+I1
+sVlove
+p76
+I1
+sVahh
+p77
+I2
+sVone
+p78
+I1
+sVfight
+p79
+I1
+sVopen
+p80
+I1
+sVhood
+p81
+I1
+sVwan
+p82
+I1
+sVlittle
+p83
+I2
+sVwould
+p84
+I1
+sVbologna
+p85
+I1
+sVtop
+p86
+I3
+sVlong
+p87
+I1
+sVcoupe
+p88
+I1
+sVstart
+p89
+I1
+sVmuch
+p90
+I2
+sVlot
+p91
+I1
+sVfriend
+p92
+I1
+sVimam
+p93
+I1
+sVpopped
+p94
+I1
+sVfemales
+p95
+I1
+sVknows
+p96
+I1
+sVboy
+p97
+I1
+sVhuh
+p98
+I2
+sVphony
+p99
+I1
+sVback
+p100
+I2
+sVpart
+p101
+I1
+sVhear
+p102
+I1
+sVopposites
+p103
+I1
+sVhold
+p104
+I1
+sVme
+p105
+I3
+sVking
+p106
+I1
+sVe40
+p107
+I2
+sVgrew
+p108
+I1
+sVtank
+p109
+I1
+sVlook
+p110
+I2
+sVcar
+p111
+I1
+sVbucket
+p112
+I1
+sVcant
+p113
+I4
+sVroof
+p114
+I1
+sVtpain
+p115
+I1
+sVfried
+p116
+I1
+sVheart
+p117
+I1
+sVmoney
+p118
+I1
+sVjohnny
+p119
+I1
+sVgive
+p120
+I4
+sVuuugghh
+p121
+I3
+sVbenz
+p122
+I2
+sVtrap
+p123
+I1
+sVplayer
+p124
+I1
+sVsay
+p125
+I2
+sVgood
+p126
+I3
+sVim
+p127
+I1
+sVbones
+p128
+I1
+sVsap
+p129
+I1
+sVattract
+p130
+I1
+sVpartna
+p131
+I1
+sVna
+p132
+I1
+sVmake
+p133
+I3
+sVmeans
+p134
+I2
+sVloyal
+p135
+I1
+sVhot
+p136
+I1
+sVshawty
+p137
+I2
+sVpaula
+p138
+I1
+sVplay
+p139
+I1
+sVused
+p140
+I1
+sVfuss
+p141
+I1
+sVseparate
+p142
+I2
+sVkeys
+p143
+I4
+sVbackbone
+p144
+I4
+sVspot
+p145
+I1
+sVlay
+p146
+I1
+sVnothing
+p147
+I4
+sVdrought
+p148
+I1
+sVneck
+p149
+I1
+sVdream
+p150
+I1
+sVyoure
+p151
+I1
+sVyacht
+p152
+I1
+sVpipe
+p153
+I1
+sVoooohh
+p154
+I2
+sVwithout
+p155
+I1
+sVjail
+p156
+I1
+sVtime
+p157
+I1
+sVevery
+p158
+I2
+sVrib
+p159
+I4
+sVchemistry
+p160
+I1
+sVstarting
+p161
+I2
+sVknow
+p162
+I1
+s.

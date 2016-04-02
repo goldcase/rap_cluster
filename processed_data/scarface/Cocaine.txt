@@ -1,27 +1,92 @@
-"cocaine" lyrics
-scarface lyrics
-"cocaine"
-if you want to go out
-you've got to take her out, cocaine
-and if you want to get down
-down on the ground, cocaine
-she don't lie
-she don't lie
-she don't lie, cocaine
-well if you've had bad news
-you want to kick your blues, cocaine
-and if your day is done
-but you just got to run on, cocaine
-she don't lie
-she don't lie
-she don't lie, cocaine
-feeling is gone but you just
-got to ride on, cocaine
-but don't forget this fact
-you just can't get it back, cocaine
-she don't lie
-she don't lie
-she don't lie, cocaine
-she don't lie
-she don't lie
-she don't lie, cocaine
+(dp1
+Vgone
+p2
+I1
+sVdont
+p3
+I13
+sVlyrics
+p4
+I2
+sVback
+p5
+I1
+sVdown
+p6
+I1
+sVcant
+p7
+I1
+sVdone
+p8
+I1
+sVwant
+p9
+I3
+sVgo
+p10
+I1
+sVblues
+p11
+I1
+sVcocaine
+p12
+I12
+sVforget
+p13
+I1
+sVground
+p14
+I1
+sVlie
+p15
+I12
+sVjust
+p16
+I1
+sVtake
+p17
+I1
+sVgot
+p18
+I3
+sVout
+p19
+I1
+sVkick
+p20
+I1
+sVrun
+p21
+I1
+sVget
+p22
+I2
+sVnews
+p23
+I1
+sVday
+p24
+I1
+sVride
+p25
+I1
+sVwell
+p26
+I1
+sVbad
+p27
+I1
+sVyouve
+p28
+I2
+sVscarface
+p29
+I1
+sVfeeling
+p30
+I1
+sVfact
+p31
+I1
+s.

@@ -1,79 +1,692 @@
-"if it ain't ruff" lyrics
-n.w.a. lyrics
-"if it ain't ruff"
-ren is the villain and you're just an hostage
-so whenever i'm steppin cover your head like an ostrich
-groupies been waitin for this, suckers been hatin for this
-you know why ? because so many are relatin to this
-jealous is how they feel it intentionally
-but they start to love it becoz i made it eventually
-pumpin the music i keep the music like pumpin
-coz ren ain't in here for nuthin, i keep the average crowd jumpin
-yo, you know the color, the villain's in black
-always down to make noise, and attack
-so you better get back unless you wanna come with it
-and make your face like a target and close your eyes when i hit it
-you're screamin with fear but it's with fear that you're screamin
-you're wakin up in a sweat coz ren is givin bad dreams and
-i'm not schemin, i'm just tellin the facts
-that's how it is when n.w.a. starts to jack
-so brothers that wanna scrap with me
-that sweezin and sneezin will have to lap with me
-especially beggin to write some lyrics with me
-i just snatch your girl to take a nap with me
-coz when it comes to ren there's no comparison
-and if you try to be me, it's quite embarassin
-but i understand coz you're mentally slow
-coz i can tell from the jump you're too nervous to go
-if it aint' ruff it ain't me
-(tha gangsta's black and he's about to attack)
-if it ain't ruff it ain't me
-lemme bust a freestyle here (allright then)
-i can tell that you're afraid to fight me
-simple because you lost the crowd and they had to invite me
-becoz you're sweat as a puddle but there's a puddle o' sweat
-i'm a threath, so get a cold rag and wipe your neck
-and clean the dirt off your face that calls acne
-it's ridiculous thinkin that you can jack me
-this is the round where the punch will go
-until ya a g-a-t that's known as a flow
-i'm makin a point but it's a point that i'm makin
-like, see, i'm hatin the fakin i keep the suckers like shakin
-scared to speak with a tongue and they're chozen
-the sound of my voice in their ear and they're frozen
-this is a battle to the death, it's like the same ol'
-against a brother on a tip, with
-givin a pain but it's with pain that i'm givin
-but i'm comparin and tearin'em but i'm makin a livin
-with the hype of a 9 volt battery
-and the odds for me to conquer is averagely good
-meanin i'm a flow
-i'm from the streets so, yo, i'm ready to go
-if it ain't ruff it ain't me (yo ren)
-(tha gangsta's black and he's about to attack)
-if it ain't ruff it ain't me
-(man whatcha gonna do now ?) (get funky)
-the 'do not disturb' sign is in effect
-while i'm thinkin of a fool to select
-to give the victim the verdict so for the verdict a victim
-slammin my vocals on a dance with the rest then i kick them
-tell'em they're guilty, and beep out the bailer
-and get a new track o' drums so i can play with
-percussion; pumpin it loud when i perform
-yo, you wanna play in my game, put on a uniform
-it ain't a rule in the book you have to go by
-hey, coz when it comes to cheatin yo you should know i
-for fear in the hearts coz it's the hearts full of fear
-coz what you hear in your ear is something funky and clear
-the hump was incredible yo but ren he was super
-but now i'm ruthless, a civilian and not a trooper
-but a soldier with a top rankin
-givin dope material, the hell with the gankin
-so play like an airplane and just jet
-and keep your blood pressure low coz i'm a , if not
-i'm afraid of the show
-that you're a sucker and you're too nervous to go
-if it ain't ruff it ain't me (yo ren)
-(the gangsta's black and he's about to attack)
-if it ain't ruff it ain't me (yo ren)
-(the gangsta's black) if it ain't ... if it ain't
+(dp1
+Vlyrics
+p2
+I3
+sVshow
+p3
+I1
+sVdance
+p4
+I1
+sVsound
+p5
+I1
+sVrest
+p6
+I1
+sVnwa
+p7
+I2
+sVbattle
+p8
+I1
+sVfacts
+p9
+I1
+sVhell
+p10
+I1
+sVfear
+p11
+I4
+sVaint
+p12
+I18
+sVmeanin
+p13
+I1
+sVslow
+p14
+I1
+sVgivin
+p15
+I4
+sVscared
+p16
+I1
+sVnervous
+p17
+I2
+sVhump
+p18
+I1
+sVacne
+p19
+I1
+sVshakin
+p20
+I1
+sVbust
+p21
+I1
+sVbetter
+p22
+I1
+sVcolor
+p23
+I1
+sVbook
+p24
+I1
+sVblack
+p25
+I5
+sVkick
+p26
+I1
+sVfool
+p27
+I1
+sVeventually
+p28
+I1
+sVthem
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I1
+sVlivin
+p32
+I1
+sVyo
+p33
+I8
+sVget
+p34
+I4
+sVhostage
+p35
+I1
+sVpumpin
+p36
+I3
+sVdope
+p37
+I1
+sVmaterial
+p38
+I1
+sVdisturb
+p39
+I1
+sVruff
+p40
+I8
+sVgame
+p41
+I1
+sVconquer
+p42
+I1
+sVknow
+p43
+I3
+sVnot
+p44
+I1
+sVwipe
+p45
+I1
+sVdreams
+p46
+I1
+sVostrich
+p47
+I1
+sVbeggin
+p48
+I1
+sVlike
+p49
+I7
+sVlost
+p50
+I1
+sValways
+p51
+I1
+sVwith
+p52
+I1
+sVbrother
+p53
+I1
+sVtheyre
+p54
+I3
+sVtry
+p55
+I1
+sVfrozen
+p56
+I1
+sVbad
+p57
+I1
+sVverdict
+p58
+I2
+sVchozen
+p59
+I1
+sVembarassin
+p60
+I1
+sVhype
+p61
+I1
+sVround
+p62
+I1
+sVvictim
+p63
+I2
+sVcrowd
+p64
+I2
+sVtrooper
+p65
+I1
+sVgroupies
+p66
+I1
+sVstreets
+p67
+I1
+sVback
+p68
+I1
+sVtellem
+p69
+I1
+sVsign
+p70
+I1
+sVjump
+p71
+I1
+sVgo
+p72
+I5
+sVsee
+p73
+I1
+sVcheatin
+p74
+I1
+sVsteppin
+p75
+I1
+sVclose
+p76
+I1
+sVgirl
+p77
+I1
+sVcold
+p78
+I1
+sVbattery
+p79
+I1
+sVgon
+p80
+I1
+sVgive
+p81
+I1
+sVincredible
+p82
+I1
+sVscrap
+p83
+I1
+sVuniform
+p84
+I1
+sVren
+p85
+I8
+sVnew
+p86
+I1
+sVcomparin
+p87
+I1
+sVthreath
+p88
+I1
+sVnoise
+p89
+I1
+sVdirt
+p90
+I1
+sVwhatcha
+p91
+I1
+sVbecoz
+p92
+I2
+sVlem
+p93
+I1
+sVquite
+p94
+I1
+sVpressure
+p95
+I1
+sVpunch
+p96
+I1
+sVdeath
+p97
+I1
+sVdrums
+p98
+I1
+sVput
+p99
+I1
+sVsuckers
+p100
+I2
+sVslammin
+p101
+I1
+sVcome
+p102
+I1
+sVby
+p103
+I1
+sVcomparison
+p104
+I1
+sVol
+p105
+I1
+sVstarts
+p106
+I1
+sVcoz
+p107
+I9
+sVguilty
+p108
+I1
+sVpercussion
+p109
+I1
+sVscreamin
+p110
+I2
+sVkeep
+p111
+I4
+sVsoldier
+p112
+I1
+sVfunky
+p113
+I2
+sVsweat
+p114
+I3
+sVtongue
+p115
+I1
+sVtheres
+p116
+I2
+sVhead
+p117
+I1
+sVcomes
+p118
+I2
+sVthats
+p119
+I2
+sVlove
+p120
+I1
+sVpoint
+p121
+I2
+sVfeel
+p122
+I1
+sVmakin
+p123
+I3
+sVvolt
+p124
+I1
+sVgankin
+p125
+I1
+sVpuddle
+p126
+I2
+sVhear
+p127
+I1
+sVselect
+p128
+I1
+sVspeak
+p129
+I1
+sVwan
+p130
+I3
+sVi
+I1
+sVjet
+p131
+I1
+sVhes
+p132
+I3
+sVsuper
+p133
+I1
+sVtop
+p134
+I1
+sVneck
+p135
+I1
+sVhey
+p136
+I1
+sVfight
+p137
+I1
+sVbeep
+p138
+I1
+sVstart
+p139
+I1
+sVattack
+p140
+I4
+sVmusic
+p141
+I2
+sVlow
+p142
+I1
+sVtell
+p143
+I2
+sVeyes
+p144
+I1
+sVinvite
+p145
+I1
+sVfreestyle
+p146
+I1
+sVgat
+p147
+I1
+sVsnatch
+p148
+I1
+sVridiculous
+p149
+I1
+sVunderstand
+p150
+I1
+sVhatin
+p151
+I2
+sVknown
+p152
+I1
+sVear
+p153
+I2
+sVpain
+p154
+I2
+sVallright
+p155
+I1
+sVme
+p156
+I10
+sVmade
+p157
+I1
+sVtarget
+p158
+I1
+sVfull
+p159
+I1
+sVthis
+p160
+I2
+sVrankin
+p161
+I1
+sVsneezin
+p162
+I1
+sVtellin
+p163
+I1
+sVaveragely
+p164
+I1
+sVvocals
+p165
+I1
+sVfakin
+p166
+I1
+sVmany
+p167
+I1
+sVnuthin
+p168
+I1
+sVvoice
+p169
+I1
+sVodds
+p170
+I1
+sVclear
+p171
+I1
+sVwakin
+p172
+I1
+sVand
+p173
+I1
+sVrag
+p174
+I1
+sVvillains
+p175
+I1
+sVthen
+p176
+I1
+sVflow
+p177
+I2
+sVgangstas
+p178
+I4
+sVit
+p179
+I2
+sVvillain
+p180
+I1
+sVim
+p181
+I17
+sVo
+I2
+sVready
+p182
+I1
+sVairplane
+p183
+I1
+sVface
+p184
+I2
+sVsimple
+p185
+I1
+sVrelatin
+p186
+I1
+sVafraid
+p187
+I2
+sVsomething
+p188
+I1
+sVperform
+p189
+I1
+sVna
+p190
+I4
+sVmake
+p191
+I2
+sVcivilian
+p192
+I1
+sVtip
+p193
+I1
+sVwrite
+p194
+I1
+sVya
+p195
+I1
+sVnap
+p196
+I1
+sVbailer
+p197
+I1
+sVtake
+p198
+I1
+sVsucker
+p199
+I1
+sV9
+I1
+sVschemin
+p200
+I1
+sVwaitin
+p201
+I1
+sVplay
+p202
+I3
+sVunless
+p203
+I1
+sVbrothers
+p204
+I1
+sVtrack
+p205
+I1
+sVeffect
+p206
+I1
+sVblood
+p207
+I1
+sVjumpin
+p208
+I1
+sVjealous
+p209
+I1
+sVlap
+p210
+I1
+sVmentally
+p211
+I1
+sVman
+p212
+I1
+sVsweezin
+p213
+I1
+sVespecially
+p214
+I1
+sVcalls
+p215
+I1
+sVwhenever
+p216
+I1
+sVloud
+p217
+I1
+sVaverage
+p218
+I1
+sVyoure
+p219
+I10
+sVcover
+p220
+I1
+sVrule
+p221
+I1
+sVintentionally
+p222
+I1
+sVruthless
+p223
+I1
+sVclean
+p224
+I1
+sVhearts
+p225
+I2
+sVtearinem
+p226
+I1
+sVthinkin
+p227
+I2
+sVtha
+p228
+I2
+sVjack
+p229
+I2
+s.

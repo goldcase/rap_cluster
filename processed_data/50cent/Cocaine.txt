@@ -1,53 +1,397 @@
-"cocaine" lyrics
-50 cent lyrics
-"cocaine"
-(feat. robin thicke)
-where did you get this stuff?
-columbia
-oh, uhh... well, do you mind if i, do a line?
-yeah, go ahead; fuck it, let's all do one
-i can't feel my face
-i mean i can touch it, but i can't feel it, inside
-(cocaine) i know police is watchin
-(cocaine) hustlin i'm not stoppin
-(cocaine) i got to get my money, you think shit is funny
-me i'm 'bout my business (cocaine)
-i see 'em watchin
-i got the e
-you muh'fuckin right
-columbian girl, peruvian chick
-she make the money roll and i love the bitch
-know she ain't a virgin, but she pure
-for the right price i'll let you fuck with her raw (yeah)
-a lil' like a pimp, i'm your pusher man
-she could make us both rich nigga, yes she can
-you want your own spot, let's talk locations
-then talk market and the public relations (ooh)
-everybody's watchin (yeah)
-but no one talks about it (shut your mouth)
-right now - that's all it was, anything call it
-she said, sex just ain't the same without it (woo!)
-see 'em watchin
-i ain't stoppin
-i got the e
-every little step i take (c'mon)
-you will be there
-every little step i make (look bitch)
-we'll be together
-so grateful (yeah) so faithful (uhh)
-every gram in the hand's more paper (c'mon)
-i'll cut it, you sniff it
-or smoke it, terrific
-movie stars, models and, blondes and, cocaine (yeah)
-new york, l.a. is, all the same (c'mon, c'mon)
-the angels look the other way
-cause they can understand my pain (pain)
-i see 'em watchin
-naw i ain't stoppin
-yeah, c'mon, business
-you niggaz got a problem, yeah
-a big motherfuckin problem
-at a minimum
-i'ma have a nigga put speedknots all over your motherfuckin head
-ya dig? oh shit
-cocaine
+(dp1
+Vcolumbian
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVspeedknots
+p5
+I1
+sVpaper
+p6
+I1
+sVgrateful
+p7
+I1
+sVtouch
+p8
+I1
+sVyes
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I4
+sVcut
+p12
+I1
+sVpolice
+p13
+I1
+sVla
+p14
+I1
+sVlets
+p15
+I2
+sVrich
+p16
+I1
+sVbout
+p17
+I1
+sVnaw
+p18
+I1
+sVget
+p19
+I2
+sVya
+p20
+I1
+sVbig
+p21
+I1
+sVuhh
+p22
+I2
+sVevery
+p23
+I3
+sVknow
+p24
+I2
+sVhands
+p25
+I1
+sVlook
+p26
+I2
+sVlike
+p27
+I1
+sVpimp
+p28
+I1
+sVdig
+p29
+I1
+sV50
+p30
+I1
+sVstuff
+p31
+I1
+sVgram
+p32
+I1
+sVchick
+p33
+I1
+sVmean
+p34
+I1
+sVem
+p35
+I3
+sVright
+p36
+I3
+sVyeah
+p37
+I7
+sVsex
+p38
+I1
+sVgo
+p39
+I1
+sVsee
+p40
+I3
+sVniggaz
+p41
+I1
+sVpain
+p42
+I2
+sVstoppin
+p43
+I3
+sVsaid
+p44
+I1
+sVmovie
+p45
+I1
+sVwoo
+p46
+I1
+sVit
+p47
+I2
+sVgot
+p48
+I4
+sVcause
+p49
+I1
+sVpublic
+p50
+I1
+sVwatchin
+p51
+I5
+sVblondes
+p52
+I1
+sVshut
+p53
+I1
+sVbusiness
+p54
+I2
+sVstep
+p55
+I2
+sVlet
+p56
+I1
+sVyork
+p57
+I1
+sVima
+p58
+I1
+sVput
+p59
+I1
+sVmuhfuckin
+p60
+I1
+sVsniff
+p61
+I1
+sVanything
+p62
+I1
+sVoh
+p63
+I2
+sVmotherfuckin
+p64
+I2
+sVill
+p65
+I2
+sVrobin
+p66
+I1
+sVsmoke
+p67
+I1
+sVthink
+p68
+I1
+sVthats
+p69
+I1
+sVlove
+p70
+I1
+sVfeel
+p71
+I2
+sVone
+p72
+I2
+sVnigga
+p73
+I2
+sVbitch
+p74
+I2
+sVcocaine
+p75
+I8
+sVmarket
+p76
+I1
+sVlittle
+p77
+I2
+sVthere
+p78
+I1
+sVcent
+p79
+I1
+sVvirgin
+p80
+I1
+sVcall
+p81
+I1
+sVhustlin
+p82
+I1
+sVangels
+p83
+I1
+sVhead
+p84
+I1
+sVrelations
+p85
+I1
+sVstars
+p86
+I1
+sVooh
+p87
+I1
+sVlocations
+p88
+I1
+sVunderstand
+p89
+I1
+sVtalks
+p90
+I1
+sVline
+p91
+I1
+sVahead
+p92
+I1
+sVinside
+p93
+I1
+sVus
+p94
+I1
+sVminimum
+p95
+I1
+sVcan
+p96
+I1
+sVproblem
+p97
+I2
+sVcould
+p98
+I1
+sVthicke
+p99
+I1
+sVcmon
+p100
+I5
+sVpusher
+p101
+I1
+sVperuvian
+p102
+I1
+sVmind
+p103
+I1
+sVfuck
+p104
+I2
+sVraw
+p105
+I1
+sVcant
+p106
+I2
+sVway
+p107
+I1
+sVim
+p108
+I3
+sVwant
+p109
+I1
+sVgirl
+p110
+I1
+sVshit
+p111
+I2
+sVfunny
+p112
+I1
+sVfaithful
+p113
+I1
+sVlil
+p114
+I1
+sVmake
+p115
+I3
+sVterrific
+p116
+I1
+sVtake
+p117
+I1
+sVpure
+p118
+I1
+sVnew
+p119
+I1
+sVroll
+p120
+I1
+sVeverybodys
+p121
+I1
+sVcolumbia
+p122
+I1
+sVmodels
+p123
+I1
+sVprice
+p124
+I1
+sVspot
+p125
+I1
+sVmouth
+p126
+I1
+sVman
+p127
+I1
+sVe
+I2
+sVwell
+p128
+I2
+sVtogether
+p129
+I1
+sVface
+p130
+I1
+sVwithout
+p131
+I1
+sVtalk
+p132
+I2
+s.

@@ -1,78 +1,662 @@
-"last of a dying breed (move the crowd)" lyrics
-ludacris lyrics
-"last of a dying breed (move the crowd)"
-(feat. lil wayne)
-luda!..
-i done killed so many niggas in the booth,
-i sell rappers on e-bay,
-soldiers couldn't cause more disaster on d-day,
-haters better cover up their jon like freeway
-cause every hit record's been instant like replays,
-hold the line i got yo momma on 3-way,
-tell her luda's got more records than a dj,
-tell her she should blow me like candles on yo b-day,
-cause i signed more lines than she's passed on the freeway,
-mo' checks than you ever could imagine,
-mo' wood up in ma wippin',
-than a forest full of cabins,
-and yes i stay high on that purple like aladdin,
-them women say i talk more game than jon madden,
-how'd it happen how'd they let me in the booth,
-how they let these rappers lie,
-how dare i tell the truth!
-i'm the truth, and these other boys phoney,
-it's a movie so act like you know me...
-i'm a lyricist till the death,
-so i got what you need,
-ludacris, i'm the last of a dying breed,
-and we almost extinct,
-so i'm saying it loud,
-say it with me: 'mc means move the crowd'
-say it with me: 'mc means move the crowd'
-say it with me: 'mc means move the crowd'
-i got it baby!
-and i`m a mc,
-i move the ground like moses,
-like the red sea,
-i wear red like roses,
-go against me and you be dead like roses,
-spittin` at yo head for the bread like toasts,
-never had a holdster,
-i keep it on my lap,
-and hip-hop ain't dead it just had a heart attack,
-but you see i keep it pumping,
-yeah i got that hard back,
-so just call me little carter,
-or little cardiac,
-precious like an artifact,
-valuable like a quarterback,
-hannibal like they call me jack,
-fall back like a starter hat,
-now how did he thought a that,
-i mean now did he think a that
-i mean now did i think a that
-now like a rental bring-it-back,
-i mean now did i think of that,
-i surprise myself sometime,
-some one could throw me a suprise party for every rhyme,
-everytime i do it,
-i do it dirty like swine,
-for the dirty and fine,
-hip hop i'm alive!
-ow, they say o'reilly don't like him, nope
-oprah won't invite him, nope
-the president denounced him no one will announce him, no!
-controversial lyrics like i'm cryin' for help
-i'm very talented, but i should be ashamed of myself
-but this is my art, art, this is my music
-i'm speakin' from the heart, hit record and i'll lose it!
-bite my tongue for no one, i'll put you on blast
-so all the news channels, y'all could kiss my ass!
-and if i dish it i could take it, fix it if you break it
-could hit rock bottom and i'm still gon' make it, why?
-cause i'm a born hustler, natural survivor
-seed of a gangsta, i put that on my father
-youtube or google me, turn it up and play it
-cause many people think it, i just had the balls to say it, what?
-and risk losin' everything, i stand for the weak
-plus i live for my freedom of speech, cause
+(dp1
+Vsaying
+p2
+I1
+sVcabins
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I3
+sVludacris
+p6
+I2
+sVmove
+p7
+I6
+sVvaluable
+p8
+I1
+sVdday
+p9
+I1
+sVgo
+p10
+I1
+sVsoldiers
+p11
+I1
+sVyes
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVhustler
+p15
+I1
+sVground
+p16
+I1
+sVblow
+p17
+I1
+sVhaters
+p18
+I1
+sVroses
+p19
+I2
+sVfix
+p20
+I1
+sVfather
+p21
+I1
+sVbetter
+p22
+I1
+sVwayne
+p23
+I1
+sVborn
+p24
+I1
+sVannounce
+p25
+I1
+sVmoses
+p26
+I1
+sVhat
+p27
+I1
+sVtake
+p28
+I1
+sVhip
+p29
+I1
+sVhit
+p30
+I3
+sVrisk
+p31
+I1
+sVyo
+p32
+I3
+sVmeans
+p33
+I3
+sVrock
+p34
+I1
+sVrhyme
+p35
+I1
+sVbreak
+p36
+I1
+sVrecords
+p37
+I2
+sVgame
+p38
+I1
+sVevery
+p39
+I2
+sVknow
+p40
+I1
+sVkiss
+p41
+I1
+sVfall
+p42
+I1
+sVcryin
+p43
+I1
+sVblast
+p44
+I1
+sVrental
+p45
+I1
+sVkilled
+p46
+I1
+sVdare
+p47
+I1
+sVbread
+p48
+I1
+sVwont
+p49
+I1
+sVdenounced
+p50
+I1
+sVlike
+p51
+I18
+sVholdster
+p52
+I1
+sVcause
+p53
+I6
+sVeverytime
+p54
+I1
+sVsuprise
+p55
+I1
+sVtruth
+p56
+I2
+sVlose
+p57
+I1
+sVlosin
+p58
+I1
+sVyall
+p59
+I1
+sVmean
+p60
+I3
+sVphoney
+p61
+I1
+sVart
+p62
+I2
+sVdisaster
+p63
+I1
+sVcrowd
+p64
+I5
+sVpeople
+p65
+I1
+sVreplays
+p66
+I1
+sVyeah
+p67
+I1
+sVdead
+p68
+I2
+sVdish
+p69
+I1
+sVsee
+p70
+I1
+sVbooth
+p71
+I2
+sVsea
+p72
+I1
+sVhappen
+p73
+I1
+sVextinct
+p74
+I1
+sVwhat
+p75
+I1
+sVgon
+p76
+I1
+sVoprah
+p77
+I1
+sVpurple
+p78
+I1
+sVmovie
+p79
+I1
+sVeverything
+p80
+I1
+sVnope
+p81
+I2
+sVgot
+p82
+I5
+sVever
+p83
+I1
+sVchecks
+p84
+I1
+sVred
+p85
+I2
+sVass
+p86
+I1
+sVaint
+p87
+I1
+sVfull
+p88
+I1
+sVnever
+p89
+I1
+sVweak
+p90
+I1
+sVpumping
+p91
+I1
+sVdeath
+p92
+I1
+sVlet
+p93
+I2
+sVwear
+p94
+I1
+sVimagine
+p95
+I1
+sVput
+p96
+I2
+sVnews
+p97
+I1
+sVprecious
+p98
+I1
+sVspeakin
+p99
+I1
+sVthrow
+p100
+I1
+sVjon
+p101
+I2
+sVinstant
+p102
+I1
+sVtalented
+p103
+I1
+sVsurvivor
+p104
+I1
+sVmany
+p105
+I2
+sVcould
+p106
+I5
+sVkeep
+p107
+I2
+sVturn
+p108
+I1
+sVplus
+p109
+I1
+sVswine
+p110
+I1
+sVact
+p111
+I1
+sVow
+p112
+I1
+sVtongue
+p113
+I1
+sVhannibal
+p114
+I1
+sV3way
+p115
+I1
+sVthink
+p116
+I4
+sVlive
+p117
+I1
+sVdont
+p118
+I1
+sVlyricist
+p119
+I1
+sVoreilly
+p120
+I1
+sVone
+p121
+I3
+sVchannels
+p122
+I1
+sVmomma
+p123
+I1
+sVgoogle
+p124
+I1
+sVdone
+p125
+I1
+sVthought
+p126
+I1
+sVcouldnt
+p127
+I1
+sVcarter
+p128
+I1
+sVlittle
+p129
+I2
+sVbite
+p130
+I1
+sVbreed
+p131
+I3
+sVmadden
+p132
+I1
+sVattack
+p133
+I1
+sVwood
+p134
+I1
+sVcall
+p135
+I2
+sVpassed
+p136
+I1
+sVmusic
+p137
+I1
+sVtell
+p138
+I3
+sVrecord
+p139
+I1
+sVhead
+p140
+I1
+sVhard
+p141
+I1
+sVinvite
+p142
+I1
+sVthat
+p143
+I4
+sVartifact
+p144
+I1
+sVback
+p145
+I2
+sVboys
+p146
+I1
+sValive
+p147
+I1
+sVashamed
+p148
+I1
+sVbaby
+p149
+I1
+sVlast
+p150
+I3
+sVline
+p151
+I1
+sVhold
+p152
+I1
+sVgangsta
+p153
+I1
+sVstarter
+p154
+I1
+sVwomen
+p155
+I1
+sVme
+p156
+I1
+sVmyself
+p157
+I1
+sVballs
+p158
+I1
+sVma
+p159
+I1
+sVmc
+p160
+I4
+sVniggas
+p161
+I1
+sVmo
+p162
+I2
+sVyoutube
+p163
+I1
+sVsigned
+p164
+I1
+sVebay
+p165
+I1
+sVbringitback
+p166
+I1
+sVseed
+p167
+I1
+sVdirty
+p168
+I2
+sVfreedom
+p169
+I1
+sVill
+p170
+I2
+sVshes
+p171
+I1
+sVluda
+p172
+I1
+sVheart
+p173
+I2
+sValmost
+p174
+I1
+sVcover
+p175
+I1
+sVit
+p176
+I4
+sVwippin
+p177
+I1
+sVhigh
+p178
+I1
+sVsay
+p179
+I6
+sVsometime
+p180
+I1
+sVim
+p181
+I11
+sVneed
+p182
+I1
+sVdj
+p183
+I1
+sVcontroversial
+p184
+I1
+sVsell
+p185
+I1
+sVlie
+p186
+I1
+sVloud
+p187
+I1
+sValaddin
+p188
+I1
+sVno
+p189
+I1
+sVlil
+p190
+I1
+sVmake
+p191
+I1
+sVtill
+p192
+I1
+sVspeech
+p193
+I1
+sVforest
+p194
+I1
+sVhop
+p195
+I1
+sVparty
+p196
+I1
+sVquarterback
+p197
+I1
+sVstand
+p198
+I1
+sVplay
+p199
+I1
+sVbday
+p200
+I1
+sVsurprise
+p201
+I1
+sVrappers
+p202
+I2
+sVstay
+p203
+I1
+sVhiphop
+p204
+I1
+sVcardiac
+p205
+I1
+sVpresident
+p206
+I1
+sVtoasts
+p207
+I1
+sVlap
+p208
+I1
+sVwhy
+p209
+I1
+sVnatural
+p210
+I1
+sVdying
+p211
+I3
+sVcandles
+p212
+I1
+sVbottom
+p213
+I1
+sVlines
+p214
+I1
+sVfine
+p215
+I1
+sVfreeway
+p216
+I2
+sVhowd
+p217
+I2
+sVspittin
+p218
+I1
+sVludas
+p219
+I1
+sVtalk
+p220
+I1
+sVjack
+p221
+I1
+s.

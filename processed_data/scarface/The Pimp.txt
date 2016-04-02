@@ -1,57 +1,437 @@
-"the pimp" lyrics
-scarface lyrics
-"the pimp"
-i like pussy, pussy's got me crazy
-well-shaped, light skinned, clean lady
-slapped me on the rump, ?oh my brother?
-and dived straight for the covers
-one leg down one leg up
-that's the way i like to fuck
-i can fill in guts
-and i'm done once i bust me a nut
-you can even suck it baby
-dick suck just drive me crazy
-aw yeah, suck it fast
-now let your tongue slide across my ass
-lick the cum from my dick
-yeah, that's it.
-now turn over on your stomach
-open up, and let me run it
-in that ass, bitch
-this is what i call fuckin shit
-"oh shit, brad"
-loosen up, and it won't hurt so bad
-i like to fuck till the rubber smokin
-switch up and keep on strokin
-bitches walk out the crib with a limp
-cuz i'm the motherfuckin pimp
-...
-i was kinda lonely last week
-so i called up bitch bad-ass freak
-the bitch had a man and three kids
-i just wanted to fuck her that's exactly what i did
-i guess her husband aint packin
-cuz the bitch is damn sure fuckin action
-but what he don't know won't hurt him, shit
-cuz see, i don't love that bitch
-all i want to do is get a dick sucked
-and a real quick nut
-knocked on my door at ten thirty
-the first thing she said was don't hurt me
-i cracked a little smile and just laughed
-and got dead in that ass
-i had the bitch screamin bloody murder
-my next door neighbours even heard us
-but i aint give a fuck, my brother
-the bitch shouldn't've came by to let me fuck her
-pulled it out and laid it on her chest
-and put her titties to the test
-i made her hold it snug like a glove
-i had to get a little dookie love
-yeah that's right, butt-fuckin
-then a real good dick suckin
-the whole neighbourhood heard us
-but i don't like to pay for my service
-one more bitch with a limp
-cuz i'm the motherfuckin pimp
-...
+(dp1
+Vlyrics
+p2
+I2
+sVbloody
+p3
+I1
+sVaint
+p4
+I2
+sVdick
+p5
+I4
+sVcuz
+p6
+I4
+sVbust
+p7
+I1
+sVneighbours
+p8
+I1
+sVsmile
+p9
+I1
+sVcum
+p10
+I1
+sVreal
+p11
+I2
+sVpackin
+p12
+I1
+sVlonely
+p13
+I1
+sVget
+p14
+I2
+sVpussys
+p15
+I1
+sVknow
+p16
+I1
+sVwalk
+p17
+I1
+sVlady
+p18
+I1
+sVsucked
+p19
+I1
+sVwont
+p20
+I2
+sVlike
+p21
+I5
+sVpimp
+p22
+I4
+sVdid
+p23
+I1
+sVbrother
+p24
+I2
+sVglove
+p25
+I1
+sVbad
+p26
+I1
+sVsnug
+p27
+I1
+sVquick
+p28
+I1
+sVhusband
+p29
+I1
+sVright
+p30
+I1
+sVdookie
+p31
+I1
+sVten
+p32
+I1
+sVnut
+p33
+I2
+sVdived
+p34
+I1
+sVyeah
+p35
+I3
+sVdead
+p36
+I1
+sVsee
+p37
+I1
+sVsure
+p38
+I1
+sVneighbourhood
+p39
+I1
+sVeven
+p40
+I2
+sVstrokin
+p41
+I1
+sVsaid
+p42
+I1
+sVshouldntve
+p43
+I1
+sVslide
+p44
+I1
+sVslapped
+p45
+I1
+sVlaid
+p46
+I1
+sVgot
+p47
+I2
+sVacross
+p48
+I1
+sVass
+p49
+I3
+sVrun
+p50
+I1
+sVleg
+p51
+I2
+sVbitches
+p52
+I1
+sVlittle
+p53
+I2
+sVlet
+p54
+I3
+sVsmokin
+p55
+I1
+sVput
+p56
+I1
+sVwanted
+p57
+I1
+sVtitties
+p58
+I1
+sVkids
+p59
+I1
+sVlast
+p60
+I1
+sVservice
+p61
+I1
+sVthirty
+p62
+I1
+sVoh
+p63
+I2
+sVscreamin
+p64
+I1
+sVkeep
+p65
+I1
+sVturn
+p66
+I1
+sVbrad
+p67
+I1
+sVaction
+p68
+I1
+sVtongue
+p69
+I1
+sVwhole
+p70
+I1
+sVfuckin
+p71
+I2
+sVthats
+p72
+I4
+sVguts
+p73
+I1
+sVlove
+p74
+I2
+sVdont
+p75
+I4
+sVpussy
+p76
+I1
+sVlimp
+p77
+I2
+sVloosen
+p78
+I1
+sVcrib
+p79
+I1
+sVone
+p80
+I3
+sVwellshaped
+p81
+I1
+sVdone
+p82
+I1
+sVbitch
+p83
+I8
+sVopen
+p84
+I1
+sVsuck
+p85
+I3
+sVguess
+p86
+I1
+sVher
+p87
+I1
+sVthree
+p88
+I1
+sVfast
+p89
+I1
+sVnext
+p90
+I1
+sVbuttfuckin
+p91
+I1
+sVcall
+p92
+I1
+sVway
+p93
+I1
+sVrump
+p94
+I1
+sVdamn
+p95
+I1
+sVmurder
+p96
+I1
+sVstomach
+p97
+I1
+sVexactly
+p98
+I1
+sVit
+p99
+I2
+sVbaby
+p100
+I1
+sVhold
+p101
+I1
+sVme
+p102
+I1
+sVmade
+p103
+I1
+sVstraight
+p104
+I1
+sVup
+p105
+I1
+sVus
+p106
+I2
+sVsuckin
+p107
+I1
+sVknocked
+p108
+I1
+sVim
+p109
+I3
+sVcracked
+p110
+I1
+sVcalled
+p111
+I1
+sVcrazy
+p112
+I2
+sVlick
+p113
+I1
+sVfreak
+p114
+I1
+sVwant
+p115
+I1
+sVgive
+p116
+I1
+sVfuck
+p117
+I5
+sVcovers
+p118
+I1
+sVheard
+p119
+I2
+sVgood
+p120
+I1
+sVscarface
+p121
+I1
+sVaw
+p122
+I1
+sVdoor
+p123
+I2
+sVshit
+p124
+I3
+sVfill
+p125
+I1
+sVthing
+p126
+I1
+sVpay
+p127
+I1
+sVrubber
+p128
+I1
+sVtill
+p129
+I1
+sVchest
+p130
+I1
+sVmotherfuckin
+p131
+I2
+sVlaughed
+p132
+I1
+sVtest
+p133
+I1
+sVweek
+p134
+I1
+sVskinned
+p135
+I1
+sVkinda
+p136
+I1
+sVbadass
+p137
+I1
+sVhurt
+p138
+I3
+sVman
+p139
+I1
+sVlight
+p140
+I1
+sVdrive
+p141
+I1
+sVswitch
+p142
+I1
+sVclean
+p143
+I1
+sVfirst
+p144
+I1
+sVpulled
+p145
+I1
+sVcame
+p146
+I1
+s.

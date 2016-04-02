@@ -1,57 +1,491 @@
-"war with god" lyrics
-ludacris lyrics
-"war with god"
-"the time has come for bad things to end
-the time has come for life to begin
-the time has come for the war of the gods"
-it's that time
-i'ma take the subtle approach first
-cuz i'm just gettin' started
-let's go, look
-i'm the best and there's nothin' that you can do about it
-never needed a publicity stunt, let's tell the truth about it
-even in the core of the streets you can't sway the youth about it
-but keep runnin' yo mouth, and i swear i'ma knock a tooth up out it
-i never claimed to be nothin' but who the fuck i am
-never sold cocaine in my life, but i'm still the fuckin' man
-understand, nothin' you did makes you better nigga
-you claim the streets but the streets respect that cheddar nigga
-luda got twice as much, your life you can charge it to him
-i fit four of your houses inside my daughter's room
-and still have room for young karma to play
-givin' back to the children of tomorrow for good karma today
-so you can say what you wanna say and you can talk that talk
-but real niggas ain't doin' no talkin' cuz we walk that walk
-album for album you can see i got a multi-million plan
-so call yourself whatever you want except the multi-million man
-nigga!
-"lucifer, oh lucifer"
-(whatever you want except the multi-million man)
-"god of evil, you're the god of pain"
-(call yourself whatever you want except the multi-million man)
-"lucifer, oh lucifer"
-(call yourself whatever you want except the multi-million man)
-"the darkness is where you find your light'
-how many times is you gon' rap about bustin' your gun
-how many times is you gon' trap without bustin' your gun
-only shots you ever took was subliminal to the general
-disrespectin' those doin' real time with real criminals
-and i ain't never did a day in my life
-but it should be illegal to walk a day in my life, i paid the price
-and the cost to be the boss, so you could rest your mouth
-i'm universal, luda never limits hisself to the south
-i give a damn about your hootin' and hollerin', it ain't botherin' me
-i hear you talkin', but you ain't made it to three
-you know where i live but you ain't made it to me, you ain't made nigga!
-i'm havin' a house party 'kid', come get 'played' nigga
-you got played, my record label never jerked me
-so shoot me, stab me, but words will never hurt me
-i feed of ya energy, my power's with god
-so it's even better is you make ya diss record real hard
-"lucifer, oh lucifer"
-(make the record real hard)
-"god of evil, you're the god of pain"
-(make the record real hard)
-"lucifer, oh lucifer"
-(make ya diss record real hard)
-"the darkness is where you find your light"
+(dp1
+Vdiss
+p2
+I2
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVgods
+p5
+I1
+sVcheddar
+p6
+I1
+sVrest
+p7
+I1
+sVfour
+p8
+I1
+sVgo
+p9
+I1
+sVsubtle
+p10
+I1
+sVstill
+p11
+I2
+sVchildren
+p12
+I1
+sVima
+p13
+I2
+sVgivin
+p14
+I1
+sVfit
+p15
+I1
+sVyoung
+p16
+I1
+sVbetter
+p17
+I2
+sVhavin
+p18
+I1
+sVcharge
+p19
+I1
+sVsway
+p20
+I1
+sVreal
+p21
+I7
+sVshoot
+p22
+I1
+sVgood
+p23
+I1
+sVpublicity
+p24
+I1
+sVyo
+p25
+I1
+sVget
+p26
+I1
+sVya
+p27
+I3
+sVjerked
+p28
+I1
+sVmultimillion
+p29
+I5
+sVknow
+p30
+I1
+sVwords
+p31
+I1
+sVstunt
+p32
+I1
+sVwalk
+p33
+I3
+sVday
+p34
+I2
+sVlook
+p35
+I1
+sVknock
+p36
+I1
+sVever
+p37
+I1
+sVgettin
+p38
+I1
+sVgun
+p39
+I2
+sVtwice
+p40
+I1
+sVbad
+p41
+I1
+sVtrap
+p42
+I1
+sVtruth
+p43
+I1
+sVhisself
+p44
+I1
+sVnigga
+p45
+I5
+sVhouse
+p46
+I1
+sVenergy
+p47
+I1
+sVstreets
+p48
+I3
+sVbegin
+p49
+I1
+sVsee
+p50
+I1
+sVcost
+p51
+I1
+sVbest
+p52
+I1
+sVeven
+p53
+I2
+sVsouth
+p54
+I1
+sVgon
+p55
+I2
+sVdarkness
+p56
+I2
+sVgod
+p57
+I7
+sVfind
+p58
+I2
+sVlucifer
+p59
+I8
+sVgot
+p60
+I3
+sVhollerin
+p61
+I1
+sVapproach
+p62
+I1
+sVexcept
+p63
+I4
+sVcore
+p64
+I1
+sVshots
+p65
+I1
+sVsold
+p66
+I1
+sVnever
+p67
+I7
+sVboss
+p68
+I1
+sVhouses
+p69
+I1
+sVpaid
+p70
+I1
+sVcome
+p71
+I4
+sVlimits
+p72
+I1
+sVoh
+p73
+I4
+sVmany
+p74
+I2
+sVcould
+p75
+I1
+sVlabel
+p76
+I1
+sVkeep
+p77
+I1
+sVswear
+p78
+I1
+sVstab
+p79
+I1
+sVmakes
+p80
+I1
+sVfuckin
+p81
+I1
+sVfirst
+p82
+I1
+sVfeed
+p83
+I1
+sVwhatever
+p84
+I4
+sVcuz
+p85
+I2
+sVprice
+p86
+I1
+sVrespect
+p87
+I1
+sVcocaine
+p88
+I1
+sVtomorrow
+p89
+I1
+sVwan
+p90
+I1
+sVcriminals
+p91
+I1
+sVaint
+p92
+I6
+sVillegal
+p93
+I1
+sVplayed
+p94
+I2
+sVlets
+p95
+I2
+sVneeded
+p96
+I1
+sVlive
+p97
+I1
+sVmuch
+p98
+I1
+sVcall
+p99
+I3
+sVdamn
+p100
+I1
+sVkid
+p101
+I1
+sVwar
+p102
+I3
+sVtoday
+p103
+I1
+sVlife
+p104
+I5
+sVhard
+p105
+I4
+sVstarted
+p106
+I1
+sVtook
+p107
+I1
+sVback
+p108
+I1
+sVunderstand
+p109
+I1
+sVrunnin
+p110
+I1
+sVmade
+p111
+I3
+sVroom
+p112
+I2
+sVniggas
+p113
+I1
+sVinside
+p114
+I1
+sVsay
+p115
+I2
+sVtell
+p116
+I1
+sVyouth
+p117
+I1
+sVrecord
+p118
+I5
+sVthree
+p119
+I1
+sVpowers
+p120
+I1
+sVtheres
+p121
+I1
+sVluda
+p122
+I2
+sVclaim
+p123
+I1
+sVrap
+p124
+I1
+sVgive
+p125
+I1
+sVuniversal
+p126
+I1
+sVfuck
+p127
+I1
+sVgeneral
+p128
+I1
+sVcant
+p129
+I1
+sVim
+p130
+I5
+sVwant
+p131
+I4
+sVdisrespectin
+p132
+I1
+sVclaimed
+p133
+I1
+sVtimes
+p134
+I2
+sVend
+p135
+I1
+sVna
+p136
+I1
+sVmake
+p137
+I4
+sVsubliminal
+p138
+I1
+sVtake
+p139
+I1
+sVparty
+p140
+I1
+sVtalkin
+p141
+I2
+sVdaughters
+p142
+I1
+sValbum
+p143
+I2
+sVplay
+p144
+I1
+sVpain
+p145
+I2
+sVbotherin
+p146
+I1
+sVdoin
+p147
+I2
+sVtime
+p148
+I5
+sVhootin
+p149
+I1
+sVevil
+p150
+I2
+sVmouth
+p151
+I2
+sVplan
+p152
+I1
+sVhurt
+p153
+I1
+sVman
+p154
+I5
+sVlight
+p155
+I2
+sVyoure
+p156
+I2
+sVbustin
+p157
+I2
+sVnothin
+p158
+I3
+sVtooth
+p159
+I1
+sVwithout
+p160
+I1
+sVkarma
+p161
+I2
+sVthings
+p162
+I1
+sVhear
+p163
+I1
+sVtalk
+p164
+I2
+s.

@@ -1,63 +1,541 @@
-"you got what i eat" lyrics
-snoop dogg lyrics
-"you got what i eat"
-(with kate upton)
-(feat. biz markie, bow wow, larry king, kevjumba, oliver cooper)
-one, two, three and to the heat
-stop countin sheep and move your feet to the beat
-i bet you're wonderin, "who are you?"
-the baker who made new hot pockets come true
-now let me give you, an introduction
-to the master baker of this production
-yeah, you know he bakes here, you know he bakes there
-he be baking all day
-i bake err'ywhere
-wanna bake with me? then come on in
-we light up taste buds (from beginning to end)
-my buttery seasoning so hip, it drips
-tastes so good, gotta lick your lips
-smell my savory garlic, but don't disturb
-the garden where i grow, flavor-fantastic-al herbs
-(yeah, his flavor-fantastical herbs, y'know!)
-you... you got what i eeeeeaaat!
-now say you're just a baker
-but you're my hot pockets maker
-oh baby you... got what i eeeeeaaat!
-you got the hot buttery crust
-i need your hot buttery crust, ohh!!
-hold up, hold up, my friend's got a (beef) with you
-take a step back baker, the butcher's coming through
-i see you like that crust, well i like it too
-but without my premium meats, you got nothing to chew
-see i'm the master butcher and i bow down to zero
-online, they call me the 8-bit hero
-i fly cross the land so my flocks are protected
-try to come for my beef and you gonna get rejected
-cause when you step to me, you gonna get stuck
-as your head takes a buck from pepperoni nun-chucks
-(he's got premium meats, the cream of the crop)
-welcome to my b-i-double g butcher shop, ya hearrrd?
-you... you got what i eeeeeaaat!
-you make the steak and cheese
-that brings me to my knees
-oh baby you... got what i eeeeeaaat!
-the flavor is so sweet
-you know how to spice that meat
-..errraugh!
-now i know the butcher likes to take credit for the show
-but there's a reason that my bakery is rollin in the dough
-listen lil' baby, don't fall for the cuts
-(it's the buttery crust that makes you want so much)
-don't listen to him, girl - he's been baking too long
-it's my premium meats that make your lips sing a song
-(when that sauce heats up, the pepperonis do the rest)
-it's exactly why my new hot pockets are the best
-no, no, no you... both got what i eeeeeaaat!
-i love your buttery crust
-but i love that meat just as much
-oh baby you... both got what i eeeeeaaat!
-you got all my hot treats
-you both make me complete
-oh baaa-baaaaaaaayyyyeee!!!
-hello, hello, gentlemen, have you forgotten about, the cheese?
-hello! wake up! wake up!
+(dp1
+Vshop
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVflavorfantastical
+p5
+I2
+sVmove
+p6
+I1
+sVrest
+p7
+I1
+sVthrough
+p8
+I1
+sVcuts
+p9
+I1
+sVflavor
+p10
+I1
+sVmarkie
+p11
+I1
+sVfeat
+p12
+I1
+sVkate
+p13
+I1
+sVupton
+p14
+I1
+sVproduction
+p15
+I1
+sVsavory
+p16
+I1
+sVsauce
+p17
+I1
+sVta
+p18
+I1
+sVhip
+p19
+I1
+sVgood
+p20
+I1
+sVpremium
+p21
+I3
+sVgarden
+p22
+I1
+sVget
+p23
+I2
+sVbeat
+p24
+I1
+sVstop
+p25
+I1
+sVbiz
+p26
+I1
+sVknow
+p27
+I4
+sVnew
+p28
+I2
+sVday
+p29
+I1
+sVmeat
+p30
+I2
+sVdisturb
+p31
+I1
+sVbaking
+p32
+I2
+sVlike
+p33
+I2
+sVtry
+p34
+I1
+sVdough
+p35
+I1
+sVsteak
+p36
+I1
+sVlikes
+p37
+I1
+sVchew
+p38
+I1
+sVseasoning
+p39
+I1
+sVyeah
+p40
+I2
+sVcrop
+p41
+I1
+sVup
+p42
+I1
+sVlips
+p43
+I2
+sVgirl
+p44
+I1
+sVbake
+p45
+I2
+sVyknow
+p46
+I1
+sVbest
+p47
+I1
+sVknees
+p48
+I1
+sVgon
+p49
+I2
+sVcooper
+p50
+I1
+sVerrraugh
+p51
+I1
+sVwow
+p52
+I1
+sVcrust
+p53
+I5
+sVgot
+p54
+I14
+sVerrywhere
+p55
+I1
+sVcause
+p56
+I1
+sVbuds
+p57
+I1
+sVhero
+p58
+I1
+sVstep
+p59
+I2
+sVlet
+p60
+I1
+sVbidouble
+p61
+I1
+sVkevjumba
+p62
+I1
+sVbeginning
+p63
+I1
+sVbuck
+p64
+I1
+sVbeef
+p65
+I2
+sVg
+I1
+sVoh
+p66
+I4
+sVbaaabaaaaaaaayyyyeee
+p67
+I1
+sVreason
+p68
+I1
+sVbow
+p69
+I2
+sVcredit
+p70
+I1
+sVpepperoni
+p71
+I1
+sVpockets
+p72
+I3
+sVforgotten
+p73
+I1
+sVcountin
+p74
+I1
+sVmakes
+p75
+I1
+sVmaker
+p76
+I1
+sVcome
+p77
+I3
+sVcheese
+p78
+I2
+sVlove
+p79
+I2
+sVdont
+p80
+I3
+sVsweet
+p81
+I1
+sVone
+p82
+I1
+sVfeet
+p83
+I1
+sVmeats
+p84
+I3
+sVsing
+p85
+I1
+sVsheep
+p86
+I1
+sVwan
+p87
+I1
+sVoliver
+p88
+I1
+sVtakes
+p89
+I1
+sVsnoop
+p90
+I1
+sVhes
+p91
+I2
+sVintroduction
+p92
+I1
+sVdogg
+p93
+I1
+sVthere
+p94
+I1
+sVtwo
+p95
+I1
+sVlong
+p96
+I1
+sVstuck
+p97
+I1
+sVmuch
+p98
+I2
+sVmaster
+p99
+I2
+sVtoo
+p100
+I1
+sVcall
+p101
+I1
+sVhearrrd
+p102
+I1
+sVbutchers
+p103
+I1
+sVhead
+p104
+I1
+sVcomplete
+p105
+I1
+sVpepperonis
+p106
+I1
+sVbrings
+p107
+I1
+sVexactly
+p108
+I1
+sVbuttery
+p109
+I5
+sVrejected
+p110
+I1
+sVback
+p111
+I1
+sVheat
+p112
+I1
+sVlarry
+p113
+I1
+sVwake
+p114
+I2
+sVfall
+p115
+I1
+sVbaby
+p116
+I4
+sVhold
+p117
+I2
+sVtrue
+p118
+I1
+sVeat
+p119
+I2
+sVspice
+p120
+I1
+sVfly
+p121
+I1
+sVking
+p122
+I1
+sVmade
+p123
+I1
+sVsay
+p124
+I1
+sVprotected
+p125
+I1
+sVthree
+p126
+I1
+sVlisten
+p127
+I2
+sVbet
+p128
+I1
+sVtheres
+p129
+I1
+sVlick
+p130
+I1
+sVohh
+p131
+I1
+sVgive
+p132
+I1
+sVtaste
+p133
+I1
+sVdrips
+p134
+I1
+sVtastes
+p135
+I1
+sVim
+p136
+I1
+sV8bit
+p137
+I1
+sVwant
+p138
+I1
+sVin
+p139
+I1
+sVneed
+p140
+I1
+sVcream
+p141
+I1
+sVend
+p142
+I1
+sVzero
+p143
+I1
+sVlil
+p144
+I1
+sVna
+p145
+I3
+sVmake
+p146
+I3
+sVsong
+p147
+I1
+sVcross
+p148
+I1
+sVbutcher
+p149
+I3
+sVgentlemen
+p150
+I1
+sVya
+p151
+I1
+sVhot
+p152
+I6
+sVtake
+p153
+I2
+sVonline
+p154
+I1
+sVyou
+p155
+I2
+sVsmell
+p156
+I1
+sVyoure
+p157
+I3
+sVwonderin
+p158
+I1
+sVsee
+p159
+I2
+sVeeeeeaaat
+p160
+I6
+sVwelcome
+p161
+I1
+sVherbs
+p162
+I2
+sVgarlic
+p163
+I1
+sVcoming
+p164
+I1
+sVnothing
+p165
+I1
+sVfriends
+p166
+I1
+sVgrow
+p167
+I1
+sVnunchucks
+p168
+I1
+sVland
+p169
+I1
+sVtreats
+p170
+I1
+sVflocks
+p171
+I1
+sVlight
+p172
+I1
+sVbaker
+p173
+I4
+sVbakes
+p174
+I2
+sVwell
+p175
+I1
+sVrollin
+p176
+I1
+sVbakery
+p177
+I1
+sVwithout
+p178
+I1
+sVheats
+p179
+I1
+sVhello
+p180
+I3
+s.

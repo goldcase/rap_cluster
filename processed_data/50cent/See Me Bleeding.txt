@@ -1,104 +1,553 @@
-"see me bleeding" lyrics
-50 cent lyrics
-"see me bleeding"
-they wanna see me bleeding
-when the times get harder,
-i grind harder from the bottom soles of my feet
-they wanna see me bleeding
-my blood's always thicker than water
-even tho,the waters run deep
-they wanna see me bleeding
-through tha pain, i just grit my teeth
-through the flames i just take on the heat.
-through my vains runs the heart of the street
-ain't nothing change i’m a stay on my g`s
-so what they want from me? they wanna see me bleeding.
-how did i get in here, life is a livin hell.
-the walls are closing in it feels like i'm trapt in prison cell
-they pray for me to fail
-but in my face they wish me well
-but still i persevere
-deal with hand i was dealt
-they neva gave me nothing every thing i got myself
-so they cant tell me nothing still they all in my grill
-try to claim that they real
-try to tell me they love me
-but noone was ever there
-they wanna see me bleeding
-i never been scared
-there ain't nothing i fear
-look in my eyes and u can see the soul of a man
-they just don't understand
-i walk with my gun in my hand i bust up in the air
-give niggas a runnin chance
-a soldier in the trinchez a wreisel in the fire
-see i'm that young nigga og's hate to admire
-its the hate that inspires
-my love for getting rich and im'a die tryin.
-they wanna see me bleeding
-when times get harder,
-i grind harder from the bottom souls of my feet
-they wanna see me bleeding
-my blood's always thicker than water
-even tho,the waters run deep
-they wanna see me bleeding
-through tha pain, i just grit my teeth
-through the flames i just take on the heat.
-through my vains runs the heart of the street
-ain't nothing changed i’m a stay on my g`s
-so what they want from me? they wanna see me bleeding.
-man i'm ready to ride
-why they want me to die
-they wanna live my life
-i can see the hate in they eyes
-somebody tell me why
-when i look in the sky
-he don't ever look down
-i guess that he don't hear my cries
-please show me a sign
-that i got enough time
-to get outta the grind
-a gettin' in the shine
-i’m tryn to hold it down
-but i ain't worried man,what goes around comes around
-they wanna see me bleeding
-my backs against the wall
-niggaz is all talk come on talk no bite niggaz is all bark
-i'm the light in the dark
-i ignite like a spark
-the pimpin in me will never die preach what mama told ya
-go an get what u want and remember the south cause u never know where you goin if you don't know where your from
-so i lifted the trunk and chunked the deuce sideways break them boys off
-they wanna see me bleeding
-when times get harder,
-i grind harder from the bottom souls of my feet
-they wanna see me bleeding
-my blood's always thicker than water
-even tho,the waters run deep
-they wanna see me bleeding
-through tha pain, i just grit my teeth
-through the flames i just take on the heat.
-through my vains runs the heart of the street
-ain't nothing changed i’ma stay on my g`s
-so what they want from me? they wanna see me bleeding.
-nanananananaaaaaaa (yeahh)
-they wanna see me bleeding
-nanananananaaaaaaa (uh huh)
-they wanna see (come on) me bleeding
-nanananananaaaaaaaa
-everything ain't what it seems
-take a look at wat i see
-one eye on the prize the other on my enemies
-they wanna see me bleeding
-when times get harder,
-i grind harder from the bottom souls of my feet
-they wanna see me bleeding
-my blood's always thicker than water
-even tho,the waters run deep
-they wanna see me bleeding
-through tha pain, i just grit my teeth
-through the flames i just take on the heat.
-through my vains runs the heart of the street
-ain't nothing change i’m a stay on my g`s
-so what they want from me? they wanna see me bleeding.
-nanananananaaaaa, nanananananaaaaa nanananananaaaaa
+(dp1
+Vignite
+p2
+I1
+sVtrinchez
+p3
+I1
+sVgs
+p4
+I4
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVnanananananaaaaaaa
+p7
+I2
+sVsouls
+p8
+I3
+sVcries
+p9
+I1
+sVgo
+p10
+I1
+sVhell
+p11
+I1
+sVfear
+p12
+I1
+sVstill
+p13
+I2
+sVhate
+p14
+I3
+sVthicker
+p15
+I4
+sVdont
+p16
+I4
+sVaint
+p17
+I7
+sVhold
+p18
+I1
+sVpray
+p19
+I1
+sVsky
+p20
+I1
+sVyoung
+p21
+I1
+sVbust
+p22
+I1
+sVrich
+p23
+I1
+sVprison
+p24
+I1
+sVgave
+p25
+I1
+sVpersevere
+p26
+I1
+sVrunnin
+p27
+I1
+sVgrit
+p28
+I4
+sVlivin
+p29
+I1
+sVget
+p30
+I7
+sVi\u2019m
+p31
+I4
+sVdark
+p32
+I1
+sVfeels
+p33
+I1
+sVevery
+p34
+I1
+sVknow
+p35
+I2
+sVsoles
+p36
+I1
+sVprize
+p37
+I1
+sVdown
+p38
+I2
+sVruns
+p39
+I4
+sVlike
+p40
+I2
+sValways
+p41
+I4
+sVgettin
+p42
+I1
+sV50
+p43
+I1
+sVworried
+p44
+I1
+sVtry
+p45
+I2
+sVtryn
+p46
+I1
+sVdealt
+p47
+I1
+sVpreach
+p48
+I1
+sVlifted
+p49
+I1
+sVnigga
+p50
+I1
+sVdeal
+p51
+I1
+sVbleeding
+p52
+I22
+sVscared
+p53
+I1
+sVgun
+p54
+I1
+sVsee
+p55
+I26
+sVstreet
+p56
+I4
+sVneva
+p57
+I1
+sVniggaz
+p58
+I2
+sVdie
+p59
+I3
+sVfail
+p60
+I1
+sVi\u2019ma
+p61
+I1
+sVbark
+p62
+I1
+sVenemies
+p63
+I1
+sVeven
+p64
+I4
+sVsouth
+p65
+I1
+sVbottom
+p66
+I4
+sVdeuce
+p67
+I1
+sVplease
+p68
+I1
+sVcell
+p69
+I1
+sVeverything
+p70
+I1
+sVenough
+p71
+I1
+sVgoes
+p72
+I1
+sVgot
+p73
+I2
+sVever
+p74
+I2
+sVtold
+p75
+I1
+sVima
+p76
+I1
+sVrun
+p77
+I4
+sVsideways
+p78
+I1
+sVnever
+p79
+I3
+sVwater
+p80
+I4
+sVtrunk
+p81
+I1
+sVeye
+p82
+I1
+sVspark
+p83
+I1
+sVhand
+p84
+I2
+sVvains
+p85
+I4
+sVchange
+p86
+I2
+sVshine
+p87
+I1
+sVflames
+p88
+I4
+sVgetting
+p89
+I1
+sVchanged
+p90
+I2
+sVtimes
+p91
+I4
+sVthing
+p92
+I1
+sVreal
+p93
+I1
+sVinspires
+p94
+I1
+sVcomes
+p95
+I1
+sVlove
+p96
+I2
+sVbloods
+p97
+I4
+sVclaim
+p98
+I1
+sVwall
+p99
+I1
+sVseems
+p100
+I1
+sVwalk
+p101
+I1
+sVfeet
+p102
+I4
+sVwan
+p103
+I21
+sVguess
+p104
+I1
+sVfrom
+p105
+I1
+sVgoin
+p106
+I1
+sVcome
+p107
+I2
+sVbite
+p108
+I1
+sVthere
+p109
+I1
+sVcent
+p110
+I1
+sVlive
+p111
+I1
+sVmama
+p112
+I1
+sVtryin
+p113
+I1
+sVtell
+p114
+I3
+sVeyes
+p115
+I2
+sVpimpin
+p116
+I1
+sVfire
+p117
+I1
+sVhuh
+p118
+I1
+sVogs
+p119
+I1
+sVboys
+p120
+I1
+sVheat
+p121
+I4
+sVunderstand
+p122
+I1
+sVsign
+p123
+I1
+sVme
+p124
+I1
+sVgrill
+p125
+I1
+sVmyself
+p126
+I1
+sVwat
+p127
+I1
+sVlook
+p128
+I4
+sVniggas
+p129
+I1
+sVwish
+p130
+I1
+sVride
+p131
+I1
+sVharder
+p132
+I8
+sVsoul
+p133
+I1
+sVthothe
+p134
+I4
+sVair
+p135
+I1
+sVadmire
+p136
+I1
+sVuh
+p137
+I1
+sVclosing
+p138
+I1
+sVchunked
+p139
+I1
+sVheart
+p140
+I4
+sVoutta
+p141
+I1
+sVgive
+p142
+I1
+sVone
+p143
+I1
+sVlife
+p144
+I2
+sVdeep
+p145
+I4
+sVcant
+p146
+I1
+sVim
+p147
+I4
+sVmanwhat
+p148
+I1
+sVwant
+p149
+I6
+sVready
+p150
+I1
+sVsomebody
+p151
+I1
+sVface
+p152
+I1
+sVaround
+p153
+I2
+sVsoldier
+p154
+I1
+sVna
+p155
+I21
+sVbacks
+p156
+I1
+sVya
+p157
+I1
+sVtake
+p158
+I5
+sVyeahh
+p159
+I1
+sVnanananananaaaaa
+p160
+I3
+sVpain
+p161
+I4
+sVwaters
+p162
+I4
+sVtime
+p163
+I1
+sVstay
+p164
+I4
+sVchance
+p165
+I1
+sVnanananananaaaaaaaa
+p166
+I1
+sVnothing
+p167
+I7
+sVwhy
+p168
+I1
+sVman
+p169
+I2
+sVbreak
+p170
+I1
+sVtrapt
+p171
+I1
+sVcause
+p172
+I1
+sVoff
+p173
+I1
+sVremember
+p174
+I1
+sVlight
+p175
+I1
+sVnoone
+p176
+I1
+sVwell
+p177
+I1
+sVwalls
+p178
+I1
+sVgrind
+p179
+I5
+sVu
+I3
+sVtalk
+p180
+I2
+sVteeth
+p181
+I4
+sVhear
+p182
+I1
+sVwreisel
+p183
+I1
+sVtha
+p184
+I4
+s.

@@ -1,66 +1,308 @@
-"me & you (dedicated to destiny)" lyrics
-nas lyrics
-"me & you (dedicated to destiny)"
-i'd like to dedicate this one here to my star,
-to the one i cherish,
-she loves me unconditionally - no matter what,
-i love her; always be here for you baby
-yeah
-so for god, who gave me this gift, you;
-so i give you this...
-(if i had it all...)
-bap bap bap bap bap, daa dee aaa deee ahhh
-bap bap bap bap bap, daa dee aaa deee ahhh, woooahhh
-yeeaah
-just me and my little one
-just me and my little one
-woooah
-even though we don't live in the same home,
-and i may have missed yo graduation,
-and no matter how many miles i’m away from you,
-you know i love you,
-daddy on every station,
-thinkin, i’m lovin my occupation,
-i know i got you home waiting,
-des-y, i do it all for you
-bap bap bap bap bap, daa dee aaa deee ahhh, (daddy’s little girl)
-bap bap bap bap bap, daa dee aaa deee ahhh woooahhh (i would give you the world)
-little girl i give you the world
-yeeaah
-just me and my little one
-just me and my little one
-i give you the world
-woooah
-even though you’ll be grown soon,
-you gotta stand on your own two,
-please listen what daddy told you,
-i know you think that i’m old school,
-you’ll see that i was right soon,
-one day you will meet the right groom,
-and then,
-you will see your life bloom,
-and then you’ll know what’s right for you,
-bap bap bap bap bap, daa dee aaa deee ahhh, (daddy’s little girl)
-bap bap bap bap bap, daa dee aaa deee ahhh woooahhh (i would give you the world)
-little girl i give you the world
-yeeaah
-just me and my little one
-just me and my little one
-i give you the world
-woooah
-respect ya mom, no one will replace her,
-she’s the one that went thru the labour,
-but you don’t owe her no favours,
-but her respect is due,
-see daddy just wanna show you,
-all the heartache i go thru,
-for you,
-(this world of mine i give it all to you)
-bap bap bap bap bap, daa dee aaa deee ahhh, (daddy’s little girl)
-bap bap bap bap bap, daa dee aaa deee ahhh woooahhh (i would give you the world)
-little girl i give you the world
-yeeaah
-just me and my little one
-just me and my little one
-i give you the world
-woooah
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVsoon
+p5
+I2
+sVgo
+p6
+I1
+sVdaddy\u2019s
+p7
+I3
+sVoccupation
+p8
+I1
+sVnas
+p9
+I1
+sVgave
+p10
+I1
+sVthen
+p11
+I1
+sVdesy
+p12
+I1
+sVyo
+p13
+I1
+sVya
+p14
+I1
+sVlovin
+p15
+I1
+sVevery
+p16
+I1
+sVknow
+p17
+I4
+sVmom
+p18
+I1
+sVworld
+p19
+I10
+sVreplace
+p20
+I1
+sVday
+p21
+I1
+sVschool
+p22
+I1
+sVlike
+p23
+I1
+sVbap
+p24
+I40
+sValways
+p25
+I1
+sVmiles
+p26
+I1
+sVwent
+p27
+I1
+sVright
+p28
+I3
+sVold
+p29
+I1
+sVdue
+p30
+I1
+sVyeah
+p31
+I1
+sVsee
+p32
+I3
+sVhome
+p33
+I2
+sVgirl
+p34
+I6
+sVeven
+p35
+I2
+sVwhat
+p36
+I1
+sVdestiny
+p37
+I2
+sVgod
+p38
+I1
+sVaway
+p39
+I1
+sVshe\u2019s
+p40
+I1
+sVplease
+p41
+I1
+sVwaiting
+p42
+I1
+sVfavours
+p43
+I1
+sVgot
+p44
+I2
+sVtold
+p45
+I1
+sVyou\u2019ll
+p46
+I3
+sVwoooah
+p47
+I4
+sVyeeaah
+p48
+I4
+sVdaddy
+p49
+I3
+sVher
+p50
+I1
+sVmany
+p51
+I1
+sVdedicate
+p52
+I1
+sVgraduation
+p53
+I1
+sVstand
+p54
+I1
+sVcherish
+p55
+I1
+sVthink
+p56
+I1
+sVlove
+p57
+I2
+sVdont
+p58
+I1
+sVowe
+p59
+I1
+sVone
+p60
+I13
+sVrespect
+p61
+I2
+sVwan
+p62
+I1
+sVlittle
+p63
+I14
+sVwould
+p64
+I3
+sVgift
+p65
+I1
+sVlive
+p66
+I1
+sVstation
+p67
+I1
+sVdon\u2019t
+p68
+I1
+sVahhh
+p69
+I8
+sVthru
+p70
+I2
+sVlisten
+p71
+I1
+sVlife
+p72
+I1
+sVbaby
+p73
+I1
+sVaaa
+p74
+I8
+sVthis
+p75
+I1
+sVmatter
+p76
+I2
+sVwhat\u2019s
+p77
+I1
+sVloves
+p78
+I1
+sVmeet
+p79
+I1
+sVta
+p80
+I1
+sVdee
+p81
+I8
+sVdedicated
+p82
+I2
+sVgive
+p83
+I11
+sVmine
+p84
+I1
+sVdeee
+p85
+I8
+sVid
+p86
+I1
+sVdaa
+p87
+I8
+sVgrown
+p88
+I1
+sVwoooahhh
+p89
+I4
+sVna
+p90
+I1
+sVthinkin
+p91
+I1
+sVi\u2019m
+p92
+I3
+sVlabour
+p93
+I1
+sVyou
+p94
+I9
+sVheartache
+p95
+I1
+sVstar
+p96
+I1
+sVthough
+p97
+I2
+sVmay
+p98
+I1
+sVtwo
+p99
+I1
+sVbloom
+p100
+I1
+sVmissed
+p101
+I1
+sVunconditionally
+p102
+I1
+sVgroom
+p103
+I1
+s.

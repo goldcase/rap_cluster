@@ -1,59 +1,308 @@
-paranoid lyrics
-kanye west lyrics
-paranoid
-feat mr hudson
-paranoid
-dont paranoid
-dont so
-baby dont worry it
-lady dont even think it
-worry bout wrong things wrong things
-worry bout wrong things wrong things
-worry bout wrong things wrong things
-worry bout wrong things wrong things
-tell right now
-really wanna spend whole life alone
-little time might good might us good
-done good
-cause make good could make hood
-make come make go
-make high make fly
-make touch sky hey maybe so
-time
-mine checking cell phone baby no
-wanna kill vibe another night
-heres another fight oh go
-baby dont worry it
-lady well go floor
-anyway dont know like do
-theyll never know you
-anyway dont know like do
-theyll never know you
-time
-wanna complain nights alone
-youre me
-show gratitude leave attitude way back home
-yea see em look
-baby let em look give us cold looks cause look cold
-yea heard word mouth
-dont worry cant control
-talk world lost world
-till finally let thing go
-wanna check heartbreak hotel
-sorry closed
-baby dont worry it
-lady well go floor
-anyway dont know like do
-theyll never know you
-anyway dont know like do
-theyll never know you
-baby dont worry it
-lady dont even think it
-worry bout wrong things wrong thing
-worry bout wrong thing wrong thing
-worry bout wrong thing wrong thing
-worry bout wrong thing
-anyway dont know like do
-theyll never know you
-anyway dont know like do
-theyll never know you
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVyea
+p4
+I2
+sVanyway
+p5
+I6
+sVattitude
+p6
+I1
+sVkill
+p7
+I1
+sVlooks
+p8
+I1
+sVgo
+p9
+I5
+sVkanye
+p10
+I1
+sVcold
+p11
+I2
+sVfeat
+p12
+I1
+sVparanoid
+p13
+I4
+sVsky
+p14
+I1
+sVfinally
+p15
+I1
+sVbout
+p16
+I8
+sVmight
+p17
+I2
+sVdo
+p18
+I6
+sVgood
+p19
+I4
+sVchecking
+p20
+I1
+sVknow
+p21
+I12
+sVworld
+p22
+I2
+sVnow
+p23
+I1
+sVlady
+p24
+I4
+sVcomplain
+p25
+I1
+sVlike
+p26
+I6
+sVlost
+p27
+I1
+sVleave
+p28
+I1
+sVnight
+p29
+I1
+sVem
+p30
+I2
+sVright
+p31
+I1
+sVback
+p32
+I1
+sVtouch
+p33
+I1
+sVsee
+p34
+I1
+sVhome
+p35
+I1
+sVreally
+p36
+I1
+sVeven
+p37
+I2
+sVheres
+p38
+I1
+sVcell
+p39
+I1
+sVclosed
+p40
+I1
+sVcause
+p41
+I2
+sVnever
+p42
+I6
+sVlet
+p43
+I2
+sValone
+p44
+I2
+sVcome
+p45
+I1
+sVoh
+p46
+I1
+sVcould
+p47
+I1
+sVthing
+p48
+I7
+sVwhole
+p49
+I1
+sVthink
+p50
+I2
+sVdont
+p51
+I15
+sVdone
+p52
+I1
+sVanother
+p53
+I2
+sVhood
+p54
+I1
+sVgratitude
+p55
+I1
+sVwan
+p56
+I4
+sVlittle
+p57
+I1
+sVwest
+p58
+I1
+sVhudson
+p59
+I1
+sVhey
+p60
+I1
+sVfight
+p61
+I1
+sVway
+p62
+I1
+sVtell
+p63
+I1
+sVlife
+p64
+I1
+sVhotel
+p65
+I1
+sVmine
+p66
+I1
+sVphone
+p67
+I1
+sVbaby
+p68
+I6
+sVsorry
+p69
+I1
+sVme
+p70
+I1
+sVword
+p71
+I1
+sVlook
+p72
+I3
+sVheard
+p73
+I1
+sVus
+p74
+I2
+sVmr
+p75
+I1
+sVcontrol
+p76
+I1
+sVgive
+p77
+I1
+sVit
+p78
+I6
+sVhigh
+p79
+I1
+sVfly
+p80
+I1
+sVcant
+p81
+I1
+sVcheck
+p82
+I1
+sVworry
+p83
+I13
+sVnights
+p84
+I1
+sVtheyll
+p85
+I6
+sVno
+p86
+I1
+sVvibe
+p87
+I1
+sVna
+p88
+I4
+sVmake
+p89
+I7
+sVtill
+p90
+I1
+sVheartbreak
+p91
+I1
+sVyou
+p92
+I6
+sVtime
+p93
+I3
+sVwrong
+p94
+I15
+sVmouth
+p95
+I1
+sVfloor
+p96
+I2
+sVmaybe
+p97
+I1
+sVyoure
+p98
+I1
+sVwell
+p99
+I2
+sVso
+p100
+I2
+sVthings
+p101
+I9
+sVspend
+p102
+I1
+sVtalk
+p103
+I1
+s.

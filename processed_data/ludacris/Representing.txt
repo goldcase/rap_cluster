@@ -1,63 +1,491 @@
-"representing" lyrics
-ludacris lyrics
-"representing"
-(feat. kelly rowland)
-turn the lights on.
-i’ll be representing, representing
-i’ll be representing, representing
-luda!
-you represent for bad bitches all around the world
-the way you put it down in between the sheets
-is like no other girl
-you done take it a whole another level of freakiness
-when you blow my mind
-to the point where all the other women
-kinda feeling like you stole their shine
-so i better come with it, then i better come spilt it
-and i can admit that i’m feeling a little pressure
-when you’re telling me i better come get it
-but i’m the man for the job
-can’t nobody do it quite like i do
-and the same go for you
-we a match made in heaven
-i’ma stand right by you
-while you saying...
-just wanna keep all your attention baby
-(yeah, alright, alright, alright, hey)
-it turns me on to know i turn you on, yeah, ok, ok, ok
-can i grab the wheel and drive you crazy?
-(yeah, alright, alright, alright, hey)
-sit in the front row and watch me perform
-(you do that and you gonna learn today)
-i’ll be representing, representing (get on that thang  and represent)
-i’ll be representing, representing (get on that thang )
-watch how i put it down put it down
-put it down like ay,
-only know you can do it
-then i’ma hit every single one of your spots
-and really you don’t need to walk me through it
-but you can talk me through it
-what i’m asking if it’s mine
-cause imma be your motivation
-just tryna see if you can break my fucking spine
-i’m so attracted to the way you carry yourself
-and keep your composure
-you a lady in the street
-but behind closed doors you’re a fucking soldier
-a brother would never know
-that’s how you like it ha,
-but that booty pack a mean punch
-and i’ma spike it, huh
-you’re incredible, edible, unforgettable
-body is so angelical, a rebel with a cause
-speaking in hypotheticals
-could i marry you if i wanted to
-i’ll take you how you coming
-just learn to live with your flaws
-even though it’s not that many
-you give me that good and plenty
-then i walk around all day grinning
-my mind and body are gone
-that jj so sublime throw it in the air and turn to sunshine
-you make me wanna call the crib
-and say i’m never coming home, luda!
+(dp1
+Vrepresent
+p2
+I2
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVfront
+p5
+I1
+sVgo
+p6
+I1
+sVfeat
+p7
+I1
+sVrow
+p8
+I1
+sVblow
+p9
+I1
+sVattracted
+p10
+I1
+sVimma
+p11
+I1
+sVthang
+p12
+I2
+sVit\u2019s
+p13
+I2
+sVbetter
+p14
+I3
+sVto
+p15
+I1
+sVplenty
+p16
+I1
+sVmatch
+p17
+I1
+sVdo
+p18
+I1
+sVgood
+p19
+I1
+sVsaying
+p20
+I1
+sVaround
+p21
+I2
+sVget
+p22
+I3
+sVi\u2019m
+p23
+I5
+sVwatch
+p24
+I2
+sVbreak
+p25
+I1
+sVevery
+p26
+I1
+sVknow
+p27
+I3
+sVtelling
+p28
+I1
+sVworld
+p29
+I1
+sVwalk
+p30
+I2
+sVlady
+p31
+I1
+sVday
+p32
+I1
+sVheaven
+p33
+I1
+sVlike
+p34
+I5
+sVlevel
+p35
+I1
+sVspine
+p36
+I1
+sVturns
+p37
+I1
+sVmarry
+p38
+I1
+sVbrother
+p39
+I1
+sVbad
+p40
+I1
+sVgrab
+p41
+I1
+sVmean
+p42
+I1
+sVbody
+p43
+I2
+sVright
+p44
+I1
+sVbooty
+p45
+I1
+sVfucking
+p46
+I2
+sVyeah
+p47
+I3
+sVyou\u2019re
+p48
+I3
+sVsee
+p49
+I1
+sVstreet
+p50
+I1
+sVhome
+p51
+I1
+sVgirl
+p52
+I1
+sVangelical
+p53
+I1
+sVreally
+p54
+I1
+sVeven
+p55
+I1
+sVgon
+p56
+I1
+sVlights
+p57
+I1
+sVbehind
+p58
+I1
+sVasking
+p59
+I1
+sVclosed
+p60
+I1
+sVcause
+p61
+I2
+sVcan\u2019t
+p62
+I1
+sVnever
+p63
+I2
+sVattention
+p64
+I1
+sVpunch
+p65
+I1
+sVquite
+p66
+I1
+sVpressure
+p67
+I1
+sVjob
+p68
+I1
+sVrebel
+p69
+I1
+sVjj
+p70
+I1
+sVput
+p71
+I4
+sVwanted
+p72
+I1
+sVcome
+p73
+I3
+sVthrow
+p74
+I1
+sVshine
+p75
+I1
+sVon
+p76
+I1
+sVok
+p77
+I3
+sVwould
+p78
+I1
+sVmany
+p79
+I1
+sVcould
+p80
+I1
+sVkeep
+p81
+I2
+sVturn
+p82
+I3
+sVadmit
+p83
+I1
+sVstand
+p84
+I1
+sVsunshine
+p85
+I1
+sVwhole
+p86
+I1
+sVspilt
+p87
+I1
+sVsheets
+p88
+I1
+sVpoint
+p89
+I1
+sVmotivation
+p90
+I1
+sVcrib
+p91
+I1
+sVone
+p92
+I1
+sVdown
+p93
+I1
+sVdone
+p94
+I1
+sVanother
+p95
+I1
+sVcarry
+p96
+I1
+sVyourself
+p97
+I1
+sVwan
+p98
+I2
+sVlittle
+p99
+I1
+sVflaws
+p100
+I1
+sVcomposure
+p101
+I1
+sVhey
+p102
+I2
+sVspots
+p103
+I1
+sVlive
+p104
+I1
+sVcall
+p105
+I1
+sVdon\u2019t
+p106
+I1
+sVway
+p107
+I2
+sVspike
+p108
+I1
+sVtoday
+p109
+I1
+sVtryna
+p110
+I1
+sVi\u2019ll
+p111
+I5
+sVnobody
+p112
+I1
+sVhuh
+p113
+I1
+sVmine
+p114
+I1
+sVbaby
+p115
+I1
+sVha
+p116
+I1
+sVrepresenting
+p117
+I10
+sVwomen
+p118
+I1
+sVmade
+p119
+I1
+sVedible
+p120
+I1
+sVsay
+p121
+I1
+sVair
+p122
+I1
+sVgrinning
+p123
+I1
+sVspeaking
+p124
+I1
+sVlearn
+p125
+I2
+sVfeeling
+p126
+I2
+sVrowland
+p127
+I1
+sVsublime
+p128
+I1
+sVpack
+p129
+I1
+sVluda
+p130
+I2
+sVgone
+p131
+I1
+sVcrazy
+p132
+I1
+sVgive
+p133
+I1
+sVmind
+p134
+I2
+sVit
+p135
+I5
+sVneed
+p136
+I1
+sVsingle
+p137
+I1
+sVay
+p138
+I1
+sVhit
+p139
+I1
+sVstole
+p140
+I1
+sVfreakiness
+p141
+I1
+sVunforgettable
+p142
+I1
+sVsit
+p143
+I1
+sVperform
+p144
+I1
+sVna
+p145
+I3
+sVmake
+p146
+I1
+sVtake
+p147
+I2
+sVdoors
+p148
+I1
+sVyou
+p149
+I2
+sVwheel
+p150
+I1
+sVbitches
+p151
+I1
+sVi\u2019ma
+p152
+I3
+sVthat\u2019s
+p153
+I1
+sVthough
+p154
+I1
+sVsoldier
+p155
+I1
+sVkelly
+p156
+I1
+sVkinda
+p157
+I1
+sVcoming
+p158
+I2
+sVman
+p159
+I1
+sVhypotheticals
+p160
+I1
+sVincredible
+p161
+I1
+sVdrive
+p162
+I1
+sValright
+p163
+I6
+sVtalk
+p164
+I1
+s.

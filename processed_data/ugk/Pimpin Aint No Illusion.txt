@@ -1,122 +1,863 @@
-"pimpin' ain't no illusion" lyrics
-ugk lyrics
-"pimpin' ain't no illusion"
-(feat. kool ace, too $hort)
-(uh, uh) one time for yo' muthafuckin'...(whuut)
-back, bitch (uh)...kool ace (whuut), ugk...(huh)
-pimpin' ain't no illusion,
-and pimpin' ain't never died.
-mo' pimps was on that heroin
-and yo' pimp tripped out on that fry.
-the dikes done came through
-and straight threw off all the game;
-got all these hoes thinkin'
-they could manage they own change.
-but it ain't no illusion,
-i know...you all have witnessed
-he rollin' in my caady mo'
-wit' fly bitches,
-makin' ole deals: now, ho (huh, huh)
-ain't bob barker
-but i'm caught up in this game
-mo' like...peter parker.
-p-i-m-p, take the p's that i am.
-i want you payin' hoes in my army
-like...uh...uncle sam,
-and we gon' jam...
-i'm talkin' 'bout the world greatest show
-i know my shit is extreme
-but i'm all about them does.
-when i'm steppin' on the scene
-be there four deep...hella clan
-my reality is your favorite dream
-(stop that shit, daddy...)
-best believe kool ace gon' keep it real.
-pimp c & bun b to testify for the ear
-excuse me, y'all, but this about southern shit.
-now, tell me can you...uh...feel this, bitch?
-we givin' 'em brain contusions...
-pimp c, what's the conclusion?
-pimpin' ain't no illusion...
-pimpin' ain't dead...nigga, it just began
-(how the fuck you know sweet jones?)
-my hoes still out there sellin' ass.
-yo' bitch is out of pocket,
-'cause yo' pimpin' was scary;
-real hoes gon' front on a simp
-but she gon' do it for daddy.
-fuck niggas watch them mack and pimp on my floozie;
-but, boy, my bitches know the difference
-between real pimpin' and movies
-it's the difference between real leather
-and that shit at yo' house.
-i don't know what y'all doin' up there,
-but we really pimpin' in the south.
-every since i was 17,
-i been stackin' my green:
-went for servin' rocks to fiends,
-and rockin' club full a teens.
-went from bumpin' screw in houston,
-sippin' promythazine,
-to ridin' in a 8 600 with sheath,
-to smokin' on sticky green.
-i'm still pimp c, bitch
-i'm claimin' p.a., they hate us;
-but, me and kool ace rollin' a lexus
-sittin' on all gold daytons.
-bitch, take a look around
-those hoes steady choosin'.
-this is the conclusion: pimpin' ain't no illusion.
-bun b:
-if you got any love fo' that broad you wit'
-nigga, move her 'fore you lose her,
-'cause a beggar ain't a muthafuckin' chooser.
-third leg is a bitch abuser, infamous
-in cities where big pimpin' is my hoes clean.
-no aids, herpies, cyphillis
-come catch a wif a this...
-damn, can't you taste it?
-now yo' money's up in smoke
-like you freebased it.
-now bitch replaced it
-wit' a sexual favor
-but don't get mad at real pimpin', nigga
-check yo' behavior...and savor
-the aroma from promona to tacoma;
-got my pimpin' diploma for bein' a cadillac chromer.
-fuck a sonoma...
-i'm on a mission for benzes
-knowin' 'xactly where my ends is, ballin' relentless.
-and then my friends is
-slappin' niggas with glass chins
-it's funny...sendin' tricks home
-broke and defenseless; and, ever since this
-boy been pimpin' the pen,
-i promise never to ever leave home
-without my pimpin' again...that's why...
-you know, i got to tell you players what i'm talkin' about:
-my bitch got bold opened a bank account.
-when i found the bitch checkbook,
-i didn't get mad
-'cause there was no doubt that i be gettin' the cash.
-i broke it down to her,
-she gave me the dough;
-do you remember what you was
-before i made you a ho?
-you was a broke bitch,
-you couldn't even smoke shit,
-couldn't stay fo-cused,
-and, don't forget it, bitch...
-yo' whole life changed the day you met me.
-now you think you need a bank account,
-baby, i can't see
-you managin' this money...it's too much.
-all you do is look good...
-and then you fuck.
-git my money, git yo' money
-it's all the same.
-the shit ain't even funny when you talk about this game.
-they call me too $hort, baby
-i'm still in it.
-ain't no camouflage, nuttin' but this real pimpin'...beeyatch.
-...pimpin' ain't no illusion
+(dp1
+Vugk
+p2
+I1
+sVhouston
+p3
+I1
+sVparker
+p4
+I1
+sVforget
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I1
+sVmoney
+p8
+I2
+sVmove
+p9
+I1
+sVmission
+p10
+I1
+sVaroma
+p11
+I1
+sVmuthafuckinwhuut
+p12
+I1
+sVbrain
+p13
+I1
+sVsimp
+p14
+I1
+sVthrough
+p15
+I1
+sVsame
+p16
+I1
+sVlove
+p17
+I1
+sVlexus
+p18
+I1
+sVstill
+p19
+I3
+sVfeat
+p20
+I1
+sVleg
+p21
+I1
+sVaint
+p22
+I13
+sVear
+p23
+I1
+sVgivin
+p24
+I1
+sVrelentless
+p25
+I1
+sVjam
+p26
+I1
+sVbank
+p27
+I2
+sVsweet
+p28
+I1
+sV8
+I1
+sVbout
+p29
+I1
+sVgave
+p30
+I1
+sVreal
+p31
+I6
+sVme
+p32
+I1
+sVservin
+p33
+I1
+sVaround
+p34
+I1
+sVyo
+p35
+I9
+sVdeadnigga
+p36
+I1
+sVmuthafuckin
+p37
+I1
+sVbig
+p38
+I1
+sVbein
+p39
+I1
+sVyouuhfeel
+p40
+I1
+sVstop
+p41
+I1
+sVscene
+p42
+I1
+sVpocket
+p43
+I1
+sVcaady
+p44
+I1
+sVgame
+p45
+I3
+sVfiends
+p46
+I1
+sVevery
+p47
+I1
+sVknow
+p48
+I5
+sVpromise
+p49
+I1
+sVfront
+p50
+I1
+sVworld
+p51
+I1
+sVdifference
+p52
+I2
+sVdefenseless
+p53
+I1
+sVday
+p54
+I1
+sVis
+p55
+I1
+sVherpies
+p56
+I1
+sVclan
+p57
+I1
+sVfour
+p58
+I1
+sVlike
+p59
+I1
+sVpimp
+p60
+I6
+sVmade
+p61
+I1
+sVleather
+p62
+I1
+sVever
+p63
+I2
+sVfloozie
+p64
+I1
+sVbenzes
+p65
+I1
+sVtalkin
+p66
+I2
+sVdeals
+p67
+I1
+sVlose
+p68
+I1
+sVchoosin
+p69
+I1
+sVwent
+p70
+I2
+sVstay
+p71
+I1
+sVstraight
+p72
+I1
+sVyall
+p73
+I2
+sVem
+p74
+I1
+sVnigga
+p75
+I2
+sVnuttin
+p76
+I1
+sVole
+p77
+I1
+sVclaimin
+p78
+I1
+sVhouse
+p79
+I1
+sVback
+p80
+I1
+sVcash
+p81
+I1
+sVsee
+p82
+I1
+sVsteppin
+p83
+I1
+sVhort
+p84
+I2
+sVhoes
+p85
+I6
+sVaids
+p86
+I1
+sVrocks
+p87
+I1
+sVsexual
+p88
+I1
+sVbest
+p89
+I1
+sVtripped
+p90
+I1
+sVeven
+p91
+I2
+sVknowyou
+p92
+I1
+sVgon
+p93
+I4
+sVopened
+p94
+I1
+sVwitnessed
+p95
+I1
+sVhate
+p96
+I1
+sVsince
+p97
+I2
+sVtestify
+p98
+I1
+sVfavor
+p99
+I1
+sVpen
+p100
+I1
+sVdoes
+p101
+I1
+sVlikepeter
+p102
+I1
+sVcadillac
+p103
+I1
+sVgot
+p104
+I5
+sVteens
+p105
+I1
+sVcause
+p106
+I3
+sVass
+p107
+I1
+sVends
+p108
+I1
+sVfull
+p109
+I1
+sVbold
+p110
+I1
+sVchins
+p111
+I1
+sVkool
+p112
+I3
+sVmanagin
+p113
+I1
+sVdoubt
+p114
+I1
+sVnever
+p115
+I2
+sVridin
+p116
+I1
+sVmet
+p117
+I1
+sVheroin
+p118
+I1
+sVpromythazine
+p119
+I1
+sVsmokin
+p120
+I1
+sVfound
+p121
+I1
+sVcities
+p122
+I1
+sVcome
+p123
+I1
+sVchange
+p124
+I1
+sVextreme
+p125
+I1
+sVscary
+p126
+I1
+sVc
+I3
+sVace
+p127
+I4
+sVcould
+p128
+I1
+sVchanged
+p129
+I1
+sVfavorite
+p130
+I1
+sVdough
+p131
+I1
+sVkeep
+p132
+I1
+sVcamouflage
+p133
+I1
+sVplayers
+p134
+I1
+sVmoneyits
+p135
+I1
+sVsmoke
+p136
+I2
+sVfocused
+p137
+I1
+sVbob
+p138
+I1
+sVwhole
+p139
+I1
+sVpromona
+p140
+I1
+sVsouth
+p141
+I1
+sVwif
+p142
+I1
+sVwhats
+p143
+I1
+sVdont
+p144
+I3
+sVbarker
+p145
+I1
+sVuhkool
+p146
+I1
+sVmanage
+p147
+I1
+sVmakin
+p148
+I1
+sVone
+p149
+I1
+sVwit
+p150
+I3
+sVdone
+p151
+I1
+sVbitch
+p152
+I11
+sVcouldnt
+p153
+I2
+sVballin
+p154
+I1
+sVbaby
+p155
+I2
+sVps
+p156
+I1
+sVgit
+p157
+I2
+sVmuch
+p158
+I1
+sVbeggar
+p159
+I1
+sVher
+p160
+I2
+sVarmy
+p161
+I1
+sVfriends
+p162
+I1
+sVcaught
+p163
+I1
+sVthere
+p164
+I1
+sVchooser
+p165
+I1
+sVpa
+p166
+I1
+sVdamn
+p167
+I1
+sVinfamous
+p168
+I1
+sVcheckbook
+p169
+I1
+sVwhuut
+p170
+I1
+sVcall
+p171
+I1
+sVfry
+p172
+I1
+sVcontusions
+p173
+I1
+sVwas
+p174
+I1
+sVdeephella
+p175
+I1
+sVthrew
+p176
+I1
+sVpimpinbeeyatch
+p177
+I1
+sVlife
+p178
+I1
+sVsonoma
+p179
+I1
+sVpimpin
+p180
+I16
+sVboy
+p181
+I2
+sVclub
+p182
+I1
+sVbitches
+p183
+I2
+sVhuh
+p184
+I2
+sVabout
+p185
+I1
+sVfore
+p186
+I1
+sVit
+p187
+I4
+sVexcuse
+p188
+I1
+sVgettin
+p189
+I1
+sVbun
+p190
+I2
+sVho
+p191
+I2
+sVbroke
+p192
+I3
+sVcatch
+p193
+I1
+sVgold
+p194
+I1
+sVbelieve
+p195
+I1
+sVfly
+p196
+I1
+sVaccount
+p197
+I2
+sVb
+I2
+sVlook
+p198
+I2
+sV17
+p199
+I1
+sVniggas
+p200
+I2
+sVthis
+p201
+I2
+sVleave
+p202
+I1
+sVmo
+p203
+I3
+sVdikes
+p204
+I1
+sVpayin
+p205
+I1
+sVtell
+p206
+I2
+sVmovies
+p207
+I1
+sVreplaced
+p208
+I1
+sVuh
+p209
+I2
+sVabuser
+p210
+I1
+sVcyphillis
+p211
+I1
+sVdaddy
+p212
+I2
+sVdidnt
+p213
+I1
+sVbroad
+p214
+I1
+sVchromer
+p215
+I1
+sV600
+p216
+I1
+sVsam
+p217
+I1
+sVtaste
+p218
+I1
+sVugkhuh
+p219
+I1
+sVstackin
+p220
+I1
+sVxactly
+p221
+I1
+sVam
+p222
+I1
+sVfuck
+p223
+I4
+sVglass
+p224
+I1
+sVsticky
+p225
+I1
+sVcant
+p226
+I2
+sVgood
+p227
+I1
+sVim
+p228
+I9
+sVwant
+p229
+I1
+sVhome
+p230
+I2
+sVneed
+p231
+I1
+sVsheath
+p232
+I1
+sVtacoma
+p233
+I1
+sVagainthats
+p234
+I1
+sVcheck
+p235
+I1
+sVshit
+p236
+I6
+sVscrew
+p237
+I1
+sVsippin
+p238
+I1
+sVrockin
+p239
+I1
+sVus
+p240
+I1
+sVsellin
+p241
+I1
+sVsavor
+p242
+I1
+sVthinkin
+p243
+I1
+sVget
+p244
+I2
+sVfreebased
+p245
+I1
+sVreality
+p246
+I1
+sVtake
+p247
+I2
+sVreally
+p248
+I1
+sVlikeuhuncle
+p249
+I1
+sVillusion
+p250
+I7
+sVconclusion
+p251
+I2
+sVslappin
+p252
+I1
+sVsittin
+p253
+I1
+sVfunnysendin
+p254
+I1
+sVfunny
+p255
+I1
+sVwatch
+p256
+I1
+sVdoin
+p257
+I1
+sVdaytons
+p258
+I1
+sVsouthern
+p259
+I1
+sVdiploma
+p260
+I1
+sVbumpin
+p261
+I1
+sVpimps
+p262
+I1
+sVbehaviorand
+p263
+I1
+sVmad
+p264
+I2
+sVmack
+p265
+I1
+sVwhy
+p266
+I1
+sVdied
+p267
+I1
+sVfo
+p268
+I1
+sVjones
+p269
+I1
+sVremember
+p270
+I1
+sVthird
+p271
+I1
+sVmoneys
+p272
+I1
+sVtricks
+p273
+I1
+sVsteady
+p274
+I1
+sVrollin
+p275
+I2
+sVthink
+p276
+I1
+sVknowin
+p277
+I1
+sVwithout
+p278
+I1
+sVgreen
+p279
+I2
+sVgreatest
+p280
+I1
+sVclean
+p281
+I1
+sVtime
+p282
+I1
+sVtalk
+p283
+I1
+sVdream
+p284
+I1
+sVbegan
+p285
+I1
+sVcame
+p286
+I1
+s.

@@ -1,88 +1,762 @@
-"from long beach 2 brick city" lyrics
-snoop dogg lyrics
-"from long beach 2 brick city"
-(feat. nate dogg, redman)
-get on up to get down
-and really go to town
-and don't stop till you get enough
-i wanna rock with you
-shake your stuff
-yo yo, doctor
-everybody hit the floor
-wild out till the security hit the door
-i'm dirty
-gorilla paws, bang sugar walls
-hoes wanna pop e, hang with a dogg
-i told my man snoop
-she salmonilla
-got a ho with no dough with condoms with her
-i'm a ride to the death of def squad on my chest
-look at it crook at it
-rob you and jet
-surprise you and flex
-funk in the cadillac truck with a chicken, bobbing her neck
-you done woke up and ain't trying to sleep
-you done called up hugh heffer to find the freaks
-i'mma stay on the street
-i'mma stay saying 'fuck you' behind police
-my mamma ain't raise no fool, she love me
-that's why she hide my tool inside her room
-i'm a jump, bump, throw that ass
-rough sex, i gotta fuck with shoulder pads
-i'm like baby powder, ain't nann 'nother
-ain't nann ho getting redman butter
-and my man gutter, dj murder inc.
-ja know them hoes yo we can't love 'em
-underground the heat yeah i stay buzzing
-mixtapes i'm on the street they stay dubbing
-brick city riding,then 'bout it 'bout it
-shoot up you town then we bin ladin hidin'
-meth, show'em where the luger kept
-open your safe, show me where the food and vest
-i hope when dre hear this, he give a beat for ten more
-cause i stay on the corner like squegeemen
-yo nate dogg, what's happening y'all
-long beach, brick city
-scream at your frog
-everybody shaking
-all these hoes around me
-she was lost in the land of love
-glad that nate dogg found me
-girl you got a phatty
-new york back to cali
-you know who got the bomb weed
-long beach to brick city
-i know just want you want, i got just want you need
-turn that shit around, and back it up on me
-since i was the first, i guess i'll be the last to leave
-d-o-double-g, will you keep it gangsta please
-i gots to do it
-yes yes loc', we keep the best smoke
-me and my nigga, my nerve, my kinfolk
-i kick a bitch in the ass and then smoke
-i'm a motherfucking fool in the pool doing the breaststroke
-you want a problem, then lets go
-cause if not i came to disco
-and freak this ho from acopoqo
-and flip her inside out, now i'm bout to ride
-let's go we hit the hood slow
-post up, set up shop and press four
-who got the best flow, who got the most dough
-who got the best hoes, nigga you know
-shit its been ten years since i hit some cess smoke
-but i still rock a mean coat on the west coast
-in the summertime
-and i crumble mine down to the dandelion
-nigga watch how i handle mine
-spiritual, hear we go, hear this
-snoop d-o-double-g, man i'm so fearless
-square biz, you know what time it is
-i'm cool on these niggas but i'm hard on a bitch
-now check dis, fact is
-put your back out, now back in
-go head wiggle it round you feeling me now
-girlfriend, you killing them now
-the way you shake your booty
-it makes me want your booty
-the way you shake your booty
-sure looks good to me
+(dp1
+Vshop
+p2
+I1
+sVsaying
+p3
+I1
+sVbomb
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVbitch
+p7
+I2
+sVrob
+p8
+I1
+sVyears
+p9
+I1
+sVfour
+p10
+I1
+sVsleep
+p11
+I1
+sVlooks
+p12
+I1
+sVshake
+p13
+I3
+sVgo
+p14
+I5
+sVcorner
+p15
+I1
+sVchicken
+p16
+I1
+sVstill
+p17
+I1
+sVfeat
+p18
+I1
+sVfind
+p19
+I1
+sVaint
+p20
+I4
+sVdeath
+p21
+I1
+sVpolice
+p22
+I1
+sVhead
+p23
+I1
+sVimma
+p24
+I2
+sVwatch
+p25
+I1
+sVhope
+p26
+I1
+sVenough
+p27
+I1
+sVsugar
+p28
+I1
+sVbeat
+p29
+I1
+sVlets
+p30
+I2
+sVglad
+p31
+I1
+sVbout
+p32
+I3
+sVcool
+p33
+I1
+sVnate
+p34
+I3
+sVta
+p35
+I1
+sVfool
+p36
+I2
+sVflex
+p37
+I1
+sVgood
+p38
+I1
+sVhit
+p39
+I4
+sVaround
+p40
+I2
+sVyo
+p41
+I4
+sVget
+p42
+I3
+sVfood
+p43
+I1
+sVsafe
+p44
+I1
+sVstop
+p45
+I1
+sVcoast
+p46
+I1
+sVme
+p47
+I4
+sVbang
+p48
+I1
+sVphatty
+p49
+I1
+sVknow
+p50
+I5
+sVsurprise
+p51
+I1
+sVpress
+p52
+I1
+sVnow
+p53
+I2
+sVnew
+p54
+I1
+sVroom
+p55
+I1
+sVshoulder
+p56
+I1
+sVlike
+p57
+I2
+sVlost
+p58
+I1
+sVdisco
+p59
+I1
+sVleave
+p60
+I1
+sVstuff
+p61
+I1
+sVrock
+p62
+I2
+sVdough
+p63
+I2
+sVsecurity
+p64
+I1
+sVshaking
+p65
+I1
+sVinside
+p66
+I2
+sVyall
+p67
+I1
+sVlast
+p68
+I1
+sVem
+p69
+I1
+sVslow
+p70
+I1
+sVspiritual
+p71
+I1
+sVnigga
+p72
+I3
+sVbooty
+p73
+I3
+sVten
+p74
+I2
+sVbump
+p75
+I1
+sVhard
+p76
+I1
+sVyeah
+p77
+I1
+sVsalmonilla
+p78
+I1
+sVsex
+p79
+I1
+sVjump
+p80
+I1
+sVcrook
+p81
+I1
+sVpads
+p82
+I1
+sVstreet
+p83
+I2
+sVpowder
+p84
+I1
+sVhoes
+p85
+I4
+sVmeth
+p86
+I1
+sVshowem
+p87
+I1
+sVrough
+p88
+I1
+sVbest
+p89
+I3
+sVreally
+p90
+I1
+sVhide
+p91
+I1
+sVredman
+p92
+I2
+sVnann
+p93
+I2
+sVmine
+p94
+I2
+sVsince
+p95
+I2
+sVplease
+p96
+I1
+sVbehind
+p97
+I1
+sVladin
+p98
+I1
+sVfreaks
+p99
+I1
+sVgot
+p100
+I8
+sVcause
+p101
+I2
+sVtold
+p102
+I1
+sVass
+p103
+I2
+sVacopoqo
+p104
+I1
+sVcity
+p105
+I5
+sVfearless
+p106
+I1
+sVkilling
+p107
+I1
+sVridingthen
+p108
+I1
+sVdubbing
+p109
+I1
+sVsquegeemen
+p110
+I1
+sVyork
+p111
+I1
+sVmixtapes
+p112
+I1
+sVput
+p113
+I1
+sVgots
+p114
+I1
+sVbuzzing
+p115
+I1
+sVweed
+p116
+I1
+sVluger
+p117
+I1
+sVthrow
+p118
+I1
+sVnother
+p119
+I1
+sVhandle
+p120
+I1
+sVcondoms
+p121
+I1
+sVsnoop
+p122
+I3
+sVgetting
+p123
+I1
+sVill
+p124
+I1
+sVkeep
+p125
+I2
+sVturn
+p126
+I1
+sVher
+p127
+I1
+sVsmoke
+p128
+I3
+sVwest
+p129
+I1
+sVmean
+p130
+I1
+sVdre
+p131
+I1
+sVthats
+p132
+I1
+sVnerve
+p133
+I1
+sVlove
+p134
+I3
+sVdont
+p135
+I1
+sVloc
+p136
+I1
+sVpop
+p137
+I1
+sVdown
+p138
+I1
+sVset
+p139
+I1
+sVdone
+p140
+I2
+sVfrog
+p141
+I1
+sVopen
+p142
+I1
+sVpost
+p143
+I1
+sVhood
+p144
+I1
+sVeverybody
+p145
+I2
+sVwan
+p146
+I2
+sVguess
+p147
+I1
+sVround
+p148
+I1
+sVraise
+p149
+I1
+sVjet
+p150
+I1
+sVfound
+p151
+I1
+sVdogg
+p152
+I5
+sVdis
+p153
+I1
+sVlong
+p154
+I4
+sVja
+p155
+I1
+sVcali
+p156
+I1
+sV2
+I2
+sVsummertime
+p157
+I1
+sVbrick
+p158
+I5
+sVkick
+p159
+I1
+sVwoke
+p160
+I1
+sVmore
+p161
+I1
+sVback
+p162
+I4
+sVyes
+p163
+I2
+sVmurder
+p164
+I1
+sVdoor
+p165
+I1
+sVway
+p166
+I2
+sVwhats
+p167
+I1
+sVbobbing
+p168
+I1
+sVtool
+p169
+I1
+sVshoot
+p170
+I1
+sVfuck
+p171
+I2
+sVheat
+p172
+I1
+sVland
+p173
+I1
+sVhear
+p174
+I3
+sVho
+p175
+I3
+sVbaby
+p176
+I1
+sVkept
+p177
+I1
+sVheffer
+p178
+I1
+sVtrying
+p179
+I1
+sVgangsta
+p180
+I1
+sVfunk
+p181
+I1
+sVhappening
+p182
+I1
+sVtown
+p183
+I2
+sVlook
+p184
+I1
+sVniggas
+p185
+I1
+sVthis
+p186
+I1
+sVride
+p187
+I2
+sVmotherfucking
+p188
+I1
+sVflip
+p189
+I1
+sVhidin
+p190
+I1
+sVdirty
+p191
+I1
+sVwild
+p192
+I1
+sVproblem
+p193
+I1
+sVfeeling
+p194
+I1
+sVcalled
+p195
+I1
+sVdef
+p196
+I1
+sVbin
+p197
+I1
+sVvest
+p198
+I1
+sVkinfolk
+p199
+I1
+sVfreak
+p200
+I1
+sVgive
+p201
+I1
+sVis
+p202
+I2
+sVit
+p203
+I3
+sVcrumble
+p204
+I1
+sVgirlfriend
+p205
+I1
+sVcant
+p206
+I1
+sVim
+p207
+I10
+sVwant
+p208
+I5
+sVin
+p209
+I1
+sVneed
+p210
+I1
+sVdj
+p211
+I1
+sVpaws
+p212
+I1
+sVgirl
+p213
+I1
+sVshit
+p214
+I2
+sVinc
+p215
+I1
+sVdoctor
+p216
+I1
+sVna
+p217
+I2
+sVdandelion
+p218
+I1
+sVhugh
+p219
+I1
+sVcheck
+p220
+I1
+sVmakes
+p221
+I1
+sVtill
+p222
+I2
+sVchest
+p223
+I1
+sVsquad
+p224
+I1
+sVsquare
+p225
+I1
+sVbreaststroke
+p226
+I1
+sVunderground
+p227
+I1
+sVmamma
+p228
+I1
+sVbeach
+p229
+I4
+sVsure
+p230
+I1
+sVcadillac
+p231
+I1
+sVdodoubleg
+p232
+I2
+sVhang
+p233
+I1
+sVstay
+p234
+I5
+sVpool
+p235
+I1
+sVman
+p236
+I3
+sVbutter
+p237
+I1
+sVgutter
+p238
+I1
+sVe
+I1
+sVneck
+p239
+I1
+sVwiggle
+p240
+I1
+sVcoat
+p241
+I1
+sVfloor
+p242
+I1
+sVflow
+p243
+I1
+sVwalls
+p244
+I1
+sVgorilla
+p245
+I1
+sVtruck
+p246
+I1
+sVfact
+p247
+I1
+sVtime
+p248
+I1
+sVcess
+p249
+I1
+sVbiz
+p250
+I1
+sVfirst
+p251
+I1
+sVscream
+p252
+I1
+sVcame
+p253
+I1
+s.

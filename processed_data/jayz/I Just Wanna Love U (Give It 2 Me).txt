@@ -1,95 +1,551 @@
-"i just wanna love u (give it 2 me)" lyrics
-jay-z lyrics
-"i just wanna love u (give it 2 me)"
-let's go
-hov!
-uh huh, hov'
-you, are, not, ready
-hov', unstoppable, dynasty, young hova
-i'm a hustler baby, i'm a hustler
-i just want you to know, wanna let you know
-it aint where i been, it aint where i been
-but where i'm bout to go, top of the world!
-now i just wanna love you, just wanna love you
-but be who i am, you know you love me
-and with all this cash, mo' money, mo' problems
-you'll forget your man
-now give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-c'mon, gimme that funk, that sweet, that nasty, that gushi stuff)
-when the remi's in the system, ain't no tellin
-will i fuck 'em will i diss 'em, that's what they be yellin
-i'm a pimp by blood, not relation
-y'all be chasin, i replace them, huh?
-drunk off crist', mami on e
-can't keep her little model hands off me
-both in the club, high, singing off key
-"and i wish i never met her at all..."
-it gets better, ordered another round
-it's, about, to go, down
-got six model chicks, six bottles of crist'
-four belvederes, got weed everywhere
-what do you say, me, you, and your chloe glasses
-go somewhere private where we can discuss fashion
-like, prada blouse, gucci bra
-filth mart jeans, take that off
-give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-c'mon, gimme that funk, that sweet, that nasty, that gushi stuff)
-i said give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-mama, gimme that funk, that sweet, that nasty, that gushi stuff)
-yeah, save the narrative, you savin it for marriage
-let's keep it real ma, you savin it for karats
-you wanna see how far i'ma go
-how, much i'ma spend but you already know
-zip, zero, stingy with dinero
-might buy you crist', but that about it
-might light your wrist, but that about it
-fuck it, i might wife you and buy you nice whips
-ma, but you really gotta ride nice dick
-know how to work your hips and your head's priceless
-profess you love the hov', and i'll never let you down
-get you bling like the neptune sound
-okay, hot hov', too hot to hold
-ladies love me long time like 2pac's soul
-only way to roll, jigga and two ladies
-i'm too cold, motorola, two way page me, c'mon
-give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-c'mon, gimme that funk, that sweet, that nasty, that gushi stuff)
-i said give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-mama, gimme that funk, that sweet, that nasty, that gushi stuff)
-i'm a hustler baby, uh, hov'
-i just want you to know, hov'
-it aint where i been
-but where i'm bout to go, hov', hov'
-now i just wanna love you, young hova
-but be who i am, know you love me
-and with all this cash, mo' money, mo' problems
-you'll forget your man
-yeah, yeah, yeah
-same song, i'm back, been around the world
-ro-mancing girls that dance with girls
-from, club cheetah, to club amnesia
-the peanuts in l.a., bubblin' in dublin
-can't deny me, why would you want to
-you need me, why don't you try me
-baby you want to, believe me, hov'!
-give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-c'mon, gimme that funk, that sweet, that nasty, that gushi stuff)
-i said give it to me
-(gimme that funk, that sweet, that nasty, that gushi stuff
-but don't bullshit me
-mama, gimme that funk, that sweet, that nasty, that gushi stuff)
-you gotta...
-give it to me
-uh, uh huh
+(dp1
+Vchicks
+p2
+I1
+sVall
+p3
+I1
+sVdiss
+p4
+I1
+sVforget
+p5
+I2
+sVlyrics
+p6
+I2
+sVdance
+p7
+I1
+sVmoney
+p8
+I2
+sVdynasty
+p9
+I1
+sVfour
+p10
+I1
+sVbling
+p11
+I1
+sVrelation
+p12
+I1
+sVgo
+p13
+I6
+sVcold
+p14
+I1
+sVhustler
+p15
+I3
+sVaint
+p16
+I4
+sVbelieve
+p17
+I1
+sVla
+p18
+I1
+sVsomewhere
+p19
+I1
+sVmuch
+p20
+I1
+sVchasin
+p21
+I1
+sVdick
+p22
+I1
+sVyoung
+p23
+I2
+sVdiscuss
+p24
+I1
+sVbetter
+p25
+I1
+sVto
+p26
+I1
+sVlets
+p27
+I2
+sVwhips
+p28
+I1
+sVpeanuts
+p29
+I1
+sVbout
+p30
+I2
+sVsave
+p31
+I1
+sVmight
+p32
+I3
+sVride
+p33
+I1
+sVta
+p34
+I2
+sVreal
+p35
+I1
+sVsound
+p36
+I1
+sVaround
+p37
+I1
+sVget
+p38
+I1
+sVfar
+p39
+I1
+sVknow
+p40
+I7
+sVhands
+p41
+I1
+sVworld
+p42
+I2
+sVnasty
+p43
+I14
+sVbullshit
+p44
+I7
+sVcrist
+p45
+I3
+sVmotorola
+p46
+I1
+sVlike
+p47
+I3
+sVpimp
+p48
+I1
+sVtry
+p49
+I1
+sVbelvederes
+p50
+I1
+sVstuff
+p51
+I14
+sVround
+p52
+I1
+sVyall
+p53
+I1
+sVglasses
+p54
+I1
+sVem
+p55
+I2
+sVyeah
+p56
+I4
+sVsoul
+p57
+I1
+sVsee
+p58
+I1
+sVreally
+p59
+I1
+sVblouse
+p60
+I1
+sVsaid
+p61
+I3
+sVstingy
+p62
+I1
+sVprada
+p63
+I1
+sVgot
+p64
+I4
+sVyoull
+p65
+I2
+sVmart
+p66
+I1
+sVima
+p67
+I2
+sVdinero
+p68
+I1
+sVnever
+p69
+I2
+sVunstoppable
+p70
+I1
+sVmet
+p71
+I1
+sVlet
+p72
+I2
+sVkey
+p73
+I1
+sVheads
+p74
+I1
+sVwould
+p75
+I1
+sVill
+p76
+I1
+sVdublin
+p77
+I1
+sVkeep
+p78
+I2
+sVromancing
+p79
+I1
+sVneed
+p80
+I1
+sV2pacs
+p81
+I1
+sVpriceless
+p82
+I1
+sVprofess
+p83
+I1
+sVthats
+p84
+I1
+sVtwo
+p85
+I2
+sVladies
+p86
+I2
+sValready
+p87
+I1
+sVlove
+p88
+I9
+sVdont
+p89
+I8
+sVdrunk
+p90
+I1
+sVsweet
+p91
+I14
+sVjeans
+p92
+I1
+sVprivate
+p93
+I1
+sVreplace
+p94
+I1
+sVdown
+p95
+I2
+sVjayz
+p96
+I1
+sVfashion
+p97
+I1
+sVlong
+p98
+I1
+sVanother
+p99
+I1
+sVsinging
+p100
+I1
+sVbra
+p101
+I1
+sVwan
+p102
+I7
+sVlittle
+p103
+I1
+sVfilth
+p104
+I1
+sVzip
+p105
+I1
+sVtop
+p106
+I1
+sVgirls
+p107
+I2
+sVsystem
+p108
+I1
+sVbeen
+p109
+I2
+sVmami
+p110
+I1
+sVsavin
+p111
+I2
+sV2
+I2
+sVamnesia
+p112
+I1
+sVway
+p113
+I2
+sVmama
+p114
+I3
+sVgim
+p115
+I14
+sVback
+p116
+I1
+sVbuy
+p117
+I2
+sVclub
+p118
+I3
+sVbubblin
+p119
+I1
+sVhuh
+p120
+I3
+sVit
+p121
+I2
+sVeverywhere
+p122
+I1
+sVbaby
+p123
+I3
+sVoff
+p124
+I1
+sVhold
+p125
+I1
+sVfunk
+p126
+I14
+sVme
+p127
+I34
+sVma
+p128
+I2
+sVkarats
+p129
+I1
+sVwish
+p130
+I1
+sVmo
+p131
+I4
+sVwork
+p132
+I1
+sVcash
+p133
+I2
+sVtellin
+p134
+I1
+sVgucci
+p135
+I1
+sVmarriage
+p136
+I1
+sVuh
+p137
+I4
+sVlight
+p138
+I1
+sVsay
+p139
+I1
+sVcmon
+p140
+I5
+sVordered
+p141
+I1
+sVchloe
+p142
+I1
+sVgive
+p143
+I10
+sVfuck
+p144
+I2
+sVhigh
+p145
+I1
+sVyellin
+p146
+I1
+sVcant
+p147
+I2
+sVim
+p148
+I8
+sVwant
+p149
+I4
+sVready
+p150
+I1
+sVbottles
+p151
+I1
+sVzero
+p152
+I1
+sVjigga
+p153
+I1
+sVna
+p154
+I7
+sVsix
+p155
+I2
+sVhov
+p156
+I10
+sVhot
+p157
+I2
+sVtake
+p158
+I1
+sVcheetah
+p159
+I1
+sVyou
+p160
+I1
+sVgets
+p161
+I1
+sVhova
+p162
+I2
+sVroll
+p163
+I1
+sVnice
+p164
+I2
+sVokay
+p165
+I1
+sVtime
+p166
+I1
+sVproblems
+p167
+I2
+sVweed
+p168
+I1
+sVwrist
+p169
+I1
+sVblood
+p170
+I1
+sVsong
+p171
+I1
+sVman
+p172
+I2
+sVdeny
+p173
+I1
+sVe
+I1
+sVwife
+p174
+I1
+sVremis
+p175
+I1
+sVpage
+p176
+I1
+sVneptune
+p177
+I1
+sVu
+I2
+sVnarrative
+p178
+I1
+sVmodel
+p179
+I2
+sVspend
+p180
+I1
+sVhips
+p181
+I1
+sVgushi
+p182
+I14
+s.

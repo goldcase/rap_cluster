@@ -1,36 +1,334 @@
-"k-rock's the man" lyrics
-mc lyte lyrics
-"k-rock's the man"
-(feat. k-rock)
-is it a crime - because it's my time to bust a rhyme
-a dope line to make the crowd behind me climb
-and then twine to a tune that milk produced
-to make the party people get loose
-on the dancefloor, so don't try to hide
-cause i designed the rhyme that make your back-bone slide
-to the music, cause it's uplifting
-some may try, but they can't get with this
-but it's nothing for y'all to compete with
-it's just some smooth shit that's legit
-to make you get up when you're at a party
-and move.. your.. sexy.. body
-up, down, side to side, around
-come one, come all, come see what we found
-a way for y'all to work out y'all frustrations
-and groove with the band.. k-rock's the man
-now hurry hurry, step right up
-to my sideshow, and watch how my rhymes flow
-i let my galant talent illuminate
-so give three cheers for, k-rock the great
-don't debate, the votes are castin
-this is one race that i could never come last in
-boy you know that the k don't play
-you can't step to me, don't sleep on a dj
-k-rock, because blockheads i knock
-and rock the sock into a state of shock
-that's how it's supposed to be
-and that goes for those who step close to me
-so when you see me, show respect
-cause i met get upset and cold strip and snap the necks
-of all of those who don't understand
-that k-rock.. k-rock's the man
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmove
+p4
+I1
+sVkrocks
+p5
+I4
+sVproduced
+p6
+I1
+sVsleep
+p7
+I1
+sVcold
+p8
+I1
+sVfeat
+p9
+I1
+sVdebate
+p10
+I1
+sVvotes
+p11
+I1
+sVkrock
+p12
+I4
+sVbust
+p13
+I1
+sVcrime
+p14
+I1
+sVsnap
+p15
+I1
+sVdj
+p16
+I1
+sVaround
+p17
+I1
+sVget
+p18
+I4
+sVdope
+p19
+I1
+sVwatch
+p20
+I1
+sVband
+p21
+I1
+sVknow
+p22
+I1
+sVknock
+p23
+I1
+sVshock
+p24
+I1
+sVtry
+p25
+I2
+sVslide
+p26
+I1
+sVrace
+p27
+I1
+sVrock
+p28
+I1
+sVfound
+p29
+I1
+sVside
+p30
+I2
+sVyall
+p31
+I3
+sVright
+p32
+I1
+sVilluminate
+p33
+I1
+sVcrowd
+p34
+I1
+sVpeople
+p35
+I1
+sVfrustrations
+p36
+I1
+sVsee
+p37
+I2
+sVblockheads
+p38
+I1
+sVclose
+p39
+I1
+sVtwine
+p40
+I1
+sVdancefloor
+p41
+I1
+sVhide
+p42
+I1
+sVmilk
+p43
+I1
+sVbehind
+p44
+I1
+sVgoes
+p45
+I1
+sVcause
+p46
+I3
+sVbody
+p47
+I1
+sVbe
+p48
+I1
+sVnever
+p49
+I1
+sVstate
+p50
+I1
+sVloose
+p51
+I1
+sVmet
+p52
+I1
+sVstep
+p53
+I3
+sVlet
+p54
+I1
+sVsexy
+p55
+I1
+sVcome
+p56
+I4
+sVlegit
+p57
+I1
+sVboy
+p58
+I1
+sVgreat
+p59
+I1
+sVlast
+p60
+I1
+sVuplifting
+p61
+I1
+sVcould
+p62
+I1
+sVclimb
+p63
+I1
+sVthats
+p64
+I2
+sVdont
+p65
+I5
+sVcastin
+p66
+I1
+sVone
+p67
+I2
+sVstrip
+p68
+I1
+sVrespect
+p69
+I1
+sVlyte
+p70
+I1
+sVsock
+p71
+I1
+sVthree
+p72
+I1
+sVmusic
+p73
+I1
+sVway
+p74
+I1
+sVsideshow
+p75
+I1
+sVunderstand
+p76
+I1
+sVtalent
+p77
+I1
+sVline
+p78
+I1
+sVhurry
+p79
+I2
+sVwith
+p80
+I1
+sVme
+p81
+I1
+sVgalant
+p82
+I1
+sVmc
+p83
+I1
+sVthis
+p84
+I1
+sVwork
+p85
+I1
+sVsmooth
+p86
+I1
+sVup
+p87
+I1
+sVrhymes
+p88
+I1
+sVsupposed
+p89
+I1
+sVgroove
+p90
+I1
+sVk
+I1
+sVgive
+p91
+I1
+sVupset
+p92
+I1
+sVcant
+p93
+I2
+sVnecks
+p94
+I1
+sVin
+p95
+I1
+sVshit
+p96
+I1
+sVmake
+p97
+I4
+sVparty
+p98
+I2
+sVplay
+p99
+I1
+sVmay
+p100
+I1
+sVrhyme
+p101
+I2
+sVbackbone
+p102
+I1
+sVcheers
+p103
+I1
+sVdesigned
+p104
+I1
+sVnothing
+p105
+I1
+sVtune
+p106
+I1
+sVman
+p107
+I4
+sVyoure
+p108
+I1
+sVflow
+p109
+I1
+sVcompete
+p110
+I1
+sVtime
+p111
+I1
+s.

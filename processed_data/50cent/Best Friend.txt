@@ -1,64 +1,476 @@
-"best friend" lyrics
-50 cent lyrics
-"best friend"
-yeah! it's my tape man, listen to my tape
-woo!!!
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
-first we get the talkin, then we get the touchin
-if we get pass the phone games we'll be fuckin
-i kiss like the french therefore my tongue in your ear
-do it like the dogs do it girl and pull on your hair
-for me a different scenery just mean a different position
-in the tub or on the sink i improvise now listen
-in the chopper or on the jet join the mile high club
-i'm no fool i know money can't buy me love
-but i'm a different type of nigga that make sure that you know
-instead of a rose, there's a hundred dozen of those
-see i see somethin special when i look in your eyes
-with your legs way back i see this pussy is mine
-if you ain't sure when i'm talkin i don't tell you no lies
-but there's things that you say that have me wonderin why
-when i don't say what i'm thinkin it don't mean that i'm shy
-got on that shit you picked out for me that's why i'm so fly
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
-while you in your bubble bath i'll come wash on your back
-when you puttin on your lotion i can help you with that
-i sit and think of things to say that may make you smile
-or give you gifts from my heart to reflect my style
-or slang i use when we build may change how you talk
-and if i'm focused while i'm strokin i could change how you walk
-there's a swagger that you calm but when you come from new york
-i'm a hustler i just hustle in the things that i bought
-separate me from the rest, i feel like i'm the best
-if there's a price to pay for feelin you i pay that twice
-i'm as ghetto as it gets girl you know that's right
-i ain't got nothin to hide baby i tell you my secrets
-'fore you end up bein 'round long enough to peep shit
-i get closer to you, i mean closer than close
-i get into you, after i take off my clothes
-girl i been into you, mentally long before
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVrest
+p5
+I1
+sVmile
+p6
+I1
+sVhustler
+p7
+I1
+sVbefore
+p8
+I1
+sVaint
+p9
+I8
+sVstyle
+p10
+I1
+sVha
+p11
+I12
+sVrose
+p12
+I1
+sVenough
+p13
+I1
+sVlets
+p14
+I6
+sVtape
+p15
+I2
+sVsmile
+p16
+I1
+sVbuild
+p17
+I1
+sVfool
+p18
+I1
+sVpay
+p19
+I2
+sVcalm
+p20
+I1
+sVget
+p21
+I5
+sVbein
+p22
+I1
+sVfeelin
+p23
+I1
+sVknow
+p24
+I3
+sVkiss
+p25
+I1
+sVnew
+p26
+I1
+sVwalk
+p27
+I1
+sVghetto
+p28
+I1
+sVlike
+p29
+I3
+sVwash
+p30
+I1
+sVshy
+p31
+I1
+sV50
+p32
+I1
+sVtwice
+p33
+I1
+sVeither
+p34
+I6
+sVbought
+p35
+I1
+sVround
+p36
+I13
+sVmean
+p37
+I3
+sVimprovise
+p38
+I1
+sVnigga
+p39
+I1
+sVyeah
+p40
+I1
+sVhair
+p41
+I1
+sVsee
+p42
+I3
+sVpicked
+p43
+I1
+sVpass
+p44
+I1
+sVclose
+p45
+I1
+sVgirl
+p46
+I15
+sVspecial
+p47
+I1
+sVcloser
+p48
+I2
+sVstrokin
+p49
+I1
+sVhide
+p50
+I1
+sVplease
+p51
+I12
+sVwoo
+p52
+I1
+sVgot
+p53
+I2
+sVyoull
+p54
+I12
+sVhustle
+p55
+I1
+sVscenery
+p56
+I1
+sVright
+p57
+I1
+sVfrench
+p58
+I1
+sVlotion
+p59
+I1
+sVyork
+p60
+I1
+sVfocused
+p61
+I1
+sVsink
+p62
+I1
+sVtub
+p63
+I1
+sVcome
+p64
+I8
+sVchange
+p65
+I2
+sVon
+p66
+I6
+sVsecrets
+p67
+I1
+sVill
+p68
+I1
+sVgames
+p69
+I1
+sVtongue
+p70
+I1
+sVclothes
+p71
+I1
+sVthink
+p72
+I1
+sVfuckin
+p73
+I1
+sVfirst
+p74
+I1
+sVlove
+p75
+I1
+sVdont
+p76
+I3
+sVfeel
+p77
+I1
+sVpussy
+p78
+I1
+sVbath
+p79
+I1
+sVlies
+p80
+I1
+sVtouchin
+p81
+I1
+sVpromise
+p82
+I12
+sVlong
+p83
+I2
+sVchopper
+p84
+I1
+sVpeep
+p85
+I1
+sVuse
+p86
+I1
+sVjet
+p87
+I1
+sVhes
+p88
+I12
+sVcent
+p89
+I1
+sVtherefore
+p90
+I1
+sVway
+p91
+I1
+sVswagger
+p92
+I1
+sVhundred
+p93
+I1
+sVtype
+p94
+I1
+sVdogs
+p95
+I1
+sVfriend
+p96
+I29
+sVlisten
+p97
+I2
+sVeyes
+p98
+I1
+sVbuy
+p99
+I1
+sVthat
+p100
+I1
+sVclub
+p101
+I1
+sVhuh
+p102
+I6
+sVfore
+p103
+I1
+sVback
+p104
+I2
+sVphone
+p105
+I1
+sVbaby
+p106
+I1
+sVear
+p107
+I1
+sVthose
+p108
+I1
+sVfly
+p109
+I1
+sVpull
+p110
+I1
+sVlegs
+p111
+I1
+sVjoin
+p112
+I1
+sVlook
+p113
+I1
+sVbubble
+p114
+I1
+sVpretend
+p115
+I6
+sVcant
+p116
+I1
+sVtell
+p117
+I2
+sVuh
+p118
+I6
+sVmentally
+p119
+I1
+sVcould
+p120
+I1
+sVtheres
+p121
+I4
+sVheart
+p122
+I1
+sVgive
+p123
+I1
+sVmine
+p124
+I13
+sVhigh
+p125
+I1
+sVsay
+p126
+I15
+sVim
+p127
+I11
+sVwant
+p128
+I12
+sVtake
+p129
+I1
+sVshit
+p130
+I2
+sVdozen
+p131
+I1
+sVdifferent
+p132
+I3
+sVend
+p133
+I1
+sVsit
+p134
+I1
+sVthings
+p135
+I3
+sVmake
+p136
+I2
+sVbest
+p137
+I18
+sVinstead
+p138
+I1
+sVputtin
+p139
+I1
+sVgets
+p140
+I1
+sVtalkin
+p141
+I2
+sVwonderin
+p142
+I1
+sVsure
+p143
+I2
+sVseparate
+p144
+I1
+sVmay
+p145
+I2
+sVprice
+p146
+I1
+sVgifts
+p147
+I1
+sVwhy
+p148
+I1
+sVslang
+p149
+I1
+sVman
+p150
+I7
+sVsomethin
+p151
+I1
+sVwell
+p152
+I1
+sVnothin
+p153
+I1
+sVreflect
+p154
+I1
+sVtime
+p155
+I12
+sVposition
+p156
+I1
+sVthats
+p157
+I2
+sVthinkin
+p158
+I1
+sVtalk
+p159
+I1
+s.

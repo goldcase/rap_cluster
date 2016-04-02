@@ -1,140 +1,664 @@
-"just lose it" lyrics
-eminem lyrics
-"just lose it"
-down, down, down, down, down, down, down, down, down, down!
-ok..
-guess who's back?
-back again
-shady's back
-tell a friend
-whaaaaaaaa
-now everyone report to the dance floor
-to the dance floor, to the dance floor
-now everyone report to the dance floor
-alright stop!.....pajama time
-come here little kiddies, on my lap
-guess who's back with a brand new rap?
-and i don't mean rap as in a new case of child molestation accusation
-(ah-ah-ah-ah-ah)
-no worries, papa's got a brand new bag of toys
-what else could i possibly do to make noise?
-i done touched on everything, but little boys
-that's not a stab at michael
-that's just a metaphor, i'm just psycho
-i go a little bit crazy sometimes
-i get a little bit out of control with my rhymes
-good god, dip, do a little slide
-bend down, touch your toes and just glide
-up the center of the dance floor
-like tp for my bunghole
-and it's cool if you let one go
-nobody's gonna know, who'd hear it?
-give a little "poot poot", it's ok!
-oops my cd just skipped
-and everyone just heard you let one rip
-now i'm gonna make you dance
-it's your chance
-yeah boy shake that ass
-oops i mean girl,
-girl, girl, girl,
-girl you know you're my world
-alright now lose it
-(ah-ah-ah-ah-ah)
-just lose it
-(ah-ah-ah-ah-ah)
-go crazy
-(ah-ah-ah-ah-ah)
-oh baby
-(ah-ah)
-oh baby, baby
-(ah-ah)
-well, it's friday and it's my day
-just to party all the way to sunday
-maybe 'til monday, i dunno what day
-everyday's just a holiday
-crusin' on the freeway
-feelin' kinda breezy
-got the top down, lettin' my hair blow
-i dunno where i'm goin'
-all i know is when i get there
-someone's gonna touch my body
-excuse me miss, i don't mean to sound like a jerk
-but i'm feelin' just a little stressed out from work
-could you punch me in the stomach and pull my hair?
-spit on me, maybe gouge my eyes out? (yeah)
-now, what's your name girl?
-what's your sign?
-"man, you must be up out your mind"
-dre! (ah-ah)
-beer goggles! blind!
-i'm just tryna unwind now i'm
-now i'm gonna make you dance
-it's your chance
-yeah boy shake that ass
-oops i mean girl,
-girl, girl, girl,
-girl you know you're my world
-alright now lose it
-(ah-ah-ah-ah-ah)
-just lose it
-(ah-ah-ah-ah-ah)
-go crazy
-(ah-ah-ah-ah-ah)
-oh baby
-(ah-ah)
-oh baby, baby
-(ah-ah)
-it's tuesday and i'm locked up
-i'm in jail and i don't know what happened
-they say i was running butt naked
-down the street screaming
-(ah-ah-ah-ah-ah)
-well i'm sorry, i don't remember
-all i know is this much
-i'm not guilty
-they said, "save it, boy we gotcha you on tape
-yellin' at an old lady to 'touch my body!'"
-now this is the part where the rap breaks down
-it gets real intense, no one makes a sound
-everything looks like it's 8 mile now
-the beat comes back and everybody lose themselves
-snap back to reality
-look it's b.rabbit!
-yo you signed me up to battle!?
-i'm a grown man!
-chubba chubba chubba chubba chubba chubbie
-i don't have any lines to go right here so, chubba teletubbie!
-fella's (what?!) fella's (what?!)
-grab you left nut, make your right one jealous (what?)
-black girls
-white girls
-skinny girls
-fat girls
-tall girls
-small girls
-i'm callin' all girls
-everyone report to the dance floor
-it's your chance for a little romance or
-butt squeezin' it's the season
-just go (ah-ah-ah-ah)
-it's so appeasin'
-now i'm gonna make you dance
-it's your chance
-yeah boy shake that ass
-oops i mean girl,
-girl, girl, girl,
-girl you know you're my world
-alright now lose it
-(ah-ah-ah-ah-ah)
-just lose it
-(ah-ah-ah-ah-ah)
-go crazy
-(ah-ah-ah-ah-ah)
-oh baby
-(ah-ah)
-oh baby, baby
-(ah-ah)
-ummmmmm touch my body
-ummmmmm touch my body
-ooh boy just touch my body
-i mean girl just touch my body
+(dp1
+Vbunghole
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I9
+sVbutt
+p5
+I2
+sVgoggles
+p6
+I1
+sVlooks
+p7
+I1
+sVbattle
+p8
+I1
+sVshake
+p9
+I3
+sVtouch
+p10
+I7
+sVfellas
+p11
+I2
+sVpsycho
+p12
+I1
+sVblow
+p13
+I1
+sVromance
+p14
+I1
+sVnow
+p15
+I1
+sVglide
+p16
+I1
+sVname
+p17
+I1
+sVremember
+p18
+I1
+sVtp
+p19
+I1
+sVtape
+p20
+I1
+sVtouched
+p21
+I1
+sVsnap
+p22
+I1
+sV8
+I1
+sVsorry
+p23
+I1
+sVholiday
+p24
+I1
+sVhappened
+p25
+I1
+sVlady
+p26
+I1
+sVsound
+p27
+I2
+sVgood
+p28
+I1
+sVjerk
+p29
+I1
+sVget
+p30
+I2
+sVbeat
+p31
+I1
+sVbreaks
+p32
+I1
+sVfat
+p33
+I1
+sVwhaaaaaaaa
+p34
+I1
+sVpossibly
+p35
+I1
+sVknow
+p36
+I7
+sVgot
+p37
+I2
+sVreport
+p38
+I3
+sVworld
+p39
+I3
+sVbit
+p40
+I2
+sVcd
+p41
+I1
+sVscreaming
+p42
+I1
+sVday
+p43
+I2
+sVcool
+p44
+I1
+sVaccusation
+p45
+I1
+sVgets
+p46
+I1
+sVlike
+p47
+I3
+sVbrabbit
+p48
+I1
+sVmichael
+p49
+I1
+sVnaked
+p50
+I1
+sVbag
+p51
+I1
+sVslide
+p52
+I1
+sVmile
+p53
+I1
+sVlose
+p54
+I9
+sVworries
+p55
+I1
+sVgrab
+p56
+I1
+sVdip
+p57
+I1
+sVmean
+p58
+I6
+sVbody
+p59
+I6
+sVeveryone
+p60
+I4
+sVold
+p61
+I1
+sVnut
+p62
+I1
+sVback
+p63
+I6
+sVsign
+p64
+I1
+sVhair
+p65
+I2
+sVgo
+p66
+I7
+sVtoes
+p67
+I1
+sVsigned
+p68
+I1
+sVgirl
+p69
+I17
+sVwhat
+p70
+I2
+sVgon
+p71
+I5
+sVmonday
+p72
+I1
+sVgod
+p73
+I1
+sVeverything
+p74
+I2
+sVmakes
+p75
+I1
+sVahahahah
+p76
+I1
+sVnew
+p77
+I3
+sVass
+p78
+I3
+sVnoise
+p79
+I1
+sVlettin
+p80
+I1
+sVfriday
+p81
+I1
+sVlittle
+p82
+I8
+sVeminem
+p83
+I1
+sVsmall
+p84
+I1
+sVpunch
+p85
+I1
+sVlet
+p86
+I2
+sVcome
+p87
+I1
+sVintense
+p88
+I1
+sVmolestation
+p89
+I1
+sVboy
+p90
+I5
+sVok
+p91
+I2
+sVoh
+p92
+I6
+sVdunno
+p93
+I2
+sVcould
+p94
+I2
+sVguilty
+p95
+I1
+sVrunning
+p96
+I1
+sVummmmmm
+p97
+I2
+sVstressed
+p98
+I1
+sVdre
+p99
+I1
+sVor
+p100
+I1
+sVcomes
+p101
+I1
+sVthats
+p102
+I2
+sVblind
+p103
+I1
+sVchubba
+p104
+I6
+sVwhats
+p105
+I2
+sVdont
+p106
+I5
+sVunwind
+p107
+I1
+sVtuesday
+p108
+I1
+sVone
+p109
+I4
+sVdown
+p110
+I2
+sVright
+p111
+I2
+sVdone
+p112
+I1
+sVtoys
+p113
+I1
+sVmiss
+p114
+I1
+sVeverybody
+p115
+I1
+sVguess
+p116
+I2
+sVmetaphor
+p117
+I1
+sVsqueezin
+p118
+I1
+sVtop
+p119
+I1
+sVthere
+p120
+I1
+sVgirls
+p121
+I7
+sVpapas
+p122
+I1
+sVwhos
+p123
+I2
+sVbeer
+p124
+I1
+sVmuch
+p125
+I1
+sVway
+p126
+I1
+sVteletubbie
+p127
+I1
+sVwhod
+p128
+I1
+sVblack
+p129
+I1
+sVthemselves
+p130
+I1
+sVman
+p131
+I2
+sVtell
+p132
+I1
+sVfriend
+p133
+I1
+sVtryna
+p134
+I1
+sVeyes
+p135
+I1
+sVstomach
+p136
+I1
+sVspit
+p137
+I1
+sVseason
+p138
+I1
+sVbrand
+p139
+I2
+sVooh
+p140
+I1
+sVelse
+p141
+I1
+sVboys
+p142
+I1
+sVnobodys
+p143
+I1
+sVhear
+p144
+I1
+sVchild
+p145
+I1
+sVbaby
+p146
+I9
+sVchubbie
+p147
+I1
+sVwhite
+p148
+I1
+sVmust
+p149
+I1
+sVcase
+p150
+I1
+sVpull
+p151
+I1
+sVsave
+p152
+I1
+sVlocked
+p153
+I1
+sVlook
+p154
+I1
+sVyellin
+p155
+I1
+sVwork
+p156
+I1
+sVahah
+p157
+I7
+sVup
+p158
+I1
+sVrhymes
+p159
+I1
+sVstreet
+p160
+I1
+sVcrusin
+p161
+I1
+sVcontrol
+p162
+I1
+sVreal
+p163
+I1
+sVcrazy
+p164
+I4
+sVyoure
+p165
+I3
+sVeverydays
+p166
+I1
+sVgive
+p167
+I1
+sVlines
+p168
+I1
+sVappeasin
+p169
+I1
+sVmind
+p170
+I1
+sVit
+p171
+I8
+sVrip
+p172
+I1
+sVheard
+p173
+I1
+sVsay
+p174
+I1
+sVskipped
+p175
+I1
+sVim
+p176
+I14
+sVbend
+p177
+I1
+sVrap
+p178
+I3
+sVgrown
+p179
+I1
+sVagain
+p180
+I1
+sVyo
+p181
+I1
+sVfloor
+p182
+I6
+sVna
+p183
+I5
+sVmake
+p184
+I5
+sVreality
+p185
+I1
+sVtil
+p186
+I1
+sVsunday
+p187
+I1
+sVsomeones
+p188
+I1
+sVparty
+p189
+I1
+sVgouge
+p190
+I1
+sVgotcha
+p191
+I1
+sVpoot
+p192
+I2
+sValright
+p193
+I4
+sVchance
+p194
+I4
+sVsaid
+p195
+I1
+sVstab
+p196
+I1
+sVkinda
+p197
+I1
+sVjealous
+p198
+I1
+sVfeelin
+p199
+I2
+sVlap
+p200
+I1
+sVkiddies
+p201
+I1
+sVgoin
+p202
+I1
+sVyeah
+p203
+I4
+sVcallin
+p204
+I1
+sVcenter
+p205
+I1
+sVexcuse
+p206
+I1
+sVmaybe
+p207
+I2
+sVstoppajama
+p208
+I1
+sVsometimes
+p209
+I1
+sVwell
+p210
+I2
+sVbreezy
+p211
+I1
+sVfreeway
+p212
+I1
+sVahahahahah
+p213
+I11
+sVpart
+p214
+I1
+sVjail
+p215
+I1
+sVoops
+p216
+I4
+sVtime
+p217
+I1
+sVshadys
+p218
+I1
+sVtall
+p219
+I1
+sVskinny
+p220
+I1
+sVleft
+p221
+I1
+s.

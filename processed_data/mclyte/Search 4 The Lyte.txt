@@ -1,57 +1,349 @@
-"search 4 the lyte" lyrics
-mc lyte lyrics
-"search 4 the lyte"
-within the depths, of this infinite community
-emerges lyte
-one by one they fall in the darkness
-i'm glad, that i could take part in this
-and i'm hoping, that you just might
-get together and search 4 the lyte
-finding the lyte means happiness
-it's the best and nothing less
-so i'm waiting, at the end of a tunnel
-where happiness comes in bundles
-but it takes time, to get to the lyte
-to get in the lyte, to be with the lyte
-and i'm hoping, that you just might
-get together and search 4 the lyte
-how you get there is this question
-honesty is my suggestion
-but first you must be awakened
-if you say you are, you're faking
-one who has seen the lyte doesn't have to proof
-that they've been moved
-they just let it be, let it rest
-for that is the mental test
-within this, there's so much happiness
-sort of like lasting moments of bliss
-everyone wants to be so happy
-let me explain my theory:
-some type of grief you must experience
-in order to appreciate happiness
-cause if you are always satisfied
-life will just pass by, you would've never tried
-to get to the lyte, to get in the lyte
-to be with the lyte, to go see the lyte
-and i'm hoping, that you just might
-get together and search 4 the lyte
-if you are not ready the lyte can be blind-ing
-and not worth finding
-so for this you must prepare:
-stay awake, wake up, stay aware!
-there are so, many distractions
-those that see the lyte, just a fraction
-those that don't, remain blinded
-the lyte is there, they can't find it
-one by one they fall in the darkness
-and it's sad, to take part in this
-but i'm hoping, that you just might
-get together and search 4 the lyte
-now finding the lyte is what's so difficult
-and you can bet, that the results are
-splenderous, wonderful, yeah
-what wouldn't you do?
-cause once you've seen the lyte, been with the lyte
-got to the lyte, got in the lyte
-i know that you just might
-never ever wanna leave the lyte
+(dp1
+Vlyrics
+p2
+I2
+sVless
+p3
+I1
+sVmoments
+p4
+I1
+sVsatisfied
+p5
+I1
+sVrest
+p6
+I1
+sVever
+p7
+I1
+sVgo
+p8
+I1
+sVfind
+p9
+I1
+sVhappiness
+p10
+I4
+sVexplain
+p11
+I1
+sVbliss
+p12
+I1
+sV4
+I6
+sVmight
+p13
+I5
+sVworth
+p14
+I1
+sVdo
+p15
+I1
+sVmeans
+p16
+I1
+sVresults
+p17
+I1
+sVtest
+p18
+I1
+sVknow
+p19
+I1
+sVfall
+p20
+I2
+sVlike
+p21
+I1
+sValways
+p22
+I1
+sVleave
+p23
+I1
+sVtunnel
+p24
+I1
+sVlasting
+p25
+I1
+sVeveryone
+p26
+I1
+sVhonesty
+p27
+I1
+sVyeah
+p28
+I1
+sVsplenderous
+p29
+I1
+sVsee
+p30
+I2
+sVare
+p31
+I1
+sVpass
+p32
+I1
+sVblinded
+p33
+I1
+sVbest
+p34
+I1
+sVemerges
+p35
+I1
+sVdarkness
+p36
+I2
+sVwaiting
+p37
+I1
+sVgot
+p38
+I2
+sVcause
+p39
+I2
+sVwouldve
+p40
+I1
+sVtheory
+p41
+I1
+sVnever
+p42
+I2
+sVlet
+p43
+I3
+sVsearch
+p44
+I6
+sVwouldnt
+p45
+I1
+sVmany
+p46
+I1
+sVcould
+p47
+I1
+sVexperience
+p48
+I1
+sVsuggestion
+p49
+I1
+sVyouve
+p50
+I1
+sVproof
+p51
+I1
+sVcomes
+p52
+I1
+sVfirst
+p53
+I1
+sVwhats
+p54
+I1
+sVdont
+p55
+I1
+sVbundles
+p56
+I1
+sVwithin
+p57
+I2
+sVcommunity
+p58
+I1
+sVone
+p59
+I5
+sVinfinite
+p60
+I1
+sVdoesnt
+p61
+I1
+sVmental
+p62
+I1
+sVwan
+p63
+I1
+sVtakes
+p64
+I1
+sVprepare
+p65
+I1
+sVlyte
+p66
+I26
+sVquestion
+p67
+I1
+sVmuch
+p68
+I1
+sVfraction
+p69
+I1
+sVtype
+p70
+I1
+sVhappy
+p71
+I1
+sVwants
+p72
+I1
+sVlife
+p73
+I1
+sVaware
+p74
+I1
+sVgrief
+p75
+I1
+sVpart
+p76
+I2
+sVawake
+p77
+I1
+sVglad
+p78
+I1
+sVmust
+p79
+I3
+sVtheyve
+p80
+I1
+sVmc
+p81
+I1
+sVthis
+p82
+I2
+sVcant
+p83
+I1
+sVremain
+p84
+I1
+sVfaking
+p85
+I1
+sVawakened
+p86
+I1
+sVbet
+p87
+I1
+sVtheres
+p88
+I1
+sVsort
+p89
+I1
+sVdistractions
+p90
+I1
+sVhoping
+p91
+I4
+sVmoved
+p92
+I1
+sVit
+p93
+I1
+sVsad
+p94
+I1
+sVsay
+p95
+I1
+sVim
+p96
+I6
+sVready
+p97
+I1
+sVseen
+p98
+I2
+sVend
+p99
+I1
+sVna
+p100
+I1
+sVget
+p101
+I9
+sVtake
+p102
+I2
+sVfinding
+p103
+I3
+sVblinding
+p104
+I1
+sVdifficult
+p105
+I1
+sVtried
+p106
+I1
+sVwonderful
+p107
+I1
+sVstay
+p108
+I2
+sVdepths
+p109
+I1
+sVnothing
+p110
+I1
+sVyoure
+p111
+I1
+sVappreciate
+p112
+I1
+sVtogether
+p113
+I4
+sVtime
+p114
+I1
+sVwake
+p115
+I1
+sVorder
+p116
+I1
+s.

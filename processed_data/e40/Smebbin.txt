@@ -1,90 +1,599 @@
-"smebbin'" lyrics
-e-40 lyrics
-"smebbin'"
-"you better watch me, i'm comin smebbin"
-"smebbin down the streets in my seven-oh"
-"you better watch me, i'm comin smebbin
-ninety-five, ninety-six, ninety-seven"
-i was smebbin through the park one day
-"smebbin down the streets in my seven-oh"
-smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-i was smebbin through the park one day
-"pervin like a motherfucker, swervin"
-smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-i was smebbin through the park one day
-in the very very month of may
-i seen three switchin bitches, that thought i had riches
-started walkin towards my way
-hangin out the sunroof of my brougham caddy-mack
-ham sandwich with the beez off in the back
-i mah-uh-macked on one, but i slapped down two
-thoroughbred tenders like that, smashed out
-dabbed out, bust a pattern, leave em smokin
-just like felix mitchell and them used to do out there in oakland
-major clout without a doubt like clarence carter i'll be strokin
-kick a bootch smooth up out my car if she get to actin like i ain't pokin
-smebbin through the park one day
-"smebbin down the streets in my seven-oh"
-i was smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-smebbin through the park one day
-"pervin like a motherfucker, swervin"
-i was smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-say hoe, you got your e's mixed up
-what the fuck you mackin for huh bitch?  you got your e's mixed up
-always pitched a bitch, quality timer-ass bitch
-you best to come and do, 'posed to be down with anything i do
-now first of all before you correct me
-i was pretty much already an established celebrity
-get my keys zack me cash off
-keep up in the game so heavily
-but youse a stubborn, why in the fuck you complain?
-i raised your ass bitch, brought your ass out the rain
-when you was in the red, without a roof overhead
-i helped your ass out, by puttin you in my bed
-around this time last year your ass was in the dark
-and bitch, i'm out -- headed to the park
-smebbin through the park one day
-"smebbin down the streets in my seven-oh"
-smebbin through the park one day
-"boy you better watch me, i'm comin smebbin"
-i was smebbin through the park one day
-"pervin like a motherfucker, swervin"
-i was smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-woke up in the morning on perculation
-hit the homies up, made reservation
-what's crackin man, nigga what's cookin?
-i got some hoes man, nigga good lookin
-walked out the house, ten thirty three
-dang near forgot my epinine milli-mi
-it's unlawful for me to forget my pepper folks
-yeah all my reapers and stealers would like it
-for me to forget my pepper
-even though y'all my peoples, off the record playboy
-where the alcohol and your broccoli at nigga i'm tryin to get my dick wet
-where the naked hoes? where the big booty bitches? yvettes and susettes
-i like em thick with the dookie mickers by their hand
-bow legged bitches with the bigger gaps than the band
-tell me a little bit about yourself bitch, tell me a little about your history
-you done fucked around and made me mad, now i'msabout to talk bad
-tore up, ass, bitch, if you don't give me some head
-you best to smeb -- bitch!
-smebbin through the park one day
-"smebbin down the streets in my seven-oh"
-i was smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-smebbin through the park one day
-"pervin like a motherfucker, swervin"
-i was smebbin through the park one day
-"you better watch me, i'm comin smebbin"
-"smebbin down the streets in my seven-oh"
-"you better watch me, i'm comin smebbin
-ninety-five, ninety-six, ninety-seven"
-"you better watch me, i'm comin smebbin"
-"smebbin down the streets in my seven-oh"
-"you better watch me, i'm comin smebbin
-ninety-five, ninety-six, ninety-seven"
+(dp1
+Vforget
+p2
+I2
+sVlyrics
+p3
+I2
+sVheavily
+p4
+I1
+sVsusettes
+p5
+I1
+sVraised
+p6
+I1
+sVmonth
+p7
+I1
+sVaint
+p8
+I1
+sVzack
+p9
+I1
+sVham
+p10
+I1
+sVmuch
+p11
+I1
+sVdick
+p12
+I1
+sVbust
+p13
+I1
+sVcomplain
+p14
+I1
+sVbetter
+p15
+I13
+sVmahuhmacked
+p16
+I1
+sVactin
+p17
+I1
+sVpretty
+p18
+I1
+sVhomies
+p19
+I1
+sVfolks
+p20
+I1
+sVkick
+p21
+I1
+sVthoroughbred
+p22
+I1
+sVtimerass
+p23
+I1
+sVgood
+p24
+I1
+sVhit
+p25
+I1
+sVaround
+p26
+I2
+sVget
+p27
+I3
+sVbig
+p28
+I1
+sVwatch
+p29
+I13
+sVyvettes
+p30
+I1
+sVdark
+p31
+I1
+sVband
+p32
+I1
+sVgame
+p33
+I1
+sVcrackin
+p34
+I1
+sVlegged
+p35
+I1
+sVbit
+p36
+I1
+sVone
+p37
+I18
+sVday
+p38
+I17
+sVbigger
+p39
+I1
+sVlike
+p40
+I10
+sValways
+p41
+I1
+sVcelebrity
+p42
+I1
+sVsandwich
+p43
+I1
+sVsmebbin
+p44
+I39
+sVleave
+p45
+I1
+sVmillimi
+p46
+I1
+sVimsabout
+p47
+I1
+sVyall
+p48
+I1
+sVem
+p49
+I2
+sVnigga
+p50
+I3
+sVbooty
+p51
+I1
+sVcarter
+p52
+I1
+sVten
+p53
+I1
+sVriches
+p54
+I1
+sVstreets
+p55
+I7
+sVback
+p56
+I1
+sVcash
+p57
+I1
+sVtowards
+p58
+I1
+sVgaps
+p59
+I1
+sVbed
+p60
+I1
+sVyear
+p61
+I1
+sVhoes
+p62
+I2
+sVmorning
+p63
+I1
+sVcaddymack
+p64
+I1
+sVes
+p65
+I2
+sVout
+p66
+I1
+sVeven
+p67
+I1
+sVstrokin
+p68
+I1
+sValcohol
+p69
+I1
+sVpattern
+p70
+I1
+sVpokin
+p71
+I1
+sVthough
+p72
+I1
+sVunlawful
+p73
+I1
+sVbad
+p74
+I1
+sVslapped
+p75
+I1
+sVkeys
+p76
+I1
+sVit
+p77
+I1
+sVgot
+p78
+I3
+sVcorrect
+p79
+I1
+sVred
+p80
+I1
+sVass
+p81
+I5
+sVtore
+p82
+I1
+sVpepper
+p83
+I2
+sVclarence
+p84
+I1
+sVsmeb
+p85
+I1
+sVmotherfucker
+p86
+I4
+sVperculation
+p87
+I1
+sVsmokin
+p88
+I1
+sVcome
+p89
+I1
+sVcookin
+p90
+I1
+sVboy
+p91
+I1
+sVlast
+p92
+I1
+sVanything
+p93
+I1
+sVill
+p94
+I1
+sVkeep
+p95
+I1
+sVwalkin
+p96
+I1
+sVswervin
+p97
+I4
+sVlookin
+p98
+I1
+sVmixed
+p99
+I2
+sVbootch
+p100
+I1
+sVmajor
+p101
+I1
+sValready
+p102
+I1
+sVwhats
+p103
+I2
+sVdont
+p104
+I1
+sVheaded
+p105
+I1
+sVninetyseven
+p106
+I3
+sVforgot
+p107
+I1
+sVclout
+p108
+I1
+sVtwo
+p109
+I1
+sVbrought
+p110
+I1
+sVdone
+p111
+I1
+sVbitch
+p112
+I8
+sVcomin
+p113
+I13
+sVthick
+p114
+I1
+sVoakland
+p115
+I1
+sVquality
+p116
+I1
+sVdookie
+p117
+I1
+sVposed
+p118
+I1
+sVlittle
+p119
+I2
+sVwould
+p120
+I1
+sVyouse
+p121
+I1
+sVgive
+p122
+I1
+sVthree
+p123
+I2
+sVtenders
+p124
+I1
+sVdoubt
+p125
+I1
+sVoverhead
+p126
+I1
+sVway
+p127
+I1
+sVhouse
+p128
+I1
+sVswitchin
+p129
+I1
+sVbeez
+p130
+I1
+sVtryin
+p131
+I1
+sVtell
+p132
+I2
+sVwoke
+p133
+I1
+sVsevenoh
+p134
+I7
+sVhead
+p135
+I1
+sVfelix
+p136
+I1
+sVdabbed
+p137
+I1
+sVstarted
+p138
+I1
+sVbitches
+p139
+I3
+sVhuh
+p140
+I1
+sVyeah
+p141
+I1
+sVninetysix
+p142
+I3
+sVpitched
+p143
+I1
+sVepinine
+p144
+I1
+sVme
+p145
+I1
+sVe40
+p146
+I1
+sVmade
+p147
+I2
+sVthirty
+p148
+I1
+sVcar
+p149
+I1
+sVreapers
+p150
+I1
+sVsmooth
+p151
+I1
+sVup
+p152
+I2
+sVroof
+p153
+I1
+sVrecord
+p154
+I1
+sVnear
+p155
+I1
+sVmickers
+p156
+I1
+sVsmashed
+p157
+I1
+sVmitchell
+p158
+I1
+sVhistory
+p159
+I1
+sVstubborn
+p160
+I1
+sVdo
+p161
+I1
+sVmackin
+p162
+I1
+sVfuck
+p163
+I2
+sVhelped
+p164
+I1
+sVsay
+p165
+I1
+sVplayboy
+p166
+I1
+sVim
+p167
+I15
+sVwet
+p168
+I1
+sVseen
+p169
+I1
+sVbow
+p170
+I1
+sVninetyfive
+p171
+I3
+sVhoe
+p172
+I1
+sVnaked
+p173
+I1
+sVdang
+p174
+I1
+sVstealers
+p175
+I1
+sVbest
+p176
+I2
+sVpeoples
+p177
+I1
+sVputtin
+p178
+I1
+sVhangin
+p179
+I1
+sVused
+p180
+I1
+sVpervin
+p181
+I4
+sVestablished
+p182
+I1
+sVmay
+p183
+I1
+sVpark
+p184
+I18
+sVsunroof
+p185
+I1
+sVrain
+p186
+I1
+sVhand
+p187
+I1
+sVmad
+p188
+I1
+sVfucked
+p189
+I1
+sVreservation
+p190
+I1
+sVbroccoli
+p191
+I1
+sVman
+p192
+I2
+sVbrougham
+p193
+I1
+sVoff
+p194
+I1
+sVwalked
+p195
+I1
+sVthought
+p196
+I1
+sVwithout
+p197
+I2
+sVtime
+p198
+I1
+sVfirst
+p199
+I1
+sVtalk
+p200
+I1
+s.

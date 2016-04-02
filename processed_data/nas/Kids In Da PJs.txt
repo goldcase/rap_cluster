@@ -1,122 +1,1049 @@
-"kids in da pj's" lyrics
-nas lyrics
-"kids in da pj's"
-(feat. bravehearts, millenium thug)
-to the kids in the p.j.'s
-ghetto children i know it ain't easy
-ya'll wanting millions
-sunshine turns to rain
-its ghetto pain
-when a one time raise
-sometimes the young is slain
-to the kids in the p.j.'s black babies
-brought up in this world where it's wild and crazy child of the nile
-future lifestyle looks hazey
-dreams to drive a mercedes
-with a pile of ladies
-third grade singing star spangled banner
-using proper manners
-learnt to handle anger animal behavior
-later on my block rocking with my jocks on
-eating bon ton chesse popcorn
-humming a kiss rock song
-socks long to my knees
-summer breeze running through the leaves playing freeze tag
-can i stay out please dad
-can i hang out with my little gang out
-hearing shots rang out
-heard my moms call my name out
-come upstairs run up stairs
-take a bath shit stained underwear
-wipe yourself with paper bad
-little ass in my bed at 8:30 wash my plate
-ate dinner up late
-gazing at the wall praying basketball
-was my future for this young one
-hooping in the sun
-proud to be where i come from
-later shooting guns fantasizing
-fascinated by gold rope chains
-looking back at my hood days
-but things aint changed
-in my hood niggaz smoke wood
-nothing is good
-look at my eys and see what i could
-living my life and feel what i felt
-the hand that i was dealt
-drama that my uncle shabazz had
-i was a little lad
-niggaz shooting through my grams window shattering glass
-had the chicken pox
-on that toy horse that rocks
-my moms grabbed me down to safety
-everybody in the crib was going crazy
-that was in the 80's
-and now im 17
-money cash dreams
-niggaz be slave
-i be brave spit like a.k.'s and s.k.'s
-close range niggaz see brains
-millenium thugs the name
-but now it's slash cocaine
-blast niggaz in vaine
-satch yo' chain
-cherrish the life
-my niggaz got a fetish for ice
-turn out the lights
-i bust so i could spar up the night
-uniting the pipes
-queensbridge niggaz is sheist
-need no price body yall dudes on spite
-who knew i would of spazzed out
-little nayshawn owner of the crack house
-get my papes on
-tired of 'friderators all the steaks gone
-now picture this shit
-with six aunts five uncles
-thugging a double apartment out
-kids, cousins, and brothers
-there i go in the pamper by the radiator
-cursing eatin first
-little nigga with a appetite that got worst
-firs day of school ten man cliq
-all i'm learning is how to extort shit
-'cuz class i forefit
-graduated on another level
-selling birds busting birds
-fuck with the herbs
-never we fuck up the herbs
-make 'em pay like you
-stick 'em up get down
-since ten was taught to turn 'em around
-rip they pockets out
-bust two the way they run
-i ain't give a fuck that's how i was
-i was young
-horse was born as a brave child
-big for my size
-a bully to little guys
-with chocolate miks and apple pies
-the playground was mine
-i stayed scarred up all the time
-from shopping carts flipping
-now we race to the finish line
-hated playing cooties 'cuz that shit
-wasn't fun all the honey's say i'm it
-then they little ass run
-i was sweared to put a hickey on the ones
-that i caught
-i was a nasty little nigga i learned to hump before i walk
-kept a sling shot on my side to shoot
-squirrles and cats
-wanted to be captain america with the
-shillinger hat i started getting older fell
-more in love with the streets
-infactuated by the ropes and the shiny
-gold teeth i was to big to break dance
-fuck spiining on my back
-my role models now run numbers and sell
-crack this project child blessed
-chasing ghetto success
-he needs a name for himself
-to ge the same respect
+(dp1
+Vchain
+p2
+I1
+sVdance
+p3
+I1
+sVge
+p4
+I1
+sVgang
+p5
+I1
+sVgo
+p6
+I1
+sVappetite
+p7
+I1
+sVcaptain
+p8
+I1
+sVchildren
+p9
+I1
+sVapartment
+p10
+I1
+sVgold
+p11
+I2
+sVhump
+p12
+I1
+sVyoung
+p13
+I3
+sVsong
+p14
+I1
+sVworst
+p15
+I1
+sVblast
+p16
+I1
+sVwipe
+p17
+I1
+sVschool
+p18
+I1
+sVlevel
+p19
+I1
+sVturns
+p20
+I1
+sVrace
+p21
+I1
+sVdealt
+p22
+I1
+sVyall
+p23
+I2
+sVbrave
+p24
+I2
+sVten
+p25
+I2
+sVtired
+p26
+I1
+sVsatch
+p27
+I1
+sVstreets
+p28
+I1
+sVsteaks
+p29
+I1
+sVeating
+p30
+I1
+sVsun
+p31
+I1
+sVpipes
+p32
+I1
+sVlights
+p33
+I1
+sVfetish
+p34
+I1
+sVlearned
+p35
+I1
+sVguns
+p36
+I1
+sVbody
+p37
+I1
+sVnever
+p38
+I1
+sVwild
+p39
+I1
+sVsquirrles
+p40
+I1
+sVkids
+p41
+I5
+sVaks
+p42
+I1
+sVleaves
+p43
+I1
+sVchanged
+p44
+I1
+sVeatin
+p45
+I1
+sVbon
+p46
+I1
+sVpopcorn
+p47
+I1
+sVthats
+p48
+I1
+sVlove
+p49
+I1
+sVapple
+p50
+I1
+sVbrought
+p51
+I1
+sVcocaine
+p52
+I1
+sVsinging
+p53
+I1
+sVeverybody
+p54
+I1
+sVwanted
+p55
+I1
+sVwould
+p56
+I1
+sVtwo
+p57
+I1
+sVeys
+p58
+I1
+sVgoing
+p59
+I1
+sVcall
+p60
+I1
+sVstarted
+p61
+I1
+sVchocolate
+p62
+I1
+sVglass
+p63
+I1
+sVstick
+p64
+I1
+sVshoot
+p65
+I1
+sVniggaz
+p66
+I7
+sVnumbers
+p67
+I1
+sVcrazy
+p68
+I2
+sVgive
+p69
+I1
+sVfuck
+p70
+I4
+sVheard
+p71
+I1
+sVtag
+p72
+I1
+sVspiining
+p73
+I1
+sVneeds
+p74
+I1
+sVhickey
+p75
+I1
+sVsix
+p76
+I1
+sVrange
+p77
+I1
+sVstayed
+p78
+I1
+sVsweared
+p79
+I1
+sVfantasizing
+p80
+I1
+sVlad
+p81
+I1
+sVguys
+p82
+I1
+sVman
+p83
+I1
+sVchasing
+p84
+I1
+sVthird
+p85
+I1
+sVthings
+p86
+I1
+sVplaying
+p87
+I2
+sVpapes
+p88
+I1
+sVpaper
+p89
+I1
+sVlooks
+p90
+I1
+sVbirds
+p91
+I2
+sVlate
+p92
+I1
+sVgrade
+p93
+I1
+sVwindow
+p94
+I1
+sVdad
+p95
+I1
+sVgood
+p96
+I1
+sVanimal
+p97
+I1
+sVyo
+p98
+I1
+sVmoms
+p99
+I2
+sVbreak
+p100
+I1
+sVkiss
+p101
+I1
+sVone
+p102
+I2
+sVday
+p103
+I1
+sVpjs
+p104
+I4
+sVname
+p105
+I3
+sVrocks
+p106
+I1
+sVrock
+p107
+I1
+sVgazing
+p108
+I1
+sVside
+p109
+I1
+sVem
+p110
+I3
+sVupstairs
+p111
+I1
+sVhouse
+p112
+I1
+sVtaught
+p113
+I1
+sVout
+p114
+I3
+sVliving
+p115
+I1
+sVsince
+p116
+I1
+sVlooking
+p117
+I1
+sVsafety
+p118
+I1
+sVplayground
+p119
+I1
+sVgot
+p120
+I2
+sVmillions
+p121
+I1
+sVass
+p122
+I2
+sVbully
+p123
+I1
+sVlittle
+p124
+I8
+sVbasketball
+p125
+I1
+sVput
+p126
+I1
+sVscarred
+p127
+I1
+sVunderwear
+p128
+I1
+sVate
+p129
+I1
+sVcould
+p130
+I2
+sVdays
+p131
+I1
+sVforefit
+p132
+I1
+sVturn
+p133
+I2
+sVcooties
+p134
+I1
+sVfirst
+p135
+I1
+sVrang
+p136
+I1
+sVfeel
+p137
+I1
+sVflipping
+p138
+I1
+sVcrib
+p139
+I1
+sVhearing
+p140
+I1
+sVwash
+p141
+I1
+sVanother
+p142
+I1
+sVowner
+p143
+I1
+sVhood
+p144
+I2
+sVsize
+p145
+I1
+sVhorse
+p146
+I2
+sVtoy
+p147
+I1
+sVcaught
+p148
+I1
+sVton
+p149
+I1
+sVtime
+p150
+I2
+sVselling
+p151
+I1
+sVbrains
+p152
+I1
+sVstairs
+p153
+I1
+sV17
+p154
+I1
+sVjocks
+p155
+I1
+sVdouble
+p156
+I1
+sVbed
+p157
+I1
+sVproject
+p158
+I1
+sVfuture
+p159
+I2
+sVcliq
+p160
+I1
+sVwasnt
+p161
+I1
+sVhoneys
+p162
+I1
+sVmine
+p163
+I1
+sVsay
+p164
+I1
+sVhooping
+p165
+I1
+sVanger
+p166
+I1
+sVsell
+p167
+I1
+sVtake
+p168
+I1
+sVwanting
+p169
+I1
+sVpain
+p170
+I1
+sVspangled
+p171
+I1
+sVprice
+p172
+I1
+sVknew
+p173
+I1
+sVnothing
+p174
+I1
+sVshabazz
+p175
+I1
+sVamerica
+p176
+I1
+sVclass
+p177
+I1
+sVhazey
+p178
+I1
+sVgrams
+p179
+I1
+sVproud
+p180
+I1
+sVdrive
+p181
+I1
+sVshot
+p182
+I1
+sVlyrics
+p183
+I2
+sVchicken
+p184
+I1
+sVfeat
+p185
+I1
+sVaint
+p186
+I3
+sVgrabbed
+p187
+I1
+sVspite
+p188
+I1
+sVcousins
+p189
+I1
+sVstained
+p190
+I1
+sVbust
+p191
+I2
+sVwood
+p192
+I1
+sVblack
+p193
+I1
+sVplate
+p194
+I1
+sVhandle
+p195
+I1
+sVuncles
+p196
+I1
+sVget
+p197
+I2
+sVda
+p198
+I2
+sVcursing
+p199
+I1
+sVones
+p200
+I1
+sVnasty
+p201
+I1
+sVbanner
+p202
+I1
+sVghetto
+p203
+I3
+sVmillenium
+p204
+I2
+sVbad
+p205
+I1
+sVshots
+p206
+I1
+sVmercedes
+p207
+I1
+sVfreeze
+p208
+I1
+sVsee
+p209
+I2
+sVclose
+p210
+I1
+sVknees
+p211
+I1
+sV830
+p212
+I1
+sVlearnt
+p213
+I1
+sVfascinated
+p214
+I1
+sVplease
+p215
+I1
+sVsheist
+p216
+I1
+sVcome
+p217
+I2
+sVbusting
+p218
+I1
+sVnile
+p219
+I1
+sVpox
+p220
+I1
+sVwall
+p221
+I1
+sVmanners
+p222
+I1
+sVdudes
+p223
+I1
+sVwalk
+p224
+I1
+sVslain
+p225
+I1
+sVlearning
+p226
+I1
+sVrespect
+p227
+I1
+sVhumming
+p228
+I1
+sVraise
+p229
+I1
+sVropes
+p230
+I1
+sVlife
+p231
+I2
+sVshopping
+p232
+I1
+sVspit
+p233
+I1
+sVsunshine
+p234
+I1
+sVshattering
+p235
+I1
+sVmiks
+p236
+I1
+sVchild
+p237
+I3
+sVrocking
+p238
+I1
+sVfirs
+p239
+I1
+sVlook
+p240
+I1
+sVcash
+p241
+I1
+sVrope
+p242
+I1
+sVbehavior
+p243
+I1
+sVfun
+p244
+I1
+sVrip
+p245
+I1
+sVneed
+p246
+I1
+sVinfactuated
+p247
+I1
+sVim
+p248
+I3
+sVthug
+p249
+I1
+sVpay
+p250
+I1
+sVmake
+p251
+I1
+sVbabies
+p252
+I1
+sV80s
+p253
+I1
+sVfinish
+p254
+I1
+sVslave
+p255
+I1
+sVsmoke
+p256
+I1
+sVhang
+p257
+I1
+sVrain
+p258
+I1
+sVhand
+p259
+I1
+sVrunning
+p260
+I1
+sVkept
+p261
+I1
+sVolder
+p262
+I1
+sVbreeze
+p263
+I1
+sVthe
+p264
+I1
+sVsummer
+p265
+I1
+sVmoney
+p266
+I1
+sVusing
+p267
+I1
+sVpraying
+p268
+I1
+sVsks
+p269
+I1
+sVhated
+p270
+I1
+sVhad
+p271
+I1
+sVcuz
+p272
+I2
+sVsometimes
+p273
+I1
+sVpile
+p274
+I1
+sVeasy
+p275
+I1
+sVcrack
+p276
+I2
+sVhat
+p277
+I1
+sVaround
+p278
+I1
+sVradiator
+p279
+I1
+sVbig
+p280
+I2
+sVfive
+p281
+I1
+sVknow
+p282
+I1
+sVworld
+p283
+I1
+sVpies
+p284
+I1
+sVdreams
+p285
+I2
+sVlike
+p286
+I2
+sVsuccess
+p287
+I1
+sVnight
+p288
+I1
+sVqueensbridge
+p289
+I1
+sVnigga
+p290
+I2
+sVback
+p291
+I2
+sVborn
+p292
+I1
+sVproper
+p293
+I1
+sVnayshawn
+p294
+I1
+sVspazzed
+p295
+I1
+sVcarts
+p296
+I1
+sVice
+p297
+I1
+sVslash
+p298
+I1
+sVchains
+p299
+I1
+sVrun
+p300
+I4
+sVvaine
+p301
+I1
+sVgraduated
+p302
+I1
+sVon
+p303
+I1
+sVlifestyle
+p304
+I1
+sVgetting
+p305
+I1
+sVdrama
+p306
+I1
+sVdinner
+p307
+I1
+sVpockets
+p308
+I1
+sVshiny
+p309
+I1
+sVblock
+p310
+I1
+sVladies
+p311
+I1
+sVblessed
+p312
+I1
+sVsocks
+p313
+I1
+sVbath
+p314
+I1
+sVdown
+p315
+I1
+sVbravehearts
+p316
+I1
+sVpamper
+p317
+I1
+sVlong
+p318
+I1
+sVuniting
+p319
+I1
+sVcats
+p320
+I1
+sVway
+p321
+I1
+sVspar
+p322
+I1
+sVfriderators
+p323
+I1
+sVhimself
+p324
+I1
+sVuncle
+p325
+I1
+sVline
+p326
+I1
+sVchesse
+p327
+I1
+sVgone
+p328
+I1
+sVlater
+p329
+I2
+sVthugging
+p330
+I1
+sVshooting
+p331
+I2
+sVshit
+p332
+I4
+sVthugs
+p333
+I1
+sVaunts
+p334
+I1
+sVnas
+p335
+I1
+sVrole
+p336
+I1
+sVyou
+p337
+I1
+sVpicture
+p338
+I1
+sVstar
+p339
+I1
+sVbrothers
+p340
+I1
+sVsling
+p341
+I1
+sVmodels
+p342
+I1
+sVcherrish
+p343
+I1
+sVfelt
+p344
+I1
+sVstay
+p345
+I1
+sVherbs
+p346
+I2
+sVfell
+p347
+I1
+sVextort
+p348
+I1
+sVteeth
+p349
+I1
+sVshillinger
+p350
+I1
+s.

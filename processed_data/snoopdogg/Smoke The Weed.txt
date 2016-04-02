@@ -1,74 +1,572 @@
-"smoke the weed" lyrics
-snoop dogg lyrics
-"smoke the weed"
-(feat. collie buddz)
-smoke the weed, everyday
-don't smoke the seeds, no way
-smoke the weed,
-smoke the weed
-sugar generation
-young boys and girls
-be careful of the seeds you show
-if you wanna see a strong tree grow
-you gotta put them for the future
-show respect don't neglect mother nature
-all the pollution in this world
-me just can't stand it
-global warming make the whole world panic
-take care of mother earth 'cause she be the planet
-youth man don't go astray
-fresh trees, young seeds all tryin to find the light
-stretchin out their limbs to the sun, got them right
-help them keep their life will trap
-watch out for life like satellite
-them winds will stop and go like a traffic light
-many obstacles to overcome in the city life
-making sure they stay pure, teach you wrong from right
-see brings more spore new line
-smoke the weed, everyday
-don't smoke the seeds, no way
-smoke the weed,
-smoke the weed
-hey are you on your own
-16 and with all the money
-when did somewhere to go
-stick the peer pockets been dallin
-the baba hurt me break bone
-holding my fight to herb me can't stop me
-me solely see babylon can't come step on it
-still we read italic critical santanic
-rude man don't stop chronic, everyday
-roll me the weed oh
-take off you shot then me mix a couple breed off
-can't stun the principle go the seed oh
-we no do that if they cheat oh
-and me set herb herb what we all prefer
-and my juggly top street girl
-honey you done said weed is life
-weed is reality
-smoke the weed, everyday
-don't smoke the seeds, no way
-smoke the weed,
-smoke the weed
-early light papa you damn my supper
-asking my pop off hot like the summer
-you can't never understand why we live the life
-you would never recognize unless you see the fire in my eyes
-i'm burrying the man like every single day
-black birds in the sky can't get off break
-the smoke is my gun that's how i blow them away
-music is my weapon rewind it let it play
-that they line the police sun set all day
-they call me snoop lion i smoke everyday
-look granded they see
-watch them grow a new breed
-cultivating these streets
-recycle, care zone
-and then we know they know and don't stop
-the tic tac couple universal globe
-the bang bang baby the love stream boomie
-throw back away procreate
-smoke the weed, everyday
-don't smoke the seeds, no way
-smoke the weed,
-smoke the weed
+(dp1
+Vsummer
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I2
+sVcheat
+p7
+I1
+sVmoney
+p8
+I1
+sVglobal
+p9
+I1
+sVwinds
+p10
+I1
+sVearth
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVfind
+p14
+I1
+sVblow
+p15
+I1
+sVlimbs
+p16
+I1
+sVpolice
+p17
+I1
+sVbuddz
+p18
+I1
+sVcall
+p19
+I1
+sVsomewhere
+p20
+I1
+sVweed
+p21
+I17
+sVsky
+p22
+I1
+sVyoung
+p23
+I2
+sVsugar
+p24
+I1
+sVasking
+p25
+I1
+sVblack
+p26
+I1
+sVrecycle
+p27
+I1
+sVovercome
+p28
+I1
+sVta
+p29
+I1
+sVstretchin
+p30
+I1
+sVholding
+p31
+I1
+sVget
+p32
+I1
+sVread
+p33
+I1
+sVcouple
+p34
+I2
+sVstop
+p35
+I4
+sVboomie
+p36
+I1
+sVtrees
+p37
+I1
+sVbreak
+p38
+I2
+sVbang
+p39
+I2
+sVtraffic
+p40
+I1
+sVknow
+p41
+I2
+sVnew
+p42
+I2
+sVworld
+p43
+I2
+sVday
+p44
+I2
+sVlike
+p45
+I4
+sVchronic
+p46
+I1
+sVbabylon
+p47
+I1
+sVgun
+p48
+I1
+sVsantanic
+p49
+I1
+sVtrap
+p50
+I1
+sVtic
+p51
+I1
+sVbone
+p52
+I1
+sVright
+p53
+I2
+sVgeneration
+p54
+I1
+sVspore
+p55
+I1
+sVstreets
+p56
+I1
+sVplay
+p57
+I1
+sVgo
+p58
+I4
+sVsee
+p59
+I5
+sVstreet
+p60
+I1
+sVgirl
+p61
+I1
+sVplanet
+p62
+I1
+sVsaid
+p63
+I1
+sVjuggly
+p64
+I1
+sVsun
+p65
+I2
+sVaway
+p66
+I2
+sVnature
+p67
+I1
+sVastray
+p68
+I1
+sVbirds
+p69
+I1
+sVcritical
+p70
+I1
+sVgot
+p71
+I2
+sVcause
+p72
+I1
+sVcity
+p73
+I1
+sVherb
+p74
+I3
+sVnever
+p75
+I2
+sVstep
+p76
+I1
+sVlet
+p77
+I1
+sVput
+p78
+I1
+sVteach
+p79
+I1
+sVstrong
+p80
+I1
+sVcome
+p81
+I1
+sVthrow
+p82
+I1
+sVcare
+p83
+I2
+sVevery
+p84
+I1
+sVstun
+p85
+I1
+sVwould
+p86
+I1
+sVoh
+p87
+I3
+sVmany
+p88
+I1
+sVkeep
+p89
+I1
+sVseeds
+p90
+I6
+sVstand
+p91
+I1
+sVsmoke
+p92
+I20
+sVgranded
+p93
+I1
+sVwhole
+p94
+I1
+sVneglect
+p95
+I1
+sVpollution
+p96
+I1
+sVown
+p97
+I1
+sVlove
+p98
+I1
+sVdont
+p99
+I8
+sVprefer
+p100
+I1
+sVpop
+p101
+I1
+sVprocreate
+p102
+I1
+sVpeer
+p103
+I1
+sVset
+p104
+I2
+sVdone
+p105
+I1
+sVrespect
+p106
+I1
+sVwan
+p107
+I1
+sVsnoop
+p108
+I2
+sVdogg
+p109
+I1
+sVtop
+p110
+I1
+sVbreed
+p111
+I2
+sVgirls
+p112
+I1
+sVhey
+p113
+I1
+sVfight
+p114
+I1
+sVlive
+p115
+I1
+sVdamn
+p116
+I1
+sVway
+p117
+I4
+sVmusic
+p118
+I1
+sVtryin
+p119
+I1
+sVglobe
+p120
+I1
+sVbaba
+p121
+I1
+sVlife
+p122
+I5
+sVitalic
+p123
+I1
+sVfire
+p124
+I1
+sVbrings
+p125
+I1
+sVhurt
+p126
+I1
+sVburrying
+p127
+I1
+sVboys
+p128
+I1
+sVeyes
+p129
+I1
+sVunderstand
+p130
+I1
+sVstick
+p131
+I1
+sVbaby
+p132
+I1
+sVline
+p133
+I2
+sVcareful
+p134
+I1
+sVme
+p135
+I1
+sVlook
+p136
+I1
+sV16
+p137
+I1
+sVtree
+p138
+I1
+sVsingle
+p139
+I1
+sVyouth
+p140
+I1
+sVfuture
+p141
+I1
+sVmaking
+p142
+I1
+sVsolely
+p143
+I1
+sVdallin
+p144
+I1
+sVstream
+p145
+I1
+sVrecognize
+p146
+I1
+sVuniversal
+p147
+I1
+sVit
+p148
+I2
+sVhoney
+p149
+I1
+sVcant
+p150
+I6
+sVseed
+p151
+I1
+sVim
+p152
+I1
+sVtac
+p153
+I1
+sVeveryday
+p154
+I6
+sVcollie
+p155
+I1
+sVna
+p156
+I1
+sVmake
+p157
+I1
+sVreality
+p158
+I1
+sVmix
+p159
+I1
+sVhot
+p160
+I1
+sVlion
+p161
+I1
+sVtake
+p162
+I2
+sVpure
+p163
+I1
+sVrewind
+p164
+I1
+sVzone
+p165
+I1
+sVpanic
+p166
+I1
+sVroll
+p167
+I1
+sVcultivating
+p168
+I1
+sVsatellite
+p169
+I1
+sVsure
+p170
+I1
+sVunless
+p171
+I1
+sVpockets
+p172
+I1
+sVrude
+p173
+I1
+sVwatch
+p174
+I2
+sVpapa
+p175
+I1
+sVstay
+p176
+I1
+sVwrong
+p177
+I1
+sVsupper
+p178
+I1
+sVgrow
+p179
+I2
+sVwarming
+p180
+I1
+sVman
+p181
+I3
+sVearly
+p182
+I1
+sVoff
+p183
+I1
+sVlight
+p184
+I3
+sVweapon
+p185
+I1
+sVobstacles
+p186
+I1
+sVprinciple
+p187
+I1
+sVback
+p188
+I1
+sVmother
+p189
+I2
+sVfresh
+p190
+I1
+sVthats
+p191
+I1
+s.

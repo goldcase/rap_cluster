@@ -1,33 +1,185 @@
-"torn apart" lyrics
-snoop dogg lyrics
-"torn apart"
-(feat. rita ora)
-i heard him speak but then a saw his face
-i knew we was the one because i dreamt this day
-i was such a beginner on this thing called love
-and now he's going away and now i'm torn apart, so torn apart
-you're one of them, you see me swear
-you pullin' triggers let you slide another day
-say goodbye to the one that got away
-her lips for the very first thing that i saw
-she threw like an angel and that made want some more
-my reputation says i'm there from now
-and now she's going away and now i'm so torn apart, so torn apart
-you're one of them, you see me swear
-you pullin' triggers let you slide another day
-say goodbye to the one that got away
-never let you give up
-but i should've let you got away
-got away, got to find another way
-never let 'em get away
-gotta find a way to stay
-never let 'em get away
-never let 'em get away
-you never let her go
-you never let her go
-you see me?
-you hear me?
-ye
-you're one of them, you see me swear
-you pullin' triggers let you slide another day
-say goodbye to the one that got away
+(dp1
+Vem
+p2
+I3
+sVlove
+p3
+I1
+sVwant
+p4
+I1
+sVlyrics
+p5
+I2
+sVgive
+p6
+I1
+sVone
+p7
+I7
+sVheard
+p8
+I1
+sVsee
+p9
+I4
+sVim
+p10
+I3
+sVshes
+p11
+I1
+sVanother
+p12
+I4
+sVgo
+p13
+I2
+sVangel
+p14
+I1
+sVsaw
+p15
+I2
+sVfind
+p16
+I2
+sVspeak
+p17
+I1
+sVbeginner
+p18
+I1
+sVsnoop
+p19
+I1
+sVhes
+p20
+I1
+sVdogg
+p21
+I1
+sVaway
+p22
+I10
+sVtorn
+p23
+I6
+sVfeat
+p24
+I1
+sVgoing
+p25
+I2
+sVway
+p26
+I2
+sVgot
+p27
+I7
+sVapart
+p28
+I6
+sVrita
+p29
+I1
+sVthrew
+p30
+I1
+sVsays
+p31
+I1
+sVnever
+p32
+I6
+sVget
+p33
+I3
+sVshouldve
+p34
+I1
+sVknew
+p35
+I1
+sVye
+p36
+I1
+sVstay
+p37
+I1
+sVta
+p38
+I1
+sVlet
+p39
+I10
+sVlips
+p40
+I1
+sVdreamt
+p41
+I1
+sVnow
+p42
+I1
+sVday
+p43
+I4
+sVora
+p44
+I1
+sVme
+p45
+I2
+sVmade
+p46
+I1
+sVlike
+p47
+I1
+sVtriggers
+p48
+I3
+sVup
+p49
+I1
+sVyoure
+p50
+I3
+sVsay
+p51
+I3
+sVface
+p52
+I1
+sVthing
+p53
+I2
+sVslide
+p54
+I3
+sVswear
+p55
+I3
+sVreputation
+p56
+I1
+sVgoodbye
+p57
+I3
+sVhear
+p58
+I1
+sVpullin
+p59
+I3
+sVmore
+p60
+I1
+sVcalled
+p61
+I1
+sVfirst
+p62
+I1
+s.

@@ -1,85 +1,715 @@
-"gone again pt. 2" lyrics
-eminem lyrics
-"gone again pt. 2"
-(feat. rihanna, jay-z)
-shut up and sing
-listen gone again.....
-have you ever loved someone so much, you'd give an arm for?
-not the expression, no, literally give an arm for?
-when they know they're your heart
-and you know you were their armour
-and you will destroy anyone who would try to harm her
-but what happens when karma, turns right around and bites you?
-and everything you stand for, turns on you to spite you?
-what happens when you become the main source of her pain?
-"daddy look what i made", dad's gotta go catch a plane
-"daddy where's mommy? i can't find mommy where is she?"
-i don't know go play hailie, baby, your daddy's busy
-daddy's writing a song, this song ain't gonna write itself
-i'll give you one underdog then you gotta swing by yourself
-then turn right around in that song and tell her you love her
-and put hands on her mother, who's a spitting image of her
-that's slim shady, yeah baby, slim shady's crazy
-shady made me, but tonight shady's rocka-by-baby...
-listen gone again
-story of my life
-searching for the right
-but it keeps avoiding me
-listen gone again
-sorrow in my soul
-cause it seems that wrong
-really loves my company
-they say "they never really miss you til you dead or you gone"
-so on that note i'm leaving after the song
-so you ain't gotta feel no way about jay so long
-atleast let me tell you why i'm this way, hold on
-i was conceived by gloria carter and adaness revees
-who made love under the siccamore tree
-which makes me
-a more sicker m.c. and my momma would claim
-at 10 pounds when i was born i didn't give her no pain
-although through the years i gave her her fair share
-i gave her her first real scare
-i made it from birth and i got here
-she knows my purpose wasn't purpose
-i ain't perfect i care
-but i feel worthless cause my shirts wasn't matchin my gear
-now i'm just scratchin the surface cause what's burried under there
-was a kid torn apart once his pop disappeared
-i went to school got good grades could behave when i wanted
-but i had demons deep inside that would raise when confronted
-hold on
-listen gone again
-story of my life
-searching for the right
-but it keeps avoiding me
-listen gone again
-sorrow in my soul
-cause it seems that wrong
-really loves my company
-i keep having this dream, i'm pushin' hailie on the swing
-she keeps screaming, she don't want me to sing
-"you're making mommy cry, why? why is mommy crying?"
-baby, daddy ain't leaving no more, "daddy you're lying
-"you always say that, you always say this is the last time
-"but you ain't leaving no more, daddy you're mine"
-she's piling boxes in front of the door trying to block it
-"daddy please, daddy don't leave, daddy - no stop it!"
-goes in her pocket, pulls out a tiny necklace locket
-it's got a picture, "this'll keep you safe daddy, take it withcha'"
-i look up, it's just me standing in the mirror
-these fuckin' walls must be talking, cuz man i can hear 'em
-they're saying "you've got one more chance to do right" - and it's tonight
-now go out there and show that you love 'em before it's too late
-and just as i go to walk out of my bedroom door
-it turns to a stage, they're gone, and this spotlight is on
-and i'm singing...
-listen gone again
-story of my life
-searching for the right
-but it keeps avoiding me
-listen gone again
-sorrow in my soul
-cause it seems that wrong
-really loves my company
-listen gone again...
+(dp1
+Vsaying
+p2
+I1
+sVunderdog
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVarmour
+p6
+I1
+sVyears
+p7
+I1
+sVcatch
+p8
+I1
+sVgrades
+p9
+I1
+sVbedroom
+p10
+I1
+sVgo
+p11
+I4
+sVwhats
+p12
+I1
+sVfeat
+p13
+I1
+sVfind
+p14
+I1
+sVaint
+p15
+I5
+sVtil
+p16
+I1
+sVbusy
+p17
+I1
+sVspite
+p18
+I1
+sVjay
+p19
+I1
+sVtrying
+p20
+I1
+sVtorn
+p21
+I1
+sVseems
+p22
+I3
+sVcuz
+p23
+I1
+sVwriting
+p24
+I1
+sVrihanna
+p25
+I1
+sVsource
+p26
+I1
+sVcrying
+p27
+I1
+sVlate
+p28
+I1
+sVmain
+p29
+I1
+sVimage
+p30
+I1
+sVta
+p31
+I3
+sVreal
+p32
+I1
+sVsomeone
+p33
+I1
+sVaround
+p34
+I2
+sVsong
+p35
+I4
+sVsafe
+p36
+I1
+sVstop
+p37
+I1
+sVpocket
+p38
+I1
+sVboxes
+p39
+I1
+sVknow
+p40
+I3
+sVbirth
+p41
+I1
+sVhands
+p42
+I1
+sVfront
+p43
+I1
+sV2
+I2
+sVyourself
+p44
+I1
+sVscreaming
+p45
+I1
+sVapart
+p46
+I1
+sVschool
+p47
+I1
+sVpounds
+p48
+I1
+sVturns
+p49
+I3
+sVcry
+p50
+I1
+sVmomma
+p51
+I1
+sVscratchin
+p52
+I1
+sVtheyre
+p53
+I3
+sVtry
+p54
+I1
+sVgood
+p55
+I1
+sVshe
+p56
+I1
+sValways
+p57
+I2
+sVbecome
+p58
+I1
+sVwent
+p59
+I1
+sVem
+p60
+I2
+sVharm
+p61
+I1
+sVright
+p62
+I6
+sVcarter
+p63
+I1
+sVfair
+p64
+I1
+sVyeah
+p65
+I1
+sVdead
+p66
+I1
+sVborn
+p67
+I1
+sVshirts
+p68
+I1
+sVmirror
+p69
+I1
+sVgave
+p70
+I2
+sVpiling
+p71
+I1
+sVarm
+p72
+I2
+sVreally
+p73
+I4
+sVhappens
+p74
+I2
+sVleave
+p75
+I1
+sVgon
+p76
+I1
+sVfor
+p77
+I2
+sVliterally
+p78
+I1
+sVplease
+p79
+I1
+sVdemons
+p80
+I1
+sVeverything
+p81
+I1
+sVbehave
+p82
+I1
+sVgoes
+p83
+I1
+sVit
+p84
+I2
+sVgot
+p85
+I7
+sVever
+p86
+I1
+sVperfect
+p87
+I1
+sVshut
+p88
+I1
+sVconceived
+p89
+I1
+sV10
+p90
+I1
+sVsorrow
+p91
+I3
+sVnever
+p92
+I1
+sVworthless
+p93
+I1
+sVhere
+p94
+I1
+sVeminem
+p95
+I1
+sVlet
+p96
+I1
+sValthough
+p97
+I1
+sVput
+p98
+I1
+sVsing
+p99
+I2
+sVthisll
+p100
+I1
+sVdisappeared
+p101
+I1
+sVcare
+p102
+I1
+sVwalk
+p103
+I1
+sVon
+p104
+I3
+sVlast
+p105
+I1
+sVpt
+p106
+I2
+sVdidnt
+p107
+I1
+sVill
+p108
+I1
+sVsicker
+p109
+I1
+sVleaving
+p110
+I3
+sVturn
+p111
+I1
+sVher
+p112
+I3
+sVstand
+p113
+I1
+sVswing
+p114
+I2
+sVexpression
+p115
+I1
+sVscare
+p116
+I1
+sVblock
+p117
+I1
+sVthats
+p118
+I1
+sVnote
+p119
+I1
+sVlove
+p120
+I3
+sVdont
+p121
+I3
+sVheart
+p122
+I1
+sVfeel
+p123
+I2
+sVmommy
+p124
+I4
+sVyoud
+p125
+I1
+sVpop
+p126
+I1
+sVone
+p127
+I2
+sVjayz
+p128
+I1
+sVtiny
+p129
+I1
+sVsinging
+p130
+I1
+sVspotlight
+p131
+I1
+sVrockabybaby
+p132
+I1
+sVpulls
+p133
+I1
+sVmiss
+p134
+I1
+sVwithcha
+p135
+I1
+sVstage
+p136
+I1
+sVstanding
+p137
+I1
+sVmatchin
+p138
+I1
+sVstory
+p139
+I3
+sVwanted
+p140
+I1
+sVraise
+p141
+I1
+sVwould
+p142
+I3
+sVlying
+p143
+I1
+sVthere
+p144
+I1
+sVlong
+p145
+I1
+sVwhos
+p146
+I1
+sVanyone
+p147
+I1
+sVmuch
+p148
+I1
+sVway
+p149
+I2
+sVtime
+p150
+I1
+sVman
+p151
+I1
+sVtell
+p152
+I2
+sVlisten
+p153
+I8
+sVlife
+p154
+I3
+sVdoor
+p155
+I2
+sVknows
+p156
+I1
+sVhailie
+p157
+I2
+sVcompany
+p158
+I3
+sVsearching
+p159
+I3
+sVhear
+p160
+I1
+sVdeep
+p161
+I1
+sVbaby
+p162
+I3
+sVhold
+p163
+I2
+sVmust
+p164
+I1
+sVme
+p165
+I4
+sVloved
+p166
+I1
+sVrevees
+p167
+I1
+sVmade
+p168
+I4
+sVlook
+p169
+I2
+sVmc
+p170
+I1
+sVtalking
+p171
+I1
+sVavoiding
+p172
+I3
+sVinside
+p173
+I1
+sVtree
+p174
+I1
+sVsoul
+p175
+I3
+sVyouve
+p176
+I1
+sVclaim
+p177
+I1
+sVlocket
+p178
+I1
+sVloves
+p179
+I3
+sVmaking
+p180
+I1
+sVdaddy
+p181
+I9
+sVbites
+p182
+I1
+sVcould
+p183
+I1
+sVsay
+p184
+I3
+sVpushin
+p185
+I1
+sVgone
+p186
+I12
+sVcrazy
+p187
+I1
+sVgive
+p188
+I4
+sVwasnt
+p189
+I2
+sVadaness
+p190
+I1
+sVslim
+p191
+I2
+sVshare
+p192
+I1
+sVmine
+p193
+I1
+sVsurface
+p194
+I1
+sVdaddys
+p195
+I2
+sVtonight
+p196
+I2
+sVsiccamore
+p197
+I1
+sVcant
+p198
+I1
+sVitself
+p199
+I1
+sVim
+p200
+I5
+sVwant
+p201
+I1
+sVtake
+p202
+I1
+sVkeep
+p203
+I2
+sVburried
+p204
+I1
+sVgear
+p205
+I1
+sVshes
+p206
+I1
+sVagain
+p207
+I8
+sVna
+p208
+I1
+sVpurpose
+p209
+I2
+sVwrite
+p210
+I1
+sVconfronted
+p211
+I1
+sVdestroy
+p212
+I1
+sVyou
+p213
+I2
+sVatleast
+p214
+I1
+sVpicture
+p215
+I1
+sVplay
+p216
+I1
+sVpain
+p217
+I2
+sVkeeps
+p218
+I4
+sVchance
+p219
+I1
+sVnecklace
+p220
+I1
+sVwrong
+p221
+I3
+sVplane
+p222
+I1
+sVgloria
+p223
+I1
+sVspitting
+p224
+I1
+sVwheres
+p225
+I1
+sVkid
+p226
+I1
+sVfuckin
+p227
+I1
+sVcause
+p228
+I5
+sVmakes
+p229
+I1
+sVshady
+p230
+I2
+sVyoure
+p231
+I3
+sVwalls
+p232
+I1
+sVkarma
+p233
+I1
+sVmother
+p234
+I1
+sVshadys
+p235
+I2
+sVfirst
+p236
+I1
+sVdream
+p237
+I1
+sVdads
+p238
+I1
+s.

@@ -1,126 +1,964 @@
-"teardrops and closed caskets" lyrics
-2pac lyrics
-"teardrops and closed caskets"
-(hahhh, hahaha) hehehe, word
-it's like all we got left - teardrops and closed caskets
-(throw it up fool, hey ni**a, haha)
-tell me how you feel homey
-(yeah, it took a week to go down)
-you recollects and see how crazy it sounds
-the whole town's on a mission, adolescents (penitentary bound)
-(now introducin young trigga)
-since birth, eyes set on gettin bigger
-just anotha wild-a*s ni**a
-(but he was fiendin for precious) what?
-(but precious was a ghetto girl)
-couldn't be no sex without that gold lexus
-(but lil' trigga was heartbroken, he had to get his papers)
-seein visions of people smokin and ni**az catchin vapors
-got his man from around the corner (we'll call him lil' mo)
-(been in so many reform schools they had to let him go)
-(here's where the plot thickens)
-they got a plot to make a profit with they glocks spittin
-(they call the squad, hittin blocks with they guns blowin)
-(somebody's gonna die tonight)
-still no one's knowin, so they kept goin
-catchin dealers comin out they cars (will they survive?)
-(two semi-automatic nines, them ni**az died)
-(plus nobody in the hood cries, it's like they celebrate
-to death and wish they could die) so peep the lesson
-but wait a minute back to precious
-she's snortin dope in the back seat of trigg's lexus
-teardrops and closed caskets
-will i.. forever be alone
-teardrops and closed caskets
-teardrops and closed caskets
-will i.. forever be alone
-teardrops and closed caskets
-(don't let these ghetto streets get you, precious)
-(was the victim, from a dime to a nickel)
-hopin god's blessings stick with ya
-picture the neighborhood kingpin, who's gettin bigger
-familiar face, but a man now, it's lil' trigga
-now lil' mo was a soldier to the fullest
-down for his homies, always the first to spit bullets
-(all he wanted was to be a thug)
-never pictured his truest homeboy would fall in love
-(here's where it gets ya)
-now precious is pregnant, lil' trigga is happy
-he wants to marry her now (not knowin he ain't the daddy)
-but precious was lonely while lil' trigga was makin dough
-she's slippin in secret places and gettin with lil' mo
-the neighborhood's buzzin, now people are talkin
-lil' trigga's gettin pictures of the both of 'em walkin
-(hand in hand, couldn't understand)
-how his baby's mama could disapear with another man
-(and his best friend)
-now jealousy's dangerous, and if you don't believe me
-then watch the way that this story ends and maybe you'll see
-there ain't no heroes or villains, ain't no pleasure in killin
-just the smoke from the cap peelin a man with no feelings
-teardrops and closed caskets
-will i.. forever be alone
-teardrops and closed caskets
-bury you dead and look ahead
-a man with no feelings
-teardrops and closed caskets
-will i.. forever be alone
-teardrops and closed caskets
-that's all we got left, that's all
-now with the problems of poverty
-and the tricks to these tales
-how many people'll die
-how many'll live to tell
-although best friends before
-lil' trigga and mo
-(they in an all out war, over a fiend they ain't know)
-behind the curtains their privacy lust is already laid down
-the results is the same with different names and it turns out
-y'all know how it is, same old thing in the same old town
-lil' trigg got his nose wide open on this one trick, now he's played out
-think it's lil' mo (was plottin plans on gettin bigger)
-(precious was his way to put his hands on lil' trigga)
-all the while let's look at precious
-too dumb to see what's goin down (too doped up to ask questions)
-used to be comrades (but now we blast on sight)
-what could be so bad (god, will we last tonight?)
-from misdemeanors to felonies, small-time to sellin ki's
-i can't believe the s**t they tellin me
-they open fire, three bodies drop, so call the cops
-(precious, lil' mo and trigg)
-teardrops and closed caskets
-will i.. forever be alone
-aiy qbiii in this motherf**ker
-teardrops and closed caskets
-we dedicate this to all the fallen comrades
-(that's right)
-all the homies that didn't make it to see this day
-(rest in peace)
-will i.. forever be alone
-yaknahmean? i know it's hard out there, heheh
-with teardrops and closed caskets
-it's like that's all we got to look forward to these days
-murders, brothers dyin, funerals
-will i.. forever be alone
-s**t, it's like i done ran out of suits homey
-i done ran out of tears
-know we gon' have to do somethin y'all
-we gon' have to do somethin
-will i.. forever be alone
-cause i know all these mothers is tired of seein the same thing
-(rest in peace)
-teardrops and closed caskets
-i send this out to m'thulu geronimo
-and to, all the fallen comrades, all the soldiers
-will i.. forever be alone
-(to the homey boonie, rest in peace ni**a)
-all the homies that fell, all the homies
-may god bless your families
-may you always live in the motherf**kin heart
-will i.. forever be alone
-in a thug ni**az heart forever
-(that's right)
-rest in peace ni**a
-may your enemies be deceased, dead on the streets
-we can't have peace til the ni**az get a piece
-will i..
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVpiece
+p4
+I1
+sVenemies
+p5
+I1
+sVgods
+p6
+I1
+sVwildas
+p7
+I1
+sVhands
+p8
+I1
+sVrecollects
+p9
+I1
+sVmission
+p10
+I1
+sVrest
+p11
+I4
+sVcries
+p12
+I1
+sValready
+p13
+I1
+sVdough
+p14
+I1
+sVhomeboy
+p15
+I1
+sVvictim
+p16
+I1
+sVgo
+p17
+I2
+sVcorner
+p18
+I1
+sVlexus
+p19
+I2
+sVstill
+p20
+I1
+sVbefore
+p21
+I1
+sVaint
+p22
+I4
+sVdeath
+p23
+I1
+sVgold
+p24
+I1
+sVnines
+p25
+I1
+sVblowin
+p26
+I1
+sVmthulu
+p27
+I1
+sVyoung
+p28
+I1
+sVsend
+p29
+I1
+sVsuits
+p30
+I1
+sVplottin
+p31
+I1
+sVwhole
+p32
+I1
+sVhomies
+p33
+I4
+sVlets
+p34
+I1
+sVright
+p35
+I2
+sVhard
+p36
+I1
+sVfool
+p37
+I1
+sVtown
+p38
+I1
+sVtruest
+p39
+I1
+sVaround
+p40
+I1
+sVget
+p41
+I3
+sVya
+p42
+I2
+sVhopin
+p43
+I1
+sVdope
+p44
+I1
+sVsmalltime
+p45
+I1
+sVwatch
+p46
+I1
+sVmakin
+p47
+I1
+sVdisapear
+p48
+I1
+sVtriggs
+p49
+I1
+sVones
+p50
+I1
+sVspittin
+p51
+I1
+sVknow
+p52
+I5
+sVbirth
+p53
+I1
+sVfall
+p54
+I1
+sVschools
+p55
+I1
+sVaiy
+p56
+I1
+sVfullest
+p57
+I1
+sVfeelings
+p58
+I2
+sVday
+p59
+I1
+sVbigger
+p60
+I3
+sVghetto
+p61
+I2
+sVwhats
+p62
+I1
+sVanotha
+p63
+I1
+sVlike
+p64
+I4
+sVpregnant
+p65
+I1
+sVdie
+p66
+I3
+sVmarry
+p67
+I1
+sVgettin
+p68
+I5
+sVcelebrate
+p69
+I1
+sVhahhh
+p70
+I1
+sVdoped
+p71
+I1
+sVprivacy
+p72
+I1
+sVbad
+p73
+I1
+sVask
+p74
+I1
+sVnose
+p75
+I1
+sVhittin
+p76
+I1
+sValways
+p77
+I2
+sVgeronimo
+p78
+I1
+sVyall
+p79
+I2
+sVminute
+p80
+I1
+sVem
+p81
+I1
+sVahead
+p82
+I1
+sVset
+p83
+I1
+sVneighborhood
+p84
+I1
+sVjealousys
+p85
+I1
+sVpeople
+p86
+I2
+sVteardrops
+p87
+I15
+sVyeah
+p88
+I1
+sVdead
+p89
+I2
+sVsex
+p90
+I1
+sVslippin
+p91
+I1
+sVsee
+p92
+I4
+sVused
+p93
+I1
+sVdumb
+p94
+I1
+sVshes
+p95
+I2
+sVsight
+p96
+I1
+sVsoldiers
+p97
+I1
+sVgirl
+p98
+I1
+sVmothers
+p99
+I1
+sVcouldnt
+p100
+I2
+sVbest
+p101
+I2
+sVout
+p102
+I2
+sVbless
+p103
+I1
+sVwhat
+p104
+I1
+sVgon
+p105
+I3
+sVreform
+p106
+I1
+sVprofit
+p107
+I1
+sVpictures
+p108
+I1
+sVtales
+p109
+I1
+sVsince
+p110
+I1
+sVkis
+p111
+I1
+sVbehind
+p112
+I1
+sVtears
+p113
+I1
+sVclosed
+p114
+I15
+sVgot
+p115
+I6
+sVyoull
+p116
+I1
+sVguns
+p117
+I1
+sVpictured
+p118
+I1
+sVwide
+p119
+I1
+sVforward
+p120
+I1
+sVends
+p121
+I1
+sVgod
+p122
+I2
+sVcars
+p123
+I1
+sVnever
+p124
+I1
+sVkillin
+p125
+I1
+sVlet
+p126
+I2
+sVsmokin
+p127
+I1
+sValthough
+p128
+I1
+sValone
+p129
+I10
+sVprecious
+p130
+I9
+sVcaskets
+p131
+I15
+sVbury
+p132
+I1
+sVthrow
+p133
+I1
+sVwait
+p134
+I1
+sVmurders
+p135
+I1
+sVlast
+p136
+I1
+sVwould
+p137
+I1
+sVknowin
+p138
+I2
+sVyaknahmean
+p139
+I1
+sVdyin
+p140
+I1
+sVmany
+p141
+I2
+sVcould
+p142
+I3
+sVtriggas
+p143
+I1
+sVput
+p144
+I1
+sVdedicate
+p145
+I1
+sVwalkin
+p146
+I1
+sVsoldier
+p147
+I1
+sVblessings
+p148
+I1
+sVplus
+p149
+I1
+sVbrothers
+p150
+I1
+sVpenitentary
+p151
+I1
+sVheartbroken
+p152
+I1
+sVpoverty
+p153
+I1
+sVmisdemeanors
+p154
+I1
+sVadolescents
+p155
+I1
+sVthink
+p156
+I1
+sVcause
+p157
+I1
+sVfirst
+p158
+I1
+sVhehehe
+p159
+I1
+sVlove
+p160
+I1
+sVdont
+p161
+I2
+sVheart
+p162
+I2
+sVfeel
+p163
+I1
+sVbound
+p164
+I1
+sVmay
+p165
+I3
+sVvapors
+p166
+I1
+sVdown
+p167
+I2
+sVhes
+p168
+I1
+sVmotherfker
+p169
+I1
+sVdone
+p170
+I2
+sVnames
+p171
+I1
+sVanother
+p172
+I1
+sVcomin
+p173
+I1
+sVfiend
+p174
+I1
+sVsounds
+p175
+I1
+sVvisions
+p176
+I1
+sVpeep
+p177
+I1
+sVhood
+p178
+I1
+sVplot
+p179
+I2
+sVstory
+p180
+I1
+sVwanted
+p181
+I1
+sVfelonies
+p182
+I1
+sVseein
+p183
+I2
+sVniaz
+p184
+I4
+sVglocks
+p185
+I1
+sVfunerals
+p186
+I1
+sVlive
+p187
+I2
+sVhey
+p188
+I1
+sVwhos
+p189
+I1
+sVsecret
+p190
+I1
+sVcall
+p191
+I3
+sVkingpin
+p192
+I1
+sVway
+p193
+I2
+sVmama
+p194
+I1
+sVsurvive
+p195
+I1
+sVgoin
+p196
+I2
+sVtell
+p197
+I2
+sVfriend
+p198
+I1
+sVhappy
+p199
+I1
+sVwants
+p200
+I1
+sVcurtains
+p201
+I1
+sVeyes
+p202
+I1
+sVstreets
+p203
+I2
+sVnickel
+p204
+I1
+sVspit
+p205
+I1
+sVsomethin
+p206
+I2
+sVfire
+p207
+I1
+sVbelieve
+p208
+I2
+sVnobody
+p209
+I1
+sVhaha
+p210
+I1
+sVtook
+p211
+I1
+sVback
+p212
+I2
+sVcops
+p213
+I1
+sVcatchin
+p214
+I2
+sVunderstand
+p215
+I1
+sVstick
+p216
+I1
+sVfallen
+p217
+I2
+sVtowns
+p218
+I1
+sVseat
+p219
+I1
+sV2pac
+p220
+I1
+sVme
+p221
+I2
+sVlust
+p222
+I1
+sVbabys
+p223
+I1
+sVmotherfkin
+p224
+I1
+sVword
+p225
+I1
+sVlook
+p226
+I3
+sVplaces
+p227
+I1
+sVwish
+p228
+I1
+sVmo
+p229
+I6
+sVhomey
+p230
+I3
+sVlaid
+p231
+I1
+sVtellin
+p232
+I1
+sVwar
+p233
+I1
+sVtrick
+p234
+I1
+sVplans
+p235
+I1
+sVthree
+p236
+I1
+sVfamiliar
+p237
+I1
+sVhahaha
+p238
+I1
+sVboonie
+p239
+I1
+sVdaddy
+p240
+I1
+sVdidnt
+p241
+I1
+sVdeceased
+p242
+I1
+sVtrigga
+p243
+I7
+sVcrazy
+p244
+I1
+sVdangerous
+p245
+I1
+sVvillains
+p246
+I1
+sVplayed
+p247
+I1
+sVran
+p248
+I2
+sVone
+p249
+I1
+sVdays
+p250
+I1
+sVtonight
+p251
+I2
+sVcant
+p252
+I2
+sVlonely
+p253
+I1
+sVcomrades
+p254
+I3
+sVheheh
+p255
+I1
+sVturns
+p256
+I1
+sVthug
+p257
+I2
+sVfamilies
+p258
+I1
+sVst
+p259
+I2
+sVsomebodys
+p260
+I1
+sVdifferent
+p261
+I1
+sVmaybe
+p262
+I1
+sVpeelin
+p263
+I1
+sVopen
+p264
+I2
+sVthing
+p265
+I2
+sVlil
+p266
+I13
+sVna
+p267
+I1
+sVmake
+p268
+I2
+sVpeace
+p269
+I5
+sVtired
+p270
+I1
+sVsemiautomatic
+p271
+I1
+sVtil
+p272
+I1
+sVtrigg
+p273
+I2
+sVold
+p274
+I2
+sVsquad
+p275
+I1
+sVpapers
+p276
+I1
+sVbuzzin
+p277
+I1
+sVqbiii
+p278
+I1
+sVgets
+p279
+I1
+sVtalkin
+p280
+I1
+sVweek
+p281
+I1
+sVpicture
+p282
+I1
+sVmanyll
+p283
+I1
+sVblocks
+p284
+I1
+sVintroducin
+p285
+I1
+sVdime
+p286
+I1
+sVquestions
+p287
+I1
+sVlesson
+p288
+I1
+sVnia
+p289
+I4
+sVproblems
+p290
+I1
+sVhand
+p291
+I2
+sVfell
+p292
+I1
+sVbullets
+p293
+I1
+sVtwo
+p294
+I1
+sVpleasure
+p295
+I1
+sVheroes
+p296
+I1
+sVcap
+p297
+I1
+sVfriends
+p298
+I1
+sVresults
+p299
+I1
+sVdied
+p300
+I1
+sVman
+p301
+I5
+sVsmoke
+p302
+I1
+sVforever
+p303
+I11
+sVdrop
+p304
+I1
+sVkept
+p305
+I1
+sVdealers
+p306
+I1
+sVneighborhoods
+p307
+I1
+sVi
+I1
+sVthickens
+p308
+I1
+sVtricks
+p309
+I1
+sVsellin
+p310
+I1
+sVwell
+p311
+I1
+sVsnortin
+p312
+I1
+sVface
+p313
+I1
+sVheres
+p314
+I2
+sVblast
+p315
+I1
+sVwithout
+p316
+I1
+sVpeoplell
+p317
+I1
+sVfiendin
+p318
+I1
+sVthats
+p319
+I5
+sVbodies
+p320
+I1
+sVleft
+p321
+I2
+s.

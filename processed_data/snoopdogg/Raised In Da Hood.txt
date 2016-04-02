@@ -1,66 +1,536 @@
-"raised in da hood" lyrics
-snoop dogg lyrics
-"raised in da hood"
-(i was raised in the hood)
-eastside long beach to be exact
-(i was raised in the hood)
-where the grass is greener and the crips are much meaner
-(we got ya, back, i was raised in the hood)
-i'll never turn my back on the hood
-(i was raised in the hood)
-yeah you can take me out the hood
-but you can't take the hood up outta me
-raised by the gangstas, the generals, the thieves, the twins
-yeah i'm stealing niggas, please what you know bout that
-i do it everytime, told em 1800 had em mixing it with lime (oh weee)
-my life is like a movie, i was thuggin in the beach when i lit my first doobie
-in the same city where i got my first piece of coochie
-where i sold my first dime, and i held my first uzi
-bitch, choose me, cause i'm going to the top
-rap or the rock, them hoes say i'm on bitch
-whenever will it stop
-i was poppin' like it's on, slamming chevy's up the block
-east up, what it do though
-now i ride 2-door, the porsche looking mean
-hella far from broke, the 40 won't choke plus a niggas still elope
-only cause i was raised in the hood
-i was raised in the hood (the hood, the hood, the hood)
-i was raised in the hood (the hood, the hood, the hood)
-we got ya back
-i was raised in the hood (the hood, the hood, the hood)
-i was raised in the hood (the hood, the hood, the hood)
-we got ya back
-raised by the monsters the criminals
-the g's, it was ? the niggas on the east
-what you know bout that?
-snoopy in his prime, i'm a boss
-i catch a nigga slippin' like moss
-ride with the realest , i've been on it since a young'n
-it's 200 bitches in the function
-looking cool, you know it bitchy i'm rollin'
-and i aint worried bout them niggas we patrolling the hood and the city
-rollin on that dilly
-2 milly, 2 bugatti's, call em rozay and diddy
-heart of the set, homie i'm a vet
-lil nigga, keep ya clothes, ask around,
-i'm a rep, east up, what it do though
-hoes spillin' nuvo, doggy on his tip
-i threw up the two o
-hella far from broke, the 40 won't choke plus a niggas still elope
-only cause i was raised in the hood
-raised by them hustlas them dealers on the block
-it was plenty of them niggas on the spot
-what you know bout that?
-turned up fully
-the hood raised me, gang-banging made me a bully, ya dig
-burnt out and any party we at, you know it's turned out
-the people talking the rumours
-now what you heard about?
-how i spend 100 thou gettin' purped out
-i'm strapped up, i keep a pistol for these suckers tryna act up
-they know i'm famous like i won't get in the streets cuz
-like i don't come from the w, i'm a beast bru
-what it do though, dickies for the dulo
-homie, you know skinny niggas sumo
-hella far from broke, the 40 won't choke plus a niggas still elope
-only cause i was raised in the hood
+(dp1
+Vsince
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVnuvo
+p5
+I1
+sVyoungn
+p6
+I1
+sVheld
+p7
+I1
+sVpurped
+p8
+I1
+sVdiddy
+p9
+I1
+sVslippin
+p10
+I1
+sVstill
+p11
+I3
+sVdont
+p12
+I1
+sVaint
+p13
+I1
+sVvet
+p14
+I1
+sVburnt
+p15
+I1
+sVpoppin
+p16
+I1
+sVcuz
+p17
+I1
+sVthieves
+p18
+I1
+sVchoose
+p19
+I1
+sVplenty
+p20
+I1
+sVbout
+p21
+I4
+sVeast
+p22
+I3
+sVprime
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I1
+sVfar
+p26
+I3
+sVstop
+p27
+I1
+sVda
+p28
+I2
+sVheard
+p29
+I1
+sVfamous
+p30
+I1
+sVknow
+p31
+I7
+sVsnoopy
+p32
+I1
+sVmixing
+p33
+I1
+sV2
+I2
+sVexact
+p34
+I1
+sVcool
+p35
+I1
+sVwont
+p36
+I4
+sVgoing
+p37
+I1
+sVpistol
+p38
+I1
+sVlike
+p39
+I5
+sVeverytime
+p40
+I1
+sVfully
+p41
+I1
+sVchevys
+p42
+I1
+sVdig
+p43
+I1
+sVworried
+p44
+I1
+sVrock
+p45
+I1
+sV2door
+p46
+I1
+sVmean
+p47
+I1
+sVem
+p48
+I3
+sVnigga
+p49
+I2
+sVpeople
+p50
+I1
+sVstreets
+p51
+I1
+sVyeah
+p52
+I2
+sVup
+p53
+I1
+sVstealing
+p54
+I1
+sVout
+p55
+I2
+sVmovie
+p56
+I1
+sVrep
+p57
+I1
+sVthough
+p58
+I3
+sVplease
+p59
+I1
+sVlooking
+p60
+I2
+sVtwins
+p61
+I1
+sVgot
+p62
+I4
+sVdoggy
+p63
+I1
+sVcause
+p64
+I4
+sVmonsters
+p65
+I1
+sVtold
+p66
+I1
+sVbully
+p67
+I1
+sVrumours
+p68
+I1
+sVstrapped
+p69
+I1
+sVsold
+p70
+I1
+sVnever
+p71
+I1
+sVboss
+p72
+I1
+sVask
+p73
+I1
+sVsuckers
+p74
+I1
+sV100
+p75
+I1
+sVcome
+p76
+I1
+sVcoochie
+p77
+I1
+sVabout
+p78
+I1
+sVgenerals
+p79
+I1
+sVoh
+p80
+I1
+sVthou
+p81
+I1
+sVeastside
+p82
+I1
+sVchoke
+p83
+I3
+sVo
+I1
+sVkeep
+p84
+I2
+sVturn
+p85
+I1
+sVbugattis
+p86
+I1
+sVplus
+p87
+I3
+sVw
+I1
+sVact
+p88
+I1
+sVclothes
+p89
+I1
+sVblock
+p90
+I2
+sVfirst
+p91
+I4
+sVraised
+p92
+I17
+sVhustlas
+p93
+I1
+sVuzi
+p94
+I1
+sVheart
+p95
+I1
+sVbru
+p96
+I1
+sVset
+p97
+I1
+sVbitch
+p98
+I2
+sVhoes
+p99
+I2
+sVhood
+p100
+I30
+sVlime
+p101
+I1
+sVcity
+p102
+I2
+sVcriminals
+p103
+I1
+sVsnoop
+p104
+I1
+sVdogg
+p105
+I1
+sVtop
+p106
+I1
+sVporsche
+p107
+I1
+sVpatrolling
+p108
+I1
+sVtwo
+p109
+I1
+sVlong
+p110
+I1
+sVdickies
+p111
+I1
+sVmuch
+p112
+I1
+sVcall
+p113
+I1
+sVcrips
+p114
+I1
+sVthrew
+p115
+I1
+sVfunction
+p116
+I1
+sVtryna
+p117
+I1
+sVlife
+p118
+I1
+sVthat
+p119
+I3
+sVturned
+p120
+I2
+sVbitches
+p121
+I1
+sVback
+p122
+I4
+sVgettin
+p123
+I1
+sVbroke
+p124
+I3
+sVcatch
+p125
+I1
+sVdulo
+p126
+I1
+sVme
+p127
+I1
+sVmade
+p128
+I1
+sVelope
+p129
+I3
+sVniggas
+p130
+I8
+sVdoobie
+p131
+I1
+sVride
+p132
+I2
+sVsay
+p133
+I1
+sVthuggin
+p134
+I1
+sVpiece
+p135
+I1
+sVill
+p136
+I1
+sVive
+p137
+I1
+sVoutta
+p138
+I1
+sVmeaner
+p139
+I1
+sVgreener
+p140
+I1
+sVgangstas
+p141
+I1
+sVtalking
+p142
+I1
+sVcant
+p143
+I1
+sVhomie
+p144
+I2
+sVim
+p145
+I10
+sVrap
+p146
+I1
+sVmilly
+p147
+I1
+sVlil
+p148
+I1
+sVgangbanging
+p149
+I1
+sVrealest
+p150
+I1
+sVtip
+p151
+I1
+sV40
+p152
+I3
+sVlit
+p153
+I1
+sVya
+p154
+I5
+sVdilly
+p155
+I1
+sVtake
+p156
+I2
+sVslamming
+p157
+I1
+sVparty
+p158
+I1
+sVbeach
+p159
+I2
+sV200
+p160
+I1
+sVspillin
+p161
+I1
+sVdime
+p162
+I1
+sVrozay
+p163
+I1
+sVspot
+p164
+I1
+sVweee
+p165
+I1
+sVbeast
+p166
+I1
+sVmoss
+p167
+I1
+sVbitchy
+p168
+I1
+sVsumo
+p169
+I1
+sVdealers
+p170
+I1
+sV1800
+p171
+I1
+sVwhenever
+p172
+I1
+sVgrass
+p173
+I1
+sVrollin
+p174
+I2
+sVhella
+p175
+I3
+sVskinny
+p176
+I1
+sVspend
+p177
+I1
+s.

@@ -1,62 +1,572 @@
-"party going on" lyrics
-mc lyte lyrics
-"party going on"
-(feat. inaya day)
-mmmm, mmmm
-oh oh, oh oh
-mmmm yeah, oh yeah
-mmmm, oh oh
-there's a party goin' on in my hotel room
-and you're invited, all you got to do is show up
-now we done left the venue 'coz the show was done
-before we hit the hotel, make a quick run
-to get the martel to add to the fun, meet me at suite room 151
-byob, we about to kick it off
-remember that party last year in the loft?
-this'll be better 'coz we bigger now
-got mo' figures now, fit in mo' niggas now
-i got about 30 of the finest
-ready to get flirty and down right do-dirty
-we got twister the dots mean a lot
-when you flip the dial end up with a face in your twot
-stop yappin' at the dj, that ain't right
-'coz tonight this here dj, he gon' save my life... (woah, woah)
-now the people are comin', and the party is jumpin'...
-...and t is on the beat box
-and after this song he'll rock the locks
-hotel security ain't troublin' us none
-they partyin' with us, no badge and no gun
-grown folks in the livin' room showin' out
-and they ain't leavin' till we kick 'em all out
-strip poker, truth or dare
-i swear it's about to get sticky up in here
-back back and forth and forth
-from new york to l.a and back to new york
-of course while i'm in town it's gotta be nice
-on the north-east corner they're flippin' the dice
-now the bubbly's poppin' all over the suite
-swig on this and kick up your feet
-ain't no party like an mc lyte party 'coz an mc lyte party don't stop, pops
-and this here's better than when the ball drops
-now here's the e-low, jackie and mark
-done hit the back room to jump start the sparks
-it's gettin' all hot, now they pumpin' beenie man
-scream for the cream, but holler when you see me man
-you know like i know, the party don't end till i say when
-now the grub is runnin' out better get it while you can
-pick is gettin' low better find you a man
-slow jam hit and you sittin' all alone
-ain't nobody gonna take you're borin' ass home
-it wouldn't be fair for me to not tell you
-i'm the hostess of the year, keep it in the clear
-yo, the party's over here, nope, the party's right here
-be careful not to wear and tear the derrier
-now ain't that supmthin', humpin' and a bumpin'
-my motto is never let 'em see you comin'
-a party like this can't be compared
-that's why it only goes down once a year...
-...and we in here, yeah yeah yeah..
-there's a party goin' on in my hotel room
-you know you gotta do, what you gotta do
-what you gotta do, what you gotta do...
-show up baby, show up baby...
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I4
+sVpops
+p4
+I1
+sVcourse
+p5
+I1
+sVhell
+p6
+I1
+sVfeat
+p7
+I1
+sVfind
+p8
+I1
+sVaint
+p9
+I6
+sVnortheast
+p10
+I1
+sVdice
+p11
+I1
+sVfit
+p12
+I1
+sVla
+p13
+I1
+sVsparks
+p14
+I1
+sVpoppin
+p15
+I1
+sVborin
+p16
+I1
+sVbetter
+p17
+I4
+sVadd
+p18
+I1
+sVgoing
+p19
+I2
+sVdare
+p20
+I1
+sVfolks
+p21
+I1
+sVsuite
+p22
+I2
+sVsave
+p23
+I1
+sVkick
+p24
+I3
+sVta
+p25
+I5
+sVrunnin
+p26
+I1
+sVdj
+p27
+I2
+sVlivin
+p28
+I1
+sVyo
+p29
+I1
+sVget
+p30
+I4
+sVbeat
+p31
+I1
+sVpumpin
+p32
+I1
+sVswig
+p33
+I1
+sVsittin
+p34
+I1
+sVstop
+p35
+I2
+sVknow
+p36
+I3
+sVnew
+p37
+I2
+sVnow
+p38
+I2
+sVday
+p39
+I1
+sVbigger
+p40
+I1
+sVlike
+p41
+I3
+sVtear
+p42
+I1
+sVforth
+p43
+I2
+sVniggas
+p44
+I1
+sVvenue
+p45
+I1
+sVgun
+p46
+I1
+sVtheyre
+p47
+I1
+sVtruth
+p48
+I1
+sVrock
+p49
+I1
+sVquick
+p50
+I1
+sVsecurity
+p51
+I1
+sVmo
+p52
+I2
+sVmean
+p53
+I1
+sVem
+p54
+I2
+sVright
+p55
+I3
+sVbubblys
+p56
+I1
+sVpeople
+p57
+I1
+sVstrip
+p58
+I1
+sVyeah
+p59
+I5
+sVjump
+p60
+I1
+sVsee
+p61
+I2
+sVball
+p62
+I1
+sVholler
+p63
+I1
+sVyear
+p64
+I3
+sVhome
+p65
+I1
+sVout
+p66
+I2
+sVman
+p67
+I3
+sVdial
+p68
+I1
+sVgon
+p69
+I2
+sVhostess
+p70
+I1
+sVheres
+p71
+I2
+sVwouldnt
+p72
+I1
+sVnope
+p73
+I1
+sVgoes
+p74
+I1
+sVgot
+p75
+I9
+sVbadge
+p76
+I1
+sVcan
+p77
+I1
+sVass
+p78
+I1
+sVrun
+p79
+I1
+sVdo
+p80
+I2
+sVnever
+p81
+I1
+sVhere
+p82
+I2
+sVslow
+p83
+I1
+sVlet
+p84
+I1
+sVyork
+p85
+I2
+sValone
+p86
+I1
+sVmotto
+p87
+I1
+sVbox
+p88
+I1
+sVon
+p89
+I1
+sVlast
+p90
+I1
+sVbeenie
+p91
+I1
+sVoh
+p92
+I7
+sVinvited
+p93
+I1
+sVcoz
+p94
+I4
+sVjackie
+p95
+I1
+sVkeep
+p96
+I1
+sVswear
+p97
+I1
+sVfigures
+p98
+I1
+sVpick
+p99
+I1
+sVwear
+p100
+I1
+sVfinest
+p101
+I1
+sVdont
+p102
+I2
+sVhumpin
+p103
+I1
+sVfeet
+p104
+I1
+sVthisll
+p105
+I1
+sVdone
+p106
+I3
+sVcomin
+p107
+I2
+sVsupmthin
+p108
+I1
+sVgrub
+p109
+I1
+sVlyte
+p110
+I3
+sVmark
+p111
+I1
+sVstart
+p112
+I1
+sVjam
+p113
+I1
+sVlow
+p114
+I1
+sVlot
+p115
+I1
+sVtwister
+p116
+I1
+sVyappin
+p117
+I1
+sVdots
+p118
+I1
+sVmartel
+p119
+I1
+sVlife
+p120
+I1
+sVloft
+p121
+I1
+sVhotel
+p122
+I4
+sVinaya
+p123
+I1
+sVcant
+p124
+I1
+sVback
+p125
+I4
+sVmmmm
+p126
+I4
+sVgettin
+p127
+I2
+sVcorner
+p128
+I1
+sVtroublin
+p129
+I1
+sVbaby
+p130
+I2
+sVcareful
+p131
+I1
+sVtown
+p132
+I1
+sVnone
+p133
+I1
+sVroom
+p134
+I5
+sVmc
+p135
+I3
+sVlocks
+p136
+I1
+sVdodirty
+p137
+I1
+sVderrier
+p138
+I1
+sVflip
+p139
+I1
+sVus
+p140
+I2
+sVtell
+p141
+I1
+sVbyob
+p142
+I1
+sVpartyin
+p143
+I1
+sVfun
+p144
+I1
+sVmeet
+p145
+I1
+sVtwot
+p146
+I1
+sVdrops
+p147
+I1
+sVtheres
+p148
+I2
+sV151
+p149
+I1
+sVelow
+p150
+I1
+sV30
+p151
+I1
+sVpartys
+p152
+I2
+sVshowin
+p153
+I1
+sVsticky
+p154
+I1
+sVtonight
+p155
+I1
+sVwoah
+p156
+I2
+sVsay
+p157
+I1
+sVim
+p158
+I2
+sVready
+p159
+I1
+sVhit
+p160
+I3
+sVcream
+p161
+I1
+sVgrown
+p162
+I1
+sVcompared
+p163
+I1
+sVend
+p164
+I2
+sVna
+p165
+I1
+sVmake
+p166
+I1
+sVsong
+p167
+I1
+sVwhen
+p168
+I1
+sVtill
+p169
+I2
+sVhot
+p170
+I1
+sVtake
+p171
+I1
+sVparty
+p172
+I11
+sVyou
+p173
+I1
+sVnice
+p174
+I1
+sVpoker
+p175
+I1
+sVleavin
+p176
+I1
+sVbumpin
+p177
+I1
+sVjumpin
+p178
+I1
+sVfair
+p179
+I1
+sVgoin
+p180
+I2
+sVflirty
+p181
+I1
+sVoff
+p182
+I1
+sVremember
+p183
+I1
+sVnobody
+p184
+I1
+sVclear
+p185
+I1
+sVyoure
+p186
+I2
+sVface
+p187
+I1
+sVflippin
+p188
+I1
+sVthats
+p189
+I1
+sVscream
+p190
+I1
+sVleft
+p191
+I1
+s.

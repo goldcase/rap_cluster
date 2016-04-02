@@ -1,71 +1,524 @@
-crack music lyrics
-kanye west lyrics
-crack music
-feat game
-thats crack music nigga
-real black music nigga
-lalalalalalalala
-lalalalalala
-thats crack music nigga
-real black music nigga
-lalalalalalalala
-lalalalalala
-stop black panthers
-ronald reagan cooked answer
-hear that
-jill scott hearin
-heroes heroines got hooked heroin
-crack raised murder rate dc maryland
-invested like got merrillynched
-hangin tree ever since
-sometimes feel music medicine
-cook cut measure bag itsell it
-fiends cop it
-nowadays cant tell thats good shit
-aint sure man
-put cd toungue yeah thats pure man
-place fathers gone
-mothers hardly home
-the
-gonna lock us audy home
-mexicans say tryin party homes
-wanna pack us box like styrofoam
-gave saddam anthrax
-george bush got answers
-back hood different type chemical
-hammer baking soda
-raised quota
-writin soldiers ran stove cuz
-cuz dreams hova went bein brokeman ta bein dopeman
-ta bein president look theres hope man
-inspiration tha mos tha folks man
-shorty come see mama straight overdosin
-soundtrack
-tha type music make round that
-crack music nigga
-real black music nigga
-thats crack music nigga
-real black music nigga
-lalalalalalalala
-lalalalalala
-godhow could let happen happen happen happen happen happen
-lalala
-thats crack music crack music
-real black music black music
-lalalalalalalala
-lalalalalala
-thats crack music nigga
-real black music nigga
-lalalalalalalala
-lalalalalala
-thats crack music crack musicthat real black music black music
-father give us day daily bread give us days take daily bread
-see done ole bullshit
-attone throw little somethin somethin pulpit
-took shit measured cooked shit
-gave back crack music
-ooze nooks crannies
-mammas aint got cooks nannies
-gonna repo everything ever took granny
-former slaves trade hooks grammys
-dark diction become americas addiction aint even black use it
+(dp1
+Vlyrics
+p2
+I2
+sVhooks
+p3
+I1
+sVstove
+p4
+I1
+sVtrade
+p5
+I1
+sVtoungue
+p6
+I1
+sVscott
+p7
+I1
+sVkanye
+p8
+I1
+sVpanthers
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I3
+sVchemical
+p12
+I1
+sVcut
+p13
+I1
+sVfather
+p14
+I1
+sVcuz
+p15
+I2
+sVday
+p16
+I1
+sVbush
+p17
+I1
+sVblack
+p18
+I11
+sVcrannies
+p19
+I1
+sVgodhow
+p20
+I1
+sVcrack
+p21
+I13
+sVfolks
+p22
+I1
+sVmaryland
+p23
+I1
+sVhope
+p24
+I1
+sVgave
+p25
+I2
+sVreal
+p26
+I7
+sVgood
+p27
+I1
+sVmos
+p28
+I1
+sVbein
+p29
+I3
+sVstop
+p30
+I1
+sVdc
+p31
+I1
+sVrepo
+p32
+I1
+sVgame
+p33
+I1
+sVhearin
+p34
+I1
+sVcook
+p35
+I1
+sVstyrofoam
+p36
+I1
+sVdreams
+p37
+I1
+sVbread
+p38
+I2
+sVcooks
+p39
+I1
+sVbaking
+p40
+I1
+sVlike
+p41
+I2
+sVmammas
+p42
+I1
+sVmothers
+p43
+I1
+sVbag
+p44
+I1
+sVheroines
+p45
+I1
+sVbecome
+p46
+I1
+sVwent
+p47
+I1
+sVround
+p48
+I1
+sVnigga
+p49
+I10
+sVole
+p50
+I1
+sVfathers
+p51
+I1
+sVyeah
+p52
+I1
+sVrate
+p53
+I1
+sVmeasure
+p54
+I1
+sVhome
+p55
+I2
+sVhappen
+p56
+I6
+sVlalala
+p57
+I1
+sVhammer
+p58
+I1
+sVeven
+p59
+I1
+sVgon
+p60
+I2
+sVdiction
+p61
+I1
+sVsince
+p62
+I1
+sVhooked
+p63
+I1
+sVeverything
+p64
+I1
+sVmexicans
+p65
+I1
+sVpulpit
+p66
+I1
+sVnooks
+p67
+I1
+sVmedicine
+p68
+I1
+sVgot
+p69
+I4
+sVever
+p70
+I2
+sVdopeman
+p71
+I1
+sVmerrillynched
+p72
+I1
+sVanswers
+p73
+I1
+sVjill
+p74
+I1
+sVsoldiers
+p75
+I1
+sVput
+p76
+I1
+sVcome
+p77
+I1
+sVthrow
+p78
+I1
+sVmusicthat
+p79
+I1
+sVbox
+p80
+I1
+sVcop
+p81
+I1
+sVcould
+p82
+I1
+sVdays
+p83
+I1
+sVamericas
+p84
+I1
+sVbrokeman
+p85
+I1
+sVheroin
+p86
+I1
+sVplace
+p87
+I1
+sVsoda
+p88
+I1
+sVlet
+p89
+I1
+sVtheres
+p90
+I1
+sVthats
+p91
+I8
+sVraised
+p92
+I2
+sVwritin
+p93
+I1
+sVfeel
+p94
+I1
+sVreagan
+p95
+I1
+sVcd
+p96
+I1
+sVdone
+p97
+I1
+sVnowadays
+p98
+I1
+sVgeorge
+p99
+I1
+sVhood
+p100
+I1
+sVwan
+p101
+I1
+sVlittle
+p102
+I1
+sVinspiration
+p103
+I1
+sVwest
+p104
+I1
+sVoverdosin
+p105
+I1
+sVmusic
+p106
+I22
+sVmama
+p107
+I1
+sVlalalalalala
+p108
+I5
+sVtryin
+p109
+I1
+sVhardly
+p110
+I1
+sVtell
+p111
+I1
+sVbullshit
+p112
+I1
+sVmurder
+p113
+I1
+sVthat
+p114
+I2
+sVshorty
+p115
+I1
+sVback
+p116
+I2
+sVhear
+p117
+I1
+sVgranny
+p118
+I1
+sVformer
+p119
+I1
+sVhomes
+p120
+I1
+sVfiends
+p121
+I1
+sVlook
+p122
+I1
+sVtype
+p123
+I2
+sVstraight
+p124
+I1
+sVtree
+p125
+I1
+sVsay
+p126
+I1
+sVus
+p127
+I4
+sVsoundtrack
+p128
+I1
+sVooze
+p129
+I1
+sVta
+p130
+I2
+sVpack
+p131
+I1
+sVgone
+p132
+I1
+sVgive
+p133
+I2
+sVran
+p134
+I1
+sVlock
+p135
+I1
+sVit
+p136
+I3
+sVaudy
+p137
+I1
+sVcant
+p138
+I1
+sVanthrax
+p139
+I1
+sVitsell
+p140
+I1
+sVshit
+p141
+I3
+sVdifferent
+p142
+I1
+sVna
+p143
+I3
+sVmake
+p144
+I1
+sVattone
+p145
+I1
+sVlalalalalalalala
+p146
+I5
+sVtake
+p147
+I1
+sVpure
+p148
+I1
+sVanswer
+p149
+I1
+sVparty
+p150
+I1
+sVhangin
+p151
+I1
+sVhova
+p152
+I1
+sVgrammys
+p153
+I1
+sVsure
+p154
+I1
+sVsee
+p155
+I2
+sVsaddam
+p156
+I1
+sVuse
+p157
+I1
+sVquota
+p158
+I1
+sVtook
+p159
+I2
+sVronald
+p160
+I1
+sVinvested
+p161
+I1
+sVdark
+p162
+I1
+sVpresident
+p163
+I1
+sVheroes
+p164
+I1
+sVnannies
+p165
+I1
+sVmeasured
+p166
+I1
+sVaddiction
+p167
+I1
+sVman
+p168
+I4
+sVsomethin
+p169
+I2
+sVsometimes
+p170
+I1
+sVdaily
+p171
+I2
+sVcooked
+p172
+I2
+sVslaves
+p173
+I1
+sVthe
+p174
+I1
+sVtha
+p175
+I3
+s.

@@ -1,63 +1,547 @@
-"mean & vicious" lyrics
-lupe fiasco lyrics
-"mean & vicious"
-uuhhh
-he's meannnnnn
-and vicious
-i can't believe he's that rude
-to those stories those rhymes that jew
-then he put 'em on the floor like cat food (meow)
-and put 'em on the track like glue
-then put 'em on your head like hat
-hey back to you lu black power
-i'm just running with a barrel full of black powder
-with a hole in it hole in it wheezin deep, breathing
-running from the fire on the trail i keep leaving
-i can't shake it i swear it's heat seeking
-i keep seeking somewhere to hide from it i can die from it
-but it keep keeping up just when i think that i've done it
-it keep sneakin up
-ohh leaking barrel of black powder how that flame keep reaching us
-just one of the long rended extended metaphors a lose
-this time i use an example of a fuse
-to demonstrate how i can't lose
-i would put it down but i can't due to the glue
-that i use the fuse everything together
-well i spill some on my hands
-and god damn i might have to carry this forever
-well i'm crazy to the game till they bury me insane
-there once was a boy that grew up on the west side of chicago
-liked his hat to the left side
-wasn't in a gang but he was prone to bang
-doing his thanngg doin his thang
-there once was a boy that grew up on the west side of chicago
-liked his hat to the left side
-wasn't in a gang but he was known to bang (uuhh) like
-doing his thanngg (yeah) doin his thang
-truthfully i have trouble with second verses
-cause the first one be so intimidating
-it'd be bullying and picking on it instigating
-pointing out all the second ones limitations
-like you ain't nothing but an imitation
-like betcha baking then it gets the chorus
-and the beat to together then they gang up on him and get to hating
-but then around the 8th bar he tired
-so they conspire and comiserating then he find his inspiration
-to spar he takes a few seconds of judo lessons
-gets back on beat then punches the guitar
-they stand in awe like when did you write that
-they even right black
-first verse already happened
-so he don't have a chance to fight back
-i like that
-abagnale junior check me
-you gonna respect me
-a 8 track listen to em feelin himself
-swagger up and a few ad libs to back it up
-let's back it up
-i think you've had enough
-give me my mic back
-you ain't even write that
-oh it's like that
-track stop pumping till this nigga stop fronting
-yeah yeah now right back
+(dp1
+Vlyrics
+p2
+I2
+sVitd
+p3
+I1
+sVverses
+p4
+I1
+sVspar
+p5
+I1
+sVgang
+p6
+I3
+sVshake
+p7
+I1
+sVconspire
+p8
+I1
+sVglue
+p9
+I2
+sVfind
+p10
+I1
+sVaint
+p11
+I2
+sVbetcha
+p12
+I1
+sVpointing
+p13
+I1
+sVsomewhere
+p14
+I1
+sVthang
+p15
+I2
+sVbeat
+p16
+I2
+sVverse
+p17
+I1
+sVlu
+p18
+I1
+sVblack
+p19
+I4
+sV8
+I1
+sVmight
+p20
+I1
+sVinstigating
+p21
+I1
+sVhappened
+p22
+I1
+sVbreathing
+p23
+I1
+sVaround
+p24
+I1
+sVseeking
+p25
+I2
+sVfood
+p26
+I1
+sVstop
+p27
+I2
+sVfeelin
+p28
+I1
+sVseconds
+p29
+I1
+sVgame
+p30
+I1
+sVones
+p31
+I1
+sVrhymes
+p32
+I1
+sVhands
+p33
+I1
+sVlibs
+p34
+I1
+sVbar
+p35
+I1
+sVtrouble
+p36
+I1
+sVbaking
+p37
+I1
+sVlike
+p38
+I9
+sVdie
+p39
+I1
+sVuuhh
+p40
+I1
+sVchorus
+p41
+I1
+sVlose
+p42
+I2
+sVside
+p43
+I4
+sVmean
+p44
+I2
+sVem
+p45
+I4
+sVright
+p46
+I2
+sVtired
+p47
+I1
+sVhating
+p48
+I1
+sVback
+p49
+I7
+sVsecond
+p50
+I2
+sVpowder
+p51
+I2
+sVwheezin
+p52
+I1
+sVeven
+p53
+I2
+sVgon
+p54
+I1
+sVhide
+p55
+I1
+sVchicago
+p56
+I2
+sVgod
+p57
+I1
+sVeverything
+p58
+I1
+sVenough
+p59
+I1
+sVstories
+p60
+I1
+sVcause
+p61
+I1
+sVlimitations
+p62
+I1
+sVlessons
+p63
+I1
+sVfull
+p64
+I1
+sVpower
+p65
+I1
+sVreaching
+p66
+I1
+sVlupe
+p67
+I1
+sVpumping
+p68
+I1
+sVguitar
+p69
+I1
+sVcomiserating
+p70
+I1
+sVput
+p71
+I4
+sVpicking
+p72
+I1
+sVbury
+p73
+I1
+sVtakes
+p74
+I1
+sVboy
+p75
+I2
+sVspill
+p76
+I1
+sVmeow
+p77
+I1
+sVchance
+p78
+I1
+sVkeep
+p79
+I5
+sVfuse
+p80
+I2
+sVdue
+p81
+I1
+sVyouve
+p82
+I1
+sVthink
+p83
+I2
+sVmetaphors
+p84
+I1
+sVfirst
+p85
+I2
+sVinsane
+p86
+I1
+sVliked
+p87
+I2
+sValready
+p88
+I1
+sVdont
+p89
+I1
+sVmeannnnnn
+p90
+I1
+sVone
+p91
+I2
+sVrended
+p92
+I1
+sVnigga
+p93
+I1
+sVdone
+p94
+I1
+sVcarry
+p95
+I1
+sVrespect
+p96
+I1
+sVuse
+p97
+I2
+sVtruthfully
+p98
+I1
+sVjew
+p99
+I1
+sVwould
+p100
+I1
+sVhes
+p101
+I2
+sVwest
+p102
+I2
+sVgive
+p103
+I1
+sVhey
+p104
+I1
+sVlong
+p105
+I1
+sVfight
+p106
+I1
+sVdamn
+p107
+I1
+sVthanngg
+p108
+I2
+sVswagger
+p109
+I1
+sVprone
+p110
+I1
+sVhead
+p111
+I1
+sVhimself
+p112
+I1
+sVthat
+p113
+I4
+sVfire
+p114
+I1
+sVleaking
+p115
+I1
+sVyeah
+p116
+I3
+sVtrail
+p117
+I1
+sVheat
+p118
+I1
+sVlets
+p119
+I1
+sVknown
+p120
+I1
+sVhole
+p121
+I2
+sVbelieve
+p122
+I1
+sVjunior
+p123
+I1
+sVme
+p124
+I2
+sVkeeping
+p125
+I1
+sVgrew
+p126
+I2
+sVjudo
+p127
+I1
+sVhat
+p128
+I3
+sVoh
+p129
+I1
+sVup
+p130
+I3
+sVus
+p131
+I1
+sVcat
+p132
+I1
+sVflame
+p133
+I1
+sVdemonstrate
+p134
+I1
+sVlisten
+p135
+I1
+sVexample
+p136
+I1
+sVive
+p137
+I1
+sVcrazy
+p138
+I1
+sVpunches
+p139
+I1
+sVohh
+p140
+I1
+sVad
+p141
+I1
+sVintimidating
+p142
+I1
+sVwasnt
+p143
+I2
+sVit
+p144
+I2
+sVdeep
+p145
+I1
+sVcant
+p146
+I4
+sVfronting
+p147
+I1
+sVim
+p148
+I2
+sVimitation
+p149
+I1
+sVleaving
+p150
+I1
+sVcheck
+p151
+I1
+sVfloor
+p152
+I1
+sVna
+p153
+I1
+sVmic
+p154
+I1
+sVget
+p155
+I1
+sVwrite
+p156
+I2
+sVtill
+p157
+I2
+sVswear
+p158
+I1
+sVabagnale
+p159
+I1
+sVsneakin
+p160
+I1
+sVgets
+p161
+I2
+sVstand
+p162
+I1
+sVextended
+p163
+I1
+sVrude
+p164
+I1
+sVtrack
+p165
+I3
+sVdoin
+p166
+I2
+sVfiasco
+p167
+I1
+sVvicious
+p168
+I3
+sVbullying
+p169
+I1
+sVrunning
+p170
+I2
+sVuuhhh
+p171
+I1
+sVnothing
+p172
+I1
+sVawe
+p173
+I1
+sVinspiration
+p174
+I1
+sVforever
+p175
+I1
+sVwell
+p176
+I2
+sVbang
+p177
+I2
+sVtogether
+p178
+I2
+sVtime
+p179
+I1
+sVbarrel
+p180
+I2
+sV8th
+p181
+I1
+sVleft
+p182
+I2
+s.

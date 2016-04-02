@@ -1,82 +1,479 @@
-"ayo technology" lyrics
-50 cent lyrics
-"ayo technology"
-(feat. justin timberlake, timbaland)
-something special,
-unforgettable,
-50 cent (cent),
-justin (tin),
-timbaland (land), god damn (damn)
-she she, she want it, i want to give it to her
-she know that, it's right here for her
-i want to, see you break it down
-i'm ballin', throwing money around
-she work it girl, she work the pole
-she break it down, she take it low
-she fine as hell, she about the dough
-she doing her thing out on the floor
-her money money, she makin' makin'
-look at the way she shakin' shakin'
-make you want to touch it, make you want to taste it
-have you lustin' for her, go crazy face it
-now don't stop, get it, get it
-the way she shakin' make you want to hit it
-think she double jointed from the way she split
-got you're head f**ked up from the way she did it
-she's so much more than you're used to
-she know's just how to move to seduce you
-she gone do the right thing and touch the right spot
-dance in you're lap till you're ready to pop
-she always ready, when you want it she want it
-like a nympho, the info, i show you where to meet her
-on the late night, till daylight the club jumpin'
-if you want a good time, she gone give you what you want
-baby this a new age, you like my new craze
-let's get together maybe we can start a new phase
-the smokes got the club all hazy, spotlights don't do you justice baby
-why don't you come over here, you got me saying
-aayooh
-i'm tired of using technology, why don't you sit down on top of me
-aayooh
-i'm tired of using technology, i need you right in front of me
-ooh, she wants it, uh uh, she wants it
-ooh, she wants it, (so), i gotta give it to her,
-ooh, she wants it, uh uh, she wants it
-ooh, she wants it, (so), i gotta give it to her,
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
-got a thing for that thing she got
-the way she make it shake, the way she make it pop
-make it rain for us so she don't stop
-i ain't got to move, i can sit and watch
-in her fantasy, there's plain to see
-just how it be, on me, backstrokin', sweat soaking
-all into my set sheets
-when she ready to ride, i'm ready to roll
-i'll be in this bitch till the club close
-what should i do, one thing on all fours
-now that that shit should be against the law
-from side to side, let the ride, break it down (down down)
-you know i like, when you hike and you throw it all around
-different style, different move, damn i like the way you move
-girl you got me thinking about, all the things i do to you
-let's get it poppin' shorty we can switch positions
-from the couch to the counters in my kitchen
-baby this a new age, you like my new craze
-let's get together maybe we can start a new phase
-the smokes got the club all hazy, spotlights don't do you justice baby
-why don't you come over here, you got me saying
-aayooh
-i'm tired of using technology, why don't you sit down on top of me
-aayooh
-i'm tired of using technology, i need you right in front of me
-ooh, she wants it, uh uh, she wants it
-ooh, she wants it, (so), i gotta give it to her,
-ooh, she wants it, uh uh, she wants it
-ooh, she wants it, (so), i gotta give it to her,
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
-your hips, your thighs, you got me hypnotized, let me tell you
+(dp1
+Vsaying
+p2
+I2
+sVpositions
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVdance
+p6
+I1
+sVmoney
+p7
+I3
+sVmove
+p8
+I4
+sVdough
+p9
+I1
+sVshake
+p10
+I1
+sVgo
+p11
+I1
+sVhell
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I1
+sVbackstrokin
+p15
+I1
+sVthinking
+p16
+I1
+sVjustice
+p17
+I2
+sVsoaking
+p18
+I1
+sVpoppin
+p19
+I1
+sVtin
+p20
+I1
+sVlate
+p21
+I1
+sVto
+p22
+I1
+sVlets
+p23
+I3
+sVtake
+p24
+I1
+sVme
+p25
+I4
+sVgood
+p26
+I1
+sVhit
+p27
+I1
+sVaround
+p28
+I2
+sVget
+p29
+I5
+sVstop
+p30
+I2
+sVbreak
+p31
+I3
+sVknow
+p32
+I2
+sVnew
+p33
+I6
+sVfront
+p34
+I2
+sVusing
+p35
+I4
+sVlike
+p36
+I5
+sValways
+p37
+I1
+sV50
+p38
+I2
+sVthighs
+p39
+I8
+sVnight
+p40
+I1
+sVside
+p41
+I2
+sVright
+p42
+I5
+sVtired
+p43
+I4
+sVthrowing
+p44
+I1
+sVtouch
+p45
+I2
+sVsee
+p46
+I2
+sVshes
+p47
+I1
+sVclose
+p48
+I1
+sVgirl
+p49
+I2
+sVspecial
+p50
+I1
+sVgod
+p51
+I1
+sVhazy
+p52
+I2
+sVgot
+p53
+I21
+sVcounters
+p54
+I1
+sVshit
+p55
+I1
+sVstyle
+p56
+I1
+sVlet
+p57
+I9
+sVlustin
+p58
+I1
+sVcome
+p59
+I2
+sVthrow
+p60
+I1
+sVkitchen
+p61
+I1
+sVjustin
+p62
+I2
+sVfked
+p63
+I1
+sVthing
+p64
+I5
+sVneed
+p65
+I2
+sVthink
+p66
+I1
+sVdont
+p67
+I8
+sVmakin
+p68
+I2
+sVpop
+p69
+I2
+sVone
+p70
+I1
+sVdown
+p71
+I2
+sVfantasy
+p72
+I1
+sVpole
+p73
+I1
+sVset
+p74
+I1
+sVbitch
+p75
+I1
+sVballin
+p76
+I1
+sVayo
+p77
+I2
+sVspotlights
+p78
+I2
+sVher
+p79
+I7
+sVtogether
+p80
+I2
+sVtop
+p81
+I2
+sVcent
+p82
+I3
+sVstart
+p83
+I2
+sVmuch
+p84
+I1
+sVdamn
+p85
+I3
+sVlow
+p86
+I1
+sVway
+p87
+I7
+sVtell
+p88
+I8
+sVplain
+p89
+I1
+sVwants
+p90
+I12
+sVhead
+p91
+I1
+sVknows
+p92
+I1
+sVclub
+p93
+I4
+sVfours
+p94
+I1
+sVooh
+p95
+I8
+sVtimbaland
+p96
+I2
+sVbaby
+p97
+I4
+sVinfo
+p98
+I1
+sVlook
+p99
+I1
+sVjointed
+p100
+I1
+sVdouble
+p101
+I1
+sVride
+p102
+I2
+sVwork
+p103
+I2
+sVdaylight
+p104
+I1
+sVus
+p105
+I1
+sVhike
+p106
+I1
+sVuh
+p107
+I8
+sVmeet
+p108
+I1
+sVta
+p109
+I4
+sVill
+p110
+I1
+sVtheres
+p111
+I1
+sVgone
+p112
+I2
+sVcrazy
+p113
+I1
+sVyoure
+p114
+I4
+sVgive
+p115
+I6
+sVtaste
+p116
+I1
+sVit
+p117
+I10
+sVsit
+p118
+I3
+sVim
+p119
+I6
+sVsomething
+p120
+I1
+sVwant
+p121
+I10
+sVready
+p122
+I4
+sVtechnology
+p123
+I6
+sVcraze
+p124
+I2
+sVunforgettable
+p125
+I1
+sVdifferent
+p126
+I2
+sVfloor
+p127
+I1
+sVthings
+p128
+I1
+sVtimberlake
+p129
+I1
+sVcouch
+p130
+I1
+sVtill
+p131
+I3
+sVshakin
+p132
+I3
+sVsplit
+p133
+I1
+sVyou
+p134
+I10
+sVroll
+p135
+I1
+sVsweat
+p136
+I1
+sVused
+p137
+I1
+sVwatch
+p138
+I1
+sVspot
+p139
+I1
+sVrain
+p140
+I1
+sVshorty
+p141
+I1
+sVsheets
+p142
+I1
+sVjumpin
+p143
+I1
+sVphase
+p144
+I2
+sVlaw
+p145
+I1
+sVlap
+p146
+I1
+sVland
+p147
+I1
+sVaayooh
+p148
+I4
+sVhypnotized
+p149
+I8
+sVmaybe
+p150
+I2
+sVage
+p151
+I2
+sVseduce
+p152
+I1
+sVsmokes
+p153
+I2
+sVnympho
+p154
+I1
+sVfine
+p155
+I1
+sVface
+p156
+I1
+sVswitch
+p157
+I1
+sVtime
+p158
+I1
+sVmake
+p159
+I6
+sVhips
+p160
+I8
+s.

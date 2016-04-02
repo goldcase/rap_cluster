@@ -1,89 +1,737 @@
-"poor georgie" lyrics
-mc lyte lyrics
-"poor georgie"
-i met him in a club hangin out one night
-he said, "hello i'm george.. hi lyte!
-how's everything goin, huh, how ya doin?
-hope everything's fine, ooh, and umm
-can i call you sometime? can i get the digits?
-and the address, so i can come visit?"
-i gave him the digits, that wasn't a problem
-cause if he caused any, i would have to solve them
-cause george looked good, mmm damn good!
-and if i didn't, some other girl would
-in my mind, i hope for the best
-convincing myself that this was not a test
-cause i heard many things about georgie
-nothing kinky, like no orgies
-i heard he knows how to make love
-like an angel from the heaven above
-who was i kidding i'd give him a try
-cause lyte needs love too and that ain't no lie
-keep your ears open, hope that you listenin
-cause i'm about to take you on a george porgie mission
-"can it be i've stayed away too long"
-i gave him the number, i saw it in his eyes
-"she gave me the number? hmmm i'm surprised"
-good conversation, over the phone
-he began to come for me whenever i was alone
-george was sweet, so nice and so neat
-with any other guy he didn't have to compete
-george was mature, he made sure
-that he was the only one i'd ever adore
-girls, have you, ever had a friend
-that you'd get with, every now and then?
-i know for a fact george had a lot of girls
-spread out from state from state around the world
-as long as he was smart and kept his girls in check
-made sure i never saw them and showed me respect
-he didn't have to be loyal, like men should be
-i don't care about the other girls, just be good to me!
-but if i ever saw one, that would be the end
-he couldn't kick the storyline that she was just a friend
-the girls i didn't care, fine legs don't lie
-see cause georgie was into making your girls cry
-"kissed the girls and made them cry"
-"kissed the girls and made them cry"
-"can it be i've stayed away too long"
-"kissed the girls and made them cry"
-"kissed the girls and made them cry"
-"can it be i've stayed away too long"
-"kissed the girls and..."
-george was clean, no drugs and such
-but once in a while, he'd drink too much
-hangin in a club where they play rockers
-him and his friend, drinkin vodka
-i was lookin for him, and i found him there
-with his clothes messed up and his (fucked) up hair
-i told him he was messin up he wouldn't go far
-he got mad and asked his friend for the keys to the car
-i said, "don't drive, use your head
-drive while you're drunk and you'll kill yourself dead"
-we begin to argue, bad words were said
-then he got kicked out by some longhaired dread
-ran into the car as if, in a hurry
-he started the car but his vision was blurry
-he didn't care, he drove off into the night
-riding for miles, without his headlights
-georgie porgie had too much on his mind
-he was still young yet running out of time
-last week he took tests as the doctor told him
-george had cancer in his lungs and his colon
-see when he was young, he started smokin
-paid no attention when he started chokin
-thoughts flashed through his head, there they stuck
-till georgie porgie, crashed into a truck
-i wished i woulda told him how i liked him so much
-how he made me feel with the slightest touch
-now he's gone and i can't tell him nothin
-wish he was here so i could say somethin
-the story is not to say that i'm in sorrow
-just to say no one is promise tomorrow
-if you love someone you should say it often
-you never know when they'll be layin in a coffin
-wake up, it's important that you know that
-no one on earth is promised tomorrow..
-believe that! and don't think that it can't happen to you
-"kissed the girls and made them cry"
-"can it be i've stayed away too long"
-"kissed the girls and made them cry"
+(dp1
+Vlyrics
+p2
+I2
+sVkinky
+p3
+I1
+sVcaused
+p4
+I1
+sVmission
+p5
+I1
+sVkill
+p6
+I1
+sVshowed
+p7
+I1
+sVgo
+p8
+I1
+sVearth
+p9
+I1
+sVstill
+p10
+I1
+sVfine
+p11
+I2
+sVyet
+p12
+I1
+sVhmmm
+p13
+I1
+sVaint
+p14
+I1
+sVmessed
+p15
+I1
+sVbelieve
+p16
+I1
+sVtill
+p17
+I1
+sVyoung
+p18
+I2
+sVspread
+p19
+I1
+sVriding
+p20
+I1
+sVsmart
+p21
+I1
+sVhope
+p22
+I3
+sVgave
+p23
+I3
+sVstarted
+p24
+I3
+sVthen
+p25
+I1
+sVthem
+p26
+I1
+sVgood
+p27
+I4
+sVwished
+p28
+I1
+sVaround
+p29
+I1
+sVget
+p30
+I2
+sVya
+p31
+I1
+sVlegs
+p32
+I1
+sVme
+p33
+I1
+sVevery
+p34
+I1
+sVknow
+p35
+I3
+sVwords
+p36
+I1
+sVgot
+p37
+I2
+sVworld
+p38
+I1
+sVmessin
+p39
+I1
+sVhim
+p40
+I1
+sVheaven
+p41
+I1
+sVlike
+p42
+I3
+sVever
+p43
+I3
+sVcry
+p44
+I7
+sVtry
+p45
+I1
+sVbad
+p46
+I1
+sVmiles
+p47
+I1
+sVblurry
+p48
+I1
+sVnight
+p49
+I2
+sVfound
+p50
+I1
+sVguy
+p51
+I1
+sVvision
+p52
+I1
+sVears
+p53
+I1
+sVweek
+p54
+I1
+sVoften
+p55
+I1
+sVeverythings
+p56
+I1
+sVbegin
+p57
+I1
+sVdead
+p58
+I1
+sVhair
+p59
+I1
+sVtouch
+p60
+I1
+sVsee
+p61
+I2
+sVkicked
+p62
+I1
+sVgirl
+p63
+I1
+sVbest
+p64
+I1
+sVsaid
+p65
+I3
+sVaway
+p66
+I4
+sVtomorrow
+p67
+I2
+sVeverything
+p68
+I1
+sVstate
+p69
+I2
+sVtests
+p70
+I1
+sVabove
+p71
+I1
+sVumm
+p72
+I1
+sVadore
+p73
+I1
+sVcause
+p74
+I6
+sVdrink
+p75
+I1
+sVtold
+p76
+I3
+sVbe
+p77
+I1
+sVmen
+p78
+I1
+sVorgies
+p79
+I1
+sVdrinkin
+p80
+I1
+sVsorrow
+p81
+I1
+sVnever
+p82
+I2
+sVstory
+p83
+I1
+sVmmm
+p84
+I1
+sVmet
+p85
+I1
+sVwoulda
+p86
+I1
+sVsmokin
+p87
+I1
+sVaddress
+p88
+I1
+sValone
+p89
+I1
+sVcome
+p90
+I2
+sVcare
+p91
+I3
+sVdigits
+p92
+I2
+sVlast
+p93
+I1
+sVwouldnt
+p94
+I1
+sVmany
+p95
+I1
+sVcould
+p96
+I1
+sVhes
+p97
+I1
+sVtruck
+p98
+I1
+sVkeep
+p99
+I1
+sVconversation
+p100
+I1
+sVyoull
+p101
+I1
+sVlookin
+p102
+I1
+sVlonghaired
+p103
+I1
+sVclothes
+p104
+I1
+sVasked
+p105
+I1
+sVliked
+p106
+I1
+sVlove
+p107
+I3
+sVdont
+p108
+I4
+sVcancer
+p109
+I1
+sVdrunk
+p110
+I1
+sVfeel
+p111
+I1
+sVsweet
+p112
+I1
+sVyoud
+p113
+I1
+sVnumber
+p114
+I2
+sVone
+p115
+I5
+sVfucked
+p116
+I1
+sVcolon
+p117
+I1
+sVsomeone
+p118
+I1
+sVrespect
+p119
+I1
+sVcouldnt
+p120
+I1
+sVdrove
+p121
+I1
+sVopen
+p122
+I1
+sVgeorge
+p123
+I8
+sVsomethin
+p124
+I1
+sVheadlights
+p125
+I1
+sVuse
+p126
+I1
+sVwould
+p127
+I3
+sVstuck
+p128
+I1
+sVlyte
+p129
+I3
+sVthere
+p130
+I1
+sVvisit
+p131
+I1
+sVlong
+p132
+I5
+sVkidding
+p133
+I1
+sVhed
+p134
+I1
+sVran
+p135
+I1
+sVmuch
+p136
+I3
+sVcall
+p137
+I1
+sVlot
+p138
+I1
+sVdamn
+p139
+I1
+sVkick
+p140
+I1
+sVstoryline
+p141
+I1
+sVfriend
+p142
+I4
+sVeyes
+p143
+I1
+sVknows
+p144
+I1
+sVporgie
+p145
+I3
+sVgirls
+p146
+I13
+sVclub
+p147
+I2
+sVhappen
+p148
+I1
+sVhuh
+p149
+I1
+sVooh
+p150
+I1
+sVpromise
+p151
+I1
+sVwish
+p152
+I1
+sVphone
+p153
+I1
+sVhi
+p154
+I1
+sVwake
+p155
+I1
+sVhurry
+p156
+I1
+sVlistenin
+p157
+I1
+sVmade
+p158
+I9
+sVmc
+p159
+I1
+sVgeorgie
+p160
+I6
+sVcar
+p161
+I3
+sVlayin
+p162
+I1
+sVattention
+p163
+I1
+sVsay
+p164
+I4
+sVflashed
+p165
+I1
+sVtell
+p166
+I1
+sVneat
+p167
+I1
+sVsurprised
+p168
+I1
+sVmature
+p169
+I1
+sVmaking
+p170
+I1
+sVproblem
+p171
+I1
+sVdidnt
+p172
+I5
+sVcoffin
+p173
+I1
+sVslightest
+p174
+I1
+sVand
+p175
+I1
+sVive
+p176
+I4
+sVvodka
+p177
+I1
+sVangel
+p178
+I1
+sVgive
+p179
+I1
+sVwasnt
+p180
+I1
+sVmind
+p181
+I2
+sVhead
+p182
+I2
+sVheard
+p183
+I2
+sVcant
+p184
+I2
+sVsometime
+p185
+I1
+sVim
+p186
+I4
+sVpromised
+p187
+I1
+sVkissed
+p188
+I7
+sVsaw
+p189
+I3
+sVid
+p190
+I2
+sVgone
+p191
+I1
+sVlie
+p192
+I2
+sVneeds
+p193
+I1
+sVend
+p194
+I1
+sVlungs
+p195
+I1
+sVdoctor
+p196
+I1
+sVthings
+p197
+I1
+sVmake
+p198
+I1
+sVthat
+p199
+I1
+sVstayed
+p200
+I4
+sVcheck
+p201
+I1
+sVdrugs
+p202
+I1
+sVtake
+p203
+I1
+sVtest
+p204
+I1
+sVcompete
+p205
+I1
+sVyou
+p206
+I1
+sVhangin
+p207
+I2
+sVnice
+p208
+I1
+sVpoor
+p209
+I2
+sVplay
+p210
+I1
+sVsure
+p211
+I2
+sVchokin
+p212
+I1
+sVkeys
+p213
+I1
+sVdoin
+p214
+I1
+sVbegan
+p215
+I1
+sVconvincing
+p216
+I1
+sVpaid
+p217
+I1
+sVtook
+p218
+I1
+sVcrashed
+p219
+I1
+sVrunning
+p220
+I1
+sVimportant
+p221
+I1
+sVmad
+p222
+I1
+sVnothing
+p223
+I1
+sVsuch
+p224
+I1
+sVthoughts
+p225
+I1
+sVgoin
+p226
+I1
+sVhows
+p227
+I1
+sVargue
+p228
+I1
+sVkept
+p229
+I1
+sVrockers
+p230
+I1
+sVwhenever
+p231
+I1
+sVyoure
+p232
+I1
+sVdrive
+p233
+I2
+sVnothin
+p234
+I1
+sVthink
+p235
+I1
+sVlooked
+p236
+I1
+sVloyal
+p237
+I1
+sVwithout
+p238
+I1
+sVsolve
+p239
+I1
+sVdread
+p240
+I1
+sVclean
+p241
+I1
+sVtime
+p242
+I1
+sVfar
+p243
+I1
+sVtheyll
+p244
+I1
+sVhello
+p245
+I1
+sVfact
+p246
+I1
+s.

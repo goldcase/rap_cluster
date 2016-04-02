@@ -1,133 +1,761 @@
-"thru the fire" lyrics
-eminem lyrics
-"thru the fire"
-(feat. j. cole)
-i am going up
-i am going all the way through the fire
-i get up and go higher
-so please don’t bring me down
-and nothing is gonna bring me down
-i am going all the way thru the fire
-i will get up and then go higher
-so please don’t knock me down
-and nothing is gonna knock me down
-now i ain’t got no kids yet,
-but this one here is for practice
-i hate to get the seats in benz wet.
-but that’s how good your ass is.
-make an old man get his glasses.
-make wesley pay his taxes
-then follow ur moves all weak on twitter
-probably make a gay nigga consider.
-you rocking now with the best mayne. (man)
-dress game down to the sex game
-won’t brag but the boy has been blessed with the blessed mayne
-let you play with the stick ovechkayne.
-she’s calling, she’s texting
-she’s falling but let me explain
-gotta tell your old boyfriend
-skate girl
-cauz a nigga don’t play them ex games.
-no! straight sexing
-no handcuffs or arresting
-and i ain’t coming off my last name.
-cauz i really can’t take no stressing
-bout where i done been
-who i done hit
-your home girl saying
-he’s a bad boy
-bout where i done been
-who i done hit
-your home girl saying
-he’s a bad boy
-she said
-i heard you got a main chick
-a mistress and some hoes
-you be up to no good
-and every body knows
-i can’t get enough of what you got
-good god
-you hit the spot
-tried to let go but i just could not
-so don’t you stop i need that
-hey globetrotter,
-cole hotter
-either way
-out in london town
-hoes holla cauz they love my sound
-and i got love for the underground.
-kweli pimp c hot town
-where bun gets down
-met a bad bitch
-that’ll cut all night
-that’ll suck all night
-you just, cut off lights
-never fuss or fight
-almost missed my flight
-tryna give my last girl a nut
-all right?
-she be down for whatever
-whenever i wanna get up in the guts
-all right?
-on the grynd tryna find
-this lettuce
-i love it when you give me head
-i hate it when you give me headaches
-i am going up
-i am going all the way through the fire
-i get up and go higher
-so please don’t bring me down
-and nothing is gonna bring me down
-i am going all the way thru the fire
-i will get up and still get higher
-so please don’t knock me down
-and nothing is gonna knock me down
-nobody asked for life to deal us
-with these bullshit hands we are dealt
-we have to take these cards ourselves
-and flip them. don’t expect no help
-now i could have
-either just
-sat on my ass
-and pissed and moaned
-or take this situation in which i am placed in
-and get up and get my own
-i was never the type of kid
-to wait by the door and pack his bags
-who sat on the posch hoped and prayed
-for a dad to show who never did
-i just wanted to fit in
-at every single place
-every school i went
-i dreamed of being that cool kid
-even if it means acting stupid
-aunt edna always told me
-keep making
-that face it’ll get stuck like that
-meanwhile i am just standing
-there holding
-my tongue tryna talk like this
-till i stuck my tongue
-on that
-frozen stop sign pole at 8 years old
-i learned my lesson then
-cauz i wasn’t tryna impress my friends no more
-but i already told you my whole life story
-not just based on my description
-cauz where you see it from where you are sitting
-its probably 110% different
-i guess we would have to walk a mile
-in each others shoes
-at least
-what size you wear??
-i wear tens
-let’s see if you can fit your feet
-i am going up
-i am going all the way through the fire
-i get up and go higher
-so please don’t bring me down
-and nothing is gonna bring me down
-i am going all the way thru the fire
-i will get up and then go higher
-so please don’t knock me down
-and nothing is gonna knock me down
+(dp1
+Vsaying
+p2
+I2
+sVleast
+p3
+I1
+sVconsider
+p4
+I1
+sVlyrics
+p5
+I2
+sVkweli
+p6
+I1
+sVdreamed
+p7
+I1
+sVhands
+p8
+I1
+sVyears
+p9
+I1
+sVbring
+p10
+I6
+sVskate
+p11
+I1
+sVlondon
+p12
+I1
+sVseats
+p13
+I1
+sVgo
+p14
+I6
+sVfollow
+p15
+I1
+sVcole
+p16
+I2
+sVfeat
+p17
+I1
+sVyet
+p18
+I1
+sVhelp
+p19
+I1
+sVovechkayne
+p20
+I1
+sVbased
+p21
+I1
+sVjust
+p22
+I1
+sVfit
+p23
+I2
+sVexplain
+p24
+I1
+sVguts
+p25
+I1
+sVacting
+p26
+I1
+sVarresting
+p27
+I1
+sVgoing
+p28
+I9
+sVwet
+p29
+I1
+sV8
+I1
+sVbout
+p30
+I2
+sVmain
+p31
+I1
+sVta
+p32
+I1
+sVdad
+p33
+I1
+sVsound
+p34
+I1
+sVgood
+p35
+I3
+sVhit
+p36
+I3
+sValready
+p37
+I1
+sVget
+p38
+I14
+sVfuss
+p39
+I1
+sVpractice
+p40
+I1
+sVstop
+p41
+I2
+sVlet\u2019s
+p42
+I1
+sVme
+p43
+I1
+sVgame
+p44
+I2
+sVevery
+p45
+I3
+sVkid
+p46
+I2
+sVprobably
+p47
+I2
+sVnot
+p48
+I1
+sVwalk
+p49
+I1
+sVbullshit
+p50
+I1
+sVcool
+p51
+I1
+sVknock
+p52
+I6
+sVschool
+p53
+I1
+sVname
+p54
+I1
+sVpimp
+p55
+I1
+sVdid
+p56
+I1
+sValways
+p57
+I1
+sVtaxes
+p58
+I1
+sVcalling
+p59
+I1
+sVfrozen
+p60
+I1
+sVbad
+p61
+I3
+sVstupid
+p62
+I1
+sVeither
+p63
+I2
+sVnight
+p64
+I2
+sVchick
+p65
+I1
+sVwent
+p66
+I1
+sVstraight
+p67
+I1
+sVglasses
+p68
+I1
+sVstill
+p69
+I1
+sVcan\u2019t
+p70
+I2
+sVnigga
+p71
+I2
+sVold
+p72
+I3
+sVdeal
+p73
+I1
+sVtwitter
+p74
+I1
+sVsex
+p75
+I1
+sVsee
+p76
+I2
+sVpack
+p77
+I1
+sVex
+p78
+I1
+sVhoes
+p79
+I2
+sVhome
+p80
+I2
+sVgirl
+p81
+I4
+sVguess
+p82
+I1
+sVourselves
+p83
+I1
+sVbest
+p84
+I1
+sVreally
+p85
+I1
+sVeven
+p86
+I1
+sVgon
+p87
+I6
+sVmissed
+p88
+I1
+sVhate
+p89
+I2
+sVtried
+p90
+I1
+sVplease
+p91
+I6
+sVfind
+p92
+I1
+sVlights
+p93
+I1
+sVenough
+p94
+I1
+sVthen
+p95
+I1
+sVtens
+p96
+I1
+sVgot
+p97
+I5
+sVfalling
+p98
+I1
+sVsize
+p99
+I1
+sVmoaned
+p100
+I1
+sVtold
+p101
+I2
+sVass
+p102
+I2
+sVnever
+p103
+I3
+sVweak
+p104
+I1
+sVmayne
+p105
+I2
+sVeminem
+p106
+I1
+sVwesley
+p107
+I1
+sVcut
+p108
+I2
+sVlet
+p109
+I3
+sVwear
+p110
+I2
+sVmaking
+p111
+I1
+sVmistress
+p112
+I1
+sVwanted
+p113
+I1
+sVpissed
+p114
+I1
+sVwait
+p115
+I1
+sVboy
+p116
+I3
+sVc
+I1
+sVkids
+p117
+I1
+sVlast
+p118
+I2
+sVwould
+p119
+I1
+sVmet
+p120
+I1
+sVsitting
+p121
+I1
+sVgod
+p122
+I1
+sVcould
+p123
+I2
+sVshoes
+p124
+I1
+sVglobetrotter
+p125
+I1
+sVkeep
+p126
+I1
+sVgames
+p127
+I1
+sVposch
+p128
+I1
+sVit\u2019ll
+p129
+I1
+sVtongue
+p130
+I2
+sVflip
+p131
+I1
+sVwhole
+p132
+I1
+sVwon\u2019t
+p133
+I1
+sVthat\u2019ll
+p134
+I2
+sVown
+p135
+I1
+sVlove
+p136
+I3
+sVothers
+p137
+I1
+sVblessed
+p138
+I2
+sVwhatever
+p139
+I1
+sVone
+p140
+I1
+sVdown
+p141
+I12
+sVlettuce
+p142
+I1
+sVpole
+p143
+I1
+sVright
+p144
+I2
+sVdone
+p145
+I4
+sVbitch
+p146
+I1
+sVlesson
+p147
+I1
+sVhe\u2019s
+p148
+I2
+sVheadaches
+p149
+I1
+sVstanding
+p150
+I1
+sVwan
+p151
+I1
+sVstory
+p152
+I1
+sVdealt
+p153
+I1
+sVstuck
+p154
+I2
+sVtexting
+p155
+I1
+sVhey
+p156
+I1
+sVbeen
+p157
+I2
+sVfight
+p158
+I1
+sVedna
+p159
+I1
+sVdon\u2019t
+p160
+I9
+sVway
+p161
+I7
+sVshow
+p162
+I1
+sVthru
+p163
+I5
+sVtype
+p164
+I1
+sVtell
+p165
+I1
+sVmore
+p166
+I1
+sVtryna
+p167
+I4
+sVhead
+p168
+I1
+sVflight
+p169
+I1
+sVknows
+p170
+I1
+sVgay
+p171
+I1
+sVthat
+p172
+I3
+sVfire
+p173
+I8
+sVface
+p174
+I1
+sVnobody
+p175
+I1
+sVbody
+p176
+I1
+sVhoped
+p177
+I1
+sVbags
+p178
+I1
+sVbun
+p179
+I1
+sVstick
+p180
+I1
+sVnut
+p181
+I1
+sVlearned
+p182
+I1
+sVrocking
+p183
+I1
+sVsign
+p184
+I1
+sVboyfriend
+p185
+I1
+sVtown
+p186
+I2
+sVthis
+p187
+I1
+sVain\u2019t
+p188
+I2
+sVhandcuffs
+p189
+I1
+sVup
+p190
+I3
+sVus
+p191
+I1
+sVur
+p192
+I1
+sV110
+p193
+I1
+sVplaced
+p194
+I1
+sVmile
+p195
+I1
+sVcards
+p196
+I1
+sVsituation
+p197
+I1
+sVfeet
+p198
+I1
+sVexpect
+p199
+I1
+sVprayed
+p200
+I1
+sVhotter
+p201
+I1
+sVgive
+p202
+I3
+sValmost
+p203
+I1
+sVis
+p204
+I1
+sVbenz
+p205
+I1
+sVstressing
+p206
+I1
+sVmeanwhile
+p207
+I1
+sVheard
+p208
+I1
+sVsingle
+p209
+I1
+sVgrynd
+p210
+I1
+sVin
+p211
+I2
+sVneed
+p212
+I1
+sVdoor
+p213
+I1
+sVmoves
+p214
+I1
+sVdress
+p215
+I1
+sVsat
+p216
+I2
+sVholla
+p217
+I1
+sVdifferent
+p218
+I1
+sVna
+p219
+I7
+sVmake
+p220
+I3
+sVmeans
+p221
+I1
+sVj
+I1
+sVtill
+p222
+I1
+sVhot
+p223
+I1
+sVtake
+p224
+I3
+sVholding
+p225
+I1
+sVunderground
+p226
+I1
+sVbrag
+p227
+I1
+sVgets
+p228
+I1
+sVhigher
+p229
+I6
+sVplay
+p230
+I2
+sVthat\u2019s
+p231
+I1
+sVshe\u2019s
+p232
+I3
+sVimpress
+p233
+I1
+sVspot
+p234
+I1
+sVwasn\u2019t
+p235
+I1
+sVsaid
+p236
+I1
+sVcoming
+p237
+I1
+sVnothing
+p238
+I6
+sVsuck
+p239
+I1
+sVfriends
+p240
+I1
+sVman
+p241
+I2
+sVwhenever
+p242
+I1
+sVdescription
+p243
+I1
+sVlife
+p244
+I2
+sVasked
+p245
+I1
+sVlike
+p246
+I2
+sVaunt
+p247
+I1
+sVplace
+p248
+I1
+sVpay
+p249
+I1
+sVcauz
+p250
+I5
+sVsexing
+p251
+I1
+sVtalk
+p252
+I1
+s.

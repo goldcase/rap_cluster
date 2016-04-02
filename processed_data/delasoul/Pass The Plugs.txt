@@ -1,98 +1,583 @@
-"pass the plugs" lyrics
-de la soul lyrics
-"pass the plugs"
-(this time, put it in mellow)
-pass the peas like they used to say
-pass the peas like they used to say
-pass the peas like they used to say
-pass the peas like they used to say (ha ha ha, ha ha ha ha)
-first p is passed
-i am known as
-posdnuos, plug one to the whole race
-rhyme on a tour
-smart and much more
-dispatch i've stood themes with the mad face
-tall dark and lean
-was once nineteen
-now i'm one year older with reason
-clean thoughts and drawers
-rhyme flow never stalls
-the yes yes yes y'alls
-will end this season
-the soul reached high plains
-we didn't reach soul train
-but don don't like rap
-so that won't happen
-fame we don't lust
-god we do trust
-arsenio dissed us
-but the crowd kept clapping
-blessed with soul's lights
-so turn off your brights
-overexposure will bring about a clear soul
-don't push, but piles,
-for this here new style
-and excuse me y'all while i fill my potholes
-pass the peas like they used to say
-pass the peas like they used to say
-pass the peas like they used to say (oh yeah)
-pass the peas like they used to say (ha ha ha, ha ha ha ha)
-passed off second
-tru i reckon
-head full of dreds
-but knowledge inside
-singin' on records, making it hectic
-wishing it all would fall and die
-radio works it, public consumes it
-tommy boy wants another "say no," huh
-rough and rugged
-it's not a new twist
-been trugoy since the first get go
-here's the daisy
-watching it die, see?
-native is the new like balance is the shoe
-paul makes a mil like dill makes pickles
-plus is to add like addin to the crew is
-pimps promote us, rm's work us
-mp's watch us close in focus
-watch me steppin'
-now i'm dancing
-then disappear with a hocus pocus
-pass the peas like they used to say
-pass the peas like they used to say
-pass the peas like they used to say
-pass the peas like they used to say (ha ha ha, ha ha ha ha)
-(people in the place this is very hard to conceal)
-(pos get funky)
-(check it out)
-(people in the place this is very hard to conceal)
-(dove get funky)
-(check it out)
-(people in the place this is very hard to conceal)
-(mase get funky)
-(check it out)
-(people in the place this is very hard to conceal)
-(prince paul get funky) (ha ha ha, ha ha ha ha)
-(ha ha ha, ha ha ha ha)
-pass the peas like they used to say
-pass the peas like they used to say (yeah)
-pass the peas like they used to say (mmm)
-pass the peas like they used to say (ha ha ha, ha ha ha ha)
-fourth p is passed
-i am known as
-(prince paul)
-yeah thanks mase
-applied like chapsticks
-the songs are slapsticks
-skeezoids with polaroids
-give me such a case
-trife or not trife
-don't own a wife
-yet i'm down and around for a good kiss
-i got a 40 of pepsi
-a girl in bed-stuy
-and i'll end it like this!
-(will rise, not fall)
-( prince paul)
-(our mentor, don't be sore)
-(when i say that's all)
+(dp1
+Vpaul
+p2
+I4
+sVlyrics
+p3
+I2
+sVwishing
+p4
+I1
+sVsouls
+p5
+I1
+sVthemes
+p6
+I1
+sVbring
+p7
+I1
+sVradio
+p8
+I1
+sVshoe
+p9
+I1
+sVgo
+p10
+I1
+sVyes
+p11
+I3
+sVprince
+p12
+I3
+sVstyle
+p13
+I1
+sVpromote
+p14
+I1
+sVknowledge
+p15
+I1
+sVla
+p16
+I1
+sVcrew
+p17
+I1
+sVadd
+p18
+I1
+sVsmart
+p19
+I1
+sVcase
+p20
+I1
+sVgood
+p21
+I1
+sVaround
+p22
+I1
+sVget
+p23
+I5
+sVde
+p24
+I1
+sVrhyme
+p25
+I2
+sVfocus
+p26
+I1
+sVdark
+p27
+I1
+sVrecords
+p28
+I1
+sVmps
+p29
+I1
+sVkiss
+p30
+I1
+sVfall
+p31
+I2
+sVtrife
+p32
+I2
+sVwont
+p33
+I1
+sVpocus
+p34
+I1
+sVlike
+p35
+I22
+sVgirl
+p36
+I1
+sVdie
+p37
+I2
+sVpublic
+p38
+I1
+sVp
+I2
+sVrace
+p39
+I1
+sVworks
+p40
+I1
+sVtru
+p41
+I1
+sVyall
+p42
+I1
+sVthanks
+p43
+I1
+sVrms
+p44
+I1
+sVanother
+p45
+I1
+sVcrowd
+p46
+I1
+sVpeople
+p47
+I4
+sVhard
+p48
+I4
+sVyeah
+p49
+I3
+sVsoul
+p50
+I4
+sVsecond
+p51
+I1
+sVsteppin
+p52
+I1
+sVyear
+p53
+I1
+sVclose
+p54
+I1
+sVhappen
+p55
+I1
+sVtrugoy
+p56
+I1
+sVrough
+p57
+I1
+sVout
+p58
+I3
+sVstood
+p59
+I1
+sVheres
+p60
+I1
+sVgod
+p61
+I1
+sVsince
+p62
+I1
+sVlean
+p63
+I1
+sVyet
+p64
+I1
+sVlights
+p65
+I1
+sVnew
+p66
+I3
+sVdreds
+p67
+I1
+sVfull
+p68
+I1
+sVaddin
+p69
+I1
+sVgot
+p70
+I1
+sVnever
+p71
+I1
+sVoverexposure
+p72
+I1
+sVmmm
+p73
+I1
+sVreason
+p74
+I1
+sVhectic
+p75
+I1
+sVput
+p76
+I1
+sVplug
+p77
+I1
+sVboy
+p78
+I1
+sVtwist
+p79
+I1
+sVpiles
+p80
+I1
+sVoh
+p81
+I1
+sVconceal
+p82
+I4
+sVill
+p83
+I1
+sVsingin
+p84
+I1
+sVslapsticks
+p85
+I1
+sVturn
+p86
+I1
+sVtour
+p87
+I1
+sVplus
+p88
+I1
+sVmentor
+p89
+I1
+sVdaisy
+p90
+I1
+sVwhole
+p91
+I1
+sVfirst
+p92
+I2
+sVdont
+p93
+I5
+sVdill
+p94
+I1
+sVclapping
+p95
+I1
+sVblessed
+p96
+I1
+sVdispatch
+p97
+I1
+sVone
+p98
+I2
+sVarsenio
+p99
+I1
+sVreached
+p100
+I1
+sVtrust
+p101
+I1
+sVpos
+p102
+I1
+sVwould
+p103
+I1
+sVplains
+p104
+I1
+sVmuch
+p105
+I1
+sVpassed
+p106
+I3
+sVmore
+p107
+I1
+sVwants
+p108
+I1
+sVhead
+p109
+I1
+sVbrights
+p110
+I1
+sVseason
+p111
+I1
+sVhuh
+p112
+I1
+sVsore
+p113
+I1
+sVexcuse
+p114
+I1
+sVtrain
+p115
+I1
+sVknown
+p116
+I2
+sVmellow
+p117
+I1
+sVha
+p118
+I42
+sVnineteen
+p119
+I1
+sVapplied
+p120
+I1
+sVhigh
+p121
+I1
+sVpickles
+p122
+I1
+sVrugged
+p123
+I1
+sVthis
+p124
+I1
+sVinside
+p125
+I1
+sVwork
+p126
+I1
+sVas
+p127
+I2
+sVus
+p128
+I4
+sVtommy
+p129
+I1
+sVdissed
+p130
+I1
+sVmaking
+p131
+I1
+sVbalance
+p132
+I1
+sVdidnt
+p133
+I1
+sVive
+p134
+I1
+sVpotholes
+p135
+I1
+sVgive
+p136
+I1
+sVis
+p137
+I1
+sVpass
+p138
+I18
+sVit
+p139
+I1
+sVwife
+p140
+I1
+sVlust
+p141
+I1
+sVsay
+p142
+I18
+sVchapsticks
+p143
+I1
+sVim
+p144
+I3
+sVrap
+p145
+I1
+sVstalls
+p146
+I1
+sVyalls
+p147
+I1
+sVbedstuy
+p148
+I1
+sVfame
+p149
+I1
+sVdisappear
+p150
+I1
+sVfill
+p151
+I1
+sVhocus
+p152
+I1
+sVend
+p153
+I2
+sVmil
+p154
+I1
+sVpolaroids
+p155
+I1
+sVdrawers
+p156
+I1
+sVwatching
+p157
+I1
+sVfunky
+p158
+I4
+sV40
+p159
+I1
+sVcheck
+p160
+I3
+sVfourth
+p161
+I1
+sVposdnuos
+p162
+I1
+sVskeezoids
+p163
+I1
+sVplace
+p164
+I4
+sVnative
+p165
+I1
+sVpepsi
+p166
+I1
+sVall
+p167
+I1
+sVused
+p168
+I16
+sVsee
+p169
+I1
+sVreckon
+p170
+I1
+sVwatch
+p171
+I2
+sVreach
+p172
+I1
+sVpeas
+p173
+I16
+sVpimps
+p174
+I1
+sVrise
+p175
+I1
+sVmad
+p176
+I1
+sVplugs
+p177
+I2
+sVdove
+p178
+I1
+sVthoughts
+p179
+I1
+sVmase
+p180
+I2
+sVkept
+p181
+I1
+sVolder
+p182
+I1
+sVmakes
+p183
+I2
+sVclear
+p184
+I1
+sVdancing
+p185
+I1
+sVflow
+p186
+I1
+sVface
+p187
+I1
+sVclean
+p188
+I1
+sVtime
+p189
+I1
+sVpush
+p190
+I1
+sVtall
+p191
+I1
+sVthats
+p192
+I1
+sVconsumes
+p193
+I1
+sVsongs
+p194
+I1
+s.

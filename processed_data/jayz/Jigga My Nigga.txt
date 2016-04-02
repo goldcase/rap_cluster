@@ -1,88 +1,684 @@
-"jigga my nigga" lyrics
-jay-z lyrics
-"jigga my nigga"
-(feat. amil)
-roc-a-fella, ruff ryders, swizz beats
-it's almost over y'all
-jigga, how real is that?
-uhh, uhh, uhh, lights out niggaz!
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right, who?
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right
-yeah.. yeah..
-from the crap tables down in a.c.
-back on the block jay-z motherfucker from the, the, the roc
-went solo on that ass but it's still the same
-brooklyn be the place where i serve them thangs
-b. my niggaz was strugglin, to the 'burbs they came
-and then we got to hustlin, murderin thangs
-i dipped in my stash, splurged on a chain
-now i'm titanic, iceberg's the name
-leave players on injured reserve, hurt the game
-the best way to describe me in a word, insane
-i dick down chicks all emerged in my fame
-jigga been dope since slick rick's first chain
-the god, send you back to the earth from which you came
-i'm baking soda, waterfire, merged with 'cane
-ladies don't know me said, "i heard he's vain"
-well guess what mami? i heard the same
-you heard the name
-yeah, uhh, i got a
-license to kill so i stare at the gat
-roc-a-fella, ruff ryders, niggaz scared of that
-got a new motto this year, "don't fuck with my ones"
-knock on your door, three in the mornin,
-"it's just us and the guns!"
-see i scrambled with priests, hustle with nuns
-i got the, mind capacity of a young butch cassidy
-niggaz get fly, let em defy gravity
-fo'-five rapidly lift your chest cavity
-streets won't let me chill
-always been a clumsy nigga, don't let me spill
-muh'fuckers wanna wet me still, i remain y'all
-more than one, like five divided by four
-shit, this just the hate that's been provided by y'all
-reciprocated and multiplied by more
-you likely to see jigga in a widebody or
-drop-top bentley azure, holla at me y'all
-uh
-i don't give a fuck
-if i sold one or one million, but i think you should
-cause if i only sold one, then out comes the hood
-all black in the club, the outcome ain't good
-them niggaz act like wolves, how come? they could
-cause we don't drop hits, we drop bombs that smash
-til the wrists is lit up, the arm looks like glass
-the necklace chipped up, the charm it flash
-could fuck up your eyes like the bombest hash
-see the reason why chicks let me palm they ass
-all i gotta do is let em call me shawn de'glass
-let me sit up in they whip til i launch it back
-snap they neck, then shoot em til they arch them back
-the calmest cat, trust me when i palm this gat
-kill your mind, body and soul, push your conscience back
-monster's back, and flex drop a bomb to that
-and e'rybody sing-a-long to the track, c'mon
-uh-huh uhh uhh
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right, who?
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right, who?
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right, who?
-(jigga) what's my motherfuckin name?
-(jigga) and who i'm rollin with huh?
-(my niggaz) uh-huh-uh-uhh-uhh-uhh
-niggaz better get it right, bitches better get it right..
-(jigga) ...
+(dp1
+Vchicks
+p2
+I2
+sVbomb
+p3
+I1
+sVwidebody
+p4
+I1
+sVlyrics
+p5
+I2
+sVroc
+p6
+I1
+sVnuns
+p7
+I1
+sVfour
+p8
+I1
+sVkill
+p9
+I2
+sVlooks
+p10
+I1
+sVearth
+p11
+I1
+sVstill
+p12
+I2
+sVfeat
+p13
+I1
+sVaint
+p14
+I1
+sVtables
+p15
+I1
+sVdipped
+p16
+I1
+sVchain
+p17
+I2
+sVdick
+p18
+I1
+sVyoung
+p19
+I1
+sVsend
+p20
+I1
+sVshould
+p21
+I1
+sVbetter
+p22
+I12
+sVblack
+p23
+I1
+sVwet
+p24
+I1
+sVsnap
+p25
+I1
+sVmerged
+p26
+I1
+sVhate
+p27
+I1
+sVreal
+p28
+I1
+sVshoot
+p29
+I1
+sVmornin
+p30
+I1
+sVget
+p31
+I13
+sVdope
+p32
+I1
+sVmuhfuckers
+p33
+I1
+sVuhh
+p34
+I6
+sVruff
+p35
+I2
+sVwaterfire
+p36
+I1
+sVgame
+p37
+I1
+sVones
+p38
+I1
+sVfive
+p39
+I1
+sVknow
+p40
+I1
+sVnew
+p41
+I1
+sVuhhuh
+p42
+I1
+sVreciprocated
+p43
+I1
+sVlike
+p44
+I4
+sVwont
+p45
+I1
+sVknock
+p46
+I1
+sVbaking
+p47
+I1
+sVname
+p48
+I8
+sValways
+p49
+I1
+sVfofive
+p50
+I1
+sVmonsters
+p51
+I1
+sVleave
+p52
+I1
+sVbombs
+p53
+I1
+sVuh
+p54
+I1
+sVwent
+p55
+I1
+sVyall
+p56
+I4
+sVinsane
+p57
+I1
+sVcalmest
+p58
+I1
+sVnigga
+p59
+I3
+sVbentley
+p60
+I1
+sVmultiplied
+p61
+I1
+sVscared
+p62
+I1
+sVstreets
+p63
+I1
+sVyeah
+p64
+I3
+sVsoul
+p65
+I1
+sVicebergs
+p66
+I1
+sVpalm
+p67
+I2
+sVus
+p68
+I1
+sVyear
+p69
+I1
+sVarm
+p70
+I1
+sVbest
+p71
+I1
+sVconscience
+p72
+I1
+sVbutch
+p73
+I1
+sVsaid
+p74
+I1
+sVcapacity
+p75
+I1
+sVricks
+p76
+I1
+sVcavity
+p77
+I1
+sVgod
+p78
+I1
+sVsince
+p79
+I1
+sVslick
+p80
+I1
+sVlights
+p81
+I1
+sVemerged
+p82
+I1
+sVgot
+p83
+I5
+sVbombest
+p84
+I1
+sVcause
+p85
+I2
+sVguns
+p86
+I1
+sVhustle
+p87
+I1
+sVass
+p88
+I2
+sVsolo
+p89
+I1
+sVwho
+p90
+I1
+sVhash
+p91
+I1
+sVshit
+p92
+I1
+sVsold
+p93
+I2
+sVmillion
+p94
+I1
+sVmotherfucker
+p95
+I1
+sVreason
+p96
+I1
+sVstrugglin
+p97
+I1
+sVrapidly
+p98
+I1
+sVmotto
+p99
+I1
+sVcome
+p100
+I1
+sVrocafella
+p101
+I2
+sVhits
+p102
+I1
+sVlicense
+p103
+I1
+sVspill
+p104
+I1
+sVwhip
+p105
+I1
+sVcould
+p106
+I2
+sVpriests
+p107
+I1
+sVtitanic
+p108
+I1
+sVplayers
+p109
+I1
+sVplace
+p110
+I1
+sVsoda
+p111
+I1
+sVazure
+p112
+I1
+sVlet
+p113
+I6
+sVor
+p114
+I1
+sVblock
+p115
+I1
+sVfirst
+p116
+I1
+sVem
+p117
+I3
+sVladies
+p118
+I1
+sVflash
+p119
+I1
+sVwhats
+p120
+I6
+sVdont
+p121
+I5
+sVvain
+p122
+I1
+sVone
+p123
+I4
+sVclumsy
+p124
+I1
+sVjayz
+p125
+I2
+sVright
+p126
+I12
+sVtrust
+p127
+I1
+sVhood
+p128
+I1
+sVstare
+p129
+I1
+sVwan
+p130
+I1
+sVguess
+p131
+I1
+sVcrap
+p132
+I1
+sVlikely
+p133
+I1
+sVhes
+p134
+I1
+sVsmash
+p135
+I1
+sVdeglass
+p136
+I1
+sVthree
+p137
+I1
+sVmami
+p138
+I1
+sVcall
+p139
+I1
+sVhustlin
+p140
+I1
+sVdroptop
+p141
+I1
+sVmore
+p142
+I1
+sVback
+p143
+I6
+sVeyes
+p144
+I1
+sVdoor
+p145
+I1
+sVway
+p146
+I1
+sVthat
+p147
+I3
+sVclub
+p148
+I1
+sVmind
+p149
+I2
+sVbitches
+p150
+I6
+sVserve
+p151
+I1
+sVchipped
+p152
+I1
+sVhurt
+p153
+I1
+sVglass
+p154
+I1
+sVlift
+p155
+I1
+sVwrists
+p156
+I1
+sVcmon
+p157
+I1
+sVchill
+p158
+I1
+sVfly
+p159
+I1
+sVb
+I1
+sVword
+p160
+I1
+sVlaunch
+p161
+I1
+sVsee
+p162
+I3
+sVniggaz
+p163
+I17
+sVcat
+p164
+I1
+sVremain
+p165
+I1
+sVcassidy
+p166
+I1
+sVflex
+p167
+I1
+sVoutcome
+p168
+I1
+sVcharm
+p169
+I1
+sVburbs
+p170
+I1
+sVac
+p171
+I1
+sVcane
+p172
+I1
+sVgive
+p173
+I1
+sValmost
+p174
+I1
+sVdescribe
+p175
+I1
+sVuhhuhuhuhhuhhuhh
+p176
+I6
+sVfuck
+p177
+I3
+sVheard
+p178
+I3
+sVbeats
+p179
+I1
+sVgood
+p180
+I1
+sVim
+p181
+I8
+sVstash
+p182
+I1
+sVfame
+p183
+I1
+sVsplurged
+p184
+I1
+sVholla
+p185
+I1
+sVjigga
+p186
+I18
+sVna
+p187
+I1
+sVdivided
+p188
+I1
+sVgravity
+p189
+I1
+sVsame
+p190
+I2
+sVerybody
+p191
+I1
+sVtil
+p192
+I3
+sVshawn
+p193
+I1
+sVchest
+p194
+I1
+sVmotherfuckin
+p195
+I6
+sVlit
+p196
+I1
+sVinjured
+p197
+I1
+sVgat
+p198
+I2
+sVswizz
+p199
+I1
+sVprovided
+p200
+I1
+sVtrack
+p201
+I1
+sVhuh
+p202
+I6
+sVdefy
+p203
+I1
+sVact
+p204
+I1
+sVryders
+p205
+I2
+sVsingalong
+p206
+I1
+sVpush
+p207
+I1
+sVbrooklyn
+p208
+I1
+sVmurderin
+p209
+I1
+sVarch
+p210
+I1
+sVa
+I1
+sVamil
+p211
+I1
+sVdrop
+p212
+I3
+sVneck
+p213
+I1
+sVta
+p214
+I1
+sVsit
+p215
+I1
+sVwell
+p216
+I1
+sVrollin
+p217
+I6
+sVthink
+p218
+I1
+sVthangs
+p219
+I2
+sVscrambled
+p220
+I1
+sVbody
+p221
+I1
+sVcomes
+p222
+I1
+sVnecklace
+p223
+I1
+sVwolves
+p224
+I1
+sVthats
+p225
+I1
+sVcame
+p226
+I2
+sVreserve
+p227
+I1
+s.

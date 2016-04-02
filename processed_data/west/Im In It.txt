@@ -1,77 +1,659 @@
-im lyrics
-kanye west lyrics
-im it
-feat justin vernon
-damn lips soft
-turn blackberry off
-turn bath water on
-turn iphone
-careless whispers eye fuckin bitin ass
-neck ears hands legs eatin ass
-pussys good need crash
-titties let em free last
-thank god almighty free last
-party leavin fast
-stop 7eleven like needed gas
-im lyin needed condoms dont look glass
-chasin love lot bittersweet hours lost
-eatin asian pussy need sweet sour sauce
-tell boss need extra hour off
-get super wet turn shower off
-thats say wah say wah
-thats do
-deal action thing
-badman thing dat dem cab do
-action thing yo badman thing
-man badman fi know say
-disrespect tek way jose
-try pon february 30th
-thats hard couldnt try day
-roll round pon block
-nuh bother feel say wont spray like aerosol can
-roll round pon block
-nuh bother feel say wont spray like aerosol can
-ago smile pan court day
-beat murder charge like oj
-thats right im shouldve known would fall
-im stepping tacks floor
-thats right boys door
-thats right im well need fight own
-thats right im dont let table
-im gonna lay there
-fist jumps air love flame wars
-ill gone long grab that   set your 
-picked left off
-need home get off
-know need wet mouth
-know need reptile
-cut different textile
-love different kinds sex now
-black girl sippin white wine
-put fist like civil rights sign
-grabbed slight grind
-held til right time
-came like aaaaahhh
-thats im cant get thats do
-thats im cant get thats do
-lay off
-star fucker
-star fucker
-star fucker
-where
-time take far now
-michael douglas car now
-kids wife life
-cant wake night life
-im scared demons
-go sleep nightlight
-mind move like tron bike
-pop wheelie zeitgeist
-im gonna start new movement
-led drums
-im raplic priest
-getting head nuns
-dont play im playing
-dont see im saying
-balling dleague
-speaking swaghili
+(dp1
+Vsaying
+p2
+I1
+sVset
+p3
+I1
+sVtron
+p4
+I1
+sVlyrics
+p5
+I2
+sVfall
+p6
+I1
+sVnuns
+p7
+I1
+sVheld
+p8
+I1
+sVsleep
+p9
+I1
+sVasian
+p10
+I1
+sVstepping
+p11
+I1
+sVgo
+p12
+I1
+sVkanye
+p13
+I1
+sVfeat
+p14
+I1
+sVmove
+p15
+I1
+sVjose
+p16
+I1
+sVcut
+p17
+I1
+sVgrabbed
+p18
+I1
+sVthank
+p19
+I1
+sVhead
+p20
+I1
+sVchasin
+p21
+I1
+sValmighty
+p22
+I1
+sVlyin
+p23
+I1
+sVcivil
+p24
+I1
+sVcharge
+p25
+I1
+sVbike
+p26
+I1
+sVblack
+p27
+I1
+sVsweet
+p28
+I1
+sVsmile
+p29
+I1
+sVsauce
+p30
+I1
+sVboys
+p31
+I1
+sVdo
+p32
+I4
+sVgood
+p33
+I1
+sVcrash
+p34
+I1
+sVyo
+p35
+I1
+sVget
+p36
+I4
+sVbeat
+p37
+I1
+sVstop
+p38
+I1
+sVdat
+p39
+I1
+sVwhispers
+p40
+I1
+sVknow
+p41
+I3
+sVhands
+p42
+I1
+sVnow
+p43
+I3
+sVday
+p44
+I2
+sVwont
+p45
+I2
+sVfebruary
+p46
+I1
+sVlike
+p47
+I7
+sVlost
+p48
+I1
+sVmichael
+p49
+I1
+sVtry
+p50
+I2
+sVpriest
+p51
+I1
+sVcareless
+p52
+I1
+sVblackberry
+p53
+I1
+sVnight
+p54
+I1
+sVbadman
+p55
+I3
+sVgrab
+p56
+I1
+sVmovement
+p57
+I1
+sVsoft
+p58
+I1
+sVround
+p59
+I2
+sVears
+p60
+I1
+sVem
+p61
+I1
+sVtek
+p62
+I1
+sVdeal
+p63
+I1
+sVscared
+p64
+I1
+sVhard
+p65
+I1
+sVnightlight
+p66
+I1
+sVsex
+p67
+I1
+sVdemons
+p68
+I1
+sVlips
+p69
+I1
+sVnuh
+p70
+I2
+sVhome
+p71
+I1
+sVgirl
+p72
+I1
+sVgon
+p73
+I2
+sVgod
+p74
+I1
+sVdouglas
+p75
+I1
+sVnew
+p76
+I1
+sVdisrespect
+p77
+I1
+sVcan
+p78
+I2
+sVass
+p79
+I2
+sVzeitgeist
+p80
+I1
+sVled
+p81
+I1
+sVslight
+p82
+I1
+sVjumps
+p83
+I1
+sVfree
+p84
+I2
+sVboss
+p85
+I1
+sVwater
+p86
+I1
+sVvernon
+p87
+I1
+sVlet
+p88
+I2
+sVdrums
+p89
+I1
+sVput
+p90
+I1
+sVsuper
+p91
+I1
+sVtitties
+p92
+I1
+sVkids
+p93
+I1
+sVcondoms
+p94
+I1
+sVjustin
+p95
+I1
+sV7eleven
+p96
+I1
+sVwhere
+p97
+I1
+sVill
+p98
+I1
+sVhours
+p99
+I1
+sVspray
+p100
+I2
+sVthing
+p101
+I4
+sVeatin
+p102
+I2
+sVaction
+p103
+I2
+sVdleague
+p104
+I1
+sVstar
+p105
+I3
+sVswaghili
+p106
+I1
+sVfuckin
+p107
+I1
+sVthats
+p108
+I11
+sV30th
+p109
+I1
+sVreptile
+p110
+I1
+sVown
+p111
+I1
+sVlove
+p112
+I3
+sVdont
+p113
+I4
+sVextra
+p114
+I1
+sVfeel
+p115
+I2
+sVpussy
+p116
+I1
+sVpop
+p117
+I1
+sVbath
+p118
+I1
+sVpon
+p119
+I3
+sVright
+p120
+I5
+sVlong
+p121
+I1
+sVtable
+p122
+I1
+sVcouldnt
+p123
+I1
+sVyour
+p124
+I1
+sVeye
+p125
+I1
+sVwould
+p126
+I1
+sVwah
+p127
+I2
+sVwest
+p128
+I1
+sVthere
+p129
+I1
+sVfast
+p130
+I1
+sVfight
+p131
+I1
+sVneeded
+p132
+I2
+sVtacks
+p133
+I1
+sVdamn
+p134
+I1
+sViphone
+p135
+I1
+sVlot
+p136
+I1
+sVwhite
+p137
+I1
+sVlegs
+p138
+I1
+sVtell
+p139
+I1
+sVspeaking
+p140
+I1
+sVlife
+p141
+I2
+sVmurder
+p142
+I1
+sVdoor
+p143
+I1
+sVway
+p144
+I1
+sVon
+p145
+I1
+sVwet
+p146
+I2
+sVgas
+p147
+I1
+sVwars
+p148
+I1
+sVbitin
+p149
+I1
+sVglass
+p150
+I1
+sVwake
+p151
+I1
+sVraplic
+p152
+I1
+sVknown
+p153
+I1
+sVlast
+p154
+I2
+sVsign
+p155
+I1
+sVpicked
+p156
+I1
+sVoj
+p157
+I1
+sVlook
+p158
+I1
+sVhour
+p159
+I1
+sVrights
+p160
+I1
+sVcar
+p161
+I1
+sVbother
+p162
+I2
+sVwife
+p163
+I1
+sVcant
+p164
+I3
+sVair
+p165
+I1
+sVshower
+p166
+I1
+sVsour
+p167
+I1
+sVflame
+p168
+I1
+sVdem
+p169
+I1
+sVcab
+p170
+I1
+sVbittersweet
+p171
+I1
+sVfist
+p172
+I2
+sVballing
+p173
+I1
+sVmind
+p174
+I1
+sVit
+p175
+I1
+sVsay
+p176
+I5
+sVim
+p177
+I15
+sVneed
+p178
+I7
+sVaaaaahhh
+p179
+I1
+sVgone
+p180
+I1
+sVdifferent
+p181
+I2
+sVsippin
+p182
+I1
+sVcourt
+p183
+I1
+sVturn
+p184
+I4
+sVna
+p185
+I2
+sVthat
+p186
+I1
+sVstart
+p187
+I1
+sVtextile
+p188
+I1
+sVfar
+p189
+I1
+sVtake
+p190
+I1
+sVparty
+p191
+I1
+sVroll
+p192
+I2
+sVpan
+p193
+I1
+sVplay
+p194
+I1
+sVleavin
+p195
+I1
+sVkinds
+p196
+I1
+sVsee
+p197
+I1
+sVgetting
+p198
+I1
+sVshouldve
+p199
+I1
+sVfucker
+p200
+I3
+sVmouth
+p201
+I1
+sVlay
+p202
+I2
+sVfi
+p203
+I1
+sVman
+p204
+I1
+sVago
+p205
+I1
+sVwheelie
+p206
+I1
+sVtil
+p207
+I1
+sVoff
+p208
+I6
+sVneck
+p209
+I1
+sVpussys
+p210
+I1
+sVfloor
+p211
+I1
+sVwell
+p212
+I1
+sVgrind
+p213
+I1
+sVaerosol
+p214
+I2
+sVblock
+p215
+I2
+sVtime
+p216
+I2
+sVwine
+p217
+I1
+sVplaying
+p218
+I1
+sVcame
+p219
+I1
+sVleft
+p220
+I1
+s.

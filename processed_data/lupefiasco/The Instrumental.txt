@@ -1,59 +1,299 @@
-"the instrumental" lyrics
-lupe fiasco lyrics
-"the instrumental"
-(feat. jonah matranga)
-uh.. yeah
-he just sits, and watches the people in the boxes
-everything he sees he absorbs and adopts it
-he mimics and he mocks it
-really hates the box but he can't remember how to stop, it
-uh, so he continues to watch it
-hoping that it'll give him something that he can box with
-or how the locksmith, see the box as, locked in the box
-ain't got the combination to unlock, it
-that's why he watch-es, scared to look away
-cause at that moment, it might show him
-what to take off the locks with
-so he chained himself to the box, took a lock and then he locked it
-swallowed the combination and then forgot, it
-as the doctors jot it all down, with they pens and pencils
-the same ones that took away his voice
-and just left this instrumental, like that
-and he never lies (he never lies, he never lies, uh)
-and he never lies (uh, he never lies, he never lies, no)
-and he never lies (he never lies)
-cause he never said anything at all
-he just sits, and listens to the people in the boxes
-everything he hears he absorbs and adopts it
-anything not coming out the box he blocks it
-see he loves to box and hope they never stop it
-anything the box tell him to do, he does it
-anything it tell him to get, he shops and he cops it
-he protects the box, locks it in a box
-when he goes to sleep, but he never sleeps
-cause he stays up to watch it, scared to look away
-cause at that moment, it might get stolen
-and that's the last of the boxes
-so he chained himself to the box, took a lock and then he locked it
-swallowed the combination and then forgot, it
-as the doctors jot it all down, with they pens and pencils
-the same ones that took away his voice
-and just left this instrumental, like that
-(anything at all..) he never lies
-uh, and you can't tell me just who you are
-you buy new clothes just to hide those scars
-you built that roof just to hide those stars
-now you can't take it back to the start
-and you can't tell me just who you are
-you buy new clothes just to hide those scars
-you built that roof just to hide those stars
-now you can't take it back to the start
-(anything at all.. anything at all..)
-uh, and you can't tell me just who you are
-you buy new clothes just to hide those scars
-you built that roof just to hide those stars
-now you can't take it back to the start
-and you can't tell me just who you are
-you buy new clothes just to hide those scars
-you built that roof just to hide those stars
-now you can't take it back to the start
+(dp1
+Vall
+p2
+I2
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVsleep
+p5
+I1
+sVfeat
+p6
+I1
+sVaint
+p7
+I1
+sVpens
+p8
+I2
+sVsleeps
+p9
+I1
+sVitll
+p10
+I1
+sVmight
+p11
+I2
+sVhates
+p12
+I1
+sVcombination
+p13
+I3
+sVget
+p14
+I2
+sVcontinues
+p15
+I1
+sVwatch
+p16
+I2
+sVboxes
+p17
+I3
+sVones
+p18
+I2
+sVstays
+p19
+I1
+sVhim
+p20
+I1
+sVlike
+p21
+I2
+sVclothes
+p22
+I4
+sVpeople
+p23
+I2
+sVscared
+p24
+I2
+sVyeah
+p25
+I1
+sVsee
+p26
+I2
+sVare
+p27
+I4
+sVforgot
+p28
+I2
+sVreally
+p29
+I1
+sVsaid
+p30
+I1
+sVhide
+p31
+I8
+sVaway
+p32
+I4
+sVeverything
+p33
+I2
+sVgoes
+p34
+I1
+sVgot
+p35
+I1
+sVcause
+p36
+I4
+sVuh
+p37
+I6
+sVjot
+p38
+I2
+sVlupe
+p39
+I1
+sVnever
+p40
+I12
+sVjonah
+p41
+I1
+sVbox
+p42
+I11
+sVlast
+p43
+I1
+sVanything
+p44
+I7
+sVscars
+p45
+I4
+sVthats
+p46
+I2
+sVmatranga
+p47
+I1
+sVlies
+p48
+I9
+sVswallowed
+p49
+I2
+sVstart
+p50
+I4
+sVstars
+p51
+I4
+sVtell
+p52
+I6
+sVadopts
+p53
+I2
+sVbuy
+p54
+I4
+sVthat
+p55
+I2
+sVtook
+p56
+I4
+sVback
+p57
+I4
+sVinstrumental
+p58
+I4
+sVcops
+p59
+I1
+sVdoctors
+p60
+I2
+sVabsorbs
+p61
+I2
+sVwith
+p62
+I2
+sVstolen
+p63
+I1
+sVlocked
+p64
+I3
+sVlook
+p65
+I2
+sVchained
+p66
+I2
+sVunlock
+p67
+I1
+sVroof
+p68
+I4
+sVhope
+p69
+I1
+sVloves
+p70
+I1
+sVshops
+p71
+I1
+sVvoice
+p72
+I2
+sVsees
+p73
+I1
+sVhoping
+p74
+I1
+sVhears
+p75
+I1
+sVgive
+p76
+I1
+sVlock
+p77
+I2
+sVit
+p78
+I14
+sVwatches
+p79
+I2
+sVlocksmith
+p80
+I1
+sVlocks
+p81
+I2
+sVcant
+p82
+I9
+sVprotects
+p83
+I1
+sVsomething
+p84
+I1
+sVsits
+p85
+I2
+sVlistens
+p86
+I1
+sVbuilt
+p87
+I4
+sVno
+p88
+I1
+sVtake
+p89
+I5
+sVnew
+p90
+I4
+sVblocks
+p91
+I1
+sVstop
+p92
+I2
+sVmimics
+p93
+I1
+sVmoment
+p94
+I2
+sVcoming
+p95
+I1
+sVmocks
+p96
+I1
+sVpencils
+p97
+I2
+sVremember
+p98
+I1
+sVfiasco
+p99
+I1
+sVleft
+p100
+I2
+s.

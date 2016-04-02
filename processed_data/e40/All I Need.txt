@@ -1,112 +1,886 @@
-"all i need" lyrics
-e-40 lyrics
-"all i need"
-(all that i)
-(this world)
-let these fools know
-(you been so good to me)
-the game's been good to me
-my fans been good to me
-the money been good to me
-all i need though is this shit
-talkin about i be rappin off track
-some of you square suckers be tryina say e-40 wack
-do your due dilligence in your research 'fore i pimp my pen
-if you ain't never lived it and done it, you can't comprehend
-i'm a fixture, a factor, somethin that you ain't
-respect my rank, you got none of that, point blank
-i'm one of your favorite mc's favorite mc
-ask they ass, they know me
-bet you they tell you "that boy right there got flows and creativity
-that's the big homie"
-i'm authentic and real, i'm far from bein phoney
-originality is a must whenever i bust
-before i got into the rap game i was hustlin on the hush
-rock it up (?) dust, same color as pie crust
-penitentiary chances, shackles, chains and handcuffs
-the first rapper talkin about triple-beam scales
-choppers, drought seasons and shit like that
-i got some real niggas that'll vouch for that
-might not know how to freestyle but my rhymes'll paint a picture
-fuck bein a lyricist, i'm a fuckin game spitter
-pandemonium and chaos the price of bein a boss
-that come with the package, i'm a savage, slightly throwed off
-grew up on $hort and freddie b, magic mike and calvin t
-dolemite and blowfly, krs and ice-t
-melle mel and spoonie, just to name a few
-utfo, kool herc and afrika bambaataa, too
-(you been so good to me)
-the game's been good to me
-my fans been good to me
-the money been good to me
-g-o-d been good to me
-you all i need
-you all i need
-you all i need
-you all i need
-i paved the way for indie labels
-ask master p and birdman what i brought to the table
-out the trunk independently
-sold hundreds of thousands of records with no video or airplay
-me and my uncle st. charles
-suga, d-shot, legit, the click, legends in this shit
-but hold up, it don't stop there
-if i got a dollar for every word i made up i'd be a billionaire
-i'm the past and the present
-i was sayin shit 20 years ago y'all niggas just now sayin
-i done seen rappers come and go
-get they 15 minutes of fame, then you don't hear about them no mo'
-yeah, i done had my ups and downs
-but the cold part about it is e-40 still around
-i don't know why these suckers keep sayin i need to get my mumblin ass out the way
-when i got a passion for rappin, partner, i don't do it just for pay
-you oughta come to one of my concerts, you oughta come to one of my shows
-i do my old school and my new school songs and all of them bitches go
-they don't build 'em like me no mo', i'm a motherfuckin pro
-a living legend, collection of classics, thought that you should know
-you can't erase me out of history
-i'm from the same place as cc
-(?) vallejo california, if you blink you might miss it
-(you been so good to me)
-the game's been good to me
-my fans been good to me
-the money been good to me
-g-o-d been good to me
-you all i need
-you all i need
-you all i need
-you all i need
-third verse, more than half my life
-since teenagers, i gotta thank my wife
-since we was little young cubs
-born in the struggle, broke, livin off of love
-this is the actual, not a non-theatrical movie
-i thank god for my sons, issue and droop-e
-even though they divorced, my mama and my daddy
-my sister, my brothers, my cousins and my family
-i love y'all, and my fans when they hated
-were down with my futuristic ass way before i made it
-and all my real ones with some balls
-went out funkin, beefin, feudin, niggas made some phone calls
-ta-ta-ta-ta-ta-ta - pow!
-ta-ta-ta-ta-ta-ta - pow!
-ratata-tat, put him on his back
-bust a sucker head (?)
-the rap game's been good with me
-stuck when me when i didn't even have a penny
-you lames can say what you like
-but i been in it for 22, i gotta be doin somethin right
-that means i'm not a overnight
-overnight sensation, didn't happen over night
-i broke barriers for independence, mayne, i set the tone
-they probably won't 'preciate me till i'm gone
-(you been so good to me)
-the game's been good to me
-my fans been good to me
-the money been good to me
-g-o-d been good to me
-you all i need
-you all i need
-you all i need
-you all i need
-(you been so good to me)
+(dp1
+Vdolemite
+p2
+I1
+sVsince
+p3
+I2
+sVset
+p4
+I1
+sVbroke
+p5
+I2
+sVlyrics
+p6
+I2
+sVchances
+p7
+I1
+sVmoney
+p8
+I4
+sVlabels
+p9
+I1
+sVdollar
+p10
+I1
+sVyoung
+p11
+I1
+sVlivin
+p12
+I1
+sVyears
+p13
+I1
+sVgo
+p14
+I2
+sV15
+p15
+I1
+sVcold
+p16
+I1
+sVstill
+p17
+I1
+sVfunkin
+p18
+I1
+sVbeefin
+p19
+I1
+sVaint
+p20
+I2
+sVshackles
+p21
+I1
+sVsayin
+p22
+I3
+sVdilligence
+p23
+I1
+sVblowfly
+p24
+I1
+sVcousins
+p25
+I1
+sVscales
+p26
+I1
+sVfans
+p27
+I5
+sVbust
+p28
+I2
+sVtriplebeam
+p29
+I1
+sVoriginality
+p30
+I1
+sVchoppers
+p31
+I1
+sVverse
+p32
+I1
+sVfactor
+p33
+I1
+sVmight
+p34
+I2
+sVbuild
+p35
+I1
+sVreal
+p36
+I3
+sVgood
+p37
+I21
+sVspoonie
+p38
+I1
+sVget
+p39
+I2
+sVfar
+p40
+I1
+sVbig
+p41
+I1
+sVbein
+p42
+I3
+sVstop
+p43
+I1
+sVe40
+p44
+I3
+sVsensation
+p45
+I1
+sVrecords
+p46
+I1
+sVgame
+p47
+I2
+sVb
+I1
+sVevery
+p48
+I1
+sVknow
+p49
+I5
+sVnew
+p50
+I1
+sVworld
+p51
+I1
+sVblink
+p52
+I1
+sVname
+p53
+I1
+sVwont
+p54
+I1
+sVschool
+p55
+I2
+sVphoney
+p56
+I1
+sVlike
+p57
+I3
+sVpimp
+p58
+I1
+sVteenagers
+p59
+I1
+sVissue
+p60
+I1
+sV20
+p61
+I1
+sVrapper
+p62
+I1
+sVp
+I1
+sVtatatatatata
+p63
+I2
+sVt
+I1
+sVrock
+p64
+I1
+sVmotherfuckin
+p65
+I1
+sVprobably
+p66
+I1
+sVmo
+p67
+I2
+sVyall
+p68
+I2
+sVem
+p69
+I1
+sVmagic
+p70
+I1
+sVsquare
+p71
+I1
+sVold
+p72
+I1
+sVfixture
+p73
+I1
+sVyeah
+p74
+I1
+sVhush
+p75
+I1
+sVborn
+p76
+I1
+sVerase
+p77
+I1
+sVvideo
+p78
+I1
+sVhort
+p79
+I1
+sVtable
+p80
+I1
+sVlittle
+p81
+I1
+sVclick
+p82
+I1
+sVeven
+p83
+I2
+sVsavage
+p84
+I1
+sVgod
+p85
+I4
+sVmumblin
+p86
+I1
+sVcrust
+p87
+I1
+sVchaos
+p88
+I1
+sVresearch
+p89
+I1
+sVdoin
+p90
+I1
+sVpen
+p91
+I1
+sVdshot
+p92
+I1
+sVpassion
+p93
+I1
+sVhalf
+p94
+I1
+sVit
+p95
+I2
+sVgot
+p96
+I8
+sVchains
+p97
+I1
+sVrappers
+p98
+I1
+sVindependence
+p99
+I1
+sVshows
+p100
+I1
+sVass
+p101
+I3
+sVdowns
+p102
+I1
+sVkool
+p103
+I1
+sVherc
+p104
+I1
+sVmel
+p105
+I1
+sVsold
+p106
+I1
+sVnever
+p107
+I1
+sVsuga
+p108
+I1
+sVsongs
+p109
+I1
+sVboss
+p110
+I1
+sVlet
+p111
+I1
+sVcollection
+p112
+I1
+sVtrunk
+p113
+I1
+sVask
+p114
+I2
+sVsuckers
+p115
+I2
+sVhundreds
+p116
+I1
+sVcome
+p117
+I4
+sVlegend
+p118
+I1
+sVlegit
+p119
+I1
+sVthank
+p120
+I2
+sVboy
+p121
+I1
+sVsister
+p122
+I1
+sVdaddy
+p123
+I1
+sVactual
+p124
+I1
+sV22
+p125
+I1
+sVpackage
+p126
+I1
+sVkrs
+p127
+I1
+sVbambaataa
+p128
+I1
+sVfavorite
+p129
+I2
+sVcalvin
+p130
+I1
+sVups
+p131
+I1
+sVbirdman
+p132
+I1
+sVnontheatrical
+p133
+I1
+sVgames
+p134
+I5
+sVfuturistic
+p135
+I1
+sVmelle
+p136
+I1
+sVhated
+p137
+I1
+sVbarriers
+p138
+I1
+sVcalifornia
+p139
+I1
+sVclassics
+p140
+I1
+sVslightly
+p141
+I1
+sVstuck
+p142
+I1
+sVfuckin
+p143
+I1
+sVfirst
+p144
+I1
+sVdroope
+p145
+I1
+sVlove
+p146
+I2
+sVdont
+p147
+I5
+sVfamily
+p148
+I1
+sVpoint
+p149
+I1
+sVcolor
+p150
+I1
+sVpow
+p151
+I2
+sVlyricist
+p152
+I1
+sVairplay
+p153
+I1
+sVrank
+p154
+I1
+sVone
+p155
+I3
+sVbrought
+p156
+I1
+sVput
+p157
+I1
+sVstruggle
+p158
+I1
+sVright
+p159
+I2
+sVdone
+p160
+I3
+sVoughta
+p161
+I2
+sVblank
+p162
+I1
+sVrespect
+p163
+I1
+sVcomprehend
+p164
+I1
+sVmiss
+p165
+I1
+sVwack
+p166
+I1
+sVlegends
+p167
+I1
+sVsucker
+p168
+I1
+sVfew
+p169
+I1
+sVthere
+p170
+I1
+sVcreativity
+p171
+I1
+sVdue
+p172
+I1
+sVpaint
+p173
+I1
+sVmayne
+p174
+I1
+sVafrika
+p175
+I1
+sVtoo
+p176
+I1
+sVhustlin
+p177
+I1
+sVicet
+p178
+I1
+sVmama
+p179
+I1
+sVmaster
+p180
+I1
+sVlames
+p181
+I1
+sVtell
+p182
+I1
+sVpaved
+p183
+I1
+sVback
+p184
+I1
+sVago
+p185
+I1
+sVmike
+p186
+I1
+sVlived
+p187
+I1
+sVway
+p188
+I3
+sVthat
+p189
+I2
+sVfreestyle
+p190
+I1
+sVhappen
+p191
+I1
+sVbitches
+p192
+I1
+sVfore
+p193
+I1
+sVfuck
+p194
+I1
+sVphone
+p195
+I1
+sVvouch
+p196
+I1
+sVpart
+p197
+I1
+sVuncle
+p198
+I1
+sVword
+p199
+I1
+sVdidnt
+p200
+I2
+sVhold
+p201
+I1
+sVmcs
+p202
+I1
+sVtryina
+p203
+I1
+sVpresent
+p204
+I1
+sVmust
+p205
+I1
+sVme
+p206
+I22
+sVthrowed
+p207
+I1
+sVnone
+p208
+I1
+sVgrew
+p209
+I1
+sVrappin
+p210
+I2
+sVcalls
+p211
+I1
+sVmc
+p212
+I1
+sVniggas
+p213
+I3
+sVthousands
+p214
+I1
+sVpast
+p215
+I1
+sVhandcuffs
+p216
+I1
+sVspitter
+p217
+I1
+sVcant
+p218
+I2
+sVpandemonium
+p219
+I1
+sVwhenever
+p220
+I1
+sVcubs
+p221
+I1
+sVta
+p222
+I2
+sVminutes
+p223
+I1
+sVbet
+p224
+I1
+sVhistory
+p225
+I1
+sVgone
+p226
+I1
+sVthatll
+p227
+I1
+sVindie
+p228
+I1
+sVpro
+p229
+I1
+sVpenny
+p230
+I1
+sVpie
+p231
+I1
+sVovernight
+p232
+I2
+sVrhymesll
+p233
+I1
+sVsay
+p234
+I2
+sVhomie
+p235
+I1
+sVim
+p236
+I11
+sVrap
+p237
+I2
+sVpartner
+p238
+I1
+sVneed
+p239
+I16
+sVseen
+p240
+I1
+sVmade
+p241
+I3
+sVid
+p242
+I1
+sVshit
+p243
+I4
+sVaround
+p244
+I1
+sVones
+p245
+I1
+sVnight
+p246
+I1
+sVcharles
+p247
+I1
+sVpay
+p248
+I1
+sVmeans
+p249
+I1
+sVfame
+p250
+I1
+sVtone
+p251
+I1
+sVtill
+p252
+I1
+sVutfo
+p253
+I1
+sVbillionaire
+p254
+I1
+sVplace
+p255
+I1
+sVfools
+p256
+I1
+sVtalkin
+p257
+I2
+sVvallejo
+p258
+I1
+sVpicture
+p259
+I1
+sVbrothers
+p260
+I1
+sVthough
+p261
+I2
+sVtrack
+p262
+I1
+sVprice
+p263
+I1
+sVflows
+p264
+I1
+sVfreddie
+p265
+I1
+sVliving
+p266
+I1
+sVdust
+p267
+I1
+sVseasons
+p268
+I1
+sVdrought
+p269
+I1
+sVratatatat
+p270
+I1
+sVauthentic
+p271
+I1
+sVfeudin
+p272
+I1
+sVcc
+p273
+I1
+sVkeep
+p274
+I1
+sVpenitentiary
+p275
+I1
+sVsomethin
+p276
+I2
+sVindependently
+p277
+I1
+sVoff
+p278
+I1
+sVpreciate
+p279
+I1
+sVthird
+p280
+I1
+sVwife
+p281
+I1
+sVi
+I1
+sVwent
+p282
+I1
+sVdivorced
+p283
+I1
+sVlife
+p284
+I1
+sVhead
+p285
+I1
+sVst
+p286
+I1
+sVthought
+p287
+I1
+sVsons
+p288
+I1
+sVmovie
+p289
+I1
+sVhear
+p290
+I1
+sVthats
+p291
+I1
+sVballs
+p292
+I1
+sVconcerts
+p293
+I1
+s.

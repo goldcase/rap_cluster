@@ -1,105 +1,958 @@
-"they down with us" lyrics
-scarface lyrics
-"they down with us"
-(feat. u.g.k.)
-yo pop .... let's jump in the fight game boy
-my nigga bun b you know he down wit us
-short  dog and doc down wit us
-eric b and pimp c you kwow they down wit us
-black rob and eightball ...down wit us
-m.j.g. you know he down wit us
-b-legit and e-feezie down wit us
-my nigga young ke ke he down wit us
-south side nigga and we down tah bust i'm #1
-too many niggaz takin' rap for a joke
-you be up for one minute and then the next you're flat broke
-rhyme about fly bitches - daytona - hardheaded spokes
-pockets once was phat but now your bummin' smokes
-and now your gung ho got'cha niggaz by your side
-and the topic of your every conversation's let's ride
-but let's take 5 and then put that shit aside
-but you know as well as i know
-that you don't wanna die
-i give's ah fuck about your crew
-what they wanna do
-them niggaz quick tah cock they straps
-we cock straps too
-and we blast on fools...fuck you over
-we smoke niggaz too..like black rob do
-we striaght criminals..fuck an interveiw
-j-prince will ethnic cleanse like hitler used to do
-bring on an interlude
-i'm comin' from a school where if ah nigga mouth
-get out-we aim tah hit at you
-method subliminal-i'm the original
-that bullshit i heard on your disc was pitiful
-i'm critical-nigga i ride around and housin'
-my records doin' millions you barely clock a hundred thousand
-i clock more dough plus do more shows
-you brag on tight flows but you can't go gold
-you sold your soul and bullshit sound low
-fuckin' wit me is not so need nine mo'
-now the internet,radio,prison even the t.v.
-all askin' me tah spit the meaning of b-u-n-b
-well let's see i'm broader than broadway
-rollin' brahma's on broadway
-got your brawd out on broadway
-tah broadway in ah broad day
-now i brought the underground plunger
-sound from down under
-somethin' like when that thunder pound
-way from round yunder
-hey i'm from the south mane
-plus i'm the south main fanatical film broker
-than carol on south main
-close your mouth mane
-i ain't ask tah see your tonsil's or your tounge
-lookin' sprung like the prince was for repunzil
-i gets twisted like a pretzel these rappers cryin' the blues
-cuz i make this shit look crazier than tyin' my shoes
-people ask me do i write rhymes
-i tell 'em i used to
-shit now i'm writin' history you gonna remember
-like the juice crew
-u to the g to the k-p-a playa
-miss me bout that u-ing nigga next up is j-r
-unnh tell yah lil' j is down wit us
-the boy big chief is down wit us
-the nigga california is down wit us
-you know the boy brad is down wit us
-the boy big mike still down wit us
-come in die candy sippin' the tusk
-niggaz in the southside down wit us
-fifth ward-down tah ride down wit us
-nore and ross breakin' 'em off
-cuz when they think they winnin' fucked boy your lost
-i like the rye white raised on gravy and rice
-this rap-a-lot mafia life....super tight
-skip daddy ain't said must of started smokin' rocks
-we got game on loud...bitch you ain't proud
-smoke private stock-got blades chopped
-keep ah young yella bop and ah pistol tah pop
-on ah punk motherfucker talkin' shit wit ah gun
-pimp and bun like dmc and dj run
-everyday i come down them niggaz callin' my game
-then ge on b-e-t and they don't mention my name
-some grip it on that other level
-face be bustin' they head
-ride bentley early 90's watchin' out for the feds
-red the king of south and i'm the aire to the throne
-j-prince done took off runnin' like dedo cartione
-my nigga j-d you know he down wit us
-rock-a-fella records is down wit us
-cash money millionaires is down wit us
-pretty boy floyld you know he down wit us
-roy jones jr. he's down wit us
-iron mike tyson down wit us
-lennox lewis is down wit us
-and knockin' motherfuckers out is ah must
-rockin' rodney moore down wit us
-my nigga willie you know he down wit us
-can't forget about reggie cuz he down wit us
-my nigga j-prince you know he down wit us
-big teeth and b-dub down tah bust
-and these niggaz in this motherfucker down wit us
-takin' motherfuckers out is ah must we #1
+(dp1
+Vugk
+p2
+I1
+sVhardheaded
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVbrahmas
+p6
+I1
+sVyah
+p7
+I1
+sVsound
+p8
+I2
+sVrob
+p9
+I2
+sVsouthside
+p10
+I1
+sVpound
+p11
+I1
+sVwatchin
+p12
+I1
+sVbring
+p13
+I1
+sVge
+p14
+I1
+sVdisc
+p15
+I1
+sVkwow
+p16
+I1
+sVjprince
+p17
+I3
+sVbroader
+p18
+I1
+sVgo
+p19
+I1
+sVbroadway
+p20
+I4
+sVstill
+p21
+I1
+sVfeat
+p22
+I1
+sVprince
+p23
+I1
+sVfifth
+p24
+I1
+sVrepunzil
+p25
+I1
+sVaint
+p26
+I3
+sVwrite
+p27
+I1
+sVunnh
+p28
+I1
+sVrockafella
+p29
+I1
+sVgold
+p30
+I1
+sVtv
+p31
+I1
+sVtalkin
+p32
+I1
+sVyoung
+p33
+I2
+sVbust
+p34
+I2
+sVcrew
+p35
+I2
+sVlets
+p36
+I4
+sVblegit
+p37
+I1
+sVblack
+p38
+I2
+sVnore
+p39
+I1
+sVunder
+p40
+I1
+sVpitiful
+p41
+I1
+sVmain
+p42
+I2
+sVover
+p43
+I1
+sVross
+p44
+I1
+sVgrip
+p45
+I1
+sVdo
+p46
+I3
+sVreggie
+p47
+I1
+sVcallin
+p48
+I1
+sVhit
+p49
+I1
+sVaround
+p50
+I1
+sVyo
+p51
+I1
+sVget
+p52
+I1
+sVconversations
+p53
+I1
+sVrhyme
+p54
+I1
+sVbdub
+p55
+I1
+sVearly
+p56
+I1
+sVrecords
+p57
+I2
+sVgame
+p58
+I3
+sVdmc
+p59
+I1
+sVevery
+p60
+I1
+sVknow
+p61
+I9
+sVdedo
+p62
+I1
+sVgot
+p63
+I2
+sVcryin
+p64
+I1
+sVcriminalsfuck
+p65
+I1
+sVblast
+p66
+I1
+sVbullshit
+p67
+I2
+sVminute
+p68
+I1
+sVlook
+p69
+I1
+sVschool
+p70
+I1
+sVlike
+p71
+I8
+sVpimp
+p72
+I2
+sVlevel
+p73
+I1
+sVdie
+p74
+I2
+sVskip
+p75
+I1
+sVpretzel
+p76
+I1
+sVcandy
+p77
+I1
+sVrocks
+p78
+I1
+sVkpa
+p79
+I1
+sVprivate
+p80
+I1
+sVefeezie
+p81
+I1
+sVquick
+p82
+I1
+sVdough
+p83
+I1
+sVblades
+p84
+I1
+sVside
+p85
+I2
+sVwarddown
+p86
+I1
+sVem
+p87
+I2
+sVforget
+p88
+I1
+sVnigga
+p89
+I9
+sVbentley
+p90
+I1
+sVcuz
+p91
+I3
+sVwinnin
+p92
+I1
+sVwillie
+p93
+I1
+sVgun
+p94
+I1
+sVjump
+p95
+I1
+sVloudbitch
+p96
+I1
+sVsee
+p97
+I2
+sVaskin
+p98
+I1
+sVus
+p99
+I28
+sVclose
+p100
+I1
+sVblues
+p101
+I1
+sVeven
+p102
+I1
+sV90s
+p103
+I1
+sVlifesuper
+p104
+I1
+sVgon
+p105
+I1
+sVclock
+p106
+I2
+sVgung
+p107
+I1
+sVknockin
+p108
+I1
+sVyella
+p109
+I1
+sVplaya
+p110
+I1
+sVtyin
+p111
+I1
+sVnine
+p112
+I1
+sVpistol
+p113
+I1
+sVmillionaires
+p114
+I1
+sVmethod
+p115
+I1
+sVred
+p116
+I1
+sVshows
+p117
+I1
+sVbrawd
+p118
+I1
+sVrun
+p119
+I1
+sViron
+p120
+I1
+sVproud
+p121
+I1
+sVoutwe
+p122
+I1
+sVsold
+p123
+I1
+sVbroker
+p124
+I1
+sVjr
+p125
+I2
+sVsprung
+p126
+I1
+sVcalifornia
+p127
+I1
+sVcrazier
+p128
+I1
+sVrice
+p129
+I1
+sVput
+p130
+I1
+sVcarol
+p131
+I1
+sVcome
+p132
+I2
+sVaire
+p133
+I1
+sVthrone
+p134
+I1
+sVboy
+p135
+I6
+sVc
+I1
+sVg
+I1
+sVpeople
+p136
+I1
+sVjoke
+p137
+I1
+sVrunnin
+p138
+I1
+sVbarely
+p139
+I1
+sVpunk
+p140
+I1
+sVround
+p141
+I1
+sVtounge
+p142
+I1
+sVmust
+p143
+I3
+sVplus
+p144
+I2
+sVmane
+p145
+I2
+sVpockets
+p146
+I1
+sVbrad
+p147
+I1
+sVfeds
+p148
+I1
+sVrodney
+p149
+I1
+sVhead
+p150
+I1
+sVthink
+p151
+I1
+sVsouth
+p152
+I5
+sVsmokin
+p153
+I1
+sVchopped
+p154
+I1
+sVlookin
+p155
+I1
+sVraised
+p156
+I1
+sVwritin
+p157
+I1
+sVtoolike
+p158
+I1
+sVdont
+p159
+I2
+sVfilm
+p160
+I1
+sVmotherfuckers
+p161
+I2
+sVpop
+p162
+I2
+sVone
+p163
+I1
+sVbrought
+p164
+I1
+sVask
+p165
+I2
+sVwit
+p166
+I28
+sVdone
+p167
+I1
+sVspokes
+p168
+I1
+sVinternetradioprison
+p169
+I1
+sVcomin
+p170
+I1
+sVfight
+p171
+I1
+sVmiss
+p172
+I1
+sVhitler
+p173
+I1
+sVmillions
+p174
+I1
+sVwan
+p175
+I2
+sVrhymes
+p176
+I1
+sVbummin
+p177
+I1
+sVhes
+p178
+I1
+sVeightball
+p179
+I1
+sVhey
+p180
+I1
+sVcriticalnigga
+p181
+I1
+sVnext
+p182
+I2
+sVlost
+p183
+I1
+sVtonsils
+p184
+I1
+sVtoo
+p185
+I1
+sVway
+p186
+I1
+sVbreakin
+p187
+I1
+sVrockin
+p188
+I1
+sVwhite
+p189
+I1
+sVhundred
+p190
+I1
+sVtell
+p191
+I2
+sVgives
+p192
+I1
+sVinterveiw
+p193
+I1
+sVflat
+p194
+I1
+sVmike
+p195
+I2
+sVroy
+p196
+I1
+sVsaid
+p197
+I1
+sVspit
+p198
+I1
+sVstarted
+p199
+I1
+sVgotcha
+p200
+I1
+sVbitches
+p201
+I1
+sVtook
+p202
+I1
+sVfoolsfuck
+p203
+I1
+sVmjg
+p204
+I1
+sVbun
+p205
+I2
+sVho
+p206
+I1
+sVbroke
+p207
+I1
+sVstriaght
+p208
+I1
+sVcleanse
+p209
+I1
+sVbout
+p210
+I1
+sVmafia
+p211
+I1
+sVremember
+p212
+I1
+sVfly
+p213
+I1
+sVking
+p214
+I1
+sVb
+I2
+sVtwisted
+p215
+I1
+sVjuice
+p216
+I1
+sVtusk
+p217
+I1
+sVride
+p218
+I4
+sVj
+I1
+sVsoul
+p219
+I1
+sVniggaz
+p220
+I7
+sVcartione
+p221
+I1
+sVaim
+p222
+I1
+sVbop
+p223
+I1
+sVsubliminalim
+p224
+I1
+sVmotherfucker
+p225
+I2
+sVmany
+p226
+I1
+sVim
+p227
+I8
+sVplunger
+p228
+I1
+sVdaddy
+p229
+I1
+sVcock
+p230
+I2
+sVmo
+p231
+I1
+sVbet
+p232
+I1
+sVhistory
+p233
+I1
+sVphat
+p234
+I1
+sVmoney
+p235
+I1
+sVmoore
+p236
+I1
+sVah
+p237
+I9
+sVcash
+p238
+I1
+sVfuck
+p239
+I1
+sVlewis
+p240
+I1
+sVbustin
+p241
+I1
+sVtopic
+p242
+I1
+sVheard
+p243
+I1
+sVcant
+p244
+I2
+sVscarface
+p245
+I1
+sVrap
+p246
+I1
+sVneed
+p247
+I1
+sVdj
+p248
+I1
+sVkeep
+p249
+I1
+sVtah
+p250
+I9
+sVeric
+p251
+I1
+sVshit
+p252
+I4
+sVlow
+p253
+I1
+sVinterlude
+p254
+I1
+sVbunb
+p255
+I1
+sVfanatical
+p256
+I1
+sVlil
+p257
+I1
+sVna
+p258
+I3
+sVmake
+p259
+I1
+sVrye
+p260
+I1
+sVaside
+p261
+I1
+sVtakin
+p262
+I2
+sVeveryday
+p263
+I1
+sV1
+I2
+sVtight
+p264
+I2
+sV5
+I1
+sVtake
+p265
+I1
+sVbig
+p266
+I3
+sVunderground
+p267
+I1
+sVbrag
+p268
+I1
+sVyou
+p269
+I1
+sVgets
+p270
+I1
+sVjd
+p271
+I1
+sVthousand
+p272
+I1
+sVday
+p273
+I1
+sVyoure
+p274
+I1
+sVstockgot
+p275
+I1
+sVgravy
+p276
+I1
+sVused
+p277
+I2
+sVsmoke
+p278
+I2
+sVname
+p279
+I1
+sVuing
+p280
+I1
+sVdoin
+p281
+I1
+sVteeth
+p282
+I1
+sVlennox
+p283
+I1
+sVflows
+p284
+I1
+sVrappers
+p285
+I1
+sVmeaning
+p286
+I1
+sVsippin
+p287
+I1
+sVmouth
+p288
+I2
+sVethnic
+p289
+I1
+sVfucked
+p290
+I1
+sVthunder
+p291
+I1
+sVtyson
+p292
+I1
+sVsmokes
+p293
+I1
+sVjones
+p294
+I1
+sVsomethin
+p295
+I1
+sVshort
+p296
+I1
+sVoff
+p297
+I1
+sVdaytona
+p298
+I1
+sVke
+p299
+I2
+sVmention
+p300
+I1
+sVhousin
+p301
+I1
+sVdoc
+p302
+I1
+sVstraps
+p303
+I2
+sVwell
+p304
+I2
+sVdog
+p305
+I1
+sVrollin
+p306
+I1
+sVface
+p307
+I1
+sVchief
+p308
+I1
+sVyunder
+p309
+I1
+sVu
+I1
+sVfuckin
+p310
+I1
+sVbroad
+p311
+I1
+sVfloyld
+p312
+I1
+sVrapalot
+p313
+I1
+sVpretty
+p314
+I1
+sVoriginal
+p315
+I1
+s.

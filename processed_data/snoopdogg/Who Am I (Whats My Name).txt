@@ -1,72 +1,445 @@
-"who am i (what's my name)?" lyrics
-snoop dogg lyrics
-"who am i (what's my name)?"
-eeeyiyiyiyiyahthedoggpound'sinthehou-owwse (the bomb)
-eeeyiyiyiyiyeahthedoggpound'sinthehou-oww-owse
-snoop doggy, do-owww-ohhhh-oggg (the bomb)
-snoop doggy, do-owww-ohhhh-oggg (dog)
-from the depths of the sea, back to the block
-snoop doggy dogg, funky, yes but of the doc
-went solo on that ass, but it's still the same
-long beach is the spot where i served my cane
-follow me, follow me, follow me, follow me, but don't lose your grip
-nine-trizzay's the yizzear for me to fuck up shit
-so i ain't holdin nuttin back
-and motherfucker i got five on the twenty sack
-it's like that and as a matter of fact
-cuz i never hesitate to put a nigga on his back
-[yeah, so peep out the manuscript
-you see that it's a must we drop gangsta shit]
-what's my motherfuckin name?
-snoop doggy, do-owww-ohhhh-oggg (yeah yeah yeah)
-snoop doggy, do-owww-ohhhh-oggg (the bomb)
-da-duh-da-da-dah
-do-do-do-do, doo-doo-doo-da-dahhh! (dog)
-it's the bow to the wow, creepin and crawlin
-yiggy yes y'allin, snoop doggy dogg in
-the motherfuckin house like everyday
-droppin shit with my nigga mr dr. dre
-like i said, niggaz can't fuck with this
-and niggaz can't fuck with that
-shit that i drop cuz ya know it don't stop
-mr. one eight seven on a motherfuckin cop
-tic toc never the glock just some nuts and a cock
-robbin motherfuckers then i kill dem blood claats
-then i step through the fog and i creep through the smog
-cuz i'm snoop doggy (who?) doggy (what?) doggy
-snoop doggy, do-owww-ohhhh-oggg
-snoop doggy, do-owww-ohhhh-oggg (the bomb)
-bowwowwowyippyyoyippyyay, bowwowwowyippyyo (the bomb)
-bowwowwowyippyyoyippyyay, bowwowwowyippyyoyoyoyoyoyo
-now just throw your hands in the motherfuckin air
-and wave the motherfuckers like ya just don't care
-yeah roll up the dank, and pour the drank
-and watch your step (why?) cuz doggy's on the gank
-my bank roll's on swoll
-my shit's on hit, legit, now i'm on parole, stroll
-with the dogg pound right behind me
-and up in yo bitch, is where ya might find me
-layin that, playin that g thang
-she want the nigga with the biggest nuts, and guess what?
-he is i, and i am him, slim with the tilted brim
-what's my motherfuckin name?
-snoop doggy, do-owww-ohhhh-oggg (the bomb)
-snoop doggy, do-owww-ohhhh-oggg
-snoop doggy, do-owww-ohhhh-oggg (the bomb)
-snoop doggy, do-owww-ohhhh-oggg (dog)
-da-duh-da-da-dah
-do-do-do-do, doo-doo-doo-da-dahhh! (the bomb)
-da-duh-da-da-dah
-do-do-do-do, doo-doo-doo-da-dahhh! (dog) (the bomb)
-bowwowwowyippyyoyippyyay, bowwowwowyippyyo (the bomb)
-doggy dogg, doggy dogg, doggy dogg
-bowwowwowyippyyoyippyyay, bowwowwowyippyyo (the bomb)
-what is, his name?  snoop dogg, and the dogg pound
-(dog) (the bomb)
-ohhh, snoopy dogg, snoopy dogg, snoopy dogg (the bomb)
-yeah yeah (dog) i know his name
-c'mon snoopy, c'mon snoopy (the bomb)
-and the dogg pound
-snoopy dogg (the bomb) snoopy dogg
-snoopy dogg (dog)
-(dog, nasty dog, doggy dog)
+(dp1
+Vbomb
+p2
+I15
+sVlyrics
+p3
+I2
+sVeeeyiyiyiyiyeahthedoggpoundsinthehouowwowse
+p4
+I1
+sVkill
+p5
+I1
+sVbrim
+p6
+I1
+sVfollow
+p7
+I4
+sVyes
+p8
+I2
+sVstill
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I1
+sVthang
+p12
+I1
+sVcuz
+p13
+I4
+sVyiggy
+p14
+I1
+sVstroll
+p15
+I1
+sVohhh
+p16
+I1
+sVgangsta
+p17
+I1
+sVmight
+p18
+I1
+sVyallin
+p19
+I1
+sVgrip
+p20
+I1
+sVme
+p21
+I2
+sVhit
+p22
+I1
+sVyo
+p23
+I1
+sVya
+p24
+I3
+sVstop
+p25
+I1
+sVwave
+p26
+I1
+sVfive
+p27
+I1
+sVknow
+p28
+I2
+sVsnoopy
+p29
+I8
+sVhands
+p30
+I1
+sVdodododo
+p31
+I3
+sVnasty
+p32
+I1
+sVdr
+p33
+I1
+sVbank
+p34
+I1
+sVname
+p35
+I6
+sVlike
+p36
+I4
+sVbowwowwowyippyyoyippyyay
+p37
+I4
+sVdrop
+p38
+I2
+sVrobbin
+p39
+I1
+sVholdin
+p40
+I1
+sVlose
+p41
+I1
+sVserved
+p42
+I1
+sVwent
+p43
+I1
+sVcreepin
+p44
+I1
+sVnigga
+p45
+I3
+sVnuttin
+p46
+I1
+sVhouse
+p47
+I1
+sVback
+p48
+I3
+sVcrawlin
+p49
+I1
+sVsee
+p50
+I1
+sVpour
+p51
+I1
+sVsea
+p52
+I1
+sVgank
+p53
+I1
+sVplayin
+p54
+I1
+sVcreep
+p55
+I1
+sVbowwowwowyippyyoyoyoyoyoyo
+p56
+I1
+sVdoowwwohhhhoggg
+p57
+I10
+sVwhat
+p58
+I1
+sVsaid
+p59
+I1
+sVwow
+p60
+I1
+sVbehind
+p61
+I1
+sVfog
+p62
+I1
+sVgot
+p63
+I1
+sVsmog
+p64
+I1
+sVdoggy
+p65
+I19
+sVass
+p66
+I1
+sVsolo
+p67
+I1
+sVright
+p68
+I1
+sVnever
+p69
+I2
+sVmotherfucker
+p70
+I1
+sVeeeyiyiyiyiyahthedoggpoundsinthehouowwse
+p71
+I1
+sVbowwowwowyippyyo
+p72
+I3
+sVstep
+p73
+I2
+sVput
+p74
+I1
+sVpeep
+p75
+I1
+sVthrow
+p76
+I1
+sVlegit
+p77
+I1
+sVcare
+p78
+I1
+sVcop
+p79
+I1
+sVg
+I1
+sVclaats
+p80
+I1
+sVbow
+p81
+I1
+sVfunky
+p82
+I1
+sVtwenty
+p83
+I1
+sVdre
+p84
+I1
+sVmotherfuckers
+p85
+I2
+sVblock
+p86
+I1
+sVwhats
+p87
+I4
+sVdont
+p88
+I3
+sVmanuscript
+p89
+I1
+sVsack
+p90
+I1
+sVone
+p91
+I1
+sVpound
+p92
+I3
+sVbitch
+p93
+I1
+sVtilted
+p94
+I1
+sVrolls
+p95
+I1
+sVguess
+p96
+I1
+sVsnoop
+p97
+I15
+sVdogg
+p98
+I16
+sVlong
+p99
+I1
+sVdrank
+p100
+I1
+sVshits
+p101
+I1
+sVtoc
+p102
+I1
+sVglock
+p103
+I1
+sVyeah
+p104
+I7
+sVyizzear
+p105
+I1
+sVcmon
+p106
+I2
+sVmust
+p107
+I1
+sVswoll
+p108
+I1
+sVdoodoodoodadahhh
+p109
+I3
+sVthis
+p110
+I1
+sVlayin
+p111
+I1
+sVniggaz
+p112
+I2
+sVair
+p113
+I1
+sVmatter
+p114
+I1
+sVdroppin
+p115
+I1
+sVdank
+p116
+I1
+sVdem
+p117
+I1
+sVmr
+p118
+I2
+sVcock
+p119
+I1
+sVseven
+p120
+I1
+sVcane
+p121
+I1
+sVslim
+p122
+I1
+sVfuck
+p123
+I3
+sVbiggest
+p124
+I1
+sVcant
+p125
+I2
+sVim
+p126
+I2
+sVwant
+p127
+I1
+sVdaduhdadadah
+p128
+I3
+sVeveryday
+p129
+I1
+sVshit
+p130
+I4
+sVhesitate
+p131
+I1
+sVnuts
+p132
+I2
+sVsame
+p133
+I1
+sVmotherfuckin
+p134
+I5
+sVbeach
+p135
+I1
+sVroll
+p136
+I1
+sVtic
+p137
+I1
+sVwatch
+p138
+I1
+sVspot
+p139
+I1
+sVdoggys
+p140
+I1
+sVdepths
+p141
+I1
+sVeight
+p142
+I1
+sVblood
+p143
+I1
+sVdoc
+p144
+I1
+sVninetrizzays
+p145
+I1
+sVdog
+p146
+I10
+sVparole
+p147
+I1
+sVfact
+p148
+I1
+s.

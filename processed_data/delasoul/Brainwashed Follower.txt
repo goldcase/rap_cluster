@@ -1,55 +1,447 @@
-"brainwashed follower" lyrics
-de la soul lyrics
-"brainwashed follower"
-yo yo, hey man, ain't you guys um, plug one? plug two?
-potholes in my lawn? you're those weird guys, de la soul, right?
-yeah, what's up little man, how you feeling, i'm dove, how you
-feeling.
-yo what's up man, my name is pos.
-what's up, i'm mase. yo, shorty, what's your name?
-oh, my name? jeff. you guys are walking? now rappers ain't
-supposed to walk.
-sorry little man, but you know...
-jeff. i told you, my name is jeff. if you guys are rappers,
-where's your dukey gold chains? y'all don't have no dukey gold chains.
-we don't wear gold chains, we'd rather spend our money on
-more important things like, women, necessities...
-and video games!
-y'all are crazy. no chains, dag. okay, where's your bmw?
-you're not supposed to walk. where's your jeeps, your maximas?
-maximas? yo, maxin' would break my flow. and with the cause of
-gas, jeff man, i'd rather take the transit that's mass.
-what you say? you are c-r-a-z-e-e. crazee. don't you know you
-can't be def if you don't have no gold? or a car, man? what's up?
-who told you that?
-everybody who's def has gold, cars, money, girls, clothes...
-wait a minute, wait a minute, shorty, you're buggin'. do you like
-plug tunin' and
-potholes?
-yeah that song's def.
-but we don't wear no gold chains, nor do we ride bmw's and
-maxes or jeeps, yet you still think our music is def, right? wait a
-minute. did i say 'def'?
-rrrr-rrah!
-what?
-nothing, nothing. it's just that we don't deal with all that
-materialistic stuff, but we still got what it takes to please and
-supply our listeners, understand my man?
-where's your beepers? why don't you have beepers? everybody
-wears beepers. you have to have beepers to look down.
-aaauughhh! little man is brainwashed indeed!
-nah, nah. beepers are the least of status situators, man. plus
-i find them ugly as parking tickets.
-you guys talk funny.
-well actually our verbal is kinetic, so when released flow a to
-z is perfectly pitched in andvance in intricacy.
-yeah you homeboys are really bugged.
-wait a minute. did he say...
-bugged?
-rrrr-rrah!
-so no car, no beepers, no gold. that's weak man, that's weak.
-jesus, did he say 'weak?' jesus, they never learn.
-foolish mind, have i, have i.
-actin' like that lady!
-that lady!
-peace, my brother...
+(dp1
+Vwalking
+p2
+I1
+sVmaterialistic
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I2
+sVbugged
+p6
+I2
+sVkinetic
+p7
+I1
+sVstill
+p8
+I2
+sVyet
+p9
+I1
+sVaint
+p10
+I2
+sVgold
+p11
+I7
+sVwed
+p12
+I1
+sVsupply
+p13
+I1
+sVactually
+p14
+I1
+sVdukey
+p15
+I2
+sVactin
+p16
+I1
+sVindeed
+p17
+I1
+sVsorry
+p18
+I1
+sVmaximas
+p19
+I2
+sVbeepers
+p20
+I6
+sVdag
+p21
+I1
+sVyo
+p22
+I5
+sVde
+p23
+I2
+sVbreak
+p24
+I1
+sVknow
+p25
+I2
+sVaaauughhh
+p26
+I1
+sVwalk
+p27
+I2
+sVlady
+p28
+I2
+sVminute
+p29
+I4
+sVname
+p30
+I4
+sVtickets
+p31
+I1
+sVlike
+p32
+I3
+sVcause
+p33
+I1
+sVbrother
+p34
+I1
+sVintricacy
+p35
+I1
+sVstuff
+p36
+I1
+sVtunin
+p37
+I1
+sVfoolish
+p38
+I1
+sVyall
+p39
+I2
+sVclothes
+p40
+I1
+sVright
+p41
+I2
+sVdeal
+p42
+I1
+sVverbal
+p43
+I1
+sVyeah
+p44
+I3
+sVmaxin
+p45
+I1
+sVsoul
+p46
+I2
+sVvideo
+p47
+I1
+sVparking
+p48
+I1
+sVreally
+p49
+I1
+sVjesus
+p50
+I2
+sVplease
+p51
+I1
+sVfind
+p52
+I1
+sVgot
+p53
+I1
+sVchains
+p54
+I5
+sVtold
+p55
+I2
+sVwears
+p56
+I1
+sVcars
+p57
+I1
+sVnever
+p58
+I1
+sVweak
+p59
+I3
+sVbrainwashed
+p60
+I3
+sVwear
+p61
+I2
+sVsituators
+p62
+I1
+sVwait
+p63
+I4
+sVplug
+p64
+I3
+sVz
+I1
+sVoh
+p65
+I1
+sVla
+p66
+I2
+sVgames
+p67
+I1
+sVweird
+p68
+I1
+sVthink
+p69
+I1
+sVthats
+p70
+I3
+sVwhats
+p71
+I5
+sVdont
+p72
+I7
+sVjeff
+p73
+I4
+sVtransit
+p74
+I1
+sVpos
+p75
+I1
+sVone
+p76
+I1
+sVfollower
+p77
+I2
+sVeverybody
+p78
+I2
+sVlittle
+p79
+I3
+sVtakes
+p80
+I1
+sVwould
+p81
+I1
+sVguys
+p82
+I5
+sVgirls
+p83
+I1
+sVtwo
+p84
+I1
+sVleast
+p85
+I1
+sVwhos
+p86
+I1
+sVmusic
+p87
+I1
+sVperfectly
+p88
+I1
+sVhomeboys
+p89
+I1
+sVandvance
+p90
+I1
+sVgas
+p91
+I1
+sVlawn
+p92
+I1
+sVrrrrrrah
+p93
+I2
+sVreleased
+p94
+I1
+sVunderstand
+p95
+I1
+sVbmw
+p96
+I1
+sVpitched
+p97
+I1
+sVwomen
+p98
+I1
+sVlook
+p99
+I1
+sVcar
+p100
+I2
+sVride
+p101
+I1
+sVsay
+p102
+I4
+sVum
+p103
+I1
+sVugly
+p104
+I1
+sVlisteners
+p105
+I1
+sVsupposed
+p106
+I2
+sVlearn
+p107
+I1
+sVfeeling
+p108
+I2
+sVdef
+p109
+I5
+sVand
+p110
+I1
+sVcrazy
+p111
+I1
+sVmaxes
+p112
+I1
+sVwell
+p113
+I1
+sVmind
+p114
+I1
+sVcant
+p115
+I1
+sVim
+p116
+I2
+sVpotholes
+p117
+I2
+sVid
+p118
+I1
+sVnecessities
+p119
+I1
+sVfunny
+p120
+I1
+sVrather
+p121
+I2
+sVthings
+p122
+I1
+sVnah
+p123
+I2
+sVpeace
+p124
+I1
+sVbuggin
+p125
+I1
+sVjeeps
+p126
+I2
+sVtake
+p127
+I1
+sVplus
+p128
+I1
+sVyou
+p129
+I1
+sVstatus
+p130
+I1
+sVokay
+p131
+I1
+sVhey
+p132
+I1
+sVrappers
+p133
+I2
+sVshorty
+p134
+I2
+sVimportant
+p135
+I1
+sVnothing
+p136
+I2
+sVdove
+p137
+I1
+sVwheres
+p138
+I4
+sVman
+p139
+I10
+sVa
+I1
+sVmase
+p140
+I1
+sVyoure
+p141
+I3
+sVflow
+p142
+I2
+sVcrazee
+p143
+I2
+sVmass
+p144
+I1
+sVbmws
+p145
+I1
+sVspend
+p146
+I1
+sVtalk
+p147
+I1
+sVsongs
+p148
+I1
+s.

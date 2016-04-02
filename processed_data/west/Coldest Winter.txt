@@ -1,29 +1,92 @@
-coldest winter lyrics
-kanye west lyrics
-coldest winter
-lonely nights start fade
-lonely nights start fade
-love thousand miles away
-love thousand miles away
-memories made coldest winter
-goodbye friend ever love
-memories made coldest winter
-4am cant sleep
-4am cant sleep
-love see
-love see
-memories made coldest winter
-goodbye friend ever love
-memories made coldest winter
-winter winter
-goodbye friend ever love
-goodbye friend ever love
-goodbye friend ever love
-goodbye friend ever love
-spring take snow away
-spring take snow away
-melt away mistakes
-melt away mistakes
-memories made coldest winter
-goodbye friend wont ever love
-never again
+(dp1
+Vlove
+p2
+I11
+sVlyrics
+p3
+I2
+sVspring
+p4
+I2
+sVcant
+p5
+I2
+sVmistakes
+p6
+I2
+sVsleep
+p7
+I2
+sVcoldest
+p8
+I7
+sVkanye
+p9
+I1
+sVagain
+p10
+I1
+sVnights
+p11
+I2
+sVwinter
+p12
+I9
+sVmemories
+p13
+I5
+sVaway
+p14
+I6
+sVsnow
+p15
+I2
+sVmelt
+p16
+I2
+sVstart
+p17
+I2
+sVtake
+p18
+I2
+sVfade
+p19
+I2
+sVever
+p20
+I7
+sVfriend
+p21
+I7
+sVlonely
+p22
+I2
+sVthousand
+p23
+I2
+sVnever
+p24
+I1
+sV4am
+p25
+I2
+sVwont
+p26
+I1
+sVmade
+p27
+I5
+sVsee
+p28
+I2
+sVmiles
+p29
+I2
+sVgoodbye
+p30
+I7
+sVwest
+p31
+I1
+s.

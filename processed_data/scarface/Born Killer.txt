@@ -1,83 +1,693 @@
-"born killer" lyrics
-scarface lyrics
-"born killer"
-i'ma born killer, you're face to face with scarface
-you tried to ice an x, but thats a motherfuckin waste
-your schools fucked up g
-and your momma shoulda warned ya about a nigga like me
-cause i don't weep and i don't sleep
-save that motherfucker black, cause talk is cheap
-and uh, since you got beef
-lets take it to the streets and i'mma bring it to your ass g
-i'm commin from the heart son
-and i don't take no shit, but i'm about to start some
-now which one a you hoes wanna jump
-if you got static, then get it off your chest punk
-cause i ain't bar none
-if you're feelin lucky then go ahead and get cha some
-i ain't with this fucked shit
-if ya ain't in trick, then get your ass in ya trunk bitch
-cause i'm about to square it off
-hit ya ass in the chest with the tech and try to tear it off
-send you back to mommy, its a plastic
-and hadda bitch out huntin for a casket
-i'm on the for realla tilla my nilla
-i'm a born killa
-i'ma born killa
-born
-killa
-"don't fuck with me"
-my momma did her part
-but it ain't her fault that i was born with out a heart
-in other words i'm heartless dude
-i don't love me, how the fuck i'mma love you?
-thats right, you guessed it
-i'm legally insane, marked mannick depressive
-i'm takin all types a medication
-to keep me out the mood of premeditatin
-yo, the log around my lone is worse
-i'm havin thoughts of killin me, but i'm killin you first
-mr. kindness talks but i don't listen
-a victim of society fucked by the system
-my whole life's been a see saw
-i'm up one day, down and out on tomorrow
-right now i'm even more upset
-some shit that happened to me that i don't think i'll ever forget
-you think i'll let it die, but i ain't
-it ain't because i want to, its because i can't
-i'mma getcha but i ain't goin into it
-cause ain't nothin to it but to do it
-see it ain't no sweat to me
-cause in the fo place, you fucked up the minute that you stepped to me
-i'm not your average dealer
-i'mma born killa
-now i'm livin where i can cause i'm homeless
-can't make point calls cause i'm phoneless
-i ain't, i'm starvin duke
-i can't go to mommas house cause mommas starvin too
-better grab that 12 gauge
-cause thats the only way a niggaz gonna get paid
-i'm on my way to my old bank
-they know me real good and they don't think that i'd gank
-had my gun in my trenchcoat
-now getcha ass on the floor
-and don't think about pushin that panic switch
-i'm gettin paid and you're gettin killed bitch
-take notes to the message i gave ya
-ya dyin ho and can't nothin save ya
-i'm doin bad, so i'm goin bad
-huh, and you never expected that from brad
-but theres a lotta things pressin me
-and ain't the nigga to let the mortredresser dressin me
-so i'm comin out winnin
-100,000 in the case now i'm comin out grinnin
-but the shit didn't flow smooth
-the security guard had to run and pulla hoe move
-he reached for his pistol
-the 12 gauge went "boom" shoulda heard that motherfucker whistle
-hit him in his chest
-now which one a you motherfuckers in here wanna die next?
-nobody made a move
-and i got away smooth
-and thats how it is nigga
-i spared a couple a lives, but i'm still a born killa
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVstepped
+p4
+I1
+sVcheap
+p5
+I1
+sVlivin
+p6
+I1
+sVbring
+p7
+I1
+sVever
+p8
+I1
+sVsleep
+p9
+I1
+sVvictim
+p10
+I1
+sVgo
+p11
+I2
+sVgank
+p12
+I1
+sVstill
+p13
+I1
+sVtakin
+p14
+I1
+sVboom
+p15
+I1
+sVima
+p16
+I2
+sVkindness
+p17
+I1
+sVimma
+p18
+I4
+sVsend
+p19
+I1
+sVkilled
+p20
+I1
+sVbetter
+p21
+I1
+sVhavin
+p22
+I1
+sVlets
+p23
+I1
+sVblack
+p24
+I1
+sVbank
+p25
+I1
+sVsave
+p26
+I2
+sVmortredresser
+p27
+I1
+sVtake
+p28
+I3
+sVreal
+p29
+I1
+sVcase
+p30
+I1
+sVgood
+p31
+I1
+sVhit
+p32
+I2
+sVaround
+p33
+I1
+sVyo
+p34
+I1
+sVget
+p35
+I4
+sVya
+p36
+I7
+sVcouple
+p37
+I1
+sVkiller
+p38
+I3
+sVlucky
+p39
+I1
+sVmotherfuckers
+p40
+I1
+sVfeelin
+p41
+I1
+sVwhistle
+p42
+I1
+sV12
+p43
+I2
+sVkilla
+p44
+I5
+sVknow
+p45
+I1
+sVwords
+p46
+I1
+sVschools
+p47
+I1
+sVone
+p48
+I3
+sVday
+p49
+I1
+sVminute
+p50
+I1
+sVwent
+p51
+I1
+sVbar
+p52
+I1
+sVlike
+p53
+I1
+sVtrenchcoat
+p54
+I1
+sVtear
+p55
+I1
+sVwarned
+p56
+I1
+sVnotes
+p57
+I1
+sVgettin
+p58
+I2
+sVgun
+p59
+I1
+sVtry
+p60
+I1
+sVbad
+p61
+I2
+sVdie
+p62
+I2
+sVx
+I1
+sVgrab
+p63
+I1
+sVgauge
+p64
+I2
+sVinsane
+p65
+I1
+sVnigga
+p66
+I3
+sVold
+p67
+I1
+sVrealla
+p68
+I1
+sVhouse
+p69
+I1
+sVstreets
+p70
+I1
+sVsome
+p71
+I2
+sVback
+p72
+I1
+sVjump
+p73
+I1
+sVborn
+p74
+I9
+sVsee
+p75
+I2
+sVstatic
+p76
+I1
+sVhoes
+p77
+I1
+sVgave
+p78
+I1
+sVdepressive
+p79
+I1
+sVeven
+p80
+I1
+sVmommas
+p81
+I2
+sVgon
+p82
+I1
+sVmood
+p83
+I1
+sVaway
+p84
+I1
+sVsince
+p85
+I1
+sVice
+p86
+I1
+sVgot
+p87
+I3
+sVpistol
+p88
+I1
+sVcause
+p89
+I10
+sVass
+p90
+I4
+sVaint
+p91
+I11
+sVrun
+p92
+I1
+sVright
+p93
+I2
+sVcha
+p94
+I1
+sVstarvin
+p95
+I2
+sVnever
+p96
+I1
+sVmotherfucker
+p97
+I2
+sVdressin
+p98
+I1
+sVspared
+p99
+I1
+sVkillin
+p100
+I2
+sVlet
+p101
+I2
+sVpaid
+p102
+I2
+sVtrunk
+p103
+I1
+sVshoulda
+p104
+I2
+sVhadda
+p105
+I1
+sVcommin
+p106
+I1
+sVg
+I2
+sVdyin
+p107
+I1
+sVfault
+p108
+I1
+sVill
+p109
+I2
+sVpunk
+p110
+I1
+sVkeep
+p111
+I1
+sVplace
+p112
+I1
+sVsweat
+p113
+I1
+sVbrad
+p114
+I1
+sVtheres
+p115
+I1
+sVwhole
+p116
+I1
+sVthink
+p117
+I4
+sVthats
+p118
+I4
+sVduke
+p119
+I1
+sVwinnin
+p120
+I1
+sVlove
+p121
+I2
+sVdont
+p122
+I9
+sVpoint
+p123
+I1
+sVlone
+p124
+I1
+sVmommy
+p125
+I1
+sVpulla
+p126
+I1
+sVnilla
+p127
+I1
+sVmarked
+p128
+I1
+sVson
+p129
+I1
+sVmomma
+p130
+I2
+sVsquare
+p131
+I1
+sVbitch
+p132
+I3
+sVhomeless
+p133
+I1
+sVcomin
+p134
+I2
+sVreached
+p135
+I1
+sVmessage
+p136
+I1
+sVnext
+p137
+I1
+sVtomorrow
+p138
+I1
+sVphoneless
+p139
+I1
+sVwan
+p140
+I2
+sVcasket
+p141
+I1
+sVlifes
+p142
+I1
+sVlog
+p143
+I1
+sVbeef
+p144
+I1
+sVdude
+p145
+I1
+sVsystem
+p146
+I1
+sVplastic
+p147
+I1
+sVstart
+p148
+I1
+sVthoughts
+p149
+I1
+sVway
+p150
+I2
+sVexpected
+p151
+I1
+sVlegally
+p152
+I1
+sVwaste
+p153
+I1
+sVpremeditatin
+p154
+I1
+sVlisten
+p155
+I1
+sVhuntin
+p156
+I1
+sVgetcha
+p157
+I2
+sVnobody
+p158
+I1
+sVhuh
+p159
+I1
+sVit
+p160
+I3
+sVpart
+p161
+I1
+sVlives
+p162
+I1
+sVtoo
+p163
+I1
+sVtalks
+p164
+I1
+sVme
+p165
+I6
+sVnone
+p166
+I1
+sVtilla
+p167
+I1
+sVahead
+p168
+I1
+sVsociety
+p169
+I1
+sVsmooth
+p170
+I2
+sVniggaz
+p171
+I1
+sVtrick
+p172
+I1
+sVuh
+p173
+I1
+sVmr
+p174
+I1
+sVscarface
+p175
+I2
+sVhappened
+p176
+I1
+sVdidnt
+p177
+I1
+sVpushin
+p178
+I1
+sVheart
+p179
+I2
+sVmedication
+p180
+I1
+sVsecurity
+p181
+I1
+sVflow
+p182
+I1
+sVfuck
+p183
+I2
+sVheartless
+p184
+I1
+sVheard
+p185
+I1
+sVcant
+p186
+I4
+sVguessed
+p187
+I1
+sVim
+p188
+I24
+sVwant
+p189
+I1
+sVmade
+p190
+I1
+sVsaw
+p191
+I1
+sVdealer
+p192
+I1
+sVshit
+p193
+I4
+sVworse
+p194
+I1
+sVhoe
+p195
+I1
+sVfloor
+p196
+I1
+sVna
+p197
+I3
+sVmake
+p198
+I1
+sVgrinnin
+p199
+I1
+sVid
+p200
+I1
+sVchest
+p201
+I3
+sVmotherfuckin
+p202
+I1
+sVfo
+p203
+I1
+sVyou
+p204
+I1
+sVpanic
+p205
+I1
+sV100000
+p206
+I1
+sVtried
+p207
+I1
+sVdoin
+p208
+I1
+sVmannick
+p209
+I1
+sVlotta
+p210
+I1
+sVfucked
+p211
+I4
+sVweep
+p212
+I1
+sVtypes
+p213
+I1
+sVgoin
+p214
+I2
+sVoff
+p215
+I2
+sVcalls
+p216
+I1
+sVmove
+p217
+I2
+sVaverage
+p218
+I1
+sVyoure
+p219
+I3
+sVupset
+p220
+I1
+sVnothin
+p221
+I2
+sVface
+p222
+I2
+sVswitch
+p223
+I1
+sVpressin
+p224
+I1
+sVtech
+p225
+I1
+sVthings
+p226
+I1
+sVguard
+p227
+I1
+sVfirst
+p228
+I1
+sVtalk
+p229
+I1
+sVho
+p230
+I1
+s.

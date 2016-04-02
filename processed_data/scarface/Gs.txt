@@ -1,76 +1,637 @@
-"g's" lyrics
-scarface lyrics
-"g's"
-(and meanwhile, on the southside of town...)
-now when you're rollin' through yo' muthafuckin' hood,
-what do you see?
-(i see some muthafuckin' g's)
-now when you're rollin' through yo' muthafuckin' hood,
-tell me what you see?
-(some muthafuckin' g's)
-roamin' in my muthafuckin' hood and thangs
-seems to me my mutherfuckin' hood done changed
-cause niggas used to kick it with the rival gangs
-but now we gots to deal with them survival thangs
-.45 in my lap when i'm on the creep
-niggas livin' shife, so i roll one deep
-cause now they see me flippin' in the 1-9-9-4
-c.s.i. nigga, black 850
-and now they lookin' at me crazy
-but off-brand niggas can suck a dick because they can't fade me
-and if it came down to the gun, black
-i never cracked up on the pressure, cause i was trained for combat
-so get yo' muthafuckin' boys together
-i represent s.a., nigga, and we makin' noise forever
-and gettin' paid at the same time
-so you respect a muthafucka when a muthafucka claim mine
-cause if you disrespect, you ass out
-and they we rolling through yo' shit in the glasshouse
-actin' bad with the flashers on
-makin' niggas get they asses on
-cause ain't no mutherfuckin' love for fools
-who come around this muthafucka trying to scrub, you fools
-it ain't no haps on it, hops
-we snaps on the cops
-and straps on the glocks
-and take the law into our own hands
-cause you ain't fucking with a rookin, nigga, you fucking with a grown man
-and we gon' show you what we mean by funk
-muthafucka, you ain't see my trunk
-i got a (sk) and a (ak)
-and a (12 gauge) that'll fuck a nigga whole day
-so recognize a real nigga from the streets
-when you rolling through yo' mutherfuckin' hood, what do you see?
-hollerin at my homie at the swisher house
-scope a 40 bag and we hit the spot
-put my shit in park and got up under the tree
-pull the swishers out and gave the ganja to 3
-rapped us up a fattie and we started to smoke
-eyes gettin' red cause we higher than coke
-a nigga chillin' cause it's all good
-and we ain't trippin' on the bullshit, nigga, because we all hood
-but other niggas don't wanna see it that way
-but all i got to say is: you don't wanna see that s.a.
-because we're all upon a mission
-killin don't make us no different
-and dyin don't make it no different
-cause i done been to mo' wakes in this past year
-than the muthafuckin bingos lost last year
-so ain't no muthafuckin' thang for me
-to kill a nigga who ain't fuckin' with the gang with me
-formaldehyde smokin, niggas gettin' loc'ed and
-ready to pull your coat and leave your stomach open
-scoping, hoping for you to fuck up and slip
-so we can have a reason for fuckin' up your shit
-(it ain't no muthafuckin' peace when they see me)
-cause we never had a muthafuckin' peace treaty
-so i know i got to get em with game
-and when i hit em with the game i gotta hit em with this damn thang
-cause it's kill or be killed, never cut slack
-and if you cut slack, they bust back, fuck that
-i never give a second chance to pull the first gun
-cause if they bust one time, that be the worst one
-and that's the one that can close the shop
-so you gotta stand and hold the glock
-cause in my muthafuckin' hood, that's how it be
-but when you're rollin' through your muthafucking hood, what do you see?
+(dp1
+Vshop
+p2
+I1
+sVrepresent
+p3
+I1
+sVpeace
+p4
+I2
+sVgs
+p5
+I4
+sVgangs
+p6
+I1
+sVlyrics
+p7
+I2
+sVshow
+p8
+I1
+sVhands
+p9
+I1
+sVmission
+p10
+I1
+sVgauge
+p11
+I1
+sVgang
+p12
+I1
+sVchillin
+p13
+I1
+sVaint
+p14
+I8
+sVcut
+p15
+I2
+sVhops
+p16
+I1
+sVthang
+p17
+I2
+sVdick
+p18
+I1
+sVseems
+p19
+I1
+sVbust
+p20
+I2
+sVbullshit
+p21
+I1
+sVblack
+p22
+I2
+sVfade
+p23
+I1
+sVkick
+p24
+I1
+sVgave
+p25
+I1
+sVreal
+p26
+I1
+sVtown
+p27
+I1
+sVgood
+p28
+I1
+sVhit
+p29
+I3
+sVlivin
+p30
+I1
+sVflashers
+p31
+I1
+sVget
+p32
+I3
+sVmuthafuckin
+p33
+I11
+sVsurvival
+p34
+I1
+sVgame
+p35
+I2
+sVworst
+p36
+I1
+sVknow
+p37
+I1
+sVsouthside
+p38
+I1
+sVday
+p39
+I1
+sVslack
+p40
+I2
+sVtrippin
+p41
+I1
+sVlost
+p42
+I1
+sVgettin
+p43
+I3
+sVgun
+p44
+I2
+sVleave
+p45
+I1
+sVbag
+p46
+I1
+sVbad
+p47
+I1
+sVkill
+p48
+I2
+sVrapped
+p49
+I1
+sVmean
+p50
+I1
+sVem
+p51
+I3
+sVnigga
+p52
+I8
+sVdeal
+p53
+I1
+sVfucking
+p54
+I2
+sVhouse
+p55
+I1
+sVstreets
+p56
+I1
+sVback
+p57
+I1
+sVpast
+p58
+I1
+sVsee
+p59
+I10
+sVyear
+p60
+I2
+sVclose
+p61
+I1
+sVcreep
+p62
+I1
+sVout
+p63
+I1
+sVgon
+p64
+I1
+sV3
+I1
+sVmutherfuckin
+p65
+I3
+sVgot
+p66
+I6
+sVhold
+p67
+I1
+sVhollerin
+p68
+I1
+sVcause
+p69
+I13
+sVred
+p70
+I1
+sVass
+p71
+I1
+sVbe
+p72
+I1
+sVnoise
+p73
+I1
+sVupon
+p74
+I1
+sVnever
+p75
+I4
+sVmuthafucka
+p76
+I4
+sVdisrespect
+p77
+I1
+sVpressure
+p78
+I1
+sVreason
+p79
+I1
+sVsmokin
+p80
+I1
+sVtrunk
+p81
+I1
+sVput
+p82
+I1
+sVgots
+p83
+I1
+sVbingos
+p84
+I1
+sVcome
+p85
+I1
+sVon
+p86
+I2
+sVlast
+p87
+I1
+sVdyin
+p88
+I1
+sVchanged
+p89
+I1
+sVstand
+p90
+I1
+sVlookin
+p91
+I1
+sVshife
+p92
+I1
+sVwhole
+p93
+I1
+sVfuckin
+p94
+I2
+sVfirst
+p95
+I1
+sVlove
+p96
+I1
+sVdont
+p97
+I4
+sVhaps
+p98
+I1
+sVoffbrand
+p99
+I1
+sVmakin
+p100
+I2
+sVone
+p101
+I4
+sVfattie
+p102
+I1
+sVdone
+p103
+I2
+sVtrained
+p104
+I1
+sVrespect
+p105
+I1
+sVscoping
+p106
+I1
+sVopen
+p107
+I1
+sVhood
+p108
+I8
+sVhoping
+p109
+I1
+sVwan
+p110
+I2
+sVkillin
+p111
+I1
+sV850
+p112
+I1
+sVsecond
+p113
+I1
+sVglocks
+p114
+I1
+sVloced
+p115
+I1
+sVganja
+p116
+I1
+sVasses
+p117
+I1
+sVdamn
+p118
+I1
+sVway
+p119
+I1
+sVactin
+p120
+I1
+sVtell
+p121
+I1
+sVkilled
+p122
+I1
+sVeyes
+p123
+I1
+sVglock
+p124
+I1
+sVstomach
+p125
+I1
+sVthat
+p126
+I1
+sVstarted
+p127
+I1
+sVcoke
+p128
+I1
+sVpark
+p129
+I1
+sVmuthafucking
+p130
+I1
+sVfuck
+p131
+I3
+sVboys
+p132
+I1
+sVformaldehyde
+p133
+I1
+sVscope
+p134
+I1
+sVtrying
+p135
+I1
+sVfunk
+p136
+I1
+sVme
+p137
+I4
+sVpull
+p138
+I3
+sV12
+p139
+I1
+sV1994
+p140
+I1
+sVniggas
+p141
+I6
+sVrival
+p142
+I1
+sVmo
+p143
+I1
+sVtree
+p144
+I1
+sVsay
+p145
+I1
+sVus
+p146
+I2
+sVswishers
+p147
+I1
+sVscarface
+p148
+I1
+sVcracked
+p149
+I1
+sVta
+p150
+I2
+sVand
+p151
+I1
+sVclaim
+p152
+I1
+sVcrazy
+p153
+I1
+sVstraps
+p154
+I1
+sVthatll
+p155
+I1
+sVwakes
+p156
+I1
+sVgive
+p157
+I1
+sVrecognize
+p158
+I1
+sVak
+p159
+I1
+sVmine
+p160
+I1
+sVdeep
+p161
+I1
+sVcant
+p162
+I1
+sVhomie
+p163
+I1
+sVim
+p164
+I1
+sVrollin
+p165
+I3
+sVslip
+p166
+I1
+sVready
+p167
+I1
+sVshit
+p168
+I3
+sVaround
+p169
+I1
+sVgrown
+p170
+I1
+sVdifferent
+p171
+I2
+sVcsi
+p172
+I1
+sVyo
+p173
+I5
+sVthangs
+p174
+I2
+sVna
+p175
+I2
+sVmake
+p176
+I2
+sV45
+p177
+I1
+sV40
+p178
+I1
+sVswisher
+p179
+I1
+sVtake
+p180
+I1
+sVroamin
+p181
+I1
+sVfools
+p182
+I2
+sVrookin
+p183
+I1
+sVroll
+p184
+I1
+sVhigher
+p185
+I1
+sVsnaps
+p186
+I1
+sVused
+p187
+I1
+sVscrub
+p188
+I1
+sVsmoke
+p189
+I1
+sVcombat
+p190
+I1
+sVspot
+p191
+I1
+sVpaid
+p192
+I1
+sVchance
+p193
+I1
+sVrolling
+p194
+I2
+sVsuck
+p195
+I1
+sVlaw
+p196
+I1
+sVlap
+p197
+I1
+sVsa
+p198
+I2
+sVman
+p199
+I1
+sVforever
+p200
+I1
+sVcops
+p201
+I1
+sVcoat
+p202
+I1
+sVglasshouse
+p203
+I1
+sVyoure
+p204
+I3
+sVtogether
+p205
+I1
+sVtreaty
+p206
+I1
+sVsk
+p207
+I1
+sVflippin
+p208
+I1
+sVtime
+p209
+I2
+sVmeanwhile
+p210
+I1
+sVthats
+p211
+I2
+sVcame
+p212
+I1
+s.

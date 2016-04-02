@@ -1,85 +1,592 @@
-"put you on game" lyrics
-lupe fiasco lyrics
-"put you on game"
-lemme put you on game
-lemme put you on game
-don't you know that i run this place,
-and i've begun this race,
-must i rerun this pace?
-i'm the reason its become this way
-and their love for it is the reason i have become this praised
-(lemme put you on game)
-they love my darkness,
-i make them heartless,
-and in return, the have become my martyrs,
-i've been in the poem of many a poet,
-and i reside in the art of many a artist
-(lemme put you on game)
-some of your smartest have tried to artictulate
-my whole part in this
-but they're fruitless in their harvestin'
-the drow grows from my footsteps
-i'm the one that they follow,
-i am the one that they march with
-(lemme put you on game)
-through the back alleys
-and the black markets,
-the oval offices,
-crackhouses and apartments
-through the mazes of the queens,
-the pages of the sages
-and the chambers of the kings
-(lemme put you on game)
-through the veins-es of the fiends,
-a paper chaser's pager,
-yo, i'm famous on the scene
-one of the oldest, most ancient-est of things
-seak every single language on the planet, y'all mean?
-(lemme put you on game)
-i am the american dream,
-the rape of africa
-the undying machine,
-the overpriced medicine,
-the murderous regime,
-the tough guy's front,
-and the one behind the scenes
-(lemme put you on game)
-i am the blood of this city,
-it's gas, water, and electricity,
-i'm it's gym, and it's math, and it's history,
-the gunshots in the class
-and you can't pass if you're missin, g.
-i taught them better than that
-i taught them aim for the head
-and hope they never come back
-i'm glad your daddy's gone, baby,
-hope he never comes back,
-i hope he's with your mother,
-with my hustlers high in my trap
-(lemme put you on game)
-i hope you die in his trash,
-i can't help it all i hear when you're crying is laughs
-i'm sure somebody find you tied up in this bag,
-behind the hospital little baby,
-crack addicts had
-(lemme put you on game)
-then maybe you can grow up to be a stripper,
-a welfare-receiving prostitute
-and gold digger,
-you can watch on tv,
-how they should properly depict you,
-the rivers should flow with liqour,
-quench your thirst on my elixers,
-(lemme put you on game)
-i am the safe haven for the rebel runaway and the resistor
-ihe trusted misleader,
-the number one defender,
-and from a throne of their bones i rule,
-these fools are my fuel
-so i make them cool
-(lemme put you on game)
-baptize them in the water out of scarface pool,
-and feed 'em from the table that held corleone's food,
-if you die, tell them that you played my game
-i hope your bullet holes become mouths that say my name,
-'cause i'm the...
+(dp1
+Vfeed
+p2
+I1
+sVoverpriced
+p3
+I1
+sVlyrics
+p4
+I2
+sVheld
+p5
+I1
+sVpaper
+p6
+I1
+sVfollow
+p7
+I1
+sVoldest
+p8
+I1
+sVfind
+p9
+I1
+sVhelp
+p10
+I1
+sVnumber
+p11
+I1
+sVancientest
+p12
+I1
+sVmother
+p13
+I1
+sVelectricity
+p14
+I1
+sVdigger
+p15
+I1
+sVundying
+p16
+I1
+sVhad
+p17
+I1
+sVbetter
+p18
+I1
+sVpraised
+p19
+I1
+sVblack
+p20
+I1
+sVcrying
+p21
+I1
+sVcrack
+p22
+I1
+sVfuel
+p23
+I1
+sVgrow
+p24
+I1
+sVhope
+p25
+I5
+sVreturn
+p26
+I1
+sVmurderous
+p27
+I1
+sVyo
+p28
+I1
+sVfood
+p29
+I1
+sVsafe
+p30
+I1
+sVwatch
+p31
+I1
+sVaddicts
+p32
+I1
+sVharvestin
+p33
+I1
+sVfamous
+p34
+I1
+sVgame
+p35
+I15
+sVevery
+p36
+I1
+sVknow
+p37
+I1
+sVfront
+p38
+I1
+sVfools
+p39
+I1
+sVcrackhouses
+p40
+I1
+sVcool
+p41
+I1
+sVmartyrs
+p42
+I1
+sVname
+p43
+I1
+sVartist
+p44
+I1
+sVdie
+p45
+I2
+sVdrow
+p46
+I1
+sVsages
+p47
+I1
+sVtheyre
+p48
+I1
+sVbag
+p49
+I1
+sVrace
+p50
+I1
+sVoffices
+p51
+I1
+sVtrap
+p52
+I1
+sVbecome
+p53
+I4
+sVyall
+p54
+I1
+sVmean
+p55
+I1
+sVem
+p56
+I1
+sVmazes
+p57
+I1
+sVveinses
+p58
+I1
+sVart
+p59
+I1
+sVapartments
+p60
+I1
+sVback
+p61
+I3
+sVrivers
+p62
+I1
+sVseak
+p63
+I1
+sVtaught
+p64
+I2
+sVbegun
+p65
+I1
+sVpass
+p66
+I1
+sVchambers
+p67
+I1
+sVartictulate
+p68
+I1
+sVdarkness
+p69
+I1
+sVcorleones
+p70
+I1
+sVthirst
+p71
+I1
+sVmisleader
+p72
+I1
+sVbehind
+p73
+I2
+sVmedicine
+p74
+I1
+sVcause
+p75
+I1
+sVresistor
+p76
+I1
+sVmath
+p77
+I1
+sVchasers
+p78
+I1
+sVnever
+p79
+I2
+sVrun
+p80
+I1
+sVcity
+p81
+I1
+sVlupe
+p82
+I1
+sVdefender
+p83
+I1
+sVgunshots
+p84
+I1
+sVlem
+p85
+I12
+sVwater
+p86
+I2
+sVsmartest
+p87
+I1
+sVreason
+p88
+I2
+sVbaptize
+p89
+I1
+sVrebel
+p90
+I1
+sVput
+p91
+I14
+sVcome
+p92
+I1
+sVaim
+p93
+I1
+sVthrone
+p94
+I1
+sVlanguage
+p95
+I1
+sVmany
+p96
+I2
+sVsomebody
+p97
+I1
+sVhustlers
+p98
+I1
+sVtv
+p99
+I1
+sVamerican
+p100
+I1
+sVplace
+p101
+I1
+sVfootsteps
+p102
+I1
+sVcomes
+p103
+I1
+sVreside
+p104
+I1
+sVelixers
+p105
+I1
+sVlove
+p106
+I2
+sVdont
+p107
+I1
+sVgone
+p108
+I1
+sVafrica
+p109
+I1
+sVscene
+p110
+I1
+sVone
+p111
+I5
+sValleys
+p112
+I1
+sVoval
+p113
+I1
+sVkings
+p114
+I1
+sVrunaway
+p115
+I1
+sVihe
+p116
+I1
+sVpoem
+p117
+I1
+sVlittle
+p118
+I1
+sVtable
+p119
+I1
+sVhes
+p120
+I1
+sVguys
+p121
+I1
+sVhospital
+p122
+I1
+sVclass
+p123
+I1
+sVwelfarereceiving
+p124
+I1
+sVway
+p125
+I1
+sVpoet
+p126
+I1
+sVprostitute
+p127
+I1
+sVmarkets
+p128
+I1
+sVtell
+p129
+I1
+sVhead
+p130
+I1
+sVthat
+p131
+I1
+sVgym
+p132
+I1
+sVgas
+p133
+I1
+sVcant
+p134
+I2
+sVpart
+p135
+I1
+sVhear
+p136
+I1
+sVbaby
+p137
+I2
+sVgold
+p138
+I1
+sVwith
+p139
+I1
+sVhaven
+p140
+I1
+sVglad
+p141
+I1
+sVmust
+p142
+I1
+sVme
+p143
+I12
+sVfiends
+p144
+I1
+sVstripper
+p145
+I1
+sVg
+I1
+sVthis
+p146
+I1
+sVscenes
+p147
+I1
+sVplanet
+p148
+I1
+sVpace
+p149
+I1
+sVrerun
+p150
+I1
+sVscarface
+p151
+I1
+sVsay
+p152
+I1
+sVhistory
+p153
+I1
+sVive
+p154
+I2
+sVliqour
+p155
+I1
+sVplayed
+p156
+I1
+sVquench
+p157
+I1
+sVholes
+p158
+I1
+sVlaughs
+p159
+I1
+sVheartless
+p160
+I1
+sVdaddys
+p161
+I1
+sVhigh
+p162
+I1
+sVsingle
+p163
+I1
+sVim
+p164
+I7
+sVbones
+p165
+I1
+sVmarch
+p166
+I1
+sVrape
+p167
+I1
+sVregime
+p168
+I1
+sVmaybe
+p169
+I1
+sVtough
+p170
+I1
+sVthings
+p171
+I1
+sVmake
+p172
+I2
+sVmachine
+p173
+I1
+sVtrusted
+p174
+I1
+sVyou
+p175
+I1
+sVtrash
+p176
+I1
+sVgrows
+p177
+I1
+sVfruitless
+p178
+I1
+sVsure
+p179
+I1
+sVtried
+p180
+I1
+sVmouths
+p181
+I1
+sVmissin
+p182
+I1
+sVtied
+p183
+I1
+sVdepict
+p184
+I1
+sVblood
+p185
+I1
+sVpager
+p186
+I1
+sVpages
+p187
+I1
+sVpool
+p188
+I1
+sVqueens
+p189
+I1
+sVbullet
+p190
+I1
+sVwhole
+p191
+I1
+sVyoure
+p192
+I2
+sVflow
+p193
+I1
+sVrule
+p194
+I1
+sVproperly
+p195
+I1
+sVfiasco
+p196
+I1
+sVdream
+p197
+I1
+s.

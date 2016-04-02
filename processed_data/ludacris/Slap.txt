@@ -1,74 +1,450 @@
-"slap" lyrics
-ludacris lyrics
-"slap"
-i know it's strange
-but my brain's gone really insane
-and i'm off the chain
-sipping on a fifth of the golden grain
-i feel like slappin a nigga today (slap slap)
-slappin a nigga today
-i feel like slappin a nigga today (slap slap)
-slappin a nigga today
-slappin a nigga today
-this morning, i woke up on the wrong side of the bed (bed)
-i'm sick of people putting lies in my head (head)
-i don't really wanna work, i'm tired
-i hate my 9 to 5
-and i'm thinking bout killin my boss today
-killin my boss today
-i'm thinking bout killin my boss today (it's just a thought man)
-killin my boss today (yeah)
-yesterday my best friend died (died)
-somebody came and took his life (life)
-now i'm looking up at the sky
-have you ever seen a grown man cry?
-and i'm asking why did you take him away?
-why did you take him away?
-i'm asking why did you take him away? (why'd you take him)
-why did you take him away? (hey)
-i need some money please (please)
-i can barely make it on these streets (these streets)
-cause i got a couple mouths to feed
-my baby's in dire need
-so i'm thinking bout robbin a bank today
-robbin a bank today
-i'm thinking bout robbin a bank today
-robbin a bank today (real talk)
-baby mama's at home and fussin' (fussin)
-callin up my mobile cussin' (cussin)
-always yappin about this and that
-but she really don't be talkin bout nothin
-somebody take my pain away (take my pain away)
-take my pain away (please)
-somebody take my pain away (hey)
-take my pain away (i can't take it)
-somebody just broke in my ride (ride)
-snatched up everything inside (inside)
-even got my 45
-how am i supposed to survive
-when i know that my stereo's taken away
-stereo's taken away
-when i know that my stereo's taken away (i need my music, man!)
-stereo's taken away (hey)
-gas prices are way too high
-rich people are way too fly
-and i'm where i wanna be in my life
-but why am i so behind
-is it cause i'm wasting my time away
-wasting my time away
-is it cause i'm wasting my time away (too lazy)
-wasting my time away (i can't help it)
-my grandmama's nerves are bad (bad)
-and everybody in the hood is mad (mad)
-cause president bush could give a damn about our ass
-so i don't wanna hear shit that he has to say (don't say nothin)
-shit that he has to say
-i don't wanna hear shit that he has to say
-shit that he has to say (woo)
-troops gone and we still at war (war)
-nobody even really knows what for (what for)
-even more i'm scared to find what the world really has in store
-cause you know that tomorrow's not promised today (it's not promised man)
-tomorrow's not promised today
-cause you know that tomorrow's not promised today (live like today could be your last man!)
-tomorrow's not promised today (hey)
+(dp1
+Vhelp
+p2
+I1
+sVchain
+p3
+I1
+sVludacris
+p4
+I1
+sVmoney
+p5
+I1
+sVprices
+p6
+I1
+sVstill
+p7
+I1
+sVhate
+p8
+I1
+sVfind
+p9
+I1
+sVfifth
+p10
+I1
+sVtomorrows
+p11
+I4
+sVlyrics
+p12
+I2
+sVthinking
+p13
+I4
+sVsky
+p14
+I1
+sVwoo
+p15
+I1
+sVwasting
+p16
+I4
+sVbush
+p17
+I1
+sVrich
+p18
+I1
+sVbout
+p19
+I5
+sVreal
+p20
+I1
+sVcallin
+p21
+I1
+sVsomebody
+p22
+I4
+sVcouple
+p23
+I1
+sVsipping
+p24
+I1
+sVputting
+p25
+I1
+sVknow
+p26
+I5
+sVfussin
+p27
+I2
+sVworld
+p28
+I1
+sVhim
+p29
+I1
+sVbank
+p30
+I4
+sVlike
+p31
+I3
+sVcause
+p32
+I6
+sVcry
+p33
+I1
+sVrobbin
+p34
+I4
+sVmorning
+p35
+I1
+sVbad
+p36
+I2
+sValways
+p37
+I1
+sVnerves
+p38
+I1
+sVside
+p39
+I1
+sVinsane
+p40
+I1
+sVnigga
+p41
+I5
+sVpeople
+p42
+I2
+sVscared
+p43
+I1
+sVstreets
+p44
+I2
+sVyeah
+p45
+I1
+sVsnatched
+p46
+I1
+sVhome
+p47
+I1
+sVbest
+p48
+I1
+sVreally
+p49
+I5
+sVeven
+p50
+I3
+sVfor
+p51
+I1
+sVaway
+p52
+I17
+sVplease
+p53
+I3
+sVinside
+p54
+I2
+sVlooking
+p55
+I1
+sVeverything
+p56
+I1
+sVbehind
+p57
+I1
+sVasking
+p58
+I2
+sVgot
+p59
+I2
+sVever
+p60
+I1
+sVsupposed
+p61
+I1
+sVass
+p62
+I1
+sVmamas
+p63
+I1
+sVboss
+p64
+I4
+sVdire
+p65
+I1
+sVstereos
+p66
+I4
+sVstore
+p67
+I1
+sVlast
+p68
+I1
+sVlazy
+p69
+I1
+sVcould
+p70
+I2
+sVbarely
+p71
+I1
+sVwoke
+p72
+I1
+sVgrain
+p73
+I1
+sVfeed
+p74
+I1
+sVgolden
+p75
+I1
+sVdont
+p76
+I5
+sVfeel
+p77
+I2
+sVlies
+p78
+I1
+sVcussin
+p79
+I2
+sVgrandmamas
+p80
+I1
+sVhood
+p81
+I1
+sVeverybody
+p82
+I1
+sVwan
+p83
+I4
+sVkillin
+p84
+I4
+sVtroops
+p85
+I1
+sVtired
+p86
+I1
+sVhey
+p87
+I4
+sVlive
+p88
+I1
+sVmusic
+p89
+I1
+sVway
+p90
+I2
+sVtaken
+p91
+I4
+sVsurvive
+p92
+I1
+sVyappin
+p93
+I1
+sVtoday
+p94
+I18
+sVhead
+p95
+I2
+sVknows
+p96
+I1
+sVthat
+p97
+I1
+sVbrains
+p98
+I1
+sVnobody
+p99
+I1
+sVgas
+p100
+I1
+sVtook
+p101
+I1
+sVit
+p102
+I2
+sVhear
+p103
+I2
+sVbroke
+p104
+I1
+sVbaby
+p105
+I1
+sVfly
+p106
+I1
+sVbabys
+p107
+I1
+sVride
+p108
+I2
+sVwork
+p109
+I1
+sVsay
+p110
+I5
+sVbed
+p111
+I2
+sVwar
+p112
+I2
+sVfriend
+p113
+I1
+sVwhyd
+p114
+I1
+sVgone
+p115
+I2
+sVgive
+p116
+I1
+sVlife
+p117
+I3
+sVslap
+p118
+I6
+sVhigh
+p119
+I1
+sVcant
+p120
+I2
+sVim
+p121
+I14
+sVpromised
+p122
+I5
+sVneed
+p123
+I3
+sVseen
+p124
+I1
+sVshit
+p125
+I4
+sVgrown
+p126
+I1
+sVna
+p127
+I4
+sVmake
+p128
+I1
+sV45
+p129
+I1
+sVstrange
+p130
+I1
+sV5
+I1
+sVtake
+p131
+I11
+sVsick
+p132
+I1
+sV9
+I1
+sVtalkin
+p133
+I1
+sVslappin
+p134
+I5
+sVpain
+p135
+I5
+sVmouths
+p136
+I1
+sVdamn
+p137
+I1
+sVyesterday
+p138
+I1
+sVwrong
+p139
+I1
+sVmad
+p140
+I2
+sVpresident
+p141
+I1
+sVdied
+p142
+I2
+sVman
+p143
+I5
+sVmobile
+p144
+I1
+sVnothin
+p145
+I2
+sVthought
+p146
+I1
+sVcame
+p147
+I1
+sVtime
+p148
+I4
+sVtalk
+p149
+I1
+s.

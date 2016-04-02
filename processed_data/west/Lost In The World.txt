@@ -1,71 +1,488 @@
-lost world lyrics
-kanye west lyrics
-lost world
-feat justin vernon bon iver
-im woods im mind
-im building still slow time
-im woods im mind
-im building still slow time
-im woods im mind
-im building still slow time
-im lost world im mind
-im new city im night
-night
-said shes night
-youre devil youre angel
-youre heaven youre hell
-youre youre forever
-youre freedom youre jail
-youre lies youre truth
-youre war youre truce
-youre questions youre proof
-youre stress youre masseuse
-mamasay mamasay mamacoosah
-lost plastic life
-lets break fake ass party
-turn classic night
-die others arms still get laid afterlife
-die others arms still get laid
-im lost world
-run lights run night
-im mind
-run life
-im new city im night
-night
-night
-im lost world whole life
-im new city im night
-night
-night
-survive america
-survive america
-survive america
-im lost world im mind
-im new city im night
-night
-said shes night
-im lost world im mind
-im new city im goin ride
-goin ride
-im lost world whole life
-im new city im night
-night good time
-us living upside down
-new word revolution
-people dont even want hear preacher spill spiel gods whole card thoroughly piqued
-america blood tears instead milk honey
-youngsters programmed continue fucking woke one night digging paul revere nat turner good guys
-america stripped bed yet closed eyes
-signs truth tattooed across open ended vagina
-learned amazement untold tale scandal
-two long centuries buried musty vault hosed daily gagging perfume
-america bastard illegitimate daughter mother country whose legs spread around world rapist known freedom free doom
-democracy liberty justice revolutionary code names preceded bubbling bubbling bubbling bubbling bubbling mother countrys crotch
-webster say soul
-want good home wife
-children food feed every night
-said done build new route china theyll you
-survive america
-survive america
-survive america
-survive america
+(dp1
+Vcode
+p2
+I1
+sVuntold
+p3
+I1
+sVlyrics
+p4
+I2
+sVgods
+p5
+I1
+sVended
+p6
+I1
+sVwoods
+p7
+I3
+sVquestions
+p8
+I1
+sVsigns
+p9
+I1
+sVhell
+p10
+I1
+sVpaul
+p11
+I1
+sVstill
+p12
+I5
+sVfeat
+p13
+I1
+sVmilk
+p14
+I1
+sVwhose
+p15
+I1
+sVmamasay
+p16
+I2
+sVslow
+p17
+I3
+sVmother
+p18
+I2
+sVjustice
+p19
+I1
+sVcountrys
+p20
+I1
+sVlets
+p21
+I1
+sVspread
+p22
+I1
+sVtears
+p23
+I1
+sVnat
+p24
+I1
+sVget
+p25
+I2
+sVfood
+p26
+I1
+sVbreak
+p27
+I1
+sVevery
+p28
+I1
+sVparty
+p29
+I1
+sVworld
+p30
+I9
+sVheaven
+p31
+I1
+sVlost
+p32
+I9
+sVdie
+p33
+I2
+sVperfume
+p34
+I1
+sVillegitimate
+p35
+I1
+sVcontinue
+p36
+I1
+sVhosed
+p37
+I1
+sVcrotch
+p38
+I1
+sVtruth
+p39
+I2
+sVnight
+p40
+I18
+sVrevere
+p41
+I1
+sVtwo
+p42
+I1
+sVmamacoosah
+p43
+I1
+sVpreceded
+p44
+I1
+sVrevolution
+p45
+I1
+sVpeople
+p46
+I1
+sVfucking
+p47
+I1
+sVmasseuse
+p48
+I1
+sVbubbling
+p49
+I5
+sVprogrammed
+p50
+I1
+sVpreacher
+p51
+I1
+sVshes
+p52
+I2
+sVkanye
+p53
+I1
+sVhome
+p54
+I1
+sVeven
+p55
+I1
+sVliving
+p56
+I1
+sVsaid
+p57
+I3
+sVtattooed
+p58
+I1
+sVmusty
+p59
+I1
+sVliberty
+p60
+I1
+sVyet
+p61
+I1
+sVlights
+p62
+I1
+sVlaid
+p63
+I2
+sVclosed
+p64
+I1
+sVnew
+p65
+I8
+sVlearned
+p66
+I1
+sVacross
+p67
+I1
+sVass
+p68
+I1
+sVrun
+p69
+I3
+sVbed
+p70
+I1
+sVgagging
+p71
+I1
+sVfree
+p72
+I1
+sVspiel
+p73
+I1
+sVvernon
+p74
+I1
+sVchina
+p75
+I1
+sVothers
+p76
+I2
+sVamazement
+p77
+I1
+sVcard
+p78
+I1
+sVrevolutionary
+p79
+I1
+sVdaughter
+p80
+I1
+sVjustin
+p81
+I1
+sVspill
+p82
+I1
+sVfreedom
+p83
+I2
+sVroute
+p84
+I1
+sVjail
+p85
+I1
+sVturn
+p86
+I1
+sVbon
+p87
+I1
+sVvault
+p88
+I1
+sVwhole
+p89
+I3
+sVfeed
+p90
+I1
+sVdont
+p91
+I1
+sVone
+p92
+I1
+sVdown
+p93
+I1
+sVlies
+p94
+I1
+sVdone
+p95
+I1
+sVnames
+p96
+I1
+sVfake
+p97
+I1
+sVscandal
+p98
+I1
+sVopen
+p99
+I1
+sVcity
+p100
+I6
+sVdevil
+p101
+I1
+sVwest
+p102
+I1
+sVarms
+p103
+I2
+sVlong
+p104
+I1
+sVplastic
+p105
+I1
+sVvagina
+p106
+I1
+sVsurvive
+p107
+I7
+sVlegs
+p108
+I1
+sVwar
+p109
+I1
+sVwoke
+p110
+I1
+sVlife
+p111
+I4
+sVforever
+p112
+I1
+sVhear
+p113
+I1
+sVknown
+p114
+I1
+sVdoom
+p115
+I1
+sVpiqued
+p116
+I1
+sVword
+p117
+I1
+sVride
+p118
+I2
+sVsoul
+p119
+I1
+sVus
+p120
+I1
+sViver
+p121
+I1
+sVcountry
+p122
+I1
+sVwebster
+p123
+I1
+sVproof
+p124
+I1
+sVangel
+p125
+I1
+sVclassic
+p126
+I1
+sVstripped
+p127
+I1
+sVmind
+p128
+I7
+sVeyes
+p129
+I1
+sVhoney
+p130
+I1
+sVsay
+p131
+I1
+sVgood
+p132
+I3
+sVim
+p133
+I31
+sVburied
+p134
+I1
+sVwant
+p135
+I2
+sVturner
+p136
+I1
+sVaround
+p137
+I1
+sVbastard
+p138
+I1
+sVtheyll
+p139
+I1
+sVdemocracy
+p140
+I1
+sVafterlife
+p141
+I1
+sVbuild
+p142
+I1
+sVdigging
+p143
+I1
+sVinstead
+p144
+I1
+sVyou
+p145
+I1
+sVcenturies
+p146
+I1
+sVrapist
+p147
+I1
+sVtime
+p148
+I4
+sVyoungsters
+p149
+I1
+sVblood
+p150
+I1
+sVamerica
+p151
+I10
+sVguys
+p152
+I1
+sVgoin
+p153
+I2
+sVbuilding
+p154
+I3
+sVstress
+p155
+I1
+sVwife
+p156
+I1
+sVyoure
+p157
+I16
+sVchildren
+p158
+I1
+sVdaily
+p159
+I1
+sVtale
+p160
+I1
+sVupside
+p161
+I1
+sVthoroughly
+p162
+I1
+sVtruce
+p163
+I1
+s.

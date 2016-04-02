@@ -1,111 +1,683 @@
-"untouchable (swiss beatz remix)" lyrics
-2pac lyrics
-"untouchable (swiss beatz remix)"
-(feat. krayzie bone)
-am i wrong cause i wanna get it on till i die?
-am i wrong cause i wanna get it on till i die?
-get it on till i die
-get it on till i die
-y'all, y'all remember me
-y'all, y'all remember me
-it's that tupac (pac)
-it's that tupac (tupac)
-it's that tupac (pac)
-it's that tupac (tupac)
-it's that tupac (pac)
-it's that tupac (tupac)
-it's that tupac (pac)
-it's that tupac (tupac)
-(pac's home)
-ha ha
-after the fire comes the rain
-after the pleasure there's pain
-even though we broke for the moment we'll be balling again
-time to make ya'll, my military be prepared for the busters similar to
-bitches to scary, get to near me we rush 'em
-visions of over packed prisons
-million's of niggas thug living
-pressure's, three strikes i hope they don't test us
-so pull the heat out, ammunition in crate's (shh)
-move without a sound as we slide down pistols in place
-i'm sensing niggas is defenceless i'm hitting fence's then getting ghost
-who can prevent me shooting senseless?
-at these niggas throats
-bitch made niggas and that bullshit you going through
-outlaws busting while we rushing
-we untouchable
-fuck you niggas and that bullshit you going through
-we outlaws rushing you busting you
-we untouchable
-it's that tupac (pac)
-(am i wrong cause i wanna get it on till i die?)
-it's that tupac (tupac)
-(am i wrong cause i wanna get it on till i die?)
-it's that tupac (pac)
-(get it on till i die)
-it's that tupac (tupac)
-(get it on till i die)
-it's that tupac (pac)
-(y'all, y'all remember me)
-it's that tupac (tupac)
-(y'all, y'all remember me)
-you niggas better not try to run up
-and don't try to say we ain't told you
-you're dealing with killers and soldiers
-nigga these explosives, trying to blow shit, running you over
-nigga controller
-whenever y'all niggas try to roll up
-thinking i'm a ho, well, come and let me show ya
-i'm a light up the rhythm like dosia
-dumping so potent, nigga don't choke up
-flow up
-makaveli the don, got niggas strapped and ready to bomb
-as soon as i send the alarm, and when we're done
-we've committed a red rum, leaving the enemies dead and gone
-leaving 'em niggas head's blown, cause they know they dead wrong
-when the shots ring out you know we're coming through (know we're coming through)
-talk a lot with your mouth, well what you gon' do? (so what you gon' do?)
-shut 'em down, busters be knowing to keep they distance
-thugs don't fuck around
-we get back at 'em so swiftly, niggas is with me underground
-slug in a niggas mug, reppin' midwest side
-niggas if you a thug get your weapon, let's ride
-ride for pac, pac, get live for pac, pac, pop off the glock, glock
-the thugging it don't stop
-it's that tupac (pac)
-(am i wrong cause i wanna get it on till i die?)
-it's that tupac (tupac)
-(am i wrong cause i wanna get it on till i die?)
-it's that tupac (pac)
-(get it on till i die)
-it's that tupac (tupac)
-(get it on till i die)
-it's that tupac (pac)
-(y'all, y'all remember me)
-it's that tupac (tupac)
-(y'all, y'all remember me)
-only wish to breed
-i explode into a million seeds
-ya'll remember me
-legendary live eternally
-bury me in pieces cause they fear reincarnation
-niggas screaming peace cause they fear when my squad face 'em
-take them to places, stake they face then erase 'em and brake 'em
-murder motherfucker's at a rate and then quicken the pace
-blast me but never ask me to live a lie
-am i wrong cause i wanna get it on till i die?
-(westcoast)
-now i'm worldwide
-niggas gossip like girls then hide
-no offence to nas but this whole fucking world is mine
-even if you blind you can still see my prophecy
-my destiny to overthrow those on top of me
-fiending for currency the money be calling
-can you feel me, dreaming?
-seeing scenes of me balling?
-fuck you bitch made niggas and that bullshit you going through
-outlaws busting while we rushing
-we untouchable
-fuck you niggas and that bullshit you going through
-we outlaws rushing you busting you
-we untouchable
+(dp1
+Vstake
+p2
+I1
+sVbomb
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoney
+p6
+I1
+sVmove
+p7
+I1
+sVsoon
+p8
+I1
+sVcommitted
+p9
+I1
+sVsoldiers
+p10
+I1
+sVfear
+p11
+I2
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVrushing
+p14
+I4
+sVaint
+p15
+I1
+sVtrying
+p16
+I1
+sVdosia
+p17
+I1
+sVthinking
+p18
+I1
+sVsend
+p19
+I1
+sVsenseless
+p20
+I1
+sVcrates
+p21
+I1
+sVbetter
+p22
+I1
+sVlets
+p23
+I1
+sVgoing
+p24
+I4
+sVrhythm
+p25
+I1
+sVoverthrow
+p26
+I1
+sVexplode
+p27
+I1
+sVfences
+p28
+I1
+sVhope
+p29
+I1
+sVweve
+p30
+I1
+sVaround
+p31
+I1
+sVget
+p32
+I17
+sVya
+p33
+I1
+sVoffence
+p34
+I1
+sVstop
+p35
+I1
+sVuntouchable
+p36
+I6
+sVkillers
+p37
+I1
+sVknow
+p38
+I3
+sVlegendary
+p39
+I1
+sVworld
+p40
+I1
+sVblast
+p41
+I1
+sVscreaming
+p42
+I1
+sVbullshit
+p43
+I4
+sVlike
+p44
+I2
+sVdie
+p45
+I13
+sVniggas
+p46
+I16
+sVcalling
+p47
+I1
+sVtry
+p48
+I3
+sVslide
+p49
+I1
+sVshots
+p50
+I1
+sVwish
+p51
+I1
+sVshh
+p52
+I1
+sVside
+p53
+I1
+sVbone
+p54
+I1
+sVbitch
+p55
+I2
+sVem
+p56
+I7
+sVprevent
+p57
+I1
+sVnigga
+p58
+I3
+sVfucking
+p59
+I1
+sVdealing
+p60
+I1
+sVback
+p61
+I1
+sVpotent
+p62
+I1
+sVscenes
+p63
+I1
+sVcurrency
+p64
+I1
+sVrate
+p65
+I1
+sVerase
+p66
+I1
+sVgossip
+p67
+I1
+sVhome
+p68
+I1
+sVwestcoast
+p69
+I1
+sVpacked
+p70
+I1
+sVenemies
+p71
+I1
+sVeven
+p72
+I2
+sVliving
+p73
+I1
+sVgon
+p74
+I2
+sVhide
+p75
+I1
+sVdestiny
+p76
+I1
+sVprisons
+p77
+I1
+sVchoke
+p78
+I1
+sVrum
+p79
+I1
+sVdefenceless
+p80
+I1
+sVpressures
+p81
+I1
+sVmug
+p82
+I1
+sVgot
+p83
+I1
+sVammunition
+p84
+I1
+sVcause
+p85
+I10
+sVred
+p86
+I1
+sVtold
+p87
+I1
+sVknowing
+p88
+I1
+sVblow
+p89
+I1
+sVshut
+p90
+I1
+sVnever
+p91
+I1
+sVrun
+p92
+I1
+sVstrapped
+p93
+I1
+sVmillion
+p94
+I1
+sVpieces
+p95
+I1
+sVmakaveli
+p96
+I1
+sVlet
+p97
+I1
+sVask
+p98
+I1
+sVcome
+p99
+I1
+sVslug
+p100
+I1
+sVdead
+p101
+I2
+sVscary
+p102
+I1
+sVgetting
+p103
+I1
+sVmoment
+p104
+I1
+sVleaving
+p105
+I2
+sVseeds
+p106
+I1
+sVplace
+p107
+I1
+sVyall
+p108
+I15
+sVmilitary
+p109
+I1
+sVwhole
+p110
+I1
+sVmotherfuckers
+p111
+I1
+sVcomes
+p112
+I1
+sVreppin
+p113
+I1
+sVblind
+p114
+I1
+sVseeing
+p115
+I1
+sVpistols
+p116
+I1
+sVdont
+p117
+I5
+sVblown
+p118
+I1
+sVfeel
+p119
+I1
+sVpop
+p120
+I1
+sVrunning
+p121
+I1
+sVdone
+p122
+I1
+sVthroats
+p123
+I1
+sVdreaming
+p124
+I1
+sVring
+p125
+I1
+sVnas
+p126
+I1
+sVvisions
+p127
+I1
+sVbusters
+p128
+I2
+sVmillions
+p129
+I1
+sVwan
+p130
+I7
+sVheads
+p131
+I1
+sVbury
+p132
+I1
+sVtop
+p133
+I1
+sVbreed
+p134
+I1
+sVgirls
+p135
+I1
+sVthree
+p136
+I1
+sVhitting
+p137
+I1
+sVlive
+p138
+I3
+sVlot
+p139
+I1
+sVdumping
+p140
+I1
+sVglock
+p141
+I2
+sVbusting
+p142
+I4
+sVfire
+p143
+I1
+sVbitches
+p144
+I1
+sVstrikes
+p145
+I1
+sVmine
+p146
+I1
+sVheat
+p147
+I1
+sVho
+p148
+I1
+sVbroke
+p149
+I1
+sVeternally
+p150
+I1
+sVprophecy
+p151
+I1
+sVha
+p152
+I2
+sVsquad
+p153
+I1
+sV2pac
+p154
+I1
+sVsound
+p155
+I1
+sVpull
+p156
+I1
+sVrush
+p157
+I1
+sVmade
+p158
+I2
+sVplaces
+p159
+I1
+sVpacs
+p160
+I1
+sVmidwest
+p161
+I1
+sVride
+p162
+I2
+sVsee
+p163
+I1
+sVus
+p164
+I1
+sVpace
+p165
+I1
+sVnear
+p166
+I1
+sVbrake
+p167
+I1
+sVsimilar
+p168
+I1
+sVweapon
+p169
+I1
+sVtheres
+p170
+I1
+sVgone
+p171
+I1
+sVunderground
+p172
+I1
+sVreincarnation
+p173
+I1
+sVflow
+p174
+I1
+sVfuck
+p175
+I4
+sVoutlaws
+p176
+I4
+sVready
+p177
+I1
+sVsay
+p178
+I1
+sVmurder
+p179
+I1
+sVim
+p180
+I5
+sVthugging
+p181
+I1
+sVthug
+p182
+I2
+sVbeatz
+p183
+I2
+sVshit
+p184
+I1
+sVlie
+p185
+I1
+sVthugs
+p186
+I1
+sVshooting
+p187
+I1
+sVtupac
+p188
+I30
+sVna
+p189
+I7
+sVmake
+p190
+I1
+sVpeace
+p191
+I1
+sVballing
+p192
+I2
+sVtill
+p193
+I13
+sVpac
+p194
+I14
+sVtake
+p195
+I1
+sVtest
+p196
+I1
+sVkrayzie
+p197
+I1
+sVquicken
+p198
+I1
+sVroll
+p199
+I1
+sVworldwide
+p200
+I1
+sVpain
+p201
+I1
+sVthough
+p202
+I1
+sVswiftly
+p203
+I1
+sVdistance
+p204
+I1
+sVrain
+p205
+I1
+sVprepared
+p206
+I1
+sVwrong
+p207
+I8
+sVmouth
+p208
+I1
+sVfiending
+p209
+I1
+sVcoming
+p210
+I2
+sVexplosives
+p211
+I1
+sVkeep
+p212
+I1
+sVghost
+p213
+I1
+sVremix
+p214
+I2
+sVremember
+p215
+I7
+sVwhenever
+p216
+I1
+sVlight
+p217
+I1
+sValarm
+p218
+I1
+sVyoure
+p219
+I1
+sVwell
+p220
+I3
+sVcontroller
+p221
+I1
+sVface
+p222
+I2
+sVwithout
+p223
+I1
+sVtime
+p224
+I1
+sVswiss
+p225
+I2
+sVpleasure
+p226
+I1
+sVsensing
+p227
+I1
+sVtalk
+p228
+I1
+s.

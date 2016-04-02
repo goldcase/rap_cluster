@@ -1,27 +1,245 @@
-"get off my dick and tell yo bitch to come here" lyrics
-ice cube lyrics
-"get off my dick and tell yo bitch to come here"
-some don't think i can flow
-so here we go
-to a new track
-to show the wack
-that i can throw styles that show up
-i blow up and blast here
-niggas still tripping off the shit i said last year
-about a bitch is bitch is a bitch is a bitch
-then i got rich but i'll never switch
-so i dedicate this one to the groupie
-and the charlie all on my snoopy
-brothers keep asking ice cube yo when will you bust
-they surround me and make a big fuss
-now i was taught back on my block
-that you don't ride on nobody's jock
-for anything they do
-fuck him and his crew
-unless you were gettin paid too
-i'm not saying this to dis each and every fan
-women you can ride but man be a man
-shake my hand and make it a firm shake
-say what's up ice cube and then break
-cause if you're hangin there i'm a tell you loud and clear
-get off my my dick nigga and tell your bitch to come here
+(dp1
+Vsaying
+p2
+I1
+sVyoure
+p3
+I1
+sVwhats
+p4
+I1
+sVdont
+p5
+I2
+sVlyrics
+p6
+I2
+sVshow
+p7
+I2
+sVshake
+p8
+I2
+sVbust
+p9
+I1
+sVone
+p10
+I1
+sVback
+p11
+I1
+sVunless
+p12
+I1
+sVdedicate
+p13
+I1
+sVclear
+p14
+I1
+sVsay
+p15
+I1
+sVtaught
+p16
+I1
+sVim
+p17
+I2
+sVbitch
+p18
+I7
+sVyear
+p19
+I1
+sVgo
+p20
+I1
+sVcrew
+p21
+I1
+sVstill
+p22
+I1
+sVshit
+p23
+I1
+sVfuss
+p24
+I1
+sVblow
+p25
+I1
+sVwack
+p26
+I1
+sVsaid
+p27
+I1
+sVnigga
+p28
+I1
+sVmake
+p29
+I2
+sVdick
+p30
+I3
+sVhangin
+p31
+I1
+sVice
+p32
+I3
+sVtripping
+p33
+I1
+sVfirm
+p34
+I1
+sVasking
+p35
+I1
+sVtoo
+p36
+I1
+sVrich
+p37
+I1
+sVnew
+p38
+I1
+sVjock
+p39
+I1
+sVgroupie
+p40
+I1
+sVtell
+p41
+I4
+sVstyles
+p42
+I1
+sVdo
+p43
+I1
+sVcube
+p44
+I3
+sVride
+p45
+I2
+sVbrothers
+p46
+I1
+sVyo
+p47
+I3
+sVget
+p48
+I3
+sVtrack
+p49
+I1
+sVbig
+p50
+I1
+sVnever
+p51
+I1
+sVhere
+p52
+I3
+sVfuck
+p53
+I1
+sVbreak
+p54
+I1
+sVnobodys
+p55
+I1
+sVevery
+p56
+I1
+sVpaid
+p57
+I1
+sVsnoopy
+p58
+I1
+sVgot
+p59
+I1
+sVhand
+p60
+I1
+sVblast
+p61
+I1
+sVcome
+p62
+I3
+sVthrow
+p63
+I1
+sVwomen
+p64
+I1
+sVcause
+p65
+I1
+sVlast
+p66
+I1
+sVanything
+p67
+I1
+sVniggas
+p68
+I1
+sVcharlie
+p69
+I1
+sVill
+p70
+I1
+sVgettin
+p71
+I1
+sVflow
+p72
+I1
+sVup
+p73
+I1
+sVsurround
+p74
+I1
+sVkeep
+p75
+I1
+sVswitch
+p76
+I1
+sVman
+p77
+I2
+sVfan
+p78
+I1
+sVloud
+p79
+I1
+sVthink
+p80
+I1
+sVblock
+p81
+I1
+sVdis
+p82
+I1
+s.

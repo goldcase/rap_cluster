@@ -1,114 +1,700 @@
-"ballin'" lyrics
-snoop dogg lyrics
-"ballin'"
-(feat. the dramatics)
-like a star slipping out of place
-sliding from the sky
-tumbling through space
-when you touch my hand
-i swear i feel like i'm ballin'
-(ballin', ballin', ballin', ballin')
-yeh ballin'
-(ballin', ballin', ballin', ballin')
-like a wheel
-whirling round and round
-rolling down a hill (rollin' down a hill)
-spinning on the ground (rollin' down a hill)
-your kissing makes me dizzy yeh
-in the head (ooh yeh)
-and i'm ballin'
-i'm ballin'
-hmm, i love this game coz this game love me back
-i'm pushing a lac, smoking sacs like a mad mac
-bringing me back, banging the 8-track track
-the dramatics and battle cat and snoop like that
-big stars in big cars we pull up at the big clubs and sit at the big bars
-sippin' champaign with a bowl of cavier
-hell yeh you are, yeh you are
-say it say it, coz they all deny it
-player play it, coz you cant deny it
-as fly as it get, as fly as i spit you know its the shit
-it's so gangsta, gangsta bitch
-switch back to the old school, old fools know
-this here thang we do so original
-i got to have it, lavish
-is how we establish
-on the real love one it feels good to have
-like a rose, flippin down the street
-looking oh so sweet (lookin' oh so sweet)
-bumpin to the beat (bumpin to the beat)
-these streets they keep me busy yeh
-makin' bread
-and i'm ballin'
-(ballin', ballin', ballin', ballin')
-yeh ballin'
-(ballin', ballin', ballin', ballin')
-oh here i go!
-ballin making dough
-working for myself
-coz it thrills me so
-i keep women on my line
-coz they know
-that i'm ballin'
-(ballin', ballin', ballin', ballin')
-yeh ballin'
-(ballin', ballin', ballin', ballin')
-oh here i go!
-driving down the road
-i can't help myself
-ballin' thrills me so
-yeh you blew my mind
-and i know , i'm ballin'
-(ballin', ballin', ballin', ballin')
-yeh ballin'
-(ballin', ballin', ballin', ballin')
-do that, who that, you that one they called on
-baller' get your ball on
-it's all on now fall on to a new groove
-really aint nothing to prove
-we, set the mood
-or shoot some pool
-or blaze a cool
-what? whatup fool
-now you can cruise if you choose but i prefer to do the cha-cha
-and once my small kitchen ?throw?
-you know i gotcha
-watch out, no need to pull your glock out
-it's a players affair, now
-look at my hair and the girls wit me
-they got the same thang on
-pimp pimp parade, my nigga get your bang on
-coz my uncles about to get their sang on
-and all round the world, my nigga, it's the same song
-and when its time for your callin', fallin', wit no stallin'
-keep it ballin'
-he starts to mill
-just rollin' tru his town
-stacking dollar bills (stacking dollar bills)
-raising dogg pound (he be raising the dog pound)
-becasuse he's loved
-loved in every city
-thats why he's ballin'
-(ballin', ballin', ballin', ballin')
-yeh ballin'
-(ballin', ballin', ballin', ballin')
-there it is coz it is there
-now have a seat and come hit the game from a player
-they say time brings change and change brings time
-it's so genuine and so divine
-it's been so long in fact its overdue
-now tell me baby girl what can d-o-double-g do for you
-i fell for you, i'll always look over you
-theres really not much that a player would'nt do for you
-so quit stallin' and fallin'
-and come get a bar of some of this ballin'
-now quit stallin' and callin'
-and come get yaself a bar of this ballin'
-yeh thats right, this is ahh, radio station 187.4 dg
-sock it to your ass
-with something from the dramatics
-and snoop dog
-let them spot that ok
-it's another one of those world premiers
-doin' it to ya doggystyle, in ya air hole
-for the 2000 plus 1, yeh
+(dp1
+Vyeh
+p2
+I13
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVaffair
+p5
+I1
+sVdollar
+p6
+I2
+sVcavier
+p7
+I1
+sVlavish
+p8
+I1
+sVdough
+p9
+I1
+sVcruise
+p10
+I1
+sVbattle
+p11
+I1
+sVhell
+p12
+I1
+sVmill
+p13
+I1
+sVfeat
+p14
+I1
+sVhole
+p15
+I1
+sVground
+p16
+I1
+sVaint
+p17
+I1
+sVbusy
+p18
+I1
+sVballer
+p19
+I1
+sVthang
+p20
+I2
+sVsky
+p21
+I1
+sVstallin
+p22
+I3
+sVair
+p23
+I1
+sVblaze
+p24
+I1
+sVgangsta
+p25
+I2
+sVcool
+p26
+I1
+sVloved
+p27
+I2
+sVreal
+p28
+I1
+sVshoot
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I1
+sVuncles
+p32
+I1
+sVget
+p33
+I6
+sVbeat
+p34
+I2
+sVbig
+p35
+I4
+sVwatch
+p36
+I1
+sVme
+p37
+I1
+sVgame
+p38
+I3
+sVevery
+p39
+I1
+sVknow
+p40
+I5
+sVfall
+p41
+I1
+sVworld
+p42
+I2
+sVnow
+p43
+I1
+sVbringing
+p44
+I1
+sVyou
+p45
+I3
+sVbread
+p46
+I1
+sVschool
+p47
+I1
+sVbar
+p48
+I2
+sVlike
+p49
+I6
+sVpimp
+p50
+I2
+sValways
+p51
+I1
+sV1874
+p52
+I1
+sVsang
+p53
+I1
+sVslipping
+p54
+I1
+sVsmall
+p55
+I1
+sVradio
+p56
+I1
+sVbills
+p57
+I2
+sVtru
+p58
+I1
+sVround
+p59
+I3
+sVdoggystyle
+p60
+I1
+sVbars
+p61
+I1
+sVset
+p62
+I1
+sVold
+p63
+I2
+sVparade
+p64
+I1
+sVstation
+p65
+I1
+sVstreets
+p66
+I1
+sVback
+p67
+I3
+sVseat
+p68
+I1
+sVhair
+p69
+I1
+sVtouch
+p70
+I1
+sVclubs
+p71
+I1
+sVstreet
+p72
+I1
+sVare
+p73
+I1
+sVgo
+p74
+I2
+sVgirl
+p75
+I1
+sVdivine
+p76
+I1
+sVreally
+p77
+I2
+sVwhatup
+p78
+I1
+sVmood
+p79
+I1
+sVdriving
+p80
+I1
+sVspace
+p81
+I1
+sVestablish
+p82
+I1
+sVdramatics
+p83
+I3
+sVlooking
+p84
+I1
+sVbang
+p85
+I1
+sVhill
+p86
+I3
+sVgot
+p87
+I2
+sVsliding
+p88
+I1
+sVass
+p89
+I1
+sVright
+p90
+I1
+sVquit
+p91
+I2
+sVcars
+p92
+I1
+sVpushing
+p93
+I1
+sVchacha
+p94
+I1
+sVlet
+p95
+I1
+sVmaking
+p96
+I1
+sVlac
+p97
+I1
+sVcome
+p98
+I3
+sVthrow
+p99
+I1
+sVchange
+p100
+I2
+sVkitchen
+p101
+I1
+sVon
+p102
+I5
+sVcallin
+p103
+I2
+sVok
+p104
+I1
+sVworking
+p105
+I1
+sVwouldnt
+p106
+I1
+sVoh
+p107
+I4
+sVstarts
+p108
+I1
+sVill
+p109
+I1
+sVcoz
+p110
+I7
+sVkeep
+p111
+I3
+sVplayers
+p112
+I1
+sVswear
+p113
+I1
+sVplace
+p114
+I1
+sVlookin
+p115
+I1
+sVrose
+p116
+I1
+sVmakes
+p117
+I1
+sVroad
+p118
+I1
+sVthats
+p119
+I2
+sVlove
+p120
+I3
+sVbecasuse
+p121
+I1
+sVfeel
+p122
+I1
+sVsweet
+p123
+I2
+sVahh
+p124
+I1
+sVprefer
+p125
+I1
+sVmakin
+p126
+I1
+sVone
+p127
+I3
+sVnothing
+p128
+I1
+sVspinning
+p129
+I1
+sVwit
+p130
+I2
+sVbitch
+p131
+I1
+sVsacs
+p132
+I1
+sVfallin
+p133
+I2
+sVballin
+p134
+I59
+sVcity
+p135
+I1
+sVsnoop
+p136
+I3
+sVprove
+p137
+I1
+sVdogg
+p138
+I2
+sVthere
+p139
+I1
+sVgirls
+p140
+I1
+sVlong
+p141
+I1
+sVmuch
+p142
+I1
+sVstars
+p143
+I1
+sVdg
+p144
+I1
+sVtell
+p145
+I1
+sVchoose
+p146
+I1
+sVhead
+p147
+I1
+sVglock
+p148
+I1
+sVfeels
+p149
+I1
+sVspit
+p150
+I1
+sVthat
+p151
+I1
+sVbrings
+p152
+I2
+sVgotcha
+p153
+I1
+sVwhirling
+p154
+I1
+sVooh
+p155
+I1
+sVhmm
+p156
+I1
+sVplus
+p157
+I1
+sVnigga
+p158
+I2
+sVbaby
+p159
+I1
+sVsmoking
+p160
+I1
+sVline
+p161
+I1
+sVraising
+p162
+I2
+sVwomen
+p163
+I1
+sVfly
+p164
+I2
+sVpull
+p165
+I2
+sVmyself
+p166
+I2
+sV8track
+p167
+I1
+sVlook
+p168
+I2
+sVblew
+p169
+I1
+sVsay
+p170
+I3
+sVcat
+p171
+I1
+sVkissing
+p172
+I1
+sVgroove
+p173
+I1
+sVcalled
+p174
+I1
+sVtheres
+p175
+I1
+sVfool
+p176
+I1
+sVpound
+p177
+I2
+sVstacking
+p178
+I2
+sVmind
+p179
+I1
+sVit
+p180
+I2
+sVdog
+p181
+I2
+sVplayer
+p182
+I3
+sVcant
+p183
+I2
+sVdizzy
+p184
+I1
+sVim
+p185
+I7
+sVsomething
+p186
+I1
+sVhave
+p187
+I1
+sVneed
+p188
+I1
+sVhes
+p189
+I2
+sVthrills
+p190
+I2
+sVshit
+p191
+I1
+sVsippin
+p192
+I1
+sVgenuine
+p193
+I1
+sVsit
+p194
+I1
+sVsong
+p195
+I1
+sVbowl
+p196
+I1
+sV2000
+p197
+I1
+sV1
+I1
+sVya
+p198
+I2
+sVanother
+p199
+I1
+sVtumbling
+p200
+I1
+sVbumpin
+p201
+I2
+sVchampaign
+p202
+I1
+sVnew
+p203
+I1
+sVfools
+p204
+I1
+sVout
+p205
+I1
+sVwheel
+p206
+I1
+sVplay
+p207
+I1
+sVball
+p208
+I1
+sVstar
+p209
+I1
+sVtrack
+p210
+I1
+sVdodoubleg
+p211
+I1
+sVspot
+p212
+I1
+sVhand
+p213
+I1
+sVdoin
+p214
+I1
+sVtown
+p215
+I1
+sVmac
+p216
+I1
+sVfell
+p217
+I1
+sVmad
+p218
+I1
+sVrolling
+p219
+I1
+sVpool
+p220
+I1
+sVpremiers
+p221
+I1
+sVdeny
+p222
+I2
+sVsock
+p223
+I1
+sVbanging
+p224
+I1
+sVrollin
+p225
+I3
+sVflippin
+p226
+I1
+sVswitch
+p227
+I1
+sVso
+p228
+I2
+sVyaself
+p229
+I1
+sVtime
+p230
+I3
+sVoriginal
+p231
+I1
+sVfact
+p232
+I1
+sVoverdue
+p233
+I1
+s.

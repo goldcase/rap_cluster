@@ -1,120 +1,665 @@
-"lastonesleft" lyrics
-2pac lyrics
-"lastonesleft"
-(feat. outlawz)
-nigga westside
-westside in this motherfucker
-westside in this motherfucker right here
-westside in this motherfucker
-westside in this motherfucker right here
-westside in this motherfucker
-westside in this motherfucker right here
-westside in this motherfucker
-can't nobody stop us when we blunted up and swerving
-packed in a suburban, screaming outlaw running on the curb
-they never try me 'cause right behind me your killer team
-i get a word cut the head off a nigga like a guillotine
-this hennessey'll keep me calm though
-sittin in the back of the club, trading convo
-living like a don in my own mind
-signal kadafi, nigga watch me with the chrome nine
-all the time drinking champagne
-walk through the crowd let the tramps hang
-niggas player hate but do a damn thing
-picture me doing eighty down a one way
-stuck in the trunk, caught with gun play
-so i gotta keep my eyes open
-getting high, wonder why we gotta die smoking
-my alibi, i'm victory
-like them other vile men i'm marked for death
-spending my nights like it's the last one left
-i'm an outlaw
-am i wrong, wanna get it goin on
-last to leave, till i see everybody's gone
-i'm at the bar you can catch me hands full of liquor or
-puffin on a sweet swisher i'm the last one left
-tell me am i wrong, i wanna get it going on
-last to leave until i see everybody's gone
-i'm at the bar you can catch me hands full of liquor or
-puffin on a sweet swisher, guess i'm the last one left
-i got my back against the wall
-gat chilling by my balls
-prior to war is rider nigga only five six tall
-napoleon only knows on we outlaws fuck fear
-better strap down to the feelins 'cause we out yeah
-thug passion all up in me
-feeling like i took some henne
-it ain't easy i'm trying to make a dollar out of two pennies
-what we got with these rap niggas
-wanna pull they're gat niggas
-only got my side 'cause they think pac die nigga
-last niggas with our tape
-take a shot within our vest
-pac come and catch weight
-nigga we the last ones left
-if we would've known the zone inside my own dome
-fresh outs jail it was hell but i'm probably home
-looking for niggas that was roofing that shit when i was locked back
-hands on the pump, make 'em jump when its cocked back
-fuck 'em all they're bitches inside a world of weak
-bitch niggas be afraid to speak
-we're the last ones left
-tell me am i wrong, i wanna get it goin on
-last to leave, till i see everybody's gone
-at the bar you can catch me hands full of liquor or
-puffin on a sweet swisher like i'm the last one left
-am i wrong, wanna get it going on
-last to leave till i see everybody's gone
-at the bar you can catch me hands full of liquor or
-puffin on a sweet swisher, last one left
-am i wrong, wanna get it going on
-last to leave till i see everybody's gone
-at the bar you can catch me hands full of liquor of (yeah)
-puffin on a sweet swisher, i'm the last one left
-i eat and sleep the worst shit, turfs and birth
-me and my team super supreme putting in work
-i'm passed out, drunk as a fuck, till it hurt
-and i call earl screaming fuck the world
-i got a bitch on the side wanna be my wife
-and wify even wanna know if she's gonna see me tonight
-and i know it ain't right, but it's the life i got
-and that's until i see yak
-and that's until i see pac
-young know i lost a troll somebody owed me down
-and if the world was a girl i'd stick my dick in the ground
-fuck the world
-westside in this motherfucker right here
-westside in this motherfucker
-yeah
-westside in this motherfucker right here
-westside in this motherfucker
-uh
-outlaw in this motherfucker right here
-outlaws in this motherfucker
-uh
-in this motherfucker right here
-in this motherfucker
-uh
-westside in this motherfucker right here
-westside in this motherfucker
-uh
-westside in this motherfucker right here
-westside in this motherfucker
-in this motherfucker right here
-westside in this motherfucker
-uh
-outlaw in this motherfucker right here
-westside in this motherfucker
-uh
-in this motherfucker right here
-westside in this motherfucker
-in this motherfucker right here
-westside in this motherfucker
-in this motherfucker right here
-westside in this motherfucker
-in this motherfucker right here
-westside in this motherfucker
-in this motherfucker right here
-westside in this motherfucker
-westside in this motherfucker right here
-westside
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVyoung
+p4
+I1
+sVpennies
+p5
+I1
+sVsuburban
+p6
+I1
+sVdollar
+p7
+I1
+sVswerving
+p8
+I1
+sVknown
+p9
+I1
+sVsleep
+p10
+I1
+sVworld
+p11
+I4
+sVhell
+p12
+I1
+sVfear
+p13
+I1
+sVfeat
+p14
+I1
+sVground
+p15
+I1
+sVaint
+p16
+I2
+sVcut
+p17
+I1
+sVvile
+p18
+I1
+sVzone
+p19
+I1
+sVcall
+p20
+I1
+sVdick
+p21
+I1
+sVpump
+p22
+I1
+sVbetter
+p23
+I1
+sVgoing
+p24
+I3
+sVtape
+p25
+I1
+sVnapoleon
+p26
+I1
+sVeasy
+p27
+I1
+sVta
+p28
+I2
+sVturfs
+p29
+I1
+sVyak
+p30
+I1
+sVsomebody
+p31
+I1
+sVget
+p32
+I6
+sVsittin
+p33
+I1
+sVwatch
+p34
+I1
+sVones
+p35
+I2
+sVfive
+p36
+I1
+sVknow
+p37
+I3
+sVbirth
+p38
+I1
+sVhands
+p39
+I6
+sVlocked
+p40
+I1
+sVdrinking
+p41
+I1
+sVone
+p42
+I7
+sVscreaming
+p43
+I2
+sVearl
+p44
+I1
+sVbar
+p45
+I5
+sVlike
+p46
+I6
+sVlost
+p47
+I1
+sVeven
+p48
+I1
+sVdie
+p49
+I2
+sVsignal
+p50
+I1
+sVgun
+p51
+I1
+sVtheyre
+p52
+I2
+sVtry
+p53
+I1
+sVvictory
+p54
+I1
+sVteam
+p55
+I2
+sVside
+p56
+I2
+sVeverybodys
+p57
+I5
+sVnigga
+p58
+I6
+sVcrowd
+p59
+I1
+sVhennesseyll
+p60
+I1
+sVliquor
+p61
+I5
+sVback
+p62
+I4
+sVjump
+p63
+I1
+sVsee
+p64
+I8
+sVfull
+p65
+I5
+sVtrading
+p66
+I1
+sVshes
+p67
+I1
+sVguillotine
+p68
+I1
+sVhome
+p69
+I1
+sVgirl
+p70
+I1
+sVfeelins
+p71
+I1
+sVpacked
+p72
+I1
+sVwonder
+p73
+I1
+sVputting
+p74
+I1
+sVliving
+p75
+I1
+sVouts
+p76
+I1
+sVhate
+p77
+I1
+sVprobably
+p78
+I1
+sVinside
+p79
+I2
+sVlooking
+p80
+I1
+sVbehind
+p81
+I1
+sVpassion
+p82
+I1
+sVblunted
+p83
+I1
+sVgot
+p84
+I7
+sVchampagne
+p85
+I1
+sVcause
+p86
+I3
+sVwouldve
+p87
+I1
+sVmen
+p88
+I1
+sVroofing
+p89
+I1
+sVhang
+p90
+I1
+sVbitches
+p91
+I1
+sVnever
+p92
+I1
+sVweak
+p93
+I1
+sVmotherfucker
+p94
+I34
+sVhere
+p95
+I17
+sVdome
+p96
+I1
+sVstrap
+p97
+I1
+sVdeath
+p98
+I1
+sVlet
+p99
+I1
+sVtrunk
+p100
+I1
+sVwestside
+p101
+I25
+sVon
+p102
+I5
+sVsuper
+p103
+I1
+sVlast
+p104
+I14
+sVgetting
+p105
+I1
+sVlastonesleft
+p106
+I2
+sVwrong
+p107
+I5
+sVkeep
+p108
+I2
+sVthing
+p109
+I1
+sVpuffin
+p110
+I5
+sVid
+p111
+I1
+sVor
+p112
+I4
+sVthats
+p113
+I2
+sVem
+p114
+I2
+sVcocked
+p115
+I1
+sVdrunk
+p116
+I1
+sVwall
+p117
+I1
+sVsweet
+p118
+I5
+sVwithin
+p119
+I1
+sVsupreme
+p120
+I1
+sVmarked
+p121
+I1
+sVwalk
+p122
+I1
+sVdown
+p123
+I1
+sVright
+p124
+I19
+sVbitch
+p125
+I2
+sVtroll
+p126
+I1
+sVopen
+p127
+I1
+sVspeak
+p128
+I1
+sVwan
+p129
+I8
+sVguess
+p130
+I1
+sVweight
+p131
+I1
+sVchrome
+p132
+I1
+sVcome
+p133
+I1
+sVcaught
+p134
+I1
+sVtwo
+p135
+I1
+sVoutlaws
+p136
+I2
+sVstuck
+p137
+I1
+sVdamn
+p138
+I1
+sVcalm
+p139
+I1
+sVway
+p140
+I1
+sVoutlawz
+p141
+I1
+sVtell
+p142
+I2
+sVhead
+p143
+I1
+sVknows
+p144
+I1
+sVclub
+p145
+I1
+sVnobody
+p146
+I1
+sVkadafi
+p147
+I1
+sVtook
+p148
+I1
+sVfuck
+p149
+I5
+sVstick
+p150
+I1
+sVcatch
+p151
+I6
+sVsmoking
+p152
+I1
+sVtrying
+p153
+I1
+sVeat
+p154
+I1
+sV2pac
+p155
+I1
+sVme
+p156
+I1
+sVpull
+p157
+I1
+sVballs
+p158
+I1
+sVword
+p159
+I1
+sVniggas
+p160
+I6
+sVleave
+p161
+I5
+sVoutlaw
+p162
+I4
+sVwork
+p163
+I1
+sVconvo
+p164
+I1
+sVus
+p165
+I1
+sVspending
+p166
+I1
+sVnine
+p167
+I1
+sVuh
+p168
+I6
+sVim
+p169
+I12
+sVgat
+p170
+I2
+sVfeeling
+p171
+I1
+sVchilling
+p172
+I1
+sVgone
+p173
+I5
+sVvest
+p174
+I1
+sVmind
+p175
+I1
+sVeyes
+p176
+I1
+sVwar
+p177
+I1
+sVhigh
+p178
+I1
+sVplayer
+p179
+I1
+sVcant
+p180
+I1
+sVcurb
+p181
+I1
+sVrap
+p182
+I1
+sVthug
+p183
+I1
+sVgon
+p184
+I1
+sVworst
+p185
+I1
+sVshit
+p186
+I2
+sVnights
+p187
+I1
+sValibi
+p188
+I1
+sVprior
+p189
+I1
+sVna
+p190
+I9
+sVmake
+p191
+I2
+sVsix
+p192
+I1
+sVhenne
+p193
+I1
+sVswisher
+p194
+I5
+sVtill
+p195
+I5
+sVpac
+p196
+I3
+sVtake
+p197
+I1
+sVrider
+p198
+I1
+sVpicture
+p199
+I1
+sVplay
+p200
+I1
+sVkiller
+p201
+I1
+sVthough
+p202
+I1
+sVstop
+p203
+I1
+sVeighty
+p204
+I1
+sVowed
+p205
+I1
+sVtonight
+p206
+I1
+sVrunning
+p207
+I1
+sVafraid
+p208
+I1
+sVfresh
+p209
+I1
+sVhurt
+p210
+I1
+sVgoin
+p211
+I2
+sVyeah
+p212
+I3
+sVwife
+p213
+I1
+sVtramps
+p214
+I1
+sVlife
+p215
+I1
+sVthink
+p216
+I1
+sVpassed
+p217
+I1
+sVjail
+p218
+I1
+sVtime
+p219
+I1
+sVtall
+p220
+I1
+sVwify
+p221
+I1
+sVleft
+p222
+I8
+s.

@@ -1,78 +1,376 @@
-"he say she say" lyrics
-lupe fiasco lyrics
-"he say she say"
-(feat. gemini, sarah green)
-i can't, i won't, i can't, i won't
-let you leave
-i don't know what you want
-you want more from me?
-she said to him
-"i want you to be a father
-he's your little boy and you don't even bother
-like "brother" without the r
-and he's starting to harbor
-cool and food for thought
-but for you he's a starver
-starting to use red markers on his work
-his teacher say they know he's much smarter
-but he's hurt
-used to hand his homework in first
-like he was the classroom starter
-burst to tears
-let them know she see us
-now he's fighting in class
-got a note last week that say he might not pass
-ask me if his daddy was sick of us
-cause you ain't never pick him up
-you see what his problem is?
-he don't know where his poppa is
-no positive male role model
-to play football and build railroad models
-it's making a hole you've been digging it
-cause you ain't been kicking it
-since he was old enough to hold bottles
-wasn't supposed to get introduced to that
-he don't deserve to get used to that
-now i ain't asking you for money or to come back to me
-some days it ain't sunny but it ain't so hard
-just breaks my heart
-when i try to provide and he say 'mommy that ain't your job'
-to be a man, i try to make him understand
-that i'm his number one fan
-but its like he born from the stands
-you know the world is out to get him, so why don't you give him a chance?"
-so he said to him
-"i want you to be a father
-i'm your little boy and you don't even bother
-like "brother" without the r
-and i'm starting to harbor
-cool and food for thought
-but for you i'm a starver
-starting to use red markers on my work
-my teacher say they know i'm much smarter
-but i'm hurt
-i used to hand my homework in first
-like i was the classroom starter
-burst to tears
-let them know he see us
-now i'm fighting in class
-got a note last week that say i might not pass
-kids ask me if my daddy is sick of us
-cause you ain't never pick me up
-you see what my problem is?
-that i don't know where my poppa is
-no positive male role model
-to play football and build railroad models
-it's making a hole you've been digging it
-cause you ain't been kicking it
-since i was old enough to hold bottles
-wasn't supposed to get introduced to that
-i don't deserve to get used to that
-now i ain't asking you for money or to come back to me
-some days it ain't sunny but it ain't so hard
-just breaks my heart
-when my momma try to provide and i tell her 'that ain't your job'
-to be a man, she try to make me understand
-that she my number one fan
-but its like you born from the stands
-you know the world is out to get me, why don't you give me a chance?"
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I2
+sVfeat
+p4
+I1
+sVaint
+p5
+I12
+sVfather
+p6
+I2
+sVtears
+p7
+I2
+sVmight
+p8
+I2
+sVhomework
+p9
+I2
+sVdigging
+p10
+I2
+sVget
+p11
+I6
+sVfood
+p12
+I2
+sVsmarter
+p13
+I2
+sVbreaks
+p14
+I2
+sVsunny
+p15
+I2
+sVfan
+p16
+I2
+sVknow
+p17
+I9
+sVworld
+p18
+I2
+sVrailroad
+p19
+I2
+sVhim
+p20
+I2
+sVcool
+p21
+I2
+sVwont
+p22
+I2
+sVpoppa
+p23
+I2
+sVlike
+p24
+I6
+sVharbor
+p25
+I2
+sVbrother
+p26
+I2
+sVleave
+p27
+I1
+sVold
+p28
+I2
+sVburst
+p29
+I2
+sVhard
+p30
+I2
+sVback
+p31
+I2
+sVborn
+p32
+I2
+sVsee
+p33
+I4
+sVpass
+p34
+I2
+sVeven
+p35
+I2
+sVtry
+p36
+I4
+sVsaid
+p37
+I2
+sVstands
+p38
+I2
+sVsince
+p39
+I2
+sVmarkers
+p40
+I2
+sVenough
+p41
+I2
+sVasking
+p42
+I2
+sVgot
+p43
+I2
+sVcause
+p44
+I4
+sVred
+p45
+I2
+sVlupe
+p46
+I1
+sVnever
+p47
+I2
+sVuse
+p48
+I2
+sVkicking
+p49
+I2
+sVjob
+p50
+I2
+sVlet
+p51
+I3
+sVask
+p52
+I2
+sVcome
+p53
+I2
+sVteacher
+p54
+I2
+sVboy
+p55
+I2
+sVdaddy
+p56
+I2
+sVlast
+p57
+I2
+sVdays
+p58
+I2
+sVpick
+p59
+I2
+sVintroduced
+p60
+I2
+sVfirst
+p61
+I2
+sVdont
+p62
+I9
+sVmommy
+p63
+I1
+sVnumber
+p64
+I2
+sVone
+p65
+I2
+sVmomma
+p66
+I1
+sVsarah
+p67
+I1
+sVlittle
+p68
+I2
+sVhes
+p69
+I6
+sVpositive
+p70
+I2
+sVmuch
+p71
+I2
+sVtell
+p72
+I1
+sVstarver
+p73
+I2
+sVthat
+p74
+I4
+sVhurt
+p75
+I2
+sVkids
+p76
+I1
+sVunderstand
+p77
+I2
+sVhole
+p78
+I2
+sVhold
+p79
+I2
+sVstarter
+p80
+I2
+sVme
+p81
+I3
+sVbother
+p82
+I2
+sVwork
+p83
+I2
+sVup
+p84
+I2
+sVus
+p85
+I4
+sVyouve
+p86
+I2
+sVr
+I2
+sVsupposed
+p87
+I2
+sVmaking
+p88
+I2
+sVproblem
+p89
+I2
+sVmale
+p90
+I2
+sVsay
+p91
+I9
+sVheart
+p92
+I2
+sVgive
+p93
+I2
+sVwasnt
+p94
+I2
+sVis
+p95
+I4
+sVit
+p96
+I4
+sVcant
+p97
+I2
+sVgemini
+p98
+I1
+sVim
+p99
+I7
+sVwant
+p100
+I4
+sVbottles
+p101
+I2
+sVprovide
+p102
+I2
+sVdeserve
+p103
+I2
+sVmake
+p104
+I2
+sVnote
+p105
+I2
+sVrole
+p106
+I2
+sVbuild
+p107
+I2
+sVsick
+p108
+I2
+sVweek
+p109
+I2
+sVplay
+p110
+I2
+sVused
+p111
+I4
+sVmodels
+p112
+I2
+sVfootball
+p113
+I2
+sVhand
+p114
+I2
+sVchance
+p115
+I2
+sVclass
+p116
+I2
+sVman
+p117
+I2
+sVclassroom
+p118
+I2
+sVfighting
+p119
+I2
+sVthought
+p120
+I2
+sVwithout
+p121
+I2
+sVgreen
+p122
+I1
+sVfiasco
+p123
+I1
+sVmodel
+p124
+I2
+sVstarting
+p125
+I4
+s.

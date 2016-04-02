@@ -1,76 +1,554 @@
-"fuck all nite" lyrics
-jay-z lyrics
-"fuck all nite"
-(feat. pharrell williams (neptunes))
-you used to all the attention, huh? (yeah!)
-but you don't want no commitment, huh? (uh-uh!)
-why not? -- you should be comin home with me
-sittin in this lap with the luxury
-now you can, come in the mornin while wakin up (yeah!)
-actin like you behave and stuff (uh-huh!)
-you should be comin home with me
-sittin in this lap with the luxury, now check it
-yes.. a lime to a lemon, my v-a women
-walk in manolo blahniks cause my condo with elevators in 'em
-she wanna wrinkle my linens
-so i sprinkle her with gin and then we begin sinnin, uhh
-blasphemy, oh my god, we be sinnin
-she keeps scratchin me like she tiger in 'em
-this is exactly, why i had to pin her
-to the bed like a wrestler, her to press on her, uhh
-her man kept pagin, stressin her
-so i told her what to say just in case he question her
-(situations.. will arise, but you gotta be smart about it)
-no matter what you do, don't talk about us
-don't give him no info, he'll be lost without it
-just keep your mouth shut, we could do this again
-bring a friend!
-guess who's back in my motherfuckin house
-half black, half white chick, i call her minnie mouse
-.. we always hook up when we out
-we do what we like to do and then we out
-but lately i've been havin the strangest feelings
-your boy young hov' catchin feelings
-and it's messin up my dealings cause mami's not willin
-to leave her boyfriend, she call me her toy-friend
-said, "we was just 'sposed to hook up and have a glass"
-she called me her emergency dick-in-the-glass
-hehehe.. i had to laugh for a second
-had to check myself, get my mackin back in perspective
-i slack for a second but i'm back, no question
-like i walk with a cane, ain't no half-steppin!
-... jeah, and on that note
-iceberg slim is back to rock a boat, c'mon!
-let's just - fuck all night! yeah
-until we both start yawnin
-yeah
-to the bright shirley murdock mornin
-yeah
-until we both start yawnin
-let's just - fuck all night! yeah
-let's have breakfast baby
-yeah
-have lunch, have dinner, back to breakfast baby
-yeah
-let's have breakfast baby
-have lunch, have dinner, back to breakfast maybe
-this is - if that kid don't get too suspicious
-stop blowin up your digits
-showin up livid, claimin he wanna fight
-but shawn all business with his type (uh-uh) naw!
-shawn just tryna keep the friendship tight
-shawn to sean paul 'em if you "gimmie the light"
-and this way you can stay for life, aight?
-..
-let's just - fuck all night! yeah
-until we both start yawnin
-yeah
-to the bright shirley murdock mornin
-yeah
-until we both start yawnin
-let's just - fuck all night! yeah
-let's have breakfast baby
-yeah
-have lunch, have dinner, back to breakfast baby
-yeah
-let's have breakfast baby
+(dp1
+Vperspective
+p2
+I1
+sVlyrics
+p3
+I2
+sVbring
+p4
+I1
+sVbright
+p5
+I2
+sVsinnin
+p6
+I2
+sVhell
+p7
+I1
+sVyes
+p8
+I1
+sVfeat
+p9
+I1
+sVaint
+p10
+I1
+sVnote
+p11
+I1
+sVblowin
+p12
+I1
+sVsituations
+p13
+I1
+sVyoung
+p14
+I1
+sVhavin
+p15
+I1
+sVlets
+p16
+I8
+sVactin
+p17
+I1
+sVboyfriend
+p18
+I1
+sVsmart
+p19
+I1
+sVta
+p20
+I1
+sVme
+p21
+I2
+sVmornin
+p22
+I3
+sVemergency
+p23
+I1
+sVget
+p24
+I2
+sVsittin
+p25
+I2
+sVstop
+p26
+I1
+sVuhh
+p27
+I2
+sVlivid
+p28
+I1
+sVlunch
+p29
+I3
+sVgimmie
+p30
+I1
+sVhalf
+p31
+I2
+sVpress
+p32
+I1
+sVfeelings
+p33
+I2
+sVlike
+p34
+I5
+sVlost
+p35
+I1
+sVcalled
+p36
+I1
+sValways
+p37
+I1
+sVyawnin
+p38
+I4
+sVscratchin
+p39
+I1
+sVleave
+p40
+I1
+sVstuff
+p41
+I1
+sVmurdock
+p42
+I2
+sVrock
+p43
+I1
+sVchick
+p44
+I1
+sVfriendship
+p45
+I1
+sVblack
+p46
+I1
+sVem
+p47
+I3
+sVclaimin
+p48
+I1
+sVelevators
+p49
+I1
+sVhouse
+p50
+I1
+sVsprinkle
+p51
+I1
+sVsecond
+p52
+I2
+sVus
+p53
+I1
+sVhome
+p54
+I2
+sVuhuh
+p55
+I2
+sVpaul
+p56
+I1
+sVout
+p57
+I2
+sVsaid
+p58
+I1
+sVgod
+p59
+I1
+sVdickintheglass
+p60
+I1
+sVbehave
+p61
+I1
+sVnite
+p62
+I2
+sVwillin
+p63
+I1
+sVgot
+p64
+I1
+sVcause
+p65
+I2
+sVmanolo
+p66
+I1
+sVtold
+p67
+I1
+sVfight
+p68
+I1
+sVshut
+p69
+I1
+sVbusiness
+p70
+I1
+sVattention
+p71
+I1
+sVnaw
+p72
+I1
+sVhalfsteppin
+p73
+I1
+sVcondo
+p74
+I1
+sVcome
+p75
+I1
+sVdigits
+p76
+I1
+sVboy
+p77
+I1
+sVoh
+p78
+I1
+sVmotherfuckin
+p79
+I1
+sVcould
+p80
+I1
+sVkeep
+p81
+I2
+sVdinner
+p82
+I3
+sVpagin
+p83
+I1
+sVmouth
+p84
+I1
+sVneptunes
+p85
+I1
+sVinfo
+p86
+I1
+sVhehehe
+p87
+I1
+sVdont
+p88
+I4
+sVive
+p89
+I1
+sVcommitment
+p90
+I1
+sVwalk
+p91
+I2
+sVhook
+p92
+I2
+sVjayz
+p93
+I1
+sVcmon
+p94
+I1
+sVlaugh
+p95
+I1
+sVcomin
+p96
+I2
+sVuhhuh
+p97
+I1
+sVboat
+p98
+I1
+sVlime
+p99
+I1
+sVwan
+p100
+I2
+sVguess
+p101
+I1
+sVlight
+p102
+I1
+sVher
+p103
+I3
+sVstart
+p104
+I4
+sVnight
+p105
+I4
+sVquestion
+p106
+I2
+sVminnie
+p107
+I1
+sVwhos
+p108
+I1
+sVmessin
+p109
+I1
+sVblasphemy
+p110
+I1
+sVcall
+p111
+I2
+sVway
+p112
+I1
+sVgin
+p113
+I1
+sVwhite
+p114
+I1
+sVkid
+p115
+I1
+sVtype
+p116
+I1
+sVwilliams
+p117
+I1
+sVback
+p118
+I7
+sVtryna
+p119
+I1
+sVlife
+p120
+I1
+sVslim
+p121
+I1
+sVshawn
+p122
+I3
+sVexactly
+p123
+I1
+sVhuh
+p124
+I2
+sVfuck
+p125
+I6
+sVtiger
+p126
+I1
+sVdealings
+p127
+I1
+sVcatchin
+p128
+I1
+sVbaby
+p129
+I6
+sVshirley
+p130
+I2
+sVwomen
+p131
+I1
+sVcase
+p132
+I1
+sViceberg
+p133
+I1
+sVslack
+p134
+I1
+sVpharrell
+p135
+I1
+sVlinens
+p136
+I1
+sVbed
+p137
+I1
+sVstrangest
+p138
+I1
+sVmatter
+p139
+I1
+sVsean
+p140
+I1
+sVfriend
+p141
+I1
+sVwrestler
+p142
+I1
+sVmaybe
+p143
+I1
+sVaight
+p144
+I1
+sVmamis
+p145
+I1
+sVwakin
+p146
+I1
+sVva
+p147
+I1
+sVcane
+p148
+I1
+sVpin
+p149
+I1
+sVgive
+p150
+I1
+sVshowin
+p151
+I1
+sVmackin
+p152
+I1
+sVit
+p153
+I3
+sVglass
+p154
+I1
+sVsay
+p155
+I1
+sVim
+p156
+I1
+sVwant
+p157
+I1
+sVarise
+p158
+I1
+sVbreakfast
+p159
+I7
+sVmouse
+p160
+I1
+sVcheck
+p161
+I2
+sVagain
+p162
+I1
+sVlemon
+p163
+I1
+sVna
+p164
+I2
+sVlately
+p165
+I1
+sVhov
+p166
+I1
+sVtight
+p167
+I1
+sVluxury
+p168
+I2
+sVsposed
+p169
+I1
+sVbegin
+p170
+I1
+sVused
+p171
+I1
+sVstay
+p172
+I1
+sVblahniks
+p173
+I1
+sVwrinkle
+p174
+I1
+sVlap
+p175
+I2
+sVman
+p176
+I1
+sVyeah
+p177
+I14
+sVkept
+p178
+I1
+sVtoyfriend
+p179
+I1
+sVstressin
+p180
+I1
+sVsuspicious
+p181
+I1
+sVwithout
+p182
+I1
+sVkeeps
+p183
+I1
+sVjeah
+p184
+I1
+sVtalk
+p185
+I1
+s.

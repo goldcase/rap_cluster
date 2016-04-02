@@ -1,67 +1,478 @@
-"london girl" lyrics
-50 cent lyrics
-"london girl"
-ay, ay quit billin my phone bruv
-you think money grows on trees?
-i just got back from the u.k. - ha ha!
-but i'm goin back to the u.k. - yeah
-i just bought a flat in the u.k. - uh-huh
-(you just got back baby today?) yeah
-i just got back from the u.k. - ha ha!
-but i'm goin back to the u.k. - woo!
-i'm a little jetlag now, okay?
-(look, the dick's rock hard baby for me)
-she's my london girl - she's my, my
-my london girl - she's my, my
-yeah, the first time i seen her son i knew she was the shit (uh-huh)
-i seen her in the v.i.p. chillin with her clique (yeah)
-she hot mayne, i watched her (c'mon)
-i like her style
-she don't know what i'm thinkin when i'm starin at her lips
-in my imagination i can see her suck the dick (yeah!)
-i like that, i want that
-we could do it right now
-just a minute of your time, let me talk to ya love
-i wan' get to know you, maybe i can call you up
-then we can chit-chat 'til you let me hit that
-i'll get deep 'til i hit the back of your kit-kat
-you're not a freak but you'll be one when i'm done (yeah)
-it's anytime, anyplace with me hon
-i'm sexual, when i'm next to you
-i'm a horny dog, oh my god
-she's my london girl - she's my, my
-my london girl - she's my, my
-she's my london girl - she's my, my
-my london girl - she's my, my
-she's my london girl
-she said she's so sophisticated, you know when she talk to me
-she's such an intellectual, she make me want her sexual
-give what i got, backshot
-after backshot, sweat non-stop
-i really like the way she move, i'm tryin to say she hot
-she rodeo, she ride it good when she get on top (c'mon)
-she work it, she work it (yeah)
-and she be puttin it down
-it looks good, yeah good enough to taste it (that good?)
-a boy toy, yeah i'm what she wan' play with (ohh!)
-she a cougar, got a little age on me (yeah)
-but i'm experienced, that's what she don't know homie
-the same ol', same ol', startin to feel different
-anytime, anyplace baby i'm with it
-don't stop get it, get it
-collapse, relax then get right back with it
-yeah...
-yeah that's the shit, uhh
-yeah that's my bitch, uhh
-i just got back from the u.k.
-i got a new bitch in the u.k.
-my paper's straight, i'm okay
-i just got back nigga today
-50, you fuckin with the #1 nigga now
-you know it! i'm international jack
-you understand what i'm sayin nigga?
-anywhere around the globe
-international gangsta shit
-you heard me? i'm a pop sensation
-when i cock that and pop that you gon' understand what i'm sayin
-ohhh!
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVmove
+p5
+I1
+sVlondon
+p6
+I9
+sVlooks
+p7
+I1
+sVchillin
+p8
+I1
+sVhorny
+p9
+I1
+sV1
+I1
+sVstyle
+p10
+I1
+sVsayin
+p11
+I2
+sVdick
+p12
+I1
+sVenough
+p13
+I1
+sVcougar
+p14
+I1
+sVgon
+p15
+I1
+sVohhh
+p16
+I1
+sVgangsta
+p17
+I1
+sVdicks
+p18
+I1
+sVgood
+p19
+I4
+sVhit
+p20
+I2
+sVaround
+p21
+I1
+sVget
+p22
+I6
+sVya
+p23
+I1
+sVstop
+p24
+I1
+sVtrees
+p25
+I1
+sVsensation
+p26
+I1
+sVknow
+p27
+I5
+sVnew
+p28
+I1
+sVjetlag
+p29
+I1
+sVnow
+p30
+I2
+sVputtin
+p31
+I1
+sVminute
+p32
+I1
+sVlike
+p33
+I3
+sV50
+p34
+I2
+sVstartin
+p35
+I1
+sVrock
+p36
+I1
+sVstraight
+p37
+I1
+sVbillin
+p38
+I1
+sVright
+p39
+I2
+sVglobe
+p40
+I1
+sVhard
+p41
+I1
+sVback
+p42
+I9
+sVsee
+p43
+I1
+sVshes
+p44
+I12
+sVgirl
+p45
+I9
+sVsexual
+p46
+I2
+sVreally
+p47
+I1
+sVsaid
+p48
+I1
+sVgod
+p49
+I1
+sVwoo
+p50
+I1
+sVgot
+p51
+I8
+sVyoull
+p52
+I1
+sVbought
+p53
+I1
+sVquit
+p54
+I1
+sVchitchat
+p55
+I1
+sVmayne
+p56
+I1
+sVlet
+p57
+I2
+sVlips
+p58
+I1
+sVclique
+p59
+I1
+sVboy
+p60
+I1
+sVol
+p61
+I2
+sVoh
+p62
+I1
+sVcock
+p63
+I1
+sVill
+p64
+I1
+sVrodeo
+p65
+I1
+sVsweat
+p66
+I1
+sVthink
+p67
+I1
+sVfuckin
+p68
+I1
+sVfirst
+p69
+I1
+sVlove
+p70
+I1
+sVdont
+p71
+I3
+sVfeel
+p72
+I1
+sVintellectual
+p73
+I1
+sVone
+p74
+I1
+sVdown
+p75
+I1
+sVvip
+p76
+I1
+sVnigga
+p77
+I3
+sVdone
+p78
+I1
+sVbitch
+p79
+I2
+sVohh
+p80
+I1
+sVuhhuh
+p81
+I2
+sVbackshot
+p82
+I2
+sVanyplace
+p83
+I2
+sVwan
+p84
+I2
+sVlittle
+p85
+I2
+sVtoy
+p86
+I1
+sVbruv
+p87
+I1
+sVtop
+p88
+I1
+sVcent
+p89
+I1
+sVnext
+p90
+I1
+sVcall
+p91
+I1
+sVway
+p92
+I1
+sVtryin
+p93
+I1
+sVtoday
+p94
+I2
+sVflat
+p95
+I1
+sVcollapse
+p96
+I1
+sVthat
+p97
+I2
+sVyeah
+p98
+I13
+sVphone
+p99
+I1
+sVunderstand
+p100
+I2
+sVbaby
+p101
+I3
+sVha
+p102
+I4
+sVme
+p103
+I2
+sVlook
+p104
+I1
+sVheard
+p105
+I1
+sVride
+p106
+I1
+sVwork
+p107
+I2
+sVup
+p108
+I1
+sVanywhere
+p109
+I1
+sVuk
+p110
+I7
+sVmy
+p111
+I6
+sVcould
+p112
+I1
+sVcmon
+p113
+I2
+sVfreak
+p114
+I1
+sVgive
+p115
+I1
+sVtaste
+p116
+I1
+sVit
+p117
+I3
+sVdeep
+p118
+I1
+sVimagination
+p119
+I1
+sVsay
+p120
+I1
+sVhomie
+p121
+I1
+sVim
+p122
+I18
+sVwant
+p123
+I2
+sVwatched
+p124
+I1
+sVay
+p125
+I2
+sVseen
+p126
+I2
+sVshit
+p127
+I3
+sVdifferent
+p128
+I1
+sVhon
+p129
+I1
+sVthinkin
+p130
+I1
+sVrelax
+p131
+I1
+sVtil
+p132
+I2
+sVhot
+p133
+I2
+sVpop
+p134
+I2
+sVpapers
+p135
+I1
+sVyou
+p136
+I1
+sVgrows
+p137
+I1
+sVnonstop
+p138
+I1
+sVplay
+p139
+I1
+sVexperienced
+p140
+I1
+sVokay
+p141
+I2
+sVknew
+p142
+I1
+sVstarin
+p143
+I1
+sVuhh
+p144
+I2
+sVkitkat
+p145
+I1
+sVsuck
+p146
+I1
+sVsophisticated
+p147
+I1
+sVgoin
+p148
+I2
+sVmaybe
+p149
+I1
+sVage
+p150
+I1
+sVyoure
+p151
+I1
+sVdog
+p152
+I1
+sVanytime
+p153
+I2
+sVtime
+p154
+I2
+sVinternational
+p155
+I2
+sVthats
+p156
+I3
+sVmake
+p157
+I1
+sVtalk
+p158
+I2
+sVjack
+p159
+I1
+s.

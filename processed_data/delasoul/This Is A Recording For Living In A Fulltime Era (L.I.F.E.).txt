@@ -1,59 +1,440 @@
-"this is a recording for living in a fulltime era (l.i.f.e.)" lyrics
-de la soul lyrics
-"this is a recording for living in a fulltime era (l.i.f.e.)"
-(this is a recording) (life)
-living in everyday is something,
-something everyday like this is our livin'
-giving something sheer for the crowd is our major,
-major to the crowd is to hear what we're givin'
-no time to rest, we got work in the studio
-studio suppliers rest at no time
-showtime is enough when the soul is performing,
-performing is the soul y'all, and it's showtime
-coping with dates in clubs, can't even lounge,
-lounge with the homeboys how we are copin'
-scoping new material for paul to plug high-pitched,
-high-pitched what paul plugs in and still scopin'
-bearer of peaceful views to express peace,
-peaceful expressions why we are bearers
-what the soul tries to project is when existing in rap,
-you're living in a fulltime era
-(this is a recording!)
-(this is a recording) (life)
-puttin' in spin the rhyme, rappers fear so
-fear so much of what pos is puttin'
-couldn't do better, the punks they don't try hard
-try hard enough, they don't, so they couldn't
-no joke to what i do inside this field,
-this field to me is filed, there's no joke
-so soak up the fact there's no part-time,
-part-time rappers at, so soak
-taking in new ideals leads to new groups,
-new groups to better the soul, i'm takin'
-wakin' from days and nights to do my best
-your best gets us paid
-so i'll keep on wakin'
-wearer of a plug logo to the dying,
-dying are rappers who think i'm no wearer
-what i'm trying to say is when dealing in rap,
-you're living in a fulltime era
-(this is a recording!)
-(this is a recording) (life)
-love is to all, to all goes my love
-dove comes to peace like stand comes to sit
-stand for the court, 'cause standing is healthy
-healthy in sense is mentally fit
-pause for the poets of a new style of speak
-just here to do the same with no trick
-grab the plug two's live wire, my brother
-and find that you've grabbed my pet boa constrict
-ring goes the garbage i'm hearing
-seek for the truth, my brother is tearing
-no time to back-step, 'cause if you back-step
-look what you stepped in, you stepped in mess
-so look what's around you
-don't worry for the soul will find the truth
-about three years from now, you know why?
-'cause we're living in a fulltime era
-(this is a recording!)
-(this is a recording) (life)
+(dp1
+Vpaul
+p2
+I2
+sVbearer
+p3
+I1
+sVlyrics
+p4
+I2
+sVrest
+p5
+I2
+sVexisting
+p6
+I1
+sVleads
+p7
+I1
+sVwhats
+p8
+I1
+sVexpressions
+p9
+I1
+sVstill
+p10
+I1
+sVtakin
+p11
+I1
+sVfind
+p12
+I2
+sVstyle
+p13
+I1
+sVpause
+p14
+I1
+sVgrabbed
+p15
+I1
+sVgivin
+p16
+I1
+sVfit
+p17
+I1
+sVla
+p18
+I1
+sVbetter
+p19
+I2
+sVlivin
+p20
+I1
+sVviews
+p21
+I1
+sVmaterial
+p22
+I1
+sVrhyme
+p23
+I1
+sVknow
+p24
+I1
+sVnew
+p25
+I5
+sVyears
+p26
+I1
+sVstepped
+p27
+I2
+sVlike
+p28
+I2
+sVcoping
+p29
+I1
+sVsuppliers
+p30
+I1
+sVperforming
+p31
+I2
+sVbrother
+p32
+I2
+sVtry
+p33
+I2
+sVwearer
+p34
+I2
+sVgrab
+p35
+I1
+sVyall
+p36
+I1
+sVcrowd
+p37
+I2
+sVdealing
+p38
+I1
+sVhard
+p39
+I2
+sVideals
+p40
+I1
+sVtrick
+p41
+I1
+sVclubs
+p42
+I1
+sVlogo
+p43
+I1
+sVscoping
+p44
+I1
+sVbest
+p45
+I2
+sVeven
+p46
+I1
+sVliving
+p47
+I6
+sVwire
+p48
+I1
+sVgiving
+p49
+I1
+sVenough
+p50
+I2
+sVgoes
+p51
+I2
+sVgot
+p52
+I1
+sVcause
+p53
+I3
+sVbearers
+p54
+I1
+sVpoets
+p55
+I1
+sVtruth
+p56
+I2
+sVpunks
+p57
+I1
+sVstudio
+p58
+I2
+sVgroups
+p59
+I2
+sVplug
+p60
+I3
+sVdates
+p61
+I1
+sVhealthy
+p62
+I2
+sVjoke
+p63
+I2
+sVtaking
+p64
+I1
+sVdays
+p65
+I1
+sVkeep
+p66
+I1
+sVfear
+p67
+I2
+sVfulltime
+p68
+I5
+sVstand
+p69
+I2
+sVyouve
+p70
+I1
+sVboa
+p71
+I1
+sVtheres
+p72
+I2
+sVthink
+p73
+I1
+sVcomes
+p74
+I2
+sVmajor
+p75
+I2
+sVlove
+p76
+I2
+sVdont
+p77
+I3
+sVgarbage
+p78
+I1
+sVpos
+p79
+I1
+sVhearing
+p80
+I1
+sVcouldnt
+p81
+I2
+sVspeak
+p82
+I1
+sVstanding
+p83
+I1
+sVsheer
+p84
+I1
+sVthree
+p85
+I1
+sVlive
+p86
+I1
+sVmuch
+p87
+I1
+sVpeaceful
+p88
+I2
+sVhomeboys
+p89
+I1
+sVlife
+p90
+I6
+sVhear
+p91
+I1
+sVfiled
+p92
+I1
+sVtrying
+p93
+I1
+sVspin
+p94
+I1
+sVlook
+p95
+I2
+sVinside
+p96
+I1
+sVwork
+p97
+I1
+sVsoul
+p98
+I6
+sVus
+p99
+I1
+sVproject
+p100
+I1
+sVexpress
+p101
+I1
+sVera
+p102
+I5
+sVtearing
+p103
+I1
+sVill
+p104
+I1
+sVsay
+p105
+I1
+sVwakin
+p106
+I2
+sVtwos
+p107
+I1
+sVshowtime
+p108
+I2
+sVcant
+p109
+I1
+sVim
+p110
+I4
+sVsomething
+p111
+I3
+sVrap
+p112
+I2
+sVsense
+p113
+I1
+sVseek
+p114
+I1
+sVeveryday
+p115
+I2
+sVworry
+p116
+I1
+sVaround
+p117
+I1
+sVnights
+p118
+I1
+sVcourt
+p119
+I1
+sVsoak
+p120
+I2
+sVsit
+p121
+I1
+sVpeace
+p122
+I2
+sVlounge
+p123
+I2
+sVfield
+p124
+I2
+sVbackstep
+p125
+I2
+sVputtin
+p126
+I2
+sVgets
+p127
+I1
+sVrecording
+p128
+I9
+sVde
+p129
+I1
+sVcopin
+p130
+I1
+sVmess
+p131
+I1
+sVrappers
+p132
+I3
+sVpaid
+p133
+I1
+sVtries
+p134
+I1
+sVplugs
+p135
+I1
+sVdove
+p136
+I1
+sVmentally
+p137
+I1
+sVring
+p138
+I1
+sVparttime
+p139
+I2
+sVdying
+p140
+I2
+sVhighpitched
+p141
+I2
+sVyoure
+p142
+I2
+sVpet
+p143
+I1
+sVtime
+p144
+I3
+sVscopin
+p145
+I1
+sVconstrict
+p146
+I1
+sVfact
+p147
+I1
+s.

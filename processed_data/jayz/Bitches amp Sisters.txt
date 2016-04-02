@@ -1,47 +1,401 @@
-"bitches & sisters" lyrics
-jay-z lyrics
-"bitches & sisters"
-(let's describe a certain female)
-(let's describe a certain female)
-(let's describe a certain female)
-(bitch) you know my name and the company i own
-(bitch) you like my style and you smell my cologne
-(bitch) don't try to act like my track-record ain't known
-(bitch) you probably gotta couple cd's in your home
-(bitch) don't make me say it twice, you acting all up tight
-also diddy like, like, like
-you ain't a (bitch), i ain't no ball player, you ain't gonna get pregnant again
-hit off with paper, you gonna get hit off and slid off
-before the neighbors take off to go to work
-so just, take off your shirt, don't hit me with that church shit
-(bitch) i got a sister who schooled me to shit you chickens do
-tricking fools, got a whole robin givens crew that i kick it to
-they be hipping dudes, how you chickens move, i be listening to
-(bitch) (bitch) (bitch)
-don't make me say it thrice, you acting all up tight
-also diddy like, like
-you ain't a (bitch), you ain't no better cuz you don't be fucking rappers
-you only fuck with actors, you still getting fucked backwards
-(bitch) unless you fucked a dude on his own merit
-and not the way he dribbles or ball or draw leverage
-you're a (bitch), no ma, you're a (bitch)
-(let's describe a certain female)
-(let's describe a certain female)
-(let's describe a certain female)
-say jay-z, why you gotta go and disrespect the women for? uh
-(bitch) sisters get respect, bitches get what they deserve
-sisters work hard, bitches work your nerves
-sisters hold you down, bitches hold you up
-sisters help you progress, bitches will slow you up
-sisters cook up a meal, play their role with the kids
-bitches in street with their nose in your biz
-sisters tell the truth, bitches tell lies
-sisters drive cars, bitches wanna ride
-sisters give-up the ass, bitches give-up the ass
-sisters do it slow, bitches do it fast
-sisters do their dirt outside of where they live
-bitches have niggers all up in your crib
-sisters tell you quick "you better check your homie"
-bitches don't give a fuck, they wanna check for your homie
-sisters love jay cuz they know how 'hov is
-i love my sisters, i don't love no bitch
+(dp1
+Vneighbors
+p2
+I1
+sVcrib
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVmove
+p6
+I1
+sVmerit
+p7
+I1
+sVdiddy
+p8
+I2
+sVcds
+p9
+I1
+sVgo
+p10
+I2
+sVstill
+p11
+I1
+sVaint
+p12
+I6
+sVstyle
+p13
+I1
+sVslow
+p14
+I2
+sValso
+p15
+I2
+sVniggers
+p16
+I1
+sVcuz
+p17
+I2
+sVcrew
+p18
+I1
+sVbetter
+p19
+I2
+sVto
+p20
+I2
+sVlets
+p21
+I6
+sVrole
+p22
+I1
+sVlies
+p23
+I1
+sVkick
+p24
+I1
+sVta
+p25
+I2
+sVdo
+p26
+I1
+sVhit
+p27
+I3
+sVget
+p28
+I4
+sVcouple
+p29
+I1
+sVtricking
+p30
+I1
+sVbiz
+p31
+I1
+sVknow
+p32
+I2
+sVlistening
+p33
+I1
+sVgot
+p34
+I4
+sVcook
+p35
+I1
+sVname
+p36
+I1
+sVlike
+p37
+I7
+sVpregnant
+p38
+I1
+sVtry
+p39
+I1
+sVtwice
+p40
+I1
+sVpaper
+p41
+I1
+sVprogress
+p42
+I1
+sVtruth
+p43
+I1
+sVquick
+p44
+I1
+sVnerves
+p45
+I1
+sVmeal
+p46
+I1
+sVfucking
+p47
+I1
+sVhard
+p48
+I1
+sVplay
+p49
+I1
+sVcologne
+p50
+I1
+sVstreet
+p51
+I1
+sVhome
+p52
+I1
+sVgon
+p53
+I2
+sVtrackrecord
+p54
+I1
+sVacting
+p55
+I2
+sVprobably
+p56
+I1
+sVnose
+p57
+I1
+sVass
+p58
+I2
+sVgiveup
+p59
+I2
+sVdirt
+p60
+I1
+sVcars
+p61
+I1
+sVdisrespect
+p62
+I1
+sVsister
+p63
+I1
+sVbackwards
+p64
+I1
+sVgetting
+p65
+I1
+sVjay
+p66
+I1
+sVdribbles
+p67
+I1
+sVact
+p68
+I1
+sVwhole
+p69
+I1
+sVown
+p70
+I1
+sVlove
+p71
+I3
+sVdont
+p72
+I7
+sVdudes
+p73
+I1
+sVsisters
+p74
+I15
+sVjayz
+p75
+I2
+sVbitch
+p76
+I16
+sVfemale
+p77
+I6
+sVchurch
+p78
+I1
+sVhipping
+p79
+I1
+sVrespect
+p80
+I1
+sVwan
+p81
+I2
+sVleverage
+p82
+I1
+sVdude
+p83
+I1
+sVfast
+p84
+I1
+sVlive
+p85
+I1
+sVway
+p86
+I1
+sVoutside
+p87
+I1
+sVthrice
+p88
+I1
+sVgivens
+p89
+I1
+sVcompany
+p90
+I1
+sVbitches
+p91
+I13
+sVkids
+p92
+I1
+sVknown
+p93
+I1
+sVhold
+p94
+I2
+sVwomen
+p95
+I1
+sVma
+p96
+I1
+sVride
+p97
+I1
+sVwork
+p98
+I3
+sVup
+p99
+I2
+sVtell
+p100
+I3
+sVuh
+p101
+I1
+sVschooled
+p102
+I1
+sVrobin
+p103
+I1
+sVslid
+p104
+I1
+sVgive
+p105
+I1
+sVcertain
+p106
+I6
+sVis
+p107
+I1
+sVdescribe
+p108
+I6
+sVfuck
+p109
+I2
+sVplayer
+p110
+I1
+sVsay
+p111
+I3
+sVhomie
+p112
+I2
+sVcheck
+p113
+I2
+sVshit
+p114
+I2
+sVagain
+p115
+I1
+sVshirt
+p116
+I1
+sVna
+p117
+I4
+sVmake
+p118
+I2
+sVhov
+p119
+I1
+sVtight
+p120
+I2
+sVactors
+p121
+I1
+sVtake
+p122
+I2
+sVfools
+p123
+I1
+sVsmell
+p124
+I1
+sVdraw
+p125
+I1
+sVball
+p126
+I2
+sVunless
+p127
+I1
+sVrappers
+p128
+I1
+sVfucked
+p129
+I2
+sVoff
+p130
+I1
+sVyoure
+p131
+I2
+sVchickens
+p132
+I2
+sVdrive
+p133
+I1
+sVdeserve
+p134
+I1
+s.

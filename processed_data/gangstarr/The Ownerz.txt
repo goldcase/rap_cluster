@@ -1,60 +1,526 @@
-"the ownerz" lyrics
-gang starr lyrics
-"the ownerz"
-"one-two.."
-"one-two, shots to the chin.. knock you out"
-"one-two.."  "devestating!"  "on da mic"
-"one-two.."  "the maker, owner!"
-"come on, now come on"
-got you quiddear and ski-dared, fearin what we might do
-and you can give me all mine in cash, that will suffice dude
-in the streets deep, we roll through the city
-looks like it's time to eat, so yo who's with me?
-strictly, we keep it in the best perspective
-cause nowadays it's more than simply live and let live
-a sedative, that's what these headcases need
-them rats'll get trapped soon as they taste the cheese
-black m. casey fan, just pay us and scram
-watch us drop a new supply to up the daily demand
-phony critics wanna retract shit, once i spit again
-and since we didn't finish the job, you gettin hit again
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two, shots to the chin.. knock you out"
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two"  "the maker, owner!"
-"come on, now come on"
-you fuck, you didn't listen when i told you before
-when it comes to dope tracks, we be holdin the raw
-do somethin stupid, and you'll be left holdin your jaw
-put you punks on blast for not knowin the law
-don't deny yourself, learn to apply yourself
-or end up by yourself, i multiply the wealth
-i got the titles, deeds, licenses and policies
-complete ownership, don gurizzu they call me
-primo said that we should just, lock it all down
-see the bigger picture, so we can profit all around
-now everybody's ridin the dick, once i spit again
-and since we didn't finish the job, you gettin hit again
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two, one-two, shots to the chin.. knock you out"
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two"  "the maker, owner!"
-"come on, now come on"
-i be the owner of this style, owner of this talk, owner of this art
-peep the gully way that i walk
-many say that i rock, others hate but they jock
-now we racin the clock, po-po casin the spot
-call me greedy cause i feel like takin a lot
-vindication, cause they be fabricatin a lot
-from cali to canarsie, penthouse to the lobby
-roxbury to nc, century club to envy
-bout to take over the action, you know it's bout to happen
-cause our shit be hittin, and yours is plain ol'fashioned
-i had no choice, but to spit again
-gangstarr motherfucker, and you just got hit again
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two, one-two, shots to the chin.. knock you out"
-"one-two.."  "devestating!"  "on da mic"
-"one-two, one-two"  "the maker, owner!"
-"come on, now come on"
-"come on, now come on"
+(dp1
+Volfashioned
+p2
+I1
+sVgully
+p3
+I1
+sVlyrics
+p4
+I2
+sVvindication
+p5
+I1
+sVpopo
+p6
+I1
+sVsoon
+p7
+I1
+sVgang
+p8
+I1
+sVhate
+p9
+I1
+sVbefore
+p10
+I1
+sVstyle
+p11
+I1
+sVjaw
+p12
+I1
+sVdick
+p13
+I1
+sVdeeds
+p14
+I1
+sVblack
+p15
+I1
+sVbout
+p16
+I2
+sVmight
+p17
+I1
+sVdo
+p18
+I1
+sVhit
+p19
+I3
+sVaround
+p20
+I1
+sVyo
+p21
+I1
+sVget
+p22
+I1
+sVdope
+p23
+I1
+sVwatch
+p24
+I1
+sVda
+p25
+I7
+sVcasin
+p26
+I1
+sVfan
+p27
+I1
+sVknow
+p28
+I1
+sVnew
+p29
+I1
+sVracin
+p30
+I1
+sVblast
+p31
+I1
+sVbigger
+p32
+I1
+sVknock
+p33
+I4
+sVheadcases
+p34
+I1
+sVlike
+p35
+I2
+sVyoull
+p36
+I1
+sVprimo
+p37
+I1
+sVgettin
+p38
+I2
+sVstupid
+p39
+I1
+sVholdin
+p40
+I2
+sVshots
+p41
+I4
+sVrock
+p42
+I1
+sVlooks
+p43
+I1
+sVdrop
+p44
+I1
+sVart
+p45
+I1
+sVstreets
+p46
+I1
+sVsee
+p47
+I1
+sVtitles
+p48
+I1
+sVperspective
+p49
+I1
+sVlicenses
+p50
+I1
+sVhappen
+p51
+I1
+sVbest
+p52
+I1
+sVout
+p53
+I4
+sVsaid
+p54
+I1
+sVclock
+p55
+I1
+sVprofit
+p56
+I1
+sVtakin
+p57
+I1
+sVsince
+p58
+I2
+sVratsll
+p59
+I1
+sVscram
+p60
+I1
+sVgot
+p61
+I3
+sVjock
+p62
+I1
+sVcause
+p63
+I4
+sVtold
+p64
+I1
+sVhittin
+p65
+I1
+sVcity
+p66
+I1
+sVridin
+p67
+I1
+sVpunks
+p68
+I1
+sVmotherfucker
+p69
+I1
+sVjob
+p70
+I2
+sVlet
+p71
+I1
+sVgreedy
+p72
+I1
+sVothers
+p73
+I1
+sVput
+p74
+I1
+sVpeep
+p75
+I1
+sVcome
+p76
+I10
+sVcanarsie
+p77
+I1
+sVon
+p78
+I5
+sVknowin
+p79
+I1
+sVmany
+p80
+I1
+sVownerz
+p81
+I2
+sVtracks
+p82
+I1
+sVkeep
+p83
+I1
+sVaction
+p84
+I1
+sVstrictly
+p85
+I1
+sVcomes
+p86
+I1
+sVthats
+p87
+I1
+sVcheese
+p88
+I1
+sVdont
+p89
+I1
+sVsupply
+p90
+I1
+sVfeel
+p91
+I1
+sVyourself
+p92
+I1
+sVdown
+p93
+I1
+sVsimply
+p94
+I1
+sVowner
+p95
+I7
+sVapply
+p96
+I1
+sVnowadays
+p97
+I1
+sVenvy
+p98
+I1
+sVwan
+p99
+I1
+sVwealth
+p100
+I1
+sVsuffice
+p101
+I1
+sVcentury
+p102
+I1
+sVdude
+p103
+I1
+sVwhos
+p104
+I1
+sVcali
+p105
+I1
+sVlive
+p106
+I2
+sVcall
+p107
+I2
+sVway
+p108
+I1
+sVstarr
+p109
+I1
+sVonetwo
+p110
+I24
+sVlisten
+p111
+I1
+sVcomplete
+p112
+I1
+sVspit
+p113
+I3
+sVtrapped
+p114
+I1
+sVclub
+p115
+I1
+sVphony
+p116
+I1
+sVfuck
+p117
+I1
+sVcasey
+p118
+I1
+sVdemand
+p119
+I1
+sVeat
+p120
+I1
+sVme
+p121
+I2
+sVroxbury
+p122
+I1
+sVplain
+p123
+I1
+sVcash
+p124
+I1
+sVus
+p125
+I2
+sVpolicies
+p126
+I1
+sVlearn
+p127
+I1
+sVgurizzu
+p128
+I1
+sVdidnt
+p129
+I3
+sVpenthouse
+p130
+I1
+sVgive
+p131
+I1
+sVtaste
+p132
+I1
+sVlock
+p133
+I1
+sVchoice
+p134
+I1
+sVmine
+p135
+I1
+sVdeep
+p136
+I1
+sVraw
+p137
+I1
+sVsay
+p138
+I1
+sVchin
+p139
+I4
+sVneed
+p140
+I1
+sVshit
+p141
+I2
+sVagain
+p142
+I6
+sVend
+p143
+I1
+sVna
+p144
+I1
+sVmic
+p145
+I7
+sVnc
+p146
+I1
+sVquiddear
+p147
+I1
+sVskidared
+p148
+I1
+sVwalk
+p149
+I1
+sVfearin
+p150
+I1
+sVgangstarr
+p151
+I1
+sVtake
+p152
+I1
+sVretract
+p153
+I1
+sVroll
+p154
+I1
+sVpicture
+p155
+I1
+sVeverybodys
+p156
+I1
+sVfinish
+p157
+I2
+sVcritics
+p158
+I1
+sVtime
+p159
+I1
+sVspot
+p160
+I1
+sVlot
+p161
+I2
+sVownership
+p162
+I1
+sVmultiply
+p163
+I1
+sVlaw
+p164
+I1
+sVlobby
+p165
+I1
+sVsomethin
+p166
+I1
+sVdeny
+p167
+I1
+sVfabricatin
+p168
+I1
+sVsedative
+p169
+I1
+sVm
+I1
+sVdaily
+p170
+I1
+sVmaker
+p171
+I4
+sVpay
+p172
+I1
+sVleft
+p173
+I1
+sVtalk
+p174
+I1
+sVdevestating
+p175
+I7
+s.

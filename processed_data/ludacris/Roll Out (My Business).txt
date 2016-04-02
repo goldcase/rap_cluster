@@ -1,50 +1,448 @@
-"roll out (my business)" lyrics
-ludacris lyrics
-"roll out (my business)"
-roll out!
-roll out! roll out! roll out! roll out!
-i got my twin glock .40s, cocked back
-me and my homies, so drop that
-we rollin on twenties, with the top back
-so much money, you can't stop that
-twin glock .40s, cocked back
-me and my homies, so drop that
-we rollin on twenties, with the top back
-so much money, you can't stop that
-now where'd you get that platinum chain with them diamonds in it?
-where'd you get that matchin benz with them windows tinted?
-who them girls you be with when you be ridin through?
-man i ain't got nothin to prove, i paid my dues
-breakin the rules, i shake fools while i'm takin a cruise.
-tell me who's your weed man, how do you smoke so good?
-you's a superstar boy, why you still up in the hood?
-what in the world is in that bag, what you got in that bag?
-a couple a cans a whoop ass, you did a good ass job of just eyein me, spyin me
-man, that car don't come out until next year, where in the fuck did you get it?
-that's eighty-thousand bucks gone, where in the fuck did you spend it?
-you must have eyes on your back, 'cause you got money to the ceiling
-and the bigger the cap, the bigger the peelin
-the better i'm feelin, the more that i'm chillin
-winnin, drillin and killin the feelin
-now who's that bucked-naked cook fixin three-course meals?
-gettin goosebumps when her body tap the six inch heels
-what in the world is in that room, what you got in that room?
-a couple a gats, a couple a knives, a couple of rats, a couple of wives
-now it's time to choose
-are you custom-made, custom-paid, or you just custom-fitted?
-playstation 2 up in the ride and is that lorenzo-kitted?
-is that your wife, your girlfriend or just your main bitch?
-you take a pick, while i'm rubbin the hips, touchin lips to the top of the dick and then whewwww!
-now tell me who's your housekeeper and what you keep in your house?
-what about diamonds and gold, is that what you keep in your mouth?
-what in the world is in that case, what you got in that case?
-get up out my face, you couldn't relate, wait to take place  at a similar pace
-so shake, shake it
-get out my business, my biznass
-stay the fuck up out my biznass, ah
-'cause these niggas all up in my shit and it's my business,
-my biznass
-stay the fuck up out my biznass, 'cause it's mine, oh mine
-my business, my biznass
-stay the fuck up out my biznass
-'cause these niggas all up in my shit.......
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVmoney
+p4
+I3
+sVcook
+p5
+I1
+sVthrough
+p6
+I1
+sVcruise
+p7
+I1
+sVstill
+p8
+I1
+sVtakin
+p9
+I1
+sVdont
+p10
+I1
+sVaint
+p11
+I1
+sVchain
+p12
+I1
+sVeightythousand
+p13
+I1
+sVdick
+p14
+I1
+sVbetter
+p15
+I1
+sVchoose
+p16
+I1
+sVhomies
+p17
+I2
+sVdrillin
+p18
+I1
+sVmain
+p19
+I1
+sVcase
+p20
+I2
+sVgood
+p21
+I2
+sVget
+p22
+I5
+sVrules
+p23
+I1
+sVcouple
+p24
+I5
+sVstop
+p25
+I2
+sVfeelin
+p26
+I2
+sVlorenzokitted
+p27
+I1
+sVcustompaid
+p28
+I1
+sVbuckednaked
+p29
+I1
+sVtwenties
+p30
+I2
+sVbigger
+p31
+I2
+sVspyin
+p32
+I1
+sVhousekeeper
+p33
+I1
+sVdrop
+p34
+I2
+sVbag
+p35
+I2
+sV40s
+p36
+I2
+sVbitch
+p37
+I1
+sVbody
+p38
+I1
+sVgettin
+p39
+I1
+sVrats
+p40
+I1
+sVcustommade
+p41
+I1
+sVhouse
+p42
+I1
+sVshake
+p43
+I3
+sVback
+p44
+I5
+sVlips
+p45
+I1
+sVgoosebumps
+p46
+I1
+sVyear
+p47
+I1
+sVfixin
+p48
+I1
+sVout
+p49
+I2
+sVmine
+p50
+I2
+sVchillin
+p51
+I1
+sVdiamonds
+p52
+I2
+sVgot
+p53
+I6
+sVcause
+p54
+I4
+sVass
+p55
+I2
+sVbusiness
+p56
+I5
+sVrubbin
+p57
+I1
+sVridin
+p58
+I1
+sVjob
+p59
+I1
+sVstay
+p60
+I3
+sVceiling
+p61
+I1
+sVwait
+p62
+I1
+sVboy
+p63
+I1
+sVsuperstar
+p64
+I1
+sVworld
+p65
+I3
+sVoh
+p66
+I1
+sVbreakin
+p67
+I1
+sVkeep
+p68
+I2
+sVplace
+p69
+I1
+sVsmoke
+p70
+I1
+sVpick
+p71
+I1
+sVthats
+p72
+I1
+sVwinnin
+p73
+I1
+sVcocked
+p74
+I2
+sVplaystation
+p75
+I1
+sVrelate
+p76
+I1
+sVbiznass
+p77
+I6
+sVwhoop
+p78
+I1
+sVtwin
+p79
+I2
+sVtouchin
+p80
+I1
+sVcustomfitted
+p81
+I1
+sVcouldnt
+p82
+I1
+sVnext
+p83
+I1
+sVyous
+p84
+I1
+sVhood
+p85
+I1
+sVplatinum
+p86
+I1
+sVmatchin
+p87
+I1
+sVkillin
+p88
+I1
+sVprove
+p89
+I1
+sVcome
+p90
+I1
+sVtop
+p91
+I3
+sVgirls
+p92
+I1
+sVwhos
+p93
+I3
+sVmuch
+p94
+I2
+sVtell
+p95
+I2
+sVeyes
+p96
+I1
+sVglock
+p97
+I2
+sVthat
+p98
+I4
+sVfuck
+p99
+I5
+sVgold
+p100
+I1
+sVmust
+p101
+I1
+sVme
+p102
+I1
+sVwhewwww
+p103
+I1
+sVroom
+p104
+I2
+sVniggas
+p105
+I2
+sVcar
+p106
+I1
+sVride
+p107
+I1
+sVcap
+p108
+I1
+sVcant
+p109
+I2
+sVpace
+p110
+I1
+sVknives
+p111
+I1
+sVsimilar
+p112
+I1
+sVdues
+p113
+I1
+sVeyein
+p114
+I1
+sVgone
+p115
+I1
+sVtap
+p116
+I1
+sVah
+p117
+I1
+sVbenz
+p118
+I1
+sVit
+p119
+I4
+sVgirlfriend
+p120
+I1
+sVtinted
+p121
+I1
+sVim
+p122
+I4
+sVrollin
+p123
+I2
+sVheels
+p124
+I1
+sVbucks
+p125
+I1
+sVshit
+p126
+I2
+sVthreecourse
+p127
+I1
+sVpeelin
+p128
+I1
+sVcans
+p129
+I1
+sVsix
+p130
+I1
+sVgats
+p131
+I1
+sVtake
+p132
+I2
+sVinch
+p133
+I1
+sVfools
+p134
+I1
+sVroll
+p135
+I7
+sVwhered
+p136
+I2
+sVpaid
+p137
+I1
+sVweed
+p138
+I1
+sVmouth
+p139
+I1
+sVwives
+p140
+I1
+sVmeals
+p141
+I1
+sVman
+p142
+I3
+sV2
+I1
+sVwife
+p143
+I1
+sVwindows
+p144
+I1
+sVnothin
+p145
+I1
+sVface
+p146
+I1
+sVtime
+p147
+I1
+sVspend
+p148
+I1
+sVhips
+p149
+I1
+s.

@@ -1,47 +1,422 @@
-"glory" lyrics
-common lyrics
-"glory"
-(with john legend)
-one day when the glory comes
-it will be ours, it will be ours
-one day when the war is won
-we will be sure, we will be sure
-oh glory
-hands to the heavens, no man, no weapon
-formed against, yes glory is destined
-every day women and men become legends
-sins that go against our skin become blessings
-the movement is a rhythm to us
-freedom is like religion to us
-justice is juxtapositionin' us
-justice for all just ain't specific enough
-one son died, his spirit is revisitin' us
-truant livin' livin' in us, resistance is us
-that's why rosa sat on the bus
-that's why we walk through ferguson with our hands up
-when it go down we woman and man up
-they say, "stay down", and we stand up
-shots, we on the ground, the camera panned up
-king pointed to the mountain top and we ran up
-now the war is not over, victory isn't won
-and we'll fight on to the finish, then when it's all done
-we'll cry glory, oh glory
-we'll cry glory, oh glory
-selma is now for every man, woman and child
-even jesus got his crown in front of a crowd
-they marched with the torch, we gon' run with it now
-never look back, we done gone hundreds of miles
-from dark roads he rose, to become a hero
-facin' the league of justice, his power was the people
-enemy is lethal, a king became regal
-saw the face of jim crow under a bald eagle
-the biggest weapon is to stay peaceful
-we sing, our music is the cuts that we bleed through
-somewhere in the dream we had an epiphany
-now we right the wrongs in history
-no one can win the war individually
-it takes the wisdom of the elders and young people's energy
-welcome to the story we call victory
-comin' of the lord, my eyes have seen the glory
-when the war is done, when it's all said and done
-we'll cry glory, oh glory
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVyoung
+p4
+I1
+sVpointed
+p5
+I1
+sVresistance
+p6
+I1
+sVisnt
+p7
+I1
+sVthrough
+p8
+I1
+sVskin
+p9
+I1
+sVgo
+p10
+I2
+sVyes
+p11
+I1
+sVheavens
+p12
+I1
+sVground
+p13
+I1
+sVaint
+p14
+I1
+sVnow
+p15
+I1
+sVjustice
+p16
+I3
+sVrose
+p17
+I1
+sVjim
+p18
+I1
+sVrosa
+p19
+I1
+sVrhythm
+p20
+I1
+sVregal
+p21
+I1
+sVours
+p22
+I1
+sVwoman
+p23
+I2
+sVlivin
+p24
+I2
+sVelders
+p25
+I1
+sVselma
+p26
+I1
+sVdark
+p27
+I1
+sVevery
+p28
+I2
+sVferguson
+p29
+I1
+sVhands
+p30
+I2
+sVfront
+p31
+I1
+sVwalk
+p32
+I1
+sVday
+p33
+I3
+sVenemy
+p34
+I1
+sVlike
+p35
+I1
+sVcry
+p36
+I3
+sVspecific
+p37
+I1
+sVmiles
+p38
+I1
+sVvictory
+p39
+I2
+sVshots
+p40
+I1
+sVbecome
+p41
+I3
+sVjuxtapositionin
+p42
+I1
+sVindividually
+p43
+I1
+sVright
+p44
+I1
+sVcrowd
+p45
+I1
+sVpeople
+p46
+I1
+sVcrow
+p47
+I1
+sVenergy
+p48
+I1
+sVtorch
+p49
+I1
+sVcrown
+p50
+I1
+sVback
+p51
+I1
+sVlethal
+p52
+I1
+sVfinish
+p53
+I1
+sVhero
+p54
+I1
+sVtruant
+p55
+I1
+sVjesus
+p56
+I1
+sVgon
+p57
+I1
+sVreligion
+p58
+I1
+sVenough
+p59
+I1
+sVwon
+p60
+I2
+sVlord
+p61
+I1
+sVgot
+p62
+I1
+sVcommon
+p63
+I1
+sVeagle
+p64
+I1
+sVbleed
+p65
+I1
+sVnever
+p66
+I1
+sVrun
+p67
+I1
+sVpower
+p68
+I1
+sVmen
+p69
+I1
+sVsins
+p70
+I1
+sVhundreds
+p71
+I1
+sVsing
+p72
+I1
+sVlegend
+p73
+I1
+sVtakes
+p74
+I1
+sVleague
+p75
+I1
+sVoh
+p76
+I4
+sVfreedom
+p77
+I1
+sVmovement
+p78
+I1
+sVpanned
+p79
+I1
+sVepiphany
+p80
+I1
+sVblessings
+p81
+I1
+sVstand
+p82
+I1
+sVcomes
+p83
+I1
+sVthats
+p84
+I2
+sVcuts
+p85
+I1
+sVwin
+p86
+I1
+sVwelcome
+p87
+I1
+sVone
+p88
+I4
+sVdone
+p89
+I4
+sVcomin
+p90
+I1
+sVroads
+p91
+I1
+sVfacin
+p92
+I1
+sVstory
+p93
+I1
+sVlegends
+p94
+I1
+sVtop
+p95
+I1
+sVfight
+p96
+I1
+sVwrongs
+p97
+I1
+sVcamera
+p98
+I1
+sVmusic
+p99
+I1
+sVpeaceful
+p100
+I1
+sVbiggest
+p101
+I1
+sVcall
+p102
+I1
+sVjohn
+p103
+I1
+sVwar
+p104
+I4
+sVeyes
+p105
+I1
+sVbus
+p106
+I1
+sVformed
+p107
+I1
+sVwisdom
+p108
+I1
+sVchild
+p109
+I1
+sVspirit
+p110
+I1
+sVwomen
+p111
+I1
+sVking
+p112
+I2
+sVlook
+p113
+I1
+sVglory
+p114
+I12
+sVup
+p115
+I5
+sVus
+p116
+I6
+sVhistory
+p117
+I1
+sVgone
+p118
+I1
+sVran
+p119
+I1
+sVsay
+p120
+I1
+sVrevisitin
+p121
+I1
+sVseen
+p122
+I1
+sVsaw
+p123
+I1
+sVsat
+p124
+I1
+sVmountain
+p125
+I1
+sVbecame
+p126
+I1
+sVpeoples
+p127
+I1
+sVeven
+p128
+I1
+sVsure
+p129
+I2
+sVsomewhere
+p130
+I1
+sVbald
+p131
+I1
+sVstay
+p132
+I2
+sVmarched
+p133
+I1
+sVsaid
+p134
+I1
+sVdestined
+p135
+I1
+sVdied
+p136
+I1
+sVman
+p137
+I3
+sVweapon
+p138
+I2
+sVwell
+p139
+I4
+sVface
+p140
+I1
+sVdream
+p141
+I1
+s.

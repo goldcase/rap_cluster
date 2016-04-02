@@ -1,88 +1,645 @@
-"beastin'" lyrics
-e-40 lyrics
-"beastin'"
-uhhh!
-i'm elevated
-i floatin on cloud nine times outta ten you can find with a cup in my aid
-filled to the rim with oil (illuminated oil) throwing up the middle finger
-but i'm not an alcoholic i'm just a serious social drinker
-they be thinking thumper coatin' don't trust nobody but i
-cause the seamless be plotting and if they could theya try
-like last night at the club, god is my witness
-i was sitting at the table, minding my own business
-living it up to the highest, like everyday is christmas
-some sucka tried to try us, hating on our riches
-i guess they didn't like us cause we got all the bitches
-they didn't wanna fight us cause when niggas went to...
-fuck compromising exampling and try to reason
-we'll catch em outside of the club and leave em niggas leaking
-i be beastin
-and now you are about to witness...
-i be beastin
-(you be beastin mayne? hmmm)
-beastin
-i be beastin
-(yeah, when i get in the local booth, and i get on that microphone...)
-beastin
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-uhhh!
-and now...
-when my money was hecka small, i mean it looked like it was tall
-punch a hater up in his jaw; he didn't wanna shake my paw
-but i used to push that broad, on the other side of the law
-when the price is fluctuating go up and down like a see-saw
-but i didn't say no 'hee-haw' clown shit
-this real i'll slap a busta with the hill on my hammer up out my skrill
-i'll take a up-tempo track, put some gang behind my rap i'm like that
-muthafucka i'm a mack hydro back
-cause you fuck around get snatched i'm from the flats
-the hillside to be exact (biatch!)
-catting off and shipping ain't what this player do son
-they're something like seven real niggas left on this earth and i'm one of them
-i be beastin... manage lil ole heave
-the rawest nigga speaking they call me earl stevens (biatch)
-biatch!
-and now you are about to witness...
-i be beastin
-(you be beastin mayne? hmmm)
-beastin
-i be beastin
-(yeah, when i be up in the function, and i be filling that alcohol...)
-beastin
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-uhhh!
-and now...
-uhhh!
-bosses do what they want, suckas do what they can
-ahh-uhh-ahh-uhh-uahhh! i'm feeling like tarzan
-got a pocket full of money and i'm confident
-got a fifth the landy cognac and some romulent
-some romulent? yeah some cheeba
-cause i only put my strategies of choice is a teeba (uhh!)
-when she was young she wasn't looking all that tight take take meagan good for example
-now she looking right
-bout to take her down tonight, i be beastin in the bed
-i like em darklight and bright, yellowbone in red
-i'm loaded and i'm twisted and i'm faded
-in the function getting white boy wasted (uhh!)
-blanket suited pouted wounded
-out my body something stupid
-and now you are about to witness...
-i be beastin
-(you be beastin mayne? hmmm)
-beastin
-i be beastin
-(damn right i brought my money mayne i need mine mayne)
-beastin
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-i be beastin
-one long leap beasty i c, one long leap beasty i c
-uhhh!
-and now...
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I3
+sVyoung
+p5
+I1
+sVahhuhhahhuhhuahhh
+p6
+I1
+sVhillside
+p7
+I1
+sVwasted
+p8
+I1
+sVbright
+p9
+I1
+sVwounded
+p10
+I1
+sVgang
+p11
+I1
+sVhating
+p12
+I1
+sVgo
+p13
+I1
+sVearth
+p14
+I1
+sVfind
+p15
+I1
+sVfifth
+p16
+I1
+sVhmmm
+p17
+I3
+sVaint
+p18
+I1
+sVcup
+p19
+I1
+sVthinking
+p20
+I1
+sVjaw
+p21
+I1
+sVleap
+p22
+I12
+sVgood
+p23
+I1
+sVto
+p24
+I1
+sVcognac
+p25
+I1
+sVbout
+p26
+I1
+sVtheyre
+p27
+I1
+sVlocal
+p28
+I1
+sVhater
+p29
+I1
+sVreal
+p30
+I2
+sVthem
+p31
+I1
+sVfluctuating
+p32
+I1
+sVaround
+p33
+I1
+sVget
+p34
+I3
+sVblanket
+p35
+I1
+sVuhhh
+p36
+I5
+sVuhh
+p37
+I2
+sVchoice
+p38
+I1
+sVpocket
+p39
+I1
+sVtarzan
+p40
+I1
+sVbosses
+p41
+I1
+sVnow
+p42
+I3
+sVexact
+p43
+I1
+sVearl
+p44
+I1
+sVromulent
+p45
+I2
+sVlike
+p46
+I9
+sVbeastin
+p47
+I26
+sVcheeba
+p48
+I1
+sVclown
+p49
+I1
+sVchristmas
+p50
+I1
+sVleave
+p51
+I1
+sVfilling
+p52
+I1
+sVstupid
+p53
+I1
+sVred
+p54
+I1
+sVnight
+p55
+I1
+sVsmall
+p56
+I1
+sVwent
+p57
+I1
+sVside
+p58
+I1
+sVmean
+p59
+I1
+sVem
+p60
+I3
+sVbody
+p61
+I1
+sVnigga
+p62
+I1
+sVole
+p63
+I1
+sVten
+p64
+I1
+sVthrowing
+p65
+I1
+sVthumper
+p66
+I1
+sVshake
+p67
+I1
+sVyeah
+p68
+I3
+sVseesaw
+p69
+I1
+sVused
+p70
+I1
+sVbooth
+p71
+I1
+sVsnatched
+p72
+I1
+sVloaded
+p73
+I1
+sVbusta
+p74
+I1
+sVcatting
+p75
+I1
+sVhammer
+p76
+I1
+sVwitness
+p77
+I4
+sVliving
+p78
+I1
+sValcohol
+p79
+I1
+sVmine
+p80
+I1
+sVgod
+p81
+I1
+sVrawest
+p82
+I1
+sVlooking
+p83
+I2
+sVoutside
+p84
+I1
+sVfinger
+p85
+I1
+sVexample
+p86
+I1
+sVgot
+p87
+I3
+sVcause
+p88
+I5
+sVplotting
+p89
+I1
+sVfilled
+p90
+I1
+sVstrategies
+p91
+I1
+sVbeasty
+p92
+I12
+sVhecka
+p93
+I1
+sVfull
+p94
+I1
+sVbed
+p95
+I1
+sVbusiness
+p96
+I1
+sVuptempo
+p97
+I1
+sVbitches
+p98
+I1
+sVmayne
+p99
+I5
+sVpunch
+p100
+I1
+sVhill
+p101
+I1
+sVreason
+p102
+I1
+sVflats
+p103
+I1
+sVput
+p104
+I2
+sVheehaw
+p105
+I1
+sVboy
+p106
+I1
+sVc
+I12
+sVlast
+p107
+I1
+sVgetting
+p108
+I1
+sVcould
+p109
+I1
+sVshipping
+p110
+I1
+sVtimes
+p111
+I1
+sVsocial
+p112
+I1
+sVcompromising
+p113
+I1
+sVdont
+p114
+I1
+sVstevens
+p115
+I1
+sVlandy
+p116
+I1
+sVmanage
+p117
+I1
+sVone
+p118
+I13
+sVprice
+p119
+I1
+sVtheya
+p120
+I1
+sVright
+p121
+I2
+sVdrinker
+p122
+I1
+sVtable
+p123
+I1
+sVtrust
+p124
+I1
+sVcloud
+p125
+I1
+sVwan
+p126
+I2
+sVguess
+p127
+I1
+sVyellowbone
+p128
+I1
+sVseamless
+p129
+I1
+sVlong
+p130
+I12
+sVfight
+p131
+I1
+sVplayer
+p132
+I1
+sVconfident
+p133
+I1
+sVmuthafucka
+p134
+I1
+sVcall
+p135
+I1
+sVdarklight
+p136
+I1
+sVwhite
+p137
+I1
+sVspeaking
+p138
+I1
+sVhydro
+p139
+I1
+sVfunction
+p140
+I2
+sVskrill
+p141
+I1
+sVsuckas
+p142
+I1
+sVilluminated
+p143
+I1
+sVbehind
+p144
+I1
+sVclub
+p145
+I2
+sVnobody
+p146
+I1
+sVleaking
+p147
+I1
+sVback
+p148
+I1
+sVbiatch
+p149
+I3
+sVcatch
+p150
+I1
+sVhighest
+p151
+I1
+sVfloatin
+p152
+I1
+sVe40
+p153
+I1
+sVtwisted
+p154
+I1
+sVniggas
+p155
+I3
+sVriches
+p156
+I1
+sVus
+p157
+I3
+sVnine
+p158
+I1
+sVcan
+p159
+I1
+sVfaded
+p160
+I1
+sVmeagan
+p161
+I1
+sVaid
+p162
+I1
+sVfeeling
+p163
+I1
+sVdidnt
+p164
+I4
+sVill
+p165
+I2
+sVsucka
+p166
+I1
+sVseven
+p167
+I1
+sVtall
+p168
+I1
+sVoutta
+p169
+I1
+sVwant
+p170
+I1
+sValcoholic
+p171
+I1
+sVwasnt
+p172
+I1
+sVfuck
+p173
+I2
+sVslap
+p174
+I1
+sVtonight
+p175
+I1
+sVmiddle
+p176
+I1
+sVsay
+p177
+I1
+sVrim
+p178
+I1
+sVim
+p179
+I12
+sVsomething
+p180
+I2
+sVrap
+p181
+I1
+sVneed
+p182
+I1
+sVeveryday
+p183
+I1
+sVshit
+p184
+I1
+sVcoatin
+p185
+I1
+sVpaw
+p186
+I1
+sVlil
+p187
+I1
+sVna
+p188
+I2
+sVsitting
+p189
+I1
+sVelevated
+p190
+I1
+sVtight
+p191
+I1
+sVthat
+p192
+I1
+sVtake
+p193
+I4
+sVteeba
+p194
+I1
+sVpouted
+p195
+I1
+sVoil
+p196
+I2
+sVtried
+p197
+I1
+sVdamn
+p198
+I1
+sVtrack
+p199
+I1
+sVexampling
+p200
+I1
+sVmicrophone
+p201
+I1
+sVsuited
+p202
+I1
+sVminding
+p203
+I1
+sVlaw
+p204
+I1
+sVmack
+p205
+I1
+sVheave
+p206
+I1
+sVi
+I1
+sVtry
+p207
+I3
+sVwell
+p208
+I1
+sVbrought
+p209
+I1
+sVlooked
+p210
+I1
+sVbroad
+p211
+I1
+sVpush
+p212
+I1
+sVserious
+p213
+I1
+sVleft
+p214
+I1
+s.

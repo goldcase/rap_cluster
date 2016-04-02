@@ -1,79 +1,643 @@
-"i own america part 2" lyrics
-slick rick lyrics
-"i own america part 2"
-all of you cock pullers are frontin'
-wave your arms around like you're some octopus or somethin'
-to better you, for any chick you want, i'm gettin' her
-rob people, mad ignorant, et cetera
-who the one to entertain and fume with?
-who you know breed humans can't be in the same room with?
-reefer sweet, wrap it up, free fix greet
-every rapper rap maggot underneath rick's feet
-evicted, why you tryin' to find shit to lick with?
-even your kids tell you that you ain't shit to slick rick
-though you pretend to be glory
-i'm number one, that's the end of the story
-the black clark gable leave you numb
-every single one frontin' on your label is a bum
-let me slow it down, that's enough of that
-this i have to say to you nothing other rapper cats
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-he's so crazy, i smash rippin' up the place
-give the mack a taste, i wipe my ass with a rapper face
-cars come to a dead stop
-rain find ways not to drop on my head top
-tycoon rush at the richest
-even my complexion is a must have to bitches
-even without car money to budget
-i would have the most elegant apartment in the projects
-know what i mean?
-bitches are in awe at the lingo
-know that rick'll put an end to all rapper income
-an old-timer, lock up all vagina fields
-france nor italy can fuck with my designer skills
-saltin' inferior, faultin' to where we are
-tryin' to find fault in superior
-let me slow it down, that's enough of that
-this i have to say, to you nothing other rapper cats
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-you lack the taste hook i'm stickin' 'em with
-while degenerate like yourself make our race look ignorant
-and your girlfriend wanna kiss and deploy
-'bout in the groin gets none of this tenderloin
-feet planted on deep black firmament
-bow in the presence of who lead rap permanent
-like a lion rap rips a chunk of kids
-you stunk 'cause mortals ain't shit to conquer
-somebody said new pharaohs have appeared
-how when everything i wore ten years ago, you wear now
-i coulda murder heard a word out quick rick stomp it kid
-hung to it, you complete bum to rick
-source awards, yeah, rick every seminar
-even make saddam hussein tell me where the weapon are
-let me slow it down, that's enough of that
-this i have to say, to you nothing other rapper cats
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, this sure hit alone'll bury ya
-and even i got deported, i own america
-yeah, from new york to cali none'll fuck with the awkward
-you think muhammad ali used to talk shit
-bing, biatch
+(dp1
+Vlyrics
+p2
+I2
+sVmaggot
+p3
+I1
+sVfume
+p4
+I1
+sVrob
+p5
+I1
+sVlack
+p6
+I1
+sVnone
+p7
+I1
+sVyears
+p8
+I1
+sVdegenerate
+p9
+I1
+sVfind
+p10
+I3
+sVevicted
+p11
+I1
+sVaint
+p12
+I2
+sVsuperior
+p13
+I1
+sVwear
+p14
+I1
+sVslow
+p15
+I3
+sVfix
+p16
+I1
+sVali
+p17
+I7
+sVfaultin
+p18
+I1
+sVbetter
+p19
+I1
+sVsource
+p20
+I1
+sVplanted
+p21
+I1
+sVblack
+p22
+I2
+sVrick
+p23
+I5
+sVmoney
+p24
+I1
+sVbout
+p25
+I1
+sVtycoon
+p26
+I1
+sVinferior
+p27
+I1
+sVbiatch
+p28
+I1
+sVhit
+p29
+I6
+sVaround
+p30
+I1
+sVstunk
+p31
+I1
+sVya
+p32
+I6
+sVstomp
+p33
+I1
+sVstop
+p34
+I1
+sVstickin
+p35
+I1
+sVoldtimer
+p36
+I1
+sVwave
+p37
+I1
+sVunderneath
+p38
+I1
+sVfrontin
+p39
+I2
+sVevery
+p40
+I3
+sVknow
+p41
+I3
+sVkiss
+p42
+I1
+sVgot
+p43
+I6
+sVpharaohs
+p44
+I1
+sVnow
+p45
+I1
+sVwipe
+p46
+I1
+sVprojects
+p47
+I1
+sVlook
+p48
+I1
+sVsmash
+p49
+I1
+sVlike
+p50
+I3
+sVskills
+p51
+I1
+sVfields
+p52
+I1
+sVgettin
+p53
+I1
+sVrapper
+p54
+I6
+sVleave
+p55
+I1
+sVrace
+p56
+I1
+sVquick
+p57
+I1
+sVchick
+p58
+I1
+sVmean
+p59
+I1
+sVcetera
+p60
+I1
+sVdrop
+p61
+I1
+sVten
+p62
+I1
+sVpeople
+p63
+I1
+sVchunk
+p64
+I1
+sVhumans
+p65
+I1
+sVreefer
+p66
+I1
+sVdead
+p67
+I1
+sVbudget
+p68
+I1
+sVelegant
+p69
+I1
+sVlion
+p70
+I1
+sVsure
+p71
+I6
+sVare
+p72
+I2
+sVet
+p73
+I1
+sVeven
+p74
+I10
+sVsaid
+p75
+I1
+sVricks
+p76
+I1
+sVlead
+p77
+I1
+sVways
+p78
+I1
+sVsaltin
+p79
+I1
+sVslick
+p80
+I2
+sVlabel
+p81
+I1
+sVpullers
+p82
+I1
+sVeverything
+p83
+I1
+sVenough
+p84
+I3
+sVcomplexion
+p85
+I1
+sVnew
+p86
+I8
+sVcause
+p87
+I1
+sVass
+p88
+I1
+sVcars
+p89
+I1
+sVrichest
+p90
+I1
+sVfree
+p91
+I1
+sVhung
+p92
+I1
+sVentertain
+p93
+I1
+sVlet
+p94
+I3
+sVyork
+p95
+I7
+sVput
+p96
+I1
+sVbury
+p97
+I6
+sVkids
+p98
+I2
+sVwould
+p99
+I1
+sVwore
+p100
+I1
+sVfault
+p101
+I1
+sVcoulda
+p102
+I1
+sVbow
+p103
+I1
+sVplace
+p104
+I1
+sVlingo
+p105
+I1
+sVawards
+p106
+I1
+sVhussein
+p107
+I1
+sVoctopus
+p108
+I1
+sVthink
+p109
+I7
+sVthats
+p110
+I4
+sVem
+p111
+I1
+sVgable
+p112
+I1
+sVclark
+p113
+I1
+sVpresence
+p114
+I1
+sVappeared
+p115
+I1
+sVsweet
+p116
+I1
+sVnumber
+p117
+I1
+sVtenderloin
+p118
+I1
+sVone
+p119
+I3
+sVfeet
+p120
+I2
+sVhook
+p121
+I1
+sVmuhammad
+p122
+I7
+sVwrap
+p123
+I1
+sVwan
+p124
+I1
+sVstory
+p125
+I1
+sVher
+p126
+I1
+sVhes
+p127
+I1
+sVcome
+p128
+I1
+sVtop
+p129
+I1
+sVbreed
+p130
+I1
+sVarms
+p131
+I1
+sVdesigner
+p132
+I1
+sVfrance
+p133
+I1
+sVcali
+p134
+I7
+sVvagina
+p135
+I1
+sV2
+I2
+sVdeploy
+p136
+I1
+sVtryin
+p137
+I2
+sVtell
+p138
+I2
+sVhead
+p139
+I1
+sVmurder
+p140
+I1
+sVcomplete
+p141
+I1
+sVthat
+p142
+I3
+sVbitches
+p143
+I2
+sVyeah
+p144
+I2
+sVpart
+p145
+I2
+sVignorant
+p146
+I2
+sVbum
+p147
+I2
+sVwith
+p148
+I4
+sVmust
+p149
+I1
+sVrush
+p150
+I1
+sVword
+p151
+I1
+sVroom
+p152
+I1
+sVglory
+p153
+I1
+sVmortals
+p154
+I1
+sVcar
+p155
+I1
+sVpretend
+p156
+I1
+sVsingle
+p157
+I1
+sVnonell
+p158
+I7
+sVcats
+p159
+I3
+sVcock
+p160
+I1
+sVweapon
+p161
+I1
+sVsay
+p162
+I3
+sVcrazy
+p163
+I1
+sVlick
+p164
+I1
+sVwant
+p165
+I1
+sVgive
+p166
+I1
+sVtaste
+p167
+I2
+sVlock
+p168
+I1
+sVfuck
+p169
+I8
+sVdeep
+p170
+I1
+sVrips
+p171
+I1
+sVheard
+p172
+I1
+sVcant
+p173
+I1
+sVim
+p174
+I3
+sVrap
+p175
+I3
+sVrickll
+p176
+I1
+sVgirlfriend
+p177
+I1
+sVsomebody
+p178
+I1
+sValonell
+p179
+I6
+sVshit
+p180
+I10
+sVapartment
+p181
+I1
+sVend
+p182
+I2
+sVawkward
+p183
+I7
+sVna
+p184
+I1
+sVmake
+p185
+I2
+sVrippin
+p186
+I1
+sVgroin
+p187
+I1
+sVincome
+p188
+I1
+sVseminar
+p189
+I1
+sVgets
+p190
+I1
+sVfirmament
+p191
+I1
+sVused
+p192
+I7
+sVthough
+p193
+I1
+sVsaddam
+p194
+I1
+sVrain
+p195
+I1
+sVpermanent
+p196
+I1
+sVmad
+p197
+I1
+sVnumb
+p198
+I1
+sVnothing
+p199
+I3
+sVitaly
+p200
+I1
+sVawe
+p201
+I1
+sVamerica
+p202
+I8
+sVmack
+p203
+I1
+sVkid
+p204
+I1
+sVago
+p205
+I1
+sVsomethin
+p206
+I1
+sVbing
+p207
+I7
+sVyoure
+p208
+I1
+sVgreet
+p209
+I1
+sVface
+p210
+I1
+sVwithout
+p211
+I1
+sVconquer
+p212
+I1
+sVdeported
+p213
+I6
+sVtalk
+p214
+I7
+s.

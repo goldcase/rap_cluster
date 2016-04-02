@@ -1,46 +1,296 @@
-"california roll" lyrics
-snoop dogg lyrics
-"california roll"
-(feat. stevie wonder)
-baby you could be a movie star, hey (in los angeles)
-get yourself a medical card, yeah (in los angeles)
-cause that's how california rolls
-they do the fingers like that fonz (in los angeles)
-you can make it on a light blue box, yeah (in los angeles)
-cause that's how california rolls, yeah
-say when i pass you that weed and i ask you can you roll?
-you say roll, don't you know that i'm from round here?
-well girl i like the way you roll
-even though you from the ghetto you belong in a home in the mountains
-not talking 'bout the view
-i'm talking 'bout me and you
-so if you wanna go to melrose
-let's set a date, as girl we got our own ch√¢teauxs
-and then we'll go to venice
-you roll so good you might as well let me hit it
-for like 15 minutes
-girl, you never gon' forget it
-and if you wanna go around town
-i could show you where all the real hit it
-and if you wanna go downtown
-you might as well roll with a real nigga
-i'm not talking 'bout them fools
-i'm talking 'bout me and you
-and when i hand you that weed and i ask if you can roll?
-you say no, let me show you around here
-cowgirl wanna roll with a winner
-rodeo with a winner, rodeo loud yeah
-ain't got nothing to lose
-i'm talking 'bout me and you
-and girl i got a home in that valley, in a rose in that valley
-just tell 'em what my name is
-you heard about me, you heard all about me
-mean you heard all the hittas that i'm with gangbanging
-but i ain't talking 'bout the news
-girl you know that i'm talking 'bout you
-let me show you all around
-i could show you where all the real get it
-and if you wanna go downtown
-you might as well roll with a real nigga
-i'm not talking bout them fools
-i'm talking 'bout me and you
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I4
+sVcowgirl
+p5
+I1
+sVfonz
+p6
+I1
+sVgo
+p7
+I5
+sVfeat
+p8
+I1
+sVaint
+p9
+I2
+sVvenice
+p10
+I1
+sVrose
+p11
+I1
+sVwinner
+p12
+I2
+sVlets
+p13
+I1
+sVbout
+p14
+I9
+sVmight
+p15
+I3
+sVreal
+p16
+I4
+sVme
+p17
+I1
+sVgood
+p18
+I1
+sVhit
+p19
+I2
+sVaround
+p20
+I3
+sVget
+p21
+I2
+sVknow
+p22
+I2
+sVfools
+p23
+I2
+sVghetto
+p24
+I1
+sVlike
+p25
+I3
+sVhittas
+p26
+I1
+sVlose
+p27
+I1
+sVround
+p28
+I1
+sVview
+p29
+I1
+sVem
+p30
+I1
+sVset
+p31
+I1
+sVyeah
+p32
+I4
+sVpass
+p33
+I1
+sVhome
+p34
+I2
+sVgirl
+p35
+I5
+sVwonder
+p36
+I1
+sVblue
+p37
+I1
+sVgon
+p38
+I1
+sVmovie
+p39
+I1
+sVfingers
+p40
+I1
+sVmelrose
+p41
+I1
+sVgot
+p42
+I3
+sVcause
+p43
+I2
+sVnever
+p44
+I1
+sVhere
+p45
+I2
+sVcalifornia
+p46
+I4
+sVask
+p47
+I2
+sVnews
+p48
+I1
+sVhand
+p49
+I1
+sVcard
+p50
+I1
+sVbox
+p51
+I1
+sVstevie
+p52
+I1
+sVcould
+p53
+I3
+sVangeles
+p54
+I4
+sVrodeo
+p55
+I2
+sVlet
+p56
+I3
+sVmean
+p57
+I1
+sVloud
+p58
+I1
+sVthats
+p59
+I2
+sVdont
+p60
+I1
+sVnothing
+p61
+I1
+sVnigga
+p62
+I2
+sVrolls
+p63
+I2
+sVwan
+p64
+I5
+sVsnoop
+p65
+I1
+sVdogg
+p66
+I1
+sVhey
+p67
+I1
+sVname
+p68
+I1
+sVlos
+p69
+I4
+sVway
+p70
+I1
+sVvalley
+p71
+I2
+sVtell
+p72
+I1
+sVmountains
+p73
+I1
+sVdowntown
+p74
+I2
+sVbaby
+p75
+I1
+sVtown
+p76
+I1
+sV15
+p77
+I1
+sVheard
+p78
+I3
+sVch‚teauxs
+p79
+I1
+sVminutes
+p80
+I1
+sVis
+p81
+I1
+sVit
+p82
+I4
+sVtalking
+p83
+I9
+sVsay
+p84
+I3
+sVim
+p85
+I9
+sVna
+p86
+I5
+sVmake
+p87
+I1
+sVbelong
+p88
+I1
+sVyou
+p89
+I5
+sVroll
+p90
+I10
+sVeven
+p91
+I1
+sVstar
+p92
+I1
+sVthough
+p93
+I1
+sVweed
+p94
+I2
+sVdate
+p95
+I1
+sVlight
+p96
+I1
+sVmedical
+p97
+I1
+sVwell
+p98
+I5
+sVgangbanging
+p99
+I1
+s.

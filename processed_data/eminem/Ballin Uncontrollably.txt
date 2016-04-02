@@ -1,80 +1,578 @@
-"ballin' uncontrollably" lyrics
-eminem lyrics
-"ballin' uncontrollably"
-ballin' uncontrollably
-ballin' uncontrollably
-ballin' uncontrollably
-b-ballin' uncontrollably
-man, i got everything candy-painted
-candy-painted tint, shit's so dark
-i'd be lying if i said i ain't hit
-at least nine of my friends
-plus, i got so much candy paint in my rims
-paint be flyin' off my car
-be candy paintin' the neighborhood kids
-i got that whole block lookin' like it's candyland
-ask about me, man, they be like, there go the candy man
-i park the car in the garage and go in and
-come back the next mornin'
-the rims are still spinnin'
-hit the wheels on that phantom, man, that shit looks like the batmobile
-32-inch rims, shit, i ain't even got no wheels
-custom-fitted, custom-kitted wood grain
-custom everything, what's that on the seat?
-custom mustard stain
-now let's go hit the mall, y'all know that we finna ball
-get out the car, they be like, "ah, there go them superstars!"
-hit every single store, flash a fucking wad of cash
-but i ain't buying shit, bitch
-kiss my candy-painted ass
-we...
-ballin' uncontrollably
-ballin' uncontrollably
-ballin' uncontrollably
-b-ballin' uncontrollably
-yeah, yeah
-yeah, yeah, yeah, yeah, yeah, yeah, yeah
-hit the corner liquor store
-to get corona, tip the owners
-sipped it on the way out as i dipped, i wanna rip the road up
-and i'ma hit the cinema and i'ma get the hoes,
-when i be it, i be it, shit, anything goes
-i'm ballin' out of control, girls know i'm loaded with dough
-but, shit, i'm stingy as fuck
-i'm fuckin' stingy as hoes
-these bitches don't get a crumb, and it come
-but i'm like what up
-shut up, bitch, sit up, get up off them knees
-my candy paint's enough
-if you're lucky, i'll let you hug me, but that's all you get
-then i'ma split, disappear, a cloud of smoke is all you see
-yeah...
-ballin' uncontrollably
-ballin' uncontrollably
-ballin' uncontrollably
-b-ballin' uncontrollably
-bitch, get the fuck out my car if we ain't finna fuck
-i'm horny as fuck, bitch, are you suckin' my dick or what?
-i'll fuck a chick in the butt, i really don't give a shit
-is pretty marshall gonna have to go choke me a bitch?
-you fuckin' keyed up my benz
-bitch, i beat up my friends
-don't think i won't beat a bitch
-i'll kick a six-year-old in the ribs
-you fuckin' retard, i'll have you suckin' farts out my seat
-i'll teach you not to know how to control your bowels when you eat
-what the fuck do you think that colostomy bag is for, looks?
-i ain't waste nine bullets on you for you to not sing no hooks
-i fuckin' take a make a wish foundation patient with me
-how 'bout some coke inside of your saline solution iv?
-turn around and use it on me
-you tryna snort on my keys?
-you fuckin' broad, get in back, you're comin' to florida with me,
-tell your momma i'ma drop you off at the hospital later
-we finna make this run
-take this gun and cover me, slater
-and quit your...
-ballin' uncontrollably
-ballin' uncontrollably
-ballin' uncontrollably
-b-ballin' uncontrollably
+(dp1
+Vlyrics
+p2
+I2
+sVhooks
+p3
+I1
+sV32inch
+p4
+I1
+sVgun
+p5
+I1
+sVdough
+p6
+I1
+sVlooks
+p7
+I2
+sVgo
+p8
+I5
+sVcorner
+p9
+I1
+sVstill
+p10
+I1
+sVhorny
+p11
+I1
+sVbatmobile
+p12
+I1
+sVaint
+p13
+I5
+sVdipped
+p14
+I1
+sVflash
+p15
+I1
+sVlets
+p16
+I1
+sVwood
+p17
+I1
+sVpretty
+p18
+I1
+sVstain
+p19
+I1
+sVkick
+p20
+I1
+sVtake
+p21
+I2
+sVmornin
+p22
+I1
+sVhit
+p23
+I6
+sVaround
+p24
+I1
+sVget
+p25
+I8
+sVbeat
+p26
+I2
+sVlucky
+p27
+I1
+sVdark
+p28
+I1
+sVevery
+p29
+I1
+sVknow
+p30
+I3
+sVkiss
+p31
+I1
+sVwont
+p32
+I1
+sVbout
+p33
+I1
+sVlike
+p34
+I5
+sVdrop
+p35
+I1
+sVsolution
+p36
+I1
+sVcandy
+p37
+I4
+sVkeyed
+p38
+I1
+sVgarage
+p39
+I1
+sVdisappear
+p40
+I1
+sVpaintin
+p41
+I1
+sVwish
+p42
+I1
+sVcandyland
+p43
+I1
+sVsuperstars
+p44
+I1
+sVcustomfitted
+p45
+I1
+sVneighborhood
+p46
+I1
+sVfoundation
+p47
+I1
+sVfucking
+p48
+I1
+sVliquor
+p49
+I1
+sVyeah
+p50
+I10
+sVseat
+p51
+I2
+sVsee
+p52
+I1
+sVcandypainted
+p53
+I3
+sVhoes
+p54
+I2
+sVrun
+p55
+I1
+sVfinna
+p56
+I3
+sVreally
+p57
+I1
+sVeven
+p58
+I1
+sVknees
+p59
+I1
+sVwhat
+p60
+I1
+sVsaid
+p61
+I1
+sVbag
+p62
+I1
+sVbroad
+p63
+I1
+sVeverything
+p64
+I2
+sVenough
+p65
+I1
+sVcloud
+p66
+I1
+sVgoes
+p67
+I1
+sVgot
+p68
+I4
+sVsixyearold
+p69
+I1
+sVsnort
+p70
+I1
+sVass
+p71
+I1
+sVima
+p72
+I4
+sVwe
+p73
+I1
+sVpatient
+p74
+I1
+sVrims
+p75
+I3
+sVfarts
+p76
+I1
+sVuse
+p77
+I1
+sVeminem
+p78
+I1
+sVlet
+p79
+I1
+sVchick
+p80
+I1
+sVask
+p81
+I1
+sVsing
+p82
+I1
+sVteach
+p83
+I1
+sVcome
+p84
+I2
+sVsipped
+p85
+I1
+sVowners
+p86
+I1
+sVkids
+p87
+I1
+sVanything
+p88
+I1
+sVpaints
+p89
+I1
+sVill
+p90
+I5
+sVflorida
+p91
+I1
+sVchoke
+p92
+I1
+sVlater
+p93
+I1
+sVturn
+p94
+I1
+sVgrain
+p95
+I1
+sVyall
+p96
+I1
+sVlookin
+p97
+I1
+sVwheels
+p98
+I2
+sVwhole
+p99
+I1
+sVthink
+p100
+I2
+sVblock
+p101
+I1
+sVthats
+p102
+I1
+sVcontrol
+p103
+I2
+sVdick
+p104
+I1
+sVwhats
+p105
+I1
+sVdont
+p106
+I3
+sVsmoke
+p107
+I1
+sVmarshall
+p108
+I1
+sVcustomkitted
+p109
+I1
+sVbitch
+p110
+I7
+sVcomin
+p111
+I1
+sVloaded
+p112
+I1
+sVnext
+p113
+I1
+sVballin
+p114
+I15
+sVyour
+p115
+I1
+sVstingy
+p116
+I2
+sVwan
+p117
+I1
+sVuncontrollably
+p118
+I18
+sVtint
+p119
+I1
+sVhospital
+p120
+I1
+sVwad
+p121
+I1
+sVgirls
+p122
+I1
+sVleast
+p123
+I1
+sVcustom
+p124
+I2
+sVpaint
+p125
+I2
+sVmuch
+p126
+I1
+sVway
+p127
+I1
+sVshits
+p128
+I1
+sVslater
+p129
+I1
+sVwaste
+p130
+I1
+sVtell
+p131
+I1
+sVstore
+p132
+I2
+sVtryna
+p133
+I1
+sVhug
+p134
+I1
+sVcoke
+p135
+I1
+sVbitches
+p136
+I1
+sVpark
+p137
+I1
+sVback
+p138
+I2
+sVspinnin
+p139
+I1
+sVcinema
+p140
+I1
+sVbutt
+p141
+I1
+sVeat
+p142
+I1
+sVbuying
+p143
+I1
+sVme
+p144
+I3
+sVbballin
+p145
+I4
+sVcrumb
+p146
+I1
+sVcar
+p147
+I4
+sVinside
+p148
+I1
+sVcash
+p149
+I1
+sVsuckin
+p150
+I2
+sVmall
+p151
+I1
+sVsaline
+p152
+I1
+sVnine
+p153
+I2
+sVribs
+p154
+I1
+sVand
+p155
+I1
+sVyoure
+p156
+I2
+sVup
+p157
+I2
+sVah
+p158
+I1
+sVbenz
+p159
+I1
+sVfuck
+p160
+I6
+sVrip
+p161
+I1
+sViv
+p162
+I1
+sVsingle
+p163
+I1
+sVim
+p164
+I6
+sVshut
+p165
+I1
+sVid
+p166
+I1
+sVshit
+p167
+I6
+sVphantom
+p168
+I1
+sVsit
+p169
+I1
+sVna
+p170
+I2
+sVmake
+p171
+I2
+sVtip
+p172
+I1
+sVsplit
+p173
+I1
+sVplus
+p174
+I1
+sVcolostomy
+p175
+I1
+sVball
+p176
+I1
+sVmustard
+p177
+I1
+sVkeys
+p178
+I1
+sVquit
+p179
+I1
+sVgon
+p180
+I1
+sVbullets
+p181
+I1
+sVbowels
+p182
+I1
+sVmomma
+p183
+I1
+sVfriends
+p184
+I2
+sVman
+p185
+I4
+sVfuckin
+p186
+I5
+sVretard
+p187
+I1
+sVgive
+p188
+I1
+sVflyin
+p189
+I1
+sVcover
+p190
+I1
+sVcorona
+p191
+I1
+sVroad
+p192
+I1
+sVlying
+p193
+I1
+s.

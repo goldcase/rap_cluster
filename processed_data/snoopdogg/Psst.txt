@@ -1,119 +1,435 @@
-"psst!" lyrics
-snoop dogg lyrics
-"psst!"
-(feat. jamie foxx)
-snoop d-o double to the g
-double to the g
-g-g-g
-double to the g
-snoop d-o double to the g
-hey you, out there
-fat ass, good hair
-hell with my homies
-i wanna kick it with you
-cuz i got my swilla
-packed to the cilla
-for what you heard
-don't be scared
-tell me what's the deal-a
-go, go, go, go
-(snoop d-o double to the g)
-go, go, go, go
-ay, what's yo name
-and who you with?
-have a see baby girl
-come and limp with a pimp
-relax, you know i got this shit
-split that squishy
-while i pop this kris
-yea girl, its the d-o dub
-how you feel
-on the real
-i wanna be yo thug
-now
-i wanna treat it like its never been treated
-mixin and fixin and beat it and beat it
-psst!
-baby let me holla at you
-psst!
-i'm tryna throw these dollas at you
-psst!
-boy what you want?
-(snoop d-o double to the g)
-psst!
-tell me what you want
-psst!
-baby let me holla at you
-psst!
-i'm tryna throw these dollas at you
-psst!
-boy what you want?
-psst!
-tell me what you want
-your love so bold
-and so cold
-like a fridgerator
-you work that ass
-(snoop d-o double to the g)
-up and down
-like an elevator
-dont you wish yo boyfriend was a gangsta like me?
-but he ain't
-and don't drink slow
-and think slow
-cuz hey
-i crack a bitch every motherfuckin day
-and i'm likin it
-lovin it
-twerkin it
-and then you dippin it
-diggin in
-workin it
-why you wanna go an do that?
-its not t.i
-the boss with the horse
-snoopy d-o double g-y
-and i'm settin the tone
-you know
-me and you we need to be gettin it on
-in a real way
-its so major
-me and j. fox wanna fly ya'll to asia
-so what's stoppin ya'll
-let's get it poppin ya'll
-a little somethin for the head
-like a tylenol
-groove
-and do yo doo
-and don't play with it
-go and make yo move
-boy what you want
-(snoop d-o double to the g)
-tell me what you want
-psst!
-baby let me holla at you
-psst!
-i'm tryna throw these dollas at you
-psst!
-boy what you want?
-psst!
-tell me what you want
-psst!
-baby let me holla at you
-psst!
-i'm tryna throw these dollas at you
-psst!
-boy what you want?
-psst!
-tell me what you want
-girl you know you're show stoppin
-when you get that body rockin
-let's roll these trees on ya
-(snoop d-o double to the g)
-so we can dose up on ya
-snoop dogg and j. foxx
-we're lookin for some dream girls
-close your eyes baby
-and dream on this
-yea
-(snoop d-o double to the g)
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVyea
+p4
+I2
+sVmove
+p5
+I1
+sVdollas
+p6
+I4
+sVgy
+p7
+I1
+sVdose
+p8
+I1
+sVcrack
+p9
+I1
+sVgo
+p10
+I10
+sVwhats
+p11
+I3
+sVcold
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I1
+sVslow
+p15
+I2
+sVpoppin
+p16
+I1
+sVcuz
+p17
+I2
+sVlets
+p18
+I2
+sVhomies
+p19
+I1
+sVgangsta
+p20
+I1
+sVkick
+p21
+I1
+sVmotherfuckin
+p22
+I1
+sVreal
+p23
+I2
+sVfly
+p24
+I1
+sVgood
+p25
+I1
+sVworkin
+p26
+I1
+sVyo
+p27
+I5
+sVtwerkin
+p28
+I1
+sVbeat
+p29
+I2
+sVfat
+p30
+I1
+sVlovin
+p31
+I1
+sVay
+p32
+I1
+sVevery
+p33
+I1
+sVknow
+p34
+I3
+sVsnoopy
+p35
+I1
+sVnow
+p36
+I1
+sVday
+p37
+I1
+sVname
+p38
+I1
+sVdeala
+p39
+I1
+sVlike
+p40
+I5
+sVpimp
+p41
+I1
+sVfridgerator
+p42
+I1
+sVgettin
+p43
+I1
+sVdiggin
+p44
+I1
+sVya
+p45
+I2
+sVdouble
+p46
+I11
+sVyall
+p47
+I3
+sVbody
+p48
+I1
+sVj
+I2
+sVhell
+p49
+I1
+sVscared
+p50
+I1
+sVhair
+p51
+I1
+sVsee
+p52
+I1
+sVsquishy
+p53
+I1
+sVclose
+p54
+I1
+sVgirl
+p55
+I3
+sVfixin
+p56
+I1
+sVpacked
+p57
+I1
+sVkris
+p58
+I1
+sVfox
+p59
+I1
+sVasia
+p60
+I1
+sVgot
+p61
+I2
+sVget
+p62
+I2
+sVass
+p63
+I2
+sVbold
+p64
+I1
+sVnever
+p65
+I1
+sVlittle
+p66
+I1
+sVboss
+p67
+I1
+sVggg
+p68
+I1
+sVlet
+p69
+I4
+sVmajor
+p70
+I1
+sVcome
+p71
+I1
+sVthrow
+p72
+I4
+sVboy
+p73
+I5
+sVg
+I10
+sVgroove
+p74
+I1
+sVlikin
+p75
+I1
+sVlookin
+p76
+I1
+sVti
+p77
+I1
+sVthink
+p78
+I1
+sVdippin
+p79
+I1
+sVlove
+p80
+I1
+sVdont
+p81
+I4
+sVfeel
+p82
+I1
+sVlimp
+p83
+I1
+sVpop
+p84
+I1
+sVdown
+p85
+I1
+sVbitch
+p86
+I1
+sVcilla
+p87
+I1
+sVwan
+p88
+I5
+sVhorse
+p89
+I1
+sVsnoop
+p90
+I10
+sVdogg
+p91
+I2
+sVdub
+p92
+I1
+sVthere
+p93
+I1
+sVgirls
+p94
+I1
+sVhey
+p95
+I2
+sVelevator
+p96
+I1
+sVtylenol
+p97
+I1
+sVtreat
+p98
+I1
+sVway
+p99
+I1
+sVsettin
+p100
+I1
+sVrockin
+p101
+I1
+sVtell
+p102
+I6
+sVtryna
+p103
+I4
+sVhead
+p104
+I1
+sVrelax
+p105
+I1
+sVjamie
+p106
+I1
+sVbaby
+p107
+I6
+sVwith
+p108
+I1
+sVboyfriend
+p109
+I1
+sVme
+p110
+I1
+sVthis
+p111
+I1
+sVwish
+p112
+I1
+sVwork
+p113
+I1
+sVtreated
+p114
+I1
+sVit
+p115
+I7
+sVswilla
+p116
+I1
+sVheard
+p117
+I1
+sVim
+p118
+I6
+sVwant
+p119
+I10
+sVin
+p120
+I1
+sVthug
+p121
+I1
+sVstoppin
+p122
+I2
+sVshit
+p123
+I1
+sVholla
+p124
+I4
+sVtone
+p125
+I1
+sVna
+p126
+I5
+sVmake
+p127
+I1
+sVthat
+p128
+I1
+sVfoxx
+p129
+I2
+sVneed
+p130
+I1
+sVsplit
+p131
+I1
+sVyou
+p132
+I9
+sVroll
+p133
+I1
+sVplay
+p134
+I1
+sVdrink
+p135
+I1
+sVtrees
+p136
+I1
+sVmixin
+p137
+I1
+sVon
+p138
+I1
+sVeyes
+p139
+I1
+sVsomethin
+p140
+I1
+sVdoo
+p141
+I1
+sVyoure
+p142
+I1
+sVdream
+p143
+I2
+sVpsst
+p144
+I18
+s.

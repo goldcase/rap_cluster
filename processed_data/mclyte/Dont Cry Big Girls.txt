@@ -1,48 +1,399 @@
-"don't cry big girls" lyrics
-mc lyte lyrics
-"don't cry big girls"
-this is lyte, and i'm just here to say
-that i choose to express my feelings this way
-always alone, either with a microphone
-or just plainly emphasize the tone
-of my voice, cause yo, i know i'm your choice
-so when i am speaking, show your gratitude
-while i am teaching, i have no attitude
-i'm just here to get the job totally done
-85% work, 15% fun
-sometimes i admit, i get so excited
-rhyme for rhyme, i just can't fight it
-can't stop the flow, it's just too persistant
-(big girls don't cry)
-can't stop the flow, it's just too persistant
-the level is extremely low on my resistance
-by you or any other i'll never be beaten at a
-rap meeting, in other words a battle
-cause y'all, i'm like a farmer, and y'all's the cattle
-be a big girl about it, don't you start cryin
-that'll mean i made you weep without even tryin
-lyte takes it like a big girl, i'm no jive girl
-comin direct, tellin you that i'm a live girl
-'i'm positive', you've heard this expression before
-so next time you see lyte shine through the door
-don't talk behind my back, confront me like a big girl
-(big girls don't cry)
-don't talk behind my back, confront me like a big girl
-so i can take you to all slimmies of the world
-big girls, we don't fight over men
-although there's one worth fighting for every now and then
-but then i think again, it's not worth my while
-and it's also not a big girl style
-and i know you're thinkin: 'wait, lyte is slim and short?'
-while being brought up i was also taught
-take it like it comes and proceed with the flow
-lyte is the biggest of the big girls, and now you know
-(big girls don't cry)
-this is dedicated to milk dee from the audio 2
-to gizmo from the audio 2
-the whole alliance crew
-you know what i'm sayin?
-and to all the big girls
-also the small girls
-you got time to grow up to be big girls
-(big girls don't cry)
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVresistance
+p4
+I1
+sVattitude
+p5
+I1
+sVbattle
+p6
+I1
+sVmilk
+p7
+I1
+sVbefore
+p8
+I1
+sVstyle
+p9
+I1
+sVsayin
+p10
+I1
+sVcrew
+p11
+I1
+sVchoose
+p12
+I1
+sVfarmer
+p13
+I1
+sVteaching
+p14
+I1
+sVexcited
+p15
+I1
+sVtake
+p16
+I2
+sVthen
+p17
+I1
+sVyo
+p18
+I1
+sVget
+p19
+I2
+sVbig
+p20
+I15
+sVexpress
+p21
+I1
+sVstop
+p22
+I2
+sVchoice
+p23
+I1
+sVevery
+p24
+I1
+sVknow
+p25
+I4
+sVwords
+p26
+I1
+sVcryin
+p27
+I1
+sVworld
+p28
+I1
+sVone
+p29
+I1
+sVlike
+p30
+I5
+sVlevel
+p31
+I1
+sValways
+p32
+I1
+sVcry
+p33
+I6
+sVeither
+p34
+I1
+sVconfront
+p35
+I2
+sVsmall
+p36
+I1
+sVyall
+p37
+I1
+sVmean
+p38
+I1
+sVdirect
+p39
+I1
+sVsee
+p40
+I1
+sVtaught
+p41
+I1
+sVcattle
+p42
+I1
+sVgirl
+p43
+I7
+sV85
+p44
+I1
+sVeven
+p45
+I1
+sVslimmies
+p46
+I1
+sVbeaten
+p47
+I1
+sVbehind
+p48
+I2
+sVgot
+p49
+I1
+sVcause
+p50
+I2
+sVmen
+p51
+I1
+sVnever
+p52
+I1
+sVjob
+p53
+I1
+sValthough
+p54
+I1
+sValone
+p55
+I1
+sVwait
+p56
+I1
+sVshine
+p57
+I1
+sVill
+p58
+I1
+sVadmit
+p59
+I1
+sVyouve
+p60
+I1
+sVexpression
+p61
+I1
+sVthink
+p62
+I1
+sVcomes
+p63
+I1
+sValliance
+p64
+I1
+sVtone
+p65
+I1
+sVdont
+p66
+I10
+sVplainly
+p67
+I1
+sVfeelings
+p68
+I1
+sVbrought
+p69
+I1
+sVdone
+p70
+I1
+sVcomin
+p71
+I1
+sVnext
+p72
+I1
+sVpositive
+p73
+I1
+sVgratitude
+p74
+I1
+sVtakes
+p75
+I1
+sVlyte
+p76
+I6
+sVtotally
+p77
+I1
+sVgirls
+p78
+I11
+sVfight
+p79
+I2
+sVstart
+p80
+I1
+sVlive
+p81
+I1
+sV2
+I2
+sVlow
+p82
+I1
+sVway
+p83
+I1
+sVjive
+p84
+I1
+sVtryin
+p85
+I1
+sVmeeting
+p86
+I1
+sVspeaking
+p87
+I1
+sVdoor
+p88
+I1
+sVback
+p89
+I2
+sVbiggest
+p90
+I1
+sVmade
+p91
+I1
+sV15
+p92
+I1
+sVmc
+p93
+I1
+sVwork
+p94
+I1
+sVcant
+p95
+I3
+sVtellin
+p96
+I1
+sVworth
+p97
+I2
+sVwhile
+p98
+I1
+sVfun
+p99
+I1
+sVvoice
+p100
+I1
+sVdee
+p101
+I1
+sVtheres
+p102
+I1
+sVdedicated
+p103
+I1
+sVyoure
+p104
+I1
+sVthatll
+p105
+I1
+sVslim
+p106
+I1
+sVit
+p107
+I1
+sVheard
+p108
+I1
+sVsay
+p109
+I1
+sVim
+p110
+I8
+sVrap
+p111
+I1
+sVyalls
+p112
+I1
+sVgizmo
+p113
+I1
+sVmicrophone
+p114
+I1
+sVthinkin
+p115
+I1
+sVrhyme
+p116
+I2
+sValso
+p117
+I3
+sVemphasize
+p118
+I1
+sVpersistant
+p119
+I2
+sVweep
+p120
+I1
+sVextremely
+p121
+I1
+sVgrow
+p122
+I1
+sVa
+I1
+sVshort
+p123
+I1
+sVproceed
+p124
+I1
+sVwhole
+p125
+I1
+sVsometimes
+p126
+I1
+sVflow
+p127
+I3
+sVfighting
+p128
+I1
+sVwithout
+p129
+I1
+sVtime
+p130
+I2
+sVaudio
+p131
+I2
+sVtalk
+p132
+I2
+s.

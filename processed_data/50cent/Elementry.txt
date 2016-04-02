@@ -1,90 +1,776 @@
-"elementry" lyrics
-50 cent lyrics
-"elementry"
-(feat. g-unit, scarlett)
-g unit!
-a, b
-you can't fuck with me
-c, d
-we from the harlem streets
-e, f
-don't talk me to death
-g, h
-it's elementary
-picture me rolling range rover
-same color your air force ones
-white on white, ya like?
-red i flight the night
-from l.a. to n.y.
-i'm harlem bound
-you see how bitches tense up, when scarlett 'round
-niggas get the heart to holla while we up in the club
-but get intimidated when they see me sitting on dubs
-i hear 'em whispering " dat ain't a man, shit that's her."
-she roll with them g unit niggas, that's what's up
-disrespect me, i'll have niggas blast ya up
-take my advice, don't let ya peoples grass ya up
-i got a fetish for the chips
-20's for the six
-hollows for the clips
-try me, if you think i'm playing bitch
-and the police we'll have another crime scene taker
-jim star crush your head, give your ass a shape-up
-uptown niggas known for the money they make
-everybody ain't shook, you see doing the shake
-the boss spending ends
-saying, "gimme that benz, 20 inch rims, and four tv's"
-the snitch in the precinct saying
-"he sell x, he sell techs, and he sell d"
-the balla by the bar saying,
-"everybody drink, the best champagne, it's all on me"
-snitch in the back of the police car
-pointing out the window saying, "he robbed me"
-it's elementary
-1,2,3,4
-lloyd banks' in the house
-now get the fuck on the floor
-i slid through the front door
-with the 9 and the velour
-a cal in my pocket
-you wil', i'mma pop it
-i'm down for a profit
-i'm ghetto as hell
-you can't you tell?
-my road dog, under the jail
-getting frustrating mail
-so i'm drinking and smoking
-thinking and hoping
-this cell gon' open
-you can dance next to me, but don't throw an elbow
-i'll throw one back and leave blood on your shell toes
-hell no
-i ain't paying for pleasure
-your pussy don't bring rainbows and pots of treasure
-it's every girl's dream, to floss with the team
-long on the suine
-dvd's on the screen
-blowing on cream
-waiting for you to scheme
-you ain't gotta know how to read, to spray a magazine
-i don't wanna grow up, i'mma hustler kid
-go'head and stunt, see i don't pop two your wig
-i'm artistic, intelligent, so much ability
-when i use them big words, your bitch be feeling me
-so ya'll niggas hate me, 'cause your wives be our groupies
-ya'll irritate me, like loud people in the movies
-fall back, matter fact back down
-'cause i just passed security without no pat down
-you can catch me in the bathroom blowing a sticky
-or catch me on the dancefloor feeling some tits
-sex sells, so i'mma p-i-m-p
-so my pockets never be empty
-it ain't no problem, we scoop them models
-we got condoms, coups, and lavish condos
-50 got me getting ass like i never did
-so when i step in the club, hoes love the kid
-the cat in the house go
-meow, meow, meow, meow, meow, meow, meow, meow, meow
-the bird in the cage go
-tweet, tweet, tweet, tweet, tweet, tweet
-it's elementary
+(dp1
+Vsaying
+p2
+I4
+sVwords
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I1
+sVfall
+p7
+I1
+sVslid
+p8
+I1
+sVfour
+p9
+I1
+sVbring
+p10
+I1
+sVfact
+p11
+I1
+sVlloyd
+p12
+I1
+sVshake
+p13
+I1
+sVgo
+p14
+I2
+sVhell
+p15
+I2
+sVfeat
+p16
+I1
+sVdrinking
+p17
+I1
+sVhustler
+p18
+I1
+sVaint
+p19
+I5
+sVrover
+p20
+I1
+sVdeath
+p21
+I1
+sVpolice
+p22
+I2
+sVpointing
+p23
+I1
+sVla
+p24
+I1
+sVimma
+p25
+I3
+sVcage
+p26
+I1
+sVtweet
+p27
+I6
+sVjim
+p28
+I1
+sVwaiting
+p29
+I1
+sVcrime
+p30
+I1
+sVwindow
+p31
+I1
+sVrainbows
+p32
+I1
+sVmail
+p33
+I1
+sVghetto
+p34
+I1
+sVscarlett
+p35
+I2
+sVta
+p36
+I1
+sVpaying
+p37
+I1
+sVsitting
+p38
+I1
+sVya
+p39
+I4
+sVdvds
+p40
+I1
+sVscene
+p41
+I1
+sVdat
+p42
+I1
+sV9
+I1
+sVones
+p43
+I1
+sVevery
+p44
+I1
+sVknow
+p45
+I1
+sVkid
+p46
+I2
+sVfetish
+p47
+I1
+sVfront
+p48
+I1
+sVstunt
+p49
+I1
+sVprecinct
+p50
+I1
+sVblast
+p51
+I1
+sVchips
+p52
+I1
+sVd
+I2
+sVbar
+p53
+I1
+sVlike
+p54
+I3
+sVpimp
+p55
+I1
+sVlavish
+p56
+I1
+sVdid
+p57
+I1
+sVh
+I1
+sVniggas
+p58
+I5
+sV50
+p59
+I2
+sVtry
+p60
+I1
+sVnight
+p61
+I1
+sVx
+I1
+sVsecurity
+p62
+I1
+sVround
+p63
+I1
+sVyall
+p64
+I2
+sVem
+p65
+I1
+sV1234
+p66
+I1
+sVforce
+p67
+I1
+sVpeople
+p68
+I1
+sVhouse
+p69
+I2
+sVgroupies
+p70
+I1
+sVstreets
+p71
+I1
+sVback
+p72
+I4
+sVtvs
+p73
+I1
+sVsex
+p74
+I1
+sVwhispering
+p75
+I1
+sVsee
+p76
+I4
+sVblowing
+p77
+I2
+sVhoes
+p78
+I1
+sVcat
+p79
+I1
+sVbest
+p80
+I1
+sVleave
+p81
+I1
+sVgon
+p82
+I1
+sVmovies
+p83
+I1
+sVprofit
+p84
+I1
+sVhate
+p85
+I1
+sVcrush
+p86
+I1
+sVfloss
+p87
+I1
+sVgot
+p88
+I4
+sVget
+p89
+I3
+sVchampagne
+p90
+I1
+sVcause
+p91
+I2
+sVbird
+p92
+I1
+sVred
+p93
+I1
+sVass
+p94
+I2
+sVends
+p95
+I1
+sVtoes
+p96
+I1
+sVability
+p97
+I1
+sVlove
+p98
+I1
+sVrims
+p99
+I1
+sVintimidated
+p100
+I1
+sVscreen
+p101
+I1
+sVteam
+p102
+I1
+sVbathroom
+p103
+I1
+sVboss
+p104
+I1
+sVdisrespect
+p105
+I1
+sVspray
+p106
+I1
+sVlet
+p107
+I1
+sVgunit
+p108
+I1
+sV20
+p109
+I1
+sVthrow
+p110
+I2
+sVc
+I1
+sVfeeling
+p111
+I2
+sVcondoms
+p112
+I1
+sVg
+I3
+sVgetting
+p113
+I2
+sVmeow
+p114
+I9
+sVill
+p115
+I2
+sVstep
+p116
+I1
+sVthinking
+p117
+I1
+sVrange
+p118
+I1
+sVirritate
+p119
+I1
+sVpockets
+p120
+I1
+sVloud
+p121
+I1
+sVthink
+p122
+I1
+sVroad
+p123
+I1
+sVthats
+p124
+I2
+sVwig
+p125
+I1
+sVtreasure
+p126
+I1
+sVwhats
+p127
+I1
+sVdont
+p128
+I6
+sVcolor
+p129
+I1
+sVpussy
+p130
+I1
+sVwil
+p131
+I1
+sVmatter
+p132
+I1
+sVbound
+p133
+I1
+sVpop
+p134
+I2
+sVone
+p135
+I1
+sVdown
+p136
+I2
+sVbitch
+p137
+I2
+sVanother
+p138
+I1
+sVelementary
+p139
+I3
+sVuptown
+p140
+I1
+sVnext
+p141
+I1
+sVopen
+p142
+I1
+sVunit
+p143
+I2
+sVeverybody
+p144
+I2
+sVwan
+p145
+I1
+sVuse
+p146
+I1
+sVlong
+p147
+I1
+sVtaker
+p148
+I1
+sVher
+p149
+I1
+sVshapeup
+p150
+I1
+sVspending
+p151
+I1
+sVpots
+p152
+I1
+sVtwo
+p153
+I1
+sVcent
+p154
+I1
+sVhollows
+p155
+I1
+sVmuch
+p156
+I1
+sVpassed
+p157
+I1
+sVcoups
+p158
+I1
+sVwhite
+p159
+I2
+sVscheme
+p160
+I1
+sVtell
+p161
+I1
+sVempty
+p162
+I1
+sVhead
+p163
+I1
+sVshell
+p164
+I1
+sVflight
+p165
+I1
+sVbig
+p166
+I1
+sVgirls
+p167
+I1
+sVclub
+p168
+I2
+sVbitches
+p169
+I1
+sVgohead
+p170
+I1
+sVit
+p171
+I1
+sVtense
+p172
+I1
+sVcondos
+p173
+I1
+sVknown
+p174
+I1
+sVsmoking
+p175
+I1
+sVgim
+p176
+I1
+sVvelour
+p177
+I1
+sVme
+p178
+I5
+sVb
+I1
+sVf
+I1
+sVcar
+p179
+I1
+sVup
+p180
+I3
+sVair
+p181
+I1
+sVclips
+p182
+I1
+sVballa
+p183
+I1
+sVcal
+p184
+I1
+sVelbow
+p185
+I1
+sVproblem
+p186
+I1
+sVgrass
+p187
+I1
+sVfrustrating
+p188
+I1
+sVshook
+p189
+I1
+sVcatch
+p190
+I2
+sVheart
+p191
+I1
+sV20s
+p192
+I1
+sVhoping
+p193
+I1
+sVcell
+p194
+I1
+sVgive
+p195
+I1
+sVbenz
+p196
+I1
+sVfuck
+p197
+I2
+sVsticky
+p198
+I1
+sVcant
+p199
+I2
+sVim
+p200
+I6
+sVdoor
+p201
+I1
+sVsells
+p202
+I1
+sVshit
+p203
+I1
+sVcream
+p204
+I1
+sVsell
+p205
+I3
+sVholla
+p206
+I1
+sVpat
+p207
+I1
+sVtechs
+p208
+I1
+sVfloor
+p209
+I1
+sVna
+p210
+I1
+sVmake
+p211
+I1
+sVsix
+p212
+I1
+sVmagazine
+p213
+I1
+sVelementry
+p214
+I2
+sVny
+p215
+I1
+sVtake
+p216
+I1
+sVtits
+p217
+I1
+sVpeoples
+p218
+I1
+sVinch
+p219
+I1
+sVintelligent
+p220
+I1
+sVroll
+p221
+I1
+sVpicture
+p222
+I1
+sVpleasure
+p223
+I1
+sVstar
+p224
+I1
+sVmodels
+p225
+I1
+sVadvice
+p226
+I1
+sVdrink
+p227
+I1
+sVdubs
+p228
+I1
+sVdancefloor
+p229
+I1
+sVblood
+p230
+I1
+sVnever
+p231
+I2
+sVsnitch
+p232
+I2
+sVrolling
+p233
+I1
+sVsuine
+p234
+I1
+sVgrow
+p235
+I1
+sVman
+p236
+I1
+sVrobbed
+p237
+I1
+sVpocket
+p238
+I1
+sVe
+I1
+sVread
+p239
+I1
+sVno
+p240
+I1
+sVwell
+p241
+I1
+sVdog
+p242
+I1
+sVscoop
+p243
+I1
+sVwithout
+p244
+I1
+sVjail
+p245
+I1
+sVartistic
+p246
+I1
+sVbanks
+p247
+I1
+sVhear
+p248
+I1
+sVwives
+p249
+I1
+sVharlem
+p250
+I2
+sVdream
+p251
+I1
+sVplaying
+p252
+I1
+sVtalk
+p253
+I1
+s.

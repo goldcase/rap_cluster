@@ -1,104 +1,632 @@
-"diamond in the back" lyrics
-ludacris lyrics
-"diamond in the back"
-gangsta whitewalls, tv antennas in the back (the back, the back...)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-and i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-diamond in the, diamond in the, diamond in the...
-it's hard growin' up lookin' at drug dealers wit' all this paper
-wonderin' how i can get me some
-my family's strugglin', i'm buggin', sittin' on my porch
-so confused, chewin' on some bubblegum
-i was always taught to use my manners with the misses
-but please, stay away from the hoes and snithes
-and i was always reached for the sky, i dont know why
-ima little bitty kid wit' a whole buncha gangsta wishes
-when i grow up, you just wait, ima be so straight
-and everything's gonna be so marvelous
-no more borrowin' from the neighbors, no more haters
-no more blowin' nintendo cartridges
-ima have it made in the shade, ima be so paid
-and my fam, get 'em off that payin' them bills
-matta fact im schemin' my way on up out this hood, i'll be good
-when i ditch these trainin' wheels
-diamond in the back
-i wanna (sunroof top)
-i wanna (diggin' in the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' in the scene with a gangsta lean)
-i wanna (diamond in the back)
-and i wanna (sunroof top)
-i wanna (diggin' in the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' in the scene with a gangsta lean)
-diamond in the, diamond in the, diamond in the...
-i'm sick and tired of ridin' public transportation
-been patient waitin' on my set of wheels
-i'm willin' to do what it takes, whatever the stakes
-in order to get myself some dollar bills
-it's too many holes in my socks, and i'm ready to box
-anyone tellin' me i need better shoes
-and i aint the only one trippin', or makin a fuss
-my older cousin need some cheddar too
-he thinkin' 'bout comin' up on the lick, to get it quick
-it involves that local corner store
-i overheard him say he knew who works there
-and whatever they do, dont let the owner know
-i hope he come back with enough to let me borrow some change
-at least for the summer
-and if he dont let me borrow nothin, but ask me what i want
-ima tell him i wanna...
-diamond in the back
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-could use a (sunroof top)
-sho' wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-i wanna (sunroof top)
-sho' wanna (diggin' the scene with a gangsta lean)
-diamond in the, diamond in the, diamond in the...
-why cant i walk with a limp mama? wont be no drama
-for goodness sakes, im just a kid
-had to get my whoopin' in fo's, i was just a po'
-like there no remorse for what i did
-gotta learn the hard way, when runnin' them streets
-how some just creep, really just to eat a meal
-"i coulda swore it was mine," what i used to tell the po-pos
-what i left to rob and steal
-man, i gotta earn for a livin', aint nobody givin' me nothin'
-find somethin' i love to do
-hmm, what about that pimpin'? it's good tippin'
-tax free, and i know a lot of people that love to screw
-yeah, it's just a way of the world, with boys and girls
-i'm adjustin' to my environment
-this government cheatin' us, so i'll cheat 'em back
-why cant work feel like retirement?
-diamond in the back
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-could use a (sunroof top)
-sho' wanna (diggin' the scene with a gangsta lean)
-i wish i had a (diamond in the back)
-i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-i wanna (diamond in the back)
-and i wanna (sunroof top)
-i wanna (diggin' the scene with a gangsta lean)
-gangsta, gangsta, gangsta...
+(dp1
+Vneighbors
+p2
+I1
+sVsummer
+p3
+I1
+sVadjustin
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVludacris
+p7
+I1
+sVcheat
+p8
+I1
+sVlean
+p9
+I16
+sVrob
+p10
+I1
+sVdollar
+p11
+I1
+sVpaper
+p12
+I1
+sVcorner
+p13
+I1
+sVfind
+p14
+I1
+sVima
+p15
+I5
+sVboys
+p16
+I1
+sVgivin
+p17
+I1
+sVblowin
+p18
+I1
+sVtv
+p19
+I1
+sVsky
+p20
+I1
+sVenough
+p21
+I1
+sVeat
+p22
+I1
+sVbetter
+p23
+I1
+sVgangsta
+p24
+I21
+sVlocal
+p25
+I1
+sVhope
+p26
+I1
+sVta
+p27
+I2
+sVdo
+p28
+I1
+sVgood
+p29
+I2
+sVlivin
+p30
+I1
+sVget
+p31
+I5
+sVcheddar
+p32
+I1
+sVsittin
+p33
+I1
+sVscene
+p34
+I16
+sVwishes
+p35
+I1
+sVknow
+p36
+I3
+sVfam
+p37
+I1
+sVworld
+p38
+I1
+sVwalk
+p39
+I1
+sVpeople
+p40
+I1
+sVwont
+p41
+I1
+sVtrippin
+p42
+I1
+sVearn
+p43
+I1
+sVlike
+p44
+I2
+sVdid
+p45
+I1
+sValways
+p46
+I2
+sVborrow
+p47
+I2
+sVpopos
+p48
+I1
+sVdiggin
+p49
+I16
+sVquick
+p50
+I1
+sVbills
+p51
+I2
+sVsteal
+p52
+I1
+sVmeal
+p53
+I1
+sVsho
+p54
+I3
+sVem
+p55
+I2
+sVwaitin
+p56
+I1
+sVset
+p57
+I1
+sVtired
+p58
+I1
+sVeverythings
+p59
+I1
+sVhard
+p60
+I2
+sVsome
+p61
+I1
+sVback
+p62
+I23
+sVtaught
+p63
+I1
+sVtellin
+p64
+I1
+sVhoes
+p65
+I1
+sVpatient
+p66
+I1
+sVcreep
+p67
+I1
+sVreally
+p68
+I1
+sVsocks
+p69
+I1
+sVgon
+p70
+I1
+sVfos
+p71
+I1
+sVbuncha
+p72
+I1
+sVaway
+p73
+I1
+sVplease
+p74
+I1
+sVmisses
+p75
+I1
+sVremorse
+p76
+I1
+sVwillin
+p77
+I1
+sVgot
+p78
+I2
+sVpublic
+p79
+I1
+sVaint
+p80
+I2
+sVcheatin
+p81
+I1
+sVtransportation
+p82
+I1
+sVcoulda
+p83
+I1
+sVlittle
+p84
+I1
+sVfree
+p85
+I1
+sVridin
+p86
+I1
+sVretirement
+p87
+I1
+sVstrugglin
+p88
+I1
+sVask
+p89
+I1
+sVcousin
+p90
+I1
+sVcome
+p91
+I1
+sVchange
+p92
+I1
+sVwait
+p93
+I1
+sVbox
+p94
+I1
+sVworks
+p95
+I1
+sVenvironment
+p96
+I1
+sVtrainin
+p97
+I1
+sVmany
+p98
+I1
+sVill
+p99
+I2
+sVdrug
+p100
+I1
+sVdrama
+p101
+I1
+sVsakes
+p102
+I1
+sVlookin
+p103
+I1
+sVlet
+p104
+I3
+sVwheels
+p105
+I2
+sVwhole
+p106
+I1
+sVinvolves
+p107
+I1
+sVstakes
+p108
+I1
+sVbitty
+p109
+I1
+sVlove
+p110
+I2
+sVdont
+p111
+I3
+sVtippin
+p112
+I1
+sVfeel
+p113
+I1
+sVlimp
+p114
+I1
+sVmanners
+p115
+I1
+sVgrowin
+p116
+I1
+sVone
+p117
+I1
+sVmarvelous
+p118
+I1
+sVwit
+p119
+I2
+sVmatta
+p120
+I1
+sVcomin
+p121
+I1
+sVowner
+p122
+I1
+sVreached
+p123
+I1
+sVchewin
+p124
+I1
+sVditch
+p125
+I1
+sVhood
+p126
+I1
+sVwan
+p127
+I43
+sVuse
+p128
+I3
+sVwhitewalls
+p129
+I1
+sVtakes
+p130
+I1
+sVtop
+p131
+I16
+sVthere
+p132
+I1
+sVgirls
+p133
+I1
+sVleast
+p134
+I1
+sVwhy
+p135
+I1
+sVanyone
+p136
+I1
+sVtoo
+p137
+I1
+sVway
+p138
+I3
+sVmama
+p139
+I1
+sVman
+p140
+I1
+sVtell
+p141
+I2
+sVstore
+p142
+I1
+sVdiamond
+p143
+I27
+sVpimpin
+p144
+I1
+sVporch
+p145
+I1
+sVgovernment
+p146
+I1
+sVnobody
+p147
+I1
+sVmine
+p148
+I1
+sVhmm
+p149
+I1
+sVwhatever
+p150
+I2
+sVcartridges
+p151
+I1
+sVantennas
+p152
+I1
+sVhaters
+p153
+I1
+sVbout
+p154
+I1
+sVborrowin
+p155
+I1
+sVrunnin
+p156
+I1
+sVmade
+p157
+I1
+sVwish
+p158
+I1
+sVstraight
+p159
+I1
+sVwork
+p160
+I1
+sVcant
+p161
+I2
+sVpayin
+p162
+I1
+sVpo
+p163
+I1
+sVfamilys
+p164
+I1
+sVlearn
+p165
+I1
+sVcould
+p166
+I2
+sVlick
+p167
+I1
+sVmakin
+p168
+I1
+sVgoodness
+p169
+I1
+sVsunroof
+p170
+I16
+sVtax
+p171
+I1
+sVconfused
+p172
+I1
+sVneed
+p173
+I2
+sVsay
+p174
+I1
+sVoverheard
+p175
+I1
+sVim
+p176
+I7
+sVwant
+p177
+I1
+sVready
+p178
+I1
+sVscrew
+p179
+I1
+sVus
+p180
+I1
+sVna
+p181
+I44
+sVthinkin
+p182
+I1
+sVwhoopin
+p183
+I1
+sVbubblegum
+p184
+I1
+sVsick
+p185
+I1
+sVswore
+p186
+I1
+sVschemin
+p187
+I1
+sVwonderin
+p188
+I1
+sVused
+p189
+I1
+sVfuss
+p190
+I1
+sVknew
+p191
+I1
+sVpaid
+p192
+I1
+sVstay
+p193
+I1
+sVlot
+p194
+I1
+sVstreets
+p195
+I1
+sVnintendo
+p196
+I1
+sVgrow
+p197
+I1
+sVkid
+p198
+I2
+sVyeah
+p199
+I1
+sVsomethin
+p200
+I1
+sVdealers
+p201
+I1
+sVolder
+p202
+I1
+sVholes
+p203
+I1
+sVnothin
+p204
+I2
+sVbuggin
+p205
+I1
+sVsnithes
+p206
+I1
+sVshade
+p207
+I1
+sVthe
+p208
+I3
+sVorder
+p209
+I1
+sVfact
+p210
+I1
+sVleft
+p211
+I1
+s.

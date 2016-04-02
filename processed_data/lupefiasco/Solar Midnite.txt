@@ -1,74 +1,299 @@
-"solar midnite" lyrics
-lupe fiasco lyrics
-"solar midnite"
-a simplified love sick,
-taking no prisoners,
-sunny day, cold heart,
-listen up listeners,
-darkside love affair,
-out of time, and in a rush,
-you can't help me 'til the sunrise lifts up.
-let's levitate up the horizon,
-i can see it in your eyes,
-everythin' you're hidin'
-i can see the truth in you,
-even when you're lyin'
-even through the darkness,
-i can see you shinin'
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-blood. (blood) by. (by) sun. (sun) light. (light)
-a played out love song,
-playin' in the background
-seems to describe every part of where we're at now.
-every feeling we ever had for each other,
-ever karaoke love letter, lyrics undiscovered.
-now your mother used to tell me you ain't nothin' but some trouble,
-now it's couple trouble makers,
-making mayhem on the double,
-tryna figure out the meanin' and break apart the puzzles,
-why they love you, when i hate you,
-when they hate the way i love you.
-(solar.)
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-blood. (blood) by. (by) sun. (sun) light. (light)
-a complicated heartbreak,
-losing it's direction,
-cold day, warm heart,
-object of affection,
-my darkside, love affair,
-come to my protection,
-midnight's on the way,
-i'm losing my connection.
-let's levitate over the horizon,
-i can see it in your eyes,
-everythin' you're hidin'
-i can see the truth in you,
-even when you're lyin'
-even through the darkness,
-i wanna see you shinin'
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
-well it's midnight, and it's colder,
-pull you closer, i can see you through.
-when it's sunshine, and it's solar,
-and it's over, guess it's me and you.
+(dp1
+Vaffair
+p2
+I2
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I3
+sVmidnight
+p5
+I7
+sVthrough
+p6
+I7
+sVcold
+p7
+I2
+sVhate
+p8
+I2
+sVaint
+p9
+I1
+sVseems
+p10
+I1
+sVlyin
+p11
+I2
+sVlets
+p12
+I2
+sVlifts
+p13
+I1
+sVsong
+p14
+I1
+sVcouple
+p15
+I1
+sVsunny
+p16
+I1
+sVpuzzles
+p17
+I1
+sVevery
+p18
+I2
+sVdarkside
+p19
+I2
+sVbackground
+p20
+I1
+sVtrouble
+p21
+I2
+sVnow
+p22
+I1
+sVday
+p23
+I2
+sVapart
+p24
+I1
+sVtruth
+p25
+I2
+sVcolder
+p26
+I7
+sVsee
+p27
+I13
+sVshinin
+p28
+I2
+sVplayin
+p29
+I1
+sVlevitate
+p30
+I2
+sVmakers
+p31
+I1
+sVsunrise
+p32
+I1
+sVeven
+p33
+I4
+sVdarkness
+p34
+I2
+sVsun
+p35
+I4
+sVever
+p36
+I2
+sVobject
+p37
+I1
+sVlupe
+p38
+I1
+sVprotection
+p39
+I1
+sVcomplicated
+p40
+I1
+sVlosing
+p41
+I2
+sVcome
+p42
+I1
+sVtaking
+p43
+I1
+sVconnection
+p44
+I1
+sVhorizon
+p45
+I2
+sVlove
+p46
+I7
+sVprisoners
+p47
+I1
+sVsimplified
+p48
+I1
+sVwan
+p49
+I1
+sVguess
+p50
+I7
+sVundiscovered
+p51
+I1
+sVway
+p52
+I2
+sVtime
+p53
+I1
+sVtell
+p54
+I1
+sVlisten
+p55
+I1
+sVtryna
+p56
+I1
+sVeyes
+p57
+I2
+sVsunshine
+p58
+I7
+sVpart
+p59
+I1
+sVsolar
+p60
+I10
+sVkaraoke
+p61
+I1
+sVmeanin
+p62
+I1
+sVpull
+p63
+I7
+sVrush
+p64
+I1
+sVdouble
+p65
+I1
+sVup
+p66
+I1
+sVhidin
+p67
+I2
+sVlisteners
+p68
+I1
+sVmidnights
+p69
+I1
+sVmaking
+p70
+I1
+sVfeeling
+p71
+I1
+sVaffection
+p72
+I1
+sVheart
+p73
+I2
+sVfigure
+p74
+I1
+sVplayed
+p75
+I1
+sVdescribe
+p76
+I1
+sVdirection
+p77
+I1
+sVmayhem
+p78
+I1
+sVcant
+p79
+I1
+sVim
+p80
+I1
+sVheartbreak
+p81
+I1
+sVna
+p82
+I1
+sVtil
+p83
+I1
+sVother
+p84
+I1
+sVsick
+p85
+I1
+sVyou
+p86
+I11
+sVcloser
+p87
+I7
+sVused
+p88
+I1
+sVmother
+p89
+I1
+sVmidnite
+p90
+I2
+sVblood
+p91
+I4
+sVletter
+p92
+I1
+sVbreak
+p93
+I1
+sVlight
+p94
+I4
+sVyoure
+p95
+I4
+sVwell
+p96
+I7
+sVnothin
+p97
+I1
+sVwarm
+p98
+I1
+sVfiasco
+p99
+I1
+sVeverythin
+p100
+I2
+s.

@@ -1,72 +1,563 @@
-"love sick" lyrics
-gang starr lyrics
-"love sick"
-strangely enough i've been struck
-affected by her smile
-and yo, her style is worthwhile
-and knowing that i'm deep like a river
-i feel i should give her
-things that those others can't deliver
-contrary to what i had wished
-it seems that i've been dissed
-but hey, i don't want to miss this
-wonderful opportunity
-my boys they try schoolin' me
-but see i know what i want
-someone who'll be there for the whole nine
-this honey is so fine
-but now she's hung up the line
-upset because i told her i'm busy
-she made like a grizzly
-and started chewin' my head off
-screamin' that i spend more time with friends
-and also, she said i ruined her weekend
-i said "i know the stuff we had planned
-but please understand
-right now i'm loungin' with my man"
-i guess i didn't realize i'd hurt her
-she said i had the nerve to
-just neglect her like that
-then she started bringing up past things
-and she kept asking
-how come our love isn't lasting
-i said, "hey baby, please calm down
-cuz i'm still around
-and it's for you that my heart pounds
-can i call you later on?
-you say i treat you wrong?
-but why you flippin' on me?"
-she said something else and then click
-left me alone on the phone with the tone
-and now i'm lovesick
-relationships can grip with the pain
-arguments in the crib, in the streets, on the train
-i'm crazy fed but then still
-when she ain't there i feel sad, i feel ill
-frowning cuz i'm down in the dumps
-the other night i took her out
-so she could shake her rump
-but after we were there for a few
-some girls that i knew
-stepped up and asked me to come to
-a party they were havin' at their house
-i looked at my girl, and yo, she started walkin' out
-i said "hey love, just wait for a second
-and won't you just check it?
-it's all a part of makin' records
-those were just some friends in the business
-no need to get angry
-so listen up while i kick this
-and what about the things we discussed
-about havin' trust?
-what's all this attitude stuff?
-now hon, you know that i wouldn't play you
-but time after time, you let your jealousy sway you
-hey don't you turn your back like that
-come on, this is wack
-you're heated up like a thermostat"
-then she stepped off in a whirlwind
-and i don't know when
-or if i'm gonna see her again
-i coulda sworn she was the right one to pick
-but now...man i'm just lovesick
+(dp1
+Vlyrics
+p2
+I2
+sVisnt
+p3
+I1
+sVgang
+p4
+I1
+sVshake
+p5
+I1
+sVtone
+p6
+I1
+sVstill
+p7
+I2
+sVfine
+p8
+I1
+sVthermostat
+p9
+I1
+sVrelationships
+p10
+I1
+sVstyle
+p11
+I1
+sVbusy
+p12
+I1
+sVseems
+p13
+I1
+sVcuz
+p14
+I2
+sVto
+p15
+I2
+sVsmile
+p16
+I1
+sVstruck
+p17
+I1
+sVsway
+p18
+I1
+sVkick
+p19
+I1
+sVgrip
+p20
+I1
+sVsomeone
+p21
+I1
+sVwished
+p22
+I1
+sVaround
+p23
+I1
+sVyo
+p24
+I2
+sVget
+p25
+I1
+sVfrowning
+p26
+I1
+sVrecords
+p27
+I1
+sVknow
+p28
+I4
+sVbringing
+p29
+I1
+sVrealize
+p30
+I1
+sVwont
+p31
+I1
+sVlike
+p32
+I5
+sVpounds
+p33
+I1
+sVschoolin
+p34
+I1
+sVgrizzly
+p35
+I1
+sVattitude
+p36
+I1
+sVtry
+p37
+I1
+sVstuff
+p38
+I2
+sVnight
+p39
+I1
+sVhung
+p40
+I1
+sVriver
+p41
+I1
+sVlasting
+p42
+I1
+sVright
+p43
+I2
+sVhouse
+p44
+I1
+sVstreets
+p45
+I1
+sVback
+p46
+I1
+sVpast
+p47
+I1
+sVsee
+p48
+I2
+sVshes
+p49
+I1
+sVgirl
+p50
+I1
+sVclick
+p51
+I1
+sVout
+p52
+I2
+sVdumps
+p53
+I1
+sVsaid
+p54
+I6
+sVplease
+p55
+I2
+sVenough
+p56
+I1
+sVasking
+p57
+I1
+sVwhats
+p58
+I1
+sVnine
+p59
+I1
+sVtold
+p60
+I1
+sVknowing
+p61
+I1
+sVaint
+p62
+I1
+sVnowman
+p63
+I1
+sVbusiness
+p64
+I1
+sVcoulda
+p65
+I1
+sVdeliver
+p66
+I1
+sVfed
+p67
+I1
+sVlet
+p68
+I1
+sVothers
+p69
+I1
+sValone
+p70
+I1
+sVcome
+p71
+I3
+sVwait
+p72
+I1
+sVon
+p73
+I1
+sVwouldnt
+p74
+I1
+sVill
+p75
+I1
+sVwhirlwind
+p76
+I1
+sVdiscussed
+p77
+I1
+sVscreamin
+p78
+I1
+sVwalkin
+p79
+I1
+sVturn
+p80
+I1
+sVplanned
+p81
+I1
+sVyou
+p82
+I2
+sVwack
+p83
+I1
+sVwhole
+p84
+I1
+sVneglect
+p85
+I1
+sVnerve
+p86
+I1
+sVlove
+p87
+I4
+sVdont
+p88
+I3
+sVheart
+p89
+I1
+sVfeel
+p90
+I3
+sVjealousy
+p91
+I1
+sVmakin
+p92
+I1
+sVcrib
+p93
+I1
+sVone
+p94
+I1
+sVdown
+p95
+I1
+sVna
+p96
+I1
+sVheated
+p97
+I1
+sVchewin
+p98
+I1
+sVtrust
+p99
+I1
+sVmiss
+p100
+I1
+sVsecond
+p101
+I1
+sVstrangely
+p102
+I1
+sVguess
+p103
+I1
+sVher
+p104
+I2
+sVhavin
+p105
+I2
+sVfriends
+p106
+I2
+sVangry
+p107
+I1
+sVgirls
+p108
+I1
+sVhey
+p109
+I4
+sVfew
+p110
+I1
+sVwonderful
+p111
+I1
+sVcall
+p112
+I1
+sVcalm
+p113
+I1
+sVstarr
+p114
+I1
+sVrump
+p115
+I1
+sVlovesick
+p116
+I2
+sVtreat
+p117
+I1
+sVhead
+p118
+I1
+sVthat
+p119
+I2
+sVstarted
+p120
+I3
+sVtook
+p121
+I1
+sVhurt
+p122
+I1
+sVboys
+p123
+I1
+sVtrain
+p124
+I1
+sVunderstand
+p125
+I1
+sVbaby
+p126
+I1
+sVkept
+p127
+I1
+sVline
+p128
+I1
+sVme
+p129
+I2
+sVmade
+p130
+I1
+sVthis
+p131
+I2
+sVsay
+p132
+I1
+sVruined
+p133
+I1
+sVdissed
+p134
+I1
+sVcontrary
+p135
+I1
+sVlisten
+p136
+I1
+sVdidnt
+p137
+I1
+sVcould
+p138
+I1
+sVpick
+p139
+I1
+sVive
+p140
+I2
+sVcrazy
+p141
+I1
+sVyoure
+p142
+I1
+sVworthwhile
+p143
+I1
+sVgive
+p144
+I1
+sVit
+p145
+I1
+sVdeep
+p146
+I1
+sVsad
+p147
+I1
+sVhoney
+p148
+I1
+sVcant
+p149
+I1
+sVim
+p150
+I9
+sVsomething
+p151
+I1
+sVwant
+p152
+I2
+sVneed
+p153
+I1
+sVaffected
+p154
+I1
+sVid
+p155
+I1
+sVagain
+p156
+I1
+sVhon
+p157
+I1
+sVthings
+p158
+I3
+sVwhen
+p159
+I1
+sVcheck
+p160
+I1
+sValso
+p161
+I1
+sVarguments
+p162
+I1
+sVsick
+p163
+I2
+sVparty
+p164
+I1
+sVstepped
+p165
+I2
+sVsworn
+p166
+I1
+sVwholl
+p167
+I1
+sVplay
+p168
+I1
+sVpain
+p169
+I1
+sVloungin
+p170
+I1
+sVknew
+p171
+I1
+sVwrong
+p172
+I1
+sVgon
+p173
+I1
+sVelse
+p174
+I1
+sVweekend
+p175
+I1
+sVman
+p176
+I1
+sVoff
+p177
+I1
+sVphone
+p178
+I1
+sVlater
+p179
+I1
+sVupset
+p180
+I1
+sVasked
+p181
+I1
+sVlooked
+p182
+I1
+sVflippin
+p183
+I1
+sVpart
+p184
+I1
+sVtime
+p185
+I3
+sVopportunity
+p186
+I1
+sVspend
+p187
+I1
+sVleft
+p188
+I1
+s.

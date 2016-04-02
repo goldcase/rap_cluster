@@ -1,75 +1,682 @@
-"p.i.m.p. (g-unit remix)" lyrics
-50 cent lyrics
-"p.i.m.p. (g-unit remix)"
-(feat. snoop dogg, g-unit)
-i don't know what you heard about me
-but a bitch can't get a dollar outta me
-no cadillac, no perms, you can't see
-that i'm a motherfuckin' p.i.m.p.
-now shorty, she in the club, she dancin' for dollars
-she got a thing for that gucci, that fendi, that prada
-that bcbg, burberry, dolce & gabbana
-she's feeding fools fantasies, they pay her cause they want her
-i spit a little g man and my game got her
-a hour later have that ass up in the ramada
-them trick niggaz in they ear sayin' they think about her
-i got the bitch by the bar tryin' to get a drink up out her
-she like my style, she like my smile, she like the way i talk
-she from the country, she like me cause i'm from new york
-i ain't that nigga trying to holla cause i want some head
-i'm that nigga tryin' to holla cause i want some bread
-i could care less how she perform when she in the bed
-bitch hit the track, catch a date, and come pay the kid
-look baby, this is simple you can't see
-you fuckin' with me you fuckin' with a p.i.m.p.
-g (what?)
-g (what?)
-g (what?)
-g (what?)
-g (what?)
-g (what?)
-g (what?)
-unit (what?)
-f-i-f-t-y c-e-n-t and s-n double o-p
-doggy style in ya mouth for the 2003
-and y'all know i'm from the dpg
-f-i-f-t-y c-e-n-t and s-n double o-p
-we internationally known and locally respected
-(and you know you're just a p.i.m.p) now what you know about me
-yeah bitch i got my now and later gators on
-i'm bout to show you how my pimp hand is way strong
-your dead wrong if ya think that pimpin' gon' die
-twelve piece with a hundred hoes by my side
-i'm down with that nigga fifty like i down with blue
-(we love you snoop dogg)
-g-u-n-i-tizzy, fuckin' with me and the d-p-gizzy
-niggaz in new york know how doggy get down
-i got my niggaz in queens, i got my bitches uptown
-i got my business in manhattan, i ain't fuckin' around
-i got some butter pecan, puerto ricans from the boogie down (down)
-that's waitin' on me to return
-so they can snatch these braids out and put my hair in a perm, word
-they love it when i get to crippin'
-and spittin' this mag-ah-ni-ficent pimpin
-you need to switch over and ride with a star
-it'll get you far
-i'm a p-i-m-p g-a-n-g-s-t-e-r
-yeah, i'm young, but i ain't dumb
-got some tricks, but i ain't one
-i'm a guerrilla for scrilla, i trip you, you try to run
-i let em' do as they please, as long as they get my cheese
-even if they gotta freeze, or if it's a hundred degrees
-i keep em' on they knees, take a look under my sleeve
-i ain't gotta give em' much, they happy with mickey d's, pimp
-we keep it pimpin' in the south, you know how it go (dirty, dirty)
-we drive old school white walls with mink clothes
-i spin the g-unit piece, and get em' dizzy
-man cough up your love, or you're girl comin' with me
-when your neck and wrist glow, she already should know
-that money make the world go round, so lets get mo'
-its time to show these playas how it should be done
-you got pimp potential, you're might could be one, g-unit
-in hollywood, they say there's no b'ness like show b'ness
-in the hood, they say, there's no b'ness like ho b'ness
-you know, they say i talk a lil' fast, but if you listen a lil' faster
-i ain't got to slow down for you to catch up, bitch
+(dp1
+Vlyrics
+p2
+I2
+sVless
+p3
+I1
+sVmoney
+p4
+I1
+sVdollar
+p5
+I1
+sVfifty
+p6
+I3
+sVbaby
+p7
+I1
+sValready
+p8
+I1
+sVworld
+p9
+I1
+sVgo
+p10
+I2
+sVfeat
+p11
+I1
+sVaint
+p12
+I6
+sVstyle
+p13
+I2
+sVfeeding
+p14
+I1
+sVsayin
+p15
+I1
+sVinternationally
+p16
+I1
+sVguerrilla
+p17
+I1
+sVdancin
+p18
+I1
+sVyoung
+p19
+I1
+sVlets
+p20
+I1
+sVpotential
+p21
+I1
+sVdegrees
+p22
+I1
+sVsmile
+p23
+I1
+sVbout
+p24
+I1
+sVmight
+p25
+I1
+sVround
+p26
+I1
+sVta
+p27
+I2
+sVhit
+p28
+I1
+sVaround
+p29
+I1
+sVget
+p30
+I8
+sVya
+p31
+I2
+sVfast
+p32
+I1
+sVscrilla
+p33
+I1
+sVgame
+p34
+I1
+sVspittin
+p35
+I1
+sVknow
+p36
+I8
+sVnew
+p37
+I2
+sVword
+p38
+I1
+sVds
+p39
+I1
+sVbread
+p40
+I1
+sVschool
+p41
+I1
+sVbar
+p42
+I1
+sVlike
+p43
+I7
+sVpimp
+p44
+I9
+sVdie
+p45
+I1
+sV50
+p46
+I1
+sVdpg
+p47
+I1
+sVmo
+p48
+I1
+sVside
+p49
+I1
+sVyall
+p50
+I1
+sVclothes
+p51
+I1
+sVem
+p52
+I4
+sVtwelve
+p53
+I1
+sVnigga
+p54
+I3
+sVold
+p55
+I1
+sVqueens
+p56
+I1
+sVhundred
+p57
+I2
+sVyeah
+p58
+I2
+sVdead
+p59
+I1
+sVfreeze
+p60
+I1
+sVhair
+p61
+I1
+sVgangster
+p62
+I1
+sVsee
+p63
+I2
+sVdumb
+p64
+I1
+sVniggaz
+p65
+I3
+sVhoes
+p66
+I1
+sVrun
+p67
+I1
+sVgirl
+p68
+I1
+sVsleeve
+p69
+I1
+sVblue
+p70
+I1
+sVtry
+p71
+I1
+sVwhat
+p72
+I8
+sVgon
+p73
+I1
+sVear
+p74
+I1
+sVboogie
+p75
+I1
+sVplease
+p76
+I1
+sVfantasies
+p77
+I1
+sVhood
+p78
+I1
+sVprada
+p79
+I1
+sVgot
+p80
+I13
+sVdoggy
+p81
+I2
+sVcause
+p82
+I4
+sVass
+p83
+I1
+sVdolce
+p84
+I1
+sVbusiness
+p85
+I1
+sVglow
+p86
+I1
+sVslow
+p87
+I1
+sVlet
+p88
+I1
+sVyork
+p89
+I2
+sVgunit
+p90
+I5
+sVstrong
+p91
+I1
+sVcome
+p92
+I1
+sVmagahnificent
+p93
+I1
+sVcare
+p94
+I1
+sVon
+p95
+I1
+sVher
+p96
+I4
+sVg
+I8
+sVcountry
+p97
+I1
+sVdollars
+p98
+I1
+sVkeep
+p99
+I2
+sVthing
+p100
+I1
+sVwrist
+p101
+I1
+sVtheres
+p102
+I2
+sVthink
+p103
+I2
+sVfuckin
+p104
+I4
+sVop
+p105
+I2
+sVcheese
+p106
+I1
+sVitll
+p107
+I1
+sVlove
+p108
+I3
+sVdont
+p109
+I1
+sVsimple
+p110
+I1
+sVone
+p111
+I2
+sVdown
+p112
+I2
+sVput
+p113
+I1
+sVmink
+p114
+I1
+sVdone
+p115
+I1
+sVbitch
+p116
+I5
+sVcomin
+p117
+I1
+sVuptown
+p118
+I1
+sVunit
+p119
+I1
+sVtake
+p120
+I1
+sVlittle
+p121
+I1
+sVlong
+p122
+I1
+sVsnoop
+p123
+I2
+sVdogg
+p124
+I2
+sVlocally
+p125
+I1
+sVcent
+p126
+I3
+sVmuch
+p127
+I1
+sVway
+p128
+I2
+sVshow
+p129
+I3
+sVgabbana
+p130
+I1
+sVwhite
+p131
+I1
+sVkid
+p132
+I1
+sVhappy
+p133
+I1
+sVbutter
+p134
+I1
+sVhead
+p135
+I1
+sVpimpin
+p136
+I3
+sVspit
+p137
+I1
+sVclub
+p138
+I1
+sVbitches
+p139
+I1
+sVshorty
+p140
+I1
+sVsnatch
+p141
+I1
+sVlil
+p142
+I2
+sVpecan
+p143
+I1
+sVho
+p144
+I1
+sVpuerto
+p145
+I1
+sVcatch
+p146
+I2
+sVtrying
+p147
+I1
+sVspin
+p148
+I1
+sVhollywood
+p149
+I1
+sVgunitizzy
+p150
+I1
+sVfaster
+p151
+I1
+sVme
+p152
+I4
+sVtryin
+p153
+I2
+sVbcbg
+p154
+I1
+sVlook
+p155
+I2
+sVhour
+p156
+I1
+sVricans
+p157
+I1
+sVdouble
+p158
+I2
+sVride
+p159
+I1
+sVsay
+p160
+I3
+sVbed
+p161
+I1
+sVtrick
+p162
+I1
+sVcough
+p163
+I1
+sVgucci
+p164
+I1
+sVdirty
+p165
+I2
+sVpiece
+p166
+I2
+sVcould
+p167
+I2
+sVshes
+p168
+I1
+sVmickey
+p169
+I1
+sVburberry
+p170
+I1
+sVyoure
+p171
+I3
+sVoutta
+p172
+I1
+sVgive
+p173
+I1
+sVperms
+p174
+I1
+sVrespected
+p175
+I1
+sVheard
+p176
+I1
+sVcant
+p177
+I3
+sVdizzy
+p178
+I1
+sVim
+p179
+I9
+sVwant
+p180
+I3
+sVneed
+p181
+I1
+sVreturn
+p182
+I1
+sVsouth
+p183
+I1
+sVtrip
+p184
+I1
+sVholla
+p185
+I2
+sVperform
+p186
+I1
+sVpay
+p187
+I2
+sVmake
+p188
+I1
+sVswitch
+p189
+I1
+sVlisten
+p190
+I1
+sVbraids
+p191
+I1
+sVfar
+p192
+I1
+sVperm
+p193
+I1
+sVmotherfuckin
+p194
+I1
+sVtricks
+p195
+I1
+sVfools
+p196
+I1
+sVmanhattan
+p197
+I1
+sVwaitin
+p198
+I1
+sVeven
+p199
+I1
+sVfendi
+p200
+I1
+sVstar
+p201
+I1
+sVknees
+p202
+I1
+sVtrack
+p203
+I1
+sVcadillac
+p204
+I1
+sVramada
+p205
+I1
+sVdrink
+p206
+I1
+sVhand
+p207
+I1
+sVwrong
+p208
+I1
+sVmouth
+p209
+I1
+sVdate
+p210
+I1
+sVman
+p211
+I2
+sVknown
+p212
+I1
+sVremix
+p213
+I2
+sVneck
+p214
+I1
+sVcrippin
+p215
+I1
+sVlater
+p216
+I2
+sVplayas
+p217
+I1
+sVdrive
+p218
+I1
+sVwalls
+p219
+I1
+sVgators
+p220
+I1
+sV2003
+p221
+I1
+sVdpgizzy
+p222
+I1
+sVsn
+p223
+I2
+sVtime
+p224
+I1
+sVbness
+p225
+I4
+sVthats
+p226
+I1
+sVtalk
+p227
+I2
+s.

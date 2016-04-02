@@ -1,69 +1,598 @@
-"gangsta" lyrics
-scarface lyrics
-"gangsta"
-(feat. trick daddy)
-and the winner is, trick diesel
-facemob
-my nigga baby, ha ha
-gangsta, gangsta, gangsta
-you know me, 't' double, you know i'm a g
-cuz i keeps it gangsta, gangsta, gangsta
-gangsta, gangsta than a motherfucker
-but it was like you, you a pussy nigga
-but i keeps it gangsta, gangsta, gangsta
-gangsta, gangsta than a motherfucker
-went to a eight ball from a dime piece
-ship dat, flip dat, bought a nine piece in five weeks
-shit lookin' good but i think slammin'
-me and my dawg passed up bought a block and a half
-sellin' o's or betta clockin a fag
-bout four, five slugs and we was bustin' they ass
-gotta keep my bread in a safe place
-we up with my hitchens in undisclosed locations
-hey yo i got the llello, you got the money
-try nothin' funny and i don't buy dummies
-every ounce betta bounce back
-and every brick that i break up
-it all betta flake up
-and when that shit hit the waters
-shit go to ballin'
-that dope all betta fall in
-i bought coke back on 84
-back when wood used to get them bricks from the birdo
-and when i hit him i want to hurt him
-and on cutlass i wanna hit it
-they ass gon' feel it
-ay, ay, ay, ay
-it's the kid wit the bricks taped up in the grill
-mmmm hmmmm cadillac that is
-wit that rag top bubbly e class burnin' rubber
-you the number 1 stunna ma show a lil somthin'
-ay, ay roll a lil somethin'
-mmmm hmmmm blow a lil somethin'
-i got them thangs for a lil nothin'
-if you got a lil money i'ma throw a lil somethin'
-bump this nigga
-mmmm hmmmm fuck you nigga
-we aint from 'round here dumpin' on niggas
-but ay trick daddy battle up for this nigga
-well let me get to my hustle (hustle)
-i got bricks, grams, and bundles (bundles)
-i got ki's in the muffler
-birdman daddy cmb motherfucker
-face mob, right back at ya
-with o's like cookies i flip like spatulas
-99.9 of the time i'm on the grind
-bricked up and breakin' em down
-i got to admit the dope game gravy
-3 zippers balled up you bring back 80
-you learn to swell you might see double
-remember you can't sell bubble
-so here it is fool
-i play the game where its no rules
-givin' you lessons from the old school
-you don't get high off your own supply
-and when a motherfucker cross you make sure he die
-make the next man know he got to think about the payback
-this shit go deeper than me rapping or me say that
-ask my nigga trick daddy, ask my nigga baby
-been like that since the early 80's
+(dp1
+Vbirdo
+p2
+I1
+sVsince
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoney
+p6
+I2
+sVhalf
+p7
+I1
+sVfour
+p8
+I1
+sVbring
+p9
+I1
+sVgo
+p10
+I2
+sVfeat
+p11
+I1
+sVdummies
+p12
+I1
+sVblow
+p13
+I1
+sV1
+I1
+sVgivin
+p14
+I1
+sVwinner
+p15
+I1
+sVcuz
+p16
+I1
+sVhim
+p17
+I1
+sVfeel
+p18
+I1
+sVballed
+p19
+I1
+sVwood
+p20
+I1
+sVstunna
+p21
+I1
+sVbout
+p22
+I1
+sVmight
+p23
+I1
+sVsure
+p24
+I1
+sVta
+p25
+I1
+sVfool
+p26
+I1
+sVgood
+p27
+I1
+sVhit
+p28
+I3
+sVyo
+p29
+I1
+sVget
+p30
+I3
+sVya
+p31
+I1
+sVdope
+p32
+I2
+sVsafe
+p33
+I1
+sVundisclosed
+p34
+I1
+sVdat
+p35
+I2
+sVgame
+p36
+I2
+sVevery
+p37
+I2
+sVknow
+p38
+I3
+sVfall
+p39
+I1
+sVpayback
+p40
+I1
+sVmob
+p41
+I1
+sVfag
+p42
+I1
+sVbread
+p43
+I1
+sVschool
+p44
+I1
+sVlike
+p45
+I4
+sVdie
+p46
+I1
+sVbetta
+p47
+I4
+sVtry
+p48
+I1
+sVwent
+p49
+I1
+sVhustle
+p50
+I2
+sVround
+p51
+I1
+sVem
+p52
+I1
+sVcookies
+p53
+I1
+sVnigga
+p54
+I7
+sVold
+p55
+I1
+sVbump
+p56
+I1
+sVback
+p57
+I5
+sVbounce
+p58
+I1
+sVflip
+p59
+I2
+sVbattle
+p60
+I1
+sVsee
+p61
+I1
+sVdawg
+p62
+I1
+sV80
+p63
+I1
+sV84
+p64
+I1
+sVgon
+p65
+I1
+sVrapping
+p66
+I1
+sVdaddy
+p67
+I4
+sVdiesel
+p68
+I1
+sV3
+I1
+sVit
+p69
+I2
+sVgot
+p70
+I9
+sVslugs
+p71
+I1
+sVbought
+p72
+I3
+sVass
+p73
+I2
+sVima
+p74
+I1
+sVright
+p75
+I1
+sVmotherfucker
+p76
+I4
+sV999
+p77
+I1
+sVlet
+p78
+I1
+sVhmmmm
+p79
+I3
+sVfuck
+p80
+I1
+sVslammin
+p81
+I1
+sVthrow
+p82
+I1
+sVswell
+p83
+I1
+sVweeks
+p84
+I1
+sVg
+I1
+sVsomthin
+p85
+I1
+sVbreakin
+p86
+I1
+sVflake
+p87
+I1
+sVkeep
+p88
+I1
+sVbirdman
+p89
+I1
+sVtaped
+p90
+I1
+sVadmit
+p91
+I1
+sVounce
+p92
+I1
+sVplace
+p93
+I1
+sVlookin
+p94
+I1
+sVos
+p95
+I2
+sVthink
+p96
+I2
+sVblock
+p97
+I1
+sVcutlass
+p98
+I1
+sVdont
+p99
+I2
+sVsupply
+p100
+I1
+sVbricks
+p101
+I3
+sVpussy
+p102
+I1
+sVnumber
+p103
+I1
+sVdown
+p104
+I1
+sVask
+p105
+I2
+sVwit
+p106
+I2
+sVearly
+p107
+I1
+sVballin
+p108
+I1
+sVbubbly
+p109
+I1
+sVwan
+p110
+I1
+sVhitchens
+p111
+I1
+sVaint
+p112
+I1
+sVtop
+p113
+I1
+sVbricked
+p114
+I1
+sVbundles
+p115
+I2
+sVhey
+p116
+I1
+sVnext
+p117
+I1
+sVpassed
+p118
+I1
+sVbrick
+p119
+I1
+sVman
+p120
+I1
+sVbubble
+p121
+I1
+sVbuy
+p122
+I1
+sVdeeper
+p123
+I1
+sVsomethin
+p124
+I3
+sVcoke
+p125
+I1
+sVhurt
+p126
+I1
+sVmmmm
+p127
+I3
+sVbaby
+p128
+I2
+sVha
+p129
+I2
+sVgangsta
+p130
+I15
+sVremember
+p131
+I1
+sVplay
+p132
+I1
+sVgrill
+p133
+I1
+sVma
+p134
+I1
+sVdumpin
+p135
+I1
+sVniggas
+p136
+I1
+sVdouble
+p137
+I2
+sVup
+p138
+I2
+sVtrick
+p139
+I4
+sVnine
+p140
+I1
+sVlearn
+p141
+I1
+sVim
+p142
+I2
+sVzippers
+p143
+I1
+sVpiece
+p144
+I2
+sVsay
+p145
+I1
+sVrag
+p146
+I1
+sVclockin
+p147
+I1
+sVis
+p148
+I1
+sVlocations
+p149
+I1
+sVhigh
+p150
+I1
+sVcant
+p151
+I1
+sVscarface
+p152
+I1
+sVwant
+p153
+I1
+sVin
+p154
+I1
+sVay
+p155
+I7
+sVship
+p156
+I1
+sVgrind
+p157
+I1
+sVshit
+p158
+I4
+sVsell
+p159
+I1
+sVfunny
+p160
+I1
+sVfacemob
+p161
+I1
+sVsellin
+p162
+I1
+sVlil
+p163
+I6
+sVna
+p164
+I1
+sVmake
+p165
+I2
+sVthat
+p166
+I1
+sVcross
+p167
+I1
+sVrubber
+p168
+I1
+sVrules
+p169
+I1
+sV80s
+p170
+I1
+sVspatulas
+p171
+I1
+sVroll
+p172
+I1
+sVllello
+p173
+I1
+sVgravy
+p174
+I1
+sVball
+p175
+I1
+sVdime
+p176
+I1
+sVkis
+p177
+I1
+sVcadillac
+p178
+I1
+sVwaters
+p179
+I1
+sVtime
+p180
+I1
+sVcmb
+p181
+I1
+sVeight
+p182
+I1
+sVmuffler
+p183
+I1
+sVburnin
+p184
+I1
+sVclass
+p185
+I1
+sVkid
+p186
+I1
+sVbreak
+p187
+I1
+sVe
+I1
+sVgrams
+p188
+I1
+sVlessons
+p189
+I1
+sVwell
+p190
+I1
+sVbustin
+p191
+I1
+sVnothin
+p192
+I2
+sVface
+p193
+I1
+sVthangs
+p194
+I1
+sVused
+p195
+I1
+sVkeeps
+p196
+I2
+sVfive
+p197
+I2
+s.

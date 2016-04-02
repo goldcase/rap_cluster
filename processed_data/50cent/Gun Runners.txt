@@ -1,51 +1,465 @@
-"gun runners" lyrics
-50 cent lyrics
-"gun runners"
-aww man...who the fuck is callin'?..
-i don't even wanna answer this shit...hello?
-whattup nigga it's black
-remember me from way back?
-we used to go to school together
-man, i got your number from heather
-she said you sell guns, i got beef i wanna see what you got
-and if i like it i'll cop
-damm nigga, you hot
-you talkin' like you tryin' to get a nigga knocked
-what time is it? man, it's fuckin' 4 o'clock
-i shouldn't sell you shit, but son, meet me on the block
-i ain't got time to waste man, where this nigga at?
-i'm in the brown hooptie, there he go, i see 'em
-pullin' up slow in the bm
-i popped my trunk to show him what i'm workin' wit',
-first i showed him the teck
-i told him niggas give these shits respect
-but you don't want this, man
-these shits is known to jam
-this is a little smaller here,
-and a little more common, 9 millimeter ruger
-16 shots, hollow points will go through ya
-and this? this here? this is a 12 gauge mossburg kid,
-two shots and you can wet like half a block
-this shit here gets my dick hard,
-it's a calicko, it holds a hundred shots
-if you can't kill your beef with this you need to stop
-c'mon, pick somethin' now nigga, you know it's hot
-man, stop actin' like that nigga, just show me what you got
-aight, nigga look, i got two 380's,
-one black, one chrome, and 4 glocks
-they all hold 21 shots
-look, i done been through all my shit nigga,
-so tell me what you want
-(click clack)
-it's hard to choose man, i think i'll take 'em all
-oh, you gon' do me like that?
-i got one more piece to show you, my deringer,
-i keep it in the small of my back
-it's a two shot, it's chrome, my initials engraved in it
-look at you now, you had to get it
-your bm? i'm takin' it, shit, you don't need it
-park it where i can watch it at and see if it got low jack
-then take it to the chop shop to my man kojak
-he gon' give me more cream so i can cop mo' gats
-joe and duke came through, them niggas copped two tecks
-said "don't go by the gamblin' spot, that shit gon' get wet".
+(dp1
+Vshop
+p2
+I1
+sVwhattup
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I3
+sVall
+p7
+I1
+sVgauge
+p8
+I1
+sVgo
+p9
+I4
+sVruger
+p10
+I1
+sVtakin
+p11
+I1
+sVaint
+p12
+I1
+sVslow
+p13
+I1
+sV21
+p14
+I1
+sVdick
+p15
+I1
+sVoclock
+p16
+I1
+sVjam
+p17
+I1
+sVblack
+p18
+I2
+sV4
+I2
+sVwet
+p19
+I2
+sVtake
+p20
+I2
+sVbrown
+p21
+I1
+sVcallin
+p22
+I1
+sVworkin
+p23
+I1
+sVget
+p24
+I3
+sVya
+p25
+I1
+sVstop
+p26
+I2
+sVanswer
+p27
+I1
+sV12
+p28
+I1
+sVknow
+p29
+I1
+sVkid
+p30
+I1
+sVhalf
+p31
+I1
+sVmossburg
+p32
+I1
+sVson
+p33
+I1
+sVrunners
+p34
+I2
+sVschool
+p35
+I1
+sVlike
+p36
+I5
+sV16
+p37
+I1
+sV50
+p38
+I1
+sVwit
+p39
+I1
+sVcommon
+p40
+I1
+sVshots
+p41
+I4
+sVsmall
+p42
+I1
+sVkill
+p43
+I1
+sVhooptie
+p44
+I1
+sVengraved
+p45
+I1
+sVem
+p46
+I2
+sVnigga
+p47
+I8
+sVhundred
+p48
+I1
+sVhard
+p49
+I2
+sVback
+p50
+I2
+sVgun
+p51
+I2
+sVsee
+p52
+I3
+sVshouldnt
+p53
+I1
+sVclick
+p54
+I1
+sVeven
+p55
+I1
+sVsaid
+p56
+I2
+sVgot
+p57
+I8
+sVguns
+p58
+I1
+sVtold
+p59
+I1
+sVderinger
+p60
+I1
+sVbm
+p61
+I2
+sVaight
+p62
+I1
+sVjoe
+p63
+I1
+sVtrunk
+p64
+I1
+sVcop
+p65
+I2
+sVshithello
+p66
+I1
+sVoh
+p67
+I1
+sVill
+p68
+I2
+sVkeep
+p69
+I1
+sVchop
+p70
+I1
+sVpick
+p71
+I1
+sVpullin
+p72
+I1
+sVthink
+p73
+I1
+sVblock
+p74
+I2
+sVfirst
+p75
+I1
+sVduke
+p76
+I1
+sVdont
+p77
+I4
+sVnumber
+p78
+I1
+sVhollow
+p79
+I1
+sVsmaller
+p80
+I1
+sVdone
+p81
+I1
+sVclack
+p82
+I1
+sVcopped
+p83
+I1
+sVrespect
+p84
+I1
+sVwan
+p85
+I2
+sVlittle
+p86
+I2
+sVbeef
+p87
+I2
+sVglocks
+p88
+I1
+sVchrome
+p89
+I2
+sVmanwho
+p90
+I1
+sVtwo
+p91
+I4
+sVcent
+p92
+I1
+sVlow
+p93
+I1
+sVway
+p94
+I1
+sVdamm
+p95
+I1
+sVshits
+p96
+I2
+sVactin
+p97
+I1
+sVwaste
+p98
+I1
+sVtell
+p99
+I1
+sVchoose
+p100
+I1
+sVpopped
+p101
+I1
+sVthat
+p102
+I1
+sVpark
+p103
+I1
+sV380s
+p104
+I1
+sVit
+p105
+I3
+sVknown
+p106
+I1
+sVhold
+p107
+I1
+sVtryin
+p108
+I1
+sVlook
+p109
+I3
+sVshowed
+p110
+I1
+sVniggas
+p111
+I2
+sVmo
+p112
+I1
+sVkojak
+p113
+I1
+sVknocked
+p114
+I1
+sVmeet
+p115
+I1
+sVpiece
+p116
+I1
+sVcmon
+p117
+I1
+sVgive
+p118
+I2
+sVone
+p119
+I3
+sVfuck
+p120
+I1
+sVgamblin
+p121
+I1
+sVcant
+p122
+I1
+sVim
+p123
+I3
+sVwant
+p124
+I2
+sVneed
+p125
+I2
+sVtecks
+p126
+I1
+sVshit
+p127
+I5
+sVcream
+p128
+I1
+sVsell
+p129
+I2
+sVheather
+p130
+I1
+sVna
+p131
+I2
+sVholds
+p132
+I1
+sVgats
+p133
+I1
+sVhot
+p134
+I2
+sVcalicko
+p135
+I1
+sV9
+I1
+sVgets
+p136
+I1
+sVtalkin
+p137
+I1
+sVused
+p138
+I1
+sVaww
+p139
+I1
+sVwatch
+p140
+I1
+sVtime
+p141
+I2
+sVspot
+p142
+I1
+sVmillimeter
+p143
+I1
+sVgon
+p144
+I3
+sVman
+p145
+I7
+sVsomethin
+p146
+I1
+sVremember
+p147
+I1
+sVtogether
+p148
+I1
+sVpoints
+p149
+I1
+sVfuckin
+p150
+I1
+sVteck
+p151
+I1
+sVinitials
+p152
+I1
+sVcame
+p153
+I1
+sVjack
+p154
+I1
+s.

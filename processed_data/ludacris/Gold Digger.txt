@@ -1,63 +1,571 @@
-"gold digger" lyrics
-ludacris lyrics
-"gold digger"
-(feat. bobby v, lil' fate)
-ow! track-stars woo...hey... dtp
-let's go
-she's dangerous,(uh huh) super bad. (ok)
-better watch out she'll take ya cash.
-she's a gold... digger.
-she's dangerous (alright) super bad (uh huh)
-better watch out she'll take ya cash.
-she's a gold... digger
-yeah, shes a money magnet, smell a dollar bill in ya clothes.
-gold digger style from her head to her toes
-you here me saying no don't mess with the stress
-she's out to get ya dough none more none less
-shes lookin' for a prize, man you killing me
-acting like you don't see the dollar signs in her eyes
-she wants her nails done, and her hair too
-plus a diamond necklace, thats all on you
-you still can't see it, yeah you a sucka
-if you do it homeboy man i couldn't be it
-hypnotised by her goodlooks?
-yeah maybe, but a victim for a good crook? nope not me!
-consider yourself worn so you can stay.
-or you can stick to my rhyme and get the heck away!
-either way, go figure, shes a gold digger.
-gettin' close as your bank row grows bigger
-she's dangerous, super bad,
-better watch out she'll take ya cash.
-she's a gold digger..
-she's a gold digger..
-you gotcha way witha beauty
-a treat with a brain
-when she look at you she only see "ching-ching"
-mil around your neck, mil around your arms
-a championship ring, she must be a bowla hard
-she turns on the leader, as soon as you need her
-once you bite the bait, you look mighty thico
-when money talks she ticks like f.b.i
-ready to handcuff the right guy
-look you in the eye, and tell a boldface lie.
-scheming on the way to money yo, well ya tried
-guess its a game now, gotta watch who you trust
-like her because, its only out for your books
-ye sir, shes all about being paid
-at the end of everyday its a fine new grade,
-what more can i say? but the wires up front
-better watch out, she'll leave yah with insuffiant
-she's so physical.
-i say movie stars you better watch your back
-she'll be spending up your cheque
-oh yeah. for the growin... just won't stop
-will be rotting in your eyes
-she's a...gold digga, gold digga, gold digga yeah.
-she's dreaming scheming on a way to get your dough
-she hit the lottery now hit the flow, you just don't know
-because you got got and thats for show
-oh eyah she's a superstar chick
-but don't fool with her unless you got miles of risk
-she's a pimpstress runnin' more game than the olympics
-to cease your assests like the i.r.s
-aha uh uh huh
+(dp1
+Vsaying
+p2
+I1
+sVirs
+p3
+I1
+sVbait
+p4
+I1
+sVconsider
+p5
+I1
+sVgold
+p6
+I10
+sVludacris
+p7
+I1
+sVyah
+p8
+I1
+sVmoney
+p9
+I3
+sVdollar
+p10
+I2
+sVsoon
+p11
+I1
+sVrisk
+p12
+I1
+sVbrain
+p13
+I1
+sVhandcuff
+p14
+I1
+sVdough
+p15
+I2
+sVvictim
+p16
+I1
+sVsigns
+p17
+I1
+sVgo
+p18
+I2
+sVstill
+p19
+I1
+sVfeat
+p20
+I1
+sVrow
+p21
+I1
+sVstyle
+p22
+I1
+sVlyrics
+p23
+I2
+sVless
+p24
+I1
+sVtrackstars
+p25
+I1
+sVeyah
+p26
+I1
+sVbetter
+p27
+I5
+sVlets
+p28
+I1
+sVbigger
+p29
+I1
+sVta
+p30
+I1
+sVfool
+p31
+I1
+sVrunnin
+p32
+I1
+sVgood
+p33
+I1
+sVhit
+p34
+I2
+sVaround
+p35
+I2
+sVfate
+p36
+I1
+sVget
+p37
+I3
+sVya
+p38
+I6
+sVrhyme
+p39
+I1
+sVgame
+p40
+I2
+sVknow
+p41
+I1
+sVnew
+p42
+I1
+sVfront
+p43
+I1
+sVsay
+p44
+I2
+sVfbi
+p45
+I1
+sVdangerousuh
+p46
+I1
+sVbank
+p47
+I1
+sVprize
+p48
+I1
+sVwont
+p49
+I1
+sVlike
+p50
+I4
+sVbobby
+p51
+I1
+sVnope
+p52
+I1
+sVdiamond
+p53
+I1
+sVgettin
+p54
+I1
+sVwitha
+p55
+I1
+sVmagnet
+p56
+I1
+sVbad
+p57
+I3
+sVmiles
+p58
+I1
+sVeither
+p59
+I1
+sVturns
+p60
+I1
+sVchick
+p61
+I1
+sVguy
+p62
+I1
+sVclothes
+p63
+I1
+sVye
+p64
+I1
+sVchingching
+p65
+I1
+sVhard
+p66
+I1
+sVyeah
+p67
+I5
+sVhair
+p68
+I1
+sVcrook
+p69
+I1
+sVsee
+p70
+I3
+sVbooks
+p71
+I1
+sVmighty
+p72
+I1
+sVshes
+p73
+I17
+sVclose
+p74
+I1
+sVbowla
+p75
+I1
+sVring
+p76
+I1
+sVleave
+p77
+I1
+sVfine
+p78
+I1
+sVaway
+p79
+I1
+sVticks
+p80
+I1
+sVacting
+p81
+I1
+sVolympics
+p82
+I1
+sVgot
+p83
+I4
+sVhypnotised
+p84
+I1
+sVgoodlooks
+p85
+I1
+sVleader
+p86
+I1
+sVtoes
+p87
+I1
+sVcease
+p88
+I1
+sVnails
+p89
+I1
+sVkilling
+p90
+I1
+sVscheming
+p91
+I2
+sVlottery
+p92
+I1
+sVsuper
+p93
+I3
+sVok
+p94
+I1
+sVoh
+p95
+I2
+sVheck
+p96
+I1
+sVplus
+p97
+I1
+sVlookin
+p98
+I1
+sVow
+p99
+I1
+sVthats
+p100
+I2
+sVaha
+p101
+I1
+sVdont
+p102
+I4
+sVassests
+p103
+I1
+sVgrade
+p104
+I1
+sVpimpstress
+p105
+I1
+sVgrowin
+p106
+I1
+sVstop
+p107
+I1
+sVright
+p108
+I1
+sVdone
+p109
+I1
+sVdreaming
+p110
+I1
+sVcouldnt
+p111
+I1
+sVtrust
+p112
+I1
+sVthico
+p113
+I1
+sVguess
+p114
+I1
+sVeye
+p115
+I1
+sVher
+p116
+I1
+sVspending
+p117
+I1
+sVbite
+p118
+I1
+sVarms
+p119
+I1
+sVagold
+p120
+I1
+sVtoo
+p121
+I1
+sVway
+p122
+I4
+sVshow
+p123
+I1
+sVtell
+p124
+I1
+sVtreat
+p125
+I1
+sVwants
+p126
+I1
+sVhead
+p127
+I1
+sVshell
+p128
+I5
+sVstars
+p129
+I1
+sVgotcha
+p130
+I1
+sVhuh
+p131
+I3
+sVwires
+p132
+I1
+sVit
+p133
+I1
+sVstick
+p134
+I1
+sVtalks
+p135
+I1
+sVsuperstar
+p136
+I1
+sVdigger
+p137
+I8
+sVmust
+p138
+I1
+sVme
+p139
+I2
+sVnone
+p140
+I2
+sVlook
+p141
+I3
+sVdangerous
+p142
+I2
+sVbill
+p143
+I1
+sVcash
+p144
+I3
+sVworn
+p145
+I1
+sVuh
+p146
+I3
+sVboldface
+p147
+I1
+sVv
+I1
+sVdtp
+p148
+I1
+sVsucka
+p149
+I1
+sVfigure
+p150
+I1
+sVflow
+p151
+I1
+sVeyes
+p152
+I2
+sVinsuffiant
+p153
+I1
+sVready
+p154
+I1
+sVcant
+p155
+I1
+sVwoohey
+p156
+I1
+sVneed
+p157
+I1
+sVeveryday
+p158
+I1
+sVphysical
+p159
+I1
+sVlie
+p160
+I1
+sVend
+p161
+I1
+sVmil
+p162
+I2
+sVlil
+p163
+I1
+sVhomeboy
+p164
+I1
+sVtake
+p165
+I3
+sVdigga
+p166
+I3
+sVyou
+p167
+I1
+sVsmell
+p168
+I1
+sVgrows
+p169
+I1
+sVchampionship
+p170
+I1
+sVunless
+p171
+I1
+sVtried
+p172
+I1
+sVbeauty
+p173
+I1
+sVsir
+p174
+I1
+sVmess
+p175
+I1
+sVwatch
+p176
+I6
+sVyo
+p177
+I1
+sVpaid
+p178
+I1
+sVstay
+p179
+I1
+sVnecklace
+p180
+I1
+sVcheque
+p181
+I1
+sVman
+p182
+I2
+sVstress
+p183
+I1
+sVneck
+p184
+I1
+sVrotting
+p185
+I1
+sVmaybe
+p186
+I1
+sVwell
+p187
+I1
+sVback
+p188
+I1
+sVmovie
+p189
+I1
+sValright
+p190
+I1
+s.

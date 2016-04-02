@@ -1,89 +1,617 @@
-"backstabber" lyrics
-eminem lyrics
-"backstabber"
-attention all units, attention all units
-we have an all points bulletin out on a man with green hair
-i repeat, we have an apb on a man with green hair
-he's armed with a knife, i repeat, he's armed with a knife
-proceed with caution, watch your back fella's
-he could be coming at your girlfriend next
-there's a joker on the loose from the psychiatric ward
-his face is up on the bulletin board with a reward
-he'll stab you with a sword don't be fooled by his charm
-he's probably armed with intent to do bodily harm
-ring the alarm, look for a man with green hair
-check at your girl's house, he was last seen there
-he's has a mean stare but usually crack's jokes
-good luck on your mission and guard your backs folks
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-we got the walkie-talkies to keep us all informed
-suited up head to toe in detective uniforms
-our unit storms in, we split the ghetto in sectors
-locking down every block and put up metal detectors
-protectors and be sure that you stand close
-watch each others backs and guard your command post
-and most of all be advised that he's wise
-he could be disguised as one of your very own guys
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-i'm on a solo mission to find him personally
-to settle the score and beat then him mercifully
-for what he first did to me
-it's sure to be the last
-following footprints with a magnifying glass
-to drag his lying ass back to his padded cell
-i'm mad as hell, on the trail of the tattle tail
-i heard a yell the voice sounded familiar
-"give me your girlfriend or i'm gonna kill ya"
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-i followed the voice that led down a flight of steps
-sneezing at dust, and swinging at the spider-webs
-inside the depths of his basement
-i taste lint in my mouth, then the lights in the place went!
-i saw my life flash in front of my eyes
-i felt a butcher knife slash at one of my thighs
-none of my guys knew where i'm at i was doomed
-then i remembered the flashlight in my costume
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-dealing with backstabber's there was one thing i learned
-they're only powerful when you got your back turned
-i yearned for the day that we finally met again
-so i can give him a taste of his own medicine
-he shed his skin, then he promised to come clean
-i took his butcher knife and jabbed it into his spleen
-cut him at the seam then dragged the fella home
-beating him over the head with the telephone
-attention all cars, attention all cars
-unit 313 has apprehended the suspect
-he's going back to the crazy home, i repeat
-he's going back to the crazy home, how about that?
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
-i make you think you're a backstabber
-why i oughtta
-hit a bitch snake from the back, i make you think you're a backstabber
-why i oughtta
-stay away from him he ain't no good!
+(dp1
+Vdetective
+p2
+I1
+sVlyrics
+p3
+I2
+sVadvised
+p4
+I1
+sVmission
+p5
+I2
+sVpadded
+p6
+I1
+sVkill
+p7
+I1
+sVcostume
+p8
+I1
+sVskin
+p9
+I1
+sVhell
+p10
+I2
+sVeyes
+p11
+I1
+sVfind
+p12
+I1
+sVaint
+p13
+I7
+sVcut
+p14
+I1
+sVoughtta
+p15
+I14
+sVflash
+p16
+I1
+sVstorms
+p17
+I1
+sVknew
+p18
+I1
+sVtail
+p19
+I1
+sVgoing
+p20
+I2
+sVboard
+p21
+I1
+sVfolks
+p22
+I1
+sVspiderwebs
+p23
+I1
+sVgood
+p24
+I8
+sVhit
+p25
+I7
+sVbeat
+p26
+I1
+sVfamiliar
+p27
+I1
+sVdragged
+p28
+I1
+sVwatch
+p29
+I2
+sVnone
+p30
+I1
+sVpsychiatric
+p31
+I1
+sVevery
+p32
+I1
+sVsnake
+p33
+I7
+sVprobably
+p34
+I1
+sVfront
+p35
+I1
+sVday
+p36
+I1
+sVghetto
+p37
+I1
+sVbeating
+p38
+I1
+sVtheyre
+p39
+I1
+sVjoker
+p40
+I1
+sVjokes
+p41
+I1
+sVsettle
+p42
+I1
+sVsteps
+p43
+I1
+sVthighs
+p44
+I1
+sVwent
+p45
+I1
+sVluck
+p46
+I1
+sVharm
+p47
+I1
+sV313
+p48
+I1
+sVhouse
+p49
+I1
+sVback
+p50
+I12
+sVhair
+p51
+I3
+sVsure
+p52
+I2
+sVseam
+p53
+I1
+sVfellas
+p54
+I1
+sVclose
+p55
+I1
+sVgon
+p56
+I1
+sVaway
+p57
+I7
+sVmagnifying
+p58
+I1
+sVcell
+p59
+I1
+sVlights
+p60
+I1
+sVscore
+p61
+I1
+sVsuspect
+p62
+I1
+sVslash
+p63
+I1
+sVflashlight
+p64
+I1
+sVmedicine
+p65
+I1
+sVgot
+p66
+I2
+sVlearned
+p67
+I1
+sVbackstabbers
+p68
+I1
+sVknife
+p69
+I4
+sVass
+p70
+I1
+sVsolo
+p71
+I1
+sVloose
+p72
+I1
+sVled
+p73
+I1
+sVremembered
+p74
+I1
+sVcars
+p75
+I2
+sVattention
+p76
+I4
+sVeminem
+p77
+I1
+sVmet
+p78
+I1
+sVothers
+p79
+I1
+sVput
+p80
+I1
+sVpost
+p81
+I1
+sVcome
+p82
+I1
+sVwalkietalkies
+p83
+I1
+sVlast
+p84
+I2
+sVdisguised
+p85
+I1
+sVcould
+p86
+I2
+sVkeep
+p87
+I1
+sVthing
+p88
+I1
+sVtattle
+p89
+I1
+sVplace
+p90
+I1
+sVstand
+p91
+I1
+sVspleen
+p92
+I1
+sVusually
+p93
+I1
+sVstab
+p94
+I1
+sVmean
+p95
+I1
+sVmouth
+p96
+I1
+sVthink
+p97
+I14
+sVblock
+p98
+I1
+sVfirst
+p99
+I1
+sVsneezing
+p100
+I1
+sVfollowed
+p101
+I1
+sVdont
+p102
+I1
+sVinformed
+p103
+I1
+sVjabbed
+p104
+I1
+sVpowerful
+p105
+I1
+sVshed
+p106
+I1
+sVone
+p107
+I3
+sVguard
+p108
+I2
+sVbitch
+p109
+I7
+sVapb
+p110
+I1
+sVring
+p111
+I1
+sVprotectors
+p112
+I1
+sVarmed
+p113
+I3
+sVapprehended
+p114
+I1
+sVunit
+p115
+I2
+sVstare
+p116
+I1
+sVfella
+p117
+I1
+sVproceed
+p118
+I1
+sVhes
+p119
+I7
+sVthere
+p120
+I1
+sVgirls
+p121
+I1
+sVfinally
+p122
+I1
+sVnext
+p123
+I1
+sVdealing
+p124
+I1
+sVtoe
+p125
+I1
+sVhead
+p126
+I2
+sVyearned
+p127
+I1
+sVflight
+p128
+I1
+sVthat
+p129
+I1
+sVdoomed
+p130
+I1
+sVlint
+p131
+I1
+sVtook
+p132
+I1
+sVbodily
+p133
+I1
+sVglass
+p134
+I1
+sVpersonally
+p135
+I1
+sVfooled
+p136
+I1
+sVward
+p137
+I1
+sVme
+p138
+I1
+sVmercifully
+p139
+I1
+sVcracks
+p140
+I1
+sVwise
+p141
+I1
+sVlook
+p142
+I1
+sVinside
+p143
+I1
+sVsounded
+p144
+I1
+sVus
+p145
+I1
+sVfollowing
+p146
+I1
+sVim
+p147
+I4
+sVvoice
+p148
+I2
+sVcharm
+p149
+I1
+sVtheres
+p150
+I1
+sVcrazy
+p151
+I2
+sVuniforms
+p152
+I1
+sVgive
+p153
+I2
+sVtaste
+p154
+I2
+sVdetectors
+p155
+I1
+sVturned
+p156
+I1
+sVlife
+p157
+I1
+sVheard
+p158
+I1
+sVcaution
+p159
+I1
+sVpromised
+p160
+I1
+sVswinging
+p161
+I1
+sVhome
+p162
+I3
+sVgirlfriend
+p163
+I2
+sVseen
+p164
+I1
+sVsaw
+p165
+I1
+sVcheck
+p166
+I1
+sVagain
+p167
+I1
+sVna
+p168
+I1
+sVmake
+p169
+I14
+sVlocking
+p170
+I1
+sVbacks
+p171
+I2
+sVbutcher
+p172
+I2
+sVya
+p173
+I1
+sVsplit
+p174
+I1
+sVsword
+p175
+I1
+sVunits
+p176
+I2
+sVcommand
+p177
+I1
+sVtrail
+p178
+I1
+sVrepeat
+p179
+I3
+sVfootprints
+p180
+I1
+sVfelt
+p181
+I1
+sVstay
+p182
+I7
+sVdepths
+p183
+I1
+sVdrag
+p184
+I1
+sVintent
+p185
+I1
+sVmad
+p186
+I1
+sVsuited
+p187
+I1
+sVcoming
+p188
+I1
+sVdust
+p189
+I1
+sVbasement
+p190
+I1
+sVguys
+p191
+I2
+sVman
+p192
+I3
+sVsectors
+p193
+I1
+sVbackstabber
+p194
+I16
+sValarm
+p195
+I1
+sVyoure
+p196
+I14
+sVmetal
+p197
+I1
+sVface
+p198
+I1
+sVpoints
+p199
+I1
+sVgreen
+p200
+I3
+sVclean
+p201
+I1
+sVtelephone
+p202
+I1
+sVyell
+p203
+I1
+sVreward
+p204
+I1
+sVbulletin
+p205
+I2
+sVlying
+p206
+I1
+s.

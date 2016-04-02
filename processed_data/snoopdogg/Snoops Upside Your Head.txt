@@ -1,100 +1,646 @@
-"snoop's upside your head" lyrics
-snoop dogg lyrics
-"snoop's upside your head"
-i think it's bout' time that we hit these n***as upside
-the head with some of that west coast
-gangsta' sh.........  ooh.....wee!!!!!!!!!!
-it's a whole 'nother day
-i'm back up in ya'
-snoop d-o-double g
-i representa'
-been away for a while but you all know
-i'm still doggystylin' on death row
-got shit locked down
-sewed up
-so if you plan on comin' out nigga hold up.
-this a stick up
-dick up
-they got yo' shit on the shelf, oh mine is too
-and guess who they gon' pick up?
-some niggas think they know they shit
-but they don't
-some m-a's escape
-some won't
-bumpin' heads with niggas
-where you from?
-east side long beach, nigga, 2-1
-the homie just got paroled
-and he got more stories than the highway patrol
-tellin' me about the money suge knight stole
-but i'll make that shit late
-cause nigga i get swole
-niggas tryin' to get in, to get out.
-put me up on game tellin' me who gon' jack me
-but ever since
-i was a puppy
-till i was paroled
-i never had no other dog pullin' on my chrome.
-say snoop's upside yo' head,
-say snoop's upside yo' head.
-niggas in the game be doin' way too much
-akin' tough with this east-west coast stuff.
-see me
-i'm all about my money mane
-i stay fly and dry
-i don't get caught up in the rain
-cuz game recognize game
-no matter where you from
-we all can get dumb, insane and
-turn the party out
-without a doubt
-unless
-you them niggas who ain't got no clout
-lbc and b what?
-uh, my crew
-cuz uh, we out there smokin' on the krazy glue
-upside yo' head like oops
-snoop's
-the shit, that you hear them bumpin' in the hoops.
-can't afford it
-homeboy
-this is finished
-i represented
-from v-a to venice
-so when it's timid
-and cold outside
-rely on the doggy dogg
-to put the heat in yo' life
-it takes a whole lot
-to be number one
-i can't walk down the street
-without my gun
-i can't trust these niggas fool
-it ain't no fun
-i'm sittin' up in court
-cuz somebody got dumped
-what really counts is how the crowd bounce
-go home and say
-snoop rocked the parte`
-nobody got kilt
-it's what got annouced
-i guess they got a chance to see dr. bombay
-but i keep my heat in case niggas get cold
-warm you up with the sheet
-zip you up and roll
-now doggystyle records is now official
-gettin' money at the pliz-ate with my initials
-shippin' weapons overseas
-i'm makin' g's
-what who you make call enemies
-but i
-see nothing funny about
-makin' money
-cuz uh
-we all know it don't grow on trees
-so i
-gotta' get what i gotta' get when i can
-up homie in the mo'ning wit' the gat van
-burning rubber down to get a new car
-so don't get jealous when you see me in the
-double r.
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I4
+sVkilt
+p5
+I1
+sVever
+p6
+I1
+sVrocked
+p7
+I1
+sVgo
+p8
+I1
+sVenemies
+p9
+I1
+sVcold
+p10
+I2
+sVstill
+p11
+I1
+sVrow
+p12
+I1
+sVaint
+p13
+I2
+sVvenice
+p14
+I1
+sVdeath
+p15
+I1
+sV21
+p16
+I1
+sVtill
+p17
+I1
+sVdr
+p18
+I1
+sVdick
+p19
+I1
+sVcuz
+p20
+I4
+sVcrew
+p21
+I1
+sVlate
+p22
+I1
+sVvan
+p23
+I1
+sVgangsta
+p24
+I1
+sVeast
+p25
+I1
+sVlbc
+p26
+I1
+sVta
+p27
+I2
+sVfool
+p28
+I1
+sVfly
+p29
+I1
+sVhit
+p30
+I1
+sVyo
+p31
+I5
+sVget
+p32
+I10
+sVya
+p33
+I1
+sVkrazy
+p34
+I1
+sVsittin
+p35
+I1
+sVtrees
+p36
+I1
+sVcoast
+p37
+I2
+sVrecords
+p38
+I1
+sVgame
+p39
+I4
+sVjack
+p40
+I1
+sVnew
+p41
+I1
+sVwalk
+p42
+I1
+sVsnoops
+p43
+I5
+sVday
+p44
+I1
+sVwont
+p45
+I1
+sVlike
+p46
+I1
+sVknight
+p47
+I1
+sVgettin
+p48
+I1
+sVgun
+p49
+I1
+sVplizate
+p50
+I1
+sVrepresenta
+p51
+I1
+sVcar
+p52
+I1
+sVside
+p53
+I1
+sVdoggystyle
+p54
+I1
+sVinsane
+p55
+I1
+sVthe
+p56
+I1
+sVnigga
+p57
+I3
+sVcrowd
+p58
+I1
+sVback
+p59
+I1
+sVbounce
+p60
+I1
+sVsee
+p61
+I4
+sVstreet
+p62
+I1
+sVdumb
+p63
+I1
+sVescape
+p64
+I1
+sVhome
+p65
+I1
+sVcounts
+p66
+I1
+sVout
+p67
+I2
+sVwhat
+p68
+I1
+sVgon
+p69
+I2
+sVaway
+p70
+I1
+sVsince
+p71
+I1
+sVweapons
+p72
+I1
+sVcase
+p73
+I1
+sVoutside
+p74
+I1
+sVstuff
+p75
+I1
+sVgot
+p76
+I11
+sVdoggy
+p77
+I1
+sVcause
+p78
+I1
+sVmoning
+p79
+I1
+sVhighway
+p80
+I1
+sVcan
+p81
+I1
+sVsuge
+p82
+I1
+sVdoubt
+p83
+I1
+sVnever
+p84
+I1
+sVrely
+p85
+I1
+sVrain
+p86
+I1
+sVput
+p87
+I2
+sVfrom
+p88
+I2
+sVstay
+p89
+I1
+sVhoops
+p90
+I1
+sVnother
+p91
+I1
+sVdry
+p92
+I1
+sVabout
+p93
+I1
+sVzip
+p94
+I1
+sVg
+I1
+sVoh
+p95
+I1
+sVill
+p96
+I1
+sVkeep
+p97
+I1
+sVturn
+p98
+I1
+sVmane
+p99
+I1
+sVpick
+p100
+I1
+sVpullin
+p101
+I1
+sVwhole
+p102
+I2
+sVthink
+p103
+I2
+sVsmokin
+p104
+I1
+sVtough
+p105
+I1
+sVdont
+p106
+I4
+sVburning
+p107
+I1
+sVnumber
+p108
+I1
+sVclout
+p109
+I1
+sVone
+p110
+I1
+sVdown
+p111
+I1
+sVrepresented
+p112
+I1
+sVwit
+p113
+I1
+sVcomin
+p114
+I1
+sVpatrol
+p115
+I1
+sVglue
+p116
+I1
+sVtrust
+p117
+I1
+sVbombay
+p118
+I1
+sVguess
+p119
+I2
+sVheads
+p120
+I1
+sVtakes
+p121
+I1
+sVsnoop
+p122
+I3
+sVchrome
+p123
+I1
+sVdogg
+p124
+I2
+sVcaught
+p125
+I1
+sVlong
+p126
+I1
+sVmuch
+p127
+I1
+sVcall
+p128
+I1
+sVoohwee
+p129
+I1
+sVway
+p130
+I1
+sVtryin
+p131
+I1
+sVreally
+p132
+I1
+sVwest
+p133
+I1
+sVtoo
+p134
+I1
+sVhead
+p135
+I6
+sVlot
+p136
+I1
+sVjealous
+p137
+I1
+sVafford
+p138
+I1
+sVshelf
+p139
+I1
+sVnobody
+p140
+I1
+sVcant
+p141
+I3
+sVit
+p142
+I1
+sVfinished
+p143
+I1
+sVwarm
+p144
+I1
+sVparoled
+p145
+I2
+sVstick
+p146
+I1
+sVhold
+p147
+I1
+sVbout
+p148
+I1
+sVme
+p149
+I2
+sVb
+I1
+sVlocked
+p150
+I1
+sVniggas
+p151
+I7
+sVswole
+p152
+I1
+sVofficial
+p153
+I1
+sVup
+p154
+I5
+sVtellin
+p155
+I2
+sVmatter
+p156
+I1
+sVr
+I1
+sVstories
+p157
+I1
+sVuh
+p158
+I3
+sVfun
+p159
+I1
+sVakin
+p160
+I1
+sVshippin
+p161
+I1
+sVand
+p162
+I1
+sVva
+p163
+I1
+sVdodouble
+p164
+I1
+sVheat
+p165
+I2
+sVrecognize
+p166
+I1
+sVdumped
+p167
+I1
+sVmine
+p168
+I1
+sVsay
+p169
+I3
+sVhomie
+p170
+I2
+sVim
+p171
+I5
+sVsheet
+p172
+I1
+sVsomebody
+p173
+I1
+sVstole
+p174
+I1
+sVshit
+p175
+I5
+sVfunny
+p176
+I1
+sVcourt
+p177
+I1
+sVparte
+p178
+I1
+sVmake
+p179
+I2
+sVannouced
+p180
+I1
+sVhomeboy
+p181
+I1
+sVrubber
+p182
+I1
+sVnas
+p183
+I1
+sVwithout
+p184
+I2
+sVparty
+p185
+I1
+sVeastwest
+p186
+I1
+sVpuppy
+p187
+I1
+sVbeach
+p188
+I1
+sVroll
+p189
+I1
+sVmas
+p190
+I1
+sVgat
+p191
+I1
+sVunless
+p192
+I1
+sVdoin
+p193
+I1
+sVdoggystylin
+p194
+I1
+sVbumpin
+p195
+I2
+sVchance
+p196
+I1
+sVplan
+p197
+I1
+sVnothing
+p198
+I1
+sVtimid
+p199
+I1
+sVgrow
+p200
+I1
+sVsewed
+p201
+I1
+sVi
+I2
+sVlife
+p202
+I1
+sVdog
+p203
+I1
+sVdouble
+p204
+I1
+sVsh
+p205
+I1
+sVupside
+p206
+I6
+sVoops
+p207
+I1
+sVmakin
+p208
+I2
+sVtime
+p209
+I1
+sVhear
+p210
+I1
+sVoverseas
+p211
+I1
+sVinitials
+p212
+I1
+sVknow
+p213
+I3
+s.

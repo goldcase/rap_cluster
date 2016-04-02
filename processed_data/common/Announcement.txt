@@ -1,79 +1,602 @@
-"announcement" lyrics
-common lyrics
-"announcement"
-(feat. pharrell)
-i'm fin' to take you to the tip top baby
-i'm fin' to take you to the tip top baby
-i'm fin' to take you to the tip top baby
-everybody i'd like to announce
-throw you hands up when we in the house
-yeah, this is hip hop baby
-i'm fin' to take you to the tip top baby
-and tell your girl that the tickets is out
-and we gon' do it till they kickin' us out
-'cause this is hip hop baby
-i'm fin' to take you to the tip top baby
-live from the south side this one
-hide your gun, representing chi-town to the fullest
-raps or bullets, see them rappers, they be duckin'
-when com be buckin' in the kitchen, fuckin'
-on the sink, got my mama a mink
-think common is the link, thought the game was extinct
-lay there, them jeans is as slim as shady
-brought 'em back from the 80's, now let's make some babies
-freestyle paid off so lincoln paid me
-no we can push more whips than slavery
-alex haley and this rap shit, my roots is deep
-you heard the bitch is you, yeah i know what's beef
-let it cook and i pop like grease
-you thirsty niggas can't stop my feast, uh
-i still love her, she be needin' the dick
-when it come to hip hop it's just me and my bitch, uh
-everybody i'd like to announce
-throw you hands up when we in the house
-yeah, this is hip hop baby
-i'm fin' to take you to the tip top baby
-and tell your girl that the tickets is out
-and we gon' do it till they kickin' us out
-'cause this is hip hop baby
-i'm fin' to take you to the tip top baby
-baby, you're like, what the fuck? there is no other
-valet crushed my rolls so quickly i bought another
-sorry mr. william moved out the building
-spot to the top, fifty feet with was the ceiling
-slow down son, you're killin' 'em, well funded it was not
-came to shitty deals, reminiscing give me chills
-when puff was with biggie, versace on every niggie
-the backpacker copped the porsche and drove to his city
-now all the little bitties from ugly to pretty
-i was the magician mesmerize 'em, made 'em listen
-my dick is like a blow pop baby
-and it gets stiffer than some botox baby
-but show out baby and show me you ain't gon' act right
-and i'll be pedaling backwards like a track bike
-she ain't know the casio cost a hundred
-it's been two years since i done it, now all the rappers want it, what?
-everybody i'd like to announce
-throw you hands up when we in the house
-yeah, this is hip hop baby
-i'm fin' to take you to the tip top baby
-and tell your girl that the tickets is out
-and we gon' do it till they kickin' us out
-'cause this is hip hop baby
-i'm fin' to take you to the tip top baby
-as i sit back, relax with chicago on my back
-unzip the backpack, pull out a fifth of jack
-i'll probably go to jail for, naw that ain't me
-i style crazy and act like jay-z
-the black kojak, i get money and want mo' stacks
-the rap photographer, the way the flow stop
-broads say, "are you a philosopher?"
-"yeah yeah, i philosophize on top of ya" uh!
-everybody i'd like to announce
-throw you hands up when we in the house
-yeah, this is hip hop baby
-i'm fin' to take you to the tip top baby
-and tell your girl that the tickets is out
-and we gon' do it till they kickin' us out
-'cause this is hip hop baby
-i'm fin' to take you to the tip top baby
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I2
+sVmoney
+p4
+I1
+sVfifty
+p5
+I1
+sVnot
+p6
+I1
+sVyears
+p7
+I1
+sVlove
+p8
+I1
+sVstill
+p9
+I1
+sVfeat
+p10
+I1
+sVroots
+p11
+I1
+sVneedin
+p12
+I1
+sVblow
+p13
+I1
+sVannouncement
+p14
+I2
+sVstyle
+p15
+I1
+sVslow
+p16
+I1
+sVphotographer
+p17
+I1
+sVbackpack
+p18
+I1
+sVdick
+p19
+I2
+sVbackpacker
+p20
+I1
+sVlets
+p21
+I1
+sVbike
+p22
+I1
+sVblack
+p23
+I1
+sVpretty
+p24
+I1
+sVwhips
+p25
+I1
+sVannounce
+p26
+I4
+sVsorry
+p27
+I1
+sVfin
+p28
+I11
+sVnaw
+p29
+I1
+sVhip
+p30
+I9
+sVunzip
+p31
+I1
+sVhop
+p32
+I9
+sVget
+p33
+I1
+sVya
+p34
+I1
+sVstop
+p35
+I2
+sVcrushed
+p36
+I1
+sVshitty
+p37
+I1
+sVgame
+p38
+I1
+sVevery
+p39
+I1
+sVknow
+p40
+I2
+sVhands
+p41
+I4
+sVcook
+p42
+I1
+sVfullest
+p43
+I1
+sVson
+p44
+I1
+sVtickets
+p45
+I4
+sVfeet
+p46
+I1
+sVlincoln
+p47
+I1
+sValex
+p48
+I1
+sVlike
+p49
+I9
+sVfeast
+p50
+I1
+sVslavery
+p51
+I1
+sVdeals
+p52
+I1
+sVcommon
+p53
+I2
+sVbuckin
+p54
+I1
+sVstiffer
+p55
+I1
+sVside
+p56
+I1
+sVem
+p57
+I4
+sVright
+p58
+I1
+sVhouse
+p59
+I4
+sVhaley
+p60
+I1
+sVyeah
+p61
+I7
+sVgun
+p62
+I1
+sVgo
+p63
+I1
+sVsee
+p64
+I1
+sVcost
+p65
+I1
+sVgirl
+p66
+I4
+sVout
+p67
+I8
+sVwhat
+p68
+I1
+sVgon
+p69
+I5
+sVhide
+p70
+I1
+sVchicago
+p71
+I1
+sVsince
+p72
+I1
+sVphilosopher
+p73
+I1
+sVvalet
+p74
+I1
+sVfifth
+p75
+I1
+sVgot
+p76
+I1
+sVcause
+p77
+I4
+sVbought
+p78
+I1
+sVaint
+p79
+I3
+sVgrease
+p80
+I1
+sVlet
+p81
+I1
+sVsink
+p82
+I1
+sVduckin
+p83
+I1
+sVcome
+p84
+I1
+sVthrow
+p85
+I4
+sVkitchen
+p86
+I1
+sVbackwards
+p87
+I1
+sVill
+p88
+I2
+sVbroads
+p89
+I1
+sVfunded
+p90
+I1
+sVact
+p91
+I2
+sVpuff
+p92
+I1
+sVchills
+p93
+I1
+sVcom
+p94
+I1
+sVthink
+p95
+I1
+sVfuckin
+p96
+I1
+sVwhats
+p97
+I1
+sVjeans
+p98
+I1
+sVpop
+p99
+I2
+sVone
+p100
+I1
+sVbrought
+p101
+I1
+sVjayz
+p102
+I1
+sVdone
+p103
+I1
+sVbitch
+p104
+I2
+sVanother
+p105
+I1
+sVcopped
+p106
+I1
+sVextinct
+p107
+I1
+sVdrove
+p108
+I1
+sVrolls
+p109
+I1
+sVeverybody
+p110
+I4
+sVcity
+p111
+I1
+sVlittle
+p112
+I1
+sVkillin
+p113
+I1
+sVpedaling
+p114
+I1
+sVbeef
+p115
+I1
+sVtop
+p116
+I13
+sVporsche
+p117
+I1
+sVtwo
+p118
+I1
+sVquickly
+p119
+I1
+sVlive
+p120
+I1
+sVway
+p121
+I1
+sVmama
+p122
+I1
+sVhundred
+p123
+I1
+sVtell
+p124
+I4
+sVreminiscing
+p125
+I1
+sVceiling
+p126
+I1
+sVrelax
+p127
+I1
+sVfreestyle
+p128
+I1
+sVniggie
+p129
+I1
+sVmesmerize
+p130
+I1
+sVback
+p131
+I3
+sVlink
+p132
+I1
+sVbaby
+p133
+I23
+sVprobably
+p134
+I1
+sVbotox
+p135
+I1
+sVrepresenting
+p136
+I1
+sVme
+p137
+I2
+sVpull
+p138
+I1
+sVmade
+p139
+I1
+sVbiggie
+p140
+I1
+sVpharrell
+p141
+I1
+sVniggas
+p142
+I1
+sVmo
+p143
+I1
+sVsay
+p144
+I1
+sVus
+p145
+I4
+sVugly
+p146
+I1
+sVuh
+p147
+I3
+sVmr
+p148
+I1
+sVbitties
+p149
+I1
+sVlisten
+p150
+I1
+sVcrazy
+p151
+I1
+sVmink
+p152
+I1
+sVwant
+p153
+I2
+sVthirsty
+p154
+I1
+sVgive
+p155
+I1
+sVraps
+p156
+I1
+sVflow
+p157
+I1
+sVslim
+p158
+I1
+sVmoved
+p159
+I1
+sVfuck
+p160
+I1
+sVdeep
+p161
+I1
+sVheard
+p162
+I1
+sVcant
+p163
+I1
+sVim
+p164
+I11
+sVrap
+p165
+I2
+sVid
+p166
+I4
+sVshit
+p167
+I1
+sVsit
+p168
+I1
+sVmake
+p169
+I1
+sVtip
+p170
+I11
+sVtill
+p171
+I4
+sVother
+p172
+I1
+sVtake
+p173
+I11
+sVbabies
+p174
+I1
+sV80s
+p175
+I1
+sVgets
+p176
+I1
+sVchitown
+p177
+I1
+sVtrack
+p178
+I1
+sVversace
+p179
+I1
+sVrappers
+p180
+I2
+sVkojak
+p181
+I1
+sVspot
+p182
+I1
+sVpaid
+p183
+I2
+sVwilliam
+p184
+I1
+sVbullets
+p185
+I1
+sVlay
+p186
+I1
+sVmagician
+p187
+I1
+sVbuilding
+p188
+I1
+sVshady
+p189
+I1
+sVyoure
+p190
+I2
+sVwell
+p191
+I1
+sVcasio
+p192
+I1
+sVstacks
+p193
+I1
+sVthought
+p194
+I1
+sVphilosophize
+p195
+I1
+sVjail
+p196
+I1
+sVsouth
+p197
+I1
+sVpush
+p198
+I1
+sVkickin
+p199
+I4
+sVcame
+p200
+I1
+sVjack
+p201
+I1
+s.

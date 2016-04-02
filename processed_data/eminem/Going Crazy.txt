@@ -1,104 +1,687 @@
-"going crazy" lyrics
-eminem lyrics
-"going crazy"
-(feat. d12)
-fame, fame, fame
-i think it's got me goin' crazy
-ohhhohhh
-i get lost in this game, game, game
-i'm gettin' tired of all you naysayers
-ohhhohhh
-keep speaking my name, name, name
-you gon' have reason to hate me
-yeahhhheahhh
-it's like. you. don't. want. me to win
-so. this. time. i'm goin' in!
-this the life of a rocker
-jagermeister and vodka
-hoppin' off of the club's balcony
-into the crowd, surfin'
-and when they drop me, i'm randomly sockin' fans
-and when my interviews in hockey masks,
-slap the journalists on their ass
-i'm high off speed,
-drivin' my car at high speed
-pocket full of weed, while lesbians follow me
-i'm in the studio, envy
-my h & m, gon' call for me
-cause i fell asleep on the soundboard, ain't get us off a week
-so let's bang!! all up in my head
-get 'em back ungrateful dead
-bustin' in the air, with 30 bitches up in my bed
-i'm kickin' 'em out naked, and this the sympathy
-just ask me why i did it, well fuck it i can't remember
-fame, fame, fame
-i think it's got me goin' crazy
-ohhhohhh
-i get lost in this game, game, game
-i'm gettin' tired of all you naysayers
-ohhhohhh
-keep speaking my name, name, name
-you gon' have reason to hate me
-yeahhhheahhh
-it's like. you. don't. want. me to win
-so. this. time. i'm goin' in!
-some boys are wallin
-drinkin', cussin', and hyper smilin'
-been ridin' for days, tour bus look like ryker's island
-hand me jack daniel's, spray paintin' the die hard fan
-little cocker spaniel, fresh out of the damn zoo
-man you, better be conscious, i'm backstage
-livin' it up, with a couple of sluts feelin' nautious
-we're drinkin' it's been a couple of days, since i've slept
-my dick is sore from fuckin', when i bust there's nothin' left
-just dust, back on the stage, give me my microphone
-strappin' with the audience as we perform hypersong
-our label presented us with a plaque
-brought it on stage, and bashed it to pieces with an aluminum bats, stanks
-now which one of you bitches down for the cause
-yeah i said my dick is sore but i ain't say shit about my balls
-last call then we off to the next city, yeah
-whatever i didn't drink on my bladder pack it up and take the rest with me
-fame, fame, fame
-i think it's got me goin' crazy
-ohhhohhh
-i get lost in this game, game, game
-i'm gettin' tired of all you naysayers
-ohhhohhh
-keep speaking my name, name, name
-you gon' have reason to hate me
-yeahhhheahhh
-it's like. you. don't. want. me to win
-so. this. time. i'm goin' in!
-yeah this game has got me goin' crazy
-fuck it, i am crazy
-what's new, what kinda fuckin' glue you'd think i'd be if i was glue
-we lost proof, he was our crew's glue
-but where was you, when we were fallin' apart
-you were shittin on us too
-but no one but us knew we were beefin'
-cause that's what happens when you beef with crew
-it stays in the crew, cause it's just crew
-but we're back now, yeah we took our time while our blood grew
-only thing we're in a hurry for now is to rush you!
-and we're back, these days if you don't got the guts or the nuts to
-pussy, go pick your pussy leaves off your cunt tree, fuck you
-ahh choo!
-bless you! i'm allergic to pussy, sluts too
-yeah, you think you the shit, till we flush you
-have some bullshit to readjust
-still got a just a few of us left, but it'd be unjust to rob us our just due
-so rest in peace to bugz and proof
-this one's for you homies, we love you
-but we can't stop now we done had too much of our blood drew from this...
-fame, fame, fame
-i think it's got me goin' crazy
-ohhhohhh
-i get lost in this game, game, game
-i'm gettin' tired of all you naysayers
-ohhhohhh
-keep speaking my name, name, name
-you gon' have reason to hate me
-yeahhhheahhh
-it's like. you. don't. want. me to win
-so. this. time. i'm goin' in!
+(dp1
+Vrocker
+p2
+I1
+sVhyper
+p3
+I1
+sVbeefin
+p4
+I1
+sVlyrics
+p5
+I2
+sVitd
+p6
+I1
+sVstays
+p7
+I1
+sVrest
+p8
+I2
+sVgo
+p9
+I1
+sVfollow
+p10
+I1
+sVyeahhhheahhh
+p11
+I4
+sVfeat
+p12
+I1
+sVsore
+p13
+I2
+sVaint
+p14
+I2
+sVunjust
+p15
+I1
+sVenvy
+p16
+I1
+sVtook
+p17
+I1
+sVdick
+p18
+I2
+sVjagermeister
+p19
+I1
+sVbust
+p20
+I1
+sVcrew
+p21
+I3
+sVbetter
+p22
+I1
+sVto
+p23
+I1
+sVlets
+p24
+I1
+sVgoing
+p25
+I2
+sVhockey
+p26
+I1
+sVpussy
+p27
+I3
+sVstrappin
+p28
+I1
+sVapart
+p29
+I1
+sVrob
+p30
+I1
+sVlivin
+p31
+I1
+sVget
+p32
+I6
+sVspray
+p33
+I1
+sVcouple
+p34
+I2
+sVstop
+p35
+I1
+sVwallin
+p36
+I1
+sVpocket
+p37
+I1
+sVbang
+p38
+I1
+sVballs
+p39
+I1
+sVfan
+p40
+I1
+sVjack
+p41
+I1
+sVnew
+p42
+I1
+sVbullshit
+p43
+I1
+sVlike
+p44
+I5
+sVname
+p45
+I12
+sVlost
+p46
+I5
+sVpresented
+p47
+I1
+sVh
+I1
+sVdrop
+p48
+I1
+sVnaked
+p49
+I1
+sVaudience
+p50
+I1
+sVlesbians
+p51
+I1
+sVpaintin
+p52
+I1
+sVdie
+p53
+I1
+sVdone
+p54
+I1
+sVem
+p55
+I2
+sVgettin
+p56
+I4
+sVcrowd
+p57
+I1
+sVtired
+p58
+I4
+sVhard
+p59
+I1
+sVback
+p60
+I4
+sVdead
+p61
+I1
+sVfallin
+p62
+I1
+sVclubs
+p63
+I1
+sVasleep
+p64
+I1
+sVus
+p65
+I6
+sVflush
+p66
+I1
+sVid
+p67
+I1
+sVhappens
+p68
+I1
+sVbless
+p69
+I1
+sVgon
+p70
+I5
+sVsluts
+p71
+I2
+sVhate
+p72
+I4
+sVsince
+p73
+I1
+sVlabel
+p74
+I1
+sVfans
+p75
+I1
+sVproof
+p76
+I2
+sVwhats
+p77
+I1
+sVgot
+p78
+I7
+sVcause
+p79
+I4
+sVspeed
+p80
+I2
+sVass
+p81
+I1
+sVdrinkin
+p82
+I2
+sVfull
+p83
+I1
+sVdrivin
+p84
+I1
+sVlove
+p85
+I1
+sVstanks
+p86
+I1
+sVridin
+p87
+I1
+sVdrew
+p88
+I1
+sVeminem
+p89
+I1
+sVreason
+p90
+I4
+sVstudio
+p91
+I1
+sVask
+p92
+I1
+sVhand
+p93
+I1
+sVstage
+p94
+I2
+sVlast
+p95
+I1
+sVisland
+p96
+I1
+sVleaves
+p97
+I1
+sV30
+p98
+I1
+sVdays
+p99
+I3
+sVkeep
+p100
+I4
+sVthing
+p101
+I1
+sVtour
+p102
+I1
+sVpick
+p103
+I1
+sVohhhohhh
+p104
+I8
+sVpack
+p105
+I1
+sVshittin
+p106
+I1
+sVthink
+p107
+I6
+sVfuckin
+p108
+I2
+sVthats
+p109
+I1
+sVguts
+p110
+I1
+sVslept
+p111
+I1
+sVhoppin
+p112
+I1
+sVdont
+p113
+I5
+sVwin
+p114
+I4
+sVahh
+p115
+I1
+sVyoud
+p116
+I1
+sVnaysayers
+p117
+I4
+sVwhatever
+p118
+I1
+sVone
+p119
+I2
+sVbrought
+p120
+I1
+sVsympathy
+p121
+I1
+sVcocker
+p122
+I1
+sVbats
+p123
+I1
+sVnautious
+p124
+I1
+sVcussin
+p125
+I1
+sVglue
+p126
+I3
+sVsockin
+p127
+I1
+sVcity
+p128
+I1
+sVlittle
+p129
+I1
+sVbeef
+p130
+I1
+sVhomies
+p131
+I1
+sVinterviews
+p132
+I1
+sVdaniels
+p133
+I1
+sVdue
+p134
+I1
+sVnext
+p135
+I1
+sVmuch
+p136
+I1
+sVcall
+p137
+I2
+sVtoo
+p138
+I2
+sVcrews
+p139
+I1
+sVdamn
+p140
+I1
+sVman
+p141
+I1
+sVspeaking
+p142
+I4
+sVallergic
+p143
+I1
+sVlife
+p144
+I1
+sVjournalists
+p145
+I1
+sVbus
+p146
+I1
+sVbitches
+p147
+I2
+sVbladder
+p148
+I1
+sVvodka
+p149
+I1
+sVfuck
+p150
+I3
+sVrykers
+p151
+I1
+sVboys
+p152
+I1
+sVgame
+p153
+I13
+sVhurry
+p154
+I1
+sValuminum
+p155
+I1
+sVcunt
+p156
+I1
+sVme
+p157
+I7
+sVhigh
+p158
+I2
+sVrush
+p159
+I1
+sVbashed
+p160
+I1
+sVlook
+p161
+I1
+sVthis
+p162
+I1
+sVcar
+p163
+I1
+sVconscious
+p164
+I1
+sVtree
+p165
+I1
+sVsay
+p166
+I1
+sVbed
+p167
+I1
+sVair
+p168
+I1
+sVdidnt
+p169
+I1
+sVtheres
+p170
+I1
+sVive
+p171
+I1
+sVcrazy
+p172
+I8
+sVgive
+p173
+I1
+sVwell
+p174
+I1
+sVhead
+p175
+I1
+sVslap
+p176
+I1
+sVpieces
+p177
+I1
+sVrandomly
+p178
+I1
+sVcant
+p179
+I2
+sVim
+p180
+I14
+sVwant
+p181
+I4
+sVin
+p182
+I4
+sVchoo
+p183
+I1
+sVfame
+p184
+I12
+sVshit
+p185
+I2
+sVbalcony
+p186
+I1
+sVmicrophone
+p187
+I1
+sVsoundboard
+p188
+I1
+sVd12
+p189
+I1
+sVperform
+p190
+I1
+sVpeace
+p191
+I1
+sVnuts
+p192
+I1
+sVzoo
+p193
+I1
+sVhypersong
+p194
+I1
+sVtill
+p195
+I1
+sVgrew
+p196
+I1
+sVtake
+p197
+I1
+sVyou
+p198
+I4
+sVsaid
+p199
+I1
+sVweek
+p200
+I1
+sVsurfin
+p201
+I1
+sVstill
+p202
+I1
+sVknew
+p203
+I1
+sVdrink
+p204
+I1
+sVmasks
+p205
+I1
+sVweed
+p206
+I1
+sVsmilin
+p207
+I1
+sVfell
+p208
+I1
+sVbackstage
+p209
+I1
+sVblood
+p210
+I2
+sVkinda
+p211
+I1
+sVdust
+p212
+I1
+sVfeelin
+p213
+I1
+sVgoin
+p214
+I9
+sVyeah
+p215
+I5
+sVbugz
+p216
+I1
+sVremember
+p217
+I1
+sVspaniel
+p218
+I1
+sVm
+I1
+sVbustin
+p219
+I1
+sVnothin
+p220
+I1
+sVones
+p221
+I1
+sVreadjust
+p222
+I1
+sVtime
+p223
+I5
+sVfresh
+p224
+I1
+sVleft
+p225
+I2
+sVkickin
+p226
+I1
+sVplaque
+p227
+I1
+sVungrateful
+p228
+I1
+s.

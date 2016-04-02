@@ -1,68 +1,586 @@
-"big bad sister" lyrics
-mc lyte lyrics
-"big bad sister"
-ahhh yeah
-brooklyn's in the house, so come on now
-brooklyn's in the house
-yo, staten island is in the house
-staten island is in the house
-and let me hear you say queens is in the house
-come on now, queens is in the house
-long island is in the house, say what?
-long island is in the house, yeah
-the bronx, is in the house, uhh
-the bronx is in the house let me hear you say
-uptown's in the house one time
-uptown's in the house
-well they're falling falling but i can catch them
-i just toot the whistle and you go fetch them
-bring them back into the real rap attack
-set the soft silly stuff back on the rack
-45 (yeah baby) 45 (yeahhh)
-tell the silly mothers that we don't give a..
-i'm not a psychic, but you can tell your sidekick
-in ninety-one, lyte is kickin some fly..
-take it from me, or could you really take it?
-and if you got away with it, would you really make it
-in the world of hip-hop, frontin like you're me?
-c'mon now hobbes, that i could never see
-so just step aside, and feel it tonight
-cause comin to a store near you is mc lyte
-"who's that bad?"
-i'm bigger than bolo, see i go solo
-broader than broad, see how i soared
-the big bad sister from around your way
-i'm not tall but i'm small don't matter what i weigh
-i kick the copacetic rhyme from the down to earth mind
-i get hip with the hop i'm the tip from the top
-i go all out, you never see me fall out
-although you hear me yell out, you never see me sellout ("no!!")
-because my rhyme's about a profit, no one can stop the one
-funky lyrics synced with mc lyte cause i be droppin it
-the name the lyte because my skin i'm blacker than black
-comin right and exact, for the rap attack
-some say they don't like the words i choose to use
-i don't give a damn, lyte will never lose
-i ain't no sucka and i ain't into pleasin
-some critic that criticizes me for no reason
-what's with the opinion it's a stated fact
-i rule the pack, from the top of the stack
-so fuck the stocks and bonds i'm your new investment
-pick up the album it's quite a refreshment
-compared to the day to day bullshit you hear
-pay attention and listen i'm comin clear to the ear
-for all you non-believers, and you perpetrators
-that talk to me now but talk about me later
-it's time for you to grieve, grovel in your sorrow
-i'm the star of today and the star of tomorrow
-i'm takin out the old jacks, rippin up the new ones
-i don't care if it means i have to ruin
-i will and i shall and i get the job completed
-those that don't belong they will be deleted
-from the rap roster, i'm not an impostor
-i'm comin to you live with the 45
-straight from the studio with a view..
-.. in new york city
-"i love it!"
-.. i'm out
-"i love it!" "dj" back and forth
+(dp1
+Vbelong
+p2
+I1
+sVlyrics
+p3
+I3
+sVrippin
+p4
+I1
+sVbring
+p5
+I1
+sVhobbes
+p6
+I1
+sVbroader
+p7
+I1
+sVskin
+p8
+I1
+sVgo
+p9
+I3
+sVearth
+p10
+I1
+sVtakin
+p11
+I1
+sVaint
+p12
+I2
+sVruin
+p13
+I1
+sVrefreshment
+p14
+I1
+sVbullshit
+p15
+I1
+sVblack
+p16
+I1
+sVchoose
+p17
+I1
+sVkick
+p18
+I1
+sVreal
+p19
+I1
+sVme
+p20
+I1
+sVthem
+p21
+I2
+sVdj
+p22
+I1
+sVaround
+p23
+I1
+sVyo
+p24
+I1
+sVget
+p25
+I2
+sVbig
+p26
+I3
+sVlater
+p27
+I1
+sVrhyme
+p28
+I1
+sVuhh
+p29
+I1
+sVwhistle
+p30
+I1
+sVfrontin
+p31
+I1
+sVwords
+p32
+I1
+sVfall
+p33
+I1
+sVworld
+p34
+I1
+sVnow
+p35
+I1
+sVexact
+p36
+I1
+sVday
+p37
+I2
+sVbigger
+p38
+I1
+sVname
+p39
+I1
+sVlike
+p40
+I2
+sVmothers
+p41
+I1
+sVforth
+p42
+I1
+sVtheyre
+p43
+I1
+sVbad
+p44
+I4
+sVstuff
+p45
+I1
+sVbrooklyns
+p46
+I2
+sVlose
+p47
+I1
+sVsmall
+p48
+I1
+sVsoft
+p49
+I1
+sVrack
+p50
+I1
+sVview
+p51
+I1
+sVset
+p52
+I1
+sVold
+p53
+I1
+sVjob
+p54
+I1
+sVhouse
+p55
+I12
+sVyeah
+p56
+I3
+sVgrovel
+p57
+I1
+sVsee
+p58
+I5
+sVinvestment
+p59
+I1
+sVreally
+p60
+I2
+sValbum
+p61
+I1
+sVwhat
+p62
+I1
+sVprofit
+p63
+I1
+sVbroad
+p64
+I1
+sVaway
+p65
+I1
+sVroster
+p66
+I1
+sVgot
+p67
+I1
+sVfalling
+p68
+I2
+sVcause
+p69
+I2
+sVsolo
+p70
+I1
+sVattention
+p71
+I1
+sVlove
+p72
+I2
+sVsellout
+p73
+I1
+sVdeleted
+p74
+I1
+sVsorrow
+p75
+I1
+sVnever
+p76
+I4
+sVbolo
+p77
+I1
+sVquite
+p78
+I1
+sVstep
+p79
+I1
+sVlet
+p80
+I2
+sVyork
+p81
+I1
+sValthough
+p82
+I1
+sVsynced
+p83
+I1
+sVcome
+p84
+I2
+sVcare
+p85
+I1
+sVsister
+p86
+I3
+sVisland
+p87
+I4
+sVcould
+p88
+I2
+sVreason
+p89
+I1
+sVsidekick
+p90
+I1
+sVfunky
+p91
+I1
+sVninetyone
+p92
+I1
+sVpick
+p93
+I1
+sVbronx
+p94
+I2
+sVopinion
+p95
+I1
+sVwhats
+p96
+I1
+sVdont
+p97
+I6
+sVfeel
+p98
+I1
+sVblacker
+p99
+I1
+sVone
+p100
+I3
+sVright
+p101
+I1
+sVcomin
+p102
+I4
+sVstaten
+p103
+I2
+sVperpetrators
+p104
+I1
+sVpleasin
+p105
+I1
+sVtomorrow
+p106
+I1
+sVcity
+p107
+I1
+sVuse
+p108
+I1
+sVwould
+p109
+I1
+sVlyte
+p110
+I6
+sVtop
+p111
+I2
+sVstated
+p112
+I1
+sVlive
+p113
+I1
+sVlong
+p114
+I2
+sVwhos
+p115
+I1
+sVattack
+p116
+I2
+sVcopacetic
+p117
+I1
+sVway
+p118
+I1
+sVahhh
+p119
+I1
+sVdamn
+p120
+I1
+sVbonds
+p121
+I1
+sVtell
+p122
+I2
+sVstore
+p123
+I1
+sVlisten
+p124
+I1
+sVjacks
+p125
+I1
+sVcompleted
+p126
+I1
+sVfuck
+p127
+I1
+sVback
+p128
+I3
+sVtoot
+p129
+I1
+sVhear
+p130
+I4
+sVstraight
+p131
+I1
+sVbaby
+p132
+I1
+sVear
+p133
+I1
+sVfly
+p134
+I1
+sVmc
+p135
+I3
+sVuptowns
+p136
+I2
+sVmeans
+p137
+I1
+sVgrieve
+p138
+I1
+sVcritic
+p139
+I1
+sVrhymes
+p140
+I1
+sVmatter
+p141
+I1
+sVnear
+p142
+I1
+sVdroppin
+p143
+I1
+sVsilly
+p144
+I2
+sVtoday
+p145
+I1
+sVcriticizes
+p146
+I1
+sVfetch
+p147
+I1
+sVsucka
+p148
+I1
+sVpack
+p149
+I1
+sVcatch
+p150
+I1
+sVhip
+p151
+I1
+sVcmon
+p152
+I1
+sVgive
+p153
+I2
+sVmind
+p154
+I1
+sVit
+p155
+I4
+sVnonbelievers
+p156
+I1
+sVtonight
+p157
+I1
+sVsay
+p158
+I4
+sVim
+p159
+I13
+sVrap
+p160
+I3
+sVcompared
+p161
+I1
+sVno
+p162
+I1
+sVpay
+p163
+I1
+sVmake
+p164
+I1
+sV45
+p165
+I3
+sVtip
+p166
+I1
+sVaside
+p167
+I1
+sVimpostor
+p168
+I1
+sVtake
+p169
+I2
+sVhop
+p170
+I1
+sVyeahhh
+p171
+I1
+sVnew
+p172
+I3
+sVout
+p173
+I1
+sVstar
+p174
+I2
+sVshall
+p175
+I1
+sVstop
+p176
+I1
+sVhiphop
+p177
+I1
+sVweigh
+p178
+I1
+sVstocks
+p179
+I1
+sVstack
+p180
+I1
+sVsoared
+p181
+I1
+sVqueens
+p182
+I2
+sVa
+I1
+sVstudio
+p183
+I1
+sVclear
+p184
+I1
+sVyoure
+p185
+I1
+sVwell
+p186
+I1
+sVrule
+p187
+I1
+sVkickin
+p188
+I1
+sVones
+p189
+I1
+sVtalk
+p190
+I2
+sVtime
+p191
+I2
+sVtall
+p192
+I1
+sVyell
+p193
+I1
+sVpsychic
+p194
+I1
+sVfact
+p195
+I1
+s.

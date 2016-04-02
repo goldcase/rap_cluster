@@ -1,45 +1,191 @@
-"so long" lyrics
-snoop dogg lyrics
-"so long"
-(feat. angela hunte)
-so long we’ve been on this journey
-and i know we can make it
-stay strong our hearts been yearning
-and no one can break it
-round and round our road keeps turning
-no one can stop the time
-it’s just another bridge we’re crossing
-keep this message in your souls and minds
-they try to break a bond
-but what they didn’t know
-that we were built so strong
-ye they didn’t know
-but in their hearts and minds
-we were gone
-said we were an old show
-baby don’t you cry
-for as long as i’m alive, you live
-so long we’ve been on this journey
-and i know we can make it
-stay strong our hearts been yearning
-and no one can break it
-round and round our road keeps turning
-no one can stop the time
-it’s just another bridge we’re crossing
-keep this message in your souls and minds
-if i should die tonight
-i’d be happy that i knew you
-if i should lose my sight
-it’s still know all with all my mind
-if all the words and fights
-still can’t get it right
-baby don’t you cry
-for as long as i’m alive, you live
-so long we’ve been on this journey
-and i know we can make it
-stay strong our hearts been yearning
-and no one can break it
-round and round our road keeps turning
-no one can stop the time
-it’s just another bridge we’re crossing
-keep this message in your souls and minds
+(dp1
+Vbridge
+p2
+I3
+sVright
+p3
+I1
+sVold
+p4
+I1
+sVsight
+p5
+I1
+sVlyrics
+p6
+I2
+sVgone
+p7
+I1
+sVwe\u2019re
+p8
+I3
+sVmind
+p9
+I1
+sVit
+p10
+I6
+sValive
+p11
+I2
+sVone
+p12
+I6
+sVtonight
+p13
+I1
+sVyearning
+p14
+I3
+sVlong
+p15
+I7
+sVanother
+p16
+I3
+sVwe\u2019ve
+p17
+I3
+sVmessage
+p18
+I3
+sVstill
+p19
+I2
+sVfeat
+p20
+I1
+sVsaid
+p21
+I1
+sVbuilt
+p22
+I1
+sVsnoop
+p23
+I1
+sVlose
+p24
+I1
+sVdogg
+p25
+I1
+sVmake
+p26
+I3
+sVit\u2019s
+p27
+I4
+sVangela
+p28
+I1
+sVlive
+p29
+I2
+sVdon\u2019t
+p30
+I2
+sVshow
+p31
+I1
+sVyou
+p32
+I1
+sVsouls
+p33
+I3
+sVhappy
+p34
+I1
+sVcan\u2019t
+p35
+I1
+sVi\u2019d
+p36
+I1
+sVknew
+p37
+I1
+sVturning
+p38
+I3
+sVget
+p39
+I1
+sVi\u2019m
+p40
+I2
+sVye
+p41
+I1
+sVtime
+p42
+I3
+sVstop
+p43
+I3
+sVdidn\u2019t
+p44
+I2
+sVstay
+p45
+I3
+sVbreak
+p46
+I4
+sVjourney
+p47
+I3
+sVknow
+p48
+I6
+sVwords
+p49
+I1
+sVbaby
+p50
+I2
+sVstrong
+p51
+I4
+sVdie
+p52
+I1
+sVcry
+p53
+I2
+sVfights
+p54
+I1
+sVhunte
+p55
+I1
+sVminds
+p56
+I4
+sVkeep
+p57
+I3
+sVtry
+p58
+I1
+sVkeeps
+p59
+I3
+sVcrossing
+p60
+I3
+sVhearts
+p61
+I4
+sVround
+p62
+I6
+sVroad
+p63
+I3
+sVbond
+p64
+I1
+s.

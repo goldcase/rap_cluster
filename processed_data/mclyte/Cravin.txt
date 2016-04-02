@@ -1,59 +1,329 @@
-"cravin'" lyrics
-mc lyte lyrics
-"cravin'"
-ho! ohhhh oh yeah yeah!
-i wanna know, i'm done waitin
-there's a passion in the air that i'm cravin
-and i can't hold out don't wanna hold back
-i can't hold out for you
-i can't hold out don't wanna hold back
-i can't hold out for you
-uh! time to live life, make it amazin
-been cravin since the days of days inn
-now i'm at the four seasons, i got a reason
-to celebrate, somethin to believe in (come on now!)
-great time great minds think alike
-you ain't for doin it right, then get a life
-what time in this game means it's bittersweet
-but even my enemies know i'm the centerpiece
-i wanna know, i'm done waitin
-there's a passion in the air that i'm cravin
-and i can't hold out don't wanna hold back
-i can't hold out for you
-i can't hold out don't wanna hold back
-i can't hold out for you
-no more waitin, time to post up
-somebody yell action time for close ups
-ready for blast off dudes take your hats off
-respect diamonds on my neck now that's boss!
-good livin never hurt nobody
-ladies grab your honey, fellas grab your hottie
-let's make it a moment that we'll never forget
-like nothin ever will be better than this
-i wanna know, i'm done waitin
-there's a passion in the air that i'm cravin
-and i can't hold out don't wanna hold back
-i can't hold out for you
-i can't hold out don't wanna hold back
-i can't hold out for you
-na na na na! na na na na!
-na na na na! na na na na!
-na na na na! na na na na!
-na na na na! na na na na!
-let's go! hands up if you know that your feelin the vibe
-hands up if you know we 'gon get it tonight
-('cause we 'gon party, like nobody)
-hands up if you really 'bout gettin your cream
-hands up in you interest in reachin your dreams
-it's like yeah! keep 'em in the air!
-it's bout to go down and we 'bout to take you therrrrrrrrrrrreeeeeee!!!!!!!
-i wanna know, i'm done waitin
-there's a passion in the air that i'm cravin
-and i can't hold out don't wanna hold back
-i can't hold out for you
-i can't hold out don't wanna hold back
-i can't hold out for you
-na na na na! na na na na!
-na na na na! na na na na!
-na na na na! na na na na!
-na na na na! na na na na!
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVhats
+p4
+I1
+sVfour
+p5
+I1
+sVgo
+p6
+I2
+sVfellas
+p7
+I1
+sVinn
+p8
+I1
+sVaint
+p9
+I1
+sVhold
+p10
+I24
+sVbetter
+p11
+I1
+sVlets
+p12
+I2
+sVdreams
+p13
+I1
+sVbout
+p14
+I3
+sVreachin
+p15
+I1
+sVgood
+p16
+I1
+sVsomebody
+p17
+I1
+sVlivin
+p18
+I1
+sVget
+p19
+I2
+sVfeelin
+p20
+I1
+sVgame
+p21
+I1
+sVknow
+p22
+I7
+sVhands
+p23
+I4
+sVnow
+p24
+I1
+sVcelebrate
+p25
+I1
+sVlike
+p26
+I3
+sVcause
+p27
+I1
+sVgettin
+p28
+I1
+sVgrab
+p29
+I2
+sVups
+p30
+I1
+sVem
+p31
+I1
+sVright
+p32
+I1
+sVback
+p33
+I8
+sVclose
+p34
+I1
+sVenemies
+p35
+I1
+sVeven
+p36
+I1
+sVgon
+p37
+I2
+sVsince
+p38
+I1
+sVpassion
+p39
+I4
+sVdiamonds
+p40
+I1
+sVgot
+p41
+I1
+sVever
+p42
+I1
+sVamazin
+p43
+I1
+sVnever
+p44
+I2
+sVboss
+p45
+I1
+sVreason
+p46
+I1
+sVpost
+p47
+I1
+sVcome
+p48
+I1
+sVgreat
+p49
+I2
+sVoh
+p50
+I1
+sVdays
+p51
+I2
+sVminds
+p52
+I1
+sVkeep
+p53
+I1
+sVaction
+p54
+I1
+sVcravin
+p55
+I7
+sVthink
+p56
+I1
+sVthats
+p57
+I1
+sVladies
+p58
+I1
+sVdont
+p59
+I8
+sVtherrrrrrrrrrrreeeeeee
+p60
+I1
+sVdudes
+p61
+I1
+sVdone
+p62
+I4
+sVrespect
+p63
+I1
+sVwan
+p64
+I12
+sVlyte
+p65
+I1
+sVlive
+p66
+I1
+sVinterest
+p67
+I1
+sVlife
+p68
+I2
+sVnobody
+p69
+I2
+sVhurt
+p70
+I1
+sVcenterpiece
+p71
+I1
+sVho
+p72
+I1
+sVbelieve
+p73
+I1
+sVtonight
+p74
+I1
+sVmc
+p75
+I1
+sVthis
+p76
+I1
+sVup
+p77
+I1
+sVair
+p78
+I5
+sVuh
+p79
+I1
+sVhottie
+p80
+I1
+sVtheres
+p81
+I4
+sVbittersweet
+p82
+I1
+sVhoney
+p83
+I1
+sVcant
+p84
+I16
+sVim
+p85
+I10
+sValike
+p86
+I1
+sVready
+p87
+I1
+sVohhhh
+p88
+I1
+sVcream
+p89
+I1
+sVvibe
+p90
+I1
+sVna
+p91
+I76
+sVmake
+p92
+I2
+sVmeans
+p93
+I1
+sVtake
+p94
+I2
+sVparty
+p95
+I1
+sVyou
+p96
+I8
+sVreally
+p97
+I1
+sVwaitin
+p98
+I5
+sVdoin
+p99
+I1
+sVmoment
+p100
+I1
+sVseasons
+p101
+I1
+sVyeah
+p102
+I3
+sVsomethin
+p103
+I1
+sVoff
+p104
+I1
+sVneck
+p105
+I1
+sVwell
+p106
+I1
+sVnothin
+p107
+I1
+sVblast
+p108
+I1
+sVtime
+p109
+I5
+sVyell
+p110
+I1
+s.

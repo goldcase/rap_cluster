@@ -1,88 +1,686 @@
-"serious" lyrics
-e-40 lyrics
-"serious"
-yeah...
-mmm....
-yeah...
-get it in the mornin' cuz i'm so serious...
-get it in the mornin' cuz i'm so serious...
-so serious mane... listen up...
-if  hustling fo' real you gonna bounce back if you got give back skills...
-fuck all that weeping and whining and crying pissing the bed...
-im'ma make it do what it do...
-get out and get my grits...
-i'm on that graveyard shift...
-my water bill past due...
-hustlin' tryin' to stay focused...
-got a 24-hour notice on my door...
-business is slow...
-i speak the truth...
-blood pressure out the roof...
-a long way from being recession proof...
-i'm going through...
-i ain't tryin' to be a dead beat dad...
-i want my kids to have a better life than i had...
-my cellular off... need some more minutes over my limit...
-had the money but bought an ounce of weed thought i could flip it...
-man i'm niggerin' cuz that's what some of us black folks do
-instead of paying the bill we gonna buy the new jordan shoe...
-milk and diaper and baby wipes cost an arm and a leg...
-a breast a wing and a thigh...
-hustlin' trying to get by...
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
-i'm sick and tired of being sick and tired of being broke...
-i'm sick of this sequel...
-man i swear i  brought down on my luck...
-ain't got a buck to my name...
-dirty, testing, pissing in a cup...
-what tha fuck...
-they found weed in my system...
-i told my girl i was quittin'...
-they send me back to san quentin...
-for 90 days...
-did my time and got out...
-now i'm in the unemployment line tryin' to figure shit out...
-but the penal system got me by the neck
-with my troubled past i can't even get me a job...
-my partner rap...
-he got his own record label...
-they doin' their thing...
-if i holla at them maybe they can shoot me some change...
-plus i'm a loyal nigga... man i learn quick bro... i ain't stupid...
-all you gotta do is show me one time i can do it...
-my fellow put a hustler under his wing showed me the game...
-now i'm doing my thang...
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
-i'm trying to stay out of trouble and triple double quadruple...
-this little change that i got by throwing a few concerts...
-but i'm not too sure if i'm ready to spend this mayo...
-the reason  rap shows don't always go that well...
-and the chances are that i probably won't recoup...
-so i'm gonna take this loot and book some old school r&b soul groups...
-that way the venue insurance won't be that high... and...
-plus i'm minimizing the chances of somebody dying... that's right...
-i got a homey that work at the toll bridge...
-he make good money, plus he get benefits...
-he been hollerin' at me never-the-lesson...
-tryin' to get  nigga a job there...
-which is a blessing...
-but i don't think the homey really understand...
-i'm an entrepreneur man i ain't workin' for no white man...
-attitude of a hood boy...
-all my life i been running from the elroys
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
-don't underestimate me a couple of days is all it's gonna take me...
-cuz i'm so serious it go like that i drop it off and it come right back...
-i get it in tha mornin'...
+(dp1
+Vthink
+p2
+I1
+sVthigh
+p3
+I1
+sVlyrics
+p4
+I2
+sVunemployment
+p5
+I1
+sVchances
+p6
+I2
+sVmoney
+p7
+I2
+sVpissing
+p8
+I2
+sVminimizing
+p9
+I1
+sVthrough
+p10
+I1
+sVshoe
+p11
+I1
+sVgo
+p12
+I7
+sVmilk
+p13
+I1
+sVhustler
+p14
+I1
+sVaint
+p15
+I4
+sVslow
+p16
+I1
+sVcup
+p17
+I1
+sVimma
+p18
+I1
+sVthang
+p19
+I1
+sVshow
+p20
+I1
+sVhad
+p21
+I1
+sVcuz
+p22
+I9
+sVsend
+p23
+I1
+sVbetter
+p24
+I1
+sVgoing
+p25
+I1
+sVblack
+p26
+I1
+sVcrying
+p27
+I1
+sVfolks
+p28
+I1
+sVblessing
+p29
+I1
+sVtroubled
+p30
+I1
+sVtake
+p31
+I7
+sVdad
+p32
+I1
+sVdo
+p33
+I2
+sVmornin
+p34
+I8
+sVsomebody
+p35
+I1
+sVrb
+p36
+I1
+sVtriple
+p37
+I1
+sVget
+p38
+I14
+sVbeat
+p39
+I1
+sVcouple
+p40
+I6
+sVme
+p41
+I6
+sVgame
+p42
+I1
+sVbreast
+p43
+I1
+sVcellular
+p44
+I1
+sVinstead
+p45
+I1
+sVtrouble
+p46
+I1
+sVone
+p47
+I1
+sVname
+p48
+I1
+sVwont
+p49
+I2
+sVbro
+p50
+I1
+sVschool
+p51
+I1
+sVlike
+p52
+I6
+sVentrepreneur
+p53
+I1
+sVskills
+p54
+I1
+sValways
+p55
+I1
+sVdrop
+p56
+I6
+sVvenue
+p57
+I1
+sVattitude
+p58
+I1
+sVstupid
+p59
+I1
+sVtruth
+p60
+I1
+sVneverthelesson
+p61
+I1
+sVquick
+p62
+I1
+sVfound
+p63
+I1
+sVtold
+p64
+I1
+sVconcerts
+p65
+I1
+sVluck
+p66
+I1
+sVright
+p67
+I7
+sVold
+p68
+I1
+sVtired
+p69
+I2
+sVthrowing
+p70
+I1
+sVtesting
+p71
+I1
+sVyeah
+p72
+I2
+sVbounce
+p73
+I1
+sVup
+p74
+I1
+sVpast
+p75
+I2
+sVcost
+p76
+I1
+sVroof
+p77
+I1
+sV24hour
+p78
+I1
+sVarm
+p79
+I1
+sVshows
+p80
+I1
+sVout
+p81
+I2
+sVeven
+p82
+I1
+sVman
+p83
+I5
+sVgon
+p84
+I9
+sVprobably
+p85
+I1
+sVrecoup
+p86
+I1
+sVlabel
+p87
+I1
+sVhomey
+p88
+I2
+sVgrits
+p89
+I1
+sVtoll
+p90
+I1
+sVgot
+p91
+I9
+sVhollerin
+p92
+I1
+sVbought
+p93
+I1
+sVnotice
+p94
+I1
+sVbed
+p95
+I1
+sVbusiness
+p96
+I1
+sVleg
+p97
+I1
+sVmmm
+p98
+I1
+sVpressure
+p99
+I1
+sVjob
+p100
+I2
+sVfocused
+p101
+I1
+sVgroups
+p102
+I1
+sVfuck
+p103
+I2
+sVweed
+p104
+I2
+sVcome
+p105
+I6
+sVby
+p106
+I1
+sVchange
+p107
+I2
+sVwater
+p108
+I1
+sVkids
+p109
+I1
+sVbenefits
+p110
+I1
+sVshift
+p111
+I1
+sVcould
+p112
+I1
+sVdays
+p113
+I7
+sVthing
+p114
+I1
+sVounce
+p115
+I1
+sVplus
+p116
+I3
+sVmane
+p117
+I1
+sVpenal
+p118
+I1
+sVbook
+p119
+I1
+sVthats
+p120
+I2
+sVdont
+p121
+I8
+sVbridge
+p122
+I1
+sVsystem
+p123
+I2
+sVbrought
+p124
+I1
+sVput
+p125
+I1
+sVnigga
+p126
+I2
+sVquadruple
+p127
+I1
+sVsoul
+p128
+I1
+sVhood
+p129
+I1
+sVspeak
+p130
+I1
+sVlittle
+p131
+I1
+sVelroys
+p132
+I1
+sVthere
+p133
+I1
+sVdue
+p134
+I1
+sVlong
+p135
+I1
+sVway
+p136
+I2
+sVwhite
+p137
+I1
+sVtryin
+p138
+I4
+sVwipes
+p139
+I1
+sVlisten
+p140
+I1
+sVlife
+p141
+I2
+sVbuy
+p142
+I1
+sVdoor
+p143
+I1
+sVweeping
+p144
+I1
+sVgraveyard
+p145
+I1
+sVbuck
+p146
+I1
+sVsequel
+p147
+I1
+sVnew
+p148
+I1
+sVback
+p149
+I9
+sVjordan
+p150
+I1
+sVdead
+p151
+I1
+sVbroke
+p152
+I1
+sVbaby
+p153
+I1
+sV90
+p154
+I1
+sVline
+p155
+I1
+sVtrying
+p156
+I2
+sVpaying
+p157
+I1
+sVe40
+p158
+I1
+sVreason
+p159
+I1
+sVshowed
+p160
+I1
+sVdouble
+p161
+I1
+sVboy
+p162
+I1
+sVbill
+p163
+I2
+sVflip
+p164
+I1
+sVus
+p165
+I1
+sVrecession
+p166
+I1
+sVrecord
+p167
+I1
+sVhustlin
+p168
+I2
+sVlimit
+p169
+I1
+sVdirty
+p170
+I1
+sVlearn
+p171
+I1
+sVloot
+p172
+I1
+sVta
+p173
+I1
+sVminutes
+p174
+I1
+sVproof
+p175
+I1
+sVand
+p176
+I1
+sVreal
+p177
+I1
+sVsan
+p178
+I1
+sVfigure
+p179
+I1
+sVgive
+p180
+I1
+sVit
+p181
+I2
+sVfellow
+p182
+I1
+sVhigh
+p183
+I1
+sVready
+p184
+I1
+sVcant
+p185
+I1
+sVgood
+p186
+I1
+sVim
+p187
+I22
+sVwant
+p188
+I1
+sVneed
+p189
+I1
+sVpartner
+p190
+I1
+sVwork
+p191
+I1
+sVgirl
+p192
+I1
+sVshit
+p193
+I1
+sVholla
+p194
+I1
+sVdying
+p195
+I1
+sVna
+p196
+I9
+sVmake
+p197
+I2
+sVinsurance
+p198
+I1
+sVswear
+p199
+I1
+sVshoot
+p200
+I1
+sVunderestimate
+p201
+I6
+sVsick
+p202
+I3
+sVrap
+p203
+I2
+sVniggerin
+p204
+I1
+sVreally
+p205
+I1
+sVhustling
+p206
+I1
+sVmayo
+p207
+I1
+sVquittin
+p208
+I1
+sVsure
+p209
+I1
+sVdoin
+p210
+I1
+sVquentin
+p211
+I1
+sVstay
+p212
+I2
+sVrunning
+p213
+I1
+sVwhining
+p214
+I1
+sVblood
+p215
+I1
+sVunderstand
+p216
+I1
+sVfo
+p217
+I1
+sVworkin
+p218
+I1
+sVneck
+p219
+I1
+sVmaybe
+p220
+I1
+sVwell
+p221
+I1
+sVspend
+p222
+I1
+sVthought
+p223
+I1
+sVloyal
+p224
+I1
+sVtime
+p225
+I2
+sVserious
+p226
+I11
+sVwing
+p227
+I2
+sVtha
+p228
+I7
+sVdiaper
+p229
+I1
+s.

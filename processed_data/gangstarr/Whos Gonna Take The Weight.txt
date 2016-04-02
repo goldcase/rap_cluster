@@ -1,67 +1,605 @@
-"who's gonna take the weight?" lyrics
-gang starr lyrics
-"who's gonna take the weight?"
-"knowledge is power, and knowledge can be the difference between life
-or death...you should know the truth and the truth shall set you free."
-i was raised like a muslim
-prayin' to the east
-nature of my life relates rhymes i release
-like a cannon
-cuz i been plannin' to be rammin' what i wrote
-straight on a plate down your throat
-so digest as i suggest we take a good look
-at who's who while i'm readin' from my good book
-and let's dig into every nook and every cranny
-set your mind free as i slam these thoughts
-and just like a jammy goes pow
-you're gonna see what i'm sayin' now
-you can't be sleepin'
-cuz things are gettin' crazy
-you better stop being lazy
-there's many people frontin'
-and many brothers droppin'
-all because of dumb things, let me tell you somethin'
-i've been through so much that i'm such
-a maniac, but i still act out of faith
-that we can get the shit together so i break
-on fools with no rhymes skills messin' up the flow
-and people with no sense who be movin' much too slow
-and so, you will know the meaning of the gang starr
-guru with the mic and premier raise the anchor
-swiftly, as we embark on a journey
-i had to get an attorney
-i needed someone to defend my position
-decisions i made, cuz now it's time to get paid
-and ladies, these rhymes are like the keys to a dope car
-maybe a lexus or a jaguar
-still, all of that is just material
-so won't you dig the scenario
-and just imagine if each one is teachin' one
-we'll come together so that we become
-a strong force, then we can stay on course
-find your direction through introspection
-and for my people out there i got a question
-can we be the sole controllers of our fate?
-now who's gonna take the weight?
-the weight of the world is heavy on my mind
-so as my feelings unwind i find
-that some try to be down just cuz it's trendy
-others fall victim to envy
-but i'll take the road less travelled
-so i can see all my hopes and my dreams unravel
-relievin' your stress, expressin' my interest
-in the situation that you're facin'
-that's why i'm down with the nation
-spirituality supports reality
-we gotta fight with the right mentality
-so we can gain what is rightfully ours
-this is the meaning of the chain and the star
-land is power, so gimme forty acres
-let's see how far i can take ya
-original invincible
-that's how i'm lookin' at it
-i use my rhymes like a glock automatic
-any means necessary, i'm goin' all out
-before the rains bring the nuclear fallout
-so let me ask you, is it too late?
-ayo, who's gonna take the weight
+(dp1
+Vlyrics
+p2
+I2
+sVless
+p3
+I1
+sVladies
+p4
+I1
+sVcourse
+p5
+I1
+sVgang
+p6
+I2
+sVvictim
+p7
+I1
+sVlexus
+p8
+I1
+sVstill
+p9
+I2
+sVdecisions
+p10
+I1
+sVfind
+p11
+I2
+sVdigest
+p12
+I1
+sVone
+p13
+I2
+sVenvy
+p14
+I1
+sVdifference
+p15
+I1
+sVknowledge
+p16
+I2
+sVcuz
+p17
+I4
+sVacres
+p18
+I1
+sVbetter
+p19
+I1
+sVspirituality
+p20
+I1
+sVlets
+p21
+I2
+sVours
+p22
+I1
+sVeast
+p23
+I1
+sVta
+p24
+I1
+sVplate
+p25
+I1
+sVgood
+p26
+I2
+sVfate
+p27
+I1
+sVget
+p28
+I3
+sVfar
+p29
+I1
+sVcannon
+p30
+I1
+sVdope
+p31
+I1
+sVjammy
+p32
+I1
+sVstop
+p33
+I1
+sVnation
+p34
+I1
+sVbreak
+p35
+I1
+sVembark
+p36
+I1
+sVfrontin
+p37
+I1
+sVevery
+p38
+I2
+sVknow
+p39
+I2
+sVfallout
+p40
+I1
+sVfall
+p41
+I1
+sVworld
+p42
+I1
+sVnow
+p43
+I1
+sVdreams
+p44
+I1
+sVwont
+p45
+I1
+sVjaguar
+p46
+I1
+sVlike
+p47
+I5
+sVrelievin
+p48
+I1
+sVbring
+p49
+I1
+sVskills
+p50
+I1
+sVgettin
+p51
+I1
+sVcontrollers
+p52
+I1
+sVsomeone
+p53
+I1
+sVtruth
+p54
+I2
+sVinvincible
+p55
+I1
+sVrelease
+p56
+I1
+sVbecome
+p57
+I1
+sVautomatic
+p58
+I1
+sVwrote
+p59
+I1
+sVheavy
+p60
+I1
+sVslow
+p61
+I1
+sVattorney
+p62
+I1
+sVset
+p63
+I2
+sVforce
+p64
+I1
+sVweight
+p65
+I5
+sVpeople
+p66
+I3
+sVrammin
+p67
+I1
+sVsee
+p68
+I3
+sVdumb
+p69
+I1
+sVtrendy
+p70
+I1
+sVrelates
+p71
+I1
+sVout
+p72
+I1
+sVtry
+p73
+I1
+sVmovin
+p74
+I1
+sVgon
+p75
+I5
+sVsleepin
+p76
+I1
+sVnuclear
+p77
+I1
+sVdefend
+p78
+I1
+sVforty
+p79
+I1
+sVnook
+p80
+I1
+sVrightfully
+p81
+I1
+sVunravel
+p82
+I1
+sVgoes
+p83
+I1
+sVgot
+p84
+I2
+sVsupports
+p85
+I1
+sVlazy
+p86
+I1
+sVsole
+p87
+I1
+sVpower
+p88
+I2
+sVnature
+p89
+I1
+sVmuslim
+p90
+I1
+sVayo
+p91
+I1
+sVfree
+p92
+I2
+sVfeelings
+p93
+I1
+sVdig
+p94
+I2
+sVlet
+p95
+I2
+sVdeathyou
+p96
+I1
+sVask
+p97
+I1
+sVstrong
+p98
+I1
+sVcome
+p99
+I1
+sVsayin
+p100
+I1
+sVfaith
+p101
+I1
+sVmaniac
+p102
+I1
+sVmany
+p103
+I2
+sVill
+p104
+I1
+sVjourney
+p105
+I1
+sVlookin
+p106
+I1
+sVact
+p107
+I1
+sVchain
+p108
+I1
+sVroad
+p109
+I1
+sVthats
+p110
+I2
+sVsuggest
+p111
+I1
+sVraised
+p112
+I1
+sVnecessary
+p113
+I1
+sVunwind
+p114
+I1
+sVpow
+p115
+I1
+sVimagine
+p116
+I1
+sVmessin
+p117
+I1
+sVcranny
+p118
+I1
+sVright
+p119
+I1
+sVfight
+p120
+I1
+sVfacin
+p121
+I1
+sVlate
+p122
+I1
+sVuse
+p123
+I1
+sVraise
+p124
+I1
+sVquestion
+p125
+I1
+sVwhos
+p126
+I5
+sVneeded
+p127
+I1
+sVmuch
+p128
+I2
+sVinterest
+p129
+I1
+sVstarr
+p130
+I2
+sVtravelled
+p131
+I1
+sVtell
+p132
+I1
+sVlife
+p133
+I2
+sVglock
+p134
+I1
+sVmentality
+p135
+I1
+sVit
+p136
+I1
+sVgain
+p137
+I1
+sVhopes
+p138
+I1
+sVgim
+p139
+I1
+sVme
+p140
+I1
+sVmade
+p141
+I1
+sVlook
+p142
+I1
+sVcar
+p143
+I1
+sVstraight
+p144
+I1
+sVrhymes
+p145
+I4
+sVprayin
+p146
+I1
+sVdroppin
+p147
+I1
+sVtime
+p148
+I1
+sVsituation
+p149
+I1
+sVanchor
+p150
+I1
+sVtheres
+p151
+I1
+sVexpressin
+p152
+I1
+sVive
+p153
+I1
+sVcrazy
+p154
+I1
+sVwell
+p155
+I1
+sVpremier
+p156
+I1
+sVmind
+p157
+I2
+sVdirection
+p158
+I1
+sVreadin
+p159
+I1
+sVcant
+p160
+I1
+sVslam
+p161
+I1
+sVim
+p162
+I6
+sVsense
+p163
+I1
+sVthroat
+p164
+I1
+sVshit
+p165
+I1
+sVguru
+p166
+I1
+sVrains
+p167
+I1
+sVthings
+p168
+I2
+sVmic
+p169
+I1
+sVmeans
+p170
+I1
+sVreality
+p171
+I1
+sVintrospection
+p172
+I1
+sVya
+p173
+I1
+sVbook
+p174
+I1
+sVtake
+p175
+I7
+sVfools
+p176
+I1
+sVmaterial
+p177
+I1
+sVstar
+p178
+I1
+sVbrothers
+p179
+I1
+sVshall
+p180
+I1
+sVkeys
+p181
+I1
+sVswiftly
+p182
+I1
+sVpaid
+p183
+I1
+sVstay
+p184
+I1
+sVmeaning
+p185
+I2
+sVplannin
+p186
+I1
+sVsuch
+p187
+I1
+sVthoughts
+p188
+I1
+sVgoin
+p189
+I1
+sVsomethin
+p190
+I1
+sVstress
+p191
+I1
+sVland
+p192
+I1
+sVscenario
+p193
+I1
+sVmaybe
+p194
+I1
+sVyoure
+p195
+I2
+sVflow
+p196
+I1
+sVtogether
+p197
+I2
+sVteachin
+p198
+I1
+sVna
+p199
+I5
+sVposition
+p200
+I1
+sVoriginal
+p201
+I1
+sVothers
+p202
+I1
+s.

@@ -1,56 +1,479 @@
-"how low" lyrics
-ludacris lyrics
-"how low"
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-hahaha, luda!
-she can go lower than i ever really thought she could - face down - {ass up!}
-the top of yo' booty jigglin outcho' jeans, baby pull yo' pants up!
-i like it when i see you do it, better than i've ever seen i done befo'
-a lot of, women, drop it to the ground, but how - low - can you go?
-lower, than yo', mama's, ever, seen it, in her, life-time
-never, would of i-magined it, not even in her right mind
-practice in front of that mirror, now you, doin it, on the dance flo'
-mad 'cause i can't get wit you, "chick, just show me how to dance" {ohh!!!}
-i may not wanna get low, so i'm posted up kinda like a playa do
-but if you come to the crib, then i'll might show you girls a thang or two
-yeah, i think you a superstar, wit a ass like that you gotta blow
-befo' you make it big, there’s just one thing that i gotta know
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-how - low - can you go? how - low, can you go?
-i can go looooooow (go low), lower than you know
-go looooooow (go looow), l-l-l-lower than you know
-go looooooow (go loow), l-l-l-lower than you know
-go looooooow (go looow), l-l-l-lower than you know
-i be like knick, knack, patty, wack
-oh, where my kitty cat? give a dog a bone
-how many licks does it take 'til i get
-to the center and let a realla nigga take you home?
-i can make this show, {stop} soon as he hear this fo', {pop}
-from a-t-l-a-n-t-a and all the way down to yo', {block}
-(ohhh!!!) put the needle on the record
-and i make her get lower than a lamborghini
-and if she really get low, then i'ma shoot a video and put it all on tv
-(oh!!) 'cause i like that french vanilla (french vanilla)
-and the caramel (and the caramel)
-but when it comes to chocolate (when it comes to chocolate),
-i know that very well (i know that very well)
-asian persuasion, no discrimination, i love how they seem to please us
-i wanna taste them butter rican pecan peanut butter cups like reese's pieces (oh!!)
-'cause i think you a superstar, wit a ass like that you gotta blow
-befo' you make it big, there’s just one thing that i gotta knoooooow...
-drop it, hit it, dump it, split it
-don’t, stop - {get it, get it}
-put it in reverse just to back it up
-let me put some luda in it
-show me whatchu workin with, i’ll show you some of this bank, roll
-yeah you a superstar, there's just one thing i gotta know
-so...
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVdance
+p4
+I2
+sVsoon
+p5
+I1
+sVasian
+p6
+I1
+sVgo
+p7
+I34
+sVimagined
+p8
+I1
+sVground
+p9
+I1
+sVblow
+p10
+I2
+sVlicks
+p11
+I1
+sVtv
+p12
+I1
+sVthang
+p13
+I1
+sVshow
+p14
+I5
+sVbetter
+p15
+I1
+sVohhh
+p16
+I1
+sVwomen
+p17
+I1
+sVmight
+p18
+I1
+sVta
+p19
+I5
+sVdo
+p20
+I1
+sVknick
+p21
+I1
+sVhit
+p22
+I1
+sVyo
+p23
+I4
+sVget
+p24
+I7
+sVbig
+p25
+I2
+sVpractice
+p26
+I1
+sVkitty
+p27
+I1
+sVknow
+p28
+I8
+sVfront
+p29
+I1
+sVknoooooow
+p30
+I1
+sVbank
+p31
+I1
+sVworkin
+p32
+I1
+sVwhatchu
+p33
+I1
+sVlike
+p34
+I7
+sVbefo
+p35
+I3
+sVcause
+p36
+I3
+sVdrop
+p37
+I2
+sVcaramel
+p38
+I2
+sVchick
+p39
+I1
+sVbone
+p40
+I1
+sVright
+p41
+I1
+sVbooty
+p42
+I1
+sVjigglin
+p43
+I1
+sVdump
+p44
+I1
+sVrealla
+p45
+I1
+sVyeah
+p46
+I2
+sVsee
+p47
+I1
+sVvideo
+p48
+I1
+sVmirror
+p49
+I1
+sVhome
+p50
+I1
+sVreally
+p51
+I2
+sVeven
+p52
+I1
+sVllllower
+p53
+I3
+sVplease
+p54
+I1
+sVplaya
+p55
+I1
+sVit
+p56
+I3
+sVgot
+p57
+I5
+sVever
+p58
+I3
+sVpants
+p59
+I1
+sVass
+p60
+I3
+sVima
+p61
+I1
+sVmamas
+p62
+I1
+sVnever
+p63
+I1
+sVfrench
+p64
+I2
+sVlet
+p65
+I2
+sVput
+p66
+I4
+sVcome
+p67
+I1
+sVsuperstar
+p68
+I3
+sVreverse
+p69
+I1
+sVoh
+p70
+I3
+sVmany
+p71
+I1
+sVcould
+p72
+I1
+sVthing
+p73
+I3
+sVpeanut
+p74
+I1
+sVthink
+p75
+I2
+sVblock
+p76
+I1
+sVpatty
+p77
+I1
+sVlove
+p78
+I1
+sVjeans
+p79
+I1
+sVcrib
+p80
+I1
+sVone
+p81
+I3
+sVpop
+p82
+I1
+sVwit
+p83
+I3
+sVdone
+p84
+I1
+sVrican
+p85
+I1
+sVcups
+p86
+I1
+sVlooow
+p87
+I2
+sVwan
+p88
+I2
+sVwack
+p89
+I1
+sVwould
+p90
+I1
+sVdiscrimination
+p91
+I1
+sVtop
+p92
+I1
+sVgirls
+p93
+I1
+sVtwo
+p94
+I1
+sVlow
+p95
+I30
+sVlot
+p96
+I1
+sVdon\u2019t
+p97
+I1
+sVback
+p98
+I1
+sVway
+p99
+I1
+sVneedle
+p100
+I1
+sVchocolate
+p101
+I2
+sVnigga
+p102
+I1
+sVbaby
+p103
+I1
+sVatlanta
+p104
+I1
+sVposted
+p105
+I1
+sVshoot
+p106
+I1
+sVpull
+p107
+I1
+sVlamborghini
+p108
+I1
+sVsplit
+p109
+I1
+sVvanilla
+p110
+I2
+sVup
+p111
+I3
+sVus
+p112
+I1
+sVcat
+p113
+I1
+sVrecord
+p114
+I1
+sVflo
+p115
+I1
+sVhahaha
+p116
+I1
+sVloow
+p117
+I1
+sVill
+p118
+I1
+sVtheres
+p119
+I1
+sVluda
+p120
+I2
+sVive
+p121
+I1
+sVohh
+p122
+I1
+sVgive
+p123
+I1
+sVtaste
+p124
+I1
+sVmind
+p125
+I1
+sVthere\u2019s
+p126
+I2
+sVoutcho
+p127
+I1
+sVpieces
+p128
+I1
+sVcant
+p129
+I1
+sVim
+p130
+I1
+sVseen
+p131
+I2
+sVlifetime
+p132
+I1
+sVseem
+p133
+I1
+sVreeses
+p134
+I1
+sVna
+p135
+I2
+sVmake
+p136
+I4
+sVtil
+p137
+I1
+sVtake
+p138
+I2
+sVpersuasion
+p139
+I1
+sVroll
+p140
+I1
+sVmay
+p141
+I1
+sVstop
+p142
+I2
+sVdoin
+p143
+I1
+sVcenter
+p144
+I1
+sVmad
+p145
+I1
+sVkinda
+p146
+I1
+sVknack
+p147
+I1
+sVfo
+p148
+I1
+sVbutter
+p149
+I2
+sVlower
+p150
+I4
+sVi\u2019ll
+p151
+I1
+sVlooooooow
+p152
+I4
+sVpecan
+p153
+I1
+sVwell
+p154
+I2
+sVdog
+p155
+I1
+sVface
+p156
+I1
+sVthought
+p157
+I1
+sVso
+p158
+I1
+sVcomes
+p159
+I2
+sVhear
+p160
+I1
+s.

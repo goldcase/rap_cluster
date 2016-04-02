@@ -1,29 +1,227 @@
-"(hiney)" lyrics
-gang starr lyrics
-"(hiney)"
-(feat. panch)
-nah you know what we gotta do?  we gotta do - hiney!
-the bitch said, "panch stand behind me
-and put that monster in my hiney," hi-ney!
-my dick about killin, never been about game
-when there wasn't pussy, there was always my haind
-nine and a half-'ll get you in a dame
-anything less is just a god damn shame!
-check my balls, my shit got blue wrinkles on the face
-.. for them bitches who had the nerve to put me out they place
-in they hiney
-the bitch said, "panch stand behind me
-and put that monster in my hiney," hi-ney!
-i come through your block, with that one-eye whistle
-one hand on the whistle
-one.. one-eyed monster hit you
-make it slick, bitch, my dick game's official!
-lose your weight and, i don't leave you waitin
-the world is earthquakin
-my balls got yo' ass shakin - it's hiney jack!
-uh-oh!  hiney!
-the bitch said, "panch stand behind me
-and put that monster in my hiney," hi-ney!
-when i bust a nut, it say
-on her hiney!
-(that's some brilliant shiznit, yo! aiyyo!)
+(dp1
+Vnerve
+p2
+I1
+sVoneeyed
+p3
+I1
+sVass
+p4
+I1
+sVdont
+p5
+I1
+sVlyrics
+p6
+I2
+sVless
+p7
+I1
+sVwasnt
+p8
+I1
+sVpussy
+p9
+I1
+sVnut
+p10
+I1
+sVoneeye
+p11
+I1
+sVone
+p12
+I2
+sVshame
+p13
+I1
+sVshakin
+p14
+I1
+sVbitch
+p15
+I4
+sVface
+p16
+I1
+sVfeat
+p17
+I1
+sVcheck
+p18
+I1
+sVshit
+p19
+I1
+sVblue
+p20
+I1
+sVsaid
+p21
+I3
+sVplace
+p22
+I1
+sVweight
+p23
+I1
+sVgod
+p24
+I1
+sVnah
+p25
+I1
+sVdick
+p26
+I2
+sVslick
+p27
+I1
+sVbust
+p28
+I1
+sVthats
+p29
+I1
+sVbehind
+p30
+I3
+sVgames
+p31
+I1
+sVdamn
+p32
+I1
+sVstarr
+p33
+I1
+sVgot
+p34
+I4
+sVyou
+p35
+I1
+sVta
+p36
+I2
+sVwaitin
+p37
+I1
+sVbitches
+p38
+I1
+sVhit
+p39
+I1
+sVmonster
+p40
+I4
+sVyo
+p41
+I2
+sVget
+p42
+I1
+sVuhoh
+p43
+I1
+sVnever
+p44
+I1
+sVjack
+p45
+I1
+sVaiyyo
+p46
+I1
+sVhand
+p47
+I1
+sVpanch
+p48
+I4
+sVgame
+p49
+I1
+sVkillin
+p50
+I1
+sVknow
+p51
+I1
+sVearthquakin
+p52
+I1
+sVput
+p53
+I4
+sVworld
+p54
+I1
+sVcome
+p55
+I1
+sVme
+p56
+I3
+sVhalfll
+p57
+I1
+sVballs
+p58
+I2
+sVanything
+p59
+I1
+sVwhistle
+p60
+I2
+sVbrilliant
+p61
+I1
+sValways
+p62
+I1
+sVhiney
+p63
+I13
+sVofficial
+p64
+I1
+sVsay
+p65
+I1
+sVshiznit
+p66
+I1
+sVwrinkles
+p67
+I1
+sVleave
+p68
+I1
+sVnine
+p69
+I1
+sVstand
+p70
+I3
+sVlose
+p71
+I1
+sVhaind
+p72
+I1
+sVdame
+p73
+I1
+sVmake
+p74
+I1
+sVblock
+p75
+I1
+sVgang
+p76
+I1
+s.

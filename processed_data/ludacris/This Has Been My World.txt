@@ -1,100 +1,826 @@
-"this has been my world" lyrics
-ludacris lyrics
-"this has been my world"
-over a decade later
-let's toast to the good life
-we still living the hood life
-welcome to my world ludaversal!
-listen
-i think i got the best job in the world
-cuz i ain't gotta take the piss test
-michael sending me jordans every 1st of the month
-said his kids love me, ain't paid for a pair of kicks since
-why is it that when 'em niggas gettin' rich
-the whole world just wanna get you some free shit? (hahah)
-ain't that 'bout a bitch
-especially when they told me i'll never do shit, or be shit
-i made it and never took you for granted
-took off and i never landed, supply whatever demanded and no one's ever handed it to me
-i kicked it off with me and my special team and shot the  to me
-touchdown on my old turf, money and bitches sucking me in my microphone vest
-and know i'm not surprised that my old  taking niggas to school, go do your homework
-yeah, and i been going around in circles
-like everyday is a rehearsal
-is my life your entertainment?
-this has been my world, ludaversal
-this has been my world, ludaversal
-this has been my world, ludaversal
-my life your entertainment
-this has been my world, ludaversal
-almost everyday i'm waking up in another city
-another country, a different climate and a time zone
-jet lag but i'm out of the bed fast for bad foreign bitches that i'm eager to lay my eyes on
-so i opened up the blinds to the sky on
-wish that i could talk to god on my iphone
-i thank him for all of his generosity
-and for satisfying most of my curiosity
-fans asking me what it's like to be me
-i always tell 'em it's more good than bad
-they say i want what you got
-i tell 'em you'll never have shit if you don't appreciate what you have
-so i have learned to appreciate all the simple things
-like some good head and a fine wine
-we all going through life searching for answers
-and i been all around the world trynna find mine
-yeah, and i been going around in circles
-like everyday is a rehearsal
-is my life your entertainment?
-this has been my world, ludaversal
-this has been my world, ludaversal
-this has been my world, ludaversal
-my life your entertainment
-this has been my world, ludaversal
-seems like everyday is a holiday
-celebratory popping bottles and model days
-stereotypical rap shit personified
-from 8 albums committin' lyrical homicide
-these airports like international mazes
-now my passport needs additional pages
-then i'm staring out at another horizon
-staying fly even in the no fly zone
-bodies on board but my mind's gone
-ain't no better feeling than when i fly home
-staring out the window of the plane in the rains even the clouds need a shoulder to cry on
-i'm crying cuz i'm living out my dreams
-but this life is not easy as it seems
-it's sorta similar to a crack game
-ain't no slowing down when you living in the fast lane
-yeah, and i been going around in circles
-like everyday is a rehearsal
-is my life your entertainment?
-this has been my world, ludaversal
-this has been my world, ludaversal
-this has been my world, ludaversal
-my life your entertainment
-this has been my world, ludaversal!
-life is a gift
-and we have a responsibility to live it
-from the first breath to the last
-our future is built on the foundation of our past
-experience is a professor, and its test's at a highest pressure
-while we can't afford to crack
-we must bear not to break
-like a reed in the wind we go with the flow
-while still reaching for the light
-avoid useless conflict while never running from the fight
-the struggle that forever brought me to just beneath the surface
-i'm dedicating to the service of self and to my people
-and to never feeding the beast of unnecessary evil
-we say the motion of
-take the action to display our character
-from the first second that we start to feast until the day that we break this barrier
-so disparaging is a civilized savage only strive to become average
-i'm not happier as a maverick
-a cowboy that uses his cabbage to get more green than most millions done seen
-the good kind and never the bad bitch
-the best that life has to give are the blessings of this life that we live
-and everyday i'm  not lose my way i've had to learn
-just remember in any existence it's not the destination but the journey
-live your life
-just blaze!
+(dp1
+Vthings
+p2
+I1
+sVjordans
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I1
+sVmoney
+p7
+I1
+sVmonth
+p8
+I1
+sVcivilized
+p9
+I1
+sVmaverick
+p10
+I1
+sVreaching
+p11
+I1
+sVgo
+p12
+I2
+sVexistence
+p13
+I1
+sVstill
+p14
+I2
+sVfine
+p15
+I1
+sVfind
+p16
+I1
+sVdecade
+p17
+I1
+sVtoast
+p18
+I1
+sVfeeding
+p19
+I1
+sVthank
+p20
+I1
+sVzone
+p21
+I2
+sVremember
+p22
+I1
+sVsky
+p23
+I1
+sVcuz
+p24
+I2
+sVbetter
+p25
+I1
+sVeager
+p26
+I1
+sVlets
+p27
+I1
+sVgoing
+p28
+I4
+sVboard
+p29
+I1
+sVrich
+p30
+I1
+sVcrack
+p31
+I2
+sV8
+I1
+sVbout
+p32
+I1
+sVholiday
+p33
+I1
+sVsurprised
+p34
+I1
+sVta
+p35
+I1
+sVfly
+p36
+I3
+sVtests
+p37
+I1
+sVgood
+p38
+I4
+sVsucking
+p39
+I1
+sVget
+p40
+I2
+sVcould
+p41
+I1
+sVkind
+p42
+I1
+sVbear
+p43
+I1
+sVbreak
+p44
+I2
+sVgame
+p45
+I1
+sVones
+p46
+I1
+sVevery
+p47
+I1
+sVknow
+p48
+I1
+sVinternational
+p49
+I1
+sVworld
+p50
+I18
+sVday
+p51
+I1
+sVspecial
+p52
+I1
+sVstrive
+p53
+I1
+sVshoulder
+p54
+I1
+sVschool
+p55
+I1
+sVairports
+p56
+I1
+sVlike
+p57
+I8
+sVgift
+p58
+I1
+sValways
+p59
+I1
+sVgettin
+p60
+I1
+sVmichael
+p61
+I1
+sVunnecessary
+p62
+I1
+sVlose
+p63
+I1
+sVexperience
+p64
+I1
+sVbad
+p65
+I3
+sVteam
+p66
+I1
+sVstereotypical
+p67
+I1
+sVbeneath
+p68
+I1
+sVtold
+p69
+I1
+sVem
+p70
+I3
+sVmazes
+p71
+I1
+sVcry
+p72
+I1
+sVold
+p73
+I2
+sVfoundation
+p74
+I1
+sVfeast
+p75
+I1
+sVeasy
+p76
+I1
+sVyeah
+p77
+I3
+sVwaking
+p78
+I1
+sVpast
+p79
+I1
+sVdedicating
+p80
+I1
+sVhome
+p81
+I1
+sVbest
+p82
+I2
+sVeven
+p83
+I2
+sVliving
+p84
+I3
+sVsaid
+p85
+I1
+sVopened
+p86
+I1
+sVentertainment
+p87
+I6
+sVmine
+p88
+I1
+sVgod
+p89
+I1
+sVavoid
+p90
+I1
+sVsince
+p91
+I1
+sVfans
+p92
+I1
+sVasking
+p93
+I1
+sVrap
+p94
+I1
+sVit
+p95
+I1
+sVgot
+p96
+I3
+sVlearned
+p97
+I1
+sVmillions
+p98
+I1
+sVever
+p99
+I1
+sVpiss
+p100
+I1
+sVaint
+p101
+I5
+sVkicked
+p102
+I1
+sVtrynna
+p103
+I1
+sVcity
+p104
+I1
+sVnever
+p105
+I7
+sVfree
+p106
+I1
+sVdisparaging
+p107
+I1
+sVpressure
+p108
+I1
+sVjob
+p109
+I1
+sVdisplay
+p110
+I1
+sVanswers
+p111
+I1
+sVpersonified
+p112
+I1
+sVuseless
+p113
+I1
+sVludaversal
+p114
+I13
+sVlyrical
+p115
+I1
+sVlag
+p116
+I1
+sVstaring
+p117
+I2
+sVsending
+p118
+I1
+sVclimate
+p119
+I1
+sVkids
+p120
+I1
+sVlast
+p121
+I1
+sVservice
+p122
+I1
+sVcowboy
+p123
+I1
+sVblaze
+p124
+I1
+sVcountry
+p125
+I1
+sVill
+p126
+I1
+sVcharacter
+p127
+I1
+sVdays
+p128
+I1
+sVdemanded
+p129
+I1
+sVforeign
+p130
+I1
+sVmotion
+p131
+I1
+sVyoull
+p132
+I1
+sVhorizon
+p133
+I1
+sVaction
+p134
+I1
+sVturf
+p135
+I1
+sVwhole
+p136
+I1
+sVthink
+p137
+I1
+sVjourney
+p138
+I1
+sVfirst
+p139
+I2
+sVsearching
+p140
+I1
+sVclouds
+p141
+I1
+sVdestination
+p142
+I1
+sVlove
+p143
+I1
+sVdont
+p144
+I1
+sVsupply
+p145
+I1
+sVsimple
+p146
+I1
+sVseems
+p147
+I2
+sVwhatever
+p148
+I1
+sVbrought
+p149
+I1
+sVstruggle
+p150
+I1
+sVdone
+p151
+I1
+sVbitch
+p152
+I2
+sVanother
+p153
+I3
+sV1st
+p154
+I1
+sVtouchdown
+p155
+I1
+sVfight
+p156
+I1
+sVhood
+p157
+I1
+sVsecond
+p158
+I1
+sVwan
+p159
+I1
+sVadditional
+p160
+I1
+sVjet
+p161
+I1
+sVstart
+p162
+I1
+sVpeople
+p163
+I1
+sVwindow
+p164
+I1
+sVfast
+p165
+I2
+sVpages
+p166
+I1
+sVbreath
+p167
+I1
+sVcommittin
+p168
+I1
+sVlive
+p169
+I3
+sViphone
+p170
+I1
+sVpassport
+p171
+I1
+sVdreams
+p172
+I1
+sVtell
+p173
+I2
+sVlisten
+p174
+I1
+sVlife
+p175
+I14
+sVcrying
+p176
+I1
+sVon
+p177
+I3
+sVafford
+p178
+I1
+sVbitches
+p179
+I2
+sVtook
+p180
+I2
+sVplane
+p181
+I1
+sVwish
+p182
+I1
+sVlanded
+p183
+I1
+sVreed
+p184
+I1
+sVsurface
+p185
+I1
+sVkicks
+p186
+I1
+sVhappier
+p187
+I1
+sValbums
+p188
+I1
+sVhighest
+p189
+I1
+sVblinds
+p190
+I1
+sVpopping
+p191
+I1
+sVmust
+p192
+I1
+sVme
+p193
+I3
+sVevil
+p194
+I1
+sVmade
+p195
+I1
+sVbarrier
+p196
+I1
+sVniggas
+p197
+I2
+sVhahah
+p198
+I1
+sVcant
+p199
+I1
+sVbed
+p200
+I1
+sVgenerosity
+p201
+I1
+sVfuture
+p202
+I1
+sVhomework
+p203
+I1
+sVlearn
+p204
+I1
+sVfeeling
+p205
+I1
+sVsimilar
+p206
+I1
+sVtaking
+p207
+I1
+sVgone
+p208
+I1
+sVvest
+p209
+I1
+sVhave
+p210
+I1
+sVgive
+p211
+I1
+sValmost
+p212
+I1
+sVflow
+p213
+I1
+sVeyes
+p214
+I1
+sVslowing
+p215
+I1
+sVneeds
+p216
+I1
+sVive
+p217
+I1
+sVsay
+p218
+I2
+sVway
+p219
+I1
+sVim
+p220
+I10
+sVminds
+p221
+I1
+sVwant
+p222
+I1
+sVneed
+p223
+I1
+sVseen
+p224
+I1
+sVeveryday
+p225
+I6
+sVshit
+p226
+I5
+sVaround
+p227
+I4
+sVhomicide
+p228
+I1
+sVmicrophone
+p229
+I1
+sVbottles
+p230
+I1
+sVbuilt
+p231
+I1
+sVrains
+p232
+I1
+sVna
+p233
+I1
+sVgranted
+p234
+I1
+sVhanded
+p235
+I1
+sVblessings
+p236
+I1
+sVtake
+p237
+I2
+sVtest
+p238
+I1
+sVgreen
+p239
+I1
+sVconflict
+p240
+I1
+sVcircles
+p241
+I3
+sVstaying
+p242
+I1
+sVsavage
+p243
+I1
+sVwelcome
+p244
+I1
+sVdifferent
+p245
+I1
+sVpaid
+p246
+I1
+sVrehearsal
+p247
+I3
+sVaverage
+p248
+I1
+sVrunning
+p249
+I1
+sVsatisfying
+p250
+I1
+sVuses
+p251
+I1
+sVlay
+p252
+I1
+sVcuriosity
+p253
+I1
+sVpair
+p254
+I1
+sVwind
+p255
+I1
+sVcabbage
+p256
+I1
+sVcelebratory
+p257
+I1
+sVforever
+p258
+I1
+sVlane
+p259
+I1
+sVbeast
+p260
+I1
+sVespecially
+p261
+I1
+sVlight
+p262
+I1
+sVprofessor
+p263
+I1
+sVlater
+p264
+I1
+sVappreciate
+p265
+I2
+sVhead
+p266
+I1
+sVsorta
+p267
+I1
+sVresponsibility
+p268
+I1
+sVbodies
+p269
+I1
+sVtime
+p270
+I1
+sVbecome
+p271
+I1
+sVmodel
+p272
+I1
+sVself
+p273
+I1
+sVtalk
+p274
+I1
+sVwine
+p275
+I1
+s.

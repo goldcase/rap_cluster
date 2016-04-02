@@ -1,56 +1,500 @@
-"conscience be free" lyrics
-gang starr lyrics
-"conscience be free"
-all, all.. let's get together now
-this is the time for gettin fresh for the weather now
-seek the sheik speakin, and those keepin the faith
-we won't have to hesitate
-we just skate, straight, into the heart of it
-this is the scene and i'm the dean and here's the start of it
-so see how things should be, and come along with me
-agree with this decree, and let your conscience be free
-"let your conscience be free"
-release me, ? me, so i can set it off
-and if your body's feelin hottie won't you sweat it off
-flow and go, farther, because we are the
-crusaders -- so you know we can create our own fate
-great, let's get into it now
-ain't nothin to it but to do it now, fluent now
-word, you heard, this is the verdict now
-you can shake it don't you break it don't you hurt it now
-flex, bend, and twist, into a motion of
-just bein down with the sound -- i'll give a potion of
-vocab, so go grab, the one of your choice so
-then you'll feel good like you should, and you'll rejoice so
-see how things could be, and come along with me
-agree with this decree, and let your conscience be free
-"let your conscience be free"
-girls, girls.. these are the details
-i like sophisticated, liberated females
-dutch, treat, i have no qualms with it
-your shape is neat, and i'd like to grace my palms with it
-clocked the suave talkin, you won't be walkin away
-because i know that you'll stay
-for my play, and sway, to rhythm pumpin baby
-you must admit this is legit and you'll jumpin maybe
-hold up, wait up, and don't get too excited
-for genuine is the line while others you invited
-time for rhyme makin, and never fakin the move
-so get involved with the groove
-while i prove, smooth, that's how i kick it to you
-because with all the respect, i wanna stick it to you
-see how things could be, and come along with me
-agree with this decree, and let your conscience be free
-"let your conscience be free"
-what's up, what?  i am continuin
-all the chumps and the punks, i'll do em in and then
-pose for those lookin, that put the crooks in the cell
-cause they're the wrong personnel
-i propel, swell, and i start blowin up
-all the babiest ones they should be growin up
-bright, lights, i'm shinin on you now
-this is the time and the place, peace be upon you now
-see how things could be, and come along with me
-agree with this decree, and let your conscience be free
-let your conscience be free
-"let your conscience be free" "relax your mind"
+(dp1
+Vqualms
+p2
+I1
+sVlyrics
+p3
+I2
+sVmove
+p4
+I1
+sVsheik
+p5
+I1
+sVshape
+p6
+I1
+sVskate
+p7
+I1
+sVgang
+p8
+I1
+sVshake
+p9
+I1
+sVgo
+p10
+I2
+sVinvolved
+p11
+I1
+sVaint
+p12
+I1
+sVblowin
+p13
+I1
+sVsuave
+p14
+I1
+sVlets
+p15
+I2
+sVrhythm
+p16
+I1
+sVsway
+p17
+I1
+sVexcited
+p18
+I1
+sVkick
+p19
+I1
+sVflex
+p20
+I1
+sVgood
+p21
+I1
+sVfate
+p22
+I1
+sVget
+p23
+I4
+sVpumpin
+p24
+I1
+sVbein
+p25
+I1
+sVrhyme
+p26
+I1
+sVchoice
+p27
+I1
+sVbreak
+p28
+I1
+sVme
+p29
+I4
+sVones
+p30
+I1
+sVknow
+p31
+I2
+sVinvited
+p32
+I1
+sVnow
+p33
+I8
+sVwont
+p34
+I3
+sVlike
+p35
+I3
+sVcause
+p36
+I1
+sVgettin
+p37
+I1
+sVbright
+p38
+I1
+sVtheyre
+p39
+I1
+sVverdict
+p40
+I1
+sVrelease
+p41
+I1
+sVgrab
+p42
+I1
+sVfarther
+p43
+I1
+sVem
+p44
+I1
+sVset
+p45
+I1
+sVdean
+p46
+I1
+sVpropel
+p47
+I1
+sVplay
+p48
+I1
+sVsee
+p49
+I4
+sVshinin
+p50
+I1
+sVconscience
+p51
+I11
+sVdecree
+p52
+I4
+sVheres
+p53
+I1
+sVclocked
+p54
+I1
+sVcell
+p55
+I1
+sVliberated
+p56
+I1
+sVthen
+p57
+I1
+sVdutch
+p58
+I1
+sVyoull
+p59
+I4
+sVpose
+p60
+I1
+sVcrooks
+p61
+I1
+sVnever
+p62
+I1
+sVfree
+p63
+I11
+sVlet
+p64
+I9
+sVpunks
+p65
+I1
+sVothers
+p66
+I1
+sVput
+p67
+I1
+sValong
+p68
+I4
+sVcome
+p69
+I4
+sVlegit
+p70
+I1
+sVwait
+p71
+I1
+sVfaith
+p72
+I1
+sVgreat
+p73
+I1
+sVof
+p74
+I2
+sVill
+p75
+I2
+sVagree
+p76
+I4
+sVmotion
+p77
+I1
+sVadmit
+p78
+I1
+sVplace
+p79
+I1
+sVsweat
+p80
+I1
+sVlookin
+p81
+I1
+sVtogether
+p82
+I1
+sVthats
+p83
+I1
+sVwhats
+p84
+I1
+sVdont
+p85
+I3
+sVfeel
+p86
+I1
+sVscene
+p87
+I1
+sVgrowin
+p88
+I1
+sVone
+p89
+I1
+sVna
+p90
+I1
+sVweather
+p91
+I1
+sVrespect
+p92
+I1
+sVwan
+p93
+I1
+sVrejoice
+p94
+I1
+sVprove
+p95
+I1
+sVspeakin
+p96
+I1
+sVcreate
+p97
+I1
+sVgirls
+p98
+I2
+sVwalkin
+p99
+I1
+sVstart
+p100
+I2
+sVtreat
+p101
+I1
+sVstarr
+p102
+I1
+sVbodys
+p103
+I1
+sVcontinuin
+p104
+I1
+sVfemales
+p105
+I1
+sVrelax
+p106
+I1
+sVhurt
+p107
+I1
+sVstick
+p108
+I1
+sVbaby
+p109
+I1
+sVline
+p110
+I1
+sVhold
+p111
+I1
+sVgrace
+p112
+I1
+sVmust
+p113
+I1
+sVsound
+p114
+I1
+sVbabiest
+p115
+I1
+sVword
+p116
+I1
+sVpersonnel
+p117
+I1
+sVstraight
+p118
+I1
+sVsmooth
+p119
+I1
+sVup
+p120
+I2
+sVneat
+p121
+I1
+sVfakin
+p122
+I1
+sVhottie
+p123
+I1
+sVgroove
+p124
+I1
+sVcould
+p125
+I3
+sVheart
+p126
+I1
+sVmakin
+p127
+I1
+sVgive
+p128
+I1
+sVmind
+p129
+I1
+sVit
+p130
+I4
+sVtwist
+p131
+I1
+sVheard
+p132
+I1
+sVim
+p133
+I2
+sVbend
+p134
+I1
+sVseek
+p135
+I1
+sVcrusaders
+p136
+I1
+sVlights
+p137
+I1
+sVhesitate
+p138
+I1
+sVgenuine
+p139
+I1
+sVthings
+p140
+I4
+sVpeace
+p141
+I1
+sVid
+p142
+I1
+sVdetails
+p143
+I1
+sVyou
+p144
+I2
+sVtalkin
+p145
+I1
+sVsophisticated
+p146
+I1
+sVpotion
+p147
+I1
+sVpalms
+p148
+I1
+sVswell
+p149
+I1
+sVupon
+p150
+I1
+sVchumps
+p151
+I1
+sVstay
+p152
+I1
+sVkeepin
+p153
+I1
+sVwrong
+p154
+I1
+sVjumpin
+p155
+I1
+sVfeelin
+p156
+I1
+sVvocab
+p157
+I1
+sVoff
+p158
+I2
+sVmaybe
+p159
+I1
+sVflow
+p160
+I1
+sVnothin
+p161
+I1
+sVfluent
+p162
+I1
+sVso
+p163
+I2
+sVtime
+p164
+I3
+sVfresh
+p165
+I1
+sVthe
+p166
+I1
+sVaway
+p167
+I1
+s.

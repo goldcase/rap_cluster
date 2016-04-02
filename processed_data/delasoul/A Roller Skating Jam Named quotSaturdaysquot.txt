@@ -1,89 +1,602 @@
-"a roller skating jam named "saturdays"" lyrics
-de la soul lyrics
-"a roller skating jam named "saturdays""
-(and rollerskates)
-(and rollerskates)
-(and rollerskates)
-girl meets boy on thursday night
-boy was high, girl fly like kite
-they hold hands until next day
-boy then lets go, hit his way
-boy rules butt, brags to his boys
-erection brings bad boy joys
-boy thinks of that big fat back
-big black fat love, big black fat
-girl calls boy to stand him up on saturday
-saturday
-saturday, it's a saturday
-it's a saturday, it's a saturday
-saturday, it's a saturday
-saturday, it's a saturday
-back once more with the wallop in the score
-must i ride and rip, should i make you rock your hip
-reviver of a roller-boogie in a rink
-and sure to make you think about the times
-to scope fun instead of fights
-(but diving from a piece of metal sure to take your life)
-yo, slip your butt to the fix of this mix
-toss that briefcase, it's time to let loose
-'cause you've worked like heck to get the week in check
-so unfasten that noose around your neck
-connected like a vibe from the wheel to the foot
-come on everybody dig the funky output
-five days you work
-one whole day to play
-come on everybody, wear your rollerskates today
-it's saturday, saturday
-saturday, it's saturday
-saturday, it's saturday
-saturday, it's saturday-ay
-(is the word, is the word, is the word)
-now as you pump your fist i reminisce
-to a bounce, rock, skate, roll
-fess to impress
-hey, pretty diamond, do you like the way i'm dressed
-cool, keep the faith and be my mate
-'cause all we need is feet
-(and rollerskates)
-but promote the hustle 'cause it keeps me thin
-no need to talk, look who just walked in
-(is there a dred on skates?)
-yes, man
-(so kick the wham on this jam)
-oh mr. sprinkler, mr. sprinkler
-wet me for one, mr. sprinkler
-i'm heatin' high-five in a daze, no split
-with a yawn i trip to the dawn
-out comes the bodies following the one idea
-it's clear, rattle to the roll
-hold back up the track, grab your rollerskates y'all
-and let's zip on by
-zip-a-de-doo-dah, let's zip on by
-feed on a weed and we're feeling high
-sun is on thick and the cheese is rollin' quick
-come on, there's no time to hide
-season is twist, spinning and winning
-no hackeysack, let let me in
-spill on the bottom away, but it's okay, huh
-it's a saturday
-now let's all get baked like anita
-watch mr. lawnge, don't look at the peter
-feel on the fun, i'll feel on the
-hey, watch that!
-it's a saturday
-now is the time
-to act the fool tonight
-forget about your worries and you will be all right
-it's saturday, saturday
-saturday, it's saturday
-saturday, it's saturday
-saturday, it's saturday-ay-ay-ay-ay-ay
-(aaoww)
-(saturday)
-(saturday)
-(saturday)
-(saturday)
-(saturday)
-(saturday)
-(saturday)
-(saturday)
+(dp1
+Vkite
+p2
+I1
+sVlyrics
+p3
+I2
+sVskate
+p4
+I1
+sVgo
+p5
+I1
+sVsaturdayayayayayay
+p6
+I1
+sVyes
+p7
+I1
+sVforget
+p8
+I1
+sVpromote
+p9
+I1
+sVhighfive
+p10
+I1
+sVdawn
+p11
+I1
+sVla
+p12
+I1
+sVfix
+p13
+I1
+sVthursday
+p14
+I1
+sVwinning
+p15
+I1
+sVreminisce
+p16
+I1
+sVlets
+p17
+I4
+sVjam
+p18
+I3
+sVblack
+p19
+I2
+sVpretty
+p20
+I1
+sVwet
+p21
+I1
+sVkick
+p22
+I1
+sVsplit
+p23
+I1
+sVhip
+p24
+I1
+sVhit
+p25
+I1
+sVaround
+p26
+I1
+sVyo
+p27
+I1
+sVget
+p28
+I2
+sVrules
+p29
+I1
+sVbig
+p30
+I3
+sVde
+p31
+I1
+sVwatch
+p32
+I2
+sVfat
+p33
+I3
+sVfive
+p34
+I1
+sVhands
+p35
+I1
+sVfoot
+p36
+I1
+sVworries
+p37
+I1
+sVday
+p38
+I2
+sVcool
+p39
+I1
+sVerection
+p40
+I1
+sVlike
+p41
+I5
+sVdig
+p42
+I1
+sVbad
+p43
+I1
+sVrock
+p44
+I2
+sVquick
+p45
+I1
+sVoutput
+p46
+I1
+sVgrab
+p47
+I1
+sVyall
+p48
+I1
+sVwheel
+p49
+I1
+sVright
+p50
+I1
+sVsaturdays
+p51
+I2
+sVback
+p52
+I3
+sVbounce
+p53
+I1
+sVfist
+p54
+I1
+sVdiving
+p55
+I1
+sVgirl
+p56
+I3
+sVpeter
+p57
+I1
+sVsaturday
+p58
+I34
+sVanita
+p59
+I1
+sVby
+p60
+I2
+sVhide
+p61
+I1
+sVbrags
+p62
+I1
+sVbottom
+p63
+I1
+sVjoys
+p64
+I1
+sVaway
+p65
+I1
+sVpump
+p66
+I1
+sVscore
+p67
+I1
+sVnoose
+p68
+I1
+sVwham
+p69
+I1
+sVcause
+p70
+I3
+sVhustle
+p71
+I1
+sVloose
+p72
+I1
+sVfollowing
+p73
+I1
+sVspill
+p74
+I1
+sVlet
+p75
+I3
+sVwear
+p76
+I1
+sVcome
+p77
+I3
+sVdred
+p78
+I1
+sVroller
+p79
+I2
+sVboy
+p80
+I7
+sVfeeling
+p81
+I1
+sVoh
+p82
+I1
+sVheatin
+p83
+I1
+sVill
+p84
+I1
+sVdays
+p85
+I1
+sVtimes
+p86
+I1
+sVfunky
+p87
+I1
+sVheck
+p88
+I1
+sVstand
+p89
+I1
+sVyouve
+p90
+I1
+sVwhole
+p91
+I1
+sVscope
+p92
+I1
+sVcomes
+p93
+I1
+sVfeed
+p94
+I1
+sVcheese
+p95
+I1
+sVnamed
+p96
+I2
+sVlove
+p97
+I1
+sVdont
+p98
+I1
+sVfeel
+p99
+I2
+sVone
+p100
+I3
+sVfeet
+p101
+I1
+sVspinning
+p102
+I1
+sVrink
+p103
+I1
+sVhackeysack
+p104
+I1
+sVthick
+p105
+I1
+sVeverybody
+p106
+I2
+sVseason
+p107
+I1
+sVtrip
+p108
+I1
+sVzip
+p109
+I2
+sVsaturdayay
+p110
+I1
+sVnight
+p111
+I1
+sVhey
+p112
+I2
+sVnext
+p113
+I1
+sVway
+p114
+I2
+sVrollin
+p115
+I1
+sVreviver
+p116
+I1
+sVtoday
+p117
+I1
+sVlife
+p118
+I1
+sVdiamond
+p119
+I1
+sVdaze
+p120
+I1
+sVfaith
+p121
+I1
+sVbrings
+p122
+I1
+sVimpress
+p123
+I1
+sVidea
+p124
+I1
+sVboys
+p125
+I1
+sVfess
+p126
+I1
+sVaaoww
+p127
+I1
+sVbutt
+p128
+I2
+sVsun
+p129
+I1
+sVworked
+p130
+I1
+sVhold
+p131
+I2
+sVlawnge
+p132
+I1
+sVmust
+p133
+I1
+sVfly
+p134
+I1
+sVtwist
+p135
+I1
+sVword
+p136
+I3
+sVlook
+p137
+I2
+sVride
+p138
+I1
+sVwork
+p139
+I1
+sVsoul
+p140
+I1
+sVact
+p141
+I1
+sVthin
+p142
+I1
+sVmr
+p143
+I4
+sVfun
+p144
+I2
+sVpiece
+p145
+I1
+sVtheres
+p146
+I1
+sVskating
+p147
+I2
+sVfool
+p148
+I1
+sVrattle
+p149
+I1
+sVtoss
+p150
+I1
+sVfights
+p151
+I1
+sVrip
+p152
+I1
+sVhigh
+p153
+I2
+sVim
+p154
+I2
+sVrollerskates
+p155
+I6
+sVslip
+p156
+I1
+sVin
+p157
+I2
+sVneed
+p158
+I2
+sVkeep
+p159
+I1
+sVcheck
+p160
+I1
+sVunfasten
+p161
+I1
+sVsprinkler
+p162
+I3
+sVzipadedoodah
+p163
+I1
+sVvibe
+p164
+I1
+sVdressed
+p165
+I1
+sVmake
+p166
+I2
+sVthat
+p167
+I1
+sVthinks
+p168
+I1
+sVmix
+p169
+I1
+sVtake
+p170
+I1
+sVskates
+p171
+I1
+sVinstead
+p172
+I1
+sVroll
+p173
+I2
+sVweek
+p174
+I1
+sVmeets
+p175
+I1
+sVplay
+p176
+I1
+sVsure
+p177
+I2
+sVokay
+p178
+I1
+sVbriefcase
+p179
+I1
+sVtrack
+p180
+I1
+sVhuh
+p181
+I1
+sVkeeps
+p182
+I1
+sVrollerboogie
+p183
+I1
+sVtonight
+p184
+I1
+sVweed
+p185
+I1
+sVyawn
+p186
+I1
+sVconnected
+p187
+I1
+sVmate
+p188
+I1
+sVwallop
+p189
+I1
+sVman
+p190
+I1
+sVneck
+p191
+I1
+sVcalls
+p192
+I1
+sVclear
+p193
+I1
+sVmetal
+p194
+I1
+sVwalked
+p195
+I1
+sVthink
+p196
+I1
+sVbodies
+p197
+I1
+sVtime
+p198
+I3
+sVthe
+p199
+I1
+sVbaked
+p200
+I1
+sVtalk
+p201
+I1
+s.

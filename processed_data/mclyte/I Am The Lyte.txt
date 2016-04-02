@@ -1,72 +1,569 @@
-"i am the lyte" lyrics
-mc lyte lyrics
-"i am the lyte"
-(feat. grand puba)
-i am the lyte
-examine the style used in this sequence
-the rhyme's the clue, the record's evidence
-to the fact that i'm hypin this episode
-cold carryin the extra wide load
-the beat is fat and the rhyme is thick
-all over the town you hear the sound and pick
-me, the l the y the t the e
-me, and if you see the rock, i'm sure you'll see
-me (hey lyte, what will you be doin?)
-kickin it, bashin down competition
-and when i drop the bomb, you'll listen
-boom! now that i've got your attention
-i'm slammin what you wanna hear
-i just thought that i should mention
-'89 is the lyte year
-now's the time to roll like a rhinoceros
-step to lyte, that's preposterous
-i'm heavyweight, though i'm lightweight
-my looks the hook, my rhymes the bait
-and when i throw the line you proceed to take
-the goody, the treat that i hand you
-that you couldn't refuse
-damn, i cram to understand you
-your love is to lyte to lose
-i think you deserve this, you waited long enough
-for a rhyme that's super-duper extra tough
-every human is lurkin and loomin
-puba on the beat and you know the shit is boomin
-tasty like pastry, fresh from the bakery
-first priority, that's the way it has to be
-feel the drum, i bet it makes your body numb
-one for all, and all for one i bet you come
-hurry, hurry, step right up and see the show
-mc lyte and k-rock are about to throw
-get on line and purchase your ticket
-(hey, don't worry) lyte is gonna kick it
-(go on, be happy) i put you up on the scoop
-now come and watch the party hoop
-i am the lyte, and it is time for me to go
-you wanna beef, save that shit for the toilet bowl
-i use styles, styles and much many styles
-i leave smiles, smiles and much many smiles
-on the people who come to see the lyte perform
-(word is bond)
-the rhyme will kick as the brain will tick
-you can tell because the record'll sell
-old styles and new styles formatted together
-bold or dull, so it doesn't matter whether
-which comes first or vice-a versa
-it won't make a difference, as long as you rehearse-a
-get it down pat, and come right and exact
-mc lyte is comin right and i'ma say goodnight
-yeah
-mc lyte in effect for '89
-one time to wreck that mind, boy
-yeah
-ah
-pump, pump, pump it up
-yeah
-sure nuff
-mc milk
-warlord of the mixboard
-in effect
-sure shot
-yeah
-pump (pump) (pump)..
-mh-hm
+(dp1
+Vbomb
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVvicea
+p5
+I1
+sVbrain
+p6
+I1
+sVfirst
+p7
+I2
+sVcarryin
+p8
+I1
+sVlooks
+p9
+I1
+sVhuman
+p10
+I1
+sVgo
+p11
+I2
+sVbait
+p12
+I1
+sVcold
+p13
+I1
+sVfeat
+p14
+I1
+sVmilk
+p15
+I1
+sVima
+p16
+I1
+sVstyle
+p17
+I1
+sVdifference
+p18
+I1
+sVmhhm
+p19
+I1
+sVkrock
+p20
+I1
+sVversa
+p21
+I1
+sVlurkin
+p22
+I1
+sVkick
+p23
+I2
+sVboom
+p24
+I1
+sVstyles
+p25
+I5
+sVtown
+p26
+I1
+sVboomin
+p27
+I1
+sVget
+p28
+I2
+sVbeat
+p29
+I2
+sVrhyme
+p30
+I3
+sVfat
+p31
+I1
+sVrecords
+p32
+I1
+sVevery
+p33
+I1
+sVknow
+p34
+I1
+sVnew
+p35
+I1
+sVsay
+p36
+I1
+sVticket
+p37
+I1
+sVtick
+p38
+I1
+sVexact
+p39
+I1
+sVwont
+p40
+I1
+sVlike
+p41
+I2
+sVdrop
+p42
+I1
+sVl
+I1
+sVleave
+p43
+I1
+sVlose
+p44
+I1
+sVbond
+p45
+I1
+sVright
+p46
+I3
+sVold
+p47
+I1
+sVsequence
+p48
+I1
+sVyeah
+p49
+I4
+sVcompetition
+p50
+I1
+sVpreposterous
+p51
+I1
+sVheavyweight
+p52
+I1
+sVused
+p53
+I1
+sVyear
+p54
+I1
+sVthick
+p55
+I1
+sVtoilet
+p56
+I1
+sVgon
+p57
+I1
+sVwreck
+p58
+I1
+sVformatted
+p59
+I1
+sVenough
+p60
+I1
+sVgot
+p61
+I1
+sVrehearsea
+p62
+I1
+sVyoull
+p63
+I2
+sVbody
+p64
+I1
+sVbe
+p65
+I1
+sVattention
+p66
+I1
+sVbold
+p67
+I1
+sVrock
+p68
+I1
+sVstep
+p69
+I2
+sVput
+p70
+I1
+sVslammin
+p71
+I1
+sVcome
+p72
+I4
+sVthrow
+p73
+I2
+sVshot
+p74
+I1
+sVboy
+p75
+I1
+sVdrum
+p76
+I1
+sVgoody
+p77
+I1
+sVnuff
+p78
+I1
+sVpick
+p79
+I1
+sVrecordll
+p80
+I1
+sVmakes
+p81
+I1
+sVthink
+p82
+I1
+sVwaited
+p83
+I1
+sVthats
+p84
+I3
+sVload
+p85
+I1
+sVlove
+p86
+I1
+sVdont
+p87
+I1
+sVextra
+p88
+I2
+sVfeel
+p89
+I1
+sVhoop
+p90
+I1
+sVone
+p91
+I3
+sVhook
+p92
+I1
+sVdoesnt
+p93
+I1
+sVcomin
+p94
+I1
+sVcouldnt
+p95
+I1
+sVwan
+p96
+I2
+sVuse
+p97
+I1
+sVproceed
+p98
+I1
+sVbeef
+p99
+I1
+sVlyte
+p100
+I14
+sVpeople
+p101
+I1
+sVhey
+p102
+I2
+sVlong
+p103
+I2
+sVpriority
+p104
+I1
+sVmuch
+p105
+I2
+sVdamn
+p106
+I1
+sVtreat
+p107
+I1
+sVway
+p108
+I1
+sVcram
+p109
+I1
+sVhypin
+p110
+I1
+sVtell
+p111
+I1
+sVlisten
+p112
+I1
+sVgoodnight
+p113
+I1
+sVpump
+p114
+I6
+sVmixboard
+p115
+I1
+sVclue
+p116
+I1
+sVdeserve
+p117
+I1
+sVhear
+p118
+I2
+sVepisode
+p119
+I1
+sVline
+p120
+I2
+sVhurry
+p121
+I2
+sVdull
+p122
+I1
+sVsound
+p123
+I1
+sVwide
+p124
+I1
+sVsave
+p125
+I1
+sVword
+p126
+I1
+sVmc
+p127
+I5
+sVwhether
+p128
+I1
+sVsee
+p129
+I4
+sVrhymes
+p130
+I2
+sVmatter
+p131
+I1
+sV89
+p132
+I2
+sVmany
+p133
+I2
+sVtasty
+p134
+I1
+sVhappy
+p135
+I1
+sVbet
+p136
+I2
+sVnows
+p137
+I1
+sVive
+p138
+I1
+sVup
+p139
+I1
+sVah
+p140
+I1
+sVmind
+p141
+I1
+sVit
+p142
+I1
+sVevidence
+p143
+I1
+sVexamine
+p144
+I1
+sVim
+p145
+I5
+sVpastry
+p146
+I1
+sVlightweight
+p147
+I1
+sVbashin
+p148
+I1
+sVshit
+p149
+I2
+sVsell
+p150
+I1
+sVpat
+p151
+I1
+sVtough
+p152
+I1
+sVperform
+p153
+I1
+sVna
+p154
+I3
+sVmake
+p155
+I1
+sVbowl
+p156
+I1
+sVrhinoceros
+p157
+I1
+sVtake
+p158
+I1
+sVgrand
+p159
+I1
+sVparty
+p160
+I1
+sVyou
+p161
+I2
+sVloomin
+p162
+I1
+sVroll
+p163
+I1
+sVsmiles
+p164
+I3
+sVpuba
+p165
+I2
+sVsure
+p166
+I3
+sVthough
+p167
+I1
+sVwatch
+p168
+I1
+sVdoin
+p169
+I1
+sVeffect
+p170
+I2
+sVhand
+p171
+I1
+sVnumb
+p172
+I1
+sVfresh
+p173
+I1
+sVpurchase
+p174
+I1
+sVrefuse
+p175
+I1
+sVe
+I1
+sVmention
+p176
+I1
+sVtogether
+p177
+I1
+sVthought
+p178
+I1
+sVscoop
+p179
+I1
+sVbakery
+p180
+I1
+sVcomes
+p181
+I1
+sVworry
+p182
+I1
+sVtime
+p183
+I3
+sVy
+I1
+sVunderstand
+p184
+I1
+sVsuperduper
+p185
+I1
+sVwarlord
+p186
+I1
+sVkickin
+p187
+I1
+sVfact
+p188
+I1
+s.

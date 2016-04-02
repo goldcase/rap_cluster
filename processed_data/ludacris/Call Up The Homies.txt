@@ -1,165 +1,748 @@
-"call up the homies" lyrics
-ludacris lyrics
-"call up the homies"
-(feat. the game, willy northpole)
-i just touched down in killa cali,
-strapped up my boots,
-got scooped up by game,
-so i hopped up in the coupe,
-gaah, what up nigga
-what the hell is goin on,
-i'm tryin to ease back,
-and get my head in the zone,
-where the fuck you tryin to go,
-nigga this yo city,
-anywhere, i'm just tryin to see some ass and titties,
-so full mash the gas,
-the night is young,
-all bull shit aside,
-i'm tryin to have some fun,
-hit the hop in lakewood,
-or ride down slawson,
-or to casino,
-they say it's just like compton,
-really doesn't matter,
-long as shots don't ring out,
-nigga i stay strapped,
-i don't wanna pull the thing out,
-well keep the heat heat,
-right up under the seat,
-and let's roll to roscoe's,
-and grab somethin to eat,
-but check ya rear view mirror,
-i swear somebody's following,
-rollin in that dark blue,
-ss impala and,
-all up on tha bumpa,
-man i'm just sayin,
-tell me you know this nigga,
-naw they betta stop playin,
-he sped up around,
-and drove right in front of us,
-could be one time,
-just tryin to bust one of us,
-till he smashed the brakes,
-and we almost hit him,
-throwin signs out the window,
-like something was wrong with him,
-before we jump out,
-and get ready to clown,
-nigga call up the homies,
-it's about to go down
-keep one eye open,
-cause the streets don't sleep,
-if the streets get hungry,
-then the streets gon eat,
-that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down,
-call up the homies,
-it's about to go down,
-yeah, call up the homies,
-it about to go down,
-yeah, that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down
-somebody tell luda,
-i'm on the way now,
-aight, just stepped one size 12,
-air force one in the a-town,
-and you know where i'm headed,
-to the lennox mall,
-to get it done head to toe,
-n.w.a. style,
-do it then, keep it gangsta,
-from the waist down,
-and this chrome tre pound,
-got me feelin,
-atlanta brave now,
-right, disturbin the peace,
-i'll let the lead spray,
-i'm startin to love this place,
-they even got red clay,
-okay, hit a different,
-strip club everyday,
-and i don't make it rain,
-it's a hurricane on the way,
-and i got,
-the a-town pump,
-it'll make ya whole body,
-do the a-town stomp,
-then it's off,
-to the waffle house,
-and pancake mix,
-ain't the only thing,
-coming out of mouth,
-and the 42 d's,
-coming out her blouse,
-so baby, daddy coming in,
-game get out the house
-keep one eye open,
-cause the streets don't sleep,
-if the streets get hungry,
-then the streets gon eat,
-that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down,
-call up the homies,
-it's about to go down,
-yeah, call up the homies,
-it about to go down,
-yeah, that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down
-yeah i'm in a real life movie,
-so this is take 3,
-where luda step foot,
-out in phoenix, az,
-super bowl, super hoes,
-drivers on stroll,
-so i put the call in,
-to willie northpole,
-big homie i got ya,
-stick to ya like a cactus,
-welcome to tha bird city,
-cris take off ya jacket,
-i know you kind of used to,
-big bootys in the club,
-but ain't nothing wrong,
-to have a little salsa in ya blood,
-i see a couple thugs,
-with some bitch tennessees,
-my town but,
-i still got phoenix enemies,
-haters wanna stop em,
-and i really wanna pop em,
-but it's hard to fight back,
-when you got an album droppin,
-connect, we in south phoenix,
-nigga africa bang,
-matter fact cris,
-tuck in ya africa chain,
-cause i see some nigga staring at us,
-with a lame frown,
-i'm a call up the homies,
-it's about to go down,
-keep one eye open,
-cause the streets don't sleep,
-if the streets get hungry,
-then the streets gon eat,
-that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down,
-call up the homies,
-it's about to go down,
-yeah, call up the homies,
-it about to go down,
-yeah, that's why i keep some heat,
-and a couple of rounds,
-nigga call up the homies,
-it's about to go down
+(dp1
+Vaight
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVscooped
+p5
+I1
+sVbowl
+p6
+I1
+sVpound
+p7
+I1
+sVfoot
+p8
+I1
+sVsleep
+p9
+I3
+sVnwa
+p10
+I1
+sVsigns
+p11
+I1
+sVgo
+p12
+I15
+sVhell
+p13
+I1
+sVhopped
+p14
+I1
+sVstill
+p15
+I1
+sVfeat
+p16
+I1
+sVaint
+p17
+I2
+sVstyle
+p18
+I1
+sVhaters
+p19
+I1
+sVsayin
+p20
+I1
+sVzone
+p21
+I1
+sVmix
+p22
+I1
+sVstroll
+p23
+I1
+sVease
+p24
+I1
+sVitll
+p25
+I1
+sVyoung
+p26
+I1
+sVbust
+p27
+I1
+sVlets
+p28
+I1
+sVtouched
+p29
+I1
+sVhomies
+p30
+I16
+sVsped
+p31
+I1
+sVcity
+p32
+I2
+sVnaw
+p33
+I1
+sVreal
+p34
+I1
+sVhit
+p35
+I3
+sVaround
+p36
+I1
+sVyo
+p37
+I1
+sVget
+p38
+I7
+sVya
+p39
+I7
+sVbig
+p40
+I2
+sVcouple
+p41
+I7
+sVtennessees
+p42
+I1
+sVstop
+p43
+I2
+sVfeelin
+p44
+I1
+sVslawson
+p45
+I1
+sVsmashed
+p46
+I1
+sVgame
+p47
+I3
+sV12
+p48
+I1
+sVkilla
+p49
+I1
+sVknow
+p50
+I3
+sVfront
+p51
+I1
+sVds
+p52
+I1
+sVrear
+p53
+I1
+sVlike
+p54
+I3
+sVwillie
+p55
+I1
+sVtre
+p56
+I1
+sVbetta
+p57
+I1
+sVclown
+p58
+I1
+sVatown
+p59
+I3
+sVshots
+p60
+I1
+sVnight
+p61
+I1
+sVstomp
+p62
+I1
+sVroscoes
+p63
+I1
+sVgrab
+p64
+I1
+sVview
+p65
+I1
+sVem
+p66
+I2
+sVbumpa
+p67
+I1
+sVnigga
+p68
+I13
+sVforce
+p69
+I1
+sVbrakes
+p70
+I1
+sVhouse
+p71
+I2
+sVthrowin
+p72
+I1
+sVstreets
+p73
+I9
+sVback
+p74
+I2
+sVboots
+p75
+I1
+sVseat
+p76
+I1
+sVjump
+p77
+I1
+sVfact
+p78
+I1
+sVsee
+p79
+I3
+sVconnect
+p80
+I1
+sVmirror
+p81
+I1
+sVplayin
+p82
+I1
+sVcactus
+p83
+I1
+sVreally
+p84
+I2
+sVblue
+p85
+I1
+sVman
+p86
+I1
+sVlennox
+p87
+I1
+sVgon
+p88
+I3
+sVbrave
+p89
+I1
+sVlead
+p90
+I1
+sVmovie
+p91
+I1
+sVtake
+p92
+I2
+sVhurricane
+p93
+I1
+sVpump
+p94
+I1
+sVdroppin
+p95
+I1
+sVbang
+p96
+I1
+sVgot
+p97
+I7
+sVcris
+p98
+I2
+sVcause
+p99
+I4
+sVbird
+p100
+I1
+sVred
+p101
+I1
+sVass
+p102
+I1
+sVfight
+p103
+I1
+sVfull
+p104
+I1
+sVstartin
+p105
+I1
+sVright
+p106
+I3
+sVstrapped
+p107
+I2
+sVclay
+p108
+I1
+sVfun
+p109
+I1
+sVspray
+p110
+I1
+sVlet
+p111
+I1
+sVpancake
+p112
+I1
+sVput
+p113
+I1
+sVsuper
+p114
+I2
+sVstaring
+p115
+I1
+sVtitties
+p116
+I1
+sVtuck
+p117
+I1
+sVgangsta
+p118
+I1
+sVcould
+p119
+I1
+sVcasino
+p120
+I1
+sVstep
+p121
+I1
+sVkeep
+p122
+I11
+sVthing
+p123
+I2
+sVswear
+p124
+I1
+sVplace
+p125
+I1
+sVchain
+p126
+I1
+sVwhole
+p127
+I1
+sVsouth
+p128
+I1
+sVthats
+p129
+I6
+sVlove
+p130
+I1
+sVdont
+p131
+I6
+sVheaded
+p132
+I1
+sVafrica
+p133
+I2
+sVpop
+p134
+I1
+sVone
+p135
+I7
+sVdown
+p136
+I1
+sVnothing
+p137
+I1
+sVdoesnt
+p138
+I1
+sVdone
+p139
+I1
+sVbitch
+p140
+I1
+sVstrip
+p141
+I1
+sVring
+p142
+I1
+sVdrove
+p143
+I1
+sVopen
+p144
+I3
+sVrounds
+p145
+I6
+sVsize
+p146
+I1
+sVwilly
+p147
+I1
+sVwan
+p148
+I3
+sVlittle
+p149
+I1
+sVeye
+p150
+I3
+sVchrome
+p151
+I1
+sVwindow
+p152
+I1
+sVlong
+p153
+I1
+sVcoupe
+p154
+I1
+sVcali
+p155
+I1
+sVcall
+p156
+I17
+sVway
+p157
+I2
+sVgaah
+p158
+I1
+sVtell
+p159
+I2
+sVtoe
+p160
+I1
+sVhead
+p161
+I2
+sVhard
+p162
+I1
+sValbum
+p163
+I1
+sVnorthpole
+p164
+I2
+sVclub
+p165
+I2
+sVgas
+p166
+I1
+sVyeah
+p167
+I7
+sVheat
+p168
+I8
+sVstick
+p169
+I1
+sVbull
+p170
+I1
+sVbaby
+p171
+I1
+sVatlanta
+p172
+I1
+sVwaffle
+p173
+I1
+sVeat
+p174
+I4
+sVtown
+p175
+I1
+sVpull
+p176
+I1
+sVkind
+p177
+I1
+sVtryin
+p178
+I5
+sVride
+p179
+I1
+sVus
+p180
+I3
+sVair
+p181
+I1
+sVmatter
+p182
+I2
+sVmall
+p183
+I1
+sVanywhere
+p184
+I1
+sVfollowing
+p185
+I1
+sVdaddy
+p186
+I1
+sVimpala
+p187
+I1
+sVill
+p188
+I1
+sVluda
+p189
+I2
+sVcompton
+p190
+I1
+sV3
+I1
+sValmost
+p191
+I1
+sVhoes
+p192
+I1
+sVfuck
+p193
+I1
+sVsay
+p194
+I1
+sVhomie
+p195
+I1
+sVim
+p196
+I9
+sVsomething
+p197
+I1
+sVready
+p198
+I1
+sVsomebody
+p199
+I1
+sVaz
+p200
+I1
+sVcheck
+p201
+I1
+sVshit
+p202
+I1
+sVfrown
+p203
+I1
+sVdifferent
+p204
+I1
+sVlakewood
+p205
+I1
+sVlame
+p206
+I1
+sVna
+p207
+I3
+sVmake
+p208
+I2
+sVpeace
+p209
+I1
+sV42
+p210
+I1
+sVaside
+p211
+I1
+sVeveryday
+p212
+I1
+sVtill
+p213
+I1
+sVsomebodys
+p214
+I1
+sVhop
+p215
+I1
+sVbootys
+p216
+I1
+sVstepped
+p217
+I1
+sVenemies
+p218
+I1
+sVroll
+p219
+I1
+sVlife
+p220
+I1
+sVeven
+p221
+I1
+sVused
+p222
+I1
+sVokay
+p223
+I1
+sVphoenix
+p224
+I3
+sVwelcome
+p225
+I1
+sVthugs
+p226
+I1
+sVrain
+p227
+I1
+sVstay
+p228
+I1
+sVwrong
+p229
+I2
+sVmouth
+p230
+I1
+sVblood
+p231
+I1
+sVcoming
+p232
+I3
+sVdark
+p233
+I1
+sVsalsa
+p234
+I1
+sVgoin
+p235
+I1
+sVsomethin
+p236
+I1
+sVwaist
+p237
+I1
+sVss
+p238
+I1
+sVwell
+p239
+I1
+sVhungry
+p240
+I3
+sVrollin
+p241
+I1
+sVmash
+p242
+I1
+sVjacket
+p243
+I1
+sVbody
+p244
+I1
+sVdisturbin
+p245
+I1
+sVtime
+p246
+I1
+sVblouse
+p247
+I1
+sVdrivers
+p248
+I1
+sVtha
+p249
+I2
+s.

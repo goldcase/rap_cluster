@@ -1,90 +1,553 @@
-"sic them youngins on 'em" lyrics
-ice cube lyrics
-"sic them youngins on 'em"
-lench mob incorporated
-fuck with the godfather
-see what ya get
-punishment
-consequences and repercussions
-understand me
-y'all know what i do
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-try to go ham on porky pig
-fucked up boy, that's what you did
-barbed wire, come through, split your wig
-y'all can't wrestle with the giant squid
-try to give dap to the iron fist
-ask al green, i'm hot as grits
-yarn in my hand, no pinky ring
-godfather, nigga, i pull the strings
-do what i tell'em, buy what i sell 'em
-puppet master, i'm jim hanson
-see my muppets, they like duckets
-y'all better run when you see that bucket
-hit that corner, do what i wanna
-get another jar for the organ donor
-ice cube, nigga, i know better
-but you ain't gotta fight
-when you got that cheddar
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-try to have beef with a fucking bull
-with no teeth i'm about to pull
-i'm that dentist this the finish
-all the spoils go to the winners
-don't go mad cause my hands are clean
-i'm the king, never flee on the scene
-wizard of oz, if you need a brain
-need a heart? here's a start!
-don't you worry if you need the courage
-y'all motherfuckers know where you heard it
-gangsta, gangsta, thank me now
-rap god nigga, please take a bow
-can't take bullshit from a cow
-don't ask who, i'm a fuckin' owl
-thirstin' howl, will get you murdered
-come to the boss if you need some work
-come to the boss if you need some hurt
-white collar boy, if you check my shirt
-here come my sons just like lavert
-gotta get my boys up out the dirt
-putting the rap game on alert
-fuck with them and i will revert
-back to the old days, back to the old ways
-back to the ak's fucking up doorways
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-try to play chicken with a fucking rooster
-don't you worry, i'm not the shooter
-i m a fucking computer, with a whole army of boosters
-nigga got out one piece, five piece, dime piece
-cause my crimmies move like zombies
-what? been here since the 90's
-don't act like you don't know where to find me
-now, if you wanna get slimy
-look at all the grimy
-niggas all behind me
-you don't wanna go to war so you start to sing
-why can't we be friends? we can be friends
-pussy ass niggas by extent
-pray to the god, repent your sins
-ice cube ain't like the rest of them
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-sic them youngins on 'em
-try to go ham on porky pig
-fucked up boy, that's what you did
-try to go ham on porky pig
-fucked up boy, that's what you did
-try to go ham on porky pig
-fucked up boy, that's what you did
-try to go ham on porky pig
-fucked up boy, that's what you did
+(dp1
+Vwrestle
+p2
+I1
+sVlyrics
+p3
+I2
+sVmove
+p4
+I1
+sVcheddar
+p5
+I1
+sVrest
+p6
+I1
+sVbrain
+p7
+I1
+sVgo
+p8
+I8
+sVcorner
+p9
+I1
+sVchicken
+p10
+I1
+sVfind
+p11
+I1
+sVaint
+p12
+I2
+sVlench
+p13
+I1
+sVgiant
+p14
+I1
+sVone
+p15
+I1
+sVham
+p16
+I5
+sVpray
+p17
+I1
+sVjim
+p18
+I1
+sVjar
+p19
+I1
+sVbetter
+p20
+I2
+sVking
+p21
+I1
+sVgangsta
+p22
+I2
+sVta
+p23
+I2
+sVtellem
+p24
+I1
+sVthem
+p25
+I1
+sVcube
+p26
+I3
+sVhit
+p27
+I1
+sVget
+p28
+I5
+sVya
+p29
+I1
+sVrepercussions
+p30
+I1
+sVgame
+p31
+I1
+sVcourage
+p32
+I1
+sVdap
+p33
+I1
+sVknow
+p34
+I4
+sVhands
+p35
+I1
+sVmob
+p36
+I1
+sVnow
+p37
+I1
+sVflee
+p38
+I1
+sVbullshit
+p39
+I1
+sVdoorways
+p40
+I1
+sVlike
+p41
+I5
+sVorgan
+p42
+I1
+sVslimy
+p43
+I1
+sVdid
+p44
+I5
+sVrevert
+p45
+I1
+sVtry
+p46
+I8
+sVzombies
+p47
+I1
+sVyall
+p48
+I4
+sVem
+p49
+I19
+sVnigga
+p50
+I4
+sVold
+p51
+I2
+sVfucking
+p52
+I4
+sVback
+p53
+I3
+sVsee
+p54
+I3
+sVcomputer
+p55
+I1
+sVduckets
+p56
+I1
+sVthirstin
+p57
+I1
+sVfist
+p58
+I1
+sVlavert
+p59
+I1
+sV90s
+p60
+I1
+sVwire
+p61
+I1
+sVheres
+p62
+I1
+sVgod
+p63
+I2
+sVsince
+p64
+I1
+sVplease
+p65
+I1
+sVice
+p66
+I3
+sVbehind
+p67
+I1
+sVgrits
+p68
+I1
+sVit
+p69
+I1
+sVgot
+p70
+I4
+sVcause
+p71
+I2
+sVass
+p72
+I1
+sVrun
+p73
+I1
+sVdo
+p74
+I1
+sVdirt
+p75
+I1
+sVnever
+p76
+I1
+sVsins
+p77
+I1
+sVboss
+p78
+I2
+sVfive
+p79
+I1
+sVmurdered
+p80
+I1
+sVextent
+p81
+I1
+sVask
+p82
+I2
+sVsing
+p83
+I1
+sValert
+p84
+I1
+sVcome
+p85
+I4
+sVthank
+p86
+I1
+sVboy
+p87
+I6
+sVcow
+p88
+I1
+sVaks
+p89
+I1
+sVdays
+p90
+I1
+sVyarn
+p91
+I1
+sVbow
+p92
+I1
+sVoz
+p93
+I1
+sVincorporated
+p94
+I1
+sVact
+p95
+I1
+sVwhole
+p96
+I1
+sVpunishment
+p97
+I1
+sVfuckin
+p98
+I1
+sVthats
+p99
+I5
+sVwig
+p100
+I1
+sVowl
+p101
+I1
+sVwizard
+p102
+I1
+sVdont
+p103
+I7
+sVpussy
+p104
+I1
+sVscene
+p105
+I1
+sVboosters
+p106
+I1
+sVpuppet
+p107
+I1
+sVanother
+p108
+I1
+sVring
+p109
+I1
+sVwan
+p110
+I3
+sVbeef
+p111
+I1
+sVarmy
+p112
+I1
+sVfight
+p113
+I1
+sVstart
+p114
+I2
+sVmaster
+p115
+I1
+sVgrimy
+p116
+I1
+sVwhite
+p117
+I1
+sVwar
+p118
+I1
+sVbuy
+p119
+I1
+sVspoils
+p120
+I1
+sVal
+p121
+I1
+sVboys
+p122
+I1
+sVdentist
+p123
+I1
+sVunderstand
+p124
+I1
+sVbull
+p125
+I1
+sVrooster
+p126
+I1
+sVme
+p127
+I3
+sVpull
+p128
+I2
+sVcrimmies
+p129
+I1
+sVlook
+p130
+I1
+sVniggas
+p131
+I2
+sVwork
+p132
+I1
+sVbucket
+p133
+I1
+sVporky
+p134
+I5
+sViron
+p135
+I1
+sVpiece
+p136
+I3
+sVheart
+p137
+I1
+sVplay
+p138
+I1
+sVgive
+p139
+I1
+sVm
+I1
+sVsquid
+p140
+I1
+sVfuck
+p141
+I2
+sVpig
+p142
+I5
+sVpinky
+p143
+I1
+sVheard
+p144
+I1
+sVcant
+p145
+I3
+sVim
+p146
+I7
+sVrap
+p147
+I2
+sVneed
+p148
+I5
+sVtake
+p149
+I2
+sVcheck
+p150
+I1
+sVworry
+p151
+I2
+sVsell
+p152
+I1
+sVshirt
+p153
+I1
+sVna
+p154
+I3
+sVrepent
+p155
+I1
+sVsic
+p156
+I18
+sVhot
+p157
+I1
+sVwinners
+p158
+I1
+sVsplit
+p159
+I1
+sVdonor
+p160
+I1
+sVbarbed
+p161
+I1
+sVfinish
+p162
+I1
+sVgodfather
+p163
+I2
+sVdime
+p164
+I1
+sVhand
+p165
+I1
+sVmad
+p166
+I1
+sVfucked
+p167
+I5
+sVhanson
+p168
+I1
+sVhurt
+p169
+I1
+sVfriends
+p170
+I2
+sVcollar
+p171
+I1
+sVmuppets
+p172
+I1
+sVconsequences
+p173
+I1
+sVshooter
+p174
+I1
+sVyoungins
+p175
+I18
+sVmotherfuckers
+p176
+I1
+sVways
+p177
+I1
+sVsons
+p178
+I1
+sVgreen
+p179
+I1
+sVclean
+p180
+I1
+sVteeth
+p181
+I1
+sVputting
+p182
+I1
+sVstrings
+p183
+I1
+sVhowl
+p184
+I1
+s.

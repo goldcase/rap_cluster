@@ -1,57 +1,525 @@
-"feelin' you" lyrics
-ugk lyrics
-"feelin' you"
-i got the feelin that i
-got the feelin i (keep feelin you)
-i got the feelin that i
-got the feelin i (keep feelin you)
-i got the feelin that i
-got the feelin i (keep feelin you)
-i got the feelin that i
-got the feelin for you
-well hold up, look how baby just rolled up
-coogi jeans on with the back sides twole {?} up
-she make playa straight slow up
-say man this girl is a dime from head to toe and from the flo' up
-she make a drink, kid not even wanna po' up
-take his all money to the mall and buy the sto' up
-never a flaw when she show up
-these other broads hatin on her, if they sick they need to throw up
-she got class and panache with precision
-picture perfect in my vision and i done made a decision
-that i'm tired of wishin, get down with the bun and pimp and
-you could roll with the playas on the million dollar mission, c'mon
-uhh, hey mama, i'm a tell you what the deal is
-i like your style, i like how you handle your business
-you ain't out here trippin chasin boys in showbiz
-you're confident, you out here puttin it down for yo' kids
-i don't care 'bout no nigga, he don't concern me
-he ain't teachin you nothin, you need to learn me
-check out my mind, i'm 24 on the grind
-i got the key to the streets, i got a open line
-and i don't get caught up in "he say, she say"
-and i don't chase the cat, i keep the p play
-i wouldn't holla if i ain't thought you was ready boo
-i know you feelin me, cause girl i'm feelin you
-ooh baby (ooh baby)
-ooh baby (oh baby)
-give it up, give it up, give it up, give it up now
-yeah she a bad mamma-jamma, a brick, house
-still i fits, out, cause she thick, stout
-with the feminine fat, in all the right places
-she look me in my eyes and she make all the right faces
-cause she's a real catch, we make a tough pair
-a true dynamic duo and we up there
-we sittin tall at the top
-and if she ride or die for me playa i'm a give her all that i got
-i break her off and not, let her hold the keys
-i don't take her out of town, man i take her overseas
-it ain't trickin if you spend it on your lady
-bring the bacon home to baby and everything'll be gravy
-just let me know if that's soundin like a plan
-cause all you really need to change your life is the man
-and you appealin to the king of the trill and
-i just wanna know if you're feelin me like i'm feelin, you
-ooh baby (ooh baby)
-ooh baby (oh baby)
-give it up, give it up, give it up, give it up now
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I1
+sVdollar
+p6
+I1
+sVmission
+p7
+I1
+sVcatch
+p8
+I1
+sVstill
+p9
+I1
+sVeyes
+p10
+I1
+sVfaces
+p11
+I1
+sVperfect
+p12
+I1
+sVstyle
+p13
+I1
+sVslow
+p14
+I1
+sVchasin
+p15
+I1
+sVbout
+p16
+I1
+sVreal
+p17
+I1
+sVtown
+p18
+I1
+sVhandle
+p19
+I1
+sVyo
+p20
+I1
+sVget
+p21
+I2
+sVdynamic
+p22
+I1
+sVsittin
+p23
+I1
+sVuhh
+p24
+I1
+sVfeelin
+p25
+I17
+sVbreak
+p26
+I1
+sVknow
+p27
+I3
+sVstout
+p28
+I1
+sV24
+p29
+I1
+sVnow
+p30
+I2
+sVlady
+p31
+I1
+sVputtin
+p32
+I1
+sVtrippin
+p33
+I1
+sVlike
+p34
+I4
+sVpimp
+p35
+I1
+sVbring
+p36
+I1
+sVdie
+p37
+I1
+sVp
+I1
+sVbad
+p38
+I1
+sVmammajamma
+p39
+I1
+sVride
+p40
+I1
+sVvision
+p41
+I1
+sVnigga
+p42
+I1
+sVdeal
+p43
+I1
+sVtired
+p44
+I1
+sVhouse
+p45
+I1
+sVstreets
+p46
+I1
+sVbacon
+p47
+I1
+sVback
+p48
+I1
+sVshes
+p49
+I1
+sVhome
+p50
+I1
+sVgirl
+p51
+I2
+sVcat
+p52
+I1
+sVcoogi
+p53
+I1
+sVconcern
+p54
+I1
+sVeven
+p55
+I1
+sVdecision
+p56
+I1
+sVplayas
+p57
+I1
+sVplaya
+p58
+I2
+sVgot
+p59
+I12
+sVcause
+p60
+I4
+sVaint
+p61
+I4
+sVpanache
+p62
+I1
+sVbusiness
+p63
+I1
+sVrolled
+p64
+I1
+sVmillion
+p65
+I1
+sVlet
+p66
+I2
+sVkey
+p67
+I1
+sVthrow
+p68
+I1
+sVchange
+p69
+I1
+sVcare
+p70
+I1
+sVkids
+p71
+I1
+sVwouldnt
+p72
+I1
+sVoh
+p73
+I2
+sVcould
+p74
+I1
+sVkeep
+p75
+I4
+sVboo
+p76
+I1
+sVsoundin
+p77
+I1
+sVtop
+p78
+I1
+sVthats
+p79
+I1
+sVtough
+p80
+I1
+sVdont
+p81
+I5
+sVtrickin
+p82
+I1
+sVjeans
+p83
+I1
+sVpair
+p84
+I1
+sVright
+p85
+I2
+sVdone
+p86
+I1
+sVthick
+p87
+I1
+sVopen
+p88
+I1
+sVwan
+p89
+I2
+sVwishin
+p90
+I1
+sVduo
+p91
+I1
+sVcaught
+p92
+I1
+sVthere
+p93
+I1
+sVhey
+p94
+I1
+sVsides
+p95
+I1
+sVconfident
+p96
+I1
+sVmama
+p97
+I1
+sVbrick
+p98
+I1
+sVman
+p99
+I3
+sVtell
+p100
+I1
+sVtoe
+p101
+I1
+sVhead
+p102
+I1
+sVbuy
+p103
+I1
+sVprecision
+p104
+I1
+sVyeah
+p105
+I1
+sVboys
+p106
+I1
+sVeverythingll
+p107
+I1
+sVbun
+p108
+I1
+sVhatin
+p109
+I1
+sVbaby
+p110
+I10
+sVline
+p111
+I1
+sVhold
+p112
+I2
+sVtrue
+p113
+I1
+sVme
+p114
+I2
+sVking
+p115
+I1
+sVmade
+p116
+I1
+sVlook
+p117
+I2
+sVplaces
+p118
+I1
+sVstraight
+p119
+I1
+sVsto
+p120
+I1
+sVup
+p121
+I8
+sVpo
+p122
+I1
+sVbroads
+p123
+I1
+sVmall
+p124
+I1
+sVappealin
+p125
+I1
+sVflo
+p126
+I1
+sVlearn
+p127
+I1
+sVand
+p128
+I2
+sVcmon
+p129
+I1
+sVshowbiz
+p130
+I1
+sVgive
+p131
+I9
+sVis
+p132
+I1
+sVmind
+p133
+I1
+sVflaw
+p134
+I1
+sVready
+p135
+I1
+sVsay
+p136
+I3
+sVim
+p137
+I6
+sVneed
+p138
+I3
+sVplan
+p139
+I1
+sVcheck
+p140
+I1
+sVchase
+p141
+I1
+sVholla
+p142
+I1
+sVtrill
+p143
+I1
+sVna
+p144
+I2
+sVmake
+p145
+I4
+sVtake
+p146
+I3
+sVsick
+p147
+I1
+sVyou
+p148
+I7
+sVreally
+p149
+I1
+sVroll
+p150
+I1
+sVlife
+p151
+I1
+sVpicture
+p152
+I1
+sVplay
+p153
+I1
+sVdime
+p154
+I1
+sVkeys
+p155
+I1
+sVdrink
+p156
+I1
+sVooh
+p157
+I6
+sVtwole
+p158
+I1
+sVfat
+p159
+I1
+sVnever
+p160
+I1
+sVfits
+p161
+I1
+sVclass
+p162
+I1
+sVkid
+p163
+I1
+sVgravy
+p164
+I1
+sVfeminine
+p165
+I1
+sVi
+I4
+sVyoure
+p166
+I2
+sVwell
+p167
+I1
+sVnothin
+p168
+I1
+sVgrind
+p169
+I1
+sVthought
+p170
+I1
+sVteachin
+p171
+I1
+sVtall
+p172
+I1
+sVoverseas
+p173
+I1
+sVspend
+p174
+I1
+s.

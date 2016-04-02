@@ -1,34 +1,314 @@
-"groove thang" lyrics
-snoop dogg lyrics
-"groove thang"
-groove thang, groove thang, groove thang...
-yeah, cause i be rockin' my two chains
-and i do things, and i do things...
-yeah, cause i be all on my groove thang
-my groove thang, my groove thang...
-yeah, just watch me now in my groove thang...
-my groove thang, my groove thang...
-yeah, cause i be all on my groove thang
-yeah, just watch me now...
-too hippy to be cut-throat - hippies blow the best smoke
-rollin' up raws and living royal
-all my and bays & jays is loyal, they won't leave me cause i spoil
-the baddest of them all, the hash is why i won't fall
-molasses can't match my crawl, i'm higher than all of y'all
-they sayin' they born to ball, i'm sayin' i'm santa claus
-funny jokes i tell all, always inhale fog
-nappy dreads, my hair long - diamond 5-foot bong
-could never be a clone...
-it's a new thang and a new look
-kids be makin' our names in the book
-who you wanna be when you grow up?
-the broadus boyz, we actin' up
-we showin' out and we show up
-we ballin', it's all we know, it's not an option
-you see us, and yes, we poppin'
-standin' tall, we not fallin'
-on top, and yes, we callin' shots
-what you thought? i'm in charge and i'm the boss
-do a show and then we shop for the flyest gear
-we up in here, dippin' and dodging, man, changing gears
-this the life we chose, so you gon' hear this all year
+(dp1
+Vshop
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I2
+sVhippy
+p6
+I1
+sVyes
+p7
+I2
+sVblow
+p8
+I1
+sVsayin
+p9
+I2
+sVthang
+p10
+I13
+sVbaddest
+p11
+I1
+sVpoppin
+p12
+I1
+sVcharge
+p13
+I1
+sVbays
+p14
+I1
+sVactin
+p15
+I1
+sVflyest
+p16
+I1
+sVmatch
+p17
+I1
+sVcallin
+p18
+I1
+sVwatch
+p19
+I2
+sVmolasses
+p20
+I1
+sVnappy
+p21
+I1
+sVfall
+p22
+I1
+sVnow
+p23
+I1
+sVhippies
+p24
+I1
+sVwont
+p25
+I2
+sValways
+p26
+I1
+sVleave
+p27
+I1
+sVjokes
+p28
+I1
+sVgears
+p29
+I1
+sVshots
+p30
+I1
+sVbong
+p31
+I1
+sVyall
+p32
+I1
+sVyeah
+p33
+I5
+sVhair
+p34
+I1
+sVborn
+p35
+I1
+sVsee
+p36
+I1
+sVyear
+p37
+I1
+sVbest
+p38
+I1
+sVliving
+p39
+I1
+sVgon
+p40
+I1
+sVfog
+p41
+I1
+sVnew
+p42
+I2
+sVcause
+p43
+I4
+sVhash
+p44
+I1
+sVchose
+p45
+I1
+sVnever
+p46
+I1
+sVboss
+p47
+I1
+sVsanta
+p48
+I1
+sV5foot
+p49
+I1
+sVkids
+p50
+I1
+sVbroadus
+p51
+I1
+sVcould
+p52
+I1
+sVsmoke
+p53
+I1
+sVdippin
+p54
+I1
+sVchains
+p55
+I1
+sVspoil
+p56
+I1
+sVroyal
+p57
+I1
+sVmakin
+p58
+I1
+sVnames
+p59
+I1
+sVfallin
+p60
+I1
+sVjays
+p61
+I1
+sVballin
+p62
+I1
+sVwan
+p63
+I1
+sVinhale
+p64
+I1
+sVsnoop
+p65
+I1
+sVdogg
+p66
+I1
+sVtop
+p67
+I1
+sVtwo
+p68
+I1
+sVlong
+p69
+I1
+sVrockin
+p70
+I1
+sVtell
+p71
+I1
+sVraws
+p72
+I1
+sVlife
+p73
+I1
+sVdiamond
+p74
+I1
+sVoption
+p75
+I1
+sVclaus
+p76
+I1
+sVhear
+p77
+I1
+sVboyz
+p78
+I1
+sVcrawl
+p79
+I1
+sVlook
+p80
+I1
+sVup
+p81
+I3
+sVus
+p82
+I1
+sVgroove
+p83
+I12
+sVshowin
+p84
+I1
+sVcant
+p85
+I1
+sVim
+p86
+I5
+sVgear
+p87
+I1
+sVfunny
+p88
+I1
+sVdreads
+p89
+I1
+sVna
+p90
+I1
+sVbook
+p91
+I1
+sVcutthroat
+p92
+I1
+sVhigher
+p93
+I1
+sVball
+p94
+I1
+sVclone
+p95
+I1
+sVchanging
+p96
+I1
+sVgrow
+p97
+I1
+sVman
+p98
+I1
+sVrollin
+p99
+I1
+sVthought
+p100
+I1
+sVloyal
+p101
+I1
+sVthings
+p102
+I2
+sVtall
+p103
+I1
+sVdodging
+p104
+I1
+sVknow
+p105
+I1
+s.

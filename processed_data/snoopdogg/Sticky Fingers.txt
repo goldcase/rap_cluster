@@ -1,81 +1,488 @@
-"sticky fingers" lyrics
-snoop dogg lyrics
-"sticky fingers"
-(feat. kokane, ric rock)
-sticky fingers is the one i love
-i love him, i love you
-mmm, mmm, mmm
-sometimes i just look at how you buy me things
-before i split you wide open and i take a whif
-you so fine and now that you mind, it's that time
-i'm holdin' on you close, can't wait to be kind
-slowly dig you out and spread you 'cross the sheet
-run my fingers through your hair, 'til you soft and sweet
-as you clingin' to my fingers, time to get you hot
-wrap you up real tight, then i lick the top
-got you properly positioned to consume you whole
-but i know as we together i'ma lose control
-any way i spark the flame and the games commence
-as your aroma take over i get faded quick
-see you fill me with a feeling so fulfilling it's thrillin'
-that without you it's about to be a reason for livin'
-i spend my last cash, even chose to fight
-but yet i would even share if the mood is right
-let's get high
-sticky fingers is the one i love
-i love him, i love you
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah
-sticky fingers is the one i love
-i love him (i love you)
-i love you
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah (you feel so good)
-yeah, yeah, yeah, yeah
-where my grinder at?
-where my grinder at?
-so i can breakdown some colombian black
-can't find my tire, so i use my 'tibs
-twist it up in some chocolate, now hit this shit
-... and hold it in for about 20 seconds
-now how the hell you'd get "mary jane" naked?
-watch me light the cigarette up, i bet it burn out
-now hit some of this shit nigga, it get you turned out
-make you wanna jump back and kiss ya'self
-solo blunt to the neck, i don't need no help
-but if i run to a bad bats, it's just anotha dollar loss
-in time to pop my coller, 'til i pop a coller off
-situation sticky, no need for being picky
-don't touch ya face, the crystals make you itchy
-who's the theif that stole ya keef?
-i had to smash on the teeth, right down the streets
-you know why?
-sticky fingers is the one i love
-i love him, i love you
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah (even though i love you girl)
-yeah, yeah, yeah
-sticky fingers is the one i love
-i love him (i love you girl)
-i love you
-you know when you smoke you smell so good...
-sticky fingers is the one i love
-i love him (yeah)
-i love you (i love you girl)
-sticky fingers is the one i love
-i love him, i love you
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah (i love you girl)
-yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah
-yeah, mrs. sticky
-sticky fingers is the one i love
-i love him (yeah)
-i love you (yeah, oh girl)
+(dp1
+Vtibs
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVdollar
+p5
+I1
+sVaroma
+p6
+I1
+sVtouch
+p7
+I1
+sVhell
+p8
+I1
+sVfeat
+p9
+I1
+sVyet
+p10
+I1
+sVdont
+p11
+I2
+sVima
+p12
+I1
+sV20
+p13
+I1
+sVtire
+p14
+I1
+sVlets
+p15
+I1
+sVspread
+p16
+I1
+sVblack
+p17
+I1
+sVtake
+p18
+I2
+sVreal
+p19
+I1
+sVgood
+p20
+I2
+sVhit
+p21
+I2
+sVlivin
+p22
+I1
+sVget
+p23
+I5
+sVya
+p24
+I2
+sVwatch
+p25
+I1
+sVknow
+p26
+I3
+sVkiss
+p27
+I1
+sVitchy
+p28
+I1
+sVloss
+p29
+I1
+sVanotha
+p30
+I1
+sVsmell
+p31
+I1
+sVdig
+p32
+I1
+sVnaked
+p33
+I1
+sVbad
+p34
+I1
+sVholdin
+p35
+I1
+sVlose
+p36
+I1
+sVquick
+p37
+I1
+sVsoft
+p38
+I1
+sVright
+p39
+I2
+sVcoller
+p40
+I2
+sVwhif
+p41
+I1
+sVstreets
+p42
+I1
+sVpositioned
+p43
+I1
+sVyeah
+p44
+I76
+sVhair
+p45
+I1
+sVsee
+p46
+I1
+sVclose
+p47
+I1
+sVgirl
+p48
+I5
+sVkokane
+p49
+I1
+sVout
+p50
+I2
+sVeven
+p51
+I3
+sVmood
+p52
+I1
+sVfine
+p53
+I1
+sVjump
+p54
+I1
+sVfingers
+p55
+I12
+sVfind
+p56
+I1
+sVgot
+p57
+I1
+sVcolombian
+p58
+I1
+sVsolo
+p59
+I1
+sVburn
+p60
+I1
+sVrun
+p61
+I2
+sVchose
+p62
+I1
+sVseconds
+p63
+I1
+sVturned
+p64
+I1
+sVrock
+p65
+I1
+sVmmm
+p66
+I3
+sVreason
+p67
+I1
+sVsituation
+p68
+I1
+sVspark
+p69
+I1
+sVwait
+p70
+I1
+sVtwist
+p71
+I1
+sVlast
+p72
+I1
+sVwould
+p73
+I1
+sVthrillin
+p74
+I1
+sVoh
+p75
+I1
+sVgames
+p76
+I1
+sVsmoke
+p77
+I1
+sVkeef
+p78
+I1
+sVwhole
+p79
+I1
+sVyaself
+p80
+I1
+sVlove
+p81
+I29
+sVconsume
+p82
+I1
+sVfeel
+p83
+I1
+sVsweet
+p84
+I1
+sVyoud
+p85
+I1
+sVpop
+p86
+I2
+sVone
+p87
+I8
+sVna
+p88
+I1
+sVnigga
+p89
+I1
+sVbats
+p90
+I1
+sVwrap
+p91
+I1
+sVwhos
+p92
+I1
+sVopen
+p93
+I1
+sVwan
+p94
+I1
+sVuse
+p95
+I1
+sVsheet
+p96
+I1
+sVtheif
+p97
+I1
+sVsnoop
+p98
+I1
+sVdogg
+p99
+I1
+sVtop
+p100
+I1
+sVsmash
+p101
+I1
+sVfight
+p102
+I1
+sVslowly
+p103
+I1
+sVway
+p104
+I1
+sVjane
+p105
+I1
+sVmary
+p106
+I1
+sVback
+p107
+I1
+sVbuy
+p108
+I1
+sVshare
+p109
+I1
+sVchocolate
+p110
+I1
+sVproperly
+p111
+I1
+sVhold
+p112
+I1
+sVcommence
+p113
+I1
+sVpicky
+p114
+I1
+sVwide
+p115
+I1
+sVkind
+p116
+I1
+sVlook
+p117
+I1
+sVfulfilling
+p118
+I1
+sVcash
+p119
+I1
+sVflame
+p120
+I1
+sVfaded
+p121
+I1
+sVclingin
+p122
+I1
+sVfeeling
+p123
+I1
+sVbet
+p124
+I1
+sVcontrol
+p125
+I1
+sVlick
+p126
+I1
+sVmind
+p127
+I1
+sVsticky
+p128
+I12
+sVhigh
+p129
+I1
+sVcant
+p130
+I2
+sVim
+p131
+I1
+sVat
+p132
+I2
+sVneed
+p133
+I2
+sVcrystals
+p134
+I1
+sVmrs
+p135
+I1
+sVstole
+p136
+I1
+sVric
+p137
+I1
+sVshit
+p138
+I2
+sVfill
+p139
+I1
+sVgrinder
+p140
+I2
+sVthings
+p141
+I1
+sVmake
+p142
+I2
+sVcross
+p143
+I1
+sVtil
+p144
+I2
+sVtight
+p145
+I1
+sVhot
+p146
+I1
+sVsplit
+p147
+I1
+sVyou
+p148
+I6
+sVblunt
+p149
+I1
+sVbreakdown
+p150
+I1
+sVthough
+p151
+I1
+sVteeth
+p152
+I1
+sVcigarette
+p153
+I1
+sVwhy
+p154
+I1
+sVoff
+p155
+I1
+sVneck
+p156
+I1
+sVlight
+p157
+I1
+sVsometimes
+p158
+I1
+sVtogether
+p159
+I1
+sVface
+p160
+I1
+sVwithout
+p161
+I1
+sVtime
+p162
+I3
+sVspend
+p163
+I1
+s.

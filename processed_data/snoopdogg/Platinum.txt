@@ -1,97 +1,690 @@
-"platinum" lyrics
-snoop dogg lyrics
-"platinum"
-(feat. r. kelly)
-'bout to make the night shine
-snoop
-kellz
-platinum through the doors
-v12 rollin' nigga goin' platinum
-v12 rollin' nigga goin' platinum
-v12 rollin' nigga goin' platinum
-v12 rollin' nigga goin' platinum
-swag like a lighter
-and i keep my swag lit
-man i'm on fire
-that can't tell a nigga shit
-v12 rolling
-got some honeys up in it
-say your pussy golden
-but i only fuck with platinum chicks
-only talk platinum shit
-only swallow platinum spit
-speak my own slang-uage
-still i am the real-iest
-surrounded by ciroc but your boy sipping hennessy
-loves is a hospital and i was born in v.i.p.
-sick and there's no cure
-bad case of v.i.p.
-still in the game killing you can call us m.v.p.
-whole fucking club jump in your cars and follow me
-it's dude from the chi and the d.o. double g.
-we platinum
-platinum stars
-platinum
-platinum chicks
-platinum
-platinum clothes
-platinum
-platinum rich
-platinum
-platinum shots
-platinum
-platinum flights
-platinum
-platinum cribs
-platinum
-platinum lights
-let a motherfucker know from the ghetto
-limping, crimping and pimping mixing 'em all
-fixing the ball drifting listen dawg
-my rap is that, my cadillac is dripping wet
-you can bet, turn it up, roll it up, burn it up
-give it back to me let me show you how to move that groove that weed that do that
-all in fallin' ballin' yellin' doggy do that chew that
-record sales, hoe sales, detail, retail, you fail, we sell
-ding dong get your momma ring your bell
-back in the club with my nephew kellz
-25 girls in the dogg cartel and they do what the dogg say grifted or walkway
-pimping on them all day can't you tell
-i'm liking it loving it cubbin' it gubbin' it drinks up blunts lit platinum boss shit
-nigga you know how we do this
-take it back in the back of the car
-mack-mack like macking them hard, like that, quote backing them hard
-rich nigga with a platinum card in a platinum car with mink on the seat
-hoes on the street cause they all wanna make that trip to the promised land
-little mama can give it to me like i'm the man
-give it to me like i told you
-grab you, flip you, hold you, break you down
-stop depress, drop your dress, cause i'm gon' take you down
-what d'you think i got drink and you won't drink right now
-two shots and now you ready for that tat-tat-toawww
-and i'm gon' give you that
-i know that you diggin' that
-platinum smile on your face yeah they know i'm diggin' that
-and i'm liking it, loving it, cubbin' it, gubbin' it, drinks up blunts lit platinum
-boss shit
-you know how we do this
-look at us mob we at the bar
-we going crazy woah
-earth is our turf
-we on them jets
-leaving them haters woah
-snoop poppin' bottles i got models
-'bout to mix it woah
-i see your man he causing problems 'bout to fix it woah
-you cats is sloppy
-call me the clean up man
-pimpin's my hobby
-first love mic in hand
-i got a platinum car
-i got a platinum chain
-i got a platinum chick
-and she give me platinum brain
-i ain't gonna bullshit ya ladies
-this the real thing
-while they going gold
-we done went platinum man
+(dp1
+Vchicks
+p2
+I2
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVv12
+p6
+I5
+sVdripping
+p7
+I1
+sVgrifted
+p8
+I1
+sVmove
+p9
+I1
+sVciroc
+p10
+I1
+sVbrain
+p11
+I1
+sVnephew
+p12
+I1
+sVfollow
+p13
+I1
+sVstill
+p14
+I2
+sVfeat
+p15
+I1
+sVaint
+p16
+I1
+sV25
+p17
+I1
+sVswag
+p18
+I2
+sVhold
+p19
+I1
+sVchain
+p20
+I1
+sVmix
+p21
+I1
+sVfix
+p22
+I1
+sVpoppin
+p23
+I1
+sVbullshit
+p24
+I1
+sVflights
+p25
+I1
+sVgoing
+p26
+I2
+sVrich
+p27
+I2
+sVwet
+p28
+I1
+sVsmile
+p29
+I1
+sVbout
+p30
+I3
+sVreal
+p31
+I1
+sVme
+p32
+I1
+sVstreet
+p33
+I1
+sVsick
+p34
+I1
+sVget
+p35
+I1
+sVya
+p36
+I1
+sVstop
+p37
+I1
+sVsipping
+p38
+I1
+sVbreak
+p39
+I1
+sVgame
+p40
+I1
+sVcubbin
+p41
+I2
+sVsales
+p42
+I2
+sVknow
+p43
+I5
+sVlighter
+p44
+I1
+sVmixing
+p45
+I1
+sVmob
+p46
+I1
+sVnow
+p47
+I1
+sVday
+p48
+I1
+sVghetto
+p49
+I1
+sVwont
+p50
+I1
+sVdoggy
+p51
+I1
+sVbar
+p52
+I1
+sVlike
+p53
+I5
+sVgirls
+p54
+I1
+sVdrop
+p55
+I1
+sVslanguage
+p56
+I1
+sVmomma
+p57
+I1
+sVbad
+p58
+I1
+sVtattattoawww
+p59
+I1
+sVshots
+p60
+I2
+sVnight
+p61
+I1
+sVmackmack
+p62
+I1
+sVchick
+p63
+I1
+sVgrab
+p64
+I1
+sVclothes
+p65
+I1
+sVem
+p66
+I1
+sVchew
+p67
+I1
+sVnigga
+p68
+I7
+sVfucking
+p69
+I1
+sVhard
+p70
+I2
+sVback
+p71
+I4
+sVup
+p72
+I1
+sVjump
+p73
+I1
+sVborn
+p74
+I1
+sVsee
+p75
+I1
+sVdawg
+p76
+I1
+sVcrimping
+p77
+I1
+sVfail
+p78
+I1
+sVliking
+p79
+I2
+sVcartel
+p80
+I1
+sVdrinks
+p81
+I2
+sVdepress
+p82
+I1
+sVgon
+p83
+I3
+sVpimpins
+p84
+I1
+sVsurrounded
+p85
+I1
+sVlights
+p86
+I1
+sVdiggin
+p87
+I2
+sVhand
+p88
+I1
+sVquote
+p89
+I1
+sVpromised
+p90
+I1
+sVgot
+p91
+I6
+sVrealiest
+p92
+I1
+sVcause
+p93
+I2
+sVtold
+p94
+I1
+sVdrifting
+p95
+I1
+sVcars
+p96
+I1
+sVburn
+p97
+I1
+sVmotherfucker
+p98
+I1
+sVkilling
+p99
+I1
+sVlet
+p100
+I2
+sVjets
+p101
+I1
+sVhaters
+p102
+I1
+sVboss
+p103
+I2
+sVwent
+p104
+I1
+sVcard
+p105
+I1
+sVmvp
+p106
+I1
+sVboy
+p107
+I1
+sVg
+I1
+sVdyou
+p108
+I1
+sVpimping
+p109
+I2
+sVkeep
+p110
+I1
+sVturn
+p111
+I1
+sVdogg
+p112
+I3
+sVturf
+p113
+I1
+sVswallow
+p114
+I1
+sVretail
+p115
+I1
+sVwhole
+p116
+I1
+sVthink
+p117
+I1
+sVfirst
+p118
+I1
+sVding
+p119
+I1
+sVgolden
+p120
+I1
+sVladies
+p121
+I1
+sVlove
+p122
+I1
+sVbell
+p123
+I1
+sVpussy
+p124
+I1
+sVtwo
+p125
+I1
+sVdown
+p126
+I2
+sVvip
+p127
+I2
+sVright
+p128
+I1
+sVdone
+p129
+I1
+sVdong
+p130
+I1
+sVfallin
+p131
+I1
+sVring
+p132
+I1
+sVballin
+p133
+I1
+sVblunts
+p134
+I2
+sVspeak
+p135
+I1
+sVplatinum
+p136
+I36
+sVwan
+p137
+I1
+sVlittle
+p138
+I1
+sVsnoop
+p139
+I3
+sVchi
+p140
+I1
+sVhospital
+p141
+I1
+sVmacking
+p142
+I1
+sVdude
+p143
+I1
+sVflip
+p144
+I1
+sVcats
+p145
+I1
+sVcall
+p146
+I2
+sVstars
+p147
+I1
+sVmama
+p148
+I1
+sVgoin
+p149
+I4
+sVtell
+p150
+I2
+sVlisten
+p151
+I1
+sVshine
+p152
+I1
+sVspit
+p153
+I1
+sVthat
+p154
+I5
+sVclub
+p155
+I2
+sVhennessy
+p156
+I1
+sVfuck
+p157
+I1
+sVwalkway
+p158
+I1
+sVgold
+p159
+I1
+sVseat
+p160
+I1
+sVearth
+p161
+I1
+sVcase
+p162
+I1
+sVlook
+p163
+I1
+sVwoah
+p164
+I4
+sVthis
+p165
+I2
+sVdouble
+p166
+I1
+sVsay
+p167
+I2
+sVus
+p168
+I2
+sVrecord
+p169
+I1
+sVr
+I1
+sVloves
+p170
+I1
+sVloving
+p171
+I2
+sVgroove
+p172
+I1
+sVbet
+p173
+I1
+sVtheres
+p174
+I1
+sVcrazy
+p175
+I1
+sVmink
+p176
+I1
+sVhobby
+p177
+I1
+sVgive
+p178
+I5
+sVbacking
+p179
+I1
+sVhoneys
+p180
+I1
+sVhoes
+p181
+I1
+sVit
+p182
+I1
+sVyellin
+p183
+I1
+sVcant
+p184
+I2
+sVcure
+p185
+I1
+sVim
+p186
+I7
+sVlimping
+p187
+I1
+sVrap
+p188
+I1
+sVready
+p189
+I1
+sVleaving
+p190
+I1
+sVdress
+p191
+I1
+sVtrip
+p192
+I1
+sVshit
+p193
+I4
+sVcar
+p194
+I3
+sVsell
+p195
+I1
+sVhoe
+p196
+I1
+sVbottles
+p197
+I1
+sVthing
+p198
+I1
+sVfixing
+p199
+I1
+sVmake
+p200
+I2
+sVdetail
+p201
+I1
+sVlit
+p202
+I3
+sVfire
+p203
+I1
+sVcausing
+p204
+I1
+sVtake
+p205
+I2
+sVdoors
+p206
+I1
+sVyou
+p207
+I1
+sVroll
+p208
+I1
+sVball
+p209
+I1
+sVgubbin
+p210
+I2
+sVmodels
+p211
+I1
+sVcadillac
+p212
+I1
+sVdrink
+p213
+I2
+sVproblems
+p214
+I1
+sVweed
+p215
+I1
+sVrolling
+p216
+I1
+sVsloppy
+p217
+I1
+sVman
+p218
+I5
+sVyeah
+p219
+I1
+sVland
+p220
+I1
+sVcribs
+p221
+I1
+sVrollin
+p222
+I4
+sVface
+p223
+I1
+sVclean
+p224
+I1
+sVna
+p225
+I2
+sVkelly
+p226
+I1
+sVkellz
+p227
+I2
+sVmic
+p228
+I1
+sVtalk
+p229
+I1
+s.

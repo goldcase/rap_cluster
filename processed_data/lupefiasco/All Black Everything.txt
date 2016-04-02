@@ -1,77 +1,551 @@
-"all black everything" lyrics
-lupe fiasco lyrics
-"all black everything"
-you would never know
-if you could ever be
-if you never try
-you would never see
-stayed in africa
-we ain’t never leave
-so there were no slaves in our history
-were no slave ships, were no misery, call me crazy, or isn’t he
-see i fell asleep and i had a dream, it was all black everything
-uh, and we ain’t get exploited
-white man ain’t feared so he did not destroy it
-we ain’t work for free, see they had to employ it
-built it up together so we equally appointed
-first 400 years, see we actually enjoyed it
-constitution written by the w.e.b. du bois
-were no reconstructions, civil war got avoided
-little black sambo grows up to be a lawyer
-extra extra on the news stands
-black woman voted head of ku klux klan
-malcolm little dies as a old man
-martin luther king read the eulogy for him
-followed by bill o’reilly who read from the quran
-president bush sends condolences from iran
-where fox news reports live
-that ahmadinejad wins mandela peace prize
-you would never know
-if you could ever be
-if you never try
-you would never see
-stayed in africa
-we ain’t never leave
-so there were no slaves in our history
-were no slave ships, were no misery, call me crazy, or isn’t he
-see i fell asleep and i had a dream, it was all black everything
-uh, and it ain’t no projects
-keepin it real is not an understood concept
-yea, complexion’s not a contest
-cause racism has no context
-hip hop ain’t got a section called conscious
-everybody rappin’ like crack never happened
-crips never occurred no bloods to attack them
-matter of fact no hood to attack in
-somalia is a great place to relax in
-fred astaire was the first to do a backspin
-the rat pack was cool group of black men
-that inspired five white guys called the jacksons
-eminem fitted in but then again he inspired a black rapper tryin to mimic him
-and that’s what really rose up out of michigan, the sign of white rapper by the name of 50 cent, ha!
-you would never know
-if you could ever be
-if you never try
-you would never see
-stayed in africa
-we ain’t never leave
-so there were no slaves in our history
-were no slave ships, were no misery, call me crazy, or isn’t he
-see i fell asleep and i had a dream, it was all black everything
-uh, and i know it’s just a fantasy
-i cordially invite you to ask why can’t it be?
-now we can do nothing bout the past
-but we can do something about the future that we have
-we can make fast or we can make it last
-every woman queenin’ and every man a kingin’
-when those color lines come we can’t see between
-we just close our eyes ’til it’s all black every-thing!
-you would never know
-if you could ever be
-if you never try
-you would never see
-stayed in africa
-we ain’t never leave
-so there were no slaves in our history
-were no slave ships, were no misery, call me crazy, or isn’t he
-see i fell asleep and i had a dream, it was all black everything
+(dp1
+Vconcept
+p2
+I1
+sVlyrics
+p3
+I2
+sVyea
+p4
+I1
+sVyears
+p5
+I1
+sVeyes
+p6
+I1
+sVenjoyed
+p7
+I1
+sVweb
+p8
+I1
+sVgroup
+p9
+I1
+sVrose
+p10
+I1
+sVit\u2019s
+p11
+I2
+sVships
+p12
+I4
+sVsambo
+p13
+I1
+sVactually
+p14
+I1
+sVcolor
+p15
+I1
+sVbush
+p16
+I1
+sVblack
+p17
+I11
+sVvoted
+p18
+I1
+sVcordially
+p19
+I1
+sV400
+p20
+I1
+sVbout
+p21
+I1
+sVcool
+p22
+I1
+sVmandela
+p23
+I1
+sVisn\u2019t
+p24
+I4
+sVthem
+p25
+I1
+sVwoman
+p26
+I2
+sVget
+p27
+I1
+sVread
+p28
+I2
+sVmichigan
+p29
+I1
+sVeulogy
+p30
+I1
+sVreconstructions
+p31
+I1
+sVknow
+p32
+I5
+sVdu
+p33
+I1
+sVhim
+p34
+I2
+sVprojects
+p35
+I1
+sVlike
+p36
+I1
+sVprize
+p37
+I1
+sVcause
+p38
+I1
+sVrapper
+p39
+I2
+sV50
+p40
+I1
+sVtry
+p41
+I4
+sVbackspin
+p42
+I1
+sVmartin
+p43
+I1
+sVwork
+p44
+I1
+sVold
+p45
+I1
+sVsends
+p46
+I1
+sVthat\u2019s
+p47
+I1
+sVsign
+p48
+I1
+sVpast
+p49
+I1
+sVunderstood
+p50
+I1
+sVsee
+p51
+I11
+sVasleep
+p52
+I4
+sVlawyer
+p53
+I1
+sVclose
+p54
+I1
+sVavoided
+p55
+I1
+sVfeared
+p56
+I1
+sVconstitution
+p57
+I1
+sVexploited
+p58
+I1
+sVstands
+p59
+I1
+sVklux
+p60
+I1
+sVfox
+p61
+I1
+sVeverything
+p62
+I7
+sVwritten
+p63
+I1
+sVsomalia
+p64
+I1
+sVbetween
+p65
+I1
+sVrappin\u2019
+p66
+I1
+sVgot
+p67
+I2
+sVever
+p68
+I4
+sVcan\u2019t
+p69
+I2
+sVbe
+p70
+I5
+sVmen
+p71
+I1
+sViran
+p72
+I1
+sVlupe
+p73
+I1
+sVnever
+p74
+I18
+sVfree
+p75
+I1
+sVfred
+p76
+I1
+sVjacksons
+p77
+I1
+sVask
+p78
+I1
+sVnews
+p79
+I2
+sVeminem
+p80
+I1
+sVcome
+p81
+I1
+sVevery
+p82
+I2
+sVluther
+p83
+I1
+sVlast
+p84
+I1
+sVcould
+p85
+I4
+sVreports
+p86
+I1
+sVplace
+p87
+I1
+sVcontext
+p88
+I1
+sVmisery
+p89
+I4
+sVinspired
+p90
+I2
+sVpack
+p91
+I1
+sVfirst
+p92
+I2
+sVequally
+p93
+I1
+sVfollowed
+p94
+I1
+sVbloods
+p95
+I1
+sVextra
+p96
+I2
+sVcivil
+p97
+I1
+sVmalcolm
+p98
+I1
+sVafrica
+p99
+I4
+sVfantasy
+p100
+I1
+sVfast
+p101
+I1
+sVahmadinejad
+p102
+I1
+sVhood
+p103
+I1
+sVnothing
+p104
+I1
+sVeverybody
+p105
+I1
+sVbois
+p106
+I1
+sVlittle
+p107
+I2
+sVwould
+p108
+I8
+sVhip
+p109
+I1
+sVracism
+p110
+I1
+sVcent
+p111
+I1
+sVname
+p112
+I1
+sVlive
+p113
+I1
+sVcall
+p114
+I4
+sVwhite
+p115
+I3
+sVtryin
+p116
+I1
+sVreally
+p117
+I1
+sVwar
+p118
+I1
+sVcrips
+p119
+I1
+sVhead
+p120
+I1
+sVinvite
+p121
+I1
+sVrelax
+p122
+I1
+sVsomething
+p123
+I1
+sVgreat
+p124
+I1
+sVcrack
+p125
+I1
+sVoccurred
+p126
+I1
+sVqueenin\u2019
+p127
+I1
+sVha
+p128
+I1
+sVappointed
+p129
+I1
+sVhe
+p130
+I4
+sVking
+p131
+I1
+sVcondolences
+p132
+I1
+sVleave
+p133
+I4
+sVain\u2019t
+p134
+I9
+sVbill
+p135
+I1
+sVemploy
+p136
+I1
+sVmatter
+p137
+I1
+sVfuture
+p138
+I1
+sVuh
+p139
+I3
+sVhappened
+p140
+I1
+sVcalled
+p141
+I2
+sVhistory
+p142
+I4
+sVreal
+p143
+I1
+sVcrazy
+p144
+I4
+sVastaire
+p145
+I1
+sVit
+p146
+I3
+sVrat
+p147
+I1
+sV\u2019til
+p148
+I1
+sVo\u2019reilly
+p149
+I1
+sVhave
+p150
+I1
+sVin
+p151
+I2
+sVbuilt
+p152
+I1
+sVcontest
+p153
+I1
+sVmake
+p154
+I2
+sVpeace
+p155
+I1
+sVstayed
+p156
+I4
+sVhop
+p157
+I1
+sVdestroy
+p158
+I1
+sVattack
+p159
+I2
+sVgrows
+p160
+I1
+sVslave
+p161
+I4
+sVslaves
+p162
+I4
+sVdies
+p163
+I1
+sVquran
+p164
+I1
+sVkeepin
+p165
+I1
+sVfell
+p166
+I4
+sVcomplexion\u2019s
+p167
+I1
+sVklan
+p168
+I1
+sVpresident
+p169
+I1
+sVguys
+p170
+I1
+sVman
+p171
+I3
+sVconscious
+p172
+I1
+sVwins
+p173
+I1
+sVkingin\u2019
+p174
+I1
+sVlines
+p175
+I1
+sVtogether
+p176
+I1
+sVmimic
+p177
+I1
+sVfitted
+p178
+I1
+sVku
+p179
+I1
+sVfiasco
+p180
+I1
+sVfive
+p181
+I1
+sVdream
+p182
+I4
+sVsection
+p183
+I1
+sVfact
+p184
+I1
+s.

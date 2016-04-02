@@ -1,89 +1,646 @@
-"big time" lyrics
-e-40 lyrics
-"big time"
-if i got rich one day, i won the lotto
-i'll be up in the club, drunk, poppin' bottles
-i'mma live it up like it ain't no tomorrow
-big time, big time, big time, big time
-but i got to get it my way, i know it ain't pretty
-well, i'll be doing my thang till them boys come and get me
-i'll be doing my thang till i run my whole city
-big time, big time, big time, big time
-i get to it, i hustle, i get it in, trying to win like steve wynn
-money long like jay leno chin, i didn't put nothing in my government
-i paid my bills in money orders when i was in the trap hella heavy
-when i used to quarterback that yolla
-perm down to my shoulders trying to get it while it's good
-til the po po's headquarters up a hub station in our hood
-a lot of these rappers don't even sound like they believable
-but you can ask your daddy and uncle about e-feazible
-they'll say he the gospel, he a for real fisher
-he used to cop from me, now i cop from that nigga
-had to share the same bath water with my brother
-used to argue, fuss and fight over pillows and covers
-the low man at the bottom of the totem pole
-used to go the salvation army for school clothes
-now i'm a whaler, tycoon bro, everyday is christmas
-record company, real estate, food and beverage dealers
-if i got rich one day, i won the lotto
-i'll be up in the club, drunk, poppin' bottles
-i'mma live it up like it ain't no tomorrow
-big time, big time, big time, big time
-but i got to get it my way, i know it ain't pretty
-well, i'll be doing my thang till them boys come and get me
-i'll be doing my thang till i run my whole city
-big time, big time, big time, big time
-pimpin' is ugly out here, it's gross
-best friend will try to sneak if you let him get too close
-the body will fall if you kill the head
-what else?
-lovers turn quick, they forget who buttered their bread
-what was you tellin' them?
-i was just tellin' one my dudes
-they threw the old rules out the window
-created they own new set of rules
-when the shit in the air
-be a man, you can't be scared
-but you can't be
-try to nip it at the bud before it get too outta hand
-before what?
-i got some real ones in the pen
-that i visit 'cause they my folks
-up in there programming
-what they making?
-making diamonds outta soap
-just got my car up out the shop
-what you got in it?
-retarded knock
-use the loot that i won at a crap game
-and painted it butterscotch
-you can hear me throbbing up the block from miles away
-my neighbor loose it
-po-po's pull me over at least 3 times a day for my music
-my over head $60,000 a month total
-what else?
-conducting business on my sidekick t-mobile
-if i got rich one day, i won the lotto
-i'll be up in the club, drunk, poppin' bottles
-i'mma live it up like it ain't no tomorrow
-big time, big time, big time, big time
-but i got to get it my way, i know it ain't pretty
-well, i'll be doing my thang till them boys come and get me
-i'll be doing my thang till i run my whole city
-big time, big time, big time, big time
-niggas on the money on a first name basis
-and i ain't ate all day, i want my birthday cake
-so if it ain't about the money, you can get it out my face
-if it ain't about money you can walk the other way
-'cause i always been about my dough
-when they see you doing good, they want to catch you slipping
-'cause them boys going to look out you know
-that ain't gone ever stop me, now don't you worry about me
-if i got rich one day, i won the lotto
-i'll be up in the club, drunk, poppin' bottles
-i'mma live it up like it ain't no tomorrow
-big time, big time, big time, big time
-but i got to get it my way, i know it ain't pretty
-well, i'll be doing my thang till them boys come and get me
-i'll be doing my thang till i run my whole city
-big time, big time, big time, big time
+(dp1
+Vshop
+p2
+I1
+sVleast
+p3
+I1
+sVwynn
+p4
+I1
+sVforget
+p5
+I1
+sVlyrics
+p6
+I2
+sVmoney
+p7
+I5
+sVefeazible
+p8
+I1
+sVtotem
+p9
+I1
+sVmonth
+p10
+I1
+sVsteve
+p11
+I1
+sVever
+p12
+I1
+sVkill
+p13
+I1
+sVgo
+p14
+I1
+sVaint
+p15
+I12
+sVhead
+p16
+I2
+sVjay
+p17
+I1
+sVimma
+p18
+I4
+sVthang
+p19
+I8
+sVpoppin
+p20
+I4
+sV3
+I1
+sVwindow
+p21
+I1
+sVgoing
+p22
+I1
+sVrich
+p23
+I4
+sVfolks
+p24
+I1
+sVreal
+p25
+I3
+sVme
+p26
+I5
+sVthem
+p27
+I1
+sVgood
+p28
+I2
+sVget
+p29
+I14
+sVfood
+p30
+I1
+sVbig
+p31
+I34
+sVstop
+p32
+I1
+sVgame
+p33
+I1
+sVones
+p34
+I1
+sVknow
+p35
+I5
+sVfall
+p36
+I1
+sVbath
+p37
+I1
+sVday
+p38
+I6
+sVbread
+p39
+I1
+sVpainted
+p40
+I1
+sVknock
+p41
+I1
+sVschool
+p42
+I1
+sVlike
+p43
+I7
+sValways
+p44
+I1
+sVbrother
+p45
+I1
+sVpopos
+p46
+I1
+sVtry
+p47
+I2
+sVslipping
+p48
+I1
+sVmiles
+p49
+I1
+sVtrap
+p50
+I1
+sVquick
+p51
+I1
+sVdough
+p52
+I1
+sVgospel
+p53
+I1
+sVbills
+p54
+I1
+sVclothes
+p55
+I1
+sVheavy
+p56
+I1
+sVbody
+p57
+I1
+sVnigga
+p58
+I1
+sVold
+p59
+I1
+sVscared
+p60
+I1
+sVsee
+p61
+I1
+sVclose
+p62
+I1
+sVair
+p63
+I1
+sVbutterscotch
+p64
+I1
+sVbest
+p65
+I1
+sVpillows
+p66
+I1
+sVeven
+p67
+I1
+sVgross
+p68
+I1
+sVwhat
+p69
+I1
+sVlovers
+p70
+I1
+sVbottom
+p71
+I1
+sVaway
+p72
+I1
+sVlotto
+p73
+I4
+sVpen
+p74
+I1
+sVwon
+p75
+I5
+sVdiamonds
+p76
+I1
+sVit
+p77
+I2
+sVgot
+p78
+I11
+sVcause
+p79
+I3
+sVchristmas
+p80
+I1
+sVhustle
+p81
+I1
+sVyolla
+p82
+I1
+sVbe
+p83
+I1
+sVrun
+p84
+I4
+sVbusiness
+p85
+I1
+sVloose
+p86
+I1
+sVname
+p87
+I1
+sVwater
+p88
+I1
+sV60000
+p89
+I1
+sVlet
+p90
+I1
+sVmaking
+p91
+I2
+sVput
+p92
+I1
+sVcome
+p93
+I4
+sVthrobbing
+p94
+I1
+sVcop
+p95
+I2
+sVconducting
+p96
+I1
+sVate
+p97
+I1
+sVcreated
+p98
+I1
+sVill
+p99
+I12
+sVbasis
+p100
+I1
+sVprogramming
+p101
+I1
+sVtimes
+p102
+I1
+sVturn
+p103
+I1
+sVneighbor
+p104
+I1
+sVretarded
+p105
+I1
+sVargue
+p106
+I1
+sVwhole
+p107
+I4
+sVblock
+p108
+I1
+sVfirst
+p109
+I1
+sVdont
+p110
+I2
+sVdrunk
+p111
+I4
+sVwin
+p112
+I1
+sVpos
+p113
+I1
+sVdudes
+p114
+I1
+sVone
+p115
+I5
+sVbro
+p116
+I1
+sVask
+p117
+I1
+sVpole
+p118
+I1
+sVset
+p119
+I1
+sVlong
+p120
+I1
+sVtotal
+p121
+I1
+sVtomorrow
+p122
+I4
+sVhood
+p123
+I1
+sVcity
+p124
+I4
+sVuse
+p125
+I1
+sVcrap
+p126
+I1
+sVarmy
+p127
+I1
+sVwhaler
+p128
+I1
+sVvisit
+p129
+I1
+sVperm
+p130
+I1
+sVfight
+p131
+I1
+sVlive
+p132
+I4
+sVstation
+p133
+I1
+sVmusic
+p134
+I1
+sVlow
+p135
+I1
+sVway
+p136
+I5
+sVpo
+p137
+I1
+sVfriend
+p138
+I1
+sVthrew
+p139
+I1
+sVshoulders
+p140
+I1
+sVlot
+p141
+I1
+sVhub
+p142
+I1
+sVclub
+p143
+I4
+sVcompany
+p144
+I1
+sVelse
+p145
+I2
+sVboys
+p146
+I5
+sVuncle
+p147
+I1
+sVcatch
+p148
+I1
+sVtrying
+p149
+I2
+sVbud
+p150
+I1
+sVsound
+p151
+I1
+sVpull
+p152
+I1
+sVe40
+p153
+I1
+sVlook
+p154
+I1
+sVniggas
+p155
+I1
+sVcar
+p156
+I1
+sVcant
+p157
+I2
+sVtellin
+p158
+I2
+sVugly
+p159
+I1
+sVrecord
+p160
+I1
+sVcake
+p161
+I1
+sVim
+p162
+I1
+sVloot
+p163
+I1
+sVdaddy
+p164
+I1
+sVdidnt
+p165
+I1
+sVtmobile
+p166
+I1
+sVgone
+p167
+I1
+sVoutta
+p168
+I2
+sVestate
+p169
+I1
+sVshare
+p170
+I1
+sVtycoon
+p171
+I1
+sVcovers
+p172
+I1
+sVsay
+p173
+I1
+sVchin
+p174
+I1
+sVwant
+p175
+I2
+sVbelievable
+p176
+I1
+sVorders
+p177
+I1
+sVshit
+p178
+I1
+sVpimpin
+p179
+I1
+sVpretty
+p180
+I4
+sVbottles
+p181
+I4
+sVbuttered
+p182
+I1
+sVgovernment
+p183
+I1
+sVeveryday
+p184
+I1
+sVtil
+p185
+I1
+sVtill
+p186
+I8
+sVbeverage
+p187
+I1
+sVworry
+p188
+I1
+sVnew
+p189
+I1
+sVsoap
+p190
+I1
+sVquarterback
+p191
+I1
+sVused
+p192
+I4
+sVfuss
+p193
+I1
+sVrappers
+p194
+I1
+sVleno
+p195
+I1
+sVsneak
+p196
+I1
+sVpaid
+p197
+I1
+sVhand
+p198
+I1
+sVwalk
+p199
+I1
+sVbirthday
+p200
+I1
+sVnothing
+p201
+I1
+sVfisher
+p202
+I1
+sVnip
+p203
+I1
+sVman
+p204
+I2
+sVdealers
+p205
+I1
+sVrules
+p206
+I2
+sVsalvation
+p207
+I1
+sVsidekick
+p208
+I1
+sVwell
+p209
+I4
+sVheadquarters
+p210
+I1
+sVface
+p211
+I1
+sVhella
+p212
+I1
+sVtime
+p213
+I34
+sVhear
+p214
+I1
+sVtheyll
+p215
+I1
+s.

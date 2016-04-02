@@ -1,96 +1,690 @@
-higher lyrics
-kanye west lyrics
-higher
-performed pusha t
-feat thedream  mase
-look money
-ooh momma could you
-right side drop
-ooh momma throw reverse
-call back drop a
-baby baby baby baby baby
-baby baby baby baby baby
-baby baby baby baby baby
-baby baby baby baby baby
-oh girl think like
-got shit make niggas wanna fight
-got shit make bitches act right
-make bitches act spite aiight
-oh momma got bomb
-got shit make ass go run
-shit make niggas get guns
-white girls say get cool beat from
-love love it
-every beat drum sprung
-say make wanna touch it
-love love it
-make wanna touch it
-love love it
-buzzin yeah
-higher motherfucker
-higher motherfucker
-higher motherfucker yeah
-yeah ive known chase em
-known replace em
-shoe game outta world outer space em
-known hundred one like dalmatians
-maybe special enough ill glass case her
-get caught cheating gotta let stick up
-let shop til drop pickmeup
-bergdorf bandit barnies burglary
-bands lift whole store like hercules
-get raunchy givenchy palm reads
-passports pinot noir arms reach
-paddle shiftin pushbutton car keys
-penthouses poolside palm trees
-love love it
-every beat drum sprung
-say make wanna touch it
-love love it
-make wanna touch it
-love love it
-buzzin yeah
-higher motherfucker
-higher motherfucker
-higher motherfucker yeah
-uh onetwo onetwo guess back again
-uh harlem thiswhat yeezy let manhattan in
-get mic right turn levels up
-get light right turn bezel up
-hear bounce go throw mouth it
-many ghosts garage think house haunted
-long buckle say hermes rumors im concerned with
-wanna garnish earnings send burn it
-know people convinced moneys gettin rinsed
-louis seven inch tmz tint
-bumped loon like well assalamu alaykum
-know aint muslim nigga im bacon
-shot niggas takin youd think im rollin round reagan
-mexican landscape come rake im makin
-think blew bougie butt
-aint slow im charts move up
-im like drug overlord jewelrys overboard
-hard believe dollar sign eeven know lord
-already wrote ignore cost
-im rollin im showin remorse
-shmon
-buzzin yeah
-higher motherfucker
-higher motherfucker
-higher motherfucker yeah
-bitch hold smoke longer
-choke hold strong broke armor
-youre wide open right
-aint even smokin right
-bitch hold smoke
-cough hope harpo
-gotcha knocked know youre smokin loud
-youre higher motherfucker
-high bitch high motherfucker
-im high bitch fine motherfucker
-im high motherfucker
-hear sirens dying motherfucker
-moment silence motherfucker
-im higher motherfucker
-im higher motherfucker
-im higher mother
+(dp1
+Vshop
+p2
+I1
+sVbomb
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVmove
+p6
+I1
+sVdollar
+p7
+I1
+sVknown
+p8
+I3
+sVhercules
+p9
+I1
+sVshoe
+p10
+I1
+sVtouch
+p11
+I4
+sVkanye
+p12
+I1
+sVfeat
+p13
+I1
+sVjewelrys
+p14
+I1
+sVaint
+p15
+I3
+sVslow
+p16
+I1
+sVouter
+p17
+I1
+sVspite
+p18
+I1
+sVconvinced
+p19
+I1
+sVconcerned
+p20
+I1
+sVshiftin
+p21
+I1
+sVlord
+p22
+I1
+sVhope
+p23
+I1
+sVta
+p24
+I1
+sVloon
+p25
+I1
+sVget
+p26
+I6
+sVbeat
+p27
+I3
+sVbands
+p28
+I1
+sVrake
+p29
+I1
+sVtrees
+p30
+I1
+sVgivenchy
+p31
+I1
+sVinch
+p32
+I1
+sVgame
+p33
+I1
+sVevery
+p34
+I2
+sVknow
+p35
+I4
+sVburglary
+p36
+I1
+sVworld
+p37
+I1
+sVone
+p38
+I1
+sVcool
+p39
+I1
+sVlike
+p40
+I5
+sVlouis
+p41
+I1
+sVdrop
+p42
+I3
+sVignore
+p43
+I1
+sVgarage
+p44
+I1
+sVt
+I1
+sVraunchy
+p45
+I1
+sVside
+p46
+I1
+sVwrote
+p47
+I1
+sVbitch
+p48
+I4
+sVem
+p49
+I3
+sVsirens
+p50
+I1
+sVblew
+p51
+I1
+sVright
+p52
+I6
+sVpeople
+p53
+I1
+sVhouse
+p54
+I1
+sVhard
+p55
+I1
+sVbacon
+p56
+I1
+sVback
+p57
+I2
+sVbounce
+p58
+I1
+sVsign
+p59
+I1
+sVpusha
+p60
+I1
+sVgo
+p61
+I2
+sVbarnies
+p62
+I1
+sVpalm
+p63
+I2
+sVpoolside
+p64
+I1
+sVfine
+p65
+I1
+sVgirl
+p66
+I1
+sVspecial
+p67
+I1
+sVeven
+p68
+I1
+sVpenthouses
+p69
+I1
+sVspace
+p70
+I1
+sVarmor
+p71
+I1
+sVtakin
+p72
+I1
+sVtmz
+p73
+I1
+sVpaddle
+p74
+I1
+sVenough
+p75
+I1
+sVremorse
+p76
+I1
+sVgot
+p77
+I5
+sVhold
+p78
+I3
+sVguns
+p79
+I1
+sVass
+p80
+I1
+sVbergdorf
+p81
+I1
+sVmuslim
+p82
+I1
+sVrun
+p83
+I1
+sVpushbutton
+p84
+I1
+sVburn
+p85
+I1
+sVsprung
+p86
+I2
+sVreads
+p87
+I1
+sVmotherfucker
+p88
+I17
+sVknocked
+p89
+I1
+sVrinsed
+p90
+I1
+sVlet
+p91
+I3
+sVsmokin
+p92
+I2
+sVeeven
+p93
+I1
+sVnoir
+p94
+I1
+sVstrong
+p95
+I1
+sVhermes
+p96
+I1
+sVthrow
+p97
+I2
+sVshot
+p98
+I1
+sVbumped
+p99
+I1
+sVdrum
+p100
+I2
+sVreverse
+p101
+I1
+sVoh
+p102
+I2
+sVmany
+p103
+I1
+sVill
+p104
+I1
+sVchoke
+p105
+I1
+sVdrug
+p106
+I1
+sVround
+p107
+I1
+sVbandit
+p108
+I1
+sVturn
+p109
+I2
+sVsmoke
+p110
+I2
+sVact
+p111
+I2
+sVyeezy
+p112
+I1
+sValaykum
+p113
+I1
+sVwhole
+p114
+I1
+sVthink
+p115
+I4
+sVthedream
+p116
+I1
+sVtint
+p117
+I1
+sVcome
+p118
+I1
+sValready
+p119
+I1
+sVlove
+p120
+I12
+sVyoud
+p121
+I1
+sVreagan
+p122
+I1
+sVmakin
+p123
+I1
+sVmexican
+p124
+I1
+sVreplace
+p125
+I1
+sVmomma
+p126
+I3
+sVnigga
+p127
+I1
+sVsend
+p128
+I1
+sVopen
+p129
+I1
+sVbezel
+p130
+I1
+sVlandscape
+p131
+I1
+sVwan
+p132
+I6
+sVguess
+p133
+I1
+sVcheating
+p134
+I1
+sVfrom
+p135
+I1
+sVher
+p136
+I1
+sVpinot
+p137
+I1
+sVwest
+p138
+I1
+sVcaught
+p139
+I1
+sVbougie
+p140
+I1
+sVgirls
+p141
+I1
+sVarms
+p142
+I1
+sVlong
+p143
+I1
+sVfight
+p144
+I1
+sVcall
+p145
+I1
+sVcharts
+p146
+I1
+sVoverlord
+p147
+I1
+sVwhite
+p148
+I1
+sVhundred
+p149
+I1
+sVonetwo
+p150
+I2
+sVstore
+p151
+I1
+sVpassports
+p152
+I1
+sVgotcha
+p153
+I1
+sVbitches
+p154
+I2
+sVooh
+p155
+I2
+sVyeah
+p156
+I7
+sVglass
+p157
+I1
+sVlift
+p158
+I1
+sVhear
+p159
+I2
+sVstick
+p160
+I1
+sVbroke
+p161
+I1
+sVbutt
+p162
+I1
+sVbaby
+p163
+I20
+sVbelieve
+p164
+I1
+sVwith
+p165
+I1
+sVcase
+p166
+I1
+sVwide
+p167
+I1
+sVgarnish
+p168
+I1
+sVlook
+p169
+I1
+sVniggas
+p170
+I3
+sVcar
+p171
+I1
+sVup
+p172
+I4
+sVcough
+p173
+I1
+sVcost
+p174
+I1
+sVuh
+p175
+I2
+sVlight
+p176
+I1
+sVaiight
+p177
+I1
+sVshmon
+p178
+I1
+sVcould
+p179
+I1
+sVive
+p180
+I1
+sVseven
+p181
+I1
+sVyoure
+p182
+I3
+sVoutta
+p183
+I1
+sVgettin
+p184
+I1
+sVshowin
+p185
+I1
+sVoverboard
+p186
+I1
+sVit
+p187
+I12
+sVhigh
+p188
+I4
+sVsay
+p189
+I4
+sVassalamu
+p190
+I1
+sVim
+p191
+I13
+sVperformed
+p192
+I1
+sVin
+p193
+I1
+sVghosts
+p194
+I1
+sVshit
+p195
+I4
+sVchase
+p196
+I1
+sVagain
+p197
+I1
+sVpickmeup
+p198
+I1
+sVrumors
+p199
+I1
+sVloud
+p200
+I1
+sVdying
+p201
+I1
+sVna
+p202
+I6
+sVmake
+p203
+I9
+sVtil
+p204
+I1
+sVearnings
+p205
+I1
+sVbuzzin
+p206
+I3
+sVyou
+p207
+I1
+sVmanhattan
+p208
+I1
+sVhigher
+p209
+I15
+sVdalmatians
+p210
+I1
+sVkeys
+p211
+I1
+sVreach
+p212
+I1
+sVmoment
+p213
+I1
+sVlevels
+p214
+I1
+sVmouth
+p215
+I1
+sVthiswhat
+p216
+I1
+sVa
+I1
+sVmase
+p217
+I1
+sVharpo
+p218
+I1
+sVlonger
+p219
+I1
+sVmoneys
+p220
+I1
+sVmaybe
+p221
+I1
+sVbuckle
+p222
+I1
+sVwell
+p223
+I1
+sVrollin
+p224
+I2
+sVsilence
+p225
+I1
+sVmother
+p226
+I1
+sVhaunted
+p227
+I1
+sVharlem
+p228
+I1
+sVmic
+p229
+I1
+s.

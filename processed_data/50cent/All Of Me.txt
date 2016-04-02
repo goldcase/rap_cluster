@@ -1,55 +1,433 @@
-"all of me" lyrics
-50 cent lyrics
-"all of me"
-(feat. mary j. blige)
-now if i give you all of me
-what you gone give me back?
-your body is callin' me
-got me feelin' like a fiend on crack
-why you gonna make me fall in love?
-now why you wanna go and do that?
-now if i give you all of me
-what you gone give me back?
-lets start with the moon and the stars, whatever you into
-they money i aquire mama make it all simple
-flashback '03, papparazzi flashin' flicks
-i moved away, hustle hard, now i got a six stash
-tell me you miss me, baby come here and kiss me
-it just happened so quickly, feels like i hopped off a bus and got in a bentley
-its gangsta my music even when its the smooth shit
-you can hate me cause i hurt you but i aint even do it
-they predicted it all i dont know how he knew it
-he said women from hollywood are "liar, liar, liars"
-fuck em they get ya heated then deny it like mariah
-fast forward to '06, im still on fire
-the world is still turning, my records are still earnin'
-dough come quicker and quicker, flow gets sicker and sicker
-straight up and down baby, im a special kinda nigga
-now if i give you all of me
-what you gone give me back?
-your body is callin' me
-got me feelin' like a fiend on crack
-why you gonna make me fall in love?
-now why you wanna go and do that?
-now if i give you all of me
-what you gone give me back?
-life is short baby, be apart of my dreams
-i own ferarri horses, my lambhorgini leans
-so mean, i have niggas hatin' on me
-god gave me a gift, im supposed to be rich
-im supposed to ride through the hood and make niggas sick
-when my homies put in work, they supposed to get it
-with a piece of chain thick, go and buy em some bricks
-i aint make that up, this is how its suppose to be kid
-you should feel like a life, but it gave back bad time
-when i smile your smile should be as big as mines
-girl to know me's to love me, im one of a kind
-even when you hate me you love me, forever your mine
-now if i give you all of me
-what you gone give me back?
-your body is callin' me
-got me feelin' like a fiend on crack
-why you gonna make me fall in love?
-now why you wanna go and do that?
-now if i give you all of me
-what you gone give me back?
+(dp1
+Vliar
+p2
+I2
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVdough
+p5
+I1
+sVgo
+p6
+I4
+sVflashback
+p7
+I1
+sVstill
+p8
+I3
+sVfeat
+p9
+I1
+sVaint
+p10
+I2
+sVchain
+p11
+I1
+sVbricks
+p12
+I1
+sVlets
+p13
+I1
+sVrich
+p14
+I1
+sVcrack
+p15
+I3
+sVsmile
+p16
+I2
+sVgangsta
+p17
+I1
+sVhappened
+p18
+I1
+sVcallin
+p19
+I3
+sVget
+p20
+I2
+sVya
+p21
+I1
+sVbig
+p22
+I1
+sVfeelin
+p23
+I3
+sVrecords
+p24
+I1
+sVfeels
+p25
+I1
+sVknow
+p26
+I2
+sVkiss
+p27
+I1
+sVfall
+p28
+I3
+sVworld
+p29
+I1
+sVdreams
+p30
+I1
+sVapart
+p31
+I1
+sVmariah
+p32
+I1
+sVlike
+p33
+I6
+sVgift
+p34
+I1
+sV50
+p35
+I1
+sVbad
+p36
+I1
+sVpredicted
+p37
+I1
+sVliars
+p38
+I1
+sVride
+p39
+I1
+sVmean
+p40
+I1
+sVem
+p41
+I2
+sVquicker
+p42
+I2
+sVbentley
+p43
+I1
+sVhard
+p44
+I1
+sVback
+p45
+I7
+sVfeel
+p46
+I1
+sVlambhorgini
+p47
+I1
+sVaquire
+p48
+I1
+sVgirl
+p49
+I1
+sVhopped
+p50
+I1
+sVspecial
+p51
+I1
+sVeven
+p52
+I3
+sV03
+p53
+I1
+sVgon
+p54
+I3
+sV06
+p55
+I1
+sVmine
+p56
+I1
+sVhate
+p57
+I2
+sVaway
+p58
+I1
+sVmines
+p59
+I1
+sVmoon
+p60
+I1
+sVgot
+p61
+I5
+sVflicks
+p62
+I1
+sVcause
+p63
+I1
+sVhustle
+p64
+I1
+sVbody
+p65
+I3
+sVturning
+p66
+I1
+sVmes
+p67
+I1
+sVput
+p68
+I1
+sVcome
+p69
+I2
+sVpiece
+p70
+I1
+sVsicker
+p71
+I2
+sVlove
+p72
+I5
+sVdont
+p73
+I1
+sVsimple
+p74
+I1
+sVinto
+p75
+I1
+sVwhatever
+p76
+I1
+sVone
+p77
+I1
+sVnigga
+p78
+I1
+sVfast
+p79
+I1
+sVheated
+p80
+I1
+sVthick
+p81
+I1
+sVmiss
+p82
+I1
+sVhood
+p83
+I1
+sVwan
+p84
+I3
+sVhomies
+p85
+I1
+sVcent
+p86
+I1
+sVquickly
+p87
+I1
+sVstart
+p88
+I1
+sVmusic
+p89
+I1
+sVstars
+p90
+I1
+sVtime
+p91
+I1
+sVmama
+p92
+I1
+sVearnin
+p93
+I1
+sVhollywood
+p94
+I1
+sVmary
+p95
+I1
+sVhorses
+p96
+I1
+sVlife
+p97
+I2
+sVbuy
+p98
+I1
+sVthat
+p99
+I3
+sVfire
+p100
+I1
+sVmoved
+p101
+I1
+sVfiend
+p102
+I3
+sVforever
+p103
+I1
+sVit
+p104
+I3
+sVforward
+p105
+I1
+sVhatin
+p106
+I1
+sVbaby
+p107
+I3
+sVwomen
+p108
+I1
+sVme
+p109
+I12
+sVkind
+p110
+I1
+sVblige
+p111
+I1
+sVniggas
+p112
+I2
+sVstraight
+p113
+I1
+sVj
+I1
+sVsmooth
+p114
+I1
+sVtell
+p115
+I1
+sVsuppose
+p116
+I1
+sVsupposed
+p117
+I3
+sVgave
+p118
+I2
+sVflashin
+p119
+I1
+sVgone
+p120
+I6
+sVgive
+p121
+I12
+sVpapparazzi
+p122
+I1
+sVfuck
+p123
+I1
+sVleans
+p124
+I1
+sVim
+p125
+I5
+sVwork
+p126
+I1
+sVshit
+p127
+I1
+sVna
+p128
+I6
+sVmake
+p129
+I6
+sVsix
+p130
+I1
+sVsick
+p131
+I1
+sVbus
+p132
+I1
+sVgets
+p133
+I1
+sVknew
+p134
+I1
+sVsaid
+p135
+I1
+sVkinda
+p136
+I1
+sVhurt
+p137
+I1
+sVkid
+p138
+I1
+sVdeny
+p139
+I1
+sVshort
+p140
+I1
+sVflow
+p141
+I1
+sVstash
+p142
+I1
+sVferarri
+p143
+I1
+sVgod
+p144
+I1
+s.

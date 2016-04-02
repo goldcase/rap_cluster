@@ -1,107 +1,903 @@
-"don't come my way" lyrics
-common lyrics
-"don't come my way"
-(feat. slick rick)
-yeah yeah
-you know, slick, why do he wanna come crib
-acting like he know how the brothers live?
-we have to let 'em know
-we have to let 'em know
-heeeeere we go
-behold a pair of white horses on the death wish course
-been watching mtv, reading articles in the source
-lost on the other side of the river
-where death approaches the livest nigga
-i wonder why this wigga
-would even come around my tilt
-with grandmothers cry, uncles get high, and cats get pealed
-my guys will deal with him, he got no rhythm
-so let the steel hit him, we speaking jail diction
-hoe work and day oppression
-turn up the bass and let the system thump
-so my neighbors won't hear the sparks as the lead gets pumped
-its a pre-(?) agreement in the cement jungle
-kill each other over money and white boys for fun
-don't come my way
-hawks feel the day
-things don't change, oh no
-don't you come my way
-come my way
-see the day, oh no
-little family so a junky living act as
-started smoking crack to fill the void within my black ass
-1999, rolling as some broke cat
-these white kids asking questions
-about where to buy some coke at
-kinda shock a dude, ruler turn a sucker to
-show 'em where these cats at, maybe earn a rock or two
-retarded, not knowing the kid hardest trife
-kill 'em, asswipes, i'll have a new start in my life
-till the drug lord knock upon their (?)
-disprespected, "washed up rapper, what the fuck you want?"
-the often asked, i could see others laugh
-i got my man he wanna a buy a half a ki off your ass
-scolding 'em, sleeping and sold on 'em
-gimme the cash,
-let me flash it through this peephole on 'em (check it out)
-he got hyped quick, pursued in the tight crib
-emptied on their asses, including the white kids
-don't come my way
-hawks feel the day
-things don't change, oh no
-don't you come my way
-come my way
-see the day, oh no
-yo, how'd dude go cop a brick when he ain't got the loot
-ricky d, get the heat and 'treat 'em like a prostitute"
-this wigga gots no heart from his iowa start
-and a section 8 cat, he don't want any part
-i put two in there, ruin their, pursuing their souvenir
-nigga, what the fuck is that white behind doing here?
-won't you say you wanted to slug 'em
-"if your not here for the cable or the (?) ya buggin"
-lights flooded the scene, there was blood and si-reens
-(sirens)
-the cops shot the brother, i still hear him scream
-black mans reality, white mans bad dream
-familiar scene from the ickeys to the brady green
-its pissy hallways, broke elevators always (ya know)
-ain't no place for our children to play
-i try to go out in the summer and be feeling the day
-these broke and stupid niggas, yo they still in the way
-one of the mightiest slang, and plus the night is young
-i got long term money draining ideas from
-since they far, i'll find your brown sweetheart
-just being white your like golden goose around these parts
-hey retard, better hurry in, my name is father marion
-i'll hold that american express card your carrying
-put your nose up, don't, shut up, provoking and woke up
-first where do you live, how much money your folks got?
-don't come my way
-hawks feel the day
-things don't change, oh no
-don't you come my way
-come my way
-see the day, oh no
-don't come my way
-hawks feel the day
-things don't change, oh no
-don't you come my way
-come my way
-see the day, oh no
-we let the rhythm go
-common sense will 'em hit where i hit 'em
-common sense will spin 'em check it out
-i guess i did 'em where they should to be done
-ain't nothing new about the wonder rap son
-closed styles like captions yo its time for some action
-man, i get bread, niggas get me sled
-when i come up off their head, it was said
-for that, yo, it's like this
-common sense'll strike this, mic this
-just like some punchlines
-how niggas follow me like one time
-everybody love me like the sunshine
-combine, ain't that you never knew of
-niggas say one but i've got two loves
-check it out, now how i do love...
+(dp1
+Vneighbors
+p2
+I1
+sVthings
+p3
+I4
+sVbrick
+p4
+I1
+sVshot
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I1
+sVyoung
+p8
+I1
+sVmoney
+p9
+I3
+sVhalf
+p10
+I1
+sVfind
+p11
+I1
+sVtrife
+p12
+I1
+sVideas
+p13
+I1
+sVcourse
+p14
+I1
+sVkill
+p15
+I2
+sVhyped
+p16
+I1
+sVquestions
+p17
+I1
+sVknock
+p18
+I1
+sVgo
+p19
+I4
+sVcaptions
+p20
+I1
+sVstill
+p21
+I2
+sVfeat
+p22
+I1
+sVchildren
+p23
+I1
+sVaint
+p24
+I4
+sVdeath
+p25
+I2
+sVtight
+p26
+I1
+sVsparks
+p27
+I1
+sVmuch
+p28
+I1
+sVruin
+p29
+I1
+sVflash
+p30
+I1
+sVfather
+p31
+I1
+sVbehind
+p32
+I1
+sVheeeeere
+p33
+I1
+sVbetter
+p34
+I1
+sVsource
+p35
+I1
+sVblack
+p36
+I2
+sVrick
+p37
+I1
+sVrhythm
+p38
+I2
+sVthump
+p39
+I1
+sVfolks
+p40
+I1
+sVlord
+p41
+I1
+sVbread
+p42
+I1
+sVstyles
+p43
+I1
+sVlivest
+p44
+I1
+sVhit
+p45
+I3
+sVaround
+p46
+I2
+sVuncles
+p47
+I1
+sVget
+p48
+I5
+sVya
+p49
+I2
+sVruler
+p50
+I1
+sVvoid
+p51
+I1
+sVexpress
+p52
+I1
+sVterm
+p53
+I1
+sVme
+p54
+I1
+sVknow
+p55
+I5
+sVnew
+p56
+I2
+sVemptied
+p57
+I1
+sVday
+p58
+I10
+sVd
+I1
+sVwont
+p59
+I2
+sVarticles
+p60
+I1
+sVearn
+p61
+I1
+sVpursued
+p62
+I1
+sVlike
+p63
+I8
+sVlost
+p64
+I1
+sValways
+p65
+I1
+sVcry
+p66
+I1
+sVrapper
+p67
+I1
+sVbrother
+p68
+I1
+sVtry
+p69
+I1
+sVthis
+p70
+I2
+sVbad
+p71
+I1
+sVstupid
+p72
+I1
+sVprovoking
+p73
+I1
+sVcommon
+p74
+I4
+sVrock
+p75
+I1
+sVquick
+p76
+I1
+sVincluding
+p77
+I1
+sVriver
+p78
+I1
+sVout
+p79
+I2
+sVside
+p80
+I1
+sVem
+p81
+I13
+sVknowing
+p82
+I1
+sVsweetheart
+p83
+I1
+sVnigga
+p84
+I2
+sVoften
+p85
+I1
+sVdeal
+p86
+I1
+sVelevators
+p87
+I1
+sVcarrying
+p88
+I1
+sVyeah
+p89
+I2
+sVgrandmothers
+p90
+I1
+sVup
+p91
+I1
+sVgoose
+p92
+I1
+sVsee
+p93
+I5
+sVsummer
+p94
+I1
+sVfollow
+p95
+I1
+sVguess
+p96
+I1
+sVwonder
+p97
+I2
+sVeven
+p98
+I1
+sVliving
+p99
+I1
+sVsaid
+p100
+I1
+sVdiction
+p101
+I1
+sVlead
+p102
+I1
+sVdraining
+p103
+I1
+sVhallways
+p104
+I1
+sVsection
+p105
+I1
+sVsince
+p106
+I1
+sVwashed
+p107
+I1
+sVslick
+p108
+I2
+sVjunky
+p109
+I1
+sVricky
+p110
+I1
+sVlights
+p111
+I1
+sVacting
+p112
+I1
+sVasking
+p113
+I1
+sVloves
+p114
+I1
+sVclosed
+p115
+I1
+sVpeephole
+p116
+I1
+sVgot
+p117
+I7
+sVhold
+p118
+I1
+sVreading
+p119
+I1
+sVsireens
+p120
+I1
+sVnose
+p121
+I1
+sVass
+p122
+I2
+sVshut
+p123
+I1
+sVnever
+p124
+I1
+sVbass
+p125
+I1
+sVsold
+p126
+I1
+sVnight
+p127
+I1
+sVagreement
+p128
+I1
+sVhere
+p129
+I1
+sVsouvenir
+p130
+I1
+sVdrug
+p131
+I1
+sVapproaches
+p132
+I1
+sVlet
+p133
+I6
+sVothers
+p134
+I1
+sVput
+p135
+I2
+sVgots
+p136
+I1
+sVwanted
+p137
+I1
+sVcome
+p138
+I17
+sVslug
+p139
+I1
+sVchange
+p140
+I4
+sVcop
+p141
+I1
+sVickeys
+p142
+I1
+sVkids
+p143
+I2
+sVsensell
+p144
+I1
+sVoh
+p145
+I8
+sVof
+p146
+I1
+sVill
+p147
+I3
+sVasses
+p148
+I1
+sVwigga
+p149
+I2
+sVturn
+p150
+I2
+sVamerican
+p151
+I1
+sVplace
+p152
+I1
+sVact
+p153
+I1
+sVaction
+p154
+I1
+sVhead
+p155
+I1
+sVasked
+p156
+I1
+sVfirst
+p157
+I1
+sVgolden
+p158
+I1
+sVlove
+p159
+I2
+sVdont
+p160
+I16
+sVfamily
+p161
+I1
+sVmans
+p162
+I2
+sVfeel
+p163
+I4
+sVmightiest
+p164
+I1
+sVwithin
+p165
+I1
+sVscene
+p166
+I2
+sVcrib
+p167
+I2
+sVtwo
+p168
+I3
+sVpunchlines
+p169
+I1
+sVrolling
+p170
+I1
+sVdone
+p171
+I1
+sVlaugh
+p172
+I1
+sVhey
+p173
+I1
+sVnothing
+p174
+I1
+sVeverybody
+p175
+I1
+sVwan
+p176
+I2
+sVlittle
+p177
+I1
+sVfrom
+p178
+I1
+sVwould
+p179
+I1
+sVto
+p180
+I1
+sVhawks
+p181
+I4
+sVdude
+p182
+I2
+sVsystem
+p183
+I1
+sVlong
+p184
+I1
+sVname
+p185
+I1
+sVstart
+p186
+I2
+sVlive
+p187
+I2
+sVcats
+p188
+I2
+sVtreat
+p189
+I1
+sVway
+p190
+I15
+sVtime
+p191
+I2
+sVstrike
+p192
+I1
+sVcombine
+p193
+I1
+sVwhite
+p194
+I7
+sVman
+p195
+I2
+sVspeaking
+p196
+I1
+sVhorses
+p197
+I1
+sVasswipes
+p198
+I1
+sVlife
+p199
+I1
+sVbuy
+p200
+I2
+sVprostitute
+p201
+I1
+sVstarted
+p202
+I1
+sVcoke
+p203
+I1
+sVcrack
+p204
+I1
+sVpissy
+p205
+I1
+sVboys
+p206
+I1
+sVheat
+p207
+I1
+sVshock
+p208
+I1
+sVhear
+p209
+I2
+sVsled
+p210
+I1
+sVbroke
+p211
+I3
+sV8
+I1
+sVsmoking
+p212
+I1
+sVcard
+p213
+I1
+sVhurry
+p214
+I1
+sVspin
+p215
+I1
+sVgim
+p216
+I1
+sVsteel
+p217
+I1
+sVniggas
+p218
+I4
+sVpursuing
+p219
+I1
+sV1999
+p220
+I1
+sVwish
+p221
+I1
+sVwork
+p222
+I1
+sVmtv
+p223
+I1
+sVcash
+p224
+I1
+sVcat
+p225
+I2
+sVhardest
+p226
+I1
+sVwoke
+p227
+I1
+sVfamiliar
+p228
+I1
+sVpumped
+p229
+I1
+sVfun
+p230
+I1
+sVloot
+p231
+I1
+sVfeeling
+p232
+I1
+sVcould
+p233
+I1
+sVsay
+p234
+I2
+sVpre
+p235
+I1
+sVheart
+p236
+I1
+sVplus
+p237
+I1
+sVrap
+p238
+I1
+sVbrown
+p239
+I1
+sVsense
+p240
+I2
+sVone
+p241
+I3
+sVfuck
+p242
+I2
+sVsleeping
+p243
+I1
+sVhigh
+p244
+I1
+sVas
+p245
+I1
+sVat
+p246
+I1
+sVwant
+p247
+I2
+sVpealed
+p248
+I1
+sViowa
+p249
+I1
+sVcheck
+p250
+I3
+sVmarion
+p251
+I1
+sVfill
+p252
+I1
+sVive
+p253
+I1
+sVhoe
+p254
+I1
+sVyo
+p255
+I4
+sVno
+p256
+I8
+sVna
+p257
+I2
+sVmic
+p258
+I1
+sVwatching
+p259
+I1
+sVcable
+p260
+I1
+sVreality
+p261
+I1
+sVtill
+p262
+I1
+sVparts
+p263
+I1
+sVson
+p264
+I1
+sVsucker
+p265
+I1
+sVgreen
+p266
+I1
+sVbehold
+p267
+I1
+sVgets
+p268
+I1
+sVplay
+p269
+I1
+sVsunshine
+p270
+I1
+sVbrothers
+p271
+I1
+sVflooded
+p272
+I1
+sVknew
+p273
+I1
+sVoppression
+p274
+I1
+sVretarded
+p275
+I1
+sVupon
+p276
+I1
+sVcement
+p277
+I1
+sVblood
+p278
+I1
+sVkinda
+p279
+I1
+sVpair
+p280
+I1
+sVguys
+p281
+I1
+sVslang
+p282
+I1
+sVkid
+p283
+I1
+sVretard
+p284
+I1
+sVbrady
+p285
+I1
+sVcops
+p286
+I1
+sVmaybe
+p287
+I1
+sVki
+p288
+I1
+sVscolding
+p289
+I1
+sVsirens
+p290
+I1
+sVdisprespected
+p291
+I1
+sVbuggin
+p292
+I1
+sVpart
+p293
+I1
+sVjail
+p294
+I1
+sVjungle
+p295
+I1
+sVhowd
+p296
+I1
+sVtilt
+p297
+I1
+sVfar
+p298
+I1
+sVdream
+p299
+I1
+sVscream
+p300
+I1
+s.

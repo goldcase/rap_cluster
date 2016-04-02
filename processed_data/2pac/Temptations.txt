@@ -1,90 +1,689 @@
-"temptations" lyrics
-2pac lyrics
-"temptations"
-yo mo bee main, drop that shit!
-"heyyyy!  heyy-ayyaahhyy" --  (redman's "watch yo' nugget")
-you know what time, boo-yaow
-i know it's time for you
-so grab one by the hand youknowhati'msayin
-and uhh, throw up that finger
-ay yo yo yo throw y'all fingers up!
-thug style baby, thug style y'know?
-tell me baby are you lonely?  don't wanna rush ya
-i can help ya if ya only, let me touch ya
-if i'm wrong love tell me, cause i get caught up
-and the life i live is hell see, i never thought i'd see
-the day when i would calm down, you ain't heard
-i've been known to clown and get around, that's my word
-see you walkin and you lookin good, yes indeed
-got a body like a sex fiend, you're killin me
-witcha attitude to match right, don't be phony
-cause i hate when you act like, you don't know me
-i've be stressin in the spotlight, i want the fame
-but the industry's a lot like, a crap game
-ain't no time for commitment, i gotta go
-can't be wit you every minute miss, another show
-and even though i'm known for my one night stand
-i wanna be an honest man, but temptations go...
-"heyyyy!  heyy-ayyaahhyy" --  (redman's "watch yo' nugget")
-throw up the finger!
-and all my homies go..
-throw them the finger!
-ya know what baby it's like
-i know you've been searchin for someone
-to make you happy, and get the job done
-you say you need it, a man with money
-but i can't be there, and will you still care
-will i cheat or will i be committed, heaven knows
-gettin weak and i wanna hit it, so here i go
-in my ride and i'm all in, gettin high
-i can hear the people callin, i'm passin by
-everybody knows i'm ball-in, and to god
-gotta keep myself from fall-in, but it's hard
-all the cuties know i'm under pressure, what do i do
-gettin shaky when she pull the dress up, and say it's cool
-should i stroke or should i wait a while, you decide
-if you tell me that you don't want it, that's a lie
-move close and let me whisper, some dirty words
-in your ears as i kiss ya, on every curve
-slow down baby don't rush, i like it slow
-can't hold it any longer, so let it go
-open the gates, do you wanna fall up in heaven
-don't worry, i let myself in, all i heard was...
-"heyyyy!  heyy-ayyaahhyy" --  (redman's "watch yo' nugget")
-give em the finger!
-all my homies go..
-throw your fingers up!
-that's just the thug in me girl, you know
-peep out all my homies, y'know, it's like
-i know you've been searchin for someone
-to make you happy, and get the job done
-you say you need it, a man with money
-but i can't be there, and will you still care
-a lot of people think it's easy, to settle down
-got a woman that'll please me, in every town
-i don't wanna but i gotta do it, the temptation
-got me ready to release the fluid, sensation
-sit down and conversate like you know me, take my hand
-cause even thugs get lonely, understand
-even the hardest of my homies need attention
-catch you blowin up the telephone, reminiscin
-i wanna take you to the movies, and the park
-let's find a spot for you to do me, in the dark
-now that it's passion, hold me tight
-don't need lights, i can see you by the moonlight
-i know your man ain't lovin you right
-you're lonely and depressed you need a thug in your life
-enough talkin, you want me to leave, i'll get to walkin
-see you later, cause baby i'm a player, and all i heard was
-"heyyyy!  heyy-ayyaahhyy" --  (redman's "watch yo' nugget")
-give em the finger
-and all my homies go.. yo this how we gonna do this in the nine-trey y'know?
-throw your fingers up
-y'know?  they gonna peep this, this how we run game on you
-everybody, heyy, alright
-heyy, heyyyeah, heyyyayyy, ohh
-all my niggaz go
-uptown in the
-give em the finger!
-throw your hands up
-give em the finger!
+(dp1
+Vgates
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVcheat
+p6
+I1
+sVindeed
+p7
+I1
+sVhands
+p8
+I1
+sVshaky
+p9
+I1
+sVknown
+p10
+I2
+sVattitude
+p11
+I1
+sVcommitted
+p12
+I1
+sVtouch
+p13
+I1
+sVhell
+p14
+I1
+sVyes
+p15
+I1
+sVstill
+p16
+I2
+sVhate
+p17
+I1
+sVfind
+p18
+I1
+sVaint
+p19
+I3
+sVstyle
+p20
+I2
+sVslow
+p21
+I2
+sVwoman
+p22
+I1
+sVlets
+p23
+I1
+sVeasy
+p24
+I1
+sVfiend
+p25
+I1
+sVmain
+p26
+I1
+sVmatch
+p27
+I1
+sVta
+p28
+I3
+sVdo
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I1
+sVaround
+p32
+I1
+sVyo
+p33
+I9
+sVget
+p34
+I6
+sVya
+p35
+I6
+sVwatch
+p36
+I4
+sVfluid
+p37
+I1
+sVuhh
+p38
+I1
+sVcuties
+p39
+I1
+sVdark
+p40
+I1
+sVgame
+p41
+I2
+sVevery
+p42
+I3
+sVknow
+p43
+I10
+sVdecide
+p44
+I1
+sVfall
+p45
+I1
+sVpassin
+p46
+I1
+sVday
+p47
+I1
+sVminute
+p48
+I1
+sVheyyyy
+p49
+I4
+sVstroke
+p50
+I1
+sVheaven
+p51
+I2
+sVlike
+p52
+I7
+sVnugget
+p53
+I4
+sVcool
+p54
+I1
+sVdrop
+p55
+I1
+sVclown
+p56
+I1
+sVleave
+p57
+I1
+sVsomeone
+p58
+I2
+sVsettle
+p59
+I1
+sVnight
+p60
+I1
+sVrelease
+p61
+I1
+sVgrab
+p62
+I1
+sVride
+p63
+I1
+sVyall
+p64
+I1
+sVears
+p65
+I1
+sVem
+p66
+I4
+sVlie
+p67
+I1
+sVright
+p68
+I2
+sVpeople
+p69
+I2
+sVhard
+p70
+I1
+sVsensation
+p71
+I1
+sVsex
+p72
+I1
+sVgo
+p73
+I8
+sVsee
+p74
+I5
+sVuptown
+p75
+I1
+sVclose
+p76
+I1
+sVgirl
+p77
+I1
+sVyknow
+p78
+I4
+sVeven
+p79
+I3
+sVby
+p80
+I1
+sVgon
+p81
+I2
+sVtemptation
+p82
+I1
+sVballin
+p83
+I1
+sVheyyyeah
+p84
+I1
+sVplease
+p85
+I1
+sVfingers
+p86
+I3
+sVlights
+p87
+I1
+sVenough
+p88
+I1
+sVpassion
+p89
+I1
+sVfinger
+p90
+I7
+sVgot
+p91
+I6
+sVcause
+p92
+I4
+sVbody
+p93
+I1
+sVattention
+p94
+I1
+sVrun
+p95
+I1
+sVgod
+p96
+I1
+sVnever
+p97
+I1
+sVweak
+p98
+I1
+sVpressure
+p99
+I1
+sVjob
+p100
+I2
+sVlet
+p101
+I4
+sVpeep
+p102
+I2
+sVthrow
+p103
+I7
+sVcare
+p104
+I2
+sVsearchin
+p105
+I2
+sVill
+p106
+I1
+sVblowin
+p107
+I1
+sVkiss
+p108
+I1
+sVhonest
+p109
+I1
+sVwalkin
+p110
+I2
+sVstand
+p111
+I1
+sVlookin
+p112
+I1
+sVact
+p113
+I1
+sVwitcha
+p114
+I1
+sVthink
+p115
+I1
+sVthats
+p116
+I3
+sVlove
+p117
+I1
+sVdont
+p118
+I8
+sVcommitment
+p119
+I1
+sVone
+p120
+I2
+sVdown
+p121
+I1
+sVwit
+p122
+I1
+sVdone
+p123
+I2
+sVanother
+p124
+I1
+sVfallin
+p125
+I1
+sVohh
+p126
+I1
+sVmiss
+p127
+I1
+sVeverybody
+p128
+I2
+sVwan
+p129
+I6
+sVkillin
+p130
+I1
+sVcrap
+p131
+I1
+sVwould
+p132
+I1
+sVcaught
+p133
+I1
+sVredmans
+p134
+I4
+sVplayer
+p135
+I1
+sVlive
+p136
+I1
+sVheyyayyaahhyy
+p137
+I4
+sVcalm
+p138
+I1
+sVlot
+p139
+I2
+sVwait
+p140
+I1
+sVwas
+p141
+I2
+sVtell
+p142
+I3
+sVbooyaow
+p143
+I1
+sVlife
+p144
+I2
+sVknows
+p145
+I2
+sVninetrey
+p146
+I1
+sVhomies
+p147
+I5
+sVpark
+p148
+I1
+sVphony
+p149
+I1
+sVgettin
+p150
+I3
+sVhear
+p151
+I1
+sVbaby
+p152
+I5
+sVhold
+p153
+I2
+sVindustrys
+p154
+I1
+sV2pac
+p155
+I1
+sVme
+p156
+I2
+sVpull
+p157
+I1
+sVrush
+p158
+I2
+sVword
+p159
+I1
+sVheard
+p160
+I3
+sVdepressed
+p161
+I1
+sVmo
+p162
+I1
+sVup
+p163
+I5
+sVniggaz
+p164
+I1
+sVbee
+p165
+I1
+sVmovies
+p166
+I1
+sVhardest
+p167
+I1
+sVdirty
+p168
+I1
+sVheyy
+p169
+I2
+sVtemptations
+p170
+I3
+sVspotlight
+p171
+I1
+sVsay
+p172
+I3
+sVcatch
+p173
+I1
+sVive
+p174
+I2
+sVyouknowhatimsayin
+p175
+I1
+sVlater
+p176
+I1
+sVmoney
+p177
+I2
+sVthatll
+p178
+I1
+sVgive
+p179
+I4
+sVwhisper
+p180
+I1
+sVconversate
+p181
+I1
+sVtelephone
+p182
+I1
+sVhigh
+p183
+I1
+sVay
+p184
+I1
+sVcant
+p185
+I4
+sVlonely
+p186
+I3
+sVim
+p187
+I7
+sVwant
+p188
+I3
+sVthug
+p189
+I4
+sVtake
+p190
+I2
+sVkeep
+p191
+I1
+sVdress
+p192
+I1
+sVid
+p193
+I1
+sVshit
+p194
+I1
+sVhappy
+p195
+I2
+sVthugs
+p196
+I1
+sVmoonlight
+p197
+I1
+sVopen
+p198
+I1
+sVsit
+p199
+I1
+sVna
+p200
+I8
+sVmake
+p201
+I2
+sVfame
+p202
+I1
+sVtight
+p203
+I1
+sVneed
+p204
+I5
+sVworry
+p205
+I1
+sVyou
+p206
+I2
+sVreminiscin
+p207
+I1
+sVtalkin
+p208
+I1
+sVthough
+p209
+I1
+sVyouve
+p210
+I2
+sVspot
+p211
+I1
+sVhand
+p212
+I2
+sVtown
+p213
+I1
+sVwrong
+p214
+I1
+sVready
+p215
+I1
+sVlovin
+p216
+I1
+sVman
+p217
+I4
+sVcallin
+p218
+I1
+sVlonger
+p219
+I1
+sVmove
+p220
+I1
+sVstressin
+p221
+I1
+sVyoure
+p222
+I2
+sVcurve
+p223
+I1
+sVthought
+p224
+I1
+sVheyyyayyy
+p225
+I1
+sVtime
+p226
+I3
+sValright
+p227
+I1
+sVunderstand
+p228
+I1
+sVthe
+p229
+I1
+sVwords
+p230
+I1
+s.

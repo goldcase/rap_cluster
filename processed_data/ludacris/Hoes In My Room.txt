@@ -1,89 +1,774 @@
-"hoes in my room" lyrics
-ludacris lyrics
-"hoes in my room"
-(feat. snoop dogg)
-hey! thank all you all for comin' out tonight
-it was a beautiful night tonight and the shizznit
-where pimpin' and dead, these hoes just scared
-thanks snoop dogg, ludacris, all the niggas from the lbc
-it was a beautiful night tonight
-oh, look at these fools, ay! security! come get these niggas!
-fresh off the streets, just finished a show in long beach
-ready to relax, kick up my feet
-maybe smoke a blunt or two, that's what i wanna do
-broke out and called up the homeboy snoop (what happenin' nephew?)
-oh, nothin' just called, lookin' for some women that can fondle my balls
-(well you hit the right dogg, i can help you with that
-gimme 15 minutes, and i'll hit you rite back)
-off to the hotel, i was ready indeed
-slapped the button in the 'llac to control the speed
-put one up in the air, the cops just stared
-waved my hands out the roof like i just ain't care
-got to the tele and i slid through the door
-on to the elevator, hit the penthouse floor
-and what would happen next only time could tell
-cause i got up to my room, and i was mad as hell (ah! damn!)
-who let these hoes in my room? (these hoes)
-who let these hoes in my room?
-who let these hoes in my room? (did you let 'em in?)
-who let these hoes in my room? (these hoes)
-who let these hoes in my room?
-now it was five b.a.p hoes and they look like trash
-but one was midget, so we'll just say four and a half
-i was stuck speechless, couldn't believe my eyes
-what'd i do to deserve this unpleasant surprise?
-and i was thinkin' to myself, "this is just my luck"
-then my nigga bust in like "what the fuck!?"
-(oh shit it's snoop!)
-who in the hell let them booger bears out they cell (not me)
-and what they doin' in ya' room? nigga make 'em bail (yeah)
-got some fine bitches, dime bitches on they way (okay)
-and told security, "let 'em in, with no delay" (ha ha!)
-so when they get here, they'll probably be like half naked
-don't mean to trip out, but bitch you all got to dip out (dip out!)
-catch the elevator up one floor
-presidential with the slidin' key for the door (oh no!)
-what the fuck goin' on? shit, all around the world luda, then its the same song
-them bitches was so ugly, i told 'em to go home
-who let these hoes in my room?
-(man who let these hoes in my room?)
-who let these hoes in my room? (oh no!)
-(did you let 'em in?)
-who let these hoes in my room?
-(well who let 'em in then?)
-who let these hoes in my room? (get out!)
-now, these chicks wouldn't leave, they was ready to clown
-one was 5'6 and weighed three hundred pounds
-(no she didn't come through with a thong on
-she did for the hell of it, big fat whale of it)
-you can't separate me, i'm gonna separate you
-bitch ya' pussy smell like pepe le pew
-(you filthy, nasty, sick in the head
-sittin' in my dressing room with dick on ya' bread)
-she said "i want you to climb in this underwear, silly"
-but i was turned off by her tupper-ware titties
-(fake bitches, break bitches, make bitches
-kick rocks, when they fucked up in they face
-tick-tock, you gots to get up out my space
-hey ludacris let's get the fuck up out this place, let's bounce)
-then it got to my head, and somethin' reminded me
-i know who let 'em in, it was bill o'reilly (faggot)
-(ya' white bread, chicken-shit nigga!)
-who let these hoes in my room?
-(who let these hoes in my room?)
-who let these hoes in my room? (did you let 'em in?)
-who let these hoes in my room?
-(i need to know, who let these hoes in?)
-who let these hoes in my room?
-ay, ay you all gotta go
-you all gotta get the fuck up outta here, ugly ass bitches
-i don't understand how these bitches always get in my dressin' room
-you know what i'm sayin'?
-soon as i get off stage, it's 7 or 8 ugly ass bitches posyed up in my dressin room
-and security act like they don't know who did it
-i know you feel what i'm sayin', i'm my nigga around the whole world
-we need to form a society or somethin'
-fat, gorilla, monkey mouth bitches cant get in our motherfucking dressing room or backstage
-and if they do, we kindly put our foot up their asses
-and re-direct them bitches to security dressin' room, you dig?
-sick of these ugly ass bitches bein' my dressin' room
+(dp1
+Vchicks
+p2
+I1
+sVpew
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I3
+sVtupperware
+p7
+I1
+sVindeed
+p8
+I1
+sVhalf
+p9
+I2
+sVsoon
+p10
+I1
+sVfour
+p11
+I1
+sVthanks
+p12
+I1
+sVworld
+p13
+I2
+sVgo
+p14
+I2
+sVnephew
+p15
+I1
+sVfeat
+p16
+I1
+sVaint
+p17
+I1
+sVha
+p18
+I2
+sVthank
+p19
+I1
+sVshow
+p20
+I1
+sVbust
+p21
+I1
+sVlets
+p22
+I2
+sVunpleasant
+p23
+I1
+sVwhole
+p24
+I1
+sVdressing
+p25
+I2
+sV8
+I1
+sVbread
+p26
+I2
+sVkick
+p27
+I2
+sVta
+p28
+I2
+sVdo
+p29
+I1
+sVhit
+p30
+I3
+sVaround
+p31
+I2
+sVget
+p32
+I9
+sVya
+p33
+I4
+sVcould
+p34
+I1
+sVbein
+p35
+I1
+sVsmell
+p36
+I1
+sVfat
+p37
+I2
+sVspeechless
+p38
+I1
+sVbreak
+p39
+I1
+sVfive
+p40
+I1
+sVknow
+p41
+I5
+sVdig
+p42
+I1
+sVhands
+p43
+I1
+sVfoot
+p44
+I1
+sVslidin
+p45
+I1
+sVnasty
+p46
+I1
+sVone
+p47
+I4
+sVyou
+p48
+I1
+sVpresidential
+p49
+I1
+sVroom
+p50
+I25
+sVlike
+p51
+I6
+sVbap
+p52
+I1
+sVpounds
+p53
+I1
+sVblunt
+p54
+I1
+sVbutton
+p55
+I1
+sV56
+p56
+I1
+sVbail
+p57
+I1
+sVrocks
+p58
+I1
+sVnaked
+p59
+I1
+sVnight
+p60
+I2
+sVsecurity
+p61
+I4
+sVdip
+p62
+I2
+sVluck
+p63
+I1
+sVem
+p64
+I8
+sVsittin
+p65
+I1
+sVright
+p66
+I1
+sVhell
+p67
+I3
+sVunderstand
+p68
+I1
+sVhundred
+p69
+I1
+sVscared
+p70
+I1
+sVstreets
+p71
+I1
+sVback
+p72
+I1
+sVdead
+p73
+I1
+sVsociety
+p74
+I1
+sVclown
+p75
+I1
+sVhoes
+p76
+I22
+sVhome
+p77
+I1
+sVhappen
+p78
+I1
+sVout
+p79
+I2
+sVfondle
+p80
+I1
+sVleave
+p81
+I1
+sVgon
+p82
+I1
+sVspace
+p83
+I1
+sVspeed
+p84
+I1
+sVseparate
+p85
+I2
+sVslapped
+p86
+I1
+sVcell
+p87
+I1
+sVdeserve
+p88
+I1
+sVbitch
+p89
+I2
+sV7
+I1
+sVit
+p90
+I2
+sVgot
+p91
+I7
+sVrite
+p92
+I1
+sVcause
+p93
+I1
+sVtold
+p94
+I2
+sVass
+p95
+I3
+sVredirect
+p96
+I1
+sVthong
+p97
+I1
+sVstared
+p98
+I1
+sVdressin
+p99
+I4
+sVchickenshit
+p100
+I1
+sVle
+p101
+I1
+sVlet
+p102
+I23
+sVkey
+p103
+I1
+sVput
+p104
+I2
+sVgots
+p105
+I1
+sVcome
+p106
+I2
+sVcare
+p107
+I1
+sVon
+p108
+I1
+sVunderwear
+p109
+I1
+sVluda
+p110
+I1
+sVwould
+p111
+I1
+sVwouldnt
+p112
+I1
+sVoh
+p113
+I5
+sVdidnt
+p114
+I1
+sVill
+p115
+I1
+sVllac
+p116
+I1
+sVplace
+p117
+I1
+sVlookin
+p118
+I1
+sVact
+p119
+I1
+sVmouth
+p120
+I1
+sVclimb
+p121
+I1
+sVmean
+p122
+I1
+sVhead
+p123
+I2
+sVsayin
+p124
+I2
+sVticktock
+p125
+I1
+sVthats
+p126
+I1
+sVtitties
+p127
+I1
+sVcontrol
+p128
+I1
+sVdick
+p129
+I1
+sVdont
+p130
+I3
+sVfeel
+p131
+I1
+sVpussy
+p132
+I1
+sVoreilly
+p133
+I1
+sVhey
+p134
+I2
+sVfeet
+p135
+I1
+sVhappenin
+p136
+I1
+sVwhatd
+p137
+I1
+sVelevator
+p138
+I2
+sVcomin
+p139
+I1
+sVcouldnt
+p140
+I1
+sVfine
+p141
+I1
+sVwhale
+p142
+I1
+sVstage
+p143
+I1
+sVwan
+p144
+I1
+sVmonkey
+p145
+I1
+sVsnoop
+p146
+I4
+sVbears
+p147
+I1
+sVdogg
+p148
+I3
+sVshizznit
+p149
+I1
+sVtwo
+p150
+I1
+sVlong
+p151
+I1
+sVnext
+p152
+I1
+sVstuck
+p153
+I1
+sVasses
+p154
+I1
+sValways
+p155
+I1
+sVtele
+p156
+I1
+sVway
+p157
+I1
+sVdamn
+p158
+I1
+sVgim
+p159
+I1
+sVman
+p160
+I1
+sVtell
+p161
+I1
+sVeyes
+p162
+I1
+sVfake
+p163
+I1
+sVdoor
+p164
+I2
+sVpimpin
+p165
+I1
+sVform
+p166
+I1
+sVthat
+p167
+I1
+sVhotel
+p168
+I1
+sVcant
+p169
+I2
+sVyeah
+p170
+I1
+sVcops
+p171
+I1
+sVfinished
+p172
+I1
+sVnigga
+p173
+I4
+sVbounce
+p174
+I1
+sVbroke
+p175
+I1
+sVcatch
+p176
+I1
+sVprobably
+p177
+I1
+sVbelieve
+p178
+I1
+sVbackstage
+p179
+I1
+sVwhite
+p180
+I1
+sVwomen
+p181
+I1
+sVme
+p182
+I3
+sVweighed
+p183
+I1
+sVballs
+p184
+I1
+sV15
+p185
+I1
+sVlook
+p186
+I2
+sVniggas
+p187
+I2
+sVbill
+p188
+I1
+sVmotherfucking
+p189
+I1
+sVsay
+p190
+I1
+sVroof
+p191
+I1
+sVair
+p192
+I1
+sVugly
+p193
+I4
+sVpenthouse
+p194
+I1
+sVsilly
+p195
+I1
+sVthree
+p196
+I1
+sVposyed
+p197
+I1
+sVkindly
+p198
+I1
+sVfaggot
+p199
+I1
+sVminutes
+p200
+I1
+sVcalled
+p201
+I2
+sVbeautiful
+p202
+I2
+sVslid
+p203
+I1
+sVoutta
+p204
+I1
+sVthen
+p205
+I1
+sVah
+p206
+I1
+sVturned
+p207
+I1
+sVfuck
+p208
+I4
+sVtonight
+p209
+I3
+sVay
+p210
+I3
+sVlbc
+p211
+I1
+sVim
+p212
+I4
+sVwant
+p213
+I1
+sVin
+p214
+I4
+sVready
+p215
+I3
+sVreminded
+p216
+I1
+sVtrip
+p217
+I1
+sVshit
+p218
+I2
+sVtheyll
+p219
+I1
+sVfloor
+p220
+I2
+sVna
+p221
+I2
+sVthinkin
+p222
+I1
+sVrelax
+p223
+I1
+sVpepe
+p224
+I1
+sVhomeboy
+p225
+I1
+sVdelay
+p226
+I1
+sVneed
+p227
+I2
+sVsick
+p228
+I2
+sVbig
+p229
+I1
+sVfools
+p230
+I1
+sVtrash
+p231
+I1
+sVbeach
+p232
+I1
+sVwaved
+p233
+I1
+sVbitches
+p234
+I12
+sVokay
+p235
+I1
+sVsmoke
+p236
+I1
+sVdime
+p237
+I1
+sVbooger
+p238
+I1
+sVsurprise
+p239
+I1
+sVdoin
+p240
+I1
+sVsaid
+p241
+I1
+sVmidget
+p242
+I1
+sVmad
+p243
+I1
+sVfucked
+p244
+I1
+sVsong
+p245
+I1
+sVfilthy
+p246
+I1
+sVgoin
+p247
+I1
+sVsomethin
+p248
+I2
+sVmaybe
+p249
+I1
+sVno
+p250
+I2
+sVwell
+p251
+I3
+sVnothin
+p252
+I1
+sVface
+p253
+I1
+sVgorilla
+p254
+I1
+sVtime
+p255
+I1
+sVfresh
+p256
+I1
+sVmake
+p257
+I2
+s.

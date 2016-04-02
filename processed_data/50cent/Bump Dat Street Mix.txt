@@ -1,72 +1,623 @@
-"bump dat street mix" lyrics
-50 cent lyrics
-"bump dat street mix"
-new shit
-tony yayo, 50 cent c'mon
-bump dat
-niggas try to stunt on my click
-then when i get on that shit
-i bring it to 'em where they pump at
-12 gauge mashberg
-no shell in the head
-before you put in work, you gotta pump that
-you done hit a nigga with it and you runnin to polices
-come and take my advice, nigga, dump that
-this is serious, these rap niggas, i'm just havin fun with it
-50 cent, nigga, bump dat
-my son ask "daddy why carry a gun, you ain't a cop"
-looked at him and said "sometimes you gotta shoot or get shot"
-wanna go to show-and-tell and show the class my glock?
-show 'em the clip
-show 'em the beam
-show 'em how daddy lean
-in the convertible jag
-22 inch mags
-for a high school drop out, shit, that ain't bag
-i'm not a blood or a crip, i'm doing my own thang
-g-unit
-shit, i done started my own gang
-i don't go that funny dance
-i don't throw gang signs
-but i'm a gangsta to the core so i stay with a nine
-think all i do is rap, then you don't know me good
-have smurf hangin out the sun roof to light up your hood, man
-cause lethal ain't never seen blaco comin'
-but if he did .. you think he woulda started runnin?
-and i move with the doublemint twins and two macs
-and leave you flat your back
-brrat
-take that
-i gotta half a mil deal with no diploma
-ice so blind it give your ass glaucoma
-its hard to live, but its easy to die
-so i'm going through life lookin death in the eye
-these rappers ain't gun slingers
-they r&b singers
-g-unit, come thru with some guerilla niggas
-minimum wage ain't gonna pay the rent
-cause the seats in the coupe got the fendi print
-and this shit right here for the listeners pleasure
-i'm still on the strip with the fifth and my ever
-its t-o-n-y
-stay with a semi
-milk your crack spot - till the shit be bone dry
-you think you pump hard?  nigga i pump harder
-my phone ring so much, i walk around with the charger
-when the d's come around, i'ma swallow my crack
-shit the work out later, and hit 'em with that
-if it's a direct sale
-i'ma change the bill
-tryin to push the new range cause they changed the grille
-look nigga we icey thugs
-we stay with them things so we stay with some nike gloves
-just havin fun with this rap shit, man
-it never stops
-my man 50 done put out, what, three albums on the street?
-and y'all ain't even hear the new shit
-just keep goin' and goin' and goin'
-motherfuckin' duracell battery
-it never stops
-word up
-g-unit
-sha money xl
+(dp1
+Vthings
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I4
+sVdance
+p6
+I1
+sVmoney
+p7
+I1
+sVmove
+p8
+I1
+sVbring
+p9
+I1
+sVever
+p10
+I1
+sVgauge
+p11
+I1
+sVgang
+p12
+I2
+sVsigns
+p13
+I1
+sVgo
+p14
+I2
+sVstill
+p15
+I1
+sVmilk
+p16
+I1
+sVfifth
+p17
+I1
+sVaint
+p18
+I6
+sVdeath
+p19
+I1
+sV22
+p20
+I1
+sVtill
+p21
+I1
+sVthang
+p22
+I1
+sVblaco
+p23
+I1
+sVhavin
+p24
+I2
+sVgoing
+p25
+I1
+sVeasy
+p26
+I1
+sVcrack
+p27
+I2
+sVjag
+p28
+I1
+sVgangsta
+p29
+I1
+sVta
+p30
+I3
+sVrunnin
+p31
+I2
+sVgood
+p32
+I1
+sVhit
+p33
+I2
+sVaround
+p34
+I2
+sVget
+p35
+I2
+sVwoulda
+p36
+I1
+sVdat
+p37
+I4
+sVbeam
+p38
+I1
+sVknow
+p39
+I1
+sVgot
+p40
+I4
+sVstunt
+p41
+I1
+sVwalk
+p42
+I1
+sVds
+p43
+I1
+sVschool
+p44
+I1
+sVsemi
+p45
+I1
+sVdie
+p46
+I1
+sVdrop
+p47
+I1
+sVgun
+p48
+I2
+sVtry
+p49
+I1
+sVbag
+p50
+I1
+sVgloves
+p51
+I1
+sVwage
+p52
+I1
+sVshowandtell
+p53
+I1
+sVbone
+p54
+I1
+sVem
+p55
+I5
+sVnigga
+p56
+I5
+sVdoublemint
+p57
+I1
+sVdump
+p58
+I1
+sVbump
+p59
+I4
+sVhard
+p60
+I2
+sVback
+p61
+I1
+sV50
+p62
+I4
+sVcarry
+p63
+I1
+sVpolices
+p64
+I1
+sVstreet
+p65
+I3
+sVchanged
+p66
+I1
+sVclick
+p67
+I1
+sVeven
+p68
+I1
+sVleave
+p69
+I1
+sVsaid
+p70
+I1
+sVsha
+p71
+I1
+sVsun
+p72
+I1
+sVlean
+p73
+I1
+sVice
+p74
+I1
+sVpump
+p75
+I4
+sVtwins
+p76
+I1
+sVrb
+p77
+I1
+sVprint
+p78
+I1
+sVnew
+p79
+I3
+sVcause
+p80
+I3
+sVrappers
+p81
+I1
+sVass
+p82
+I1
+sVcore
+p83
+I1
+sVmags
+p84
+I1
+sVnever
+p85
+I3
+sVsmurf
+p86
+I1
+sVima
+p87
+I2
+sVgunit
+p88
+I3
+sVconvertible
+p89
+I1
+sVcome
+p90
+I3
+sVthrow
+p91
+I1
+sVchange
+p92
+I1
+sVdry
+p93
+I1
+sVcop
+p94
+I1
+sVmotherfuckin
+p95
+I1
+sVglaucoma
+p96
+I1
+sVask
+p97
+I1
+sVmashberg
+p98
+I1
+sVlater
+p99
+I1
+sVrange
+p100
+I1
+sVyall
+p101
+I1
+sVlethal
+p102
+I1
+sVswallow
+p103
+I1
+sVthink
+p104
+I3
+sVblind
+p105
+I1
+sVdont
+p106
+I3
+sVxl
+p107
+I1
+sVbattery
+p108
+I1
+sVson
+p109
+I1
+sVput
+p110
+I2
+sVright
+p111
+I1
+sVdone
+p112
+I3
+sVslingers
+p113
+I1
+sVcomin
+p114
+I1
+sVtony
+p115
+I2
+sVring
+p116
+I1
+sVcrip
+p117
+I1
+sVhood
+p118
+I1
+sVwan
+p119
+I1
+sVeye
+p120
+I1
+sVdeal
+p121
+I1
+sVgoin
+p122
+I3
+sVduracell
+p123
+I1
+sVtwo
+p124
+I1
+sVcent
+p125
+I3
+sVcoupe
+p126
+I1
+sVstrip
+p127
+I1
+sVlive
+p128
+I1
+sVmuch
+p129
+I1
+sVicey
+p130
+I1
+sVthru
+p131
+I1
+sVflat
+p132
+I1
+sVhead
+p133
+I1
+sVglock
+p134
+I1
+sVthat
+p135
+I4
+sVstarted
+p136
+I2
+sVdirect
+p137
+I1
+sVbrrat
+p138
+I1
+sVphone
+p139
+I1
+sVhear
+p140
+I1
+sValbums
+p141
+I1
+sVbill
+p142
+I1
+sVyayo
+p143
+I1
+sVshoot
+p144
+I1
+sV12
+p145
+I1
+sVword
+p146
+I1
+sVlook
+p147
+I1
+sVtryin
+p148
+I1
+sVniggas
+p149
+I3
+sVwork
+p150
+I2
+sVharder
+p151
+I1
+sVup
+p152
+I1
+sVroof
+p153
+I1
+sVstops
+p154
+I2
+sVlisteners
+p155
+I1
+sVminimum
+p156
+I1
+sVnine
+p157
+I1
+sVthree
+p158
+I1
+sVcharger
+p159
+I1
+sVfun
+p160
+I2
+sVdaddy
+p161
+I2
+sVrent
+p162
+I1
+sVcmon
+p163
+I1
+sVclip
+p164
+I1
+sVgive
+p165
+I1
+sVhalf
+p166
+I1
+sVit
+p167
+I1
+sVhigh
+p168
+I1
+sVshell
+p169
+I1
+sVim
+p170
+I6
+sVat
+p171
+I1
+sVrap
+p172
+I3
+sVseen
+p173
+I1
+sVkeep
+p174
+I1
+sVshit
+p175
+I9
+sVfunny
+p176
+I1
+sVthugs
+p177
+I1
+sVmil
+p178
+I1
+sVnike
+p179
+I1
+sVseats
+p180
+I1
+sVna
+p181
+I2
+sVmix
+p182
+I2
+sVtake
+p183
+I2
+sVinch
+p184
+I1
+sVhangin
+p185
+I1
+sVsingers
+p186
+I1
+sVfendi
+p187
+I1
+sVmacs
+p188
+I1
+sVlookin
+p189
+I1
+sVadvice
+p190
+I1
+sVspot
+p191
+I1
+sVdiploma
+p192
+I1
+sVstay
+p193
+I4
+sVgon
+p194
+I1
+sVblood
+p195
+I1
+sVpleasure
+p196
+I1
+sVgrille
+p197
+I1
+sVclass
+p198
+I1
+sVman
+p199
+I3
+sVguerilla
+p200
+I1
+sVlight
+p201
+I1
+sVsometimes
+p202
+I1
+sVlife
+p203
+I1
+sVsale
+p204
+I1
+sVlooked
+p205
+I1
+sVpay
+p206
+I1
+sVpush
+p207
+I1
+sVserious
+p208
+I1
+s.

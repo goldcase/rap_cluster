@@ -1,104 +1,744 @@
-"chin check" lyrics
-n.w.a. lyrics
-"chin check"
-(feat. dr. dre, ice cube, mc ren, snoop dogg)
-911, forty reporting
-hello 911, help me, help me
-what is your emergency
-there's someone in my house, there's someone in my house
-can you please run by your address for me
-151 shenedoah, shenendoah
-ma'am where inside the house are you
-(oh my god)
-ma'am where inside the house are you
-in my room, their in my room
-ma'am calm down, deputies are on the way
-is the door locked
-(shriek)
-ma'am?
-n n, dup dup, dup double u, a a, a a
-(n n, dup dup, dup double u, a a, a a) what the fuck's up dre
-you tell me, you talk to ren
-im right here nigga
-(n n, dup dup, dup double u, a a, a a) release the hound
-bow wow wow
-wha wha wha what what what, what
-i'm a nigga wit an attitude thanks to y'all
-and i don't give a fuck i keep it gangsta y'all
-i'ma ride for my side in the c.p.t.
-god bless the memory of eazy-e
-if it wadn't for me where the fuck you'd be?
-rappin like the treacherous three, fuckin cowards
-i'd have seen dre rockin parties for hours
-and i'd have seen ren fuckin bitches from howard
-and i'd have seen snoop give away eddie bauer's
-so fuck jerry heller and the white superpowers
-this the shit niggaz kill for
-they hear the villain niggaz spittin' with them nigga flows
-fuck you hoes, fuck you bitch ass niggaz too
-got something for you broke
-these niggaz wearin' skirts like the pope
-who them niggaz that you love to get (us)
-who them niggaz that you fuckin' wit' (us)
-love the girl that weed and shit (what)
-the saga continues, with the worlds most dangerous group
-four deep in the coup
-(im a spill it)
-i'ma smoke where i wanna smoke (fuck that)
-i'ma choke who i wanna choke (fuck that)
-i'ma ride where i wanna ride (fuck that)
-cause i'ma nigga 4 life, so i'ma nigga til i diz-ie
-(n n, dup dup, dup double u, a a, a a)
-i'ma smoke where i wanna smoke (fuck that)
-i'ma choke who i wanna choke (fuck that)
-(n n, dup dup, dup double u, a a, a a)
-i'ma ride where i wanna ride (fuck that)
-cause i'ma nigga 4 life, so i'ma motherfuckin nigga til i diz-ie
-a pencil, a pen, or a glock
-im the original, subliminal, subterranium
-titianium, criminal minded, swift
-d-r-e with that fuck a bitch shit (fuck a biatch)
-a couple o' notes and get you hog-tied in rope
-dope like tons of coke, cutthroat
-you don't want the pistols to whistle
-candy paint impala
-i make hoes pop collars
-god damn hoes, here we go again
-fuckin with ren, playin' to win
-(he got the) coke in hand, (i got the) juice and gin
-same shit you was fuckin wit way back then
-we keep it crackin' from the actin to the jackin
-g'ed up c'ed up motherfucker blaze the weed up
-we all on deck fool so put your heat up
-i stay on deck so me don't get wet
-look my nigga, we can scatter like buckshots
-let's get together, make a record, why the fuck not?
-why the fuck not?
-why the fuck not?
-why the fuck not?
-cause i'm tight as the night
-i had to wipe activator off the mic, in 1985
-(n n, dup dup, dup double u, a a, a a)
-real niggaz, biatch, you know, ha hah
-we cause tragedy, erratically
-systematically, in your house without a key
-how fucked up that'd be
-gat'll be near your anatomy, my form of flattery
-assault and battery, cus we coming with that street mentality
-straight west coast rider academy
-concrete nigga, that's my reality
-we tend to bus' on niggaz that get mad at me
-was it a bitch in the mix
-well it had to be
-lying tricks told them dicks i had a key
-hoes make the world harder than it have to be
-(yea thats right)
-i'ma smoke where i wanna smoke (fuck that)
-i'ma choke who i wanna choke (fuck that)
-i'ma ride where i wanna ride (fuck that)
-cause i'ma nigga 4 life, so i'ma nigga til i diz-ie
-i'ma smoke where i wanna smoke (fuck that)
-i'ma choke who i wanna choke (fuck that)
-i'ma ride where i wanna ride (fuck that)
-cause i'ma nigga 4 life, so i'ma motherfuckin nigga til i diz-ie
-n n, dup dup, dup double u, a a, a a
+(dp1
+Vcoup
+p2
+I1
+sVdizie
+p3
+I4
+sVhelp
+p4
+I2
+sVlyrics
+p5
+I2
+sVdeck
+p6
+I2
+sVsaga
+p7
+I1
+sVged
+p8
+I1
+sVforty
+p9
+I1
+sVfour
+p10
+I1
+sVattitude
+p11
+I1
+sVkill
+p12
+I1
+sVnwa
+p13
+I1
+sVworld
+p14
+I1
+sVgo
+p15
+I1
+sVreality
+p16
+I1
+sVfeat
+p17
+I1
+sVima
+p18
+I21
+sVsubliminal
+p19
+I1
+sVheller
+p20
+I1
+sVflattery
+p21
+I1
+sVgroup
+p22
+I1
+sVpope
+p23
+I1
+sVmix
+p24
+I1
+sVyea
+p25
+I1
+sVlets
+p26
+I1
+sVactin
+p27
+I1
+sV4
+I4
+sVwet
+p28
+I1
+sVgangsta
+p29
+I1
+sVcriminal
+p30
+I1
+sVride
+p31
+I9
+sVsubterranium
+p32
+I1
+sVfool
+p33
+I1
+sVthen
+p34
+I1
+sVsomeone
+p35
+I2
+sVemergency
+p36
+I1
+sVget
+p37
+I5
+sVcouple
+p38
+I1
+sVcontinues
+p39
+I1
+sVcoast
+p40
+I1
+sVmaam
+p41
+I4
+sVwhistle
+p42
+I1
+sVspittin
+p43
+I1
+sVminded
+p44
+I1
+sVgot
+p45
+I3
+sVnot
+p46
+I4
+sVlocked
+p47
+I1
+sVdr
+p48
+I1
+sVwipe
+p49
+I1
+sVlook
+p50
+I1
+sVworlds
+p51
+I1
+sVlike
+p52
+I4
+sVwearin
+p53
+I1
+sVcause
+p54
+I6
+sVnotes
+p55
+I1
+sVcandy
+p56
+I1
+sVrider
+p57
+I1
+sVbless
+p58
+I1
+sVsystematically
+p59
+I1
+sVwit
+p60
+I3
+sVgatll
+p61
+I1
+sVdangerous
+p62
+I1
+sVrelease
+p63
+I1
+sVshenendoah
+p64
+I1
+sVside
+p65
+I1
+sVyall
+p66
+I2
+sVthanks
+p67
+I1
+sVright
+p68
+I2
+sVhouse
+p69
+I5
+sVtreacherous
+p70
+I1
+sVback
+p71
+I1
+sVeddie
+p72
+I1
+sVstreet
+p73
+I1
+sVus
+p74
+I2
+sVhoes
+p75
+I4
+sVplayin
+p76
+I1
+sVgirl
+p77
+I1
+sVwhat
+p78
+I2
+sVfor
+p79
+I1
+sVgod
+p80
+I3
+sVwow
+p81
+I2
+sVplease
+p82
+I1
+sVfucks
+p83
+I1
+sVice
+p84
+I1
+sVtend
+p85
+I1
+sVpen
+p86
+I1
+sVwadnt
+p87
+I1
+sVren
+p88
+I4
+sVdeputies
+p89
+I1
+sVeazye
+p90
+I1
+sV911
+p91
+I2
+sVtold
+p92
+I1
+sVass
+p93
+I1
+sVbe
+p94
+I4
+sVhogtied
+p95
+I1
+sVrun
+p96
+I1
+sVnight
+p97
+I1
+sVmotherfucker
+p98
+I1
+sVmic
+p99
+I1
+sVhours
+p100
+I1
+sVkey
+p101
+I2
+sVaddress
+p102
+I1
+sVput
+p103
+I1
+sVcus
+p104
+I1
+sVhand
+p105
+I1
+sVshriek
+p106
+I1
+sVtragedy
+p107
+I1
+sVcollars
+p108
+I1
+sVjackin
+p109
+I1
+sVoh
+p110
+I1
+sVthatd
+p111
+I1
+sVchoke
+p112
+I8
+sVo
+I1
+sVbow
+p113
+I1
+sVsmoke
+p114
+I8
+sVtogether
+p115
+I1
+sVdre
+p116
+I4
+sVblaze
+p117
+I1
+sVfuckin
+p118
+I5
+sVthats
+p119
+I2
+sVpistols
+p120
+I1
+sVlove
+p121
+I2
+sVdont
+p122
+I3
+sVbattery
+p123
+I1
+sVwin
+p124
+I1
+sVyoud
+p125
+I1
+sVpop
+p126
+I1
+sVtitianium
+p127
+I1
+sVtons
+p128
+I1
+sVnigga
+p129
+I13
+sVbitch
+p130
+I3
+sVparties
+p131
+I1
+sVstraight
+p132
+I1
+sVwan
+p133
+I12
+sV1985
+p134
+I1
+sVsnoop
+p135
+I2
+sVhoward
+p136
+I1
+sVsuperpowers
+p137
+I1
+sVdogg
+p138
+I1
+sVthree
+p139
+I1
+sVcowards
+p140
+I1
+sVpaint
+p141
+I1
+sVdamn
+p142
+I1
+sVcalm
+p143
+I1
+sVway
+p144
+I2
+sVmemory
+p145
+I1
+sVdup
+p146
+I21
+sVgin
+p147
+I1
+sVwhite
+p148
+I1
+sVtell
+p149
+I1
+sVtoo
+p150
+I1
+sVpencil
+p151
+I1
+sVlife
+p152
+I4
+sVglock
+p153
+I1
+sVdoor
+p154
+I1
+sVform
+p155
+I1
+sVthat
+p156
+I12
+sVacademy
+p157
+I1
+sVcoke
+p158
+I2
+sVbitches
+p159
+I1
+sVmentality
+p160
+I1
+sVit
+p161
+I1
+sVrockin
+p162
+I1
+sVheat
+p163
+I1
+sVhear
+p164
+I1
+sVbroke
+p165
+I1
+sVbiatch
+p166
+I2
+sVha
+p167
+I1
+sVme
+p168
+I3
+sVdicks
+p169
+I1
+sVrappin
+p170
+I1
+sVroom
+p171
+I2
+sVmc
+p172
+I1
+sVdouble
+p173
+I7
+sVinside
+p174
+I2
+sVspill
+p175
+I1
+sVharder
+p176
+I1
+sVup
+p177
+I2
+sVniggaz
+p178
+I8
+sVn
+I14
+sVrope
+p179
+I1
+sVrecord
+p180
+I1
+sVced
+p181
+I1
+sVim
+p182
+I5
+sVerratically
+p183
+I1
+sVimpala
+p184
+I1
+sVscatter
+p185
+I1
+sVskirts
+p186
+I1
+sVtheres
+p187
+I2
+sV151
+p188
+I1
+sVreal
+p189
+I1
+sVgive
+p190
+I2
+sVfuck
+p191
+I23
+sVdeep
+p192
+I1
+sVjuice
+p193
+I1
+sVvillain
+p194
+I1
+sVcube
+p195
+I1
+sVchin
+p196
+I2
+sVsomething
+p197
+I1
+sVwant
+p198
+I1
+sVseen
+p199
+I3
+sVhound
+p200
+I1
+sVcheck
+p201
+I2
+sVshit
+p202
+I4
+sVagain
+p203
+I1
+sVknow
+p204
+I1
+sVna
+p205
+I12
+sVmake
+p206
+I3
+sVshenedoah
+p207
+I1
+sVjerry
+p208
+I1
+sVid
+p209
+I3
+sVtil
+p210
+I4
+sVtight
+p211
+I1
+sVswift
+p212
+I1
+sVmotherfuckin
+p213
+I2
+sVcutthroat
+p214
+I1
+sVactivator
+p215
+I1
+sVyou
+p216
+I2
+sVdope
+p217
+I1
+sVbauers
+p218
+I1
+sVwha
+p219
+I3
+sVreporting
+p220
+I1
+sVflows
+p221
+I1
+sVweed
+p222
+I2
+sVanatomy
+p223
+I1
+sVassault
+p224
+I1
+sVmad
+p225
+I1
+sVaway
+p226
+I1
+sVcoming
+p227
+I1
+sVfucked
+p228
+I1
+sVwest
+p229
+I1
+sVkeep
+p230
+I2
+sVa
+I4
+sVnear
+p231
+I1
+sVtricks
+p232
+I1
+sVwell
+p233
+I1
+sVstay
+p234
+I1
+sVoriginal
+p235
+I1
+sVconcrete
+p236
+I1
+sVwithout
+p237
+I1
+sVu
+I7
+sVlying
+p238
+I1
+sVbus
+p239
+I1
+sVhah
+p240
+I1
+sVcrackin
+p241
+I1
+sVcpt
+p242
+I1
+sVhello
+p243
+I1
+sVtalk
+p244
+I1
+sVbuckshots
+p245
+I1
+s.

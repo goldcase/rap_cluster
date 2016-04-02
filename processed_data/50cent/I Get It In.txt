@@ -1,63 +1,415 @@
-"i get it in" lyrics
-50 cent lyrics
-"i get it in"
-yeah, na na na na
-yeah, na na na na
-now me i'm the life of the party
-a little bit of juice, little bit of the gin
-a little bit of mo' play, bottles of the rose
-feel a little buzz, then i'm getting it in
-now me i get it in, i get it in
-me i get it in, i get it in
-now me i get it in, i get it in
-me i get it in, i get it in
-look as soon as i step in the club
-i swear my nigga, you can feel the attention shift
-started around twelve ended up around two
-i better leave with more hoes than i came here with
-i can't be responsible for what i say or i do
-when i talk intoxicated
-shorty say i told her i love her
-i put her out the next morning saying bitch i must have been faded
-i don't know what you heard about me but the word about me
-that i'm no trick, i'm no sucker, i'm no chump
-i be in the vip, with my niggaz round me
-saying y'all can have whatever you want
-me i get it in
-sunday, monday, tuesday, wednesday, thursday, friday, saturday
-that's sunday, monday, tuesday, wednesday, thursday, friday we get it in
-i need a drink, give me a drink
-i need a drink, shorty give me a drink
-i need a drink, give me a drink
-i need a drink, shorty give me a drink
-i hate to say i told you so, but i told you so
-i go hard when it's time to play
-shorty get to dropping it low, like the dancers do
-in the go-go in front of me
-she know i like to see her dance, she get to breaking it down
-we get the bouncing outta control
-because i got a hell of a flow, we got paper to blow
-my whole clique pop bottles galore
-it's no secret the hood done peeped it
-when we come through son, we look like bread
-my '89 grind ,make my old nine shine
-like we been moving bricks round this bitch for years
-i say i get it in it's because i get it in
-now shorty there a eight but her friend near a ten
-i feeling a spend my g, she fuck with me i'm into win
-i'm cooler than her ma then we do this shit again
-me i get it in
-sunday, monday, tuesday, wednesday, thursday, friday, saturday
-that's sunday, monday, tuesday, wednesday, thursday, friday we get it in
-i need a drink, give me a drink
-i need a drink, shorty give me a drink
-i need a drink, give me a drink
-i need a drink, shorty give me a drink
-na na na na, now me i'm the life of the party
-a little bit of juice, little bit of the gin
-a little bit of mo' play, bottles of the rose
-feel a little buzz, then i'm getting it in
-now me i get it in, i get it in
-me i get it in, i get it in
-now me i get it in, i get it in
-me i get it in, i get it in
+(dp1
+Vsaying
+p2
+I2
+sVbreaking
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVdancers
+p6
+I1
+sVsoon
+p7
+I1
+sVyears
+p8
+I1
+sVended
+p9
+I1
+sVpaper
+p10
+I1
+sVgo
+p11
+I1
+sVhell
+p12
+I1
+sVhate
+p13
+I1
+sVblow
+p14
+I1
+sVrose
+p15
+I2
+sVthursday
+p16
+I4
+sVbetter
+p17
+I1
+sVbricks
+p18
+I1
+sVpeeped
+p19
+I1
+sVdo
+p20
+I2
+sVaround
+p21
+I2
+sVget
+p22
+I27
+sVsucker
+p23
+I1
+sVgogo
+p24
+I1
+sVknow
+p25
+I2
+sVfront
+p26
+I1
+sVma
+p27
+I1
+sVbit
+p28
+I6
+sVbread
+p29
+I1
+sVlike
+p30
+I4
+sVcooler
+p31
+I1
+sVwednesday
+p32
+I4
+sVmorning
+p33
+I1
+sVleave
+p34
+I1
+sVround
+p35
+I2
+sVyall
+p36
+I1
+sVtwelve
+p37
+I1
+sVnigga
+p38
+I1
+sVold
+p39
+I1
+sVten
+p40
+I1
+sVhard
+p41
+I1
+sVyeah
+p42
+I2
+sV50
+p43
+I1
+sVsee
+p44
+I1
+sV89
+p45
+I1
+sVhoes
+p46
+I1
+sVsaturday
+p47
+I2
+sVgot
+p48
+I2
+sVtold
+p49
+I3
+sVfriday
+p50
+I4
+sVattention
+p51
+I1
+sVstep
+p52
+I1
+sVclique
+p53
+I1
+sVput
+p54
+I1
+sVcome
+p55
+I1
+sVshine
+p56
+I1
+sVg
+I1
+sVgetting
+p57
+I2
+sVshift
+p58
+I1
+sVgalore
+p59
+I1
+sVintoxicated
+p60
+I1
+sVswear
+p61
+I1
+sVbuzz
+p62
+I2
+sVeight
+p63
+I1
+sVwhole
+p64
+I1
+sVthats
+p65
+I2
+sVlove
+p66
+I1
+sVdont
+p67
+I1
+sVfeel
+p68
+I3
+sVwin
+p69
+I1
+sVtuesday
+p70
+I4
+sVwhatever
+p71
+I1
+sVson
+p72
+I1
+sVdown
+p73
+I1
+sVvip
+p74
+I1
+sVdone
+p75
+I1
+sVbitch
+p76
+I2
+sVhood
+p77
+I1
+sVlittle
+p78
+I8
+sVher
+p79
+I1
+sVtwo
+p80
+I1
+sVcent
+p81
+I1
+sVnext
+p82
+I1
+sVsecret
+p83
+I1
+sVdropping
+p84
+I1
+sVlow
+p85
+I1
+sVgin
+p86
+I2
+sVfriend
+p87
+I1
+sVlife
+p88
+I2
+sVstarted
+p89
+I1
+sVbouncing
+p90
+I1
+sVshorty
+p91
+I7
+sVfuck
+p92
+I1
+sVwith
+p93
+I1
+sVmust
+p94
+I1
+sVme
+p95
+I3
+sVword
+p96
+I1
+sVlook
+p97
+I2
+sVheard
+p98
+I1
+sVmo
+p99
+I2
+sVsay
+p100
+I4
+sVniggaz
+p101
+I1
+sVtrick
+p102
+I1
+sVnear
+p103
+I1
+sVnine
+p104
+I1
+sVfaded
+p105
+I1
+sVfeeling
+p106
+I1
+sVcontrol
+p107
+I1
+sVoutta
+p108
+I1
+sVgive
+p109
+I8
+sVit
+p110
+I1
+sVjuice
+p111
+I2
+sVcant
+p112
+I1
+sVim
+p113
+I9
+sVwant
+p114
+I1
+sVin
+p115
+I16
+sVneed
+p116
+I8
+sVshit
+p117
+I1
+sVagain
+p118
+I1
+sVbottles
+p119
+I3
+sVna
+p120
+I12
+sVmake
+p121
+I1
+sVresponsible
+p122
+I1
+sVclub
+p123
+I1
+sVsunday
+p124
+I4
+sVpop
+p125
+I1
+sVparty
+p126
+I2
+sVplay
+p127
+I3
+sVmonday
+p128
+I4
+sVdrink
+p129
+I16
+sVmoving
+p130
+I1
+sVchump
+p131
+I1
+sVflow
+p132
+I1
+sVgrind
+p133
+I1
+sVso
+p134
+I1
+sVcame
+p135
+I1
+sVtime
+p136
+I1
+sVspend
+p137
+I1
+sVtalk
+p138
+I1
+s.

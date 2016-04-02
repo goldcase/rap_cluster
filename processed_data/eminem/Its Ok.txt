@@ -1,82 +1,706 @@
-"it's ok" lyrics
-eminem lyrics
-"it's ok"
-(feat. eye-kyu)
-check it out,
-hey kyu!
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-one day i plan to be a family man happily married
-i wanna grow to be so old that i have to be carried
-till i'm glad to be buried
-and leave this crazy world
-and have at least a half a million for my baby girl
-it may be early to be planning this stuff
-cause i'm still struggling hard to be the man, and it's tough
-cause man it's been rough, but still i manage enough
-i've been taken advantage of, damaged and scuffed
-my hands have been cuffed
-but i don't panic and huff, frantic and puff
-or plan to give up, the minute shit hits the fan it erupts
-i'm anteing up double or nothing, i've been trouble enough
-and i'm sick of struggling and suffering, see
-my destiny's to rest at ease, till i'm impressed and pleased
-with my progress, i won't settle for less than cheese
-i'm on a quest to seize all, my own label to call
-way before my baby is able to crawl
-i'm too stable to fall, the pressure motivates
-to know i hold the weight of boulders on my shoulder blades
-i seen the golden gates to heaven on earth
-where they don't pull a weapon on you when you stepping on turf, q
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-i'm going for broke, gambling and playing for keeps
-everyday in the streets, scrambling and paying for cheep
-praying for sleep
-dreaming with a watering mouth
-wishing for a better life for my daughter and spouse
-in this slaughtering house, caught up in bouts
-with the root of all evil
-i've seen it turn beautiful people crude and deceitful
-and make them do shit illegal
-for these grant's and jackson's
-these transactions explain a man's actions
-but in the mist of this insanity, i found my christianity
-through god and there's a wish he granted me
-he showed me how to cope with the stress
-and hope for the best, instead of mope and depressed
-always groping a mess, of flying over the nest
-to selling dope with the rest
-i quit smoking cess to open my chest
-life is stressful inside this cesspool
-trying to wrestle, i almost bust a blood vessel
-my little brother's trying to learn his mathematics
-he's asthmatic, running home from school away from crack addicts
-kids attract static, children with automatics
-taking target practice on teens for starter jackets
-i'm using smarter tactics to overcome this slum
-i won't become as dumb as some and succumb to scum
-it's cumbersome, i'm trying to do well on this earth
-but it's been hell on this earth since i fell on this earth
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-it's a broke day but everything is ok (it's ok)
-i'm up all night, but everything is alright (it's alright)
-it's a rough week, and i don't get enough sleep (i can't sleep)
-it's a long year pretending i belong here (belong here)
-uh, it's ok, yeah it's alright, even though i can't sleep
-uh yeah, it's ok, it's alright, i can't sleep
+(dp1
+Vgates
+p2
+I1
+sVwrestle
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVhalf
+p6
+I1
+sVwishing
+p7
+I1
+sVrest
+p8
+I2
+sVplanning
+p9
+I1
+sVsleep
+p10
+I15
+sVstepping
+p11
+I1
+sVsmoking
+p12
+I1
+sVhell
+p13
+I1
+sVearth
+p14
+I4
+sVrough
+p15
+I7
+sVstill
+p16
+I2
+sVfeat
+p17
+I1
+sVdestinys
+p18
+I1
+sVtrying
+p19
+I3
+sVdeceitful
+p20
+I1
+sVease
+p21
+I1
+sVgolden
+p22
+I1
+sVcess
+p23
+I1
+sVbust
+p24
+I1
+sVbetter
+p25
+I1
+sVgoing
+p26
+I1
+sVstarter
+p27
+I1
+sVstable
+p28
+I1
+sVhope
+p29
+I1
+sVshoulder
+p30
+I1
+sVgroping
+p31
+I1
+sVadvantage
+p32
+I1
+sVget
+p33
+I6
+sVsmarter
+p34
+I1
+sVdope
+p35
+I1
+sVpractice
+p36
+I1
+sVbouts
+p37
+I1
+sVmess
+p38
+I1
+sVearly
+p39
+I1
+sVme
+p40
+I1
+sVsuffering
+p41
+I1
+sVquest
+p42
+I1
+sVfan
+p43
+I1
+sVknow
+p44
+I1
+sVpretending
+p45
+I6
+sVhands
+p46
+I1
+sVworld
+p47
+I1
+sVtrouble
+p48
+I1
+sVday
+p49
+I7
+sVminute
+p50
+I1
+sVwont
+p51
+I2
+sVhuff
+p52
+I1
+sVschool
+p53
+I1
+sVheaven
+p54
+I1
+sVinstead
+p55
+I1
+sValways
+p56
+I1
+sVmarried
+p57
+I1
+sVleave
+p58
+I1
+sVstuff
+p59
+I1
+sVthough
+p60
+I1
+sVnight
+p61
+I6
+sVfound
+p62
+I1
+sVold
+p63
+I1
+sVweight
+p64
+I1
+sVpeople
+p65
+I1
+sVhouse
+p66
+I1
+sVhard
+p67
+I1
+sVyeah
+p68
+I2
+sVteens
+p69
+I1
+sVsee
+p70
+I1
+sVstatic
+p71
+I1
+sVyear
+p72
+I6
+sVhome
+p73
+I1
+sVgirl
+p74
+I1
+sVeyekyu
+p75
+I1
+sVbest
+p76
+I1
+sVeven
+p77
+I1
+sVpraying
+p78
+I1
+sVstressful
+p79
+I1
+sVslaughtering
+p80
+I1
+sVscuffed
+p81
+I1
+sVgod
+p82
+I1
+sVaway
+p83
+I1
+sVsince
+p84
+I1
+sVpleased
+p85
+I1
+sVeverything
+p86
+I12
+sVenough
+p87
+I8
+sVsettle
+p88
+I1
+sVasthmatic
+p89
+I1
+sVcrude
+p90
+I1
+sVprogress
+p91
+I1
+sVfall
+p92
+I1
+sVcause
+p93
+I2
+sVsuccumb
+p94
+I1
+sVuh
+p95
+I2
+sVwan
+p96
+I1
+sVmillion
+p97
+I1
+sVhere
+p98
+I6
+sVeminem
+p99
+I1
+sVpressure
+p100
+I1
+sVjacksons
+p101
+I1
+sVslum
+p102
+I1
+sVmope
+p103
+I1
+sVhits
+p104
+I1
+sVmans
+p105
+I1
+sVok
+p106
+I16
+sVcarried
+p107
+I1
+sVautomatics
+p108
+I1
+sVtaking
+p109
+I1
+sVlabel
+p110
+I1
+sVboulders
+p111
+I1
+sVturn
+p112
+I1
+sVpuff
+p113
+I1
+sVexplain
+p114
+I1
+sVblood
+p115
+I1
+sVcheese
+p116
+I1
+sVdumb
+p117
+I1
+sVflying
+p118
+I1
+sVtough
+p119
+I1
+sVdont
+p120
+I8
+sVfamily
+p121
+I1
+sVmanage
+p122
+I1
+sVone
+p123
+I1
+sVaddicts
+p124
+I1
+sVgrants
+p125
+I1
+sVlong
+p126
+I6
+sVjackets
+p127
+I1
+sVdreaming
+p128
+I1
+sVvessel
+p129
+I1
+sVactions
+p130
+I1
+sVmist
+p131
+I1
+sVopen
+p132
+I1
+sVimpressed
+p133
+I1
+sVlittle
+p134
+I1
+sVhes
+p135
+I1
+sVillegal
+p136
+I1
+sVcaught
+p137
+I1
+sVwatering
+p138
+I1
+sVhey
+p139
+I1
+sVleast
+p140
+I1
+sVchristianity
+p141
+I1
+sVmathematics
+p142
+I1
+sVcall
+p143
+I1
+sVway
+p144
+I1
+sVtaken
+p145
+I1
+sVlife
+p146
+I2
+sVstreets
+p147
+I1
+sVcope
+p148
+I1
+sVhappily
+p149
+I1
+sVcrack
+p150
+I1
+sVstress
+p151
+I1
+sVwish
+p152
+I1
+sVkids
+p153
+I1
+sVbroke
+p154
+I7
+sVbaby
+p155
+I2
+sVdaughter
+p156
+I1
+sVhold
+p157
+I1
+sVcrawl
+p158
+I1
+sVglad
+p159
+I1
+sVgranted
+p160
+I1
+sVpaying
+p161
+I1
+sVpull
+p162
+I1
+sVtactics
+p163
+I1
+sVtarget
+p164
+I1
+sVshowed
+p165
+I1
+sVdepressed
+p166
+I1
+sVdouble
+p167
+I1
+sVinside
+p168
+I1
+sVanteing
+p169
+I1
+sVovercome
+p170
+I1
+sVlearn
+p171
+I1
+sVscum
+p172
+I1
+sVim
+p173
+I16
+sVroot
+p174
+I1
+sVtheres
+p175
+I1
+sVbeautiful
+p176
+I1
+sVive
+p177
+I3
+sVcrazy
+p178
+I1
+sVgive
+p179
+I1
+sValmost
+p180
+I1
+sVwell
+p181
+I1
+sVerupts
+p182
+I1
+sVcant
+p183
+I8
+sVselling
+p184
+I1
+sVfrantic
+p185
+I1
+sVburied
+p186
+I1
+sVseen
+p187
+I2
+sVcumbersome
+p188
+I1
+sVattract
+p189
+I1
+sVcheck
+p190
+I1
+sVshit
+p191
+I2
+sVcheep
+p192
+I1
+sVdamaged
+p193
+I1
+sVna
+p194
+I1
+sVmake
+p195
+I1
+sVbelong
+p196
+I12
+sVable
+p197
+I1
+sVeveryday
+p198
+I1
+sVtill
+p199
+I2
+sVchest
+p200
+I1
+sVkyu
+p201
+I1
+sVsick
+p202
+I1
+sVgambling
+p203
+I1
+sVstruggling
+p204
+I2
+sVpanic
+p205
+I1
+sVcuffed
+p206
+I1
+sVblades
+p207
+I1
+sVweek
+p208
+I6
+sVbrothers
+p209
+I1
+sVtransactions
+p210
+I1
+sVmay
+p211
+I1
+sVnest
+p212
+I1
+sVbecome
+p213
+I1
+sVquit
+p214
+I1
+sVevil
+p215
+I1
+sVinsanity
+p216
+I1
+sVrunning
+p217
+I1
+sVfell
+p218
+I1
+sVmouth
+p219
+I1
+sVplan
+p220
+I2
+sVturf
+p221
+I1
+sVnothing
+p222
+I1
+sVspouse
+p223
+I1
+sVgrow
+p224
+I1
+sVman
+p225
+I3
+sVcesspool
+p226
+I1
+sVscrambling
+p227
+I1
+sVusing
+p228
+I1
+sVseize
+p229
+I1
+sVweapon
+p230
+I1
+sVchildren
+p231
+I1
+sVq
+I1
+sVmotivates
+p232
+I1
+sVkeeps
+p233
+I1
+sValright
+p234
+I14
+sVplaying
+p235
+I1
+s.

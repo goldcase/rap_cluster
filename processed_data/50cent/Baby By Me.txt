@@ -1,93 +1,425 @@
-"baby by me" lyrics
-50 cent lyrics
-"baby by me"
-(feat. ne-yo)
-have a baby
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-be a millionaire, be a,  be a millionaire
-have a baby
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-be a millionaire, be a,  be a millionaire
-i don't play no games (i don't play no games)
-so when i'm in that thang (when i'm in that thang)
-come see what i mean (see what i mean)
-see what i mean, owww (see what i mean)
-said lil' mama put me on (baby put me on)
-bet i'll have you gone (bet i'll have you gone)
-come see what i mean (see what i mean)
-see what i mean (see what i mean)
-come see waht i mean, come come come
-first it's her neck, yeah then her back
-yeah i'm a freak, i get into all that
-girl i perform for ya, like a porno star
-till ya had enough then i just need a little bit more
-new music new move new position
-new erotic sounds is goin down now listen
-i can hear your heartbeat, you're sweatin i can paint a perfect picture
-i get deeper and deeper,  i told ya i'll get ya
-i work that murk that just the way ya like it baby
-turn a quickie into an all nighter maybe
-your sex drive it match my sex drive
-then we be movin as fast as a nascar ride
-switch gears slow down, go down whoa now
-you can feel every inch of it when we intimate
-i'll use my tongue baby, i'll leave you sprung baby
-i'll have ya head spinnin sayin 50 so crazy
-i don't play no games (i don't play no games)
-so when i'm in that thang (when i'm in that thang)
-come see what i mean (see what i mean)
-see what i mean, owww (see what i mean)
-said lil' mama put me on (baby put me on)
-bet i'll have you gone (bet i'll have you gone)
-come see what i mean (see what i mean)
-see what i mean (see what i mean)
-come see what i mean, come see what i mean
-have a baby by me, baby! be a millionaire (ohhhh)
-have a baby by me, baby! be a millionaire (come see what i mean)
-have a baby by me, baby! be a millionaire (owww)
-be a millionaire, be a,  be a millionaire (lil mama come see what i mean)
-have a baby by me, baby! be a millionaire (ohhhh)
-have a baby by me, baby! be a millionaire (come see what i mean)
-have a baby by me, baby! be a millionaire (owww)
-be a millionaire, be a,  be a millionaire
-girl i want you to give me what you got and give me more
-girl you can start on top or on fours
-you know i like it, when you get into it
-don't nobody do it, uh, like i do it
-feel the rush, from my touch, get intoxicated
-drunk off my love, call the hennesey thug
-passion, ya laughin, i can make you smile on the regular
-tell me what you want, shorty, that's what i'ma get ya
-yeah, i need you to be what i need, more than liquor or weed
-i need you to maybe give me a seed
-i need you to give me reason to breathe
-i need you, i'm tellin this so you know what i need
-i'd be a part-time or full-time lovers, a meant-to-be lover
-don't matter which way it go, i'm oh so gutta
-girl you could get it however you wan' get it
-i'm feelin you, still feelin you right now, get it
-i don't play no games (i don't play no games)
-so when i'm in that thang (when i'm in that thang)
-come see what i mean (see what i mean)
-see what i mean, owww (see what i mean)
-said lil' mama put me on (baby put me on)
-bet i'll have you gone (bet i'll have you gone)
-come see what i mean (see what i mean)
-see what i mean (see what i mean)
-come see what i mean, come see what i mean
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-be a millionaire, be a,  be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-be a millionaire, be a,  be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-have a baby by me, baby! be a millionaire
-be a millionaire, be a,  be a millionaire
+(dp1
+Vsweatin
+p2
+I1
+sVlyrics
+p3
+I2
+sVmove
+p4
+I1
+sVgo
+p5
+I2
+sVstill
+p6
+I1
+sVwaht
+p7
+I1
+sVperfect
+p8
+I1
+sVporno
+p9
+I1
+sVsayin
+p10
+I1
+sVthang
+p11
+I6
+sVsmile
+p12
+I1
+sVmatch
+p13
+I1
+sVget
+p14
+I9
+sVya
+p15
+I8
+sVfeelin
+p16
+I2
+sVevery
+p17
+I1
+sVknow
+p18
+I2
+sVgot
+p19
+I1
+sVbit
+p20
+I1
+sVlike
+p21
+I4
+sV50
+p22
+I2
+sVleave
+p23
+I1
+sVgears
+p24
+I1
+sVquickie
+p25
+I1
+sVmean
+p26
+I32
+sVmurk
+p27
+I1
+sVmeanttobe
+p28
+I1
+sVliquor
+p29
+I1
+sVyeah
+p30
+I3
+sVsex
+p31
+I2
+sVtouch
+p32
+I1
+sVsee
+p33
+I32
+sVgirl
+p34
+I4
+sVmovin
+p35
+I1
+sVsaid
+p36
+I3
+sVfeat
+p37
+I1
+sVenough
+p38
+I1
+sVpassion
+p39
+I1
+sVnew
+p40
+I4
+sVtold
+p41
+I1
+sVima
+p42
+I1
+sVintimate
+p43
+I1
+sVlover
+p44
+I1
+sVuse
+p45
+I1
+sVsprung
+p46
+I1
+sVreason
+p47
+I1
+sVslow
+p48
+I1
+sVput
+p49
+I6
+sVlaughin
+p50
+I1
+sVcome
+p51
+I17
+sVon
+p52
+I3
+sVoh
+p53
+I1
+sVill
+p54
+I10
+sVmillionaire
+p55
+I35
+sVturn
+p56
+I1
+sVgames
+p57
+I6
+sVhennesey
+p58
+I1
+sVheartbeat
+p59
+I1
+sVtongue
+p60
+I1
+sVfirst
+p61
+I1
+sVlove
+p62
+I1
+sVdont
+p63
+I8
+sVdrunk
+p64
+I1
+sVfeel
+p65
+I2
+sVright
+p66
+I1
+sVcent
+p67
+I1
+sVsounds
+p68
+I1
+sVwan
+p69
+I1
+sVlittle
+p70
+I1
+sVstart
+p71
+I1
+sVtop
+p72
+I1
+sVfast
+p73
+I1
+sVpaint
+p74
+I1
+sVhowever
+p75
+I1
+sVmusic
+p76
+I1
+sVway
+p77
+I2
+sVmama
+p78
+I4
+sVcall
+p79
+I1
+sVwhoa
+p80
+I1
+sVlisten
+p81
+I1
+sVbreathe
+p82
+I1
+sVhead
+p83
+I1
+sVdeeper
+p84
+I2
+sVfours
+p85
+I1
+sVnobody
+p86
+I1
+sVshorty
+p87
+I1
+sVback
+p88
+I1
+sVspinnin
+p89
+I1
+sVhear
+p90
+I1
+sVbaby
+p91
+I52
+sVme
+p92
+I1
+sVrush
+p93
+I1
+sVride
+p94
+I1
+sVwork
+p95
+I1
+sVerotic
+p96
+I1
+sVtellin
+p97
+I1
+sVtell
+p98
+I1
+sVmatter
+p99
+I1
+sVuh
+p100
+I1
+sVneyo
+p101
+I1
+sVmore
+p102
+I1
+sVcould
+p103
+I1
+sVbet
+p104
+I6
+sVgone
+p105
+I6
+sVcrazy
+p106
+I1
+sVfreak
+p107
+I1
+sVgive
+p108
+I4
+sVit
+p109
+I3
+sVnascar
+p110
+I1
+sVthug
+p111
+I1
+sVseed
+p112
+I1
+sVim
+p113
+I10
+sVwant
+p114
+I2
+sVneed
+p115
+I7
+sVohhhh
+p116
+I2
+sVid
+p117
+I1
+sVintoxicated
+p118
+I1
+sVlil
+p119
+I4
+sVmake
+p120
+I1
+sVnighter
+p121
+I1
+sVtill
+p122
+I1
+sVlovers
+p123
+I1
+sVinch
+p124
+I1
+sVfulltime
+p125
+I1
+sVpicture
+p126
+I1
+sVplay
+p127
+I6
+sVstar
+p128
+I1
+sVweed
+p129
+I1
+sVregular
+p130
+I1
+sVgoin
+p131
+I1
+sVparttime
+p132
+I1
+sVneck
+p133
+I1
+sVmaybe
+p134
+I2
+sVyoure
+p135
+I1
+sVdrive
+p136
+I2
+sVgutta
+p137
+I1
+sVperform
+p138
+I1
+sVswitch
+p139
+I1
+sVowww
+p140
+I5
+sVposition
+p141
+I1
+sVthats
+p142
+I1
+s.

@@ -1,75 +1,592 @@
-"new day" lyrics
-50 cent lyrics
-"new day"
-(feat. dr. dre & alicia keys)
-it don't take much strength to pull a trigger
-but try and get up every morning day after day and work for a living
-let's see 'em try that
-then we'll see who's the real tough guy
-the working man is the tough guy
-party people say, party people say, "ay,
-it's a new day, it's a new day"
-the world is gettin' ready, everybody ready, yeah!
-for a new day, for a new day,
-celebrate and say ay ay ay...
-i woke up this morning thinking 'bout the old me
-when i was feeling like, miller lite and oe
-but now i ride on some conscious shit
-i'm getting bread while i toast to my accomplishments
-only one i can have a problem with is myself
-it's probably why my only competition is myself
-from today to tomorrow
-the doctor just rock to the same drum
-fuck the past, though i ain't forgot where i came from
-i got the club rockin', uh
-i got your girl jockin, uh
-me and fif' still in this biz, bitch
-we going the distance with you party people, come on
-party people say, party people say, "ay,
-it's a new day, it's a new day"
-the world is gettin' ready, everybody ready, yeah!
-for a new day, for a new day,
-celebrate and say ay ay ay...
-now you can get your knees on the church floor, pray it get better
-or push the door on the liquor store, see where it gets ya
-but me i got to be on top
-i said me i get to be on top
-i got the street on lock
-i'm on automatic pilot, ain't nobody stopping me
-growing up in poverty ain't filled my heart with larceny
-niggas ride, i don't hide, i dump to get 'em off of me
-i'm a leader, good to see the natural born boss of me
-they from bel air, i'm from the bottom
-soon as i spot 'em i get to drop 'em
-i got 'em i cut my piece and i dot 'em
-it's dinner time when the 9 come out
-it's off the chain off, off the brain move
-bang, off with ya brain
-party people say, party people say, "ay,
-it's a new day, it's a new day"
-the world is gettin' ready, everybody ready, yeah!
-for a new day, for a new day,
-celebrate and say ay ay ay...
-clocks on the wall
-it's now or never at all
-i'm gonna give it my all, oh
-whether i rise or fall, oh
-true story, i said i'd get rich or die trying
-i did it, good luck sucker, trying to stop my shine
-nothing matters but the music, music my first love
-we paper chasin', i'm always coming in first, cuz
-i'm built for it, see i'm better under pressure
-i react like a maniac when i'm coming to get ya
-i got to win, em watch and dre watch and my son watching
-fuck that, losing ain't an option
-i'm sharp i'm on point
-the ink from my ballpoint
-throwing out my pain
-i'm back on my a-game
-i'm focused, for me this is just another victory
-except that i'm stronger than an ox now mentally
-party people say, party people say, "ay,
-it's a new day, it's a new day"
-the world is gettin' ready, everybody ready, yeah!
-for a new day, for a new day,
-celebrate and say ay ay ay...
+(dp1
+Vjockin
+p2
+I1
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVpiece
+p5
+I1
+sVmove
+p6
+I1
+sVsoon
+p7
+I1
+sVbrain
+p8
+I2
+sVclocks
+p9
+I1
+sVmatters
+p10
+I1
+sVlove
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I4
+sVcut
+p15
+I1
+sVchain
+p16
+I1
+sVthinking
+p17
+I1
+sVmuch
+p18
+I1
+sVchasin
+p19
+I1
+sVcuz
+p20
+I1
+sVmaniac
+p21
+I1
+sVbetter
+p22
+I2
+sVlets
+p23
+I1
+sVgoing
+p24
+I1
+sVfif
+p25
+I1
+sVrich
+p26
+I1
+sVbout
+p27
+I1
+sVreal
+p28
+I1
+sVgood
+p29
+I2
+sVget
+p30
+I8
+sVya
+p31
+I3
+sVsucker
+p32
+I1
+sValicia
+p33
+I1
+sVstop
+p34
+I1
+sV9
+I1
+sVbang
+p35
+I1
+sVevery
+p36
+I1
+sVnew
+p37
+I18
+sVworld
+p38
+I4
+sVson
+p39
+I1
+sVdr
+p40
+I1
+sVday
+p41
+I20
+sVcelebrate
+p42
+I4
+sVbread
+p43
+I1
+sVlike
+p44
+I2
+sVdie
+p45
+I1
+sVgettin
+p46
+I4
+sV50
+p47
+I1
+sVmorning
+p48
+I2
+sVtry
+p49
+I2
+sVpaper
+p50
+I1
+sVvictory
+p51
+I1
+sVrock
+p52
+I1
+sVguy
+p53
+I2
+sVautomatic
+p54
+I1
+sVluck
+p55
+I1
+sVem
+p56
+I7
+sVdrop
+p57
+I1
+sVold
+p58
+I1
+sVdump
+p59
+I1
+sVpeople
+p60
+I9
+sVthrowing
+p61
+I1
+sVmiller
+p62
+I1
+sVliquor
+p63
+I1
+sVyeah
+p64
+I4
+sVcompetition
+p65
+I1
+sVoh
+p66
+I2
+sVpast
+p67
+I1
+sVborn
+p68
+I1
+sVsee
+p69
+I5
+sVtoday
+p70
+I1
+sVforgot
+p71
+I1
+sVgirl
+p72
+I1
+sVout
+p73
+I1
+sVliving
+p74
+I1
+sVsaid
+p75
+I2
+sVhide
+p76
+I1
+sVbottom
+p77
+I1
+sVstronger
+p78
+I1
+sVprobably
+p79
+I1
+sVfall
+p80
+I1
+sVleader
+p81
+I1
+sVfilled
+p82
+I1
+sVtoast
+p83
+I1
+sVgot
+p84
+I6
+sVnever
+p85
+I1
+sVboss
+p86
+I1
+sVgrowing
+p87
+I1
+sVpoverty
+p88
+I1
+sVlosing
+p89
+I1
+sVcome
+p90
+I2
+sVagame
+p91
+I1
+sVshine
+p92
+I1
+sVon
+p93
+I1
+sVstore
+p94
+I1
+sVdrum
+p95
+I1
+sVgetting
+p96
+I1
+sVoe
+p97
+I1
+sVpray
+p98
+I1
+sVdinner
+p99
+I1
+sVox
+p100
+I1
+sVfocused
+p101
+I1
+sVdre
+p102
+I2
+sVfirst
+p103
+I2
+sVballpoint
+p104
+I1
+sVtough
+p105
+I2
+sVdont
+p106
+I2
+sVpoint
+p107
+I1
+sVwall
+p108
+I1
+sVwin
+p109
+I1
+sVone
+p110
+I1
+sVaccomplishments
+p111
+I1
+sVbitch
+p112
+I1
+sVanother
+p113
+I1
+sVchurch
+p114
+I1
+sVtomorrow
+p115
+I1
+sVeverybody
+p116
+I4
+sVstory
+p117
+I1
+sVfrom
+p118
+I1
+sVworking
+p119
+I1
+sValways
+p120
+I1
+sVtop
+p121
+I2
+sVpressure
+p122
+I1
+sVcent
+p123
+I1
+sVwhos
+p124
+I1
+sVtrigger
+p125
+I1
+sVmusic
+p126
+I2
+sVlock
+p127
+I1
+sVrockin
+p128
+I1
+sVwoke
+p129
+I1
+sVdoor
+p130
+I1
+sVoption
+p131
+I1
+sVthat
+p132
+I1
+sVclub
+p133
+I1
+sVnobody
+p134
+I1
+sVback
+p135
+I1
+sVtrying
+p136
+I2
+sVtrue
+p137
+I1
+sVpilot
+p138
+I1
+sVme
+p139
+I4
+sVpull
+p140
+I1
+sVmyself
+p141
+I2
+sVbel
+p142
+I1
+sVniggas
+p143
+I1
+sVwhether
+p144
+I1
+sVride
+p145
+I2
+sVwork
+p146
+I1
+sVair
+p147
+I1
+sVstreet
+p148
+I1
+sVuh
+p149
+I2
+sVstopping
+p150
+I1
+sVproblem
+p151
+I1
+sVfeeling
+p152
+I1
+sVdistance
+p153
+I1
+sVheart
+p154
+I1
+sVgive
+p155
+I1
+sVknees
+p156
+I1
+sVfuck
+p157
+I2
+sVay
+p158
+I16
+sVsay
+p159
+I12
+sVim
+p160
+I14
+sVink
+p161
+I1
+sVready
+p162
+I8
+sVsharp
+p163
+I1
+sVid
+p164
+I1
+sVshit
+p165
+I1
+sVstrength
+p166
+I1
+sVbuilt
+p167
+I1
+sVdoctor
+p168
+I1
+sVna
+p169
+I1
+sVwatching
+p170
+I1
+sVtake
+p171
+I1
+sVlite
+p172
+I1
+sVparty
+p173
+I9
+sVgets
+p174
+I1
+sVrise
+p175
+I1
+sVpain
+p176
+I1
+sVthough
+p177
+I1
+sVkeys
+p178
+I1
+sVwatch
+p179
+I2
+sVspot
+p180
+I1
+sVreact
+p181
+I1
+sVgon
+p182
+I1
+sVcoming
+p183
+I2
+sVnothing
+p184
+I1
+sVmentally
+p185
+I1
+sVman
+p186
+I1
+sVnatural
+p187
+I1
+sVconscious
+p188
+I1
+sVfloor
+p189
+I1
+sVwell
+p190
+I1
+sVexcept
+p191
+I1
+sVlarceny
+p192
+I1
+sVdot
+p193
+I1
+sVtime
+p194
+I1
+sVpush
+p195
+I1
+sVbiz
+p196
+I1
+sVcame
+p197
+I1
+s.

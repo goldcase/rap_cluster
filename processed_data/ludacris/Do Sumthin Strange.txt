@@ -1,76 +1,533 @@
-"do sumthin strange" lyrics
-ludacris lyrics
-"do sumthin strange"
-(feat. rick ross)
-well, well, what do we have here?
-still getting pussy from that gift i gave her last year
-but it's a new day, she want a macbook
-so i showed her how the backseat of a 'lac look
-she talking handbags and gucci slippers
-she serve me like a waiter and all i can do is tip her
-talking about she needs some gas money
-you better hop upon that pole and shake that ass for me
-oh, hoe stop acting all boogie
-knowing you give it up for church's chicken and a movie
-big bucks, i got them
-it's amazing what they'll do for a pair of them red bottoms
-yeah, she says she needs some rent money
-i told her hop upon this dick for me
-she says she need to pay her condo
-yeah, well i need some daddy long stroke
-she asked me about her phone bill
-i asked her to show me just how that dope feel
-she says she need to pay tuition
-well drop down to the floor and assume the fucking position
-do something strange for a little piece of change
-do something strange for a little piece of change
-do something strange for a little piece of change
-do something strange for a little piece of change
-i told her, uh, uh jerome is in the house bitch
-fuck the bed, we bout to stay right on this couch bitch
-i told her if she hit it right
-i'll buy that iphone 32 gigabytes
-oh, but now you say you want an ipad
-well get naked bring your ass over to my pad
-need some helping moving out your old place
-i need some help showing you my old face
-now you need a backstage pass though
-well i need some backstage ass hoe
-get with it, will keep your stingy tail then
-what a little head will get you hair and your nails did
-yeah, she says she needs some rent money
-i told her hop upon this dick for me
-she says she need to pay her condo
-yeah, well i need some daddy long stroke
-she asked me about her phone bill
-i asked her to show me just how that dope feel
-she says she need to pay tuition
-well drop down to the floor and assume the fucking position
-do something strange for a little piece of change
-do something strange for a little piece of change
-do something strange for a little piece of change
-do something strange for a little piece of change
-she super sexy so i treat her to my wing stop
-i'm trying to whip my dick and shoot off like a slingshot
-we run the games all my whole fucking team hot
-my job down and the same with your dream bout
-i keep a pocket full of franks, time to work my magic
-my safe similar to a bank, better check the balance
-spray the chevrolet red like it's from cincinnati
-baby giving me head with superior talent
-i pay for that pussy like it's a rented car
-i ring the phone, i grab it, all up in that car
-take her to a spot she's never been in life
-the niggers loosers me and luda in the winner slot
-yeah, she says she needs some rent money
-i told her hop upon this dick for me
-she says she need to pay her condo
-yeah, well i need some daddy long stroke
-she asked me about her phone bill
-i asked her to show me just how that dope feel
-she says she need to pay tuition
-well drop down to the floor and assume the fucking position
-do sumthin strange for a little piece of change
-do sumthin strange for a little piece of change
-do sumthin strange for a little piece of change
-do sumthin strange for a little piece of change.
+(dp1
+Vcincinnati
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVmoney
+p6
+I4
+sVbring
+p7
+I1
+sVshake
+p8
+I1
+sVchicken
+p9
+I1
+sVstill
+p10
+I1
+sVfeat
+p11
+I1
+sVjerome
+p12
+I1
+sVslot
+p13
+I1
+sVsuperior
+p14
+I1
+sVtrying
+p15
+I1
+sVniggers
+p16
+I1
+sVdick
+p17
+I4
+sVhot
+p18
+I1
+sVbetter
+p19
+I2
+sVtail
+p20
+I1
+sVrick
+p21
+I1
+sVbout
+p22
+I2
+sVspot
+p23
+I1
+sVgave
+p24
+I1
+sVipad
+p25
+I1
+sVthem
+p26
+I1
+sVhit
+p27
+I1
+sVget
+p28
+I3
+sVbig
+p29
+I1
+sVdope
+p30
+I3
+sVsafe
+p31
+I1
+sVstop
+p32
+I2
+sVpocket
+p33
+I1
+sVshoot
+p34
+I1
+sVbottoms
+p35
+I1
+sVday
+p36
+I1
+sVbank
+p37
+I1
+sVmagic
+p38
+I1
+sVlike
+p39
+I4
+sVgift
+p40
+I1
+sVdid
+p41
+I1
+sVdrop
+p42
+I3
+sVnaked
+p43
+I1
+sVteam
+p44
+I1
+sVgrab
+p45
+I1
+sVass
+p46
+I3
+sVright
+p47
+I2
+sVsays
+p48
+I9
+sVfucking
+p49
+I4
+sVhouse
+p50
+I1
+sVyeah
+p51
+I6
+sVoh
+p52
+I2
+sVhair
+p53
+I1
+sVshes
+p54
+I1
+sVyear
+p55
+I1
+sVbalance
+p56
+I1
+sVwhip
+p57
+I1
+sVgiving
+p58
+I1
+sVmovie
+p59
+I1
+sVboogie
+p60
+I1
+sVacting
+p61
+I1
+sVthen
+p62
+I1
+sVnew
+p63
+I1
+sVloosers
+p64
+I1
+sVslingshot
+p65
+I1
+sVred
+p66
+I2
+sVtold
+p67
+I5
+sVknowing
+p68
+I1
+sVfull
+p69
+I1
+sVrun
+p70
+I1
+sVgot
+p71
+I1
+sVnails
+p72
+I1
+sVnever
+p73
+I1
+sVhere
+p74
+I1
+sVtuition
+p75
+I3
+sVjob
+p76
+I1
+sVross
+p77
+I1
+sVcondo
+p78
+I3
+sVstay
+p79
+I1
+sVsuper
+p80
+I1
+sVchange
+p81
+I12
+sVpiece
+p82
+I12
+sVlast
+p83
+I1
+sVher
+p84
+I1
+sVgetting
+p85
+I1
+sVwaiter
+p86
+I1
+sV32
+p87
+I1
+sVill
+p88
+I1
+sVspray
+p89
+I1
+sVkeep
+p90
+I2
+sVplace
+p91
+I1
+sVbackstage
+p92
+I2
+sVwhole
+p93
+I1
+sVasked
+p94
+I6
+sVwinner
+p95
+I1
+sVchurchs
+p96
+I1
+sVfeel
+p97
+I3
+sVpussy
+p98
+I2
+sVfranks
+p99
+I1
+sVpole
+p100
+I1
+sVbitch
+p101
+I2
+sVsexy
+p102
+I1
+sVold
+p103
+I2
+sVring
+p104
+I1
+sVstingy
+p105
+I1
+sVrented
+p106
+I1
+sVlittle
+p107
+I13
+sVhandbags
+p108
+I1
+sVlong
+p109
+I3
+sViphone
+p110
+I1
+sVshow
+p111
+I3
+sVtreat
+p112
+I1
+sVhead
+p113
+I2
+sVbuy
+p114
+I1
+sVgigabytes
+p115
+I1
+sVgas
+p116
+I1
+sVphone
+p117
+I4
+sVbaby
+p118
+I1
+sVtalent
+p119
+I1
+sVsumthin
+p120
+I6
+sVme
+p121
+I4
+sVlook
+p122
+I1
+sVshowed
+p123
+I1
+sVcar
+p124
+I2
+sVbill
+p125
+I3
+sVsay
+p126
+I1
+sVbed
+p127
+I1
+sVgucci
+p128
+I1
+sVuh
+p129
+I2
+sVdaddy
+p130
+I3
+sVsimilar
+p131
+I1
+sVslippers
+p132
+I1
+sVsomething
+p133
+I8
+sVluda
+p134
+I1
+sVgive
+p135
+I1
+sVpass
+p136
+I1
+sVfuck
+p137
+I1
+sVtalking
+p138
+I2
+sVstroke
+p139
+I3
+sVim
+p140
+I1
+sVrent
+p141
+I3
+sVwant
+p142
+I2
+sVneed
+p143
+I13
+sVbucks
+p144
+I1
+sVwork
+p145
+I1
+sVcheck
+p146
+I1
+sVbackseat
+p147
+I1
+sVchevrolet
+p148
+I1
+sVneeds
+p149
+I4
+sVhoe
+p150
+I2
+sVtheyll
+p151
+I1
+sVfloor
+p152
+I3
+sVpay
+p153
+I7
+sVtip
+p154
+I1
+sVcouch
+p155
+I1
+sVamazing
+p156
+I1
+sVstrange
+p157
+I14
+sVpad
+p158
+I1
+sVtake
+p159
+I1
+sVhop
+p160
+I4
+sVgames
+p161
+I1
+sVshowing
+p162
+I1
+sVlife
+p163
+I1
+sVthough
+p164
+I1
+sVserve
+p165
+I1
+sVupon
+p166
+I4
+sVlac
+p167
+I1
+sVhelping
+p168
+I1
+sVmoving
+p169
+I1
+sVpair
+p170
+I1
+sVmacbook
+p171
+I1
+sVassume
+p172
+I3
+sVwell
+p173
+I10
+sVface
+p174
+I1
+sVtime
+p175
+I1
+sVposition
+p176
+I3
+sVdream
+p177
+I1
+sVwing
+p178
+I1
+s.

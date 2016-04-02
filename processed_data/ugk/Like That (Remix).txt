@@ -1,75 +1,539 @@
-"like that (remix)" lyrics
-ugk lyrics
-"like that (remix)"
-check 1-2 1-2 1-2...
-you like that
-uhhh! bitch gon' get down on the flo'
-you ain't gettin paper what you twerkin it fo'?
-all i see is a bunch of ones
-need to leave with a pimp, time to have some fun
-all these niggaz is really lame
-just talkin to a nig cause you like the game
-later on you gon' bite that
-bitch you know you like that
-choose a pimp, i'm the shit
-check the record, i'm legit
-that nigga you with he counterfeit
-he crawlin, i'm ballin bitch!
-don't get offended when i call you by that pet name
-gon' be up in it when i stand up in that wet thang
-piece and chain, full of diamonds
-gettin paper the american way
-sable coat with silk lining
-upgrade, throw the mink away
-i'm like beyonce to the left
-any bitch can be replaced
-but i stand to the right, shinin bright
-ready to put dick in your face
-you don't want me to talk like that
-you ever got fucked in a maybach?
-you ever got buck in the back of the 'llac?
-roof gone, top back
-i'm the real this ain't no actin
-monkey niggaz playin dumb
-nigga knife, he ain't layin no pipe
-i lay up in you bitch you gon' cum
-bitch you know you like that, you know you like that
-girl you know you like that, you know you like that
-bitch you know you like that, you know you like that
-girl you know you like that, bitch you know you like that
-bitch you know you like that, you know you like that
-girl you know you like that, you know you like that
-bitch you know you like that, you know you like that
-bitch you know you like that, bitch you know i like that
-well this big dick cheney, i come to snow
-we go mighty joe young upside a hoe head
-and fuck how she feel like she bought the whole grid
-i ain't payin attention to what the hoe said
-that hoe can go 'head, if she ain't feelin it
-she ain't goin nowhere, she love how i'm drillin it
-throw it up on her she throw it right, back
-bitch you know you like, that
-in your mouth but don't bite, that
-i'm a dog that's gon' bite, back
-do it doggystyle i'm gon' hit that
-for an hour or two, is you with, that?
-toot it up and i'ma tap that
-fully pack that, then i'ma smack that
-bring it back back, yeah right back
-bitch you know you like that!
-bitch i see you lookin at my chain
-can't take your eyes off the panky rang
-bitch i'm standin on the top
-like we in the 10th, young bitch i'ma pimp
-and you like everything i stand fo'
-bitch don't use no hands, hoe!
-all jaws, pull it back
-bitch you know you like that
-let me do what i wanna do let me do what i feel
-c'mon ride sidesaddle with the king of the trill
-all this damn conversatin ain't worth the breath
-just lean to the right while i work the left
-vice verse and revese then it's up to daisy
-damn this pussy drive me fuckin crazy
-i'm fiendin to eat it baby like crack
-cause bitch you know i like that
+(dp1
+Vugk
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I2
+sVpussy
+p5
+I1
+sVrevese
+p6
+I1
+sVbring
+p7
+I1
+sVbright
+p8
+I1
+sVpaper
+p9
+I2
+sVgo
+p10
+I2
+sVeyes
+p11
+I1
+sVbunch
+p12
+I1
+sVaint
+p13
+I7
+sVupgrade
+p14
+I1
+sVchain
+p15
+I2
+sVlining
+p16
+I1
+sVdick
+p17
+I2
+sVbeyonce
+p18
+I1
+sVyoung
+p19
+I2
+sVking
+p20
+I1
+sVverse
+p21
+I1
+sVactin
+p22
+I1
+sVchoose
+p23
+I1
+sVwet
+p24
+I1
+sVdrillin
+p25
+I1
+sVcum
+p26
+I1
+sVworth
+p27
+I1
+sVmaybach
+p28
+I1
+sVreal
+p29
+I1
+sVhit
+p30
+I1
+sVtwerkin
+p31
+I1
+sVbig
+p32
+I1
+sVuhhh
+p33
+I1
+sVfeelin
+p34
+I1
+sVgame
+p35
+I1
+sVones
+p36
+I1
+sVgrid
+p37
+I1
+sVknow
+p38
+I21
+sVhands
+p39
+I1
+sVsilk
+p40
+I1
+sVlike
+p41
+I31
+sVname
+p42
+I1
+sVpimp
+p43
+I3
+sVever
+p44
+I2
+sVgettin
+p45
+I2
+sVleave
+p46
+I1
+sVfully
+p47
+I1
+sVride
+p48
+I1
+sVdoggystyle
+p49
+I1
+sVright
+p50
+I4
+sVjaws
+p51
+I1
+sVback
+p52
+I8
+sVcrawlin
+p53
+I1
+sVsee
+p54
+I2
+sVshinin
+p55
+I1
+sVdumb
+p56
+I1
+sVniggaz
+p57
+I2
+sVplayin
+p58
+I1
+sVgirl
+p59
+I3
+sVreally
+p60
+I1
+sVgon
+p61
+I6
+sVrecord
+p62
+I1
+sVpet
+p63
+I1
+sVaway
+p64
+I1
+sVlean
+p65
+I1
+sVeverything
+p66
+I1
+sVpayin
+p67
+I1
+sVsable
+p68
+I1
+sVdiamonds
+p69
+I1
+sVgot
+p70
+I2
+sVcause
+p71
+I2
+sVknife
+p72
+I1
+sVbought
+p73
+I1
+sVima
+p74
+I3
+sVfull
+p75
+I1
+sVattention
+p76
+I1
+sVlet
+p77
+I2
+sVjoe
+p78
+I1
+sVput
+p79
+I1
+sVcome
+p80
+I1
+sVthrow
+p81
+I3
+sVlegit
+p82
+I1
+sVbuck
+p83
+I1
+sV10th
+p84
+I1
+sVllac
+p85
+I1
+sVamerican
+p86
+I1
+sVstand
+p87
+I3
+sVlookin
+p88
+I1
+sVthang
+p89
+I1
+sVwhole
+p90
+I1
+sVtop
+p91
+I2
+sVfuckin
+p92
+I1
+sVnowhere
+p93
+I1
+sVrang
+p94
+I1
+sVlove
+p95
+I1
+sVdont
+p96
+I4
+sVfeel
+p97
+I2
+sVcheney
+p98
+I1
+sVnigga
+p99
+I2
+sVbitch
+p100
+I20
+sVballin
+p101
+I1
+sVwan
+p102
+I1
+sVuse
+p103
+I1
+sVmonkey
+p104
+I1
+sVpanky
+p105
+I1
+sVbite
+p106
+I3
+sVtwo
+p107
+I1
+sVbreath
+p108
+I1
+sVcall
+p109
+I1
+sVway
+p110
+I1
+sVdamn
+p111
+I2
+sVgoin
+p112
+I1
+sVhead
+p113
+I2
+sVthat
+p114
+I21
+sVcrack
+p115
+I1
+sVit
+p116
+I2
+sVtoot
+p117
+I1
+sVbaby
+p118
+I1
+sVcmon
+p119
+I1
+sVeat
+p120
+I1
+sVpull
+p121
+I1
+sV12
+p122
+I3
+sVhour
+p123
+I1
+sVlayin
+p124
+I1
+sVwork
+p125
+I1
+sVroof
+p126
+I1
+sVoffended
+p127
+I1
+sVreplaced
+p128
+I1
+sVflo
+p129
+I1
+sVfun
+p130
+I1
+sVmighty
+p131
+I1
+sVpiece
+p132
+I1
+sVpack
+p133
+I1
+sVgone
+p134
+I1
+sVcrazy
+p135
+I1
+sVmink
+p136
+I1
+sVtap
+p137
+I1
+sVfuck
+p138
+I1
+sVdrive
+p139
+I1
+sVneed
+p140
+I1
+sVcant
+p141
+I1
+sVim
+p142
+I10
+sVwant
+p143
+I1
+sVready
+p144
+I1
+sVcheck
+p145
+I2
+sVshit
+p146
+I1
+sVcounterfeit
+p147
+I1
+sVhoe
+p148
+I4
+sVsmack
+p149
+I1
+sVtrill
+p150
+I1
+sVlame
+p151
+I1
+sVna
+p152
+I1
+sVget
+p153
+I2
+sVsnow
+p154
+I1
+sVtake
+p155
+I1
+sVconversatin
+p156
+I1
+sVtalkin
+p157
+I1
+sVdaisy
+p158
+I1
+sVnig
+p159
+I1
+sVsaid
+p160
+I1
+sVmouth
+p161
+I1
+sVlay
+p162
+I1
+sVfucked
+p163
+I1
+sVfo
+p164
+I2
+sVyeah
+p165
+I1
+sVremix
+p166
+I2
+sVvice
+p167
+I1
+sVcoat
+p168
+I1
+sVlater
+p169
+I1
+sVwell
+p170
+I1
+sVdog
+p171
+I1
+sVface
+p172
+I1
+sVpipe
+p173
+I1
+sVupside
+p174
+I1
+sVtime
+p175
+I1
+sVfiendin
+p176
+I1
+sVsidesaddle
+p177
+I1
+sVthats
+p178
+I1
+sVtalk
+p179
+I1
+sVleft
+p180
+I2
+s.

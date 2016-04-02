@@ -1,67 +1,608 @@
-"jigga that nigga" lyrics
-jay-z lyrics
-"jigga that nigga"
-roc-a-fella y'all
-it's the roc!
-jigga, jigga, that nigga jigga
-r.o., r.o.c. niggaz, r.o.
-jigga, jigga, that nigga jigga
-hov'! r.o.c. niggaz, r.o., whoo!
-jigga, jigga, that nigga jigga
-it's hov'! r.o.c. niggaz
-jay-z..
-come on the track duh duh da-da
-with a throwback jersey and a fitted
-might blow a bag of hershey in the sidd-ix
-or might take sips of army with a chidd-ick, i'm so sick widdit
-lampin in the hamptons, the weekends man
-the stan smith adidas and the campers
-or playin guts on the cruise, hermes bow shoes
-the izod bucket on i'm so old school
-yellow wrist watch, gucci flip flops
-six top model chicks, who is this hot?
-j-a, ladies help me say it now
-y-z, mami why you playin with me?
-ride with me, get high as me
-it's how it's supposed to be, when you rollin with g's, hov'!
-back up in this bitch like whoa
-jigga get this whole bitch jumpin like six-fo's
-(hov'!) v is i, and i am him
-(jigga, jigga, that nigga jigga!)
-slim with the tilted brim on twenty inch rims
-(jigga, jigga, that nigga jigga!)
-and if y'all got love for me i got love for y'all
-(jigga, jigga, that nigga jigga!)
-and if y'all go to war for me i go to war wit y'all
-(jigga, jigga, that nigga jigga!)
-hov'!  and so i breeze through, jeans is evisu
-she's respondin, top of c. bronson
-we in luan (whoo!) gettin our groove on
-buyin out the bar, on our way to spa'
-she never seen a hundred on the wrist before
-never seen twenty-two's on the 6 before
-i am, killin 'em out there, they needin first aid
-cause the boy got more 6's than first grade
-the crib got, killer views and square feet
-you have to film mtv cribs for a week
-so, sleep if you need to, mami i will leave you
-right where you stand, nah i don't wanna dance (i'm good)
-i just wanna see what's in your frankie v pants
-waist is low enough to let your waist show
-top like a rock star, i got a fast car
-we can cruise the city, doin a buck-sixty
-"he did it again!"  haters no like
-but they gotta fuck with it cause the flow's so tight
-gnarly dude!  i puff bob marley dude
-all day, like rastafari's do
-now i'm stuck to the point i could hardly move
-you fuckin up my high, don't bother me dude
-but red rover, send your hoes over
-she can do whatever, sip somethin with soda
-she can leave whenever, sip somethin with hova
-we can play however, slay bed or sofa
-and the prognosis, sex is explosive
-left her with wet bedsheets, nigga i'm focused
-r.o., r.o.c. niggaz..
-r.o.c. niggaz
-(roc-a-fella y'all!)
+(dp1
+Vchicks
+p2
+I1
+sVgs
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVdance
+p7
+I1
+sVover
+p8
+I1
+sVroc
+p9
+I6
+sVfrankie
+p10
+I1
+sVyellow
+p11
+I1
+sVsleep
+p12
+I1
+sVbrim
+p13
+I1
+sVcruise
+p14
+I2
+sVgo
+p15
+I2
+sVwhats
+p16
+I1
+sVhelp
+p17
+I1
+sVblow
+p18
+I1
+sVrover
+p19
+I1
+sVprognosis
+p20
+I1
+sVweekends
+p21
+I1
+sVguts
+p22
+I1
+sVsmith
+p23
+I1
+sVsend
+p24
+I1
+sVday
+p25
+I1
+sVwet
+p26
+I1
+sVmight
+p27
+I2
+sVcity
+p28
+I1
+sVta
+p29
+I1
+sVdo
+p30
+I1
+sVgood
+p31
+I1
+sVget
+p32
+I2
+sVkiller
+p33
+I1
+sVwatch
+p34
+I1
+sVchiddick
+p35
+I1
+sVyz
+p36
+I1
+sVcrib
+p37
+I1
+sVrastafaris
+p38
+I1
+sVnow
+p39
+I1
+sVhim
+p40
+I1
+sVgnarly
+p41
+I1
+sVschool
+p42
+I1
+sVbar
+p43
+I1
+sVlike
+p44
+I5
+sVsofa
+p45
+I1
+sVgettin
+p46
+I1
+sVleave
+p47
+I2
+sVbag
+p48
+I1
+sVrock
+p49
+I1
+sVbother
+p50
+I1
+sVyall
+p51
+I6
+sVem
+p52
+I1
+sVnigga
+p53
+I10
+sVold
+p54
+I1
+sVmtv
+p55
+I1
+sVback
+p56
+I1
+sVsex
+p57
+I1
+sVsee
+p58
+I1
+sVshes
+p59
+I1
+sVsips
+p60
+I1
+sVneedin
+p61
+I1
+sVplayin
+p62
+I2
+sVmarley
+p63
+I1
+sVfocused
+p64
+I1
+sVsixfos
+p65
+I1
+sVenough
+p66
+I1
+sVgot
+p67
+I6
+sVro
+p68
+I4
+sVcause
+p69
+I2
+sVred
+p70
+I1
+sVpants
+p71
+I1
+sVbedsheets
+p72
+I1
+sVexplosive
+p73
+I1
+sVbed
+p74
+I1
+sVright
+p75
+I1
+sVrims
+p76
+I1
+sVnever
+p77
+I2
+sVhowever
+p78
+I1
+sVevisu
+p79
+I1
+sVrespondin
+p80
+I1
+sVlet
+p81
+I1
+sVthrowback
+p82
+I1
+sVhermes
+p83
+I1
+sVja
+p84
+I1
+sVrocafella
+p85
+I2
+sVon
+p86
+I1
+sVc
+I1
+sVcould
+p87
+I1
+sVbow
+p88
+I1
+sVstand
+p89
+I1
+sVsoda
+p90
+I1
+sVpuff
+p91
+I1
+sVbob
+p92
+I1
+sVwhole
+p93
+I1
+sVjersey
+p94
+I1
+sVfirst
+p95
+I2
+sVcome
+p96
+I1
+sVladies
+p97
+I1
+sVlove
+p98
+I2
+sVdont
+p99
+I2
+sVadidas
+p100
+I1
+sVpoint
+p101
+I1
+sVgrade
+p102
+I1
+sVjeans
+p103
+I1
+sVbronson
+p104
+I1
+sVfeet
+p105
+I1
+sVjayz
+p106
+I2
+sVwit
+p107
+I1
+sVbitch
+p108
+I2
+sVtilted
+p109
+I1
+sVhoes
+p110
+I1
+sVduh
+p111
+I2
+sVwan
+p112
+I2
+sVkillin
+p113
+I1
+sVarmy
+p114
+I1
+sVtwenty
+p115
+I1
+sVtop
+p116
+I3
+sVdude
+p117
+I3
+sVfast
+p118
+I1
+sVmami
+p119
+I2
+sVstuck
+p120
+I1
+sVwhoo
+p121
+I2
+sVhamptons
+p122
+I1
+sVlow
+p123
+I1
+sVway
+p124
+I1
+sV6
+I1
+sVhundred
+p125
+I1
+sVhardly
+p126
+I1
+sVsiddix
+p127
+I1
+sVboy
+p128
+I1
+sVlampin
+p129
+I1
+sVfuck
+p130
+I1
+sVbuyin
+p131
+I1
+sVwhatever
+p132
+I1
+sV6s
+p133
+I1
+sVhaters
+p134
+I1
+sVme
+p135
+I2
+sVizod
+p136
+I1
+sVcar
+p137
+I1
+sVride
+p138
+I1
+sVbucket
+p139
+I1
+sVflip
+p140
+I1
+sVniggaz
+p141
+I5
+sVwhoa
+p142
+I1
+sVwhenever
+p143
+I1
+sVgucci
+p144
+I1
+sVsupposed
+p145
+I1
+sVv
+I2
+sVaid
+p146
+I1
+sVbucksixty
+p147
+I1
+sVgroove
+p148
+I1
+sVwiddit
+p149
+I1
+sVbefore
+p150
+I2
+sVslay
+p151
+I1
+sVtwentytwos
+p152
+I1
+sVslim
+p153
+I1
+sVhershey
+p154
+I1
+sVhigh
+p155
+I2
+sVsay
+p156
+I1
+sVim
+p157
+I5
+sVseen
+p158
+I2
+sVneed
+p159
+I1
+sVspa
+p160
+I1
+sVfilm
+p161
+I1
+sVsip
+p162
+I2
+sVjigga
+p163
+I24
+sVna
+p164
+I2
+sVcampers
+p165
+I1
+sVsix
+p166
+I1
+sVhov
+p167
+I5
+sVtight
+p168
+I1
+sVhot
+p169
+I1
+sVsquare
+p170
+I1
+sVtake
+p171
+I1
+sVsick
+p172
+I1
+sVinch
+p173
+I1
+sVyou
+p174
+I1
+sVhova
+p175
+I1
+sVweek
+p176
+I1
+sVplay
+p177
+I1
+sVwar
+p178
+I2
+sVstar
+p179
+I1
+sVviews
+p180
+I1
+sVtrack
+p181
+I1
+sVdoin
+p182
+I1
+sVflows
+p183
+I1
+sVwrist
+p184
+I2
+sVjumpin
+p185
+I1
+sVstan
+p186
+I1
+sVman
+p187
+I1
+sVsomethin
+p188
+I2
+sVwaist
+p189
+I2
+sVmove
+p190
+I1
+sVcribs
+p191
+I1
+sVluan
+p192
+I1
+sVdada
+p193
+I1
+sVrollin
+p194
+I1
+sVbreeze
+p195
+I1
+sVfuckin
+p196
+I1
+sVmodel
+p197
+I1
+sVflops
+p198
+I1
+sVnah
+p199
+I1
+sVfitted
+p200
+I1
+sVleft
+p201
+I1
+s.

@@ -1,156 +1,690 @@
-"the apple" lyrics
-eminem lyrics
-"the apple"
-i'm a little nutty and i know it
-but if you go back and
-take a look at my history
-you will see that i'm
-not the only one who's off his rocker
-there were many before me
-i was always labelled
-the black sheep of the family what a bad seed i
-grow to be but if you take a look
-at us now you'll see the apple didn't fall too far from the tree
-(haha) alright, look
-i'ma tell you the story
-from my side maybe you'll understand check it out
-you done witnessed
-unexplainable shit
-too insane to explain
-people run from what
-the just don't get
-maybe shady shoulda
-just hit 'em with a little bit
-did i spit too soon?
-should i of spoon fed 'em it?
-but i was just so eager
-to prove i was even worth
-being in the same
-league or the room with of the people
-of whom i was in every now and then i
-look up like i was seeking approval
-was it because of the
-pigment of my skin
-or was it a figment of
-my imagination
-maybe it bothered me
-more than it did them
-maybe it wasn't a big
-deal back then
-but to me it was, see
-what it was was
-i had developed the
-complex from being judged
-proof spit his verse,
-now i'm next, let's see who
-i'm in the booth
-staring back to see who's mugs
-i get a reaction from,
-usually the first thumb was from
-proof
-and the rest of the
-group backed him up
-and no one lied to
-each other cause none of us had deals
-it was real, we just
-wanted tickets for that meal
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my
-family
-cause the apple don't
-fall too far from the tree
-i said ...
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my
-family
-cause the apple don't
-fall too far from the tree
-ever since my mother
-was pregnant
-with her second egg
-cause she said
-that i had a baby sister
-who fell out of the window
-i was too young to remember
-kansas city projects
-i was like 5, 6, and how come
-i remember malcolm,
-isaac, and boogie
-if it was the projects in missouri?
-cause those're my best
-friends until isaac
-took my tricycle and
-my uncle todd went to try to go get it back
-and ended up getting
-jumped and cut in the gut with a
-switch and 70-some stitches
-which is still, to this day
-why my mother still
-tries to show me some old fake picture
-of a fictitious little
-sister who never existed and this is why part of
-my life's so twisted
-but i can never be as
-sick as that bitch is
-and, by the way, that
-picture's one of my relatives
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my
-family
-cause the apple don't
-fall too far from the tree
-i said ...
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my
-family
-cause the apple don't
-fall too far from the tree
-you probably have to
-peel back layers upon layers of
-pain to see why everything
-i say is so insane
-what's different about my brain that separates me
-from other players in this game? on the surface, it may
-seem like a scheme or some sort of scam
-for me to get some damn sympathy
-but that's the last thing
-i need is for people
-to walk around feeling
-sorry for me (me)
-and i'm not a g, never
-claimed to be
-i gave my vest to
-cashis,
-he'll need it more than me
-but we'll see, cause we ain't lookin' for beef
-but if it comes our
-way, what do we, turn the other
-cheek? come on
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my family
-cause the apple don't
-fall too far from the tree
-i said ...
-sometimes i feel like
-it's just me
-sometimes i feel like
-i'm going crazy
-but take a look at my
-family
-cause the apple don't
-fall too far from the tree
+(dp1
+Vrocker
+p2
+I1
+sVboogie
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVdeveloped
+p6
+I1
+sVsoon
+p7
+I1
+sVrest
+p8
+I1
+sVended
+p9
+I1
+sVever
+p10
+I1
+sVskin
+p11
+I1
+sVgo
+p12
+I2
+sVhell
+p13
+I1
+sVstill
+p14
+I2
+sVdont
+p15
+I7
+sVima
+p16
+I1
+sVcut
+p17
+I1
+sVmugs
+p18
+I1
+sVthumb
+p19
+I1
+sVeverything
+p20
+I1
+sVexplain
+p21
+I1
+sVyoung
+p22
+I1
+sVeager
+p23
+I1
+sVverse
+p24
+I1
+sVgoing
+p25
+I6
+sVblack
+p26
+I1
+sVjudged
+p27
+I1
+sVisaac
+p28
+I2
+sVsorry
+p29
+I1
+sVworth
+p30
+I1
+sVgave
+p31
+I1
+sVreal
+p32
+I1
+sVthen
+p33
+I1
+sVthem
+p34
+I1
+sVhit
+p35
+I1
+sVto
+p36
+I3
+sVseeking
+p37
+I1
+sVfar
+p38
+I7
+sVbig
+p39
+I1
+sVpigment
+p40
+I1
+sVfigment
+p41
+I1
+sVspoon
+p42
+I1
+sVevery
+p43
+I1
+sVknow
+p44
+I1
+sVfall
+p45
+I7
+sVbit
+p46
+I1
+sVwalk
+p47
+I1
+sVday
+p48
+I1
+sVprojects
+p49
+I2
+sVlook
+p50
+I10
+sVtickets
+p51
+I1
+sVlike
+p52
+I15
+sVpregnant
+p53
+I1
+sValways
+p54
+I1
+sVtwisted
+p55
+I1
+sVtricycle
+p56
+I1
+sVdeals
+p57
+I1
+sVbad
+p58
+I1
+sVmissouri
+p59
+I1
+sVwent
+p60
+I1
+sVside
+p61
+I1
+sVinsane
+p62
+I2
+sVold
+p63
+I1
+sVaint
+p64
+I1
+sVdeal
+p65
+I1
+sVpeople
+p66
+I3
+sVback
+p67
+I5
+sVgroup
+p68
+I1
+sVsee
+p69
+I7
+sVcashis
+p70
+I1
+sVbooth
+p71
+I1
+sVtodd
+p72
+I1
+sVour
+p73
+I1
+sVthing
+p74
+I1
+sVbest
+p75
+I1
+sVturn
+p76
+I1
+sVeven
+p77
+I1
+sVtry
+p78
+I1
+sVwhat
+p79
+I1
+sVsaid
+p80
+I4
+sVwitnessed
+p81
+I1
+sVjumped
+p82
+I1
+sVsince
+p83
+I1
+sVnutty
+p84
+I1
+sVprobably
+p85
+I1
+sVyoull
+p86
+I2
+sVrelatives
+p87
+I1
+sVlayers
+p88
+I2
+sVclaimed
+p89
+I1
+sVkansas
+p90
+I1
+sVrun
+p91
+I1
+sVpeel
+p92
+I1
+sVexisted
+p93
+I1
+sVthosere
+p94
+I1
+sVfed
+p95
+I1
+sVeminem
+p96
+I1
+sVbacked
+p97
+I1
+sVapproval
+p98
+I1
+sVwanted
+p99
+I1
+sVcome
+p100
+I2
+sVshoulda
+p101
+I1
+sVstaring
+p102
+I1
+sVleague
+p103
+I1
+sVsister
+p104
+I2
+sVlast
+p105
+I1
+sVbeef
+p106
+I1
+sVg
+I1
+sVgetting
+p107
+I1
+sVof
+p108
+I3
+sVjust
+p109
+I1
+sVmeal
+p110
+I1
+sVplayers
+p111
+I1
+sVlied
+p112
+I1
+sVlookin
+p113
+I1
+sVusually
+p114
+I1
+sVproof
+p115
+I2
+sVother
+p116
+I1
+sVcomes
+p117
+I1
+sVfirst
+p118
+I1
+sVem
+p119
+I2
+sVwhats
+p120
+I1
+sVapple
+p121
+I9
+sVfamily
+p122
+I7
+sVfeel
+p123
+I12
+sVmalcolm
+p124
+I1
+sVvest
+p125
+I1
+sVone
+p126
+I3
+sVsympathy
+p127
+I1
+sVdone
+p128
+I1
+sVbitch
+p129
+I1
+sVfake
+p130
+I1
+sVnext
+p131
+I1
+sVstitches
+p132
+I1
+sVsheep
+p133
+I1
+sVcity
+p134
+I1
+sVlittle
+p135
+I3
+sVfrom
+p136
+I2
+sVsecond
+p137
+I1
+sVprove
+p138
+I1
+sVlets
+p139
+I1
+sVwhos
+p140
+I2
+sVwindow
+p141
+I1
+sVdamn
+p142
+I1
+sVway
+p143
+I2
+sV6
+I1
+sVgut
+p144
+I1
+sVwas
+p145
+I1
+sVtell
+p146
+I1
+sVsort
+p147
+I1
+sVspit
+p148
+I2
+sVreaction
+p149
+I1
+sVhaha
+p150
+I1
+sVtook
+p151
+I1
+sVpart
+p152
+I1
+sVunderstand
+p153
+I1
+sVlabelled
+p154
+I1
+sVseparates
+p155
+I1
+sVbaby
+p156
+I1
+sVbe
+p157
+I1
+sVme
+p158
+I10
+sVnone
+p159
+I1
+sVscheme
+p160
+I1
+sVroom
+p161
+I1
+sVunexplainable
+p162
+I1
+sVtree
+p163
+I7
+sVup
+p164
+I1
+sVus
+p165
+I2
+sVmany
+p166
+I1
+sVpictures
+p167
+I1
+sVfeeling
+p168
+I1
+sVdidnt
+p169
+I1
+sVsay
+p170
+I1
+sVhistory
+p171
+I1
+sVand
+p172
+I2
+sVcrazy
+p173
+I6
+sVcheek
+p174
+I1
+sVscam
+p175
+I1
+sVwasnt
+p176
+I1
+sVis
+p177
+I1
+sVit
+p178
+I2
+sVsurface
+p179
+I1
+sVimagination
+p180
+I1
+sVas
+p181
+I1
+sVseed
+p182
+I1
+sVim
+p183
+I11
+sVneed
+p184
+I2
+sVmy
+p185
+I5
+sVseem
+p186
+I1
+sVstory
+p187
+I1
+sVcheck
+p188
+I1
+sVshit
+p189
+I1
+sVaround
+p190
+I1
+sVdifferent
+p191
+I1
+sVlifes
+p192
+I1
+sVget
+p193
+I4
+sVsame
+p194
+I1
+sVbrain
+p195
+I1
+sVthat
+p196
+I1
+sVcomplex
+p197
+I1
+sV5
+I1
+sVtake
+p198
+I8
+sVsick
+p199
+I1
+sVpicture
+p200
+I1
+sVpain
+p201
+I1
+sV70some
+p202
+I1
+sVmay
+p203
+I1
+sVwho
+p204
+I1
+sVupon
+p205
+I1
+sVbothered
+p206
+I1
+sVtries
+p207
+I1
+sVfell
+p208
+I1
+sVnever
+p209
+I3
+sVon
+p210
+I1
+sVfriends
+p211
+I1
+sVgrow
+p212
+I1
+sVa
+I1
+sVcause
+p213
+I10
+sVremember
+p214
+I2
+sVi
+I2
+sVmaybe
+p215
+I4
+sVshady
+p216
+I1
+sVsometimes
+p217
+I12
+sVwell
+p218
+I1
+sVgame
+p219
+I1
+sVswitch
+p220
+I1
+sVfictitious
+p221
+I1
+sVmother
+p222
+I2
+sValright
+p223
+I1
+sVuncle
+p224
+I1
+sVthe
+p225
+I3
+sVthats
+p226
+I1
+sVegg
+p227
+I1
+s.

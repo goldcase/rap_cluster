@@ -1,64 +1,518 @@
-"2 young 4 what" lyrics
-mc lyte lyrics
-"2 young 4 what"
-"i'm the dopest female.."
-"i'm the dopest female that you've heard thus far.."
-i'm too old?  what's with that crap?
-come on now brother, age is just a number
-anyway what matters is your state of mind
-and if you give me some time i'll make your heart all mine
-i don't like pushin and i don't like rushin
-but most of all i don't like fussin
-so come on now sweetie why don't ya stop frontin
-besides older folks come equipped for good lovin
-are you really serious? age really matters?
-i thought telling you this, you would be flattered
-well i guess i was wrong cause you still ain't widdit
-..oh well, forget it, nope nope
-but don't you dare touch me, you said you wasn't widdit
-you waited too long now, lyte is not havin it
-i coulda showed you things, taught you how to explore
-my question is, what are you too young for?
-i coulda shown you things that you never seen before
-took you all around on my wild world tour
-but you're too young, too young to have fun
-..oh well, i'm done
-"i'm the dopest female.."
-"i'm the dopest female that you've heard thus far.."
-..
-"i'm the dopest female that you've heard thus far.."
-it may sound nasty and it may sound mean
-but i'm into little boys that are about seventeen
-i don't know why, but they put up a fight
-and hot damn that excites the mc lyte
-cause yo i love a young buck, that give a firm {fuck}
-but once in a while, they become lovestruck
-but that's okay though, cause i can handle them
-i love young boys on the brink, of being young men
-i mold em, shape em, make em then i break em in
-they get the job done, i make em get the job done
-well, swell, make em kiss and tell
-all of their friends around the neighborhood
-that lyte is good, soul food good
-so tell me honey, are you ready to score?
-again i'll ask, what are you too young for?
-"i'm the dopest female.."
-"i'm the dopest female.."
-..
-"i'm the dopest female that you've heard thus far.."
-"i'm the dopest female that you've heard thus far.."
-last but not least yo here's a description
-hard workin, not one that sells prescription
-so if you're in school, that's okay
-get straight a's and i'll be back on friday
-you won't miss me, you know where to find me
-and these words i will say finally
-never let age, restrict you from whatcha wanna do
-whether you're young or ninety-two
-so if you're seventeen or around that age..
-..baby come to the stage
-and if i didn't change your mind i'd find that odd
-so when i ask this, think hard..
-"call me the master.."
-"call me the master.."
-"swingin with master t.."
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVfood
+p4
+I1
+sVanyway
+p5
+I1
+sVshape
+p6
+I1
+sVtouch
+p7
+I1
+sVlove
+p8
+I2
+sVstill
+p9
+I1
+sVbrink
+p10
+I1
+sVbefore
+p11
+I1
+sVaint
+p12
+I1
+sVexcites
+p13
+I1
+sVyoung
+p14
+I10
+sVhavin
+p15
+I1
+sVfinally
+p16
+I1
+sV4
+I2
+sVequipped
+p17
+I1
+sVfolks
+p18
+I1
+sVrushin
+p19
+I1
+sVme
+p20
+I1
+sVthem
+p21
+I1
+sVgood
+p22
+I3
+sVhandle
+p23
+I1
+sVaround
+p24
+I3
+sVyo
+p25
+I2
+sVget
+p26
+I3
+sVya
+p27
+I1
+sVstop
+p28
+I1
+sVlovin
+p29
+I1
+sVbreak
+p30
+I1
+sVmatters
+p31
+I2
+sVfrontin
+p32
+I1
+sVknow
+p33
+I2
+sVfussin
+p34
+I1
+sVtelling
+p35
+I1
+sVworld
+p36
+I1
+sVnasty
+p37
+I1
+sVdare
+p38
+I1
+sVwont
+p39
+I1
+sVschool
+p40
+I1
+sVlike
+p41
+I3
+sVnope
+p42
+I2
+sVbrother
+p43
+I1
+sVt
+I1
+sVwhatcha
+p44
+I1
+sVbecome
+p45
+I1
+sVmean
+p46
+I1
+sVem
+p47
+I6
+sVseventeen
+p48
+I2
+sVold
+p49
+I1
+sVhard
+p50
+I2
+sVback
+p51
+I1
+sVtaught
+p52
+I1
+sVill
+p53
+I3
+sVfriday
+p54
+I1
+sVodd
+p55
+I1
+sVreally
+p56
+I2
+sVwhat
+p57
+I1
+sVsaid
+p58
+I1
+sVfor
+p59
+I2
+sVheres
+p60
+I1
+sVna
+p61
+I1
+sVfind
+p62
+I2
+sVstate
+p63
+I1
+sVscore
+p64
+I1
+sVcause
+p65
+I3
+sVmen
+p66
+I1
+sVdo
+p67
+I1
+sVnever
+p68
+I2
+sVlittle
+p69
+I1
+sVfun
+p70
+I1
+sVexplore
+p71
+I1
+sVlet
+p72
+I1
+sVbesides
+p73
+I1
+sVput
+p74
+I1
+sVninetytwo
+p75
+I1
+sVcome
+p76
+I4
+sVchange
+p77
+I1
+sVstage
+p78
+I1
+sVbuck
+p79
+I1
+sVlast
+p80
+I1
+sVoh
+p81
+I2
+sVcoulda
+p82
+I2
+sVkiss
+p83
+I1
+sVjob
+p84
+I2
+sVtour
+p85
+I1
+sVyouve
+p86
+I5
+sVdopest
+p87
+I9
+sVthink
+p88
+I1
+sVwaited
+p89
+I1
+sVthats
+p90
+I2
+sVwhats
+p91
+I1
+sVdont
+p92
+I6
+sVnumber
+p93
+I1
+sVone
+p94
+I1
+sVrestrict
+p95
+I1
+sVask
+p96
+I2
+sVdone
+p97
+I3
+sVleast
+p98
+I1
+sVfemale
+p99
+I9
+sVneighborhood
+p100
+I1
+sVmiss
+p101
+I1
+sVmaster
+p102
+I3
+sVwan
+p103
+I1
+sVguess
+p104
+I1
+sVcrap
+p105
+I1
+sVwould
+p106
+I1
+sVlyte
+p107
+I4
+sVquestion
+p108
+I1
+sVlong
+p109
+I1
+sVfight
+p110
+I1
+sV2
+I2
+sVdamn
+p111
+I1
+sVcall
+p112
+I2
+sVtell
+p113
+I2
+sVfirm
+p114
+I1
+sVmind
+p115
+I2
+sVfuck
+p116
+I1
+sVtook
+p117
+I1
+sVmine
+p118
+I1
+sVboys
+p119
+I2
+sVmc
+p120
+I2
+sVbaby
+p121
+I1
+sVprescription
+p122
+I1
+sVsound
+p123
+I2
+sVshowed
+p124
+I1
+sVwhether
+p125
+I1
+sVstraight
+p126
+I1
+sVsoul
+p127
+I1
+sVwild
+p128
+I1
+sVdidnt
+p129
+I1
+sVwiddit
+p130
+I2
+sVpushin
+p131
+I1
+sVheart
+p132
+I1
+sVgive
+p133
+I2
+sVwasnt
+p134
+I1
+sVthus
+p135
+I5
+sVit
+p136
+I1
+sVhoney
+p137
+I1
+sVheard
+p138
+I5
+sVsay
+p139
+I1
+sVim
+p140
+I12
+sVin
+p141
+I1
+sVready
+p142
+I1
+sVseen
+p143
+I1
+sVsells
+p144
+I1
+sVmold
+p145
+I1
+sVid
+p146
+I1
+sVsweetie
+p147
+I1
+sVthings
+p148
+I2
+sVmake
+p149
+I4
+sVfar
+p150
+I5
+sVhot
+p151
+I1
+sVlovestruck
+p152
+I1
+sVflattered
+p153
+I1
+sVokay
+p154
+I2
+sVdescription
+p155
+I1
+sVthough
+p156
+I1
+sVmay
+p157
+I2
+sVswell
+p158
+I1
+sVshown
+p159
+I1
+sVwrong
+p160
+I1
+sVfriends
+p161
+I1
+sVworkin
+p162
+I1
+sVswingin
+p163
+I1
+sVolder
+p164
+I1
+sVage
+p165
+I4
+sVyoure
+p166
+I4
+sVwell
+p167
+I4
+sVthought
+p168
+I1
+sVtime
+p169
+I1
+sVserious
+p170
+I1
+sVwords
+p171
+I1
+s.

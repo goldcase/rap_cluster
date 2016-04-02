@@ -1,98 +1,775 @@
-"brownie points" lyrics
-e-40 lyrics
-"brownie points"
-(feat. a-1)
-yeah
-seven-oh-seven
-yeah.. charlie hustle
-playa, playa
-what's wrong with these old niggaz man?
-d-day, what's wrong with these niggaz?
-what's wrong with these niggaz?
-this fuckin game.. tryin to get brownie points and stripes
-smack points (yeah) yeah
-you got somethin for these old niggaz doe
-what we got fo' em big balla?
-yeah, yeah, yeah
-beotch!
-what's the subject?  fo' brings niggaz they kotex
-where we reside i creeps my ass up inside
-and smash these brownies off in his face
-that i done shitted and pissed on, dude, how that taste
-catch him out his place, out of his area
-with his nephew and his niece, ooh, the more the merrier
-nigga tried to fuck mines off (what'd he do?)
-tried to gauge the porch with my broads on watoo
-dude you done broke fuckin code
-i'm finst ta dump drop clip, dump-drop-clip reload
-be like i can motherfuckin explode
-talkin about i'll be fuckin all kind of women
-that's b-r-p, blade run or pimpin
-once upon a time there was this guy named dane
-tried to fuck my bitch, but he kris-krossed game
-i don't owe this motherfucker in the first
-but he done made livin in my house a whole lot worse
-tryin to gain some stripes
-it's nothin nice -- read him his rights
-collar him and laugh, rollin over and politickin with the vice
-crackin under pressure, bust a pipe
-snake eyes is crooked dice
-{"goin all up out your way just to get them brownie points"}
-it's steaks and knives -- read him his rights
-so-called best friend'll stab yo' ass in the back with a knife
-and try to, put yo' ass on ice
-for brownie points and stripes, for brownie points and stripes
-niggaz'll take your life just to {"get them brownie points"}
-you niggaz got me stuck what?
-watchin y'all spit it and get it fucked up
-lucked up, my mobb niggaz, yea we gon' bust what
-if he isn't never see mail, cause that we sell
-dope by the truckloads, hoes can catch it retail
-motherfuckers grindin but we all ain't played
-and all ain't paid, now watch em all get sprayed
-laid back and watch him misprint it, we been spit it
-for you newcomers who thinkin you done it, i put my fist in it
-let yo' bitch get it, serve a d and watch a bitch split it
-if i ain't wit it, it wasn't enough fuckin chips in it
-niggaz try to gain stripe, i flame mic
-got em all caught up in the same shit, call it game tight
-keep my name hyped, strivin to get my name right
-when it's fucked up, i'm the one you can blame right
-hatin on my niggaz when i did the shit
-yo we the shit, represent this hogg ass bitch
-it's nothin nice -- read him his rights
-collar him and laugh, rollin over and politickin with the vice
-crackin under pressure, bust a pipe
-snake eyes is crooked dice
-{"goin all up out your way just to get them brownie points"}
-it's steaks and knives -- read him his rights
-so-called best friend'll stab yo' ass in the back with a knife
-and try to, put yo' ass on ice
-for brownie points and stripes, for brownie points and stripes
-niggaz'll take your life just to {"get them brownie points"}
-young mack jr. ain't nothin but 14, mack jr. think he tough
-mack jr. be havin problems with his stomach, throwin up that green stuff
-mack jr. done tried everything (in the bay) the whole taco
-mack jr. be takin whiffles of that khadafi and shovin it up his nostrils
-mack jr. just got out the hall, jr. i call your bluff
-jr. ain't to be played, jr. quick to bust
-mack jr. be geekin, mack jr. be havin withdrawal
-mack jr. be tweekin mack jr. be workin hella close with the law
-i don't know this motherfucker, never saw the dude
-but mack jr. all the time be seein my viznideos on the tizznelevision tube
-fool know not that he'll blunder, i got yo' ass hypnotized, talkin about
-"when you see that nigga e-40, element of surprise!"
-one of my fellas overheard about it in the pen, chopped a couple of kites
-told me to be careful cause niggaz'll take yo' life for braggin rights
-that ain't fair so stop that baby attitude why do niggaz gotta cheat
-don't them niggaz know i got enough fetti to put they whole fuckin family to sleep?
-it's nothin nice -- read him his rights
-collar him and laugh, rollin over and politickin with the vice
-crackin under pressure, bust a pipe
-snake eyes is crooked dice
-{"goin all up out your way just to get them brownie points"}
-it's steaks and knives -- read him his rights
-so-called best friend'll stab yo' ass in the back with a knife
-and try to, put yo' ass on ice
-for brownie points and stripes, for brownie points and stripes
-niggaz'll take your life just to {"get them brownie points"}
+(dp1
+Vrepresent
+p2
+I1
+sVviznideos
+p3
+I1
+sVcode
+p4
+I1
+sVlyrics
+p5
+I2
+sVyea
+p6
+I1
+sVyoung
+p7
+I1
+sVbaby
+p8
+I1
+sVisnt
+p9
+I1
+sVsprayed
+p10
+I1
+sVgauge
+p11
+I1
+sVhyped
+p12
+I1
+sVdday
+p13
+I1
+sVnephew
+p14
+I1
+sVfeat
+p15
+I1
+sVhogg
+p16
+I1
+sVaint
+p17
+I6
+sVdice
+p18
+I3
+sVfriendll
+p19
+I3
+sVpen
+p20
+I1
+sVenough
+p21
+I2
+sVbust
+p22
+I5
+sVhavin
+p23
+I2
+sVkites
+p24
+I1
+sVmisprint
+p25
+I1
+sVmail
+p26
+I1
+sVright
+p27
+I2
+sVbeotch
+p28
+I1
+sVtold
+p29
+I1
+sVmotherfuckin
+p30
+I1
+sVfool
+p31
+I1
+sVdo
+p32
+I1
+sVworkin
+p33
+I1
+sVlivin
+p34
+I1
+sVyo
+p35
+I10
+sVget
+p36
+I11
+sVread
+p37
+I6
+sVbig
+p38
+I1
+sVdope
+p39
+I1
+sVwatch
+p40
+I3
+sVbrownie
+p41
+I15
+sVsmack
+p42
+I1
+sVcrackin
+p43
+I3
+sVsnake
+p44
+I3
+sVstrivin
+p45
+I1
+sVsurprise
+p46
+I1
+sVone
+p47
+I2
+sVchips
+p48
+I1
+sVhall
+p49
+I1
+sVd
+I1
+sVsmash
+p50
+I1
+sVthink
+p51
+I1
+sVlike
+p52
+I1
+sVdrop
+p53
+I1
+sVattitude
+p54
+I1
+sVbay
+p55
+I1
+sVexplode
+p56
+I1
+sVreload
+p57
+I1
+sVwit
+p58
+I1
+sVman
+p59
+I1
+sVwithdrawal
+p60
+I1
+sVquick
+p61
+I1
+sVsleep
+p62
+I1
+sVguy
+p63
+I1
+sVwatchin
+p64
+I1
+sVtweekin
+p65
+I1
+sVwhiffles
+p66
+I1
+sVyall
+p67
+I1
+sVem
+p68
+I3
+sVnigga
+p69
+I2
+sVold
+p70
+I2
+sVdump
+p71
+I1
+sVhouse
+p72
+I1
+sVthrowin
+p73
+I1
+sVyeah
+p74
+I7
+sVsteaks
+p75
+I3
+sVsee
+p76
+I2
+sVfist
+p77
+I1
+sVhoes
+p78
+I1
+sVclose
+p79
+I1
+sVbest
+p80
+I3
+sVsubject
+p81
+I1
+sVtry
+p82
+I4
+sVwhat
+p83
+I3
+sVgon
+p84
+I1
+sVballa
+p85
+I1
+sVcrooked
+p86
+I3
+sVtakin
+p87
+I1
+sVtube
+p88
+I1
+sVgrindin
+p89
+I1
+sVmines
+p90
+I1
+sVice
+p91
+I3
+sVeverything
+p92
+I1
+sVlaid
+p93
+I1
+sVstuff
+p94
+I1
+sVsocalled
+p95
+I3
+sVplaya
+p96
+I2
+sVit
+p97
+I4
+sVgot
+p98
+I8
+sVcause
+p99
+I2
+sVknife
+p100
+I3
+sVhustle
+p101
+I1
+sVass
+p102
+I9
+sVrun
+p103
+I1
+sVshit
+p104
+I3
+sVblunder
+p105
+I1
+sVproblems
+p106
+I1
+sVnever
+p107
+I2
+sVmotherfucker
+p108
+I2
+sVjr
+p109
+I14
+sVblame
+p110
+I1
+sVpressure
+p111
+I3
+sVlet
+p112
+I1
+sVelement
+p113
+I1
+sVput
+p114
+I5
+sVfetti
+p115
+I1
+sVpissed
+p116
+I1
+sVseein
+p117
+I1
+sVhell
+p118
+I1
+sVabout
+p119
+I1
+sVcreeps
+p120
+I1
+sVshovin
+p121
+I1
+sVill
+p122
+I1
+sVe40
+p123
+I2
+sVkeep
+p124
+I1
+sVpolitickin
+p125
+I3
+sVplace
+p126
+I1
+sVretail
+p127
+I1
+sVwhole
+p128
+I3
+sVstuck
+p129
+I1
+sVfuckin
+p130
+I5
+sVthats
+p131
+I1
+sVreside
+p132
+I1
+sVnamed
+p133
+I1
+sVmotherfuckers
+p134
+I1
+sVwhats
+p135
+I4
+sVdont
+p136
+I3
+sVfamily
+p137
+I1
+sVowe
+p138
+I1
+sVnewcomers
+p139
+I1
+sVbrp
+p140
+I1
+sVwhatd
+p141
+I1
+sVdone
+p142
+I5
+sVbitch
+p143
+I4
+sVlaugh
+p144
+I3
+sVnostrils
+p145
+I1
+sVtruckloads
+p146
+I1
+sVchopped
+p147
+I1
+sVlaw
+p148
+I1
+sVbrownies
+p149
+I1
+sVgoin
+p150
+I3
+sVarea
+p151
+I1
+sVcaught
+p152
+I1
+sVdude
+p153
+I3
+sVname
+p154
+I2
+sVmerrier
+p155
+I1
+sVfellas
+p156
+I1
+sVcall
+p157
+I2
+sVlot
+p158
+I1
+sVtryin
+p159
+I2
+sVeyes
+p160
+I3
+sVstomach
+p161
+I1
+sVpimpin
+p162
+I1
+sVspit
+p163
+I2
+sVporch
+p164
+I1
+sVbrings
+p165
+I1
+sVserve
+p166
+I1
+sVooh
+p167
+I1
+sVback
+p168
+I4
+sVdumpdropclip
+p169
+I1
+sVgain
+p170
+I2
+sVbroke
+p171
+I1
+sVhatin
+p172
+I1
+sVcatch
+p173
+I2
+sVcareful
+p174
+I1
+sVwomen
+p175
+I1
+sVkind
+p176
+I1
+sVmade
+p177
+I1
+sVcouple
+p178
+I1
+sV14
+p179
+I1
+sVrights
+p180
+I7
+sVthis
+p181
+I1
+sVsplit
+p182
+I1
+sVinside
+p183
+I1
+sVblade
+p184
+I1
+sVup
+p185
+I1
+sVniggaz
+p186
+I11
+sVbroads
+p187
+I1
+sVoverheard
+p188
+I1
+sVknives
+p189
+I3
+sVdane
+p190
+I1
+sVta
+p191
+I2
+sVwatoo
+p192
+I1
+sVclip
+p193
+I1
+sVplayed
+p194
+I2
+sVtaste
+p195
+I1
+sVhypnotized
+p196
+I1
+sVfuck
+p197
+I2
+sVwasnt
+p198
+I1
+sVway
+p199
+I3
+sVim
+p200
+I2
+sVrollin
+p201
+I3
+sVgeekin
+p202
+I1
+sVniggazll
+p203
+I4
+sVtake
+p204
+I4
+sVdoe
+p205
+I1
+sVsaw
+p206
+I1
+sVlucked
+p207
+I1
+sVworse
+p208
+I1
+sVkotex
+p209
+I1
+sVtough
+p210
+I1
+sVkriskrossed
+p211
+I1
+sVthinkin
+p212
+I1
+sVtight
+p213
+I1
+sVhella
+p214
+I1
+sVniece
+p215
+I1
+sVkhadafi
+p216
+I1
+sVsevenohseven
+p217
+I1
+sVyou
+p218
+I1
+sVtalkin
+p219
+I2
+sVnice
+p220
+I3
+sVsell
+p221
+I1
+sVshitted
+p222
+I1
+sVtried
+p223
+I4
+sVstop
+p224
+I1
+sVcheat
+p225
+I1
+sVupon
+p226
+I1
+sVbraggin
+p227
+I1
+sVpaid
+p228
+I1
+sVstripes
+p229
+I8
+sVa1
+p230
+I1
+sVwrong
+p231
+I3
+sVstab
+p232
+I3
+sVstripe
+p233
+I1
+sVbluff
+p234
+I1
+sVtaco
+p235
+I1
+sVfucked
+p236
+I2
+sVfinst
+p237
+I1
+sVmack
+p238
+I11
+sVcollar
+p239
+I3
+sVfair
+p240
+I1
+sVfo
+p241
+I2
+sVsomethin
+p242
+I1
+sVtizznelevision
+p243
+I1
+sVvice
+p244
+I3
+sVmobb
+p245
+I1
+sVcharlie
+p246
+I1
+sVlife
+p247
+I4
+sVgame
+p248
+I3
+sVnothin
+p249
+I4
+sVface
+p250
+I1
+sVpipe
+p251
+I3
+sVpoints
+p252
+I16
+sVgreen
+p253
+I1
+sVflame
+p254
+I1
+sVtime
+p255
+I2
+sVfirst
+p256
+I1
+sVmic
+p257
+I1
+sVknow
+p258
+I3
+s.

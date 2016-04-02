@@ -1,84 +1,440 @@
-"wake it up" lyrics
-e-40 lyrics
-"wake it up"
-(feat. akon)
-akon! and e-40...yeah....
-i know you aint used to havin real niggas around like me around
-i'm here to change to your whole life girl, so you don't deal with clowns
-and treat you like a superstar that you are
-casue i'm a superstar too and i know exactly what i must do to make you...
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-i keep it 100's, don't carry nothing but 100's
-i'm trying to wake it up, i'm on your line like vonage
-i'm a real one, ma!
-get rid of that clown, get with a factor
-patna don't count, he a lame he don't matter
-shining like a big dipper, glowing like a star
-lookin up a paw, pullin up in my car
-walked right up to the front where the bosses park at
-i got a cold mouth piece can talk a chick out her check
-security loves me, let me in with no sweat
-i see asian persuasion, caucasian, all kinds of chicks
-milk skin, chocolate boned, lambs and haitians
-tryna take me something home and have some relation
-i know you aint used to havin real niggas around like me around
-i'm here to change to your whole life girl, so you don't deal with clowns
-and treat you like a superstar that you are
-casue i'm a superstar too and i know exactly what i must do to make you...
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-good god almighty! look at that body
-what you holdin? girl you a banger!
-you ain't off the back porch, you're off the hanger!
-you working with something, you gotta personal trainer?
-whole crew fine but you're one of a kind
-you a ten piece, shawty you a dime
-back that thang up, baby press rewind
-imma scorpio, shawty whats your sign?
-i'm just tryna know you, hold a conversation
-spoil you a lil', lightweight cupcakin'
-spend a lil gouda, get your hair done up
-imma show you how a tycoon wake that thang up
-i know you aint used to havin real niggas around like me around
-i'm here to change to change your whole life girl, so you don't deal with clowns
-and treat you like a superstar that you are
-casue i'm a superstar too and i know exactly what i must do to make you...
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-don't stop get it get it, bout' to jump up all in it
-love the way you drop low and bend it
-girl you're killing me, wait a minute
-love the way you that shake it up
-too natural you to make it up
-won't be long till we wake it up
-i know you aint used to havin real niggas around like me around
-i'm here to change to change your whole life girl, so you don't deal with clowns
-and treat you like a superstar that you are
-casue i'm a superstar too and i know exactly what i must do to make you...
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
-feel! i'm about to wake it up!
-feel! see i'm about to wake it up!
-feel! i'm about to wake it up!
-don't it feel so good girl
+(dp1
+Vchicks
+p2
+I1
+sVlyrics
+p3
+I2
+sVbanger
+p4
+I1
+sVpress
+p5
+I1
+sVrelation
+p6
+I1
+sVasian
+p7
+I1
+sVskin
+p8
+I1
+sVlove
+p9
+I2
+sVcold
+p10
+I1
+sVconversation
+p11
+I1
+sVfeat
+p12
+I1
+sVmilk
+p13
+I1
+sVaint
+p14
+I5
+sVhold
+p15
+I1
+sVpersonal
+p16
+I1
+sVthang
+p17
+I2
+sVshow
+p18
+I1
+sVcrew
+p19
+I1
+sVhavin
+p20
+I4
+sVdipper
+p21
+I1
+sVfactor
+p22
+I1
+sVbout
+p23
+I1
+sVta
+p24
+I1
+sVreal
+p25
+I5
+sVgood
+p26
+I9
+sVaround
+p27
+I8
+sVget
+p28
+I5
+sVbig
+p29
+I1
+sVstop
+p30
+I1
+sVkind
+p31
+I1
+sVknow
+p32
+I9
+sVgot
+p33
+I2
+sVfront
+p34
+I1
+sVboned
+p35
+I1
+sVminute
+p36
+I1
+sVwont
+p37
+I1
+sVlike
+p38
+I11
+sVdrop
+p39
+I1
+sVclown
+p40
+I1
+sVclowns
+p41
+I4
+sVchick
+p42
+I1
+sVsecurity
+p43
+I1
+sVright
+p44
+I1
+sVdeal
+p45
+I4
+sVshake
+p46
+I1
+sVback
+p47
+I2
+sVsign
+p48
+I1
+sVhair
+p49
+I1
+sVsee
+p50
+I9
+sVstar
+p51
+I1
+sVgirl
+p52
+I14
+sVgouda
+p53
+I1
+sVshining
+p54
+I1
+sVgod
+p55
+I1
+sVholdin
+p56
+I1
+sVbosses
+p57
+I1
+sV100s
+p58
+I2
+sVcaucasian
+p59
+I1
+sVbody
+p60
+I1
+sVakon
+p61
+I2
+sVlet
+p62
+I1
+sVspoil
+p63
+I1
+sVkilling
+p64
+I1
+sVchange
+p65
+I6
+sVwait
+p66
+I1
+sVsuperstar
+p67
+I8
+sVkeep
+p68
+I1
+sVimma
+p69
+I2
+sVhaitians
+p70
+I1
+sVlookin
+p71
+I1
+sVvonage
+p72
+I1
+sVpullin
+p73
+I1
+sVwhole
+p74
+I5
+sVtrainer
+p75
+I1
+sVwhats
+p76
+I1
+sVdont
+p77
+I16
+sVfeel
+p78
+I32
+sVone
+p79
+I2
+sVhanger
+p80
+I1
+sVdone
+p81
+I1
+sVcarry
+p82
+I1
+sVfine
+p83
+I1
+sVten
+p84
+I1
+sVworking
+p85
+I1
+sVlong
+p86
+I1
+sValmighty
+p87
+I1
+sVtreat
+p88
+I4
+sVway
+p89
+I2
+sVcasue
+p90
+I4
+sVpatna
+p91
+I1
+sVtryna
+p92
+I2
+sVlife
+p93
+I4
+sVporch
+p94
+I1
+sVexactly
+p95
+I4
+sVpark
+p96
+I1
+sVchocolate
+p97
+I1
+sVwake
+p98
+I29
+sVlow
+p99
+I1
+sVbaby
+p100
+I1
+sVline
+p101
+I1
+sVtrying
+p102
+I1
+sVmust
+p103
+I4
+sVcount
+p104
+I1
+sVjump
+p105
+I1
+sVe40
+p106
+I1
+sVma
+p107
+I1
+sVlook
+p108
+I1
+sVniggas
+p109
+I4
+sVcar
+p110
+I1
+sVup
+p111
+I2
+sVmatter
+p112
+I1
+sVloves
+p113
+I1
+sVpiece
+p114
+I2
+sVbend
+p115
+I1
+sVyoure
+p116
+I3
+sVlightweight
+p117
+I1
+sVtycoon
+p118
+I1
+sVe40yeah
+p119
+I1
+sVim
+p120
+I36
+sVsomething
+p121
+I2
+sVhome
+p122
+I1
+sVrid
+p123
+I1
+sVlambs
+p124
+I1
+sVlame
+p125
+I1
+sVlil
+p126
+I2
+sVmake
+p127
+I5
+sVcheck
+p128
+I1
+sVtill
+p129
+I1
+sVglowing
+p130
+I1
+sVtake
+p131
+I1
+sVrewind
+p132
+I1
+sVshawty
+p133
+I2
+sVpersuasion
+p134
+I1
+sVsweat
+p135
+I1
+sVused
+p136
+I4
+sVkinds
+p137
+I1
+sVdime
+p138
+I1
+sVmouth
+p139
+I1
+sVnothing
+p140
+I1
+sVnatural
+p141
+I1
+sVscorpio
+p142
+I1
+sVpaw
+p143
+I1
+sVwalked
+p144
+I1
+sVspend
+p145
+I1
+sVcupcakin
+p146
+I1
+sVtalk
+p147
+I1
+s.

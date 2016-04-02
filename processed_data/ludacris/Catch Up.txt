@@ -1,81 +1,648 @@
-"catch up" lyrics
-ludacris lyrics
-"catch up"
-(feat. infamous 2-d & fate wilson)
-all this drinking gon catch up
-and all this smoking gon catch up
-but some niggaz just really don't give a fuck
-but some niggaz just relly don't give a fuck
-and all this drinking gon catch up
-and all this smoking gon catch up
-but some bitches just really don't give a fuck
-but some bitches just really don't give a fuck
-now let me be quite frank
-cause i'm that crazy nigga luda
-always got a drink
-and i'm steady smoking buddah
-i do the
-evil that'll bend you when i get you
-i'mma sit you down
-then take it to the mental and essential and clown
-every chance i get
-bitch i'm hit
-not by no bullet or no pellet
-but the smoke from the can a beer shit
-i might just be too high
-then i put my middle finger up when i'm ridin' by
-and say hi to plenty liquors and i know it's a sin
-and if ya tell me stop drinking i'll just do it again
-so when i get old i'mma rock, roll, shake, and shiver
-with some blacked out lungs and a fucked up liver
-ey yo i do this for bluntheads and whinos
-steward ave. homes
-niggaz from g-ro committed to slanging blo
-doublin' dough 24-7
-fuck po-po's i'm blowin' dro out the ac legend
-runnin wit 2 strike felons
-and i pack 4-4's like hank aaron
-then'll smoke a l
-bust shells
-and dare ya to tell
-walk up in the club
-pretty thug
-fucked up off head shots
-sippin' courvousier watchin' hoes drop it like it's
-hot
-shaking tits and twats
-placing big face 20's and cock
-loading clips and glocks
-knowing we got the haters hot
-the ballin' don't stop
-just drop more g's on drink and drugs
-live it up young nigga cause it's gon' catch up
-now wit the help of hen and coke
-i grab my pen and pad and wrote
-something that i knew was dope
-and represent for my kinfolk
-pimp a hoe until she broke
-wit mo lines than chopped coke
-ey yo it's 2-0 i'm eastside's king
-but i'm a writer with a twist of amaretta
-my shit even come out better
-grab a blunt put it together
-what a nigga really need
-run up in the club and blow a motherfucker til he
-bleed
-could it be an icehouse put his lights out
-or the club get closed out
-if it's hoes out i show out
-call tyheed get dro'd out
-there's no doubt i love my life
-love the light
-love to write
-love the mic
-so take a drag
-grab a bag and match up
-hennessey and bad weed
-believe me it catch up
-git it right
-ludacris, f.a.t.e. fullster, infamous 2-0, atl
-we are the dirty south's dirtiest.  disturbing the peace.
-hey bring on the bitches!!
+(dp1
+Vrepresent
+p2
+I1
+sVgs
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I2
+sVdirtiest
+p7
+I1
+sVbring
+p8
+I1
+sVdough
+p9
+I1
+sVshake
+p10
+I1
+sVfeat
+p11
+I1
+sVits
+p12
+I1
+sVblow
+p13
+I1
+sVwrite
+p14
+I1
+sVloading
+p15
+I1
+sV20
+p16
+I2
+sVrelly
+p17
+I1
+sVblowin
+p18
+I1
+sVimma
+p19
+I2
+sVwriter
+p20
+I1
+sVyoung
+p21
+I1
+sVbust
+p22
+I1
+sVbetter
+p23
+I1
+sVaaron
+p24
+I1
+sVpretty
+p25
+I1
+sVhennessey
+p26
+I1
+sVmight
+p27
+I1
+sVmatch
+p28
+I1
+sVhit
+p29
+I1
+sVyo
+p30
+I2
+sVget
+p31
+I5
+sVya
+p32
+I2
+sVbig
+p33
+I1
+sVtwats
+p34
+I1
+sVstop
+p35
+I2
+sVevery
+p36
+I1
+sVknow
+p37
+I1
+sV2
+I1
+sVdrinking
+p38
+I3
+sVpellet
+p39
+I1
+sVdare
+p40
+I1
+sVlike
+p41
+I2
+sVpimp
+p42
+I1
+sValways
+p43
+I1
+sVdrop
+p44
+I2
+sVl
+I1
+sVclown
+p45
+I1
+sVsin
+p46
+I1
+sV2d
+p47
+I1
+sVbag
+p48
+I1
+sVbad
+p49
+I1
+sVshots
+p50
+I1
+sVrock
+p51
+I1
+sVgrab
+p52
+I3
+sVshaking
+p53
+I1
+sVessential
+p54
+I1
+sVwrote
+p55
+I1
+sVdrod
+p56
+I1
+sVdoublin
+p57
+I1
+sVnigga
+p58
+I3
+sVold
+p59
+I1
+sVmental
+p60
+I1
+sV44s
+p61
+I1
+sVdoubt
+p62
+I1
+sVcommitted
+p63
+I1
+sVatl
+p64
+I1
+sVey
+p65
+I2
+sVpopos
+p66
+I1
+sVhoes
+p67
+I2
+sVbluntheads
+p68
+I1
+sVdisturbing
+p69
+I1
+sVreally
+p70
+I4
+sVeven
+p71
+I1
+sVmotherfucker
+p72
+I1
+sVgon
+p73
+I5
+sVballin
+p74
+I1
+sVlights
+p75
+I1
+sVblo
+p76
+I1
+sVfullster
+p77
+I1
+sVfinger
+p78
+I1
+sVclosed
+p79
+I1
+sVgot
+p80
+I2
+sVcause
+p81
+I2
+sVwatchin
+p82
+I1
+sVknowing
+p83
+I1
+sVbleed
+p84
+I1
+sVfelons
+p85
+I1
+sVrun
+p86
+I1
+sVcourvousier
+p87
+I1
+sVbuddah
+p88
+I1
+sVfrank
+p89
+I1
+sVridin
+p90
+I1
+sVquite
+p91
+I1
+sVliquors
+p92
+I1
+sV247
+p93
+I1
+sVlet
+p94
+I1
+sVput
+p95
+I3
+sVcome
+p96
+I1
+sVby
+p97
+I1
+sVtwist
+p98
+I1
+sVill
+p99
+I1
+sVglocks
+p100
+I1
+sVdrag
+p101
+I1
+sVsteward
+p102
+I1
+sVsmoke
+p103
+I2
+sVtheres
+p104
+I1
+sVking
+p105
+I1
+sVchopped
+p106
+I1
+sVlove
+p107
+I4
+sVdont
+p108
+I5
+sVac
+p109
+I1
+sVwalk
+p110
+I1
+sVdown
+p111
+I1
+sVwit
+p112
+I3
+sVbitch
+p113
+I1
+sVright
+p114
+I1
+sVwhinos
+p115
+I1
+sVhey
+p116
+I1
+sVgit
+p117
+I1
+sVshells
+p118
+I1
+sV20s
+p119
+I1
+sVplacing
+p120
+I1
+sVlive
+p121
+I1
+sVlegend
+p122
+I1
+sVbeer
+p123
+I1
+sVshiver
+p124
+I1
+sVcall
+p125
+I1
+sVstrike
+p126
+I1
+sVhen
+p127
+I1
+sVtell
+p128
+I2
+sVhead
+p129
+I1
+sVlungs
+p130
+I1
+sVbelieve
+p131
+I1
+sVclub
+p132
+I3
+sVcoke
+p133
+I2
+sVbitches
+p134
+I3
+sVhi
+p135
+I1
+sVkinfolk
+p136
+I1
+sVliver
+p137
+I1
+sVbroke
+p138
+I1
+sVcatch
+p139
+I8
+sVsmoking
+p140
+I3
+sVhaters
+p141
+I1
+sVeastsides
+p142
+I1
+sVhe
+p143
+I1
+sVrunnin
+p144
+I1
+sVhomes
+p145
+I1
+sVneed
+p146
+I1
+sVmo
+p147
+I1
+sVshow
+p148
+I1
+sVup
+p149
+I8
+sVniggaz
+p150
+I3
+sVclips
+p151
+I1
+sVdirty
+p152
+I1
+sVcock
+p153
+I1
+sVcould
+p154
+I1
+sVpack
+p155
+I1
+sVluda
+p156
+I1
+sVcrazy
+p157
+I1
+sVthenll
+p158
+I1
+sVthatll
+p159
+I1
+sVgive
+p160
+I4
+sVlines
+p161
+I1
+sVfuck
+p162
+I5
+sVhigh
+p163
+I1
+sVmiddle
+p164
+I1
+sVsay
+p165
+I1
+sVim
+p166
+I7
+sVbend
+p167
+I1
+sVpen
+p168
+I1
+sVthug
+p169
+I1
+sVave
+p170
+I1
+sVshit
+p171
+I2
+sVagain
+p172
+I1
+sVwilson
+p173
+I1
+sVsippin
+p174
+I1
+sVfate
+p175
+I2
+sVsit
+p176
+I1
+sVmic
+p177
+I1
+sVpeace
+p178
+I1
+sVtil
+p179
+I1
+sVdrugs
+p180
+I1
+sVhot
+p181
+I2
+sVpad
+p182
+I1
+sVtake
+p183
+I2
+sVtits
+p184
+I1
+sVgro
+p185
+I1
+sVyou
+p186
+I1
+sVout
+p187
+I4
+sVblunt
+p188
+I1
+sVroll
+p189
+I1
+sVlife
+p190
+I1
+sVhank
+p191
+I1
+sVblacked
+p192
+I1
+sVsouths
+p193
+I1
+sVdro
+p194
+I1
+sVknew
+p195
+I1
+sVdrink
+p196
+I2
+sVevil
+p197
+I1
+sVweed
+p198
+I1
+sVamaretta
+p199
+I1
+sVchance
+p200
+I1
+sVhoe
+p201
+I1
+sVplenty
+p202
+I1
+sVfucked
+p203
+I2
+sVslanging
+p204
+I1
+sVinfamous
+p205
+I2
+sVdope
+p206
+I1
+sVbullet
+p207
+I1
+sVlight
+p208
+I1
+sVsteady
+p209
+I1
+sVtogether
+p210
+I1
+sVface
+p211
+I1
+sVicehouse
+p212
+I1
+sVtyheed
+p213
+I1
+sVthe
+p214
+I1
+sVsomething
+p215
+I1
+s.

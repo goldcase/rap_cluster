@@ -1,51 +1,449 @@
-"movin' on up" lyrics
-50 cent lyrics
-"movin' on up"
-i run the show now, i got the blow now
-you wanna hold now? you can come cop
-im on the low now, i got the fo' pound
-incase a mother fucker got to get shot
-the only time is coming, slow down
-see they know now, i wont hesitate to make shit hot
-d's will shut your block down, after your shot down
-we gonna come through and set up shop
-you niggas gone work for me now, you gone see now
-how i change shit, re-arrange shit
-see for you dog, this is new shit
-im from southside, nigga we do this
-they say im grimey, its hard to find me
-when sun lighten up the sky
-niggas wanna line me, try and kill me
-go 'head nigga i dare you to try, fuck that nigga!
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
-im 'bout my bread now, ill cut your head now
-you know you eatin' niggas you should be dead now
-i hold a glock down, i gotta drop now
-nigga im eatin' you know i aint gone stop now
-one more trip, one more flip
-i move a truckload nigga, not one brick
-they make me so sick, fuckin' sick to my stomach
-you nigga talk shit, but they know that i want it
-my clicks so sick, niggas know how we on it
-light up more shit, the car there when we on it
-i spit a gem star get'cha name carved into neck
-have my lil homies run up on yo' ass with the tech
-yeah i stunt in the vette , got stash in the vette
-i get head in the whip, i get ass on the jet
-im oh so fresh, so im motha fuckin' clean
-24. inch gleam, when i pull up on the scene
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
-been smokin' that dip, the pcp got 'em thinkin' they can walk on water
-that ecstasy will have a nigga rock hard tryna fuck your daughter
-the lsd will have niggas runnin' round tryna kill you for us
-smokin' that piff, sippin' that yak, talkin' that shit, loadin' that strap
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
-we movin on up, yeah we gettin' that dough, fa' sho'
-we movin on up, you'll get chromed up, cash is flow fa' sho, the dough, nigga you know what?
+(dp1
+Vshop
+p2
+I1
+sVlsd
+p3
+I1
+sVshot
+p4
+I2
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmove
+p7
+I1
+sVdough
+p8
+I12
+sVgo
+p9
+I1
+sVfind
+p10
+I1
+sVblow
+p11
+I1
+sVcut
+p12
+I1
+sVvette
+p13
+I2
+sVpcp
+p14
+I1
+sVloadin
+p15
+I1
+sVsky
+p16
+I1
+sVgem
+p17
+I1
+sVhomies
+p18
+I1
+sVbout
+p19
+I1
+sVta
+p20
+I1
+sVrunnin
+p21
+I1
+sVyo
+p22
+I1
+sVget
+p23
+I9
+sVlighten
+p24
+I1
+sVstop
+p25
+I1
+sVknow
+p26
+I11
+sVsouthside
+p27
+I1
+sVstunt
+p28
+I1
+sVnow
+p29
+I6
+sVds
+p30
+I1
+sVdare
+p31
+I1
+sVbread
+p32
+I1
+sVwont
+p33
+I1
+sVname
+p34
+I1
+sVtruckload
+p35
+I1
+sVgettin
+p36
+I6
+sV50
+p37
+I1
+sVtalkin
+p38
+I1
+sVtry
+p39
+I2
+sVcar
+p40
+I1
+sVkill
+p41
+I2
+sVdip
+p42
+I1
+sVround
+p43
+I1
+sVsho
+p44
+I12
+sVem
+p45
+I1
+sVset
+p46
+I1
+sVhard
+p47
+I2
+sVyeah
+p48
+I7
+sVdead
+p49
+I1
+sVcash
+p50
+I6
+sVsee
+p51
+I3
+sVwhip
+p52
+I1
+sVmovin
+p53
+I14
+sVgon
+p54
+I1
+sVsun
+p55
+I1
+sVnew
+p56
+I1
+sVyoull
+p57
+I6
+sVass
+p58
+I2
+sVaint
+p59
+I1
+sVshut
+p60
+I1
+sVrun
+p61
+I2
+sVgot
+p62
+I6
+sVrock
+p63
+I1
+sVwater
+p64
+I1
+sVslow
+p65
+I1
+sVsmokin
+p66
+I2
+sVcome
+p67
+I2
+sVchange
+p68
+I1
+sVcop
+p69
+I1
+sVdaughter
+p70
+I1
+sVoh
+p71
+I1
+sVstrap
+p72
+I1
+sVill
+p73
+I1
+sVeatin
+p74
+I2
+sVblock
+p75
+I1
+sV24
+p76
+I1
+sVscene
+p77
+I1
+sVone
+p78
+I3
+sVdown
+p79
+I2
+sVnigga
+p80
+I13
+sVwan
+p81
+I2
+sVjet
+p82
+I1
+sVgleam
+p83
+I1
+sVcent
+p84
+I1
+sVlow
+p85
+I1
+sVyak
+p86
+I1
+sVbrick
+p87
+I1
+sVtryna
+p88
+I2
+sVhead
+p89
+I3
+sVglock
+p90
+I1
+sVstomach
+p91
+I1
+sVspit
+p92
+I1
+sVgetcha
+p93
+I1
+sVit
+p94
+I3
+sVline
+p95
+I1
+sVhold
+p96
+I2
+sVme
+p97
+I2
+sVpull
+p98
+I1
+sVniggas
+p99
+I5
+sVthis
+p100
+I1
+sVchromed
+p101
+I6
+sVwork
+p102
+I1
+sVup
+p103
+I1
+sVus
+p104
+I1
+sVgrimey
+p105
+I1
+sVgone
+p106
+I3
+sVpound
+p107
+I1
+sVpiff
+p108
+I1
+sVfuck
+p109
+I2
+sVecstasy
+p110
+I1
+sVsay
+p111
+I1
+sVim
+p112
+I7
+sVcarved
+p113
+I1
+sVwant
+p114
+I1
+sVtrip
+p115
+I1
+sVshit
+p116
+I7
+sVhesitate
+p117
+I1
+sVsippin
+p118
+I1
+sVlil
+p119
+I1
+sVna
+p120
+I3
+sVmake
+p121
+I2
+sVwalk
+p122
+I1
+sVhot
+p123
+I1
+sVsick
+p124
+I3
+sVinch
+p125
+I1
+sVclicks
+p126
+I1
+sVmotha
+p127
+I1
+sVstar
+p128
+I1
+sVflip
+p129
+I1
+sVmother
+p130
+I1
+sVwhat
+p131
+I6
+sVfucker
+p132
+I1
+sVrearrange
+p133
+I1
+sVfa
+p134
+I12
+sVcoming
+p135
+I1
+sVfo
+p136
+I1
+sVdrop
+p137
+I1
+sVneck
+p138
+I1
+sVincase
+p139
+I1
+sVlight
+p140
+I1
+sVflow
+p141
+I6
+sVdog
+p142
+I1
+sVstash
+p143
+I1
+sVtech
+p144
+I1
+sVfuckin
+p145
+I2
+sVclean
+p146
+I1
+sVtime
+p147
+I1
+sVfresh
+p148
+I1
+sVthinkin
+p149
+I1
+sVtalk
+p150
+I1
+s.

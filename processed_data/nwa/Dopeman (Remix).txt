@@ -1,110 +1,863 @@
-"dopeman (remix)" lyrics
-n.w.a. lyrics
-"dopeman (remix)"
-yo dre!!
-it was once said by a man who couldn't quit
-"dopeman," please can i have another hit
-the dopeman said, "cluck, i don't give a shit
-if your girl kneel down, and suck my dick"
-it all happened and the guy tried to choke her
-nigga didn't care, she ain't nothin but a smoker
-that's the way goes, that's the name of the game
-young brother gettin over by slangin 'caine
-gold around his neck in 14 k heaven
-bitches clockin on his dick twenty-four/seven
-plus he's makin money, keep the bassheads waitin
-rollin six-fo' wit the fresh ass daytons
-livin in compton, cailfornia c-a
-his uzi up yo' ass if he don't get paid
-nigga beggin for credit, he's knockin out teeth
-clockin much dollars on the 1st and 15th
-big wad of money nuttin less than a twenty
-yo you want a five-oh the dopeman's got plenty
-to be a dopeman boy you must qualify
-don't get high off your own supply
-from a ki' to a g it's all about money
-ten piece for a champ, bass pipe comes free
-if people out there are not hip to the fact
-if you see somebody gettin money for crack
-he's the
-dopeman, dopeman! (ay man, give me a hit)
-dopeman, dopeman! (yo man, fuck that shit!)
-dopeman, dopeman! (we just can't quit!)
-dopeman, dopeman! (well suck this bitch!)
-wait a minute, wait a minute
-who the fuck are you talkin to?
-do you know who the fuck i am?
-man i can't believe this shit
-this bitch is tryin to gank me
-yo i oughta slap you upside yo' head
-with nine inches of limp dick
-you need a nigga with money so you get a dopeman
-juice that fool for as much as you can
-she like his car, and he get wit her
-got a black eye cause the dopeman hit her
-let that slide and you pay it no mind
-find that he's slappin you all the time
-but that's okay, cause he's so rich
-ain't you ain't nuttin but a dopeman's bitch
-do what he say and you keep your mouth shut
-poppin that trash might get you fucked up
-well sit and cry, if the dopeman strike you
-he don't give a fuck he got two just like you
-there's another girl in the dopeman's life
-not quite a bitch but far from a wife
-she's called strawberry and everybody know
-strawberry strawberry is the neighborhood hoe
-do anything for a hit or two
-give the bitch a rock she fucked the whole damn crew
-it might be your wife and it might make you sick
-come home and see her mouth on the dopeman's dick
-strawberry, just look and you'll see her
-but don't fuck around she'll give you gonnorhea
-if people out there are not hip to the fact
-the strawberry is a girl sellin pussy for crack
-to the
-dopeman, dopeman! (ay man, give me a hit)
-dopeman, dopeman! (yo man, fuck that shit!)
-dopeman, dopeman! (in yo' face)
-dopeman, dopeman! "yo dre!!  kick in the bass!!"
-if you smoke 'caine, you a stupid motherfucker
-known around the hood as the schoolyard clucker
-doin that crack with all the money you got
-on your hands and knees, searchin for a piece of rock
-jonesin for a hit, and you're lookin for mo'
-done stole the alpine out of eazy's six-fo'
-you need your ass whupped cause it's out of this earth
-to get a ten-piece need a dollar fifty work
-knucklehead nigga, yeah you turned into a crook
-but swear up and down boy that you ain't hooked
-you beat your friend up, and you whupped his ass long
-cause he hit the pipe til the rock was all gone
-you robbin and stealin, buggin and illin
-while the dopeman's dealin, what is healin yo' pain
-cocaine, this shit's insane
-yo e she's a berry, let's run a train
-(man, i wouldn't touch that bitch) me neither
-hoe go home and wash out your beaver
-and niggaz out there messin up people's health
-yo, what the fuck you gotta say for yourself?
-well i'm the dopeman, yeah boy, wear a courderoy
-money up to here but unemployed
-you keep smokin that rock and my pockets gettin bigger
-(yo, got that five-oh double up nigga!)
-yeah high rollin, big money i'm foldin
-bitch on my tip for the dick i'm holdin
-sprung strawberry jockin me so early
-hoe you wanna hit you gotta get your knees dirty
-now that's my life, that's how it's cut
-"hey dopeman!"  bitch, shut the fuck up!
-gotta make a run, it's a big money deal
-gankers got the fake but you can get the real
-from the
-dopeman, dopeman! (yeah that's me)
-dopeman, dopeman! (yo can i get a g?)
-dopeman, dopeman! (clock as much as he can)
-fuck this shit who am i?  the dopeman!
-yo mr. dopeman, you think you're slick
-you sold crack to my sister, and now she's sick
-but if she happens to die, because of your drug
-i'm puttin in your coolo, a thirty-eight slug
+(dp1
+Vjockin
+p2
+I1
+sVsmokin
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVmoney
+p6
+I9
+sVhands
+p7
+I1
+sVdollar
+p8
+I1
+sVfifty
+p9
+I1
+sVnwa
+p10
+I1
+sVdie
+p11
+I1
+sVtouch
+p12
+I1
+sVgank
+p13
+I1
+sVfind
+p14
+I1
+sVuzi
+p15
+I1
+sVaint
+p16
+I4
+sVcut
+p17
+I1
+sVgold
+p18
+I1
+sVthirtyeight
+p19
+I1
+sVpockets
+p20
+I1
+sVdick
+p21
+I5
+sVpoppin
+p22
+I1
+sVyoung
+p23
+I1
+sVgankers
+p24
+I1
+sVcrew
+p25
+I1
+sVbeat
+p26
+I1
+sVto
+p27
+I1
+sVlets
+p28
+I1
+sVblack
+p29
+I1
+sVbigger
+p30
+I1
+sVrich
+p31
+I1
+sVcrack
+p32
+I4
+sValpine
+p33
+I1
+sVmight
+p34
+I3
+sVlimp
+p35
+I1
+sVkick
+p36
+I1
+sVhappened
+p37
+I1
+sVhip
+p38
+I2
+sVinsane
+p39
+I1
+sVcoolo
+p40
+I1
+sVhit
+p41
+I8
+sVaround
+p42
+I3
+sVyo
+p43
+I15
+sVget
+p44
+I9
+sVfar
+p45
+I1
+sVbig
+p46
+I3
+sVunemployed
+p47
+I1
+sVearly
+p48
+I1
+sVgame
+p49
+I1
+sVknow
+p50
+I2
+sVcaine
+p51
+I2
+sVmessin
+p52
+I1
+sVillin
+p53
+I1
+sVminute
+p54
+I2
+sVlike
+p55
+I2
+sVbeggin
+p56
+I1
+sVheaven
+p57
+I1
+sVname
+p58
+I1
+sVknockin
+p59
+I1
+sVcalled
+p60
+I1
+sVyoull
+p61
+I1
+sVwhupped
+p62
+I2
+sVgettin
+p63
+I3
+sVbrother
+p64
+I1
+sVrobbin
+p65
+I1
+sVslide
+p66
+I1
+sVbassheads
+p67
+I1
+sVholdin
+p68
+I1
+sVkneel
+p69
+I1
+sVrock
+p70
+I4
+sVdone
+p71
+I1
+sVguy
+p72
+I1
+sVcry
+p73
+I1
+sVslappin
+p74
+I1
+sVsprung
+p75
+I1
+sVnigga
+p76
+I5
+sVnuttin
+p77
+I2
+sVoughta
+p78
+I1
+sVten
+p79
+I1
+sVpeople
+p80
+I2
+sVtenpiece
+p81
+I1
+sVyeah
+p82
+I4
+sVup
+p83
+I2
+sVcrook
+p84
+I1
+sVsee
+p85
+I3
+sVshes
+p86
+I3
+sVgo
+p87
+I1
+sVearth
+p88
+I1
+sVhome
+p89
+I2
+sVgirl
+p90
+I3
+sVhappens
+p91
+I1
+sVknees
+p92
+I2
+sVsaid
+p93
+I2
+sVclock
+p94
+I1
+sVplease
+p95
+I1
+sVeazys
+p96
+I1
+sVwouldnt
+p97
+I1
+sVstupid
+p98
+I1
+sVhealth
+p99
+I1
+sVgoes
+p100
+I1
+sVgot
+p101
+I9
+sVneither
+p102
+I1
+sVcause
+p103
+I4
+sVsold
+p104
+I1
+sV15th
+p105
+I1
+sVdopeman
+p106
+I34
+sVass
+p107
+I4
+sVslangin
+p108
+I1
+sVshut
+p109
+I2
+sVrun
+p110
+I2
+sVbass
+p111
+I2
+sVwan
+p112
+I1
+sVturned
+p113
+I1
+sVmotherfucker
+p114
+I1
+sVfree
+p115
+I1
+sVquite
+p116
+I1
+sVta
+p117
+I3
+sVqualify
+p118
+I1
+sVlet
+p119
+I1
+sVwear
+p120
+I1
+sVschoolyard
+p121
+I1
+sVcome
+p122
+I1
+sVslug
+p123
+I1
+sVcare
+p124
+I1
+sVboy
+p125
+I3
+sVsister
+p126
+I1
+sVjonesin
+p127
+I1
+sVputtin
+p128
+I1
+sVg
+I2
+sVsearchin
+p129
+I1
+sVk
+I1
+sVcompton
+p130
+I1
+sVchoke
+p131
+I1
+sVyourself
+p132
+I1
+sVkeep
+p133
+I3
+sVcredit
+p134
+I1
+sVswear
+p135
+I1
+sVplus
+p136
+I1
+sVberry
+p137
+I1
+sVsmoke
+p138
+I1
+sVdealin
+p139
+I1
+sVreal
+p140
+I1
+sVdre
+p141
+I2
+sVthink
+p142
+I1
+sVcomes
+p143
+I1
+sVthats
+p144
+I6
+sVfake
+p145
+I1
+sVlookin
+p146
+I1
+sVna
+p147
+I1
+sVdont
+p148
+I5
+sVsupply
+p149
+I1
+sVpussy
+p150
+I1
+sVca
+p151
+I1
+sVmakin
+p152
+I1
+sVtwentyfourseven
+p153
+I1
+sVwash
+p154
+I1
+sVwit
+p155
+I2
+sVchamp
+p156
+I1
+sVbitch
+p157
+I8
+sVanother
+p158
+I2
+sV1st
+p159
+I1
+sVhooked
+p160
+I1
+sVneighborhood
+p161
+I1
+sVcouldnt
+p162
+I1
+sVcocaine
+p163
+I1
+sVgonnorhea
+p164
+I1
+sVhey
+p165
+I1
+sVhood
+p166
+I1
+sVeverybody
+p167
+I1
+sVquit
+p168
+I2
+sVeye
+p169
+I1
+sVdeal
+p170
+I1
+sVhes
+p171
+I5
+sVdouble
+p172
+I1
+sVtwenty
+p173
+I1
+sVfoldin
+p174
+I1
+sVwad
+p175
+I1
+sVtwo
+p176
+I2
+sVlong
+p177
+I1
+sVsixfo
+p178
+I2
+sVmuch
+p179
+I3
+sVdamn
+p180
+I1
+sVway
+p181
+I1
+sVtime
+p182
+I1
+sVstrike
+p183
+I1
+sVwait
+p184
+I2
+sVfriend
+p185
+I1
+sVclucker
+p186
+I1
+sVhead
+p187
+I1
+sVshell
+p188
+I1
+sVinches
+p189
+I1
+sVcluck
+p190
+I1
+sVcailfornia
+p191
+I1
+sVbitches
+p192
+I1
+sVshits
+p193
+I1
+sVtrain
+p194
+I1
+sVknown
+p195
+I1
+sVbelieve
+p196
+I1
+sVpain
+p197
+I1
+sVmust
+p198
+I1
+sVme
+p199
+I2
+sVtryin
+p200
+I1
+sV14
+p201
+I1
+sVknucklehead
+p202
+I1
+sVjuice
+p203
+I1
+sVcar
+p204
+I1
+sVmo
+p205
+I1
+sVwork
+p206
+I1
+sVsay
+p207
+I2
+sVniggaz
+p208
+I1
+sVstrawberry
+p209
+I6
+sVnine
+p210
+I1
+sVdirty
+p211
+I1
+sVmr
+p212
+I1
+sVpiece
+p213
+I2
+sVdidnt
+p214
+I1
+sVdollars
+p215
+I1
+sVtheres
+p216
+I1
+sVfool
+p217
+I1
+sVyoure
+p218
+I2
+sVclockin
+p219
+I2
+sVgive
+p220
+I6
+sVcan
+p221
+I1
+sVmind
+p222
+I1
+sVfuck
+p223
+I9
+sVslap
+p224
+I1
+sVcourderoy
+p225
+I1
+sVhigh
+p226
+I2
+sVneed
+p227
+I3
+sVcant
+p228
+I2
+sVim
+p229
+I4
+sVnothin
+p230
+I1
+sVwant
+p231
+I1
+sVbeaver
+p232
+I1
+sVay
+p233
+I2
+sVsomebody
+p234
+I1
+sVstole
+p235
+I1
+sVshit
+p236
+I5
+sVlivin
+p237
+I1
+sVgone
+p238
+I1
+sVhealin
+p239
+I1
+sVhoe
+p240
+I3
+sVsit
+p241
+I1
+sVpay
+p242
+I1
+sVmake
+p243
+I2
+sVtip
+p244
+I1
+sVdopemans
+p245
+I5
+sVstealin
+p246
+I1
+sVtil
+p247
+I1
+sVanything
+p248
+I1
+sVsick
+p249
+I2
+sVpeoples
+p250
+I1
+sVyou
+p251
+I1
+sVtrash
+p252
+I1
+sVtalkin
+p253
+I1
+sVlife
+p254
+I2
+sVwaitin
+p255
+I1
+sVslick
+p256
+I1
+sVokay
+p257
+I1
+sVtried
+p258
+I1
+sVdoin
+p259
+I1
+sVdaytons
+p260
+I1
+sVpaid
+p261
+I1
+sVmouth
+p262
+I2
+sVplenty
+p263
+I1
+sVfucked
+p264
+I2
+sVsuck
+p265
+I2
+sVman
+p266
+I7
+sVremix
+p267
+I2
+sVe
+I1
+sVneck
+p268
+I1
+sVwife
+p269
+I2
+sVwhole
+p270
+I1
+sVki
+p271
+I1
+sVsellin
+p272
+I1
+sVwell
+p273
+I3
+sVsmoker
+p274
+I1
+sVrollin
+p275
+I2
+sVface
+p276
+I1
+sVpipe
+p277
+I2
+sVlook
+p278
+I1
+sVbuggin
+p279
+I1
+sVfiveoh
+p280
+I2
+sVupside
+p281
+I1
+sVdrug
+p282
+I1
+sVteeth
+p283
+I1
+sVfresh
+p284
+I1
+sVthe
+p285
+I3
+sVfact
+p286
+I2
+s.

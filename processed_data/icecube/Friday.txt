@@ -1,65 +1,571 @@
-"friday" lyrics
-ice cube lyrics
-"friday"
-you know it ain't no stoppin all tha doggs i'm droppin
-it's friday night so everythang is poppin.
-i got skin lets spin on da hand,
-so let tha games begin.
-yakity yak don't jump back or its on,
-callin up earl on tha car phone.
-mack 10 just got out of court,
-rollin through tha hood in his super sport ropin too $hort.
-eighteens got tha rearview mirrors vibratin,
-and deep dish daytons.
-you know how we do it,
-ain't nuttin to it but tha floss,
-overcrowdin harrison walks.
-'cuz if ya fuck wit ours,
-we leave scars,
-out of g ride cars,
-livin like stars.
-might hit tha highway,
-on tha vegas run fool 'cuz its friday.
-oh yeah, throw ya neighborhood in tha air,
-if ya don't care.
-standin outside on a friday livin on tha edge,
-'cuz we all got 'dem hard heads.
-it's seems like we all are waitin,
-for a drive by playin tag wit satan.
-but we chillin yeah we ready and willin,
-ya hear about tha latest westside killin.
-forty sippin,
-set trippin,
-fo' dippin,
-get tha grip in,
-neva slippin.
-bg's tryin tah hang out,
-but og said take ya little ass in tha house.
-my big homey just got out,
-used tah be down now he's just crack ad.
-he's bout hard as darth vada
-in his sweat shirt, khakis and chuck taylors.
-just see him in the drive way,
-gettin beat like a smoka fool 'cuz it's friday.
-why must i be like dat and chase da cat,
-or settle for a hoodrat.
-dookie braids no dreadlocks,
-flyin in and out of jail have a chicken and a cock.
-and i love her 'cuz she down,
-tah fuck around wit tha underground pussyhound.
-and her ass is big round and wide,
-jacked up makin nigga down tah ride.
-smokin indo,
-playin dat super nintendo,
-hear a rat tat tat on my window.
-gave her ass dat pelvic thrust,
-don't trust tha rubber 'cuz its bound tah bust.
-in tha oven in tha nappy,
-i had on two so i was happy.
-'cuz dat hiv'll make ya dick hang sideways,
-and dat ain't cool fool 'cuz its friday.
-throw tha west side in da air,
-throw tha east side in da air,
-throw tha south side in da air,
-throw tha north side in da air.
-oh yeah!
+(dp1
+Vstandin
+p2
+I1
+sVropin
+p3
+I1
+sVlyrics
+p4
+I2
+sVharrison
+p5
+I1
+sVskin
+p6
+I1
+sVdish
+p7
+I1
+sVchicken
+p8
+I1
+sVchillin
+p9
+I1
+sVaint
+p10
+I3
+sVdick
+p11
+I1
+sVpoppin
+p12
+I1
+sVcuz
+p13
+I8
+sVbust
+p14
+I1
+sVlets
+p15
+I1
+sVsatan
+p16
+I1
+sVcrack
+p17
+I1
+sVours
+p18
+I1
+sVbout
+p19
+I1
+sVeast
+p20
+I1
+sVmight
+p21
+I1
+sVgave
+p22
+I1
+sVfool
+p23
+I3
+sVcallin
+p24
+I1
+sVhit
+p25
+I1
+sVlivin
+p26
+I2
+sVoutside
+p27
+I1
+sVya
+p28
+I6
+sVbig
+p29
+I2
+sVwillin
+p30
+I1
+sVhoodrat
+p31
+I1
+sVda
+p32
+I6
+sVdat
+p33
+I5
+sVvegas
+p34
+I1
+sVknow
+p35
+I2
+sVcool
+p36
+I1
+sVearl
+p37
+I1
+sVtrippin
+p38
+I1
+sVlike
+p39
+I4
+sVgettin
+p40
+I1
+sVchuck
+p41
+I1
+sVleave
+p42
+I1
+sVsettle
+p43
+I1
+sVnight
+p44
+I1
+sVround
+p45
+I1
+sVset
+p46
+I1
+sVnuttin
+p47
+I1
+sVdookie
+p48
+I1
+sVhouse
+p49
+I1
+sVhard
+p50
+I2
+sVdarth
+p51
+I1
+sVback
+p52
+I1
+sVaround
+p53
+I1
+sVjump
+p54
+I1
+sVslippin
+p55
+I1
+sVsee
+p56
+I1
+sVneva
+p57
+I1
+sVhort
+p58
+I1
+sVplayin
+p59
+I2
+sVstoppin
+p60
+I1
+sVsport
+p61
+I1
+sVout
+p62
+I2
+sVvada
+p63
+I1
+sVsaid
+p64
+I1
+sVnigga
+p65
+I1
+sVeverythang
+p66
+I1
+sVforty
+p67
+I1
+sVice
+p68
+I1
+sVdoggs
+p69
+I1
+sVfloss
+p70
+I1
+sVvibratin
+p71
+I1
+sVgot
+p72
+I5
+sVhighway
+p73
+I1
+sVwide
+p74
+I1
+sVass
+p75
+I3
+sVrun
+p76
+I1
+sVcars
+p77
+I1
+sVfriday
+p78
+I7
+sVlet
+p79
+I1
+sVsmokin
+p80
+I1
+sVovercrowdin
+p81
+I1
+sVthrust
+p82
+I1
+sVsuper
+p83
+I2
+sVthrow
+p84
+I5
+sVcare
+p85
+I1
+sVon
+p86
+I1
+sVg
+I1
+sVoh
+p87
+I2
+sVog
+p88
+I1
+sVscars
+p89
+I1
+sVside
+p90
+I4
+sVsmoka
+p91
+I1
+sVbgs
+p92
+I1
+sVgames
+p93
+I1
+sVsweat
+p94
+I1
+sVwest
+p95
+I1
+sVsouth
+p96
+I1
+sVhivll
+p97
+I1
+sVdippin
+p98
+I1
+sVlove
+p99
+I1
+sVdont
+p100
+I3
+sVseems
+p101
+I1
+sVtag
+p102
+I1
+sVrearview
+p103
+I1
+sVtwo
+p104
+I1
+sVdown
+p105
+I1
+sVwit
+p106
+I3
+sVpussyhound
+p107
+I1
+sVneighborhood
+p108
+I1
+sVtrust
+p109
+I1
+sVhood
+p110
+I1
+sVlittle
+p111
+I1
+sVkillin
+p112
+I1
+sVheads
+p113
+I1
+sVhes
+p114
+I2
+sVwestside
+p115
+I1
+sVwindow
+p116
+I1
+sVyak
+p117
+I1
+sVtryin
+p118
+I1
+sVhappy
+p119
+I1
+sVjacked
+p120
+I1
+sVnorth
+p121
+I1
+sVstars
+p122
+I1
+sVdreadlocks
+p123
+I1
+sVfuck
+p124
+I2
+sVphone
+p125
+I1
+sVhear
+p126
+I2
+sVspin
+p127
+I1
+sVmust
+p128
+I1
+sV10
+p129
+I1
+sVcar
+p130
+I1
+sVride
+p131
+I2
+sVhomey
+p132
+I1
+sVnappy
+p133
+I1
+sVair
+p134
+I5
+sVdroppin
+p135
+I1
+sVmakin
+p136
+I1
+sVdem
+p137
+I1
+sVcock
+p138
+I1
+sVyakity
+p139
+I1
+sVtat
+p140
+I2
+sVgrip
+p141
+I1
+sVflyin
+p142
+I1
+sVad
+p143
+I1
+sVmirrors
+p144
+I1
+sVpelvic
+p145
+I1
+sVin
+p146
+I1
+sVit
+p147
+I1
+sVdeep
+p148
+I1
+sVrat
+p149
+I1
+sVcube
+p150
+I1
+sVim
+p151
+I1
+sVwalks
+p152
+I1
+sVready
+p153
+I1
+sVtah
+p154
+I5
+sVchase
+p155
+I1
+sVsippin
+p156
+I1
+sVcourt
+p157
+I1
+sVshirt
+p158
+I1
+sVkhakis
+p159
+I1
+sVway
+p160
+I1
+sVoven
+p161
+I1
+sVget
+p162
+I1
+sVbraids
+p163
+I1
+sVrubber
+p164
+I1
+sVbeat
+p165
+I1
+sVtake
+p166
+I1
+sVunderground
+p167
+I1
+sVtaylors
+p168
+I1
+sVwaitin
+p169
+I1
+sVbegin
+p170
+I1
+sVused
+p171
+I1
+sVhang
+p172
+I2
+sVhand
+p173
+I1
+sVnintendo
+p174
+I1
+sVmack
+p175
+I1
+sVfo
+p176
+I1
+sVyeah
+p177
+I3
+sVbound
+p178
+I1
+sVsideways
+p179
+I1
+sVcat
+p180
+I1
+sVeighteens
+p181
+I1
+sVdrive
+p182
+I2
+sVrollin
+p183
+I1
+sVedge
+p184
+I1
+sVjail
+p185
+I1
+sVdaytons
+p186
+I1
+sVindo
+p187
+I1
+sVmake
+p188
+I1
+sVtha
+p189
+I21
+sVlatest
+p190
+I1
+s.

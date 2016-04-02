@@ -1,114 +1,772 @@
-"he's dead" lyrics
-scarface lyrics
-"he's dead"
-old mcdonald had a farm
-ee-eye-ee-eye - my dick
-(is he dead?)
-you can run but you can't hide, i find ya
-just when you think the shit is over, i'm standin right behind ya
-you crossed the wrong muthafucka, now you paranoid
-cause i'm a nigga these niggas just can't destroy
-i'm on the hunt, so keep your shit low
-but yo, i'm kinda slackin up, i shoulda killed you from the get-go
-nigga, but this is it
-we coulda talked it out like players, but now i'm on some gangsta shit
-what possessed this muthafucka to try to punk me?
-what possessed this muthafucka to tell me fuck me?
-guess he thinks that i'm a light weight
-hey yo, your shit's fucked up, so let me help you get your life straight
-cause niggas get they ass dunked
-for fuckin with me, i ain't no muthafuckin punk
-punk, i got some good hands, but i prefer my gat
-now where you at, cause i'ma slit your kool-aid pack
-see, niggas got it all wrong
-some niggas fake the gangsta shit, so niggas think we all songs
-they come up to a muthafucka jokin, mayn
-they wanna test a muthafucka's boxing game
-that's when they get they ass trunked
-cause when you're fuckin with me, i'ma tear this muthafucka up
-you're fuckin with a dread
-you're takin 2 to your head, i'm comin fed
-(is he dead?) yeah, he dead
-"it had to be a murder"
-"cause i'm a fuckin killer by nature"
-"it had to be a murder"
-"i looked him in the eye -
-then i shot him in his face"
-see, niggas make mistakes, black
-they shoot, but they don't shoot to kill, so muthafuckas stray back
-but i nip it at the bud
-because i'm not down for dyin, muthafucka, so i go for blood
-and let em know i'm on some real shit
-not with these fake muthafuckas on the team who won't kill shit
-i scream it like i mean it
-i mean it like i scream it, cause, niggas, i done seen it
-muthafuckas with the false nuts
-come with the static and they get they funky ass shot the fuck up
-so i give they ass a big blast
-instead of turnin the other cheek, i get dead up in this bitch ass
-cause yo, this shit is real life
-i'd rather be piped up in a box than be runnin from a steel knife
-so once i put your ass in the red
-i'm goin for the head
-just makin sure you're dead
-"always look a man in the eye before you kill him"
-"it had to be a murder"
-"always look a man in the eye before you kill him"
-"it had to be a murder"
-"always look a man in the eye before you kill him"
-"it had to be a murder"
-"always look a man in the eye before you kill him"
-"you're dyin, hoe, and can't nothin save ya"
-it's over, i'm smokin on some sweet leaf
-ready to put my dick up in this bitch named charisse cheeks
-a dick-sucker's nightmare
-i'm wantin some action, so i'm rollin through your hood and i be right there
-i blew my horn cause i don't knock
-the only thing that's on my mind is fuckin this bitch and puttin her ass out
-but yo, this shit is breakin up
-she's tellin homie she don't wanna fuck, so homie loc is breakin up
-it just so happened homie see my low
-and now he's madder than a muthafucka, 'specially when he see me blown
-and now he's got some beef, too
-but yo, i ain't gon' squab my partner over this freak, du
-so i cut the shit quick
-and said, "yo, we ain't gon' have to come to ???? over this freak bitch
-if you want her, you can have her
-because i got what i wanted, she sucked my dick, so, money, you can stab her"
-but i said this to myself up
-if i told homie i fucked his gal, then homie nut the fuck up
-so i kept it on the down-low
-and just laid back and watched the fuckin reaction of this clown hoe
-but this nigga is a real trick
-he's talkin shit and wantin to jump off into some ill shit
-so i told him fuck him
-and if he came a little closer, then i would have to buck him
-he came a little closer, so i gave him one
-( *shot*) and left the muthafucka stunned
-and right before i mobbed
-i gave him one more for the road, just to finish the fuckin job
-so off with your head, bitch
-cause i don't fuck around with that 'return from the dead' shit
-i'm makin sure i get you good
-and if you twitchin like you still alive, homie loc, i wish you would
-cause that just gives me one more reason
-to grab the trigger of this muthafuckin pistol and continue squeezin
-i don't believe in second ghosts
-you only get one chance, and if you slip, then yo ass is smoked
-some niggas say they feelin this
-but niggas ain't real with this
-cause niggaroes ain't killin shit
-but yo, i guess it's dead
-and i be givin you 2 to your muthafuckin head
-makin sure you're dead
-"always look a man in the eye before you kill him
-cause i'm a fuckin killer by nature"
-this is goin out to
-all those fake muthafuckas
-i ain't gonna say no names
-"always look a man in the eye before you kill him
-cause i'm a fuckin killer by nature"
-"always look a man in the eye before you kill him"
-"it had to be a murder"
-"always look a man in the eye before you kill him"
-"you're dyin, hoe, and can't nothin save ya"
+(dp1
+Vstandin
+p2
+I1
+sVboxing
+p3
+I1
+sVshot
+p4
+I3
+sVhelp
+p5
+I1
+sVlyrics
+p6
+I2
+sVmoney
+p7
+I1
+sVsquab
+p8
+I1
+sVmistakes
+p9
+I1
+sVkill
+p10
+I10
+sVghosts
+p11
+I1
+sVgo
+p12
+I1
+sVtrunked
+p13
+I1
+sVstill
+p14
+I1
+sVtakin
+p15
+I1
+sVfind
+p16
+I1
+sVaint
+p17
+I6
+sVsteel
+p18
+I1
+sVniggaroes
+p19
+I1
+sVdu
+p20
+I1
+sVstunned
+p21
+I1
+sVmcdonald
+p22
+I1
+sVtrigger
+p23
+I1
+sVdick
+p24
+I3
+sVlaid
+p25
+I1
+sVhim
+p26
+I10
+sVto
+p27
+I1
+sVblack
+p28
+I1
+sVroad
+p29
+I1
+sVgangsta
+p30
+I2
+sVsave
+p31
+I2
+sVhappened
+p32
+I1
+sVreal
+p33
+I4
+sVshoot
+p34
+I2
+sVgood
+p35
+I2
+sVreturn
+p36
+I1
+sVaround
+p37
+I1
+sVyo
+p38
+I8
+sVget
+p39
+I7
+sVya
+p40
+I4
+sVbig
+p41
+I1
+sVmayn
+p42
+I1
+sVfinish
+p43
+I1
+sVfeelin
+p44
+I1
+sVgame
+p45
+I1
+sVknow
+p46
+I1
+sVhands
+p47
+I1
+sVblast
+p48
+I1
+sVkilled
+p49
+I1
+sVsucked
+p50
+I1
+sVwont
+p51
+I1
+sVknock
+p52
+I1
+sVlike
+p53
+I4
+sVslip
+p54
+I1
+sVgivin
+p55
+I1
+sVtear
+p56
+I1
+sValways
+p57
+I8
+sVhunt
+p58
+I1
+sVmuthafuckas
+p59
+I5
+sVclown
+p60
+I1
+sVtry
+p61
+I1
+sVthis
+p62
+I2
+sVcontinue
+p63
+I1
+sVred
+p64
+I1
+sVteam
+p65
+I1
+sVquick
+p66
+I1
+sVgrab
+p67
+I1
+sVmean
+p68
+I2
+sVem
+p69
+I1
+sVblew
+p70
+I1
+sVright
+p71
+I3
+sVold
+p72
+I1
+sVspecially
+p73
+I1
+sVweight
+p74
+I1
+sVjokin
+p75
+I1
+sVturnin
+p76
+I1
+sVcomin
+p77
+I1
+sVyeah
+p78
+I1
+sVdead
+p79
+I10
+sVup
+p80
+I6
+sVjump
+p81
+I1
+sVsee
+p82
+I4
+sVsure
+p83
+I3
+sVstatic
+p84
+I1
+sVshes
+p85
+I1
+sVlittle
+p86
+I2
+sVthinks
+p87
+I1
+sVout
+p88
+I1
+sVcloser
+p89
+I2
+sVgon
+p90
+I3
+sVhide
+p91
+I1
+sVnightmare
+p92
+I1
+sVbehind
+p93
+I1
+sVgot
+p94
+I4
+sVpistol
+p95
+I1
+sVcause
+p96
+I13
+sVpiped
+p97
+I1
+sVknife
+p98
+I1
+sVtold
+p99
+I2
+sVass
+p100
+I8
+sVima
+p101
+I2
+sVrun
+p102
+I1
+sVnature
+p103
+I3
+sVmuthafucka
+p104
+I8
+sVtwitchin
+p105
+I1
+sVjob
+p106
+I1
+sVcut
+p107
+I1
+sVlet
+p108
+I2
+sVsmokin
+p109
+I1
+sVput
+p110
+I2
+sVwanted
+p111
+I1
+sVcome
+p112
+I3
+sVshoulda
+p113
+I1
+sVbox
+p114
+I1
+sVreaction
+p115
+I1
+sVher
+p116
+I2
+sVeeeyeeeeye
+p117
+I1
+sVcoulda
+p118
+I1
+sVbreakin
+p119
+I2
+sVpunk
+p120
+I3
+sVreason
+p121
+I1
+sVkeep
+p122
+I1
+sVplayers
+p123
+I1
+sVfunky
+p124
+I1
+sVaction
+p125
+I1
+sVhead
+p126
+I4
+sVthink
+p127
+I2
+sVfuckin
+p128
+I9
+sVthats
+p129
+I2
+sVparanoid
+p130
+I1
+sVnamed
+p131
+I1
+sVdont
+p132
+I5
+sVstray
+p133
+I1
+sVblown
+p134
+I1
+sVchance
+p135
+I1
+sVsweet
+p136
+I1
+sVprefer
+p137
+I1
+sVmakin
+p138
+I3
+sVone
+p139
+I4
+sVnigga
+p140
+I3
+sVdone
+p141
+I1
+sVbitch
+p142
+I5
+sVfake
+p143
+I3
+sVfreak
+p144
+I2
+sVhood
+p145
+I1
+sVsecond
+p146
+I1
+sVwan
+p147
+I2
+sVguess
+p148
+I2
+sVkillin
+p149
+I1
+sVeye
+p150
+I9
+sVbeef
+p151
+I1
+sVhes
+p152
+I5
+sVwould
+p153
+I2
+sVthere
+p154
+I1
+sVhey
+p155
+I1
+sVmadder
+p156
+I1
+sV2
+I2
+sVwatched
+p157
+I1
+sVlow
+p158
+I2
+sVshits
+p159
+I1
+sVman
+p160
+I8
+sVtell
+p161
+I1
+sVcheeks
+p162
+I1
+sVback
+p163
+I2
+sVlife
+p164
+I2
+sVmurder
+p165
+I6
+sVnames
+p166
+I1
+sVbuck
+p167
+I1
+sVbelieve
+p168
+I1
+sVgat
+p169
+I1
+sVfuck
+p170
+I6
+sVkoolaid
+p171
+I1
+sVgal
+p172
+I1
+sVtoo
+p173
+I1
+sVnut
+p174
+I1
+sVhorn
+p175
+I1
+sVloc
+p176
+I2
+sVbud
+p177
+I1
+sVme
+p178
+I2
+sVlook
+p179
+I8
+sVniggas
+p180
+I9
+sVcharisse
+p181
+I1
+sVwish
+p182
+I1
+sVstraight
+p183
+I1
+sVslit
+p184
+I1
+sVtellin
+p185
+I1
+sVtrick
+p186
+I1
+sVdyin
+p187
+I3
+sVslackin
+p188
+I1
+sVcrossed
+p189
+I1
+sVdicksuckers
+p190
+I1
+sVscarface
+p191
+I1
+sVgave
+p192
+I2
+sVill
+p193
+I1
+sVsay
+p194
+I2
+sVpack
+p195
+I1
+sVinstead
+p196
+I1
+sVcheek
+p197
+I1
+sVfalse
+p198
+I1
+sVsqueezin
+p199
+I1
+sVgive
+p200
+I1
+sVmind
+p201
+I1
+sVit
+p202
+I3
+sValive
+p203
+I1
+sVcant
+p204
+I4
+sVhomie
+p205
+I6
+sVim
+p206
+I17
+sVrollin
+p207
+I1
+sVwant
+p208
+I1
+sVleaf
+p209
+I1
+sVready
+p210
+I1
+sVseen
+p211
+I1
+sVid
+p212
+I1
+sVshit
+p213
+I13
+sVgives
+p214
+I1
+sVhoe
+p215
+I3
+sVtalked
+p216
+I1
+sVthing
+p217
+I1
+sVrather
+p218
+I1
+sVna
+p219
+I3
+sVmake
+p220
+I1
+sVgetgo
+p221
+I1
+sVnuts
+p222
+I1
+sVmuthafuckin
+p223
+I3
+sVwantin
+p224
+I2
+sVtest
+p225
+I1
+sVdestroy
+p226
+I1
+sVputtin
+p227
+I1
+sVtalkin
+p228
+I1
+sVkiller
+p229
+I3
+sVfarm
+p230
+I1
+sVfed
+p231
+I1
+sVwrong
+p232
+I2
+sVsaid
+p233
+I2
+sVstab
+p234
+I1
+sVblood
+p235
+I1
+sVkinda
+p236
+I1
+sVfucked
+p237
+I2
+sVdunked
+p238
+I1
+sVnip
+p239
+I1
+sVgoin
+p240
+I2
+sVsmoked
+p241
+I1
+sVkept
+p242
+I1
+sVmobbed
+p243
+I1
+sVlight
+p244
+I1
+sVpossessed
+p245
+I2
+sVyoure
+p246
+I7
+sVdownlow
+p247
+I1
+sVnothin
+p248
+I2
+sVface
+p249
+I1
+sVlooked
+p250
+I1
+sVdread
+p251
+I1
+sVpartner
+p252
+I1
+sVrunnin
+p253
+I1
+sVleft
+p254
+I1
+sVscream
+p255
+I2
+sVcame
+p256
+I2
+sVsongs
+p257
+I1
+s.

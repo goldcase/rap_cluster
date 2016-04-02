@@ -1,106 +1,644 @@
-"lost souls" lyrics
-2pac lyrics
-"lost souls"
-(with outlawz)
-'cause i hate to spend
-my life, my life, my life, my life
-duckin' one time
-(lost soul)
-how it start, how it start
-started off with runnin' from cops duck and hide from helicopters
-we open fire, who can stop us
-livin' the life of trife juveniles, hopin' for rikers
-gettin' twenty-five to life, if the judge don't like us
-in my clearest pictures, i see authorities itchin' to get us
-atf state feds scandalous bitches
-i wasn't promised to it, wasn't bitter or sweet
-see if a, nigga don't hustle then a nigga don't eat
-only streets livin' do or die circle complete
-repetitive motions and felons in the rush for cheese
-please understand my history a man of many acts
-live a thug life, comin' equipped, with many gats
-maybe i was just a lost soul, trapped in time
-livin' in between life and the cracks were blind
-even though we had hopes for dreams that never came
-yet still we all feel pain
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time, stranded in the county in the worst way
-hell of a way to spend my twenty-first birthday
-born in the ghetto as a street thug
-it's for the neighborhood and weed spots that we love
-lost souls, lost souls, nigga for my homeboys that passed on
-words from the mind of a lost soul
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-my brother sean, first on my list, he stuck with
-a three-five when he get out would i be dead or alive
-he taught me the rules so much, but still in thugs i trust
-when in danger never hesitate to keep my fuckin' trap shut
-my mom dukes got a little bit of thug in her
-the devil loves sinners crackheads and drug dealer
-sometimes i feel like the streets are takin' over
-never stayin' sober, the brain over and over backtrack
-my stack's fat, i used to take down new
-one love to my crew aiyyo this one's for you
-r.i.p., rest in peace to moo brown
-know what we gotta do, baby one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-one time, one time, one time
-i was born twenty-two years ago, yesterday
-but see i saw no reason for me to celebrate, let me demonstrate
-entered the world from out a poisonous womb
-heroin bein' consumed already predicitin' my doom, soon
-to be one of the many misguided
-always the first one on the block to be done tried it and liked it
-lost before i had a chance to find my way
-now i travel through life, not knowin' the time of day
-crime for pay, i'm on my way but don't know, where i'm a end up
-i swear to god, this is a setup
-and these are the words from the mind of a lost soul
-(i'm a lost soul)
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-just wait until the rain turn to sunshine
-'cause i hate to spend my life, my life, my life, my life
-duckin' one time
-all of y'all, keepin' y'all in hell
-to all of y'all, keepin' y'all in hell
-just to see you smile and enjoy yourself
-to all of y'all, keepin' y'all in hell
-just to see you smile and enjoy yourself
-for all my doggz, keepin y'all in hell
-just to see you smile and enjoy yourself
-for all my doggz, keepin y'all in hell
-just to see you smile and enjoy yourself
-for all my doggz, keepin y'all in hell
-just to see you smile and enjoy yourself
-throw your hands up
-throw your hands up
-throw your hands up
-throw your hands up
+(dp1
+Vpeace
+p2
+I1
+sVmom
+p3
+I1
+sVlyrics
+p4
+I2
+sVover
+p5
+I1
+sVhands
+p6
+I4
+sVsouls
+p7
+I4
+sVrest
+p8
+I1
+sVyears
+p9
+I1
+sVbrain
+p10
+I1
+sVmotions
+p11
+I1
+sVhell
+p12
+I7
+sVstill
+p13
+I2
+sVhate
+p14
+I13
+sVyet
+p15
+I1
+sVhelicopters
+p16
+I1
+sVpredicitin
+p17
+I1
+sVcrew
+p18
+I1
+sVcelebrate
+p19
+I1
+sVequipped
+p20
+I1
+sVdukes
+p21
+I1
+sVcircle
+p22
+I1
+sVsinners
+p23
+I1
+sVta
+p24
+I1
+sVbrown
+p25
+I1
+sVlivin
+p26
+I3
+sVget
+p27
+I2
+sVrules
+p28
+I1
+sVhopin
+p29
+I1
+sVbein
+p30
+I1
+sVstop
+p31
+I1
+sVfat
+p32
+I1
+sVtrife
+p33
+I1
+sVones
+p34
+I1
+sVworst
+p35
+I1
+sVknow
+p36
+I2
+sVwords
+p37
+I2
+sVnew
+p38
+I1
+sVjudge
+p39
+I1
+sVworld
+p40
+I1
+sVbit
+p41
+I1
+sVyourself
+p42
+I5
+sVclearest
+p43
+I1
+sVdreams
+p44
+I1
+sVghetto
+p45
+I1
+sVlike
+p46
+I2
+sVlost
+p47
+I10
+sVdie
+p48
+I1
+sVgettin
+p49
+I1
+sVlist
+p50
+I1
+sVbrother
+p51
+I1
+sVtrap
+p52
+I1
+sValways
+p53
+I1
+sVtwentyfirst
+p54
+I1
+sVwomb
+p55
+I1
+sVyall
+p56
+I9
+sVenjoy
+p57
+I5
+sVnigga
+p58
+I3
+sVneighborhood
+p59
+I1
+sVbacktrack
+p60
+I1
+sVmisguided
+p61
+I1
+sVstreets
+p62
+I2
+sVdead
+p63
+I1
+sVup
+p64
+I5
+sVborn
+p65
+I2
+sVsee
+p66
+I8
+sVstreet
+p67
+I1
+sVsean
+p68
+I1
+sVtried
+p69
+I1
+sVeven
+p70
+I1
+sVhide
+p71
+I1
+sVitchin
+p72
+I1
+sVpictures
+p73
+I1
+sVpoisonous
+p74
+I1
+sVplease
+p75
+I1
+sVfind
+p76
+I1
+sVstayin
+p77
+I1
+sVhesitate
+p78
+I1
+sVstate
+p79
+I1
+sVdoggz
+p80
+I3
+sVgot
+p81
+I2
+sVcause
+p82
+I13
+sVhustle
+p83
+I1
+sVshut
+p84
+I1
+sVfelons
+p85
+I1
+sVgod
+p86
+I1
+sVcrackheads
+p87
+I1
+sVnever
+p88
+I3
+sVreason
+p89
+I1
+sVheroin
+p90
+I1
+sVlet
+p91
+I1
+sVaiyyo
+p92
+I1
+sVduckin
+p93
+I13
+sVsoon
+p94
+I1
+sVthrow
+p95
+I4
+sVwait
+p96
+I12
+sVatf
+p97
+I1
+sVon
+p98
+I1
+sVkeepin
+p99
+I6
+sVher
+p100
+I1
+sVknowin
+p101
+I1
+sVmany
+p102
+I3
+sVdrug
+p103
+I1
+sVkeep
+p104
+I1
+sVturn
+p105
+I12
+sVswear
+p106
+I1
+sVfuckin
+p107
+I1
+sVfirst
+p108
+I2
+sVblind
+p109
+I1
+sVcheese
+p110
+I1
+sVliked
+p111
+I1
+sValready
+p112
+I1
+sVlove
+p113
+I2
+sVdont
+p114
+I4
+sVdanger
+p115
+I1
+sVfeel
+p116
+I2
+sVsweet
+p117
+I1
+sVone
+p118
+I20
+sVcounty
+p119
+I1
+sVdone
+p120
+I1
+sVduck
+p121
+I1
+sVsober
+p122
+I1
+sVtrust
+p123
+I1
+sVopen
+p124
+I1
+sVbaby
+p125
+I1
+sVlittle
+p126
+I1
+sVdevil
+p127
+I1
+sVwould
+p128
+I1
+sVstuck
+p129
+I1
+sVspots
+p130
+I1
+sVstart
+p131
+I2
+sVlive
+p132
+I1
+sVmuch
+p133
+I1
+sVway
+p134
+I4
+sVoutlawz
+p135
+I1
+sVentered
+p136
+I1
+sVbitter
+p137
+I1
+sVhomeboys
+p138
+I1
+sVrikers
+p139
+I1
+sVlife
+p140
+I57
+sVrepetitive
+p141
+I1
+sVcomplete
+p142
+I1
+sVtrapped
+p143
+I1
+sVfire
+p144
+I1
+sVbitches
+p145
+I1
+sVcops
+p146
+I1
+sVunderstand
+p147
+I1
+sValive
+p148
+I1
+sVsmile
+p149
+I5
+sVhopes
+p150
+I1
+sVdoom
+p151
+I1
+sVwith
+p152
+I1
+sVeat
+p153
+I1
+sV2pac
+p154
+I1
+sVrunnin
+p155
+I1
+sVrush
+p156
+I1
+sVcracks
+p157
+I1
+sVjuveniles
+p158
+I1
+sVsetup
+p159
+I1
+sVsoul
+p160
+I5
+sVus
+p161
+I3
+sVtaught
+p162
+I1
+sVloves
+p163
+I1
+sVdemonstrate
+p164
+I1
+sVhistory
+p165
+I1
+sVsometimes
+p166
+I1
+sVscandalous
+p167
+I1
+sVwasnt
+p168
+I2
+sVmind
+p169
+I2
+sVit
+p170
+I1
+sVrip
+p171
+I1
+sVim
+p172
+I3
+sVpromised
+p173
+I1
+sVthug
+p174
+I3
+sVsaw
+p175
+I1
+sVdealer
+p176
+I1
+sVthreefive
+p177
+I1
+sVthugs
+p178
+I1
+sVend
+p179
+I1
+sVpay
+p180
+I1
+sVtravel
+p181
+I1
+sVacts
+p182
+I1
+sVtakin
+p183
+I1
+sVgats
+p184
+I1
+sVstarted
+p185
+I1
+sVtwentytwo
+p186
+I1
+sVtake
+p187
+I1
+sVyou
+p188
+I1
+sVday
+p189
+I1
+sVsunshine
+p190
+I12
+sVpain
+p191
+I1
+sVtwentyfive
+p192
+I1
+sVthough
+p193
+I1
+sVcrime
+p194
+I1
+sVyesterday
+p195
+I1
+sVrain
+p196
+I12
+sVweed
+p197
+I1
+sVcomin
+p198
+I1
+sVchance
+p199
+I1
+sVbirthday
+p200
+I1
+sVfeds
+p201
+I1
+sVauthorities
+p202
+I1
+sVman
+p203
+I1
+sVago
+p204
+I1
+sVmaybe
+p205
+I1
+sVconsumed
+p206
+I1
+sVstranded
+p207
+I1
+sVstacks
+p208
+I1
+sVpassed
+p209
+I1
+sVused
+p210
+I1
+sVblock
+p211
+I1
+sVtime
+p212
+I19
+sVmoo
+p213
+I1
+sVspend
+p214
+I14
+sVcame
+p215
+I1
+s.

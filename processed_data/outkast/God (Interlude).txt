@@ -1,32 +1,263 @@
-"god (interlude)" lyrics
-outkast lyrics
-"god (interlude)"
-god, come in god
-god come in god
-damn you’re a girl
-wow
-i guess the reason i’m talking to you tonight is
-cause i’ve been doing a lot of thinking and
-and i consider myself a pretty cool guy
-and i never cheated on any of my girlfriends
-well, except that one time in japan
-but that was just for head and head don’t count right
-thanks god i knew you’d understand
-well, i just feel like
-well to be honest with you
-god i just need a sweet bitch
-you know somebody no to, not too fast but not too slow
-cause i don’t have it all to do it my damn self
-and life aint easy
-you know i just want somebody by your side to help smooth
-that thang out you know what i’m talking about
-and at this point
-i mean i’m not being picky
-she don’t even have to a big ol’ ass you know
-just something well proportioned to her body
-you know a nice little tail you know
-what you say you, you say you found somebody
-is she cute? so when do i get to met her?
-awww, god you are the greatest
-well, i guess i’ll talk to you later amen oh i’m sorry,
-i’m sorry alady
+(dp1
+Vcute
+p2
+I1
+sVconsider
+p3
+I1
+sVlyrics
+p4
+I2
+sVthanks
+p5
+I1
+sVjapan
+p6
+I1
+sVhelp
+p7
+I1
+sVaint
+p8
+I1
+sVslow
+p9
+I1
+sVthinking
+p10
+I1
+sVthang
+p11
+I1
+sVexcept
+p12
+I1
+sVtail
+p13
+I1
+sVeasy
+p14
+I1
+sVsorry
+p15
+I2
+sVsomebody
+p16
+I3
+sVget
+p17
+I1
+sVi\u2019m
+p18
+I5
+sVbig
+p19
+I1
+sVawww
+p20
+I1
+sVknow
+p21
+I6
+sVcool
+p22
+I1
+sVlike
+p23
+I1
+sVfound
+p24
+I1
+sVguy
+p25
+I1
+sVside
+p26
+I1
+sVmean
+p27
+I1
+sVass
+p28
+I1
+sVright
+p29
+I1
+sVyou\u2019re
+p30
+I1
+sVi\u2019ve
+p31
+I1
+sVgirl
+p32
+I1
+sVeven
+p33
+I1
+sVgod
+p34
+I9
+sVwow
+p35
+I1
+sVyou\u2019d
+p36
+I1
+sVcause
+p37
+I2
+sVbody
+p38
+I1
+sVoutkast
+p39
+I1
+sVamen
+p40
+I1
+sVnever
+p41
+I1
+sVlittle
+p42
+I1
+sVmet
+p43
+I1
+sVreason
+p44
+I1
+sVcome
+p45
+I2
+sVabout
+p46
+I1
+sVoh
+p47
+I1
+sVproportioned
+p48
+I1
+sVhonest
+p49
+I1
+sVol\u2019
+p50
+I1
+sVpoint
+p51
+I1
+sVfeel
+p52
+I1
+sVsweet
+p53
+I1
+sVone
+p54
+I1
+sVbitch
+p55
+I1
+sVguess
+p56
+I2
+sVher
+p57
+I1
+sVfast
+p58
+I1
+sVinterlude
+p59
+I2
+sVdamn
+p60
+I2
+sVdon\u2019t
+p61
+I3
+sVlot
+p62
+I1
+sVlife
+p63
+I1
+sVpretty
+p64
+I1
+sVgirlfriends
+p65
+I1
+sVunderstand
+p66
+I1
+sVcheated
+p67
+I1
+sVcount
+p68
+I1
+sVsmooth
+p69
+I1
+sVhead
+p70
+I2
+sVtonight
+p71
+I1
+sVtalking
+p72
+I2
+sVsay
+p73
+I2
+sVsomething
+p74
+I1
+sVwant
+p75
+I1
+sVneed
+p76
+I1
+sVself
+p77
+I1
+sVyou
+p78
+I1
+sValady
+p79
+I1
+sVnice
+p80
+I1
+sVknew
+p81
+I1
+sVi\u2019ll
+p82
+I1
+sVpicky
+p83
+I1
+sVlater
+p84
+I1
+sVwell
+p85
+I5
+sVgreatest
+p86
+I1
+sVtime
+p87
+I1
+sVtalk
+p88
+I1
+s.

@@ -1,91 +1,677 @@
-family business lyrics
-kanye west lyrics
-family business
-hows son things things
-make team year things things
-aw th said wasnt tall enough
-glitter gold
-yeah gon cook gold reality
-real live be
-family business
-family cant us
-cousin locked know answers us
-thats spit songs sweet
-like photo grannys picture
-youre gone hit us
-super hard thankgiving christmas cant right
-yeah heard track man cant life
-somebody please say grace save face
-reason cover face
-even made plate soul food know granny it
-monkey bread side know family it
-brought guard look it
-kids used laugh
-knew life would move fast
-knew id look glass
-look tell aint aint it
-thats family business
-dont care bout diamond rings diamond rings
-dont mean thing things
-fancy things
-tell glitter weight gold
-know know things
-family business
-everybody standin us
-come lets take family grammy picture
-abby remember aint believe me
-like see thats cousin tv
-gettin gon make it
-yall gon hate im favorite
-cant deny im straight rider
-get together electric slidin
-grandma get em shook up
-aw naw dont open photo book up
-got aunt ruth cant remember name
-bet polaroidsll send memory lane
-know one auntie dont wanna rude
-every holiday nobody eatin food
-dont wanna stay cuz worst cousins
-got roaches crib like first cousins
-act like aint took bath cousins
-fit three bed six yall
-im talkin bout three head three leg
-aint tell girl used pee bed
-rain rain rain go away
-let sun come children say
-rain rain rain go away
-let sun come children say
-woke early mornin new state mind
-creative way rhyme without usin knives guns
-keep nose sky keep heart god
-keep face risin sun
-niggas chi thats family dog
-niggas aint guys family dog
-feel like one day youll understand dog
-still love man manly dog
-aint got get heated every house warmin
-sittin grillin people like george foreman
-uncle ray aunt shiela always performin
-second storms storms in
-yall gon sit good time reunion
-drink wine like communion
-act like everything fine isnt
-aint lettin everybody family business
-diamond rings diamond rings
-dont mean thing things
-dont mean thing
-diamond rings diamond rings
-dont mean thing thing
-dont care bout diamond rings diamond rings
-dont mean thing things
-fancy things
-tell glitter weight gold
-know know things
-oooh things things
-things oooh things things
-things oooh things things
-things oooh things things
-things oooh things things
-things oooh things things
-things oooh things things
-things oooh things things
+(dp1
+Vshiela
+p2
+I1
+sVstandin
+p3
+I1
+sVsix
+p4
+I1
+sVlyrics
+p5
+I2
+sVphoto
+p6
+I2
+sVmove
+p7
+I1
+sVisnt
+p8
+I1
+sVgo
+p9
+I2
+sVkanye
+p10
+I1
+sVstill
+p11
+I1
+sVhate
+p12
+I1
+sVchildren
+p13
+I2
+sVgrammy
+p14
+I1
+sVaint
+p15
+I8
+sVgold
+p16
+I4
+sVtook
+p17
+I1
+sVtv
+p18
+I1
+sVcousins
+p19
+I3
+sVsky
+p20
+I1
+sVcuz
+p21
+I1
+sVsend
+p22
+I1
+sVfeel
+p23
+I1
+sVlets
+p24
+I1
+sVth
+p25
+I1
+sVrisin
+p26
+I1
+sVbout
+p27
+I3
+sVsave
+p28
+I1
+sVnaw
+p29
+I1
+sVreal
+p30
+I1
+sVplate
+p31
+I1
+sVforeman
+p32
+I1
+sVmornin
+p33
+I1
+sVsomebody
+p34
+I1
+sVthankgiving
+p35
+I1
+sVgrannys
+p36
+I1
+sVfood
+p37
+I2
+sVsittin
+p38
+I1
+sVrhyme
+p39
+I1
+sVearly
+p40
+I1
+sVrings
+p41
+I8
+sVevery
+p42
+I2
+sVknow
+p43
+I8
+sVpee
+p44
+I1
+sVcook
+p45
+I1
+sVslidin
+p46
+I1
+sVone
+p47
+I2
+sVroaches
+p48
+I1
+sVday
+p49
+I1
+sVabby
+p50
+I1
+sVbread
+p51
+I1
+sVcrib
+p52
+I1
+sVholiday
+p53
+I1
+sVlike
+p54
+I8
+sValways
+p55
+I1
+sVgettin
+p56
+I1
+sVwarmin
+p57
+I1
+sVtalkin
+p58
+I1
+sVheart
+p59
+I1
+sVnose
+p60
+I1
+sVteam
+p61
+I1
+sVside
+p62
+I1
+sVyall
+p63
+I3
+sVmean
+p64
+I5
+sVem
+p65
+I1
+sVright
+p66
+I1
+sVweight
+p67
+I2
+sVpeople
+p68
+I1
+sVhouse
+p69
+I1
+sVhard
+p70
+I1
+sVyeah
+p71
+I2
+sVup
+p72
+I2
+sVsee
+p73
+I1
+sVmanly
+p74
+I1
+sVbed
+p75
+I2
+sVyear
+p76
+I1
+sVfine
+p77
+I1
+sVgirl
+p78
+I1
+sVeven
+p79
+I1
+sVsaid
+p80
+I1
+sVlettin
+p81
+I1
+sVopen
+p82
+I1
+sVaway
+p83
+I2
+sVplease
+p84
+I1
+sVusin
+p85
+I1
+sVcreative
+p86
+I1
+sVeverything
+p87
+I1
+sVenough
+p88
+I1
+sVgot
+p89
+I3
+sVyoull
+p90
+I1
+sVchristmas
+p91
+I1
+sVbe
+p92
+I1
+sVdrink
+p93
+I1
+sVbusiness
+p94
+I6
+sVleg
+p95
+I1
+sVoooh
+p96
+I8
+sVanswers
+p97
+I1
+sVreason
+p98
+I1
+sVlet
+p99
+I2
+sVgrandma
+p100
+I1
+sVcousin
+p101
+I2
+sVsuper
+p102
+I1
+sVcare
+p103
+I2
+sVkids
+p104
+I1
+sVfit
+p105
+I1
+sVgod
+p106
+I1
+sVfavorite
+p107
+I1
+sVkeep
+p108
+I3
+sVthing
+p109
+I6
+sVeatin
+p110
+I1
+sVwine
+p111
+I1
+sVbet
+p112
+I1
+sVact
+p113
+I2
+sVhead
+p114
+I1
+sVthats
+p115
+I4
+sVbath
+p116
+I1
+sVlove
+p117
+I1
+sVdont
+p118
+I10
+sVfamily
+p119
+I11
+sVworst
+p120
+I1
+sVauntie
+p121
+I1
+sVsweet
+p122
+I1
+sVfancy
+p123
+I2
+sVson
+p124
+I1
+sVbrought
+p125
+I1
+sVguard
+p126
+I1
+sVlaugh
+p127
+I1
+sVheated
+p128
+I1
+sVuncle
+p129
+I1
+sVglitter
+p130
+I3
+sVgeorge
+p131
+I1
+sVsecond
+p132
+I1
+sVeverybody
+p133
+I2
+sVwan
+p134
+I2
+sVmonkey
+p135
+I1
+sVwould
+p136
+I1
+sVwest
+p137
+I1
+sVthree
+p138
+I3
+sVfast
+p139
+I1
+sVname
+p140
+I1
+sVlive
+p141
+I1
+sVcome
+p142
+I3
+sVway
+p143
+I1
+sVmemory
+p144
+I1
+sVcommunion
+p145
+I1
+sVtell
+p146
+I4
+sVwoke
+p147
+I1
+sVlife
+p148
+I2
+sVdiamond
+p149
+I8
+sVspit
+p150
+I1
+sVnobody
+p151
+I1
+sVlane
+p152
+I1
+sVglass
+p153
+I1
+sVstate
+p154
+I1
+sVunderstand
+p155
+I1
+sVgranny
+p156
+I1
+sVsun
+p157
+I3
+sVbelieve
+p158
+I1
+sVgrace
+p159
+I1
+sVme
+p160
+I1
+sVmade
+p161
+I1
+sVlocked
+p162
+I1
+sVlook
+p163
+I3
+sVgrillin
+p164
+I1
+sVniggas
+p165
+I2
+sVstraight
+p166
+I1
+sVsoul
+p167
+I1
+sVus
+p168
+I4
+sVpolaroidsll
+p169
+I1
+sVtime
+p170
+I1
+sVsay
+p171
+I3
+sVshook
+p172
+I1
+sVgone
+p173
+I1
+sVperformin
+p174
+I1
+sVwasnt
+p175
+I1
+sVreunion
+p176
+I1
+sVmind
+p177
+I1
+sVit
+p178
+I5
+sVstorms
+p179
+I2
+sVknives
+p180
+I1
+sVheard
+p181
+I1
+sVcant
+p182
+I5
+sVgood
+p183
+I1
+sVim
+p184
+I3
+sVaw
+p185
+I2
+sVin
+p186
+I1
+sVhit
+p187
+I1
+sVid
+p188
+I1
+sVray
+p189
+I1
+sVsit
+p190
+I1
+sVchi
+p191
+I1
+sVthings
+p192
+I34
+sVmake
+p193
+I2
+sVget
+p194
+I3
+sVreality
+p195
+I1
+sVguns
+p196
+I1
+sVbook
+p197
+I1
+sVtake
+p198
+I1
+sVnew
+p199
+I1
+sVruth
+p200
+I1
+sVrider
+p201
+I1
+sVpicture
+p202
+I2
+sVused
+p203
+I2
+sVelectric
+p204
+I1
+sVrude
+p205
+I1
+sVtrack
+p206
+I1
+sVknew
+p207
+I2
+sVrain
+p208
+I6
+sVstay
+p209
+I1
+sVgon
+p210
+I4
+sVguys
+p211
+I1
+sVman
+p212
+I2
+sVhows
+p213
+I1
+sVdeny
+p214
+I1
+sVremember
+p215
+I2
+sVyoure
+p216
+I1
+sVcover
+p217
+I1
+sVdog
+p218
+I4
+sVtogether
+p219
+I1
+sVface
+p220
+I3
+sVwithout
+p221
+I1
+sVaunt
+p222
+I2
+sVna
+p223
+I2
+sVtall
+p224
+I1
+sVfirst
+p225
+I1
+sVsongs
+p226
+I1
+s.

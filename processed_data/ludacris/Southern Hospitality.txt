@@ -1,65 +1,580 @@
-"southern hospitality" lyrics
-ludacris lyrics
-"southern hospitality"
-(feat. pharrell)
-uhh..
-cadillac grills, cadillac mill's
-check out the oil my cadillac spills
-matter of fact, candy paint cadillacs kill
-so check out the hoes my cadillac fills
-twenty inch - wide, twenty inches high
-hoe don't you like my twenty inch - ride
-twenty inch thighs make twenty inch - eyes
-hoping for american twenty inch - pies
-pretty ass - clothes, pretty ass - toes
-oh how i love these pretty ass - hoes
-pretty ass high class anything - goes
-catch 'em in the club throwin pretty ass 'bows
-long-john drawers, long-john stalls
-any stank puss' make my long john - pause
-women on they cell makin long john calls
-and if they like to juggle, get long john's - balls
-all my players in the house that can buy the bar
-and the ballin-ass niggaz wit the candy cars
-if you a pimp and you know you don't love them hoes
-when you get on the flo' - nigga throw dem 'bows
-all my women in the house if you chasin cash
-and you got some big titties wit a matchin ass
-witcha fly-ass boots or ya open toes
-when ya get on the flo' - nigga throw dem 'bows
-dirty south mind blowin dirty south bread
-catfish fried up, dirty south fed
-sleep in a cot'-pickin dirty south bed
-dirty south guls gimme dirty south head
-hand me down flip-flops, hand me down socks
-hand me down drug dealers hand me down rocks
-hand me down a 50 pack swisher sweets box
-and goodfella rich niggaz hand me down stocks
-mouth full of platinum, mouth full of gold
-forty glock cal' keep your mouth on hold
-lie through your teeth you could find your mouth - cold
-and rip out ya tongue cause of what ya mouth - told
-sweat for the lemonade, sweat for the tea
-sweat from the hot sauce, sweat from the d
-and you can sweat from a burn in the third degree
-and if you sweat in your sleep then you sweat from me
-hit by - stars, hit by - cars
-drunk off the liquor gettin hit by - bars
-keep yo' gul close cause she's hit by - far
-hit by the neptunes, hit by guitars
-afro - picks, afro - chicks
-i let my "soul glow" from my afro - dick
-rabbit out the hat pullin afro - tricks
-afro-american afro - thick
-overall country, overall jeans
-overall georgia, we overall clean
-"southern hospitality" or overall mean
-overall triple, overall beams
-thugged out niggaz wear thugged out - chains
-thugged out blocks playin thugged out - games
-all black tinted up thugged out - range
-dtp stay doing thugged out - thangs
-.. (nigga throw dem 'bows)
-.. (nigga throw dem 'bows)
-.. (nigga throw dem 'bows)
-.. (nigga throw dem 'bows)
+(dp1
+Vchicks
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVkill
+p5
+I1
+sVcold
+p6
+I1
+sVfeat
+p7
+I1
+sVfind
+p8
+I1
+sVpause
+p9
+I1
+sVgold
+p10
+I1
+sVblowin
+p11
+I1
+sVchasin
+p12
+I1
+sVdick
+p13
+I1
+sVguls
+p14
+I1
+sVblack
+p15
+I1
+sVpretty
+p16
+I5
+sVblocks
+p17
+I1
+sVsauce
+p18
+I1
+sVhit
+p19
+I6
+sVyo
+p20
+I1
+sVget
+p21
+I3
+sVya
+p22
+I4
+sVbig
+p23
+I1
+sVoverall
+p24
+I7
+sVuhh
+p25
+I1
+sVsweets
+p26
+I1
+sVgeorgia
+p27
+I1
+sVknow
+p28
+I1
+sVthugged
+p29
+I6
+sVpies
+p30
+I1
+sVbread
+p31
+I1
+sVbar
+p32
+I1
+sVlike
+p33
+I2
+sVpimp
+p34
+I1
+sVplayin
+p35
+I1
+sVneptunes
+p36
+I1
+sVgettin
+p37
+I1
+sV50
+p38
+I1
+sVcandy
+p39
+I2
+sVrocks
+p40
+I1
+sVthighs
+p41
+I1
+sVguitars
+p42
+I1
+sVsleep
+p43
+I2
+sVtold
+p44
+I1
+sVclothes
+p45
+I1
+sVem
+p46
+I1
+sVbars
+p47
+I1
+sVnigga
+p48
+I6
+sVhouse
+p49
+I2
+sVthrowin
+p50
+I1
+sVlemonade
+p51
+I1
+sVboots
+p52
+I1
+sVd
+I1
+sVfull
+p53
+I2
+sVbed
+p54
+I1
+sVhoes
+p55
+I3
+sVclose
+p56
+I1
+sVgul
+p57
+I1
+sVafro
+p58
+I5
+sVforty
+p59
+I1
+sVcell
+p60
+I1
+sVgoes
+p61
+I1
+sVgot
+p62
+I1
+sVjuggle
+p63
+I1
+sVcause
+p64
+I2
+sVdirty
+p65
+I6
+sVass
+p66
+I6
+sVpullin
+p67
+I1
+sVtoes
+p68
+I2
+sVdegree
+p69
+I1
+sVcars
+p70
+I2
+sVburn
+p71
+I1
+sVwitcha
+p72
+I1
+sVwear
+p73
+I1
+sVstay
+p74
+I1
+sVthrow
+p75
+I6
+sVbox
+p76
+I1
+sVtitties
+p77
+I1
+sVdtp
+p78
+I1
+sVanything
+p79
+I1
+sVoh
+p80
+I1
+sVcountry
+p81
+I1
+sVcould
+p82
+I1
+sVdrug
+p83
+I1
+sVkeep
+p84
+I2
+sVplayers
+p85
+I1
+sVamerican
+p86
+I1
+sVflyass
+p87
+I1
+sVsweat
+p88
+I7
+sVhospitality
+p89
+I3
+sVstank
+p90
+I1
+sVmean
+p91
+I1
+sVsouth
+p92
+I6
+sVchains
+p93
+I1
+sVlove
+p94
+I2
+sVdont
+p95
+I2
+sVdrunk
+p96
+I1
+sVjohns
+p97
+I1
+sVjeans
+p98
+I1
+sVmakin
+p99
+I1
+sVsocks
+p100
+I1
+sVwit
+p101
+I2
+sVsoul
+p102
+I1
+sVthick
+p103
+I1
+sVopen
+p104
+I1
+sVplatinum
+p105
+I1
+sVmatchin
+p106
+I1
+sVfed
+p107
+I1
+sVtwenty
+p108
+I6
+sVlong
+p109
+I3
+sVpaint
+p110
+I1
+sVstars
+p111
+I1
+sVtea
+p112
+I1
+sVgim
+p113
+I1
+sVjohn
+p114
+I2
+sVliquor
+p115
+I1
+sVeyes
+p116
+I1
+sVbuy
+p117
+I1
+sVrich
+p118
+I1
+sVinches
+p119
+I1
+sVclub
+p120
+I1
+sVtongue
+p121
+I1
+sVspills
+p122
+I1
+sVlongjohn
+p123
+I2
+sVrabbit
+p124
+I1
+sVcatch
+p125
+I1
+sVgrills
+p126
+I1
+sVhold
+p127
+I1
+sVwomen
+p128
+I2
+sVme
+p129
+I2
+sVwide
+p130
+I1
+sVballs
+p131
+I1
+sVthird
+p132
+I1
+sVpharrell
+p133
+I1
+sVhat
+p134
+I1
+sVride
+p135
+I1
+sVcash
+p136
+I1
+sVniggaz
+p137
+I3
+sVshes
+p138
+I1
+sVmatter
+p139
+I1
+sVdem
+p140
+I6
+sVflo
+p141
+I2
+sVcal
+p142
+I1
+sVfried
+p143
+I1
+sVpack
+p144
+I1
+sVgoodfella
+p145
+I1
+sVhoping
+p146
+I1
+sVmind
+p147
+I1
+sVhead
+p148
+I1
+sVrip
+p149
+I1
+sVhigh
+p150
+I2
+sVtinted
+p151
+I1
+sVglock
+p152
+I1
+sVtriple
+p153
+I1
+sVstalls
+p154
+I1
+sVcheck
+p155
+I2
+sVlie
+p156
+I1
+sVhoe
+p157
+I1
+sVlet
+p158
+I1
+sVdrawers
+p159
+I1
+sVmake
+p160
+I2
+sVmills
+p161
+I1
+sVrange
+p162
+I1
+sVswisher
+p163
+I1
+sVfar
+p164
+I1
+sVhot
+p165
+I1
+sVbows
+p166
+I7
+sVcatfish
+p167
+I1
+sVbeams
+p168
+I1
+sVinch
+p169
+I5
+sVgames
+p170
+I1
+sVballinass
+p171
+I1
+sVoil
+p172
+I1
+sVflipflops
+p173
+I1
+sVcadillac
+p174
+I4
+sVsouthern
+p175
+I3
+sVhand
+p176
+I6
+sVafroamerican
+p177
+I1
+sVmouth
+p178
+I5
+sVcotpickin
+p179
+I1
+sVstocks
+p180
+I1
+sVclass
+p181
+I1
+sVglow
+p182
+I1
+sVpuss
+p183
+I1
+sVdealers
+p184
+I1
+sVcalls
+p185
+I1
+sVfills
+p186
+I1
+sVtricks
+p187
+I1
+sVpicks
+p188
+I1
+sVthangs
+p189
+I1
+sVclean
+p190
+I1
+sVteeth
+p191
+I1
+sVcadillacs
+p192
+I1
+sVfact
+p193
+I1
+s.

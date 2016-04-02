@@ -1,79 +1,662 @@
-"treat her like a prostitute" lyrics
-slick rick lyrics
-"treat her like a prostitute"
-here's an oldie but goodie
-hit it
-excuse me
-what?
-can i have your attention?
-mn-hmm
-there's just a few things that i've got to mention (uh-huh)
-there's girlies out here that seem appealing
-but they all come in your life and cold hurt your feelings
-i'm telling you
-as rick is my name
-i wouldn't trust not girl unless she feels the same
-treat 'em like a prostitute (do what?)
-don't treat no girlie well until you're sure of the scoop
-'cause all they do is they hurt and trample
-listen up close, here comes my first example
-now ya been with your girlfriend for quite a while
-plans for the future, she's having your child
-celebrate with friends drinking cans and quarts
-telling all your friends about your family thoughts
-one friend was drunk so he sstarts to act wild
-he tells the truth about the kid
-it's not your child
-acting like a jerk and on his face was a smirk
-he said, "your wife went berserk while you was hard at work"
-and she led him on and tried to please him
-she didn't waste time, she didn't try to tease him
-treat 'em like a prostitue (do what?)
-don't treat no girlie well until you're sure of the scoop
-'cause all they do is they hurt and trample
-listen up close, here comes my second example
-it's your wife
-you buy the tramp jewels and clothes
-you get sentimental and bring home a rose
-give her everything 'cause you swear she's worth it
-all your friends tell you, "the bith dont' deserve it"
-love is blind, so there goes your wealth
-until one day, you see things for yourself
-came home from work early, mr. loverman
-you had a card and some candy in your right hand
-there's the mailman, he was short yet stout
-he went inside your house and didn't come back out
-bust it
-just a friendly stop, come on, is it?
-the mailman comes and he pays your wife a visit?
-the thought alone makes your temperature boil
-you say to yourself, she might still  be loyal
-you open up your door and stand in a trance
-you see the mailman's bag and the mailman's pants
-came home to party
-at work had a hard day
-look around your house and you say, "where the hell are they?"
-run upstairs up to your bedroom
-you look inside your room, you see something brewin'
-cover your mouth because you almost choke
-you see the mailman's dick way up your wife's throat
-treat 'em like a prostitute (mm-hmm)
-don't treat no girlie well until you're sure of the scoop
-'cause all they do is they hurt and trample
-listen up close, here comes my third example
-now your girl, she don't like to have sex a lot
-and today she's ready and she's hot, hot, hot
-as you open up the door she says, "get on the floor"
-she wants to try things she's never tried before
-she takes off your drawers and works you over
-she calls you twinkles
-and you call her rover
-next thing you know, the ho starts to ill
-she says, "i love you, harold" and your name is will
-that's not the half 'til you start to ride her
-take off your rubber and there's one more inside her
-it's not yours-who can it be?
-i think it was a slick rapper, his name is m.c. ricky
-treat 'em like a prostitute
-don't treat no girlie well, treat no girlie well
-treat no girlie well, until you're sure of the scoop
+(dp1
+Vthey
+p2
+I1
+sVlyrics
+p3
+I2
+sVover
+p4
+I1
+sVbring
+p5
+I1
+sVbedroom
+p6
+I1
+sVhell
+p7
+I1
+sVcold
+p8
+I1
+sVstill
+p9
+I1
+sVyet
+p10
+I1
+sVwifes
+p11
+I1
+sVrover
+p12
+I1
+sVrubber
+p13
+I1
+sVmmhmm
+p14
+I1
+sVrose
+p15
+I1
+sVdick
+p16
+I1
+sVhot
+p17
+I3
+sVbust
+p18
+I1
+sVday
+p19
+I2
+sVtramp
+p20
+I1
+sVrick
+p21
+I2
+sVgirlie
+p22
+I6
+sVmight
+p23
+I1
+sVappealing
+p24
+I1
+sVbrewin
+p25
+I1
+sVhit
+p26
+I1
+sVaround
+p27
+I1
+sVjerk
+p28
+I1
+sVget
+p29
+I2
+sVya
+p30
+I1
+sVstop
+p31
+I1
+sVearly
+p32
+I1
+sVmention
+p33
+I1
+sVfeels
+p34
+I1
+sVknow
+p35
+I1
+sVstout
+p36
+I1
+sVhalf
+p37
+I1
+sVtelling
+p38
+I2
+sVdrinking
+p39
+I1
+sVone
+p40
+I3
+sVhim
+p41
+I2
+sVcelebrate
+p42
+I1
+sVlike
+p43
+I8
+sVsentimental
+p44
+I1
+sVname
+p45
+I3
+sVrapper
+p46
+I1
+sVcandy
+p47
+I1
+sVtry
+p48
+I2
+sVbag
+p49
+I1
+sVtruth
+p50
+I1
+sVyourswho
+p51
+I1
+sVcalls
+p52
+I1
+sVwent
+p53
+I2
+sVworks
+p54
+I1
+sVride
+p55
+I1
+sVsstarts
+p56
+I1
+sVem
+p57
+I4
+sVright
+p58
+I1
+sVsays
+p59
+I2
+sVupstairs
+p60
+I1
+sVprostitue
+p61
+I1
+sVhouse
+p62
+I2
+sVhard
+p63
+I2
+sVback
+p64
+I1
+sVsex
+p65
+I1
+sVsecond
+p66
+I1
+sVtoday
+p67
+I1
+sVshes
+p68
+I5
+sVclose
+p69
+I3
+sVgirl
+p70
+I2
+sVthing
+p71
+I1
+sVtried
+p72
+I2
+sVwhat
+p73
+I3
+sVtrust
+p74
+I1
+sVheres
+p75
+I1
+sVsmirk
+p76
+I1
+sVplease
+p77
+I1
+sVslick
+p78
+I2
+sVricky
+p79
+I1
+sVeverything
+p80
+I1
+sVacting
+p81
+I1
+sVrun
+p82
+I1
+sVgoes
+p83
+I1
+sVgot
+p84
+I1
+sVbefore
+p85
+I1
+sVcause
+p86
+I4
+sVberserk
+p87
+I1
+sVpants
+p88
+I1
+sVbe
+p89
+I1
+sVharold
+p90
+I1
+sVnever
+p91
+I1
+sVled
+p92
+I1
+sVattention
+p93
+I1
+sVquite
+p94
+I1
+sVoldie
+p95
+I1
+sValone
+p96
+I1
+sVcome
+p97
+I3
+sVcard
+p98
+I1
+sVtemperature
+p99
+I1
+sVwouldnt
+p100
+I1
+sVtease
+p101
+I1
+sVstarts
+p102
+I1
+sVill
+p103
+I1
+sVfriendly
+p104
+I1
+sVdrawers
+p105
+I1
+sVswear
+p106
+I1
+sVstand
+p107
+I1
+sVdeserve
+p108
+I1
+sVact
+p109
+I1
+sVmnhmm
+p110
+I1
+sVclothes
+p111
+I1
+sVmakes
+p112
+I1
+sVthink
+p113
+I1
+sVcomes
+p114
+I4
+sVfirst
+p115
+I1
+sVblind
+p116
+I1
+sVlove
+p117
+I2
+sVdont
+p118
+I6
+sVfamily
+p119
+I1
+sVdrunk
+p120
+I1
+sVpays
+p121
+I1
+sVfeelings
+p122
+I1
+sVuhhuh
+p123
+I1
+sVopen
+p124
+I2
+sVyourself
+p125
+I1
+sVmailman
+p126
+I2
+sVwealth
+p127
+I1
+sVher
+p128
+I2
+sVbith
+p129
+I1
+sVvisit
+p130
+I1
+sVnext
+p131
+I1
+sVstart
+p132
+I1
+sVcall
+p133
+I1
+sVtreat
+p134
+I12
+sVway
+p135
+I1
+sVprostitute
+p136
+I5
+sVtell
+p137
+I1
+sVfriend
+p138
+I1
+sVlisten
+p139
+I3
+sVwants
+p140
+I1
+sVlife
+p141
+I1
+sVbuy
+p142
+I1
+sVdoor
+p143
+I2
+sVlot
+p144
+I1
+sVsomething
+p145
+I1
+sVhurt
+p146
+I4
+sVexcuse
+p147
+I1
+sVho
+p148
+I1
+sVchild
+p149
+I2
+sVme
+p150
+I1
+sVwaste
+p151
+I1
+sVlook
+p152
+I2
+sVmc
+p153
+I1
+sVinside
+p154
+I3
+sVwork
+p155
+I3
+sVsee
+p156
+I4
+sVworth
+p157
+I1
+sVwill
+p158
+I1
+sVtrance
+p159
+I1
+sVwhile
+p160
+I1
+sVfuture
+p161
+I1
+sVboil
+p162
+I1
+sVmr
+p163
+I1
+sVwild
+p164
+I1
+sVdidnt
+p165
+I3
+sVexample
+p166
+I3
+sVtheres
+p167
+I4
+sVive
+p168
+I1
+sVready
+p169
+I1
+sVgive
+p170
+I1
+sValmost
+p171
+I1
+sVcover
+p172
+I1
+sVit
+p173
+I5
+sVjewels
+p174
+I1
+sVchoke
+p175
+I1
+sVthroat
+p176
+I1
+sVsay
+p177
+I2
+sVim
+p178
+I1
+sVcans
+p179
+I1
+sVgoodie
+p180
+I1
+sVgirlfriend
+p181
+I1
+sVseem
+p182
+I1
+sVtwinkles
+p183
+I1
+sVtells
+p184
+I1
+sVroom
+p185
+I1
+sVfloor
+p186
+I1
+sVthings
+p187
+I3
+sVsame
+p188
+I1
+sVtil
+p189
+I1
+sVtrample
+p190
+I3
+sVtake
+p191
+I1
+sVparty
+p192
+I1
+sVyou
+p193
+I1
+sVout
+p194
+I1
+sVgirlies
+p195
+I1
+sVsure
+p196
+I4
+sVunless
+p197
+I1
+sVplans
+p198
+I1
+sVquarts
+p199
+I1
+sVhand
+p200
+I1
+sVsaid
+p201
+I1
+sVmouth
+p202
+I1
+sVloverman
+p203
+I1
+sVfriends
+p204
+I3
+sVthoughts
+p205
+I1
+sVkid
+p206
+I1
+sVshort
+p207
+I1
+sVtakes
+p208
+I1
+sVthird
+p209
+I1
+sVwife
+p210
+I3
+sVhome
+p211
+I3
+sVyoure
+p212
+I4
+sVwell
+p213
+I6
+sVmailmans
+p214
+I3
+sVface
+p215
+I1
+sVthought
+p216
+I1
+sVscoop
+p217
+I4
+sVloyal
+p218
+I1
+sVtime
+p219
+I1
+sVthats
+p220
+I1
+sVcame
+p221
+I2
+s.

@@ -1,73 +1,521 @@
-"happy valentine's day" lyrics
-outkast lyrics
-"happy valentine's day"
-my name is cupid valentino, the modern day cupid
-and i just want to say one thing
-happy valentine's day
-every day the 14th!
-i don't think y'all heard me!
-i just wanna say happy valentine's day!
-every day the 14th!
-can y'all dig that?
-now when arrows don't penetrate, see
-cupid grabs the pistol (uh, yeah, now, now lookie here!)
-and he shoots straight for your heart
-and when he won't miss you!
-that's alright 'cause y'all won't believe in me anyways
-but..
-ya won't believe in me, but you would fancy
-leprechauns or groundhogs
-no thank you, easter bunny!
-(there's all this talk about santa claus, but see
-love will rule reign supreme)
-happy valentine's day
-every day the 14th! (you got it!)
-when cupid knocks at your door
-you can't ignore me!
-there's no need to run!
-so, happy valentine's day (hey!)
-every day the 14th!
-i may have it all wrong, see
-if you know what loves mean, well
-well, somebody tell me!
-'cuz they just don't believe in me!
-ya' won't believe in me, but you would fancy
-leprechauns or groundhogs
-no thank you, easter bunny!
-(there's so much fuss about santa claus, but see
-cupid will not be defeated!)
-happy valentine's day
-every day the 14th!
-now i know your hearts have grown cold
-and that bothers me
-now i understand 'cause i use to be a bad boy in my day
-i know you're trying to protect your lil' feelings
-but you can't run away
-oooh ooh!
-ya' won't believe in me, but you would fancy..
-(hey! don't you supposed to be some kind of player or something?)
-bunny!
-well keep on runnin', player
-'cause i got my good shoes on
-and i got 'em tied up tight
-so, you're going to find out tonightttttttttt!
-got a sweet lil' darling back in my corner
-below i know i love her, but act like i don't want her
-surrounded by the lonely, but yet feel like a loner
-could be an organ donor
-the way i give up my heart, but
-never know because - shit, i never tell her!
-ask me about my feelings i'd holla' that it's irrela'
-i don't get myself caught up in the jello gella'
-and puddin' pops, that others opt to call falling in love, but
-for the record, have you ever rode a horse?
-would i like for you to take me to pluto?
-i said, "of course!"
-but if you ain't a sweety indeedy, i won't endorse
-hans solo till i'm hit by the bullet, so may the force
-be with you, and i'll hit you when better time permits
-for now, give me examples of why you're the shit!
-but how am i to know with the profession that i'm in?
-and if you do not know me, then how could you be my friend?
-happy valentine's, happy valentine's
-happy valentine's day, happy valentine's day
+(dp1
+Vshoes
+p2
+I1
+sVlyrics
+p3
+I2
+sVpops
+p4
+I1
+sVcourse
+p5
+I1
+sVpenetrate
+p6
+I1
+sVcorner
+p7
+I1
+sVcold
+p8
+I1
+sVfind
+p9
+I1
+sVvalentino
+p10
+I1
+sVaint
+p11
+I1
+sVtrying
+p12
+I1
+sVthank
+p13
+I2
+sVtill
+p14
+I1
+sVcuz
+p15
+I1
+sVcupid
+p16
+I5
+sVbetter
+p17
+I1
+sVgoing
+p18
+I1
+sVeaster
+p19
+I2
+sVopt
+p20
+I1
+sVrunnin
+p21
+I1
+sVgood
+p22
+I1
+sVsomebody
+p23
+I1
+sVget
+p24
+I1
+sVya
+p25
+I3
+sVprofession
+p26
+I1
+sVevery
+p27
+I5
+sVknow
+p28
+I7
+sVknocks
+p29
+I1
+sVfeelings
+p30
+I2
+sVday
+p31
+I16
+sVlike
+p32
+I3
+sVwont
+p33
+I6
+sVname
+p34
+I1
+sVgroundhogs
+p35
+I2
+sVever
+p36
+I1
+sVdig
+p37
+I1
+sVarrows
+p38
+I1
+sVignore
+p39
+I1
+sVbad
+p40
+I1
+sVoooh
+p41
+I1
+sVyall
+p42
+I3
+sVmean
+p43
+I1
+sVem
+p44
+I1
+sVsweety
+p45
+I1
+sVforce
+p46
+I1
+sVgrabs
+p47
+I1
+sVyeah
+p48
+I1
+sVsee
+p49
+I4
+sVanyways
+p50
+I1
+sVsaid
+p51
+I1
+sVaway
+p52
+I1
+sVsurrounded
+p53
+I1
+sVirrela
+p54
+I1
+sV14th
+p55
+I5
+sVendorse
+p56
+I1
+sVgot
+p57
+I4
+sVdarling
+p58
+I1
+sVpistol
+p59
+I1
+sVcause
+p60
+I3
+sVsupposed
+p61
+I1
+sVsolo
+p62
+I1
+sVrun
+p63
+I2
+sVoutkast
+p64
+I1
+sVtonightttttttttt
+p65
+I1
+sVnever
+p66
+I2
+sVhorse
+p67
+I1
+sVhere
+p68
+I1
+sVpluto
+p69
+I1
+sVsanta
+p70
+I2
+sVothers
+p71
+I1
+sVask
+p72
+I1
+sVorgan
+p73
+I1
+sVboy
+p74
+I1
+sVprotect
+p75
+I1
+sVher
+p76
+I2
+sVcould
+p77
+I2
+sVvalentines
+p78
+I11
+sVkeep
+p79
+I1
+sVthing
+p80
+I1
+sVact
+p81
+I1
+sVjello
+p82
+I1
+sVlookie
+p83
+I1
+sVthats
+p84
+I1
+sVlove
+p85
+I3
+sVdont
+p86
+I6
+sVfeel
+p87
+I1
+sVsweet
+p88
+I1
+sVgella
+p89
+I1
+sVfancy
+p90
+I3
+sVone
+p91
+I1
+sVshoots
+p92
+I1
+sVmiss
+p93
+I1
+sVwan
+p94
+I1
+sVuse
+p95
+I1
+sVpermits
+p96
+I1
+sVwould
+p97
+I4
+sVcaught
+p98
+I1
+sVhey
+p99
+I2
+sVbothers
+p100
+I1
+sVmuch
+p101
+I1
+sVcall
+p102
+I1
+sVway
+p103
+I1
+sVtell
+p104
+I2
+sVfriend
+p105
+I1
+sVhappy
+p106
+I11
+sVdoor
+p107
+I1
+sVthat
+p108
+I1
+sVclaus
+p109
+I2
+sVooh
+p110
+I1
+sVreign
+p111
+I1
+sVback
+p112
+I1
+sVexamples
+p113
+I1
+sVunderstand
+p114
+I1
+sVfalling
+p115
+I1
+sVbelieve
+p116
+I5
+sVme
+p117
+I5
+sVkind
+p118
+I1
+sVplayer
+p119
+I2
+sVstraight
+p120
+I1
+sVcant
+p121
+I2
+sVrecord
+p122
+I1
+sVindeedy
+p123
+I1
+sVuh
+p124
+I1
+sVloves
+p125
+I1
+sVill
+p126
+I1
+sVtheres
+p127
+I3
+sVheart
+p128
+I2
+sVsupreme
+p129
+I1
+sVgive
+p130
+I2
+sVmodern
+p131
+I1
+sVrode
+p132
+I1
+sVit
+p133
+I1
+sVdefeated
+p134
+I1
+sVheard
+p135
+I1
+sVsay
+p136
+I2
+sVlonely
+p137
+I1
+sVim
+p138
+I2
+sVsomething
+p139
+I1
+sVwant
+p140
+I2
+sVin
+p141
+I1
+sVneed
+p142
+I1
+sVhit
+p143
+I2
+sVyet
+p144
+I1
+sVid
+p145
+I1
+sVshit
+p146
+I2
+sVgrown
+p147
+I1
+sVholla
+p148
+I1
+sVlil
+p149
+I2
+sVna
+p150
+I1
+sVtight
+p151
+I1
+sVtake
+p152
+I1
+sVdonor
+p153
+I1
+sVyou
+p154
+I1
+sVbunny
+p155
+I3
+sVloner
+p156
+I1
+sVfuss
+p157
+I1
+sVmay
+p158
+I2
+sVtied
+p159
+I1
+sVwrong
+p160
+I1
+sVbut
+p161
+I3
+sVhans
+p162
+I1
+sVpuddin
+p163
+I1
+sVon
+p164
+I1
+sVleprechauns
+p165
+I2
+sVbullet
+p166
+I1
+sVyoure
+p167
+I3
+sVwell
+p168
+I3
+sVrule
+p169
+I1
+sVthink
+p170
+I1
+sVtime
+p171
+I1
+sValright
+p172
+I1
+sVhearts
+p173
+I1
+sVtalk
+p174
+I1
+s.

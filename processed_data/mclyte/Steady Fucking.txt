@@ -1,100 +1,742 @@
-"steady fucking" lyrics
-mc lyte lyrics
-"steady fucking"
-du-du-du-duuu-du-du
-you wanna test lyte?
-are you stupid?
-you gotta be out of your fuckin mind!
-mc lyte is the don!
-come down, mc lyte, seen
-dirty bitch, you dirty, dirty bitch...
-(roxanne shanté is only good for steady fucking)
-go, go, go, go...
-(you done insulted me
-and i got to kick yo ass right now)
-so what's up, big bahama mama?
-you know where to find me
-you could never climb me
-so why do you persist
-to be placed upon my fuckin hit list
-you a low-down dirty loser
-next time i see you, i'ma hit you with my land cruiser
-you'se a pooh-put, lyte don't give a fuck
-i.u. sayin he laid pipe in that butt?
-and in case you didn't know
-i been known to fuck up a hoe during a show
-so now you wanna play miss hardrock
-don't test me, i put up career roadblocks
-i heard you're smokin crack, lady
-you just had a kid, i guess that makes him a - crack - baby
-whadda ya think?
-the 55th nigga you fucked said your poom-poom stink
-slow down, you're movin too fast
-the 56th said he stuck a curling iron up that ass
-now you think you're hot shit
-steppin to lyte with a limp tryin to pop shit
-you're still a loser
-no joke, when i see you i'ma hit you with the cruiser
-(set the bitch on fire
-your fucking days are over)
-(roxanne shanté is only good for steady fucking)
-go, go, go, go...
-from upstate new york to way down south
-i heard you do a mic-a-check-a with a dick in your mouth
-you're ready for the showdown, the low down
-lyte strikes again, another hoe down
-fuckin to you, shanny, is like a fad
-flippin coins with your mom to see who sucks dad
-but wait a second, i heard you're kinda funky
-but then again, who's heard of a clean junkie?
-how funky of a smell could one woman make?
-yo fellas, i think she need a douche break
-(douche, douche it out - douche break
-(douche, douche it out - douche
-(douche, douche it out - douche break
-(douche, douche it out - douche, douche, douche
-(douche, douche it out - douche break
-(douche, douche it out - i think you need a douche)
-tisk-tisk, what a relief it is
-not to be, not to be, not to be you
-not to be, not to be, not to be you
-or one of those pussy-eatin members of your crew
-cause if your crew was cool, they woulda scooped you
-but instead, you let them fool you
-into talkin that bullshit you been talkin
-walkin that stank strut you been walkin
-i don't play that, ring around the rosie
-pocket full of posie, red-rum, you dumb, dumb
-(we can all be some fightin muthafuckas in here this evening
-bring your ass, nigga, bring it on, come on)
-(roxanne shanté is only good for steady fucking)
-go, go, go, go...
-now let's talk about the grill (the grill)
-now let's talk about the grill (the grill)
-now let's talk about that grill (the grill)
-we'd all be dead if looks could kill (ugh)
-now let's talk about your teeth
-shits ain't been straight since you was 8
-when you bit into a bad piece of beef
-and even for a small fee
-you let your uncle get one off while you bonced on his fuckin knee
-now what's my fuckin name?
-left you so far behind, you can't get back into the fuckin game
-you must like puttin dough in my pocket
-since '86 my career sky-rocket
-where ya at? (ah-ha-ha-ha-ha-ha
-ho-ho, hu-hu-hu) - dumb hoe (ha-ha-ha)
-i got this rap shit locked, sewn, hemmed
-while you're hangin from a buddah stem
-i do this and that, baby pop, i get residuals
-i'm liable to just fuck up you schedule
-you'll be sittin on your fat ass another 10 years
-until the coast is clear
-so next time they push a rhyme in your hand
-you better fully understand who the fuck i am
-(at least now we know...)
-dumb
-...it's all about lyte)
-bitch
-(roxanne shanté is only good for steady fucking)
-go, go, go, go...
+(dp1
+Vugh
+p2
+I1
+sVset
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVscooped
+p6
+I1
+sVover
+p7
+I1
+sVyears
+p8
+I1
+sVknown
+p9
+I1
+sVkill
+p10
+I1
+sVlooks
+p11
+I1
+sVgo
+p12
+I16
+sVfellas
+p13
+I1
+sVstill
+p14
+I1
+sVfind
+p15
+I1
+sVcurling
+p16
+I1
+sVima
+p17
+I2
+sVslow
+p18
+I1
+sVcruiser
+p19
+I2
+sVwed
+p20
+I1
+sVdick
+p21
+I1
+sVhoho
+p22
+I1
+sVhot
+p23
+I1
+sVcrew
+p24
+I2
+sVbetter
+p25
+I1
+sVlets
+p26
+I4
+sVpersist
+p27
+I1
+sV8
+I1
+sVkick
+p28
+I1
+sVta
+p29
+I1
+sVdad
+p30
+I1
+sVme
+p31
+I3
+sVgood
+p32
+I4
+sVhit
+p33
+I3
+sVaround
+p34
+I1
+sVyo
+p35
+I2
+sVtisktisk
+p36
+I1
+sVya
+p37
+I2
+sVbig
+p38
+I1
+sVsittin
+p39
+I1
+sVrhyme
+p40
+I1
+sVwoulda
+p41
+I1
+sVstrut
+p42
+I1
+sVbreak
+p43
+I4
+sVgame
+p44
+I1
+sVknow
+p45
+I3
+sVmom
+p46
+I1
+sVnew
+p47
+I1
+sVlocked
+p48
+I1
+sVbit
+p49
+I1
+sVnow
+p50
+I1
+sVlady
+p51
+I1
+sVbullshit
+p52
+I1
+sVfad
+p53
+I1
+sVcool
+p54
+I1
+sVlike
+p55
+I2
+sVbring
+p56
+I2
+sVyoull
+p57
+I1
+sVlist
+p58
+I1
+sVmuthafuckas
+p59
+I1
+sVloser
+p60
+I2
+sVresiduals
+p61
+I1
+sVbad
+p62
+I1
+sVstupid
+p63
+I1
+sVposie
+p64
+I1
+sVsmall
+p65
+I1
+sVdough
+p66
+I1
+sVstraight
+p67
+I1
+sV56th
+p68
+I1
+sVright
+p69
+I1
+sVfucking
+p70
+I7
+sVshowdown
+p71
+I1
+sVback
+p72
+I1
+sVdead
+p73
+I1
+sVsee
+p74
+I3
+sVfull
+p75
+I1
+sVsteppin
+p76
+I1
+sVwait
+p77
+I1
+sV86
+p78
+I1
+sVeven
+p79
+I1
+sVmovin
+p80
+I1
+sVsaid
+p81
+I2
+sVhemmed
+p82
+I1
+sVsince
+p83
+I2
+sVlaid
+p84
+I1
+sVwhadda
+p85
+I1
+sVam
+p86
+I1
+sVgot
+p87
+I3
+sVcause
+p88
+I1
+sVass
+p89
+I4
+sVaint
+p90
+I1
+sVrosie
+p91
+I1
+sViron
+p92
+I1
+sVbuddah
+p93
+I1
+sVbonced
+p94
+I1
+sVstank
+p95
+I1
+sVnever
+p96
+I1
+sVstem
+p97
+I1
+sVsewn
+p98
+I1
+sVlet
+p99
+I2
+sVsmokin
+p100
+I1
+sVmembers
+p101
+I1
+sVput
+p102
+I1
+sVcome
+p103
+I2
+sVsayin
+p104
+I1
+sVon
+p105
+I1
+sVputtin
+p106
+I1
+sVcareer
+p107
+I2
+sVjoke
+p108
+I1
+sVcould
+p109
+I3
+sVliable
+p110
+I1
+sVfightin
+p111
+I1
+sVdays
+p112
+I1
+sVwalkin
+p113
+I2
+sVyouse
+p114
+I1
+sVfunky
+p115
+I2
+sVskyrocket
+p116
+I1
+sV10
+p117
+I1
+sVclimb
+p118
+I1
+sVmakes
+p119
+I1
+sVthink
+p120
+I4
+sVfuckin
+p121
+I6
+sVyork
+p122
+I1
+sVwhats
+p123
+I2
+sVdont
+p124
+I3
+sVlimp
+p125
+I1
+sVpop
+p126
+I2
+sVone
+p127
+I3
+sVdown
+p128
+I2
+sVnigga
+p129
+I2
+sVdone
+p130
+I1
+sVbitch
+p131
+I4
+sVanother
+p132
+I2
+sVring
+p133
+I1
+sVwhos
+p134
+I1
+sVmiss
+p135
+I1
+sVwan
+p136
+I2
+sVguess
+p137
+I1
+sVfee
+p138
+I1
+sVbeef
+p139
+I1
+sVlyte
+p140
+I8
+sVcoins
+p141
+I1
+sVshanny
+p142
+I1
+sVfast
+p143
+I1
+sVnext
+p144
+I2
+sVstuck
+p145
+I1
+sVlow
+p146
+I1
+sVroxanne
+p147
+I4
+sVmama
+p148
+I1
+sVtryin
+p149
+I1
+sVhardrock
+p150
+I1
+sVway
+p151
+I1
+sVname
+p152
+I1
+sVbehind
+p153
+I1
+sVfire
+p154
+I1
+sViu
+p155
+I1
+sVcrack
+p156
+I2
+sVstrikes
+p157
+I1
+sVshits
+p158
+I1
+sVpoohput
+p159
+I1
+sVleast
+p160
+I1
+sVuncle
+p161
+I1
+sVbutt
+p162
+I1
+sVbaby
+p163
+I2
+sVmust
+p164
+I1
+sVcase
+p165
+I1
+sVgrill
+p166
+I6
+sVdouche
+p167
+I21
+sVmc
+p168
+I3
+sVneed
+p169
+I2
+sVbahama
+p170
+I1
+sVsucks
+p171
+I1
+sVsecond
+p172
+I1
+sVschedule
+p173
+I1
+sVplaced
+p174
+I1
+sVevening
+p175
+I1
+sVdudududuuududu
+p176
+I1
+sVdirty
+p177
+I4
+sVinsulted
+p178
+I1
+sVhahaha
+p179
+I1
+sVdumb
+p180
+I4
+sVpiece
+p181
+I1
+sVdidnt
+p182
+I1
+sVfool
+p183
+I1
+sVstink
+p184
+I1
+sVpoompoom
+p185
+I1
+sVgive
+p186
+I1
+sVis
+p187
+I1
+sVmind
+p188
+I1
+sVfuck
+p189
+I4
+sVheard
+p190
+I4
+sVcant
+p191
+I1
+sVwoman
+p192
+I1
+sVim
+p193
+I1
+sVrap
+p194
+I1
+sVready
+p195
+I1
+sVseen
+p196
+I1
+sVshit
+p197
+I3
+sVredrum
+p198
+I1
+sVhoe
+p199
+I3
+sVjunkie
+p200
+I1
+sVna
+p201
+I2
+sVmake
+p202
+I1
+sVget
+p203
+I3
+sVfar
+p204
+I1
+sV55th
+p205
+I1
+sVtest
+p206
+I2
+sVinstead
+p207
+I1
+sVyou
+p208
+I4
+sVhangin
+p209
+I1
+sVsmell
+p210
+I1
+sVtalkin
+p211
+I2
+sVrelief
+p212
+I1
+sVplay
+p213
+I2
+sVmicachecka
+p214
+I1
+sVahhahahahaha
+p215
+I1
+sVteeth
+p216
+I1
+sVupon
+p217
+I1
+sVhand
+p218
+I1
+sVroadblocks
+p219
+I1
+sVhuhuhu
+p220
+I1
+sVmouth
+p221
+I1
+sVfat
+p222
+I1
+sVkinda
+p223
+I1
+sVfucked
+p224
+I1
+sVknee
+p225
+I1
+sVcoast
+p226
+I1
+sVupstate
+p227
+I1
+sVunderstand
+p228
+I1
+sVkid
+p229
+I1
+sVpocket
+p230
+I2
+sVland
+p231
+I1
+sVdon
+p232
+I1
+sVfully
+p233
+I1
+sVlowdown
+p234
+I1
+sVclear
+p235
+I1
+sVyoure
+p236
+I7
+sVsteady
+p237
+I6
+sVpipe
+p238
+I1
+sVflippin
+p239
+I1
+sVsouth
+p240
+I1
+sVclean
+p241
+I1
+sVtime
+p242
+I2
+sVpush
+p243
+I1
+sVpussyeatin
+p244
+I1
+sVshant�
+p245
+I4
+sVtalk
+p246
+I4
+sVleft
+p247
+I1
+s.

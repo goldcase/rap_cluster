@@ -1,85 +1,679 @@
-"hey young world" lyrics
-slick rick lyrics
-"hey young world"
-guess who's back
-hey young world... the world is yours
-hey young world... the world is yours
-young world young world... the world is yours
-young wo-ah-huh-huh-huh-urld
-this rap here... it may cause concern it's
-broad and deep... why don't you listen and learn
-love mean happiness... that once was strong
-but due to society... even that's turned wrong
-times have changed... and it's cool to look bummy
-and be a dumb dummy and disrespect your mummy
-have you forgotten... who put you on this earth?
-who brought you up right... and who loved you since your birth?
-reward is a brainwashed kid goin wild
-young little girls already have a child
-bad company... hey, now you've been framed
-your parents are hurting... hurting and ashamed
-you're ruining yourself... and your mommy can't cope
-hey, little kids don't follow these dopes
-here's a rule for the non cool... your life, don't drool
-don't be a fool like those that don't go to school
-get ahead... and accomplish things
-you'll see the wonder and the joy life brings
-don't admire thieves... hey they don't admire you
-their time's limited, hardrocks too
-so listen, be strong, scream whoopee-doo
-go for yours, cause dreams come true
-and you'll make your mommy proud... so proud of you too
-and this is a message... that the ruler rick threw
-and it's true
-"you know, you know what, you know what, you know what?
-we like to party, like to party"
-hey young world, the world is yours
-hey young world
-"yo peep this"
-hey mr. bigshot... hey, don't you look fly?
-but you don't have a nickle... ohhhh, my my my
-you've been fightin again and, you forgot why
-hey kid, walk straight, master your high
-whyyyyyyyyyyyyyyyy.... because you make your family cry
-and all jokes aside, are you in good health?
-hey little boy... now have you really checked yourself?
-you're a disgust, you know someone that i can't trust, you'd
-steal mom's welfare... and you'd run and buy some dust, and
-plus, a must so... bigshot you're not
-your friends are talkin and i'm hearin that your girls are what?
-you didn't know?  go steal and rob
-and while you're at it... go get a suit for a j-awhh-ob
-you see you're actin like this urge is demandin
-c'mon, wake up... have some understandin
-society's a weak excuse for a man
-it's time for the brothers... rap is trying to take the stand
-believe it or not, the lord still shines on you deep
-guides you... and he watched you as you grew, plus
-past the age of... a little child, that's true
-but folks your age don't act like you do, so
-so be mature... and put the point to a halt
-and if you're over eighteen... i wish you'd act like an adult
-don't live in a world... of hate hate hate
-pull yourself together... and get yourself straight
-men don't steal... hey, most don't borrow
-and if you smoke crack... your kids'll smoke crack tomorrow
-so be more mature... and kids do your chores
-make your own money... hey, be proud that's yours
-you know why, cause that's a man... that's brains no spite
-stayin out of trouble... when it comes in sight
-and a man never loses a fight... in god's sight
-cause righteous laws are overdue
-and this is a message that the ruler rick threw
-and it's true
-"you know, you know what, you know what, you know what?
-we like to party, like to party"
-hey young world, the world is yours
-hey young world...
-"yo peep this...
-mc... ricky... d...
-the grand wizzard...
-and his partner...
-and his and his and his partner...
-say what?
-la-di! da-di! la-di! da-di!
-la-di-da-di..."
+(dp1
+Vlimited
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVrob
+p5
+I1
+sVwelfare
+p6
+I1
+sVgo
+p7
+I4
+sVfollow
+p8
+I1
+sVstill
+p9
+I1
+sVdopes
+p10
+I1
+sVits
+p11
+I1
+sVhappiness
+p12
+I1
+sVladidadi
+p13
+I1
+sVbelieve
+p14
+I1
+sVspite
+p15
+I1
+sVoverdue
+p16
+I1
+sVyoung
+p17
+I12
+sVwizzard
+p18
+I1
+sVthieves
+p19
+I1
+sVparents
+p20
+I1
+sVrick
+p21
+I3
+sVdisgust
+p22
+I1
+sVcrack
+p23
+I2
+sVfolks
+p24
+I1
+sVlord
+p25
+I1
+sVrighteous
+p26
+I1
+sVfool
+p27
+I1
+sVnon
+p28
+I1
+sVgood
+p29
+I1
+sVgods
+p30
+I1
+sVhalt
+p31
+I1
+sVyo
+p32
+I2
+sVget
+p33
+I3
+sVmoms
+p34
+I1
+sVruler
+p35
+I2
+sVgrand
+p36
+I1
+sVladi
+p37
+I2
+sVhate
+p38
+I3
+sVgrew
+p39
+I1
+sVknow
+p40
+I11
+sVbirth
+p41
+I1
+sVnot
+p42
+I1
+sVworld
+p43
+I16
+sVtrouble
+p44
+I1
+sVwalk
+p45
+I1
+sVricky
+p46
+I1
+sVdreams
+p47
+I1
+sVcool
+p48
+I2
+sVschool
+p49
+I1
+sVlike
+p50
+I8
+sVyoull
+p51
+I2
+sVcry
+p52
+I1
+sVborrow
+p53
+I1
+sVloses
+p54
+I1
+sVjokes
+p55
+I1
+sVbad
+p56
+I1
+sVman
+p57
+I3
+sVsteal
+p58
+I3
+sVmean
+p59
+I1
+sVright
+p60
+I1
+sVback
+p61
+I1
+sVd
+I1
+sVpast
+p62
+I1
+sVsociety
+p63
+I1
+sVsee
+p64
+I2
+sVdumb
+p65
+I1
+sVjawhhob
+p66
+I1
+sVearth
+p67
+I1
+sVconcern
+p68
+I1
+sVeven
+p69
+I1
+sVhardrocks
+p70
+I1
+sVwhat
+p71
+I4
+sVaccomplish
+p72
+I1
+sVkidsll
+p73
+I1
+sVmummy
+p74
+I1
+sVbroad
+p75
+I1
+sVsince
+p76
+I1
+sVslick
+p77
+I1
+sVguides
+p78
+I1
+sVstayin
+p79
+I1
+sVhealth
+p80
+I1
+sVcause
+p81
+I4
+sVactin
+p82
+I1
+sVfight
+p83
+I1
+sVmen
+p84
+I1
+sVrun
+p85
+I1
+sVjoy
+p86
+I1
+sVmr
+p87
+I1
+sVweak
+p88
+I1
+sVguess
+p89
+I1
+sVbrainwashed
+p90
+I1
+sVdisrespect
+p91
+I1
+sVput
+p92
+I2
+sVpeep
+p93
+I2
+sVstrong
+p94
+I2
+sVcome
+p95
+I1
+sVpull
+p96
+I1
+sVboy
+p97
+I1
+sVkids
+p98
+I2
+sVahead
+p99
+I1
+sVdidnt
+p100
+I1
+sVchanged
+p101
+I1
+sVfightin
+p102
+I1
+sVtimes
+p103
+I2
+sVplus
+p104
+I2
+sVdue
+p105
+I1
+sVsmoke
+p106
+I2
+sVyouve
+p107
+I2
+sVunderstandin
+p108
+I1
+sVcomes
+p109
+I1
+sVthats
+p110
+I5
+sValready
+p111
+I1
+sVlove
+p112
+I1
+sVdont
+p113
+I13
+sVfamily
+p114
+I1
+sVpoint
+p115
+I1
+sVmommy
+p116
+I2
+sVyoud
+p117
+I3
+sVframed
+p118
+I1
+sVbrought
+p119
+I1
+sVcmon
+p120
+I1
+sVbigshot
+p121
+I2
+sVmessage
+p122
+I2
+sVtrust
+p123
+I1
+sVtomorrow
+p124
+I1
+sVyourself
+p125
+I1
+sVlittle
+p126
+I4
+sVchecked
+p127
+I1
+sVgirls
+p128
+I2
+sVhey
+p129
+I17
+sVwhos
+p130
+I1
+sVlive
+p131
+I1
+sVmaster
+p132
+I1
+sVtoo
+p133
+I2
+sVsuit
+p134
+I1
+sVdrool
+p135
+I1
+sVnickle
+p136
+I1
+sVkid
+p137
+I2
+sVreally
+p138
+I1
+sVlisten
+p139
+I2
+sVlife
+p140
+I2
+sVbuy
+p141
+I1
+sVwoahhuhhuhhuhurld
+p142
+I1
+sVcope
+p143
+I1
+sVbrings
+p144
+I1
+sVcompany
+p145
+I1
+sVwhyyyyyyyyyyyyyyyy
+p146
+I1
+sVexcuse
+p147
+I1
+sVmc
+p148
+I1
+sVwake
+p149
+I1
+sVadult
+p150
+I1
+sVashamed
+p151
+I1
+sVchild
+p152
+I2
+sVtrying
+p153
+I1
+sVtrue
+p154
+I4
+sVmust
+p155
+I1
+sVfly
+p156
+I1
+sVloved
+p157
+I1
+sVhearin
+p158
+I1
+sVlook
+p159
+I2
+sVruining
+p160
+I1
+sVthis
+p161
+I2
+sVwish
+p162
+I1
+sVstraight
+p163
+I2
+sVsay
+p164
+I1
+sVact
+p165
+I2
+sVadmire
+p166
+I2
+sVeighteen
+p167
+I1
+sVmature
+p168
+I2
+sVlearn
+p169
+I1
+sVwild
+p170
+I1
+sVthrew
+p171
+I2
+sVmy
+p172
+I1
+sVand
+p173
+I1
+sVproud
+p174
+I3
+sVsight
+p175
+I2
+sVforgot
+p176
+I1
+sVturned
+p177
+I1
+sVhurting
+p178
+I2
+sVdeep
+p179
+I2
+sVbummy
+p180
+I1
+sVhigh
+p181
+I1
+sVcant
+p182
+I2
+sVsomeone
+p183
+I1
+sVim
+p184
+I1
+sVtogether
+p185
+I1
+sVrap
+p186
+I2
+sVpartner
+p187
+I2
+sVwatched
+p188
+I1
+sVohhhh
+p189
+I1
+sVshines
+p190
+I1
+sVchores
+p191
+I1
+sVwhoopeedoo
+p192
+I1
+sVthings
+p193
+I1
+sVmake
+p194
+I3
+sVaside
+p195
+I1
+sVtake
+p196
+I1
+sVbrains
+p197
+I1
+sVparty
+p198
+I4
+sVyou
+p199
+I1
+sVwonder
+p200
+I1
+sVtalkin
+p201
+I1
+sVstand
+p202
+I1
+sVurge
+p203
+I1
+sVbrothers
+p204
+I1
+sVmay
+p205
+I1
+sVforgotten
+p206
+I1
+sVwrong
+p207
+I1
+sVnever
+p208
+I1
+sVsocietys
+p209
+I1
+sVdust
+p210
+I1
+sVfriends
+p211
+I1
+sVwhy
+p212
+I1
+sVgoin
+p213
+I1
+sVdummy
+p214
+I1
+sVdadi
+p215
+I2
+sVdemandin
+p216
+I1
+sVage
+p217
+I2
+sVyoure
+p218
+I6
+sVrule
+p219
+I1
+sVscream
+p220
+I1
+sVheres
+p221
+I1
+sVso
+p222
+I1
+sVtime
+p223
+I1
+sVreward
+p224
+I1
+sVyours
+p225
+I6
+sVlaws
+p226
+I1
+s.

@@ -1,92 +1,489 @@
-"the questions" lyrics
-common lyrics
-"the questions"
-(feat. mos def)
-uhh..
-it's the questions (what..) it's the questions boy
-it's the questions (what?) it's the questions c'mon
-the questions (what?) it's the questions boy
-it's the questions (hah) it's the questions yeah
-talkin bout the questions, it's the questions y'all
-it's the questions (what?) it's the questions, dig it
-the questions (why?) it's the questions boy
-it's the questions (huh?) that's what it's all about
-yo, yo..
-what is an emcee if the wall ain't got no back?
-(i don't know, yo, he must be kinda wack)
-what is paper to a nigga if the nigga don't stack?
-(yo, why the hell you askin me that?)
-why do these girls, look so good in the summer?
-(i don't know, i'm just sayin this shit)
-if you got ta-dat-ta-dat-tap for your lady wouldja wanna?
-(hmmm.. yeah, right)
-cause you answer the phone "peace" do that mean that you not a freak?
-(hell no! that's right)
-cause you recognize me-e-e-e-e, yo, i got to speak?
-(why can't you speak? what you big a star now?)
-why you got-ta, act like, nigga, all the time
-(even on sunday's you should..)
-is a nigga yo' complexion, is it all in your mind?
-(it's all your mind..)
-what's it called y'all?
-it's the questions (what?) it's the questions boy
-it's the questions (what?) it's the questions, yeah!
-the questions (uhh) it's the questions y'all
-it's the questions (what?) it's the questions c'mon
-the questions, it's the questions boy
-it's the questions (ahh, uh ahh) it's the questions, yeah
-the questions (yes) it's the questions boy
-it's the questions - that's what it's all about
-yo, if i'm a intellectual-al, i can't be sexual?
-(i don't know, you wanna be sexual??)
-if i want to uhh tah uhh does that mean i lack respect for you?
-(i don't know you tell me..)
-youse a grown man, why fuck that young girl, are you lustin?
-(i might look twenty but i'm 15 - slow down girl)
-if you got paper like that, then why you still hustlin?
-(why you still hustlin? c'mon!)
-now you know yo' stomach too big, to be wearin a shirt like that
-(look at your stomach - ewww it's sloppy)
-so why, you want, to go and do that?
-why ya why ya why ya why ya why ya wanna why ya wanna
-why ya wanna go and do that love huh?
-yo why your girl gi-giddy when my name come up?
-{*female giggling*}
-how come the industry build careers that don't last?
-(uh-huh, that's right, ask him)
-how come niggaz don't know but they front and don't ask?
-(mmmmhmmm) man i don't know, i don't know
-it's the questions (what?) it's the questions girl
-it's the questions (what?) it's the questions c'mon
-the questions (what?) it's the questions com
-it's the questions (hah) it's the questions yeah
-yo we talkin bout t
-it's the questions (the who, the where, the when, the why)
-it's the questions, c'mon!!
-the questions.. the questions y'all (yo we shoutin it out)
-it's the questions - that's what it's all about
-yo, why they say never say never, when they know that ain't right?
-(what???)
-cause to never say never you done said never twice
-(they scrubs, that's why - yeah that's twice)
-why do i need i.d. to get i.d.?
-(i don't know, beats me.. beats me)
-if i had i.d. i wouldn't need i.d.
-(hahahahah, that's right - that's true)
-why do these fine ghetto women got so much ass?
-(why'd you talkin about our ass though? c'mon now)
-why did dr. j shave his beard and mustache?
-(like this.. and like this)
-how you got high expectations but got no patience?
-(c'mon, i don't know, i don't know, i don't know)
-how come this joint named "the questions" is so john blazin'?
-(uh-huh, uh-huh, uh-huh) man i don't know, i don't know
-it's the questions (what..) it's the questions boy
-it's the questions, it's just my questions black
-some questions - it's the questions y'all
-it's the questions (what?) it's the questions, yo
-talkin bout the questions, it's the questions girl
-it's the questions (what?) it's the questions, c'mon
-the questions (which?) and we're shoutin it out
-it's the questions (huh?) that's what it's all about, yo
-...
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I2
+sVlack
+p4
+I1
+sVpaper
+p5
+I2
+sVquestions
+p6
+I60
+sVgo
+p7
+I2
+sVhell
+p8
+I2
+sVyes
+p9
+I1
+sVstill
+p10
+I2
+sVfeat
+p11
+I1
+sVhmmm
+p12
+I1
+sVhah
+p13
+I2
+sVslow
+p14
+I1
+sVsayin
+p15
+I1
+sVdr
+p16
+I1
+sVyoung
+p17
+I1
+sVshould
+p18
+I1
+sVblack
+p19
+I1
+sVbout
+p20
+I3
+sVghetto
+p21
+I1
+sVmight
+p22
+I1
+sVcareers
+p23
+I1
+sVta
+p24
+I1
+sVgood
+p25
+I1
+sVyo
+p26
+I14
+sVget
+p27
+I1
+sVmos
+p28
+I1
+sVbig
+p29
+I2
+sVuhh
+p30
+I4
+sVsloppy
+p31
+I1
+sVjoint
+p32
+I1
+sVknow
+p33
+I15
+sVfront
+p34
+I1
+sVsay
+p35
+I3
+sVnow
+p36
+I2
+sVlady
+p37
+I1
+sVhim
+p38
+I1
+sVname
+p39
+I1
+sVlike
+p40
+I5
+sVhahahahah
+p41
+I1
+sVsundays
+p42
+I1
+sVdig
+p43
+I1
+sVtwice
+p44
+I2
+sVcommon
+p45
+I1
+sVyall
+p46
+I5
+sVmean
+p47
+I2
+sVshave
+p48
+I1
+sVnigga
+p49
+I4
+sVyeah
+p50
+I6
+sVewww
+p51
+I1
+sVgirl
+p52
+I5
+sVsexual
+p53
+I2
+sVout
+p54
+I2
+sVeven
+p55
+I1
+sVwhat
+p56
+I1
+sVsaid
+p57
+I1
+sVfine
+p58
+I1
+sVcomplexion
+p59
+I1
+sVgot
+p60
+I8
+sVcause
+p61
+I3
+sVt
+I1
+sVass
+p62
+I2
+sVaint
+p63
+I2
+sVlove
+p64
+I1
+sVnever
+p65
+I5
+sVlustin
+p66
+I1
+sVfuck
+p67
+I1
+sVcome
+p68
+I4
+sVboy
+p69
+I7
+sVabout
+p70
+I3
+sVlast
+p71
+I1
+sVwouldnt
+p72
+I1
+sVindustry
+p73
+I1
+sVwomen
+p74
+I1
+sVact
+p75
+I1
+sVmmmmhmmm
+p76
+I1
+sVcom
+p77
+I1
+sVemcee
+p78
+I1
+sVthats
+p79
+I10
+sVnamed
+p80
+I1
+sVwhats
+p81
+I1
+sVdont
+p82
+I16
+sVwall
+p83
+I1
+sVahh
+p84
+I2
+sVpatience
+p85
+I1
+sVexpectations
+p86
+I1
+sVask
+p87
+I2
+sVright
+p88
+I5
+sVdone
+p89
+I1
+sVfemale
+p90
+I1
+sVintellectualal
+p91
+I1
+sVrespect
+p92
+I1
+sVuhhuh
+p93
+I4
+sVbeats
+p94
+I2
+sVspeak
+p95
+I2
+sVwan
+p96
+I5
+sVwack
+p97
+I1
+sVyouse
+p98
+I1
+sVtwenty
+p99
+I1
+sVgirls
+p100
+I1
+sVwhy
+p101
+I1
+sVmuch
+p102
+I1
+sVhustlin
+p103
+I2
+sVjohn
+p104
+I1
+sVtell
+p105
+I1
+sVbeard
+p106
+I1
+sVstomach
+p107
+I2
+sVthat
+p108
+I3
+sVhuh
+p109
+I3
+sVshoutin
+p110
+I2
+sVback
+p111
+I1
+sVphone
+p112
+I1
+sVgigiddy
+p113
+I1
+sVtrue
+p114
+I1
+sVmust
+p115
+I1
+sVme
+p116
+I2
+sV15
+p117
+I1
+sVlook
+p118
+I3
+sVwearin
+p119
+I1
+sVthis
+p120
+I1
+sVj
+I1
+sVup
+p121
+I1
+sVniggaz
+p122
+I1
+sVtadattadattap
+p123
+I1
+sVuh
+p124
+I1
+sVwhyd
+p125
+I1
+sVcalled
+p126
+I1
+sVdef
+p127
+I1
+sVcmon
+p128
+I8
+sVfreak
+p129
+I1
+sVrecognize
+p130
+I1
+sVmind
+p131
+I2
+sVit
+p132
+I1
+sVhigh
+p133
+I1
+sVcant
+p134
+I2
+sVim
+p135
+I3
+sVwant
+p136
+I2
+sVneed
+p137
+I2
+sVtah
+p138
+I1
+sVid
+p139
+I4
+sVshit
+p140
+I1
+sVgrown
+p141
+I1
+sVshirt
+p142
+I1
+sVna
+p143
+I5
+sVpeace
+p144
+I1
+sVya
+p145
+I7
+sVbuild
+p146
+I1
+sVanswer
+p147
+I1
+sVyou
+p148
+I1
+sVtalkin
+p149
+I4
+sVmeeeee
+p150
+I1
+sVaskin
+p151
+I1
+sVstar
+p152
+I1
+sVthough
+p153
+I1
+sVkinda
+p154
+I1
+sVblazin
+p155
+I1
+sVstack
+p156
+I1
+sVman
+p157
+I3
+sVgiggling
+p158
+I1
+sVwouldja
+p159
+I1
+sVscrubs
+p160
+I1
+sVtime
+p161
+I1
+sVmustache
+p162
+I1
+s.

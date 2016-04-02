@@ -1,68 +1,503 @@
-"the paper (i get it) (freestyle)" lyrics
-50 cent lyrics
-"the paper (i get it) (freestyle)"
-bartender bring the bottles of rose
-that bitch like me but i don't give a fuck
-bitch nigga smelling like good weed
-crush the hashish
-look i don't give a fuck
-i'm so grimey
-they can't like me
-the paper i get it
-the paper i get it
-what the fuck nigga i rock
-like i got that style that'll keep me forever on top
-bitch, my drop top, make niggas feel like there's something wrong with there hustle
-i'm eating, i suggest you niggas try this
-scrap the plate move the weight i got the itus
-i'm sick, i'm addicted to the gold
-you take a hit of how this feel you want more
-sorta like what crack did to boogie and new jack
-wassup when i crossover, there ain't no coming back
-take a hit of this, this is what i've been cooking
-perfect product, customer good looking
-this trip, this flip, i'ma get the count right
-do my numbers man, why your baker count light
-that work you put out, that was stepped on
-my shit raw dope, pur heron
-bartender bring the bottles of rose
-that bitch like me but i don't give a fuck
-bitch nigga smelling like good weed
-crush the hashish
-look i don't give a fuck
-i'm so grimey
-they can't like me
-the paper i get it
-the paper i get it
-here it is nigga, 1000 grams of uncut
-take it off consignment, fuck up and you're fucked
-this is certified hood shit, ghetto gold good shit
-sniff a line of this, take a pull of that
-this a fact, either which way you hiding that
-i've been here before, it's so familiar
-bag up, fill up the paraphernalia
-i wanna win so bad, nigga i wanna kill ya
-get in the way, i'm six spray i'm bad news
-denzel when the trumpet blow, more better blues
-it's psychotic, my flows are narcotic
-tell me how you want it, my nigga i got it
-for days, my money give me goose bumps
-my pockets swollen, two lumps
-count it all, 10c no cent a dime
-you know me, you know i got a hell of a grind
-there's nothing to it
-i can smell hater
-you know what this is
-g-g-g-g-g, g-g-g-g-g
-g-unit
-this is therapy for me man
-i just gotta focus on my art. i'm an artist
-you can appreciate it
-like you appreciate a picasso
-or an andy warhol, you should love me
-when you look at me
-you should say this is fresh
-this is abstract
-this is a work of art
-this is 50
-til next time, g-g-g-g-g-unit.
+(dp1
+Vcooking
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVmove
+p5
+I1
+sVfocus
+p6
+I1
+sVnarcotic
+p7
+I1
+sVbring
+p8
+I2
+sVpaper
+p9
+I6
+sVkill
+p10
+I1
+sVhell
+p11
+I1
+sVaint
+p12
+I1
+sVcrush
+p13
+I2
+sVstyle
+p14
+I1
+sVgold
+p15
+I2
+sVrose
+p16
+I2
+sVwassup
+p17
+I1
+sVbetter
+p18
+I1
+sVhashish
+p19
+I2
+sVitus
+p20
+I1
+sVplate
+p21
+I1
+sVgood
+p22
+I4
+sVhit
+p23
+I2
+sVget
+p24
+I8
+sVya
+p25
+I1
+sVfamiliar
+p26
+I1
+sVdope
+p27
+I1
+sVme
+p28
+I4
+sVta
+p29
+I1
+sVtherapy
+p30
+I1
+sVjack
+p31
+I1
+sVnew
+p32
+I1
+sVpicasso
+p33
+I1
+sVghetto
+p34
+I1
+sVlike
+p35
+I10
+sVartist
+p36
+I1
+sVdrop
+p37
+I1
+sV50
+p38
+I2
+sVtry
+p39
+I1
+sVbag
+p40
+I1
+sVbad
+p41
+I2
+sVdenzel
+p42
+I1
+sVeither
+p43
+I1
+sVrock
+p44
+I1
+sVaddicted
+p45
+I1
+sVnigga
+p46
+I6
+sVart
+p47
+I2
+sVweight
+p48
+I1
+sV10c
+p49
+I1
+sVback
+p50
+I1
+sVgoose
+p51
+I1
+sVperfect
+p52
+I1
+sVblues
+p53
+I1
+sVwarhol
+p54
+I1
+sVsorta
+p55
+I1
+sVscrap
+p56
+I1
+sVboogie
+p57
+I1
+sVlooking
+p58
+I1
+sVggggg
+p59
+I2
+sVgot
+p60
+I5
+sVhustle
+p61
+I1
+sVima
+p62
+I1
+sVeating
+p63
+I1
+sVspray
+p64
+I1
+sVput
+p65
+I1
+sVnews
+p66
+I1
+sVpur
+p67
+I1
+sVhiding
+p68
+I1
+sVon
+p69
+I1
+sVdays
+p70
+I1
+sVsniff
+p71
+I1
+sVcount
+p72
+I3
+sVkeep
+p73
+I1
+sVpockets
+p74
+I1
+sVbumps
+p75
+I1
+sVtheres
+p76
+I2
+sV1000
+p77
+I1
+sVheron
+p78
+I1
+sVlove
+p79
+I1
+sVdont
+p80
+I4
+sVfeel
+p81
+I2
+sVwin
+p82
+I1
+sVsmelling
+p83
+I2
+sVnothing
+p84
+I1
+sVright
+p85
+I1
+sVbitch
+p86
+I5
+sVhood
+p87
+I1
+sVwan
+p88
+I2
+sVparaphernalia
+p89
+I1
+sVtop
+p90
+I2
+sVtwo
+p91
+I1
+sVcent
+p92
+I2
+sVnext
+p93
+I1
+sVgggggunit
+p94
+I1
+sVpsychotic
+p95
+I1
+sVandy
+p96
+I1
+sVcertified
+p97
+I1
+sVway
+p98
+I2
+sVblow
+p99
+I1
+sVtell
+p100
+I1
+sVmore
+p101
+I1
+sVthat
+p102
+I2
+sVfreestyle
+p103
+I2
+sVcrack
+p104
+I1
+sVit
+p105
+I7
+sVline
+p106
+I1
+sVgunit
+p107
+I1
+sVuncut
+p108
+I1
+sVcustomer
+p109
+I1
+sVpull
+p110
+I1
+sVbartender
+p111
+I2
+sVlook
+p112
+I3
+sVniggas
+p113
+I2
+sVthis
+p114
+I1
+sVwork
+p115
+I2
+sVflip
+p116
+I1
+sVabstract
+p117
+I1
+sVgrimey
+p118
+I2
+sVhater
+p119
+I1
+sVsay
+p120
+I1
+sVnumbers
+p121
+I1
+sVive
+p122
+I2
+sVthatll
+p123
+I1
+sVgive
+p124
+I5
+sVis
+p125
+I1
+sVfuck
+p126
+I6
+sVcrossover
+p127
+I1
+sVraw
+p128
+I1
+sVcant
+p129
+I2
+sVim
+p130
+I8
+sVsomething
+p131
+I1
+sVwant
+p132
+I2
+sVtrumpet
+p133
+I1
+sVtrip
+p134
+I1
+sVshit
+p135
+I3
+sVfill
+p136
+I1
+sVbottles
+p137
+I2
+sVlumps
+p138
+I1
+sVsuggest
+p139
+I1
+sVmake
+p140
+I1
+sVsix
+p141
+I1
+sVtil
+p142
+I1
+sVtake
+p143
+I4
+sVsick
+p144
+I1
+sVstepped
+p145
+I1
+sVsmell
+p146
+I1
+sVproduct
+p147
+I1
+sVtime
+p148
+I1
+sVdime
+p149
+I1
+sVswollen
+p150
+I1
+sVflows
+p151
+I1
+sVweed
+p152
+I2
+sVwrong
+p153
+I1
+sVconsignment
+p154
+I1
+sVcoming
+p155
+I1
+sVfucked
+p156
+I1
+sVman
+p157
+I2
+sVforever
+p158
+I1
+sVgrams
+p159
+I1
+sVlight
+p160
+I1
+sVbaker
+p161
+I1
+sVyoure
+p162
+I1
+sVappreciate
+p163
+I2
+sVgrind
+p164
+I1
+sVna
+p165
+I2
+sVfresh
+p166
+I1
+sVfact
+p167
+I1
+sVknow
+p168
+I3
+s.

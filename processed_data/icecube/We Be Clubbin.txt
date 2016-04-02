@@ -1,98 +1,646 @@
-"we be clubbin'" lyrics
-ice cube lyrics
-"we be clubbin'"
-yaeeyaae uh huh uh huh brrr
-we be clubbin'
-heyy hey heyy heyy look here look here first of all i wanna welcome
-all y'all broke ass entreponiggas to the player's club. yaeeyaae
-it's packed niggas don't know how to act
-we the macks v.i.p's in the back
-with a stack of numbers
-my niggas like 'em dumber
-we oughta get 'em smarter
-baby take my order
-the only shark that swim in henn no water
-got ya daughter doin' shit you don't think she oughta
-gave the order to slaughter any ass like that
-you know how the loni act off the cognac
-brainiac with maniac mack 10 (my nigga)
-down ta get this mothafuckin' party crackin'
-nigga back in so we can smoke a dub
-down ta bump all these bitches at the club (yaeeyaae)
-we be clubbin'
-everybody likes when the girl
-shakes something
-nigga don't pull nothing (that's right)
-we ain't dumping
-we just bumpin' and bangin'
-like it ain't nothing wrong
-get ya club on (we be clubbin')
-ah, we be clubbin'(we be clubbin')
-yaeeyaae (we be clubbin' we be clubbin')
-we gettin' in free so what the fuck now
-wscg just touched down
-show a nigga 'round
-least take a nigga to the sto'
-(y'all in fo the night?)
-hell no
-security bail slow up in the club
-remember when they push & shove
-it's only love
-dubs for everybody waitin' on us
-and fuck everybody hatin' on us
-debatin' on us but we only visitin'
-ain't tryin' ta fuck with niggas in lizard skins
-i see you watching me, you should watch her
-'cause if she sick of yo' shit i'm the doctor watch her
-show her to the car
-& see how bad she wanna meet these stars
-they know who we are (where we going?) westside
-nigga meet me by the bar
-shake it off shake it off take it off
-break it off break it off make it soft
-brrr (we be clubbin') uhh (uhh) (we be clubbin' )
-baby beware ice cube is on tilt
-waitress bitchin' off the drinks my nigga spilt
-everybody's sweatin' like it's armageddon
-1999 party over oops i'ma still grind
-straight from the west put away yo' 9 (click click)
-dj can ya play my shit one mo' time
-goddamn you fine (my nigga speak on it)
-she got ass for days (put a week on it)
-now everybody in the world love to go clubbin'
-and after the club it's either breakfast or fuckin'
-hope we ain't duckin' from haters in the parking lot
-who ain't got nothin' tryin' to prove sumthin
-frontin' we be the niggas who be bluntin'
-on our way to the marriott keep 'em very hot
-westside hittin' hairy cock all night long
-get ya club on!
-we be clubbin'
-everybody likes when the girl
-shakes something
-nigga don't pull nothing (that's right)
-we ain't dumping
-we just bumpin' and bangin'
-like it ain't nothing wrong
-get ya club on
-homeboys show me love up in the club (yaeeyaae)
-homegirls show me love up in the club
-security show me love up in the club
-owners show me love up in the club
-waitress' show me love up in the club (yaeeyaae)
-bartenders show me love up in the club
-l.a. show me love up in the club
-the bay show me love up in the club
-chicago show me love up in the club (yaeeyaae)
-st. louis show me love up in the club
-miami show me love up in the club
-new york show me love up in the club
-detroit show me love up in the club (yaeeyaae)
-houston show me love up in the club
-k.c. show me love up in the club
-denver show me love up in the club
-d.c. show me love up in the club (yaeeyaae)
-atlanta show me love up in the club
-memphis show me love up in the club
-dallas show me love up in the club (yaeeyaae)
-i might spend a dub. bitch!
+(dp1
+Vhouston
+p2
+I1
+sVsweatin
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I22
+sVbeware
+p6
+I1
+sVentreponiggas
+p7
+I1
+sVclubbin
+p8
+I12
+sVshake
+p9
+I2
+sVgo
+p10
+I1
+sVhell
+p11
+I1
+sVstill
+p12
+I1
+sVbail
+p13
+I1
+sVaint
+p14
+I7
+sVbitchin
+p15
+I1
+sVslow
+p16
+I1
+sVla
+p17
+I1
+sVmemphis
+p18
+I1
+sVdenver
+p19
+I1
+sVcognac
+p20
+I1
+sVtouched
+p21
+I1
+sVmight
+p22
+I1
+sVhope
+p23
+I1
+sVgave
+p24
+I1
+sVswim
+p25
+I1
+sVcube
+p26
+I2
+sVdj
+p27
+I1
+sVyo
+p28
+I2
+sVget
+p29
+I5
+sVya
+p30
+I5
+sVsmarter
+p31
+I1
+sVwatch
+p32
+I2
+sVdc
+p33
+I1
+sVuhh
+p34
+I2
+sVbreak
+p35
+I2
+sVfrontin
+p36
+I1
+sVcrackin
+p37
+I1
+sVknow
+p38
+I3
+sVst
+p39
+I1
+sVworld
+p40
+I1
+sVnow
+p41
+I1
+sVbar
+p42
+I1
+sVlike
+p43
+I5
+sVmiami
+p44
+I1
+sVlouis
+p45
+I1
+sVgettin
+p46
+I1
+sVdebatin
+p47
+I1
+sVdetroit
+p48
+I1
+sVbay
+p49
+I1
+sVbad
+p50
+I1
+sVeither
+p51
+I1
+sVhittin
+p52
+I1
+sVnight
+p53
+I2
+sVsecurity
+p54
+I2
+sVsoft
+p55
+I1
+sVround
+p56
+I1
+sVyall
+p57
+I2
+sVbitch
+p58
+I1
+sVem
+p59
+I3
+sVweek
+p60
+I1
+sVnigga
+p61
+I9
+sVbump
+p62
+I1
+sVdumping
+p63
+I2
+sVsumthin
+p64
+I1
+sVback
+p65
+I2
+sVskins
+p66
+I1
+sVsee
+p67
+I2
+sVparking
+p68
+I1
+sVbartenders
+p69
+I1
+sVgirl
+p70
+I2
+sVclick
+p71
+I2
+sVpacked
+p72
+I1
+sVdrinks
+p73
+I1
+sVchicago
+p74
+I1
+sVfine
+p75
+I1
+sVaway
+p76
+I1
+sVice
+p77
+I2
+sVhairy
+p78
+I1
+sVgot
+p79
+I3
+sVcause
+p80
+I1
+sVspilt
+p81
+I1
+sVass
+p82
+I3
+sVeverybody
+p83
+I5
+sVshakes
+p84
+I2
+sVlove
+p85
+I22
+sVgoddamn
+p86
+I1
+sVdumber
+p87
+I1
+sVfree
+p88
+I1
+sVwater
+p89
+I1
+sVyork
+p90
+I1
+sVslaughter
+p91
+I1
+sVima
+p92
+I1
+sVput
+p93
+I2
+sVbrrr
+p94
+I2
+sVon
+p95
+I2
+sVowners
+p96
+I1
+sVdaughter
+p97
+I1
+sVshove
+p98
+I1
+sVmaniac
+p99
+I1
+sVdays
+p100
+I1
+sVkeep
+p101
+I1
+sVplayers
+p102
+I1
+sVsmoke
+p103
+I1
+sVact
+p104
+I2
+sVmarriott
+p105
+I1
+sVthink
+p106
+I1
+sVwaitress
+p107
+I2
+sVthats
+p108
+I2
+sVwscg
+p109
+I1
+sVvips
+p110
+I1
+sVdont
+p111
+I4
+sVone
+p112
+I1
+sVdown
+p113
+I1
+sVduckin
+p114
+I1
+sVclubbinwe
+p115
+I1
+sVright
+p116
+I2
+sVlikes
+p117
+I2
+sVoughta
+p118
+I2
+sVspeak
+p119
+I1
+sVloni
+p120
+I1
+sVwan
+p121
+I2
+sVlong
+p122
+I1
+sVher
+p123
+I2
+sVprove
+p124
+I1
+sVwestside
+p125
+I2
+sVdub
+p126
+I2
+sVhey
+p127
+I1
+sVleast
+p128
+I1
+sVgoing
+p129
+I1
+sVstars
+p130
+I1
+sVtime
+p131
+I1
+sVtryin
+p132
+I2
+sVwest
+p133
+I1
+sVhomeboys
+p134
+I1
+sVlot
+p135
+I1
+sVthat
+p136
+I1
+sVclub
+p137
+I27
+sVbitches
+p138
+I1
+sVhuh
+p139
+I2
+sVnew
+p140
+I1
+sVit
+p141
+I2
+sVbroke
+p142
+I1
+sVhatin
+p143
+I1
+sVbaby
+p144
+I2
+sVatlanta
+p145
+I1
+sVhaters
+p146
+I1
+sVhomegirls
+p147
+I1
+sVplay
+p148
+I1
+sVpull
+p149
+I2
+sVlook
+p150
+I2
+sVniggas
+p151
+I4
+sV1999
+p152
+I1
+sVcar
+p153
+I1
+sVstraight
+p154
+I1
+sVsto
+p155
+I1
+sVus
+p156
+I3
+sVlizard
+p157
+I1
+sVuh
+p158
+I2
+sVheyy
+p159
+I3
+sVmeet
+p160
+I2
+sVta
+p161
+I3
+sVcock
+p162
+I1
+sVmo
+p163
+I1
+sVsomething
+p164
+I2
+sVhenn
+p165
+I1
+sVshark
+p166
+I1
+sVah
+p167
+I1
+sVfuck
+p168
+I3
+sVmothafuckin
+p169
+I1
+sVway
+p170
+I1
+sVim
+p171
+I1
+sVnumbers
+p172
+I1
+sVdallas
+p173
+I1
+sVbreakfast
+p174
+I1
+sVbluntin
+p175
+I1
+sVarmageddon
+p176
+I1
+sVshit
+p177
+I3
+sVvisitin
+p178
+I1
+sVno
+p179
+I1
+sVna
+p180
+I2
+sVmake
+p181
+I1
+sVwatching
+p182
+I1
+sVyaeeyaae
+p183
+I10
+sVhot
+p184
+I1
+sVtake
+p185
+I3
+sVsick
+p186
+I1
+sV9
+I1
+sVparty
+p187
+I2
+sV10
+p188
+I1
+sVwaitin
+p189
+I1
+sVeverybodys
+p190
+I1
+sVdoin
+p191
+I1
+sVwelcome
+p192
+I1
+sVdubs
+p193
+I1
+sVbumpin
+p194
+I2
+sVwrong
+p195
+I2
+sVnothing
+p196
+I4
+sVmack
+p197
+I1
+sVstack
+p198
+I1
+sVfo
+p199
+I1
+sVkc
+p200
+I1
+sVfuckin
+p201
+I1
+sVoff
+p202
+I1
+sVremember
+p203
+I1
+sVspend
+p204
+I1
+sVbangin
+p205
+I2
+sVdoctor
+p206
+I1
+sVnothin
+p207
+I1
+sVgrind
+p208
+I1
+sVbrainiac
+p209
+I1
+sVoops
+p210
+I1
+sVtilt
+p211
+I1
+sVpush
+p212
+I1
+sVfirst
+p213
+I1
+sVorder
+p214
+I2
+sVmacks
+p215
+I1
+s.

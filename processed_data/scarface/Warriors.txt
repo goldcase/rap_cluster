@@ -1,60 +1,481 @@
-"warriors" lyrics
-scarface lyrics
-"warriors"
-(warriors! come out to pla-a-a-y!)
-i'm a warrior!
-man i never run never snitch
-i'm a grown man dog i ain't no bitch (a warrior!)
-don't change cause he's rich
-before i shit on my family i lie in a ditch
-don't fold under pressure
-you got a shell waitin in the hole if they test ya (a warrior!)
-i'll sacrifice it all if he has ta
-react and think about it after (i'ma warrior)
-uh, you heard right mothafucka
-my grandmama' daughter ain't raised no sucker
-heart full of pride and a head full of anger
-attitude of a winner infared for the danger
-even the paranoya of a female'll change ya
-waking up every morning laying next to a stranger
-i'm on the move, smooth, with one eye out for the snakes
-who can't stand hearin your name all throughout the states
-tune into bet and watchin your video
-pretending to be your friends but the smart ones really no, so
-if that's your man warn him
-'cause there's enough bullets in here to hit every nba patch on him
-nigga ride 'til i die the song i sing
-you ain't ready for the war i bring
-you ain't gonna do a goddamn thing
-and i ain't ever scared i'm a warrior!
-man i never run never snitch
-i'm a grown man dog i ain't no bitch (a warrior!)
-don't change cause he's rich
-before i shit on my family i lie in a ditch (a warrior!)
-don't fold under pressure
-you got a shell waitin in the hole if they test ya (a warrior!)
-i'll sacrifice it all if he has ta
-react and think about it after
-i'm a warrior!
-goddamn hoe here i go again
-the double l o y d
-here put on an i.v.
-tryin ta try me
-the new age ali
-the black c.i.g.
-resides beside me
-as smooth as an isley
-sometimes i surprise me
-can't even id
-as low as my eyes be
-i roll with the gangstas don't get fly with your mouth
-the wrong punchline'll have niggas inside of your house
-nigga i'm doing good i made it out of the hood
-i own beverly hills no more bottles or wood
-this is it for that sticky
-california should whip me
-i done made it this far can't be mad if they hit me (shhiit)
-nigga ride 'til i die the song i sing
-you ain't ready for the war i bring
-you ain't gonna do a goddamn thing
-and i ain't ever scared i'm a warrior!
+(dp1
+Vlyrics
+p2
+I2
+sVali
+p3
+I1
+sVmove
+p4
+I1
+sVbring
+p5
+I2
+sVattitude
+p6
+I1
+sVever
+p7
+I2
+sVgo
+p8
+I1
+sVparanoya
+p9
+I1
+sVaint
+p10
+I9
+sVbeside
+p11
+I1
+sVhills
+p12
+I1
+sVwinner
+p13
+I1
+sVwood
+p14
+I1
+sVblack
+p15
+I1
+sVrich
+p16
+I2
+sVpride
+p17
+I1
+sVsmart
+p18
+I1
+sVta
+p19
+I3
+sVfly
+p20
+I1
+sVgood
+p21
+I1
+sVhit
+p22
+I2
+sVsong
+p23
+I2
+sVya
+p24
+I3
+sVsucker
+p25
+I1
+sVones
+p26
+I1
+sVevery
+p27
+I2
+sVpretending
+p28
+I1
+sVnew
+p29
+I1
+sVhim
+p30
+I2
+sVd
+I1
+sVname
+p31
+I1
+sVstranger
+p32
+I1
+sVshhiit
+p33
+I1
+sVdie
+p34
+I2
+sVlaying
+p35
+I1
+sVl
+I1
+sVmorning
+p36
+I1
+sVtry
+p37
+I1
+sVbeverly
+p38
+I1
+sVinside
+p39
+I1
+sVright
+p40
+I1
+sVsnakes
+p41
+I1
+sVbe
+p42
+I1
+sVgoddamn
+p43
+I3
+sVscared
+p44
+I2
+sVwaking
+p45
+I1
+sVfold
+p46
+I2
+sVvideo
+p47
+I1
+sVnba
+p48
+I1
+sVpatch
+p49
+I1
+sVwhip
+p50
+I1
+sVreally
+p51
+I1
+sVeven
+p52
+I2
+sVthroughout
+p53
+I1
+sVenough
+p54
+I1
+sVgot
+p55
+I2
+sVcause
+p56
+I3
+sVwatchin
+p57
+I1
+sVwarrior
+p58
+I10
+sVfull
+p59
+I2
+sVrun
+p60
+I2
+sVnever
+p61
+I4
+sVpressure
+p62
+I2
+sVcalifornia
+p63
+I1
+sVima
+p64
+I1
+sVput
+p65
+I1
+sVsing
+p66
+I2
+sVcome
+p67
+I1
+sVchange
+p68
+I3
+sVdaughter
+p69
+I1
+sVresides
+p70
+I1
+sVill
+p71
+I2
+sVo
+I1
+sVthing
+p72
+I2
+sVstand
+p73
+I1
+sVmouth
+p74
+I1
+sVthink
+p75
+I2
+sVthats
+p76
+I1
+sVraised
+p77
+I1
+sVdont
+p78
+I5
+sVfamily
+p79
+I2
+sVdanger
+p80
+I1
+sVone
+p81
+I1
+sVnigga
+p82
+I3
+sVdone
+p83
+I1
+sVbitch
+p84
+I2
+sVisley
+p85
+I1
+sVditch
+p86
+I2
+sVhood
+p87
+I1
+sVinfared
+p88
+I1
+sVeye
+p89
+I1
+sVhes
+p90
+I2
+sVnext
+p91
+I1
+sVlow
+p92
+I1
+sVhouse
+p93
+I1
+sVmothafucka
+p94
+I1
+sVwar
+p95
+I2
+sVhead
+p96
+I1
+sVshell
+p97
+I2
+sVplaaay
+p98
+I1
+sVwarn
+p99
+I1
+sVhole
+p100
+I2
+sVsticky
+p101
+I1
+sVme
+p102
+I4
+sVhearin
+p103
+I1
+sVcig
+p104
+I1
+sVniggas
+p105
+I1
+sVdouble
+p106
+I1
+sVride
+p107
+I2
+sVsmooth
+p108
+I2
+sVfemalell
+p109
+I1
+sVuh
+p110
+I1
+sVscarface
+p111
+I1
+sVbet
+p112
+I1
+sVtheres
+p113
+I1
+sVheart
+p114
+I1
+sVready
+p115
+I2
+sVgangstas
+p116
+I1
+sVeyes
+p117
+I1
+sViv
+p118
+I1
+sVstates
+p119
+I1
+sVheard
+p120
+I1
+sVcant
+p121
+I3
+sVim
+p122
+I8
+sVanger
+p123
+I1
+sVmade
+p124
+I2
+sVid
+p125
+I1
+sVshit
+p126
+I2
+sVgrown
+p127
+I2
+sVlie
+p128
+I2
+sVhoe
+p129
+I1
+sVbottles
+p130
+I1
+sVwarriors
+p131
+I3
+sVget
+p132
+I1
+sVtil
+p133
+I2
+sVfar
+p134
+I1
+sVtest
+p135
+I2
+sVroll
+p136
+I1
+sVwaitin
+p137
+I2
+sVagain
+p138
+I1
+sVsurprise
+p139
+I1
+sVsacrifice
+p140
+I2
+sVafter
+p141
+I1
+sVpunchlinell
+p142
+I1
+sVreact
+p143
+I2
+sVwrong
+p144
+I1
+sVgon
+p145
+I2
+sVbullets
+p146
+I1
+sVmad
+p147
+I1
+sVsnitch
+p148
+I2
+sVfriends
+p149
+I1
+sVtune
+p150
+I1
+sVman
+p151
+I5
+sVage
+p152
+I1
+sVsometimes
+p153
+I1
+sVdog
+p154
+I2
+sVso
+p155
+I1
+sVna
+p156
+I2
+sVy
+I1
+sVtryin
+p157
+I1
+sVgrandmama
+p158
+I1
+s.

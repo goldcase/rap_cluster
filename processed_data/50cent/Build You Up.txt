@@ -1,54 +1,434 @@
-"build you up" lyrics
-50 cent lyrics
-"build you up"
-la la la la la la
-ooh i'd lie for you baby
-ooh i'd die for you baby
-i build you up
-but if ever i fall down
-and i need you to pick me up
-promise me you'll be around
-hold me down
-i'll build you up
-listen if you let me, i'll be the reason you shine
-its a secret i want the world to know that you're mine
-but on some real shit, communications could be better
-so i'm writin' a song, instead of a love letter
-they can play it on the radio, a hundred times a day
-i figure when you hear it, you would stop and think of me
-i wanna get to know ya and be the reason you smile
-girl, you know where i'm from, you know how i get down
-when times are tough, tell me that i'm special
-not rap, i mean me, that i'm special
-you know they say diamonds are a girl's best friend
-precious stones, could you put me before them
-if so, i'll see to it that they always around
-nothin' but the best now, how does that sound
-if i drop a jewel when we talk you can keep it
-girl, you on my mind all the time, its a secret
-baby i'll build you up
-girl if i, never show i have you by my side
-i build you up
-girl i need to know for sure you're mine
-i need to know for sure
-i think about you thinkin' that you feel the same way
-was it just my imagionation again runnin' away
-if you ready to ride girl come on let's roll
-g-55 fly ma let's go
-its hard to measure the pleasure of havin' you in my present
-your smile makes me smile, i'll show you my style
-we can shop a lil bit, i pick out my shit
-one pair at a time, till your shoe games sick
-now who knows what the future holds, we'll be together probably
-for better or worst, like whitney and bobby
-if you wanna play house, we can play house then
-but wait why pretend if you can move in
-before i be your buddy in bed, let me be your best friend
-girl, its more than lust, i want your trust
-you keep it real with me, i'll keep it real with you
-cause i know with you by my side, there's nothin' i can't do
-baby i'll build you up
-girl if i, never show i have you by my side
-i build you up
-girl i need to know for sure you're mine
-i need to know for sure
+(dp1
+Vstones
+p2
+I1
+sVshop
+p3
+I1
+sVholds
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I3
+sVmove
+p7
+I1
+sVradio
+p8
+I1
+sVshoe
+p9
+I1
+sVgo
+p10
+I1
+sVtough
+p11
+I1
+sVstyle
+p12
+I1
+sVbuddy
+p13
+I1
+sVla
+p14
+I6
+sVbetter
+p15
+I2
+sVhavin
+p16
+I1
+sVlets
+p17
+I2
+sVsmile
+p18
+I3
+sVreal
+p19
+I3
+sVme
+p20
+I1
+sVthem
+p21
+I1
+sVaround
+p22
+I2
+sVget
+p23
+I2
+sVya
+p24
+I1
+sVstop
+p25
+I1
+sVworst
+p26
+I1
+sVknow
+p27
+I10
+sVfall
+p28
+I1
+sVworld
+p29
+I1
+sVbit
+p30
+I1
+sVday
+p31
+I1
+sVspecial
+p32
+I2
+sVlike
+p33
+I1
+sVbobby
+p34
+I1
+sVyoull
+p35
+I1
+sVdrop
+p36
+I1
+sV50
+p37
+I1
+sVcommunications
+p38
+I1
+sValways
+p39
+I1
+sVside
+p40
+I3
+sVmean
+p41
+I1
+sVhouse
+p42
+I2
+sVhard
+p43
+I1
+sVsee
+p44
+I1
+sVdie
+p45
+I1
+sVgirl
+p46
+I8
+sVbest
+p47
+I3
+sVaway
+p48
+I1
+sVdiamonds
+p49
+I1
+sVprobably
+p50
+I1
+sVever
+p51
+I1
+sVdo
+p52
+I1
+sVnever
+p53
+I2
+sVreason
+p54
+I2
+sVlet
+p55
+I2
+sVput
+p56
+I1
+sVprecious
+p57
+I1
+sVcome
+p58
+I1
+sVwait
+p59
+I1
+sVshine
+p60
+I1
+sVimagionation
+p61
+I1
+sVill
+p62
+I7
+sVkeep
+p63
+I3
+sVgames
+p64
+I1
+sVg55
+p65
+I1
+sVpick
+p66
+I2
+sVmakes
+p67
+I1
+sVthink
+p68
+I2
+sVwritin
+p69
+I1
+sVlove
+p70
+I1
+sVfeel
+p71
+I1
+sVone
+p72
+I1
+sVdown
+p73
+I3
+sVtill
+p74
+I1
+sVpromise
+p75
+I1
+sVtrust
+p76
+I1
+sVwan
+p77
+I2
+sVwould
+p78
+I1
+sVgirls
+p79
+I1
+sVcent
+p80
+I1
+sVsecret
+p81
+I2
+sVway
+p82
+I1
+sVhundred
+p83
+I1
+sVtell
+p84
+I1
+sVfriend
+p85
+I2
+sVlisten
+p86
+I1
+sVknows
+p87
+I1
+sVfly
+p88
+I1
+sVooh
+p89
+I2
+sVcant
+p90
+I1
+sVit
+p91
+I1
+sVhear
+p92
+I1
+sVwhitney
+p93
+I1
+sVbaby
+p94
+I4
+sVhold
+p95
+I1
+sVpresent
+p96
+I1
+sVsound
+p97
+I1
+sVma
+p98
+I1
+sVride
+p99
+I1
+sVpretend
+p100
+I1
+sVup
+p101
+I8
+sVbed
+p102
+I1
+sVfuture
+p103
+I1
+sVcould
+p104
+I2
+sVtheres
+p105
+I1
+sVwant
+p106
+I2
+sVfigure
+p107
+I1
+sVthen
+p108
+I1
+sVwell
+p109
+I1
+sVmeasure
+p110
+I1
+sVmind
+p111
+I1
+sVmine
+p112
+I3
+sVlust
+p113
+I1
+sVready
+p114
+I1
+sVsay
+p115
+I1
+sVim
+p116
+I4
+sVtogether
+p117
+I1
+sVrap
+p118
+I1
+sVin
+p119
+I1
+sVneed
+p120
+I5
+sVtimes
+p121
+I2
+sVid
+p122
+I2
+sVshit
+p123
+I2
+sVlie
+p124
+I1
+sVlil
+p125
+I1
+sVna
+p126
+I2
+sVthinkin
+p127
+I1
+sVsong
+p128
+I1
+sVrunnin
+p129
+I1
+sVbuild
+p130
+I8
+sVsick
+p131
+I1
+sVinstead
+p132
+I1
+sVyou
+p133
+I1
+sVroll
+p134
+I1
+sVplay
+p135
+I3
+sVsure
+p136
+I4
+sVletter
+p137
+I1
+sVpair
+p138
+I1
+sVcause
+p139
+I1
+sVyoure
+p140
+I3
+sVjewel
+p141
+I1
+sVnothin
+p142
+I2
+sVtime
+p143
+I2
+sVpleasure
+p144
+I1
+sVtalk
+p145
+I1
+s.

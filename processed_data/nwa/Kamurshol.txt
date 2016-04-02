@@ -1,34 +1,194 @@
-"kamurshol" lyrics
-n.w.a. lyrics
-"kamurshol"
-the world's most dangerous group..
-once again; beating on your motherfucking eardrums
-it's the niggaz in black; ready to attack
-see, you have known what time it is
-what motherfucking time it is!!
-you have witnessed, you have heard
-so we're gonna take time out for commercial break
-be on a look out for the new n.w.a. album
-ladies and gentlemen
-the name of the new album is.. out once again!!
-the name of the new album is.. out once again!!
-the name of the new album is.. out once again!!
-yeeeeeeeeeaaaaaaaaaahhhhhhhhhhhh motherfuckers!!
-that's what the fuck we're talking about!!
-so don't unwind that goddamn album
-stupid motherfuckerrrrrrrrrrrrrrrs!!
-niggaz, niggaz, niggaz, niggaz, niggaz, niggaz
-niggaz, niggaz, niggaz, niggaz, niggaz, niggaz
-niggaz, niggaz, niggaz, niggaz, niggaz, niggaz
-niggaz, niggaz, niggaz, niggaz, niggaz, niggaz
-niggaz, niggaz, niggaz, niggaz, niggaz, niggaz
-hahaha hahaha hahha
-motherfuckering album bitch!!
-out once again!!
-four bad motherfuckers
-get off the dick motherfucker
-yo, yeah, we're back in this motherfucker
-controlling the nineteen ninety
-so you better step the fuck back
-if you know; it's good for your motherfucking ass
-yo, you know what? - we're outta here..
+(dp1
+Vmotherfucking
+p2
+I3
+sVladies
+p3
+I1
+sVeardrums
+p4
+I1
+sVoutta
+p5
+I1
+sVdont
+p6
+I1
+sVlyrics
+p7
+I2
+sVunwind
+p8
+I1
+sVgoddamn
+p9
+I1
+sVis
+p10
+I2
+sVfuck
+p11
+I2
+sVfour
+p12
+I1
+sVheard
+p13
+I1
+sVsee
+p14
+I1
+sVninety
+p15
+I1
+sVkamurshol
+p16
+I2
+sVready
+p17
+I1
+sVass
+p18
+I1
+sValbum
+p19
+I6
+sVagain
+p20
+I4
+sVgon
+p21
+I1
+sVgroup
+p22
+I1
+sVwitnessed
+p23
+I1
+sVmotherfuckering
+p24
+I1
+sVna
+p25
+I1
+sVdick
+p26
+I1
+sVgentlemen
+p27
+I1
+sVattack
+p28
+I1
+sVblack
+p29
+I1
+sVtake
+p30
+I1
+sVbetter
+p31
+I1
+sVnew
+p32
+I4
+sVbeating
+p33
+I1
+sVback
+p34
+I2
+sVgood
+p35
+I1
+sVyo
+p36
+I2
+sVget
+p37
+I1
+sVmotherfuckerrrrrrrrrrrrrrrs
+p38
+I1
+sVcommercial
+p39
+I1
+sVmotherfucker
+p40
+I2
+sVhere
+p41
+I1
+sVyeah
+p42
+I1
+sVbreak
+p43
+I1
+sVstep
+p44
+I1
+sVbitch
+p45
+I1
+sVknow
+p46
+I2
+sVknown
+p47
+I1
+sVnineteen
+p48
+I1
+sVname
+p49
+I3
+sVworlds
+p50
+I1
+sVabout
+p51
+I1
+sVhahaha
+p52
+I2
+sVlook
+p53
+I1
+sVtalking
+p54
+I1
+sVdangerous
+p55
+I1
+sVhahha
+p56
+I1
+sVniggaz
+p57
+I31
+sVbad
+p58
+I1
+sVstupid
+p59
+I1
+sVtime
+p60
+I3
+sVyeeeeeeeeeaaaaaaaaaahhhhhhhhhhhh
+p61
+I1
+sVcontrolling
+p62
+I1
+sVthats
+p63
+I1
+sVmotherfuckers
+p64
+I2
+sVnwa
+p65
+I2
+s.

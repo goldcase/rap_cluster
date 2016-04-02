@@ -1,157 +1,764 @@
-"what it ain't" lyrics
-goodie mob lyrics
-"what it ain't"
-now tlc will challenge goodie mob
-to a game of ghetto laser tag
-when they say 'what it is'
-you scream 'what it ain't'
-(battle zone, goodie)
-1999 (yeah)
-tlc, m-o-b (and goodie mob)
-the synergy of ghetto sounds for the y-2-g
-(what'cha wanna do with it?)
-what it is, what it ain't
-(what?)
-either you bring it
-(we gon' bring it)
-or you can't
-sometimes it gets kind of messy out there
-(sometimes)
-but we get by
-(well what'cha wanna do with it)
-one day at a time
-stuck on me at waffle house
-after 1:12, when i go out
-where do you hang?
-or do you slang?
-or wear a chain?
-wear platinum rings?
-i still maintain my ghetto siren
-keep my pride
-get in my ride
-twenty-inch rims
-i sport a brim
-and when my girls
-go to the mall
-around the world
-and keep the change
-the finest things
-we still remain so ooh
-you don't even look from across the room
-you don't know enough about this world to
-ever get it on with me
-or hang out where i do
-you don't even look from across the floor
-you don't have game enough any more
-come up on a girl like me
-and that's not a possibility cause
-you big plastic girl
-i'mma big boss man
-i like old model cars and big sedans
-you like two doors
-frontin' their clothes and rolls
-or sit on the porch sip something real cold
-i like the nine when you up and not o's
-i do suits while you prefer the lows
-tonight i'mma choose cause you already chose
-grown for the business and i run to flow
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-check it baby
-so ghetto like hot fries
-i come from melvin and resemble
-twenty-twenty with his blood shot eyes, got 32 loads
-went from two o's to 32 loads
-which is enough to buy a roll
-but nobody knows
-stay in my place
-keep my diamonds out of your face
-you wanna be with this player
-you got play at my pace
-i'm slow but i can still come over there from where you're from
-if you want some bullshit you better buy you some
-you don't even look from across the room
-you don't know enough about this world to
-ever get it on with me
-or hang out where i do
-you don't even look from across the floor
-you don't have game enough any more
-come up on a girl like me
-and that's not a possibility cause
-shorty with your booty showin'
-shorty with your gold teeth
-shorty with your long nails
-shorty with your fake hair
-shorty got the attitude all up in the news
-to represent the nineties girl
-doing it oh i need to
-i got the back you got the front
-that's how we do up in the woods
-with the bump on the log, ain't no scrubs over here
-i'mma ghetto millionaire, can you see me in the clear?
-i'mma keep on serving 'em like i'm supposed to baby
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-what it is
-(what it ain't)
-what it is
-(what it ain't)
-uh-huh, yeah, what?
-don't be suffocating my pockets
-while i'm recitating these topics
-like where your g's, where your loot?
-and you lookin' real dumb when you get the boot
-what it is?
-my road to me come from some of the hardest of streets
-we custom navigate to the club
-with some of the hardest of beats
-what it ain't
-is you sleeping with all the shit i've been through?
-cause i'mma keep doing all the things that i gots to do
-(i'm ghetto) uh dammit i'll put your ass to work
-(i'm ghetto) comb your nappy hair till it hurts
-oh what i'm saying
-stop using the rope take 'em real off these streets
-or you might hurt your throat
-you know you ghetto
-when you don't show up at court
-for not paying your child support
-are you too bossier for me?
-you act like you too good to eat
-at church's, popeye's, and arby's
-i shop at walter's bright creek
-in a mall with steve and deke
-i hang out at bankhead
-you prefer buckhead
-your favorite color is hot pink
-i love that gangsta red
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-cause you ain't ghetto enough for me
-and you ain't hot enough for me
-and you ain't fly enough for me
-and you're too tight with your money
-we'll stop here
-yeah, i lost one
+(dp1
+Vshop
+p2
+I1
+sVrepresent
+p3
+I1
+sVbossier
+p4
+I1
+sVserving
+p5
+I1
+sVshot
+p6
+I1
+sVlyrics
+p7
+I2
+sVsaying
+p8
+I1
+sVmoney
+p9
+I8
+sVusing
+p10
+I1
+sVsteve
+p11
+I1
+sVbring
+p12
+I2
+sVattitude
+p13
+I1
+sValready
+p14
+I1
+sVthrough
+p15
+I1
+sVbrim
+p16
+I1
+sVworld
+p17
+I3
+sVgo
+p18
+I2
+sVgs
+p19
+I1
+sVcold
+p20
+I1
+sVstill
+p21
+I3
+sVaint
+p22
+I32
+sVslow
+p23
+I1
+sVchain
+p24
+I1
+sVzone
+p25
+I1
+sVtill
+p26
+I1
+sVimma
+p27
+I5
+sVshow
+p28
+I1
+sVsuits
+p29
+I1
+sVbetter
+p30
+I1
+sVto
+p31
+I3
+sVmelvin
+p32
+I1
+sVchoose
+p33
+I1
+sVgangsta
+p34
+I1
+sVpride
+p35
+I1
+sVtwentytwenty
+p36
+I1
+sVreal
+p37
+I3
+sVdo
+p38
+I3
+sVgood
+p39
+I1
+sVaround
+p40
+I1
+sVget
+p41
+I5
+sVbig
+p42
+I3
+sVstop
+p43
+I2
+sVgame
+p44
+I3
+sVfrontin
+p45
+I1
+sVknow
+p46
+I3
+sVmessy
+p47
+I1
+sVfront
+p48
+I1
+sVmob
+p49
+I4
+sVday
+p50
+I1
+sVghetto
+p51
+I16
+sVlike
+p52
+I9
+sVlost
+p53
+I1
+sVcause
+p54
+I12
+sVbright
+p55
+I1
+sVarbys
+p56
+I1
+sVwoods
+p57
+I1
+sVeither
+p58
+I1
+sVwhatcha
+p59
+I2
+sVloads
+p60
+I2
+sVchallenge
+p61
+I1
+sVclothes
+p62
+I1
+sVem
+p63
+I2
+sVwork
+p64
+I1
+sVold
+p65
+I1
+sVnineties
+p66
+I1
+sVbump
+p67
+I1
+sVhouse
+p68
+I1
+sVstreets
+p69
+I2
+sVsome
+p70
+I1
+sVyeah
+p71
+I3
+sVwaffle
+p72
+I1
+sVsynergy
+p73
+I1
+sVbattle
+p74
+I1
+sVsee
+p75
+I1
+sVrecitating
+p76
+I1
+sV112
+p77
+I1
+sVgirl
+p78
+I4
+sVsport
+p79
+I1
+sVout
+p80
+I1
+sVeven
+p81
+I4
+sVwhat
+p82
+I2
+sVgon
+p83
+I1
+sVrings
+p84
+I1
+sVmall
+p85
+I2
+sVpaying
+p86
+I1
+sVenough
+p87
+I29
+sVdiamonds
+p88
+I1
+sVgot
+p89
+I5
+sVever
+p90
+I2
+sVacross
+p91
+I4
+sVred
+p92
+I1
+sVuh
+p93
+I1
+sVass
+p94
+I1
+sVrun
+p95
+I1
+sVchose
+p96
+I1
+sVbusiness
+p97
+I1
+sVrims
+p98
+I1
+sVcars
+p99
+I1
+sVnails
+p100
+I1
+sVpossibility
+p101
+I2
+sVboss
+p102
+I1
+sVwear
+p103
+I2
+sVhurts
+p104
+I1
+sVput
+p105
+I1
+sVnews
+p106
+I1
+sVcomb
+p107
+I1
+sVcome
+p108
+I5
+sVby
+p109
+I1
+sVchange
+p110
+I1
+sVdammit
+p111
+I1
+sVoh
+p112
+I2
+sV32
+p113
+I2
+sVill
+p114
+I1
+sVfavorite
+p115
+I1
+sVmillionaire
+p116
+I1
+sVkeep
+p117
+I5
+sVtlc
+p118
+I2
+sVplace
+p119
+I1
+sVpockets
+p120
+I1
+sVact
+p121
+I1
+sVos
+p122
+I2
+sVroad
+p123
+I1
+sVthats
+p124
+I3
+sVfinest
+p125
+I1
+sVlove
+p126
+I1
+sVdont
+p127
+I10
+sVchurchs
+p128
+I1
+sVcolor
+p129
+I1
+sVprefer
+p130
+I2
+sVone
+p131
+I2
+sVthroat
+p132
+I1
+sVfake
+p133
+I1
+sVbooty
+p134
+I1
+sVsounds
+p135
+I1
+sVuhhuh
+p136
+I1
+sVrolls
+p137
+I1
+sVbeats
+p138
+I1
+sVsuffocating
+p139
+I1
+sVplatinum
+p140
+I1
+sVwan
+p141
+I3
+sVfrom
+p142
+I1
+sVlog
+p143
+I1
+sVbaby
+p144
+I2
+sVsupport
+p145
+I1
+sVthere
+p146
+I1
+sVgirls
+p147
+I1
+sVtwo
+p148
+I2
+sVlong
+p149
+I1
+sVplastic
+p150
+I1
+sVnavigate
+p151
+I1
+sVstuck
+p152
+I1
+sVteeth
+p153
+I1
+sVtopics
+p154
+I1
+sVbullshit
+p155
+I1
+sVmore
+p156
+I2
+sVback
+p157
+I1
+sVeyes
+p158
+I1
+sVbuy
+p159
+I2
+sVknows
+p160
+I1
+sVdeke
+p161
+I1
+sVporch
+p162
+I1
+sVclub
+p163
+I1
+sVnobody
+p164
+I1
+sVooh
+p165
+I1
+sVit
+p166
+I4
+sVhere
+p167
+I2
+sVlows
+p168
+I1
+sVchild
+p169
+I1
+sVsit
+p170
+I1
+sVgold
+p171
+I1
+sVsleeping
+p172
+I1
+sVeat
+p173
+I1
+sVme
+p174
+I29
+sVhair
+p175
+I2
+sVkind
+p176
+I1
+sVlaser
+p177
+I1
+sVlook
+p178
+I4
+sVplayer
+p179
+I1
+sV1999
+p180
+I1
+sVmight
+p181
+I1
+sVride
+p182
+I1
+sVresemble
+p183
+I1
+sVfries
+p184
+I1
+sVcant
+p185
+I1
+sVrope
+p186
+I1
+sVpace
+p187
+I1
+sVremain
+p188
+I1
+sVnine
+p189
+I1
+sVsupposed
+p190
+I1
+sVdumb
+p191
+I1
+sVloot
+p192
+I1
+sVclear
+p193
+I1
+sVbuckhead
+p194
+I1
+sVbankhead
+p195
+I1
+sVive
+p196
+I1
+sVyoure
+p197
+I9
+sVshowin
+p198
+I1
+sVflow
+p199
+I1
+sVis
+p200
+I4
+sVtwentyinch
+p201
+I1
+sVhardest
+p202
+I2
+sVtonight
+p203
+I1
+sVfly
+p204
+I8
+sVsay
+p205
+I1
+sVtag
+p206
+I1
+sVim
+p207
+I6
+sVsomething
+p208
+I1
+sVwant
+p209
+I1
+sVgoodie
+p210
+I4
+sVneed
+p211
+I1
+sVy2g
+p212
+I1
+sVcheck
+p213
+I1
+sVshit
+p214
+I1
+sVwalters
+p215
+I1
+sVgrown
+p216
+I1
+sVsiren
+p217
+I1
+sVsip
+p218
+I1
+sVcourt
+p219
+I1
+sVfloor
+p220
+I2
+sVthings
+p221
+I2
+sVcustom
+p222
+I1
+sVboot
+p223
+I1
+sVtight
+p224
+I8
+sVhot
+p225
+I10
+sVtake
+p226
+I1
+sVdoors
+p227
+I1
+sVgets
+p228
+I1
+sVroll
+p229
+I1
+sVpink
+p230
+I1
+sVplay
+p231
+I1
+sVlookin
+p232
+I1
+sVgots
+p233
+I1
+sVtime
+p234
+I1
+sVhang
+p235
+I4
+sVsedans
+p236
+I1
+sVstay
+p237
+I1
+sVcreek
+p238
+I1
+sVblood
+p239
+I1
+sVhurt
+p240
+I1
+sVslang
+p241
+I1
+sVman
+p242
+I1
+sVshorty
+p243
+I5
+sVroom
+p244
+I2
+sVpopeyes
+p245
+I1
+sVwent
+p246
+I1
+sVsometimes
+p247
+I2
+sVwell
+p248
+I2
+sVface
+p249
+I1
+sVmaintain
+p250
+I1
+sVscrubs
+p251
+I1
+sVna
+p252
+I3
+sVmodel
+p253
+I1
+sVscream
+p254
+I1
+sVnappy
+p255
+I1
+s.

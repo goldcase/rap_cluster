@@ -1,87 +1,697 @@
-"something like that" lyrics
-n.w.a. lyrics
-"something like that"
-ah yeah, yo ren, yo ready to do this shit ?
-yeah, dre, let's rip shit up
-hey, yo yella boy, why don't you kick me one of them
-funky beats ?
-yo, we got my homeboy eazy e in the house
-compton's definately in the house. yo ren, whatta we gonna
-call this ? tell'em what yo name is ?
-yeah something like that
-allright, let's kick this shit on the one
-kick it
-back by demand, now it's big as fuck
-because you as the public, you should know what's up
-"compton's in the house" was more than gold, it was a hit
-cause it was based on some crazy shit
-so our final conclusion has been permitted
-punks made us a target and knew that we'd hit it
-but that was a part of showbizz
-hey yo homeboy, why don't you tell'em what your name is ?
-well for the record it's ren, and for the street it's villain
-and strapped with a gat, it's more like matt dillon
-on "gunsmoke", but not a man of the law
-i'm just the baddest motherfucker that you ever saw
-see, i peep and then i creep on a fool
-get my bloodpressure high but still stay cool
-dig a grave of a nigga lookin' up to me
-that really had the nerve that he could fuck with me
-who was the man in the mass, while i was waitin' to axe
-you know, it's mc ren kickin' mucho ass
-gettin' respect in showbizz
-hey yo homeboy (whassup ?) why don't you tell'em what yo name is ?
-dre, the motherfuckin' doctor, bitch hopper
-the sucker-motherfucker stopper
-back with a vocal track that's a fresh one
-so now, let's get the motherfuckin' session
-goin', flowin'. it's time to start throwin'
-rhymes. so keep in mind all the suckers i'm blowin'
-cause i'm a start showin' the time
-never sayin' i'm the best and just goin' for mine
-unlike a lotta suckers who claim they're gettin' busy
-when their records only make good frisbees
-you need to stop runnin' off the mouth
-stop and think before you put some whack bullshit out
-it's not difficult, in fact it's kinda simple
-to create something funky that's original
-you need to talk about the place to be
-who you are, what you got, about a suck mc
-oh yeah, that's what i'm talkin' about, ren,
-you know what i'm sayin' ?
-yeah, i know what you're sayin', dre, but you
-still ain't told'em enough, man
-allright, allright
-well, let's kick one more verse right here, allright
-kick it
-this is portable, something to fuck with yo ear
-ren and dre will appear when the sound is clear
-to fuck it up like we always do, and that's the trick
-sayin' some shit to make the bitches wanna suck our dicks
-but it's an everyday thang
-communicating to y'all with the compton slang
-compton's back in the house and your appartment
-so open your door, by the way, so we can start it
-test the monitors and call this mic
-cause the way we feel, we're gonna fuck it up tonight
-i got my mic in my hand, with a hell of a grip
-bitches screamin' and shit, now it's a trip
-waitin' for the grand finale, or the end
-or stupid rhymes set be dre and ren
-well, like a kid, we get new shoes and go faster
-smilin', like hell, as we move past the
-suckers, the motherfuckers with the ego hype
-cause we're positive and they're on a negative type
-and if think we're about to quit...
-motherfucker you ain't heard shit
-yeah, that shit was funky, you know what i'm sayin', ren ?
-i know what you're sayin', this is mc ren and dr.dre
-cold kickin' it in the place
-ah yeah, my mellow eazy e in the house
-yella boy in the house
-my boy ice cube
-arabian prince cold rockin' shit
-oh yeah, hey, i'm a say whassup to my homeboys from cnw
-yeah, hey, yo ren, whatta we gonna call this shit ?
-tell'em what yo name is ?
-yeah something like that...
+(dp1
+Vset
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVsound
+p5
+I1
+sVappartment
+p6
+I1
+sVmove
+p7
+I1
+sVhopper
+p8
+I1
+sVsession
+p9
+I1
+sVnwa
+p10
+I1
+sVeazy
+p11
+I2
+sVhell
+p12
+I2
+sVcold
+p13
+I2
+sVstill
+p14
+I2
+sVprince
+p15
+I1
+sVaint
+p16
+I2
+sVbusy
+p17
+I1
+sVbased
+p18
+I1
+sVgold
+p19
+I1
+sVwed
+p20
+I1
+sVthang
+p21
+I1
+sVbaddest
+p22
+I1
+sVverse
+p23
+I1
+sVfeel
+p24
+I1
+sVlets
+p25
+I4
+sVarabian
+p26
+I1
+sVfrisbees
+p27
+I1
+sVcool
+p28
+I1
+sVwhack
+p29
+I1
+sVkick
+p30
+I5
+sVfool
+p31
+I1
+sVtellem
+p32
+I4
+sVthem
+p33
+I1
+sVgood
+p34
+I1
+sVhit
+p35
+I2
+sVyo
+p36
+I12
+sVget
+p37
+I3
+sVbig
+p38
+I1
+sVstop
+p39
+I2
+sVrecords
+p40
+I1
+sVknow
+p41
+I6
+sVkid
+p42
+I1
+sVnew
+p43
+I1
+sVunlike
+p44
+I1
+sVmucho
+p45
+I1
+sVbullshit
+p46
+I1
+sVlike
+p47
+I8
+sVstopper
+p48
+I1
+sVname
+p49
+I4
+sVever
+p50
+I1
+sVdig
+p51
+I1
+sVtheyre
+p52
+I2
+sVstupid
+p53
+I1
+sValways
+p54
+I1
+sVhype
+p55
+I1
+sVconclusion
+p56
+I1
+sVyall
+p57
+I1
+sVnigga
+p58
+I1
+sVportable
+p59
+I1
+sVdillon
+p60
+I1
+sVhouse
+p61
+I6
+sVthrowin
+p62
+I1
+sVyeah
+p63
+I10
+sVup
+p64
+I2
+sVpast
+p65
+I1
+sVgo
+p66
+I1
+sVsee
+p67
+I1
+sVstreet
+p68
+I1
+sVvocal
+p69
+I1
+sVmonitors
+p70
+I1
+sVcreep
+p71
+I1
+sVreally
+p72
+I1
+sVappear
+p73
+I1
+sVmatt
+p74
+I1
+sVgon
+p75
+I3
+sVlotta
+p76
+I1
+sVmine
+p77
+I1
+sVbest
+p78
+I1
+sVenough
+p79
+I1
+sVren
+p80
+I10
+sVwhassup
+p81
+I2
+sVgot
+p82
+I3
+sVcause
+p83
+I4
+sVpublic
+p84
+I1
+sVass
+p85
+I1
+sVbe
+p86
+I1
+sVdefinately
+p87
+I1
+sVwan
+p88
+I1
+sVnever
+p89
+I1
+sVmotherfucker
+p90
+I2
+sVpunks
+p91
+I1
+sVmic
+p92
+I2
+sVdrdre
+p93
+I1
+sVtoldem
+p94
+I1
+sVfuck
+p95
+I5
+sVbloodpressure
+p96
+I1
+sVpeep
+p97
+I1
+sVhand
+p98
+I1
+sVpermitted
+p99
+I1
+sVsayin
+p100
+I6
+sVboy
+p101
+I3
+sVoh
+p102
+I2
+sVcould
+p103
+I1
+sVblowin
+p104
+I1
+sVscreamin
+p105
+I1
+sVkeep
+p106
+I1
+sVfunky
+p107
+I3
+sVplace
+p108
+I2
+sVwhatta
+p109
+I2
+sVlookin
+p110
+I1
+sVcnw
+p111
+I1
+sVsmilin
+p112
+I1
+sVmouth
+p113
+I1
+sVdre
+p114
+I5
+sVthink
+p115
+I2
+sVthats
+p116
+I4
+sVnerve
+p117
+I1
+sVmotherfuckers
+p118
+I1
+sVwhats
+p119
+I1
+sVdont
+p120
+I3
+sVsimple
+p121
+I1
+sVone
+p122
+I4
+sVput
+p123
+I1
+sVright
+p124
+I1
+sVbitch
+p125
+I1
+sVsuckers
+p126
+I3
+sVrespect
+p127
+I1
+sVopen
+p128
+I1
+sVyella
+p129
+I2
+sVstrapped
+p130
+I1
+sVflowin
+p131
+I1
+sVrhymes
+p132
+I2
+sVpositive
+p133
+I1
+sVcreate
+p134
+I1
+sVhey
+p135
+I5
+sVstart
+p136
+I3
+sVcall
+p137
+I3
+sVslang
+p138
+I1
+sVway
+p139
+I2
+sVtime
+p140
+I2
+sVrockin
+p141
+I1
+sVgoin
+p142
+I2
+sVtype
+p143
+I1
+sVfinal
+p144
+I1
+sVhomeboys
+p145
+I1
+sVdoor
+p146
+I1
+sVthat
+p147
+I3
+sVdifficult
+p148
+I1
+sVgat
+p149
+I1
+sVfinale
+p150
+I1
+sVback
+p151
+I3
+sVpart
+p152
+I1
+sVdemand
+p153
+I1
+sVnegative
+p154
+I1
+sVmellow
+p155
+I1
+sVear
+p156
+I1
+sVfaster
+p157
+I1
+sVme
+p158
+I2
+sVdicks
+p159
+I1
+sVmade
+p160
+I1
+sVtarget
+p161
+I1
+sVmc
+p162
+I3
+sVheard
+p163
+I1
+sVvillain
+p164
+I1
+sVus
+p165
+I1
+sVtrick
+p166
+I1
+sVrecord
+p167
+I1
+sVshowbizz
+p168
+I2
+sVgunsmoke
+p169
+I1
+sVsay
+p170
+I1
+sVclaim
+p171
+I1
+sVcrazy
+p172
+I1
+sVcompton
+p173
+I1
+sVgettin
+p174
+I2
+sVshowin
+p175
+I1
+sVah
+p176
+I2
+sVmind
+p177
+I1
+sVit
+p178
+I4
+sVrip
+p179
+I1
+sVhigh
+p180
+I1
+sVneed
+p181
+I2
+sVbeats
+p182
+I1
+sVcube
+p183
+I1
+sVim
+p184
+I8
+sVsomething
+p185
+I6
+sVready
+p186
+I1
+sVsaw
+p187
+I1
+sVeveryday
+p188
+I1
+sVshit
+p189
+I10
+sVice
+p190
+I1
+sVend
+p191
+I1
+sVdoctor
+p192
+I1
+sVna
+p193
+I4
+sVmake
+p194
+I2
+sVhomeboy
+p195
+I3
+sVtrip
+p196
+I1
+sVrunnin
+p197
+I1
+sVmotherfuckin
+p198
+I2
+sVgrand
+p199
+I1
+sVtest
+p200
+I1
+sVego
+p201
+I1
+sVyou
+p202
+I1
+sVout
+p203
+I1
+sVtalkin
+p204
+I1
+sVcomptons
+p205
+I3
+sVwaitin
+p206
+I2
+sVtonight
+p207
+I1
+sVbitches
+p208
+I2
+sVcommunicating
+p209
+I1
+sVtrack
+p210
+I1
+sVknew
+p211
+I1
+sVquit
+p212
+I1
+sVstay
+p213
+I1
+sVsuckermotherfucker
+p214
+I1
+sVkinda
+p215
+I1
+sVsuck
+p216
+I2
+sVlaw
+p217
+I1
+sVgrave
+p218
+I1
+sVman
+p219
+I3
+sVe
+I2
+sVallright
+p220
+I4
+sVclear
+p221
+I1
+sVyoure
+p222
+I2
+sVwell
+p223
+I3
+sVoriginal
+p224
+I1
+sVmass
+p225
+I1
+sVtalk
+p226
+I1
+sVaxe
+p227
+I1
+sVgrip
+p228
+I1
+sVfresh
+p229
+I1
+sVthe
+p230
+I1
+sVkickin
+p231
+I2
+sVfact
+p232
+I1
+s.

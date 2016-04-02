@@ -1,101 +1,731 @@
-"body of work" lyrics
-lupe fiasco lyrics
-"body of work"
-(feat. troi & terrace martin)
-closet full of bones
-just don't try to put'em back together
-(try to put'em back together)
-and i'll just bite my tongue
-so wear it like a scarlet letter
-(wear it like a scarlet letter)
-(i've always loved you)
-quiet in the court for the courtship
-marriage of the dork and the gorgeous
-took her from the king of the corpses
-he revolve jumped off the wall of the fort with the horses
-this is foretold, bojangles was tapping in morse code
-at least to the mad man genius, tap top secrets and more gold
-(all of you)
-from the guts of the mother, can push or move her undercover
-with a $3,000 son she just want a lover
-and somebody else to come and try and drug her
-take her off the grill, she done
-pills celebrating, "we won"
-in the system of the women, never knew he had it in him
-this condition when the world that they make him become
-cocaine and new high tech way smuggle whole things
-(i've always loved you)
-from the control range that make radio heads with gold brains
-(all of you)
-depart 84' jags on gold chains
-developing niggas from a whole name
-god is great, but it's snakes on my soul plane
-closet full of bones
-just don't try to put'em back together
-(try to put'em back together)
-and i'll just bite my tongue
-so wear it like a scarlet letter
-(wear it like a scarlet letter)
-anatomy (skin), will be the death of me
-anatomy (skin), that's just my anatomy
-anatomy (skin), will be the death of me
-anatomy (skin)
-(tell me what to do)
-limo to the limit, fill it till the brim get in it
-you can't get it, if you gotta ask
-(make me pretty)
-in that case i want two masks
-bottom class, dollar cast
-poppin' tags, droppin' trash in shopping bags
-till akeem take our pocket cash
-(am i beautiful?)
-write it in lights, molly in the body of christ
-drop me to the lobby from heights
-then over the threshold to redeem the doorway
-fourteen broads like the king of norway
-fourteen broads having dreams of foreplay
-fourteen arm shiva (viva la coup!)
-if the government get it i'm a fool
-closet full of bones
-just don't try to put'em back together
-(try to put'em back together)
-and i'll just bite my tongue
-so wear it like a scarlet letter
-(wear it like a scarlet letter)
-anatomy (skin), will be the death of me
-anatomy (skin), that's just my anatomy
-anatomy (skin), will be the death of me
-anatomy (skin)
-sanskrit dance on the page of the dead book
-don't leave the restroom with the left foot
-flags of tibet, to bet, to bed, to death, flesh
-release the leash on a fast car
-feed on the keys, fall asleep in a jaguar
-the tip of thy sword is white
-am i night, am i black, am i light?
-have i been this?
-realize my begin when i find where my end this
-oedipus wrecks, motherfucker this better than sex
-material potion the love of my martyr
-currency soaked in the blood of my father
-(will you cry for me?)
-sky burial, let the wind carry you, farther
-than i could
-(live forever)
-an anatomy, not of me, knotting me to it, nodding me to it
-eyes of the i and others, watching me do it
-adapt in each rubric
-kubrick in plot and tone
-lots of bones, scolds to the top of tone
-skim through it is just skin to it
-you're so thin you see the sins through it
-closet full of bones
-just don't try to put'em back together
-(try to put'em back together)
-and i'll just bite my tongue
-so wear it like a scarlet letter
-(wear it like a scarlet letter)
-anatomy (skin), will be the death of me
-anatomy (skin), that's just my anatomy
-anatomy (skin), will be the death of me
-anatomy (skin)
+(dp1
+Vcoup
+p2
+I1
+sVtroi
+p3
+I1
+sVcode
+p4
+I1
+sVlyrics
+p5
+I2
+sVflesh
+p6
+I1
+sVdance
+p7
+I1
+sVmove
+p8
+I1
+sVdollar
+p9
+I1
+sVwrecks
+p10
+I1
+sVradio
+p11
+I1
+sVterrace
+p12
+I1
+sVbrim
+p13
+I1
+sVskin
+p14
+I13
+sVthreshold
+p15
+I1
+sVlove
+p16
+I1
+sVfeat
+p17
+I1
+sVfind
+p18
+I1
+sVdeath
+p19
+I7
+sVgold
+p20
+I3
+sVfarther
+p21
+I1
+sVlights
+p22
+I1
+sVguts
+p23
+I1
+sVpoppin
+p24
+I1
+sVsoaked
+p25
+I1
+sVknew
+p26
+I1
+sVrealize
+p27
+I1
+sVbetter
+p28
+I1
+sVblack
+p29
+I1
+sVdreams
+p30
+I1
+sVpretty
+p31
+I1
+sVsanskrit
+p32
+I1
+sVwatching
+p33
+I1
+sVwomen
+p34
+I1
+sVnorway
+p35
+I1
+sVloved
+p36
+I2
+sVfool
+p37
+I1
+sVdo
+p38
+I1
+sVsomebody
+p39
+I1
+sVking
+p40
+I2
+sVbojangles
+p41
+I1
+sVskim
+p42
+I1
+sVmaterial
+p43
+I1
+sVpocket
+p44
+I1
+sVredeem
+p45
+I1
+sVgot
+p46
+I1
+sVfoot
+p47
+I1
+sVworld
+p48
+I1
+sVcourtship
+p49
+I1
+sVhim
+p50
+I1
+sVcondition
+p51
+I1
+sVname
+p52
+I1
+sVjaguar
+p53
+I1
+sVlike
+p54
+I9
+sVcar
+p55
+I1
+sValways
+p56
+I2
+sVniggas
+p57
+I1
+sVtry
+p58
+I9
+sVnodding
+p59
+I1
+sVmartin
+p60
+I1
+sVrelease
+p61
+I1
+sVbecome
+p62
+I1
+sVundercover
+p63
+I1
+sVtwo
+p64
+I1
+sVlimo
+p65
+I1
+sVviva
+p66
+I1
+sVdrop
+p67
+I1
+sVsnakes
+p68
+I1
+sVback
+p69
+I8
+sVdead
+p70
+I1
+sVcash
+p71
+I1
+sVcelebrating
+p72
+I1
+sVsee
+p73
+I1
+sVasleep
+p74
+I1
+sVpills
+p75
+I1
+sV84
+p76
+I1
+sVheights
+p77
+I1
+sVchrist
+p78
+I1
+sVcloset
+p79
+I4
+sVmorse
+p80
+I1
+sVlots
+p81
+I1
+sVjumped
+p82
+I1
+sVtibet
+p83
+I1
+sVshiva
+p84
+I1
+sVgenius
+p85
+I1
+sVknotting
+p86
+I1
+sVwon
+p87
+I1
+sVadapt
+p88
+I1
+sVnew
+p89
+I1
+sVfall
+p90
+I1
+sVchains
+p91
+I1
+sVbody
+p92
+I3
+sVfull
+p93
+I4
+sVtags
+p94
+I1
+sVlupe
+p95
+I1
+sVnever
+p96
+I1
+sVmolly
+p97
+I1
+sVmotherfucker
+p98
+I1
+sVscolds
+p99
+I1
+sVsins
+p100
+I1
+sVfourteen
+p101
+I3
+sVlet
+p102
+I1
+sVwear
+p103
+I8
+sVothers
+p104
+I1
+sVask
+p105
+I1
+sVcome
+p106
+I1
+sVdork
+p107
+I1
+sVgreat
+p108
+I1
+sVsecrets
+p109
+I1
+sVgod
+p110
+I1
+sVill
+p111
+I4
+sVla
+p112
+I1
+sVquiet
+p113
+I1
+sVdrug
+p114
+I1
+sVpage
+p115
+I1
+sVforetold
+p116
+I1
+sVrange
+p117
+I1
+sVputem
+p118
+I8
+sVtongue
+p119
+I4
+sVwhole
+p120
+I2
+sVtop
+p121
+I2
+sVthats
+p122
+I3
+sVfeed
+p123
+I1
+sVbeautiful
+p124
+I1
+sVlive
+p125
+I1
+sVdepart
+p126
+I1
+sVdont
+p127
+I5
+sVburial
+p128
+I1
+sVwall
+p129
+I1
+sVfather
+p130
+I1
+sVson
+p131
+I1
+sVcurrency
+p132
+I1
+sVdone
+p133
+I1
+sV3000
+p134
+I1
+sVcarry
+p135
+I1
+sVcocaine
+p136
+I1
+sVakeem
+p137
+I1
+sVsky
+p138
+I1
+sVplot
+p139
+I1
+sVfast
+p140
+I1
+sVheads
+p141
+I1
+sVher
+p142
+I1
+sVbite
+p143
+I4
+sVnight
+p144
+I1
+sVsystem
+p145
+I1
+sVleast
+p146
+I1
+sVlobby
+p147
+I1
+sVleash
+p148
+I1
+sVcry
+p149
+I1
+sVway
+p150
+I1
+sVgorgeous
+p151
+I1
+sVwhite
+p152
+I1
+sVtell
+p153
+I1
+sVbroads
+p154
+I2
+sVhorses
+p155
+I1
+sVeyes
+p156
+I1
+sVshopping
+p157
+I1
+sVforeplay
+p158
+I1
+sVbrains
+p159
+I1
+sVgovernment
+p160
+I1
+sVtook
+p161
+I1
+sVelse
+p162
+I1
+sVtapping
+p163
+I1
+sVjags
+p164
+I1
+sVsex
+p165
+I1
+sVrubric
+p166
+I1
+sVfort
+p167
+I1
+sVme
+p168
+I7
+sVgrill
+p169
+I1
+sVdeveloping
+p170
+I1
+sVthis
+p171
+I2
+sVleave
+p172
+I1
+sVwork
+p173
+I2
+sVsoul
+p174
+I1
+sVbed
+p175
+I1
+sVcorpses
+p176
+I1
+sVcast
+p177
+I1
+sVdroppin
+p178
+I1
+sVmarriage
+p179
+I1
+sVthin
+p180
+I1
+sVcase
+p181
+I1
+sVlover
+p182
+I1
+sVta
+p183
+I1
+sVkubrick
+p184
+I1
+sVcould
+p185
+I1
+sVbet
+p186
+I1
+sVcontrol
+p187
+I1
+sVive
+p188
+I2
+sVyoure
+p189
+I1
+sVtap
+p190
+I1
+sVblood
+p191
+I1
+sVit
+p192
+I5
+sVhigh
+p193
+I1
+sVscarlet
+p194
+I8
+sVcant
+p195
+I1
+sVim
+p196
+I1
+sVwant
+p197
+I2
+sVbones
+p198
+I5
+sVlimit
+p199
+I1
+sVrestroom
+p200
+I1
+sVfill
+p201
+I1
+sVbags
+p202
+I1
+sVmartyr
+p203
+I1
+sVcourt
+p204
+I1
+sVtone
+p205
+I2
+sVthings
+p206
+I1
+sVmake
+p207
+I3
+sVget
+p208
+I3
+sVtip
+p209
+I1
+sVdoorway
+p210
+I1
+sVarm
+p211
+I1
+sVwrite
+p212
+I1
+sVtill
+p213
+I2
+sVbook
+p214
+I1
+sVtake
+p215
+I2
+sVsword
+p216
+I1
+sVflags
+p217
+I1
+sVyou
+p218
+I4
+sVtrash
+p219
+I1
+sVbegin
+p220
+I1
+sVpotion
+p221
+I1
+sVkeys
+p222
+I1
+sVmother
+p223
+I1
+sVmasks
+p224
+I1
+sVanatomy
+p225
+I16
+sVplane
+p226
+I1
+sVoedipus
+p227
+I1
+sVmad
+p228
+I1
+sVletter
+p229
+I8
+sVend
+p230
+I1
+sVrevolve
+p231
+I1
+sVclass
+p232
+I1
+sVman
+p233
+I1
+sVforever
+p234
+I1
+sVthy
+p235
+I1
+sVlight
+p236
+I1
+sVbottom
+p237
+I1
+sVtogether
+p238
+I8
+sVsmuggle
+p239
+I1
+sVtech
+p240
+I1
+sVfiasco
+p241
+I1
+sVpush
+p242
+I1
+sVwind
+p243
+I1
+sVleft
+p244
+I1
+s.

@@ -1,3 +1,17 @@
-"welcome to atlanta (interlude)" lyrics
-outkast lyrics
-"welcome to atlanta (interlude)"
+(dp1
+Vatlanta
+p2
+I2
+sVwelcome
+p3
+I2
+sVoutkast
+p4
+I1
+sVlyrics
+p5
+I2
+sVinterlude
+p6
+I2
+s.

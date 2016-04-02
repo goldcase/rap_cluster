@@ -1,79 +1,631 @@
-"gotta make it to heaven" lyrics
-50 cent lyrics
-"gotta make it to heaven"
-i gotta make it to heaven, for going through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for going through hell
-gotta make it to heaven i hope i make it to heaven
-some say i'm paranoid i say i'm careful how i choose my friends
-been to icu once i ain't going again
-first zee got murked, then raw got murked
-an homies still in the hood, why he ain't getting hurt
-i smell somethin' fishy man it might be a rat
-damn niggaz switchin sides on niggaz just like that
-u know me, i stay wit a bitch on her knees
-an get guns away in the hood like government cheese
-spray on suzuki's eleven hundred cc's
-more plate on the back, straight squeezing a mak
-in the hood they identify niggaz by they cars
-so i switch up whips to stay off the radar
-i ain't gotta be around to make shit hot
-i send yayo to dump 30 shots on ya block
-so spray dat tec nigga if i say get it done
-an make it wet niggaz if you round me son
-i gotta make it to heaven, for going through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for going through hell
-i gotta make it to heaven i hope i make it to heaven
-i gotta make it to heaven, for goin through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for going through hell
-i gotta make it to heaven i hope i make it to heaven
-when i come through the hood, i don't stop the rapping niggaz
-get close enough to smack, get it clappin nigga
-pac tried to front so i waved the chrome on his ass
-point blank range i span put a bone on his ass
-two weeks later niggaz came through with maks to lay me down
-then sprayed i played dead and got the fuck off the ground
-out the blue i get a phone call, 50 what up?
-u send a bitch at me i send the bitch back cut up
-i don't play that pussy shit, i done told you boy
-front on me, you gon meet one of my soldiers boy
-cause entwain shot up his mamma crib an now he in jail
-trippin on fliks an bogger trail, pussy in black tail
-pack mamma moved, but she don't talk to him no more
-the shells from twains 4-4, blew the hinge off her do'
-without that tec every month how she gon pay for the crib
-man social service finis' come and take dem kids
-i gotta make it to heaven, for going through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for going through hell
-i gotta make it to heaven i hope i make it to heaven
-i gotta make it to heaven, for going through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for goin through hell
-i gotta make it to heaven i hope i make it to heaven
-lord, grant me the serenity to accept the things i can not change, the courage
-to change the things i can, but wisdom to know the difference
-but a, ade did a make you say dat i say dat
-that's the credit put in your head when you a case act
-man i might talk to you while we up in the penz
-but when we come home, dat don't mean we gon fuck an be friends
-shells smash ya head close enough to hear 'em whistling
-thank god they missed you, an go grab ya pistol
-in the hood niggaz runnin round actin crazy
-buyin little air jordan's for maybe babies
-see it might be his, an it might be yours
-cause them broads in the projects is straight up whores
-man it don't take much for you to get in them draws
-you ain't can have 'em on they back or on all fours
-you got to tell me, you feelin this shit
-because i hear what i'm sayin i know i'm killin this shit
-i gotta make it to heaven, for goin through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for goin through hell
-i gotta make it to heaven i hope i make it to heaven
-i gotta make it to heaven, for going through hell
-gotta make it to heaven, gotta make it to heaven
-i gotta make it to heaven, for going through hell
-i gotta make it to heaven i hope i make it to heaven
+(dp1
+Vjordans
+p2
+I1
+sVsprayed
+p3
+I1
+sVshot
+p4
+I1
+sVsuzukis
+p5
+I1
+sVlyrics
+p6
+I2
+sVzee
+p7
+I1
+sVmonth
+p8
+I1
+sVradar
+p9
+I1
+sVidentify
+p10
+I1
+sVgo
+p11
+I1
+sVhell
+p12
+I14
+sVstill
+p13
+I1
+sVground
+p14
+I1
+sVaint
+p15
+I4
+sVcut
+p16
+I1
+sVthank
+p17
+I1
+sVcall
+p18
+I1
+sVparanoid
+p19
+I1
+sVmuch
+p20
+I1
+sVpenz
+p21
+I1
+sVsend
+p22
+I3
+sVtail
+p23
+I1
+sVgoing
+p24
+I11
+sVsqueezing
+p25
+I1
+sVchoose
+p26
+I1
+sVhomies
+p27
+I1
+sVwhips
+p28
+I1
+sVlord
+p29
+I1
+sVweeks
+p30
+I1
+sVmight
+p31
+I4
+sVhope
+p32
+I7
+sVta
+p33
+I38
+sVplate
+p34
+I1
+sVaround
+p35
+I1
+sVget
+p36
+I6
+sVya
+p37
+I3
+sVstop
+p38
+I1
+sVactin
+p39
+I1
+sVfeelin
+p40
+I1
+sVdat
+p41
+I4
+sVsmack
+p42
+I1
+sVcourage
+p43
+I1
+sVevery
+p44
+I1
+sVknow
+p45
+I3
+sVfront
+p46
+I2
+sVone
+p47
+I1
+sVprojects
+p48
+I1
+sVtrippin
+p49
+I1
+sVheaven
+p50
+I44
+sVlike
+p51
+I2
+sVmaks
+p52
+I1
+sV50
+p53
+I2
+sVman
+p54
+I4
+sVgrab
+p55
+I1
+sVround
+p56
+I2
+sVbone
+p57
+I1
+sVblack
+p58
+I1
+sVem
+p59
+I2
+sVblew
+p60
+I1
+sVnigga
+p61
+I2
+sVdump
+p62
+I1
+sVdo
+p63
+I1
+sVtec
+p64
+I2
+sVback
+p65
+I3
+sVdead
+p66
+I1
+sVup
+p67
+I2
+sVsee
+p68
+I1
+sVsoldiers
+p69
+I1
+sVclose
+p70
+I2
+sVblue
+p71
+I1
+sVknees
+p72
+I1
+sVgon
+p73
+I3
+sVdraws
+p74
+I1
+sVmissed
+p75
+I1
+sVgod
+p76
+I1
+sVaway
+p77
+I1
+sVenough
+p78
+I2
+sVgot
+p79
+I42
+sVpistol
+p80
+I1
+sVcause
+p81
+I2
+sVguns
+p82
+I1
+sVicu
+p83
+I1
+sVtold
+p84
+I1
+sVass
+p85
+I2
+sVbogger
+p86
+I1
+sVentwain
+p87
+I1
+sVshots
+p88
+I1
+sVrapping
+p89
+I1
+sVcars
+p90
+I1
+sVspray
+p91
+I2
+sVput
+p92
+I2
+sVcome
+p93
+I3
+sVchange
+p94
+I2
+sVsayin
+p95
+I1
+sVboy
+p96
+I2
+sVkids
+p97
+I1
+sVgetting
+p98
+I1
+sV30
+p99
+I1
+sVjail
+p100
+I1
+sV44
+p101
+I1
+sVhinge
+p102
+I1
+sVcredit
+p103
+I1
+sVrange
+p104
+I1
+sVserenity
+p105
+I1
+sVsocial
+p106
+I1
+sVmean
+p107
+I1
+sVblock
+p108
+I1
+sVfirst
+p109
+I1
+sVcheese
+p110
+I1
+sVdont
+p111
+I5
+sVpoint
+p112
+I1
+sVpussy
+p113
+I2
+sVcrib
+p114
+I2
+sVson
+p115
+I1
+sVdown
+p116
+I1
+sVwit
+p117
+I1
+sVdone
+p118
+I2
+sVbitch
+p119
+I3
+sVblank
+p120
+I1
+sVhood
+p121
+I5
+sVlittle
+p122
+I1
+sVkillin
+p123
+I1
+sVspan
+p124
+I1
+sVservice
+p125
+I1
+sVshells
+p126
+I2
+sVchrome
+p127
+I1
+sVsmash
+p128
+I1
+sVtwo
+p129
+I1
+sVcent
+p130
+I1
+sVclappin
+p131
+I1
+sVeleven
+p132
+I1
+sVdifference
+p133
+I1
+sVade
+p134
+I1
+sVdamn
+p135
+I1
+sVswitchin
+p136
+I1
+sVhundred
+p137
+I1
+sVtell
+p138
+I1
+sVmore
+p139
+I1
+sVhead
+p140
+I2
+sVthat
+p141
+I1
+sVfinis
+p142
+I1
+sVwet
+p143
+I1
+sVhurt
+p144
+I1
+sVbuyin
+p145
+I1
+sVphone
+p146
+I1
+sVhear
+p147
+I2
+sVfishy
+p148
+I1
+sVcareful
+p149
+I1
+sVyayo
+p150
+I1
+sVcase
+p151
+I1
+sVstraight
+p152
+I2
+sVrat
+p153
+I1
+sVniggaz
+p154
+I7
+sVair
+p155
+I1
+sVbroads
+p156
+I1
+sVdem
+p157
+I1
+sVmeet
+p158
+I1
+sVpack
+p159
+I1
+sVcrazy
+p160
+I1
+sVplayed
+p161
+I1
+sVmoved
+p162
+I1
+sVfuck
+p163
+I2
+sVaccept
+p164
+I1
+sVraw
+p165
+I1
+sVsay
+p166
+I5
+sVim
+p167
+I4
+sVhome
+p168
+I1
+sVshit
+p169
+I4
+sVagain
+p170
+I1
+sVgrant
+p171
+I1
+sVpay
+p172
+I1
+sVmake
+p173
+I47
+sVgovernment
+p174
+I1
+sVmurked
+p175
+I2
+sVrunnin
+p176
+I1
+sVhot
+p177
+I1
+sVpac
+p178
+I1
+sVtake
+p179
+I2
+sVbabies
+p180
+I1
+sVmamma
+p181
+I2
+sVsmell
+p182
+I1
+sVfours
+p183
+I1
+sVwaved
+p184
+I1
+sVfliks
+p185
+I1
+sVplay
+p186
+I1
+sVtried
+p187
+I1
+sVact
+p188
+I1
+sVwhistling
+p189
+I1
+sVstay
+p190
+I2
+sVlay
+p191
+I1
+sVmak
+p192
+I1
+sVwisdom
+p193
+I1
+sVfriends
+p194
+I2
+sVsides
+p195
+I1
+sVgoin
+p196
+I4
+sVsomethin
+p197
+I1
+sVwhores
+p198
+I1
+sVtrail
+p199
+I1
+sVmaybe
+p200
+I1
+sVlater
+p201
+I1
+sVccs
+p202
+I1
+sVyours
+p203
+I1
+sVswitch
+p204
+I1
+sVwithout
+p205
+I1
+sVu
+I2
+sVtalk
+p206
+I2
+sVthings
+p207
+I2
+sVthats
+p208
+I1
+sVtwains
+p209
+I1
+sVcame
+p210
+I1
+s.

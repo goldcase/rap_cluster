@@ -1,64 +1,491 @@
-"i'll do anything" lyrics
-50 cent lyrics
-"i'll do anything"
-this for the bitches nigga
-i'll do - i'll, do, anything for you
-i'll do, anything you want me to (i'll do do do-do do do do)
-i'll do, anything (anything for you)
-me? i done been around the world six times (uh-huh)
-a bad bitch in every part of the world's been mine (yeah)
-but you can change me, baby you can change me
-oh shit, look, i'm already not the same, see? (ha ha)
-shorty you make me feel brand new
-i'm not runnin game girl, i swear you do
-you're too cold to hold and too hot to handle
-me and you girl, there's nuttin we can't do
-you like girls, i like girls too, we got somethin in common
-now how the hell could that be a problem?
-shorty let's laugh, let's dance, let's drink, let's fuck
-right here, right now, shit, we only live once
-i should not be reprimanded, i cannot be blamed
-my lust on level 10; i'm tryin to get it in
-i'll have you cummin down your candy walls
-get it wetter than niagara falls 'til you climax, that's all
-they think, i'm a fool
-cause i'd do so many things, for you
-i'll, do anything... i'll, do anything
-but they don't know the reason
-it's why i do all the things i do for you
-i'll, do anything... i'll, do anything
-i'll do
-yeah yeah yeah
-i do a lot bitch!
-ha ha...
-i mean you should be in fuckin love with me
-look all this fly shit you got
-i keep a bad bitch on deck (uh-huh)
-we retro drinkin, yeah sippin moet
-look man - my shawty got ass for days
-i smack it, sit and watch it wave (uh)
-when it's stress on my brain, the head games relax the pain
-so good i get to buyin her thangs
-like tennis bracelets and chains, studs and diamond rangs
-i'm givin her the finer thangs
-that's why she don't complain
-i kinda got her open mayne, i stroke that thang
-on different ends of the globe
-we international now, whoa
-yeah, yeah
-you know niggaz sayin i'm crazy, right?
-it's cool though
-they don't know how we get down baby
-y'know?
-that's me and you, you know? (i'll do)
-they ain't supposed to understand it (i'll do do do-do do do)
-you know i say some shit i ain't supposed to say
-but you know how i feel (i'll do)
-i should be a asshole whenever i feel like it (i'll do)
-after - look at the shit i bought you man (i'll do do do-do do do)
-c'mon man, don't give me no headache man
-you a bitch when you on your period, right? (i'll do)
-don't come at me with that bullshit man
-(i'll do, i'll do do do-do do do)
-do anything for you girl!
-i'll do... anything
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVdeck
+p4
+I1
+sVdance
+p5
+I1
+sVbrain
+p6
+I1
+sVhell
+p7
+I1
+sVcold
+p8
+I1
+sVdrinkin
+p9
+I1
+sVha
+p10
+I4
+sVgivin
+p11
+I1
+sVmoet
+p12
+I1
+sVthang
+p13
+I1
+sVcomplain
+p14
+I1
+sVlets
+p15
+I4
+sVfiner
+p16
+I1
+sVfool
+p17
+I1
+sVdo
+p18
+I11
+sVgood
+p19
+I1
+sVhandle
+p20
+I1
+sVaround
+p21
+I1
+sVget
+p22
+I4
+sVwatch
+p23
+I1
+sVwave
+p24
+I1
+sVme
+p25
+I2
+sVwalls
+p26
+I1
+sVevery
+p27
+I1
+sVknow
+p28
+I6
+sVbracelets
+p29
+I1
+sVgot
+p30
+I4
+sVnot
+p31
+I1
+sVworld
+p32
+I1
+sVshawty
+p33
+I1
+sVcool
+p34
+I1
+sVworlds
+p35
+I1
+sVlike
+p36
+I4
+sVlevel
+p37
+I1
+sVchains
+p38
+I1
+sV50
+p39
+I1
+sVcandy
+p40
+I1
+sVbad
+p41
+I2
+sVcommon
+p42
+I1
+sVbought
+p43
+I1
+sVmean
+p44
+I1
+sVnigga
+p45
+I1
+sVnuttin
+p46
+I1
+sVglobe
+p47
+I1
+sVyeah
+p48
+I7
+sVsee
+p49
+I1
+sVgirl
+p50
+I3
+sVyknow
+p51
+I1
+sVwetter
+p52
+I1
+sVretro
+p53
+I1
+sVnew
+p54
+I1
+sVcause
+p55
+I1
+sVuh
+p56
+I1
+sVass
+p57
+I1
+sVaint
+p58
+I2
+sVends
+p59
+I1
+sVmayne
+p60
+I1
+sVreason
+p61
+I1
+sVcome
+p62
+I1
+sVchange
+p63
+I2
+sVsayin
+p64
+I1
+sVstuds
+p65
+I1
+sVrangs
+p66
+I1
+sVanything
+p67
+I12
+sVoh
+p68
+I1
+sVmany
+p69
+I1
+sVill
+p70
+I22
+sVdays
+p71
+I1
+sVtimes
+p72
+I1
+sVreprimanded
+p73
+I1
+sVswear
+p74
+I1
+sVgames
+p75
+I1
+sVthink
+p76
+I1
+sVfuckin
+p77
+I1
+sVthats
+p78
+I3
+sValready
+p79
+I1
+sVlove
+p80
+I1
+sVdont
+p81
+I5
+sVfeel
+p82
+I3
+sVperiod
+p83
+I1
+sVright
+p84
+I4
+sVdone
+p85
+I1
+sVbitch
+p86
+I4
+sVlaugh
+p87
+I1
+sVuhhuh
+p88
+I2
+sVopen
+p89
+I1
+sVtennis
+p90
+I1
+sVgirls
+p91
+I2
+sVcent
+p92
+I1
+sVlive
+p93
+I1
+sVlot
+p94
+I1
+sVtryin
+p95
+I1
+sVwhoa
+p96
+I1
+sVbullshit
+p97
+I1
+sVheadache
+p98
+I1
+sVhead
+p99
+I1
+sVdiamond
+p100
+I1
+sVrelax
+p101
+I1
+sVbrand
+p102
+I1
+sVbitches
+p103
+I1
+sVshorty
+p104
+I2
+sVfuck
+p105
+I1
+sVbuyin
+p106
+I1
+sVpart
+p107
+I1
+sVunderstand
+p108
+I1
+sVbaby
+p109
+I2
+sVcummin
+p110
+I1
+sVhold
+p111
+I1
+sVrunnin
+p112
+I1
+sV10
+p113
+I1
+sVlook
+p114
+I4
+sVdodo
+p115
+I4
+sVstroke
+p116
+I1
+sVniggaz
+p117
+I1
+sVcan
+p118
+I1
+sVim
+p119
+I6
+sVproblem
+p120
+I1
+sVcould
+p121
+I1
+sVsay
+p122
+I2
+sVtheres
+p123
+I1
+sVcrazy
+p124
+I1
+sVcmon
+p125
+I1
+sVgive
+p126
+I1
+sVsupposed
+p127
+I2
+sVclimax
+p128
+I1
+sVmine
+p129
+I1
+sVlust
+p130
+I1
+sVfly
+p131
+I1
+sVcant
+p132
+I1
+sVniagara
+p133
+I1
+sVwant
+p134
+I1
+sVin
+p135
+I1
+sVkeep
+p136
+I1
+sVid
+p137
+I1
+sVshit
+p138
+I5
+sVdifferent
+p139
+I1
+sVsippin
+p140
+I1
+sVsmack
+p141
+I1
+sVsit
+p142
+I1
+sVthings
+p143
+I2
+sVmake
+p144
+I1
+sVsix
+p145
+I1
+sVasshole
+p146
+I1
+sVtil
+p147
+I1
+sVhot
+p148
+I1
+sVyou
+p149
+I4
+sVpain
+p150
+I1
+sVthough
+p151
+I1
+sVdrink
+p152
+I1
+sVfalls
+p153
+I1
+sVkinda
+p154
+I1
+sVblamed
+p155
+I1
+sVman
+p156
+I5
+sVsomethin
+p157
+I1
+sVstress
+p158
+I1
+sVwhenever
+p159
+I1
+sVyoure
+p160
+I1
+sVgame
+p161
+I1
+sVthangs
+p162
+I2
+sVinternational
+p163
+I1
+sVonce
+p164
+I1
+s.

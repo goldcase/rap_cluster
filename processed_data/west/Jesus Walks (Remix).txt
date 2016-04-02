@@ -1,88 +1,665 @@
-jesus walks remix lyrics
-kanye west lyrics
-jesus walks remix
-feat mae
-ready huh
-yeah um
-jesus jesus talk me
-jesus jesus talk
-jesus jesus
-jesus jesus
-come on
-jesus walks
-god show way devil can’t break down
-jesus walk me
-girls jewelry
-devil trying lure me
-view
-jesus walks me
-pastor shaking head
-ain’t sure me
-surely
-jesus walks me
-ask
-say prayers least 2 week
-ain’t talking god know i’ve g
-know embarrassed
-prayers sound like ben stiller meet parents
-ain’t good “give us day”
-ladies trying give us free
-i’m trying give us us pay
-know strippers was
-ghettofabulous rooms cyberus
-jacuzzi wild cleanse us
-please unfog cardierre lenses
-god sends signs sometimes glimpses almost died
-falling asleep benzes
-something beat get tranquilized
-play shows feel sanctified
-gives direction can’t decide
-alive tell ain’t said
-jesus walks
-god show way devil can’t break down
-jesus walks
-thing pray feet don’t fail now
-jesus walks
-think there’s something say
-right wrongs
-jesus walks
-finally talked god ain’t afraid cause love strong
-take name take fame
-take shame take flaws take blame
-feel dirt conceal hurt see bruise
-walk shoes
-weren’t deep thought
-two choice kill either leave new york
-i’m truth teller that’s say i’m sayin
-thing radio playin cause payin
-ain’t really hot more
-beats would knock more
-cares flock more
-realize labels pay lies
-blood gain disguise
-you’re favorite artist shhhh
-know hear huh wanna fear what
-worst dream gonna hear that
-con rap like john baptist
-prepare way came say today
-deceived us us thinking jesus really didn’t need us
-loved you
-loved boys hallway broadway
-even meet dope every 4 days
-strippers broad day norway
-detroit player gators moreys
-bars music walk god
-scares prove itugh
-jesus walks
-god show way devil can’t break down
-jesus walks
-thing pray feet don’t fail now
-jesus walks
-everybody lift hands
-right say me
-“father thank forgiving everything ever done
-jesus walking dying raising
-sins forgiven i’m changed man
-i’m healed i’m deliveredi’m rich it’s him”
-walk walk walk walk walk
-walk me
+(dp1
+Vhealed
+p2
+I1
+sVwalking
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I3
+sVlabels
+p7
+I1
+sVbruise
+p8
+I1
+sVdisguise
+p9
+I1
+sVjacuzzi
+p10
+I1
+sVkill
+p11
+I1
+sVrooms
+p12
+I1
+sVsigns
+p13
+I1
+sVtranquilized
+p14
+I1
+sVkanye
+p15
+I1
+sVfear
+p16
+I1
+sVfeat
+p17
+I1
+sVitugh
+p18
+I1
+sVnow
+p19
+I2
+sVsayin
+p20
+I1
+sVthinking
+p21
+I1
+sVpray
+p22
+I2
+sVit\u2019s
+p23
+I1
+sVday
+p24
+I1
+sVfinally
+p25
+I1
+sVparents
+p26
+I1
+sV4
+I1
+sVrich
+p27
+I1
+sVnorway
+p28
+I1
+sVme
+p29
+I8
+sVlure
+p30
+I1
+sVgood
+p31
+I1
+sVget
+p32
+I1
+sVbeat
+p33
+I1
+sVdope
+p34
+I1
+sVdidn\u2019t
+p35
+I1
+sVchoice
+p36
+I1
+sVbreak
+p37
+I3
+sV\u201cgive
+p38
+I1
+sVworst
+p39
+I1
+sVknow
+p40
+I4
+sVdecide
+p41
+I1
+sVhands
+p42
+I1
+sVforgiving
+p43
+I1
+sVwalk
+p44
+I9
+sVrealize
+p45
+I1
+sVteller
+p46
+I1
+sVname
+p47
+I1
+sVembarrassed
+p48
+I1
+sVlike
+p49
+I2
+sVartist
+p50
+I1
+sV\u201cfather
+p51
+I1
+sVbenzes
+p52
+I1
+sVdetroit
+p53
+I1
+sVleave
+p54
+I1
+sVeither
+p55
+I1
+sVtruth
+p56
+I1
+sVradio
+p57
+I1
+sVshaking
+p58
+I1
+sVview
+p59
+I1
+sVbars
+p60
+I1
+sVday\u201d
+p61
+I1
+sVprayers
+p62
+I2
+sVstiller
+p63
+I1
+sVknock
+p64
+I1
+sVyeah
+p65
+I1
+sValive
+p66
+I1
+sVyou\u2019re
+p67
+I1
+sVi\u2019ve
+p68
+I1
+sVsee
+p69
+I1
+sVasleep
+p70
+I1
+sVpayin
+p71
+I1
+sVbroadway
+p72
+I1
+sVfail
+p73
+I2
+sVplayin
+p74
+I1
+sVflock
+p75
+I1
+sVscares
+p76
+I1
+sVreally
+p77
+I2
+sVeven
+p78
+I1
+sVcardierre
+p79
+I1
+sVwhat
+p80
+I1
+sVsaid
+p81
+I1
+sVjewelry
+p82
+I1
+sVgod
+p83
+I7
+sVplease
+p84
+I1
+sVeverything
+p85
+I1
+sVforgiven
+p86
+I1
+sVnew
+p87
+I1
+sVfalling
+p88
+I1
+sVcause
+p89
+I2
+sVshows
+p90
+I1
+sVcan\u2019t
+p91
+I4
+sVdirt
+p92
+I1
+sVsins
+p93
+I1
+sVfree
+p94
+I1
+sVblame
+p95
+I1
+sVsurely
+p96
+I1
+sVyork
+p97
+I1
+sVask
+p98
+I1
+sVstrong
+p99
+I1
+sVcome
+p100
+I1
+sVthank
+p101
+I1
+sVon
+p102
+I1
+sValmost
+p103
+I1
+sVshhhh
+p104
+I1
+sVg
+I1
+sVconceal
+p105
+I1
+sVprove
+p106
+I1
+sVfavorite
+p107
+I1
+sVdays
+p108
+I1
+sVthing
+p109
+I3
+sVmae
+p110
+I1
+sVdeceived
+p111
+I1
+sVthink
+p112
+I1
+sVlenses
+p113
+I1
+sVstrippers
+p114
+I2
+sVladies
+p115
+I1
+sVlove
+p116
+I1
+sVfeel
+p117
+I2
+sVjesus
+p118
+I23
+sVdown
+p119
+I3
+sVlies
+p120
+I1
+sVright
+p121
+I2
+sVdone
+p122
+I1
+sVeverybody
+p123
+I1
+sVwan
+p124
+I1
+sVdevil
+p125
+I4
+sVflaws
+p126
+I1
+sVwould
+p127
+I1
+sVcares
+p128
+I1
+sVwest
+p129
+I1
+sVmoreys
+p130
+I1
+sVgirls
+p131
+I1
+sVtwo
+p132
+I1
+sVleast
+p133
+I1
+sVwrongs
+p134
+I1
+sVsends
+p135
+I1
+sVunfog
+p136
+I1
+sV2
+I1
+sVmusic
+p137
+I1
+sVdon\u2019t
+p138
+I2
+sVway
+p139
+I4
+sVjohn
+p140
+I1
+sVwas
+p141
+I1
+sVtell
+p142
+I1
+sVtoday
+p143
+I1
+sVgives
+p144
+I1
+sVhead
+p145
+I1
+sVthat
+p146
+I1
+sVcyberus
+p147
+I1
+sVhuh
+p148
+I2
+sVpastor
+p149
+I1
+sVthere\u2019s
+p150
+I1
+sVboys
+p151
+I1
+sVplayer
+p152
+I1
+sVlift
+p153
+I1
+sVhear
+p154
+I2
+sVgain
+p155
+I1
+sVtrying
+p156
+I3
+sVcleanse
+p157
+I1
+sVraising
+p158
+I1
+sVdeliveredi\u2019m
+p159
+I1
+sVsound
+p160
+I1
+sVloved
+p161
+I2
+sVbaptist
+p162
+I1
+sVben
+p163
+I1
+sVsanctified
+p164
+I1
+sVshame
+p165
+I1
+sVneed
+p166
+I1
+sVain\u2019t
+p167
+I6
+sVbeats
+p168
+I1
+sVus
+p169
+I8
+sVum
+p170
+I1
+sVwild
+p171
+I1
+sVmeet
+p172
+I2
+sVmore
+p173
+I3
+sVfeet
+p174
+I2
+sVchanged
+p175
+I1
+sVever
+p176
+I1
+sVgive
+p177
+I2
+sVghettofabulous
+p178
+I1
+sVdirection
+p179
+I1
+sVdeep
+p180
+I1
+sVtalking
+p181
+I1
+sVsay
+p182
+I5
+sVsomething
+p183
+I2
+sVrap
+p184
+I1
+sVwalks
+p185
+I12
+sVready
+p186
+I1
+sVfame
+p187
+I1
+sVgators
+p188
+I1
+sVafraid
+p189
+I1
+sVtalked
+p190
+I1
+sVdying
+p191
+I1
+sVpay
+p192
+I2
+sVi\u2019m
+p193
+I6
+sVhot
+p194
+I1
+sVtake
+p195
+I5
+sVyou
+p196
+I1
+sVweek
+p197
+I1
+sVhallway
+p198
+I1
+sVplay
+p199
+I1
+sVsure
+p200
+I1
+sVthat\u2019s
+p201
+I1
+sVweren\u2019t
+p202
+I1
+sVbroad
+p203
+I1
+sVgon
+p204
+I1
+sVglimpses
+p205
+I1
+sVblood
+p206
+I1
+sVhurt
+p207
+I1
+sVdied
+p208
+I1
+sVman
+p209
+I1
+sVremix
+p210
+I2
+sVhim\u201d
+p211
+I1
+sVsometimes
+p212
+I1
+sVthought
+p213
+I1
+sVprepare
+p214
+I1
+sVcame
+p215
+I1
+sVna
+p216
+I2
+sVevery
+p217
+I1
+sVcon
+p218
+I1
+sVdream
+p219
+I1
+sVtalk
+p220
+I2
+s.

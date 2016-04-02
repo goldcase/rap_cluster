@@ -1,43 +1,371 @@
-"a love that's true (part ii)" lyrics
-slick rick lyrics
-"a love that's true (part ii)"
-oh dear, scooby doo do
-oh gosh, scooby doo do
-ricky needs a lover that's tru-u-ue
-show me the love that's trueeee
-show me the love that's trueeee
-shoe me the love that's true
-snap right back to the bed, now snap her the bed
-snap right back to the bed, to race all that
-any time a girl a flip, and you like acrobat
-any time a girl a come too much back that
-come now back to the bed, to dolly all to that
-come on to that, you damn a pure alley rat
-most sent to mr. fabulous land learn how to act
-now body make my outta outcome, challenge i that
-now no say boy, well no say, but we older and we older
-pulling you back, pulling you back, girl i hold you back
-snap out, then run out, a race soldier
-chew any type and bet you make a million for that
-any time, give me the chat, bounce much back
-think he annoying, then, girl now i know that
-since he never get plenty of girl on the track
-everything you got, now you know i carry on the response
-when we check, the tote, dominant we do tick for tack
-yeah, can i have one, glimpse of them on track
-responsibility, they never wanna flatter that
-they want politic, thousand dollar fract'
-so sit with mr. fabulous land, learn off of that
-and any type of girl usually wanna see a dragon
-any type of girl and not negative in crack
-your type of girl and not intelligent intact
-lounging off not what reserve, better than that
-looks are not the only that we gather this track
-said the looks are not coming on strap, better on chat
-scooby doo do
-scooby doo do
-ah ha ha
-dad loves you, dad's love is true
-heaven on earth, when dad's with you
-son please know dad's love is true
-together we'll make it just us to
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I2
+sVdollar
+p5
+I1
+sVshoe
+p6
+I1
+sVearth
+p7
+I1
+sVglimpse
+p8
+I1
+sVha
+p9
+I2
+sVtruuue
+p10
+I1
+sVbetter
+p11
+I2
+sVto
+p12
+I1
+sVrick
+p13
+I1
+sVcrack
+p14
+I1
+sVsnap
+p15
+I4
+sVsent
+p16
+I1
+sVdad
+p17
+I1
+sVdo
+p18
+I4
+sVdominant
+p19
+I1
+sVget
+p20
+I1
+sVknow
+p21
+I3
+sVsay
+p22
+I2
+sVtick
+p23
+I1
+sVheaven
+p24
+I1
+sVlike
+p25
+I1
+sVrace
+p26
+I2
+sVlooks
+p27
+I2
+sVchew
+p28
+I1
+sVright
+p29
+I2
+sVflatter
+p30
+I1
+sVback
+p31
+I8
+sVbounce
+p32
+I1
+sVsee
+p33
+I1
+sVfabulous
+p34
+I2
+sVus
+p35
+I1
+sVdear
+p36
+I1
+sVgirl
+p37
+I8
+sVintact
+p38
+I1
+sVsaid
+p39
+I1
+sVtote
+p40
+I1
+sVsince
+p41
+I1
+sVplease
+p42
+I1
+sVslick
+p43
+I1
+sVricky
+p44
+I1
+sVeverything
+p45
+I1
+sVgot
+p46
+I1
+sVbody
+p47
+I1
+sVnever
+p48
+I2
+sVrun
+p49
+I1
+sVmillion
+p50
+I1
+sVstrap
+p51
+I1
+sVlover
+p52
+I1
+sVcome
+p53
+I3
+sVacrobat
+p54
+I1
+sVboy
+p55
+I1
+sVoh
+p56
+I2
+sVsoldier
+p57
+I1
+sVact
+p58
+I1
+sVusually
+p59
+I1
+sVthink
+p60
+I1
+sVthats
+p61
+I6
+sVmr
+p62
+I2
+sVlove
+p63
+I7
+sVone
+p64
+I1
+sVcarry
+p65
+I1
+sVgosh
+p66
+I1
+sVwan
+p67
+I2
+sVnegative
+p68
+I1
+sVlounging
+p69
+I1
+sVfract
+p70
+I1
+sVmuch
+p71
+I2
+sVdamn
+p72
+I1
+sVtype
+p73
+I4
+sVdolly
+p74
+I1
+sVtrueeee
+p75
+I2
+sVthat
+p76
+I9
+sVthousand
+p77
+I1
+sVscooby
+p78
+I4
+sVyeah
+p79
+I1
+sVpart
+p80
+I2
+sVhold
+p81
+I1
+sVtrue
+p82
+I5
+sVchallenge
+p83
+I1
+sVflip
+p84
+I1
+sVbed
+p85
+I4
+sVpolitic
+p86
+I1
+sVloves
+p87
+I1
+sVlearn
+p88
+I2
+sVoutcome
+p89
+I1
+sVbet
+p90
+I1
+sVoutta
+p91
+I1
+sVwant
+p92
+I1
+sVgive
+p93
+I1
+sVah
+p94
+I1
+sValley
+p95
+I1
+sVii
+p96
+I2
+sVrat
+p97
+I1
+sVpulling
+p98
+I2
+sVchat
+p99
+I2
+sVannoying
+p100
+I1
+sVcheck
+p101
+I1
+sVneeds
+p102
+I1
+sVsit
+p103
+I1
+sVna
+p104
+I2
+sVmake
+p105
+I3
+sVpure
+p106
+I1
+sVyou
+p107
+I1
+sVintelligent
+p108
+I1
+sVtrack
+p109
+I3
+sVtack
+p110
+I1
+sVplenty
+p111
+I1
+sVcoming
+p112
+I1
+sVresponse
+p113
+I1
+sVland
+p114
+I2
+sVdoo
+p115
+I4
+sVolder
+p116
+I2
+sVgather
+p117
+I1
+sVwell
+p118
+I2
+sVtogether
+p119
+I1
+sVdragon
+p120
+I1
+sVresponsibility
+p121
+I1
+sVtime
+p122
+I3
+sVdads
+p123
+I3
+sVreserve
+p124
+I1
+s.

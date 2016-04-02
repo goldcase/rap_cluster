@@ -1,103 +1,802 @@
-"if i should die" lyrics
-jay-z lyrics
-"if i should die"
-(feat. da ranjahz (half dead & mais))
-come on...life...death...here...gone...yo
-if i should die don't cry my niggas
-just ride my niggas bust bullets in the sky my niggas
-and when i'm gone don't mourn my niggas
-get on my niggas when it's real
-say word to shawn my niggas
-if i should die
-don't cry my niggas it's been one hell of a ride my niggas
-in the middle of the trial i flip pies my niggas
-i did joints with mary j. blige my niggas
-i've eluded the coppers got booted with big poppa
-skated through with the ceasar picadas
-at high school got head by the lockers
-gassed the baddest girl in the class to show me her knockers
-rocked jewels dropped school still didn't fail
-rhymes still written well hold court in the street
-never sit in the cell for a second then i'm gettin' my bail
-shoot it out with the bounty hunters fuck
-sittin' in the county for summers if they should down me
-everybody around us become one for that day
-to live life get your shit right & play
-don't get it twisted like rays if i miss that's ok
-but life's short don't miss a day uhh
-if i should die don't cry my niggas
-just ride my niggas bust bullets in the sky my niggas
-and when i'm gone don't mourn my niggas
-get on my niggas when it's real
-say word to shawn my niggas
-if i should die...
-...don't cry my niggas
-it's been one hell of a ride my niggas
-say word to wais my niggas
-when i'm gone don't mourn my niggas
-just keep gettin' it on my niggas
-say word is bond my niggas
-i got a lot to look back on in '88
-got my crack on ten years later gettin' my rap on
-gettin' shorties like a thespian
-had an episode with two lesbians got a fetish for that
-drunk ginseng with japanese chicks & pulled the root out
-squeeze my whole clip to survive shootouts
-been on both coasts fired all kinds of heat
-probably be kinda glad to leave these mean streets
-i got dead mens to meet and questions to fulfill
-like is that mystery god real?
-and how was kennedy killed? i ain't mad
-i must've smoked a ton of reefer sipped coronas
-with latifah broke the code of geneva
-i know when i reach the other side i'ma see the
-cat i had beef with who blood remains on my sneaker
-then it's on again if i could be born again
-i live my life through my son
-and tell him never have a friend
-just family reincarnated i'll show him the time
-that i waited to get paid tell him never be afraid
-niggas hearts pump kool aid and yo blood run thicker
-never shed tears cry liquor my nigga
-if i die don't cry my niggas
-it's been one hell of a ride my niggas
-say word to wais my niggas
-when i'm gone don't mourn my niggas
-just keep bangin' these songs my niggas
-say word is bond my niggas
-if i die...
-...don't cry my niggas
-just stay gettin' high my niggas
-don't wonder why my niggas
-when i'm gone live on my niggas
-just follow my path my niggas
-say word to half my nigga
-i'm the aftermath of pleasure never die alone
-born to live forever through life's struggles
-i cut corners & took drastic measures
-see you niggas life expire right in front of me
-time could never mend what these cold streets
-mentally done to me too often i close my eyes
-and see my own coffin feelin' haunted ready to leave
-this world that i'm lost in my only chance
-to see the seeds i lost through abortion
-when i'm gone y'all niggas better not mourn
-keep flossin' as long as my name
-lives on what's most important
-i'll be down in hell scorchin' preparin' for life
-afterlife still torchin' & blazin' these mics
-it'd rain for 40 days & 40 nights
-& i'd return on the 3rd like christ
-without my physical portion
-my spirit a poltergeist for sure
-i'll be back through the heist tomorrow
-blood over y'all fake niggas door
-what you thought? (huh)
-what you thought? (nigga)
-if i should die don't cry my niggas
-just stay gettin' high my niggas
-don't wonder why my niggas
-when i'm gone live on my niggas
-just follow my path my niggas
-say word to half my nigga
-when i die...
+(dp1
+Vknockers
+p2
+I1
+sVchicks
+p3
+I1
+sVcode
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I2
+sVginseng
+p7
+I1
+sVitd
+p8
+I1
+sVyears
+p9
+I1
+sVpicadas
+p10
+I1
+sVreincarnated
+p11
+I1
+sVrocked
+p12
+I1
+sVhell
+p13
+I4
+sVcold
+p14
+I1
+sVstill
+p15
+I3
+sVfeat
+p16
+I1
+sVeluded
+p17
+I1
+sVaint
+p18
+I1
+sVsqueeze
+p19
+I1
+sVmais
+p20
+I1
+sVbaddest
+p21
+I1
+sVdrunk
+p22
+I1
+sVsky
+p23
+I2
+sVpump
+p24
+I1
+sVbust
+p25
+I2
+sVday
+p26
+I2
+sVbetter
+p27
+I1
+sVtears
+p28
+I1
+sVcrack
+p29
+I1
+sVmend
+p30
+I1
+sVreal
+p31
+I3
+sVshoot
+p32
+I1
+sVreturn
+p33
+I1
+sVaround
+p34
+I1
+sVyo
+p35
+I1
+sVget
+p36
+I5
+sVbig
+p37
+I1
+sVquestions
+p38
+I1
+sVsittin
+p39
+I1
+sVuhh
+p40
+I1
+sVda
+p41
+I1
+sVmourn
+p42
+I5
+sVknow
+p43
+I1
+sVhalf
+p44
+I3
+sVfront
+p45
+I1
+sVworld
+p46
+I1
+sVson
+p47
+I1
+sVpies
+p48
+I1
+sVgassed
+p49
+I1
+sVmystery
+p50
+I1
+sVpoppa
+p51
+I1
+sVschool
+p52
+I2
+sVlike
+p53
+I4
+sVlost
+p54
+I2
+sVkennedy
+p55
+I1
+sVdie
+p56
+I11
+sVheist
+p57
+I1
+sVcry
+p58
+I8
+sVleave
+p59
+I2
+sVlesbians
+p60
+I1
+sVcorners
+p61
+I1
+sVbecome
+p62
+I1
+sVside
+p63
+I1
+sVyall
+p64
+I2
+sVbond
+p65
+I2
+sVthespian
+p66
+I1
+sVsneaker
+p67
+I1
+sVgettin
+p68
+I6
+sVfired
+p69
+I1
+sVten
+p70
+I1
+sVliquor
+p71
+I1
+sVstreets
+p72
+I2
+sVback
+p73
+I2
+sVdead
+p74
+I2
+sVborn
+p75
+I2
+sVsecond
+p76
+I1
+sVstreet
+p77
+I1
+sVrhymes
+p78
+I1
+sVfollow
+p79
+I2
+sVfail
+p80
+I1
+sVclose
+p81
+I1
+sVgirl
+p82
+I1
+sVout
+p83
+I1
+sVcoppers
+p84
+I1
+sVfriend
+p85
+I1
+sVpoltergeist
+p86
+I1
+sVchrist
+p87
+I1
+sV3rd
+p88
+I1
+sVbail
+p89
+I1
+sVshorties
+p90
+I1
+sVthicker
+p91
+I1
+sVcell
+p92
+I1
+sVwritten
+p93
+I1
+sVgot
+p94
+I6
+sVnights
+p95
+I1
+sVima
+p96
+I1
+sVmeasures
+p97
+I1
+sVrun
+p98
+I1
+sVranjahz
+p99
+I1
+sVkool
+p100
+I1
+sVreach
+p101
+I1
+sVnever
+p102
+I6
+sVcut
+p103
+I1
+sVrain
+p104
+I1
+sVfulfill
+p105
+I1
+sVwais
+p106
+I2
+sVpath
+p107
+I2
+sVcome
+p108
+I1
+sVsipped
+p109
+I1
+sVtorchin
+p110
+I1
+sVon
+p111
+I1
+sVreefer
+p112
+I1
+sVok
+p113
+I1
+sVroot
+p114
+I1
+sVcould
+p115
+I2
+sVdays
+p116
+I1
+sVkeep
+p117
+I3
+sVtrial
+p118
+I1
+sVexpire
+p119
+I1
+sV88
+p120
+I1
+sVpreparin
+p121
+I1
+sVshootouts
+p122
+I1
+sVwhole
+p123
+I1
+sVwaited
+p124
+I1
+sVthats
+p125
+I1
+sVhaunted
+p126
+I1
+sVwhats
+p127
+I1
+sVdont
+p128
+I15
+sVfamily
+p129
+I1
+sVive
+p130
+I1
+sVimportant
+p131
+I1
+sVceasar
+p132
+I1
+sVshed
+p133
+I1
+sVlatifah
+p134
+I1
+sVone
+p135
+I4
+sVcounty
+p136
+I1
+sValone
+p137
+I1
+sVjayz
+p138
+I1
+sVright
+p139
+I2
+sVdone
+p140
+I1
+sVaftermath
+p141
+I1
+sVmens
+p142
+I1
+sVmiss
+p143
+I2
+sVtomorrow
+p144
+I1
+sVoften
+p145
+I1
+sVeverybody
+p146
+I1
+sVlifes
+p147
+I2
+sVscorchin
+p148
+I1
+sVbeef
+p149
+I1
+sVlockers
+p150
+I1
+sVhunters
+p151
+I1
+sVcoasts
+p152
+I1
+sVtwisted
+p153
+I1
+sVlong
+p154
+I1
+sVname
+p155
+I1
+sVlive
+p156
+I5
+sVton
+p157
+I1
+sVtell
+p158
+I2
+sVlot
+p159
+I1
+sVbounty
+p160
+I1
+sVmean
+p161
+I1
+sVsurvive
+p162
+I1
+sVmary
+p163
+I1
+sVkilled
+p164
+I1
+sVhead
+p165
+I1
+sVfake
+p166
+I1
+sVdoor
+p167
+I1
+sVgeneva
+p168
+I1
+sVthat
+p169
+I1
+sVshawn
+p170
+I2
+sVmad
+p171
+I1
+sVmics
+p172
+I1
+sVtook
+p173
+I1
+sVjapanese
+p174
+I1
+sVheat
+p175
+I1
+sVnigga
+p176
+I4
+sVbroke
+p177
+I1
+sVprobably
+p178
+I1
+sVhold
+p179
+I1
+sVspirit
+p180
+I1
+sVglad
+p181
+I1
+sVaid
+p182
+I1
+sVme
+p183
+I2
+sVword
+p184
+I8
+sVlook
+p185
+I1
+sVblige
+p186
+I1
+sVniggas
+p187
+I42
+sVmustve
+p188
+I1
+sVride
+p189
+I5
+sVj
+I1
+sVabortion
+p190
+I1
+sVflip
+p191
+I1
+sVus
+p192
+I1
+sVcat
+p193
+I1
+sVbooted
+p194
+I1
+sVcoffin
+p195
+I1
+sVmeet
+p196
+I1
+sVdidnt
+p197
+I1
+sVill
+p198
+I3
+sVgone
+p199
+I7
+sVlater
+p200
+I1
+sVclip
+p201
+I1
+sVlives
+p202
+I1
+sVjoints
+p203
+I1
+sVblood
+p204
+I3
+sVfuck
+p205
+I1
+sVjewels
+p206
+I1
+sVhigh
+p207
+I3
+sVmiddle
+p208
+I1
+sVsay
+p209
+I8
+sVim
+p210
+I10
+sVdropped
+p211
+I1
+sVrap
+p212
+I1
+sVready
+p213
+I1
+sVid
+p214
+I1
+sVshit
+p215
+I1
+sVphysical
+p216
+I1
+sVskated
+p217
+I1
+sVsummers
+p218
+I1
+sVrays
+p219
+I1
+sVcourt
+p220
+I1
+sVsit
+p221
+I1
+sVafterlife
+p222
+I1
+sVstruggles
+p223
+I1
+sV40
+p224
+I2
+sVseeds
+p225
+I1
+sVfetish
+p226
+I1
+sVwonder
+p227
+I2
+sVlife
+p228
+I4
+sVplay
+p229
+I1
+sVsure
+p230
+I1
+sVkinds
+p231
+I1
+sVsee
+p232
+I4
+sVagain
+p233
+I1
+sVhuh
+p234
+I1
+sVremains
+p235
+I1
+sVtime
+p236
+I2
+sVcoronas
+p237
+I1
+sVflossin
+p238
+I1
+sVpaid
+p239
+I1
+sVstay
+p240
+I2
+sVchance
+p241
+I1
+sVafraid
+p242
+I1
+sVbullets
+p243
+I2
+sVtwo
+p244
+I1
+sVkinda
+p245
+I1
+sVpleasure
+p246
+I1
+sVdrastic
+p247
+I1
+sVfeelin
+p248
+I1
+sVblazin
+p249
+I1
+sVclass
+p250
+I1
+sVmentally
+p251
+I1
+sVeyes
+p252
+I1
+sVforever
+p253
+I1
+sVshort
+p254
+I1
+sVepisode
+p255
+I1
+sVbangin
+p256
+I1
+sVonlifedeathheregoneyo
+p257
+I1
+sVwell
+p258
+I1
+sVthought
+p259
+I2
+sVportion
+p260
+I1
+sVwithout
+p261
+I1
+sVgod
+p262
+I1
+sVhearts
+p263
+I1
+sVthe
+p264
+I1
+sVsmoked
+p265
+I1
+sVpulled
+p266
+I1
+sVsongs
+p267
+I1
+s.

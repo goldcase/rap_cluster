@@ -1,62 +1,239 @@
-"so many pros" lyrics
-snoop dogg lyrics
-"so many pros"
-meet me out, can you make it?
-please don’t make me lie to you, lady
-i’m in it, i’m not in it, but poochie says women
-at the club we finna go, sip some drink and hit some dro
-it’s ok if you don’t go, i’ll make sure to tell you 'bout these pros
-it’s like somebody’s growin’ them on trees
-so many pros, it’s like somebody’s growin’ them on trees
-so many...
-all the ugly people, hold on
-i can see all the pretty people, on
-not saying that i’ve never been wrong
-but tonight i got me a hot, come on
-now let me talk to ya, girl
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-meet me out, can you make it?
-please don’t make me lie to you, lady
-i’m in it, i’m not in it, but poochie says women
-at the club we finna go, sip some drink and hit some dro
-it’s ok if you don’t go, i’ll make sure to tell you 'bout these pros
-it’s like somebody’s growin’ them on trees
-so many pros, it’s like somebody’s growin’ them on trees
-so many...
-we party to the break of dawn
-every girl just dance with nothin’ on
-where we at they don’t see nothin’ wrong
-well you know we were outside on the lawn
-now let me talk to ya, girl
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-meet me out, can you make it?
-please don’t make me lie to you, lady
-i’m in it, i’m not in it, but poochie says women
-at the club we finna go, sip some drink and hit some dro
-it’s ok if you don’t go, i’ll make sure to tell you 'bout these pros
-it’s like somebody’s growin’ them on trees
-so many pros, it’s like somebody’s growin’ them on trees
-so many...
-when good music come on
-it can get inside your head like porn
-by yourself like whatchu grabbin’ on
-then look down, it was so much fun
-now let me talk to ya, girl
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-for your um, for your information, baby
-i’m that winner, you need to go and ask somebody
-meet me out, can you make it?
-please don’t make me lie to you, lady
-i’m in it, i’m not in it, but poochie says women
-at the club we finna go, sip some drink and hit some dro
-it’s ok if you don’t go, i’ll make sure to tell you 'bout these pros
-it’s like somebody’s growin’ them on trees
-so many pros, it’s like somebody’s growin’ them on trees
-so many...
+(dp1
+Vsaying
+p2
+I1
+sVwinner
+p3
+I6
+sVsays
+p4
+I4
+sVlyrics
+p5
+I2
+sVpeople
+p6
+I2
+sVya
+p7
+I3
+sVplease
+p8
+I4
+sVit
+p9
+I4
+sVtonight
+p10
+I1
+sVi\u2019ve
+p11
+I1
+sVsee
+p12
+I2
+sVgood
+p13
+I1
+sVnothin\u2019
+p14
+I2
+sVgo
+p15
+I14
+sVsomebody
+p16
+I6
+sVgirl
+p17
+I4
+sVporn
+p18
+I1
+sVfinna
+p19
+I4
+sVlie
+p20
+I4
+sVsip
+p21
+I4
+sVgrowin\u2019
+p22
+I8
+sVsnoop
+p23
+I1
+sVmusic
+p24
+I1
+sVdogg
+p25
+I1
+sVmake
+p26
+I12
+sVit\u2019s
+p27
+I12
+sVpros
+p28
+I10
+sVoutside
+p29
+I1
+sVget
+p30
+I1
+sVclub
+p31
+I4
+sVhot
+p32
+I1
+sVmuch
+p33
+I1
+sVcome
+p34
+I2
+sVdon\u2019t
+p35
+I9
+sVi\u2019ll
+p36
+I4
+sVgot
+p37
+I1
+sVbout
+p38
+I4
+sVgrabbin\u2019
+p39
+I1
+sVtell
+p40
+I4
+sVhead
+p41
+I1
+sVsure
+p42
+I4
+sVhit
+p43
+I4
+sVpretty
+p44
+I1
+sVinformation
+p45
+I6
+sVi\u2019m
+p46
+I14
+sVdrink
+p47
+I4
+sVsomebody\u2019s
+p48
+I8
+sVbreak
+p49
+I1
+sVfun
+p50
+I1
+sVwrong
+p51
+I2
+sVlet
+p52
+I3
+sVtrees
+p53
+I8
+sVnever
+p54
+I1
+sVparty
+p55
+I1
+sVbaby
+p56
+I6
+sVhold
+p57
+I1
+sVlady
+p58
+I4
+sVwomen
+p59
+I4
+sVevery
+p60
+I1
+sVon
+p61
+I6
+sVlawn
+p62
+I1
+sVwhatchu
+p63
+I1
+sVok
+p64
+I4
+sVlike
+p65
+I10
+sVpoochie
+p66
+I4
+sVlook
+p67
+I1
+sVmany
+p68
+I10
+sVdance
+p69
+I1
+sVask
+p70
+I6
+sVdawn
+p71
+I1
+sVum
+p72
+I6
+sVugly
+p73
+I1
+sVneed
+p74
+I6
+sVdro
+p75
+I4
+sVwell
+p76
+I1
+sVmeet
+p77
+I4
+sVinside
+p78
+I1
+sVtalk
+p79
+I3
+sVknow
+p80
+I1
+s.

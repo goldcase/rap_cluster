@@ -1,90 +1,593 @@
-"dirt off your shoulder / lying from you" lyrics
-jay-z lyrics
-"dirt off your shoulder / lying from you"
-i ordered a frappuccino
-where's my fuckin frappuccino
-alright, let's do this
-when i pretend everything is what i want it to be
-i look exactly like what you always wanted to see
-when i pretend, i can't forget about the criminal i am
-stealing second after second just cause i know i can but
-i can't pretend this is the way it'll stay i'm just
-trying to bend the truth
-i can't pretend i'm who you want me to be, so i'm
-lying my way from
-if you feelin like a pimp nigga, go and brush your shoulders off
-ladies is pimps too, go and brush your shoulders off
-niggaz is crazy baby, don't forget that boy told you
-get, that, dirt off your shoulder
-i probably owe it to y'all, proud to be locked by the force
-tryin to hustle some things, that go with the porsche
-feelin no remorse, feelin like my hand was forced
-middle finger to the law, nigga grip'n my balls
-all the ladies they love me, from the bleachers they screamin
-all the ballers is bouncin they like the way i be leanin
-all the rappers be hatin, off the track that i'm makin
-but all the hustlers they love it just to see one of us make it
-came from the bottom the bottom, to the top of the pots
-nigga london, japan and i'm straight off the block
-like a running back, get it man, i'm straight off the block
-i can run it back nigga cause i'm straight with the roc
-if you feelin like a pimp nigga, go and brush your shoulders off
-ladies is pimps too, go and brush your shoulders off
-niggaz is crazy baby, don't forget that boy told you
-get, that, dirt off your shoulder
-you gotta get (get), that(that), dirt off your shoulder
-you gotta get (get), that(that), dirt off your shoulder
-you gotta get (get), that(that), dirt off your shoulder
-you gotta get (get), that(that), dirt off your shoulder
-your homey hov' in position, in the kitchen with soda
-i just whipped up a watch, tryin to get me a rover
-tryin to stretch out the coca, like a wrestler, yessir
-keep the heckler close, you know them smokers'll test ya
-but like, fifty-two cards when i'm, i'm through dealin
-now fifty-two bars come out, now you feel 'em
-now, fifty-two cars roll out, remove ceiling
-in case fifty-two broads come out, now you chillin
-with a boss bitch of course s.c. on the sleeve
-at the 40/40 club, espn on the screen
-i paid a grip for the jeans, plus the slippers is clean
-no chrome on the wheels, i'm a grown-up for real, chill
-yeah, i remember what they taught to me
-remember condescending talk of who i ought to be
-remember listening to all of that and this again
-so i pretended up a person who was fittin' in
-and now you think this person really is me and i'm
-trying to bend the truth
-but the more i push the more i'm pulling away 'cuz i'm
-lying my way from you
-no no turning back now
-i wanna be pushed aside so let me go
-no no turning back now
-let me take back my life i'd rather be all alone
-no turning back now
-anywhere on my own cuz i can see
-no no turning back now
-the very worst part of you
-the very worst part of you is me
-this isn't what i wanted to be, i never thought that what i said would
-have you running from me
-like this
-this isn't what i wanted to be, i never thought that what i said would
-have you running from me
-like this
-this isn't what i wanted to be, i never thought that what i said would
-have you running from me
-like this
-this isn't what i wanted to be, i never thought that what i said would
-have you running from me
-like this
-you
-no turning back now
-i wanna be pushed aside so let me go
-no no turning back now
-let me take back my life i'd rather be all alone
-no turning back now
-anywhere on my own cuz i can see
-no no turning back now
-the very worst part of you
-the very worst part of you is me
-beeitch
+(dp1
+Vfrappuccino
+p2
+I2
+sVforget
+p3
+I3
+sVlyrics
+p4
+I2
+sVroc
+p5
+I1
+sVheckler
+p6
+I1
+sVcourse
+p7
+I1
+sVisnt
+p8
+I4
+sVlondon
+p9
+I1
+sVgo
+p10
+I7
+sVjapan
+p11
+I1
+sVchillin
+p12
+I1
+sVrover
+p13
+I1
+sVnow
+p14
+I8
+sVjust
+p15
+I1
+sVitll
+p16
+I1
+sVcuz
+p17
+I3
+sVfeel
+p18
+I1
+sVlets
+p19
+I1
+sVcriminal
+p20
+I1
+sVought
+p21
+I1
+sVta
+p22
+I4
+sVgrip
+p23
+I1
+sVme
+p24
+I7
+sVget
+p25
+I12
+sVya
+p26
+I1
+sVsmokersll
+p27
+I1
+sVwatch
+p28
+I1
+sVfeelin
+p29
+I4
+sVworst
+p30
+I4
+sVknow
+p31
+I2
+sVlistening
+p32
+I1
+sVgot
+p33
+I4
+sVcondescending
+p34
+I1
+sVdealin
+p35
+I1
+sVshoulder
+p36
+I8
+sVlike
+p37
+I12
+sVpimp
+p38
+I2
+sValways
+p39
+I1
+sVremove
+p40
+I1
+sVtruth
+p41
+I2
+sVhustle
+p42
+I1
+sVfiftytwo
+p43
+I4
+sVyall
+p44
+I1
+sVbitch
+p45
+I1
+sVem
+p46
+I1
+sVbars
+p47
+I1
+sVnigga
+p48
+I5
+sVforce
+p49
+I1
+sVespn
+p50
+I1
+sVbeeitch
+p51
+I1
+sVback
+p52
+I12
+sVballers
+p53
+I1
+sVtaught
+p54
+I1
+sVus
+p55
+I1
+sVstealing
+p56
+I1
+sVclose
+p57
+I1
+sVleanin
+p58
+I1
+sVsleeve
+p59
+I1
+sVreally
+p60
+I1
+sVsaid
+p61
+I4
+sV4040
+p62
+I1
+sVbottom
+p63
+I2
+sVaway
+p64
+I1
+sVeverything
+p65
+I1
+sVremorse
+p66
+I1
+sVfinger
+p67
+I1
+sVprobably
+p68
+I1
+sVcause
+p69
+I2
+sVwhipped
+p70
+I1
+sVtold
+p71
+I2
+sVfittin
+p72
+I1
+sVbe
+p73
+I2
+sVrun
+p74
+I1
+sVwrestler
+p75
+I1
+sVdirt
+p76
+I8
+sVcars
+p77
+I1
+sVscreen
+p78
+I1
+sVnever
+p79
+I4
+sVboss
+p80
+I1
+sVlet
+p81
+I4
+sVpretended
+p82
+I1
+sValone
+p83
+I2
+sVstay
+p84
+I1
+sVcome
+p85
+I2
+sVkitchen
+p86
+I1
+sVboy
+p87
+I2
+sVbouncin
+p88
+I1
+sVscreamin
+p89
+I1
+sVkeep
+p90
+I1
+sVhustlers
+p91
+I1
+sVchrome
+p92
+I1
+sVplus
+p93
+I1
+sVsoda
+p94
+I1
+sVreal
+p95
+I1
+sVwheels
+p96
+I1
+sVthink
+p97
+I1
+sVfuckin
+p98
+I1
+sVladies
+p99
+I3
+sVlove
+p100
+I2
+sVdont
+p101
+I2
+sVowe
+p102
+I1
+sVjeans
+p103
+I1
+sVmakin
+p104
+I1
+sVone
+p105
+I1
+sVjayz
+p106
+I1
+sVturning
+p107
+I8
+sVbrush
+p108
+I4
+sVwan
+p109
+I2
+sVwanted
+p110
+I5
+sVwould
+p111
+I4
+sVstretch
+p112
+I1
+sVtop
+p113
+I1
+sVporsche
+p114
+I1
+sVpots
+p115
+I1
+sVway
+p116
+I4
+sVtryin
+p117
+I3
+sVshoulders
+p118
+I4
+sVthatthat
+p119
+I4
+sVexactly
+p120
+I1
+sVbut
+p121
+I1
+sVyeah
+p122
+I1
+sVpart
+p123
+I4
+sVpush
+p124
+I1
+sVceiling
+p125
+I1
+sVhatin
+p126
+I1
+sVbaby
+p127
+I2
+sVtrying
+p128
+I2
+sVchill
+p129
+I1
+sVcase
+p130
+I1
+sVballs
+p131
+I1
+sVlocked
+p132
+I1
+sVlook
+p133
+I1
+sVpushed
+p134
+I2
+sVthis
+p135
+I5
+sVstraight
+p136
+I3
+sVpretend
+p137
+I4
+sVsecond
+p138
+I2
+sVniggaz
+p139
+I2
+sVbroads
+p140
+I1
+sVanywhere
+p141
+I2
+sVcoca
+p142
+I1
+sVcards
+p143
+I1
+sVpulling
+p144
+I1
+sVhomey
+p145
+I1
+sVslippers
+p146
+I1
+sVblock
+p147
+I2
+sVcrazy
+p148
+I2
+sVordered
+p149
+I1
+sVam
+p150
+I1
+sVit
+p151
+I1
+sVmiddle
+p152
+I1
+sVcant
+p153
+I3
+sVim
+p154
+I13
+sVbend
+p155
+I2
+sVwant
+p156
+I2
+sVin
+p157
+I1
+sVid
+p158
+I2
+sVforced
+p159
+I1
+sVgripn
+p160
+I1
+sVrather
+p161
+I2
+sVthings
+p162
+I1
+sVbleachers
+p163
+I1
+sVaside
+p164
+I2
+sVhov
+p165
+I1
+sVclub
+p166
+I1
+sVtake
+p167
+I2
+sVyessir
+p168
+I1
+sVtest
+p169
+I1
+sVyou
+p170
+I7
+sVroll
+p171
+I1
+sVsee
+p172
+I4
+sVagain
+p173
+I1
+sVtrack
+p174
+I1
+sVrappers
+p175
+I1
+sVpaid
+p176
+I1
+sVhand
+p177
+I1
+sVpimps
+p178
+I2
+sVsc
+p179
+I1
+sVrunning
+p180
+I5
+sVgrownup
+p181
+I1
+sVlaw
+p182
+I1
+sVwheres
+p183
+I1
+sVman
+p184
+I1
+sVoff
+p185
+I4
+sVremember
+p186
+I3
+sVproud
+p187
+I1
+sVlife
+p188
+I2
+sVthought
+p189
+I4
+sVperson
+p190
+I2
+sVcame
+p191
+I1
+sVclean
+p192
+I1
+sVna
+p193
+I2
+sValright
+p194
+I1
+sVposition
+p195
+I1
+sVtalk
+p196
+I1
+sVmake
+p197
+I1
+sVlying
+p198
+I4
+s.

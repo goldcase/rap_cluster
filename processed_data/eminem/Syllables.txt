@@ -1,127 +1,1061 @@
-"syllables" lyrics
-eminem lyrics
-"syllables"
-(feat. dr dre, 50 cent, jay-z, cashis, stat quo)
-it's not about lyrics anymore, it's about a hot beat and a catchy hook
-if we gotta dumb down our style and abc it
-then so be it
-.cause nowadays these kids, jeez
-don't give a shit about lyrics
-all they wanna hear is a beat and that's it
-long as they can go to the club and get blitz
-pick up some chicks and get some digits
-and the dj's playing them hits
-oh, this my jam, this my shit
-we don't know a word to a verse,
-all we know is the chorus
-'cause the chorus repeats the same four words for us
-and the songs ginormous, the whole formula's switched
-'cause we don't know anymore, what are hits
-is it the beat, is it the rap?
-is it a finger snap or the same 808 clap?
-and how do we adapt and get trl votes
-when 13 year olds control the remote
-and ashley's got a brand new nose
-we gotta put some new emphasis on our syllables
-if the emphasis on the compact disc isn't the beat
-than i'm gonna feature em and get rich
-and let dre mix the shit and drive off in the range ro
-'cause everywhere i go they love the bling bling flow
-bang bang look at the way my chain glow
-the ring on my fing' cost jermaine a lot of dough, oh
-the fuck am i busting my brain for?
-it's just the way the game go, oh, it takes 2 to tango
-you call this a lame flow
-you bought the shit
-i guess you to blame too
-i just found the angle
-no more reality flow
-i'm tryna time my album dropping with a reality show
-cock the mac 11 in front of hot 97
-and call my publicist, tell her, "we're in press heaven"
-no one gives a shit except some kids who just got into sex on the internet
-so you want the chat room or the house of malibu, em?
-your emphasis is on the wrong syllable
-they said 30's the new 20
-funny, must mean 40's the new 30
-interesting 'cause ever since then it's been innocence
-an extension for veteran rappers that are better than half
-of the shit coming out right now
-it's all trash
-the torch is gonna burn out before it gets passed
-jay said it's his last and 50 and em
-then what? detox drops what we got then
-so now our whole camps is running around scrambling over what to do
-gambling everytime we put a record out
-just looking for that hook
-(wait, dre, look)
-shorty i love you
-and you love me too
-we were meant to be 'cause shorty
-you love me
-and i love you too
-and i promise i'll be true to you
-go shorty, it's your birthday
-you made it just in time to hear my wordplay
-it's the kid that flip flows who used to flip o's
-and run g for days used to see how i get hoes
-i'm international, i get my dick licked round the globe
-i'm sick right into shows, riding on lolo's
-puffing on coco, my bitch in manolo's
-don't fuck with the dodo's, that's slang for dumb hoes
-i playing, i ain't got time to joke, joke
-you fuck around, you could get your ass smoked lock,
-it's not a game, me b, i ain't playing
-beat behind me playing, so you ain't hear anyway
-you don't hear what i'm saying
-me fin-nini-na
-fee-fi-dididee-yay
-just give me my check and i'll be on my way
-sunny bunny money and funny
-you ain't even listening and i just took your money
-there once was a time everywhere he turned
-shady aftermath was all you heard
-but they say 50 sang too much
-and em got soft
-and they say dre just fell the fuck off
-well, fuck the "fuck off"s
-all y'all eat salt, be mad, we bad fresh up outta the vault, oh!
-new syllables eat ball, you fucks off's
-your house, your bitch i'm getting sucked off
-east, south, midwest, even up north
-falling victim to wax, spitting, bring out the white chalk
-all for the gingerbread, we get it and get lost
-catch me if you can, i'm running past while y'all walk
-shady made me for bringing it back
-for the history of rap
-it's gone with a snap, a sneer and a clap
-what happened to just spitting about living in the motherfucking city you at
-in the grimiest condition, i breath in drama
-king mathers and cash me, that's freak karma
-i'm everything, anything, you could never be
-it's a hitting, rhyme in the month deep
-i speak with a piece, no peace on my mind
-i repeat every evil deed done of mine
-no rest contest, contract to sign
-by blood i'm in this squad for life
-hear out my wind pipes and i just chime
-i'm the reason you guys won't say that line
-i'm crazy renegade like em and jay-z
-i'm rosemary's baby, i want you to hate me
-shorty i love you
-and you love me too
-we were meant to be cause shorty
-you love me
-and i love you too
-and i promise i'll be true to you
-it is not about lyrics anymore,
-it is not about lyrics anymore
-it's about a hot beat, a hot beat
-it's about a hot beat, a hot beat
-a hot, hot, hot beat
-and a catchy hook
-a hot, hot, hot beat
-and a catchy hook
-nobody gives a damn about them syllables, sillyle-ables, whatever they are
-i don't care if you gotta rhyme smo, joe, toe and glow
-now get out there and sell some god-damn records
+(dp1
+Vchain
+p2
+I1
+sVswitched
+p3
+I1
+sVmonth
+p4
+I1
+sVfour
+p5
+I1
+sVdisc
+p6
+I1
+sVgo
+p7
+I4
+sVhate
+p8
+I1
+sVcompact
+p9
+I1
+sVsmo
+p10
+I1
+sVvotes
+p11
+I1
+sVmidwest
+p12
+I1
+sVta
+p13
+I3
+sVrhyme
+p14
+I2
+sVgrimiest
+p15
+I1
+sVevery
+p16
+I1
+sVbringing
+p17
+I1
+sVcondition
+p18
+I1
+sVheaven
+p19
+I1
+sVtrl
+p20
+I1
+sVsang
+p21
+I1
+sVround
+p22
+I1
+sVyall
+p23
+I2
+sVblitz
+p24
+I1
+sVsign
+p25
+I1
+sVpast
+p26
+I1
+sVcost
+p27
+I1
+sVeven
+p28
+I2
+sVabc
+p29
+I1
+sVpipes
+p30
+I1
+sVfucks
+p31
+I1
+sVnew
+p32
+I5
+sVfalling
+p33
+I1
+sVever
+p34
+I1
+sVnever
+p35
+I1
+sVeminem
+p36
+I1
+sVlet
+p37
+I1
+sVaftermath
+p38
+I1
+sVwait
+p39
+I1
+sVdigits
+p40
+I1
+sVkids
+p41
+I2
+sV30
+p42
+I1
+sVmac
+p43
+I1
+sVpick
+p44
+I1
+sVdre
+p45
+I4
+sVthats
+p46
+I3
+sVmotherfucking
+p47
+I1
+sVoffs
+p48
+I2
+sVlove
+p49
+I9
+sVsneer
+p50
+I1
+sVtakes
+p51
+I1
+sVcatchy
+p52
+I3
+sVgive
+p53
+I2
+sVwordplay
+p54
+I1
+sVcall
+p55
+I2
+sVtell
+p56
+I1
+sVtryna
+p57
+I1
+sVclub
+p58
+I1
+sVeverywhere
+p59
+I2
+sVbaby
+p60
+I1
+sV97
+p61
+I1
+sVmust
+p62
+I1
+sVme
+p63
+I3
+sVword
+p64
+I1
+sVroom
+p65
+I1
+sVgetting
+p66
+I1
+sVdrops
+p67
+I1
+sVhistory
+p68
+I1
+sVcontrol
+p69
+I1
+sVcrazy
+p70
+I1
+sVdo
+p71
+I1
+sVlock
+p72
+I1
+sVpublicist
+p73
+I1
+sVfuck
+p74
+I6
+sVlolos
+p75
+I1
+sVheard
+p76
+I1
+sVwant
+p77
+I2
+sVanything
+p78
+I1
+sVlame
+p79
+I1
+sVfeature
+p80
+I1
+sVhot
+p81
+I12
+sVsillyleables
+p82
+I1
+sVwrong
+p83
+I1
+sVbirthday
+p84
+I1
+sVblood
+p85
+I1
+sVcoming
+p86
+I1
+sVguys
+p87
+I1
+sVscrambling
+p88
+I1
+sVginormous
+p89
+I1
+sVshady
+p90
+I2
+sVplaying
+p91
+I4
+sVwind
+p92
+I1
+sVchicks
+p93
+I1
+sVbrain
+p94
+I1
+sVisnt
+p95
+I1
+sVdough
+p96
+I1
+sVdjs
+p97
+I1
+sV20
+p98
+I1
+sVinteresting
+p99
+I1
+sVbetter
+p100
+I1
+sVhappened
+p101
+I1
+sVthen
+p102
+I1
+sVrecords
+p103
+I1
+sVbang
+p104
+I2
+sVhalf
+p105
+I1
+sVfront
+p106
+I1
+sVnow
+p107
+I1
+sVsucked
+p108
+I1
+sVwont
+p109
+I1
+sVeverytime
+p110
+I1
+sV40s
+p111
+I1
+sVfound
+p112
+I1
+sVmean
+p113
+I1
+sVem
+p114
+I5
+sVhouse
+p115
+I2
+sVglobe
+p116
+I1
+sVtorch
+p117
+I1
+sVused
+p118
+I2
+sVyear
+p119
+I1
+sVout
+p120
+I1
+sValbum
+p121
+I1
+sVliving
+p122
+I1
+sVgon
+p123
+I2
+sVsince
+p124
+I1
+sVlooking
+p125
+I1
+sVadapt
+p126
+I1
+sVinternet
+p127
+I1
+sVgot
+p128
+I8
+sVro
+p129
+I1
+sVcause
+p130
+I7
+sVshows
+p131
+I1
+sVass
+p132
+I1
+sVolds
+p133
+I1
+sVreason
+p134
+I1
+sVflows
+p135
+I1
+sVput
+p136
+I2
+sVquo
+p137
+I1
+sVcare
+p138
+I1
+sVg
+I1
+sVcould
+p139
+I2
+sVdays
+p140
+I1
+sVlicked
+p141
+I1
+sVrepeats
+p142
+I1
+sVsouth
+p143
+I1
+sVmad
+p144
+I1
+sVbling
+p145
+I2
+sVdont
+p146
+I6
+sVfeefididideeyay
+p147
+I1
+sVone
+p148
+I1
+sVhook
+p149
+I4
+sVdone
+p150
+I1
+sVbitch
+p151
+I2
+sVring
+p152
+I1
+sVcity
+p153
+I1
+sVguess
+p154
+I1
+sVtango
+p155
+I1
+sV2
+I1
+sVtoo
+p156
+I5
+sVpassed
+p157
+I1
+sVwhite
+p158
+I1
+sVgives
+p159
+I2
+sVmalibu
+p160
+I1
+sVlot
+p161
+I1
+sVnobody
+p162
+I1
+sVtook
+p163
+I1
+sVsyllables
+p164
+I5
+sV11
+p165
+I1
+sVking
+p166
+I1
+sV13
+p167
+I1
+sVb
+I1
+sVtoe
+p168
+I1
+sVoutta
+p169
+I1
+sVmind
+p170
+I1
+sVmine
+p171
+I1
+sVsay
+p172
+I3
+sVrap
+p173
+I2
+sVsell
+p174
+I1
+sVangle
+p175
+I1
+sVveteran
+p176
+I1
+sVmix
+p177
+I1
+sVemphasis
+p178
+I3
+sVsquad
+p179
+I1
+sVpuffing
+p180
+I1
+sVformulas
+p181
+I1
+sVsyllable
+p182
+I1
+sVrappers
+p183
+I1
+sVshorty
+p184
+I5
+sVglow
+p185
+I2
+sVcamps
+p186
+I1
+sVflow
+p187
+I3
+sVdrive
+p188
+I1
+sVsalt
+p189
+I1
+sVsaying
+p190
+I1
+sVlyrics
+p191
+I6
+sVshow
+p192
+I1
+sVanyway
+p193
+I1
+sVbring
+p194
+I1
+sVfeat
+p195
+I1
+sVfing
+p196
+I1
+sVaint
+p197
+I4
+sVrosemarys
+p198
+I1
+sVjay
+p199
+I1
+sVdick
+p200
+I1
+sVjam
+p201
+I1
+sVrich
+p202
+I1
+sVriding
+p203
+I1
+sVmeant
+p204
+I2
+sVjermaine
+p205
+I1
+sVget
+p206
+I10
+sVbeat
+p207
+I11
+sVsunny
+p208
+I1
+sVfinninina
+p209
+I1
+sVwords
+p210
+I1
+sVinternational
+p211
+I1
+sVmanolos
+p212
+I1
+sVbad
+p213
+I1
+sVsex
+p214
+I1
+sVsee
+p215
+I1
+sVdumb
+p216
+I2
+sVare
+p217
+I1
+sVhoes
+p218
+I2
+sVsaid
+p219
+I2
+sVbehind
+p220
+I1
+sVfinger
+p221
+I1
+sVbought
+p222
+I1
+sVcashis
+p223
+I1
+sVstyle
+p224
+I1
+sVblame
+p225
+I1
+sVjoe
+p226
+I1
+sVbusting
+p227
+I1
+sVhits
+p228
+I2
+sVlast
+p229
+I1
+sVjoke
+p230
+I2
+sVill
+p231
+I3
+sVcontract
+p232
+I1
+sVvault
+p233
+I1
+sVwhole
+p234
+I2
+sVwhatever
+p235
+I1
+sVwalk
+p236
+I1
+sVjayz
+p237
+I2
+sVspeak
+p238
+I1
+sVcent
+p239
+I1
+sVhitting
+p240
+I1
+sVdropping
+p241
+I1
+sVdamn
+p242
+I1
+sVlife
+p243
+I1
+sVturned
+p244
+I1
+sVcatch
+p245
+I1
+sVlook
+p246
+I2
+sVcash
+p247
+I1
+sVchalk
+p248
+I1
+sVcoco
+p249
+I1
+sVcock
+p250
+I1
+sVit
+p251
+I3
+sVim
+p252
+I12
+sVfunny
+p253
+I2
+sVanymore
+p254
+I4
+sVgets
+p255
+I1
+sVbunny
+p256
+I1
+sVball
+p257
+I1
+sVevil
+p258
+I1
+sVrunning
+p259
+I2
+sVspitting
+p260
+I2
+sVkid
+p261
+I1
+sVoff
+p262
+I2
+sVwell
+p263
+I1
+sVgame
+p264
+I2
+sV808
+p265
+I1
+sVsmoked
+p266
+I1
+sVmoney
+p267
+I2
+sVrest
+p268
+I1
+sVvictim
+p269
+I1
+sVexcept
+p270
+I1
+sVverse
+p271
+I1
+sVsnap
+p272
+I2
+sVeast
+p273
+I1
+sVaround
+p274
+I2
+sVdodos
+p275
+I1
+sVashleys
+p276
+I1
+sVknow
+p277
+I3
+sVlistening
+p278
+I1
+sVpress
+p279
+I1
+sVrenegade
+p280
+I1
+sVlike
+p281
+I1
+sVlost
+p282
+I1
+sV50
+p283
+I3
+sVchorus
+p284
+I2
+sVnose
+p285
+I1
+sVsoft
+p286
+I1
+sVclap
+p287
+I2
+sVright
+p288
+I2
+sVgoddamn
+p289
+I1
+sV30s
+p290
+I1
+sVback
+p291
+I1
+sVfor
+p292
+I1
+sVeverything
+p293
+I1
+sVbe
+p294
+I1
+sVrun
+p295
+I1
+sVburn
+p296
+I1
+sVmathers
+p297
+I1
+sVinnocence
+p298
+I1
+sVjeez
+p299
+I1
+sVextension
+p300
+I1
+sVoh
+p301
+I4
+sVdrama
+p302
+I1
+sVrange
+p303
+I1
+sVgingerbread
+p304
+I1
+sVos
+p305
+I1
+sVpromise
+p306
+I2
+sVchime
+p307
+I1
+sVnowadays
+p308
+I1
+sVwan
+p309
+I1
+sVlong
+p310
+I1
+sVmuch
+p311
+I1
+sVway
+p312
+I3
+sVwax
+p313
+I1
+sVnorth
+p314
+I1
+sVbrand
+p315
+I1
+sVhear
+p316
+I5
+sVline
+p317
+I1
+sVtrue
+p318
+I2
+sVeat
+p319
+I2
+sVmade
+p320
+I2
+sVflip
+p321
+I2
+sVus
+p322
+I1
+sVbreath
+p323
+I1
+sVrecord
+p324
+I1
+sVpiece
+p325
+I1
+sVgone
+p326
+I1
+sVfreak
+p327
+I1
+sVdeep
+p328
+I1
+sVat
+p329
+I1
+sVchat
+p330
+I1
+sVdeed
+p331
+I1
+sVcheck
+p332
+I1
+sVshit
+p333
+I6
+sVcontest
+p334
+I1
+sVna
+p335
+I3
+sVpeace
+p336
+I1
+sVreality
+p337
+I2
+sVsick
+p338
+I1
+sVgambling
+p339
+I1
+sVyou
+p340
+I4
+sVtrash
+p341
+I1
+sVstat
+p342
+I1
+sVrepeat
+p343
+I1
+sVfell
+p344
+I1
+sVdetox
+p345
+I1
+sVslang
+p346
+I1
+sVremote
+p347
+I1
+sVdr
+p348
+I1
+sVkarma
+p349
+I1
+sVtime
+p350
+I4
+sVfresh
+p351
+I1
+sVsongs
+p352
+I1
+s.

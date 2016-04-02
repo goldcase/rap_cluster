@@ -1,107 +1,632 @@
-"she a trip" lyrics
-ludacris lyrics
-"she a trip"
-(feat. mac miller)
-why haven't i heard from you?
-i've been busy
-well, have you at least thought about what we talked about?
-yea, about livin with you?
-yea, i thought about it
-why are you trippin
-oh you talkin bout that girl from up there up the street, right?
-oh, yea nigga i did
-i heard about that bitch, man
-aye, she a trip
-i be like, i be like damn she got a way about her
-and everybody always got something to say about her
-she so fine, she so classy but that bitch mean
-everybody wanna throw a little dirt up on er but that bitch clean
-quit hatin on er, recognize er from a mile away
-when she be walkin and it's hard to find the words to say
-when she be talkin, disrespect it, pay no never mind
-well she just grill, undressin up, she known to take her time
-and go and kill em
-hit the club and make these bitches sweat
-not even tryin
-turnin heads just off her silhouette
-and i ain't lyin
-i'm a say somebody taught her well
-she'd never slip and i think she's out here castin spells
-i'm tryna tell you shit
-she a trip trip trip trip trip trip trip trip
-she a trip trip trip trip trip trip trip trip
-that bitch a trip
-she a trip trip trip trip trip trip trip trip
-that girl a trip
-she a trip trip trip trip trip trip trip trip
-yea, that girl a trip
-yea girl like that pussy stay wet
-fuck er, keep er in check
-girl if money have her impressed
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-(i'm tryna tell ya'll like i don't believe er)
-she wanna ride with me on jets
-no matter what, she always on the grind
-it seems she know just what to do to stay up on my mind
-she send me pics of her naked pose and like in a magazine
-i wanna hit it like a drum whenever she go and shake it like a tambourine
-yea, that percussion and she always got the latest bag
-her shoe game stupid and she never fights and never nags
-she a keep it movin, got no time for games, lames
-false claims, callin out names
-dames all in the same thing, man
-end of discussion, what you thought she'll throw you for a loop
-that was expected, you might even let er drive your coupe
-she'll never wreck it
-she respect the finer things, diamond rings, diamond chains
-down to carry vera wang's, get a grip
-she a motherfuckin trip
-she a trip trip trip trip trip trip trip trip
-she a trip trip trip trip trip trip trip trip
-that bitch a trip
-she a trip trip trip trip trip trip trip trip
-that girl a trip
-she a trip trip trip trip trip trip trip trip
-yea, that girl a trip
-yea girl like that pussy stay wet
-fuck er, keep er in check
-girl if money have her impressed
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-(going crazy here, man)
-she wanna ride with me on jets
-that bitch a trip if i ain't never seen it
-i get up in the gut, she be telling to beat it like i fuckin mean it
-i can't believe it
-got a nigga thinkin that maybe i done met my match
-so i put her in the track and yes in fact you'll catch me spendin stacks
-ball up in sacks and i ain't never been the one to trip
-like what am i doing?
-but it's something about the way that she ride that dick
-my mind is ruined and she using it to her advantage
-she love that i'm grown but i think she got some other victims
-i'm not alone
-who woulda thought this bad bitch was out here pimpin?
-'cause a nigga sippin, rippin tags off the latest clothes and bags, she so bad
-that she can't go nowhere without a bunch of niggas tryna holler
-but she all about that buck and all about that mighty dollar
-she a trip trip trip trip trip trip trip trip
-she a trip trip trip trip trip trip trip trip
-that bitch a trip
-she a trip trip trip trip trip trip trip trip
-that girl a trip
-she a trip trip trip trip trip trip trip trip
-yea, that girl a trip
-yea girl like that pussy stay wet
-fuck er, keep er in check
-girl if money have her impressed
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-she wanna ride with me on jets
-she a trip trip trip trip trip trip trip trip
-she wanna ride with me on jets
+(dp1
+Vthings
+p2
+I1
+sVnags
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVyea
+p6
+I10
+sVmoney
+p7
+I3
+sVdollar
+p8
+I1
+sVcatch
+p9
+I1
+sVmile
+p10
+I1
+sVkill
+p11
+I1
+sVshoe
+p12
+I1
+sVshake
+p13
+I1
+sVgo
+p14
+I3
+sVyes
+p15
+I1
+sVfeat
+p16
+I1
+sVfind
+p17
+I1
+sVspells
+p18
+I1
+sVaint
+p19
+I3
+sVbusy
+p20
+I1
+sVdames
+p21
+I1
+sVseems
+p22
+I1
+sVsend
+p23
+I1
+sVlyin
+p24
+I1
+sVgoing
+p25
+I1
+sVwet
+p26
+I3
+sVbout
+p27
+I1
+sVmight
+p28
+I1
+sVmatch
+p29
+I1
+sVfiner
+p30
+I1
+sVgrip
+p31
+I1
+sVcallin
+p32
+I1
+sVsomebody
+p33
+I1
+sVlivin
+p34
+I1
+sVadvantage
+p35
+I1
+sVget
+p36
+I2
+sVbeat
+p37
+I1
+sVwoulda
+p38
+I1
+sVvera
+p39
+I1
+sVgame
+p40
+I1
+sVknow
+p41
+I1
+sVwords
+p42
+I1
+sVtelling
+p43
+I1
+sVusing
+p44
+I1
+sVtambourine
+p45
+I1
+sVthinkin
+p46
+I1
+sVtrippin
+p47
+I1
+sVlike
+p48
+I11
+sVdid
+p49
+I1
+sValways
+p50
+I3
+sVnaked
+p51
+I1
+sVbag
+p52
+I1
+sVbad
+p53
+I2
+sVstupid
+p54
+I1
+sVsacks
+p55
+I1
+sVgut
+p56
+I1
+sVhavent
+p57
+I1
+sVyall
+p58
+I1
+sVmean
+p59
+I2
+sVem
+p60
+I1
+sVshed
+p61
+I1
+sVtalked
+p62
+I1
+sVdoing
+p63
+I1
+sVmiller
+p64
+I1
+sVturnin
+p65
+I1
+sVhard
+p66
+I1
+sVstreet
+p67
+I1
+sVholler
+p68
+I1
+sVshes
+p69
+I1
+sVgirl
+p70
+I13
+sVer
+p71
+I11
+sVeven
+p72
+I2
+sVmovin
+p73
+I1
+sVwreck
+p74
+I1
+sVfine
+p75
+I1
+sVaway
+p76
+I1
+sVtags
+p77
+I1
+sVrings
+p78
+I1
+sVvictims
+p79
+I1
+sVwangs
+p80
+I1
+sVgot
+p81
+I6
+sVbunch
+p82
+I1
+sVchains
+p83
+I1
+sVpose
+p84
+I1
+sVdirt
+p85
+I1
+sVnever
+p86
+I7
+sVdisrespect
+p87
+I1
+sVmet
+p88
+I1
+sVlet
+p89
+I1
+sVnowhere
+p90
+I1
+sVjets
+p91
+I9
+sVthrow
+p92
+I2
+sVbuck
+p93
+I1
+sVabout
+p94
+I1
+sVdrum
+p95
+I1
+sVoh
+p96
+I2
+sVmotherfuckin
+p97
+I1
+sVstacks
+p98
+I1
+sVkeep
+p99
+I4
+sVwalkin
+p100
+I1
+sVthing
+p101
+I1
+sVmagazine
+p102
+I1
+sVyoull
+p103
+I1
+sVgames
+p104
+I1
+sVsweat
+p105
+I1
+sVclothes
+p106
+I1
+sVthink
+p107
+I2
+sVfuckin
+p108
+I1
+sVdick
+p109
+I1
+sVlove
+p110
+I1
+sVdont
+p111
+I1
+sVlames
+p112
+I1
+sVpussy
+p113
+I3
+sVcastin
+p114
+I1
+sVone
+p115
+I1
+sVput
+p116
+I1
+sVright
+p117
+I1
+sVdone
+p118
+I1
+sVbitch
+p119
+I8
+sVcarry
+p120
+I1
+sVrespect
+p121
+I1
+sVcoupe
+p122
+I1
+sVeverybody
+p123
+I2
+sVwan
+p124
+I11
+sVlittle
+p125
+I1
+sVheads
+p126
+I1
+sVher
+p127
+I2
+sVaye
+p128
+I1
+sVleast
+p129
+I1
+sVimpressed
+p130
+I3
+sVpercussion
+p131
+I1
+sVdamn
+p132
+I1
+sVway
+p133
+I2
+sVexpected
+p134
+I1
+sVtryin
+p135
+I1
+sVtell
+p136
+I2
+sVtryna
+p137
+I3
+sVundressin
+p138
+I1
+sVshell
+p139
+I2
+sVnames
+p140
+I1
+sVpimpin
+p141
+I1
+sVclub
+p142
+I1
+sVbitches
+p143
+I1
+sVfuck
+p144
+I3
+sVnigga
+p145
+I3
+sVhatin
+p146
+I1
+sVknown
+p147
+I1
+sVbelieve
+p148
+I2
+sVgrill
+p149
+I1
+sVniggas
+p150
+I1
+sVride
+p151
+I10
+sVcant
+p152
+I2
+sVruined
+p153
+I1
+sVmatter
+p154
+I1
+sVtaught
+p155
+I1
+sVspendin
+p156
+I1
+sVmighty
+p157
+I1
+sVloop
+p158
+I1
+sVive
+p159
+I1
+sVcrazy
+p160
+I1
+sVfalse
+p161
+I1
+sVrecognize
+p162
+I1
+sVfights
+p163
+I1
+sVmind
+p164
+I3
+sVit
+p165
+I5
+sVheard
+p166
+I2
+sVsay
+p167
+I3
+sVdiamond
+p168
+I2
+sVim
+p169
+I5
+sVsomething
+p170
+I2
+sVslip
+p171
+I1
+sVseen
+p172
+I1
+sVhit
+p173
+I2
+sVpics
+p174
+I1
+sValone
+p175
+I1
+sVtrip
+p176
+I159
+sVshit
+p177
+I1
+sVgrown
+p178
+I1
+sVbags
+p179
+I1
+sVsippin
+p180
+I1
+sVsilhouette
+p181
+I1
+sVna
+p182
+I11
+sVmake
+p183
+I1
+sVrippin
+p184
+I1
+sVcheck
+p185
+I3
+sVtake
+p186
+I1
+sVyou
+p187
+I2
+sVtalkin
+p188
+I2
+sVball
+p189
+I1
+sVclassy
+p190
+I1
+sVtrack
+p191
+I1
+sVtime
+p192
+I2
+sVquit
+p193
+I1
+sVstay
+p194
+I4
+sVmac
+p195
+I1
+sVend
+p196
+I1
+sVman
+p197
+I3
+sVcause
+p198
+I1
+sVwhenever
+p199
+I1
+sVmaybe
+p200
+I1
+sVwell
+p201
+I3
+sVdrive
+p202
+I1
+sVgrind
+p203
+I1
+sVthought
+p204
+I4
+sVwithout
+p205
+I1
+sVclean
+p206
+I1
+sVpay
+p207
+I1
+sVclaims
+p208
+I1
+sVdiscussion
+p209
+I1
+sVfact
+p210
+I1
+sVlatest
+p211
+I2
+s.

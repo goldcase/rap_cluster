@@ -1,88 +1,740 @@
-"like a jungle" lyrics
-e-40 lyrics
-"like a jungle"
-(feat. young mugzi)
-hand me one of them thangs killed john wayne
-d.e.a. back in this bitch, hmm-hmm, va-rooom
-hah hah hah hah, fuck around with this nigga bosko
-he stay mobbin..
-shall we spit some saliva?  spit some saliva
-in and out of the traffic
-sparkin up a bunch of commotion and static it's a habit
-bloated twasted loaded tilted when i roll it
-like the steering wheel on my deville when i first drove it
-who the caviest and the savviest (?) strikin like a pack of matches
-blood alcohol, lookin like above average
-money tall player, papered up, ghettofabulous
-you can ball too pimpin just be about your cabbage
-i don't need no iron i'm already creased
-pistol-whip a bitch with my mouthpiece, paid for hoe
-on my car, fuckin lease
-strikin through your neighborhood, disturbin peace
-boogie green cutlass with the gold feets
-same colored tint with the bucket seats, beatch!
-all my wife i was raised around killers
-boy i tell ya - these monkeys don't wanna see no gorillas
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle -
-you know a sea serpent snake in the grass can post up lies
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle -
-we play for keeps, so nigga if you feel froggish leap!
-leap nigga! beotch!
-chest splitter, game spitter, go getter
-i stay busy like mighty joe, the go-rilla
-one hitter quitters if you're it, bump my feet nigga
-i hit the turf, knockin off wall pictures
-nowadays niggaz can get arrested for reckless dressin, attempt to pimp
-but they don't know a broke horse
-and don't know how money makes a pimp pimp
-see i'm like a pimp, i got to be about means
-twinkied out, with a car full of tv screens
-i mean i'm mean, i boss up for the green
-hit the scene, and check my runners bout my cream
-one-eighteen, haters wanna cross my dream
-handicap me, shoot me in the spleen
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle -
-if you see me in a fight in the forest with a bear
-don't help me nigga help the bear.. don't help me nigga help the bear!
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle - it's like a jungle sometimes
-it's like a jungle -
-boy i tell ya, these monkeys don't wanna see no gorillas
-see no gorillas
-man potnah you ain't from 'round here, you ain't got no pass
-oh you with 40-water, we can go 'head and let you go
-but next time, it's yo' ass
-lick you for yo' cash, get you for what you got
-cause triflin on this side of the soil
-that's all we do is plot
-seen it, lived it, did it, been in it, done it
-cooked it, shucked it, sold it, couple hundred
-units a month, dirty white girl
-baby powder, china white, step-mother pearl
-i'm out of weed, i'm losin my focus (focus)
-ash tray full of doobies and roaches (roaches)
-in the parking lot rollin a blunt (blunt)
-in the middle of some funk
-dudes got to dumpin bitches, haulin ass (ass)
-takin off they pumps, fallin in the grass (grass)
-cowards flyin everywhere, fools gettin glassed
-while i'm sittin in my cut' thang, tryin to play
-they fuckin up my shit
-be about your paper bro, don't hate on mine
-it's like a jungle sometimes..
-gorilla pimpin ain't easy, but i'm steady on the grind
-it's like a jungle sometimes, yeah yeah yeah yeah,
-yeah yeah yeah, yeah yeah yeah, yeah yeah yeah..
-it's like a jungle sometimes.. yeah yeah yeah yeah,
-yeah yeah yeah, yeah yeah yeah, yeah yeah yeah
-it's like a jungle sometimes.. yeah yeah yeah yeah,
-yeah yeah yeah, yeah yeah yeah, yeah yeah yeah
-it's like a jungle sometimes.. yeah yeah yeah yeah,
-yeah yeah yeah, yeah yeah yeah, yeah yeah yeah
-it's like a jungle sometimes..
+(dp1
+Vhelp
+p2
+I4
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVfocus
+p5
+I2
+sVmonth
+p6
+I1
+sVmighty
+p7
+I1
+sVpaper
+p8
+I1
+sVparking
+p9
+I1
+sVseats
+p10
+I1
+sVgo
+p11
+I3
+sVfeat
+p12
+I1
+sVbunch
+p13
+I1
+sVhah
+p14
+I4
+sVbusy
+p15
+I1
+sVgold
+p16
+I1
+sVtv
+p17
+I1
+sVthang
+p18
+I1
+sVyoung
+p19
+I1
+sVmonkeys
+p20
+I2
+sVquitters
+p21
+I1
+sVwayne
+p22
+I1
+sVeasy
+p23
+I1
+sVbout
+p24
+I1
+sVbeatch
+p25
+I1
+sVbeotch
+p26
+I1
+sVhate
+p27
+I1
+sVhit
+p28
+I2
+sVaround
+p29
+I2
+sVyo
+p30
+I2
+sVget
+p31
+I2
+sVmatches
+p32
+I1
+sVfeets
+p33
+I1
+sVsittin
+p34
+I1
+sVbear
+p35
+I3
+sVnext
+p36
+I1
+sVgame
+p37
+I1
+sVkillers
+p38
+I1
+sVtraffic
+p39
+I1
+sVknow
+p40
+I3
+sVhundred
+p41
+I1
+sVroaches
+p42
+I2
+sVkilled
+p43
+I1
+sVrunners
+p44
+I1
+sVdumpin
+p45
+I1
+sVsplitter
+p46
+I1
+sVshucked
+p47
+I1
+sVlike
+p48
+I33
+sVknockin
+p49
+I1
+sVglassed
+p50
+I1
+sVgettin
+p51
+I1
+sVsaliva
+p52
+I2
+sVcreased
+p53
+I1
+sVdoobies
+p54
+I1
+sVcaviest
+p55
+I1
+sVlosin
+p56
+I1
+sVtray
+p57
+I1
+sVround
+p58
+I1
+sVstrikin
+p59
+I2
+sVnigga
+p60
+I6
+sVneighborhood
+p61
+I1
+sVhabit
+p62
+I1
+sVbump
+p63
+I1
+sVspitter
+p64
+I1
+sVash
+p65
+I1
+sVback
+p66
+I1
+sVhmmhmm
+p67
+I1
+sVcash
+p68
+I1
+sVsee
+p69
+I5
+sVball
+p70
+I1
+sVstatic
+p71
+I1
+sVpowder
+p72
+I1
+sVsea
+p73
+I1
+sVloaded
+p74
+I1
+sVgirl
+p75
+I1
+sVtriflin
+p76
+I1
+sVman
+p77
+I1
+sValcohol
+p78
+I1
+sV40water
+p79
+I1
+sVmine
+p80
+I1
+sVpictures
+p81
+I1
+sVboogie
+p82
+I1
+sVleap
+p83
+I2
+sVgot
+p84
+I4
+sVcause
+p85
+I1
+sVass
+p86
+I3
+sVarrested
+p87
+I1
+sVfull
+p88
+I2
+sVplot
+p89
+I1
+sVsold
+p90
+I1
+sVtryin
+p91
+I1
+sVdressin
+p92
+I1
+sVcut
+p93
+I1
+sVlet
+p94
+I1
+sVjoe
+p95
+I1
+sVpapered
+p96
+I1
+sVmugzi
+p97
+I1
+sVpost
+p98
+I1
+sVstay
+p99
+I2
+sVpumps
+p100
+I1
+sVsteering
+p101
+I1
+sVwall
+p102
+I1
+sVboss
+p103
+I1
+sVboy
+p104
+I2
+sVchina
+p105
+I1
+sVcolored
+p106
+I1
+sVoh
+p107
+I1
+sVbro
+p108
+I1
+sVside
+p109
+I1
+sVlookin
+p110
+I1
+sVturf
+p111
+I1
+sVvarooom
+p112
+I1
+sVmean
+p113
+I2
+sVgorillas
+p114
+I3
+sVfuckin
+p115
+I2
+sVfirst
+p116
+I1
+sVcutlass
+p117
+I1
+sVraised
+p118
+I1
+sValready
+p119
+I1
+sVdont
+p120
+I8
+sVfeel
+p121
+I1
+sVscene
+p122
+I1
+sVdudes
+p123
+I1
+sVone
+p124
+I2
+sVfeet
+p125
+I1
+sVlies
+p126
+I1
+sVlick
+p127
+I1
+sVdone
+p128
+I1
+sVbitch
+p129
+I2
+sVfallin
+p130
+I1
+sVtilted
+p131
+I1
+sVdrove
+p132
+I1
+sVnowadays
+p133
+I1
+sVwan
+p134
+I3
+sVhorse
+p135
+I1
+sVtint
+p136
+I1
+sVcooked
+p137
+I1
+sVaint
+p138
+I3
+sVmouthpiece
+p139
+I1
+sVmobbin
+p140
+I1
+sVcowards
+p141
+I1
+sVpearl
+p142
+I1
+sVstepmother
+p143
+I1
+sVlot
+p144
+I1
+sVtime
+p145
+I1
+sVdeville
+p146
+I1
+sVmeans
+p147
+I1
+sVjohn
+p148
+I1
+sVtell
+p149
+I2
+sVlease
+p150
+I1
+sVhead
+p151
+I1
+sVlived
+p152
+I1
+sVpimpin
+p153
+I2
+sVspit
+p154
+I2
+sVpistolwhip
+p155
+I1
+sVbitches
+p156
+I1
+sVpimp
+p157
+I4
+sVfuck
+p158
+I1
+sVbosko
+p159
+I1
+sVeverywhere
+p160
+I1
+sVbroke
+p161
+I1
+sVbaby
+p162
+I1
+sVhaters
+p163
+I1
+sVwhite
+p164
+I2
+sVfunk
+p165
+I1
+sVshoot
+p166
+I1
+sVe40
+p167
+I1
+sVscreens
+p168
+I1
+sVcouple
+p169
+I1
+sVtwasted
+p170
+I1
+sVhitter
+p171
+I1
+sVmiddle
+p172
+I1
+sVcar
+p173
+I2
+sVbloated
+p174
+I1
+sVspleen
+p175
+I1
+sVbucket
+p176
+I1
+sVoneeighteen
+p177
+I1
+sVniggaz
+p178
+I1
+sVfight
+p179
+I1
+sVdirty
+p180
+I1
+sViron
+p181
+I1
+sVhaulin
+p182
+I1
+sVdea
+p183
+I1
+sVgrass
+p184
+I3
+sVpack
+p185
+I1
+sVyoure
+p186
+I1
+sVserpent
+p187
+I1
+sVghettofabulous
+p188
+I1
+sVsoil
+p189
+I1
+sVpass
+p190
+I1
+sVit
+p191
+I3
+sVplayer
+p192
+I1
+sVim
+p193
+I7
+sVtwinkied
+p194
+I1
+sVneed
+p195
+I1
+sVseen
+p196
+I1
+sVcheck
+p197
+I1
+sVshit
+p198
+I1
+sVcream
+p199
+I1
+sVhoe
+p200
+I1
+sVgorilla
+p201
+I2
+sVna
+p202
+I3
+sVpeace
+p203
+I1
+sVcommotion
+p204
+I1
+sVcross
+p205
+I1
+sVtakin
+p206
+I1
+sVya
+p207
+I2
+sVchest
+p208
+I1
+sVforest
+p209
+I1
+sVweed
+p210
+I1
+sVunits
+p211
+I1
+sVfools
+p212
+I1
+sVblunt
+p213
+I2
+sVroll
+p214
+I1
+sVreckless
+p215
+I1
+sVsparkin
+p216
+I1
+sVwheel
+p217
+I1
+sVplay
+p218
+I2
+sVsavviest
+p219
+I1
+sVflyin
+p220
+I1
+sVshall
+p221
+I1
+sVhandicap
+p222
+I1
+sVjungle
+p223
+I28
+sVpaid
+p224
+I1
+sVhand
+p225
+I1
+sVpotnah
+p226
+I1
+sVblood
+p227
+I1
+sVcabbage
+p228
+I1
+sVfroggish
+p229
+I1
+sVyeah
+p230
+I52
+sVattempt
+p231
+I1
+sVwife
+p232
+I1
+sVmakes
+p233
+I1
+sVaverage
+p234
+I1
+sVsometimes
+p235
+I14
+sVsteady
+p236
+I1
+sVrollin
+p237
+I1
+sVgrind
+p238
+I1
+sVthangs
+p239
+I1
+sVgetter
+p240
+I1
+sVgreen
+p241
+I2
+sVdisturbin
+p242
+I1
+sVkeeps
+p243
+I1
+sVtall
+p244
+I1
+sVthats
+p245
+I1
+sVdream
+p246
+I1
+sVsnake
+p247
+I1
+s.

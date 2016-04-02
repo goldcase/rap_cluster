@@ -1,69 +1,611 @@
-"lyte as a roc" lyrics
-mc lyte lyrics
-"lyte as a roc"
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-do you understand the metaphoric phrase 'lyte as a rock?'
-it's explaining, how heavy the young lady is
-you know what i'm saying king?
-yes my brother, but i would consider 'lyte as a rock'
-a simile because of the usage of the word 'as'
-and now.. directly from the planet of brooklyn
-mc lyte - as a rock!
-must i say it again, i said it before
-move out the way when i'm comin through the door
-me, heavy?  as lyte as a rock
-guys watch, even some of girls clock
-step back, it ain't that type of party
-no reply if you ain't somebody
-get out my face, don't wanna hear no more
-if you hate rejection, don't try to score
-first base?  you ain't got what it takes
-you smile, you wink, you big fake flake
-you're so pathetic you make my stomach turn
-you beg, you borrow, now you have to learn
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-lyte as a rock, or i should say a boulder
-rolling down your neck, pounding on your shoulders
-never shall i be an emcee, called a wannabe
-i am the lyte, l-y-t-e
-this is the way it is, don't ever forget
-hear the rhyme by someone else and you know they bit
-all in the way, just little obstacles
-chew em up, spit em out, just like popsicles
-suckers out of my way, we're not on the same wavelength
-i show stability, potential and strength
-on the other hand, you are weak and unruly
-could never be a spy, cause you're just a plain stoolie
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-i'm a slave, i'm a slave, i'm a slave to the rhythm
-def rhymes on the micraphone is what i'm givin
-yes i am a rock and you are just a pebble
-milk turn up the base, and rock adjust the levels
-if a rap can paint a thousand words then i can paint a million
-wait, lyte is capable of paintin a bazillion raps
-so when i say it, this is what i mean
-audio two an alliance on the scene
-and i'd like to say whassup to my producer king of chill
-party people are you ready, jam if you will
-never underestimate lyte the emcee; i am a rapper who is here
-to make the things the way they're meant to be
-the world ultimate, i'm here to take the title
-but i had a little trouble upon, my arrival
-but i got rid of those who, tried to rock me
-lyte is here, no one can stop me
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-there are hip-hop leaders, this you know
-we also have, hip-hoppers that follow
-by the tone of my voice, you can tell i am a scholar
-i'm also the leader of the hip-hop followers
-now get this, i'm at a jam and i'm rockin it
-suckers like a checkerboard, when black is clockin it
-the grace as i ease across the stage
-bars around the audience, sort of like a cage
-they laugh, cause they assume i'm in prison
-but in reality, they're locked in
-once again i'll state that i can't be stopped
-cause yo, i am as lyte, as, rock!
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
-i am the lyte "a-a-a-a-a-a-as-as-a-rock" l-y, l-l-y-t-e
+(dp1
+Vsaying
+p2
+I1
+sVllyte
+p3
+I7
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVroc
+p6
+I2
+sVstability
+p7
+I1
+sVworld
+p8
+I1
+sVfollow
+p9
+I1
+sVyes
+p10
+I2
+sVhate
+p11
+I1
+sVmilk
+p12
+I1
+sVconsider
+p13
+I1
+sVaint
+p14
+I3
+sVgivin
+p15
+I1
+sVtitle
+p16
+I1
+sVcage
+p17
+I1
+sVease
+p18
+I1
+sVyoung
+p19
+I1
+sVjam
+p20
+I2
+sVblack
+p21
+I1
+sVrhythm
+p22
+I1
+sVprison
+p23
+I1
+sVusage
+p24
+I1
+sVsmile
+p25
+I1
+sVchill
+p26
+I1
+sVly
+p27
+I7
+sVboulder
+p28
+I1
+sVmove
+p29
+I1
+sVsomebody
+p30
+I1
+sVaround
+p31
+I1
+sVyo
+p32
+I1
+sVget
+p33
+I2
+sVbig
+p34
+I1
+sVwatch
+p35
+I1
+sVknow
+p36
+I3
+sVwords
+p37
+I1
+sVreply
+p38
+I1
+sVword
+p39
+I1
+sVbit
+p40
+I1
+sVlady
+p41
+I1
+sVscholar
+p42
+I1
+sVlike
+p43
+I4
+sVill
+p44
+I1
+sVmeant
+p45
+I1
+sVcause
+p46
+I3
+sVrapper
+p47
+I1
+sVborrow
+p48
+I1
+sVmetaphoric
+p49
+I1
+sVtheyre
+p50
+I2
+sVtry
+p51
+I1
+sVaudience
+p52
+I1
+sVadjust
+p53
+I1
+sVstopped
+p54
+I1
+sVpaintin
+p55
+I1
+sVrock
+p56
+I9
+sVwannabe
+p57
+I1
+sVmean
+p58
+I1
+sVheavy
+p59
+I2
+sVchew
+p60
+I1
+sVbars
+p61
+I1
+sVleaders
+p62
+I1
+sVpeople
+p63
+I1
+sVfake
+p64
+I1
+sVback
+p65
+I1
+sVbrother
+p66
+I1
+sVacross
+p67
+I1
+sVwavelength
+p68
+I1
+sVpebble
+p69
+I1
+sVeven
+p70
+I1
+sVwill
+p71
+I1
+sVsaid
+p72
+I1
+sVclock
+p73
+I1
+sVpounding
+p74
+I1
+sVscore
+p75
+I1
+sVwhassup
+p76
+I1
+sVgot
+p77
+I2
+sVbefore
+p78
+I1
+sVever
+p79
+I1
+sVleader
+p80
+I1
+sVarrival
+p81
+I1
+sVsimile
+p82
+I1
+sVlocked
+p83
+I1
+sVmillion
+p84
+I1
+sVpathetic
+p85
+I1
+sVstate
+p86
+I1
+sVnever
+p87
+I3
+sVweak
+p88
+I1
+sVstep
+p89
+I1
+sVbase
+p90
+I2
+sVstomach
+p91
+I1
+sVsuckers
+p92
+I2
+sVwait
+p93
+I1
+sVcould
+p94
+I1
+sVhiphop
+p95
+I2
+sVflake
+p96
+I1
+sVturn
+p97
+I2
+sVdef
+p98
+I1
+sVemcee
+p99
+I2
+sVfirst
+p100
+I1
+sVem
+p101
+I2
+sValliance
+p102
+I1
+sVtone
+p103
+I1
+sVdont
+p104
+I3
+sVscene
+p105
+I1
+sVone
+p106
+I1
+sVstop
+p107
+I1
+sVstoolie
+p108
+I1
+sVdirectly
+p109
+I1
+sVcomin
+p110
+I1
+sVproducer
+p111
+I1
+sVforget
+p112
+I1
+sVpopsicles
+p113
+I1
+sVstage
+p114
+I1
+sVtake
+p115
+I1
+sVwan
+p116
+I1
+sVlittle
+p117
+I2
+sVtakes
+p118
+I1
+sVwould
+p119
+I1
+sVcapable
+p120
+I1
+sVlyte
+p121
+I21
+sVgirls
+p122
+I1
+sVtwo
+p123
+I1
+sVpaint
+p124
+I2
+sVway
+p125
+I5
+sVrockin
+p126
+I1
+sVbazillion
+p127
+I1
+sVtype
+p128
+I1
+sVtell
+p129
+I1
+sVmore
+p130
+I1
+sVsort
+p131
+I1
+sVshoulders
+p132
+I1
+sVdoor
+p133
+I1
+sVspit
+p134
+I1
+sVthousand
+p135
+I1
+sVcant
+p136
+I1
+sVelse
+p137
+I1
+sVunderstand
+p138
+I1
+sVbe
+p139
+I1
+sVgrace
+p140
+I1
+sVmust
+p141
+I1
+sVme
+p142
+I2
+sVking
+p143
+I2
+sVrejection
+p144
+I1
+sVmc
+p145
+I2
+sVplain
+p146
+I1
+sVbeg
+p147
+I1
+sVrhymes
+p148
+I1
+sVplanet
+p149
+I1
+sVunruly
+p150
+I1
+sVlearn
+p151
+I1
+sVvoice
+p152
+I1
+sVcalled
+p153
+I1
+sVsay
+p154
+I4
+sVspy
+p155
+I1
+sVlaugh
+p156
+I1
+sVobstacles
+p157
+I1
+sVclockin
+p158
+I1
+sVraps
+p159
+I1
+sVis
+p160
+I1
+sVin
+p161
+I1
+sVit
+p162
+I2
+sVas
+p163
+I1
+sVsomeone
+p164
+I1
+sVim
+p165
+I11
+sVrap
+p166
+I1
+sVaaaaaaasasarock
+p167
+I7
+sVready
+p168
+I1
+sVphrase
+p169
+I1
+sVrid
+p170
+I1
+sVid
+p171
+I1
+sVstrength
+p172
+I1
+sVna
+p173
+I1
+sVmake
+p174
+I2
+sVreality
+p175
+I1
+sValso
+p176
+I2
+sVpotential
+p177
+I1
+sVfollowers
+p178
+I1
+sVunderestimate
+p179
+I1
+sVparty
+p180
+I2
+sVexplaining
+p181
+I1
+sVslave
+p182
+I3
+sVtried
+p183
+I1
+sVshall
+p184
+I1
+sVrhyme
+p185
+I1
+sVupon
+p186
+I1
+sVhand
+p187
+I1
+sVbrooklyn
+p188
+I1
+sVlevels
+p189
+I1
+sVtrouble
+p190
+I1
+sVrolling
+p191
+I1
+sVguys
+p192
+I1
+sVmicraphone
+p193
+I1
+sVneck
+p194
+I1
+sVassume
+p195
+I1
+sVhiphoppers
+p196
+I1
+sVyoure
+p197
+I2
+sVface
+p198
+I1
+sVwink
+p199
+I1
+sVcheckerboard
+p200
+I1
+sVultimate
+p201
+I1
+sVthings
+p202
+I1
+sVhear
+p203
+I2
+sVaudio
+p204
+I1
+s.

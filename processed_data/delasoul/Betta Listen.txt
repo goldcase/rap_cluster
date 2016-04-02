@@ -1,116 +1,804 @@
-"betta listen" lyrics
-de la soul lyrics
-"betta listen"
-(listen all you fellas, here's what good love is)
-(listen all you fellas, the kind she understands)
-(listen all you fellas, then you won't have to worry no no more)
-(listen all you fellas, you betta listen) (you betta listen)
-(listen all you fellas, here's what good love is)
-(listen all you fellas, the kind she understands)
-(listen all you fellas, then you won't have to worry no no more)
-(listen all you fellas, you betta listen) (you betta listen)
-mummy i saw one day
-she was on some fume vapors
-givin' me lip so i continued with the caper
-cat litter had me sniffin
-since outside the palace
-eyes sicker than aids
-game harder than a callous
-tried to enter in her shit
-she had locks on the session
-tellin me how her last man
-taught her ass a lesson damn
-well, i'm not the mayor
-i take care of my dimes
-but i excluded i had nickels
-addin' up to her kind
-short stacks with a wristful of jewels
-sayin she didn't need a man
-to make her out for a fool
-dig it, miss, my love is credited in cupid account
-and if you need that extra help
-gigglin, figurin' i had jokes for her humor
-then she broke out with the words
-about knowin all the rumors
-"see, all you niggas rappin be like pedigree dogs
-thinkin you can have me leashed
-around your microphone cords"
-somethin 'bout her lit me up like july
-and with them onions in the pants
-i couldn't help but cry
-seemed lost in the essence
-but i had to find my way to take
-action for the digits just to set up a date
-thought my shinin was on
-i had the skirts in the bag
-until i took a bit of time
-to peep the price on the tag
-she said "i'm that salt and pepa
-who like pushin it to sisters
-you need to get to walkin with it mister,
-i think you betta listen"
-(listen all you fellas, here's what good love is)
-(listen all you fellas, the kind she understands)
-(listen all you fellas, then you won't have to worry no no more)
-(listen all you fellas, you betta listen) (you betta listen)
-we was at some outside jam one saturday night
-when this pretty ass girl got locked in my sight
-she was a ghetto philosopher
-yeah you know the type
-thinkin' mary j. and sade understood her strife
-caught me lookin', "yo what's cookin?"
-"nothin' from around here
-so don't approach or hope
-to be the man of the year"
-i said listen deer or rabbit or whatever the hell you be
-i'm not the one to embarrass
-but the one to emcee
-i traveled the world q uarters on my relationships
-used and abused by hoes
-so my royalty stubs
-but above all
-i brought my daughter into this earth
-so i understand the need
-of women feeling of worth
-she glanced deep in my eyes
-and said "oh shit, you're ill
-i like the way your mind
-moves around at will
-still, let me apologize for soundin so sassy
-but you niggas act as if my ass
-has a sign that says harass me"
-her name was gail from the union of dale
-i made her remove the shades
-so her eyes could tell me the plan
-yo where's your man?
-"oh that nigga's past tense,
-painted bruises on my face
-haven't seen him ever since"
-gave a pinch to my bottom
-and started rubbing my back
-she said "i bet your ass is darker
-than a mobb deep track"
-only one way to know it,
-and i was down to show it
-so we jetted back to my crib to set it
-she made it known
-"i've owned thoughts of you
-since that song 'meeny-meeny'
-can't believe you're about
-to be all up in between me"
-man, the flag was lowered
-so my wood was raised
-followed a shielding of my building
-to protect me from the blaze
-this granted access to
-southern parts of her borders
-did you have her comin'?
-like the new world order
-i caught her with the right combination
-a good combination
-keepin' it in her hard, man
-you betta listen
-(listen all you fellas, here's what good love is)
-(listen all you fellas, the kind she understands)
-(listen all you fellas, then you won't have to worry no no more)
-(listen all you fellas, you betta listen) (you betta listen)
+(dp1
+Vall
+p2
+I1
+sVbottom
+p3
+I1
+sVhelp
+p4
+I2
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVfume
+p7
+I1
+sVsession
+p8
+I1
+sVearth
+p9
+I1
+sVworld
+p10
+I2
+sVfellas
+p11
+I16
+sVstill
+p12
+I1
+sVmister
+p13
+I1
+sVmayor
+p14
+I1
+sVseemed
+p15
+I1
+sVcaper
+p16
+I1
+sVbelieve
+p17
+I1
+sVgivin
+p18
+I1
+sVla
+p19
+I1
+sVcredited
+p20
+I1
+sVcupid
+p21
+I1
+sVto
+p22
+I1
+sVnickels
+p23
+I1
+sVjam
+p24
+I1
+sVblaze
+p25
+I1
+sVexcluded
+p26
+I1
+sVessence
+p27
+I1
+sVthoughts
+p28
+I1
+sVbout
+p29
+I1
+sVghetto
+p30
+I1
+sVworth
+p31
+I1
+sVhope
+p32
+I1
+sVgave
+p33
+I1
+sVfool
+p34
+I1
+sVabused
+p35
+I1
+sVgood
+p36
+I5
+sVshielding
+p37
+I1
+sVaround
+p38
+I3
+sVyo
+p39
+I2
+sVget
+p40
+I1
+sVde
+p41
+I1
+sVaccount
+p42
+I1
+sVme
+p43
+I2
+sVgame
+p44
+I1
+sVroyalty
+p45
+I1
+sVknow
+p46
+I2
+sVwords
+p47
+I1
+sVnew
+p48
+I1
+sVlocked
+p49
+I1
+sVbit
+p50
+I1
+sVvapors
+p51
+I1
+sVcontinued
+p52
+I1
+sVday
+p53
+I1
+sVthinkin
+p54
+I2
+sVwont
+p55
+I4
+sVlike
+p56
+I5
+sVlost
+p57
+I1
+sVmade
+p58
+I2
+sVever
+p59
+I1
+sVdig
+p60
+I1
+sVbetta
+p61
+I12
+sVremove
+p62
+I1
+sVstrife
+p63
+I1
+sVjokes
+p64
+I1
+sVsassy
+p65
+I1
+sVnight
+p66
+I1
+sVhavent
+p67
+I1
+sVmeenymeeny
+p68
+I1
+sVdimes
+p69
+I1
+sVowned
+p70
+I1
+sVcry
+p71
+I1
+sVhell
+p72
+I1
+sVprotect
+p73
+I1
+sVcomin
+p74
+I1
+sVyeah
+p75
+I1
+sVsoul
+p76
+I1
+sVpast
+p77
+I1
+sVunderstood
+p78
+I1
+sVlitter
+p79
+I1
+sVtaught
+p80
+I1
+sVsight
+p81
+I1
+sVyear
+p82
+I1
+sVaids
+p83
+I1
+sVgirl
+p84
+I1
+sVcouldnt
+p85
+I1
+sVrubbing
+p86
+I1
+sVsade
+p87
+I1
+sVsaid
+p88
+I4
+sVhumor
+p89
+I1
+sVpedigree
+p90
+I1
+sVbag
+p91
+I1
+sVheres
+p92
+I4
+sVsince
+p93
+I3
+sVphilosopher
+p94
+I1
+sVfind
+p95
+I1
+sVaccess
+p96
+I1
+sVoutside
+p97
+I2
+sVwhats
+p98
+I1
+sVgot
+p99
+I1
+sVwristful
+p100
+I1
+sVorder
+p101
+I1
+sVapproach
+p102
+I1
+sVpants
+p103
+I1
+sVass
+p104
+I4
+sVbe
+p105
+I1
+sVaddin
+p106
+I1
+sVshit
+p107
+I2
+sVrelationships
+p108
+I1
+sVdarker
+p109
+I1
+sVhere
+p110
+I1
+sVlet
+p111
+I1
+sVembarrass
+p112
+I1
+sVpeep
+p113
+I1
+sVcare
+p114
+I1
+sVdigits
+p115
+I1
+sVon
+p116
+I1
+sVabout
+p117
+I1
+sVfeeling
+p118
+I1
+sVlast
+p119
+I1
+sVknowin
+p120
+I1
+sVoh
+p121
+I2
+sVill
+p122
+I1
+sVshades
+p123
+I1
+sVsicker
+p124
+I1
+sVwalkin
+p125
+I1
+sVsniffin
+p126
+I1
+sVbet
+p127
+I1
+sVlookin
+p128
+I1
+sVact
+p129
+I1
+sVaction
+p130
+I1
+sVsoundin
+p131
+I1
+sVsayin
+p132
+I1
+sVemcee
+p133
+I1
+sVraised
+p134
+I1
+sVlove
+p135
+I5
+sVdont
+p136
+I1
+sVfollowed
+p137
+I1
+sVextra
+p138
+I1
+sVwhatever
+p139
+I1
+sVone
+p140
+I5
+sVbrought
+p141
+I1
+sVsisters
+p142
+I1
+sVset
+p143
+I2
+sVright
+p144
+I1
+sVapologize
+p145
+I1
+sVsays
+p146
+I1
+sVlesson
+p147
+I1
+sVmiss
+p148
+I1
+sVunion
+p149
+I1
+sVcaught
+p150
+I2
+sVcallous
+p151
+I1
+sVname
+p152
+I1
+sVwood
+p153
+I1
+sVdamn
+p154
+I1
+sVtell
+p155
+I1
+sVway
+p156
+I3
+sVcords
+p157
+I1
+sVcookin
+p158
+I1
+sVtype
+p159
+I1
+sVdogs
+p160
+I1
+sVmore
+p161
+I4
+sVeyes
+p162
+I3
+sVhard
+p163
+I1
+sVpretty
+p164
+I1
+sVpainted
+p165
+I1
+sVmind
+p166
+I1
+sVface
+p167
+I1
+sVglanced
+p168
+I1
+sVtook
+p169
+I1
+sVback
+p170
+I2
+sVgranted
+p171
+I1
+sVflag
+p172
+I1
+sVlowered
+p173
+I1
+sVunderstand
+p174
+I1
+sVdeep
+p175
+I2
+sVbroke
+p176
+I1
+sVgail
+p177
+I1
+sVknown
+p178
+I1
+sVdaughter
+p179
+I1
+sVjuly
+p180
+I1
+sVsign
+p181
+I1
+sVcrib
+p182
+I1
+sVwomen
+p183
+I1
+sVtraveled
+p184
+I1
+sVkind
+p185
+I5
+sVleashed
+p186
+I1
+sVrappin
+p187
+I1
+sVniggas
+p188
+I3
+sVstubs
+p189
+I1
+sVj
+I1
+sVharder
+p190
+I1
+sVsee
+p191
+I1
+sVtellin
+p192
+I1
+sVcat
+p193
+I1
+sVwill
+p194
+I1
+sVmobb
+p195
+I1
+sVshinin
+p196
+I1
+sVlisten
+p197
+I29
+sVdidnt
+p198
+I1
+sVcould
+p199
+I1
+sVskirts
+p200
+I1
+sVpushin
+p201
+I1
+sVive
+p202
+I1
+sVpalace
+p203
+I1
+sVis
+p204
+I4
+sVhoes
+p205
+I1
+sVdeer
+p206
+I1
+sVit
+p207
+I3
+sVjewels
+p208
+I1
+sVlocks
+p209
+I1
+sVcant
+p210
+I1
+sVtag
+p211
+I1
+sVim
+p212
+I3
+sVmary
+p213
+I1
+sVneed
+p214
+I4
+sVseen
+p215
+I1
+sVmoves
+p216
+I1
+sVsaw
+p217
+I1
+sVworry
+p218
+I4
+sVq
+I1
+sVmicrophone
+p219
+I1
+sVrumors
+p220
+I1
+sVcombination
+p221
+I2
+sVpepa
+p222
+I1
+sVonions
+p223
+I1
+sVmake
+p224
+I1
+sVuarters
+p225
+I1
+sVharass
+p226
+I1
+sVsaturday
+p227
+I1
+sVlit
+p228
+I1
+sVstarted
+p229
+I1
+sVparts
+p230
+I1
+sVlip
+p231
+I1
+sVtake
+p232
+I2
+sVbruises
+p233
+I1
+sVyou
+p234
+I1
+sVdale
+p235
+I1
+sVused
+p236
+I1
+sVtried
+p237
+I1
+sVtrack
+p238
+I1
+sVprice
+p239
+I1
+sVtime
+p240
+I1
+sVsouthern
+p241
+I1
+sVfigurin
+p242
+I1
+sVkeepin
+p243
+I1
+sVplan
+p244
+I1
+sVdate
+p245
+I1
+sVpinch
+p246
+I1
+sVsong
+p247
+I1
+sVborders
+p248
+I1
+sVwheres
+p249
+I1
+sVman
+p250
+I6
+sVbuilding
+p251
+I1
+sVsomethin
+p252
+I1
+sVunderstands
+p253
+I4
+sVshort
+p254
+I1
+sVrabbit
+p255
+I1
+sVgigglin
+p256
+I1
+sVyoure
+p257
+I2
+sVwell
+p258
+I1
+sVnothin
+p259
+I1
+sVthink
+p260
+I1
+sVthought
+p261
+I1
+sVmummy
+p262
+I1
+sVjetted
+p263
+I1
+sVenter
+p264
+I1
+sVtense
+p265
+I1
+sVsalt
+p266
+I1
+sVstacks
+p267
+I1
+s.

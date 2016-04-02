@@ -1,73 +1,643 @@
-"never change" lyrics
-jay-z lyrics
-"never change"
-("never, never, never, never change")
-ain't never changed, this is jay every day
-("i never change!")
-i never change, this is jay every day
-("i never change!")
-i never change, this is jay
-i am a, roc representer
-hov', summer to winter, hov', dead or alive
-twenty-four/seven, three-sixty-five
-one cd or three-hundred and sixty pies
-whassup to e and kirk?  welcome home to taj
-let no amount of money ruin this thing of ours
-we run streets like drunks run street lights
-we collidin with life as we speak
-we knee deep in coke, we ki deep in ice
-we flood streets with dope, we keep weed to smoke
-we all fish, better teach your folk
-give him money to eat, then next week he's broke
-cause when you sleep, he's reachin for your throat
-word on the skreet, you reap what you sew
-not out of fear but love, love for the game
-roc family first, we never change mayn
-("never, never, never, never change")
-i'm still fuckin with crime cause crime pays
-("i never change!")
-out hustlin, same clothes for days
-("i never change!")
-i never change, i'm too stuck in my ways, i never change
-who you know like hov'?
-("never, never, never, never change")
-i'm still fuckin with crime cause crime pays
-("i never change!")
-out hustlin, same clothes for days
-("i never change!")
-i never change, i'm too stuck in my ways, i never change
-what's up to my miami and st. thomas connects (whattup)
-i'll never mention your name, i promise respect
-death before dishonor correct? - yup
-that's what you promised me, since the (?)lee
-along with, if we stay strong
-we can get paper longer than pippen's arms
-plead the fifth when it comes to the fam
-i'm like a dog - i never speak, but i understand
-where my dogs at?  where my soldiers at war?
-where your bars at?  whoa, gotta pause that - whoa
-lost 92 bricks had to fall back
-knocked a nigga off his feet, but i crawled back
-had a-1 credit, got more crack
-from the first to the fifth, gave it all back
-if, i'm not a hustler what you call that?
-this is before rap, this is all fact
-i never change
-what, the streets robbed me, wasn't educated properly
-well fuck y'all, i needed money for atari
-was so young my big sis' still playin with barbie
-young brother, big city, eight million stories
-old heads taught me, yung'un, walk softly
-carry a big clip, that'll get niggaz off me
-keep coke in coffee, keep money smellin mothy
-change is cool to cop but more important is lawyer fees
-(uhh) that's how it is now (uhh) that's how it always be
-(uhh) i never change, this is always me
-from the womb to the tomb, from now until my doom
-drink army from one cup pass it around the room (that's a family nigga)
-that's the ritual (yup) big ran, i ain't forget you fool
-and all that bullshit you tryin to get through
-this is crew love, move music or move drugs
-rival crews get your black suits up - i never change
-this is jay, everyday
-who you know like hov', nigga?
+(dp1
+Vpippens
+p2
+I1
+sVsummer
+p3
+I1
+sVthomas
+p4
+I1
+sVforget
+p5
+I1
+sVlyrics
+p6
+I2
+sVyoung
+p7
+I2
+sVmoney
+p8
+I4
+sVroc
+p9
+I2
+sVwhattup
+p10
+I1
+sVpaper
+p11
+I1
+sVsleep
+p12
+I1
+sVthreehundred
+p13
+I1
+sVwhats
+p14
+I1
+sVfear
+p15
+I1
+sVstill
+p16
+I3
+sVfifth
+p17
+I2
+sVaint
+p18
+I2
+sVdeath
+p19
+I1
+sVjay
+p20
+I4
+sVruin
+p21
+I1
+sVtwentyfourseven
+p22
+I1
+sVday
+p23
+I2
+sVbetter
+p24
+I1
+sVcollidin
+p25
+I1
+sVcrack
+p26
+I1
+sVours
+p27
+I1
+sVcool
+p28
+I1
+sVreachin
+p29
+I1
+sVfool
+p30
+I1
+sVcoffee
+p31
+I1
+sVmove
+p32
+I2
+sVaround
+p33
+I1
+sVget
+p34
+I4
+sVbig
+p35
+I4
+sVdope
+p36
+I1
+sVmayn
+p37
+I1
+sVconnects
+p38
+I1
+sVuhh
+p39
+I3
+sVfees
+p40
+I1
+sVmention
+p41
+I1
+sVgame
+p42
+I1
+sVevery
+p43
+I2
+sVknow
+p44
+I2
+sVfam
+p45
+I1
+sVcd
+p46
+I1
+sVreap
+p47
+I1
+sVpies
+p48
+I1
+sVname
+p49
+I1
+sVlike
+p50
+I4
+sVlost
+p51
+I1
+sVmiami
+p52
+I1
+sVcrawled
+p53
+I1
+sVbrother
+p54
+I1
+sVsuits
+p55
+I1
+sVsoftly
+p56
+I1
+sValways
+p57
+I2
+sVthrough
+p58
+I1
+sVyall
+p59
+I1
+sVclothes
+p60
+I2
+sVsew
+p61
+I1
+sVbars
+p62
+I1
+sVnigga
+p63
+I3
+sVold
+p64
+I1
+sVfish
+p65
+I1
+sVstreets
+p66
+I3
+sVback
+p67
+I3
+sValive
+p68
+I1
+sVstreet
+p69
+I1
+sVlawyer
+p70
+I1
+sVplead
+p71
+I1
+sVhome
+p72
+I1
+sVfolk
+p73
+I1
+sVarmy
+p74
+I1
+sVbarbie
+p75
+I1
+sVways
+p76
+I2
+sVsince
+p77
+I1
+sVice
+p78
+I1
+sVlights
+p79
+I1
+sVran
+p80
+I1
+sVhustler
+p81
+I1
+sVdrugs
+p82
+I1
+sVwhassup
+p83
+I1
+sVgot
+p84
+I2
+sVfall
+p85
+I1
+sVcause
+p86
+I3
+sVcorrect
+p87
+I1
+sVdrink
+p88
+I1
+sVwomb
+p89
+I1
+sVbe
+p90
+I1
+sVmillion
+p91
+I1
+sVrun
+p92
+I2
+sVlee
+p93
+I1
+sVnever
+p94
+I33
+sVrepresenter
+p95
+I1
+sVpause
+p96
+I1
+sVlet
+p97
+I1
+sVwhoa
+p98
+I2
+sVsixty
+p99
+I1
+sVteach
+p100
+I1
+sVstay
+p101
+I1
+sVchange
+p102
+I22
+sVwalk
+p103
+I1
+sVcop
+p104
+I1
+sVyup
+p105
+I2
+sVill
+p106
+I1
+sVchanged
+p107
+I1
+sVdays
+p108
+I2
+sVkeep
+p109
+I3
+sVthing
+p110
+I1
+sVamount
+p111
+I1
+sVsmoke
+p112
+I1
+sVtomb
+p113
+I1
+sVfuckin
+p114
+I2
+sVfirst
+p115
+I2
+sVflood
+p116
+I1
+sVlove
+p117
+I3
+sVfamily
+p118
+I2
+sVbricks
+p119
+I1
+sVpays
+p120
+I2
+sVone
+p121
+I2
+sVfeet
+p122
+I1
+sVjayz
+p123
+I1
+sVpromise
+p124
+I1
+sVgave
+p125
+I1
+sVcarry
+p126
+I1
+sVrespect
+p127
+I1
+sVcrime
+p128
+I4
+sValong
+p129
+I1
+sVspeak
+p130
+I2
+sVcity
+p131
+I1
+sVstrong
+p132
+I1
+sVheads
+p133
+I1
+sVhes
+p134
+I2
+sVarms
+p135
+I1
+sVnext
+p136
+I1
+sVstuck
+p137
+I2
+sVcall
+p138
+I1
+sVhustlin
+p139
+I2
+sVcrews
+p140
+I1
+sVmusic
+p141
+I1
+sVdoom
+p142
+I1
+sVtryin
+p143
+I1
+sVdogs
+p144
+I1
+sVbullshit
+p145
+I1
+sVlife
+p146
+I1
+sVeducated
+p147
+I1
+sVthat
+p148
+I1
+sVskreet
+p149
+I1
+sVcup
+p150
+I1
+sVcoke
+p151
+I2
+sVproperly
+p152
+I1
+sVunderstand
+p153
+I1
+sVdead
+p154
+I1
+sVbroke
+p155
+I1
+sVyungun
+p156
+I1
+sV92
+p157
+I1
+sVsoldiers
+p158
+I1
+sVeat
+p159
+I1
+sVme
+p160
+I2
+sVword
+p161
+I1
+sVroom
+p162
+I1
+sVrival
+p163
+I1
+sVniggaz
+p164
+I1
+sVwar
+p165
+I1
+sVtaught
+p166
+I1
+sVstories
+p167
+I1
+sVatari
+p168
+I1
+sVknocked
+p169
+I1
+sVblack
+p170
+I1
+sVta
+p171
+I1
+sVritual
+p172
+I1
+sVthatll
+p173
+I1
+sVclip
+p174
+I1
+sVgive
+p175
+I1
+sVwasnt
+p176
+I1
+sVpass
+p177
+I1
+sVfuck
+p178
+I1
+sVdeep
+p179
+I2
+sVim
+p180
+I6
+sVpromised
+p181
+I1
+sVrap
+p182
+I1
+sVplayin
+p183
+I1
+sVthroat
+p184
+I1
+sVcrew
+p185
+I1
+sVsmellin
+p186
+I1
+sVeveryday
+p187
+I1
+sVtaj
+p188
+I1
+sVsis
+p189
+I1
+sVwinter
+p190
+I1
+sVcredit
+p191
+I1
+sVdishonor
+p192
+I1
+sVhov
+p193
+I4
+sVkirk
+p194
+I1
+sVweek
+p195
+I1
+sVwelcome
+p196
+I1
+sVweed
+p197
+I1
+sVa1
+p198
+I1
+sVimportant
+p199
+I1
+sVeight
+p200
+I1
+sVmothy
+p201
+I1
+sVknee
+p202
+I1
+sVneeded
+p203
+I1
+sVrobbed
+p204
+I1
+sVe
+I1
+sVlonger
+p205
+I1
+sVki
+p206
+I1
+sVthreesixtyfive
+p207
+I1
+sVwell
+p208
+I1
+sVdog
+p209
+I1
+sVst
+p210
+I1
+sVdrunks
+p211
+I1
+sVcomes
+p212
+I1
+sVthats
+p213
+I5
+sVfact
+p214
+I1
+s.

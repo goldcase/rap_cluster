@@ -1,64 +1,362 @@
-"lighters up" lyrics
-snoop dogg lyrics
-"lighters up"
-(feat. mavado, popcaan)
-ayyyyy!!! gully god, snoop dogg
-anywaaayyyyy!!! ayyyyy!!! come on! gully!!!!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified, come on and ride with us!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified! high!!!!!!!!
-we a keep up instance pon di same
-eastside and di westside come in
-yardman inna di place, yuh know we eva clean
-highgrade flow through we bloodstream
-di goons dem out di grisl dem out we love di chemistry
-we makin money fuck di guns we nuh waan nuh enemy
-come mek we do this 'til a mornin not 'til it touch dawn
-and, link up wid mi, all ends meet
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified, come on and ride with us!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified! high!!!!!!!!
-high! ain't no dividin us we choose the destiny
-and we don't need no negative to get the best of me
-yeah! love and unity alone can get to me
-or if a girl, need me
-so if you know alot of love we spread put your light up
-fi a better day yuh try and get a brighter love
-ghetto yutes stop the war make no shots no buss
-buss a blank and light the bastard up! yeah!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified, come on and ride with us!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified! high!!!!!!!!
-ay! togetha mek di chedda, show love to one anodda
-every man fi live like bredda
-unity is di strength fi we mek it betta help yuh bredda up di ladda
-love in every country and....
-snoop dogg and popcaan dem dun get di vision
-so we all can live inna one, bun division
-go spread di news pon di television
-put up yuh lighter and wave yuh hands, so
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified, come on and ride with us!
-put your lighters up!!!
-get high with me, fly with me, ain't no dividin us
-eastside, westside, northside, southside
-unified! high!!!!!!!!
-this one is about unity yuh know!
-gully god, snoop dogg
+(dp1
+Vnorthside
+p2
+I8
+sVgully
+p3
+I3
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVunified
+p6
+I8
+sVmoney
+p7
+I1
+sVhands
+p8
+I1
+sVtouch
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I9
+sVbuss
+p12
+I2
+sVshow
+p13
+I1
+sVbetter
+p14
+I1
+sVbrighter
+p15
+I1
+sVspread
+p16
+I2
+sVchoose
+p17
+I1
+sVyutes
+p18
+I1
+sVfly
+p19
+I8
+sVmornin
+p20
+I1
+sVdi
+p21
+I13
+sVstop
+p22
+I1
+sVwave
+p23
+I1
+sVgoons
+p24
+I1
+sVevery
+p25
+I2
+sVknow
+p26
+I3
+sVlighter
+p27
+I1
+sVsouthside
+p28
+I8
+sVhighgrade
+p29
+I1
+sVday
+p30
+I1
+sVghetto
+p31
+I1
+sVenemy
+p32
+I1
+sVlike
+p33
+I1
+sVeva
+p34
+I1
+sVladda
+p35
+I1
+sVbetta
+p36
+I1
+sVtry
+p37
+I1
+sVshots
+p38
+I1
+sVvision
+p39
+I1
+sVdividin
+p40
+I9
+sVyeah
+p41
+I2
+sVgo
+p42
+I1
+sVchedda
+p43
+I1
+sVnuh
+p44
+I2
+sVdawn
+p45
+I1
+sVbest
+p46
+I1
+sVdestiny
+p47
+I1
+sVgod
+p48
+I2
+sVwaan
+p49
+I1
+sVyardman
+p50
+I1
+sVguns
+p51
+I1
+sVends
+p52
+I1
+sVmek
+p53
+I3
+sVanodda
+p54
+I1
+sValone
+p55
+I1
+sVnews
+p56
+I1
+sVcome
+p57
+I7
+sVtogetha
+p58
+I1
+sVwestside
+p59
+I9
+sVdun
+p60
+I1
+sVcountry
+p61
+I1
+sVeastside
+p62
+I9
+sVkeep
+p63
+I1
+sVyuh
+p64
+I6
+sVplace
+p65
+I1
+sValot
+p66
+I1
+sVbloodstream
+p67
+I1
+sVgrisl
+p68
+I1
+sVwid
+p69
+I1
+sVlove
+p70
+I6
+sVdont
+p71
+I1
+sVmakin
+p72
+I1
+sVone
+p73
+I3
+sVpon
+p74
+I2
+sVput
+p75
+I10
+sVblank
+p76
+I1
+sVsnoop
+p77
+I4
+sVdogg
+p78
+I4
+sVnegative
+p79
+I1
+sVlive
+p80
+I2
+sVwar
+p81
+I1
+sVlighters
+p82
+I10
+sVlink
+p83
+I1
+sVpopcaan
+p84
+I2
+sVme
+p85
+I3
+sVtelevision
+p86
+I1
+sVride
+p87
+I4
+sVmi
+p88
+I1
+sVup
+p89
+I10
+sVus
+p90
+I13
+sVdem
+p91
+I3
+sVmeet
+p92
+I1
+sVand
+p93
+I1
+sVinna
+p94
+I2
+sVdivision
+p95
+I1
+sVfuck
+p96
+I1
+sVhigh
+p97
+I13
+sVay
+p98
+I1
+sVin
+p99
+I1
+sVneed
+p100
+I2
+sVbredda
+p101
+I2
+sVgirl
+p102
+I1
+sVbastard
+p103
+I1
+sVstrength
+p104
+I1
+sVmake
+p105
+I1
+sVget
+p106
+I12
+sVsame
+p107
+I1
+sVtil
+p108
+I2
+sVinstance
+p109
+I1
+sVunity
+p110
+I3
+sVayyyyy
+p111
+I2
+sVmavado
+p112
+I1
+sVfi
+p113
+I3
+sVman
+p114
+I1
+sVlight
+p115
+I2
+sVflow
+p116
+I1
+sVanywaaayyyyy
+p117
+I1
+sVso
+p118
+I1
+sVclean
+p119
+I1
+sVbun
+p120
+I1
+sVchemistry
+p121
+I1
+s.

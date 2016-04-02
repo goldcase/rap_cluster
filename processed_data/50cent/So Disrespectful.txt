@@ -1,66 +1,585 @@
-"so disrespectful" lyrics
-50 cent lyrics
-"so disrespectful"
-i'm so disrespectful, so so so disrespectful
-i'm so disrespectful, so so so disrespectful
-your daddy fucked your mama then fucked your sister
-then climbed in your bed playin with your shitter
-go 'head, take your belt off and hang yourself
-matter a fact, grab your strap and bang yourself
-jay's a big man, he's too big to respond
-i'm a big dick you know the one everybody on
-you 'gon make me sing murder was the case
-bullets ricochet ping ping should you start to face
-i'm international i'm never home mayne!
-i've been gone so long my accent changed
-you better watch who you fuck with mate
-or you 'gon make me carve your ass up now straight
-come on game you will never be my equal!
-your homies shoot doors my niggas shoot people!
-see me i'm what you never 'gon be
-i'm in that tax bracket you never 'gon see
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-that nigga buck a fiend, tell momma he done smoked the tv
-i ain't know he fucked with more dope than b.g.
-plus a nigga sipped more syrup than pimp c
-man keepin these muthafuckers rich ain't easy
-especially when a nigga wanna stunt like jeezy
-and his cds' didn't sell like his cds'
-man, that nigga blew all of his chips on dem breezies
-mad 'cause the world won't treat him like weezy
-look i don't give a fuck, nigga please believe me
-no nigga in no vocal booth around can see me
-it's crazy how i make this shit look oh so easy
-they say, "50?, naw i don't fuck with him, he oh so greasy
-yeah, he used to share that paper now he oh so greedy"
-it's funny how they shit on me, 'cause then they need me
-see me i'm number one, i'm loadin up my gun
-i catch ya if you done, you pussy nigga run
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-they say first comes love, then comes marriage
-instead i got shaniqua n' a baby carriage
-then came the cash, then the baby mama drama
-i gave that bitch a half a mill she blew it on prada
-i remember when i met the bitch and she ain't have nada
-got my son on some fly shit, now i gotta buy shit
-man i can't even flaunt shit cause everybody want shit
-everybody mad, damn even my dad
-and i don't even know him now how the fuck i owe him?!
-i ain't given' nobody shit i'm a show them
-i gave game hits, he told me to suck dick
-start screamin' westside and dre ain't say shit!
-now we just eat off him, and when i talk to em
-a smile comes on his face, he told me here's the case
-enemies stay enemies but friends they change
-niggas go crazy over money my mayne!
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-when you cross me, i'm so disrespectful, so so so disrespectful
-see! i get so disrespectful, so so so disrespectful
-see!
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVloadin
+p4
+I1
+sVmoney
+p5
+I1
+sVhalf
+p6
+I1
+sVbreezies
+p7
+I1
+sVpaper
+p8
+I1
+sVflaunt
+p9
+I1
+sVcds
+p10
+I2
+sVgo
+p11
+I2
+sVtalk
+p12
+I1
+sVmill
+p13
+I1
+sVaint
+p14
+I5
+sVtv
+p15
+I1
+sVdick
+p16
+I2
+sVbetter
+p17
+I1
+sVrich
+p18
+I1
+sVhomies
+p19
+I1
+sVcarve
+p20
+I1
+sVsmile
+p21
+I1
+sVnaw
+p22
+I1
+sVdad
+p23
+I1
+sVcase
+p24
+I2
+sVthem
+p25
+I1
+sVaround
+p26
+I1
+sVdisrespectful
+p27
+I30
+sVget
+p28
+I6
+sVya
+p29
+I1
+sVbig
+p30
+I3
+sVdope
+p31
+I1
+sVwatch
+p32
+I1
+sVjeezy
+p33
+I1
+sVme
+p34
+I3
+sVbang
+p35
+I1
+sVknow
+p36
+I3
+sVgot
+p37
+I3
+sVstunt
+p38
+I1
+sVone
+p39
+I2
+sVchips
+p40
+I1
+sVhim
+p41
+I1
+sVwont
+p42
+I1
+sVlike
+p43
+I3
+sVpimp
+p44
+I1
+sVhits
+p45
+I1
+sV50
+p46
+I2
+sVgrab
+p47
+I1
+sVbitch
+p48
+I2
+sVrespond
+p49
+I1
+sVblew
+p50
+I2
+sVnigga
+p51
+I7
+sVpeople
+p52
+I1
+sVnobody
+p53
+I1
+sVyeah
+p54
+I1
+sVgun
+p55
+I1
+sVsee
+p56
+I11
+sVweezy
+p57
+I1
+sVvocal
+p58
+I1
+sVcant
+p59
+I1
+sVhome
+p60
+I1
+sVenemies
+p61
+I2
+sVeven
+p62
+I3
+sVgon
+p63
+I4
+sVheres
+p64
+I1
+sVplease
+p65
+I1
+sVmate
+p66
+I1
+sVprada
+p67
+I1
+sVinternational
+p68
+I1
+sVcause
+p69
+I3
+sVtold
+p70
+I2
+sVass
+p71
+I1
+sVbe
+p72
+I1
+sVbg
+p73
+I1
+sVrun
+p74
+I1
+sVnever
+p75
+I4
+sVmayne
+p76
+I2
+sVgreedy
+p77
+I1
+sVstrap
+p78
+I1
+sVmet
+p79
+I1
+sVsing
+p80
+I1
+sVcome
+p81
+I1
+sVsipped
+p82
+I1
+sVchange
+p83
+I1
+sVgreasy
+p84
+I1
+sVbaby
+p85
+I2
+sVbuck
+p86
+I1
+sVsister
+p87
+I1
+sVworld
+p88
+I1
+sVoh
+p89
+I3
+sVchanged
+p90
+I1
+sVequal
+p91
+I1
+sVscreamin
+p92
+I1
+sVdrama
+p93
+I1
+sVplus
+p94
+I1
+sVbullets
+p95
+I1
+sVdre
+p96
+I1
+sVcomes
+p97
+I3
+sVfirst
+p98
+I1
+sVem
+p99
+I1
+sVlove
+p100
+I1
+sVdont
+p101
+I3
+sVgone
+p102
+I1
+sVowe
+p103
+I1
+sVpussy
+p104
+I1
+sVnumber
+p105
+I1
+sVyourself
+p106
+I2
+sVmomma
+p107
+I1
+sVdone
+p108
+I2
+sVcent
+p109
+I1
+sVgave
+p110
+I2
+sVjays
+p111
+I1
+sVbelt
+p112
+I1
+sVeverybody
+p113
+I3
+sVwan
+p114
+I1
+sVgiven
+p115
+I1
+sVhes
+p116
+I1
+sVwestside
+p117
+I1
+sVaccent
+p118
+I1
+sVlong
+p119
+I1
+sVstart
+p120
+I2
+sVdamn
+p121
+I1
+sVtreat
+p122
+I1
+sVmama
+p123
+I2
+sVsyrup
+p124
+I1
+sVtell
+p125
+I1
+sVhead
+p126
+I1
+sVmurder
+p127
+I1
+sVeasy
+p128
+I2
+sVon
+p129
+I1
+sVshare
+p130
+I1
+sVfiend
+p131
+I1
+sVc
+I1
+sVmuthafuckers
+p132
+I1
+sVcatch
+p133
+I1
+sVbelieve
+p134
+I1
+sVeat
+p135
+I1
+sVremember
+p136
+I1
+sVshoot
+p137
+I2
+sVlook
+p138
+I2
+sVniggas
+p139
+I2
+sVstraight
+p140
+I1
+sVshow
+p141
+I1
+sVcash
+p142
+I1
+sVbed
+p143
+I1
+sVn
+I1
+sVmatter
+p144
+I1
+sVcarriage
+p145
+I1
+sVmarriage
+p146
+I1
+sVdem
+p147
+I1
+sVdaddy
+p148
+I1
+sVdidnt
+p149
+I1
+sVbooth
+p150
+I1
+sVive
+p151
+I1
+sVcrazy
+p152
+I2
+sVclimbed
+p153
+I1
+sVgive
+p154
+I1
+sVtax
+p155
+I1
+sVfuck
+p156
+I4
+sVfly
+p157
+I1
+sVsay
+p158
+I3
+sVbuy
+p159
+I1
+sVim
+p160
+I16
+sVwant
+p161
+I1
+sVplayin
+p162
+I1
+sVneed
+p163
+I1
+sVricochet
+p164
+I1
+sVshit
+p165
+I8
+sVsell
+p166
+I1
+sVfunny
+p167
+I1
+sVna
+p168
+I1
+sVmake
+p169
+I3
+sVping
+p170
+I2
+sVcross
+p171
+I6
+sVtake
+p172
+I1
+sVdoors
+p173
+I1
+sVinstead
+p174
+I1
+sVnada
+p175
+I1
+sVshaniqua
+p176
+I1
+sVused
+p177
+I1
+sVhang
+p178
+I1
+sVstay
+p179
+I1
+sVkeepin
+p180
+I1
+sVshitter
+p181
+I1
+sVmad
+p182
+I2
+sVfucked
+p183
+I3
+sVsuck
+p184
+I1
+sVfriends
+p185
+I1
+sVman
+p186
+I4
+sVespecially
+p187
+I1
+sVta
+p188
+I1
+sVgame
+p189
+I2
+sVface
+p190
+I2
+sVbracket
+p191
+I1
+sVcame
+p192
+I1
+sVsmoked
+p193
+I1
+sVfact
+p194
+I1
+s.

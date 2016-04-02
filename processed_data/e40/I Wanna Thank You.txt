@@ -1,103 +1,808 @@
-"i wanna thank you" lyrics
-e-40 lyrics
-"i wanna thank you"
-(feat. suga t)
-1: i wanna thank you, pimps and players
-2: for sharing your game with me
-3: i wanna thank all.. of the hustlers
-4: for showing me your life, on the street
-5: and i know.. that'll i never
-6: for-get you
-7: oooo-oooo-ooooh, forget about you
-8: ohhh-ohh-ohh
-3: all the hustlers
-4: c'mon, that's right
-5: and i know .. that'll i never..
-6: forget you
-7: sprinkle me mayne
-8: uhh, sprinkle me mayne
-ahh.. laced up by the best, check it out..
-uhh, marinatin on the corner with a chip in his phone
-you can tell that the hillside was his home
-mo' scrill than the rest of the pushers
-cause he got a chop suey in the bushes
-dice game, craps, puffin on taylors drinkin boilermakers
-m.d. 20/20 mixed with boone's, farm's, and olde english
-around the clock, deuce-four-seven, three-sixty-fifth
-(??) where i come (??) dead right, twerkin over shit
-business boomin off the buzzer, and i'm a happy camper
-til the homey beat his bootch down for no reason with the zenith hammer
-thangs started gettin sloppy, dude started rollin over
-niggaz started steppin on dope and stretchin the crack synthetic yola
-turf got hot hella heads got shot on dead body soil
-po'-po's on that ass like hot baby oil
-play your cards right son everybody can have cash
-but you gotta get in and out if you expect 'em to last
-1: uhh.. pimps and players
-2: for sharing your game with me
-3: all the hustlers
-4: fo' showin me yo' life on the streets
-5: and i know .. that'll i never..
-6: forget you, that's real
-7: sprinkle me mayne
-8: lace me mayne
-*: lace me mayne..
-i was sprinkled at a young age
-laced down with trump tight, taught by the best
-some of them still livin, some of them done been put to rest
-but i was blessed, and luckily i made it out
-but i must confess, i wouldn'ta made it without
-the big timers, the top-hats, the tycoons
-the street hustlers, the pistol packin daniel boone's
-that put it down and paved the way, for me to say
-the things i say, and i'm proud to be straight from the yay
-to u.k.(?) i spits this big time talkin shit all day
-nationwide, from where i stay to where you stay
-b like the savage beast, keep yo' game creased
-stick to the rules and don't be sellin out to no police
-i always paid attention when the game was preached
-had all the street slang and the latest speech
-and now i'm makin more mail than a oil well
-up all night tryin to get my money orders right
-1: uh, uh.. pimps and players (pimps and players)
-2: for sharing your game with me
-3: all the hustlers
-4: c'mon (c'mon) fo' showin me yo' life on the streets
-5: and i know .. that'll i never..
-6: forget you, that's so damn real
-7: sprinkle me mayne
-8: sprinkle me mayne
-*: suga, sprinkle me gal
-*: suga.. c'mon uh, sprinkle me gal
-it started from my momma (yo' momma?) hard headed and all
-she said, "only the strong survive, suga stay strong"
-seein a bunch of fools, that used to ride
-smob, stay jobbin knew they was raw
-without a pot to piss in
-used to drive through the turf in them candy paint benzes
-i've run all this game that the hustlers pop
-spittin enough game to keep a notch on the jock
-now the game's the same, but the players changed
-ain't nothin but a thang, keep it real mayne
-timer timer (timer timer)
-uhh, yeah, that's my nogga - sprinkle thee
-paper chasin steady flowin to the dome
-it ain't no place like home, oooh oooh
-pay my respects and give my contributions
-to all the soldiers on the streets and in the institutions
-1: insti-tutions {i wanna thank you, pimps and players} that's right
-2: fo' sharin yo' game with me
-3: uhh {yeahhh.. ooh ooh ooh} all the hustlers
-4: that's so damn real
-5: and i know .. that'll i never..
-6: {forget you} forget you
-7: lace me mayne, sprinkle me mayne {and that's real}
-8: c'mon, sprinkle me mayne {yeah} that's right
-*: lace me mayne.. {sprinkle thee}
-that right? forty-water, from the c-l-i-c-k
-with my sista suga t
-lettin y'all know how we do it up in the yay
-7-0-7 4-1-5 1-0
-that's the car(?) i roll with
-and it goes for all the hustlers nationwide
-pimpin players, for tyin my shoes and lacin me up
+(dp1
+Vthings
+p2
+I1
+sVall
+p3
+I1
+sVshot
+p4
+I1
+sVforget
+p5
+I7
+sVlyrics
+p6
+I2
+sVmoney
+p7
+I1
+sVover
+p8
+I1
+sVstretchin
+p9
+I1
+sVrest
+p10
+I2
+sVhillside
+p11
+I1
+sVfarms
+p12
+I1
+sVpaper
+p13
+I1
+sVgoes
+p14
+I1
+sVcorner
+p15
+I1
+sVstill
+p16
+I1
+sVfeat
+p17
+I1
+sVlace
+p18
+I4
+sVdrinkin
+p19
+I1
+sVtil
+p20
+I1
+sVlaced
+p21
+I2
+sVpolice
+p22
+I1
+sVthank
+p23
+I5
+sVthang
+p24
+I1
+sVchasin
+p25
+I1
+sVthreesixtyfifth
+p26
+I1
+sVyoung
+p27
+I1
+sVknew
+p28
+I1
+sVshoes
+p29
+I1
+sVspits
+p30
+I1
+sVsista
+p31
+I1
+sV4
+I5
+sVcrack
+p32
+I1
+sV8
+I5
+sVboilermakers
+p33
+I1
+sVride
+p34
+I1
+sVta
+p35
+I1
+sVreal
+p36
+I5
+sVpay
+p37
+I1
+sVaround
+p38
+I1
+sVboomin
+p39
+I1
+sVtwerkin
+p40
+I1
+sVbeat
+p41
+I1
+sVbig
+p42
+I2
+sVshowing
+p43
+I1
+sVhard
+p44
+I1
+sVuhh
+p45
+I5
+sVsloppy
+p46
+I1
+sVtyin
+p47
+I1
+sVgame
+p48
+I9
+sVb
+I1
+sVspittin
+p49
+I1
+sVknow
+p50
+I6
+sVday
+p51
+I1
+sVsuey
+p52
+I1
+sVpackin
+p53
+I1
+sVlike
+p54
+I3
+sValways
+p55
+I1
+sVgettin
+p56
+I1
+sVbenzes
+p57
+I1
+sVpopos
+p58
+I1
+sVtalkin
+p59
+I1
+sV415
+p60
+I1
+sVt
+I2
+sVnight
+p61
+I1
+sVbunch
+p62
+I1
+sVpiss
+p63
+I1
+sVstraight
+p64
+I1
+sVyall
+p65
+I1
+sVbuzzer
+p66
+I1
+sVass
+p67
+I1
+sVright
+p68
+I7
+sVyola
+p69
+I1
+sVpreached
+p70
+I1
+sVoooh
+p71
+I2
+sVsteady
+p72
+I1
+sVwouldnta
+p73
+I1
+sVstreets
+p74
+I3
+sVplay
+p75
+I1
+sVdead
+p76
+I2
+sVup
+p77
+I1
+sVooooooooooooh
+p78
+I1
+sVstreet
+p79
+I3
+sVsteppin
+p80
+I1
+sVexpect
+p81
+I1
+sVsoldiers
+p82
+I1
+sVhome
+p83
+I2
+sVpot
+p84
+I1
+sVhammer
+p85
+I1
+sVclick
+p86
+I1
+sVbest
+p87
+I2
+sVout
+p88
+I2
+sVsavage
+p89
+I1
+sVsaid
+p90
+I1
+sVnationwide
+p91
+I2
+sVclock
+p92
+I1
+sVcontributions
+p93
+I1
+sVconfess
+p94
+I1
+sVsharin
+p95
+I1
+sV3
+I5
+sVdaniel
+p96
+I1
+sV7
+I5
+sVpushers
+p97
+I1
+sVtycoons
+p98
+I1
+sVgot
+p99
+I4
+sVpistol
+p100
+I1
+sVcause
+p101
+I1
+sVsurvive
+p102
+I1
+sVsmob
+p103
+I1
+sVbody
+p104
+I1
+sVsynthetic
+p105
+I1
+sVattention
+p106
+I1
+sVrun
+p107
+I1
+sVbusiness
+p108
+I1
+sVnever
+p109
+I5
+sVsuga
+p110
+I5
+sVmayne
+p111
+I12
+sVmarinatin
+p112
+I1
+sVdome
+p113
+I1
+sVreason
+p114
+I1
+sVput
+p115
+I2
+sVyay
+p116
+I2
+sVstrong
+p117
+I2
+sVcome
+p118
+I1
+sVcandy
+p119
+I1
+sVdice
+p120
+I1
+sVbushes
+p121
+I1
+sVbeast
+p122
+I1
+sVlast
+p123
+I1
+sVchanged
+p124
+I1
+sVboones
+p125
+I2
+sVused
+p126
+I2
+sVkeep
+p127
+I3
+sVchop
+p128
+I1
+sVplayers
+p129
+I7
+sVpuffin
+p130
+I1
+sVgames
+p131
+I1
+sVmixed
+p132
+I1
+sVturf
+p133
+I2
+sVscrill
+p134
+I1
+sVthats
+p135
+I9
+sVtophats
+p136
+I1
+sVem
+p137
+I1
+sVdeucefourseven
+p138
+I1
+sVdont
+p139
+I1
+sVheaded
+p140
+I1
+sVahh
+p141
+I1
+sV707
+p142
+I1
+sVlacin
+p143
+I1
+sVblessed
+p144
+I1
+sVpop
+p145
+I1
+sVson
+p146
+I1
+sVmomma
+p147
+I2
+sVdone
+p148
+I1
+sVcraps
+p149
+I1
+sVtrump
+p150
+I1
+sVeverybody
+p151
+I1
+sVwan
+p152
+I5
+sVheads
+p153
+I1
+sVseein
+p154
+I1
+sVaint
+p155
+I2
+sVfortywater
+p156
+I1
+sVdude
+p157
+I1
+sVpaint
+p158
+I1
+sV2
+I4
+sVolde
+p159
+I1
+sVway
+p160
+I1
+sV6
+I5
+sVdamn
+p161
+I2
+sVtryin
+p162
+I1
+sVtell
+p163
+I1
+sVhappy
+p164
+I1
+sVlife
+p165
+I3
+sVsharing
+p166
+I3
+sVpimpin
+p167
+I1
+sVenough
+p168
+I1
+sVstarted
+p169
+I4
+sVooh
+p170
+I3
+sVfools
+p171
+I1
+sVphone
+p172
+I1
+sVluckily
+p173
+I1
+sVgal
+p174
+I2
+sVstick
+p175
+I1
+sVmail
+p176
+I1
+sVbaby
+p177
+I1
+sVwith
+p178
+I1
+sVmust
+p179
+I1
+sVme
+p180
+I4
+sVmd
+p181
+I1
+sVe40
+p182
+I1
+sVmade
+p183
+I2
+sVjobbin
+p184
+I1
+sVcar
+p185
+I1
+sVmo
+p186
+I1
+sVhomey
+p187
+I1
+sVcash
+p188
+I1
+sVniggaz
+p189
+I1
+sVtaught
+p190
+I1
+sV2020
+p191
+I1
+sVuh
+p192
+I3
+sVuk
+p193
+I1
+sVcards
+p194
+I1
+sVpaved
+p195
+I1
+sVive
+p196
+I1
+sVcmon
+p197
+I5
+sVmakin
+p198
+I1
+sVthatll
+p199
+I5
+sVzenith
+p200
+I1
+sVgive
+p201
+I1
+sVshowin
+p202
+I2
+sVsoil
+p203
+I1
+sVchip
+p204
+I1
+sVspeech
+p205
+I1
+sVroll
+p206
+I1
+sVraw
+p207
+I1
+sVsay
+p208
+I2
+sVim
+p209
+I3
+sVnothin
+p210
+I1
+sVin
+p211
+I1
+sVcreased
+p212
+I1
+sVnogga
+p213
+I1
+sVcheck
+p214
+I1
+sVshit
+p215
+I2
+sVlivin
+p216
+I1
+sVlettin
+p217
+I1
+sVhustlers
+p218
+I8
+sVyo
+p219
+I5
+sVsellin
+p220
+I1
+sVna
+p221
+I5
+sVget
+p222
+I2
+sVorders
+p223
+I1
+sV1
+I4
+sVtight
+p224
+I1
+sVhot
+p225
+I2
+sVsprinkled
+p226
+I1
+sV5
+I5
+sVyeahhh
+p227
+I1
+sVplace
+p228
+I1
+sVyou
+p229
+I5
+sVtaylors
+p230
+I1
+sVdope
+p231
+I1
+sV10
+p232
+I1
+sVtimer
+p233
+I4
+sVsprinkle
+p234
+I11
+sVoil
+p235
+I2
+sVthee
+p236
+I2
+sVohhhohhohh
+p237
+I1
+sVrespects
+p238
+I1
+sVtime
+p239
+I1
+sVcamper
+p240
+I1
+sVpaid
+p241
+I1
+sVstay
+p242
+I4
+sVpimps
+p243
+I5
+sVflowin
+p244
+I1
+sVslang
+p245
+I1
+sVfo
+p246
+I3
+sVyeah
+p247
+I2
+sVnotch
+p248
+I1
+sVrules
+p249
+I1
+sVage
+p250
+I1
+sVproud
+p251
+I1
+sVwell
+p252
+I1
+sVdrive
+p253
+I1
+sVrollin
+p254
+I1
+sVwithout
+p255
+I2
+sVthangs
+p256
+I1
+sVhella
+p257
+I1
+sVtimers
+p258
+I1
+sVenglish
+p259
+I1
+sVjock
+p260
+I1
+sVbootch
+p261
+I1
+sVinstitutions
+p262
+I2
+sVlatest
+p263
+I1
+s.

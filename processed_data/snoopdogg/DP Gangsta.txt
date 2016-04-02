@@ -1,100 +1,797 @@
-"dp gangsta" lyrics
-snoop dogg lyrics
-"dp gangsta"
-(feat. c-murder, eddie griffin)
-this is a service public announcement going out to all the paper haters
-now sure sure sure your broke sure sure sure your having problems
-food stamps didn't come on time and the lights have been cut off
-but look here
-here's a little something about a nigga like me
-i never should have been let out the penitentiary
-snoop dogg would like to say
-that i'm a crazy motherfucker when i'm playing with my ak
-since i was a youth i smoked weed out
-now i'm that motherfucker y'all read about
-smoking you and your crew, taking a life or two
-you dont like how i'm living well fuck you
-this is my gang nigga no limit
-my nigga c will fuck you up in a minute
-with the pow pow bang bang and your dead
-and then we stamp that tank on your forehead
-everywhere we go they say "damn"
-them gangstas they be fucking up the program
-and then you realize we dont care
-we dont just say no we to busy saying yeah
-about drinking straight out the ???? bottle
-do i look like a motherfucking role model
-to a kid looking up to me
-shit life aint nothing but weed and money
-shit i'm that type of nigga that's quick to blast
-fuck with me or c and i'll put my foot in your ass
-i dont give a fuck cause i keep selling
-yo what the fuck are the yelling
-gangsta gangsta thats what the yelling
-niggas living rowdy and stay bout it bout it
-gangsta gangsta thats what the selling
-bitches want to buy it cause they love that straight g shit
-homies all standing around just hanging
-some dope dealing some gang banging
-we decide to roll a week deep
-seen a nigga on dayton so we creep
-real slow, in you before you know
-i had my double pointing at his window
-he got scared and hit the gas
-right then i knew i had to smoke his ass
-he kept rolling i jumped in the bucket
-we couldn't catch him so i said fuck it
-then we headed right back to ????
-sweating all the bitches in the dazzy dukes
-we couldn't no play from the ladies
-with seven niggas in a nav is you crazy
-she was scared and it was showing
-so we all said "fuck you bitch" and kept rolling
-to the hood now we was 'fen to
-find something else to get into
-like some pussy or in fact
-getting rowdy, shit but we caught the rat pack
-on a nigga cold nutting it off
-snoop dogg gets ignorant when i'm fucking with my tank dogs
-i might stumble and still wont lose
-now i'm draped in my gangsta blue's
-cause i'm the type of nigga who's quick to blast
-fuck with me or c and i'll blast your ass
-see i dont give a fuck cause i keep bailing
-yo what the fuck are they yelling
-hol hold on craig b cut that shit man
-man fuck that we need some gangsta in this motherfucker some other that
-south shit know what i'm saying
-some of that shit from the thiz-ird ya heard me
-here's another gangsta down to ride
-a t-shirt and levi's is his only disguise
-he represents the tank but yet hard to hit
-snoop dogg and c-murder with this gangsta shit
-well i'm c-murder the one he talking about
-nigga tried to play me close and got punched in the mouth
-fed's tried to get me you know they some haters
-i said "see you later" jumped in the navigator
-with the $50's in the back with the navy blue top
-tru niggas on the scene with the triple beam
-cause i'm the c fool i slang and snoop bang
-and i'll smoke a motherfucker like it aint no thing
-to all my bitches, i know your jocking my crew
-we want to fuck you c
-i want to fuck you too
-you see no limit niggas dont take no shit
-so let me tell you motherfuckers who you fucking with
-cause i'm the type of nigga that's quick to blast
-if you fuck with me, i'm a smoke your ass
-i dont give a fuck cause no limit stay selling
-yo what the fuck are they yelling
-if you'd of just stay down and been a motherfuckers real partner you
-wouldn't have had tat problem
-but seeing as you want to jump ship and you thought the ship would sink
-a motherfucker without turning into a submarine, went under water came
-back up with a periscope looking at your bitch ass
-now you have no paper, and now you on a paper caper
-now you coming up to my face and your saying "hey can i hangout" i say
-no cause you aint got no clout bitch get out
-now i'm tired of all you silly as motherfucking paper chasing hoes
-uhh this has been a public service announcement from no limit records
-in the doggy dogg world
+(dp1
+Vsaying
+p2
+I3
+sVlyrics
+p3
+I2
+sVseeing
+p4
+I1
+sVya
+p5
+I1
+sVmoney
+p6
+I1
+sVpussy
+p7
+I1
+sVdisguise
+p8
+I1
+sVpaper
+p9
+I4
+sVgang
+p10
+I2
+sVbailing
+p11
+I1
+sVhanging
+p12
+I1
+sVgo
+p13
+I1
+sVcold
+p14
+I1
+sVstill
+p15
+I1
+sVfeat
+p16
+I1
+sVfind
+p17
+I1
+sVaint
+p18
+I3
+sVannouncement
+p19
+I2
+sVgriffin
+p20
+I1
+sVcut
+p21
+I2
+sVpointing
+p22
+I1
+sVcrew
+p23
+I2
+sVto
+p24
+I1
+sVwindow
+p25
+I1
+sVprogram
+p26
+I1
+sVdp
+p27
+I2
+sVhomies
+p28
+I1
+sVdukes
+p29
+I1
+sVgangsta
+p30
+I10
+sVmight
+p31
+I1
+sVtake
+p32
+I1
+sVreal
+p33
+I2
+sVhit
+p34
+I2
+sVaround
+p35
+I1
+sVyo
+p36
+I3
+sVget
+p37
+I3
+sVfood
+p38
+I1
+sVdope
+p39
+I1
+sVuhh
+p40
+I1
+sVscene
+p41
+I1
+sVbeam
+p42
+I1
+sVbang
+p43
+I3
+sVknow
+p44
+I4
+sVdecide
+p45
+I1
+sVfoot
+p46
+I1
+sVworld
+p47
+I1
+sVdrinking
+p48
+I1
+sVblast
+p49
+I4
+sVrealize
+p50
+I1
+sVminute
+p51
+I1
+sVwont
+p52
+I1
+sVrepresents
+p53
+I1
+sVgets
+p54
+I1
+sVshowing
+p55
+I1
+sVlike
+p56
+I6
+sVnutting
+p57
+I1
+sVperiscope
+p58
+I1
+sVlose
+p59
+I1
+sVquick
+p60
+I3
+sVwent
+p61
+I1
+sVhangout
+p62
+I1
+sVtru
+p63
+I1
+sVride
+p64
+I1
+sVyall
+p65
+I1
+sVslow
+p66
+I1
+sVnigga
+p67
+I9
+sVtired
+p68
+I1
+sVfucking
+p69
+I3
+sVdealing
+p70
+I1
+sVscared
+p71
+I2
+sVhard
+p72
+I1
+sVyeah
+p73
+I1
+sVdead
+p74
+I1
+sVjump
+p75
+I1
+sVeddie
+p76
+I1
+sVservice
+p77
+I2
+sVhoes
+p78
+I1
+sVnavy
+p79
+I1
+sVlevis
+p80
+I1
+sVblues
+p81
+I1
+sVnavigator
+p82
+I1
+sVcreep
+p83
+I1
+sVout
+p84
+I2
+sVblue
+p85
+I1
+sVliving
+p86
+I2
+sVsaid
+p87
+I3
+sVheres
+p88
+I2
+sVjumped
+p89
+I2
+sVsince
+p90
+I1
+sVyet
+p91
+I1
+sVlooking
+p92
+I2
+sVlights
+p93
+I1
+sVstamps
+p94
+I1
+sVit
+p95
+I2
+sVgot
+p96
+I3
+sVhold
+p97
+I1
+sVdoggy
+p98
+I1
+sVcause
+p99
+I8
+sVpublic
+p100
+I2
+sVass
+p101
+I5
+sVsweating
+p102
+I1
+sVthizird
+p103
+I1
+sVturning
+p104
+I1
+sVnever
+p105
+I1
+sVmotherfucker
+p106
+I5
+sVhere
+p107
+I1
+sV50s
+p108
+I1
+sVwater
+p109
+I1
+sVbusy
+p110
+I1
+sVlet
+p111
+I2
+sVsink
+p112
+I1
+sVput
+p113
+I1
+sVtalking
+p114
+I1
+sVstay
+p115
+I3
+sVcome
+p116
+I1
+sVcare
+p117
+I1
+sVpartner
+p118
+I1
+sVc
+I5
+sVwould
+p119
+I2
+sVg
+I1
+sVgetting
+p120
+I1
+sVtaking
+p121
+I1
+sVkeep
+p122
+I2
+sVfen
+p123
+I1
+sVsmoke
+p124
+I3
+sVfeds
+p125
+I1
+sVtshirt
+p126
+I1
+sVtop
+p127
+I1
+sVsouth
+p128
+I1
+sVthats
+p129
+I4
+sVmotherfucking
+p130
+I2
+sVladies
+p131
+I1
+sVwouldnt
+p132
+I1
+sVlove
+p133
+I1
+sVdont
+p134
+I7
+sVheaded
+p135
+I1
+sVpow
+p136
+I2
+sVyoud
+p137
+I1
+sVseven
+p138
+I1
+sVclout
+p139
+I1
+sVone
+p140
+I1
+sVrolling
+p141
+I2
+sVright
+p142
+I2
+sVbitch
+p143
+I3
+sVanother
+p144
+I1
+sVcouldnt
+p145
+I2
+sVstumble
+p146
+I1
+sVhood
+p147
+I1
+sVstanding
+p148
+I1
+sVlittle
+p149
+I1
+sVsnoop
+p150
+I5
+sVstamp
+p151
+I1
+sVdogg
+p152
+I5
+sVcaught
+p153
+I1
+sVtwo
+p154
+I1
+sVwhos
+p155
+I1
+sVsubmarine
+p156
+I1
+sVgoing
+p157
+I1
+sVdamn
+p158
+I1
+sVtoo
+p159
+I1
+sVhey
+p160
+I1
+sVcraig
+p161
+I1
+sVman
+p162
+I2
+sVtype
+p163
+I3
+sVdogs
+p164
+I1
+sVback
+p165
+I3
+sVlife
+p166
+I2
+sVselling
+p167
+I3
+sVbitches
+p168
+I3
+sVgas
+p169
+I1
+sVabout
+p170
+I2
+sVfuck
+p171
+I16
+sVdraped
+p172
+I1
+sVeverywhere
+p173
+I1
+sVbroke
+p174
+I1
+sVcatch
+p175
+I1
+sVsmoking
+p176
+I1
+sVhaters
+p177
+I2
+sVwith
+p178
+I1
+sVbout
+p179
+I2
+sVyelling
+p180
+I4
+sVme
+p181
+I3
+sVb
+I1
+sVtank
+p182
+I3
+sVlook
+p183
+I2
+sVniggas
+p184
+I4
+sVdouble
+p185
+I1
+sVstraight
+p186
+I2
+sVbucket
+p187
+I1
+sVrat
+p188
+I1
+sVtell
+p189
+I1
+sVyouth
+p190
+I1
+sVlimit
+p191
+I4
+sVpunched
+p192
+I1
+sVproblem
+p193
+I1
+sVdidnt
+p194
+I1
+sVill
+p195
+I3
+sVpack
+p196
+I1
+sVtat
+p197
+I1
+sVfool
+p198
+I1
+sVcrazy
+p199
+I2
+sVtriple
+p200
+I1
+sVgive
+p201
+I3
+sVrowdy
+p202
+I2
+sVak
+p203
+I1
+sVgangstas
+p204
+I1
+sVcmurder
+p205
+I3
+sVdeep
+p206
+I1
+sVheard
+p207
+I1
+sVsay
+p208
+I4
+sVbuy
+p209
+I1
+sVim
+p210
+I14
+sVsomething
+p211
+I2
+sVwant
+p212
+I4
+sVclose
+p213
+I1
+sVneed
+p214
+I1
+sVseen
+p215
+I1
+sVship
+p216
+I2
+sVface
+p217
+I1
+sVshit
+p218
+I9
+sVthing
+p219
+I1
+sVhol
+p220
+I1
+sVforehead
+p221
+I1
+sVread
+p222
+I1
+sVrole
+p223
+I1
+sVnav
+p224
+I1
+sVsilly
+p225
+I1
+sVyou
+p226
+I1
+sVdazzy
+p227
+I1
+sVroll
+p228
+I1
+sVchasing
+p229
+I1
+sVweek
+p230
+I1
+sVplay
+p231
+I2
+sVsure
+p232
+I6
+sVtried
+p233
+I2
+sVsee
+p234
+I3
+sVdayton
+p235
+I1
+sVknew
+p236
+I1
+sVproblems
+p237
+I1
+sVweed
+p238
+I2
+sVkept
+p239
+I2
+sVmouth
+p240
+I1
+sVrecords
+p241
+I1
+sVcoming
+p242
+I1
+sVnothing
+p243
+I1
+sVelse
+p244
+I1
+sVslang
+p245
+I1
+sVkid
+p246
+I1
+sVpenitentiary
+p247
+I1
+sVoff
+p248
+I2
+sVcaper
+p249
+I1
+sVlater
+p250
+I1
+sVwell
+p251
+I2
+sVbanging
+p252
+I1
+sVmotherfuckers
+p253
+I2
+sVthought
+p254
+I1
+sVjocking
+p255
+I1
+sVwithout
+p256
+I1
+sVcame
+p257
+I1
+sVbottle
+p258
+I1
+sVtime
+p259
+I1
+sVignorant
+p260
+I1
+sVmodel
+p261
+I1
+sVsmoked
+p262
+I1
+sVplaying
+p263
+I1
+sVfact
+p264
+I1
+s.

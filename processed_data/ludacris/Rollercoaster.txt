@@ -1,87 +1,536 @@
-"rollercoaster" lyrics
-ludacris lyrics
-"rollercoaster"
-(feat. dru hill, shawnna)
-wrap your legs around my waist and hold tight...
-ayyy, i can make that thang
-go up and down like a rollercoaster
-make it go round and round
-'til you make that sound, now let me hold ya
-i kinda got somethin to show ya
-i really wanna get to know ya
-shawty come and put yo' hands
-all on my body like you 'posed to
-yeah, you pop one i'ma pop one too
-it ain't no tellin what i'm gon' do
-i'ma keep you sayin "girl you got that good" (you got that good?)
-yeah, i got you screamin "girl don't quit"
-i'll make you ooh, like "girl that's it"
-now gi-gi-give it to me like you should (like i should?)
-yeah, we can slow it down or speed it up
-i love it when you flip it then beat it up
-you know them other girls ain't sweet enough
-so every time he see me he eat it up
-eat it up, eat it up
-don't slow it down baby keep it up
-keep it up, keep it up
-i love it when you make it go deep enough
-and i'm so gone i can't hold it in
-now one mo' round, can we go again?
-i'm lovin each and every little thing you do
-i kinda think i really wanna sing to you
-sing to you, sing to you
-you got me in a zone when i think of you
-think of you, think of you
-now baby come and tell me what i need to do
-wrap your legs around my waist and hold tight (hold tight)
-hold tight (hold tight) cause we're gonna take a ride tonight
-uh, said we're gonna take a ride
-up and down, front to back, side to side
-wrap your legs around my waist and hold tight (hold tight)
-hold tight (hold tight) cause we're gonna take a ride tonight
-we're gonna take a riiiiiiiiide
-take a riiiiiiiiiiiiiiiiiiiiide tonight
-you got yo' boots, strapped up
-and i got my ticket, got my ticket
-and i'm ready for the ride of a lifetime
-is you wit it? is you wit it?
-fasten yo' seatbelt, buckle up
-take two shots, double up
-play this song, pump it up
-then get a little closer, snuggle up
-take yo' time i'ma take my time
-sip a little somethin then relax yo' mind
-let's do it like we never did befo' (did befo'?)
-yeah, i got you screamin "oh my god"
-the headboard hit that wall so hard
-sound like somebody knockin at the do' (at the do'?)
-yeah, keep yo' hands inside the ride
-when you up in the air and ridin high
-tonight it's on, i wanna hear you moan
-when i put a little kiss inside your thigh
-put a little bass inside your ear
-when i whisper and tell you that daddy's here
-daddy's here, the heat is on
-and i love you with your little vickie secrets on
-even though i'll never let you keep 'em on
-cause you pressed my button and the freak is on
-let's make it a night to remember
-and bend that mattress that yo' sheets is on
-sheets is on, yank 'em off
-and every little kiss i'ma make 'em soft
-yo' undergarments, take 'em off
-take 'em off so you can
-on a rollercoaster ride
-up, down, front, back, side to side
-on a rollercoaster ride
-up, down, front, back, side to side
-uh, ooooooh, huh, oooooh yeahhhh
-uh, cause we're gonna take a ride
-up, down, front to back, side to siiiiide
-(wrap your legs around my waist and hold tight, hold tight)
-yeahhhhhhh, ha, dru hill and we're sayin
-(hold tight, cause we're gonna take a ride tonight)
-yeahhhhh yeahhhh yeahhhh-eh-eh-eh-eahhh, ohhh
-(wrap your legs around my waist and hold tight, hold tight)
-(hold tight, cause we're gonna take a ride tonight)
-ohh yeah
+(dp1
+Vha
+p2
+I1
+sVthigh
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVya
+p6
+I3
+sVyeahhhhh
+p7
+I1
+sVgo
+p8
+I4
+sVfeat
+p9
+I1
+sVima
+p10
+I4
+sVslow
+p11
+I2
+sVsayin
+p12
+I2
+sVzone
+p13
+I1
+sVthang
+p14
+I1
+sVshow
+p15
+I1
+sVpump
+p16
+I1
+sVshould
+p17
+I1
+sVto
+p18
+I1
+sVlets
+p19
+I2
+sVsiiiiide
+p20
+I1
+sVohhh
+p21
+I1
+sVyeahhhheheheheahhh
+p22
+I1
+sVride
+p23
+I10
+sVdo
+p24
+I4
+sVgood
+p25
+I2
+sVseatbelt
+p26
+I1
+sVaround
+p27
+I5
+sVyo
+p28
+I8
+sVget
+p29
+I2
+sVbeat
+p30
+I1
+sVposed
+p31
+I1
+sVlovin
+p32
+I1
+sVevery
+p33
+I3
+sVknow
+p34
+I2
+sVkiss
+p35
+I2
+sVhands
+p36
+I2
+sVfront
+p37
+I4
+sVticket
+p38
+I2
+sVyou
+p39
+I4
+sVheadboard
+p40
+I1
+sVriiiiiiiiiiiiiiiiiiiiide
+p41
+I1
+sVlike
+p42
+I7
+sVbefo
+p43
+I2
+sVpressed
+p44
+I1
+sVsnuggle
+p45
+I1
+sVbutton
+p46
+I1
+sVshots
+p47
+I1
+sVnight
+p48
+I1
+sVsoft
+p49
+I1
+sVround
+p50
+I3
+sVem
+p51
+I5
+sVhard
+p52
+I1
+sVyeah
+p53
+I6
+sVboots
+p54
+I1
+sVflip
+p55
+I1
+sVayyy
+p56
+I1
+sVsee
+p57
+I1
+sVgirl
+p58
+I3
+sVundergarments
+p59
+I1
+sVreally
+p60
+I2
+sVcloser
+p61
+I1
+sVgon
+p62
+I8
+sVspeed
+p63
+I1
+sVear
+p64
+I1
+sVinside
+p65
+I3
+sVenough
+p66
+I2
+sVhill
+p67
+I2
+sVgot
+p68
+I9
+sVcause
+p69
+I6
+sVside
+p70
+I7
+sVbody
+p71
+I1
+sVaint
+p72
+I2
+sVbass
+p73
+I1
+sVquit
+p74
+I1
+sVnever
+p75
+I2
+sVridin
+p76
+I1
+sVhere
+p77
+I1
+sVlet
+p78
+I2
+sVput
+p79
+I3
+sVsing
+p80
+I3
+sVcome
+p81
+I2
+sVon
+p82
+I4
+sVoh
+p83
+I1
+sVsecrets
+p84
+I1
+sVgod
+p85
+I1
+sVill
+p86
+I2
+sVdru
+p87
+I2
+sVsomebody
+p88
+I1
+sVscreamin
+p89
+I2
+sVkeep
+p90
+I6
+sVthing
+p91
+I1
+sVknockin
+p92
+I1
+sVthink
+p93
+I4
+sVthats
+p94
+I1
+sVlove
+p95
+I3
+sVdont
+p96
+I2
+sVcan
+p97
+I1
+sVwall
+p98
+I1
+sVsweet
+p99
+I1
+sVyeahhhhhhh
+p100
+I1
+sVpop
+p101
+I2
+sVone
+p102
+I3
+sVwit
+p103
+I2
+sVwrap
+p104
+I5
+sVohh
+p105
+I1
+sVriiiiiiiiide
+p106
+I1
+sVmattress
+p107
+I1
+sVwan
+p108
+I3
+sVlittle
+p109
+I7
+sVbuckle
+p110
+I1
+sVgirls
+p111
+I1
+sVtwo
+p112
+I1
+sVtoo
+p113
+I1
+sVoooooh
+p114
+I1
+sVlegs
+p115
+I5
+sVyeahhhh
+p116
+I2
+sVtell
+p117
+I2
+sVshawnna
+p118
+I1
+sVrelax
+p119
+I1
+sVhuh
+p120
+I1
+sVooh
+p121
+I1
+sVback
+p122
+I4
+sVvickie
+p123
+I1
+sVheat
+p124
+I1
+sVhear
+p125
+I1
+sVbaby
+p126
+I2
+sVhold
+p127
+I17
+sVeat
+p128
+I3
+sVremember
+p129
+I1
+sVsound
+p130
+I2
+sVhigh
+p131
+I1
+sVdouble
+p132
+I1
+sVmo
+p133
+I1
+sVup
+p134
+I11
+sVtellin
+p135
+I1
+sVair
+p136
+I1
+sVuh
+p137
+I3
+sVrollercoaster
+p138
+I5
+sVsheets
+p139
+I2
+sVmoan
+p140
+I1
+sVgone
+p141
+I1
+sVfreak
+p142
+I1
+sVwhisper
+p143
+I1
+sVmind
+p144
+I1
+sVit
+p145
+I2
+sVdeep
+p146
+I1
+sVdaddys
+p147
+I2
+sVtonight
+p148
+I6
+sVready
+p149
+I1
+sVcant
+p150
+I1
+sVim
+p151
+I4
+sVbend
+p152
+I1
+sVin
+p153
+I1
+sVneed
+p154
+I1
+sVlifetime
+p155
+I1
+sVhit
+p156
+I1
+sVagain
+p157
+I1
+sVsip
+p158
+I1
+sVna
+p159
+I10
+sVmake
+p160
+I7
+sVsong
+p161
+I1
+sVstrapped
+p162
+I1
+sVtil
+p163
+I1
+sVtight
+p164
+I15
+sVtake
+p165
+I13
+sVshawty
+p166
+I1
+sVeven
+p167
+I1
+sVplay
+p168
+I1
+sVthough
+p169
+I1
+sVooooooh
+p170
+I1
+sVsaid
+p171
+I1
+sVkinda
+p172
+I2
+sVgigigive
+p173
+I1
+sVsomethin
+p174
+I2
+sVoff
+p175
+I2
+sVwaist
+p176
+I5
+sVtime
+p177
+I3
+sVfasten
+p178
+I1
+sVyank
+p179
+I1
+s.

@@ -1,93 +1,845 @@
-"act a fool" lyrics
-ludacris lyrics
-"act a fool"
-drah! 2 fast...
-drah! 2 furious...
-i'm too fast for y'all mayn!
-drah! 2 fast...
-drah! 2 furious...
-ohh! i'm too fast for y'all mayn!
-ahh, you just came home from doin a bid
-tell me whatcha gon do? act a fool
-somebody broke in and cleaned out your crib
-boy whatcha gon do? act a fool
-just bought a new pair and they scuffed your shoes
-tell me whatcha gon do? act a fool
-now them cops tryna throw you in them county blues
-boy whatcha gon do? act a fool
-talkin about gats, traps, cops and robbers
-it's 9-1-1, please call the doctor
-evacuate the building and trick the pigs
-since everybody wanna piece, we gon split ya wigs
-see some fools slipped up and over-stepped they boundaries
-you about to catch a cold, stay the fuck around from  me
-ya peeps talkin 'bout what kinda shits he on
-you disappear like "poof, bitch be gone"
-you think twelve gon catch me, gimmie a break
-i'm super-charged with the hide-away license plate
-it seems they wanna finger print me and gimmie some years
-they'll only get one finger while i'm shifting gears
-i got suede on my roof. wood grain on the dash
-sheep skin on the rug, +golden grain+ on the stash
-hydraulics all around so i shake the ride
-we go front, back and side to side, what
-some punk just tripped up and made you spill your drink
-tell me whatcha gon do? act a fool
-now your car just stopped on a empty tank
-boy whatcha gon do? act a fool
-if you got late bills and you lost your job
-tell me whatcha gon do? act a fool
-if you about to get drunk and you ready to mob
-boy whatcha gon do? act a fool
-let's take it to the streets cuz i'm ready to cruise
-just bought me and my cars all some brand new shoes
-and the people just stare so i love to park it
-and i just put a computer in the glove compartment
-with the pedal to the floor, radar in the grille
-tv in the middle of my steering wheel
-it's my car's birthday so we blowin them candles
-more speakers in the trunk than my ride can handle
-got my name in the headrest, read it and weep
-nos tank in the back, camel hair on the seat
-and when i pull up to the club, i get all the affection
-cuz the women love the paint and they can see their reflection
-i'm about to take off, so f what ya heard
-because my side mirrors flap like a fuckin bird
-and the fools, we gon clock one and we'll pop one
-cuz my folk ridin shotgun with a shotgun
-you just got hustled for a wad of cash
-man whatcha gon do? act a fool
-now your friends just smoked up your brand new stash
-say whatcha gon do? act a fool
-now them gulls up the block still runnin they mouth
-boy whatcha gon do? act a fool
-if anybody talk bad about the dirty south
-tell me what i'm gon do? act a fool
-i got my eyes wide shut and my trunk wide open
-did donuts last week and the streets still smoking
-see, i'm off that anti-freeze and my car is tipsy
-off the off ramp doin about a hundred and fifty
-rollin through east point, on way to ben hill
-slide a five to the junkie to clean my windshield
-got the whole crew ridin and we startin shit
-i even got a trailer hitch with the barbeque pit
-now all you wanna do is get drunk and pout
-plus your new name is fire cuz we stomped you out
-and yeah, we blow trees and bees,  that's fantastic
-so gulls hold ya weave while i'm weaving through traffic
-i kicked to fifth gear and teared the road apart
-you'll be like lil john q and get a +change of heart+
-it's one mission, two clips and some triple beams
-i'm about to blow this whole shit up to smithereens
-the pot holes in the street just bentcha rims
-tell me whatcha gon do? act a fool
-man, that ain't sticky, that's just sticks and stems
-boy whatcha gon do? act a fool
-catch ya man with another bitch up in ya bed
-ladies whatcha gon do? act a fool
-if the bottles all gone and your eyes are red
-boy whatcha gon do? act a fool
-2 fast, 2 furious...
-2 fast....act a fool
-2 fast, 2 furious...
-2 fast....act a fool
+(dp1
+Vshoes
+p2
+I2
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVhustled
+p5
+I1
+sVjohn
+p6
+I1
+sVstems
+p7
+I1
+sVmission
+p8
+I1
+sVgulls
+p9
+I2
+sVyears
+p10
+I1
+sVradar
+p11
+I1
+sVskin
+p12
+I1
+sVgo
+p13
+I1
+sVtalk
+p14
+I1
+sVcold
+p15
+I1
+sVstill
+p16
+I2
+sVclock
+p17
+I1
+sVfifth
+p18
+I1
+sVblow
+p19
+I2
+sVblowin
+p20
+I1
+sVtv
+p21
+I1
+sVcamel
+p22
+I1
+sVseems
+p23
+I1
+sVcuz
+p24
+I4
+sVcrew
+p25
+I1
+sVlate
+p26
+I1
+sVbentcha
+p27
+I1
+sVlets
+p28
+I1
+sVwood
+p29
+I1
+sVfastact
+p30
+I2
+sVstomped
+p31
+I1
+sVroad
+p32
+I1
+sVbout
+p33
+I1
+sVnos
+p34
+I1
+sVpot
+p35
+I1
+sVtake
+p36
+I2
+sVfool
+p37
+I20
+sVplate
+p38
+I1
+sVsomebody
+p39
+I1
+sVaround
+p40
+I2
+sVfire
+p41
+I1
+sVget
+p42
+I5
+sVya
+p43
+I6
+sVbeams
+p44
+I1
+sVbid
+p45
+I1
+sVmayn
+p46
+I2
+sVbarbeque
+p47
+I1
+sVtrees
+p48
+I1
+sVbreak
+p49
+I1
+sVgimmie
+p50
+I2
+sVstreet
+p51
+I1
+sVfive
+p52
+I1
+sVpop
+p53
+I1
+sVgot
+p54
+I7
+sVfront
+p55
+I1
+sVmob
+p56
+I1
+sVapart
+p57
+I1
+sVheard
+p58
+I1
+sVtrailer
+p59
+I1
+sVname
+p60
+I2
+sVsmithereens
+p61
+I1
+sVlike
+p62
+I3
+sVlost
+p63
+I1
+sVyoull
+p64
+I1
+sVyeah
+p65
+I1
+sVpeeps
+p66
+I1
+sVholes
+p67
+I1
+sVglove
+p68
+I1
+sVheart
+p69
+I1
+sVbad
+p70
+I1
+sVstopped
+p71
+I1
+sVgears
+p72
+I1
+sVstartin
+p73
+I1
+sVwhatcha
+p74
+I15
+sVbills
+p75
+I1
+sVrobbers
+p76
+I1
+sVside
+p77
+I3
+sVyall
+p78
+I2
+sVtwelve
+p79
+I1
+sVpeople
+p80
+I1
+sVcruise
+p81
+I1
+sVhundred
+p82
+I1
+sVshake
+p83
+I1
+sVback
+p84
+I2
+sVseat
+p85
+I1
+sVhair
+p86
+I1
+sVsee
+p87
+I3
+sVcomputer
+p88
+I1
+sVbed
+p89
+I1
+sVweave
+p90
+I1
+sVhome
+p91
+I1
+sVblues
+p92
+I1
+sVfolk
+p93
+I1
+sVtripped
+p94
+I1
+sVeven
+p95
+I1
+sVsouth
+p96
+I1
+sVwhat
+p97
+I1
+sVgon
+p98
+I19
+sVtipsy
+p99
+I1
+sVscuffed
+p100
+I1
+sVsince
+p101
+I1
+sVplease
+p102
+I1
+sVslide
+p103
+I1
+sVladies
+p104
+I1
+sVboundaries
+p105
+I1
+sVfinger
+p106
+I2
+sVwide
+p107
+I2
+sVprint
+p108
+I1
+sVnew
+p109
+I4
+sV911
+p110
+I1
+sVbird
+p111
+I1
+sVred
+p112
+I1
+sVbought
+p113
+I2
+sVsheep
+p114
+I1
+sVshut
+p115
+I1
+sVkicked
+p116
+I1
+sVshit
+p117
+I2
+sVrims
+p118
+I1
+sVhitch
+p119
+I1
+sVcars
+p120
+I2
+sVreflection
+p121
+I1
+sVrug
+p122
+I1
+sVridin
+p123
+I2
+sVhill
+p124
+I1
+sVjob
+p125
+I1
+sVshifting
+p126
+I1
+sVtraffic
+p127
+I1
+sVtrunk
+p128
+I2
+sVput
+p129
+I1
+sVthrow
+p130
+I1
+sVchange
+p131
+I1
+sVon
+p132
+I1
+sVlast
+p133
+I1
+sVlicense
+p134
+I1
+sVspill
+p135
+I1
+sVoverstepped
+p136
+I1
+sVpunk
+p137
+I1
+sVteared
+p138
+I1
+sVbirthday
+p139
+I1
+sVgrain
+p140
+I2
+sVsuede
+p141
+I1
+sVact
+p142
+I18
+sVmouth
+p143
+I1
+sVwhole
+p144
+I2
+sVthink
+p145
+I1
+sVfuckin
+p146
+I1
+sVthats
+p147
+I2
+sVgolden
+p148
+I1
+sVfantastic
+p149
+I1
+sVlove
+p150
+I2
+sVslipped
+p151
+I1
+sVdrunk
+p152
+I2
+sVahh
+p153
+I1
+sVcrib
+p154
+I1
+sVone
+p155
+I4
+sVcounty
+p156
+I1
+sVbitch
+p157
+I2
+sVanother
+p158
+I1
+sVopen
+p159
+I1
+sVeverybody
+p160
+I1
+sVwan
+p161
+I3
+sVweep
+p162
+I1
+sVweaving
+p163
+I1
+sVaint
+p164
+I1
+sVfifty
+p165
+I1
+sVdonuts
+p166
+I1
+sVwad
+p167
+I1
+sVben
+p168
+I1
+sVtwo
+p169
+I1
+sVfast
+p170
+I6
+sVsteering
+p171
+I1
+sVpaint
+p172
+I1
+sV2
+I10
+sVcall
+p173
+I1
+sVway
+p174
+I1
+sVshits
+p175
+I1
+sVcompartment
+p176
+I1
+sVtell
+p177
+I6
+sVempty
+p178
+I1
+sVstare
+p179
+I1
+sVwindshield
+p180
+I1
+sVtryna
+p181
+I1
+sVeyes
+p182
+I2
+sVstreets
+p183
+I2
+sVflap
+p184
+I1
+sVboy
+p185
+I7
+sVclub
+p186
+I1
+sVbrand
+p187
+I2
+sVpark
+p188
+I1
+sVevacuate
+p189
+I1
+sVit
+p190
+I1
+sVcops
+p191
+I2
+sVbroke
+p192
+I1
+sVeast
+p193
+I1
+sVcatch
+p194
+I3
+sVsmoking
+p195
+I1
+sVhold
+p196
+I1
+sVwomen
+p197
+I1
+sVme
+p198
+I1
+sVpull
+p199
+I1
+sVmade
+p200
+I1
+sVtank
+p201
+I2
+sVf
+I1
+sVpout
+p202
+I1
+sVcar
+p203
+I2
+sVride
+p204
+I2
+sVbottles
+p205
+I1
+sVcash
+p206
+I1
+sVroof
+p207
+I1
+sVtrick
+p208
+I1
+sVantifreeze
+p209
+I1
+sVdirty
+p210
+I1
+sVshotgun
+p211
+I2
+sVpiece
+p212
+I1
+sVaffection
+p213
+I1
+sVpoint
+p214
+I1
+sVgone
+p215
+I2
+sVohh
+p216
+I1
+sVsticks
+p217
+I1
+sVmirrors
+p218
+I1
+sVramp
+p219
+I1
+sVfuck
+p220
+I1
+sVsticky
+p221
+I1
+sVdash
+p222
+I1
+sVmiddle
+p223
+I1
+sVsay
+p224
+I1
+sVim
+p225
+I10
+sVrollin
+p226
+I1
+sVtriple
+p227
+I1
+sVcleaned
+p228
+I1
+sVready
+p229
+I2
+sVhandle
+p230
+I1
+sVpit
+p231
+I1
+sVdisappear
+p232
+I1
+sVgear
+p233
+I1
+sVspeakers
+p234
+I1
+sVtheyll
+p235
+I1
+sVdoctor
+p236
+I1
+sVlil
+p237
+I1
+sVna
+p238
+I3
+sVgats
+p239
+I1
+sVread
+p240
+I1
+sVsplit
+p241
+I1
+sVplus
+p242
+I1
+sVfools
+p243
+I2
+sVout
+p244
+I1
+sVtalkin
+p245
+I2
+sVwigs
+p246
+I1
+sVwheel
+p247
+I1
+sVclean
+p248
+I1
+sVhideaway
+p249
+I1
+sVheadrest
+p250
+I1
+sVdoin
+p251
+I2
+sVdrink
+p252
+I1
+sVhydraulics
+p253
+I1
+sVstay
+p254
+I1
+sVpigs
+p255
+I1
+sVpoof
+p256
+I1
+sVkinda
+p257
+I1
+sVpair
+p258
+I1
+sVpedal
+p259
+I1
+sVgrille
+p260
+I1
+sVfriends
+p261
+I1
+sVdrah
+p262
+I4
+sVman
+p263
+I3
+sVbuilding
+p264
+I1
+sVclips
+p265
+I1
+sVtraps
+p266
+I1
+sVbees
+p267
+I1
+sVcandles
+p268
+I1
+sVfloor
+p269
+I1
+sVwell
+p270
+I1
+sVanybody
+p271
+I1
+sVstash
+p272
+I2
+sVq
+I1
+sVsupercharged
+p273
+I1
+sVweek
+p274
+I1
+sVblock
+p275
+I1
+sVjunkie
+p276
+I1
+sVfurious
+p277
+I4
+sVrunnin
+p278
+I1
+sVsmoked
+p279
+I1
+sVcame
+p280
+I1
+s.

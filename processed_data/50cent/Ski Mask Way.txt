@@ -1,86 +1,528 @@
-"ski mask way" lyrics
-50 cent lyrics
-"ski mask way"
-yeah
-i'm tryin to catch me sumthin
-i'ma catch you sumthin
-nigga that watch is nice
-that's what you bought from me
-that chain is nice
-that's what you bought from me
-them earrings is nice
-that's what you bought from me?
-take that shit off, move i'll break you off properly
-i get mine the fast way, ski mask way
-make money
-make money, money, money
-nigga if you ask me
-it's the only way
-take money
-take money, money, money
-you wanna spray at me? go head
-the last nigga that tried
-got hit, keeled over, and bled 'til he died
-ya little sister callin you stupid
-reason why?
-her and ya momma in the livin room now hog-tied
-i came up wit two new ways to get rich i cant wait
-got a brand new cig and that old thirty eight
-i be scheming to put a lil' bread on my plate
-watchin dre serve skunk through the hole in the gate
-i stick a nigga for his shine sell em' back the next day
-you thought i really wanted ya pussy bitch please
-this is stash house, jack pot, leave her them keys
-my black g-unit hoody just reak of marijuana
-cocaine comin out my pores in the sauna
-im serious man i'm so sincere
-this the flow right here that fucked up jeffery's career
-make money, take money
-yeah nigga yeah
-nigga that watch is nice
-that's what you bought from me
-that chain is nice
-that's what you bought from me
-them earrings is nice
-that's what you bought from me?
-take that shit off, move i'll break you off properly
-i get mine the fast way, ski mask way
-make money
-make money, money, money
-nigga if you ask me
-it's the only way
-take money
-take money, money, money
-whos dat peepin in my window
-wow
-the feds on me now
-they know when im sleepin
-they know when im wake
-i know they got my phone taped im screamin fuck jake
-im tryin to stay out them pens, so i switched states
-bad news v-a now that sounds great
-i see niggas wit that ice on, rims shined up
-this towns one big pussy waitin to get fucked
-i holla at a-i peoples to get gats
-they charged me 500 a piece for two macs
-then im back doin me
-im back out on a spree
-catch me n' niggas slippin out pumpin dat d
-give me a lil' crew i'll have em' pumpin for me
-the more product i take the more paper we see
-change my name in n-y they don't know where i be
-yeah a nigga doin dirt but a nigga low key
-nigga that watch is nice
-that's what you bought from me
-that chain is nice
-that's what you bought from me
-them earrings is nice
-that's what you bought from me?
-take that shit off, move i'll break you off properly
-i get mine the fast way, ski mask way
-make money
-make money, money, money
-nigga if you ask me
-it's the only way
-take money
-take money, money, money
+(dp1
+Vchain
+p2
+I3
+sVswitched
+p3
+I1
+sVmoney
+p4
+I26
+sVmove
+p5
+I3
+sVpaper
+p6
+I1
+sVgo
+p7
+I1
+sVtowns
+p8
+I1
+sVima
+p9
+I1
+sVkeeled
+p10
+I1
+sVpens
+p11
+I1
+sVlyrics
+p12
+I2
+sVcrew
+p13
+I1
+sVwindow
+p14
+I1
+sVblack
+p15
+I1
+sVrich
+p16
+I1
+sVski
+p17
+I5
+sVplate
+p18
+I1
+sVcallin
+p19
+I1
+sVhit
+p20
+I1
+sVlivin
+p21
+I1
+sVstay
+p22
+I1
+sVget
+p23
+I6
+sVya
+p24
+I3
+sVbig
+p25
+I1
+sVwatch
+p26
+I3
+sVbreak
+p27
+I3
+sVjack
+p28
+I1
+sVnew
+p29
+I2
+sVnow
+p30
+I1
+sVday
+p31
+I1
+sVbread
+p32
+I1
+sVd
+I1
+sVniggas
+p33
+I2
+sV50
+p34
+I1
+sVleave
+p35
+I1
+sVpeepin
+p36
+I1
+sVbad
+p37
+I1
+sVstupid
+p38
+I1
+sVwatchin
+p39
+I1
+sVbitch
+p40
+I1
+sVem
+p41
+I2
+sVnigga
+p42
+I11
+sVold
+p43
+I1
+sVhouse
+p44
+I1
+sVyeah
+p45
+I4
+sVscheming
+p46
+I1
+sVsee
+p47
+I2
+sVreally
+p48
+I1
+sVsleepin
+p49
+I1
+sVways
+p50
+I1
+sVwow
+p51
+I1
+sVdirt
+p52
+I1
+sVplease
+p53
+I1
+sVice
+p54
+I1
+sVearrings
+p55
+I3
+sVbought
+p56
+I9
+sVbe
+p57
+I1
+sVshined
+p58
+I1
+sVright
+p59
+I1
+sVrims
+p60
+I1
+sVgot
+p61
+I3
+sVreason
+p62
+I1
+sVpumpin
+p63
+I2
+sVask
+p64
+I3
+sVnews
+p65
+I1
+sVwanted
+p66
+I1
+sVchange
+p67
+I1
+sVwait
+p68
+I1
+sVshine
+p69
+I1
+sVsister
+p70
+I1
+sVlast
+p71
+I1
+sVthirty
+p72
+I1
+sVmarijuana
+p73
+I1
+sVill
+p74
+I4
+sVspray
+p75
+I1
+sVscreamin
+p76
+I1
+sVtaped
+p77
+I1
+sVfeds
+p78
+I1
+sVdre
+p79
+I1
+sVthats
+p80
+I9
+sVkey
+p81
+I1
+sVdont
+p82
+I1
+sVpussy
+p83
+I2
+sVpot
+p84
+I1
+sVone
+p85
+I1
+sVput
+p86
+I1
+sVmomma
+p87
+I1
+sVwit
+p88
+I2
+sVcent
+p89
+I1
+sVcomin
+p90
+I1
+sVsounds
+p91
+I1
+sVcocaine
+p92
+I1
+sVwan
+p93
+I1
+sVlittle
+p94
+I1
+sVtwo
+p95
+I2
+sVfast
+p96
+I3
+sVnext
+p97
+I1
+sVwhos
+p98
+I1
+sVlow
+p99
+I1
+sVway
+p100
+I11
+sVtryin
+p101
+I2
+sV500
+p102
+I1
+sVhead
+p103
+I1
+sVname
+p104
+I1
+sVbrand
+p105
+I1
+sVfuck
+p106
+I1
+sVserve
+p107
+I1
+sVgreat
+p108
+I1
+sVback
+p109
+I3
+sVphone
+p110
+I1
+sVproperly
+p111
+I3
+sVwake
+p112
+I1
+sVstick
+p113
+I1
+sVcharged
+p114
+I1
+sVcatch
+p115
+I3
+sVhole
+p116
+I1
+sVsumthin
+p117
+I2
+sVgunit
+p118
+I1
+sVme
+p119
+I14
+sVcig
+p120
+I1
+sVroom
+p121
+I1
+sVbled
+p122
+I1
+sVup
+p123
+I1
+sVn
+I1
+sVcareer
+p124
+I1
+sVpiece
+p125
+I1
+sVjefferys
+p126
+I1
+sVva
+p127
+I1
+sVgive
+p128
+I1
+sVai
+p129
+I1
+sVflow
+p130
+I1
+sVsincere
+p131
+I1
+sVmine
+p132
+I3
+sVstates
+p133
+I1
+sVcant
+p134
+I1
+sVjake
+p135
+I1
+sVim
+p136
+I9
+sVpores
+p137
+I1
+sVshit
+p138
+I3
+sVsell
+p139
+I1
+sVholla
+p140
+I1
+sVlil
+p141
+I2
+sVna
+p142
+I1
+sVmake
+p143
+I7
+sVreak
+p144
+I1
+sVgats
+p145
+I1
+sVtil
+p146
+I1
+sVny
+p147
+I1
+sVhoody
+p148
+I1
+sVtake
+p149
+I11
+sVslippin
+p150
+I1
+sVpeoples
+p151
+I1
+sVgate
+p152
+I1
+sVnice
+p153
+I9
+sVwaitin
+p154
+I1
+sVproduct
+p155
+I1
+sVmacs
+p156
+I1
+sVtried
+p157
+I1
+sVkeys
+p158
+I1
+sVdoin
+p159
+I2
+sVhogtied
+p160
+I1
+sVsauna
+p161
+I1
+sVeight
+p162
+I1
+sVfucked
+p163
+I2
+sVspree
+p164
+I1
+sVwhy
+p165
+I1
+sVdied
+p166
+I1
+sVman
+p167
+I1
+sVdat
+p168
+I2
+sVmask
+p169
+I5
+sVstash
+p170
+I1
+sVthought
+p171
+I1
+sVserious
+p172
+I1
+sVskunk
+p173
+I1
+sVcame
+p174
+I1
+sVknow
+p175
+I4
+s.

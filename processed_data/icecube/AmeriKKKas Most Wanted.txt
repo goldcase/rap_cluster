@@ -1,86 +1,764 @@
-"amerikkka's most wanted" lyrics
-ice cube lyrics
-"amerikkka's most wanted"
-ice cube with the lench mob, i got it goin on
-a nigga that's livin in the city of the criminal zone
-one-time can't keep the law in order
-cos everybody's goin crazy for a quarter
-you're tuned in to the number one crew in the area
-the way i'm talkin i'm scarin ya
-i'm darin ya to raise hell and bail and brag and sag
-or beat down for ya flag
-cos if you is or you ain't a gangbanger
-keep one in the chamber
-cos you'll get them thangs put on ya son
-ice cube has got the 4-1-1
-all the ol' school house fellows are crooks
-so i get jealous looks
-they keep thinkin did my hair grow?
-will the boys 'n' the hood have to beat down ice cube?
-hell no, i'll static son, you'll see it's okay
-i keep my 9 anyway
-for the day one of my homies wanna squab
-i'm still rollin wit the lench mob
-(amerikkka's most wanted)
-back in the day i dip my shirt in dirt
-sometimes i got away clean, sometimes people got hurt
-but if you know me, you know that i'm liable
-to bust a cap cos it's all about survival of the fittest
-i'm a menace crook
-i did so much dirt i need to be in the guinness book
-from the shit i took from people
-i reap all your fat shit, jack
-back to the criminals sect
-i leave crew after crew but they can't catch me yet
-cos i'm slick as slippery
-they can't get wit me, cops ain't shit to me
-i can't dig a pig so i drop the dogs
-and sweat em like sweathogs
-and get mad, mad cos i'm the nigga that flaunt it
-amerikkka's most wanted
-aiyo, here's what the poster read:
-'ice cube is wanted dead'
-that's all it said
-i put heads to bed and fled the scene wit all the green
-hear shots and si-reens
-when i feet first they yo' rings, now they my rings
-so give it up punk and then i just
-put another jack in progress
-it's the american way
-cos i'm the g-a-n-g-s-t-a
-ice cube - a motherfuckin clepto
-and tried to catch the early bird but they slept, so
-who gets the worm?
-and if i'm caught in a trap
-you know i'ma beat the wack
-with a payoff, cop gotta lay off
-fbi on my dick, stay off!
-i'm not a rebel or a renegade on a quest
-i'm a nigga with a 's' on his chest
-so get the kryptonite cos i'm a rip tonight
-cos i'm scarin ya, wanted by america
-(aiyo cube man, they on your ass)
-word, but who the fuck has heard?
-it's time to take a trip to the suburbs
-let em see a nigga invasion
-point blank for the caucasian
-cock the hammer then crackle, smile
-take me to your house, pal
-got to the house, my pockets got fat, see
-crack the safe, got the money and the jewellry
-three weeks later, i'm at the p-a-d
-had a little fly ass bitch wit me
-sittin in a dig, yo it couldn't be
-(whattup g?) saw my face on tv
-damn (oh shit!) i didn't know i lucked out
-struck out, i gotta get the fuck out
-pack my bags and tried to hit the dough when
-the ol' bitch down the street must've turned me in
-cos the feds was out there ten deep
-i got hassled and gaffled in the back seat
-i think back when i was robbin my own kind
-the police didn't pay it no mind
-but when i start robbin the white folks
-now i'm in the pen wit the soap-on-a-rope
-i said it before and i'll still taught it
-every motherfucker with a colour is most wanted
+(dp1
+Vwhattup
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVlay
+p5
+I1
+sVout
+p6
+I2
+sVanyway
+p7
+I1
+sVflaunt
+p8
+I1
+sVlooks
+p9
+I1
+sVhell
+p10
+I2
+sVstill
+p11
+I2
+sVbail
+p12
+I1
+sVyet
+p13
+I1
+sVpayoff
+p14
+I1
+sVaint
+p15
+I2
+sVlench
+p16
+I2
+sVpolice
+p17
+I1
+sVjust
+p18
+I1
+sVzone
+p19
+I1
+sVtv
+p20
+I1
+sVdick
+p21
+I1
+sVbust
+p22
+I1
+sVcrew
+p23
+I3
+sVhomies
+p24
+I1
+sVfolks
+p25
+I1
+sVsmile
+p26
+I1
+sVgangsta
+p27
+I1
+sVcriminal
+p28
+I1
+sVfirst
+p29
+I1
+sVfly
+p30
+I1
+sVcube
+p31
+I7
+sVhit
+p32
+I1
+sVlivin
+p33
+I1
+sVyo
+p34
+I2
+sVget
+p35
+I6
+sVbeat
+p36
+I3
+sVsurvival
+p37
+I1
+sVsafe
+p38
+I1
+sVfat
+p39
+I2
+sVscene
+p40
+I1
+sVearly
+p41
+I1
+sVquest
+p42
+I1
+sVevery
+p43
+I1
+sVknow
+p44
+I4
+sVprogress
+p45
+I1
+sVmob
+p46
+I2
+sVone
+p47
+I3
+sVreap
+p48
+I1
+sVday
+p49
+I2
+sVrenegade
+p50
+I1
+sVschool
+p51
+I1
+sVlike
+p52
+I1
+sVdig
+p53
+I2
+sVrobbin
+p54
+I2
+sVtuned
+p55
+I1
+sVleave
+p56
+I1
+sVchamber
+p57
+I1
+sV411
+p58
+I1
+sVshots
+p59
+I1
+sVliable
+p60
+I1
+sVdough
+p61
+I1
+sVquarter
+p62
+I1
+sVdip
+p63
+I1
+sVem
+p64
+I2
+sVass
+p65
+I2
+sVnigga
+p66
+I4
+sVten
+p67
+I1
+sVpeople
+p68
+I2
+sVhouse
+p69
+I3
+sVmind
+p70
+I1
+sVcrackle
+p71
+I1
+sVback
+p72
+I4
+sVdead
+p73
+I1
+sVseat
+p74
+I1
+sVhair
+p75
+I1
+sVcrook
+p76
+I1
+sVsee
+p77
+I3
+sVstreet
+p78
+I1
+sVstatic
+p79
+I1
+sVhammer
+p80
+I1
+sVcouldnt
+p81
+I1
+sVlater
+p82
+I1
+sVsaid
+p83
+I2
+sVheres
+p84
+I1
+sVmotherfuckin
+p85
+I1
+sVaway
+p86
+I1
+sVdirt
+p87
+I2
+sVrings
+p88
+I2
+sVslick
+p89
+I1
+sVice
+p90
+I6
+sVfellows
+p91
+I1
+sVpen
+p92
+I1
+sVgot
+p93
+I10
+sVyoull
+p94
+I2
+sVbird
+p95
+I1
+sVfled
+p96
+I1
+sVtrap
+p97
+I1
+sVgangbanger
+p98
+I1
+sVima
+p99
+I1
+sVwan
+p100
+I1
+sVcrooks
+p101
+I1
+sVturned
+p102
+I1
+sVlittle
+p103
+I1
+sVmotherfucker
+p104
+I1
+sVonetime
+p105
+I1
+sVlet
+p106
+I1
+sVrebel
+p107
+I1
+sVput
+p108
+I3
+sVwanted
+p109
+I7
+sVon
+p110
+I1
+sVcos
+p111
+I10
+sVol
+p112
+I2
+sVg
+I1
+sVoh
+p113
+I1
+sVdarin
+p114
+I1
+sVill
+p115
+I2
+sVpunk
+p116
+I1
+sVkeep
+p117
+I4
+sVamerican
+p118
+I1
+sVbrag
+p119
+I1
+sVsweat
+p120
+I1
+sVpockets
+p121
+I1
+sVjewellry
+p122
+I1
+sVstruck
+p123
+I1
+sVthink
+p124
+I1
+sVthats
+p125
+I2
+sVpoint
+p126
+I1
+sVnumber
+p127
+I1
+sVamerica
+p128
+I1
+sVson
+p129
+I2
+sVfeet
+p130
+I1
+sVwit
+p131
+I5
+sVbitch
+p132
+I2
+sVanother
+p133
+I1
+sVblank
+p134
+I1
+sVfbi
+p135
+I1
+sVkryptonite
+p136
+I1
+sVhood
+p137
+I1
+sVamerikkkas
+p138
+I4
+sVcity
+p139
+I1
+sVwack
+p140
+I1
+sVcriminals
+p141
+I1
+sVheads
+p142
+I1
+sVraise
+p143
+I1
+sVarea
+p144
+I1
+sVguinness
+p145
+I1
+sVcaught
+p146
+I1
+sVslept
+p147
+I1
+sVsweathogs
+p148
+I1
+sVthree
+p149
+I1
+sVsuburbs
+p150
+I1
+sVmuch
+p151
+I1
+sVdamn
+p152
+I1
+sVway
+p153
+I2
+sVwhite
+p154
+I1
+sVman
+p155
+I1
+sVdogs
+p156
+I1
+sVaiyo
+p157
+I2
+sVcop
+p158
+I1
+sVposter
+p159
+I1
+sVfuck
+p160
+I2
+sVtook
+p161
+I1
+sVhurt
+p162
+I1
+sVboys
+p163
+I1
+sVflag
+p164
+I1
+sVhear
+p165
+I1
+sVdeep
+p166
+I1
+sVcatch
+p167
+I2
+sVdidnt
+p168
+I2
+sVbe
+p169
+I1
+sVweeks
+p170
+I1
+sVme
+p171
+I2
+sVkind
+p172
+I1
+sVword
+p173
+I1
+sVcrack
+p174
+I1
+sVcap
+p175
+I1
+sVworm
+p176
+I1
+sVbed
+p177
+I1
+sVn
+I1
+sVgaffled
+p178
+I1
+sVtaught
+p179
+I1
+sVslippery
+p180
+I1
+sVta
+p181
+I2
+sVcock
+p182
+I1
+sVpack
+p183
+I1
+sVcrazy
+p184
+I1
+sVsometimes
+p185
+I2
+sVlucked
+p186
+I1
+sVgive
+p187
+I1
+sVpad
+p188
+I1
+sVsag
+p189
+I1
+sVit
+p190
+I2
+sVrip
+p191
+I1
+sVpig
+p192
+I1
+sVtonight
+p193
+I1
+sVheard
+p194
+I1
+sVcant
+p195
+I4
+sVim
+p196
+I16
+sVpay
+p197
+I1
+sVin
+p198
+I1
+sVneed
+p199
+I1
+sVtake
+p200
+I2
+sVsaw
+p201
+I1
+sVtrip
+p202
+I1
+sVshit
+p203
+I4
+sVbags
+p204
+I1
+sVshirt
+p205
+I1
+sVna
+p206
+I1
+sVthinkin
+p207
+I1
+sVwhen
+p208
+I1
+sVstart
+p209
+I1
+sVya
+p210
+I5
+sVchest
+p211
+I1
+sVbook
+p212
+I1
+sVscarin
+p213
+I2
+sVsquab
+p214
+I1
+sV9
+I1
+sVso
+p215
+I1
+sVgets
+p216
+I1
+sVpal
+p217
+I1
+sVtalkin
+p218
+I1
+sVcaucasian
+p219
+I1
+sVeverybodys
+p220
+I1
+sVsittin
+p221
+I1
+sVokay
+p222
+I1
+sVtried
+p223
+I2
+sVsireens
+p224
+I1
+sVstay
+p225
+I1
+sVfeds
+p226
+I1
+sVmad
+p227
+I2
+sVmustve
+p228
+I1
+sVjealous
+p229
+I1
+sVinvasion
+p230
+I1
+sVlaw
+p231
+I1
+sVgrow
+p232
+I1
+sVhassled
+p233
+I1
+sVgoin
+p234
+I2
+sVdrop
+p235
+I1
+sVoff
+p236
+I2
+sVcops
+p237
+I1
+sVread
+p238
+I1
+sVcolour
+p239
+I1
+sVyoure
+p240
+I1
+sVrollin
+p241
+I1
+sVface
+p242
+I1
+sVthangs
+p243
+I1
+sVclepto
+p244
+I1
+sVgreen
+p245
+I1
+sVsect
+p246
+I1
+sVclean
+p247
+I1
+sVtime
+p248
+I1
+sVsoaponarope
+p249
+I1
+sVmenace
+p250
+I1
+sVorder
+p251
+I1
+sVfittest
+p252
+I1
+sVjack
+p253
+I2
+s.

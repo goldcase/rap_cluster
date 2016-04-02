@@ -1,141 +1,802 @@
-"our house" lyrics
-eminem lyrics
-"our house"
-here's the story, of a little boy.
-growin' up in a suburban home,
-trying to cope with everyday life,
-who lives in a little house,
-that was built, in the middle of the street.
-"hey, mom!
-tupac's on the juke box,
-so what he shot two cops,
-and raped a little girl,
-while two dudes watched,"
-"nuh-uh! they were tryin' to frame him,
-you wouldn't have two pack shaker,"
-"no! that ain't how you say his name, mum!
-you're so lame,
-don't you know anything?"
-"yeah!
-i know that you'll probably go,
-and join in a gang,"
-"yeah, right. i'm out
-where's my fuckin' walkman at?"
-"stop cussin' at me!"
-"shut up, bitch!"
-"and quit talking black."
-well,
-slammed the door and i'm out,
-now, what?
-it's probably warm in the house.
-fuck, i forgot my jacket,
-forgot it was winter.
-i'm gettin' thinner,
-i'm hungry.
-is mom cookin' dinner?
-"mom!
-let me back in!
-i forgot my coat.
-mom, come on, i'm not playin',
-it's cold!
-alright, sorry.
-i need a jacket,
-mom, look,
-my tupac tape,
-i just cracked it,
-ma, please let me back in,
-it is two pack shaker,
-i just asked him."
-i'm freezin', (achoo)
-i'm sneezin',
-i'm breathin' too much cold air,
-i'm wheezin',
-"i ain't did nothin',
-i didn’t say "i'm leavin',"
-i said "i'm goin' on the front porch to get somethin',""
-"alright, here.
-take your damn coat and leave,"
-"fine i'll leave!
-mom! you cut off the sleeves!"
-our house,
-in the middle of the street.
-one, two, three,
-my teacher's two faced,
-she went to lower my school grades,
-since last tuesday,
-i had a toothache,
-from kool-aid,
-so mom kicked me out, (get out)
-and, all i had in my suitcase,
-was one shoelace,
-a tube sock,
-and a tube of toothpaste,
-sometimes,
-it was cool,
-"cause i could go to a friend's,
-crash there,
-fool around and just skip school.
-but other times,
-i'd rather just be home,
-in my own room alone,
-beat my shit and nobody would know,
-my little brother sucked on a bottle,
-'til he was six,
-so i'd hide it inside the couch,
-and say "i don't know where it is,"
-but as soon as mom found it,
-i would either be grounded,
-or kicked out the house,
-a thousand weeks,.
-and still countin',
-even when i was underage,
-mom was tellin' cops,
-i was tryin' to run away,
-i told her,
-"someday, bitch, you're gonna pay,"
-please, mom, please, mom, please, mom,
-i wanna stay, (let me stay)
-my brother's incoherint,
-mom's a single parent,
-who ain't carin',
-starin' through me,
-like i'm transparent,
-made it clear,
-that i was just there,
-to run an errands,
-told her friends,
-i was a son from her last marriage,
-sent me up to the little corner store,
-with a little note,
-"please, sell my step-son,
-some cigarettes so i can smoke,"
-one time,
-i tried to fake sick,
-to get attention,
-back-fired,
-mom, sent me to school,
-with a vengence,
-my life's the worst thing that could ever happen to me,
-i go to class,
-and every teacher's always laughin' at me,
-and mom says white rappers are laughed at.
-not only that,
-she heard me upstairs,
-i can't rap,
-and i'm stupid,
-i never make an average,
-of a b+,
-i need to sit on my ass and sue people,
-like she does,
-one time, i got food poison,
-from a hot dog,
-mom sued and got $2,000,
-from ballpark,
-"hey, ma. you got a dollar?"
-"i don't think so.
-now keep an eye on your brother,
-i'm goin' to bingo."
-"but, mom. you said you were broke."
-"who said?
-you got your ears messed up,
-from that damn rap music."
+(dp1
+Vson
+p2
+I1
+sVsix
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVfood
+p6
+I1
+sVskip
+p7
+I1
+sVsuburban
+p8
+I1
+sVdollar
+p9
+I1
+sVsoon
+p10
+I1
+sVstarin
+p11
+I1
+sVgrades
+p12
+I1
+sVever
+p13
+I1
+sVgang
+p14
+I1
+sVgo
+p15
+I3
+sVcorner
+p16
+I1
+sVcold
+p17
+I2
+sVcouch
+p18
+I1
+sVfine
+p19
+I1
+sVaint
+p20
+I3
+sVnote
+p21
+I1
+sVcut
+p22
+I1
+sVgrounded
+p23
+I1
+sVevery
+p24
+I1
+sVhot
+p25
+I1
+sVcarin
+p26
+I1
+sVachoo
+p27
+I1
+sVmusic
+p28
+I1
+sVdoes
+p29
+I1
+sVblack
+p30
+I1
+sVeye
+p31
+I1
+sVsorry
+p32
+I1
+sVcool
+p33
+I1
+sVsent
+p34
+I2
+sVjuke
+p35
+I1
+sVfool
+p36
+I1
+sVsued
+p37
+I1
+sVcrash
+p38
+I1
+sVaround
+p39
+I1
+sVget
+p40
+I3
+sVbeat
+p41
+I1
+sVstop
+p42
+I1
+sVdidn\u2019t
+p43
+I1
+sVheard
+p44
+I1
+sVb
+I1
+sVworst
+p45
+I1
+sVdudes
+p46
+I1
+sVmom
+p47
+I16
+sVgot
+p48
+I4
+sVfront
+p49
+I1
+sVma
+p50
+I2
+sVone
+p51
+I4
+sVhim
+p52
+I2
+sVlook
+p53
+I1
+sVthat
+p54
+I1
+sVschool
+p55
+I3
+sVname
+p56
+I1
+sVplayin
+p57
+I1
+sVcause
+p58
+I1
+sVgettin
+p59
+I1
+sVbrother
+p60
+I2
+sVleave
+p61
+I2
+sVshoelace
+p62
+I1
+sVnuhuh
+p63
+I1
+sVeither
+p64
+I1
+sValways
+p65
+I1
+sVfound
+p66
+I1
+sVwent
+p67
+I1
+sVtold
+p68
+I2
+sVears
+p69
+I1
+sVstill
+p70
+I1
+sVsomeday
+p71
+I1
+sVright
+p72
+I1
+sVsays
+p73
+I1
+sVupstairs
+p74
+I1
+sVpeople
+p75
+I1
+sVhouse
+p76
+I6
+sVframe
+p77
+I1
+sVback
+p78
+I2
+sVup
+p79
+I1
+sVstreet
+p80
+I2
+sVforgot
+p81
+I3
+sVhome
+p82
+I2
+sVgirl
+p83
+I1
+sVstepson
+p84
+I1
+sVout
+p85
+I3
+sVeven
+p86
+I1
+sVwhat
+p87
+I1
+sVsaid
+p88
+I3
+sVhide
+p89
+I1
+sVfreezin
+p90
+I1
+sVheres
+p91
+I1
+sVtube
+p92
+I2
+sVsince
+p93
+I1
+sVplease
+p94
+I5
+sVpoison
+p95
+I1
+sVwouldnt
+p96
+I1
+sVstupid
+p97
+I1
+sVmum
+p98
+I1
+sVprobably
+p99
+I2
+sVyoull
+p100
+I1
+sVrappers
+p101
+I1
+sVteachers
+p102
+I2
+sVass
+p103
+I1
+sVshaker
+p104
+I2
+sVkicked
+p105
+I2
+sVrun
+p106
+I2
+sVparent
+p107
+I1
+sVbreathin
+p108
+I1
+sVlike
+p109
+I2
+sVlittle
+p110
+I6
+sVhere
+p111
+I1
+sVeminem
+p112
+I1
+sVlet
+p113
+I3
+sValone
+p114
+I1
+sVlaughin
+p115
+I1
+sVwheezin
+p116
+I1
+sVcome
+p117
+I1
+sVbackfired
+p118
+I1
+sVmessed
+p119
+I1
+sVcookin
+p120
+I1
+sVbox
+p121
+I1
+sVboy
+p122
+I1
+sVlast
+p123
+I2
+sVwould
+p124
+I2
+sVanything
+p125
+I1
+sVill
+p126
+I1
+sVballpark
+p127
+I1
+sVtimes
+p128
+I1
+sVthing
+p129
+I1
+sVdinner
+p130
+I1
+sVher
+p131
+I1
+sVsmoke
+p132
+I1
+sVincoherint
+p133
+I1
+sVcountin
+p134
+I1
+sVasked
+p135
+I1
+sVfuckin
+p136
+I1
+sVthinner
+p137
+I1
+sVdont
+p138
+I3
+sVtuesday
+p139
+I1
+sVerrands
+p140
+I1
+sVgrowin
+p141
+I1
+sVhey
+p142
+I2
+sVbitch
+p143
+I2
+sVfake
+p144
+I1
+sVcussin
+p145
+I1
+sVwan
+p146
+I1
+sVbingo
+p147
+I1
+sVquit
+p148
+I1
+sVstory
+p149
+I1
+sVlifes
+p150
+I1
+sVgoin
+p151
+I2
+sVtoothpaste
+p152
+I1
+sVthere
+p153
+I2
+sVsock
+p154
+I1
+sVtwo
+p155
+I6
+sVraped
+p156
+I1
+sVmuch
+p157
+I1
+sVdamn
+p158
+I2
+sVtape
+p159
+I1
+sVwhite
+p160
+I1
+sVtryin
+p161
+I2
+sVstore
+p162
+I1
+sVfaced
+p163
+I1
+sVlife
+p164
+I1
+sVdoor
+p165
+I1
+sVcope
+p166
+I1
+sVthousand
+p167
+I1
+sVnobody
+p168
+I1
+sVcant
+p169
+I1
+sVyeah
+p170
+I2
+sVkoolaid
+p171
+I1
+sVcops
+p172
+I2
+sVwarm
+p173
+I1
+sVlives
+p174
+I1
+sVbroke
+p175
+I1
+sVsit
+p176
+I1
+sVtrying
+p177
+I1
+sVweeks
+p178
+I1
+sVme
+p179
+I4
+sVmade
+p180
+I1
+sVjoin
+p181
+I1
+sVwalkman
+p182
+I1
+sVhappen
+p183
+I1
+sVtalking
+p184
+I1
+sVinside
+p185
+I1
+sVsneezin
+p186
+I1
+sVsingle
+p187
+I1
+sVtellin
+p188
+I1
+sVair
+p189
+I1
+sVmarriage
+p190
+I1
+sVthree
+p191
+I1
+sVattention
+p192
+I1
+sVsuitcase
+p193
+I1
+sVcracked
+p194
+I1
+sVvengence
+p195
+I1
+sVcould
+p196
+I2
+sVpack
+p197
+I2
+sVsometimes
+p198
+I1
+sVis
+p199
+I1
+sVfuck
+p200
+I1
+sVdog
+p201
+I1
+sVmiddle
+p202
+I2
+sVsay
+p203
+I3
+sVim
+p204
+I14
+sVat
+p205
+I2
+sVrap
+p206
+I2
+sVin
+p207
+I2
+sVshut
+p208
+I1
+sVwatched
+p209
+I1
+sVtoothache
+p210
+I1
+sVkeep
+p211
+I1
+sVeveryday
+p212
+I1
+sVshit
+p213
+I1
+sVsell
+p214
+I1
+sVbuilt
+p215
+I1
+sVtupac
+p216
+I1
+sVlame
+p217
+I1
+sVrather
+p218
+I1
+sVna
+p219
+I2
+sVmake
+p220
+I1
+sVporch
+p221
+I1
+sVid
+p222
+I2
+sVtil
+p223
+I1
+sVmoms
+p224
+I1
+sVneed
+p225
+I2
+sVslammed
+p226
+I1
+sVtake
+p227
+I1
+sVsick
+p228
+I1
+sVlaughed
+p229
+I1
+sVunderage
+p230
+I1
+sVsucked
+p231
+I1
+sVtransparent
+p232
+I1
+sVtried
+p233
+I1
+sVleavin
+p234
+I1
+sVbrothers
+p235
+I1
+sVit
+p236
+I2
+sVtime
+p237
+I2
+sVfriends
+p238
+I2
+sVsue
+p239
+I1
+sVstay
+p240
+I2
+sVaverage
+p241
+I1
+sVgon
+p242
+I1
+sVnever
+p243
+I1
+sVtupacs
+p244
+I1
+sVclass
+p245
+I1
+sVwheres
+p246
+I1
+sVwinter
+p247
+I1
+sVsomethin
+p248
+I1
+sVlower
+p249
+I1
+sVroom
+p250
+I1
+sVcoat
+p251
+I2
+sVclear
+p252
+I1
+sVyoure
+p253
+I2
+sVwell
+p254
+I1
+sVhungry
+p255
+I1
+sVnothin
+p256
+I1
+sVthink
+p257
+I1
+sVjacket
+p258
+I2
+sVcigarettes
+p259
+I1
+sV2000
+p260
+I1
+sVso
+p261
+I1
+sVbottle
+p262
+I1
+sVpay
+p263
+I1
+sValright
+p264
+I2
+sVsleeves
+p265
+I1
+sVaway
+p266
+I1
+sVknow
+p267
+I4
+s.

@@ -1,109 +1,877 @@
-"you can't back down" lyrics
-eminem lyrics
-"you can't back down"
-(feat. anna)
-keep on going, you just gotta fight it
-keep on going cause it's not too late
-you can't back down, you can't back down
-they ask me am i ok. they ask me if i'm happy
-are they asking me that because of the shit thats been thrown at me
-or am i just a little snappy
-and they genuinly care
-doody, most of my life its just been me and you there
-and i continuosly stare at pictures of you
-i never got to say i love you as much as i wanted to but i do
-yeah i say it now and you can't hear me
-what the fuck good does that do me now
-but somehow i know you're near me in presence
-or i went and drop some presents off to ease it to them
-two little beautiful boys of yours to try to ease their minds a little
-and dawg you'll never believe this
-but sharonda actually talks to me now
-jesus and everyone else is just tryna pick up the pieces
-man how you touch so many fucking lives and just leave us
-they say grievance has a way of affecting everyone different
-if its true, how the fuck am i supposed to get over you
-difficult as it sounds
-keep on going, you just gotta fight it
-keep on going cause it's not too late
-you can't back down, you can't back down
-doody, thats what we call eachother
-i don't know where it came from but it just stuck with us
-we was always brothers
-never thought about eachothers skin colours
-til one day we was walking up the block in the summer
-it was like 90 degrees, i was catching a sun burn
-tryna walk under the trees
-just to give me some comfort
-i'm moaning i just wanna get home
-when i look over and his shirt is off
-i'm like you gon fry and like
-"no i wont, i'm black stupid
-black people they got melatonin
-in their skin, we don't burn"
-meanwhile, my face is glowing and i felt
-like i'm on fire
-and the entire time you're just laughing at me
-and snapping at me with your shirt, bastard
-and i still have to get you back for that shit
-and by the way them playboy rings
-my mother stole from you
-well nate finally got em back shit
-it must have been at least 16 years ago
-well i put em in your cask-owww
-moving past it, it still aint registered yet
-but you can bet you're legacy they'll never forget
-the motor city mo-town
-hip hop vet, hip hop shop, dreads
-it don't stop there
-yeah, as difficult as it sounds
-keep on going, you just gotta fight it
-keep on going cause it's not too late
-you can't back down, you can't back down
-and this may sound a little strange but i'mma tell it
-i found that jacket that you left at my wedding
-and i picked it up to smell it
-i wrapped it up in plastic until i put it in glass
-and hang up in the hallway so i can always look at it
-and as for all of me and d12 we feel like fuck rap
-it feels like our general just fucking died in our lap
-we shut off all our pages,
-all our cell numbers is changed
-our two-ways are in the trash
-so some cats will have to find a new way
-and i know that it feels like the dreams will die with you today
-but the truth is there all still here and you ain't
-purple gang, you gotta pressing on
-don't ever give up the dream dog
-i got love for you all
-and doody, it's true you bought people together who never
-woulda been in the same room if it wasn't for you
-you were the peacemaker doody
-i know sometimes you were moody
-but you hated confrontation
-and truly hated the feuding
-but you were down for yours whenever it came to scrapping
-if it had to happen, it had to happen
-believe me, i know you're the one who taught me to
-throw them balls back on dresden
-from making cars to paintballing
-getting arrested
-to sitting across from eachother in cells laughing and jesting
-they tried to hit us for 5 years for that, no question
-i guess them hookers and bums that we shot up
-didn't show up for court
-so we got off on a technicality, left sweating
-me, you and whats his face
-i forgot his fucking name
-shame he even came to your funeral
-he betrayed our team
-and if i see him again i'ma punch him in the fucking face
-and thats on hallie jade, whitney lane and alaina's name
-i let the pistol bang once just to leak a shot in the air
-for you and pour some liquor out for you with obie in the parking lot of 54
-just before we were supposed to get in cars
-to come and see you once more
-difficult as it sounds
-keep on going, you just gotta fight it
-keep on going cause it's not too late
-you can't back down, you can't back down
+(dp1
+Vshop
+p2
+I1
+sVgrievance
+p3
+I1
+sVwalking
+p4
+I1
+sVfeuding
+p5
+I1
+sVshot
+p6
+I2
+sVforget
+p7
+I1
+sVlyrics
+p8
+I2
+sVsummer
+p9
+I1
+sVdreads
+p10
+I1
+sVall
+p11
+I1
+sVcaskowww
+p12
+I1
+sVyears
+p13
+I2
+sVeachothers
+p14
+I1
+sVever
+p15
+I1
+sVgang
+p16
+I1
+sVcontinuosly
+p17
+I1
+sVskin
+p18
+I2
+sVtouch
+p19
+I1
+sVwhats
+p20
+I1
+sVstill
+p21
+I3
+sVfeat
+p22
+I1
+sVyet
+p23
+I1
+sVone
+p24
+I2
+sVcell
+p25
+I1
+sVvet
+p26
+I1
+sVentire
+p27
+I1
+sVimma
+p28
+I1
+sVhated
+p29
+I2
+sVease
+p30
+I2
+sVshow
+p31
+I1
+sVactually
+p32
+I1
+sVpresents
+p33
+I1
+sVto
+p34
+I1
+sVfinally
+p35
+I1
+sVsnappy
+p36
+I1
+sVdegrees
+p37
+I1
+sVima
+p38
+I1
+sVmoody
+p39
+I1
+sVcity
+p40
+I1
+sVnate
+p41
+I1
+sVta
+p42
+I5
+sVhip
+p43
+I2
+sVdo
+p44
+I1
+sVthem
+p45
+I1
+sVgood
+p46
+I1
+sVhit
+p47
+I1
+sVget
+p48
+I4
+sVstop
+p49
+I1
+sVtrees
+p50
+I1
+sVtruly
+p51
+I1
+sVfeels
+p52
+I2
+sVmoaning
+p53
+I1
+sVknow
+p54
+I5
+sVwedding
+p55
+I1
+sVsharonda
+p56
+I1
+sVnow
+p57
+I2
+sVday
+p58
+I1
+sVdreams
+p59
+I1
+sVroom
+p60
+I1
+sVwont
+p61
+I1
+sVgoing
+p62
+I8
+sVsweating
+p63
+I1
+sVlike
+p64
+I7
+sVeven
+p65
+I1
+sVyoull
+p66
+I1
+sVdrop
+p67
+I1
+sVarrested
+p68
+I1
+sVleave
+p69
+I1
+sVscrapping
+p70
+I1
+sVstupid
+p71
+I1
+sVlaughing
+p72
+I2
+sVtruth
+p73
+I1
+sValways
+p74
+I2
+sVfound
+p75
+I1
+sVwent
+p76
+I1
+sVem
+p77
+I2
+sVeveryone
+p78
+I2
+sVpeople
+p79
+I2
+sVfucking
+p80
+I4
+sVjade
+p81
+I1
+sVbums
+p82
+I1
+sVback
+p83
+I13
+sVup
+p84
+I1
+sVpast
+p85
+I1
+sVtalks
+p86
+I1
+sVsee
+p87
+I2
+sVdawg
+p88
+I1
+sVpour
+p89
+I1
+sVpicked
+p90
+I1
+sVdie
+p91
+I1
+sVpeacemaker
+p92
+I1
+sVhome
+p93
+I1
+sVhappen
+p94
+I2
+sVmother
+p95
+I1
+sVtried
+p96
+I1
+sVjesus
+p97
+I1
+sVtry
+p98
+I1
+sVgon
+p99
+I1
+sVpurple
+p100
+I1
+sVpictures
+p101
+I1
+sVmotown
+p102
+I1
+sVrings
+p103
+I1
+sVfind
+p104
+I1
+sVcolours
+p105
+I1
+sVasking
+p106
+I1
+sVbang
+p107
+I1
+sVaffecting
+p108
+I1
+sVgot
+p109
+I10
+sVpistol
+p110
+I1
+sVcause
+p111
+I4
+sVacross
+p112
+I1
+sVanna
+p113
+I1
+sVbought
+p114
+I1
+sVsomehow
+p115
+I1
+sVaint
+p116
+I2
+sVshut
+p117
+I1
+sVburn
+p118
+I2
+sVdresden
+p119
+I1
+sVwan
+p120
+I1
+sVcars
+p121
+I2
+sVfuneral
+p122
+I1
+sVnever
+p123
+I5
+sVguess
+p124
+I1
+sVeminem
+p125
+I1
+sVpunch
+p126
+I1
+sVlet
+p127
+I1
+sVconfrontation
+p128
+I1
+sVmaking
+p129
+I1
+sVask
+p130
+I2
+sVsitting
+p131
+I1
+sVwanted
+p132
+I1
+sVcome
+p133
+I1
+sVthrow
+p134
+I1
+sVcare
+p135
+I1
+sVthrown
+p136
+I1
+sVon
+p137
+I1
+sVok
+p138
+I1
+sVgetting
+p139
+I1
+sVmany
+p140
+I1
+sVchanged
+p141
+I1
+sVminds
+p142
+I1
+sVkeep
+p143
+I8
+sVpick
+p144
+I1
+sVbetrayed
+p145
+I1
+sVblock
+p146
+I1
+sVthats
+p147
+I3
+sVlove
+p148
+I2
+sVdont
+p149
+I4
+sVteam
+p150
+I1
+sVpresence
+p151
+I1
+sVfeel
+p152
+I1
+sVgenuinly
+p153
+I1
+sVdown
+p154
+I5
+sVput
+p155
+I2
+sVtaught
+p156
+I1
+sVmotor
+p157
+I1
+sVsounds
+p158
+I3
+sVplastic
+p159
+I1
+sVparking
+p160
+I1
+sVstare
+p161
+I1
+sVlate
+p162
+I4
+sVlittle
+p163
+I4
+sVlegacy
+p164
+I1
+sVthere
+p165
+I2
+sVquestion
+p166
+I1
+sVtwo
+p167
+I1
+sVleast
+p168
+I1
+sVfight
+p169
+I4
+sVstuck
+p170
+I1
+sVmuch
+p171
+I1
+sVcall
+p172
+I1
+sVway
+p173
+I3
+sVtime
+p174
+I1
+sVwrapped
+p175
+I1
+sVblack
+p176
+I2
+sVfry
+p177
+I1
+sVtell
+p178
+I1
+sVtoday
+p179
+I1
+sVhappy
+p180
+I1
+sVhookers
+p181
+I1
+sVtryna
+p182
+I2
+sVlife
+p183
+I1
+sVplayboy
+p184
+I1
+sVgeneral
+p185
+I1
+sVtwoways
+p186
+I1
+sVname
+p187
+I2
+sVfire
+p188
+I1
+sVregistered
+p189
+I1
+sVelse
+p190
+I1
+sVboys
+p191
+I1
+sVhear
+p192
+I1
+sVwhitney
+p193
+I1
+sVliquor
+p194
+I1
+sV90
+p195
+I1
+sVbelieve
+p196
+I2
+sVtrue
+p197
+I2
+sVmust
+p198
+I1
+sVme
+p199
+I3
+sVballs
+p200
+I1
+sVlook
+p201
+I2
+sV16
+p202
+I1
+sVthis
+p203
+I1
+sVcells
+p204
+I1
+sVsay
+p205
+I3
+sVus
+p206
+I3
+sVair
+p207
+I1
+sVjesting
+p208
+I1
+sVnear
+p209
+I1
+sVcatching
+p210
+I1
+sVsupposed
+p211
+I2
+sVcats
+p212
+I1
+sVmore
+p213
+I1
+sVdidnt
+p214
+I1
+sV54
+p215
+I1
+sVbet
+p216
+I1
+sVago
+p217
+I1
+sVbeautiful
+p218
+I1
+sVsometimes
+p219
+I1
+sVhallie
+p220
+I1
+sVgive
+p221
+I2
+sVwasnt
+p222
+I1
+sVwell
+p223
+I2
+sVforgot
+p224
+I1
+sVfuck
+p225
+I3
+sVpieces
+p226
+I1
+sVshame
+p227
+I1
+sVcant
+p228
+I11
+sVpressing
+p229
+I1
+sVim
+p230
+I5
+sVnumbers
+p231
+I1
+sVrap
+p232
+I1
+sVmelatonin
+p233
+I1
+sVstole
+p234
+I1
+sValainas
+p235
+I1
+sVshit
+p236
+I3
+sVobie
+p237
+I1
+sVjacket
+p238
+I1
+sVdifferent
+p239
+I1
+sVtheyll
+p240
+I1
+sVshirt
+p241
+I2
+sVd12
+p242
+I1
+sVna
+p243
+I1
+sVcomfort
+p244
+I1
+sVtechnicality
+p245
+I1
+sVtil
+p246
+I1
+sVsound
+p247
+I1
+sVglowing
+p248
+I1
+sVstrange
+p249
+I1
+sV5
+I1
+sVhop
+p250
+I2
+sVnew
+p251
+I1
+sVyou
+p252
+I4
+sVtrash
+p253
+I1
+sVsmell
+p254
+I1
+sVdifficult
+p255
+I3
+sVhallway
+p256
+I1
+sVbrothers
+p257
+I1
+sVmay
+p258
+I1
+sVleak
+p259
+I1
+sVit
+p260
+I7
+sVfelt
+p261
+I1
+sVhang
+p262
+I1
+sVbastard
+p263
+I1
+sVwalk
+p264
+I1
+sVpaintballing
+p265
+I1
+sVlot
+p266
+I1
+sVmoving
+p267
+I1
+sVwoulda
+p268
+I1
+sVcourt
+p269
+I1
+sVlap
+p270
+I1
+sVpages
+p271
+I1
+sVdied
+p272
+I1
+sVman
+p273
+I1
+sVyeah
+p274
+I2
+sVlane
+p275
+I1
+sVoff
+p276
+I1
+sVglass
+p277
+I1
+sVwhenever
+p278
+I1
+sVeachother
+p279
+I2
+sVyoure
+p280
+I4
+sVsnapping
+p281
+I1
+sVdog
+p282
+I1
+sVtogether
+p283
+I1
+sVface
+p284
+I3
+sVthought
+p285
+I1
+sVcame
+p286
+I3
+sVsun
+p287
+I1
+sVlives
+p288
+I1
+sVmeanwhile
+p289
+I1
+sVdream
+p290
+I1
+sVdoody
+p291
+I4
+sVleft
+p292
+I2
+s.

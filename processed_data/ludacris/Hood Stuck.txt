@@ -1,72 +1,620 @@
-"hood stuck" lyrics
-ludacris lyrics
-"hood stuck"
-eastside, eastside nigga wha?
-(eastside, eastside nigga what?)
-i'm talk bout da westside, westside nigga wha?
-(westside, westside nigga wha?)
-northside, northside nigga wha?
-(northside, northside nigga wha?)
-southside, southside nigga wha?
-(southside, southside nigga wha?)
-good luck, time to get hood stuck
-caldasac trap, mr. good stuff
-ludacris give me 20 push-ups
-last summer, got da hook up
-you know what i did
-who'd eva thought up they grew up on one of the bebe kids
-type of rat, sat on my ass
-and fiendin' for cash
-almost got signed with puff puff, but i think i'll pass
-now what we got 'round here is a 20-20 twins
-and whats up in my hand, is a bottle of gin
-i love women so i'm in it to win it
-in it to green
-in it to get in it and get in it again
-you got two booties so you whippin yo chin
-and i don't blame you
-i lay in da sand, ya'll lay in da snow and make angels
-my ice piece dangle
-make my chest look older
-touch it and fall apart like yo high school folder
-i'ma trojan man, bhs hall supplier
-shady park resident and southside rider
-get back, time to get hood jacked
-gold chain, took dat
-world of ghetto fabolous dopeboys and hoodrats
-becareful what you look at
-cause you lookin to long
-you might go blind in my briefs cause my dick is too long
-i'm gettin nutt while i'm singin this song
-and there is enough for everybody in da party
-while ya'll hittin da bong
-but ya'll be hittin my schlong
-you play the flute quite nicely
-when teeth interrupt, you can watch as i get fiesty
-oh no, you suckas didn't request back up
-broads i seem to rack up
-when i pull da gold acta
-get slapped up
-drove up da wall
-put it in reverse
-you can hope for the best, but expect the worst
-you at a place like some d's on a hurst
-its quite funny
-phat rabbit, playboy bunny
-it seems as if thats what i need
-filthy south and ds
-thats why i roll in from da southside breeze
-give it to me now
-your pick time to get hood sick
-hit'em wit a good lick
-clean out yo house from da couch to da toothpick
-eastside ruthless
-westside leave 'em clueless
-my northside mackers got dis broads actin foolish
-and do this for a living
-while you stuck up in yo cubicle
-nightlife runnin dis streets, it sounds beautiful
-women break a cuticle
-ballas break bread
-southside, i represent it till i'm dead
-what wha
+(dp1
+Vnorthside
+p2
+I5
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I2
+sVfall
+p5
+I1
+sVsnow
+p6
+I1
+sVschlong
+p7
+I1
+sVslapped
+p8
+I1
+sVtouch
+p9
+I1
+sVlove
+p10
+I1
+sVtoothpick
+p11
+I1
+sVima
+p12
+I1
+sV20
+p13
+I1
+sVgold
+p14
+I2
+sVtill
+p15
+I1
+sVdick
+p16
+I1
+sVseems
+p17
+I1
+sVds
+p18
+I2
+sVactin
+p19
+I1
+sVbooties
+p20
+I1
+sVbout
+p21
+I1
+sVghetto
+p22
+I1
+sVmight
+p23
+I1
+sVhope
+p24
+I1
+sVacta
+p25
+I1
+sVgood
+p26
+I3
+sVyo
+p27
+I4
+sVget
+p28
+I8
+sVwatch
+p29
+I1
+sVda
+p30
+I11
+sVdat
+p31
+I1
+sVhitem
+p32
+I1
+sVfiendin
+p33
+I1
+sVknow
+p34
+I1
+sVsouthside
+p35
+I7
+sVinterrupt
+p36
+I1
+sVworld
+p37
+I1
+sVnow
+p38
+I1
+sVhall
+p39
+I1
+sVapart
+p40
+I1
+sVschool
+p41
+I1
+sVlike
+p42
+I2
+sVdid
+p43
+I1
+sVeva
+p44
+I1
+sVgettin
+p45
+I1
+sVbunny
+p46
+I1
+sVleave
+p47
+I1
+sVnicely
+p48
+I1
+sVsand
+p49
+I1
+sVstuff
+p50
+I1
+sVmackers
+p51
+I1
+sVtrap
+p52
+I1
+sVhittin
+p53
+I2
+sVclean
+p54
+I1
+sVfoolish
+p55
+I1
+sVbong
+p56
+I1
+sVround
+p57
+I1
+sVyall
+p58
+I3
+sVluck
+p59
+I1
+sVem
+p60
+I1
+sVnigga
+p61
+I8
+sVhouse
+p62
+I1
+sVstreets
+p63
+I1
+sVback
+p64
+I2
+sVdead
+p65
+I1
+sVup
+p66
+I4
+sVgo
+p67
+I1
+sVsummer
+p68
+I1
+sVexpect
+p69
+I1
+sVpass
+p70
+I1
+sVbest
+p71
+I1
+sVliving
+p72
+I1
+sVwhat
+p73
+I1
+sVrepresent
+p74
+I1
+sVbecareful
+p75
+I1
+sVice
+p76
+I1
+sVenough
+p77
+I1
+sVtwins
+p78
+I1
+sVsupplier
+p79
+I1
+sVgot
+p80
+I5
+sVcause
+p81
+I2
+sVworst
+p82
+I1
+sVsong
+p83
+I1
+sVass
+p84
+I1
+sVquite
+p85
+I2
+sVblame
+p86
+I1
+sVsingin
+p87
+I1
+sVput
+p88
+I1
+sVclueless
+p89
+I1
+sVwestside
+p90
+I5
+sVkids
+p91
+I1
+sVlast
+p92
+I1
+sVreverse
+p93
+I1
+sVoh
+p94
+I1
+sVill
+p95
+I1
+sVrack
+p96
+I1
+sVplace
+p97
+I1
+sVfabolous
+p98
+I1
+sVlookin
+p99
+I1
+sVpick
+p100
+I1
+sVpuff
+p101
+I2
+sVchain
+p102
+I1
+sVdis
+p103
+I2
+sVthink
+p104
+I1
+sVsouth
+p105
+I1
+sVthats
+p106
+I2
+sVblind
+p107
+I1
+sVwhats
+p108
+I1
+sVdont
+p109
+I1
+sVwall
+p110
+I1
+sVwin
+p111
+I1
+sVbread
+p112
+I1
+sVone
+p113
+I1
+sVhook
+p114
+I1
+sVwit
+p115
+I1
+sVcuticle
+p116
+I1
+sVsounds
+p117
+I1
+sVdrove
+p118
+I1
+sVcubicle
+p119
+I1
+sVhood
+p120
+I5
+sVeverybody
+p121
+I1
+sVballas
+p122
+I1
+sVdangle
+p123
+I1
+sVtwo
+p124
+I1
+sVlong
+p125
+I2
+sVstuck
+p126
+I4
+sVteeth
+p127
+I1
+sVwhod
+p128
+I1
+sVgin
+p129
+I1
+sVangels
+p130
+I1
+sVplayboy
+p131
+I1
+sVsuckas
+p132
+I1
+sVpark
+p133
+I1
+sVtook
+p134
+I1
+sVbriefs
+p135
+I1
+sVrabbit
+p136
+I1
+sVfolder
+p137
+I1
+sVwomen
+p138
+I2
+sVbebe
+p139
+I1
+sVpull
+p140
+I1
+sVtrojan
+p141
+I1
+sVgrew
+p142
+I1
+sVlook
+p143
+I2
+sVtype
+p144
+I1
+sVcash
+p145
+I1
+sVsigned
+p146
+I1
+sVdopeboys
+p147
+I1
+sVbroads
+p148
+I2
+sV2020
+p149
+I1
+sVnightlife
+p150
+I1
+sVmr
+p151
+I1
+sVchin
+p152
+I1
+sVpiece
+p153
+I1
+sVdidnt
+p154
+I1
+sVeastside
+p155
+I5
+sVhurst
+p156
+I1
+sVbeautiful
+p157
+I1
+sVlick
+p158
+I1
+sVgive
+p159
+I2
+sValmost
+p160
+I1
+sVit
+p161
+I1
+sVroll
+p162
+I1
+sVhigh
+p163
+I1
+sVrat
+p164
+I1
+sVim
+p165
+I5
+sVat
+p166
+I1
+sVneed
+p167
+I1
+sVbhs
+p168
+I1
+sVseem
+p169
+I1
+sVsat
+p170
+I1
+sVcaldasac
+p171
+I1
+sVagain
+p172
+I1
+sVmake
+p173
+I2
+sVnutt
+p174
+I1
+sVpushups
+p175
+I1
+sVcouch
+p176
+I1
+sVrunnin
+p177
+I1
+sVchest
+p178
+I1
+sVsick
+p179
+I1
+sVparty
+p180
+I1
+sVyou
+p181
+I1
+sVrider
+p182
+I1
+sVplay
+p183
+I1
+sVwha
+p184
+I8
+sVfunny
+p185
+I1
+sVflute
+p186
+I1
+sVhand
+p187
+I1
+sVwhippin
+p188
+I1
+sVlay
+p189
+I2
+sVhoodrats
+p190
+I1
+sVfilthy
+p191
+I1
+sVman
+p192
+I1
+sVjacked
+p193
+I1
+sVbreak
+p194
+I2
+sVresident
+p195
+I1
+sVolder
+p196
+I1
+sVshady
+p197
+I1
+sVphat
+p198
+I1
+sVrequest
+p199
+I1
+sVthought
+p200
+I1
+sVruthless
+p201
+I1
+sVbreeze
+p202
+I1
+sVgreen
+p203
+I1
+sVbottle
+p204
+I1
+sVtime
+p205
+I3
+sVfiesty
+p206
+I1
+sVtalk
+p207
+I1
+s.

@@ -1,107 +1,677 @@
-"doggfather (remix)" lyrics
-snoop dogg lyrics
-"doggfather (remix)"
-(feat. timbaland)
-i know you gonna dig this
-uh huh, uh huh, uh huh
-i'm the doggfatha
-dig this
-uh huh, uh huh say what
-i'm the doggfatha
-and you know that
-uh huh uh huh
-say what say what
-i'm the doggfatha
-and you know that
-when i wizake up in the mornin (say what)
-and i get up out my bizzed (say what)
-i feel gizood, oh yes i dizoo (uh)
-cuz i still can give it up on yizoo (huh)
-cuz what is all i look fizzor (uh)
-in the fizee where the papers lizzone (uh-huh)
-but as for mizee, i own gizees (what)
-when i'm bustin rizzocks and ya know that (ticky ticky ticky ticky ticky)
-i put down more hits than mafioso niggas (uh-huh)
-and lucky luciano bout to sing soprano
-and i know, i know the way it feels (uh-huh)
-and baby bubba we gon keep it on the real (huh huh huh)
-just to getcha caught up in amazement (yeahhh, what)
-we talkin to cubans, so it might get dangerous (yeah, uh)
-now when it izzoo, people said oh dizzamn (uh-huh)
-and let the bizzow wizzow ride the trizail ha ha (uh-huh)
-how you feelin, i'm on the ceilin
-ridin like a villain makin the killins
-thrillin the crowd (uh-huh)
-with my new hairdo (hairdo)
-outbiddin you (fo sho)
-fifty dollar socks credit thousand dollar shoes (uh-huh)
-man i give the blues to the sucka m.c.'s, who you be?
-you know who i be, young nigga
-i'm the doggfatha
-(dogg dogg dogg dogg dogg dogg dogg fatha fatha)
-and ya know that, i'm the doggfatha
-(dogg dogg dogg dogg dogg dogg dogg fatha)
-and ya know that, i'm the doggfatha
-(dogg dogg dogg dogg dogg dogg dogg fatha fatha)
-and ya know that, i'm the doggfatha
-(dogg dogg dogg dogg dogg dogg fatha fatha)
-lets make a move for this paper, where we rollin dog?(uh-huh)
-we gots to get paid, make ya money all yall (what)
-when i step to the stage in my g-boy stance (what)
-and say a few rhymes that make your girl wanna dance
-i'm so fly like a dove, i come from up above
-you're trippin on your girl cause she showed me love
-nigga dont beat her, cause if you beat em, ya dont need em
-yeah they gon have your baby
-watch how fast they take your freedom (what, uh-huh)
-i believe em, and dont mistreat em, i stay up on em (what)
-but thats one to grow on nigga, let me flow on (cuzz)
-cause uh, you could rock to the rhythm you see (what)
-but you could rock to the rhythm on me..(uh-huh) me.. (uh-huh) me..
-but when you do your thang make sure you do your thang
-on the hang, and everythang is everythang
-man, i'm on this paper chase
-like them whiteboy d.a.'s was on the case (uh-huh)
-but you know i ain't tryin to floss but
-murder was the murder was the case that they lost
-(murda murda murda murda)
-now do anybody in the house remember
-when there wasn't no snoop dogg? (yeah)
-there was no rappers hollerin lbc
-am i trippin yall? (hell naw)
-now, when i grow up i wanna be like snoop, mad pussy and women
-as we do from the beginnin (uh-huh)
-in and out of the boz hotel, they say your family dont know me
-hold on homie, thats phony, informal
-say, tell, l's in jail, vest before test
-no one in my click fell (what)
-the females with the almighty fatherly
-cuz we thinkin bout peeps, what they need
-and it ain't no party like this kind (say what)
-cause you feelin where we make it hizzot
-but i'ma get back to the grizzats
-snoop d o double g comin back for a remizzax
-yeah, you know what i'm sayin?
-(dogg, da-dogg dogg dogg dogg dogg) (fatha, fatha, fatha, fatha)
-it's all about the gangstas, son
-(dogg, da-dogg dogg dogg dogg dogg dogg dogg)
-and you know that (fatha, fatha fatha fatha fatha)
-i'm the doggfatha
-say what? and i'm the pimp fatha, ha
-ha ha, i'm the dogg fatha
-say what? and i'm the timbaland fatha, ha ha
-what
-one time
-for that mind, mind
-uh huh,uh huh uh huh
-what
-ha, ain't nobody do it like me
-ha, from the southside, you see
-from the v-a, to the l-a
-what
-da-dogg da-dogg fatha fatha
-uh huh
-uh huh
-uh huh
-uh huh, what
-say what
+(dp1
+Vboz
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I1
+sVmove
+p7
+I1
+sVfizee
+p8
+I1
+sVyoung
+p9
+I1
+sVfifty
+p10
+I1
+sVpaper
+p11
+I2
+sVshowed
+p12
+I1
+sVphony
+p13
+I1
+sVhell
+p14
+I1
+sVyes
+p15
+I1
+sVstill
+p16
+I1
+sVwizzow
+p17
+I1
+sVaint
+p18
+I3
+sVbelieve
+p19
+I1
+sVsayin
+p20
+I1
+sVla
+p21
+I1
+sVinformal
+p22
+I1
+sVthang
+p23
+I2
+sVremember
+p24
+I1
+sVcuz
+p25
+I3
+sVlets
+p26
+I1
+sVls
+p27
+I1
+sVrhythm
+p28
+I2
+sVmistreat
+p29
+I1
+sVbout
+p30
+I2
+sVwomen
+p31
+I1
+sVmight
+p32
+I1
+sVlbc
+p33
+I1
+sVnaw
+p34
+I1
+sVreal
+p35
+I1
+sVme
+p36
+I3
+sVmornin
+p37
+I1
+sVget
+p38
+I4
+sVya
+p39
+I6
+sVdollar
+p40
+I2
+sVyeahhh
+p41
+I1
+sVwatch
+p42
+I1
+sVlucky
+p43
+I1
+sVfeelin
+p44
+I2
+sVfeels
+p45
+I1
+sVknow
+p46
+I14
+sVdas
+p47
+I1
+sVone
+p48
+I3
+sVpimp
+p49
+I1
+sVd
+I1
+sVtrippin
+p50
+I2
+sVlike
+p51
+I6
+sVlost
+p52
+I1
+sVdig
+p53
+I2
+sVpeeps
+p54
+I1
+sVbeginnin
+p55
+I1
+sVcuzz
+p56
+I1
+sVman
+p57
+I2
+sVrock
+p58
+I2
+sVyall
+p59
+I2
+sVsho
+p60
+I1
+sVem
+p61
+I5
+sVnigga
+p62
+I3
+sVcrowd
+p63
+I1
+sVpeople
+p64
+I1
+sVhouse
+p65
+I1
+sVcomin
+p66
+I1
+sVyeah
+p67
+I4
+sVdoggfatha
+p68
+I8
+sVsure
+p69
+I1
+sVrizzocks
+p70
+I1
+sVblues
+p71
+I1
+sVclick
+p72
+I1
+sVticky
+p73
+I5
+sVwhat
+p74
+I17
+sVgon
+p75
+I3
+sVwhiteboy
+p76
+I1
+sVfeat
+p77
+I1
+sVbizzed
+p78
+I1
+sVcase
+p79
+I2
+sVfloss
+p80
+I1
+sVabove
+p81
+I1
+sVnew
+p82
+I1
+sVdizoo
+p83
+I1
+sVhollerin
+p84
+I1
+sVcause
+p85
+I4
+sVbubba
+p86
+I1
+sVbe
+p87
+I1
+sVstance
+p88
+I1
+sVwan
+p89
+I2
+sVfatha
+p90
+I21
+sVridin
+p91
+I1
+sVg
+I1
+sVstep
+p92
+I1
+sVlet
+p93
+I2
+sVima
+p94
+I1
+sVput
+p95
+I1
+sVamazement
+p96
+I1
+sVkillins
+p97
+I1
+sVcome
+p98
+I1
+sVstage
+p99
+I1
+sVmafioso
+p100
+I1
+sVhits
+p101
+I1
+sVthrillin
+p102
+I1
+sVoh
+p103
+I2
+sVfreedom
+p104
+I1
+sVcould
+p105
+I2
+sVhuhuh
+p106
+I1
+sVo
+I1
+sVkeep
+p107
+I1
+sVcredit
+p108
+I1
+sVfell
+p109
+I1
+sVdizzamn
+p110
+I1
+sVremizzax
+p111
+I1
+sVthats
+p112
+I2
+sVcubans
+p113
+I1
+sVhold
+p114
+I1
+sVlove
+p115
+I1
+sVdont
+p116
+I4
+sVfamily
+p117
+I1
+sVfeel
+p118
+I1
+sVpussy
+p119
+I1
+sVmakin
+p120
+I1
+sVsocks
+p121
+I1
+sVwizake
+p122
+I1
+sVsing
+p123
+I1
+sVuhhuh
+p124
+I11
+sVkind
+p125
+I1
+sVdoguhhuh
+p126
+I1
+sVsnoop
+p127
+I4
+sVdogg
+p128
+I42
+sVcaught
+p129
+I1
+sVfast
+p130
+I1
+sVceilin
+p131
+I1
+sValmighty
+p132
+I1
+sVway
+p133
+I1
+sVyizoo
+p134
+I1
+sVtell
+p135
+I1
+sVson
+p136
+I1
+sVmurder
+p137
+I2
+sVfemales
+p138
+I1
+sVbizzow
+p139
+I1
+sVgetcha
+p140
+I1
+sVmind
+p141
+I2
+sVthousand
+p142
+I1
+sVhotel
+p143
+I1
+sVhuh
+p144
+I17
+sVgizees
+p145
+I1
+sVbut
+p146
+I1
+sVback
+p147
+I2
+sVsoprano
+p148
+I1
+sVhizzot
+p149
+I1
+sVtimbaland
+p150
+I2
+sVbaby
+p151
+I2
+sVha
+p152
+I9
+sVmcs
+p153
+I1
+sVdadogg
+p154
+I4
+sVoutbiddin
+p155
+I1
+sVfly
+p156
+I1
+sVgizood
+p157
+I1
+sVtryin
+p158
+I1
+sVlook
+p159
+I1
+sVizzoo
+p160
+I1
+sVniggas
+p161
+I1
+sVthis
+p162
+I2
+sVdangerous
+p163
+I1
+sVride
+p164
+I1
+sVhairdo
+p165
+I2
+sVvillain
+p166
+I1
+sVrhymes
+p167
+I1
+sVuh
+p168
+I17
+sVluciano
+p169
+I1
+sVsucka
+p170
+I1
+sVlizzone
+p171
+I1
+sVva
+p172
+I1
+sVvest
+p173
+I1
+sVmeuhhuh
+p174
+I1
+sVgive
+p175
+I2
+sVwasnt
+p176
+I1
+sVgangstas
+p177
+I1
+sVanybody
+p178
+I1
+sVsay
+p179
+I12
+sVhomie
+p180
+I1
+sVim
+p181
+I16
+sVgrizzats
+p182
+I1
+sVneed
+p183
+I2
+sVgirl
+p184
+I2
+sVchase
+p185
+I1
+sVna
+p186
+I3
+sVmake
+p187
+I5
+sVthat
+p188
+I2
+sVfizzor
+p189
+I1
+sVbeat
+p190
+I2
+sVtake
+p191
+I1
+sVpapers
+p192
+I1
+sVtest
+p193
+I1
+sVparty
+p194
+I1
+sVfatherly
+p195
+I1
+sVtalkin
+p196
+I1
+sVgboy
+p197
+I1
+sVsee
+p198
+I2
+sVtrizail
+p199
+I1
+sVgots
+p200
+I1
+sVtime
+p201
+I1
+sVhang
+p202
+I1
+sVpaid
+p203
+I1
+sVstay
+p204
+I1
+sVrappers
+p205
+I1
+sVsaid
+p206
+I1
+sVmad
+p207
+I1
+sVdove
+p208
+I1
+sVgrow
+p209
+I2
+sVfo
+p210
+I1
+sVremix
+p211
+I2
+sVdoggfather
+p212
+I2
+sVsouthside
+p213
+I1
+sVnobody
+p214
+I1
+sVyoure
+p215
+I1
+sVflow
+p216
+I1
+sVbustin
+p217
+I1
+sVrollin
+p218
+I1
+sVdouble
+p219
+I1
+sVjail
+p220
+I1
+sVeverythang
+p221
+I2
+sVmurda
+p222
+I4
+sVthinkin
+p223
+I1
+sVmizee
+p224
+I1
+s.

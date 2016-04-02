@@ -1,51 +1,380 @@
-"sumthing like this night" lyrics
-snoop dogg lyrics
-"sumthing like this night"
-(feat. gorillaz)
-top selector number one big snoop d-o-double-g, ya!
-come again, bo, bo!
-there's somethin 'bout this night
-somethin 'bout this light, yahhhhh
-illa dilla, i'ma killer
-snoopy dogg with the gorillaz
-layin low, on the flo'
-my hands up high, i'm full of 'dro
-girlies tryin to kiss me slow
-i'm leanin like a sixty-fo'
-this life i live's incredible
-these trees i breeze are medical
-take a look, in my eyes
-hold on tight, enjoy the ride
-if you don't feel good then you out of place
-my universe, is outer space
-my look, my style, my prada case
-lil' daddy get out our face
-trip this, sip this, hit that, now sit on back
-and let dogg go and get on that
-party people you invited
-have you ever tried it... somethin like this night
-i can try to smoke wit'chu, somethin like this night
-have you ever tried it... somethin like this night
-i can try to smoke wit'chu, somethin like this night
-somethin like this night, somethin like this night
-somethin like this night, somethin like this night
-what a night to get involved
-everybody have a pause
-celebrate and fill your cup
-drink until you get enough
-how you feel, i got that feelin
-disco lights hang from the ceiling
-ain't nobody on the wall
-pop it, drop it, let that fall
-hey dj, play my song
-step back, let it bang all night long
-i need your attention, no hopin or wishin
-come in in high-definition
-said i do, right that i do
-get up and get money, yep that i do
-rode it, ride it, lick it
-bite it, roll it, ride it
-party people you invited
-party people you invited
-somethin like this night, somethin like this
-somethin like this night, somethin like this night
+(dp1
+Vsnoopy
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVfall
+p5
+I1
+sVgo
+p6
+I1
+sVyep
+p7
+I1
+sVfeat
+p8
+I1
+sVima
+p9
+I1
+sVstyle
+p10
+I1
+sVslow
+p11
+I1
+sVouter
+p12
+I1
+sVcup
+p13
+I1
+sVwall
+p14
+I1
+sVbout
+p15
+I2
+sVdo
+p16
+I2
+sVgood
+p17
+I1
+sVhit
+p18
+I1
+sVget
+p19
+I6
+sVya
+p20
+I1
+sVbig
+p21
+I1
+sVkiller
+p22
+I1
+sVtrees
+p23
+I1
+sVfeelin
+p24
+I1
+sVbang
+p25
+I1
+sVkiss
+p26
+I1
+sVhands
+p27
+I1
+sVcelebrate
+p28
+I1
+sVceiling
+p29
+I1
+sVlike
+p30
+I15
+sVdrop
+p31
+I1
+sVdisco
+p32
+I1
+sVtry
+p33
+I2
+sVnight
+p34
+I16
+sVlayin
+p35
+I1
+sVenjoy
+p36
+I1
+sVright
+p37
+I1
+sVpeople
+p38
+I3
+sVback
+p39
+I2
+sVleanin
+p40
+I1
+sVilla
+p41
+I1
+sVtried
+p42
+I2
+sVsaid
+p43
+I1
+sVspace
+p44
+I1
+sVlights
+p45
+I1
+sVenough
+p46
+I1
+sVprada
+p47
+I1
+sVit
+p48
+I2
+sVgot
+p49
+I1
+sVever
+p50
+I2
+sVwitchu
+p51
+I2
+sVaint
+p52
+I1
+sVfull
+p53
+I1
+sVbo
+p54
+I2
+sVstep
+p55
+I1
+sVpause
+p56
+I1
+sVlet
+p57
+I3
+sVcome
+p58
+I2
+sVsumthing
+p59
+I2
+sVinvolved
+p60
+I1
+sVinvited
+p61
+I3
+sVplace
+p62
+I1
+sVsmoke
+p63
+I2
+sVbite
+p64
+I1
+sVdont
+p65
+I1
+sVfeel
+p66
+I2
+sVnumber
+p67
+I1
+sVpop
+p68
+I1
+sVone
+p69
+I1
+sVgorillaz
+p70
+I2
+sVeverybody
+p71
+I1
+sVwishin
+p72
+I1
+sVsnoop
+p73
+I2
+sVdogg
+p74
+I3
+sVtop
+p75
+I1
+sVhey
+p76
+I1
+sVlong
+p77
+I1
+sVyahhhhh
+p78
+I1
+sVlow
+p79
+I1
+sVhighdefinition
+p80
+I1
+sVtryin
+p81
+I1
+sVlife
+p82
+I1
+sVthat
+p83
+I1
+sVnobody
+p84
+I1
+sVselector
+p85
+I1
+sVlives
+p86
+I1
+sVhold
+p87
+I1
+sVcase
+p88
+I1
+sVsixtyfo
+p89
+I1
+sVlook
+p90
+I2
+sVride
+p91
+I3
+sVattention
+p92
+I1
+sVflo
+p93
+I1
+sVuniverse
+p94
+I1
+sVdaddy
+p95
+I1
+sVtheres
+p96
+I1
+sVlick
+p97
+I1
+sVrode
+p98
+I1
+sVeyes
+p99
+I1
+sVhigh
+p100
+I1
+sVim
+p101
+I2
+sVneed
+p102
+I1
+sVdj
+p103
+I1
+sVtrip
+p104
+I1
+sVfill
+p105
+I1
+sVsip
+p106
+I1
+sVincredible
+p107
+I1
+sVlil
+p108
+I1
+sVdilla
+p109
+I1
+sVtight
+p110
+I1
+sVtake
+p111
+I1
+sVhopin
+p112
+I1
+sVparty
+p113
+I3
+sVroll
+p114
+I1
+sVgirlies
+p115
+I1
+sVplay
+p116
+I1
+sVdro
+p117
+I1
+sVdodoubleg
+p118
+I1
+sVdrink
+p119
+I1
+sVhang
+p120
+I1
+sVsong
+p121
+I1
+sVsomethin
+p122
+I14
+sVlight
+p123
+I1
+sVmedical
+p124
+I1
+sVsit
+p125
+I1
+sVface
+p126
+I1
+sVbreeze
+p127
+I1
+s.

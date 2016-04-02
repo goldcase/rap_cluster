@@ -1,63 +1,409 @@
-"kickin' 4 brooklyn" lyrics
-mc lyte lyrics
-"kickin' 4 brooklyn"
-kick this one for brooklyn
-(cha) (cha) (cha)
-kick this one for the 90s
-(boom) (cha-cha)
-now kick this one here for me & my dj
-(boom) (cha) (boom) (cha) (boom)
-now i was rockin this party in the 90s, brooklyn
-you know where the people get hype
-'ll rock a party from friday to saturday night
-48 hours done, and i still hold the mic
-i try to put you down and say that i'm through
-but they give it back to me and say, "continue"
-that's the thing about brooklyn, they never get enough
-of the rap and the music and all the good stuff
-that makes your life worth livin for
-respect is the crowd, the crowd that i draw
-never am i dissed, and never ever shall i be
-ain't a mc alive that can deal with me
-and if you think you're the one that can deal with this
-well, you ah - best prepare for a big fat dis
-kick this one for brooklyn
-(cha) (cha) (cha)
-kick this one for the 90s
-(boom) (cha) (cha)
-now kick this one here for me & my dj
-(boom) (cha) (boom) (cha) (boom)
-now i was chillin in flatbush, mindin my own
-when a girl walked up with a chrome microphone
-she said, "hey, mc lyte, i heard about you
-so here's the microphone, let's see what you can do"
-so i took the microphone and i threw it to the ground
-cause i need no assist when it comes to gettin down
-when i start to rap, she start to shake
-she knew to confront me was truly a mistake
-so she picked the microphone off the grey concrete
-and before i turned around, she was down the street
-now kick this one for brooklyn
-(cha) (cha) (cha)
-kick this one for the 90s
-(boom) (cha-cha)
-now kick this one here for me & my dj
-(boom) (cha) (boom) (cha) (boom)
-now when i'm on the stage, everyone starts starin
-is it what i'm sayin, or is it what i'm wearin?
-50/50 chance it's what i'm sayin
-and at the same time what my deejay is playin
-if you can get hype and sort of like loud
-yo, k-rock, kick this one for the crowd
-i been to lots of parties, mostly uptown
-and one thing i noticed: young people get down
-so hip-hoppers, hip-hoppers, from all around
-get with the funky sound
-kick this one for brooklyn
-(cha) (cha) (cha)
-now kick this one for the 90s
-(boom) (cha-cha)
-now kick this one here for me & my dj
-(boom) (cha-cha-cha)
-(boom) (cha-cha-cha)
-(boom) (cha-cha-cha-cha-cha-cha-cha-chack)
+(dp1
+Vlyrics
+p2
+I2
+sVconfront
+p3
+I1
+sVyoung
+p4
+I1
+sVthrough
+p5
+I1
+sVshake
+p6
+I1
+sVstill
+p7
+I1
+sVchillin
+p8
+I1
+sVground
+p9
+I1
+sVaint
+p10
+I1
+sVsayin
+p11
+I2
+sVll
+p12
+I1
+sVkrock
+p13
+I1
+sVknew
+p14
+I1
+sVlets
+p15
+I1
+sV4
+I2
+sVworth
+p16
+I1
+sVkick
+p17
+I13
+sVdo
+p18
+I1
+sVgood
+p19
+I1
+sVdj
+p20
+I4
+sVlivin
+p21
+I1
+sVyo
+p22
+I1
+sVget
+p23
+I5
+sVchachachachachachachachack
+p24
+I1
+sVbig
+p25
+I1
+sVrock
+p26
+I1
+sVfat
+p27
+I1
+sVtruly
+p28
+I1
+sVknow
+p29
+I1
+sVlike
+p30
+I1
+sVwearin
+p31
+I1
+sVcause
+p32
+I1
+sVgettin
+p33
+I1
+sVtry
+p34
+I1
+sVstuff
+p35
+I1
+sVnight
+p36
+I1
+sVhype
+p37
+I2
+sVdis
+p38
+I1
+sVeveryone
+p39
+I1
+sVcrowd
+p40
+I3
+sVpeople
+p41
+I2
+sVback
+p42
+I1
+sValive
+p43
+I1
+sVsee
+p44
+I1
+sVstreet
+p45
+I1
+sVpicked
+p46
+I1
+sVuptown
+p47
+I1
+sVplayin
+p48
+I1
+sVgirl
+p49
+I1
+sVsaturday
+p50
+I1
+sVbest
+p51
+I1
+sV90s
+p52
+I5
+sVsaid
+p53
+I1
+sVfor
+p54
+I1
+sVchachacha
+p55
+I2
+sVheres
+p56
+I1
+sVenough
+p57
+I1
+sVcontinue
+p58
+I1
+sVever
+p59
+I1
+sVbe
+p60
+I1
+sVfriday
+p61
+I1
+sVnever
+p62
+I3
+sVdeejay
+p63
+I1
+sVhours
+p64
+I1
+sVchacha
+p65
+I3
+sVput
+p66
+I1
+sVstage
+p67
+I1
+sVstarts
+p68
+I1
+sVchance
+p69
+I1
+sVchrome
+p70
+I1
+sVfunky
+p71
+I1
+sVmakes
+p72
+I1
+sVthink
+p73
+I1
+sVcomes
+p74
+I1
+sVthats
+p75
+I1
+sVown
+p76
+I1
+sVone
+p77
+I15
+sVdown
+p78
+I2
+sVdone
+p79
+I1
+sVparties
+p80
+I1
+sVrespect
+p81
+I1
+sVcha
+p82
+I20
+sVdeal
+p83
+I2
+sVprepare
+p84
+I1
+sVlyte
+p85
+I2
+sVhey
+p86
+I1
+sVnoticed
+p87
+I1
+sVstart
+p88
+I2
+sVmusic
+p89
+I1
+sVrockin
+p90
+I1
+sVthrew
+p91
+I1
+sVsort
+p92
+I1
+sVlife
+p93
+I1
+sVmostly
+p94
+I1
+sVtook
+p95
+I1
+sVhold
+p96
+I1
+sVme
+p97
+I1
+sVmc
+p98
+I3
+sVthis
+p99
+I1
+sVgrey
+p100
+I1
+sVdissed
+p101
+I1
+sVmindin
+p102
+I1
+sVmistake
+p103
+I1
+sVgive
+p104
+I1
+sVah
+p105
+I1
+sVturned
+p106
+I1
+sVheard
+p107
+I1
+sVsay
+p108
+I2
+sVim
+p109
+I5
+sVrap
+p110
+I2
+sVneed
+p111
+I1
+sV5050
+p112
+I1
+sVaround
+p113
+I2
+sVmicrophone
+p114
+I4
+sV48
+p115
+I1
+sVthing
+p116
+I2
+sVmic
+p117
+I1
+sVsound
+p118
+I1
+sVboom
+p119
+I16
+sVparty
+p120
+I2
+sVyou
+p121
+I1
+sVdraw
+p122
+I1
+sVshall
+p123
+I1
+sVassist
+p124
+I1
+sVflatbush
+p125
+I1
+sVbrooklyn
+p126
+I8
+sVstarin
+p127
+I1
+sVlots
+p128
+I1
+sVloud
+p129
+I1
+sVhiphoppers
+p130
+I2
+sVyoure
+p131
+I1
+sVwell
+p132
+I1
+sVwalked
+p133
+I1
+sVconcrete
+p134
+I1
+sVtime
+p135
+I1
+sVkickin
+p136
+I2
+s.

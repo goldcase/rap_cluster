@@ -1,61 +1,514 @@
-"tomorrow" lyrics
-ice cube lyrics
-"tomorrow"
-all hail to the west coast, i am the grand wizard
-the west coast warlord, and the future is today
-cause tomorrow - that shit never come
-i worry 'bout today and this urban decay
-i worry 'bout hip-hop, when did it flip-flop
-get whack, and turn into gridlock
-i don't know is it a government plot?
-i don't give a fuck whether you love it or not
-that's all we got and if you throw it away
-you dumb as oj, off a for-tay
-in your izod, this the rap god
-what'chu gon' put up, in your ipod?
-downloader, what'chu gon' do
-when your favorite mc, got to sue you
-cause he got to eat ain't nuttin taboo
-get your ass beat by erykah badu
-cause you wanna steal this good music
-put me out of business, now you lose it
-tomorrow, don't you worry 'bout tomorrow (that shit never come)
-this is very hard to swallow
-keep your hand up on that throttle
-don't you worry 'bout tomorrow
-tomorrow, i'ma handle my business
-but today, i'ma drink this liquor
-cause tomorrow, i might be a little quicker
-but today, i'm just the same old nigga
-you know that shit is still a day away
-do yo' thang baby put your life on layaway
-cause everybody is nostradamus
-boy don't you know that tomorrow ain't promised?
-to all the lil' mamas
-don't do a nigga, like isiah thomas
-if you a bitch, please be honest
-actin like a hoe you're not an an-gel
-while you're, daydreamin 'bout your future
-motherfucker come around the corner and shoot you
-don'tcha, get stuck in neutral
-put your shit in drive, while you still alive cause
-tomorrow~! that shit never come
-i know it sounds strange but today is never done
-i'm up in the range when the clock strikes 1
-while y'all countin sheep, i'm countin benja-mons
-up on my feet at the break of the sun
-president of the gangster na-tion
-we don't go to war, we go to the store
-we rob from the rich, and give to the poor
-hip-hop, oh what a bore
-lettin college motherfuckers run the front door
-(fuck that!) let's take it back to the streets
-don't let viacom, dictate the heat
-the nerve of them, i never heard of dem
-askin me about, my urban spins
-and if i got about, a thousand of them
-i'm a crate mc, accordin to them
-fuck that!
-all hail to the west coast, i am the grand wizard
-the west coast warlord, the future is today
-get your grind on mayne, get your grind on mayne, get your grind on
+(dp1
+Vthomas
+p2
+I1
+sVlyrics
+p3
+I2
+sVrob
+p4
+I1
+sVcrate
+p5
+I1
+sVlayaway
+p6
+I1
+sVfront
+p7
+I1
+sVgo
+p8
+I2
+sVcorner
+p9
+I1
+sVstill
+p10
+I2
+sVaint
+p11
+I2
+sVdecay
+p12
+I1
+sVerykah
+p13
+I1
+sVthang
+p14
+I1
+sVwizard
+p15
+I2
+sVlets
+p16
+I1
+sVactin
+p17
+I1
+sVrich
+p18
+I1
+sVbout
+p19
+I5
+sVmight
+p20
+I1
+sVwhack
+p21
+I1
+sVtake
+p22
+I1
+sVdo
+p23
+I1
+sVthem
+p24
+I2
+sVgood
+p25
+I1
+sVhandle
+p26
+I1
+sVaround
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I6
+sVbeat
+p30
+I1
+sVcoast
+p31
+I4
+sVbreak
+p32
+I1
+sVgridlock
+p33
+I1
+sVnot
+p34
+I1
+sVizod
+p35
+I1
+sVday
+p36
+I1
+sVflipflop
+p37
+I1
+sVwhatchu
+p38
+I2
+sVlike
+p39
+I2
+sVfortay
+p40
+I1
+sVlose
+p41
+I1
+sVsteal
+p42
+I1
+sVyall
+p43
+I1
+sVquicker
+p44
+I1
+sVnuttin
+p45
+I1
+sVliquor
+p46
+I1
+sVhard
+p47
+I1
+sVback
+p48
+I1
+sVhail
+p49
+I2
+sVgangster
+p50
+I1
+sVdumb
+p51
+I1
+sVbore
+p52
+I1
+sVsue
+p53
+I1
+sVgon
+p54
+I2
+sVlettin
+p55
+I1
+sVclock
+p56
+I1
+sVgod
+p57
+I1
+sVaway
+p58
+I2
+sVplease
+p59
+I1
+sVice
+p60
+I1
+sVheat
+p61
+I1
+sVgot
+p62
+I4
+sVisiah
+p63
+I1
+sVcause
+p64
+I6
+sVdem
+p65
+I1
+sVass
+p66
+I1
+sVima
+p67
+I2
+sVmamas
+p68
+I1
+sVrun
+p69
+I1
+sVbusiness
+p70
+I2
+sVdownloader
+p71
+I1
+sVaccordin
+p72
+I1
+sVipod
+p73
+I1
+sVnever
+p74
+I5
+sVmotherfucker
+p75
+I1
+sVmayne
+p76
+I2
+sVlet
+p77
+I1
+sVviacom
+p78
+I1
+sVput
+p79
+I4
+sVtaboo
+p80
+I1
+sVcome
+p81
+I4
+sVthrow
+p82
+I1
+sVboy
+p83
+I1
+sVoj
+p84
+I1
+sVoh
+p85
+I1
+sVfavorite
+p86
+I1
+sVkeep
+p87
+I1
+sVturn
+p88
+I1
+sVrange
+p89
+I1
+sVspins
+p90
+I1
+sVswallow
+p91
+I1
+sVcountin
+p92
+I2
+sVmotherfuckers
+p93
+I1
+sVthats
+p94
+I1
+sVnerve
+p95
+I1
+sVlove
+p96
+I1
+sVdont
+p97
+I8
+sVon
+p98
+I1
+sVfeet
+p99
+I1
+sVnigga
+p100
+I2
+sVdone
+p101
+I1
+sVbitch
+p102
+I1
+sVold
+p103
+I1
+sVsounds
+p104
+I1
+sVtomorrow
+p105
+I10
+sVsheep
+p106
+I1
+sVeverybody
+p107
+I1
+sVplot
+p108
+I1
+sVlittle
+p109
+I1
+sVwest
+p110
+I4
+sVstuck
+p111
+I1
+sVmusic
+p112
+I1
+sVwar
+p113
+I1
+sVtoday
+p114
+I6
+sVurban
+p115
+I2
+sVlife
+p116
+I1
+sVstreets
+p117
+I1
+sVdoor
+p118
+I1
+sVthat
+p119
+I1
+sVdaydreamin
+p120
+I1
+sVthousand
+p121
+I1
+sVstrikes
+p122
+I1
+sVit
+p123
+I1
+sVneutral
+p124
+I1
+sValive
+p125
+I1
+sVbaby
+p126
+I1
+sVwan
+p127
+I1
+sVeat
+p128
+I1
+sVshoot
+p129
+I1
+sVthrottle
+p130
+I1
+sVmc
+p131
+I2
+sVwhether
+p132
+I1
+sVbenjamons
+p133
+I1
+sVfuture
+p134
+I3
+sVstore
+p135
+I1
+sVcollege
+p136
+I1
+sVdontcha
+p137
+I1
+sVangel
+p138
+I1
+sVgive
+p139
+I2
+sVfuck
+p140
+I3
+sVheard
+p141
+I1
+sVcube
+p142
+I1
+sVim
+p143
+I4
+sVpromised
+p144
+I1
+sVrap
+p145
+I1
+sVdictate
+p146
+I1
+sVhonest
+p147
+I1
+sVshit
+p148
+I5
+sVhoe
+p149
+I1
+sVnostradamus
+p150
+I1
+sVlil
+p151
+I1
+sVna
+p152
+I1
+sVgovernment
+p153
+I1
+sV1
+I1
+sVstrange
+p154
+I1
+sVworry
+p155
+I4
+sVgrand
+p156
+I2
+sVyou
+p157
+I2
+sVpoor
+p158
+I1
+sVaskin
+p159
+I1
+sVdrink
+p160
+I1
+sVhand
+p161
+I1
+sVhiphop
+p162
+I2
+sVpresident
+p163
+I1
+sVnation
+p164
+I1
+sVbadu
+p165
+I1
+sVyoure
+p166
+I2
+sVdrive
+p167
+I1
+sVgrind
+p168
+I3
+sVsun
+p169
+I1
+sVwarlord
+p170
+I2
+sVknow
+p171
+I4
+s.

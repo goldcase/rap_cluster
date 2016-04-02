@@ -1,57 +1,493 @@
-"'03 bonnie & clyde" lyrics
-jay-z lyrics
-"'03 bonnie & clyde"
-(feat. beyonce)
-uhh uhh uhh.
-you ready b? let's go get 'em..
-look for me! young, b
-cruisin down the westside - high, way
-doing what we like to do - our, way
-eyes behind shades, this necklace the reason
-all of my dates been blind dates
-but today, i got my thoroughest girl wit me
-i'm mashin the gas, she's grabbin the wheel, it's trippy how hard
-she rides with me - the new bobby and whitney
-only time we don't speak is during "sex and the city"
-she gets carrie fever, but soon as the show is over
-she's right back to being my soldier
-cuz mami's a rider, and i'm a roller
-put us together, how they gon' stop both us?
-what ever she lacks, i'm right over her shoulder
-when i'm off track mami is keepin me focused
-so let's, lock this down like it's supposed to be
-the '03 bonnie and clyde, hov' and b
-all i need in this life of sin, is me and my girlfriend.
-down to ride 'til the very end, it's me and my boyfriend.
-all i need in this life of sin, is me and my girlfriend.
-down to ride 'til the very end, it's me and my boyfriend.
-the problem is, you dudes treat the one that you lovin
-with the same respect that you treat the one that you humpin
-now they 'bout nothin - if ever you mad about somethin
-it won't be that; oh no it won't be that
-i don't be at, places where we comfy at
-with no be-atch; oh no you won't see that
-and no, i ain't perfect - nobody walkin this earth's surface is
-but girlfriend, work with the kid
-i keep you workin' at hermes, birkin bag
-manolo blahnik, timbs, aviator lens
-600 drops, mercedes benz
-the only time you wear burberry to swim
-and i don't have to worry, only worry is him
-she do anything necessary for him
-and i do anything necessary for her
-so don't let the necessary occur, yep!
-(talk to 'em b)
-if i was your girlfriend
-i'll be there for you, if somebody hurts you
-even if that sombody's me
-yeah-hee (break it down for 'em)
-sometimes i trip on how happy we could be
-and so i put this on my life
-nobody or nothing will ever come between us
-and i promise i'll give my life
-my love and my trust if you was my boyfriend
-put this on my life
-the air that i breathe in, all that i believe in
-i promise i'll give my life
-my love and my trust if you was my boyfriend
+(dp1
+Vcarrie
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVover
+p5
+I1
+sVbonnie
+p6
+I3
+sVgo
+p7
+I1
+sVyep
+p8
+I1
+sVfeat
+p9
+I1
+sVaint
+p10
+I1
+sVhov
+p11
+I1
+sVblahnik
+p12
+I1
+sVbeyonce
+p13
+I1
+sVyoung
+p14
+I1
+sVclyde
+p15
+I3
+sVbout
+p16
+I1
+sVbeatch
+p17
+I1
+sVswim
+p18
+I1
+sVwont
+p19
+I3
+sVworkin
+p20
+I1
+sVget
+p21
+I1
+sVbirkin
+p22
+I1
+sVstop
+p23
+I1
+sVuhh
+p24
+I3
+sVsoon
+p25
+I1
+sVbreak
+p26
+I1
+sVgirlfriend
+p27
+I4
+sVyeahhee
+p28
+I1
+sVnew
+p29
+I1
+sVone
+p30
+I2
+sVhim
+p31
+I2
+sVshoulder
+p32
+I1
+sVnecessary
+p33
+I3
+sVlike
+p34
+I2
+sVbobby
+p35
+I1
+sVsin
+p36
+I2
+sVbag
+p37
+I1
+sVmercedes
+p38
+I1
+sVem
+p39
+I3
+sVright
+p40
+I2
+sVhard
+p41
+I1
+sVback
+p42
+I1
+sVsex
+p43
+I1
+sVsee
+p44
+I1
+sVshes
+p45
+I2
+sVperfect
+p46
+I1
+sVgirl
+p47
+I1
+sVthoroughest
+p48
+I1
+sVeven
+p49
+I1
+sV03
+p50
+I3
+sVgon
+p51
+I1
+sVsombodys
+p52
+I1
+sVtimbs
+p53
+I1
+sVbehind
+p54
+I1
+sVgot
+p55
+I1
+sVever
+p56
+I3
+sVmanolo
+p57
+I1
+sVbe
+p58
+I2
+sVearths
+p59
+I1
+sVmashin
+p60
+I1
+sVreason
+p61
+I1
+sVfocused
+p62
+I1
+sVwear
+p63
+I1
+sVhurts
+p64
+I1
+sVput
+p65
+I3
+sVwestside
+p66
+I1
+sVroller
+p67
+I1
+sVlens
+p68
+I1
+sVdates
+p69
+I2
+sVcomfy
+p70
+I1
+sVanything
+p71
+I2
+sVoh
+p72
+I2
+sVmamis
+p73
+I1
+sVshades
+p74
+I1
+sVkeep
+p75
+I1
+sVwalkin
+p76
+I1
+sVsoldier
+p77
+I1
+sVlet
+p78
+I1
+sVblind
+p79
+I1
+sVlove
+p80
+I2
+sVdont
+p81
+I4
+sVburberry
+p82
+I1
+sVdudes
+p83
+I1
+sVcuz
+p84
+I1
+sVjayz
+p85
+I1
+sVwit
+p86
+I1
+sVpromise
+p87
+I2
+sVrespect
+p88
+I1
+sVtrust
+p89
+I2
+sVspeak
+p90
+I1
+sVcity
+p91
+I1
+sVher
+p92
+I1
+sVhermes
+p93
+I1
+sVlets
+p94
+I2
+sVmami
+p95
+I1
+sVcome
+p96
+I1
+sVtreat
+p97
+I2
+sVway
+p98
+I2
+sVtoday
+p99
+I1
+sVhappy
+p100
+I1
+sVbreathe
+p101
+I1
+sVlife
+p102
+I6
+sVthat
+p103
+I2
+sVgrabbin
+p104
+I1
+sVnobody
+p105
+I2
+sVgas
+p106
+I1
+sVtrippy
+p107
+I1
+sVwhitney
+p108
+I1
+sVbelieve
+p109
+I1
+sVboyfriend
+p110
+I4
+sVme
+p111
+I2
+sVb
+I4
+sVlook
+p112
+I1
+sVplaces
+p113
+I1
+sVride
+p114
+I2
+sVwork
+p115
+I1
+sVus
+p116
+I3
+sVair
+p117
+I1
+sVcould
+p118
+I1
+sVsupposed
+p119
+I1
+sVproblem
+p120
+I1
+sVdrops
+p121
+I1
+sVill
+p122
+I3
+sVat
+p123
+I1
+sVhumpin
+p124
+I1
+sV600
+p125
+I1
+sVgive
+p126
+I2
+sVlock
+p127
+I1
+sVis
+p128
+I1
+sVbenz
+p129
+I1
+sVeyes
+p130
+I1
+sVsurface
+p131
+I1
+sVhigh
+p132
+I1
+sVneed
+p133
+I2
+sVim
+p134
+I4
+sVnothin
+p135
+I1
+sVin
+p136
+I1
+sVready
+p137
+I1
+sVsomebody
+p138
+I1
+sVlacks
+p139
+I1
+sVoccur
+p140
+I1
+sVworry
+p141
+I2
+sVend
+p142
+I2
+sVtrip
+p143
+I1
+sVtil
+p144
+I2
+sVyou
+p145
+I1
+sVgets
+p146
+I1
+sVrides
+p147
+I1
+sVrider
+p148
+I1
+sVwheel
+p149
+I1
+sVfever
+p150
+I1
+sVtrack
+p151
+I1
+sVkeepin
+p152
+I1
+sVmad
+p153
+I1
+sVnothing
+p154
+I1
+sVlovin
+p155
+I1
+sVaviator
+p156
+I1
+sVkid
+p157
+I1
+sVsomethin
+p158
+I1
+sVsometimes
+p159
+I1
+sVtogether
+p160
+I1
+sVtalk
+p161
+I1
+sVtime
+p162
+I2
+sVnecklace
+p163
+I1
+sVcruisin
+p164
+I1
+s.

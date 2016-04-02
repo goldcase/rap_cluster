@@ -1,122 +1,933 @@
-"ballin' outta control" lyrics
-e-40 lyrics
-"ballin' outta control"
-(feat. levitti)
-pushed in the game at a young age
-feel me touch me as i turn the page
-a little past ten, roughly about
-eleven years old dropped in the good location
-my scratch is smellin sour and it's stinkin
-got a nigga seriously thinkin
-"how can i kill this odor, and purchase me a lincoln?"
-minimum wage flippin patties - nope
-i'd rather fuck around with coca-cola, yola
-ice cream, candy, granola, huh
-slave for men - that's what they told me
-and i'll break you off somethin suitable
-brought you a key of crack quicker than ?
-? recoupable
-? future black and beautiful
-my partners used to be plucked and ugly
-hangin around them old squeegee boys
-man them the motherfuckers that have love for me
-they straight cut for me
-deal me, touch me, l-o-v-e
-e-to-the-f-to-the-r-t-y
-i spits the shit from the t-o-p
-it's me, the e, droppin it nuclear all the time
-motherfucker comin from the motherfuckin.. mud
-fuck you niggaz, you think i sell my soul
-but i'm way too cold, motherfucker!
-sittin in my livin room
-thinkin of, a master plan
-tryin to find a way out
-then i snatch the scratch, and laugh
-so i painted me a picture
-of a life, to make a dream
-can you feel me now
-ballin outta control, ballin outta control
-fresh off the showroom flo', bought me a ninety-fo'
-now i'm havin long money, like ross perot, so take
-notes from a big ol' ? pimp, pretty much established
-livin out of hand lavish
-throwin parties ?
-with big time folks makin big time cabbage
-become a savage, get swoll by ones
-twenty a drum's established
-six figure digits, just like i tell you like
-i got the whole city sewed up in stitches
-your product'll win if you gots top grade
-keep, your law-yers and your bail bondsmen paid
-the word on the street's is that i done came up too fast
-motherfuckers want a piece of my soul
-playa haters wanna cut my grass
-you don't wanna bring your bitch
-to what type of ? out of control sittin on tickets
-million dollar spots, technology chops
-and a motherfucker proud fool-assed ridiculous
-straight fuckin em up like that, throw me my strap man
-? feel me
-reverend would you put some blessin oil on my head
-and hear me
-i never sell my soul cause i'm way too cold
-motherfucker!  ballin outta control
-this ol' game, kids they run
-never get a second chance
-so take me to this world
-now there's always time, to getcha
-i guess by now you get the picture
-of what i'm tryin to say
-i'm ballin outta control
-"niggaz trippin off me cause i was a young motherfucker ballin"
-"every other fuckin day i'm tellin my sahies how to quit"
-"niggaz trippin off me cause i was a young motherfucker ballin"
-"we can get it on, we can get it on"
-"niggaz trippin off me cause i was a young motherfucker ballin"
-"forty-water, straight lettin em know"
-"even though my pocket's fat and my belly's bigger..
-gots to come sic-sic-sic-wid-it"
-throw, the hoe
-y'know in a big ass gumbo pot
-full stir
-let it settle to make it lock
-horse races, trips to vegas, frequent flier
-"whassup you timah, when your ass gonna retire?"
-i ain't knowin
-keep tellin myself that i'ma call it quits
-but i got myself
-too much motherfuckin cabbage out there runnin in the streets
-lookin up out the way for the one-time
-po-po penelope seriously concentratin
-noided as i watch the back for all of my chemistry
-cause fools be playa hatin
-lucrative spots and blows, investments bonds and stocks
-esquired land and crops, techno chops and glocks
-cause niggaz be tryin to make movies
-when they get all in front of these bootch ass hoochies
-i be like poppin the cap like a hungry mother
-i ain't even gon' lie i'm to'
-twoasted, looped, to' back, souped
-plastered, puked, on the get back fully recouped
-fuck these niggaz they think i'll sell my soul
-but i'm way too cold, motherfucker!
-yeah yeah, i'm ballin outta control
-out of motherfuckin control
-i'm ballin outta control
-cause i'm way too cold
-yayayy, i'm ballin outta control
-motherfucker!  ah yeah
-feel me main
-i feel you main
-can you feel me main
-yeah, i feel you main
-vitti can you feel me?
-i feel yah!
-motherfucker can you feel me?
-yeahahayahahah!
-feel me main
-i feel you main
-feel me boy?
-i'm ballin outta control, yeahahahhh
-every fuckin time
-all day, motherfucker
+(dp1
+Vsqueegee
+p2
+I1
+sVthink
+p3
+I2
+sVlyrics
+p4
+I2
+sVscratch
+p5
+I2
+sVblessin
+p6
+I1
+sVdollar
+p7
+I1
+sVlivin
+p8
+I2
+sVyears
+p9
+I1
+sVlavish
+p10
+I1
+sVlooped
+p11
+I1
+sVkill
+p12
+I1
+sVtouch
+p13
+I2
+sVcold
+p14
+I4
+sVfeat
+p15
+I1
+sVfind
+p16
+I1
+sVto
+p17
+I1
+sVdont
+p18
+I1
+sVwage
+p19
+I1
+sVpartners
+p20
+I1
+sVcut
+p21
+I2
+sVhead
+p22
+I1
+sVreverend
+p23
+I1
+sVlevitti
+p24
+I1
+sVyoung
+p25
+I4
+sVspits
+p26
+I1
+sVhavin
+p27
+I1
+sVblack
+p28
+I1
+sVlocation
+p29
+I1
+sVpretty
+p30
+I1
+sVcrack
+p31
+I1
+sVfolks
+p32
+I1
+sVmain
+p33
+I6
+sVpot
+p34
+I1
+sVross
+p35
+I1
+sVswoll
+p36
+I1
+sVgood
+p37
+I1
+sVaround
+p38
+I2
+sVget
+p39
+I7
+sVbig
+p40
+I4
+sVsittin
+p41
+I2
+sVwatch
+p42
+I1
+sVmyself
+p43
+I1
+sVfat
+p44
+I1
+sVbreak
+p45
+I1
+sVgame
+p46
+I2
+sVones
+p47
+I1
+sVevery
+p48
+I2
+sVknow
+p49
+I1
+sVfront
+p50
+I1
+sVworld
+p51
+I1
+sVnow
+p52
+I1
+sVday
+p53
+I2
+sVbigger
+p54
+I1
+sVbellys
+p55
+I1
+sVtickets
+p56
+I1
+sVtrippin
+p57
+I3
+sVlincoln
+p58
+I1
+sVspots
+p59
+I2
+sVpoppin
+p60
+I1
+sVlike
+p61
+I6
+sVpimp
+p62
+I1
+sVbring
+p63
+I1
+sVcrops
+p64
+I1
+sVcause
+p65
+I7
+sVnotes
+p66
+I1
+sVcandy
+p67
+I1
+sVsettle
+p68
+I1
+sVboy
+p69
+I1
+sValways
+p70
+I1
+sVbecome
+p71
+I1
+sVbought
+p72
+I1
+sVpage
+p73
+I1
+sVbitch
+p74
+I1
+sVem
+p75
+I2
+sVass
+p76
+I3
+sVnigga
+p77
+I1
+sVold
+p78
+I2
+sVyola
+p79
+I1
+sVten
+p80
+I1
+sVthrowin
+p81
+I1
+sVparties
+p82
+I1
+sVback
+p83
+I3
+sVpopo
+p84
+I1
+sVpast
+p85
+I1
+sVmovies
+p86
+I1
+sVsecond
+p87
+I1
+sVoil
+p88
+I1
+sVtellin
+p89
+I2
+sVtwoasted
+p90
+I1
+sVlawyers
+p91
+I1
+sVguess
+p92
+I1
+sVcocacola
+p93
+I1
+sVout
+p94
+I2
+sVeven
+p95
+I2
+sVestablished
+p96
+I2
+sVgon
+p97
+I2
+sVpatties
+p98
+I1
+sVkids
+p99
+I1
+sVnuclear
+p100
+I1
+sVthough
+p101
+I1
+sVice
+p102
+I1
+sVplucked
+p103
+I1
+sVyayayy
+p104
+I1
+sVmud
+p105
+I1
+sVseriously
+p106
+I2
+sVgranola
+p107
+I1
+sVplaya
+p108
+I2
+sVtheres
+p109
+I1
+sVwhassup
+p110
+I1
+sVgot
+p111
+I3
+sVshowroom
+p112
+I1
+sVnope
+p113
+I1
+sVtold
+p114
+I1
+sVbail
+p115
+I1
+sVaint
+p116
+I2
+sVmillion
+p117
+I1
+sVrun
+p118
+I1
+sVlettin
+p119
+I1
+sVwan
+p120
+I2
+sVodor
+p121
+I1
+sVmen
+p122
+I1
+sVmotherfucker
+p123
+I11
+sVonetime
+p124
+I1
+sVtechno
+p125
+I1
+sVlet
+p126
+I1
+sVquits
+p127
+I1
+sVkey
+p128
+I1
+sVima
+p129
+I1
+sVput
+p130
+I1
+sVgots
+p131
+I2
+sVwin
+p132
+I1
+sVthrow
+p133
+I2
+sVdigits
+p134
+I1
+sVon
+p135
+I1
+sVabout
+p136
+I1
+sVol
+p137
+I2
+sVknowin
+p138
+I1
+sVmoney
+p139
+I1
+sVill
+p140
+I2
+sVninetyfo
+p141
+I1
+sVkeep
+p142
+I2
+sVturn
+p143
+I1
+sVpockets
+p144
+I1
+sVnoided
+p145
+I1
+sVlucrative
+p146
+I1
+sVsuitable
+p147
+I1
+sVwhole
+p148
+I1
+sVmotherfuckers
+p149
+I2
+sVfuckin
+p150
+I3
+sVthats
+p151
+I1
+sVcome
+p152
+I1
+sVbeautiful
+p153
+I1
+sVvegas
+p154
+I1
+sVflier
+p155
+I1
+sVlove
+p156
+I2
+sVdrums
+p157
+I1
+sVfeel
+p158
+I13
+sVperot
+p159
+I1
+sVbondsmen
+p160
+I1
+sVsouped
+p161
+I1
+sVproductll
+p162
+I1
+sVmakin
+p163
+I1
+sVgrade
+p164
+I1
+sVstrap
+p165
+I1
+sVbrought
+p166
+I1
+sVquicker
+p167
+I1
+sVdone
+p168
+I1
+sVfast
+p169
+I1
+sVlaugh
+p170
+I1
+sVcomin
+p171
+I1
+sVyeahahahhh
+p172
+I1
+sVblows
+p173
+I1
+sVballin
+p174
+I13
+sVpuked
+p175
+I1
+sVconcentratin
+p176
+I1
+sVstitches
+p177
+I1
+sVcity
+p178
+I1
+sVlittle
+p179
+I1
+sVstocks
+p180
+I1
+sVrecoupable
+p181
+I1
+sVdeal
+p182
+I1
+sVwould
+p183
+I1
+sVglocks
+p184
+I1
+sVtwenty
+p185
+I1
+sVtop
+p186
+I2
+sVbootch
+p187
+I1
+sVlong
+p188
+I1
+sVsahies
+p189
+I1
+sVeleven
+p190
+I1
+sVmuch
+p191
+I2
+sVmaster
+p192
+I1
+sVyah
+p193
+I1
+sVway
+p194
+I6
+sVah
+p195
+I1
+sVcall
+p196
+I1
+sVbonds
+p197
+I1
+sVtryin
+p198
+I3
+sVtype
+p199
+I1
+sVtell
+p200
+I1
+sVetotheftotherty
+p201
+I1
+sVlife
+p202
+I1
+sVstreets
+p203
+I2
+sVsicsicsicwidit
+p204
+I1
+sVpurchase
+p205
+I1
+sVpainted
+p206
+I1
+sVrunnin
+p207
+I1
+sVhuh
+p208
+I1
+sVyeahahayahahah
+p209
+I1
+sVsnatch
+p210
+I1
+sVboys
+p211
+I1
+sVridiculous
+p212
+I1
+sVhear
+p213
+I1
+sVrecouped
+p214
+I1
+sVhatin
+p215
+I1
+sVhaters
+p216
+I1
+sVpenelope
+p217
+I1
+sVme
+p218
+I7
+sVe40
+p219
+I1
+sVword
+p220
+I1
+sVroom
+p221
+I1
+sVfull
+p222
+I1
+sVstraight
+p223
+I3
+sVcap
+p224
+I1
+sVsoul
+p225
+I4
+sVniggaz
+p226
+I6
+sVretire
+p227
+I1
+sVugly
+p228
+I1
+sVfuture
+p229
+I1
+sVcan
+p230
+I1
+sVflo
+p231
+I1
+sVpiece
+p232
+I1
+sVesquired
+p233
+I1
+sVtrips
+p234
+I1
+sVchops
+p235
+I2
+sVcontrol
+p236
+I12
+sVproud
+p237
+I1
+sVoutta
+p238
+I10
+sVgumbo
+p239
+I1
+sVfigure
+p240
+I1
+sVfortywater
+p241
+I1
+sVlock
+p242
+I1
+sVfuck
+p243
+I3
+sVhungry
+p244
+I1
+sVpushed
+p245
+I1
+sVsay
+p246
+I1
+sVminimum
+p247
+I1
+sVim
+p248
+I13
+sVdropped
+p249
+I1
+sVwant
+p250
+I1
+sVtake
+p251
+I2
+sVhorse
+p252
+I1
+sVtechnology
+p253
+I1
+sVid
+p254
+I1
+sVshit
+p255
+I1
+sVcream
+p256
+I1
+sVsell
+p257
+I3
+sVlie
+p258
+I1
+sVhoe
+p259
+I1
+sVrather
+p260
+I1
+sVna
+p261
+I3
+sVthinkin
+p262
+I2
+sVdroppin
+p263
+I1
+sVyknow
+p264
+I1
+sVsix
+p265
+I1
+sVgetcha
+p266
+I1
+sVmotherfuckin
+p267
+I3
+sVfools
+p268
+I1
+sVhangin
+p269
+I1
+sVstir
+p270
+I1
+sVpicture
+p271
+I2
+sVused
+p272
+I1
+sVslave
+p273
+I1
+sVlookin
+p274
+I1
+sVsavage
+p275
+I1
+sVtimah
+p276
+I1
+sVfoolassed
+p277
+I1
+sVsour
+p278
+I1
+sVquit
+p279
+I1
+sVpaid
+p280
+I1
+sVhand
+p281
+I1
+sVmother
+p282
+I1
+sVchance
+p283
+I1
+sVplan
+p284
+I1
+sVnever
+p285
+I2
+sVcabbage
+p286
+I2
+sVinvestments
+p287
+I1
+sVstinkin
+p288
+I1
+sVman
+p289
+I2
+sVyeah
+p290
+I4
+sVsomethin
+p291
+I1
+sVland
+p292
+I1
+sVe
+I1
+sVsewed
+p293
+I1
+sVfully
+p294
+I1
+sVi
+I3
+sVvitti
+p295
+I1
+sVage
+p296
+I1
+sVgrass
+p297
+I1
+sVroughly
+p298
+I1
+sVsmellin
+p299
+I1
+sVhoochies
+p300
+I1
+sVflippin
+p301
+I1
+sVraces
+p302
+I1
+sVfrequent
+p303
+I1
+sVtime
+p304
+I5
+sVfresh
+p305
+I1
+sVchemistry
+p306
+I1
+sVdream
+p307
+I1
+sVmake
+p308
+I3
+sVcame
+p309
+I1
+sVplastered
+p310
+I1
+s.

@@ -1,70 +1,465 @@
-good life lyrics
-kanye west lyrics
-good life
-feat tpain
-like always time
-go mine got shine
-throw hands sky
-ggo mine got shine
-throw hands sky
-im gonna get tv mama im gonna
-im gonna put shit down
-hey hey hey hey hey hey
-hey im good
-welcome good life
-niggas sell d
-wont even get pulled new v
-good life lets go living spree
-shit say best things life free
-good life feel like atlanta
-feel like la feel like miami
-feel like ny summertime chi ah
-throw hands sky
-roll good
-yall pop trunk pop hood ferrari
-got goods
-got ass got look sorry
-yo got cause im seasoned
-haters give salty looks lawrys
-50 told go head switch style up
-hate let em hate
-watch money pile good life
-go mine got shine
-throw hands sky
-go mine got shine
-throw hands sky
-welcome good life
-like girls aint tv
-cause got ass models
-good life keep coming bottles
-till feel boozed like bombed apollo
-good life feel like houston
-feel like philly feel like dc
-feel like va bay ye
-ayy good life
-welcome good life
-homie tell whats good
-got problem hood
-like im new hood thing wish
-wish nigga would
-probably think could but
-dont think should
-50 told go head switch style up
-hate let em hate
-watch money pile good life
-ever popped champagne plane
-getting brain
-whipped said never seen snakes plane
-whether broke rich gotta get biz
-moneys everything is
-splurging trizz
-get card back activated
-im back vegas cause
-always passion flashing it
-close eyes imagine good life
-good life better life live
-thought gonna go crazy
-grandmama aint girl calling baby
-feeling put hands sky
-let hear say hey hey hey ooh
-im good
+(dp1
+Vhouston
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVhands
+p5
+I6
+sVactivated
+p6
+I1
+sVbombed
+p7
+I1
+sVbrain
+p8
+I1
+sVever
+p9
+I1
+sVlooks
+p10
+I1
+sVgo
+p11
+I7
+sVkanye
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I2
+sVstyle
+p15
+I2
+sVapollo
+p16
+I1
+sVla
+p17
+I1
+sVtv
+p18
+I2
+sVsky
+p19
+I6
+sVshould
+p20
+I1
+sVbetter
+p21
+I1
+sVlets
+p22
+I1
+sVpile
+p23
+I2
+sVrich
+p24
+I1
+sVsorry
+p25
+I1
+sVta
+p26
+I1
+sVgood
+p27
+I18
+sVyo
+p28
+I1
+sVget
+p29
+I4
+sVwatch
+p30
+I2
+sVdc
+p31
+I1
+sVvegas
+p32
+I1
+sVbiz
+p33
+I1
+sVnew
+p34
+I2
+sVlike
+p35
+I12
+sVwont
+p36
+I1
+sVd
+I1
+sVboozed
+p37
+I1
+sVmiami
+p38
+I1
+sValways
+p39
+I2
+sV50
+p40
+I2
+sVbay
+p41
+I1
+sVlawrys
+p42
+I1
+sVyall
+p43
+I1
+sVem
+p44
+I2
+sVnigga
+p45
+I1
+sVsnakes
+p46
+I1
+sVback
+p47
+I2
+sVclose
+p48
+I1
+sVgirl
+p49
+I1
+sVcalling
+p50
+I1
+sVbest
+p51
+I1
+sVeven
+p52
+I1
+sVliving
+p53
+I1
+sVgon
+p54
+I4
+sVhate
+p55
+I4
+sVeverything
+p56
+I1
+sVpassion
+p57
+I1
+sVgot
+p58
+I11
+sVchampagne
+p59
+I1
+sVcause
+p60
+I3
+sVwhipped
+p61
+I1
+sVtold
+p62
+I2
+sVass
+p63
+I2
+sVnever
+p64
+I1
+sVfree
+p65
+I1
+sVlet
+p66
+I3
+sVtrunk
+p67
+I1
+sVput
+p68
+I2
+sVggo
+p69
+I1
+sVthrow
+p70
+I5
+sVcard
+p71
+I1
+sVshine
+p72
+I4
+sVgoods
+p73
+I1
+sVgetting
+p74
+I1
+sVcould
+p75
+I1
+sVkeep
+p76
+I1
+sVthing
+p77
+I1
+sVwest
+p78
+I1
+sVthink
+p79
+I2
+sVwhats
+p80
+I1
+sVdont
+p81
+I1
+sVtrizz
+p82
+I1
+sVfeel
+p83
+I9
+sVimagine
+p84
+I1
+sVpop
+p85
+I2
+sVdown
+p86
+I1
+sVtill
+p87
+I1
+sVhood
+p88
+I3
+sVwould
+p89
+I1
+sVchi
+p90
+I1
+sVgirls
+p91
+I1
+sVhey
+p92
+I10
+sVlive
+p93
+I1
+sVseasoned
+p94
+I1
+sVsummertime
+p95
+I1
+sVtime
+p96
+I1
+sVmama
+p97
+I1
+sVayy
+p98
+I1
+sVtell
+p99
+I1
+sVhead
+p100
+I2
+sVsaid
+p101
+I1
+sVooh
+p102
+I1
+sVbut
+p103
+I1
+sVit
+p104
+I1
+sVmoneys
+p105
+I1
+sVhear
+p106
+I1
+sVbroke
+p107
+I1
+sVbaby
+p108
+I1
+sVprobably
+p109
+I1
+sVatlanta
+p110
+I1
+sVhaters
+p111
+I1
+sVflashing
+p112
+I1
+sVlook
+p113
+I1
+sVniggas
+p114
+I1
+sVwhether
+p115
+I1
+sVwish
+p116
+I2
+sVup
+p117
+I2
+sVv
+I1
+sVsalty
+p118
+I1
+sVproblem
+p119
+I1
+sVfeeling
+p120
+I1
+sVtpain
+p121
+I1
+sVva
+p122
+I1
+sVcrazy
+p123
+I1
+sVgive
+p124
+I1
+sVah
+p125
+I1
+sVis
+p126
+I1
+sVpopped
+p127
+I1
+sVmine
+p128
+I4
+sVsay
+p129
+I2
+sVhomie
+p130
+I1
+sVim
+p131
+I8
+sVseen
+p132
+I1
+sVphilly
+p133
+I1
+sVshit
+p134
+I2
+sVsell
+p135
+I1
+sVbottles
+p136
+I1
+sVthings
+p137
+I1
+sVny
+p138
+I1
+sVroll
+p139
+I1
+sVmodels
+p140
+I1
+sVye
+p141
+I1
+sVwelcome
+p142
+I3
+sVplane
+p143
+I2
+sVcoming
+p144
+I1
+sVspree
+p145
+I1
+sVsplurging
+p146
+I1
+sVeyes
+p147
+I1
+sVlife
+p148
+I16
+sVthought
+p149
+I1
+sVswitch
+p150
+I2
+sVferrari
+p151
+I1
+sVna
+p152
+I4
+sVpulled
+p153
+I1
+sVgrandmama
+p154
+I1
+s.

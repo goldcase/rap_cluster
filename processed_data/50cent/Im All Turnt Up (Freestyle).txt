@@ -1,72 +1,444 @@
-"i'm all turnt up (freestyle)" lyrics
-50 cent lyrics
-"i'm all turnt up (freestyle)"
-my glock pop from blocks you can feel it
-g-g-g-g-g-g, it's the muthafuckin unit!
-my shit knock for blocks, you can hear it
-g-g-g-g-g...its the muthafuckin unit!
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-i got a trunk full of tens
-i got a stash full of ends
-i got that 64 regal sittin' on 20? rims
-got that beamer that bentley
-i got that 63 benz
-and a white bitch to suck dick like tomorrow's the end
-call her head game the hoover i mean the way she maneuver
-up and down, up and down, and a nigga head spin 'round
-she's a fellatio pro, i get off watching her go
-she get to takin' it deep, and put a nigga to sleep
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-its on now, 'cause these bitches gyrating
-we strapped right, cause niggas be violatin'
-party poppin' she goin' drop it she ain't stoppin'
-sittin' watchin' system knockin' hips rockin' pussy poppin' tic-toc-in
-make it rain trick, make it, make it, make it rain trick
-play the game bitch, shit make us both rich
-fuck the wimp shit its certified pimp shit
-i ain't nothin' like the niggas you done been with
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-(my rear view mirror is vibrating)
-nigga i'm all turnt up, my trunk is shakin'
-(my rear view mirror is vibrating)
-i'm all turnt up, i'm all turnt up
-it feel like my mind playin' tricks on me
-tricks on me, tricks on me
-me i'm never trippin' for a bitch homie
-bitch homie, i'm rich homie
-turn it up!
-that's 14 out of 14 muthafucka
-you niggas see me
-lamborghini top down ridin' round this muthafucka
-you niggas ain't sayin nothin'
-know i got that muthafuckin tre pound, 6 shots muthafucka i let it rotate
-niggas see me, ask me where lloyd banks at?
-nigga i don't know where the fuck that lil' nigga at
-i ain't heard from him
-fuck yayo too nigga, i'm on some new shit
-fuck the group nigga
-i'ma introduce you to my new niggas
-uh, its 0-11
-i figured out whats the matter with this shit it ain't me, its these niggas
-its the roc, i'm on my jay z shit
-nah nah, fuck the group man
-i'm on my beyonce shit
-i'm on my way to the top godammit
-yeah
+(dp1
+Vtomorrows
+p2
+I1
+sVlyrics
+p3
+I2
+sVroc
+p4
+I1
+sV011
+p5
+I1
+sVsleep
+p6
+I1
+sVlloyd
+p7
+I1
+sVgo
+p8
+I1
+sVtakin
+p9
+I1
+sVaint
+p10
+I5
+sV20
+p11
+I1
+sVsayin
+p12
+I1
+sVjay
+p13
+I1
+sVwith
+p14
+I1
+sVdick
+p15
+I1
+sVpoppin
+p16
+I2
+sVgggggits
+p17
+I1
+sVrich
+p18
+I2
+sVregal
+p19
+I1
+sVwatching
+p20
+I1
+sVmuthafuckin
+p21
+I3
+sVsittin
+p22
+I2
+sVintroduce
+p23
+I1
+sVgame
+p24
+I2
+sVgyrating
+p25
+I1
+sVknow
+p26
+I2
+sVnew
+p27
+I2
+sVpimp
+p28
+I1
+sVrear
+p29
+I12
+sVknock
+p30
+I1
+sVrotate
+p31
+I1
+sVlike
+p32
+I3
+sVknockin
+p33
+I1
+sVdrop
+p34
+I1
+sVviolatin
+p35
+I1
+sV50
+p36
+I1
+sVturnt
+p37
+I20
+sVgggggg
+p38
+I1
+sV63
+p39
+I1
+sVshots
+p40
+I1
+sVdone
+p41
+I1
+sVround
+p42
+I2
+sVmean
+p43
+I1
+sVnigga
+p44
+I12
+sVbentley
+p45
+I1
+sVtre
+p46
+I1
+sVyeah
+p47
+I1
+sVhim
+p48
+I1
+sVsee
+p49
+I2
+sVshes
+p50
+I1
+sVmirror
+p51
+I12
+sVbeyonce
+p52
+I1
+sVplayin
+p53
+I1
+sVstoppin
+p54
+I1
+sVtens
+p55
+I1
+sVgot
+p56
+I6
+sVcause
+p57
+I2
+sVwatchin
+p58
+I1
+sVmaneuver
+p59
+I1
+sVends
+p60
+I1
+sVfull
+p61
+I2
+sVfellatio
+p62
+I1
+sVrims
+p63
+I1
+sVnever
+p64
+I1
+sVmuthafucka
+p65
+I3
+sVridin
+p66
+I1
+sVlet
+p67
+I1
+sVtrunk
+p68
+I7
+sVput
+p69
+I1
+sVgroup
+p70
+I2
+sVcertified
+p71
+I1
+sVfigured
+p72
+I1
+sVvibrating
+p73
+I12
+sVturn
+p74
+I1
+sVview
+p75
+I12
+sVthats
+p76
+I1
+sVwhats
+p77
+I1
+sVdont
+p78
+I1
+sVfeel
+p79
+I2
+sVpussy
+p80
+I1
+sVpop
+p81
+I1
+sVtictocin
+p82
+I1
+sVask
+p83
+I1
+sVright
+p84
+I1
+sV64
+p85
+I1
+sVbitch
+p86
+I4
+sVunit
+p87
+I2
+sVstrapped
+p88
+I1
+sVgodammit
+p89
+I1
+sVtop
+p90
+I2
+sVsystem
+p91
+I1
+sVcent
+p92
+I1
+sVwimp
+p93
+I1
+sVcall
+p94
+I1
+sVway
+p95
+I2
+sV6
+I1
+sVrockin
+p96
+I1
+sVwhite
+p97
+I1
+sVman
+p98
+I1
+sVhead
+p99
+I2
+sVglock
+p100
+I1
+sVfreestyle
+p101
+I2
+sVbitches
+p102
+I1
+sVfuck
+p103
+I5
+sVhear
+p104
+I1
+sVspin
+p105
+I1
+sVyayo
+p106
+I1
+sVme
+p107
+I3
+sVlamborghini
+p108
+I1
+sV14
+p109
+I2
+sVniggas
+p110
+I7
+sVup
+p111
+I7
+sVus
+p112
+I1
+sVtrick
+p113
+I2
+sVmatter
+p114
+I1
+sVuh
+p115
+I1
+sVz
+I1
+sVat
+p116
+I2
+sVpound
+p117
+I1
+sVpro
+p118
+I1
+sVbenz
+p119
+I1
+sVmind
+p120
+I1
+sVit
+p121
+I2
+sVdeep
+p122
+I1
+sVheard
+p123
+I1
+sVhomie
+p124
+I3
+sVim
+p125
+I26
+sVnothin
+p126
+I2
+sVshit
+p127
+I8
+sVend
+p128
+I1
+sVlil
+p129
+I1
+sVmake
+p130
+I5
+sVget
+p131
+I2
+sVshakin
+p132
+I6
+sVparty
+p133
+I1
+sVplay
+p134
+I1
+sVhoover
+p135
+I1
+sVblocks
+p136
+I2
+sVima
+p137
+I1
+sVrain
+p138
+I2
+sVsuck
+p139
+I1
+sVgoin
+p140
+I1
+sVtrippin
+p141
+I1
+sVtricks
+p142
+I3
+sVstash
+p143
+I1
+sVbanks
+p144
+I1
+sVbeamer
+p145
+I1
+sVnah
+p146
+I2
+sVhips
+p147
+I1
+s.

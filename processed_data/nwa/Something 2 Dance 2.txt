@@ -1,36 +1,316 @@
-"something 2 dance 2" lyrics
-n.w.a. lyrics
-"something 2 dance 2"
-yo give me somethin' to dance to
-calling the police, calling the g-men
-calling all americans
-arabian prince, back wit' a style that's hype
-not slow and low, it's the fast type
-gettin dumped, can you hear the drums
-yo dre why don't you pump it up some
-i pumped it up so now what's up
-yo yella boy, add a little cut
-what the hell, you think we need some bells
-yeah, homeboy, might as well
-there it is, so now what's next
-a little ssssssssssss
-so find me a ho, wait a minute
-you need somethin' else then
-this is what i want you to do
-feel the groove, bust a move
-yo i'm tired, what about you
-man this is somethin' to dance to
-man that's wack, everybody used that
-yo, why dont you bring back the other track
-yeah there you go that's what i'm sayin
-i like it when that dope stuffs playin
-real loud, in ya ear hole
-man let's go, i think my feet are swoll' from dancin' so damn much
-maaaaaan, i don't give a what
-you wanna leave? with all these females pullin on my sleeve
-i bet, you can jet, homeboy, no sweat
-this is what i want you to do
-feel the groove, bust a move
-this is somethin' to dance to
-let the bass kick
-th-th-this is somethin ta dance to
+(dp1
+Vlyrics
+p2
+I2
+sVdance
+p3
+I6
+sVmove
+p4
+I2
+sVbring
+p5
+I1
+sVnwa
+p6
+I1
+sVgo
+p7
+I2
+sVhell
+p8
+I1
+sVprince
+p9
+I1
+sVstyle
+p10
+I1
+sVslow
+p11
+I1
+sVpolice
+p12
+I1
+sVsayin
+p13
+I1
+sVmuch
+p14
+I1
+sVdancin
+p15
+I1
+sVbust
+p16
+I2
+sVto
+p17
+I3
+sVlets
+p18
+I1
+sVarabian
+p19
+I1
+sVmight
+p20
+I1
+sVkick
+p21
+I1
+sVta
+p22
+I1
+sVreal
+p23
+I1
+sVthen
+p24
+I1
+sVyo
+p25
+I5
+sVya
+p26
+I1
+sVdope
+p27
+I1
+sVminute
+p28
+I1
+sVlike
+p29
+I1
+sVsleeve
+p30
+I1
+sVgettin
+p31
+I1
+sVcalling
+p32
+I3
+sVleave
+p33
+I1
+sVthththis
+p34
+I1
+sVhype
+p35
+I1
+sVtired
+p36
+I1
+sVsome
+p37
+I1
+sVback
+p38
+I2
+sVssssssssssss
+p39
+I1
+sVstuffs
+p40
+I1
+sVplayin
+p41
+I1
+sVwhat
+p42
+I1
+sVfind
+p43
+I1
+sVpump
+p44
+I1
+sVbass
+p45
+I1
+sVdo
+p46
+I2
+sVwack
+p47
+I1
+sVcut
+p48
+I1
+sVlet
+p49
+I1
+sVdrums
+p50
+I1
+sVwait
+p51
+I1
+sVboy
+p52
+I1
+sVsweat
+p53
+I1
+sVpullin
+p54
+I1
+sVdre
+p55
+I1
+sVthink
+p56
+I2
+sVthats
+p57
+I3
+sVwhats
+p58
+I2
+sVdont
+p59
+I3
+sVfeel
+p60
+I2
+sVfeet
+p61
+I1
+sVwit
+p62
+I1
+sVamericans
+p63
+I1
+sVyella
+p64
+I1
+sVeverybody
+p65
+I1
+sVwan
+p66
+I1
+sVlittle
+p67
+I2
+sVjet
+p68
+I1
+sVadd
+p69
+I1
+sVfast
+p70
+I1
+sVnext
+p71
+I1
+sV2
+I4
+sVdamn
+p72
+I1
+sVlow
+p73
+I1
+sVtype
+p74
+I1
+sVfemales
+p75
+I1
+sVthat
+p76
+I1
+sVyeah
+p77
+I2
+sVhear
+p78
+I1
+sVho
+p79
+I1
+sVhole
+p80
+I1
+sVear
+p81
+I1
+sVswoll
+p82
+I1
+sVup
+p83
+I1
+sVpumped
+p84
+I1
+sVgroove
+p85
+I2
+sVbet
+p86
+I1
+sVgive
+p87
+I2
+sVdumped
+p88
+I1
+sVim
+p89
+I2
+sVsomething
+p90
+I2
+sVwant
+p91
+I2
+sVneed
+p92
+I2
+sVna
+p93
+I1
+sVmaaaaaan
+p94
+I1
+sVgmen
+p95
+I1
+sVhomeboy
+p96
+I2
+sVyou
+p97
+I1
+sVbells
+p98
+I1
+sVused
+p99
+I1
+sVtrack
+p100
+I1
+sVelse
+p101
+I1
+sVman
+p102
+I3
+sVsomethin
+p103
+I5
+sVloud
+p104
+I1
+sVwell
+p105
+I1
+s.

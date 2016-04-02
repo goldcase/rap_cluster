@@ -1,61 +1,523 @@
-"money maker" lyrics
-ludacris lyrics
-"money maker"
-(feat. pharrell)
-shake your money maker
-like somebody about to pay you
-i see you on my radar
-don't you act like you afraid of
-shh...
-you know i got it
-if you want it, come get it
-stand next to this money
-like - ey ey ey
-shake your money maker
-like somebody boutta pay you
-don't worry about them haters
-keep your nose up in the air
-you know i got it
-if you want it, come get it
-stand next to this money
-like - ey ey ey
-shake shake shake your money maker
-like you were shaking it for some paper
-took your mama 9 months to make you
-might as well shake what you mama gave you
-you ... you looking good in them jeans
-i bet you look even better with me in between
-i keep my mind on my money, money on my mind
-but yous a hell of a distraction when you shake your behind
-i got j.o. on my right side pourin some cups
-my whole hood is to my left and they ain't giving a fuck
-so feel free to get loose and get carried away
-so by tomorrow you forgot what you was saying today
-but don't forget about this feeling that i'm making you get
-and all the calories you burn from me making you sweat
-the mile high points you earn when we taking my jet
-and how everywhere you turn i'll be making you wet..
-switch, switch, switch it from right to left and..
-switch it till you running right out of breath and..
-take a break until you ready again and..
-you can invite over as many friends as..
-you want to, but i really want you
-just be thankful that pharrell gave you something to bump to...hey
-luda...i'm at the top of my game
-you want my hands from the bottom to top of your frame
-and i...just wanna take a little ride on your curves
-and get erotic giving your body just what it deserves and..
-let me give you some swimming lessons on the penis
-backstroke, breaststroke, stroke of a genius...yupp
-call me the renaissance man
-get up and i stay harder than a cinder block man....hey
-i'm just a bedroom gangster
-and i been meaning to tell you that i really must thank you when you..
-rock rock rock it and make it work girl
-please don't stop it until it hurt girl
-you..you been looking a little tipsy
-so if you could just shake it a little this way
-see i'm a member of the bbc
-the original bread winner of dtp
-and you the center of attention that's distracting the squad
-cause everybody in the camp is like oh my god..she could
+(dp1
+Vsaying
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVmoney
+p6
+I9
+sVboutta
+p7
+I1
+sVradar
+p8
+I1
+sVijust
+p9
+I1
+sVpaper
+p10
+I1
+sVshake
+p11
+I8
+sVhell
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I1
+sVthank
+p15
+I1
+sVwinner
+p16
+I1
+sVpourin
+p17
+I1
+sVbetter
+p18
+I1
+sVwet
+p19
+I1
+sVbread
+p20
+I1
+sVmight
+p21
+I1
+sVgave
+p22
+I2
+sVgood
+p23
+I1
+sVsomebody
+p24
+I2
+sVget
+p25
+I7
+sVcould
+p26
+I2
+sVstop
+p27
+I1
+sVbreak
+p28
+I1
+sVyouyou
+p29
+I1
+sVgame
+p30
+I1
+sVknow
+p31
+I2
+sVhands
+p32
+I1
+sVdistraction
+p33
+I1
+sVearn
+p34
+I1
+sVlike
+p35
+I7
+sVdistracting
+p36
+I1
+sVstroke
+p37
+I1
+sVmile
+p38
+I1
+sVnose
+p39
+I1
+sVrock
+p40
+I3
+sVshh
+p41
+I1
+sVshaking
+p42
+I1
+sVside
+p43
+I1
+sVright
+p44
+I3
+sVludaim
+p45
+I1
+sVbump
+p46
+I1
+sVframe
+p47
+I1
+sVbedroom
+p48
+I1
+sVmanhey
+p49
+I1
+sVgodshe
+p50
+I1
+sVgangster
+p51
+I1
+sVsee
+p52
+I2
+sVgeniusyupp
+p53
+I1
+sVey
+p54
+I6
+sVforgot
+p55
+I1
+sVgirl
+p56
+I2
+sVreally
+p57
+I2
+sVeven
+p58
+I1
+sVbottom
+p59
+I1
+sVgiving
+p60
+I2
+sVaway
+p61
+I1
+sVplease
+p62
+I1
+sVlooking
+p63
+I2
+sVbehind
+p64
+I1
+sVbetween
+p65
+I1
+sVgot
+p66
+I3
+sVcause
+p67
+I1
+sVbody
+p68
+I1
+sVlessons
+p69
+I1
+sVburn
+p70
+I1
+sVloose
+p71
+I1
+sVfree
+p72
+I1
+sVjo
+p73
+I1
+sVlet
+p74
+I1
+sVcome
+p75
+I2
+sVtohey
+p76
+I1
+sVdtp
+p77
+I1
+sVcarried
+p78
+I1
+sVoh
+p79
+I1
+sVof
+p80
+I1
+sVtaking
+p81
+I1
+sVmonths
+p82
+I1
+sVcalories
+p83
+I1
+sVmeaning
+p84
+I1
+sVkeep
+p85
+I2
+sVturn
+p86
+I1
+sVsweat
+p87
+I1
+sVact
+p88
+I1
+sVcinder
+p89
+I1
+sVwhole
+p90
+I1
+sVmaker
+p91
+I5
+sVblock
+p92
+I1
+sVswimming
+p93
+I1
+sVdont
+p94
+I4
+sVfeel
+p95
+I1
+sVjeans
+p96
+I1
+sVthankful
+p97
+I1
+sVcups
+p98
+I1
+sVyous
+p99
+I1
+sVtomorrow
+p100
+I1
+sVhood
+p101
+I1
+sVeverybody
+p102
+I1
+sVwan
+p103
+I1
+sVlittle
+p104
+I3
+sVjet
+p105
+I1
+sVtop
+p106
+I2
+sVbbc
+p107
+I1
+sVnext
+p108
+I2
+sVbreath
+p109
+I1
+sVcall
+p110
+I1
+sVway
+p111
+I1
+sVmama
+p112
+I2
+sVtell
+p113
+I1
+sVtoday
+p114
+I1
+sVinvite
+p115
+I1
+sVtook
+p116
+I1
+sVfuck
+p117
+I1
+sVeverywhere
+p118
+I1
+sVpenis
+p119
+I1
+sVhaters
+p120
+I1
+sVmust
+p121
+I1
+sVlook
+p122
+I1
+sVpharrell
+p123
+I2
+sVride
+p124
+I1
+sVwork
+p125
+I1
+sVharder
+p126
+I1
+sVerotic
+p127
+I1
+sVair
+p128
+I1
+sVattention
+p129
+I1
+sVmany
+p130
+I1
+sVmaking
+p131
+I3
+sVfeeling
+p132
+I1
+sVill
+p133
+I1
+sVbet
+p134
+I1
+sVand
+p135
+I4
+sVgive
+p136
+I1
+sVmind
+p137
+I2
+sVit
+p138
+I4
+sVcurves
+p139
+I1
+sVhigh
+p140
+I1
+sVas
+p141
+I1
+sVim
+p142
+I3
+sVsomething
+p143
+I1
+sVwant
+p144
+I5
+sVready
+p145
+I1
+sVworry
+p146
+I1
+sVafraid
+p147
+I1
+sVdeserves
+p148
+I1
+sVpay
+p149
+I2
+sVmake
+p150
+I2
+sVbackstroke
+p151
+I1
+sVmember
+p152
+I1
+sVtill
+p153
+I1
+sVsquad
+p154
+I1
+sVtake
+p155
+I2
+sVbreaststroke
+p156
+I1
+sV9
+I1
+sVyou
+p157
+I6
+sVstand
+p158
+I2
+sVtipsy
+p159
+I1
+sVstay
+p160
+I1
+sVrenaissance
+p161
+I1
+sVrunning
+p162
+I1
+sVhurt
+p163
+I1
+sVfriends
+p164
+I1
+sVman
+p165
+I1
+sVcenter
+p166
+I1
+sVcamp
+p167
+I1
+sVwell
+p168
+I1
+sVswitch
+p169
+I4
+sVpoints
+p170
+I1
+sVna
+p171
+I1
+sVthats
+p172
+I1
+sVoriginal
+p173
+I1
+sVleft
+p174
+I2
+s.

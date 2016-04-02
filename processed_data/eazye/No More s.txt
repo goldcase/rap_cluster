@@ -1,101 +1,861 @@
-"no more ?'s" lyrics
-eazy-e lyrics
-"no more ?'s"
-we're sitting here with eazy e
-believe that
-how are you doing ?
-allright
-so, eazy, tell me, how was your life as a youngster ?
-ruthless, my style as a juvenile
-ran with a gang, slanged in the meanwhile
-bankin, i specialized in gankin
-whites, mexicans, brothers and others
-daily, it's all about comin up
-makin sure no punks are runnin up
-( because i'm a gangster havin fun)
-strapped with a gat when i'm walkin through compton
-terrible, i never listened to my mother
-it went in one ear, and out the other
-ran my gang, sold undercover
-call a girl out a name, yo i ain't no lover
-i'm a pimp, mack daddy, lookin for the dollar
-at thirteen i bought a six-fo' impala
-rollin, and runnin from the police
-brother don't you know you can't trust a thief
-or thug, convict, hoodlum or criminal
-leave your car open, gank for your stereo
-hard and raw, no regard for the law
-( eazy e, were you ever caught slipping?)
-hell no! just trippin off 8-ball
-and girls ain't nothin but female dogs to me
-bitches! i'm sorry for that verse
-it's in my nature, i gotta curse
-out anybody gettin on my nerves
-you get beat, ganked, broke and served
-so... you know who i am
-and if you don't like it, i really don't give a damn
-hmm, i see, so you're rather violent?
-sometimes
-ok, what would be the situation when you so-called "gank" somebody?
-wait... for some people to leave
-i got another trick up my sleeve
-step with pep to the back of the house
-look then... all the lights are out
-grabbed the door and it's locked, so
-easily made my way to the window
-lift it up slow, cause it takes timing
-looked around, and then i climbed in
-once inside, i start takin
-cause you know it's no time for shakin
-get what you gonna get, front and center
-or get five years for breakin and enter
-move quickly, but no runnin
-shht, i think somebody's comin
-hear the front door key, and i flee
-out the back door with a fist full of jewelry
-over the wall... don't fall
-wipe my sweat cause that was a close call
-gettin ganked by the e is a lesson
-so... is there any more questions?
-yes, as a matter of fact, there is...
-have you ever been involved in, like, a armed robbery or a hold-up?
-you mean a 211?
-yeah
-there's a store, but don't point
-walk inside, case the joint
-one man behind the counter, another in the back
-go out to the car and load the gat
-grabbed the ski mask, here's the task
-go in broke, come out with cash
-( were you slick?)
-yeah, you gotta be cunnin
-told ice cube to leave the car runnin
-walked in, said: "this is a robbery"
-didn't need the money, it's just a hobby
-fill the bag, homeboy, don't lag
-i want money, beer, and a pack of zig-zags
-the man in the back had a camera
-so he came out to test his stamina
-against eazy e, but he took one
-fell to the floor, so i ran
-back to the bucket, then i said: "punch it"
-took the gun, and then dumped it
-i'm not like robin hood, cause i want more
-steal from the rich, hang with the poor
-my pockets are fat, you see, it don't matter to me
-i feel like nobody is badder than me
-( is all that true ?)
-i don't lie
-you see... i'm not mister nice guy
-oh, so you're not exactly a role model?
-not exactly
-and for your listeners, what does eazy think of himself?
-bad and bold, you can't get with this
-those that tried, you're on my hit list
-can't be caught, sought or fought
-thought, and damn so what?
-down and dirty from the c-p-t
-n-w-a and eazy-e
-one more, before we end this session
-( what's your real name?)
-no more questions!
+(dp1
+Vlyrics
+p2
+I2
+sVenter
+p3
+I1
+sVneed
+p4
+I1
+sVmove
+p5
+I1
+sVdollar
+p6
+I1
+sVyears
+p7
+I1
+sVfront
+p8
+I2
+sVviolent
+p9
+I1
+sVsession
+p10
+I1
+sVgang
+p11
+I2
+sVquestions
+p12
+I2
+sVgo
+p13
+I2
+sVgank
+p14
+I2
+sVyes
+p15
+I1
+sVinvolved
+p16
+I1
+sVtakin
+p17
+I1
+sVaint
+p18
+I2
+sVstyle
+p19
+I1
+sVbelieve
+p20
+I1
+sVpolice
+p21
+I1
+sVbadder
+p22
+I1
+sVstamina
+p23
+I1
+sV211
+p24
+I1
+sVbehind
+p25
+I1
+sVhavin
+p26
+I1
+sVbitches
+p27
+I1
+sVganked
+p28
+I2
+sVyoungster
+p29
+I1
+sVrich
+p30
+I1
+sVmoney
+p31
+I2
+sVhobby
+p32
+I1
+sVsorry
+p33
+I1
+sVcriminal
+p34
+I1
+sVski
+p35
+I1
+sVta
+p36
+I2
+sVreal
+p37
+I1
+sVme
+p38
+I3
+sVmister
+p39
+I1
+sVcube
+p40
+I1
+sVsomebody
+p41
+I1
+sVaround
+p42
+I1
+sVyo
+p43
+I1
+sVmeanwhile
+p44
+I1
+sVbeat
+p45
+I1
+sVregard
+p46
+I1
+sVfat
+p47
+I1
+sVjoint
+p48
+I1
+sVfive
+p49
+I1
+sVknow
+p50
+I3
+sVgot
+p51
+I3
+sVtiming
+p52
+I1
+sVnothin
+p53
+I1
+sVwalk
+p54
+I1
+sVflee
+p55
+I1
+sVwipe
+p56
+I1
+sVlike
+p57
+I4
+sVtrippin
+p58
+I1
+sVname
+p59
+I2
+sVpimp
+p60
+I1
+sVcause
+p61
+I4
+sVgettin
+p62
+I2
+sVlist
+p63
+I1
+sVbrother
+p64
+I1
+sVnwa
+p65
+I1
+sVleave
+p66
+I3
+sVbag
+p67
+I1
+sVslipping
+p68
+I1
+sVwalked
+p69
+I1
+sVrobbery
+p70
+I2
+sVnerves
+p71
+I1
+sVwent
+p72
+I1
+sVtold
+p73
+I1
+sVsteal
+p74
+I1
+sVundercover
+p75
+I1
+sVmean
+p76
+I1
+sVanother
+p77
+I2
+sVpeople
+p78
+I1
+sVhouse
+p79
+I1
+sVhard
+p80
+I1
+sVthief
+p81
+I1
+sVholdup
+p82
+I1
+sVcash
+p83
+I1
+sVgangster
+p84
+I1
+sVsee
+p85
+I3
+sVthirteen
+p86
+I1
+sVfist
+p87
+I1
+sVhell
+p88
+I1
+sVclose
+p89
+I1
+sVgirl
+p90
+I1
+sVsleeve
+p91
+I1
+sVreally
+p92
+I1
+sVwhat
+p93
+I1
+sVcurse
+p94
+I1
+sVjewelry
+p95
+I1
+sVserved
+p96
+I1
+sVruthless
+p97
+I1
+sVarmed
+p98
+I1
+sVexactly
+p99
+I2
+sVpep
+p100
+I1
+sVslick
+p101
+I1
+sVice
+p102
+I1
+sVlights
+p103
+I1
+sVmexicans
+p104
+I1
+sVsocalled
+p105
+I1
+sVit
+p106
+I1
+sVconvict
+p107
+I1
+sVget
+p108
+I5
+sVeazye
+p109
+I2
+sVever
+p110
+I2
+sVbought
+p111
+I1
+sVfull
+p112
+I1
+sVbold
+p113
+I1
+sVnature
+p114
+I1
+sVlag
+p115
+I1
+sVsold
+p116
+I1
+sVnever
+p117
+I1
+sVpunch
+p118
+I1
+sVpunks
+p119
+I1
+sVstep
+p120
+I1
+sVslow
+p121
+I1
+sVkey
+p122
+I1
+sVothers
+p123
+I1
+sVgrabbed
+p124
+I2
+sVcome
+p125
+I1
+sVguy
+p126
+I1
+sVwall
+p127
+I1
+sVwait
+p128
+I1
+sVok
+p129
+I1
+sVgun
+p130
+I1
+sVspecialized
+p131
+I1
+sVcompton
+p132
+I1
+sVterrible
+p133
+I1
+sVwalkin
+p134
+I1
+sVs
+I1
+sVfell
+p135
+I1
+sVsweat
+p136
+I1
+sVlookin
+p137
+I1
+sVfought
+p138
+I1
+sVpack
+p139
+I1
+sVthink
+p140
+I2
+sVload
+p141
+I1
+sVwhats
+p142
+I1
+sVdont
+p143
+I8
+sVpoint
+p144
+I1
+sVwhites
+p145
+I1
+sVzigzags
+p146
+I1
+sVmakin
+p147
+I1
+sVone
+p148
+I4
+sVgankin
+p149
+I1
+sVthought
+p150
+I1
+sVfemale
+p151
+I1
+sVcomin
+p152
+I2
+sVlesson
+p153
+I1
+sVtrust
+p154
+I1
+sVopen
+p155
+I1
+sVbankin
+p156
+I1
+sVhood
+p157
+I1
+sVstrapped
+p158
+I1
+sVfeel
+p159
+I1
+sVtakes
+p160
+I1
+sVwould
+p161
+I1
+sVcaught
+p162
+I2
+sVgirls
+p163
+I1
+sVverse
+p164
+I1
+sVquickly
+p165
+I1
+sVsixfo
+p166
+I1
+sVstart
+p167
+I1
+sVbeer
+p168
+I1
+sVwindow
+p169
+I1
+sVcall
+p170
+I2
+sVway
+p171
+I1
+sVbreakin
+p172
+I1
+sVdamn
+p173
+I2
+sVtried
+p174
+I1
+sVtell
+p175
+I1
+sVstore
+p176
+I1
+sVmore
+p177
+I1
+sVlife
+p178
+I1
+sVdumped
+p179
+I1
+sVdoor
+p180
+I3
+sVsaid
+p181
+I2
+sVpockets
+p182
+I1
+sVgat
+p183
+I2
+sVtook
+p184
+I2
+sVsought
+p185
+I1
+sVback
+p186
+I5
+sVhmm
+p187
+I1
+sVlift
+p188
+I1
+sVhear
+p189
+I1
+sVbroke
+p190
+I2
+sVfall
+p191
+I1
+sVdidnt
+p192
+I1
+sVear
+p193
+I1
+sVtrue
+p194
+I1
+sVcenter
+p195
+I1
+sVrunnin
+p196
+I4
+sVmade
+p197
+I1
+sVlocked
+p198
+I1
+sVlook
+p199
+I1
+sVthis
+p200
+I1
+sVcar
+p201
+I3
+sVinside
+p202
+I2
+sVoh
+p203
+I1
+sVbucket
+p204
+I1
+sVup
+p205
+I2
+sVdogs
+p206
+I1
+sVtrick
+p207
+I1
+sVmatter
+p208
+I2
+sVlisteners
+p209
+I1
+sVdirty
+p210
+I1
+sVcase
+p211
+I1
+sVlover
+p212
+I1
+sVfun
+p213
+I1
+sVsituation
+p214
+I1
+sVdaddy
+p215
+I1
+sVimpala
+p216
+I1
+sVrobin
+p217
+I1
+sVtheres
+p218
+I1
+sVjuvenile
+p219
+I1
+sVsometimes
+p220
+I1
+sVbad
+p221
+I1
+sVgive
+p222
+I1
+sVran
+p223
+I3
+sVis
+p224
+I1
+sVin
+p225
+I1
+sVam
+p226
+I1
+sVeazy
+p227
+I5
+sVraw
+p228
+I1
+sVcant
+p229
+I3
+sVhoodlum
+p230
+I1
+sVim
+p231
+I6
+sVdaily
+p232
+I1
+sVwant
+p233
+I2
+sVclimbed
+p234
+I1
+sVthug
+p235
+I1
+sVhit
+p236
+I1
+sVhimself
+p237
+I1
+sV8ball
+p238
+I1
+sVsomebodys
+p239
+I1
+sVfill
+p240
+I1
+sVlie
+p241
+I1
+sVcounter
+p242
+I1
+sVend
+p243
+I1
+sVlistened
+p244
+I1
+sVfloor
+p245
+I1
+sVrather
+p246
+I1
+sVna
+p247
+I1
+sVnobody
+p248
+I1
+sVsitting
+p249
+I1
+sVhomeboy
+p250
+I1
+sVshakin
+p251
+I1
+sVother
+p252
+I1
+sVrole
+p253
+I1
+sVtest
+p254
+I1
+sVout
+p255
+I1
+sVnice
+p256
+I1
+sVpoor
+p257
+I1
+sVsure
+p258
+I1
+sVbrothers
+p259
+I1
+sVeasily
+p260
+I1
+sVcamera
+p261
+I1
+sVtime
+p262
+I1
+sVhang
+p263
+I1
+sVgon
+p264
+I1
+sVlaw
+p265
+I1
+sVmack
+p266
+I1
+sVman
+p267
+I2
+sVyeah
+p268
+I2
+sVstereo
+p269
+I1
+sVtask
+p270
+I1
+sVe
+I4
+sVallright
+p271
+I1
+sVyoure
+p272
+I3
+sVmask
+p273
+I1
+sVanybody
+p274
+I1
+sVrollin
+p275
+I1
+sVlooked
+p276
+I1
+sVheres
+p277
+I1
+sVcunnin
+p278
+I1
+sVso
+p279
+I1
+sVcame
+p280
+I1
+sVshht
+p281
+I1
+sVmother
+p282
+I1
+sVmodel
+p283
+I1
+sVcpt
+p284
+I1
+sVfact
+p285
+I1
+sVslanged
+p286
+I1
+s.

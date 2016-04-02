@@ -1,82 +1,668 @@
-"gold grill" lyrics
-ugk lyrics
-"gold grill"
-(feat. eightball & mjg)
-uh...steady ?? steady ??
-bitch don't never get no rest
-uh...grippin' the five, i'm a pimp in my mind;
-i'm 'bout a bitch got some goals, with a good credit line
-so, we pop the plastic..
-if she hustle, i ball
-long as she payin' daddy
-ain't no problems at all
-so, we break the mall
-now and then we fuck;
-and then the bitch gon' be cool
-long as the paper stay up
-when she suck on my pipe
-them golds shiny and bright..
-got them ?? hittin' that service every fuckin' night
-i'm tal'in' 'bout nba tricks
-nfl tricks
-nhl tricks
-payin' my bitch
-grade a pussy and she payin' for my dick;
-she on my two-way now
-the bitch done hit a fat dick, a fat dick
-now tell me what it's all about in that south:
-big gold grill in yo mouth
-with leather inside your car, on yo' back, in yo' house
-get in a nigga's ride, the seat feel like a couch
-big cheese in my pouch
-bitch, if it hurt, say "ouch"
-show ya grill if you will, show ya grill if you will
-show ya grill if you will, and you down with the trill
-show ya golds if ya bold, show ya golds if ya bold
-show ya golds if ya bold, and ya diamonds is cold
-see this one right here, my niggas
-we gon' dedicate it
-to them boys from the ghetto keepin' grills gold-plated
-never hated, never will
-we stayin' forever trill;
-but boys on the blocks
-they keep comin' forever ??
-open face with them designs...shit
-maybe a rack on top and bottom with a couple of diamonds to add some shine
-some niggas got that yella gold
-some niggas got that white
-some niggas got that platinum and bling, bling 'em all night
-shit, i know this boy with one gold, no ice;
-i know a nigga who got robbed and bought the same teeth twice;
-muthafuckas with fangs, symbols of gangs or they squad
-some real and some fraud;
-spell the name of they broad
-got boys that praise the lord
-with open face and they cross
-some did all thirty-two, and paid a heavy-ass cost
-so, whether you the boss, the runner, or the square
-c'mon down to the south;
-we got gold grills everywhere
-gold in the middle, they stay shiny
-one on each canine;
-you get one free if you not paid on government aid
-go get some shades
-you blindin' hoes with 14 carat sun rays
-but while they all up in yo grill
-they vision blurry for days
-stacked, and ya say, "but couldn't i just stop at one" just like lays
-you left the whole jaw twinkle, to stick a rag in ya face
-you buff 'em and shit;
-they sparkle like the comets in space
-i got two crosses with a diamond, heart, a club, and a spade
-white ice on ??; that's what we be flippin', ball
-3rd ward to the mound
-you know that we keep it raw
-8ball on my grill, baby, love it when i smile;
-say it make her pussy wet
-and make her nipples get all hard
-i try to break myself from the same ol' pattern
-in the boulevards scattered, full a hatin': nigga chatterin'
-hoes, if you ask me, "what them niggas be about?"
-hate me 'cause my flow official
-and i'm from that dirty south
+(dp1
+Vugk
+p2
+I1
+sVall
+p3
+I1
+sVgangs
+p4
+I1
+sVgold
+p5
+I7
+sVshow
+p6
+I6
+sVhatin
+p7
+I1
+sVscattered
+p8
+I1
+sVouch
+p9
+I1
+sVrest
+p10
+I1
+sVfangs
+p11
+I1
+sVbright
+p12
+I1
+sVpaper
+p13
+I1
+sVdirty
+p14
+I1
+sVgo
+p15
+I1
+sVcold
+p16
+I1
+sVfeat
+p17
+I1
+sVward
+p18
+I1
+sVaint
+p19
+I1
+sVlyrics
+p20
+I2
+sVhated
+p21
+I1
+sVdick
+p22
+I3
+sVcarat
+p23
+I1
+sVfeel
+p24
+I1
+sVadd
+p25
+I1
+sVwhole
+p26
+I1
+sVpussy
+p27
+I2
+sVlord
+p28
+I1
+sVbout
+p29
+I2
+sVghetto
+p30
+I1
+sVhate
+p31
+I1
+sVreal
+p32
+I1
+sVgood
+p33
+I1
+sVhit
+p34
+I1
+sVyo
+p35
+I4
+sVget
+p36
+I5
+sVya
+p37
+I12
+sVbig
+p38
+I2
+sVcouple
+p39
+I1
+sVspell
+p40
+I1
+sVstop
+p41
+I1
+sVfat
+p42
+I2
+sVchatterin
+p43
+I1
+sVbreak
+p44
+I2
+sVcrosses
+p45
+I1
+sVfive
+p46
+I1
+sVknow
+p47
+I3
+sVnow
+p48
+I1
+sVcool
+p49
+I1
+sVsymbols
+p50
+I1
+sVlike
+p51
+I3
+sVpimp
+p52
+I1
+sVleather
+p53
+I1
+sVnfl
+p54
+I1
+sVmuthafuckas
+p55
+I1
+sVheart
+p56
+I1
+sVtwice
+p57
+I1
+sVhittin
+p58
+I1
+sVnight
+p59
+I2
+sVbought
+p60
+I1
+sVride
+p61
+I1
+sVvision
+p62
+I1
+sVem
+p63
+I2
+sVright
+p64
+I1
+sVdesignsshit
+p65
+I1
+sVhouse
+p66
+I1
+sVhard
+p67
+I1
+sVback
+p68
+I1
+sVcanine
+p69
+I1
+sVseat
+p70
+I1
+sVsee
+p71
+I1
+sVcost
+p72
+I1
+sVhoes
+p73
+I2
+sVnba
+p74
+I1
+sVtry
+p75
+I1
+sVgon
+p76
+I2
+sV3rd
+p77
+I1
+sVbottom
+p78
+I1
+sVbroad
+p79
+I1
+sVice
+p80
+I2
+sVstayin
+p81
+I1
+sVsparkle
+p82
+I1
+sVdiamonds
+p83
+I2
+sVit
+p84
+I1
+sVgot
+p85
+I9
+sVcause
+p86
+I1
+sVblurry
+p87
+I1
+sVhustle
+p88
+I1
+sVfull
+p89
+I1
+sVbold
+p90
+I3
+sVnever
+p91
+I3
+sVfree
+p92
+I1
+sVboss
+p93
+I1
+sVask
+p94
+I1
+sVshine
+p95
+I1
+sVboy
+p96
+I1
+sVabout
+p97
+I1
+sVol
+p98
+I1
+sVboulevards
+p99
+I1
+sVshades
+p100
+I1
+sVdedicate
+p101
+I1
+sVuhgrippin
+p102
+I1
+sVgolds
+p103
+I4
+sVcredit
+p104
+I1
+sVpattern
+p105
+I1
+sVjaw
+p106
+I1
+sVshiny
+p107
+I2
+sVsouth
+p108
+I3
+sVthats
+p109
+I1
+sVcheese
+p110
+I1
+sVbling
+p111
+I2
+sVlove
+p112
+I1
+sVdont
+p113
+I1
+sVspace
+p114
+I1
+sVcomets
+p115
+I1
+sVgrade
+p116
+I1
+sVnhl
+p117
+I1
+sVpop
+p118
+I1
+sVone
+p119
+I5
+sVraw
+p120
+I1
+sVnigga
+p121
+I2
+sVdone
+p122
+I1
+sVbitch
+p123
+I6
+sVcomin
+p124
+I1
+sVuhsteady
+p125
+I1
+sVcouldnt
+p126
+I1
+sVopen
+p127
+I2
+sVyella
+p128
+I1
+sVplatinum
+p129
+I1
+sVservice
+p130
+I1
+sVtop
+p131
+I1
+sVeightball
+p132
+I1
+sVtwo
+p133
+I1
+sVlong
+p134
+I2
+sVplastic
+p135
+I1
+sVwhite
+p136
+I2
+sVtell
+p137
+I1
+sVdiamond
+p138
+I1
+sVname
+p139
+I1
+sVrobbed
+p140
+I1
+sVwet
+p141
+I1
+sVhurt
+p142
+I1
+sVboys
+p143
+I3
+sVeverywhere
+p144
+I1
+sVgoals
+p145
+I1
+sVsmile
+p146
+I1
+sVbaby
+p147
+I1
+sVgrills
+p148
+I2
+sVline
+p149
+I1
+sVpouch
+p150
+I1
+sVgrill
+p151
+I8
+sVfraud
+p152
+I1
+sVstacked
+p153
+I1
+sV14
+p154
+I1
+sVniggas
+p155
+I6
+sVwhether
+p156
+I1
+sVcar
+p157
+I1
+sVinside
+p158
+I1
+sVofficial
+p159
+I1
+sVup
+p160
+I1
+sVpayin
+p161
+I3
+sVrack
+p162
+I1
+sVwill
+p163
+I2
+sVmall
+p164
+I1
+sVlays
+p165
+I1
+sVpraise
+p166
+I1
+sVaid
+p167
+I1
+sVmound
+p168
+I1
+sVdaddy
+p169
+I1
+sVtwoway
+p170
+I1
+sVrag
+p171
+I1
+sVtalin
+p172
+I1
+sVstick
+p173
+I1
+sVthirtytwo
+p174
+I1
+sVrunner
+p175
+I1
+sVflow
+p176
+I1
+sVmind
+p177
+I1
+sVfuck
+p178
+I1
+sVdays
+p179
+I1
+sVmiddle
+p180
+I1
+sVsay
+p181
+I3
+sVim
+p182
+I4
+sVkeep
+p183
+I2
+sV8ball
+p184
+I1
+sVshit
+p185
+I2
+sVnipples
+p186
+I1
+sVblindin
+p187
+I1
+sVtrill
+p188
+I2
+sVmake
+p189
+I2
+sVgovernment
+p190
+I1
+sVcross
+p191
+I1
+sVcouch
+p192
+I1
+sVclub
+p193
+I1
+sVsquad
+p194
+I1
+sVsquare
+p195
+I1
+sVspade
+p196
+I1
+sVbuff
+p197
+I1
+sVball
+p198
+I2
+sVblocks
+p199
+I1
+sVproblems
+p200
+I1
+sVpaid
+p201
+I2
+sVstay
+p202
+I2
+sVkeepin
+p203
+I1
+sVcmon
+p204
+I1
+sVrays
+p205
+I1
+sVmouth
+p206
+I1
+sVsuck
+p207
+I1
+sVgoldplated
+p208
+I1
+sVheavyass
+p209
+I1
+sVforever
+p210
+I2
+sVmjg
+p211
+I1
+sVmaybe
+p212
+I1
+sVtricks
+p213
+I3
+sVtwinkle
+p214
+I1
+sVsteady
+p215
+I1
+sVface
+p216
+I3
+sVpipe
+p217
+I1
+sVflippin
+p218
+I1
+sVfuckin
+p219
+I1
+sVteeth
+p220
+I1
+sVevery
+p221
+I1
+sVsun
+p222
+I1
+sVleft
+p223
+I1
+s.

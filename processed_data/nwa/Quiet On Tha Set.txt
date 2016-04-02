@@ -1,102 +1,856 @@
-"quiet on tha set" lyrics
-n.w.a. lyrics
-"quiet on tha set"
-(listen to this)
-yo ren !
-whassup ?
-take (one)
-yo (hit it)
-ruthless, plenty of that and much more
-so at the party, ren is controllin the floor
-that you step and do your danceroutine
-it ain't a dream my man, you're in a gangsta scene
-with a villain doin damage on a 24 track
-with confusion to finish my conclusion
-arhytomatic rhymes from a radio cat
-you can't take what i got coz i'll be takin it right back
-cold killin
-you wanna know what it's means ? (definition...villain)
-with the stupid dope rhyme
-so once you hear one line you can tell it's mine
-with a baseball cap that's black that i'm wearin
-and a look that keeps you all starin
-and wondering why i'm invincible
-but when you hear my rhyme, it's convincible
-i don't take no shorts while i'm constructin the ground
-that makes y'all move around to my hell of a sound
-girls drool on me like a dyin
-(yo ren, tell'em what they do when you start rhymin)
-i go to the party. i hip a hop the spot
-i dunno what it is, but the girls get hot
-aspirin like they're on fire and
-their so-called boyfriends with'em are retirin
-and for this reason i'm a walkin threath
-so when i'm on stage i want...(ssssht)
-quiet on tha set
-(light, camera, action)
-n.w.a. take (two)
-now to get started with my musical profession
-a gangsta or villain in mine is in session
-the way that i'm referrin to this makes ya move ya butt
-but don't stand in a daze, yeah you should know what's up
-anyway i keep the clappin along
-coz nothing bad could go wrong because this song is so strong
-who could ask for anything more
-when n.w.a. is cold rockin the floor
-like stupid, actin like a retard
-waitin for a bumrush, gettin to the good part
-it tips me so with temptation
-writin my lyrics with this hyped information
-just look at the center of the stage where the spotlight shines
-it's mine !
-unpredictable, keepin you extremely enjoyed
-it's irresistable, meanin that you can't avoid
-and while i'm on stage, look forward to sweat
-but after i rip it up i want...(ssssht)
-quiet on tha set
-(light, camera, action)
-n.w.a. take (three)
-i can be loud as hell, think i will ? (never)
-(ssssht)
-(quiet on tha set)
-yeah i like that better
-(?? huh ?? as what i can do ??) i think i earn respect
-and if i didn't from you, that's what i expect
-coz if it ain't ruff it ain't me
-so who really cares how you want me to be
-see, i'm just me standin at the top of the pile
-and doin soft known tunes it ain't my style
-and this concludes our program
-of how n.w.a. makes a ruthless jam
-now first we take an average drum
-give it to dre, and the boy gets dumb
-it's no secret, that i sit alone at night
-pick up a pad and pen and begin to write
-all kinda lyrics that's promised to play
-to make everybody say:
-(they can be cold and ruthless no question about that,
-but sometimes it's more complicated...)
-yo dre (you know what i want you to do ?)
-bring that beat back, bring that beat back
-now mc ren is here workin like super glue
-no matter what i do, i'm always thinkin o' you
-coz i'm the pusher, supplyin the fix
-and this jam's so dope, it don't need a remix
-but i'm makin obstacles of enemy traps
-to catch any mc's with the weak-ass raps
-crucifyin their  like just for usin my name
-the definition is pain, but that's the thing o' the game
-if they try to retreat, i catch'em one at a time
-coz they're comittin a crime, and still promotin a rhyme
-so, you're in the back of me just listen and learn
-because you'll all get a chance or maybe a turn
-now my sideman wants to give a preview
-so at my next concert i wanna see you
-there not sittin in a chair
-standin on yo feet, with yo hand in the air
-now i'm about to get out but i'll be back
-but next time expect the more funkier track
-deep down for your enjoyment to hear more percussion
-with lyrics that's smooth to start some discussion
-the beat that i'm  and you know that's bad
-now continue to dance coz i'm thru with tha set
+(dp1
+Vstandin
+p2
+I2
+sVlyrics
+p3
+I5
+sVenemy
+p4
+I1
+sVdance
+p5
+I1
+sVneed
+p6
+I1
+sVmove
+p7
+I2
+sVanyway
+p8
+I1
+sVbring
+p9
+I2
+sVsession
+p10
+I1
+sVradio
+p11
+I1
+sVnwa
+p12
+I5
+sVgo
+p13
+I2
+sVhell
+p14
+I2
+sVcold
+p15
+I3
+sVglue
+p16
+I1
+sVtakin
+p17
+I1
+sVenjoyed
+p18
+I1
+sVground
+p19
+I1
+sVaint
+p20
+I4
+sVmeanin
+p21
+I1
+sVstyle
+p22
+I1
+sVdefinitionvillain
+p23
+I1
+sVretirin
+p24
+I1
+sVcrime
+p25
+I1
+sVbetter
+p26
+I1
+sVcatchem
+p27
+I1
+sVprogram
+p28
+I1
+sVblack
+p29
+I1
+sVdaze
+p30
+I1
+sVreason
+p31
+I1
+sVgangsta
+p32
+I2
+sVfirst
+p33
+I1
+sVhip
+p34
+I1
+sVtellem
+p35
+I1
+sVgood
+p36
+I1
+sVhit
+p37
+I1
+sVaround
+p38
+I1
+sVyo
+p39
+I6
+sVmeans
+p40
+I1
+sVya
+p41
+I2
+sVdope
+p42
+I2
+sVtraps
+p43
+I1
+sVrhyme
+p44
+I3
+sVearn
+p45
+I1
+sVruff
+p46
+I1
+sVme
+p47
+I1
+sVgame
+p48
+I1
+sVknow
+p49
+I4
+sVretreat
+p50
+I1
+sVthinkin
+p51
+I1
+sVthat
+p52
+I1
+sVcontrollin
+p53
+I1
+sVlike
+p54
+I7
+sVrhymin
+p55
+I1
+sValways
+p56
+I1
+sVyeah
+p57
+I2
+sVmake
+p58
+I1
+sVtheyre
+p59
+I2
+sVtry
+p60
+I1
+sVunpredictable
+p61
+I1
+sVbad
+p62
+I2
+sVstupid
+p63
+I2
+sVnight
+p64
+I1
+sVtunes
+p65
+I1
+sVcatch
+p66
+I1
+sVsoft
+p67
+I1
+sVyall
+p68
+I1
+sVactin
+p69
+I1
+sVsittin
+p70
+I1
+sVset
+p71
+I6
+sVconcert
+p72
+I1
+sVbe
+p73
+I1
+sVback
+p74
+I5
+sVstarted
+p75
+I1
+sVsee
+p76
+I2
+sVdumb
+p77
+I1
+sVexpect
+p78
+I2
+sVconcludes
+p79
+I1
+sVair
+p80
+I1
+sVchair
+p81
+I1
+sVreally
+p82
+I1
+sVcomittin
+p83
+I1
+sVstill
+p84
+I1
+sVtemptation
+p85
+I1
+sVruthless
+p86
+I3
+sVavoid
+p87
+I1
+sVboy
+p88
+I1
+sVusin
+p89
+I1
+sVsideman
+p90
+I1
+sVenjoyment
+p91
+I1
+sVpen
+p92
+I1
+sVsweat
+p93
+I1
+sVren
+p94
+I4
+sVsocalled
+p95
+I1
+sVwhassup
+p96
+I1
+sVgot
+p97
+I1
+sVtips
+p98
+I1
+sVyoull
+p99
+I1
+sVthreath
+p100
+I1
+sV24
+p101
+I1
+sVcontinue
+p102
+I1
+sVconfusion
+p103
+I1
+sVnever
+p104
+I1
+sVstep
+p105
+I1
+sVbaseball
+p106
+I1
+sVask
+p107
+I1
+sValong
+p108
+I1
+sVstrong
+p109
+I1
+sVsuper
+p110
+I1
+sVstage
+p111
+I3
+sVjam
+p112
+I1
+sVdrum
+p113
+I1
+sVbumrush
+p114
+I1
+sVanything
+p115
+I1
+sVjams
+p116
+I1
+sVdyin
+p117
+I1
+sVdunno
+p118
+I1
+sVill
+p119
+I2
+sVcoz
+p120
+I6
+sVwithem
+p121
+I1
+sVquiet
+p122
+I5
+sVo
+I2
+sVkeep
+p123
+I1
+sVwalkin
+p124
+I1
+sVthing
+p125
+I1
+sVcrucifyin
+p126
+I1
+sVstand
+p127
+I1
+sVpick
+p128
+I1
+sVaction
+p129
+I2
+sVcomplicated
+p130
+I1
+sVhyped
+p131
+I1
+sVdefinition
+p132
+I1
+sVmakes
+p133
+I3
+sVthink
+p134
+I2
+sVfunkier
+p135
+I1
+sVthats
+p136
+I6
+sVwritin
+p137
+I1
+sVwhats
+p138
+I1
+sVdont
+p139
+I3
+sVchance
+p140
+I1
+sVquestion
+p141
+I1
+sVprofession
+p142
+I1
+sVscene
+p143
+I1
+sVone
+p144
+I3
+sVfix
+p145
+I1
+sValone
+p146
+I1
+sVfeet
+p147
+I1
+sVright
+p148
+I1
+sVspotlight
+p149
+I1
+sVkinda
+p150
+I1
+sVrespect
+p151
+I1
+sVnext
+p152
+I2
+sVeverybody
+p153
+I1
+sVwan
+p154
+I2
+sVkillin
+p155
+I1
+sVcares
+p156
+I1
+sVtop
+p157
+I1
+sVgive
+p158
+I2
+sVgirls
+p159
+I2
+sVtwo
+p160
+I1
+sVname
+p161
+I1
+sVclappin
+p162
+I1
+sVstart
+p163
+I2
+sVsecret
+p164
+I1
+sVmuch
+p165
+I1
+sVwondering
+p166
+I1
+sVrockin
+p167
+I1
+sVdrool
+p168
+I1
+sVpreview
+p169
+I1
+sVtell
+p170
+I1
+sVmore
+p171
+I1
+sVwants
+p172
+I1
+sVconvincible
+p173
+I1
+sVdiscussion
+p174
+I1
+sVshorts
+p175
+I1
+sVfire
+p176
+I1
+sVhuh
+p177
+I1
+sVremix
+p178
+I1
+sVmine
+p179
+I3
+sVreferrin
+p180
+I1
+sVmc
+p181
+I1
+sVgettin
+p182
+I1
+sVhear
+p183
+I3
+sVdeep
+p184
+I1
+sVbutt
+p185
+I1
+sVknown
+p186
+I1
+sVline
+p187
+I1
+sVmcs
+p188
+I1
+sVmatter
+p189
+I1
+sVsound
+p190
+I1
+sVthru
+p191
+I1
+sVpusher
+p192
+I1
+sVlook
+p193
+I3
+sVwearin
+p194
+I1
+sVthis
+p195
+I1
+sVinvincible
+p196
+I1
+sVcap
+p197
+I1
+sVsmooth
+p198
+I1
+sVcant
+p199
+I2
+sVrhymes
+p200
+I1
+sVcat
+p201
+I1
+sVconstructin
+p202
+I1
+sVmakin
+p203
+I1
+sVthree
+p204
+I1
+sVlearn
+p205
+I1
+sVlisten
+p206
+I2
+sVdidnt
+p207
+I1
+sVcould
+p208
+I2
+sVsay
+p209
+I1
+sVpromised
+p210
+I1
+sVand
+p211
+I1
+sVsometimes
+p212
+I1
+sVplay
+p213
+I1
+sVup
+p214
+I1
+sVraps
+p215
+I1
+sVit
+p216
+I1
+sVrip
+p217
+I1
+sVsit
+p218
+I1
+sVvillain
+p219
+I2
+sVway
+p220
+I1
+sVim
+p221
+I14
+sVdre
+p222
+I2
+sVwant
+p223
+I2
+sVsupplyin
+p224
+I1
+sVworkin
+p225
+I1
+sVshines
+p226
+I1
+sVturn
+p227
+I1
+sVpile
+p228
+I1
+sVforward
+p229
+I1
+sVinformation
+p230
+I1
+sVobstacles
+p231
+I1
+sVmaybe
+p232
+I1
+sVloud
+p233
+I1
+sVpromotin
+p234
+I1
+sVfloor
+p235
+I2
+sVna
+p236
+I2
+sVwrite
+p237
+I1
+sVget
+p238
+I4
+sVbeat
+p239
+I3
+sVdamage
+p240
+I1
+sVwantssssht
+p241
+I2
+sVaspirin
+p242
+I1
+sVhot
+p243
+I1
+sVpad
+p244
+I1
+sVtake
+p245
+I6
+sVhop
+p246
+I1
+sVpercussion
+p247
+I1
+sVparty
+p248
+I2
+sVyou
+p249
+I2
+sVgets
+p250
+I1
+sVweakass
+p251
+I1
+sVconclusion
+p252
+I1
+sVwaitin
+p253
+I1
+sVbegin
+p254
+I1
+sVfinish
+p255
+I1
+sVpain
+p256
+I1
+sVtrack
+p257
+I2
+sVcamera
+p258
+I2
+sVdoin
+p259
+I2
+sVtime
+p260
+I2
+sVspot
+p261
+I1
+sVssssht
+p262
+I1
+sVhand
+p263
+I1
+sVkeepin
+p264
+I1
+sVwrong
+p265
+I1
+sVstarin
+p266
+I1
+sVplenty
+p267
+I1
+sVnothing
+p268
+I1
+sVsong
+p269
+I1
+sVdanceroutine
+p270
+I1
+sVextremely
+p271
+I1
+sVman
+p272
+I1
+sVarhytomatic
+p273
+I1
+sVretard
+p274
+I1
+sVcenter
+p275
+I1
+sVirresistable
+p276
+I1
+sVlight
+p277
+I2
+sVaverage
+p278
+I1
+sVyoure
+p279
+I2
+sVpart
+p280
+I1
+sVkeeps
+p281
+I1
+sVboyfriends
+p282
+I1
+sVdream
+p283
+I1
+sVmusical
+p284
+I1
+sVtha
+p285
+I6
+s.

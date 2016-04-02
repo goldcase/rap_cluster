@@ -1,24 +1,113 @@
-"intro (slim shady)" lyrics
-eminem lyrics
-"intro (slim shady)"
-"eminem"
-"no"
-"eminem"
-"nooo"
-"wake the fuck up motherfucker"
-"what do you want from me??"
-"remember me"
-"i killed you!"
-"thought i was dead, didn't you"
-"what do you want from me?!"
-"i'm alive!"
-"oh god!"
-"get up"
-"no"
-"get up and look in the mirror!"
-"i don't want to"
-"look in the mirror to see your reflection"
-"leave me alone!!"
-"look in the mirror!, you're nothing, you're nothing without me!
-look in the motherfucking mirror!!!"
-"nooooo!!"
+(dp1
+Vmotherfucking
+p2
+I1
+sVdont
+p3
+I1
+sVlyrics
+p4
+I2
+sVslim
+p5
+I2
+sVfuck
+p6
+I1
+sVdead
+p7
+I1
+sVnooooo
+p8
+I1
+sVnothing
+p9
+I2
+sVsee
+p10
+I1
+sVintro
+p11
+I2
+sVim
+p12
+I1
+sVwant
+p13
+I3
+sVmirror
+p14
+I4
+sVleave
+p15
+I1
+sVno
+p16
+I2
+sVgod
+p17
+I1
+sVnooo
+p18
+I1
+sVto
+p19
+I1
+sVyou
+p20
+I2
+sVget
+p21
+I2
+sVreflection
+p22
+I1
+sVmotherfucker
+p23
+I1
+sVeminem
+p24
+I3
+sVwake
+p25
+I1
+sValive
+p26
+I1
+sValone
+p27
+I1
+sVkilled
+p28
+I1
+sVlook
+p29
+I4
+sVme
+p30
+I4
+sVremember
+p31
+I1
+sVoh
+p32
+I1
+sVshady
+p33
+I2
+sVyoure
+p34
+I2
+sVup
+p35
+I1
+sVthought
+p36
+I1
+sVwithout
+p37
+I1
+sVdidnt
+p38
+I1
+s.

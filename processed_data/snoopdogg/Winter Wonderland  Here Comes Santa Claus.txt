@@ -1,68 +1,362 @@
-"winter wonderland / here comes santa claus" lyrics
-snoop dogg lyrics
-"winter wonderland / here comes santa claus"
-(with anna kendrick)
-sleigh bells ring, are you listening?
-in the lane, snow is glistening
-a beautiful sight, we're happy tonight
-walking in a winter wonderland
-here comes santa claus, here comes santa claus
-right down santa claus lane
-vixen, blitzen, all his reindeer
-pulling on the reins
-gone away is the bluebird
-here to stay is a new bird
-he sings a love song
-while we stroll along
-walking in a winter wonderland
-in the meadow we can build a snowman
-will pretend that he is parson brown
-he'll say: are you married?
-we'll say: no man
-but you can do the job
-when you're in town
-later on, we'll conspire
-(here comes santa claus)
-as we dream by the fire
-(here comes santa claus)
-to face unafraid
-the plans that we've made
-walking in a winter wonderland
-in the meadow we can build a snowman
-(bells are ringing, children singing)
-will pretend that he is parson brown
-(all is merry and bright)
-we'll have lots of fun with mr. snowman
-(hang your stockings and say your prayers)
-until the other kiddies knock him down
-(cause santa claus comes tonight)
-when it snows, ain't it thrilling
-(here comes santa claus)
-though your nose gets a chilling
-(here comes santa claus)
-we'll frolic and play the eskimo way
-(here comes santa claus)
-walking in a winter wonderland
-(cause santa claus comes tonight)
-once upon a time in the lbc
-santa came up missing, he was sitting by a tree
-his reindeers were near but their leader wouldn't lead
-so i took the lead, now as we proceed
-this ain't for no mistletoe, but you need to listen, yo
-just in case you didn't know, i call this my christmas flow
-i can take you higher, higher, chestnuts roast on an open fire
-gone away, think that's what the, what the song say
-gone away is the bluebird
-(here comes santa claus)
-here to stay is a new bird
-(here comes santa claus)
-he sings a love song
-while we stroll along
-(here comes santa claus)
-walking in a winter wonderland
-(cause santa claus comes tonight)
-a beautiful sight, what we have tonight
-(here comes santa claus)
-walking in a winter wonderland
-(cause santa claus comes tonight)
-ho, ho, ho
+(dp1
+Vsnowman
+p2
+I3
+sVwalking
+p3
+I6
+sVlyrics
+p4
+I2
+sVbright
+p5
+I1
+sVhell
+p6
+I1
+sVchildren
+p7
+I1
+sVaint
+p8
+I2
+sVthrilling
+p9
+I1
+sVtook
+p10
+I1
+sVmistletoe
+p11
+I1
+sVtake
+p12
+I1
+sVbrown
+p13
+I2
+sVweve
+p14
+I1
+sVyo
+p15
+I1
+sVsong
+p16
+I3
+sVreindeers
+p17
+I1
+sVknow
+p18
+I1
+sVlistening
+p19
+I1
+sVstroll
+p20
+I2
+sVknock
+p21
+I1
+sVfrolic
+p22
+I1
+sVmarried
+p23
+I1
+sVleader
+p24
+I1
+sVnose
+p25
+I1
+sVroast
+p26
+I1
+sVsleigh
+p27
+I1
+sVhigher
+p28
+I2
+sVright
+p29
+I1
+sVmeadow
+p30
+I2
+sVprayers
+p31
+I1
+sVreins
+p32
+I1
+sVsight
+p33
+I2
+sVwonderland
+p34
+I8
+sVglistening
+p35
+I1
+sVlead
+p36
+I2
+sVlots
+p37
+I1
+sVopen
+p38
+I1
+sVaway
+p39
+I3
+sVcase
+p40
+I1
+sVnew
+p41
+I2
+sVcause
+p42
+I4
+sVbird
+p43
+I2
+sVanna
+p44
+I1
+sVmissing
+p45
+I1
+sVupon
+p46
+I1
+sVmr
+p47
+I1
+sVjob
+p48
+I1
+sVblitzen
+p49
+I1
+sVsanta
+p50
+I19
+sValong
+p51
+I2
+sVwouldnt
+p52
+I1
+sVparson
+p53
+I2
+sVthink
+p54
+I1
+sVcomes
+p55
+I17
+sVthats
+p56
+I1
+sVlove
+p57
+I2
+sVmerry
+p58
+I1
+sVdown
+p59
+I1
+sVring
+p60
+I1
+sVsinging
+p61
+I1
+sVvixen
+p62
+I1
+sVproceed
+p63
+I1
+sVsnoop
+p64
+I1
+sVdogg
+p65
+I1
+sVreindeer
+p66
+I1
+sVcall
+p67
+I1
+sVway
+p68
+I1
+sVhappy
+p69
+I1
+sVfire
+p70
+I2
+sVclaus
+p71
+I18
+sVsnows
+p72
+I1
+sVho
+p73
+I3
+sVtown
+p74
+I1
+sVchristmas
+p75
+I1
+sVmade
+p76
+I1
+sVpretend
+p77
+I2
+sVtree
+p78
+I1
+sVlbc
+p79
+I1
+sVnear
+p80
+I1
+sVkendrick
+p81
+I1
+sVfun
+p82
+I1
+sVlisten
+p83
+I1
+sVdidnt
+p84
+I1
+sVchilling
+p85
+I1
+sVbeautiful
+p86
+I2
+sVgone
+p87
+I3
+sVlater
+p88
+I1
+sVringing
+p89
+I1
+sVflow
+p90
+I1
+sVconspire
+p91
+I1
+sVtonight
+p92
+I6
+sVneed
+p93
+I1
+sVsay
+p94
+I4
+sVpulling
+p95
+I1
+sVunafraid
+p96
+I1
+sVsings
+p97
+I2
+sVchestnuts
+p98
+I1
+sVwinter
+p99
+I8
+sVsitting
+p100
+I1
+sVsnow
+p101
+I1
+sVbuild
+p102
+I2
+sVgets
+p103
+I1
+sVbells
+p104
+I2
+sVplay
+p105
+I1
+sVplans
+p106
+I1
+sVthough
+p107
+I1
+sVhang
+p108
+I1
+sVstay
+p109
+I2
+sVeskimo
+p110
+I1
+sVbluebird
+p111
+I2
+sVkiddies
+p112
+I1
+sVman
+p113
+I1
+sVlane
+p114
+I2
+sVyoure
+p115
+I1
+sVwell
+p116
+I4
+sVface
+p117
+I1
+sVtime
+p118
+I1
+sVstockings
+p119
+I1
+sVdream
+p120
+I1
+sVcame
+p121
+I1
+s.

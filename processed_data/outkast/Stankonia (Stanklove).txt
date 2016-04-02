@@ -1,36 +1,332 @@
-"stankonia (stanklove)" lyrics
-outkast lyrics
-"stankonia (stanklove)"
-what does love look like?
-love looks like you
-what does love love feel like?
-love feels like this
-what does love smell like?
-love smells like us
-you make me understand
-what it means to be in l-o-v-e once again
-why, must we fly so low?
-are we 'fraid of heights, do kites get lost in the tow
-stank love, stank love, stank love, stank love
-let me show your mind a new freaky side of love
-open up you flower please let me taste your love
-honeysuckle sweet, can't stop till i get ever drip drop on my tongue
-hitting every spot of you, what you gonna do
-your body is the rhythm of the boom in the room
-up and down it seems to go
-oh my god i think i'm bout to explode
-my fingertips scan flesh so supple
-no longer a couple like two in one skin
-where do you end and where do i begin
-both brains become one mind sensually
-every nerve becoming it's own individual entity
-with its own lusts, it's own needs to serve
-longing for the love of all the other nevers
-as they writhe and twist in satisfaction
-in the burning chill of please we bathe
-engulfing, encompassing like a cataclysmic shockwave
-of an impact so deep, but not one of destruction
-but of creation, elation in the re-making
-no taking in the relation, no taking in the relation
-just giving of ther persona making lover after making love
-till ain't nothing but stankonia
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVentity
+p4
+I1
+sVrelation
+p5
+I2
+sVlooks
+p6
+I1
+sVskin
+p7
+I1
+sVgo
+p8
+I1
+sVimpact
+p9
+I1
+sVelation
+p10
+I1
+sVflesh
+p11
+I1
+sVseems
+p12
+I1
+sVkites
+p13
+I1
+sVrhythm
+p14
+I1
+sVbout
+p15
+I1
+sVchill
+p16
+I1
+sVget
+p17
+I2
+sVcouple
+p18
+I1
+sVstop
+p19
+I1
+sVpersona
+p20
+I1
+sVfeels
+p21
+I1
+sVevery
+p22
+I2
+sVther
+p23
+I1
+sVroom
+p24
+I1
+sVlike
+p25
+I8
+sVlost
+p26
+I1
+sVfreaky
+p27
+I1
+sVdrop
+p28
+I1
+sVexplode
+p29
+I1
+sVbecome
+p30
+I1
+sVside
+p31
+I1
+sVcreation
+p32
+I1
+sVindividual
+p33
+I1
+sVfingertips
+p34
+I1
+sVflower
+p35
+I1
+sVgiving
+p36
+I1
+sVgod
+p37
+I1
+sVplease
+p38
+I2
+sVnew
+p39
+I1
+sVever
+p40
+I1
+sVbody
+p41
+I1
+sVaint
+p42
+I1
+sVoutkast
+p43
+I1
+sVlet
+p44
+I2
+sVhoneysuckle
+p45
+I1
+sVoh
+p46
+I1
+sVtaking
+p47
+I2
+sVtongue
+p48
+I1
+sVthink
+p49
+I1
+sVnerve
+p50
+I1
+sVlove
+p51
+I16
+sVburning
+p52
+I1
+sVfeel
+p53
+I1
+sVsweet
+p54
+I1
+sVone
+p55
+I3
+sVsatisfaction
+p56
+I1
+sVsupple
+p57
+I1
+sVopen
+p58
+I1
+sVsmells
+p59
+I1
+sVremaking
+p60
+I1
+sVtow
+p61
+I1
+sVheights
+p62
+I1
+sVhitting
+p63
+I1
+sVlow
+p64
+I1
+sVbrains
+p65
+I1
+sVbecoming
+p66
+I1
+sVwrithe
+p67
+I1
+sVserve
+p68
+I1
+sVunderstand
+p69
+I1
+sVmust
+p70
+I1
+sVfly
+p71
+I1
+sVlook
+p72
+I1
+sVus
+p73
+I1
+sVshockwave
+p74
+I1
+sVlover
+p75
+I1
+sVmaking
+p76
+I2
+sVbathe
+p77
+I1
+sVsensually
+p78
+I1
+sVscan
+p79
+I1
+sVtaste
+p80
+I1
+sVmind
+p81
+I2
+sVdeep
+p82
+I1
+sVtwist
+p83
+I1
+sVcant
+p84
+I1
+sVim
+p85
+I1
+sVnevers
+p86
+I1
+sVneeds
+p87
+I1
+sVend
+p88
+I1
+sVna
+p89
+I1
+sVmake
+p90
+I1
+sVmeans
+p91
+I1
+sVtill
+p92
+I2
+sVboom
+p93
+I1
+sVsmell
+p94
+I1
+sVstanklove
+p95
+I2
+sVfraid
+p96
+I1
+sVbegin
+p97
+I1
+sVstankonia
+p98
+I3
+sVlusts
+p99
+I1
+sVspot
+p100
+I1
+sVgon
+p101
+I1
+sVtwo
+p102
+I1
+sVnothing
+p103
+I1
+sVstank
+p104
+I4
+sVdestruction
+p105
+I1
+sVlonging
+p106
+I1
+sVcataclysmic
+p107
+I1
+sVlonger
+p108
+I1
+sVdrip
+p109
+I1
+sVencompassing
+p110
+I1
+sVengulfing
+p111
+I1
+s.

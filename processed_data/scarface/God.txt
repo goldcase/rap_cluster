@@ -1,82 +1,668 @@
-"god" lyrics
-scarface lyrics
-"god"
-(feat. john legend)
-if i had to play god for a day i would open up the gates let the world see my face
-remove all doubt from the ones without the faith
-and put them on the path of the straight
-a safe place, for the young to come out if they want to play
-i let their mommas know that they ok
-and when y'all pray, i'll respond so you can all see a sign
-and answer every pray one at a time
-if i'm god huh
-all the stabbings all the war would come to cease
-my whole entire hood would be at peace
-no more beef
-and you could sleep without the fears of being woke
-by the sounds of sirens, screams of people being smoked
-no more dope you don't need it
-you'll be cured of all diseases
-your whole entire life would be deleted
-please forgive me i've been dreaming
-and rudely interrupted by the demons
-laughed at the picture i was seeing on the ceiling
-who listens when we pray
-who pulls the strings of the world as we struggle today
-will you show your face
-i don't want to wait wait, wait 'til i die
-wait wait, wait for my eyes to close
-smile on your own child's nose
-god has a face
-just imagine if the devil had a day
-and god had took a break and walked away
-would you feel safe?
-if everything you loved turned into hate
-will the dark angel's evil show you grace
-only to be eaten by a snake
-one life one mistake
-be careful of the choices that you make
-cause one day you'll be standing on your feet and then the next
-you're underneath the sheet greeting death
-i wonder when i sleep is he there sitting on my chest, stealing breath
-shortening my days even less
-more souls never rest
-a killer walks the streets seeking flesh
-a adolescent hangs she depressed
-a priest who confessed
-a judged typing a nigga in a text
-your honor what the fuck did you expect
-a father kills his son look at life it's a mess
-just imagine what would happen if the lord up and left
-who listens when we pray
-who pulls the strings of the world as we struggle today
-will you show your face
-i don't want to wait wait, wait 'til i die
-wait wait, wait for my eyes to close
-smile on your child's nose
-god has face
-when all that you believed in was a lie
-are you willing to accept it when you find out
-or try to reason with yourself that's what it is when it's not
-and all the whole while it's been a plot
-to poison our minds and leave us blind to the fact
-that they keep us in the dark know they act
-we react all surprised and not realize that
-this shit a trap
-thought religion was the answer but the answer wasn't that
-the church and these politics they all full of crap
-it's a shame but that's how were blaming it's for the scratch
-so i don't knock i'm tryna to put a black card in my wallet
-but some dollars in my pocket ain't the topic
-y'all need to stop it
-this is just crazy these little babies ticking time bombs
-walking around the lunchroom pulling guns
-if momma and daddy took the time to raise their son
-then the sister wouldn't be the mom before she twenty-one huh
-who listens when we pray
-who pulls the strings of the world as we struggle today
-will you show your face
-i don't want to wait wait, wait 'til i die
-wait wait, wait for my eyes to close
-smile on your child's nose
-god has face
+(dp1
+Vgates
+p2
+I1
+sVwalking
+p3
+I1
+sVchilds
+p4
+I3
+sVlyrics
+p5
+I2
+sVshow
+p6
+I4
+sVtext
+p7
+I1
+sVsouls
+p8
+I1
+sVrest
+p9
+I1
+sVcease
+p10
+I1
+sVpoison
+p11
+I1
+sVleft
+p12
+I1
+sVfeat
+p13
+I1
+sVfind
+p14
+I1
+sVaint
+p15
+I1
+sVdeath
+p16
+I1
+sVreligion
+p17
+I1
+sVpray
+p18
+I5
+sVless
+p19
+I1
+sVfather
+p20
+I1
+sVyoung
+p21
+I1
+sVrealize
+p22
+I1
+sVwilling
+p23
+I1
+sVblack
+p24
+I1
+sVjudged
+p25
+I1
+sVscratch
+p26
+I1
+sVsmile
+p27
+I3
+sVsurprised
+p28
+I1
+sVstabbings
+p29
+I1
+sVdiseases
+p30
+I1
+sVkills
+p31
+I1
+sVsitting
+p32
+I1
+sVdope
+p33
+I1
+sVsafe
+p34
+I2
+sVstop
+p35
+I1
+sVhate
+p36
+I1
+sVbreak
+p37
+I1
+sVones
+p38
+I1
+sVevery
+p39
+I1
+sVknow
+p40
+I2
+sVmom
+p41
+I1
+sVnot
+p42
+I1
+sVworld
+p43
+I4
+sVson
+p44
+I2
+sVday
+p45
+I3
+sVentire
+p46
+I2
+sVpocket
+p47
+I1
+sVdie
+p48
+I3
+sVgreeting
+p49
+I1
+sVremove
+p50
+I1
+sVtry
+p51
+I1
+sVpriest
+p52
+I1
+sVnose
+p53
+I3
+sVbombs
+p54
+I1
+sVsleep
+p55
+I2
+sVyall
+p56
+I2
+sVrespond
+p57
+I1
+sVnigga
+p58
+I1
+sVmess
+p59
+I1
+sVpeople
+p60
+I1
+sVknock
+p61
+I1
+sVstreets
+p62
+I1
+sVaround
+p63
+I1
+sVsign
+p64
+I1
+sVsee
+p65
+I2
+sVexpect
+p66
+I1
+sVstealing
+p67
+I1
+sVclose
+p68
+I3
+sVhappen
+p69
+I1
+sVwonder
+p70
+I1
+sVeven
+p71
+I1
+sVleave
+p72
+I1
+sVgod
+p73
+I8
+sVaway
+p74
+I1
+sVplease
+p75
+I1
+sVdemons
+p76
+I1
+sVeverything
+p77
+I1
+sVticking
+p78
+I1
+sVunderneath
+p79
+I1
+sVyoull
+p80
+I2
+sVguns
+p81
+I1
+sVtrap
+p82
+I1
+sVsirens
+p83
+I1
+sVfull
+p84
+I1
+sVscreams
+p85
+I1
+sVdeleted
+p86
+I1
+sVnever
+p87
+I1
+sVforgive
+p88
+I1
+sVreason
+p89
+I1
+sVlet
+p90
+I2
+sVstruggle
+p91
+I3
+sVimagine
+p92
+I2
+sVput
+p93
+I2
+sVpath
+p94
+I1
+sVcome
+p95
+I2
+sVlegend
+p96
+I1
+sVcard
+p97
+I1
+sVwait
+p98
+I18
+sVfaith
+p99
+I1
+sVsister
+p100
+I1
+sVcured
+p101
+I1
+sVbeef
+p102
+I1
+sVwouldnt
+p103
+I1
+sVcould
+p104
+I1
+sVdays
+p105
+I1
+sVminds
+p106
+I1
+sVkeep
+p107
+I1
+sVcrap
+p108
+I1
+sVplace
+p109
+I1
+sVact
+p110
+I1
+sVwhole
+p111
+I3
+sVhonor
+p112
+I1
+sVthats
+p113
+I2
+sVblind
+p114
+I1
+sVrudely
+p115
+I1
+sVdont
+p116
+I5
+sVfeel
+p117
+I1
+sVone
+p118
+I4
+sVfeet
+p119
+I1
+sVmomma
+p120
+I1
+sVdreaming
+p121
+I1
+sVpulls
+p122
+I3
+sVsounds
+p123
+I1
+sVshortening
+p124
+I1
+sVopen
+p125
+I1
+sVhood
+p126
+I1
+sVstanding
+p127
+I1
+sVplot
+p128
+I1
+sVlittle
+p129
+I1
+sVdevil
+p130
+I1
+sVsheet
+p131
+I1
+sVraise
+p132
+I1
+sVwould
+p133
+I6
+sVpulling
+p134
+I1
+sVhangs
+p135
+I1
+sVnext
+p136
+I1
+sVbreath
+p137
+I1
+sVdoubt
+p138
+I1
+sVtyping
+p139
+I1
+sVjohn
+p140
+I1
+sVangels
+p141
+I1
+sVwar
+p142
+I1
+sVwoke
+p143
+I1
+sVtryna
+p144
+I1
+sVceiling
+p145
+I1
+sVlunchroom
+p146
+I1
+sVseeking
+p147
+I1
+sVhuh
+p148
+I2
+sVtook
+p149
+I2
+sVfuck
+p150
+I1
+sVlord
+p151
+I1
+sVok
+p152
+I1
+sVcareful
+p153
+I1
+sVgrace
+p154
+I1
+sVchurch
+p155
+I1
+sVloved
+p156
+I1
+sVlook
+p157
+I1
+sVdepressed
+p158
+I1
+sVstraight
+p159
+I1
+sVus
+p160
+I2
+sVchoices
+p161
+I1
+sVmommas
+p162
+I1
+sVwallet
+p163
+I1
+sVadolescent
+p164
+I1
+sVtoday
+p165
+I3
+sVbelieved
+p166
+I1
+sVscarface
+p167
+I1
+sVdaddy
+p168
+I1
+sVill
+p169
+I1
+sVmistake
+p170
+I1
+sVive
+p171
+I1
+sVcrazy
+p172
+I1
+sVthat
+p173
+I2
+sVwasnt
+p174
+I1
+sVconfessed
+p175
+I1
+sVturned
+p176
+I1
+sVit
+p177
+I2
+sVaccept
+p178
+I1
+sVtopic
+p179
+I1
+sVshame
+p180
+I1
+sVim
+p181
+I2
+sVwant
+p182
+I4
+sVwalks
+p183
+I1
+sVneed
+p184
+I2
+sVpolitics
+p185
+I1
+sVshit
+p186
+I1
+sVlistens
+p187
+I3
+sVlie
+p188
+I1
+sVdollars
+p189
+I1
+sVmake
+p190
+I1
+sVpeace
+p191
+I1
+sVfears
+p192
+I1
+sVtil
+p193
+I3
+sVchest
+p194
+I1
+sVbabies
+p195
+I1
+sVlaughed
+p196
+I1
+sVanswer
+p197
+I3
+sVtwentyone
+p198
+I1
+sVout
+p199
+I1
+sVpicture
+p200
+I1
+sVplay
+p201
+I2
+sVkiller
+p202
+I1
+sVflesh
+p203
+I1
+sVevil
+p204
+I1
+sVreact
+p205
+I1
+sVeaten
+p206
+I1
+sVblaming
+p207
+I1
+sVseeing
+p208
+I1
+sVeyes
+p209
+I3
+sVdark
+p210
+I2
+sVcause
+p211
+I1
+sVyoure
+p212
+I1
+sVlife
+p213
+I3
+sVinterrupted
+p214
+I1
+sVwalked
+p215
+I1
+sVface
+p216
+I7
+sVthought
+p217
+I1
+sVwithout
+p218
+I2
+sVtime
+p219
+I3
+sVsmoked
+p220
+I1
+sVstrings
+p221
+I3
+sVfact
+p222
+I1
+sVsnake
+p223
+I1
+s.

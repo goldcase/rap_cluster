@@ -1,80 +1,442 @@
-"do ya head like this" lyrics
-e-40 lyrics
-"do ya head like this"
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-now gas break dip dip, gas break dip dip
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-when i told ya i had a white gurl
-i thought yall was gonna hurl
-yall looked sick but the bitch still suck on my dick
-{ohh}
-but to all my niggaz in the pin and some wating to get it in
-i want all yall niggas to....
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-now gas break dip dip, gas break dip dip
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-this is a discipline rap for my niggaz back in tha bin
-tryin to hustle for the tin
-a discipline tracks for my niggaz that rap
-but now im back and i hope ya dont do that ...
-soul is the heart of it i hope i can get every lil bit of it
-but sometimes ya gotta slow it down
-like the few mc's that do shows in my town
-back in 2000 the rap game was lackin
-like some of them rappers bringin two steps back in
-but today is the day for hunger in the game
-it aint bout the fame its all about the brains
-and if you got that and yo rhymes are phat
-gone on head and do that
-but ya always gotta think ...
-ohh u thought i stopped rappin
-put yo money back in the bank on my rank im numba 1
-you is numba 2 i dont know what cha gone do
-ya gotta think it threw but too all my mc's
-back in the game this shit it like it was back in the day
-im bout to thorw the fist all my hoes do ya head like this {ohh}
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-now gas break dip dip, gas break dip dip
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-check it out now
-my boy doe just ripped it
-sip it smkoe it do sumthin wid it
-get suppa sick wid it
-girl im headin to tha south
-i really want u to head down south if u know what i mean
-use ur mouth like ur in a bath ridin on a rath
-but to all my niggaz in the pin and some wating to get it in
-i want all yall niggas to....
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-now gas break dip dip, gas break dip dip
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-super hyipihe in this bitch smokin on da litch
-throw that bitch right back in that nasty ass ditch
-x on my side slab on my phab my car shoot bullets
-like the arm of donavaon mccnabb but think fast hoe
-4-4 gone blow me and e-40 we got all the dough
-but my boy doe he git it to he hustlin at 14
-tryin to get a wagur too
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-now gas break dip dip, gas break dip dip
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
-do ya head like this, do ya head like this
+(dp1
+Vlyrics
+p2
+I2
+sVhunger
+p3
+I1
+sVmoney
+p4
+I1
+sVdough
+p5
+I1
+sVheadin
+p6
+I1
+sVstill
+p7
+I1
+sVnasty
+p8
+I1
+sVdiscipline
+p9
+I2
+sVslow
+p10
+I1
+sVdick
+p11
+I1
+sVto
+p12
+I2
+sVbout
+p13
+I2
+sVhope
+p14
+I2
+sVta
+p15
+I3
+sVbin
+p16
+I1
+sVdo
+p17
+I1
+sVyo
+p18
+I2
+sVget
+p19
+I5
+sVya
+p20
+I68
+sVda
+p21
+I1
+sVbreak
+p22
+I10
+sVshoot
+p23
+I1
+sVgame
+p24
+I3
+sVevery
+p25
+I1
+sVknow
+p26
+I2
+sVbit
+p27
+I1
+sVnow
+p28
+I1
+sVday
+p29
+I2
+sVbank
+p30
+I1
+sVlike
+p31
+I68
+sValways
+p32
+I1
+sVstopped
+p33
+I1
+sVx
+I1
+sVtold
+p34
+I1
+sVdip
+p35
+I20
+sVside
+p36
+I1
+sVyall
+p37
+I4
+sVmean
+p38
+I1
+sVright
+p39
+I1
+sVhyipihe
+p40
+I1
+sVback
+p41
+I8
+sVniggaz
+p42
+I4
+sVfist
+p43
+I1
+sVhoes
+p44
+I1
+sVgirl
+p45
+I1
+sVarm
+p46
+I1
+sVreally
+p47
+I1
+sVgon
+p48
+I1
+sVgot
+p49
+I5
+sVshows
+p50
+I1
+sVass
+p51
+I1
+sVaint
+p52
+I1
+sVripped
+p53
+I1
+sVridin
+p54
+I1
+sVtracks
+p55
+I1
+sVsmokin
+p56
+I1
+sVput
+p57
+I1
+sVsuper
+p58
+I1
+sVthrow
+p59
+I1
+sVboy
+p60
+I2
+sVmccnabb
+p61
+I1
+sVbullets
+p62
+I1
+sVthink
+p63
+I3
+sVsouth
+p64
+I2
+sVwid
+p65
+I2
+sVdont
+p66
+I2
+sVgone
+p67
+I3
+sVrank
+p68
+I1
+sVbath
+p69
+I1
+sVdown
+p70
+I1
+sVbitch
+p71
+I3
+sVditch
+p72
+I1
+sVsuppa
+p73
+I1
+sVcha
+p74
+I1
+sVuse
+p75
+I1
+sVgit
+p76
+I1
+sVtwo
+p77
+I1
+sVfast
+p78
+I1
+sV2
+I1
+sVtoo
+p79
+I1
+sVhustlin
+p80
+I1
+sVblow
+p81
+I1
+sVwhite
+p82
+I1
+sVtryin
+p83
+I2
+sVtoday
+p84
+I1
+sVthrew
+p85
+I1
+sVhead
+p86
+I65
+sVthat
+p87
+I1
+sVbrains
+p88
+I1
+sVgas
+p89
+I10
+sVwagur
+p90
+I1
+sVbringin
+p91
+I1
+sVhurl
+p92
+I1
+sVsumthin
+p93
+I1
+sVmcs
+p94
+I2
+sVtown
+p95
+I1
+sVe40
+p96
+I2
+sVrappin
+p97
+I1
+sV14
+p98
+I1
+sVwating
+p99
+I2
+sVniggas
+p100
+I2
+sVthis
+p101
+I31
+sVcar
+p102
+I1
+sVsoul
+p103
+I1
+sVrhymes
+p104
+I1
+sVur
+p105
+I2
+sVsmkoe
+p106
+I1
+sVheart
+p107
+I1
+sVsometimes
+p108
+I1
+sVohh
+p109
+I3
+sVwant
+p110
+I3
+sVpin
+p111
+I2
+sVit
+p112
+I4
+sVnumba
+p113
+I2
+sVim
+p114
+I4
+sVrap
+p115
+I3
+sVin
+p116
+I3
+sVslab
+p117
+I1
+sVfame
+p118
+I1
+sVshit
+p119
+I1
+sVthought
+p120
+I2
+sVsip
+p121
+I1
+sVlil
+p122
+I1
+sVna
+p123
+I1
+sV44
+p124
+I1
+sVcheck
+p125
+I1
+sV1
+I1
+sVtin
+p126
+I1
+sVsick
+p127
+I2
+sVrath
+p128
+I1
+sVgurl
+p129
+I1
+sVlitch
+p130
+I1
+sVrappers
+p131
+I1
+sVdonavaon
+p132
+I1
+sVsteps
+p133
+I1
+sVhoe
+p134
+I1
+sVmouth
+p135
+I1
+sVsuck
+p136
+I1
+sVhustle
+p137
+I1
+sVlackin
+p138
+I1
+sVphat
+p139
+I1
+sVdoe
+p140
+I2
+sVlooked
+p141
+I1
+sV2000
+p142
+I1
+sVthorw
+p143
+I1
+sVu
+I3
+sVphab
+p144
+I1
+sVtha
+p145
+I2
+s.

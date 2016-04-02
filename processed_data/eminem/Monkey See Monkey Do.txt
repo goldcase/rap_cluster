@@ -1,102 +1,655 @@
-"monkey see, monkey do" lyrics
-eminem lyrics
-"monkey see, monkey do"
-ay yo 50
-what i tell you
-we aint even have to say shit
-they did it
-monkey see monkey do
-dont ever make the first move
-just let em' come to you
-cause they always gunna see and do what the other one do
-so let em' come to you
-the rest of us follow suit
-monkey see monkey do
-tweedle-de-tweedle-dum
-if they really want it bad enough well then they gunna come
-now here they come as we expected now we just set em' up
-check-mate motherfucker
-games over
-we won
-tweedle-de-tweedle-dum
-it doesnt take much
-for me to raise such a stink up
-when motherfuckers hate your guts
-you aint even gotta say much
-for me to put a pen to a blank sheet of papers
-like smearing blood stains with a paint brush
-i cant explain what it is my brain does
-but however it works its insane
-its plain nutz
-and it aint just my brain thas dangerous
-its a whole combination of things
-it takes nutz
-and im not affriad to raise the stakes up
-i got a million bucks in the banks and 8 trucks
-for anybody who gets on the track and spanks us
-im patiently waiting for the day
-im anxious
-to see the look on ya fake mugs
-when you thugs go bankrupt
-ya drunk
-ya aint tough
-whatever you drank musta just turned ya into some gangstas
-this is me talking motherfucker
-this aint drugs
-you wanna pop, shit wake-up, then make-up
-fuck that
-its too late chump now face up
-i pray for the day that someone who spits with the calliber that nas and jay does
-opens up his jaw to say something or rattle my name off
-or rattle the first thing from the top of his brain off
-so i can blow the fuckin dust off of this chainsaw
-and give him the surgery that he came for
-till i pull the paint off
-i never been shot
-but i think me and 50 musta been cut from the same cloth
-cause ive always came off
-like ja's chain
-when they try to rush him and lost
-and came back and gave him a watch in exchange for it
-i dont stop
-the only thing i wait for
-is day that i dont gotta report to probate court
-cause ima give ya all the reason to hate more
-cause ive been holding my tounge till i got a sprained jaw
-alot of rappers on my list that just aint ja
-and ima read that motherfucker off from april
-you pussies think i went soft since 8 mile
-when i come back ill be shootin more than just paint balls
-trust me
-monkey see monkey do
-dont ever make the first move
-just let em' come to you
-cause they always gunna see and do what the other one do
-so let em' come to you
-the rest of us follow suit
-monkey see monkey do
-tweedle-de-tweedle-dum
-if they really want it bad enough well then they gunna come
-now here they come as we expected now we just set em' up
-check-mate motherfucker
-games over
-we won
-tweedle-de-tweedle-dum
-fuckin dummies
-this aint chess
-ya playin motherfuckin checkers
-this shit is all day man its too easy
-we playin chess you playin checkers
-you bout to get ya motherfuckin asses jumped
-fucking punks
-and by the way
-we aint just talking to one person
-we talking to every-motherfucking-body who wants to bring it cause we bringin it to anybody who wants to bring it
-so bring it
-dot pick up the ball if you dot wanna pay man
-its all fucked up now
-the fuck im spose to do now?
-huh?
-the fuck im spose to do?
-haha
-yo, we out
+(dp1
+Vthink
+p2
+I2
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVstains
+p5
+I1
+sVover
+p6
+I2
+sVmove
+p7
+I2
+sVrest
+p8
+I2
+sVbrain
+p9
+I3
+sVmile
+p10
+I1
+sVgo
+p11
+I1
+sVfollow
+p12
+I2
+sVhate
+p13
+I2
+sVdummies
+p14
+I1
+sVaint
+p15
+I8
+sVcut
+p16
+I1
+sVmugs
+p17
+I1
+sVchain
+p18
+I1
+sVjay
+p19
+I1
+sVpray
+p20
+I1
+sVjaw
+p21
+I2
+sVexplain
+p22
+I1
+sVguts
+p23
+I1
+sVenough
+p24
+I2
+sVlate
+p25
+I1
+sVeverymotherfuckingbody
+p26
+I1
+sVdoes
+p27
+I2
+sVeasy
+p28
+I1
+sV8
+I2
+sVbout
+p29
+I1
+sVpay
+p30
+I1
+sVta
+p31
+I2
+sVdo
+p32
+I8
+sVsomeone
+p33
+I1
+sVfucked
+p34
+I1
+sVyo
+p35
+I2
+sVget
+p36
+I1
+sVya
+p37
+I7
+sVwatch
+p38
+I1
+sVchainsaw
+p39
+I1
+sVpop
+p40
+I1
+sVreport
+p41
+I1
+sVnow
+p42
+I2
+sVday
+p43
+I4
+sVname
+p44
+I1
+sVlike
+p45
+I2
+sVtrucks
+p46
+I1
+sVbring
+p47
+I3
+sVcause
+p48
+I6
+sVlist
+p49
+I1
+sV50
+p50
+I2
+sVanxious
+p51
+I1
+sVbad
+p52
+I2
+sVman
+p53
+I2
+sVdangerous
+p54
+I1
+sVwent
+p55
+I1
+sVworks
+p56
+I1
+sVsoft
+p57
+I1
+sVem
+p58
+I6
+sVmotherfuckin
+p59
+I2
+sVset
+p60
+I2
+sVaffriad
+p61
+I1
+sVgunna
+p62
+I4
+sVfake
+p63
+I1
+sVback
+p64
+I2
+sVsee
+p65
+I9
+sVplayin
+p66
+I3
+sVsurgery
+p67
+I1
+sVreally
+p68
+I2
+sVeven
+p69
+I2
+sVtry
+p70
+I1
+sVlost
+p71
+I1
+sVhuh
+p72
+I1
+sVcheckers
+p73
+I2
+sVfor
+p74
+I2
+sVwaiting
+p75
+I1
+sVbankrupt
+p76
+I1
+sVexchange
+p77
+I1
+sVpen
+p78
+I1
+sVwon
+p79
+I2
+sVmusta
+p80
+I2
+sVcheckmate
+p81
+I2
+sVgot
+p82
+I4
+sVever
+p83
+I2
+sVblow
+p84
+I1
+sVmakeup
+p85
+I1
+sVout
+p86
+I1
+sVspits
+p87
+I1
+sVmillion
+p88
+I1
+sVhowever
+p89
+I1
+sVpunks
+p90
+I1
+sVmotherfucker
+p91
+I4
+sVreason
+p92
+I1
+sVlet
+p93
+I4
+sVima
+p94
+I2
+sVput
+p95
+I1
+sVeminem
+p96
+I1
+sVcome
+p97
+I9
+sVja
+p98
+I1
+sVtakes
+p99
+I1
+sValways
+p100
+I3
+sVdrank
+p101
+I1
+sVill
+p102
+I1
+sVthing
+p103
+I2
+sVgames
+p104
+I2
+sValot
+p105
+I1
+sVpick
+p106
+I1
+sVsmearing
+p107
+I1
+sVshootin
+p108
+I1
+sVwhole
+p109
+I1
+sVmotherfuckers
+p110
+I1
+sVfuckin
+p111
+I2
+sVstakes
+p112
+I1
+sVinsane
+p113
+I1
+sVtough
+p114
+I1
+sVdont
+p115
+I4
+sVdrunk
+p116
+I1
+sVwhatever
+p117
+I1
+sVone
+p118
+I3
+sVtounge
+p119
+I1
+sVdust
+p120
+I1
+sVdoesnt
+p121
+I1
+sVbrush
+p122
+I1
+sVblank
+p123
+I1
+sVtrust
+p124
+I1
+sVpatiently
+p125
+I1
+sVwan
+p126
+I2
+sVsheet
+p127
+I1
+sVmonkey
+p128
+I12
+sVtop
+p129
+I1
+sVpaint
+p130
+I3
+sVasses
+p131
+I1
+sVmuch
+p132
+I2
+sVway
+p133
+I1
+sVsuit
+p134
+I2
+sVexpected
+p135
+I2
+sVwait
+p136
+I1
+sVtell
+p137
+I1
+sVopens
+p138
+I1
+sVmore
+p139
+I1
+sVthas
+p140
+I1
+sVtill
+p141
+I2
+sVjumped
+p142
+I1
+sVthat
+p143
+I1
+sVdrugs
+p144
+I1
+sVgangstas
+p145
+I1
+sVtweedledetweedledum
+p146
+I4
+sVspose
+p147
+I2
+sVfuck
+p148
+I3
+sVcloth
+p149
+I1
+sVbringin
+p150
+I1
+sVchess
+p151
+I2
+sVfucking
+p152
+I1
+sVprobate
+p153
+I1
+sVme
+p154
+I1
+sVpull
+p155
+I1
+sVrush
+p156
+I1
+sVballs
+p157
+I1
+sVlook
+p158
+I1
+sVsince
+p159
+I1
+sVplain
+p160
+I1
+sVup
+p161
+I5
+sVus
+p162
+I3
+sVspanks
+p163
+I1
+sVgave
+p164
+I1
+sVsay
+p165
+I3
+sVcalliber
+p166
+I1
+sVive
+p167
+I2
+sVstink
+p168
+I1
+sVgive
+p169
+I2
+sVrattle
+p170
+I2
+sVturned
+p171
+I1
+sVit
+p172
+I4
+sVraise
+p173
+I2
+sVsprained
+p174
+I1
+sVtalking
+p175
+I3
+sVcant
+p176
+I1
+sVim
+p177
+I5
+sVsomething
+p178
+I1
+sVwant
+p179
+I2
+sVay
+p180
+I1
+sVbucks
+p181
+I1
+sVshit
+p182
+I3
+sVthugs
+p183
+I1
+sVcourt
+p184
+I1
+sVcombination
+p185
+I1
+sVapril
+p186
+I1
+sVthings
+p187
+I1
+sVmake
+p188
+I2
+sVnas
+p189
+I1
+sVtake
+p190
+I1
+sVholding
+p191
+I1
+sVpapers
+p192
+I1
+sVwakeup
+p193
+I1
+sVyou
+p194
+I5
+sVgets
+p195
+I1
+sVhaha
+p196
+I1
+sVball
+p197
+I1
+sVtrack
+p198
+I1
+sVstop
+p199
+I1
+sVrappers
+p200
+I1
+sVjas
+p201
+I1
+sVblood
+p202
+I1
+sVnever
+p203
+I1
+sVchump
+p204
+I1
+sVnutz
+p205
+I2
+sVoff
+p206
+I4
+sVread
+p207
+I1
+sVpussies
+p208
+I1
+sVwell
+p209
+I2
+sVanybody
+p210
+I2
+sVface
+p211
+I1
+sVwants
+p212
+I2
+sVperson
+p213
+I1
+sVdot
+p214
+I2
+sVna
+p215
+I2
+sVbanks
+p216
+I1
+sVfirst
+p217
+I3
+sVcame
+p218
+I3
+s.

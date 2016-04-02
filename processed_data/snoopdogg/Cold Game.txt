@@ -1,73 +1,575 @@
-"cold game" lyrics
-snoop dogg lyrics
-"cold game"
-(feat. latoiya williams)
-i had seen a lot of niggers come up in this game
-but never did they make the look so good
-from candy cars to bright yellow bras
-the gangster white walls and the wood
-you see, there comes a time in a man's life
-where you gotta choose the goods of the game
-oh, but it so hard to turn your back on a place
-where everybody knows your name
-it's a cold game, i ain't been one to
-jump in and out of the range
-maybe an old school synagogue
-spinnin' the vision from which i faint
-you got to do it, you can, gotta keep rhymin'
-east side high enjoyin' life, hair blowin' in the wind
-the state that i'm in is gangster bliss
-this is what you're callin' a sis
-passin' them off quick, memories missed
-i made a lot of friends, a whole lot of money
-been down a couple times, but it never stopped my rhymin'
-in fact, i got better, clutchin' on beretta's
-blowin' a sticky, turn it to whether
-a war shows in dough free lobos, this is how a player roll
-and i never be questioned by some new young chump
-poppin' their toss, snoopy d.o. made the way for you to walk
-owe it to the almighty, without you it couldn't be done
-your praise put the rise of the son, you dig?
-hold closer my hands from my throne
-and i never be crucified within my own zone
-here is a very good reason to show love
-but you gotta separate grown man from grown thug
-from mamas goin' down for murder in '93
-to keys all over the city bowlin' in snoops league
-i changed, i got smarter, i got a daughter
-two sons, beautiful wife for starters
-i did it all, jack, poppin' this peas
-eatin' international cuisine overseas, yeah
-don't judge me, you only knew snoopy
-you never tried to know calvin, you tried to groove me up
-like some loco, i earned my respect
-did so much shit for the coast, i should get a check
-but all in all, i did it, b, cool as a blind with a c
-leveled my life as i push away the groupies
-snoopin' in a coopin', you can call me uncle snoopy
-don't worry about your circumstances
-take your chances, still from the b, l, b, c
-for you are the c
-haler at you're the snoopy
-haler at you're the snoopy
-i paid my dues
-and now it's time to make a change
-gotta make that move
-there's a time and place for everythin'
-i paid my dues
-and now it's time to make a change
-gotta make that move
-there's a time and place for everythin'
-i paid my dues
-and now it's time to make a change
-gotta make that move
-there's a time and place for everythin'
-i paid my dues
-and now it's time to make a change
-gotta make that move
-there's a time and place for everythin'
-don't worry about your circumstances
-take your chances, still from the l b c
-for you are the c
-haler at you're the snoopy
-haler at you're the snoopy
+(dp1
+Vson
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVchances
+p5
+I2
+sVmoney
+p6
+I1
+sVhands
+p7
+I1
+sVyellow
+p8
+I1
+sVjudge
+p9
+I1
+sVbright
+p10
+I1
+sVdough
+p11
+I1
+sVcold
+p12
+I3
+sVstill
+p13
+I2
+sVfeat
+p14
+I1
+sVmove
+p15
+I4
+sVaint
+p16
+I1
+sVlobos
+p17
+I1
+sVzone
+p18
+I1
+sVblowin
+p19
+I2
+sVniggers
+p20
+I1
+sVpoppin
+p21
+I2
+sVyoung
+p22
+I1
+sVbetter
+p23
+I1
+sVto
+p24
+I1
+sVwood
+p25
+I1
+sVbliss
+p26
+I1
+sVchoose
+p27
+I1
+sVeast
+p28
+I1
+sVta
+p29
+I7
+sVcallin
+p30
+I1
+sVget
+p31
+I1
+sVsmarter
+p32
+I1
+sVcouple
+p33
+I1
+sVrise
+p34
+I1
+sVcoast
+p35
+I1
+sVgame
+p36
+I5
+sVsons
+p37
+I1
+sVjack
+p38
+I1
+sVsnoopy
+p39
+I7
+sVnew
+p40
+I1
+sVpassin
+p41
+I1
+sVwalk
+p42
+I1
+sVsnoops
+p43
+I1
+sVlike
+p44
+I1
+sVschool
+p45
+I1
+sVname
+p46
+I1
+sVrhymin
+p47
+I2
+sVcool
+p48
+I1
+sVdig
+p49
+I1
+sVl
+I2
+sVcandy
+p50
+I1
+sVstopped
+p51
+I1
+sVquick
+p52
+I1
+sVearned
+p53
+I1
+sVside
+p54
+I1
+sVvision
+p55
+I1
+sVold
+p56
+I1
+sVhaler
+p57
+I4
+sVgroupies
+p58
+I1
+sVhard
+p59
+I1
+sVback
+p60
+I1
+sVjump
+p61
+I1
+sVgangster
+p62
+I2
+sVsee
+p63
+I1
+sVbowlin
+p64
+I1
+sVcloser
+p65
+I1
+sVmissed
+p66
+I1
+sVmemories
+p67
+I1
+sVaway
+p68
+I1
+sVstate
+p69
+I1
+sVgot
+p70
+I11
+sVshows
+p71
+I1
+sVmamas
+p72
+I1
+sVcars
+p73
+I1
+sVnever
+p74
+I5
+sVcrucified
+p75
+I1
+sVfree
+p76
+I1
+sVreason
+p77
+I1
+sVput
+p78
+I1
+sVcome
+p79
+I1
+sVchange
+p80
+I4
+sVbras
+p81
+I1
+sVleague
+p82
+I1
+sVc
+I5
+sVgoods
+p83
+I1
+sVdaughter
+p84
+I1
+sVsnoop
+p85
+I1
+sVoh
+p86
+I1
+sVchanged
+p87
+I1
+sVcalvin
+p88
+I1
+sVtimes
+p89
+I1
+sVturn
+p90
+I2
+sVrange
+p91
+I1
+sVplace
+p92
+I5
+sVwhole
+p93
+I1
+sVcomes
+p94
+I1
+sVblind
+p95
+I1
+sVlove
+p96
+I1
+sVdont
+p97
+I3
+sVowe
+p98
+I1
+sVwithin
+p99
+I1
+sVb
+I4
+sVone
+p100
+I1
+sVdone
+p101
+I1
+sVuncle
+p102
+I1
+sVrespect
+p103
+I1
+sVcouldnt
+p104
+I1
+sVenjoyin
+p105
+I1
+sVeverybody
+p106
+I1
+sVcity
+p107
+I1
+sVlatoiya
+p108
+I1
+sVleveled
+p109
+I1
+sVdogg
+p110
+I1
+sVfaint
+p111
+I1
+sVtwo
+p112
+I1
+sValmighty
+p113
+I1
+sVmuch
+p114
+I1
+sVcall
+p115
+I1
+sVlot
+p116
+I3
+sVspinnin
+p117
+I1
+sVwhite
+p118
+I1
+sVgoin
+p119
+I1
+sVwar
+p120
+I1
+sVwilliams
+p121
+I1
+sVquestioned
+p122
+I1
+sVthrone
+p123
+I1
+sVlife
+p124
+I3
+sVmurder
+p125
+I1
+sVknows
+p126
+I1
+sVstarters
+p127
+I1
+sVclutchin
+p128
+I1
+sVyeah
+p129
+I1
+sVmans
+p130
+I1
+sVberettas
+p131
+I1
+sV93
+p132
+I1
+sVhold
+p133
+I1
+sVcircumstances
+p134
+I2
+sVhair
+p135
+I1
+sVmade
+p136
+I2
+sVlook
+p137
+I1
+sVwhether
+p138
+I1
+sVtake
+p139
+I2
+sVup
+p140
+I1
+sVpraise
+p141
+I1
+sVgroove
+p142
+I1
+sVdues
+p143
+I4
+sVtheres
+p144
+I4
+sVbeautiful
+p145
+I1
+sVtoss
+p146
+I1
+sVloco
+p147
+I1
+sVsticky
+p148
+I1
+sVhigh
+p149
+I1
+sVplayer
+p150
+I1
+sVgood
+p151
+I2
+sVim
+p152
+I1
+sVthug
+p153
+I1
+sVseen
+p154
+I1
+sVkeep
+p155
+I1
+sVcoopin
+p156
+I1
+sVcheck
+p157
+I1
+sVshit
+p158
+I1
+sVsis
+p159
+I1
+sVcuisine
+p160
+I1
+sVsynagogue
+p161
+I1
+sVway
+p162
+I1
+sVmake
+p163
+I9
+sVeatin
+p164
+I1
+sVworry
+p165
+I2
+sVroll
+p166
+I1
+sVgrown
+p167
+I2
+sVtried
+p168
+I2
+sVseparate
+p169
+I1
+sVkeys
+p170
+I1
+sVsnoopin
+p171
+I1
+sVknew
+p172
+I1
+sVpeas
+p173
+I1
+sVpaid
+p174
+I4
+sVchump
+p175
+I1
+sVfriends
+p176
+I1
+sVman
+p177
+I1
+sVwife
+p178
+I1
+sVmaybe
+p179
+I1
+sVyoure
+p180
+I5
+sVwalls
+p181
+I1
+sVwithout
+p182
+I1
+sVfact
+p183
+I1
+sVtime
+p184
+I9
+sVpush
+p185
+I1
+sVinternational
+p186
+I1
+sVoverseas
+p187
+I1
+sVeverythin
+p188
+I4
+sVwind
+p189
+I1
+sVknow
+p190
+I1
+s.

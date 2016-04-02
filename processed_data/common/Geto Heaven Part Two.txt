@@ -1,86 +1,725 @@
-"geto heaven part two" lyrics
-common lyrics
-"geto heaven part two"
-(feat. d'angelo)
-god bless...
-hmmmmm..., doo doooo, doo doooo, yeah..., yeah..., oooh
-know i love my baby, my baby loves me
-layin in some heaven, need a little company
-let's go into a heaven, time to get some geto heaven
-geto...
-searchin for a love, throughout the ghetto
-young girls is thick, righteousness is narrow
-i got my third, eye on the sparrow
-want my peoples straight and rock sweet apparrel
-the mother of my child, we not together
-baby it's your back, i got forever
-as the weather, talks to us
-him rockin the holy spirit walks through us
-the blunted eyes of the youth search for a guide
-a thug is a lost man in disguise
-the rise and fall, of a nation, even when the buildings tumble
-i still stand tall, i walk through the valley, wit a life preserver
-feelin at times, that i might just murder
-yo but that aint what i was sent for
-i want folks to say his life it meant more
-than any car, any rock, or any broad
-he found geto heaven in himself and god
-geto heaven...
-standin in some geto heaven
-geto heaven...
-standin in some geto heaven
-geto...
-love, your happiness don't begin wit a man
-strong woman, why should you depend on a man
-i understand you want a man that's resourceful
-if he pay your bills, he feel like he bought you
-talkin to a friend, about what love is
-her man didn't love her, cuz he didn't love his
-hugged her from afar, said what i felt
-you never find a man, till you find yourself
-time helps mistakes, you can learn from
-cuz one man fucked up men you shouldn't turn from
-you want a certain type of guy, gotta reach a certain point too
-at the destination, a king will annoint you
-goin through the storm, many bodies stay warm
-that relationship died, for you to be born, you worth more
-than anything you could cop in a store
-for you to grow he had to go so what you stoppin him for
-not even i could ignore bein alone it's hard
-find heaven in yourself and god
-i know i love my baby
-my baby loves me
-i'm layin in some heaven, need a little company, yeah
-it's twenty four seven, time to get some geto heaven
-time to get some geto heaven
-geto heaven, geto heaven
-it's time to get some geto heaven
-time to get some geto heaven, ohhhhhh...
-this music is so much bigger than me
-as far as happy, yo it's like a trigger to me
-dealin with crab rappers, and groupie broads
-record execs, at times it do be hard
-but to choose words, and be heard across waters
-doin something you like to support daughters
-keepin your guys who collectin court orders
-conveyin messages that the ancestors brought us
-thought of things to say to become the end thing for the day
-somehow, that didn't seem the way for me to make it
-music is a gift that is sacred
-i hope you didn't use it hopin you could grow to it
-whether servin or a surgeon, you gon go through it
-can't imagine goin through it, without soul music
-it's like donnie ?half? helped me see lonnie's ?fath?
-on my behalf, let's take whole steps to a ?ho tep?
-and show depth, as we make people nod
-find heaven in this music and god
-find heaven in this music and god
-find heaven in this music and god
-geto heaven
-geto heaven
-geto heaven, yeah, yeah
-geto heaven, my baby
-geto heaven, my baby
-geto heaven, my baby
-geto heaven, my baby
-geto heaven, my baby...
+(dp1
+Vthings
+p2
+I1
+sVstandin
+p3
+I2
+sVlyrics
+p4
+I2
+sVsparrow
+p5
+I1
+sVhalf
+p6
+I1
+sVpeople
+p7
+I1
+sVchoose
+p8
+I1
+sVfour
+p9
+I1
+sVdisguise
+p10
+I1
+sVhugged
+p11
+I1
+sVmistakes
+p12
+I1
+sVgo
+p13
+I3
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVfind
+p16
+I6
+sVhappiness
+p17
+I1
+sVaint
+p18
+I1
+sVapparrel
+p19
+I1
+sVpreserver
+p20
+I1
+sVdepend
+p21
+I1
+sVcollectin
+p22
+I1
+sVtrigger
+p23
+I1
+sVhope
+p24
+I1
+sVyoung
+p25
+I1
+sVlets
+p26
+I2
+sVhelps
+p27
+I1
+sVfolks
+p28
+I1
+sVmight
+p29
+I1
+sVworth
+p30
+I1
+sVsent
+p31
+I1
+sVmen
+p32
+I1
+sVmeant
+p33
+I1
+sVrighteousness
+p34
+I1
+sVwoman
+p35
+I1
+sVyo
+p36
+I2
+sVget
+p37
+I5
+sVfar
+p38
+I1
+sVhopin
+p39
+I1
+sVbein
+p40
+I1
+sVrise
+p41
+I1
+sVfeelin
+p42
+I1
+sVheard
+p43
+I1
+sVknow
+p44
+I2
+sVwords
+p45
+I1
+sVfall
+p46
+I1
+sVsurgeon
+p47
+I1
+sVyourself
+p48
+I1
+sVday
+p49
+I1
+sVbigger
+p50
+I1
+sVghetto
+p51
+I1
+sVannoint
+p52
+I1
+sVheaven
+p53
+I29
+sVlike
+p54
+I4
+sVlost
+p55
+I1
+sVservin
+p56
+I1
+sVbless
+p57
+I1
+sVwhether
+p58
+I1
+sVwit
+p59
+I2
+sVsteps
+p60
+I1
+sVcommon
+p61
+I1
+sVrock
+p62
+I2
+sVfound
+p63
+I1
+sVguy
+p64
+I1
+sVbills
+p65
+I1
+sVstraight
+p66
+I1
+sVexecs
+p67
+I1
+sVwaters
+p68
+I1
+sVtumble
+p69
+I1
+sVbegin
+p70
+I1
+sVyeah
+p71
+I5
+sVsoul
+p72
+I1
+sVtalks
+p73
+I1
+sVsee
+p74
+I1
+sVtep
+p75
+I1
+sVstoppin
+p76
+I1
+sVthing
+p77
+I1
+sVeven
+p78
+I2
+sVignore
+p79
+I1
+sVsaid
+p80
+I1
+sVfor
+p81
+I2
+sVrecord
+p82
+I1
+sVgod
+p83
+I6
+sVresourceful
+p84
+I1
+sVit
+p85
+I3
+sVgot
+p86
+I3
+sVgroupie
+p87
+I1
+sVacross
+p88
+I1
+sVbought
+p89
+I1
+sVsomehow
+p90
+I1
+sVfath
+p91
+I1
+sVfelt
+p92
+I1
+sVblunted
+p93
+I1
+sVoooh
+p94
+I1
+sVuse
+p95
+I1
+sVohhhhhh
+p96
+I1
+sVbecome
+p97
+I1
+sValone
+p98
+I1
+sVfrom
+p99
+I2
+sVstrong
+p100
+I1
+sVcop
+p101
+I1
+sVsearch
+p102
+I1
+sVstore
+p103
+I1
+sVhard
+p104
+I2
+sVanything
+p105
+I1
+sVsearchin
+p106
+I1
+sVcould
+p107
+I3
+sVmessages
+p108
+I1
+sVtimes
+p109
+I2
+sVturn
+p110
+I1
+sVstand
+p111
+I1
+sVnarrow
+p112
+I1
+sVafar
+p113
+I1
+sVthats
+p114
+I1
+sVlove
+p115
+I7
+sVdont
+p116
+I1
+sVpoint
+p117
+I1
+sVfeel
+p118
+I1
+sVsweet
+p119
+I1
+sVimagine
+p120
+I1
+sVway
+p121
+I1
+sVwalk
+p122
+I1
+sVbrought
+p123
+I1
+sVweather
+p124
+I1
+sVthick
+p125
+I1
+sVthroughout
+p126
+I1
+sVhmmmmm
+p127
+I1
+sVlittle
+p128
+I2
+sVeye
+p129
+I1
+sVgoin
+p130
+I2
+sVtwenty
+p131
+I1
+sVsupport
+p132
+I1
+sVdestination
+p133
+I1
+sVgirls
+p134
+I1
+sVtwo
+p135
+I2
+sVmuch
+p136
+I1
+sVmusic
+p137
+I6
+sVtoo
+p138
+I1
+sVstorm
+p139
+I1
+sVrockin
+p140
+I1
+sVvalley
+p141
+I1
+sVtype
+p142
+I1
+sVdoooo
+p143
+I2
+sVfriend
+p144
+I1
+sVmore
+p145
+I2
+sVeyes
+p146
+I1
+sVmurder
+p147
+I1
+sVcrab
+p148
+I1
+sVholy
+p149
+I1
+sVcompany
+p150
+I2
+sVback
+p151
+I1
+sVpart
+p152
+I2
+sVunderstand
+p153
+I1
+sVho
+p154
+I1
+sVchild
+p155
+I1
+sVbaby
+p156
+I10
+sVlonnies
+p157
+I1
+sVspirit
+p158
+I1
+sVbehalf
+p159
+I1
+sVme
+p160
+I4
+sVking
+p161
+I1
+sVdealin
+p162
+I1
+sVborn
+p163
+I1
+sVkeepin
+p164
+I1
+sVcar
+p165
+I1
+sVlayin
+p166
+I2
+sVshow
+p167
+I1
+sVcant
+p168
+I1
+sVus
+p169
+I3
+sVyouth
+p170
+I1
+sVbroads
+p171
+I1
+sVdangelo
+p172
+I1
+sVloves
+p173
+I2
+sVlearn
+p174
+I1
+sVta
+p175
+I1
+sVdidnt
+p176
+I4
+sVguide
+p177
+I1
+sVseven
+p178
+I1
+sVcertain
+p179
+I2
+sVis
+p180
+I1
+sVdonnie
+p181
+I1
+sVone
+p182
+I1
+sVlife
+p183
+I2
+sVhelped
+p184
+I1
+sVthug
+p185
+I1
+sVsay
+p186
+I2
+sVhis
+p187
+I1
+sVim
+p188
+I1
+sVsomething
+p189
+I1
+sVwant
+p190
+I4
+sVwalks
+p191
+I1
+sVneed
+p192
+I2
+sVseem
+p193
+I1
+sVorders
+p194
+I1
+sVhappy
+p195
+I1
+sVancestors
+p196
+I1
+sVcourt
+p197
+I1
+sVrelationship
+p198
+I1
+sVgeto
+p199
+I24
+sVpay
+p200
+I1
+sVmake
+p201
+I2
+sVconveyin
+p202
+I1
+sVtill
+p203
+I1
+sVwithout
+p204
+I1
+sVtake
+p205
+I1
+sVsacred
+p206
+I1
+sVpeoples
+p207
+I1
+sVgift
+p208
+I1
+sVyou
+p209
+I2
+sVmany
+p210
+I1
+sVtalkin
+p211
+I1
+sVdaughters
+p212
+I1
+sVbuildings
+p213
+I1
+sVshouldnt
+p214
+I1
+sVnod
+p215
+I1
+sVbroad
+p216
+I1
+sVrappers
+p217
+I1
+sVtime
+p218
+I6
+sVreach
+p219
+I1
+sVstay
+p220
+I1
+sVdoin
+p221
+I1
+sVgon
+p222
+I1
+sVnever
+p223
+I1
+sVfucked
+p224
+I1
+sVend
+p225
+I1
+sVnation
+p226
+I1
+sVguys
+p227
+I1
+sVgrow
+p228
+I2
+sVdied
+p229
+I1
+sVman
+p230
+I7
+sVforever
+p231
+I1
+sVdoo
+p232
+I2
+sVthird
+p233
+I1
+sVwhole
+p234
+I1
+sVtogether
+p235
+I1
+sVthought
+p236
+I1
+sVdepth
+p237
+I1
+sVwarm
+p238
+I1
+sVmother
+p239
+I1
+sVtall
+p240
+I1
+sVcuz
+p241
+I2
+sVbodies
+p242
+I1
+s.

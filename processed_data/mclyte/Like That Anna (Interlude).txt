@@ -1,21 +1,205 @@
-"like that anna (interlude)" lyrics
-mc lyte lyrics
-"like that anna (interlude)"
-ain't no other, this is me and this is it
-don't got to get the crowbar to get you up off of my shit
-i don't know why though, they try to compare me
-did not you know that you can't get near me
-so don't fuck up when identifying the voice
-you know from a to z, i'm a first choice
-the y to the t, surrounded by the l and the e
-put it together and you got lyte the mc
-deep, deep, deeper than the vein
-of the membrane, squish it, put your ass to sleep
-i got octaves, not to sing but to rap so
-give me dap, perhaps admit, that i'm all that
-the shit that i write huh, surely chart climbers
-don't try to run, because your mom'll come and find ya
-getcha, gotcha, getcha gotcha getcha gotcha
-break ya break ya punk and fuck that ass in two's
-it's like that anna, it's like that anna
-i'm not the funny fat one they call roseanne-ah
+(dp1
+Vcompare
+p2
+I1
+sVsurrounded
+p3
+I1
+sVoctaves
+p4
+I1
+sVdont
+p5
+I4
+sVlyrics
+p6
+I2
+sVgive
+p7
+I1
+sVit
+p8
+I1
+sVdeep
+p9
+I2
+sVone
+p10
+I1
+sVcant
+p11
+I1
+sVim
+p12
+I3
+sVclimbers
+p13
+I1
+sVrap
+p14
+I1
+sVfind
+p15
+I1
+sVshit
+p16
+I2
+sVaint
+p17
+I1
+sVfunny
+p18
+I1
+sVroseanneah
+p19
+I1
+sVcall
+p20
+I1
+sVlyte
+p21
+I2
+sVthough
+p22
+I1
+sVadmit
+p23
+I1
+sVinterlude
+p24
+I2
+sVwrite
+p25
+I1
+sVgetcha
+p26
+I3
+sVthat
+p27
+I1
+sVsurely
+p28
+I1
+sVmembrane
+p29
+I1
+sVgot
+p30
+I3
+sVanna
+p31
+I4
+sVfirst
+p32
+I1
+sVass
+p33
+I2
+sVrun
+p34
+I1
+sVdeeper
+p35
+I1
+sVget
+p36
+I3
+sVya
+p37
+I3
+sVgotcha
+p38
+I3
+sVhuh
+p39
+I1
+sVchart
+p40
+I1
+sVfat
+p41
+I1
+sVfuck
+p42
+I2
+sVmomll
+p43
+I1
+sVdap
+p44
+I1
+sVknow
+p45
+I3
+sVput
+p46
+I2
+sVsing
+p47
+I1
+sVchoice
+p48
+I1
+sVcome
+p49
+I1
+sVvein
+p50
+I1
+sVsquish
+p51
+I1
+sVme
+p52
+I2
+sVbreak
+p53
+I2
+sVz
+I1
+sVe
+I1
+sVlike
+p54
+I4
+sVmc
+p55
+I2
+sVidentifying
+p56
+I1
+sVpunk
+p57
+I1
+sVl
+I1
+sVtogether
+p58
+I1
+sVtry
+p59
+I2
+sVperhaps
+p60
+I1
+sVnear
+p61
+I1
+sVso
+p62
+I1
+sVy
+I1
+sVsleep
+p63
+I1
+sVvoice
+p64
+I1
+sVtwos
+p65
+I1
+sVcrowbar
+p66
+I1
+s.

@@ -1,92 +1,771 @@
-"straight outta compton" lyrics
-n.w.a. lyrics
-"straight outta compton"
-you are now about to witness the strength of street knowledge
-straight outta compton, crazy motherfucker named ice cube
-from the gang called niggaz with attitudes
-when i'm called off, i got a sawed off
-squeeze the trigger, and bodies are hauled off
-you too, boy, if ya fuck with me
-the police are gonna hafta come and get me
-off yo ass, that's how i'm goin out
-for the punk motherfuckers that's showin out
-niggaz start to mumble, they wanna rumble
-mix em and cook em in a pot like gumbo
-goin off on a motherfucker like that
-with a gat that's pointed at yo ass
-so give it up smooth
-ain't no tellin when i'm down for a jack move
-here's a murder rap to keep yo dancin
-with a crime record like charles manson
-ak-47 is the tool
-don't make me act the motherfuckin fool
-me you can go toe to toe, no maybe
-i'm knockin niggaz out tha box, daily
-yo weekly, monthly and yearly
-until them dumb motherfuckers see clearly
-that i'm down with the capital c-p-t
-boy you can't fuck with me
-so when i'm in your neighborhood, you better duck
-coz ice cube is crazy as fuck
-as i leave, believe i'm stompin
-but when i come back, boy, i'm comin straight outta compton
-(city of compton, city of compton)
-yo ren
-whassup?
-tell em where you from!
-straight outta compton, another crazy ass nigga
-more punks i smoke, yo, my rep gets bigger
-i'm a bad motherfucker and you know this
-but the pussy ass niggaz don't show this
-but i don't give a fuck, i'ma make my snaps
-if not from the records, from jackin the crops
-just like burglary, the definition is 'jackin'
-and when illegally armed it's called 'packin'
-shoot a motherfucker in a minute
-i find a good piece o' pussy, i go up in it
-so if you're at a show in the front row
-i'm a call you a bitch or dirty-ass ho
-you'll probably get mad like a bitch is supposed to
-but that shows me, slut, you're composed to
-a crazy muthafucker from tha street
-attitude legit cause i'm tearin up shit
-mc ren controls the automatic
-for any dumb muthafucker that starts static
-not the right hand cause i'm the hand itself
-every time i pull a ak off the shelf
-the security is maximum and that's a law
-r-e-n spells ren but i'm raw
-see, coz i'm the motherfuckin villain
-the definition is clear, you're the witness of a killin
-that's takin place without a clue
-and once you're on the scope, your ass is through
-look, you might take it as a trip
-but a nigga like ren is on a gangsta tip
-straight outta compton...
-(city of compton, city of compton)
-eazy is his name and the boy is comin...
-...straight outta compton
-is a brotha that'll smother yo' mother
-and make ya sister think i love her
-dangerous motherfucker raises hell
-and if i ever get caught i make bail
-see, i don't give a fuck, that's the problem
-i see a motherfuckin cop i don't dodge him
-but i'm smart, lay low, creep a while
-and when i see a punk pass, i smile
-to me it's kinda funny, the attitude showin a nigga drivin
-but don't know where the fuck he's going, just rollin
-lookin for the one they call eazy
-but here's a flash, they never seize me
-ruthless! never seen like a shadow in the dark
-except when i unload, see i'll get over the hesitation
-and hear the scream of the one who got the last penetration
-give a little gust of wind and i'm jettin
-but leave a memory no one'll be forgettin
-so what about the bitch who got shot?  fuck her!
-you think i give a damn about a bitch?  i ain't a sucker!
-this is the autobiography of the e, and if you ever fuck with me
-you'll get taken by a stupid dope brotha who will smother
-word to the motherfucker, straight outta compton
-(city of compton, city of compton)
-(damn that shit was dope!)
+(dp1
+Vcomposed
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I2
+sVpointed
+p6
+I1
+sVmove
+p7
+I1
+sVburglary
+p8
+I1
+sVattitude
+p9
+I2
+sVever
+p10
+I2
+sVthrough
+p11
+I1
+sVnwa
+p12
+I1
+sVhauled
+p13
+I1
+sVgo
+p14
+I2
+sVhell
+p15
+I1
+sVlay
+p16
+I1
+sVtakin
+p17
+I1
+sVfind
+p18
+I1
+sVweekly
+p19
+I1
+sVaint
+p20
+I2
+sVbelieve
+p21
+I1
+sVpolice
+p22
+I1
+sVknowledge
+p23
+I1
+sVfront
+p24
+I1
+sVdancin
+p25
+I1
+sVexcept
+p26
+I1
+sVcontrols
+p27
+I1
+sVcrime
+p28
+I1
+sVbetter
+p29
+I1
+sVto
+p30
+I2
+sVgoing
+p31
+I1
+sVminute
+p32
+I1
+sVren
+p33
+I5
+sVgangsta
+p34
+I1
+sVmight
+p35
+I1
+sVbrotha
+p36
+I2
+sVsmart
+p37
+I1
+sVtake
+p38
+I1
+sVfool
+p39
+I1
+sVshoot
+p40
+I1
+sVcharles
+p41
+I1
+sVyo
+p42
+I7
+sVget
+p43
+I5
+sVya
+p44
+I2
+sVsucker
+p45
+I1
+sVdope
+p46
+I2
+sVdark
+p47
+I1
+sVrecords
+p48
+I1
+sVevery
+p49
+I1
+sVjack
+p50
+I1
+sVprobably
+p51
+I1
+sVcook
+p52
+I1
+sVshadow
+p53
+I1
+sVhim
+p54
+I1
+sVbigger
+p55
+I1
+sVname
+p56
+I1
+sVpackin
+p57
+I1
+sVlike
+p58
+I7
+sVknockin
+p59
+I1
+sVcrops
+p60
+I1
+sVcause
+p61
+I2
+sVillegally
+p62
+I1
+sVbail
+p63
+I1
+sVleave
+p64
+I2
+sVbad
+p65
+I1
+sVstupid
+p66
+I1
+sVgust
+p67
+I1
+sVsecurity
+p68
+I1
+sVautomatic
+p69
+I1
+sVgang
+p70
+I1
+sVem
+p71
+I3
+sVnigga
+p72
+I3
+sVneighborhood
+p73
+I1
+sVeazy
+p74
+I2
+sVsawed
+p75
+I1
+sVcomin
+p76
+I2
+sVback
+p77
+I1
+sVsee
+p78
+I6
+sVstreet
+p79
+I2
+sVdumb
+p80
+I2
+sVniggaz
+p81
+I4
+sVpass
+p82
+I1
+sVwitness
+p83
+I2
+sVout
+p84
+I2
+sVgon
+p85
+I1
+sVhesitation
+p86
+I1
+sVmanson
+p87
+I1
+sVheres
+p88
+I2
+sVarmed
+p89
+I1
+sVrep
+p90
+I1
+sVice
+p91
+I2
+sVonell
+p92
+I1
+sVattitudes
+p93
+I1
+sVcapital
+p94
+I1
+sVwhassup
+p95
+I1
+sVgot
+p96
+I3
+sVrow
+p97
+I1
+sVyoull
+p98
+I2
+sVforgettin
+p99
+I1
+sVcreep
+p100
+I1
+sVshows
+p101
+I1
+sVass
+p102
+I5
+sVima
+p103
+I1
+sVdrivin
+p104
+I1
+sVraises
+p105
+I1
+sVcity
+p106
+I6
+sVnever
+p107
+I2
+sVmotherfucker
+p108
+I6
+sVpunks
+p109
+I1
+sVslut
+p110
+I1
+sVcome
+p111
+I2
+sVlegit
+p112
+I1
+sVbox
+p113
+I1
+sVboy
+p114
+I4
+sVsister
+p115
+I1
+sVlast
+p116
+I1
+sVvillain
+p117
+I1
+sVjackin
+p118
+I2
+sVstarts
+p119
+I1
+sVill
+p120
+I1
+sVcompton
+p121
+I14
+sVpunk
+p122
+I2
+sVo
+I1
+sVkeep
+p123
+I1
+sVplace
+p124
+I1
+sVsmoke
+p125
+I1
+sVact
+p126
+I1
+sVdefinition
+p127
+I2
+sVmotherfuckers
+p128
+I2
+sVthats
+p129
+I6
+sVyearly
+p130
+I1
+sVlookin
+p131
+I1
+sVnamed
+p132
+I1
+sVflash
+p133
+I1
+sVlove
+p134
+I1
+sVdont
+p135
+I6
+sVpussy
+p136
+I2
+sVpot
+p137
+I1
+sVgood
+p138
+I1
+sVsmother
+p139
+I2
+sVone
+p140
+I2
+sVright
+p141
+I1
+sVbitch
+p142
+I4
+sVanother
+p143
+I1
+sVduck
+p144
+I1
+sVmumble
+p145
+I1
+sVthatll
+p146
+I1
+sVwan
+p147
+I1
+sVlittle
+p148
+I1
+sVkillin
+p149
+I1
+sVfrom
+p150
+I1
+sVstompin
+p151
+I1
+sVher
+p152
+I2
+sVhes
+p153
+I1
+sVmonthly
+p154
+I1
+sVcaught
+p155
+I1
+sVstart
+p156
+I1
+sVtrigger
+p157
+I1
+sVcall
+p158
+I2
+sVlow
+p159
+I1
+sVak47
+p160
+I1
+sVtaken
+p161
+I1
+sVscope
+p162
+I1
+sVtell
+p163
+I1
+sVtoe
+p164
+I2
+sVmurder
+p165
+I1
+sVthat
+p166
+I1
+sVshelf
+p167
+I1
+sVtool
+p168
+I1
+sVgat
+p169
+I1
+sVit
+p170
+I1
+sVhear
+p171
+I1
+sVho
+p172
+I1
+sVsmile
+p173
+I1
+sVe
+I1
+sVsqueeze
+p174
+I1
+sVme
+p175
+I5
+sVpull
+p176
+I1
+sVword
+p177
+I1
+sVlook
+p178
+I1
+sVmc
+p179
+I1
+sVthis
+p180
+I2
+sVdangerous
+p181
+I1
+sVstraight
+p182
+I8
+sVunload
+p183
+I1
+sVsmooth
+p184
+I1
+sVmaximum
+p185
+I1
+sVtellin
+p186
+I1
+sVmuthafucker
+p187
+I2
+sVrecord
+p188
+I1
+sVwhile
+p189
+I1
+sVsupposed
+p190
+I1
+sVstatic
+p191
+I1
+sVproblem
+p192
+I1
+sVpiece
+p193
+I1
+sVcalled
+p194
+I3
+sVdodge
+p195
+I1
+sVcrazy
+p196
+I4
+sVcoz
+p197
+I2
+sVoutta
+p198
+I8
+sVgumbo
+p199
+I1
+sVgive
+p200
+I5
+sVshowin
+p201
+I2
+sVak
+p202
+I1
+sVcop
+p203
+I1
+sVfuck
+p204
+I8
+sVraw
+p205
+I1
+sVcant
+p206
+I1
+sVcube
+p207
+I2
+sVim
+p208
+I16
+sVrollin
+p209
+I1
+sVrap
+p210
+I1
+sVspells
+p211
+I1
+sVseen
+p212
+I1
+sVdirtyass
+p213
+I1
+sVclearly
+p214
+I1
+sVshit
+p215
+I2
+sVfunny
+p216
+I1
+sVstrength
+p217
+I1
+sVtrip
+p218
+I1
+sVna
+p219
+I2
+sVmake
+p220
+I4
+sVtip
+p221
+I1
+sVautobiography
+p222
+I1
+sVtearin
+p223
+I1
+sVmix
+p224
+I1
+sVmotherfuckin
+p225
+I3
+sVgets
+p226
+I1
+sVhafta
+p227
+I1
+sVjettin
+p228
+I1
+sVmemory
+p229
+I1
+sVsnaps
+p230
+I1
+sVclue
+p231
+I1
+sVdamn
+p232
+I2
+sVmother
+p233
+I1
+sVhand
+p234
+I2
+sVrumble
+p235
+I1
+sVmad
+p236
+I1
+sVkinda
+p237
+I1
+sVwind
+p238
+I1
+sVlaw
+p239
+I1
+sVgoin
+p240
+I2
+sVoff
+p241
+I2
+sVseize
+p242
+I1
+sVmaybe
+p243
+I1
+sVclear
+p244
+I1
+sVyoure
+p245
+I4
+sVdaily
+p246
+I1
+sVthink
+p247
+I2
+sVruthless
+p248
+I1
+sVwithout
+p249
+I1
+sVbodies
+p250
+I1
+sVtime
+p251
+I1
+sVpenetration
+p252
+I1
+sVcpt
+p253
+I1
+sVscream
+p254
+I1
+sVtha
+p255
+I2
+sVknow
+p256
+I2
+s.

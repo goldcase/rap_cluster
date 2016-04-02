@@ -1,85 +1,698 @@
-"pour out a little liquor" lyrics
-2pac lyrics
-"pour out a little liquor"
-yeah
-pour out a little liquor for your homies nigga
-this one here go out to my nigga mike coolie
-(light up a fat one for this one)
-how you come up man?
-i started young kickin dust and, livin rough
-you watch you mouth around my mama you couldn't cuss man
-i had a down ass homie though; we ran the streets
-and on the scene at the age of fourteen, huh
-i packed a nine and my nigga packed a forty-five
-we drinkin forties, lil' shorties livin naughty lives
-you couldn't stop us, long as i got my glock, fuck the coppers
-hangin on the block, slangin rocks and makin profits
-i couldn't fuck with the schhhoooollll life, i was a fool
-i'll play that motherfucker for a toooollll man
-tonight'll be the night that's what we figurin
-hustlin in the rain felt no pain cause we drinkin
-playin them hoes like manure
-first let my nigga fuck and then i fuck that's how we do it (ha ha!)
-it's two niggaz comin up out the hood
-livin life just as good as we could
-but since a bitch can't be trusted
-hoes snitched to the po-lice, now my nigga's busted
-the cops whoopin on my nigga in jail
-tryin to get a motherfucker to tell
-and couldn't nobody diss my nigga
-damn, i miss my nigga
-pour out a little liquor!
-"my cousin died last year and i still can't let go"
-this goes out to all you so called g's
-pour out a little liquor for your real motherfuckin partners
-don't let the drink get like that y'all, huh
-pour out a little liquor
-pour out a little liquor
-what's that you drinkin on?
-drinkin on gin, smokin on blunts and it's on
-reminisce about my niggaz, that's dead and gone
-and now they buried, sometimes my eyes still get blurry
-cause i'm losin all my homies and i worry
-i got my back against a brick wall, trapped in a circle
-boxin with them suckers til my knuckles turn purple
-mama told me, "son there'll be days like this"
-don't wanna think so -- i hit the drink and stay blitzed
-we had plans of bein big time g's
-rolling in marked cars, movin them keys
-and now i roll up the window, blaze up some indo
-get to' down for my niggaz in the pen, yo
-your son's gettin big and strong
-and i'd love'm like one of my own, til you come home and
-the years sure fly with the quickness
-you do the time, and i'll keep handlin yo' business
-that's the way it's supposed to be
-homie, if it was me, you'd do the shit for me
-homie, i can remember scrapin back to back
-throwin dogs on them suckers runnin up on this young hog
-i hope my words can paint a perfect picture
-and let ya know how much a nigga miss ya
-pour out some liquor!
-"my cousin died last year and i still can't let go"
-look at you
-drinkin got you where you don't even give respect to your partners
-pour out some liquor nigga!
-it ain't like that
-tip that shit over
-pour out a little liquor!
-"my cousin died last year and i still can't let go"
-this for my nigga madman
-dagz, hood, silk yeah
-a little liquor for my homies y'all
-we in this motherfuckin piece yeah
-pour out a little liquor
-young queen, yeah
-this one goes out to all my mack partners
-back in the motherfuckin bay
-oaktown still in the motherfuckin house
-(pour out a little liquor)
-my nigga richie rich, gov'na
-(i don't care, nighttrain, henessey)
-all my real motherfuckin partners
-(pour out a little liquor)
-and all my real partnas in marin, fuck you busta ass niggaz
-yeah nigga, pour out a little liquor!!
+(dp1
+Vdiss
+p2
+I1
+sVgs
+p3
+I2
+sVlyrics
+p4
+I2
+sVnighttrain
+p5
+I1
+sVover
+p6
+I1
+sVqueen
+p7
+I1
+sVyears
+p8
+I1
+sVhandlin
+p9
+I1
+sVgo
+p10
+I4
+sVrough
+p11
+I1
+sVstill
+p12
+I5
+sVeyes
+p13
+I1
+sVdrinkin
+p14
+I5
+sVpartners
+p15
+I4
+sVsilk
+p16
+I1
+sVpolice
+p17
+I1
+sVmadman
+p18
+I1
+sVyoung
+p19
+I3
+sVreminisce
+p20
+I1
+sVwindow
+p21
+I1
+sVblaze
+p22
+I1
+sVrich
+p23
+I1
+sVhomies
+p24
+I3
+sVcircle
+p25
+I1
+sVhope
+p26
+I1
+sVmotherfuckin
+p27
+I5
+sVfool
+p28
+I1
+sVme
+p29
+I1
+sVcuss
+p30
+I1
+sVgood
+p31
+I1
+sVhit
+p32
+I1
+sVaround
+p33
+I1
+sVyo
+p34
+I2
+sVget
+p35
+I4
+sVya
+p36
+I2
+sVbig
+p37
+I2
+sVbein
+p38
+I1
+sVstop
+p39
+I1
+sVfat
+p40
+I1
+sVscene
+p41
+I1
+sVquickness
+p42
+I1
+sVforties
+p43
+I1
+sVknow
+p44
+I1
+sVwords
+p45
+I1
+sVson
+p46
+I1
+sVrichie
+p47
+I1
+sVlook
+p48
+I1
+sVlike
+p49
+I5
+sVniggas
+p50
+I1
+sVrocks
+p51
+I1
+sVlovem
+p52
+I1
+sVdagz
+p53
+I1
+sVnight
+p54
+I1
+sVperfect
+p55
+I1
+sVyall
+p56
+I2
+sVnigga
+p57
+I12
+sVsnitched
+p58
+I1
+sVhouse
+p59
+I1
+sVliquor
+p60
+I15
+sVstreets
+p61
+I1
+sVyeah
+p62
+I5
+sVdead
+p63
+I1
+sVsure
+p64
+I1
+sVpartnas
+p65
+I1
+sVus
+p66
+I1
+sVhoes
+p67
+I2
+sVplayin
+p68
+I1
+sVbusta
+p69
+I1
+sVbay
+p70
+I1
+sVpacked
+p71
+I2
+sVeven
+p72
+I1
+sVcoppers
+p73
+I1
+sVmovin
+p74
+I1
+sVpurple
+p75
+I1
+sVsince
+p76
+I1
+sVpen
+p77
+I1
+sVblunts
+p78
+I1
+sVgoes
+p79
+I2
+sVgot
+p80
+I3
+sVsuckers
+p81
+I2
+sVcause
+p82
+I2
+sVblurry
+p83
+I1
+sVtold
+p84
+I1
+sVass
+p85
+I2
+sVslangin
+p86
+I1
+sVdrink
+p87
+I2
+sVbusiness
+p88
+I1
+sVwan
+p89
+I1
+sVcars
+p90
+I1
+sVmotherfucker
+p91
+I2
+sVfourteen
+p92
+I1
+sVtoooollll
+p93
+I1
+sVlet
+p94
+I6
+sVsmokin
+p95
+I1
+sVhenessey
+p96
+I1
+sVcousin
+p97
+I3
+sVstrong
+p98
+I1
+sVcome
+p99
+I2
+sVcare
+p100
+I1
+sVon
+p101
+I1
+sVlast
+p102
+I3
+sVill
+p103
+I2
+sVdays
+p104
+I1
+sVcalled
+p105
+I1
+sVturn
+p106
+I1
+sVbusted
+p107
+I1
+sVknuckles
+p108
+I1
+sVthink
+p109
+I1
+sVblock
+p110
+I1
+sVfirst
+p111
+I1
+sVnaughty
+p112
+I1
+sVwhats
+p113
+I1
+sVdont
+p114
+I4
+sVgone
+p115
+I1
+sVwall
+p116
+I1
+sVyoud
+p117
+I1
+sVmakin
+p118
+I1
+sVmarked
+p119
+I1
+sVone
+p120
+I5
+sVrolling
+p121
+I1
+sVbitch
+p122
+I1
+sVcomin
+p123
+I1
+sVrespect
+p124
+I1
+sVcouldnt
+p125
+I4
+sVmiss
+p126
+I2
+sVhood
+p127
+I2
+sVfortyfive
+p128
+I1
+sVlittle
+p129
+I13
+sVaint
+p130
+I1
+sVtwo
+p131
+I1
+sVlong
+p132
+I1
+sVpaint
+p133
+I1
+sVmuch
+p134
+I1
+sVdamn
+p135
+I1
+sVhustlin
+p136
+I1
+sVmama
+p137
+I2
+sVgin
+p138
+I1
+sVbrick
+p139
+I1
+sVtryin
+p140
+I1
+sVtell
+p141
+I1
+sVmike
+p142
+I1
+sVglock
+p143
+I1
+sVway
+p144
+I1
+sVtrapped
+p145
+I1
+sVstarted
+p146
+I1
+sVcoolie
+p147
+I1
+sVhuh
+p148
+I2
+sVback
+p149
+I4
+sVcops
+p150
+I1
+sVgettin
+p151
+I1
+sVlives
+p152
+I1
+sVlosin
+p153
+I1
+sVoaktown
+p154
+I1
+sVha
+p155
+I2
+sV2pac
+p156
+I1
+sVfly
+p157
+I1
+sVshit
+p158
+I2
+sVshorties
+p159
+I1
+sVthis
+p160
+I1
+sVboxin
+p161
+I1
+sVniggaz
+p162
+I4
+sVdogs
+p163
+I1
+sVpour
+p164
+I14
+sVnine
+p165
+I1
+sVsupposed
+p166
+I1
+sVpiece
+p167
+I1
+sVcould
+p168
+I1
+sVand
+p169
+I1
+sVreal
+p170
+I3
+sVthrowin
+p171
+I1
+sVscrapin
+p172
+I1
+sVgive
+p173
+I1
+sVran
+p174
+I1
+sVyear
+p175
+I3
+sVfuck
+p176
+I5
+sVmanure
+p177
+I1
+sVcant
+p178
+I4
+sVhomie
+p179
+I3
+sVim
+p180
+I1
+sVburied
+p181
+I1
+sVhome
+p182
+I1
+sVblitzed
+p183
+I1
+sVkeep
+p184
+I1
+sVid
+p185
+I1
+sVtrusted
+p186
+I1
+sVlivin
+p187
+I3
+sVhog
+p188
+I1
+sVlil
+p189
+I1
+sVna
+p190
+I1
+sVwhoopin
+p191
+I1
+sVtip
+p192
+I1
+sVtil
+p193
+I2
+sVrunnin
+p194
+I1
+sVthat
+p195
+I1
+sVtonightll
+p196
+I1
+sVschhhoooollll
+p197
+I1
+sVyou
+p198
+I1
+sVhangin
+p199
+I1
+sVroll
+p200
+I1
+sVpicture
+p201
+I1
+sVplay
+p202
+I1
+sVnobody
+p203
+I1
+sVpain
+p204
+I1
+sVplans
+p205
+I1
+sVthough
+p206
+I1
+sVkeys
+p207
+I1
+sVwatch
+p208
+I1
+sVfelt
+p209
+I1
+sVfigurin
+p210
+I1
+sVrain
+p211
+I1
+sVstay
+p212
+I1
+sVmarin
+p213
+I1
+sVmouth
+p214
+I1
+sVdust
+p215
+I1
+sVtherell
+p216
+I1
+sVgovna
+p217
+I1
+sVmack
+p218
+I1
+sVdied
+p219
+I3
+sVman
+p220
+I3
+sVremember
+p221
+I1
+sVlight
+p222
+I1
+sVage
+p223
+I1
+sVsometimes
+p224
+I1
+sVlife
+p225
+I2
+sVsons
+p226
+I1
+sVjail
+p227
+I1
+sVworry
+p228
+I1
+sVtime
+p229
+I2
+sVindo
+p230
+I1
+sVthats
+p231
+I4
+sVkickin
+p232
+I1
+sVprofits
+p233
+I1
+s.

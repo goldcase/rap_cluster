@@ -1,74 +1,633 @@
-"chill" lyrics
-jay-z lyrics
-"chill"
-(feat. geda k, memphis bleek)
-uh huh
-(scratching) "chi chi chi chilly chill"
-this gangsta gangsta uh
-uh huh
-this gangsta gangsta shit
-"chi chi chilly chill"
-i'm from murder murder marcyville
-my nigga you heard we clap you we certainly will
-south philly mothrfuckers kill at will
-bet the mack milly make you niggas "chilly chill"
-murder murder marcyville
-my nigga you heard we clap you we certainly will
-south philly motherfuckers kill at will
-bet the mack milly make you niggas "chilly chill"
-check the four corners of the earth i'm a man of respect
-marcy projects motherfucker i'm demanding respect
-the niggas done fucked up and they called in the cleaners
-jayo you're not a felon you're a misdemeanor
-don't let the nina hit you and split your beam up
-fuck the punks with you we hit your team up (buck buck)
-y'all niggas hurtin'
-that publicity stunt is not workin'
-you made a bad situation worsen
-y'all wanna see me out this game like rider
-you fuckers better stop that ?we came from a game wider
-how the fuck you gone try us?
-you can't deny us
-of a dollar it's the roc bitch holla!
-beef ain't nothing to a boss nigga
-you crossed the line
-the orders go out to kick in your doors
-wavin' the 4 4
-all i heard was jigga i don't want it no more
-yo you heard a nigga fronted on bleek word?
-nigga, never fronted on bleek word
-if it's written i wrote it
-you spit it i spoke it
-so...never forget bleek totin'
-i'm from murder murder marcyville
-if y'all look in the mirror do y'all see real?
-we see through your visad
-y'all soft like q-tip cotton
-y'all dudes ain't hardly real
-the boss spit off m-po's certainly will
-if i smack this kid you'll probably squeal
-so open the hydro we firing still
-we clear out the building like a fire drill and
-money too long for y'all to fold
-you know to catch a case to me is like a common cold
-so get your guns out you ain't ready for war
-you know the r-o-c too strong for y'all
-motherfucker
-yo, i'm in a zone
-you niggas done disturbed the peace
-i try to relax
-still got word off the street
-hear you frail bastards tryin' to get your name back
-you ain't achieve shit since you got your name in rap
-we can't be misjudged you hear the flows and the lyrics and
-the fifth slugs'll tear holes in your spirit and
-it's like rap turned y'all to kill and hustle
-knowin' y'all gone snitch if i hop one touch you
-talk that gangsta slang be a gangsta slain
-these n-y-m-p gangstas bang
-how you talk real but need your click to live?
-all i need is the fifth and two clips to give
-geda keep the unsane ratchet
-for y'all who swear y'all can dodge the rain put on your rain jackets
-it's the game y'all ain't fit for drams with us
-and we pop the big guns that tear through armored trucks
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I3
+sVmoney
+p4
+I1
+sVmisdemeanor
+p5
+I1
+sVdollar
+p6
+I1
+sVfour
+p7
+I1
+sVkill
+p8
+I3
+sVfelon
+p9
+I1
+sVgo
+p10
+I1
+sVearth
+p11
+I1
+sVcold
+p12
+I1
+sVsonever
+p13
+I1
+sVfeat
+p14
+I1
+sVmarcyville
+p15
+I3
+sVaint
+p16
+I5
+sVcertainly
+p17
+I3
+sVsqueal
+p18
+I1
+sVhurtin
+p19
+I1
+sV4
+I2
+sVgangsta
+p20
+I6
+sVkick
+p21
+I1
+sVreal
+p22
+I3
+sVroc
+p23
+I2
+sVpublicity
+p24
+I1
+sVhop
+p25
+I1
+sVyo
+p26
+I2
+sVget
+p27
+I2
+sVbig
+p28
+I1
+sVstop
+p29
+I1
+sVbeam
+p30
+I1
+sVgame
+p31
+I3
+sVbastards
+p32
+I1
+sVmarcy
+p33
+I1
+sVgot
+p34
+I2
+sVstunt
+p35
+I1
+sVclips
+p36
+I1
+sVprojects
+p37
+I1
+sVname
+p38
+I2
+sVunsane
+p39
+I1
+sVlike
+p40
+I5
+sVtrucks
+p41
+I1
+sVtear
+p42
+I2
+sVcorners
+p43
+I1
+sVwrote
+p44
+I1
+sVtry
+p45
+I2
+sVnymp
+p46
+I1
+sVbad
+p47
+I1
+sVcommon
+p48
+I1
+sVteam
+p49
+I1
+sVhustle
+p50
+I1
+sVsoft
+p51
+I1
+sVyall
+p52
+I13
+sVnigga
+p53
+I5
+sVtouch
+p54
+I1
+sVfit
+p55
+I1
+sVback
+p56
+I1
+sVfold
+p57
+I1
+sVsee
+p58
+I3
+sVstreet
+p59
+I1
+sVcleaners
+p60
+I1
+sVscratching
+p61
+I1
+sVclick
+p62
+I1
+sVqtip
+p63
+I1
+sVwill
+p64
+I5
+sVstill
+p65
+I2
+sVworsen
+p66
+I1
+sVslugsll
+p67
+I1
+sVsince
+p68
+I1
+sVpop
+p69
+I1
+sVwritten
+p70
+I1
+sVbang
+p71
+I1
+sVfifth
+p72
+I2
+sVprobably
+p73
+I1
+sVyoull
+p74
+I1
+sVguns
+p75
+I2
+sVfronted
+p76
+I2
+sVratchet
+p77
+I1
+sVmisjudged
+p78
+I1
+sVwan
+p79
+I1
+sVnever
+p80
+I1
+sVmotherfucker
+p81
+I2
+sVpunks
+p82
+I1
+sVboss
+p83
+I2
+sVrain
+p84
+I2
+sVbleek
+p85
+I4
+sVlet
+p86
+I1
+sVflows
+p87
+I1
+sVput
+p88
+I1
+sVstrong
+p89
+I1
+sVbuck
+p90
+I2
+sVdrams
+p91
+I1
+sVzone
+p92
+I1
+sVknowin
+p93
+I1
+sVk
+I1
+sVfiring
+p94
+I1
+sVkeep
+p95
+I1
+sVchilly
+p96
+I4
+sVdisturbed
+p97
+I1
+sVclap
+p98
+I2
+sVmpos
+p99
+I1
+sVmotherfuckers
+p100
+I1
+sVsouth
+p101
+I2
+sVdont
+p102
+I2
+sVslain
+p103
+I1
+sVjayo
+p104
+I1
+sVmothrfuckers
+p105
+I1
+sVdudes
+p106
+I1
+sVone
+p107
+I1
+sVnothing
+p108
+I1
+sVjayz
+p109
+I1
+sVdone
+p110
+I2
+sVbitch
+p111
+I1
+sVjackets
+p112
+I1
+sVwider
+p113
+I1
+sVrespect
+p114
+I2
+sVopen
+p115
+I1
+sVarmored
+p116
+I1
+sVbetter
+p117
+I1
+sVvisad
+p118
+I1
+sVspoke
+p119
+I1
+sVbeef
+p120
+I1
+sVchi
+p121
+I5
+sVachieve
+p122
+I1
+sVfuckers
+p123
+I1
+sVtwo
+p124
+I1
+sVlong
+p125
+I1
+sVlive
+p126
+I1
+sVkid
+p127
+I1
+sVhardly
+p128
+I1
+sVwar
+p129
+I1
+sVmore
+p130
+I1
+sVbuilding
+p131
+I1
+sVmurder
+p132
+I6
+sVspit
+p133
+I2
+sVrelax
+p134
+I1
+sVfire
+p135
+I1
+sVgangstas
+p136
+I1
+sVhuh
+p137
+I2
+sVit
+p138
+I2
+sVhear
+p139
+I2
+sVcatch
+p140
+I1
+sVline
+p141
+I1
+sVmemphis
+p142
+I1
+sVspirit
+p143
+I1
+sVchill
+p144
+I6
+sVcase
+p145
+I1
+sVmade
+p146
+I1
+sVword
+p147
+I3
+sVlook
+p148
+I1
+sVniggas
+p149
+I5
+sVdodge
+p150
+I1
+sVup
+p151
+I1
+sVus
+p152
+I3
+sVnina
+p153
+I1
+sVcrossed
+p154
+I1
+sVuh
+p155
+I3
+sVdrill
+p156
+I1
+sVsituation
+p157
+I1
+sVhydro
+p158
+I1
+sVcalled
+p159
+I1
+sVbet
+p160
+I2
+sVand
+p161
+I3
+sVgone
+p162
+I2
+sVrap
+p163
+I2
+sVgive
+p164
+I1
+sVmirror
+p165
+I1
+sVturned
+p166
+I1
+sVfuck
+p167
+I2
+sVheard
+p168
+I4
+sVcant
+p169
+I2
+sVim
+p170
+I5
+sVwant
+p171
+I1
+sVready
+p172
+I1
+sVgeda
+p173
+I2
+sVphilly
+p174
+I2
+sVcheck
+p175
+I1
+sVshit
+p176
+I2
+sVcotton
+p177
+I1
+sVhit
+p178
+I2
+sVholla
+p179
+I1
+sVmilly
+p180
+I2
+sVjigga
+p181
+I1
+sVna
+p182
+I1
+sVmake
+p183
+I2
+sVpeace
+p184
+I1
+sVorders
+p185
+I1
+sVneed
+p186
+I2
+sVswear
+p187
+I1
+sVsplit
+p188
+I1
+sVdoors
+p189
+I1
+sVfrail
+p190
+I1
+sVyou
+p191
+I1
+sVrider
+p192
+I1
+sVdemanding
+p193
+I1
+sVtalk
+p194
+I2
+sVsnitch
+p195
+I1
+sVfucked
+p196
+I1
+sVmack
+p197
+I2
+sVslang
+p198
+I1
+sVman
+p199
+I1
+sVworkin
+p200
+I1
+sVtotin
+p201
+I1
+sVdeny
+p202
+I1
+sVclear
+p203
+I1
+sVyoure
+p204
+I2
+sVholes
+p205
+I1
+sVsmack
+p206
+I1
+sVwavin
+p207
+I1
+sVtryin
+p208
+I1
+sVcame
+p209
+I1
+sVknow
+p210
+I2
+s.

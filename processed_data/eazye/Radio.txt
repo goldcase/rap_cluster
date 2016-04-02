@@ -1,106 +1,810 @@
-"radio" lyrics
-eazy-e lyrics
-"radio"
-this is radio k-eazy-e. hi, this is greg mac. mac attack
-and we're gonna go to the phones right now and find out what's
-goin' on. hello, who is this ?
-yo, what's up ? this is lorenzo patterson
-yo man, where you callin' from ?
-i'm callin' from compton and i wanna hear eazy e's new record
-what's it called man ?
-yo, it's called "radio"
-we got it, you called the right station. and here it is...
-eazy e rockin' non stop on the radio
-with the funky fresh hip hop in stereo
-release some rhymes that you will find demandin'
-with dre's beats that are so outstandin'
-i'm gettin' busy if you know what i mean
-always settin' me a mark in the hip hop scene
-on the radio the greatest of all times
-like mohammed ali cause i punch rhymes
-so tune your station, and clear all the static
-and tell the truth: you didn't know that i had it
-in me, to be easy about the situation
-so just kick it and listen to the station
-playin' my music, it's hard to lose it
-it's constantly on request cause you choose it
-i'm eazy e, my rap is strong
-and your radio's def when my record's on -
-(you wanna know why...because...)
-i'm on the...
-radio  -
-yeah, ruthless radio is in effect, dr.dre and yella boy is in ya
-system. and right about now we got eazy e and mc ren in the studio takin'
-calls. so give'em a call and ask'em how they're doin'
-hello, this is eazy e. what's your name ?
-hi, this is joyce.
-i'd like to know if i can have your phone number?
-yes, it's 9-7-6...
-now i wanna turn up my box, and make much noise
-and rock the party and shock all the b-boys
-take on my radio from phono to tuner
-i wouldn't have did it, later but sooner
-now i move my antenna to the center
-then grab a hold of the handle and (??)
-then bust a rhyme, you know i won't quit it
-am i lyin', ren ? ( man, you know you're witty)
-your request is clear, that you're givin'
-without eazy e you wouldn't be livin'
-with me on a top 10, or a mix show
-so hit your power button, and let's go
-on vacation, with your station
-that's playin' live in every location
-blowin' out ya speaker
-it won't get weaker
-i'll keep rockin' till i hit the peek
-and your station is dope e-a-z-y
-it's on the air, but you axe why
-i took out the cursin', and took rehearsin'
-i feel dry, you know that i'm thirstin'
-to get busy; i don't quit it
-and once you hear my cut, i know you're gonna get it
-then bust a rhyme, while you're clappin' your hands
-it's eazy e on the air (rockin' without a band)
-you're on the radio, on k-eazy-e, with greg mac. don't forget to
-join us this friday night live, we'll be jammin' it uptown with my
-homeboys eazy e, of course, n.w.a. and the whole compton posse.
-can't make it out but, hey, stay eazy, and stay it on k-eazy-e...
-with more...radio
-now disc jockeys are playin' me in rotation
-hittin' number one spots across the nation
-i'm on the charts, you can go list'em
-but now listen, i'm on your system
-am or fm, i'm in power
-you hear my music once every hour
-so listen up to the rhyme and percussion
-but do this with no discussion
-eazy's easin' fans i'm pleasin'
-why, i'm on top yo, i got reason
-with no profanity, but what can i say
-yo dre ( what up ?) do it your way
-on the radio you get more looser
-take my word you're a dope producer
-we combine to put out hits
-but jealous people, they just have fits
-cause we get airplay, but we're not thru
-dre, am i serious ? ( cold word) well thank you !
-people that hear me, they know what i'm sayin'
-on the air, i don't be playin'
-just gettin' my point across to the public
-rhymin' on the radio, that's my subject
-i can play (rock), but i prefer (hip hop)
-it's eazy e on your radio non stop !
-yo, this is mc ren, can you comprehend ? we're for bite just
-like tnt. yo, what's the time ?
-hi, my name is tushie and i'd like to know when i get
-paid, motha...
-you got ganked...
-hello, you're on the air. what's up ?
-hello, we'd like to speak to that cuty pie dj speed
-yo, this is dj speed. what's up ?
-the joke's on you, jack ! hahaha !
-hello, you're on the air
-hey, what's up ? this is nasty naz callin' from seattle
-hey, what's happenin', homeboy ?
-i'm callin' to be on eazy e's new record, "radio"
-man, you're late. the record is already o...
+(dp1
+Vhands
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVali
+p5
+I1
+sVkeep
+p6
+I1
+sVmove
+p7
+I1
+sVcourse
+p8
+I1
+sVdisc
+p9
+I1
+sVradio
+p10
+I14
+sVnwa
+p11
+I1
+sVcursin
+p12
+I1
+sVgo
+p13
+I3
+sVyes
+p14
+I1
+sVtakin
+p15
+I1
+sVfind
+p16
+I2
+sVbusy
+p17
+I2
+sVfits
+p18
+I1
+sVradios
+p19
+I1
+sVblowin
+p20
+I1
+sVmuch
+p21
+I1
+sVshow
+p22
+I1
+sVhappenin
+p23
+I1
+sVairplay
+p24
+I1
+sVbust
+p25
+I2
+sVcomprehend
+p26
+I1
+sVlyin
+p27
+I1
+sVto
+p28
+I1
+sVlets
+p29
+I1
+sVlorenzo
+p30
+I1
+sVchoose
+p31
+I1
+sVeasy
+p32
+I1
+sVlate
+p33
+I1
+sVkick
+p34
+I1
+sVhip
+p35
+I3
+sVnon
+p36
+I2
+sVcallin
+p37
+I4
+sVhandle
+p38
+I1
+sVlivin
+p39
+I1
+sVyo
+p40
+I8
+sVget
+p41
+I6
+sVya
+p42
+I2
+sVdope
+p43
+I2
+sVstop
+p44
+I2
+sVsooner
+p45
+I1
+sVnumber
+p46
+I2
+sVrecords
+p47
+I1
+sVevery
+p48
+I2
+sVknow
+p49
+I10
+sVgot
+p50
+I4
+sVsay
+p51
+I1
+sVrotation
+p52
+I1
+sVone
+p53
+I1
+sVname
+p54
+I2
+sVwont
+p55
+I2
+sVrhymin
+p56
+I1
+sVlike
+p57
+I5
+sVill
+p58
+I1
+sValways
+p59
+I1
+sVbutton
+p60
+I1
+sVgettin
+p61
+I2
+sVmohammed
+p62
+I1
+sVtheyre
+p63
+I1
+sVjokes
+p64
+I1
+sVtruth
+p65
+I1
+sVlose
+p66
+I1
+sVrelease
+p67
+I1
+sVtuner
+p68
+I1
+sVgrab
+p69
+I1
+sVmean
+p70
+I1
+sVright
+p71
+I3
+sVjust
+p72
+I1
+sVhour
+p73
+I1
+sVbboys
+p74
+I1
+sVpeople
+p75
+I2
+sVphones
+p76
+I1
+sVhard
+p77
+I1
+sVyeah
+p78
+I1
+sVstatic
+p79
+I1
+sVthirstin
+p80
+I1
+sVplayin
+p81
+I4
+sVfriday
+p82
+I1
+sVcold
+p83
+I1
+sVes
+p84
+I2
+sVsubject
+p85
+I1
+sVganked
+p86
+I1
+sVgon
+p87
+I2
+sVruthless
+p88
+I1
+sVspeed
+p89
+I2
+sVposse
+p90
+I1
+sVeazys
+p91
+I1
+sVcuty
+p92
+I1
+sVwitty
+p93
+I1
+sVpublic
+p94
+I1
+sVfans
+p95
+I1
+sVren
+p96
+I3
+sVnew
+p97
+I2
+sVhold
+p98
+I1
+sVeazye
+p99
+I1
+sVcause
+p100
+I3
+sVacross
+p101
+I2
+sVwhybecause
+p102
+I1
+sVpeek
+p103
+I1
+sVoutstandin
+p104
+I1
+sVnoise
+p105
+I1
+sVhittin
+p106
+I1
+sVpower
+p107
+I2
+sV976
+p108
+I1
+sVword
+p109
+I2
+sVdres
+p110
+I1
+sVrock
+p111
+I2
+sVpunch
+p112
+I1
+sVdrdre
+p113
+I1
+sVreason
+p114
+I1
+sVcut
+p115
+I1
+sVstudio
+p116
+I1
+sVput
+p117
+I1
+sVproducer
+p118
+I1
+sVstrong
+p119
+I1
+sVrehearsin
+p120
+I1
+sVbox
+p121
+I1
+sVboy
+p122
+I1
+sVhits
+p123
+I1
+sVhahaha
+p124
+I1
+sVwouldnt
+p125
+I2
+sVmy
+p126
+I1
+sVgivin
+p127
+I1
+sVcompton
+p128
+I2
+sVlocation
+p129
+I1
+sVo
+I1
+sVtimes
+p130
+I1
+sVturn
+p131
+I1
+sVfunky
+p132
+I1
+sVaskem
+p133
+I1
+sVwhole
+p134
+I1
+sVsayin
+p135
+I1
+sVthats
+p136
+I2
+sVlive
+p137
+I2
+sValready
+p138
+I1
+sVwhats
+p139
+I9
+sVdont
+p140
+I3
+sVpoint
+p141
+I1
+sVfeel
+p142
+I1
+sVprefer
+p143
+I1
+sVscene
+p144
+I1
+sVvacation
+p145
+I1
+sVtill
+p146
+I1
+sVweaker
+p147
+I1
+sVshock
+p148
+I1
+sVjoyce
+p149
+I1
+sVuptown
+p150
+I1
+sVpleasin
+p151
+I1
+sVhey
+p152
+I3
+sVyella
+p153
+I1
+sVspeak
+p154
+I1
+sVdj
+p155
+I2
+sVwan
+p156
+I3
+sVjockeys
+p157
+I1
+sVtop
+p158
+I2
+sVconstantly
+p159
+I1
+sVsystem
+p160
+I2
+sVspots
+p161
+I1
+sVmark
+p162
+I1
+sVclappin
+p163
+I1
+sVpercussion
+p164
+I1
+sVattack
+p165
+I1
+sVstation
+p166
+I5
+sVmusic
+p167
+I2
+sVcharts
+p168
+I1
+sVway
+p169
+I1
+sVsettin
+p170
+I1
+sVrockin
+p171
+I3
+sVcall
+p172
+I1
+sVman
+p173
+I4
+sVlistem
+p174
+I1
+sVtell
+p175
+I1
+sVlisten
+p176
+I3
+sVhomeboys
+p177
+I1
+sVdry
+p178
+I1
+sVdiscussion
+p179
+I1
+sVtushie
+p180
+I1
+sVbite
+p181
+I1
+sVtook
+p182
+I2
+sVwed
+p183
+I1
+sVit
+p184
+I5
+sVphone
+p185
+I1
+sVhi
+p186
+I3
+sVhear
+p187
+I4
+sVphono
+p188
+I1
+sV10
+p189
+I1
+sVthru
+p190
+I1
+sVjoin
+p191
+I1
+sVmc
+p192
+I2
+sVcant
+p193
+I1
+sVrhymes
+p194
+I2
+sVair
+p195
+I5
+sVrecord
+p196
+I3
+sVgreg
+p197
+I2
+sVprofanity
+p198
+I1
+sVsituation
+p199
+I1
+sVfm
+p200
+I1
+sVdidnt
+p201
+I1
+sVcalled
+p202
+I3
+sVdef
+p203
+I1
+sVeasin
+p204
+I1
+sVyoure
+p205
+I9
+sVpie
+p206
+I1
+sVwell
+p207
+I2
+sVis
+p208
+I1
+sVeazy
+p209
+I12
+sVcombine
+p210
+I1
+sVbeats
+p211
+I1
+sVtnt
+p212
+I1
+sVim
+p213
+I12
+sVdre
+p214
+I2
+sVrap
+p215
+I1
+sVhit
+p216
+I2
+sVgiveem
+p217
+I1
+sVid
+p218
+I2
+sVlooser
+p219
+I1
+sVseattle
+p220
+I1
+sVus
+p221
+I1
+sVantenna
+p222
+I1
+sVna
+p223
+I5
+sVmake
+p224
+I2
+sVjammin
+p225
+I1
+sVhomeboy
+p226
+I1
+sVmix
+p227
+I1
+sVspeaker
+p228
+I1
+sVtake
+p229
+I2
+sVhop
+p230
+I3
+sVnaz
+p231
+I1
+sVparty
+p232
+I1
+sVmotha
+p233
+I1
+sVplay
+p234
+I1
+sVmoreradio
+p235
+I1
+sVpatterson
+p236
+I1
+sVrhyme
+p237
+I3
+sVdoin
+p238
+I1
+sVtime
+p239
+I1
+sVeffect
+p240
+I1
+sVpaid
+p241
+I1
+sVstay
+p242
+I2
+sVquit
+p243
+I2
+sVmac
+p244
+I3
+sVthank
+p245
+I1
+sVnasty
+p246
+I1
+sVserious
+p247
+I1
+sVjealous
+p248
+I1
+sVnation
+p249
+I1
+sVwhy
+p250
+I1
+sVtune
+p251
+I1
+sVgoin
+p252
+I1
+sVnight
+p253
+I1
+sVstereo
+p254
+I1
+sVe
+I8
+sVcenter
+p255
+I1
+sVcalls
+p256
+I1
+sVband
+p257
+I1
+sVdemandin
+p258
+I1
+sVkeazye
+p259
+I3
+sVclear
+p260
+I2
+sVlater
+p261
+I1
+sVrequest
+p262
+I2
+sVwithout
+p263
+I2
+sVgreatest
+p264
+I1
+sVaxe
+p265
+I1
+sVfresh
+p266
+I1
+sVthe
+p267
+I1
+sVhello
+p268
+I5
+sVjack
+p269
+I1
+s.

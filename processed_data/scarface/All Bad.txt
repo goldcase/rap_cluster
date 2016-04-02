@@ -1,81 +1,656 @@
-"all bad" lyrics
-scarface lyrics
-"all bad"
-sunday morning i'm off at church
-sinnin' throughout the week, hustlin' every day
-gettin' it as we speak, listen to preacher preach
-choir singing the song, annie clapping her hands
-momma singing along, i'm impatient i wanna leave
-can't let my momma see, i ain't listening to the word
-not like i don't believe, but i'm trippin' nobody perfect
-to speak it wouldn't worth it for a person to be so christ like
-but i swear, i heard him cursin'
-let him without no sins cast the first stone
-but i am so not him so let me go on on
-get home and he will find his hat on
-who's family when this all went on
-come on, let's see, some laughs, then we
-can do the same damn thing next week
-i love it when it happens like that
-i smile cause it's not all bad
-you know they say that no one's perfect
-that's why we struggle every day
-just know that every single day is a blessing
-i'm just tryna find my way
-i keep my head above water (keep my head above water)
-tell me what's the use of lookin' sad
-keep your head above water
-cause it ain't all bad
-monday mornin' it's back to business
-cash the motivation, cops steady watchin'
-plottin' and waiting patient
-yeah i been thinkin' lately
-prayin' on even maybe
-probably best if i left it
-the stress will drive you crazy if you let it
-the penitentiary is where were headed
-designed for downfalls and some still don't get it
-and yeah i might have said it way back and got sweated by
-the same ones that hittin' it now but no credit came to me
-if you can see the things i see
-then you could point your fingers at the blame not me
-ashamed how we can't stand one another
-we hate the idea of a unified young brother so we suffer
-but i adapt cause i'm a hustler
-i still stay strapped with the muffler
-i'm ten toes trapped in the struggle cause
-i'm what the hood made mothafucka what
-you know they say that no one's perfect
-that's why we struggle every day
-just know that every single day is a blessing
-i'm just tryna find my way
-i keep my head above water (keep my head above water)
-tell me what's the use of lookin' sad
-keep your head above water
-cause it ain't all bad
-as solid these niggas come, realist they ever made
-money is not important it's livin' it how you say
-picture back in the day, me moving a brick a week
-murdered you if i had to nigga i'm from the streets
-and out here were playing for keeps, speak and your getting froze
-neck gettin' wrapped in sheets, sneakers will be exposed
-this bullet here for your soul
-bitches is just for sex, that said i could jack my dick
-she don't deserve respect, i'm knowin' my niggas feel it
-nothin' is fabricated authentic as i can say it
-the only way i play it, this is for curtis davis
-mothers of fallen soldiers, children of murdered fathers
-fathers out on the corners
-corners i'm standing on and i love 'em without a reason
-feelin they aid the bleedin' they made me i'm never leavin'
-though the looks can look deceiving
-believe me yall it might sound sad
-but trust me dog it's not all bad
-you know they say that no one's perfect
-that's why we struggle every day
-just know that every single day is a blessing
-i'm just tryna find my way
-i keep my head above water (keep my head above water)
-tell me what's the use of lookin' sad
-keep your head above water
-cause it ain't all bad
+(dp1
+Vunified
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVfabricated
+p5
+I1
+sVsuffer
+p6
+I1
+sVcursin
+p7
+I1
+sVsinnin
+p8
+I1
+sVgo
+p9
+I1
+sVwhats
+p10
+I3
+sVstill
+p11
+I2
+sVhate
+p12
+I1
+sVfind
+p13
+I4
+sVhustler
+p14
+I1
+sVfroze
+p15
+I1
+sVaint
+p16
+I4
+sVdeceiving
+p17
+I1
+sVpoint
+p18
+I1
+sVyoung
+p19
+I1
+sVlets
+p20
+I1
+sVsmile
+p21
+I1
+sVhat
+p22
+I1
+sVworth
+p23
+I1
+sVsound
+p24
+I1
+sVmornin
+p25
+I1
+sVcurtis
+p26
+I1
+sVlivin
+p27
+I1
+sVget
+p28
+I2
+sVlooks
+p29
+I1
+sVfeelin
+p30
+I1
+sVnext
+p31
+I1
+sVones
+p32
+I4
+sVevery
+p33
+I7
+sVknow
+p34
+I6
+sVlistening
+p35
+I1
+sVhands
+p36
+I1
+sVtrust
+p37
+I1
+sVday
+p38
+I8
+sVlook
+p39
+I1
+sVtrippin
+p40
+I1
+sVlike
+p41
+I3
+sVrealist
+p42
+I1
+sVever
+p43
+I1
+sVgettin
+p44
+I2
+sVbrother
+p45
+I1
+sVmorning
+p46
+I1
+sVleave
+p47
+I1
+sVbad
+p48
+I7
+sVhittin
+p49
+I1
+sVcorners
+p50
+I2
+sVwent
+p51
+I1
+sVyall
+p52
+I1
+sVpreach
+p53
+I1
+sVem
+p54
+I1
+sVnigga
+p55
+I1
+sVten
+p56
+I1
+sVpicture
+p57
+I1
+sVfathers
+p58
+I2
+sVdownfalls
+p59
+I1
+sVback
+p60
+I3
+sVcash
+p61
+I1
+sVpreacher
+p62
+I1
+sVsee
+p63
+I4
+sVleavin
+p64
+I1
+sVsoldiers
+p65
+I1
+sVhome
+p66
+I1
+sVmothers
+p67
+I1
+sVbest
+p68
+I1
+sVhappens
+p69
+I1
+sVchoir
+p70
+I1
+sVwhat
+p71
+I1
+sVsaid
+p72
+I2
+sVchrist
+p73
+I1
+sVfingers
+p74
+I1
+sVchildren
+p75
+I1
+sVdeserve
+p76
+I1
+sVwaiting
+p77
+I1
+sVsneakers
+p78
+I1
+sVadapt
+p79
+I1
+sVprobably
+p80
+I1
+sVcause
+p81
+I6
+sVwatchin
+p82
+I1
+sVperfect
+p83
+I4
+sVwe
+p84
+I1
+sVtoes
+p85
+I1
+sVpatient
+p86
+I1
+sVbusiness
+p87
+I1
+sVstrapped
+p88
+I1
+sVgot
+p89
+I1
+sVbitches
+p90
+I1
+sVeven
+p91
+I1
+sVsins
+p92
+I1
+sVwater
+p93
+I9
+sVmurdered
+p94
+I2
+sVlet
+p95
+I4
+sVstruggle
+p96
+I4
+sVaid
+p97
+I1
+sValong
+p98
+I1
+sVcome
+p99
+I2
+sVby
+p100
+I1
+sVon
+p101
+I3
+sVstone
+p102
+I1
+sVwouldnt
+p103
+I1
+sVgetting
+p104
+I1
+sVcould
+p105
+I2
+sVreason
+p106
+I1
+sVkeep
+p107
+I9
+sVthing
+p108
+I1
+sVswear
+p109
+I1
+sVstand
+p110
+I1
+sVannie
+p111
+I1
+sVdavis
+p112
+I1
+sVfallen
+p113
+I1
+sVjack
+p114
+I1
+sVthats
+p115
+I3
+sVdick
+p116
+I1
+sVlove
+p117
+I2
+sVdont
+p118
+I3
+sVfamily
+p119
+I1
+sVheaded
+p120
+I1
+sVfeel
+p121
+I1
+sVclapping
+p122
+I1
+sVcrazy
+p123
+I1
+sVone
+p124
+I1
+sVmomma
+p125
+I2
+sVanother
+p126
+I1
+sVchurch
+p127
+I1
+sVrespect
+p128
+I1
+sVsoul
+p129
+I1
+sVthroughout
+p130
+I1
+sVsinging
+p131
+I2
+sVhood
+p132
+I1
+sVspeak
+p133
+I3
+sVidea
+p134
+I1
+sVwan
+p135
+I1
+sVuse
+p136
+I3
+sVbleedin
+p137
+I1
+sVexposed
+p138
+I1
+sVwhos
+p139
+I1
+sVdamn
+p140
+I1
+sVway
+p141
+I5
+sVwrapped
+p142
+I1
+sVbrick
+p143
+I1
+sVmothafucka
+p144
+I1
+sVsweated
+p145
+I1
+sVtell
+p146
+I3
+sVlisten
+p147
+I1
+sVtryna
+p148
+I3
+sVhead
+p149
+I9
+sVstreets
+p150
+I1
+sVhustlin
+p151
+I1
+sVthat
+p152
+I1
+sVblessing
+p153
+I3
+sVyeah
+p154
+I2
+sVcops
+p155
+I1
+sVashamed
+p156
+I1
+sVbelieve
+p157
+I2
+sVnever
+p158
+I1
+sVme
+p159
+I2
+sVmade
+p160
+I3
+sVword
+p161
+I1
+sVknowin
+p162
+I1
+sVniggas
+p163
+I2
+sVsolid
+p164
+I1
+sVmight
+p165
+I2
+sVsex
+p166
+I1
+sVcant
+p167
+I2
+sVprayin
+p168
+I1
+sVcast
+p169
+I1
+sVstanding
+p170
+I1
+sVscarface
+p171
+I1
+sVsay
+p172
+I5
+sVmotivation
+p173
+I1
+sVlaughs
+p174
+I1
+sVit
+p175
+I5
+sVsad
+p176
+I4
+sVheard
+p177
+I1
+sVsingle
+p178
+I3
+sVim
+p179
+I13
+sVcredit
+p180
+I1
+sVna
+p181
+I1
+sVthinkin
+p182
+I1
+sVsong
+p183
+I1
+sVlately
+p184
+I1
+sVsunday
+p185
+I1
+sVweek
+p186
+I3
+sVplottin
+p187
+I1
+sVplay
+p188
+I1
+sVnobody
+p189
+I1
+sVlookin
+p190
+I3
+sVmonday
+p191
+I1
+sVthough
+p192
+I1
+sVkeeps
+p193
+I1
+sVblame
+p194
+I1
+sVstay
+p195
+I1
+sVimportant
+p196
+I1
+sVmoving
+p197
+I1
+sVdesigned
+p198
+I1
+sVsheets
+p199
+I1
+sVmuffler
+p200
+I1
+sVauthentic
+p201
+I1
+sVpenitentiary
+p202
+I1
+sVstress
+p203
+I1
+sVneck
+p204
+I1
+sVbullet
+p205
+I1
+sVmaybe
+p206
+I1
+sVdog
+p207
+I1
+sVsteady
+p208
+I1
+sVdrive
+p209
+I1
+sVnothin
+p210
+I1
+sVimpatient
+p211
+I1
+sVperson
+p212
+I1
+sVtrapped
+p213
+I1
+sVwithout
+p214
+I2
+sVthings
+p215
+I1
+sVfirst
+p216
+I1
+sVplaying
+p217
+I1
+sVcame
+p218
+I1
+sVleft
+p219
+I1
+s.

@@ -1,41 +1,371 @@
-"mc lyte likes swingin'" lyrics
-mc lyte lyrics
-"mc lyte likes swingin'"
-i may come on strong but that's what you like
-you like a female mc who can handle the mike
-how do i know? because you told me so
-you instantly prefer a pro to supervise the show
-so that's why i'm here, don't mean to make a case of it
-this rap here, well, it's just for the taste of it
-i write the rap to make the whole world sing
-and i'm the type of female, well, i like to swing
-mc lyte likes swingin
-party people in the place, since you started the case
-of a demonstration, i need concentration
-so you can make a full examination
-then you will agree that i'm the best mc
-and so is my deejay on the tables, rock
-this is the best jam that you could get
-the rap by lyte and the beat by stetsa
-(beat by stetsa) (beat by stetsa)
-never turn it down, cause it's what you requested
-any mike i hold, you know the big man pressed it
-sole believer in the rap i say
-you believe it too, that's why you never walk away
-you like the way i do it, you like my style
-study me like a book, cause you know i'm worth your while
-expressions on my face show you just how i feel
-add a rap to my gestures, now you know the deal
-mc lyte likes swingin
-cause yo, i am the best and that i'll boast
-sit down and be the guest, and i'll be the host
-it's wack to those that know and those that do not
-like 'coke is it' i hit the spot
-like 'good vibrations', i'm like sunkist
-the rap is smooth, cause it's sealed with chapstick
-not gonna say that i been rappin since the day of birth
-but i've acquired the knowledge like ms. butterworth
-ask me what's important, i tell you time and effort
-ask me how i do it, it's lyte's  method
-yeah, lyte is good, bud lite's good for ya
-i'm exciting just like toyota
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I2
+sVexpressions
+p4
+I1
+sVsunkist
+p5
+I1
+sVtables
+p6
+I1
+sVstyle
+p7
+I1
+sVbelieve
+p8
+I1
+sVknowledge
+p9
+I1
+sVadd
+p10
+I1
+sVjam
+p11
+I1
+sVworth
+p12
+I1
+sVinstantly
+p13
+I1
+sVlites
+p14
+I1
+sVgood
+p15
+I3
+sVhandle
+p16
+I1
+sVyo
+p17
+I1
+sVget
+p18
+I1
+sVbeat
+p19
+I3
+sVbig
+p20
+I1
+sVgestures
+p21
+I1
+sVknow
+p22
+I5
+sVbirth
+p23
+I1
+sVsupervise
+p24
+I1
+sVnot
+p25
+I1
+sVworld
+p26
+I1
+sVday
+p27
+I1
+sVlike
+p28
+I11
+sVtoyota
+p29
+I1
+sVvibrations
+p30
+I1
+sVrock
+p31
+I1
+sVmean
+p32
+I1
+sVdeal
+p33
+I1
+sVpeople
+p34
+I1
+sVacquired
+p35
+I1
+sVyeah
+p36
+I1
+sVbest
+p37
+I3
+sVgon
+p38
+I1
+sVstetsa
+p39
+I3
+sVaway
+p40
+I1
+sVsince
+p41
+I2
+sVcause
+p42
+I4
+sVmethod
+p43
+I1
+sVtold
+p44
+I1
+sVfull
+p45
+I1
+sVms
+p46
+I1
+sVchapstick
+p47
+I1
+sVnever
+p48
+I2
+sVdeejay
+p49
+I1
+sVhost
+p50
+I1
+sVask
+p51
+I2
+sVsing
+p52
+I1
+sVstrong
+p53
+I1
+sVcome
+p54
+I1
+sVboast
+p55
+I1
+sVill
+p56
+I2
+sVagree
+p57
+I1
+sVturn
+p58
+I1
+sVlytes
+p59
+I1
+sVplace
+p60
+I1
+sVswing
+p61
+I1
+sVwhole
+p62
+I1
+sVthats
+p63
+I3
+sVwhats
+p64
+I1
+sVdont
+p65
+I1
+sVfeel
+p66
+I1
+sVprefer
+p67
+I1
+sVwalk
+p68
+I1
+sVswingin
+p69
+I4
+sVlikes
+p70
+I4
+sVfemale
+p71
+I2
+sVwack
+p72
+I1
+sVexciting
+p73
+I1
+sVguest
+p74
+I1
+sVlyte
+p75
+I7
+sVexamination
+p76
+I1
+sVway
+p77
+I1
+sVtype
+p78
+I1
+sVtell
+p79
+I1
+sVmike
+p80
+I2
+sVsealed
+p81
+I1
+sVstarted
+p82
+I1
+sVcoke
+p83
+I1
+sVhold
+p84
+I1
+sVeffort
+p85
+I1
+sVbud
+p86
+I1
+sVcase
+p87
+I2
+sVrappin
+p88
+I1
+sVmc
+p89
+I7
+sVsmooth
+p90
+I1
+sVbeliever
+p91
+I1
+sVwhile
+p92
+I1
+sVcould
+p93
+I1
+sVpressed
+p94
+I1
+sVsole
+p95
+I1
+sVstudy
+p96
+I1
+sVive
+p97
+I1
+sVtaste
+p98
+I1
+sVpro
+p99
+I1
+sVit
+p100
+I3
+sVsay
+p101
+I2
+sVim
+p102
+I6
+sVrap
+p103
+I6
+sVneed
+p104
+I1
+sVhit
+p105
+I1
+sVconcentration
+p106
+I1
+sVdemonstration
+p107
+I1
+sVsit
+p108
+I1
+sVna
+p109
+I1
+sVmake
+p110
+I3
+sVwrite
+p111
+I1
+sVya
+p112
+I1
+sVbook
+p113
+I1
+sVparty
+p114
+I1
+sVrequested
+p115
+I1
+sVmay
+p116
+I1
+sVspot
+p117
+I1
+sVimportant
+p118
+I1
+sVman
+p119
+I1
+sVbutterworth
+p120
+I1
+sVwell
+p121
+I2
+sVface
+p122
+I1
+sVso
+p123
+I1
+sVtime
+p124
+I1
+s.

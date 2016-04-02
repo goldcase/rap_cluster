@@ -1,73 +1,506 @@
-"give me what i want" lyrics
-mc lyte lyrics
-"give me what i want"
-make it last long, uha, uh
-here's a situation, skip the talk
-let me know dog if you bite or bark
-what it is soldier, you ready to march
-can you make me shoot, or you just soft
-cause i got no time for the games
-just keep my spine full of pain
-hit the boost and hit turbo
-in this sexual inferno
-keep my lovin', drippin' drains
-or love highway, switchin' lanes
-show me different thangs with the whip and chains
-hit you with this grippin' pain
-can you handle that, are you alright
-test me out, is it alright
-come on baby, you ain't finished
-you servin' time, i ain't talkin' minutes
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-certified misses, i'm misses
-only get my time if it's
-somethin' that stay somethin'
-all night, until brunch and
-hit it right, manouvre me
-take your big knot, ? me
-pull my hair back, who the ruler be
-lovin' you so tight, no room for three
-tell me you want me
-my love keep you horny
-i know's my mother on me
-stay away from the masculine
-thing that keep me needing asperin
-got me gaspin' in for air, pashin' and
-sheets satin and mixed with silk
-here's my love, mixed with milk
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-what does it feel like
-check me out, feminine engine
-brooklyn girl, read the emblem
-him, them, and that's hangin'
-ten, it's nine-eight and then
-till it's hot and you got me bent
-on top of my thing, you win
-came nine times, going for the tenth
-think you could hang if you attempt
-with energy, when you enter me, hold on
-goin' for a ride, hope you don't fold on
-me, when we in the midst
-of battlin' with my slip
-no babblin', close your lips
-get close to it, nothing close to this
-feelin' what i feel when i'm next to you
-i stretch for you, please stretch me too
-night got me right as we take the flight
-through the clouds of love, highest heights
-my thing's tighter than a jew's pockets
-think you used to it, go head, rock it
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-make it hot for me, i'm lyte if you comin' strong
-give me what i want tonight, make it last long
-make it hot for me, i'm lyte if you comin' strong
-make it hot for me, i'm lyte if you comin' strong
+(dp1
+Vthings
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVskip
+p5
+I1
+sVgo
+p6
+I1
+sVsatin
+p7
+I1
+sVits
+p8
+I1
+sVaint
+p9
+I2
+sVhighest
+p10
+I1
+sVtill
+p11
+I1
+sVhope
+p12
+I1
+sVnineeight
+p13
+I1
+sVgoing
+p14
+I1
+sVmasculine
+p15
+I1
+sVgrippin
+p16
+I1
+sVshoot
+p17
+I1
+sVhit
+p18
+I4
+sVget
+p19
+I2
+sVread
+p20
+I1
+sVruler
+p21
+I1
+sVlovin
+p22
+I2
+sVboost
+p23
+I1
+sVknow
+p24
+I1
+sVknot
+p25
+I1
+sVsilk
+p26
+I1
+sVenter
+p27
+I1
+sVclouds
+p28
+I1
+sVlike
+p29
+I1
+sVgirl
+p30
+I1
+sVspine
+p31
+I1
+sVcause
+p32
+I1
+sVnight
+p33
+I2
+sVpashin
+p34
+I1
+sVsoft
+p35
+I1
+sVright
+p36
+I2
+sVjews
+p37
+I1
+sVten
+p38
+I1
+sVenergy
+p39
+I1
+sVback
+p40
+I1
+sVhair
+p41
+I1
+sVfold
+p42
+I1
+sVlips
+p43
+I1
+sVclose
+p44
+I3
+sVbark
+p45
+I1
+sVsexual
+p46
+I1
+sVwhip
+p47
+I1
+sVheights
+p48
+I1
+sVheres
+p49
+I2
+sVmidst
+p50
+I1
+sVaway
+p51
+I1
+sVplease
+p52
+I1
+sVhorny
+p53
+I1
+sVmisses
+p54
+I2
+sVthen
+p55
+I1
+sVgot
+p56
+I4
+sVchains
+p57
+I1
+sVhighway
+p58
+I1
+sVbe
+p59
+I1
+sVfull
+p60
+I1
+sVrock
+p61
+I1
+sVlet
+p62
+I1
+sVsituation
+p63
+I1
+sVstrong
+p64
+I9
+sVcome
+p65
+I1
+sVcertified
+p66
+I1
+sVbattlin
+p67
+I1
+sVhandle
+p68
+I1
+sVon
+p69
+I2
+sVlast
+p70
+I8
+sVcould
+p71
+I1
+sVneeding
+p72
+I1
+sVbrooklyn
+p73
+I1
+sVkeep
+p74
+I4
+sVsoldier
+p75
+I1
+sVgames
+p76
+I1
+sVpockets
+p77
+I1
+sVmixed
+p78
+I2
+sVtop
+p79
+I1
+sVthats
+p80
+I1
+sVlove
+p81
+I4
+sVdont
+p82
+I1
+sVfeel
+p83
+I2
+sVwin
+p84
+I1
+sVcomin
+p85
+I9
+sVemblem
+p86
+I1
+sVnext
+p87
+I1
+sVstretch
+p88
+I2
+sVlyte
+p89
+I10
+sVbite
+p90
+I1
+sVthree
+p91
+I1
+sVlong
+p92
+I8
+sVbabblin
+p93
+I1
+sVtoo
+p94
+I1
+sVswitchin
+p95
+I1
+sVinferno
+p96
+I1
+sVtell
+p97
+I1
+sVengine
+p98
+I1
+sVturbo
+p99
+I1
+sVhead
+p100
+I1
+sVlanes
+p101
+I1
+sVknows
+p102
+I1
+sVdrains
+p103
+I1
+sVfeminine
+p104
+I1
+sVfinished
+p105
+I1
+sVbaby
+p106
+I1
+sVbrunch
+p107
+I1
+sVhold
+p108
+I1
+sVme
+p109
+I4
+sVpull
+p110
+I1
+sVroom
+p111
+I1
+sVmc
+p112
+I1
+sVservin
+p113
+I1
+sVthis
+p114
+I1
+sVride
+p115
+I1
+sVair
+p116
+I1
+sVdrippin
+p117
+I1
+sVnine
+p118
+I1
+sVuh
+p119
+I1
+sVmanouvre
+p120
+I1
+sVminutes
+p121
+I1
+sVand
+p122
+I2
+sVbent
+p123
+I1
+sVgive
+p124
+I9
+sVit
+p125
+I1
+sVtonight
+p126
+I7
+sVim
+p127
+I11
+sVwant
+p128
+I10
+sVready
+p129
+I1
+sVmarch
+p130
+I1
+sVtimes
+p131
+I1
+sVcheck
+p132
+I1
+sVdifferent
+p133
+I1
+sVthing
+p134
+I2
+sVflight
+p135
+I1
+sVtenth
+p136
+I1
+sVmake
+p137
+I18
+sVuha
+p138
+I1
+sVmilk
+p139
+I1
+sVtight
+p140
+I1
+sVhot
+p141
+I10
+sVtake
+p142
+I2
+sVbig
+p143
+I1
+sVtest
+p144
+I1
+sVyou
+p145
+I1
+sVhangin
+p146
+I1
+sVtalkin
+p147
+I1
+sVused
+p148
+I1
+sVpain
+p149
+I2
+sVmother
+p150
+I1
+sVhang
+p151
+I1
+sVstay
+p152
+I2
+sVgaspin
+p153
+I1
+sVasperin
+p154
+I1
+sVslip
+p155
+I1
+sVsheets
+p156
+I1
+sVnothing
+p157
+I1
+sVfeelin
+p158
+I1
+sVtighter
+p159
+I1
+sVgoin
+p160
+I1
+sVsomethin
+p161
+I2
+sVattempt
+p162
+I1
+sVdog
+p163
+I1
+sVthink
+p164
+I2
+sVthangs
+p165
+I1
+sVcame
+p166
+I1
+sVtime
+p167
+I3
+sValright
+p168
+I2
+sVtalk
+p169
+I1
+s.

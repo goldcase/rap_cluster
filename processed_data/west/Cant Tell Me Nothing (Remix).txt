@@ -1,79 +1,609 @@
-cant tell nothing remix lyrics
-kanye west lyrics
-cant tell nothing remix
-feat young jeezy
-la la la la 87 32 thats way go kanye jizzle say aint
-wait till get money right
-billion dollars yeahhhhhhhhhh
-yeah id spend day
-show niggas play play
-top floor penthouse ill show em stay stay
-grand piano might learn play ha ha
-need hundred grand past everyday woo woo
-know like white keys yea
-duck tape wrap them
-call prejudice cuz never touch black ones keys ha ha
-let show shawty shawty
-hit strip club blew bout forty damn
-patron got confused fused
-stumbled outside made news
-fresh nine piece yeah wings cajun
-never seen kitchen nigga amazing nah
-well fuck im rich then
-balling crime fuck im hit then
-thugging term fuck im then
-insane dough hey fuck im sick then
-somebody call shrink
-ima fix drink ha ha
-top bit im intoxicated
-sometimes think god damn made it
-know hate it
-night flight
-tryna get money right
-wassup
-la la la la hey
-wait till get money right
-la la la la yeah
-cant tell nothing right
-excuse saying something
-uh uh cant tell nothing ha ha
-cant tell nothing
-uh uh cant tell nothing
-yea yea
-yea homie theme song
-first get money right
-get team on
-always pray gleam on
-300 jeans mean dream wrong
-high lil jet
-fly insect even though ended
-dont matter get number cuz
-get money right gon come running
-ill good like god extra o
-god knows check needs extra 0s
-know need bring extra hoes
-jogging pants either tell wear sexy clothes
-game professional
-chain fresh go oh oh oh oh oh
-right fame gain anything
-damn ye would change anything
-billion dollars yeahhhhhhhhhh
-id copped pink polos pop collars
-misery love company nickname sorrow
-benz need company nickname tahoe
-“wait till get money” everybody motto
-ima need bravo everything wrote
-yeah hey mama cant hate him
-cuz drama k slayed them
-la la la la hey
-wait till get money right
-la la la la yeah
-cant tell nothing right
-excuse saying something
-uh uh cant tell nothing ha ha
-cant tell nothing
-uh uh cant tell nothing
-billion dollars yeahhhhhhhhhh
-wait till get money right
-billion dollars yeahhhhhhhhhh
-cant tell nothing right
+(dp1
+Vsaying
+p2
+I2
+sVlyrics
+p3
+I2
+sVshow
+p4
+I3
+sVyea
+p5
+I4
+sVmoney
+p6
+I7
+sVmisery
+p7
+I1
+sVended
+p8
+I1
+sVdough
+p9
+I1
+sVtouch
+p10
+I1
+sVkanye
+p11
+I2
+sVfeat
+p12
+I1
+sVaint
+p13
+I1
+sVpolos
+p14
+I1
+sVchain
+p15
+I1
+sVla
+p16
+I20
+sVpray
+p17
+I1
+sVfix
+p18
+I1
+sVwassup
+p19
+I1
+sVcuz
+p20
+I3
+sVwings
+p21
+I1
+sVtheme
+p22
+I1
+sVtape
+p23
+I1
+sVrich
+p24
+I1
+sVpiano
+p25
+I1
+sVteam
+p26
+I1
+sVmight
+p27
+I1
+sVhate
+p28
+I2
+sVthen
+p29
+I4
+sVthem
+p30
+I2
+sVgood
+p31
+I1
+sVhit
+p32
+I2
+sVoutside
+p33
+I1
+sVye
+p34
+I1
+sVjeezy
+p35
+I1
+sVgame
+p36
+I1
+sVones
+p37
+I1
+sVknow
+p38
+I3
+sVbit
+p39
+I1
+sVday
+p40
+I1
+sVterm
+p41
+I1
+sVlike
+p42
+I2
+sVbring
+p43
+I1
+sValways
+p44
+I1
+sVeither
+p45
+I1
+sVnight
+p46
+I1
+sVwrote
+p47
+I1
+sVblack
+p48
+I1
+sVem
+p49
+I1
+sVblew
+p50
+I1
+sVright
+p51
+I11
+sVbravo
+p52
+I1
+sVduck
+p53
+I1
+sVyeah
+p54
+I5
+sVhim
+p55
+I1
+sVpast
+p56
+I1
+sVgo
+p57
+I2
+sVhoes
+p58
+I1
+sV87
+p59
+I1
+sVeven
+p60
+I1
+sVgon
+p61
+I1
+sVgod
+p62
+I3
+sVforty
+p63
+I1
+sVeverything
+p64
+I1
+sVwoo
+p65
+I2
+sVit
+p66
+I2
+sVgot
+p67
+I1
+sVpants
+p68
+I1
+sVima
+p69
+I2
+sVcajun
+p70
+I1
+sV300
+p71
+I1
+sVsorrow
+p72
+I1
+sVnever
+p73
+I2
+sV\u201cwait
+p74
+I1
+sVlet
+p75
+I1
+sVwear
+p76
+I1
+sVfame
+p77
+I1
+sVnews
+p78
+I1
+sVmotto
+p79
+I1
+sVcome
+p80
+I1
+sVyeahhhhhhhhhh
+p81
+I4
+sVwait
+p82
+I4
+sVon
+p83
+I2
+sVwould
+p84
+I1
+sVanything
+p85
+I2
+sVoh
+p86
+I5
+sV32
+p87
+I1
+sVill
+p88
+I2
+sVclothes
+p89
+I1
+sVinsect
+p90
+I1
+sVo
+I1
+sVdrama
+p91
+I1
+sVintoxicated
+p92
+I1
+sVjogging
+p93
+I1
+sVprejudice
+p94
+I1
+sVgleam
+p95
+I1
+sVmean
+p96
+I1
+sVthink
+p97
+I1
+sVthats
+p98
+I1
+sVinsane
+p99
+I1
+sVlove
+p100
+I1
+sVdont
+p101
+I1
+sVextra
+p102
+I3
+sVjizzle
+p103
+I1
+sVjeans
+p104
+I1
+sVnumber
+p105
+I1
+sVpop
+p106
+I1
+sVyoung
+p107
+I1
+sVrunning
+p108
+I1
+sVnigga
+p109
+I1
+sVstrip
+p110
+I1
+sVwrap
+p111
+I1
+sVcrime
+p112
+I1
+sVeverybody
+p113
+I1
+sVtahoe
+p114
+I1
+sVfused
+p115
+I1
+sVjet
+p116
+I1
+sVwest
+p117
+I1
+sVtop
+p118
+I2
+sVhey
+p119
+I4
+sVcall
+p120
+I2
+sVchange
+p121
+I1
+sVway
+p122
+I1
+sVmama
+p123
+I1
+sVdamn
+p124
+I3
+sVwhite
+p125
+I1
+sVhundred
+p126
+I1
+sVtell
+p127
+I12
+sVmoney\u201d
+p128
+I1
+sVtryna
+p129
+I1
+sVflight
+p130
+I1
+sVknows
+p131
+I1
+sV0s
+p132
+I1
+sVclub
+p133
+I1
+sVcompany
+p134
+I2
+sVkitchen
+p135
+I1
+sVfuck
+p136
+I4
+sVcopped
+p137
+I1
+sVexcuse
+p138
+I2
+sVgain
+p139
+I1
+sVha
+p140
+I10
+sVbout
+p141
+I1
+sVfly
+p142
+I1
+sVhigh
+p143
+I1
+sVmade
+p144
+I2
+sVslayed
+p145
+I1
+sVniggas
+p146
+I1
+sVsay
+p147
+I1
+sVmatter
+p148
+I1
+sVnine
+p149
+I1
+sVuh
+p150
+I8
+sVlearn
+p151
+I1
+sVk
+I1
+sVpiece
+p152
+I1
+sVdollars
+p153
+I4
+sVsomething
+p154
+I2
+sVpenthouse
+p155
+I1
+sVpatron
+p156
+I1
+sVbenz
+p157
+I1
+sVconfused
+p158
+I1
+sVsomebody
+p159
+I1
+sVcant
+p160
+I12
+sVhomie
+p161
+I1
+sVim
+p162
+I5
+sVthugging
+p163
+I1
+sVneed
+p164
+I4
+sVseen
+p165
+I1
+sVcollars
+p166
+I1
+sVeveryday
+p167
+I1
+sVpink
+p168
+I1
+sVstumbled
+p169
+I1
+sVfloor
+p170
+I1
+sVlil
+p171
+I1
+sVnah
+p172
+I1
+sVget
+p173
+I10
+sVballing
+p174
+I1
+sVid
+p175
+I2
+sVtill
+p176
+I5
+sVamazing
+p177
+I1
+sVsick
+p178
+I1
+sVgrand
+p179
+I2
+sVshawty
+p180
+I2
+sVshrink
+p181
+I1
+sVplay
+p182
+I3
+sVthough
+p183
+I1
+sVkeys
+p184
+I2
+sVdrink
+p185
+I1
+sVneeds
+p186
+I1
+sVstay
+p187
+I2
+sVwrong
+p188
+I1
+sVprofessional
+p189
+I1
+sVnothing
+p190
+I11
+sVsong
+p191
+I1
+sVnickname
+p192
+I2
+sVcheck
+p193
+I1
+sVbillion
+p194
+I4
+sVsexy
+p195
+I1
+sVremix
+p196
+I2
+sVsometimes
+p197
+I1
+sVwell
+p198
+I1
+sVfresh
+p199
+I2
+sVfirst
+p200
+I1
+sVdream
+p201
+I1
+sVspend
+p202
+I1
+s.

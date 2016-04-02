@@ -1,61 +1,495 @@
-"got next" lyrics
-eminem lyrics
-"got next"
-shady records ain't nobody better than this
-shady records no cheddar than us
-shady records ain't nobody better than this
-you can hate me all you want
-it don't phase me, its so crazy
-i let these motherfuckers worry about what i'm doing
-but they need to worry about them goddamn selves
-i just do me
-you should be doing you not trying to copy on me
-i got this locked from the burbs to the projects
-now none of you worry cause i got next
-this rap shit out i map shit strategically
-timing is everything and that seems to be the key
-to my success it's worked for me repeatedly
-timing is everything and that seems to be the key
-let them diss you first respond immediately
-in order to master art of war don't start a war shit not no more
-we done scared them off there are no more
-victims to sick i'm fixing the pics
-i'm a start shit ain't got no pictures to rip
-and shit to throw darts at
-ain't got no more targets shit irv and jeff
-we don't beat em to death benzino in dept
-just be no one left to bully
-bush is pussy, why the fuck you think in name's bush
-puss is bushy ain't shit going on shit i been getting so bored lately
-i'm thinking of doing some shit
-to get you to go and hate me again
-the game just isn't the same its changing
-shit dre's quitting jay's quitting
-now its wanksta they're saying the same shit
-it's ancient its fake
-its making me so bored i'ma just make a new language
-fubba u cuppa cubba uppa u uppa oobba
-youbba can susubba my dadabbadick throug the tuba
-some other rumour lama i'm not a huma i'ma
-supersonic new robotic suicidal unabomber
-you think i'm the new osama
-press thinks i'm a new madonna
-jeffry dahmer left me
-with his legacy to carry on a
-lot talk and rumors on us
-who's the hottest to be honest
-hip hop ain't been the same since tupac moved to cuba on us
-shady records ain't nobody better than this
-shady records no fucking more cheddar than us
-shady records ain't nobody better than this
-shady records no fucking more cheddar than us
-you can hate all you want, but i don't give it a thought
-coz you don't know about me
-its really that simple, i can fit in a thimble whatcha
-know about me?
-they ain't feeling my songs, i tell the haters be gone coz
-you don't know about me...better het use to the fact
-that i be doing this tracks until they know about me
-shady records ain't nobody better than this
-shady records no cheddar than us
-shady records ain't nobody better than this
+(dp1
+Vsaying
+p2
+I1
+sVdiss
+p3
+I1
+sVsuicidal
+p4
+I1
+sVlyrics
+p5
+I2
+sVcheddar
+p6
+I4
+sVpress
+p7
+I1
+sVisnt
+p8
+I1
+sVtuba
+p9
+I1
+sVgo
+p10
+I1
+sVhate
+p11
+I3
+sVaint
+p12
+I11
+sVdeath
+p13
+I1
+sVfit
+p14
+I1
+sVselves
+p15
+I1
+sVtrying
+p16
+I1
+sVseems
+p17
+I2
+sVbetter
+p18
+I6
+sVbush
+p19
+I2
+sVgoing
+p20
+I1
+sVprojects
+p21
+I1
+sVhuma
+p22
+I1
+sVhip
+p23
+I1
+sVvictims
+p24
+I1
+sVhop
+p25
+I1
+sVget
+p26
+I1
+sVbeat
+p27
+I1
+sVrecords
+p28
+I10
+sVgame
+p29
+I1
+sVknow
+p30
+I4
+sVnew
+p31
+I4
+sVtiming
+p32
+I2
+sVimmediately
+p33
+I1
+sVbushy
+p34
+I1
+sVrumour
+p35
+I1
+sVsuccess
+p36
+I1
+sVtheyre
+p37
+I1
+sVmebetter
+p38
+I1
+sVwhos
+p39
+I1
+sVwhatcha
+p40
+I1
+sVrespond
+p41
+I1
+sVart
+p42
+I1
+sVdoing
+p43
+I1
+sVgoddamn
+p44
+I1
+sVscared
+p45
+I1
+sVdadabbadick
+p46
+I1
+sVlegacy
+p47
+I1
+sVtargets
+p48
+I1
+sVreally
+p49
+I1
+sVcubba
+p50
+I1
+sVpictures
+p51
+I1
+sVsince
+p52
+I1
+sVirv
+p53
+I1
+sVeverything
+p54
+I2
+sVgot
+p55
+I6
+sVcause
+p56
+I1
+sVquitting
+p57
+I2
+sVima
+p58
+I2
+sVbully
+p59
+I1
+sVdres
+p60
+I1
+sVbenzino
+p61
+I1
+sVeminem
+p62
+I1
+sVuppa
+p63
+I2
+sVlet
+p64
+I2
+sVkey
+p65
+I2
+sVsusubba
+p66
+I1
+sVthrow
+p67
+I1
+sVthinks
+p68
+I1
+sVlanguage
+p69
+I1
+sVgetting
+p70
+I1
+sVcoz
+p71
+I2
+sVtracks
+p72
+I1
+sVpics
+p73
+I1
+sVthinking
+p74
+I1
+sVthink
+p75
+I2
+sVfirst
+p76
+I1
+sVem
+p77
+I1
+sVhaters
+p78
+I1
+sVdont
+p79
+I6
+sVjeff
+p80
+I1
+sVsimple
+p81
+I1
+sVpussy
+p82
+I1
+sVrobotic
+p83
+I1
+sVone
+p84
+I1
+sVosama
+p85
+I1
+sVdone
+p86
+I1
+sVnames
+p87
+I1
+sVfake
+p88
+I1
+sVcarry
+p89
+I1
+sVjays
+p90
+I1
+sVhet
+p91
+I1
+sVcuppa
+p92
+I1
+sVuse
+p93
+I1
+sVancient
+p94
+I1
+sVunabomber
+p95
+I1
+sVthimble
+p96
+I1
+sVnext
+p97
+I3
+sVstart
+p98
+I2
+sVmaster
+p99
+I1
+sVtell
+p100
+I1
+sVlot
+p101
+I1
+sVhottest
+p102
+I1
+sVbored
+p103
+I2
+sVwar
+p104
+I2
+sVwanksta
+p105
+I1
+sVmore
+p106
+I2
+sVmoved
+p107
+I1
+sVnobody
+p108
+I6
+sVrepeatedly
+p109
+I1
+sVjeffry
+p110
+I1
+sVworked
+p111
+I1
+sVcopy
+p112
+I1
+sVme
+p113
+I4
+sVnone
+p114
+I1
+sVlocked
+p115
+I1
+sVthis
+p116
+I6
+sVstrategically
+p117
+I1
+sVus
+p118
+I6
+sVthroug
+p119
+I1
+sVdept
+p120
+I1
+sVmaking
+p121
+I1
+sVfeeling
+p122
+I1
+sVburbs
+p123
+I1
+sVgone
+p124
+I1
+sVcrazy
+p125
+I1
+sVrap
+p126
+I1
+sVgive
+p127
+I1
+sVyoubba
+p128
+I1
+sVfuck
+p129
+I1
+sVrip
+p130
+I1
+sVfucking
+p131
+I2
+sVim
+p132
+I7
+sVwant
+p133
+I2
+sVneed
+p134
+I1
+sVmadonna
+p135
+I1
+sVhonest
+p136
+I1
+sVworry
+p137
+I3
+sVagain
+p138
+I1
+sVlama
+p139
+I1
+sVrumors
+p140
+I1
+sVtupac
+p141
+I1
+sVfubba
+p142
+I1
+sVfixing
+p143
+I1
+sVmake
+p144
+I1
+sVcuba
+p145
+I1
+sVlately
+p146
+I1
+sVshit
+p147
+I11
+sVsick
+p148
+I1
+sVmap
+p149
+I1
+sVdarts
+p150
+I1
+sVphase
+p151
+I1
+sVchanging
+p152
+I1
+sVdahmer
+p153
+I1
+sVa
+I1
+sVsupersonic
+p154
+I1
+sVpuss
+p155
+I1
+sVshady
+p156
+I10
+sVoobba
+p157
+I1
+sVmotherfuckers
+p158
+I1
+sVthought
+p159
+I1
+sVu
+I2
+sVfact
+p160
+I1
+sVsongs
+p161
+I1
+sVorder
+p162
+I1
+sVtalk
+p163
+I1
+sVleft
+p164
+I2
+s.

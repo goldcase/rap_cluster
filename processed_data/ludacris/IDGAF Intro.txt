@@ -1,20 +1,95 @@
-"#idgaf intro" lyrics
-ludacris lyrics
-"#idgaf intro"
-i got one motherfuckin responsibility in this world
-that's me and that's it motherfucker
-for anybody and everything that i think has shit, do you understand?!
-that's a question best posed to yourself
-i'm giving you a chance
-i'm giving you a shot at redemption
-do you understand that?
-i don't give a fuck about any stupid motherfuckers
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
-i don't give a fuck
+(dp1
+Vshot
+p2
+I1
+sVdont
+p3
+I10
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVfuck
+p6
+I10
+sVidgaf
+p7
+I2
+sVyourself
+p8
+I1
+sVintro
+p9
+I2
+sVim
+p10
+I2
+sVbest
+p11
+I1
+sVgiving
+p12
+I2
+sVgive
+p13
+I10
+sVquestion
+p14
+I1
+sVeverything
+p15
+I1
+sVmotherfuckin
+p16
+I1
+sVgot
+p17
+I1
+sVshit
+p18
+I1
+sVthat
+p19
+I1
+sVposed
+p20
+I1
+sVmotherfucker
+p21
+I1
+sVchance
+p22
+I1
+sVunderstand
+p23
+I2
+sVworld
+p24
+I1
+sVone
+p25
+I1
+sVredemption
+p26
+I1
+sVanybody
+p27
+I1
+sVmotherfuckers
+p28
+I1
+sVstupid
+p29
+I1
+sVresponsibility
+p30
+I1
+sVthink
+p31
+I1
+sVthats
+p32
+I3
+s.

@@ -1,88 +1,406 @@
-"sex 4 suga" lyrics
-common lyrics
-"sex 4 suga"
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-girl oh you look ugh
-your the type of thick that i cant give up
-what's your name i can't hear ya
-would it be alright if i call you suga
-you can call me smokey i'll be the bear
-your smell is sexy its all in the air
-what ya got girl its so unfair
-i like the way you move so keep it right there
-or you can do what you want to do
-im just glad im in front of you
-but i don't mind bein behind
-cause imma touch you where the sun don't shine
-got my hand on the money while you on the grind
-in tune with you cause you so fine
-and when you wine its genuwine
-get on my vine and we can climb
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-heard you use to dance at magic city
-the other girls couldn't been half as pretty
-you look so sexy when you grab them (ohhhhhh!!) oh yes
-suga good lord you've been blessed
-if this is a sin i must confess
-the way you dress is like birdless
-i guess you don't mind bein undressed
-i like the way its going down
-hips are moving all around
-round and round upside down
-i once was lost but now im found
-sweet heart can you give me another round
-sweating like you losing pounds
-touch the ground make it sound
-suga oh suga you wear the crown
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-all that dancin suga make me want to do ya
-the way you move and shake it
-ah ah on the dance floor
-wanna touch and feel ya we can get familar
-the way you move and shake it
-make me want you some moooree!
-oh you making my nature rise
-we can do more then fantasize
-lets do the do me and you
-we can wooh wooh wooh! and whoopti woo
-your physique brings out my freak
-i like the way your body speaks
-i want some of you everyday of the week
-suga suga you aint nothing sweet
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
-girl you've been touched by the forces of nature
-im just tryna motivate ya electricity is definately there
-i got shocked when i touched your hair
-sex 4 suga
-suga 4 sex
+(dp1
+Vugh
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I2
+sVmoney
+p5
+I1
+sVmove
+p6
+I3
+sVunfair
+p7
+I1
+sVshake
+p8
+I2
+sVtouch
+p9
+I3
+sVyes
+p10
+I1
+sVfine
+p11
+I1
+sVground
+p12
+I1
+sVaint
+p13
+I1
+sVelectricity
+p14
+I8
+sVdancin
+p15
+I1
+sVwoo
+p16
+I1
+sVlets
+p17
+I1
+sVgoing
+p18
+I1
+sVtouched
+p19
+I16
+sVpretty
+p20
+I1
+sVlord
+p21
+I1
+sVwooh
+p22
+I3
+sVgood
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I2
+sVya
+p26
+I12
+sVbein
+p27
+I2
+sVrise
+p28
+I1
+sVbear
+p29
+I1
+sVhalf
+p30
+I1
+sVfront
+p31
+I1
+sVundressed
+p32
+I1
+sVname
+p33
+I1
+sVmoooree
+p34
+I1
+sVmagic
+p35
+I1
+sVlike
+p36
+I5
+sVlost
+p37
+I1
+sVpounds
+p38
+I1
+sVohhhhhh
+p39
+I1
+sVcommon
+p40
+I1
+sVfound
+p41
+I1
+sVgrab
+p42
+I1
+sVround
+p43
+I3
+sVright
+p44
+I1
+sVvine
+p45
+I1
+sVsex
+p46
+I18
+sVhair
+p47
+I8
+sVbirdless
+p48
+I1
+sVgirl
+p49
+I10
+sVgenuwine
+p50
+I1
+sVthick
+p51
+I1
+sVsun
+p52
+I1
+sVconfess
+p53
+I1
+sVbehind
+p54
+I1
+sVgot
+p55
+I10
+sVcause
+p56
+I2
+sVbody
+p57
+I1
+sVnature
+p58
+I9
+sVsuga
+p59
+I25
+sVguess
+p60
+I1
+sVfantasize
+p61
+I1
+sVwear
+p62
+I1
+sVlosing
+p63
+I1
+sVsexy
+p64
+I2
+sVshine
+p65
+I1
+sVoh
+p66
+I4
+sVill
+p67
+I1
+sVkeep
+p68
+I1
+sVimma
+p69
+I1
+sVyouve
+p70
+I9
+sVclimb
+p71
+I1
+sVmotivate
+p72
+I8
+sVwhats
+p73
+I1
+sVdont
+p74
+I3
+sVfeel
+p75
+I1
+sVsweet
+p76
+I2
+sVblessed
+p77
+I1
+sVdown
+p78
+I1
+sVanother
+p79
+I1
+sVcouldnt
+p80
+I1
+sVwan
+p81
+I1
+sVsweating
+p82
+I1
+sVcity
+p83
+I1
+sVuse
+p84
+I1
+sVwould
+p85
+I1
+sVthere
+p86
+I1
+sVgirls
+p87
+I1
+sVcall
+p88
+I2
+sVway
+p89
+I6
+sVtype
+p90
+I1
+sVfamilar
+p91
+I1
+sV4
+I18
+sVtryna
+p92
+I8
+sVcrown
+p93
+I1
+sVhear
+p94
+I1
+sVwhoopti
+p95
+I1
+sVglad
+p96
+I1
+sVmust
+p97
+I1
+sVsound
+p98
+I1
+sVlook
+p99
+I2
+sVair
+p100
+I1
+sVmaking
+p101
+I1
+sVheart
+p102
+I1
+sVfreak
+p103
+I1
+sVgive
+p104
+I2
+sVah
+p105
+I2
+sVmind
+p106
+I2
+sVheard
+p107
+I1
+sVcant
+p108
+I2
+sVim
+p109
+I11
+sVwant
+p110
+I4
+sVdress
+p111
+I1
+sVeveryday
+p112
+I1
+sVfloor
+p113
+I1
+sVna
+p114
+I1
+sVmake
+p115
+I3
+sVphysique
+p116
+I1
+sVshocked
+p117
+I8
+sVforces
+p118
+I8
+sVbrings
+p119
+I1
+sVyou
+p120
+I1
+sVspeaks
+p121
+I1
+sVsmell
+p122
+I1
+sVsin
+p123
+I1
+sVweek
+p124
+I1
+sVdefinately
+p125
+I8
+sVhand
+p126
+I1
+sVmoving
+p127
+I1
+sVnothing
+p128
+I1
+sVtune
+p129
+I1
+sVsmokey
+p130
+I1
+sVgrind
+p131
+I1
+sVupside
+p132
+I1
+sValright
+p133
+I1
+sVhips
+p134
+I1
+sVwine
+p135
+I1
+s.

@@ -1,76 +1,644 @@
-"it could be easy" lyrics
-snoop dogg lyrics
-"it could be easy"
-(with wiz khalifa)
-{"1500"}
-ohhhhhhhh ohhh ohhhhh ohh
-it could all be so, it could all be so
-it could all be so easy
-so, so easy, so easy
-yeah, hey hey hey hey, listen!
-it could be easy, it could be easy
-it could be easy...
-it could be easy, it could be easy
-it could be easy...
-yeah, high school man
-taylor gang, young khalifa
-i'll show you how to do this shit, uhh
-(it could be easy) but you probably won't believe me
-that's why i'm smokin, ridin listenin to "doggystyle" on cd
-they saw me on tv, now they gon' try they hardest to be me
-said she know just who i am and plus my team is undefeated
-i'm the man in my city, if you want i got the key
-and i could put you on the game or on the ocean by the beach
-everything you see i own, i don't gotta lease
-if your bitch outta control better put that hoe on a leash
-umm (it could be easy) if you listen to what i'm tryin to tell ya
-every dime pays but they catch you messin with that high grade
-they gon' try and fail ya - call up moms, tell her
-you in the hallway, plus your clothes smell kinda familiar
-i ain't trippin, i'm twistin up another one
-got a couple problems with my bitches dawg cause pimpin ain't (easy)
-i'm rollin up trees, stayin low from police
-and don't ask where i been, dogg i'm goin where the g's be
-haters talk when i leave, they just front when they see
-what they want, say they don't but they need me
-i'm like a fuckin game genie
-young nigga but i make it look easy
-it could be easy
-but the smallest little things we make so hard
-make so hard, make so hard
-yeah just like a free throw, life it be so easy
-it could be easy
-well then tell me would you really be who you are?
-who you are, who you are
-and it's been done before, i think you should know, know, know
-hahahaha, i got class nigga fuck that i'm tired
-i'm tired of fuckin around man
-i'ma go to fuckin class man
-i'll get at y'all niggaz later
-this shit easier than it look man
-real shit, i'm gettin money too
-stayin fly, fuckin yo' bitch
-what up dogg?
-it can all be so easy
-it could be easy
-flyin on a plane plane, dippin to this thang, bang
-never the same gang, she ask me if i gang bang
-if peter piper pick 'em, then snoopy doopy pimp 'em
-the track is where i kick 'em, now baby suck a dick up
-until you start to hiccup, now look here breezy
-it's real hard, but you can make it easy
-i am pleasurable, now baby please me
-and once i get up in it, i'll make you need me
-(it could be easy) like i love weed leaf
-baby starvin, now she feed me, believe me, you complete me
-protect the spot, and when i'm in school
-lay low, be cool, connect the dots, i do it vagrantly
-truant agencies on my wingtips
-i ditched english, for olde english
-40-ounce loc, with some buddha thai, mix it with some kush slow
-with a e.t. high, so, i'ma phone home
-baby on some knick-knack, paddy-whack, give her doggy bone
-we +home alone+, now she's suckin on my bone
-macaulay, phifer, nascar driver
-rollin with a real eastsider
-it could be easy
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I1
+sVlay
+p6
+I1
+sVflyin
+p7
+I1
+sVpaddywhack
+p8
+I1
+sVbaby
+p9
+I4
+sVgang
+p10
+I3
+sVgo
+p11
+I1
+sVaint
+p12
+I2
+sVone
+p13
+I1
+sVpolice
+p14
+I1
+sVmix
+p15
+I1
+sVtv
+p16
+I1
+sVthang
+p17
+I1
+sVtwistin
+p18
+I1
+sVyoung
+p19
+I2
+sVbetter
+p20
+I1
+sVeasy
+p21
+I23
+sVvagrantly
+p22
+I1
+sVohhh
+p23
+I1
+sVdoopy
+p24
+I1
+sVeasier
+p25
+I1
+sVkick
+p26
+I1
+sVta
+p27
+I1
+sVreal
+p28
+I3
+sVlistenin
+p29
+I1
+sVaround
+p30
+I1
+sVyo
+p31
+I1
+sVget
+p32
+I2
+sVya
+p33
+I2
+sVfamiliar
+p34
+I1
+sVcouple
+p35
+I1
+sVuhh
+p36
+I1
+sVgame
+p37
+I2
+sVevery
+p38
+I1
+sVknow
+p39
+I4
+sVsnoopy
+p40
+I1
+sVprobably
+p41
+I1
+sVfront
+p42
+I1
+sVmessin
+p43
+I1
+sVcool
+p44
+I1
+sVwont
+p45
+I1
+sVtrippin
+p46
+I1
+sVschool
+p47
+I2
+sVlike
+p48
+I3
+sVpimp
+p49
+I1
+sVsmell
+p50
+I1
+sVphifer
+p51
+I1
+sVgettin
+p52
+I1
+sVtry
+p53
+I2
+sVteam
+p54
+I1
+sVyall
+p55
+I1
+sVclothes
+p56
+I1
+sVem
+p57
+I3
+sVnigga
+p58
+I2
+sVkhalifa
+p59
+I2
+sVhard
+p60
+I4
+sVyeah
+p61
+I3
+sVsee
+p62
+I2
+sVdawg
+p63
+I1
+sVare
+p64
+I2
+sVgoin
+p65
+I1
+sVfail
+p66
+I1
+sVet
+p67
+I1
+sVpeter
+p68
+I1
+sVtruant
+p69
+I1
+sVreally
+p70
+I1
+sVleave
+p71
+I1
+sVgon
+p72
+I2
+sVleaf
+p73
+I1
+sVpiper
+p74
+I1
+sVplease
+p75
+I1
+sVstayin
+p76
+I2
+sVeverything
+p77
+I1
+sVsmallest
+p78
+I1
+sVbuddha
+p79
+I1
+sVumm
+p80
+I1
+sVgot
+p81
+I4
+sVdoggy
+p82
+I1
+sVcause
+p83
+I1
+sVbe
+p84
+I1
+sVloc
+p85
+I1
+sVstarvin
+p86
+I1
+sVspot
+p87
+I1
+sVnever
+p88
+I1
+sVmacaulay
+p89
+I1
+sVridin
+p90
+I1
+sVfree
+p91
+I1
+sVagencies
+p92
+I1
+sVslow
+p93
+I1
+sVsmokin
+p94
+I1
+sVkey
+p95
+I1
+sVima
+p96
+I2
+sVput
+p97
+I2
+sVhaters
+p98
+I1
+sVthrow
+p99
+I1
+sVprotect
+p100
+I1
+sVher
+p101
+I1
+sVcould
+p102
+I19
+sVwingtips
+p103
+I1
+sVohhhhh
+p104
+I1
+sVplus
+p105
+I2
+sVbone
+p106
+I2
+sVpick
+p107
+I1
+sVdoggystyle
+p108
+I1
+sVthink
+p109
+I1
+sVfuckin
+p110
+I4
+sVthats
+p111
+I1
+sVfeed
+p112
+I1
+sVdippin
+p113
+I1
+sVdick
+p114
+I1
+sVlove
+p115
+I1
+sVdont
+p116
+I3
+sVgrade
+p117
+I1
+sVpays
+p118
+I1
+sVcd
+p119
+I1
+sVask
+p120
+I2
+sVdone
+p121
+I1
+sVbitch
+p122
+I2
+sVanother
+p123
+I1
+sVoutta
+p124
+I1
+sVwiz
+p125
+I1
+sVcity
+p126
+I1
+sVlittle
+p127
+I1
+sVsnoop
+p128
+I1
+sVwould
+p129
+I1
+sVdogg
+p130
+I3
+sVtired
+p131
+I2
+sVhey
+p132
+I4
+sVstart
+p133
+I1
+sVleash
+p134
+I1
+sVcall
+p135
+I1
+sVlow
+p136
+I2
+sVolde
+p137
+I1
+sVtryin
+p138
+I1
+sVtell
+p139
+I3
+sVlease
+p140
+I1
+sVdots
+p141
+I1
+sVlife
+p142
+I1
+sVpimpin
+p143
+I1
+sVohhhhhhhh
+p144
+I1
+sVbitches
+p145
+I1
+sVplane
+p146
+I2
+sVphone
+p147
+I1
+sVhiccup
+p148
+I1
+sVtoo
+p149
+I1
+sVcatch
+p150
+I1
+sVthai
+p151
+I1
+sVbelieve
+p152
+I2
+sVdriver
+p153
+I1
+sVeastsider
+p154
+I1
+sVme
+p155
+I6
+sVlook
+p156
+I3
+sVundefeated
+p157
+I1
+sVup
+p158
+I1
+sVniggaz
+p159
+I1
+sValone
+p160
+I1
+sVshes
+p161
+I1
+sVsuckin
+p162
+I1
+sVhardest
+p163
+I1
+sVpleasurable
+p164
+I1
+sVlisten
+p165
+I2
+sVill
+p166
+I3
+sVconnect
+p167
+I1
+sVcontrol
+p168
+I1
+sVtaylor
+p169
+I1
+sVohh
+p170
+I1
+sVgive
+p171
+I1
+sVfuck
+p172
+I1
+sVnascar
+p173
+I1
+sVhigh
+p174
+I3
+sVfly
+p175
+I1
+sVsay
+p176
+I1
+sVim
+p177
+I11
+sVwant
+p178
+I2
+sVhome
+p179
+I2
+sVneed
+p180
+I2
+sVknickknack
+p181
+I1
+sVbreezy
+p182
+I1
+sVsaw
+p183
+I1
+sVshit
+p184
+I3
+sVcomplete
+p185
+I1
+sVkush
+p186
+I1
+sVhoe
+p187
+I1
+sVthings
+p188
+I1
+sVmake
+p189
+I6
+sVmoms
+p190
+I1
+sVditched
+p191
+I1
+sV1500
+p192
+I1
+sVbeach
+p193
+I1
+sVhallway
+p194
+I1
+sVdime
+p195
+I1
+sVtrack
+p196
+I1
+sVproblems
+p197
+I1
+sVweed
+p198
+I1
+sVsaid
+p199
+I1
+sVtrees
+p200
+I1
+sVkinda
+p201
+I1
+sVhahahaha
+p202
+I1
+sVsuck
+p203
+I1
+sVclass
+p204
+I2
+sVman
+p205
+I5
+sVlater
+p206
+I1
+sVwell
+p207
+I1
+sVbang
+p208
+I2
+sVrollin
+p209
+I2
+sVocean
+p210
+I1
+sVso
+p211
+I1
+sVenglish
+p212
+I2
+sVgenie
+p213
+I1
+sV40ounce
+p214
+I1
+sVtalk
+p215
+I1
+s.

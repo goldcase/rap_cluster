@@ -1,56 +1,509 @@
-hell life lyrics
-kanye west lyrics
-hell life
-think fell love porn star
-turn camera born star
-turn corners foreign car
-call coroners cpr
-gave old nigga ulcer
-bitter sweet taste made gold teeth fake uh
-make knees shake make priest faint uh
-make nun cum make cremate uh
-move downtown cop sweet space uh
-livin life like won sweepstakes what
-headin hell heavens sake huh
-well imma levitate make devil wait yeah
-lost mind
-tell think crossed line
-drugs pussy religion need
-grab hand baby well live hell life
-never wildest dreams never wildest dreams
-wildest
-could hear loudest screams comin inside screen
-wild bitch
-tell gotta guy
-said price go ever fuck black guy
-anal gangbang
-kinda crazy thats considered thing
-well guess alotta niggas gang bang
-run trains gang
-runaway slaves chain gang
-bang bang bang bang bang
-lost mind
-tell think crossed line
-drugs pussy religion need
-grab hand baby well live hell life
-one day im gon marry porn star
-well big ass crib long yard
-well mansion fly maids
-nothin hide screwed brides maid
-wanna role play til roll over
-imma need whole day least rolled doja
-party goin oscar day
-specially cant get dress oscar de
-la renta wouldnt rent couldnt take shame
-snatched dress back told get away
-could say live life wrong
-never fuck lights on
-lost mind
-tell think crossed line
-drugs pussy religion need
-grab hand baby well live hell life
-think fell love porn star
-got married bathroom
-honeymoon dance floor
-got divorced end night
-thats one hell life
+(dp1
+Vleast
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I1
+sVover
+p5
+I1
+sVmove
+p6
+I1
+sVdoja
+p7
+I1
+sVgang
+p8
+I3
+sVulcer
+p9
+I1
+sVshake
+p10
+I1
+sVgo
+p11
+I1
+sVkanye
+p12
+I1
+sVheavens
+p13
+I1
+sVgold
+p14
+I1
+sVla
+p15
+I1
+sVimma
+p16
+I2
+sVmaid
+p17
+I1
+sVblack
+p18
+I1
+sVgon
+p19
+I1
+sVpussy
+p20
+I3
+sVcum
+p21
+I1
+sVgave
+p22
+I1
+sVlivin
+p23
+I1
+sVget
+p24
+I2
+sVbig
+p25
+I1
+sVde
+p26
+I1
+sVbang
+p27
+I6
+sVday
+p28
+I3
+sVdreams
+p29
+I2
+sVlike
+p30
+I1
+sVlost
+p31
+I3
+sVcorners
+p32
+I1
+sVmarry
+p33
+I1
+sVmarried
+p34
+I1
+sVpriest
+p35
+I1
+sVnight
+p36
+I1
+sVgrab
+p37
+I3
+sVnigga
+p38
+I1
+sVold
+p39
+I1
+sVspecially
+p40
+I1
+sVporn
+p41
+I3
+sVcomin
+p42
+I1
+sVyeah
+p43
+I1
+sVnun
+p44
+I1
+sVborn
+p45
+I1
+sVsnatched
+p46
+I1
+sVhell
+p47
+I7
+sVlevitate
+p48
+I1
+sVknees
+p49
+I1
+sVwhat
+p50
+I1
+sVsaid
+p51
+I1
+sVhide
+p52
+I1
+sVspace
+p53
+I1
+sVaway
+p54
+I1
+sVreligion
+p55
+I3
+sVwon
+p56
+I1
+sVscrewed
+p57
+I1
+sVgot
+p58
+I3
+sVsweepstakes
+p59
+I1
+sVever
+p60
+I1
+sVtold
+p61
+I1
+sVass
+p62
+I1
+sVrun
+p63
+I1
+sVscreams
+p64
+I1
+sVrolled
+p65
+I1
+sVlights
+p66
+I1
+sVscreen
+p67
+I1
+sVnever
+p68
+I3
+sVbathroom
+p69
+I1
+sVloudest
+p70
+I1
+sVguy
+p71
+I2
+sVwait
+p72
+I1
+sVcop
+p73
+I1
+sVheadin
+p74
+I1
+sVwouldnt
+p75
+I1
+sVgangbang
+p76
+I1
+sVcould
+p77
+I2
+sVforeign
+p78
+I1
+sVturn
+p79
+I2
+sVmansion
+p80
+I1
+sVchain
+p81
+I1
+sVwhole
+p82
+I1
+sVthink
+p83
+I5
+sVthats
+p84
+I2
+sVlove
+p85
+I2
+sVsweet
+p86
+I2
+sVhoneymoon
+p87
+I1
+sVcrib
+p88
+I1
+sVone
+p89
+I2
+sVna
+p90
+I1
+sVbitch
+p91
+I1
+sVfake
+p92
+I1
+sVcouldnt
+p93
+I1
+sVrunaway
+p94
+I1
+sVwan
+p95
+I1
+sVguess
+p96
+I1
+sVdevil
+p97
+I1
+sVsake
+p98
+I1
+sVwest
+p99
+I1
+sVfaint
+p100
+I1
+sVlong
+p101
+I1
+sVlive
+p102
+I4
+sVcamera
+p103
+I1
+sVcall
+p104
+I1
+sVbitter
+p105
+I1
+sVtell
+p106
+I4
+sVlife
+p107
+I8
+sVcremate
+p108
+I1
+sVon
+p109
+I1
+sVdrugs
+p110
+I3
+sVoscar
+p111
+I2
+sVhuh
+p112
+I1
+sVback
+p113
+I1
+sVdowntown
+p114
+I1
+sVhear
+p115
+I1
+sVbaby
+p116
+I3
+sVyard
+p117
+I1
+sVline
+p118
+I3
+sVfly
+p119
+I1
+sVmade
+p120
+I1
+sVdivorced
+p121
+I1
+sVniggas
+p122
+I1
+sVcar
+p123
+I1
+sVinside
+p124
+I1
+sVsay
+p125
+I1
+sVwildest
+p126
+I3
+sVcrossed
+p127
+I3
+sVuh
+p128
+I4
+sVwild
+p129
+I1
+sVta
+p130
+I1
+sValotta
+p131
+I1
+sVcrazy
+p132
+I1
+sVtaste
+p133
+I1
+sVrenta
+p134
+I1
+sVmind
+p135
+I3
+sVfuck
+p136
+I2
+sVshame
+p137
+I1
+sVcant
+p138
+I1
+sVim
+p139
+I1
+sVrent
+p140
+I1
+sVneed
+p141
+I4
+sVdress
+p142
+I2
+sVend
+p143
+I1
+sVthing
+p144
+I1
+sVmaids
+p145
+I1
+sVmake
+p146
+I5
+sVtil
+p147
+I1
+sVrole
+p148
+I1
+sVtake
+p149
+I1
+sVparty
+p150
+I1
+sVroll
+p151
+I1
+sVplay
+p152
+I1
+sVstar
+p153
+I4
+sVprice
+p154
+I1
+sVtrains
+p155
+I1
+sVbrides
+p156
+I1
+sVhand
+p157
+I3
+sVwrong
+p158
+I1
+sVfell
+p159
+I2
+sVanal
+p160
+I1
+sVkinda
+p161
+I1
+sVcoroners
+p162
+I1
+sVgoin
+p163
+I1
+sVconsidered
+p164
+I1
+sVfloor
+p165
+I1
+sVwell
+p166
+I7
+sVnothin
+p167
+I1
+sVslaves
+p168
+I1
+sVteeth
+p169
+I1
+sVcpr
+p170
+I1
+s.

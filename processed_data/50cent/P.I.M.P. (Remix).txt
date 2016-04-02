@@ -1,94 +1,544 @@
-"p.i.m.p. (remix)" lyrics
-50 cent lyrics
-"p.i.m.p. (remix)"
-(feat. snoop dogg)
-yea you did it again my nigga fo shizzle dizzle
-f-i-f-t-y c-e-n-t & s-n-double o-p
-were internationaly known and locally respected
-boy i know you done heard about me
-f-i-f-t-y c-e-n-t & s-n-double o-p
-were internationaly known and locally respected
-boy i know you done heard about me
-im a p.i.m.p
-i dont know what you heard about me
-but a bitch cant get a blood up out of me
-i drive a cadilac wear a perm cuz im a g
-and im a motherfuckin c.r.i.p
-i dont know what you heard about me
-but a bitch cant get a crumb up out of me
-i drive a cadilac wear a perm and im a g
-and im a motherfuckin p.i.m.p
-yo that shit is crazy whoo kid rewind that play that back
-f-i-f-t-y c-e-n-t & s-n-double o-p
-were internationaly known and locally respected
-boy i know you done heard about me
-f-i-f-t-y c-e-n-t & s-n-double o-p
-were internationaly known and locally respected
-boy i know you done heard about me
-im a p.i.m.p
-i dont know what you heard about me
-but a bitch cant get a blood up out of me
-i drive a cadilac wear a perm cuz im a g
-and im a motherfuckin c.r.i.p
-i dont know what you heard about me
-but a bitch cant get a crumb up out of me
-i drive a cadilac wear a perm and im a g
-and im a motherfuckin p.i.m.p
-yea bitch i got my now & later gators on
-im bout to show you how my pimp hand is way strong
-you dead wrong if you think that pimpin gonna die
-12 piece with a 100 whores by my side
-im down with that nigga 50 like im down with blue
-fuck cuz naw nigga motherfuck you
-g-u-n-i-tizzy
-fuckin with me and the d-p-gizzy
-niggas in new york know how doggy get down
-i got my niggas in queens i got my bitches uptown
-i got my bidnez in manhattan i aint fuckin around
-i got some butter pecan puerto ricans from the boogie down
-thats waitin on me to return so they can snatch these braids out and put my shit in a perm word
-they love it when i get to cryptin and spittin this mackin magnificent pimpin
-i dont know what you heard about me
-but a bitch cant get a crumb up out of me
-i drive a cadilac wear a perm and im a g
-cuz im a motherfuckin c.r.i.p
-i dont know what you heard about me
-but a bitch cant get a crumb up out of me
-i drive a cadilac wear a perm cuz im a g
-and im a motherfuckin p.i.m.p
-its g-unit and the d.p.g
-from new york city to the l.b.c
-ill break it down for ya im a p.i.m.p
-when my gun go off nigga ask about me
-nigga look what done happen to the bitch done chose
-my wrist done froze ill show you how i lick dem hoes
-i spit that g that be fuckin with theyre brain
-have em on tha track when its freezin in the rain
-so cream on the bitch with the nerve to complain
-like digidevan you catch a date you be want
-you say you want the finer things in life you got to go out and get it
-and ill be right here waitin when you come down to the kid
-see i was born to break a bitch my instructions a nigga bitch
-i got me a new york knicks,celtics,and a laker bitch
-i got that g that make these hoes have a change of heart
-im a natural ive been good at this from the start
-i dont know what you heard about me
-but a bitch cant get a blood up out of me
-i drive a cadilac wear a perm and im a g
-cuz im a motherfuckin c.r.i.p
-i dont know what you heard about me
-but a bitch cant get a crumb up out of me
-i drive a cadilac wear a perm cuz im a g
-and im a motherfuckin p.i.m.p
-pimpin
-pimpin
-pimpin
-pimpin
-its goin down now wit 50 and big snoop dogg and tha arch bishop don "magic" juan ridin shotgun wit whoo kid tha straight
-up pimp
-its crackalackin its pimps up you know its hoes down
-its green for tha money
-gold for tha honey
-we off and we runnin wit 50 and snoop dogg in tha mackalennium
-keep it down playa
-pimps up you know tha rest chuh
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I2
+sVyea
+p4
+I2
+sVmoney
+p5
+I1
+sVrest
+p6
+I1
+sVfifty
+p7
+I4
+sVbrain
+p8
+I1
+sVbidnez
+p9
+I1
+sVgo
+p10
+I2
+sVfeat
+p11
+I1
+sVfroze
+p12
+I1
+sVaint
+p13
+I1
+sVgold
+p14
+I1
+sVcuz
+p15
+I7
+sVmackalennium
+p16
+I1
+sVpuerto
+p17
+I1
+sVbout
+p18
+I1
+sVnaw
+p19
+I1
+sVrunnin
+p20
+I1
+sVgood
+p21
+I1
+sVreturn
+p22
+I1
+sVaround
+p23
+I1
+sVyo
+p24
+I1
+sVget
+p25
+I11
+sVya
+p26
+I1
+sVbig
+p27
+I1
+sVbreak
+p28
+I2
+sVspittin
+p29
+I1
+sVknow
+p30
+I15
+sVnew
+p31
+I3
+sVword
+p32
+I1
+sVcomplain
+p33
+I1
+sVinstructions
+p34
+I1
+sVmagic
+p35
+I1
+sVlike
+p36
+I2
+sVpimp
+p37
+I11
+sVdie
+p38
+I1
+sV50
+p39
+I4
+sVtheyre
+p40
+I1
+sVdpg
+p41
+I1
+sVwit
+p42
+I3
+sVcadilac
+p43
+I8
+sVside
+p44
+I1
+sVem
+p45
+I1
+sVnigga
+p46
+I6
+sVmagnificent
+p47
+I1
+sVback
+p48
+I1
+sVdead
+p49
+I1
+sVgun
+p50
+I1
+sVborn
+p51
+I1
+sVsee
+p52
+I1
+sVgoin
+p53
+I1
+sVhoes
+p54
+I3
+sVhappen
+p55
+I1
+sVblue
+p56
+I1
+sVgon
+p57
+I1
+sVfreezin
+p58
+I1
+sVboogie
+p59
+I1
+sVthats
+p60
+I1
+sVplaya
+p61
+I1
+sVit
+p62
+I1
+sVgot
+p63
+I8
+sVdoggy
+p64
+I1
+sVchose
+p65
+I1
+sVlaker
+p66
+I1
+sVridin
+p67
+I1
+sVyork
+p68
+I3
+sVput
+p69
+I1
+sV100
+p70
+I1
+sVstrong
+p71
+I1
+sVcome
+p72
+I1
+sVchange
+p73
+I1
+sVon
+p74
+I1
+sVg
+I10
+sVill
+p75
+I3
+sVask
+p76
+I1
+sVcryptin
+p77
+I1
+sVkeep
+p78
+I1
+sVhoney
+p79
+I1
+sVfiner
+p80
+I1
+sVthink
+p81
+I1
+sVfuckin
+p82
+I3
+sVwear
+p83
+I8
+sVnerve
+p84
+I1
+sVlove
+p85
+I1
+sVdont
+p86
+I8
+sVive
+p87
+I1
+sVdown
+p88
+I2
+sVgunit
+p89
+I1
+sVright
+p90
+I1
+sVdone
+p91
+I7
+sVbitch
+p92
+I14
+sVuptown
+p93
+I1
+sVcrip
+p94
+I4
+sVcity
+p95
+I1
+sVsnoop
+p96
+I3
+sVdogg
+p97
+I3
+sVdizzle
+p98
+I1
+sVlocally
+p99
+I4
+sVcent
+p100
+I5
+sVstart
+p101
+I1
+sVwhoo
+p102
+I2
+sVway
+p103
+I1
+sVkid
+p104
+I3
+sVlife
+p105
+I1
+sVknickscelticsand
+p106
+I1
+sVmotherfuck
+p107
+I1
+sVspit
+p108
+I1
+sVboy
+p109
+I4
+sVbitches
+p110
+I1
+sVdigidevan
+p111
+I1
+sVsnatch
+p112
+I1
+sVpecan
+p113
+I1
+sVknown
+p114
+I4
+sVnatural
+p115
+I1
+sVgunitizzy
+p116
+I1
+sVme
+p117
+I21
+sVsndouble
+p118
+I4
+sV12
+p119
+I1
+sVcrumb
+p120
+I5
+sVlook
+p121
+I1
+sVniggas
+p122
+I2
+sVricans
+p123
+I1
+sVstraight
+p124
+I1
+sVinternationaly
+p125
+I4
+sVlbc
+p126
+I1
+sVdem
+p127
+I1
+sVchuh
+p128
+I1
+sVpiece
+p129
+I1
+sVsay
+p130
+I1
+sVcatch
+p131
+I1
+sVheart
+p132
+I1
+sVcrazy
+p133
+I1
+sVlick
+p134
+I1
+sVmackin
+p135
+I1
+sVfuck
+p136
+I1
+sVrespected
+p137
+I4
+sVheard
+p138
+I12
+sVcant
+p139
+I8
+sVim
+p140
+I23
+sVwant
+p141
+I2
+sVbishop
+p142
+I1
+sVshit
+p143
+I2
+sVpimpin
+p144
+I6
+sVdate
+p145
+I1
+sVna
+p146
+I1
+sVmake
+p147
+I1
+sVbraids
+p148
+I1
+sVperm
+p149
+I9
+sVmotherfuckin
+p150
+I8
+sVfo
+p151
+I1
+sVrewind
+p152
+I1
+sVyou
+p153
+I1
+sVcream
+p154
+I1
+sVmanhattan
+p155
+I1
+sVwaitin
+p156
+I2
+sVplay
+p157
+I1
+sVcrackalackin
+p158
+I1
+sVtrack
+p159
+I1
+sVrain
+p160
+I1
+sVhand
+p161
+I1
+sVpimps
+p162
+I2
+sVwrong
+p163
+I1
+sVwrist
+p164
+I1
+sVblood
+p165
+I3
+sVshizzle
+p166
+I1
+sVarch
+p167
+I1
+sVqueens
+p168
+I1
+sVbutter
+p169
+I1
+sVremix
+p170
+I2
+sVwhores
+p171
+I1
+sVshotgun
+p172
+I1
+sVlater
+p173
+I1
+sVdrive
+p174
+I8
+sVgators
+p175
+I1
+sVdpgizzy
+p176
+I1
+sVgreen
+p177
+I1
+sVthings
+p178
+I1
+sVop
+p179
+I4
+sVjuan
+p180
+I1
+sVtha
+p181
+I7
+s.

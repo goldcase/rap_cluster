@@ -1,111 +1,769 @@
-"big dogg status" lyrics
-scarface lyrics
-"big dogg status"
-young face slangin, ya ya ya
-heavyweight, got a bad bitch in every state
-on the grind, nonstop till i touch this cake
-mark ass niggas, stay the fuck up out my way
-i be true o.g., you can quote what i say
-i'm a h-town nigga from around the way
-southside, ridin' dirty like i'm ugk
-asshole by nature like my name was tre
-and i don't gangbang, i control the game
-what i'm representin' here's puttin' holes in brains
-oh, i say the same thing till i'm old and grey
-for i falloff and rap about my clothes and chains
-grippin' grain and poppin' trunks, dawg that ain't me
-these elbows hit the scene back in '83
-i stay street with it, dun asked that
-you can find me in your hood pumpin' monster crack
-i rollover rodents with rims on em
-sniffing out a rat, i expose them and then bend on em
-i lotta bitches but they claiming they o.g.s
-a straight up pussy, he claims he knows me
-see i puttin out these vvdees
-let my shit hit the streets, he got to squat to pee
-got them eggs on these beams, so they watchin' me
-might trap for a rat, pussy watch and see
-i been straight for a long time
-gettin' checks for a long time
-gettin' jake for a long time
-e&j for a long time
-nigga, try to get like me
-been a g, for a long time
-been in the streets, for a long time
-toting heat, for a long time
-nigga, try to get like me
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i came here to exercise my game
-swear love to the hood
-that's how i do my thang
-smoke weed with my hommies
-bar-b-q them wangs
-sip hennisy and coke
-see i don't fuck with drank
-hold out bill ski
-because that shit aint cool
-we just drunk a mad dog before we went to school
-way up back then i was smashing boys
-jump wrong you saw a nigga get his ass destroyed
-same shit right now
-i demand respect
-and if i slap one hoe than a man was next
-i'm kick door robber
-a hot shot driver
-a crack rock slanging mother fucker for a dollar
-if there's shit there to be made
-then i'm finna make it
-but if ther ain't no way
-than i'm believe take it
-cause a nigga with no hustle is his worth is (gay?)
-and a bitch like this is even worse then that
-i'm a fool bullshiting what this game can cost
-and if a nigga cant maintain than man he's lost
-being heard and they fuck nerds in jail i heard
-and as a nigga i come in here with my balls word
-i been straight for a long time
-gettin' checks for a long time
-gettin' jake for a long time
-e&j for a long time
-nigga, try to get like me
-been a g, for a long time
-been in the streets, for a long time
-toting heat, for a long time
-nigga, try to get like me
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-man on second thought the story is about boys
-running round talking bout how they ride these cars
-i was sitting in these benz at the age of 19
-when i was 21 i had a yellow ferrari
-22 i was portioned with a top at back
-23 in a rose with the pipe to match
-24 i wasn't tripping what i came up in
-i was focussing on how to be like james back then
-wonder how respected was the life i chose
-being famous wasn't nothing i just liked my dough
-i was living in the fast lane
-man for sho
-short temper quick to up let this thing unload
-so if i had a problem with ya
-use a blanket no
-shaw the message then you see the nigga's brain exploads
-so if you see a nigga chunk da doose as you see me ride by
-i been straight for a long time
-gettin' checks for a long time
-gettin' jake for a long time
-e&j for a long time
-nigga, try to get like me
-been a g, for a long time
-been in the streets, for a long time
-toting heat, for a long time
-nigga, try to get like me
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
-i got big dogg status, i got big dogg status
+(dp1
+Vugk
+p2
+I1
+sVshot
+p3
+I1
+sVkick
+p4
+I1
+sVlyrics
+p5
+I2
+sVdollar
+p6
+I1
+sVyellow
+p7
+I1
+sVbrain
+p8
+I1
+sVdough
+p9
+I1
+sVtouch
+p10
+I1
+sVfind
+p11
+I1
+sVaint
+p12
+I3
+sVbelieve
+p13
+I1
+sV21
+p14
+I1
+sV22
+p15
+I1
+sV23
+p16
+I1
+sVthang
+p17
+I1
+sVpoppin
+p18
+I1
+sVyoung
+p19
+I1
+sVther
+p20
+I1
+sVdestroyed
+p21
+I1
+sVcrack
+p22
+I2
+sVbout
+p23
+I1
+sVcool
+p24
+I1
+sVmight
+p25
+I1
+sVhennisy
+p26
+I1
+sVgrippin
+p27
+I1
+sVfool
+p28
+I1
+sVthen
+p29
+I1
+sVjake
+p30
+I3
+sVhit
+p31
+I2
+sVaround
+p32
+I1
+sVget
+p33
+I7
+sVya
+p34
+I4
+sVbig
+p35
+I26
+sVblanket
+p36
+I1
+sVwatch
+p37
+I1
+sVda
+p38
+I1
+sVnext
+p39
+I1
+sVgame
+p40
+I3
+sVballs
+p41
+I1
+sVevery
+p42
+I1
+sVsouthside
+p43
+I1
+sVnow
+p44
+I1
+sVputtin
+p45
+I2
+sVlike
+p46
+I10
+sVschool
+p47
+I1
+sVdoose
+p48
+I1
+sVname
+p49
+I1
+sVlost
+p50
+I1
+sVpee
+p51
+I1
+sVgettin
+p52
+I6
+sVtre
+p53
+I1
+sVslanging
+p54
+I1
+sVsniffing
+p55
+I1
+sVbad
+p56
+I1
+sVbeams
+p57
+I1
+sVtrap
+p58
+I1
+sVrock
+p59
+I1
+sVquick
+p60
+I1
+sVwent
+p61
+I1
+sVhustle
+p62
+I1
+sVround
+p63
+I1
+sVclothes
+p64
+I1
+sVem
+p65
+I2
+sVnigga
+p66
+I12
+sVold
+p67
+I1
+sVej
+p68
+I3
+sVchunk
+p69
+I1
+sVstreets
+p70
+I4
+sVback
+p71
+I4
+sVjump
+p72
+I1
+sVheavyweight
+p73
+I1
+sVstreet
+p74
+I1
+sVcant
+p75
+I1
+sV83
+p76
+I1
+sVunload
+p77
+I1
+sVfinna
+p78
+I1
+sVwonder
+p79
+I1
+sVeven
+p80
+I1
+sVtry
+p81
+I6
+sVby
+p82
+I1
+sVlotta
+p83
+I1
+sVheres
+p84
+I1
+sVrims
+p85
+I1
+sVstate
+p86
+I1
+sVwangs
+p87
+I1
+sVuse
+p88
+I1
+sVgot
+p89
+I27
+sVchains
+p90
+I1
+sVchecks
+p91
+I3
+sVexercise
+p92
+I1
+sVwatchin
+p93
+I1
+sVass
+p94
+I2
+sVslangin
+p95
+I1
+sVmonster
+p96
+I1
+sVright
+p97
+I1
+sVnature
+p98
+I1
+sVcars
+p99
+I1
+sVridin
+p100
+I1
+sVtoting
+p101
+I3
+sVvvdees
+p102
+I1
+sVlet
+p103
+I2
+sVtalking
+p104
+I1
+sVweed
+p105
+I1
+sVcome
+p106
+I1
+sVtripping
+p107
+I1
+sVchose
+p108
+I1
+sVg
+I3
+sVoh
+p109
+I1
+sVog
+p110
+I1
+sVrunning
+p111
+I1
+sVtemper
+p112
+I1
+sVthing
+p113
+I2
+sVswear
+p114
+I1
+sVgrain
+p115
+I1
+sVsmoke
+p116
+I1
+sVrose
+p117
+I1
+sVsho
+p118
+I1
+sVasked
+p119
+I1
+sVthats
+p120
+I1
+sVliked
+p121
+I1
+sVlove
+p122
+I1
+sVdont
+p123
+I2
+sVdrunk
+p124
+I1
+sV24
+p125
+I1
+sVpussy
+p126
+I2
+sVsecond
+p127
+I1
+sVsmashing
+p128
+I1
+sVscene
+p129
+I1
+sVone
+p130
+I1
+sVtrunks
+p131
+I1
+sVbitch
+p132
+I2
+sVrespect
+p133
+I1
+sVmessage
+p134
+I1
+sVrollover
+p135
+I1
+sVhood
+p136
+I2
+sVcost
+p137
+I1
+sVstory
+p138
+I1
+sVfast
+p139
+I1
+sVdun
+p140
+I1
+sVhes
+p141
+I1
+sVdogg
+p142
+I26
+sVtop
+p143
+I1
+sVhoe
+p144
+I1
+sVlong
+p145
+I21
+sVmark
+p146
+I1
+sVdrank
+p147
+I1
+sVway
+p148
+I4
+sVbill
+p149
+I1
+sVhommies
+p150
+I1
+sVlife
+p151
+I1
+sVdoor
+p152
+I1
+sVknows
+p153
+I1
+sVgay
+p154
+I1
+sVthat
+p155
+I2
+sVbrains
+p156
+I1
+sVexpose
+p157
+I1
+sVbitches
+p158
+I1
+sVfalloff
+p159
+I1
+sVogs
+p160
+I1
+sVit
+p161
+I2
+sVboys
+p162
+I2
+sVheat
+p163
+I3
+sVshort
+p164
+I1
+sVdemand
+p165
+I1
+sVhold
+p166
+I1
+sVtrue
+p167
+I1
+sVrobber
+p168
+I1
+sVme
+p169
+I9
+sVmade
+p170
+I1
+sVword
+p171
+I1
+sVniggas
+p172
+I2
+sV19
+p173
+I1
+sVski
+p174
+I1
+sVstraight
+p175
+I4
+sVgangbang
+p176
+I1
+sVgrey
+p177
+I1
+sVworth
+p178
+I1
+sVdawg
+p179
+I1
+sVdirty
+p180
+I1
+sVcake
+p181
+I1
+sVim
+p182
+I8
+sVproblem
+p183
+I1
+sVnerds
+p184
+I1
+sVtheres
+p185
+I1
+sVcontrol
+p186
+I1
+sVwasnt
+p187
+I2
+sVfocussing
+p188
+I1
+sVbenz
+p189
+I1
+sVfuck
+p190
+I3
+sVslap
+p191
+I1
+sVrespected
+p192
+I1
+sVheard
+p193
+I2
+sVsay
+p194
+I2
+sVscarface
+p195
+I1
+sVbend
+p196
+I1
+sVrap
+p197
+I1
+sVin
+p198
+I1
+sVface
+p199
+I1
+sVsaw
+p200
+I1
+sVshit
+p201
+I4
+sVworse
+p202
+I1
+sVride
+p203
+I2
+sVpipe
+p204
+I1
+sVsquat
+p205
+I1
+sVportioned
+p206
+I1
+sVshaw
+p207
+I1
+sVjames
+p208
+I1
+sVbullshiting
+p209
+I1
+sVhtown
+p210
+I1
+sVmake
+p211
+I1
+sVsitting
+p212
+I1
+sVclaiming
+p213
+I1
+sVrat
+p214
+I2
+sVmatch
+p215
+I1
+sVtill
+p216
+I2
+sVhot
+p217
+I1
+sVtake
+p218
+I1
+sVrodents
+p219
+I1
+sVpumpin
+p220
+I1
+sVferrari
+p221
+I1
+sVasshole
+p222
+I1
+sVcoke
+p223
+I1
+sVnonstop
+p224
+I1
+sVstatus
+p225
+I26
+sVelbows
+p226
+I1
+sVexploads
+p227
+I1
+sVsee
+p228
+I6
+sVliving
+p229
+I1
+sVquote
+p230
+I1
+sVeggs
+p231
+I1
+sVmother
+p232
+I1
+sVdriver
+p233
+I1
+sVfucker
+p234
+I1
+sVstay
+p235
+I2
+sVwrong
+p236
+I1
+sVsip
+p237
+I1
+sVmad
+p238
+I1
+sVnothing
+p239
+I1
+sVman
+p240
+I4
+sVlane
+p241
+I1
+sVcause
+p242
+I1
+sVfamous
+p243
+I1
+sVage
+p244
+I1
+sVno
+p245
+I1
+sVholes
+p246
+I1
+sVdog
+p247
+I1
+sVgrind
+p248
+I1
+sVthought
+p249
+I1
+sVbarbq
+p250
+I1
+sVmaintain
+p251
+I1
+sVjail
+p252
+I1
+sVrepresentin
+p253
+I1
+sVtime
+p254
+I21
+sVclaims
+p255
+I1
+sVcame
+p256
+I2
+s.

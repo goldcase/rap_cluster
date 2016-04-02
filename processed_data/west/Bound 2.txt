@@ -1,61 +1,457 @@
-bound 2 lyrics
-kanye west lyrics
-bound 2
-feat charlie wilson
-bound fall love
-bound fall love uhhuh honey
-niggas lame know now
-real nigga hold supposed drown
-bound
-bound fall love
-bound fall love uhhuh honey
-club thursday
-say girl birthday
-ordered champagne still look thirsty
-rock forever 21 turned thirty
-know got bad reputation
-walking round always mad reputation
-leave pretty girl sad reputation
-start fight club brad reputation
-turned nightclub basement
-ill turn plane round ass keep complaining
-gon mad vacation
-dutty wining round jamaicans
-uh prom shit
-dont tell mom shit
-red cup lawn shit
-got fresh cut straight salon bitch
-know youre tired loving loving
-nobody love nobody nobody uhhuh honey
-close eyes let word paint thousand pictures
-one good girl worth thousand bitches
-bound
-bound fall love
-bound fall love uhhuh honey
-wanna fuck hard sink
-give something drink
-step back cant get spunk mink
-mean damn would jeromey romey romey rome think
-hey remember first met
-okay dont remember first met
-hey admitting first step
-hey know aint nobody perfect
-know hoes got worst rep
-hey backstroke im tryna perfect
-hey ayo made thanksgiving
-hey maybe make christmas
-asked wished wishlist
-ever asked bitch bitches
-maybe could still make church steps
-first gon remember forget
-longass verses
-im tired tired jesus wept
-know youre tired loving loving
-nobody love nobody nobody
-grab somebody leaving party
-nobody love nobody nobody uhhuh honey
-jeromes house watch mouth
-jeromes house watch mouth
-bound
-bound fall love
-bound fall love uhhuh honey
+(dp1
+Vwalking
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVfall
+p5
+I8
+sVsalon
+p6
+I1
+sVverses
+p7
+I1
+sVkanye
+p8
+I1
+sVstill
+p9
+I2
+sVfeat
+p10
+I1
+sVaint
+p11
+I1
+sVcut
+p12
+I1
+sV21
+p13
+I1
+sVcup
+p14
+I1
+sVthursday
+p15
+I1
+sVpretty
+p16
+I1
+sVjeromes
+p17
+I2
+sVworth
+p18
+I1
+sVlongass
+p19
+I1
+sVreal
+p20
+I1
+sVgood
+p21
+I1
+sVwished
+p22
+I1
+sVget
+p23
+I1
+sVwatch
+p24
+I2
+sVadmitting
+p25
+I1
+sVworst
+p26
+I1
+sVknow
+p27
+I6
+sVmom
+p28
+I1
+sVbasement
+p29
+I1
+sVnow
+p30
+I1
+sValways
+p31
+I1
+sVleave
+p32
+I1
+sVbad
+p33
+I1
+sVsteps
+p34
+I1
+sVrock
+p35
+I1
+sVgrab
+p36
+I1
+sVround
+p37
+I3
+sVmean
+p38
+I1
+sVnigga
+p39
+I1
+sVtired
+p40
+I4
+sVhouse
+p41
+I2
+sVhard
+p42
+I1
+sVback
+p43
+I1
+sVhoes
+p44
+I1
+sVclose
+p45
+I1
+sVgirl
+p46
+I3
+sVjesus
+p47
+I1
+sVgon
+p48
+I2
+sVpictures
+p49
+I1
+sVrep
+p50
+I1
+sVprom
+p51
+I1
+sVgot
+p52
+I3
+sVchampagne
+p53
+I1
+sVever
+p54
+I1
+sVchristmas
+p55
+I1
+sVred
+p56
+I1
+sVsupposed
+p57
+I1
+sVass
+p58
+I1
+sVperfect
+p59
+I2
+sVmet
+p60
+I2
+sVstep
+p61
+I2
+sVlet
+p62
+I1
+sVsink
+p63
+I1
+sVwept
+p64
+I1
+sVthirty
+p65
+I1
+sVill
+p66
+I1
+sVdutty
+p67
+I1
+sVkeep
+p68
+I1
+sVturn
+p69
+I1
+sVbirthday
+p70
+I1
+sVbrad
+p71
+I1
+sVthink
+p72
+I1
+sVfirst
+p73
+I4
+sVlove
+p74
+I11
+sVdont
+p75
+I2
+sVbound
+p76
+I13
+sVjamaicans
+p77
+I1
+sVone
+p78
+I1
+sVbitch
+p79
+I2
+sVchurch
+p80
+I1
+sVuhhuh
+p81
+I6
+sVwan
+p82
+I1
+sVayo
+p83
+I1
+sVwould
+p84
+I1
+sVpaint
+p85
+I1
+sVwest
+p86
+I1
+sVvacation
+p87
+I1
+sVfight
+p88
+I1
+sVstart
+p89
+I1
+sV2
+I2
+sVdamn
+p90
+I1
+sVtell
+p91
+I1
+sVloving
+p92
+I4
+sVtryna
+p93
+I1
+sVeyes
+p94
+I1
+sVjeromey
+p95
+I1
+sVclub
+p96
+I2
+sVthousand
+p97
+I2
+sVnobody
+p98
+I10
+sVforever
+p99
+I1
+sVdrown
+p100
+I1
+sVhold
+p101
+I1
+sVwishlist
+p102
+I1
+sVmade
+p103
+I1
+sVword
+p104
+I1
+sVlook
+p105
+I1
+sVniggas
+p106
+I1
+sVstraight
+p107
+I1
+sVcant
+p108
+I1
+sVuh
+p109
+I1
+sVmaybe
+p110
+I2
+sVcould
+p111
+I1
+sVwining
+p112
+I1
+sVmink
+p113
+I1
+sVordered
+p114
+I1
+sVthirsty
+p115
+I1
+sVgive
+p116
+I1
+sVturned
+p117
+I2
+sVfuck
+p118
+I1
+sVsad
+p119
+I1
+sVhoney
+p120
+I6
+sVsay
+p121
+I1
+sVim
+p122
+I2
+sVsomething
+p123
+I1
+sVsomebody
+p124
+I1
+sVnightclub
+p125
+I1
+sVshit
+p126
+I3
+sVwilson
+p127
+I1
+sVlame
+p128
+I1
+sVcomplaining
+p129
+I1
+sVna
+p130
+I1
+sVmake
+p131
+I2
+sVbackstroke
+p132
+I1
+sVrome
+p133
+I1
+sVparty
+p134
+I1
+sVbitches
+p135
+I2
+sVokay
+p136
+I1
+sVhey
+p137
+I6
+sVdrink
+p138
+I1
+sVspunk
+p139
+I1
+sVleaving
+p140
+I1
+sVplane
+p141
+I1
+sVmouth
+p142
+I2
+sVmad
+p143
+I2
+sVromey
+p144
+I2
+sVlawn
+p145
+I1
+sVremember
+p146
+I3
+sVcharlie
+p147
+I1
+sVyoure
+p148
+I2
+sVthanksgiving
+p149
+I1
+sVasked
+p150
+I2
+sVreputation
+p151
+I4
+sVfresh
+p152
+I1
+s.

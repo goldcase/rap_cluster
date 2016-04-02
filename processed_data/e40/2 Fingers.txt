@@ -1,106 +1,498 @@
-"2 fingers" lyrics
-e-40 lyrics
-"2 fingers"
-(feat. adrian marcel)
-this the business
-you used to be sweet as honey, used to be my honey
-but switched up when my money started getting funny
-got ya partners all in your ear now your beer is beer
-used to throw up toast up cheers now its nothing but tears
-you bad as fuck with a big ol butt but your attitude fucked up
-guess all them likes on your selfies bitch got ya mind all fucked up
-you know me, all my life i been real, never phony
-gou gon' fuck around and make me fuck one of your homies
-biatch!
-you got me fucked up
-what part of you will say fuck love
-cause you be on that fuck stuff
-and i'm tired of your shit
-it's never love at first sight
-it was only lust on the first night
-should've known then you wouldn't be right
-but i had to give you a try
-how was i supposed to know
-that you were gonna tell me i was lousy
-you had me in the dirt
-while you look me in my face i
-me and you alone
-even though i'm trying to hide inside
-damn it really hurts
-my heart to keep your place
-i'm giving you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-one's for the pain, all the drama, the trouble
-2's for the tears that i cry when i loved you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-tears in a bucket
-cause fuck it we over
-always remember that i really loved you
-oh yeah
-then you turn around and play me
-talk this shit
-oh really?
-still i was that one that held you down
-gave you my heart
-you said my heart wasn't much
-girl i never ran the game on you
-cause i was too in love with
-how?
-how i'm supposed to know?
-that you were gonna tell me i was lousy?
-dragged me in the dirt
-still look me in my face, i
-me and you alone
-even though i try to hide inside
-damn it really hurts
-some things you can't replace
-i'm giving you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-ones for the pain all the drama, the trouble
-2'sd for the tears i cried when i loved you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-tears in a bucket girl, fuck it we over
-always remember that i really loved you
-you played with my heart you tempted to wipe your feet on
-get out of my life get gone bitch for i slap you with this phone bitch
-pack your bags and tear up out the soil i don't want your ungrateful ass no more
-all these bitches i coulda had bitch i was faithful to your ass
-showed you the other side of the game took you from state to state
-200 a plate, lobster and srhimp scampi and a hot steak
-before me you wouldn't know nothing about a quirksih field
-just recently i was considering getting down on one knee
-but now?
-how i'm supposed to know?
-that you were gonna tell me i was lousy?
-dragged me in the dirt
-still look me in my face, i
-me and you alone
-even though i try to hide inside
-damn it really hurts
-some things you can't replace
-i'm giving you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-ones for the pain all the drama, the trouble
-2's for the tears i cried when i loved you
-2 fingers girl
-2 fingers girl
-2 fingers girl
-move on
-tears in a bucket girl, fuck it we over
-always remember that i really loved you
-807
+(dp1
+Vnow
+p2
+I1
+sVlyrics
+p3
+I2
+sVswitched
+p4
+I1
+sV2sd
+p5
+I1
+sVmoney
+p6
+I1
+sVover
+p7
+I3
+sVbutt
+p8
+I1
+sVheld
+p9
+I1
+sVattitude
+p10
+I1
+sVtempted
+p11
+I1
+sVstill
+p12
+I3
+sVfeat
+p13
+I1
+sVtoast
+p14
+I1
+sVpartners
+p15
+I1
+sVear
+p16
+I1
+sVcried
+p17
+I2
+sVfield
+p18
+I1
+sVmuch
+p19
+I1
+sVtears
+p20
+I7
+sVhomies
+p21
+I1
+sVgave
+p22
+I1
+sVreal
+p23
+I1
+sVplate
+p24
+I1
+sVmove
+p25
+I6
+sVaround
+p26
+I2
+sVloved
+p27
+I6
+sVya
+p28
+I2
+sVbig
+p29
+I1
+sVselfies
+p30
+I1
+sVgame
+p31
+I2
+sVones
+p32
+I3
+sVknow
+p33
+I5
+sVtrouble
+p34
+I3
+sVreplace
+p35
+I2
+sVwipe
+p36
+I1
+sVfeet
+p37
+I1
+sV2s
+p38
+I2
+sVtear
+p39
+I1
+sValways
+p40
+I3
+sVcry
+p41
+I1
+sVtry
+p42
+I3
+sVbad
+p43
+I1
+sVstuff
+p44
+I1
+sVnight
+p45
+I1
+sVsteak
+p46
+I1
+sVside
+p47
+I1
+sVbitch
+p48
+I4
+sVright
+p49
+I1
+sVtired
+p50
+I1
+sVyeah
+p51
+I1
+sVlobster
+p52
+I1
+sVsight
+p53
+I1
+sVgirl
+p54
+I21
+sVreally
+p55
+I7
+sVeven
+p56
+I3
+sVgon
+p57
+I4
+sVhide
+p58
+I3
+sVgiving
+p59
+I3
+sVfingers
+p60
+I20
+sVstate
+p61
+I2
+sVgou
+p62
+I1
+sVgot
+p63
+I3
+sVcause
+p64
+I3
+sVscampi
+p65
+I1
+sVass
+p66
+I2
+sVrecently
+p67
+I1
+sVbusiness
+p68
+I1
+sVdirt
+p69
+I3
+sVnever
+p70
+I3
+sVhurts
+p71
+I3
+sValone
+p72
+I3
+sVthrow
+p73
+I1
+sVon
+p74
+I7
+sVol
+p75
+I1
+sVwouldnt
+p76
+I2
+sVgetting
+p77
+I2
+sVcoulda
+p78
+I1
+sVkeep
+p79
+I1
+sVdrama
+p80
+I3
+sVlousy
+p81
+I3
+sVplace
+p82
+I1
+sVadrian
+p83
+I1
+sVfirst
+p84
+I2
+sVlove
+p85
+I3
+sVdont
+p86
+I1
+sVgone
+p87
+I1
+sVsweet
+p88
+I1
+sVone
+p89
+I3
+sVdown
+p90
+I1
+sVnothing
+p91
+I2
+sVlikes
+p92
+I1
+sVconsidering
+p93
+I1
+sVguess
+p94
+I1
+sVplayed
+p95
+I1
+sVran
+p96
+I1
+sVbeer
+p97
+I2
+sV2
+I20
+sVdamn
+p98
+I3
+sVtell
+p99
+I3
+sVmore
+p100
+I1
+sVlife
+p101
+I2
+sVstarted
+p102
+I1
+sVbitches
+p103
+I1
+sVphony
+p104
+I1
+sVcant
+p105
+I2
+sVphone
+p106
+I1
+sVpart
+p107
+I1
+sVslap
+p108
+I1
+sVbiatch
+p109
+I1
+sVknown
+p110
+I1
+sVtrying
+p111
+I1
+sVwith
+p112
+I1
+sVme
+p113
+I1
+sVlust
+p114
+I1
+sVe40
+p115
+I1
+sVlook
+p116
+I3
+sVshowed
+p117
+I1
+sVinside
+p118
+I3
+sVoh
+p119
+I2
+sVbucket
+p120
+I3
+sVup
+p121
+I3
+sVsupposed
+p122
+I3
+sVpack
+p123
+I1
+sVheart
+p124
+I4
+sVgive
+p125
+I1
+sVwasnt
+p126
+I1
+sVsoil
+p127
+I1
+sVmind
+p128
+I1
+sVfuck
+p129
+I8
+sVmarcel
+p130
+I1
+sVhoney
+p131
+I2
+sVsay
+p132
+I1
+sVim
+p133
+I7
+sVwant
+p134
+I1
+sVshit
+p135
+I2
+sVfunny
+p136
+I1
+sVfaithful
+p137
+I1
+sVturn
+p138
+I1
+sVna
+p139
+I3
+sVmake
+p140
+I1
+sVget
+p141
+I2
+sVhow
+p142
+I1
+sVhot
+p143
+I1
+sVyou
+p144
+I10
+sVquirksih
+p145
+I1
+sV200
+p146
+I1
+sVplay
+p147
+I1
+sVused
+p148
+I3
+sVpain
+p149
+I3
+sVbags
+p150
+I1
+sVthough
+p151
+I3
+sVshouldve
+p152
+I1
+sVtook
+p153
+I1
+sVcheers
+p154
+I1
+sVsaid
+p155
+I1
+sVfucked
+p156
+I3
+sVknee
+p157
+I1
+sVremember
+p158
+I3
+sVi
+I3
+sVsrhimp
+p159
+I1
+sVface
+p160
+I3
+sVthings
+p161
+I2
+sV807
+p162
+I1
+sVdragged
+p163
+I2
+sVtalk
+p164
+I1
+sVungrateful
+p165
+I1
+s.

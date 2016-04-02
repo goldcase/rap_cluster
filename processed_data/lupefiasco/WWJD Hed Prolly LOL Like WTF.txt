@@ -1,89 +1,784 @@
-"wwjd he'd prolly lol like wtf!!!" lyrics
-lupe fiasco lyrics
-"wwjd he'd prolly lol like wtf!!!"
-really? this is what you guys been doing?
-searching
-before the break there were none
-and as it broke there was one
-from moon to sun, it goes on and on
-the winter battle was won, the summer children were born
-and so the story goes on and on
-come on woman in your left beats
-those in bed with the house keys
-so fair weather feels heartbreak from here to eternity
-come on woman in your wrong time
-far far far from the virgin pine
-rise on now from the dead leaves
-come back to me
-oh, she sings her favorite song
-left to her tears and dreams, it goes on
-standing in line for the new one
-not the black, but the blue one
-and i don't even know what it do, son
-steve jobs said that it's too fun
-fun in a bun is what i need
-it's cold out here, put my arms in the sleeves
-i'll probably lose my place if i leave
-but i really need to pee
-if i do it right here they'll see
-makes you wonder, how do snipers
-marathon bikers
-next time: diapers
-they say it has all new features
-faster processors and much better speakers
-great for kids, a necessity for teachers
-for work or home, a revolutionary way of being alone
-i mean, should we really get a loan?
-hey what's the manager's... tell it to your phone
-cupertino heart with chinese parts
-built by the poor, but designed by the smart
-they open the door so you go
-on your mark, get ready, set, bye
-imagine a world where everything starts with an i
-but it still ends with a die
-probably got an app for that, you could try
-brother iclouds, right into the great wifi
-siri, can igod really hear me?
-"does not compute - can you repeat more clearly? "
-"woaaaaah"
-a vessel in the bloodline
-a thirteenth zodiac sign
-a stitch in time, it goes on and on
-standing in line for some new ones
-had a bunch of blessings but i blew them
-asked google how to use them
-sent me to a section about used guns
-new runs, nuns'll scream, moms with jeans
-match their teens' jeans and genies who try to chew gum
-aw man, it's so confusing
-confusion in the bun is what i have
-good thing that god accepts cash
-maybe buy my way out his wrath
-sceptically, why am i way off this path?
-atheism's cheaper, and accepts visa
-my thoughts is in queing up for sneakers
-won't discriminate, getting all eight
-in every color that they make
-beaverton hearts with chinese parts
-built by the poor and designed by the smart
-on your mark, get set, cop em!
-imagine a life that revolves around shopping
-conspicuous consumption
-that means it serves no other function
-but to show off to someone
-others who only try to show off to you - look at your fellow loyal customers
-isn't harmony great?
-look at all these friends that marketing makes
-how many fries can these arteries take?
-i'll give mcdonald's a little help here
-i think they should expand into health care
-and then you'll have all ends covered
-even make caskets, have it all umbrella'd
-can you make a corporation fear me?
-"couldn't hear your order, can you speak less clearly? "
-that witch was burning the ground
-will someday come back around
-from dust from to dust it goes on and on
-before daybreak there were none
-and as it broke there was one
-and still the story goes on and on
+(dp1
+Vcupertino
+p2
+I1
+sVsummer
+p3
+I1
+sVset
+p4
+I2
+sVhelp
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I2
+sVrevolves
+p8
+I1
+sVsent
+p9
+I1
+sVsteve
+p10
+I1
+sVisnt
+p11
+I1
+sVgoogle
+p12
+I1
+sVbattle
+p13
+I1
+sVmanagers
+p14
+I1
+sVcold
+p15
+I1
+sVstill
+p16
+I2
+sVchildren
+p17
+I1
+sVfeatures
+p18
+I1
+sVarteries
+p19
+I1
+sVchinese
+p20
+I2
+sVchew
+p21
+I1
+sVless
+p22
+I1
+sVbuilt
+p23
+I2
+sVbetter
+p24
+I1
+sVtears
+p25
+I1
+sVparts
+p26
+I2
+sVblack
+p27
+I1
+sVsceptically
+p28
+I1
+sVcash
+p29
+I1
+sVsneakers
+p30
+I1
+sVbye
+p31
+I1
+sVhealth
+p32
+I1
+sVapp
+p33
+I1
+sVsmart
+p34
+I2
+sVtake
+p35
+I1
+sVthem
+p36
+I2
+sVwoman
+p37
+I2
+sVaround
+p38
+I2
+sVsong
+p39
+I1
+sVfar
+p40
+I3
+sVcould
+p41
+I1
+sVrise
+p42
+I1
+sVcheaper
+p43
+I1
+sVbreak
+p44
+I1
+sVfeels
+p45
+I1
+sVones
+p46
+I1
+sVevery
+p47
+I1
+sVknow
+p48
+I1
+sVnew
+p49
+I4
+sVworld
+p50
+I1
+sVson
+p51
+I1
+sVdreams
+p52
+I1
+sVqueing
+p53
+I1
+sVwont
+p54
+I1
+sVruns
+p55
+I1
+sVlike
+p56
+I2
+sVconspicuous
+p57
+I1
+sVdie
+p58
+I1
+sVbloodline
+p59
+I1
+sVbrother
+p60
+I1
+sVgum
+p61
+I1
+sVleave
+p62
+I1
+sVsomeone
+p63
+I1
+sVlose
+p64
+I1
+sVvessel
+p65
+I1
+sVmean
+p66
+I1
+sVem
+p67
+I1
+sVpoor
+p68
+I2
+sVblew
+p69
+I1
+sVright
+p70
+I2
+sVfair
+p71
+I1
+sVdoing
+p72
+I1
+sVhouse
+p73
+I1
+sVthirteenth
+p74
+I1
+sVsearching
+p75
+I1
+sVdead
+p76
+I1
+sVsign
+p77
+I1
+sVborn
+p78
+I1
+sVsee
+p79
+I1
+sVused
+p80
+I1
+sVserves
+p81
+I1
+sVgo
+p82
+I1
+sVhome
+p83
+I1
+sVlittle
+p84
+I1
+sVmcdonalds
+p85
+I1
+sVreally
+p86
+I4
+sVblue
+p87
+I1
+sVbikers
+p88
+I1
+sVsaid
+p89
+I1
+sVprolly
+p90
+I2
+sVstitch
+p91
+I1
+sVsun
+p92
+I1
+sVsection
+p93
+I1
+sVuse
+p94
+I1
+sVmoon
+p95
+I1
+sVeverything
+p96
+I1
+sVwon
+p97
+I1
+sVwwjd
+p98
+I2
+sVgoes
+p99
+I6
+sVconfusion
+p100
+I1
+sVpee
+p101
+I1
+sVteens
+p102
+I1
+sVbunch
+p103
+I1
+sVyoull
+p104
+I1
+sVguns
+p105
+I1
+sVends
+p106
+I2
+sVjobs
+p107
+I1
+sVgod
+p108
+I1
+sVlupe
+p109
+I1
+sVgot
+p110
+I1
+sVmarketing
+p111
+I1
+sVdiapers
+p112
+I1
+sVhere
+p113
+I1
+sVmany
+p114
+I1
+sVwitch
+p115
+I1
+sVwtf
+p116
+I2
+sVimagine
+p117
+I2
+sVput
+p118
+I1
+sVpath
+p119
+I1
+sVbeaverton
+p120
+I1
+sVcome
+p121
+I4
+sVcare
+p122
+I1
+sVrevolutionary
+p123
+I1
+sVon
+p124
+I6
+sVgreat
+p125
+I3
+sVkids
+p126
+I1
+sVoh
+p127
+I1
+sVsomeday
+p128
+I1
+sVstarts
+p129
+I1
+sVleaves
+p130
+I1
+sVfavorite
+p131
+I1
+sVthing
+p132
+I1
+sVfear
+p133
+I1
+sVblessings
+p134
+I1
+sVplace
+p135
+I1
+sVexpand
+p136
+I1
+sVground
+p137
+I1
+sVmakes
+p138
+I2
+sVasked
+p139
+I1
+sVmatch
+p140
+I1
+sVdaybreak
+p141
+I1
+sVwhats
+p142
+I1
+sVdont
+p143
+I1
+sVburning
+p144
+I1
+sVgenies
+p145
+I1
+sVcolor
+p146
+I1
+sVumbrellad
+p147
+I1
+sVloan
+p148
+I1
+sVsiri
+p149
+I1
+sVjeans
+p150
+I2
+sVone
+p151
+I4
+sVorder
+p152
+I1
+sValone
+p153
+I1
+sVweather
+p154
+I1
+sVhear
+p155
+I2
+sVcouldnt
+p156
+I1
+sVmark
+p157
+I2
+sVopen
+p158
+I1
+sVspeak
+p159
+I1
+sVstanding
+p160
+I2
+sVstory
+p161
+I2
+sVcaskets
+p162
+I1
+sVwrath
+p163
+I1
+sVconsumption
+p164
+I1
+sVfriends
+p165
+I1
+sVarms
+p166
+I1
+sVlol
+p167
+I2
+sVnext
+p168
+I1
+sVhed
+p169
+I2
+sVvirgin
+p170
+I1
+sVmuch
+p171
+I1
+sVthoughts
+p172
+I1
+sVway
+p173
+I3
+sVmeans
+p174
+I1
+sVman
+p175
+I1
+sVnunsll
+p176
+I1
+sVtell
+p177
+I1
+sVfunction
+p178
+I1
+sVlife
+p179
+I1
+sVbuy
+p180
+I1
+sVdoor
+p181
+I1
+sVcop
+p182
+I1
+sVgetting
+p183
+I1
+sVback
+p184
+I2
+sVphone
+p185
+I1
+sVbun
+p186
+I2
+sVbroke
+p187
+I2
+sVcovered
+p188
+I1
+sVprobably
+p189
+I2
+sVline
+p190
+I2
+sVme
+p191
+I3
+sVnone
+p192
+I2
+sVconfusing
+p193
+I1
+sVcompute
+p194
+I1
+sVlook
+p195
+I2
+sVigod
+p196
+I1
+sVwork
+p197
+I1
+sVfries
+p198
+I1
+sVsay
+p199
+I1
+sVbed
+p200
+I1
+sVteachers
+p201
+I1
+sViclouds
+p202
+I1
+sVmaybe
+p203
+I1
+sVfun
+p204
+I2
+sVzodiac
+p205
+I1
+sVill
+p206
+I2
+sVheart
+p207
+I1
+sVhave
+p208
+I1
+sVgive
+p209
+I1
+sVaccepts
+p210
+I2
+sVcustomers
+p211
+I1
+sVfellow
+p212
+I1
+sVready
+p213
+I1
+sVbeats
+p214
+I1
+sVgood
+p215
+I1
+sVaw
+p216
+I1
+sVneed
+p217
+I2
+sVshopping
+p218
+I1
+sVclearly
+p219
+I2
+sVmarathon
+p220
+I1
+sVsings
+p221
+I1
+sVspeakers
+p222
+I1
+sVtheyll
+p223
+I1
+sVwinter
+p224
+I1
+sVcorporation
+p225
+I1
+sVmake
+p226
+I3
+sVget
+p227
+I3
+sVpine
+p228
+I1
+sVwoaaaaah
+p229
+I1
+sVheartbreak
+p230
+I1
+sVharmony
+p231
+I1
+sVwonder
+p232
+I1
+sVeternity
+p233
+I1
+sVeven
+p234
+I2
+sVrepeat
+p235
+I1
+sVhey
+p236
+I1
+sVkeys
+p237
+I1
+sVfiasco
+p238
+I1
+sVwrong
+p239
+I1
+sVvisa
+p240
+I1
+sVeight
+p241
+I1
+sVdesigned
+p242
+I2
+sVnecessity
+p243
+I1
+sVhearts
+p244
+I1
+sVdust
+p245
+I2
+sVdiscriminate
+p246
+I1
+sVguys
+p247
+I1
+sVatheisms
+p248
+I1
+sVprocessors
+p249
+I1
+sVfaster
+p250
+I1
+sVmoms
+p251
+I1
+sVi
+I1
+sVtry
+p252
+I3
+sVwifi
+p253
+I1
+sVsnipers
+p254
+I1
+sVthink
+p255
+I1
+sVloyal
+p256
+I1
+sVtime
+p257
+I3
+sVsleeves
+p258
+I1
+sVscream
+p259
+I1
+sVothers
+p260
+I1
+sVleft
+p261
+I2
+s.

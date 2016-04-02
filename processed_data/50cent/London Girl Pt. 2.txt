@@ -1,68 +1,379 @@
-"london girl pt. 2" lyrics
-50 cent lyrics
-"london girl pt. 2"
-{damn!}
-uh!
-yeah!
-50!
-part 2!  {bring it back!}
-uh!
-yeah! {can't forget tony!}
-50! {uk!}
-part 2! {dirt t!}
-she so-so distipated,
-i think she underrated!
-she happy that i made it
-from the us back to the uk!
-she's my london girl!
-my-my-my london giiirl!
-she-she's my london giirl!
-my-my-my london giiirl!
-she-she's suck me 'til i came, then she suck me more
-she sucked me with a condome, then she suck me raw!
-she a freak, my-my gun thing girl
-it's not another bitch like her in the whole wide world!
-hey tony! (what, bruh?) i think i'm in love!
-this bitch licked all over my ass-crack, huh?
-from the window she went to the waaall
-from the tip of the dick - to the baaaall
-i mean freaky shit, she do it aaall
-went from red two, to pay to upon!
-i told her lil' kim said it: "take it in the pot!"
-i done! - she did it, she's a badass squad!
-she-she's my london girl!
-my-my-my london giiirl!
-she-she's my london giirl!
-my-my-my london giiirl!
-she-she's my london girl!
-my-my-my london giiirl!
-she-she's my london giirl!
-my-my-my london giiirl!  {whoooooooooooooooooooo kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiid!}
-i left her on my bed, she was masterbatin'
-she told me, give it to her quit procrastinatin'.
-she's just like me, this is fascinatin'
-she's a freak, i'm a freak, isn't this quite unique?
-we'll be fuckin' for an hour, cuff her to the bed
-i'm not a cop! - i'm an outlaw, billy the kid!
-role-play all day! - staircase, hallway! - rooftop
-s-e-x non-stop!
-see the sceneary! - same postition
-my ghetto kama sutra's i'll, now listen!
-she flexiable! - i make her do yoga, (yoga!)
-twice-a-day i'm bendin' her over. (over)
-she-she's my london girl!
-my-my-my london giiirl!
-she-she's my london giirl!
-my-my-my london giiirl!
-she-she's my london girl! ( whoo! whatta fuck?)
-my-my-my london giiirl!
-she-she's my london giirl!
-my-my-my london giiirl!
-i just came from the usa
-now i'm back in the uk!
-i just came from the usa,
-now i'm back in the uk! (heeey!)
-(she-she's my london giiiirl!)
-i make it look easy, man!
-damn! (she-she's my london giiiirl!)
-(my-my-my london giiirl!)
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVbring
+p4
+I1
+sVisnt
+p5
+I1
+sVlondon
+p6
+I25
+sVmasterbatin
+p7
+I1
+sVrooftop
+p8
+I1
+sVbendin
+p9
+I1
+sVdick
+p10
+I1
+sVwindow
+p11
+I1
+sVsquad
+p12
+I1
+sVeasy
+p13
+I1
+sVghetto
+p14
+I1
+sVworld
+p15
+I1
+sVunique
+p16
+I1
+sVday
+p17
+I1
+sVsucked
+p18
+I1
+sVbaaaall
+p19
+I1
+sVlike
+p20
+I2
+sVgun
+p21
+I1
+sVbilly
+p22
+I1
+sVnonstop
+p23
+I1
+sVwhoooooooooooooooooooo
+p24
+I1
+sVwent
+p25
+I2
+sVmean
+p26
+I1
+sVback
+p27
+I4
+sV50
+p28
+I3
+sVtony
+p29
+I2
+sVsee
+p30
+I1
+sVshes
+p31
+I4
+sVgirl
+p32
+I8
+sVsaid
+p33
+I1
+sVgiirl
+p34
+I5
+sVsheshes
+p35
+I12
+sVwaaall
+p36
+I1
+sVcuff
+p37
+I1
+sVsceneary
+p38
+I1
+sVfreaky
+p39
+I1
+sVred
+p40
+I1
+sVtold
+p41
+I2
+sVkama
+p42
+I1
+sVdirt
+p43
+I1
+sVwhoo
+p44
+I1
+sVquite
+p45
+I1
+sVfuck
+p46
+I1
+sVcop
+p47
+I1
+sVusa
+p48
+I2
+sVill
+p49
+I1
+sVthing
+p50
+I1
+sVlicked
+p51
+I1
+sVwhatta
+p52
+I1
+sVmymy
+p53
+I1
+sVwhole
+p54
+I1
+sVthink
+p55
+I2
+sVfuckin
+p56
+I1
+sVlove
+p57
+I1
+sVdistipated
+p58
+I1
+sVpot
+p59
+I1
+sVtwo
+p60
+I1
+sVgiiirl
+p61
+I11
+sVdone
+p62
+I1
+sVbitch
+p63
+I2
+sVanother
+p64
+I1
+sVsoso
+p65
+I1
+sVflexiable
+p66
+I1
+sVsuck
+p67
+I3
+sVquit
+p68
+I1
+sVpt
+p69
+I2
+sVkiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiid
+p70
+I1
+sVgiiiirl
+p71
+I2
+sVhey
+p72
+I1
+sVcent
+p73
+I1
+sV2
+I4
+sVdamn
+p74
+I2
+sVbruh
+p75
+I1
+sVtwiceaday
+p76
+I1
+sVman
+p77
+I1
+sVhappy
+p78
+I1
+sVhuh
+p79
+I1
+sVyeah
+p80
+I2
+sVpart
+p81
+I2
+sVsex
+p82
+I1
+sVsutras
+p83
+I1
+sVwide
+p84
+I1
+sVaaall
+p85
+I1
+sVmade
+p86
+I1
+sVlook
+p87
+I1
+sVhour
+p88
+I1
+sVoutlaw
+p89
+I1
+sVbed
+p90
+I2
+sVmymymy
+p91
+I11
+sVuh
+p92
+I2
+sVuk
+p93
+I4
+sVlisten
+p94
+I1
+sVheeey
+p95
+I1
+sVfreak
+p96
+I3
+sVgive
+p97
+I1
+sVit
+p98
+I1
+sVraw
+p99
+I1
+sVcant
+p100
+I1
+sVim
+p101
+I7
+sVshit
+p102
+I1
+sVyoga
+p103
+I2
+sVus
+p104
+I1
+sVlil
+p105
+I1
+sVpay
+p106
+I1
+sVmake
+p107
+I2
+sVtip
+p108
+I1
+sVcondome
+p109
+I1
+sVtil
+p110
+I1
+sVprocrastinatin
+p111
+I1
+sVtake
+p112
+I1
+sVroleplay
+p113
+I1
+sVhallway
+p114
+I1
+sVfascinatin
+p115
+I1
+sVstaircase
+p116
+I1
+sVpostition
+p117
+I1
+sVupon
+p118
+I1
+sVkim
+p119
+I1
+sVbadass
+p120
+I1
+sVkid
+p121
+I1
+sVasscrack
+p122
+I1
+sVwell
+p123
+I1
+sVunderrated
+p124
+I1
+sVcame
+p125
+I3
+sVleft
+p126
+I1
+s.

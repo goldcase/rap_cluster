@@ -1,44 +1,392 @@
-"when i pop the trunk" lyrics
-50 cent lyrics
-"when i pop the trunk"
-(feat. kidd kidd)
-nigga no wait, no time box, no funeral
-just 9 shots, take top 5, plus big 4
-you got 50, i love war
-who wanna box, with my ox, they wanna dump him
-i wanna dump him
-it's click clack pop pop when i pop the trunk
-it's click clack pop pop when i pop the trunk
-think i got him, 10 shots, follow the trail of the blood drops
-fuck the police, better talk to allah arc
-nigga you bleeding bad, damn, you bleeding bad
-your rolex soaked, like the cortex in your neck
-it's gonna get dark
-where's the cops when you fucking need them?
-that blood feeling your lungs boy i see you weezing
-the harder you tryna run you mug leaking
-you could have found something better to do this weekend
-i got an arsenal burn your face off properly
-guns ammo, knife rambo,
-nightmare, wake up on right there
-you hellbound, hell yea
-who wanna box, with my ox, they wanna dump him
-i wanna dump him
-it's click clack pop pop when i pop the trunk
-it's click clack pop pop when i pop the trunk
-talk that shit now i love it when you front
-eating all that pussy guess cat got your tongue
-open up your mouth when
-buckshot come out the back of your neck like razor bumps
-i'm too small to fight you can swing all you want
-i box with the ox, you drop, i swing once
-this is a sad scene, at least you die happy
-next lick eater looking like you was smiling at me
-damn kidd kidd, snuck at me and just stabbed me
-tell a nigga i'm grimy, bitch i'm from  street
-if you holler gangsta shit, come get at me
-i sprint like athletes in a track meet
-who wanna box, with my ox, they wanna dump him
-i wanna dump him
-it's click clack pop pop when i pop the trunk
-it's click clack pop pop when i pop the trunk
+(dp1
+Vleast
+p2
+I1
+sVlyrics
+p3
+I2
+sVyea
+p4
+I1
+sVlove
+p5
+I2
+sVsmiling
+p6
+I1
+sVfeat
+p7
+I1
+sVpolice
+p8
+I1
+sVbetter
+p9
+I2
+sV4
+I1
+sVgangsta
+p10
+I1
+sVthem
+p11
+I1
+sVget
+p12
+I2
+sVbig
+p13
+I1
+sVscene
+p14
+I1
+sVdark
+p15
+I1
+sVfront
+p16
+I1
+sVstabbed
+p17
+I1
+sVhim
+p18
+I6
+sVlike
+p19
+I4
+sVdie
+p20
+I1
+sVdrop
+p21
+I1
+sV50
+p22
+I2
+sVbad
+p23
+I2
+sVfollow
+p24
+I1
+sVshots
+p25
+I2
+sVsmall
+p26
+I1
+sVfound
+p27
+I1
+sVbitch
+p28
+I1
+sVnigga
+p29
+I3
+sVdump
+p30
+I6
+sVbleeding
+p31
+I2
+sVallah
+p32
+I1
+sVback
+p33
+I1
+sVsee
+p34
+I1
+sVarc
+p35
+I1
+sVholler
+p36
+I1
+sVhell
+p37
+I1
+sVeating
+p38
+I1
+sVsprint
+p39
+I1
+sVclick
+p40
+I6
+sVgon
+p41
+I1
+sVnightmare
+p42
+I1
+sVlooking
+p43
+I1
+sVmug
+p44
+I1
+sVgot
+p45
+I4
+sVguns
+p46
+I1
+sVknife
+p47
+I1
+sVrun
+p48
+I1
+sVrazor
+p49
+I1
+sVfuneral
+p50
+I1
+sVburn
+p51
+I1
+sVbumps
+p52
+I1
+sVtrunk
+p53
+I8
+sVweezing
+p54
+I1
+sVcome
+p55
+I2
+sVwait
+p56
+I1
+sVbox
+p57
+I5
+sVboy
+p58
+I1
+sVdrops
+p59
+I1
+sVcould
+p60
+I1
+sVkidd
+p61
+I4
+sVox
+p62
+I4
+sVtongue
+p63
+I1
+sVthink
+p64
+I1
+sVammo
+p65
+I1
+sVrambo
+p66
+I1
+sVpussy
+p67
+I1
+sVarsenal
+p68
+I1
+sVpop
+p69
+I20
+sVright
+p70
+I1
+sVclack
+p71
+I6
+sVnext
+p72
+I1
+sVopen
+p73
+I1
+sVwan
+p74
+I9
+sVguess
+p75
+I1
+sVtop
+p76
+I1
+sVthere
+p77
+I1
+sVcent
+p78
+I1
+sVfight
+p79
+I1
+sVfucking
+p80
+I1
+sVdamn
+p81
+I2
+sVtell
+p82
+I1
+sVgrimy
+p83
+I1
+sVwar
+p84
+I1
+sVhappy
+p85
+I1
+sVtryna
+p86
+I1
+sVlungs
+p87
+I1
+sVleaking
+p88
+I1
+sVtrail
+p89
+I1
+sVproperly
+p90
+I1
+sVwake
+p91
+I1
+sVme
+p92
+I3
+sV10
+p93
+I1
+sVharder
+p94
+I1
+sVrolex
+p95
+I1
+sVcat
+p96
+I1
+sVstreet
+p97
+I1
+sVmeet
+p98
+I1
+sVfeeling
+p99
+I1
+sVlick
+p100
+I1
+sVfuck
+p101
+I1
+sVsad
+p102
+I1
+sVim
+p103
+I3
+sVsomething
+p104
+I1
+sVwant
+p105
+I1
+sVsnuck
+p106
+I1
+sVneed
+p107
+I1
+sVshit
+p108
+I2
+sVna
+p109
+I10
+sVsoaked
+p110
+I1
+sVbuckshot
+p111
+I1
+sV5
+I1
+sVtake
+p112
+I1
+sV9
+I1
+sVplus
+p113
+I1
+sVtrack
+p114
+I1
+sVeater
+p115
+I1
+sVswing
+p116
+I2
+sVmouth
+p117
+I1
+sVblood
+p118
+I2
+sVweekend
+p119
+I1
+sVwheres
+p120
+I1
+sVneck
+p121
+I2
+sVcops
+p122
+I1
+sVhellbound
+p123
+I1
+sVface
+p124
+I1
+sVcortex
+p125
+I1
+sVtime
+p126
+I1
+sVathletes
+p127
+I1
+sVtalk
+p128
+I2
+sVonce
+p129
+I1
+s.

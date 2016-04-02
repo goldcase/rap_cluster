@@ -1,98 +1,602 @@
-"g-unit soldiers" lyrics
-50 cent lyrics
-"g-unit soldiers"
-yea... lloyd banks, tony yayo
-yea...niggas salute me
-uh huh
-we takin over this shit
-(50 cent)
-yo
-g unitttt
-g unit soliders
-(gun cocks)
-ride out
-whatcha say whatcha say?
-g unit solider
-(gun cocks)
-ride out
-yea...yea...
-i'm from the hood where the drop-outs is bangin for the feelin
-for houses wit tvs hangin from the ceilin (lloyd banks)
-we gamble on ball courts
-keep the paint peelin
-you either play ball or rap if you aint dealin
-i'm stuck in the past
-shit changed since the 80s (what)
-i know ladies, that got babies wit babies
-out here its basketball and speedbags
-and guns that'll stiffin you up like freeze tag
-you can talk tough to them cowards that you pick on and beat up
-and walk around town wit your whole fuckin re-up (yayo)
-flashin singles, wit the 20s on top
-while i'm ridin on 20s in the juky drop top
-so never show love wit ya left hand
-you'll lose 5 liters of blood a thug's a dead man (come on)
-g unit soliders
-(gun cocks)
-ride out
-g unit solider
-(gun cocks)
-ride out
-home of the new right here
-g unit soliders
-(gun cocks)
-ride out
-g unit soliders
-(gun cocks)
-ride out
-nigga...nigga
-niggas know i'm hot
-but my ice cold enough to freeze whole towns (uhh)
-still follow the code gs up hoes down (come on)
-i see you ballin and ya rocks is chilly
-now my g unit niggas dont ride bikes
-dont pop-a-wheelie (blaaadt)
-i aint straight i'm livin where its hot and sandy
-and the benz's complexion is cotton candy
-i bounced up, thats the best part
-you niggas don't know what pain is
-the only scar on ya body's a stretch mark (stretch mark)
-keep ya mouth shut, and keep ya ears open
-cause it's liver than p-89s when we approachin (what else)
-listen homie
-we got aks and remintons
-for niggas in the hood playin cowboys and indians
-ladies and gentleman we was born to ball
-so if you see me in the club i'm in the bathroom stall
-gettin oral sex she bless the huey all night
-she got a georgous neck the way she toss this dick
-g unit soliders
-(gun cocks)
-ride out
-g unit soliders
-(gun cocks)
-ride out
-50 whatcha say??
-g unit soliders
-(gun cocks)
-ride out
-g unit soliders
-(gun cocks)
-ride out
-yea...g unit man..
-we runnin the streets man
-we takin this rap shit over man
-this serious man its more then rap nigga
-mention this nigga 50 name nigga
-i'm blowin niggas brains out nigga
-thats my nigga right there
-yea...it aint a game no more
-tony yayo, lloyd banks
-same go for them nigga
-blow ya fuckin head off nigga
-g unit klick
-my nigga proav l
-yea..he..the whole fuckin hood
-134 nigga
-we got yall nigga
-yea...uh..uh
+(dp1
+Vcode
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVyea
+p6
+I1
+sVblaaadt
+p7
+I1
+sVbikes
+p8
+I1
+sVlloyd
+p9
+I3
+sV134
+p10
+I1
+sVgo
+p11
+I1
+sVsoldiers
+p12
+I2
+sVcold
+p13
+I1
+sVstill
+p14
+I1
+sVtakin
+p15
+I2
+sVcocks
+p16
+I10
+sVyeayea
+p17
+I1
+sVjuky
+p18
+I1
+sVliters
+p19
+I1
+sVdick
+p20
+I1
+sVp89s
+p21
+I1
+sVhuey
+p22
+I1
+sVpopawheelie
+p23
+I1
+sVme
+p24
+I1
+sVaround
+p25
+I1
+sVyo
+p26
+I1
+sVbeat
+p27
+I1
+sVuhh
+p28
+I1
+sVfeelin
+p29
+I1
+sVapproachin
+p30
+I1
+sVmention
+p31
+I1
+sVgame
+p32
+I1
+sVsolider
+p33
+I2
+sVknow
+p34
+I3
+sVnew
+p35
+I1
+sVname
+p36
+I1
+sVcotton
+p37
+I1
+sVlike
+p38
+I1
+sVcause
+p39
+I1
+sVdrop
+p40
+I1
+sVgun
+p41
+I10
+sVcandy
+p42
+I1
+sVrocks
+p43
+I1
+sVbless
+p44
+I1
+sVeither
+p45
+I1
+sVwhatcha
+p46
+I3
+sVunitttt
+p47
+I1
+sVyall
+p48
+I1
+sVears
+p49
+I1
+sVyeag
+p50
+I1
+sVright
+p51
+I2
+sVspeedbags
+p52
+I1
+sVstreets
+p53
+I1
+sVtvs
+p54
+I1
+sVfreeze
+p55
+I2
+sVpast
+p56
+I1
+sVborn
+p57
+I1
+sVsee
+p58
+I2
+sVfollow
+p59
+I1
+sVhome
+p60
+I1
+sVremintons
+p61
+I1
+sVsandy
+p62
+I1
+sVout
+p63
+I10
+sVwhat
+p64
+I1
+sVbenzs
+p65
+I1
+sVopen
+p66
+I1
+sVsince
+p67
+I1
+sVgentleman
+p68
+I1
+sVice
+p69
+I1
+sVenough
+p70
+I1
+sVstall
+p71
+I1
+sVcomplexion
+p72
+I1
+sVunit
+p73
+I13
+sVgot
+p74
+I4
+sVyoull
+p75
+I1
+sVguns
+p76
+I1
+sVsalute
+p77
+I1
+sVaint
+p78
+I3
+sVshut
+p79
+I1
+sVlove
+p80
+I1
+sVnever
+p81
+I1
+sVridin
+p82
+I1
+sVhere
+p83
+I1
+sVhouses
+p84
+I1
+sVgunit
+p85
+I2
+sVcome
+p86
+I2
+sVproav
+p87
+I1
+sVon
+p88
+I2
+sVg
+I13
+sVaks
+p89
+I1
+sVgeorgous
+p90
+I1
+sVchanged
+p91
+I1
+sVkeep
+p92
+I3
+sVchilly
+p93
+I1
+sVpick
+p94
+I1
+sVwhole
+p95
+I3
+sVfuckin
+p96
+I3
+sVthats
+p97
+I2
+sVladies
+p98
+I2
+sVthere
+p99
+I1
+sVtough
+p100
+I1
+sVdont
+p101
+I3
+sVwalk
+p102
+I1
+sVwit
+p103
+I5
+sVtony
+p104
+I2
+sVballin
+p105
+I1
+sVstraight
+p106
+I1
+sVhood
+p107
+I3
+sVceilin
+p108
+I1
+sVbathroom
+p109
+I1
+sVbasketball
+p110
+I1
+sVpaint
+p111
+I1
+sVstretch
+p112
+I2
+sVtop
+p113
+I2
+sVindians
+p114
+I1
+sVcowboys
+p115
+I1
+sVcent
+p116
+I2
+sVmark
+p117
+I2
+sVcowards
+p118
+I1
+sVstuck
+p119
+I1
+sVyeauhuh
+p120
+I1
+sVway
+p121
+I1
+sVblow
+p122
+I1
+sVbodys
+p123
+I1
+sVlisten
+p124
+I1
+sVhead
+p125
+I1
+sVyeaniggas
+p126
+I1
+sVstiffin
+p127
+I1
+sVclub
+p128
+I1
+sVbrains
+p129
+I1
+sVhuh
+p130
+I1
+sVelse
+p131
+I1
+sVpart
+p132
+I1
+sVnigga
+p133
+I10
+sVdead
+p134
+I1
+sVcourts
+p135
+I1
+sVtowns
+p136
+I1
+sVsex
+p137
+I1
+sVdropouts
+p138
+I1
+sVyayo
+p139
+I3
+sVtown
+p140
+I1
+sVdealin
+p141
+I1
+sVniggas
+p142
+I5
+sVride
+p143
+I11
+sVyeahethe
+p144
+I1
+sVup
+p145
+I1
+sVreup
+p146
+I1
+sVhomie
+p147
+I1
+sVuh
+p148
+I1
+sVyeait
+p149
+I1
+sVblowin
+p150
+I1
+sVmore
+p151
+I1
+sVflashin
+p152
+I1
+sV20s
+p153
+I2
+sVthatll
+p154
+I1
+sVgettin
+p155
+I1
+sVsoliders
+p156
+I8
+sVtoss
+p157
+I1
+sVis
+p158
+I1
+sVhoes
+p159
+I1
+sVnigganigga
+p160
+I1
+sVsay
+p161
+I3
+sVtag
+p162
+I1
+sVim
+p163
+I7
+sVrap
+p164
+I3
+sVplayin
+p165
+I1
+sVscar
+p166
+I1
+sVshit
+p167
+I3
+sVlivin
+p168
+I1
+sVthugs
+p169
+I1
+sVpeelin
+p170
+I1
+sVliver
+p171
+I1
+sVya
+p172
+I6
+sVhot
+p173
+I2
+sV5
+I1
+sVbest
+p174
+I1
+sVbabies
+p175
+I2
+sV80s
+p176
+I1
+sVhangin
+p177
+I1
+sVgamble
+p178
+I1
+sVplay
+p179
+I1
+sVball
+p180
+I3
+sVpain
+p181
+I1
+sVsingles
+p182
+I1
+sVhand
+p183
+I1
+sVmouth
+p184
+I1
+sVblood
+p185
+I1
+sVserious
+p186
+I1
+sVman
+p187
+I5
+sVnight
+p188
+I1
+sVbounced
+p189
+I1
+sVl
+I1
+sVneck
+p190
+I1
+sVbangin
+p191
+I1
+sVlose
+p192
+I1
+sVklick
+p193
+I1
+sVbanks
+p194
+I3
+sVrunnin
+p195
+I1
+sVleft
+p196
+I1
+sVoral
+p197
+I1
+sVtalk
+p198
+I1
+sV50
+p199
+I4
+s.

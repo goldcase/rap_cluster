@@ -1,18 +1,112 @@
-skit 1 lyrics
-kanye west lyrics
-skit 1
-brought brothers start fraternity
-broke phi broke aint got it
-broke phi broke aint got it
-money
-sharin jeans
-go outside got clothing on
-many cars none
-many cars none sir
-let woman go cat car
-yes will
-cant afford gas say me
-cant afford gas
-say it
-cant afford gas
-aint drivin
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVjeans
+p4
+I1
+sVskit
+p5
+I2
+sVbrought
+p6
+I1
+sVcant
+p7
+I3
+sVgo
+p8
+I2
+sVkanye
+p9
+I1
+sVyes
+p10
+I1
+sVclothing
+p11
+I1
+sVaint
+p12
+I3
+sVsir
+p13
+I1
+sVsharin
+p14
+I1
+sVwest
+p15
+I1
+sV1
+I2
+sVstart
+p16
+I1
+sVoutside
+p17
+I1
+sVgot
+p18
+I3
+sVphi
+p19
+I2
+sVwoman
+p20
+I1
+sVdrivin
+p21
+I1
+sVbrothers
+p22
+I1
+sVafford
+p23
+I3
+sVcars
+p24
+I2
+sVgas
+p25
+I3
+sVit
+p26
+I3
+sVlet
+p27
+I1
+sVbroke
+p28
+I4
+sVme
+p29
+I1
+sVon
+p30
+I1
+sVnone
+p31
+I2
+sVmany
+p32
+I2
+sVsay
+p33
+I2
+sVcat
+p34
+I1
+sVwill
+p35
+I1
+sVfraternity
+p36
+I1
+sVcar
+p37
+I1
+s.

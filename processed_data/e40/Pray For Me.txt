@@ -1,106 +1,825 @@
-"pray for me" lyrics
-e-40 lyrics
-"pray for me"
-i've seen a lot pain since i was a child so
-(pray for me)
-i've done a few things that just ain't right so
-(pray for me)
-what i've been through would make you cry so
-(pray for me, pray for me)
-i'm trying to change my life so
-(pray for me)
-ain't no dope on the streets, mayne, i'm behind in my rent
-i ain't got nothing to show for all the fedi that i done spent
-i told my mom where the cash at, my live insurance policy is the money
-she been planning on using to bury me
-my ribs touching, my paper struggling, mayne
-all my life i been hustling, running in place
-but can't seem to finish the race
-see dudes get whopped in the face
-get plucked like a bass, flew in the space for senselessness
-that's why i stayed prayed up and say my grace
-even when i'm blended
-never know when your life is suspended
-god can take his arms from around you and easily end it
-at any time, any place, any where
-i know my life has been spared on several occasions
-suckas hating, i'm still here
-i can block for what's lost and never talk again to each other
-why does it take a funeral to bring a family together?
-bad weather always looks worse through a window
-stressing and rubbing my temples
-i make it look easy but it's really not all that simple
-i've seen a lot pain since i was a child so
-(pray for me)
-i've done a few things that just ain't right so
-(pray for me)
-what i've been through would make you cry so
-(pray for me, pray for me)
-i'm trying to change my life so
-(pray for me)
-young dude full of soul food, mama cooking pork chops
-uncle slapping dominos, sister playing hop scotch
-and this was before the block got hot and infected
-and everybody knew my grand daddy well respected, check it
-time went on and the game began
-i was losing comrades either death or the penn
-i was losing comrades but i'm stacking them ends
-we ever go to 600, we losing our friends
-when grand mama passed that's when it all went bad
-aunties don't talk, my cousins fighting is bad
-in the snow thanksgiving is like the ones we had and it's sad
-so i express through a pen and a pad
-i'm on my third wind pimpin' and knowing jesus is with me
-ain't no weapon form against me, back in common defeating
-i've been posted in the cut when them angels come get me
-until that day, homie, just pray for me
-i've seen a lot pain since i was a child so
-(pray for me)
-i've done a few things that just ain't right so
-(pray for me)
-what i've been through would make you cry so
-(pray for me, pray for me)
-i'm trying to change my life so
-(pray for me)
-my kinfolk, baby, momma on welfare, they house is bigger than ours
-'cause they got section 8 vouchers, w.i.c. and benefit cards
-my home girl daughter diabetic, she like to eat a whole lot
-she only 9 and a half and taking insulin shots
-my dude got a heart condition, his ankle be swollen
-'cause he got high blood pressure and he refuse to quit smoking
-but i'm no better than y'all, i like to drink alcohol
-break out the pen and start writing about the things that i saw
-like kilo grams of that  peruvian flake
-wrapped in aluminum foil and duck tape
-bust open and throwed in the pot, foamy and mush
-melted and locked in a shape of a gigantic size white cookie
-put on the towel to dry and broken down into zips
-quarters and half of 16's and yola get flipped
-i maintain my faith in g o d 'cause it's just a test
-repent, we confess, ask for gratefulness, yes, i'm blessed
-i've seen a lot pain since i was a child so
-(pray for me)
-i've done a few things that just ain't right so
-(pray for me)
-what i've been through would make you cry so
-(pray for me, pray for me)
-i'm trying to change my life so
-(pray for me)
-i'm here right now
-(pray for me)
-i need y'all to take this, i need y'all to take this pain away
-(pray for me)
-i'm trying, feels like i'm dying
-(pray for me)
-i need y'all to pray for me, oh, lord
-(pray for me)
-every time i look around
-(pray for me)
-somebody got something to say
-(pray for me)
-(pray for me)
-i need y'all to pray for me
-(pray for me)
-i'm trying to do the right thing
-(pray for me)
-pray for me
+(dp1
+Vcooking
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I1
+sVours
+p6
+I1
+sVquarters
+p7
+I1
+sVbring
+p8
+I1
+sVshape
+p9
+I1
+sVplanning
+p10
+I1
+sVlooks
+p11
+I1
+sVhating
+p12
+I1
+sVgo
+p13
+I1
+sVwic
+p14
+I1
+sVyes
+p15
+I1
+sVstill
+p16
+I1
+sVaint
+p17
+I7
+sVo
+I1
+sVdeath
+p18
+I1
+sVpray
+p19
+I35
+sVcousins
+p20
+I1
+sVyoung
+p21
+I1
+sVbust
+p22
+I1
+sVeat
+p23
+I1
+sVbetter
+p24
+I1
+sVwindow
+p25
+I1
+sVtape
+p26
+I1
+sVcondition
+p27
+I1
+sVeasy
+p28
+I1
+sVblended
+p29
+I1
+sVpolicy
+p30
+I1
+sVpenn
+p31
+I1
+sVplaying
+p32
+I1
+sVkilo
+p33
+I1
+sVaround
+p34
+I2
+sVget
+p35
+I4
+sVfood
+p36
+I1
+sVdefeating
+p37
+I1
+sVdope
+p38
+I1
+sVexpress
+p39
+I1
+sVzips
+p40
+I1
+sVvouchers
+p41
+I1
+sVflew
+p42
+I1
+sVbreak
+p43
+I1
+sVtest
+p44
+I1
+sVgame
+p45
+I1
+sVtouching
+p46
+I1
+sVevery
+p47
+I1
+sVknow
+p48
+I2
+sVmom
+p49
+I1
+sVhalf
+p50
+I2
+sVusing
+p51
+I1
+sVnow
+p52
+I1
+sVday
+p53
+I1
+sVbigger
+p54
+I1
+sVcommon
+p55
+I1
+sVeasily
+p56
+I1
+sVthrowed
+p57
+I1
+sVlike
+p58
+I6
+sVlost
+p59
+I1
+sVoccasions
+p60
+I1
+sVrepent
+p61
+I1
+sVcry
+p62
+I4
+sVwrapped
+p63
+I1
+sVheart
+p64
+I1
+sVbad
+p65
+I3
+sVrace
+p66
+I1
+sVmaintain
+p67
+I1
+sVeither
+p68
+I1
+sVshots
+p69
+I1
+sValways
+p70
+I1
+sVwent
+p71
+I2
+sVwhere
+p72
+I1
+sVsenselessness
+p73
+I1
+sVyall
+p74
+I5
+sVpork
+p75
+I1
+sVright
+p76
+I6
+sVtemples
+p77
+I1
+sVhouse
+p78
+I1
+sVsomebody
+p79
+I1
+sVstreets
+p80
+I1
+sVback
+p81
+I1
+sVsoul
+p82
+I1
+sVsee
+p83
+I1
+sVhome
+p84
+I1
+sVgirl
+p85
+I1
+sVinsurance
+p86
+I1
+sVreally
+p87
+I1
+sVeven
+p88
+I1
+sValcohol
+p89
+I1
+sVspace
+p90
+I1
+sVgod
+p91
+I1
+sVsection
+p92
+I1
+sVsince
+p93
+I4
+sVbenefit
+p94
+I1
+sVplucked
+p95
+I1
+sVbehind
+p96
+I1
+sVwelfare
+p97
+I1
+sVlord
+p98
+I1
+sVgot
+p99
+I6
+sV16s
+p100
+I1
+sVever
+p101
+I1
+sVdrink
+p102
+I1
+sVtold
+p103
+I1
+sVknowing
+p104
+I1
+sVends
+p105
+I1
+sVfull
+p106
+I1
+sVbass
+p107
+I1
+sVfuneral
+p108
+I1
+sVnever
+p109
+I2
+sVmayne
+p110
+I2
+sVhere
+p111
+I1
+sVpaper
+p112
+I1
+sVspared
+p113
+I1
+sVcut
+p114
+I1
+sVcookie
+p115
+I1
+sVpimpin
+p116
+I1
+sVlosing
+p117
+I3
+sVbury
+p118
+I1
+sVgigantic
+p119
+I1
+sVchange
+p120
+I4
+sVdry
+p121
+I1
+sVfaith
+p122
+I1
+sVsister
+p123
+I1
+sVdaughter
+p124
+I1
+sVg
+I1
+sVpressure
+p125
+I1
+sVribs
+p126
+I1
+sVdiabetic
+p127
+I1
+sVask
+p128
+I1
+sVfoil
+p129
+I1
+sVflake
+p130
+I1
+sVflipped
+p131
+I1
+sVthing
+p132
+I1
+sVplace
+p133
+I2
+sVinsulin
+p134
+I1
+sVbroken
+p135
+I1
+sVwhole
+p136
+I1
+sVblock
+p137
+I2
+sVthats
+p138
+I2
+sVwhats
+p139
+I1
+sVdont
+p140
+I1
+sVfamily
+p141
+I1
+sVprayed
+p142
+I1
+sVsimple
+p143
+I1
+sVpot
+p144
+I1
+sVblessed
+p145
+I1
+sVdudes
+p146
+I1
+sVjesus
+p147
+I1
+sVput
+p148
+I1
+sVmomma
+p149
+I1
+sVweather
+p150
+I1
+sVdone
+p151
+I5
+sVsuspended
+p152
+I1
+sVduck
+p153
+I1
+sVwriting
+p154
+I1
+sVopen
+p155
+I1
+sVsize
+p156
+I1
+sVeverybody
+p157
+I1
+sVquit
+p158
+I1
+sVsad
+p159
+I1
+sVwould
+p160
+I4
+sVfeels
+p161
+I1
+sVcome
+p162
+I1
+sVdude
+p163
+I2
+sVarms
+p164
+I1
+sVperuvian
+p165
+I1
+sVstart
+p166
+I1
+sVlive
+p167
+I1
+sVinfected
+p168
+I1
+sVaunties
+p169
+I1
+sVlot
+p170
+I5
+sVmama
+p171
+I2
+sVwhite
+p172
+I1
+sVangels
+p173
+I1
+sVlife
+p174
+I7
+sVmush
+p175
+I1
+sVsuckas
+p176
+I1
+sVpassed
+p177
+I1
+sVform
+p178
+I1
+sVswollen
+p179
+I1
+sVstressing
+p180
+I1
+sVyola
+p181
+I1
+sVankle
+p182
+I1
+sVuncle
+p183
+I1
+sV8
+I1
+sVchild
+p184
+I4
+sVbaby
+p185
+I1
+sVsmoking
+p186
+I1
+sVtrying
+p187
+I6
+sVgrace
+p188
+I1
+sVposted
+p189
+I1
+sVme
+p190
+I32
+sVhigh
+p191
+I1
+sVe40
+p192
+I1
+sVlocked
+p193
+I1
+sVlook
+p194
+I2
+sVoh
+p195
+I1
+sVcash
+p196
+I1
+sVmelted
+p197
+I1
+sVcards
+p198
+I1
+sVcomrades
+p199
+I2
+sVslapping
+p200
+I1
+sVdaddy
+p201
+I1
+sVtaking
+p202
+I1
+sVsay
+p203
+I2
+sVsomething
+p204
+I1
+sVive
+p205
+I13
+sVkinfolk
+p206
+I1
+sV600
+p207
+I1
+sVstacking
+p208
+I1
+sVrubbing
+p209
+I1
+sVgratefulness
+p210
+I1
+sVit
+p211
+I2
+sVthanksgiving
+p212
+I1
+sVrespected
+p213
+I1
+sVcant
+p214
+I1
+sVhomie
+p215
+I1
+sVim
+p216
+I15
+sVrent
+p217
+I1
+sVpen
+p218
+I2
+sVneed
+p219
+I4
+sVseen
+p220
+I4
+sVseem
+p221
+I1
+sVsaw
+p222
+I1
+sVcheck
+p223
+I1
+sVworse
+p224
+I1
+sVend
+p225
+I1
+sVdying
+p226
+I1
+sVthings
+p227
+I5
+sVmake
+p228
+I5
+sVsnow
+p229
+I1
+sVstayed
+p230
+I1
+sVhot
+p231
+I1
+sVother
+p232
+I1
+sVpad
+p233
+I1
+sVtake
+p234
+I4
+sVhop
+p235
+I1
+sVgrand
+p236
+I2
+sV9
+I1
+sVstruggling
+p237
+I1
+sVseveral
+p238
+I1
+sVhustling
+p239
+I1
+sVfinish
+p240
+I1
+sVpain
+p241
+I5
+sVconfess
+p242
+I1
+sVd
+I1
+sVknew
+p243
+I1
+sValuminum
+p244
+I1
+sVfedi
+p245
+I1
+sVdominos
+p246
+I1
+sVrunning
+p247
+I1
+sVwhopped
+p248
+I1
+sVblood
+p249
+I1
+sVaway
+p250
+I1
+sVnothing
+p251
+I1
+sVfighting
+p252
+I1
+sVfriends
+p253
+I1
+sVtowel
+p254
+I1
+sVbegan
+p255
+I1
+sVrefuse
+p256
+I1
+sVcause
+p257
+I3
+sVgrams
+p258
+I1
+sVthird
+p259
+I1
+sVfoamy
+p260
+I1
+sVweapon
+p261
+I1
+sVwell
+p262
+I1
+sVspent
+p263
+I1
+sVtogether
+p264
+I1
+sVface
+p265
+I1
+sVones
+p266
+I1
+sVso
+p267
+I16
+sVwind
+p268
+I1
+sVtime
+p269
+I3
+sVscotch
+p270
+I1
+sVchops
+p271
+I1
+sVtalk
+p272
+I2
+s.

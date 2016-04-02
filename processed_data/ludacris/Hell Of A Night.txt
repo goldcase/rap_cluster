@@ -1,84 +1,511 @@
-"hell of a night" lyrics
-ludacris lyrics
-"hell of a night"
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-mustard on the beat, ho
-luda!
-rollin down the highway
-nothing for me to do but smoke, it's habitual friday
-break it down, spread it out, nigga roll up
-and let's see what they about, call them hoes up
-ludacris, man these bitches want my last name
-sippin slow but i'm drivin all in the fast lane
-get the fuck up out my way, man, move bitch
-and hoodie yappin if you never wanna do shit
-i'm all about it, get yo mind right
-been making money since before i was in the lime light
-grind like – bitch, wussup!
-top down but i feel like getting fucked up
-i get high but the bass low
-a real nigga, watch a woman wanna shake fo
-when you shake it for a baller better shake it right
-'cause it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-i'm fucked up – i'm fucked up
-i'm fucked up – i'm fucked up
-i'm high as hell – i'm high as hell
-i'm high as hell – i'm high as hell
-(it's about to be a hell of a night)
-club packed and one nigga and they drink on
-just lookin for a reason to get they freak on
-catch me up in the vip and it's roaped off
-to keep raggedy ass hoes off
-then i'm bout to have a smoke off
-rich nigga but i'm tryna get broke up
-turn it up as i make the beat break down
-ass up, face down
-yea, that's still the best way to get it
-down the middle, that's the best way to split it
-i'm talkin money, disturbin the peace, racked up
-one too many american black cards stacked up
-backed up and it's on
-don't get beat down til it's on
-i feel these hatin ass niggas wanna fire
-what?
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-i'm fucked up – i'm fucked up
-i'm fucked up – i'm fucked up
-i'm high as hell – i'm high as hell
-i'm high as hell – i'm high as hell
-(it's about to be a hell of a night)
-i'm always looking for trouble to get into
-take your girlfriend's friends, bring friends too
-what you drinkin? i got it all, pour it all up
-so stay, my partners – they throw it all up
-i don't want a ménage so bitch let go
-i'm tryna get 3 women, play connect 4
-congratulations, you made it into the top 5
-your mouth help me, push the bentley into mach 5
-she got me speedin in the red zone
-always luda like they callin this the head zone
-hands up, i bread win and the bread's up
-so make a peace sign, baby put yo legs up
-is it really that good to ya?
-do you like it when a nigga talk hood to ya?
-do you like a little scratch, a little bite?
-well, it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-it's about to be a hell of a night
-i'm fucked up – i'm fucked up
-i'm fucked up – i'm fucked up
-i'm high as hell – i'm high as hell
-i'm high as hell – i'm high as hell
-(it's about to be a hell of a night)
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I2
+sVyea
+p5
+I1
+sVmoney
+p6
+I2
+sVmove
+p7
+I1
+sVbring
+p8
+I1
+sVshake
+p9
+I3
+sVgo
+p10
+I1
+sVhell
+p11
+I35
+sVstill
+p12
+I1
+sVdrinkin
+p13
+I1
+sVpartners
+p14
+I1
+sVslow
+p15
+I1
+sVballer
+p16
+I1
+sVzone
+p17
+I2
+sVroaped
+p18
+I1
+sVbetter
+p19
+I1
+sVlets
+p20
+I1
+sVspread
+p21
+I1
+sVblack
+p22
+I1
+sV4
+I1
+sVrich
+p23
+I1
+sVscratch
+p24
+I1
+sVbout
+p25
+I1
+sVbread
+p26
+I1
+sVsplit
+p27
+I1
+sVreal
+p28
+I1
+sVwoman
+p29
+I1
+sVyo
+p30
+I2
+sVget
+p31
+I9
+sVbeat
+p32
+I3
+sVwatch
+p33
+I1
+sVlegs
+p34
+I1
+sVbreak
+p35
+I2
+sVmade
+p36
+I1
+sVhands
+p37
+I1
+sVtrouble
+p38
+I1
+sVname
+p39
+I1
+sVlike
+p40
+I5
+sValways
+p41
+I2
+sVtalkin
+p42
+I1
+sVgood
+p43
+I1
+sVred
+p44
+I1
+sVnight
+p45
+I23
+sVnigga
+p46
+I5
+sVbentley
+p47
+I1
+sVracked
+p48
+I1
+sVup
+p49
+I16
+sVsee
+p50
+I1
+sVconnect
+p51
+I1
+sVhoes
+p52
+I2
+sVpacked
+p53
+I1
+sVreally
+p54
+I1
+sVwhat
+p55
+I1
+sVsince
+p56
+I1
+sVlooking
+p57
+I1
+sV3
+I1
+sVgot
+p58
+I2
+sVcause
+p59
+I1
+sVhighway
+p60
+I1
+sVass
+p61
+I3
+sVnever
+p62
+I1
+sVdrivin
+p63
+I1
+sVbass
+p64
+I1
+sVfriday
+p65
+I1
+sVreason
+p66
+I1
+sVlet
+p67
+I1
+sVhoodie
+p68
+I1
+sVbacked
+p69
+I1
+sVthrow
+p70
+I1
+sVon
+p71
+I4
+sVlast
+p72
+I1
+sVgetting
+p73
+I1
+sVmany
+p74
+I1
+sVput
+p75
+I1
+sVkeep
+p76
+I1
+sVturn
+p77
+I1
+sVamerican
+p78
+I1
+sVsmoke
+p79
+I2
+sVbite
+p80
+I1
+sVthats
+p81
+I2
+sVlookin
+p82
+I1
+sVdont
+p83
+I2
+sVfeel
+p84
+I2
+sVwin
+p85
+I1
+sVinto
+p86
+I1
+sVhabitual
+p87
+I1
+sVone
+p88
+I2
+sVdown
+p89
+I2
+sVnothing
+p90
+I1
+sVvip
+p91
+I1
+sVright
+p92
+I2
+sVbitch
+p93
+I3
+sVraggedy
+p94
+I1
+sVhood
+p95
+I1
+sVlime
+p96
+I1
+sVbaby
+p97
+I1
+sVwan
+p98
+I3
+sVlittle
+p99
+I2
+sVwussup
+p100
+I1
+sVtop
+p101
+I2
+sVya
+p102
+I2
+sVfast
+p103
+I1
+sVcall
+p104
+I1
+sVlow
+p105
+I1
+sVway
+p106
+I3
+sVman
+p107
+I2
+sVyappin
+p108
+I1
+sVtoo
+p109
+I1
+sVtryna
+p110
+I2
+sVhead
+p111
+I1
+sVclub
+p112
+I1
+sVbitches
+p113
+I1
+sVgirlfriends
+p114
+I1
+sVit
+p115
+I2
+sVho
+p116
+I1
+sVbroke
+p117
+I1
+sVhatin
+p118
+I1
+sVcatch
+p119
+I1
+sVsign
+p120
+I1
+sVwomen
+p121
+I1
+sVcongratulations
+p122
+I1
+sVm�nage
+p123
+I1
+sVstacked
+p124
+I1
+sVniggas
+p125
+I1
+sV\u2013
+I14
+sVpour
+p126
+I1
+sVcards
+p127
+I1
+sVmaking
+p128
+I1
+sVluda
+p129
+I2
+sVfreak
+p130
+I1
+sVmind
+p131
+I1
+sVfuck
+p132
+I1
+sVhigh
+p133
+I13
+sVmiddle
+p134
+I1
+sVcallin
+p135
+I1
+sVim
+p136
+I31
+sVwant
+p137
+I2
+sVtake
+p138
+I1
+sVface
+p139
+I1
+sVshit
+p140
+I1
+sVsippin
+p141
+I1
+sVna
+p142
+I3
+sVmake
+p143
+I2
+sVpeace
+p144
+I2
+sVtil
+p145
+I1
+sVfire
+p146
+I1
+sV5
+I2
+sVbest
+p147
+I2
+sVroll
+p148
+I1
+sVplay
+p149
+I1
+sVmustard
+p150
+I1
+sVmach
+p151
+I1
+sVdrink
+p152
+I1
+sVstay
+p153
+I1
+sVmouth
+p154
+I1
+sVfucked
+p155
+I13
+sVspeedin
+p156
+I1
+sVfriends
+p157
+I2
+sVfo
+p158
+I1
+sVlane
+p159
+I1
+sVoff
+p160
+I3
+sVlight
+p161
+I1
+sVwell
+p162
+I1
+sVrollin
+p163
+I1
+sVgrind
+p164
+I1
+sVdisturbin
+p165
+I1
+sVpush
+p166
+I1
+sVbreads
+p167
+I1
+sVtalk
+p168
+I1
+s.

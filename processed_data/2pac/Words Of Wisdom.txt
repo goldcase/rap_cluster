@@ -1,107 +1,868 @@
-"words of wisdom" lyrics
-2pac lyrics
-"words of wisdom"
-killing us one by one
-in one way or another
-america will find a way to eliminate the problem
-one by one
-the problem is
-the troubles in the black youth of the ghettos
-and one by one
-we are being wiped off the face of this earth
-at an extremely alarming rate
-and even more alarming is the fact
-that we are not fighting back
-brothers, sisters, niggas
-when i say niggas it is not the nigga we are grown to fear
-it is not the nigga we say as if it has no meaning
-but to me
-it means never ignorant getting goals accomplished, nigga
-niggas what are we going to do?
-walk blind into a line? or fight?
-fight and die if we must like niggas
-this is for the masses, the lower classes
-the ones you left out, jobs were givin', better livin'
-but we were kept out
-made to feel inferior, but we're superior
-break the chains in our brains that made us fear yah
-pledge allegiance to a flag that neglects us
-honour a man that who refuses to respect us
-emancipation, proclamation, please!
-lincoln just said that to save the nation
-these are lies that we all accepted
-say no to drugs but the government’s kept it
-running through our community, killing the unity
-the war on drugs is a war on you and me
-and yet they say this is the home of the free
-but if you ask me it's all about hypocrisy
-the constitution, yo, it don't apply to me
-and lady liberty still the bitch lied to me
-steady strong nobody's gonna like what i pumpin'
-but it's wrong to keeping someone from learning something
-so get up, it's time to start nation building
-i'm fed up, we gotta start teaching children
-that they can be all that they want to be
-there's much more to life than just poverty
-this is definitely ahhh words of wisdom
-amerika, amerika, amerikkka
-i charge you with the crime of rape, murder, and assault
-for suppressing and punishing my people
-i charge you with robbery for robbing me of my history
-i charge you with false imprisonment for keeping me
-trapped in the projects
-and the jury finds you guilty on all accounts
-and you are to serve the consequences of your evil schemes
-prosecutor do you have any more evidence?
-words of wisdom
-they shine upon the strength of a nation
-conquer the enemy on with education
-protect yourself, reach for what you wanna do
-know thy self, teach what we been through
-on with the knowledge of the place, then
-no one will ever oppress this race again
-no malcolm x in my history text
-why is that?
-‘cause he tried to educate and liberate all blacks
-why is martin luther king in my book each week?
-he told blacks, if they get smacked, turn the other cheek
-i don't get it, so many questions went through my mind
-i get sweated, they act as if asking questions is a crime
-but forget it, one day i'm gonna prove them wrong
-now every brother had to smother on the welfare line
-the american dream, though it like it's attainable
-they're pulling your sleeve, don't believe
-‘cause it will strangle yah
-pulling the life of your brain, i can't explain
-beg as you can obtain from which you came
-swear that your mother is living in equality
-forgetting your brother that's living her apology
-thought they had us beaten when they took out king
-but the battle ain't over till the black man sings
-words of wisdom
-but the battle ain't over till the black man sings
-words of wisdom
-nightmare that's what i am
-america's nightmare
-i am what you made me
-the hate and evil that you gave me
-i shine of a reminder of what you have done to my people
-for four hundred plus years
-you should be scared
-you should be running
-you should be trying to silence me
-ha ha
-but you cannot escape fate
-well it is my turn to come
-just as you rose you shall fall
-by my hands
-amerika, you reap what you sow
-2pacalypse america's nightmare
-ice cube and da lench mob america's nightmare
-above the law america's nightmare
-paris america's nightmare
-public enemy america's nightmare
-krs-one america's nightmare
-mutulu shakur america's nightmare
-geronimo pratt america's nightmare
-assada shakur america's nightmare
+(dp1
+Vlearning
+p2
+I1
+sVamerikkka
+p3
+I1
+sVforget
+p4
+I1
+sVlyrics
+p5
+I2
+sVtext
+p6
+I1
+sVhands
+p7
+I1
+sVobtain
+p8
+I1
+sVyears
+p9
+I1
+sVfour
+p10
+I1
+sVbrain
+p11
+I1
+sVever
+p12
+I1
+sVthrough
+p13
+I1
+sVice
+p14
+I1
+sVquestions
+p15
+I2
+sVwelfare
+p16
+I1
+sVbattle
+p17
+I2
+sVearth
+p18
+I1
+sVfear
+p19
+I2
+sVstill
+p20
+I1
+sVhate
+p21
+I1
+sVfind
+p22
+I1
+sVaint
+p23
+I2
+sVsuperior
+p24
+I1
+sVaccepted
+p25
+I1
+sVgivin
+p26
+I1
+sVscared
+p27
+I1
+sVhypocrisy
+p28
+I1
+sVparis
+p29
+I1
+sVproclamation
+p30
+I1
+sVmasses
+p31
+I1
+sVtroubles
+p32
+I1
+sVcrime
+p33
+I2
+sVbetter
+p34
+I1
+sVcharge
+p35
+I3
+sVgoing
+p36
+I1
+sVblack
+p37
+I3
+sVteaching
+p38
+I1
+sVsave
+p39
+I1
+sVinferior
+p40
+I1
+sVta
+p41
+I1
+sVreap
+p42
+I1
+sVdo
+p43
+I2
+sVsomeone
+p44
+I1
+sVlivin
+p45
+I1
+sVyo
+p46
+I1
+sVmeans
+p47
+I1
+sVpumpin
+p48
+I1
+sVnation
+p49
+I3
+sVbreak
+p50
+I1
+sVones
+p51
+I1
+sVconquer
+p52
+I1
+sVknow
+p53
+I1
+sVwords
+p54
+I6
+sVfall
+p55
+I1
+sVnot
+p56
+I1
+sVmob
+p57
+I1
+sVwalk
+p58
+I1
+sVlady
+p59
+I1
+sVday
+p60
+I1
+sVprojects
+p61
+I1
+sVenemy
+p62
+I2
+sVlincoln
+p63
+I1
+sVequality
+p64
+I1
+sVlike
+p65
+I3
+sVsleeve
+p66
+I1
+sVlies
+p67
+I1
+sVdie
+p68
+I1
+sVda
+p69
+I1
+sVbrother
+p70
+I2
+sVtheyre
+p71
+I1
+sVha
+p72
+I2
+sVrace
+p73
+I1
+sVrobbery
+p74
+I1
+sVmartin
+p75
+I1
+sVx
+I1
+sVwent
+p76
+I1
+sVtrying
+p77
+I1
+sVbitch
+p78
+I1
+sVnigga
+p79
+I3
+sVpledge
+p80
+I1
+sVpeople
+p81
+I2
+sVpunishing
+p82
+I1
+sVmind
+p83
+I1
+sVimprisonment
+p84
+I1
+sVmutulu
+p85
+I1
+sVback
+p86
+I1
+sVbeg
+p87
+I1
+sVrate
+p88
+I1
+sVassada
+p89
+I1
+sVapply
+p90
+I1
+sVhome
+p91
+I1
+sVstrangle
+p92
+I1
+sVout
+p93
+I1
+sVeven
+p94
+I1
+sVliving
+p95
+I2
+sVeducate
+p96
+I1
+sVsaid
+p97
+I1
+sVconstitution
+p98
+I1
+sVblacks
+p99
+I2
+sValarming
+p100
+I2
+sVtried
+p101
+I1
+sVbeaten
+p102
+I1
+sVplease
+p103
+I1
+sVliberty
+p104
+I1
+sVyet
+p105
+I1
+sVwrong
+p106
+I2
+sVexplain
+p107
+I1
+sVasking
+p108
+I1
+sVeliminate
+p109
+I1
+sVreminder
+p110
+I1
+sVgot
+p111
+I1
+sVchains
+p112
+I1
+sVpublic
+p113
+I1
+sVtold
+p114
+I1
+sVbe
+p115
+I1
+sV\u2018cause
+p116
+I2
+sVjobs
+p117
+I1
+sVlench
+p118
+I1
+sVsings
+p119
+I2
+sVhonour
+p120
+I1
+sVnever
+p121
+I1
+sVfree
+p122
+I1
+sVkilling
+p123
+I2
+sVsow
+p124
+I1
+sVpoverty
+p125
+I1
+sVrefuses
+p126
+I1
+sVteach
+p127
+I1
+sVstrong
+p128
+I1
+sVcome
+p129
+I1
+sVknowledge
+p130
+I1
+sVshine
+p131
+I2
+sVthat
+p132
+I1
+sVprotect
+p133
+I1
+sVgetting
+p134
+I1
+sVmany
+p135
+I1
+sVam
+p136
+I1
+sVask
+p137
+I1
+sVrunning
+p138
+I2
+sVamericas
+p139
+I10
+sVturn
+p140
+I2
+sVaccomplished
+p141
+I1
+sVswear
+p142
+I1
+sVplace
+p143
+I1
+sVdone
+p144
+I1
+sVact
+p145
+I1
+sVhistory
+p146
+I2
+sVfinds
+p147
+I1
+sVsilence
+p148
+I1
+sVthats
+p149
+I2
+sVblind
+p150
+I1
+sVchildren
+p151
+I1
+sVdont
+p152
+I3
+sVlied
+p153
+I1
+sVfeel
+p154
+I1
+sVmalcolm
+p155
+I1
+sVallegiance
+p156
+I1
+sVcommunity
+p157
+I1
+sVone
+p158
+I9
+sVsisters
+p159
+I1
+sVkrsone
+p160
+I1
+sVschemes
+p161
+I1
+sVaccounts
+p162
+I1
+sVneglects
+p163
+I1
+sVanother
+p164
+I1
+sVrespect
+p165
+I1
+sVsuppressing
+p166
+I1
+sVwan
+p167
+I1
+sVfed
+p168
+I1
+sVlaw
+p169
+I1
+sVprove
+p170
+I1
+sVwiped
+p171
+I1
+sVfight
+p172
+I2
+sVstart
+p173
+I2
+sVmuch
+p174
+I1
+sVyah
+p175
+I2
+sVway
+p176
+I2
+sVahhh
+p177
+I1
+sVapology
+p178
+I1
+sVhundred
+p179
+I1
+sVsweated
+p180
+I1
+sVwar
+p181
+I2
+sVprosecutor
+p182
+I1
+sVghettos
+p183
+I1
+sVshakur
+p184
+I2
+sVlife
+p185
+I2
+sVmurder
+p186
+I1
+sVjury
+p187
+I1
+sVtrapped
+p188
+I1
+sVdrugs
+p189
+I2
+sVbrains
+p190
+I1
+sVserve
+p191
+I1
+sVluther
+p192
+I1
+sVwisdom
+p193
+I6
+sVflag
+p194
+I1
+sVnobodys
+p195
+I1
+sVignorant
+p196
+I1
+sVgoals
+p197
+I1
+sVrobbing
+p198
+I1
+sVattainable
+p199
+I1
+sVline
+p200
+I2
+sVbelieve
+p201
+I1
+sV2pac
+p202
+I1
+sVmust
+p203
+I1
+sVme
+p204
+I8
+sVking
+p205
+I2
+sVkeeping
+p206
+I2
+sVmade
+p207
+I3
+sVthy
+p208
+I1
+sVniggas
+p209
+I4
+sVgeronimo
+p210
+I1
+sVcant
+p211
+I1
+sVus
+p212
+I5
+sVyouth
+p213
+I1
+sVforgetting
+p214
+I1
+sVclasses
+p215
+I1
+sV2pacalypse
+p216
+I1
+sVcan
+p217
+I1
+sVshall
+p218
+I1
+sVpulling
+p219
+I2
+sVproblem
+p220
+I2
+sVgave
+p221
+I1
+sVtheres
+p222
+I1
+sVsmacked
+p223
+I1
+sVfalse
+p224
+I1
+sVthen
+p225
+I1
+sVguilty
+p226
+I1
+sVis
+p227
+I1
+sVescape
+p228
+I1
+sVreach
+p229
+I1
+sVit
+p230
+I1
+sVevidence
+p231
+I1
+sVsay
+p232
+I4
+sVassault
+p233
+I1
+sVim
+p234
+I2
+sVsomething
+p235
+I1
+sVwant
+p236
+I1
+sVeducation
+p237
+I1
+sVwell
+p238
+I1
+sVrape
+p239
+I1
+sVgovernment\u2019s
+p240
+I1
+sVgrown
+p241
+I1
+sVagain
+p242
+I1
+sVstrength
+p243
+I1
+sVfate
+p244
+I1
+sVpratt
+p245
+I1
+sVna
+p246
+I3
+sVself
+p247
+I1
+sVget
+p248
+I4
+sVamerican
+p249
+I1
+sVtill
+p250
+I2
+sVunity
+p251
+I1
+sVbook
+p252
+I1
+sVrose
+p253
+I1
+sVplus
+p254
+I1
+sVsmother
+p255
+I1
+sVweek
+p256
+I1
+sVcube
+p257
+I1
+sVamerika
+p258
+I3
+sVbrothers
+p259
+I1
+sVthough
+p260
+I1
+sVmother
+p261
+I1
+sVupon
+p262
+I1
+sVevil
+p263
+I2
+sVtook
+p264
+I1
+sVmeaning
+p265
+I1
+sVgon
+p266
+I2
+sVnightmare
+p267
+I11
+sVemancipation
+p268
+I1
+sVamerica
+p269
+I1
+sVextremely
+p270
+I1
+sVman
+p271
+I3
+sVbuilding
+p272
+I1
+sVlower
+p273
+I1
+sVkept
+p274
+I2
+sVconsequences
+p275
+I1
+sVdream
+p276
+I1
+sVcheek
+p277
+I1
+sVsteady
+p278
+I1
+sVfighting
+p279
+I1
+sVface
+p280
+I1
+sVthought
+p281
+I1
+sVdefinitely
+p282
+I1
+sVcame
+p283
+I1
+sVtime
+p284
+I1
+sVevery
+p285
+I1
+sVliberate
+p286
+I1
+sVoppress
+p287
+I1
+sVfact
+p288
+I1
+sVleft
+p289
+I1
+s.

@@ -1,98 +1,865 @@
-"do what i do" lyrics
-scarface lyrics
-"do what i do"
-(feat. nas, rick ross & z-ro)
-i am ghetto, boy, chillin'
-represent for the niggas in the hood and how they livin'
-heavy metal concealin'
-hustlin' 'til you touch a 9 to 5 of drug dealin'
-it don't matter how i get it, i got it, fuck feelings
-i don't have none, i'm 'bout my paper, nigga, ask 'em
-don't get confused on how the cash come
-never, by any means necessary better
-get up off your ass and get my money 'fore i stretch yah
-out in front your doorstep, when i brandish this .45th
-you can make arrangements, you a dead man, a ghost
-see i come from them cuts for real
-much long before this rap came, fuck the deal
-i survived the game of life, nigga, fuck some skills
-crossin' me, get in the way, this pussy must get killed
-i'm alive, he came, he bust 'til he left
-i would have made for sure i was dead and fuck yourself
-yeah, cause now i'm at his ass in a vengeance
-blood in, blood out from the beginning to the ending
-real shit bein' spit, know your limits
-it's best you mind your mothafuckin' business
-if you ain't in it
-so hard in these streets
-gotta pack a pistol plus talk to god in these streets
-go to church, sunday, monday, sellin' raw in these streets
-never took it home though, i left it all in these streets
-gotta do what i gotta do
-i ain't promotin' no eviction notice on the door
-fuck it, i had to go for broke
-do what i gotta do
-hustle 'til i see the dirt
-riskin' 25 years just to see another verse
-i was all alone, car full of niggas
-how'd i get here? car full of hittas
-i was rollin' weed, they was snortin' blow
-such a cool breeze, heart so cold
-step up to the plate, where your money at?
-bobby brown on cake with a hundred packs
-new editions, lisa lisa
-we were secret lovers, had to get a beeper
-my atlantic star, not a notre dame
-not a student loan, tried to motivate
-continental, my bentley, this shit should be illegal
-selassie eye in the ghost, thousand bales of that diesel
-lord, go toe to toe with any pussy boy
-fuck, one time for facin' all the boobie boys
-26 inch plates on a 68
-where i'm from a half a key'll set a nigga straight
-i just wanna make the car notes
-let mama make the pot roast
-you should meet me at the car wash
-washin' all 8, that's inshallah
-so hard in these streets
-gotta pack a pistol plus talk to god in these streets
-go to church, sunday, monday, sellin' raw in these streets
-never took it home though, i left it all in these streets
-gotta do what i gotta do
-i ain't promotin' no eviction notice on the door
-fuck it, i had to go for broke
-do what i gotta do
-hustle 'til i see the dirt
-riskin' 25 years just to see another verse
-speakin' for those squeakin' in them cell blocks readin'
-to blacks, whites and puerto ricans
-brothers with those ankle bracelets, impatient for their releasin'
-to make it back to the block, the hatred, the priest hit
-time sure flies, look how many years went by
-my young niggas already need hair dye
-alcoholic faces, women bad as a mug
-gettin' fat as fuck
-fried food be addin' up, the system thrives off its victims
-they ask how this economic collapse
-can affect people all over the map
-tea party for tax reenactment is whack
-the past the past, yo, to my vatos out in the east los
-nietas on the east coast, shouts to puerto rico
-dominican republic people, rep i
-brown and black, we must get it together
-the prison industrial complex a fuckin' set up
-the aztec, almac, african settled on this land from the get up
-i changed my aim, who i'm gon' wet up
-when violence is resorted, knowledge is distorted
-unless it's payback for brutality
-i'm more or less with that, get back
-so hard in these streets
-gotta pack a pistol plus talk to god in these streets
-go to church, sunday, monday, sellin' raw in these streets
-never took it home though, i left it all in these streets
-gotta do what i gotta do
-i ain't promotin' no eviction notice on the door
-fuck it, i had to go for broke
-do what i gotta do
-hustle 'til i see the dirt
-riskin' 25 years just to see another verse
+(dp1
+Vrepresent
+p2
+I1
+sVset
+p3
+I2
+sVbroke
+p4
+I3
+sVlyrics
+p5
+I2
+sVeast
+p6
+I2
+sVmoney
+p7
+I2
+sVhalf
+p8
+I1
+sVyoung
+p9
+I1
+sVending
+p10
+I1
+sVshouts
+p11
+I1
+sVpayback
+p12
+I1
+sVpaper
+p13
+I1
+sVcuts
+p14
+I1
+sVtouch
+p15
+I1
+sVcold
+p16
+I1
+sVchillin
+p17
+I1
+sVbrandish
+p18
+I1
+sVfaces
+p19
+I1
+sVaint
+p20
+I4
+sV25
+p21
+I3
+sVbeeper
+p22
+I1
+sVone
+p23
+I1
+sVknowledge
+p24
+I1
+sVindustrial
+p25
+I1
+sVless
+p26
+I1
+sVwash
+p27
+I1
+sVbust
+p28
+I1
+sVbetter
+p29
+I1
+sVrico
+p30
+I1
+sVverse
+p31
+I3
+sVblack
+p32
+I1
+sVrick
+p33
+I1
+sVprison
+p34
+I1
+sVlord
+p35
+I1
+sVbout
+p36
+I1
+sVcool
+p37
+I1
+sVpot
+p38
+I1
+sVafrican
+p39
+I1
+sVross
+p40
+I1
+sVreal
+p41
+I2
+sVdo
+p42
+I7
+sVhit
+p43
+I1
+sVlivin
+p44
+I1
+sVyo
+p45
+I1
+sVmeans
+p46
+I1
+sVfood
+p47
+I1
+sVbein
+p48
+I1
+sVfat
+p49
+I1
+sVcoast
+p50
+I1
+sVkeyll
+p51
+I1
+sVinch
+p52
+I1
+sVgame
+p53
+I1
+sVknow
+p54
+I1
+sVbracelets
+p55
+I1
+sVnew
+p56
+I1
+sVfront
+p57
+I1
+sVdye
+p58
+I1
+sVyourself
+p59
+I1
+sVthrives
+p60
+I1
+sVkilled
+p61
+I1
+sVghetto
+p62
+I1
+sVnecessary
+p63
+I1
+sVbrutality
+p64
+I1
+sVbobby
+p65
+I1
+sVskills
+p66
+I1
+sVnotes
+p67
+I1
+sVgettin
+p68
+I1
+sVresorted
+p69
+I1
+sVankle
+p70
+I1
+sVbad
+p71
+I1
+sVhittas
+p72
+I1
+sVroast
+p73
+I1
+sVlisa
+p74
+I2
+sVwent
+p75
+I1
+sVreleasin
+p76
+I1
+sVheavy
+p77
+I1
+sVtoe
+p78
+I2
+sVnigga
+p79
+I3
+sVdeal
+p80
+I1
+sVpeople
+p81
+I2
+sVtea
+p82
+I1
+sVhard
+p83
+I3
+sVyeah
+p84
+I1
+sVdead
+p85
+I2
+sVup
+p86
+I3
+sVhair
+p87
+I1
+sVgo
+p88
+I7
+sVsee
+p89
+I7
+sVeconomic
+p90
+I1
+sVselassie
+p91
+I1
+sVhome
+p92
+I3
+sVbales
+p93
+I1
+sVdoorstep
+p94
+I1
+sVbrothers
+p95
+I1
+sValcoholic
+p96
+I1
+sVlovers
+p97
+I1
+sVblacks
+p98
+I1
+sVfeat
+p99
+I1
+sVrep
+p100
+I1
+sVinshallah
+p101
+I1
+sVdiesel
+p102
+I1
+sVcell
+p103
+I1
+sVmug
+p104
+I1
+sVpriest
+p105
+I1
+sVfacin
+p106
+I1
+sVzro
+p107
+I1
+sVgot
+p108
+I13
+sVpistol
+p109
+I3
+sVcause
+p110
+I1
+sVhustle
+p111
+I3
+sVass
+p112
+I2
+sVblow
+p113
+I1
+sVnotice
+p114
+I3
+sVfull
+p115
+I2
+sVaddin
+p116
+I1
+sVbusiness
+p117
+I1
+sVdirt
+p118
+I3
+sVnever
+p119
+I4
+sVback
+p120
+I2
+sV26
+p121
+I1
+sVstep
+p122
+I1
+sVlet
+p123
+I1
+sVriskin
+p124
+I3
+sVmeet
+p125
+I1
+sVask
+p126
+I2
+sVcome
+p127
+I2
+sVby
+p128
+I1
+sVdominican
+p129
+I1
+sVboy
+p130
+I2
+sVfried
+p131
+I1
+sVlimits
+p132
+I1
+sVbrown
+p133
+I2
+sVchanged
+p134
+I1
+sVdrug
+p135
+I1
+sVwomen
+p136
+I1
+sVplus
+p137
+I3
+sVillegal
+p138
+I1
+sVhatred
+p139
+I1
+sVsqueakin
+p140
+I1
+sVsettled
+p141
+I1
+sVblock
+p142
+I1
+sVthats
+p143
+I1
+sVem
+p144
+I1
+sVflies
+p145
+I1
+sValready
+p146
+I1
+sVdont
+p147
+I3
+sVwhites
+p148
+I1
+sVpussy
+p149
+I2
+sVloan
+p150
+I1
+sVmap
+p151
+I1
+sVreenactment
+p152
+I1
+sVfeelings
+p153
+I1
+sValone
+p154
+I1
+sVeviction
+p155
+I3
+sVanother
+p156
+I3
+sVchurch
+p157
+I3
+sV68
+p158
+I1
+sVhood
+p159
+I1
+sVwan
+p160
+I1
+sVeye
+p161
+I1
+sVbentley
+p162
+I1
+sVwould
+p163
+I1
+sVstretch
+p164
+I1
+sVbeginning
+p165
+I1
+sVmotivate
+p166
+I1
+sVsystem
+p167
+I1
+sVlong
+p168
+I1
+sVcontinental
+p169
+I1
+sVlos
+p170
+I1
+sVsecret
+p171
+I1
+sVmuch
+p172
+I1
+sVyah
+p173
+I1
+sVway
+p174
+I1
+sVtime
+p175
+I2
+sVmama
+p176
+I1
+sVeditions
+p177
+I1
+sVhundred
+p178
+I1
+sVdame
+p179
+I1
+sVpuerto
+p180
+I2
+sVlife
+p181
+I1
+sVstreets
+p182
+I12
+sVdoor
+p183
+I3
+sVhustlin
+p184
+I1
+sVspit
+p185
+I1
+sVpacks
+p186
+I1
+sVtax
+p187
+I1
+sVthousand
+p188
+I1
+sVwet
+p189
+I1
+sVtook
+p190
+I3
+sVfore
+p191
+I1
+sVconfused
+p192
+I1
+sVboys
+p193
+I1
+sVatlantic
+p194
+I1
+sValive
+p195
+I1
+sVsurvived
+p196
+I1
+sV8
+I1
+sVboobie
+p197
+I1
+sVrepublic
+p198
+I1
+sVmust
+p199
+I2
+sVpast
+p200
+I2
+sVnone
+p201
+I1
+sVmade
+p202
+I1
+sVdealin
+p203
+I1
+sVniggas
+p204
+I3
+sVricans
+p205
+I1
+sVcar
+p206
+I4
+sVstraight
+p207
+I1
+sVcash
+p208
+I1
+sVaztec
+p209
+I1
+sVwhack
+p210
+I1
+sVaim
+p211
+I1
+sVmatter
+p212
+I1
+sVspeakin
+p213
+I1
+sVmany
+p214
+I1
+sVcake
+p215
+I1
+sVim
+p216
+I6
+sVta
+p217
+I12
+sVpack
+p218
+I3
+sVheart
+p219
+I1
+sVsnortin
+p220
+I1
+sVviolence
+p221
+I1
+sVpromotin
+p222
+I3
+sVplate
+p223
+I1
+sVaffect
+p224
+I1
+sVmind
+p225
+I1
+sVfuck
+p226
+I9
+sVmothafuckin
+p227
+I1
+sVreadin
+p228
+I1
+sVraw
+p229
+I3
+sValmac
+p230
+I1
+sVarrangements
+p231
+I1
+sVscarface
+p232
+I1
+sVat
+p233
+I1
+sVrap
+p234
+I1
+sVdistorted
+p235
+I1
+sVneed
+p236
+I1
+sVvictims
+p237
+I1
+sVcrossin
+p238
+I1
+sVgon
+p239
+I1
+sVshit
+p240
+I2
+sVcollapse
+p241
+I1
+sVparty
+p242
+I1
+sVnietas
+p243
+I1
+sVsellin
+p244
+I3
+sVna
+p245
+I1
+sVmake
+p246
+I4
+sVget
+p247
+I11
+sVtil
+p248
+I5
+sVnas
+p249
+I1
+sVsunday
+p250
+I3
+sVcomplex
+p251
+I1
+sV5
+I1
+sVbest
+p252
+I1
+sV9
+I1
+sVplates
+p253
+I1
+sVvatos
+p254
+I1
+sV45th
+p255
+I1
+sVsure
+p256
+I2
+sVstar
+p257
+I1
+sVtried
+p258
+I1
+sVmonday
+p259
+I3
+sVthough
+p260
+I3
+sVnotre
+p261
+I1
+sVit
+p262
+I1
+sVconcealin
+p263
+I1
+sVblocks
+p264
+I1
+sVweed
+p265
+I1
+sVvengeance
+p266
+I1
+sVblood
+p267
+I2
+sVstudent
+p268
+I1
+sVunless
+p269
+I1
+sVman
+p270
+I1
+sVghost
+p271
+I2
+sVfuckin
+p272
+I1
+sVland
+p273
+I1
+sVtogether
+p274
+I1
+sVi
+I1
+sVmetal
+p275
+I1
+sVrollin
+p276
+I1
+sVimpatient
+p277
+I1
+sVlook
+p278
+I1
+sVbreeze
+p279
+I1
+sVtalk
+p280
+I3
+sVhowd
+p281
+I1
+sVgod
+p282
+I3
+sVyears
+p283
+I4
+sVwashin
+p284
+I1
+sVcame
+p285
+I2
+sVleft
+p286
+I4
+s.

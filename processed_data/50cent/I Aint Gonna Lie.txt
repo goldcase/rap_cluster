@@ -1,56 +1,483 @@
-"i ain't gonna lie" lyrics
-50 cent lyrics
-"i ain't gonna lie"
-(feat. robbie nova)
-i just wanna stay on you all night
-and i ain't gonna lie, girl, i just wanna, i just wanna
-i can take you to dinner, girl,
-but i ain't gonna lie, i just want to fuck you, baby
-we can go to the movies, girl,
-but i ain't gonna lie, i just want to fuck you, girl
-i can take you to shopping, girl
-but i ain't gonna lie, i just want to fuck you, baby
-i can keep your head up, girl,
-but i ain't gonna lie, i just want to fuck you, baby
-i really wanna get to know you, girl, so many things i wanna show you, girl
-succeed so i guess i owe you, girl. louboutins, moving on
-first the sun comes up and the top comes down, find out what the white rolls royce about
-why the white airs on extra clean, like james brown a nigga do it like a sex machine
-got a hot wheel fetish, i pull up in some mean shit
-sex, drugs, rock n roll, charlie sheen bitch
-see me toot it and boot it on my obama shit, money ain't no, tell them how much i'm a get
-i spit bars had the hood in the frenzy, fuck around, take a chain like lindsay
-paparazzi taking pictures of my fendy, catch me in prada or maybe escada
-it's just another beautiful day in la and i'm in new york, a professional shit talker
-i see niggas are stressing and i'm straight so i'm guessing i'm above the recession.
-i can take you to dinner, girl,
-but i ain't gonna lie, i just want to fuck you, baby
-we can go to the movies, girl,
-but i ain't gonna lie, i just want to fuck you, girl
-i can take you shopping, girl
-but i ain't gonna lie, i just want to fuck you, baby
-i can keep your head up, girl,
-but i ain't gonna lie, i just want to fuck you, baby
-it takes just a little bit of my conversation when i talk
-to make you clear for sure that i'm that nigga in new york
-shawty now lay down, put your head back
-i put your legs back strocking move your bed back
-when we get to them back shots, shawty throw it back
-when you back it up at me i like that
-let me guess i turned you on, i turned you on, i bet
-we're just getting started and everything is soaking wet
-this pussy's good, she ain't worried about the rent this month
-this pussy must have went and bought this bitch that benz out front
-for me it's nothing, i'm just fucking for the fuck of it
-but shawty acting like what we just did some other shit
-it can be, it could be, okay, maybe she's a good girl
-attracted to me and things from my world
-temptations are great, one ten of braces that will ain't caress caries for 10 times 8.
-i can take you to dinner, girl,
-but i ain't gonna lie, i just want to fuck you, baby
-we can go to the movies, girl,
-but i ain't gonna lie, i just want to fuck you, girl
-i can take you to shopping, girl
-but i ain't gonna lie, i just want to fuck you, baby
-i can keep your head up, girl,
-but i ain't gonna lie, i just want to fuck you, baby
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmoney
+p4
+I1
+sVstrocking
+p5
+I1
+sVmonth
+p6
+I1
+sVcatch
+p7
+I1
+sVcaries
+p8
+I1
+sVgo
+p9
+I3
+sVattracted
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVaint
+p13
+I18
+sVchain
+p14
+I1
+sVla
+p15
+I1
+sVsoaking
+p16
+I1
+sVwet
+p17
+I1
+sV8
+I1
+sVmust
+p18
+I1
+sVbrown
+p19
+I1
+sVmove
+p20
+I1
+sVaround
+p21
+I1
+sVget
+p22
+I3
+sVpussys
+p23
+I1
+sVknow
+p24
+I1
+sVfetish
+p25
+I1
+sVfront
+p26
+I1
+sVworld
+p27
+I1
+sVbit
+p28
+I1
+sVday
+p29
+I1
+sVlike
+p30
+I5
+sVrobbie
+p31
+I1
+sVjames
+p32
+I1
+sV50
+p33
+I1
+sVworried
+p34
+I1
+sVshots
+p35
+I1
+sVrock
+p36
+I1
+sVwent
+p37
+I1
+sVbitch
+p38
+I2
+sVguessing
+p39
+I1
+sVbars
+p40
+I1
+sVnigga
+p41
+I2
+sVten
+p42
+I1
+sVfucking
+p43
+I1
+sVback
+p44
+I6
+sVsex
+p45
+I2
+sVsee
+p46
+I2
+sVtalker
+p47
+I1
+sVstressing
+p48
+I1
+sVgirl
+p49
+I20
+sVreally
+p50
+I1
+sVgon
+p51
+I15
+sVsun
+p52
+I1
+sVeverything
+p53
+I1
+sVacting
+p54
+I1
+sVbraces
+p55
+I1
+sVprada
+p56
+I1
+sVlouboutins
+p57
+I1
+sVgot
+p58
+I1
+sVbought
+p59
+I1
+sVnight
+p60
+I1
+sVlittle
+p61
+I1
+sVsucceed
+p62
+I1
+sVlet
+p63
+I1
+sVyork
+p64
+I2
+sVput
+p65
+I2
+sVthrow
+p66
+I1
+sVon
+p67
+I1
+sVabout
+p68
+I1
+sVgetting
+p69
+I1
+sVmany
+p70
+I1
+sVtaking
+p71
+I1
+sVkeep
+p72
+I3
+sVconversation
+p73
+I1
+sVdinner
+p74
+I3
+sVmean
+p75
+I1
+sVcomes
+p76
+I2
+sVfirst
+p77
+I1
+sVextra
+p78
+I1
+sVowe
+p79
+I1
+sVpussy
+p80
+I1
+sVone
+p81
+I1
+sVcent
+p82
+I1
+sVanother
+p83
+I1
+sVairs
+p84
+I1
+sVrolls
+p85
+I1
+sVhood
+p86
+I1
+sVwan
+p87
+I5
+sVguess
+p88
+I2
+sVtakes
+p89
+I1
+sVtop
+p90
+I1
+sVnova
+p91
+I1
+sVmuch
+p92
+I1
+sVwhite
+p93
+I2
+sVescada
+p94
+I1
+sVtell
+p95
+I1
+sVsheen
+p96
+I1
+sVtemptations
+p97
+I1
+sVhead
+p98
+I4
+sVshopping
+p99
+I3
+sVspit
+p100
+I1
+sVthat
+p101
+I1
+sVdrugs
+p102
+I1
+sVgreat
+p103
+I1
+sVpaparazzi
+p104
+I1
+sVtoot
+p105
+I1
+sVfrenzy
+p106
+I1
+sVbaby
+p107
+I9
+sVobama
+p108
+I1
+sVpull
+p109
+I1
+sVlegs
+p110
+I1
+sVniggas
+p111
+I1
+sVstraight
+p112
+I1
+sVbed
+p113
+I1
+sVn
+I1
+sVrecession
+p114
+I1
+sVmovies
+p115
+I3
+sVcaress
+p116
+I1
+sVmaybe
+p117
+I2
+sVpictures
+p118
+I1
+sVcould
+p119
+I1
+sVbet
+p120
+I1
+sVshes
+p121
+I1
+sVbeautiful
+p122
+I1
+sVbenz
+p123
+I1
+sVturned
+p124
+I2
+sVfuck
+p125
+I14
+sVgood
+p126
+I2
+sVim
+p127
+I7
+sVrent
+p128
+I1
+sVwant
+p129
+I12
+sVtimes
+p130
+I1
+sVshit
+p131
+I4
+sVlie
+p132
+I15
+sVthings
+p133
+I2
+sVmake
+p134
+I1
+sVboot
+p135
+I1
+sVmachine
+p136
+I1
+sVstarted
+p137
+I1
+sVhot
+p138
+I1
+sVtake
+p139
+I7
+sVnew
+p140
+I2
+sVshawty
+p141
+I3
+sVroll
+p142
+I1
+sV10
+p143
+I1
+sVwheel
+p144
+I1
+sVsure
+p145
+I1
+sVokay
+p146
+I1
+sVit
+p147
+I1
+sVstay
+p148
+I1
+sVfendy
+p149
+I1
+sVmoving
+p150
+I1
+sVlay
+p151
+I1
+sVnothing
+p152
+I1
+sVroyce
+p153
+I1
+sVcharlie
+p154
+I1
+sVclear
+p155
+I1
+sVclean
+p156
+I1
+sVna
+p157
+I20
+sVprofessional
+p158
+I1
+sVtalk
+p159
+I1
+sVlindsay
+p160
+I1
+s.

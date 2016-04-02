@@ -1,111 +1,821 @@
-"earl that's yo' life" lyrics
-e-40 lyrics
-"earl that's yo' life"
-(feat. too $hort)
-earl.. whassup mayne?
-it's yo' potnah short dawg
-you know we come a long way baby
-(from the ground up)
-oh they love the way us players ball
-no doubt, that's how we do this
-it's all about you mayne
-it's yo' life, let 'em know somethin
-i come from where they pop they collars
-and couldn't be saved by creflo dollar
-cause i'll probably never ever see the pearly gates
-at the pace i'm goin now, it'll be too late
-can y'all taste it? go on and smell it
-you know what that is? well it's sucker repellant
-i spray myself with it every morning, you dig?
-i spray myself right before i leave the crib
-hot ones echo through the ghetto, bullets ricochet
-i'm bendin corners in my cadillac escalade
-it's summertime and i'm scorchin, fuck a bulletproof
-i'm hella keyed and i'm perkin off that num-num juice
-i'm in the traffic with my music on storm
-got a ticket just for blowin my, horn (ba-baaa, ba-ba-ba-baa-baaaa)
-out the window, pinkie ring, princess cut
-five carat stone, ice around my neck
-lookin like some chrome, be at yo' best
-we don't play checkers no more, we play chess
-one-trey twice double-oh block
-h-i-double-l side-shot
-all about my fetti y'all
-one-time want to see me fall
-it's obvious i'm humongous
-acres, cars and businesses
-all about my fetti y'all
-bank account got to be tall
-diamonds on my wrists and shit
-tycoon stickin to the script, beotch!
-earl, that's yo' life
-ooohhhhh earl, that's yo' life
-earl, that's yo' life
-ooohhhhh earl, that's yo' liii-iiii-iiii-iiii-iife
-straight up out the yay (out the yay)
-the realest nigga you done talked to all day
-it's a (drought season), (out smart the po-po's)
-cookin birdies in the kitchen, with c-bo
-from livin nappy, e'rybody know me!
-used to sell taffy, white girl nasal candy
-used to dress tacky, just so i can bank they dome
-slick 'em, make 'em think i'm broke
-use the dope game as a stepping stone
-from corporate now it's nextel walkie-talkies
-i'm the one that really named them faulty chips faulty (faulty chips faulty)
-i got the gift of gab, i'm off the choo choo track
-i want the fetti, fuck the fame, y'all can have that
-all about my fetti y'all
-one-time want to see me fall
-that's right
-it's obvious i'm humongous
-acres cars and businesses
-you can't stop the tycoon
-all about my fetti y'all
-bank account got to be tall
-diamonds on my wrists and shit
-you can't stop e-feezy, beyatch
-the street life, (ballin outta control)
-my (million dollar spot), way too cold
-so many (record haters), my (back against the wall)
-when i was growin up i seen a lot of (rappers ball)
-(bring the yellow tape), (it's on, on sight)
-you wanna squash the funk?  shoot me a peace kite
-where the party at? who got that (carlos rossi)?
-who in my (drinkin' club)? fire up some broccoli
-i'm (fed) ex'n, heavy duty nigga, pushin weight
-from sardines and spam to teriyaki steak
-i looked the game in the eye, the game looked at me back
-told me to sell my triple beam, and start rap
-one-time want to see me fall
-it's ob-vious i'm humungous
-acres cars and businesses
-all about my fetti y'all
-bank account got to be tall
-diamonds on my wrists and shit
-tycoon stickin to the script, beotch!
-you know what i said
-what'd you say pimpin?
-short dawg
-short deezy
-oh i ride with my potnah
-nigga i ride with you too pimpin
-bumpin them woofers like this
-boom boom boom boom!!!
-can't smell this funk, we been doin this
-been doin it
-you know i love these new niggaz man
-i love when they get on that paper chase
-right, right, right right right right right..
-so far, they can't do this
-can't do this
-not like this
-uh-huh, nah
-we talkin limousines and mansions
-limousines, mansions
-got to keep these hoes dancin
-got to keep 'em dancin, dirty dancin
-bitches love us
-they love us.. what they do?
-they love us
-that's right pimpin
+(dp1
+Vgates
+p2
+I1
+sVthink
+p3
+I1
+sVkite
+p4
+I1
+sVlyrics
+p5
+I2
+sVcbo
+p6
+I1
+sVfall
+p7
+I3
+sVdollar
+p8
+I2
+sVyellow
+p9
+I1
+sVbring
+p10
+I1
+sVpaper
+p11
+I1
+sVbusinesses
+p12
+I3
+sVstepping
+p13
+I1
+sVgo
+p14
+I1
+sVcold
+p15
+I1
+sVfeat
+p16
+I1
+sVground
+p17
+I1
+sVdrinkin
+p18
+I1
+sVcut
+p19
+I1
+sVcollars
+p20
+I1
+sVbendin
+p21
+I1
+sVblowin
+p22
+I1
+sVtalkin
+p23
+I1
+sVitll
+p24
+I1
+sVcarat
+p25
+I1
+sVcreflo
+p26
+I1
+sVlate
+p27
+I1
+sVwindow
+p28
+I1
+sVtape
+p29
+I1
+sVniggaz
+p30
+I1
+sVkeyed
+p31
+I1
+sVtycoon
+p32
+I3
+sVbeotch
+p33
+I2
+sVsmart
+p34
+I1
+sVboom
+p35
+I4
+sVshoot
+p36
+I1
+sVaround
+p37
+I1
+sVyo
+p38
+I9
+sVget
+p39
+I1
+sVfar
+p40
+I1
+sVsucker
+p41
+I1
+sVdope
+p42
+I1
+sVstop
+p43
+I2
+sVaccount
+p44
+I3
+sVnappy
+p45
+I1
+sVbeam
+p46
+I1
+sVgame
+p47
+I3
+sVones
+p48
+I1
+sVevery
+p49
+I1
+sVpop
+p50
+I1
+sVgot
+p51
+I8
+sVuhhuh
+p52
+I1
+sVticket
+p53
+I1
+sVone
+p54
+I1
+sVchips
+p55
+I2
+sVday
+p56
+I1
+sVbank
+p57
+I4
+sVghetto
+p58
+I1
+sVearl
+p59
+I7
+sVfaulty
+p60
+I4
+sVlike
+p61
+I3
+sVnumnum
+p62
+I1
+sVever
+p63
+I1
+sVdig
+p64
+I1
+sVpopos
+p65
+I1
+sVperkin
+p66
+I1
+sVleave
+p67
+I1
+sVtwice
+p68
+I1
+sVwhatd
+p69
+I1
+sVman
+p70
+I1
+sVcorners
+p71
+I1
+sVgrowin
+p72
+I1
+sVsteak
+p73
+I1
+sVride
+p74
+I2
+sVyall
+p75
+I7
+sVem
+p76
+I4
+sVcandy
+p77
+I1
+sVhumongous
+p78
+I2
+sVright
+p79
+I10
+sVweight
+p80
+I1
+sVback
+p81
+I2
+sVused
+p82
+I2
+sVhorn
+p83
+I1
+sVsee
+p84
+I4
+sVdawg
+p85
+I2
+sVtaffy
+p86
+I1
+sVhort
+p87
+I1
+sVsight
+p88
+I1
+sVhoes
+p89
+I1
+sVgirl
+p90
+I1
+sVmorning
+p91
+I1
+sVring
+p92
+I1
+sVbest
+p93
+I1
+sVreally
+p94
+I1
+sVmillion
+p95
+I1
+sVsaid
+p96
+I1
+sVcheckers
+p97
+I1
+sVwrists
+p98
+I3
+sVlimousines
+p99
+I2
+sVrecord
+p100
+I1
+sVsaved
+p101
+I1
+sVooohhhhh
+p102
+I2
+sVslick
+p103
+I1
+sVice
+p104
+I1
+sVrossi
+p105
+I1
+sVrap
+p106
+I1
+sVdiamonds
+p107
+I3
+sVwhassup
+p108
+I1
+sVprobably
+p109
+I1
+sVcause
+p110
+I1
+sVdoin
+p111
+I2
+sVtold
+p112
+I1
+sVbabababaabaaaa
+p113
+I1
+sVeye
+p114
+I1
+sVcars
+p115
+I3
+sVnever
+p116
+I1
+sVmayne
+p117
+I2
+sVdome
+p118
+I1
+sVrepellant
+p119
+I1
+sVspray
+p120
+I2
+sVlet
+p121
+I1
+sVpimpin
+p122
+I3
+sVsardines
+p123
+I1
+sVfetti
+p124
+I6
+sVbumpin
+p125
+I1
+sVstorm
+p126
+I1
+sVprincess
+p127
+I1
+sVcookin
+p128
+I1
+sVwoofers
+p129
+I1
+sVonetime
+p130
+I3
+sVstone
+p131
+I2
+sVpearly
+p132
+I1
+sVoh
+p133
+I2
+sVmany
+p134
+I1
+sVill
+p135
+I1
+sVspam
+p136
+I1
+sVchoo
+p137
+I2
+sVplayers
+p138
+I1
+sVcarlos
+p139
+I1
+sVlookin
+p140
+I1
+sVpotnah
+p141
+I2
+sVdeezy
+p142
+I1
+sVstickin
+p143
+I2
+sVblock
+p144
+I1
+sVthats
+p145
+I9
+sVduty
+p146
+I1
+sVheavy
+p147
+I1
+sVnamed
+p148
+I1
+sVdancin
+p149
+I3
+sVlove
+p150
+I6
+sVdont
+p151
+I1
+sVnextel
+p152
+I1
+sVbeyatch
+p153
+I1
+sVwall
+p154
+I1
+sVcrib
+p155
+I1
+sVecho
+p156
+I1
+sVnigga
+p157
+I3
+sVdone
+p158
+I1
+sVescalade
+p159
+I1
+sVcouldnt
+p160
+I1
+sVacres
+p161
+I3
+sVballin
+p162
+I1
+sVbirdies
+p163
+I1
+sVbabaaa
+p164
+I1
+sVwan
+p165
+I1
+sVuse
+p166
+I1
+sVyay
+p167
+I2
+sVscorchin
+p168
+I1
+sVscript
+p169
+I2
+sVchrome
+p170
+I1
+sVcome
+p171
+I2
+sVgift
+p172
+I1
+sVlong
+p173
+I1
+sVwalkietalkies
+p174
+I1
+sVstart
+p175
+I1
+sVdoubt
+p176
+I1
+sVmusic
+p177
+I1
+sVway
+p178
+I3
+sVtacky
+p179
+I1
+sVwhite
+p180
+I1
+sVkitchen
+p181
+I1
+sVlife
+p182
+I7
+sVsummertime
+p183
+I1
+sVthat
+p184
+I1
+sVclub
+p185
+I1
+sVseason
+p186
+I1
+sVbitches
+p187
+I1
+sVsquash
+p188
+I1
+sVnew
+p189
+I1
+sVfuck
+p190
+I2
+sVsideshot
+p191
+I1
+sVchase
+p192
+I1
+sVbroke
+p193
+I1
+sVbaby
+p194
+I1
+sVhaters
+p195
+I1
+sVgab
+p196
+I1
+sVfunk
+p197
+I2
+sVme
+p198
+I1
+sVe40
+p199
+I1
+sVthis
+p200
+I6
+sVteriyaki
+p201
+I1
+sVstraight
+p202
+I1
+sVup
+p203
+I1
+sVus
+p204
+I4
+sVpace
+p205
+I1
+sVstreet
+p206
+I1
+sVobvious
+p207
+I3
+sVdirty
+p208
+I1
+sVmansions
+p209
+I2
+sVsay
+p210
+I1
+sVpushin
+p211
+I1
+sVcontrol
+p212
+I1
+sVhumungous
+p213
+I1
+sVoutta
+p214
+I1
+sVtriple
+p215
+I1
+sVdo
+p216
+I1
+sVtaste
+p217
+I1
+sVit
+p218
+I2
+sVjuice
+p219
+I1
+sVcant
+p220
+I5
+sVim
+p221
+I13
+sVwant
+p222
+I4
+sVonetrey
+p223
+I1
+sVseen
+p224
+I1
+sVkeep
+p225
+I2
+sVdress
+p226
+I1
+sVerybody
+p227
+I1
+sVshit
+p228
+I3
+sVlivin
+p229
+I1
+sVsell
+p230
+I2
+sVliiiiiiiiiiiiiiiiife
+p231
+I1
+sVtalked
+p232
+I1
+sVna
+p233
+I1
+sVmake
+p234
+I1
+sVrealest
+p235
+I1
+sVpinkie
+p236
+I1
+sVfame
+p237
+I1
+sVfire
+p238
+I1
+sVhot
+p239
+I1
+sVchess
+p240
+I1
+sVparty
+p241
+I1
+sVhidoublel
+p242
+I1
+sVsmell
+p243
+I2
+sVefeezy
+p244
+I1
+sVplay
+p245
+I2
+sVball
+p246
+I2
+sVdoubleoh
+p247
+I1
+sVtrack
+p248
+I1
+sVcadillac
+p249
+I1
+sVrappers
+p250
+I1
+sVfed
+p251
+I1
+sVnasal
+p252
+I1
+sVpeace
+p253
+I1
+sVspot
+p254
+I1
+sVbulletproof
+p255
+I1
+sVlot
+p256
+I1
+sVbullets
+p257
+I1
+sVtall
+p258
+I3
+sVdrought
+p259
+I1
+sVbroccoli
+p260
+I1
+sVgoin
+p261
+I1
+sVsomethin
+p262
+I1
+sVshort
+p263
+I3
+sVneck
+p264
+I1
+sVexn
+p265
+I1
+sVwell
+p266
+I1
+sVricochet
+p267
+I1
+sVlooked
+p268
+I2
+sVhella
+p269
+I1
+sVfive
+p270
+I1
+sVtraffic
+p271
+I1
+sVcorporate
+p272
+I1
+sVnah
+p273
+I1
+sVknow
+p274
+I6
+s.

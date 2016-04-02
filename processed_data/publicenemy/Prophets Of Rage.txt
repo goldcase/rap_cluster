@@ -1,89 +1,552 @@
-"prophets of rage" lyrics
-public enemy lyrics
-"prophets of rage"
-with vice i hold the mike device
-with force i keep it away of course
-and i'm keepin' you from sleepin'
-and on stage i rage
-and i'm rollin'
-to the poor i pour in on in metaphors
-not bluffin', it's nothin'
-that we ain't did before
-we played you stayed
-the points made
-you consider it done
-by the prophets of rage
-(power of the people say)
-i roll with the punches so i survive
-try to rock 'cause it keeps the crowd alive
-i'm not ballin', i'm just callin'
-but i'm past the days of yes y'allin'
-wa wiggle round and round
-i pump, you jump up
-hear my words my verbs
-and get juiced up
-i been around a while
-you can descibe my sound
-clear the way
-for the prophets of rage
-(power of the people say)
-i rang ya bell
-can you tell i got feelin'
-just peace at least
-cause i want it
-want it so bad
-that i'm starvin'
-i'm like garvey
-so you can see b
-it's like that, i'm like nat
-leave me the hell alone
-if you don't think i'm a brother
-then check the chromosomes
-then check the stage
-i declare it a new age
-get down for the prophets of rage
-keep you from gettin' like this
-you back the track
-you find we're the quotable
-you emulate
-brothers, sisters thats beautiful
-follow a path
-of positivity you go
-some sing it or rap it
-or harmonize it through go-go
-little you know but very
-seldom i do party jams
-about a plan
-i'm considered the man
-i'm the recordable
-but god made it affordable
-i say it, you play it
-back in your car or even portable
-stereo
-describes my scenario
-left or right, black or white
-they tell lies in the books
-that you're readin'
-it's knowledge of yourself
-that you're needin'
-like vescey or prosser
-we have a reason why
-to debate the hate
-that's why we're born to die
-mandela, cell dweller, thatcher
-you can tell her clear the way for the prophets of rage
-(power of the people you say)
-it's raw and keepin' you on the floor
-its soul and keepin' you in control
-it's pt. 2 cause i'm
-pumpin' what you're used to
-until the whole juice crew
-gets me in my goose down
-i do the rebel yell
-and i'm the duracell
-call it plain insane
-brothers causein' me pain
-when a brothers a victim
-and the sellers a dweller in a cage
-yo, run the a capella
-(power of the people say)
+(dp1
+Vconsider
+p2
+I1
+sVlyrics
+p3
+I2
+sVcourse
+p4
+I1
+sVvictim
+p5
+I1
+sVgo
+p6
+I1
+sVhell
+p7
+I1
+sVyes
+p8
+I1
+sVhate
+p9
+I1
+sVfind
+p10
+I1
+sVbefore
+p11
+I1
+sVaint
+p12
+I1
+sVknowledge
+p13
+I1
+sVcrew
+p14
+I1
+sVprophets
+p15
+I6
+sVblack
+p16
+I1
+sVharmonize
+p17
+I1
+sVgoose
+p18
+I1
+sVdescibe
+p19
+I1
+sVyallin
+p20
+I1
+sVmandela
+p21
+I1
+sVcallin
+p22
+I1
+sVaround
+p23
+I1
+sVyo
+p24
+I1
+sVget
+p25
+I2
+sVya
+p26
+I1
+sVpumpin
+p27
+I1
+sVage
+p28
+I1
+sVjuice
+p29
+I1
+sVfeelin
+p30
+I1
+sVgogo
+p31
+I1
+sVwiggle
+p32
+I1
+sVmade
+p33
+I2
+sVknow
+p34
+I1
+sVwords
+p35
+I1
+sVnew
+p36
+I1
+sV2
+I1
+sVthatcher
+p37
+I1
+sVcage
+p38
+I1
+sVrecordable
+p39
+I1
+sVenemy
+p40
+I1
+sVlike
+p41
+I5
+sVlies
+p42
+I1
+sVdie
+p43
+I1
+sVseldom
+p44
+I1
+sVgettin
+p45
+I1
+sVbrother
+p46
+I1
+sVleave
+p47
+I1
+sVbad
+p48
+I1
+sVrock
+p49
+I1
+sVprosser
+p50
+I1
+sVround
+p51
+I2
+sVinsane
+p52
+I1
+sVright
+p53
+I1
+sVforce
+p54
+I1
+sVportable
+p55
+I1
+sVcrowd
+p56
+I1
+sVpeople
+p57
+I4
+sVback
+p58
+I2
+sValive
+p59
+I1
+sVsoul
+p60
+I1
+sVpast
+p61
+I1
+sVborn
+p62
+I1
+sVsee
+p63
+I1
+sVbooks
+p64
+I1
+sVfollow
+p65
+I1
+sVbluffin
+p66
+I1
+sVeven
+p67
+I1
+sVtry
+p68
+I1
+sVwa
+p69
+I1
+sVsleepin
+p70
+I1
+sVgod
+p71
+I1
+sVaway
+p72
+I1
+sVgarvey
+p73
+I1
+sVdebate
+p74
+I1
+sVcell
+p75
+I1
+sVemulate
+p76
+I1
+sVpump
+p77
+I1
+sVverbs
+p78
+I1
+sVgot
+p79
+I1
+sVneedin
+p80
+I1
+sVcause
+p81
+I3
+sVpublic
+p82
+I1
+sVaffordable
+p83
+I1
+sVrun
+p84
+I1
+sVpower
+p85
+I4
+sVstarvin
+p86
+I1
+sVreason
+p87
+I1
+sVdweller
+p88
+I2
+sVrebel
+p89
+I1
+sValone
+p90
+I1
+sVpath
+p91
+I1
+sVstage
+p92
+I2
+sVjams
+p93
+I1
+sVdays
+p94
+I1
+sVkeep
+p95
+I2
+sVcapella
+p96
+I1
+sVwhole
+p97
+I1
+sVthink
+p98
+I1
+sVmetaphors
+p99
+I1
+sVthats
+p100
+I2
+sVcontrol
+p101
+I1
+sVrang
+p102
+I1
+sVdont
+p103
+I1
+sVbell
+p104
+I1
+sVyourself
+p105
+I1
+sVdown
+p106
+I1
+sVsisters
+p107
+I1
+sVdone
+p108
+I1
+sVsing
+p109
+I1
+sVballin
+p110
+I1
+sVlittle
+p111
+I1
+sVpt
+p112
+I1
+sVto
+p113
+I1
+sVduracell
+p114
+I1
+sVquotable
+p115
+I1
+sVleast
+p116
+I1
+sVdescribes
+p117
+I1
+sVcall
+p118
+I1
+sVway
+p119
+I2
+sVsurvive
+p120
+I1
+sVwhite
+p121
+I1
+sVtell
+p122
+I3
+sVplain
+p123
+I1
+sVmike
+p124
+I1
+sVhear
+p125
+I1
+sVhold
+p126
+I1
+sVpain
+p127
+I1
+sVsound
+p128
+I1
+sVjump
+p129
+I1
+sVb
+I1
+sVrage
+p130
+I7
+sVthis
+p131
+I1
+sVcar
+p132
+I1
+sVup
+p133
+I2
+sVpour
+p134
+I1
+sVvescey
+p135
+I1
+sVwhile
+p136
+I1
+sVdeclare
+p137
+I1
+sVbeautiful
+p138
+I1
+sVpunches
+p139
+I1
+sVrap
+p140
+I1
+sVplayed
+p141
+I1
+sVit
+p142
+I3
+sVreadin
+p143
+I1
+sVraw
+p144
+I1
+sVsay
+p145
+I5
+sVim
+p146
+I13
+sVrollin
+p147
+I1
+sVwant
+p148
+I2
+sVcausein
+p149
+I1
+sVcheck
+p150
+I2
+sVfloor
+p151
+I1
+sVpeace
+p152
+I1
+sVstayed
+p153
+I1
+sVvery
+p154
+I1
+sVnat
+p155
+I1
+sVparty
+p156
+I1
+sVgets
+p157
+I1
+sVroll
+p158
+I1
+sVpoor
+p159
+I1
+sVplay
+p160
+I1
+sVused
+p161
+I1
+sVchromosomes
+p162
+I1
+sVbrothers
+p163
+I3
+sVtrack
+p164
+I1
+sVkeepin
+p165
+I3
+sVplan
+p166
+I1
+sVdevice
+p167
+I1
+sVsellers
+p168
+I1
+sVwhy
+p169
+I1
+sVjuiced
+p170
+I1
+sVman
+p171
+I1
+sVstereo
+p172
+I1
+sVscenario
+p173
+I1
+sVvice
+p174
+I1
+sVconsidered
+p175
+I1
+sVclear
+p176
+I2
+sVyoure
+p177
+I3
+sVnothin
+p178
+I1
+sVpoints
+p179
+I1
+sVkeeps
+p180
+I1
+sVyell
+p181
+I1
+sVpositivity
+p182
+I1
+sVleft
+p183
+I1
+s.

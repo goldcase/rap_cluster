@@ -1,111 +1,981 @@
-"off the wall" lyrics
-eminem lyrics
-"off the wall"
-(feat. redman)
-no matter what people say
-i'm gonna keep rapping this way
-no matter what you may think
-i'm gonna keep doing my thing
-i'm almost as famous as fat bald men
-decided to write songs to teach musketeers to sing
-i stick britney spears in a room full of mirrors
-so she gets fifty years of bad luck
-causing terror to christina aguilera
-when i grab her by the hair and drag her across the sahara
-beware of this rap terrorist with a therapist
-with a hair up his ass like a rabbit crawled in his pants
-gotta have it, i hold tylenol in his hands
-'til it melts in his fucking palms and dissolves in his glands
-(so who is it?)
-the fool who visit the playground
-with two biscuits to lay down the school district
-get pistol whipped with a mauseburg
-with a pistol grip and fed pitbulls shit
-sniff glue sticks like i give two shits
-if i get too rich, i just get sued
-yo, i leave with no injure, after i blow four in you
-one handstand on top of your ninja
-crash it, (errrr) doc stir the madness
-'til you all outta work like tony atlas
-walking, cans in the laundry basket
-america's most with the army after us
-fuck flossing, we take what's yours
-a low fifteen like a ace in four
-i'm outta work, but doc laid them off
-(shit, the power's out)
-the tape is off
-yo, you targeted from arsonists
-papermate pens filled with arsenic
-i got hoes that don't know what prada is
-doc could shape up, touch your barber miss
-betty you with a bloody blade
-i turn rap camps into crystal lake
-fuck bitches face is what i'm gonna do
-'cause that what white boy tano do
-so how is everybody doing tonight?
-hope you're in the mood to get drunk and scream in a fight
-'cause uh, we getting down for the fuck of it
-so suck my dick if you all don't wanna bump to this... off the wall!!
-yo, so how is everybody feeling tonight?
-hope you're in the mood to get rude and ill in a fight
-'cause uh, we getting down for the fuck of it
-so suck my dick if you don't wanna bump... off the wall!!
-no matter what people say
-i'm gonna keep rapping this way
-no matter what you may think
-i'm gonna keep doing my thing
-yo, you could buy jaz spittin', hospital, son admit it
-rip your lips off, kiss my ass with it
-slap bitches, got marshall maths
-weed, x, and the acid tabs did it
-i'm "what's happening?" with no "rerun"
-doc rob "deniro" when the "heat" come
-my barrel hang out the camaro
-aimed at the nose of them hoes it's hard to breathe from
-flash the gat, your town, bogardin'
-your wallet, your chain the main target
-beef is like cold engine, don't start it
-bust in the air and hit a airplane pilot
-we clowned you, rap surround sounds around you
-from ten speed and brown shoe
-doc and eminem, cock the m & m
-blood flows with 2pacalypse and them
-it's like, funk doctor meets the punk rocker
-got the drugs stopped inside the lunch box
-pop junk like i just got jumped
-popped the trunk and pulled out the shotgun pump
-knock wood, it's all good, thank god for vodka
-'cause with my luck, i'll probably get shot by a stalker
-probably got a fanatic waiting upstairs in the attic
-with an automatic calling me up there
-my man stan with a gat in his hand
-staking my house out in a tan tinted sedan
-he pull your mouth out 'til you can't finish a damn
-ham sandwich, or your can spinach and spam
-'til you gotta sip through a straw, shoplifted a mall
-pictures of me on my mom's living room wall
-hey ma, maybe i'll give you a call
-sike you fucking bitch, suck a dick and two balls
-i'm giving you all my job descript'
-which is to piss bitches and priest off with this
-pop more pills than police officers
-arrive at the scene and pull me off of kim
-teeth off my dick, hands off my balls
-but you all can kiss my ass, pants off and all
-'cause i'm so goddamn off the wall
-i might as well as be a painting smashed on the floor
-so how is everybody feeling tonight?
-hope you're in the mood to get rude and ill in a fight
-cause uh, we getting down for the fuck of it
-so suck my dick if you don't wanna bump to this... off the wall!
-so how's everybody doing tonight?
-hope you're in the mood to get drunk and scream in a fight
-cause uh, we getting down for the fuck of it
-so suck my dick if y'all don't wanna bump to this... off the wall!
-no matter what people say
-i'm gonna keep rapping this way
-no matter what you may think
-i'm gonna keep doing my thing
-no matter what people say
-i'm gonna keep doing my thing
-no matter... oh
+(dp1
+Vaguilera
+p2
+I1
+sVrocker
+p3
+I1
+sVwalking
+p4
+I1
+sVbreathe
+p5
+I1
+sVaimed
+p6
+I1
+sVdoctor
+p7
+I1
+sVlyrics
+p8
+I2
+sVoh
+p9
+I1
+sVmelts
+p10
+I1
+sVbeware
+p11
+I1
+sVspam
+p12
+I1
+sVall
+p13
+I1
+sVfifty
+p14
+I1
+sVfour
+p15
+I2
+sVshape
+p16
+I1
+sVtherapist
+p17
+I1
+sVshoe
+p18
+I1
+sVstalker
+p19
+I1
+sVtouch
+p20
+I1
+sVwhats
+p21
+I2
+sVcold
+p22
+I1
+sVglue
+p23
+I1
+sVfeat
+p24
+I1
+sVblow
+p25
+I1
+sVwrite
+p26
+I1
+sVpens
+p27
+I1
+sVchain
+p28
+I1
+sVshoplifted
+p29
+I1
+sVdick
+p30
+I6
+sVlake
+p31
+I1
+sVbust
+p32
+I1
+sVnose
+p33
+I1
+sVstraw
+p34
+I1
+sVwood
+p35
+I1
+sVtape
+p36
+I1
+sVrich
+p37
+I1
+sVterror
+p38
+I1
+sVattic
+p39
+I1
+sVmain
+p40
+I1
+sVpapermate
+p41
+I1
+sVrob
+p42
+I1
+sVhope
+p43
+I4
+sVta
+p44
+I2
+sVfool
+p45
+I1
+sVdo
+p46
+I2
+sVthem
+p47
+I1
+sVsued
+p48
+I1
+sVcrash
+p49
+I1
+sVaround
+p50
+I1
+sVyo
+p51
+I4
+sVget
+p52
+I8
+sVmoms
+p53
+I1
+sVchristina
+p54
+I1
+sVfat
+p55
+I1
+sVclowned
+p56
+I1
+sVfamous
+p57
+I1
+sVspittin
+p58
+I1
+sVknow
+p59
+I1
+sVkiss
+p60
+I2
+sVhands
+p61
+I2
+sVninja
+p62
+I1
+sVyears
+p63
+I1
+sVtarget
+p64
+I1
+sVknock
+p65
+I1
+sVschool
+p66
+I1
+sVlike
+p67
+I7
+sVcrawled
+p68
+I1
+sVslap
+p69
+I1
+sVpainting
+p70
+I1
+sVsandwich
+p71
+I1
+sVcalling
+p72
+I1
+sVleave
+p73
+I1
+sVbad
+p74
+I1
+sVpriest
+p75
+I1
+sVstopped
+p76
+I1
+sVfilled
+p77
+I1
+sVpilot
+p78
+I1
+sVwell
+p79
+I1
+sVx
+I1
+sVgrab
+p80
+I1
+sVpiss
+p81
+I1
+sVbiscuits
+p82
+I1
+sVyall
+p83
+I1
+sVluck
+p84
+I2
+sVblade
+p85
+I1
+sVupstairs
+p86
+I1
+sVten
+p87
+I1
+sVpeople
+p88
+I4
+sVfucking
+p89
+I2
+sVthere
+p90
+I1
+sVhard
+p91
+I1
+sVham
+p92
+I1
+sVbetty
+p93
+I1
+sVhair
+p94
+I2
+sVgoddamn
+p95
+I1
+sVlips
+p96
+I1
+sVdecided
+p97
+I1
+sVhoes
+p98
+I2
+sVcant
+p99
+I1
+sVstir
+p100
+I1
+sVsounds
+p101
+I1
+sVout
+p102
+I1
+sVliving
+p103
+I1
+sVgon
+p104
+I8
+sVredman
+p105
+I1
+sVcrystal
+p106
+I1
+sVgiving
+p107
+I1
+sVspeed
+p108
+I1
+sVprobably
+p109
+I2
+sVpull
+p110
+I2
+sVspinach
+p111
+I1
+sVlaid
+p112
+I1
+sVbitch
+p113
+I1
+sVplayground
+p114
+I1
+sVprada
+p115
+I1
+sVgot
+p116
+I7
+sVpistol
+p117
+I2
+sVcause
+p118
+I7
+sVacross
+p119
+I1
+sVwhipped
+p120
+I1
+sVpants
+p121
+I2
+sVass
+p122
+I3
+sVfull
+p123
+I1
+sVrapping
+p124
+I3
+sVtargeted
+p125
+I1
+sVmen
+p126
+I1
+sVeminem
+p127
+I2
+sVstaking
+p128
+I1
+sVfanatic
+p129
+I1
+sVrude
+p130
+I2
+sVtrunk
+p131
+I1
+sVmaths
+p132
+I1
+sVsing
+p133
+I1
+sVteach
+p134
+I1
+sVhand
+p135
+I1
+sVfifteen
+p136
+I1
+sVshot
+p137
+I1
+sVthank
+p138
+I1
+sVerrrr
+p139
+I1
+sVboy
+p140
+I1
+sVarrive
+p141
+I1
+sVsniff
+p142
+I1
+sVace
+p143
+I1
+sVface
+p144
+I1
+sVhandstand
+p145
+I1
+sVcould
+p146
+I2
+sVarmy
+p147
+I1
+sVpunk
+p148
+I1
+sVjob
+p149
+I1
+sVsurround
+p150
+I1
+sVkeep
+p151
+I7
+sVengine
+p152
+I1
+sVthing
+p153
+I4
+sVadmit
+p154
+I1
+sVdescript
+p155
+I1
+sVcock
+p156
+I1
+sVmouth
+p157
+I1
+sVthink
+p158
+I3
+sVblood
+p159
+I1
+sVflash
+p160
+I1
+sVmadness
+p161
+I1
+sVdont
+p162
+I6
+sVbogardin
+p163
+I1
+sVdrunk
+p164
+I2
+sVwall
+p165
+I8
+sVmarshall
+p166
+I1
+sVscene
+p167
+I1
+sVpop
+p168
+I2
+sVone
+p169
+I1
+sVsedan
+p170
+I1
+sVhows
+p171
+I1
+sVcamaro
+p172
+I1
+sVtony
+p173
+I1
+sVarsenic
+p174
+I1
+sVmiss
+p175
+I1
+sVjaz
+p176
+I1
+sVeverybody
+p177
+I4
+sVwan
+p178
+I4
+sVfed
+p179
+I1
+sVfrom
+p180
+I1
+sVdistrict
+p181
+I1
+sVinjure
+p182
+I1
+sVcome
+p183
+I1
+sVtop
+p184
+I1
+sVgive
+p185
+I2
+sVvisit
+p186
+I1
+sVtwo
+p187
+I3
+sVfight
+p188
+I4
+sVgod
+p189
+I1
+sVbump
+p190
+I4
+sVpictures
+p191
+I1
+sVbeef
+p192
+I1
+sVdamn
+p193
+I1
+sVlow
+p194
+I1
+sVway
+p195
+I3
+sVhouse
+p196
+I1
+sVshits
+p197
+I1
+sVcall
+p198
+I1
+sVwhite
+p199
+I1
+sVman
+p200
+I1
+sVstart
+p201
+I1
+sVhospital
+p202
+I1
+sVbox
+p203
+I1
+sVson
+p204
+I1
+sVbuy
+p205
+I1
+sVshotgun
+p206
+I1
+sVpump
+p207
+I1
+sVdrugs
+p208
+I1
+sVbitches
+p209
+I3
+sVautomatic
+p210
+I1
+sVfuck
+p211
+I6
+sVatlas
+p212
+I1
+sVheat
+p213
+I1
+sVstick
+p214
+I1
+sVrabbit
+p215
+I1
+sVdeniro
+p216
+I1
+sVhold
+p217
+I1
+sVfunk
+p218
+I1
+sVhappening
+p219
+I1
+sVtano
+p220
+I1
+sVbrown
+p221
+I1
+sVballs
+p222
+I2
+sVma
+p223
+I1
+sVroom
+p224
+I2
+sVbritney
+p225
+I1
+sVthis
+p226
+I1
+sVmight
+p227
+I1
+sVinside
+p228
+I1
+sVwork
+p229
+I2
+sVtinted
+p230
+I1
+sVus
+p231
+I1
+sVair
+p232
+I1
+sVmatter
+p233
+I8
+sVmall
+p234
+I1
+sV2pacalypse
+p235
+I1
+sVuh
+p236
+I4
+sVrerun
+p237
+I1
+sVscream
+p238
+I2
+sVsahara
+p239
+I1
+sVfeeling
+p240
+I2
+sVpowers
+p241
+I1
+sVill
+p242
+I4
+sVmaybe
+p243
+I1
+sVgrip
+p244
+I1
+sVvodka
+p245
+I1
+sVoutta
+p246
+I2
+sVsticks
+p247
+I1
+sVmirrors
+p248
+I1
+sValmost
+p249
+I1
+sVtabs
+p250
+I1
+sVis
+p251
+I1
+sVfloor
+p252
+I1
+sVpopped
+p253
+I1
+sVit
+p254
+I9
+sVrip
+p255
+I1
+sVwallet
+p256
+I1
+sVtonight
+p257
+I4
+sVsay
+p258
+I4
+sVgood
+p259
+I1
+sVim
+p260
+I13
+sVcans
+p261
+I1
+sVrap
+p262
+I3
+sVtylenol
+p263
+I1
+sVhit
+p264
+I1
+sVairplane
+p265
+I1
+sVamericas
+p266
+I1
+sVtan
+p267
+I1
+sVshit
+p268
+I2
+sVterrorist
+p269
+I1
+sVturn
+p270
+I1
+sVna
+p271
+I12
+sVwaiting
+p272
+I1
+sVpitbulls
+p273
+I1
+sVofficers
+p274
+I1
+sVpills
+p275
+I1
+sVtil
+p276
+I4
+sVflossing
+p277
+I1
+sVfinish
+p278
+I1
+sVcausing
+p279
+I1
+sVtake
+p280
+I1
+sVmusketeers
+p281
+I1
+sVyou
+p282
+I2
+sVgets
+p283
+I1
+sVspears
+p284
+I1
+sVsike
+p285
+I1
+sVmeets
+p286
+I1
+sVjunk
+p287
+I1
+sVgat
+p288
+I2
+sVlaundry
+p289
+I1
+sVhey
+p290
+I1
+sVpalms
+p291
+I1
+sVgetting
+p292
+I4
+sVmay
+p293
+I3
+sVglands
+p294
+I1
+sVtown
+p295
+I1
+sVbald
+p296
+I1
+sVhang
+p297
+I1
+sVflows
+p298
+I1
+sVweed
+p299
+I1
+sVbasket
+p300
+I1
+sVdrag
+p301
+I1
+sVsip
+p302
+I1
+sVbarber
+p303
+I1
+sVlay
+p304
+I1
+sVkim
+p305
+I1
+sVstan
+p306
+I1
+sVsuck
+p307
+I5
+sVpolice
+p308
+I1
+sVmood
+p309
+I4
+sVteeth
+p310
+I1
+sVoff
+p311
+I2
+sVdissolves
+p312
+I1
+sVlunch
+p313
+I1
+sVdoc
+p314
+I5
+sVyoure
+p315
+I4
+sVm
+I2
+sVarsonists
+p316
+I1
+sVbloody
+p317
+I1
+sVacid
+p318
+I1
+sVsmashed
+p319
+I1
+sVjumped
+p320
+I1
+sVmauseburg
+p321
+I1
+sVbarrel
+p322
+I1
+sVcamps
+p323
+I1
+sVpulled
+p324
+I1
+sVyours
+p325
+I1
+sVsongs
+p326
+I1
+s.

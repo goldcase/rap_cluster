@@ -1,88 +1,725 @@
-"sleep" lyrics
-2pac lyrics
-"sleep"
-(feat. young buck, chamillionaire)
-quit starin' at me like a infra red nigga
-don't fall to sleep
-you can get ya cash on nigga if ya peep
-other niggaz close they eyes
-seein' dreams in they sleep
-but don't fall asleep
-don't fall to sleep
-you can get ya cash on
-pictures of penny
-sippin' my glass full of henny
-hands on my semi-
-automatic kill for pennies
-approach for contact
-cause i'm live i multiply
-soon as i open fire
-niggaz die wit' open eyes
-scare to take a nap
-it's a trap a long maze
-dreamin' of gettin' stacks
-makin' scratch the wrong way
-what the song say
-we murder motherfuckers daily
-black out blow the crack out
-my lyrics never fail me
-i inhale strong weed then release the stress
-deliver the bomb shit from the east to west
-like yay-yo
-niggaz pull out when i say so
-commence to poppin' motherfuckers copy it fatal
-'fficiently i delete then flee
-the art of war
-livin' sucka free
-get wit' me
-motherfucker don't sleep
-don't go to sleep
-you can get ya cash on nigga if ya peep
-other niggaz close they eyes
-seein' dreams in they sleep
-but don't fall asleep
-i'm starin' through my rear view
-doin' 'bout 90
-the petal to the metal
-so i can see what's behind me
-buckle up your seat belt eyes on the road
-they know we ridin' dirty gotta play it how it go
-they close down the projects the clubs been closed
-and then they wonder why niggaz breaking down o's
-i'm a run away slave
-ya get it nigga off the chain
-i got that thug life shit runnin' through my veins
-and now they scare
-they know that i been heaven sent
-and yeah we know the dope comin' from the president
-but look at us
-we ain't got shit to lose
-feel like we ballin' if we got a new pair of tennis shoes
-in the ghetto or better yet home sweet home
-this is the land of the free
-but to me that's wrong
-i'm on my way to the white house strapped wit' my heat
-so don't fall asleep
-come on niggaz
-they say that the moe they hate ya the moe that it motivate ya
-my mind set on grind my mental set on the paper
-62 hours and countin' and i'm still awake
-and they slippin' me sleepin' pills wit' the will i break
-broke nigga always tellin' ya how to make ya cash adjust
-so i just stop listenin' and now my cash is up
-red dotted the media cause they always mad at us
-i don't see 'em tryin' to mediate when we get gats and bust
-they just instigate and as soon as the get the tape
-it's dropped from my nigga life just as soon as they get the case
-personally i ain't trippin' on all this rappin' stuff
-i'm takin' back my money counter cause it wasn't fast enough, yep
-i got a couple problems (word) and none of 'em is money
-just those that love me to pretend to love me and say they buddies
-sometimes i want to maneuver with the ruger
-to live like freddie krueger these nightmares just ain't as bloody
-in meetings they always askin' what my passion is
-(and the) money talks so i always have words to answer this (yep)
-i can't relax cause its like i'm a fetti activist
-might see me on tv never a mat-tress
-don't go to sleep
-sleep banger
+(dp1
+Vbanger
+p2
+I1
+sVbreaking
+p3
+I1
+sVbomb
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I3
+sVpennies
+p7
+I1
+sVmeetings
+p8
+I1
+sVfall
+p9
+I5
+sVsoon
+p10
+I3
+sVpaper
+p11
+I1
+sVsleep
+p12
+I10
+sVgo
+p13
+I3
+sVyep
+p14
+I2
+sVruger
+p15
+I1
+sVstill
+p16
+I1
+sVfeat
+p17
+I1
+sVyet
+p18
+I1
+sVblow
+p19
+I1
+sVchain
+p20
+I1
+sVtv
+p21
+I1
+sVenough
+p22
+I1
+sVpoppin
+p23
+I1
+sVyoung
+p24
+I1
+sVbust
+p25
+I1
+sVsometimes
+p26
+I1
+sVbetter
+p27
+I1
+sVactivist
+p28
+I1
+sVblack
+p29
+I1
+sVrear
+p30
+I1
+sVscratch
+p31
+I1
+sVbout
+p32
+I1
+sVeast
+p33
+I1
+sVmight
+p34
+I1
+sVbuddies
+p35
+I1
+sVsent
+p36
+I1
+sVta
+p37
+I1
+sVrunnin
+p38
+I1
+sVlivin
+p39
+I1
+sVsong
+p40
+I1
+sVya
+p41
+I10
+sVdope
+p42
+I1
+sVstop
+p43
+I1
+sVhate
+p44
+I1
+sVbreak
+p45
+I1
+sVridin
+p46
+I1
+sVknow
+p47
+I3
+sVclubs
+p48
+I1
+sVhands
+p49
+I1
+sVword
+p50
+I1
+sVflee
+p51
+I1
+sVdreams
+p52
+I2
+sVghetto
+p53
+I1
+sVfficiently
+p54
+I1
+sVpersonally
+p55
+I1
+sVheaven
+p56
+I1
+sVlike
+p57
+I5
+sVsemi
+p58
+I1
+sVcause
+p59
+I4
+sVgettin
+p60
+I1
+sVadjust
+p61
+I1
+sVtrap
+p62
+I1
+sVdie
+p63
+I1
+sVrelease
+p64
+I1
+sVkill
+p65
+I1
+sVautomatic
+p66
+I1
+sVview
+p67
+I1
+sVem
+p68
+I2
+sVnigga
+p69
+I6
+sVart
+p70
+I1
+sVmental
+p71
+I1
+sVmaneuver
+p72
+I1
+sVhouse
+p73
+I1
+sVrelax
+p74
+I1
+sVyeah
+p75
+I1
+sVyayyo
+p76
+I1
+sVseat
+p77
+I1
+sVslippin
+p78
+I1
+sVsee
+p79
+I3
+sVasleep
+p80
+I3
+sVus
+p81
+I2
+sVlistenin
+p82
+I1
+sVfail
+p83
+I1
+sVclose
+p84
+I3
+sVpills
+p85
+I1
+sVout
+p86
+I1
+sVsleepin
+p87
+I1
+sVpictures
+p88
+I1
+sVaway
+p89
+I1
+sVcase
+p90
+I1
+sVbehind
+p91
+I1
+sVset
+p92
+I2
+sVpassion
+p93
+I1
+sVclosed
+p94
+I1
+sVgot
+p95
+I5
+sVapproach
+p96
+I1
+sVinstigate
+p97
+I1
+sVred
+p98
+I2
+sVkrueger
+p99
+I1
+sVaint
+p100
+I3
+sVfull
+p101
+I1
+sVrun
+p102
+I1
+sVlove
+p103
+I2
+sVstrapped
+p104
+I1
+sVnever
+p105
+I2
+sVdeliver
+p106
+I1
+sVmotherfucker
+p107
+I1
+sVfree
+p108
+I2
+sVinfra
+p109
+I1
+sVhours
+p110
+I1
+sVveins
+p111
+I1
+sVfetti
+p112
+I1
+sVpeep
+p113
+I2
+sVstrong
+p114
+I1
+sVcome
+p115
+I1
+sVon
+p116
+I1
+sValways
+p117
+I4
+sVstuff
+p118
+I1
+sVcountin
+p119
+I1
+sVos
+p120
+I1
+sVmotherfuckers
+p121
+I2
+sVroad
+p122
+I1
+sVthats
+p123
+I1
+sVmotivate
+p124
+I1
+sVwhats
+p125
+I1
+sVdont
+p126
+I9
+sVfeel
+p127
+I1
+sVsweet
+p128
+I1
+sVmakin
+p129
+I1
+sVbloody
+p130
+I1
+sVpair
+p131
+I1
+sV62
+p132
+I1
+sVwit
+p133
+I4
+sVfast
+p134
+I1
+sVcomin
+p135
+I1
+sVmattress
+p136
+I1
+sVopen
+p137
+I2
+sVbelt
+p138
+I1
+sVquit
+p139
+I1
+sVinhale
+p140
+I1
+sVseein
+p141
+I2
+sVwest
+p142
+I1
+sVbuckle
+p143
+I1
+sVtennis
+p144
+I1
+sVmediate
+p145
+I1
+sVlong
+p146
+I1
+sVdreamin
+p147
+I1
+sVlive
+p148
+I2
+sVway
+p149
+I2
+sVchamillionaire
+p150
+I1
+sVwhite
+p151
+I1
+sVtryin
+p152
+I1
+sVwar
+p153
+I1
+sVeyes
+p154
+I4
+sVmurder
+p155
+I1
+sVtellin
+p156
+I1
+sVbuck
+p157
+I1
+sVfire
+p158
+I1
+sVcrack
+p159
+I1
+sVcant
+p160
+I1
+sVback
+p161
+I1
+sVglass
+p162
+I1
+sVheat
+p163
+I1
+sVawake
+p164
+I1
+sVbroke
+p165
+I1
+sVmaze
+p166
+I1
+sV90
+p167
+I1
+sVcopy
+p168
+I1
+sVcommence
+p169
+I1
+sV2pac
+p170
+I1
+sVme
+p171
+I3
+sVpull
+p172
+I1
+sVnone
+p173
+I1
+sVfatal
+p174
+I1
+sVrappin
+p175
+I1
+sVlook
+p176
+I1
+sVpretend
+p177
+I1
+sVcash
+p178
+I5
+sVniggaz
+p179
+I6
+sVdirty
+p180
+I1
+sVmoe
+p181
+I2
+sVsucka
+p182
+I1
+sVdelete
+p183
+I1
+sVcounter
+p184
+I1
+sVmoney
+p185
+I3
+sVup
+p186
+I1
+sVwasnt
+p187
+I1
+sVpetal
+p188
+I1
+sVis
+p189
+I1
+sVpenny
+p190
+I1
+sVmind
+p191
+I1
+sVlife
+p192
+I2
+sVsay
+p193
+I4
+sVim
+p194
+I7
+sVdropped
+p195
+I1
+sVwant
+p196
+I1
+sVhome
+p197
+I2
+sVthug
+p198
+I1
+sVgrind
+p199
+I1
+sVtape
+p200
+I1
+sVshit
+p201
+I3
+sVsippin
+p202
+I1
+sVdotted
+p203
+I1
+sVmedia
+p204
+I1
+sVmake
+p205
+I1
+sVget
+p206
+I8
+sVtakin
+p207
+I1
+sVgats
+p208
+I1
+sVnap
+p209
+I1
+sVhenny
+p210
+I1
+sVtake
+p211
+I1
+sVanswer
+p212
+I1
+sVnew
+p213
+I1
+sVwonder
+p214
+I1
+sVprojects
+p215
+I1
+sVcouple
+p216
+I1
+sVplay
+p217
+I1
+sVaskin
+p218
+I1
+sVslave
+p219
+I1
+sVtalks
+p220
+I1
+sVballin
+p221
+I1
+sVdoin
+p222
+I1
+sVproblems
+p223
+I1
+sVweed
+p224
+I1
+sVfreddie
+p225
+I1
+sVwrong
+p226
+I2
+sVstarin
+p227
+I2
+sVmad
+p228
+I1
+sVmultiply
+p229
+I1
+sVpresident
+p230
+I1
+sVstress
+p231
+I1
+sVland
+p232
+I1
+sVtrippin
+p233
+I1
+sVlose
+p234
+I1
+sVmetal
+p235
+I1
+sVdaily
+p236
+I1
+sVscare
+p237
+I2
+sVcontact
+p238
+I1
+sVso
+p239
+I1
+sVnightmares
+p240
+I1
+sVwords
+p241
+I1
+sVstacks
+p242
+I1
+s.

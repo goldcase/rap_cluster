@@ -1,35 +1,301 @@
-"mac bible chapter 211 verse 20-21" lyrics
-snoop dogg lyrics
-"mac bible chapter 211 verse 20-21"
-(feat. mac minista)
-there's a scripture in the mac bible that says
-'he that trusts a ho, shall surely be broke'
-'pressure busts a pipe that make water run uphill'
-alotta you niggas talk that shit
-but half you niggas ain't real
-will the real niggas stand up and be counted
-or lay down and be mounted
-cuz this game is not a playground, it's a classroom
-it's not a holiday, but an educational process
-and experience is your greatest teacher
-so listen to the gangsta mack preacher
-macks do what they want, bustas do the best that they can
-from half of a gangstas start, is a sucka's dream
-in the game god said, that he would send a g
-with the street ethnics and g-code
-with the gangsta ten commandments
-and the gangsta ten commandments shall read:
-'thou shall kill a snitch'
-'thou shall check a bitch'
-'thou shall charge a ho'
-'thou shall send a sucker'
-'thou shall respect the g'
-'thou shall pack that steel'
-'thou shall keep it real'
-'thou shall flex his g's'
-'thou shall stack his green'
-'thou shall stay true to his game'
-see i'm a gangsta, not a prankster
-i don't pull rabbits out of my hat
-but i will pull a strap from behind my back
-now how 'bout that!
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sV211
+p4
+I2
+sVkill
+p5
+I1
+sVtalk
+p6
+I1
+sVfeat
+p7
+I1
+sVaint
+p8
+I1
+sVcuz
+p9
+I1
+sVsend
+p10
+I2
+sVverse
+p11
+I2
+sVgangsta
+p12
+I4
+sVholiday
+p13
+I1
+sVscripture
+p14
+I1
+sVreal
+p15
+I3
+sVflex
+p16
+I1
+sVread
+p17
+I1
+sVsucker
+p18
+I1
+sVgame
+p19
+I3
+sVhalf
+p20
+I2
+sVsays
+p21
+I1
+sVten
+p22
+I2
+sVbusts
+p23
+I1
+sVback
+p24
+I1
+sVpreacher
+p25
+I1
+sVsee
+p26
+I1
+sVstreet
+p27
+I1
+sVbest
+p28
+I1
+sVsaid
+p29
+I1
+sVminista
+p30
+I1
+sVgod
+p31
+I1
+sVshall
+p32
+I12
+sVtrusts
+p33
+I1
+sVbehind
+p34
+I1
+sVplayground
+p35
+I1
+sV2021
+p36
+I2
+sVrun
+p37
+I1
+sVwater
+p38
+I1
+sVpressure
+p39
+I1
+sVsurely
+p40
+I1
+sVteacher
+p41
+I1
+sVchapter
+p42
+I2
+sVbible
+p43
+I3
+sVsnoop
+p44
+I1
+sVg
+I2
+sVthou
+p45
+I10
+sVexperience
+p46
+I1
+sVkeep
+p47
+I1
+sVstand
+p48
+I1
+sVtheres
+p49
+I1
+sVprankster
+p50
+I1
+sVdont
+p51
+I1
+sVcommandments
+p52
+I2
+sVstrap
+p53
+I1
+sVuphill
+p54
+I1
+sVbitch
+p55
+I1
+sVrespect
+p56
+I1
+sVwould
+p57
+I1
+sVdogg
+p58
+I1
+sVcharge
+p59
+I1
+sVstart
+p60
+I1
+sVlisten
+p61
+I1
+sVsuckas
+p62
+I1
+sVthat
+p63
+I1
+sVgcode
+p64
+I1
+sVho
+p65
+I2
+sVbroke
+p66
+I1
+sVmounted
+p67
+I1
+sVtrue
+p68
+I1
+sVbout
+p69
+I1
+sVsteel
+p70
+I1
+sVpull
+p71
+I2
+sVniggas
+p72
+I3
+sVhat
+p73
+I1
+sVcan
+p74
+I1
+sVpack
+p75
+I1
+sValotta
+p76
+I1
+sVrabbits
+p77
+I1
+sVprocess
+p78
+I1
+sVgangstas
+p79
+I1
+sVim
+p80
+I1
+sVwant
+p81
+I1
+sVcheck
+p82
+I1
+sVshit
+p83
+I1
+sVeducational
+p84
+I1
+sVmake
+p85
+I1
+sVethnics
+p86
+I1
+sVstay
+p87
+I1
+sVmac
+p88
+I4
+sVlay
+p89
+I1
+sVsnitch
+p90
+I1
+sVmack
+p91
+I1
+sVstack
+p92
+I1
+sVclassroom
+p93
+I1
+sVbustas
+p94
+I1
+sVpipe
+p95
+I1
+sVgreen
+p96
+I1
+sVgreatest
+p97
+I1
+sVdream
+p98
+I1
+sVcounted
+p99
+I1
+sVmacks
+p100
+I1
+s.

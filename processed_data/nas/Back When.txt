@@ -1,64 +1,567 @@
-"back when" lyrics
-nas lyrics
-"back when"
-the ill reminisce and think about the fly days
-nothing like them 80s summer n.y. days
-hop on the nb5 days
-mopeds, pro keds, city split five ways
-how it all started, fifth floor apartment
-a jigsaw puzzle aerial view of the projects
-a kid saw struggle, buried a few of his partners
-now chill in resorts, enjoying massages
-check out the oracle bred from city housing
-nas, i'll rise the deads by thousands
-i remember seeing shan chilling near his audi
-hollis ave, run and them but i proudly
-put a poster up of shan and marley, that was art kid
-you love to hear the story how it started
-the bubbly i'm pouring wasn't popped yet
-before there was a audience to watch us
-i assure you, there was a process
-"you love to hear the story, how it all, how it all got started"
-how it all got started, yeah
-"you love to hear the story, how it all, how it all got started"
-how it, how it all got started
-"you love to hear the story how it all, how it all got started"
-hear the story, started off
-started off, started off
-how it all got started
-"back when, back when, back when, back when
-back when, back when, back when, back when"
-to call them fake today is hate, real niggas extinct
-pac left me inside a rap world with niggas that wink
-at other rappers, undercover niggas spit every way
-won't be surprised if all their rides have federal plates
-let alone their wardrobes and studio 4 flow
-it was real when i appeared, it would've been some jaws broke
-nas, my real name, stage name, same thing
-how could you let these lames claim king? i'm so ashamed, man
-i light a l for vernon, for niggas who would burn in hell
-for vernon; 10th street, 12th street, nightmare on elm street
-pimps creep, delve deep inside the editorials
-of the ghetto queens, kings, stories true
-who possesses the testicular fortitude
-to blow away myths that's a hindrance to all of you
-you blame your own shortcomings on sex and race
-the mafia, homosexuals and all the jews
-it's hogwash point of views, stereotypical
-anti-semitic like the foul words gibson spewed
-and it's pathetic, i don't get the credit i deserve
-that's why i hate doing interviews
-but i don't sweat it, study long, study raw
-my man dion said "nas over-think the songs he writing"
-i'm not a wack performer standing near a corny hype man
-i got the donism in me, i'm here to enlighten
-"you love to hear the story, how it all, how it all got started"
-how it all got started, yeah
-"you love to hear the story, how it all, how it all got started"
-how it, how it all got started
-"you love to hear the story how it all, how it all got started"
-hear the story, started off
-started off, started off
-how it all got started
-"back when, back when, back when, back when
-back when, back when, back when, back when"
+(dp1
+Vsummer
+p2
+I1
+sVashamed
+p3
+I1
+sVlyrics
+p4
+I2
+sVfoul
+p5
+I1
+sVresorts
+p6
+I1
+sVhell
+p7
+I1
+sVhate
+p8
+I2
+sVyet
+p9
+I1
+sVfifth
+p10
+I1
+sVenlighten
+p11
+I1
+sVblow
+p12
+I1
+sVpartners
+p13
+I1
+sVapartment
+p14
+I1
+sVny
+p15
+I1
+sVkeds
+p16
+I1
+sVreminisce
+p17
+I1
+sVghetto
+p18
+I1
+sV4
+I1
+sVenjoying
+p19
+I1
+sVthousands
+p20
+I1
+sVsurprised
+p21
+I1
+sVreal
+p22
+I3
+sVeditorials
+p23
+I1
+sVviews
+p24
+I1
+sVrise
+p25
+I1
+sVwatch
+p26
+I1
+sVfive
+p27
+I1
+sVwords
+p28
+I1
+sVfortitude
+p29
+I1
+sVworld
+p30
+I1
+sVprojects
+p31
+I1
+sVname
+p32
+I2
+sVwont
+p33
+I1
+sVhomosexuals
+p34
+I1
+sVlike
+p35
+I2
+sVspewed
+p36
+I1
+sVdeads
+p37
+I1
+sVrides
+p38
+I1
+sVl
+I1
+sVhollis
+p39
+I1
+sVaudience
+p40
+I1
+sVrace
+p41
+I1
+sVman
+p42
+I3
+sV12th
+p43
+I1
+sVoverthink
+p44
+I1
+sVstereotypical
+p45
+I1
+sVgibson
+p46
+I1
+sVundercover
+p47
+I1
+sVview
+p48
+I1
+sVart
+p49
+I1
+sVjews
+p50
+I1
+sVqueens
+p51
+I1
+sVjaws
+p52
+I1
+sVinterviews
+p53
+I1
+sVproudly
+p54
+I1
+sVback
+p55
+I18
+sVsex
+p56
+I1
+sVstreet
+p57
+I3
+sVwriting
+p58
+I1
+sVthing
+p59
+I1
+sVmarley
+p60
+I1
+sVcreep
+p61
+I1
+sVmafia
+p62
+I1
+sVways
+p63
+I1
+sVnightmare
+p64
+I1
+sVgot
+p65
+I13
+sVwouldve
+p66
+I1
+sVstanding
+p67
+I1
+sVrun
+p68
+I1
+sVpathetic
+p69
+I1
+sVpouring
+p70
+I1
+sVcredit
+p71
+I1
+sVburn
+p72
+I1
+sVwack
+p73
+I1
+sVnb5
+p74
+I1
+sVblame
+p75
+I1
+sVhype
+p76
+I1
+sVvernon
+p77
+I2
+sVlet
+p78
+I2
+sVstruggle
+p79
+I1
+sVput
+p80
+I1
+sVstage
+p81
+I1
+sVhogwash
+p82
+I1
+sVantisemitic
+p83
+I1
+sVill
+p84
+I2
+sVelm
+p85
+I1
+sVdays
+p86
+I3
+sVassure
+p87
+I1
+sVsweat
+p88
+I1
+sVstudio
+p89
+I1
+sVthink
+p90
+I1
+sVthats
+p91
+I2
+sVseeing
+p92
+I1
+sVlove
+p93
+I7
+sVdont
+p94
+I2
+sVstudy
+p95
+I2
+sVpoint
+p96
+I1
+sVappeared
+p97
+I1
+sVpuzzle
+p98
+I1
+sVdonism
+p99
+I1
+sValone
+p100
+I1
+sVfake
+p101
+I1
+sVkings
+p102
+I1
+sVextinct
+p103
+I1
+sVfederal
+p104
+I1
+sVbubbly
+p105
+I1
+sVcity
+p106
+I2
+sVstory
+p107
+I9
+sVwould
+p108
+I1
+sVhousing
+p109
+I1
+sVjigsaw
+p110
+I1
+sVlong
+p111
+I1
+sVmyths
+p112
+I1
+sVprocess
+p113
+I1
+sVcall
+p114
+I1
+sVway
+p115
+I1
+sVlames
+p116
+I1
+sVwardrobes
+p117
+I1
+sVtoday
+p118
+I1
+sVpopped
+p119
+I1
+sVspit
+p120
+I1
+sVstarted
+p121
+I20
+sVposter
+p122
+I1
+sVdion
+p123
+I1
+sVyeah
+p124
+I2
+sVmassages
+p125
+I1
+sVhear
+p126
+I9
+sVbroke
+p127
+I1
+sVtrue
+p128
+I1
+sVchill
+p129
+I1
+sVfly
+p130
+I1
+sVking
+p131
+I1
+sVniggas
+p132
+I4
+sVinside
+p133
+I2
+sVus
+p134
+I1
+sVnear
+p135
+I2
+sVstories
+p136
+I1
+sV10th
+p137
+I1
+sVcould
+p138
+I1
+sVchilling
+p139
+I1
+sVclaim
+p140
+I1
+sVperformer
+p141
+I1
+sVaerial
+p142
+I1
+sVcorny
+p143
+I1
+sVwasnt
+p144
+I1
+sVpro
+p145
+I1
+sVmopeds
+p146
+I1
+sVdeep
+p147
+I1
+sVraw
+p148
+I1
+sVim
+p149
+I4
+sVburied
+p150
+I1
+sVrap
+p151
+I1
+sVave
+p152
+I1
+sVsaw
+p153
+I1
+sVcheck
+p154
+I1
+sVaudi
+p155
+I1
+sVfloor
+p156
+I1
+sVdeserve
+p157
+I1
+sVget
+p158
+I1
+sVwhen
+p159
+I5
+sVnas
+p160
+I4
+sVpac
+p161
+I1
+sVsplit
+p162
+I1
+sVhop
+p163
+I1
+sV80s
+p164
+I1
+sVplates
+p165
+I1
+sVyou
+p166
+I1
+sVshan
+p167
+I2
+sVrappers
+p168
+I1
+sVpimps
+p169
+I1
+sVsaid
+p170
+I1
+sVtesticular
+p171
+I1
+sVaway
+p172
+I1
+sVnothing
+p173
+I1
+sVdelve
+p174
+I1
+sVkid
+p175
+I2
+sVshortcomings
+p176
+I1
+sVoff
+p177
+I4
+sVremember
+p178
+I1
+sVlight
+p179
+I1
+sVbred
+p180
+I1
+sVflow
+p181
+I1
+sVwink
+p182
+I1
+sVhindrance
+p183
+I1
+sVoracle
+p184
+I1
+sVevery
+p185
+I1
+sVsongs
+p186
+I1
+sVpossesses
+p187
+I1
+sVleft
+p188
+I1
+s.

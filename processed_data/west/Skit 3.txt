@@ -1,12 +1,91 @@
-skit 3 lyrics
-kanye west lyrics
-skit 3
-founded years ago
-broke slaves years ago
-years ago
-broke brothas 20s years ago
-could eat
-hmm remember that
-eating cereal forks wanted save milk remember hmm
-remember christmases mama walked room pretended tree huh
-remember that
+(dp1
+V20s
+p2
+I1
+sVbroke
+p3
+I2
+sVlyrics
+p4
+I2
+sVskit
+p5
+I2
+sVyears
+p6
+I4
+sVfounded
+p7
+I1
+sVkanye
+p8
+I1
+sVmilk
+p9
+I1
+sVwest
+p10
+I1
+sV3
+I2
+sVmama
+p11
+I1
+sVforks
+p12
+I1
+sVsave
+p13
+I1
+sVeating
+p14
+I1
+sVthat
+p15
+I2
+sVhuh
+p16
+I1
+sVpretended
+p17
+I1
+sVbrothas
+p18
+I1
+sVhmm
+p19
+I2
+sVchristmases
+p20
+I1
+sVcereal
+p21
+I1
+sVwanted
+p22
+I1
+sVeat
+p23
+I1
+sVroom
+p24
+I1
+sVago
+p25
+I4
+sVremember
+p26
+I4
+sVcould
+p27
+I1
+sVtree
+p28
+I1
+sVwalked
+p29
+I1
+sVslaves
+p30
+I1
+s.

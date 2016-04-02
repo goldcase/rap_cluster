@@ -1,75 +1,548 @@
-"for the love of money" lyrics
-dr. dre lyrics
-"for the love of money"
-(feat. jill scott, jon connor & anderson .paak)
-for the love of money
-for the love of money
-for the love of money
-it's beautiful outside
-looks like it's raining money, mayne
-it's beautiful outside
-looks like it's raining money, mayne
-say what's up to the broke nigga at the rich party
-who the fuck let this nigga in?
-do i look like i give a fuck? sorry
-looking at these hoes and they gold digger gorgeous tryna get me
-i run game on a bitch, one mississippi two mississippi
-flint nigga in the spot til they pop one and the cops come like (woo!)
-motherfuckers own a shotgun like a pop gun and they ready like yeah
-still a good nigga i'm a northside nigga til i'm gone
-do it for the ones in the hood like connor gon' put the city on
-fuck that shit nigga, fuck that shit go
-live for my hood, look this for my block
-ride for the hood, gotta spit it like pac
-i ain't got shit but i still feel good
-nigga can't take what a nigga don't got
-go hard in the paint, you can tell em post up
-homie in the hood like "let me hold something"
-your mans in the hood talking all that shit
-when they ran up on him lil buddy froze up
-all they be talkin' but ain't saying nothing
-niggas be talking that ain't what they want
-ain't no fake shit around here
-cause my nigga my city is really as real as the fuck
-i be killing this and not giving a fuck
-you laugh at a bitch, she get hid in the trunk
-you think this sound crazy, that's how i grew up
-so this for my people that's still in the cut
-i said i want that, need that
-the root of all evil mayne, (get it, get it)
-i said i want that, need that
-the root of all evil, mayne
-said what's up to the nigga wearing all black at a white party
-and i'm looking like i don't give a fuck
-that's how i get down nigga sorry
-and i'm looking like i don't play no games, nah, nigga don't try me
-been that nigga that's been spitting that
-paid dues like a motherfucking hobby
-if you're on that bullshit nigga better fly that shit right by me
-i came from the bottom of this bitch and made it out of that shit
-and that's why we on top of this motherfucking world
-damn, look at that body
-she come along with the territories
-turn around, move it for me, bend it over, end of story
-(seems like chasing paper's what's important to you)
-got a relationship with that money
-(but that bitch will never be faithful to you)
-even though i know she knows she crazy
-(please just let it go, seize, no saving you)
-ride, ride
-til the motherfucking wheels fall off in this bitch
-(we can do it for the love)
-but i'm never stopping my poppin'
-(these numbers don't lie, but your love is superficial
-it's the simple shit you need to pay attention to)
-want that, need that
-root of all evil, mayne
-i said i want that, need that
-root of all evil, mayne
-it's beautiful outside
-looks like it's raining money, mayne
-it's beautiful outside
-looks like it's raining money, mayne
-want that, need that
-the root of all evil mayne, get it, get it
-i said i want that, need that
+(dp1
+Vraining
+p2
+I4
+sVlyrics
+p3
+I2
+sVnorthside
+p4
+I1
+sVnumbers
+p5
+I1
+sVmoney
+p6
+I10
+sVmove
+p7
+I1
+sVscott
+p8
+I1
+sVlooks
+p9
+I4
+sVgo
+p10
+I3
+sVwhats
+p11
+I3
+sVstill
+p12
+I3
+sVfeat
+p13
+I1
+sVto
+p14
+I1
+sVfroze
+p15
+I1
+sVaint
+p16
+I4
+sVsuperficial
+p17
+I1
+sVcut
+p18
+I1
+sVgold
+p19
+I1
+sVseems
+p20
+I1
+sVwoo
+p21
+I1
+sVbetter
+p22
+I1
+sVsimple
+p23
+I1
+sVblack
+p24
+I1
+sVrich
+p25
+I1
+sVhobby
+p26
+I1
+sVsorry
+p27
+I2
+sVta
+p28
+I1
+sVreal
+p29
+I1
+sVsound
+p30
+I1
+sVgood
+p31
+I2
+sVsaying
+p32
+I1
+sVaround
+p33
+I2
+sVget
+p34
+I7
+sVgame
+p35
+I1
+sVones
+p36
+I1
+sVflint
+p37
+I1
+sVknow
+p38
+I1
+sVfall
+p39
+I1
+sVworld
+p40
+I1
+sVdr
+p41
+I1
+sVbullshit
+p42
+I1
+sVlike
+p43
+I15
+sVgun
+p44
+I1
+sVtry
+p45
+I1
+sVem
+p46
+I1
+sVnigga
+p47
+I14
+sVpeople
+p48
+I1
+sVhard
+p49
+I1
+sVyeah
+p50
+I1
+sVup
+p51
+I3
+sVhoes
+p52
+I1
+sVreally
+p53
+I1
+sVeven
+p54
+I1
+sVgon
+p55
+I1
+sVbottom
+p56
+I1
+sVgiving
+p57
+I1
+sVplease
+p58
+I1
+sVlooking
+p59
+I3
+sVoutside
+p60
+I4
+sVgot
+p61
+I4
+sVcause
+p62
+I1
+sVbody
+p63
+I1
+sVattention
+p64
+I1
+sVrun
+p65
+I1
+sVnever
+p66
+I2
+sVmayne
+p67
+I9
+sVhere
+p68
+I1
+sVkilling
+p69
+I1
+sVjill
+p70
+I1
+sVlet
+p71
+I3
+sVpaid
+p72
+I1
+sVsaving
+p73
+I1
+sVtrunk
+p74
+I1
+sVput
+p75
+I1
+sVpost
+p76
+I1
+sVcome
+p77
+I2
+sVjon
+p78
+I1
+sVbuddy
+p79
+I1
+sVon
+p80
+I1
+sVmans
+p81
+I1
+sVturn
+p82
+I1
+sVimportant
+p83
+I1
+sVgames
+p84
+I1
+sVwheels
+p85
+I1
+sVdre
+p86
+I1
+sVmotherfuckers
+p87
+I1
+sVblock
+p88
+I1
+sVthats
+p89
+I5
+sVmotherfucking
+p90
+I3
+sVlove
+p91
+I7
+sVdont
+p92
+I5
+sVfeel
+p93
+I1
+sVpoppin
+p94
+I1
+sVpop
+p95
+I2
+sVone
+p96
+I2
+sVright
+p97
+I1
+sVbitch
+p98
+I5
+sVlaugh
+p99
+I1
+sVfake
+p100
+I1
+sValong
+p101
+I1
+sVhood
+p102
+I5
+sVcity
+p103
+I2
+sVmississippi
+p104
+I2
+sVstory
+p105
+I1
+sVterritories
+p106
+I1
+sVtop
+p107
+I1
+sVanderson
+p108
+I1
+sVpaint
+p109
+I1
+sVlive
+p110
+I1
+sVdamn
+p111
+I1
+sVgorgeous
+p112
+I1
+sVwearing
+p113
+I1
+sVtell
+p114
+I1
+sVtryna
+p115
+I1
+sVknows
+p116
+I1
+sVspit
+p117
+I1
+sVthat
+p118
+I7
+sVfly
+p119
+I1
+sVit
+p120
+I2
+sVcops
+p121
+I1
+sVbroke
+p122
+I1
+sVhold
+p123
+I1
+sVdigger
+p124
+I1
+sVwhite
+p125
+I1
+sVme
+p126
+I3
+sVgrew
+p127
+I1
+sVlook
+p128
+I3
+sVniggas
+p129
+I1
+sVride
+p130
+I3
+sVcant
+p131
+I1
+sVstopping
+p132
+I1
+sVroot
+p133
+I5
+sVdues
+p134
+I1
+sVbend
+p135
+I1
+sVbeautiful
+p136
+I4
+sVgone
+p137
+I1
+sVcrazy
+p138
+I2
+sVgive
+p139
+I2
+sVran
+p140
+I1
+sVfuck
+p141
+I7
+sVtalking
+p142
+I2
+sVsay
+p143
+I1
+sVhomie
+p144
+I1
+sVim
+p145
+I5
+sVsomething
+p146
+I1
+sVwant
+p147
+I7
+sVin
+p148
+I1
+sVready
+p149
+I1
+sVmade
+p150
+I1
+sVshit
+p151
+I8
+sVlie
+p152
+I1
+sVend
+p153
+I1
+sVrelationship
+p154
+I1
+sVlil
+p155
+I1
+sVpay
+p156
+I1
+sVnah
+p157
+I1
+sVtil
+p158
+I3
+sVneed
+p159
+I7
+sVpac
+p160
+I1
+sVtake
+p161
+I1
+sVpapers
+p162
+I1
+sVparty
+p163
+I2
+sVyou
+p164
+I3
+sVtalkin
+p165
+I1
+sVplay
+p166
+I1
+sVthough
+p167
+I1
+sVspot
+p168
+I1
+sVevil
+p169
+I5
+sVsaid
+p170
+I5
+sVtwo
+p171
+I1
+sVspitting
+p172
+I1
+sVconnor
+p173
+I2
+sVnothing
+p174
+I1
+sVfaithful
+p175
+I1
+sVchasing
+p176
+I1
+sVseize
+p177
+I1
+sVshotgun
+p178
+I1
+sVyoure
+p179
+I1
+sVthink
+p180
+I1
+sVcame
+p181
+I1
+sVpaak
+p182
+I1
+sVhid
+p183
+I1
+s.

@@ -1,65 +1,545 @@
-"nice girl, wrong place" lyrics
-gang starr lyrics
-"nice girl, wrong place"
-(feat. boy big)
-you're just a nice girl, in the wrong place
-just a nice nice girl girl, in the wrong place
-what's a nice girl like you doing in a place like this?
-you wanna take my chips, i wanna take you on trips
-so you can help me, get my money
-go ahead, try it for me here's the story of my honey
-i'm the owner and i'll do more than bone you
-maybe help you advance, like prince did apollonia
-you looking right i see you hooking tonight
-but something about you, got me pushing up tight
-do that dance like aphrodite cause you mighty
-you might be the chick that make me trip just slightly
-ya eyes glisten, your breasts, ass and thighs is hittin
-if it ain't love, then this thug is just smitten
-i feel ya aura like i'm reading ya horo-
--scope, and i hope that i can see you tomorrow
-remembering your face like this, my henney chase like this
-what you doing in a place like this?
-you're just a nice girl, in the wrong place
-and i think i'm diggin you in a major way
-you're just a nice girl, in the wrong place
-yeah yeah, yeah yeah, yeah yeah
-whatcha doin in a place like this?
-what's a nice girl like you doing here like this?
-busting your heels like this, i know you feel like shit
-and you feel like calling the quits, but you need that dough
-paying for school, i can see that yo
-you're intelligent, similar to angelo
-i'm understanding you, i got big plans for you
-your whole awaistance got you going places
-you chasing money, ain't no funny faces
-you're/your shit serious, niggaz is delirious
-i like your little outfit, i like the way you're wearin it
-you say your last man was too jealous
-you're too young to settle down, girl i'll let you tell it
-you're not a video chick, not a groupie bitch
-just an ambitious young woman with juicy lips
-remembering your face like this, my henney chase like this
-what you doing in a place like this
-what's a nice lady doing in place so shady?
-your innocent stare and derriere so crazy
-conversation stimulating, you witty
-you got me debating on, taking you with me
-i'm in the back drinking yak, with you on my lap
-give me a dance cause, this is my track
-you holdin it down for your whole fam
-you wasn't happy with your last old man
-ma, you're doing things your way
-you're making your own pay
-gotta have a business of your own one day
-hon it ain't nothing to it, i wanna see you do it
-i'll tell you one thing, your last man blew it
-a perfect blend of, beauty and brains
-it's my duty to explain what you do to me and
-remembering your face like this, my henney chase like this
-what you doing in a place like this?
-now that i see that you be gettin ya money
-you look prime time, i know you be gettin ya money
-you look so fine, you've changed my mind
-and all i wanna know is why, why?
-just a nice girl...
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I2
+sVdance
+p4
+I2
+sVmoney
+p5
+I4
+sVdough
+p6
+I1
+sVgang
+p7
+I1
+sVgo
+p8
+I1
+sVlove
+p9
+I1
+sVfeat
+p10
+I1
+sVprince
+p11
+I1
+sVaint
+p12
+I3
+sVwitty
+p13
+I1
+sVlady
+p14
+I1
+sVexplain
+p15
+I1
+sVyoung
+p16
+I2
+sVgoing
+p17
+I1
+sVwhole
+p18
+I2
+sVinnocent
+p19
+I1
+sVpay
+p20
+I1
+sVmight
+p21
+I1
+sVhope
+p22
+I1
+sVta
+p23
+I1
+sVme
+p24
+I1
+sVwoman
+p25
+I1
+sVyo
+p26
+I1
+sVget
+p27
+I1
+sVya
+p28
+I5
+sVbig
+p29
+I2
+sVknow
+p30
+I3
+sVfam
+p31
+I1
+sVtaking
+p32
+I1
+sVdrinking
+p33
+I1
+sVchips
+p34
+I1
+sVday
+p35
+I1
+sVprime
+p36
+I1
+sVschool
+p37
+I1
+sVhooking
+p38
+I1
+sVlike
+p39
+I22
+sVwearin
+p40
+I1
+sVgroupie
+p41
+I1
+sVgettin
+p42
+I2
+sVdebating
+p43
+I1
+sVcalling
+p44
+I1
+sVtry
+p45
+I1
+sVsettle
+p46
+I1
+sVdiggin
+p47
+I1
+sVthighs
+p48
+I1
+sVhittin
+p49
+I1
+sVwhatcha
+p50
+I1
+sVchick
+p51
+I2
+sVbusting
+p52
+I1
+sVbone
+p53
+I1
+sVblew
+p54
+I1
+sVright
+p55
+I1
+sVold
+p56
+I1
+sVyeah
+p57
+I6
+sVhoro
+p58
+I1
+sVsee
+p59
+I5
+sVmighty
+p60
+I1
+sVniggaz
+p61
+I1
+sVperfect
+p62
+I1
+sVgirl
+p63
+I11
+sVand
+p64
+I1
+sVheres
+p65
+I1
+sVfine
+p66
+I1
+sVboy
+p67
+I1
+sVlooking
+p68
+I1
+sVholdin
+p69
+I1
+sVgot
+p70
+I5
+sVreading
+p71
+I1
+sVcause
+p72
+I2
+sVyoureyour
+p73
+I1
+sVass
+p74
+I1
+sVstare
+p75
+I1
+sVbusiness
+p76
+I1
+sVpushing
+p77
+I1
+sVlittle
+p78
+I1
+sVunderstanding
+p79
+I1
+sVlet
+p80
+I1
+sVmaking
+p81
+I1
+sVquits
+p82
+I1
+sVoutfit
+p83
+I1
+sVadvance
+p84
+I1
+sVlast
+p85
+I3
+sVahead
+p86
+I1
+sVill
+p87
+I3
+sVchanged
+p88
+I1
+sVconversation
+p89
+I1
+sVplace
+p90
+I12
+sVaura
+p91
+I1
+sVfaces
+p92
+I1
+sVslightly
+p93
+I1
+sVthink
+p94
+I1
+sVduty
+p95
+I1
+sVhenney
+p96
+I3
+sVmajor
+p97
+I1
+sVwhats
+p98
+I3
+sVfeel
+p99
+I3
+sVone
+p100
+I2
+sVnothing
+p101
+I1
+sVbitch
+p102
+I1
+sVowner
+p103
+I1
+sVtomorrow
+p104
+I1
+sVangelo
+p105
+I1
+sVwan
+p106
+I4
+sVstory
+p107
+I1
+sVglisten
+p108
+I1
+sVway
+p109
+I3
+sVstarr
+p110
+I1
+sVscope
+p111
+I1
+sVtell
+p112
+I2
+sVhappy
+p113
+I1
+sVback
+p114
+I1
+sVeyes
+p115
+I1
+sVyak
+p116
+I1
+sVaphrodite
+p117
+I1
+sVbrains
+p118
+I1
+sVjuicy
+p119
+I1
+sVpaying
+p120
+I1
+sVtonight
+p121
+I1
+sVma
+p122
+I1
+sVlook
+p123
+I2
+sVplaces
+p124
+I1
+sVthis
+p125
+I9
+sVderriere
+p126
+I1
+sVlips
+p127
+I1
+sVapollonia
+p128
+I1
+sVyouve
+p129
+I1
+sVvideo
+p130
+I1
+sVsimilar
+p131
+I1
+sVtrips
+p132
+I1
+sVstimulating
+p133
+I1
+sVremembering
+p134
+I3
+sVcrazy
+p135
+I1
+sVgive
+p136
+I1
+sVwasnt
+p137
+I1
+sVmind
+p138
+I1
+sVit
+p139
+I4
+sVhoney
+p140
+I1
+sVheels
+p141
+I1
+sVsay
+p142
+I1
+sVim
+p143
+I5
+sVsomething
+p144
+I1
+sVthug
+p145
+I1
+sVtrip
+p146
+I1
+sVshit
+p147
+I2
+sVchase
+p148
+I3
+sVfunny
+p149
+I1
+sVthing
+p150
+I1
+sVhon
+p151
+I1
+sVna
+p152
+I4
+sVmake
+p153
+I1
+sVdelirious
+p154
+I1
+sVtight
+p155
+I1
+sVneed
+p156
+I1
+sVtake
+p157
+I2
+sVambitious
+p158
+I1
+sVyou
+p159
+I2
+sVintelligent
+p160
+I1
+sVnice
+p161
+I11
+sVplans
+p162
+I1
+sVbeauty
+p163
+I1
+sVsmitten
+p164
+I1
+sVtrack
+p165
+I1
+sVdoin
+p166
+I1
+sVtime
+p167
+I1
+sVbreasts
+p168
+I1
+sVwrong
+p169
+I6
+sVjealous
+p170
+I1
+sVlap
+p171
+I1
+sVwhy
+p172
+I1
+sVman
+p173
+I3
+sVchasing
+p174
+I1
+sVmaybe
+p175
+I1
+sVshady
+p176
+I1
+sVyoure
+p177
+I9
+sVface
+p178
+I3
+sVthings
+p179
+I1
+sVawaistance
+p180
+I1
+sVserious
+p181
+I1
+sVblend
+p182
+I1
+s.

@@ -1,75 +1,561 @@
-"murda" lyrics
-scarface lyrics
-"murda"
-(feat. nokio, t.o.k.)
-it's gonna be a (murda!!!)
-(craigy t: ah! ah! ah!)
-a fuckin (flexx: murda!!!)
-bloody a bloody (murda!!!)
-fuckin with me 'gon get you (flexx: murda!!!)
-it's gonna be a (murda!!!) when a man come through
-with a smile on his face and gun pointed at you nigga
-(murda!!!) we right this year
-tony kelly filed the order so what you gwaan do?
-(murda!!!) when a man comes through
-(ah! ah! ah!) murda murda if yuh bet i tek furtha
-diss man yuh head fly like a bird yah
-(ah! ah! ah!) get it straight man a nuh bait man a nuh nerda
-gunshot danga red like i burnt yah
-(ah! ah! ah!) flow sicka this yuh neva heard a
-scarface we nuh see nuh bwoy we scurred a
-(ah! ah! ah!) a bwoy diss mi mek mi hollow point tip dem collide
-wid dem head fi mek a merga, ha!!!
-it's gonna be a (murda!!!) when a man come through
-with a smile on his face and gun pointed at you nigga
-(murda!!!) we right this year
-tony kelly filed the order so what you gwaan do?
-(murda!!!) when a man comes through
-with a smile on his face and gun pointed at you nigga
-(murda!!!) we right this year
-tony kelly filed the order so what you gwaan do?
-gunshots pop, dead man drop
-niggaz pull the pistols out the feds sayin stop
-(ah! ah! ah!) but dude we don't stop this cause g's don't quit
-quick to kill a motherfucker cause these don't click
-(ah! ah! ah!) o.g.'s so slick, they down with the trigger click
-squeeze on shit, we found where them niggaz stay
-police so sick, there's nothin they can do about
-me (?) get in now movin out
-(ah! ah! ah!) tired of bein broke here, sick of feelin fucked up
-wait until the smoke clear, cause i'm a hustler
-(ah! ah! ah!) hustle from dusk till dawn, until the hustle gone
-i put the muscle on, then the muzzle on
-(flexx: murda!!!) i gotta get it dog, cause i'm a killer dude
-(ah! ah! ah!) this is fuckin with me, now i'm fuckin with you
-nothin personal y'all, that's just the way it's played
-i gotta murda you all that's just how i was made
-it's gonna be a (murda!!!) when a man come through
-with a smile on his face and gun pointed at you nigga
-(murda!!!) we right this year
-tony kelly filed the order so what you gwaan do?
-(murda!!!) when a man comes through
-with a smile on his face and gun pointed at you nigga
-(murda!!!) we right this year
-tony kelly filed the order so what you gwaan do?
-sentiments attached to di glock yah
-neva leff we side neva hitch fi clap yah
-some bwoy fi dead dem nuh wrong fi drop yard
-drop flat pon spot dat nah get up yah
-gun academics must haffi learn dat
-graduate from di university of hard knocks
-mac 10 subtracts tech 9 left one gat
-anyway yuh tech it equal twenty gunshot
-we see fassies everywhere we go
-envious niggaz tryin to stop our flow
-but they never gonna stop us now
-t.o.k.,  scarface and nokio
-they could a never never flop we show
-mek dem know seh we good to go
-and if dem diss dem get overthrow
-end upon six feet below, oh!
-hmmm, hmmm, hmmm, hmmm, hmmm, hmmm
-hmmm, hmmm, hmmm, hmmm, hmmm, hmmm
-hmmm, hmmm, hmmm, hmmm, hmmm, hmmm
-hmmm, hmmm, hmmm, hmmm, hmmm, hmmm
-it's gonna be a (murda!!!!)
+(dp1
+Vnow
+p2
+I1
+sVdiss
+p3
+I3
+sVbait
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVpointed
+p7
+I5
+sVfiled
+p8
+I5
+sVanyway
+p9
+I1
+sVhitch
+p10
+I1
+sVpistols
+p11
+I1
+sVkill
+p12
+I1
+sVgo
+p13
+I2
+sVgs
+p14
+I1
+sVfeat
+p15
+I1
+sVhustler
+p16
+I1
+sVhmmm
+p17
+I24
+sVone
+p18
+I1
+sVmuzzle
+p19
+I1
+sVsqueeze
+p20
+I1
+sVpolice
+p21
+I1
+sVsayin
+p22
+I1
+sVpersonal
+p23
+I1
+sVoverthrow
+p24
+I1
+sVsmile
+p25
+I5
+sVta
+p26
+I2
+sVdo
+p27
+I5
+sVgood
+p28
+I1
+sVnokio
+p29
+I2
+sVget
+p30
+I6
+sVbein
+p31
+I1
+sVkiller
+p32
+I1
+sVstop
+p33
+I4
+sVcollide
+p34
+I1
+sVfeelin
+p35
+I1
+sVdat
+p36
+I2
+sVacademics
+p37
+I1
+sVknow
+p38
+I1
+sVknocks
+p39
+I1
+sVhollow
+p40
+I1
+sVburnt
+p41
+I1
+sVpon
+p42
+I1
+sVlike
+p43
+I2
+sVuniversity
+p44
+I1
+sVdrop
+p45
+I3
+sVgun
+p46
+I6
+sVflexx
+p47
+I3
+sVmerga
+p48
+I1
+sVquick
+p49
+I1
+sVthrough
+p50
+I6
+sVside
+p51
+I1
+sVyall
+p52
+I1
+sVnigga
+p53
+I5
+sVtired
+p54
+I1
+sVattached
+p55
+I1
+sVhard
+p56
+I1
+sVdead
+p57
+I2
+sVsee
+p58
+I2
+sVneva
+p59
+I3
+sVus
+p60
+I1
+sVnuh
+p61
+I5
+sVyear
+p62
+I5
+sVdawn
+p63
+I1
+sVclick
+p64
+I2
+sVout
+p65
+I1
+sVmovin
+p66
+I1
+sVgon
+p67
+I7
+sVfurtha
+p68
+I1
+sVslick
+p69
+I1
+sVequal
+p70
+I1
+sVgot
+p71
+I2
+sVcause
+p72
+I4
+sVbird
+p73
+I1
+sVred
+p74
+I1
+sVhustle
+p75
+I2
+sV10
+p76
+I1
+sVupon
+p77
+I1
+sVnever
+p78
+I3
+sVmotherfucker
+p79
+I1
+sVmek
+p80
+I3
+sVfound
+p81
+I1
+sVput
+p82
+I1
+sVcome
+p83
+I3
+sVwait
+p84
+I1
+sVon
+p85
+I1
+sVabout
+p86
+I1
+sVtek
+p87
+I1
+sVoh
+p88
+I1
+sVgunshots
+p89
+I1
+sVcould
+p90
+I1
+sVmac
+p91
+I1
+sVyuh
+p92
+I4
+sVclap
+p93
+I1
+sVsmoke
+p94
+I1
+sVcomes
+p95
+I3
+sVthats
+p96
+I2
+sVgunshot
+p97
+I2
+sVenvious
+p98
+I1
+sVwid
+p99
+I1
+sVdont
+p100
+I3
+sVsubtracts
+p101
+I1
+sVpoint
+p102
+I1
+sVpop
+p103
+I1
+sVbloody
+p104
+I2
+sVdanga
+p105
+I1
+sVright
+p106
+I5
+sVtony
+p107
+I5
+sVquit
+p108
+I1
+sVtwenty
+p109
+I1
+sVdude
+p110
+I2
+sVtok
+p111
+I2
+sVtrigger
+p112
+I1
+sVyah
+p113
+I5
+sVway
+p114
+I1
+sVtryin
+p115
+I1
+sVflat
+p116
+I1
+sVhead
+p117
+I2
+sVglock
+p118
+I1
+sVgat
+p119
+I1
+sVogs
+p120
+I1
+sVhaffi
+p121
+I1
+sVeverywhere
+p122
+I1
+sVbroke
+p123
+I1
+sVgwaan
+p124
+I5
+sVyard
+p125
+I1
+sVha
+p126
+I1
+sVmust
+p127
+I1
+sVfly
+p128
+I1
+sVpull
+p129
+I1
+sVmade
+p130
+I1
+sVstraight
+p131
+I1
+sVmi
+p132
+I2
+sVup
+p133
+I1
+sVniggaz
+p134
+I3
+sVnerda
+p135
+I1
+sVdem
+p136
+I6
+sVlearn
+p137
+I1
+sVim
+p138
+I3
+sVbet
+p139
+I1
+sVtheres
+p140
+I1
+sVgone
+p141
+I1
+sVplayed
+p142
+I1
+sVah
+p143
+I30
+sVleff
+p144
+I1
+sVheard
+p145
+I1
+sVscarface
+p146
+I3
+sVshit
+p147
+I1
+sVend
+p148
+I1
+sVna
+p149
+I6
+sVnah
+p150
+I1
+sVdi
+p151
+I2
+sVtip
+p152
+I1
+sVgraduate
+p153
+I1
+sVtill
+p154
+I1
+sVsentiments
+p155
+I1
+sVsick
+p156
+I2
+sV9
+I1
+sVyou
+p157
+I1
+sVseh
+p158
+I1
+sVscurred
+p159
+I1
+sVdusk
+p160
+I1
+sVspot
+p161
+I1
+sVstay
+p162
+I1
+sVwrong
+p163
+I1
+sVfeet
+p164
+I1
+sVfeds
+p165
+I1
+sVfucked
+p166
+I1
+sVfi
+p167
+I4
+sVcraigy
+p168
+I1
+sVsix
+p169
+I1
+sVman
+p170
+I10
+sVa
+I2
+sVbwoy
+p171
+I3
+sVclear
+p172
+I1
+sVflop
+p173
+I1
+sVflow
+p174
+I2
+sVdog
+p175
+I1
+sVnothin
+p176
+I2
+sVface
+p177
+I5
+sVsicka
+p178
+I1
+sVtech
+p179
+I2
+sVfuckin
+p180
+I4
+sVkelly
+p181
+I5
+sVfassies
+p182
+I1
+sVmuscle
+p183
+I1
+sVmurda
+p184
+I22
+sVorder
+p185
+I5
+sVleft
+p186
+I1
+s.

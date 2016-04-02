@@ -1,75 +1,664 @@
-"doing dumb shit" lyrics
-ice cube lyrics
-"doing dumb shit"
-<o'shea!  o'shea!
-get your ass in here, boy
-you hear me calling you?
-o'shea!>
-when i was young i used to hang with the seventh graders
-little bad motherfucker playing space invaders
-fucking with the girls in the fourth grade
-either feeling on they butts or pulling on they braids
-walking with the schoolhouse bully
-by doing that, i had a lot of pull, g
-cheating on tests, making a mess
-cussing like a sailor at recess
-it must a been a half moon
-cause you'll catch me running out the little girls' bathroom
-chewing on good and plenties
-got my gamble on at lunch pitching pennies
-yo i was living like the class clown
-pulling all the hokes, making all the jokes man
-when you young it's hard to see
-that it's wrong throwing rocks at the rtd
-popping out your window with a bb gun
-better yet knocking on your door and run
-playing hide-and-go-get-it for a little stank
-even though i was still shooting blanks
-as soon as the dark hit
-i was stealing candy out the corner market
-until i got my ass whipped
-cause i was ten years old, doing dumb shit
-thirteen, that's how old i was
-when my jimmy started getting a little peach fuzz
-and i was looking at any butt and ass
-me and my homies started cutting class
-going up to the high school
-looking for any bitch i could lie to
-tell em i was older than i really was
-smoked my first joint and got really buzzed
-that's what a mack's made of
-but when i got my first piece of pussy i fell in love
-hard as a rock the long way
-and then i put the rubber on the wrong way
-but i still gotta have it
-overexcited and fucking like a jackrabbit
-goddamn i was hot
-a virgin but i still knew how to lay pipe
-even though the hoe worked me
-i still knocked the boots from here to albuquerque
-then the shit got strange money
-i started shaking and jimmy felt funny
-then the nut came gushing
-i jumped up got dressed and start pushing
-cause i thought the bitch broke my dick
-cause i was still young doing dumb shit
-at 17 got my first volkswagon
-and mastered the life-long art of dragging
-to the women in college
-hung out with the og's and got some street knowledge
-breaking in cars and all that
-hitting punk fools with a baseball bat
-fucking at a real fast rate
-til they said that i might not graduate
-then i said fuck the dumb shit
-cause pops'll fuck me up quick
-if things continued
-so i start rapping about shit i been through
-and i got real good
-now i look at all the kids in the neighborhood
-trying to be baby macks
-doing shit that i did seven years back
-going through a stage
-but before they can grow up they on the front page
-and they mommas is having a fit
-cause they died young doing dumb shi
+(dp1
+Vrtd
+p2
+I1
+sVwalking
+p3
+I1
+sVrecess
+p4
+I1
+sVlyrics
+p5
+I2
+sVpennies
+p6
+I1
+sVsoon
+p7
+I1
+sVyears
+p8
+I2
+sVbaby
+p9
+I1
+sVthrough
+p10
+I1
+sVcorner
+p11
+I1
+sVschoolhouse
+p12
+I1
+sVyet
+p13
+I1
+sVtil
+p14
+I1
+sVknowledge
+p15
+I1
+sVfit
+p16
+I1
+sVcontinued
+p17
+I1
+sVoverexcited
+p18
+I1
+sVyoung
+p19
+I4
+sVbetter
+p20
+I1
+sVto
+p21
+I1
+sVinvaders
+p22
+I1
+sVgoing
+p23
+I2
+sVchewing
+p24
+I1
+sVhomies
+p25
+I1
+sVwomen
+p26
+I1
+sVmight
+p27
+I1
+sVfirst
+p28
+I3
+sVreal
+p29
+I2
+sVtests
+p30
+I1
+sVcube
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I1
+sVget
+p34
+I1
+sVbat
+p35
+I1
+sVdark
+p36
+I1
+sVlunch
+p37
+I1
+sVcutting
+p38
+I1
+sV17
+p39
+I1
+sVhalf
+p40
+I1
+sVfront
+p41
+I1
+sVlifelong
+p42
+I1
+sVfools
+p43
+I1
+sVgushing
+p44
+I1
+sVschool
+p45
+I1
+sVlike
+p46
+I3
+sVyoull
+p47
+I1
+sVgun
+p48
+I1
+sVclown
+p49
+I1
+sVrocks
+p50
+I1
+sVjokes
+p51
+I1
+sVbad
+p52
+I1
+sVfuzz
+p53
+I1
+sVeither
+p54
+I1
+sVrock
+p55
+I1
+sVhung
+p56
+I1
+sVshi
+p57
+I1
+sVshaking
+p58
+I1
+sVpage
+p59
+I1
+sVem
+p60
+I1
+sVold
+p61
+I2
+sVten
+p62
+I1
+sVfucking
+p63
+I3
+sVgoddamn
+p64
+I1
+sVnut
+p65
+I1
+sVhard
+p66
+I2
+sVback
+p67
+I1
+sVboots
+p68
+I1
+sVsee
+p69
+I1
+sVblanks
+p70
+I1
+sVdumb
+p71
+I6
+sVcandy
+p72
+I1
+sVbuzzed
+p73
+I1
+sVstealing
+p74
+I1
+sVcalling
+p75
+I1
+sVpopping
+p76
+I1
+sVreally
+p77
+I2
+sVeven
+p78
+I2
+sVliving
+p79
+I1
+sVstill
+p80
+I5
+sVrapping
+p81
+I1
+sVrate
+p82
+I1
+sVspace
+p83
+I1
+sVjumped
+p84
+I1
+sVice
+p85
+I1
+sVmoon
+p86
+I1
+sVlooking
+p87
+I2
+sVgot
+p88
+I10
+sVcause
+p89
+I6
+sVwhipped
+p90
+I1
+sVmastered
+p91
+I1
+sVass
+p92
+I3
+sVcollege
+p93
+I1
+sVfelt
+p94
+I1
+sVrun
+p95
+I1
+sVbully
+p96
+I1
+sVbb
+p97
+I1
+sVcars
+p98
+I1
+sVpushing
+p99
+I1
+sVseventh
+p100
+I1
+sVbathroom
+p101
+I1
+sVmotherfucker
+p102
+I1
+sVneighborhood
+p103
+I1
+sVquick
+p104
+I1
+sVplenties
+p105
+I1
+sVput
+p106
+I1
+sVbutts
+p107
+I1
+sVstage
+p108
+I1
+sVboy
+p109
+I1
+sVpiece
+p110
+I1
+sVg
+I1
+sVgetting
+p111
+I1
+sVof
+p112
+I1
+sVcould
+p113
+I1
+sVdragging
+p114
+I1
+sVrunning
+p115
+I1
+sVvolkswagon
+p116
+I1
+sVbaseball
+p117
+I1
+sVstank
+p118
+I1
+sVhokes
+p119
+I1
+sVthats
+p120
+I2
+sVjimmy
+p121
+I2
+sVlove
+p122
+I1
+sVgraduate
+p123
+I1
+sVgrade
+p124
+I1
+sVpussy
+p125
+I1
+sVgraders
+p126
+I1
+sVknocking
+p127
+I1
+sVsailor
+p128
+I1
+sVbitch
+p129
+I2
+sVart
+p130
+I1
+sVmarket
+p131
+I1
+sVlittle
+p132
+I4
+sVcheating
+p133
+I1
+sVvirgin
+p134
+I1
+sVgirls
+p135
+I2
+sVwindow
+p136
+I1
+sVlong
+p137
+I1
+sVgrow
+p138
+I1
+sVhitting
+p139
+I1
+sVthrowing
+p140
+I1
+sVlot
+p141
+I1
+sVwas
+p142
+I2
+sVtell
+p143
+I1
+sVdoor
+p144
+I1
+sVpitching
+p145
+I1
+sVthat
+p146
+I1
+sVstarted
+p147
+I3
+sVsaid
+p148
+I2
+sVogs
+p149
+I1
+sVfuck
+p150
+I2
+sVkids
+p151
+I1
+sVhear
+p152
+I1
+sVbroke
+p153
+I1
+sVbutt
+p154
+I1
+sVcatch
+p155
+I1
+sVworked
+p156
+I1
+sVtrying
+p157
+I1
+sVoshea
+p158
+I3
+sVmust
+p159
+I1
+sVme
+p160
+I1
+sVpull
+p161
+I1
+sValbuquerque
+p162
+I1
+sVmade
+p163
+I1
+sVlook
+p164
+I1
+sVjoint
+p165
+I1
+sVthings
+p166
+I1
+sVfast
+p167
+I1
+sVmommas
+p168
+I1
+sVdick
+p169
+I1
+sVstreet
+p170
+I1
+sVknocked
+p171
+I1
+sVmaking
+p172
+I2
+sVhideandgogetit
+p173
+I1
+sVfeeling
+p174
+I1
+sVcussing
+p175
+I1
+sVthirteen
+p176
+I1
+sVseven
+p177
+I1
+sVmoney
+p178
+I1
+sVpunk
+p179
+I1
+sVit
+p180
+I1
+sVhigh
+p181
+I1
+sVfunny
+p182
+I1
+sVgood
+p183
+I2
+sVpulling
+p184
+I2
+sVjackrabbit
+p185
+I1
+sVpopsll
+p186
+I1
+sVshooting
+p187
+I1
+sVshit
+p188
+I8
+sVlie
+p189
+I1
+sVhoe
+p190
+I1
+sVpeach
+p191
+I1
+sVway
+p192
+I2
+sVbreaking
+p193
+I1
+sVbraids
+p194
+I1
+sVrubber
+p195
+I1
+sVhot
+p196
+I1
+sVstrange
+p197
+I1
+sVfourth
+p198
+I1
+sVyou
+p199
+I1
+sVstart
+p200
+I2
+sVgamble
+p201
+I1
+sVused
+p202
+I1
+sVthough
+p203
+I2
+sVmess
+p204
+I1
+sVknew
+p205
+I1
+sVhang
+p206
+I1
+sVwrong
+p207
+I2
+sVfell
+p208
+I1
+sVlay
+p209
+I1
+sVclass
+p210
+I2
+sVdied
+p211
+I1
+sVman
+p212
+I1
+sVthought
+p213
+I1
+sVolder
+p214
+I1
+sVta
+p215
+I1
+sVpipe
+p216
+I1
+sVcame
+p217
+I1
+sVdressed
+p218
+I1
+sVsmoked
+p219
+I1
+sVplaying
+p220
+I2
+sVmacks
+p221
+I2
+s.

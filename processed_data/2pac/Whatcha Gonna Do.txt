@@ -1,127 +1,766 @@
-"whatcha gonna do?" lyrics
-2pac lyrics
-"whatcha gonna do?"
-(yawn)
-(hahaha)
-and ugh
-i started out dumb
-sprung off a hood rat
-listening to the radio
-wishing that i could rap
-but nothing changed
-i was stuck in the game
-cause everybody in the industry was fucking me man
-listen
-i've got a scheme
-break away do my own thing
-drop some conversation
-sit back and let the phone ring
-niggas they wanna see me rise
-'97 watch me cut these motherfuckers down to size
-and if i catch another case
-lord knows how they hate me
-got a playa in the court room
-please don't let them frame me
-i've been dealt a lot of bad cards
-living as a thug
-count my blessings
-don't stress in this land with no love
-maybe if they see me rolling
-look at all this green i'm holding
-i guess that's why the envious
-get their eye swollen
-hoping the heavenly farther love a hustler
-be the hardest nigga on earth to ever bust a nut
-my homies tell me have a heart
-fuck they feelings
-i've been trying to make a million since we started
-we cold hearted
-niggas in masks that'll blast at the task force
-empty out my clip
-time to mash
-they asked for it
-me makaveli i'm a motherfucker
-we break bread
-now we thug brothers (huhuh)
-niggas talk a lot of nonsense
-i choose to ignore
-a war
-they ain't ready for it (huhuh)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-my nine is thuglord
-my mind on my grind
-outlawz is my heart
-they shine when i shine
-my ryhme is my grind
-my team be on role
-proceed with the onslaught
-indeed they on top
-they all marks
-and its an outlaw holocaust
-when i got the sawed-off
-niggas gettin' halved off
-yer, nigga beware
-stand clear
-this nigga's scared
-man i don't really care
-i've been lost loved (loved)
-my heart need a hug (hug)
-my bite leave blood (blood)
-fight with a grudge
-the life of a thug nigga, might need gloves
-but you will never know
-with a price on your mug
-and fight strips snug right around your hands
-niggas sure you can never grab the mic again
-dog you fucking with a grown man
-and i can't afford to loose
-where we from niggas told to do
-so what cha ya wann' do?
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-watch me clown
-give me loving when i'm high
-i'ma outlaw baby i'll be thugging 'till i die
-in drop-top double r
-life as a rap star
-hustle like a crack fiend
-'till they catch me
-go ask somebody to your show
-watch them niggas out the sight of mah night scope
-cooking white dope
-got mah nigga 25 to life stretched out
-trying to have all the better things in life
-well makaveli
-a born leader 10 millimeter
-changing niggas future like a schizophrenic palm reader
-heeds from out the bible i read
-see the meek shall inherit the earth
-and the strong will lead
-hittin' weed like it alright
-i'm in the studio
-making music all night
-my enemies cry whenever i rise
-they hated 'till death
-try to beat me out my last breath
-what cha gonna do?
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
-now what cha gonna do? when my niggas come for you
-(what ya gonna do)
+(dp1
+Vthings
+p2
+I1
+sVugh
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVthatll
+p6
+I1
+sVindeed
+p7
+I1
+sVbeware
+p8
+I1
+sVhands
+p9
+I1
+sVwishing
+p10
+I1
+sVchoose
+p11
+I1
+sVbaby
+p12
+I1
+sVradio
+p13
+I1
+sVfarther
+p14
+I1
+sVgo
+p15
+I1
+sVearth
+p16
+I2
+sVcold
+p17
+I1
+sVyer
+p18
+I1
+sVhate
+p19
+I1
+sVhustler
+p20
+I1
+sVaint
+p21
+I1
+sV25
+p22
+I1
+sVcut
+p23
+I1
+sVscared
+p24
+I1
+sVtill
+p25
+I3
+sVhated
+p26
+I1
+sVbust
+p27
+I1
+sVmakaveli
+p28
+I2
+sV2pac
+p29
+I1
+sVhomies
+p30
+I1
+sVlord
+p31
+I1
+sVbread
+p32
+I1
+sVmight
+p33
+I1
+sVdo
+p34
+I2
+sVsomebody
+p35
+I1
+sVaround
+p36
+I1
+sVget
+p37
+I1
+sVya
+p38
+I13
+sVdope
+p39
+I1
+sVrise
+p40
+I2
+sVwatch
+p41
+I3
+sVbreak
+p42
+I2
+sVgame
+p43
+I1
+sVfiend
+p44
+I1
+sVtry
+p45
+I1
+sVknow
+p46
+I1
+sVlistening
+p47
+I1
+sVgettin
+p48
+I1
+sVblast
+p49
+I1
+sVlook
+p50
+I1
+sVwar
+p51
+I1
+sVlost
+p52
+I1
+sVever
+p53
+I1
+sVdrop
+p54
+I1
+sVclown
+p55
+I1
+sVignore
+p56
+I1
+sVbad
+p57
+I1
+sVgloves
+p58
+I1
+sVhittin
+p59
+I1
+sVdealt
+p60
+I1
+sVgrab
+p61
+I1
+sVhustle
+p62
+I1
+sVnigga
+p63
+I4
+sVforce
+p64
+I1
+sVfucking
+p65
+I2
+sVframe
+p66
+I1
+sVback
+p67
+I1
+sVschizophrenic
+p68
+I1
+sVborn
+p69
+I1
+sVsee
+p70
+I3
+sVsure
+p71
+I1
+sVdumb
+p72
+I1
+sVsight
+p73
+I1
+sVdie
+p74
+I1
+sVill
+p75
+I1
+sVthing
+p76
+I1
+sVreally
+p77
+I1
+sVliving
+p78
+I1
+sVgon
+p79
+I27
+sVhalved
+p80
+I1
+sVaway
+p81
+I1
+sVsince
+p82
+I1
+sVplease
+p83
+I1
+sVcooking
+p84
+I1
+sVcase
+p85
+I1
+sVmug
+p86
+I1
+sVfuture
+p87
+I1
+sVplaya
+p88
+I1
+sVreader
+p89
+I1
+sVheavenly
+p90
+I1
+sVgot
+p91
+I4
+sVcause
+p92
+I1
+sVleader
+p93
+I1
+sVtold
+p94
+I1
+sVima
+p95
+I1
+sVmillion
+p96
+I1
+sVright
+p97
+I1
+sVcha
+p98
+I14
+sVteam
+p99
+I1
+sVwhatcha
+p100
+I2
+sVsprung
+p101
+I1
+sVmotherfucker
+p102
+I1
+sVlead
+p103
+I1
+sVdeath
+p104
+I1
+sVlet
+p105
+I2
+sVmaking
+p106
+I1
+sVask
+p107
+I1
+sVstrong
+p108
+I1
+sVcome
+p109
+I12
+sVcare
+p110
+I1
+sVshine
+p111
+I2
+sVbible
+p112
+I1
+sVlast
+p113
+I1
+sVcould
+p114
+I1
+sVchanged
+p115
+I1
+sVconversation
+p116
+I1
+sVcrack
+p117
+I1
+sVblessings
+p118
+I1
+sVstand
+p119
+I1
+sVstudio
+p120
+I1
+sVmotherfuckers
+p121
+I1
+sVthats
+p122
+I1
+sVenvious
+p123
+I1
+sVlove
+p124
+I2
+sVdont
+p125
+I3
+sVheart
+p126
+I3
+sVnonsense
+p127
+I1
+sVfeelings
+p128
+I1
+sVnothing
+p129
+I1
+sVsnug
+p130
+I1
+sVstretched
+p131
+I1
+sVanother
+p132
+I1
+sVchanging
+p133
+I1
+sVthuglord
+p134
+I1
+sVring
+p135
+I1
+sVhood
+p136
+I1
+sVsize
+p137
+I1
+sVeverybody
+p138
+I1
+sVwan
+p139
+I1
+sVguess
+p140
+I1
+sVeye
+p141
+I1
+sVproceed
+p142
+I1
+sVryhme
+p143
+I1
+sVdouble
+p144
+I1
+sVtop
+p145
+I1
+sVnight
+p146
+I2
+sVfight
+p147
+I2
+sVbreath
+p148
+I1
+sVstuck
+p149
+I1
+sVcry
+p150
+I1
+sVmusic
+p151
+I1
+sVlot
+p152
+I2
+sVoutlawz
+p153
+I1
+sVbite
+p154
+I1
+sVscheme
+p155
+I1
+sVnut
+p156
+I1
+sVempty
+p157
+I1
+sVlisten
+p158
+I1
+sVlife
+p159
+I4
+sVhug
+p160
+I2
+sVknows
+p161
+I1
+sVstarted
+p162
+I2
+sVwann
+p163
+I1
+sVmarks
+p164
+I1
+sVgrudge
+p165
+I1
+sVcant
+p166
+I1
+sVphone
+p167
+I1
+sVtask
+p168
+I1
+sVloose
+p169
+I1
+sVscope
+p170
+I1
+sVcatch
+p171
+I2
+sVtrying
+p172
+I2
+sVwhite
+p173
+I1
+sV97
+p174
+I1
+sVcount
+p175
+I1
+sVloved
+p176
+I2
+sVdroptop
+p177
+I1
+sVroom
+p178
+I1
+sVmeek
+p179
+I1
+sVniggas
+p180
+I21
+sVleave
+p181
+I1
+sVoutlaw
+p182
+I2
+sVholocaust
+p183
+I1
+sVtell
+p184
+I1
+sVwhenever
+p185
+I1
+sVhardest
+p186
+I1
+sVr
+I1
+sVnine
+p187
+I1
+sVhahaha
+p188
+I1
+sVcards
+p189
+I1
+sVpalm
+p190
+I1
+sVloving
+p191
+I1
+sVindustry
+p192
+I1
+sVive
+p193
+I4
+sVready
+p194
+I1
+sVhoping
+p195
+I1
+sVclip
+p196
+I1
+sVgive
+p197
+I1
+sVonslaught
+p198
+I1
+sVmind
+p199
+I1
+sVfuck
+p200
+I1
+sVhigh
+p201
+I1
+sVhearted
+p202
+I1
+sVrat
+p203
+I1
+sVim
+p204
+I4
+sVthugging
+p205
+I1
+sVrap
+p206
+I2
+sVthug
+p207
+I3
+sVgrind
+p208
+I2
+sVgrown
+p209
+I1
+sVcourt
+p210
+I1
+sVsit
+p211
+I1
+sVna
+p212
+I28
+sVmake
+p213
+I1
+sVbeat
+p214
+I1
+sVafford
+p215
+I1
+sVneed
+p216
+I2
+sVrole
+p217
+I1
+sVholding
+p218
+I1
+sVbetter
+p219
+I1
+sVenemies
+p220
+I1
+sV10
+p221
+I1
+sVheeds
+p222
+I1
+sVstrips
+p223
+I1
+sVstar
+p224
+I1
+sVbrothers
+p225
+I1
+sVshall
+p226
+I1
+sVprice
+p227
+I1
+sVtime
+p228
+I1
+sVmasks
+p229
+I1
+sVweed
+p230
+I1
+sVmillimeter
+p231
+I1
+sVyawn
+p232
+I1
+sVasked
+p233
+I1
+sVblood
+p234
+I2
+sVnever
+p235
+I2
+sVrolling
+p236
+I1
+sVmah
+p237
+I2
+sVman
+p238
+I3
+sVstress
+p239
+I1
+sVland
+p240
+I1
+sVhuhuh
+p241
+I2
+sVread
+p242
+I1
+sVmaybe
+p243
+I1
+sVclear
+p244
+I1
+sVwell
+p245
+I1
+sVdog
+p246
+I1
+sVinherit
+p247
+I1
+sVmash
+p248
+I1
+sVlike
+p249
+I3
+sVgreen
+p250
+I1
+sVswollen
+p251
+I1
+sValright
+p252
+I1
+sVsawedoff
+p253
+I1
+sVmic
+p254
+I1
+sVtalk
+p255
+I1
+s.

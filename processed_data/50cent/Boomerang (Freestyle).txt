@@ -1,52 +1,483 @@
-"boomerang (freestyle)" lyrics
-50 cent lyrics
-"boomerang (freestyle)"
-yeah i'm back to work man
-i'ma do this shit til i fall apart
-she boomerang, i do my thing, she come back
-everytime that bitch say she leaving she come back
-she boomerang-rang, she boomerang-rang
-she boomerang-rang, she boomerang-rang
-this one's for all you niggas on lock down
-really missing the bitch with the dick in her mouth
-now she say she leaving, i say leave
-shit i need air to breath
-she no neccessity to me, i got game like the nba
-pro bitch, i know shit
-my nickname nfl, a nigga fucking loaded
-i'm rich like them white boys out there playing hockey
-nhl, a nigga hold a llama and i'm cocky
-should i explain myself, baby i'm on that hood shit
-so say you wanna go, well i say go 'head good bitch
-i tour pga, that's pussy n good ass
-bitch, when your on the jet, everybody first class
-shots of tequila, philippine cuisine, adobo
-you know a nigga loco
-my photo, on cover of the vibe
-a nigga so live, it's gq, xxl and black enterprise
-all i wanna do is flip money and make a profit
-shorty get to working my nerves, she need to stop it
-special investigate son, she jumping through my phone
-i wanna fucking be friend this is not want i want
-shit was cool til she shifted now her emotions involved
-i got that dick game that put bitches in pyscho ward
-she said she need me like she need air
-and it hurts because i'm acting like i don't care
-i was stuck so we fuck, call it make up sex
-call it magic, she tried to leave, she come back
-she gotta have it
-she addicted to my left stroke
-nah man, my right stroke
-i hit the back of that thing, she hit high notes
-you niggas in trouble man
-i woke up this morning, feeling like the old me
-i swear to god man
-everytime i say something, it's hot
-this shit just come outta me man
-they say i work just what i am
-i'm an artist, don't waste your time being a critic
-because i'm critically acclaimed muthafucker
-around the world, i'm 1 of 1
-there will never be another me
-i'm a perfectionist striving for perfection
-50 cent, fuck with me, g-g-g-g-g-unit
+(dp1
+Vlyrics
+p2
+I2
+sVphoto
+p3
+I1
+sVtequila
+p4
+I1
+sVcocky
+p5
+I1
+sVgo
+p6
+I2
+sVoutta
+p7
+I1
+sVboomerangrang
+p8
+I4
+sVima
+p9
+I1
+sV1
+I2
+sVgq
+p10
+I1
+sVexplain
+p11
+I1
+sVdick
+p12
+I2
+sVblack
+p13
+I1
+sVhockey
+p14
+I1
+sVrich
+p15
+I1
+sVnhl
+p16
+I1
+sVcool
+p17
+I1
+sVta
+p18
+I1
+sVgood
+p19
+I2
+sVhit
+p20
+I2
+sVaround
+p21
+I1
+sVget
+p22
+I1
+sVstop
+p23
+I1
+sVgame
+p24
+I2
+sVones
+p25
+I1
+sVknow
+p26
+I2
+sVllama
+p27
+I1
+sVfall
+p28
+I1
+sVworld
+p29
+I1
+sVtrouble
+p30
+I1
+sVapart
+p31
+I1
+sVmagic
+p32
+I1
+sVlike
+p33
+I5
+sVeverytime
+p34
+I2
+sVnotes
+p35
+I1
+sVnfl
+p36
+I1
+sV50
+p37
+I2
+sVstroke
+p38
+I2
+sVmorning
+p39
+I1
+sVleave
+p40
+I2
+sVinvestigate
+p41
+I1
+sVperfectionist
+p42
+I1
+sVshots
+p43
+I1
+sVaddicted
+p44
+I1
+sVnerves
+p45
+I1
+sVartist
+p46
+I1
+sVnigga
+p47
+I4
+sVold
+p48
+I1
+sVfucking
+p49
+I2
+sVback
+p50
+I5
+sVadobo
+p51
+I1
+sVsex
+p52
+I1
+sVnba
+p53
+I1
+sVn
+I1
+sVspecial
+p54
+I1
+sVreally
+p55
+I1
+sVsaid
+p56
+I1
+sVfuck
+p57
+I2
+sVprofit
+p58
+I1
+sVgod
+p59
+I1
+sVemotions
+p60
+I1
+sVacting
+p61
+I1
+sVit
+p62
+I2
+sVgot
+p63
+I3
+sVass
+p64
+I1
+sVmissing
+p65
+I1
+sVnever
+p66
+I1
+sVhurts
+p67
+I1
+sVput
+p68
+I1
+sVcome
+p69
+I4
+sVperfection
+p70
+I1
+sVcare
+p71
+I1
+sVpyscho
+p72
+I1
+sVworking
+p73
+I1
+sVinvolved
+p74
+I1
+sVleaving
+p75
+I2
+sVthing
+p76
+I2
+sVtour
+p77
+I1
+sVswear
+p78
+I1
+sVfirst
+p79
+I1
+sVdont
+p80
+I2
+sVpga
+p81
+I1
+sVpussy
+p82
+I1
+sVson
+p83
+I1
+sVdown
+p84
+I1
+sVright
+p85
+I1
+sVbitch
+p86
+I5
+sVanother
+p87
+I1
+sVloaded
+p88
+I1
+sVhood
+p89
+I1
+sVeverybody
+p90
+I1
+sVwan
+p91
+I3
+sVjet
+p92
+I1
+sVcent
+p93
+I2
+sVgggggunit
+p94
+I1
+sVbreath
+p95
+I1
+sVstuck
+p96
+I1
+sVlive
+p97
+I1
+sVcall
+p98
+I2
+sVwhite
+p99
+I1
+sVwaste
+p100
+I1
+sVfriend
+p101
+I1
+sVshifted
+p102
+I1
+sVhead
+p103
+I1
+sVfreestyle
+p104
+I2
+sVam
+p105
+I1
+sVbitches
+p106
+I1
+sVshorty
+p107
+I1
+sVyeah
+p108
+I1
+sVboys
+p109
+I1
+sVbaby
+p110
+I1
+sVward
+p111
+I1
+sVhold
+p112
+I1
+sVstriving
+p113
+I1
+sVxxl
+p114
+I1
+sVme
+p115
+I2
+sVcritically
+p116
+I1
+sVniggas
+p117
+I2
+sVwork
+p118
+I2
+sVflip
+p119
+I1
+sVair
+p120
+I2
+sVmuthafucker
+p121
+I1
+sVwoke
+p122
+I1
+sVboomerang
+p123
+I3
+sVfeeling
+p124
+I1
+sVmoney
+p125
+I1
+sVacclaimed
+p126
+I1
+sVlock
+p127
+I1
+sVpro
+p128
+I1
+sVphilippine
+p129
+I1
+sVloco
+p130
+I1
+sVhigh
+p131
+I1
+sVsay
+p132
+I7
+sVim
+p133
+I9
+sVsomething
+p134
+I1
+sVwant
+p135
+I2
+sVneed
+p136
+I4
+sVwell
+p137
+I1
+sVshit
+p138
+I6
+sVcuisine
+p139
+I1
+sVvibe
+p140
+I1
+sVna
+p141
+I3
+sVmake
+p142
+I2
+sVnah
+p143
+I1
+sVtil
+p144
+I2
+sVhot
+p145
+I1
+sVcritic
+p146
+I1
+sVtried
+p147
+I1
+sVneccessity
+p148
+I1
+sVtime
+p149
+I1
+sVjumping
+p150
+I1
+sVmouth
+p151
+I1
+sVnickname
+p152
+I1
+sVclass
+p153
+I1
+sVman
+p154
+I5
+sVphone
+p155
+I1
+sVcover
+p156
+I1
+sVenterprise
+p157
+I1
+sVthats
+p158
+I1
+sVplaying
+p159
+I1
+sVleft
+p160
+I1
+s.

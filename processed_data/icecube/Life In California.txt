@@ -1,78 +1,477 @@
-"life in california" lyrics
-ice cube lyrics
-"life in california"
-(feat. jayo felony, wc & young maylay)
-living just another day
-ak gun play
-la to the bay
-living life in california
-dough we get that dough
-ooh we got to get more
-living just another day
-(just another day)
-ak gun play
-(ak gun play)
-la to the bay
-(la to the bay)
-living life in california
-and jay-z can rap about the nyc
-why can't i talk about the shit i see?
-without alicia keys withouyt going r&b
-this is ain't no motown this is r a p
-it's a beautiful day in the neighborhood yea
-he can't stay if his name ain't there
-all the way from the bay to a night in
-this is how it is when you're living in california
-california swagger fuck record sales
-industry outlaw like josie wales
-california off the corner
-i'm a warn ya i'm the only west coast king
-idiot i mean i'll get you in the ring
-i'm as shitty as don king
-and taking all the money before the bell ring
-before i grab the mic the fat bitch sing
-it's already over supernova
-i'm kobe you a nigga i'm hooping over
-know me big homie
-the one and only
-ice cube don't get airplay
-cause i'm from la and rep where i stay
-it's a beautiful day in the neighborhood
-niggas get sprayed ak and it's good
-bitches don't get placed something that's good
-it's real and it feels when you're living in california
-see it's just another day in my neighborhood
-first thing off in the morning and i'm looking for that good
-sticking to my fingertips and i'm sitting on the hills
-overlooking the city man this shit is for real
-when you yak in my puff?
-lack in the fifty bruff?
-itll be a long that's what we got these bitches for
-bounce like a earthquake let it shake
-let's hear how much noise the city makes
-see it's just another day in my neighborhood
-and the police ain't fucking with me knock on wood
-or my shoes cause he blew my socks so good
-bulit my shot never knew id see my glock so good
-i'm walk like po po wanna hit
-he just can't do but they all wanna split
-i try to keeo my pedro head on
-see i tried to warn them fuck around
-you know what goes down in califonia
-dough we get that dough
-ooh we got to get more
-living just another day
-(just another day)
-ak gun play
-(ak gun play)
-la to the bay
-(la to the bay)
-living life in california
-dough we get that dough
-ooh we got to get more
-living just another day
-ak gun play
-la to the bay
-living life in california
-dough we get that dough
-ooh we got to get more
+(dp1
+Vsprayed
+p2
+I1
+sVshot
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVyea
+p6
+I1
+sVmoney
+p7
+I1
+sVover
+p8
+I1
+sVlack
+p9
+I1
+sVfifty
+p10
+I1
+sVdough
+p11
+I8
+sVshake
+p12
+I1
+sVcorner
+p13
+I1
+sVfeat
+p14
+I1
+sVaint
+p15
+I3
+sVpedro
+p16
+I1
+sVpolice
+p17
+I1
+sVhills
+p18
+I1
+sVhead
+p19
+I1
+sVla
+p20
+I7
+sVbell
+p21
+I1
+sVmaylay
+p22
+I1
+sVonly
+p23
+I1
+sVgoing
+p24
+I1
+sVwales
+p25
+I1
+sVreal
+p26
+I2
+sVcube
+p27
+I2
+sVhit
+p28
+I1
+sVaround
+p29
+I1
+sVget
+p30
+I12
+sVya
+p31
+I1
+sVbig
+p32
+I1
+sValicia
+p33
+I1
+sVfat
+p34
+I1
+sVcoast
+p35
+I1
+sVshitty
+p36
+I1
+sVfeels
+p37
+I1
+sVknow
+p38
+I2
+sVwithouyt
+p39
+I1
+sVone
+p40
+I1
+sVday
+p41
+I10
+sVname
+p42
+I1
+sVknock
+p43
+I1
+sVlike
+p44
+I3
+sVgun
+p45
+I6
+sVbay
+p46
+I7
+sVtry
+p47
+I1
+sVp
+I1
+sVgood
+p48
+I5
+sVnight
+p49
+I1
+sVgrab
+p50
+I1
+sVmean
+p51
+I1
+sVblew
+p52
+I1
+sVnigga
+p53
+I1
+sVneighborhood
+p54
+I4
+sVfucking
+p55
+I1
+sVwood
+p56
+I1
+sVbounce
+p57
+I1
+sVsee
+p58
+I5
+sVbruff
+p59
+I1
+sVfingertips
+p60
+I1
+sVmorning
+p61
+I1
+sVgoes
+p62
+I1
+sVliving
+p63
+I10
+sVfor
+p64
+I1
+sVplaced
+p65
+I1
+sVmotown
+p66
+I1
+sVice
+p67
+I2
+sVlooking
+p68
+I1
+sVrb
+p69
+I1
+sVgot
+p70
+I5
+sVcause
+p71
+I2
+sVnoise
+p72
+I1
+sVwc
+p73
+I1
+sVwan
+p74
+I2
+sVfelony
+p75
+I1
+sVsupernova
+p76
+I1
+sVnever
+p77
+I1
+sVitll
+p78
+I1
+sVcalifornia
+p79
+I10
+sVsing
+p80
+I1
+sVjosie
+p81
+I1
+sVearthquake
+p82
+I1
+sVon
+p83
+I1
+sVtaking
+p84
+I1
+sVkeeo
+p85
+I1
+sVthing
+p86
+I1
+sVpuff
+p87
+I1
+sVmakes
+p88
+I1
+sVthats
+p89
+I2
+sVsticking
+p90
+I1
+sValready
+p91
+I1
+sVdont
+p92
+I2
+sVjayo
+p93
+I1
+sVairplay
+p94
+I1
+sVsocks
+p95
+I1
+sVyoung
+p96
+I1
+sVjayz
+p97
+I1
+sVbitch
+p98
+I1
+sVanother
+p99
+I8
+sVkobe
+p100
+I1
+sVring
+p101
+I2
+sVcity
+p102
+I2
+sVwest
+p103
+I1
+sVthere
+p104
+I1
+sVlets
+p105
+I1
+sVlong
+p106
+I1
+sVmuch
+p107
+I1
+sVway
+p108
+I1
+sVswagger
+p109
+I1
+sVpo
+p110
+I2
+sVmore
+p111
+I4
+sVlife
+p112
+I6
+sVglock
+p113
+I1
+sVyak
+p114
+I1
+sVbitches
+p115
+I2
+sVooh
+p116
+I4
+sVsales
+p117
+I1
+sVwarn
+p118
+I2
+sVhear
+p119
+I1
+sVking
+p120
+I2
+sVniggas
+p121
+I1
+sVoutlaw
+p122
+I1
+sVrecord
+p123
+I1
+sVr
+I1
+sVill
+p124
+I1
+sVsomething
+p125
+I1
+sVbeautiful
+p126
+I2
+sVak
+p127
+I7
+sVfuck
+p128
+I2
+sVcant
+p129
+I3
+sVhomie
+p130
+I1
+sVim
+p131
+I9
+sVhooping
+p132
+I1
+sVrap
+p133
+I1
+sVid
+p134
+I1
+sVshit
+p135
+I2
+sVcalifonia
+p136
+I1
+sVlet
+p137
+I1
+sVidiot
+p138
+I1
+sVna
+p139
+I2
+sVmic
+p140
+I1
+sVsitting
+p141
+I1
+sVwalk
+p142
+I1
+sVbulit
+p143
+I1
+sVsplit
+p144
+I1
+sVnyc
+p145
+I1
+sVplay
+p146
+I6
+sVtried
+p147
+I1
+sVkeys
+p148
+I1
+sVknew
+p149
+I1
+sVstay
+p150
+I2
+sVman
+p151
+I1
+sVoverlooking
+p152
+I1
+sVindustry
+p153
+I1
+sVyoure
+p154
+I2
+sVwithout
+p155
+I1
+sVfirst
+p156
+I1
+sVrep
+p157
+I1
+sVtalk
+p158
+I1
+s.

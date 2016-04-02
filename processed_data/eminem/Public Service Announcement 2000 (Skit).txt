@@ -1,19 +1,131 @@
-"public service announcement 2000 (skit)" lyrics
-eminem lyrics
-"public service announcement 2000 (skit)"
-(with jeff bass)
-this is another public service announcement
-brought to you in part by slim shady
-(tell 'em i don't give a fuck)
-slim shady does not give a fuck what you think
-(tell 'em to suck it)
-if you don't like it you can suck his fucking cock
-(tell 'em they kissed my ass)
-little did you know upon purchasing this album
-you have just kissed his ass!
-(tell 'em i'm fed up)
-slim shady is fed up with your shit
-and he's going to kill you
-(yeah)
-uh, anything else?
-yeah, sue me!
+(dp1
+Vem
+p2
+I4
+sVdont
+p3
+I2
+sVlyrics
+p4
+I2
+sVgive
+p5
+I2
+sVfucking
+p6
+I1
+sVslim
+p7
+I3
+sVskit
+p8
+I2
+sVsue
+p9
+I1
+sVbrought
+p10
+I1
+sVim
+p11
+I1
+sVanother
+p12
+I1
+sVkissed
+p13
+I2
+sVshit
+p14
+I1
+sValbum
+p15
+I1
+sVannouncement
+p16
+I3
+sVlittle
+p17
+I1
+sVservice
+p18
+I3
+sVhes
+p19
+I1
+sVjeff
+p20
+I1
+sVpurchasing
+p21
+I1
+sVgoing
+p22
+I1
+sVtell
+p23
+I4
+sVass
+p24
+I2
+sVme
+p25
+I1
+sVbass
+p26
+I1
+sVupon
+p27
+I1
+sVfed
+p28
+I2
+sVeminem
+p29
+I1
+sVpart
+p30
+I1
+sVknow
+p31
+I1
+sVfuck
+p32
+I2
+sVsuck
+p33
+I2
+sVelse
+p34
+I1
+sVyeah
+p35
+I2
+sVlike
+p36
+I1
+sVanything
+p37
+I1
+sVshady
+p38
+I3
+sVpublic
+p39
+I3
+sV2000
+p40
+I2
+sVuh
+p41
+I1
+sVkill
+p42
+I1
+sVcock
+p43
+I1
+sVthink
+p44
+I1
+s.

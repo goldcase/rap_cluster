@@ -1,49 +1,397 @@
-"what's yo pleasure" lyrics
-snoop dogg lyrics
-"what's yo pleasure"
-(snoop x daz)
-lay low, getting' this weed money, me and my cous'
-yeah, you know how we do
-but i wanna hold that baby for a minute now
-see, about to knock 'er
-see what it takes for her to be knocked
-what it is, trip
-baby, what's yo' pleasure?
-i be there for you, baby!
-even through stormy weather
-huh, what did you prefer, let me accommodate
-to get you turned up, to get your head straight
-we started off with a quote, and now it's about an eighth
-when you and ali back, i blow it in ya face
-i could tell that you high because you laughing
-you took a dab of that wax girl, you blasting
-she wants some cake in her system, she take a shot of that
-moscato with the lemon, yeah, with a shot of yeah
-man, that's a hell of a combination, put you on your back
-she take three more shots, i said you dig that?
-now she in the mood tonight to get freaky
-i can tell that she buzzing, she getting kinky
-yes, she loving  she take a dab
-its me and one girl and snoop in dial
-hit the stormy weather, yeah, it's fifty below
-we in a smoke storm, baby, light it up and let's go!
-see, that's why we push it
-and go faster
-tell me how to get it on
-if you got the septic on the phone
-we go and smoke it off to this door?
-girl i wanna smoke wit ya
-you wanna smoke wit me
-the first time i'm feelin out your fantasy
-it's the man in me
-and the woman in you
-to make us do the things we do
-we got something in common
-i don't know what it is
-we can be lost or we can be free
-now i did like many ladies in my day
-but just like the smoke, they got blown away
-like a glass of wine, sit back and rewind
-but back into time, let the feeling rewind
-now, i don't know what it is and i don't know what it was
-but it's dpg, me and my big cuz
+(dp1
+Vthings
+p2
+I1
+sVcous
+p3
+I1
+sVshot
+p4
+I2
+sVlyrics
+p5
+I2
+sVali
+p6
+I1
+sVmoney
+p7
+I1
+sVfifty
+p8
+I1
+sVgo
+p9
+I3
+sVhell
+p10
+I1
+sVyes
+p11
+I1
+sVblow
+p12
+I1
+sVone
+p13
+I1
+sVstormy
+p14
+I2
+sVkinky
+p15
+I1
+sVcuz
+p16
+I1
+sVlets
+p17
+I1
+sVminute
+p18
+I1
+sVdo
+p19
+I2
+sVwoman
+p20
+I1
+sVhit
+p21
+I1
+sVcombination
+p22
+I1
+sVget
+p23
+I4
+sVya
+p24
+I2
+sVbig
+p25
+I1
+sVfeelin
+p26
+I1
+sVknow
+p27
+I4
+sVnow
+p28
+I1
+sVday
+p29
+I1
+sVdaz
+p30
+I1
+sVknock
+p31
+I1
+sVlike
+p32
+I3
+sVlost
+p33
+I1
+sVdig
+p34
+I1
+sVdpg
+p35
+I1
+sVwit
+p36
+I2
+sVlaughing
+p37
+I1
+sVshots
+p38
+I1
+sVx
+I1
+sVyeah
+p39
+I4
+sVsee
+p40
+I3
+sVgirl
+p41
+I3
+sVer
+p42
+I1
+sVeven
+p43
+I1
+sVdial
+p44
+I1
+sVsaid
+p45
+I1
+sVmood
+p46
+I1
+sVaway
+p47
+I1
+sVgot
+p48
+I3
+sVfreaky
+p49
+I1
+sVcommon
+p50
+I1
+sVfree
+p51
+I1
+sVknocked
+p52
+I1
+sVlet
+p53
+I2
+sVput
+p54
+I1
+sVbuzzing
+p55
+I1
+sVon
+p56
+I1
+sVgetting
+p57
+I2
+sVmany
+p58
+I1
+sVcould
+p59
+I1
+sVmoscato
+p60
+I1
+sVsmoke
+p61
+I5
+sVthats
+p62
+I2
+sVladies
+p63
+I1
+sVwhats
+p64
+I3
+sVdont
+p65
+I3
+sVblown
+p66
+I1
+sVprefer
+p67
+I1
+sVthree
+p68
+I1
+sVaccommodate
+p69
+I1
+sVfantasy
+p70
+I1
+sVweather
+p71
+I2
+sVwan
+p72
+I3
+sVtakes
+p73
+I1
+sVsnoop
+p74
+I3
+sVdogg
+p75
+I1
+sVsystem
+p76
+I1
+sVlow
+p77
+I1
+sVstorm
+p78
+I1
+sVwax
+p79
+I1
+sVwas
+p80
+I1
+sVtell
+p81
+I3
+sVloving
+p82
+I1
+sVwants
+p83
+I1
+sVhead
+p84
+I1
+sVdoor
+p85
+I1
+sVthat
+p86
+I2
+sVstarted
+p87
+I1
+sVhuh
+p88
+I1
+sVtook
+p89
+I1
+sVback
+p90
+I4
+sVphone
+p91
+I1
+sVbaby
+p92
+I4
+sVhold
+p93
+I1
+sVme
+p94
+I2
+sVtonight
+p95
+I1
+sVstraight
+p96
+I1
+sVus
+p97
+I1
+sVbelow
+p98
+I1
+sVcake
+p99
+I1
+sVfeeling
+p100
+I1
+sVis
+p101
+I1
+sVturned
+p102
+I1
+sVit
+p103
+I1
+sVhigh
+p104
+I1
+sVim
+p105
+I1
+sVsomething
+p106
+I1
+sVtrip
+p107
+I1
+sVlemon
+p108
+I1
+sVdab
+p109
+I2
+sVseptic
+p110
+I1
+sVsit
+p111
+I1
+sVna
+p112
+I3
+sVmake
+p113
+I1
+sVtake
+p114
+I3
+sVrewind
+p115
+I2
+sVyou
+p116
+I1
+sVquote
+p117
+I1
+sVblasting
+p118
+I1
+sVyo
+p119
+I3
+sVweed
+p120
+I1
+sVlay
+p121
+I1
+sVeighth
+p122
+I1
+sVman
+p123
+I2
+sVfaster
+p124
+I1
+sVglass
+p125
+I1
+sVlight
+p126
+I1
+sVface
+p127
+I1
+sVtime
+p128
+I2
+sVpush
+p129
+I1
+sVpleasure
+p130
+I3
+sVfirst
+p131
+I1
+sVwine
+p132
+I1
+s.

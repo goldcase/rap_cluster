@@ -1,58 +1,529 @@
-"still ballin" lyrics
-2pac lyrics
-"still ballin"
-(feat. trick daddy)
-straight motherfuckin ballin
-part two, still ballin
-westside
-now ever since a nigga was a seed
-only thing promised to me was the penitentiary, still ballin
-ridin on these niggaz cause they lame
-in a six-one chevy, still heavy in this game, can you feel me?
-blame it on my momma i'm a thug nigga
-up befo' the sun rise, quicker than the drug dealers
-tell me if it's on, nigga then we first to bomb
-bust on these bitch-made niggaz hit 'em up, westside
-ain't nobody love me as a broke nigga
-finger on the trigger lord forgive me if i smoke niggaz
-i love my females strapped, no fuckin from the back
-i get my currency in stacks, california's where i'm at - right?
-passed by while these niggaz wonder why
-i got shot but didn't die, let 'em see who's next to try
-did i cry, hell nah, nigga tear i shed
-for all my homies in the pen, many peers dead
-niggaz still ballin
-still ballin, until i die
-you can bring your crew motherfucker
-i be ballin, they wonder why
-(you can bring your crew but we remain true motherfuckers still)
-now as i kneel and pray i hope the lord understand
-when he's gone, devolve, i become a dangerous man
-ain't crazy or deranged, i'm sayin (i'm sayin)
-but when these kids go to spray 'em boy i don't be playin
-with clientele, any rhyme sales
-question is, will you fuck-niggaz ride for real, huh?
-bitch nigga this is g rated
-plus your homeboy won't make it, street game fugazi
-i'm elevated to the top of this shit
-done fucked around and put me and 2pac on the bitch
-and you can tell 'em thug life was the reason for this
-and i ride for any nigga who believe in the shit
-i'm still ballin
-still ballin, 'til the day i die
-you can bring your crew but we remain true motherfuckers
-still ballin, niggaz wonder why
-you can bring your crew but we remain true motherfuckers
-still ballin
-now everybody wanna see us dead
-two murdered on the front page, shot to death, bullets to the head
-niggaz holla out my name and it's similar to rape
-motherfuckers know i'm comin, so they runnin to they graves, watch
-swoop down with my nigga from the pound
-cause {trick} don't give a fuck, where you coward niggaz now, blast
-keep pumpin, ain't worried bout nuttin
-busters thought we was frontin, so reload and keep dumpin
-'til the day i die
-thug life!
-still ballin.. motherfuckers still ballin
-straight motherfuckin ballin
+(dp1
+Vbomb
+p2
+I1
+sVlyrics
+p3
+I2
+sVbring
+p4
+I4
+sVever
+p5
+I1
+sVelevated
+p6
+I1
+sVgo
+p7
+I1
+sVshot
+p8
+I2
+sVstill
+p9
+I14
+sVfeat
+p10
+I1
+sVmake
+p11
+I1
+sVaint
+p12
+I3
+sVdeath
+p13
+I1
+sVgraves
+p14
+I1
+sVsayin
+p15
+I2
+sVhead
+p16
+I1
+sVpray
+p17
+I1
+sVbust
+p18
+I1
+sVcrew
+p19
+I4
+sVswoop
+p20
+I1
+sVhomies
+p21
+I1
+sVlord
+p22
+I2
+sVbout
+p23
+I1
+sVhope
+p24
+I1
+sVreal
+p25
+I1
+sVrunnin
+p26
+I1
+sVhit
+p27
+I1
+sVaround
+p28
+I1
+sVget
+p29
+I1
+sVsimilar
+p30
+I1
+sVrise
+p31
+I1
+sVrhyme
+p32
+I1
+sVgame
+p33
+I2
+sVfrontin
+p34
+I1
+sVknow
+p35
+I1
+sVrape
+p36
+I1
+sVfront
+p37
+I1
+sVblast
+p38
+I1
+sVday
+p39
+I2
+sVwont
+p40
+I1
+sVcalifornias
+p41
+I1
+sVname
+p42
+I1
+sVbefo
+p43
+I1
+sVtear
+p44
+I1
+sVdie
+p45
+I4
+sVclientele
+p46
+I1
+sVcry
+p47
+I1
+sVworried
+p48
+I1
+sVtry
+p49
+I1
+sVreload
+p50
+I1
+sVbecome
+p51
+I1
+sVride
+p52
+I2
+sVheavy
+p53
+I1
+sVshed
+p54
+I1
+sVnigga
+p55
+I8
+sVnuttin
+p56
+I1
+sVback
+p57
+I1
+sVdead
+p58
+I2
+sVsee
+p59
+I2
+sVstreet
+p60
+I1
+sVus
+p61
+I1
+sVhell
+p62
+I1
+sVmurdered
+p63
+I1
+sVplayin
+p64
+I1
+sVwonder
+p65
+I3
+sVmotherfucker
+p66
+I1
+sVsun
+p67
+I1
+sVsince
+p68
+I1
+sVpen
+p69
+I1
+sVfinger
+p70
+I1
+sVgot
+p71
+I1
+sVcause
+p72
+I2
+sVkneel
+p73
+I1
+sVwan
+p74
+I1
+sVridin
+p75
+I1
+sVforgive
+p76
+I1
+sVblame
+p77
+I1
+sVspray
+p78
+I1
+sVlet
+p79
+I1
+sVput
+p80
+I1
+sVwestside
+p81
+I2
+sVboy
+p82
+I1
+sVsixone
+p83
+I1
+sVkids
+p84
+I1
+sVg
+I1
+sVmany
+p85
+I1
+sVreason
+p86
+I1
+sVdrug
+p87
+I1
+sVpage
+p88
+I1
+sVchevy
+p89
+I1
+sVthing
+p90
+I1
+sVfugazi
+p91
+I1
+sVplus
+p92
+I1
+sVsmoke
+p93
+I1
+sVdevolve
+p94
+I1
+sVmotherfuckers
+p95
+I5
+sVfuckin
+p96
+I1
+sVfirst
+p97
+I1
+sVem
+p98
+I4
+sVlove
+p99
+I2
+sVdont
+p100
+I2
+sVfeel
+p101
+I1
+sVmomma
+p102
+I1
+sVright
+p103
+I1
+sVdone
+p104
+I1
+sVbitch
+p105
+I2
+sVcomin
+p106
+I1
+sVnext
+p107
+I1
+sVballin
+p108
+I15
+sVbusters
+p109
+I1
+sVeverybody
+p110
+I1
+sVstrapped
+p111
+I1
+sVrated
+p112
+I1
+sVhes
+p113
+I1
+sVtop
+p114
+I1
+sVquestion
+p115
+I1
+sVtwo
+p116
+I2
+sVwhos
+p117
+I1
+sVtrigger
+p118
+I1
+sVpassed
+p119
+I1
+sVfuckniggaz
+p120
+I1
+sVtell
+p121
+I2
+sVbitchmade
+p122
+I1
+sVlife
+p123
+I2
+sVfemales
+p124
+I1
+sVnobody
+p125
+I1
+sVhuh
+p126
+I1
+sVfuck
+p127
+I1
+sVpart
+p128
+I1
+sVunderstand
+p129
+I1
+sVbroke
+p130
+I1
+sVbelieve
+p131
+I1
+sVtrue
+p132
+I3
+sV2pac
+p133
+I2
+sVme
+p134
+I1
+sVdumpin
+p135
+I1
+sVthis
+p136
+I1
+sVdangerous
+p137
+I1
+sVstraight
+p138
+I2
+sVniggaz
+p139
+I8
+sVtrick
+p140
+I2
+sVremain
+p141
+I3
+sVdaddy
+p142
+I1
+sVdidnt
+p143
+I1
+sVgone
+p144
+I1
+sVcrazy
+p145
+I1
+sVpound
+p146
+I1
+sVgive
+p147
+I1
+sVsales
+p148
+I1
+sVcurrency
+p149
+I1
+sVseed
+p150
+I1
+sVim
+p151
+I7
+sVpromised
+p152
+I1
+sVthug
+p153
+I3
+sVkeep
+p154
+I2
+sVshit
+p155
+I2
+sVholla
+p156
+I1
+sVcoward
+p157
+I1
+sVlame
+p158
+I1
+sVna
+p159
+I1
+sVnah
+p160
+I1
+sVhomeboy
+p161
+I1
+sVtil
+p162
+I2
+sVmotherfuckin
+p163
+I2
+sVpumpin
+p164
+I1
+sVwatch
+p165
+I1
+sVbullets
+p166
+I1
+sVfucked
+p167
+I1
+sVwhy
+p168
+I3
+sVman
+p169
+I1
+sVpenitentiary
+p170
+I1
+sVpeers
+p171
+I1
+sVquicker
+p172
+I1
+sVdealers
+p173
+I1
+sVderanged
+p174
+I1
+sVthought
+p175
+I1
+sVstacks
+p176
+I1
+s.

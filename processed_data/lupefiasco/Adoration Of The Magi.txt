@@ -1,81 +1,660 @@
-"adoration of the magi" lyrics
-lupe fiasco lyrics
-"adoration of the magi"
-(feat. crystal torres)
-you're so smart
-you're like, a contemporary museum of art
-that farts, that's harsh
-narcissism, on narcotics
-on sharp objects in large pockets
-at dark, you ain't gotta hide it
-keep it, metal gear solid
-lead the leaders, that's how you file it
-then clobber it
-low on energy, find peach cobbler then gobble it
-yeah, it's food in them drums and boxes
-if you beat 'em up then they'll drop it
-and they'll rapidly flicker till they disappear
-blinking gradually quickens till they isn't here
-and that's da da da da da da da...
-just to be back in
-reincarnated, exact twin
-exact ten, exact twelve
-ba ba ba ba ba ba ba ba...
-exact self
-do i really gotta say it?
-didn't we all play it?
-dojo, abobo
-overshore the throat, polo
-billy, jimmy
-even on the low low
-why you ready to die? you just a baby
-why them tears up under your eyes? you just a baby
-keep your head up in the sky, you just a baby
-quit chasing money, never mind, you just a baby
-(these maji adore you)
-why you wanna be born again? you just a baby
-why you playing in the streets? you just a baby
-now let's vogue, martin pose
-downward facing dog, warrior pose
-tree pose, bridge pose
-triangle pose, seated twist (pose, pose)
-upward facing dog (pose, pose)
-pigeon pose
-in this bitch, that's vulgar, that's yoga
-let's try it again with clothes
-and closer, enclosure, exposures
-quiet is kept like rosicrucian meet koza nostras on oprah's sofa
-with both controllers
-watchin' gazans and ashkenazis ride roller coasters
-say yeah
-yeah, lots of options, now up is down, two player
-now a is jump and b is punch
-you seein' somethin' that weren't there
-to find friendliness in a nemesis, it's a old test
-3 buttons, see somethin'
-that's emphasis on genesis
-can't be eyes closed when you side scroll
-you not the first person
-the first person from your first cursin'
-to your first cursive
-and your curse words is in the curve version
-it occurs virgin is the word version
-that refers perfect to the first person
-in the third verse, who's really me
-in the third person but prefers the first one, that's me
-again
-master cleanse and a syringe
-from a gerber until your first burger
-pamper to her depends
-everything between is just drawers
-even in between is no loss
-even where the king is no boss
-meet it with a swing it's so south
-unless you bamm bamm
-knocking them pitches into the grand stands
-in the club, watching the women just do them hand stands
-like you a man's man
-that's washing down a ham with the zam zam
-who got a baby in here with these strippers?
-she's two weeks pregnant
-didn't even know, he's dancing with her, damn...
+(dp1
+Vdojo
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVflicker
+p5
+I1
+sVcontemporary
+p6
+I1
+sVgazans
+p7
+I1
+sVbaby
+p8
+I7
+sVisnt
+p9
+I1
+sVoprahs
+p10
+I1
+sVcursin
+p11
+I1
+sVfeat
+p12
+I1
+sVfind
+p13
+I2
+sVaint
+p14
+I1
+sVadoration
+p15
+I2
+sVnemesis
+p16
+I1
+sVrapidly
+p17
+I1
+sVham
+p18
+I1
+sVsky
+p19
+I1
+sV3
+I1
+sVgerber
+p20
+I1
+sVbuttons
+p21
+I1
+sVtears
+p22
+I1
+sVweeks
+p23
+I1
+sVsmart
+p24
+I1
+sVta
+p25
+I2
+sVnarcissism
+p26
+I1
+sVtriangle
+p27
+I1
+sVdepends
+p28
+I1
+sVwatching
+p29
+I1
+sVfood
+p30
+I1
+sVblinking
+p31
+I1
+sVda
+p32
+I7
+sVdark
+p33
+I1
+sVboxes
+p34
+I1
+sVknow
+p35
+I1
+sVwords
+p36
+I1
+sVwerent
+p37
+I1
+sVone
+p38
+I1
+sVexact
+p39
+I4
+sVloss
+p40
+I1
+sVwashing
+p41
+I1
+sVlike
+p42
+I3
+sVpregnant
+p43
+I1
+sVdie
+p44
+I1
+sVdrop
+p45
+I1
+sVreincarnated
+p46
+I1
+sVlarge
+p47
+I1
+sVbilly
+p48
+I1
+sVmartin
+p49
+I1
+sVdownward
+p50
+I1
+sVfriendliness
+p51
+I1
+sVside
+p52
+I1
+sVvogue
+p53
+I1
+sVem
+p54
+I1
+sVtwelve
+p55
+I1
+sVart
+p56
+I1
+sVleaders
+p57
+I1
+sVten
+p58
+I1
+sVwarrior
+p59
+I1
+sVthere
+p60
+I1
+sVenergy
+p61
+I1
+sVstreets
+p62
+I1
+sVyeah
+p63
+I3
+sVjump
+p64
+I1
+sVborn
+p65
+I1
+sVsee
+p66
+I1
+sVshes
+p67
+I1
+sVperfect
+p68
+I1
+sVenclosure
+p69
+I1
+sVreally
+p70
+I2
+sVeven
+p71
+I4
+sVfacing
+p72
+I2
+sVgradually
+p73
+I1
+sVcurse
+p74
+I1
+sVhide
+p75
+I1
+sVstands
+p76
+I2
+sVlead
+p77
+I1
+sVnostras
+p78
+I1
+sVlots
+p79
+I1
+sVrosicrucian
+p80
+I1
+sVpigeon
+p81
+I1
+sVeverything
+p82
+I1
+sVcoasters
+p83
+I1
+sVversion
+p84
+I2
+sVclosed
+p85
+I1
+sVgot
+p86
+I3
+sVoccurs
+p87
+I1
+sVwatchin
+p88
+I1
+sVtorres
+p89
+I1
+sVpose
+p90
+I10
+sVba
+p91
+I8
+sVwan
+p92
+I1
+sVlupe
+p93
+I1
+sVfarts
+p94
+I1
+sVnever
+p95
+I1
+sVpunch
+p96
+I1
+sVhere
+p97
+I1
+sVboss
+p98
+I1
+sVmagi
+p99
+I2
+sVobjects
+p100
+I1
+sVdrums
+p101
+I1
+sVmeet
+p102
+I2
+sVhand
+p103
+I1
+sVrefers
+p104
+I1
+sVcursive
+p105
+I1
+sVroller
+p106
+I1
+sVmans
+p107
+I1
+sVclothes
+p108
+I1
+sVquiet
+p109
+I1
+sVkeep
+p110
+I2
+sVdrawers
+p111
+I1
+sVpockets
+p112
+I1
+sVswing
+p113
+I1
+sVupward
+p114
+I1
+sVhead
+p115
+I1
+sVoptions
+p116
+I1
+sVsouth
+p117
+I1
+sVthats
+p118
+I8
+sVbamm
+p119
+I2
+sVjimmy
+p120
+I1
+sVknocking
+p121
+I1
+sVtwo
+p122
+I2
+sVtwin
+p123
+I1
+sVbitch
+p124
+I1
+sVpolo
+p125
+I1
+sVcontrollers
+p126
+I1
+sVpamper
+p127
+I1
+sVquit
+p128
+I1
+sVseein
+p129
+I1
+sVhes
+p130
+I1
+sVmuseum
+p131
+I1
+sVvulgar
+p132
+I1
+sVlets
+p133
+I2
+sVwhos
+p134
+I1
+sVvirgin
+p135
+I1
+sVmaster
+p136
+I1
+sVlow
+p137
+I3
+sVdamn
+p138
+I1
+sVgenesis
+p139
+I1
+sVexposures
+p140
+I1
+sVeyes
+p141
+I2
+sVgear
+p142
+I1
+sVsofa
+p143
+I1
+sVclub
+p144
+I1
+sVmind
+p145
+I1
+sVashkenazis
+p146
+I1
+sVback
+p147
+I1
+sVverse
+p148
+I1
+sVbeat
+p149
+I1
+sVkept
+p150
+I1
+sVcleanse
+p151
+I1
+sVwomen
+p152
+I1
+sVme
+p153
+I2
+sVking
+p154
+I1
+sVb
+I1
+sVword
+p155
+I1
+sVplayer
+p156
+I1
+sVsolid
+p157
+I1
+sVride
+p158
+I1
+sVtree
+p159
+I1
+sVcant
+p160
+I1
+sVseated
+p161
+I1
+sVcrystal
+p162
+I1
+sVzam
+p163
+I2
+sVadore
+p164
+I1
+sVemphasis
+p165
+I1
+sVgobble
+p166
+I1
+sVdidnt
+p167
+I2
+sVbridge
+p168
+I1
+sVburger
+p169
+I1
+sVcurve
+p170
+I1
+sVovershore
+p171
+I1
+sVit
+p172
+I7
+sVtwist
+p173
+I1
+sVthroat
+p174
+I1
+sVsay
+p175
+I2
+sVsyringe
+p176
+I1
+sVcobbler
+p177
+I1
+sVfile
+p178
+I1
+sVin
+p179
+I1
+sVready
+p180
+I1
+sVsharp
+p181
+I1
+sVdisappear
+p182
+I1
+sVagain
+p183
+I1
+sVtheyll
+p184
+I2
+sVharsh
+p185
+I1
+sVpeach
+p186
+I1
+sVdancing
+p187
+I1
+sVna
+p188
+I1
+sVself
+p189
+I1
+sVnarcotics
+p190
+I1
+sVtill
+p191
+I2
+sVold
+p192
+I1
+sVquickens
+p193
+I1
+sVgrand
+p194
+I1
+sVtest
+p195
+I1
+sVcloser
+p196
+I1
+sVplay
+p197
+I1
+sVunless
+p198
+I1
+sVpitches
+p199
+I1
+sVabobo
+p200
+I1
+sVyoga
+p201
+I1
+sVman
+p202
+I1
+sVsomethin
+p203
+I2
+sVchasing
+p204
+I1
+sVmaji
+p205
+I1
+sVthird
+p206
+I2
+sVtry
+p207
+I1
+sVprefers
+p208
+I1
+sVyoure
+p209
+I2
+sVmetal
+p210
+I1
+sVdog
+p211
+I2
+sVclobber
+p212
+I1
+sVscroll
+p213
+I1
+sVperson
+p214
+I4
+sVstrippers
+p215
+I1
+sVkoza
+p216
+I1
+sVfiasco
+p217
+I1
+sVfirst
+p218
+I7
+sVplaying
+p219
+I1
+s.

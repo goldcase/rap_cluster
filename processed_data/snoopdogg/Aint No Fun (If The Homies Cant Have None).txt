@@ -1,68 +1,583 @@
-"ain't no fun (if the homies can't have none)" lyrics
-snoop dogg lyrics
-"ain't no fun (if the homies can't have none)"
-(feat. nate dogg, kurupt, warren g)
-you're back now at the jack-off hour this is dj, eazy dick
-on w-balls, right now, somethin new, by snoop doggy dogg
-and this one goes out to the ladies, from all the guys
-a big bow wow wow, cuz we gonna make it a little mystery
-here tonight, this is dj eazy dick, on the station that
-slaps you across your fat ass, with a fat dick
-when i met you last night baby
-before you opened up your gap
-i had respect for ya lady
-but now i take it all back
-cause you gave me all your pussy
-and ya even licked my balls
-leave your number on the cabinet
-and i promise baby, i'll give ya a call
-next time i'm feelin kinda horny
-you can come on over, and i'll break you off
-and if you can't fuck, that day, baby
-just lay back, and open your mouth
-cause i have never
-met a girl
-that i love
-in the whole wide world
-well, if kurupt gave a fuck about a bitch i'd always be broke
-i'd never have no motherfuckin indo to smoke
-i gets loced and looney, bitch you can't do me
-do we like bbd, you hoochie groupie?
-i have no love for hoes
-that's somethin i learned in the pound
-so how the fuck am i supposed
-to pay this hoe, just to lay this hoe
-i know the pussy's mines, i'ma fuck a couple more times
-and then i'm through with it, there's nothing else to do with it
-pass it to the homie, now you hit it
-cause she ain't nuthin but a bitch to me
-and y'all know, that bitches ain't shit to me
-i gives a fuck, why don't y'all pay attention
-approach it with a different proposition, i'm kurupt
-hoe you'll never be my only one, trick ass beeeitch!
-it ain't no fun, if the homies can't have none
-guess who back in the motherfuckin house
-with a fat dick for your motherfuckin mouth
-hoes recognize, niggaz do too
-cuz when bitches get skanless and pull a voodoo
-what you gon do?  you really don't know
-so i'd advise you not to trust that hoe
-silly of me to fall in love with a bitch
-knowin damn well, i'm too caught up with my grip
-now as the sun rotates and my game grows bigger
-how many bitches wanna fuck this nigga named snoop
-doggy, i'm all the above
-i'm too swift on my toes to get caught up with you hoes
-but see, it ain't no fun, if my homies can't get a taste of it
-cause you know i don't love em
-whoa!
-hey, now ya know, inhale, exhale with my flow
-one for the money, two for the btiches
-three to get ready, and four to hit the switches
-in my chevy, six-fo' rad to be exact
-with bitches on my side, and bitches on back
-so back up bitch cuz i'm strugglin, so get
-off your knees and then start jugglin
-these motherfuckin nuts in your mouth
-it's me, warren g the nigga with the clout
-whoo!
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVnamed
+p4
+I1
+sVfour
+p5
+I1
+sVgroupie
+p6
+I1
+sVeazy
+p7
+I2
+sVrotates
+p8
+I1
+sVfeat
+p9
+I1
+sVhorny
+p10
+I1
+sVwarren
+p11
+I2
+sVaint
+p12
+I6
+sVexact
+p13
+I1
+sVdick
+p14
+I4
+sVcuz
+p15
+I3
+sVhomies
+p16
+I4
+sVnate
+p17
+I1
+sVgave
+p18
+I2
+sVgrip
+p19
+I1
+sVpay
+p20
+I2
+sVdj
+p21
+I2
+sVabove
+p22
+I1
+sVget
+p23
+I5
+sVya
+p24
+I4
+sVbig
+p25
+I1
+sVcouple
+p26
+I1
+sVbtiches
+p27
+I1
+sVfat
+p28
+I3
+sVfeelin
+p29
+I1
+sVbreak
+p30
+I1
+sVpussys
+p31
+I1
+sVgame
+p32
+I1
+sVknow
+p33
+I5
+sVfall
+p34
+I1
+sVworld
+p35
+I1
+sVlady
+p36
+I1
+sVday
+p37
+I1
+sVbigger
+p38
+I1
+sVmystery
+p39
+I1
+sVswitches
+p40
+I1
+sVlooney
+p41
+I1
+sVlike
+p42
+I1
+sValways
+p43
+I1
+sVleave
+p44
+I1
+sVproposition
+p45
+I1
+sVnight
+p46
+I1
+sVjugglin
+p47
+I1
+sVside
+p48
+I1
+sVyall
+p49
+I2
+sVem
+p50
+I1
+sVright
+p51
+I1
+sVhouse
+p52
+I1
+sVback
+p53
+I6
+sVsee
+p54
+I1
+sVtoes
+p55
+I1
+sVhoes
+p56
+I3
+sVgirl
+p57
+I1
+sVreally
+p58
+I1
+sVeven
+p59
+I1
+sVknees
+p60
+I1
+sVgon
+p61
+I2
+sVopened
+p62
+I1
+sVmotherfuckin
+p63
+I4
+sVwow
+p64
+I2
+sVmines
+p65
+I1
+sVflow
+p66
+I1
+sVgoes
+p67
+I1
+sVjackoff
+p68
+I1
+sVit
+p69
+I3
+sVnew
+p70
+I1
+sVlearned
+p71
+I1
+sVdoggy
+p72
+I2
+sVcause
+p73
+I4
+sVacross
+p74
+I1
+sVass
+p75
+I2
+sVima
+p76
+I1
+sVattention
+p77
+I1
+sVnever
+p78
+I3
+sVguess
+p79
+I1
+sVmet
+p80
+I2
+sVstrugglin
+p81
+I1
+sVkurupt
+p82
+I3
+sVapproach
+p83
+I1
+sVcome
+p84
+I1
+sVlast
+p85
+I1
+sVg
+I2
+sVelse
+p86
+I1
+sVmany
+p87
+I1
+sVill
+p88
+I2
+sVwhoo
+p89
+I1
+sVbow
+p90
+I1
+sVchevy
+p91
+I1
+sVlicked
+p92
+I1
+sVyoull
+p93
+I1
+sVsmoke
+p94
+I1
+sVbeeeitch
+p95
+I1
+sVwhole
+p96
+I1
+sVthats
+p97
+I1
+sVtwo
+p98
+I1
+sVladies
+p99
+I1
+sVlove
+p100
+I4
+sVdont
+p101
+I3
+sVpussy
+p102
+I1
+sVnumber
+p103
+I1
+sVclout
+p104
+I1
+sVone
+p105
+I3
+sVnigga
+p106
+I2
+sVpromise
+p107
+I1
+sVbitch
+p108
+I5
+sVrespect
+p109
+I1
+sVtrust
+p110
+I1
+sVopen
+p111
+I1
+sVhoochie
+p112
+I1
+sVwan
+p113
+I1
+sVlittle
+p114
+I1
+sVinhale
+p115
+I1
+sVsnoop
+p116
+I3
+sVloced
+p117
+I1
+sVdogg
+p118
+I3
+sVcaught
+p119
+I2
+sVbbd
+p120
+I1
+sVhey
+p121
+I1
+sVnext
+p122
+I1
+sVsixfo
+p123
+I1
+sVstart
+p124
+I1
+sVstation
+p125
+I1
+sVcall
+p126
+I1
+sVtoo
+p127
+I1
+sVdamn
+p128
+I1
+sVwhoa
+p129
+I1
+sVgives
+p130
+I1
+sVthat
+p131
+I1
+sVbitches
+p132
+I5
+sVcabinet
+p133
+I1
+sVbroke
+p134
+I1
+sVbaby
+p135
+I3
+sVskanless
+p136
+I1
+sVme
+p137
+I3
+sVwide
+p138
+I1
+sVnone
+p139
+I3
+sVballs
+p140
+I1
+sVknowin
+p141
+I1
+sVhour
+p142
+I1
+sVslaps
+p143
+I1
+sVniggaz
+p144
+I1
+sVtrick
+p145
+I1
+sVsilly
+p146
+I1
+sVsupposed
+p147
+I1
+sVfun
+p148
+I4
+sVexhale
+p149
+I1
+sVtheres
+p150
+I1
+sVwballs
+p151
+I1
+sVrad
+p152
+I1
+sVpound
+p153
+I1
+sVgive
+p154
+I1
+sVtaste
+p155
+I1
+sVrecognize
+p156
+I1
+sVpass
+p157
+I1
+sVfuck
+p158
+I6
+sVtonight
+p159
+I1
+sVcant
+p160
+I6
+sVhomie
+p161
+I1
+sVim
+p162
+I7
+sVready
+p163
+I1
+sVhit
+p164
+I2
+sVtimes
+p165
+I1
+sVid
+p166
+I3
+sVshit
+p167
+I1
+sVdifferent
+p168
+I1
+sVhoe
+p169
+I4
+sVthree
+p170
+I1
+sVna
+p171
+I2
+sVmake
+p172
+I1
+sVnuts
+p173
+I1
+sVnuthin
+p174
+I1
+sVswift
+p175
+I1
+sVtake
+p176
+I1
+sVadvise
+p177
+I1
+sVgets
+p178
+I1
+sVgrows
+p179
+I1
+sVmouth
+p180
+I3
+sVlay
+p181
+I2
+sVkinda
+p182
+I1
+sVnothing
+p183
+I1
+sVsun
+p184
+I1
+sVgap
+p185
+I1
+sVguys
+p186
+I1
+sVpull
+p187
+I1
+sVsomethin
+p188
+I2
+sVoff
+p189
+I1
+sVyoure
+p190
+I1
+sVwell
+p191
+I2
+sVtime
+p192
+I1
+sVvoodoo
+p193
+I1
+sVindo
+p194
+I1
+s.

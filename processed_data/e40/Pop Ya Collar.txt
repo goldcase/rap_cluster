@@ -1,78 +1,710 @@
-"pop ya collar" lyrics
-e-40 lyrics
-"pop ya collar"
-(feat. the click)
-uh-huh; barbecue or mildew, hhhoe?
-ssshit heh
-my fetti has a first name - it's e-a-r-l
-about my mail, ssshit!
-nigga you know i'm up in this motherfucker, on a good one!
-fffuck yes!!
-you know what i mean? it's like a, a y-2-yea thing y'know?
-(haha) we does this out here (fo' schizzie)
-we pop our collars; please believe that playboy (like this here)
-my moves is swift, i'm stiff with mine
-remi martin straight, then i hit it with lime
-it's time to shine, to strike my pose
-five carats on my pinky, pickin my nose (beatch)
-i stroll on hoes, and give 'em a chance
-to let me see the ass while they backup dance
-i glance and breeze - if the body is true
-i'm off and on to part two (part two)
-now i done scanned at the club (what else?)
-i popped my collar to all my folks with love (what else?)
-and all the niggaz that didn't respond to me (what else?)
-i got my dogs watchin constantly (what else, what else?)
-with one hand in the baseball glove
-hella throwaways - and dangerous subs
-for my protection and my protection only
-this boss balla slippin whatchu thought i was phony?
-fresh up out my coupe de ville, i popped my collar twice
-about my money this loot is real, plus i'm dipped in ice
-i got a fat mansion on the hill, cause i made a mill'
-so if you see me please believe, cause i'm yo' potnah still
-(pop ya collar!) it's all from the wrist
-(pop ya collar!) been poppin my collar since moby was a goldfish..
-.. leavin 'em curious
-hoppin out of my lincoln continental, signature serious..
-.. parkin lot pimpin!
-one of my niggaz yell (hold me down) while i was pissin
-is that young 40 y'all?
-drunk as fuck and about to fall?
-done washed my shoes, the gators they bite
-baby bright light but not my type
-but if she want tonight, she come with dollars
-she either holler, or pop a nigga collar
-i'm fresh up out that coupe de ville
-four times gold on my vogue wheels
-big sunroof with the insides ill
-gotta give it to the boy he got skills
-made a mill'.. uh-huh, hoe beatch!
-(pop ya collar!) i done stepped on in
-(pop ya collar!) now can i come up?
-all these freaks hang out at the dump
-me and my dogs got this party on pump
-all the hoes look like they wanna hump
-i'm bout to pull a lil' lightweight stunt
-on a mizznission about that cut
-rough, buck, smokin on a blizznut
-ticked, pucked, ?? was loc'd
-dick, van dyke, all up in her truck
-lick, at night, e-feezy ain't no punk
-gobble, swallow, get her hella drunk
-40 ounce bizznottle, til i tr-uh-trump
-tip, hollow, mizzmillimeter thump
-feels no sinorrow for a sucka sap chump
-ya underdig?  yeah just
-y'know just tug on your lil' shirt
-pull it a lil' bit
-that's what we do out this way.. twice!
-dipped in ice..
-where?  made a mill'
-i'm still yo' potnah
-uh-huh.. northstar
-yeah.. dipped in ice..
-where this at?  you made a what?
-uh-huh.. i'm still yo' potnah nigga
-(pop ya collar!)  homeboy
-(pop ya collar!)
+(dp1
+Vsmokin
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I1
+sVfour
+p7
+I1
+sVbright
+p8
+I1
+sVhomeboy
+p9
+I1
+sVslippin
+p10
+I1
+sVbarbecue
+p11
+I1
+sVyes
+p12
+I1
+sVstill
+p13
+I3
+sVfeat
+p14
+I1
+sVaint
+p15
+I1
+sVhold
+p16
+I1
+sVdipped
+p17
+I3
+sVcollars
+p18
+I1
+sVhump
+p19
+I1
+sVdrunk
+p20
+I2
+sVpoppin
+p21
+I1
+sVyoung
+p22
+I1
+sVmoby
+p23
+I1
+sVonly
+p24
+I1
+sVthump
+p25
+I1
+sVfolks
+p26
+I1
+sVmail
+p27
+I1
+sVbout
+p28
+I1
+sVbeatch
+p29
+I2
+sVy2yea
+p30
+I1
+sVta
+p31
+I1
+sVreal
+p32
+I1
+sVgood
+p33
+I1
+sVhit
+p34
+I1
+sVschizzie
+p35
+I1
+sVyo
+p36
+I3
+sVpull
+p37
+I2
+sVya
+p38
+I9
+sVbig
+p39
+I1
+sVticked
+p40
+I1
+sVde
+p41
+I2
+sVfat
+p42
+I1
+sVfeels
+p43
+I1
+sVfive
+p44
+I1
+sVknow
+p45
+I2
+sVfall
+p46
+I1
+sVstunt
+p47
+I1
+sVbit
+p48
+I1
+sVfffuck
+p49
+I1
+sVstroll
+p50
+I1
+sVname
+p51
+I1
+sVearl
+p52
+I1
+sVlincoln
+p53
+I1
+sVwhatchu
+p54
+I1
+sVlike
+p55
+I3
+sVstiff
+p56
+I1
+sVskills
+p57
+I1
+sVglove
+p58
+I1
+sVhollow
+p59
+I1
+sVtwice
+p60
+I2
+sVnose
+p61
+I1
+sVmartin
+p62
+I1
+sVyall
+p63
+I1
+sVmean
+p64
+I1
+sVem
+p65
+I2
+sVass
+p66
+I1
+sVnigga
+p67
+I3
+sVjust
+p68
+I1
+sVdump
+p69
+I1
+sVsap
+p70
+I1
+sVyeah
+p71
+I2
+sVmansion
+p72
+I1
+sVsee
+p73
+I2
+sVholler
+p74
+I1
+sVhoes
+p75
+I2
+sVcurious
+p76
+I1
+sVclick
+p77
+I1
+sVmizzmillimeter
+p78
+I1
+sVwhat
+p79
+I1
+sVthrowaways
+p80
+I1
+sVsinorrow
+p81
+I1
+sVballa
+p82
+I1
+sVsince
+p83
+I1
+sVplease
+p84
+I2
+sVice
+p85
+I3
+sVthats
+p86
+I1
+sVpump
+p87
+I1
+sVhill
+p88
+I1
+sVfreaks
+p89
+I1
+sVgot
+p90
+I5
+sVcause
+p91
+I2
+sVwatchin
+p92
+I1
+sVbody
+p93
+I1
+sVmildew
+p94
+I1
+sVwan
+p95
+I1
+sVpose
+p96
+I1
+sVmotherfucker
+p97
+I1
+sVhere
+p98
+I1
+sVboss
+p99
+I1
+sVcut
+p100
+I1
+sVprotection
+p101
+I2
+sVlet
+p102
+I1
+sVcarats
+p103
+I1
+sVhoppin
+p104
+I1
+sVgoldfish
+p105
+I1
+sVfetti
+p106
+I1
+sVswift
+p107
+I1
+sVtug
+p108
+I1
+sVshine
+p109
+I1
+sVboy
+p110
+I1
+sVdollars
+p111
+I1
+sVpunk
+p112
+I1
+sVtimes
+p113
+I1
+sVthing
+p114
+I1
+sVounce
+p115
+I1
+sVplus
+p116
+I1
+sVmizznission
+p117
+I1
+sVsignature
+p118
+I1
+sVbaseball
+p119
+I1
+sVwheels
+p120
+I1
+sVvogue
+p121
+I1
+sVbackup
+p122
+I1
+sVfirst
+p123
+I1
+sVrespond
+p124
+I1
+sVdick
+p125
+I1
+sVlove
+p126
+I1
+sVsubs
+p127
+I1
+sVville
+p128
+I2
+sVwashed
+p129
+I1
+sVshirt
+p130
+I1
+sVway
+p131
+I1
+sVpop
+p132
+I10
+sVone
+p133
+I3
+sVdone
+p134
+I3
+sVtype
+p135
+I1
+sVglance
+p136
+I1
+sVuhhuh
+p137
+I4
+sVnorthstar
+p138
+I1
+sVlime
+p139
+I1
+sVinsides
+p140
+I1
+sVvan
+p141
+I1
+sVcome
+p142
+I2
+sVbite
+p143
+I1
+sVconstantly
+p144
+I1
+sVtwo
+p145
+I2
+sVcoupe
+p146
+I2
+sVcontinental
+p147
+I1
+sVlot
+p148
+I1
+sVstrike
+p149
+I1
+sVparkin
+p150
+I1
+sVheh
+p151
+I1
+sVdogs
+p152
+I2
+sVssshit
+p153
+I2
+sVpopped
+p154
+I2
+sVplayboy
+p155
+I1
+sVpimpin
+p156
+I1
+sVbuck
+p157
+I1
+sVclub
+p158
+I1
+sVfuck
+p159
+I1
+sVhaha
+p160
+I1
+sVphony
+p161
+I1
+sVelse
+p162
+I5
+sVblizznut
+p163
+I1
+sVmill
+p164
+I3
+sVpart
+p165
+I2
+sVbaby
+p166
+I1
+sVgold
+p167
+I1
+sVbelieve
+p168
+I2
+sVtrue
+p169
+I1
+sVtonight
+p170
+I1
+sVe40
+p171
+I1
+sVmade
+p172
+I4
+sVlook
+p173
+I1
+sVdangerous
+p174
+I1
+sVstraight
+p175
+I1
+sVup
+p176
+I1
+sVniggaz
+p177
+I2
+sVremi
+p178
+I1
+sVgobble
+p179
+I1
+sVloot
+p180
+I1
+sVdidnt
+p181
+I1
+sVill
+p182
+I1
+sVsucka
+p183
+I1
+sVlick
+p184
+I1
+sVswallow
+p185
+I1
+sVlocd
+p186
+I1
+sVgive
+p187
+I2
+sVsunroof
+p188
+I1
+sVmine
+p189
+I1
+sVpinky
+p190
+I1
+sVunderdig
+p191
+I1
+sVscanned
+p192
+I1
+sVim
+p193
+I9
+sVwant
+p194
+I1
+sVin
+p195
+I1
+sVmoves
+p196
+I1
+sVdyke
+p197
+I1
+sVpissin
+p198
+I1
+sVgators
+p199
+I1
+sVtruhtrump
+p200
+I1
+sVhoe
+p201
+I1
+sVlightweight
+p202
+I1
+sVbizznottle
+p203
+I1
+sVnight
+p204
+I1
+sVlil
+p205
+I3
+sVna
+p206
+I1
+sVget
+p207
+I1
+sVtip
+p208
+I1
+sV40
+p209
+I2
+sVyknow
+p210
+I2
+sVtil
+p211
+I1
+sVhella
+p212
+I2
+sVpickin
+p213
+I1
+sVparty
+p214
+I1
+sVstepped
+p215
+I1
+sVefeezy
+p216
+I1
+sVeither
+p217
+I1
+sVleavin
+p218
+I1
+sVhang
+p219
+I1
+sVhand
+p220
+I1
+sVchance
+p221
+I1
+sVpotnah
+p222
+I3
+sVhhhoe
+p223
+I1
+sVserious
+p224
+I1
+sVchump
+p225
+I1
+sVcollar
+p226
+I12
+sVfo
+p227
+I1
+sVpucked
+p228
+I1
+sVlight
+p229
+I1
+sVthought
+p230
+I1
+sVrough
+p231
+I1
+sVbreeze
+p232
+I1
+sVtruck
+p233
+I1
+sVtime
+p234
+I1
+sVfresh
+p235
+I2
+sVyell
+p236
+I1
+sVwrist
+p237
+I1
+s.

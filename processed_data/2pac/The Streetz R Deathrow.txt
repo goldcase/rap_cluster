@@ -1,107 +1,685 @@
-"the streetz r deathrow" lyrics
-2pac lyrics
-"the streetz r deathrow"
-growing up as an inner city brotha
-where every other had a pops and a motha
-i was tha product of a heated lover
-nobody knew how deep it screwed me
-and since my pops never knew me
-my family didn't know what ta do with me
-was i somebody they despise
-curious look in they eyes
-as if they wonder if i'm dead or alive
-poor momma can't control me
-quit tryin' ta save my soul, i wanna roll with my homies
-a ticken timebomb
-can't nobody fade me
-packin' a 380
-and fiendin' for my mercedes
-suckers scatter
-but it don't matter i'm a cool shot
-punks drop from all tha buckshots tha fools got
-i'm tired of being a nice guy
-i've been poor all my life, but don't know quite why
-so they label me a lunatic
-could care less
-death or success
-is what i quest
-cause i'm fearless
-now tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-i just murdered a man, i'm even more stressed
-wearin' a vest
-hopein' that their aimin' at my chest
-much too young to bite tha bullet
-hand on tha trigga
-i see my life before my eyes each time i pull it
-i hope i live to be a man
-must be part of some big plan to keep a brotha in tha state
-penn
-counting pennys over tha years
-i'd done stacked many
-proven wrong those
-who swore i'd wouldn't live till twenty
-now they gotta cope
-since it's tha only thing i know
-it's difficult to let it go
-i'm startin' to loose my hair cause i worry
-hustlin' to keep from gettin' buried
-but now i gotta move away now
-cause these suckers wanna spray where i lay down
-my homie lost his family and snapped
-shot up half tha block to bring them back
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-(like it ain't nothin')
-i'm dangerous
-when drunk i only drink beer
-gin makes me sin
-unable to think clear
-heneesee, makes me think my enemy is getting close
-boom boom boom
-got me shooting at a ghost
-some call me crazy
-but this is what you gave me
-amongst tha babies, who raised up from tha slavery
-i sport a vest and hit tha sess to kill tha stress
-moved out west and i invest in all tha best
-those who test will find a bullet in they chest
-put ta rest
-by a brotha who was hopeless
-grow up broke on tha rope of insanity
-how many pistols smoking coming from a broken family
-i'm sick of being tired
-sick of tha sirens, body bags, and tha gun firing
-tell bush to push tha button cause i'm fed
-tired of hearin' these voices in my head
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
-(cause i'll beat you down, like it ain't nothin')
-this goes out to my partners in tha live squad (like it
-ain't nothin')
-and all my partners involved in that 187
-watch your back...
-(cause i'll beat you down, like it ain't nothin')
-there got to be a better way...
-(cause i'll beat you down, like it ain't nothin')
-there's too many of us in tha cemetary
-(cause i'll beat you down, like it ain't nothin')
-come on, what we gonna do now
-(cause i'll beat you down, like it ain't nothin')
-tha streetz r deathrow
+(dp1
+Vdespise
+p2
+I1
+sVshot
+p3
+I2
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVtrigga
+p6
+I1
+sVbrotha
+p7
+I3
+sVmove
+p8
+I1
+sVrest
+p9
+I1
+sVyears
+p10
+I1
+sVpops
+p11
+I2
+sVbring
+p12
+I1
+sVkill
+p13
+I1
+sVgo
+p14
+I1
+sVinvolved
+p15
+I1
+sVfind
+p16
+I1
+sVaint
+p17
+I17
+sVpartners
+p18
+I2
+sVdeath
+p19
+I1
+sVhead
+p20
+I1
+sVcemetary
+p21
+I1
+sVyoung
+p22
+I1
+sVbetter
+p23
+I1
+sVbush
+p24
+I1
+sVthose
+p25
+I1
+sVfade
+p26
+I1
+sVhomies
+p27
+I1
+sVpenn
+p28
+I1
+sVsave
+p29
+I1
+sVhope
+p30
+I1
+sVta
+p31
+I5
+sVticken
+p32
+I1
+sVsomebody
+p33
+I1
+sVlunatic
+p34
+I1
+sVbeat
+p35
+I15
+sVbig
+p36
+I1
+sVhearin
+p37
+I1
+sVwatch
+p38
+I1
+sVtimebomb
+p39
+I1
+sVquest
+p40
+I1
+sVevery
+p41
+I1
+sVknow
+p42
+I3
+sVhalf
+p43
+I1
+sVnow
+p44
+I2
+sVcool
+p45
+I1
+sVpackin
+p46
+I1
+sVenemy
+p47
+I1
+sVlike
+p48
+I17
+sVsuccess
+p49
+I1
+sVbutton
+p50
+I1
+sVdrop
+p51
+I1
+sVslavery
+p52
+I1
+sVsin
+p53
+I1
+sVstartin
+p54
+I1
+sVmercedes
+p55
+I1
+sVguy
+p56
+I1
+sVdifficult
+p57
+I1
+sVmotha
+p58
+I1
+sVstreetz
+p59
+I15
+sVgettin
+p60
+I1
+sVtired
+p61
+I3
+sVback
+p62
+I2
+sValive
+p63
+I1
+sVgun
+p64
+I1
+sVhair
+p65
+I1
+sVsee
+p66
+I1
+sVcurious
+p67
+I1
+sVsport
+p68
+I1
+sVbest
+p69
+I1
+sVwonder
+p70
+I1
+sVeven
+p71
+I1
+sVgon
+p72
+I1
+sVaway
+p73
+I1
+sVsince
+p74
+I2
+sVlabel
+p75
+I1
+sVwouldnt
+p76
+I1
+sVstate
+p77
+I1
+sVunable
+p78
+I1
+sVgoes
+p79
+I1
+sVscrewed
+p80
+I1
+sVgot
+p81
+I5
+sVcause
+p82
+I19
+sVdrink
+p83
+I1
+sVsirens
+p84
+I1
+sVloose
+p85
+I1
+sVcity
+p86
+I1
+sVfearless
+p87
+I1
+sVnever
+p88
+I1
+sVfed
+p89
+I1
+sVpunks
+p90
+I1
+sVquite
+p91
+I1
+sV380
+p92
+I1
+sVbroken
+p93
+I1
+sVmurdered
+p94
+I1
+sVlet
+p95
+I1
+sVsnapped
+p96
+I1
+sVsuckers
+p97
+I2
+sVinsanity
+p98
+I1
+sVcome
+p99
+I1
+sVcare
+p100
+I1
+sVproven
+p101
+I1
+sVgetting
+p102
+I1
+sVmany
+p103
+I3
+sVill
+p104
+I15
+sVfiring
+p105
+I1
+sVspray
+p106
+I1
+sVscatter
+p107
+I1
+sVthing
+p108
+I1
+sVdeathrow
+p109
+I15
+sVhopeless
+p110
+I1
+sVstressed
+p111
+I1
+sVmakes
+p112
+I2
+sVthink
+p113
+I2
+sVblock
+p114
+I1
+sVlay
+p115
+I1
+sVraised
+p116
+I1
+sVpistols
+p117
+I1
+sVdont
+p118
+I2
+sVfamily
+p119
+I3
+sVdrunk
+p120
+I1
+sVcrazy
+p121
+I1
+sVdown
+p122
+I1
+sVput
+p123
+I1
+sVmomma
+p124
+I1
+sVdone
+p125
+I1
+sVheated
+p126
+I1
+sVpennys
+p127
+I1
+sVwan
+p128
+I2
+sVsess
+p129
+I1
+sVtwenty
+p130
+I1
+sVbite
+p131
+I1
+sVshooting
+p132
+I1
+sVbeer
+p133
+I1
+sVgrow
+p134
+I1
+sVlive
+p135
+I3
+sVmuch
+p136
+I1
+sVcall
+p137
+I1
+sVinner
+p138
+I1
+sVhustlin
+p139
+I1
+sVgin
+p140
+I1
+sVtryin
+p141
+I1
+sVwest
+p142
+I1
+sV187
+p143
+I1
+sVeyes
+p144
+I2
+sVway
+p145
+I1
+sVcope
+p146
+I1
+sVnobody
+p147
+I2
+sVbody
+p148
+I1
+sVamongst
+p149
+I1
+sVit
+p150
+I2
+sVheneesee
+p151
+I1
+sVpart
+p152
+I1
+sVdead
+p153
+I1
+sVbroke
+p154
+I1
+sVsick
+p155
+I2
+sVsmoking
+p156
+I1
+sV2pac
+p157
+I1
+sVmust
+p158
+I1
+sVme
+p159
+I6
+sVpull
+p160
+I1
+sVaimin
+p161
+I1
+sVstacked
+p162
+I1
+sVlook
+p163
+I1
+sVwearin
+p164
+I1
+sVdangerous
+p165
+I1
+sVsoul
+p166
+I1
+sVus
+p167
+I1
+sVtell
+p168
+I1
+sVrope
+p169
+I1
+sVmatter
+p170
+I1
+sVr
+I15
+sVlover
+p171
+I1
+sVgrowing
+p172
+I1
+sVgave
+p173
+I1
+sVdidnt
+p174
+I1
+sVcould
+p175
+I1
+sVtheres
+p176
+I1
+sVcontrol
+p177
+I1
+sVive
+p178
+I1
+sVvest
+p179
+I2
+sVmoved
+p180
+I1
+sVlife
+p181
+I2
+sVdeep
+p182
+I1
+sVvoices
+p183
+I1
+sVcant
+p184
+I2
+sVhomie
+p185
+I1
+sVim
+p186
+I9
+sVburied
+p187
+I1
+sVclose
+p188
+I1
+sVhit
+p189
+I1
+sVkeep
+p190
+I2
+sVid
+p191
+I2
+sVworry
+p192
+I1
+sVbags
+p193
+I1
+sVcounting
+p194
+I1
+sVna
+p195
+I3
+sVtill
+p196
+I1
+sVchest
+p197
+I2
+sVsquad
+p198
+I1
+sVboom
+p199
+I3
+sVbabies
+p200
+I1
+sVswore
+p201
+I1
+sVtest
+p202
+I1
+sVfools
+p203
+I1
+sVroll
+p204
+I1
+sVnice
+p205
+I1
+sVpoor
+p206
+I2
+sVproduct
+p207
+I1
+sVknew
+p208
+I2
+sVquit
+p209
+I1
+sVhand
+p210
+I1
+sVwrong
+p211
+I1
+sVplan
+p212
+I1
+sVcoming
+p213
+I1
+sVwhy
+p214
+I1
+sVman
+p215
+I2
+sVghost
+p216
+I1
+sVstress
+p217
+I1
+sVbullet
+p218
+I2
+sVinvest
+p219
+I1
+sVclear
+p220
+I1
+sVlost
+p221
+I1
+sVnothin
+p222
+I17
+sVtime
+p223
+I1
+sVpush
+p224
+I1
+sVfiendin
+p225
+I1
+sVhopein
+p226
+I1
+sVtha
+p227
+I33
+sVbuckshots
+p228
+I1
+s.

@@ -1,67 +1,568 @@
-"watermelon" lyrics
-common lyrics
-"watermelon"
-i express like an interstate
-hyper when i venilate
-my rap pieces penetate and infiltrate your mental state
-just to reitterate
-that i innovate
-bonin' broads when they men-estruate
-i speand a great time with the rhyme
-more than i did any female
-i derailed your train of thought
-because your brain was caught
-on some other man's thinking
-now your third eye is blinking
-my rhymes be kicking like a brother's breath be stinking
-i get funky for sure while you're *sniff* unsure
-if you got beef, chief, then let that shit unthaw
-this track was a broad
-i'd be bonin the shit out of it
-bang, bang, bang then see what i can get out of her
-probably some scratch clothes and some j's
-i got six thousand ways to rhyme
-choose one
-i stand out like a nigga on a hockey team
-i got goals, and i can like a pop machine
-i come clean
-like a fiend in chi i'm down with rehab
-my stutter styles crazy
-cause that's right, we bad, we bad
-pryor to richard i was that crazy nigga
-cause i kick ass
-and when i wreck other rappers be like whiplash!
-verse two:
-it's like i come i come to the party in a b-boy stance
-i rock on the mic and make the gils want to dance
-it's like i come i come to the party in a b-boy stance
-i rock on the mic and make the gils want to dance
-me without a lyric, is like a nigga without a beeper
-i'm a blow this shit out, cuz i'm the joint like reefer
-if barry white was in the mob
-i still would be deeper
-cause i had lyrics back when i used to run with keyvin
-mc's step to me, butt-ass naked like "what's up?"
-i said, "you know you done fucked up
-now i'm sayin, "you know you done fucked up"
-everybody that here be say i'm jams like the nba
-cause i'm on fire
-if i was a michelan i wouldn't tire
-it's funny how time flies
-well i'm as fly as time
-i don't believe in role models
-but if i do, then i'm mine
-i make brothers say "true"
-they be you and be like fiction
-i want 'spect and dead presidents
-like richard nixon
-i'm a coach not a player
-not a gay mc, i'm straighter
-my style is similiar to aids
-you can f with it now
-but catch you later
-you can't touch this, cuz this is what i'm feelin bro
-i'm the man, you need me i'll be on the fifth flo'
-just chillin
-even if it's played out it's not the word to play so peace
-i'm out to dirty burgers i'ma give my change to reese
+(dp1
+Vhyper
+p2
+I1
+sVlyrics
+p3
+I3
+sVdance
+p4
+I2
+sVscratch
+p5
+I1
+sVbrain
+p6
+I1
+sVcoach
+p7
+I1
+sVlyric
+p8
+I1
+sVtouch
+p9
+I1
+sVstill
+p10
+I1
+sVchillin
+p11
+I1
+sVfifth
+p12
+I1
+sVblow
+p13
+I1
+sVstyle
+p14
+I1
+sVsayin
+p15
+I1
+sVtire
+p16
+I1
+sVthinking
+p17
+I1
+sVtrue
+p18
+I1
+sVcuz
+p19
+I2
+sVverse
+p20
+I1
+sVchoose
+p21
+I1
+sVfiend
+p22
+I1
+sVkick
+p23
+I1
+sVinterstate
+p24
+I1
+sVstyles
+p25
+I1
+sVreitterate
+p26
+I1
+sVget
+p27
+I2
+sVexpress
+p28
+I1
+sVrhyme
+p29
+I2
+sVblinking
+p30
+I1
+sVfeelin
+p31
+I1
+sVjoint
+p32
+I1
+sVbang
+p33
+I3
+sVwatermelon
+p34
+I2
+sVknow
+p35
+I2
+sVprobably
+p36
+I1
+sVmob
+p37
+I1
+sVnow
+p38
+I1
+sVstinking
+p39
+I1
+sVlike
+p40
+I14
+sVnaked
+p41
+I1
+sVbad
+p42
+I2
+sVcommon
+p43
+I1
+sVteam
+p44
+I1
+sVmine
+p45
+I1
+sVclothes
+p46
+I1
+sVnigga
+p47
+I3
+sVmental
+p48
+I1
+sVbonin
+p49
+I2
+sVreefer
+p50
+I1
+sVdead
+p51
+I1
+sVup
+p52
+I3
+sVsee
+p53
+I1
+sVused
+p54
+I1
+sVcant
+p55
+I1
+sVrun
+p56
+I1
+sVnba
+p57
+I1
+sVbuttass
+p58
+I1
+sVeven
+p59
+I1
+sVsaid
+p60
+I1
+sVstance
+p61
+I2
+sVrichard
+p62
+I2
+sVbroads
+p63
+I1
+sVways
+p64
+I1
+sVbroad
+p65
+I1
+sVmodels
+p66
+I1
+sVstate
+p67
+I1
+sVgot
+p68
+I3
+sVcause
+p69
+I4
+sVmichelan
+p70
+I1
+sVdirty
+p71
+I1
+sVass
+p72
+I1
+sVima
+p73
+I1
+sVunsure
+p74
+I1
+sVright
+p75
+I1
+sVrock
+p76
+I2
+sVjs
+p77
+I1
+sVkicking
+p78
+I1
+sVstep
+p79
+I1
+sVlet
+p80
+I1
+sVcome
+p81
+I5
+sVchange
+p82
+I1
+sVgreat
+p83
+I1
+sVmans
+p84
+I1
+sVsniff
+p85
+I1
+sVderailed
+p86
+I1
+sVjams
+p87
+I1
+sVill
+p88
+I1
+sVlater
+p89
+I1
+sVfunky
+p90
+I1
+sVher
+p91
+I1
+sVstand
+p92
+I1
+sVbarry
+p93
+I1
+sVpenetate
+p94
+I1
+sVthats
+p95
+I1
+sVflies
+p96
+I1
+sVwhats
+p97
+I1
+sVdont
+p98
+I1
+sVpresidents
+p99
+I1
+sVpop
+p100
+I1
+sVone
+p101
+I1
+sVbro
+p102
+I1
+sVunthaw
+p103
+I1
+sVdone
+p104
+I2
+sVfemale
+p105
+I1
+sVeverybody
+p106
+I1
+sVpryor
+p107
+I1
+sVeye
+p108
+I1
+sVbeef
+p109
+I1
+sVchi
+p110
+I1
+sVcaught
+p111
+I1
+sVgive
+p112
+I1
+sVtwo
+p113
+I1
+sVfiction
+p114
+I1
+sVbreath
+p115
+I1
+sVspect
+p116
+I1
+sVwhite
+p117
+I1
+sVman
+p118
+I1
+sVhockey
+p119
+I1
+sVdeeper
+p120
+I1
+sVgay
+p121
+I1
+sVfire
+p122
+I1
+sVthousand
+p123
+I1
+sVstutter
+p124
+I1
+sVinnovate
+p125
+I1
+sVback
+p126
+I1
+sVtrain
+p127
+I1
+sVgoals
+p128
+I1
+sVcatch
+p129
+I1
+sVbelieve
+p130
+I1
+sVmcs
+p131
+I1
+sVinfiltrate
+p132
+I1
+sVbeeper
+p133
+I1
+sVfly
+p134
+I1
+sVwreck
+p135
+I1
+sVword
+p136
+I1
+sVwouldnt
+p137
+I1
+sVmc
+p138
+I1
+sVf
+I1
+sVwhiplash
+p139
+I1
+sVrhymes
+p140
+I1
+sVrehab
+p141
+I1
+sVkeyvin
+p142
+I1
+sVflo
+p143
+I1
+sVvenilate
+p144
+I1
+sVspeand
+p145
+I1
+sVcrazy
+p146
+I2
+sVwould
+p147
+I1
+sVwant
+p148
+I3
+sVplayed
+p149
+I1
+sVit
+p150
+I1
+sVpieces
+p151
+I1
+sVplayer
+p152
+I1
+sVsay
+p153
+I2
+sVim
+p154
+I13
+sVrap
+p155
+I1
+sVaids
+p156
+I1
+sVneed
+p157
+I1
+sVid
+p158
+I1
+sVshit
+p159
+I3
+sVfunny
+p160
+I1
+sVmenestruate
+p161
+I1
+sVmic
+p162
+I2
+sVsix
+p163
+I1
+sVstraighter
+p164
+I1
+sVmachine
+p165
+I1
+sVrole
+p166
+I1
+sVparty
+p167
+I2
+sVsimiliar
+p168
+I1
+sVplay
+p169
+I1
+sVsure
+p170
+I1
+sVbrothers
+p171
+I2
+sVtrack
+p172
+I1
+sVrappers
+p173
+I1
+sVpeace
+p174
+I1
+sVfucked
+p175
+I2
+sVgils
+p176
+I2
+sVthird
+p177
+I1
+sVyoure
+p178
+I1
+sVwell
+p179
+I1
+sVthought
+p180
+I1
+sVburgers
+p181
+I1
+sVchief
+p182
+I1
+sVwithout
+p183
+I2
+sVreese
+p184
+I1
+sVclean
+p185
+I1
+sVtime
+p186
+I3
+sVbboy
+p187
+I2
+sVnixon
+p188
+I1
+sVmake
+p189
+I3
+s.

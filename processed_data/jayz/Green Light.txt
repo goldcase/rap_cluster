@@ -1,70 +1,533 @@
-"green light" lyrics
-jay-z lyrics
-"green light"
-(feat. beanie sigel)
-who da fuck can stop us niggaz, it's gangsta niggaz
-it's gangsta!  woo!  it's gangsta nigga!
-all g-g-gangsta nigga, uhh!
-green light - go go, go-go-go, go
-go go, go-go-go, go
-you got the green light to drag your motherfuckin mink
-green light - go go, go-go-go, go
-throw your pinkie ring high in the motherfuckin air
-go go, go-go-go, go
-drop your top, c'mon!
-now i done told y'all niggaz once before
-y'all don't know who you fuckin wit
-y'all gon' fuck around and make me come up out this music biz
-(don't make me..)
-this just a record deal, y'all motherfuckers been on some shit
-bite my style, tryin to get rich, so i decided to flip my shit
-bene-fit me like a tight outfit, like mr. biggs' about to have a fit
-it's, a, bout, to, be, some, shit (please believe it)
-see vin-dawg, and dre-shal, got a nigga real open y'all
-i see haters peepin me, lookin hard like a pu-ssy
-same fight, different round; same circus, different clown
-same pussy, different town; assholes how you like me now?
-kel' and jigga, the best of both niggaz
-put two heads together, mean mo' figures (ha)
-word to tigger, put me off up in the "bassment"
-with the rest of the rap niggaz, watch ratings get bigger
-i'm a pimp of this music, the tracks be my hoes
-sisqo, don't make me kick you out like devoe
-haters left, players right.. green light
-go go, go-go-go, go
-you have the green light to be as pimp as you want to
-go go, go-go-go, go
-green light - go go, go-go-go, go
-go go, go-go-go, go
-green light - go go, go-go-go, go
-go go, go-go-go, go
-green light - go go, go-go-go, go
-oh dis gangsta!
-go go, go-go-go, go
-it's so muh'fuckin gangsta!
-psycho, like no, bitch-ass niggaz
-don't wanna see the r.o.c. so you creep low
-shoot from the line like a free throw
-with this 'nali of mine like a pi-co
-leave niggaz far behind like a cheap hoe
-on my grind every time that you see hov'
-yeah i got it, come and get it, green light go (go)
-red dot i stop ya, yellow niggaz move slow
-red dot i got 'em, tell that nigga move slow
-head shots pop 'em when i let the uz' go
-he done told fool..
-dunn think dunn loc'in when a gun smokin
-tell dunn i been gun-totin
-he don't know he facin death
-hockey mask on jason's step
-don't make me pop past your raisinette
-you niggaz cow-ass
-you bullshit, i pull shit, and keep a full clip
-go go, go-go-go, go
-go go, go-go-go, go
-green light - go go, go-go-go, go
-go go, go-go-go, go
-green light - go go, go-go-go, go
-go go, go-go-go, go
-green light - go go, go-go-go, go
-go go, go-go-go, go
+(dp1
+Vthink
+p2
+I1
+sVlyrics
+p3
+I2
+sVya
+p4
+I1
+sVroc
+p5
+I1
+sVassholes
+p6
+I1
+sVrest
+p7
+I1
+sVgo
+p8
+I63
+sVpsycho
+p9
+I1
+sVfeat
+p10
+I1
+sVbefore
+p11
+I1
+sVstyle
+p12
+I1
+sVhaters
+p13
+I2
+sVlocin
+p14
+I1
+sVfit
+p15
+I1
+sVnali
+p16
+I1
+sVbehind
+p17
+I1
+sVto
+p18
+I1
+sVhockey
+p19
+I1
+sVrich
+p20
+I1
+sVgangsta
+p21
+I5
+sVkick
+p22
+I1
+sVreal
+p23
+I1
+sVme
+p24
+I1
+sVmove
+p25
+I2
+sVaround
+p26
+I1
+sVget
+p27
+I3
+sVfar
+p28
+I1
+sVcheap
+p29
+I1
+sVstop
+p30
+I2
+sVuhh
+p31
+I1
+sVda
+p32
+I1
+sVshoot
+p33
+I1
+sVbiz
+p34
+I1
+sVknow
+p35
+I2
+sVnow
+p36
+I1
+sVbullshit
+p37
+I1
+sVbigger
+p38
+I1
+sVlike
+p39
+I9
+sVpimp
+p40
+I2
+sVdrop
+p41
+I1
+sVgun
+p42
+I1
+sVclown
+p43
+I1
+sVleave
+p44
+I1
+sVpeepin
+p45
+I1
+sVbenefit
+p46
+I1
+sVwit
+p47
+I1
+sVred
+p48
+I2
+sVshots
+p49
+I1
+sVround
+p50
+I1
+sVyall
+p51
+I5
+sVmean
+p52
+I1
+sVem
+p53
+I2
+sVgggangsta
+p54
+I1
+sVnigga
+p55
+I4
+sVdeal
+p56
+I1
+sVhard
+p57
+I1
+sVyeah
+p58
+I1
+sVpast
+p59
+I1
+sVsee
+p60
+I4
+sVdecided
+p61
+I1
+sVus
+p62
+I1
+sVhoes
+p63
+I1
+sVbest
+p64
+I1
+sVgon
+p65
+I1
+sVmine
+p66
+I1
+sVha
+p67
+I1
+sVdreshal
+p68
+I1
+sVplease
+p69
+I1
+sVwoo
+p70
+I1
+sVgot
+p71
+I4
+sVbitchass
+p72
+I1
+sVcreep
+p73
+I1
+sVtold
+p74
+I2
+sVkel
+p75
+I1
+sVdunn
+p76
+I3
+sVright
+p77
+I1
+sVfree
+p78
+I1
+sVoutfit
+p79
+I1
+sVtracks
+p80
+I1
+sVslow
+p81
+I2
+sVlet
+p82
+I1
+sVsmokin
+p83
+I1
+sVput
+p84
+I2
+sVcome
+p85
+I2
+sVthrow
+p86
+I2
+sVmuhfuckin
+p87
+I1
+sVoh
+p88
+I1
+sVstep
+p89
+I1
+sVkeep
+p90
+I1
+sVplayers
+p91
+I1
+sVpico
+p92
+I1
+sVfigures
+p93
+I1
+sVlookin
+p94
+I1
+sVdis
+p95
+I1
+sVbite
+p96
+I1
+sVfuckin
+p97
+I1
+sVdont
+p98
+I6
+sVpussy
+p99
+I2
+sVpop
+p100
+I2
+sVjayz
+p101
+I1
+sVcmon
+p102
+I1
+sVdone
+p103
+I2
+sVring
+p104
+I1
+sVopen
+p105
+I1
+sVfacin
+p106
+I1
+sVwan
+p107
+I1
+sVsigel
+p108
+I1
+sVheads
+p109
+I1
+sVtop
+p110
+I1
+sVtigger
+p111
+I1
+sVtwo
+p112
+I1
+sVfight
+p113
+I1
+sVmusic
+p114
+I2
+sVlow
+p115
+I1
+sVtryin
+p116
+I1
+sVtell
+p117
+I2
+sVcowass
+p118
+I1
+sVyellow
+p119
+I1
+sVhead
+p120
+I1
+sVjasons
+p121
+I1
+sVsisqo
+p122
+I1
+sVit
+p123
+I1
+sVbassment
+p124
+I1
+sVline
+p125
+I1
+sVbelieve
+p126
+I1
+sVbout
+p127
+I1
+sVtown
+p128
+I1
+sVpull
+p129
+I1
+sVword
+p130
+I1
+sVfull
+p131
+I1
+sVuz
+p132
+I1
+sVmo
+p133
+I1
+sVflip
+p134
+I1
+sVniggaz
+p135
+I9
+sVair
+p136
+I1
+sVrecord
+p137
+I1
+sVmr
+p138
+I1
+sVfool
+p139
+I1
+sVmink
+p140
+I1
+sVwant
+p141
+I1
+sVclip
+p142
+I1
+sVcircus
+p143
+I1
+sVfuck
+p144
+I2
+sVhigh
+p145
+I1
+sVdeath
+p146
+I1
+sVim
+p147
+I1
+sVrap
+p148
+I1
+sVgrind
+p149
+I1
+sVbiggs
+p150
+I1
+sVshit
+p151
+I4
+sVratings
+p152
+I1
+sVdifferent
+p153
+I3
+sVhoe
+p154
+I1
+sVjigga
+p155
+I1
+sVna
+p156
+I1
+sVmake
+p157
+I4
+sVvindawg
+p158
+I1
+sVpinkie
+p159
+I1
+sVhov
+p160
+I1
+sVtight
+p161
+I1
+sVmotherfuckin
+p162
+I2
+sVguntotin
+p163
+I1
+sVraisinette
+p164
+I1
+sVwatch
+p165
+I1
+sVdrag
+p166
+I1
+sVdevoe
+p167
+I1
+sVbeanie
+p168
+I1
+sVlight
+p169
+I14
+sVmask
+p170
+I1
+sVtogether
+p171
+I1
+sVmotherfuckers
+p172
+I1
+sVgreen
+p173
+I14
+sVtime
+p174
+I1
+sVgogogo
+p175
+I20
+sVevery
+p176
+I1
+sVdot
+p177
+I2
+sVleft
+p178
+I1
+s.

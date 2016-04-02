@@ -1,61 +1,491 @@
-"already home" lyrics
-jay-z lyrics
-"already home"
-(feat. kid cudi)
-jay-z, hova,
-either love me or leave me alone
-oh they want me to fall (fall),
-fall from the top (top),
-they want me to drop (drop)
-they want me to stop (stop)
-they want me to go (go),
-i'm already gone (already)
-the shit that i'm on
-i'm already home
-(hey, i'm already home yeah)
-these nigga's want me to go, don't they know that i'm gone
-they know i'm space shuttle level they need oxygen
-don't they know that they boring?
-don't they know that i yawn,
-only time they excited is when they mentioning shawn
-you see single white female but she dyed her hair blonde
-sometimes i look at these rappers, the movie remind me of them
-somebody turn these boys off
-don't they know that i'm on
-can't they see that it's foolish to try and kill me with songs
-what the fuck are they laurynnn, you killing me softly
-you talk me to death, only thing you can do to him
-i open the door for them, what else can i do?
-these nigga's want me to walk for them, somebody talk to them
-before i go off on them
-i taught 'em about fish scale they want me to fish for them
-they want me to catch clean, then cook up a dish for them
-all of this just for them, or they got a diss for him
-they want me to disappear, like it's gonna shift for them
-they say that i'm in the way, they want me to sit with them
-but what they admitting is, they ain't got shit for him
-but really the fact is, we not in the same bracket
-not in the same league, don't shoot at the same baskets
-don't pay the same taxes, hang with the same bitches
-so how am i in the way, what is it i'm missing?
-nigga i been missing, nigga i been gone
-the shit that you just witnessed is the shit that i been on
-and as for the critics, tell me i don't get it
-everybody can tell you how to do it, they never did it
-now these nigga's is mad, oh they call me a camel
-but i mastered the drought, what the fuck i'm an animal
-half-man half-mammal
-my sign is a sag, this is just what i plan to do
-oh don't be mad
-i'm in the hall already, on the wall already
-i'm a work of art, i'm a warhol already
-on another level, on another plane already
-h-o-v i got my own lane already (already)
-i done cooked up the rock already
-so why the fuck can't you all get hot already (already)
-put your name in the pot already, niggas compare me to biggie and pac already
-like i'm gone already and i am nigga i'm already home already
-if you all can't already see i ain't worried about you all cos i'm already me
-do you already, enough of the complaining boohoos already
-eat food already, ain't nothing given you gotta claim your shoes already,
-yeah, so in summation i don't know who you racing i'm already at the finish line with the flag waving - c'mon!
+(dp1
+Vdiss
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVcamel
+p5
+I1
+sVfall
+p6
+I3
+sVkill
+p7
+I1
+sVgo
+p8
+I4
+sVfeat
+p9
+I1
+sVaint
+p10
+I3
+sVdeath
+p11
+I1
+sVhall
+p12
+I1
+sVpay
+p13
+I1
+sVexcited
+p14
+I1
+sVta
+p15
+I1
+sVdo
+p16
+I2
+sVthem
+p17
+I7
+sVsomebody
+p18
+I2
+sVget
+p19
+I2
+sVfood
+p20
+I1
+sVstop
+p21
+I2
+sVadmitting
+p22
+I1
+sVme
+p23
+I1
+sVknow
+p24
+I6
+sVgot
+p25
+I4
+sVcook
+p26
+I1
+sVhim
+p27
+I3
+sVname
+p28
+I1
+sVlike
+p29
+I2
+sVoxygen
+p30
+I1
+sVlevel
+p31
+I2
+sVdrop
+p32
+I2
+sVtaxes
+p33
+I1
+sVworried
+p34
+I1
+sVtry
+p35
+I1
+sVremind
+p36
+I1
+sVsoftly
+p37
+I1
+sVeither
+p38
+I1
+sVrock
+p39
+I1
+sVfoolish
+p40
+I1
+sVem
+p41
+I1
+sVnigga
+p42
+I3
+sVart
+p43
+I1
+sVanother
+p44
+I2
+sVfish
+p45
+I2
+sVyeah
+p46
+I2
+sVsign
+p47
+I1
+sVhair
+p48
+I1
+sVdish
+p49
+I1
+sVsee
+p50
+I3
+sVtaught
+p51
+I1
+sVboohoos
+p52
+I1
+sVbiggie
+p53
+I1
+sVhome
+p54
+I5
+sVpot
+p55
+I1
+sVreally
+p56
+I1
+sVleave
+p57
+I1
+sVscale
+p58
+I1
+sVspace
+p59
+I1
+sVmovie
+p60
+I1
+sVenough
+p61
+I1
+sVit
+p62
+I2
+sVlaurynnn
+p63
+I1
+sVracing
+p64
+I1
+sVmastered
+p65
+I1
+sVmissing
+p66
+I2
+sVhalfman
+p67
+I1
+sVnever
+p68
+I1
+sVkilling
+p69
+I1
+sValone
+p70
+I1
+sVon
+p71
+I3
+sVcos
+p72
+I1
+sVoh
+p73
+I3
+sVshift
+p74
+I1
+sVturn
+p75
+I1
+sVplane
+p76
+I1
+sVcudi
+p77
+I1
+sVplan
+p78
+I1
+sValready
+p79
+I27
+sVlove
+p80
+I1
+sVdont
+p81
+I9
+sVclaim
+p82
+I1
+sVwall
+p83
+I1
+sVhalfmammal
+p84
+I1
+sVbaskets
+p85
+I1
+sVwalk
+p86
+I1
+sVput
+p87
+I1
+sVjayz
+p88
+I2
+sVdone
+p89
+I1
+sVfemale
+p90
+I1
+sVsummation
+p91
+I1
+sVblonde
+p92
+I1
+sVopen
+p93
+I1
+sVwitnessed
+p94
+I1
+sVeverybody
+p95
+I1
+sVgiven
+p96
+I1
+sVtop
+p97
+I2
+sVhey
+p98
+I1
+sVcall
+p99
+I1
+sVway
+p100
+I2
+sVwhite
+p101
+I1
+sVtell
+p102
+I2
+sVdoor
+p103
+I1
+sVleague
+p104
+I1
+sVshawn
+p105
+I1
+sVbitches
+p106
+I1
+sVelse
+p107
+I1
+sVboys
+p108
+I1
+sVflag
+p109
+I1
+sVcatch
+p110
+I1
+sVline
+p111
+I1
+sVeat
+p112
+I1
+sVshoot
+p113
+I1
+sVlook
+p114
+I1
+sVniggas
+p115
+I4
+sVboring
+p116
+I1
+sVwork
+p117
+I1
+sVsingle
+p118
+I1
+sVsay
+p119
+I1
+sVgone
+p120
+I4
+sVcompare
+p121
+I1
+sVcmon
+p122
+I1
+sVsag
+p123
+I1
+sVfuck
+p124
+I3
+sVsit
+p125
+I1
+sVcant
+p126
+I3
+sVim
+p127
+I17
+sVwant
+p128
+I10
+sVneed
+p129
+I1
+sVshit
+p130
+I4
+sVthing
+p131
+I1
+sVcomplaining
+p132
+I1
+sVna
+p133
+I1
+sVhov
+p134
+I1
+sVhot
+p135
+I1
+sVpac
+p136
+I1
+sVdisappear
+p137
+I1
+sVanimal
+p138
+I1
+sVshuttle
+p139
+I1
+sVhova
+p140
+I1
+sVfinish
+p141
+I1
+sVcritics
+p142
+I1
+sVrappers
+p143
+I1
+sVwarhol
+p144
+I1
+sVhang
+p145
+I1
+sVwaving
+p146
+I1
+sVyawn
+p147
+I1
+sVgon
+p148
+I1
+sVmad
+p149
+I2
+sVnothing
+p150
+I1
+sVdrought
+p151
+I1
+sVkid
+p152
+I1
+sVmentioning
+p153
+I1
+sVlane
+p154
+I1
+sVoff
+p155
+I1
+sVsometimes
+p156
+I1
+sVdyed
+p157
+I1
+sVcooked
+p158
+I1
+sVbracket
+p159
+I1
+sVfact
+p160
+I1
+sVclean
+p161
+I1
+sVtime
+p162
+I1
+sVtalk
+p163
+I2
+sVsongs
+p164
+I1
+s.

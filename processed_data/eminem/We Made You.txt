@@ -1,83 +1,698 @@
-"we made you" lyrics
-eminem lyrics
-"we made you"
-guess who? did you miss me?
-jessica simpson, sing the chorus!
-when you walked through the door, it was clear to me (clear to me!)
-you're the one who they adore, who they came to see (who they came to see!)
-you're a rockstar (baby!)
-everybody wants you (everybody wants you)
-player!
-who could really blame you? (who could really blame you?)
-we're the ones who made you!
-back by popular demand
-now pop a little zantax or antacid if you can
-you're ready to tackle any task that is at hand
-how does it feel: is it fantastic, is it grand?
-well look at all the massive masses in the stands
-shady man, no, don't massacre the fans
-damn, i think kim kardashian's a man
-she stomped him, just 'cause he asked to put his hands
-on her massive, gluteus maximus again
-squeeze it and squash it and pass it to a friend
-can he come back as nasty as he can?
-yes he can, cam, don't ask me this again
-he does not mean to lesbian offend
-but lindsay, please come back to seein' men
-samantha's a two, you're practically a ten
-i know you want me girl, in fact i see ya grin
-now come in girl!
-the enforcer, look at the more women to torture
-walk up to the cutest girl and charlie-horse her
-sorry portia, but what's ellen degeneres
-have that i don't? are you tellin' me tenderness?
-well i could be as gentle and as smooth as a gentleman
-give me my ventolin inhaler and two xenadrine
-and i'll invite sarah palin out to dinner then
-nail her, maybe say, "hello to my little friend"
-brit, forget k-fed, let's cut out the middleman
-forget him or you'll end up in the hospital again
-and this time it won't be for the ritalin binge
-forget them other men, girl pay them little attention
-and little did i mention that jennifer's in love with me john mayer, so sit on the bench
-man, i swear them other guys you give 'em an inch
-they take a mile, they got style, but it isn't slim
-and that's why, my love, you never live without
-i know you want me girl
-'cause i can see you checkin' me out
-and baby, you know, you know you want me too
-don't try to deny it, baby, i'm the only one for you
-damn girl, i'm beginning to sprout then alfalfa
-why should i wash my filthy mouth out?
-you think that's bad, you should hear the rest of my album
-never has their been such finesse and nostalgia
-man cash, i don't mean to mess with ya gal but
-jessica alba, put a breast in my mouth, bruh
-wowzers! i just made a mess in my trousers
-and they wonder why i keep dressing like elvis
-lord help us, he's back and in his pink alf shirt
-lookin' like someone shrinked his outfit
-i think he's bout to flip, jessica
-rest assured, superman's here to rescue ya
-can you blame me? you're my amy, i'm your blake
-matter fact, make me a birthday cake
-with a sawblade in it to make my jailbreak
-baby, i think you just met your soulmate
-now break it down, girl!
-so baby, baby
-get down, down, down (baby!)
-get down, down, down (baby!)
-get down, down, down (baby!)
-get down, get down (baby!)
-get down, down, down (baby!)
-get down, down, down (baby!)
-get down, down, down (baby!)
-get down, get down
-oh amy!
-rehab never looked so good!
-i can't wait!
-i'm going back!
-haha! whoo!
-dr. dre
-2020
-yeah!
+(dp1
+Valfalfa
+p2
+I1
+sVforget
+p3
+I3
+sVlyrics
+p4
+I2
+sValf
+p5
+I1
+sVgentleman
+p6
+I1
+sVout
+p7
+I2
+sVrest
+p8
+I2
+sVbrit
+p9
+I1
+sVisnt
+p10
+I1
+sVmile
+p11
+I1
+sVxenadrine
+p12
+I1
+sVlove
+p13
+I2
+sVyes
+p14
+I1
+sVantacid
+p15
+I1
+sVfilthy
+p16
+I1
+sVhelp
+p17
+I1
+sVdegeneres
+p18
+I1
+sVstyle
+p19
+I1
+sVcut
+p20
+I1
+sVmasses
+p21
+I1
+sVnostalgia
+p22
+I1
+sVbench
+p23
+I1
+sVlets
+p24
+I1
+sVgoing
+p25
+I1
+sVgrin
+p26
+I1
+sVsprout
+p27
+I1
+sVlord
+p28
+I1
+sVsorry
+p29
+I1
+sVstomped
+p30
+I1
+sVtake
+p31
+I1
+sVthen
+p32
+I1
+sVsomeone
+p33
+I1
+sVrescue
+p34
+I1
+sVtorture
+p35
+I1
+sVget
+p36
+I10
+sVya
+p37
+I3
+sVjailbreak
+p38
+I1
+sVcheckin
+p39
+I1
+sVmassacre
+p40
+I1
+sVamy
+p41
+I2
+sVmention
+p42
+I1
+sVones
+p43
+I1
+sVknow
+p44
+I4
+sVhands
+p45
+I1
+sVnasty
+p46
+I1
+sVwalk
+p47
+I1
+sVdr
+p48
+I1
+sVkardashians
+p49
+I1
+sVwont
+p50
+I1
+sVlike
+p51
+I2
+sVwash
+p52
+I1
+sVyoull
+p53
+I1
+sVchorus
+p54
+I1
+sVtenderness
+p55
+I1
+sVbad
+p56
+I1
+sVpopular
+p57
+I1
+sVgluteus
+p58
+I1
+sVmean
+p59
+I2
+sVem
+p60
+I1
+sVten
+p61
+I1
+sVrockstar
+p62
+I1
+sVback
+p63
+I5
+sVcash
+p64
+I1
+sVnail
+p65
+I1
+sVsee
+p66
+I4
+sVus
+p67
+I1
+sVpass
+p68
+I1
+sVcant
+p69
+I1
+sVill
+p70
+I1
+sVgirl
+p71
+I7
+sVbreast
+p72
+I1
+sVreally
+p73
+I2
+sValbum
+p74
+I1
+sVtry
+p75
+I1
+sVstands
+p76
+I1
+sVrehab
+p77
+I1
+sVfact
+p78
+I2
+sVplease
+p79
+I1
+sVcharliehorse
+p80
+I1
+sVfans
+p81
+I1
+sVgot
+p82
+I1
+sVsoulmate
+p83
+I1
+sVcause
+p84
+I2
+sVsarah
+p85
+I1
+sVattention
+p86
+I1
+sVjessica
+p87
+I3
+sVcutest
+p88
+I1
+sVmen
+p89
+I2
+sVlittle
+p90
+I4
+sVeminem
+p91
+I1
+sVblame
+p92
+I3
+sVmet
+p93
+I1
+sVpalin
+p94
+I1
+sVask
+p95
+I1
+sVsing
+p96
+I1
+sVinhaler
+p97
+I1
+sVoutfit
+p98
+I1
+sVcome
+p99
+I3
+sVwait
+p100
+I1
+sVoh
+p101
+I1
+sVcould
+p102
+I3
+sVkeep
+p103
+I1
+sVdinner
+p104
+I1
+sVswear
+p105
+I1
+sVmassive
+p106
+I2
+sVlookin
+p107
+I1
+sVdressing
+p108
+I1
+sVdre
+p109
+I1
+sVthink
+p110
+I4
+sVthats
+p111
+I2
+sVbinge
+p112
+I1
+sVfantastic
+p113
+I1
+sVwhats
+p114
+I1
+sVdont
+p115
+I5
+sVfeel
+p116
+I1
+sVwonder
+p117
+I1
+sVpop
+p118
+I1
+sVone
+p119
+I2
+sVdown
+p120
+I1
+sVput
+p121
+I2
+sVassured
+p122
+I1
+sVmiss
+p123
+I1
+sVeverybody
+p124
+I2
+sVguess
+p125
+I1
+sVseein
+p126
+I1
+sVher
+p127
+I1
+sVhes
+p128
+I2
+sVbeginning
+p129
+I1
+sVhospital
+p130
+I1
+sVtwo
+p131
+I2
+sVjennifers
+p132
+I1
+sVlive
+p133
+I1
+sVwhoo
+p134
+I1
+sVdamn
+p135
+I2
+sVtoo
+p136
+I1
+sVbruh
+p137
+I1
+sVwowzers
+p138
+I1
+sVjohn
+p139
+I1
+sVfriend
+p140
+I2
+sVwants
+p141
+I2
+sVventolin
+p142
+I1
+sVdoor
+p143
+I1
+sVinvite
+p144
+I1
+sVbirthday
+p145
+I1
+sVelvis
+p146
+I1
+sVtrousers
+p147
+I1
+sVhaha
+p148
+I1
+sVsquash
+p149
+I1
+sVbut
+p150
+I1
+sVyeah
+p151
+I1
+sVkfed
+p152
+I1
+sVgal
+p153
+I1
+sVhear
+p154
+I1
+sVdemand
+p155
+I1
+sVbaby
+p156
+I13
+sVsqueeze
+p157
+I1
+sVbout
+p158
+I1
+sVwomen
+p159
+I1
+sVme
+p160
+I2
+sVmade
+p161
+I4
+sVlook
+p162
+I2
+sVgentle
+p163
+I1
+sV2020
+p164
+I1
+sVsmooth
+p165
+I1
+sVnever
+p166
+I3
+sVtellin
+p167
+I1
+sVmatter
+p168
+I1
+sVmaximus
+p169
+I1
+sVadore
+p170
+I1
+sVcan
+p171
+I2
+sVcam
+p172
+I1
+sVcake
+p173
+I1
+sVim
+p174
+I4
+sVclear
+p175
+I2
+sVmiddleman
+p176
+I1
+sVgive
+p177
+I2
+sValba
+p178
+I1
+sVslim
+p179
+I1
+sVplayer
+p180
+I1
+sVsay
+p181
+I1
+sVgood
+p182
+I1
+sVenforcer
+p183
+I1
+sVwant
+p184
+I3
+sVready
+p185
+I1
+sVpink
+p186
+I1
+sVagain
+p187
+I3
+sVend
+p188
+I1
+sVshirt
+p189
+I1
+sVsit
+p190
+I1
+sVpay
+p191
+I1
+sVmake
+p192
+I2
+sVellen
+p193
+I1
+sVgrand
+p194
+I1
+sVinch
+p195
+I1
+sVyou
+p196
+I5
+sVmayer
+p197
+I1
+sVzantax
+p198
+I1
+sVportia
+p199
+I1
+sVflip
+p200
+I1
+sVmess
+p201
+I2
+sVsawblade
+p202
+I1
+sVhand
+p203
+I1
+sVshrinked
+p204
+I1
+sVblake
+p205
+I1
+sVmouth
+p206
+I2
+sVkim
+p207
+I1
+sVtackle
+p208
+I1
+sVritalin
+p209
+I1
+sVguys
+p210
+I1
+sVlesbian
+p211
+I1
+sVman
+p212
+I4
+sVbreak
+p213
+I1
+sVdeny
+p214
+I1
+sVtask
+p215
+I1
+sVfinesse
+p216
+I1
+sVpractically
+p217
+I1
+sVmaybe
+p218
+I1
+sVshady
+p219
+I1
+sVyoure
+p220
+I5
+sVwell
+p221
+I2
+sVwalked
+p222
+I1
+sVasked
+p223
+I1
+sVlooked
+p224
+I1
+sVwithout
+p225
+I1
+sVcame
+p226
+I2
+sVtime
+p227
+I1
+sVoffend
+p228
+I1
+sVsamanthas
+p229
+I1
+sVsupermans
+p230
+I1
+sVhello
+p231
+I1
+sVsimpson
+p232
+I1
+sVlindsay
+p233
+I1
+s.

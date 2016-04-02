@@ -1,78 +1,613 @@
-"say i" lyrics
-e-40 lyrics
-"say i"
-(with too $hort)
-(feat. wiz khalifa)
-all in favor of giving ripped and gone
-and you're gonna have to call someone to drive you home
-say i i i i i i i
-all in favor of getting super high
-you might start to feel like a bird that can fly
-say i i i i i i i
-brought me in and watch me go, bad on a hoe ass nigga
-don't give me no more i'm on my second fifth of liquor
-once i'm power up it's hard for me to power down
-i fuck a nigga up, and put tears on em like a clown
-i went from rags to riches, riches to rags,
-top convertibles, benzs and jags
-smoking me herbal, sipping me wine,
-or should i say turbo 'cause it's green and it's lime
-ever since he was infant he was raised around pimps
-when he took his first step, he walked with a limp
-man this nigga hard headed damn fool
-his teacher sucked his dick in high school
-supercalifragilistic ex be ala hooligan
-breakin down the diesel mixing cookies with the headband
-went to jail on a friday, didn't get out till tuesday
-got a dui for drinking too much lou, bitch
-all in favor of giving ripped and gone
-and you're gonna have to call someone to drive you home
-say i i i i i i i
-all in favor of getting super high
-you might start to feel like a bird that can fly
-say i i i i i i i
-i. got a dui, why? i didn't even have to drive
-now, i'm in jail for a crime, made bail and i paid the fine
-my lawyer charged me high ass prices,
-dnv, bout to take my license
-insurance, is going up, and when i go to court i know i'm fucked
-all this shit, just for drinking
-need a designated driver, i'm to drunk for thinking
-two hands on the steering wheel
-don't let a friend drink and drive if you being real
-might crash the whip, might lose your life
-if i get too high tonight just make sure
-i making home safe and you do the same
-now let's get fucked up and lose it man, bitch
-all in favor of giving ripped and gone
-and you're gonna have to call someone to drive you home
-say i i i i i i i
-all in favor of getting super high
-you might start to feel like a bird that can fly
-say i i i i i i i
-roll the paper so loud i wake up the neighbors
-the boss i don't need no favor
-you pussy so fuck a hater bitch
-now that my cake up, my crib got an elevator,
-my new shoes is alligator
-and ever meal got a waiter with it
-and i'm all about pour drank up
-while i'm rolling the stank up
-sweat my wife out her make up,
-blow a pound when i wake up,
-see the cars they don't wanna race us
-i do it big niggas do it a cup
-walk up in the club then gonna bring some champagne
-i'm a blow a lot of drugs, i put money on it,
-spendin all this bank let a fuck nigga hate
-real nigga show love sound funny don't it
-all this money think i lucked up,
-all this gin got me fucked up
-man i live life the taylor way
-drinking bombay and lemonade, rolling up some paper planes.
-all in favor of giving ripped and gone
-and you're gonna have to call someone to drive you home
-say i i i i i i i
-all in favor of getting super high
-you might start to feel like a bird that can fly
-say i i i i i i i
+(dp1
+Vneighbors
+p2
+I1
+sVinfant
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVdnv
+p7
+I1
+sVala
+p8
+I1
+sVbring
+p9
+I1
+sVpaper
+p10
+I2
+sVjags
+p11
+I1
+sVgo
+p12
+I2
+sVbenzs
+p13
+I1
+sVfeat
+p14
+I1
+sVfifth
+p15
+I1
+sVblow
+p16
+I2
+sVcup
+p17
+I1
+sVthinking
+p18
+I1
+sVdick
+p19
+I1
+sVcrime
+p20
+I1
+sVtears
+p21
+I1
+sVgoing
+p22
+I1
+sVmoney
+p23
+I2
+sVbout
+p24
+I1
+sVmight
+p25
+I6
+sVtuesday
+p26
+I1
+sVhater
+p27
+I1
+sVfool
+p28
+I1
+sVsound
+p29
+I1
+sVsomeone
+p30
+I4
+sVcrash
+p31
+I1
+sVaround
+p32
+I1
+sVget
+p33
+I3
+sVbig
+p34
+I1
+sVsafe
+p35
+I1
+sVwatch
+p36
+I1
+sVhate
+p37
+I1
+sVsipping
+p38
+I1
+sVknow
+p39
+I1
+sVhands
+p40
+I1
+sVmixing
+p41
+I1
+sVdrinking
+p42
+I3
+sVbank
+p43
+I1
+sVsucked
+p44
+I1
+sVdown
+p45
+I1
+sVschool
+p46
+I1
+sVlike
+p47
+I5
+sVcause
+p48
+I1
+sVclown
+p49
+I1
+sVbad
+p50
+I1
+sVrace
+p51
+I1
+sVlose
+p52
+I2
+sVwent
+p53
+I2
+sVmeal
+p54
+I1
+sVem
+p55
+I1
+sVcookies
+p56
+I1
+sVnigga
+p57
+I5
+sVkhalifa
+p58
+I1
+sVliquor
+p59
+I1
+sVhard
+p60
+I2
+sVsecond
+p61
+I1
+sVex
+p62
+I1
+sVlawyer
+p63
+I1
+sVhome
+p64
+I5
+sVinsurance
+p65
+I1
+sVwhip
+p66
+I1
+sVeven
+p67
+I1
+sVgon
+p68
+I5
+sVgiving
+p69
+I4
+sVbail
+p70
+I1
+sVspendin
+p71
+I1
+sVsince
+p72
+I1
+sVdiesel
+p73
+I1
+sVfavor
+p74
+I9
+sVherbal
+p75
+I1
+sVgot
+p76
+I5
+sVchampagne
+p77
+I1
+sVever
+p78
+I2
+sVbird
+p79
+I4
+sVass
+p80
+I2
+sVripped
+p81
+I4
+sVfriday
+p82
+I1
+sVpower
+p83
+I2
+sVwan
+p84
+I1
+sVcars
+p85
+I1
+sVhooligan
+p86
+I1
+sVconvertibles
+p87
+I1
+sVboss
+p88
+I1
+sVstep
+p89
+I1
+sVlet
+p90
+I2
+sVmaking
+p91
+I1
+sVput
+p92
+I2
+sVheadband
+p93
+I1
+sVsuper
+p94
+I4
+sVteacher
+p95
+I1
+sVlicense
+p96
+I1
+sVgetting
+p97
+I4
+sVwaiter
+p98
+I1
+sVdrank
+p99
+I1
+sVbreakin
+p100
+I1
+sVsweat
+p101
+I1
+sVreal
+p102
+I2
+sVstank
+p103
+I1
+sVloud
+p104
+I1
+sVthink
+p105
+I1
+sVfirst
+p106
+I1
+sVraised
+p107
+I1
+sVlove
+p108
+I1
+sVdont
+p109
+I5
+sVheaded
+p110
+I1
+sVfeel
+p111
+I4
+sVpussy
+p112
+I1
+sVlimp
+p113
+I1
+sVcrib
+p114
+I1
+sVwalk
+p115
+I1
+sVbrought
+p116
+I1
+sVrolling
+p117
+I2
+sVtaylor
+p118
+I1
+sVbitch
+p119
+I3
+sVlucked
+p120
+I1
+sVfine
+p121
+I1
+sVwiz
+p122
+I1
+sVlime
+p123
+I1
+sVdui
+p124
+I2
+sValligator
+p125
+I1
+sVtop
+p126
+I1
+sVtwo
+p127
+I1
+sVelevator
+p128
+I1
+sVsteering
+p129
+I1
+sVstart
+p130
+I4
+sVlive
+p131
+I1
+sVmuch
+p132
+I1
+sVcall
+p133
+I4
+sVlot
+p134
+I1
+sVlou
+p135
+I1
+sVdamn
+p136
+I1
+sVfriend
+p137
+I1
+sVturbo
+p138
+I1
+sVlife
+p139
+I2
+sVlemonade
+p140
+I1
+sVway
+p141
+I1
+sVbombay
+p142
+I1
+sVclub
+p143
+I1
+sVtook
+p144
+I1
+sVnew
+p145
+I1
+sVit
+p146
+I3
+sVlets
+p147
+I1
+sVwake
+p148
+I2
+sVgin
+p149
+I1
+sVprices
+p150
+I1
+sVsmoking
+p151
+I1
+sVfly
+p152
+I4
+sVtonight
+p153
+I1
+sVe40
+p154
+I1
+sVmade
+p155
+I1
+sVniggas
+p156
+I1
+sVriches
+p157
+I2
+sVup
+p158
+I6
+sVpour
+p159
+I1
+sVrags
+p160
+I2
+sVplanes
+p161
+I1
+sVcake
+p162
+I1
+sVsupercalifragilistic
+p163
+I1
+sVdidnt
+p164
+I2
+sVhort
+p165
+I1
+sVdrunk
+p166
+I1
+sVgone
+p167
+I4
+sVpound
+p168
+I1
+sVgive
+p169
+I1
+sVfuck
+p170
+I3
+sVhigh
+p171
+I7
+sVsay
+p172
+I11
+sVim
+p173
+I8
+sVneed
+p174
+I2
+sVshit
+p175
+I1
+sVdrugs
+p176
+I1
+sVfunny
+p177
+I1
+sVhoe
+p178
+I1
+sVcourt
+p179
+I1
+sVus
+p180
+I1
+sVna
+p181
+I6
+sVmake
+p182
+I2
+sVsame
+p183
+I1
+sVtill
+p184
+I1
+sVtake
+p185
+I1
+sVjail
+p186
+I2
+sVroll
+p187
+I1
+sVwheel
+p188
+I1
+sVsure
+p189
+I1
+sVsee
+p190
+I1
+sVdesignated
+p191
+I1
+sVdrink
+p192
+I1
+sVdriver
+p193
+I1
+sVpaid
+p194
+I1
+sVpimps
+p195
+I1
+sVfucked
+p196
+I3
+sVman
+p197
+I3
+sVwife
+p198
+I1
+sVi
+I9
+sVyoure
+p199
+I4
+sVdrive
+p200
+I6
+sVwalked
+p201
+I1
+sVgreen
+p202
+I1
+sVcharged
+p203
+I1
+sVwine
+p204
+I1
+s.

@@ -1,88 +1,623 @@
-day lyrics
-kanye west lyrics
-day
-feat allan kingdom theophilus london
-day nigga
-dead ayy ayy ayy ayy
-long niggas ball day nigga
-much time spent mall day nigga
-many runners got call day nigga
-swish swish long keep court day nigga
-take get fly day nigga
-tell po howhow long high day nigga
-already know i’m straight chi day nigga
-south south south side day nigga
-ye nigga
-shoppin winter it’s may nigga
-ball hard man shit cray nigga
-aint gettin money less got eight figures
-jesus piece man ive saved nigga
-talked farrakhan thats sensei nigga
-told ive ten since 10th grade nigga
-got middle finger longer dikembe nigga uh
-dont let em play me
-dont let em talk kind way
-uh better watch say me
-niggas still gettin popped day day
-though still got 100 small face nigga
-might spend 50 racks day nigga
-fake denzel like allstate nigga
-run better allstate uh
-rico suave nigga
-ride around listening sade nigga
-aint us way nigga
-actor broadway nigga
-cause shit broad way nigga
-bitch got ass broad way thicker
-late class hallway nigga
-yeah dropout always nigga always
-day nigga
-took deep sweet breath reached head
-gave left
-moment dispersed
-moment dispersed
-day nigga
-howhhow long ball day nigga
-much time spent mall day nigga
-long take get fly day nigga
-tell po howhow long high day nigga
-pour hen niggas died day nigga
-keep bad bitch passenger side day nigga
-already know i’m straight chi day nigga
-south south south side day nigga
-could day boy im finna turn bitch out
-need ye streets boy theres motherfucking drought
-dont really matter make boy know still go wild
-like light skinned slave boy mothafuckin house
-right lookin real sus right now
-swear ive flight like month right now
-stupid niggas gettin money forrest gump right now
-shoutout jackie chan need stunt right now
-theyve lookin gram ive lookin grammys
-like woo thats us right now
-247 365 days everybody gettin paid
-niggas lookin like im worth mjs
-people saying ye ye take easy
-20 gs yeezys ebay
-niggas aint done shit
-way sum son bitch
-hands hands up
-want dead ayy ayy ayy ayy
-day nigga
-took deep sweet breath reached head
-gave left
-moment dispersed
-moment dispersed
-get low alright
-get low alright
-alright alright
-stay low alright
-stay low alright
-south south south side day nigga
-well well well
-let run
-let run see came undone
-youve right face
-let run til youre case
-whoa whoa whoa whoa
-whoa whoa whoa whoa
+(dp1
+Vson
+p2
+I1
+sVsaying
+p3
+I1
+sVgs
+p4
+I1
+sVlyrics
+p5
+I2
+sVless
+p6
+I1
+sVmoney
+p7
+I2
+sVhowhow
+p8
+I2
+sVmonth
+p9
+I1
+sVlondon
+p10
+I1
+sVtheophilus
+p11
+I1
+sVgo
+p12
+I1
+sVkanye
+p13
+I1
+sVstill
+p14
+I3
+sVfeat
+p15
+I1
+sVthicker
+p16
+I1
+sVaint
+p17
+I3
+sV20
+p18
+I1
+sVit\u2019s
+p19
+I1
+sVworth
+p20
+I1
+sVbetter
+p21
+I2
+sVrico
+p22
+I1
+sVeasy
+p23
+I1
+sVmight
+p24
+I1
+sVride
+p25
+I1
+sVgave
+p26
+I2
+sVkingdom
+p27
+I1
+sVfly
+p28
+I2
+sVaround
+p29
+I1
+sVget
+p30
+I4
+sVi\u2019m
+p31
+I2
+sVwatch
+p32
+I1
+sVknow
+p33
+I3
+sVlistening
+p34
+I1
+sVhands
+p35
+I2
+sVstunt
+p36
+I1
+sVnow
+p37
+I5
+sVday
+p38
+I27
+sVrunners
+p39
+I1
+sVlike
+p40
+I5
+sValways
+p41
+I2
+sVgettin
+p42
+I4
+sV50
+p43
+I1
+sVbad
+p44
+I1
+sVstupid
+p45
+I1
+sVdenzel
+p46
+I1
+sVgram
+p47
+I1
+sVsmall
+p48
+I1
+sVside
+p49
+I4
+sVyouve
+p50
+I1
+sVem
+p51
+I2
+sVnigga
+p52
+I38
+sVten
+p53
+I1
+sVpeople
+p54
+I1
+sVhouse
+p55
+I1
+sVhard
+p56
+I1
+sVallan
+p57
+I1
+sVdead
+p58
+I2
+sVsee
+p59
+I1
+sVskinned
+p60
+I1
+sVpour
+p61
+I1
+sVbroadway
+p62
+I1
+sVebay
+p63
+I1
+sVfinna
+p64
+I1
+sVout
+p65
+I1
+sVsaved
+p66
+I1
+sVsum
+p67
+I1
+sVsince
+p68
+I1
+sVcase
+p69
+I1
+sVwoo
+p70
+I1
+sVundone
+p71
+I1
+sVsus
+p72
+I1
+sVfinger
+p73
+I1
+sVgot
+p74
+I5
+sV365
+p75
+I1
+sVcause
+p76
+I1
+sVtold
+p77
+I1
+sVass
+p78
+I1
+sVrun
+p79
+I4
+sVright
+p80
+I7
+sV247
+p81
+I1
+sVlet
+p82
+I5
+sVwhoa
+p83
+I8
+sV100
+p84
+I1
+sVboy
+p85
+I4
+sVdikembe
+p86
+I1
+sVpiece
+p87
+I1
+sVmany
+p88
+I1
+sVcould
+p89
+I1
+sVjackie
+p90
+I1
+sVkeep
+p91
+I2
+sVturn
+p92
+I1
+sVswear
+p93
+I1
+sVfigures
+p94
+I1
+sVlookin
+p95
+I4
+sVwest
+p96
+I1
+sVreal
+p97
+I1
+sVshoppin
+p98
+I1
+sVthats
+p99
+I2
+sVfarrakhan
+p100
+I1
+sValready
+p101
+I2
+sVdont
+p102
+I3
+sVpassenger
+p103
+I1
+sVgrade
+p104
+I1
+sVsweet
+p105
+I2
+sVjesus
+p106
+I1
+sVtalked
+p107
+I1
+sVdone
+p108
+I1
+sVbitch
+p109
+I4
+sVfake
+p110
+I1
+sVreached
+p111
+I2
+sVeverybody
+p112
+I1
+sVlate
+p113
+I1
+sVchi
+p114
+I2
+sVcray
+p115
+I1
+sVlong
+p116
+I6
+sVclass
+p117
+I1
+sVbreath
+p118
+I2
+sVmuch
+p119
+I2
+sVcall
+p120
+I1
+sVlow
+p121
+I4
+sVway
+p122
+I5
+sVayy
+p123
+I8
+sVhen
+p124
+I1
+sVreally
+p125
+I1
+sVtell
+p126
+I2
+sVyeezys
+p127
+I1
+sVpopped
+p128
+I1
+sVstreets
+p129
+I1
+sVflight
+p130
+I1
+sVdropout
+p131
+I1
+sVshoutout
+p132
+I1
+sVtook
+p133
+I2
+sVyeah
+p134
+I1
+sVallstate
+p135
+I2
+sVmothafuckin
+p136
+I1
+sVsensei
+p137
+I1
+sVme
+p138
+I2
+sVkind
+p139
+I1
+sVtheyve
+p140
+I1
+sVniggas
+p141
+I6
+sVstraight
+p142
+I2
+sVmotherfucking
+p143
+I1
+sVup
+p144
+I1
+sVus
+p145
+I2
+sVpo
+p146
+I2
+sVmatter
+p147
+I1
+sVmall
+p148
+I2
+sVuh
+p149
+I3
+sVwild
+p150
+I1
+sV10th
+p151
+I1
+sVbroad
+p152
+I2
+sVtheres
+p153
+I1
+sVive
+p154
+I4
+sVchan
+p155
+I1
+sVhead
+p156
+I2
+sVdeep
+p157
+I2
+sVdays
+p158
+I1
+sVhigh
+p159
+I2
+sVmiddle
+p160
+I1
+sVsay
+p161
+I1
+sVforrest
+p162
+I1
+sVim
+p163
+I2
+sVwant
+p164
+I1
+sVneed
+p165
+I2
+sVshit
+p166
+I3
+sVcourt
+p167
+I1
+sVwinter
+p168
+I1
+sVmake
+p169
+I1
+sVactor
+p170
+I1
+sVtil
+p171
+I1
+sVgump
+p172
+I1
+sVtake
+p173
+I3
+sVhowhhow
+p174
+I1
+sVgrammys
+p175
+I1
+sVhallway
+p176
+I1
+sVplay
+p177
+I1
+sVball
+p178
+I3
+sVslave
+p179
+I1
+sVsade
+p180
+I1
+sVthough
+p181
+I1
+sVmay
+p182
+I1
+sVye
+p183
+I4
+sVmjs
+p184
+I1
+sVpaid
+p185
+I1
+sVstay
+p186
+I2
+sVsuave
+p187
+I1
+sVmoment
+p188
+I4
+sVeight
+p189
+I1
+sVcame
+p190
+I1
+sVdrought
+p191
+I1
+sVracks
+p192
+I1
+sVdied
+p193
+I1
+sVman
+p194
+I2
+sVswish
+p195
+I2
+sVlonger
+p196
+I1
+sVlight
+p197
+I1
+sVyoure
+p198
+I1
+sVwell
+p199
+I3
+sVspent
+p200
+I2
+sVface
+p201
+I2
+sVsouth
+p202
+I9
+sVtime
+p203
+I2
+sValright
+p204
+I6
+sVdispersed
+p205
+I4
+sVspend
+p206
+I1
+sVtalk
+p207
+I1
+sVleft
+p208
+I2
+s.

@@ -1,80 +1,657 @@
-"look at me" lyrics
-ugk lyrics
-"look at me"
-hold up hold up hold up
-starring at the bar mutherfuckers
-eye pussy-know what i'm talking bout
-i'm pimp c bitch so what you need (what you need)
-i got some cocain and some california weed (fornia weed)
-i fell in love with my chrome-plated bitch (plated bitch)
-break it make it pop the trunk and hit the switch (hit the switch)
-bitches jockin niggas hatin drunk off gin and soko
-if he keep on talkin shit i knock his meat out his taco
-they think i'm playin cuz i'm in gators and rocks (rocks)
-but i pop this mutherfucker till it stop (stop)
-so look at me mutherfucker look at me (look at me)
-look at me mutherfucker look at me (look at me)
-when you see me bitch tell me what you see (what you see)
-look at me mutherfucker look at me (look at me)
-hey... hey yo i sips the 8
-plus i whips the weight
-so while you tripps and hate
-i flips your fate
-straight to rip from grapeland
-nigga i use to cook a diffrent scale
-now what we be scorin will make them beams tripple break
-washed out up in the rippas way
-makin you miss the whip we take
-and squeezin mine surely
-though i drive horibly
-niggas die for me
-and the killers in the sky swarm me
-some fly charmin neiborhood pimps
-take a good glimpse
-smokin on them cali hollywood hemps
-look at me
-now i done scrapped and crawled
-now whip my benz grip my balls
-shit don't pause
-y'all niggas know that i don't fuck with y'all
-fuck the laws undercovers wanna see me stopped
-tap my phone follow my chrome
-another hits the block
-but niggas know that port author is to small nigga
-thats why the snitches get the pistol to his hilfiger
-ak-47 test up and i'm bout to bet
-with a loaded automatic if they catch me i'm goin fed
-what that bitch said
-pimpin ain't dead
-i'm still gettin head
-got your dike bitch in my waterbed
-hit her from behin (hind)
-4 or 5 times
-put that dick up in her spine
-i done blew your bitch mind
-look at me
-it's like monkey see monkey do
-so fuck you and your funky crew
-you don't bang in the trunk we do
-and smokin on skunky to
-now fuck me who?-you gots me fucked up
-strong arm your city threw them up
-and leave it bucked up
-maybe if you lucked up
-naw look like you stuck chuck
-your men of war turned into pussies in menapause
-now how the fuck you gon win a war
-bitch i'm in a car that will make you go deaf
-the reason why your hoe left
-makes you wanna go left
-whoa nef catch a slow death
-cuz bitch my 4 fell
-mackin on straight smack a bum
-i don't brag but i'm toe taggin um
-now we draggin um
-out the river just like to use
-crack the brews
-and keeps about 50 case i wanna fuck a dike or 2
-look at me
-look at him bitch
-show your tattoos
+(dp1
+Vugk
+p2
+I1
+sVjockin
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVbum
+p6
+I1
+sVflips
+p7
+I1
+sVcrack
+p8
+I1
+sVwhoyou
+p9
+I1
+sVgo
+p10
+I2
+sVfollow
+p11
+I1
+sVchromeplated
+p12
+I1
+sVstill
+p13
+I1
+sVhate
+p14
+I1
+sVskunky
+p15
+I1
+sVaint
+p16
+I1
+sVglimpse
+p17
+I1
+sVpause
+p18
+I1
+sVdick
+p19
+I1
+sVdiffrent
+p20
+I1
+sVcuz
+p21
+I2
+sVcrew
+p22
+I1
+sVto
+p23
+I1
+sV4
+I2
+sVhind
+p24
+I1
+sVwhips
+p25
+I1
+sV8
+I1
+sVbout
+p26
+I2
+sVnaw
+p27
+I1
+sVgrip
+p28
+I1
+sVfly
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I3
+sVyo
+p32
+I1
+sVget
+p33
+I1
+sVbeams
+p34
+I1
+sVstop
+p35
+I2
+sVdike
+p36
+I2
+sVbreak
+p37
+I2
+sVbang
+p38
+I1
+sVkillers
+p39
+I1
+sVknow
+p40
+I2
+sVcook
+p41
+I1
+sVlike
+p42
+I3
+sVknock
+p43
+I1
+sVbar
+p44
+I1
+sVmeat
+p45
+I1
+sVpimp
+p46
+I1
+sVcharmin
+p47
+I1
+sVspine
+p48
+I1
+sVdie
+p49
+I1
+sVgettin
+p50
+I1
+sVchuck
+p51
+I1
+sVrocks
+p52
+I2
+sVleave
+p53
+I1
+sVstopped
+p54
+I1
+sVcrawled
+p55
+I1
+sVsmall
+p56
+I1
+sVriver
+p57
+I1
+sVautomatic
+p58
+I1
+sVyall
+p59
+I2
+sVbrews
+p60
+I1
+sVblew
+p61
+I1
+sVnigga
+p62
+I2
+sVweight
+p63
+I1
+sVdeaf
+p64
+I1
+sVdead
+p65
+I1
+sV50
+p66
+I1
+sVsee
+p67
+I5
+sVsips
+p68
+I1
+sVplayin
+p69
+I1
+sVmutherfuckers
+p70
+I1
+sVport
+p71
+I1
+sVwhip
+p72
+I2
+sVscale
+p73
+I1
+sVpussies
+p74
+I1
+sVnef
+p75
+I1
+sVwashed
+p76
+I1
+sVwhoa
+p77
+I1
+sVcase
+p78
+I1
+sVgot
+p79
+I2
+sVpistol
+p80
+I1
+sVtattoos
+p81
+I1
+sVhoribly
+p82
+I1
+sVscorin
+p83
+I1
+sVcity
+p84
+I1
+sVmen
+p85
+I1
+sVfed
+p86
+I1
+sVreason
+p87
+I1
+sVslow
+p88
+I1
+sVcalifornia
+p89
+I1
+sVsmokin
+p90
+I2
+sVstarring
+p91
+I1
+sVtrunk
+p92
+I2
+sVput
+p93
+I1
+sVgots
+p94
+I1
+sVscrapped
+p95
+I1
+sVstrong
+p96
+I1
+sVwin
+p97
+I1
+sVc
+I1
+sVhemps
+p98
+I1
+sVkeep
+p99
+I1
+sVfunky
+p100
+I1
+sVplus
+p101
+I1
+sVbehin
+p102
+I1
+sVsurely
+p103
+I1
+sVwaterbed
+p104
+I1
+sVdraggin
+p105
+I1
+sVmakes
+p106
+I1
+sVthink
+p107
+I1
+sVblock
+p108
+I1
+sVthats
+p109
+I1
+sVlove
+p110
+I1
+sVdont
+p111
+I4
+sVdrunk
+p112
+I1
+sVsky
+p113
+I1
+sVstuck
+p114
+I1
+sVmakin
+p115
+I1
+sVpop
+p116
+I2
+sVdone
+p117
+I2
+sVbitch
+p118
+I10
+sVanother
+p119
+I1
+sVfornia
+p120
+I1
+sVloaded
+p121
+I1
+sVmiss
+p122
+I1
+sVwan
+p123
+I3
+sVuse
+p124
+I2
+sVeye
+p125
+I1
+sVmonkey
+p126
+I2
+sVcali
+p127
+I1
+sVchrome
+p128
+I1
+sVhey
+p129
+I2
+sVsoko
+p130
+I1
+sVswarm
+p131
+I1
+sV2
+I1
+sVtripple
+p132
+I1
+sVway
+p133
+I1
+sVak47
+p134
+I1
+sVgin
+p135
+I1
+sVhollywood
+p136
+I1
+sVtell
+p137
+I1
+sVthrew
+p138
+I1
+sVhead
+p139
+I1
+sVmackin
+p140
+I1
+sVtripps
+p141
+I1
+sVsaid
+p142
+I1
+sVturned
+p143
+I1
+sVbitches
+p144
+I1
+sVhits
+p145
+I1
+sVfuck
+p146
+I6
+sVphone
+p147
+I1
+sVhatin
+p148
+I1
+sVcatch
+p149
+I2
+sVhold
+p150
+I3
+sVundercovers
+p151
+I1
+sVme
+p152
+I9
+sVballs
+p153
+I1
+sVlook
+p154
+I16
+sVniggas
+p155
+I4
+sVcar
+p156
+I1
+sVstraight
+p157
+I2
+sVup
+p158
+I5
+sVwar
+p159
+I2
+sVum
+p160
+I2
+sVgrapeland
+p161
+I1
+sVmenapause
+p162
+I1
+sVsnitches
+p163
+I1
+sVtoe
+p164
+I1
+sVbucked
+p165
+I1
+sVbet
+p166
+I1
+sVhilfiger
+p167
+I1
+sVtap
+p168
+I1
+sVdo
+p169
+I2
+sVbenz
+p170
+I1
+sVmind
+p171
+I1
+sVmine
+p172
+I1
+sVrip
+p173
+I1
+sVtalking
+p174
+I1
+sVim
+p175
+I9
+sVcocain
+p176
+I1
+sVsqueezin
+p177
+I1
+sVneed
+p178
+I2
+sVtimes
+p179
+I1
+sVgon
+p180
+I1
+sVshit
+p181
+I2
+sVpimpin
+p182
+I1
+sVhoe
+p183
+I1
+sVsmack
+p184
+I1
+sVfate
+p185
+I1
+sVauthor
+p186
+I1
+sVna
+p187
+I3
+sVmake
+p188
+I3
+sVplated
+p189
+I1
+sVarm
+p190
+I1
+sVtill
+p191
+I1
+sV5
+I1
+sVtake
+p192
+I2
+sVtest
+p193
+I1
+sVbrag
+p194
+I1
+sVmutherfucker
+p195
+I4
+sVtalkin
+p196
+I1
+sVneiborhood
+p197
+I1
+sVthough
+p198
+I1
+sVkeeps
+p199
+I1
+sVpussyknow
+p200
+I1
+sVweed
+p201
+I2
+sVpimps
+p202
+I1
+sVfell
+p203
+I2
+sVtaco
+p204
+I1
+sVfucked
+p205
+I1
+sVrippas
+p206
+I1
+sVgoin
+p207
+I1
+sVdeath
+p208
+I1
+sVmaybe
+p209
+I1
+sVtaggin
+p210
+I1
+sVdrive
+p211
+I1
+sVgators
+p212
+I1
+sVswitch
+p213
+I2
+sVlucked
+p214
+I1
+sVleft
+p215
+I2
+sVlaws
+p216
+I1
+s.

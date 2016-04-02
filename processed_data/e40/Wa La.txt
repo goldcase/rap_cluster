@@ -1,71 +1,509 @@
-"wa la" lyrics
-e-40 lyrics
-"wa la"
-(feat. the mossie, mo mo)
-twenty three's on my truck (wa la)
-with the louie in the cup (wa la)
-we doin' baller shit boy (wa la) (baller shit boy)
-candy paint on them toys
-out the gate roll a seven on the dice (wa la)
-spend a half' a hundred thousand on some ice (wa la)
-h2, without lookin at da price (wa la)
-chrome shoes 24's, nathan nice. (wa la)
-big boob's in her ? (wa la)
-almost white, the kind i like (wa la)
-latest pipe (wa la)
-like a plumber, (wa la) in the summer (wa la)
-beat 'em up, just like a drummer
-i just gripped it (wa la)
-bricks' flippin (wa la)
-fiend's twitchin'(wa la)
-out the kitchen (wa la)
-this song's on (wa la)
-she got a thong (wa la)
-i got tree's (wa la), lrp's (wa la)
-seven 11, (wa la) just bought a chevy (wa la)
-on them grown men (wa la), my voulbs spin(wa la)
-gotcha girl wit me, (wa la) you know i rolled a 50 (wa la)
-all da baller's if your loots getting taller, then holla out (wa la)
-twenty three's on my truck (wa la)
-with the louie in the cup (wa la)
-we doin' baller shit boy (wa la) (baller shit boy wa la)
-candy paint on them toys (wa la) (wa la)
-i love to ride cadillac (wa la)
-buy my black, candy paint triple black (wa la)
-drunk on saph like a pimp to a ho (wa la)
-hangin out the sunroof me and the moss (wa la)
-we flamboastin' (wa la) lieutenant roastin'(wa la)
-game infested (wa la)  vested (wa la) cream dipper (wa la)
-louie sippa (wa la) bread winner (wa la) that's why i pimp her (wa la)
-fifteen's in the trunk, wa la
-with the 20 grain slugs in the pump, wa la
-i'm heavy on the grind so i'm always thuggin
-cause you can catch me in that drop thang sideways muggin'
-or maybe at the corner store doin' some hustilin
-or stridin' out your girl girl grit fresh unpluggin'
-she love to pimp me, (wa la) plus to lick me, (wa la)
-that's why she keep me, (wa la) after the sticky (wa la)
-twenty three's on the truck (wa la)
-with the louie in the cup (wa la)
-we doin' baller shit boy (wa la) (baller shit boy)
-candy paint on them toys (wa la)
-ghetto superstar (wa la)
-hanging out the window of my car (wa la)
-air traveler (wa la) iceman watch (wa la)
-popo think i'm sellin' rocks (wa la)
-glass blocks (wa la)
-big ho's (wa la)
-cell phones (wa la)
-slappin' voulbs (wa la)
-in the traffic (wa la) causin havoc (wa la)
-like a magnet (wa la) i'm attracted (wa la)
-the da ave (wa la) livin lav' (wa la)
-cadillac (wa la) pant's sag (wa la)
-like alan iverson (wa la)
-they admire me (wa la)
-like a fireman (wa la)
-get in retirement (wa la)
-twenty three's on my truck (wa la)
-with the louie in the cup (wa la)
-we doin' baller shit boy (wa la) (baller shit boy)
-candy on them toys (wa la)
+(dp1
+Vsummer
+p2
+I1
+sVtaller
+p3
+I1
+sVinfested
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVpopo
+p7
+I1
+sVhavoc
+p8
+I1
+sVhanging
+p9
+I1
+sVcorner
+p10
+I1
+sVfeat
+p11
+I1
+sVretirement
+p12
+I1
+sVballer
+p13
+I8
+sVdice
+p14
+I1
+sVla
+p15
+I82
+sVthang
+p16
+I1
+sVwinner
+p17
+I1
+sVbricks
+p18
+I1
+sVdipper
+p19
+I1
+sVblack
+p20
+I2
+sVghetto
+p21
+I1
+sVgrit
+p22
+I1
+sVlivin
+p23
+I1
+sVget
+p24
+I1
+sVbeat
+p25
+I1
+sVbig
+p26
+I2
+sVwatch
+p27
+I1
+sVe40
+p28
+I1
+sVtrees
+p29
+I1
+sVda
+p30
+I3
+sVgame
+p31
+I1
+sVtraffic
+p32
+I1
+sVknow
+p33
+I1
+sVhalf
+p34
+I1
+sVbread
+p35
+I1
+sVlike
+p36
+I7
+sVpimp
+p37
+I3
+sValways
+p38
+I1
+sVdrop
+p39
+I1
+sV50
+p40
+I1
+sVcandy
+p41
+I5
+sVroll
+p42
+I1
+sVmagnet
+p43
+I1
+sVpants
+p44
+I1
+sVmo
+p45
+I2
+sVlouie
+p46
+I5
+sVem
+p47
+I1
+sVphones
+p48
+I1
+sVballers
+p49
+I1
+sV24s
+p50
+I1
+sVgirl
+p51
+I3
+sVrocks
+p52
+I1
+sVsaph
+p53
+I1
+sVice
+p54
+I1
+sVcell
+p55
+I1
+sVattracted
+p56
+I1
+sVpump
+p57
+I1
+sVgot
+p58
+I2
+sVcause
+p59
+I1
+sVdoin
+p60
+I5
+sVbought
+p61
+I1
+sVwa
+p62
+I79
+sVthong
+p63
+I1
+sVrolled
+p64
+I1
+sVsideways
+p65
+I1
+sVmen
+p66
+I1
+sVboobs
+p67
+I1
+sVlieutenant
+p68
+I1
+sVtrunk
+p69
+I1
+sV20
+p70
+I1
+sVkitchen
+p71
+I1
+sVboy
+p72
+I8
+sVsuperstar
+p73
+I1
+sVgetting
+p74
+I1
+sVcup
+p75
+I4
+sVkeep
+p76
+I1
+sVchevy
+p77
+I1
+sVgrain
+p78
+I1
+sViceman
+p79
+I1
+sVlookin
+p80
+I1
+sVthink
+p81
+I1
+sVmossie
+p82
+I1
+sVthats
+p83
+I2
+sVlrps
+p84
+I1
+sVlove
+p85
+I2
+sVdrunk
+p86
+I1
+sVh2
+p87
+I1
+sVthrees
+p88
+I4
+sVheavy
+p89
+I1
+sVwit
+p90
+I1
+sVtoys
+p91
+I4
+sVtraveler
+p92
+I1
+sVflamboastin
+p93
+I1
+sVchrome
+p94
+I1
+sVtwenty
+p95
+I4
+sVfifteens
+p96
+I1
+sVwindow
+p97
+I1
+sVpaint
+p98
+I4
+sVcausin
+p99
+I1
+sVwhite
+p100
+I1
+sVhundred
+p101
+I1
+sVstore
+p102
+I1
+sVbuy
+p103
+I1
+sVvested
+p104
+I1
+sVsag
+p105
+I1
+sVgotcha
+p106
+I1
+sValan
+p107
+I1
+sVroastinwa
+p108
+I1
+sVgripped
+p109
+I1
+sVslugs
+p110
+I1
+sVho
+p111
+I1
+sVcatch
+p112
+I1
+sVspinwa
+p113
+I1
+sViverson
+p114
+I1
+sV11
+p115
+I1
+sVkind
+p116
+I1
+sVfiends
+p117
+I1
+sVnathan
+p118
+I1
+sVcar
+p119
+I1
+sVride
+p120
+I1
+sVair
+p121
+I1
+sVadmire
+p122
+I1
+sVmuggin
+p123
+I1
+sVthuggin
+p124
+I1
+sVseven
+p125
+I2
+sVlick
+p126
+I1
+sValmost
+p127
+I1
+sVsunroof
+p128
+I1
+sVloots
+p129
+I1
+sVsticky
+p130
+I1
+sVim
+p131
+I4
+sVtriple
+p132
+I1
+sVave
+p133
+I1
+sVhustilin
+p134
+I1
+sVshit
+p135
+I8
+sVcream
+p136
+I1
+sVgrown
+p137
+I1
+sVholla
+p138
+I1
+sVsellin
+p139
+I1
+sVtwitchinwa
+p140
+I1
+sVvoulbs
+p141
+I2
+sVdrummer
+p142
+I1
+sVhos
+p143
+I1
+sVgate
+p144
+I1
+sVhangin
+p145
+I1
+sVthousand
+p146
+I1
+sVnice
+p147
+I1
+sVslappin
+p148
+I1
+sVblocks
+p149
+I1
+sVfireman
+p150
+I1
+sVcadillac
+p151
+I2
+sVprice
+p152
+I1
+sVsippa
+p153
+I1
+sVplus
+p154
+I1
+sVmoss
+p155
+I1
+sVstridin
+p156
+I1
+sVlav
+p157
+I1
+sVplumber
+p158
+I1
+sVglass
+p159
+I1
+sVmaybe
+p160
+I1
+sVgrind
+p161
+I1
+sVpipe
+p162
+I1
+sVflippin
+p163
+I1
+sVwithout
+p164
+I1
+sVtruck
+p165
+I4
+sVunpluggin
+p166
+I1
+sVfresh
+p167
+I1
+sVlatest
+p168
+I1
+sVspend
+p169
+I1
+sVsongs
+p170
+I1
+s.

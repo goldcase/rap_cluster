@@ -1,43 +1,281 @@
-amazing lyrics
-kanye west lyrics
-amazing
-feat young jeezy
-amazing im reason
-everybody fired evening
-im exhausted barely breathing
-holding believe in
-matter youll never take me
-reign far eyes see
-amazing amazing amazing amazing
-amazing
-im monster im killer
-know im wrong
-im problem
-thatll never ever solved
-matter youll never take me
-reign far eyes see
-amazing amazing amazing amazing
-amazing
-im monster im maven
-know world changing
-never gave never gave up
-im thing im afraid of
-matter youll never take me
-reign far eyes see
-amazing amazing amazing amazing
-amazing
-im amazing amazing yeah im that
-aint grind call call that
-victorious yeah warriors
-make history strive victory yeah
-standing podium im trying watch sodium
-die high blood pressure either let feds catch ya yeah
-im amazing born full moon
-breed get spoon
-thats im goon summer time joke
-big family small house room
-like oh god go hard
-look hes deserves applause
-amazing amazing amazing
-amazing amazing amazing amazing
-amazing
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I2
+sVever
+p4
+I1
+sVgo
+p5
+I1
+sVkanye
+p6
+I1
+sVfeat
+p7
+I1
+sVaint
+p8
+I1
+sVtrying
+p9
+I1
+sVsodium
+p10
+I1
+sVyoung
+p11
+I1
+sVgave
+p12
+I2
+sVbreathing
+p13
+I1
+sVget
+p14
+I1
+sVya
+p15
+I1
+sVbig
+p16
+I1
+sVkiller
+p17
+I1
+sVwatch
+p18
+I1
+sVjeezy
+p19
+I1
+sVspoon
+p20
+I1
+sVknow
+p21
+I2
+sVworld
+p22
+I1
+sVstrive
+p23
+I1
+sVlike
+p24
+I1
+sVdie
+p25
+I1
+sVsolved
+p26
+I1
+sVeither
+p27
+I1
+sVsmall
+p28
+I1
+sVfired
+p29
+I1
+sVhouse
+p30
+I1
+sVhard
+p31
+I1
+sVyeah
+p32
+I4
+sVborn
+p33
+I1
+sVsee
+p34
+I3
+sVgod
+p35
+I1
+sVmoon
+p36
+I1
+sVyoull
+p37
+I3
+sVvictory
+p38
+I1
+sVstanding
+p39
+I1
+sVfull
+p40
+I1
+sVmonster
+p41
+I2
+sVnever
+p42
+I6
+sVmaven
+p43
+I1
+sVpressure
+p44
+I1
+sVreason
+p45
+I1
+sVlet
+p46
+I1
+sVoh
+p47
+I1
+sVjoke
+p48
+I1
+sVbarely
+p49
+I1
+sVwrong
+p50
+I1
+sVthing
+p51
+I1
+sVthats
+p52
+I1
+sVfamily
+p53
+I1
+sVeverybody
+p54
+I1
+sVhes
+p55
+I1
+sVwest
+p56
+I1
+sVbreed
+p57
+I1
+sVvictorious
+p58
+I1
+sVcall
+p59
+I2
+sVeyes
+p60
+I3
+sVthat
+p61
+I2
+sVreign
+p62
+I3
+sVcatch
+p63
+I1
+sVbelieve
+p64
+I1
+sVme
+p65
+I3
+sVroom
+p66
+I1
+sVup
+p67
+I1
+sVmatter
+p68
+I3
+sVof
+p69
+I1
+sVproblem
+p70
+I1
+sVhistory
+p71
+I1
+sVthatll
+p72
+I1
+sVlook
+p73
+I1
+sVexhausted
+p74
+I1
+sVhigh
+p75
+I1
+sVevening
+p76
+I1
+sVim
+p77
+I15
+sVin
+p78
+I1
+sVafraid
+p79
+I1
+sVdeserves
+p80
+I1
+sVwarriors
+p81
+I1
+sVmake
+p82
+I1
+sVfar
+p83
+I3
+sVamazing
+p84
+I29
+sVtake
+p85
+I3
+sVholding
+p86
+I1
+sVgoon
+p87
+I1
+sVpodium
+p88
+I1
+sVfeds
+p89
+I1
+sVblood
+p90
+I1
+sVchanging
+p91
+I1
+sVapplause
+p92
+I1
+sVgrind
+p93
+I1
+sVtime
+p94
+I1
+s.

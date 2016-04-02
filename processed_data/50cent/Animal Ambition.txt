@@ -1,47 +1,416 @@
-"animal ambition" lyrics
-50 cent lyrics
-"animal ambition"
-i got that animal (animal) ambition
-i got that animal (animal) ambition
-i got that animal (animal) ambition
-i got that animal (animal) ambition
-why give her love and affection
-she just want some bread
-i ain't talking of texting
-i just want some head
-she from a pirus sip
-where all them niggas wear red
-i ain't flying no flags but i'm a gangster bitch
-i say say no to drugs then i do that shit
-got a blue fleet of whips
-i'm so hood nigga rich
-you don't like the way i do it nigga eat your dick
-i just call em when i want em don't need your bitch
-see my blood on these diamonds everything proper
-your shit look grown and your shit look copper
-it's turning homie that's why your turning on me
-admit it i made it, i can't be faded
-i roll it up in public i'm a cancer man
-smoke it out in the open like i'm in amsterdam
-i do a hundred miles an hour switching lens in my lane
-see my name around the globe niggas know who i am
-i got that animal (animal) ambition
-you say you hustle like a hustle i be moving shit
-had a couch and a u-haul filled up with bricks
-got them straps and long clips filled up with led
-so when we count on the paper it better come back correct
-we out in new orleans baby niggas hungry for brick
-i do that knife for stuntin get shot in the head
-every hood i go through they fuck with me you dig?
-got the eye of the tiger i'm on that animal shit
-i got the heart of a lion and the looks of an elephant
-damn scared of rats, but i'm ready for anything
-it's the unit my nigga, take a look at my face
-see if you test me they'll arrest me i'll be catching a case
-new york is a concrete jungle, where niggas got to get paid
-get in the way of that paper and niggas got to get sprayed
-look at me wrong and your dead
-you should be very afraid
-i don't know how to behave
-i'm tamed fresh out the cage
-urrrrrrrrrrhhhh
+(dp1
+Vsprayed
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVpaper
+p5
+I2
+sVlooks
+p6
+I1
+sVgo
+p7
+I1
+sVaint
+p8
+I2
+sVorleans
+p9
+I1
+sVdick
+p10
+I1
+sVbetter
+p11
+I1
+sVarrest
+p12
+I1
+sVrich
+p13
+I1
+sVwhips
+p14
+I1
+sVcount
+p15
+I1
+sVaround
+p16
+I1
+sVget
+p17
+I4
+sVknife
+p18
+I1
+sVevery
+p19
+I1
+sVknow
+p20
+I2
+sVambition
+p21
+I7
+sVcage
+p22
+I1
+sVbread
+p23
+I1
+sVname
+p24
+I1
+sVdig
+p25
+I1
+sV50
+p26
+I1
+sVswitching
+p27
+I1
+sVmiles
+p28
+I1
+sVfilled
+p29
+I2
+sVem
+p30
+I2
+sVcorrect
+p31
+I1
+sVnigga
+p32
+I3
+sVrats
+p33
+I1
+sVglobe
+p34
+I1
+sVback
+p35
+I1
+sVdead
+p36
+I1
+sVgangster
+p37
+I1
+sVsee
+p38
+I3
+sVcatching
+p39
+I1
+sVproper
+p40
+I1
+sVturning
+p41
+I2
+sVblue
+p42
+I1
+sVeverything
+p43
+I1
+sVbehave
+p44
+I1
+sVunit
+p45
+I1
+sVdiamonds
+p46
+I1
+sVgot
+p47
+I11
+sVpublic
+p48
+I1
+sVred
+p49
+I1
+sVhustle
+p50
+I2
+sVtamed
+p51
+I1
+sVled
+p52
+I1
+sVurrrrrrrrrrhhhh
+p53
+I1
+sVlike
+p54
+I3
+sVyork
+p55
+I1
+sVwear
+p56
+I1
+sVcome
+p57
+I1
+sVstuntin
+p58
+I1
+sVanything
+p59
+I1
+sVill
+p60
+I1
+sVadmit
+p61
+I1
+sVsmoke
+p62
+I1
+sVthats
+p63
+I1
+sVcopper
+p64
+I1
+sVuhaul
+p65
+I1
+sVlove
+p66
+I1
+sVdont
+p67
+I3
+sVcancer
+p68
+I1
+sVbricks
+p69
+I1
+sVbitch
+p70
+I2
+sVamsterdam
+p71
+I1
+sVopen
+p72
+I1
+sVhood
+p73
+I2
+sVlong
+p74
+I1
+sVeye
+p75
+I1
+sVflying
+p76
+I1
+sVtexting
+p77
+I1
+sVcent
+p78
+I1
+sVcall
+p79
+I1
+sVway
+p80
+I2
+sVdamn
+p81
+I1
+sVbrick
+p82
+I1
+sVhundred
+p83
+I1
+sVscared
+p84
+I1
+sVhead
+p85
+I2
+sVdrugs
+p86
+I1
+sVam
+p87
+I1
+sVtiger
+p88
+I1
+sVbaby
+p89
+I1
+sVeat
+p90
+I1
+sVme
+p91
+I1
+sVmade
+p92
+I1
+sVlook
+p93
+I4
+sVhour
+p94
+I1
+sVniggas
+p95
+I5
+sVcant
+p96
+I1
+sVclips
+p97
+I1
+sVcase
+p98
+I1
+sVfaded
+p99
+I1
+sVfleet
+p100
+I1
+sVaffection
+p101
+I1
+sVheart
+p102
+I1
+sVready
+p103
+I1
+sVgive
+p104
+I1
+sVpirus
+p105
+I1
+sVfuck
+p106
+I1
+sVtalking
+p107
+I1
+sVsay
+p108
+I3
+sVhomie
+p109
+I1
+sVim
+p110
+I7
+sVwant
+p111
+I3
+sVneed
+p112
+I1
+sVshit
+p113
+I5
+sVgrown
+p114
+I1
+sVsip
+p115
+I1
+sVtheyll
+p116
+I1
+sVcouch
+p117
+I1
+sVtake
+p118
+I1
+sVanimal
+p119
+I13
+sVelephant
+p120
+I1
+sVtest
+p121
+I1
+sVnew
+p122
+I2
+sVroll
+p123
+I1
+sVlion
+p124
+I1
+sVpaid
+p125
+I1
+sVlens
+p126
+I1
+sVwrong
+p127
+I1
+sVafraid
+p128
+I1
+sVmoving
+p129
+I1
+sVblood
+p130
+I1
+sVman
+p131
+I1
+sVlane
+p132
+I1
+sVstraps
+p133
+I1
+sVhungry
+p134
+I1
+sVface
+p135
+I1
+sVconcrete
+p136
+I1
+sVflags
+p137
+I1
+sVjungle
+p138
+I1
+sVfresh
+p139
+I1
+s.

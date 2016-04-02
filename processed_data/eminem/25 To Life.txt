@@ -1,103 +1,659 @@
-"25 to life" lyrics
-eminem lyrics
-"25 to life"
-too late for the other side
-caught in a chase
-25 to life
-too late for the other side
-caught in a chase
-25 to life
-( yeah)
-too late
-( i can't keep chasing em
-i'm taking my life back)
-caught in a chase
-25 to life
-i don't think she understands the sacrifices that i made
-maybe if this bitch had acted right i would've stayed
-but i've already wasted over half of my life i would've laid
-down and died for you i no longer cry for you
-no more pain bitch you
-took me for granted took my heart and ran it straight into the planet
-into the dirt i can no longer stand it
-now my respect i demand it
-imma take control of this relationship
-command it, and imma be the boss of you now goddamnit
-and what i mean is that i will no longer let you control me
-so you better hear me out this much you owe me
-i gave up my life for you, totally devoted to you while i've stayed
-faithful all the way this is how i fucking get repaid
-look at how i dress fucking baggy sweats, go to work a mess
-always in a rush to get back to you i ain't heard you yet
-not even once say you appreciate me i deserve respect
-i've done my best to give you nothing less than perfectness
-and i know that if i end this i'll no longer have nothing left
-but you keep treating me like a staircase it's time to fucking step
-and i wont be coming back so don't hold your fucking breath
-you know what you've done no need to go in depth
-i told you, you'd be sorry if i fucking left
-i'd laugh while you wept
-hows it feel now, yeah, funny ain't it, you neglected me
-did me a favor although my spirit free you've set
-but a special place for you in my heart i have kept
-it's unfortunate but it's,
-too late for the other side ( yeah)
-caught in a chase
-25 to life
-( can't take no more)
-too late for the other side
-caught in a chase
-25 to life
-i feel like when i bend over backwards for you all you do is laugh
-cause that ain't good enough you expect me to fold myself in half
-til i snap
-don't think i'm loyal
-all i do is rap
-how can i moonlight on the side
-i have no life outside of that
-don't i give you enough of my time
-you don't think so, do you?
-jealous when i spend time with the girls
-why i'm married to you still man i don't know
-but tonight i'm serving you with papers
-i'm divorcing you
-go marry someone else and make em famous
-and take away their freedom like you did to me
-treat em like you don't need them and they ain't worthy of you
-feed em the same shit that you made me eat
-i'm moving on forget you oh,
-now i'm special? i didn't feel special when i was with you
-all i ever felt was this
-helplessness
-imprisoned by a selfish bitch
-chew me up and spit me out
-i fell for this so many times
-it's ridiculous
-and still i stick with this
-i'm sick of this but in my sickness and addiction
-you're addictive as they get
-evil as they come vindictive as they make em
-my friends keep asking me why i can't just walk away from
-i'm addicted
-to the pain, the stress, the drama
-i'm drawn in so i guess imma mess
-cursed and blessed
-but this time imma
-ain't changing my mind
-i'm climbing out this abyss
-you screaming as i walk out that i'll be missed
-but when you spoke of people who meant the most to you
-you left me off your list
-fuck you hip-hop
-i'm leaving you, my life sentence is served bitch
-and it's just
-too late for the other side
-caught in a chase
-25 to life
-( i'm gone, man)
-too late for the other side
-caught in a chase
-25 to life
-too late
-caught in a chase
-25 to life
+(dp1
+Vserving
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVever
+p6
+I1
+sVgo
+p7
+I3
+sVstill
+p8
+I2
+sVyet
+p9
+I1
+sVmake
+p10
+I2
+sVdevoted
+p11
+I1
+sV25
+p12
+I10
+sVjust
+p13
+I1
+sVimma
+p14
+I4
+sVsentence
+p15
+I1
+sVenough
+p16
+I2
+sVeat
+p17
+I1
+sVlate
+p18
+I8
+sVfeel
+p19
+I3
+sVsnap
+p20
+I1
+sVsorry
+p21
+I1
+sVgave
+p22
+I1
+sVmeant
+p23
+I1
+sVwont
+p24
+I1
+sVgood
+p25
+I1
+sVsick
+p26
+I1
+sVget
+p27
+I3
+sVfamous
+p28
+I1
+sVknow
+p29
+I3
+sVhalf
+p30
+I2
+sVscreaming
+p31
+I1
+sVspecial
+p32
+I3
+sVtreating
+p33
+I1
+sVabyss
+p34
+I1
+sVspit
+p35
+I1
+sVlike
+p36
+I4
+sVimprisoned
+p37
+I1
+sValways
+p38
+I1
+sVmarry
+p39
+I1
+sVcry
+p40
+I1
+sVlist
+p41
+I1
+sVsacrifices
+p42
+I1
+sVmarried
+p43
+I1
+sVaddicted
+p44
+I1
+sVserved
+p45
+I1
+sVtold
+p46
+I1
+sVside
+p47
+I7
+sVmean
+p48
+I1
+sVem
+p49
+I5
+sVchew
+p50
+I1
+sVright
+p51
+I1
+sVpeople
+p52
+I1
+sVfucking
+p53
+I5
+sVyeah
+p54
+I3
+sVfold
+p55
+I1
+sVexpect
+p56
+I1
+sVbest
+p57
+I1
+sVout
+p58
+I1
+sVeven
+p59
+I1
+sVhelplessness
+p60
+I1
+sVsweats
+p61
+I1
+sVaway
+p62
+I2
+sVsickness
+p63
+I1
+sVits
+p64
+I1
+sVfavor
+p65
+I1
+sVlaid
+p66
+I1
+sVasking
+p67
+I1
+sVdrawn
+p68
+I1
+sVcause
+p69
+I1
+sVwouldve
+p70
+I2
+sVaint
+p71
+I5
+sVdirt
+p72
+I1
+sVfree
+p73
+I1
+sVeminem
+p74
+I1
+sVstress
+p75
+I1
+sVstep
+p76
+I1
+sVlet
+p77
+I1
+sValthough
+p78
+I1
+sVworthy
+p79
+I1
+sVfuck
+p80
+I1
+sVboss
+p81
+I1
+sVcome
+p82
+I1
+sVwept
+p83
+I1
+sVbackwards
+p84
+I1
+sVoh
+p85
+I1
+sVfreedom
+p86
+I1
+sVtaking
+p87
+I1
+sVkeep
+p88
+I3
+sVdrama
+p89
+I1
+sVgoddamnit
+p90
+I1
+sVstand
+p91
+I1
+sVdivorcing
+p92
+I1
+sVyouve
+p93
+I2
+sVthink
+p94
+I3
+sVfeed
+p95
+I1
+sValready
+p96
+I1
+sVdont
+p97
+I7
+sVheart
+p98
+I2
+sVowe
+p99
+I1
+sVacted
+p100
+I1
+sVyoud
+p101
+I1
+sVblessed
+p102
+I1
+sVwalk
+p103
+I2
+sVcursed
+p104
+I1
+sVjealous
+p105
+I1
+sVset
+p106
+I1
+sVdone
+p107
+I2
+sVbitch
+p108
+I4
+sVlaugh
+p109
+I2
+sVrepaid
+p110
+I1
+sVrespect
+p111
+I2
+sVbetter
+p112
+I1
+sVguess
+p113
+I1
+sVfrom
+p114
+I1
+sVspoke
+p115
+I1
+sVfriends
+p116
+I1
+sVcaught
+p117
+I8
+sVgirls
+p118
+I1
+sVbaggy
+p119
+I1
+sVbreath
+p120
+I1
+sVmuch
+p121
+I1
+sVtreat
+p122
+I1
+sVway
+p123
+I1
+sVmore
+p124
+I1
+sVlife
+p125
+I15
+sVrelationship
+p126
+I1
+sVthat
+p127
+I1
+sVmind
+p128
+I1
+sVvindictive
+p129
+I1
+sVtook
+p130
+I2
+sVback
+p131
+I3
+sVridiculous
+p132
+I1
+sVhear
+p133
+I1
+sVstick
+p134
+I1
+sVdemand
+p135
+I1
+sVwasted
+p136
+I1
+sVkept
+p137
+I1
+sVhold
+p138
+I1
+sVspirit
+p139
+I1
+sVme
+p140
+I4
+sVrush
+p141
+I1
+sVmade
+p142
+I2
+sVlook
+p143
+I1
+sVthis
+p144
+I2
+sVstraight
+p145
+I1
+sVwork
+p146
+I1
+sVsay
+p147
+I1
+sVplanet
+p148
+I1
+sVperfectness
+p149
+I1
+sVmany
+p150
+I1
+sVdidnt
+p151
+I1
+sVill
+p152
+I2
+sVaddictive
+p153
+I1
+sVcontrol
+p154
+I2
+sVive
+p155
+I3
+sVgive
+p156
+I2
+sVran
+p157
+I1
+sVneglected
+p158
+I1
+sVit
+p159
+I2
+sVtonight
+p160
+I1
+sVheard
+p161
+I1
+sVcant
+p162
+I3
+sVsomeone
+p163
+I1
+sVim
+p164
+I13
+sVbend
+p165
+I1
+sVrap
+p166
+I1
+sVneed
+p167
+I2
+sVtimes
+p168
+I1
+sVdress
+p169
+I1
+sVid
+p170
+I1
+sVshit
+p171
+I1
+sVchase
+p172
+I8
+sVgone
+p173
+I1
+sVfunny
+p174
+I1
+sVend
+p175
+I1
+sVfaithful
+p176
+I1
+sVdeserve
+p177
+I1
+sVgranted
+p178
+I1
+sVloyal
+p179
+I1
+sVstayed
+p180
+I2
+sVtil
+p181
+I1
+sVtake
+p182
+I3
+sVunfortunate
+p183
+I1
+sVpapers
+p184
+I1
+sVplace
+p185
+I1
+sVyou
+p186
+I7
+sVclimbing
+p187
+I1
+sVoutside
+p188
+I1
+sVpain
+p189
+I2
+sVstaircase
+p190
+I1
+sVselfish
+p191
+I1
+sVmess
+p192
+I2
+sVfelt
+p193
+I1
+sVevil
+p194
+I1
+sVleaving
+p195
+I1
+sVhiphop
+p196
+I1
+sVfell
+p197
+I1
+sVmoving
+p198
+I1
+sVcoming
+p199
+I1
+sVnothing
+p200
+I2
+sVchanging
+p201
+I1
+sVelse
+p202
+I1
+sVtotally
+p203
+I1
+sVdied
+p204
+I1
+sVman
+p205
+I2
+sVhows
+p206
+I1
+sVunderstands
+p207
+I1
+sVchasing
+p208
+I1
+sVlonger
+p209
+I4
+sVmaybe
+p210
+I1
+sVyoure
+p211
+I1
+sVappreciate
+p212
+I1
+sVmoonlight
+p213
+I1
+sVmissed
+p214
+I1
+sVdepth
+p215
+I1
+sVcommand
+p216
+I1
+sVtime
+p217
+I4
+sVaddiction
+p218
+I1
+sVspend
+p219
+I1
+sVleft
+p220
+I3
+s.

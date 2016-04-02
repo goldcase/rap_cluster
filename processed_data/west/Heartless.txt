@@ -1,42 +1,352 @@
-heartless lyrics
-kanye west lyrics
-heartless
-night hear talk coldest story ever told
-somewhere far along road lost soul
-woman heartless
-could heartless
-oh could heartless
-could cold winter wind breeze yo
-remember talking though
-need watch way talking yo
-mean things through
-mean things got into
-ayo know things aint told me
-ayo things thats old me
-wanna get back gonna show me
-walk around like dont know me
-got new friend well got homies
-end still lonely
-could dr evil
-bringing side dont know
-decided werent gonna speak so
-3 phone
-would mad for
-homie dont know shes hot cold
-wont stop wont mess groove up
-cause already know thing go
-run tell friends youre leaving me
-say dont see see me
-wait couple months gonna see
-youll never find nobody better me
-talking talking talking talk
-baby lets knock off
-dont know through
-dont know you
-got something new see
-gonna keep hating me
-gonna enemies
-know cant believe
-could leave wrong
-cant make right
-im gonna take tonight night
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVthrough
+p4
+I2
+sVhating
+p5
+I1
+sVgo
+p6
+I1
+sVkanye
+p7
+I1
+sVcold
+p8
+I2
+sVstill
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I1
+sVsomewhere
+p12
+I1
+sVdr
+p13
+I1
+sVbetter
+p14
+I1
+sVlets
+p15
+I1
+sVhomies
+p16
+I1
+sVlonely
+p17
+I1
+sVaround
+p18
+I1
+sVyo
+p19
+I2
+sVget
+p20
+I1
+sVfar
+p21
+I1
+sVcouple
+p22
+I1
+sVstop
+p23
+I1
+sVknow
+p24
+I8
+sVwerent
+p25
+I1
+sVbringing
+p26
+I1
+sVwont
+p27
+I2
+sVknock
+p28
+I1
+sVlike
+p29
+I1
+sVlost
+p30
+I1
+sVcause
+p31
+I1
+sVleave
+p32
+I1
+sVnight
+p33
+I2
+sVside
+p34
+I1
+sVmean
+p35
+I2
+sVright
+p36
+I1
+sVold
+p37
+I1
+sVback
+p38
+I1
+sVsoul
+p39
+I1
+sVsee
+p40
+I4
+sVdecided
+p41
+I1
+sVshes
+p42
+I1
+sVenemies
+p43
+I1
+sVgon
+p44
+I6
+sVfor
+p45
+I1
+sV3
+I1
+sVgot
+p46
+I4
+sVever
+p47
+I1
+sVtold
+p48
+I2
+sVrun
+p49
+I1
+sVnever
+p50
+I1
+sVayo
+p51
+I2
+sValong
+p52
+I1
+sVwait
+p53
+I1
+sVoh
+p54
+I1
+sVcould
+p55
+I5
+sVmonths
+p56
+I1
+sVleaving
+p57
+I1
+sVthing
+p58
+I1
+sVyoull
+p59
+I1
+sVroad
+p60
+I1
+sVthats
+p61
+I1
+sValready
+p62
+I1
+sVdont
+p63
+I6
+sVinto
+p64
+I1
+sVwalk
+p65
+I1
+sVspeak
+p66
+I1
+sVwan
+p67
+I1
+sVstory
+p68
+I1
+sVwould
+p69
+I1
+sVwest
+p70
+I1
+sVway
+p71
+I1
+sVtell
+p72
+I1
+sVfriend
+p73
+I1
+sVnobody
+p74
+I1
+sVcant
+p75
+I2
+sVphone
+p76
+I1
+sVhear
+p77
+I1
+sVbaby
+p78
+I1
+sVcoldest
+p79
+I1
+sVbelieve
+p80
+I1
+sVme
+p81
+I8
+sVwoman
+p82
+I1
+sVup
+p83
+I1
+sVgroove
+p84
+I1
+sVheartless
+p85
+I5
+sVtonight
+p86
+I1
+sVtalking
+p87
+I5
+sVsay
+p88
+I1
+sVhomie
+p89
+I1
+sVim
+p90
+I1
+sVsomething
+p91
+I1
+sVneed
+p92
+I1
+sVkeep
+p93
+I1
+sVend
+p94
+I1
+sVwinter
+p95
+I1
+sVthings
+p96
+I4
+sVmake
+p97
+I1
+sVhot
+p98
+I1
+sVtake
+p99
+I1
+sVnew
+p100
+I2
+sVyou
+p101
+I1
+sVthough
+p102
+I1
+sVmess
+p103
+I1
+sVwatch
+p104
+I1
+sVevil
+p105
+I1
+sVwrong
+p106
+I1
+sVmad
+p107
+I1
+sVfriends
+p108
+I1
+sVoff
+p109
+I1
+sVremember
+p110
+I1
+sVyoure
+p111
+I1
+sVwell
+p112
+I1
+sVbreeze
+p113
+I1
+sVso
+p114
+I1
+sVtalk
+p115
+I2
+sVna
+p116
+I7
+sVwind
+p117
+I1
+s.

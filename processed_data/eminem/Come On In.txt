@@ -1,108 +1,905 @@
-"come on in" lyrics
-eminem lyrics
-"come on in"
-(feat. d12)
-good mornin
-haha, wake your mother fuckin asses up
-yo what is the what?
-well come on then, you know what time it is
-stop sleepin on my roof bitch
-for whatever it's worth it's worth me havin my arse whipped
-cause i'ma have the last lift that ever gets arse squished
-i just can't get past these little pissants
-that wanna be rauny bad asses so bad
-and they so mad they can't stand it
-cause we can and they can't spit (haawk)
-and they can't handle it like a man
-and that's when it just happens
-and i snap and it's a wrap, and it's a scrap an then it isn't rap is it?
-hip-hop isn't a sport anymore when you got to go and resort back into that shit
-maybe i'm old fashioned but my pashion
-is to smash anyone rappin without havin a slappin
-believe me i'd much rather pick up a pencil than a pistol when i'm pissed now
-but it all depends on just how far it get's took on the mic
-cause i'm tellin you right now your not gonna like it
-cause if i get pushed over the edge then i'm pullin you with me
-you poke a stick at a pitbull you get bit b
-these words stick to you like crazy glue
-when you diss me cause they just bounce off me like bullets do fifty!
-i'm the beatiful-est thing and your gonna miss me when i'm gone
-like kieth murry when he threw a stool and hit a girl acci-dently (argghhh!!)
-i do this for swifty, kon and kuniva, bizzy & proof are you with me?
-come on an everybody come on an
-kick your shoes off mother fuckers come on an
-cause we get it on an till the brick of dawn an
-wake your arse up mother fuckers quit yawnin
-cause we ain't leavin till 6 in tha mornin
-so up an sing along with the words to the song an
-if you don't know the words an you can't sing along an
-fake like you know em mother fuckers an join in
-everybody come on an
-?? the media pitted me of a beef starter
-in a party with heat it's hard to keep me without one
-fuck slugs i'm walkin gloves with a shotgun
-constantly popin slugs they hot son, better not run
-the bosses of all bosses a haluocaust to whoever ain't concious
-in a house full of dog shit,
-i'ma gothic death project, you stop breathin
-you die quicker than mach speed without bleedin
-it ain't about what you readin
-when you meet me better speak like a season's greetins
-either that or we'll be beefin free when
-you ******* need a 'e' just to speak shit!
-your leader is a botique bitch
-keep the heater where you can reach quick
-i snipe you with it and we won't even keep it a secret
-****** i did it from a mind of a mental patient
-when glocks wave you can save that conversation for satan
-you brave?
-come on an everybody come on an
-kick your shoes off mother fuckers come on an
-cause we get it on an till the brick of dawn an
-wake your arse up mother fuckers quit yawnin
-cause we ain't leavin till 6 in tha mornin
-so up an sing along with the words to the song an
-if you don't know the words an you can't sing along an
-fake like you know em mother fuckers an join in
-everybody come on an
-yo yo i heard you niggas don't like us
-but so what this beef is like
-'what tha fuck did he say in his rap em?'
-i can see that he's just a punk
-i mean these niggas squeeze on me
-please i'm seeing guts
-i don't need no enemies, as my family a couple trucks
-am i empty seein them ?? i emtpy out them ?? to fight you
-in front of every reporter that i don't like
-no need for metaphores i get yours across when i write
-so emotions enough to say "fuck you bitch, and i don't like you, what!"
-i might as well give this up like heavy sales
-and just fuck an leave d12 and this blunt
-we can't self destruct
-i've never felt it this much
-come on fellas, get up
-we got to fight like bugs last night of his life
-i walk with a limp, pistol hangin off'a tha hip
-i'm awkward and quick enough an sick when sparkin a fith
-your carcus is split even the beef is partially thick
-we can't take you serious, you a comedy skit
-you probaly wish that you could be out shootin them g's
-but the only thing you shoot is the breeze
-i can't believe you speaking on movin key's
-but every time we hear you kick it
-the only thing you sellin is wolf tickets
-i look wicked cause niggas will test your nut sack
-so when they bust you better bust back
-and get your guts clapped outa your stomach
-and when they want it (yeah)
-i bring a hundred niggas from runave
-so get your gun and if you comin
-come on an everybody come on an
-kick your shoes off mother fuckers come on an
-cause we get it on an till the brick of dawn an
-wake your arse up mother fuckers quit yawnin
-cause we ain't leavin till 6 in tha mornin
-so up an sing along with the words to the song an
-if you don't know the words an you can't sing along an
-fake like you know em mother fuckers an join in
-everybody come on an
+(dp1
+Vson
+p2
+I1
+sVdiss
+p3
+I1
+sVbotique
+p4
+I1
+sVshoes
+p5
+I3
+sVlyrics
+p6
+I2
+sVwhoever
+p7
+I1
+sVsales
+p8
+I1
+sVplease
+p9
+I1
+sVskit
+p10
+I1
+sVemtpy
+p11
+I1
+sVfifty
+p12
+I1
+sVnight
+p13
+I1
+sVisnt
+p14
+I2
+sVgo
+p15
+I1
+sVfellas
+p16
+I1
+sVglue
+p17
+I1
+sVfeat
+p18
+I1
+sVpashion
+p19
+I1
+sVclapped
+p20
+I1
+sVbeefin
+p21
+I1
+sVima
+p22
+I2
+sVdeath
+p23
+I1
+sVdawn
+p24
+I3
+sVtill
+p25
+I6
+sVguts
+p26
+I2
+sVheavy
+p27
+I1
+sVenough
+p28
+I2
+sVbust
+p29
+I2
+sVbetter
+p30
+I3
+sVhavin
+p31
+I2
+sVhaluocaust
+p32
+I1
+sVsatan
+p33
+I1
+sVsnap
+p34
+I1
+sVsave
+p35
+I1
+sVmight
+p36
+I1
+sVworth
+p37
+I2
+sVkick
+p38
+I4
+sVsplit
+p39
+I1
+sVhip
+p40
+I1
+sVshoot
+p41
+I1
+sVmornin
+p42
+I4
+sVhandle
+p43
+I1
+sVyo
+p44
+I3
+sVget
+p45
+I10
+sVfar
+p46
+I1
+sVtickets
+p47
+I1
+sVcouple
+p48
+I1
+sVstop
+p49
+I2
+sVwave
+p50
+I1
+sVtest
+p51
+I1
+sVmetaphores
+p52
+I1
+sVevery
+p53
+I2
+sVknow
+p54
+I7
+sVwords
+p55
+I7
+sVbosses
+p56
+I2
+sVfront
+p57
+I1
+sVjoin
+p58
+I3
+sVbit
+p59
+I1
+sVnow
+p60
+I1
+sVawkward
+p61
+I1
+sVwont
+p62
+I1
+sVsmash
+p63
+I1
+sVhangin
+p64
+I1
+sVlike
+p65
+I15
+sVrauny
+p66
+I1
+sVpitbull
+p67
+I1
+sVever
+p68
+I1
+sVyawnin
+p69
+I3
+sVconcious
+p70
+I1
+sVgun
+p71
+I1
+sVleader
+p72
+I1
+sVleave
+p73
+I1
+sVbring
+p74
+I1
+sVbad
+p75
+I2
+sVcarcus
+p76
+I1
+sVgloves
+p77
+I1
+sVeither
+p78
+I1
+sVdie
+p79
+I1
+sVquick
+p80
+I2
+sVgreetins
+p81
+I1
+sVus
+p82
+I1
+sVem
+p83
+I4
+sVsack
+p84
+I1
+sVright
+p85
+I1
+sVold
+p86
+I1
+sVmental
+p87
+I1
+sVhouse
+p88
+I1
+sVbleedin
+p89
+I1
+sVhard
+p90
+I1
+sVback
+p91
+I2
+sVbounce
+p92
+I1
+sVpast
+p93
+I1
+sVacross
+p94
+I1
+sVdepends
+p95
+I1
+sVfith
+p96
+I1
+sVhear
+p97
+I1
+sVtellin
+p98
+I1
+sVrun
+p99
+I1
+sVgirl
+p100
+I1
+sVsport
+p101
+I1
+sVrunave
+p102
+I1
+sVenemies
+p103
+I1
+sVhappens
+p104
+I1
+sVwhat
+p105
+I1
+sVgon
+p106
+I2
+sVbrave
+p107
+I1
+sVbeatifulest
+p108
+I1
+sVsleepin
+p109
+I1
+sVspeed
+p110
+I1
+sVscrap
+p111
+I1
+sVbreathin
+p112
+I1
+sVstool
+p113
+I1
+sVemotions
+p114
+I1
+sVouta
+p115
+I1
+sVsqueeze
+p116
+I1
+sVswifty
+p117
+I1
+sVgot
+p118
+I2
+sVpistol
+p119
+I2
+sVcause
+p120
+I12
+sVslugs
+p121
+I2
+sVwhipped
+p122
+I1
+sVaint
+p123
+I5
+sVfull
+p124
+I1
+sVkieth
+p125
+I1
+sVhundred
+p126
+I1
+sVquit
+p127
+I3
+sVsquished
+p128
+I1
+sVeven
+p129
+I2
+sVfree
+p130
+I1
+sVeminem
+p131
+I1
+sVmeet
+p132
+I1
+sVsing
+p133
+I6
+sValong
+p134
+I6
+sVcome
+p135
+I16
+sVniggas
+p136
+I4
+sVpissed
+p137
+I1
+sVlast
+p138
+I2
+sVargghhh
+p139
+I1
+sVglocks
+p140
+I1
+sVcould
+p141
+I1
+sVkon
+p142
+I1
+sVpunk
+p143
+I1
+sVkeep
+p144
+I3
+sVwalkin
+p145
+I1
+sVthing
+p146
+I3
+sVwolf
+p147
+I1
+sVstand
+p148
+I1
+sVpick
+p149
+I1
+sVfelt
+p150
+I1
+sVpullin
+p151
+I1
+sVmean
+p152
+I1
+sVfuckin
+p153
+I1
+sVthats
+p154
+I1
+sVheater
+p155
+I1
+sVdont
+p156
+I7
+sVfamily
+p157
+I1
+sVbizzy
+p158
+I1
+sVcomin
+p159
+I1
+sVlimp
+p160
+I1
+sVwhatever
+p161
+I1
+sVone
+p162
+I1
+sVoffa
+p163
+I1
+sVhes
+p164
+I1
+sVquicker
+p165
+I1
+sVbitch
+p166
+I3
+sVfake
+p167
+I3
+sVwrap
+p168
+I1
+sVthick
+p169
+I1
+sVmiss
+p170
+I1
+sVspeak
+p171
+I2
+sVeverybody
+p172
+I6
+sVwan
+p173
+I1
+sVlittle
+p174
+I1
+sVseein
+p175
+I1
+sVmurry
+p176
+I1
+sVresort
+p177
+I1
+sVprobaly
+p178
+I1
+sVbugs
+p179
+I1
+sVconstantly
+p180
+I1
+sVfuckers
+p181
+I9
+sVsecret
+p182
+I1
+sVfight
+p183
+I2
+sVanyone
+p184
+I1
+sVasses
+p185
+I2
+sVmuch
+p186
+I2
+sV6
+I3
+sVpitted
+p187
+I1
+sVbrick
+p188
+I3
+sVmach
+p189
+I1
+sVreporter
+p190
+I1
+sVnut
+p191
+I1
+sVempty
+p192
+I1
+sVthrew
+p193
+I1
+sVpencil
+p194
+I1
+sVlife
+p195
+I1
+sVstomach
+p196
+I1
+sVspit
+p197
+I1
+sVgs
+p198
+I1
+sVhaha
+p199
+I1
+sVtook
+p200
+I1
+sVfuck
+p201
+I4
+sVheat
+p202
+I1
+sVlift
+p203
+I1
+sVwake
+p204
+I4
+sVstick
+p205
+I2
+sVpatient
+p206
+I1
+sVbelieve
+p207
+I2
+sVsnipe
+p208
+I1
+sVstarter
+p209
+I1
+sVpartially
+p210
+I1
+sVme
+p211
+I2
+sVb
+I1
+sVrappin
+p212
+I1
+sVlook
+p213
+I1
+sVheard
+p214
+I1
+sVwish
+p215
+I1
+sVtake
+p216
+I1
+sVup
+p217
+I2
+sVroof
+p218
+I1
+sVproject
+p219
+I1
+sVaccidently
+p220
+I1
+sVspeaking
+p221
+I1
+sVshotgun
+p222
+I1
+sVgothic
+p223
+I1
+sVwicked
+p224
+I1
+sVsay
+p225
+I2
+sVproof
+p226
+I1
+sVgone
+p227
+I1
+sVcrazy
+p228
+I1
+sVrap
+p229
+I2
+sVgive
+p230
+I1
+sVis
+p231
+I1
+sVmind
+p232
+I1
+sVit
+p233
+I3
+sVan
+p234
+I18
+sVive
+p235
+I1
+sVpushed
+p236
+I1
+sVcant
+p237
+I10
+sVgood
+p238
+I1
+sVim
+p239
+I9
+sVfashioned
+p240
+I1
+sVin
+p241
+I4
+sVneed
+p242
+I3
+sVhit
+p243
+I1
+sVid
+p244
+I1
+sVshit
+p245
+I3
+sVbeef
+p246
+I3
+sVkuniva
+p247
+I1
+sVd12
+p248
+I2
+sVconversation
+p249
+I1
+sVrather
+p250
+I1
+sVna
+p251
+I3
+sVmic
+p252
+I1
+sVsong
+p253
+I3
+sVwrite
+p254
+I1
+sVpissants
+p255
+I1
+sVhot
+p256
+I1
+sVedge
+p257
+I1
+sVreadin
+p258
+I1
+sVhaawk
+p259
+I1
+sVsick
+p260
+I1
+sVcomedy
+p261
+I1
+sVparty
+p262
+I1
+sVgets
+p263
+I2
+sVblunt
+p264
+I1
+sVwant
+p265
+I1
+sVslappin
+p266
+I1
+sVpopin
+p267
+I1
+sVleavin
+p268
+I3
+sVsee
+p269
+I1
+sVkeys
+p270
+I1
+sVtime
+p271
+I2
+sVreach
+p272
+I1
+sVmovin
+p273
+I1
+sVwalk
+p274
+I1
+sVhiphop
+p275
+I1
+sVpoke
+p276
+I1
+sVbullets
+p277
+I1
+sVmad
+p278
+I1
+sVnever
+p279
+I1
+sVseasons
+p280
+I1
+sVseeing
+p281
+I1
+sVtrucks
+p282
+I1
+sVman
+p283
+I1
+sVyeah
+p284
+I1
+sVarse
+p285
+I5
+sVshootin
+p286
+I1
+sVe
+I1
+sVanymore
+p287
+I1
+sVmaybe
+p288
+I1
+sVsellin
+p289
+I1
+sVwell
+p290
+I3
+sVdog
+p291
+I1
+sVdestruct
+p292
+I1
+sVbreeze
+p293
+I1
+sVmedia
+p294
+I1
+sVwithout
+p295
+I3
+sVsparkin
+p296
+I1
+sVmother
+p297
+I10
+sVserious
+p298
+I1
+sVself
+p299
+I1
+sVtha
+p300
+I5
+s.

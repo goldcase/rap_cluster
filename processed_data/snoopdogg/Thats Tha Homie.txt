@@ -1,29 +1,125 @@
-"that's tha homie" lyrics
-snoop dogg lyrics
-"that's tha homie"
-danger!
-with the most connected and the most protected
-ya dig!?!?!
-would you say my name?
-would you s.. would you say my name?
-would you say my name?
-they gon say - "that's.. that's tha homie!"
-i can make it everywhere, i i can make it everywhere
-that's tha homie!
-everywhere, everywhere!
-i i i can make it everywhere
-that's tha homie!
-would you say my name?
-would you s.. would you say my name?
-would you say my name?
-they gon say - "that's.. that's tha homie!"
-i can make it everywhere, i i can make it everywhere
-that's tha homie!
-everywhere, everywhere!
-i i i can make it everywhere
-that's tha homie!
-everywhere i go i love tha people know my name
-it's cha bigg homie snoopy, just tell'em you're with me
-i gotta the partner outta vegas, hook up on the stripaz
-he like to call them show-girlz, but snoopy neva tip
-i gotta homie outta rino, he like to play pockino
+(dp1
+Vyoure
+p2
+I1
+sVlove
+p3
+I1
+sVlyrics
+p4
+I2
+sVdanger
+p5
+I1
+sVhook
+p6
+I1
+sVsay
+p7
+I8
+sVhomie
+p8
+I10
+sVneva
+p9
+I1
+sVgo
+p10
+I1
+sVpartner
+p11
+I1
+sVoutta
+p12
+I2
+sVcha
+p13
+I1
+sVgon
+p14
+I2
+sVwould
+p15
+I8
+sVpockino
+p16
+I1
+sVdogg
+p17
+I1
+sVmake
+p18
+I6
+sVpeople
+p19
+I1
+sVtip
+p20
+I1
+sVcall
+p21
+I1
+sVstripaz
+p22
+I1
+sVgot
+p23
+I2
+sVbigg
+p24
+I1
+sVta
+p25
+I2
+sVtellem
+p26
+I1
+sVplay
+p27
+I1
+sVshowgirlz
+p28
+I1
+sVya
+p29
+I1
+sVlike
+p30
+I2
+sVvegas
+p31
+I1
+sVconnected
+p32
+I1
+sVknow
+p33
+I1
+sVsnoopy
+p34
+I2
+sVname
+p35
+I7
+sVsnoop
+p36
+I1
+sVdig
+p37
+I1
+sVrino
+p38
+I1
+sVprotected
+p39
+I1
+sVeverywhere
+p40
+I11
+sVtha
+p41
+I9
+sVthats
+p42
+I10
+s.

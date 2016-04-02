@@ -1,97 +1,581 @@
-"let me see it" lyrics
-ugk lyrics
-"let me see it"
-let me see it, hold up...hol' up
-let me see it, uh...hol' up...let me see it
-let me see it...
-bend over lemme see it
-let me see it...
-bend over lemme see it..
-now, from the city that i live in
-to the city where i'm from
-for all the hoes that we done did
-and the hoes that we ain't done
-from the ones that fuck for shrimp
-to the ones that fuck for cum:
-if you ain't fittin' ta fuck pimp
-then you ain't fittin' ta fuck bun
-got some hoes from the 'hood ('hood)
-that live to keep it live (live)
-and some office buildin' boppers (boppers)
-workin' 9 to 5 (five)
-ball playa baby mama bitches;
-but to me it ain't no thang
-let that monkey hang, baby
-let me see it..
-let me see it, let me see it
-let me see it, let me see it
-let me see it, let me see it
-bend over, let me see it..
-go'on and let a nigga peak (peak)
-and let a nigga poke (poke)
-fuck a nigga from his street (street)
-and let a nigga stroke (stroke)
-see, i know that you a freak (freak)
-from passin' to my folk (folk)
-let me bust it in yo' cheek (cheek)
-'til you muthafuckin' choke (choke)
-it's nothin' but a g thang, baby, when you suck it
-steady frontin' in yo' g-strang
-go'on lemme fuck it
-see, we know that you a pro (pro)
-from shakin' and tuckin'
-we some grown muthafuckas
-like ta get naked, buck it
-from the back (back), to the front (front)
-and to the side (side)
-in the 'lac ('lac), wit' a blunt (blunt)
-now, where the light (light)?
-it's a fact (fact): i've seen it
-lemme get in between it
-now, over bend, once again
-bitches, show it like ya mean it..
-uh...take it off, chick
-bend over, lemme see it
-i'm sweet james jones
-and a trick: i couldn't be it
-got a young brown stallion
-and she 20 years old
-when she pop it from the back
-you see that hairy asshole
-from the a-t-l hoes, to the h-town strippers
-to the boppers in deville
-that's suckin' us and pullin' zippers
-now, it how it make ya feel when you see a pimp shine?
-bitch, you wastin' too much time..
-get back up on yo' grind (grind, grind...)
-i'm a country-ass nigga;
-i fucked wit' yo' wife..
-if yo' bitch come around
-we put some dick in her life
-'cause them niggas ain't real
-must'a started smokin' rocks
-it all fell down
-'cause they was bitin' too much cock
-but what goes up, must come down..
-while these bitches suckin' dick
-and droppin' to the ground..
-every city, every town:
-i'm ballin' in the mix
-i'm servin' niggas bricks
-keep a bad yellow bitch
-on my team...sippin' lean
-ain't no thang of the past;
-the '84 beritz with the slant-back ass
-keepin' me a pro, next to my fo'
-instead of stackin' cheese
-he steady screamin' to that ho..
-let me see it
-fuck-ass nigga..
-ol' fuck-ass nigga, get yo' mind on yo' money
-hol' up...hol' up (uh)...ugk, bitch
-uh (uh)...representin' that south...that south
-and this ain't no muthafuckin'...hip hop records (fuck ass nigga);
-these country rap tunes
-hol' up...uh
-so, you could separate us from the rest..
-like i tol' you the last time
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVberitz
+p5
+I1
+sVmoney
+p6
+I1
+sVyellow
+p7
+I1
+sVyears
+p8
+I1
+sVfront
+p9
+I2
+sVrest
+p10
+I1
+sVass
+p11
+I2
+sVground
+p12
+I1
+sVaint
+p13
+I7
+sV20
+p14
+I1
+sVoffice
+p15
+I1
+sVmix
+p16
+I1
+sVthang
+p17
+I3
+sVdick
+p18
+I2
+sVyoung
+p19
+I1
+sVbust
+p20
+I1
+sVbricks
+p21
+I1
+sVcum
+p22
+I1
+sVta
+p23
+I3
+sVreal
+p24
+I1
+sVbrown
+p25
+I1
+sVworkin
+p26
+I1
+sVaround
+p27
+I1
+sVyo
+p28
+I7
+sVget
+p29
+I4
+sVmuthafuckin
+p30
+I1
+sVgoon
+p31
+I2
+sVrecords
+p32
+I1
+sVones
+p33
+I2
+sVfive
+p34
+I1
+sVknow
+p35
+I2
+sVpassin
+p36
+I1
+sVlike
+p37
+I3
+sVpimp
+p38
+I2
+sVdid
+p39
+I1
+sVuphol
+p40
+I2
+sVservin
+p41
+I1
+sVmuthafuckas
+p42
+I1
+sVcountryass
+p43
+I1
+sVnaked
+p44
+I1
+sVbad
+p45
+I1
+sVjames
+p46
+I1
+sVtunes
+p47
+I1
+sVchick
+p48
+I1
+sVside
+p49
+I2
+sVwastin
+p50
+I1
+sVmean
+p51
+I1
+sVmuthafuckinhip
+p52
+I1
+sVhairy
+p53
+I1
+sVnigga
+p54
+I8
+sVold
+p55
+I1
+sVback
+p56
+I4
+sVpast
+p57
+I1
+sVsee
+p58
+I23
+sVstreet
+p59
+I2
+sVhoes
+p60
+I4
+sVrocks
+p61
+I1
+sVfolk
+p62
+I2
+sVgoes
+p63
+I1
+sVpoke
+p64
+I2
+sVlean
+p65
+I1
+sVuhhol
+p66
+I1
+sVmusta
+p67
+I1
+sVplaya
+p68
+I1
+sVgot
+p69
+I2
+sVcause
+p70
+I2
+sVfittin
+p71
+I2
+sVbuildin
+p72
+I1
+sVstallion
+p73
+I1
+sVlem
+p74
+I5
+sVlet
+p75
+I20
+sVsmokin
+p76
+I1
+sVput
+p77
+I1
+sVcome
+p78
+I2
+sVshine
+p79
+I1
+sVbuck
+p80
+I1
+sVuplet
+p81
+I1
+sVlast
+p82
+I1
+sVg
+I1
+sVcountry
+p83
+I1
+sVatl
+p84
+I1
+sVchoke
+p85
+I2
+sVscreamin
+p86
+I1
+sVkeep
+p87
+I2
+sVpullin
+p88
+I1
+sVsouth
+p89
+I1
+sVstrippers
+p90
+I1
+sVcheese
+p91
+I1
+sVupuh
+p92
+I1
+sVfeel
+p93
+I1
+sVsweet
+p94
+I1
+sVpop
+p95
+I1
+sVdown
+p96
+I2
+sVwit
+p97
+I2
+sVdone
+p98
+I2
+sVbitch
+p99
+I4
+sVcouldnt
+p100
+I1
+sVballin
+p101
+I1
+sVhood
+p102
+I2
+sVcity
+p103
+I3
+sVfrom
+p104
+I1
+sVmonkey
+p105
+I1
+sVnext
+p106
+I1
+sVslantback
+p107
+I1
+sVlive
+p108
+I4
+sVmuch
+p109
+I2
+sVtol
+p110
+I1
+sVmama
+p111
+I1
+sVstackin
+p112
+I1
+sVsouththat
+p113
+I1
+sVlife
+p114
+I1
+sVgstrang
+p115
+I1
+sVstarted
+p116
+I1
+sVbitches
+p117
+I3
+sVfuck
+p118
+I7
+sVdeville
+p119
+I1
+sVol
+p120
+I1
+sVbun
+p121
+I1
+sVho
+p122
+I1
+sVbaby
+p123
+I3
+sVhold
+p124
+I1
+sVmust
+p125
+I1
+sVme
+p126
+I5
+sVniggas
+p127
+I2
+sVtuckin
+p128
+I1
+sVup
+p129
+I1
+sVus
+p130
+I2
+sVtrick
+p131
+I1
+sVsuckin
+p132
+I2
+sVdroppin
+p133
+I1
+sVuh
+p134
+I1
+sVzippers
+p135
+I1
+sVcock
+p136
+I1
+sVcould
+p137
+I1
+sVive
+p138
+I1
+sVuhugk
+p139
+I1
+sVfreak
+p140
+I2
+sVteamsippin
+p141
+I1
+sVpro
+p142
+I3
+sVmind
+p143
+I1
+sVit
+p144
+I20
+sVstroke
+p145
+I2
+sVim
+p146
+I5
+sVbend
+p147
+I5
+sVrap
+p148
+I1
+sVin
+p149
+I1
+sVseen
+p150
+I1
+sVshrimp
+p151
+I1
+sVgrown
+p152
+I1
+sVagain
+p153
+I1
+sVfuckass
+p154
+I2
+sVuhrepresentin
+p155
+I1
+sVhtown
+p156
+I1
+sVmake
+p157
+I1
+sVtil
+p158
+I1
+sVya
+p159
+I2
+sVshakin
+p160
+I1
+sV5
+I1
+sV84
+p161
+I1
+sVhop
+p162
+I1
+sV9
+I1
+sVinstead
+p163
+I1
+sVasshole
+p164
+I1
+sVblunt
+p165
+I2
+sVball
+p166
+I1
+sVboppers
+p167
+I3
+sVseparate
+p168
+I1
+sVhang
+p169
+I1
+sVlac
+p170
+I2
+sVkeepin
+p171
+I1
+sVtown
+p172
+I1
+sVfell
+p173
+I1
+sVpeak
+p174
+I2
+sVfucked
+p175
+I1
+sVsuck
+p176
+I1
+sVfo
+p177
+I1
+sVjones
+p178
+I1
+sVwife
+p179
+I1
+sVlight
+p180
+I2
+sVcheek
+p181
+I2
+sVsteady
+p182
+I2
+sVnothin
+p183
+I1
+sVgrind
+p184
+I3
+sVfrontin
+p185
+I1
+sVuhtake
+p186
+I1
+sVtime
+p187
+I2
+sVbitin
+p188
+I1
+sVevery
+p189
+I2
+sVthats
+p190
+I1
+sVhol
+p191
+I2
+sVfact
+p192
+I2
+s.

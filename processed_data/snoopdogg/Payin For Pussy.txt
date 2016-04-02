@@ -1,32 +1,227 @@
-"payin' for pussy" lyrics
-snoop dogg lyrics
-"payin' for pussy"
-the stock market has always been 100% when it comes to pussy
-the worlds oldest profession
-yah it's still alive
-no matter what the consequences
-a trick 'gun still buy it
-no matter how sick they make it
-a hard stick gunna still wanna play it
-marching up, every day and every night
-to the drummers beat
-titled the oldest profession, and it never fell back
-not even in the recession
-no christmas toys for the kids
-yah daddy fucked it up
-he said he was drunk playing poker with the boys
-yah niggas pay for pussy
-remember that easter sunday
-it was so damn sunny
-we didn't get no easter clothes, candy, or easter bunny
-yah, daddy fucked it up
-rollin' dice with the boys
-yah niggas pay for pussy
-whether it's at the tity bar
-or outta the car
-yah niggas pay for pussy
-ohh yah, some niggas pay for pussy, oh yah
-some niggas pay for pussy, oh yah
-some niggas pay for pussy, oh yah
-dem niggas pay for pussy, oh yah
-niggas pay for pussy, oh yah
+(dp1
+Vtitled
+p2
+I1
+sVlyrics
+p3
+I2
+sVdrunk
+p4
+I1
+sVgunna
+p5
+I1
+sVpussy
+p6
+I11
+sVhard
+p7
+I1
+sVprofession
+p8
+I2
+sVit
+p9
+I3
+sValive
+p10
+I1
+sVup
+p11
+I2
+sVcandy
+p12
+I1
+sVtoys
+p13
+I1
+sVoutta
+p14
+I1
+sVcar
+p15
+I1
+sVstill
+p16
+I3
+sVmarket
+p17
+I1
+sVmarching
+p18
+I1
+sVeven
+p19
+I1
+sVwan
+p20
+I1
+sVoldest
+p21
+I2
+sVdice
+p22
+I1
+sVsnoop
+p23
+I1
+sVdogg
+p24
+I1
+sVmake
+p25
+I1
+sVoh
+p26
+I5
+sVsunday
+p27
+I1
+sVdamn
+p28
+I1
+sVyah
+p29
+I12
+sVsick
+p30
+I1
+sVrollin
+p31
+I1
+sVeaster
+p32
+I3
+sVchristmas
+p33
+I1
+sVstock
+p34
+I1
+sVpay
+p35
+I8
+sVplay
+p36
+I1
+sVbuy
+p37
+I1
+sVrecession
+p38
+I1
+sVsaid
+p39
+I1
+sVget
+p40
+I1
+sVbeat
+p41
+I1
+sVnight
+p42
+I1
+sVsunny
+p43
+I1
+sVback
+p44
+I1
+sVpoker
+p45
+I1
+sVboys
+p46
+I2
+sVfell
+p47
+I1
+sVevery
+p48
+I2
+sVstick
+p49
+I1
+sVnever
+p50
+I1
+sVfucked
+p51
+I2
+sV100
+p52
+I1
+sVday
+p53
+I1
+sVtity
+p54
+I1
+sVworlds
+p55
+I1
+sVkids
+p56
+I1
+sVbar
+p57
+I1
+sVremember
+p58
+I1
+sVconsequences
+p59
+I1
+sVdrummers
+p60
+I1
+sVwhether
+p61
+I1
+sValways
+p62
+I1
+sVniggas
+p63
+I8
+sVgun
+p64
+I1
+sVpayin
+p65
+I2
+sVbunny
+p66
+I1
+sVtrick
+p67
+I1
+sVmatter
+p68
+I2
+sVdem
+p69
+I1
+sVna
+p70
+I1
+sVohh
+p71
+I1
+sVdaddy
+p72
+I2
+sVdidnt
+p73
+I1
+sVplaying
+p74
+I1
+sVcomes
+p75
+I1
+sVclothes
+p76
+I1
+s.

@@ -1,74 +1,666 @@
-"kamikaze" lyrics
-mc lyte lyrics
-"kamikaze"
-outside of me, you try to picture me
-young and black, that ain't no mystery
-but inside runs deep like an ocean
-you couldn't understand if i spoke in slow motion
-i'm tryin like hell to get some results
-but you can bet your ass that it's difficult
-they try to keep it down, because i talk to a beat
-in other words, because i try to teach
-but if i talk that yang-yang shit
-like "u can't touch this," that shit'll hit
-don't we have any morals anymore?
-or did rap take the toll out the fuckin door?
-well if it did, hardcore's back to claim it
-i'ma take it, change it, fuck it, rename it
-i got the plan, now let's make it effective
-you hip-hoppers you got to be selective
-and stop lettin that bullshit slide for rap
-can't you see that it's a brainwash.. trap?
-i rap a cha cha cha, and i sat and watched
-you liked that shit, you rock around the fuckin clock
-but when i talk of education, you fear that
-drugs and such, you don't wanna hear that
-first i pleased you, now i teach you
-don't you dare try to bite the hand that'll lead you
-to the pot of gold, over the rainbow
-lyte'll guide you, i know the way to go
-so just close your eyes and just take my hand
-remember mc lyte has the master plan
-we can go thick, in a posse
-you ain't said nuttin slick, i'm goin kamikaze
-inside of me, you try to picture me
-can you detect, can you see i'm angry?
-well usually lyte don't get upset
-but when i see wack shit gettin pressed i get vexed
-turn on the video -- what's this mess?
-a disgrace to rap and i'm not impressed
-so just leave, get out my domain
-you lame sucker, you fuckin no-name
-takin up my airtime, with that
-weak whack full of full of bullshit rhyme
-so step off roach, or get stepped upon
-because my rhymes they spray like d-con 4
-do you want more?
-cause i floor.. any emcee
-that wanna gets with me
-so yo, pack your bags, and skedaddle
-just walk, cause you don't wanna battle
-i got the button that'll get rid of wack emcees
-it's called the brooklynizer, have you beggin on your knees
-so quit takin up space on the cd rack
-you better prepare, cause lyte gives no slack
-inside of me, dwells a hundred maniacs
-waitin for the kickoff, waitin for attack
-who gives a fuck??  bring your posse!
-cause in the 90's, lyte is goin kamikaze
-inside - there's no flipside
-outside there's more than meets the eye
-so now you know, not because you're guessin
-but because i told you so, i never fess
-everyone wants to rap, what's this a wagon?
-bring your band and hop and start draggin
-all you rappers, you're fuckin impersonators
-sayin i'll rap now, and learn how to rap later
-no time for that, time is too short
-and the rappin gift it can not be bought
-a solo artist - hah, you can't be
-maybe you'll look better with a posse
-but all that you're talkin, you ain't sayin shit!
-so why you where you at?  i think you oughta quit
-posses don't matter in the 90's
-here's a warning - lyte is goin kamikaze!
+(dp1
+Vthink
+p2
+I1
+sVlyrics
+p3
+I2
+sVhardcores
+p4
+I1
+sVresults
+p5
+I1
+sVkickoff
+p6
+I1
+sVbring
+p7
+I2
+sVbattle
+p8
+I1
+sVtouch
+p9
+I1
+sVhell
+p10
+I1
+sVfear
+p11
+I1
+sVbrooklynizer
+p12
+I1
+sVtakin
+p13
+I2
+sVpleased
+p14
+I1
+sVaint
+p15
+I3
+sVslow
+p16
+I1
+sVgold
+p17
+I1
+sVmeets
+p18
+I1
+sVyoung
+p19
+I1
+sVairtime
+p20
+I1
+sVlets
+p21
+I1
+sVblack
+p22
+I1
+sV4
+I1
+sVwhack
+p23
+I1
+sVstepped
+p24
+I1
+sVhit
+p25
+I1
+sVaround
+p26
+I1
+sVyo
+p27
+I1
+sVget
+p28
+I6
+sVbeat
+p29
+I1
+sVsucker
+p30
+I1
+sVsolo
+p31
+I1
+sVlater
+p32
+I1
+sVstop
+p33
+I1
+sVbeggin
+p34
+I1
+sVband
+p35
+I1
+sVknow
+p36
+I2
+sVwords
+p37
+I1
+sVguessin
+p38
+I1
+sVroach
+p39
+I1
+sVcd
+p40
+I1
+sVbullshit
+p41
+I2
+sVdare
+p42
+I1
+sVlook
+p43
+I1
+sVmystery
+p44
+I1
+sVwagon
+p45
+I1
+sVruns
+p46
+I1
+sVlike
+p47
+I4
+sVgift
+p48
+I1
+sVcalled
+p49
+I1
+sVyoull
+p50
+I1
+sVbutton
+p51
+I1
+sVgettin
+p52
+I1
+sVtry
+p53
+I5
+sVslide
+p54
+I1
+sVtrap
+p55
+I1
+sVrock
+p56
+I1
+sVbought
+p57
+I1
+sVrack
+p58
+I1
+sVdomain
+p59
+I1
+sVeveryone
+p60
+I1
+sVnuttin
+p61
+I1
+sVdwells
+p62
+I1
+sVback
+p63
+I1
+sVgo
+p64
+I2
+sVsee
+p65
+I3
+sVvideo
+p66
+I1
+sVmaniacs
+p67
+I1
+sVclose
+p68
+I1
+sVthick
+p69
+I1
+sVleave
+p70
+I1
+sVsaid
+p71
+I1
+sVlead
+p72
+I1
+sVclock
+p73
+I1
+sVheres
+p74
+I1
+sVposse
+p75
+I3
+sVdcon
+p76
+I1
+sVslick
+p77
+I1
+sVflipside
+p78
+I1
+sVoutside
+p79
+I2
+sVtoll
+p80
+I1
+sVgot
+p81
+I3
+sVcause
+p82
+I4
+sVtold
+p83
+I1
+sVass
+p84
+I1
+sVima
+p85
+I1
+sVfull
+p86
+I2
+sVlettin
+p87
+I1
+sVcha
+p88
+I3
+sVnever
+p89
+I1
+sVweak
+p90
+I1
+sVlytell
+p91
+I1
+sVselective
+p92
+I1
+sVhah
+p93
+I1
+sVteach
+p94
+I2
+sVchange
+p95
+I1
+sVsayin
+p96
+I2
+sVill
+p97
+I1
+sVstep
+p98
+I1
+sVkeep
+p99
+I1
+sVmotion
+p100
+I1
+sVturn
+p101
+I1
+sVusually
+p102
+I1
+sVtheres
+p103
+I2
+sVangry
+p104
+I1
+sVfuckin
+p105
+I4
+sVfirst
+p106
+I1
+sVliked
+p107
+I1
+sVwhats
+p108
+I2
+sVdont
+p109
+I6
+sVmorals
+p110
+I1
+sVvexed
+p111
+I1
+sVpot
+p112
+I1
+sVwalk
+p113
+I1
+sVoughta
+p114
+I1
+sVcouldnt
+p115
+I1
+sVwan
+p116
+I3
+sVwack
+p117
+I2
+sVeye
+p118
+I1
+sVspoke
+p119
+I1
+sVprepare
+p120
+I1
+sVlyte
+p121
+I6
+sVbite
+p122
+I1
+sVstart
+p123
+I1
+sVattack
+p124
+I1
+sVmaster
+p125
+I1
+sVskedaddle
+p126
+I1
+sVway
+p127
+I1
+sVbrainwash
+p128
+I1
+sVkamikaze
+p129
+I5
+sVtryin
+p130
+I1
+sVwant
+p131
+I1
+sVwants
+p132
+I1
+sVeyes
+p133
+I1
+sVdoor
+p134
+I1
+sVthat
+p135
+I3
+sVdrugs
+p136
+I1
+sVfuck
+p137
+I2
+sVshort
+p138
+I1
+sVunderstand
+p139
+I1
+sVfess
+p140
+I1
+sVbe
+p141
+I1
+sVme
+p142
+I3
+sVhundred
+p143
+I1
+sVrappin
+p144
+I1
+sVslack
+p145
+I1
+sVmc
+p146
+I2
+sV90s
+p147
+I2
+sVinside
+p148
+I4
+sVrhymes
+p149
+I1
+sVmatter
+p150
+I1
+sVwarning
+p151
+I1
+sVpressed
+p152
+I1
+sVlearn
+p153
+I1
+sVmore
+p154
+I1
+sVguide
+p155
+I1
+sVbet
+p156
+I1
+sVpack
+p157
+I1
+sVrename
+p158
+I1
+sVclaim
+p159
+I1
+sVyoure
+p160
+I3
+sVdisgrace
+p161
+I1
+sVthatll
+p162
+I2
+sVupset
+p163
+I1
+sVshitll
+p164
+I1
+sVit
+p165
+I2
+sVdeep
+p166
+I1
+sVcant
+p167
+I3
+sVknees
+p168
+I1
+sVim
+p169
+I4
+sVrap
+p170
+I7
+sVimpersonators
+p171
+I1
+sVwatched
+p172
+I1
+sVrid
+p173
+I1
+sVeducation
+p174
+I1
+sVnoname
+p175
+I1
+sVimpressed
+p176
+I1
+sVshit
+p177
+I4
+sVsat
+p178
+I1
+sVgives
+p179
+I2
+sVrainbow
+p180
+I1
+sVanymore
+p181
+I1
+sVlame
+p182
+I1
+sVna
+p183
+I3
+sVmake
+p184
+I1
+sVtake
+p185
+I3
+sVhop
+p186
+I1
+sVbetter
+p187
+I2
+sVyou
+p188
+I2
+sVgets
+p189
+I1
+sVtalkin
+p190
+I1
+sVdifficult
+p191
+I1
+sVwaitin
+p192
+I2
+sVpicture
+p193
+I2
+sVemcees
+p194
+I1
+sVbags
+p195
+I1
+sVmess
+p196
+I1
+sVrhyme
+p197
+I1
+sVrappers
+p198
+I1
+sVartist
+p199
+I1
+sVupon
+p200
+I1
+sVquit
+p201
+I2
+sVhand
+p202
+I2
+sVdetect
+p203
+I1
+sVplan
+p204
+I2
+sVgoin
+p205
+I3
+sVdraggin
+p206
+I1
+sVremember
+p207
+I1
+sVeffective
+p208
+I1
+sVmaybe
+p209
+I1
+sVhiphoppers
+p210
+I1
+sVfloor
+p211
+I1
+sVwell
+p212
+I2
+sVocean
+p213
+I1
+sVu
+I1
+sVemcee
+p214
+I1
+sVspray
+p215
+I1
+sVtime
+p216
+I2
+sVhear
+p217
+I1
+sVposses
+p218
+I1
+sVyangyang
+p219
+I1
+sVtalk
+p220
+I3
+sVspace
+p221
+I1
+s.

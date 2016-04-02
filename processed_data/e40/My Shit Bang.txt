@@ -1,97 +1,685 @@
-"my shit bang" lyrics
-e-40 lyrics
-"my shit bang"
-turn my music up, turn my music up
-turn my-turn my music up, turn my music up
-turn my-turn my music up, turn my music up
-turn my music up, turn my music up
-my-my shit bang, my shit bang
-my shit bang, my-my shit bang
-nigga my shit bang, my shit bang
-my-my shit bang, my-my shit...
-bang-bang-bang, my shit bang
-nigga my shit bang, my shit bang
-nigga my shit bang, bang, bang, bang
-(nigga my shit bang) bang, bang, bang, bang
-my shit bang, my shit throp
-i'm a muthafuckin beast, i'm a muthafuckin hog
-pull up with the slump
-or should i say black trunk sounding like i got a alligator in the back
-paint wetter than melted ice, ralley and hockey strips
-burning rubber in every light, mean mugging like 'thug ya life'
-i be hustling all day and night, pushing all night and day
-twisted and whippin yay, getting my gwopalay
-so you put my gouda my pay, when i get in my way
-from da bay to l.a. to the a this nigga connected
-worldwide nigga this mister how-you-be-headed
-you ain't gotta like me but you gotta respect it
-woke up early in the morning and put one in the air
-got so high thought about running for mayor
-slap myself to make sure i was still there
-shit, showered and shaving then i cut my hair
-today i'm try'na get laid then put a pounding on the mug
-try'na find me a bitch with a ass like a worldstahiphop bunny
-try'na get rich in this collectings stack my money
-you can tell that i'm a d-boy by my baller tummy
-sometimes i'm just uppity-up, sometimes i dress skummy
-sometimes i dress high class, sometimes i dress bummy
-if it ain't about no cash you can miss me
-most of the time you can find this hustla tipsy
-biatch! biatch
-turn my music up, turn my music up
-turn my-turn my music up, turn my music up (turn it up!)
-turn my-turn my music up, turn my music up
-turn my music up, turn my music up (turn it up!)
-my-my shit bang, my shit bang
-my shit bang, my-my shit bang
-nigga my shit bang, my shit bang
-my-my shit bang, my-my shit...
-bang-bang-bang, my shit bang
-nigga my shit bang, my shit bang
-nigga my shit bang, bang, bang, bang
-(nigga my shit bang) bang, bang, bang, bang
-ughhh! i been running around all day try'na get my decimals up (uh)
-anybody that try to stop me i suggest that they duck
-cause when i get the bucket i can assure you it's nothing pleasant
-my arsenal game is east but the west has all kinda of weapons
-even if you're wearing chest protection a trauma plate won't work
-cause i'm a aim at your hammit, i ain't goin aim at you shirt
-alot of these bitch ass niggas should be wearing a skirt
-with the box of morton and some maxi pads in they purse
-pillow talking and biting pillows, acting like some brassies
-cause they're a whole bunch of that sucka shit a bunch of popsicles
-i should of been a tourist cause i'm stubborn as a bull
-i'm a different type of dude and i stick to the rules
-i'm a real nigga best believe it, i live it and i breathe it
-i tell it like it is and i call it how i see it
-my potna used to be all sharp but now he all fefe
-'what do fefe mean? ' methamphetamine
-i can't believe it, man you disappointed me
-i'm devastated mayne he lost 2 points with me
-i'm standing outside of my crib with some gym shorts and a hoody
-talking to my nig on the celly smoking a philly
-sipping on a fifth of that oil cognac henny
-a hundred wall on them bricks, he got caught with a kid of candies
-if you didn't go to jail by now he probably be dead
-so instead he in there with his uncle his daddy and relatives
-uhh!
-turn my music up, turn my music up
-turn my-turn my music up, turn my music up (turn it up!)
-turn my-turn my music up, turn my music up
-turn my music up, turn my music up (turn it up!)
-my-my shit bang, my shit bang
-my shit bang, my-my shit bang
-nigga my shit bang, my shit bang
-my-my shit bang, my-my shit...
-bang-bang-bang, my shit bang
-nigga my shit bang, my shit bang
-nigga my shit bang, bang, bang, bang
-(nigga my shit bang) bang, bang, bang, bang
-ba-bang bang bang ba-bang bang bang
-ba-bang bang bang ba-bang bang bang (turn it up!)
-ba-bang bang bang ba-bang bang bang
-ba-bang bang bang ba-bang bang bang (turn it up!)
-bang, my shit bang
-nigga my shit bang, my shit bang
-nigga my shit bang, bang, bang, bang
-(nigga my shit bang) bang, bang, bang, bang
+(dp1
+Vlyrics
+p2
+I2
+sVmug
+p3
+I1
+sVmoney
+p4
+I1
+sVbull
+p5
+I1
+sVgo
+p6
+I1
+sVskirt
+p7
+I1
+sVstill
+p8
+I1
+sVmister
+p9
+I1
+sVmayor
+p10
+I1
+sVfifth
+p11
+I1
+sVbunch
+p12
+I2
+sVaint
+p13
+I3
+sVcut
+p14
+I1
+sVballer
+p15
+I1
+sVla
+p16
+I1
+sVdisappointed
+p17
+I1
+sVbabang
+p18
+I8
+sVpounding
+p19
+I1
+sVbricks
+p20
+I1
+sVcognac
+p21
+I1
+sVblack
+p22
+I1
+sVhockey
+p23
+I1
+sVrich
+p24
+I1
+sVshowered
+p25
+I1
+sVeast
+p26
+I1
+sVta
+p27
+I2
+sVwearing
+p28
+I2
+sVplate
+p29
+I1
+sVaround
+p30
+I1
+sVget
+p31
+I5
+sVya
+p32
+I1
+sVbay
+p33
+I1
+sVstop
+p34
+I1
+sVuhh
+p35
+I1
+sVda
+p36
+I1
+sVearly
+p37
+I1
+sVbang
+p38
+I89
+sVevery
+p39
+I1
+sVkid
+p40
+I1
+sVprobably
+p41
+I1
+sVskummy
+p42
+I1
+sVday
+p43
+I3
+sVwont
+p44
+I1
+sVpotna
+p45
+I1
+sVlike
+p46
+I6
+sVlost
+p47
+I1
+sVmorning
+p48
+I1
+sVtry
+p49
+I1
+sVnight
+p50
+I2
+sVmean
+p51
+I2
+sVhoody
+p52
+I1
+sVnigga
+p53
+I18
+sVback
+p54
+I1
+sVused
+p55
+I1
+sVcash
+p56
+I1
+sVhair
+p57
+I1
+sVtheyre
+p58
+I1
+sVpads
+p59
+I1
+sVsure
+p60
+I1
+sVgouda
+p61
+I1
+sVhenny
+p62
+I1
+sVbest
+p63
+I1
+sVeven
+p64
+I1
+sVwetter
+p65
+I1
+sVice
+p66
+I1
+sVfind
+p67
+I2
+sVweapons
+p68
+I1
+sVlaid
+p69
+I1
+sVtrauma
+p70
+I1
+sVcelly
+p71
+I1
+sVgot
+p72
+I5
+sVhustla
+p73
+I1
+sVcause
+p74
+I4
+sVuh
+p75
+I1
+sVass
+p76
+I2
+sVmethamphetamine
+p77
+I1
+sVpushing
+p78
+I1
+sVmayne
+p79
+I1
+sVpleasant
+p80
+I1
+sVprotection
+p81
+I1
+sVtrunk
+p82
+I1
+sVput
+p83
+I3
+sVthrop
+p84
+I1
+sVdead
+p85
+I1
+sVbox
+p86
+I1
+sVwhippin
+p87
+I1
+sVdaddy
+p88
+I1
+sVgetting
+p89
+I1
+sVdidnt
+p90
+I1
+sVturn
+p91
+I30
+sVmugging
+p92
+I1
+sValot
+p93
+I1
+sVmymy
+p94
+I12
+sVbiting
+p95
+I1
+sVdecimals
+p96
+I1
+sVpillow
+p97
+I1
+sVralley
+p98
+I1
+sVsuggest
+p99
+I1
+sVlive
+p100
+I1
+sVreal
+p101
+I1
+sVburning
+p102
+I1
+sVwall
+p103
+I1
+sVshirt
+p104
+I1
+sVarsenal
+p105
+I1
+sVcrib
+p106
+I1
+sVone
+p107
+I1
+sVbitch
+p108
+I2
+sVduck
+p109
+I1
+sVrespect
+p110
+I1
+sVmiss
+p111
+I1
+sVpopsicles
+p112
+I1
+sVstanding
+p113
+I1
+sVyay
+p114
+I1
+sValligator
+p115
+I1
+sVwest
+p116
+I1
+sVcaught
+p117
+I1
+sVthere
+p118
+I1
+sVdude
+p119
+I1
+sVtwisted
+p120
+I1
+sVclass
+p121
+I1
+sVpaint
+p122
+I1
+sVdboy
+p123
+I1
+sV2
+I1
+sVmusic
+p124
+I24
+sVway
+p125
+I1
+sVfefe
+p126
+I2
+sVcall
+p127
+I1
+sVman
+p128
+I1
+sVtype
+p129
+I1
+sVtell
+p130
+I2
+sVwoke
+p131
+I1
+sVbreathe
+p132
+I1
+sVtryna
+p133
+I4
+sVlife
+p134
+I1
+sVshorts
+p135
+I1
+sVgym
+p136
+I1
+sVslump
+p137
+I1
+sVcant
+p138
+I1
+sVrelatives
+p139
+I1
+sVbrassies
+p140
+I1
+sVgame
+p141
+I1
+sVughhh
+p142
+I1
+sVbiatch
+p143
+I2
+sVsmoking
+p144
+I1
+sVbelieve
+p145
+I2
+sVme
+p146
+I3
+sVpull
+p147
+I1
+sVe40
+p148
+I1
+sVhundred
+p149
+I1
+sVcollectings
+p150
+I1
+sVniggas
+p151
+I1
+sVwork
+p152
+I1
+sVbucket
+p153
+I1
+sVup
+p154
+I14
+sVair
+p155
+I1
+sVaim
+p156
+I2
+sVtummy
+p157
+I1
+sVmelted
+p158
+I1
+sVtoday
+p159
+I1
+sVacting
+p160
+I1
+sVshaving
+p161
+I1
+sVuppityup
+p162
+I1
+sVsucka
+p163
+I1
+sVstubborn
+p164
+I1
+sVyoure
+p165
+I1
+sVcandies
+p166
+I1
+sVhowyoubeheaded
+p167
+I1
+sVpurse
+p168
+I1
+sVit
+p169
+I3
+sVslap
+p170
+I1
+sVbummy
+p171
+I1
+sVhigh
+p172
+I2
+sVtalking
+p173
+I2
+sVsay
+p174
+I1
+sVim
+p175
+I11
+sVthug
+p176
+I1
+sVsharp
+p177
+I1
+sVsounding
+p178
+I1
+sVdress
+p179
+I3
+sVshit
+p180
+I50
+sVtourist
+p181
+I1
+sVhog
+p182
+I1
+sVdifferent
+p183
+I1
+sVmorton
+p184
+I1
+sVmyturn
+p185
+I6
+sVassure
+p186
+I1
+sVpay
+p187
+I1
+sVmake
+p188
+I1
+sVhammit
+p189
+I1
+sVrubber
+p190
+I1
+sVmuthafuckin
+p191
+I2
+sVchest
+p192
+I1
+sVmaxi
+p193
+I1
+sVsee
+p194
+I1
+sVdevastated
+p195
+I1
+sVinstead
+p196
+I1
+sVbangbangbang
+p197
+I3
+sVhustling
+p198
+I1
+sVbunny
+p199
+I1
+sVworldwide
+p200
+I1
+sVoutside
+p201
+I1
+sVstrips
+p202
+I1
+sVpillows
+p203
+I1
+sVtipsy
+p204
+I1
+sVwhole
+p205
+I1
+sVworldstahiphop
+p206
+I1
+sVnig
+p207
+I1
+sVbeast
+p208
+I1
+sVrunning
+p209
+I2
+sVconnected
+p210
+I1
+sVkinda
+p211
+I1
+sVnothing
+p212
+I1
+sVoil
+p213
+I1
+sVsipping
+p214
+I1
+sVstack
+p215
+I1
+sVgwopalay
+p216
+I1
+sVgoin
+p217
+I1
+sVrules
+p218
+I1
+sVlight
+p219
+I1
+sVphilly
+p220
+I1
+sVsometimes
+p221
+I4
+sVanybody
+p222
+I1
+sVthought
+p223
+I1
+sVpoints
+p224
+I1
+sVjail
+p225
+I1
+sVtime
+p226
+I1
+sVuncle
+p227
+I1
+sVstick
+p228
+I1
+s.

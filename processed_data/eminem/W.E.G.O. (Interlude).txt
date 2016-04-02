@@ -1,14 +1,113 @@
-"w.e.g.o. (interlude)" lyrics
-eminem lyrics
-"w.e.g.o. (interlude)"
-(feat. proof & dj head)
-yeah soul intent, checking it number one baby this week
-you know what i'm sayin'?
-this is mc proof
-and dj head
-checkin' in on w.e.g.o.
-you know what i'm sayin'?
-ay yo we got the number one requested song, of the day coming up next.
-it's a local thing wants retilin'
-it goes by the name of eminem
-and it's called "it's ok"
+(dp1
+Vwants
+p2
+I1
+sVlyrics
+p3
+I2
+sVyeah
+p4
+I1
+sVone
+p5
+I2
+sVim
+p6
+I2
+sVay
+p7
+I1
+sVnext
+p8
+I1
+sVfeat
+p9
+I1
+sVnumber
+p10
+I2
+sVsayin
+p11
+I2
+sVinterlude
+p12
+I2
+sVgoes
+p13
+I1
+sVretilin
+p14
+I1
+sVgot
+p15
+I1
+sVlocal
+p16
+I1
+sVweek
+p17
+I1
+sVrequested
+p18
+I1
+sVhead
+p19
+I2
+sVdj
+p20
+I2
+sVyo
+p21
+I1
+sVsong
+p22
+I1
+sVchecking
+p23
+I1
+sVcheckin
+p24
+I1
+sVeminem
+p25
+I2
+sVintent
+p26
+I1
+sVknow
+p27
+I2
+sVcoming
+p28
+I1
+sVbaby
+p29
+I1
+sVday
+p30
+I1
+sVwego
+p31
+I3
+sVok
+p32
+I1
+sVname
+p33
+I1
+sVmc
+p34
+I1
+sVsoul
+p35
+I1
+sVthing
+p36
+I1
+sVcalled
+p37
+I1
+sVproof
+p38
+I2
+s.

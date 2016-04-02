@@ -1,81 +1,649 @@
-"one more drink" lyrics
-ludacris lyrics
-"one more drink"
-(feat. t-pain)
-it was friday night and i was feelin aight (yup)
-downtown atlanta, big city, bright lights
-mixin heni with the sprite while i’m drinkin and drivin
-no police lights, no police sirens
-i’m headed to the club looking for a freak
-to spread a little love and spread a couple cheeks
-pull up to the spot 26’s like bam
-eyes on me like bitch do you see em?
-strolled through the front door headed to the vip
-bought a couple bottles and i took a couple sips
-scoping out the room and what do i see?
-a nice round butt, an a pair a double d’s
-so i creped up like shorty wus happnin
-you killin that dress and i love it with a passion
-then she turned around and her face was aight
-she had a gap toof and mean over bite
-but i was like hmmm…
-yeah yeah
-if i take one more drink, i’m gon end up fuckin you
-is that what you wanna do shorty?
-if i take one more drink, i’m gon end up fuckin you
-you too
-woke up the next morning and all i can remember
-was taking shots and tippin the bartender
-surender to the women end up bringin me home
-cause she started lookin better every shot a patron (yup)
-i jumped up with a devilish grin
-cause tonight, damn right i might do it again
-so i called up the homies (what up) let’s ride
-we can hit the sports bar over on the south side
-getta couple a coronas, couple a limes
-went up to the bar saw a couple a dimes
-so i, slowly walked up and said hi
-my name’s ludacris and i’m a hell of a guy
-one said i know who you are i’m your number one fan
-and right now it’s too bad i gotta man
-and i said i understand (i understand)
-but where the hell is he at cause in a minute
-if he don’t show up then maannnnn…
-yeah yeah
-if i take one more drink, i’m gon end up fuckin you
-is that what you wanna do shorty?
-if i take one more drink, i’m gon end up fuckin you
-you too
-uh huh
-aye pain holla at em right quick man
-yeah you gon get in trouble with yo man girl
-(don’t get in trouble girl)
-talkin bout how you’re my biggest fan girl
-(i know it i know it)
-now i don’t wanna do (please) but you’re gon make me do, but i
-(don’t make me do it. don’t make me do it)
-if i have more drink
-one mo drink i’ma get cha home and i’ll split cha
-grab the camera phone and take a buncha drunk pictures
-cause hennessey mixed with a whole buncha buda
-equals you mixed with a whole bunch luda
-and you know how far one drink could go
-start slurring my speech slowin up the flow
-hiking up ya skirts
-climing up ya shirts
-it’s mr. late night luda and i like to flirt
-so guess what baby girl
-yeah yeah
-if i take one more drink, i’m gon end up fuckin you
-(just one mo)
-is that what you wanna do shorty?
-(that's all its gon take)
-if i take one more drink, i’m gon end up fuckin you
-(who else t-pain)
-you too
-you hear what i’m sayin
-people too picky these days damn it
-too tall, too short, too fat, too skinny
-have a couple of drinks and quit discriminating
-this has been a luda service announcement
-deuces
+(dp1
+Vwus
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I2
+sVya
+p6
+I2
+sVbright
+p7
+I1
+sVgo
+p8
+I1
+sVhell
+p9
+I2
+sVfeat
+p10
+I1
+sVbunch
+p11
+I1
+sVdrinkin
+p12
+I1
+sVannouncement
+p13
+I1
+sVpolice
+p14
+I2
+sVsayin
+p15
+I1
+sVit\u2019s
+p16
+I2
+sVshort
+p17
+I1
+sVbetter
+p18
+I1
+sVspread
+p19
+I2
+sVminute
+p20
+I1
+sVhomies
+p21
+I1
+sVbout
+p22
+I1
+sVhennessey
+p23
+I1
+sVmight
+p24
+I1
+sVta
+p25
+I1
+sVhit
+p26
+I1
+sVaround
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I3
+sVi\u2019m
+p30
+I11
+sVbig
+p31
+I1
+sVcouple
+p32
+I7
+sVguess
+p33
+I1
+sVfat
+p34
+I1
+sVfeelin
+p35
+I1
+sVevery
+p36
+I1
+sVknow
+p37
+I4
+sVfront
+p38
+I1
+sVtrouble
+p39
+I2
+sVgrin
+p40
+I1
+sVlet\u2019s
+p41
+I1
+sVbar
+p42
+I2
+sVlike
+p43
+I5
+sVlimes
+p44
+I1
+sVmorning
+p45
+I1
+sVbad
+p46
+I1
+sVmo
+p47
+I2
+sVshots
+p48
+I1
+sVnight
+p49
+I2
+sVquick
+p50
+I1
+sVwent
+p51
+I1
+sVbam
+p52
+I1
+sVslowin
+p53
+I1
+sVround
+p54
+I1
+sVmean
+p55
+I1
+sVem
+p56
+I2
+sVright
+p57
+I3
+sVpeople
+p58
+I1
+sVyeah
+p59
+I7
+sVyou\u2019re
+p60
+I2
+sVsee
+p61
+I2
+sVshirts
+p62
+I1
+sVsips
+p63
+I1
+sVhome
+p64
+I2
+sVgirl
+p65
+I4
+sVname\u2019s
+p66
+I1
+sVi\u2019ma
+p67
+I1
+sVdrinks
+p68
+I1
+sVgon
+p69
+I9
+sVdon\u2019t
+p70
+I5
+sVjumped
+p71
+I1
+sVsaw
+p72
+I1
+sVplease
+p73
+I1
+sVcha
+p74
+I2
+sVlooking
+p75
+I1
+sVlights
+p76
+I2
+sVtippin
+p77
+I1
+sVpassion
+p78
+I1
+sVgot
+p79
+I1
+sVcause
+p80
+I4
+sVbought
+p81
+I1
+sVsirens
+p82
+I1
+sVdrivin
+p83
+I1
+sVwan
+p84
+I4
+sVlate
+p85
+I1
+sVcoronas
+p86
+I1
+sVfriday
+p87
+I1
+sVequals
+p88
+I1
+sVguy
+p89
+I1
+sVyup
+p90
+I2
+sVtaking
+p91
+I1
+sVpictures
+p92
+I1
+sVdays
+p93
+I1
+sVside
+p94
+I1
+sVsurender
+p95
+I1
+sVlookin
+p96
+I1
+sVmixed
+p97
+I2
+sVdimes
+p98
+I1
+sVwhole
+p99
+I2
+sVfuckin
+p100
+I6
+sVthats
+p101
+I1
+sVluda
+p102
+I3
+sVlove
+p103
+I2
+sVhiking
+p104
+I1
+sVheaded
+p105
+I2
+sVsplit
+p106
+I1
+sVnumber
+p107
+I1
+sVone
+p108
+I13
+sVvip
+p109
+I1
+sVbitch
+p110
+I1
+sVhear
+p111
+I1
+sVscoping
+p112
+I1
+sVsports
+p113
+I1
+sVcity
+p114
+I1
+sVlittle
+p115
+I1
+sVkillin
+p116
+I1
+sVpatron
+p117
+I1
+sVservice
+p118
+I1
+sVaye
+p119
+I1
+sVbite
+p120
+I1
+sVbuda
+p121
+I1
+sVnext
+p122
+I1
+sVstart
+p123
+I1
+sVhmmm\u2026
+p124
+I1
+sVcamera
+p125
+I1
+sVdamn
+p126
+I2
+sVtoo
+p127
+I3
+sVi\u2019ll
+p128
+I1
+sVshow
+p129
+I1
+sVslowly
+p130
+I1
+sVmaannnnn\u2026
+p131
+I1
+sVwoke
+p132
+I1
+sVcheeks
+p133
+I1
+sVtoof
+p134
+I1
+sVeyes
+p135
+I1
+sVdoor
+p136
+I1
+sVsprite
+p137
+I1
+sVdevilish
+p138
+I1
+sVclub
+p139
+I1
+sVgetta
+p140
+I1
+sVtook
+p141
+I1
+sVgap
+p142
+I1
+sVdowntown
+p143
+I1
+sVbiggest
+p144
+I1
+sVhi
+p145
+I1
+sVunderstand
+p146
+I2
+sVbringin
+p147
+I1
+sVbutt
+p148
+I1
+sVbaby
+p149
+I1
+sVatlanta
+p150
+I1
+sVwomen
+p151
+I1
+sVpull
+p152
+I1
+sVbartender
+p153
+I1
+sVroom
+p154
+I1
+sVdouble
+p155
+I1
+sVride
+p156
+I1
+sVdiscriminating
+p157
+I1
+sVflirt
+p158
+I1
+sVcould
+p159
+I1
+sVuh
+p160
+I1
+sVmr
+p161
+I1
+sVaight
+p162
+I2
+sVtpain
+p163
+I2
+sVcalled
+p164
+I1
+sVskirts
+p165
+I1
+sVdrunk
+p166
+I1
+sVcreped
+p167
+I1
+sVfreak
+p168
+I1
+sVheni
+p169
+I1
+sVpicky
+p170
+I1
+sVturned
+p171
+I1
+sVit
+p172
+I3
+sVtonight
+p173
+I1
+sVdeuces
+p174
+I1
+sVdress
+p175
+I1
+sVagain
+p176
+I1
+sVslurring
+p177
+I1
+sVbottles
+p178
+I1
+sVna
+p179
+I4
+sVmake
+p180
+I3
+sVd\u2019s
+p181
+I1
+sVstarted
+p182
+I1
+sVspeech
+p183
+I1
+sVtake
+p184
+I8
+sVyou
+p185
+I6
+sVtalkin
+p186
+I1
+sVnice
+p187
+I1
+sVpain
+p188
+I1
+sVholla
+p189
+I1
+sVhuh
+p190
+I1
+sVdrink
+p191
+I11
+sVspot
+p192
+I1
+sVquit
+p193
+I1
+sVshorty
+p194
+I4
+sVgrab
+p195
+I1
+sVsaid
+p196
+I3
+sVmixin
+p197
+I1
+sVtall
+p198
+I1
+sVpair
+p199
+I1
+sVend
+p200
+I7
+sVelse
+p201
+I1
+sV26\u2019s
+p202
+I1
+sVman
+p203
+I3
+sVhappnin
+p204
+I1
+sVremember
+p205
+I1
+sVphone
+p206
+I1
+sVi
+I1
+sVstrolled
+p207
+I1
+sVflow
+p208
+I1
+sVwalked
+p209
+I1
+sVface
+p210
+I1
+sVsouth
+p211
+I1
+sVcliming
+p212
+I1
+sVbuncha
+p213
+I2
+sVfar
+p214
+I1
+sVfan
+p215
+I2
+sVskinny
+p216
+I1
+s.

@@ -1,6 +1,32 @@
-"intro" lyrics
-50 cent lyrics
-"intro"
-to all my fans,
-love 50 cent
-happy valentine's day, hmmm...
+(dp1
+Vlove
+p2
+I1
+sVlyrics
+p3
+I2
+sVvalentines
+p4
+I1
+sV50
+p5
+I2
+sVcent
+p6
+I2
+sVfans
+p7
+I1
+sVintro
+p8
+I2
+sVhmmm
+p9
+I1
+sVday
+p10
+I1
+sVhappy
+p11
+I1
+s.

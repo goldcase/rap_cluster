@@ -1,62 +1,544 @@
-"sorry louie" lyrics
-eazy-e lyrics
-"sorry louie"
-(hi, claude again...you remember i told you about my cousin when
-i was 15...well, the year after that, i killed this kid, louie...
-bashed his head in with my louieville slugger hahaha...
-i got away with it...haha...but erm...i wanna apologize to
-louie...i'm sorry louie...hahaha...)
-(bashed his head in with my louieville slugger)
-i knew this muthaphukka named louie
-every day the nigga talk shit but today he tried to do me
-he rolled down my block with a pistol and a stare
-a black khaki suit and dooky brades in his hair
-the muthaphukka think i'm slippin
-but i got my gat and a 40 and i'm sippin
-waitin for the fool to get out the car
-the stupid muthaphukka thinks i'm a star
-but i'm not, i'm the type that kick the niggaz ass
-fast ! eazy e's a nigga that'll blast
-hold up, wait, the nigga started to load his gat
-i grabbed my bat and ran around the back yo
-he's at my window, thinkin i'm playin nintendo
-but the stupid nigga don't know i'm behind him so
-he dropped the gat like a stupid muthaphukka
-so i bashed his head in with my louieville slugger
-(bashed his head in with my louieville slugger)
-i knew this bitch named wheaches
-she often want me to fuck her happy ass on the beaches
-but (?? huh ??) yo peaches be fuckin around with me
-instead o' fuckin her man
-she's butt-naked with my dick in her hand, yo
-as soon as wheaches started suckin, i saw this muthaphukkin
-nigga behind the car, and he was duckin
-so i told the bitch to hold on (hold on)
-you stupid bitch, put yo muthaphukkin clothes on
-i wonder if this nigga's tryin a jack me
-coz i ain't got my gat with me
-shit, the nigga started runnin up fast
-i thought he was gonna blast, so i hid behind her ass
-she started howlin out "wait", i banked her in the face
-but the punk nigga pulled out (?? mace ??)
-he asked the stupid bitch did i mug her
-so i bashed his head in with my louieville slugger
-i'm a muthaphukkin psycho and i don't give a fuck about'em
-i kill the nigga and cut off his dick, so you know i got'em
-coz (?? huh ??) ate his brain, left the nigga for dead
-now it's a gallon of blood, drippin from under his bed
-(oh, no ! what happened to my lover ??)
-bitch i bashed his head in with my louieville slugger
-bitch tried to call the cops, fuck that
-i gotta take the girl out with my muthaphukkin bat
-coz i ain't doin 10 in the pen
-for a bitch and her dead-ass boyfriend
-so...i gotta kill the ho
-i'm reachin for my weapon slow
-that's when i notice some nigga standin by the door
-the little nigga sayin "don't kill my mother", so
-i bashed his head in with my louieville slugger
-hahahahaha sorry jimmy
-hahahahaha he's dead
-hahahahaha i'm sorry, billy
-hahahahaha
+(dp1
+Vstandin
+p2
+I1
+sVlyrics
+p3
+I2
+sVsoon
+p4
+I1
+sVpeaches
+p5
+I1
+sVbrain
+p6
+I1
+sVkill
+p7
+I3
+sVslugger
+p8
+I7
+sVslippin
+p9
+I1
+sVpsycho
+p10
+I1
+sV15well
+p11
+I1
+sVaint
+p12
+I2
+sVcut
+p13
+I1
+sVgrabbed
+p14
+I1
+sVsayin
+p15
+I1
+sVclaude
+p16
+I1
+sVwheaches
+p17
+I2
+sVdick
+p18
+I2
+sVmug
+p19
+I1
+sVkilled
+p20
+I1
+sVto
+p21
+I1
+sVwindow
+p22
+I1
+sVblack
+p23
+I1
+sVdooky
+p24
+I1
+sVsorry
+p25
+I5
+sVkick
+p26
+I1
+sVlouieim
+p27
+I1
+sVfool
+p28
+I1
+sVrunnin
+p29
+I1
+sVaround
+p30
+I2
+sVyo
+p31
+I4
+sVget
+p32
+I1
+sVlouiehahaha
+p33
+I1
+sVevery
+p34
+I1
+sVknow
+p35
+I2
+sVaboutem
+p36
+I1
+sVblast
+p37
+I2
+sVday
+p38
+I1
+sVreachin
+p39
+I1
+sVbat
+p40
+I2
+sVpistol
+p41
+I1
+sVlike
+p42
+I1
+sVbilly
+p43
+I1
+sVstupid
+p44
+I5
+sVbuttnaked
+p45
+I1
+sVlouie
+p46
+I4
+sVbrades
+p47
+I1
+sVermi
+p48
+I1
+sVoften
+p49
+I1
+sVback
+p50
+I1
+sVdead
+p51
+I2
+sVhair
+p52
+I1
+sVshes
+p53
+I1
+sVyear
+p54
+I1
+sVplayin
+p55
+I1
+sVgirl
+p56
+I1
+sVthinks
+p57
+I1
+sVes
+p58
+I1
+sVwonder
+p59
+I1
+sVgon
+p60
+I1
+sVdrippin
+p61
+I1
+sVaway
+p62
+I1
+sVbehind
+p63
+I3
+sVate
+p64
+I1
+sVgot
+p65
+I5
+sVeazye
+p66
+I1
+sVtold
+p67
+I2
+sVass
+p68
+I3
+sVnotice
+p69
+I1
+sVkhaki
+p70
+I1
+sVbed
+p71
+I1
+sVrolled
+p72
+I1
+sVlover
+p73
+I1
+sVagainyou
+p74
+I1
+sVslow
+p75
+I1
+sVfuck
+p76
+I3
+sVcousin
+p77
+I1
+sVmuthaphukkin
+p78
+I4
+sVbeaches
+p79
+I1
+sVwait
+p80
+I2
+sVon
+p81
+I2
+sVbanked
+p82
+I1
+sVoh
+p83
+I1
+sVcoz
+p84
+I3
+sVlouieville
+p85
+I7
+sVo
+I1
+sVclothes
+p86
+I1
+sVthink
+p87
+I1
+sVblock
+p88
+I1
+sVthats
+p89
+I1
+sVload
+p90
+I1
+sVnamed
+p91
+I2
+sVjimmy
+p92
+I1
+sVdont
+p93
+I3
+sVsoi
+p94
+I1
+sVduckin
+p95
+I1
+sVnigga
+p96
+I11
+sVbitch
+p97
+I7
+sVapologize
+p98
+I1
+sVdeadass
+p99
+I1
+sVstare
+p100
+I1
+sVwan
+p101
+I1
+sVlittle
+p102
+I1
+sVhahahahaha
+p103
+I4
+sVher
+p104
+I1
+sVhes
+p105
+I2
+sVfast
+p106
+I2
+sVcall
+p107
+I1
+sVsuit
+p108
+I1
+sVman
+p109
+I1
+sVtype
+p110
+I1
+sVtoday
+p111
+I1
+sVhappy
+p112
+I1
+sVhead
+p113
+I7
+sVdoor
+p114
+I1
+sVthat
+p115
+I1
+sVstarted
+p116
+I4
+sVgotem
+p117
+I1
+sVgat
+p118
+I4
+sVhuh
+p119
+I2
+sVeazy
+p120
+I1
+sVmuthaphukka
+p121
+I4
+sVcops
+p122
+I1
+sVhi
+p123
+I1
+sVho
+p124
+I1
+sVhold
+p125
+I3
+sVboyfriend
+p126
+I1
+sVme
+p127
+I3
+sV10
+p128
+I1
+sVbashed
+p129
+I7
+sVniggas
+p130
+I1
+sVcar
+p131
+I2
+sVniggaz
+p132
+I1
+sVsuckin
+p133
+I1
+sVhahaha
+p134
+I1
+sVhappened
+p135
+I1
+sVhid
+p136
+I1
+sVthatll
+p137
+I1
+sVgive
+p138
+I1
+sVran
+p139
+I1
+sVpunk
+p140
+I1
+sVithahabut
+p141
+I1
+sVim
+p142
+I10
+sVdropped
+p143
+I1
+sVwant
+p144
+I1
+sVpen
+p145
+I1
+sVgallon
+p146
+I1
+sVsaw
+p147
+I1
+sVshit
+p148
+I2
+sVsippin
+p149
+I1
+sVna
+p150
+I2
+sVthinkin
+p151
+I1
+sVwhen
+p152
+I1
+sV40
+p153
+I1
+sVtake
+p154
+I1
+sVinstead
+p155
+I1
+sVhowlin
+p156
+I1
+sVwaitin
+p157
+I1
+sVstar
+p158
+I1
+sVtried
+p159
+I2
+sVput
+p160
+I1
+sVdoin
+p161
+I1
+sVknew
+p162
+I2
+sVhand
+p163
+I1
+sVmace
+p164
+I1
+sVasked
+p165
+I1
+sVblood
+p166
+I1
+sVnintendo
+p167
+I1
+sVkid
+p168
+I1
+sVremember
+p169
+I1
+sVta
+p170
+I2
+sVweapon
+p171
+I1
+sVface
+p172
+I1
+sVthought
+p173
+I1
+sVso
+p174
+I2
+sVfuckin
+p175
+I2
+sVmother
+p176
+I1
+sVtryin
+p177
+I1
+sVleft
+p178
+I1
+sVpulled
+p179
+I1
+sVtalk
+p180
+I1
+sVjack
+p181
+I1
+s.

@@ -1,48 +1,334 @@
-send lyrics
-kanye west lyrics
-send up
-feat king l
-rockstar bitch call elvis
-mob call selfish
-success got em jealous
-shortys killing im drilling
-tattoos break news
-real made news
-last night bitches came twos
-suck like came lose
-dropped first day school
-cause niggas got cocaine move
-going hard got name prove
-killing em honey make pain improve
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-greatest shit club
-since da club
-packed might ride around
-bodyguards back like prince club
-say get friends club
-say get benz club
-treat friends like benz
-park ass outside til evening end
-go raw like leave in
-wake like go again
-go work gotta call in
-cant go work clothes again
-heart colder souls men
-louboutin toes again
-tight dress dancing close him
-yeezus rose again
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-send bitch cant go down
-memories dont live like people do
-always member you
-whether things good bad
-memories have
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVsouls
+p4
+I1
+sVgo
+p5
+I16
+sVkanye
+p6
+I1
+sVfeat
+p7
+I1
+sVprince
+p8
+I1
+sVmember
+p9
+I1
+sVrose
+p10
+I1
+sVsend
+p11
+I14
+sVhim
+p12
+I1
+sVgoing
+p13
+I1
+sVmight
+p14
+I1
+sVta
+p15
+I1
+sVreal
+p16
+I1
+sVdo
+p17
+I1
+sVevening
+p18
+I1
+sVaround
+p19
+I1
+sVget
+p20
+I2
+sVda
+p21
+I1
+sVbreak
+p22
+I1
+sVdrilling
+p23
+I1
+sVmob
+p24
+I1
+sVday
+p25
+I1
+sVlike
+p26
+I6
+sVschool
+p27
+I1
+sVname
+p28
+I1
+sVsuccess
+p29
+I1
+sValways
+p30
+I1
+sVl
+I1
+sVleave
+p31
+I1
+sVbad
+p32
+I1
+sVlose
+p33
+I1
+sVclothes
+p34
+I1
+sVem
+p35
+I2
+sVrockstar
+p36
+I1
+sVcolder
+p37
+I1
+sVhard
+p38
+I1
+sVback
+p39
+I1
+sVup
+p40
+I1
+sVtoes
+p41
+I1
+sVclose
+p42
+I1
+sVpacked
+p43
+I1
+sVlouboutin
+p44
+I1
+sVyeezus
+p45
+I1
+sVmemories
+p46
+I2
+sVsince
+p47
+I1
+sVoutside
+p48
+I1
+sVgot
+p49
+I4
+sVcause
+p50
+I1
+sVass
+p51
+I1
+sVtattoos
+p52
+I1
+sVmen
+p53
+I1
+sVnight
+p54
+I1
+sVkilling
+p55
+I2
+sVshortys
+p56
+I1
+sVnews
+p57
+I2
+sVimprove
+p58
+I1
+sVlast
+p59
+I1
+sVfirst
+p60
+I1
+sVdont
+p61
+I1
+sVdown
+p62
+I12
+sVbitch
+p63
+I13
+sVcocaine
+p64
+I1
+sVprove
+p65
+I1
+sVwest
+p66
+I1
+sVpeople
+p67
+I1
+sVlive
+p68
+I1
+sVcall
+p69
+I3
+sVtreat
+p70
+I1
+sVclub
+p71
+I5
+sVelvis
+p72
+I1
+sVbitches
+p73
+I1
+sVpark
+p74
+I1
+sVwake
+p75
+I1
+sVking
+p76
+I1
+sVmade
+p77
+I1
+sVniggas
+p78
+I1
+sVwhether
+p79
+I1
+sVride
+p80
+I1
+sVwork
+p81
+I2
+sVsay
+p82
+I2
+sVbodyguards
+p83
+I1
+sVtwos
+p84
+I1
+sVheart
+p85
+I1
+sVbenz
+p86
+I2
+sVhoney
+p87
+I1
+sVraw
+p88
+I1
+sVcant
+p89
+I13
+sVgood
+p90
+I1
+sVim
+p91
+I1
+sVdropped
+p92
+I1
+sVhave
+p93
+I1
+sVin
+p94
+I2
+sVdress
+p95
+I1
+sVshit
+p96
+I1
+sVselfish
+p97
+I1
+sVend
+p98
+I1
+sVdancing
+p99
+I1
+sVthings
+p100
+I1
+sVmake
+p101
+I1
+sVtil
+p102
+I1
+sVtight
+p103
+I1
+sVyou
+p104
+I1
+sVpain
+p105
+I1
+sVagain
+p106
+I4
+sVjealous
+p107
+I1
+sVsuck
+p108
+I1
+sVfriends
+p109
+I2
+sVgreatest
+p110
+I1
+sVcame
+p111
+I2
+s.

@@ -1,62 +1,405 @@
-"rich & flexin'" lyrics
-ludacris lyrics
-"rich & flexin'"
-(feat. waka flocka)
-cry me a river, cry me, cry me, oh
-cry me a river, cry me, cry me, oh
-cry me a river, cry me, cry me.
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch! (ain't that a bitch!)
-bit-bitches all on my jock, they want my dang-a-lang,
-swinging all on my nuts, like an orangutan,
-ha-half a million dollar car, ha-half a million dollar watch,
-no roof on the drop head phantom, it got karate chopped,
-i got a couple black belts, but they all from louie louie,
-get her wetter than scuba divers, these fucking groupie groupies,
-swag is through the ceiling, these haters mad as fuck,
-gettin money like vegas chips bitch stack em up!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch! (ain't that a bitch!)
-bitches be cryin fo me they want my autograph
-shawty rollercoaster ridin, six flags,
-she a fool on that dick (uh huh)
-i will never eat that bitch (uh uh)
-cold feelin's, hard dick, no hands got me rich
-i'm on my bricksquad monopoly shit
-4 hoes in my 2 door
-stuntin with the roof up
-flocka always flexin, mad hoes always textin,
-tatted up like i'm mexican,
-magnums for protection flocka!
-meet me at the western
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch! (ain't that a bitch!)
-u-up on my wish bone, these hoes get split in two,
-i don't' want no birds up in my car, i don't drive no chicken coop,
-i'll be out in that new ferrari, i be spilling out champagne
-no rocks on the road luda, bitch they're all on my damn chain,
-gotta keep it moving mami, gotta get that guacamole,
-i got that purp and a little bit of gold, like i should run with kobe,
-like i should shoot the jay, and smoke a couple too,
-other rappers wanna be my friend, i'm too rich to fuck with youuuuuu!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch!
-i'm drunk (i'm drunk)
-i'm rich (i'm rich)
-i'm flexin, ain't that a bitch! (ain't that a bitch!)
-bitches all on my jock!
-bitches all on my jock!
-i'm flexin, ain’t that a bitch! (ain’t that a bitch!)
+(dp1
+Vmexican
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVmoney
+p5
+I1
+sVdollar
+p6
+I2
+sVcold
+p7
+I1
+sVdangalang
+p8
+I1
+sVbirds
+p9
+I1
+sVjock
+p10
+I3
+sVaint
+p11
+I12
+sVswag
+p12
+I1
+sVguacamole
+p13
+I1
+sVchain
+p14
+I1
+sVjay
+p15
+I1
+sVdick
+p16
+I2
+sVblack
+p17
+I1
+sV4
+I1
+sVrich
+p18
+I20
+sVta
+p19
+I2
+sVfool
+p20
+I1
+sVshoot
+p21
+I1
+sVcoop
+p22
+I1
+sVget
+p23
+I3
+sVcouple
+p24
+I2
+sVwatch
+p25
+I1
+sVvegas
+p26
+I1
+sVtatted
+p27
+I1
+sVhands
+p28
+I1
+sVcryin
+p29
+I1
+sVbit
+p30
+I1
+sVchips
+p31
+I1
+sVlike
+p32
+I5
+sVspilling
+p33
+I1
+sVbelts
+p34
+I1
+sValways
+p35
+I2
+sVdrop
+p36
+I1
+sVrocks
+p37
+I1
+sVbitbitches
+p38
+I1
+sVriver
+p39
+I3
+sVhahalf
+p40
+I2
+sVbone
+p41
+I1
+sVlouie
+p42
+I2
+sVem
+p43
+I1
+sVgettin
+p44
+I1
+sVfucking
+p45
+I1
+sVmagnums
+p46
+I1
+sVgroupies
+p47
+I1
+sVhard
+p48
+I1
+sVhoes
+p49
+I3
+sVtheyre
+p50
+I1
+sVchicken
+p51
+I1
+sVwetter
+p52
+I1
+sVfeat
+p53
+I1
+sVgot
+p54
+I6
+sVchampagne
+p55
+I1
+sVgroupie
+p56
+I1
+sVtextin
+p57
+I1
+sVnever
+p58
+I1
+sVrun
+p59
+I1
+sVcry
+p60
+I9
+sVmillion
+p61
+I2
+sVridin
+p62
+I1
+sVuup
+p63
+I1
+sVprotection
+p64
+I1
+sVflexin
+p65
+I12
+sVstuntin
+p66
+I1
+sVoh
+p67
+I2
+sVill
+p68
+I1
+sVkeep
+p69
+I1
+sVorangutan
+p70
+I1
+sVroad
+p71
+I1
+sVchopped
+p72
+I1
+sVdont
+p73
+I2
+sVdrunk
+p74
+I16
+sVbricksquad
+p75
+I1
+sVbitch
+p76
+I17
+sVkobe
+p77
+I1
+sVwan
+p78
+I1
+sVlittle
+p79
+I1
+sVyouuuuuu
+p80
+I1
+sVtwo
+p81
+I1
+sVmami
+p82
+I1
+sV2
+I1
+sVdamn
+p83
+I1
+sVtoo
+p84
+I1
+sVfriend
+p85
+I1
+sVceiling
+p86
+I1
+sVwish
+p87
+I1
+sVdoor
+p88
+I1
+sVbitches
+p89
+I3
+sVhuh
+p90
+I1
+sVfuck
+p91
+I2
+sVwaka
+p92
+I1
+sVwestern
+p93
+I1
+sVgold
+p94
+I1
+sVhaters
+p95
+I1
+sVeat
+p96
+I1
+sVme
+p97
+I1
+sVmonopoly
+p98
+I1
+sVcar
+p99
+I2
+sVain\u2019t
+p100
+I2
+sVup
+p101
+I2
+sVroof
+p102
+I2
+sVfeelins
+p103
+I1
+sVkarate
+p104
+I1
+sVuh
+p105
+I3
+sVrollercoaster
+p106
+I1
+sVmeet
+p107
+I1
+sVscuba
+p108
+I1
+sVluda
+p109
+I1
+sVwant
+p110
+I3
+sVhead
+p111
+I1
+sVim
+p112
+I44
+sVswinging
+p113
+I1
+sVshit
+p114
+I1
+sVphantom
+p115
+I1
+sVpurp
+p116
+I1
+sVna
+p117
+I1
+sVsix
+p118
+I1
+sVnuts
+p119
+I1
+sVsplit
+p120
+I1
+sVnew
+p121
+I1
+sVshawty
+p122
+I1
+sVdivers
+p123
+I1
+sVsmoke
+p124
+I1
+sVrappers
+p125
+I1
+sVmoving
+p126
+I1
+sVmad
+p127
+I2
+sVstack
+p128
+I1
+sVautograph
+p129
+I1
+sVfo
+p130
+I1
+sVdrive
+p131
+I1
+sVflags
+p132
+I1
+sVflocka
+p133
+I3
+sVferrari
+p134
+I1
+s.

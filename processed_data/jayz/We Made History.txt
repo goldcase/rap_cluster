@@ -1,60 +1,494 @@
-"we made history" lyrics
-jay-z lyrics
-"we made history"
-(feat. tony williams)
-now that all the smoke is gone
-and the battle's finally won
-victory is finally ours
-history so long so long so long
-in search of victory she keeps saluting me
-if only we can be together momentarily
-we can make love and make history
-why won't you visit me
-until she visits me
-i'll be stuck with a sister her name is defeat
-she gives me agony so much agony she brings me so much pain
-so much misery like missing your last shot and falling to your knees
-as the crowd screams brother of the team i practiced so hard for this moment
-victory don't leave
-i know what this means i'm stuck in this routine
-whole new different day same old thing
-all i got is dreams no body else can see
-nobody else believes nobody else but me
-where are you victory
-i need you desperately
-not just for the moment to make history
-so now i'm flirting with death
-hustling like a g
-when victory wasn't watching
-took chance repeatedly
-as a teenage boy before acne
-before i got proactive i couldn't face she
-i just threw on my hoodie and headed to the streets
-that's where i met success
-we lived together shortly
-now success was like lust shes good to the touch
-shes good for the moment but shes never enough
-everybodys had her shes nothing like v
-but success is all i got unfortunately
-but i'm burning down the block
-i been in and out of v
-but something tells me that there's much more to see
-before i get killed cause i can't get robbed
-so before me success and death monage
-i gotta lost i gotta find v
-we gotta be together to make history
-now victory is mine she tastes so sweet
-shes my trophy wife coming with me
-we'll have a baby who stutters repeatedly
-we'll name him history he'll repeat after me
-hes my legacy son of my hard work future of my past
-can explain who i be rate me amongst the greats either 1 2 3
-if i ain't number one then i failed you victory
-ain't in it for the fame that dies within weeks
-ain't in it for the money you can take it when u leave
-i wanna be remembered long after u breathe
-long after i'm gone long after i breathe
-i leave all i am in the hands of history
-that's my last will testimony
-this is much more than a song it's a baby shower
-i been waiting for this hour history your ours
+(dp1
+Vgreats
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVhands
+p6
+I1
+sVtouch
+p7
+I1
+sVhell
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I3
+sVdeath
+p12
+I2
+sVexplain
+p13
+I1
+sVacne
+p14
+I1
+sV3
+I1
+sVkilled
+p15
+I1
+sVfailed
+p16
+I1
+sVfinally
+p17
+I2
+sVours
+p18
+I2
+sVweeks
+p19
+I1
+sVta
+p20
+I3
+sVgood
+p21
+I2
+sVwatching
+p22
+I1
+sVflirting
+p23
+I1
+sVknow
+p24
+I1
+sVsaluting
+p25
+I1
+sV2
+I1
+sVone
+p26
+I1
+sVday
+p27
+I1
+sVdreams
+p28
+I1
+sVname
+p29
+I2
+sVwont
+p30
+I1
+sVdesperately
+p31
+I1
+sVlike
+p32
+I4
+sVsuccess
+p33
+I4
+sVbrother
+p34
+I1
+sVtestimony
+p35
+I1
+sVleave
+p36
+I3
+sVvictory
+p37
+I7
+sVteam
+p38
+I1
+sVold
+p39
+I1
+sVcrowd
+p40
+I1
+sVhard
+p41
+I2
+sVpast
+p42
+I1
+sVsee
+p43
+I2
+sVlegacy
+p44
+I1
+sVshes
+p45
+I5
+sVknees
+p46
+I1
+sVrate
+p47
+I1
+sVwaiting
+p48
+I1
+sVenough
+p49
+I1
+sVwon
+p50
+I1
+sVroutine
+p51
+I1
+sVgot
+p52
+I6
+sVfalling
+p53
+I1
+sVcause
+p54
+I1
+sVshe
+p55
+I1
+sVbody
+p56
+I1
+sVscreams
+p57
+I1
+sVmissing
+p58
+I1
+sVremembered
+p59
+I1
+sVmonage
+p60
+I1
+sVnever
+p61
+I1
+sVmet
+p62
+I1
+sVhoodie
+p63
+I1
+sVstutters
+p64
+I1
+sVtrophy
+p65
+I1
+sVboy
+p66
+I1
+sVsister
+p67
+I1
+sVlast
+p68
+I2
+sVg
+I1
+sVill
+p69
+I1
+sVmoment
+p70
+I3
+sVthing
+p71
+I1
+sVsmoke
+p72
+I1
+sVmisery
+p73
+I1
+sVtheres
+p74
+I1
+sVwhole
+p75
+I1
+sVblock
+p76
+I1
+sVthats
+p77
+I2
+sVteenage
+p78
+I1
+sVlove
+p79
+I1
+sVdont
+p80
+I1
+sVburning
+p81
+I1
+sVheaded
+p82
+I1
+sVsweet
+p83
+I1
+sVwithin
+p84
+I1
+sVnumber
+p85
+I1
+sVson
+p86
+I1
+sVna
+p87
+I1
+sVjayz
+p88
+I1
+sVtony
+p89
+I1
+sVcouldnt
+p90
+I1
+sVwan
+p91
+I1
+sVhes
+p92
+I1
+sVvisit
+p93
+I1
+sVlong
+p94
+I6
+sVstuck
+p95
+I2
+sVmuch
+p96
+I5
+sVwilliams
+p97
+I1
+sVgives
+p98
+I1
+sVbreathe
+p99
+I2
+sVstreets
+p100
+I1
+sVrobbed
+p101
+I1
+sVbrings
+p102
+I1
+sVnobody
+p103
+I2
+sVsearch
+p104
+I1
+sVamongst
+p105
+I1
+sVelse
+p106
+I3
+sVrepeatedly
+p107
+I2
+sVbaby
+p108
+I2
+sVshortly
+p109
+I1
+sVme
+p110
+I6
+sVmade
+p111
+I2
+sVunfortunately
+p112
+I1
+sVhour
+p113
+I1
+sVwork
+p114
+I1
+sVcant
+p115
+I1
+sVbelieves
+p116
+I1
+sVshower
+p117
+I1
+sVfuture
+p118
+I1
+sVv
+I3
+sVthrew
+p119
+I1
+sVproactive
+p120
+I1
+sVhistory
+p121
+I9
+sVgone
+p122
+I2
+sVmomentarily
+p123
+I1
+sVmine
+p124
+I1
+sVlust
+p125
+I1
+sVwasnt
+p126
+I1
+sVlived
+p127
+I1
+sVim
+p128
+I4
+sVsomething
+p129
+I1
+sVneed
+p130
+I1
+sVtastes
+p131
+I1
+sVtells
+p132
+I1
+sVdifferent
+p133
+I1
+sVagony
+p134
+I2
+sVmake
+p135
+I4
+sVmeans
+p136
+I1
+sVbattles
+p137
+I1
+sVfame
+p138
+I1
+sV1
+I1
+sVtake
+p139
+I1
+sVget
+p140
+I2
+sVnew
+p141
+I1
+sVhustling
+p142
+I1
+sVeither
+p143
+I1
+sVeverybodys
+p144
+I1
+sVrepeat
+p145
+I1
+sVpain
+p146
+I1
+sVdies
+p147
+I1
+sVdefeat
+p148
+I1
+sVvisits
+p149
+I1
+sVtook
+p150
+I1
+sVchance
+p151
+I1
+sVcoming
+p152
+I1
+sVnothing
+p153
+I1
+sVsong
+p154
+I1
+sVpracticed
+p155
+I1
+sVwife
+p156
+I1
+sVwell
+p157
+I2
+sVlost
+p158
+I1
+sVtogether
+p159
+I3
+sVface
+p160
+I1
+sVu
+I2
+sVkeeps
+p161
+I1
+s.

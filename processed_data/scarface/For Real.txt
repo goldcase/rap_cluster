@@ -1,63 +1,581 @@
-"for real" lyrics
-scarface lyrics
-"for real"
-i got this coffee pot of white soap
-stuck my hanger down the center
-when i entered i spent it cause it was like dope
-but on the real-a he was jackin' me for scratch
-cause out of 36 ounces this motherfucker brought me 20 back
-i'm slanging 20 sacs cause i done lost 16
-and these goddamn streets aint going to bring me back
-now could it be the southside big baller
-bolo rock slanger stones done got slaughtered-damn
-i'm going up on my whole thangs
-and stepped on don't go runnin my clique cause it's a old game
-and all i ever wanted was some hundred stacks
-i went from slangin' o-z's to movin' hundred sacks
-gotta make my money back
-cause i done came too far up in these goddamn streets
-to get my money snatched
-i'm so for real about this motherfuckin skrill
-that any obstacle obscuring my paper is gettin' killed
-for real
-(scratching and mixing)
-all i have is this small skrilla
-i know this nigga run this game of life
-so motherfuckin sheist that at night he got to sleep with lights
-cause he done come across with shit so shade
-that mutha fuckers comin with clips to locate him
-aint no waitin and once they spot him they gon' sure face him
-and once the got him they gon' sure waste him
-this aint no mutha fuckin joke nigga it aint worth it
-and even if your mother gets in it you cant surface
-it was all purpose
-just like that bullshit you was serving it was all purpose
-we all chipped in nigga and we all hurting
-i gots to grind just like in eighty-nine
-when a niggas 25 cent pieces look just like baby dimes
-i'm on the corner selling whole eights
-i don't remember being this fuckin paranoid since i sold weight
-i went from 50 sacs to 50 packs
-and all because this motherfucker got jipped he wants to jip me back
-but when i find him i'm gon finalize him
-just to let a nigga know i'm for real and down to die for mine
-and i'm for real about this mutha fuckin skrill
-that any obstacle obscuring my paper is gettin killed
-for real
-game made to be swift since eighty-six when i started
-seems like niggas with hustle got outsmarted
-cause now they wanna analyze they homies for scratch
-catch them when they sleeping come down and up scrap
-and even though i plotted hittin' niggas for ends
-i never took out straps and shot gats at friends
-it was all about being for real where i was from
-where very few niggas came real but i was one
-i dedicate this to my homies stuck in battle
-living life being caught up in this mutha fuckin' gamble
-the game made to be changed but the niggas still started
-cocaine seems to be blamed for the niggas gettin slaughtered
-how many times you had your homie shot
-by the same mutha fucker whose game came from your homies block
-niggas get caught up in the paper chase
-and lose respect for the game
-that was honored before the cake was made
+(dp1
+Vstones
+p2
+I1
+sVserving
+p3
+I1
+sVshot
+p4
+I2
+sVlyrics
+p5
+I2
+sVscratch
+p6
+I2
+sVbring
+p7
+I1
+sVpaper
+p8
+I3
+sVsleep
+p9
+I1
+sVounces
+p10
+I1
+sVgo
+p11
+I1
+sVcorner
+p12
+I1
+sVstill
+p13
+I1
+sVfind
+p14
+I1
+sVaint
+p15
+I4
+sV25
+p16
+I1
+sV20
+p17
+I2
+sVparanoid
+p18
+I1
+sVseems
+p19
+I2
+sVhim
+p20
+I4
+sVgoing
+p21
+I2
+sVjip
+p22
+I1
+sVmoney
+p23
+I2
+sVworth
+p24
+I1
+sVta
+p25
+I1
+sVreal
+p26
+I9
+sVcoffee
+p27
+I1
+sVfinalize
+p28
+I1
+sVget
+p29
+I2
+sVfar
+p30
+I1
+sVbig
+p31
+I1
+sVdope
+p32
+I1
+sVgame
+p33
+I6
+sVmade
+p34
+I3
+sVhurting
+p35
+I1
+sVknow
+p36
+I2
+sVsouthside
+p37
+I1
+sVmixing
+p38
+I1
+sVkilled
+p39
+I2
+sVlike
+p40
+I5
+sVlost
+p41
+I1
+sVcause
+p42
+I7
+sVgettin
+p43
+I3
+sV50
+p44
+I2
+sVslanging
+p45
+I1
+sVhittin
+p46
+I1
+sVrock
+p47
+I1
+sVsmall
+p48
+I1
+sVwent
+p49
+I2
+sVeightysix
+p50
+I1
+sVdimes
+p51
+I1
+sVhanger
+p52
+I1
+sVold
+p53
+I1
+sVweight
+p54
+I1
+sVgoddamn
+p55
+I2
+sVstreets
+p56
+I2
+sVback
+p57
+I4
+sVbattle
+p58
+I1
+sVsnatched
+p59
+I1
+sVdie
+p60
+I1
+sVscratching
+p61
+I1
+sVrun
+p62
+I1
+sVeven
+p63
+I2
+sVliving
+p64
+I1
+sVmovin
+p65
+I1
+sVgon
+p66
+I3
+sVanalyze
+p67
+I1
+sVscrap
+p68
+I1
+sVsince
+p69
+I2
+sVlights
+p70
+I1
+sVhonored
+p71
+I1
+sVgot
+p72
+I7
+sVever
+p73
+I1
+sVacross
+p74
+I1
+sVhustle
+p75
+I1
+sVlocate
+p76
+I1
+sVslangin
+p77
+I1
+sVends
+p78
+I1
+sVslaughtereddamn
+p79
+I1
+sVsheist
+p80
+I1
+sVwhose
+p81
+I1
+sVsold
+p82
+I1
+sVnight
+p83
+I1
+sVmotherfucker
+p84
+I2
+sVbolo
+p85
+I1
+sVlet
+p86
+I1
+sVozs
+p87
+I1
+sVclique
+p88
+I1
+sVballer
+p89
+I1
+sVwanted
+p90
+I1
+sVcome
+p91
+I2
+sVchipped
+p92
+I1
+sVjackin
+p93
+I1
+sVjoke
+p94
+I1
+sVcould
+p95
+I1
+sVchanged
+p96
+I1
+sV36
+p97
+I1
+sVtimes
+p98
+I1
+sVdedicate
+p99
+I1
+sVniggas
+p100
+I7
+sVwhole
+p101
+I2
+sVfuckin
+p102
+I4
+sVplotted
+p103
+I1
+sVdont
+p104
+I2
+sVpot
+p105
+I1
+sVone
+p106
+I1
+sVbrought
+p107
+I1
+sVnigga
+p108
+I4
+sVdone
+p109
+I4
+sVsacs
+p110
+I2
+sVcomin
+p111
+I1
+sVfucker
+p112
+I1
+sVrespect
+p113
+I1
+sVcocaine
+p114
+I1
+sVwan
+p115
+I1
+sVlose
+p116
+I1
+sVswift
+p117
+I1
+sVcaught
+p118
+I2
+sVfuckers
+p119
+I1
+sVcent
+p120
+I1
+sVstuck
+p121
+I2
+sVwhite
+p122
+I1
+sVhundred
+p123
+I2
+sVbullshit
+p124
+I1
+sVslaughtered
+p125
+I1
+sVwants
+p126
+I1
+sVlife
+p127
+I2
+sVskrill
+p128
+I2
+sVpacks
+p129
+I1
+sVstarted
+p130
+I2
+sVhomies
+p131
+I3
+sVtook
+p132
+I1
+sVmine
+p133
+I1
+sVbaby
+p134
+I1
+sVobscuring
+p135
+I2
+sVsleeping
+p136
+I1
+sVentered
+p137
+I1
+sVremember
+p138
+I1
+sVrunnin
+p139
+I1
+sVwaste
+p140
+I1
+sVlook
+p141
+I1
+sV16
+p142
+I1
+sVskrilla
+p143
+I1
+sVclips
+p144
+I1
+sVhomie
+p145
+I1
+sVmany
+p146
+I1
+sVcake
+p147
+I1
+sVim
+p148
+I7
+sVselling
+p149
+I1
+sVcatch
+p150
+I1
+sVoutsmarted
+p151
+I1
+sVit
+p152
+I1
+sVsurface
+p153
+I1
+sVpieces
+p154
+I1
+sVcant
+p155
+I1
+sVobstacle
+p156
+I2
+sVscarface
+p157
+I1
+sVjipped
+p158
+I1
+sVgrind
+p159
+I1
+sVshit
+p160
+I1
+sVchase
+p161
+I1
+sVreala
+p162
+I1
+sVna
+p163
+I1
+sVmake
+p164
+I1
+sVgats
+p165
+I1
+sVmotherfuckin
+p166
+I2
+sVstepped
+p167
+I1
+sVgets
+p168
+I1
+sVsoap
+p169
+I1
+sVgamble
+p170
+I1
+sVwaitin
+p171
+I1
+sVsure
+p172
+I2
+sVeights
+p173
+I1
+sVthough
+p174
+I1
+sVgots
+p175
+I1
+sVspot
+p176
+I1
+sVmutha
+p177
+I5
+sVpurpose
+p178
+I2
+sVnever
+p179
+I1
+sVfriends
+p180
+I1
+sVblamed
+p181
+I1
+sVeightynine
+p182
+I1
+sVcenter
+p183
+I1
+sVsacks
+p184
+I1
+sVslanger
+p185
+I1
+sVstraps
+p186
+I1
+sVspent
+p187
+I1
+sVface
+p188
+I1
+sVthangs
+p189
+I1
+sVblock
+p190
+I1
+sVshade
+p191
+I1
+sVmother
+p192
+I1
+sVstacks
+p193
+I1
+sVcame
+p194
+I3
+s.

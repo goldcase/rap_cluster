@@ -1,87 +1,778 @@
-"the don (don dada remix)" lyrics
-nas lyrics
-"the don (don dada remix)"
-new york girls dem a mad ova we!!!
-new york girls dem a mad ova we!!!
-new york girls dem a mad ova we!!!
-new york girls dem a mad ova we!!!
-(la la-la-la-la-la-la, la la la la, la!)
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city
-new york city-city, new york city-city
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city (yeah!)
-new york city-city, new york city-city (yeah!)
-smokin the escubano, guzzle my second bottle
-hope i don't catch a homo', grossing our net
-simultaneously makin the crime higher
-heinous crimes behind me, search but can't find me
-fuck sadness, had this been you, havin this lavish
-habitual happiness that mean you wouldn't look backwards
-you would have sex on, condominium roof decks
-so anyone moves next, i hit you with two tech's
-rockin roberto cavalli - seriously!
-he's in the club, i'm on stage rockin roberto cavalli
-every tat mean somethin that's my word on my body
-i have to lean somethin with that mossberg shotty
-my niggas is ig'nant, put led in your pigment
-just 'cause y'all was mad of all the years i was gettin it
-in 9-7 the six, 9-8 the bentley
-and now it's the ghost phantom, and y'all can't stand him but...
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city
-new york city-city, new york city-city (yeah!)
-army jacket swag army jacket green and black
-with the square top pocket that snaps, where the gas at
-pass that not you, you hold cracks in your asscrack
-i never did that, my socks where my stash was at
-yo! i used to listen to that red alert and rap attack (yeeeeeeeeeaaaaasss!!)
-i fell in love with all that poetry i mastered that
-cuttin school where 'preme team and fat cat was at
-future not crystal clear yet baccarat
-now i'm the one who's reppin queens way beyond your wildest dreams
-bottles on bottles with sparklers, surround my team
-that long cash get the baddest bitches out their jeans
-twenty years in this game lookin seventeen
-i don't lean, no codeine, promethazine
-i just blow green, pick which bitch to bless the king
-although he's on to another chapter
-heavy d gave this beat to salaam for me to rap to
-rrrrrahhhhh!!!
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city
-new york city-city, new york city-city
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city
-new york city-city, new york city-city (yeah!) (yeah!)
-new york is like a island, a big rikers island
-the cops be out wildin, all i hear is sirens
-it's all about survivin, same old two step
-try to stay alive when, they be out robbin
-i been out rhymin, since born knowledge
-like prophet muhammed said the ink from a scholar
-worth more than a blood of a martyr, so i'ma
-keep it on 'til i see a bilion dollars
-keep your friends close and your, enemies closer
-love model chocha, mami pop it like she 'posed to
-eyes red shot, like i'm never sober
-big time smoker, indonesia dozer
-mini me's you can hold up, before you end up wet up from my soldier
-don shit, under fire i remain on some calm shit
-this for every ghetto in the hood
-nas the don super cat the don dada, (understood!)
-nas di don nas di don nas di don nas di don
-nas di don nas di don nas di don nas
-inna new york city-city, new york city-city
-inna new york city-city, new york city-city
-it's di heartbeat of di people, di ghetto people
-and when i say ghetto people di people who cannot afford to go to di big concert
-some of these people do not even have tv, so they can't afford cable
-some of dem can't afford a radio, so di only ting they can listen to is di music
-people from di ghetto, people from di projects, street people
-heartical ghetto yutes who know what it is to sing about sufferin and reality...
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVyeeeeeeeeeaaaaasss
+p4
+I1
+sVpreme
+p5
+I1
+sVyears
+p6
+I2
+sVlavish
+p7
+I1
+sVradio
+p8
+I1
+sVgo
+p9
+I1
+sVlove
+p10
+I2
+sVfind
+p11
+I1
+sVhappiness
+p12
+I1
+sVblow
+p13
+I1
+sVmuhammed
+p14
+I1
+sVswag
+p15
+I1
+sVshotty
+p16
+I1
+sVknowledge
+p17
+I1
+sVla
+p18
+I6
+sVtv
+p19
+I1
+sVbaddest
+p20
+I1
+sVbaccarat
+p21
+I1
+sVbehind
+p22
+I1
+sVcrime
+p23
+I1
+sVhavin
+p24
+I1
+sVblack
+p25
+I1
+sVprojects
+p26
+I1
+sVwet
+p27
+I1
+sVghetto
+p28
+I5
+sVworth
+p29
+I1
+sVhope
+p30
+I1
+sVgave
+p31
+I1
+sVhit
+p32
+I1
+sVto
+p33
+I2
+sVyo
+p34
+I1
+sVdi
+p35
+I51
+sVbeat
+p36
+I1
+sVjeans
+p37
+I1
+sVend
+p38
+I1
+sVgrossing
+p39
+I1
+sVfat
+p40
+I1
+sVpigment
+p41
+I1
+sVpocket
+p42
+I1
+sVescubano
+p43
+I1
+sVgame
+p44
+I1
+sVstreet
+p45
+I1
+sVevery
+p46
+I2
+sVpop
+p47
+I1
+sVnot
+p48
+I1
+sVdreams
+p49
+I1
+sVlike
+p50
+I4
+sVschool
+p51
+I1
+sVd
+I1
+sVcable
+p52
+I1
+sVrhymin
+p53
+I1
+sVgettin
+p54
+I1
+sVrobbin
+p55
+I1
+sVbless
+p56
+I1
+sVmastered
+p57
+I1
+sVteam
+p58
+I2
+sVyall
+p59
+I2
+sVmean
+p60
+I2
+sVheavy
+p61
+I1
+sVsirens
+p62
+I1
+sVseventeen
+p63
+I1
+sVsquare
+p64
+I1
+sVold
+p65
+I1
+sVconcert
+p66
+I1
+sVbentley
+p67
+I1
+sVpeople
+p68
+I8
+sVcitycity
+p69
+I24
+sVcrimes
+p70
+I1
+sVyeah
+p71
+I5
+sValive
+p72
+I1
+sVsex
+p73
+I1
+sVborn
+p74
+I1
+sVsecond
+p75
+I1
+sVhomo
+p76
+I1
+sVinna
+p77
+I7
+sVpass
+p78
+I1
+sVled
+p79
+I1
+sVbeyond
+p80
+I1
+sVting
+p81
+I1
+sVenemies
+p82
+I1
+sVcloser
+p83
+I1
+sVsurvivin
+p84
+I1
+sVsaid
+p85
+I1
+sVsince
+p86
+I1
+sVlean
+p87
+I2
+sVremain
+p88
+I1
+sVrrrrrahhhhh
+p89
+I1
+sVyet
+p90
+I1
+sVseriously
+p91
+I1
+sVfuture
+p92
+I1
+sVunderstood
+p93
+I1
+sVnew
+p94
+I29
+sVnet
+p95
+I1
+sVcause
+p96
+I1
+sVred
+p97
+I2
+sVdecks
+p98
+I1
+sVbody
+p99
+I1
+sVima
+p100
+I1
+sVsimultaneously
+p101
+I1
+sVbitches
+p102
+I1
+sVnever
+p103
+I2
+sVstep
+p104
+I1
+sVyork
+p105
+I29
+sValthough
+p106
+I1
+sVput
+p107
+I1
+sVsing
+p108
+I1
+sVstay
+p109
+I1
+sVsuper
+p110
+I1
+sVcops
+p111
+I1
+sVstage
+p112
+I1
+sVchapter
+p113
+I1
+sVsearch
+p114
+I1
+sVbackwards
+p115
+I1
+sVwouldnt
+p116
+I1
+sVisland
+p117
+I2
+sVdollars
+p118
+I1
+sVarmy
+p119
+I2
+sVsurround
+p120
+I1
+sVkeep
+p121
+I2
+sVsoldier
+p122
+I1
+sVfell
+p123
+I1
+sVstand
+p124
+I1
+sVlookin
+p125
+I1
+sVpick
+p126
+I1
+sVheartbeat
+p127
+I1
+sVignant
+p128
+I1
+sVsmokin
+p129
+I1
+sVmossberg
+p130
+I1
+sVdont
+p131
+I2
+sVmami
+p132
+I1
+sVcan
+p133
+I1
+sVsparklers
+p134
+I1
+sVhabitual
+p135
+I1
+sVmakin
+p136
+I1
+sVsocks
+p137
+I1
+sVone
+p138
+I1
+sVguzzle
+p139
+I1
+sVfire
+p140
+I1
+sVbitch
+p141
+I1
+sVanother
+p142
+I1
+sVsober
+p143
+I1
+sVcavalli
+p144
+I2
+sVsufferin
+p145
+I1
+sVhood
+p146
+I1
+sVmes
+p147
+I1
+sVreppin
+p148
+I1
+sVbilion
+p149
+I1
+sVwould
+p150
+I1
+sVhes
+p151
+I2
+sVtwenty
+p152
+I1
+sVtop
+p153
+I1
+sVgirls
+p154
+I4
+sVtwo
+p155
+I2
+sVlong
+p156
+I1
+sVnext
+p157
+I1
+sVanyone
+p158
+I1
+sVwhos
+p159
+I1
+sVattack
+p160
+I1
+sVlalalalalala
+p161
+I1
+sVcalm
+p162
+I1
+sVway
+p163
+I1
+sVrockin
+p164
+I2
+sVmusic
+p165
+I1
+sVscholar
+p166
+I1
+sVlisten
+p167
+I2
+sVrikers
+p168
+I1
+sVeyes
+p169
+I1
+sVthat
+p170
+I1
+sVclub
+p171
+I1
+sVwildest
+p172
+I1
+sVgas
+p173
+I1
+sVbut
+p174
+I1
+sVit
+p175
+I1
+sVheinous
+p176
+I1
+sV98
+p177
+I1
+sVhear
+p178
+I1
+sVcuttin
+p179
+I1
+sVcatch
+p180
+I1
+sVhold
+p181
+I2
+sV97
+p182
+I1
+sVwildin
+p183
+I1
+sVme
+p184
+I1
+sVking
+p185
+I1
+sVcracks
+p186
+I1
+sVword
+p187
+I1
+sVlook
+p188
+I1
+sVniggas
+p189
+I1
+sVroberto
+p190
+I2
+sVcash
+p191
+I1
+sVroof
+p192
+I1
+sVcat
+p193
+I2
+sVcrystal
+p194
+I1
+sVsadness
+p195
+I1
+sVcondominium
+p196
+I1
+sVdem
+p197
+I5
+sVprophet
+p198
+I1
+sVheartical
+p199
+I1
+sVsay
+p200
+I1
+sVtat
+p201
+I1
+sVmini
+p202
+I1
+sVdozer
+p203
+I1
+sVclose
+p204
+I1
+sVcodeine
+p205
+I1
+sVblood
+p206
+I1
+sVfuck
+p207
+I1
+sVcant
+p208
+I4
+sVyutes
+p209
+I1
+sVim
+p210
+I3
+sVat
+p211
+I3
+sVrap
+p212
+I2
+sVink
+p213
+I1
+sVpromethazine
+p214
+I1
+sVmoves
+p215
+I1
+sVshit
+p216
+I2
+sVphantom
+p217
+I1
+sVchocha
+p218
+I1
+sVmartyr
+p219
+I1
+sVbottles
+p220
+I2
+sVtechs
+p221
+I1
+sVsix
+p222
+I1
+sVpoetry
+p223
+I1
+sVreality
+p224
+I1
+sVtil
+p225
+I1
+sVnas
+p226
+I50
+sVget
+p227
+I1
+sVbig
+p228
+I3
+sVhigher
+p229
+I1
+sVeven
+p230
+I1
+sVsnaps
+p231
+I1
+sVused
+p232
+I1
+sVsee
+p233
+I1
+sVposed
+p234
+I1
+sValert
+p235
+I1
+sVova
+p236
+I4
+sVmad
+p237
+I5
+sVsalaam
+p238
+I1
+sVfriends
+p239
+I1
+sVqueens
+p240
+I1
+sVghost
+p241
+I1
+sVsomethin
+p242
+I2
+sVremix
+p243
+I2
+sVafford
+p244
+I3
+sVdon
+p245
+I6
+sVasscrack
+p246
+I1
+sVtry
+p247
+I1
+sVclear
+p248
+I1
+sVindonesia
+p249
+I1
+sVdada
+p250
+I3
+sVsmoker
+p251
+I1
+sVstash
+p252
+I1
+sVjacket
+p253
+I2
+sVgreen
+p254
+I2
+sVbottle
+p255
+I1
+sVtime
+p256
+I1
+sVmodel
+p257
+I1
+sVthats
+p258
+I1
+sVknow
+p259
+I1
+s.

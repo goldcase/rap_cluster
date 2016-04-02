@@ -1,84 +1,689 @@
-"heat" lyrics
-common lyrics
-"heat"
-yeah, one two..
-yeah, where my nigga jay dee?
-where ya at? (yeah!)
-(oooh, you say you got guns, then bring that shit) what?
-(you say you got ones, then bring that shit
-cause you need a lot more ones and guns for this) what?
-(to get my man see we bout to spit some) hot shit
-yeah, one two..
-bout to spit that, hot shit
-huh.. whoo! yeah..
-turn it down nigga, hot shit
-yeah.. (oooh)
-messenger in the metropolis; +apocalypse+ here and +now+
-niggaz know the ledge, so they don't come near the style
-i appear in clouds on some heaven to earth shit
-fake niggaz drown the deeper the verse gets
-deep as a skinny girl's cunt - i surface with the purpose
-to let y'all niggaz know the demo
-voice is a instrument that's monumental
-you couldn't fuck with the style if you was a nympho
-raised in the temple of chi, taught to look into the eye
-i identify with dobbs and weaves, and niggaz makin moves
-that bob and weave, and niggaz with jobs on the side sell weed
-i feed off the hunger that a bum or abandoned child gets
-freaky, like marv albert, in outfits, by chaka givens
-i lecture how i got god but don't got religion
-got a clip for these niggaz on the net, sellin my shit
-let's just say you ramone and i'm spit
-in a habitat of cadillacs and battle raps
-and people that travel at the speed of need
-never agree with the ways of the world
-cats say anything - like they say to they girl
-how you bringin it when you sit indian style?
-niggaz know me as com it's time hear me go wild
-with hot shit, yeah..
-hot shit, yeah, one two..
-came to bring it boy
-(you say you got guns, then bring that shit
-you say you got ones, then bring that shit
-cause you need a lot more ones and guns for this) what?
-(to get my man see we bout to spit some) hot shit
-what? no doubt.. hot shit!
-old men see visions young men dream dreams
-i rock the planet - recognize - i'm the c.r.e.a.m.
-com rules everything and everything is
-how yo' man pullin yo' weight - he ain't carryin his
-scary the biz is like "the blair witch project"
-experiment in rooms on some bare bitch project
-state senators, life twirls, most sell out
-- like a dread with a white girl
-you want me to cypher with you and the gods?
-i just did a show - i'm pursuin these broads
-everyone i ain't tryin to fuck
-wanna feel female presence and conversation a touch
-you'll get split like a date that's dutch scuffed and scraped up
-taped up for tryin to say what - ever you was about to say
-you rap like a nigga that's about to spray
-get a mouth shot, for openin your mouth to say
-feel my heat in the night - it leaves you without the day
-what i write is a passage for niggaz to travel through
-before defeatin me - joe, you better battle you
-i tap into my own zone like it's my home phone
-turn the cell off and let my dome roam
-shame i gotta do white labels to keep my life stable
-i write fatal bringin niggaz to life
-a wise man came in the thick of the night
-he said bring that shit when you pick up the mic
-i said, "what shit?"
-he said hot shit, hot shit, hot shit
-(you say you got guns, then bring that shit) uhhh
-(you say you got ones, then bring that shit
-cause you need a lot more ones and guns for this) uhh
-(me and my man, see we known to spit this) hot shit
-hot shit, yeah, yeah, uhh
-what we spit jay? (throw it down nigga)
-hot shit, uh, yeah, uh, c'mon, yeah (keep it goin)
-hot shit..
-hot shit..
-hot shit.. yeah, boy (keep it goin)
-hot shit.. out
-hot..
+(dp1
+Vsenators
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVhunger
+p5
+I1
+sVgods
+p6
+I1
+sVkeep
+p7
+I3
+sVchild
+p8
+I1
+sVbring
+p9
+I8
+sVcarryin
+p10
+I1
+sVidentify
+p11
+I1
+sVrooms
+p12
+I1
+sVbattle
+p13
+I2
+sVearth
+p14
+I1
+sVconversation
+p15
+I1
+sVspeed
+p16
+I1
+sVaint
+p17
+I2
+sVstyle
+p18
+I3
+sVtwirls
+p19
+I1
+sVzone
+p20
+I1
+sVjay
+p21
+I2
+sVshow
+p22
+I1
+sVyoung
+p23
+I1
+sVpassage
+p24
+I1
+sVbetter
+p25
+I1
+sVinstrument
+p26
+I1
+sVverse
+p27
+I1
+sVexperiment
+p28
+I1
+sVstable
+p29
+I1
+sVbout
+p30
+I3
+sVlets
+p31
+I1
+sVta
+p32
+I1
+sVhis
+p33
+I1
+sVyo
+p34
+I2
+sVget
+p35
+I4
+sVya
+p36
+I1
+sVrock
+p37
+I1
+sVopenin
+p38
+I1
+sVones
+p39
+I6
+sVbiz
+p40
+I1
+sVknow
+p41
+I3
+sVlecture
+p42
+I1
+sVworld
+p43
+I1
+sVnow
+p44
+I1
+sVday
+p45
+I1
+sVdreams
+p46
+I1
+sVabandoned
+p47
+I1
+sVheaven
+p48
+I1
+sVclouds
+p49
+I1
+sVlike
+p50
+I7
+sVfreaky
+p51
+I1
+sVtemple
+p52
+I1
+sVlabels
+p53
+I1
+sVmonumental
+p54
+I1
+sVcommon
+p55
+I1
+sVoooh
+p56
+I2
+sVthrough
+p57
+I1
+sVweaves
+p58
+I1
+sVside
+p59
+I1
+sVyall
+p60
+I1
+sVnigga
+p61
+I4
+sVold
+p62
+I1
+sVhabitat
+p63
+I1
+sVpeople
+p64
+I1
+sVdefeatin
+p65
+I1
+sVtouch
+p66
+I1
+sVyeah
+p67
+I13
+sVgo
+p68
+I1
+sVsee
+p69
+I4
+sVtaught
+p70
+I1
+sVbare
+p71
+I1
+sVhome
+p72
+I1
+sVgirl
+p73
+I2
+sVscraped
+p74
+I1
+sVthick
+p75
+I1
+sVout
+p76
+I2
+sVproject
+p77
+I2
+sVwhat
+p78
+I3
+sVsaid
+p79
+I3
+sVappear
+p80
+I1
+sVscuffed
+p81
+I1
+sVways
+p82
+I1
+sVgod
+p83
+I1
+sVcell
+p84
+I1
+sVreligion
+p85
+I1
+sVstate
+p86
+I1
+sVindian
+p87
+I1
+sVmessenger
+p88
+I1
+sVeverything
+p89
+I2
+sVgot
+p90
+I10
+sVnet
+p91
+I1
+sVcause
+p92
+I3
+sVguns
+p93
+I6
+sVmetropolis
+p94
+I1
+sVmen
+p95
+I2
+sVjobs
+p96
+I1
+sVdoubt
+p97
+I1
+sVnever
+p98
+I1
+sVdome
+p99
+I1
+sVpursuin
+p100
+I1
+sVever
+p101
+I1
+sVspray
+p102
+I1
+sVlet
+p103
+I2
+sVjoe
+p104
+I1
+sVcome
+p105
+I1
+sVthrow
+p106
+I1
+sVboy
+p107
+I2
+sVanything
+p108
+I1
+sVfatal
+p109
+I1
+sVleaves
+p110
+I1
+sVoutfits
+p111
+I1
+sVturn
+p112
+I2
+sVyoull
+p113
+I1
+sVroam
+p114
+I1
+sVwitch
+p115
+I1
+sVbob
+p116
+I1
+sVapocalypse
+p117
+I1
+sVcom
+p118
+I2
+sVthats
+p119
+I3
+sVfeed
+p120
+I1
+sVraised
+p121
+I1
+sVdont
+p122
+I2
+sVpresence
+p123
+I1
+sVfeel
+p124
+I2
+sVmakin
+p125
+I1
+sVone
+p126
+I3
+sVeveryone
+p127
+I1
+sVbitch
+p128
+I1
+sVfemale
+p129
+I1
+sVfake
+p130
+I1
+sVcouldnt
+p131
+I1
+sVvisions
+p132
+I1
+sVdobbs
+p133
+I1
+sVwan
+p134
+I1
+sVeye
+p135
+I1
+sVweight
+p136
+I1
+sVgoin
+p137
+I2
+sVagree
+p138
+I1
+sVchi
+p139
+I1
+sVnight
+p140
+I2
+sVgirls
+p141
+I1
+sVtwo
+p142
+I3
+sVmarv
+p143
+I1
+sVwhoo
+p144
+I1
+sVlot
+p145
+I3
+sVrecognize
+p146
+I1
+sVwhite
+p147
+I2
+sVman
+p148
+I5
+sVgivens
+p149
+I1
+sVramone
+p150
+I1
+sVdeeper
+p151
+I1
+sVspit
+p152
+I6
+sVscary
+p153
+I1
+sVhuh
+p154
+I1
+sVphone
+p155
+I1
+sVheat
+p156
+I3
+sVdrown
+p157
+I1
+sVhear
+p158
+I1
+sVsurface
+p159
+I1
+sVbringin
+p160
+I2
+sVbum
+p161
+I1
+sVknown
+p162
+I1
+sVcmon
+p163
+I1
+sVcunt
+p164
+I1
+sVcypher
+p165
+I1
+sVwise
+p166
+I1
+sVlook
+p167
+I1
+sVtryin
+p168
+I2
+sVtaped
+p169
+I1
+sVup
+p170
+I1
+sVniggaz
+p171
+I9
+sVplanet
+p172
+I1
+sVbroads
+p173
+I1
+sVnear
+p174
+I1
+sVuh
+p175
+I2
+sVwild
+p176
+I1
+sVcats
+p177
+I1
+sVvoice
+p178
+I1
+sVdee
+p179
+I1
+sVpick
+p180
+I1
+sVchaka
+p181
+I1
+sVtap
+p182
+I1
+sVrap
+p183
+I1
+sVclip
+p184
+I1
+sVraps
+p185
+I1
+sVdemo
+p186
+I1
+sVis
+p187
+I1
+sVfuck
+p188
+I2
+sVdeep
+p189
+I1
+sVshame
+p190
+I1
+sVsay
+p191
+I12
+sVim
+p192
+I3
+sVwant
+p193
+I1
+sVneed
+p194
+I4
+sVmoves
+p195
+I1
+sVshit
+p196
+I27
+sVcream
+p197
+I1
+sVsell
+p198
+I2
+sVsellin
+p199
+I1
+sVna
+p200
+I1
+sVtravel
+p201
+I2
+sVwrite
+p202
+I2
+sVrules
+p203
+I1
+sVhot
+p204
+I18
+sVsplit
+p205
+I1
+sVledge
+p206
+I1
+sVyou
+p207
+I1
+sVgets
+p208
+I2
+sVuhh
+p209
+I2
+sVuhhh
+p210
+I1
+sValbert
+p211
+I1
+sVblair
+p212
+I1
+sVdutch
+p213
+I1
+sVweed
+p214
+I1
+sVmouth
+p215
+I2
+sVpurpose
+p216
+I1
+sVdate
+p217
+I1
+sVpullin
+p218
+I1
+sVweave
+p219
+I1
+sVsit
+p220
+I1
+sVlife
+p221
+I3
+sVnympho
+p222
+I1
+sVwithout
+p223
+I1
+sVdread
+p224
+I1
+sVtime
+p225
+I1
+sVcadillacs
+p226
+I1
+sVskinny
+p227
+I1
+sVdream
+p228
+I1
+sVmic
+p229
+I1
+sVcame
+p230
+I2
+s.

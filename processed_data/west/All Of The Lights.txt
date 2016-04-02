@@ -1,109 +1,395 @@
-lights lyrics
-kanye west lyrics
-lights
-feat john legend thedream elly jackson alicia keys fergie kid cudi elton john rihanna
-lights
-lights
-lights
-lights
-turn lights baby
-extra bright want yall see this
-turn lights baby
-know need
-want see everything
-want see lights
-lights
-fast cars shooting stars
-lights lights
-vegas everywhere are
-lights lights
-want get rest life
-something wrong
-hold head
-mj gone nigga dead
-slapped girl called feds
-time spent bread
-i’m heading home i’m almost there
-i’m way heading stairs
-surprise nigga replacing me
-take em ghetto university
-lights
-cop lights flash lights spot lights
-strobe lights street lights
-lights
-lights
-fast life drug life
-thug life rock life
-every night
-lights
-turn lights baby
-extra bright want yall see this
-turn lights baby
-know need
-want see everything
-want see lights
-restraining order
-can’t see daughter
-mother brother grandmother hate order
-public visitation
-met borders
-told take back
-i’ll supportive
-made mistakes
-bump head
-courts suck dry
-spent bread
-need daddy
-baby please can’t let grow ghetto university
-lights
-cop lights flash lights spot lights
-strobe lights street lights
-lights
-lights
-fast life drug life
-thug life rock life
-every night
-lights
-turn lights baby
-extra bright want yall see this
-turn lights baby
-know need
-want see everything
-want see lights
-getting mine baby
-gotta let niggas know yeah
-get right ay
-go get own
-getting mine baby
-gotta let niggas know yeah
-get right ay
-go get own
-unemployment line credit card declined
-mention lose mind
-mind mind mind
-also line
-okay okay know going way time
-time time time
-going way time
-time time time time
-going way time
-going way time
-going way time
-going way time
-turn lights baby
-extra bright want yall see this
-turn lights baby
-know need want see everything
-want see lights
-whoaaohwhoa
-whoaaohwhoaoh
-tried tell could say oh
-whoaaohwhoa
-whoaaohwhoaoh
-tried tell could say oh
-whoaaohwhoa
-whoaaohwhoaoh
-tried tell could say oh
-whoaaohwhoa
-whoaaohwhoaoh
-tried tell could say oh
+(dp1
+Vlyrics
+p2
+I2
+sVrestraining
+p3
+I1
+sVunemployment
+p4
+I1
+sVrest
+p5
+I1
+sVbright
+p6
+I4
+sVmistakes
+p7
+I1
+sVgo
+p8
+I2
+sVkanye
+p9
+I1
+sVfeat
+p10
+I1
+sVkeys
+p11
+I1
+sVlights
+p12
+I41
+sVflash
+p13
+I2
+sVrihanna
+p14
+I1
+sVgoing
+p15
+I6
+sVbread
+p16
+I2
+sVta
+p17
+I2
+sVget
+p18
+I5
+sVi\u2019m
+p19
+I3
+sValicia
+p20
+I1
+sVmention
+p21
+I1
+sVay
+p22
+I2
+sVvegas
+p23
+I1
+sVevery
+p24
+I2
+sVknow
+p25
+I7
+sVgot
+p26
+I2
+sVghetto
+p27
+I2
+sVuniversity
+p28
+I2
+sVbrother
+p29
+I1
+sVnight
+p30
+I2
+sVheading
+p31
+I2
+sVyall
+p32
+I4
+sVem
+p33
+I1
+sVnigga
+p34
+I2
+sVbump
+p35
+I1
+sVback
+p36
+I1
+sVdead
+p37
+I1
+sVsee
+p38
+I13
+sVstreet
+p39
+I2
+sVare
+p40
+I1
+sVhome
+p41
+I1
+sVgirl
+p42
+I1
+sVsupportive
+p43
+I1
+sVdeclined
+p44
+I1
+sVelton
+p45
+I1
+sVjackson
+p46
+I1
+sVhate
+p47
+I1
+sVplease
+p48
+I1
+sVslapped
+p49
+I1
+sVgrandmother
+p50
+I1
+sVeverything
+p51
+I4
+sVsurprise
+p52
+I1
+sVpublic
+p53
+I1
+sVtold
+p54
+I1
+sVcan\u2019t
+p55
+I2
+sVcars
+p56
+I1
+sVrock
+p57
+I2
+sVmet
+p58
+I1
+sVlet
+p59
+I3
+sVlegend
+p60
+I1
+sVcard
+p61
+I1
+sVdry
+p62
+I1
+sVcop
+p63
+I2
+sVdaughter
+p64
+I1
+sVgetting
+p65
+I2
+sVwhoaaohwhoa
+p66
+I4
+sVcould
+p67
+I4
+sVwrong
+p68
+I1
+sVdrug
+p69
+I2
+sVturn
+p70
+I8
+sVwhoaaohwhoaoh
+p71
+I4
+sVcudi
+p72
+I1
+sVthedream
+p73
+I1
+sVown
+p74
+I2
+sVextra
+p75
+I4
+sVright
+p76
+I2
+sVwest
+p77
+I1
+sVthere
+p78
+I1
+sVfast
+p79
+I3
+sVstars
+p80
+I1
+sVborders
+p81
+I1
+sVjohn
+p82
+I2
+sVtell
+p83
+I4
+sVhead
+p84
+I2
+sVway
+p85
+I7
+sVvisitation
+p86
+I1
+sVmine
+p87
+I2
+sVeverywhere
+p88
+I1
+sVcourts
+p89
+I1
+sVbaby
+p90
+I11
+sVline
+p91
+I2
+sVhold
+p92
+I1
+sVstairs
+p93
+I1
+sVme
+p94
+I1
+sVmade
+p95
+I1
+sVniggas
+p96
+I2
+sVthis
+p97
+I4
+sVoh
+p98
+I4
+sVmj
+p99
+I1
+sVdaddy
+p100
+I1
+sVcalled
+p101
+I1
+sVgone
+p102
+I1
+sValmost
+p103
+I1
+sVmind
+p104
+I4
+sVlife
+p105
+I9
+sVthug
+p106
+I2
+sVsay
+p107
+I4
+sVsomething
+p108
+I1
+sVwant
+p109
+I13
+sVneed
+p110
+I5
+sVshooting
+p111
+I1
+sVcredit
+p112
+I1
+sValso
+p113
+I1
+sVtake
+p114
+I2
+sVokay
+p115
+I2
+sVtried
+p116
+I4
+sVreplacing
+p117
+I1
+sVtime
+p118
+I14
+sVspot
+p119
+I2
+sVelly
+p120
+I1
+sVfeds
+p121
+I1
+sVsuck
+p122
+I1
+sVgrow
+p123
+I1
+sVkid
+p124
+I1
+sVyeah
+p125
+I2
+sVi\u2019ll
+p126
+I1
+sVlose
+p127
+I1
+sVspent
+p128
+I2
+sVfergie
+p129
+I1
+sVstrobe
+p130
+I2
+sVmother
+p131
+I1
+sVorder
+p132
+I2
+s.

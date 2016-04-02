@@ -1,32 +1,232 @@
-"u betta recognize (pump pump intro)" lyrics
-snoop dogg lyrics
-"u betta recognize (pump pump intro)"
-(feat. sam sneed)
-oh shit is, is that snoop over there?  oh shit
-fuck that nigga bitch.  my name is sam sneed you betta recognize
-aiyyo, aiy, i'm sorry, i just love that nigga he is so fine
-man fuck that nigga
-his music is so fuckin dope
-hey look sam man, i gotta go pee i'll be right back aight
-yeah aight
-yeah yeah i'm just slidin you know
-get this henny tap in my vein
-yo snoop whassup snoop?
-ay, hold up, yo
-hey, how you doin?
-whas happenin?
-yo snoop you know i just love your shit you are just so fine to me
-aiyyo bitch, bring your black ass back over
-what the fuck's wrong with you?
-yo whas happenin is that your nigga or somethin?
-look check this shit out that nigga he don't run me ok?
-i'm talkin to you that's all
-yeah whassup nigga?  what the fuck's wrong with you?
-yo nigga whas happenin fool?
-you know the name of the game, your bitch chose me
-nigga we can handle this like some gentlemen
-or we can get into some gangsta shit
-so whassup nigga?
-have it your motherfuckin way
-well whassup?
-that's whassup nigga
+(dp1
+Vfool
+p2
+I1
+sVall
+p3
+I1
+sVnigga
+p4
+I10
+sVlove
+p5
+I2
+sVdont
+p6
+I1
+sVlyrics
+p7
+I2
+sVlook
+p8
+I2
+sVrecognize
+p9
+I3
+sVover
+p10
+I1
+sVfuck
+p11
+I2
+sVfucks
+p12
+I2
+sVay
+p13
+I1
+sVintro
+p14
+I2
+sVim
+p15
+I3
+sVbitch
+p16
+I3
+sVgo
+p17
+I1
+sVtap
+p18
+I1
+sVfeat
+p19
+I1
+sVcheck
+p20
+I1
+sVshit
+p21
+I5
+sVlike
+p22
+I1
+sVsam
+p23
+I3
+sVsnoop
+p24
+I5
+sVhandle
+p25
+I1
+sVdogg
+p26
+I1
+sVhappenin
+p27
+I3
+sVhey
+p28
+I2
+sVblack
+p29
+I1
+sVgentlemen
+p30
+I1
+sVpump
+p31
+I4
+sVhenny
+p32
+I1
+sVmusic
+p33
+I1
+sVok
+p34
+I1
+sVway
+p35
+I1
+sVwhassup
+p36
+I5
+sVgot
+p37
+I1
+sVsorry
+p38
+I1
+sVbring
+p39
+I1
+sVdoin
+p40
+I1
+sVta
+p41
+I1
+sVass
+p42
+I1
+sVme
+p43
+I2
+sVrun
+p44
+I1
+sVchose
+p45
+I1
+sVright
+p46
+I1
+sVget
+p47
+I2
+sVdope
+p48
+I1
+sVyo
+p49
+I5
+sVsneed
+p50
+I2
+sVback
+p51
+I2
+sVwrong
+p52
+I2
+sVgame
+p53
+I1
+sVaiyyo
+p54
+I2
+sVpee
+p55
+I1
+sVslidin
+p56
+I1
+sVhold
+p57
+I1
+sVyou
+p58
+I2
+sVvein
+p59
+I1
+sVman
+p60
+I2
+sVyeah
+p61
+I4
+sVwhas
+p62
+I3
+sVaiy
+p63
+I1
+sVname
+p64
+I2
+sVoh
+p65
+I2
+sVmotherfuckin
+p66
+I1
+sVill
+p67
+I1
+sVwell
+p68
+I1
+sVbetta
+p69
+I3
+sVfine
+p70
+I2
+sVtalkin
+p71
+I1
+sVsomethin
+p72
+I1
+sVgangsta
+p73
+I1
+sVu
+I2
+sVaight
+p74
+I2
+sVthats
+p75
+I2
+sVfuckin
+p76
+I1
+sVknow
+p77
+I3
+s.

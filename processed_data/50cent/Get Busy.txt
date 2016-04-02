@@ -1,79 +1,440 @@
-"get busy" lyrics
-50 cent lyrics
-"get busy"
-(feat. kidd kidd)
-get busy
-get busy
-i'm insane yea, shit changed
-i'm the head of that bang, bang
-anywhere gang,
-make it rain, trick
-make it rain
-i hold on to mine
-and buy more cocaine, i'm
-off the chain
-nigga i ain't playin'
-i get it him with the semi nigga
-stun i let it rain
-he rap i rap
-but we ain't the same
-he love a dame
-i run a train
-canary yellow rocks in my ring
-everything private, my hoes in my planes
-every now bartender more champaigne
-i shawn like crowman's arizona rain
-i stunt when i want
-i ain't never gonna change
-i go load the wood in my cardian frames
-this what happens when a bebe kid,
-blow up, up on out this bitch
-i ball out bottles after bottles
-'till i fall out
-i stunt, i do it my way
-i'm on now, get my money long now
-look here, nigga you ain't got it like me
-you don't like me
-get busy get busy
-do somethin
-get busy get busy
-you don't like me
-get busy get busy
-do somethin
-tell me why you don't like me
-my chain too icy
-the diamonds on my right hand
-striking like lightning
-throwing cake on your wife
-when she liking the icing and uh
-it's not even my birthday
-she tellin' me she love me
-and i wanna be your happy pusher
-then pulled the beetle in the first place
-nah dance the ali key let me hold some
-look 'cause i know you know
-and i know you nothing
-with your rope in, coat in
-type of shit gonna get wild with no man
-ride a game thing, play the bitch without the ball
-it's my night boy better love 'till mor'
-i'm a boss plus walking big ballin' and
-talking, benz parking, rims glosin', click closer
-tell her way you drained the bottles
-with the towels sparkling
-say money talks, bitch my money talks
-now
-i ball out bottles after bottles
-'till i fall out
-i stunt, i do it my way
-i'm on now, get my money long now
-look here, you ain't got it like me
-doing like me
-get busy get busy
-too stunt
-doing like me
-get busy busy
-too stunt
-doing like me
-get busy busy
-yeah
+(dp1
+Vwalking
+p2
+I1
+sVlyrics
+p3
+I2
+sVali
+p4
+I1
+sVyea
+p5
+I1
+sVmoney
+p6
+I4
+sVcanary
+p7
+I1
+sVgang
+p8
+I1
+sVgo
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I5
+sVbusy
+p12
+I16
+sVchain
+p13
+I2
+sVsparkling
+p14
+I1
+sVbetter
+p15
+I1
+sVdance
+p16
+I1
+sVwood
+p17
+I1
+sVbebe
+p18
+I1
+sVicing
+p19
+I1
+sVget
+p20
+I18
+sVmor
+p21
+I1
+sVbang
+p22
+I2
+sVevery
+p23
+I1
+sVyellow
+p24
+I1
+sVfall
+p25
+I2
+sVstunt
+p26
+I5
+sVnow
+p27
+I3
+sVlike
+p28
+I10
+sVsemi
+p29
+I1
+sVcause
+p30
+I1
+sV50
+p31
+I1
+sVrocks
+p32
+I1
+sVnight
+p33
+I1
+sVinsane
+p34
+I1
+sVnigga
+p35
+I3
+sVthrowing
+p36
+I1
+sVsome
+p37
+I1
+sVyeah
+p38
+I1
+sVtalks
+p39
+I2
+sVhoes
+p40
+I1
+sVplayin
+p41
+I1
+sVliking
+p42
+I1
+sVlightning
+p43
+I1
+sVclick
+p44
+I1
+sVout
+p45
+I2
+sVhappens
+p46
+I1
+sVrope
+p47
+I1
+sVgon
+p48
+I2
+sVcloser
+p49
+I1
+sVchampaigne
+p50
+I1
+sVeverything
+p51
+I1
+sVicy
+p52
+I1
+sVdiamonds
+p53
+I1
+sVgot
+p54
+I2
+sVstun
+p55
+I1
+sVblow
+p56
+I1
+sVcrowmans
+p57
+I1
+sVarizona
+p58
+I1
+sVrun
+p59
+I1
+sVrims
+p60
+I1
+sVnever
+p61
+I1
+sVboss
+p62
+I1
+sVwild
+p63
+I1
+sVlet
+p64
+I2
+sVkey
+p65
+I1
+sVchange
+p66
+I1
+sVboy
+p67
+I1
+sVchanged
+p68
+I1
+sVthing
+p69
+I1
+sVkidd
+p70
+I2
+sVfirst
+p71
+I1
+sVload
+p72
+I1
+sVlove
+p73
+I3
+sVdont
+p74
+I3
+sVstriking
+p75
+I1
+sVparking
+p76
+I1
+sVprivate
+p77
+I1
+sVright
+p78
+I1
+sVbitch
+p79
+I3
+sVtowels
+p80
+I1
+sVframes
+p81
+I1
+sVring
+p82
+I1
+sVcocaine
+p83
+I1
+sVballin
+p84
+I1
+sVwan
+p85
+I1
+sVlong
+p86
+I2
+sVcent
+p87
+I1
+sVbenz
+p88
+I1
+sVway
+p89
+I3
+sVman
+p90
+I1
+sVtype
+p91
+I1
+sVtell
+p92
+I2
+sVdame
+p93
+I1
+sVhead
+p94
+I1
+sVbuy
+p95
+I1
+sVshawn
+p96
+I1
+sVtrain
+p97
+I1
+sVhold
+p98
+I2
+sVme
+p99
+I9
+sVbartender
+p100
+I1
+sVlook
+p101
+I3
+sVride
+p102
+I1
+sVtellin
+p103
+I1
+sVtrick
+p104
+I1
+sVanywhere
+p105
+I1
+sVuh
+p106
+I1
+sVplanes
+p107
+I1
+sVcake
+p108
+I1
+sVhappy
+p109
+I1
+sVand
+p110
+I1
+sVplus
+p111
+I1
+sVrap
+p112
+I2
+sVpusher
+p113
+I1
+sVbeetle
+p114
+I1
+sVmine
+p115
+I1
+sVtalking
+p116
+I1
+sVsay
+p117
+I1
+sVim
+p118
+I6
+sVwant
+p119
+I1
+sVin
+p120
+I1
+sVshit
+p121
+I2
+sVbottles
+p122
+I5
+sVdrained
+p123
+I1
+sVna
+p124
+I3
+sVmake
+p125
+I2
+sVsame
+p126
+I1
+sVtill
+p127
+I3
+sVbig
+p128
+I1
+sVplace
+p129
+I1
+sVglosin
+p130
+I1
+sVeven
+p131
+I1
+sVplay
+p132
+I1
+sVball
+p133
+I3
+sVrain
+p134
+I4
+sVhand
+p135
+I1
+sVbirthday
+p136
+I1
+sVcardian
+p137
+I1
+sVnothing
+p138
+I1
+sVkid
+p139
+I1
+sVsomethin
+p140
+I2
+sVwife
+p141
+I1
+sVcoat
+p142
+I1
+sVgame
+p143
+I1
+sVwithout
+p144
+I1
+sVpulled
+p145
+I1
+sVnah
+p146
+I1
+sVknow
+p147
+I3
+s.

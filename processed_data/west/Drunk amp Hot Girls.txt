@@ -1,57 +1,380 @@
-drunk  hot girls lyrics
-kanye west lyrics
-drunk  hot girls
-feat mos def
-ra ra ra ra ra ra brrraaa
-go much bullshit mess drunk hot girls
-go much bullshit mess drunk hot girls
-looks like mami cant buy everything
-go much bullshit mess mess drunk
-drunk hot girls
-driving around town looking best spot the
-drunk hot girls
-club look got some
-drunk hot girls
-stop dancing girlfriend come dance me
-stop talking boyfriend since me
-stop running tab cause drinks free
-drunk hot girl
-go much bullshit mess drunk hot girls
-go much bullshit mess drunk hot girls
-go much bullshit mess mess all
-drunk hot girls
-dont wanna drop friends want you
-drunk hot girl
-wanna sit hit drive through
-drunk hot girl
-please dont fall asleep baby almost back
-please dont throw car almost crash
-oh sober howd know youd say that
-drunk hot girl
-gonna much bullshit mess drunk hot girls
-go much bullshit mess drunk hot girls
-go much bullshit mess mess drunk
-drunk hot girls
-lot dangerous necessity people seek without regard
-human heart curious things
-laa lights low
-eyes bright
-music makes sweet delight
-inside im feeling right
-dress tight
-oh waaaa ow want right now
-dont tell singyou bout get deal
-drunk hot girls
-aaa aaa aa aa aa thats fuck sound
-drunk hot girl
-live whatever like
-thought id one night
-im girl rest life
-drunk hot girl
-go much bullshit mess drunk hot girls
-little sippy sippy
-gonna much bullshit mess drunk hot girls
-want little whisky
-go much bullshit mess mess drunk
-drunk hot girls
-ra ra ra ra ra ra brrraaa
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I1
+sVsound
+p5
+I1
+sVrest
+p6
+I1
+sVbright
+p7
+I1
+sVthrough
+p8
+I1
+sVlooks
+p9
+I1
+sVhuman
+p10
+I1
+sVgo
+p11
+I10
+sVkanye
+p12
+I1
+sVfeat
+p13
+I1
+sVlights
+p14
+I1
+sVbrrraaa
+p15
+I2
+sVbout
+p16
+I1
+sVwhisky
+p17
+I1
+sVtown
+p18
+I1
+sVhit
+p19
+I1
+sVaround
+p20
+I1
+sVget
+p21
+I1
+sVmos
+p22
+I1
+sVstop
+p23
+I3
+sVknow
+p24
+I1
+sVfall
+p25
+I1
+sVnow
+p26
+I1
+sVbullshit
+p27
+I12
+sVlike
+p28
+I2
+sVdrop
+p29
+I1
+sVcar
+p30
+I1
+sVright
+p31
+I2
+sVdeal
+p32
+I1
+sVpeople
+p33
+I1
+sVsome
+p34
+I1
+sVback
+p35
+I1
+sVasleep
+p36
+I1
+sVcurious
+p37
+I1
+sVgirl
+p38
+I7
+sVbest
+p39
+I1
+sVdrinks
+p40
+I1
+sVgon
+p41
+I2
+sVdriving
+p42
+I1
+sVsince
+p43
+I1
+sVplease
+p44
+I2
+sVlooking
+p45
+I1
+sVeverything
+p46
+I1
+sVra
+p47
+I12
+sVgot
+p48
+I1
+sVcause
+p49
+I1
+sVsippy
+p50
+I2
+sVnight
+p51
+I1
+sVfree
+p52
+I1
+sVdress
+p53
+I1
+sVcome
+p54
+I1
+sVthrow
+p55
+I1
+sVoh
+p56
+I2
+sVow
+p57
+I1
+sVmakes
+p58
+I1
+sVthats
+p59
+I1
+sVdont
+p60
+I4
+sVdrunk
+p61
+I26
+sVsweet
+p62
+I1
+sVyoud
+p63
+I1
+sVwhatever
+p64
+I1
+sVone
+p65
+I1
+sVwaaaa
+p66
+I1
+sVsober
+p67
+I1
+sVwan
+p68
+I2
+sVlittle
+p69
+I2
+sVwest
+p70
+I1
+sVgirls
+p71
+I17
+sVmami
+p72
+I1
+sVlive
+p73
+I1
+sVmuch
+p74
+I12
+sVmusic
+p75
+I1
+sVlow
+p76
+I1
+sVlot
+p77
+I1
+sVtell
+p78
+I1
+sVeyes
+p79
+I1
+sVbuy
+p80
+I1
+sVthat
+p81
+I1
+sVclub
+p82
+I1
+sVregard
+p83
+I1
+sVbaby
+p84
+I1
+sVboyfriend
+p85
+I1
+sVme
+p86
+I2
+sVaaa
+p87
+I2
+sVlook
+p88
+I1
+sVdangerous
+p89
+I1
+sVinside
+p90
+I1
+sVsay
+p91
+I1
+sVfeeling
+p92
+I1
+sVdef
+p93
+I1
+sVaa
+p94
+I3
+sVheart
+p95
+I1
+sVwant
+p96
+I3
+sValmost
+p97
+I2
+sVfuck
+p98
+I1
+sVtalking
+p99
+I1
+sVcant
+p100
+I1
+sVim
+p101
+I2
+sVtab
+p102
+I1
+sVgirlfriend
+p103
+I1
+sVcrash
+p104
+I1
+sVseek
+p105
+I1
+sVsingyou
+p106
+I1
+sVsit
+p107
+I1
+sVna
+p108
+I4
+sVid
+p109
+I1
+sVtight
+p110
+I1
+sVhot
+p111
+I23
+sVyou
+p112
+I1
+sVmess
+p113
+I16
+sVspot
+p114
+I1
+sVlaa
+p115
+I1
+sVdelight
+p116
+I1
+sVrunning
+p117
+I1
+sVnecessity
+p118
+I1
+sVfriends
+p119
+I1
+sVdancing
+p120
+I1
+sVlife
+p121
+I1
+sVdrive
+p122
+I1
+sVthought
+p123
+I1
+sVwithout
+p124
+I1
+sVhowd
+p125
+I1
+sVthings
+p126
+I1
+sVthe
+p127
+I1
+s.

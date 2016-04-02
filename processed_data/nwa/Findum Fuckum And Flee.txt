@@ -1,80 +1,567 @@
-"findum, fuckum, and flee" lyrics
-n.w.a. lyrics
-"findum, fuckum, and flee"
-hehehehehehehahahahaha
-yeah, it's me again...
-so check it out - ladies, not gentlemen
-drop your draws, come and sit
-and let's get into this yeah ..
-easily i'm aproachin'
-there ain't no jokin'
-when the pussy holes are open
-ready to fuck until my dick is raw
-yo! the muthafuckin' devil son of law
-now it's the e, the mothafuckin' pussy beater
-and i'm a quick-up trick-up up a quid to trick up the bitch
-so come here bitch and lick up the lick up the lick up the dick
-now how many nuts would it take for me,
-to let that bitch graduate to lesson 3, let's see...
-(splash splash ..)
-ah you can see i straight wax that ass
-back up bitch unless you want nut in your eye
-i never never ever ever seen a bitch cry
-nut 1, nut 2 nut 4 5 6
-i lost the 3rd nut in the mix - fuck it!
-hey yo yella boy, let's rewind it!
-6 5 4 nut 3 is up
-gimme that gimme that gimme that nut
-you wanna feel the dick baby try your luck
-because the e likes to fuck fuck fuck yo
-i get 'em stuck-on and get the fuck on
-give 'em a dick to roam and tell 'em thanks for the pussy hole
-i find 'em fuck 'em and flee you know
-but before i d.o'
-yo, i take a ho' to the hotel
-to the motel
-to the holiday inn
-yo, if that bitch start fuckin' up (what's you do?)
-i'll just fuck her friend ...
-ah dr. dre (what up?) , my mellow (yo)
-it's on you, so whatcha gonna do?
-well, it's on and on and on and on
-yo the beat don't stoppin' 'till the break o' dawn
-yo, every bitch i know they wanna get with me
-the mothafuckin' notorious d-r-e
-spit game at a bitch while a nigga's around
-and you know most ho's knows not to clown
-'cause if a bitch tries to diss me
-what the fuck i lick her
-i smack the bitch up and shoot the nigga that's with her
-that's the kind of nigga that you're listenin' to
-talk to you for a minute get my dick in you .. yo
-now every single bitch got a price to pay
-up on the dicks of n.w.a
-i find 'em fuck 'em and flee you know
-but before i d.o'
-yo, i take a ho' to the hotel
-to the motel
-to the holiday inn (say what??!)
-if that bitch start fuckin' up, yo
-i'll just fuck her friend ...
-now m.c. ren (what up) my mellow (a check it out) it's on you so what
-the fuck you're gonna do?
-now gather 'round yo
-and check it out yo
-and all the bitches come and suck up all my balls yo
-and take a ticket to play with it like a slicky
-so put your lips on my big chocolate twinkie
-and you swallow all the nut
-if you bitches are smart
-to make my dick pop up like a pop-chart
-but after i nut i might leave you
-but first i must decieve you, because bitch i don't need you
-and don't say that you love me too
-'cause if i turn my back you would fuck the whole crew
-you're nothin' but a stank ho' tryin' to take my bank ho'
-so i have to let you know ..
-at a hotel
-and a motel
-and a holiday inn (say what??!)
-because if that bitch starts fuckin' up yo, i'll just fuck her friend ...
+(dp1
+Vdiss
+p2
+I1
+sVlyrics
+p3
+I2
+sVfindum
+p4
+I2
+sVnwa
+p5
+I2
+sVlove
+p6
+I1
+sVmellow
+p7
+I2
+sVfind
+p8
+I2
+sVaint
+p9
+I1
+sV1
+I1
+sVlikes
+p10
+I1
+sVdawn
+p11
+I1
+sVtill
+p12
+I1
+sVdr
+p13
+I1
+sVdick
+p14
+I6
+sVcrew
+p15
+I1
+sVbeat
+p16
+I1
+sVto
+p17
+I1
+sVlets
+p18
+I3
+sV4
+I2
+sVhehehehehehehahahahaha
+p19
+I1
+sVholiday
+p20
+I3
+sVmight
+p21
+I1
+sVsmart
+p22
+I1
+sVhos
+p23
+I1
+sVbank
+p24
+I1
+sVdo
+p25
+I5
+sVaround
+p26
+I1
+sVyo
+p27
+I15
+sVget
+p28
+I5
+sVmuthafuckin
+p29
+I1
+sVtrickup
+p30
+I1
+sVbreak
+p31
+I1
+sVshoot
+p32
+I1
+sVgame
+p33
+I1
+sVballs
+p34
+I1
+sVevery
+p35
+I2
+sVknow
+p36
+I5
+sV2
+I1
+sVticket
+p37
+I1
+sVflee
+p38
+I4
+sVminute
+p39
+I1
+sVlike
+p40
+I2
+sVeasily
+p41
+I1
+sVmc
+p42
+I1
+sVlost
+p43
+I1
+sVcause
+p44
+I2
+sVcry
+p45
+I1
+sVclown
+p46
+I1
+sVgather
+p47
+I1
+sVtry
+p48
+I1
+sVwhatcha
+p49
+I1
+sVwell
+p50
+I1
+sVnotorious
+p51
+I1
+sVround
+p52
+I1
+sVluck
+p53
+I1
+sVem
+p54
+I7
+sVdrop
+p55
+I1
+sVjokin
+p56
+I1
+sVnut
+p57
+I9
+sVyeah
+p58
+I2
+sVsee
+p59
+I2
+sVstoppin
+p60
+I1
+sVleave
+p61
+I1
+sVwhat
+p62
+I3
+sVgon
+p63
+I2
+sVdraws
+p64
+I1
+sV3rd
+p65
+I1
+sVmotel
+p66
+I3
+sVquickup
+p67
+I1
+sV3
+I2
+sVren
+p68
+I1
+sVbeater
+p69
+I1
+sVgot
+p70
+I1
+sVever
+p71
+I2
+sVass
+p72
+I1
+sVbitches
+p73
+I2
+sVnever
+p74
+I2
+sVlet
+p75
+I2
+sVlips
+p76
+I1
+sVput
+p77
+I1
+sVchocolate
+p78
+I1
+sVcome
+p79
+I3
+sVboy
+p80
+I1
+sVher
+p81
+I2
+sVmany
+p82
+I1
+sVill
+p83
+I3
+sVo
+I1
+sVturn
+p84
+I1
+sVroam
+p85
+I1
+sVswallow
+p86
+I1
+sVdre
+p87
+I2
+sVfuckin
+p88
+I3
+sVthats
+p89
+I2
+sVladies
+p90
+I1
+sVwhats
+p91
+I1
+sVdont
+p92
+I3
+sVfeel
+p93
+I1
+sVpussy
+p94
+I3
+sVaproachin
+p95
+I1
+sVson
+p96
+I1
+sVpop
+p97
+I1
+sVnigga
+p98
+I2
+sVtwinkie
+p99
+I1
+sVbitch
+p100
+I14
+sVlesson
+p101
+I1
+sVopen
+p102
+I1
+sVyella
+p103
+I1
+sVwan
+p104
+I2
+sVdevil
+p105
+I1
+sVeye
+p106
+I1
+sVwould
+p107
+I2
+sVstart
+p108
+I2
+sVslicky
+p109
+I1
+sVhey
+p110
+I1
+sVquid
+p111
+I1
+sVsplash
+p112
+I2
+sVtoo
+p113
+I1
+sV6
+I2
+sVgim
+p114
+I3
+sVtryin
+p115
+I1
+sVtell
+p116
+I1
+sVfriend
+p117
+I3
+sVback
+p118
+I2
+sVpopchart
+p119
+I1
+sVknows
+p120
+I1
+sVspit
+p121
+I1
+sVon
+p122
+I2
+sVwax
+p123
+I1
+sVfuck
+p124
+I14
+sVlistenin
+p125
+I1
+sVbig
+p126
+I1
+sVho
+p127
+I4
+sVbaby
+p128
+I1
+sVhole
+p129
+I1
+sVmust
+p130
+I1
+sVme
+p131
+I6
+sVkind
+p132
+I1
+sVdicks
+p133
+I1
+sVthanks
+p134
+I1
+sVniggas
+p135
+I1
+sVstraight
+p136
+I1
+sVup
+p137
+I1
+sVtrick
+p138
+I1
+sVstarts
+p139
+I1
+sVsay
+p140
+I3
+sVlick
+p141
+I4
+sVgive
+p142
+I1
+sVah
+p143
+I2
+sVit
+p144
+I2
+sVmothafuckin
+p145
+I2
+sVraw
+p146
+I1
+sVinn
+p147
+I3
+sVim
+p148
+I2
+sVnothin
+p149
+I1
+sVwant
+p150
+I1
+sVready
+p151
+I1
+sVseen
+p152
+I1
+sVcheck
+p153
+I3
+sVagain
+p154
+I1
+sVsit
+p155
+I1
+sVna
+p156
+I4
+sVmake
+p157
+I1
+sVnuts
+p158
+I1
+sVgraduate
+p159
+I1
+sVgentlemen
+p160
+I1
+sVmix
+p161
+I1
+sVneed
+p162
+I1
+sV5
+I2
+sVtake
+p163
+I5
+sVrewind
+p164
+I1
+sVyou
+p165
+I2
+sVplay
+p166
+I1
+sVhotel
+p167
+I3
+sVunless
+p168
+I1
+sVprice
+p169
+I1
+sVtries
+p170
+I1
+sVsuck
+p171
+I1
+sVlaw
+p172
+I1
+sVstank
+p173
+I1
+sVsingle
+p174
+I1
+sVfuckum
+p175
+I2
+sVe
+I2
+sVwhole
+p176
+I1
+sVyoure
+p177
+I3
+sVholes
+p178
+I1
+sVsmack
+p179
+I1
+sVdecieve
+p180
+I1
+sVstuckon
+p181
+I1
+sVpay
+p182
+I1
+sVfirst
+p183
+I1
+sVtalk
+p184
+I1
+s.

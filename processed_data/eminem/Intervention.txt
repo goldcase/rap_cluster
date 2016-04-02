@@ -1,75 +1,380 @@
-"intervention" lyrics
-eminem lyrics
-"intervention"
-(with linkin park)
-the cycle repeated
-as explosions broke in the sky
-all that i needed
-was the one thing i couldn't find
-and you were there at the turn
-waiting to let me know
-we're building it up
-to break it back down
-we're building it up
-to burn it down
-we can't wait
-to burn it to the ground
-the colors conflicted
-as the flames climbed into the clouds.
-i wanted to fix this
-but couldn't stop from tearing it down.
-and you were there at the turn
-caught in the burning glow
-and i was there at the turn
-waiting to let you know
-we're building it up
-to break it back down
-we're building it up
-to burn it down
-we can't wait
-to burn it to the ground
-you told me, "yes"
-you held me high
-and i believed when you told that lie
-i played soldier, you played king
-and struck me down, when i kissed that ring
-you lost that right, to hold that crown
-i built you up, but you let me down
-so when you fall, i'll take my turn
-and fan the flames
-as your blazes burn
-now, i ain't much of a poet but i know somebody once told me
-to seize the moment and don't squander it
-'cause you never know when it all could be over tomorrow
-so i keep conjuring, sometimes i wonder where these thoughts spawn from
-(yeah, pondering'll do you wonders.
-no wonder you're losing your mind the way it wanders.)
-yoda-loda-le-hee-hoo
-i think it went wandering off down yonder
-and stumbled on 'ta jeff vanvonderen
-'cause i need an interventionist
-to intervene between me and this monster
-and save me from myself and all this conflict
-'cause the very thing that i love's killing me and i can't conquer it
-my ocd's conking me in the head
-keep knocking, nobody's home, i'm sleepwalking
-i'm just relaying what the voice in my head's saying
-don't shoot the messenger, i'm just friends with the
-and you were there at the turn
-waiting to let me know
-we're building it up
-to break it back down
-we're building it up
-to burn it down
-we can't wait
-to burn it to the ground
-when you fall, i'll take my turn
-and fan the flames
-as your blazes burn
-we can't wait
-to burn it to the ground
-when you fall, i'll take my turn
-and fan the flames
-as your blazes burn
-we can't wait
-to burn it to the ground
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVheld
+p4
+I1
+sVcolors
+p5
+I1
+sVconjuring
+p6
+I1
+sVyes
+p7
+I1
+sVfind
+p8
+I1
+sVground
+p9
+I5
+sVaint
+p10
+I1
+sVhold
+p11
+I1
+sVfix
+p12
+I1
+sVsky
+p13
+I1
+sVstruck
+p14
+I1
+sVsave
+p15
+I1
+sVta
+p16
+I1
+sVshoot
+p17
+I1
+sVsomebody
+p18
+I1
+sVyodalodaleheehoo
+p19
+I1
+sVstop
+p20
+I1
+sVbreak
+p21
+I3
+sVfan
+p22
+I3
+sVknow
+p23
+I5
+sVfall
+p24
+I3
+sVclouds
+p25
+I1
+sVlost
+p26
+I1
+sVintervene
+p27
+I1
+sVwent
+p28
+I1
+sVconflicted
+p29
+I1
+sVocds
+p30
+I1
+sVwonders
+p31
+I1
+sVright
+p32
+I1
+sVsquander
+p33
+I1
+sVcrown
+p34
+I1
+sVback
+p35
+I3
+sVhome
+p36
+I1
+sVring
+p37
+I1
+sVwonder
+p38
+I2
+sVturn
+p39
+I7
+sVkilling
+p40
+I1
+sVyonder
+p41
+I1
+sVwaiting
+p42
+I3
+sVmessenger
+p43
+I1
+sVcause
+p44
+I3
+sVtold
+p45
+I3
+sVburn
+p46
+I11
+sVmonster
+p47
+I1
+sVnever
+p48
+I1
+sVeminem
+p49
+I1
+sVlet
+p50
+I4
+sVlosing
+p51
+I1
+sVheads
+p52
+I1
+sVwanted
+p53
+I1
+sVwait
+p54
+I5
+sVblazes
+p55
+I3
+sVflames
+p56
+I4
+sVill
+p57
+I3
+sVclimbed
+p58
+I1
+sVkeep
+p59
+I2
+sVsoldier
+p60
+I1
+sVthink
+p61
+I1
+sVdont
+p62
+I2
+sVburning
+p63
+I1
+sVjeff
+p64
+I1
+sVknocking
+p65
+I1
+sVone
+p66
+I1
+sVdown
+p67
+I8
+sVvanvonderen
+p68
+I1
+sVcouldnt
+p69
+I2
+sVtomorrow
+p70
+I1
+sVintervention
+p71
+I2
+sVfrom
+p72
+I1
+sVcaught
+p73
+I1
+sVponderingll
+p74
+I1
+sVneeded
+p75
+I1
+sVmuch
+p76
+I1
+sVexplosions
+p77
+I1
+sVway
+p78
+I1
+sVpoet
+p79
+I1
+sVcycle
+p80
+I1
+sVhead
+p81
+I1
+sVpark
+p82
+I1
+sVyeah
+p83
+I1
+sVrepeated
+p84
+I1
+sVnobodys
+p85
+I1
+sVbroke
+p86
+I1
+sVtearing
+p87
+I1
+sVwanders
+p88
+I1
+sVme
+p89
+I1
+sVking
+p90
+I1
+sVlinkin
+p91
+I1
+sVthis
+p92
+I1
+sVup
+p93
+I6
+sVinterventionist
+p94
+I1
+sVloves
+p95
+I1
+sVbelieved
+p96
+I1
+sVvoice
+p97
+I1
+sVwandering
+p98
+I1
+sVcould
+p99
+I1
+sVspawn
+p100
+I1
+sVyoure
+p101
+I1
+sVrelaying
+p102
+I1
+sVplayed
+p103
+I2
+sVmind
+p104
+I1
+sVit
+p105
+I2
+sVhigh
+p106
+I1
+sVcant
+p107
+I6
+sVim
+p108
+I3
+sVneed
+p109
+I1
+sVkissed
+p110
+I1
+sVlie
+p111
+I1
+sVstumbled
+p112
+I1
+sVbuilt
+p113
+I1
+sVthing
+p114
+I2
+sVsleepwalking
+p115
+I1
+sVtake
+p116
+I3
+sVconflict
+p117
+I1
+sVmoment
+p118
+I1
+sVfriends
+p119
+I1
+sVthoughts
+p120
+I1
+sVglow
+p121
+I1
+sVbuilding
+p122
+I6
+sVseize
+p123
+I1
+sVsometimes
+p124
+I1
+sVconking
+p125
+I1
+sVconquer
+p126
+I1
+sVthe
+p127
+I1
+s.

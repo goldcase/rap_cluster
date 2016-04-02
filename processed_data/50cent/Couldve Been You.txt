@@ -1,72 +1,496 @@
-"could've been you" lyrics
-50 cent lyrics
-"could've been you"
-(feat. r. kelly)
-yeah 50,
-i gave her books to read,
-feed her mind with knowledge,
-gave her street smarts,
-sh-t you can't get in college,
-she's a reflection of me,
-so you know she the sh-t,
-if i'm a star she a star, if i'm rich she rich,
-that's my dog,
-i tell her stay she wanna go,
-i tell her go she wanna stay,
-that's my dog,
-you know a b-tch usually don't mean nothing to me,
-that's right but that's my dog,
-i go left she go right, i go up she go down,
-she couldn't listen now she ain't around,
-so ungrateful screaming i hate you,
-she must got amnesia,
-b-tch i made you now,
-just think just think, that coulda been you,
-just think, that shoulda been you,
-yeah, with me i share the world with you,
-but you ain't ride with a rider so i ain't f-cking with you,
-say say say girl,
-come here,
-no, you no, you, her yeah,
-you go,
-the reason you didn't get picked
-because you got your nose up your ass,
-you smelling your sh-t, but tonight you met your match,
-i'm smelling my sh-t too now how you like that,
-you coulda had this dude and anything you choose,
-and that girl you lose cause i ain't f-cking with ya,
-shopping sprees drop top hat blowing in the wind,
-coulda been you, living lavish,
-instead it's your girlfriend,
-but you tripping while we sipping,
-in the back of a big...
-some say it hurts when you supposed to win and you lose,
-you were supposed to be sure baby, you was confused,
-i had a thang for ya, i had a ride for ya,
-house, cars, kids and a pet name for ya,
-p-ssy cat, i told you i'll make it you ain't believe,
-i guess coming up it was hard, it was easy to leave,
-i think about it maybe i'm right, maybe i'm wrong,
-either way shorty life goes on,
-when your around my smiles a grin,
-my thoughts are a sin,
-you asked can we try again,
-i ain't f-cking with you,
-it's on the club jumpin,
-i'm tryna to get my liquor in
-you want sometin ? again
-i'm staring at your thicker friend,
-i guess i'm like will smith in the pursuit of happyness,
-in my hood we all hustle in pursuit of the same sh-t,
-just think just think, that coulda been you,
-just think, that shoulda been you,
-yeah, with me i share the world with you,
-but you ain't ride with a rider so i ain't f-cking with you,
-there ain't no other way to put it except,
-i know you'll understand girl it's...
-... see us in the back of the club popping bottles
-and it coulda been you but no
-said it coulda been
-coulda been you yeaah,
-said it coulda been
-coulda been you.
+(dp1
+Vlyrics
+p2
+I2
+sVlavish
+p3
+I1
+sVbooks
+p4
+I1
+sVgo
+p5
+I7
+sVfeat
+p6
+I1
+sVthicker
+p7
+I1
+sVaint
+p8
+I9
+sVknowledge
+p9
+I1
+sVthang
+p10
+I1
+sVsmith
+p11
+I1
+sVexcept
+p12
+I1
+sVeither
+p13
+I1
+sVchoose
+p14
+I1
+sVrich
+p15
+I2
+sVhat
+p16
+I1
+sVmatch
+p17
+I1
+sVgave
+p18
+I2
+sVaround
+p19
+I2
+sVget
+p20
+I3
+sVya
+p21
+I4
+sVbig
+p22
+I1
+sVsipping
+p23
+I1
+sVtry
+p24
+I1
+sVknow
+p25
+I3
+sVworld
+p26
+I2
+sVnow
+p27
+I1
+sVscreaming
+p28
+I1
+sVgrin
+p29
+I1
+sVname
+p30
+I1
+sVbtch
+p31
+I2
+sVlike
+p32
+I2
+sVyoull
+p33
+I1
+sVdrop
+p34
+I1
+sV50
+p35
+I2
+sVsin
+p36
+I1
+sVleave
+p37
+I1
+sVnose
+p38
+I1
+sVlose
+p39
+I2
+sVhustle
+p40
+I1
+sVmean
+p41
+I1
+sVright
+p42
+I3
+sVhouse
+p43
+I1
+sVliquor
+p44
+I1
+sVhard
+p45
+I1
+sVyeah
+p46
+I4
+sVsee
+p47
+I1
+sVstreet
+p48
+I1
+sVcollege
+p49
+I1
+sVshes
+p50
+I1
+sVpicked
+p51
+I1
+sVgirl
+p52
+I3
+sVpopping
+p53
+I1
+sVliving
+p54
+I1
+sVsaid
+p55
+I2
+sVpet
+p56
+I1
+sVhate
+p57
+I1
+sVits
+p58
+I1
+sVgoes
+p59
+I1
+sVgot
+p60
+I2
+sVcause
+p61
+I1
+sVtold
+p62
+I1
+sVass
+p63
+I1
+sVblowing
+p64
+I1
+sVcars
+p65
+I1
+sVhere
+p66
+I1
+sVmet
+p67
+I1
+sVreason
+p68
+I1
+sVpursuit
+p69
+I2
+sVhurts
+p70
+I1
+sVput
+p71
+I1
+sVcome
+p72
+I1
+sVshoulda
+p73
+I2
+sVstaring
+p74
+I1
+sVon
+p75
+I1
+sVkids
+p76
+I1
+sVanything
+p77
+I1
+sVcoulda
+p78
+I9
+sVusually
+p79
+I1
+sVthink
+p80
+I7
+sVthats
+p81
+I4
+sVfeed
+p82
+I1
+sVsmarts
+p83
+I1
+sVdont
+p84
+I1
+sVwin
+p85
+I1
+sVcoming
+p86
+I1
+sVdown
+p87
+I1
+sVsometin
+p88
+I1
+sVcouldnt
+p89
+I1
+sVhood
+p90
+I1
+sVwan
+p91
+I2
+sVguess
+p92
+I2
+sVsprees
+p93
+I1
+sVtop
+p94
+I1
+sVdude
+p95
+I1
+sVcent
+p96
+I1
+sVtripping
+p97
+I1
+sVamnesia
+p98
+I1
+sVway
+p99
+I2
+sVtell
+p100
+I2
+sVfriend
+p101
+I1
+sVlisten
+p102
+I1
+sVtryna
+p103
+I1
+sVlife
+p104
+I1
+sVshopping
+p105
+I1
+sVeasy
+p106
+I1
+sVthat
+p107
+I1
+sVclub
+p108
+I2
+sVshare
+p109
+I2
+sVshorty
+p110
+I1
+sVback
+p111
+I2
+sVunderstand
+p112
+I1
+sVjumpin
+p113
+I1
+sVbaby
+p114
+I1
+sVbelieve
+p115
+I1
+sVmust
+p116
+I1
+sVme
+p117
+I2
+sVungrateful
+p118
+I1
+sVmade
+p119
+I1
+sVride
+p120
+I3
+sVsay
+p121
+I4
+sVhappyness
+p122
+I1
+sVcat
+p123
+I1
+sVr
+I1
+sVsupposed
+p124
+I2
+sVdidnt
+p125
+I1
+sVill
+p126
+I1
+sVfcking
+p127
+I4
+sVmind
+p128
+I1
+sVconfused
+p129
+I1
+sVyeaah
+p130
+I1
+sVtonight
+p131
+I1
+sVcant
+p132
+I1
+sVim
+p133
+I8
+sVwant
+p134
+I1
+sVin
+p135
+I1
+sVgirlfriend
+p136
+I1
+sVbeen
+p137
+I2
+sVsht
+p138
+I5
+sVbottles
+p139
+I1
+sVus
+p140
+I1
+sVno
+p141
+I1
+sVna
+p142
+I2
+sVmake
+p143
+I1
+sVread
+p144
+I1
+sVinstead
+p145
+I1
+sVyou
+p146
+I12
+sVrider
+p147
+I2
+sVsmiles
+p148
+I1
+sVsure
+p149
+I1
+sVstar
+p150
+I2
+sVagain
+p151
+I2
+sVstay
+p152
+I2
+sVwrong
+p153
+I1
+sVcouldve
+p154
+I2
+sVsmelling
+p155
+I2
+sVnothing
+p156
+I1
+sVthoughts
+p157
+I1
+sVreflection
+p158
+I1
+sVmaybe
+p159
+I2
+sVdog
+p160
+I3
+sVasked
+p161
+I1
+sVpssy
+p162
+I1
+sVkelly
+p163
+I1
+sVwind
+p164
+I1
+sVleft
+p165
+I1
+s.

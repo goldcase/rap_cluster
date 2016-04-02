@@ -1,62 +1,443 @@
-"i'm paranoid" lyrics
-50 cent lyrics
-"i'm paranoid"
-the fuck son..
-i'm tellin' you man..
-you gotta watch these niggaz man..
-i'm paranoid, bitch i can't sleep
-niggaz tryna get me, man gimme my heat
-put one under my pillow, one under my seat
-niggaz lookin' at me like i'm somethin' to eat
-we thought the coke and the dope'll help us escape poverty
-when that didn't work we resorted to armed robbery
-yeah i done it but i ain't the one they say did it
-before my first verse my benz had been kitted
-i'm so hood, that's what the bitches like about me
-she bob and weave she up and down she suck the life up out me
-i tell you about my regimen i'm blowin' stacks stuntin'
-the coldest shit i'm on it kid i blow a nigga frontin'
-i'm dirty yeah i do that dirt i'm down to put that work in
-i kick that door to get them bricks that eagle get to chirpin'
-see the beam and your hit, nigga leakin' yeah screamin' and shit
-man shut the fuck up..
-i'm paranoid, bitch i can't sleep
-niggaz tryna get me, man gimme my heat
-put one under my pillow, one under my seat
-niggaz lookin' at me like i'm somethin' to eat
-i'm paranoid, bitch i can't sleep
-niggaz tryna get me, man gimme my heat
-put one under my pillow, one under my seat
-niggaz lookin' at me like i'm somethin' to eat
-i had a dream niggaz got me
-woke up and niggaz shot me, i ain' slept in three days
-my eyes red, somethin' wrong with my head
-the mack stashed right under the pillow on my bed
-it's not hot, why the fuck am i sweatin'
-my heart beatin', i'm buggin', i reckon
-bitch don't move, it's dark, i might panic
-jus' sit still, i mean it, god damnit
-my back against the wall, fuck the world i kill 'um all
-ain't a nigga too big or too small
-chop 'um down watch 'um fall, watch 'um bleed watch 'um crawl
-watch 'um bleed till they gone..
-i'm paranoid, bitch i can't sleep
-niggaz tryna get me, man gimme my heat
-put one under my pillow, one under my seat
-niggaz lookin' at me like i'm somethin' to eat
-i'm paranoid, bitch i can't sleep
-niggaz tryna get me, man gimme my heat
-put one under my pillow, one under my seat
-niggaz lookin' at me like i'm somethin' to eat
-i'm paranoid..
-i can't even fuckin' sleep, i'm paranoid
-bitch quit playin hand me my heat, i'm paranoid
-i can't even rest my head, i'm paranoid
-i'm finna leave me a nigga dead, i'm paranoid
-what..
-niggaz ain't fuckin' with me..
-i wish a nigga would..
-i been takin' it easy on these niggaz mayne..
-i been easy on 'um mayne..
-i'ma turn it up now..
-yeah..
+(dp1
+Vsweatin
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVmove
+p6
+I1
+sVall
+p7
+I1
+sVrest
+p8
+I1
+sVsleep
+p9
+I6
+sVworld
+p10
+I1
+sVstill
+p11
+I1
+sVeyes
+p12
+I1
+sVaint
+p13
+I3
+sVnow
+p14
+I1
+sVblowin
+p15
+I1
+sVparanoid
+p16
+I12
+sVwall
+p17
+I1
+sVverse
+p18
+I1
+sVniggaz
+p19
+I15
+sVeasy
+p20
+I2
+sVmight
+p21
+I1
+sVkick
+p22
+I1
+sVta
+p23
+I1
+sVhit
+p24
+I1
+sVget
+p25
+I7
+sVbig
+p26
+I1
+sVwatch
+p27
+I5
+sVregimen
+p28
+I1
+sVdark
+p29
+I1
+sVbeam
+p30
+I1
+sVfrontin
+p31
+I1
+sVfall
+p32
+I1
+sVdamnit
+p33
+I1
+sVone
+p34
+I11
+sVkitted
+p35
+I1
+sVlike
+p36
+I6
+sVresorted
+p37
+I1
+sV50
+p38
+I1
+sVleave
+p39
+I1
+sVrobbery
+p40
+I1
+sVsmall
+p41
+I1
+sVkill
+p42
+I1
+sVmean
+p43
+I1
+sVnigga
+p44
+I5
+sVyeah
+p45
+I4
+sVdead
+p46
+I1
+sVseat
+p47
+I5
+sVsee
+p48
+I1
+sVtellin
+p49
+I1
+sVescape
+p50
+I1
+sVplayin
+p51
+I1
+sVfinna
+p52
+I1
+sVeven
+p53
+I2
+sVman
+p54
+I8
+sVwhat
+p55
+I1
+sVgod
+p56
+I1
+sVgot
+p57
+I2
+sVred
+p58
+I1
+sVeagle
+p59
+I1
+sVshut
+p60
+I1
+sVbed
+p61
+I1
+sVdirt
+p62
+I1
+sVmayne
+p63
+I2
+sVpoverty
+p64
+I1
+sVima
+p65
+I1
+sVput
+p66
+I6
+sVhand
+p67
+I1
+sVbleed
+p68
+I2
+sVstuntin
+p69
+I1
+sVdays
+p70
+I1
+sVscreamin
+p71
+I1
+sVchop
+p72
+I1
+sVturn
+p73
+I1
+sVlookin
+p74
+I5
+sVbob
+p75
+I1
+sVhead
+p76
+I2
+sVpillow
+p77
+I6
+sVfuckin
+p78
+I2
+sVthats
+p79
+I1
+sVdont
+p80
+I1
+sVgone
+p81
+I1
+sVbricks
+p82
+I1
+sVson
+p83
+I1
+sVright
+p84
+I1
+sVdone
+p85
+I1
+sVbitch
+p86
+I7
+sVchirpin
+p87
+I1
+sVarmed
+p88
+I1
+sVhood
+p89
+I1
+sVquit
+p90
+I1
+sVwould
+p91
+I1
+sVslept
+p92
+I1
+sVthree
+p93
+I1
+sVcent
+p94
+I1
+sVblow
+p95
+I1
+sVgim
+p96
+I5
+sVkid
+p97
+I1
+sVtell
+p98
+I1
+sVwoke
+p99
+I1
+sVback
+p100
+I1
+sVtryna
+p101
+I5
+sVlife
+p102
+I1
+sVdoor
+p103
+I1
+sVcoke
+p104
+I1
+sVbitches
+p105
+I1
+sVit
+p106
+I1
+sVjus
+p107
+I1
+sVheat
+p108
+I6
+sVcoldest
+p109
+I1
+sVcrawl
+p110
+I1
+sVeat
+p111
+I5
+sVme
+p112
+I9
+sVleakin
+p113
+I1
+sVwish
+p114
+I1
+sVwork
+p115
+I2
+sVup
+p116
+I1
+sVus
+p117
+I1
+sVum
+p118
+I7
+sVain
+p119
+I1
+sVdirty
+p120
+I1
+sVdidnt
+p121
+I1
+sVsay
+p122
+I1
+sVheart
+p123
+I1
+sVbenz
+p124
+I1
+sVfuck
+p125
+I4
+sVbeatin
+p126
+I1
+sVcant
+p127
+I7
+sVim
+p128
+I25
+sVin
+p129
+I1
+sVshit
+p130
+I2
+sVsit
+p131
+I1
+sVtakin
+p132
+I1
+sVtill
+p133
+I1
+sVhot
+p134
+I1
+sVpanic
+p135
+I1
+sVreckon
+p136
+I1
+sVstashed
+p137
+I1
+sVwrong
+p138
+I1
+sVsuck
+p139
+I1
+sVmack
+p140
+I1
+sVweave
+p141
+I1
+sVsomethin
+p142
+I6
+sVthought
+p143
+I1
+sVbuggin
+p144
+I1
+sVdopell
+p145
+I1
+sVfirst
+p146
+I1
+sVdream
+p147
+I1
+sVstacks
+p148
+I1
+s.

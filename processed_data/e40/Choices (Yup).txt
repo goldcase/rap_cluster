@@ -1,76 +1,553 @@
-"choices (yup)" lyrics
-e-40 lyrics
-"choices (yup)"
-ever told on a nigga? (nope)
-ever squeezed a trigger? (yup)
-ever set a nigga up? (nope)
-ever helped a brother out when he was down on his luck? (yup)
-you a sap? (nope)
-you a boss player, you a mack? (yup)
-let me hold a couple dollars (nope)
-y'all still be poppin' y'all collars? (yup)
-stock rims on a scraper (nope)
-paint wetter than a lake (yup)
-poodle in my blood (nope)
-bitch, i'm a thug (yup)
-you a loser? (nope), winner? (yup)
-starving? (nope), dinner? (yup)
-you still sell dope? (nope)
-now you cleaner than a bar of dove soap? (yup)
-got a little gouda? (nope)
-got a thumper, got a ruger? (yup)
-you in love with' the ho? (nope)
-she bringin' you the dough? (yup)
-you gon' cry if she leave? (nope)
-you gon' fly overseas? (yup)
-everybody get choices
-i choose to get money, i'm stuck to this bread
-everybody got choices
-these bitches is choosin', i'm all in they head
-everybody got choices
-keep it 1 thou, i'da liked it, i chose
-everybody got choices
-these niggas be hatin', i already know
-but i never go broke (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-and i ain't gotta sell my soul (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-if you broke, you ain't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-i give a fuck if you don't like me (no, no, no)
-i'm a stay gettin' money (yeah, yeah, yeah)
-ugh, lazy? (nope)
-got dick that'll drive a ho crazy? (yup)
-hater? (nope), wanna see a player get paper?
-traitor? (nope), loyal to my soil, not a faker? (yup)
-sleep? (nope), bust moves, hella active in the streets? (yup)
-scared of the dark? (nope)
-have money, have heart? (yup)
-narc? (nope), shark? (yup)
-gossip like a broad? (nope)
-check a bitch like a smog? (yup)
-slippin'? (nope), trippin'? (yup)
-sober as a gopher? (nope)
-higher than a rollercoaster? (yup)
-star wars? (nope), yoda? (yup)
-never leave the house without my strap (nope)
-shoot a muthafucka in his nap (yup)
-never been a sucka or a pussy (nope)
-blowin' cookie, never coughin' like a rookie (yup)
-was it love at first sight? (nope)
-did she ride you like a bike? (yup)
-was it ripe? (nope), was her pussy tight? (yup)
-got some property? (nope), drive a maserati? (yup)
-you softer than a sock? (nope)
-you solid as a rock? (yup)
-slow? (nope), trained to go? (yup)
-your team weak? (nope)
-you respected in the stree-neets? (yup)
-shallow? (nope), dineat? (yup)
-broke? (nope), chineat? (yup)
-not a bb or a pellet gun (nope)
-but a long barrel base drum (yup)
-if i get into it will run (nope)
-i'm a give a nigga fair one (yup)
-still live in the trap? (nope) you ever go back? (yup)
-wear a wire and a camera? (nope) ears to the scanner? (yup)
+(dp1
+Vugh
+p2
+I1
+sVbringin
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I6
+sVpaper
+p6
+I1
+sVchoosin
+p7
+I1
+sVgo
+p8
+I3
+sVgossip
+p9
+I1
+sVruger
+p10
+I1
+sVstill
+p11
+I3
+sVaint
+p12
+I2
+sVslow
+p13
+I1
+sVcollars
+p14
+I1
+sVblowin
+p15
+I1
+sVwinner
+p16
+I1
+sVpoppin
+p17
+I1
+sVlake
+p18
+I1
+sVbust
+p19
+I1
+sVbike
+p20
+I1
+sVchoose
+p21
+I1
+sVteam
+p22
+I1
+sVta
+p23
+I1
+sVshoot
+p24
+I1
+sVstarving
+p25
+I1
+sVget
+p26
+I4
+sVdope
+p27
+I1
+sVgopher
+p28
+I1
+sVdark
+p29
+I1
+sVknow
+p30
+I1
+sVone
+p31
+I1
+sVpellet
+p32
+I1
+sVbread
+p33
+I1
+sVtrippin
+p34
+I1
+sVbar
+p35
+I1
+sVlike
+p36
+I6
+sVever
+p37
+I5
+sVgettin
+p38
+I4
+sVbrother
+p39
+I1
+sVloser
+p40
+I1
+sVleave
+p41
+I2
+sVsofter
+p42
+I1
+sVtrap
+p43
+I1
+sVrock
+p44
+I1
+sVdough
+p45
+I1
+sVhigher
+p46
+I1
+sVyall
+p47
+I2
+sVluck
+p48
+I1
+sVcry
+p49
+I1
+sVnigga
+p50
+I3
+sVfair
+p51
+I1
+sVhouse
+p52
+I1
+sVscared
+p53
+I1
+sVstreets
+p54
+I1
+sVscraper
+p55
+I1
+sVgun
+p56
+I1
+sVslippin
+p57
+I1
+sVsee
+p58
+I1
+sVsight
+p59
+I1
+sVgouda
+p60
+I1
+sVyoda
+p61
+I1
+sVcoughin
+p62
+I1
+sVgon
+p63
+I2
+sVbroad
+p64
+I1
+sVgot
+p65
+I9
+sVsmog
+p66
+I1
+sVnope
+p67
+I36
+sVtold
+p68
+I1
+sVlazy
+p69
+I1
+sVrun
+p70
+I1
+sVchose
+p71
+I1
+sVbb
+p72
+I1
+sVrims
+p73
+I1
+sVnever
+p74
+I4
+sVweak
+p75
+I1
+sVmuthafucka
+p76
+I1
+sVboss
+p77
+I1
+sVbase
+p78
+I1
+sVlet
+p79
+I1
+sVwear
+p80
+I1
+sVactive
+p81
+I1
+sVproperty
+p82
+I1
+sVdrum
+p83
+I1
+sVthou
+p84
+I1
+sVyup
+p85
+I37
+sVdollars
+p86
+I1
+sVkeep
+p87
+I1
+sVdinner
+p88
+I1
+sVcookie
+p89
+I1
+sVears
+p90
+I1
+sVida
+p91
+I1
+sVwire
+p92
+I1
+sVliked
+p93
+I1
+sValready
+p94
+I1
+sVlove
+p95
+I2
+sVdont
+p96
+I1
+sVheart
+p97
+I1
+sVpussy
+p98
+I2
+sVshark
+p99
+I1
+sVstrap
+p100
+I1
+sVset
+p101
+I1
+sVbitch
+p102
+I2
+sVtrained
+p103
+I1
+sVsober
+p104
+I1
+sVscanner
+p105
+I1
+sVeverybody
+p106
+I4
+sVwan
+p107
+I1
+sVlittle
+p108
+I1
+sVpaint
+p109
+I1
+sVmack
+p110
+I1
+sVsock
+p111
+I1
+sVpoodle
+p112
+I1
+sVlong
+p113
+I1
+sVstuck
+p114
+I1
+sVlive
+p115
+I1
+sVtrigger
+p116
+I1
+sVtraitor
+p117
+I1
+sVback
+p118
+I1
+sVhead
+p119
+I1
+sVbitches
+p120
+I1
+sVwars
+p121
+I1
+sVyeah
+p122
+I12
+sVho
+p123
+I2
+sVbroke
+p124
+I3
+sVhatin
+p125
+I1
+sVhold
+p126
+I1
+sVsleep
+p127
+I1
+sVfly
+p128
+I1
+sVrespected
+p129
+I1
+sVe40
+p130
+I1
+sVcouple
+p131
+I1
+sVniggas
+p132
+I1
+sVsolid
+p133
+I1
+sVchineat
+p134
+I1
+sVride
+p135
+I1
+sVthumper
+p136
+I1
+sVsoul
+p137
+I1
+sVchoices
+p138
+I6
+sVdick
+p139
+I1
+sVrollercoaster
+p140
+I1
+sVsqueezed
+p141
+I1
+sVhater
+p142
+I1
+sVsucka
+p143
+I1
+sVcleaner
+p144
+I1
+sVcrazy
+p145
+I1
+sVthatll
+p146
+I1
+sVripe
+p147
+I1
+sVgive
+p148
+I2
+sVsoil
+p149
+I1
+sVfuck
+p150
+I1
+sVfaker
+p151
+I1
+sVhelped
+p152
+I1
+sVplayer
+p153
+I2
+sVim
+p154
+I8
+sVthug
+p155
+I1
+sVsap
+p156
+I1
+sVcheck
+p157
+I1
+sVsell
+p158
+I2
+sVmoves
+p159
+I1
+sVmaserati
+p160
+I1
+sVno
+p161
+I4
+sVna
+p162
+I1
+sV1
+I1
+sVtight
+p163
+I1
+sVnap
+p164
+I1
+sVwithout
+p165
+I1
+sVrookie
+p166
+I1
+sVsoap
+p167
+I1
+sVnarc
+p168
+I1
+sVstock
+p169
+I1
+sVshallow
+p170
+I1
+sVstar
+p171
+I1
+sVcamera
+p172
+I1
+sVstay
+p173
+I4
+sVwetter
+p174
+I1
+sVblood
+p175
+I1
+sVdove
+p176
+I1
+sVbarrel
+p177
+I1
+sVdineat
+p178
+I1
+sVdrive
+p179
+I2
+sVloyal
+p180
+I1
+sVhella
+p181
+I1
+sVstreeneets
+p182
+I1
+sVoverseas
+p183
+I1
+sVfirst
+p184
+I1
+s.

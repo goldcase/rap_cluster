@@ -1,55 +1,401 @@
-"ho" lyrics
-ludacris lyrics
-"ho"
-hooooooooo (ho)
-youza hoooooo (ho)
-youza hoooooo (ho)
-i said that youza hooooo (ho)
-you doin ho activities
-with ho tendencies
-hos are your friends, hoes are your enemies
-with ho energy to do whacha do
-blew whacha blew
-screw whacha screw
-yall professional like dj clue, pullin on my coat tail
-an why do you think you take a ho to a hotel?
-hotel everybody, even the mayor
-reach up in tha sky for tha hozone laya
-come on playa once a ho always
-and hos never close they open like hallways
-an heres a ho cake for you whole ho crew
-an everybody wants some cuz hoes gotta eat too
-cant turn a ho into a housewife
-hos dont act right
-theres hos on a mission, an hoes on a crackpipe
-hey ho how ya doin, where ya been?
-prolly doin ho stuff cuz there you ho again
-its a ho wide world, that we livin in
-feline, feminine, fantastical, women
-not all, just some
-you ho who you are
-theres hoes in tha room, theres hoes in tha car
-theres hoes on stage, theres hoes by tha bar
-hos by near, an hos by far
-ho! (but can i getta ride?!)
-no! (cmon, nigga why?!)
-cuz youza
-you gotta run in your pantyhos
-even your daddy knows
-that you suckin down chocolate like daddy-o's
-you hos are horrible, horrendous
-on taxes ya'll writin off hos as dependents
-i see tha ho risin
-it aint surprisin
-its just a hoasis
-with ugly chicks faces
-but hos dont feel so sad and blue
-cuz most of us niggaz is hos too
-(ho)
-muthafuckas im so tiired of yall niggaz always talkin
-bout hos this, hos that, you tha muthafuckin ho nigga
-i wasnt no ho last night
-(pimp)
-ho, bring yo ass!
-(ho)
-ok, hold on
+(dp1
+Vchicks
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVmission
+p5
+I1
+sVbring
+p6
+I1
+sVmayor
+p7
+I1
+sVaint
+p8
+I1
+sVsky
+p9
+I1
+sVcuz
+p10
+I4
+sVhousewife
+p11
+I1
+sVcrew
+p12
+I1
+sVtail
+p13
+I1
+sVniggaz
+p14
+I2
+sVbout
+p15
+I1
+sVhooooo
+p16
+I1
+sVtake
+p17
+I1
+sVactivities
+p18
+I1
+sVdj
+p19
+I1
+sVlivin
+p20
+I1
+sVyo
+p21
+I1
+sVya
+p22
+I2
+sVworld
+p23
+I1
+sVbar
+p24
+I1
+sVlike
+p25
+I3
+sVpimp
+p26
+I1
+sValways
+p27
+I2
+sVmuthafuckas
+p28
+I1
+sVtaxes
+p29
+I1
+sVstuff
+p30
+I1
+sVnight
+p31
+I1
+sVmuthafuckin
+p32
+I1
+sVyall
+p33
+I3
+sVblew
+p34
+I2
+sVright
+p35
+I1
+sVenergy
+p36
+I1
+sVsome
+p37
+I1
+sVsee
+p38
+I1
+sVare
+p39
+I1
+sVhoes
+p40
+I7
+sVclose
+p41
+I1
+sVenemies
+p42
+I1
+sVeven
+p43
+I2
+sVsaid
+p44
+I1
+sVprolly
+p45
+I1
+sVugly
+p46
+I1
+sVheres
+p47
+I1
+sVhallways
+p48
+I1
+sVfeline
+p49
+I1
+sVpantyhos
+p50
+I1
+sVplaya
+p51
+I1
+sVhorrible
+p52
+I1
+sVgot
+p53
+I2
+sVass
+p54
+I1
+sVrun
+p55
+I1
+sVnever
+p56
+I1
+sVcrackpipe
+p57
+I1
+sVcome
+p58
+I1
+sVstage
+p59
+I1
+sVon
+p60
+I1
+sVdaddy
+p61
+I1
+sVlast
+p62
+I1
+sVfantastical
+p63
+I1
+sVturn
+p64
+I1
+sVact
+p65
+I1
+sVpullin
+p66
+I1
+sVwhole
+p67
+I1
+sVthink
+p68
+I1
+sVwritin
+p69
+I1
+sVdont
+p70
+I2
+sVfeel
+p71
+I1
+sVsurprisin
+p72
+I1
+sVnigga
+p73
+I2
+sVwhacha
+p74
+I3
+sVyouza
+p75
+I4
+sVhoooooo
+p76
+I2
+sVopen
+p77
+I1
+sVtiired
+p78
+I1
+sVeverybody
+p79
+I2
+sVfriends
+p80
+I1
+sVhey
+p81
+I1
+sVbeen
+p82
+I1
+sVtoo
+p83
+I2
+sVwants
+p84
+I1
+sVknows
+p85
+I1
+sVhotel
+p86
+I2
+sVgetta
+p87
+I1
+sVclue
+p88
+I1
+sVfeminine
+p89
+I1
+sVho
+p90
+I26
+sVhorrendous
+p91
+I1
+sVok
+p92
+I1
+sVhold
+p93
+I1
+sVeat
+p94
+I1
+sVwomen
+p95
+I1
+sVwide
+p96
+I1
+sVroom
+p97
+I1
+sVlaya
+p98
+I1
+sVcar
+p99
+I1
+sVride
+p100
+I1
+sVhozone
+p101
+I1
+sVus
+p102
+I1
+sVsuckin
+p103
+I1
+sVnear
+p104
+I1
+sVcake
+p105
+I1
+sVdependents
+p106
+I1
+sVta
+p107
+I2
+sVtheres
+p108
+I5
+sVcmon
+p109
+I1
+sVdo
+p110
+I1
+sVwasnt
+p111
+I1
+sVdaddyos
+p112
+I1
+sVsad
+p113
+I1
+sVcant
+p114
+I1
+sVim
+p115
+I1
+sVin
+p116
+I1
+sVscrew
+p117
+I2
+sVhoasis
+p118
+I1
+sVfar
+p119
+I1
+sVhos
+p120
+I12
+sVtalkin
+p121
+I1
+sVblue
+p122
+I1
+sVagain
+p123
+I1
+sVdoin
+p124
+I3
+sVfaces
+p125
+I1
+sVreach
+p126
+I1
+sVchocolate
+p127
+I1
+sVtendencies
+p128
+I1
+sVwhy
+p129
+I1
+sVrisin
+p130
+I1
+sVcoat
+p131
+I1
+sVhooooooooo
+p132
+I1
+sVprofessional
+p133
+I1
+sVtha
+p134
+I7
+s.

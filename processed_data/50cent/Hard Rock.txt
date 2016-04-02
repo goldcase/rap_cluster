@@ -1,55 +1,311 @@
-"hard rock" lyrics
-50 cent lyrics
-"hard rock"
-(feat. ester dean)
-here we go ready hard rock
-here we go ready hard rock
-what ya talkin bout
-what ya talkin bout
-what ya talkin bout
-what ya talkin bout (my ass)
-you can touch wherever you want
-please don't touch my ass
-i like the way that you pop it,
-you know you turn me on,
-i know the way that you move it you really got me going,
-girl you ain't got to say nothing the way your body talk,
-me i'm just patiently waiting to see you take it off,
-shawty not complicated, i mean don't complicate it,
-i wanna get you off the floor, you and i be fornicating,
-that's how it's supposed to go,
-i know you know just how to drop it low,
-drop drop it low, drop it low,
-dr dr drop it low,
-all my ladies let me see you throw your legs up,
-put your hands up ladies put your hands up,
-and all the fellas grab my ta ta's,
-fellas grab your mama,
-you can touch wherever you want
-please don't touch my ass,
-only a hood girl no good girl,
-maybe a superfreak,
-i don't wanna talk girl, i wanna fuck girl,
-then maybe we can grab a bite to eat,
-if you wanna play games we can play games,
-for you can play with me all day,
-we don't have to wait girl we can mate girl,
-we can get it in right away,
-funny how you like it,
-i'll give it to you every way you want,
-not like a cow girl, you hesitating baby get up on it,
-off that shy shit,
-off them good girl games,
-off now all clothes,
-off when you walk with me,
-all my ladies let me see you throw your legs up,
-put your hands up ladies put your hands up,
-and all the fellas grab my ta ta's,
-fellas grab your mama,
-you can touch wherever you want
-please don't touch my ass,
-i'll scream make a scene if you touch that,
-that's right i'll fight if you rub that,
-i know it's all about it,
-...
-girls stop playing with me,
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVtouch
+p4
+I7
+sVfellas
+p5
+I4
+sVfeat
+p6
+I1
+sVaint
+p7
+I1
+sVcomplicate
+p8
+I1
+sVgoing
+p9
+I1
+sVbout
+p10
+I4
+sVta
+p11
+I2
+sVgood
+p12
+I2
+sVget
+p13
+I3
+sVya
+p14
+I4
+sVsuperfreak
+p15
+I1
+sVevery
+p16
+I1
+sVknow
+p17
+I5
+sVhands
+p18
+I4
+sVdr
+p19
+I2
+sVday
+p20
+I1
+sVfornicating
+p21
+I1
+sVlike
+p22
+I3
+sVshy
+p23
+I1
+sVdrop
+p24
+I5
+sV50
+p25
+I1
+sVrock
+p26
+I4
+sVgrab
+p27
+I5
+sVmean
+p28
+I1
+sVass
+p29
+I4
+sVright
+p30
+I2
+sVdean
+p31
+I1
+sVhard
+p32
+I4
+sVgo
+p33
+I3
+sVsee
+p34
+I3
+sVgirl
+p35
+I9
+sVreally
+p36
+I1
+sVaway
+p37
+I1
+sVplease
+p38
+I3
+sVwaiting
+p39
+I1
+sVmate
+p40
+I1
+sVgot
+p41
+I2
+sVbody
+p42
+I1
+sVrub
+p43
+I1
+sVcomplicated
+p44
+I1
+sVput
+p45
+I4
+sVthrow
+p46
+I2
+sVwait
+p47
+I1
+sVon
+p48
+I1
+sVcow
+p49
+I1
+sVill
+p50
+I3
+sVwherever
+p51
+I3
+sVturn
+p52
+I1
+sVgames
+p53
+I3
+sVlet
+p54
+I2
+sVclothes
+p55
+I1
+sVthats
+p56
+I2
+sVladies
+p57
+I4
+sVdont
+p58
+I6
+sVscene
+p59
+I1
+sVpop
+p60
+I1
+sVwalk
+p61
+I1
+sVhood
+p62
+I1
+sVpatiently
+p63
+I1
+sVwan
+p64
+I4
+sVbite
+p65
+I1
+sVgive
+p66
+I1
+sVgirls
+p67
+I1
+sVcent
+p68
+I1
+sVfight
+p69
+I1
+sVlow
+p70
+I4
+sVway
+p71
+I4
+sVmama
+p72
+I2
+sVlegs
+p73
+I2
+sVthat
+p74
+I2
+sVfuck
+p75
+I1
+sVbaby
+p76
+I1
+sVeat
+p77
+I1
+sVme
+p78
+I2
+sVup
+p79
+I4
+sVhesitating
+p80
+I1
+sVsupposed
+p81
+I1
+sVtas
+p82
+I2
+sVit
+p83
+I5
+sVsay
+p84
+I1
+sVim
+p85
+I1
+sVwant
+p86
+I4
+sVready
+p87
+I2
+sVshit
+p88
+I1
+sVfunny
+p89
+I1
+sVfloor
+p90
+I1
+sVna
+p91
+I4
+sVmake
+p92
+I1
+sVtake
+p93
+I1
+sVester
+p94
+I1
+sVshawty
+p95
+I1
+sVtalkin
+p96
+I4
+sVplay
+p97
+I3
+sVstop
+p98
+I1
+sVnothing
+p99
+I1
+sVoff
+p100
+I1
+sVmaybe
+p101
+I2
+sVplaying
+p102
+I1
+sVscream
+p103
+I1
+sVtalk
+p104
+I2
+s.

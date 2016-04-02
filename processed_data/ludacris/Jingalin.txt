@@ -1,85 +1,458 @@
-"jingalin'" lyrics
-ludacris lyrics
-"jingalin'"
-they jingalin' baby, go head baby
-they jingalin' baby, go head baby
-they jingalin' baby, go head baby
-they jingalin' baby
-jingalin', jingalin', jingalin', she jingalin'
-jingalin', jingalin', jingalin', ooh she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, jiggle it, now that do that shit
-jiggle it baby, jiggle it baby
-she jingalin', she too legit
-she seems to know, just what to do with it
-she proud of it, other women gotta really acknowledge it
-cause when she hit that stripper pole, her booty swallow it
-so go girl, go get it, go girl, go kill it
-see if your girl with my girl
-your girl gonna get the business
-we gon take a sip of that potion
-put some things in motion, we gone slice hood, and dice hood
-and bust the bitch wide open cause its
-freaks anonymous united here
-you niggas ain't invited here
-i got me a girl from the ghetto
-now jingle that shit like is jello
-jingalin', jingalin', jingalin', she jingalin'
-jingalin', jingalin', jingalin', ooh she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, jiggle it, now that do that shit
-jiggle it baby, jiggle it baby
-i'm claiming it, cause she is aiming it
-right at me so i could put my name on it
-she banging it, trap star she sanging it
-she go to work, and put all these women to shame with it
-and damn the girl so 'bout it, yeah the crown she got its
-she be jigglin so much, she got me jiggling all of my wallet
-i'm like ooh the girl deserve it, man, nobody so perfect
-when she step out in the club,
-every single one of you bitches get murdered
-so you better come with your a game
-cause i'm longer than a freight train
-so girl you know better than to be teasing me with that tang tang
-i'll bang out that head board so much, we'll make the bed ache
-now jangle till you get a head ache
-jingalin', jingalin', jingalin', she jingalin'
-jingalin', jingalin', jingalin', ooh she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, jiggle it, now that do that shit
-jiggle it baby, jiggle it baby
-yeah, gonna jingle with the mister
-jingle with your momma, jingle with your sister
-like, yeah, gonna jingle for some means
-jingle with your courin, jingle with your friends like
-jingle, jingle, jingle, jingle,
-make it clap, make it clap, make it clap, make it
-jingle, jingle, jingle, jingle,
-make it clap, make it clap, make it clap, make it
-that girl hella bad, i wanna pop hella tags
-the way that booty propels it needs a hella pad
-or a landin strip , they don't need to panic trick
-drop that apple bottle right down on my banana clip
-i cock and aim and shoot it
-so insane how you move it, love it how you drop it like it's hot
-then take a little time off and just cool it
-cause it needs some time to breathe
-gonna give it a squeeze, cause them lips, hips and thighs
-and even them double d's
-jingalin', jingalin', jingalin', she jingalin'
-jingalin', jingalin', jingalin', ooh she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-jingalin', jingalin', jingalin', go head, she jingalin'
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, do that shit, now jiggle
-go head baby, go head baby, jiggle it, now that do that shit
-jiggle it baby, jiggle it baby
+(dp1
+Vthings
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVmove
+p5
+I1
+sVkill
+p6
+I1
+sVfreight
+p7
+I1
+sVgo
+p8
+I40
+sVmister
+p9
+I1
+sVits
+p10
+I2
+sVapple
+p11
+I1
+sVaint
+p12
+I1
+sVdice
+p13
+I1
+sVacknowledge
+p14
+I1
+sVseems
+p15
+I1
+sVbust
+p16
+I1
+sVbetter
+p17
+I2
+sVboard
+p18
+I1
+sVbout
+p19
+I1
+sVcool
+p20
+I1
+sVlandin
+p21
+I1
+sVta
+p22
+I1
+sVhit
+p23
+I1
+sVget
+p24
+I4
+sVgame
+p25
+I1
+sVevery
+p26
+I1
+sVknow
+p27
+I2
+sVanonymous
+p28
+I1
+sVaiming
+p29
+I1
+sVcourin
+p30
+I1
+sVds
+p31
+I1
+sVghetto
+p32
+I1
+sVname
+p33
+I1
+sVjiggling
+p34
+I1
+sVdrop
+p35
+I2
+sVmomma
+p36
+I1
+sVbad
+p37
+I1
+sVtrap
+p38
+I1
+sVclap
+p39
+I6
+sVinsane
+p40
+I1
+sVright
+p41
+I2
+sVbooty
+p42
+I2
+sVjigglin
+p43
+I1
+sVcrown
+p44
+I1
+sVyeah
+p45
+I3
+sVsee
+p46
+I1
+sVmurdered
+p47
+I1
+sVill
+p48
+I1
+sVgirl
+p49
+I10
+sVreally
+p50
+I1
+sVeven
+p51
+I1
+sVaim
+p52
+I1
+sVslice
+p53
+I1
+sVjingalin
+p54
+I71
+sVjiggle
+p55
+I20
+sVbang
+p56
+I1
+sVfreaks
+p57
+I1
+sVgot
+p58
+I4
+sVcause
+p59
+I6
+sVthighs
+p60
+I1
+sVperfect
+p61
+I1
+sVbusiness
+p62
+I1
+sVtags
+p63
+I1
+sVbitches
+p64
+I1
+sVhere
+p65
+I2
+sVlike
+p66
+I5
+sVstep
+p67
+I1
+sVput
+p68
+I3
+sVache
+p69
+I2
+sVcome
+p70
+I1
+sVlegit
+p71
+I1
+sVsister
+p72
+I1
+sVinvited
+p73
+I1
+sVunited
+p74
+I1
+sVmotion
+p75
+I1
+sVswallow
+p76
+I1
+sVjello
+p77
+I1
+sVlove
+p78
+I1
+sVdont
+p79
+I1
+sVteasing
+p80
+I1
+sVpop
+p81
+I1
+sVone
+p82
+I1
+sVpole
+p83
+I1
+sVbitch
+p84
+I1
+sVstrip
+p85
+I1
+sVopen
+p86
+I1
+sVhood
+p87
+I2
+sVwan
+p88
+I1
+sVlittle
+p89
+I1
+sVmuch
+p90
+I2
+sVdamn
+p91
+I1
+sVway
+p92
+I1
+sVjingle
+p93
+I15
+sVbanana
+p94
+I1
+sVbreathe
+p95
+I1
+sVhead
+p96
+I37
+sVsanging
+p97
+I1
+sVclub
+p98
+I1
+sVnobody
+p99
+I1
+sVooh
+p100
+I5
+sVtrain
+p101
+I1
+sVbaby
+p102
+I39
+sVsqueeze
+p103
+I1
+sVwomen
+p104
+I2
+sVshoot
+p105
+I1
+sVwide
+p106
+I1
+sVniggas
+p107
+I1
+sVtang
+p108
+I2
+sVdouble
+p109
+I1
+sVwork
+p110
+I1
+sVlips
+p111
+I1
+sVbed
+p112
+I1
+sVtrick
+p113
+I1
+sVwallet
+p114
+I1
+sVcock
+p115
+I1
+sVcould
+p116
+I1
+sVgone
+p117
+I1
+sVclip
+p118
+I1
+sVgive
+p119
+I1
+sVit
+p120
+I12
+sVshame
+p121
+I1
+sVsingle
+p122
+I1
+sVim
+p123
+I3
+sVneed
+p124
+I1
+sVshit
+p125
+I13
+sVstripper
+p126
+I1
+sVneeds
+p127
+I2
+sVsip
+p128
+I1
+sVna
+p129
+I5
+sVmake
+p130
+I9
+sVmeans
+p131
+I1
+sVclaiming
+p132
+I1
+sVtill
+p133
+I1
+sVhot
+p134
+I1
+sVpad
+p135
+I1
+sVtake
+p136
+I2
+sVpanic
+p137
+I1
+sVpotion
+p138
+I1
+sVstar
+p139
+I1
+sVtime
+p140
+I2
+sVgon
+p141
+I5
+sVfriends
+p142
+I1
+sVman
+p143
+I1
+sVjangle
+p144
+I1
+sVlonger
+p145
+I1
+sVproud
+p146
+I1
+sVwell
+p147
+I1
+sVbanging
+p148
+I1
+sVhella
+p149
+I3
+sVpropels
+p150
+I1
+sVbottle
+p151
+I1
+sVdeserve
+p152
+I1
+sVhips
+p153
+I1
+s.

@@ -1,46 +1,379 @@
-"clue / 50" lyrics
-50 cent lyrics
-"clue / 50"
-yeah nigga
-we gonna smoke this motherfucker right here, right
-we gonna smoke this shit
-and i'ma drink a lot a water
-and i'ma take golden seal, so my po don't find out
-i'm smoking this shit, aight?
-yo, niggas wouldn't rob frankie if they had the chance
-wasn't cause of him it was cause of his man lance
-frankie cut crack
-lance hold the mac
-if fiends fuck with frankie's pac's
-lance cut the crack heads blocked up
-thought he was locked up
-came thru stuntin' wit his wrist all rocked up
-shoulda seen him smile, missin' the tooth
-coupe missin the roof
-he like "what up, 50?"
-i'm like "what up with you"
-lance had a reputation that was well earned
-heard he taught niggas how them shells burn
-out there in red firm
-at the dice game, he rolled ahead, crapped in the crack
-i'm like "nah, i ain't paying for that!  nigga, shoot it back"
-niggas lookin at me like i'm crazy, they shook
-i don't give a fuck who he shot out in red hook
-asked him about ??
-yeah, bizzy was my man till he beat me for ten grand and sold my mac for
-seven grand (fuckin' crazy)
-the man was crazy i could tell by his look
-cause he looked the way i look
-when i look for a jooks
-bitch
-motherfucker
-teamwork, work hard nigga
-50 cent
-rotten apple
-g-unit
-lloyd banks
-tony yayo, nigga
-hey what up, nigga
-you motherfuckin' right this dj clue grand theft audio 2
-get the fuck out the car nigga don't make me rush you, nigga
-shoot that nigga, 50!
+(dp1
+Vshot
+p2
+I1
+sVfrankie
+p3
+I2
+sVlyrics
+p4
+I2
+sVrob
+p5
+I1
+sVlloyd
+p6
+I1
+sVrocked
+p7
+I1
+sVfind
+p8
+I1
+sVblocked
+p9
+I1
+sVima
+p10
+I2
+sVcut
+p11
+I2
+sVdice
+p12
+I1
+sVearned
+p13
+I1
+sVcrack
+p14
+I3
+sVsmile
+p15
+I1
+sVmotherfuckin
+p16
+I1
+sVpaying
+p17
+I1
+sVdj
+p18
+I1
+sVyo
+p19
+I1
+sVget
+p20
+I1
+sVbeat
+p21
+I1
+sVgame
+p22
+I1
+sVtheft
+p23
+I1
+sVlook
+p24
+I3
+sVapple
+p25
+I1
+sVlike
+p26
+I4
+sVpacs
+p27
+I1
+sV50
+p28
+I6
+sVwit
+p29
+I1
+sVnigga
+p30
+I8
+sVten
+p31
+I1
+sVhard
+p32
+I1
+sVyeah
+p33
+I2
+sVtaught
+p34
+I1
+sVseal
+p35
+I1
+sVout
+p36
+I1
+sVgon
+p37
+I2
+sVfor
+p38
+I1
+sVrotten
+p39
+I1
+sVcause
+p40
+I3
+sVred
+p41
+I2
+sVaint
+p42
+I1
+sVdrink
+p43
+I1
+sVrolled
+p44
+I1
+sVsold
+p45
+I1
+sVburn
+p46
+I1
+sVmotherfucker
+p47
+I2
+sVwater
+p48
+I1
+sVgunit
+p49
+I1
+sVshoulda
+p50
+I1
+sVstuntin
+p51
+I1
+sVahead
+p52
+I1
+sVcould
+p53
+I1
+sVmac
+p54
+I2
+sVlookin
+p55
+I1
+sVfrankies
+p56
+I1
+sVfuckin
+p57
+I1
+sVgolden
+p58
+I1
+sVdont
+p59
+I3
+sVseven
+p60
+I1
+sVhook
+p61
+I1
+sVright
+p62
+I3
+sVbitch
+p63
+I1
+sVtony
+p64
+I1
+sVheads
+p65
+I1
+sVshells
+p66
+I1
+sVhey
+p67
+I1
+sVcent
+p68
+I2
+sVcoupe
+p69
+I1
+sV2
+I1
+sVteamwork
+p70
+I1
+sVlot
+p71
+I1
+sVthru
+p72
+I1
+sVpo
+p73
+I1
+sVfirm
+p74
+I1
+sVway
+p75
+I1
+sVjooks
+p76
+I1
+sVback
+p77
+I1
+sVsmoking
+p78
+I1
+sVhold
+p79
+I1
+sVcrapped
+p80
+I1
+sVyayo
+p81
+I1
+sVshoot
+p82
+I2
+sVrush
+p83
+I1
+sVfiends
+p84
+I1
+sVlocked
+p85
+I1
+sVwouldnt
+p86
+I1
+sVniggas
+p87
+I3
+sVcar
+p88
+I1
+sVwork
+p89
+I1
+sVup
+p90
+I3
+sVroof
+p91
+I1
+sVtell
+p92
+I1
+sVaight
+p93
+I1
+sVshook
+p94
+I1
+sVbizzy
+p95
+I1
+sVcrazy
+p96
+I3
+sVgive
+p97
+I1
+sVwasnt
+p98
+I1
+sVfuck
+p99
+I3
+sVheard
+p100
+I1
+sVim
+p101
+I4
+sVseen
+p102
+I1
+sVshit
+p103
+I2
+sVlooked
+p104
+I1
+sVna
+p105
+I2
+sVnah
+p106
+I1
+sVtill
+p107
+I1
+sVtake
+p108
+I1
+sVgrand
+p109
+I3
+sVyou
+p110
+I1
+sVlance
+p111
+I4
+sVsmoke
+p112
+I2
+sVmissin
+p113
+I2
+sVchance
+p114
+I1
+sVasked
+p115
+I1
+sVwrist
+p116
+I1
+sVclue
+p117
+I3
+sVman
+p118
+I3
+sVwell
+p119
+I1
+sVtooth
+p120
+I1
+sVthought
+p121
+I1
+sVreputation
+p122
+I1
+sVbanks
+p123
+I1
+sVaudio
+p124
+I1
+sVmake
+p125
+I1
+sVcame
+p126
+I1
+s.

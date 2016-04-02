@@ -1,31 +1,218 @@
-"she lives in my lap" lyrics
-outkast lyrics
-"she lives in my lap"
-(feat. rosario dawson)
-what's wrong? what are you afraid of?
-the love below
-she stays alone, never sheds a single tear
-she stays in the coolest moods, clearly woman of the year
-she and all her girlfriends, they go out dressed to win
-she comes back to the cooler side of town
-but she lives in my lap
-she lives in my lap
-forever my fiance
-she lives in my lap
-don't leave, don't stay
-she lives in my lap
-i'll get the courage one day
-make me want you, make me miss you
-make me wonder where you are, then forget you
-girl remind me, just who we are
-we're oh so close, but yet so far
-baby why are you acting like this?
-i don't care about any of them...
-i care about you!
-baby i love you!
-you've got me open wide (i love you)
-just come inside (baby)
-it's yours (it's yours)
-i'm yours (i'm yours)
-for sure (for sure)
-play baby play...
+(dp1
+Vforget
+p2
+I1
+sVwhats
+p3
+I1
+sVdont
+p4
+I3
+sVlyrics
+p5
+I2
+sVwin
+p6
+I1
+sVback
+p7
+I1
+sVone
+p8
+I1
+sVbaby
+p9
+I4
+sVsingle
+p10
+I1
+sVsure
+p11
+I2
+sVim
+p12
+I2
+sVare
+p13
+I1
+sVwant
+p14
+I1
+sVyear
+p15
+I1
+sVgo
+p16
+I1
+sVlove
+p17
+I3
+sVdawson
+p18
+I1
+sVfeat
+p19
+I1
+sVclearly
+p20
+I1
+sVyet
+p21
+I1
+sVwonder
+p22
+I1
+sVafraid
+p23
+I1
+sVopen
+p24
+I1
+sVremind
+p25
+I1
+sVdressed
+p26
+I1
+sVmake
+p27
+I3
+sVinside
+p28
+I1
+sVday
+p29
+I1
+sVacting
+p30
+I1
+sVcome
+p31
+I1
+sVgirl
+p32
+I1
+sVyou
+p33
+I5
+sVrosario
+p34
+I1
+sVplay
+p35
+I2
+sVthem
+p36
+I1
+sVwoman
+p37
+I1
+sVoutkast
+p38
+I1
+sVget
+p39
+I1
+sVfar
+p40
+I1
+sVgot
+p41
+I1
+sVnever
+p42
+I1
+sVgirlfriends
+p43
+I1
+sVstay
+p44
+I1
+sVwrong
+p45
+I1
+sVcourage
+p46
+I1
+sVlives
+p47
+I6
+sVmoods
+p48
+I1
+sVstays
+p49
+I2
+sValone
+p50
+I1
+sVlap
+p51
+I6
+sVfiance
+p52
+I1
+sVcare
+p53
+I2
+sVtown
+p54
+I1
+sVwide
+p55
+I1
+sVforever
+p56
+I1
+sVsheds
+p57
+I1
+sVlike
+p58
+I1
+sVmiss
+p59
+I1
+sVoh
+p60
+I1
+sVtear
+p61
+I1
+sVof
+p62
+I1
+sVill
+p63
+I1
+sVclose
+p64
+I1
+sVthis
+p65
+I1
+sVyours
+p66
+I2
+sVleave
+p67
+I1
+sVcooler
+p68
+I1
+sVbelow
+p69
+I1
+sVcomes
+p70
+I1
+sVyouve
+p71
+I1
+sVside
+p72
+I1
+sVcoolest
+p73
+I1
+s.

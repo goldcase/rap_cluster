@@ -1,92 +1,722 @@
-"if i had..." lyrics
-eminem lyrics
-"if i had..."
-life.. by marshall mathers
-what is life?
-life is like a big obstacle
-put in front of your optical to slow you down
-and everytime you think you gotten past it
-it's gonna come back around and tackle you to the damn ground
-what are friends?
-friends are people that you think are your friends
-but they really your enemies, with secret indentities
-and disguises, to hide they true colors
-so just when you think you close enough to be brothers
-they wanna come back and cut your throat when you ain't lookin
-what is money?
-money is what makes a man act funny
-money is the root of all evil
-money'll make them same friends come back around
-swearing that they was always down
-what is life?
-i'm tired of life
-i'm tired of backstabbing ass snakes with friendly grins
-i'm tired of committing so many sins
-tired of always giving in when this bottle of henny wins
-tired of never having any ends
-tired of having skinny friends hooked on crack and mini-thins
-i'm tired of this dj playing your shit when he spins
-tired of not having a deal
-tired of having to deal with the bullshit without grabbing the steel
-tired of drowning in my sorrow
-tired of having to borrow a dollar for gas to start my monte carlo
-i'm tired of motherfuckers spraying shit and dartin off
-i'm tired of jobs startin off at five fifty an hour
-then this boss wanders why i'm smartin off
-i'm tired of being fired everytime i fart and cough
-tired of having to work as a gas station clerk
-for this jerk breathing down my neck driving me bezerk
-i'm tired of using plastic silverware
-tired of working in building square
-tired of not being a millionaire
-but if i had a million dollars
-i'd buy a damn brewery, and turn the planet into alcoholics
-if i had a magic wand, i'd make the world suck my dick
-without a condom on, while i'm on the john
-if i had a million bucks
-it wouldn't be enough, because i'd still be out
-robbing armored trucks
-if i had one wish
-i would ask for a big enough ass for the whole world to kiss
-i'm tired of being white trash, broke and always poor
-tired of taking pop bottles back to the party store
-i'm tired of not having a phone
-tired of not having a home to have one in if i did have it on
-tired of not driving a bm
-tired of not working at gm, tired of wanting to be him
-tired of not sleeping without a tylenol pm
-tired of not performing in a packed coliseum
-tired of not being on tour
-tired of fucking the same blonde whore after work
-in the back of a contour
-i'm tired of faking knots with a stack of ones
-having a lack of funds and resorting back to guns
-tired of being stared at
-i'm tired of wearing the same damn nike air hat
-tired of stepping in clubs wearing the same pair of lugz
-tired of people saying they're tired of hearing me rap about drugs
-tired of other rappers who ain't bringin half the skill as me
-saying they wasn't feeling me on "nobody's as ill as me"
-i'm tired of radio stations telling fibs
-tired of j-l-b saying "where hip-hop lives"
-but if i had a million dollars
-i'd buy a damn brewery, and turn the planet into alcoholics
-if i had a magic wand, i'd make the world suck my dick
-without a condom on, while i'm on the john
-if i had a million bucks
-it wouldn't be enough, because i'd still be out
-robbing armored trucks
-if i had one wish
-i would ask for a big enough ass for the whole world to kiss
-you know what i'm saying?
-i'm tired of all of this bullshit
-telling me to be positive
-how'm i 'sposed to be positive when i don't see shit positive?
-know what i'm sayin?
-i rap about shit around me, shit i see
-know what i'm sayin? right now i'm tired of everything
-tired of all this player hating that's going on in my own city
-can't get no airplay, you know what i'm sayin?
-but ey, it's cool though, you know what i'm sayin?
-just fed up
-that's my word
+(dp1
+Vsaying
+p2
+I4
+sVmonte
+p3
+I1
+sVbringin
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I3
+sVlack
+p7
+I1
+sVdollar
+p8
+I1
+sVsilverware
+p9
+I1
+sVfifty
+p10
+I1
+sVtelling
+p11
+I2
+sVcolors
+p12
+I1
+sVradio
+p13
+I1
+sVstepping
+p14
+I1
+sVworld
+p15
+I4
+sVgm
+p16
+I1
+sVstill
+p17
+I2
+sVground
+p18
+I1
+sVaint
+p19
+I2
+sVminithins
+p20
+I1
+sVslow
+p21
+I1
+sVsayin
+p22
+I4
+sVdick
+p23
+I2
+sVhad
+p24
+I1
+sVairplay
+p25
+I1
+sVhim
+p26
+I1
+sVresorting
+p27
+I1
+sVmoneyll
+p28
+I1
+sVwhole
+p29
+I2
+sVcondom
+p30
+I2
+sVcrack
+p31
+I1
+sVhat
+p32
+I1
+sVfriendly
+p33
+I1
+sVwearing
+p34
+I2
+sVme
+p35
+I2
+sVskill
+p36
+I1
+sVbreathing
+p37
+I1
+sVdj
+p38
+I1
+sVaround
+p39
+I3
+sVjerk
+p40
+I1
+sVget
+p41
+I1
+sVbig
+p42
+I3
+sVspraying
+p43
+I1
+sValcoholics
+p44
+I2
+sVfive
+p45
+I1
+sVknow
+p46
+I5
+sVkiss
+p47
+I2
+sVwanting
+p48
+I1
+sVfront
+p49
+I1
+sVusing
+p50
+I1
+sVbrothers
+p51
+I1
+sVhearing
+p52
+I1
+sVbullshit
+p53
+I2
+sVcool
+p54
+I1
+sVgoing
+p55
+I1
+sVtrash
+p56
+I1
+sVmagic
+p57
+I2
+sVlike
+p58
+I1
+sVtrucks
+p59
+I2
+sVeverytime
+p60
+I2
+sValways
+p61
+I3
+sVperforming
+p62
+I1
+sVborrow
+p63
+I1
+sVbrewery
+p64
+I2
+sVstartin
+p65
+I1
+sVwish
+p66
+I2
+sVout
+p67
+I2
+sVspins
+p68
+I1
+sVsquare
+p69
+I1
+sVsnakes
+p70
+I1
+sVdeal
+p71
+I2
+sVpeople
+p72
+I2
+sVfucking
+p73
+I1
+sVhating
+p74
+I1
+sVback
+p75
+I6
+sVup
+p76
+I1
+sVpast
+p77
+I1
+sVclubs
+p78
+I1
+sVey
+p79
+I1
+sVjlb
+p80
+I1
+sVclose
+p81
+I1
+sVtheyre
+p82
+I1
+sVcarlo
+p83
+I1
+sVcontour
+p84
+I1
+sVpacked
+p85
+I1
+sVenemies
+p86
+I1
+sVgon
+p87
+I1
+sVhide
+p88
+I1
+sVdriving
+p89
+I2
+sVgiving
+p90
+I1
+sVhooked
+p91
+I1
+sVeverything
+p92
+I1
+sVenough
+p93
+I5
+sVclerk
+p94
+I1
+sVass
+p95
+I3
+sVends
+p96
+I1
+sVmillion
+p97
+I4
+sVjobs
+p98
+I1
+sVsmartin
+p99
+I1
+sVbm
+p100
+I1
+sVsorrow
+p101
+I1
+sVnever
+p102
+I1
+sVsins
+p103
+I1
+sVmathers
+p104
+I1
+sVcut
+p105
+I1
+sVput
+p106
+I1
+sVeminem
+p107
+I1
+sVcome
+p108
+I3
+sVon
+p109
+I1
+sVdrowning
+p110
+I1
+sVwanders
+p111
+I1
+sVwouldnt
+p112
+I2
+sVstations
+p113
+I1
+sVmany
+p114
+I1
+sVdollars
+p115
+I2
+sVmillionaire
+p116
+I1
+sVdisguises
+p117
+I1
+sVtour
+p118
+I1
+sVlookin
+p119
+I1
+sVact
+p120
+I1
+sVmakes
+p121
+I1
+sVthink
+p122
+I3
+sVbezerk
+p123
+I1
+sVknots
+p124
+I1
+sVswearing
+p125
+I1
+sVdont
+p126
+I1
+sVmarshall
+p127
+I1
+sVpop
+p128
+I1
+sVone
+p129
+I3
+sVdown
+p130
+I2
+sVask
+p131
+I2
+sVstared
+p132
+I1
+sVright
+p133
+I1
+sVblonde
+p134
+I1
+sVfired
+p135
+I1
+sVwan
+p136
+I1
+sVfed
+p137
+I1
+sVcough
+p138
+I1
+sVworking
+p139
+I2
+sVpositive
+p140
+I3
+sVtired
+p141
+I41
+sVfibs
+p142
+I1
+sVplastic
+p143
+I1
+sVdartin
+p144
+I1
+sVstart
+p145
+I1
+sVsecret
+p146
+I1
+sVstation
+p147
+I1
+sVdamn
+p148
+I4
+sVwhite
+p149
+I1
+sVjohn
+p150
+I2
+sVstore
+p151
+I1
+sVpm
+p152
+I1
+sVlife
+p153
+I5
+sVbuy
+p154
+I2
+sVgrabbing
+p155
+I1
+sVfunds
+p156
+I1
+sVgas
+p157
+I2
+sVsposed
+p158
+I1
+sVphone
+p159
+I1
+sVoptical
+p160
+I1
+sVlives
+p161
+I1
+sVbroke
+p162
+I1
+sVrobbing
+p163
+I2
+sVtrue
+p164
+I1
+sVill
+p165
+I1
+sVsteel
+p166
+I1
+sVlugz
+p167
+I1
+sVword
+p168
+I1
+sVhour
+p169
+I1
+sVplayer
+p170
+I1
+sVgotten
+p171
+I1
+sVwork
+p172
+I2
+sVsee
+p173
+I2
+sVboss
+p174
+I1
+sVair
+p175
+I1
+sVplanet
+p176
+I2
+sVfaking
+p177
+I1
+sVfeeling
+p178
+I1
+sVroot
+p179
+I1
+sVtaking
+p180
+I1
+sVwould
+p181
+I2
+sVarmored
+p182
+I2
+sVwand
+p183
+I2
+sVwasnt
+p184
+I1
+sVhalf
+p185
+I1
+sVit
+p186
+I1
+sVsleeping
+p187
+I1
+sVtylenol
+p188
+I1
+sVcant
+p189
+I1
+sVobstacle
+p190
+I1
+sVim
+p191
+I23
+sVat
+p192
+I1
+sVrap
+p193
+I2
+sVhome
+p194
+I1
+sVthroat
+p195
+I1
+sVbucks
+p196
+I2
+sVid
+p197
+I6
+sVshit
+p198
+I5
+sVbackstabbing
+p199
+I1
+sVdrugs
+p200
+I1
+sVfunny
+p201
+I1
+sVones
+p202
+I1
+sVbottles
+p203
+I1
+sVturn
+p204
+I2
+sVna
+p205
+I2
+sVmake
+p206
+I3
+sVindentities
+p207
+I1
+sVguns
+p208
+I1
+sVhenny
+p209
+I1
+sVpair
+p210
+I1
+sVwhore
+p211
+I1
+sVparty
+p212
+I1
+sVnobodys
+p213
+I1
+sVreally
+p214
+I1
+sVpoor
+p215
+I1
+sVcommitting
+p216
+I1
+sVthough
+p217
+I1
+sVrappers
+p218
+I1
+sVevil
+p219
+I1
+sVfart
+p220
+I1
+sVhiphop
+p221
+I1
+sVtackle
+p222
+I1
+sVsuck
+p223
+I2
+sVfriends
+p224
+I5
+sVstack
+p225
+I1
+sVman
+p226
+I1
+sVbuilding
+p227
+I1
+sVoff
+p228
+I2
+sVneck
+p229
+I1
+sVwins
+p230
+I1
+sVnike
+p231
+I1
+sVmotherfuckers
+p232
+I1
+sVwithout
+p233
+I4
+sVcity
+p234
+I1
+sVbottle
+p235
+I1
+sVcoliseum
+p236
+I1
+sVgrins
+p237
+I1
+sVskinny
+p238
+I1
+sVthats
+p239
+I2
+sVplaying
+p240
+I1
+sVhowm
+p241
+I1
+s.

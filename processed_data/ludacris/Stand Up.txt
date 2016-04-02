@@ -1,60 +1,539 @@
-"stand up" lyrics
-ludacris lyrics
-"stand up"
-stand up! stand up!
-stand up! stand up!
-when i move you move (just like that?)
-when i move you move (just like that?)
-when i move you move (just like that?)
-hell yeah! hey dj bring that back!
-(when i move you move) just like that?
-(when i move you move) just like that?
-(when i move you move) just like that?
-(hell yeah, hey dj bring that back!)
-how you ain't gon' fuck! bitch i'm me?
-i'm the god damn reason you in vip
-ceo you don't have to see id
-i'm young, wild, and strapped like chi-ali
-blaow! we ain't got nothing to worry about
-whoop ass, let security carry em out
-watch out for the medallion my diamonds are wreckless
-feels like a midget is hanging from my neckless
-i pulled up wit a million trucks
-looking, smelling, feeling like a million bucks-ahh!
-pass the bottles, the heat is on
-we in the huddle all smoking that cheech & chong
-what's wrong?! the club and moon is full
-and i'm lookin for a thick young lady to pull
-one sure shot way to get em outta them pants
-take note to the brand new dance, like this
-go on wit ya big ass! lemme see something
-tell ya little friend he can quit mean mugging
-i'm lit and i don't care what no one thinks
-but where the fuck is the waitress at wit my drinks?!
-my people outside and they can't get in
-we gon' rush the back door and break em in
-the owner already pissed cause we sorta late
-but our time and our clothes gotta coordinate
-most girls lookin right some lookin a mess
-that's why they spilling drinks all over ya dress
-but louis vuitton bras all over your breasts
-got me wanting to put hickies all over ya chest-ahh
-c'mon! we gon party tonight
-y'all use mouth to mouth bring the party to life
-don't be scurred, show another part of your life
-the more drinks in your system the harder to fight!
-stand up! stand up!
-stand up! stand up!
-damn right the fire marshall wanna shut us down
-get us out so someone can gun us down
-we was two songs away from getting some cutta
-now we one song away from tearing da club up
-move over! luda got something to say
-do it now cause 'tomorrow' ain't promised 'today'
-work wit me! let's become one with the beat
-and don't worry bout me steppin all over ya feet
-stand up! stand up!
-stand up! stand up!
-stand up! (just like that?)
-stand up! (just like that?)
-stand up! stand up!
+(dp1
+Vshot
+p2
+I1
+sVbucksahh
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVdance
+p6
+I1
+sVmove
+p7
+I13
+sVbring
+p8
+I3
+sVhanging
+p9
+I1
+sVgo
+p10
+I1
+sVhell
+p11
+I2
+sVspilling
+p12
+I1
+sVaint
+p13
+I3
+sVlit
+p14
+I1
+sVsystem
+p15
+I1
+sVcheech
+p16
+I1
+sVshow
+p17
+I1
+sVyoung
+p18
+I2
+sVlate
+p19
+I1
+sVlets
+p20
+I1
+sVbout
+p21
+I1
+sVta
+p22
+I1
+sVsomeone
+p23
+I1
+sVdj
+p24
+I2
+sVget
+p25
+I3
+sVceo
+p26
+I1
+sVbig
+p27
+I1
+sVwatch
+p28
+I1
+sVda
+p29
+I1
+sVbreak
+p30
+I1
+sVfeels
+p31
+I1
+sVnew
+p32
+I1
+sVlady
+p33
+I1
+sVdown
+p34
+I2
+sVhuddle
+p35
+I1
+sVlike
+p36
+I12
+sVtrucks
+p37
+I1
+sVlouis
+p38
+I1
+sVgun
+p39
+I1
+sVbecome
+p40
+I1
+sVneckless
+p41
+I1
+sVyall
+p42
+I1
+sVmean
+p43
+I1
+sVem
+p44
+I3
+sVright
+p45
+I2
+sVpeople
+p46
+I1
+sVback
+p47
+I3
+sVowner
+p48
+I1
+sVsee
+p49
+I2
+sVhickies
+p50
+I1
+sVsteppin
+p51
+I1
+sVpass
+p52
+I1
+sVthinks
+p53
+I1
+sVout
+p54
+I1
+sVgon
+p55
+I3
+sVsorta
+p56
+I1
+sVgod
+p57
+I1
+sVaway
+p58
+I2
+sVmoon
+p59
+I1
+sVlooking
+p60
+I1
+sVoutside
+p61
+I1
+sVdiamonds
+p62
+I1
+sVgot
+p63
+I4
+sVcause
+p64
+I2
+sVpants
+p65
+I1
+sVass
+p66
+I2
+sVshut
+p67
+I1
+sVfull
+p68
+I1
+sVtomorrow
+p69
+I1
+sVquit
+p70
+I1
+sVmillion
+p71
+I2
+sVlem
+p72
+I1
+sVreason
+p73
+I1
+sVlet
+p74
+I1
+sVmedallion
+p75
+I1
+sVput
+p76
+I1
+sVsecurity
+p77
+I1
+sVpissed
+p78
+I1
+sVcare
+p79
+I1
+sVvuitton
+p80
+I1
+sVon
+p81
+I1
+sVabout
+p82
+I1
+sVgetting
+p83
+I1
+sVmugging
+p84
+I1
+sVstand
+p85
+I18
+sVlookin
+p86
+I3
+sVmouth
+p87
+I2
+sVclothes
+p88
+I1
+sVwaitress
+p89
+I1
+sVthats
+p90
+I1
+sValready
+p91
+I1
+sVwhats
+p92
+I1
+sVdont
+p93
+I4
+sVmarshall
+p94
+I1
+sVone
+p95
+I4
+sVwhoop
+p96
+I1
+sVvip
+p97
+I1
+sVwit
+p98
+I4
+sVbitch
+p99
+I1
+sVanother
+p100
+I1
+sVcarry
+p101
+I1
+sVthick
+p102
+I1
+sVwan
+p103
+I1
+sVfire
+p104
+I1
+sVstrapped
+p105
+I1
+sVlittle
+p106
+I1
+sVgirls
+p107
+I1
+sVhey
+p108
+I2
+sVfight
+p109
+I1
+sVdamn
+p110
+I2
+sVway
+p111
+I1
+sVtell
+p112
+I1
+sVfriend
+p113
+I1
+sVbras
+p114
+I1
+sVlife
+p115
+I2
+sVblaow
+p116
+I1
+sVthat
+p117
+I8
+sVclub
+p118
+I2
+sVbrand
+p119
+I1
+sVyeah
+p120
+I2
+sVheat
+p121
+I1
+sVpart
+p122
+I1
+sVcutta
+p123
+I1
+sVsmoking
+p124
+I1
+sVtearing
+p125
+I1
+sVchong
+p126
+I1
+sVme
+p127
+I2
+sVpull
+p128
+I1
+sVrush
+p129
+I1
+sVthis
+p130
+I1
+sVwork
+p131
+I1
+sVharder
+p132
+I1
+sVup
+p133
+I9
+sVus
+p134
+I3
+sVtoday
+p135
+I1
+sVwild
+p136
+I1
+sVfeeling
+p137
+I1
+sVchiali
+p138
+I1
+sVsay
+p139
+I1
+sVpromised
+p140
+I1
+sVluda
+p141
+I1
+sVcmon
+p142
+I1
+sVoutta
+p143
+I1
+sVfuck
+p144
+I2
+sVtonight
+p145
+I1
+sVcant
+p146
+I1
+sVim
+p147
+I5
+sVsomething
+p148
+I2
+sVin
+p149
+I2
+sVdoor
+p150
+I1
+sVdress
+p151
+I1
+sVid
+p152
+I1
+sVworry
+p153
+I2
+sVparty
+p154
+I2
+sVbottles
+p155
+I1
+sVna
+p156
+I1
+sVsong
+p157
+I1
+sVbeat
+p158
+I1
+sVnote
+p159
+I1
+sVya
+p160
+I5
+sVtake
+p161
+I1
+sVwanting
+p162
+I1
+sVdrinks
+p163
+I3
+sVwreckless
+p164
+I1
+sVscurred
+p165
+I1
+sVsure
+p166
+I1
+sVmess
+p167
+I1
+sVuse
+p168
+I1
+sVchestahh
+p169
+I1
+sVbreasts
+p170
+I1
+sVwrong
+p171
+I1
+sVfeet
+p172
+I1
+sVmidget
+p173
+I1
+sVtwo
+p174
+I1
+sVsmelling
+p175
+I1
+sVnothing
+p176
+I1
+sVtime
+p177
+I1
+sVcoordinate
+p178
+I1
+sVpulled
+p179
+I1
+sVsongs
+p180
+I1
+s.

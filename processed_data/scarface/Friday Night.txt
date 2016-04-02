@@ -1,90 +1,767 @@
-"friday night" lyrics
-scarface lyrics
-"friday night"
-(feat. cj mack)
-damn, this a bitch
-we ain't gotta motherfuckin thing
-ring cj do what he doin in cali-for-ni-a
-(hello?)
-hey, wuz up nigga, it's face
-(what up fizzace?)
-feelin i'm gone come fuck wit you
-(come on down loco)
-ai, please have some bitches, please
-(ha ha ha) ha ha ha
-locc, i been hustlin all week
-tonight's the night i dips 'n try to step up in a freak
-i call this ho named tiki, she got homies we can twist
-all we need's some chronic and a motherfuckin fifth
-is you wit me locc?
-what's mine is yours and what's yours is mines
-when i'm in houston you be treatin me fine
-i scoop you up in l.a.x. around 6
-i scootch you through the hood, then we gone get up in these tricks
-it's friday night
-two players in a black 5-0-0
-slidin down the shore, gettin at every fly ho
-i'm wit my homey, ain't nobody set trippin
-drops my shit off at his house and then we kept flippin
-now see y'know your nigga don't sleep
-homey enough and see
-well, hand your nigga some heat
-so i can feel warm in these cold ass l.a. streets
-now hook ya nigga wit some l.a. freaks, baby
-it's friday night
-straight sellin with my texas g
-stayin sucka free as i l-o-c
-it's friday night
-two players on a hoodrat chase
-you niggas can't see me and you can't see my nigga face
-first thang we do is hit the club
-i'm seein hella bitches in the corners tryin to show your homey love
-this bitch is fly as a bird
-and gotta ass that could swang from california all the way up thru
-pittsburgh
-hold up locc (what?)
-i know that flea
-she been out 'n club hoppin since '83 (ain't this a bitch)
-and the bitch is still hoin
-see, get at broke bitch and fake smile and keep strollin locc (riiiight!)
-see them busters in the corner, they don't like my hood
-i don't like their hood so it ain't all good
-so keep ya eyes on em
-cos if it ??? ??? line, we gotta slide on em
-ride on em
-i gots no problem kickin dust up wit punk ass little busters
-who wants to try to buck us, we grab these guns and bust em
-i gots that tena millimetre in tha parkin lot
-fuck em locc, we gots some bitches at the mariott
-you motherfuckers better chill
-before you fuck around and lose and get your cap peeled
-jumps on the elevator, hops off the six floor
-knocks on the door of room 604
-gets greeted by the biggest pair of thighs you wanna see
-with a pair just like a *?mona?* homegirl g
-see, vee like the mix and vee like the twist of em
-face, you can hit it first and then we can switch
-it ain't no fun if my homey can't twist a bitch
-i'll dare ya ass to try to run that 2pac shit
-i goes high-ho silver like the fuckin moan ranger
-playin here's out my dick inside a total fuckin stranger
-you fuckin with a texas cowboy, i puts it down boy
-you ready for the second go (you know it!)
-i go two or three hours and i'm sendin these bitches off on their way
-(see ya!) you's a fool cj!
-(nigga, how you like the southern california freakin?)
-dogg, i'll be back every motherfuckin weekend
-it's friday night
-straight sellin with my texas og
-stayin sucka free as i l-o-c
-it's friday night
-you motherfuckers better lay back
-(cos you can't see that face)
-or it's just the nigga c-mack
-yeah mr scarface and cj mack
-puttin in much work for rap-a-lot and rap-a-lot west for the 9-5
-you motherfuckers better stay down
-cos y'all punks couldn't see us with ultrasound
-coward
-you motherfuckers couldn't see us with glasses on
-he he, y'knowhuti'msayin?
+(dp1
+Vhouston
+p2
+I1
+sVset
+p3
+I1
+sVstrollin
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVwuz
+p7
+I1
+sVlay
+p8
+I1
+sVweekend
+p9
+I1
+sVbaby
+p10
+I1
+sVsleep
+p11
+I1
+sVhighho
+p12
+I1
+sVknocks
+p13
+I1
+sVgo
+p14
+I2
+sVlove
+p15
+I1
+sVcold
+p16
+I1
+sVstill
+p17
+I1
+sVfeat
+p18
+I1
+sVfifth
+p19
+I1
+sVaint
+p20
+I5
+sVhold
+p21
+I1
+sVla
+p22
+I2
+sVhops
+p23
+I1
+sVthang
+p24
+I1
+sVdick
+p25
+I1
+sVbust
+p26
+I1
+sVswang
+p27
+I1
+sVbetter
+p28
+I3
+sVcoward
+p29
+I1
+sVvee
+p30
+I2
+sVblack
+p31
+I1
+sVhomies
+p32
+I1
+sVsmile
+p33
+I1
+sVcap
+p34
+I1
+sVtexas
+p35
+I3
+sVta
+p36
+I3
+sVfool
+p37
+I1
+sVtreatin
+p38
+I1
+sVgood
+p39
+I1
+sVhit
+p40
+I2
+sVaround
+p41
+I2
+sVstay
+p42
+I1
+sVget
+p43
+I3
+sVya
+p44
+I4
+sVhoodrat
+p45
+I1
+sVfeelin
+p46
+I1
+sVevery
+p47
+I2
+sVknow
+p48
+I2
+sVflea
+p49
+I1
+sVslidin
+p50
+I1
+sVsilver
+p51
+I1
+sVdare
+p52
+I1
+sVtrippin
+p53
+I1
+sVlike
+p54
+I7
+sVstranger
+p55
+I1
+sVhook
+p56
+I1
+sVcorners
+p57
+I1
+sVgettin
+p58
+I1
+sVhoin
+p59
+I1
+sVguns
+p60
+I1
+sVtry
+p61
+I3
+sVtiki
+p62
+I1
+sVslide
+p63
+I1
+sVthighs
+p64
+I1
+sVnight
+p65
+I8
+sVgrab
+p66
+I1
+sVride
+p67
+I1
+sVyall
+p68
+I1
+sVglasses
+p69
+I1
+sVem
+p70
+I6
+sVnigga
+p71
+I7
+sVhouse
+p72
+I1
+sVstreets
+p73
+I1
+sVback
+p74
+I2
+sVsee
+p75
+I12
+sVcorner
+p76
+I1
+sV83
+p77
+I1
+sVhomegirl
+p78
+I1
+sVyknow
+p79
+I1
+sVgoes
+p80
+I1
+sV604
+p81
+I1
+sVwhat
+p82
+I1
+sVheres
+p83
+I1
+sVfine
+p84
+I1
+sVtena
+p85
+I1
+sVsince
+p86
+I1
+sVplease
+p87
+I2
+sVmines
+p88
+I1
+sVmoan
+p89
+I1
+sVstayin
+p90
+I2
+sVenough
+p91
+I1
+sVfreaks
+p92
+I1
+sVit
+p93
+I1
+sVgot
+p94
+I4
+sVbird
+p95
+I1
+sVass
+p96
+I4
+sVpeeled
+p97
+I1
+sVrun
+p98
+I1
+sVwan
+p99
+I1
+sVjumps
+p100
+I1
+sVfriday
+p101
+I7
+sVmillimetre
+p102
+I1
+sVfree
+p103
+I2
+sVhours
+p104
+I1
+sVranger
+p105
+I1
+sVstep
+p106
+I1
+sVcalifornia
+p107
+I3
+sVpunks
+p108
+I1
+sVhoppin
+p109
+I1
+sVgots
+p110
+I3
+sVon
+p111
+I1
+sVgreeted
+p112
+I1
+sVcome
+p113
+I2
+sVbuck
+p114
+I1
+sVcos
+p115
+I3
+sVmariott
+p116
+I1
+sVputtin
+p117
+I1
+sVg
+I2
+sVmona
+p118
+I1
+sVog
+p119
+I1
+sVcould
+p120
+I1
+sVpunk
+p121
+I1
+sVkeep
+p122
+I2
+sVplayers
+p123
+I2
+sVflippin
+p124
+I1
+sVwest
+p125
+I1
+sVmotherfuckers
+p126
+I4
+sVtonights
+p127
+I1
+sVfirst
+p128
+I2
+sVcj
+p129
+I4
+sVnamed
+p130
+I1
+sVwhats
+p131
+I2
+sVdont
+p132
+I3
+sVlocc
+p133
+I5
+sVfeel
+p134
+I1
+sVcouldnt
+p135
+I2
+sVtwo
+p136
+I3
+sVdown
+p137
+I1
+sVchronic
+p138
+I1
+sVwit
+p139
+I5
+sVbitch
+p140
+I6
+sVfake
+p141
+I1
+sVring
+p142
+I1
+sVtotal
+p143
+I1
+sVyous
+p144
+I1
+sVbusters
+p145
+I2
+sVhood
+p146
+I3
+sVloc
+p147
+I2
+sVlittle
+p148
+I1
+sVseein
+p149
+I1
+sVputs
+p150
+I1
+sVlose
+p151
+I1
+sVdogg
+p152
+I1
+sVhey
+p153
+I1
+sVelevator
+p154
+I1
+sVcowboy
+p155
+I1
+sVmuch
+p156
+I1
+sVcall
+p157
+I1
+sVhustlin
+p158
+I1
+sV6
+I1
+sVbiggest
+p159
+I1
+sVdamn
+p160
+I1
+sVtryin
+p161
+I1
+sV500
+p162
+I1
+sVwants
+p163
+I1
+sVyknowhutimsayin
+p164
+I1
+sVeyes
+p165
+I1
+sVdoor
+p166
+I1
+sVway
+p167
+I2
+sVboy
+p168
+I1
+sVclub
+p169
+I2
+sVdips
+p170
+I1
+sVnobody
+p171
+I1
+sVkickin
+p172
+I1
+sVmine
+p173
+I1
+sVheat
+p174
+I1
+sVwarm
+p175
+I1
+sVho
+p176
+I2
+sVbroke
+p177
+I1
+sVfreakin
+p178
+I1
+sVloco
+p179
+I1
+sVline
+p180
+I1
+sVha
+p181
+I6
+sV95
+p182
+I1
+sV2pac
+p183
+I1
+sVchill
+p184
+I1
+sVfly
+p185
+I2
+sVthru
+p186
+I1
+sVroom
+p187
+I1
+sVniggas
+p188
+I1
+sVstraight
+p189
+I2
+sVhomey
+p190
+I4
+sVsecond
+p191
+I1
+sVus
+p192
+I3
+sVn
+I2
+sVthree
+p193
+I1
+sVmr
+p194
+I1
+sVfun
+p195
+I1
+sVim
+p196
+I5
+sVproblem
+p197
+I1
+sVdrops
+p198
+I1
+sVultrasound
+p199
+I1
+sVill
+p200
+I2
+sVsucka
+p201
+I2
+sVgone
+p202
+I2
+sVfreak
+p203
+I1
+sVai
+p204
+I1
+sVfuck
+p205
+I3
+sVtwist
+p206
+I3
+sVcant
+p207
+I4
+sVscarface
+p208
+I2
+sVplayin
+p209
+I1
+sVready
+p210
+I1
+sVwork
+p211
+I1
+sVshit
+p212
+I2
+sVchase
+p213
+I1
+sVmix
+p214
+I1
+sVneeds
+p215
+I1
+sVinside
+p216
+I1
+sVthing
+p217
+I1
+sVriiiight
+p218
+I1
+sVsix
+p219
+I1
+sVswitch
+p220
+I1
+sVpittsburgh
+p221
+I1
+sVpair
+p222
+I2
+sVmotherfuckin
+p223
+I3
+sVscootch
+p224
+I1
+sVyou
+p225
+I1
+sVgets
+p226
+I1
+sVweek
+p227
+I1
+sVcmack
+p228
+I1
+sVbitches
+p229
+I4
+sVdoin
+p230
+I1
+sVsouthern
+p231
+I1
+sVhand
+p232
+I1
+sVlot
+p233
+I1
+sVlax
+p234
+I1
+sVfloor
+p235
+I1
+sVdust
+p236
+I1
+sVfizzace
+p237
+I1
+sVmack
+p238
+I2
+sVyeah
+p239
+I1
+sVkept
+p240
+I1
+sVtricks
+p241
+I1
+sVsellin
+p242
+I2
+sVwell
+p243
+I1
+sVsendin
+p244
+I1
+sVface
+p245
+I4
+sVscoop
+p246
+I1
+sVshore
+p247
+I1
+sVhella
+p248
+I1
+sVfuckin
+p249
+I3
+sVna
+p250
+I1
+sVparkin
+p251
+I1
+sVrapalot
+p252
+I2
+sVhello
+p253
+I1
+sVtha
+p254
+I1
+s.

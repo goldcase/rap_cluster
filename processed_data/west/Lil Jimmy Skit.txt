@@ -1,20 +1,170 @@
-lil jimmy skit lyrics
-kanye west lyrics
-lil jimmy skit
-hey jimmy going
-dont know im goin
-dad died left degrees
-mom would always say dad dont work
-kept learning
-kids parents working saving money school
-actaully school dad school
-gready degrees took degree
-im glad left these
-regular homeless people newspaper look
-documented
-father left me
-im going leave kids
-im going learn too
-im going get super smart die without money
-ill smartest dead guy
-that
+(dp1
+Vjimmy
+p2
+I3
+sVsaving
+p3
+I1
+sVdont
+p4
+I2
+sVlyrics
+p5
+I2
+sVactaully
+p6
+I1
+sVmoney
+p7
+I2
+sVskit
+p8
+I2
+sVdead
+p9
+I1
+sVsay
+p10
+I1
+sVim
+p11
+I5
+sVlearning
+p12
+I1
+sVdie
+p13
+I1
+sVkanye
+p14
+I1
+sVdocumented
+p15
+I1
+sVhomeless
+p16
+I1
+sVwould
+p17
+I1
+sVlil
+p18
+I2
+sVwest
+p19
+I1
+sVpeople
+p20
+I1
+sVfather
+p21
+I1
+sVhey
+p22
+I1
+sVthat
+p23
+I1
+sVgoing
+p24
+I4
+sVdegrees
+p25
+I2
+sVglad
+p26
+I1
+sVparents
+p27
+I1
+sVsmart
+p28
+I1
+sVtoo
+p29
+I1
+sVdad
+p30
+I3
+sVdegree
+p31
+I1
+sVget
+p32
+I1
+sVtook
+p33
+I1
+sVsmartest
+p34
+I1
+sVregular
+p35
+I1
+sVknow
+p36
+I1
+sVmom
+p37
+I1
+sVgready
+p38
+I1
+sVsuper
+p39
+I1
+sVdied
+p40
+I1
+sVgoin
+p41
+I1
+sVme
+p42
+I1
+sVschool
+p43
+I3
+sVkids
+p44
+I2
+sVkept
+p45
+I1
+sVworking
+p46
+I1
+sVthese
+p47
+I1
+sValways
+p48
+I1
+sVill
+p49
+I1
+sVwork
+p50
+I1
+sVleave
+p51
+I1
+sVlook
+p52
+I1
+sVwithout
+p53
+I1
+sVlearn
+p54
+I1
+sVnewspaper
+p55
+I1
+sVguy
+p56
+I1
+sVleft
+p57
+I3
+s.

@@ -1,86 +1,281 @@
-see nightmares lyrics
-kanye west lyrics
-see nightmares
-feat lil wayne
-im cold yeah
-im cold yeah
-im cold yeah
-yeah
-got right
-put fight
-quite
-cause cut light
-sight
-better tonight
-might see nightmare
-oh howd youd get there
-cause fairy tale
-farewell
-got life
-one
-got night
-im running sun
-good night
-made door door door doordoor
-tonight
-return
-tonight
-im taking road
-im taking road
-letting know
-letting know
-tell everybody know
-dont love more
-thats one thing know
-know
-okay im back grind
-im gon mine
-cause im gon fine
-okay got mind
-night young
-drinks cold
-stars out
-im ready go
-always thought always wrong
-well know
-tell everybody everybody know
-tell everybody know
-dont love more
-thats one thing know
-know
-got right
-put fight
-quite
-cause cut light
-sight
-better tonight
-might see nightmare
-oh howd youd get there
-cause fairy tale
-farewell
-babygirl im finished
-thought committed
-thought cemented
-really thought meant it
-repent it
-resent it
-clouds vision
-look high getting
-you
-girl through
-think shit dont stank
-mrs pu
-dont see you
-more
-tell everybody know
-know
-know
-tell everybody know
-dont love more
-thats one thing know
-know
-llllletting know
-tell everybody know
-dont love more
-thats one thing know
-know
+(dp1
+Vlyrics
+p2
+I2
+sVthrough
+p3
+I1
+sVcommitted
+p4
+I1
+sVgo
+p5
+I1
+sVkanye
+p6
+I1
+sVcold
+p7
+I4
+sVfeat
+p8
+I1
+sVletting
+p9
+I2
+sVcut
+p10
+I2
+sVyoung
+p11
+I1
+sVbetter
+p12
+I2
+sVwayne
+p13
+I1
+sVmight
+p14
+I2
+sVmeant
+p15
+I1
+sVgood
+p16
+I1
+sVreturn
+p17
+I1
+sVget
+p18
+I2
+sVresent
+p19
+I1
+sVknow
+p20
+I20
+sVclouds
+p21
+I1
+sValways
+p22
+I2
+sVnight
+p23
+I3
+sVfairy
+p24
+I2
+sVout
+p25
+I1
+sVvision
+p26
+I1
+sVbabygirl
+p27
+I1
+sVright
+p28
+I2
+sVdoordoor
+p29
+I1
+sVyeah
+p30
+I4
+sVsee
+p31
+I5
+sVfarewell
+p32
+I2
+sVsight
+p33
+I2
+sVgirl
+p34
+I1
+sVcemented
+p35
+I1
+sVdrinks
+p36
+I1
+sVgon
+p37
+I2
+sVmine
+p38
+I1
+sVsun
+p39
+I1
+sVnightmare
+p40
+I2
+sVgot
+p41
+I5
+sVcause
+p42
+I5
+sVquite
+p43
+I2
+sVnightmares
+p44
+I2
+sVput
+p45
+I2
+sVoh
+p46
+I2
+sVtaking
+p47
+I2
+sVwrong
+p48
+I1
+sVthing
+p49
+I4
+sVstank
+p50
+I1
+sVthink
+p51
+I1
+sVroad
+p52
+I2
+sVthats
+p53
+I4
+sVlove
+p54
+I4
+sVdont
+p55
+I6
+sVyoud
+p56
+I2
+sVone
+p57
+I5
+sVllllletting
+p58
+I1
+sVeverybody
+p59
+I7
+sVpu
+p60
+I1
+sVwest
+p61
+I1
+sVthere
+p62
+I2
+sVfight
+p63
+I2
+sVstars
+p64
+I1
+sVtell
+p65
+I6
+sVmore
+p66
+I5
+sVlife
+p67
+I1
+sVdoor
+p68
+I3
+sVback
+p69
+I1
+sVfinished
+p70
+I1
+sVhigh
+p71
+I1
+sVmade
+p72
+I1
+sVlook
+p73
+I1
+sVgetting
+p74
+I1
+sVmind
+p75
+I1
+sVit
+p76
+I3
+sVtonight
+p77
+I4
+sVim
+p78
+I11
+sVready
+p79
+I1
+sVmrs
+p80
+I1
+sVshit
+p81
+I1
+sVtale
+p82
+I2
+sVlil
+p83
+I1
+sVrepent
+p84
+I1
+sVyou
+p85
+I2
+sVreally
+p86
+I1
+sVokay
+p87
+I2
+sVrunning
+p88
+I1
+sVlight
+p89
+I2
+sVwell
+p90
+I1
+sVfine
+p91
+I1
+sVgrind
+p92
+I1
+sVthought
+p93
+I4
+sVhowd
+p94
+I2
+s.

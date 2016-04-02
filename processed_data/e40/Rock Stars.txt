@@ -1,64 +1,558 @@
-"rock stars" lyrics
-e-40 lyrics
-"rock stars"
-ah yeah
-it's real
-gonna put it down
-all these little crime thangs
-homeless the world is crazy boy
-it's like this
-it's the way it is
-heavy out there, it's heavy
-was i really such a bad child that i deserved to get hit with boards
-and whooped with extension cords?
-did you forget that i was your creation
-and all i wanted from you all was love hope and motivation?
-son, you're disrespectful and you're talking back, get out my face
-kicked me out the house and wouldn't even let me plead my case
-now, i'm homeless and i'm freezing like the morgue
-the only thing keeping me alive is the lord
-needless to say it's times like this i'd rather be locked up then
-drinkin' water out my hands and eatin' out of garbage cans
-can i come back home, huh could i?
-son, you're on your own, why should i?
-some things'll never change, that's just the way it is
-nobody's even concerned
-some things'll never change, that's just the way it is
-when will we ever learn?
-huh, three years from now, i think i'm gon be straight
-i put my name on the list for section 8
-tried out for the army but i was flat footed
-didn't do no harm to me, 'cause i was used to it
-if i apply for some work, let's make a bet
-i'll get the nine 'cause i don't know about the internet
-what do you think we need to do to change about this nation?
-need to provide more jobs and better education
-nuclear weapons, puh, should be stopping crimes
-already got enough to blow the world up a thousand times
-the birds and the bees, deadly disease
-teenage pregnancies, stds
-some things'll never change, that's just the way it is
-nobody's even concerned
-some things'll never change, that's just the way it is
-when will we ever learn?
-a wait, a wait a minute, i hear sirens
-oh, that's the couple down the street
-domestic violence either them or the little girl in 306
-she's always telling everyone that she gon slice her wrists
-i guess that's the way it is in the life of sin
-where you'll prolly end up dead, or in the pen
-but my family ain't no better than the next
-my auntie brenda turned her own sister in for writing bad checks
-and save folks try to hit you where it hurts
-knowin' they the biggest hypocrites in the church
-we need to give our minds a bath and do some scrubbin'
-stop the hate and start the lovin'
-some things'll never change, that's just the way it is
-nobody's even concerned
-some things'll never change, that's just the way it is
-when will we ever learn?
-some things'll never change, that's just the way it is
-nobody's even concerned
-some things'll never change, that's just the way it is
-when will we ever learn?
-learn, learn, learn, learn
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVchild
+p4
+I1
+sVdomestic
+p5
+I1
+sVyears
+p6
+I1
+sVhate
+p7
+I1
+sVbirds
+p8
+I1
+sVdrinkin
+p9
+I1
+sVbrenda
+p10
+I1
+sVfamily
+p11
+I1
+sVconcerned
+p12
+I4
+sVpen
+p13
+I1
+sVcrime
+p14
+I1
+sVbetter
+p15
+I2
+sVlets
+p16
+I1
+sVfolks
+p17
+I1
+sVlord
+p18
+I1
+sVsave
+p19
+I1
+sVhope
+p20
+I1
+sVreal
+p21
+I1
+sVthen
+p22
+I1
+sVhit
+p23
+I2
+sVknowin
+p24
+I1
+sVdisrespectful
+p25
+I1
+sVthingsll
+p26
+I8
+sVcouple
+p27
+I1
+sVfreezing
+p28
+I1
+sVe40
+p29
+I1
+sVnation
+p30
+I1
+sVknow
+p31
+I1
+sVhands
+p32
+I1
+sVtelling
+p33
+I1
+sVworld
+p34
+I2
+sVbath
+p35
+I1
+sVminute
+p36
+I1
+sVname
+p37
+I1
+sVlike
+p38
+I3
+sVcause
+p39
+I2
+sVlist
+p40
+I1
+sVtry
+p41
+I1
+sVbad
+p42
+I2
+sVeither
+p43
+I1
+sVrock
+p44
+I2
+sVheavy
+p45
+I2
+sVharm
+p46
+I1
+sVeveryone
+p47
+I1
+sVneedless
+p48
+I1
+sVhouse
+p49
+I1
+sVpregnancies
+p50
+I1
+sVcreation
+p51
+I1
+sVyeah
+p52
+I1
+sValive
+p53
+I1
+sVstreet
+p54
+I1
+sVpuh
+p55
+I1
+sVshes
+p56
+I1
+sVplead
+p57
+I1
+sVhome
+p58
+I1
+sVgirl
+p59
+I1
+sVstds
+p60
+I1
+sVreally
+p61
+I1
+sVeven
+p62
+I5
+sVgon
+p63
+I3
+sVprolly
+p64
+I1
+sVnuclear
+p65
+I1
+sVsection
+p66
+I1
+sVwhooped
+p67
+I1
+sVweapons
+p68
+I1
+sVenough
+p69
+I1
+sVinternet
+p70
+I1
+sVgot
+p71
+I1
+sVever
+p72
+I4
+sVchecks
+p73
+I1
+sVsirens
+p74
+I1
+sVblow
+p75
+I1
+sVkicked
+p76
+I1
+sVjobs
+p77
+I1
+sVnever
+p78
+I8
+sVguess
+p79
+I1
+sV306
+p80
+I1
+sVwater
+p81
+I1
+sVscrubbin
+p82
+I1
+sVlet
+p83
+I1
+sVhurts
+p84
+I1
+sVput
+p85
+I2
+sVwanted
+p86
+I1
+sVcome
+p87
+I1
+sVchange
+p88
+I9
+sVwait
+p89
+I2
+sVboy
+p90
+I1
+sVsister
+p91
+I1
+sVboards
+p92
+I1
+sVwouldnt
+p93
+I1
+sVoh
+p94
+I1
+sVcould
+p95
+I1
+sVviolence
+p96
+I1
+sVminds
+p97
+I1
+sVtimes
+p98
+I2
+sVthing
+p99
+I1
+sVeatin
+p100
+I1
+sVyoull
+p101
+I1
+sVextension
+p102
+I1
+sVhypocrites
+p103
+I1
+sVthink
+p104
+I2
+sVthats
+p105
+I10
+sVteenage
+p106
+I1
+sValready
+p107
+I1
+sVlove
+p108
+I1
+sVdont
+p109
+I1
+sVgarbage
+p110
+I1
+sVauntie
+p111
+I1
+sVmotivation
+p112
+I1
+sVson
+p113
+I2
+sVdown
+p114
+I1
+sVhomeless
+p115
+I2
+sVchurch
+p116
+I1
+sVapply
+p117
+I1
+sVwriting
+p118
+I1
+sVlittle
+p119
+I2
+sVarmy
+p120
+I1
+sValways
+p121
+I1
+sVthree
+p122
+I1
+sVnext
+p123
+I1
+sVstart
+p124
+I1
+sVbees
+p125
+I1
+sVway
+p126
+I10
+sVbiggest
+p127
+I1
+sVcords
+p128
+I1
+sVflat
+p129
+I1
+sVlife
+p130
+I1
+sVcrimes
+p131
+I1
+sVstars
+p132
+I2
+sVthousand
+p133
+I1
+sVhuh
+p134
+I2
+sVback
+p135
+I2
+sVnobodys
+p136
+I4
+sVhear
+p137
+I1
+sV8
+I1
+sVmorgue
+p138
+I1
+sVprovide
+p139
+I1
+sVcase
+p140
+I1
+sVkeeping
+p141
+I1
+sVlocked
+p142
+I1
+sVdeserved
+p143
+I1
+sVthis
+p144
+I1
+sVstraight
+p145
+I1
+sVwork
+p146
+I1
+sVnine
+p147
+I1
+sVlearn
+p148
+I8
+sVstopping
+p149
+I1
+sVdidnt
+p150
+I1
+sVill
+p151
+I1
+sVbet
+p152
+I1
+sVcrazy
+p153
+I1
+sVgive
+p154
+I1
+sVah
+p155
+I1
+sVis
+p156
+I9
+sVturned
+p157
+I1
+sVit
+p158
+I1
+sVtalking
+p159
+I1
+sVsay
+p160
+I1
+sVim
+p161
+I3
+sVcans
+p162
+I1
+sVneed
+p163
+I3
+sVeducation
+p164
+I1
+sVid
+p165
+I1
+sVdead
+p166
+I1
+sVend
+p167
+I1
+sVfooted
+p168
+I1
+sVrather
+p169
+I1
+sVna
+p170
+I1
+sVmake
+p171
+I1
+sVget
+p172
+I3
+sVaint
+p173
+I1
+sVsin
+p174
+I1
+sVused
+p175
+I1
+sVtried
+p176
+I1
+sVwrists
+p177
+I1
+sVstop
+p178
+I1
+sVslice
+p179
+I1
+sVlovin
+p180
+I1
+sVi
+I2
+sVyoure
+p181
+I3
+sVdisease
+p182
+I1
+sVface
+p183
+I1
+sVthangs
+p184
+I1
+sVdeadly
+p185
+I1
+s.

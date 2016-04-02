@@ -1,81 +1,507 @@
-"special" lyrics
-snoop dogg lyrics
-"special"
-(feat. brandy & pharrell)
-it's the way you,
-it's the way you make me feel
-(special girl, you're so special, special)
-baby just don't change, you're so real
-(so special girl you're so special, special)
-show me that i'm special, tell me boy
-girl you know you are special
-i bet you were born in the sky.
-show me that i'm special, tell me boy
-girl, you know you are special, girl
-the hottest in my mind
-i know you, and you know me
-and this is the place that you really wan' be
-let's make it crack-a-lack i make it look easy
-life can be a carnival and i'm a be your reason
-kiss me slowly,
-perform quiet storm til i get you nice-ly
-i'm puttin out the blunt cause i see
-i see that i need you more in my life
-than i need a bag of weed.
-now i compare you to a bird
-when she fly by
-i wanna rock you back to sleep
-like beddy-bye-bye.
-bounce in the 'lac
-with your hand on my leg
-throw your bags in the back
-i'm a show you where it's at
-no telling if we might come back
-you like that?
-i figgerd out a way to catch a flight right back
-see i ain't never flown for fees
-come spend a weekend overseas in greece with me
-please believe
-you know, if you're through with me
-then i'm through with you
-but you're the one who fell in love
-and said that love was true
-but you ain't never fake on me
-and you think that you gon find
-another g like me?
-dem nigga's ain't gon' play
-they gon' just hump
-they ain't gon do it yo way
-i can't hate and say what they gon' do
-all i know is that i'm true
-and know that you my baby boo
-let's take a chance, go to france
-on a 3 day cruse
-walk with your man in the sand like ooh,
-it's our little rondez-vous
-whoopty-whoop
-big snoopy and ooh
-i picture this love affair of ours
-to last a lifetime just like flowers
-take a quic flick the get dressed
-we'll head to brazil,
-i'll show you how it feel
-when you're rollin with the real
-how it feel?
-we can make it, let's just stay together
-come together, don't go
-let's just have some fun and be together
-forever, for life!
-now that we're living our life especial-ly
-i say that you're my pick
-and every day we'll dress alike and always stay slick
-to me, i see you as a gift
-incredible it's edible
-my ice cream, have a lick
-i catch you when you fall like leaves
-and be the one that you need
-come be my number one, please?
-see i ain't never blow no cheese
-and done no songs like these
-i love the air that you breathe
-you know why? (why-why?)
+(dp1
+Vaffair
+p2
+I1
+sVsnoopy
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I4
+sVbaby
+p6
+I2
+sVsleep
+p7
+I1
+sVgo
+p8
+I2
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I5
+sVflowers
+p12
+I1
+sVhump
+p13
+I1
+sVfiggerd
+p14
+I1
+sVsky
+p15
+I1
+sVday
+p16
+I2
+sVlets
+p17
+I4
+sVgon
+p18
+I5
+sVeasy
+p19
+I1
+sVours
+p20
+I1
+sVmight
+p21
+I1
+sVreal
+p22
+I2
+sVme
+p23
+I5
+sVquic
+p24
+I1
+sVyo
+p25
+I1
+sVget
+p26
+I2
+sVbig
+p27
+I1
+sVevery
+p28
+I1
+sVknow
+p29
+I8
+sVkiss
+p30
+I1
+sVfall
+p31
+I1
+sVtelling
+p32
+I1
+sVwalk
+p33
+I1
+sVputtin
+p34
+I1
+sVedible
+p35
+I1
+sVlike
+p36
+I7
+sVgift
+p37
+I1
+sVnicely
+p38
+I1
+sValways
+p39
+I1
+sVbeddybyebye
+p40
+I1
+sVcruse
+p41
+I1
+sVbag
+p42
+I1
+sVsand
+p43
+I1
+sVrock
+p44
+I1
+sVstay
+p45
+I2
+sVflick
+p46
+I1
+sVright
+p47
+I1
+sVcrackalack
+p48
+I1
+sVfake
+p49
+I1
+sVback
+p50
+I4
+sVbounce
+p51
+I1
+sVborn
+p52
+I1
+sVsee
+p53
+I5
+sVgreece
+p54
+I1
+sVgirl
+p55
+I5
+sVair
+p56
+I1
+sVspecial
+p57
+I12
+sVreally
+p58
+I1
+sVbrazil
+p59
+I1
+sVliving
+p60
+I1
+sVsaid
+p61
+I1
+sVhate
+p62
+I1
+sVplease
+p63
+I2
+sVslick
+p64
+I1
+sVice
+p65
+I1
+sV3
+I1
+sVcause
+p66
+I1
+sVbird
+p67
+I1
+sVbe
+p68
+I1
+sVleg
+p69
+I1
+sVnever
+p70
+I3
+sVg
+I1
+sVreason
+p71
+I1
+sVwhooptywhoop
+p72
+I1
+sVlac
+p73
+I1
+sVcome
+p74
+I4
+sVby
+p75
+I1
+sVchange
+p76
+I1
+sVboy
+p77
+I2
+sVlast
+p78
+I1
+sVcarnival
+p79
+I1
+sVill
+p80
+I1
+sVquiet
+p81
+I1
+sVfell
+p82
+I1
+sVplace
+p83
+I1
+sVboo
+p84
+I1
+sVthink
+p85
+I1
+sVcheese
+p86
+I1
+sVlove
+p87
+I4
+sVdont
+p88
+I2
+sVfeel
+p89
+I3
+sVnumber
+p90
+I1
+sVone
+p91
+I3
+sVdone
+p92
+I1
+sVanother
+p93
+I1
+sVfees
+p94
+I1
+sVfrance
+p95
+I1
+sVwan
+p96
+I2
+sVlittle
+p97
+I1
+sVsnoop
+p98
+I1
+sVdogg
+p99
+I1
+sVthrow
+p100
+I1
+sVslowly
+p101
+I1
+sVway
+p102
+I4
+sVblow
+p103
+I1
+sVhottest
+p104
+I1
+sVtell
+p105
+I2
+sVbreathe
+p106
+I1
+sVlife
+p107
+I4
+sVflight
+p108
+I1
+sVstorm
+p109
+I1
+sVthat
+p110
+I1
+sVooh
+p111
+I2
+sVcatch
+p112
+I2
+sVbelieve
+p113
+I1
+sVtrue
+p114
+I2
+sVfly
+p115
+I1
+sVlook
+p116
+I1
+sVpharrell
+p117
+I1
+sVniggas
+p118
+I1
+sVthese
+p119
+I1
+sVsay
+p120
+I2
+sVrondezvous
+p121
+I1
+sVdem
+p122
+I1
+sVhand
+p123
+I1
+sVfun
+p124
+I1
+sVleaves
+p125
+I1
+sVbet
+p126
+I1
+sValike
+p127
+I1
+sVcompare
+p128
+I1
+sVlick
+p129
+I1
+sVdo
+p130
+I1
+sVmind
+p131
+I1
+sVhead
+p132
+I1
+sVcant
+p133
+I1
+sVim
+p134
+I7
+sVat
+p135
+I1
+sVneed
+p136
+I3
+sVlifetime
+p137
+I1
+sVdress
+p138
+I1
+sVcream
+p139
+I1
+sVchance
+p140
+I1
+sVbags
+p141
+I1
+sVincredible
+p142
+I1
+sVperform
+p143
+I1
+sVna
+p144
+I1
+sVmake
+p145
+I4
+sVtil
+p146
+I1
+sVtake
+p147
+I2
+sVyou
+p148
+I2
+sVblunt
+p149
+I1
+sVpicture
+p150
+I1
+sVplay
+p151
+I1
+sVpick
+p152
+I1
+sVweed
+p153
+I1
+sVbrandy
+p154
+I1
+sVflown
+p155
+I1
+sVweekend
+p156
+I1
+sVman
+p157
+I1
+sVforever
+p158
+I1
+sVespecially
+p159
+I1
+sVtogether
+p160
+I3
+sVyoure
+p161
+I7
+sVwell
+p162
+I2
+sVrollin
+p163
+I1
+sVwhywhy
+p164
+I1
+sVdressed
+p165
+I1
+sVoverseas
+p166
+I1
+sVspend
+p167
+I1
+sVsongs
+p168
+I1
+s.

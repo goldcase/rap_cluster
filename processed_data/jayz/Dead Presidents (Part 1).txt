@@ -1,78 +1,687 @@
-"dead presidents (part 1)" lyrics
-jay-z lyrics
-"dead presidents (part 1)"
-(feat. nas)
-rock on
-roc-a-fella y'all
-presidents to represent me
-i'm out for presidents to represent me
-i'm out for dead presidents to represent me
-well i was fit that wonderama shit
-me and my conglomerate
-shall remain anonymous
-caught up in the finest shit
-live out by dreams until my heart gives out
-and while we crave you know exactly what the shit's about
-fuck y'all mean? handlin' since a teen i dish out
-like the point-guard off your favorite team without doubt
-my life ain't rosy but i roll with it
-my mind was fine 'till the dough hit it
-and told me that the mo' did it
-and now it's closer shit and so i said it
-i blow a digit on a dimin' in a minute but no bitchin'
-watch how i'm walkin' cause even the thoroughest niggas be knockin',
-tryin' to strike a bargain,
-hopin' that they might get pardoned
-shit on me boy we got me pins and needles
-and my cerebral be's the wickedess evil
-thoughts that this boughter feed you
-feed back in a game so deep fien's can catch ya
-freeze off my knee cap can y'all believe that
-got the city drinkin' crystal raise up the fee
-rappers going broke tryin' to keep up wit me
-my rise the riches surprise the bitches
-think harder you know this nigga jay-z shawn carter
-g.s. to fuck up, three years to fuck up
-watch me shine like a brightly be gets to fuck up
-all rhymers forget like alzheimer's
-small timers i said it
-i'm addressing all drama torture
-i'm out for presidents to represent me
-i'm out for dead presidents to represent me
-so sick of niggas
-i want money like cosby who wouldn't
-it's this kind of talk that make me think
-you probably ain't got no pudding
-niggas got them kinda dreams from jail
-you in the streets nigga
-make your move get your get your mail
-niggas are coastin' the s.l. but can't post bail
-niggas are roast the l.
-but scared to throw your toast well
-i am here to tell niggas it ain't all swell
-there's heaven then there's hell niggas
-one day your cruisin' in ya seven
-next day your sweatin' forgetin' your lies
-alibis ain't matchin' up, bullshit catchin' up
-hit with the rico, they repo your vehicle
-everything was all good just a week ago
-bout to start bitchin' ain't you
-ready to start snitchin' ain't you
-i forgive your weak ass hustlin' just ain't you
-aside from the fast cars
-hunnies that shake they ass at bars
-you know you wouldn't be involved
-with the underworld dealers, carriers and mac-miller's
-east-coast bodiers, west-coast cap peelers
-little monkey niggas turn gorilla's
-stopped in the station filled up on noctane
-and now they not sane, and not playin'
-that goes without sayin'
-slangin' day in and day out
-with money playin' then they play you out
-tryin' to escape my own mind
-lurkin' the enemy representin' infinite
-with presidencies you know
-dead presidents to represent me
-i'm our for presidents to represent me
-i'm our for dead presidents to represent me
+(dp1
+Vrepresent
+p2
+I8
+sVsweatin
+p3
+I1
+sVpardoned
+p4
+I1
+sVgs
+p5
+I1
+sVforget
+p6
+I1
+sVlyrics
+p7
+I2
+sVmoney
+p8
+I2
+sVmove
+p9
+I1
+sVyears
+p10
+I1
+sVhandlin
+p11
+I1
+sVdough
+p12
+I1
+sVshake
+p13
+I1
+sVdish
+p14
+I1
+sVhell
+p15
+I1
+sVfeat
+p16
+I1
+sVaint
+p17
+I7
+sVbitchin
+p18
+I2
+sVsayin
+p19
+I1
+sVfit
+p20
+I1
+sVnas
+p21
+I1
+sVbullshit
+p22
+I1
+sVrico
+p23
+I1
+sVgoing
+p24
+I1
+sVrosy
+p25
+I1
+sVmail
+p26
+I1
+sVcatchin
+p27
+I1
+sVlurkin
+p28
+I1
+sVmight
+p29
+I1
+sVdigit
+p30
+I1
+sVgood
+p31
+I1
+sVhit
+p32
+I2
+sVtorture
+p33
+I1
+sVget
+p34
+I3
+sVya
+p35
+I2
+sVhopin
+p36
+I1
+sVrise
+p37
+I1
+sVwatch
+p38
+I2
+sVrepo
+p39
+I1
+sVwonderama
+p40
+I1
+sVgame
+p41
+I1
+sVknow
+p42
+I4
+sVanonymous
+p43
+I1
+sVsurprise
+p44
+I1
+sVrhymers
+p45
+I1
+sVday
+p46
+I4
+sVdreams
+p47
+I2
+sVbodiers
+p48
+I1
+sVenemy
+p49
+I1
+sVheaven
+p50
+I1
+sVlike
+p51
+I4
+sVknockin
+p52
+I1
+sVfiens
+p53
+I1
+sVsnitchin
+p54
+I1
+sVmacmillers
+p55
+I1
+sVl
+I1
+sVbail
+p56
+I1
+sVsane
+p57
+I1
+sVstopped
+p58
+I1
+sVroast
+p59
+I1
+sVteam
+p60
+I1
+sVsmall
+p61
+I1
+sVpointguard
+p62
+I1
+sVmatchin
+p63
+I1
+sVyall
+p64
+I3
+sVmean
+p65
+I1
+sVbars
+p66
+I1
+sVnigga
+p67
+I2
+sVcarter
+p68
+I1
+sVslangin
+p69
+I1
+sVharder
+p70
+I1
+sVscared
+p71
+I1
+sVstreets
+p72
+I1
+sVback
+p73
+I1
+sVdead
+p74
+I6
+sVfreeze
+p75
+I1
+sVcrave
+p76
+I1
+sVescape
+p77
+I1
+sVplayin
+p78
+I2
+sVwestcoast
+p79
+I1
+sVthoroughest
+p80
+I1
+sVout
+p81
+I4
+sVcloser
+p82
+I1
+sVsaid
+p83
+I2
+sVcerebral
+p84
+I1
+sVfine
+p85
+I1
+sVsince
+p86
+I1
+sVeverything
+p87
+I1
+sVgoes
+p88
+I1
+sVgot
+p89
+I4
+sVcause
+p90
+I1
+sVswell
+p91
+I1
+sVfilled
+p92
+I1
+sVtold
+p93
+I1
+sVass
+p94
+I2
+sVblow
+p95
+I1
+sVdrinkin
+p96
+I1
+sVcars
+p97
+I1
+sVrock
+p98
+I1
+sVweak
+p99
+I1
+sVforgive
+p100
+I1
+sVconglomerate
+p101
+I1
+sVpost
+p102
+I1
+sVthrow
+p103
+I1
+sVrocafella
+p104
+I1
+sVpeelers
+p105
+I1
+sVshine
+p106
+I1
+sVon
+p107
+I1
+sVabout
+p108
+I1
+sVwouldnt
+p109
+I2
+sVtoast
+p110
+I1
+sVinvolved
+p111
+I1
+sVfavorite
+p112
+I1
+sVkeep
+p113
+I1
+sVwalkin
+p114
+I1
+sVturn
+p115
+I1
+sVpudding
+p116
+I1
+sVneedles
+p117
+I1
+sVthink
+p118
+I2
+sVfeed
+p119
+I2
+sVfinest
+p120
+I1
+sVbrightly
+p121
+I1
+sVpresidents
+p122
+I10
+sVcoastin
+p123
+I1
+sVseven
+p124
+I1
+sVone
+p125
+I1
+sVlies
+p126
+I1
+sVjayz
+p127
+I2
+sVwit
+p128
+I1
+sVgorillas
+p129
+I1
+sVcity
+p130
+I1
+sVlittle
+p131
+I1
+sVfee
+p132
+I1
+sVunderworld
+p133
+I1
+sVraise
+p134
+I1
+sVstart
+p135
+I2
+sVcaught
+p136
+I1
+sVthree
+p137
+I1
+sVfast
+p138
+I1
+sVnext
+p139
+I1
+sVwickedess
+p140
+I1
+sVlive
+p141
+I1
+sVdoubt
+p142
+I1
+sVmonkey
+p143
+I1
+sVhustlin
+p144
+I1
+sVvehicle
+p145
+I1
+sVshits
+p146
+I1
+sVtryin
+p147
+I3
+sVtell
+p148
+I1
+sVgives
+p149
+I1
+sVteen
+p150
+I1
+sVlife
+p151
+I1
+sVdimin
+p152
+I1
+sVboy
+p153
+I1
+sVshawn
+p154
+I1
+sVexactly
+p155
+I1
+sVminute
+p156
+I1
+sVit
+p157
+I5
+sVstrike
+p158
+I1
+sVpart
+p159
+I2
+sVpresidencies
+p160
+I1
+sVbroke
+p161
+I1
+sVcatch
+p162
+I1
+sVprobably
+p163
+I1
+sVbelieve
+p164
+I1
+sVbout
+p165
+I1
+sVme
+p166
+I5
+sVkind
+p167
+I1
+sVeastcoast
+p168
+I1
+sVniggas
+p169
+I8
+sVmo
+p170
+I1
+sVcap
+p171
+I2
+sVriches
+p172
+I1
+sVbargain
+p173
+I1
+sVcrystal
+p174
+I1
+sVremain
+p175
+I1
+sVbes
+p176
+I1
+sVtheres
+p177
+I2
+sVheart
+p178
+I1
+sVaddressing
+p179
+I1
+sVforgetin
+p180
+I1
+sVup
+p181
+I3
+sVmind
+p182
+I2
+sVfuck
+p183
+I4
+sVdeep
+p184
+I1
+sVcant
+p185
+I1
+sVim
+p186
+I8
+sVwant
+p187
+I1
+sVready
+p188
+I1
+sVstation
+p189
+I1
+sVshit
+p190
+I4
+sVdrama
+p191
+I1
+sVcarriers
+p192
+I1
+sVmake
+p193
+I2
+sVthat
+p194
+I1
+sVaside
+p195
+I1
+sValzheimers
+p196
+I1
+sV1
+I2
+sVtill
+p197
+I1
+sVnoctane
+p198
+I1
+sVsick
+p199
+I1
+sVpins
+p200
+I1
+sVjail
+p201
+I1
+sVyou
+p202
+I4
+sVgets
+p203
+I1
+sVroll
+p204
+I1
+sVcosby
+p205
+I1
+sVweek
+p206
+I1
+sVeven
+p207
+I1
+sVplay
+p208
+I1
+sVbitches
+p209
+I1
+sVshall
+p210
+I1
+sVrappers
+p211
+I1
+sVevil
+p212
+I1
+sVboughter
+p213
+I1
+sVhunnies
+p214
+I1
+sVkinda
+p215
+I1
+sVinfinite
+p216
+I1
+sVknee
+p217
+I1
+sValibis
+p218
+I1
+sVthoughts
+p219
+I1
+sVago
+p220
+I1
+sVdealers
+p221
+I1
+sVwell
+p222
+I2
+sVwithout
+p223
+I2
+sVtimers
+p224
+I1
+sVcruisin
+p225
+I1
+sVrepresentin
+p226
+I1
+sVsl
+p227
+I1
+sVtalk
+p228
+I1
+s.

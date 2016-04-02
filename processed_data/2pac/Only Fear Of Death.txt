@@ -1,80 +1,707 @@
-"only fear of death" lyrics
-2pac lyrics
-"only fear of death"
-pssst... psssssst... aiyyo
-are you afraid to die, or do you wanna live forever
-tell me, which one?
-they wanna bury me, i'm worried -- i'm losin my mind
-look down the barrel of my nine and my vision's blurry
-fallin to pieces, am i guilty? i pray to the lord
-but he ignores me unfortunately cause i'm guilty
-show me a miracle, i'm hopeless -- i'm chokin off
-marijuana smoke, with every toke it's like i'm losin focus
-fallin to sleep while i'm at service, when will i die?
-forever paranoid and nervous because i'm high
-don't mention funerals i'm stressin, and goin nutty
-and reminiscin bout them niggaz that murdered my buddy
-i wonder when will i be happy, ain't nothin funny
-flashbacks of bustin caps, anything for money
-where am i goin i discovered, can't nothin save me
-my next door neighbor's havin convo with undercovers
-put a surprise in the mailbox, hope she get it
-happy birthday bitch, you know you shouldn'ta did it
-everybody's dyin am i next, who can i trust?
-will they be g's, and they look at me before they bust?
-or will they kill me while i'm sleepin, two to the head
-while i'm in bed, leakin blood on my satin sheets
-is there a heaven for a baller? i'm gettin suspicious
-of this bitch the line busy everytime i call her
-now she's tellin me to visit, who else is home?
-i check the house before i bone, so we all alone
-after i nut i hit the highway, see ya later
-to all the players watch the fly way a nigga played her
-the bitch is tellin all her homies -- that i can fuck her
-like no other now them other bitches wanna bone me
-i'm under pressure gettin drunk, somebody help me
-i drink a fifth of hennesey i don't think it's healthy
-i see my enemies they creepin, don't make me blast
-i watch the five-oh's roll, the motherfuckers pass
-by me like they know me, smilin as they laugh
-i put up my middle finger then i dash
-niggaz don't like me cause i'm thuggin, and every day
-i'm a hustler lookin to get paid
-they wanna bury me, i'm worried -- no need to lie
-i pray to god i don't scream when it's time to fry
-nowhere to rest i'm losin homies, ain't that a bitch
-when i was rich i had clout, now a nigga's lonely
-i put the pistol to my head, and say a prayer
-i see visions of me dead, lord are you there?
-then tell me am i lost cause i'm lonely
-i thought i had friends but in the end a nigga dies lonely
-nowhere to run i'm in terror, and no one cares
-a closed casket at my funeral and no one's there
-is there a future for a killer?  i change my ways
-but still that don't promise me the next day
-so i stay thuggin with a passion, forever blastin
-i'm bustin on these motherfuckers in my madness
-they wonder if i'm hellbound... well hell
-can't be worse than this, cause i'm in hell now
-don't make me hurt you i don't want to, but i will
-seen motherfuckers killed over phone bills
-never will i die, i'll be back
-reincarnated as a motherfuckin mack
-i love it cause in heaven there's no shortage on g's
-i'm tellin you now, you motherfuckers don't know me
-"only fear of death.."
-"you ghetto niggaz"
-"only fear of death is comin back reincarnated"
-hahaha, i ain't scared to die
-i ain't scared to die
-to my homies in heaven
-i ain't scared to die
-do you wanna live forever?
-are you scared, to die?
-or will you scream, when you fry?
-i don't fear death
-my only fear of death is comin back, reincarnated
-this is dedicated to mental, r.i.p.
-and big kill, r.i.p.
-and all you other o.g.'s, who go down
-i don't fear death
+(dp1
+Vneighbors
+p2
+I1
+sVnow
+p3
+I1
+sVgs
+p4
+I2
+sVhelp
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I1
+sVmoney
+p8
+I1
+sVfocus
+p9
+I1
+sVrest
+p10
+I1
+sVdiscovered
+p11
+I1
+sVreincarnated
+p12
+I3
+sVsleep
+p13
+I1
+sVgo
+p14
+I1
+sVhell
+p15
+I2
+sVfear
+p16
+I7
+sVstill
+p17
+I1
+sVsatin
+p18
+I1
+sVfifth
+p19
+I1
+sVaint
+p20
+I5
+sVdeath
+p21
+I7
+sVballer
+p22
+I1
+sVbuddy
+p23
+I1
+sVscared
+p24
+I4
+sVpray
+p25
+I2
+sVnervous
+p26
+I1
+sVbust
+p27
+I1
+sVkilled
+p28
+I1
+sVhavin
+p29
+I1
+sVrich
+p30
+I1
+sVhomies
+p31
+I3
+sVterror
+p32
+I1
+sVlord
+p33
+I2
+sVbout
+p34
+I1
+sVsave
+p35
+I1
+sVhope
+p36
+I1
+sVfly
+p37
+I1
+sVlonely
+p38
+I3
+sVhit
+p39
+I1
+sVworse
+p40
+I1
+sVget
+p41
+I2
+sVya
+p42
+I1
+sVshouldnta
+p43
+I1
+sVkiller
+p44
+I1
+sVwatch
+p45
+I2
+sVcaps
+p46
+I1
+sVmention
+p47
+I1
+sVones
+p48
+I1
+sVevery
+p49
+I2
+sVknow
+p50
+I3
+sVpsssssst
+p51
+I1
+sVblast
+p52
+I1
+sVday
+p53
+I2
+sVlook
+p54
+I2
+sVheaven
+p55
+I3
+sVlike
+p56
+I4
+sVlost
+p57
+I1
+sVeverytime
+p58
+I1
+sVdie
+p59
+I7
+sVgettin
+p60
+I2
+sVmiracle
+p61
+I1
+sVworried
+p62
+I2
+sVhighway
+p63
+I1
+sVtoke
+p64
+I1
+sVkill
+p65
+I2
+sVbills
+p66
+I1
+sVbone
+p67
+I2
+sVflashbacks
+p68
+I1
+sVcreepin
+p69
+I1
+sVnigga
+p70
+I2
+sVmental
+p71
+I1
+sVhouse
+p72
+I1
+sVnut
+p73
+I1
+sVback
+p74
+I3
+sVenemies
+p75
+I1
+sVsee
+p76
+I3
+sVbed
+p77
+I1
+sVignores
+p78
+I1
+sVpass
+p79
+I1
+sVhome
+p80
+I1
+sVwonder
+p81
+I2
+sVsleepin
+p82
+I1
+sVways
+p83
+I1
+sVgod
+p84
+I1
+sVnutty
+p85
+I1
+sVpassion
+p86
+I1
+sVfinger
+p87
+I1
+sVclosed
+p88
+I1
+sVsurprise
+p89
+I1
+sVpistol
+p90
+I1
+sVcause
+p91
+I5
+sVblurry
+p92
+I1
+sVrun
+p93
+I1
+sVlove
+p94
+I1
+sVfuneral
+p95
+I1
+sVnever
+p96
+I1
+sVmailbox
+p97
+I1
+sVpressure
+p98
+I1
+sVmurdered
+p99
+I1
+sVbusy
+p100
+I1
+sVpaid
+p101
+I1
+sVput
+p102
+I3
+sVbury
+p103
+I2
+sVchange
+p104
+I1
+sVher
+p105
+I3
+sVanything
+p106
+I1
+sVdyin
+p107
+I1
+sVhustler
+p108
+I1
+sVguilty
+p109
+I2
+sVparanoid
+p110
+I1
+sVhopeless
+p111
+I1
+sVsmoke
+p112
+I1
+sVhennesey
+p113
+I1
+sVsmilin
+p114
+I1
+sVtheres
+p115
+I1
+sVthink
+p116
+I1
+sVshortage
+p117
+I1
+sVnowhere
+p118
+I2
+sVmadness
+p119
+I1
+sVdont
+p120
+I11
+sVdrunk
+p121
+I1
+sVghetto
+p122
+I1
+sVclout
+p123
+I1
+sVone
+p124
+I2
+sVdown
+p125
+I1
+sValone
+p126
+I1
+sVpromise
+p127
+I1
+sVbitch
+p128
+I4
+sVlaugh
+p129
+I1
+sVcomin
+p130
+I2
+sVfallin
+p131
+I2
+sVtrust
+p132
+I1
+sVvisions
+p133
+I2
+sVwan
+p134
+I5
+sVcasket
+p135
+I1
+sVservice
+p136
+I1
+sVcares
+p137
+I1
+sVfriends
+p138
+I1
+sVthere
+p139
+I2
+sVvisit
+p140
+I1
+sVtwo
+p141
+I1
+sVnext
+p142
+I3
+sVlive
+p143
+I2
+sVcall
+p144
+I1
+sVway
+p145
+I1
+sVfry
+p146
+I2
+sVblastin
+p147
+I1
+sVtell
+p148
+I2
+sVhappy
+p149
+I2
+sVhead
+p150
+I2
+sVdoor
+p151
+I1
+sVtellin
+p152
+I3
+sVpssst
+p153
+I1
+sVfuck
+p154
+I1
+sVogs
+p155
+I1
+sVit
+p156
+I2
+sVphone
+p157
+I1
+sVhurt
+p158
+I1
+sVdead
+p159
+I1
+sVlosin
+p160
+I3
+sVline
+p161
+I1
+sVundercovers
+p162
+I1
+sV2pac
+p163
+I1
+sVill
+p164
+I1
+sVme
+p165
+I4
+sVdash
+p166
+I1
+sVleakin
+p167
+I1
+sVunfortunately
+p168
+I1
+sVniggas
+p169
+I1
+sVfiveohs
+p170
+I1
+sVconvo
+p171
+I1
+sVsay
+p172
+I1
+sVniggaz
+p173
+I3
+sVwill
+p174
+I1
+sVhealthy
+p175
+I1
+sVfuture
+p176
+I1
+sVnine
+p177
+I1
+sVhahaha
+p178
+I1
+sVthuggin
+p179
+I2
+sVseen
+p180
+I1
+sVshes
+p181
+I1
+sVdedicated
+p182
+I1
+sVplayed
+p183
+I1
+sVsuspicious
+p184
+I1
+sVmind
+p185
+I1
+sVmarijuana
+p186
+I1
+sVrip
+p187
+I2
+sVpieces
+p188
+I1
+sVhigh
+p189
+I1
+sVmiddle
+p190
+I1
+sVcant
+p191
+I2
+sVim
+p192
+I23
+sVhellbound
+p193
+I1
+sVwant
+p194
+I1
+sVprayer
+p195
+I1
+sVneed
+p196
+I1
+sVsomebody
+p197
+I1
+sVcheck
+p198
+I1
+sVfunny
+p199
+I1
+sVafraid
+p200
+I1
+sVend
+p201
+I1
+sVplayers
+p202
+I1
+sVna
+p203
+I5
+sVmake
+p204
+I2
+sVmotherfuckin
+p205
+I1
+sVbig
+p206
+I1
+sVmack
+p207
+I1
+sVreminiscin
+p208
+I1
+sVroll
+p209
+I1
+sVeverybodys
+p210
+I1
+sVbitches
+p211
+I1
+sVchokin
+p212
+I1
+sVlookin
+p213
+I1
+sVlie
+p214
+I1
+sVdies
+p215
+I1
+sVdrink
+p216
+I1
+sVaiyyo
+p217
+I1
+sVstay
+p218
+I1
+sVbirthday
+p219
+I1
+sVblood
+p220
+I1
+sVsheets
+p221
+I1
+sVelse
+p222
+I1
+sVfunerals
+p223
+I1
+sVgoin
+p224
+I2
+sVforever
+p225
+I4
+sVoff
+p226
+I1
+sVstressin
+p227
+I1
+sVlater
+p228
+I1
+sVwell
+p229
+I1
+sVbustin
+p230
+I2
+sVnothin
+p231
+I2
+sVmotherfuckers
+p232
+I4
+sVthought
+p233
+I1
+sVtime
+p234
+I1
+sVbarrel
+p235
+I1
+sVscream
+p236
+I2
+s.

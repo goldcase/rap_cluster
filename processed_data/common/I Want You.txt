@@ -1,60 +1,412 @@
-"i want you" lyrics
-common lyrics
-"i want you"
-once the love was strong
-now it's long, long gone
-'cause the pain, pain now as a storm
-i remained, holding on
-'cause i want you, 'cause i want you
-i want you, i want you
-i've been thinking bout, i've been thinking about
-i've been thinking bout you lately
-thoughts take me to when we were close
-addicted to your love, feel i need another dose
-i know it's a feeling that should be long gone
-things seem to come up when i hear our song
-golden brown girl, it seemed so long
-since i heard your voice, where did the king go wrong?
-emotions that, that they linger on
-i guess 'cause i never knew a love so strong
-so many hot girls i need your warm
-the taste of your mouth girl i need your warm
-good food and love i need your warm
-this here was made before we were born
-a dreamer so i'm a keep dreaming on
-it's kind of like 'the breakup' with jen and vince vaughn
-once the love was strong
-now it's long, long gone
-'cause the pain, pain now as a storm
-i remained, holding on
-'cause i want you, cause i want you
-i want you, i want you
-'cause i want you, cause i want you
-i want you, i want you
-they say you don't know, know, know what you got
-till what you got is gone
-yeah i write such and such, you're a lot but the feelings not as strong
-we were like 2 birds that were able to fly
-i try to pick the right words to say to the sky
-some days i would try but wasn't able to cry
-i never been good at saying goodbye
-i take a deep breath when the times is hard
-when i reminisce over you, my god
-i spent many years trying to be the heartthrob
-i guess it's only right that i got my heart robbed
-the scent of a room that reminds me of you
-a hint of perfume it reminds me of you
-take a look at the moon it reminds me of you
-hope the stars and the gods align me and you
-we do what we do and we do what we live
-i love this way cause i got it as a kid
-with so much to give from it, i never hid
-the love that i wrote on the mirror it got smeared
-my friends say it was a change for the better
-but i say, girl you changed my forever
-relationships they can be as strange as the weather
-rain or sun we can sing this together
-'cause i want you, 'cause i want you
-i want you, i want you
-'cause i want you, 'cause i want you
-i want you, i want you
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVgods
+p4
+I1
+sVdose
+p5
+I1
+sVgo
+p6
+I1
+sVbirds
+p7
+I1
+sVseemed
+p8
+I1
+sVrelationships
+p9
+I1
+sVhint
+p10
+I1
+sVthinking
+p11
+I3
+sVmuch
+p12
+I1
+sVsky
+p13
+I1
+sVreminisce
+p14
+I1
+sVbout
+p15
+I2
+sVhope
+p16
+I1
+sVbrown
+p17
+I1
+sVgood
+p18
+I2
+sVsong
+p19
+I1
+sVfood
+p20
+I1
+sVhid
+p21
+I1
+sVknow
+p22
+I4
+sVwords
+p23
+I1
+sVvaughn
+p24
+I1
+sVlook
+p25
+I1
+sVlike
+p26
+I2
+sVcry
+p27
+I1
+sVperfume
+p28
+I1
+sVtry
+p29
+I2
+sVcommon
+p30
+I1
+sVaddicted
+p31
+I1
+sVwrote
+p32
+I1
+sVright
+p33
+I2
+sVhard
+p34
+I1
+sVyeah
+p35
+I1
+sVborn
+p36
+I1
+sVmirror
+p37
+I1
+sVclose
+p38
+I1
+sVgirl
+p39
+I3
+sVgod
+p40
+I1
+sVsince
+p41
+I1
+sVemotions
+p42
+I1
+sVmoon
+p43
+I1
+sVgot
+p44
+I5
+sVdreamer
+p45
+I1
+sVcause
+p46
+I14
+sVnever
+p47
+I3
+sVsing
+p48
+I1
+sVstrong
+p49
+I4
+sVcome
+p50
+I1
+sVchange
+p51
+I1
+sVon
+p52
+I4
+sVabout
+p53
+I1
+sVfeeling
+p54
+I1
+sVlinger
+p55
+I1
+sVmany
+p56
+I2
+sVchanged
+p57
+I1
+sVdays
+p58
+I1
+sVkeep
+p59
+I1
+sVpick
+p60
+I1
+sVheart
+p61
+I1
+sVgolden
+p62
+I1
+sVlove
+p63
+I7
+sVdont
+p64
+I1
+sVive
+p65
+I3
+sVfeel
+p66
+I1
+sVfeelings
+p67
+I1
+sVweather
+p68
+I1
+sVanother
+p69
+I1
+sVdreaming
+p70
+I1
+sVscent
+p71
+I1
+sVbetter
+p72
+I1
+sVguess
+p73
+I2
+sVwould
+p74
+I1
+sVbreakup
+p75
+I1
+sVgive
+p76
+I1
+sVgirls
+p77
+I1
+sVlong
+p78
+I6
+sVbreath
+p79
+I1
+sVwasnt
+p80
+I1
+sVlive
+p81
+I1
+sV2
+I1
+sVlot
+p82
+I1
+sVjen
+p83
+I1
+sVsmeared
+p84
+I1
+sVstorm
+p85
+I2
+sVrobbed
+p86
+I1
+sVvince
+p87
+I1
+sVreminds
+p88
+I3
+sVwarm
+p89
+I3
+sVhear
+p90
+I1
+sVtrying
+p91
+I1
+sVfly
+p92
+I1
+sVking
+p93
+I1
+sVkind
+p94
+I1
+sVmade
+p95
+I1
+sVroom
+p96
+I1
+sValign
+p97
+I1
+sVvoice
+p98
+I1
+sVgone
+p99
+I4
+sVheartthrob
+p100
+I1
+sVremained
+p101
+I2
+sVtaste
+p102
+I1
+sVdeep
+p103
+I1
+sVheard
+p104
+I1
+sVsay
+p105
+I4
+sVway
+p106
+I1
+sVim
+p107
+I1
+sVwant
+p108
+I22
+sVneed
+p109
+I4
+sVseem
+p110
+I1
+sVtimes
+p111
+I1
+sVthings
+p112
+I1
+sVable
+p113
+I2
+sVlately
+p114
+I1
+sVwrite
+p115
+I1
+sVtill
+p116
+I1
+sVhot
+p117
+I1
+sVstrange
+p118
+I1
+sVtake
+p119
+I3
+sVholding
+p120
+I2
+sVyou
+p121
+I15
+sVpain
+p122
+I4
+sVknew
+p123
+I1
+sVrain
+p124
+I1
+sVwrong
+p125
+I1
+sVstars
+p126
+I1
+sVmouth
+p127
+I1
+sVfriends
+p128
+I1
+sVthoughts
+p129
+I1
+sVkid
+p130
+I1
+sVforever
+p131
+I1
+sVyoure
+p132
+I1
+sVspent
+p133
+I1
+sVtogether
+p134
+I1
+sVgoodbye
+p135
+I1
+sVsun
+p136
+I1
+sVyears
+p137
+I1
+s.

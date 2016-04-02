@@ -1,62 +1,520 @@
-"not wit' a dealer" lyrics
-mc lyte lyrics
-"not wit' a dealer"
-a friend of mine (which one?) cecilia
-(yeah?) has a man (so?) a dealer
-(which one?) born - born supreme
-you know the type (yeah, i know what you mean)
-gold and cars (cars and gold
-the more he got, yo, the more he sold
-he told her he loved her (huh, gased her head)
-her love he bought just to warm his bed
-i tried to tell her, but it went out the other ear
-she didn't wanna hear, what i had to say
-she just replied this way
-(girl, i love him, he treats me so good
-he gets much respect in my neighborhood)
-i cram to understand why she wants this man
-(yo, he sold the crack to sam...)
-(i used to be in love...)
-but not with a dealer
-(i used to be in love...)
-i know how it feels
-(i used to be in love...)
-you make love while he makes deals
-the story gets worse, they threaten her life
-a guy walked on her (yo, come here) with a knife
-and said (being with born is a big mistake
-it's a shame your life i have to take
-if you leave him now, you'll be alright
-if not, you won't make it through the night)
-she came to me and said (lyte, what do i do?)
-forget about born, or else you're through (ahh...)
-she said (but, but i love him!) hm, i wonder
-is love worth bein six feet under?
-nope (and that's on the real tip)
-i think it's time you skip
-town (hey girl, don't hang around
-or else you'll be goin -)
-miss c said (no, i'm stayin with my man
-he stands by me, so i too must stand)
-girl, you're stupid, you're gonna take a fall
-and then she received a call
-(hello? listen, baby, they got a contract on me
-i know because brian warned me
-i'm outta here, goin back to cali
-grab your stuff and meet me in the alley)
-she grabbed her stuff, the gold and the cash
-headed for the door in a flash
-she said (i'm outta here) now wait just a minute
-you know he's a dealer, his windows are tinted
-(naw) he has truck jewelry, and no job
-(so?) carries ducats in  (so what?)
-now hell the hell does he get these things?
-(i don't know!) the gucci, the louis, the polo rings
-(yeah?) dealers are bad news, take it from lyte
-they say they kill you, and they might
-(you're right, lyte, you tell no lie
-just let me go say good-bye)
-she ran down the stairs in a minute or more
-i heard a thunderous roar
-born and cecilia - killed by uzis
-see why it pays to be choosy?
+(dp1
+Vreplied
+p2
+I1
+sVthings
+p3
+I1
+sVforget
+p4
+I1
+sVlyrics
+p5
+I2
+sVskip
+p6
+I1
+sVjewelry
+p7
+I1
+sVkill
+p8
+I1
+sVgo
+p9
+I1
+sVhell
+p10
+I2
+sVgrabbed
+p11
+I1
+sVgold
+p12
+I3
+sVchoosy
+p13
+I1
+sVflash
+p14
+I1
+sVkilled
+p15
+I1
+sVgrab
+p16
+I1
+sVcrack
+p17
+I1
+sVmight
+p18
+I1
+sVworth
+p19
+I1
+sVnaw
+p20
+I1
+sVreal
+p21
+I1
+sVdo
+p22
+I1
+sVgood
+p23
+I1
+sVworse
+p24
+I1
+sVyo
+p25
+I3
+sVget
+p26
+I1
+sVbig
+p27
+I1
+sVbein
+p28
+I1
+sVme
+p29
+I2
+sVfeels
+p30
+I1
+sVknow
+p31
+I6
+sVfall
+p32
+I1
+sVthunderous
+p33
+I1
+sVthreaten
+p34
+I1
+sVminute
+p35
+I2
+sVwont
+p36
+I1
+sVnope
+p37
+I1
+sVtinted
+p38
+I1
+sVleave
+p39
+I1
+sVbad
+p40
+I1
+sVstupid
+p41
+I1
+sVnight
+p42
+I1
+sVguy
+p43
+I1
+sVbought
+p44
+I1
+sVcram
+p45
+I1
+sVmean
+p46
+I1
+sVright
+p47
+I1
+sVneighborhood
+p48
+I1
+sVyeah
+p49
+I3
+sVaround
+p50
+I1
+sVborn
+p51
+I5
+sVsee
+p52
+I1
+sVgirl
+p53
+I3
+sVwonder
+p54
+I1
+sVdeals
+p55
+I1
+sVwhat
+p56
+I1
+sVsaid
+p57
+I5
+sVstands
+p58
+I1
+sVrings
+p59
+I1
+sVstayin
+p60
+I1
+sVstuff
+p61
+I2
+sVgot
+p62
+I2
+sVyoull
+p63
+I2
+sVknife
+p64
+I1
+sVtold
+p65
+I1
+sVcars
+p66
+I2
+sVsold
+p67
+I2
+sVjob
+p68
+I1
+sVlet
+p69
+I1
+sVnews
+p70
+I1
+sVcome
+p71
+I1
+sVwent
+p72
+I1
+sVwait
+p73
+I1
+sVreceived
+p74
+I1
+sVc
+I1
+sVuzis
+p75
+I1
+sVroar
+p76
+I1
+sVgoodbye
+p77
+I1
+sVhes
+p78
+I1
+sVcontract
+p79
+I1
+sVcarries
+p80
+I1
+sVstand
+p81
+I1
+sVmakes
+p82
+I1
+sVthink
+p83
+I1
+sVthats
+p84
+I1
+sVlove
+p85
+I8
+sVdont
+p86
+I2
+sVheaded
+p87
+I1
+sVpays
+p88
+I1
+sVahh
+p89
+I1
+sVone
+p90
+I2
+sVfeet
+p91
+I1
+sVwit
+p92
+I2
+sVpolo
+p93
+I1
+sVrespect
+p94
+I1
+sVmiss
+p95
+I1
+sVwan
+p96
+I1
+sVstory
+p97
+I1
+sVwarned
+p98
+I1
+sVlyte
+p99
+I4
+sVhey
+p100
+I1
+sVcali
+p101
+I1
+sVmuch
+p102
+I1
+sVcall
+p103
+I1
+sVway
+p104
+I1
+sVgased
+p105
+I1
+sVgoin
+p106
+I2
+sVtype
+p107
+I1
+sVtell
+p108
+I2
+sVfriend
+p109
+I1
+sVlisten
+p110
+I1
+sVwants
+p111
+I1
+sVhead
+p112
+I1
+sVdoor
+p113
+I1
+sVunder
+p114
+I1
+sVhuh
+p115
+I1
+sVelse
+p116
+I2
+sVwarm
+p117
+I1
+sVhear
+p118
+I1
+sVhm
+p119
+I1
+sVbaby
+p120
+I1
+sVdealers
+p121
+I1
+sVear
+p122
+I1
+sVstairs
+p123
+I1
+sVmust
+p124
+I1
+sVtown
+p125
+I1
+sVloved
+p126
+I1
+sVmc
+p127
+I1
+sVheard
+p128
+I1
+sVcash
+p129
+I1
+sVbed
+p130
+I1
+sVgucci
+p131
+I1
+sVmeet
+p132
+I1
+sVmore
+p133
+I1
+sVdidnt
+p134
+I1
+sVmistake
+p135
+I1
+sVsupreme
+p136
+I1
+sVoutta
+p137
+I2
+sVsam
+p138
+I1
+sVran
+p139
+I1
+sVmine
+p140
+I1
+sValley
+p141
+I1
+sVshame
+p142
+I1
+sVsay
+p143
+I3
+sVim
+p144
+I3
+sVdealer
+p145
+I5
+sVcecilia
+p146
+I2
+sVlie
+p147
+I1
+sVna
+p148
+I2
+sVmake
+p149
+I2
+sVsix
+p150
+I1
+sVtip
+p151
+I1
+sVbrian
+p152
+I1
+sVtake
+p153
+I3
+sVgets
+p154
+I2
+sVused
+p155
+I3
+sVtried
+p156
+I1
+sVducats
+p157
+I1
+sVhang
+p158
+I1
+sVgon
+p159
+I1
+sVlouis
+p160
+I1
+sVman
+p161
+I3
+sVtreats
+p162
+I1
+sVwindows
+p163
+I1
+sVyoure
+p164
+I4
+sVlife
+p165
+I2
+sVwalked
+p166
+I1
+sVtruck
+p167
+I1
+sVback
+p168
+I1
+sVtime
+p169
+I1
+sValright
+p170
+I1
+sVunderstand
+p171
+I1
+sVhello
+p172
+I1
+sVcame
+p173
+I1
+s.

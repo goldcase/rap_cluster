@@ -1,63 +1,382 @@
-"god gave me style" lyrics
-50 cent lyrics
-"god gave me style"
-god gave me style
-god gave me grace
-god gave me style
-god gave me grace
-god put a smile on my face
-haha, god put this smile on my face
-god made me shine like the sun
-god make me shine like the sun
-sometimes i feel like i'm the one
-sometimes i feel like i'm the one
-it ain't my fault
-i just reach for style, i'm hot i breaks it down
-it ain't my fault, you can't break it down the way i break it down
-listen you can call me what you want, black and ugly
-but you can't convince me the lord don't love me
-when my cds drop, they sell the best
-you call it luck, why can't it just be i'm blessed
-i'm a trackstar, runnin' through life, chasin' my dream
-best deal i made was tradin' the mic for that triple beam.
-i zone off thinkin' is there really heaven or hell
-so what happens to a changed man who dies in a cell
-i need no answers to these questions, cuz time will tell
-got a date with destiny, she's more than a girl
-don't much good come from me, but my music
-is a gift given from god so i'ma use it (yeaaah!)
-god gave me style
-god gave me grace
-god gave me style
-god gave me grace
-god put a smile on my face
-haha, god put this smile on my face
-god made me shine like the sun
-god make me shine like the sun
-sometimes i feel like i'm the one
-sometimes i feel like i'm the one
-it ain't my fault
-i just reach for style, i'm hot i breaks it down
-it ain't my fault, you can't break it down the way i break it down
-some days, i'm in the crowd all by myself
-bunch of niggas around i'm still by myself
-i drift off on a cloud by myself
-thinkin' bout nothin' more than life, what else
-these days its hard to tell who really cares for me
-so you when hear this song, you should say a prayer for me
-i put a message in my music, hope it brightens your day
-if times are hard, when you hear it, know you'll be okay
-a old g told me god's favorites have a hard time
-you out the hood, that's good now stay on the grind
-i'm a sponge, knowledge and wisdom, i absorb fast
-i'm in a class by myself, you do the math
-god gave me style
-god gave me grace
-god gave me style
-god gave me grace
-god put a smile on my face
-haha, god put this smile on my face
-god made me shine like the sun
-god make me shine like the sun
-sometimes i feel like i'm the one
-sometimes i feel like i'm the one
+(dp1
+Vlyrics
+p2
+I2
+sVgods
+p3
+I1
+sVquestions
+p4
+I1
+sVcds
+p5
+I1
+sVhell
+p6
+I1
+sVstill
+p7
+I1
+sVbunch
+p8
+I1
+sVima
+p9
+I1
+sVstyle
+p10
+I10
+sVknowledge
+p11
+I1
+sVzone
+p12
+I1
+sVchasin
+p13
+I1
+sVcuz
+p14
+I1
+sVblack
+p15
+I1
+sVsmile
+p16
+I6
+sVbout
+p17
+I1
+sVhope
+p18
+I1
+sVgave
+p19
+I14
+sVme
+p20
+I3
+sVgood
+p21
+I2
+sVaround
+p22
+I1
+sVsong
+p23
+I1
+sVbreaks
+p24
+I2
+sVbreak
+p25
+I4
+sVbeam
+p26
+I1
+sVknow
+p27
+I1
+sVday
+p28
+I1
+sVthinkin
+p29
+I2
+sVheaven
+p30
+I1
+sVlike
+p31
+I12
+sVgift
+p32
+I1
+sVdrop
+p33
+I1
+sV50
+p34
+I1
+sVluck
+p35
+I1
+sVold
+p36
+I1
+sVdeal
+p37
+I1
+sVhard
+p38
+I3
+sVsponge
+p39
+I1
+sVshes
+p40
+I1
+sVgirl
+p41
+I1
+sVbest
+p42
+I2
+sVreally
+p43
+I2
+sVhappens
+p44
+I1
+sVdestiny
+p45
+I1
+sVgod
+p46
+I27
+sVcell
+p47
+I1
+sVhood
+p48
+I1
+sVabsorb
+p49
+I1
+sVgot
+p50
+I1
+sVyoull
+p51
+I1
+sVmath
+p52
+I1
+sVtold
+p53
+I1
+sVaint
+p54
+I4
+sVdrift
+p55
+I1
+sVgiven
+p56
+I1
+sVanswers
+p57
+I1
+sVtrackstar
+p58
+I1
+sVput
+p59
+I7
+sVcome
+p60
+I1
+sVshine
+p61
+I6
+sVg
+I1
+sVfault
+p62
+I4
+sVchanged
+p63
+I1
+sVdays
+p64
+I2
+sVtimes
+p65
+I1
+sVthats
+p66
+I1
+sVlove
+p67
+I1
+sVdont
+p68
+I2
+sVfeel
+p69
+I6
+sVblessed
+p70
+I1
+sVone
+p71
+I6
+sVdown
+p72
+I4
+sVfast
+p73
+I1
+sVmessage
+p74
+I1
+sVcloud
+p75
+I1
+sVuse
+p76
+I1
+sVcrowd
+p77
+I1
+sVcares
+p78
+I1
+sVcent
+p79
+I1
+sVmuch
+p80
+I1
+sVmusic
+p81
+I2
+sVway
+p82
+I2
+sVcall
+p83
+I2
+sVtell
+p84
+I2
+sVlisten
+p85
+I1
+sVlife
+p86
+I2
+sVhaha
+p87
+I3
+sVelse
+p88
+I1
+sVhear
+p89
+I2
+sVlord
+p90
+I1
+sVsun
+p91
+I6
+sVgrace
+p92
+I6
+sVrunnin
+p93
+I1
+sVmyself
+p94
+I3
+sVmade
+p95
+I4
+sVniggas
+p96
+I1
+sVsay
+p97
+I1
+sVugly
+p98
+I1
+sVconvince
+p99
+I1
+sVtriple
+p100
+I1
+sVyeaaah
+p101
+I1
+sVcant
+p102
+I4
+sVim
+p103
+I14
+sVwant
+p104
+I1
+sVprayer
+p105
+I1
+sVneed
+p106
+I1
+sVgrind
+p107
+I1
+sVsell
+p108
+I1
+sVmake
+p109
+I3
+sVhot
+p110
+I2
+sVokay
+p111
+I1
+sVdies
+p112
+I1
+sVreach
+p113
+I2
+sVstay
+p114
+I1
+sVbrightens
+p115
+I1
+sVfavorites
+p116
+I1
+sVdate
+p117
+I1
+sVwisdom
+p118
+I1
+sVclass
+p119
+I1
+sVman
+p120
+I1
+sVsometimes
+p121
+I6
+sVnothin
+p122
+I1
+sVface
+p123
+I6
+sVtime
+p124
+I2
+sVtradin
+p125
+I1
+sVdream
+p126
+I1
+sVmic
+p127
+I1
+s.

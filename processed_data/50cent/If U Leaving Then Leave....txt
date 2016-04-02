@@ -1,94 +1,468 @@
-"if u leaving, then leave..." lyrics
-50 cent lyrics
-"if u leaving, then leave..."
-yea
-1 2, 1 2, testing, i said 1 2
-(bring it back)
-yea
-1 2, 1 2, testing i said 1 2
-1 2, 1 2, ya'll niggas know just how i do
-let's get more paper, more bread
-it grind time i ain't fuckin round kid
-got a new case d's ain't got no proof
-got a new coupe it ain't got no roof
-test me see if i won't shoot
-i'll cock that bang that quick for the loot
-tre deuce got it stashed in the boot
-if there's a problem i get to the roof
-go head get your ass shot then q
-you talk too much boy i'll put ya on mute
-even me would need more than a vest
-and more than one strap i guess
-you got me all fucked up
-i might just get your whole clique stuck up
-then come back and sell your shit back
-i'm known for grimey shit like that
-ask around niggas know me good
-south side nigga this my hood
-well if your leavin then leave
-on your way out leave me my keys
-well if your leavin then leave
-if your leavin then leave
-well if your leavin then leave
-get to walkin and leave me my v
-so happy huh
-yea
-what happened girl
-what's happenin
-come on
-haha
-yea
-come on come on
-haha
-whooooooooo kiiiiiiiiid
-well if your leavin then leave
-on your way out leave me my keys
-well if your leavin then leave
-if your leavin then leave
-well if your leavin then leave
-get to walkin and leave me my v
-so sorry i'm sorry
-no no
-come on come on
-we gonna take it up a notch now
-haha
-nana no nana no
-whoooooooooooooooooo hoooooooooo
-well if your leavin then leave
-on your way out leave me my keys
-well if your leavin then leave
-if your leavin then leave
-well if your leavin then leave
-get to walkin and leave me my v
-ho
-calm down baby
-your over reactin
-haha
-don't mistreat me baby
-i won't let ya
-no
-quit lyin to me
-cause i'm a re? the v
-you make me feel crazy
-you know u my first baby
-you not gonna go away
-sit your ass down right here
-it's 50 come on bounce with me come on
-just makes me feel good man
-yea
-double shifts?
-uh uh uh come on
-well if you're leavin then leave
-haha
-you want me
-to be your man
-you know u need me girl
-i don't know why u actin the way you acting
-you love me let me hear you say you love me
-oh now you don't wanna say it cause everybody listening
-ahh you full of shit man
-it's cool it's cool
-you love me later
-you love me long time
-haha
-damn!
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmute
+p4
+I1
+sVyea
+p5
+I5
+sVbring
+p6
+I1
+sVpaper
+p7
+I1
+sVgo
+p8
+I2
+sVlove
+p9
+I4
+sVaint
+p10
+I3
+sVnow
+p11
+I1
+sVre
+p12
+I1
+sVlyin
+p13
+I1
+sVlets
+p14
+I1
+sVactin
+p15
+I1
+sVmistreat
+p16
+I1
+sVsorry
+p17
+I2
+sVcool
+p18
+I2
+sVmight
+p19
+I1
+sVround
+p20
+I1
+sVhappened
+p21
+I1
+sVdo
+p22
+I1
+sVgood
+p23
+I2
+sVaround
+p24
+I1
+sVlater
+p25
+I1
+sVget
+p26
+I7
+sVya
+p27
+I2
+sVme
+p28
+I3
+sVbang
+p29
+I1
+sVknow
+p30
+I5
+sVlistening
+p31
+I1
+sVnew
+p32
+I2
+sV2
+I8
+sVstrap
+p33
+I1
+sVds
+p34
+I1
+sVbread
+p35
+I1
+sVwont
+p36
+I2
+sVlike
+p37
+I1
+sVhappenin
+p38
+I1
+sVreactin
+p39
+I1
+sVtre
+p40
+I1
+sV50
+p41
+I2
+sVleave
+p42
+I21
+sVquick
+p43
+I1
+sVside
+p44
+I1
+sVyall
+p45
+I1
+sVkiiiiiiiiid
+p46
+I1
+sVnigga
+p47
+I1
+sVtesting
+p48
+I2
+sVback
+p49
+I3
+sVbounce
+p50
+I1
+sVsee
+p51
+I1
+sVgirl
+p52
+I2
+sVeven
+p53
+I1
+sVsaid
+p54
+I2
+sVnana
+p55
+I2
+sVaway
+p56
+I1
+sVcase
+p57
+I1
+sVacting
+p58
+I1
+sVwhoooooooooooooooooo
+p59
+I1
+sVgot
+p60
+I6
+sVcause
+p61
+I2
+sVuh
+p62
+I3
+sVass
+p63
+I2
+sVeverybody
+p64
+I1
+sVfull
+p65
+I1
+sVwan
+p66
+I1
+sVhere
+p67
+I1
+sVlet
+p68
+I2
+sVclique
+p69
+I1
+sVask
+p70
+I1
+sVcome
+p71
+I9
+sVloot
+p72
+I1
+sVboy
+p73
+I1
+sVoh
+p74
+I1
+sVill
+p75
+I2
+sVleaving
+p76
+I2
+sVwalkin
+p77
+I3
+sVproof
+p78
+I1
+sVwhole
+p79
+I1
+sVsouth
+p80
+I1
+sVfirst
+p81
+I1
+sVwhats
+p82
+I1
+sVdont
+p83
+I3
+sVfeel
+p84
+I2
+sVahh
+p85
+I1
+sVcrazy
+p86
+I1
+sVone
+p87
+I1
+sVput
+p88
+I1
+sVright
+p89
+I1
+sVlong
+p90
+I1
+sVhood
+p91
+I1
+sVbaby
+p92
+I3
+sVquit
+p93
+I1
+sVguess
+p94
+I1
+sVwould
+p95
+I1
+sVcent
+p96
+I1
+sVcoupe
+p97
+I1
+sVstuck
+p98
+I1
+sVmuch
+p99
+I1
+sVdamn
+p100
+I1
+sVcalm
+p101
+I1
+sVway
+p102
+I4
+sVman
+p103
+I3
+sVhappy
+p104
+I1
+sVhead
+p105
+I1
+sVthat
+p106
+I1
+sVhuh
+p107
+I1
+sVhear
+p108
+I1
+sVho
+p109
+I1
+sVknown
+p110
+I1
+sVdeuce
+p111
+I1
+sVshoot
+p112
+I1
+sVniggas
+p113
+I2
+sVdouble
+p114
+I1
+sVup
+p115
+I2
+sVroof
+p116
+I2
+sVgrimey
+p117
+I1
+sVv
+I4
+sVproblem
+p118
+I1
+sVcock
+p119
+I1
+sVtheres
+p120
+I1
+sVvest
+p121
+I1
+sVyoure
+p122
+I1
+sVsay
+p123
+I2
+sVim
+p124
+I3
+sVwant
+p125
+I1
+sVneed
+p126
+I2
+sVwhooooooooo
+p127
+I1
+sVshit
+p128
+I3
+sVsell
+p129
+I1
+sVno
+p130
+I3
+sVna
+p131
+I3
+sVmake
+p132
+I1
+sVboot
+p133
+I1
+sV1
+I8
+sVshifts
+p134
+I1
+sVtake
+p135
+I1
+sVtest
+p136
+I1
+sVleavin
+p137
+I13
+sVkeys
+p138
+I3
+sVhaha
+p139
+I6
+sVstashed
+p140
+I1
+sVgon
+p141
+I2
+sVfucked
+p142
+I1
+sVhoooooooooo
+p143
+I1
+sVon
+p144
+I5
+sVkid
+p145
+I1
+sVmakes
+p146
+I1
+sVsit
+p147
+I1
+sVwell
+p148
+I10
+sVgrind
+p149
+I1
+sVq
+I1
+sVu
+I5
+sVfuckin
+p150
+I1
+sVtime
+p151
+I2
+sVnotch
+p152
+I1
+sVtalk
+p153
+I1
+s.

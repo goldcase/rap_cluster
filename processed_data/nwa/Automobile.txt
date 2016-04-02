@@ -1,33 +1,226 @@
-"automobile" lyrics
-n.w.a. lyrics
-"automobile"
-yo dre man, i take this bitch out to the movies and shit
-man we're kissin' and grindin' and shit, so we hop in the back seat
-you know man, this bitch rubbin' all over my dick
-and frontin' like she's gonna give me the pussy
-man, and the bitch said 3 words, man: stop, no, and don't (oh shit)
-i said biiiittttttcchh ...
-you don't have to front on me dear, (don't front me..)
-so why don't you just give that pussy hair? (hehehe ahah)
-if you'd be good to me, (yeah yeah)
-ohh i'll be good to you, (ahahha)
-and we'll both ride home in my automobile... (fuckin' head in this car)
-all that i want is a little puss' (that's all he wants)
-all that i want is just a little head (ahaha just a little bit)
-if you'd be good to me, (good)
-ohh i'll be good to you, (ah)
-and we'll both ride home in my automobile...
-you don't have to front on me bitch, (don't front on me muthafuckin' bitch)
-don't be afraid - it's only a dick (ahaha it's only a dick .. )
-give up the pussy soon, (yeah soon)
-all i want is a little woo, (little)
-or get your groupie ass out my hotel room (ahhhhhhhuuu)
-or get your groupie ass out my hotel room (get out get out...)
-all i want is the pussy (ha!)
-all i want is the pussy (pussy)
-all i want is the pussy (godamn right!)
-all i want is the pussy (pussy pussy pussy pussy..)
-if you'd be good to me, (yeah, ho')
-ohh i'll be good to you,
-and we'll both ride home in my automobile (kick some more shit)
-we'll both ride home in my automobile... (ah yeah)
+(dp1
+Vass
+p2
+I2
+sVhehehe
+p3
+I1
+sVohh
+p4
+I3
+sVdont
+p5
+I7
+sVlyrics
+p6
+I2
+sVgive
+p7
+I3
+sVpussy
+p8
+I12
+sVyoud
+p9
+I3
+sVback
+p10
+I1
+sVseat
+p11
+I1
+sVhair
+p12
+I1
+sVright
+p13
+I1
+sVroom
+p14
+I2
+sVshes
+p15
+I1
+sVwant
+p16
+I7
+sVahahha
+p17
+I1
+sVdear
+p18
+I1
+sVhome
+p19
+I4
+sVsoon
+p20
+I2
+sVwell
+p21
+I4
+sVshit
+p22
+I4
+sVcar
+p23
+I1
+sVlittle
+p24
+I5
+sVgon
+p25
+I1
+sVautomobile
+p26
+I6
+sVdick
+p27
+I3
+sVgrindin
+p28
+I1
+sVwoo
+p29
+I1
+sVmuthafuckin
+p30
+I1
+sV3
+I1
+sVtake
+p31
+I1
+sVhop
+p32
+I1
+sVah
+p33
+I2
+sVgodamn
+p34
+I1
+sVyou
+p35
+I1
+sVout
+p36
+I1
+sVgroupie
+p37
+I2
+sVkick
+p38
+I1
+sVwants
+p39
+I1
+sVhead
+p40
+I2
+sVgood
+p41
+I7
+sVsaid
+p42
+I2
+sVyo
+p43
+I1
+sVget
+p44
+I4
+sVrubbin
+p45
+I1
+sVhotel
+p46
+I2
+sVstop
+p47
+I1
+sVbiiiittttttcchh
+p48
+I1
+sVfrontin
+p49
+I1
+sVknow
+p50
+I1
+sVwords
+p51
+I1
+sVfront
+p52
+I4
+sVbit
+p53
+I1
+sVha
+p54
+I1
+sVahaha
+p55
+I2
+sVahhhhhhhuuu
+p56
+I1
+sVman
+p57
+I5
+sVme
+p58
+I1
+sVpuss
+p59
+I1
+sVlike
+p60
+I1
+sVoh
+p61
+I1
+sVdre
+p62
+I1
+sVill
+p63
+I3
+sVyeah
+p64
+I5
+sVahah
+p65
+I1
+sVafraid
+p66
+I1
+sVmovies
+p67
+I1
+sVkissin
+p68
+I1
+sVho
+p69
+I1
+sVna
+p70
+I1
+sVthats
+p71
+I1
+sVnwa
+p72
+I1
+sVride
+p73
+I4
+sVfuckin
+p74
+I1
+sVbitch
+p75
+I5
+s.

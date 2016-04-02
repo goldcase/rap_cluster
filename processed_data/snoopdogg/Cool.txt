@@ -1,43 +1,250 @@
-"cool" lyrics
-snoop dogg lyrics
-"cool"
-i got a penthouse in manhattan
-two more in malibu
-i bought an 87 cadillac seville
-i got a maserati too
-i wear diamonds on my fingers
-a couple on my toes,
-i wear the finest cologne money can buy
-it keeps me smellin’ like a rose
-if u wonderin’ how i do it
-there’s just one simple rule...i’m just cool (cool)
-honey baby cant you see...i’m just cool (cool)
-aint nobody bad like me
-what’s that spell? (c-o-o-l)
-what’s the spell? (c-o-o-l)
-i might dine in san francisco
-dance all night in rome
-i go any freakin’ place i want to
-and my lear jet brings me home
-i got ladies by the dozen
-i got money by the ton
-just aint nobody better
-heaven knows that i’m the one
-its all because of something
-that i didn’t learn in school,
-im just cool (cool)
-honey baby cant you see...i’m soo cool (cool)
-aint nobody bad like me
-what’s that spell? (c-o-o-l)
-what’s that spell? (c-o-o-l)
-and im cool im just cool (cool,cool,cool)
-im just cool im just cool cool cool
-when i look into the mirror
-theres just something i already know
-im just cool(cool)
-honey baby cant you see...i’m just cool (cool)
-aint nobody bad like me
-spell it (c-o-o-l)
-whats that spell? (c-o-o-l) cool
-sing it baby cool
-whats that spell? (cool)
+(dp1
+Vpenthouse
+p2
+I1
+sVdine
+p3
+I1
+sVfinest
+p4
+I1
+sVbetter
+p5
+I1
+sVsan
+p6
+I1
+sVlyrics
+p7
+I2
+sVlook
+p8
+I1
+sVsimple
+p9
+I1
+sVmoney
+p10
+I2
+sVit
+p11
+I1
+sVsoo
+p12
+I1
+sVseville
+p13
+I1
+sVcologne
+p14
+I1
+sVsmellin\u2019
+p15
+I1
+sVcant
+p16
+I3
+sVbuy
+p17
+I1
+sVlearn
+p18
+I1
+sVsomething
+p19
+I2
+sVwant
+p20
+I1
+sVmirror
+p21
+I1
+sVgo
+p22
+I1
+sVhome
+p23
+I1
+sVknows
+p24
+I1
+sV87
+p25
+I1
+sVbrings
+p26
+I1
+sVdozen
+p27
+I1
+sVaint
+p28
+I4
+sVfreakin\u2019
+p29
+I1
+sVspell
+p30
+I7
+sVmaserati
+p31
+I1
+sVsnoop
+p32
+I1
+sVto
+p33
+I1
+sVcoolcool
+p34
+I1
+sVdogg
+p35
+I1
+sVnight
+p36
+I1
+sVtwo
+p37
+I1
+sVseei\u2019m
+p38
+I3
+sVlear
+p39
+I1
+sVdance
+p40
+I1
+sVton
+p41
+I1
+sVtoo
+p42
+I1
+sVwhats
+p43
+I2
+sVdiamonds
+p44
+I1
+sVgot
+p45
+I4
+sVladies
+p46
+I1
+sVcoolcoolcool
+p47
+I1
+sVmight
+p48
+I1
+sVmanhattan
+p49
+I1
+sVbought
+p50
+I1
+sVmalibu
+p51
+I1
+sVtoes
+p52
+I1
+sVrose
+p53
+I1
+sVwonderin\u2019
+p54
+I1
+sVcadillac
+p55
+I1
+sVcouple
+p56
+I1
+sVnobody
+p57
+I4
+sVdidn\u2019t
+p58
+I1
+sVthere\u2019s
+p59
+I1
+sVfingers
+p60
+I1
+sVwear
+p61
+I2
+sVbaby
+p62
+I4
+sVwhat\u2019s
+p63
+I4
+sVone
+p64
+I2
+sVsing
+p65
+I1
+sVfrancisco
+p66
+I1
+sVcool
+p67
+I27
+sVme
+p68
+I3
+sVhoney
+p69
+I3
+sVschool
+p70
+I1
+sVheaven
+p71
+I1
+sVlike
+p72
+I4
+sVi\u2019m
+p73
+I1
+sVknow
+p74
+I1
+sVbad
+p75
+I3
+sVrome
+p76
+I1
+sVu
+I1
+sVplace
+p77
+I1
+sVkeeps
+p78
+I1
+sValready
+p79
+I1
+sVim
+p80
+I6
+sVtheres
+p81
+I1
+sVrulei\u2019m
+p82
+I1
+sVjet
+p83
+I1
+s.

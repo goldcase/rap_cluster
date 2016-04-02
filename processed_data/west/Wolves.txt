@@ -1,62 +1,203 @@
-wolves lyrics
-kanye west lyrics
-wolves
-feat sia  vic mensa
-lost beat up
-dancin there
-found somewhere out
-right round right right there
-lost beat up
-dancin
-found somewhere out
-right right round there
-lost found now
-turn im lost
-daddy found out
-turned turned out
-mama knew now
-turned out
-wild wild
-wild wild
-need now
-love you
-found found you
-right right now
-right right now
-mama knew now
-turned out
-wild
-wild wild
-wild need now
-lost found now
-im sorry
-cry youll sorry hennessey
-dont fool yourself
-eyes dont lie youre much good true
-dont fire fight
-yeah feel burning everythings burning
-dont fly high
-wings might melt youre much good true
-im bad you
-im bad bad bad you
-dont fool yourself
-eyes dont lie youre much good true
-dont fire fight
-yeah feel burning everythings burning
-dont fly high
-wings might melt youre much good true
-im bad you
-im bad bad bad you
-im bad bad bad you
-lost beat up
-turned burned up
-found heartache
-knowin drawn in
-lost beat up
-warm flesh unseasoned
-found gaze
-oh found jesus
-wild wild
-wild wild
-wild wild
-amongst yellow eyes
+(dp1
+Vvic
+p2
+I1
+sVdancin
+p3
+I2
+sVlove
+p4
+I1
+sVdont
+p5
+I8
+sVlyrics
+p6
+I2
+sVflesh
+p7
+I1
+sVfeel
+p8
+I2
+sVeverythings
+p9
+I2
+sVturned
+p10
+I5
+sVyeah
+p11
+I2
+sVyellow
+p12
+I1
+sVyourself
+p13
+I2
+sVhigh
+p14
+I2
+sVright
+p15
+I9
+sVim
+p16
+I7
+sVin
+p17
+I1
+sVneed
+p18
+I2
+sVkanye
+p19
+I1
+sVfeat
+p20
+I1
+sVwings
+p21
+I2
+sVout
+p22
+I6
+sVheartache
+p23
+I1
+sVlie
+p24
+I2
+sVmensa
+p25
+I1
+sVgaze
+p26
+I1
+sVsomewhere
+p27
+I2
+sVwest
+p28
+I1
+sVthere
+p29
+I3
+sVoh
+p30
+I1
+sVmelt
+p31
+I2
+sVfight
+p32
+I2
+sVfire
+p33
+I2
+sVsia
+p34
+I1
+sVmuch
+p35
+I4
+sVmama
+p36
+I2
+sVdrawn
+p37
+I1
+sVyou
+p38
+I7
+sVhennessey
+p39
+I1
+sVyoull
+p40
+I1
+sVyoure
+p41
+I4
+sVfool
+p42
+I2
+sVeyes
+p43
+I3
+sVgood
+p44
+I4
+sVjesus
+p45
+I1
+sVbeat
+p46
+I4
+sVknew
+p47
+I2
+sVamongst
+p48
+I1
+sVwarm
+p49
+I1
+sVnow
+p50
+I8
+sVtrue
+p51
+I4
+sVsorry
+p52
+I2
+sVburning
+p53
+I4
+sVfly
+p54
+I2
+sVknowin
+p55
+I1
+sVlost
+p56
+I7
+sVunseasoned
+p57
+I1
+sVmight
+p58
+I2
+sVcry
+p59
+I1
+sVup
+p60
+I5
+sVturn
+p61
+I1
+sVbad
+p62
+I11
+sVburned
+p63
+I1
+sVwild
+p64
+I14
+sVfound
+p65
+I10
+sVwolves
+p66
+I2
+sVdaddy
+p67
+I1
+sVround
+p68
+I2
+s.

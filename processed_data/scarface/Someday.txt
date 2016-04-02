@@ -1,91 +1,635 @@
-"someday" lyrics
-scarface lyrics
-"someday"
-(feat. faith evans)
-i know god is watching from above
-sometimes i wonder what i'd do without his love
-and although life is full of adversities
-i know he's with me, he's with me
-i know someday, someday, someday...
-someday, someday, someday...
-someday, someday, someday
-he'll come to get me
-i wanna walk with you, follow in your footsteps
-talk with you to find out where my good's kept
-i been gone away from home for so long
-seems like everything i try to do without you go wrong
-i'm confused about a lot of things, but not with my fate
-so i'm depending on your holy ghost to guide me the way
-see i'm a sinner in the 3rd degree
-ain't afraid to admit it, scause i seen niggas worse than me
-who am i to judge a man when i'm a man myself
-in the dark, trying to get me some help
-i went from pawn to king, king back to pawn
-doing my best to try to ease out the storm
-i know that every tunnel's got an end and a light
-and i prepared a new beginning in christ
-my life is like a jigsaw dulling in time
-and as i'm thumbing through this jigsaw puzzle of mine
-i know god is watching from above
-sometimes i wonder what i'd do without his love
-and although life is full of adversities
-i know he's with me, he's with me
-i know someday, someday, someday...
-someday, someday, someday...
-someday, someday, someday
-he'll come to get me
-it seems like every other wednesday i'm attending a wake
-but i don't question you, i know that's your way, ok
-i know we living for the minute and there's a moment in time
-we've got to leave here, cause that's your design
-and nothing lasts forever, not even spirit, only your word
-that's what i live by, 'cause that's what i heard
-i wasn't there when you rose from the dead or parted the sea
-i never seen you, but still i believe
-how you explain the moon, the sky, the stars and the rain
-the sun and the sea, the earth without form facing the deep
-in darkness challenging the powers that be
-it's impossible for scientists to make up the seas, to make up the trees
-so why we turn our backs on the truth?
-it's heaven or hell, the point we seem to hide from the youth
-and i was singing this morning, got touched by the spirit
-so i wrote it down for the homies to hear it
-i know god is watching from above
-sometimes i wonder what i'd do without his love
-and although life is full of adversities
-i know he's with me, he's with me
-i know someday, someday, someday...
-someday, someday, someday...
-someday, someday, someday
-he'll come to get me
-lord i know that i've been wrong
-they say a man is lost without a prayer, without a song
-so i'm singing on my knees cause i believe you'll keep me strong
-until it's time for me to bring it home
-but until it's time for me to bring it home
-i'll be out in these streets, hanging in the hood
-even gangsters need to pray, cause when i pray it's understood
-that i got flaws about myself, i can't make it by myself
-i need the heaven's help, i want to follow in your foot steps
-done seen the strongest man bow down to a higher power
-and given all his glory to god cause god towers
-over all, and in that i save this prayer
-for all my homies that's been trapped out there
-that's stuck in their ways, it's different now than back in the days
-so fuck what they say, cause ain't no coming back from the grave
-so when the gun goes pop and the lights go out
-then you'll understand what i'm talking about
-i know god is watching from above
-sometimes i wonder what i'd do without his love
-and although life is full of adversities
-i know he's with me, he's with me
-i know someday, someday, someday...
-someday, someday, someday...
-someday, someday, someday
-he'll come to get me
-i know someday, someday, someday...
-someday, someday, someday...
-someday, someday, someday
-he'll come to get me
-i just want to be your solider
-i just want to be your best soul, woooo lord
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I2
+sVbring
+p4
+I2
+sVearth
+p5
+I1
+sVhanging
+p6
+I1
+sVgo
+p7
+I2
+sVfollow
+p8
+I2
+sVstill
+p9
+I1
+sVfeat
+p10
+I1
+sVfind
+p11
+I1
+sVaint
+p12
+I2
+sVbelieve
+p13
+I2
+sVlights
+p14
+I1
+sVpray
+p15
+I2
+sVrose
+p16
+I1
+sVease
+p17
+I1
+sVseems
+p18
+I2
+sVtouched
+p19
+I1
+sVhomies
+p20
+I2
+sVlord
+p21
+I2
+sVsave
+p22
+I1
+sVweve
+p23
+I1
+sVworse
+p24
+I1
+sVfate
+p25
+I1
+sVget
+p26
+I6
+sVtrees
+p27
+I1
+sVdark
+p28
+I1
+sVfacing
+p29
+I1
+sVsolider
+p30
+I1
+sVevery
+p31
+I2
+sVknow
+p32
+I17
+sVnew
+p33
+I1
+sVjudge
+p34
+I1
+sVminute
+p35
+I1
+sVheaven
+p36
+I1
+sVlike
+p37
+I3
+sVlost
+p38
+I1
+sVyoull
+p39
+I2
+sVwednesday
+p40
+I1
+sVmorning
+p41
+I1
+sVtry
+p42
+I2
+sVgangsters
+p43
+I1
+sVsteps
+p44
+I1
+sVtruth
+p45
+I1
+sVwent
+p46
+I1
+sVwrote
+p47
+I1
+sVsomeday
+p48
+I47
+sVparted
+p49
+I1
+sVseas
+p50
+I1
+sVstreets
+p51
+I1
+sVback
+p52
+I3
+sVdead
+p53
+I1
+sVgun
+p54
+I1
+sVunderstood
+p55
+I1
+sVsee
+p56
+I1
+sVdesign
+p57
+I1
+sVsea
+p58
+I2
+sVhell
+p59
+I6
+sVhome
+p60
+I3
+sVbest
+p61
+I2
+sVwonder
+p62
+I4
+sVeven
+p63
+I2
+sVliving
+p64
+I1
+sVheavens
+p65
+I1
+sVhide
+p66
+I1
+sVchrist
+p67
+I1
+sV3rd
+p68
+I1
+sVways
+p69
+I1
+sVgod
+p70
+I6
+sVaway
+p71
+I1
+sVmoon
+p72
+I1
+sVeverything
+p73
+I1
+sVabove
+p74
+I4
+sVscientists
+p75
+I1
+sVit
+p76
+I1
+sVgot
+p77
+I4
+sVcause
+p78
+I6
+sVbe
+p79
+I1
+sVfull
+p80
+I4
+sVdegree
+p81
+I1
+sVnever
+p82
+I1
+sVlasts
+p83
+I1
+sVattending
+p84
+I1
+sVdarkness
+p85
+I1
+sValthough
+p86
+I4
+sVfuck
+p87
+I1
+sVtalking
+p88
+I1
+sVstrong
+p89
+I1
+sVbeginning
+p90
+I1
+sVfaith
+p91
+I1
+sVabout
+p92
+I1
+sVgoods
+p93
+I1
+sVok
+p94
+I1
+sVill
+p95
+I1
+sVmoment
+p96
+I1
+sVkeep
+p97
+I1
+sVturn
+p98
+I1
+sVadmit
+p99
+I1
+sVfootsteps
+p100
+I1
+sVexplain
+p101
+I1
+sVthats
+p102
+I6
+sVthere
+p103
+I1
+sVlove
+p104
+I4
+sVdont
+p105
+I1
+sVevans
+p106
+I1
+sVpoint
+p107
+I1
+sVsky
+p108
+I1
+sVpuzzle
+p109
+I1
+sVpop
+p110
+I1
+sVwalk
+p111
+I1
+sVdone
+p112
+I1
+sVsoul
+p113
+I1
+sVimpossible
+p114
+I1
+sVsinging
+p115
+I2
+sVhood
+p116
+I1
+sVwan
+p117
+I1
+sVgiven
+p118
+I1
+sVflaws
+p119
+I1
+sVhes
+p120
+I8
+sVcome
+p121
+I5
+sVjigsaw
+p122
+I2
+sVquestion
+p123
+I1
+sVlong
+p124
+I1
+sVstuck
+p125
+I1
+sVlive
+p126
+I1
+sVwoooo
+p127
+I1
+sVway
+p128
+I2
+sVlife
+p129
+I5
+sVlot
+p130
+I1
+sVholy
+p131
+I1
+sVtrapped
+p132
+I1
+sVtowers
+p133
+I1
+sVcant
+p134
+I1
+sVmine
+p135
+I1
+sVwake
+p136
+I1
+sVsun
+p137
+I1
+sVtrying
+p138
+I1
+sVspirit
+p139
+I2
+sVgoes
+p140
+I1
+sVme
+p141
+I10
+sVking
+p142
+I2
+sVmyself
+p143
+I2
+sVword
+p144
+I1
+sVglory
+p145
+I1
+sVniggas
+p146
+I1
+sVleave
+p147
+I1
+sVscause
+p148
+I1
+sVyouth
+p149
+I1
+sVim
+p150
+I8
+sVpowers
+p151
+I1
+sVguide
+p152
+I1
+sVtheres
+p153
+I1
+sVunderstand
+p154
+I1
+sVgone
+p155
+I1
+sVchallenging
+p156
+I1
+sVpawn
+p157
+I2
+sVwasnt
+p158
+I1
+sVconfused
+p159
+I1
+sVdeep
+p160
+I1
+sVdays
+p161
+I1
+sVive
+p162
+I1
+sVheard
+p163
+I1
+sVsay
+p164
+I2
+sVscarface
+p165
+I1
+sVwant
+p166
+I3
+sVprayer
+p167
+I2
+sVneed
+p168
+I2
+sVseen
+p169
+I3
+sVseem
+p170
+I1
+sVbow
+p171
+I1
+sVid
+p172
+I4
+sVdifferent
+p173
+I1
+sVafraid
+p174
+I1
+sVend
+p175
+I1
+sVform
+p176
+I1
+sVdepending
+p177
+I1
+sVthings
+p178
+I1
+sVmake
+p179
+I3
+sVwatching
+p180
+I4
+sVbacks
+p181
+I1
+sVthumbing
+p182
+I1
+sVwithout
+p183
+I8
+sVout
+p184
+I1
+sVtunnels
+p185
+I1
+sVhigher
+p186
+I1
+sVknees
+p187
+I1
+sVadversities
+p188
+I4
+sVtime
+p189
+I4
+sVrain
+p190
+I1
+sVprepared
+p191
+I1
+sVwrong
+p192
+I2
+sVstars
+p193
+I1
+sVpower
+p194
+I1
+sVstrongest
+p195
+I1
+sVcoming
+p196
+I1
+sVnothing
+p197
+I1
+sVsong
+p198
+I1
+sVgrave
+p199
+I1
+sVman
+p200
+I4
+sVghost
+p201
+I1
+sVforever
+p202
+I1
+sVkept
+p203
+I1
+sVfoot
+p204
+I1
+sVlight
+p205
+I1
+sVsometimes
+p206
+I4
+sVstorm
+p207
+I1
+sVna
+p208
+I1
+sVdulling
+p209
+I1
+sVhear
+p210
+I1
+sVtalk
+p211
+I1
+sVsinner
+p212
+I1
+s.

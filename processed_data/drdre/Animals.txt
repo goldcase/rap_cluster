@@ -1,85 +1,575 @@
-"animals" lyrics
-dr. dre lyrics
-"animals"
-(feat. anderson .paak)
-these old sneakers, faded blue jeans
-no tricks no gimmicks, i be stomping down down down down down demons
-rolling up trees in the belly of the beast
-where the people disagree, the upper class hate
-middle don't exist, the bottom of the beat, glad i got my sticks
-are you jumping on a fad, laying in a ditch
-i be stomping down demons, stomping down quick, come on
-the police don't come around these parts
-they tell me that we all a bunch of animals
-the only time they wanna turn the cameras on
-is when we're fuckin' shit up, come on
-bullets still ringing, blood on the cement
-black folks grieving, headlines reading
-tryna pay it no mind, you just living your life
-everyone is a witness, everyone got opinions
-got a son of my own, look him right in his eyes
-i ain't living in fear but i'm holding him tight
-got a son of my own, look him right in his eyes
-i ain't living in fear but i'm holding him tight
-damn, why the fuck are they after me?
-maybe cause i'm a bastard
-or maybe cause of the way my hair grow naturally
-still tryna figure out, why the fuck i'm full of rage
-i think i know this is bullshit right around the fifth grade
-paraphernalia in my locker right next to the switch blade
-nothing but pussy on my mind and some plans of getting paid (ay)
-but i'm a product of the system raised on government aid
-and i knew just how to react when it was time for that raid (whoa)
-just a young black man from compton wondering who could save us
-and could barely read the sentences the justice system gave us
-so many rental cars with bricks, i think they probably funded avis
-some of us was unbalanced but some us used our talents
-not all of us criminals but cops be yelling, "stay back nigga!"
-we need a little bit of payback
-don't treat me like an animal cause all this shit is flammable
-don't fuck around cause when it's done it's done
-(fuck you!)
-and the old folks tell me it's been going on since back in the day
-but that don't make it okay
-and the white folks tell me all the looting and the shooting's insane
-but you don't know our pain
-the police don't come around these parts
-they tell me that we all a bunch of animals
-the only time they wanna turn the cameras on
-is when we're fuckin' shit up, come on
-the police don't come around these parts
-they tell me that we all a bunch of animals
-the only time they wanna turn the cameras on
-is when we're fuckin' shit up, come on
-these old sneakers, faded blue jeans
-no tricks no gimmicks, i be stomping down down down down down demons
-rolling up trees in the belly of the beast
-where the people disagree, the upper class hate
-middle don't exist, the bottom of the beat, glad i got my sticks
-are you jumping on a fad, laying in a ditch
-i be stomping down demons, stomping down quick, come on
-and the old folks tell me it's been going on since back in the day
-but that don't make it okay
-and the white folks tell me all the looting and the shooting's insane
-but you don't know our pain
-the police don't come around these parts
-they tell me that we all a bunch of animals
-the only time they wanna turn the cameras on
-is when we're fuckin' shit up, come on
-the police don't come around these parts
-they tell me that we all a bunch of animals
-the only time they wanna turn the cameras on
-is when we're fuckin' shit up, come on
-yeah, this is dj motherfuckin' premier
-and i'm dr. dre (dr. dre)
-what, premo!
-yeah we fuckin' shit up
-no, we don't play no games here
-mother fucker please!
-aftermath
-one of the reasons that me and you click
-we don't lose, i always win
-let's face it you basic boy
-for realer
-professional winners
-for realer
+(dp1
+Vopinions
+p2
+I1
+sVsince
+p3
+I2
+sVreact
+p4
+I1
+sVlyrics
+p5
+I2
+sVmother
+p6
+I1
+sVheadlines
+p7
+I1
+sVstill
+p8
+I2
+sVfeat
+p9
+I1
+sVfifth
+p10
+I1
+sVbunch
+p11
+I5
+sVaint
+p12
+I2
+sVpolice
+p13
+I5
+sVpremo
+p14
+I1
+sVanimal
+p15
+I1
+sVjustice
+p16
+I1
+sVrental
+p17
+I1
+sVyoung
+p18
+I1
+sVknew
+p19
+I1
+sVday
+p20
+I2
+sVbricks
+p21
+I1
+sVlets
+p22
+I1
+sVgoing
+p23
+I2
+sVblack
+p24
+I2
+sVavis
+p25
+I1
+sVwin
+p26
+I1
+sVfolks
+p27
+I5
+sVsave
+p28
+I1
+sVgave
+p29
+I1
+sVdj
+p30
+I1
+sVaround
+p31
+I7
+sVgovernment
+p32
+I1
+sVbeat
+p33
+I2
+sVtrees
+p34
+I2
+sVnext
+p35
+I1
+sVknow
+p36
+I3
+sVprobably
+p37
+I1
+sVpayback
+p38
+I1
+sVbit
+p39
+I1
+sVone
+p40
+I1
+sVdr
+p41
+I3
+sVbullshit
+p42
+I1
+sVfad
+p43
+I2
+sVlooting
+p44
+I2
+sVflammable
+p45
+I1
+sVlike
+p46
+I1
+sValways
+p47
+I1
+sVlaying
+p48
+I2
+sVlose
+p49
+I1
+sVquick
+p50
+I2
+sVmotherfuckin
+p51
+I1
+sVinsane
+p52
+I2
+sVupper
+p53
+I2
+sVeveryone
+p54
+I2
+sVold
+p55
+I4
+sVpeople
+p56
+I2
+sVback
+p57
+I3
+sVhair
+p58
+I1
+sVokay
+p59
+I2
+sVfear
+p60
+I2
+sVwitness
+p61
+I1
+sVblue
+p62
+I2
+sVliving
+p63
+I3
+sVbottom
+p64
+I2
+sVhate
+p65
+I2
+sVcameras
+p66
+I5
+sVplease
+p67
+I1
+sVdemons
+p68
+I4
+sVsneakers
+p69
+I2
+sVgot
+p70
+I5
+sVreading
+p71
+I1
+sVcause
+p72
+I4
+sVfull
+p73
+I1
+sVcars
+p74
+I1
+sVhere
+p75
+I1
+sVreasons
+p76
+I1
+sVpaid
+p77
+I1
+sVaid
+p78
+I1
+sVaftermath
+p79
+I1
+sVcome
+p80
+I12
+sVplay
+p81
+I1
+sVon
+p82
+I12
+sVyelling
+p83
+I1
+sVgetting
+p84
+I1
+sVmany
+p85
+I1
+sVcould
+p86
+I2
+sVcompton
+p87
+I1
+sVgimmicks
+p88
+I2
+sVturn
+p89
+I5
+sVgames
+p90
+I1
+sVgrieving
+p91
+I1
+sVdre
+p92
+I3
+sVthink
+p93
+I2
+sVfuckin
+p94
+I6
+sVraised
+p95
+I1
+sVshootings
+p96
+I2
+sVdont
+p97
+I15
+sVgrade
+p98
+I1
+sVpussy
+p99
+I1
+sVjeans
+p100
+I2
+sVson
+p101
+I2
+sVnothing
+p102
+I1
+sVright
+p103
+I4
+sVdone
+p104
+I2
+sVfucker
+p105
+I1
+sVditch
+p106
+I2
+sVsticks
+p107
+I2
+sVwan
+p108
+I5
+sVlittle
+p109
+I1
+sVcriminals
+p110
+I1
+sVparaphernalia
+p111
+I1
+sVsystem
+p112
+I2
+sVgrow
+p113
+I1
+sVanderson
+p114
+I1
+sVdamn
+p115
+I1
+sVtreat
+p116
+I1
+sVway
+p117
+I1
+sVbasic
+p118
+I1
+sVwhite
+p119
+I2
+sVtell
+p120
+I9
+sVnaturally
+p121
+I1
+sVtryna
+p122
+I2
+sVeyes
+p123
+I2
+sVwondering
+p124
+I1
+sVboy
+p125
+I1
+sVfuck
+p126
+I4
+sVcops
+p127
+I1
+sVtalents
+p128
+I1
+sVnigga
+p129
+I1
+sVpain
+p130
+I2
+sVglad
+p131
+I2
+sVme
+p132
+I1
+sVanimals
+p133
+I7
+sVlook
+p134
+I2
+sVrage
+p135
+I1
+sVblade
+p136
+I1
+sVup
+p137
+I1
+sVus
+p138
+I5
+sVwhoa
+p139
+I1
+sVlocker
+p140
+I1
+sVfaded
+p141
+I2
+sVexist
+p142
+I2
+sVbarely
+p143
+I1
+sVringing
+p144
+I1
+sVfigure
+p145
+I1
+sVstomping
+p146
+I6
+sVpremier
+p147
+I1
+sVmind
+p148
+I2
+sVlife
+p149
+I1
+sVmiddle
+p150
+I2
+sVim
+p151
+I6
+sVsentences
+p152
+I1
+sVay
+p153
+I1
+sVshit
+p154
+I7
+sVbastard
+p155
+I1
+sVna
+p156
+I5
+sVmake
+p157
+I2
+sVclick
+p158
+I1
+sVtight
+p159
+I2
+sVneed
+p160
+I1
+sVparts
+p161
+I5
+sVbelly
+p162
+I2
+sVholding
+p163
+I2
+sVyou
+p164
+I1
+sVunbalanced
+p165
+I1
+sVproduct
+p166
+I1
+sVused
+p167
+I1
+sVraid
+p168
+I1
+sVplans
+p169
+I1
+sVtime
+p170
+I6
+sVdisagree
+p171
+I2
+sVwinners
+p172
+I1
+sVcement
+p173
+I1
+sVstay
+p174
+I1
+sVbeast
+p175
+I2
+sVjumping
+p176
+I2
+sVbullets
+p177
+I1
+sVblood
+p178
+I1
+sVprofessional
+p179
+I1
+sVrolling
+p180
+I2
+sVrealer
+p181
+I2
+sVclass
+p182
+I2
+sVman
+p183
+I1
+sVyeah
+p184
+I2
+sVread
+p185
+I1
+sVmaybe
+p186
+I2
+sVtricks
+p187
+I2
+sVface
+p188
+I1
+sVswitch
+p189
+I1
+sVfunded
+p190
+I1
+sVpay
+p191
+I1
+sVpaak
+p192
+I1
+s.

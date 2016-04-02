@@ -1,78 +1,604 @@
-"high school" lyrics
-snoop dogg lyrics
-"high school"
-(with wiz khalifa)
-big mac, big sack, like this, like that
-big man on campus, i’ll be right back
-like mike, like max, my life, my fight
-menace
-mo’ business in the beginning
-but hoes stupid
-but ended up bein a chemist
-24/7, dev, my nigga committed
-classmates
-ended up as my roll dog
-i showed him how to live
-how to ball till we fall
-harder it is, make you much smarter dog
-follow instructions, changed up the dialogue
-manifest, no stress
-life is a big test
-will you fail? or will you pass?
-smoke grass, trim trees
-tryin to find some air to breath
-messed up, please baby, baby please
-diplomas, gowns, caps and degrees
-these are necessities
-in life ya need
-some gone and did it
-focus, committed
-15 years later, the year a nigga finally did it
-now who’s to say in life is up, slow down?
-and when you get up, you gotta get down.
-and when you get up, look around
-and don’t frown on the ones that down
-just give ‘em a hand
-it’s like mix and fixin up pots and pans
-listen up, i’m poppin up like rockin the band
-no playin, all from the heart to the hand
-we gon roll it, smoke it, and do it again.
-i’m the apprentice
-back on my pimp shit
-roll it, puff it, now give it to him
-physical fitness
-smokin’ relentless
-nouns and pronouns, they make up my sentence
-high school days. blowin on the purple haze
-high school days. blowin on the purple haze
-and you know everywhere that we go if it’s there for its mac then we blow it by the o
-niggas know me for rollin’ the ogs on someone low key, twistin a whole bush
-and if i got it, then you can get it; it’s on us
-smoke so much product that they prolly give me my own kush
-we blow it by the zone
-break down, blow it at a bone
-take you to my crib and show you how to roll, bro
-and my pockets lookin kinda swole
-me and mac smoking grade a on a roll
-now all of the teachers on us
-they can have contact cuz i keep diplomas
-car automatic don’t need the key to start it
-know it’s us juzt cuz of the weed aroma
-lookin for me, nigga, i’m in the tree department
-with a doobie rolled up in a secret compartment
-tryin to finish up this speech and get my diploma
-so i can a career where my og can harvest
-and my niggas can ball
-i’m talkin so much weed that there’s shit in the walls
-it start growing the spring and get picked in the fall
-i’m used to goin to every class, but i’m missin them all
-fuckin with mac, smoking spliffs in the hall
-singing this song like
-niggas know me, blowin on the og
-niggas know me, blowin on the og
-niggas know me
-high school niggas
-dev and mac, mac and dev
-put it in a zag
-put it in a blunt
-do what you want
+(dp1
+Vpans
+p2
+I1
+sVcrib
+p3
+I1
+sVlyrics
+p4
+I2
+sVsentence
+p5
+I1
+sVfocus
+p6
+I1
+sVyears
+p7
+I1
+sVgoin
+p8
+I1
+sVended
+p9
+I2
+sVcommitted
+p10
+I2
+sVgo
+p11
+I1
+sVfollow
+p12
+I1
+sVfind
+p13
+I1
+sVblow
+p14
+I3
+sVmessed
+p15
+I1
+sVmo\u2019
+p16
+I1
+sVslow
+p17
+I1
+sVzone
+p18
+I1
+sVmix
+p19
+I1
+sVtalkin
+p20
+I1
+sVit\u2019s
+p21
+I4
+sVpoppin
+p22
+I1
+sVcuz
+p23
+I2
+sVhall
+p24
+I1
+sVfinally
+p25
+I1
+sVdegrees
+p26
+I1
+sVta
+p27
+I1
+sVsomeone
+p28
+I1
+sVaround
+p29
+I1
+sVget
+p30
+I6
+sVya
+p31
+I1
+sVbig
+p32
+I4
+sVbein
+p33
+I1
+sVtrees
+p34
+I1
+sVcaps
+p35
+I1
+sVbreak
+p36
+I1
+sVband
+p37
+I1
+sVwalls
+p38
+I1
+sVones
+p39
+I1
+sVevery
+p40
+I1
+sVknow
+p41
+I6
+sVfall
+p42
+I2
+sVaroma
+p43
+I1
+sVhim
+p44
+I1
+sVinstructions
+p45
+I1
+sVbro
+p46
+I1
+sVschool
+p47
+I5
+sVlike
+p48
+I7
+sVpimp
+p49
+I1
+sVmanifest
+p50
+I1
+sVstupid
+p51
+I1
+sVwho\u2019s
+p52
+I1
+sVfitness
+p53
+I1
+sVautomatic
+p54
+I1
+sVrelentless
+p55
+I1
+sVbone
+p56
+I1
+sVright
+p57
+I1
+sVkhalifa
+p58
+I1
+sVtree
+p59
+I1
+sVsecret
+p60
+I1
+sVback
+p61
+I2
+sVused
+p62
+I1
+sVfinish
+p63
+I1
+sVus
+p64
+I3
+sVpicked
+p65
+I1
+sVhoes
+p66
+I1
+sVfail
+p67
+I1
+sVplayin
+p68
+I1
+sVfixin
+p69
+I1
+sVjuzt
+p70
+I1
+sVgon
+p71
+I1
+sVprolly
+p72
+I1
+sVpurple
+p73
+I2
+sVplease
+p74
+I2
+sVhaze
+p75
+I2
+sVgot
+p76
+I2
+sVbusiness
+p77
+I1
+sVrolled
+p78
+I1
+sV247
+p79
+I1
+sVkey
+p80
+I2
+sVput
+p81
+I2
+sVweed
+p82
+I2
+sVbeginning
+p83
+I1
+sVcareer
+p84
+I1
+sVchanged
+p85
+I1
+sVdays
+p86
+I2
+sVo
+I1
+sVkeep
+p87
+I1
+sVsmoke
+p88
+I3
+sVpuff
+p89
+I1
+sVwhole
+p90
+I1
+sVfuckin
+p91
+I1
+sVlookin
+p92
+I2
+sVtwistin
+p93
+I1
+sVkinda
+p94
+I1
+sVheart
+p95
+I1
+sVgrade
+p96
+I1
+sVzag
+p97
+I1
+sVyear
+p98
+I1
+sVsack
+p99
+I1
+sVdown
+p100
+I3
+sVnigga
+p101
+I3
+sVshow
+p102
+I1
+sVsinging
+p103
+I1
+sVwiz
+p104
+I1
+sVsnoop
+p105
+I1
+sVsmokin\u2019
+p106
+I1
+sVdogg
+p107
+I1
+sVpots
+p108
+I1
+sVbush
+p109
+I1
+sVfight
+p110
+I1
+sVbreath
+p111
+I1
+sVstart
+p112
+I2
+sVlive
+p113
+I1
+sVmuch
+p114
+I3
+sVdon\u2019t
+p115
+I2
+sVi\u2019ll
+p116
+I1
+sVspring
+p117
+I1
+sVrockin
+p118
+I1
+sVgowns
+p119
+I1
+sVtryin
+p120
+I2
+sVlisten
+p121
+I1
+sVdialogue
+p122
+I1
+sVthat
+p123
+I1
+sVogs
+p124
+I1
+sVthere\u2019s
+p125
+I1
+sVpronouns
+p126
+I1
+sVeverywhere
+p127
+I1
+sVbaby
+p128
+I2
+sVsmoking
+p129
+I2
+sVharvest
+p130
+I1
+sVapprentice
+p131
+I1
+sVme
+p132
+I1
+sVcompartment
+p133
+I1
+sV15
+p134
+I1
+sVlook
+p135
+I1
+sVshowed
+p136
+I1
+sVniggas
+p137
+I6
+sVdoobie
+p138
+I1
+sVswole
+p139
+I1
+sVall
+p140
+I1
+sVharder
+p141
+I1
+sVdev
+p142
+I3
+sVair
+p143
+I1
+sVog
+p144
+I3
+sVspliffs
+p145
+I1
+sVteachers
+p146
+I1
+sVgrowing
+p147
+I1
+sVblowin
+p148
+I4
+sVgrass
+p149
+I1
+sVtrim
+p150
+I1
+sVgone
+p151
+I1
+sVgive
+p152
+I3
+sVpass
+p153
+I1
+sVit
+p154
+I3
+sVhigh
+p155
+I5
+sVsay
+p156
+I1
+sVwant
+p157
+I1
+sVneed
+p158
+I2
+sVtake
+p159
+I1
+sVcar
+p160
+I1
+sVcampus
+p161
+I1
+sVshit
+p162
+I2
+sVfrown
+p163
+I1
+sVnecessities
+p164
+I1
+sVagain
+p165
+I1
+sVdiplomas
+p166
+I2
+sVrollin\u2019
+p167
+I1
+sV\u2018em
+p168
+I1
+sVmake
+p169
+I2
+sVsong
+p170
+I1
+sVmike
+p171
+I1
+sVdepartment
+p172
+I1
+sVtill
+p173
+I1
+sVspeech
+p174
+I1
+sVlow
+p175
+I1
+sVsmarter
+p176
+I1
+sVtest
+p177
+I1
+sVphysical
+p178
+I1
+sVblunt
+p179
+I1
+sVroll
+p180
+I5
+sVchemist
+p181
+I1
+sVproduct
+p182
+I1
+sVball
+p183
+I2
+sVclassmates
+p184
+I1
+sVpockets
+p185
+I1
+sVkush
+p186
+I1
+sVmax
+p187
+I1
+sVmissin
+p188
+I1
+sVdiploma
+p189
+I1
+sVhand
+p190
+I2
+sVmac
+p191
+I6
+sVnouns
+p192
+I1
+sVclass
+p193
+I1
+sVman
+p194
+I1
+sVstress
+p195
+I1
+sVi\u2019m
+p196
+I6
+sVlater
+p197
+I1
+sVlife
+p198
+I4
+sVdog
+p199
+I2
+sVcontact
+p200
+I1
+sVmenace
+p201
+I1
+s.

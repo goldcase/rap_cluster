@@ -1,81 +1,671 @@
-"1st & 10" lyrics
-ludacris lyrics
-"1st & 10"
-(feat. infamous 2-d & fate wilson)
-click, click
-click, click
-yeah
-click, click
-dtp nigga!
-i started with ten mack tens
-and ten clips and ten pens
-got ten times richer in the span of ten years
-bitch i'm ten times two on a scale of one to ten
-i'll battle ten crews with the strength of ten men
-at nine, i was into crime, sex, and drugs
-pushin' an '89 box chevy sittin' on dubs
-nine thugs all ski masks, black suited with gloves
-break the imprinted chest with at least nine slugs
-man i ate eight clips with eight chicks
-watching eight flicks
-you's 8-6 if you ate pussy with fake lips
-i figure eight when my mind goes in circles
-did i do that or was it mystikal and urkel?
-on to 7 ak 47, so what?
-i got seven hoes stoppin' by at seven to fuck
-then put seven in your chest seven days a week
-and add a foot for good measure you'll be seven feet deep
-it goes 10-9-8-7-6-5-4
-3-2-murder 1 lyrics at your door
-these dtp niggas come ready for war
-so don't start the fucking game
-if you won't settle the score
-i got six hoes distributing on six blocks
-it's blistering from cops tryna stop these rocks from distributing
-six gun shots left
-one pint of vodka before this pimp will hit
-it's street justice, now it's six hole in your casket
-give me a high five and i'll put that nine lower than your esophagus
-then smack you so hard that you have to come with 2pacalypse
-five stars, twenty rims, five cars
-i'd add more but i had to subtract one from five bars
-i got four forty-fours on a rip on the floor
-for you niggas talkin' shit
-i'm fixin' to show you what for
-i did four months in the bing instead of a hearst
-now it's dtp for life, dog for better or worse
-i fuck three best friends
-ran on all three the same game
-in these streets i'm a murderer
-i got three alias names
-i'm three times insane
-three shots will cave your brain
-on 3 fire and ready, cock back and aim
-it goes 10-9-8-7-6-5-4
-3-2-murder 1 lyrics at your door
-these dtp niggas come ready for war
-so don't start the fucking game
-if you won't settle the score
-i'm packing two twenty-twos and twice the ammunition
-but at friday the 13th
-what's up now superstition?
-i'm a two timer with a couple of twins
-double jeopardy
-with a pair of two deuces in the two seater benz
-i got one motto get dough till your gone
-i got one main lady the rest of y'all is hoes
-i'm numero uno with one more before i go
-if you think i ain't the one bitch you too slow
-and all you zero ass niggas ain't nothin' to me
-because i chop up o's, move dro', and chop keys
-0-6 is my clique along with pc
-pretty rick, calil, v-slim and shondrez
-it goes 1 to 10 and 10 to 1
-ludacris, fake feeze, and that nigga i-twain
-it goes 1 to 10 and 10 to 1
-ludacris, fake feeze, and that nigga i-twain
-it goes 10-9-8-7-6-5-4
-3-2-murder 1 lyrics at your door
-these dtp niggas come ready for war
-so don't start the fucking game
-if you won't settle the score
+(dp1
+Vchicks
+p2
+I1
+sVcave
+p3
+I1
+sVlyrics
+p4
+I5
+sVludacris
+p5
+I3
+sVmove
+p6
+I1
+sVrest
+p7
+I1
+sVyears
+p8
+I1
+sVfour
+p9
+I2
+sVbrain
+p10
+I1
+sVdough
+p11
+I1
+sVbattle
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I2
+sVslow
+p15
+I1
+sVpens
+p16
+I1
+sVtill
+p17
+I1
+sVjustice
+p18
+I1
+sVshow
+p19
+I1
+sVcrime
+p20
+I1
+sVbetter
+p21
+I1
+sVstreets
+p22
+I1
+sVadd
+p23
+I2
+sVblack
+p24
+I1
+sVrick
+p25
+I1
+sVpretty
+p26
+I1
+sVvslim
+p27
+I1
+sVmain
+p28
+I1
+sVski
+p29
+I1
+sV13th
+p30
+I1
+sVgood
+p31
+I1
+sVhit
+p32
+I1
+sV7
+I1
+sVfate
+p33
+I1
+sVwatching
+p34
+I1
+sVurkel
+p35
+I1
+sVsittin
+p36
+I1
+sVstop
+p37
+I1
+sVbreak
+p38
+I1
+sVaim
+p39
+I1
+sVgame
+p40
+I4
+sVfive
+p41
+I4
+sVfoot
+p42
+I1
+sVlady
+p43
+I1
+sVfortyfours
+p44
+I1
+sVwont
+p45
+I3
+sVpimp
+p46
+I1
+sVgun
+p47
+I1
+sVrocks
+p48
+I1
+sV2d
+p49
+I1
+sVtwice
+p50
+I1
+sVsettle
+p51
+I3
+sVgloves
+p52
+I1
+sVshots
+p53
+I2
+sVyall
+p54
+I1
+sVnames
+p55
+I1
+sVinsane
+p56
+I1
+sVweek
+p57
+I1
+sVbars
+p58
+I1
+sVnigga
+p59
+I3
+sVten
+p60
+I9
+sVfucking
+p61
+I3
+sV1st
+p62
+I2
+sVyeah
+p63
+I1
+sVsex
+p64
+I1
+sVgo
+p65
+I1
+sVlips
+p66
+I1
+sV89
+p67
+I1
+sVhoes
+p68
+I3
+sVstoppin
+p69
+I1
+sV86
+p70
+I1
+sVclick
+p71
+I6
+sVbest
+p72
+I1
+sV10987654
+p73
+I3
+sVwhat
+p74
+I1
+sVscale
+p75
+I1
+sV06
+p76
+I1
+sVfor
+p77
+I1
+sVshondrez
+p78
+I1
+sVjeopardy
+p79
+I1
+sV3
+I1
+sVscore
+p80
+I3
+sVtwins
+p81
+I1
+sVgoes
+p82
+I6
+sVtens
+p83
+I1
+sVgot
+p84
+I7
+sVflicks
+p85
+I1
+sVammunition
+p86
+I1
+sVyoull
+p87
+I1
+sVslugs
+p88
+I1
+sVass
+p89
+I1
+sVfriday
+p90
+I1
+sVmurderer
+p91
+I1
+sVrims
+p92
+I1
+sVcars
+p93
+I1
+sVmen
+p94
+I1
+sVfriends
+p95
+I1
+sVsuperstition
+p96
+I1
+sVpacking
+p97
+I1
+sVnumero
+p98
+I1
+sVclique
+p99
+I1
+sVput
+p100
+I2
+sVmotto
+p101
+I1
+sVcome
+p102
+I4
+sVbox
+p103
+I1
+sVate
+p104
+I2
+sVill
+p105
+I2
+sVmonths
+p106
+I1
+sVdays
+p107
+I1
+sVtimer
+p108
+I1
+sVtimes
+p109
+I3
+sVchevy
+p110
+I1
+sVdro
+p111
+I1
+sVos
+p112
+I1
+sVthink
+p113
+I1
+sVuno
+p114
+I1
+sVwhats
+p115
+I1
+sVdont
+p116
+I3
+sVpussy
+p117
+I1
+sVvodka
+p118
+I1
+sVone
+p119
+I7
+sVfeet
+p120
+I1
+sVbitch
+p121
+I2
+sVfake
+p122
+I3
+sV2pacalypse
+p123
+I1
+sVesophagus
+p124
+I1
+sVyous
+p125
+I1
+sValong
+p126
+I1
+sVfire
+p127
+I1
+sVcasket
+p128
+I1
+sVspan
+p129
+I1
+sVpc
+p130
+I1
+sVtwenty
+p131
+I1
+sV32murder
+p132
+I3
+sVtwo
+p133
+I5
+sVleast
+p134
+I1
+sVcalil
+p135
+I1
+sVdistributing
+p136
+I2
+sVstart
+p137
+I3
+sVbenz
+p138
+I1
+sVstars
+p139
+I1
+sVcrews
+p140
+I1
+sVtwentytwos
+p141
+I1
+sVhearst
+p142
+I1
+sVwar
+p143
+I3
+sVtryna
+p144
+I1
+sVlife
+p145
+I1
+sVhard
+p146
+I1
+sVdoor
+p147
+I3
+sVdrugs
+p148
+I1
+sVimprinted
+p149
+I1
+sVback
+p150
+I1
+sVcops
+p151
+I1
+sVrip
+p152
+I1
+sVhole
+p153
+I1
+sVme
+p154
+I1
+sV10
+p155
+I6
+sVcouple
+p156
+I1
+sVniggas
+p157
+I5
+sVdouble
+p158
+I1
+sVricher
+p159
+I1
+sVclips
+p160
+I2
+sVstreet
+p161
+I1
+sVnine
+p162
+I4
+sVthree
+p163
+I5
+sVseater
+p164
+I1
+sVdtp
+p165
+I5
+sVcock
+p166
+I1
+sVpushin
+p167
+I1
+sVgone
+p168
+I1
+sVseven
+p169
+I5
+sVsubtract
+p170
+I1
+sVfigure
+p171
+I1
+sVgive
+p172
+I1
+sVran
+p173
+I1
+sVak
+p174
+I1
+sVmeasure
+p175
+I1
+sVmind
+p176
+I1
+sVfuck
+p177
+I2
+sVdeep
+p178
+I1
+sVdog
+p179
+I1
+sVhigh
+p180
+I1
+sVblistering
+p181
+I1
+sVim
+p182
+I7
+sVready
+p183
+I4
+sVitwain
+p184
+I2
+sVid
+p185
+I1
+sVshit
+p186
+I1
+sVworse
+p187
+I1
+sVchop
+p188
+I2
+sVwilson
+p189
+I1
+sVstrength
+p190
+I1
+sVzero
+p191
+I1
+sVfloor
+p192
+I1
+sV47
+p193
+I1
+sVsix
+p194
+I4
+sVfeeze
+p195
+I2
+sVfixin
+p196
+I1
+sV1
+I7
+sVstarted
+p197
+I1
+sVchest
+p198
+I2
+sVget
+p199
+I1
+sVinstead
+p200
+I1
+sVtalkin
+p201
+I1
+sVpint
+p202
+I1
+sVcircles
+p203
+I1
+sVblocks
+p204
+I1
+sVkeys
+p205
+I1
+sVdubs
+p206
+I1
+sVthugs
+p207
+I1
+sVmasks
+p208
+I1
+sVeight
+p209
+I4
+sVsuited
+p210
+I1
+sVpair
+p211
+I1
+sVmack
+p212
+I1
+sVinfamous
+p213
+I1
+sVman
+p214
+I1
+sVlower
+p215
+I1
+sVbing
+p216
+I1
+sVsmack
+p217
+I1
+sVnothin
+p218
+I1
+sVdeuces
+p219
+I1
+sValias
+p220
+I1
+sVmystikal
+p221
+I1
+sVleft
+p222
+I1
+s.

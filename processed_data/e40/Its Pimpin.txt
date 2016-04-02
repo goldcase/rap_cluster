@@ -1,87 +1,770 @@
-"it's pimpin'" lyrics
-e-40 lyrics
-"it's pimpin'"
-(what is it?)
-it's pimpin, what.. (what is it?)
-it's pimpin with me, what is it with you?
-bitch hit the strip and do what you do
-(pay attention to me, and stay on the track)
-(i'll be right back, when i be right back)
-tryin to have a stable full of, gregarious, clear bitches
-professional wonderful ladies of leisure, merrylicious
-that'll get undressed at the drop of a dime at my request
-and believe that, e'rytang i tell her to do is for the best
-hoe you in violation, you in the red, wait a minute hoe
-you mean to tell me you tryin to jump camp
-after a big ol' player like me done buttered yo' bread?
-you free to go, i ain't gon' tell you no mo'
-i told you twice, you'll be back cause you need, pimpin in yo' life
-that's how you gotta get at these broads, you gotta check 'em
-man a hoe'll walk all over ya if you let 'em
-i give her a chinese name (what?)  won gone
-then i stab out, with my ham sandwich, fleetwood brougham
-break a bitch, pimp shit, l-r-p's
-long range pimpin hoe, overseas
-whites blacks filipinos, viet-ma-nese
-atlantic city, vegas, reno nigga please believe
-(it's pimpin) all day, everyday, that 40 play
-but he say, she say, beotch!  that-a-way
-(it's pimpin) all day, everyday, that 40 play
-but he say, she say, beotch!  that-a-way
-(it's pimpin)
-she was a baby (baby) she was lame (lame)
-til i turned her out, now she's pussy trained
-pussy trained, not potty trained, but pussy trained
-pimpin you hard, you got some game!
-this one of the ones, i like this knock
-who did the beat?  my nigga rik rok
-he a fool - that shit on hit
-you know what this remind me of?  some of that dr. dre shit
-blarin, imagine that shit on blast
-at the arco station after the club, pumpin some gas
-(wait a minute, wait; hey hold up.. ba-ba-bump-bump! *car horn*
-ba-ba-bump-ah *car horn* baby.. ay sweetie!  ay look here baby
-underdig this, ya underdig?  ay look here
-you need to get with a boss, tell that day old seven to get lost
-yeah, cause all he gon' is damage you
-all i wanna do is manage you)
-she said - just take me out to the pimp pic-nic
-i'ma put it down for you..
-represent that sic'wid'it
-whatever you want me to do!
-she loves me (loves me) she loves me not (loves me not)
-as far as family, i'm all she got (all she got)
-pimpin and panderin, handlin these hoes
-penitentiary chancin it (?) with these hoes
-checkin the track, collectin my scratch, and slammin cadillac doors
-countin my stack, spat to them straps
-directin the mannerisms of these hoes
-ready for war, never too to', with taylor shoes on my toes
-sickin my beotches on these rappers cause they be payin these hoes
-f'real f'real nigga, i bet you that
-i see a bitch nigga i bump the fattest bitch in the club
-nigga bout my pimpin nigga, i give a fuck and a half
-i refuse to be livin under a bridge an'
-pushin some motherfuckin grocery baskets pimpin
-y'knahmean? (cause it ain't in a bitch beauty
-it's in her duty mayne, youknahmsayin?)
-please believe that (yeah a real pimp'll
-put a wig on a pig mayne, i mean so fat)
-fo'shiggidy
-hey nigga hey nigga doe i'm just curious doe pimpin
-hey man straight up how many hoes you got doe f'real?
-(man i'm six deep with no sleep man
-i mean fat knees, to clackin they toes
-a tappin, i'm bout a pimp smackin
-i don't do nuttin but finesse rest and dress man
-and let these bitches do the rest, y'knahmean?)
-fo'shiggidy (i pimp so fat)
-that is the best game i can smell pimpin
-i promise you, it don't get no better mayne
-(i mean, i used to do this since way back when man
-i didn't even have a car, i used to have a swing man
-and i'll put a bitch on the fifteen gurney in a hurry man
-and tell that bitch, that-a-way!)
-it's pimpin to me..
-(it's pimpin..)
-(it's pimpin!)
+(dp1
+Vbababumpah
+p2
+I1
+sVrok
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVrepresent
+p6
+I1
+sVviolation
+p7
+I1
+sVscratch
+p8
+I1
+sVhalf
+p9
+I1
+sVrest
+p10
+I2
+sVgurney
+p11
+I1
+sVhandlin
+p12
+I1
+sVsleep
+p13
+I1
+sVgo
+p14
+I1
+sVaint
+p15
+I2
+sVclackin
+p16
+I1
+sVblast
+p17
+I1
+sVchinese
+p18
+I1
+sVdr
+p19
+I1
+sVfilipinos
+p20
+I1
+sVstable
+p21
+I1
+sVbout
+p22
+I2
+sVbeotch
+p23
+I2
+sVta
+p24
+I2
+sVfool
+p25
+I1
+sVdo
+p26
+I2
+sVhit
+p27
+I2
+sVsweetie
+p28
+I1
+sVyo
+p29
+I2
+sVget
+p30
+I5
+sVya
+p31
+I2
+sVbig
+p32
+I1
+sVcheckin
+p33
+I1
+sVmerrylicious
+p34
+I1
+sVleisure
+p35
+I1
+sVbreak
+p36
+I1
+sVhurry
+p37
+I1
+sVgame
+p38
+I2
+sVvegas
+p39
+I1
+sVknow
+p40
+I1
+sVvietmanese
+p41
+I1
+sVnot
+p42
+I1
+sVone
+p43
+I1
+sVundressed
+p44
+I1
+sVday
+p45
+I3
+sVminute
+p46
+I2
+sVbread
+p47
+I1
+sVknock
+p48
+I1
+sVname
+p49
+I1
+sVpimp
+p50
+I4
+sVcause
+p51
+I4
+sVsickin
+p52
+I1
+sVdrop
+p53
+I1
+sVdress
+p54
+I1
+sVtwice
+p55
+I1
+sVbaskets
+p56
+I1
+sVpanderin
+p57
+I1
+sVham
+p58
+I1
+sVpromise
+p59
+I1
+sVstraight
+p60
+I1
+sVdirectin
+p61
+I1
+sVmean
+p62
+I4
+sVem
+p63
+I2
+sVright
+p64
+I2
+sVold
+p65
+I1
+sVbump
+p66
+I1
+sVfattest
+p67
+I1
+sVhard
+p68
+I1
+sVback
+p69
+I4
+sVused
+p70
+I2
+sVhorn
+p71
+I2
+sVjump
+p72
+I1
+sVsee
+p73
+I1
+sVtoes
+p74
+I2
+sVsix
+p75
+I1
+sVshes
+p76
+I1
+sVhoes
+p77
+I5
+sVcurious
+p78
+I1
+sVyknahmean
+p79
+I2
+sVbest
+p80
+I2
+sVeven
+p81
+I1
+sVknees
+p82
+I1
+sVgon
+p83
+I2
+sVblacks
+p84
+I1
+sVremind
+p85
+I1
+sVmotherfuckin
+p86
+I1
+sVcollectin
+p87
+I1
+sVsince
+p88
+I1
+sVplease
+p89
+I2
+sVwon
+p90
+I1
+sVgot
+p91
+I6
+sVhold
+p92
+I1
+sVyoull
+p93
+I1
+sVred
+p94
+I1
+sVtold
+p95
+I1
+sVima
+p96
+I1
+sVfull
+p97
+I1
+sVwan
+p98
+I1
+sVattention
+p99
+I1
+sVhoell
+p100
+I1
+sVfree
+p101
+I1
+sVlike
+p102
+I2
+sVlet
+p103
+I2
+sVhere
+p104
+I1
+sVimagine
+p105
+I1
+sVput
+p106
+I3
+sVfat
+p107
+I3
+sVslammin
+p108
+I1
+sVboss
+p109
+I1
+sVtaylor
+p110
+I1
+sVwait
+p111
+I3
+sVol
+p112
+I1
+sVmany
+p113
+I1
+sVill
+p114
+I2
+sVrange
+p115
+I1
+sVswing
+p116
+I1
+sVreal
+p117
+I1
+sVcountin
+p118
+I1
+sVdre
+p119
+I1
+sVthats
+p120
+I1
+sVduty
+p121
+I1
+sVlrps
+p122
+I1
+sVladies
+p123
+I1
+sVdont
+p124
+I2
+sVfamily
+p125
+I1
+sVbridge
+p126
+I1
+sVwhites
+p127
+I1
+sVpussy
+p128
+I3
+sVmanage
+p129
+I1
+sVwhatever
+p130
+I1
+sVwalk
+p131
+I1
+sVna
+p132
+I1
+sVnigga
+p133
+I8
+sVdone
+p134
+I1
+sVbitch
+p135
+I7
+sVtrained
+p136
+I4
+sVstrip
+p137
+I1
+sVpicnic
+p138
+I1
+sVnuttin
+p139
+I1
+sVfreal
+p140
+I3
+sVerytang
+p141
+I1
+sVfuck
+p142
+I1
+sVcity
+p143
+I1
+sVfifteen
+p144
+I1
+sVhey
+p145
+I4
+sVlong
+p146
+I1
+sVstack
+p147
+I1
+sVpotty
+p148
+I1
+sVmayne
+p149
+I3
+sVwonderful
+p150
+I1
+sVway
+p151
+I1
+sVtryin
+p152
+I2
+sVtell
+p153
+I5
+sVspat
+p154
+I1
+sVlife
+p155
+I1
+sVpimpin
+p156
+I18
+sVthat
+p157
+I1
+sVclub
+p158
+I2
+sVbitches
+p159
+I2
+sVgas
+p160
+I1
+sVyeah
+p161
+I2
+sVbababumpbump
+p162
+I1
+sVpushin
+p163
+I1
+sVatlantic
+p164
+I1
+sVdeep
+p165
+I1
+sVsmackin
+p166
+I1
+sVbaby
+p167
+I4
+sVbelieve
+p168
+I3
+sVnever
+p169
+I1
+sVme
+p170
+I1
+sVe40
+p171
+I1
+sVfoshiggidy
+p172
+I2
+sVblarin
+p173
+I1
+sVlook
+p174
+I2
+sVcar
+p175
+I3
+sVmo
+p176
+I1
+sVunderdig
+p177
+I2
+sVpayin
+p178
+I1
+sVwar
+p179
+I1
+sVbroads
+p180
+I1
+sVloves
+p181
+I4
+sVtappin
+p182
+I1
+sVdidnt
+p183
+I1
+sVbet
+p184
+I1
+sVrik
+p185
+I1
+sVgone
+p186
+I1
+sVseven
+p187
+I1
+sVstraps
+p188
+I1
+sVbetter
+p189
+I1
+sVthatll
+p190
+I1
+sVgive
+p191
+I2
+sVturned
+p192
+I1
+sVit
+p193
+I1
+sVreno
+p194
+I1
+sVan
+p195
+I1
+sVplayer
+p196
+I1
+sVsay
+p197
+I4
+sVim
+p198
+I4
+sVthataway
+p199
+I3
+sVwant
+p200
+I1
+sVneed
+p201
+I2
+sVstation
+p202
+I1
+sVyouknahmsayin
+p203
+I1
+sVcheck
+p204
+I1
+sVshit
+p205
+I4
+sVlivin
+p206
+I1
+sVhoe
+p207
+I3
+sVlame
+p208
+I2
+sVpay
+p209
+I1
+sVbeotches
+p210
+I1
+sVdamage
+p211
+I1
+sV40
+p212
+I2
+sVeveryday
+p213
+I2
+sVtil
+p214
+I1
+sVbeat
+p215
+I1
+sVpimpll
+p216
+I1
+sVtake
+p217
+I1
+sVdoors
+p218
+I1
+sVpumpin
+p219
+I1
+sVyou
+p220
+I4
+sVsmell
+p221
+I1
+sVay
+p222
+I3
+sVplay
+p223
+I2
+sVsandwich
+p224
+I1
+sVpig
+p225
+I1
+sVbeauty
+p226
+I1
+sVdime
+p227
+I1
+sVtrack
+p228
+I2
+sVcadillac
+p229
+I1
+sVrappers
+p230
+I1
+sVwig
+p231
+I1
+sVstay
+p232
+I1
+sVsaid
+p233
+I1
+sVstab
+p234
+I1
+sVmannerisms
+p235
+I1
+sVsicwidit
+p236
+I1
+sVready
+p237
+I1
+sVarco
+p238
+I1
+sVgregarious
+p239
+I1
+sVoverseas
+p240
+I1
+sVman
+p241
+I8
+sVpenitentiary
+p242
+I1
+sVchancin
+p243
+I1
+sVrefuse
+p244
+I1
+sVbrougham
+p245
+I1
+sVfinesse
+p246
+I1
+sVclear
+p247
+I1
+sVcamp
+p248
+I1
+sVrequest
+p249
+I1
+sVlost
+p250
+I1
+sVdoe
+p251
+I3
+sVones
+p252
+I1
+sVbuttered
+p253
+I1
+sVfar
+p254
+I1
+sVprofessional
+p255
+I1
+sVfleetwood
+p256
+I1
+sVgrocery
+p257
+I1
+s.

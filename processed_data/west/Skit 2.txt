@@ -1,22 +1,61 @@
-skit 2 lyrics
-kanye west lyrics
-skit 2
-broke broke broke phi broke
-aint got it
-broke broke broke phi broke
-aint got it
-dont spend money
-aint got clothes
-aint got cars
-aint got hos
-broke broke broke phi broke
-aint got it
-broke broke broke phi broke
-aint got it
-got money got money
-got clothes got clothes
-aint got cars got cars
-cant get hos
-broke broke broke broke broke
-buncha niggas
-broke broke broke broke broke
+(dp1
+Vaint
+p2
+I8
+sVphi
+p3
+I4
+sVmoney
+p4
+I3
+sVdont
+p5
+I1
+sVlyrics
+p6
+I2
+sVget
+p7
+I1
+sVwest
+p8
+I1
+sVcars
+p9
+I3
+sVniggas
+p10
+I1
+sVskit
+p11
+I2
+sVit
+p12
+I4
+sVbuncha
+p13
+I1
+sVcant
+p14
+I1
+sV2
+I2
+sVhos
+p15
+I2
+sVbroke
+p16
+I26
+sVgot
+p17
+I13
+sVkanye
+p18
+I1
+sVspend
+p19
+I1
+sVclothes
+p20
+I3
+s.

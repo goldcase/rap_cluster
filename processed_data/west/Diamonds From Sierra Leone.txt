@@ -1,85 +1,769 @@
-diamonds sierra leone lyrics
-kanye west lyrics
-diamonds sierra leone
-diamonds forever
-wont leave night
-ive fear might
-desert me
-diamonds forever forever forever
-throw diamonds sky feel vibe
-diamonds forever forever forever forever
-roc still alive every time rhyme
-forever ever forever ever ever ever ever ever ever ever ever ever
-close eyes imagine feel magic
-vegas acid
-seen yves st laurent glasses
-ive realized ive arrived cuz
-take magazine kill vibe does
-write rhymes sort of
-think em
-mean forgot better shit u ever thought up
-damn really caught up
-ask talkin bout classics name get brought up
-remember couldnt afford ford escort even fourtrack recorder
-right let top drop droptop porsche
-thats important
-stripper named porscha u get tips many men
-fat friend nickname minivan
-excuse me
-thats henny man smoke drink im supposed stop cant because
-diamonds forever forever forever
-throw diamonds sky feel vibe
-diamonds forever forever forever forever
-roc still alive every time rhyme
-forever ever forever ever ever ever ever ever ever ever ever ever
-sick awards
-couldnt nobody cure me
-playa got robbed kept jewelry
-alicia keys tried talk sense them
-30 minutes later seems theres convincing them
-ask for
-international assholes nah
-complains owed
-throw tantrum like 3 years old
-gotta love though somebody still speaks soul
-wouldnt change change game fame
-came game made lane
-need yall pronounce name
-kanye  plastic  still say kane
-got family d kinfolk motown
-back chi  folks aint motown
-life movin fast need slow down
-girl aint give ass ya need go down
-diamonds forever forever forever
-father ben said need jesus
-took church let water wash ceaser
-diamonds forever forever forever
-preacher said need leaders
-right body got still like paraplegic
-know call gotta best believe it
-roc stand tall would never believe it
-take diamonds throw em like bulimic
-yea beat cold flow anemic
-debris settles dust get swept off
-big k pick young hov left off
-right magazines wrote kanye west off
-dropped new shit sound like best of
-ars lookin like pssh messed up
-grammy night damn right got dressed up
-bottle bottle till got messed up
-studio really though yea next up
-people askin im gon give chain back
-thatll day give game back
-know next question dog yo dame at
-track indian dance bring reign back
-whats jay man yall ok man
-pray death dynasty like amen
-rrrright stands aman
-power make diamond bare hands
-diamonds forever forever forever
-throw diamonds sky feel vibe
-diamonds forever forever forever forever
-roc still alive every time rhyme
-forever ever forever ever ever ever ever ever ever ever ever ever
-diamonds forever forever forever
-diamonds forever forever forever forever
+(dp1
+Vthink
+p2
+I1
+sVlyrics
+p3
+I2
+sVceaser
+p4
+I1
+sVyea
+p5
+I2
+sVhands
+p6
+I1
+sVroc
+p7
+I4
+sVassholes
+p8
+I1
+sVyoung
+p9
+I1
+sVyears
+p10
+I1
+sVbring
+p11
+I1
+sVrrrright
+p12
+I1
+sVdebris
+p13
+I1
+sVkill
+p14
+I1
+sVgo
+p15
+I1
+sVkanye
+p16
+I3
+sVfear
+p17
+I1
+sVstill
+p18
+I6
+sVaint
+p19
+I2
+sVhov
+p20
+I1
+sVslow
+p21
+I1
+sVchain
+p22
+I1
+sVtill
+p23
+I1
+sVpray
+p24
+I1
+sVsky
+p25
+I3
+sVcuz
+p26
+I1
+sVanemic
+p27
+I1
+sVbetter
+p28
+I1
+sVdance
+p29
+I1
+sVindian
+p30
+I1
+sVgon
+p31
+I1
+sVsierra
+p32
+I2
+sVbout
+p33
+I1
+sVmight
+p34
+I1
+sVta
+p35
+I2
+sVsound
+p36
+I1
+sVthem
+p37
+I2
+sVsomebody
+p38
+I1
+sVcomplains
+p39
+I1
+sVyo
+p40
+I1
+sVget
+p41
+I3
+sVya
+p42
+I1
+sVbig
+p43
+I1
+sValicia
+p44
+I1
+sVrhyme
+p45
+I3
+sVfat
+p46
+I1
+sVnext
+p47
+I2
+sVgame
+p48
+I3
+sVvegas
+p49
+I1
+sVevery
+p50
+I3
+sVknow
+p51
+I2
+sVinternational
+p52
+I1
+sVdynasty
+p53
+I1
+sVtips
+p54
+I1
+sVlike
+p55
+I6
+sVwont
+p56
+I1
+sVdown
+p57
+I2
+sVspeaks
+p58
+I1
+sVmagic
+p59
+I1
+sVname
+p60
+I2
+sVwash
+p61
+I1
+sVdrop
+p62
+I1
+sVwrote
+p63
+I1
+sVleave
+p64
+I1
+sVnight
+p65
+I2
+sVyall
+p66
+I2
+sVmean
+p67
+I1
+sVem
+p68
+I2
+sVbody
+p69
+I1
+sVright
+p70
+I4
+sVold
+p71
+I1
+sVleaders
+p72
+I1
+sVswept
+p73
+I1
+sVpeople
+p74
+I1
+sVkane
+p75
+I1
+sVpronounce
+p76
+I1
+sVback
+p77
+I4
+sValive
+p78
+I3
+sVsoul
+p79
+I1
+sVpreacher
+p80
+I1
+sVbare
+p81
+I1
+sVforgot
+p82
+I1
+sVclose
+p83
+I1
+sVgirl
+p84
+I1
+sVacid
+p85
+I1
+sVcold
+p86
+I1
+sVbest
+p87
+I2
+sVreally
+p88
+I2
+sVeven
+p89
+I1
+sVstands
+p90
+I1
+sVmovin
+p91
+I1
+sVsaid
+p92
+I2
+sVjewelry
+p93
+I1
+sVfor
+p94
+I1
+sVmotown
+p95
+I2
+sVamen
+p96
+I1
+sVstudio
+p97
+I1
+sVtrack
+p98
+I1
+sV3
+I1
+sVdoes
+p99
+I1
+sVplaya
+p100
+I1
+sVdiamonds
+p101
+I17
+sVit
+p102
+I2
+sVgot
+p103
+I7
+sVrecorder
+p104
+I1
+sVever
+p105
+I31
+sVass
+p106
+I1
+sVdrink
+p107
+I1
+sVpower
+p108
+I1
+sVmessed
+p109
+I2
+sVbulimic
+p110
+I1
+sVmen
+p111
+I1
+sVwater
+p112
+I1
+sVpick
+p113
+I1
+sVdeath
+p114
+I1
+sVlet
+p115
+I2
+sVimagine
+p116
+I1
+sVask
+p117
+I2
+sVthrow
+p118
+I5
+sVchange
+p119
+I2
+sVtantrum
+p120
+I1
+sVok
+p121
+I1
+sVwouldnt
+p122
+I1
+sVof
+p123
+I2
+sVk
+I1
+sV30
+p124
+I1
+sVmagazine
+p125
+I1
+sVstand
+p126
+I1
+sVsmoke
+p127
+I1
+sVchi
+p128
+I1
+sVawards
+p129
+I1
+sVclassics
+p130
+I1
+sVtop
+p131
+I1
+sVthats
+p132
+I2
+sVlookin
+p133
+I1
+sVnamed
+p134
+I1
+sVlove
+p135
+I1
+sVgrammy
+p136
+I1
+sVfamily
+p137
+I1
+sVowed
+p138
+I1
+sVfeel
+p139
+I4
+sVseems
+p140
+I1
+sVjesus
+p141
+I1
+sVbrought
+p142
+I1
+sVd
+I1
+sVars
+p143
+I1
+sVbecause
+p144
+I1
+sVmagazines
+p145
+I1
+sVchurch
+p146
+I1
+sVcouldnt
+p147
+I2
+sVplastic
+p148
+I1
+sVwould
+p149
+I1
+sVwest
+p150
+I2
+sVcaught
+p151
+I1
+sVporsche
+p152
+I1
+sVquestion
+p153
+I1
+sVfast
+p154
+I1
+sVporscha
+p155
+I1
+sVpssh
+p156
+I1
+sVdamn
+p157
+I2
+sVescort
+p158
+I1
+sVcall
+p159
+I1
+sVdroptop
+p160
+I1
+sVfriend
+p161
+I1
+sVdame
+p162
+I1
+sVsort
+p163
+I1
+sVlane
+p164
+I1
+sVeyes
+p165
+I1
+sVdiamond
+p166
+I1
+sVwhats
+p167
+I1
+sVafford
+p168
+I1
+sVnobody
+p169
+I1
+sVforever
+p170
+I41
+sVreign
+p171
+I1
+sVford
+p172
+I1
+sVexcuse
+p173
+I1
+sVbeat
+p174
+I1
+sVkept
+p175
+I1
+sVbelieve
+p176
+I2
+sVme
+p177
+I3
+sVyves
+p178
+I1
+sVmade
+p179
+I1
+sVben
+p180
+I1
+sVfolks
+p181
+I1
+sVup
+p182
+I7
+sVrhymes
+p183
+I1
+sVfather
+p184
+I1
+sVsupposed
+p185
+I1
+sVmany
+p186
+I1
+sVjay
+p187
+I1
+sVminutes
+p188
+I1
+sVsay
+p189
+I1
+sVtheres
+p190
+I1
+sVparaplegic
+p191
+I1
+sVive
+p192
+I3
+sVkinfolk
+p193
+I1
+sVthatll
+p194
+I1
+sVgive
+p195
+I3
+sVsettles
+p196
+I1
+sVlife
+p197
+I1
+sVneed
+p198
+I5
+sVcant
+p199
+I1
+sVcure
+p200
+I1
+sVim
+p201
+I2
+sVdropped
+p202
+I1
+sVsense
+p203
+I1
+sVfourtrack
+p204
+I1
+sVseen
+p205
+I1
+sVfame
+p206
+I1
+sVshit
+p207
+I2
+sVstripper
+p208
+I1
+sVvibe
+p209
+I4
+sVdressed
+p210
+I1
+sVnah
+p211
+I1
+sVaman
+p212
+I1
+sVoff
+p213
+I3
+sVwrite
+p214
+I1
+sVrobbed
+p215
+I1
+sVhenny
+p216
+I1
+sVtake
+p217
+I2
+sVsick
+p218
+I1
+sVnew
+p219
+I1
+sVglasses
+p220
+I1
+sVtalkin
+p221
+I1
+sVday
+p222
+I1
+sVaskin
+p223
+I1
+sVtried
+p224
+I1
+sVthough
+p225
+I2
+sVkeys
+p226
+I1
+sVstop
+p227
+I1
+sVminivan
+p228
+I1
+sVconvincing
+p229
+I1
+sVtook
+p230
+I1
+sVimportant
+p231
+I1
+sVarrived
+p232
+I1
+sVnever
+p233
+I1
+sVdust
+p234
+I1
+sVnickname
+p235
+I1
+sVdesert
+p236
+I1
+sVman
+p237
+I3
+sVrealized
+p238
+I1
+sVlaurent
+p239
+I1
+sVremember
+p240
+I1
+sVcame
+p241
+I1
+sVlater
+p242
+I1
+sVflow
+p243
+I1
+sVdog
+p244
+I1
+sVst
+p245
+I1
+sVthought
+p246
+I1
+sVu
+I2
+sVtalk
+p247
+I1
+sVbottle
+p248
+I2
+sVtime
+p249
+I3
+sVat
+p250
+I1
+sVtall
+p251
+I1
+sVmake
+p252
+I1
+sVleone
+p253
+I2
+sVleft
+p254
+I1
+s.

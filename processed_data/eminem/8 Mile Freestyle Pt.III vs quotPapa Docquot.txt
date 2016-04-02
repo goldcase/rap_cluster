@@ -1,43 +1,380 @@
-"8 mile freestyle pt.iii vs "papa doc"" lyrics
-eminem lyrics
-"8 mile freestyle pt.iii vs "papa doc""
-now everybody from the 313
-put your motherfucking hands up and follow me
-everybody from the 313
-put your motherfucking hands up
-look look
-now while he stands tough
-notice that this man did not have his hands up
-this free world got you gased up
-now who's afraid of the big bad wolf
-1, 2, 3 and to the 4
-1 pac , 2 pac, 3 pac, 4
-4 pac, 3 pac, 2 pac, 1
-you're pac, he's pac, no pacs, none
-this guy ain't no mother-fucking mc,
-i know everything he's got to say against me,
-i am white, i am a fucking bum, i do live in a trailer with my mom,
-my boy future is an uncle tom.
-i do got a dumb friend named cheddar bob who shoots
-himself in the leg with his own gun,
-i did get jumped by all 6 of you chumps
-and wink did fuck my girl,
-i'm still standing here screaming "fuck the free world!"
-don't ever try to judge me dude
-you don't know what the fuck i've been through
-but i know something about you
-you went to cranbrook, that's a private school
-what's the matter dawg? you embarrassed?
-this guy's a gangster? he's real name's clarence
-and clarence lives at home with both parents
-and clarence's parents have a real good marriage
-this guy don't wanna battle, he's shook
-'cause there no such things as half-way crooks
-he's scared to death
-he's scared to look in his fucking yearbook, fuck cranbrook
-fuck the beat, i go acapella
-fuck a papa doc, fuck a clock, fuck a trailer, fuck everybody
-fuck y'all if you doubt me
-i'm a piece of fucking white trash, i say it proudly
-and fuck this battle, i don't wanna win, i'm outty,
-here, tell these people something they don't know about me.
+(dp1
+Vlyrics
+p2
+I2
+sVcheddar
+p3
+I1
+sVmile
+p4
+I2
+sVthrough
+p5
+I1
+sVbattle
+p6
+I2
+sVfollow
+p7
+I1
+sVstill
+p8
+I1
+sVhalfway
+p9
+I1
+sVaint
+p10
+I1
+sVdeath
+p11
+I1
+sVacapella
+p12
+I1
+sVparents
+p13
+I2
+sV4
+I3
+sV8
+I2
+sVreal
+p14
+I2
+sVgood
+p15
+I1
+sVget
+p16
+I1
+sVbeat
+p17
+I1
+sVbig
+p18
+I1
+sVknow
+p19
+I4
+sVmom
+p20
+I1
+sVhands
+p21
+I3
+sVjudge
+p22
+I1
+sVworld
+p23
+I2
+sVscreaming
+p24
+I1
+sVschool
+p25
+I1
+sVmc
+p26
+I1
+sVcause
+p27
+I1
+sVgun
+p28
+I1
+sVtry
+p29
+I1
+sVbad
+p30
+I1
+sVwent
+p31
+I1
+sVtrailer
+p32
+I2
+sVpeople
+p33
+I1
+sV313
+p34
+I2
+sVscared
+p35
+I2
+sVproudly
+p36
+I1
+sVgangster
+p37
+I1
+sVdawg
+p38
+I1
+sVdumb
+p39
+I1
+sVgo
+p40
+I1
+sVhome
+p41
+I1
+sVgirl
+p42
+I1
+sVptiii
+p43
+I2
+sVchumps
+p44
+I1
+sVstands
+p45
+I1
+sVclock
+p46
+I1
+sVjumped
+p47
+I1
+sVeverything
+p48
+I1
+sV3
+I3
+sVwhats
+p49
+I1
+sVgot
+p50
+I3
+sVever
+p51
+I1
+sVeverybody
+p52
+I3
+sVnotice
+p53
+I1
+sVclarence
+p54
+I2
+sVleg
+p55
+I1
+sVcrooks
+p56
+I1
+sVfree
+p57
+I2
+sVeminem
+p58
+I1
+sVput
+p59
+I2
+sVguy
+p60
+I2
+sVboy
+p61
+I1
+sVoutty
+p62
+I1
+sVwolf
+p63
+I1
+sVyall
+p64
+I1
+sVbob
+p65
+I1
+sVthats
+p66
+I1
+sVmotherfucking
+p67
+I3
+sVnamed
+p68
+I1
+sVtough
+p69
+I1
+sVdont
+p70
+I5
+sVwin
+p71
+I1
+sVprivate
+p72
+I1
+sVembarrassed
+p73
+I1
+sVnames
+p74
+I1
+sVshoots
+p75
+I1
+sVstanding
+p76
+I1
+sVwan
+p77
+I2
+sVhes
+p78
+I6
+sVdude
+p79
+I1
+sVwhos
+p80
+I1
+sVfucking
+p81
+I3
+sVlive
+p82
+I1
+sV2
+I3
+sV6
+I1
+sVgased
+p83
+I1
+sVwhite
+p84
+I2
+sVtell
+p85
+I1
+sVfriend
+p86
+I1
+sVfreestyle
+p87
+I2
+sVtom
+p88
+I1
+sVuncle
+p89
+I1
+sVbum
+p90
+I1
+sVme
+p91
+I4
+sVnone
+p92
+I1
+sVlook
+p93
+I3
+sVcranbrook
+p94
+I2
+sVpacs
+p95
+I1
+sVup
+p96
+I3
+sVmatter
+p97
+I1
+sVfuture
+p98
+I1
+sVmarriage
+p99
+I1
+sVpiece
+p100
+I1
+sVshook
+p101
+I1
+sVive
+p102
+I1
+sVfuck
+p103
+I11
+sVsay
+p104
+I2
+sVvs
+p105
+I2
+sVim
+p106
+I3
+sVsomething
+p107
+I2
+sVyearbook
+p108
+I1
+sVafraid
+p109
+I1
+sVna
+p110
+I2
+sV1
+I3
+sVpac
+p111
+I8
+sVyou
+p112
+I1
+sVtrash
+p113
+I1
+sVpapa
+p114
+I3
+sVguys
+p115
+I1
+sVclarences
+p116
+I1
+sVman
+p117
+I1
+sVdoc
+p118
+I3
+sVyoure
+p119
+I1
+sVdoubt
+p120
+I1
+sVwink
+p121
+I1
+sVthings
+p122
+I1
+sVlives
+p123
+I1
+s.

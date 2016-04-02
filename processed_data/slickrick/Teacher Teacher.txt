@@ -1,76 +1,580 @@
-"teacher, teacher" lyrics
-slick rick lyrics
-"teacher, teacher"
-well i've been a public figure for quite a long time
-known to the whole world for what (my style of rhyme)
-but tonight let's talk about the ones who bite
-although they know they won't (never get it right)
-because they have no (class) and they have no (shame)
-they'll bite another brother to boost their own (name)
-get paid correct on a one way gimmick
-i'm happy for you lowlifes but 'member there's a limit - so say
-teacher, teacher, tell me how you do it
-it looks kinda easy like there was nothing to it
-but they don't understand that the master will be
-the creator of the style (ricky d)
-teacher, teacher, tell me how you do it
-it looks so easy like there was nothing to it
-but they don't understand that the master will be
-the creator of the style (ricky d)
-when i walk into a party cokesnorters laugh
-as the girls be crazy coming for my mere autograph
-and it seems that they aspiring my new style of rappin'
-and brothers all around me out of vanity are snappin'
-the girls say 'wow rick you're so unique
-please tell us how you organize the words you speak'
-but my will says chill and i go upon my way
-'cause class will be taught some other day - so say
-teacher, teacher, tell me how you do it
-it looks kinda easy like there was nothing to it
-but they don't understand that the ruler will be
-the creator of the style (ricky d)
-teacher, teacher, tell me how you do it
-it looks so easy like there was nothing to it
-but they don't understand the ruler will be
-the creator of the style (ricky d)
-well i remember one night when the world was dead quiet
-and out of nowhere some boy starts a riot
-he tore my clothes, i had to throw blows
-a shotgun barrel was dead on my nose
-i froze - it was big foot and the toes
-yup, a bunch of small timers that (be it?) on my shows
-surrounded the ruler with machetes too
-they said um 'if you don't teach us how to rap you're through'
-i said 'okay, now let me go, please'
-i seen an officer - then the officer screamed 'freeze!'
-he said 'slick rick you okay?'
-i had to play it off, some girls were looking my way
-so i smacked one in the face and told him 'i won't retire'
-and many years from now i'll just be getting higher
-for i am the master, set and done
-my name is ricky d and i'm the only one - so say
-(...ricky d) - (...ricky d)
-now when i was a lad my style was bad
-so i had to use what little bit of knowledge that i had
-so i quote and i wrote 'till i was up to par
-some rhymes were (boo-hoo) and some rhymes were (hahahaa!)
-i educate myself so i'm able to reach ya
-answering the call of teacher, teacher
-tell us how you do it, it's so easy for me
-the creator of the style, emcee ricky d
-now my only task is to warn all biters
-slimy sluts and fake rhyme writers
-don't try your luck and get the ruler annoyed
-for when i'm through with you boy your whole world will be destroyed
-so chill mister muscle or i'll come and hunt ya
-if you are a girl i'll make no man want ya
-so if you wanna rule and no  in the way
-pay attention to my syllables and come see me and say hey hey
-teacher, teacher, tell me how you do it
-it looks so easy like there was nothing to it
-but they don't understand the ruler will be
-the creator of the style (ricky d)
-teacher, teacher, tell me how you do it
-it looks kinda easy like there was nothing to it
-but they don't understand that the ruler will be
-the creator of the style (ricky d)
+(dp1
+Vset
+p2
+I1
+sVlyrics
+p3
+I2
+sVmachetes
+p4
+I1
+sVretire
+p5
+I1
+sVyears
+p6
+I1
+sVslimy
+p7
+I1
+sVthrough
+p8
+I1
+sVlooks
+p9
+I6
+sVgo
+p10
+I2
+sVmister
+p11
+I1
+sVbiters
+p12
+I1
+sVfroze
+p13
+I1
+sVtore
+p14
+I1
+sVstyle
+p15
+I10
+sVlike
+p16
+I6
+sVknowledge
+p17
+I1
+sVseems
+p18
+I1
+sVdestroyed
+p19
+I1
+sVlets
+p20
+I1
+sVrick
+p21
+I3
+sVeasy
+p22
+I7
+sVpay
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I3
+sVya
+p26
+I3
+sVruler
+p27
+I6
+sVrhyme
+p28
+I2
+sVones
+p29
+I1
+sVknow
+p30
+I1
+sVwords
+p31
+I1
+sVfoot
+p32
+I1
+sVworld
+p33
+I3
+sVbit
+p34
+I1
+sVunique
+p35
+I1
+sVday
+p36
+I1
+sVvanity
+p37
+I1
+sVwont
+p38
+I2
+sVd
+I10
+sVcause
+p39
+I1
+sVhunt
+p40
+I1
+sVbrother
+p41
+I1
+sVcorrect
+p42
+I1
+sVboohoo
+p43
+I1
+sVbad
+p44
+I1
+sVnose
+p45
+I1
+sVnight
+p46
+I1
+sVsmall
+p47
+I1
+sVtold
+p48
+I1
+sVwrote
+p49
+I1
+sVclothes
+p50
+I1
+sVright
+p51
+I1
+sVsays
+p52
+I1
+sVanother
+p53
+I1
+sVcreator
+p54
+I7
+sVdead
+p55
+I2
+sVfreeze
+p56
+I1
+sVsee
+p57
+I1
+sVtaught
+p58
+I1
+sVrhymes
+p59
+I2
+sVgirl
+p60
+I1
+sVblows
+p61
+I1
+sVtry
+p62
+I1
+sVeducate
+p63
+I1
+sVsaid
+p64
+I3
+sVsluts
+p65
+I1
+sVwow
+p66
+I1
+sVsurrounded
+p67
+I1
+sVplease
+p68
+I2
+sVslick
+p69
+I2
+sVricky
+p70
+I10
+sVlooking
+p71
+I1
+sVnew
+p72
+I1
+sVbunch
+p73
+I1
+sVboost
+p74
+I1
+sVpublic
+p75
+I1
+sVshows
+p76
+I1
+sVbe
+p77
+I6
+sVtoes
+p78
+I1
+sVreach
+p79
+I1
+sVnever
+p80
+I1
+sVlittle
+p81
+I1
+sVquite
+p82
+I1
+sVlet
+p83
+I1
+sVnowhere
+p84
+I1
+sValthough
+p85
+I1
+sVteach
+p86
+I1
+sVcome
+p87
+I2
+sVteacher
+p88
+I18
+sVboy
+p89
+I2
+sVgetting
+p90
+I1
+sVstarts
+p91
+I1
+sVill
+p92
+I3
+sVquiet
+p93
+I1
+sVofficer
+p94
+I2
+sVhahahaa
+p95
+I1
+sVluck
+p96
+I1
+sVwhole
+p97
+I2
+sVemcee
+p98
+I1
+sVorganize
+p99
+I1
+sVdont
+p100
+I8
+sVhad
+p101
+I1
+sVcokesnorters
+p102
+I1
+sVone
+p103
+I4
+sVscreamed
+p104
+I1
+sVsmacked
+p105
+I1
+sVdone
+p106
+I1
+sVlaugh
+p107
+I1
+sVfake
+p108
+I1
+sVgimmick
+p109
+I1
+sVmere
+p110
+I1
+sVspeak
+p111
+I1
+sVwan
+p112
+I1
+sVuse
+p113
+I1
+sVbite
+p114
+I2
+sVgirls
+p115
+I3
+sVhey
+p116
+I2
+sVlong
+p117
+I1
+sVname
+p118
+I2
+sVmaster
+p119
+I3
+sVtoo
+p120
+I1
+sVway
+p121
+I4
+sVcall
+p122
+I1
+sVsyllables
+p123
+I1
+sVtell
+p124
+I8
+sVhappy
+p125
+I1
+sVriot
+p126
+I1
+sVwarn
+p127
+I1
+sVunderstand
+p128
+I6
+sVknown
+p129
+I1
+sVchill
+p130
+I2
+sVme
+p131
+I1
+sVthrow
+p132
+I1
+sVrappin
+p133
+I1
+sVus
+p134
+I3
+sVum
+p135
+I1
+sVlimit
+p136
+I1
+sVattention
+p137
+I1
+sVyup
+p138
+I1
+sVtheres
+p139
+I1
+sVive
+p140
+I1
+sVcrazy
+p141
+I1
+sVlowlifes
+p142
+I1
+sVwant
+p143
+I1
+sVfigure
+p144
+I1
+sVit
+p145
+I12
+sVtonight
+p146
+I1
+sVshame
+p147
+I1
+sVsay
+p148
+I5
+sVim
+p149
+I4
+sVrap
+p150
+I1
+sVseen
+p151
+I1
+sVpar
+p152
+I1
+sVtheyll
+p153
+I1
+sVna
+p154
+I1
+sVmake
+p155
+I1
+sVanswering
+p156
+I1
+sVable
+p157
+I1
+sVmember
+p158
+I1
+sVtill
+p159
+I1
+sVwriters
+p160
+I1
+sVbig
+p161
+I1
+sVparty
+p162
+I1
+sVmany
+p163
+I1
+sVhigher
+p164
+I1
+sVplay
+p165
+I1
+sVokay
+p166
+I2
+sVbrothers
+p167
+I1
+sVsnappin
+p168
+I1
+sVaspiring
+p169
+I1
+sVlad
+p170
+I1
+sVquote
+p171
+I1
+sVupon
+p172
+I1
+sVpaid
+p173
+I1
+sVwalk
+p174
+I1
+sVkinda
+p175
+I3
+sVcoming
+p176
+I1
+sVnothing
+p177
+I6
+sVclass
+p178
+I2
+sVautograph
+p179
+I1
+sVman
+p180
+I1
+sVtask
+p181
+I1
+sVremember
+p182
+I1
+sVshotgun
+p183
+I1
+sVyoure
+p184
+I2
+sVwell
+p185
+I2
+sVrule
+p186
+I1
+sVface
+p187
+I1
+sVtimers
+p188
+I1
+sVtime
+p189
+I1
+sVbarrel
+p190
+I1
+sVmuscle
+p191
+I1
+sVannoyed
+p192
+I1
+sVtalk
+p193
+I1
+s.

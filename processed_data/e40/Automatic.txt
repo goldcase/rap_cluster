@@ -1,98 +1,760 @@
-"automatic" lyrics
-e-40 lyrics
-"automatic"
-(feat. fabolous, kokane)
-automatic, systematic
-do what you do playa
-just keep that money on ya mi-i-ind, (on ya mind)
-in the traffic, baller status, (baller status)
-do what you do playa, (what you do)
-just keep on hustlin' on the gri-i-ind, (on the grind)
-??, stackin' my mil
-avoidin' the law, stayin' out of jail
-possesion of sales, pocket all sales
-conspiracy charges, hate betrayals
-payin' the rent
-cause i don't write nothin down i keep it all in my head, intellegent
-about my business, memory like an elephant
-chasin' the dream, suit up for cream
-special represented tactics team, they out for teams
-and infared beams, pointed at domes, backs, and spleens
-fire hydrons, ambulance sirens, spittin' licence, police indicements
-rightiously what it all boils down to is basically who's the wisest
-ughhh, my heart made of granite
-slow down my spit so you squares can understand it
-i didnt come in here empty handed
-i came in here on business and yall gone retrospecit dammit
-been out the game, did that mane
-valejeo i claim, made the name
-feel my pain, ghetto fame
-magazine street hustla mane
-messin' around in the fast lane
-chevy, cougars and mustangs
-novas, granadas, and falcons
-project livin' and public housin'
-automatic, systematic
-do what you do playa
-just keep that money on ya mi-i-ind
-(i got my mind on my money and my money on my mind, ughh)
-in the traffic, baller status, (ugh)
-do what you do playa, (what you do)
-just keep on hustlin' on the gri-i-ind, (on the grind)
-its ghetto f-a-beezy
-f-a-sheezy, bustas hate me cause i f'ed they breezies
-playboy, these techs spray easy
-like you don't know the hoodrat hugh hef play greasy
-i get money on the grind
-so if you ya mind on my money, i put some money on ya mind
-ya honey gone be mine
-cause ya diamond forecast is partly cloudly
-the kids look sunny on the shine
-i'm gettin' ticked off again
-ya'll must like ridin' in long black caddy's that they stick coffins in
-the click often been
-blowin' sticky, that come in the jars that they stick coffee in
-i got chicks offerin'
-but i play hard to get, unless they suck me 'til my dick soft again
-you lookin' at the way the coast to coast g do it
-from the brooklyn to the bay
-bring the hook in by the way
-automatic, systematic
-do what you do playa
-just keep that money on ya mi-i-ind, (on ya mind)
-in the traffic, baller status, (baller status)
-do what you do playa, (what you do)
-just keep on hustlin' on the gri-i-ind, (on the grind)
-to all you playas out there hustlin', (hustli-i-in)
-and all my thugs that be thuggin', (thuggi-i-in)
-to all you playas out there hustlin', (out there hustli-i-in)
-and all my thugs that be thuggin', (thuggi-i-in)
-it don't matter if you lokin' or bleedin'
-wheather its backwards or zig zags ya smokin' ya weed in
-you slow pokin' or speedin'
-all that counts to these motherfuckers is if you broke or suceedin'
-i'm gettin used to strokin' and sweetin', pokin' and skeetin'
-stayin focused while feedin', so i don't choke what im eatin'
-i'm lookin' for towns to put the coke and the weed in
-to sit with white folks in a meetin', pleasebaleaveit
-i used to sell tapes up out my truck and slang cain, (boom)
-respected on the streets before the fame, (boom)
-aint nothin' lame or game goofy about my game, (boom)
-paid my dues, obeyed the rules
-stuck to the script, made a click
-all a my fellows and all a my dawgs
-ridin' mustard and mayonaise on vouges
-feelin' em up, sittin' em down
-flossin' and bossin' all over the town
-hardest state benzes ya ever heardin ya life man write that down
-(write that down)
-automatic, systematic
-do what you do playa
-just keep that money on ya mi-i-ind, (on ya mind)
-in the traffic, baller status, (baller status)
-do what you do playa, (what you do)
-just keep on hustlin' on the gri-i-ind, (on the grind)
-to all you playas out there hustlin', (hustli-i-in)
-and all my thugs that be thuggin', (thuggi-i-in)
-to all you playas out there hustlin', (out there hustli-i-in)
-and all my thugs that be thuggin', (thuggi-i-in)
+(dp1
+Vchicks
+p2
+I1
+sVpleasebaleaveit
+p3
+I1
+sVugh
+p4
+I1
+sVtruck
+p5
+I1
+sVbroke
+p6
+I1
+sVlyrics
+p7
+I2
+sVfeedin
+p8
+I1
+sVmoney
+p9
+I9
+sVpointed
+p10
+I1
+sVlivin
+p11
+I1
+sVcougars
+p12
+I1
+sVfellows
+p13
+I1
+sVfeat
+p14
+I1
+sVaint
+p15
+I1
+sVstayin
+p16
+I2
+sVslow
+p17
+I2
+sVballer
+p18
+I7
+sVblowin
+p19
+I1
+sVskeetin
+p20
+I1
+sVchasin
+p21
+I1
+sVdick
+p22
+I1
+sVblack
+p23
+I1
+sVbetrayals
+p24
+I1
+sVretrospecit
+p25
+I1
+sVfolks
+p26
+I1
+sVjars
+p27
+I1
+sVghetto
+p28
+I2
+sVdo
+p29
+I4
+sVcoffee
+p30
+I1
+sVaround
+p31
+I1
+sVget
+p32
+I2
+sVya
+p33
+I15
+sVbeams
+p34
+I1
+sVticked
+p35
+I1
+sVsittin
+p36
+I1
+sVhoodrat
+p37
+I1
+sVsweetin
+p38
+I1
+sVcoast
+p39
+I2
+sVpocket
+p40
+I1
+sVgame
+p41
+I3
+sVtraffic
+p42
+I4
+sVknow
+p43
+I1
+sVboils
+p44
+I1
+sVfasheezy
+p45
+I1
+sVname
+p46
+I1
+sVhustla
+p47
+I1
+sVlike
+p48
+I3
+sVbreezies
+p49
+I1
+sVever
+p50
+I1
+sVdiamond
+p51
+I1
+sVgettin
+p52
+I2
+sVughh
+p53
+I1
+sVbenzes
+p54
+I1
+sVcaddys
+p55
+I1
+sVteams
+p56
+I1
+sVwheather
+p57
+I1
+sVgoofy
+p58
+I1
+sVhardest
+p59
+I1
+sVteam
+p60
+I1
+sVautomatic
+p61
+I6
+sVyall
+p62
+I2
+sVem
+p63
+I2
+sVoften
+p64
+I1
+sVbleedin
+p65
+I1
+sVhard
+p66
+I1
+sVstreet
+p67
+I1
+sVfalcons
+p68
+I1
+sVkokane
+p69
+I1
+sVclick
+p70
+I2
+sVspecial
+p71
+I1
+sVproject
+p72
+I1
+sVhustliiin
+p73
+I4
+sVmatter
+p74
+I1
+sVmine
+p75
+I1
+sVhate
+p76
+I2
+sVpokin
+p77
+I2
+sVunless
+p78
+I1
+sVplayas
+p79
+I4
+sVmeetin
+p80
+I1
+sVforecast
+p81
+I1
+sVrightiously
+p82
+I1
+sVstate
+p83
+I1
+sVhydrons
+p84
+I1
+sVplaya
+p85
+I8
+sVgot
+p86
+I2
+sVsquares
+p87
+I1
+sVcause
+p88
+I3
+sVpublic
+p89
+I1
+sVsirens
+p90
+I1
+sVinfared
+p91
+I1
+sVvalejeo
+p92
+I1
+sVbusiness
+p93
+I2
+sVcloudly
+p94
+I1
+sVridin
+p95
+I2
+sVflossin
+p96
+I1
+sVspray
+p97
+I1
+sVfocused
+p98
+I1
+sVsmokin
+p99
+I1
+sVlicence
+p100
+I1
+sVrepresented
+p101
+I1
+sVpolice
+p102
+I1
+sVcome
+p103
+I2
+sVgreasy
+p104
+I1
+sVshine
+p105
+I1
+sVdammit
+p106
+I1
+sVkids
+p107
+I1
+sVbring
+p108
+I1
+sVg
+I1
+sVstrokin
+p109
+I1
+sVsoft
+p110
+I1
+sVscript
+p111
+I1
+sVdomes
+p112
+I1
+sVlokin
+p113
+I1
+sVkeep
+p114
+I9
+sVchevy
+p115
+I1
+sVmagazine
+p116
+I1
+sVbustas
+p117
+I1
+sVmane
+p118
+I2
+sVlookin
+p119
+I2
+sVvouges
+p120
+I1
+sVindicements
+p121
+I1
+sVcain
+p122
+I1
+sVmotherfuckers
+p123
+I1
+sVheardin
+p124
+I1
+sVtapes
+p125
+I1
+sVchoke
+p126
+I1
+sVdont
+p127
+I4
+sVgone
+p128
+I2
+sVfeel
+p129
+I1
+sVmessin
+p130
+I1
+sVdown
+p131
+I3
+sVput
+p132
+I2
+sVbossin
+p133
+I1
+sVlong
+p134
+I1
+sVsuceedin
+p135
+I1
+sVcounts
+p136
+I1
+sVgranadas
+p137
+I1
+sVintellegent
+p138
+I1
+sVfed
+p139
+I1
+sVcoffins
+p140
+I1
+sVstuck
+p141
+I1
+sVeatin
+p142
+I1
+sVbay
+p143
+I1
+sVfabolous
+p144
+I1
+sVfast
+p145
+I1
+sVwhos
+p146
+I1
+sVzig
+p147
+I1
+sVhef
+p148
+I1
+sVhustlin
+p149
+I8
+sVsuit
+p150
+I1
+sVwhite
+p151
+I1
+sVempty
+p152
+I1
+sVhead
+p153
+I1
+sVplayboy
+p154
+I1
+sVpartly
+p155
+I1
+sVeasy
+p156
+I1
+sVspit
+p157
+I1
+sVfire
+p158
+I1
+sVcoke
+p159
+I1
+sVmemory
+p160
+I1
+sVit
+p161
+I2
+sVbackwards
+p162
+I1
+sVunderstand
+p163
+I1
+sVbasically
+p164
+I1
+sVsystematic
+p165
+I4
+sVtowns
+p166
+I1
+sVmust
+p167
+I1
+sVtown
+p168
+I1
+sVrespected
+p169
+I1
+sVe40
+p170
+I1
+sVmade
+p171
+I3
+sVtactics
+p172
+I1
+sVlook
+p173
+I1
+sVmiiind
+p174
+I4
+sVmustangs
+p175
+I1
+sVpayin
+p176
+I1
+sVclaim
+p177
+I1
+sVhousin
+p178
+I1
+sVspeedin
+p179
+I1
+sVthuggin
+p180
+I4
+sVdidnt
+p181
+I1
+sVdues
+p182
+I1
+sVofferin
+p183
+I1
+sVheart
+p184
+I1
+sVavoidin
+p185
+I1
+sVstick
+p186
+I2
+sVmayonaise
+p187
+I1
+sVnovas
+p188
+I1
+sVstackin
+p189
+I1
+sVin
+p190
+I4
+sVmind
+p191
+I7
+sVsales
+p192
+I2
+sVsticky
+p193
+I1
+sVhoney
+p194
+I1
+sVconspiracy
+p195
+I1
+sVim
+p196
+I4
+sVrent
+p197
+I1
+sVspleens
+p198
+I1
+sVbeen
+p199
+I1
+sVfeelin
+p200
+I1
+sVfame
+p201
+I2
+sVgriiind
+p202
+I4
+sVsell
+p203
+I1
+sVagain
+p204
+I2
+sVthugs
+p205
+I4
+sVmil
+p206
+I1
+sVtechs
+p207
+I1
+sVsit
+p208
+I1
+sVway
+p209
+I2
+sVhugh
+p210
+I1
+sVbacks
+p211
+I1
+sVhanded
+p212
+I1
+sVwrite
+p213
+I3
+sVrules
+p214
+I1
+sVboom
+p215
+I3
+sVelephant
+p216
+I1
+sVgranite
+p217
+I1
+sVcream
+p218
+I1
+sVhook
+p219
+I1
+sVstatus
+p220
+I7
+sVplay
+p221
+I2
+sVused
+p222
+I2
+sVpain
+p223
+I1
+sVmustard
+p224
+I1
+sVthuggiiin
+p225
+I4
+sVsunny
+p226
+I1
+sVwisest
+p227
+I1
+sVfabeezy
+p228
+I1
+sVpaid
+p229
+I1
+sVweed
+p230
+I2
+sVbrooklyn
+p231
+I1
+sVstreets
+p232
+I1
+sVsuck
+p233
+I1
+sVlaw
+p234
+I1
+sVpossesion
+p235
+I1
+sVslang
+p236
+I1
+sVman
+p237
+I1
+sVobeyed
+p238
+I1
+sVlane
+p239
+I1
+sVtil
+p240
+I1
+sVcharges
+p241
+I1
+sVzags
+p242
+I1
+sVlame
+p243
+I1
+sVlife
+p244
+I1
+sVnothin
+p245
+I2
+sVgrind
+p246
+I5
+sVdawgs
+p247
+I1
+sVjail
+p248
+I1
+sVambulance
+p249
+I1
+sVspittin
+p250
+I1
+sVdream
+p251
+I1
+sVcame
+p252
+I1
+sVughhh
+p253
+I1
+s.

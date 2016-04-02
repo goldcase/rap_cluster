@@ -1,44 +1,332 @@
-"go!" lyrics
-common lyrics
-"go!"
-(feat. kanye west, john mayer)
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-uh, on the count of three everybody run back to your fantasy, now
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-and on the count of three everybody run back to your fantasy, now
-(go) she was a bad (uh), the type at the club niggaz would grab her
-(go) fantasized when i had her, in the bathroom sweatin' with her ass up
-(go) the body of a dancer, we had chemistry cuz she was a cancer
-thought forever it would last for, but forever move faster, so i had to
-(go) still i gotta pause when i think about her in dem draws
-(go) and a ooh baby she liked it raw and like rain when she came it poured
-(go) and like a car that i can't afford i would want it then want some more
-the positions our frames explored let me know she was secure, back for more i wanna
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-uh, on the count of three everybody run back to your fantasy, now
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-and on the count of three everybody run back to your fantasy, now
-(go) freaky like the daughter of a pastor, said i was bait for her to master
-(go) little red corvette now she was faster, wet dreams le'maire cream the bathroom
-(go) we made love and then laughter, and anyway i wanted i could have her
-said there were some girls that did attract her, a new chapter she was after so i said let's
-(go) to a place that you wanna be, uh get what you want from her and me uh
-(go) free love i wanna see uh, hot sex in the third degree uh
-(go) you gettin' served while servin' me uh, dirty words encourage me to
-rock steady and sturdily on, you turnin' me no turnin' back the further we
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-uh, on the count of three everybody run back to your fantasy, now
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go and on the count of three
-(go) go, go, go, go, go, go
-and on the count of three everybody run back to your fantasy, now
+(dp1
+Vsweatin
+p2
+I1
+sVbait
+p3
+I1
+sVlyrics
+p4
+I2
+sVmove
+p5
+I1
+sVanyway
+p6
+I1
+sVdirty
+p7
+I1
+sVgo
+p8
+I128
+sVkanye
+p9
+I1
+sVstill
+p10
+I1
+sVfeat
+p11
+I1
+sVpause
+p12
+I1
+sVcuz
+p13
+I1
+sVto
+p14
+I2
+sVlets
+p15
+I1
+sVwet
+p16
+I1
+sVta
+p17
+I1
+sVget
+p18
+I1
+sVknow
+p19
+I1
+sVwords
+p20
+I1
+sVnew
+p21
+I1
+sVnow
+p22
+I6
+sVdreams
+p23
+I1
+sVlike
+p24
+I3
+sVpositions
+p25
+I1
+sVgettin
+p26
+I1
+sVbad
+p27
+I1
+sVcommon
+p28
+I1
+sVrock
+p29
+I1
+sVserved
+p30
+I1
+sVgrab
+p31
+I1
+sVass
+p32
+I1
+sVcorvette
+p33
+I1
+sVturnin
+p34
+I2
+sVback
+p35
+I8
+sVsex
+p36
+I1
+sVsee
+p37
+I1
+sVsaid
+p38
+I3
+sVdraws
+p39
+I1
+sVencourage
+p40
+I1
+sVgot
+p41
+I1
+sVfreaky
+p42
+I1
+sVred
+p43
+I1
+sVdem
+p44
+I1
+sVbody
+p45
+I1
+sVwe
+p46
+I1
+sVrun
+p47
+I6
+sVdegree
+p48
+I1
+sVbathroom
+p49
+I2
+sVfree
+p50
+I1
+sVlet
+p51
+I1
+sVwanted
+p52
+I1
+sVlemaire
+p53
+I1
+sVchapter
+p54
+I1
+sVdaughter
+p55
+I1
+sVher
+p56
+I2
+sVcould
+p57
+I1
+sVplace
+p58
+I1
+sVthink
+p59
+I1
+sVliked
+p60
+I1
+sVlove
+p61
+I2
+sVsecure
+p62
+I1
+sVcancer
+p63
+I1
+sVfantasy
+p64
+I6
+sVdancer
+p65
+I1
+sVframes
+p66
+I1
+sVeverybody
+p67
+I6
+sVwan
+p68
+I3
+sVlittle
+p69
+I1
+sVwould
+p70
+I3
+sVwest
+p71
+I1
+sVgirls
+p72
+I1
+sVthree
+p73
+I18
+sVpoured
+p74
+I1
+sVmaster
+p75
+I1
+sVjohn
+p76
+I1
+sVtype
+p77
+I1
+sVmore
+p78
+I1
+sVafford
+p79
+I1
+sVsturdily
+p80
+I1
+sVpastor
+p81
+I1
+sVbaby
+p82
+I1
+sVlast
+p83
+I1
+sVcount
+p84
+I18
+sVmade
+p85
+I1
+sVservin
+p86
+I1
+sVcar
+p87
+I1
+sVup
+p88
+I1
+sVniggaz
+p89
+I1
+sVuh
+p90
+I9
+sVlaughter
+p91
+I1
+sVraw
+p92
+I1
+sVcant
+p93
+I1
+sVwant
+p94
+I3
+sVattract
+p95
+I1
+sVcream
+p96
+I1
+sVna
+p97
+I3
+sVclub
+p98
+I1
+sVhot
+p99
+I1
+sVfantasized
+p100
+I1
+sVmayer
+p101
+I1
+sVrain
+p102
+I1
+sVooh
+p103
+I1
+sVexplored
+p104
+I1
+sVforever
+p105
+I2
+sVfaster
+p106
+I2
+sVthird
+p107
+I1
+sVsteady
+p108
+I1
+sVthought
+p109
+I1
+sVchemistry
+p110
+I1
+sVcame
+p111
+I1
+s.

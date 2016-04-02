@@ -1,89 +1,679 @@
-"virgo" lyrics
-ludacris lyrics
-"virgo"
-(feat. doug e. fresh, nas)
-yeah.. what.. you!
-uh-huh! c'mon!
-yeah.. yeah, what?
-nasty nas, virgo
-uh-huh
-l-l-ludacris, virgo
-uh uh uh
-doug fresh
-as we go, somethin like this
-nasir..
-baby girl, won't you come and hold my hand
-won't you come and chill out with the virgo
-hey girl, just come and hold my hand
-won't you come and just chill with the virgo
-we sippin on merlot, you ain't got be my girl though
-i drop you off at, willoughby and myrtle
-smash with the virgo, ain't got to take your shirt off
-you seen me convince your homegirl though
-plus she says her life is too hard
-she says that she wanna come and build with the god
-promise that she gon' play her part
-cause what i spit gets straight to her heart
-and, she's damn fine, feet hammertime, damn if i mind
-love is the bu-bubblin back of your waistline
-i don't waste time, gotta get get on it
-just you and me, two glasses, sip on patron and
-in the club scene where i met ms. green eyes
-she walked by askin me, "are you nas?"
-why?  "if you was i'd be totally twi"
-what's that?  "totally with it, t.w.i."
-ha ha, well, here i am, yep i'm the man
-bartender put a cosmo in that girl hand
-so, here we standin before i begin
-homegirl made a knot out of the cherry stem
-tongue skills, yeah i like that, now we on the right track
-straight to my phantom, call africa black (brrrring)
-ever since then, she been yappin a track
-told her friends, now they hollerin behind her back
-sing!
-baby girl, won't you come and hold my hand
-won't you come and just chill with the virgo (that's right!)
-hey girl, just come and hold my hand
-won't you come and chill out with the virgo (tell 'em, tell 'em)
-we sippin on merlot, you ain't got be my girl though
-i drop you off at, peachtree and myrtle (uh)
-smash with the virgo, ain't got to take your shirt off
-you seen me convince your homegirl though
-now i was, so fresh and so fly in diamonds
-when i stepped up in the club even my eyes was shinin
-bling!  a little cute thing said, "what's yo' name?"
-i put my necklace in her face and told her read the chain
-oooh ooh, so stuck up, told me shut the fuck up
-blaow!  ludacris in the ho-oooh-ouse
-the needle hit the record, they was playin this song
-all the ladies hit the floor and it was eh eh on
-live forever like fame, let the leroys dance
-while i'm laid back chillin in my b-boy stance
-could be a little pop lockin if your girl's top droppin
-but watch for cockblockin on my coochie stock options
-but later for the assdaq, throw 'em on the fast track
-make 'em swip swap nasty n-a-s pass that
-honey in the black cause i'm feelin her curves
-he looked down at what i had and said wa wa word
-why only serve one when we can serve up two
-then at the bachelor's pad, doin what the virgos do
-and these women so shy but get loud undercover
-so we can have sex but i can't be your loverrrrrrrrrrr
-buck buck buck buck buck buck
-ah, ah-ha-ha, ah-ha-ha, ah-ha ah ah-ah sing!
-baby girl, won't you come and hold my hand
-won't you come and just chill with the virgo (c'mon)
-baby girl, won't you come and hold my hand
-won't you come and just chill with the virgo (c'mon)
-baby girl, won't you come and hold my hand
-won't you come and chill out with the virgo (c'mon)
-we sippin on merlot, you ain't got be my girl though (that's right)
-i drop you off at, two-fifth and lex-o
-smash with the virgo, ain't got to take your shirt off
-seen you convince your homegirl though
-they got my voice for the record and my voice for the beat
-virgo proof baby run the streets
-so let's go (let's go) let's go (let's go) for the beat
-let's go (let's go) it's the virgo
-let's go (nasty nas) let's go (ludacris)
-and if you don't know, now you know - doug e. fresh
+(dp1
+Vcute
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I3
+sVdance
+p6
+I1
+sVchillin
+p7
+I1
+sVgo
+p8
+I9
+sVwhats
+p9
+I2
+sVfeat
+p10
+I1
+sVaint
+p11
+I6
+sVha
+p12
+I2
+sVchain
+p13
+I1
+sVcherry
+p14
+I1
+sVlaid
+p15
+I1
+sVswip
+p16
+I1
+sVvirgo
+p17
+I16
+sVpeachtree
+p18
+I1
+sVblack
+p19
+I2
+sVswap
+p20
+I1
+sVbuck
+p21
+I6
+sVshy
+p22
+I1
+sVwomen
+p23
+I1
+sVbuild
+p24
+I1
+sVdo
+p25
+I1
+sVlockin
+p26
+I1
+sVhit
+p27
+I2
+sVyo
+p28
+I1
+sVget
+p29
+I3
+sVread
+p30
+I1
+sVwatch
+p31
+I1
+sVfeelin
+p32
+I1
+sVbboy
+p33
+I1
+sVknow
+p34
+I2
+sVknot
+p35
+I1
+sVword
+p36
+I1
+sVnasty
+p37
+I3
+sVone
+p38
+I1
+sVstepped
+p39
+I1
+sVname
+p40
+I1
+sVwont
+p41
+I12
+sVsmash
+p42
+I3
+sVlike
+p43
+I3
+sVskills
+p44
+I1
+sVever
+p45
+I1
+sVdrop
+p46
+I3
+sVhomegirl
+p47
+I4
+sVman
+p48
+I1
+sVoooh
+p49
+I1
+sVundercover
+p50
+I1
+sVglasses
+p51
+I1
+sVem
+p52
+I4
+sVright
+p53
+I3
+sVsays
+p54
+I2
+sVeh
+p55
+I2
+sVneedle
+p56
+I1
+sVhard
+p57
+I1
+sVyeah
+p58
+I4
+sVsex
+p59
+I1
+sVshinin
+p60
+I1
+sVshes
+p61
+I1
+sVdoug
+p62
+I3
+sVplayin
+p63
+I1
+sVgirl
+p64
+I11
+sVmyrtle
+p65
+I2
+sVbrrrring
+p66
+I1
+sVeven
+p67
+I1
+sVloverrrrrrrrrrr
+p68
+I1
+sVwhat
+p69
+I1
+sVgon
+p70
+I1
+sVwa
+p71
+I2
+sVfine
+p72
+I1
+sVsince
+p73
+I1
+sVleroys
+p74
+I1
+sVbehind
+p75
+I1
+sVdroppin
+p76
+I1
+sVdiamonds
+p77
+I1
+sVgot
+p78
+I8
+sVhollerin
+p79
+I1
+sVcause
+p80
+I2
+sVdoin
+p81
+I1
+sVtold
+p82
+I3
+sVshut
+p83
+I1
+sVrun
+p84
+I1
+sVstance
+p85
+I1
+sVstem
+p86
+I1
+sVwilloughby
+p87
+I1
+sVmet
+p88
+I1
+sVlet
+p89
+I1
+sVput
+p90
+I2
+sVsing
+p91
+I2
+sVcome
+p92
+I15
+sVcoochie
+p93
+I1
+sVon
+p94
+I1
+sVvoice
+p95
+I2
+sVgod
+p96
+I1
+sVcould
+p97
+I1
+sVfame
+p98
+I1
+sVthing
+p99
+I1
+sVplus
+p100
+I1
+sVbububblin
+p101
+I1
+sVtongue
+p102
+I1
+sVloud
+p103
+I1
+sVoptions
+p104
+I1
+sVthats
+p105
+I2
+sVladies
+p106
+I1
+sVbling
+p107
+I1
+sVlove
+p108
+I1
+sVdont
+p109
+I2
+sVafrica
+p110
+I1
+sVscene
+p111
+I1
+sVpop
+p112
+I1
+sVhey
+p113
+I2
+sVfeet
+p114
+I1
+sVpromise
+p115
+I1
+sVuhhuh
+p116
+I2
+sVwan
+p117
+I1
+sVlittle
+p118
+I2
+sVyep
+p119
+I1
+sVfriends
+p120
+I1
+sVtop
+p121
+I1
+sVtwi
+p122
+I2
+sVgirls
+p123
+I1
+sVtwo
+p124
+I2
+sVfast
+p125
+I1
+sVthrow
+p126
+I1
+sVstuck
+p127
+I1
+sVlive
+p128
+I1
+sVdamn
+p129
+I2
+sVwaistline
+p130
+I1
+sVcall
+p131
+I1
+sVlexo
+p132
+I1
+sVwaste
+p133
+I1
+sVyappin
+p134
+I1
+sVahha
+p135
+I1
+sVahhaha
+p136
+I2
+sVcosmo
+p137
+I1
+sVlife
+p138
+I1
+sVstreets
+p139
+I1
+sVblaow
+p140
+I1
+sVsaid
+p141
+I2
+sVspit
+p142
+I1
+sVthat
+p143
+I1
+sVclub
+p144
+I2
+sVfuck
+p145
+I1
+sVserve
+p146
+I2
+sVooh
+p147
+I1
+sVback
+p148
+I3
+sVpart
+p149
+I1
+sVbegin
+p150
+I1
+sVbaby
+p151
+I6
+sVe
+I2
+sVhold
+p152
+I7
+sVchill
+p153
+I7
+sVfly
+p154
+I1
+sVmade
+p155
+I1
+sVbartender
+p156
+I1
+sVthis
+p157
+I1
+sVstraight
+p158
+I2
+sVahah
+p159
+I1
+sVup
+p160
+I1
+sVtell
+p161
+I2
+sVrecord
+p162
+I2
+sVhoooohouse
+p163
+I1
+sVconvince
+p164
+I3
+sVbachelors
+p165
+I1
+sVuh
+p166
+I4
+sVms
+p167
+I1
+sVta
+p168
+I1
+sVllludacris
+p169
+I1
+sVproof
+p170
+I1
+sVand
+p171
+I1
+sVheart
+p172
+I1
+sVcmon
+p173
+I4
+sVpatron
+p174
+I1
+sVhammertime
+p175
+I1
+sVah
+p176
+I2
+sVpass
+p177
+I1
+sVmind
+p178
+I1
+sVit
+p179
+I1
+sVcurves
+p180
+I1
+sVhoney
+p181
+I1
+sVcant
+p182
+I1
+sVim
+p183
+I3
+sVseen
+p184
+I3
+sVid
+p185
+I1
+sVassdaq
+p186
+I1
+sVphantom
+p187
+I1
+sVsippin
+p188
+I3
+sVshirt
+p189
+I3
+sVfloor
+p190
+I1
+sVna
+p191
+I1
+sVmake
+p192
+I1
+sVsong
+p193
+I1
+sVbeat
+p194
+I2
+sVmerlot
+p195
+I3
+sVnas
+p196
+I5
+sVpad
+p197
+I1
+sVtake
+p198
+I3
+sVyou
+p199
+I1
+sVgets
+p200
+I1
+sVstock
+p201
+I1
+sVtwofifth
+p202
+I1
+sVplay
+p203
+I1
+sVaskin
+p204
+I1
+sVlets
+p205
+I8
+sVthough
+p206
+I6
+sVtrack
+p207
+I3
+sVnasir
+p208
+I1
+sVhand
+p209
+I8
+sVsip
+p210
+I1
+sVcockblockin
+p211
+I1
+sVtotally
+p212
+I2
+sVeyes
+p213
+I2
+sVsomethin
+p214
+I1
+sVforever
+p215
+I1
+sVoff
+p216
+I3
+sVlater
+p217
+I1
+sVwell
+p218
+I1
+sVwalked
+p219
+I1
+sVface
+p220
+I1
+sVlooked
+p221
+I1
+sVgreen
+p222
+I1
+sVtime
+p223
+I1
+sVnecklace
+p224
+I1
+sVfresh
+p225
+I4
+sVvirgos
+p226
+I1
+s.

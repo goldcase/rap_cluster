@@ -1,96 +1,611 @@
-"dig a hole" lyrics
-jay-z lyrics
-"dig a hole"
-(feat. sterling simms)
-uh
-dig a whole burry yourself niggah
-go ahead, keep goin i got some nice dresses for you guys over there
-the incomparable h.o.
-uh
-yesss
-what you see now?
-came, conquered
-we g'on see now
-dig a hole
-go 'head
-motherfucker, burry yourself
-dig a hole
-dig a hole
-dig a hole
-i'm still hear mon frerre
-you know the cost i bear
-like, thats why they call you hov, i'm like yeah
-like air
-little shots go through me, wont tear one tissue
-no tears no tissue, not an issue
-dont cry for me i peep these niggahz from deep
-by the front row seat even if you dont speak
-silent pardon, i hear you loud and clear
-you left your fingure print, you aint gotta be there
-i'm just waitin 'till you dig a hole big enough to put your whole body in
-then i'm gon' body them
-it's nothing but a hobby to him
-simple as serve and volley to him
-niggahz like "hov why dont you get at ol' boy"
-why kill a puppet and leave cheppetto alive (from pinocio)
-why not wait till you get em all together, thats when you dig one big hole, one time
-what you see now?
-we gon' see clown
-dig a hole
-dig a hole
-go 'head, burry yourself
-dig a hole
-dig a hole
-go 'head
-hows niggahs dissin me? i made it possible
-for niggahs to make history, how is the possible?
-please explain this shit to me, how is it logical?
-have we forgot our history? lets open our bibles
-its like the disciples dissing jesus becoming his rivals
-shunning teh one thing that they owe their life to
-you let that man hype you to go against your idol
-knowing good and god damn well this what i do
-think i'm in the office i lost my grind
-thats how kids become orphans, you lost your mind!?
-i keep my enemies close
-i give 'em enough rope
-they put themselves in the air
-i just kick away the chair
-uh
-uh
-we gon' see now
-uh huh
-we gon' see clown
-dig a hole
-dig a hole
-go 'head, burry yourself
-dig a hole
-dig a hole
-go 'head, burry yourself
-hov gon' get you, i aint forget your little disrespect
-no hov, daddy gon' spank your for that shit you said
-it's hard to do, when you got nothin to prove
-everbody know you better, you in a lose lose
-even if you win, ultimately you lose
-real niggahz like, "why hov talkin to dude"
-he's sellin low too
-only time you went plat
-my chain was around yout neck, thats an actual fact
-so i'm praying that it spills outside of the booth
-thats when y'all niggahz outside of your truth
-outside of your league, thats not what you do
-niggahz throwing roc signs outside of your coupe
-dun look at hove like he dun somethin wrong to em
-he just took what belong to em
-niggahz playing checkers wid chess playing hov
-this game is over i dunno if y'all know
-you in a hole
-we gon' see now
-uh huh
-we gon' see clown
-dig a hole
-dig a hole
-go 'head, burry yourself
-dig a hole
-dig a hole
-go 'head, burry yourself
+(dp1
+Vbelong
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVpinocio
+p5
+I1
+sVroc
+p6
+I1
+sVspank
+p7
+I1
+sVkill
+p8
+I1
+sVsigns
+p9
+I1
+sVgo
+p10
+I10
+sVchair
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVrow
+p14
+I1
+sVaint
+p15
+I2
+sVpardon
+p16
+I1
+sVexplain
+p17
+I1
+sVfingure
+p18
+I1
+sVoutside
+p19
+I4
+sVbetter
+p20
+I1
+sVowe
+p21
+I1
+sVtears
+p22
+I1
+sVsomethin
+p23
+I1
+sVhobby
+p24
+I1
+sVkick
+p25
+I1
+sVta
+p26
+I1
+sVreal
+p27
+I1
+sVdo
+p28
+I2
+sVthem
+p29
+I1
+sVgood
+p30
+I1
+sVaround
+p31
+I1
+sVget
+p32
+I3
+sVbig
+p33
+I2
+sVfrerre
+p34
+I1
+sVpossible
+p35
+I2
+sVbear
+p36
+I1
+sVprint
+p37
+I1
+sVgame
+p38
+I1
+sVknow
+p39
+I3
+sVfront
+p40
+I1
+sVnothin
+p41
+I1
+sVjesus
+p42
+I1
+sVdissin
+p43
+I1
+sVhim
+p44
+I2
+sVwont
+p45
+I1
+sVlike
+p46
+I7
+sVlost
+p47
+I2
+sVtear
+p48
+I1
+sVorphans
+p49
+I1
+sVcry
+p50
+I1
+sVmon
+p51
+I1
+sVleave
+p52
+I1
+sVshots
+p53
+I1
+sVlose
+p54
+I3
+sVhype
+p55
+I1
+sVbecome
+p56
+I1
+sVwent
+p57
+I1
+sVyall
+p58
+I2
+sVem
+p59
+I4
+sVsterling
+p60
+I1
+sVdig
+p61
+I21
+sVthrowing
+p62
+I1
+sVhard
+p63
+I1
+sVyeah
+p64
+I1
+sValive
+p65
+I1
+sVseat
+p66
+I1
+sVsee
+p67
+I8
+sVcost
+p68
+I1
+sVeverbody
+p69
+I1
+sVclown
+p70
+I3
+sVforgot
+p71
+I1
+sVclose
+p72
+I1
+sVniggahs
+p73
+I2
+sVyesss
+p74
+I1
+sVenemies
+p75
+I1
+sVeven
+p76
+I2
+sVman
+p77
+I1
+sVultimately
+p78
+I1
+sVgon
+p79
+I9
+sVcheckers
+p80
+I1
+sVgod
+p81
+I1
+sVaway
+p82
+I1
+sVplease
+p83
+I1
+sVenough
+p84
+I2
+sVsimms
+p85
+I1
+sVgot
+p86
+I3
+sVissue
+p87
+I1
+sVbody
+p88
+I2
+sVtruth
+p89
+I1
+sVmotherfucker
+p90
+I1
+sVdisrespect
+p91
+I1
+sVlet
+p92
+I1
+sVput
+p93
+I2
+sVpeep
+p94
+I1
+sVdisciples
+p95
+I1
+sVsilent
+p96
+I1
+sVpraying
+p97
+I1
+sVboy
+p98
+I1
+sVol
+p99
+I1
+sVactual
+p100
+I1
+sVahead
+p101
+I1
+sVdunno
+p102
+I1
+sVprove
+p103
+I1
+sVkeep
+p104
+I2
+sVthing
+p105
+I1
+sVvolley
+p106
+I1
+sVchain
+p107
+I1
+sVloud
+p108
+I1
+sVthink
+p109
+I1
+sVthats
+p110
+I6
+sVteh
+p111
+I1
+sVwid
+p112
+I1
+sVdont
+p113
+I3
+sVsimple
+p114
+I1
+sVwin
+p115
+I1
+sVlogical
+p116
+I1
+sVone
+p117
+I4
+sVhes
+p118
+I1
+sVjayz
+p119
+I1
+sVpuppet
+p120
+I1
+sVyout
+p121
+I1
+sVopen
+p122
+I1
+sVspeak
+p123
+I1
+sVyourself
+p124
+I1
+sVlittle
+p125
+I2
+sVcheppetto
+p126
+I1
+sVincomparable
+p127
+I1
+sVdun
+p128
+I2
+sVto
+p129
+I1
+sVthere
+p130
+I1
+sVknowing
+p131
+I1
+sVlets
+p132
+I1
+sVcoupe
+p133
+I1
+sVrivals
+p134
+I1
+sVcall
+p135
+I1
+sVlow
+p136
+I1
+sVdamn
+p137
+I1
+sVwait
+p138
+I1
+sVidol
+p139
+I1
+sVtoo
+p140
+I1
+sVbooth
+p141
+I1
+sVhead
+p142
+I7
+sVburry
+p143
+I7
+sVleague
+p144
+I1
+sVbecoming
+p145
+I1
+sVserve
+p146
+I1
+sVtook
+p147
+I1
+sVkids
+p148
+I1
+sVhear
+p149
+I2
+sVho
+p150
+I1
+sVchess
+p151
+I1
+sVhole
+p152
+I21
+sVmade
+p153
+I1
+sVlook
+p154
+I1
+sVair
+p155
+I2
+sVrope
+p156
+I1
+sVniggahz
+p157
+I6
+sVuh
+p158
+I6
+sVdude
+p159
+I1
+sVdaddy
+p160
+I1
+sVniggah
+p161
+I1
+sVhistory
+p162
+I2
+sVgive
+p163
+I1
+sVmind
+p164
+I1
+sVlife
+p165
+I1
+sVdeep
+p166
+I1
+sVtissue
+p167
+I2
+sVim
+p168
+I6
+sVdissing
+p169
+I1
+sVin
+p170
+I1
+sVshit
+p171
+I2
+sVsellin
+p172
+I1
+sVmake
+p173
+I1
+sVbibles
+p174
+I1
+sVhov
+p175
+I6
+sVtill
+p176
+I2
+sVshunning
+p177
+I1
+sVhove
+p178
+I1
+sVtalkin
+p179
+I1
+sVdresses
+p180
+I1
+sVnice
+p181
+I1
+sVwaitin
+p182
+I1
+sVhuh
+p183
+I2
+sVoffice
+p184
+I1
+sVplat
+p185
+I1
+sVwrong
+p186
+I1
+sVsaid
+p187
+I1
+sVconquered
+p188
+I1
+sVnothing
+p189
+I1
+sVguys
+p190
+I1
+sVgoin
+p191
+I1
+sVhows
+p192
+I1
+sVneck
+p193
+I1
+sVwhole
+p194
+I2
+sVclear
+p195
+I1
+sVwell
+p196
+I1
+sVtogether
+p197
+I1
+sVgrind
+p198
+I1
+sVspills
+p199
+I1
+sVfact
+p200
+I1
+sVtime
+p201
+I2
+sVplaying
+p202
+I2
+sVcame
+p203
+I1
+sVleft
+p204
+I1
+s.

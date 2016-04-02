@@ -1,67 +1,616 @@
-"watch ya step" lyrics
-scarface lyrics
-"watch ya step"
-watch ya step... watch ya step...
-watch ya step... watch ya step...
-watch ya step... watch ya step...
-watch ya step... you better watch ya step...
-and ya don't stop, so i guess it's on once again
-the natural born killaz in a zone again
-i'm different type of special men not known to man
-i refuse to loose, i was born to win
-a street nigga, the stand up type, never to fall
-i've been programmed to run in and get it, take it all
-sit back and capitalize off mistakes you made
-beat yo ass into submission, and make you pay
-i got battlescars from fuckin with this, i gotta have it
-what's my reason for quotin this shit? i gotta have it
-like the roy jones - you see this money get me hungry like a wolf
-and when a nigga hungry i'm a wolf
-that's when i start my rage, and attack from the neck up
-catch you being careless, make these hoes respect us
-survival here, that's the name of the game
-it's the jungle in this bitch and ain't a damn thing changed
-watch ya step
-let's get it on y'all, to the beat y'all
-fuck a bitch y'all, i'm from the streets dawg
-so what it is huh? what it look like?
-i'm a g fool, you the bitch type
-you got yo strap dawg, i got a strap too
-i'm from the southside, we act a damn fool
-you ain't the real hoe, youse a real hoe
-i keeps it real hoe, for real though
-listen close to the story i'm about to tell
-niggaz is sellin they soul for an ounce of yell'
-and a few leave, but this is a house of jail
-twenty-five year bids, without the bail
-i know some niggaz in the tank, stuck, lost and thowed
-still boss turnin ya status from false to hope
-only a few niggaz stand up strong and don't whine
-when the time get passed around huh?
-i'm tellin you dawg, that even if you gettin released
-how the fuck is you gon' live on these streets?
-you got that jacket on ya back
-you a rat and you done spilled ya guts
-you a bitch and now you live to fuck
-and you a nigga i ain't even gotsta feel to touch
-i got some niggaz on the inside to stick and seal you up
-it's all good for you out here, gettin yo mail
-but the minute you get popped you gonna snitch in jail
-watch ya step
-they say that music is a therapy to ease the mind
-but see therapy to me, is to squeeze a nine
-right between ya eyes, while i squeeze ya throat
-chuck you off the side of my boat and watch you float
-the animal they sent here to seal ya fate
-tie ya hands behind ya back and feel ya face
-ain't no hope for ya partner joe, he broke the rules
-in the jungle if ya weak, we gotta smoke ya fool
-ain't no love for motherfuckers who done crossed the line
-cocked dice don't pay nigga, now roll ya five
-you wanna play the gun game with me, then pull ya shit
-i know you'd love to try to punk me if you could ya bitch
-but i'm a diehard nigga, i was sworn to silence
-and if i got to go, then i (?)
-so fuck you, and them niggaz that you run with fool
-i'll do the same shit to them, that i did to you
-watch ya step
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVhands
+p5
+I1
+sVsouthside
+p6
+I1
+sVgun
+p7
+I1
+sVknown
+p8
+I1
+sVmistakes
+p9
+I1
+sVtouch
+p10
+I1
+sVlove
+p11
+I2
+sVstill
+p12
+I1
+sVbail
+p13
+I1
+sVcocked
+p14
+I1
+sVaint
+p15
+I5
+sVdice
+p16
+I1
+sVzone
+p17
+I1
+sVease
+p18
+I1
+sVguts
+p19
+I1
+sVthowed
+p20
+I1
+sVbetter
+p21
+I1
+sVlets
+p22
+I1
+sVmail
+p23
+I1
+sVhope
+p24
+I2
+sVta
+p25
+I3
+sVfool
+p26
+I4
+sVgood
+p27
+I1
+sVaround
+p28
+I1
+sVyo
+p29
+I3
+sVget
+p30
+I5
+sVbeat
+p31
+I2
+sVsurvival
+p32
+I1
+sVwatch
+p33
+I14
+sVgame
+p34
+I2
+sVtherapy
+p35
+I2
+sVknow
+p36
+I2
+sVfall
+p37
+I1
+sVminute
+p38
+I1
+sVlike
+p39
+I3
+sVname
+p40
+I1
+sVsubmission
+p41
+I1
+sVroy
+p42
+I1
+sVgettin
+p43
+I2
+sVchuck
+p44
+I1
+sVleave
+p45
+I1
+sVcareless
+p46
+I1
+sVdone
+p47
+I2
+sVside
+p48
+I1
+sVyall
+p49
+I3
+sVnigga
+p50
+I5
+sVhouse
+p51
+I1
+sVturnin
+p52
+I1
+sVstreets
+p53
+I2
+sVprogrammed
+p54
+I1
+sVback
+p55
+I3
+sVsoul
+p56
+I1
+sVborn
+p57
+I2
+sVsee
+p58
+I2
+sVstreet
+p59
+I1
+sVniggaz
+p60
+I5
+sVgo
+p61
+I1
+sVhoes
+p62
+I1
+sVclose
+p63
+I1
+sVspecial
+p64
+I1
+sVeven
+p65
+I2
+sVtry
+p66
+I1
+sVlost
+p67
+I1
+sVgon
+p68
+I2
+sVbehind
+p69
+I1
+sVgot
+p70
+I9
+sVass
+p71
+I1
+sVmen
+p72
+I1
+sVrun
+p73
+I2
+sVyoud
+p74
+I1
+sVloose
+p75
+I1
+sVweak
+p76
+I1
+sVstory
+p77
+I1
+sVyouse
+p78
+I1
+sVstep
+p79
+I13
+sVjoe
+p80
+I1
+sVboss
+p81
+I1
+sVpull
+p82
+I1
+sVg
+I1
+sVspilled
+p83
+I1
+sVchanged
+p84
+I1
+sVwhine
+p85
+I1
+sVreason
+p86
+I1
+sVthing
+p87
+I1
+sVdiehard
+p88
+I1
+sVounce
+p89
+I1
+sVwolf
+p90
+I2
+sVstand
+p91
+I2
+sVsmoke
+p92
+I1
+sVact
+p93
+I1
+sVreal
+p94
+I4
+sVmotherfuckers
+p95
+I1
+sVfuckin
+p96
+I1
+sVthats
+p97
+I2
+sVwhats
+p98
+I1
+sVdont
+p99
+I3
+sVfeel
+p100
+I2
+sVwin
+p101
+I1
+sVfloat
+p102
+I1
+sVstrap
+p103
+I2
+sVna
+p104
+I2
+sVright
+p105
+I1
+sVtellin
+p106
+I1
+sVbitch
+p107
+I5
+sVrespect
+p108
+I1
+sVboat
+p109
+I1
+sVwan
+p110
+I1
+sVguess
+p111
+I1
+sVbattlescars
+p112
+I1
+sVstuck
+p113
+I1
+sVquotin
+p114
+I1
+sVlive
+p115
+I2
+sVstart
+p116
+I1
+sVattack
+p117
+I1
+sVdamn
+p118
+I2
+sVtoo
+p119
+I1
+sVstrong
+p120
+I1
+sVmusic
+p121
+I1
+sVtype
+p122
+I3
+sVtell
+p123
+I1
+sVlisten
+p124
+I1
+sVpopped
+p125
+I1
+sVpassed
+p126
+I1
+sVhuh
+p127
+I2
+sVit
+p128
+I2
+sVreleased
+p129
+I1
+sVstick
+p130
+I1
+sVbroke
+p131
+I1
+sVcatch
+p132
+I1
+sVline
+p133
+I1
+sVsqueeze
+p134
+I2
+sVill
+p135
+I1
+sVseal
+p136
+I2
+sVmade
+p137
+I1
+sVtank
+p138
+I1
+sVlook
+p139
+I1
+sVrage
+p140
+I1
+sVcrossed
+p141
+I1
+sVinside
+p142
+I1
+sVbids
+p143
+I1
+sVup
+p144
+I2
+sVus
+p145
+I1
+sVdawg
+p146
+I3
+sVnine
+p147
+I1
+sVsent
+p148
+I1
+sVim
+p149
+I8
+sVcould
+p150
+I1
+sVsay
+p151
+I1
+sVive
+p152
+I1
+sVfalse
+p153
+I1
+sVpunk
+p154
+I1
+sVyear
+p155
+I1
+sVmind
+p156
+I1
+sVfuck
+p157
+I4
+sVrat
+p158
+I1
+sVsilence
+p159
+I1
+sVscarface
+p160
+I1
+sVthroat
+p161
+I1
+sVpartner
+p162
+I1
+sVshit
+p163
+I3
+sVagain
+p164
+I2
+sVdifferent
+p165
+I1
+sVhoe
+p166
+I3
+sVfate
+p167
+I1
+sVsit
+p168
+I1
+sVpay
+p169
+I2
+sVmake
+p170
+I2
+sVya
+p171
+I29
+sVtake
+p172
+I1
+sVanimal
+p173
+I1
+sVtie
+p174
+I1
+sVyou
+p175
+I1
+sVsworn
+p176
+I1
+sVroll
+p177
+I1
+sVstatus
+p178
+I1
+sVplay
+p179
+I1
+sVtwentyfive
+p180
+I1
+sVeyes
+p181
+I1
+sVthough
+p182
+I1
+sVstop
+p183
+I1
+sVtime
+p184
+I1
+sVgotsta
+p185
+I1
+sVnever
+p186
+I1
+sVsnitch
+p187
+I1
+sVkillaz
+p188
+I1
+sVcapitalize
+p189
+I1
+sVman
+p190
+I1
+sVjones
+p191
+I1
+sVrefuse
+p192
+I1
+sVnatural
+p193
+I1
+sVneck
+p194
+I1
+sVrules
+p195
+I1
+sVsellin
+p196
+I1
+sVhungry
+p197
+I2
+sVface
+p198
+I1
+sVjacket
+p199
+I1
+sVwithout
+p200
+I1
+sVjail
+p201
+I2
+sVjungle
+p202
+I2
+sVkeeps
+p203
+I1
+sVfive
+p204
+I1
+sVyell
+p205
+I1
+s.

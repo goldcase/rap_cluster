@@ -1,48 +1,233 @@
-welcome heartbreak lyrics
-kanye west lyrics
-welcome heartbreak
-feat kid cudi
-friend showed pictures kids
-could show pictures cribs
-said daughter got brand new report card card
-got brand new sports car
-uh
-head keeps spinning
-cant stop visions
-gotta get wit it
-oh ho oh ho oh ho
-head keeps spinning
-cant stop visions
-gotta get wit it
-oh ho oh ho oh ho
-dad cracked joke kids laugh
-couldnt hear em way first class
-chased good life whole life long
-look back life life gone
-go wrong
-seen seen before
-seen seen before
-ive seen ive seen before
-seen seen before
-god sister gettin married lake
-couldnt figure want take
-bad enough showed late
-leave fore even cut cake
-welcome heartbreak
-oh ho
-oh ho
-oh ho
-cant cant stop
-cant stop
-cant stop
-cant stop
-cant stop cant stop cant stop
-no
-no
-no
-cant stop
-cant stop visions
-gotta get wit it
-oh ho oh ho oh ho
-oh ho
-oh oh ho
+(dp1
+Vem
+p2
+I1
+sVgone
+p3
+I1
+sVmarried
+p4
+I1
+sVwant
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I1
+sVvisions
+p8
+I3
+sVit
+p9
+I3
+sVive
+p10
+I2
+sVspinning
+p11
+I2
+sVwit
+p12
+I3
+sVlaugh
+p13
+I1
+sVseen
+p14
+I8
+sVgo
+p15
+I1
+sVkanye
+p16
+I1
+sVcouldnt
+p17
+I2
+sVfeat
+p18
+I1
+sVbefore
+p19
+I4
+sVeven
+p20
+I1
+sVsaid
+p21
+I1
+sVfigure
+p22
+I1
+sVno
+p23
+I3
+sVwest
+p24
+I1
+sVchased
+p25
+I1
+sVlake
+p26
+I1
+sVlong
+p27
+I1
+sVsports
+p28
+I1
+sVlate
+p29
+I1
+sVenough
+p30
+I1
+sVheartbreak
+p31
+I3
+sVtake
+p32
+I1
+sVway
+p33
+I1
+sVnew
+p34
+I2
+sVjoke
+p35
+I1
+sVfriend
+p36
+I1
+sVta
+p37
+I3
+sVdad
+p38
+I1
+sVhead
+p39
+I2
+sVgood
+p40
+I1
+sVkeeps
+p41
+I2
+sVgod
+p42
+I1
+sVget
+p43
+I3
+sVbrand
+p44
+I2
+sVwelcome
+p45
+I3
+sVstop
+p46
+I11
+sVfore
+p47
+I1
+sVback
+p48
+I1
+sVwrong
+p49
+I1
+sVcut
+p50
+I1
+sVhear
+p51
+I1
+sVho
+p52
+I14
+sVgot
+p53
+I5
+sVreport
+p54
+I1
+sVclass
+p55
+I1
+sVcard
+p56
+I2
+sVkid
+p57
+I1
+sVsister
+p58
+I1
+sVkids
+p59
+I2
+sVdaughter
+p60
+I1
+sVlook
+p61
+I1
+sVshowed
+p62
+I2
+sVoh
+p63
+I15
+sVcribs
+p64
+I1
+sVcar
+p65
+I1
+sVcould
+p66
+I1
+sVgettin
+p67
+I1
+sVlife
+p68
+I4
+sVcant
+p69
+I12
+sVleave
+p70
+I1
+sVbad
+p71
+I1
+sVuh
+p72
+I1
+sVpictures
+p73
+I2
+sVcake
+p74
+I1
+sVcracked
+p75
+I1
+sVwhole
+p76
+I1
+sVcudi
+p77
+I1
+sVfirst
+p78
+I1
+s.

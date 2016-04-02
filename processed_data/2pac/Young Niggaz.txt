@@ -1,103 +1,825 @@
-"young niggaz" lyrics
-2pac lyrics
-"young niggaz"
-i wanna dedicate this one to robert 'yummy' sanderford
-and all other lil' young niggaz that's in a rush to be gangstas
-as a young nigga, i'm almost ?swellin? in the wind
-give anythang, to be that innocent again, when i was ten
-i didn't bang but i was hangin with the homies
-tell them niggaz started slangin that they don't know me
-i got my hustle on, learned to ignore what couldn't pay me
-lately i've been tryin to make a bill-ion, can you play me
-with that jealousy they need to miss me, don't sweat me
-if them cowards really want me, come get me, and even i
-someday will die but i'm cautious, i'm fin' to ride
-put down the top, now we flossin
-hit the freeway, let the wind blow, drop the window
-workin with a twenty sack of indo, feelin good
-stop through the hood, grab the young thugs
-and i can't help but reminisce back when we slung drugs, know it's bad
-but all we had was our hopes and dreams
-couldn't see unless we learned to slang dope to fiends
-as young niggaz
-he's the kind of g like everybody knows
-as a young nigga
-he's always g'd up, from head to toe
-my memories as a young nigga
-always got it blown like al capone
-young nigga
-he's the downest g i've ever known
-back in junior high, when we was barely gettin by, when daddy died
-that's when my momma started gettin high
-my neighborhood was full of drivebys, couldn't survive
-all our homies livin short lives, i couldn't cry
-told my momma if i did die, just put a blunt in my casket
-let me get my dead homies high
-come follow me throughout my history, it's just
-_me against the world_ stuck in misery; as a young nigga
-my only thing was to be paid
-life full of riches avoid snitched cause they shady, back in the days
-we always found the time to play,
-but that's before they taught them gangbangers how to spray
-not just l.a., but in the bay and in chicago and even st. louis
-every stadium that i go, when will they change?
-stuck in the game like a dumb nigga
-remember how it was, to be a young nigga
-he's the kind of g like everybody knows
-as a young nigga
-he's always g'd up, from head to toe
-my memories as a young nigga
-always got it blown like al capone
-young nigga
-he's the downest g i've ever known
-i'm tellin you..
-.. to be young, have your brains and have every limb and all that
-yo, y'all niggaz don't know how good you really do got it
-muh'fuckers need to just calm down
-and peep what the fuck they wanna do for the rest of the life
-'fore you end your life before you begin your life
-you dumb nigga
-now that i'm grown, i got my mind on bein somethin
-don't wanna be another statistic, out here doin nuttin
-tryin to maintain in this dirty game, keep it real
-and i will even if it kills me, my young niggaz
-break away from these dumb niggaz
-put down the guns and have some fun nigga, the rest'll come nigga
-fame is a fast thang, that gangbangin
-puttin niggaz in a casket, murdered for hangin
-at the wrong place at the wrong time, no longer livin
-cause he threw up the wrong sign, and every day
-i watch the murder rate increases, and even worse
-the epidemic and diseases, what is the future?
-the projects lookin hopeless, where
-more and more borhters givin up and don't care
-sometimes i hate when brothers act up, i hit the weed
-and i proceed to blow the track up, for young niggaz
-he's the kind of g like everybody knows
-for these young niggaz
-he's always g'd up, from head to toe
-my memories as a young nigga
-he always got it blown like al capone
-take it slow nigga, it's for the young niggaz
-he's the downest g i've ever known
-as a young nigga
-he's the kind of g like everybody knows
-he's always g'd up, from head to toe
-memories as a young nigga
-he always got it blown like al capone
-he's the downest g i've ever known
-this go out to the young thugs, the have-nots (you know)
-little bad motherfuckers from the block (that's right)
-them niggaz that's thirteen and fourteen
-drivin cadillacs, benzes and shit (i see you boy)
-young motherfuckin hustlers (make that money boy)
-stay strong nigga
-you could be a fuckin accountant, not a dope dealer
-youknowhati'msayin?  (go to school nigga, go to school)
-fuck around and, you pimpin out here
-you could be a lawyer (really doe)
-niggaz gotta get they priorities straight
-(don't see johnny cochran out in this motherfucker)
-really doe.. young niggaz.. little rahrah
-(sup nigga) especially my little cousins don't be no dumb guy
-(don't be a dumb nigga, listen, young niggaz)
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVrest
+p5
+I1
+sVknown
+p6
+I4
+sVslung
+p7
+I1
+sVgd
+p8
+I4
+sVfuckin
+p9
+I1
+sVgo
+p10
+I4
+sVfollow
+p11
+I1
+sVespecially
+p12
+I1
+sVhate
+p13
+I1
+sVblow
+p14
+I2
+sVslow
+p15
+I1
+sVyummy
+p16
+I1
+sVjust
+p17
+I1
+sVlisten
+p18
+I1
+sVla
+p19
+I1
+sVthang
+p20
+I1
+sVyoung
+p21
+I26
+sVday
+p22
+I1
+sVreminisce
+p23
+I1
+sVwindow
+p24
+I1
+sVrahrah
+p25
+I1
+sVanythang
+p26
+I1
+sVinnocent
+p27
+I1
+sVhomies
+p28
+I3
+sVthirteen
+p29
+I1
+sVfin
+p30
+I1
+sVmotherfuckin
+p31
+I1
+sVreal
+p32
+I1
+sVgood
+p33
+I2
+sVworkin
+p34
+I1
+sVlivin
+p35
+I2
+sVyo
+p36
+I1
+sVget
+p37
+I3
+sVdope
+p38
+I2
+sVstop
+p39
+I1
+sVkind
+p40
+I4
+sVfeelin
+p41
+I1
+sVbreak
+p42
+I1
+sVbang
+p43
+I1
+sVmuhfuckers
+p44
+I1
+sVdrivebys
+p45
+I1
+sVknow
+p46
+I4
+sVworld
+p47
+I1
+sVputtin
+p48
+I1
+sVdreams
+p49
+I1
+sVschool
+p50
+I2
+sVlike
+p51
+I9
+sVdie
+p52
+I2
+sVdrop
+p53
+I1
+sVbenzes
+p54
+I1
+sVbay
+p55
+I1
+sVignore
+p56
+I1
+sVbad
+p57
+I2
+sValways
+p58
+I9
+sVincreases
+p59
+I1
+sVfound
+p60
+I1
+sVgrab
+p61
+I1
+sVtold
+p62
+I1
+sVwhere
+p63
+I1
+sVstraight
+p64
+I1
+sVyall
+p65
+I1
+sVsomeday
+p66
+I1
+sVnigga
+p67
+I21
+sVneighborhood
+p68
+I1
+sVten
+p69
+I1
+sVmind
+p70
+I1
+sVbegin
+p71
+I1
+sVback
+p72
+I3
+sVdead
+p73
+I1
+sVsign
+p74
+I1
+sVsee
+p75
+I3
+sVtaught
+p76
+I1
+sVdumb
+p77
+I5
+sVsnitched
+p78
+I1
+sVlawyer
+p79
+I1
+sVstatistic
+p80
+I1
+sVmurdered
+p81
+I1
+sVreally
+p82
+I4
+sVeven
+p83
+I4
+sVcapone
+p84
+I4
+sVswellin
+p85
+I1
+sVgangbangers
+p86
+I1
+sVchicago
+p87
+I1
+sVdealer
+p88
+I1
+sVmemories
+p89
+I4
+sVrobert
+p90
+I1
+sVtrack
+p91
+I1
+sVdiseases
+p92
+I1
+sVsup
+p93
+I1
+sVgot
+p94
+I8
+sVlearned
+p95
+I2
+sVever
+p96
+I4
+sVdoin
+p97
+I1
+sVhustle
+p98
+I1
+sVslangin
+p99
+I1
+sVfull
+p100
+I2
+sVdrivin
+p101
+I1
+sVmotherfucker
+p102
+I1
+sVhere
+p103
+I1
+sVfourteen
+p104
+I1
+sVcochran
+p105
+I1
+sVspray
+p106
+I1
+sVlet
+p107
+I2
+sVstrong
+p108
+I1
+sVpimpin
+p109
+I1
+sVput
+p110
+I3
+sVpeep
+p111
+I1
+sVstay
+p112
+I1
+sVcome
+p113
+I3
+sVguy
+p114
+I1
+sVchange
+p115
+I1
+sVcare
+p116
+I1
+sVboy
+p117
+I2
+sVcautious
+p118
+I1
+sVg
+I8
+sVgivin
+p119
+I1
+sVbarely
+p120
+I1
+sVdedicate
+p121
+I1
+sVpriorities
+p122
+I1
+sVkeep
+p123
+I1
+sVhustlers
+p124
+I1
+sVthing
+p125
+I1
+sVcadillacs
+p126
+I1
+sVplace
+p127
+I1
+sVsweat
+p128
+I1
+sVlookin
+p129
+I1
+sVmisery
+p130
+I1
+sVmotherfuckers
+p131
+I1
+sVcause
+p132
+I2
+sVthats
+p133
+I5
+sVdont
+p134
+I8
+sVblown
+p135
+I4
+sVaround
+p136
+I1
+sVsack
+p137
+I1
+sVone
+p138
+I1
+sVdown
+p139
+I1
+sVmomma
+p140
+I2
+sVright
+p141
+I1
+sVtellin
+p142
+I1
+sVanother
+p143
+I1
+sVaway
+p144
+I1
+sVlimb
+p145
+I1
+sVnuttin
+p146
+I1
+sVcouldnt
+p147
+I4
+sVthroughout
+p148
+I1
+sVmiss
+p149
+I1
+sVhood
+p150
+I1
+sVeverybody
+p151
+I4
+sVwan
+p152
+I3
+sVlittle
+p153
+I3
+sVcasket
+p154
+I2
+sVproceed
+p155
+I1
+sVhes
+p156
+I12
+sVtwenty
+p157
+I1
+sVtop
+p158
+I1
+sVjealousy
+p159
+I1
+sVfast
+p160
+I1
+sVcowards
+p161
+I1
+sVstuck
+p162
+I2
+sVaccountant
+p163
+I1
+sVcry
+p164
+I1
+sVdied
+p165
+I1
+sVstadium
+p166
+I1
+sVsurvive
+p167
+I1
+sVtryin
+p168
+I2
+sVrestll
+p169
+I1
+sVtell
+p170
+I1
+sVsanderford
+p171
+I1
+sVtoe
+p172
+I4
+sVhead
+p173
+I4
+sVmurder
+p174
+I1
+sVknows
+p175
+I4
+sVthat
+p176
+I1
+sVstarted
+p177
+I2
+sVbrains
+p178
+I1
+sVfuck
+p179
+I2
+sVfore
+p180
+I1
+sVit
+p181
+I1
+sVgettin
+p182
+I2
+sVlives
+p183
+I1
+sVhopes
+p184
+I1
+sVjunior
+p185
+I1
+sV2pac
+p186
+I1
+sVlonger
+p187
+I1
+sVme
+p188
+I4
+sVrush
+p189
+I1
+sVfiends
+p190
+I1
+sVride
+p191
+I1
+sVcousins
+p192
+I1
+sVriches
+p193
+I1
+sVrate
+p194
+I1
+sVniggaz
+p195
+I16
+sVact
+p196
+I1
+sVfuture
+p197
+I1
+sVdirty
+p198
+I1
+sVfun
+p199
+I1
+sVdaddy
+p200
+I1
+sVdidnt
+p201
+I1
+sVcould
+p202
+I2
+sVhistory
+p203
+I1
+sVive
+p204
+I5
+sVyouknowhatimsayin
+p205
+I1
+sVsometimes
+p206
+I1
+sVjohnny
+p207
+I1
+sVgive
+p208
+I1
+sValmost
+p209
+I1
+sVgangstas
+p210
+I1
+sVal
+p211
+I4
+sVdays
+p212
+I1
+sVhigh
+p213
+I3
+sVthrew
+p214
+I1
+sVcant
+p215
+I1
+sVim
+p216
+I5
+sVwant
+p217
+I1
+sVneed
+p218
+I2
+sVhit
+p219
+I2
+sVdoe
+p220
+I2
+sVfame
+p221
+I1
+sVshit
+p222
+I1
+sVworse
+p223
+I1
+sVgrown
+p224
+I1
+sVthugs
+p225
+I2
+sVend
+p226
+I1
+sVkills
+p227
+I1
+sVlil
+p228
+I1
+sVna
+p229
+I3
+sVmake
+p230
+I2
+sVlately
+p231
+I1
+sVdrugs
+p232
+I1
+sVguns
+p233
+I1
+sVtake
+p234
+I1
+sVhavenots
+p235
+I1
+sVyou
+p236
+I1
+sVhangin
+p237
+I2
+sVblunt
+p238
+I1
+sVbein
+p239
+I1
+sVhopeless
+p240
+I1
+sVplay
+p241
+I2
+sVunless
+p242
+I1
+sVbrothers
+p243
+I1
+sVgangbangin
+p244
+I1
+sVwatch
+p245
+I1
+sVcalm
+p246
+I1
+sVtime
+p247
+I2
+sVflossin
+p248
+I1
+sVpaid
+p249
+I1
+sVweed
+p250
+I1
+sVwrong
+p251
+I3
+sVepidemic
+p252
+I1
+sVlouis
+p253
+I1
+sVdownest
+p254
+I4
+sVslang
+p255
+I1
+sVbillion
+p256
+I1
+sVsomethin
+p257
+I1
+sVshort
+p258
+I1
+sVremember
+p259
+I1
+sVi
+I1
+sVta
+p260
+I1
+sVshady
+p261
+I1
+sVborhters
+p262
+I1
+sVlife
+p263
+I4
+sVgame
+p264
+I2
+sVst
+p265
+I1
+sVfreeway
+p266
+I1
+sVmaintain
+p267
+I1
+sVblock
+p268
+I1
+sVprojects
+p269
+I1
+sVpay
+p270
+I1
+sVevery
+p271
+I3
+sVindo
+p272
+I1
+sVavoid
+p273
+I1
+sVwind
+p274
+I2
+s.

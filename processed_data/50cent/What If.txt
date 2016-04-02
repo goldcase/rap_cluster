@@ -1,65 +1,465 @@
-"what if" lyrics
-50 cent lyrics
-"what if"
-yeah
-im fuckin with this..
-its that classic shit..
-that gangster shit..
-yeah..
-man i watch the sun go up and come down
-sayin.. what if?
-man i watch the tide roll in and roll out
-sayin.. what if?
-homie i play the block tryna get my packs off
-sayin.. what if?
-man if i get a shot, i can make it to the top
-damn.. what if?
-if i got on some pretty boy shit like puffy
-niggaz in the hood man they jus wouldnt love me
-if i wore a suit everyday like jay-z
-niggaz would think i bumped my fuckin head and went crazy
-if i put diamonds in my teeth like baby
-i wouldnt stand a chance of tryin to sell like shady
-if i put out bullshit joints like az
-every chance niggaz get they try n play me
-but i move around with a lil 3.80
-a nigga try to stunt, a nigga get sprayed b
-if i smoke weed all day like snoop do
-i see the world different through my dialated pupils
-if i buss dance moves on ya like usher
-niggaz would say 50 that aint gangster, fuck ya
-man ima just keep doin' what i do..
-cuz niggaz cant do me better than i do
-man i watch the sun go up and come down
-sayin.. what if?
-man i watch the tide roll in and roll out
-sayin.. what if?
-homie i play the block tryna get my packs off
-sayin.. what if?
-man if i get a shot, i can make it to the top
-damn.. what if?
-what if i had blockbuster slips like will smith
-and all the backpack niggaz love me like mos def
-i probably be a cool ass nigga like ice cube
-picture me in the flick right now lookin' so cool
-what if i was a low-key nigga just laid back
-hustle to keep a homie around somebody to hold a gat
-man what if halle berry was my nex baby momz
-shit i get that child support up with no problem
-if i caught a case and jump bail like ??get caught??
-cuz im that nigga everybody know from new york
-what if i was a new rap nigga you didnt know
-you be sayin damn that kid got a sick flow
-but if i just cruise through your hood on 22's
-bumpin curtis mayfield and marvin "so smooth"
-and if i let the top down on the azure
-yeah that'd make you sick to your stomach, im sure
-haha..
-man i watch the sun go up and come down
-sayin.. what if?
-man i watch the tide roll in and roll out
-sayin.. what if?
-homie i play the block tryna get my packs off
-sayin.. what if?
-man if i get a shot, i can make it to the top
-damn.. what if?
+(dp1
+Vsprayed
+p2
+I1
+sVshot
+p3
+I3
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmove
+p6
+I1
+sVstunt
+p7
+I1
+sVgo
+p8
+I3
+sVbail
+p9
+I1
+sVaint
+p10
+I1
+sVsayin
+p11
+I10
+sVbuss
+p12
+I1
+sVbackpack
+p13
+I1
+sVsmith
+p14
+I1
+sVcuz
+p15
+I2
+sVday
+p16
+I1
+sVbetter
+p17
+I1
+sVpretty
+p18
+I1
+sVdo
+p19
+I3
+sVcube
+p20
+I1
+sVsomebody
+p21
+I1
+sVaround
+p22
+I2
+sVget
+p23
+I10
+sVya
+p24
+I2
+sVpuffy
+p25
+I1
+sVwatch
+p26
+I6
+sVevery
+p27
+I1
+sVknow
+p28
+I2
+sVkid
+p29
+I1
+sVprobably
+p30
+I1
+sVworld
+p31
+I1
+sVbullshit
+p32
+I1
+sVcool
+p33
+I2
+sVlike
+p34
+I11
+sV50
+p35
+I2
+sVtry
+p36
+I2
+sVwent
+p37
+I1
+sVflick
+p38
+I1
+sVnigga
+p39
+I6
+sVlowkey
+p40
+I1
+sVcruise
+p41
+I1
+sVyeah
+p42
+I3
+sVjump
+p43
+I1
+sVgangster
+p44
+I2
+sVsee
+p45
+I1
+sVusher
+p46
+I1
+sVout
+p47
+I3
+sVsun
+p48
+I3
+sVice
+p49
+I1
+sVcase
+p50
+I1
+sVlaid
+p51
+I1
+sVnex
+p52
+I1
+sVdiamonds
+p53
+I1
+sVgot
+p54
+I2
+sVcaught
+p55
+I2
+sVhustle
+p56
+I1
+sVass
+p57
+I1
+sVima
+p58
+I1
+sVmomz
+p59
+I1
+sV380
+p60
+I1
+sVlet
+p61
+I1
+sVyork
+p62
+I1
+sVput
+p63
+I2
+sVbumpin
+p64
+I1
+sVcome
+p65
+I3
+sVboy
+p66
+I1
+sVsnoop
+p67
+I1
+sVwouldnt
+p68
+I2
+sVthatd
+p69
+I1
+sVkeep
+p70
+I2
+sVstand
+p71
+I1
+sVsmoke
+p72
+I1
+sVazure
+p73
+I1
+sVbumped
+p74
+I1
+sVthink
+p75
+I1
+sVblock
+p76
+I3
+sVlove
+p77
+I2
+sVblockbuster
+p78
+I1
+sVdown
+p79
+I3
+sVjayz
+p80
+I1
+sVright
+p81
+I1
+sVsupport
+p82
+I1
+sV22s
+p83
+I1
+sVhood
+p84
+I2
+sVeverybody
+p85
+I1
+sVwould
+p86
+I2
+sVtop
+p87
+I4
+sVhalle
+p88
+I1
+sVcent
+p89
+I1
+sVdamn
+p90
+I4
+sVsuit
+p91
+I1
+sVtryin
+p92
+I1
+sVslips
+p93
+I1
+sVtryna
+p94
+I3
+sVhead
+p95
+I1
+sVstomach
+p96
+I1
+sVpacks
+p97
+I3
+sVgat
+p98
+I1
+sVhaha
+p99
+I1
+sVback
+p100
+I1
+sVjus
+p101
+I1
+sVchild
+p102
+I1
+sVbaby
+p103
+I2
+sVhold
+p104
+I1
+sVme
+p105
+I2
+sVb
+I1
+sVwore
+p106
+I1
+sVthis
+p107
+I1
+sVdialated
+p108
+I1
+sVsmooth
+p109
+I1
+sVcant
+p110
+I1
+sVniggaz
+p111
+I6
+sVn
+I1
+sVproblem
+p112
+I1
+sVdidnt
+p113
+I1
+sVdef
+p114
+I1
+sVcrazy
+p115
+I1
+sVclassic
+p116
+I1
+sVjoints
+p117
+I1
+sVfuck
+p118
+I1
+sVtide
+p119
+I3
+sVsay
+p120
+I1
+sVhomie
+p121
+I4
+sVim
+p122
+I3
+sVrap
+p123
+I1
+sVcurtis
+p124
+I1
+sVaz
+p125
+I1
+sVeveryday
+p126
+I1
+sVshit
+p127
+I4
+sVif
+p128
+I13
+sVsell
+p129
+I1
+sVdifferent
+p130
+I1
+sVmoves
+p131
+I1
+sVpupils
+p132
+I1
+sVlil
+p133
+I1
+sVmake
+p134
+I4
+sVmos
+p135
+I1
+sVsick
+p136
+I2
+sVnew
+p137
+I2
+sVroll
+p138
+I6
+sVberry
+p139
+I1
+sVpicture
+p140
+I1
+sVplay
+p141
+I4
+sVsure
+p142
+I1
+sVlookin
+p143
+I1
+sVdoin
+p144
+I1
+sVweed
+p145
+I1
+sVchance
+p146
+I2
+sVman
+p147
+I12
+sVoff
+p148
+I3
+sVshady
+p149
+I1
+sVflow
+p150
+I1
+sVmayfield
+p151
+I1
+sVfuckin
+p152
+I2
+sVteeth
+p153
+I1
+sVmarvin
+p154
+I1
+s.

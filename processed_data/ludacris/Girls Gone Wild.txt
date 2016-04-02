@@ -1,73 +1,573 @@
-"girls gone wild" lyrics
-ludacris lyrics
-"girls gone wild"
-10, 9, 8, 7
-6, 5, 4, 3
-2, 1 (uhh)
-never scared to be different
-the improviser was put into existance
-for in-stance, this is me
-what did you expect from the 5th lp
-gone for a minute now i'm back again
-back to back, back to break backs again
-put 'em in the back seat of the 'llac again
-and rip off the magnum packagin
-what's happenin, i'm lookin for some girls gone willllld (gone willlld)
-i'm just tryin to make these girls all smilllle (all smilllle)
-and i'm gonna make 'em dance, so i
-can see 'em shake they ass, then i'll
-put 'em in a trance, 'til i
-get 'em out them pants, then i'll
-take 'em to a level that they mighta never been to befo'
-we gon' hit the do' and then hit the flo' you'll get hit below
-i got somebody i want you to get to know - me!
-fearless like jack the ripper
-hip-hop needs help so i'm back to flip up
-flip and run 'em back cause i'm back to stick her
-and flow up on the track like it's full of li-quor!
-you're feelin kinda warm, like you was havin (sex)
-you're wetter than a storm, like you was taxin (x)
-your mood intensifies, it's time for a surprise
-so baby close your eyes, are you ready for what's (next?)
-you lookin at rap's most consistant
-man, whatever they cain't do i can
-what they wanna be in the future, i am
-a hip-hop mogul's right where i stannnnd
-god damn i'm good!
-stretchin out the limits of music, i should
-do it like i know and how only i could
-do it like a pro and how only i woullllld
-still i'm lookin for some girls gone willllld (gone willlld)
-i'm just tryin to make these girls all smilllle (all smilllle)
-and i'm gonna pour patron, 'til i
-get 'em in the zone, then i'll
-get 'em all alone, 'til i
-make 'em wanna bone, then i'll
-take 'em to a level that they mighta never been to befo'
-we gon' hit the do' and then hit the flo' you'll get hit below
-i got somebody i want you to get to know - me!
-l-u to the d-a-c
-to the r-i-s and yeah that's me
-a gift to read minds, got e.s.p.
-hottest thing on the go since psp's
-wow, mc's i bake 'em
-put me in a circle of homies and i'ma break 'em
-mighta took your brain i'm in it to process
-take the whole game, i'm in it to top this
-just figured out that i'm ahead of my time
-with a flow so fast i'm ahead of my rhyme
-your clock is off-beat, better set it to mine
-with a six-year run havin a hell of a time
-cauuuuse i'm always lookin for some girls gone willllld (gone willlld)
-i'm just tryin to make these girls all smilllle (all smilllle)
-and i'm gonna get 'em high, 'til i
-make 'em touch the sky, then i'll
-make 'em wonder why, why
-why am i so fly, cause i
-take 'em to a level that they mighta never been to befo'
-we gon' hit the do' and then hit the flo' you'll get hit below
-i got somebody i want you to get to know - me!
-a millionaire with extra paper
-if you haven't heard, go and ask a neighbor
-i'm like hot sauce with extra flavor
-so put it on your tongue for your mouth to savor!
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVdance
+p5
+I1
+sVstretchin
+p6
+I1
+sVbrain
+p7
+I1
+sVpaper
+p8
+I1
+sVshake
+p9
+I1
+sVgo
+p10
+I2
+sVhell
+p11
+I1
+sVflavor
+p12
+I1
+sVstill
+p13
+I1
+sVclock
+p14
+I1
+sVima
+p15
+I1
+sVtil
+p16
+I4
+sVzone
+p17
+I1
+sVwoullllld
+p18
+I1
+sVsky
+p19
+I1
+sVshould
+p20
+I1
+sVbetter
+p21
+I1
+sVhavin
+p22
+I2
+sVsmilllle
+p23
+I6
+sVlu
+p24
+I1
+sV4
+I1
+sVlp
+p25
+I1
+sVhomies
+p26
+I1
+sV8
+I1
+sVcircle
+p27
+I1
+sVsauce
+p28
+I1
+sVfly
+p29
+I1
+sVgood
+p30
+I1
+sVsomebody
+p31
+I3
+sVcaint
+p32
+I1
+sVget
+p33
+I10
+sVread
+p34
+I1
+sVrhyme
+p35
+I1
+sVuhh
+p36
+I1
+sVfeelin
+p37
+I1
+sVbreak
+p38
+I2
+sVgame
+p39
+I1
+sVknow
+p40
+I4
+sVsurprise
+p41
+I1
+sVheard
+p42
+I1
+sVminute
+p43
+I1
+sVlike
+p44
+I7
+sVbefo
+p45
+I3
+sVlevel
+p46
+I3
+sVcause
+p47
+I2
+sValways
+p48
+I1
+sVx
+I1
+sVhavent
+p49
+I1
+sVbone
+p50
+I1
+sVem
+p51
+I17
+sVright
+p52
+I1
+sVscared
+p53
+I1
+sVmighta
+p54
+I4
+sVback
+p55
+I8
+sVseat
+p56
+I1
+sVtouch
+p57
+I1
+sVsee
+p58
+I1
+sVexpect
+p59
+I1
+sVwilllld
+p60
+I3
+sVclose
+p61
+I1
+sVbake
+p62
+I1
+sVwonder
+p63
+I1
+sVgon
+p64
+I6
+sVmood
+p65
+I1
+sVesp
+p66
+I1
+sVmine
+p67
+I1
+sVgod
+p68
+I1
+sVwow
+p69
+I1
+sVsince
+p70
+I1
+sV3
+I1
+sV7
+I1
+sVgot
+p71
+I4
+sVyoull
+p72
+I3
+sVpants
+p73
+I1
+sVass
+p74
+I1
+sVfull
+p75
+I1
+sVrun
+p76
+I2
+sVconsistant
+p77
+I1
+sVfearless
+p78
+I1
+sVnever
+p79
+I4
+sVripper
+p80
+I1
+sVput
+p81
+I5
+sVask
+p82
+I1
+sVfigured
+p83
+I1
+sVlimits
+p84
+I1
+sVill
+p85
+I5
+sVllac
+p86
+I1
+sVminds
+p87
+I1
+sVthing
+p88
+I1
+sVlookin
+p89
+I4
+sVtongue
+p90
+I1
+sVwhole
+p91
+I1
+sVtop
+p92
+I1
+sVthats
+p93
+I1
+sVwhats
+p94
+I2
+sVextra
+p95
+I2
+sVwhatever
+p96
+I1
+sVhappenin
+p97
+I1
+sVset
+p98
+I1
+sVwan
+p99
+I2
+sVher
+p100
+I1
+sV5th
+p101
+I1
+sVgirls
+p102
+I8
+sVgift
+p103
+I1
+sVfast
+p104
+I1
+sVnext
+p105
+I1
+sVprocess
+p106
+I1
+sV2
+I1
+sVdamn
+p107
+I1
+sVstorm
+p108
+I1
+sV6
+I1
+sVmusic
+p109
+I1
+sVhottest
+p110
+I1
+sVtryin
+p111
+I3
+sVpsps
+p112
+I1
+sVliquor
+p113
+I1
+sVeyes
+p114
+I1
+sVsixyear
+p115
+I1
+sVtook
+p116
+I1
+sVyeah
+p117
+I1
+sVwarm
+p118
+I1
+sVstick
+p119
+I1
+sVbaby
+p120
+I1
+sVsex
+p121
+I1
+sVmcs
+p122
+I1
+sVme
+p123
+I5
+sV10
+p124
+I1
+sVahead
+p125
+I2
+sVtaxin
+p126
+I1
+sVthis
+p127
+I1
+sVup
+p128
+I1
+sVpour
+p129
+I1
+sVoffbeat
+p130
+I1
+sVbelow
+p131
+I3
+sVfuture
+p132
+I1
+sVcan
+p133
+I1
+sVflo
+p134
+I3
+sVexistance
+p135
+I1
+sVwild
+p136
+I2
+sVcould
+p137
+I1
+sVgone
+p138
+I9
+sVpatron
+p139
+I1
+sVraps
+p140
+I1
+sVpro
+p141
+I1
+sVam
+p142
+I1
+sVris
+p143
+I1
+sVrip
+p144
+I1
+sVneeds
+p145
+I1
+sVhigh
+p146
+I1
+sVcauuuuse
+p147
+I1
+sVim
+p148
+I18
+sVmillionaire
+p149
+I1
+sVwant
+p150
+I3
+sVready
+p151
+I1
+sVhit
+p152
+I9
+sValone
+p153
+I1
+sVagain
+p154
+I3
+sVdifferent
+p155
+I1
+sVwillllld
+p156
+I3
+sVstannnnd
+p157
+I1
+sVsavor
+p158
+I1
+sVna
+p159
+I5
+sVmake
+p160
+I7
+sVdac
+p161
+I1
+sVbacks
+p162
+I1
+sV1
+I1
+sVinstance
+p163
+I1
+sVhot
+p164
+I1
+sV5
+I1
+sVtake
+p165
+I4
+sV9
+I1
+sVmagnum
+p166
+I1
+sVneighbor
+p167
+I1
+sVintensifies
+p168
+I1
+sVflip
+p169
+I2
+sVtrack
+p170
+I1
+sVmoguls
+p171
+I1
+sVtime
+p172
+I3
+sVpackagin
+p173
+I1
+sVhiphop
+p174
+I2
+sVwetter
+p175
+I1
+sVmouth
+p176
+I1
+sVkinda
+p177
+I1
+sVwhy
+p178
+I1
+sVman
+p179
+I1
+sVimproviser
+p180
+I1
+sVi
+I6
+sVyoure
+p181
+I2
+sVflow
+p182
+I2
+sVtrance
+p183
+I1
+sVjack
+p184
+I1
+s.

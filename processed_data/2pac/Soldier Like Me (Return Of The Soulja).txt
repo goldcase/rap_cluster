@@ -1,74 +1,557 @@
-"soldier like me (return of the soulja)" lyrics
-2pac lyrics
-"soldier like me (return of the soulja)"
-(feat. eminem)
-so what i wanna do, hopefully is... i wanna be, uhm not a wannabe i am tupac shakur!
-tupac!
-2005!
-guess who's back? g-g-guess who's back
-g-g-guess who's back? g-g-guess who's back
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-posse deep as i role through the streets
-motherfuck the police as we creep, in our jeeps
-layin so long you think i'm asleep
-but at the slightest beef, i'm robbin niggaz through the teeth
-and opd can get the dick if they play tuffy
-last time them niggaz rushed me, i aint bust but now i'm touchy
-trust me, aint nothing jumpin but these buck shots
-them niggaz got enough knots, i'm poppin corrupt cops
-ya motherfuckaz catch a hot one
-you wanted to start a problem, now you coward cops have got one
-and there's no prison that can hold a
-motherfuckin soulja, ready to role and take control
-so now i jack 'em while they sleepin
-role to the door, through a grenade in the precinct
-some people panic, brothers bugged out
-i had to keep poppin, cuz wouldn't stop until they rugged out
-and they vest don't protect from the head wounds
-reload ammunitions and them bitches will be dead soon
-smoke rising from the barrel of my shotty
-i finally got revenge, now count the bodies
-20 cops, one for every year in jail
-tryin to keep a nigga down, but ya failed
-before i let ya take me, i told ya
-fuck being trapped, i'm a soulja
-i betcha that i got something you aint got, that's called courage
-it don't come from no liquor bottle, it aint scotch, it's not bourbon
-i don't walk around like no g, cuz that aint me, i'm not that person
-i don't try to act like you do, cuz that aint you, you just frontin
-you aint?
-it's tupac in the mad bitch
-in them six-'fo, rag on them thangs, that's a bad bitch
-gettin ghosts on them bitches in the town
-bustin out the backseat, nigga when we clown
-homie is you down?
-b got the strap and she anxious
-hurry up 'fo she spank shit
-commin round the corners, spittin rounds
-they payin homie down
-caught them sucka ass bitches outta bounce
-now tell me how that sound?
-a double date laced with hate, make 'em pray for the judgement day
-now tell me how that sound?
-a double date laced with hate, make 'em pray for the judgement day
-stinkin biatch!
-i betcha that i got something you aint got, that's called courage
-it don't come from no liquor bottle, it aint scotch, it's not bourbon
-i don't walk around like no g, cuz that aint me, i'm not that person
-i don't try to act like you do, cuz that aint you, you just frontin
-you aint? (tupac)
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
-everywhere i see, a soulja a soulja
-everywhere i see, a soulja like me
+(dp1
+Vlyrics
+p2
+I2
+sVsoon
+p3
+I1
+sVsoulja
+p4
+I28
+sVbetcha
+p5
+I2
+sVfeat
+p6
+I1
+sVaint
+p7
+I12
+sVlaced
+p8
+I2
+sVshotty
+p9
+I1
+sVpolice
+p10
+I1
+sVpray
+p11
+I2
+sVdick
+p12
+I1
+sVpoppin
+p13
+I2
+sVhot
+p14
+I1
+sVbust
+p15
+I1
+sVfailed
+p16
+I1
+sVfinally
+p17
+I1
+sVpayin
+p18
+I1
+sVprison
+p19
+I1
+sVbourbon
+p20
+I2
+sVround
+p21
+I1
+sVmotherfuckin
+p22
+I1
+sVcount
+p23
+I1
+sVreturn
+p24
+I2
+sVaround
+p25
+I2
+sVget
+p26
+I1
+sVya
+p27
+I4
+sVuhm
+p28
+I1
+sVstop
+p29
+I1
+sVopd
+p30
+I1
+sVcourage
+p31
+I2
+sVevery
+p32
+I1
+sVjack
+p33
+I1
+sVprecinct
+p34
+I1
+sVwalk
+p35
+I2
+sVday
+p36
+I2
+sVlike
+p37
+I14
+sVcalled
+p38
+I2
+sVcorners
+p39
+I1
+sVgettin
+p40
+I1
+sVrobbin
+p41
+I1
+sVtry
+p42
+I2
+sVreload
+p43
+I1
+sVbad
+p44
+I1
+sVshots
+p45
+I1
+sVwannabe
+p46
+I1
+sVlayin
+p47
+I1
+sVem
+p48
+I3
+sVnigga
+p49
+I2
+sVpeople
+p50
+I1
+sVliquor
+p51
+I2
+sVstreets
+p52
+I1
+sVback
+p53
+I4
+sVdead
+p54
+I1
+sVsee
+p55
+I16
+sVasleep
+p56
+I1
+sVclown
+p57
+I1
+sVyear
+p58
+I1
+sVcorrupt
+p59
+I1
+sVghosts
+p60
+I1
+sVcreep
+p61
+I1
+sVout
+p62
+I2
+sVanxious
+p63
+I1
+sVtrust
+p64
+I1
+sVsleepin
+p65
+I1
+sVhate
+p66
+I2
+sVposse
+p67
+I1
+sVenough
+p68
+I1
+sVhopefully
+p69
+I1
+sVgot
+p70
+I8
+sVtold
+p71
+I1
+sVass
+p72
+I1
+sVshit
+p73
+I1
+sVrevenge
+p74
+I1
+sVeminem
+p75
+I1
+sVstrap
+p76
+I1
+sVlet
+p77
+I1
+sV20
+p78
+I1
+sVwanted
+p79
+I1
+sVcome
+p80
+I2
+sVbuck
+p81
+I1
+sVprotect
+p82
+I1
+sVcommin
+p83
+I1
+sVlast
+p84
+I1
+sVwouldnt
+p85
+I1
+sVkeep
+p86
+I2
+sVsoldier
+p87
+I2
+sVshakur
+p88
+I1
+sVsucka
+p89
+I1
+sVsmoke
+p90
+I1
+sVact
+p91
+I2
+sVthink
+p92
+I1
+sVthats
+p93
+I3
+sVknots
+p94
+I1
+sVammunitions
+p95
+I1
+sVdont
+p96
+I7
+sVspank
+p97
+I1
+sVone
+p98
+I3
+sVdown
+p99
+I2
+sVdate
+p100
+I2
+sVrising
+p101
+I1
+sVbitch
+p102
+I2
+sVwhos
+p103
+I4
+sVrounds
+p104
+I1
+sVbugged
+p105
+I1
+sVwan
+p106
+I2
+sVguess
+p107
+I1
+sVbeef
+p108
+I1
+sVrushed
+p109
+I1
+sVcaught
+p110
+I1
+sVlong
+p111
+I1
+sVtuffy
+p112
+I1
+sVsixfo
+p113
+I1
+sVstart
+p114
+I1
+sVggguess
+p115
+I3
+sVtryin
+p116
+I1
+sVtell
+p117
+I2
+sVhead
+p118
+I1
+sVdoor
+p119
+I1
+sVmotherfuck
+p120
+I1
+sVtrapped
+p121
+I1
+sVbitches
+p122
+I3
+sVwounds
+p123
+I1
+sVcops
+p124
+I3
+sVeverywhere
+p125
+I16
+sVbounce
+p126
+I1
+sVbiatch
+p127
+I1
+sVcatch
+p128
+I1
+sVhold
+p129
+I1
+sV2pac
+p130
+I1
+sVme
+p131
+I8
+sVb
+I1
+sVrugged
+p132
+I1
+sVg
+I2
+sVdouble
+p133
+I2
+sVcoward
+p134
+I1
+sVniggaz
+p135
+I3
+sVproblem
+p136
+I1
+sVgrenade
+p137
+I1
+sVslightest
+p138
+I1
+sVtheres
+p139
+I1
+sVcontrol
+p140
+I1
+sVrag
+p141
+I1
+sVvest
+p142
+I1
+sVoutta
+p143
+I1
+sVfuck
+p144
+I1
+sVdeep
+p145
+I1
+sVhomie
+p146
+I2
+sVim
+p147
+I7
+sVsomething
+p148
+I2
+sVready
+p149
+I1
+sVbackseat
+p150
+I1
+sVtupac
+p151
+I4
+sVthangs
+p152
+I1
+sVna
+p153
+I2
+sVmake
+p154
+I2
+sVsound
+p155
+I2
+sVjeeps
+p156
+I1
+sVrole
+p157
+I3
+sVtake
+p158
+I2
+sV2005
+p159
+I1
+sVpanic
+p160
+I1
+sVplay
+p161
+I1
+sVbrothers
+p162
+I1
+sVmotherfuckaz
+p163
+I1
+sVtime
+p164
+I1
+sVhurry
+p165
+I1
+sVtown
+p166
+I1
+sVmad
+p167
+I1
+sVjumpin
+p168
+I1
+sVnothing
+p169
+I1
+sVstinkin
+p170
+I1
+sVfo
+p171
+I1
+sVa
+I1
+sVjudgement
+p172
+I2
+sVtouchy
+p173
+I1
+sVbustin
+p174
+I1
+sVperson
+p175
+I2
+sVfrontin
+p176
+I2
+sVjail
+p177
+I1
+sVbottle
+p178
+I2
+sVteeth
+p179
+I1
+sVspittin
+p180
+I1
+sVbarrel
+p181
+I1
+sVscotch
+p182
+I2
+sVcuz
+p183
+I5
+sVbodies
+p184
+I1
+s.

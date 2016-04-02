@@ -1,107 +1,704 @@
-"get the money" lyrics
-50 cent lyrics
-"get the money"
-yeah!
-50!
-i make it feel brand new!
-guess what they tell me...  {bring it back!}
-yeah!
-50!
-i make it feel brand new! {damn!}
-guess what they tell me?
-yeah! {"forever king"!}
-50!
-i make it feel brand new!
-guess what they tell me?
-you make me feel... braaaand new!
-hahaa!
-fuck with me!
-yeah! {whooooooooooooooooooooooo kiiiiiiiiiiiiiiiiiiiiiiiiiiiiid!}
-it go one for the - money! two for the dough!
-three for the pimpin' now early with the hoes.
-four for my niggaz runnin' around with .44's (yeah!)
-reppin' that five all the way live
-i got a style that reign supreme! - bentley made to lean!
-pull up say what up, make a major scene!
-stunt! - flash the cream, nine laser beam,
-it's hard to miss your team; jus' follow that dot, then pop!
-one for the moneyyyy! (get the money! get the money!)
-two for the shoow! (it's showtime!)
-three to get the honeyyys! (whassup baby?)
-here we gooo! (here we go!) - honeyyy...
-one for the moneyyyy! (get the money! get the money!)
-hmmmmm! - two for the shoow! (it's showtime!)
-three to get the honeyyys! (whassup baby?)
-here we gooo! (here we go!) ( whooo!) {damn!}
-i'm a southside nigga you can come through and ask for me
-systems thumpin', pumpin', 2pac blast for me.
-cali show me love! (come on!) - but me i'm from the east;
-i'm guessin' i'm bi-costal, when i'm on dre beats!  (yeeeah!)
-i get paper! stack paper! blow paper! (aahhhh!)
-make paper! take paper! i'm major! (yeah!)
-i cake up, new jacob, nigga wake up!
-your old straight up! - pay up; or get sprayed up! (whooo!)
-m-o-n-e-y, it's all good with meeee (it's all good with me too, baby!)
-finally i can afford - the life of luxuryyyy. (let's get it! let's get it!)
-and i remember in the daaaay; mama - had to work so haaard (ahh man!)
-just to pay the rent! - all the money spent!
-had to get another job! (and another job!)
-now we're living in a - eight room mansion, hmm-hmm on the hiiill. (we grew up, i blew up!)
-and we sipping on, sippin' on champagne, oooohhh, when we chill, hmmmmm! (rock with me, come on!)
-and we riding - the lex, coupe, beamer! yeeeaahhh; and the benz. (bi'-bi'- big benz!)
-all over the wooooorld from the east to the westcoast,
-we're making eeeeends! (haha!) - see, we do it!
-one for the moneyyyy! (get the money! get the money, yeah!)
-two for the shoow! (it's showtime!)
-three to get the honeyyys!  (whassup baby?)
-here we gooo! (here we go!) - honeyyy...
-one for the moneyyyy! (get the money! get the money!)
-hmmmmm! - two for the shoow! (it's showtime!)
-three to get the honeyyys! (hahaaaa?)
-here we gooo! (here we go!)
-the show it's what we live fooor cause we - love to siiiiing
-we gonna freak you up and down! (hahaaaa!)
-it's how we do our thiiiiiing, (yeah!)
-and to the ladies in the house tonight
-looking flyyyyy you got it right! (lookin' good baby!)
-it's gonna be an after partyyyyy,
-and i've got to have somebody, and take 'em to my
-eight room mansion  - on the hill (wooohooooo!)
-we'll be sipping champaaaagne, sippin' on champagne - when we chiiiill (big money, big money, come on!)
-and we're riiiiding, oohhhhh! the lex, coupe, beamer - and the benz (what we ridin' in!)
-all the players from the east (hahaaaa!) to the westcoast
-we're making ends; oooooohhhhh! this is why we do iiiiiit...
-one for the moneyyyy! (get the money! get the money!)
-two for the shoow! (it's showtime!)
-three to get the honeyyys! (whassup baby?)
-here we gooo! (yeah! go!)  - honeyyy...
-one for the moneyyyy! (get the money, money, money, money!)
-two for the shoow! (yeah!)
-three to get the honeyyys! (take money, money, money!)
-here we gooo!  - hoooowwww we do iiiiit!
-one for the moneyyyy! (get the money, money, money, money!)
-two for the shoow! - till we do iiiiit!
-three to get the honeyyys! (take money, money, money!)
-here we gooo!  - oooooohhhhhh!
-one for the moneyyyy! (big money, money, money, money!)
-two for the shoow! threeeeeeeee, yeeeeeeeeaaaaaaaah!
-three to get the honeyyys! (get money, money, money, money!)
-here we gooo!
-why we siiiiiiiiiiiiiiiing? - why we siiiing? (oh, this is my favorite part!)
-it's the joy it briiiings! - joyyy it briings! (yeah!)
-you know that you like our styyyle
-the reason whyyyyy, yeeeeeeeaaaaah!
-(you gotta hear me when this shit's playin', when i'm in the shower man!)
-the reason why we do what we doooo!
-(you walkin' with me big man!) see we got a love - for the music!
-simple as one - two, three, sing it! (ooooooooohhhhhhh!)
-one for the moneyyyy! (yeah!)
-two for the shoow! - do iiiiit!
-three to get the honeyyys! (yeah!)
-here we gooo! - doooo iiiiiiiit! (you gon' respect this man!)
-one for the moneyyyy! - yes, we do!
-two for the shoow! - ooooooooohhhhhh! (this is that shit right here!)
-three to get the honeyyys!
-here we gooo! - weeeeeeeee dooo it!   {let's go!}
-maaan...
-you gonna be able to play this tape... until i hear this shit comin' outta every car, man!
+(dp1
+Vflyyyyy
+p2
+I1
+sVsprayed
+p3
+I1
+sVooooooooohhhhhhh
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I2
+sVmoney
+p7
+I39
+sVladies
+p8
+I1
+sVfour
+p9
+I1
+sVbring
+p10
+I1
+sVpaper
+p11
+I5
+sVdough
+p12
+I1
+sVgo
+p13
+I7
+sVfollow
+p14
+I1
+sVyes
+p15
+I1
+sVsiiiiiiiiiiiiiiiing
+p16
+I1
+sVblow
+p17
+I1
+sVstyle
+p18
+I1
+sVflash
+p19
+I1
+sVbraaaand
+p20
+I1
+sVooooooooohhhhhh
+p21
+I1
+sVsimple
+p22
+I1
+sVfinally
+p23
+I1
+sVtape
+p24
+I1
+sVsystems
+p25
+I1
+sVsiiiing
+p26
+I1
+sVreason
+p27
+I2
+sVriding
+p28
+I1
+sVoooooohhhhhh
+p29
+I1
+sVeast
+p30
+I3
+sVwooohooooo
+p31
+I1
+sVme
+p32
+I3
+sVgood
+p33
+I3
+sVsomebody
+p34
+I1
+sVaround
+p35
+I1
+sVget
+p36
+I30
+sVgooo
+p37
+I10
+sVpumpin
+p38
+I1
+sVsipping
+p39
+I2
+sVearly
+p40
+I1
+sVbeam
+p41
+I1
+sVmade
+p42
+I1
+sVthumpin
+p43
+I1
+sVknow
+p44
+I1
+sVsouthside
+p45
+I1
+sVjacob
+p46
+I1
+sVstunt
+p47
+I1
+sVwhyyyyy
+p48
+I1
+sVblast
+p49
+I1
+sVlike
+p50
+I1
+sViiiiiit
+p51
+I1
+sVhoneyyy
+p52
+I3
+sV50
+p53
+I4
+sVriiiiding
+p54
+I1
+sVteam
+p55
+I1
+sVhoneyyys
+p56
+I10
+sVluxuryyyy
+p57
+I1
+sVem
+p58
+I1
+sVblew
+p59
+I1
+sVnigga
+p60
+I2
+sVold
+p61
+I1
+sVbentley
+p62
+I1
+sV44s
+p63
+I1
+sVhouse
+p64
+I1
+sVhard
+p65
+I1
+sVrespect
+p66
+I1
+sVback
+p67
+I1
+sVhmmhmm
+p68
+I1
+sVup
+p69
+I2
+sVmansion
+p70
+I2
+sVsee
+p71
+I2
+sVstyyyle
+p72
+I1
+sVhoes
+p73
+I1
+sVplayin
+p74
+I1
+sVwestcoast
+p75
+I2
+sVwhooo
+p76
+I2
+sVliving
+p77
+I1
+sVgon
+p78
+I4
+sVsiiiiing
+p79
+I1
+sViiiiiiiit
+p80
+I1
+sVlean
+p81
+I1
+sVlooking
+p82
+I1
+sVoooohhh
+p83
+I1
+sVhill
+p84
+I1
+sVjoy
+p85
+I1
+sVwhassup
+p86
+I4
+sVnew
+p87
+I5
+sVchampagne
+p88
+I2
+sVcause
+p89
+I1
+sVbibi
+p90
+I1
+sVyeeeeeeeeaaaaaaaah
+p91
+I1
+sVends
+p92
+I1
+sVaahhhh
+p93
+I1
+sVbicostal
+p94
+I1
+sVgot
+p95
+I5
+sVrock
+p96
+I1
+sVridin
+p97
+I1
+sVhere
+p98
+I1
+sVjob
+p99
+I2
+sVbriiiings
+p100
+I1
+sVyeeeah
+p101
+I1
+sVhoooowwww
+p102
+I1
+sVask
+p103
+I1
+sVsing
+p104
+I1
+sVcome
+p105
+I4
+sVevery
+p106
+I1
+sVon
+p107
+I2
+sVfooor
+p108
+I1
+sVoh
+p109
+I1
+sVfavorite
+p110
+I1
+sViiiiit
+p111
+I3
+sVwalkin
+p112
+I1
+sVplayers
+p113
+I1
+sVyeeeeeeeaaaaah
+p114
+I1
+sVlookin
+p115
+I1
+sVthiiiiiing
+p116
+I1
+sVdre
+p117
+I1
+sVking
+p118
+I1
+sVmajor
+p119
+I2
+sVlove
+p120
+I3
+sVfeel
+p121
+I4
+sVahh
+p122
+I1
+sVdaaaay
+p123
+I1
+sVscene
+p124
+I1
+sVpop
+p125
+I1
+sVone
+p126
+I12
+sVlex
+p127
+I2
+sVright
+p128
+I2
+sVanother
+p129
+I2
+sVcomin
+p130
+I1
+sVhear
+p131
+I2
+sVpartyyyyy
+p132
+I1
+sVmaaan
+p133
+I1
+sVmiss
+p134
+I1
+sVhmmmmm
+p135
+I3
+sVguess
+p136
+I3
+sVmeeee
+p137
+I1
+sVchiiiill
+p138
+I1
+sVthreeeeeeeee
+p139
+I1
+sVtwo
+p140
+I12
+sVcent
+p141
+I1
+sVcoupe
+p142
+I2
+sVreppin
+p143
+I1
+sVcali
+p144
+I1
+sVlive
+p145
+I2
+sVdamn
+p146
+I2
+sVway
+p147
+I1
+sVmama
+p148
+I1
+sVmusic
+p149
+I1
+sVgrew
+p150
+I1
+sVshits
+p151
+I1
+sVtell
+p152
+I3
+sVyeeeaahhh
+p153
+I1
+sVoooooohhhhh
+p154
+I1
+sVlife
+p155
+I1
+sVoutta
+p156
+I1
+sVpimpin
+p157
+I1
+sVafford
+p158
+I1
+sVbrand
+p159
+I3
+sVhaha
+p160
+I1
+sVweeeeeeeee
+p161
+I1
+sVreign
+p162
+I1
+sVyeah
+p163
+I13
+sVjus
+p164
+I1
+sVlets
+p165
+I3
+sVwake
+p166
+I1
+sVbaby
+p167
+I6
+sVdooo
+p168
+I1
+sV2pac
+p169
+I1
+sVchill
+p170
+I1
+sVrunnin
+p171
+I1
+sVpull
+p172
+I1
+sVshoow
+p173
+I10
+sVlaser
+p174
+I1
+sVroom
+p175
+I2
+sVkiiiiiiiiiiiiiiiiiiiiiiiiiiiiid
+p176
+I1
+sVcar
+p177
+I1
+sVstraight
+p178
+I1
+sVwork
+p179
+I1
+sVbeats
+p180
+I1
+sVniggaz
+p181
+I1
+sVdoooo
+p182
+I2
+sVshower
+p183
+I1
+sVwooooorld
+p184
+I1
+sVnine
+p185
+I1
+sVthree
+p186
+I12
+sVcake
+p187
+I1
+sVmaking
+p188
+I2
+sVmoneyyyy
+p189
+I10
+sVmy
+p190
+I1
+sVguessin
+p191
+I1
+sVive
+p192
+I1
+sVsupreme
+p193
+I1
+sVfreak
+p194
+I1
+sVshowtime
+p195
+I5
+sVoohhhhh
+p196
+I1
+sVbenz
+p197
+I3
+sVfuck
+p198
+I1
+sVtonight
+p199
+I1
+sVsay
+p200
+I1
+sVim
+p201
+I7
+sVrent
+p202
+I1
+sVeeeeends
+p203
+I1
+sVbriings
+p204
+I1
+sVshit
+p205
+I2
+sVcream
+p206
+I1
+sVsippin
+p207
+I2
+sVpay
+p208
+I2
+sVmake
+p209
+I6
+sVable
+p210
+I1
+sVtill
+p211
+I1
+sVtake
+p212
+I4
+sVbig
+p213
+I5
+sVhahaa
+p214
+I1
+sVplay
+p215
+I1
+sVjoyyy
+p216
+I1
+sVit
+p217
+I2
+sVchampaaaagne
+p218
+I1
+sVeight
+p219
+I2
+sVwhooooooooooooooooooooooo
+p220
+I1
+sVstack
+p221
+I1
+sVman
+p222
+I5
+sVhiiill
+p223
+I1
+sVforever
+p224
+I1
+sVremember
+p225
+I1
+sVta
+p226
+I1
+sVwell
+p227
+I1
+sVspent
+p228
+I1
+sVhaaard
+p229
+I1
+sVpart
+p230
+I1
+sVna
+p231
+I3
+sVhahaaaa
+p232
+I3
+sVfive
+p233
+I1
+sVbeamer
+p234
+I2
+sVdot
+p235
+I1
+s.

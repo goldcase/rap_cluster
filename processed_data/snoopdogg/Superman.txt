@@ -1,37 +1,251 @@
-"superman" lyrics
-snoop dogg lyrics
-"superman"
-(feat. willie nelson, mickey raphael)
-you know snoopy a little while back
-i had one of those, carpal tunnel operations
-and the doctor said "i want you to go home and
-shut up (mm) for four months," annnd that's kinda tough
-i said "i'll try it," but while i was there
-i wrote this song
-too many pain pills, too much pot
-tryin to be somethin that i'm not - superman! superman
-tryin to do more than i can, i got a little outta hand
-i ain't superman - know what i'm talkin 'bout?
-i blew my throat and i blew my tour
-i wound up sippin on soup d'jour - i wasn't superman
-oh no, i wasn't superman
-i'm tryin to do more than i can, i got a little outta hand
-i wasn't superman
-i hear ya! mickey play with us
-...
-yeah, play that mickey, go ahead!
-play it willie!
-yeah... go ahead willie
-well the doctor said son it's a cryin shame
-but you ain't clark kent and i ain't lois lane
-you ain't superman; you ain't superman
-tryin to do more than you can, you got a little outta hand
-you ain't superman - whaddya think snoop?
-well when i die, put it on my stone
-god said snoop you take your bad ass home you wasn't superman
-ha ha ha, no, i wasn't superman
-i'm tryin to do more than i can, i got a little outta hand
-i wasn't superman (i hear ya!)
-tryin to do more than i can, i got a little outta hand
-i ain't superman
-yeahhh!
+(dp1
+Vmickey
+p2
+I3
+sVoperations
+p3
+I1
+sVblew
+p4
+I2
+sVtough
+p5
+I1
+sVkinda
+p6
+I1
+sVlyrics
+p7
+I2
+sVwasnt
+p8
+I6
+sVpot
+p9
+I1
+sVcarpal
+p10
+I1
+sVback
+p11
+I1
+sVlois
+p12
+I1
+sVone
+p13
+I1
+sVfour
+p14
+I1
+sVthroat
+p15
+I1
+sVim
+p16
+I4
+sVwant
+p17
+I1
+sVgo
+p18
+I3
+sVhome
+p19
+I2
+sVoutta
+p20
+I5
+sVfeat
+p21
+I1
+sVpills
+p22
+I1
+sVsuperman
+p23
+I15
+sVaint
+p24
+I7
+sVtry
+p25
+I1
+sVlittle
+p26
+I6
+sVsaid
+p27
+I4
+sVclark
+p28
+I1
+sVsnoop
+p29
+I3
+sVdoctor
+p30
+I2
+sVdogg
+p31
+I1
+sVha
+p32
+I3
+sVthere
+p33
+I1
+sVwound
+p34
+I1
+sVwhaddya
+p35
+I1
+sVshame
+p36
+I1
+sVmuch
+p37
+I1
+sVtake
+p38
+I1
+sVkent
+p39
+I1
+sVyeahhh
+p40
+I1
+sVgot
+p41
+I5
+sVbout
+p42
+I1
+sVtryin
+p43
+I6
+sVwillie
+p44
+I3
+sVtalkin
+p45
+I1
+sVannnd
+p46
+I1
+sVass
+p47
+I1
+sVshut
+p48
+I1
+sVpain
+p49
+I1
+sVgod
+p50
+I1
+sVsong
+p51
+I1
+sVya
+p52
+I2
+sVput
+p53
+I1
+sVstone
+p54
+I1
+sVhand
+p55
+I5
+sVsoup
+p56
+I1
+sVsippin
+p57
+I1
+sVhear
+p58
+I2
+sVknow
+p59
+I2
+sVsnoopy
+p60
+I1
+sVcryin
+p61
+I1
+sVson
+p62
+I1
+sVdjour
+p63
+I1
+sVplay
+p64
+I3
+sVsomethin
+p65
+I1
+sVlane
+p66
+I1
+sVahead
+p67
+I2
+sVoh
+p68
+I1
+sVtunnel
+p69
+I1
+sVmany
+p70
+I1
+sVill
+p71
+I1
+sVmonths
+p72
+I1
+sVwell
+p73
+I2
+sVyeah
+p74
+I2
+sVus
+p75
+I1
+sVraphael
+p76
+I1
+sVmm
+p77
+I1
+sVtour
+p78
+I1
+sVnelson
+p79
+I1
+sVdie
+p80
+I1
+sVbad
+p81
+I1
+sVthink
+p82
+I1
+sVwrote
+p83
+I1
+sVthats
+p84
+I1
+s.

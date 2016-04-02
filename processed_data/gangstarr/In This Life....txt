@@ -1,71 +1,608 @@
-"in this life..." lyrics
-gang starr lyrics
-"in this life..."
-(feat. snoop dogg, uncle reo)
-word up
-aiyyo rome' (yo)
-yo life ain't what it's cracked up to be these days, y'knahmean?
-word!  knahmsayin?
-life hard out this muh'fucker, y'knahmsayin?
-so you gotta make the best of a bad situation, and hold your head
-knahmsayin?  you gotta progress through the struggle man
-in this life.. (ohhh, this life)
-"you better wake up"
-in this life.. (talkin bout this life)
-"r-r-remember this"
-in this life.. (whoah-ohhh)
-"s-s-survival of the fittest"
-in this life..
-"i go all out" - "y'knahmsayin?"
-from new york to cali it remains the same
-bitch niggaz always wanna go against the grain
-the strong will survive, the weak shall perish
-y'all need more courage, i keep y'all nourished
-get in line, i let you know right now
-you need to slow right down or you get blown right now
-from what i see it's systematic how we push to addicts
-demographics make the street life hell or drastic
-in the hood we see oppressive genocide
-cause if it's on it's on, you know at least 10 men'll ride
-but on the other side, corruption runs deep
-i'm aware of the conspiricies, discussion is brief
-they're building more prisons, spendin less on schools
-on the block smith & wess-ons and teflons rule
-it's hard to escape it, certain laws are sacred
-in this life my nigga, it's mad hard to make it
-in this life..
-money is key
-and everybody you see ain't what they claim to be
-in this life..
-i try to do right
-i live a treacherous life, i know i ain't right, mm
-in this life..
-you got to keep on
-you got to be strong, you got to hold on
-in this life, heh, i come in peace
-but still yo, i come from the streets
-this one's for my sons and my lil' daughter
-peace to jmj and my nigga headquarters
-a (gangstarr) with a gangster, on a mission
-world (premier), limited edition
-my mind keeps driftin cause i haven't had a spliff in
-a long time, i'm doin fine, i feel teriffic
-i bop up the street, c-walk to the beat
-it's cold outdoors, so i got to keep some heat
-i never know when a cutthroat gon' try to test me
-disrespect me, things could get messy
-yes he, shoot a good game, like james
-i mean jesse, watch out nigga, heavens to betsies
-the big drum beater
-with a car full of heaters and some fly senoritas
-in some stacy's or some chucks, cause i gotsta keep it g'd up
-run up on the dogg man you bound to get beat up
-in this life.. (ohhh, this life, i'm tryin to make it better)
-"you better wake up"
-in this life.. (i won't have to struggle no mo', no i won't)
-"r-r-remember this"
-in this life.. (ohhh, this life, this life)
-"s-s-survival of the fittest"
-in this life.. (tryin to make it better, yes i am)
-ooooohhh, talkin bout this life
-whoahhhohhhhhhhhhh, this life, this life..
+(dp1
+Vlimited
+p2
+I1
+sVstacys
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVmoney
+p6
+I1
+sVmission
+p7
+I1
+sVgd
+p8
+I1
+sVgang
+p9
+I1
+sVgo
+p10
+I2
+sVhell
+p11
+I1
+sVcold
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVheavens
+p15
+I1
+sVaint
+p16
+I3
+sVslow
+p17
+I1
+sVsmith
+p18
+I1
+sVsons
+p19
+I1
+sVbetter
+p20
+I4
+sVrrremember
+p21
+I2
+sVteflons
+p22
+I1
+sVohhh
+p23
+I3
+sVbout
+p24
+I2
+sVta
+p25
+I2
+sVshoot
+p26
+I1
+sVgood
+p27
+I1
+sVyo
+p28
+I3
+sVget
+p29
+I4
+sVbeat
+p30
+I2
+sVbig
+p31
+I1
+sVdemographics
+p32
+I1
+sVwatch
+p33
+I1
+sVaddicts
+p34
+I1
+sVgame
+p35
+I1
+sVcourage
+p36
+I1
+sVknow
+p37
+I4
+sVnourished
+p38
+I1
+sVgot
+p39
+I6
+sVschools
+p40
+I1
+sVworld
+p41
+I1
+sVnow
+p42
+I2
+sVwont
+p43
+I2
+sVruns
+p44
+I1
+sVlike
+p45
+I1
+sVthings
+p46
+I1
+sValways
+p47
+I1
+sVtheyre
+p48
+I1
+sVtry
+p49
+I2
+sVmm
+p50
+I1
+sVbad
+p51
+I1
+sVjames
+p52
+I1
+sVhavent
+p53
+I1
+sVwhoahhhohhhhhhhhhh
+p54
+I1
+sVside
+p55
+I1
+sVyall
+p56
+I2
+sVmean
+p57
+I1
+sVright
+p58
+I5
+sVgrain
+p59
+I1
+sVhard
+p60
+I3
+sVtreacherous
+p61
+I1
+sVgangster
+p62
+I1
+sVsee
+p63
+I3
+sVstreet
+p64
+I2
+sVescape
+p65
+I1
+sVyknahmean
+p66
+I1
+sVyes
+p67
+I2
+sVbest
+p68
+I1
+sVheaters
+p69
+I1
+sVgon
+p70
+I1
+sVprisons
+p71
+I1
+sVfine
+p72
+I1
+sVspendin
+p73
+I1
+sVbrief
+p74
+I1
+sVreo
+p75
+I1
+sVbeater
+p76
+I1
+sVit
+p77
+I1
+sVprogress
+p78
+I1
+sVcause
+p79
+I3
+sVcorruption
+p80
+I1
+sVbe
+p81
+I1
+sVfull
+p82
+I1
+sVrun
+p83
+I1
+sVperish
+p84
+I1
+sVyknahmsayin
+p85
+I2
+sVnever
+p86
+I1
+sVweak
+p87
+I1
+sVdisrespect
+p88
+I1
+sVlet
+p89
+I1
+sVstruggle
+p90
+I2
+sVkey
+p91
+I1
+sVcwalk
+p92
+I1
+sVstrong
+p93
+I2
+sVcome
+p94
+I2
+sVon
+p95
+I2
+sVdaughter
+p96
+I1
+sVbop
+p97
+I1
+sVcould
+p98
+I1
+sVdays
+p99
+I1
+sVkeep
+p100
+I4
+sVgenocide
+p101
+I1
+sVknahmsayin
+p102
+I2
+sVteriffic
+p103
+I1
+sVblock
+p104
+I1
+sVyork
+p105
+I1
+sVspliff
+p106
+I1
+sVblown
+p107
+I1
+sVfeel
+p108
+I1
+sVbound
+p109
+I1
+sVnigga
+p110
+I3
+sVbitch
+p111
+I1
+sVsenoritas
+p112
+I1
+sVhood
+p113
+I1
+sVeverybody
+p114
+I1
+sVwan
+p115
+I1
+sVlong
+p116
+I1
+sVsnoop
+p117
+I1
+sVremains
+p118
+I1
+sVdogg
+p119
+I2
+sVleast
+p120
+I1
+sVcali
+p121
+I1
+sVlive
+p122
+I1
+sVstarr
+p123
+I1
+sVsurvive
+p124
+I1
+sVtryin
+p125
+I2
+sVheh
+p126
+I1
+sVhead
+p127
+I1
+sVstreets
+p128
+I1
+sVgotsta
+p129
+I1
+sVam
+p130
+I1
+sVchucks
+p131
+I1
+sVaware
+p132
+I1
+sVjmj
+p133
+I1
+sVheat
+p134
+I1
+sVwake
+p135
+I2
+sVsystematic
+p136
+I1
+sVdrum
+p137
+I1
+sVline
+p138
+I1
+sVhold
+p139
+I2
+sVme
+p140
+I1
+sV10
+p141
+I1
+sVwessons
+p142
+I1
+sVword
+p143
+I2
+sVedition
+p144
+I1
+sVthis
+p145
+I2
+sVcar
+p146
+I1
+sVride
+p147
+I1
+sVup
+p148
+I5
+sVniggaz
+p149
+I1
+sVoutdoors
+p150
+I1
+sVsituation
+p151
+I1
+sVcracked
+p152
+I1
+sVdriftin
+p153
+I1
+sVmo
+p154
+I1
+sVclaim
+p155
+I1
+sVcertain
+p156
+I1
+sVpremier
+p157
+I1
+sVmind
+p158
+I1
+sVlife
+p159
+I27
+sVdeep
+p160
+I1
+sVfly
+p161
+I1
+sVwhoahohhh
+p162
+I1
+sVim
+p163
+I3
+sVin
+p164
+I1
+sVneed
+p165
+I2
+sVmessy
+p166
+I1
+sVjesse
+p167
+I1
+sVones
+p168
+I1
+sVlil
+p169
+I1
+sVna
+p170
+I1
+sVmake
+p171
+I5
+sVpeace
+p172
+I2
+sVsame
+p173
+I1
+sVgangstarr
+p174
+I1
+sVsacred
+p175
+I1
+sVcutthroat
+p176
+I1
+sVtest
+p177
+I1
+sVnew
+p178
+I1
+sVtalkin
+p179
+I2
+sVsssurvival
+p180
+I2
+sVoppressive
+p181
+I1
+sVshall
+p182
+I1
+sVdoin
+p183
+I1
+sVtime
+p184
+I1
+sVconspiricies
+p185
+I1
+sVaiyyo
+p186
+I1
+sVmad
+p187
+I1
+sVmuhfucker
+p188
+I1
+sVdrastic
+p189
+I1
+sVbetsies
+p190
+I1
+sVman
+p191
+I2
+sVbuilding
+p192
+I1
+sVheadquarters
+p193
+I1
+sVrule
+p194
+I1
+sVooooohhh
+p195
+I1
+sVrome
+p196
+I1
+sVmenll
+p197
+I1
+sVkeeps
+p198
+I1
+sVpush
+p199
+I1
+sVuncle
+p200
+I1
+sVdiscussion
+p201
+I1
+sVfittest
+p202
+I2
+sVlaws
+p203
+I1
+s.

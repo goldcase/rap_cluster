@@ -1,64 +1,424 @@
-"we both think alike" lyrics
-50 cent lyrics
-"we both think alike"
-(feat. olivia)
-yeah..
-50..
-olivia..
-we both think alike.. (we both think alike)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
-i'm not gon' waste your time talkin' about shit that you know
-i'm so hood that even when i try to hide it, it shows
-i be grindin' girl i'm focused i be gettin' my dough
-you know if it aint the flow then it come from the o's
-plus a nigga like a pimp when it come to the hoes
-every hood every city all the gangstaz know
-front on me and you be gettin' hit up fo sho
-i make it hot when its 20 motherfuckin' below
-see with me in v.i.p you can twist and blow
-when the champagne finished baby order some more
-keep her eye on ya close while you out on the floor
-the way you move i have a nigga straight sniffin' some ??smoke??
-if you ready to roll shorty we could just roll
-when you ready to go i be ready to go (uh oh)
-see everything i do, i do on the low (uh oh)
-so when we do our thing nobody will know (uh oh)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
-now look i know you into the shiny things
-the platinum chains and the diamond rings
-the 24 inch chrome on the range
-i see you in your projects buy your window payin'
-now shorty me and you we came up the same
-the fact before rap i ain't have a thing
-i hustled got my weed up now im sittin' on change
-i mean i got money out that ass mayne
-when niggaz get to beefin' i be laffin'
-cuz i can send my homiez through to blast 'um
-stick him with the ?? or just slash 'um
-now fool are you crazy thats what we ask 'um
-but back with me n you, you shorty decide a thang
-first its off with the bra then its the g-string (uh oh)
-we leave it up to me then we do it my way (uh oh)
-and get straight to it skip the four play (uh oh)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
-now shorty we can party till' the break of dawn (we both think alike, oohhhh)
-i wait till ya tired n i take ya home (we both think alike, uh oh)
-if ya invite me in i come take it off (we both think alike, uh oh)
-then wait till' your bedroom to break ya off (we both think alike, uh oh)
+(dp1
+Vbeefin
+p2
+I1
+sVlyrics
+p3
+I2
+sVhustled
+p4
+I1
+sVrings
+p5
+I1
+sVmove
+p6
+I1
+sVfour
+p7
+I1
+sVdough
+p8
+I1
+sVbedroom
+p9
+I6
+sVgo
+p10
+I2
+sVfeat
+p11
+I1
+sVblow
+p12
+I1
+sV20
+p13
+I1
+sVthang
+p14
+I1
+sVcuz
+p15
+I1
+sVsend
+p16
+I1
+sVwindow
+p17
+I1
+sVmoney
+p18
+I1
+sVhomiez
+p19
+I1
+sVtake
+p20
+I12
+sVfool
+p21
+I1
+sVhit
+p22
+I1
+sVget
+p23
+I2
+sVya
+p24
+I25
+sVsittin
+p25
+I1
+sVbreak
+p26
+I12
+sVolivia
+p27
+I2
+sVknow
+p28
+I5
+sVdecide
+p29
+I1
+sV24
+p30
+I1
+sVfront
+p31
+I1
+sVblast
+p32
+I1
+sVprojects
+p33
+I1
+sVlike
+p34
+I1
+sVpimp
+p35
+I1
+sVgettin
+p36
+I2
+sV50
+p37
+I2
+sVroll
+p38
+I2
+sVtry
+p39
+I1
+sVsho
+p40
+I1
+sVnigga
+p41
+I2
+sVtired
+p42
+I6
+sVyeah
+p43
+I1
+sVsee
+p44
+I3
+sVniggaz
+p45
+I1
+sVhoes
+p46
+I1
+sVclose
+p47
+I1
+sVdawn
+p48
+I6
+sVeven
+p49
+I1
+sVleave
+p50
+I1
+sVgon
+p51
+I1
+sVhide
+p52
+I1
+sVgrindin
+p53
+I1
+sVeverything
+p54
+I1
+sVbra
+p55
+I1
+sVslash
+p56
+I1
+sVgot
+p57
+I2
+sVchampagne
+p58
+I1
+sVchains
+p59
+I1
+sVshows
+p60
+I1
+sVass
+p61
+I1
+sVaint
+p62
+I2
+sVmayne
+p63
+I1
+sVfocused
+p64
+I1
+sVask
+p65
+I1
+sVeye
+p66
+I1
+sVcome
+p67
+I8
+sVchange
+p68
+I1
+sVwait
+p69
+I12
+sVoh
+p70
+I24
+sVcould
+p71
+I1
+sVkeep
+p72
+I1
+sVthing
+p73
+I2
+sVsniffin
+p74
+I1
+sVplus
+p75
+I1
+sVsmoke
+p76
+I1
+sVmean
+p77
+I1
+sVos
+p78
+I1
+sVthink
+p79
+I28
+sVthats
+p80
+I1
+sVvip
+p81
+I1
+sVhood
+p82
+I2
+sVplatinum
+p83
+I1
+sVcity
+p84
+I1
+sVoohhhh
+p85
+I6
+sVchrome
+p86
+I1
+sVcent
+p87
+I1
+sVlow
+p88
+I1
+sVway
+p89
+I2
+sVwaste
+p90
+I1
+sVmore
+p91
+I1
+sVdiamond
+p92
+I1
+sVinvite
+p93
+I6
+sVnobody
+p94
+I1
+sVshorty
+p95
+I9
+sVback
+p96
+I1
+sVfinished
+p97
+I1
+sVskip
+p98
+I1
+sVstick
+p99
+I1
+sVbaby
+p100
+I1
+sVgstring
+p101
+I1
+sVlook
+p102
+I1
+sVstraight
+p103
+I2
+sVpayin
+p104
+I1
+sVn
+I7
+sVum
+p105
+I3
+sVbelow
+p106
+I1
+sVuh
+p107
+I24
+sVcrazy
+p108
+I1
+sVgangstaz
+p109
+I1
+sVtwist
+p110
+I1
+sVbuy
+p111
+I1
+sVim
+p112
+I4
+sValike
+p113
+I28
+sVrap
+p114
+I1
+sVhome
+p115
+I6
+sVready
+p116
+I3
+sVgirl
+p117
+I1
+sVshit
+p118
+I1
+sVfloor
+p119
+I1
+sVthings
+p120
+I1
+sVmake
+p121
+I1
+sVrange
+p122
+I1
+sVsame
+p123
+I1
+sVtill
+p124
+I18
+sVhot
+p125
+I1
+sVmotherfuckin
+p126
+I1
+sVinch
+p127
+I1
+sVparty
+p128
+I6
+sVtalkin
+p129
+I1
+sVplay
+p130
+I1
+sVweed
+p131
+I1
+sVfo
+p132
+I1
+sVshiny
+p133
+I1
+sVflow
+p134
+I1
+sVlaffin
+p135
+I1
+sVfact
+p136
+I1
+sVtime
+p137
+I1
+sVevery
+p138
+I2
+sVfirst
+p139
+I1
+sVorder
+p140
+I1
+sVcame
+p141
+I1
+s.

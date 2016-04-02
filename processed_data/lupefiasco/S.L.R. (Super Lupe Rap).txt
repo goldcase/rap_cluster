@@ -1,113 +1,1008 @@
-"s.l.r. (super lupe rap)" lyrics
-lupe fiasco lyrics
-"s.l.r. (super lupe rap)"
-i said think about your future
-you can't do that tomorrow
-but you don't hear a word, you see that slr
-o' ye tormented souls
-my goal is to sit on the globe like north poles
-and that's the top mane; goin' hammer like a glock can
-all flowing grammar; no shots strayin'
-i'm so sober when i speak
-i call it catchin' bullets with my teeth
-you can feel it in your chest
-like bruce lee jumpin' on your vest
-but i can't feel yours through my superman "s"
-yes, i'm superman'd-out
-red cartier look like superman's house
-inshallah to my plan hope it super pans out
-my life is like italians doin' 100 miles
-and the top open like the roofer ran outta tiles
-walk right into felipe's when i ran outta chow's
-next up is crustaceans and fast food halals
-the beef is all the same, it's just how they kill the cows
-somebody tell malcom x that i'm tryna steal his style
-and tell cornell west that i'm tryna steal his fro
-go back in time, take the slaves plows, shovels, and they hoes
-the masters get the "it was written" intro
-slr 10-4
-slr 10-4
-soundtrakk let the beat go
-soundtrakk let the beat roll
-in this world i'm so alone
-in a category all on my own
-cause i tell the world what i want to
-yeah i tell the world what i want to
-man i feel so alone
-they treat me like an outcast
-cause i tell the world what i want to
-but you can't tell me what you gon' do
-'cause nigga i don't believe that
-like 9/11 came from iraq
-mayweather on the speed bag
-automatic weapons keep the same rhythm he has
-that's how the hood sound
-grew up in the hood town
-west side ghetto, windy city cook count'
-black skies lookin' up, crack pipes lookin' down
-accused of not lookin' back, blind nigga look around
-city on my back, so the chi go everywhere i'm at
-presence so shiny, mercedes so matte
-cop that from platinum, the color of my plaque
-i memorize colors off of yo! mtv raps
-a nightmare walkin' in a psychopath's nap
-defeat your purpose like a weed stash in the rehab
-guess who's sneakin' in the weed bags
-they be me with my mean ass
-not tryna be anything but free as
-flow is so nuts, the track is getting' teabagged
-just wanna rap nice, that ain't me tagged
-if you wanna be mean, then you wanna be me bad
-call it bein' pretty lyrically swag
-soulja call it super lupe lyrical
-you can't understand me nor mimic my miracles
-all i see is me and im a mother lovin' mirror full
-bein' dope is all in the muscle
-it's more than just a pause and a chuckle
-i bench press elephants, and bowlin' ball juggle
-so dont be scared to take the super lu route
-top 5 alive and i only got 2 out!
-school ya on your history, i tell ya what you 'bout
-fight for all the right things and let the huey new out
-pharrell what these niggas talkin' bout?
-two man big pun, a one man slaughterhouse
-a two album jay-z, a one nigga wu-tang
-young and hungry mos def, a conscious rappin' lil wayne
-i don't care for similarities
-cause i'm a pioneer, not a parody
-these aint bars, this is barbarity
-slr... clarity
-in this world i'm so alone
-in a category all on my own
-'cause i tell the world what i want to
-yeah i tell the world what i want to
-man i feel so alone
-they treat me like an outcast
-cause i tell the world what i want to
-but you can't tell me what you gon' do
-holy shock and awe, cattle prods
-all up in the action with a fraction of the catalog
-of my peers, i ain't doin' numbers like amazon
-but i'm here, and i'm revered
-lyric boy, based king, master chef, all city chess moves makin' donnie diggy crs fool
-carrera era, pan amera, f-tool, emperor, free chilly nigga, fnf rules
-'ye, what these niggas talkin' bout?
-a jesus in the desert walkin', dundee walkabout
-a self imposed exile, learn to let the awesome out
-even if i was homeless i would still have an awesome house
-cause the world is mine, lupe to the rescue, the world is fine
-words and lines of mine, i feel are better than every rapper in the world combined!
-and that's how you do it
-everything flow, everything fluid
-stupid with the raps, but the raps never stupid
-trakk on the music, slr ruthless
-and the next whip is that ferrari cart
-game over - body parts
-in this world i'm so alone
-in a category all on my own
-cause i tell the world what i want to
-yeah i tell the world what i want to
-man i feel so alone
-they treat me like an outcast
-cause i tell the world what i want to
-but you can't tell me what you gon' do
+(dp1
+Vpans
+p2
+I1
+sVmiracles
+p3
+I1
+sVtagged
+p4
+I1
+sVswag
+p5
+I1
+sVlyrics
+p6
+I2
+sVya
+p7
+I2
+sVsouls
+p8
+I1
+sVcarrera
+p9
+I1
+sVpress
+p10
+I1
+sVwindy
+p11
+I1
+sVkill
+p12
+I1
+sVprods
+p13
+I1
+sVgo
+p14
+I3
+sVyes
+p15
+I1
+sVstill
+p16
+I1
+sVspeed
+p17
+I1
+sVrescue
+p18
+I1
+sVaint
+p19
+I3
+sVstyle
+p20
+I1
+sVpause
+p21
+I1
+sVbased
+p22
+I1
+sVscared
+p23
+I1
+sVmother
+p24
+I1
+sVcornell
+p25
+I1
+sVsimilarities
+p26
+I1
+sVnap
+p27
+I1
+sVfluid
+p28
+I1
+sVbench
+p29
+I1
+sVbetter
+p30
+I1
+sVto
+p31
+I9
+sVlu
+p32
+I1
+sVblack
+p33
+I1
+sVrhythm
+p34
+I1
+sVcrack
+p35
+I1
+sVtormented
+p36
+I1
+sVbout
+p37
+I3
+sVshovels
+p38
+I1
+sVwalkabout
+p39
+I1
+sVhope
+p40
+I1
+sVchess
+p41
+I1
+sVfool
+p42
+I1
+sVdo
+p43
+I3
+sVtiles
+p44
+I1
+sVsomebody
+p45
+I1
+sVaround
+p46
+I1
+sVyo
+p47
+I1
+sVget
+p48
+I1
+sVfood
+p49
+I1
+sVcrustaceans
+p50
+I1
+sVbein
+p51
+I2
+sVskies
+p52
+I1
+sVye
+p53
+I2
+sVschool
+p54
+I1
+sVsoulja
+p55
+I1
+sVlovin
+p56
+I1
+sVamazon
+p57
+I1
+sVgrew
+p58
+I1
+sVevery
+p59
+I1
+sVwords
+p60
+I1
+sVnew
+p61
+I1
+sVcook
+p62
+I1
+sVworld
+p63
+I15
+sVone
+p64
+I2
+sVrapper
+p65
+I1
+sVcolor
+p66
+I1
+sVghetto
+p67
+I1
+sVcrs
+p68
+I1
+sVmasters
+p69
+I1
+sVgrammar
+p70
+I1
+sVlike
+p71
+I12
+sVeven
+p72
+I1
+sV911
+p73
+I1
+sVniggas
+p74
+I2
+sVrevered
+p75
+I1
+sVcolors
+p76
+I1
+sVtalkin
+p77
+I2
+sVbag
+p78
+I1
+sVbad
+p79
+I1
+sVmiles
+p80
+I1
+sVshots
+p81
+I1
+sVwhip
+p82
+I1
+sVmercedes
+p83
+I1
+sVx
+I1
+sVnice
+p84
+I1
+sVsteal
+p85
+I2
+sVside
+p86
+I1
+sVmean
+p87
+I2
+sVbody
+p88
+I1
+sVbars
+p89
+I1
+sVright
+p90
+I2
+sVplows
+p91
+I1
+sVhomeless
+p92
+I1
+sVelephants
+p93
+I1
+sVunderstand
+p94
+I1
+sVstrayin
+p95
+I1
+sVglobe
+p96
+I1
+sVpsychopaths
+p97
+I1
+sVback
+p98
+I3
+sValive
+p99
+I1
+sVself
+p100
+I1
+sVchef
+p101
+I1
+sVsee
+p102
+I2
+sVaccused
+p103
+I1
+sVdope
+p104
+I1
+sVhoes
+p105
+I1
+sVhammer
+p106
+I1
+sVchuckle
+p107
+I1
+sVhalals
+p108
+I1
+sVcategory
+p109
+I3
+sVwayne
+p110
+I1
+sVsaid
+p111
+I1
+sVnigga
+p112
+I4
+sVlearn
+p113
+I1
+sVruthless
+p114
+I1
+sVfine
+p115
+I1
+sVpipes
+p116
+I1
+sVinshallah
+p117
+I1
+sVftool
+p118
+I1
+sVlyric
+p119
+I1
+sVdundee
+p120
+I1
+sVweapons
+p121
+I1
+sVtrack
+p122
+I1
+sVwritten
+p123
+I1
+sVstupid
+p124
+I2
+sVpoles
+p125
+I1
+sVflowing
+p126
+I1
+sVit
+p127
+I1
+sVgot
+p128
+I1
+sVjuggle
+p129
+I1
+sVcause
+p130
+I9
+sVnumbers
+p131
+I1
+sVred
+p132
+I1
+sVera
+p133
+I1
+sVass
+p134
+I1
+sVfight
+p135
+I1
+sVpun
+p136
+I1
+sVfull
+p137
+I1
+sVlee
+p138
+I1
+sVwan
+p139
+I3
+sVlupe
+p140
+I5
+sVsupermandout
+p141
+I1
+sVguess
+p142
+I1
+sVfree
+p143
+I2
+sVbarbarity
+p144
+I1
+sVlet
+p145
+I4
+sVcart
+p146
+I1
+sVlyrically
+p147
+I1
+sValone
+p148
+I6
+sV100
+p149
+I1
+sViraq
+p150
+I1
+sVsuper
+p151
+I5
+sVlyrical
+p152
+I1
+sV104
+p153
+I2
+sVcare
+p154
+I1
+sVcop
+p155
+I1
+sVwould
+p156
+I1
+sVanything
+p157
+I1
+sVgetting
+p158
+I1
+sVmos
+p159
+I1
+sVautomatic
+p160
+I1
+sVroute
+p161
+I1
+sVcount
+p162
+I1
+sVo
+I1
+sVkeep
+p163
+I1
+sVwalkin
+p164
+I2
+sVchilly
+p165
+I1
+sVs
+I1
+sVcartier
+p166
+I1
+sVlookin
+p167
+I3
+sVchi
+p168
+I1
+sVaction
+p169
+I1
+sVslaughterhouse
+p170
+I1
+sVemperor
+p171
+I1
+sVshiny
+p172
+I1
+sVthink
+p173
+I1
+sVsupermans
+p174
+I1
+sVblind
+p175
+I1
+sVrappin
+p176
+I1
+sVown
+p177
+I3
+sVdont
+p178
+I4
+sVpresence
+p179
+I1
+sVfeel
+p180
+I6
+sVdonnie
+p181
+I1
+sVmakin
+p182
+I1
+sVwalk
+p183
+I1
+sVdown
+p184
+I1
+sVmatte
+p185
+I1
+sVitalians
+p186
+I1
+sVmaster
+p187
+I1
+sVteabagged
+p188
+I1
+sVshock
+p189
+I1
+sVsober
+p190
+I1
+sVcattle
+p191
+I1
+sVwhos
+p192
+I1
+sVopen
+p193
+I1
+sVtomorrow
+p194
+I1
+sVhood
+p195
+I2
+sVspeak
+p196
+I1
+sVplatinum
+p197
+I1
+sVcity
+p198
+I3
+sVdefeat
+p199
+I1
+sVroofer
+p200
+I1
+sVbeef
+p201
+I1
+sVmalcom
+p202
+I1
+sVwest
+p203
+I2
+sVtop
+p204
+I3
+sVfro
+p205
+I1
+sVtwo
+p206
+I2
+sVfast
+p207
+I1
+sVnext
+p208
+I2
+sVraps
+p209
+I3
+sV2
+I1
+sVcall
+p210
+I3
+sVtreat
+p211
+I3
+sVfraction
+p212
+I1
+sVhouse
+p213
+I2
+sVpioneer
+p214
+I1
+sVman
+p215
+I5
+sVtell
+p216
+I15
+sVcombined
+p217
+I1
+sVtryna
+p218
+I3
+sVlife
+p219
+I1
+sVglock
+p220
+I1
+sVnorth
+p221
+I1
+sVpretty
+p222
+I1
+sVholy
+p223
+I1
+sVthat
+p224
+I1
+sVclarity
+p225
+I1
+sVjayz
+p226
+I1
+sVyeah
+p227
+I3
+sVfelipes
+p228
+I1
+sVcatchin
+p229
+I1
+sVhear
+p230
+I1
+sVamera
+p231
+I1
+sVbelieve
+p232
+I1
+sVsound
+p233
+I1
+sVking
+p234
+I1
+sVhas
+p235
+I1
+sVword
+p236
+I1
+sVlook
+p237
+I2
+sVpharrell
+p238
+I1
+sVthings
+p239
+I1
+sVboy
+p240
+I1
+sVconscious
+p241
+I1
+sVmtv
+p242
+I1
+sVas
+p243
+I1
+sVslr
+p244
+I7
+sVrehab
+p245
+I1
+sVgame
+p246
+I1
+sVfuture
+p247
+I1
+sVcan
+p248
+I1
+sVyoung
+p249
+I1
+sVjesus
+p250
+I1
+sVdef
+p251
+I1
+sVhistory
+p252
+I1
+sVvest
+p253
+I1
+sVoutta
+p254
+I2
+sVwant
+p255
+I9
+sVran
+p256
+I2
+sVlines
+p257
+I1
+sVawesome
+p258
+I2
+sVmirror
+p259
+I1
+sVmine
+p260
+I2
+sVexile
+p261
+I1
+sVcant
+p262
+I6
+sVintro
+p263
+I1
+sVim
+p264
+I12
+sVat
+p265
+I1
+sVrap
+p266
+I3
+sVcows
+p267
+I1
+sVwutang
+p268
+I1
+sVbowlin
+p269
+I1
+sVmusic
+p270
+I1
+sVsuperman
+p271
+I1
+sVbags
+p272
+I1
+sVmoves
+p273
+I1
+sVgoal
+p274
+I1
+sVmemorize
+p275
+I1
+sVsit
+p276
+I1
+sVlil
+p277
+I1
+sVna
+p278
+I3
+sVpurpose
+p279
+I1
+sVnuts
+p280
+I1
+sVbeat
+p281
+I2
+sVchest
+p282
+I1
+sVparts
+p283
+I1
+sV5
+I1
+sVtake
+p284
+I2
+sVbig
+p285
+I1
+sVsneakin
+p286
+I1
+sVout
+p287
+I4
+sVroll
+p288
+I1
+sVpan
+p289
+I1
+sVmane
+p290
+I1
+sValbum
+p291
+I1
+sVball
+p292
+I1
+sVtime
+p293
+I1
+sVimposed
+p294
+I1
+sVdiggy
+p295
+I1
+sVbruce
+p296
+I1
+sVdoin
+p297
+I2
+sVfiasco
+p298
+I1
+sVoutcast
+p299
+I3
+sVweed
+p300
+I2
+sVtrakk
+p301
+I1
+sVtown
+p302
+I1
+sVcatalog
+p303
+I1
+sVgon
+p304
+I3
+sVbullets
+p305
+I1
+sVplan
+p306
+I1
+sVnever
+p307
+I1
+sVjumpin
+p308
+I1
+sVawe
+p309
+I1
+sVdesert
+p310
+I1
+sVgoin
+p311
+I1
+sVpeers
+p312
+I1
+sVmuscle
+p313
+I1
+sVmayweather
+p314
+I1
+sVrules
+p315
+I1
+sVfnf
+p316
+I1
+sVhuey
+p317
+I1
+sVflow
+p318
+I2
+sVhungry
+p319
+I1
+sVstash
+p320
+I1
+sVchows
+p321
+I1
+sVmimic
+p322
+I1
+sVferrari
+p323
+I1
+sVplaque
+p324
+I1
+sVslaves
+p325
+I1
+sVteeth
+p326
+I1
+sVsoundtrakk
+p327
+I2
+sVeverywhere
+p328
+I1
+sVeverything
+p329
+I2
+sVthats
+p330
+I3
+sVnightmare
+p331
+I1
+sVcame
+p332
+I1
+sVparody
+p333
+I1
+s.

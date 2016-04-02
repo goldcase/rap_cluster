@@ -1,90 +1,827 @@
-"neva broke" lyrics
-e-40 lyrics
-"neva broke"
-hey, what's up my nigga
-check this out you been listenin' for awhile
-why don't you tell these niggas
-what they really thinkin' about
-when be wrappin' this mail
-turn my mail, i talk to rappers when i touch down
-i'ma go by me a check with my bitches welfare check
-and if i hurt her feelings who gives a fuck
-i'm out for myself, bout to make me a smooth cover
-i keep it on the under in a closet on the hush hush
-on my way to victories downtown surplus
-to get a blend aqua windbreaker
-to match blue latchin' vendeta
-scadalism, that's what i'm majorin' in
-yeah, murderism i'm doin' niggas in
-so give up the ghost my nigga
-remember me, i used to be your main nigga
-but fuck ya, i'm jealous and i hate ya fuckin' guts
-i got it in me cause ya clockin' do-do bucks
-break yourself, makin' quarters, ladies rings, chains
-i'll take that cartridge out and set it on the range
-prepare for the jack if ya sellin' coke
-as long as i got me a strap nigga, i'm never broke
-as long as i got me a strap, i'm never broke
-got the nigga car at the mall on bricks
-beat strip, beat tip fucked him like a bitch
-i'm that nigga to hate playas
-a playa hater starvin' like somalia
-you got some yo-yo
-cause i'm right back chokin' again
-chokin' mo' now before i did when i went in
-tomorrow i got to go take a piss test for real
-i'm tryin' to clean out my system with stay clean and golden seals
-but i'm gon' be late, i'm on vacation
-because it's too early for me to go back on a violation
-fuck my p.o. i need some m-o
-n-e-y so i can get high and kick in this nigga's door
-it's four in the morning i'm on a mission peep
-the best time to catch a nigga in his sleep
-wake ya ass motherfucker i know ya rich
-tell me where the fuck is yours, i'ma bust ya bitch
-do dick in ya greasel i tie him up
-and made him watch me poke her, i'm never broke
-do dick in ya greasel i tie him up
-then i made him watch me poke her, i'm never broke
-i'm never broke
-baby crevice was tight like a pair of vice grips
-i looked at pop and said "you must got a lil' dick"
-havin' shame he was cryin' like a toddler
-nigga couldn't stand here baby scream and holler
-i said "you got one mo' time nigga where is the minl"
-he said "it's in the den right corner, top vent"
-folks remember that i'm scandalous and anti-fuckless
-i carry diseases such as herpes and nut pluckers
-nutted in the bitch, kissed her on her lips
-made her get up and suck a little dick
-the bitch had her some play though
-ya know she deep throat my big ol'
-i dropped my strap like a sucker would
-she said "how does it feel" i said "good"
-she said "you know this ain't the way to mix business with pleasure"
-i said "i know this ain't the weather to make miserable pleasure"
-you know this ain't the weather to mix business and pleasure
-shit, she tried to bite off my pecker
-helped rex loose, i hangin' juice
-and after juice you beggin' for this shit
-like you gon' knock it out better
-picked up my tech up off the ground
-pistol whipped, tied up sittin' down
-i need a black screwdriver but a butter knife will do
-to the vent i went to collect all my due
-struck out the side of boss game steward
-hopped in my hoo-ride made a left on newark
-through the dark alleys black this black that
-as long as i got me a strap look i'm never broke, yeah
-i'm never broke
-oh i see
-so what you're saying is a girl
-is something like an investment
-keep your revenues up to par
-and all you need is a strap
-precisely that's how motherfuckers make them fat lick-backs
-see i'm way respected in the rap industry
-cause i skip, spit that real-life type shit
-feel it, so let's hustle up the true motherfuckers
-apart from the tarp
-and the motherfuckin' good from the not huh
+(dp1
+Vsaying
+p2
+I1
+sVsurplus
+p3
+I1
+sVlyrics
+p4
+I2
+sVvent
+p5
+I2
+sVviolation
+p6
+I1
+sVplayas
+p7
+I1
+sVmission
+p8
+I1
+sVquarters
+p9
+I1
+sVfour
+p10
+I1
+sVbaby
+p11
+I2
+sVsleep
+p12
+I1
+sVwelfare
+p13
+I1
+sVgo
+p14
+I3
+sVcorner
+p15
+I1
+sVhopped
+p16
+I1
+sVhate
+p17
+I2
+sVground
+p18
+I1
+sVima
+p19
+I2
+sVone
+p20
+I1
+sVsystem
+p21
+I1
+sVwrappin
+p22
+I1
+sVtight
+p23
+I1
+sVtrue
+p24
+I1
+sVguts
+p25
+I1
+sVvacation
+p26
+I1
+sVbust
+p27
+I1
+sVlate
+p28
+I1
+sVhavin
+p29
+I1
+sVlets
+p30
+I1
+sVyoyo
+p31
+I1
+sVrich
+p32
+I1
+sVskip
+p33
+I1
+sVfolks
+p34
+I1
+sVmail
+p35
+I2
+sVbout
+p36
+I1
+sVmain
+p37
+I1
+sVmatch
+p38
+I1
+sVhater
+p39
+I1
+sVreal
+p40
+I1
+sVdo
+p41
+I1
+sVgood
+p42
+I2
+sVdiseases
+p43
+I1
+sVget
+p44
+I3
+sVya
+p45
+I10
+sVbig
+p46
+I1
+sVsittin
+p47
+I1
+sVwatch
+p48
+I2
+sVjuice
+p49
+I2
+sVfat
+p50
+I1
+sVknife
+p51
+I1
+sVbreak
+p52
+I1
+sVgame
+p53
+I1
+sVjack
+p54
+I1
+sVcryin
+p55
+I1
+sVstrap
+p56
+I5
+sVapart
+p57
+I1
+sVlatchin
+p58
+I1
+sVbeggin
+p59
+I1
+sVhangin
+p60
+I1
+sVlike
+p61
+I7
+sVchains
+p62
+I1
+sVmorning
+p63
+I1
+sVcollect
+p64
+I1
+sVreallife
+p65
+I1
+sVvictories
+p66
+I1
+sVbutter
+p67
+I1
+sVwent
+p68
+I2
+sVhustle
+p69
+I1
+sVside
+p70
+I1
+sVnigga
+p71
+I9
+sVdue
+p72
+I1
+sVdodo
+p73
+I1
+sVnut
+p74
+I1
+sVyeah
+p75
+I2
+sVfeel
+p76
+I2
+sVhush
+p77
+I2
+sVtouch
+p78
+I1
+sVlips
+p79
+I1
+sVscrewdriver
+p80
+I1
+sVneva
+p81
+I2
+sVantifuckless
+p82
+I1
+sVmiserable
+p83
+I1
+sVgirl
+p84
+I1
+sVinvestment
+p85
+I1
+sVbest
+p86
+I1
+sVreally
+p87
+I1
+sVblue
+p88
+I1
+sVrex
+p89
+I1
+sVgon
+p90
+I2
+sVbusiness
+p91
+I2
+sVcloset
+p92
+I1
+sVnutted
+p93
+I1
+sVmotherfuckin
+p94
+I1
+sVrings
+p95
+I1
+sVtarp
+p96
+I1
+sVnewark
+p97
+I1
+sVstarvin
+p98
+I1
+sVthroat
+p99
+I1
+sVdark
+p100
+I1
+sVsomalia
+p101
+I1
+sVplaya
+p102
+I1
+sVney
+p103
+I1
+sVweather
+p104
+I2
+sVgot
+p105
+I9
+sVpistol
+p106
+I1
+sVcause
+p107
+I3
+sVrappers
+p108
+I1
+sVwhipped
+p109
+I1
+sVpiss
+p110
+I1
+sVass
+p111
+I1
+sVaint
+p112
+I3
+sVloose
+p113
+I1
+sVright
+p114
+I2
+sVvendeta
+p115
+I1
+sVnever
+p116
+I7
+sVmotherfucker
+p117
+I1
+sVknock
+p118
+I1
+sVboss
+p119
+I1
+sVpeep
+p120
+I1
+sVherpes
+p121
+I1
+sVscadalism
+p122
+I1
+sVabout
+p123
+I1
+sVol
+p124
+I1
+sVwould
+p125
+I1
+sVoh
+p126
+I1
+sVill
+p127
+I1
+sVaqua
+p128
+I1
+sVkeep
+p129
+I2
+sVturn
+p130
+I1
+sVrange
+p131
+I1
+sVstand
+p132
+I1
+sVstruck
+p133
+I1
+sVmix
+p134
+I2
+sVbite
+p135
+I1
+sVfuckin
+p136
+I1
+sVthats
+p137
+I2
+sVgolden
+p138
+I1
+sVladies
+p139
+I1
+sVdick
+p140
+I4
+sVwhats
+p141
+I1
+sVdont
+p142
+I1
+sVbricks
+p143
+I1
+sVmotherfuckers
+p144
+I2
+sVmakin
+p145
+I1
+sVpop
+p146
+I1
+sVfeelings
+p147
+I1
+sVdown
+p148
+I2
+sVfucked
+p149
+I1
+sVset
+p150
+I1
+sValleys
+p151
+I1
+sVbitch
+p152
+I4
+sVstrip
+p153
+I1
+sVcarry
+p154
+I1
+sVminl
+p155
+I1
+sVcouldnt
+p156
+I1
+sVprecisely
+p157
+I1
+sVtomorrow
+p158
+I1
+sVbetter
+p159
+I1
+sVlittle
+p160
+I1
+sVprepare
+p161
+I1
+sVtop
+p162
+I1
+sVscandalous
+p163
+I1
+sVhey
+p164
+I1
+sVlong
+p165
+I3
+sVway
+p166
+I3
+sVblack
+p167
+I3
+sVtryin
+p168
+I1
+sVtype
+p169
+I1
+sVtell
+p170
+I2
+sVgives
+p171
+I1
+sVback
+p172
+I2
+sVghost
+p173
+I1
+sVdoor
+p174
+I1
+sVsaid
+p175
+I7
+sVspit
+p176
+I1
+sVthat
+p177
+I1
+sVseals
+p178
+I1
+sVcoke
+p179
+I1
+sVbitches
+p180
+I1
+sVhuh
+p181
+I1
+sVhurt
+p182
+I1
+sVdowntown
+p183
+I1
+sVwake
+p184
+I1
+sVbroke
+p185
+I9
+sVcatch
+p186
+I1
+sVpecker
+p187
+I1
+sVmajorin
+p188
+I1
+sVmust
+p189
+I1
+sVlistenin
+p190
+I1
+sVhelped
+p191
+I1
+sVe40
+p192
+I1
+sVmade
+p193
+I4
+sVlook
+p194
+I1
+sVniggas
+p195
+I3
+sVcar
+p196
+I1
+sVmo
+p197
+I3
+sVvice
+p198
+I1
+sVsmooth
+p199
+I1
+sVup
+p200
+I2
+sVpo
+p201
+I1
+sVmall
+p202
+I1
+sVkick
+p203
+I1
+sVden
+p204
+I1
+sVholler
+p205
+I1
+sVrevenues
+p206
+I1
+sVindustry
+p207
+I1
+sVsomething
+p208
+I1
+sVyoure
+p209
+I1
+sVclockin
+p210
+I1
+sVpicked
+p211
+I1
+sVgive
+p212
+I1
+sVfuck
+p213
+I4
+sVdeep
+p214
+I1
+sVhigh
+p215
+I1
+sVshame
+p216
+I1
+sVim
+p217
+I19
+sVdropped
+p218
+I1
+sVrap
+p219
+I1
+sVin
+p220
+I3
+sVneed
+p221
+I3
+sVwindbreaker
+p222
+I1
+sVawhile
+p223
+I1
+sVkissed
+p224
+I1
+sVcheck
+p225
+I3
+sVshit
+p226
+I3
+sVagain
+p227
+I1
+sVpar
+p228
+I1
+sVsellin
+p229
+I1
+sVlil
+p230
+I1
+sVthinkin
+p231
+I1
+sVtip
+p232
+I1
+sVbeat
+p233
+I2
+sVpair
+p234
+I1
+sVtake
+p235
+I2
+sVsee
+p236
+I2
+sVsucker
+p237
+I1
+sVtest
+p238
+I1
+sVtie
+p239
+I2
+sVgrips
+p240
+I1
+sVtoddler
+p241
+I1
+sVcrevice
+p242
+I1
+sVpluckers
+p243
+I1
+sVplay
+p244
+I1
+sVused
+p245
+I1
+sVchokin
+p246
+I2
+sVtried
+p247
+I1
+sVcartridge
+p248
+I1
+sVthough
+p249
+I1
+sVlickbacks
+p250
+I1
+sVdoin
+p251
+I1
+sVsteward
+p252
+I1
+sVtied
+p253
+I1
+sVstay
+p254
+I1
+sVrespected
+p255
+I1
+sVpoke
+p256
+I2
+sVjealous
+p257
+I1
+sVsuck
+p258
+I1
+sVbucks
+p259
+I1
+sVearly
+p260
+I1
+sVgreasel
+p261
+I2
+sVremember
+p262
+I2
+sVmurderism
+p263
+I1
+sVhooride
+p264
+I1
+sVcover
+p265
+I1
+sVscream
+p266
+I1
+sVlooked
+p267
+I1
+sVtech
+p268
+I1
+sVclean
+p269
+I2
+sVtime
+p270
+I2
+sVpleasure
+p271
+I3
+sVleft
+p272
+I1
+sVblend
+p273
+I1
+sVmake
+p274
+I3
+sVtalk
+p275
+I1
+sVknow
+p276
+I5
+s.

@@ -1,93 +1,703 @@
-"i run this" lyrics
-slick rick lyrics
-"i run this"
-"mc... ricky... d"
-"okay party people in the house"
-"this is the original grand wizard"
-"something funky push that in em"
-"ricky... d"
-is it a custom - to what?  to provoke out a hostile apostle
-and make him smack the coke out your nostril
-bap, the butter cat at gutter rappin and i'm all man
-whatever gotta happen gotta happen
-boy don't make me put my grown man shoe in you
-and i'm sorry father, for any wrongdoing doin you
-cause dogs barkin and the girl sigh
-here to present myself as the sparkle of the world's eye
-picture i - where spice girls chick arrived
-england, january 14th, six-five
-while you scream out brannyville
-"you old ass rapper!"  you got it, but can he still
-sever, in other words, rap more clever
-like no other younger rapper walkin could ever?
-apparently i done this, on this
-stunned his behind - out the way of who reign
-i run this
-"hurry up, run"
-"run, run, run, r-run"
-"hurry up, run"
-out the way of who reign, i run this
-"run.. run, r-run"
-stop the world kid, bring it home slick
-"run, r-run" "run, r-run"
-are, you, ready? "run"
-the fact is, mack caught cable in an actress
-and really is the black clark gable of the rap biz
-racists reactin, hastin for action
-the motherfucker got exquisite taste for a black man
-what you never know?  all clothes come off a hoe
-ever see me with my jewels and toast from off of mo'?
-*psssh*  past where handsome measures
-like the whole entire rat pack, and some precious
-and chartable, such a big spark i pull
-nuns even say, "that motherfucker's remarkable!"
-and aliens who came to earth gathering
-"great gosh the man has soul, we must have him"
-like a ?, there isn't none after me
-liz will throw away her walker and run after me
-snatch crowns - done this, on this
-stunned his behind - out the way of who reign
-i run this
-"hurry up, run"
-"run, run, run, r-run"
-"hurry up, run"
-out the way of who reign, i run this
-"run, r-run" "as we go"	"run, r-run"
-"run, r-run" "as we go"	"run, r-run"
-"run, r-run" "as we go"	"run, r-run"
-"as we go a little somethin like this, hit it!"
-up hastings, crew downfaced and lose
-either one way or the other, foundation choose
-although the prune i kick, i didn't come to wound a sick child
-hit a lost world, actin like a lunatic
-who provoke til a heard of smoke
-forced good men to pull out and start to murder folk
-tired of the basement placed in
-take responsibility for your action as a race then
-instead of put cheer in our bone, paperhood promote
-negativity, and fear in our own neighborhood
-since royalty breed to be (uh-huh)
-and i puts small seed where small seed need to be
-like an angel tend to fly as, mention i as
-i didn't make the laws, but they make sense to my ass
-while waitin for the world end, won this
-stunned his behind - out the way of who reign
-i run this
-see what i mean kid?
-"hurry up, run"
-that patch-eyed motherfucker run this
-"run, run, run, r-run"
-"hurry up, run"
-i run this
-"run, r-run" "run, r-run"
-"run, r-run" "run, r-run"
-"run, r-run" "run, r-run"
-are, you, ready?? "run"
-run thissssssssssssssssss
-"hurry up, run"
-"run, run, run, r-run"
-"hurry up, run"
-yeah baby, slick rick
-1999, 2000, the whole damn thing kid it's all mine
-go away
-"mc"  "ricky d"
+(dp1
+Vneighborhood
+p2
+I1
+sVlyrics
+p3
+I2
+sVactress
+p4
+I1
+sVbring
+p5
+I1
+sVisnt
+p6
+I1
+sVshoe
+p7
+I1
+sVgo
+p8
+I5
+sVearth
+p9
+I1
+sVfear
+p10
+I1
+sVstill
+p11
+I1
+sVtoast
+p12
+I1
+sVpromote
+p13
+I1
+sVstunned
+p14
+I3
+sVentire
+p15
+I1
+sVwizard
+p16
+I1
+sVfather
+p17
+I1
+sVsixfive
+p18
+I1
+sVbarkin
+p19
+I1
+sVmust
+p20
+I1
+sVblack
+p21
+I2
+sVrick
+p22
+I2
+sVcable
+p23
+I1
+sVpaperhood
+p24
+I1
+sVsorry
+p25
+I1
+sVhastin
+p26
+I1
+sVkick
+p27
+I1
+sVta
+p28
+I2
+sVthen
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I2
+sVlunatic
+p32
+I1
+sVrrun
+p33
+I19
+sVbig
+p34
+I1
+sVstop
+p35
+I1
+sVmention
+p36
+I1
+sVsmack
+p37
+I1
+sVroyalty
+p38
+I1
+sVbiz
+p39
+I1
+sVknow
+p40
+I1
+sVwords
+p41
+I1
+sVbasement
+p42
+I1
+sVworld
+p43
+I3
+sVhim
+p44
+I1
+sVd
+I3
+sVworlds
+p45
+I1
+sVracists
+p46
+I1
+sVas
+p47
+I1
+sVlike
+p48
+I6
+sVbap
+p49
+I1
+sVbe
+p50
+I1
+sVcause
+p51
+I1
+sVreactin
+p52
+I1
+sVrapper
+p53
+I2
+sVtend
+p54
+I1
+sV1999
+p55
+I1
+sVrace
+p56
+I1
+sVeither
+p57
+I1
+sVnostril
+p58
+I1
+sVjanuary
+p59
+I1
+sVsmall
+p60
+I2
+sVchick
+p61
+I1
+sV14th
+p62
+I1
+sVexquisite
+p63
+I1
+sVclothes
+p64
+I1
+sVem
+p65
+I1
+sVengland
+p66
+I1
+sVpeople
+p67
+I1
+sVhouse
+p68
+I1
+sVyeah
+p69
+I1
+sVsoul
+p70
+I1
+sVpast
+p71
+I1
+sVsee
+p72
+I2
+sVhome
+p73
+I1
+sVhappen
+p74
+I2
+sVfolk
+p75
+I1
+sVreally
+p76
+I1
+sVeven
+p77
+I1
+sVuhhuh
+p78
+I1
+sVmine
+p79
+I1
+sVaway
+p80
+I2
+sVsince
+p81
+I1
+sVslick
+p82
+I3
+sVricky
+p83
+I3
+sVsparkle
+p84
+I1
+sVbehind
+p85
+I3
+sVwon
+p86
+I1
+sVgot
+p87
+I4
+sVever
+p88
+I2
+sVass
+p89
+I2
+sVfoundation
+p90
+I1
+sVmen
+p91
+I1
+sVrun
+p92
+I49
+sVnever
+p93
+I1
+sVmotherfucker
+p94
+I2
+sValthough
+p95
+I1
+sVput
+p96
+I2
+sVprecious
+p97
+I1
+sVcome
+p98
+I2
+sVthrow
+p99
+I1
+sVboy
+p100
+I1
+sVgreat
+p101
+I1
+sVhostile
+p102
+I1
+sVcould
+p103
+I1
+sVwalkin
+p104
+I1
+sVthing
+p105
+I1
+sVfunky
+p106
+I1
+sVbone
+p107
+I1
+sVsmoke
+p108
+I1
+sVaction
+p109
+I2
+sVmean
+p110
+I1
+sVwhole
+p111
+I2
+sVmotherfuckers
+p112
+I1
+sVgable
+p113
+I1
+sVbreed
+p114
+I1
+sVdont
+p115
+I1
+sVclark
+p116
+I1
+sValiens
+p117
+I1
+sVwhatever
+p118
+I1
+sVone
+p119
+I1
+sVdone
+p120
+I2
+sVold
+p121
+I1
+sVgosh
+p122
+I1
+sVspark
+p123
+I1
+sVdownfaced
+p124
+I1
+sVlittle
+p125
+I1
+sVeye
+p126
+I1
+sVputs
+p127
+I1
+sVapostle
+p128
+I1
+sVcaught
+p129
+I1
+sVtired
+p130
+I1
+sVgirls
+p131
+I1
+sVcustom
+p132
+I1
+sVstart
+p133
+I1
+sVdamn
+p134
+I1
+sVway
+p135
+I6
+sVsigh
+p136
+I1
+sVactin
+p137
+I1
+sVkid
+p138
+I3
+sVdogs
+p139
+I1
+sVchoose
+p140
+I1
+sVnuns
+p141
+I1
+sVclever
+p142
+I1
+sVwrongdoing
+p143
+I1
+sVfly
+p144
+I1
+sVcoke
+p145
+I1
+sVreign
+p146
+I5
+sVsnatch
+p147
+I1
+sVbrannyville
+p148
+I1
+sVchild
+p149
+I1
+sVbaby
+p150
+I1
+sVpsssh
+p151
+I1
+sVhurry
+p152
+I8
+sVpresent
+p153
+I1
+sVspice
+p154
+I1
+sVme
+p155
+I2
+sVpull
+p156
+I2
+sVnone
+p157
+I1
+sVrappin
+p158
+I1
+sVprune
+p159
+I1
+sVmc
+p160
+I2
+sVthis
+p161
+I11
+sVnegativity
+p162
+I1
+sVmo
+p163
+I1
+sVsay
+p164
+I1
+sVcat
+p165
+I1
+sVplaced
+p166
+I1
+sVseed
+p167
+I2
+sVdidnt
+p168
+I2
+sVpack
+p169
+I1
+sVinstead
+p170
+I1
+sVgathering
+p171
+I1
+sVangel
+p172
+I1
+sVtaste
+p173
+I1
+sVchartable
+p174
+I1
+sVsense
+p175
+I1
+sVit
+p176
+I1
+sVjewels
+p177
+I1
+sVheard
+p178
+I1
+sVrat
+p179
+I1
+sVmurder
+p180
+I1
+sVim
+p181
+I2
+sVsomething
+p182
+I1
+sVrap
+p183
+I2
+sVin
+p184
+I1
+sVready
+p185
+I2
+sVcrew
+p186
+I1
+sVprovoke
+p187
+I2
+sVapparently
+p188
+I1
+sVgirl
+p189
+I1
+sVsever
+p190
+I1
+sVgrown
+p191
+I1
+sVforced
+p192
+I1
+sVhandsome
+p193
+I1
+sVhoe
+p194
+I1
+sVend
+p195
+I1
+sVmake
+p196
+I4
+sVwound
+p197
+I1
+sV2000
+p198
+I1
+sVcrowns
+p199
+I1
+sVtil
+p200
+I1
+sVneed
+p201
+I1
+sVtake
+p202
+I1
+sVsick
+p203
+I1
+sVgrand
+p204
+I1
+sVparty
+p205
+I1
+sVyou
+p206
+I2
+sVliz
+p207
+I1
+sVwaitin
+p208
+I1
+sVpicture
+p209
+I1
+sVokay
+p210
+I1
+sVdoin
+p211
+I1
+sVmeasures
+p212
+I1
+sVwalker
+p213
+I1
+sVthissssssssssssssssss
+p214
+I1
+sVarrived
+p215
+I1
+sVmack
+p216
+I1
+sVpatcheyed
+p217
+I1
+sVman
+p218
+I4
+sVbutter
+p219
+I1
+sVsomethin
+p220
+I1
+sVyounger
+p221
+I1
+sVgutter
+p222
+I1
+sVlose
+p223
+I1
+sVlost
+p224
+I1
+sVoriginal
+p225
+I1
+sVcheer
+p226
+I1
+sVresponsibility
+p227
+I1
+sVcame
+p228
+I1
+sVpush
+p229
+I1
+sVremarkable
+p230
+I1
+sVlaws
+p231
+I1
+sVscream
+p232
+I1
+sVfact
+p233
+I1
+sVhastings
+p234
+I1
+s.

@@ -1,120 +1,992 @@
-"i'm the man" lyrics
-gang starr lyrics
-"i'm the man"
-(feat. jeru the damaja , lil' dap)
-i say people people come on and check it out now
-you see the mic in my hand now watch me wreck it now
-what is a party if the crew ain't there?
-call me guru that's my man premier
-now many attempts have been made to hold us back?
-slander the name and with-hold facts
-but i'm the type of brother with much more game
-i got a sure aim and if i find you're to blame
-you can bet you'll be exterminated, taken out, done
-it doesn't matter how many they'll go as easy as just one
-bust one round in the air for this here
-cuz this year suckers are going no where
-cuz my strret style and intelligence level
-makes me much more than just an angry rebel
-i'm gifted unlimited rhymes universal
-mc's that ain't equipped get flipped in my circle
-i'm aiming on raining on the bitch ass chumps
-cuz their rhymes don't flow and their beats don't pump
-and niggaz better know i paid my dues and shit
-i'm bout to blow the fuck up because i refuse to quit
-i'm out to get the props that are rightfullly mine
-yeah me and the crew think its about that time
-but on the dl you know that gangstarr will conquer
-that's why you stare and point and others cling on to
-my nautica, asking for a hookup
-well sorry but my schedule is all booked up
-nobody put me on i made it up the hard way
-look out for my people but the suckers should parlay
-cuz it's business kid, this ain't no free for all
-you have to wait your turn, you must await your call
-so now, now it is my duty to
-eliminate and subtract all of the booty crews
-and suckers should vacate
-before i get irate
-and i'll kick your can
-from here to japan
-with force you can't withstand
-cuz i'm the muthafuckin' man
-yo right now i got my man lil' dap from the group home
-yo step up to the mic and tell them why you're the man
-so much anger built inside
-so don't stop to say hi, muthafucka just die
-my shit holds a mouthful so i guess you know what's up
-why punks get killed at the end of the month
-styles and styles i flip
-lil' dap remains sick
-yes the group home is thick
-so all you punks hear this
-everytime you riff
-the more fame that we get
-muthafuckas act hard
-thinking that they are god
-niggaz just don't understand
-let me be my own man
-did everything on my own
-and everyplace wasn't home
-everywhere that i'd rest
-i had to dress with a vest
-i guess you get the routine but with a lot of stress
-frustration on my mind
-brothers doin' mad time
-rhymes are organized like crime
-as we're rippin' the lines
-brothers just don't know
-how shit got to go
-cuz i was told
-to never give my back to the street
-as i walk through the ghetto
-dead souls i greet
-see my man give him pound
-then i walk with a frown
-another minute
-another brother's gunned down
-shit is getting too close that's why the group home is thick
-so everytime you riff the more fame that we get
-my father always said don't watch the one across the street
-watch the one right next
-b'cuz he's easy to flex
-took heed to what he said
-yeah that deep ass nigga
-while brothers hang around
-tryin' to get down
-niggaz just don't understand
-i'm the mutha fuckin' man
-and also on the set from dirty rotten scoundrels
-we got my man jeru the damaja
-yo tell them why you're the man
-i'll tap your jaw
-you probably heard it before
-step to the bedlamite i'll prove my word is law
-drugstore with more
-dope rhyme vendor
-not partial to beef
-the chief ambassador
-niggaz get mad cuz they can't score
-like a wild west flick they wish to shoot up my door
-but i incite a riot
-don't even try it
-bust up chumps so crab kids keep quiet
-like i said before
-i tap jaws
-snatch whores
-kill suckers in wars
-vic a style you said was yours
-money grip wanna flip but you're fish
-house the mic like your hooker and did tricks on the bitch
-dirty rotten scoundrel and my name is jeru
-utilizing my tools in '92
-mc's step up in mobs to defeat us
-when we rock knots and got props like norm peterson
-lot's of friends, lot's of fun, lots of beers
-got the skills, kreeno so i always get cheers
-troop on like a trooper no tears for fears
-i'm a get mines cuz the crew'll get theirs
-cut you up like edward scissorhands
-you know the program i'm the mutha fuckin' man...
+(dp1
+Vhooker
+p2
+I1
+sVraining
+p3
+I1
+sVall
+p4
+I1
+sVset
+p5
+I1
+sVlyrics
+p6
+I2
+sVambassador
+p7
+I1
+sVmoney
+p8
+I1
+sVsouls
+p9
+I1
+sVrest
+p10
+I1
+sVmonth
+p11
+I1
+sVbcuz
+p12
+I1
+sVattempts
+p13
+I1
+sVkill
+p14
+I1
+sVgang
+p15
+I1
+sVgo
+p16
+I2
+sVjapan
+p17
+I1
+sVyes
+p18
+I1
+sVparlay
+p19
+I1
+sVfeat
+p20
+I1
+sVfind
+p21
+I1
+sVbefore
+p22
+I2
+sVaint
+p23
+I3
+sVstyle
+p24
+I2
+sVaiming
+p25
+I1
+sVgroup
+p26
+I3
+sVtook
+p27
+I1
+sValso
+p28
+I1
+sVthinking
+p29
+I1
+sVirate
+p30
+I1
+sVcrewll
+p31
+I1
+sVfather
+p32
+I1
+sVcuz
+p33
+I8
+sVbust
+p34
+I2
+sVcrew
+p35
+I2
+sVbetter
+p36
+I1
+sVto
+p37
+I1
+sVtears
+p38
+I1
+sVgoing
+p39
+I1
+sVniggaz
+p40
+I4
+sVeasy
+p41
+I2
+sVequipped
+p42
+I1
+sVcircle
+p43
+I1
+sVghetto
+p44
+I1
+sVscoundrel
+p45
+I1
+sVkick
+p46
+I1
+sVmuthafuckas
+p47
+I1
+sVstyles
+p48
+I2
+sVflex
+p49
+I1
+sVdl
+p50
+I1
+sVvendor
+p51
+I1
+sVsick
+p52
+I1
+sVyo
+p53
+I3
+sVget
+p54
+I12
+sVmuthafuckin
+p55
+I1
+sVlots
+p56
+I3
+sVdope
+p57
+I1
+sVroutine
+p58
+I1
+sVunlimited
+p59
+I1
+sVgame
+p60
+I1
+sVdap
+p61
+I3
+sVknow
+p62
+I5
+sVgunned
+p63
+I1
+sVjeru
+p64
+I3
+sVnow
+p65
+I2
+sVkilled
+p66
+I1
+sVminute
+p67
+I1
+sVlike
+p68
+I7
+sVdown
+p69
+I2
+sVname
+p70
+I2
+sVlevel
+p71
+I1
+sVskills
+p72
+I1
+sVdie
+p73
+I1
+sVgifted
+p74
+I1
+sVbrother
+p75
+I1
+sVtry
+p76
+I1
+sVfrustration
+p77
+I1
+sVtroop
+p78
+I1
+sVheed
+p79
+I1
+sValways
+p80
+I2
+sV92
+p81
+I1
+sVwhere
+p82
+I1
+sVround
+p83
+I1
+sVflick
+p84
+I1
+sVwithstand
+p85
+I1
+sVright
+p86
+I2
+sVbooty
+p87
+I1
+sVpeople
+p88
+I3
+sVunderstand
+p89
+I2
+sVintelligence
+p90
+I1
+sVfish
+p91
+I1
+sVhard
+p92
+I2
+sVback
+p93
+I2
+sVdead
+p94
+I1
+sVup
+p95
+I2
+sVfacts
+p96
+I1
+sVsee
+p97
+I2
+sVstreet
+p98
+I2
+sVus
+p99
+I2
+sVnautica
+p100
+I1
+sVyear
+p101
+I1
+sVvacate
+p102
+I1
+sVhome
+p103
+I4
+sVpartial
+p104
+I1
+sVeven
+p105
+I1
+sVchumps
+p106
+I2
+sVsaid
+p107
+I4
+sVnigga
+p108
+I1
+sVfears
+p109
+I1
+sVwreck
+p110
+I1
+sVhouse
+p111
+I1
+sVgod
+p112
+I1
+sVincite
+p113
+I1
+sVeverytime
+p114
+I2
+sVnorm
+p115
+I1
+sVeverything
+p116
+I1
+sVpump
+p117
+I1
+sVasking
+p118
+I1
+sVeliminate
+p119
+I1
+sVprops
+p120
+I2
+sVit
+p121
+I1
+sVgot
+p122
+I6
+sVmouthful
+p123
+I1
+sVyoull
+p124
+I1
+sVacross
+p125
+I1
+sVtold
+p126
+I1
+sVass
+p127
+I2
+sVblow
+p128
+I1
+sVprogram
+p129
+I1
+sVbeers
+p130
+I1
+sVknots
+p131
+I1
+sVbusiness
+p132
+I1
+sVschedule
+p133
+I1
+sVrock
+p134
+I1
+sVnever
+p135
+I1
+sVmuthafucka
+p136
+I1
+sVhere
+p137
+I1
+sVblame
+p138
+I1
+sVstress
+p139
+I1
+sVstep
+p140
+I3
+sVsorry
+p141
+I1
+sVstrret
+p142
+I1
+sVrebel
+p143
+I1
+sVothers
+p144
+I1
+sVput
+p145
+I1
+sVsuckers
+p146
+I4
+sVcome
+p147
+I1
+sVwait
+p148
+I1
+sVkids
+p149
+I1
+sVgetting
+p150
+I1
+sVhookup
+p151
+I1
+sVmany
+p152
+I2
+sVill
+p153
+I3
+sVprove
+p154
+I1
+sVquiet
+p155
+I1
+sVedward
+p156
+I1
+sVflipped
+p157
+I1
+sVrotten
+p158
+I2
+sVturn
+p159
+I1
+sVid
+p160
+I1
+sVkreeno
+p161
+I1
+sVact
+p162
+I1
+sVtrooper
+p163
+I1
+sVlet
+p164
+I1
+sVcrab
+p165
+I1
+sVmakes
+p166
+I1
+sVthink
+p167
+I1
+sVfuckin
+p168
+I2
+sVthats
+p169
+I3
+sVduty
+p170
+I1
+sVvic
+p171
+I1
+sVown
+p172
+I1
+sVwhats
+p173
+I1
+sVdont
+p174
+I8
+sVscissorhands
+p175
+I1
+sVpoint
+p176
+I1
+sVaround
+p177
+I1
+sVone
+p178
+I4
+sVstop
+p179
+I1
+sVdoesnt
+p180
+I1
+sVdone
+p181
+I1
+sVbitch
+p182
+I2
+sVanother
+p183
+I2
+sVforce
+p184
+I1
+sVthick
+p185
+I2
+sVcrime
+p186
+I1
+sVtools
+p187
+I1
+sVwan
+p188
+I1
+sVstare
+p189
+I1
+sVquit
+p190
+I1
+sVguess
+p191
+I2
+sVscore
+p192
+I1
+sVbeef
+p193
+I1
+sVhes
+p194
+I1
+sVremains
+p195
+I1
+sVsubtract
+p196
+I1
+sVangry
+p197
+I1
+sVthere
+p198
+I1
+sVnext
+p199
+I1
+sVmuch
+p200
+I3
+sVcall
+p201
+I2
+sVwest
+p202
+I1
+sVway
+p203
+I1
+sVstarr
+p204
+I1
+sVtaken
+p205
+I1
+sVutilizing
+p206
+I1
+sVkid
+p207
+I1
+sVtype
+p208
+I1
+sVtell
+p209
+I2
+sVrhyme
+p210
+I1
+sVmore
+p211
+I1
+sVfree
+p212
+I1
+sVcut
+p213
+I1
+sVwish
+p214
+I1
+sVdoor
+p215
+I1
+sVlot
+p216
+I1
+sVriot
+p217
+I1
+sVorganized
+p218
+I1
+sVrightfullly
+p219
+I1
+sVexterminated
+p220
+I1
+sVbooked
+p221
+I1
+sVcant
+p222
+I2
+sVmine
+p223
+I1
+sVhi
+p224
+I1
+sVhear
+p225
+I1
+sVprobably
+p226
+I1
+sVhold
+p227
+I1
+sVmcs
+p228
+I2
+sVbout
+p229
+I1
+sVmust
+p230
+I1
+sVshoot
+p231
+I1
+sVdamaja
+p232
+I2
+sVmade
+p233
+I2
+sVword
+p234
+I1
+sVlook
+p235
+I1
+sVtryin
+p236
+I1
+sVthis
+p237
+I1
+sVdrugstore
+p238
+I1
+sVinside
+p239
+I1
+sVbeats
+p240
+I1
+sVrhymes
+p241
+I3
+sVair
+p242
+I1
+sVaim
+p243
+I1
+sVmatter
+p244
+I1
+sVslander
+p245
+I1
+sVeveryplace
+p246
+I1
+sVdirty
+p247
+I2
+sVtheirs
+p248
+I1
+sVwild
+p249
+I1
+sVfun
+p250
+I1
+sVdues
+p251
+I1
+sVbet
+p252
+I1
+sVpunks
+p253
+I2
+sVmutha
+p254
+I2
+sVvest
+p255
+I1
+sVpound
+p256
+I1
+sVtap
+p257
+I2
+sVmines
+p258
+I1
+sVgive
+p259
+I2
+sVwasnt
+p260
+I1
+sVwell
+p261
+I1
+sVuniversal
+p262
+I1
+sVpremier
+p263
+I1
+sVmind
+p264
+I1
+sVfuck
+p265
+I1
+sVdeep
+p266
+I1
+sVheard
+p267
+I1
+sVsay
+p268
+I2
+sVim
+p269
+I11
+sVclose
+p270
+I1
+sVanger
+p271
+I1
+sVkeep
+p272
+I1
+sVdress
+p273
+I1
+sVcheck
+p274
+I1
+sVshit
+p275
+I4
+sVfrown
+p276
+I1
+sVsnatch
+p277
+I1
+sVtheyll
+p278
+I1
+sVbuilt
+p279
+I1
+sVscoundrels
+p280
+I1
+sVguru
+p281
+I1
+sVlil
+p282
+I3
+sVna
+p283
+I1
+sVmic
+p284
+I3
+sVholds
+p285
+I1
+sVrippin
+p286
+I1
+sVfame
+p287
+I2
+sVwalk
+p288
+I2
+sVcrews
+p289
+I1
+sVpeterson
+p290
+I1
+sVgangstarr
+p291
+I1
+sVjaw
+p292
+I1
+sVcling
+p293
+I1
+sVparty
+p294
+I1
+sVdefeat
+p295
+I1
+sVsure
+p296
+I1
+sVbrothers
+p297
+I4
+sVflip
+p298
+I2
+sVwatch
+p299
+I3
+sVdoin
+p300
+I1
+sVawait
+p301
+I1
+sVhang
+p302
+I1
+sVpaid
+p303
+I1
+sVhand
+p304
+I1
+sVcheers
+p305
+I1
+sVmad
+p306
+I2
+sVmobs
+p307
+I1
+sVend
+p308
+I1
+sVlaw
+p309
+I1
+sVfriends
+p310
+I1
+sVeverywhere
+p311
+I1
+sVman
+p312
+I12
+sVyeah
+p313
+I2
+sVrefuse
+p314
+I1
+sVwhores
+p315
+I1
+sVlines
+p316
+I1
+sVnobody
+p317
+I1
+sVtricks
+p318
+I1
+sVyoure
+p319
+I4
+sVflow
+p320
+I1
+sVgreet
+p321
+I1
+sVwithhold
+p322
+I1
+sVbedlamite
+p323
+I1
+sVchief
+p324
+I1
+sVriff
+p325
+I2
+sVjaws
+p326
+I1
+sVtime
+p327
+I2
+sVgrip
+p328
+I1
+sVconquer
+p329
+I1
+sVwars
+p330
+I1
+sVyours
+p331
+I1
+s.

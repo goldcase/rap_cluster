@@ -1,91 +1,554 @@
-"i do it all night" lyrics
-ludacris lyrics
-"i do it all night"
-i do it all night
-i do it
-do it
-all night i make'em say
-oh
-gimme some more
-i do it all night
-my whip is all white
-i don't have a couple drinks & i got a 'lil buzz so i'm feelin
-alright
-but the night is just getting started
-haters get disregarded
-roll up them sweet creep creep
-let's hit this street and get retarded
-i pop a bunch of bottles
-my bitch would be poppin' too
-keep talkin out your face,
-she might be poppin you
-she might be pop blockin' droppin down to the floor with it
-meanwhile all my dogs chasing paper thats right we go get it
-so get it right
-kill the lights
-i'm feelin' like i might just pop a pill tonight
-'cause the feelin's right
-pass me a miller light
-shen grab that girl with that coke bottle shape
-she's my type
-i take her home and do the do
-i know the kamasutra think what i do to you
-stick to you like superglue maybe even like a buble gum
-don't sleep woman no matter how many times i come
-i do it all night
-i do it
-do it
-all night i make'em say
-oh
-gimme some more
-i do it all night
-i do it
-do it
-all night i make'em cash
-oh
-gimme some more
-i do it all night
-and i ride'em long pads
-maybe little crib could ask i'm gonna ask his shortie what that mouth
-had
-tell me if he's out of sight
-tell me if he's slow and long
-maybe ladies do give his turn get bub maybe you're wrong
-but i'm really gonna show you right
-tell me where you wanna go tonight
-anywhere anyplace i can see in your face you are the prototype
-tellin'em like i'm so so hot
-so so feelin' like i'm so so right
-please tell me why the jokes on fire i can't stop zoning & i don't
-know why
-beep beep
-get about my land
-ya hoes can't do it like me
-if ya thinkin i'm 'bout the game
-take a look at my u.n.i.t
-this is why i'm black on deck but don't get it twisted but strap on
-deck
-the mad on deck the pack on deck
-and down there they keep a rack on deck
-and there's no chairs there's no we there's no hoover & there's no me
-there's they would dem mass mc and there's messin'dem caddie and
-there's on three
-no matter they say i'm gettin my break
-gettin' my paper
-get my cheque
-but anybody wanna try to ass up
-and gettin some heat
-how many woman can i feed up in my caddillac
-so how i can see feelin' like i got cataract
-some in the middle with ice say i get drunk
-and don't know how to act
-i don't know how to act
-he don't know how to act
-and i don't know how to stop
-and i don't know how to quit
-blowin' on in the trouble zone
-now we need another field
-and i mean up out my man
-now i mean up out my body
-so have do this all night
-'cause you're comin' with me shorty
+(dp1
+Vcrib
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVbub
+p5
+I1
+sVshape
+p6
+I1
+sVpaper
+p7
+I2
+sVsleep
+p8
+I1
+sVgo
+p9
+I2
+sVbunch
+p10
+I1
+sVslow
+p11
+I1
+sVzone
+p12
+I1
+sVblowin
+p13
+I1
+sVcaddie
+p14
+I1
+sVshow
+p15
+I1
+sVpoppin
+p16
+I2
+sVlets
+p17
+I1
+sVblack
+p18
+I1
+sVtell
+p19
+I4
+sVmight
+p20
+I3
+sVpill
+p21
+I1
+sVdo
+p22
+I1
+sVwoman
+p23
+I2
+sVhit
+p24
+I1
+sVmeanwhile
+p25
+I1
+sVya
+p26
+I2
+sVcouple
+p27
+I1
+sVsuperglue
+p28
+I1
+sVstop
+p29
+I2
+sVzoning
+p30
+I1
+sVfeelin
+p31
+I4
+sVbreak
+p32
+I1
+sVgame
+p33
+I1
+sVknow
+p34
+I7
+sVtrouble
+p35
+I1
+sVstrap
+p36
+I1
+sVbout
+p37
+I1
+sVlike
+p38
+I7
+sVchairs
+p39
+I1
+sVgettin
+p40
+I3
+sVgum
+p41
+I1
+sVroll
+p42
+I1
+sVtry
+p43
+I1
+sVjokes
+p44
+I1
+sVnight
+p45
+I12
+sVkill
+p46
+I1
+sVgrab
+p47
+I1
+sVrack
+p48
+I1
+sVmean
+p49
+I2
+sVbody
+p50
+I1
+sVright
+p51
+I5
+sVshen
+p52
+I1
+sVmiller
+p53
+I1
+sVcomin
+p54
+I1
+sVup
+p55
+I1
+sVpads
+p56
+I1
+sVstreet
+p57
+I1
+sVshes
+p58
+I1
+sVsight
+p59
+I1
+sVpass
+p60
+I1
+sVhome
+p61
+I1
+sVgirl
+p62
+I1
+sVwhip
+p63
+I1
+sVdrinks
+p64
+I1
+sVeven
+p65
+I1
+sVgon
+p66
+I2
+sVrideem
+p67
+I1
+sVplease
+p68
+I1
+sVice
+p69
+I1
+sVlights
+p70
+I1
+sVshortie
+p71
+I1
+sVgot
+p72
+I2
+sVthree
+p73
+I1
+sVcause
+p74
+I2
+sVcreep
+p75
+I2
+sVass
+p76
+I1
+sVquit
+p77
+I1
+sVask
+p78
+I2
+sVcome
+p79
+I1
+sVon
+p80
+I1
+sVmakeem
+p81
+I3
+sVoh
+p82
+I3
+sVdeck
+p83
+I5
+sVmany
+p84
+I2
+sVcould
+p85
+I1
+sVkeep
+p86
+I2
+sVturn
+p87
+I1
+sVact
+p88
+I3
+sVretarded
+p89
+I1
+sVtheres
+p90
+I7
+sVthink
+p91
+I1
+sVthats
+p92
+I1
+sVfeed
+p93
+I1
+sVladies
+p94
+I1
+sVdont
+p95
+I9
+sVdrunk
+p96
+I1
+sVsweet
+p97
+I1
+sVdisregarded
+p98
+I1
+sVpop
+p99
+I3
+sVtwisted
+p100
+I1
+sVbitch
+p101
+I1
+sVanother
+p102
+I1
+sVbuble
+p103
+I1
+sVunit
+p104
+I1
+sVanyplace
+p105
+I1
+sVwan
+p106
+I2
+sVlittle
+p107
+I1
+sVwould
+p108
+I2
+sVhes
+p109
+I2
+sVmessindem
+p110
+I1
+sVtellinem
+p111
+I1
+sVlong
+p112
+I2
+sVbeep
+p113
+I2
+sVtoo
+p114
+I1
+sVgim
+p115
+I3
+sVprototype
+p116
+I1
+sVtype
+p117
+I1
+sVdogs
+p118
+I1
+sVmore
+p119
+I3
+sVfield
+p120
+I1
+sVstarted
+p121
+I1
+sVcoke
+p122
+I1
+sVanywhere
+p123
+I1
+sVshorty
+p124
+I1
+sVcant
+p125
+I2
+sVheat
+p126
+I1
+sVstick
+p127
+I1
+sVkamasutra
+p128
+I1
+sVhaters
+p129
+I1
+sVwhite
+p130
+I1
+sVhad
+p131
+I1
+sVme
+p132
+I5
+sVlook
+p133
+I1
+sVmc
+p134
+I1
+sVgetting
+p135
+I1
+sVcash
+p136
+I1
+sVfeelins
+p137
+I1
+sVmatter
+p138
+I2
+sVdroppin
+p139
+I1
+sVdem
+p140
+I1
+sVmaybe
+p141
+I4
+sVcaddillac
+p142
+I1
+sVpack
+p143
+I1
+sVand
+p144
+I1
+sVgive
+p145
+I1
+sVhoes
+p146
+I1
+sVit
+p147
+I5
+sVtonight
+p148
+I2
+sVmiddle
+p149
+I1
+sVsay
+p150
+I4
+sVim
+p151
+I9
+sVneed
+p152
+I1
+sVtimes
+p153
+I1
+sVbottles
+p154
+I1
+sVfloor
+p155
+I1
+sVlil
+p156
+I1
+sVna
+p157
+I4
+sVthinkin
+p158
+I1
+sVget
+p159
+I9
+sVfire
+p160
+I1
+sVhot
+p161
+I1
+sVtake
+p162
+I2
+sVyou
+p163
+I2
+sVreally
+p164
+I1
+sVtalkin
+p165
+I1
+sVhoover
+p166
+I1
+sVsee
+p167
+I2
+sVbuzz
+p168
+I1
+sVwrong
+p169
+I1
+sVmouth
+p170
+I1
+sVmad
+p171
+I1
+sVcheque
+p172
+I1
+sVwhy
+p173
+I1
+sVman
+p174
+I1
+sVblockin
+p175
+I1
+sVland
+p176
+I1
+sVchasing
+p177
+I1
+sVlight
+p178
+I1
+sVyoure
+p179
+I2
+sVanybody
+p180
+I1
+sVface
+p181
+I2
+sVmass
+p182
+I1
+sVbottle
+p183
+I1
+sValright
+p184
+I1
+sVcataract
+p185
+I1
+s.

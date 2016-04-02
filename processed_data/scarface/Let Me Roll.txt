@@ -1,87 +1,677 @@
-"let me roll" lyrics
-scarface lyrics
-"let me roll"
-(feat. lil' jay)
-ah -
-it's jumpin off in h-town, baby
-he-he-he
-strictly for the funk lovers, give it to me
-and we really want the whole world to see
-how it goes..
-we want your mind to blow, baby
-..when you free your mind and let it float
-let me roooooooooooooll..
-we want your mind to blooooow
-just let us hang with you
-hangin in the hood, just shootin the breeze
-my partners on the cut smokin swisher sweets
-trippin on the hoochies rollin by in they rides
-guzzlin up a forty ounce of cold st. ides
-jammin to a tape to my partner had made
-'growin' up in the hood' bein mixed with face
-swisher sweet's a killer, feelin nothin but nice
-reached in my pocket for the old school dice
-pulled out a knot and dropped the dice on the flo'
-and asked my partner mike what they hittin fo'
-pulled out a yard and said, "we bettin a dove"
-tee lee baby, show your partner some love
-kickin back fadin, put the flame to the joint
-3-2, drop baby, 3-2's your point
-back in the do' with a fo' and a ace
-picked up his ends and waved the dice in my face
-and then he hollered out "school house!"
-schooled em again, now d's come in ounce
-and walked away from the crap game broke
-but it ain't no thing, yo - just let a brother smoke
-let me roooooooooooooll..
-we want your mind to blooooow
-just got some things to do
-back on the creep after losin some change
-seen my partner , big chief and james
-creepin on the boulevard, actin a fool
-trippin on the broads at the old school
-music bumpin hard, never turnin it down
-trunk super tight with surround-by sound
-paint job crackin cause the punch ain't fade
-jammin that brand new 2low tape
-windows all smokey, blowin coke-laced seed
-i'm throwin up the deuce to the hpd
-now they lookin crazy like i sold the hay
-just another day in the heart of s.a.
-roll a little further there, i seen o.g.
-with his brother named , s.a. o.g.
-they chopped up the hood, so i'm chunkin it back
-and then they pulled out a $200 sack
-when i saw it i almost choked
-twist your partner one, big baby, just let your partner smoke
-let me roooooooooooooll..
-we want your mind to blooooow
-we got some things to do
-smokin on some lovely, now i'm feelin fine
-it's jumpin off at the 9.9
-5th ward in the house with the s.a. fools
-ain't no set trippin cause we all so cool
-drinkin up the bottle, gettin drunk as a skunk
-that 151 just ain't no punk
-hit the stage and grabbed the mic and started flexin styles
-a stage full of tight mc's goin buckwild
-now throw your hands in the air like that
-on the wheels of steel is my homie lonnie mack
-gettin down on his own
-now i'm finna pass my partner jay the microphone
-throw your hands in the air like that
-northside where you at, where you at, where you at?
-throw your hands in the air like that
-southside where you at, where you at, where you at?
-throw your hands in the air like that
-eastside where you at, where you at, where you at?
-throw your hands in the air like that
-westside where you at, where you at, where you at?
-let me roooooooooooooll..
-we want your mind to blooooow
-let me roooooooooooooll..
-we want your mind to blooooow
-we got some things to do
-just let us hang with you
-we some drink for you
-my partner jay's...
+(dp1
+Vnorthside
+p2
+I1
+sVlosin
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVsound
+p6
+I1
+sVhands
+p7
+I5
+sVown
+p8
+I1
+sVcold
+p9
+I1
+sVfeat
+p10
+I1
+sVblow
+p11
+I1
+sVpartners
+p12
+I1
+sVcut
+p13
+I1
+sVgrabbed
+p14
+I1
+sVdice
+p15
+I3
+sVjay
+p16
+I2
+sVdrunk
+p17
+I1
+sVday
+p18
+I1
+sVhay
+p19
+I1
+sVtape
+p20
+I2
+sVfade
+p21
+I1
+sVcool
+p22
+I1
+sVpass
+p23
+I1
+sVblooooow
+p24
+I5
+sVdo
+p25
+I3
+sVhit
+p26
+I1
+sVyo
+p27
+I1
+sVbig
+p28
+I2
+sVbein
+p29
+I1
+sVkiller
+p30
+I1
+sVfeelin
+p31
+I2
+sVpocket
+p32
+I1
+sVsweets
+p33
+I2
+sVgame
+p34
+I1
+sVcrackin
+p35
+I1
+sVsack
+p36
+I1
+sVknot
+p37
+I1
+sVnew
+p38
+I1
+sVworld
+p39
+I1
+sVds
+p40
+I1
+sVchunkin
+p41
+I1
+sVtrippin
+p42
+I3
+sVschool
+p43
+I3
+sVhangin
+p44
+I1
+sVlike
+p45
+I6
+sVjames
+p46
+I1
+sVdrop
+p47
+I1
+sVbrother
+p48
+I2
+sVheart
+p49
+I1
+sVhittin
+p50
+I1
+sVhpd
+p51
+I1
+sVem
+p52
+I1
+sVcreepin
+p53
+I1
+sVsurroundby
+p54
+I1
+sVold
+p55
+I2
+sVlonnie
+p56
+I1
+sVbuckwild
+p57
+I1
+sVhouse
+p58
+I2
+sVturnin
+p59
+I1
+sVhard
+p60
+I1
+sVcokelaced
+p61
+I1
+sVtee
+p62
+I1
+sVstarted
+p63
+I1
+sVsee
+p64
+I1
+sVpicked
+p65
+I1
+sVfools
+p66
+I1
+sVsouthside
+p67
+I1
+sVfinna
+p68
+I1
+sVcreep
+p69
+I1
+sVides
+p70
+I1
+sVlovers
+p71
+I1
+sVwalked
+p72
+I1
+sVaway
+p73
+I1
+sVforty
+p74
+I1
+sV2low
+p75
+I1
+sVgoes
+p76
+I1
+sVgot
+p77
+I3
+sVstyles
+p78
+I1
+sVcause
+p79
+I2
+sVaint
+p80
+I4
+sVends
+p81
+I1
+sVfull
+p82
+I1
+sVlee
+p83
+I1
+sVdrinkin
+p84
+I1
+sVsold
+p85
+I1
+sVnever
+p86
+I1
+sVsteel
+p87
+I1
+sVpunch
+p88
+I1
+sVfree
+p89
+I1
+sVjob
+p90
+I1
+sVlet
+p91
+I12
+sVsmokin
+p92
+I2
+sVtrunk
+p93
+I1
+sVput
+p94
+I1
+sVchoked
+p95
+I1
+sVcome
+p96
+I1
+sVthrow
+p97
+I5
+sVchange
+p98
+I1
+sVstage
+p99
+I2
+sVyard
+p100
+I1
+sVace
+p101
+I1
+sVog
+p102
+I2
+sV32
+p103
+I1
+sVeastside
+p104
+I1
+sVblowin
+p105
+I1
+sVpunk
+p106
+I1
+sVthing
+p107
+I1
+sVjammin
+p108
+I2
+sVounce
+p109
+I2
+sVsmoke
+p110
+I2
+sVmixed
+p111
+I1
+sVwheels
+p112
+I1
+sVshootin
+p113
+I1
+sVwhole
+p114
+I1
+sVasked
+p115
+I1
+sVchopped
+p116
+I1
+sVnamed
+p117
+I1
+sVhehehe
+p118
+I1
+sVlove
+p119
+I1
+sVpoint
+p120
+I1
+sVfloat
+p121
+I1
+sVgrowin
+p122
+I1
+sVone
+p123
+I1
+sVdown
+p124
+I1
+sVset
+p125
+I1
+sVroooooooooooooll
+p126
+I5
+sVanother
+p127
+I1
+sVreached
+p128
+I1
+sVjays
+p129
+I1
+sVfine
+p130
+I1
+sVflexin
+p131
+I1
+sVhood
+p132
+I3
+sVlittle
+p133
+I1
+sVboulevard
+p134
+I1
+sVcrap
+p135
+I1
+sVgoin
+p136
+I1
+sVsuper
+p137
+I1
+sVstrictly
+p138
+I1
+sVpaint
+p139
+I1
+sVmusic
+p140
+I1
+sVactin
+p141
+I1
+sVlovely
+p142
+I1
+sVthrowin
+p143
+I1
+sVmike
+p144
+I1
+sVthat
+p145
+I5
+sVbettin
+p146
+I1
+sVbrand
+p147
+I1
+sVback
+p148
+I4
+sV99
+p149
+I1
+sVgettin
+p150
+I2
+sVbroke
+p151
+I1
+sVbaby
+p152
+I5
+sVward
+p153
+I1
+sVdeuce
+p154
+I1
+sVmcs
+p155
+I1
+sVfunk
+p156
+I1
+sVme
+p157
+I1
+sVmade
+p158
+I1
+sVjoint
+p159
+I1
+sVmack
+p160
+I1
+sVwestside
+p161
+I1
+sVus
+p162
+I2
+sVair
+p163
+I5
+sVbroads
+p164
+I1
+sVhomie
+p165
+I1
+sVflame
+p166
+I1
+sVflo
+p167
+I1
+sVschooled
+p168
+I1
+sVim
+p169
+I4
+sVdropped
+p170
+I1
+sV151
+p171
+I1
+sVfool
+p172
+I1
+sVcrazy
+p173
+I1
+sVgive
+p174
+I1
+sValmost
+p175
+I1
+sVah
+p176
+I1
+sV5th
+p177
+I1
+sVmind
+p178
+I7
+sVtwist
+p179
+I1
+sVseed
+p180
+I1
+sVscarface
+p181
+I1
+sVnothin
+p182
+I1
+sVwant
+p183
+I7
+sVseen
+p184
+I2
+sVpartner
+p185
+I8
+sVst
+p186
+I1
+sVsaw
+p187
+I1
+sVmicrophone
+p188
+I1
+sVlil
+p189
+I1
+sVhtown
+p190
+I1
+sVmic
+p191
+I1
+sVswisher
+p192
+I2
+sVtight
+p193
+I2
+sVyou
+p194
+I3
+sVreally
+p195
+I1
+sVrides
+p196
+I1
+sVroll
+p197
+I3
+sVnice
+p198
+I1
+sVwaved
+p199
+I1
+sV200
+p200
+I1
+sVlookin
+p201
+I1
+sVdrink
+p202
+I1
+sVhang
+p203
+I2
+sVbumpin
+p204
+I1
+sVsaid
+p205
+I1
+sVhollered
+p206
+I1
+sVjumpin
+p207
+I2
+sVdove
+p208
+I1
+sVfo
+p209
+I2
+sVguzzlin
+p210
+I1
+sVsmokey
+p211
+I1
+sVfadin
+p212
+I1
+sVwindows
+p213
+I1
+sVrollin
+p214
+I1
+sVface
+p215
+I2
+sVhoochies
+p216
+I1
+sV32s
+p217
+I1
+sVchief
+p218
+I1
+sVbreeze
+p219
+I1
+sVbottle
+p220
+I1
+sVthings
+p221
+I3
+sVat
+p222
+I4
+sVsa
+p223
+I3
+sVskunk
+p224
+I1
+sVpulled
+p225
+I3
+sVkickin
+p226
+I1
+s.

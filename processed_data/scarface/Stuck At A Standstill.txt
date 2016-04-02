@@ -1,78 +1,587 @@
-"stuck at a standstill" lyrics
-scarface lyrics
-"stuck at a standstill"
-these niggas is fuckin with a dangerous game
-hey joe, what's up baby?
-yeah, i like the beat
-hahaha...
-hey, when you drop drums i'ma drop rhymes, aight?
-(drop rhymes)
-nah, i don't need no count-off
-just drop the beat and i'm on it, aight?
-(2-3-4)
-i took my chances when i did my dirt
-and my advice to any nigga if you crimin, you do it worse
-just get enough and step the fuck back
-cause in this game when you get fame
-you gotta start dumpin these agents off your nutsack
-i'm just a nigga out the hood tryin to have things
-but when i got up on my feet you're screamin "brad changed!"
-and your excuse was that the money came
-but my excuse was that you missed the plane, simple and plain
-i got to show my homies love, though
-i just don't fuck around with niggas that i don't know
-and you can take that how you wanna take it
-i'm from these muthafuckin streets
-and the same rules apply in this game, don't ever break it
-ain't my muthafuckin luck i'm all alone at the crack
-and you niggas don't wanna try to attack
-we steady dyin over dumb shit, and me, i'm steady losin my sleep
-cause niggas ain't familiar with the rules of the streets
-you're stuck
-stuck at a standstill
-on the beat one time, come on
-it don't stop
-give it to em
-...3
-and to my niggas on the streets crimin (watch for haters)
-stop sittin on the sidelines and (get your paper)
-too many niggas complainin pointin fingers at the problems
-"that's why i hate my baby mama"
-i'm just a nigga from the very bottom
-skippin classes, goin 8 balls or the white powder
-tryin to get it while the muthafuckin gettin good
-the possibilities of movin out my neighborhood
-don't get me wrong, i had them dreams too
-but the only thing you do is get your cream, fool
-get your muthafuckin green, fool
-niggas ain't knowin 'bout the ins and the outs
-first get in, then you get out
-don't be stuck at a standstill
-(you know...
-to the 2, ah 2-1
-(...i was thinkin)
-rock the mob shit for niggas, come on y'all
-(...need to, i don't know, maybe findin new hustles
-like niggas is runnin out of hustles, you know?)
-when it's over don't nobody cry
-just enjoy it while you live life cause everybody gotta die
-so when you see me i'll be hella high
-bendin corners with my top down checkin out the changes in the sky
-shootin paper clips at jupiter
-the mo' i learn it's like i'm gettin stupider, and stupider
-tryin to make the best out of a fucked up decision
-i'm just a nigga with a vision, which is
-gettin up, gettin out, gettin my profits
-tryin to stay away from these bitches that jock dick
-movin up to move on, gotta stay true to it
-that's just the way you gotta do it
-and these niggas here is renegades, don't give a fuck
-but if you're real, then you like it rough, nigga what?
-you know it, you know what i'm sayin is real
-now step the fuck off all those standstills
-cause you're stuck
-stuck at a standstill
-stuck
-to the beat one time
-yeah
-my nigga mike dean
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVchances
+p4
+I1
+sVmoney
+p5
+I1
+sVmove
+p6
+I1
+sVpaper
+p7
+I2
+sVsleep
+p8
+I1
+sVcrack
+p9
+I1
+sVlove
+p10
+I1
+sVrough
+p11
+I1
+sVhate
+p12
+I1
+sVhustles
+p13
+I2
+sVima
+p14
+I1
+sV21
+p15
+I1
+sVbendin
+p16
+I1
+sVdick
+p17
+I1
+sVsky
+p18
+I1
+sV3
+I1
+sVhomies
+p19
+I1
+sV8
+I1
+sVbout
+p20
+I1
+sVta
+p21
+I4
+sVfool
+p22
+I2
+sVgood
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I9
+sVmuthafuckin
+p26
+I4
+sVfamiliar
+p27
+I1
+sVcheckin
+p28
+I1
+sVsittin
+p29
+I1
+sVstop
+p30
+I2
+sVbreak
+p31
+I1
+sVgame
+p32
+I3
+sVknow
+p33
+I6
+sVnew
+p34
+I1
+sVmob
+p35
+I1
+sVdreams
+p36
+I1
+sVstandstill
+p37
+I5
+sVlike
+p38
+I4
+sVcause
+p39
+I4
+sVdrop
+p40
+I4
+sVmake
+p41
+I1
+sVtry
+p42
+I1
+sVdangerous
+p43
+I1
+sVstupider
+p44
+I2
+sVyall
+p45
+I1
+sVluck
+p46
+I1
+sVem
+p47
+I1
+sVnigga
+p48
+I6
+sVneighborhood
+p49
+I1
+sVstreets
+p50
+I3
+sVyeah
+p51
+I2
+sVsee
+p52
+I1
+sVdumb
+p53
+I1
+sVpowder
+p54
+I1
+sVdie
+p55
+I1
+sVbest
+p56
+I1
+sVout
+p57
+I1
+sVpossibilities
+p58
+I1
+sVmovin
+p59
+I2
+sVouts
+p60
+I1
+sVmissed
+p61
+I1
+sVbottom
+p62
+I1
+sVlearn
+p63
+I1
+sVdecision
+p64
+I1
+sVfingers
+p65
+I1
+sVenough
+p66
+I1
+sVskippin
+p67
+I1
+sVgot
+p68
+I6
+sVjock
+p69
+I1
+sVever
+p70
+I1
+sVaint
+p71
+I3
+sVcry
+p72
+I1
+sVdirt
+p73
+I1
+sVbitches
+p74
+I1
+sVrock
+p75
+I1
+sVstep
+p76
+I2
+sVjoe
+p77
+I1
+sVdrums
+p78
+I1
+sValone
+p79
+I1
+sVcome
+p80
+I2
+sVsayin
+p81
+I1
+sVon
+p82
+I1
+sVcomplainin
+p83
+I1
+sVdyin
+p84
+I1
+sVmany
+p85
+I1
+sVill
+p86
+I1
+sVchanged
+p87
+I1
+sVscreamin
+p88
+I1
+sVthing
+p89
+I1
+sVvision
+p90
+I1
+sVbrad
+p91
+I1
+sVshootin
+p92
+I1
+sVchanges
+p93
+I1
+sVrenegades
+p94
+I1
+sVfuckin
+p95
+I1
+sVthats
+p96
+I2
+sVenjoy
+p97
+I1
+sVwhats
+p98
+I1
+sVdont
+p99
+I11
+sVsimple
+p100
+I1
+sVone
+p101
+I2
+sVfeet
+p102
+I1
+sVagents
+p103
+I1
+sVaway
+p104
+I1
+sVapply
+p105
+I1
+sVhood
+p106
+I1
+sVeverybody
+p107
+I1
+sVwan
+p108
+I2
+sVcream
+p109
+I1
+sVstuck
+p110
+I8
+sVtop
+p111
+I1
+sVlive
+p112
+I1
+sVhey
+p113
+I2
+sVstart
+p114
+I1
+sVattack
+p115
+I1
+sV2
+I1
+sVtoo
+p116
+I1
+sVway
+p117
+I1
+sVmama
+p118
+I1
+sVwhite
+p119
+I1
+sVtryin
+p120
+I4
+sVlife
+p121
+I1
+sVfuck
+p122
+I4
+sVtook
+p123
+I1
+sVfindin
+p124
+I1
+sVback
+p125
+I1
+sVexcuse
+p126
+I2
+sVgettin
+p127
+I5
+sVnutsack
+p128
+I1
+sVlosin
+p129
+I1
+sVbaby
+p130
+I2
+sVhaters
+p131
+I1
+sVtrue
+p132
+I1
+sVrunnin
+p133
+I1
+sVballs
+p134
+I1
+sVdumpin
+p135
+I1
+sVniggas
+p136
+I10
+sVplain
+p137
+I1
+sVmo
+p138
+I1
+sVrhymes
+p139
+I2
+sVclips
+p140
+I1
+sVclasses
+p141
+I1
+sVhahaha
+p142
+I1
+sVaight
+p143
+I2
+sVim
+p144
+I9
+sVreal
+p145
+I2
+sVstandstills
+p146
+I1
+sVgive
+p147
+I2
+sVah
+p148
+I1
+sVis
+p149
+I1
+sVit
+p150
+I4
+sVins
+p151
+I1
+sVhigh
+p152
+I1
+sVneed
+p153
+I2
+sVjupiter
+p154
+I1
+sVscarface
+p155
+I1
+sV234
+p156
+I1
+sVcrimin
+p157
+I2
+sVfame
+p158
+I1
+sVshit
+p159
+I2
+sVworse
+p160
+I1
+sVcorners
+p161
+I1
+sVna
+p162
+I2
+sVnah
+p163
+I1
+sVmike
+p164
+I1
+sVbeat
+p165
+I4
+sVdean
+p166
+I1
+sVtake
+p167
+I2
+sVsidelines
+p168
+I1
+sVnobody
+p169
+I1
+sVthough
+p170
+I1
+sVwatch
+p171
+I1
+sVadvice
+p172
+I1
+sVtime
+p173
+I2
+sVproblems
+p174
+I1
+sVwhat
+p175
+I1
+sVstay
+p176
+I2
+sVwrong
+p177
+I1
+sVplane
+p178
+I1
+sVfucked
+p179
+I1
+sVcountoff
+p180
+I1
+sVgoin
+p181
+I1
+sVpointin
+p182
+I1
+sVrules
+p183
+I2
+sVmaybe
+p184
+I1
+sVyoure
+p185
+I4
+sVsteady
+p186
+I2
+sVknowin
+p187
+I1
+sVhella
+p188
+I1
+sVgreen
+p189
+I1
+sVprofits
+p190
+I1
+sVthings
+p191
+I1
+sVfirst
+p192
+I1
+sVthinkin
+p193
+I1
+sVcame
+p194
+I1
+s.

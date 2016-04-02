@@ -1,81 +1,664 @@
-"got rich twice" lyrics
-e-40 lyrics
-"got rich twice"
-hustling till i die, drink the bar dry
-there go that man again, right back in the public eye
-drunk like mel gibson, get high, got a ton of dui's
-cognac sipping, xo, me and my guys
-born in colossal, living our lives
-trying to get this bobble head bobbin' so she can follow me to my ride
-so i can make a dentist to convince her to open wide
-kick her out when i'm finished, take my baller ass back inside
-drug terminology, corner talk that's all i know
-california mentality, ask about me pimp i go
-you can check my track record, i don't like to feud
-but if i must i'll have your head severed
-blacks live in traps, zones and projects
-corner boy greeting crack in the apartment complex
-world wide outside of the bay they give me my stacks
-do business with head execs and corporate execs
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-cut him off like an umbilical cord, turn off his lights
-we need to silence that brother, his voice too strong on the mike
-i make it look easy but it's not, i'm just doing feazy
-why should i stop now, pimp, the game need me?
-be a real one, pimp, go get it and do what he used to
-trying to get this music scrapping, move it, push it and groove it
-louis luggage, rugging and rushing my intellect
-got suckas hollering and screaming my hood set
-designer socks on my chevy box shaking the car
-you need my alpha minute, too heavy i can't stop
-gaming plot, all my dudes on the grave clock
-hope i die and rock on my funeral on my block
-the streets they don't play fair
-the mayor, he really don't care
-momma worked 3 jobs, trying to keep a roof on hour heads
-bologna sandwiches, pulled the mold off the bread
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-gotta a lil' thump, we got what you need
-if you want it, got to copy it from me
-we are sure you too could see that it's real
-everywhere we go we burn down the hills
-automatics and semi's, high performance and hemi's
-in the thick of the soil, we think buick's is bentley's
-coffee pots boil, burn, fly, simmer and stew
-i'm off of this oil y'all, i hope you is too
-out of the beverly camp you need a crew
-showing our underwear, exactly that's what we do
-turf dropping and stacking and money making
-surfing, earthquake slapping and trunk rattling
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-he ain't going nowhere, the boy too nice
-he done it again and got rich twice
-keep a thump on top
-we ain't broke, we papered up
-gotta a lil' thump, we got what you need
-if you want it, got to cop it from me
-we are sure you too can see that it's real
-everywhere we go we burn down the hills
-got rich twice, damn, got rich twice, damn
-got rich twice, damn, got rich twice, damn
-nigga, i'd done it again, damn
-nigga, i'd done it again, damn
-nigga, i'd done it again, damn
-nigga, i'd done it again, damn
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVcopy
+p4
+I1
+sVmove
+p5
+I1
+sVbuicks
+p6
+I1
+sVgo
+p7
+I5
+sVcorner
+p8
+I2
+sVrushing
+p9
+I1
+sVdo
+p10
+I1
+sVdont
+p11
+I3
+sVaint
+p12
+I12
+sVapartment
+p13
+I1
+sVballer
+p14
+I1
+sVhills
+p15
+I2
+sV3
+I1
+sVcrew
+p16
+I1
+sVto
+p17
+I1
+sVcognac
+p18
+I1
+sVminute
+p19
+I1
+sVrich
+p20
+I12
+sVcrack
+p21
+I1
+sVkick
+p22
+I1
+sVsandwiches
+p23
+I1
+sVreal
+p24
+I3
+sVfly
+p25
+I1
+sVcoffee
+p26
+I1
+sVget
+p27
+I4
+sVshowing
+p28
+I1
+sVstop
+p29
+I2
+sVumbilical
+p30
+I1
+sVsipping
+p31
+I1
+sVgame
+p32
+I1
+sVknow
+p33
+I1
+sVrattling
+p34
+I1
+sVworld
+p35
+I1
+sVscreaming
+p36
+I1
+sVprojects
+p37
+I1
+sVbread
+p38
+I1
+sVbar
+p39
+I1
+sVlike
+p40
+I3
+sVpimp
+p41
+I3
+sVdie
+p42
+I2
+sVgreeting
+p43
+I1
+sVbay
+p44
+I1
+sVtwice
+p45
+I12
+sVscrapping
+p46
+I1
+sVfeazy
+p47
+I1
+sVlouis
+p48
+I1
+sVbeverly
+p49
+I1
+sVgibson
+p50
+I1
+sVinside
+p51
+I1
+sVterminology
+p52
+I1
+sVexecs
+p53
+I2
+sVheavy
+p54
+I1
+sVcord
+p55
+I1
+sVright
+p56
+I1
+sVfair
+p57
+I1
+sVcolossal
+p58
+I1
+sVstreets
+p59
+I1
+sVback
+p60
+I2
+sVbrother
+p61
+I1
+sVzones
+p62
+I1
+sVborn
+p63
+I1
+sVsee
+p64
+I2
+sVdesigner
+p65
+I1
+sVfollow
+p66
+I1
+sVintellect
+p67
+I1
+sVreally
+p68
+I1
+sVliving
+p69
+I1
+sVnigga
+p70
+I4
+sVblacks
+p71
+I1
+sVclock
+p72
+I1
+sVdropping
+p73
+I1
+sVexactly
+p74
+I1
+sVmayor
+p75
+I1
+sVlights
+p76
+I1
+sVoutside
+p77
+I1
+sVsimmer
+p78
+I1
+sVhollering
+p79
+I1
+sVgot
+p80
+I20
+sVpublic
+p81
+I1
+sVsevered
+p82
+I1
+sVass
+p83
+I1
+sVburn
+p84
+I3
+sVjobs
+p85
+I1
+sVbusiness
+p86
+I1
+sVstew
+p87
+I1
+sVmel
+p88
+I1
+sVfuneral
+p89
+I1
+sVrock
+p90
+I1
+sVta
+p91
+I2
+sVcut
+p92
+I1
+sVcalifornia
+p93
+I1
+sVnowhere
+p94
+I6
+sVpapered
+p95
+I6
+sVtrunk
+p96
+I1
+sVask
+p97
+I1
+sVheads
+p98
+I1
+sVstrong
+p99
+I1
+sVearthquake
+p100
+I1
+sVcare
+p101
+I1
+sVdry
+p102
+I1
+sVboy
+p103
+I7
+sVunderwear
+p104
+I1
+sVhemis
+p105
+I1
+sVautomatics
+p106
+I1
+sVluggage
+p107
+I1
+sVshaking
+p108
+I1
+sVill
+p109
+I1
+sVdrug
+p110
+I1
+sVkeep
+p111
+I7
+sVchevy
+p112
+I1
+sVturn
+p113
+I1
+sVyall
+p114
+I1
+sVturf
+p115
+I1
+sVthink
+p116
+I1
+sVsilence
+p117
+I1
+sVthats
+p118
+I2
+sVxo
+p119
+I1
+sVdrunk
+p120
+I1
+sVsocks
+p121
+I1
+sVone
+p122
+I1
+sVmomma
+p123
+I1
+sVset
+p124
+I1
+sVdone
+p125
+I10
+sVthick
+p126
+I1
+sVopen
+p127
+I1
+sVhood
+p128
+I1
+sVplot
+p129
+I1
+sVeye
+p130
+I1
+sVbologna
+p131
+I1
+sVtop
+p132
+I6
+sVpots
+p133
+I1
+sVlive
+p134
+I1
+sVgoing
+p135
+I6
+sVton
+p136
+I1
+sVtoo
+p137
+I1
+sVdudes
+p138
+I1
+sVmusic
+p139
+I1
+sVboil
+p140
+I1
+sVbox
+p141
+I1
+sVhead
+p142
+I3
+sVsuckas
+p143
+I1
+sVeasy
+p144
+I1
+sVbobble
+p145
+I1
+sVcop
+p146
+I1
+sVthump
+p147
+I8
+sVmentality
+p148
+I1
+sVoil
+p149
+I1
+sVit
+p150
+I1
+sVdentist
+p151
+I1
+sVlives
+p152
+I1
+sVbroke
+p153
+I6
+sVworked
+p154
+I1
+sVtrying
+p155
+I3
+sVmust
+p156
+I1
+sVme
+p157
+I3
+sVwide
+p158
+I2
+sVe40
+p159
+I1
+sVlook
+p160
+I1
+sVhour
+p161
+I1
+sVcar
+p162
+I1
+sVride
+p163
+I1
+sVup
+p164
+I6
+sVroof
+p165
+I1
+sVrecord
+p166
+I1
+sVconvince
+p167
+I1
+sVhope
+p168
+I2
+sVmaking
+p169
+I1
+sVslapping
+p170
+I1
+sVvoice
+p171
+I1
+sVgroove
+p172
+I1
+sVcould
+p173
+I1
+sVgive
+p174
+I1
+sVstacking
+p175
+I1
+sVsoil
+p176
+I1
+sVmike
+p177
+I1
+sVhigh
+p178
+I2
+sVduis
+p179
+I1
+sVcant
+p180
+I1
+sVim
+p181
+I3
+sVwant
+p182
+I2
+sVneed
+p183
+I6
+sVmold
+p184
+I1
+sVcheck
+p185
+I1
+sVlil
+p186
+I2
+sVmake
+p187
+I2
+sVrugging
+p188
+I1
+sVid
+p189
+I4
+sVtill
+p190
+I1
+sVcomplex
+p191
+I1
+sVtake
+p192
+I1
+sVbentleys
+p193
+I1
+sVperformance
+p194
+I1
+sVhustling
+p195
+I1
+sVbobbin
+p196
+I1
+sVnice
+p197
+I6
+sVgaming
+p198
+I1
+sVplay
+p199
+I1
+sVused
+p200
+I1
+sVdamn
+p201
+I8
+sVtrack
+p202
+I1
+sVdrink
+p203
+I1
+sVsemis
+p204
+I1
+sVsure
+p205
+I2
+sValpha
+p206
+I1
+sVguys
+p207
+I1
+sVgrave
+p208
+I1
+sVman
+p209
+I1
+sVsurfing
+p210
+I1
+sVtraps
+p211
+I1
+sVpulled
+p212
+I1
+sVcamp
+p213
+I1
+sVfinished
+p214
+I1
+sVfeud
+p215
+I1
+sVblock
+p216
+I1
+sVpush
+p217
+I1
+sVeverywhere
+p218
+I2
+sVcorporate
+p219
+I1
+sVstacks
+p220
+I1
+sVtalk
+p221
+I1
+s.

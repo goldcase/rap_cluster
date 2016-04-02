@@ -1,56 +1,490 @@
-"call ya bluff" lyrics
-ludacris lyrics
-"call ya bluff"
-yeah
-anything you wanna do i'm ready to do it, my nigga, just say so
-don't say it on the record with your chest, leave the booth and then go lay low
-hiding behind your security detail, actin' like a female
-i done sold over 20 million records i could really give a fuck about retail
-now back to basics
-back to adidas with the fat laces
-back to the ac' where i'm riding to the track in the track, get it straight nigga, no chases
-age ain't nothing but a number, luda rapping like he just turned 24
-any rapper wanna forget who i am every now and then i see i gotta let em know
-yo must i remind you
-you rap like something behind you
-got paid, but your heart pump kool aid
-cover girl make up should have signed you
-but it's never too late
-15 years, nigga, never too great
-4 years off getting hollywood checks, but you niggas want beef and you looking like steak
-i see that liquor got you loose
-when you see me, nigga, say it like you said it in the booth
-i'll make you niggas lose a tooth
-when you see me, nigga, say it like you said it in the booth
-fuck y'all niggas, i'm the truth
-when you see me, nigga, say it like you said it in the booth
-now i'm like, fuck calling a truce
-when you see me, nigga, say it like you said it in the booth
-hol' up
-never fuck with a nigga who got some kids
-cause when you talk about me, then you talk about them
-then i gotta come where you live
-you takin' food out they mouth, now i gotta put a fist in yours
-i don't play about my hustle
-a nigga got all these acres
-all my neighbors think i'm flipping them birds
-naw, but i be flipping these words
-anything you hear me saying i could back up
-and you talk so tough on the mic
-but whenever you in sight, nigga, something don't add up
-put your money where your mouth is
-wait, put a gat where your blouse is
-you think it's funny cus it's sunny where your house is
-bitch, i'll put my muddy ass boots where your couch is (fuck yo couch)
-i live this shit, you know you do this just for show, nigga
-you act as if ludacris just came and took your ho, nigga
-you's a ho, nigga, yeah i said it twice
-let this be warning number two, motherfucker go and roll the dice
-i see that liquor got you loose
-when you see me, nigga, say it like you said it in the booth
-i'll make you niggas lose a tooth
-when you see me, nigga, say it like you said it in the booth
-fuck y'all niggas, i'm the truth
-when you see me, nigga, say it like you said it in the booth
-now i'm like, fuck calling a truce
-when you see me, nigga, say it like you said it in the booth
+(dp1
+Vneighbors
+p2
+I1
+sVsaying
+p3
+I1
+sVforget
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I2
+sVmoney
+p7
+I1
+sVyears
+p8
+I2
+sVgo
+p9
+I2
+sVtakin
+p10
+I1
+sVbirds
+p11
+I1
+sVaint
+p12
+I1
+sV20
+p13
+I1
+sVdice
+p14
+I1
+sVshow
+p15
+I1
+sVpump
+p16
+I1
+sVacres
+p17
+I1
+sVlate
+p18
+I1
+sVadd
+p19
+I1
+sVactin
+p20
+I1
+sVlaces
+p21
+I1
+sVriding
+p22
+I1
+sVta
+p23
+I3
+sVthem
+p24
+I1
+sVyo
+p25
+I2
+sVget
+p26
+I1
+sVya
+p27
+I2
+sVsunny
+p28
+I1
+sVfat
+p29
+I1
+sVflipping
+p30
+I2
+sVrecords
+p31
+I1
+sVevery
+p32
+I1
+sVknow
+p33
+I2
+sVwords
+p34
+I1
+sVbasics
+p35
+I1
+sVlike
+p36
+I14
+sVrapper
+p37
+I1
+sVwait
+p38
+I1
+sVcalling
+p39
+I2
+sVleave
+p40
+I1
+sVremind
+p41
+I1
+sVtruth
+p42
+I2
+sVlose
+p43
+I2
+sVsecurity
+p44
+I1
+sVsteak
+p45
+I1
+sVyall
+p46
+I2
+sVem
+p47
+I1
+sVnigga
+p48
+I17
+sVhouse
+p49
+I1
+sVliquor
+p50
+I2
+sVyeah
+p51
+I2
+sVboots
+p52
+I1
+sVsee
+p53
+I11
+sVbooth
+p54
+I9
+sVfist
+p55
+I1
+sVgirl
+p56
+I1
+sVreally
+p57
+I1
+sVblouse
+p58
+I1
+sVsaid
+p59
+I9
+sVtwice
+p60
+I1
+sVlooking
+p61
+I1
+sVbehind
+p62
+I2
+sVgot
+p63
+I8
+sVcause
+p64
+I1
+sVchecks
+p65
+I1
+sVhustle
+p66
+I1
+sVass
+p67
+I1
+sV24
+p68
+I1
+sVmillion
+p69
+I1
+sVrapping
+p70
+I1
+sVkool
+p71
+I1
+sVsold
+p72
+I1
+sVnever
+p73
+I3
+sVmotherfucker
+p74
+I1
+sVmic
+p75
+I1
+sVlet
+p76
+I2
+sVput
+p77
+I4
+sVcus
+p78
+I1
+sVcome
+p79
+I1
+sVhiding
+p80
+I1
+sVgreat
+p81
+I1
+sVkids
+p82
+I1
+sVanything
+p83
+I2
+sVgetting
+p84
+I1
+sVcould
+p85
+I2
+sVact
+p86
+I1
+sVretail
+p87
+I1
+sVthink
+p88
+I2
+sVtough
+p89
+I1
+sVdont
+p90
+I3
+sVadidas
+p91
+I1
+sVnumber
+p92
+I2
+sVdone
+p93
+I1
+sVbitch
+p94
+I1
+sVfemale
+p95
+I1
+sVyous
+p96
+I1
+sVwan
+p97
+I2
+sVbeef
+p98
+I1
+sVmuddy
+p99
+I1
+sVtwo
+p100
+I1
+sVlive
+p101
+I2
+sVcall
+p102
+I2
+sVlow
+p103
+I1
+sVhollywood
+p104
+I1
+sVchases
+p105
+I1
+sV4
+I1
+sVgat
+p106
+I1
+sVtook
+p107
+I1
+sVback
+p108
+I4
+sVhear
+p109
+I1
+sVho
+p110
+I2
+sVloose
+p111
+I2
+sVmust
+p112
+I1
+sV15
+p113
+I1
+sVniggas
+p114
+I5
+sVstraight
+p115
+I1
+sVup
+p116
+I3
+sVsigned
+p117
+I1
+sVrecord
+p118
+I1
+sVaid
+p119
+I1
+sVill
+p120
+I3
+sVluda
+p121
+I1
+sVheart
+p122
+I1
+sVac
+p123
+I1
+sVwant
+p124
+I1
+sVgive
+p125
+I1
+sVis
+p126
+I3
+sVturned
+p127
+I1
+sVfuck
+p128
+I7
+sVsay
+p129
+I10
+sVwarning
+p130
+I1
+sVim
+p131
+I7
+sVsomething
+p132
+I2
+sVrap
+p133
+I1
+sVready
+p134
+I1
+sVshit
+p135
+I1
+sVfunny
+p136
+I1
+sVna
+p137
+I2
+sVmake
+p138
+I3
+sVsight
+p139
+I1
+sVdetail
+p140
+I1
+sVcouch
+p141
+I2
+sVfood
+p142
+I1
+sVchest
+p143
+I1
+sVnaw
+p144
+I1
+sVyou
+p145
+I3
+sVroll
+p146
+I1
+sVplay
+p147
+I1
+sVtrack
+p148
+I2
+sVpaid
+p149
+I1
+sVmouth
+p150
+I2
+sVlay
+p151
+I1
+sVbluff
+p152
+I2
+sVnothing
+p153
+I1
+sVyours
+p154
+I1
+sVwhenever
+p155
+I1
+sVage
+p156
+I1
+sVcover
+p157
+I1
+sVtooth
+p158
+I2
+sVso
+p159
+I1
+sVcame
+p160
+I1
+sVtruce
+p161
+I2
+sVhol
+p162
+I1
+sVtalk
+p163
+I3
+s.

@@ -1,45 +1,366 @@
-"like a radio" lyrics
-ll cool j lyrics
-"like a radio"
-(feat. ryan leslie)
-"i'd like to make a request"
-what'chu wanna hear baby? ah-hah
-aww man
-uh-huh
-i keep the ass poppin like the locks on a benz
-after the afterparty we'll be gettin it in
-pause for a drink then we cuttin again
-i be your babysitter when i'm tuckin you in
-let it ride, no hands, then touch it again
-play dj on that ass, bump it again
-rotatin bed, watchin it spin
-your the lyrics i'm the beat, i'm killin this blend
-i'ma touch your little button, i'ma flip the switch (ay!)
-i'ma turn you on like a ra-d-io
-turn the lights out, plug me in
-come and turn me on like a ra-d-io
-i request her at night, she's my favorite song
-i'm the station, and the only one she cum on
-heavy rotation, all night long
-rap to me baby, turn my mic on
-i kill it like summer jam when i perform
-treat your body like a stage, jump right on
-i got your spot packed, tight as my song
-hands in the air, spotlight on
-(what's my motherf'n name?)
-l, l, cool, j
-nobody hot as me, no, way
-i keep heat for y'all, all, day
-i'm lockin down the game like rah-way
-ass like a turntable goin round and round
-cuttin it and scratchin it and rubbin it down
-you was hatin on the bars but you lovin 'em down
-you assumed i was soft - i'm thuggin it, wow!
-like a turntable goin round and round
-(i'm turn you on like a radio)
-like a turntable goin round and round
-(come and turn me on like a radio)
-"i'd like to make a request"
-aiyyo ryan! this like the number one requested most
-most requested, hahaha
-she loves this song!
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I3
+sVhatin
+p4
+I1
+sVradio
+p5
+I6
+sVtouch
+p6
+I2
+sVfeat
+p7
+I1
+sVima
+p8
+I3
+sVpause
+p9
+I1
+sVafterparty
+p10
+I1
+sVll
+p11
+I1
+sVpoppin
+p12
+I1
+sVjam
+p13
+I1
+sVcum
+p14
+I1
+sVlockin
+p15
+I1
+sVahhah
+p16
+I1
+sVdj
+p17
+I1
+sVsong
+p18
+I3
+sVbeat
+p19
+I1
+sVscratchin
+p20
+I1
+sVlovin
+p21
+I1
+sVgame
+p22
+I1
+sVhands
+p23
+I2
+sVrotation
+p24
+I1
+sVday
+p25
+I1
+sVcool
+p26
+I2
+sVwhatchu
+p27
+I1
+sVlike
+p28
+I16
+sVbutton
+p29
+I1
+sVgettin
+p30
+I1
+sVl
+I2
+sVryan
+p31
+I2
+sVnight
+p32
+I2
+sVkill
+p33
+I1
+sVsoft
+p34
+I1
+sVround
+p35
+I6
+sVyall
+p36
+I1
+sVheavy
+p37
+I1
+sVbody
+p38
+I1
+sVbars
+p39
+I1
+sVright
+p40
+I1
+sVbump
+p41
+I1
+sVjump
+p42
+I1
+sVturntable
+p43
+I3
+sVleslie
+p44
+I1
+sVshes
+p45
+I1
+sVpacked
+p46
+I1
+sVwow
+p47
+I1
+sVlights
+p48
+I1
+sVbabysitter
+p49
+I1
+sVgot
+p50
+I1
+sVwatchin
+p51
+I1
+sVass
+p52
+I3
+sVrubbin
+p53
+I1
+sVrahway
+p54
+I1
+sVlet
+p55
+I1
+sVcome
+p56
+I2
+sVstage
+p57
+I1
+sVplug
+p58
+I1
+sVon
+p59
+I4
+sVfavorite
+p60
+I1
+sVkeep
+p61
+I2
+sVturn
+p62
+I6
+sVmotherfn
+p63
+I1
+sVem
+p64
+I1
+sVwhats
+p65
+I1
+sVnumber
+p66
+I1
+sVone
+p67
+I2
+sVdown
+p68
+I2
+sVrotatin
+p69
+I1
+sVuhhuh
+p70
+I1
+sVwan
+p71
+I1
+sVlittle
+p72
+I1
+sVkillin
+p73
+I1
+sVassumed
+p74
+I1
+sVlong
+p75
+I1
+sVname
+p76
+I1
+sVstation
+p77
+I1
+sVtreat
+p78
+I1
+sVway
+p79
+I1
+sVgoin
+p80
+I3
+sVnobody
+p81
+I1
+sVheat
+p82
+I1
+sVhear
+p83
+I1
+sVcuttin
+p84
+I2
+sVbaby
+p85
+I2
+sVspin
+p86
+I1
+sVtuckin
+p87
+I1
+sVride
+p88
+I1
+sVj
+I2
+sVflip
+p89
+I1
+sVbed
+p90
+I1
+sVair
+p91
+I1
+sVloves
+p92
+I1
+sVhahaha
+p93
+I1
+sVthuggin
+p94
+I1
+sVspotlight
+p95
+I1
+sVrequest
+p96
+I3
+sVbenz
+p97
+I1
+sVlocks
+p98
+I1
+sVim
+p99
+I7
+sVrap
+p100
+I1
+sVin
+p101
+I3
+sVay
+p102
+I1
+sVid
+p103
+I2
+sVagain
+p104
+I3
+sVperform
+p105
+I1
+sVna
+p106
+I1
+sVmic
+p107
+I1
+sVtight
+p108
+I1
+sVhot
+p109
+I1
+sVrequested
+p110
+I2
+sVplay
+p111
+I1
+sVaww
+p112
+I1
+sVdrink
+p113
+I1
+sVspot
+p114
+I1
+sVaiyyo
+p115
+I1
+sVmost
+p116
+I1
+sVman
+p117
+I1
+sVwell
+p118
+I1
+sVswitch
+p119
+I1
+sVblend
+p120
+I1
+sVmake
+p121
+I2
+s.

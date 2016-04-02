@@ -1,83 +1,694 @@
-"money, hoes & power" lyrics
-ugk lyrics
-"money, hoes & power"
-(feat. jermaine dupri)
-yeah
-ha ha
-yeah
-that's right
-motherfuckers, come on!
-it's that lil' college park nigga, in fact, they call me "long dough"
-niggas hate me cause i'm wearin' platinum every song go (yeah)
-hoes love me cause i, cause i keep it comin' strong and yo
-i'm a pimp with mine every time i don't give a fuck who she is
-bitch, you can go (get out!)
-get another cause they love us niggas in the fast life
-niggas that can put it down and came up with they cash right (yeah)
-keep em', keep em' in the mall fresh, ball every night
-that's my life, i come through any time i want to and hit that ass right
-up like a flashlight, walkin' cause of all of my bling (bling!)
-one of the baddest motherfuckers that the game has seen (ha ha), think about it
-from the first time that ya heard me (yeah)
-way back in the 90s early (yeah)
-me and my pimpin' out here doin' our thing in swat
-i got the money, hoes and power
-we be in to see that ya cuttin', i'm all about cha'
-but if ya not up in the mix, girl, i ain't trippin'
-cause all day, all night, i be steady pimpin', pimpin'
-still smokin' out, pourin' up, keep these bitches hoin' up
-they break pimp c long bread cause everything i touch be blowin' up
-candy car, i'm a star
-choppin' blades, sippin' on bar
-young pimp, i'm from the south
-run off put that piece in ya mouth
-we jone, fuck a clone
-keep a lil' bitch on my phone
-all my cars blaze chrome
-bitch can't leave my dick alone, alone, alone
-you ain't from no memphis, bitch
-cause i was playin' project pat, hittin' the switch
-puttin' the dick up in ya dame
-every time make her say my name
-91, i been grippin' grain
-bitch nigga wanna steal my fame, fame, fame
-i be at home smokin' dro, dro
-and see a nigga doin' a dance on the video
-but i'm young pimp, steak and shrimp
-flyin' high like a blimp
-write my name in the sky on track
-tell the bitch to bring my money back, back, back, back, bitch
-(he talkin' directly to you)
-i got the money, hoes and power
-we be in to see that ya cuttin', i'm all about cha'
-but if ya not up in the mix, girl, i ain't trippin'
-cause all day, all night, i be steady pimpin', pimpin'
-(talk to me, talk to me)
-well if it ain't cash, then i don't want it
-i'm a million dollar striver, i get liver
-than the pimps that push clock punchers nine-to-fiver
-a high diver (yo), with mo' tricks up my sleeve than ya boy macguyver
-a cadaver, that'll get cha' voted off my island like "survivor" (shit!)
-is you blind (blind)? my pimpin' only gets better with age like a fine wine
-and it's time (time) to put up yo blinds
-i might raise a pimp to shine
-decide to yo mind, design
-two steps ahead of yo slow roll
-you best to get a grip on ya world, world
-or we'll put that "miracle whip" on ya girl
-pimp her, let a trick sip on that pearl
-let her pay that is
-ol' sucker for love, titty baby, mama's boy
-that's just the way that is
-and that's the way that it's goin' be, way that it's goin' be
-so ya might as well take ya lil' heartbreak hotel reside
-stuck in the mud, but still ridin' ass off to mo' me
-cause, uh...
-i got the money, hoes and power
-we be in to see that ya cuttin', i'm all about cha'
-but if ya not up in the mix, girl, i ain't trippin'
-cause all day, all night, i be steady pimpin', pimpin'
-bounce, come on, bounce, come on, bounce
-come on, keep bouncin'
-bounce, come on, bounce, come on, bounce, come on, keep bouncin'
-bounce, come on, bounce, come on, bounce
+(dp1
+Vugk
+p2
+I1
+sVreside
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I6
+sVdollar
+p7
+I1
+sVyoung
+p8
+I2
+sVbring
+p9
+I1
+sVdough
+p10
+I1
+sVgo
+p11
+I2
+sVtalk
+p12
+I2
+sVstill
+p13
+I2
+sVfeat
+p14
+I1
+sVflashlight
+p15
+I1
+sVslow
+p16
+I1
+sVblowin
+p17
+I1
+sVbaddest
+p18
+I1
+sVdick
+p19
+I2
+sVsky
+p20
+I1
+sVpourin
+p21
+I1
+sVbetter
+p22
+I1
+sVswat
+p23
+I1
+sVblaze
+p24
+I1
+sVpay
+p25
+I1
+sVblinds
+p26
+I1
+sVmight
+p27
+I2
+sVgrippin
+p28
+I1
+sVtake
+p29
+I1
+sVgrip
+p30
+I1
+sVjermaine
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I5
+sVget
+p34
+I5
+sVya
+p35
+I14
+sVsucker
+p36
+I1
+sVcadaver
+p37
+I1
+sVearly
+p38
+I1
+sVgame
+p39
+I1
+sVevery
+p40
+I4
+sVdecide
+p41
+I1
+sVworld
+p42
+I2
+sVmiracle
+p43
+I1
+sVday
+p44
+I3
+sVbread
+p45
+I1
+sVtrippin
+p46
+I3
+sVbar
+p47
+I1
+sVlike
+p48
+I4
+sVpimp
+p49
+I6
+sVhotel
+p50
+I1
+sVhoin
+p51
+I1
+sVroll
+p52
+I1
+sVleave
+p53
+I1
+sVsteps
+p54
+I1
+sVhittin
+p55
+I1
+sVnight
+p56
+I4
+sVsteak
+p57
+I1
+sVsteal
+p58
+I1
+sVem
+p59
+I2
+sVright
+p60
+I3
+sVmacguyver
+p61
+I1
+sVdirectly
+p62
+I1
+sVbe
+p63
+I1
+sVyeah
+p64
+I6
+sVbounce
+p65
+I9
+sVup
+p66
+I2
+sVtouch
+p67
+I1
+sVsee
+p68
+I4
+sVcollege
+p69
+I1
+sVcandy
+p70
+I1
+sVhoes
+p71
+I6
+sVplayin
+p72
+I1
+sVgirl
+p73
+I4
+sVdiver
+p74
+I1
+sVbest
+p75
+I1
+sVout
+p76
+I1
+sV90s
+p77
+I1
+sVdupri
+p78
+I1
+sVclock
+p79
+I1
+sVhate
+p80
+I1
+sVeverything
+p81
+I1
+sVvoted
+p82
+I1
+sVgot
+p83
+I3
+sVcause
+p84
+I11
+sVclone
+p85
+I1
+sVass
+p86
+I2
+sVaint
+p87
+I5
+sVmamas
+p88
+I1
+sVrun
+p89
+I1
+sVpower
+p90
+I5
+sVwan
+p91
+I1
+sVcars
+p92
+I1
+sVbitches
+p93
+I1
+sVmillion
+p94
+I1
+sVridin
+p95
+I1
+sVtitty
+p96
+I1
+sVlet
+p97
+I2
+sVsmokin
+p98
+I2
+sVput
+p99
+I4
+sVstrong
+p100
+I1
+sVcome
+p101
+I10
+sVshine
+p102
+I1
+sVon
+p103
+I1
+sVc
+I1
+sVol
+p104
+I1
+sVbouncin
+p105
+I2
+sVsurvivor
+p106
+I1
+sVisland
+p107
+I1
+sVblimp
+p108
+I1
+sVchoppin
+p109
+I1
+sVkeep
+p110
+I7
+sVwalkin
+p111
+I1
+sVthing
+p112
+I1
+sVgrain
+p113
+I1
+sVdro
+p114
+I2
+sVyou
+p115
+I1
+sVthink
+p116
+I1
+sVsouth
+p117
+I1
+sVfirst
+p118
+I1
+sVblind
+p119
+I2
+sVbling
+p120
+I2
+sVlove
+p121
+I3
+sVdont
+p122
+I2
+sVstuck
+p123
+I1
+sVone
+p124
+I1
+sValone
+p125
+I3
+sVnigga
+p126
+I3
+sVbitch
+p127
+I7
+sVanother
+p128
+I1
+sVcomin
+p129
+I1
+sVplatinum
+p130
+I1
+sVcha
+p131
+I4
+sVfast
+p132
+I1
+sVraise
+p133
+I1
+sVbaby
+p134
+I1
+sVchrome
+p135
+I1
+sVtwo
+p136
+I1
+sVlong
+p137
+I2
+sVname
+p138
+I2
+sVpearl
+p139
+I1
+sVcall
+p140
+I1
+sVway
+p141
+I4
+sVninetofiver
+p142
+I1
+sVtell
+p143
+I1
+sVstriver
+p144
+I1
+sVdame
+p145
+I1
+sVback
+p146
+I5
+sVlife
+p147
+I2
+sVpimpin
+p148
+I8
+sVboy
+p149
+I2
+sVfuck
+p150
+I2
+sVpark
+p151
+I1
+sVmine
+p152
+I1
+sVphone
+p153
+I1
+sVliver
+p154
+I1
+sVcuttin
+p155
+I3
+sV91
+p156
+I1
+sVha
+p157
+I4
+sVmemphis
+p158
+I1
+sVme
+p159
+I2
+sVahead
+p160
+I1
+sVwearin
+p161
+I1
+sVniggas
+p162
+I3
+sVcar
+p163
+I1
+sVmo
+p164
+I2
+sVcash
+p165
+I2
+sVus
+p166
+I1
+sVproject
+p167
+I1
+sVmall
+p168
+I1
+sVuh
+p169
+I1
+sVvideo
+p170
+I1
+sVpiece
+p171
+I1
+sVage
+p172
+I1
+sVsay
+p173
+I1
+sVthatll
+p174
+I1
+sVgive
+p175
+I1
+sVwell
+p176
+I3
+sVis
+p177
+I3
+sVmind
+p178
+I1
+sVit
+p179
+I2
+sVhigh
+p180
+I2
+sVheard
+p181
+I1
+sVcant
+p182
+I1
+sVim
+p183
+I9
+sVwant
+p184
+I2
+sVhome
+p185
+I1
+sVseen
+p186
+I1
+sVshrimp
+p187
+I1
+sVfame
+p188
+I3
+sVshit
+p189
+I1
+sVtrick
+p190
+I1
+sVsippin
+p191
+I1
+sVpat
+p192
+I1
+sVdesign
+p193
+I1
+sVlil
+p194
+I3
+sVna
+p195
+I1
+sVmake
+p196
+I1
+sVsong
+p197
+I1
+sVwrite
+p198
+I1
+sVmix
+p199
+I3
+sVheartbreak
+p200
+I1
+sVpunchers
+p201
+I1
+sVwhip
+p202
+I1
+sVjone
+p203
+I1
+sVsleeve
+p204
+I1
+sVputtin
+p205
+I1
+sVgets
+p206
+I1
+sVtalkin
+p207
+I1
+sVblades
+p208
+I1
+sVball
+p209
+I1
+sVstar
+p210
+I1
+sVtrack
+p211
+I1
+sVdoin
+p212
+I2
+sVpimps
+p213
+I1
+sVsip
+p214
+I1
+sVmouth
+p215
+I1
+sVgoin
+p216
+I2
+sVbreak
+p217
+I1
+sVmud
+p218
+I1
+sVtricks
+p219
+I1
+sVflyin
+p220
+I1
+sVsteady
+p221
+I3
+sVfine
+p222
+I1
+sVmotherfuckers
+p223
+I2
+sVswitch
+p224
+I1
+sVfact
+p225
+I1
+sVtime
+p226
+I6
+sVpush
+p227
+I1
+sVfresh
+p228
+I1
+sVthats
+p229
+I4
+sVcame
+p230
+I1
+sVwine
+p231
+I1
+s.

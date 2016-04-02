@@ -1,55 +1,463 @@
-"what's more" lyrics
-de la soul lyrics
-"what's more"
-plug one, plug two, plug one, plug two
-plug one, plug two, plug one
-tell me what's more essential
-rap lines, party past nine,
-or reading which is fundamental
-tell me what's more pollution
-black fog, burning log
-or infested prostitution
-tell me what's more appealing
-fast food job, corn on the cob
-or interstate drug dealing
-tell me what's more tantalising
-flip flop, skeezer lies and props
-or three feet high and rising
-tell me, what's more?
-tell me what's more demanding
-a dominant race, a fad called base
-or peace and understanding
-tell me what's more neglected
-teaching our seeds the fact there's greed
-or words being said in a record
-tell me what's more pathetic
-a lallygag lush, a habit to cuss
-or a lawsuit filed on a medic
-tell me what's more amusing
-comic strip, or break that hip
-or what prince paul's producing
-tell me, what's more?
-tell me what's more old-fashioned
-lemonade, a black man's fade
-or a kiss that's soaked in passion
-tell me what's more secretive
-love looks, a diary book
-or the de la style us speakers give
-tell me what's more off-tempo
-wearing pink, a fizzy lipton drink
-or a brother with acne and dimples
-tell me what's more confusing
-a rubik's cube, a dusted dude
-or a figure in which one is choosing
-tell me, what's more?
-yo pos and dove, stand clear to be plugged up...
-ah the hell with that, i don't have time for playin'
-with this, just tell me what's going on, i wanna know
-what's going on, go ahead, pos and dove, tell me what's
-going on, i just wanna know what's happening man, tell me
-what's going on, i'd just like to say what's up to the
-jungle brothers, i'd like to say what's up to the quest,
-i'd like to say what's up to monie, i'd like to say what's
-up to latifah, mike g in the house, prince paul, what's up
-man, this is p.a. mase and i'd like to say, cool dj red alert!
-what's up, man? all right okay, we outta here, peace y'all!
+(dp1
+Vsoaked
+p2
+I1
+sVinfested
+p3
+I1
+sVlallygag
+p4
+I1
+sVlyrics
+p5
+I2
+sVrubiks
+p6
+I1
+sVfizzy
+p7
+I1
+sVlooks
+p8
+I1
+sVskeezer
+p9
+I1
+sVlove
+p10
+I1
+sVpaul
+p11
+I1
+sVprince
+p12
+I2
+sVstyle
+p13
+I1
+sVla
+p14
+I2
+sVacne
+p15
+I1
+sVbook
+p16
+I1
+sVblack
+p17
+I2
+sVfade
+p18
+I1
+sVteaching
+p19
+I1
+sVinterstate
+p20
+I1
+sVhip
+p21
+I1
+sVme
+p22
+I1
+sVcuss
+p23
+I1
+sVcube
+p24
+I1
+sVdominant
+p25
+I1
+sVyo
+p26
+I1
+sVfood
+p27
+I1
+sVde
+p28
+I2
+sVbreak
+p29
+I1
+sVquest
+p30
+I1
+sVdiary
+p31
+I1
+sVknow
+p32
+I2
+sVkiss
+p33
+I1
+sVfad
+p34
+I1
+sVcool
+p35
+I1
+sVtantalising
+p36
+I1
+sVlike
+p37
+I5
+sVbrother
+p38
+I1
+sVrace
+p39
+I1
+sVessential
+p40
+I1
+sVyall
+p41
+I1
+sVright
+p42
+I1
+sVhabit
+p43
+I1
+sVdealing
+p44
+I1
+sVsecretive
+p45
+I1
+sVsoul
+p46
+I1
+sVpast
+p47
+I1
+sVgo
+p48
+I1
+sVchoosing
+p49
+I1
+sVhell
+p50
+I1
+sVplayin
+p51
+I1
+sVconfusing
+p52
+I1
+sVsaid
+p53
+I1
+sVdusted
+p54
+I1
+sVfog
+p55
+I1
+sVpassion
+p56
+I1
+sVprops
+p57
+I1
+sVdimples
+p58
+I1
+sVreading
+p59
+I1
+sVred
+p60
+I1
+sVpathetic
+p61
+I1
+sVcorn
+p62
+I1
+sVunderstanding
+p63
+I1
+sVjob
+p64
+I1
+sVbase
+p65
+I1
+sVlawsuit
+p66
+I1
+sVplug
+p67
+I7
+sVmans
+p68
+I1
+sVahead
+p69
+I1
+sVdrug
+p70
+I1
+sVcob
+p71
+I1
+sVstand
+p72
+I1
+sVthats
+p73
+I1
+sVwhats
+p74
+I28
+sVdont
+p75
+I1
+sVburning
+p76
+I1
+sVpa
+p77
+I1
+sVpos
+p78
+I2
+sVlatifah
+p79
+I1
+sVone
+p80
+I5
+sVfeet
+p81
+I1
+sVlies
+p82
+I1
+sVrising
+p83
+I1
+sVstrip
+p84
+I1
+sVcomic
+p85
+I1
+sVwan
+p86
+I2
+sVlog
+p87
+I1
+sVdude
+p88
+I1
+sVtwo
+p89
+I3
+sVfast
+p90
+I1
+sVgoing
+p91
+I4
+sVhouse
+p92
+I1
+sVtell
+p93
+I18
+sVmore
+p94
+I4
+sVmike
+p95
+I1
+sVlemonade
+p96
+I1
+sVlush
+p97
+I1
+sVfiled
+p98
+I1
+sVproducing
+p99
+I1
+sVofftempo
+p100
+I1
+sVg
+I1
+sVflip
+p101
+I1
+sVus
+p102
+I1
+sVrecord
+p103
+I1
+sVappealing
+p104
+I1
+sVnine
+p105
+I1
+sVthree
+p106
+I1
+sVcalled
+p107
+I1
+sVtheres
+p108
+I1
+sVwearing
+p109
+I1
+sVoutta
+p110
+I1
+sVfigure
+p111
+I1
+sVgive
+p112
+I1
+sVah
+p113
+I1
+sVneglected
+p114
+I1
+sVprostitution
+p115
+I1
+sVhigh
+p116
+I1
+sVsay
+p117
+I5
+sVrap
+p118
+I1
+sVdj
+p119
+I1
+sVid
+p120
+I5
+sVpink
+p121
+I1
+sVspeakers
+p122
+I1
+sVoldfashioned
+p123
+I1
+sVna
+p124
+I2
+sVmedic
+p125
+I1
+sVpauls
+p126
+I1
+sVplugged
+p127
+I1
+sVseeds
+p128
+I1
+sVamusing
+p129
+I1
+sVparty
+p130
+I1
+sVlipton
+p131
+I1
+sVjungle
+p132
+I1
+sVokay
+p133
+I1
+sVbrothers
+p134
+I1
+sVdrink
+p135
+I1
+sVpeace
+p136
+I2
+sVdemanding
+p137
+I1
+sValert
+p138
+I1
+sVdove
+p139
+I2
+sVman
+p140
+I3
+sVmonie
+p141
+I1
+sVmase
+p142
+I1
+sVhappening
+p143
+I1
+sVup
+p144
+I2
+sVclear
+p145
+I1
+sVflop
+p146
+I1
+sVlines
+p147
+I1
+sVfact
+p148
+I1
+sVfundamental
+p149
+I1
+sVtime
+p150
+I1
+sVthe
+p151
+I1
+sVpollution
+p152
+I1
+sVwords
+p153
+I1
+sVgreed
+p154
+I1
+s.

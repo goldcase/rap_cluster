@@ -1,17 +1,158 @@
-"questions" lyrics
-e-40 lyrics
-"questions"
-(feat. droop-e)
-c'mon tiger, i'm finna take you to school
-up - put your seat belt on!
-dad are you a hustler?
-i guess you can say that, hustlin these records and tapes
-where you get all these revenues?
-hmm~! down and dirty about my scratch
-and dad, why you always mean muggin?
-i'm just tired of being stepped on son
-dad are you a gangster?
-i don't know, some people seem to think so~!
-why you always carry that big ol' gat?
-cause i'd rather be caught with than without
-dad - tell me why you killed that man!
+(dp1
+Vdroope
+p2
+I1
+sVdont
+p3
+I1
+sVlyrics
+p4
+I2
+sVtired
+p5
+I1
+sVscratch
+p6
+I1
+sVseat
+p7
+I1
+sVgangster
+p8
+I1
+sVsay
+p9
+I1
+sVcmon
+p10
+I1
+sVim
+p11
+I2
+sVquestions
+p12
+I2
+sVcarry
+p13
+I1
+sVseem
+p14
+I1
+sVfeat
+p15
+I1
+sVfinna
+p16
+I1
+sVhustler
+p17
+I1
+sVbelt
+p18
+I1
+sVguess
+p19
+I1
+sVrather
+p20
+I1
+sVcaught
+p21
+I1
+sVpeople
+p22
+I1
+sVid
+p23
+I1
+sVtake
+p24
+I1
+sVhustlin
+p25
+I1
+sVstepped
+p26
+I1
+sVcause
+p27
+I1
+sVtell
+p28
+I1
+sVdad
+p29
+I4
+sVget
+p30
+I1
+sVbig
+p31
+I1
+sVgat
+p32
+I1
+sVschool
+p33
+I1
+sVtiger
+p34
+I1
+sVrecords
+p35
+I1
+sVknow
+p36
+I1
+sVput
+p37
+I1
+sVson
+p38
+I1
+sVkilled
+p39
+I1
+sVman
+p40
+I1
+sVon
+p41
+I1
+sVe40
+p42
+I1
+sVol
+p43
+I1
+sVtapes
+p44
+I1
+sVhmm
+p45
+I1
+sValways
+p46
+I2
+sVwithout
+p47
+I1
+sVso
+p48
+I1
+sVdirty
+p49
+I1
+sVmuggin
+p50
+I1
+sVrevenues
+p51
+I1
+sVthink
+p52
+I1
+sVmean
+p53
+I1
+s.

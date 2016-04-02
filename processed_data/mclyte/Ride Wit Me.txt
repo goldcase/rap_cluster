@@ -1,83 +1,670 @@
-"ride wit me" lyrics
-mc lyte lyrics
-"ride wit me"
-lytro, yeah, hm, yo
-yeah, fuck the rest be, nobody can test me
-rich like nestle, thick like wesley
-snipe out, i'm the type that be about
-crashin' up in ya joint and knockin' the lights out
-feelin' lovely, trust me, i'm drug free
-only chewed on bringing out the thug in me
-cos you sittin' on my nerves, when we've already heard
-that garbage, played-out crap you call rap
-some chicks say they love that, well i'm above that
-calling me a  it's two, double o two
-and my crew roll thick like big
-act up, and be puttin' that ass to sleep
-you got nothing for me, been there, smelt the dope and
-rollin' with the shelter, making niggas jail free
-like a luger, i spit thick shit
-that a leave ya squad sick, cos i ran up in this shit
-holla, get crunk, get live with me
-brotha, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-holla, get crunk, get live with me
-brother, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-still got the little frame with the big name
-watch it change cos, nah nigga, we ain't in the same gang
-we walk different and we talk a different slang
-you a sidekick, and i'm a four point six range
-you a one roof flat, i'm fifty acres of land
-in jamaica with your man laid up, gettin' a tan
-thought you knew, i'm overdue
-and you're overrated so cats are over you
-i inspired you, come on now, no way
-that rumour, the consumer won't believe it anyway
-never play with the messenger, head on joan of arc
-when i'm coming through these parts like just cut the dark
-i'm a trendsetter, go getter, bringer back
-cos i'm fed up, ready to get a set up
-oh you scurred, vision blurred
-cos i serve these words
-and pitch them bitches with a curse
-holla, get crunk, get live with me
-brotha, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-holla, get crunk, get live with me
-brother, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-yo what i'm sayin i've been layin' waitin' for the right situation
-new york hawk city playin', back in the bk bomber
-niggas in the hood call me lyte
-but brothers call me lana moorer the high scorer
-play fool if you wanna, we closin' after quarter
-i started it and i shut the shit down
-sit down, don't nobody move, i'm making haters quit now
-been a long time coming but i'm running with the torch
-race, got a lot a rats but i can't be caught, or bought
-cos i won't sell out, that's why me and the big dogs, we fell out
-not with a major, but i'm still major league
-crash ya dome with this  then watch your nose bleed
-you want it, you can get it anytime
-cos i got many lines for niggas of any kind, you know me
-holla, get crunk, get live with me
-brotha, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-holla, get crunk, get live with me
-brother, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-holla, get crunk, get live with me
-brotha, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
-holla, get crunk, get live with me
-brother, don't make you as fly as me
-gotta get yo' ass up and vibe with me
-come on ride with me, come on ride with me
+(dp1
+Vchicks
+p2
+I1
+sVnow
+p3
+I1
+sVset
+p4
+I1
+sVlyrics
+p5
+I2
+sVbrotha
+p6
+I4
+sVmove
+p7
+I1
+sVanyway
+p8
+I1
+sVrest
+p9
+I1
+sVfifty
+p10
+I1
+sVfour
+p11
+I1
+sVsleep
+p12
+I1
+sVgang
+p13
+I1
+sVpitch
+p14
+I1
+sVgo
+p15
+I1
+sVlytro
+p16
+I1
+sVchewed
+p17
+I1
+sVaint
+p18
+I1
+sVcut
+p19
+I1
+sVsayin
+p20
+I1
+sVcrew
+p21
+I1
+sVparts
+p22
+I1
+sVrich
+p23
+I1
+sVdrug
+p24
+I1
+sVbringer
+p25
+I1
+sVta
+p26
+I8
+sVfool
+p27
+I1
+sVfly
+p28
+I8
+sVweve
+p29
+I1
+sVcrash
+p30
+I1
+sVyo
+p31
+I10
+sVget
+p32
+I26
+sVya
+p33
+I3
+sVbig
+p34
+I3
+sVdope
+p35
+I1
+sVsittin
+p36
+I1
+sVwatch
+p37
+I2
+sVfeelin
+p38
+I1
+sVdark
+p39
+I1
+sVjoint
+p40
+I1
+sVknow
+p41
+I1
+sVwords
+p42
+I1
+sVnew
+p43
+I1
+sVacres
+p44
+I1
+sVone
+p45
+I1
+sVbringing
+p46
+I1
+sVyou
+p47
+I1
+sVname
+p48
+I1
+sVrumour
+p49
+I1
+sVlike
+p50
+I5
+sVknockin
+p51
+I1
+sVanytime
+p52
+I1
+sVgettin
+p53
+I1
+sVbrother
+p54
+I4
+sVcalling
+p55
+I1
+sVleave
+p56
+I1
+sVdome
+p57
+I1
+sVrace
+p58
+I1
+sVoverrated
+p59
+I1
+sVnerves
+p60
+I1
+sVquarter
+p61
+I1
+sVlayin
+p62
+I1
+sVvision
+p63
+I1
+sVjamaica
+p64
+I1
+sVnigga
+p65
+I1
+sVrats
+p66
+I1
+sVframe
+p67
+I1
+sVtorch
+p68
+I1
+sVyeah
+p69
+I2
+sVblurred
+p70
+I1
+sVarc
+p71
+I1
+sVwont
+p72
+I2
+sVjoan
+p73
+I1
+sVout
+p74
+I2
+sVsituation
+p75
+I1
+sVstill
+p76
+I2
+sVlights
+p77
+I1
+sVlaid
+p78
+I1
+sVmessenger
+p79
+I1
+sVgot
+p80
+I12
+sVbought
+p81
+I1
+sVass
+p82
+I9
+sVshut
+p83
+I1
+sVright
+p84
+I1
+sVwan
+p85
+I1
+sVbitches
+p86
+I1
+sVnever
+p87
+I1
+sVfed
+p88
+I1
+sVfree
+p89
+I2
+sVbk
+p90
+I1
+sVwesley
+p91
+I1
+sVyork
+p92
+I1
+sVcrashin
+p93
+I1
+sVhaters
+p94
+I1
+sVluger
+p95
+I1
+sVbleed
+p96
+I1
+sVchange
+p97
+I1
+sVleague
+p98
+I1
+sVcos
+p99
+I7
+sVoh
+p100
+I1
+sVmany
+p101
+I1
+sVinspired
+p102
+I1
+sVplayedout
+p103
+I1
+sVlyte
+p104
+I2
+sVrange
+p105
+I1
+sVfell
+p106
+I1
+sVmoorer
+p107
+I1
+sVact
+p108
+I1
+sVthats
+p109
+I1
+sVmajor
+p110
+I2
+sValready
+p111
+I1
+sVlove
+p112
+I1
+sVdont
+p113
+I9
+sVgarbage
+p114
+I1
+sVpoint
+p115
+I1
+sVwalk
+p116
+I1
+sVdown
+p117
+I1
+sVclosin
+p118
+I1
+sVwit
+p119
+I2
+sVthick
+p120
+I3
+sVtrust
+p121
+I1
+sVhood
+p122
+I1
+sVnose
+p123
+I1
+sVcity
+p124
+I1
+sVlittle
+p125
+I1
+sVcrap
+p126
+I1
+sVcrunk
+p127
+I8
+sVcome
+p128
+I17
+sVcaught
+p129
+I1
+sVtwo
+p130
+I2
+sVlong
+p131
+I1
+sVlive
+p132
+I8
+sVcats
+p133
+I1
+sVcall
+p134
+I3
+sVway
+p135
+I1
+sVlovely
+p136
+I1
+sVtype
+p137
+I1
+sVdogs
+p138
+I1
+sVflat
+p139
+I1
+sVhead
+p140
+I1
+sVlot
+p141
+I1
+sVspit
+p142
+I1
+sVthat
+p143
+I1
+sVstarted
+p144
+I1
+sVnobody
+p145
+I2
+sVserve
+p146
+I1
+sVabout
+p147
+I1
+sVcant
+p148
+I1
+sVback
+p149
+I2
+sVgetter
+p150
+I1
+sVhm
+p151
+I1
+sVbelieve
+p152
+I1
+sVsnipe
+p153
+I1
+sVme
+p154
+I36
+sVkind
+p155
+I1
+sVmc
+p156
+I1
+sVniggas
+p157
+I3
+sVdouble
+p158
+I1
+sVride
+p159
+I18
+sVup
+p160
+I1
+sVroof
+p161
+I1
+sVbomber
+p162
+I1
+sVnestle
+p163
+I1
+sVmaking
+p164
+I2
+sVand
+p165
+I1
+sVive
+p166
+I1
+sVready
+p167
+I1
+sVyoure
+p168
+I1
+sVwant
+p169
+I1
+sVran
+p170
+I1
+sVlines
+p171
+I1
+sVfuck
+p172
+I1
+sVhigh
+p173
+I1
+sVheard
+p174
+I1
+sVsay
+p175
+I1
+sVim
+p176
+I13
+sVo
+I1
+sVrap
+p177
+I1
+sVplayin
+p178
+I1
+sVthug
+p179
+I1
+sVtan
+p180
+I1
+sVshit
+p181
+I3
+sVsell
+p182
+I1
+sVholla
+p183
+I8
+sVdifferent
+p184
+I2
+sVsmelt
+p185
+I1
+sVsit
+p186
+I1
+sVvibe
+p187
+I8
+sVna
+p188
+I1
+sVmake
+p189
+I8
+sVsix
+p190
+I1
+sVsquad
+p191
+I1
+sVsick
+p192
+I1
+sVtest
+p193
+I1
+sVputtin
+p194
+I1
+sVroll
+p195
+I1
+sVscurred
+p196
+I1
+sVwaitin
+p197
+I1
+sVplay
+p198
+I2
+sVtrendsetter
+p199
+I1
+sVbrothers
+p200
+I1
+sVshelter
+p201
+I1
+sVknew
+p202
+I1
+sVquit
+p203
+I1
+sVrunning
+p204
+I1
+sVcurse
+p205
+I1
+sVscorer
+p206
+I1
+sVcoming
+p207
+I2
+sVnothing
+p208
+I1
+sVhawk
+p209
+I1
+sVslang
+p210
+I1
+sVman
+p211
+I1
+sVland
+p212
+I1
+sVlana
+p213
+I1
+sVsidekick
+p214
+I1
+sVwell
+p215
+I1
+sVrollin
+p216
+I1
+sVthought
+p217
+I1
+sVjail
+p218
+I1
+sVtime
+p219
+I1
+sVconsumer
+p220
+I1
+sVnah
+p221
+I1
+sVtalk
+p222
+I1
+sVoverdue
+p223
+I1
+s.

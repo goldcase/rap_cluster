@@ -1,33 +1,209 @@
-"all night long" lyrics
-scarface lyrics
-"all night long"
-(feat. f.l.a.j.)
-well it was raining all day long
-the night before we fought and saturday
-was gone and it was raining
-all day long
-i thought last night would never end
-now saturday is cold and damp and
-i left you all alone, i didn't talk at all
-you felt it all
-the way that i got no more to say
-and the rest of you can say its right
-but i don't trust a thing in sight
-when everything is overrated,
-you're so good you just can't fake it
-i waited for some kind of answer,
-some kind words so that i can cold ya
-i left you all alone
-i didn't talk at all and now i feel so sad
-i guess i just needed a day to feel lonely
-lonely and blue.
-oh, how about you?
-well it was raining all day long
-well it was raining all day long
-well it was raining all day long
-well it was raining all day long
-punk rock millionaires with coke up their nose
-writing records in designer homes
-but the rains kinda nice
-and it's really all right if we don't talk at all
-it's only one song!
+(dp1
+Vand
+p2
+I1
+sVraining
+p3
+I6
+sVall
+p4
+I3
+sVright
+p5
+I2
+sVdont
+p6
+I2
+sVlyrics
+p7
+I2
+sVgone
+p8
+I1
+sVfeel
+p9
+I2
+sVpunk
+p10
+I1
+sVit
+p11
+I1
+sVrest
+p12
+I1
+sVsad
+p13
+I1
+sVmillionaires
+p14
+I1
+sVsay
+p15
+I2
+sVgood
+p16
+I1
+sVscarface
+p17
+I1
+sVsight
+p18
+I1
+sVfake
+p19
+I1
+sVkinda
+p20
+I1
+sVdesigner
+p21
+I1
+sVcold
+p22
+I2
+sVtrust
+p23
+I1
+sVfeat
+p24
+I1
+sVsaturday
+p25
+I2
+sVreally
+p26
+I1
+sVblue
+p27
+I1
+sVwaited
+p28
+I1
+sVguess
+p29
+I1
+sVend
+p30
+I1
+sVwould
+p31
+I1
+sVneeded
+p32
+I1
+sVrains
+p33
+I1
+sVdamp
+p34
+I1
+sVlong
+p35
+I8
+sVwriting
+p36
+I1
+sVeverything
+p37
+I1
+sVlonely
+p38
+I2
+sVfought
+p39
+I1
+sVway
+p40
+I1
+sVanswer
+p41
+I1
+sVgot
+p42
+I1
+sVcoke
+p43
+I1
+sVnose
+p44
+I1
+sVfelt
+p45
+I1
+sVsong
+p46
+I1
+sVya
+p47
+I1
+sVrock
+p48
+I1
+sVnever
+p49
+I1
+sVrecords
+p50
+I1
+sVwords
+p51
+I1
+sValone
+p52
+I2
+sVone
+p53
+I1
+sVday
+p54
+I7
+sVflaj
+p55
+I1
+sVhomes
+p56
+I1
+sVkind
+p57
+I2
+sVlast
+p58
+I1
+sVoh
+p59
+I1
+sVyoure
+p60
+I1
+sVwell
+p61
+I5
+sVcant
+p62
+I1
+sVthought
+p63
+I1
+sVthing
+p64
+I1
+sVoverrated
+p65
+I1
+sVnight
+p66
+I4
+sVnice
+p67
+I1
+sVdidnt
+p68
+I2
+sVtalk
+p69
+I3
+sVleft
+p70
+I2
+s.

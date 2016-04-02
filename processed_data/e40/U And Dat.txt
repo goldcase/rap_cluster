@@ -1,76 +1,490 @@
-"u and dat" lyrics
-e-40 lyrics
-"u and dat"
-(feat. t-pain, kandi girl)
-girl, i been shaking, sticking and moving tryna to get you and that booty
-tryna get to you and that booty
-tryna get to you and that booty
-girl, i been shaking and acting a donkey tryna to get you and that monkey
-tryna to get you and that monkey
-tryna to get you and that monkey
-girl, he simping (simping)
-i walk up in the club with a limping (limping)
-god listen, what you gonna do, with this pimping
-what you gonna do, with this pimping
-girl, i'm a call ya (call ya)
-later on tonight or tomorrow ('morrow), now follow
-what you gonna do, with this baller
-what you gonna do, with this baller
-what you gonna do when i bend the block (bend the block)
-pull up on that ass in a brand new drop (brand new drop)
-speakers on blast with tremendous knock ('mendous knock)
-tv's in the dash, rims just won't stop
-you need to be down with a pimp like me
-i ain't turning down nothing but my collar, you see
-i'm a leave you with my number, you should holla at me
-cuz i'm a baller, can't nobody hustle harder than me, oooh
-girl, i been shaking, sticking and moving tryna to get you and that booty
-tryna get to you and that booty
-tryna get to you and that booty
-girl, i been shaking and acting a donkey tryna to get you and that monkey
-tryna to get you and that monkey
-tryna to get you and that monkey
-oooh, your ass is right
-i ain't tryna let that pass me tonight
-i'ma put my bid in and tell you something slick
-whisper in your ear while i'm holding my dick
-i don't mean no harm, it's the hood in me (hood in me)
-sipping on that richard hennessy (hennessy)
-psychedelic colors in my jewelry (jewelry)
-suckers hella jealous cuz you digging me, oooh
-now what you gonna do mama
-i'm tryna dip later on, me and you mama
-like the way that you groove and you move mama
-you know the women love me, i'm the 40 boy (40 boy)
-popping my p's cuz i'm laced with game
-nathen but the yay flowing through my vein
-she wear miss sixty, can't fit in the gucci
-cuz her ass big enough to sit a cup on her booty (goodness!)
-girl, i been shaking, sticking and moving tryna to get you and that booty
-tryna get to you and that booty
-tryna get to you and that booty
-girl, i been shaking and acting a donkey tryna to get you and that monkey
-tryna to get you and that monkey
-tryna to get you and that monkey
-yeah i see you looking (looking)
-but my ass in these jeans got you shook, and (shook, and)
-i don't think you know what to do with this pussy
-what you gonna do, with this pussy
-yeah i know you want this (want this)
-tryna chase me through the club for this good shit (good shit)
-but i don't think you can handle, this pussy
-what you gonna do, with this pussy
-you looking like you got that good gooshy, gooshy
-fucking round with me, i beat the brakes off that pussy
-have your ass cumming like a porn star movie
-tell your friends and i bet they all wanna do me
-hoes know me, i'm e-fo-oh (e-fo-oh)
-they recognize pimping when i step in the door (step in the door)
-higher than a satellite full of that dro (full of that dro)
-holla at a playa when you ready to go, oooh
-girl, i been shaking, sticking and moving tryna to get you and that booty
-tryna get to you and that booty
-tryna get to you and that booty
-girl, i been shaking and acting a donkey tryna to get you and that monkey
-tryna to get you and that monkey
-tryna to get you and that monkey
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVcolors
+p4
+I1
+sVgo
+p5
+I1
+sVfollow
+p6
+I1
+sVfeat
+p7
+I1
+sVaint
+p8
+I2
+sVlaced
+p9
+I1
+sVballer
+p10
+I3
+sVfit
+p11
+I1
+sVcup
+p12
+I1
+sVdick
+p13
+I1
+sVcuz
+p14
+I4
+sVgood
+p15
+I3
+sVhandle
+p16
+I1
+sVdigging
+p17
+I1
+sVget
+p18
+I24
+sVya
+p19
+I2
+sVbig
+p20
+I1
+sVbid
+p21
+I1
+sVstop
+p22
+I1
+sVsipping
+p23
+I1
+sVdat
+p24
+I2
+sVgame
+p25
+I1
+sVknow
+p26
+I4
+sVgot
+p27
+I2
+sVblast
+p28
+I1
+sVwont
+p29
+I1
+sVknock
+p30
+I2
+sVlike
+p31
+I4
+sVpimp
+p32
+I1
+sVnathen
+p33
+I1
+sVdrop
+p34
+I2
+sVleave
+p35
+I1
+sVefooh
+p36
+I2
+sVoooh
+p37
+I4
+sVshaking
+p38
+I8
+sVround
+p39
+I1
+sVmean
+p40
+I1
+sVharm
+p41
+I1
+sVright
+p42
+I1
+sVbooty
+p43
+I13
+sVbrakes
+p44
+I1
+sVporn
+p45
+I1
+sVfucking
+p46
+I1
+sVyeah
+p47
+I2
+sVtvs
+p48
+I1
+sVsee
+p49
+I2
+sVpass
+p50
+I1
+sVgirl
+p51
+I11
+sVpopping
+p52
+I1
+sVgon
+p53
+I8
+sVjewelry
+p54
+I2
+sVrichard
+p55
+I1
+sVgod
+p56
+I1
+sVslick
+p57
+I1
+sVlooking
+p58
+I3
+sVacting
+p59
+I4
+sVplaya
+p60
+I1
+sVflowing
+p61
+I1
+sVnew
+p62
+I2
+sVhustle
+p63
+I1
+sVass
+p64
+I5
+sVima
+p65
+I1
+sVfull
+p66
+I2
+sVturning
+p67
+I1
+sVrims
+p68
+I1
+sVsixty
+p69
+I1
+sVdip
+p70
+I1
+sVstep
+p71
+I2
+sVlet
+p72
+I1
+sVwear
+p73
+I1
+sVput
+p74
+I1
+sVsuckers
+p75
+I1
+sVboy
+p76
+I2
+sVpimping
+p77
+I3
+sVdro
+p78
+I2
+sVshook
+p79
+I2
+sVthink
+p80
+I2
+sVblock
+p81
+I2
+sVsticking
+p82
+I4
+sVlove
+p83
+I1
+sVdont
+p84
+I3
+sVpussy
+p85
+I5
+sVjeans
+p86
+I1
+sVnumber
+p87
+I1
+sVwalk
+p88
+I1
+sVjealous
+p89
+I1
+sVmendous
+p90
+I1
+sVmiss
+p91
+I1
+sVtomorrow
+p92
+I1
+sVhood
+p93
+I2
+sVps
+p94
+I1
+sVyay
+p95
+I1
+sVmonkey
+p96
+I12
+sVtremendous
+p97
+I1
+sVcall
+p98
+I2
+sVvein
+p99
+I1
+sVway
+p100
+I1
+sVrecognize
+p101
+I1
+sVmama
+p102
+I3
+sVtell
+p103
+I2
+sVlisten
+p104
+I1
+sVtryna
+p105
+I27
+sVdoor
+p106
+I2
+sVkandi
+p107
+I1
+sVenough
+p108
+I1
+sVclub
+p109
+I2
+sVbrand
+p110
+I2
+sVnobody
+p111
+I1
+sVhennessy
+p112
+I2
+sVear
+p113
+I1
+sVwomen
+p114
+I1
+sVme
+p115
+I4
+sVdash
+p116
+I1
+sVe40
+p117
+I1
+sVthis
+p118
+I1
+sVharder
+p119
+I1
+sVgucci
+p120
+I1
+sVtpain
+p121
+I1
+sVgroove
+p122
+I1
+sVbet
+p123
+I1
+sVsomething
+p124
+I1
+sVand
+p125
+I1
+sVdonkey
+p126
+I4
+sVwant
+p127
+I2
+sVwan
+p128
+I1
+sVwhisper
+p129
+I1
+sVhoes
+p130
+I1
+sVtonight
+p131
+I2
+sVready
+p132
+I1
+sVcant
+p133
+I2
+sVim
+p134
+I8
+sVlimping
+p135
+I2
+sVgoodness
+p136
+I1
+sVneed
+p137
+I1
+sVshit
+p138
+I2
+sVchase
+p139
+I1
+sVholla
+p140
+I2
+sVspeakers
+p141
+I1
+sVsit
+p142
+I1
+sVna
+p143
+I9
+sV40
+p144
+I2
+sVbeat
+p145
+I1
+sVholding
+p146
+I1
+sVgooshy
+p147
+I2
+sVcumming
+p148
+I1
+sVhigher
+p149
+I1
+sVsatellite
+p150
+I1
+sVstar
+p151
+I1
+sVmoving
+p152
+I4
+sVnothing
+p153
+I1
+sVfriends
+p154
+I1
+sVcollar
+p155
+I1
+sVpsychedelic
+p156
+I1
+sVpull
+p157
+I1
+sVbend
+p158
+I2
+sVlater
+p159
+I2
+sVsimping
+p160
+I2
+sVmorrow
+p161
+I1
+sVhella
+p162
+I1
+sVu
+I2
+sVmovie
+p163
+I1
+s.

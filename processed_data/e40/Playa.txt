@@ -1,76 +1,603 @@
-"playa" lyrics
-e-40 lyrics
-"playa"
-(feat. v.t)
-i'm a motherfucking player, player
-(a player)
-you a motherfucking hater, hater
-(a hater)
-when it comes to these hoes
-(what you do?)
-i pull em with my eyes closed
-(tell em)
-i'm a motherfucking player, player
-(a player)
-you a motherfucking hater, hater
-(a hater)
-when it comes to these hoes
-(what you do?)
-i pull em with my eyes closed
-(tell em)
-off the rip, stick to the script committed to the grit
-dollar devoter, paper influence i'm the shit
-i'm outchea with the sharks killer whales and the piranas
-haters hate me like fox news hate obama
-in the battle field they told me to beast and be a savage
-yearly, not just a march every day this man has gotta have bounce back abilities, gotta have get back skills
-its hard to recover after taking a loss like tearing an acl
-been through hell and back, me and my loved ones been through it
-never show your hand, give up the plan, dont talk about it do it
-i was laced by the best i'm blessed never rest stay out of mess
-water on my chest, never confess plead the fifth
-used to serve the yola, white, that there yadda, that there a-1
-top grade, not the synthetics we do our recon
-i'm a paper asperator not a hater
-solid ask about me, they'll tell you that i'm a player
-i get around
-from sunrise to sundown
-dusk to dawn
-knock a bitch without throwing a punch
-no case or no palms
-if i was a pimp i promise you bra i be the best p
-if a chinese ho, i nickname how much you need?
-how much you need?
-yeah, how much you need?
-how much you need?
-yeah, how much you need?
-if i tell her to get here with the quickness she gonna cross the 7 seas
-got an african broad same colour as nutella, from kenya
-give her a new handle, she do what i tell her
-my italian botch call me poppa
-love to cook risotta and pasta
-spaghetti
-got a dafty from albany she a white girl
-dope
-got the best head in the whole white world
-throat
-i keep me that yopper i keep a yista
-bullets same shape as a missile
-talk shit like a plummer and get rid of
-leave a hole in your face the size of a nickel
-real players don't spend a fucking dime on a bitch
-on a bitch
-real players don't buy them louis vittons for a bitch
-for a bitch
-these hoes done lost they minds and these niggas need to be fined
-cause nigga i ain't giving them shit
-you done fucked up the game
-y'all done ruined a real nigga name
-the shit upside down, it's fucked up
-this shit upside down it fucked up
-young nigga so dumb
-make a contribution to the ho funds
-cause they be acting like some good girls
-but really just some hood girls
-all up in my sheets
-man this bitch trying to get my cheese
+(dp1
+Vabilities
+p2
+I1
+sVlyrics
+p3
+I2
+sVpiranas
+p4
+I1
+sVnutella
+p5
+I1
+sVkeep
+p6
+I2
+sVdollar
+p7
+I1
+sVrest
+p8
+I1
+sVshape
+p9
+I1
+sVpaper
+p10
+I2
+sVcommitted
+p11
+I1
+sVbattle
+p12
+I1
+sVhell
+p13
+I1
+sVfeat
+p14
+I1
+sVfifth
+p15
+I1
+sVmake
+p16
+I1
+sVsharks
+p17
+I1
+sVlaced
+p18
+I1
+sVtearing
+p19
+I1
+sVchinese
+p20
+I1
+sVbotch
+p21
+I1
+sVfined
+p22
+I1
+sVtrying
+p23
+I1
+sVshow
+p24
+I1
+sVyoung
+p25
+I1
+sVdevoter
+p26
+I1
+sV7
+I1
+sVhater
+p27
+I7
+sVreal
+p28
+I3
+sVdo
+p29
+I2
+sVgood
+p30
+I1
+sVmarch
+p31
+I1
+sVplaya
+p32
+I2
+sVget
+p33
+I5
+sVdope
+p34
+I1
+sVkiller
+p35
+I1
+sVquickness
+p36
+I1
+sVgame
+p37
+I1
+sVones
+p38
+I1
+sVevery
+p39
+I1
+sVnew
+p40
+I1
+sVcook
+p41
+I1
+sVdafty
+p42
+I1
+sVday
+p43
+I1
+sVname
+p44
+I1
+sVloss
+p45
+I1
+sVlike
+p46
+I4
+sVpimp
+p47
+I1
+sVpoppa
+p48
+I1
+sVskills
+p49
+I1
+sVrisotta
+p50
+I1
+sVleave
+p51
+I1
+sVp
+I1
+sVlouis
+p52
+I1
+sVdone
+p53
+I3
+sVcheese
+p54
+I1
+sVyall
+p55
+I1
+sVitalian
+p56
+I1
+sVem
+p57
+I4
+sVnigga
+p58
+I3
+sVyola
+p59
+I1
+sVthrowing
+p60
+I1
+sVknock
+p61
+I1
+sVhard
+p62
+I1
+sVback
+p63
+I3
+sVbounce
+p64
+I1
+sVdumb
+p65
+I1
+sVhoes
+p66
+I3
+sVdawn
+p67
+I1
+sVspaghetti
+p68
+I1
+sVbest
+p69
+I3
+sVreally
+p70
+I1
+sVsavage
+p71
+I1
+sVgon
+p72
+I1
+sVyista
+p73
+I1
+sVgiving
+p74
+I1
+sVhate
+p75
+I2
+sVconfess
+p76
+I1
+sVdime
+p77
+I1
+sVfox
+p78
+I1
+sVcase
+p79
+I1
+sVthroat
+p80
+I1
+sVhood
+p81
+I1
+sVclosed
+p82
+I2
+sVvittons
+p83
+I1
+sVgot
+p84
+I5
+sVsize
+p85
+I1
+sVcause
+p86
+I2
+sVtold
+p87
+I1
+sVaint
+p88
+I1
+sVsynthetics
+p89
+I1
+sVnever
+p90
+I3
+sVpunch
+p91
+I1
+sVwater
+p92
+I1
+sVask
+p93
+I1
+sVnews
+p94
+I1
+sVhand
+p95
+I1
+sVpull
+p96
+I2
+sVhandle
+p97
+I1
+sVa1
+p98
+I1
+sVworld
+p99
+I1
+sVrecon
+p100
+I1
+sVof
+p101
+I1
+sVtaking
+p102
+I1
+sVminds
+p103
+I1
+sVacl
+p104
+I1
+sVplayers
+p105
+I2
+sVcontribution
+p106
+I1
+sVhead
+p107
+I1
+sVcomes
+p108
+I2
+sVyearly
+p109
+I1
+sVmotherfucking
+p110
+I4
+sVlove
+p111
+I1
+sVdont
+p112
+I3
+sVgrade
+p113
+I1
+sVblessed
+p114
+I1
+sVpasta
+p115
+I1
+sVmissile
+p116
+I1
+sVpromise
+p117
+I1
+sVbitch
+p118
+I6
+sVbra
+p119
+I1
+sVplummer
+p120
+I1
+sVher
+p121
+I1
+sVscript
+p122
+I1
+sVwhales
+p123
+I1
+sVtop
+p124
+I1
+sVgirls
+p125
+I2
+sVseas
+p126
+I1
+sVmuch
+p127
+I5
+sVcall
+p128
+I1
+sVwhite
+p129
+I3
+sVtell
+p130
+I5
+sVeyes
+p131
+I2
+sVbuy
+p132
+I1
+sVnickel
+p133
+I1
+sVfunds
+p134
+I1
+sVserve
+p135
+I1
+sVyeah
+p136
+I2
+sVstick
+p137
+I1
+sVhole
+p138
+I1
+sVhaters
+p139
+I1
+sVyadda
+p140
+I1
+sVobama
+p141
+I1
+sVoutchea
+p142
+I1
+sVloved
+p143
+I1
+sVe40
+p144
+I1
+sVniggas
+p145
+I1
+sVsolid
+p146
+I1
+sVup
+p147
+I2
+sVruined
+p148
+I1
+sVacting
+p149
+I1
+sVvt
+p150
+I1
+sVta
+p151
+I2
+sVgive
+p152
+I2
+sVplead
+p153
+I1
+sVinfluence
+p154
+I1
+sVit
+p155
+I2
+sVrip
+p156
+I1
+sVplayer
+p157
+I7
+sVim
+p158
+I7
+sVsundown
+p159
+I1
+sVkenya
+p160
+I1
+sVneed
+p161
+I6
+sVgrit
+p162
+I1
+sVrid
+p163
+I1
+sVrecover
+p164
+I1
+sVgirl
+p165
+I1
+sVshit
+p166
+I5
+sVaround
+p167
+I1
+sValbany
+p168
+I1
+sVtheyll
+p169
+I1
+sVna
+p170
+I1
+sVfucking
+p171
+I1
+sVcross
+p172
+I1
+sVfield
+p173
+I1
+sVchest
+p174
+I1
+sVsunrise
+p175
+I1
+sVused
+p176
+I1
+sVpalms
+p177
+I1
+sVdusk
+p178
+I1
+sVmess
+p179
+I1
+sVbroad
+p180
+I1
+sVstay
+p181
+I1
+sVbeast
+p182
+I1
+sVbullets
+p183
+I1
+sVplan
+p184
+I1
+sVsheets
+p185
+I1
+sVfucked
+p186
+I3
+sVyopper
+p187
+I1
+sVnickname
+p188
+I1
+sVman
+p189
+I2
+sVwhole
+p190
+I1
+sVcolour
+p191
+I1
+sVlost
+p192
+I1
+sVface
+p193
+I1
+sVwithout
+p194
+I1
+sVupside
+p195
+I2
+sVafrican
+p196
+I1
+sVasperator
+p197
+I1
+sVspend
+p198
+I1
+sVtalk
+p199
+I2
+sVho
+p200
+I2
+s.

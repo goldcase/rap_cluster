@@ -1,139 +1,604 @@
-"hollywood" lyrics
-jay-z lyrics
-"hollywood"
-(feat. beyonce)
-it ain't for everybody!
-(uhhhh) welcome to hollywood baby
-(take a picture) uh huh
-you coming with? (let's not even talk about it)
-let's do it (let's go!)
-(uh huh) i see your jealousy as you watching
-(i see you watching me baby) you watching (it's all good)
-it's kinda sexy to me how you watching (i love it) you watching
-(uh huh come on)
-i see your face (i see your face)
-you wanna touch it (you wanna touch it)
-come to my place (come to the crib)
-and let's discuss it (let's chop it up)
-tonight you'll be (tonight you gonna be a superstar baby)
-a superstar
-come let me sign you up
-(let's get into it)
-ooh it's the lights (you blinded by the)
-action! (you need that)
-hollywood
-ooh it's the lights (you blinded by the)
-satisfaction! (you need that)
-hollywood
-(uh huh come on)
-paparazzi spots me
-in the lobby
-of my high-rise
-i hide
-behind my shades
-cause the fame is blinding my eyes
-my god
-i know how ozzie oz
-once had felt when he was as high
-as i have got
-i have got
-to make this stop
-people often warn me
-that the fame ain't for the vain if heart
-it'll change those
-who they had love for you
-into strangers
-when your fame starts
-it's a chain reaction
-locomotion like when the train departs
-stranger
-things have happened
-rapping
-stacking
-platinum plaquin'
-born in brooklyn got a place in manhattan
-going back to brooklyn
-to escape the madness
-when your friends is
-chris and gwyneth
-when your girl is more famous
-then you then is
-time to get all your windows tinted
-keep your eyes squinted
-it's gonna flash any minute
-the music biz is like musical chairs
-its about where you standing when the music stop spinning
-in a
-you got to get it
-oh oh oh oh
-oh oh oh
-do you want it
-oh oh oh oh
-oh oh oh
-but you don't need it
-oh oh oh oh
-oh oh oh
-what do you do (now that you got what you want)
-oh oh oh
-what do you do (oh you want more?)
-oh oh oh
-hey
-hey mister
-pay sixa
-a lista
-you're in the mist of
-the ride of your life
-but you gotta keep them hits up
-can't put your guard down
-gotta keep your mitts up
-take a sip sir
-it's so in toxicating
-ain't it
-try not to get jaded
-hollywood's been good to ya
-startin' feel like birds to ya
-don't lie
-gonna fly
-you addicted to the lights
-without the fame
-how you gonna survive
-it's like living on
-heroine
-you so high
-and everybody warning you about it (try to told you)
-and once you taste you can't live without it (it's addictive)
-not cause you choose to not live without it (sure you want this baby)
-it's now a part of you (it's a part of you)
-it's now a part of you
-and everybody warning you about it (i see you blinded)
-and once you taste you can't live
-ooh it's the lights (it's the lights)
-action! (action)
-hollywood (hollywood)
-ooh it's the lights (satisfaction)
-satisfaction! (so addictive)
-(hey) hollywood (hollywood)
-wanna be seen
-male groupies
-now you've become what you once despised
-james dean
-john belushi
-blow your whole life
-tryna live in the lights
-heroins following marilyn
-hoppin' over the edge
-just like janice joplin
-river phoenix
-jimi hendrix
-all of them ended by
-hollywood
-thank god for hollywood
-hollywood
-sure you want this baby?
-(oh oh oh oh
-oh oh oh)
-hollywood
-most addicted drug in the world
-want the fame
-want the lights
-ha ha ha
+(dp1
+Vlyrics
+p2
+I2
+sVended
+p3
+I1
+sVjimi
+p4
+I1
+sVtouch
+p5
+I2
+sVmadness
+p6
+I1
+sVfeat
+p7
+I1
+sVbirds
+p8
+I1
+sVaint
+p9
+I3
+sVhendrix
+p10
+I1
+sVchain
+p11
+I1
+sVitll
+p12
+I1
+sVbeyonce
+p13
+I1
+sVedge
+p14
+I1
+sVlets
+p15
+I6
+sVgoing
+p16
+I1
+sVchoose
+p17
+I1
+sVhappened
+p18
+I1
+sVpay
+p19
+I1
+sVgood
+p20
+I2
+sVget
+p21
+I4
+sVya
+p22
+I2
+sVstop
+p23
+I2
+sVgwyneth
+p24
+I1
+sVfamous
+p25
+I1
+sVbiz
+p26
+I1
+sVknow
+p27
+I1
+sVworld
+p28
+I1
+sVpart
+p29
+I3
+sVdiscuss
+p30
+I1
+sVminute
+p31
+I1
+sVdown
+p32
+I1
+sVlike
+p33
+I5
+sVstranger
+p34
+I1
+sVchairs
+p35
+I1
+sVcause
+p36
+I2
+sVspinning
+p37
+I1
+sVtry
+p38
+I2
+sVbelushi
+p39
+I1
+sVstartin
+p40
+I1
+sVjames
+p41
+I1
+sVaddicted
+p42
+I2
+sVbecome
+p43
+I1
+sVriver
+p44
+I1
+sVdean
+p45
+I1
+sVoften
+p46
+I1
+sVpeople
+p47
+I1
+sVgroupies
+p48
+I1
+sVback
+p49
+I1
+sVsign
+p50
+I1
+sVgo
+p51
+I1
+sVsee
+p52
+I5
+sVescape
+p53
+I1
+sVgirl
+p54
+I1
+sVblinded
+p55
+I3
+sVeven
+p56
+I1
+sVliving
+p57
+I1
+sVby
+p58
+I1
+sVgon
+p59
+I4
+sVhide
+p60
+I1
+sVgod
+p61
+I2
+sVthank
+p62
+I1
+sVmister
+p63
+I1
+sVstrangers
+p64
+I1
+sVlights
+p65
+I8
+sVbehind
+p66
+I1
+sVplaquin
+p67
+I1
+sVgot
+p68
+I7
+sVyoull
+p69
+I1
+sVtold
+p70
+I1
+sVuhhhh
+p71
+I1
+sVplatinum
+p72
+I1
+sVwelcome
+p73
+I1
+sVrapping
+p74
+I1
+sVlet
+p75
+I1
+sVhoppin
+p76
+I1
+sVput
+p77
+I1
+sVsexy
+p78
+I1
+sVcome
+p79
+I5
+sVmarilyn
+p80
+I1
+sVchange
+p81
+I1
+sVblow
+p82
+I1
+sVon
+p83
+I3
+sVhits
+p84
+I1
+sVmale
+p85
+I1
+sVsuperstar
+p86
+I2
+sVoh
+p87
+I35
+sVstarts
+p88
+I1
+sVshades
+p89
+I1
+sVdrug
+p90
+I1
+sVkeep
+p91
+I3
+sVchop
+p92
+I1
+sVplace
+p93
+I2
+sVoz
+p94
+I1
+sVyouve
+p95
+I1
+sVaction
+p96
+I3
+sVlocomotion
+p97
+I1
+sVjanice
+p98
+I1
+sVwhole
+p99
+I1
+sVflash
+p100
+I1
+sVlove
+p101
+I2
+sVdont
+p102
+I2
+sVfeel
+p103
+I1
+sVvain
+p104
+I1
+sVcrib
+p105
+I1
+sVsatisfaction
+p106
+I3
+sVjayz
+p107
+I1
+sVguard
+p108
+I1
+sVmist
+p109
+I1
+sVeverybody
+p110
+I3
+sVwan
+p111
+I3
+sVdespised
+p112
+I1
+sVjealousy
+p113
+I1
+sVhey
+p114
+I3
+sVspots
+p115
+I1
+sVheroine
+p116
+I1
+sVtaste
+p117
+I2
+sVlive
+p118
+I4
+sVmusic
+p119
+I2
+sVtime
+p120
+I1
+sVsurvive
+p121
+I1
+sVhollywood
+p122
+I13
+sVjohn
+p123
+I1
+sVmore
+p124
+I1
+sVtryna
+p125
+I1
+sVeyes
+p126
+I2
+sVhighrise
+p127
+I1
+sVthat
+p128
+I2
+sVjaded
+p129
+I1
+sVhuh
+p130
+I4
+sVooh
+p131
+I4
+sVcant
+p132
+I3
+sVpaparazzi
+p133
+I1
+sVwarn
+p134
+I1
+sVtrain
+p135
+I1
+sVbaby
+p136
+I5
+sVha
+p137
+I3
+sVlista
+p138
+I1
+sVthose
+p139
+I1
+sVme
+p140
+I2
+sVhigh
+p141
+I2
+sVborn
+p142
+I1
+sVride
+p143
+I1
+sVup
+p144
+I4
+sVstanding
+p145
+I1
+sVuh
+p146
+I4
+sVof
+p147
+I1
+sVfollowing
+p148
+I1
+sVta
+p149
+I2
+sVaddictive
+p150
+I2
+sVheart
+p151
+I1
+sVstacking
+p152
+I1
+sVis
+p153
+I2
+sVsquinted
+p154
+I1
+sVit
+p155
+I7
+sVheroins
+p156
+I1
+sVtonight
+p157
+I2
+sVfly
+p158
+I1
+sVtinted
+p159
+I1
+sVwarning
+p160
+I2
+sVwant
+p161
+I7
+sVneed
+p162
+I3
+sVseen
+p163
+I1
+sVmitts
+p164
+I1
+sVfame
+p165
+I5
+sVsir
+p166
+I1
+sVsip
+p167
+I1
+sVhollywoods
+p168
+I1
+sVna
+p169
+I7
+sVmake
+p170
+I1
+sVwatching
+p171
+I5
+sVsixa
+p172
+I1
+sVwithout
+p173
+I3
+sVtake
+p174
+I2
+sVyou
+p175
+I4
+sVblinding
+p176
+I1
+sVmanhattan
+p177
+I1
+sVtoxicating
+p178
+I1
+sVpicture
+p179
+I1
+sVsure
+p180
+I2
+sVphoenix
+p181
+I1
+sVlie
+p182
+I1
+sVjoplin
+p183
+I1
+sVfelt
+p184
+I1
+sVbrooklyn
+p185
+I2
+sVkinda
+p186
+I1
+sVcoming
+p187
+I1
+sVchris
+p188
+I1
+sVfriends
+p189
+I1
+sVlobby
+p190
+I1
+sVa
+I1
+sVwindows
+p191
+I1
+sVyoure
+p192
+I1
+sVlife
+p193
+I2
+sVface
+p194
+I2
+sVdeparts
+p195
+I1
+sVreaction
+p196
+I1
+sVthings
+p197
+I1
+sVthe
+p198
+I2
+sVozzie
+p199
+I1
+sVmusical
+p200
+I1
+sVtalk
+p201
+I1
+s.

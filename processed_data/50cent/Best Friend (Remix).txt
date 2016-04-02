@@ -1,81 +1,499 @@
-"best friend (remix)" lyrics
-50 cent lyrics
-"best friend (remix)"
-(feat. olivia)
-yeah! it's my tape man, listen to my tape
-woo!!!
-i've waited i've waited
-time went by
-all i did was cry
-sillyyyyy
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
-first we get the talkin, then we get the touchin
-if we get pass the phone games we'll be fuckin
-i kiss like the french therefore my tongue in your ear
-do it like the dogs do it girl and pull on your hair
-for me a different scenery just mean a different position
-in the tub or on the sink i improvise now listen
-in the chopper or on the jet join the mile high club
-i'm no fool i know money can't buy me love
-you said that i could call u whenever i needed some one to listen to me
-that's why i'm here standing by your side cause your always come thru for me
-so many others tried to be were you are but they just wanted to do me
-but you took your time and now i'm satisfied that's why i want u all to me
-cause if you were my best friend id want u round all the time
-can i be your best friend i promise boy you'll be mine
-i said he's just a friend baby its not pretend either he is or he aint my man
-i said he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
-while you in your bubble bath i'll come wash on your back
-when you puttin on your lotion i can help you with that
-i sit and think of things to say that may make you smile
-or give you gifts from my heart to reflect my style
-or slang i use when we build may change how you talk
-and if i'm focused while i'm strokin i could change how you walk
-there's a swagger that you calm but when you come from new york
-i'm a hustler i just hustle in the things that i bought
-separate cmon
-im not affraid you explore my body
-oo give me that feeling now we can watch some tv
-or play a cd mabye that sexual healing
-you try to sing to me but your never on the key
-but u do it just to appese me
-id rather spend my time wasting time with you
-you ooooh you make it so easy
-cause if you were my best friend id want u round all the time
-can i be your best friend i promise boy you'll be mine
-i said he's just a friend baby its not pretend either he is or he aint my man
-i said he's just a friend
-we been better then friends
-for a long time
-aint no need to pretend
-you'll always be mine
-we been better then friends
-for a long time
-aint no fibbing or faking
-you'll always be mine
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend, i want you 'round all the time (i want you 'round me all the time)
-can i be your best friend, if you promise you'll be mine (girl promise you'll be mine)
-please say he's just a friend (uh huh) now girl let's not pretend (come on)
-either he is or he ain't your man (ha ha!) please say he's just a friend
-if i was your best friend
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVsatisfied
+p5
+I1
+sVmile
+p6
+I1
+sVfeat
+p7
+I1
+sVhustler
+p8
+I1
+sVaint
+p9
+I10
+sVstyle
+p10
+I1
+sVha
+p11
+I12
+sVtv
+p12
+I1
+sVmabye
+p13
+I1
+sVbetter
+p14
+I2
+sVooooh
+p15
+I1
+sVlets
+p16
+I6
+sVtape
+p17
+I2
+sVaffraid
+p18
+I1
+sVsmile
+p19
+I1
+sVfool
+p20
+I1
+sVcalm
+p21
+I1
+sVget
+p22
+I3
+sVwatch
+p23
+I1
+sVolivia
+p24
+I1
+sVknow
+p25
+I1
+sVkiss
+p26
+I1
+sVbath
+p27
+I1
+sVyou
+p28
+I1
+sVfibbing
+p29
+I1
+sVlike
+p30
+I2
+sVcause
+p31
+I3
+sVcry
+p32
+I1
+sV50
+p33
+I1
+sVtry
+p34
+I1
+sVeither
+p35
+I8
+sValways
+p36
+I3
+sVappese
+p37
+I1
+sVwent
+p38
+I1
+sVbought
+p39
+I1
+sVround
+p40
+I14
+sVmean
+p41
+I1
+sVimprovise
+p42
+I1
+sVyeah
+p43
+I1
+sVhair
+p44
+I1
+sVpass
+p45
+I1
+sVgirl
+p46
+I13
+sVsexual
+p47
+I1
+sVbest
+p48
+I21
+sVstrokin
+p49
+I1
+sVsaid
+p50
+I5
+sVplease
+p51
+I12
+sVcd
+p52
+I1
+sVwoo
+p53
+I1
+sVsillyyyyy
+p54
+I1
+sVnew
+p55
+I1
+sVyoull
+p56
+I16
+sVhustle
+p57
+I1
+sVscenery
+p58
+I1
+sVreflect
+p59
+I1
+sVnever
+p60
+I1
+sVfrench
+p61
+I1
+sVlotion
+p62
+I1
+sVyork
+p63
+I1
+sVfocused
+p64
+I1
+sVsink
+p65
+I1
+sVhealing
+p66
+I1
+sVothers
+p67
+I1
+sVsing
+p68
+I1
+sVtub
+p69
+I1
+sVwanted
+p70
+I1
+sVcome
+p71
+I9
+sVby
+p72
+I1
+sVchange
+p73
+I2
+sVoo
+p74
+I1
+sVon
+p75
+I6
+sVmany
+p76
+I1
+sVcould
+p77
+I2
+sVexplore
+p78
+I1
+sVside
+p79
+I1
+sVgames
+p80
+I1
+sVtongue
+p81
+I1
+sVthink
+p82
+I1
+sVfuckin
+p83
+I1
+sVthats
+p84
+I2
+sVlove
+p85
+I1
+sVkey
+p86
+I1
+sVheart
+p87
+I1
+sVwasting
+p88
+I1
+sVone
+p89
+I1
+sVwash
+p90
+I1
+sVtouchin
+p91
+I1
+sVpromise
+p92
+I14
+sVlong
+p93
+I2
+sVchopper
+p94
+I1
+sVstanding
+p95
+I1
+sVuse
+p96
+I1
+sVjet
+p97
+I1
+sVhes
+p98
+I16
+sVcent
+p99
+I1
+sVneeded
+p100
+I1
+sVcall
+p101
+I1
+sVtherefore
+p102
+I1
+sVthru
+p103
+I1
+sVbubble
+p104
+I1
+sVdogs
+p105
+I1
+sVfriend
+p106
+I37
+sVlisten
+p107
+I3
+sVbuy
+p108
+I1
+sVeasy
+p109
+I1
+sVboy
+p110
+I2
+sVclub
+p111
+I1
+sVhuh
+p112
+I6
+sVtook
+p113
+I1
+sVback
+p114
+I1
+sVphone
+p115
+I1
+sVbaby
+p116
+I2
+sVear
+p117
+I1
+sVme
+p118
+I4
+sVpull
+p119
+I1
+sVswagger
+p120
+I1
+sVjoin
+p121
+I1
+sVpretend
+p122
+I9
+sVcant
+p123
+I1
+sVuh
+p124
+I6
+sVfaking
+p125
+I1
+sVfeeling
+p126
+I1
+sVill
+p127
+I1
+sVtheres
+p128
+I1
+sVive
+p129
+I2
+sVcmon
+p130
+I1
+sVgive
+p131
+I2
+sVmine
+p132
+I16
+sVhigh
+p133
+I1
+sVsay
+p134
+I13
+sVim
+p135
+I7
+sVwant
+p136
+I15
+sVneed
+p137
+I1
+sVid
+p138
+I3
+sVdifferent
+p139
+I2
+sVsit
+p140
+I1
+sVrather
+p141
+I1
+sVthings
+p142
+I2
+sVmake
+p143
+I2
+sVthat
+p144
+I1
+sVwalk
+p145
+I1
+sVbuild
+p146
+I1
+sVputtin
+p147
+I1
+sVtalkin
+p148
+I1
+sVplay
+p149
+I1
+sVtried
+p150
+I1
+sVseparate
+p151
+I1
+sVmay
+p152
+I2
+sVgifts
+p153
+I1
+sVfriends
+p154
+I2
+sVslang
+p155
+I1
+sVman
+p156
+I9
+sVremix
+p157
+I2
+sVwhenever
+p158
+I1
+sVwell
+p159
+I1
+sVbody
+p160
+I1
+sVu
+I5
+sVwaited
+p161
+I2
+sVtime
+p162
+I20
+sVposition
+p163
+I1
+sVfirst
+p164
+I1
+sVspend
+p165
+I1
+sVtalk
+p166
+I1
+s.

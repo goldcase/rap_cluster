@@ -1,53 +1,469 @@
-"everyday" lyrics
-mc lyte lyrics
-"everyday"
-every day i need my shit done in a special way everyday
-off the top see me and want to serve
-just thinkin about what they need
-ain't that some nerve, now look here 24 hours and
-7 whole days, i demand my respect
-i demand my praise, everyday that i wake
-i gotta have everything done with no mistakes
-i take it incredibly slow don't try to rush me
-no means no, i never said a no that meant yes
-other women get taken for granted
-i guess i got a wish list that must be fulfilled
-and you gets none until i get my toes sucked
-and my eyebrows pluked
-i need my car waxed and floor shellac
-i need my back rubbed and da bubbled in the tub
-that float to the bed so that we can make love
-every day i need my shit done in a special way everyday
-every day i need my shit done in a special way everyday
-it ain't to ask for when
-i come off tour to have my truck washed
-or my body massaged, all the bills paid i send home
-all my dough and you being my man it just ain't for show
-all the lovey dovey yeah that is sweet
-but honey bunny yeah gotta earn your keep
-but don't sleep cause i need a lot done
-and cold harded yeah check out whatever is clever
-and get to stepping if you know something better
-if not then respect whatcha got
-meanwhile i got a new tide at the lot
-pick it up and bring it back to the spot
-this is how we do it this is how we do it everyday
-i need it done in a special way baby, tell them how it goes
-every day i need my shit done in a special way everyday
-every day i need my shit done in a special way everyday
-on the real i need an man that understands me and
-realizes the reality. i'm in the m.c. industry which
-means i want to live lovely i gotta make money
-listen so never ask me to give it less then what i got
-if it's too hot then raise up out my spot
-if it's my trade i made up the black ace of spade
-alone in the world it's me ya can't fade
-it's my life, i do it my way
-you don't like my way, hit the highway
-see i'm special not because i'm mc lyte, but because
-i'm a women with the gift to bear life, it's done
-yes i've rested my case now run pick up my dermalogica
-for my face this is how it goes down everyday
-i need it done in a special way baby
-every day i need my shit done in a special way everyday
-every day i need my shit done in a special way everyday
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmoney
+p4
+I1
+sVtrade
+p5
+I1
+sVbring
+p6
+I1
+sVmistakes
+p7
+I1
+sVdough
+p8
+I1
+sVstepping
+p9
+I1
+sVyes
+p10
+I2
+sVreality
+p11
+I1
+sVaint
+p12
+I3
+sVslow
+p13
+I1
+sVless
+p14
+I1
+sVsend
+p15
+I1
+sVbetter
+p16
+I1
+sVblack
+p17
+I1
+sVfade
+p18
+I1
+sVwomen
+p19
+I2
+sVshellac
+p20
+I1
+sVta
+p21
+I3
+sVmeant
+p22
+I1
+sVcase
+p23
+I1
+sVhit
+p24
+I1
+sVgoes
+p25
+I2
+sVget
+p26
+I3
+sVya
+p27
+I1
+sVbubbled
+p28
+I1
+sVbear
+p29
+I1
+sVda
+p30
+I1
+sVevery
+p31
+I7
+sVknow
+p32
+I1
+sVnew
+p33
+I1
+sVworld
+p34
+I1
+sVday
+p35
+I7
+sVsucked
+p36
+I1
+sVearn
+p37
+I1
+sVgets
+p38
+I1
+sVlike
+p39
+I1
+sVgift
+p40
+I1
+sVlist
+p41
+I1
+sVdermalogica
+p42
+I1
+sVtry
+p43
+I1
+sVwish
+p44
+I1
+sVsleep
+p45
+I1
+sVbills
+p46
+I1
+sVbecause
+p47
+I1
+sVback
+p48
+I2
+sVsee
+p49
+I2
+sVhome
+p50
+I1
+sVcold
+p51
+I1
+sVspecial
+p52
+I10
+sVsaid
+p53
+I1
+sVwashed
+p54
+I1
+sVeverything
+p55
+I1
+sV7
+I1
+sVgot
+p56
+I7
+sVcause
+p57
+I1
+sVhighway
+p58
+I1
+sVbody
+p59
+I1
+sV24
+p60
+I1
+sVtoes
+p61
+I1
+sVrun
+p62
+I1
+sVnever
+p63
+I2
+sVhours
+p64
+I1
+sVask
+p65
+I2
+sVtub
+p66
+I1
+sVcome
+p67
+I1
+sVace
+p68
+I1
+sVindustry
+p69
+I1
+sVdays
+p70
+I1
+sVkeep
+p71
+I1
+sVfulfilled
+p72
+I1
+sVtour
+p73
+I1
+sVpick
+p74
+I2
+sVwhole
+p75
+I1
+sVeyebrows
+p76
+I1
+sVnerve
+p77
+I1
+sVlove
+p78
+I1
+sVdont
+p79
+I3
+sVive
+p80
+I1
+sVsweet
+p81
+I1
+sVfloat
+p82
+I1
+sVwhatever
+p83
+I1
+sValone
+p84
+I1
+sVdone
+p85
+I12
+sVrespect
+p86
+I2
+sVguess
+p87
+I1
+sVraise
+p88
+I1
+sVlyte
+p89
+I2
+sVtop
+p90
+I1
+sVlive
+p91
+I1
+sVway
+p92
+I11
+sVtaken
+p93
+I1
+sVlovely
+p94
+I1
+sVtell
+p95
+I1
+sVlisten
+p96
+I1
+sVlife
+p97
+I2
+sVclever
+p98
+I1
+sVlot
+p99
+I2
+sVmassaged
+p100
+I1
+sVwaxed
+p101
+I1
+sVserve
+p102
+I1
+sVyeah
+p103
+I3
+sVgranted
+p104
+I1
+sVwake
+p105
+I1
+sVdemand
+p106
+I2
+sVbaby
+p107
+I2
+sVmust
+p108
+I1
+sVme
+p109
+I1
+sVtide
+p110
+I1
+sVnone
+p111
+I1
+sVmade
+p112
+I1
+sVlook
+p113
+I1
+sVmc
+p114
+I3
+sVcar
+p115
+I1
+sVwhatcha
+p116
+I1
+sVbed
+p117
+I1
+sVpraise
+p118
+I1
+sVharded
+p119
+I1
+sVlovey
+p120
+I1
+sVand
+p121
+I1
+sVreal
+p122
+I1
+sVgive
+p123
+I1
+sVhoney
+p124
+I1
+sVcant
+p125
+I1
+sVim
+p126
+I4
+sVsomething
+p127
+I1
+sVwant
+p128
+I2
+sVneed
+p129
+I14
+sVtake
+p130
+I1
+sVeveryday
+p131
+I12
+sVshit
+p132
+I7
+sVrubbed
+p133
+I1
+sVfloor
+p134
+I1
+sVmake
+p135
+I2
+sVmeans
+p136
+I2
+sVwhen
+p137
+I1
+sVcheck
+p138
+I1
+sVhot
+p139
+I1
+sVpluked
+p140
+I1
+sVwhich
+p141
+I1
+sVdovey
+p142
+I1
+sVincredibly
+p143
+I1
+sVbunny
+p144
+I1
+sVthinkin
+p145
+I1
+sVspot
+p146
+I2
+sVpaid
+p147
+I1
+sVrested
+p148
+I1
+sVman
+p149
+I2
+sVunderstands
+p150
+I1
+sVface
+p151
+I1
+sVtruck
+p152
+I1
+sVrealizes
+p153
+I1
+sVspade
+p154
+I1
+sVmeanwhile
+p155
+I1
+sVrush
+p156
+I1
+s.

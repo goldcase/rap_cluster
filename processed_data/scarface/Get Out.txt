@@ -1,86 +1,614 @@
-"get out" lyrics
-scarface lyrics
-"get out"
-(feat. jay-z)
-c'mon
-yeah
-face mob
-uh huh, uh huh uh
-his name is jigga
-yeah
-what's happenin baby
-wsup, wsup witcha?
-tryin to get this loot
-yeah
-knowwhatimsayin?
-no doubt
-so what's it gon' be?
-women, whiskey, weed
-dope, coke, or all the guns you need, nigga
-you could get them thangs for a lesser fee
-yeah and with the right amount of pressure
-them thangs look free
-i'm on my way now
-desperate need of a lik indeed
-believe i got a vick if it's a brick you need
-my nigga for sheez
-right back at you
-holla after you land we get it before you leave
-is you for sure
-them niggas out there still got cheese
-cuz my niggas in the drop bounced back to slangin oz's
-man them niggas rapin the town without breakin 'em down
-them bastards makin a killin slangin half of buldings
-for real man, i'm on my last nine thousand
-aint got no money, i'm fightin cases with this ho money
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-i caught a northwest flight to ny, on the buddy pass
-sittin at the exit row, by the do'
-i got a hoopty from this doofy nigga around the way
-i had the fo'fo' under the rug, weekend ago
-three hours, i landed in the city of dreams
-with tall buildings, flooded with cabs and limousines
-where the fuck is jay-z
-goddamn traffic is gettin on my nerve
-i see your face by the curb
-goddamn dog i been sittin here thirty minutes
-you know these motherfucking cab drivers
-like they own this motherfucker
-open the trunk
-and then i'm thinkin, jigga let's get this motherfucking cash nigga
-well if it's a money thing let's get this motherfucking money man
-and then i said to jigga, let's get this motherfucking cash nigga
-i got a dope house scoped out
-an escape route?
-no doubt
-let's hit the highway, load up, lock
-in this booty shit?
-hold up, cops
-trippin, it's eight million stories in this naked motherfucker
-yeah, and ten million undercovers
-we gon' get this raw, we gon' kick in the door
-they got guns in the couch, they got shit in the floor
-niggas is gon' shit they draws
-they got a bitch at the door
-bullshit, heard that stupid shit before
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-and when the money get low and the hungriness show
-niggas better get the fuck out the house
-i hit the buzzer, mita, manny
-let me up it's joey motherfucker
-takin the steps up with only one thing on our mind
-wipe this motherfucker clean, everybody gotta die
-up the steps, got closer
-the voices got louder, you hear it?
-death's approaching we comin for that powder
-then i knocked four times
-and hit the hallway, clear polish
-well she couldn't see shit, now what's it gonna be bitch?
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I6
+sVindeed
+p4
+I1
+sVfour
+p5
+I1
+sVpolish
+p6
+I1
+sVcurb
+p7
+I1
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVrow
+p10
+I1
+sVaint
+p11
+I1
+sVhold
+p12
+I1
+sVbuddy
+p13
+I1
+sVrapin
+p14
+I1
+sVcuz
+p15
+I1
+sVheard
+p16
+I1
+sVwipe
+p17
+I1
+sVbetter
+p18
+I6
+sVlets
+p19
+I4
+sVmoney
+p20
+I10
+sVfofo
+p21
+I1
+sVkick
+p22
+I1
+sVta
+p23
+I1
+sVreal
+p24
+I1
+sVdo
+p25
+I1
+sVhit
+p26
+I3
+sVaround
+p27
+I1
+sVget
+p28
+I21
+sVdope
+p29
+I2
+sVsittin
+p30
+I2
+sVtraffic
+p31
+I1
+sVbastards
+p32
+I1
+sVknow
+p33
+I1
+sVhalf
+p34
+I1
+sVmob
+p35
+I1
+sVnow
+p36
+I1
+sVnerve
+p37
+I1
+sVbullshit
+p38
+I1
+sVdreams
+p39
+I1
+sVhoopty
+p40
+I1
+sVtrippin
+p41
+I1
+sVname
+p42
+I1
+sVdie
+p43
+I1
+sVdrop
+p44
+I1
+sVmanny
+p45
+I1
+sVleave
+p46
+I1
+sVstupid
+p47
+I1
+sVsteps
+p48
+I2
+sVjoey
+p49
+I1
+sVem
+p50
+I1
+sVnigga
+p51
+I5
+sVbooty
+p52
+I1
+sVten
+p53
+I1
+sVslangin
+p54
+I2
+sVdoor
+p55
+I2
+sVhouse
+p56
+I7
+sVdoofy
+p57
+I1
+sVyeah
+p58
+I5
+sVsee
+p59
+I2
+sVlouder
+p60
+I1
+sVpowder
+p61
+I1
+sVdesperate
+p62
+I1
+sVpass
+p63
+I1
+sVcabs
+p64
+I1
+sVout
+p65
+I2
+sVcloser
+p66
+I1
+sVnaked
+p67
+I1
+sVmotherfucker
+p68
+I4
+sVgon
+p69
+I5
+sVdraws
+p70
+I1
+sVlimousines
+p71
+I1
+sVtakin
+p72
+I1
+sVexit
+p73
+I1
+sVit
+p74
+I1
+sVgot
+p75
+I11
+sVbefore
+p76
+I1
+sVguns
+p77
+I2
+sVhighway
+p78
+I1
+sVbe
+p79
+I1
+sVmillion
+p80
+I2
+sVrug
+p81
+I1
+sVfree
+p82
+I1
+sVlike
+p83
+I1
+sVhours
+p84
+I1
+sVpressure
+p85
+I1
+sVfee
+p86
+I1
+sVwitcha
+p87
+I1
+sVozs
+p88
+I1
+sVscoped
+p89
+I1
+sVcab
+p90
+I1
+sVmita
+p91
+I1
+sVlast
+p92
+I1
+sVthirty
+p93
+I1
+sVcould
+p94
+I1
+sVbreakin
+p95
+I1
+sVfightin
+p96
+I1
+sVtimes
+p97
+I1
+sVthing
+p98
+I2
+sVamount
+p99
+I1
+sVlet
+p100
+I1
+sVapproaching
+p101
+I1
+sVcaught
+p102
+I1
+sVload
+p103
+I1
+sVcheese
+p104
+I1
+sVwhats
+p105
+I3
+sVtrunk
+p106
+I1
+sVmakin
+p107
+I1
+sVone
+p108
+I1
+sVdown
+p109
+I1
+sVhappenin
+p110
+I1
+sVjayz
+p111
+I2
+sVright
+p112
+I2
+sVbitch
+p113
+I2
+sVcomin
+p114
+I1
+sVcouldnt
+p115
+I1
+sVopen
+p116
+I1
+sVeverybody
+p117
+I1
+sVcity
+p118
+I1
+sVkillin
+p119
+I1
+sVcouch
+p120
+I1
+sVhungriness
+p121
+I6
+sVsheez
+p122
+I1
+sVdeaths
+p123
+I1
+sVthree
+p124
+I1
+sVdoubt
+p125
+I2
+sVlow
+p126
+I6
+sVway
+p127
+I2
+sVgoddamn
+p128
+I2
+sVbrick
+p129
+I1
+sVtryin
+p130
+I1
+sVflight
+p131
+I1
+sVthousand
+p132
+I1
+sVhuh
+p133
+I2
+sVback
+p134
+I2
+sVwsup
+p135
+I2
+sVlanded
+p136
+I1
+sVgettin
+p137
+I1
+sVhear
+p138
+I1
+sVho
+p139
+I1
+sVbaby
+p140
+I1
+sVcases
+p141
+I1
+sVbelieve
+p142
+I1
+sVundercovers
+p143
+I1
+sVwomen
+p144
+I1
+sVtown
+p145
+I1
+sVlook
+p146
+I1
+sVniggas
+p147
+I10
+sVmotherfucking
+p148
+I4
+sVcash
+p149
+I2
+sVlesser
+p150
+I1
+sVwhiskey
+p151
+I1
+sVnine
+p152
+I1
+sVuh
+p153
+I3
+sVknocked
+p154
+I1
+sVim
+p155
+I4
+sVloot
+p156
+I1
+sVminutes
+p157
+I1
+sVroute
+p158
+I1
+sVcmon
+p159
+I1
+sVbuzzer
+p160
+I1
+sVlock
+p161
+I1
+sVescape
+p162
+I1
+sVmind
+p163
+I1
+sVfuck
+p164
+I7
+sVvoices
+p165
+I1
+sVraw
+p166
+I1
+sVscarface
+p167
+I1
+sVneed
+p168
+I3
+sVstories
+p169
+I1
+sVshit
+p170
+I5
+sVholla
+p171
+I1
+sVbuldings
+p172
+I1
+sVjigga
+p173
+I3
+sVna
+p174
+I1
+sVdrivers
+p175
+I1
+sVlik
+p176
+I1
+sVny
+p177
+I1
+sVnorthwest
+p178
+I1
+sVknowwhatimsayin
+p179
+I1
+sVyou
+p180
+I1
+sVcoke
+p181
+I1
+sVhallway
+p182
+I1
+sVbuildings
+p183
+I1
+sVsure
+p184
+I1
+sVflooded
+p185
+I1
+sVweed
+p186
+I1
+sVsaid
+p187
+I1
+sVeight
+p188
+I1
+sVweekend
+p189
+I1
+sVman
+p190
+I3
+sVago
+p191
+I1
+sVland
+p192
+I1
+sVcops
+p193
+I1
+sVvick
+p194
+I1
+sVclear
+p195
+I1
+sVfloor
+p196
+I1
+sVwell
+p197
+I2
+sVdog
+p198
+I1
+sVface
+p199
+I2
+sVthangs
+p200
+I2
+sVwithout
+p201
+I1
+sVclean
+p202
+I1
+sVtall
+p203
+I1
+sVbounced
+p204
+I1
+sVthinkin
+p205
+I1
+s.

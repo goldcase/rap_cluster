@@ -1,71 +1,407 @@
-"remedy" lyrics
-snoop dogg lyrics
-"remedy"
-(feat. busta rhymes and chris brown)
-when it's over now
-nothing left for the enemy
-when the show goes down
-and you silence the melody
-(that's when you say)
-i'll be that some boy in miami
-rude boy you in the kingston
-bad boy in new england
-new york the whole kingdom
-i ain't got the remedy
-but when they root for me
-you see i'm what they see
-i'm living in the sin it's how it's gonna be
-i heard the boy is sinnin and they die for me
-wadadadang wadadadadang
-well you coming on the dance
-and now we shaped up our game
-wadadadang wadadadadang
-and you know we never ever stop
-beat them to the end
-see them on top on them
-willin them, killing them
-and then one after
-see it
-run to it when nobody asked to be drop off
-when we on my bred snoop lion
-meets his blessing love and honor
-to what we are apart
-and to what we are even
-you know say it all we all prosper
-news flash pick a little ash
-every website and blog
-snoop and busta in the studio
-hanging out here, get a little bit of snap on
-don't ever get it twisted
-see we gifted when togheter
-reincarnated snoop lion so let's see out forever
-i ain't got the remedy
-but when they root for me
-you see i'm what they see
-i'm living in the sin it's how it's gonna be
-i heard the boy is sinnin and they die for me
-somebody help me wake up
-and make it rain on my head
-let it rain, let it rain, let it rain on my head
-set it free, so complete, everything has come to ending
-let it breathe
-when the background clears
-and you're the one standing there
-you're running out of time
-you're praying that you make a hit
-whatever they do, whatever they do to you
-whatever they say, whatever they say to you too bad
-sound off in that paris
-roll call in lebanon
-many leros in mexico
-can you hear me, the whole kingdom
-i ain't got the remedy
-but when they root for me
-you see i'm what they see
-i'm living in the sin it's how it's gonna be
-i heard the boy is sinnin and they die for me
-somebody help me wake up
-and make it rain on my head
-let it rain, let it rain, let it rain on my head
-set it free, so complete, everything has come to ending
-let it breathe
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVdance
+p5
+I1
+sVtop
+p6
+I1
+sVending
+p7
+I2
+sVreincarnated
+p8
+I1
+sVsinnin
+p9
+I3
+sVmelody
+p10
+I1
+sVpraying
+p11
+I1
+sVfeat
+p12
+I1
+sVaint
+p13
+I3
+sVparis
+p14
+I1
+sVflash
+p15
+I1
+sVblog
+p16
+I1
+sVlets
+p17
+I1
+sVsnap
+p18
+I1
+sVkingdom
+p19
+I2
+sVbrown
+p20
+I1
+sVthem
+p21
+I2
+sVsomebody
+p22
+I2
+sVget
+p23
+I2
+sVbeat
+p24
+I1
+sVstop
+p25
+I1
+sVremedy
+p26
+I5
+sVevery
+p27
+I1
+sVknow
+p28
+I2
+sVbackground
+p29
+I1
+sVgot
+p30
+I3
+sVbit
+p31
+I1
+sVnow
+p32
+I1
+sVapart
+p33
+I1
+sVenemy
+p34
+I1
+sVshaped
+p35
+I1
+sVmiami
+p36
+I1
+sVdie
+p37
+I3
+sVdrop
+p38
+I1
+sVroll
+p39
+I1
+sVbad
+p40
+I2
+sVtogheter
+p41
+I1
+sVgifted
+p42
+I1
+sVengland
+p43
+I1
+sVhanging
+p44
+I1
+sVlebanon
+p45
+I1
+sVup
+p46
+I2
+sVlion
+p47
+I2
+sVprosper
+p48
+I1
+sVbusta
+p49
+I2
+sVeven
+p50
+I1
+sVliving
+p51
+I3
+sVgon
+p52
+I3
+sVeverything
+p53
+I2
+sVgoes
+p54
+I1
+sVwillin
+p55
+I1
+sVnew
+p56
+I2
+sVever
+p57
+I2
+sVbe
+p58
+I3
+sVrun
+p59
+I1
+sVnever
+p60
+I1
+sVfree
+p61
+I2
+sVkilling
+p62
+I1
+sVstudio
+p63
+I1
+sVyork
+p64
+I1
+sVnews
+p65
+I1
+sVash
+p66
+I1
+sVcome
+p67
+I2
+sVwadadadadang
+p68
+I2
+sVboy
+p69
+I6
+sVmany
+p70
+I1
+sVill
+p71
+I1
+sVpick
+p72
+I1
+sVlet
+p73
+I8
+sVwhole
+p74
+I2
+sVhonor
+p75
+I1
+sVsilence
+p76
+I1
+sVthats
+p77
+I1
+sVlove
+p78
+I1
+sVdont
+p79
+I1
+sVwhatever
+p80
+I4
+sVone
+p81
+I2
+sVdown
+p82
+I1
+sVnothing
+p83
+I1
+sVset
+p84
+I2
+sVstanding
+p85
+I1
+sVlittle
+p86
+I2
+sVsnoop
+p87
+I4
+sVdogg
+p88
+I1
+sVwadadadang
+p89
+I2
+sVthere
+p90
+I1
+sVtwisted
+p91
+I1
+sVcall
+p92
+I1
+sVwebsite
+p93
+I1
+sVhead
+p94
+I4
+sVcomplete
+p95
+I2
+sVon
+p96
+I1
+sVnobody
+p97
+I1
+sVleros
+p98
+I1
+sVwake
+p99
+I2
+sVme
+p100
+I6
+sVsee
+p101
+I10
+sVrhymes
+p102
+I1
+sVroot
+p103
+I3
+sVbreathe
+p104
+I2
+sVyoure
+p105
+I3
+sVmexico
+p106
+I1
+sVkingston
+p107
+I1
+sVit
+p108
+I1
+sVheard
+p109
+I3
+sVsay
+p110
+I4
+sVim
+p111
+I6
+sVhit
+p112
+I1
+sVend
+p113
+I1
+sVna
+p114
+I3
+sVmake
+p115
+I3
+sVsound
+p116
+I1
+sVyou
+p117
+I1
+sVsin
+p118
+I3
+sVmeets
+p119
+I1
+sVblessing
+p120
+I1
+sVrude
+p121
+I1
+sVafter
+p122
+I1
+sVrain
+p123
+I8
+sVrunning
+p124
+I1
+sVcoming
+p125
+I1
+sVchris
+p126
+I1
+sVforever
+p127
+I1
+sVoff
+p128
+I1
+sVbred
+p129
+I1
+sVwell
+p130
+I1
+sVgame
+p131
+I1
+sVasked
+p132
+I1
+sVtime
+p133
+I1
+sVclears
+p134
+I1
+sVhear
+p135
+I1
+sVleft
+p136
+I1
+s.

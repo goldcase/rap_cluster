@@ -1,58 +1,512 @@
-"talk about me" lyrics
-50 cent lyrics
-"talk about me"
-yeah! ha ha!
-man everywhere i go, i mean like everywhere i be
-i hear niggaz runnin they mouth, you should hear how they talk 'bout me
-i know boo boo i mean 50 he a grimey nigga
-50 shot my brother i'm a find that nigga
-we don't see his punk ass unless he on tv
-yeah he did my brother dirty but he don't wanna see me
-member rydell from kp thought he was his man
-put him on the table to bag up he beat him for grams
-how you think he got that money for that chalk gray  land
-that nigga robbin and stealin everything that he can
-man everywhere i go, i mean like everywhere i be
-i hear hoes runnin they mouth, you should hear how they talk 'bout me
-yeah i know curtis, he used to fuck with my friend
-used to come through my projects pick her up in the benz
-niggaz from my buildin always used to ask about him
-like she in and out of town right that niggaz get down right
-i used to say, all i know, is the nigga get money
-and you standin in my way, excuse me dummy
-ronda she told me that nigga a freak
-and mcdonald's ain't the only thing that he eat
-man everywhere i go, i mean like everywhere i be
-i hear everybody runnin they mouth, you should hear how they talk 'bout me
-i love 50 cent, that's my dad
-but even my mom talk about him bad
-she says since he blew up, he changed for sure
-he's really fascinated with these fancy hoes
-i don't know why but there personalities collide
-and my dad will swallow blood before he swallows his pride
-you know the kids in my class they be sayin he's crazy
-they just like him cause he rollin with dr. dre and shady
-man everywhere i go, i mean like everywhere i be
-i hear niggaz runnin they mouth, you should hear how they talk 'bout me
-man 50 fucked up, i mean real fucked up
-he left us in the hood we fucked up
-i can't believe this nigga getting all this money
-still actin like he in the street tellin niggaz they can't eat
-you know this motherfucker went and bought tyson's crib
-got bentley's, ferrari's, and all that shit
-he don't even come through to try and help niggaz out
-that's the bullshit see what i'm talkin about
-man everywhere i go, i mean like everywhere i be
-i hear everybody runnin they mouth, you should hear how they talk 'bout me
-that's my grand baby i love him i raised that boy right
-he ran to me cryin sent him back out to fight
-put a battery in his sock go pick up a rock
-you ain't a chump, you want your grandma to think you a punk
-look at my first grand baby, he is a big rap star
-bought me a house, diamonds, and a brand new car
-i tought him what it takes, to go this far
-boy i'm the reason you are what you are
-man everywhere i go, i mean like everywhere i be
-i hear everybody runnin they mouth, you should hear how they talk 'bout me
-man everywhere i go, i mean like everywhere i be
-i hear everybody runnin they mouth, you should hear how they talk 'bout me
+(dp1
+Vstandin
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I3
+sVgo
+p7
+I9
+sVmcdonalds
+p8
+I1
+sVstill
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I2
+sVbelieve
+p12
+I1
+sVronda
+p13
+I1
+sVtv
+p14
+I1
+sVbullshit
+p15
+I1
+sVbattery
+p16
+I1
+sVactin
+p17
+I1
+sVdirty
+p18
+I1
+sVbout
+p19
+I7
+sVpride
+p20
+I1
+sVsent
+p21
+I1
+sVdad
+p22
+I2
+sVtown
+p23
+I1
+sVcurtis
+p24
+I1
+sVtakes
+p25
+I1
+sVget
+p26
+I2
+sVbeat
+p27
+I1
+sVbig
+p28
+I1
+sVswallows
+p29
+I1
+sVcollide
+p30
+I1
+sVme
+p31
+I9
+sVknow
+p32
+I6
+sVmom
+p33
+I1
+sVnew
+p34
+I1
+sVcryin
+p35
+I1
+sVdr
+p36
+I1
+sVhim
+p37
+I1
+sVprojects
+p38
+I1
+sVgray
+p39
+I1
+sVlike
+p40
+I10
+sValways
+p41
+I1
+sVbrother
+p42
+I2
+sVrobbin
+p43
+I1
+sVtry
+p44
+I1
+sVbag
+p45
+I1
+sVbad
+p46
+I1
+sVrock
+p47
+I1
+sVwent
+p48
+I1
+sVbought
+p49
+I2
+sVmean
+p50
+I9
+sVblew
+p51
+I1
+sVnigga
+p52
+I6
+sVsays
+p53
+I1
+sVhouse
+p54
+I1
+sVyeah
+p55
+I3
+sV50
+p56
+I5
+sVsee
+p57
+I3
+sVsure
+p58
+I1
+sVus
+p59
+I1
+sVhoes
+p60
+I2
+sVstar
+p61
+I1
+sVreally
+p62
+I1
+sVeven
+p63
+I2
+sVfascinated
+p64
+I1
+sVsince
+p65
+I1
+sVeverything
+p66
+I1
+sVdiamonds
+p67
+I1
+sVgot
+p68
+I2
+sVcause
+p69
+I1
+sVtold
+p70
+I1
+sVass
+p71
+I1
+sVbe
+p72
+I7
+sVbuildin
+p73
+I1
+sVmotherfucker
+p74
+I1
+sVreason
+p75
+I1
+sVgrandma
+p76
+I1
+sVask
+p77
+I1
+sVcome
+p78
+I2
+sVsayin
+p79
+I1
+sVboy
+p80
+I2
+sVferraris
+p81
+I1
+sVkids
+p82
+I1
+sVgetting
+p83
+I1
+sVchanged
+p84
+I1
+sVpunk
+p85
+I2
+sVthing
+p86
+I1
+sVpick
+p87
+I2
+sVswallow
+p88
+I1
+sVdre
+p89
+I1
+sVthink
+p90
+I2
+sVthats
+p91
+I3
+sVraised
+p92
+I1
+sVlove
+p93
+I2
+sVdont
+p94
+I4
+sVrydell
+p95
+I1
+sVfancy
+p96
+I1
+sVput
+p97
+I2
+sVright
+p98
+I3
+sVtable
+p99
+I1
+sVhood
+p100
+I1
+sVeverybody
+p101
+I4
+sVwan
+p102
+I1
+sVpersonalities
+p103
+I1
+sVhes
+p104
+I2
+sVtysons
+p105
+I1
+sVsock
+p106
+I1
+sVcent
+p107
+I2
+sVfight
+p108
+I1
+sVtought
+p109
+I1
+sVway
+p110
+I1
+sVfriend
+p111
+I1
+sVtellin
+p112
+I1
+sVbrand
+p113
+I1
+sVabout
+p114
+I1
+sVcant
+p115
+I2
+sVback
+p116
+I1
+sVexcuse
+p117
+I1
+sVeverywhere
+p118
+I14
+sVbaby
+p119
+I2
+sVha
+p120
+I2
+sVeat
+p121
+I2
+sVrunnin
+p122
+I7
+sVchump
+p123
+I1
+sVlook
+p124
+I1
+sVcar
+p125
+I1
+sVup
+p126
+I2
+sVniggaz
+p127
+I6
+sVchalk
+p128
+I1
+sVstreet
+p129
+I1
+sVcan
+p130
+I1
+sVare
+p131
+I1
+sVreal
+p132
+I1
+sVcrazy
+p133
+I1
+sVfreak
+p134
+I1
+sVrap
+p135
+I1
+sVran
+p136
+I1
+sVbenz
+p137
+I1
+sVfuck
+p138
+I1
+sVsay
+p139
+I1
+sVim
+p140
+I3
+sVwant
+p141
+I1
+sVshit
+p142
+I1
+sVna
+p143
+I1
+sVstealin
+p144
+I1
+sVmember
+p145
+I1
+sVfar
+p146
+I1
+sVgrand
+p147
+I2
+sVbentleys
+p148
+I1
+sVout
+p149
+I1
+sVtalkin
+p150
+I1
+sVused
+p151
+I4
+sVunless
+p152
+I1
+sVgrimey
+p153
+I1
+sVboo
+p154
+I2
+sVcrib
+p155
+I1
+sVmouth
+p156
+I7
+sVblood
+p157
+I1
+sVfucked
+p158
+I3
+sVclass
+p159
+I1
+sVman
+p160
+I9
+sVdummy
+p161
+I1
+sVland
+p162
+I1
+sVgrams
+p163
+I1
+sVshady
+p164
+I1
+sVrollin
+p165
+I1
+sVthought
+p166
+I1
+sVkp
+p167
+I1
+sVhear
+p168
+I14
+sVfirst
+p169
+I1
+sVtalk
+p170
+I10
+sVleft
+p171
+I1
+s.

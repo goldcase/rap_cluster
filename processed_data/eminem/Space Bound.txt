@@ -1,87 +1,691 @@
-"space bound" lyrics
-eminem lyrics
-"space bound"
-we touch i feel a rush
-we clutch it isn't much
-but it's enough to make me wonder what's in store for us
-it's lust, it's torturous
-you must be a sorceress 'cause you just
-did the impossible
-gained my trust don't play games it'll be dangerous
-if you fuck me over
-'cause if i get burnt i'ma show you what it's like to hurt
-'cause i've been treated like dirt before you
-and love is "evol"
-spell it backwards i'll show you
-nobody knows me i'm cold
-walk down this road all alone
-it's no one's fault but my own
-it's the path i've chosen to go
-frozen as snow i show no emotion whatsoever so
-don't ask me why i have no love for these motherfucking ho's
-bloodsucking succubuses, what the fuck is up with this?
-i've tried in this department but i ain't had no luck with this
-it sucks but it's exactly what i thought it would be
-like trying to start over
-i got a hole in my heart, but some kind of emotional roller coaster
-something i won't go on 'til you toy with my emotions, so it's over
-it's like an explosion every time i hold you, i wasn't joking when i told you
-you take my breath away
-you're a supernova... and i'm a
-i'm a space bound rocket ship and your heart's the moon
-and i'm aiming right at you
-right at you
-two hundred fifty thousand miles on a clear night in june
-and i'm aiming right at you
-right at you
-right at you
-i'll do whatever it takes
-when i'm with you i get the shakes
-my body aches when i ain't
-with you i have zero strength
-there's no limit on how far i would go
-no boundaries, no lengths
-why do we say that until we get that person that we think's
-gonna be that one and then once we get 'em it's never the same?
-you want them when they don't want you
-soon as they do feelings change
-it's not a contest and i ain't on no conquest for no mate
-i wasn't looking when i stumbled onto you must've been fate
-but so much is at stake what the fuck does it take
-let's cut to the chase
-'fore a door shuts in your face
-promise me if i cave in and break and leave myself open
-that i won't be making a mistake
-cause i'm a...
-so after a year and six months, it's no longer me that you want
-but i love you so much it hurts
-never mistreated you once
-i poured my heart out to you
-let down my guard swear to god
-i'll blow my brains in your lap
-lay here and die in your arms
-drop to my knees and i'm pleading
-i'm trying to stop you from leaving
-you won't even listen so fuck it
-i'm trying to stop you from breathing
-i put both hands on your throat
-i sit on top of you squeezing
-'til i snap your neck like a popsicle stick
-ain't no possible reason i could think of to let you walk up out this house
-and let you live
-tears stream down both of my cheeks
-then i let you go and just give
-and before i put that gun to my temple
-i told you this
-and i would have did anything for you
-to show you how much i adored you
-but it's over now
-it's too late to save our love
-just promise me you'll think of me every time you look up in the sky and see a star 'cause i'm a...
-i'm a space bound rocket ship and your heart's the moon
-and i'm aiming right at you
-right at you
-two hundred fifty thousand miles on a clear night in june
-and i'm so lost without you
-without you
-without you
+(dp1
+Vnow
+p2
+I1
+sVcave
+p3
+I1
+sVcoaster
+p4
+I1
+sVpopsicle
+p5
+I1
+sVtorturous
+p6
+I1
+sVshow
+p7
+I4
+sVover
+p8
+I3
+sVsoon
+p9
+I1
+sVfifty
+p10
+I2
+sVisnt
+p11
+I1
+sVgo
+p12
+I4
+sVlove
+p13
+I4
+sVcold
+p14
+I1
+sVima
+p15
+I1
+sVlooking
+p16
+I1
+sVhold
+p17
+I1
+sVlyrics
+p18
+I2
+sVmistreated
+p19
+I1
+sVyoull
+p20
+I1
+sVchosen
+p21
+I1
+sVitll
+p22
+I1
+sVsky
+p23
+I1
+sVlate
+p24
+I1
+sVlets
+p25
+I1
+sVsqueezing
+p26
+I1
+sVwhatsoever
+p27
+I1
+sVsnap
+p28
+I1
+sVsave
+p29
+I1
+sVtake
+p30
+I2
+sVbreathing
+p31
+I1
+sVevol
+p32
+I1
+sVfate
+p33
+I1
+sVget
+p34
+I4
+sVfar
+p35
+I1
+sVcould
+p36
+I1
+sVspell
+p37
+I1
+sVstop
+p38
+I2
+sVrush
+p39
+I1
+sVbreak
+p40
+I1
+sVrocket
+p41
+I2
+sVones
+p42
+I1
+sVevery
+p43
+I2
+sVhands
+p44
+I1
+sVaiming
+p45
+I3
+sVburnt
+p46
+I1
+sVlook
+p47
+I1
+sVwont
+p48
+I3
+sVlike
+p49
+I5
+sVdie
+p50
+I1
+sVclutch
+p51
+I1
+sVdrop
+p52
+I1
+sVgun
+p53
+I1
+sVleave
+p54
+I1
+sVthis
+p55
+I3
+sVmiles
+p56
+I2
+sVnight
+p57
+I2
+sVluck
+p58
+I1
+sVem
+p59
+I1
+sVright
+p60
+I7
+sVjoking
+p61
+I1
+sVbe
+p62
+I1
+sVhouse
+p63
+I1
+sVtouch
+p64
+I1
+sVzero
+p65
+I1
+sVyear
+p66
+I1
+sVthinks
+p67
+I1
+sVwonder
+p68
+I1
+sVeven
+p69
+I1
+sVknees
+p70
+I1
+sVgon
+p71
+I1
+sVspace
+p72
+I4
+sVgod
+p73
+I1
+sVaway
+p74
+I1
+sVtears
+p75
+I1
+sVemotions
+p76
+I1
+sVmoon
+p77
+I2
+sVboundaries
+p78
+I1
+sVenough
+p79
+I1
+sVmate
+p80
+I1
+sVpleading
+p81
+I1
+sVit
+p82
+I1
+sVgot
+p83
+I1
+sVcause
+p84
+I5
+sVtemple
+p85
+I1
+sVtold
+p86
+I2
+sVbody
+p87
+I1
+sVaint
+p88
+I4
+sVshakes
+p89
+I1
+sVexplosion
+p90
+I1
+sVdirt
+p91
+I1
+sVsupernova
+p92
+I1
+sVnever
+p93
+I2
+sVeminem
+p94
+I1
+sVfeelings
+p95
+I1
+sVreason
+p96
+I1
+sVcut
+p97
+I1
+sVlet
+p98
+I4
+sVmaking
+p99
+I1
+sValone
+p100
+I1
+sVpath
+p101
+I1
+sVroller
+p102
+I1
+sVgained
+p103
+I1
+sVbackwards
+p104
+I1
+sVanything
+p105
+I1
+sVfault
+p106
+I1
+sVjust
+p107
+I1
+sVmonths
+p108
+I1
+sVask
+p109
+I1
+sVleaving
+p110
+I1
+sVadored
+p111
+I1
+sVswear
+p112
+I1
+sVgames
+p113
+I1
+sVmistake
+p114
+I1
+sVonto
+p115
+I1
+sVthink
+p116
+I2
+sVroad
+p117
+I1
+sVemotion
+p118
+I1
+sVmotherfucking
+p119
+I1
+sVown
+p120
+I1
+sVwhats
+p121
+I1
+sVdont
+p122
+I3
+sVstream
+p123
+I1
+sVheart
+p124
+I2
+sVfeel
+p125
+I1
+sVconquest
+p126
+I1
+sVhurts
+p127
+I1
+sVbound
+p128
+I4
+sVwhatever
+p129
+I1
+sVwalk
+p130
+I2
+sVsorceress
+p131
+I1
+sVguard
+p132
+I1
+sVpromise
+p133
+I2
+sVimpossible
+p134
+I1
+sVtrust
+p135
+I1
+sVopen
+p136
+I1
+sVtoy
+p137
+I1
+sVtakes
+p138
+I1
+sVwould
+p139
+I3
+sVtop
+p140
+I1
+sVneck
+p141
+I1
+sVtwo
+p142
+I2
+sVbreath
+p143
+I1
+sVstart
+p144
+I1
+sVlive
+p145
+I1
+sVmuch
+p146
+I4
+sVchange
+p147
+I1
+sVblow
+p148
+I1
+sVhundred
+p149
+I2
+sVstore
+p150
+I1
+sVlisten
+p151
+I1
+sVdoor
+p152
+I1
+sVknows
+p153
+I1
+sVbrains
+p154
+I1
+sVthousand
+p155
+I2
+sVexactly
+p156
+I1
+sVfore
+p157
+I1
+sVhurt
+p158
+I1
+sVarms
+p159
+I1
+sVhole
+p160
+I1
+sVtrying
+p161
+I3
+sVmust
+p162
+I1
+sVkind
+p163
+I1
+sVsit
+p164
+I1
+sVfrozen
+p165
+I1
+sVdangerous
+p166
+I1
+sVsucks
+p167
+I1
+sVsuccubuses
+p168
+I1
+sVus
+p169
+I1
+sVlimit
+p170
+I1
+sVemotional
+p171
+I1
+sVcheeks
+p172
+I1
+sVtreated
+p173
+I1
+sVill
+p174
+I3
+sVtheres
+p175
+I1
+sVive
+p176
+I3
+sVstick
+p177
+I1
+sVgive
+p178
+I1
+sVwasnt
+p179
+I2
+sVone
+p180
+I1
+sVfuck
+p181
+I4
+sVlust
+p182
+I1
+sVsay
+p183
+I1
+sVim
+p184
+I14
+sVsomething
+p185
+I1
+sVwant
+p186
+I3
+sVthroat
+p187
+I1
+sVship
+p188
+I2
+sVchase
+p189
+I1
+sVaches
+p190
+I1
+sVstumbled
+p191
+I1
+sVstrength
+p192
+I1
+sVshuts
+p193
+I1
+sVcontest
+p194
+I1
+sVlengths
+p195
+I1
+sVna
+p196
+I1
+sVmake
+p197
+I1
+sVstake
+p198
+I1
+sVsnow
+p199
+I1
+sVsame
+p200
+I1
+sVtil
+p201
+I2
+sVhos
+p202
+I1
+sVdepartment
+p203
+I1
+sVyou
+p204
+I17
+sVbloodsucking
+p205
+I1
+sVplay
+p206
+I1
+sVnobody
+p207
+I1
+sVstar
+p208
+I1
+sVtried
+p209
+I1
+sVsee
+p210
+I1
+sVput
+p211
+I2
+sVjune
+p212
+I2
+sVpossible
+p213
+I1
+sVlay
+p214
+I1
+sVmustve
+p215
+I1
+sVlap
+p216
+I1
+sVsix
+p217
+I1
+sVa
+I3
+sVlonger
+p218
+I1
+sVclear
+p219
+I2
+sVyoure
+p220
+I1
+sVlost
+p221
+I1
+sVface
+p222
+I1
+sVthought
+p223
+I1
+sVperson
+p224
+I1
+sVwithout
+p225
+I3
+sVso
+p226
+I1
+sVpoured
+p227
+I1
+sVtime
+p228
+I2
+sVhearts
+p229
+I2
+sVonce
+p230
+I1
+s.

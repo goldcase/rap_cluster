@@ -1,89 +1,731 @@
-"i don't know officer" lyrics
-50 cent lyrics
-"i don't know officer"
-(feat. lloyd banks, ma$e, prodigy, spider loc)
-it's 50, it's the unit, that means it's money, ha ha
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
-nowadays niggaz snitchin so much in the street
-but you gotta talk to them like they the police
-nah, i don't know nothin 'bout poppin the heat
-i don't know nothin 'bout sellin no beef in the streets
-nah, i don't know nothin 'bout baggin the grams
-i ain't never had no spot or went hand to hand
-me, i don't know nothin 'bout takin the stand
-i ain't never got a nigga ass stuck in the can
-nah, i don't know nothin 'bout dro or hash
-coke, dope, ex, dust or crystal meth
-nah, i'm just tryin to rap to get some cash
-keep the hip hop police off my ass
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
-aiyyo, that's my word on the stack of bibles
-i don't know who did it i don't know who responsible
-all i know who spittin all i know who givin
-me all this cash, just to put down twelve to get in yo' ass
-listen, keep it far away from me
-i ain't got time for sittin in the penitentuary
-all i know is i'm rich, all i know is that g-unit work
-when theb album drop they go bezerk
-mad video play, crazy radio spins
-number one all the time, our reign never ends
-don't point the finger at us somebody's hangin
-they had a beef with us, plus we don't know nathin
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
-i don't know nothin 'bout jumpin out splittin homeboy head
-but for real that's fucked up they say that homeboy dead
-i can't even think, who 'gon want him dead
-have no idea what type of gun they done him with
-you see i hear no evil and i see no evil
-ain't tryin to talk to or hear from or see those people
-and i ain't had them little homies burn up no regal
-i've been tryin to do this music thang and just go legal
-i don't know why my name in your female's phone
-but you really startin to sound like a females homes
-don't know why they told you that we sell stones
-we on the internet tryin to get our email on
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
-nah nigga i don't know who sent them young boys through
-to air the strip, shit just be happenin out the blue
-i don't be around here, i ain't hip to the news
-i don't know why that man clutchin on that shit when you move
-i don't know why that other rapper got stripped for his jewels
-you know how easy it is to get shit confused
-i wasn't even in new york, i was just in the cruise
-somewhere way out in the islands woth your bitch in the cruise
-who's my bitch in the cruise, dudes get hit when they snooze
-lose they hit from the uz, uz all over the street
-i don't know why they said what's up i don't know who's in that jeep
-he talk about me all day but i ain't losin no sleep
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
-i don't know why my charm 'bout as big as your palm
-and why the diamond chain i wear as 'bout as long as your arm
-you tell me, how many diamonds in my bezel
-there's one for everytime i had to grind up in the ghetto
-i could show you how to do it, you tired of ridin buicks
-i don't know why niggaz rap for years and can't make hotter music
-even when, i don't do it chicks release body fluid
-body drop, shotty pop, and niggaz wanna tie me to it
-i don't know why loon and fabby won't just say i'm they daddy
-why they solve them cb4 niggaz just keep comin at me
-got as many beefs as 50 and a nigga go to church
-could you imagine if my hands was on work, i don't know
-nah nigga i don't know, i don't know who got you
-i don't know who stabbed you, i don't know who shot you
-i don't know who cut you, i don't know who robbed you
-but you think i know cause you know how my squad do
+(dp1
+Vstones
+p2
+I1
+sVchicks
+p3
+I1
+sVshot
+p4
+I6
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmoney
+p7
+I1
+sVhands
+p8
+I1
+sVmove
+p9
+I1
+sVyears
+p10
+I1
+sVwoth
+p11
+I1
+sVradio
+p12
+I1
+sVlloyd
+p13
+I1
+sVcruise
+p14
+I3
+sVgo
+p15
+I3
+sVbibles
+p16
+I1
+sVfeat
+p17
+I1
+sVaint
+p18
+I7
+sVwear
+p19
+I1
+sVcut
+p20
+I6
+sVpolice
+p21
+I2
+sVgivin
+p22
+I1
+sVsomewhere
+p23
+I1
+sVthang
+p24
+I1
+sVpoppin
+p25
+I1
+sVyoung
+p26
+I1
+sVfluid
+p27
+I1
+sVprodigy
+p28
+I1
+sVrich
+p29
+I1
+sVhomies
+p30
+I1
+sVregal
+p31
+I1
+sVbout
+p32
+I8
+sVghetto
+p33
+I1
+sVsent
+p34
+I1
+sVta
+p35
+I1
+sVhip
+p36
+I2
+sVdo
+p37
+I6
+sVfucked
+p38
+I1
+sVaround
+p39
+I1
+sVbaggin
+p40
+I1
+sVget
+p41
+I5
+sVfar
+p42
+I1
+sVbig
+p43
+I1
+sVdope
+p44
+I1
+sVsittin
+p45
+I1
+sVtheb
+p46
+I1
+sVspittin
+p47
+I1
+sVknow
+p48
+I75
+sVnew
+p49
+I1
+sVstabbed
+p50
+I6
+sVday
+p51
+I1
+sVname
+p52
+I1
+sVwont
+p53
+I1
+sVlike
+p54
+I2
+sVhappenin
+p55
+I1
+sVsnitchin
+p56
+I1
+sVdrop
+p57
+I2
+sVrapper
+p58
+I1
+sV50
+p59
+I3
+sVofficer
+p60
+I2
+sVstartin
+p61
+I1
+sVlose
+p62
+I1
+sVrelease
+p63
+I1
+sVthrough
+p64
+I1
+sVwent
+p65
+I1
+sVpenitentuary
+p66
+I1
+sVspins
+p67
+I1
+sVus
+p68
+I2
+sVtwelve
+p69
+I1
+sVnigga
+p70
+I9
+sVpeople
+p71
+I1
+sVfabby
+p72
+I1
+sVstreets
+p73
+I1
+sVspider
+p74
+I1
+sVdead
+p75
+I2
+sVgun
+p76
+I1
+sVsee
+p77
+I3
+sVstreet
+p78
+I2
+sVvideo
+p79
+I1
+sVex
+p80
+I1
+sVcant
+p81
+I2
+sVmeth
+p82
+I1
+sVarm
+p83
+I1
+sVreally
+p84
+I1
+sValbum
+p85
+I1
+sVgon
+p86
+I1
+sVdiamonds
+p87
+I1
+sVsnooze
+p88
+I1
+sVtakin
+p89
+I1
+sVaway
+p90
+I1
+sVeverytime
+p91
+I1
+sVlegal
+p92
+I1
+sVfinger
+p93
+I1
+sVinternet
+p94
+I1
+sVit
+p95
+I1
+sVgot
+p96
+I11
+sVcause
+p97
+I6
+sVemail
+p98
+I1
+sVtold
+p99
+I1
+sVass
+p100
+I3
+sVends
+p101
+I1
+sVburn
+p102
+I1
+sVhash
+p103
+I1
+sVwan
+p104
+I1
+sVnever
+p105
+I3
+sVridin
+p106
+I1
+sVyork
+p107
+I1
+sVshotty
+p108
+I1
+sVevil
+p109
+I2
+sVimagine
+p110
+I1
+sVput
+p111
+I1
+sVnews
+p112
+I1
+sVon
+p113
+I1
+sVjeep
+p114
+I1
+sVmany
+p115
+I2
+sVcould
+p116
+I2
+sVkeep
+p117
+I3
+sVloon
+p118
+I1
+sVplus
+p119
+I1
+sVstand
+p120
+I1
+sVdro
+p121
+I1
+sVislands
+p122
+I1
+sVchain
+p123
+I1
+sVthink
+p124
+I7
+sVthats
+p125
+I2
+sVwhats
+p126
+I1
+sVdont
+p127
+I61
+sVpoint
+p128
+I1
+sVnumber
+p129
+I1
+sVdudes
+p130
+I1
+sVone
+p131
+I2
+sVgunit
+p132
+I1
+sVpop
+p133
+I1
+sVdone
+p134
+I1
+sVbitch
+p135
+I2
+sVstrip
+p136
+I1
+sVnowadays
+p137
+I1
+sVbezel
+p138
+I1
+sVunit
+p139
+I1
+sVloc
+p140
+I1
+sVlittle
+p141
+I1
+sVlong
+p142
+I1
+sVbeef
+p143
+I2
+sVtired
+p144
+I1
+sVcent
+p145
+I1
+sVwhos
+p146
+I2
+sVstuck
+p147
+I1
+sVmuch
+p148
+I1
+sVmusic
+p149
+I2
+sVway
+p150
+I1
+sVmeans
+p151
+I1
+sVtryin
+p152
+I4
+sVtype
+p153
+I1
+sVtell
+p154
+I1
+sVlisten
+p155
+I1
+sVhead
+p156
+I1
+sVdiamond
+p157
+I1
+sVfemales
+p158
+I2
+sVeasy
+p159
+I1
+sVrobbed
+p160
+I6
+sVcoke
+p161
+I1
+sVnathin
+p162
+I1
+sVreign
+p163
+I1
+sVidea
+p164
+I1
+sVphone
+p165
+I1
+sVheat
+p166
+I1
+sVhear
+p167
+I2
+sVlosin
+p168
+I1
+sVha
+p169
+I2
+sVwith
+p170
+I1
+sVsleep
+p171
+I1
+sVme
+p172
+I2
+sVhomes
+p173
+I1
+sVword
+p174
+I1
+sVuz
+p175
+I2
+sVsplittin
+p176
+I1
+sVwork
+p177
+I2
+sVcash
+p178
+I2
+sVniggaz
+p179
+I4
+sVair
+p180
+I1
+sVcrystal
+p181
+I1
+sVcan
+p182
+I1
+sVpalm
+p183
+I1
+sVdaddy
+p184
+I1
+sVcharm
+p185
+I1
+sVtheres
+p186
+I1
+sVreal
+p187
+I1
+sVcrazy
+p188
+I1
+sVhotter
+p189
+I1
+sVwant
+p190
+I1
+sVwasnt
+p191
+I1
+sVstripped
+p192
+I1
+sVconfused
+p193
+I1
+sVjewels
+p194
+I1
+sVive
+p195
+I1
+sVsay
+p196
+I2
+sVbeefs
+p197
+I1
+sVim
+p198
+I3
+sVrap
+p199
+I2
+sVhit
+p200
+I2
+sVsomebodys
+p201
+I1
+sVsell
+p202
+I1
+sVyo
+p203
+I1
+sVsellin
+p204
+I1
+sVna
+p205
+I1
+sVnah
+p206
+I11
+sVresponsible
+p207
+I1
+sVhomeboy
+p208
+I2
+sVsound
+p209
+I1
+sVsquad
+p210
+I6
+sVshit
+p211
+I3
+sVhop
+p212
+I1
+sVtie
+p213
+I1
+sVyou
+p214
+I18
+sVhangin
+p215
+I1
+sVclutchin
+p216
+I1
+sVeven
+p217
+I3
+sVplay
+p218
+I1
+sVbuicks
+p219
+I1
+sVblue
+p220
+I1
+sVspot
+p221
+I1
+sVchurch
+p222
+I1
+sVaiyyo
+p223
+I1
+sVhand
+p224
+I2
+sVcomin
+p225
+I1
+sVsaid
+p226
+I1
+sVmae
+p227
+I1
+sVmad
+p228
+I1
+sVcb4
+p229
+I1
+sVjumpin
+p230
+I1
+sVdust
+p231
+I1
+sVstack
+p232
+I1
+sVman
+p233
+I1
+sVgrams
+p234
+I1
+sVboys
+p235
+I1
+sVnothin
+p236
+I6
+sVgrind
+p237
+I1
+sVbody
+p238
+I2
+sVsolve
+p239
+I1
+sVtime
+p240
+I2
+sVbanks
+p241
+I1
+sVbezerk
+p242
+I1
+sVmake
+p243
+I1
+sVtalk
+p244
+I3
+s.

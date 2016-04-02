@@ -1,38 +1,290 @@
-"the pitch" lyrics
-de la soul lyrics
-"the pitch"
-yo, a nubian sprocket is the one (one)
-plug one (one), cut the cap (cap)
-forward is the marcher of the chant (chant)
-to the clan (clan), unless you slept (slept)
-willy to the wonka of the feast (feast)
-smoke your blunts, but close your drapes (drapes)
-if we get fined by police (police)
-don't sweat it, yo, i got the papes (papes)
-toxic is the talk that i tell
-the not be held by the lady who's fat (fat)
-chris made the dope beat but no bo peeps
-and you can't beat that... that's a fact
-he's no batter
-he's no batter, batter
-he's no batter
-he's no batter {"here comes the pitch"}
-swingin was that good ol' step (step)
-it's plug dos (dos), move ya gut
-on gets by when it's kept (kept)
-three miles (miles) beats a strut
-forgivin them fools that's false (false)
-i cook goose (goose) and serve a plate (plate)
-position is opposed to a loss
-no cost, no relate
-see dave's got a badge of his own (own)
-because the link of the life got slack
-i'ma lick her down to the tootsie pop
-and he can't beat that... with a bat
-(can you beat that?)
-swing.. that's how we do it, de la y'all
-we just ride.. and take the train, take the train
-take the train.. train
-take the train, we takin the train
-take the train, take the train
-take..
+(dp1
+Vlyrics
+p2
+I2
+sVsprocket
+p3
+I1
+sVmove
+p4
+I1
+sVheld
+p5
+I1
+sVpapes
+p6
+I2
+sVpitch
+p7
+I3
+sVtakin
+p8
+I1
+sVima
+p9
+I1
+sVcut
+p10
+I1
+sVpolice
+p11
+I2
+sVla
+p12
+I2
+sVfined
+p13
+I1
+sVplate
+p14
+I2
+sVgood
+p15
+I1
+sVyo
+p16
+I2
+sVget
+p17
+I1
+sVya
+p18
+I1
+sVdope
+p19
+I1
+sVde
+p20
+I2
+sVfat
+p21
+I2
+sVstrut
+p22
+I1
+sVbatter
+p23
+I5
+sVwonka
+p24
+I1
+sVcook
+p25
+I1
+sVlady
+p26
+I1
+sVclan
+p27
+I2
+sVloss
+p28
+I1
+sVbat
+p29
+I1
+sVfeast
+p30
+I2
+sVmiles
+p31
+I2
+sVgut
+p32
+I1
+sVyall
+p33
+I1
+sVpeeps
+p34
+I1
+sVsoul
+p35
+I1
+sVgoose
+p36
+I2
+sVsee
+p37
+I1
+sVcost
+p38
+I1
+sVclose
+p39
+I1
+sVgot
+p40
+I3
+sVbadge
+p41
+I1
+sVbo
+p42
+I1
+sVstep
+p43
+I2
+sVplug
+p44
+I2
+sVol
+p45
+I1
+sVchant
+p46
+I2
+sVsweat
+p47
+I1
+sVsmoke
+p48
+I1
+sVswing
+p49
+I1
+sVcomes
+p50
+I1
+sVthats
+p51
+I3
+sVown
+p52
+I1
+sVdont
+p53
+I1
+sVrelate
+p54
+I1
+sVpop
+p55
+I1
+sVone
+p56
+I4
+sVswingin
+p57
+I1
+sVblunts
+p58
+I1
+sVnubian
+p59
+I1
+sVwilly
+p60
+I1
+sVhes
+p61
+I4
+sVslept
+p62
+I2
+sVthree
+p63
+I1
+sVwhos
+p64
+I1
+sVopposed
+p65
+I1
+sVforward
+p66
+I1
+sVtell
+p67
+I1
+sVlife
+p68
+I1
+sVdrapes
+p69
+I2
+sVserve
+p70
+I1
+sVtrain
+p71
+I8
+sVlink
+p72
+I1
+sVmade
+p73
+I1
+sVslack
+p74
+I1
+sVride
+p75
+I1
+sVcap
+p76
+I2
+sVbeats
+p77
+I1
+sVlick
+p78
+I1
+sVfalse
+p79
+I2
+sVtootsie
+p80
+I1
+sVcant
+p81
+I2
+sVthat
+p82
+I1
+sVbeat
+p83
+I4
+sVforgivin
+p84
+I1
+sVtake
+p85
+I7
+sVtoxic
+p86
+I1
+sVfools
+p87
+I1
+sVgets
+p88
+I1
+sVunless
+p89
+I1
+sVmarcher
+p90
+I1
+sVdos
+p91
+I2
+sVchris
+p92
+I1
+sVkept
+p93
+I2
+sVdaves
+p94
+I1
+sVtalk
+p95
+I1
+sVposition
+p96
+I1
+sVfact
+p97
+I1
+s.

@@ -1,18 +1,143 @@
-"you betta ask somebody (gz and hustlas intro)" lyrics
-snoop dogg lyrics
-"you betta ask somebody (gz and hustlas intro)"
-good morning boys and girls, i'm your
-substitute teacher, mr. buckwort
-the topic fo' today is, what you wanna be when you grow up
-you, over there in the jean shirt, what you wanna
-be when you grow up?
-- i wanna be a police officer
-alright, that's a pretty good profession
-you over there in that black shirt
-what you wanna be when you grow?
-- i wanna be a fire man
-alright, that's a pretty good profession too
-you, back there in those french braids, what's yo name?
-- my name is snoop
-alright snoop, what you wanna be when you grow up?
-- i wanna be a motherfuckin hustla, ya betta ask somebody
+(dp1
+Vhustlas
+p2
+I2
+sVwhats
+p3
+I1
+sVlyrics
+p4
+I2
+sVprofession
+p5
+I2
+sVgz
+p6
+I2
+sVup
+p7
+I3
+sVtopic
+p8
+I1
+sVna
+p9
+I7
+sVintro
+p10
+I2
+sVim
+p11
+I1
+sVbraids
+p12
+I1
+sVyour
+p13
+I1
+sVsubstitute
+p14
+I1
+sVwan
+p15
+I7
+sVpolice
+p16
+I1
+sVshirt
+p17
+I2
+sVsnoop
+p18
+I3
+sVdogg
+p19
+I1
+sVgirls
+p20
+I1
+sVgrow
+p21
+I4
+sVya
+p22
+I1
+sVblack
+p23
+I1
+sVtoo
+p24
+I1
+sVpretty
+p25
+I2
+sVman
+p26
+I1
+sVtoday
+p27
+I1
+sVmotherfuckin
+p28
+I1
+sVgood
+p29
+I3
+sVsomebody
+p30
+I3
+sVyo
+p31
+I1
+sVfire
+p32
+I1
+sVfrench
+p33
+I1
+sVback
+p34
+I1
+sVboys
+p35
+I1
+sVask
+p36
+I3
+sVteacher
+p37
+I1
+sVfo
+p38
+I1
+sVhustla
+p39
+I1
+sVname
+p40
+I2
+sVbuckwort
+p41
+I1
+sVbetta
+p42
+I3
+sVmorning
+p43
+I1
+sVofficer
+p44
+I1
+sVmr
+p45
+I1
+sValright
+p46
+I3
+sVjean
+p47
+I1
+sVthats
+p48
+I2
+s.

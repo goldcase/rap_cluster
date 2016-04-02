@@ -1,78 +1,641 @@
-"mailman" lyrics
-e-40 lyrics
-"mailman"
-kick this shit about the mail man
-time for the payback, backpay
-can't let homie live to see his birthday
-a.k., forty's lettin hot ones to the kidney
-bootsee muthafucka didn't know what hit him
-what way, rode up on his ass in a chevy
-baby, nigga shoulda known that shit was heavy
-domain, shouldn't a fuck up all my fuckin fetti
-that i gave him, spent my shit with a nigga from another city
-then they doubled, tripled and sold his ass some swivle
-little old sucker-butt nigga trust the mail man
-now his ass is trash like a garbage can
-caught up in some shit with the mailman
-(boom-boom!) now they gloom
-my strap went boom
-had him dodgin every muthafuckin up in the room
-they say the youngsters run the penitentiary (i think they do)
-they say the youngsters doin shit that you wouldn't believe
-they say the youngsters on the street snort hop like a muthafucka
-(hm-hm) well, check this part out, brother
-(okay) the nigga that the mail man shot
-little homie went to purchase himself a brand-new glock
-(that's right) right off that hop, premiditated plot
-i'll park around the corner and do a walk-by
-reconciliation, retaliation on my mind
-nothin against the muslims, but i was raised eatin swine
-trapped in the game since 1979
-my niggas on the street taught me to perk and drink wine
-i'm young, full of cum, nothin to lose
-paid my dues, i'm settin the rules
-i got some clues, and i refuse
-to let the sucker that killed my homie get away smooth
-(boom-boom!) now they gloom
-my strap went boom
-when i see the mail man, then his ass is doomed
-thinkin, tweakin, sniffin, hoppin, plottin
-schemin, actin like a demon
-my pores is stinkin, and i'm all sweaty
-hallucinatin, smellin like burnt spaghetti
-oh no, the mail man gotta go
-he killed my homie, but he forgot that it was one mo'
-to go, so i figured that he's after me
-till the word on the streets is that i'm after him
-true, now i'm waitin for departure
-cause i'm never late on arrival
-grabbed the landmines, bazookas, grenades, and tommy-o
-and i can't forget the glock, cause it's the most reliable
-shit, fuck it, i'ma just take the glock deep
-i scoped out his spot, i know where he sleeps
-hot-wired the thunderbird
-i'm headed for the suburbs
-mobbin, doin about a buck fifty
-took the third exit to another part of the city
-now i'm his presence, about to let him have it
-caught him walkin to his car, and now he's in a casket
-(boom-boom!) now they gloom
-my strap went boom
-when i see the mail man, then his ass is doomed
-(boom-boom!) now they gloom
-my strap went boom
-had him hoppin like a rabbit tryin to touch the fuckin moon
-hm-hm
-mail man needs money, man
-f-l-a-m-b-o-y-a-n-t in this muthafucka
-hm-hm, the mail man
-ass-out jungle
-gotta watch your back and play it well
-stay away from fawlty muthafuckas
-that's real
-boom-boom-boom-boom-boom!
-(boom-boom!)
-hoppin like a rabbit tryin to touch the fuckin moon
-boom-boom-boom-boom-boom!
-(boom-boom!)
-now his ass is doomed
+(dp1
+Vshot
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVfifty
+p6
+I1
+sVknown
+p7
+I1
+sVgo
+p8
+I2
+sVcorner
+p9
+I1
+sVdemon
+p10
+I1
+sVmoon
+p11
+I2
+sVima
+p12
+I1
+sVgrabbed
+p13
+I1
+sVsleeps
+p14
+I1
+sVtill
+p15
+I1
+sVbazookas
+p16
+I1
+sVpresence
+p17
+I1
+sVyoung
+p18
+I1
+sVkilled
+p19
+I2
+sVswivle
+p20
+I1
+sVactin
+p21
+I1
+sVlate
+p22
+I1
+sVmail
+p23
+I8
+sVcum
+p24
+I1
+sVbrandnew
+p25
+I1
+sVkick
+p26
+I1
+sVgave
+p27
+I1
+sVreal
+p28
+I1
+sVdo
+p29
+I1
+sVhit
+p30
+I1
+sVaround
+p31
+I1
+sVkidney
+p32
+I1
+sVget
+p33
+I1
+sVmuthafuckin
+p34
+I1
+sVsucker
+p35
+I1
+sVwatch
+p36
+I1
+sVtweakin
+p37
+I1
+sVgame
+p38
+I1
+sVones
+p39
+I1
+sVevery
+p40
+I1
+sVknow
+p41
+I2
+sVmuthafuckas
+p42
+I1
+sVpayback
+p43
+I1
+sVhotwired
+p44
+I1
+sVone
+p45
+I1
+sVburnt
+p46
+I1
+sVhim
+p47
+I2
+sVgloom
+p48
+I4
+sVlike
+p49
+I6
+sVlandmines
+p50
+I1
+sVassout
+p51
+I1
+sVbrother
+p52
+I1
+sVdoubled
+p53
+I1
+sVsnort
+p54
+I1
+sVlose
+p55
+I1
+sVwent
+p56
+I5
+sVreliable
+p57
+I1
+sVheavy
+p58
+I1
+sVarrival
+p59
+I1
+sVdomain
+p60
+I1
+sVnigga
+p61
+I4
+sVold
+p62
+I1
+sVfawlty
+p63
+I1
+sVstreets
+p64
+I1
+sVback
+p65
+I1
+sVretaliation
+p66
+I1
+sVtouch
+p67
+I2
+sVsee
+p68
+I3
+sVstreet
+p69
+I2
+sVpremiditated
+p70
+I1
+sVgrenades
+p71
+I1
+sVforgot
+p72
+I1
+sVspaghetti
+p73
+I1
+sVbackpay
+p74
+I1
+sVreconciliation
+p75
+I1
+sVaway
+p76
+I2
+sVsince
+p77
+I1
+sVsweaty
+p78
+I1
+sVexit
+p79
+I1
+sVit
+p80
+I1
+sVgot
+p81
+I3
+sVcause
+p82
+I2
+sVass
+p83
+I6
+sVfull
+p84
+I1
+sVrun
+p85
+I1
+sVlettin
+p86
+I1
+sVplot
+p87
+I1
+sVsold
+p88
+I1
+sVnever
+p89
+I1
+sVmuthafucka
+p90
+I3
+sVtripled
+p91
+I1
+sVlet
+p92
+I3
+sVscoped
+p93
+I1
+sVclues
+p94
+I1
+sVfetti
+p95
+I1
+sVshoulda
+p96
+I1
+sVbuck
+p97
+I1
+sVfigured
+p98
+I1
+sVwouldnt
+p99
+I1
+sVoh
+p100
+I1
+sVill
+p101
+I1
+sVchevy
+p102
+I1
+sVeatin
+p103
+I1
+sVmuslims
+p104
+I1
+sVswine
+p105
+I1
+sVthink
+p106
+I1
+sVfuckin
+p107
+I3
+sVthats
+p108
+I2
+sVraised
+p109
+I1
+sVhoppin
+p110
+I3
+sVgarbage
+p111
+I1
+sVheaded
+p112
+I1
+sVthird
+p113
+I1
+sVsuckerbutt
+p114
+I1
+sVtommyo
+p115
+I1
+sVboomboomboomboomboom
+p116
+I2
+sVstrap
+p117
+I4
+sVright
+p118
+I2
+sVanother
+p119
+I2
+sVtrust
+p120
+I1
+sVcity
+p121
+I2
+sVlittle
+p122
+I2
+sVcasket
+p123
+I1
+sVmailman
+p124
+I3
+sVhes
+p125
+I2
+sVperk
+p126
+I1
+sVcaught
+p127
+I2
+sVmobbin
+p128
+I1
+sVsuburbs
+p129
+I1
+sVlive
+p130
+I1
+sVway
+p131
+I1
+sVsettin
+p132
+I1
+sVtryin
+p133
+I2
+sVglock
+p134
+I3
+sVwalkby
+p135
+I1
+sVtrapped
+p136
+I1
+sVmind
+p137
+I1
+sVdoomed
+p138
+I3
+sVpark
+p139
+I1
+sVtook
+p140
+I1
+sVfuck
+p141
+I2
+sVpart
+p142
+I2
+sVtaught
+p143
+I1
+sVrabbit
+p144
+I2
+sVbaby
+p145
+I1
+sVbelieve
+p146
+I1
+sVtrue
+p147
+I1
+sVme
+p148
+I1
+sVe40
+p149
+I1
+sVflamboyant
+p150
+I1
+sVword
+p151
+I1
+sVroom
+p152
+I1
+sVniggas
+p153
+I1
+sVcar
+p154
+I1
+sVmo
+p155
+I1
+sVsmooth
+p156
+I1
+sVsay
+p157
+I3
+sVbootsee
+p158
+I1
+sVdodgin
+p159
+I1
+sVcan
+p160
+I1
+sVta
+p161
+I2
+sVdidnt
+p162
+I1
+sVdues
+p163
+I1
+sVhallucinatin
+p164
+I1
+sVthunderbird
+p165
+I1
+sVak
+p166
+I1
+sVrode
+p167
+I1
+sVfortys
+p168
+I1
+sVdeep
+p169
+I1
+sVdeparture
+p170
+I1
+sVcant
+p171
+I2
+sVhomie
+p172
+I4
+sVim
+p173
+I8
+sVpores
+p174
+I1
+sVtake
+p175
+I1
+sVcheck
+p176
+I1
+sVshit
+p177
+I6
+sVwalkin
+p178
+I1
+sVneeds
+p179
+I1
+sVthinkin
+p180
+I1
+sVhmhm
+p181
+I3
+sVsniffin
+p182
+I1
+sVrules
+p183
+I1
+sVhot
+p184
+I1
+sVboomboom
+p185
+I6
+sVboom
+p186
+I4
+sVhop
+p187
+I2
+sVschemin
+p188
+I1
+sVtrash
+p189
+I1
+sVwaitin
+p190
+I1
+sVplottin
+p191
+I1
+sVplay
+p192
+I1
+sVshouldnt
+p193
+I1
+sVokay
+p194
+I1
+sVdoin
+p195
+I2
+sVdrink
+p196
+I1
+sVspot
+p197
+I1
+sVyoungsters
+p198
+I3
+sVpaid
+p199
+I1
+sVstay
+p200
+I1
+sVbirthday
+p201
+I1
+sVstinkin
+p202
+I1
+sVman
+p203
+I9
+sVpenitentiary
+p204
+I1
+sVpurchase
+p205
+I1
+sVrefuse
+p206
+I1
+sV1979
+p207
+I1
+sVwell
+p208
+I2
+sVspent
+p209
+I1
+sVnothin
+p210
+I2
+sVsmellin
+p211
+I1
+sVjungle
+p212
+I1
+sVtime
+p213
+I1
+sVwine
+p214
+I1
+s.

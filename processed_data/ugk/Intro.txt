@@ -1,45 +1,402 @@
-"intro" lyrics
-ugk lyrics
-"intro"
-"ya muthafuckin right"
-"cause where i'm from nigga, house some motherfuckin killas"
-aiyyo bun, there's a lotta niggaz out there
-that's dissin big tyme and u.g.k. man
-but them motherfuckers don't know where we come from or where we did it
-but you know what i want you to do, tell 'em where you from!
-niggaz always askin what the fuck do trill stand for?
-trill mean if you ain't my nigga, what you shakin my hand for?
-trill mean if you ain't my bitch, don't sit on my lap
-and if you ain't from p.a.t., nigga keep ya strap
-the trill drink olde e., out on 7th street in texas
-drive a 'lac, or a buick, motherfuck a lexus!
-trill niggaz got the big nuts and big dicks
-so what they hittin fo', fool? roll that 4-5-6
-either wearin dickies or they sportin hi fashion
-sellin dope and hatin doin {? } with a passion
-laws on the creep, so look for the nine twice
-i bail to the shackle five-oh-three and roll some dice
-trill niggaz hit the car wash and make 'em shine
-you better watch yo' ass when you see the 99
-the trill niggaz only hit the streets when it's the night
-at circle k.r. churches, to see who wanna fight
-we don't take to new faces, quit airin p.a.t.
-you cain't just runnin talkin 'bout - "aiyyo, wassup g? ! "
-why you pullin out you hand? i'm pullin out my gat
-catch a blast muthafucka, you don't know where you at
-cause see now p.a.t. don't stand for "punk ass tricks"
-it's "pullin all triggers" and we pull them hoes quick
-you talkin to a nigga with trigger-finger twitch
-if you ain't from p.a.t., i'm unloadin on you bitch!
-ain't no punks where i'm from!
-"ya muthafuckin right"
-"cause where i'm from nigga, house some motherfuckin killas"
-yeah, ain't no punks where i'm from
-"ya muthafuckin right"
-"cause where i'm from nigga, house some motherfuckin killas"
-yeah, ain't no punks where i'm from
-"ya muthafuckin right"
-"cause where i'm from nigga, house some motherfuckin killas"
-bitch, ain't no punks where i'm from!
-"ya muthafuckin right"
-"cause where i'm from nigga, house some motherfuckin killas"
+(dp1
+Vugk
+p2
+I2
+sVlyrics
+p3
+I2
+sVcatch
+p4
+I1
+sVlexus
+p5
+I1
+sVbail
+p6
+I1
+sVaint
+p7
+I8
+sVdice
+p8
+I1
+sVwassup
+p9
+I1
+sVshakin
+p10
+I1
+sVsportin
+p11
+I1
+sVcircle
+p12
+I1
+sVdicks
+p13
+I1
+sVtexas
+p14
+I1
+sVtake
+p15
+I1
+sVfool
+p16
+I1
+sVhit
+p17
+I2
+sVyo
+p18
+I1
+sVmuthafuckin
+p19
+I5
+sVbig
+p20
+I3
+sVdope
+p21
+I1
+sVwatch
+p22
+I1
+sVfiveohthree
+p23
+I1
+sVknow
+p24
+I3
+sVchurches
+p25
+I1
+sVblast
+p26
+I1
+sVdissin
+p27
+I1
+sValways
+p28
+I1
+sVtalkin
+p29
+I2
+sVtwice
+p30
+I1
+sVeither
+p31
+I1
+sVhittin
+p32
+I1
+sVnight
+p33
+I1
+sVquick
+p34
+I1
+sVmean
+p35
+I2
+sVem
+p36
+I2
+sVright
+p37
+I5
+sVhouse
+p38
+I5
+sVstreets
+p39
+I1
+sVyeah
+p40
+I2
+sVsee
+p41
+I3
+sVstreet
+p42
+I1
+sVhoes
+p43
+I1
+sV7th
+p44
+I1
+sVcreep
+p45
+I1
+sVlotta
+p46
+I1
+sVfor
+p47
+I2
+sVairin
+p48
+I1
+sVpassion
+p49
+I1
+sVgot
+p50
+I1
+sVcause
+p51
+I6
+sVass
+p52
+I2
+sVwan
+p53
+I1
+sVmuthafucka
+p54
+I1
+sVpunks
+p55
+I4
+sVhand
+p56
+I2
+sVcome
+p57
+I1
+sVshine
+p58
+I1
+sVg
+I1
+sVtriggers
+p59
+I1
+sVpunk
+p60
+I1
+sVkeep
+p61
+I1
+sVstand
+p62
+I2
+sVfaces
+p63
+I1
+sVpullin
+p64
+I3
+sVtwitch
+p65
+I1
+sVmotherfuckers
+p66
+I1
+sVthats
+p67
+I1
+sVdont
+p68
+I5
+sV456
+p69
+I1
+sVstrap
+p70
+I1
+sVwash
+p71
+I1
+sVnigga
+p72
+I8
+sVbitch
+p73
+I3
+sVbuick
+p74
+I1
+sVfight
+p75
+I1
+sVbetter
+p76
+I1
+sVfrom
+p77
+I5
+sVthere
+p78
+I1
+sVdickies
+p79
+I1
+sVolde
+p80
+I1
+sVmotherfuck
+p81
+I1
+sVman
+p82
+I1
+sVtell
+p83
+I1
+sVkillas
+p84
+I5
+sVtriggerfinger
+p85
+I1
+sVgat
+p86
+I1
+sVfuck
+p87
+I1
+sV99
+p88
+I1
+sVhi
+p89
+I1
+sVbun
+p90
+I1
+sVhatin
+p91
+I1
+sVsit
+p92
+I1
+sVbout
+p93
+I1
+sVrunnin
+p94
+I1
+sVpull
+p95
+I1
+sVlook
+p96
+I1
+sVwearin
+p97
+I1
+sVcar
+p98
+I1
+sVniggaz
+p99
+I5
+sVnine
+p100
+I1
+sVunloadin
+p101
+I1
+sVtheres
+p102
+I1
+sVfashion
+p103
+I1
+sVit
+p104
+I1
+sVintro
+p105
+I2
+sVim
+p106
+I11
+sVat
+p107
+I1
+sVwant
+p108
+I1
+sVpat
+p109
+I4
+sVcaint
+p110
+I1
+sVtrill
+p111
+I7
+sVtyme
+p112
+I1
+sVna
+p113
+I1
+sVmake
+p114
+I1
+sVnuts
+p115
+I1
+sVya
+p116
+I6
+sVshackle
+p117
+I1
+sVmotherfuckin
+p118
+I5
+sVnew
+p119
+I1
+sVroll
+p120
+I2
+sVaskin
+p121
+I1
+sVdoin
+p122
+I1
+sVdrink
+p123
+I1
+sVquit
+p124
+I1
+sVaiyyo
+p125
+I2
+sVlac
+p126
+I1
+sVlap
+p127
+I1
+sVfo
+p128
+I1
+sVe
+I1
+sVtricks
+p129
+I1
+sVsellin
+p130
+I1
+sVdrive
+p131
+I1
+sVkr
+p132
+I1
+sVlaws
+p133
+I1
+s.

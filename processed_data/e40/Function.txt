@@ -1,79 +1,652 @@
-"function" lyrics
-e-40 lyrics
-"function"
-(feat. iamsu, problem, yg)
-ay, ay bitch, try this
-guaranteed turn a square to a bi bitch
-you ain't down b-b-bye bitch
-i ain't got time for playing, i'm just sayin' man
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-i ain't got time for playing, i'm just sayin' man
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-we out here trynna function
-i ain't got time for playing, i'm just sayin' man
-we out here trynna function
-we out here trynna function bitch
-you fuckin' off my high, get up out my mix
-you messin' up my vibe i'm trynna get some crevice
-put her in my ride, take her to the ritz
-i'm toasted and sloppy, i fuck with broccoli bacardi
-151 out my body, about that green like wasabi
-like young bari we mobbin'
-we bossy back the fuck off me
-getting' money my hobby, not getting' money is not
-only rappers i listen to is e-40 and pac
-i'm havin' my revenue playa havin' this guap
-on my fly, big nigga shit man i stay laced and groomed
-i spray myself with sucka repellent my nigga not perfume
-anything you got i can sell to hustla's, think i can't?
-gift of gab sell the white house black paint
-word candy, s-l-a-n-g
-thinkin' about taking a million dollar insurance policy out on my mouthpiece
-biatch!
-ay bitch ok bitch
-it's uncle earl and the hbk bitch
-misson: the game, they already know that we ballin'
-i'm comin' straight out the rich, i got family down in new orleans
-where you from you say you lyin'
-out here we say that you jawsin'
-you probably thought this never would happen
-my niggas been called an alcoholic, when sippin' that liquor
-oh i'm drunk as hell
-fuckin' with a lil' bitch over in vallejo
-got a whole pack of pre-rolled young l's
-and i'm never down to uno, pockets on sumo
-hater's respect the pedigree, baller heavily
-a phony homie i'll never be for methamphetamine
-that means it's crack ho
-young g hotter than tabasco
-i smash hoes, collect 200 and pass go
-my flow so lamborghini yo shit's a rav-4
-now you understand why everything i do i gas ho
-suzie! nigga!
-i'm out here trynna function, out here trynna function
-don't talk to me bitch if we ain't buckin'
-yea i'm a asshole, i don't give a fuck though
-skip the bullshit like wussup with some suck though
-i go too much, make you bitch choose up
-niggas getting' mad nigga what you gon' do
-if he think he too tough
-you know i keep two tucked
-if i don't fight that mean i'm comin' back to shoot
-ridin' in the car, lookin' for a bad bitch
-man she got some tits
-yea she gotta be dumb cute
-got her number text her phone like "baby what you doin'"
-she was like "nothing much you should come through"
-i got dick for days, i got dick for days
-made her take off her work and gave her dick for days
-push it to my brain, to my temple bitch
-and i don't like these hoe's i give 'em dick for dem, whoop
+(dp1
+Vprerolled
+p2
+I1
+sVcute
+p3
+I1
+sVlyrics
+p4
+I2
+sVheavily
+p5
+I1
+sVyea
+p6
+I2
+sVmoney
+p7
+I2
+sVdollar
+p8
+I1
+sVchoose
+p9
+I1
+sVbacardi
+p10
+I1
+sValready
+p11
+I1
+sVthrough
+p12
+I1
+sVgo
+p13
+I2
+sVhell
+p14
+I1
+sVfeat
+p15
+I1
+sVmake
+p16
+I1
+sVaint
+p17
+I5
+sVorleans
+p18
+I1
+sVlaced
+p19
+I1
+sVballer
+p20
+I1
+sVsayin
+p21
+I3
+sVdrunk
+p22
+I1
+sVguaranteed
+p23
+I1
+sVyoung
+p24
+I3
+sVbossy
+p25
+I1
+sVlyin
+p26
+I1
+sVhavin
+p27
+I2
+sVblack
+p28
+I1
+sVls
+p29
+I1
+sVrich
+p30
+I1
+sVcrack
+p31
+I1
+sVpolicy
+p32
+I1
+sVhobby
+p33
+I1
+sVta
+p34
+I1
+sVfly
+p35
+I1
+sVyo
+p36
+I1
+sVget
+p37
+I2
+sVbig
+p38
+I1
+sVwasabi
+p39
+I1
+sVyg
+p40
+I1
+sVsloppy
+p41
+I1
+sVsumo
+p42
+I1
+sVshoot
+p43
+I1
+sVgame
+p44
+I1
+sVmade
+p45
+I1
+sVknow
+p46
+I2
+sVnew
+p47
+I1
+sVnot
+p48
+I1
+sVsuzie
+p49
+I1
+sVbullshit
+p50
+I1
+sVearl
+p51
+I1
+sVsmash
+p52
+I1
+sVlike
+p53
+I6
+sVgift
+p54
+I1
+sVbrain
+p55
+I1
+sVcandy
+p56
+I1
+sVperfume
+p57
+I1
+sVtry
+p58
+I1
+sVcollect
+p59
+I1
+sVbad
+p60
+I1
+sVpedigree
+p61
+I1
+sVbuckin
+p62
+I1
+sVstraight
+p63
+I1
+sVtwo
+p64
+I1
+sVmean
+p65
+I1
+sVem
+p66
+I1
+sVsquare
+p67
+I1
+sVdo
+p68
+I1
+sVhouse
+p69
+I1
+sVliquor
+p70
+I1
+sVcomin
+p71
+I2
+sVback
+p72
+I2
+sVup
+p73
+I1
+sVdumb
+p74
+I1
+sVhoes
+p75
+I2
+sVbari
+p76
+I1
+sVill
+p77
+I1
+sVhappen
+p78
+I1
+sVinsurance
+p79
+I1
+sVgon
+p80
+I1
+sVritz
+p81
+I1
+sVeverything
+p82
+I1
+sVplaya
+p83
+I1
+sVgot
+p84
+I11
+sVdoin
+p85
+I1
+sVbody
+p86
+I1
+sVmethamphetamine
+p87
+I1
+sVnever
+p88
+I3
+sVtrynna
+p89
+I17
+sVmillion
+p90
+I1
+sVbi
+p91
+I1
+sVridin
+p92
+I1
+sVg
+I1
+sVspray
+p93
+I1
+sVput
+p94
+I1
+sVcome
+p95
+I1
+sVtabasco
+p96
+I1
+sVtemple
+p97
+I1
+sVok
+p98
+I1
+sVanything
+p99
+I1
+sVgetting
+p100
+I3
+sVtaking
+p101
+I1
+sVdays
+p102
+I3
+sVkeep
+p103
+I1
+sVturn
+p104
+I1
+sVrepellent
+p105
+I1
+sVpockets
+p106
+I1
+sVwhole
+p107
+I1
+sVthink
+p108
+I2
+sVfuckin
+p109
+I2
+sVuno
+p110
+I1
+sVhustlas
+p111
+I1
+sVtough
+p112
+I1
+sVdont
+p113
+I4
+sVfamily
+p114
+I1
+sVrevenue
+p115
+I1
+sVnumber
+p116
+I1
+sVmessin
+p117
+I1
+sVwhoop
+p118
+I1
+sVnigga
+p119
+I4
+sVbitch
+p120
+I12
+sVmisson
+p121
+I1
+sVguap
+p122
+I1
+sVrespect
+p123
+I1
+sVfight
+p124
+I1
+sVballin
+p125
+I1
+sVwould
+p126
+I1
+sVwussup
+p127
+I1
+sVmouthpiece
+p128
+I1
+sVvallejo
+p129
+I1
+sVgroomed
+p130
+I1
+sVmobbin
+p131
+I1
+sVpaint
+p132
+I1
+sVmuch
+p133
+I2
+sVshits
+p134
+I1
+sVwhite
+p135
+I1
+sVlisten
+p136
+I1
+sVfunction
+p137
+I18
+sVjawsin
+p138
+I1
+sVrav4
+p139
+I1
+sVgas
+p140
+I1
+sVphony
+p141
+I1
+sVcrevice
+p142
+I1
+sVphone
+p143
+I1
+sVuncle
+p144
+I1
+sVho
+p145
+I2
+sVbiatch
+p146
+I1
+sVbaby
+p147
+I1
+sVprobably
+p148
+I1
+sVhaters
+p149
+I1
+sVgab
+p150
+I1
+sVme
+p151
+I1
+sVe40
+p152
+I2
+sVlamborghini
+p153
+I1
+sVword
+p154
+I1
+sVhbk
+p155
+I1
+sVniggas
+p156
+I2
+sVthis
+p157
+I1
+sVcar
+p158
+I1
+sVride
+p159
+I1
+sVoh
+p160
+I1
+sVsay
+p161
+I2
+sVdick
+p162
+I4
+sVdem
+p163
+I1
+sVbbbye
+p164
+I1
+sVproblem
+p165
+I1
+sVgave
+p166
+I1
+sVcalled
+p167
+I1
+sVsucka
+p168
+I1
+sVpack
+p169
+I1
+sV151
+p170
+I1
+sVhotter
+p171
+I1
+sValcoholic
+p172
+I1
+sVpass
+p173
+I1
+sVfuck
+p174
+I3
+sVhigh
+p175
+I1
+sVcant
+p176
+I1
+sVhomie
+p177
+I1
+sVim
+p178
+I12
+sVay
+p179
+I3
+sVwork
+p180
+I1
+sVshit
+p181
+I1
+sVsell
+p182
+I2
+sVsippin
+p183
+I1
+sVtucked
+p184
+I1
+sVvibe
+p185
+I1
+sVthinkin
+p186
+I1
+sVmeans
+p187
+I1
+sVmix
+p188
+I1
+sVpac
+p189
+I1
+sVtake
+p190
+I2
+sVtits
+p191
+I1
+sVasshole
+p192
+I1
+sVtext
+p193
+I1
+sVtoasted
+p194
+I1
+sV200
+p195
+I1
+sVlookin
+p196
+I1
+sVthough
+p197
+I2
+sVrappers
+p198
+I1
+sVstay
+p199
+I1
+sVmad
+p200
+I1
+sVskip
+p201
+I1
+sVnothing
+p202
+I1
+sVsuck
+p203
+I1
+sVbroccoli
+p204
+I1
+sVslang
+p205
+I1
+sVman
+p206
+I5
+sVgive
+p207
+I2
+sVflow
+p208
+I1
+sVthought
+p209
+I1
+sVlil
+p210
+I1
+sVgreen
+p211
+I1
+sVtalk
+p212
+I1
+sVtime
+p213
+I3
+sVpush
+p214
+I1
+sVunderstand
+p215
+I1
+sVplaying
+p216
+I3
+sViamsu
+p217
+I1
+s.

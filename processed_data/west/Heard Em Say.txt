@@ -1,48 +1,420 @@
-heard em say lyrics
-kanye west lyrics
-heard em say
-feat adam levine maroon 5
-wake mr west
-uh yeah uh yeah uh yeah uh yeah
-heard em say nothin ever promised tomorrow today
-chi like tim hardaway
-name love like robert says
-ask get job today least get raise minimum wage
-know government administered aids
-guess pray like minister say
-allah o akbar throw em hot cars
-things see screen ours
-niggas hood dreams far
-im dope boys rock stars
-cant cop cars without seein cop cars
-guess want us behind bars
-know it
-uh heard em say nothin ever promised tomorrow today
-ooooooooo
-heard em say nothin ever promised tomorrow today
-nothings ever promised tomorrow today
-well find way
-nothing lasts forever honest babe hurts may way
-say people life seasons
-anything happen reason
-niggas guns clappin keep squeezin
-gran grandma keep prayin keep believin
-jesus one day ya see him
-till walk footsteps try him
-devil alive feel breathin
-claimin money key keep dreamin
-put lottery tickets tease us
-aunt pam cant put cigarettes down
-lil cousin smokin cigarettes now
-job trying claim niggerish now
-cuz skin blacker licorice now
-cant figure out
-im stickin around
-uh heard em say nothin ever promised tomorrow today
-ooooooooo
-heard em say nothin ever promised tomorrow today
-nothings ever promised tomorrow today
-well find way
-nothing lasts forever honest babe hurts may way
-cuz every worthless word get far away nothings ever promised tomorrow today
-nothing lasts forever honest babe hurts may way
+(dp1
+Vlyrics
+p2
+I2
+sVya
+p3
+I1
+sVmoney
+p4
+I1
+sVskin
+p5
+I1
+sVkanye
+p6
+I1
+sVfeat
+p7
+I1
+sVfind
+p8
+I2
+sVwage
+p9
+I1
+sVnow
+p10
+I3
+sVtill
+p11
+I1
+sVpray
+p12
+I1
+sVcuz
+p13
+I2
+sVhim
+p14
+I2
+sVours
+p15
+I1
+sVaround
+p16
+I1
+sVgovernment
+p17
+I1
+sVfar
+p18
+I2
+sVdope
+p19
+I1
+sVevery
+p20
+I1
+sVknow
+p21
+I2
+sVone
+p22
+I1
+sVday
+p23
+I1
+sVdreams
+p24
+I1
+sVlike
+p25
+I3
+sVtickets
+p26
+I1
+sVname
+p27
+I1
+sVtry
+p28
+I1
+sVgran
+p29
+I1
+sVrock
+p30
+I1
+sVem
+p31
+I8
+sVbars
+p32
+I1
+sVsays
+p33
+I1
+sVclaimin
+p34
+I1
+sVpeople
+p35
+I1
+sVallah
+p36
+I1
+sVyeah
+p37
+I4
+sValive
+p38
+I1
+sVsee
+p39
+I2
+sVaids
+p40
+I1
+sVakbar
+p41
+I1
+sVout
+p42
+I1
+sVrobert
+p43
+I1
+sVbehind
+p44
+I1
+sVever
+p45
+I8
+sVguns
+p46
+I1
+sVbreathin
+p47
+I1
+sVcars
+p48
+I3
+sVscreen
+p49
+I1
+sVworthless
+p50
+I1
+sVjob
+p51
+I2
+sVsmokin
+p52
+I1
+sVlasts
+p53
+I3
+sVhurts
+p54
+I3
+sVask
+p55
+I1
+sVcousin
+p56
+I1
+sVthrow
+p57
+I1
+sVraise
+p58
+I1
+sVcop
+p59
+I2
+sVanything
+p60
+I1
+sVtease
+p61
+I1
+sVreason
+p62
+I1
+sVo
+I1
+sVhonest
+p63
+I3
+sVchi
+p64
+I1
+sVfootsteps
+p65
+I1
+sVlove
+p66
+I1
+sVkey
+p67
+I1
+sVbelievin
+p68
+I1
+sVfeel
+p69
+I1
+sVgrandma
+p70
+I1
+sVjesus
+p71
+I1
+sVdown
+p72
+I1
+sVput
+p73
+I2
+sVtomorrow
+p74
+I8
+sVhood
+p75
+I1
+sVguess
+p76
+I2
+sVdevil
+p77
+I1
+sVlottery
+p78
+I1
+sVseein
+p79
+I1
+sVnothings
+p80
+I3
+sVlevine
+p81
+I1
+sVwest
+p82
+I2
+sVlicorice
+p83
+I1
+sVleast
+p84
+I1
+sVdreamin
+p85
+I1
+sVclappin
+p86
+I1
+sVstars
+p87
+I1
+sVtoday
+p88
+I9
+sVlife
+p89
+I1
+sVbabe
+p90
+I3
+sVway
+p91
+I5
+sVboys
+p92
+I1
+sVwake
+p93
+I1
+sVminister
+p94
+I1
+sVtrying
+p95
+I1
+sVstickin
+p96
+I1
+sVword
+p97
+I1
+sVniggas
+p98
+I2
+sVcant
+p99
+I3
+sVus
+p100
+I2
+sVprayin
+p101
+I1
+sVuh
+p102
+I6
+sVmr
+p103
+I1
+sVclaim
+p104
+I1
+sVsqueezin
+p105
+I1
+sVfigure
+p106
+I1
+sVit
+p107
+I1
+sVmaroon
+p108
+I1
+sVheard
+p109
+I7
+sVsay
+p110
+I9
+sVminimum
+p111
+I1
+sVim
+p112
+I2
+sVpromised
+p113
+I8
+sVwant
+p114
+I1
+sVkeep
+p115
+I4
+sVhappen
+p116
+I1
+sVlil
+p117
+I1
+sVthings
+p118
+I1
+sVget
+p119
+I3
+sVwalk
+p120
+I1
+sVtim
+p121
+I1
+sVhot
+p122
+I1
+sV5
+I1
+sVpam
+p123
+I1
+sVooooooooo
+p124
+I2
+sVmay
+p125
+I3
+sVblacker
+p126
+I1
+sVnothing
+p127
+I3
+sVseasons
+p128
+I1
+sVniggerish
+p129
+I1
+sVforever
+p130
+I3
+sVwell
+p131
+I2
+sVnothin
+p132
+I5
+sVcigarettes
+p133
+I2
+sVwithout
+p134
+I1
+sVaunt
+p135
+I1
+sVadam
+p136
+I1
+sVadministered
+p137
+I1
+sVhardaway
+p138
+I1
+sVaway
+p139
+I1
+s.

@@ -1,143 +1,562 @@
-"hood now (outro)" lyrics
-lupe fiasco lyrics
-"hood now (outro)"
-this one for the hood!
-what do you do when it's so unequal?
-wear michael jordan's with your tuxedos
-it's hood now
-it's hood now
-yea, yea
-it's "hood" now
-public school system only teaching parts
-so the school of hard knocks is what make you street smart
-you're hood now
-hood now
-yea, yea
-hood now
-open fire hydrant 'front the liquor store
-kool and perm ads all on the billboards
-you in the hood now
-you in the hood now
-that's right
-you in the hood now
-ramen noodle soups, you make the best
-water in the milk to make it stretch
-that's the hood now
-that's the hood now
-that's the hood now
-that's the hood now
-ivy league was running really well then
-they slipped up and let cornel in
-it's hood now
-it's hood now
-yes it is
-it's hood now
-in miami beach, it's rich white folks
-but memorial day, "you know who" do the most
-it's hood now
-it's hood now
-it's hood now
-yea, it's hood now
-and house shoes is for the house fool
-the homies wear 'em out, how cool
-it's hood now
-it's hood now
-that's hood now
-oh yea, that's hood now
-and that mercedes benz, on them giant rims
-open up the trunk and see 'bout twenty ten's
-that's hood now
-it's hood now
-that's hood now
-oh yea, that's hood now
-and diamond chains was for kings and queens
-but since we got to 'em they'll never be the same
-they hood now
-they hood now
-bling, bling
-it's hood now
-you pissed her off, you broke the rules
-her earrings out, she taking off her shoes
-it's hood now
-it's hood now
-it's about to be...
-really hood now
-chop up jazz, loop up the rock
-sample the blues, call it hip-hop
-it's hood now
-it's hood now
-yea mayne
-it's hood now
-we took that hurt, made it into songs
-god bless the child that's got his own
-sayin' it's hood now
-sayin' it's hood now
-pants saggin' right off my ass
-i sit it down, right in first class
-it's hood now
-it's hood now
-yes sir
-it's hood now
-fancy restaurant, dress code
-t-shirt, gym shorts
-it's hood now
-it's hood now
-hallelujah
-it's hood now
-fashion shows, with fancy clothes
-you see mr. west right in the front row
-it's hood now
-it's hood now
-that's what it means
-it's hood now
-at the oscar's, p on the sticks
-and the winner is… three-6
-it's hood now
-it's hood now
-uh oh…
-it's hood now
-we took that hurt, made it into songs
-god bless the child that's got his own
-sayin' it's hood now
-sayin' it's hood now
-you had elvis presley and he was crackin'
-but guess what? here comes michael jackson
-it's hood now
-it's hood now
-that's right
-it's hood now
-pro sports, them was yo' courts
-but you let us in, so on and so forth
-it's hood now
-it's hood now
-uh huh
-it's hood now
-they gave us scraps, some of it old
-we cooked it up and called it "soul"
-it's good now
-it's good now
-you like that?
-it's hood now
-and you know me, i don't vote
-but the white house, you already know
-it's hood now
-it's hood now
-yes sir
-it's hood now
-we took that hurt, made it into songs
-god bless the child that's got his own
-sayin' it's hood now
-sayin' it's hood now
-yea
-you know i had to do it
-can't forget where you came from
-one for the ghetto
-two for the hood
-three for the all
-four for the good
-yea
-and we out
-this the great
-i mean, god is great
-american rap
-food and liquor 2… through
+(dp1
+Vjordans
+p2
+I1
+sVsince
+p3
+I1
+sVshoes
+p4
+I2
+sVlyrics
+p5
+I2
+sVcornel
+p6
+I1
+sVyea
+p7
+I10
+sVpresley
+p8
+I1
+sVall
+p9
+I1
+sVfour
+p10
+I1
+sVown
+p11
+I3
+sVcourts
+p12
+I1
+sVyes
+p13
+I3
+sVmilk
+p14
+I1
+sVrow
+p15
+I1
+sVgiant
+p16
+I1
+sVads
+p17
+I1
+sVwinner
+p18
+I1
+sV2\u2026
+p19
+I1
+sVrich
+p20
+I1
+sVhomies
+p21
+I1
+sVfolks
+p22
+I1
+sVteaching
+p23
+I1
+sVbout
+p24
+I1
+sVghetto
+p25
+I1
+sVsmart
+p26
+I1
+sVgave
+p27
+I1
+sVfool
+p28
+I1
+sVthen
+p29
+I1
+sVgood
+p30
+I3
+sVyo
+p31
+I1
+sVmeans
+p32
+I1
+sVrules
+p33
+I1
+sVjazz
+p34
+I1
+sVcrackin
+p35
+I1
+sVknow
+p36
+I4
+sVearrings
+p37
+I1
+sVfront
+p38
+I2
+sVknocks
+p39
+I1
+sVnow
+p40
+I67
+sVramen
+p41
+I1
+sVday
+p42
+I1
+sVcool
+p43
+I1
+sVschool
+p44
+I2
+sVlike
+p45
+I1
+sVmiami
+p46
+I1
+sVforth
+p47
+I1
+sVmichael
+p48
+I2
+sVis\u2026
+p49
+I1
+sVbless
+p50
+I3
+sVp
+I1
+sVhallelujah
+p51
+I1
+sVrock
+p52
+I1
+sVmercedes
+p53
+I1
+sVthrough
+p54
+I1
+sVshows
+p55
+I1
+sVclothes
+p56
+I1
+sVem
+p57
+I2
+sVforget
+p58
+I1
+sVright
+p59
+I5
+sVold
+p60
+I1
+sVhouse
+p61
+I3
+sVliquor
+p62
+I2
+sVhard
+p63
+I1
+sVoscars
+p64
+I1
+sVsee
+p65
+I2
+sVstreet
+p66
+I1
+sVtuxedos
+p67
+I1
+sVblues
+p68
+I1
+sVbest
+p69
+I1
+sVreally
+p70
+I2
+sVjackson
+p71
+I1
+sVgod
+p72
+I4
+sVkool
+p73
+I1
+sVtens
+p74
+I1
+sVgot
+p75
+I4
+sVthree
+p76
+I1
+sVchains
+p77
+I1
+sVpublic
+p78
+I1
+sVpants
+p79
+I1
+sVass
+p80
+I1
+sVbe
+p81
+I1
+sVrims
+p82
+I1
+sVlupe
+p83
+I1
+sVnever
+p84
+I1
+sVmayne
+p85
+I1
+sVsaggin
+p86
+I1
+sVwater
+p87
+I1
+sVlet
+p88
+I2
+sVwear
+p89
+I2
+sVtrunk
+p90
+I1
+sVpissed
+p91
+I1
+sVsayin
+p92
+I6
+sVleague
+p93
+I1
+sVgreat
+p94
+I2
+sVoh
+p95
+I2
+sVtaking
+p96
+I1
+sVhiphop
+p97
+I1
+sVchop
+p98
+I1
+sVamerican
+p99
+I1
+sVwest
+p100
+I1
+sVmean
+p101
+I1
+sVcomes
+p102
+I1
+sVthats
+p103
+I15
+sVbling
+p104
+I2
+sVdont
+p105
+I1
+sVslipped
+p106
+I1
+sVvote
+p107
+I1
+sVfancy
+p108
+I2
+sVone
+p109
+I2
+sVoutro
+p110
+I2
+sVkings
+p111
+I1
+sVopen
+p112
+I2
+sVhood
+p113
+I69
+sVcode
+p114
+I1
+sVguess
+p115
+I1
+sVfrom
+p116
+I1
+sVhydrant
+p117
+I1
+sVstretch
+p118
+I1
+sVtwenty
+p119
+I1
+sVfood
+p120
+I1
+sVsystem
+p121
+I1
+sVperm
+p122
+I1
+sVsports
+p123
+I1
+sVcall
+p124
+I1
+sVwhite
+p125
+I2
+sVbillboards
+p126
+I1
+sVstore
+p127
+I1
+sVdiamond
+p128
+I1
+sVshorts
+p129
+I1
+sVfire
+p130
+I1
+sVgym
+p131
+I1
+sVhuh
+p132
+I1
+sVtook
+p133
+I3
+sVcant
+p134
+I1
+sVhurt
+p135
+I3
+sVbroke
+p136
+I1
+sVchild
+p137
+I3
+sVmade
+p138
+I3
+sVrestaurant
+p139
+I1
+sVsoul
+p140
+I1
+sVus
+p141
+I2
+sVuh
+p142
+I2
+sVmr
+p143
+I1
+sValready
+p144
+I1
+sVcalled
+p145
+I1
+sVloop
+p146
+I1
+sVfashion
+p147
+I1
+sVsticks
+p148
+I1
+sVis
+p149
+I1
+sVbenz
+p150
+I1
+sVit
+p151
+I1
+sVpro
+p152
+I1
+sVsample
+p153
+I1
+sVtshirt
+p154
+I1
+sVrap
+p155
+I1
+sVin
+p156
+I1
+sVdress
+p157
+I1
+sVivy
+p158
+I1
+sVsir
+p159
+I2
+sVmemorial
+p160
+I1
+sVtheyll
+p161
+I1
+sVsit
+p162
+I1
+sVmake
+p163
+I3
+sVthat
+p164
+I1
+sVsame
+p165
+I1
+sVthree6
+p166
+I1
+sVparts
+p167
+I1
+sVscraps
+p168
+I1
+sVout
+p169
+I1
+sVbeach
+p170
+I1
+sVelvis
+p171
+I1
+sVoh\u2026
+p172
+I1
+sVmost
+p173
+I1
+sVrunning
+p174
+I1
+sVtwo
+p175
+I1
+sVclass
+p176
+I1
+sVqueens
+p177
+I1
+sVnoodle
+p178
+I1
+sVunequal
+p179
+I1
+sVsoups
+p180
+I1
+sVyoure
+p181
+I1
+sVwell
+p182
+I1
+sVcooked
+p183
+I1
+sVfiasco
+p184
+I1
+sVfirst
+p185
+I1
+sVcame
+p186
+I1
+sVsongs
+p187
+I3
+s.

@@ -1,149 +1,631 @@
-"hey papi" lyrics
-jay-z lyrics
-"hey papi"
-(feat. amil, memphis bleek, timbaland)
-all my mamis bounce, uh
-(yeah, yeah, yeah, yeah, yeah, yeah)
-(come on)
-i said all my mamis bounce
-(yeah, yeah, yeah, yeah, yeah, yeah)
-(bounce with me)
-i said all my mamis bounce
-(yeah, yeah, uh, uh, uh yeah-yea-yeah, yeah-yea-yeah)
-(come on)
-i said all my mamis bounce
-(yeah, yeah, yeah, yeah, yeah, yeah, yeah-yeah)
-freaky-freaky...
-ay yo i got a resolution
-this year i'm playing right
-no six fifteen this year
-you can stay the night
-we can go bowling it ain't like before
-can't y'all see that i'm growing?
-i was so immature
-i was young and having money
-having honeys come to the crib
-thinkin' they shit and they couldn't get cab money from me
-some bad chicks didn't get pass the bridge
-i went to one trump plaza on their asses'
-no room service just snacks and shit
-work with those lil' debbies and when your done get ready
-the chicks i was fiendin' to smash
-let 'em lean on the cash
-will take 'em on long trips
-break 'em with long dick
-there was no such thing as strong relationships
-but i'm off that playa shit
-i need a chick that practice tai chi
-that still can buy weed
-and can give me some good head
-and i'll make her remind me, uh-huh
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-my ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they going
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-the ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-yo, yo, yo, yo the only thing bleek spinning is
-them chrome wheels spinning on them new rims
-home suspended from school again
-i'm grown, still ill ladies love to be a deal, like bleek
-can i feel up on your wood and grill?
-it's a hood thing, wood grain, off the chain
-she give me good brain
-love the way i push my slang
-callin' my jack soon as the hop in my v
-they catching contact, weed smoke all up in the weave
-bet'cha man can't do it like this, like this
-i bet his wrists ain't bluish like this, like this
-and i'm from marcy you catch me on anybody's block
-rappin' thug, the roc
-hoes they all clock like
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-my ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-the ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-i was the worse
-i used to switch chicks every day
-had niggas mad for real like "i wish he was gay"
-cause they knew sooner or later hun was gettin' with jay
-just a matter of time she was gettin' with jay
-i'll have your chick in the summer tropics sippin' on 'zae
-spittin' up in the pacifics smoking spliffs in the shade
-she used to love ya, but she feeling different today
-you used to smother her, look at your honey slippin' away
-consorting with hustlers, niggas that be giving her space
-she said she feel free when she's around me
-i'm letting her do her and in turn she's doing me
-she on the phone with her friends like how cool is she
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-my ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they going
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-the ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-my ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they going
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-the ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-my ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they going
-(hey papi)
-even if they don't understand the flow
-they understand the dough
-the ladies going
-(hey papi)
-promise you'll never let me go
-promise you'll never leave me
-promise we'll grow, they saying
-(hey papi!)
+(dp1
+Vchicks
+p2
+I3
+sVlyrics
+p3
+I2
+sVsaying
+p4
+I6
+sVmoney
+p5
+I2
+sVroc
+p6
+I1
+sVsoon
+p7
+I1
+sVbrain
+p8
+I1
+sVdough
+p9
+I10
+sVgo
+p10
+I11
+sVstill
+p11
+I2
+sVfeat
+p12
+I1
+sVbefore
+p13
+I1
+sVaint
+p14
+I2
+sVchain
+p15
+I1
+sVjay
+p16
+I2
+sVdick
+p17
+I1
+sVyoung
+p18
+I1
+sVgoing
+p19
+I14
+sVtropics
+p20
+I1
+sVimmature
+p21
+I1
+sVcool
+p22
+I1
+sVreal
+p23
+I1
+sVgood
+p24
+I2
+sVhop
+p25
+I1
+sVyo
+p26
+I5
+sVget
+p27
+I3
+sVya
+p28
+I1
+sVpractice
+p29
+I1
+sVsooner
+p30
+I1
+sVbreak
+p31
+I1
+sVfiendin
+p32
+I1
+sVjack
+p33
+I1
+sVpromise
+p34
+I30
+sVnew
+p35
+I1
+sVone
+p36
+I1
+sVday
+p37
+I1
+sVlook
+p38
+I1
+sVsmash
+p39
+I1
+sVschool
+p40
+I1
+sVlike
+p41
+I9
+sVcause
+p42
+I1
+sVgettin
+p43
+I2
+sVmake
+p44
+I1
+sVleave
+p45
+I10
+sVremind
+p46
+I1
+sVbad
+p47
+I1
+sVshe
+p48
+I1
+sVbowling
+p49
+I1
+sVchick
+p50
+I2
+sVwent
+p51
+I1
+sVyall
+p52
+I1
+sVem
+p53
+I3
+sVright
+p54
+I1
+sVfreakyfreaky
+p55
+I1
+sVdeal
+p56
+I1
+sVyeah
+p57
+I20
+sVbounce
+p58
+I5
+sVslippin
+p59
+I1
+sVsee
+p60
+I1
+sVcatching
+p61
+I1
+sVsummer
+p62
+I1
+sVshes
+p63
+I2
+sVpass
+p64
+I1
+sVyeahyeah
+p65
+I1
+sVill
+p66
+I3
+sVyeahyeayeah
+p67
+I2
+sVletting
+p68
+I1
+sVeven
+p69
+I10
+sVsaid
+p70
+I4
+sVclock
+p71
+I1
+sVgiving
+p72
+I1
+sVaway
+p73
+I1
+sVlean
+p74
+I1
+sVplaya
+p75
+I1
+sVgot
+p76
+I1
+sVyoull
+p77
+I20
+sVrelationships
+p78
+I1
+sVnever
+p79
+I20
+sVrims
+p80
+I1
+sVnight
+p81
+I1
+sVfree
+p82
+I1
+sVbleek
+p83
+I3
+sVworse
+p84
+I1
+sVlet
+p85
+I11
+sVstrong
+p86
+I1
+sVcome
+p87
+I3
+sVon
+p88
+I2
+sVmamis
+p89
+I4
+sVplaza
+p90
+I1
+sVspace
+p91
+I1
+sVhustlers
+p92
+I1
+sVthing
+p93
+I3
+sVhoney
+p94
+I1
+sVgrain
+p95
+I1
+sVsmoke
+p96
+I1
+sVchi
+p97
+I1
+sVwheels
+p98
+I1
+sVblock
+p99
+I1
+sVladies
+p100
+I11
+sVbluish
+p101
+I1
+sVlove
+p102
+I3
+sVdont
+p103
+I10
+sVfeel
+p104
+I2
+sVaround
+p105
+I1
+sVzae
+p106
+I1
+sVsmother
+p107
+I1
+sVcrib
+p108
+I1
+sVdebbies
+p109
+I1
+sVjayz
+p110
+I1
+sVdone
+p111
+I1
+sVsuspended
+p112
+I1
+sVcouldnt
+p113
+I1
+sVuhhuh
+p114
+I1
+sVhoes
+p115
+I1
+sVhood
+p116
+I1
+sVservice
+p117
+I1
+sVchrome
+p118
+I1
+sVfifteen
+p119
+I1
+sVgive
+p120
+I2
+sVhey
+p121
+I23
+sVlong
+p122
+I2
+sVasses
+p123
+I1
+sVwood
+p124
+I2
+sVway
+p125
+I1
+sVman
+p126
+I1
+sVis
+p127
+I1
+sVtoday
+p128
+I1
+sVhead
+p129
+I1
+sVbuy
+p130
+I1
+sVgay
+p131
+I1
+sVhun
+p132
+I1
+sVphone
+p133
+I1
+sVunderstand
+p134
+I20
+sVtimbaland
+p135
+I1
+sVcatch
+p136
+I1
+sVsmoking
+p137
+I1
+sVbetcha
+p138
+I1
+sVmemphis
+p139
+I1
+sVme
+p140
+I14
+sVgrill
+p141
+I1
+sVrappin
+p142
+I1
+sVroom
+p143
+I1
+sVniggas
+p144
+I2
+sVthis
+p145
+I2
+sVwish
+p146
+I1
+sVwork
+p147
+I1
+sVcash
+p148
+I1
+sVmatter
+p149
+I1
+sVspliffs
+p150
+I1
+sVuh
+p151
+I4
+sVv
+I1
+sVgrowing
+p152
+I1
+sVcab
+p153
+I1
+sVfeeling
+p154
+I1
+sVdidnt
+p155
+I1
+sVtrips
+p156
+I1
+sVbet
+p157
+I1
+sVbridge
+p158
+I1
+sVspinning
+p159
+I2
+sVtrump
+p160
+I1
+sVsnacks
+p161
+I1
+sVwell
+p162
+I10
+sVhoneys
+p163
+I1
+sVyear
+p164
+I2
+sVspittin
+p165
+I1
+sVay
+p166
+I1
+sVcant
+p167
+I2
+sVcallin
+p168
+I1
+sVim
+p169
+I6
+sVhome
+p170
+I1
+sVready
+p171
+I1
+sVtai
+p172
+I1
+sVshit
+p173
+I3
+sVanybodys
+p174
+I1
+sVgrown
+p175
+I1
+sVagain
+p176
+I1
+sVdifferent
+p177
+I1
+sVsippin
+p178
+I1
+sVturn
+p179
+I1
+sVlil
+p180
+I1
+sVthinkin
+p181
+I1
+sVsix
+p182
+I1
+sVconsorting
+p183
+I1
+sVneed
+p184
+I1
+sVtake
+p185
+I1
+sVweed
+p186
+I2
+sVpacifics
+p187
+I1
+sVthug
+p188
+I1
+sVused
+p189
+I3
+sVpapi
+p190
+I23
+sVwrists
+p191
+I1
+sVknew
+p192
+I1
+sVstay
+p193
+I1
+sVmad
+p194
+I1
+sVfriends
+p195
+I1
+sVgrow
+p196
+I10
+sVslang
+p197
+I1
+sVweave
+p198
+I1
+sVamil
+p199
+I1
+sVlater
+p200
+I1
+sVflow
+p201
+I10
+sVswitch
+p202
+I1
+sVcontact
+p203
+I1
+sVshade
+p204
+I1
+sVtime
+p205
+I1
+sVpush
+p206
+I1
+sVevery
+p207
+I1
+sVresolution
+p208
+I1
+sVplaying
+p209
+I1
+sVmarcy
+p210
+I1
+s.

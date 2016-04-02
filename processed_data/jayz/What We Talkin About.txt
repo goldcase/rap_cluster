@@ -1,65 +1,574 @@
-"what we talkin' about" lyrics
-jay-z lyrics
-"what we talkin' about"
-blueprint trios
-yeah yeah what we talkin' bout real shit?
-or we talkin' bout ryhmes
-you talkin' bout millions or you talking' bout mine
-what we talkin' bout cuz i ain't got time
-for what people be talkin' bout all the time
-what we talkin' bout fiction or we talkin bout fact
-you talkin' bout fiction? hold up pardon my back
-i'm talkin' bout life and all i hear is
-oh yeah he keeps talkin' bout crack
-i ain't talkin' bout profit i'm talkin' bout pain
-i'm talkin' bout despair i'm talkin' bout shame
-i ain't talkin' bout gossip i ain't talkin' bout game
-i ain't talkin bout jimmy i ain't talkin' bout dame
-i'm talkin' bout real shit dem people playin'
-what is you talkin' bout i don't know what y'all sayin'
-people keep talkin' bout hov take it back
-i'm doin' better than before why would i do that?
-ain't nothing cool bout carryin' a strap
-bout worryin' your moms and buryin' your best cat
-talkin' bout revenge while carryin' his casket
-all teary-eyed bout to take it to a matress
-i'm talkin' bout music i ain't talkin' bout rap
-you talkin' bout who's hot i ain't talkin' bout that
-the conversation is changed lets yap about that
-i don't run rap no more i run the map
-they talk, we live, we see what they say, they say, they say
-they talk, we did, who cares what they say, they say, they say
-still they can't' focus on them they be talkin' bout me
-talkin' bout what i wear talkin' bout where i be
-check out my hair these ain't curls these is peas
-peasey head still get paid i'm combin' through g's
-please, we ain't focused on naps
-cuz i don't run rap no more i run the map
-a small part of the reason the president is black
-i told him i got him when he hit me on the jack
-talkin' bout progress i ain't lookin back
-you know i run track try not to get lapped
-people keep talkin' bout hov left em flat
-try to re-write history lets talk about facts
-dame made millions even jaz made some scraps
-he could've made more but he didn't sign his contract
-as far as street guys we was dealin' crack
-that's just how the game goes i don't owe nobody jack
-grown men want me to sit em on my lap
-but i don't have a beard and santa claus ain't black
-i repeat, you can't sit on my lap
-i don't have a beard now get off my sack
-scream at me
-blueprint 3
-and now that that's that lets talk about the future
-we have just seen the dream as predicted by martin luther
-now you could choose ta sit in front of your computa
-posin' with guns shootin youtube up
-or you could come with me to the white house get your suit up
-you stuck on being hardcore i chuck the duece up
-peace out medusa
-welcome to the blue-ah-print-ah tre piece jay-z your tutor
-toota of my own horn beep beep move-ya
-ras clot when rude boy come through with the roof up
-so i could see the sky
-cause everybody talkin' hov i think we know why
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVfocus
+p4
+I1
+sVclot
+p5
+I1
+sVcarryin
+p6
+I2
+sVfacts
+p7
+I1
+sVgossip
+p8
+I1
+sVstill
+p9
+I2
+sVpeasey
+p10
+I1
+sVaint
+p11
+I13
+sVjaz
+p12
+I1
+sVpardon
+p13
+I1
+sVcurls
+p14
+I1
+sVcuz
+p15
+I2
+sVbetter
+p16
+I1
+sVlets
+p17
+I3
+sVblack
+p18
+I2
+sVchoose
+p19
+I1
+sVcrack
+p20
+I2
+sVbout
+p21
+I35
+sVta
+p22
+I1
+sVreal
+p23
+I2
+sVcomputa
+p24
+I1
+sVhit
+p25
+I1
+sVget
+p26
+I4
+sVmoms
+p27
+I1
+sVgame
+p28
+I2
+sVknow
+p29
+I3
+sVprogress
+p30
+I1
+sVfront
+p31
+I1
+sVryhmes
+p32
+I1
+sVcool
+p33
+I1
+sVtrios
+p34
+I1
+sVmatress
+p35
+I1
+sVtre
+p36
+I1
+sVchuck
+p37
+I1
+sVtry
+p38
+I2
+sVpredicted
+p39
+I1
+sVmartin
+p40
+I1
+sVsmall
+p41
+I1
+sVyall
+p42
+I1
+sVem
+p43
+I2
+sVpeople
+p44
+I4
+sVhouse
+p45
+I1
+sVburyin
+p46
+I1
+sVyeah
+p47
+I3
+sVsign
+p48
+I1
+sVhair
+p49
+I1
+sVsee
+p50
+I2
+sVstreet
+p51
+I1
+sVmedusa
+p52
+I1
+sVplayin
+p53
+I1
+sVbest
+p54
+I1
+sVeven
+p55
+I1
+sVduece
+p56
+I1
+sVprofit
+p57
+I1
+sVplease
+p58
+I1
+sV3
+I1
+sVgoes
+p59
+I1
+sVgot
+p60
+I2
+sVcause
+p61
+I1
+sVguns
+p62
+I1
+sVtold
+p63
+I1
+sVbe
+p64
+I1
+sVwelcome
+p65
+I1
+sVrun
+p66
+I5
+sVmen
+p67
+I1
+sVrevenge
+p68
+I1
+sVreason
+p69
+I1
+sVfocused
+p70
+I1
+sVwear
+p71
+I1
+sVsanta
+p72
+I1
+sVcome
+p73
+I2
+sVsayin
+p74
+I1
+sVboy
+p75
+I1
+sVabout
+p76
+I1
+sVpiece
+p77
+I1
+sVoh
+p78
+I1
+sVcould
+p79
+I3
+sVchanged
+p80
+I1
+sVcontract
+p81
+I1
+sVkeep
+p82
+I2
+sVconversation
+p83
+I1
+sVdespair
+p84
+I1
+sVlookin
+p85
+I1
+sVshootin
+p86
+I1
+sVhead
+p87
+I1
+sVthink
+p88
+I1
+sVlapped
+p89
+I1
+sVthats
+p90
+I2
+sVjimmy
+p91
+I1
+sVdont
+p92
+I6
+sVblueahprintah
+p93
+I1
+sVowe
+p94
+I1
+sVsky
+p95
+I1
+sVsack
+p96
+I1
+sVstrap
+p97
+I1
+sVjayz
+p98
+I2
+sVwhos
+p99
+I1
+sVmillions
+p100
+I2
+sVeverybody
+p101
+I1
+sVcasket
+p102
+I1
+sVnaps
+p103
+I1
+sVwould
+p104
+I1
+sVcares
+p105
+I1
+sVlap
+p106
+I2
+sVyap
+p107
+I1
+sVfiction
+p108
+I2
+sVbeep
+p109
+I2
+sVstuck
+p110
+I1
+sVlive
+p111
+I1
+sVmusic
+p112
+I1
+sVtearyeyed
+p113
+I1
+sVsuit
+p114
+I1
+sVwhite
+p115
+I1
+sVdame
+p116
+I2
+sVblueprint
+p117
+I2
+sVflat
+p118
+I1
+sVlife
+p119
+I1
+sVthat
+p120
+I3
+sVnobody
+p121
+I1
+sVluther
+p122
+I1
+sVback
+p123
+I3
+sVpart
+p124
+I1
+sVhear
+p125
+I1
+sVhardcore
+p126
+I1
+sVhold
+p127
+I1
+sVme
+p128
+I2
+sVposin
+p129
+I1
+sVmade
+p130
+I3
+sVdealin
+p131
+I1
+sVshame
+p132
+I1
+sVsay
+p133
+I6
+sVroof
+p134
+I1
+sVcat
+p135
+I1
+sVfuture
+p136
+I1
+sVdem
+p137
+I1
+sVbeard
+p138
+I2
+sVdidnt
+p139
+I1
+sVhistory
+p140
+I1
+sVworryin
+p141
+I1
+sVwant
+p142
+I1
+sVrewrite
+p143
+I1
+sVis
+p144
+I1
+sVmine
+p145
+I1
+sVtalking
+p146
+I1
+sVcant
+p147
+I2
+sVim
+p148
+I8
+sVras
+p149
+I1
+sVrap
+p150
+I3
+sVseen
+p151
+I1
+sVcheck
+p152
+I1
+sVshit
+p153
+I2
+sVgrown
+p154
+I1
+sVsit
+p155
+I3
+sVpeace
+p156
+I1
+sVtutor
+p157
+I1
+sVhov
+p158
+I3
+sVfar
+p159
+I1
+sVhot
+p160
+I1
+sVtake
+p161
+I2
+sVscraps
+p162
+I1
+sVtalkin
+p163
+I34
+sVmap
+p164
+I2
+sVclaus
+p165
+I1
+sVpain
+p166
+I1
+sVrude
+p167
+I1
+sVtrack
+p168
+I1
+sVdoin
+p169
+I1
+sVtime
+p170
+I2
+sVhorn
+p171
+I1
+sVpeas
+p172
+I1
+sVpaid
+p173
+I1
+sVcouldve
+p174
+I1
+sVnothing
+p175
+I1
+sVpresident
+p176
+I1
+sVmoveya
+p177
+I1
+sVguys
+p178
+I1
+sVwhy
+p179
+I1
+sVrepeat
+p180
+I1
+sVtoota
+p181
+I1
+sVup
+p182
+I4
+sVyoutube
+p183
+I1
+sVcombin
+p184
+I1
+sVfact
+p185
+I1
+sVkeeps
+p186
+I1
+sVleft
+p187
+I1
+sVdream
+p188
+I1
+sVscream
+p189
+I1
+sVtalk
+p190
+I4
+sVjack
+p191
+I2
+s.

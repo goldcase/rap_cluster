@@ -1,55 +1,347 @@
-"i don't feel so good" lyrics
-lupe fiasco lyrics
-"i don't feel so good"
-picture i'm a dreamer
-i'll take you deeper
-down to the sleepy glow
-time is a low
-don't you know?
-what are we going to do?
-what are we going to do?
-is there something in the air? do you feel it?
-is it close? is it far? is it here? do you feel it?
-are you happy? you sad? you scared? do you feel it?
-is it right? is it wrong? is it fair? do you feel it?
-is it real? is it fake? do you care? do you feel it?
-when he stopped and he paid for head, did he feel it?
-with his wife when he laid in the bed, did she feel it?
-when the police kicked in the door, did he feel it?
-when he had to go to war, did he feel it?
-when they hung and they swung from a tree, did they feel it?
-well i know when they come for me, will i feel it
-when he blew all his money to ball, did he feel it?
-when that bullet came through a wall, did she feel it?
-when he stopped and he dropped when he died, did he feel it?
-when his momma closed his eyes, did he feel it?
-when she couldn't take the pain, did she feel it?
-when the dope flows through her veins, does she feel it?
-when she took off all her clothes, did she feel it?
-when she slid down that pole, did she feel it?
-will it all be clear to see, will i feel it?
-if god forgives me, will i feel it?
-i ask my baby if she love me, she said she don't know
-she said the game's got her heart, the streets have got her soul
-i ask my baby if she love me, she said she don't know
-she said the game's got her heart, the streets have got her soul
-i said, "wow"
-when his food come out the trash, does she feel it?
-when he sleeps under the underpass, does he feel it?
-when she's pregnant and smoking weed, does she feel it?
-when the jury just won't believe, do they feel it?
-when this song come on in the club, do you feel it?
-when a racist shows you love, do you feel it?
-when he know he won't win the game, do he feel it?
-when a preacher is driven insane, do he feel it?
-every time i write a rhyme, do i feel it?
-when i'm running out of time, will i feel it?
-when the liquor is poured on the ground, do they feel it?
-if my music didn't make a sound, would you feel it?
-i ask my baby if she love me, she said she don't know
-she said the game's got her heart, the streets have got her soul
-i ask my baby if she love me, she said she don't know
-she said the game's got her heart, the streets have got her soul
-i said, "wow"
-i ask my baby if she love me, she said she don't know
-she said the game's got her heart, the streets have got her soul
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVsleepy
+p4
+I1
+sVgo
+p5
+I1
+sVdreamer
+p6
+I1
+sVpolice
+p7
+I1
+sVsleeps
+p8
+I1
+sVwall
+p9
+I1
+sVgoing
+p10
+I2
+sVreal
+p11
+I1
+sVdo
+p12
+I2
+sVgood
+p13
+I2
+sVsong
+p14
+I1
+sVfood
+p15
+I1
+sVdope
+p16
+I1
+sVrhyme
+p17
+I1
+sVgame
+p18
+I1
+sVevery
+p19
+I1
+sVknow
+p20
+I8
+sVwont
+p21
+I2
+sVpregnant
+p22
+I1
+sVpole
+p23
+I1
+sVstopped
+p24
+I2
+sVveins
+p25
+I1
+sVclothes
+p26
+I1
+sVinsane
+p27
+I1
+sVblew
+p28
+I1
+sVright
+p29
+I1
+sVfair
+p30
+I1
+sVscared
+p31
+I1
+sVstreets
+p32
+I5
+sVpreacher
+p33
+I1
+sVsee
+p34
+I1
+sVshes
+p35
+I1
+sVclose
+p36
+I1
+sVsaid
+p37
+I12
+sVforgives
+p38
+I1
+sVgod
+p39
+I1
+sVwow
+p40
+I2
+sVlaid
+p41
+I1
+sVclosed
+p42
+I1
+sVgot
+p43
+I10
+sVground
+p44
+I1
+sVshows
+p45
+I1
+sVkicked
+p46
+I1
+sVjury
+p47
+I1
+sVlupe
+p48
+I1
+sVhung
+p49
+I1
+sVflows
+p50
+I1
+sVask
+p51
+I5
+sVcome
+p52
+I3
+sVcare
+p53
+I1
+sVill
+p54
+I1
+sVrunning
+p55
+I1
+sVgames
+p56
+I5
+sVhead
+p57
+I1
+sVlove
+p58
+I6
+sVdont
+p59
+I8
+sVfeel
+p60
+I35
+sVwin
+p61
+I1
+sVmomma
+p62
+I1
+sVfake
+p63
+I1
+sVcouldnt
+p64
+I1
+sVunderpass
+p65
+I1
+sVwould
+p66
+I1
+sVpoured
+p67
+I1
+sVracist
+p68
+I1
+sVlow
+p69
+I1
+sVmusic
+p70
+I1
+sVwar
+p71
+I1
+sVhappy
+p72
+I1
+sVeyes
+p73
+I1
+sVdoor
+p74
+I1
+sVdeeper
+p75
+I1
+sVclub
+p76
+I1
+sVtook
+p77
+I1
+sVliquor
+p78
+I1
+sVbaby
+p79
+I5
+sVsmoking
+p80
+I1
+sVbelieve
+p81
+I1
+sVsound
+p82
+I1
+sVtree
+p83
+I1
+sVsoul
+p84
+I5
+sVbed
+p85
+I1
+sVair
+p86
+I1
+sVdidnt
+p87
+I1
+sVdropped
+p88
+I1
+sVheart
+p89
+I5
+sVslid
+p90
+I1
+sVit
+p91
+I33
+sVsad
+p92
+I1
+sVim
+p93
+I2
+sVsomething
+p94
+I1
+sVswung
+p95
+I1
+sVmake
+p96
+I1
+sVwrite
+p97
+I1
+sVfar
+p98
+I1
+sVtake
+p99
+I2
+sVtrash
+p100
+I1
+sVpicture
+p101
+I1
+sVball
+p102
+I1
+sVpain
+p103
+I1
+sVtime
+p104
+I3
+sVpaid
+p105
+I1
+sVweed
+p106
+I1
+sVdriven
+p107
+I1
+sVwrong
+p108
+I1
+sVdied
+p109
+I1
+sVglow
+p110
+I1
+sVbullet
+p111
+I1
+sVwife
+p112
+I1
+sVclear
+p113
+I1
+sVwell
+p114
+I1
+sVfiasco
+p115
+I1
+sVcame
+p116
+I1
+s.

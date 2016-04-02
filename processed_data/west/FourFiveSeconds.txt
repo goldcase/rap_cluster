@@ -1,43 +1,248 @@
-fourfiveseconds lyrics
-kanye west lyrics
-fourfiveseconds
-rihanna  paul mccartney
-think ive enough
-might get little drunk
-say whats mind
-might little time
-cause kindness
-taken weakness
-im fourfiveseconds wildin
-got three days til friday
-im tryna make back home monday mornin
-swear wish somebody would tell me
-ooh thats want
-woke optimist
-sun shinin im positive
-heard talkin trash
-hold back im bout spaz
-im fourfiveseconds wildin
-got three days til friday
-im tryna make back home monday mornin
-swear wish somebody would tell me
-ooh thats want
-know youre tonight
-thinkin could selfish
-called bout thousand times
-wondering ive been
-know youre tonight
-thinkin could reckless
-cant apologize
-hope understand
-go jail tonight
-promise youll pay bail
-see want buy pride
-aint sale
-see kindness
-taken weakness
-im fourfiveseconds wildin
-got three days til friday
-im tryna make back home monday mornin
-swear wish somebody would tell me
-ooh thats want
+(dp1
+Vive
+p2
+I2
+sVwhats
+p3
+I1
+sVlyrics
+p4
+I2
+sVdrunk
+p5
+I1
+sVapologize
+p6
+I1
+sVmind
+p7
+I1
+sVback
+p8
+I4
+sVsale
+p9
+I1
+sVtonight
+p10
+I3
+sVheard
+p11
+I1
+sVsay
+p12
+I1
+sVshinin
+p13
+I1
+sVim
+p14
+I8
+sVpay
+p15
+I1
+sVwant
+p16
+I4
+sVhome
+p17
+I3
+sVgo
+p18
+I1
+sVkanye
+p19
+I1
+sVpaul
+p20
+I1
+sVtimes
+p21
+I1
+sVbail
+p22
+I1
+sVpositive
+p23
+I1
+sVsee
+p24
+I2
+sVaint
+p25
+I1
+sVtil
+p26
+I3
+sVlittle
+p27
+I2
+sVhold
+p28
+I1
+sVwould
+p29
+I3
+sVyoull
+p30
+I1
+sVwest
+p31
+I1
+sVmake
+p32
+I3
+sVhope
+p33
+I1
+sVthree
+p34
+I3
+sVbeen
+p35
+I1
+sVrihanna
+p36
+I1
+sVenough
+p37
+I1
+sVmccartney
+p38
+I1
+sVwondering
+p39
+I1
+sVweakness
+p40
+I2
+sVtaken
+p41
+I2
+sVgot
+p42
+I3
+sVbout
+p43
+I2
+sVtrash
+p44
+I1
+sVcause
+p45
+I1
+sVtell
+p46
+I3
+sVwoke
+p47
+I1
+sVthinkin
+p48
+I2
+sVtryna
+p49
+I3
+sVmornin
+p50
+I3
+sVsomebody
+p51
+I3
+sVmonday
+p52
+I3
+sVget
+p53
+I1
+sVfourfiveseconds
+p54
+I5
+sVthousand
+p55
+I1
+sVfriday
+p56
+I3
+sVooh
+p57
+I3
+sVcant
+p58
+I1
+sVwish
+p59
+I3
+sVoptimist
+p60
+I1
+sVunderstand
+p61
+I1
+sVknow
+p62
+I2
+sVsun
+p63
+I1
+sVbuy
+p64
+I1
+sVkindness
+p65
+I2
+sVspaz
+p66
+I1
+sVme
+p67
+I3
+sVselfish
+p68
+I1
+sVpride
+p69
+I1
+sVcalled
+p70
+I1
+sVmight
+p71
+I2
+sVcould
+p72
+I2
+sVyoure
+p73
+I2
+sVdays
+p74
+I3
+sVtalkin
+p75
+I1
+sVswear
+p76
+I3
+sVjail
+p77
+I1
+sVreckless
+p78
+I1
+sVtime
+p79
+I1
+sVpromise
+p80
+I1
+sVthats
+p81
+I3
+sVthink
+p82
+I1
+sVwildin
+p83
+I3
+s.

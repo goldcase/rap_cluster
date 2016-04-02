@@ -1,74 +1,535 @@
-"what them girls like" lyrics
-ludacris lyrics
-"what them girls like"
-(feat. chris brown, sean garrett)
-luda! (yep)
-s.g.!
-chris breezy
-(it's me)
-oh oh oh oh oh oh
-oh oh oh oh oh oh
-i know what them girls
-i know i know what them girls
-i know i know what them girls
-i know i know what them girls like
-i know what they feel
-cause i'm breathing on the hills
-and it's me that they wanna kill
-cause i give her what them girls like
-i know what them girls
-i know i know what them girls
-i know i know what them girls
-i know i know what them girls like
-i know what they feel
-cause i'm breathing on the hills (hahaha!)
-and it's me that they wanna kill (luda!)
-cause i give her what them girls like
-relax & take notes,
-while i'm put you up on game
-get a sweeter connect, as put up on cane,
-but you should grab yourself a seat and whisky double,
-because the girls are the world ain't nothing but trouble,
-they like a little danger, and might not admit it,
-but, they on for the chase and they want us to come and get it,
-plus they love a young thug that's overflowing with swagger!
-and that keeps all his women draped in louis vuitton bags!
-with louis viton pumps, look at them walk to 'em,
-i like open toast straps, but sg talk to em!
-i wanna whole buncha girls to bring out the kryptonite,
-betta wear your cake, they bringing that kryptonite,
-yea, we gonna take this to verse 2,
-some of them wanna a family, a sense of security,
-a neckless, bracelet and all other types of jewelery,
-so, shop till you drop em, till it makes you psychotic,
-here's a triple black card, it ain't tricking if you got it!
-others'll stay content if you be making them laugh,
-send em to the spa, a massage then bubble bath,
-so later on, they can dance and throw a drink in their hand,
-and try any and everything they never did with their man, me!
-so get loose and slide of those garments,
-show em whose the boss, cause they take orders from the sergeant
-there's places on your body that i'm trying to find,
-so in the sack, talk to me, bout whats on your mind,
-i got plenty more to learn if you're invested in me,
-they don't love me for who i am but who i'm destined to be,
-and for that i'll give you everything up under the sun,
-cause in the end, all the girls just wanna have fun!
-they wanna talk to ya, so shut up and listen!
-so if you can't take the heat, get the f***k out the kitchen!
-cause that ride or die man for his ride or die chick gets that ride or die pudding for that ride or die shit
-i say,
-they wanna talk to ya, so shut up and listen!
-so if you can't take the heat, get the f***k out the kitchen!
-cause that ride or die man for his ride or die chick gets that ride or die pudding for that ride or die shit
-yes! they want what they can!
-women, i love you all, theres just not enough time.
-believe that, if your man don't tell you how beautiful you are,
-your beautiful baby!
-i love women so much, i have one,
-hahaha,
-luda! chris breezy, this too easy,
-sg what up!
-hahaha.
-oh oh oh oh oh oh
-oh oh oh oh oh oh
+(dp1
+Vshop
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVyea
+p5
+I1
+sVjewelery
+p6
+I1
+sVbring
+p7
+I1
+sVkill
+p8
+I2
+sVyep
+p9
+I1
+sVyes
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVaint
+p13
+I2
+sVwhose
+p14
+I1
+sVbelieve
+p15
+I1
+sVhills
+p16
+I2
+sVmuch
+p17
+I1
+sVshow
+p18
+I1
+sVyoung
+p19
+I1
+sVsend
+p20
+I1
+sVkryptonite
+p21
+I2
+sVup
+p22
+I1
+sVdance
+p23
+I1
+sVverse
+p24
+I1
+sVblack
+p25
+I1
+sVeasy
+p26
+I1
+sVothersll
+p27
+I1
+sVbout
+p28
+I1
+sVwhisky
+p29
+I1
+sVmight
+p30
+I1
+sVbrown
+p31
+I1
+sVbreathing
+p32
+I2
+sVget
+p33
+I5
+sVya
+p34
+I2
+sVtricking
+p35
+I1
+sVgame
+p36
+I1
+sVknow
+p37
+I16
+sVworld
+p38
+I1
+sVtrouble
+p39
+I1
+sVviton
+p40
+I1
+sVbringing
+p41
+I1
+sVlike
+p42
+I8
+sVlouis
+p43
+I2
+sVnotes
+p44
+I1
+sVdrop
+p45
+I1
+sVbracelet
+p46
+I1
+sVbetta
+p47
+I1
+sVtry
+p48
+I1
+sVslide
+p49
+I1
+sVoverflowing
+p50
+I1
+sVdie
+p51
+I8
+sVchick
+p52
+I2
+sVgrab
+p53
+I1
+sVem
+p54
+I5
+sVlearn
+p55
+I1
+sVbe
+p56
+I1
+sVseat
+p57
+I1
+sVsean
+p58
+I1
+sVgon
+p59
+I1
+sVheres
+p60
+I1
+sVbuncha
+p61
+I1
+sVgarrett
+p62
+I1
+sVcontent
+p63
+I1
+sVeverything
+p64
+I2
+sVenough
+p65
+I1
+sVwhats
+p66
+I1
+sVgot
+p67
+I2
+sVcause
+p68
+I8
+sVbody
+p69
+I1
+sVtoast
+p70
+I1
+sVshut
+p71
+I2
+sVloose
+p72
+I1
+sVnever
+p73
+I1
+sVboss
+p74
+I1
+sVfun
+p75
+I1
+sVwear
+p76
+I1
+sVput
+p77
+I2
+sVhand
+p78
+I1
+sVcome
+p79
+I1
+sVsecurity
+p80
+I1
+sVcard
+p81
+I1
+sVkitchen
+p82
+I2
+sVvuitton
+p83
+I1
+sVoh
+p84
+I24
+sVill
+p85
+I1
+sVlater
+p86
+I1
+sVadmit
+p87
+I1
+sVplus
+p88
+I1
+sVinvested
+p89
+I1
+sVtheres
+p90
+I2
+sVwhole
+p91
+I1
+sVmassage
+p92
+I1
+sVthats
+p93
+I1
+sVbath
+p94
+I1
+sVbeautiful
+p95
+I2
+sVlove
+p96
+I4
+sVdont
+p97
+I2
+sVfamily
+p98
+I1
+sVdanger
+p99
+I1
+sVfeel
+p100
+I2
+sVsack
+p101
+I1
+sVwalk
+p102
+I1
+sVnothing
+p103
+I1
+sVlaugh
+p104
+I1
+sVopen
+p105
+I1
+sVare
+p106
+I1
+sVwan
+p107
+I7
+sVlittle
+p108
+I1
+sVdestined
+p109
+I1
+sVgirls
+p110
+I15
+sVthrow
+p111
+I1
+sVpsychotic
+p112
+I1
+sV2
+I1
+sVsergeant
+p113
+I1
+sVtime
+p114
+I1
+sVswagger
+p115
+I1
+sVbubble
+p116
+I1
+sVtell
+p117
+I1
+sVlisten
+p118
+I2
+sVrelax
+p119
+I1
+sVdraped
+p120
+I1
+sVgarments
+p121
+I1
+sVheat
+p122
+I2
+sVbaby
+p123
+I1
+sVsun
+p124
+I1
+sVtrying
+p125
+I1
+sVwomen
+p126
+I3
+sVme
+p127
+I3
+sVlook
+p128
+I1
+sVplaces
+p129
+I1
+sVdouble
+p130
+I1
+sVride
+p131
+I8
+sVsay
+p132
+I1
+sVus
+p133
+I1
+sVcan
+p134
+I1
+sVsweeter
+p135
+I1
+sVhahaha
+p136
+I3
+sVcake
+p137
+I1
+sVmaking
+p138
+I1
+sVconnect
+p139
+I1
+sVluda
+p140
+I3
+sVcane
+p141
+I1
+sVtriple
+p142
+I1
+sVgive
+p143
+I3
+sVmind
+p144
+I1
+sVit
+p145
+I3
+sVcant
+p146
+I2
+sVim
+p147
+I5
+sVwant
+p148
+I2
+sVsense
+p149
+I1
+sVthug
+p150
+I1
+sVspa
+p151
+I1
+sVorders
+p152
+I1
+sVshit
+p153
+I2
+sVchase
+p154
+I1
+sVbags
+p155
+I1
+sVend
+p156
+I1
+sVna
+p157
+I8
+sVtill
+p158
+I2
+sVtake
+p159
+I5
+sVpudding
+p160
+I2
+sVgets
+p161
+I2
+sVyoure
+p162
+I1
+sVone
+p163
+I1
+sVdrink
+p164
+I1
+sVstay
+p165
+I1
+sVpumps
+p166
+I1
+sVneckless
+p167
+I1
+sVplenty
+p168
+I1
+sVchris
+p169
+I3
+sVfk
+p170
+I2
+sVtypes
+p171
+I1
+sVman
+p172
+I4
+sVmakes
+p173
+I1
+sVstraps
+p174
+I1
+sVbreezy
+p175
+I2
+sVkeeps
+p176
+I1
+sVsg
+p177
+I3
+sVtalk
+p178
+I4
+s.

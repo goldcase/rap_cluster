@@ -1,57 +1,512 @@
-"war at 33 1/3" lyrics
-public enemy lyrics
-"war at 33 1/3"
-war at 33 1/3
-haven't you heard
-i got quick and clever
-at the level of a scientist
-with this list my fist pumps chumps
-and don't miss
-sorry majority grudgin' against the enemy
-and any other nigger wit an attitude see
-and any other rapper whose a brother
-who try to speak to one another
-gets smothered by the other kind
-no so divine so i heard it thru the grapevine
-sent the feds out to get mine
-time yo-yo to go bronco in 90-91
-laughin' while they're searchin' for my 98
-accelerate the race from the chase
-looka my face
-it ain't hate but they don't want a debate
-to take great
-can i live my life without 'em treatin'
-every brother like me like we're holdin'
-a knife alright time to smack uncle sam
-don't give a damn, look at the flag
-my bloods a flood
-without credit
-black and close to the edit
-i fed it, you read it, just remember who said it
-war at 33 1/3 not really live
-i rather do it at 45
-went west in the quest for my intelligence
-climbed a fence took a teacher on
-ain't seen him since, hence he winced
-and convinced that the black
-was back revolving to a renaissance
-bronze to gold i told felt bold
-taught a so called teacher our role
-in civilizin' the whole globe
-banned unplanned as i said
-i don't break down religion why?
-there ain't a smidgen for a pigeon
-nature for bird, dog, worm or lion
-so my question to man is
-so why the lyin'
-god's law i saw is natural factual
-only man creates a waste
-defiance in his haste
-based on scheme a scam
-from some mastermind damn if we read it
-and we see it and still be blind
-no need to search a fake church
-evangelical, huster
-anglo taxin' to muscle ya
-check i wreck you guess yes
-all the bullshit now that's progress
+(dp1
+Vlyrics
+p2
+I2
+sVlooka
+p3
+I1
+sVya
+p4
+I1
+sVgods
+p5
+I1
+sVattitude
+p6
+I1
+sVscientist
+p7
+I1
+sVwinced
+p8
+I1
+sVgo
+p9
+I1
+sVyes
+p10
+I1
+sVstill
+p11
+I1
+sVhate
+p12
+I1
+sVdebate
+p13
+I1
+sVbloods
+p14
+I1
+sVaint
+p15
+I3
+sVwhose
+p16
+I1
+sVbased
+p17
+I1
+sVgold
+p18
+I1
+sVmajority
+p19
+I1
+sVlyin
+p20
+I1
+sVyoyo
+p21
+I1
+sVsorry
+p22
+I1
+sVfactual
+p23
+I1
+sVsent
+p24
+I1
+sVtreatin
+p25
+I1
+sVunplanned
+p26
+I1
+sVget
+p27
+I1
+sVread
+p28
+I2
+sVbanned
+p29
+I1
+sV13
+p30
+I4
+sVbreak
+p31
+I1
+sVsmack
+p32
+I1
+sVquest
+p33
+I1
+sVevery
+p34
+I1
+sVrevolving
+p35
+I1
+sVbronco
+p36
+I1
+sVbird
+p37
+I1
+sVbullshit
+p38
+I1
+sVenemy
+p39
+I2
+sVlike
+p40
+I2
+sVlevel
+p41
+I1
+sVedit
+p42
+I1
+sVrapper
+p43
+I1
+sVbrother
+p44
+I2
+sVtheyre
+p45
+I1
+sVtry
+p46
+I1
+sVnigger
+p47
+I1
+sVrace
+p48
+I1
+sVholdin
+p49
+I1
+sVprogress
+p50
+I1
+sVquick
+p51
+I1
+sVhavent
+p52
+I1
+sVem
+p53
+I1
+sVfence
+p54
+I1
+sVlist
+p55
+I1
+sVglobe
+p56
+I1
+sVchurch
+p57
+I1
+sV9091
+p58
+I1
+sVsee
+p59
+I2
+sVtaught
+p60
+I1
+sVaccelerate
+p61
+I1
+sVfist
+p62
+I1
+sVclose
+p63
+I1
+sVdivine
+p64
+I1
+sVreally
+p65
+I1
+sVchumps
+p66
+I1
+sVsaid
+p67
+I2
+sVwreck
+p68
+I1
+sVsince
+p69
+I1
+sVpigeon
+p70
+I1
+sVreligion
+p71
+I1
+sVgot
+p72
+I1
+sVpublic
+p73
+I1
+sVknife
+p74
+I1
+sVtold
+p75
+I1
+sVbold
+p76
+I1
+sVnature
+p77
+I1
+sVguess
+p78
+I1
+sVdefiance
+p79
+I1
+sVlaughin
+p80
+I1
+sVsmothered
+p81
+I1
+sVwent
+p82
+I1
+sVbronze
+p83
+I1
+sVon
+p84
+I1
+sVgreat
+p85
+I1
+sVrenaissance
+p86
+I1
+sV33
+p87
+I4
+sVsearchin
+p88
+I1
+sVclimbed
+p89
+I1
+sVcreates
+p90
+I1
+sVcredit
+p91
+I1
+sVhence
+p92
+I1
+sVfeds
+p93
+I1
+sVscheme
+p94
+I1
+sVwhole
+p95
+I1
+sVthats
+p96
+I1
+sVblind
+p97
+I1
+sVdont
+p98
+I4
+sVsearch
+p99
+I1
+sVone
+p100
+I1
+sVwit
+p101
+I1
+sVanother
+p102
+I1
+sVfake
+p103
+I1
+sVmiss
+p104
+I1
+sVspeak
+p105
+I1
+sVfed
+p106
+I1
+sVgrapevine
+p107
+I1
+sVwest
+p108
+I1
+sVquestion
+p109
+I1
+sVteacher
+p110
+I2
+sVlive
+p111
+I2
+sVdamn
+p112
+I2
+sVintelligence
+p113
+I1
+sVblack
+p114
+I2
+sVthru
+p115
+I1
+sVwar
+p116
+I4
+sVback
+p117
+I1
+sVlife
+p118
+I1
+sVclever
+p119
+I1
+sVtook
+p120
+I1
+sVit
+p121
+I2
+sV98
+p122
+I1
+sVflag
+p123
+I1
+sVuncle
+p124
+I1
+sVconvinced
+p125
+I1
+sVevangelical
+p126
+I1
+sVkind
+p127
+I1
+sVwaste
+p128
+I1
+sVlook
+p129
+I1
+sVtaxin
+p130
+I1
+sVworm
+p131
+I1
+sVcalled
+p132
+I1
+sVscam
+p133
+I1
+sVsam
+p134
+I1
+sVgive
+p135
+I1
+sVis
+p136
+I1
+sVmine
+p137
+I1
+sVheard
+p138
+I2
+sVhuster
+p139
+I1
+sVwant
+p140
+I1
+sVneed
+p141
+I1
+sVseen
+p142
+I1
+sVsaw
+p143
+I1
+sVcheck
+p144
+I1
+sVchase
+p145
+I1
+sVrather
+p146
+I1
+sV45
+p147
+I1
+sVanglo
+p148
+I1
+sVflood
+p149
+I1
+sVrole
+p150
+I1
+sVtake
+p151
+I1
+sVgets
+p152
+I1
+sVsmidgen
+p153
+I1
+sVlion
+p154
+I1
+sVfelt
+p155
+I1
+sVgrudgin
+p156
+I1
+sVpumps
+p157
+I1
+sVlaw
+p158
+I1
+sVmastermind
+p159
+I1
+sVwhy
+p160
+I1
+sVman
+p161
+I2
+sVnatural
+p162
+I1
+sVremember
+p163
+I1
+sVcivilizin
+p164
+I1
+sVdog
+p165
+I1
+sVface
+p166
+I1
+sVwithout
+p167
+I2
+sVhaste
+p168
+I1
+sVtime
+p169
+I2
+sValright
+p170
+I1
+sVmuscle
+p171
+I1
+s.

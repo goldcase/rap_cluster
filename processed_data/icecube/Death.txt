@@ -1,20 +1,176 @@
-"death" lyrics
-ice cube lyrics
-"death"
-(feat. khalid abdul muhammad)
-let me live my life!
-we can no longer live our lives...
-then let us... give our live for the liberation...
-and salvation of the black nation
-saints, saviors, soldiers, scholars... healers and killers
-no longer dead, deaf, dumb and blind out of our my mind!
-brain-washed with the white men's mind
-no more homicide!
-no more fratricide!
-no more sucide, infantcide and... genocide!
-look that goddamn white man in his cold... blue-eyes
-devil don't even try... we bay bay kids!
-we don't die... we... multiply!
-you heard the death side
-open your black eyes for the rebirth...
-resurrection... and rise!
+(dp1
+Vblind
+p2
+I1
+sVsaviors
+p3
+I1
+sVdont
+p4
+I2
+sVlyrics
+p5
+I2
+sVgive
+p6
+I1
+sVgoddamn
+p7
+I1
+sVdeaf
+p8
+I1
+sVeyes
+p9
+I1
+sVdead
+p10
+I1
+sVkhalid
+p11
+I1
+sVheard
+p12
+I1
+sVmuhammad
+p13
+I1
+sVdumb
+p14
+I1
+sVsoldiers
+p15
+I1
+sVcold
+p16
+I1
+sVfeat
+p17
+I1
+sVhomicide
+p18
+I1
+sVdeath
+p19
+I3
+sVopen
+p20
+I1
+sVabdul
+p21
+I1
+sVsaints
+p22
+I1
+sVblueeyes
+p23
+I1
+sVice
+p24
+I1
+sVmens
+p25
+I1
+sVliberation
+p26
+I1
+sVlive
+p27
+I3
+sVsucide
+p28
+I1
+sVblack
+p29
+I2
+sVinfantcide
+p30
+I1
+sVwhite
+p31
+I2
+sVman
+p32
+I1
+sVdevil
+p33
+I1
+sVeven
+p34
+I1
+sVlife
+p35
+I1
+sVcube
+p36
+I1
+sVmind
+p37
+I2
+sVrise
+p38
+I1
+sVbrainwashed
+p39
+I1
+sVnation
+p40
+I1
+sVkillers
+p41
+I1
+sVlet
+p42
+I2
+sVmultiply
+p43
+I1
+sVresurrection
+p44
+I1
+sVscholars
+p45
+I1
+sVfratricide
+p46
+I1
+sVrebirth
+p47
+I1
+sVkids
+p48
+I1
+sVlonger
+p49
+I2
+sVhealers
+p50
+I1
+sVus
+p51
+I1
+sVbay
+p52
+I2
+sVtry
+p53
+I1
+sVlook
+p54
+I1
+sVgenocide
+p55
+I1
+sVdie
+p56
+I1
+sVlives
+p57
+I1
+sVsalvation
+p58
+I1
+sVside
+p59
+I1
+s.

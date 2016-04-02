@@ -1,78 +1,532 @@
-"welcome back chilly" lyrics
-lupe fiasco lyrics
-"welcome back chilly"
-uh, before we get started in this
-you know this thing right here
-i gotta say
-welcome home
-to my main man chilly mac
-yeah
-before we get started in here
-i'd like to tell the world that my partner is here
-been on 23 and 1 for like 14 months (damn!)
-that's the boss of first and fifteen is home chumps
-thanks to god for removing the obstacle
-thanks to craig for making it possible
-million-dollar bond is what held us down
-now who in the hell is gonna help them now
-you see ck cuz that check you cut
-you got a couple fools on your set, what up
-see his mind is sharp and mine is art
-refined and smart and it's time to start
-while you was behind them bars i was behind these bars
-rewind to when the police took our cars
-but they don't know there's more where that came from
-me and chilly mac back to backin' some
-see the game ain't the same since you left out
-see the snakes and the lames yeah they crept out
-ooh you know we need ya
-ooh i'm glad they freed ya
-here is where we need ya
-hey it's nice to see ya
-welcome back welcome back welcome back chilly mac
-welcome back welcome back chilly mac
-welcome back welcome back welcome back chilly
-welcome back welcome back welcome back
-you ain't even gonna dwell in the past tense
-i gotta say one love
-to that boy sean carter for holdin the young nigga down
-while you was absent
-make sure my foot was good and my hand was pimp
-and when them niggas jumped ship
-a hand was limp
-to try and turn the tide help withstand the stint
-the time when it was hectic strictly on the strength
-that's why we got moves to make
-new records to record, new rules to break
-we back standing on two the crew is straight
-new and improved fnf crew you snakes
-how they gon' stop us police still watch us but it's cool cuz you're home dog
-no more visits on friday, no more commissary, no more collect phone calls
-see the game ain't the same since you left out
-see the snakes and the lames yeah they crept out
-ooh you know we need ya
-ooh i'm glad they freed ya
-here is where we need ya
-hey it's nice to see ya
-welcome back welcome back welcome back chilly mac
-welcome back welcome back chilly mac
-welcome back welcome back chilly mac
-welcome back welcome back welcome back
-i'd like to welcome everybody out
-to fahrenheit 1/15
-first off
-rip to my nigga kato
-what up val
-magic what up
-my man k'naan
-you know
-the whole henchman crew holding us down
-my man jigga
-the whole chi-town mike love what up
-and now
-y'all about to see something
-that y'all ain't never seen before
-well
-i don't wanna say never seen
-but not like this you know what i'm sayin'?
-fnf up!
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I2
+sVyoung
+p4
+I1
+sVseen
+p5
+I2
+sVheld
+p6
+I1
+sVthanks
+p7
+I2
+sVkato
+p8
+I1
+sVhell
+p9
+I1
+sVstill
+p10
+I1
+sVbefore
+p11
+I1
+sVaint
+p12
+I4
+sVcut
+p13
+I1
+sVpolice
+p14
+I2
+sVsayin
+p15
+I1
+sV23
+p16
+I1
+sVcuz
+p17
+I2
+sVcrew
+p18
+I3
+sVcommissary
+p19
+I1
+sVjumped
+p20
+I1
+sVmain
+p21
+I1
+sVsmart
+p22
+I1
+sVta
+p23
+I2
+sVgood
+p24
+I1
+sVget
+p25
+I2
+sVya
+p26
+I8
+sVcouple
+p27
+I1
+sVstop
+p28
+I1
+sVpossible
+p29
+I1
+sVbreak
+p30
+I1
+sVrecords
+p31
+I1
+sVgame
+p32
+I2
+sVknow
+p33
+I6
+sVnew
+p34
+I3
+sVfoot
+p35
+I1
+sVworld
+p36
+I1
+sVnow
+p37
+I2
+sVcool
+p38
+I1
+sVstint
+p39
+I1
+sVmagic
+p40
+I1
+sVlike
+p41
+I4
+sVpimp
+p42
+I1
+sVfnf
+p43
+I2
+sVtry
+p44
+I1
+sVcollect
+p45
+I1
+sVholdin
+p46
+I1
+sVnice
+p47
+I2
+sVyall
+p48
+I2
+sVbond
+p49
+I1
+sVwithstand
+p50
+I1
+sVbars
+p51
+I2
+sVright
+p52
+I1
+sVart
+p53
+I1
+sVsnakes
+p54
+I3
+sVsome
+p55
+I1
+sVback
+p56
+I25
+sVpast
+p57
+I1
+sVsee
+p58
+I9
+sVsean
+p59
+I1
+sVhome
+p60
+I3
+sVout
+p61
+I5
+sVeven
+p62
+I1
+sVchumps
+p63
+I1
+sVgon
+p64
+I3
+sVnigga
+p65
+I2
+sVjigga
+p66
+I1
+sVgod
+p67
+I1
+sVsince
+p68
+I2
+sVbehind
+p69
+I2
+sVgot
+p70
+I4
+sVfreed
+p71
+I2
+sVeverybody
+p72
+I1
+sVnever
+p73
+I2
+sVlupe
+p74
+I1
+sVcars
+p75
+I1
+sVfriday
+p76
+I1
+sVhere
+p77
+I3
+sVboss
+p78
+I1
+sVhectic
+p79
+I1
+sV115
+p80
+I1
+sVmilliondollar
+p81
+I1
+sVfifteen
+p82
+I1
+sVboy
+p83
+I1
+sVimproved
+p84
+I1
+sVmonths
+p85
+I1
+sVthing
+p86
+I1
+sVwhole
+p87
+I2
+sVfirst
+p88
+I2
+sVck
+p89
+I1
+sVlove
+p90
+I2
+sVdont
+p91
+I2
+sVlimp
+p92
+I1
+sVone
+p93
+I1
+sVdown
+p94
+I3
+sVset
+p95
+I1
+sVrefined
+p96
+I1
+sVcarter
+p97
+I1
+sVstanding
+p98
+I1
+sVwan
+p99
+I1
+sVfrom
+p100
+I1
+sVval
+p101
+I1
+sVremoving
+p102
+I1
+sVstrictly
+p103
+I1
+sVhey
+p104
+I2
+sVfahrenheit
+p105
+I1
+sVstart
+p106
+I1
+sVdamn
+p107
+I1
+sVdwell
+p108
+I1
+sVlames
+p109
+I2
+sVtell
+p110
+I1
+sVmike
+p111
+I1
+sVknaan
+p112
+I1
+sVstarted
+p113
+I2
+sVtook
+p114
+I1
+sVyeah
+p115
+I3
+sVphone
+p116
+I1
+sVtense
+p117
+I1
+sVglad
+p118
+I2
+sVabsent
+p119
+I1
+sV14
+p120
+I1
+sVniggas
+p121
+I1
+sVthis
+p122
+I1
+sVstraight
+p123
+I1
+sVup
+p124
+I4
+sVus
+p125
+I4
+sVrecord
+p126
+I1
+sVuh
+p127
+I1
+sVhand
+p128
+I2
+sVmaking
+p129
+I1
+sVtheres
+p130
+I1
+sVcraig
+p131
+I1
+sVmind
+p132
+I1
+sVmine
+p133
+I1
+sVrip
+p134
+I1
+sVtide
+p135
+I1
+sVsay
+p136
+I3
+sVobstacle
+p137
+I1
+sVim
+p138
+I3
+sVsomething
+p139
+I1
+sVpartner
+p140
+I1
+sVneed
+p141
+I4
+sVsharp
+p142
+I1
+sVship
+p143
+I1
+sVturn
+p144
+I1
+sVid
+p145
+I2
+sVstrength
+p146
+I1
+sVchilly
+p147
+I10
+sVna
+p148
+I3
+sVmake
+p149
+I2
+sVmoves
+p150
+I1
+sVcheck
+p151
+I1
+sV1
+I1
+sVrules
+p152
+I1
+sVholding
+p153
+I1
+sVrewind
+p154
+I1
+sVfools
+p155
+I1
+sVcrept
+p156
+I2
+sVsure
+p157
+I1
+sVchitown
+p158
+I1
+sVwatch
+p159
+I1
+sVwelcome
+p160
+I25
+sVvisits
+p161
+I1
+sVooh
+p162
+I4
+sVmac
+p163
+I7
+sVtwo
+p164
+I1
+sVfiasco
+p165
+I1
+sVhenchman
+p166
+I1
+sVman
+p167
+I3
+sVoff
+p168
+I1
+sVcalls
+p169
+I1
+sVyoure
+p170
+I1
+sVwell
+p171
+I1
+sVdog
+p172
+I1
+sVcame
+p173
+I1
+sVtime
+p174
+I2
+sVthats
+p175
+I2
+sVbackin
+p176
+I1
+sVleft
+p177
+I2
+s.

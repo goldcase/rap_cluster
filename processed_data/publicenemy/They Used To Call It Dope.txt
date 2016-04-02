@@ -1,25 +1,182 @@
-"they used to call it dope" lyrics
-public enemy lyrics
-"they used to call it dope"
-little piece of my heart like janis
-no joplin
-but pure hip hoppin
-as they try to ban us
-crazy flight time no jacket
-or ticket
-wilson picket had soul
-fat trax so the rappers
-can kick it
-alan freed the waves
-as much as
-lincoln freed da slaves
-its here i bleed and some
-bled until dead
-i got the rhythm from this
-headbanger
-who used to fly high
-now he's just hangin in da hanger
-hangin around homeless
-in a city of no hope i can't cope
-just to think
-see they used to call it dope
+(dp1
+Vheart
+p2
+I1
+sVcrazy
+p3
+I1
+sVhanger
+p4
+I1
+sVhoppin
+p5
+I1
+sVlyrics
+p6
+I2
+sVheadbanger
+p7
+I1
+sVsome
+p8
+I1
+sVit
+p9
+I1
+sVdead
+p10
+I1
+sVhigh
+p11
+I1
+sVbled
+p12
+I1
+sVas
+p13
+I1
+sVhomeless
+p14
+I1
+sVcant
+p15
+I1
+sVaround
+p16
+I1
+sVtry
+p17
+I1
+sVlittle
+p18
+I1
+sVpicket
+p19
+I1
+sVhes
+p20
+I1
+sVcope
+p21
+I1
+sVmuch
+p22
+I1
+sVcall
+p23
+I3
+sVpure
+p24
+I1
+sVgot
+p25
+I1
+sVhangin
+p26
+I2
+sVpublic
+p27
+I1
+sVkick
+p28
+I1
+sVfreed
+p29
+I2
+sVhip
+p30
+I1
+sVused
+p31
+I4
+sVflight
+p32
+I1
+sVrhythm
+p33
+I1
+sVsee
+p34
+I1
+sVcity
+p35
+I1
+sVdope
+p36
+I3
+sVwilson
+p37
+I1
+sVfat
+p38
+I1
+sVda
+p39
+I2
+sVrappers
+p40
+I1
+sValan
+p41
+I1
+sVwaves
+p42
+I1
+sVticket
+p43
+I1
+sVbleed
+p44
+I1
+sVfly
+p45
+I1
+sVenemy
+p46
+I1
+sVlincoln
+p47
+I1
+sVlike
+p48
+I1
+sVjanis
+p49
+I1
+sVthis
+p50
+I1
+sVsoul
+p51
+I1
+sVus
+p52
+I1
+sVthink
+p53
+I1
+sVjacket
+p54
+I1
+sVhope
+p55
+I1
+sVslaves
+p56
+I1
+sVtime
+p57
+I1
+sVban
+p58
+I1
+sVjoplin
+p59
+I1
+sVpiece
+p60
+I1
+sVtrax
+p61
+I1
+s.

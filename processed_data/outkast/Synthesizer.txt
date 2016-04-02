@@ -1,99 +1,821 @@
-"synthesizer" lyrics
-outkast lyrics
-"synthesizer"
-(feat. george clinton)
-everybody's got opinions
-on the way you're living
-but see they can't fill your shoes
-life is made of half illusion (illusion)
-forty percent confusion (confusion)
-whatever's left i'm using to keep myself from losing, yea
-you don't know what i've been through (oooh)
-hell i might go through you (ghetto boy that, won't eat, tonight)
-uh-oh, oh no-oahohh (that little boy just wanna eat tonight)
-hey hey (he scuffles with her booty and her face) hey hey
-and mm-mmmmmm (mom i'm seekin that sir tea and some soup yea)
-all in all it's all in my head
-you know it's that high guy, from east p.i.
-spittin the realness of reality, you mad at me
-boi how you gonna handle me?
-you want me to lolligag and talk that bullshit?
-i refuse to play so i'm gon' speak that southern good shit
-that harder than yo' hood shit, lil' shit
-that make y'all niggaz think about the trigger
-before you pull it, on liquor stores and banks
-them folks got more than enough bullets to put that ass
-off in the slang, don't claim no gang, we the niggaz
-that did that "ain't no thang but a chicken wang"
-but still though, how you gonna play a nigga like dildo
-we outkast til it's over, barbeque and never mildo
-for real bro
-"in tonight's news, 20th century technology:
-has the computer age, scientists, and doctors gone too far?
-einstein or frankenstein?
-dr. scholl's, or dr. jekyll and mr. hyde?
-are we digging into new ground,
-or digging our own graves?  story at 11"
-valley girls are horny tonight (synthesizer)
-fuzzy logic, their pubic virginity (synthesizer)
-ooooh oooh ooh .. (synthesizer)
-ooooh oooh ooh .. (synthesizer)
-conceived under the influence of toxic wasted doctors
-computer buggin debuggin device-a and vice versa
-and various viruses
-performing with laser light precision and verbal incision
-for a lingustic ballistic lobotomy
-mind-fuckin you, a psycho-sodomy
-of the medula oblongata
-accept your mind down your spine and out your behind
-fuck you
-synthesizer, microwave me
-give me a drug so i can make seven babies
-pump my breasts up, can you suck the fat up
-please make my life appear
-like ain't no such thing as bad luck
-my, nose ain't right
-like i need a new one
-just take your pick, a yellow red
-a black or a blue one
-virtual reality, virtual, bullshit
-synthesizer preachers can reach you
-up in the pulpit
-who a bitch?
-give me my gat so i can smoke this nigga
-tell his mamma not to cry
-because they can clone him quicker
-than it took his daddy to make him
-niggaz bitin verbatim
-thought provokin records radio never played dem
-instant, quick grits, new, improved
-hurry hurry, rush rush, world on the move
-marijuana illegal but ciggarettes cool
-i might look kinda funny but i ain't no fool
-now if you wanna synthesize i emp-athize
-now if you wanna synthesize i emp-athize
-but if you synthesize i will understand
-your synthesizer man
-ghetto boy horny tonight
-scsi with a booty in a cage
-problem sinkin down and stretchin out
-so sleepy, playing safe in cyberspace
-(synthesizer)
-cybersexy wendy (synthesizer)
-web walkin in the nude
-digital good time, digital good time
-said she'd lapdance on your laptop
-while your laptop's in your lap
-digital good time, digital good time
-cybersexy wendy
-web walkin in the nude
-digital good time, digital good time
-said she'd tapdance on your laptop
-while your laptop's in your lap
-digital good time, digital good time
-digital good time, digital good time
-cybersexy wendy
-web walkin in the nude
-digital good time, digital good time
-digital good time, digital good time
-fuzzy logic, it's groovy..
+(dp1
+Vmmmmmmmm
+p2
+I1
+sVopinions
+p3
+I1
+sVstores
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVyea
+p7
+I2
+sVlaptop
+p8
+I2
+sVmove
+p9
+I1
+sVsleepy
+p10
+I1
+sVyellow
+p11
+I1
+sVradio
+p12
+I1
+sVgang
+p13
+I1
+sVworld
+p14
+I1
+sVgo
+p15
+I1
+sVhell
+p16
+I1
+sVchicken
+p17
+I1
+sVstill
+p18
+I1
+sVfeat
+p19
+I1
+sVhorny
+p20
+I2
+sVempathize
+p21
+I2
+sVground
+p22
+I1
+sVaint
+p23
+I4
+sVweb
+p24
+I3
+sVgraves
+p25
+I1
+sVtook
+p26
+I1
+sVthang
+p27
+I1
+sVbehind
+p28
+I1
+sVhim
+p29
+I1
+sVooooh
+p30
+I2
+sVblack
+p31
+I1
+sVversa
+p32
+I1
+sVfolks
+p33
+I1
+sVreach
+p34
+I1
+sVeast
+p35
+I1
+sVmight
+p36
+I2
+sVreal
+p37
+I1
+sV11
+p38
+I1
+sVgood
+p39
+I15
+sVhandle
+p40
+I1
+sVlingustic
+p41
+I1
+sVyo
+p42
+I1
+sVpull
+p43
+I1
+sVfar
+p44
+I1
+sVtapdance
+p45
+I1
+sVseekin
+p46
+I1
+sVfat
+p47
+I1
+sVjekyll
+p48
+I1
+sVspittin
+p49
+I1
+sVknow
+p50
+I2
+sVmom
+p51
+I1
+sVhalf
+p52
+I1
+sVfrankenstein
+p53
+I1
+sVusing
+p54
+I1
+sVdr
+p55
+I2
+sVbullshit
+p56
+I2
+sVghetto
+p57
+I2
+sVwont
+p58
+I1
+sVscuffles
+p59
+I1
+sVnooahohh
+p60
+I1
+sVspine
+p61
+I1
+sVvalley
+p62
+I1
+sVcool
+p63
+I1
+sVperforming
+p64
+I1
+sVciggarettes
+p65
+I1
+sVbad
+p66
+I1
+sVcybersexy
+p67
+I3
+sVnose
+p68
+I1
+sVoooh
+p69
+I3
+sVquick
+p70
+I1
+sVguy
+p71
+I1
+sVnude
+p72
+I3
+sVyall
+p73
+I1
+sVluck
+p74
+I1
+sVvirginity
+p75
+I1
+sVshed
+p76
+I2
+sVnigga
+p77
+I2
+sVbooty
+p78
+I2
+sVverbal
+p79
+I1
+sVcage
+p80
+I1
+sVtea
+p81
+I1
+sVliquor
+p82
+I1
+sVpubic
+p83
+I1
+sVeverybodys
+p84
+I1
+sVsinkin
+p85
+I1
+sVsee
+p86
+I1
+sVcomputer
+p87
+I2
+sVhyde
+p88
+I1
+sVgroovy
+p89
+I1
+sVout
+p90
+I1
+sVblue
+p91
+I1
+sVliving
+p92
+I1
+sVgon
+p93
+I3
+sVappear
+p94
+I1
+sVplease
+p95
+I1
+sVforty
+p96
+I1
+sVmicrowave
+p97
+I1
+sVenough
+p98
+I1
+sVvarious
+p99
+I1
+sVgrits
+p100
+I1
+sVscientists
+p101
+I1
+sVgot
+p102
+I2
+sVred
+p103
+I1
+sVbarbeque
+p104
+I1
+sVass
+p105
+I1
+sVcry
+p106
+I1
+sVoutkast
+p107
+I2
+sVconfusion
+p108
+I2
+sVnever
+p109
+I2
+sVstory
+p110
+I1
+sVlike
+p111
+I3
+sVprovokin
+p112
+I1
+sVlosing
+p113
+I1
+sVnews
+p114
+I1
+sVmindfuckin
+p115
+I1
+sVboy
+p116
+I3
+sVinstant
+p117
+I1
+sVoh
+p118
+I1
+sVwhatevers
+p119
+I1
+sVdebuggin
+p120
+I1
+sVdrug
+p121
+I1
+sVkeep
+p122
+I1
+sVwalkin
+p123
+I3
+sVboi
+p124
+I1
+sV20th
+p125
+I1
+sVsmoke
+p126
+I1
+sVlogic
+p127
+I2
+sVthink
+p128
+I1
+sVtonights
+p129
+I1
+sVmad
+p130
+I1
+sVscholls
+p131
+I1
+sVclinton
+p132
+I1
+sVdont
+p133
+I2
+sVclaim
+p134
+I1
+sVone
+p135
+I2
+sVbro
+p136
+I1
+sVput
+p137
+I1
+sVsynthesize
+p138
+I3
+sVright
+p139
+I1
+sVviruses
+p140
+I1
+sVbitch
+p141
+I1
+sVeinstein
+p142
+I1
+sVkinda
+p143
+I1
+sVwendy
+p144
+I3
+sVgeorge
+p145
+I1
+sVhood
+p146
+I1
+sVspeak
+p147
+I1
+sVwan
+p148
+I3
+sVlittle
+p149
+I1
+sVillegal
+p150
+I1
+sVgive
+p151
+I2
+sVgirls
+p152
+I1
+sVhey
+p153
+I4
+sVsynthesizer
+p154
+I11
+sVuhoh
+p155
+I1
+sVtrigger
+p156
+I1
+sVballistic
+p157
+I1
+sVway
+p158
+I1
+sVpulpit
+p159
+I1
+sVmedula
+p160
+I1
+sVlapdance
+p161
+I1
+sVplayed
+p162
+I1
+sVpi
+p163
+I1
+sVtell
+p164
+I1
+sVlife
+p165
+I2
+sVverbatim
+p166
+I1
+sVpump
+p167
+I1
+sVmind
+p168
+I1
+sVfuck
+p169
+I1
+sVooh
+p170
+I2
+sVdildo
+p171
+I1
+sVlaptops
+p172
+I2
+sVunderstand
+p173
+I1
+sVoblongata
+p174
+I1
+sVdoctors
+p175
+I2
+sVwasted
+p176
+I1
+sVfuzzy
+p177
+I2
+sVhurry
+p178
+I2
+sVeat
+p179
+I2
+sVme
+p180
+I3
+sVhigh
+p181
+I1
+sVrush
+p182
+I2
+sVmade
+p183
+I1
+sVlaser
+p184
+I1
+sVimproved
+p185
+I1
+sVincision
+p186
+I1
+sVharder
+p187
+I1
+sVup
+p188
+I1
+sVniggaz
+p189
+I3
+sVstretchin
+p190
+I1
+sVsoup
+p191
+I1
+sVmarijuana
+p192
+I1
+sVdem
+p193
+I1
+sVbitin
+p194
+I1
+sVmr
+p195
+I1
+sVproblem
+p196
+I1
+sVdaddy
+p197
+I1
+sVdevicea
+p198
+I1
+sVpick
+p199
+I1
+sVive
+p200
+I1
+sVseven
+p201
+I1
+sVwang
+p202
+I1
+sVcentury
+p203
+I1
+sVinfluence
+p204
+I1
+sVhead
+p205
+I1
+sVaccept
+p206
+I1
+sVtonight
+p207
+I4
+sVfunny
+p208
+I1
+sVcant
+p209
+I1
+sVim
+p210
+I3
+sVwant
+p211
+I1
+sVneed
+p212
+I1
+sVlolligag
+p213
+I1
+sVtechnology
+p214
+I1
+sVshit
+p215
+I3
+sVfill
+p216
+I1
+sVgone
+p217
+I1
+sVsir
+p218
+I1
+sVpsychosodomy
+p219
+I1
+sVfool
+p220
+I1
+sVthing
+p221
+I1
+sVlil
+p222
+I1
+sVna
+p223
+I5
+sVmake
+p224
+I4
+sVpercent
+p225
+I1
+sVvirtual
+p226
+I2
+sVreality
+p227
+I2
+sVtil
+p228
+I1
+sVpreachers
+p229
+I1
+sVtake
+p230
+I1
+sVdigging
+p231
+I2
+sVdigital
+p232
+I14
+sVtoxic
+p233
+I1
+sVnew
+p234
+I3
+sVyou
+p235
+I2
+sVlobotomy
+p236
+I1
+sVillusion
+p237
+I2
+sVcyberspace
+p238
+I1
+sVplay
+p239
+I2
+sVgat
+p240
+I1
+sVbabies
+p241
+I1
+sVthough
+p242
+I1
+sVclone
+p243
+I1
+sVconceived
+p244
+I1
+sVsouthern
+p245
+I1
+sVbreasts
+p246
+I1
+sVprecision
+p247
+I1
+sVsaid
+p248
+I2
+sVbullets
+p249
+I1
+sVrealness
+p250
+I1
+sVrecords
+p251
+I1
+sVsuck
+p252
+I1
+sVlap
+p253
+I2
+sVslang
+p254
+I1
+sVman
+p255
+I1
+sVrefuse
+p256
+I1
+sVquicker
+p257
+I1
+sVvice
+p258
+I1
+sVlook
+p259
+I1
+sVlight
+p260
+I1
+sVage
+p261
+I1
+sVyoure
+p262
+I1
+sVface
+p263
+I1
+sVthought
+p264
+I1
+sVmildo
+p265
+I1
+sVbuggin
+p266
+I1
+sVsafe
+p267
+I1
+sVmamma
+p268
+I1
+sVtime
+p269
+I14
+sVbanks
+p270
+I1
+sVscsi
+p271
+I1
+sVplaying
+p272
+I1
+sVtalk
+p273
+I1
+sVleft
+p274
+I1
+s.

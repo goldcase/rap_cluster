@@ -1,131 +1,533 @@
-"i believe in you" lyrics
-snoop dogg lyrics
-"i believe in you"
-(feat. latoiya williams)
-i'm so glad that you believe in me like i believe in you
-this love's exactly how i picture... (how i picture)
-it's such a joy when i receive all that i need in you
-we're flowing smooth just like a river... (like a river)
-express my true
-when, i make love to you... (to you)
-just like that day back in september
-if we might run in some problems
-i know you'll see me through
-there's nothing for you i wont do
-cause i believe in you... (you)
-oh i believe in you... (you)
-and i believe in you too
-see can't nobody make me do what you do
-i mean i'm so in love with you... (boo)
-i never thought a girl could make me
-take me
-to a whole new world
-re-shape me, love me, hate me
-lately
-we ain't been fussing or fighting
-you play all day and i be working at night and
-the only one who understands my life and
-the cake and the icing
-these other girls
-in the world
-live their life so trifling
-i couldn't do it no more
-i had to sit you down
-and make you my wife and... (yaa)
-cold thing
-but you know
-it's a cold gain... (goal gain)
-it's so real
-i had to bless you with my last name... (last name)
-slowed me down
-straight took me out the fast lane... (fast lane)
-hold me down
-come on baby
-watch me do this thing... (do it)
-i been crowned king
-so i guess that means you're my queen
-you have my seeds
-lets go ahead and raise this team
-it's so special
-you're all i ever need
-i'm feeling good and my baby's home
-you're spending time
-holding hands
-to this beat
-the fellow that can satisfy my every need
-is he the one?
-we've been around and we're both grown... (grown)
-look at me... (me)
-i'm like a baby
-i took that chance
-and i feel secure about this love romance
-let's have some fun
-and i believe when you say
-ain't that special... (oh)
-touch my soul... (soul)
-feel the same
-when you whisper softly
-and call my name
-here i come
-it's more than words that i ever could sing
-you're that chill bring
-maybe your walk or just the way you do me
-i really think we are the two
-cause i believe in you
-take a second realize we can make it if you
-don't stop
-come on boy we about to take it
-to the top
-i know you're gonna love what you're about to see
-do you believe in me?
-we can make it all nite long
-baby if we
-don't stop
-come on boy you know you got me
-so hot
-i know i'm gonna love what you're about to do
-cause i believe in you
-i believe in you
-and i believe in you too
-cause its the right thing to do
-and i believe in you too
-cause its the only thing to do
-i couldn't give you away
-no matter what my friends sizzay
-see when i'm gone
-away from home
-i'm alone every dizzay
-i left a gang of messages for you
-on your two way
-but you ain't hollered back
-but you know how, you play
-you say, ok
-i say, no way
-we got to be together forever
-and a dizzay
-cause i believe in you
-take a second realize we can make it if we
-don't stop
-come on boy we about to take it
-to the top
-i know you're gonna love what you're about to see
-do you believe in me?
-we can make it all nite long
-baby if we
-don't stop
-come on boy you know you got me
-so hot
-i know i'm gone love what you're about to do
-cause i believe in you
-i'm so glad that you believe in me like i believe in you
-this love's exactly how i picture
-it's such a joy when i receive all that i need in you
-we're flowing smooth just like a river... (like a river)
-express my true
-when, i make love to you... (to you)
-just like that day back in september
-if we might run in some problems
-i know you'll see me through
-there's nothing for you i won't do
-cause i believe in you... (you)
-oh i believe in you... (you)
+(dp1
+Vlyrics
+p2
+I2
+sVseptember
+p3
+I2
+sVqueen
+p4
+I1
+sVbring
+p5
+I1
+sVever
+p6
+I2
+sVthrough
+p7
+I2
+sVgang
+p8
+I1
+sVgo
+p9
+I1
+sVcold
+p10
+I2
+sVfeat
+p11
+I1
+sVdont
+p12
+I4
+sVaint
+p13
+I3
+sVhold
+p14
+I1
+sVgot
+p15
+I3
+sVrealize
+p16
+I2
+sVlets
+p17
+I2
+sVteam
+p18
+I1
+sVmight
+p19
+I2
+sVreal
+p20
+I1
+sVdo
+p21
+I7
+sVsnoop
+p22
+I1
+sVicing
+p23
+I1
+sVmeans
+p24
+I1
+sVbeat
+p25
+I1
+sVexpress
+p26
+I2
+sVwatch
+p27
+I1
+sVevery
+p28
+I2
+sVknow
+p29
+I10
+sVwords
+p30
+I1
+sVhands
+p31
+I1
+sVworld
+p32
+I2
+sVwalk
+p33
+I1
+sVday
+p34
+I3
+sVlike
+p35
+I9
+sVwont
+p36
+I2
+sVname
+p37
+I3
+sVyoull
+p38
+I2
+sVbless
+p39
+I1
+sVsoftly
+p40
+I1
+sVnight
+p41
+I1
+sVriver
+p42
+I4
+sVmean
+p43
+I1
+sVweve
+p44
+I1
+sVright
+p45
+I1
+sVback
+p46
+I3
+sVsoul
+p47
+I2
+sVfussing
+p48
+I1
+sVtouch
+p49
+I1
+sVsee
+p50
+I6
+sVhome
+p51
+I2
+sVgirl
+p52
+I1
+sVspecial
+p53
+I2
+sVreally
+p54
+I1
+sVgon
+p55
+I3
+sVhate
+p56
+I1
+sVaway
+p57
+I2
+sVnite
+p58
+I2
+sVflowing
+p59
+I2
+sVnew
+p60
+I1
+sVcause
+p61
+I8
+sVsatisfy
+p62
+I1
+sVwe
+p63
+I3
+sVrun
+p64
+I2
+sVjoy
+p65
+I2
+sVnever
+p66
+I1
+sVfun
+p67
+I1
+sValone
+p68
+I1
+sVcrowned
+p69
+I1
+sVcome
+p70
+I6
+sVboy
+p71
+I4
+sVlast
+p72
+I2
+sVworking
+p73
+I1
+sVahead
+p74
+I1
+sVoh
+p75
+I3
+sVreceive
+p76
+I2
+sVcould
+p77
+I2
+sVmessages
+p78
+I1
+sVthing
+p79
+I4
+sVseeds
+p80
+I1
+sVboo
+p81
+I1
+sVsizzay
+p82
+I1
+sVwhole
+p83
+I1
+sVthink
+p84
+I1
+sVlove
+p85
+I9
+sVsecure
+p86
+I1
+sVfeel
+p87
+I2
+sVone
+p88
+I2
+sVdown
+p89
+I3
+sVna
+p90
+I3
+sVlong
+p91
+I2
+sVsing
+p92
+I1
+sVcouldnt
+p93
+I2
+sVsecond
+p94
+I2
+sVguess
+p95
+I1
+sVraise
+p96
+I1
+sVlatoiya
+p97
+I1
+sVspending
+p98
+I1
+sVdogg
+p99
+I1
+sVtop
+p100
+I2
+sVgirls
+p101
+I1
+sVtwo
+p102
+I2
+sVfast
+p103
+I2
+sVlive
+p104
+I1
+sVcall
+p105
+I1
+sVtoo
+p106
+I3
+sVway
+p107
+I3
+sVyaa
+p108
+I1
+sVwilliams
+p109
+I1
+sVmore
+p110
+I1
+sVlane
+p111
+I2
+sVlife
+p112
+I2
+sVnobody
+p113
+I1
+sVtook
+p114
+I2
+sVgain
+p115
+I2
+sVbaby
+p116
+I4
+sVok
+p117
+I1
+sVbelieve
+p118
+I21
+sVtrue
+p119
+I2
+sVglad
+p120
+I2
+sVchill
+p121
+I1
+sVme
+p122
+I9
+sVking
+p123
+I1
+sVbabys
+p124
+I1
+sVlook
+p125
+I1
+sVstraight
+p126
+I1
+sVsmooth
+p127
+I2
+sVslowed
+p128
+I1
+sVmatter
+p129
+I1
+sVloves
+p130
+I2
+sVcake
+p131
+I1
+sVfeeling
+p132
+I1
+sVsay
+p133
+I3
+sVtheres
+p134
+I2
+sVand
+p135
+I2
+sVgone
+p136
+I2
+sVgive
+p137
+I1
+sVwhisper
+p138
+I1
+sVit
+p139
+I3
+sVfellow
+p140
+I1
+sVcant
+p141
+I1
+sVgood
+p142
+I1
+sVim
+p143
+I9
+sVtogether
+p144
+I1
+sVneed
+p145
+I4
+sVaround
+p146
+I1
+sVgrown
+p147
+I2
+sVgoal
+p148
+I1
+sVsit
+p149
+I1
+sVreshape
+p150
+I1
+sVmake
+p151
+I9
+sVsame
+p152
+I1
+sVlately
+p153
+I1
+sVromance
+p154
+I1
+sVhot
+p155
+I2
+sVtake
+p156
+I5
+sVholding
+p157
+I1
+sVyou
+p158
+I18
+sVpicture
+p159
+I3
+sVplay
+p160
+I2
+sVexactly
+p161
+I2
+sVstop
+p162
+I4
+sVproblems
+p163
+I2
+sVchance
+p164
+I1
+sVhollered
+p165
+I1
+sVnothing
+p166
+I2
+sVfriends
+p167
+I1
+sVtrifling
+p168
+I1
+sVforever
+p169
+I1
+sVunderstands
+p170
+I1
+sVwife
+p171
+I1
+sVmaybe
+p172
+I1
+sVyoure
+p173
+I10
+sVfighting
+p174
+I1
+sVthought
+p175
+I1
+sVtime
+p176
+I1
+sVleft
+p177
+I1
+sVdizzay
+p178
+I2
+s.

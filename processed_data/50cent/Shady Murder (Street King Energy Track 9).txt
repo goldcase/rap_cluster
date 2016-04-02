@@ -1,54 +1,498 @@
-"shady murder (street king energy track #9)" lyrics
-50 cent lyrics
-"shady murder (street king energy track #9)"
-ay yo fif’ i was thinking you should go back to doing the shit you used to do
-murder them, murder them
-they violate, i demonstrate
-yeah, i’ll murder them
-niggas be fronting word up
-they stunting till they hurt up
-that semi talk i’ll let it buck
-i had these niggas running hard
-i’ll pull a nigga’s skirt up and have him kicking dirt up
-i’ll get a nigga an’ a nigga back up stupid hard
-silence it’s the return of the tyrant
-seein’ through my third eye with both closed eyelids
-stand closer to the homie you gon’ to die with
-flames come up out the muzzle wanting shit that i did
-i’m talking like the feds ain’t listening
-nigga this is a pool of piranhas you’re fishing in
-i give to a nigga if he want it
-better ask niggas about me i’ll be on it
-i get to drop, blow out your knot, perfect planning
-hit your back with something hot out the cannon
-it’s murder one, it’s premeditated
-murder, then it’s another one
-back to back, put work in
-it’s murder one, it’s premeditated
-murder, then it’s another one
-back to back, put work in
-you know i ain’t got the strap on me
-holding that for me
-i’m fucked up, it really doesn’t matter though
-hundred 9mm shells in the calico
-wait, niggas drop like dominos
-run for your life, puta si vámonos
-i was taught to see my crew a long time ago
-grew up around cocaine, yeah even my mamma know
-i cut a o in the fo’ with seven at a time
-made four hundred of that, you know a nigga grind
-like cindy lauper bitch, time after time
-a nigga shine like a nickel nine
-i’ve been talking to the man in the mirror
-nigga so ass they was shaking like shakira
-it seems like my vision’s gettin’ clearer
-see me coming with the hammer out, death is gettin near ya
-it’s funny how niggas never hear ya, till you run down on ‘em
-gun down on ‘em
-it’s murder one, it’s premeditated
-murder, then it’s another one
-back to back, put work in
-it’s murder one, it’s premeditated
-murder, then it’s another one
-back to back, put work in
-yeah starting to feel like the old me (ha ha)
+(dp1
+Vpremeditated
+p2
+I4
+sVlistening
+p3
+I1
+sVlyrics
+p4
+I2
+sVya
+p5
+I2
+sVgun
+p6
+I1
+sVfour
+p7
+I1
+sVplanning
+p8
+I1
+sVfishing
+p9
+I1
+sVtyrant
+p10
+I1
+sVgo
+p11
+I1
+sVdoesn\u2019t
+p12
+I1
+sVblow
+p13
+I1
+sVmuzzle
+p14
+I1
+sVcut
+p15
+I1
+sVviolate
+p16
+I1
+sVthinking
+p17
+I1
+sVit\u2019s
+p18
+I14
+sVseems
+p19
+I1
+sVcrew
+p20
+I1
+sVbetter
+p21
+I1
+sVdo
+p22
+I1
+sVthem
+p23
+I2
+sVreturn
+p24
+I1
+sVaround
+p25
+I1
+sVyo
+p26
+I1
+sVget
+p27
+I2
+sVi\u2019m
+p28
+I2
+sVcannon
+p29
+I1
+sVmade
+p30
+I1
+sVknow
+p31
+I3
+sVknot
+p32
+I1
+sVstrap
+p33
+I1
+sVlike
+p34
+I7
+sVsemi
+p35
+I1
+sVdid
+p36
+I1
+sVdie
+p37
+I1
+sVdrop
+p38
+I2
+sV50
+p39
+I1
+sVeyelids
+p40
+I1
+sVstupid
+p41
+I1
+sVfif\u2019
+p42
+I1
+sVshaking
+p43
+I1
+sVbitch
+p44
+I1
+sVass
+p45
+I1
+sVnigga
+p46
+I7
+sVold
+p47
+I1
+sVenergy
+p48
+I2
+sVhard
+p49
+I2
+sVback
+p50
+I11
+sVyou\u2019re
+p51
+I1
+sVi\u2019ve
+p52
+I1
+sVsee
+p53
+I2
+sVstreet
+p54
+I2
+sVmirror
+p55
+I1
+sVgettin\u2019
+p56
+I1
+sVhammer
+p57
+I1
+sVshakira
+p58
+I1
+sVreally
+p59
+I1
+sVcloser
+p60
+I1
+sVstunting
+p61
+I1
+sVclosed
+p62
+I1
+sVgot
+p63
+I1
+sVpiranhas
+p64
+I1
+sVperfect
+p65
+I1
+sVrun
+p66
+I2
+sVdirt
+p67
+I1
+sVnever
+p68
+I1
+sVfo\u2019
+p69
+I1
+sVkicking
+p70
+I1
+sVdeath
+p71
+I1
+sVlet
+p72
+I1
+sVask
+p73
+I1
+sVcome
+p74
+I1
+sVwait
+p75
+I1
+sVshine
+p76
+I1
+sVbuck
+p77
+I1
+sVflames
+p78
+I1
+sVvision\u2019s
+p79
+I1
+sVo
+I1
+sVstand
+p80
+I1
+sVcindy
+p81
+I1
+sVv�monos
+p82
+I1
+sV9mm
+p83
+I1
+sVsilence
+p84
+I1
+sVking
+p85
+I2
+sVfeel
+p86
+I1
+sVone
+p87
+I8
+sVput
+p88
+I4
+sVlong
+p89
+I1
+sVanother
+p90
+I4
+sVcocaine
+p91
+I1
+sVeye
+p92
+I1
+sVshells
+p93
+I1
+sVcent
+p94
+I1
+sVputa
+p95
+I1
+sVi\u2019ll
+p96
+I5
+sVhundred
+p97
+I2
+sVlife
+p98
+I1
+sVmurder
+p99
+I13
+sVnickel
+p100
+I1
+sVsomething
+p101
+I1
+sVyeah
+p102
+I3
+sVgettin
+p103
+I1
+sVtaught
+p104
+I1
+sVha
+p105
+I2
+sVwith
+p106
+I1
+sVcalico
+p107
+I1
+sVme
+p108
+I2
+sVpull
+p109
+I1
+sVgrew
+p110
+I1
+sVword
+p111
+I1
+sVniggas
+p112
+I5
+sVain\u2019t
+p113
+I2
+sVwork
+p114
+I4
+sVup
+p115
+I3
+sVmatter
+p116
+I1
+sVnear
+p117
+I1
+sVfronting
+p118
+I1
+sVnine
+p119
+I1
+sVdemonstrate
+p120
+I1
+sVseein\u2019
+p121
+I1
+sVseven
+p122
+I1
+sVgive
+p123
+I1
+sVit
+p124
+I2
+sVtalking
+p125
+I2
+sVhomie
+p126
+I1
+sVnigga\u2019s
+p127
+I1
+sVwant
+p128
+I1
+sVin
+p129
+I5
+sVay
+p130
+I1
+sVhit
+p131
+I1
+sVgrind
+p132
+I1
+sVskirt
+p133
+I1
+sVshit
+p134
+I2
+sVfunny
+p135
+I1
+sV\u2018em
+p136
+I2
+sVtill
+p137
+I2
+sVhot
+p138
+I1
+sVholding
+p139
+I1
+sV9
+I2
+sVwanting
+p140
+I1
+sVeven
+p141
+I1
+sVused
+p142
+I1
+sVthough
+p143
+I1
+sVtrack
+p144
+I2
+sVclearer
+p145
+I1
+sVdominos
+p146
+I1
+sVrunning
+p147
+I1
+sVfeds
+p148
+I1
+sVcoming
+p149
+I1
+sVfucked
+p150
+I1
+sVhurt
+p151
+I1
+sVpool
+p152
+I1
+sVman
+p153
+I1
+sVago
+p154
+I1
+sVthird
+p155
+I1
+sVlauper
+p156
+I1
+sVshady
+p157
+I2
+sVan\u2019
+p158
+I1
+sVsi
+p159
+I1
+sVmamma
+p160
+I1
+sVtime
+p161
+I4
+sVhear
+p162
+I1
+sVstarting
+p163
+I1
+sVgon\u2019
+p164
+I1
+sVtalk
+p165
+I1
+s.

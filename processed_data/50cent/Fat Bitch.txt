@@ -1,79 +1,472 @@
-"fat bitch" lyrics
-50 cent lyrics
-"fat bitch"
-(feat. g-unit)
-we over here... with some fat chicks
-nah, i don't be fuckin wit them fat bitches
-that's yayo
-don't be stuck on the things they say
-now you know it's a nasty world (you know it's a nasty world)
-i ain't fuckin wit you anyway
-cause i know your a nasty girl (know your a nasty girl)
-i ain't never gon discriminate
-so let me compliment your eyes (compliment my eyes)
-yeah, it's nothin' but a little baby phat phat
-them twinkies got your ass gettin' fat fat
-them cookies got your ass gettin' fat fat
-that cake got your ass gettin' fat fat
-bitch you grown, that ain't baby fat fat
-in the gym i see your ass up on the stair master
-but you got it on level 2, bitch go a little faster
-look girl i ain't gon lie, i'll tell you how i feel
-they should hand cuff your big ass to the treadmill
-you wanna work out now, cause you know its gettin' hot
-and your big ass fin to pop all up out the halter top
-find the right chick, wearing some tight shit, and it's on
-see your ass wearing some tight shit, we like "she wrong"
-don't be stuck on the things they say
-now you know it's a nasty world (know it's a nasty world)
-i ain't fuckin wit you anyway
-cause i know your a nasty girl - you's a nasty girl (know your a nasty girl)
-i ain't never gon discriminate
-so let me compliment your eyes (compliment my eyes)
-yeah, you got some nice eyes, but you's a big bitch man
-yeah, it's nothin' but a little baby phat phat
-that burger king dun got your ass fat fat
-mcdonald's dun got your ass fat fat
-that dominos dun got your ass fat fat
-yeah, it's nothin' but a little baby phat phat
-i like 'em slim in the waste, curves in the right place
-a bitch wit hips, lips, and a nice face
-your appetite'll put a dent up in a nigga salary
-you need to stop burnin that weed, and burn a calorie
-your attitude is like you always have gear
-you got a pony tail, you ain't always have hair
-i just wanna see your capri's comin' down
-mami we run the town, stay away if you 300 pounds
-don't be stuck on the things they say
-now you know it's a nasty world (know it's a nasty world)
-i ain't fuckin wit you anyway
-cause i know your a nasty girl - you's a nasty girl (know your a nasty girl)
-i ain't never gon discriminate
-so let me compliment your eyes
-i'll say something nice about ya eyes, cause you's a big bitch man
-yeah, it's nothin' but a little baby phat phat
-them entenmann's dun got your ass fat fat
-them little debbie's dun got your ass fat fat
-these cup cakes dun got your ass fat fat
-yeah, it's nothin' but a little baby phat phat
-i ain't no trick, i ain't have to borrow with my wallet
-freakin' off in your car, on your closet
-it ain't nothing wrong wit a big, strong girl
-if you can cook your ass off, i'll give you the world
-you can be skinny or fat, white or black
-nigga pussy is pussy so, yeah, i'll hit that
-i'm a freak, sure i love minage a trois
-and i really care lees if you twice my size
-don't be stuck on the things they say
-now you know it's a nasty world ' it's a nasty world
-i ain't fuckin wit you anyway
-cause i know your a nasty girl - you's a nasty girl
-i ain't never gon discriminate, so let me compliment your eyes
-i'm a compliment your eyes
-yayo'll fuck wit you big bitches but i'm a stay the fuck away from ya
-them twinkies got your ass gettin' fat fat
-them cookies got your ass gettin' fat fat
-that cake got your ass gettin' fat fat
-bitch you grown, that ain't baby fat fat
-stay the fuck away from, you fuckin fat bitch
-fuck wit tony yayo, ho
+(dp1
+Vchicks
+p2
+I1
+sVlyrics
+p3
+I2
+sVanyway
+p4
+I4
+sVattitude
+p5
+I1
+sVfreakin
+p6
+I1
+sVgo
+p7
+I1
+sVmcdonalds
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I15
+sVstair
+p12
+I1
+sVcup
+p13
+I1
+sVdebbies
+p14
+I1
+sVtail
+p15
+I1
+sVblack
+p16
+I1
+sVfin
+p17
+I1
+sVwearing
+p18
+I2
+sVhit
+p19
+I1
+sVstay
+p20
+I3
+sVya
+p21
+I2
+sVbig
+p22
+I6
+sVstop
+p23
+I1
+sVfat
+p24
+I34
+sVknow
+p25
+I15
+sVcook
+p26
+I1
+sVworld
+p27
+I9
+sVnasty
+p28
+I18
+sVdown
+p29
+I1
+sVlike
+p30
+I3
+sVlevel
+p31
+I1
+sValways
+p32
+I2
+sVgettin
+p33
+I7
+sV50
+p34
+I1
+sVtwice
+p35
+I1
+sVchick
+p36
+I1
+sVem
+p37
+I1
+sVcookies
+p38
+I2
+sVright
+p39
+I2
+sVyeah
+p40
+I7
+sVborrow
+p41
+I1
+sVhair
+p42
+I1
+sVburger
+p43
+I1
+sVsee
+p44
+I3
+sVgirl
+p45
+I12
+sVreally
+p46
+I1
+sVgon
+p47
+I5
+sVcloset
+p48
+I1
+sVwallet
+p49
+I1
+sVaway
+p50
+I3
+sVtreadmill
+p51
+I1
+sVgot
+p52
+I15
+sVcause
+p53
+I6
+sVcompliment
+p54
+I7
+sVass
+p55
+I17
+sVburn
+p56
+I1
+sVrun
+p57
+I1
+sV300
+p58
+I1
+sVnever
+p59
+I4
+sVlet
+p60
+I4
+sVgunit
+p61
+I1
+sVweed
+p62
+I1
+sVcare
+p63
+I1
+sVon
+p64
+I1
+sVminage
+p65
+I1
+sVill
+p66
+I4
+sVplace
+p67
+I1
+sVfuckin
+p68
+I6
+sVthats
+p69
+I1
+sVcakes
+p70
+I1
+sVlove
+p71
+I1
+sVdont
+p72
+I5
+sVfeel
+p73
+I1
+sVpussy
+p74
+I2
+sVpop
+p75
+I1
+sVcapris
+p76
+I1
+sVput
+p77
+I1
+sVwit
+p78
+I9
+sVbitch
+p79
+I9
+sVcomin
+p80
+I1
+sVtony
+p81
+I1
+sVfreak
+p82
+I1
+sVcalorie
+p83
+I1
+sVyous
+p84
+I5
+sVsize
+p85
+I1
+sVwan
+p86
+I2
+sVlittle
+p87
+I7
+sVstrong
+p88
+I1
+sVdun
+p89
+I6
+sVtop
+p90
+I1
+sVcent
+p91
+I1
+sVmami
+p92
+I1
+sVstuck
+p93
+I4
+sV2
+I1
+sVmaster
+p94
+I1
+sVwhite
+p95
+I1
+sVwaste
+p96
+I1
+sVtell
+p97
+I1
+sVeyes
+p98
+I9
+sVgear
+p99
+I1
+sVthat
+p100
+I1
+sVgym
+p101
+I1
+sVbitches
+p102
+I2
+sVyayoll
+p103
+I1
+sVnigga
+p104
+I2
+sVho
+p105
+I1
+sVbaby
+p106
+I7
+sVyayo
+p107
+I2
+sVtown
+p108
+I1
+sVking
+p109
+I1
+sVpounds
+p110
+I1
+sVlook
+p111
+I1
+sVappetitell
+p112
+I1
+sVcar
+p113
+I1
+sVwork
+p114
+I1
+sVlips
+p115
+I1
+sVtrick
+p116
+I1
+sVentenmanns
+p117
+I1
+sVcuff
+p118
+I1
+sVcake
+p119
+I2
+sVtwinkies
+p120
+I2
+sVpony
+p121
+I1
+sVgive
+p122
+I1
+sVslim
+p123
+I1
+sVfuck
+p124
+I4
+sVcurves
+p125
+I1
+sVsay
+p126
+I5
+sVim
+p127
+I3
+sVsomething
+p128
+I1
+sVneed
+p129
+I1
+sVdent
+p130
+I1
+sVshit
+p131
+I2
+sVgrown
+p132
+I2
+sVlie
+p133
+I1
+sVdiscriminate
+p134
+I4
+sVlees
+p135
+I1
+sVthings
+p136
+I4
+sVnah
+p137
+I1
+sVtight
+p138
+I2
+sVhot
+p139
+I1
+sVnice
+p140
+I3
+sVsure
+p141
+I1
+sVhalter
+p142
+I1
+sVhand
+p143
+I1
+sVdominos
+p144
+I1
+sVwrong
+p145
+I2
+sVnothing
+p146
+I1
+sVburnin
+p147
+I1
+sVman
+p148
+I2
+sVsalary
+p149
+I1
+sVtrois
+p150
+I1
+sVfaster
+p151
+I1
+sVphat
+p152
+I10
+sVnothin
+p153
+I5
+sVface
+p154
+I1
+sVna
+p155
+I2
+sVskinny
+p156
+I1
+sVhips
+p157
+I1
+s.

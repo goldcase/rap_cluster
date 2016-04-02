@@ -1,57 +1,356 @@
-"close your eyes outro" lyrics
-50 cent lyrics
-"close your eyes outro"
-{whooooooooo!}
-i need niggas to listen to me, right? i need you to close your eyes, right?
-and listen to me... and try to imagine what i'm doin' right here, right?
-okay, i'm in harlem... i know fo' sho' you don't know what... harlem looks like.
-okay, so... just imagine this!
-imagine a taxi cab, right? there's 15 taxi cabs in a roll... but they not yellowcaps!
-they're silver mercedes benzes!
-okay? because... we're not in new york... we're in harlem!
-okay? now look, an' imagine this!
-the door opens... at a 5-star hotel.
-there he is: "it's lloyd bank$! "
-he's walkin' out... look at him!
-aaaaaaaaaahhhhhh!
-the crowd goes wild!
-"lloyd bank$! lloyd bank$! could you sign my ass? "
-that's what she says...
-right?
-and while you look... you got ya eyes closed, right?!
-you supposed to be imagine it... okay?
-"lloyd bank$! lloyd bank$! sign my titties! "
-right? this is what they doin', right?
-and... while they're goin' crazy... they know this...
-ooooh!
-the other guy...
-the other guy: "that's 50cent! oh, my god! "
-now aaaaaaaooooooohhhh!
-the crowd goes wild.
-the guys are there...
-the guys gon': "yo! yo, 50 whattup? yo, yo whattup, my nigga? "
-and 50's lookin' like: "what the fuck are this groupie-ass nigga's doin' around me?! "
-do you understand...?!
-i'm like: "what tha fuck?! get the fuck from around me!
-why are bitches runnin' to bank$ an' the niggas comin' to me?
-what tha fuck is goin' on around here? "
-right? so close your eyes motherfucka! you s'pposed to be imagine it!
-so they lookin', right? and the lookin'...
-and they see the other guys comin' out of the "entourage".
-and they gon': "yo, who the fuck is he?! "
-and he can't quiet figure out who the fuck who is, because it's just... a member of the "entourage".
-but he has owned more fuckin' diamonds than that other guys!
-and now you like: "what tha fuck is goin' on heeere?! "
-and you thinkin' it: "this is a dream! "
-right?
-close your eyes, all right? you s'pposed to be imagine it.
-all right?
-and as you look closer... we start to know this...
-that everybody has their own diamonds.
-so... you see it yourself, you gon'... wait a minute!
-you wanna tell me everybody's rich?
-and then you see it yourself...
-damn!
-bein' down with g-unit is a dream!
-hahahahahaha!
-hahahahahahahaaaaaaaaaaaaaaaaaaaaahh!
+(dp1
+Vtaxi
+p2
+I2
+sVhahahahahahahaaaaaaaaaaaaaaaaaaaaahh
+p3
+I1
+sVwhattup
+p4
+I2
+sVlyrics
+p5
+I2
+sVlooks
+p6
+I1
+sVsilver
+p7
+I1
+sVooooh
+p8
+I1
+sVminute
+p9
+I1
+sVrich
+p10
+I1
+sVme
+p11
+I2
+sVaround
+p12
+I3
+sVyo
+p13
+I5
+sVget
+p14
+I1
+sVya
+p15
+I1
+sVbein
+p16
+I1
+sVhahahahahaha
+p17
+I1
+sVknow
+p18
+I4
+sVgot
+p19
+I1
+sVhim
+p20
+I1
+sVbank
+p21
+I6
+sVheeere
+p22
+I1
+sVlike
+p23
+I4
+sVbenzes
+p24
+I1
+sVtheyre
+p25
+I2
+sVgroupieass
+p26
+I1
+sVmercedes
+p27
+I1
+sVguy
+p28
+I2
+sVlloyd
+p29
+I5
+sVentourage
+p30
+I2
+sVright
+p31
+I14
+sVsays
+p32
+I1
+sVcrowd
+p33
+I2
+sVsign
+p34
+I2
+sVsee
+p35
+I3
+sVcabs
+p36
+I1
+sVcloser
+p37
+I1
+sVtry
+p38
+I1
+sVgon
+p39
+I3
+sVgod
+p40
+I1
+sVgoes
+p41
+I2
+sVdiamonds
+p42
+I2
+sVnew
+p43
+I1
+sVsupposed
+p44
+I1
+sVass
+p45
+I1
+sVyork
+p46
+I1
+sVimagine
+p47
+I7
+sVgunit
+p48
+I1
+sV50cent
+p49
+I1
+sVmotherfucka
+p50
+I1
+sVwait
+p51
+I1
+sVtitties
+p52
+I1
+sVoh
+p53
+I1
+sVcould
+p54
+I1
+sVquiet
+p55
+I1
+sVwalkin
+p56
+I1
+sVlookin
+p57
+I3
+sVsho
+p58
+I1
+sVfuckin
+p59
+I1
+sVthats
+p60
+I2
+sVdont
+p61
+I1
+sVowned
+p62
+I1
+sVyourself
+p63
+I1
+sVnigga
+p64
+I1
+sVcomin
+p65
+I2
+sVoutro
+p66
+I2
+sVeverybody
+p67
+I1
+sVwan
+p68
+I1
+sV5star
+p69
+I1
+sVhes
+p70
+I1
+sVthere
+p71
+I1
+sVcent
+p72
+I1
+sVstart
+p73
+I1
+sVdamn
+p74
+I1
+sVaaaaaaaaaahhhhhh
+p75
+I1
+sVclosed
+p76
+I1
+sVtell
+p77
+I1
+sVaaaaaaaooooooohhhh
+p78
+I1
+sVlisten
+p79
+I2
+sVeyes
+p80
+I6
+sVdoor
+p81
+I1
+sVbitches
+p82
+I1
+sVit
+p83
+I2
+sVunderstand
+p84
+I1
+sVrunnin
+p85
+I1
+sV15
+p86
+I1
+sVlook
+p87
+I4
+sVniggas
+p88
+I3
+sVthis
+p89
+I4
+sVopens
+p90
+I1
+sVwild
+p91
+I2
+sVcab
+p92
+I1
+sV50s
+p93
+I1
+sVtheres
+p94
+I1
+sVcrazy
+p95
+I1
+sVfigure
+p96
+I1
+sVfuck
+p97
+I7
+sVcant
+p98
+I1
+sVim
+p99
+I3
+sVclose
+p100
+I5
+sVneed
+p101
+I2
+sVwhooooooooo
+p102
+I1
+sVna
+p103
+I1
+sVthinkin
+p104
+I1
+sVmember
+p105
+I1
+sVfo
+p106
+I1
+sVroll
+p107
+I1
+sVeverybodys
+p108
+I1
+sVhotel
+p109
+I1
+sVokay
+p110
+I5
+sVdoin
+p111
+I3
+sVguys
+p112
+I4
+sVgoin
+p113
+I3
+sVspposed
+p114
+I2
+sVyellowcaps
+p115
+I1
+sVharlem
+p116
+I3
+sVdream
+p117
+I2
+sVtha
+p118
+I3
+sV50
+p119
+I2
+s.

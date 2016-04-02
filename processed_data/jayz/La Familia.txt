@@ -1,58 +1,353 @@
-"la familia" lyrics
-jay-z lyrics
-"la familia"
-head of the family
-el padrino
-welcome home to emory
-let's get back to this dinero
-niggas wanna kidnap wifey
-good luck with that bruh
-you must gonna hide your whole family
-what you think we wearing black for
-ready for that war
-ready for that war ready
-you ain't ready yo, you radio
-you ain't really ready
-real nigga outchea
-alpo bought his bricks here
-elvis got his records took
-it's like we got our seventh gear
-nfl investigations
-oh, don't make me laugh
-fbi investigation
-we stood up to that
-facts only
-everything real in my raps only
-every nigga real in my clique really
-everyone is a movie star you got to film me
-la familia
-ready for that war
-ready for that war, ready
-you ain't ready yo, you radio
-you ain't really ready
-head of the family
-el padrino
-my brothers is my brother like my brother is
-my nigga is my brother
-like my mother kids
-not in just in good times
-that's that sucka shit
-but it war times
-it just what it is
-head of the family
-all my niggas bosses though
-y'all don't understand we
-we talk that shit bosses know
-triple fuckin' og
-what's up to my nigga juan
-tell these niggaas pull their fuckin' skirt down
-i could see their ovaries
-niggas snitching switching teams
-out there telling bitches things
-industry talk behind your back
-ain't nobody got time for that
-facts only
-everything real in my raps only
-every nigga real in my clique really
-even the girls keep it two hundred and trilly
-it's la familia
+(dp1
+Vthings
+p2
+I1
+sVlyrics
+p3
+I2
+sVradio
+p4
+I2
+sVwifey
+p5
+I1
+sVpadrino
+p6
+I2
+sVfacts
+p7
+I2
+sVaint
+p8
+I5
+sVla
+p9
+I4
+sVonly
+p10
+I4
+sVblack
+p11
+I1
+sVwearing
+p12
+I1
+sVme
+p13
+I1
+sVgood
+p14
+I2
+sVyo
+p15
+I2
+sVget
+p16
+I1
+sVrecords
+p17
+I1
+sVevery
+p18
+I2
+sVknow
+p19
+I1
+sVbosses
+p20
+I2
+sVtelling
+p21
+I1
+sVlike
+p22
+I3
+sVnfl
+p23
+I1
+sVbrother
+p24
+I3
+sVteams
+p25
+I1
+sVyall
+p26
+I1
+sVluck
+p27
+I1
+sVel
+p28
+I2
+sVnigga
+p29
+I5
+sVback
+p30
+I2
+sVsee
+p31
+I1
+sVhome
+p32
+I1
+sVkidnap
+p33
+I1
+sVreally
+p34
+I4
+sVeven
+p35
+I1
+sVgon
+p36
+I1
+sVhide
+p37
+I1
+sVfor
+p38
+I1
+sVmovie
+p39
+I1
+sVthough
+p40
+I1
+sVeverything
+p41
+I2
+sVbehind
+p42
+I1
+sVinvestigation
+p43
+I1
+sVgot
+p44
+I4
+sVbought
+p45
+I1
+sVwe
+p46
+I1
+sVdinero
+p47
+I1
+sVseventh
+p48
+I1
+sVhere
+p49
+I1
+sVclique
+p50
+I2
+sVkids
+p51
+I1
+sVoh
+p52
+I1
+sVog
+p53
+I1
+sVcould
+p54
+I1
+sVtimes
+p55
+I2
+sVwhole
+p56
+I1
+sVthink
+p57
+I1
+sVfuckin
+p58
+I2
+sVthats
+p59
+I1
+sVwhats
+p60
+I1
+sVdont
+p61
+I2
+sVfamily
+p62
+I4
+sVbricks
+p63
+I1
+sVtwo
+p64
+I1
+sVdown
+p65
+I1
+sVjayz
+p66
+I1
+sVeveryone
+p67
+I1
+sVlaugh
+p68
+I1
+sVfbi
+p69
+I1
+sVwan
+p70
+I1
+sVemory
+p71
+I1
+sVgirls
+p72
+I1
+sVlets
+p73
+I1
+sVbruh
+p74
+I1
+sVhundred
+p75
+I1
+sVwar
+p76
+I5
+sVhead
+p77
+I3
+sVgear
+p78
+I1
+sVthat
+p79
+I2
+sVelvis
+p80
+I1
+sVbitches
+p81
+I1
+sVtook
+p82
+I1
+sVsnitching
+p83
+I1
+sVunderstand
+p84
+I1
+sVfamilia
+p85
+I4
+sVmust
+p86
+I1
+sVoutchea
+p87
+I1
+sVpull
+p88
+I1
+sVniggas
+p89
+I3
+sVniggaas
+p90
+I1
+sVtell
+p91
+I1
+sVtime
+p92
+I1
+sVindustry
+p93
+I1
+sVsucka
+p94
+I1
+sVreal
+p95
+I5
+sVraps
+p96
+I2
+sVis
+p97
+I2
+sVtriple
+p98
+I1
+sVready
+p99
+I10
+sVkeep
+p100
+I1
+sVskirt
+p101
+I1
+sVfilm
+p102
+I1
+sVna
+p103
+I2
+sVmake
+p104
+I1
+sVshit
+p105
+I2
+sVswitching
+p106
+I1
+sVnobody
+p107
+I1
+sVstar
+p108
+I1
+sVbrothers
+p109
+I1
+sVinvestigations
+p110
+I1
+sVwelcome
+p111
+I1
+sVovaries
+p112
+I1
+sVtrilly
+p113
+I1
+sVstood
+p114
+I1
+sVmother
+p115
+I1
+sValpo
+p116
+I1
+sVjuan
+p117
+I1
+sVtalk
+p118
+I2
+s.

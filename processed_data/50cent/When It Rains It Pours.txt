@@ -1,66 +1,512 @@
-"when it rains it pours" lyrics
-50 cent lyrics
-"when it rains it pours"
-yeah..
-its 50
-one shot, one kill, what's the deal?
-yeah, what's the deal?
-listen..
-lil' homie, when it rains it pours
-hollow tips and talons, when it rains it pours
-you caught in lead showers, just because
-niggaz aint playin', when it rains it pours
-niggaz get set up, cuz when it rains it pours
-end up wed up, cuz when it rains it pours
-it usually, goes down over money and whores
-but lil' homie, in my hood, when it rains it pours
-aint nutin changed, niggaz doin the same old shit
-them new hollow tips and them same old clips
-in the projects niggaz fuck with the same old chicks
-and somehow they still think there game so sick
-now i'm finna rip, niggaz know i'm about my grip
-i dont trick man i barely even feed a bitch
-she say im stingy, i said i dont need you bitch
-go ahead leave, see if i chase you, shiit
-tell your mami, i catch her on the street i'ma get her
-she know i'm on parole, why she call police on a nigga
-she jus' mad, cuz a nigga pockets all swoll'
-when she asked to borrow sumthin', i said hell naw
-i was tellin' the lil' homies all about this shit
-so keep your mind on your money and dont trus no bitch
-keep your head high notes when them pigs came
-but her ass kinda fat so niggaz treat her the same
-this is real..
-lil' homie, when it rains it pours
-hollow tips and talons, when it rains it pours
-you caught in lead showers, just because
-niggaz aint playin', when it rains it pours
-niggaz get set up, cuz when it rains it pours
-end up wed up, cuz when it rains it pours
-it usually, goes down over money and whores
-but lil' homie, in my hood, when it rains it pours
-it was blood stains on my stoop when ??eyeball?? got shot
-when homicide outside, nigga i'm not
-its the third time niggaz dunn circled the block
-its money out now, yeah, but damn its hot
-they love to catch a nigga on a direct sale
-they say tell us who caught the body or you goin' to jail
-look if you know the drill you stay the fuck outta dodge
-say what's happenin' to the captain and what's up to the searg'
-fuck bein' in a cage man that shit for the birds
-charlie drunk drinkin' while irish row's on the curb
-i know a spot fulla niggaz tryna get a few bucks
-hopin' then nutin' come out they gon' have um some luck
-ph to the deuce, they stumbled off matt
-lost his re-up money man that's all he had
-magazine from the store so he can look at the cars
-and do pull-ups in the park on the monkey bars
-man it's fucked..
-lil' homie, when it rains it pours
-hollow tips and talons, when it rains it pours
-you caught in lead showers, just because
-niggaz aint playin', when it rains it pours
-niggaz get set up, cuz when it rains it pours
-end up wed up, cuz when it rains it pours
-it usually, goes down over money and whores
-but lil' homie, in my hood, when it rains it pours
+(dp1
+Vchicks
+p2
+I1
+sVshot
+p3
+I2
+sVlyrics
+p4
+I2
+sVstains
+p5
+I1
+sVmoney
+p6
+I6
+sVkill
+p7
+I1
+sVgo
+p8
+I1
+sVhell
+p9
+I1
+sVstill
+p10
+I1
+sVbirds
+p11
+I1
+sVaint
+p12
+I4
+sVdeuce
+p13
+I1
+sVpolice
+p14
+I1
+sVwed
+p15
+I3
+sVhad
+p16
+I1
+sVcuz
+p17
+I7
+sVgon
+p18
+I1
+sVhomies
+p19
+I1
+sVgrip
+p20
+I1
+sVget
+p21
+I5
+sVtalons
+p22
+I3
+sVbein
+p23
+I1
+sVfat
+p24
+I1
+sVgame
+p25
+I1
+sVknow
+p26
+I4
+sVgot
+p27
+I1
+sVnot
+p28
+I1
+sVone
+p29
+I2
+sVcage
+p30
+I1
+sVprojects
+p31
+I1
+sVlost
+p32
+I1
+sVnotes
+p33
+I1
+sV50
+p34
+I2
+sVleave
+p35
+I1
+sVfulla
+p36
+I1
+sVluck
+p37
+I1
+sVbody
+p38
+I1
+sVbars
+p39
+I1
+sVbecause
+p40
+I3
+sVold
+p41
+I3
+sVsearg
+p42
+I1
+sVdeal
+p43
+I2
+sVyeah
+p44
+I3
+sVborrow
+p45
+I1
+sVsee
+p46
+I1
+sVstreet
+p47
+I1
+sVtellin
+p48
+I1
+sVplayin
+p49
+I3
+sVfinna
+p50
+I1
+sVeven
+p51
+I1
+sVclips
+p52
+I1
+sVmatt
+p53
+I1
+sVsaid
+p54
+I2
+sVlead
+p55
+I3
+sVthats
+p56
+I1
+sVstoop
+p57
+I1
+sVoutside
+p58
+I1
+sVstingy
+p59
+I1
+sVgoes
+p60
+I3
+sVnew
+p61
+I1
+sVtips
+p62
+I4
+sVass
+p63
+I1
+sVima
+p64
+I1
+sVdunn
+p65
+I1
+sVlove
+p66
+I1
+sVdrinkin
+p67
+I1
+sVpours
+p68
+I20
+sVcars
+p69
+I1
+sVpullups
+p70
+I1
+sVshiit
+p71
+I1
+sVcome
+p72
+I1
+sVahead
+p73
+I1
+sVbarely
+p74
+I1
+sVkeep
+p75
+I2
+sVmagazine
+p76
+I1
+sVpockets
+p77
+I1
+sVusually
+p78
+I3
+sVasked
+p79
+I1
+sVblock
+p80
+I1
+sVblood
+p81
+I1
+sVfeed
+p82
+I1
+sVwhats
+p83
+I4
+sVdont
+p84
+I3
+sVhopin
+p85
+I1
+sVdrunk
+p86
+I1
+sVhollow
+p87
+I4
+sVhappenin
+p88
+I1
+sVset
+p89
+I3
+sVbitch
+p90
+I3
+sVhood
+p91
+I3
+sVrows
+p92
+I1
+sVmonkey
+p93
+I1
+sVher
+p94
+I1
+sVcaught
+p95
+I4
+sVcent
+p96
+I1
+sVmami
+p97
+I1
+sVcall
+p98
+I1
+sVtreat
+p99
+I1
+sVdamn
+p100
+I1
+sVph
+p101
+I1
+sVgoin
+p102
+I1
+sVtell
+p103
+I2
+sVstore
+p104
+I1
+sVlisten
+p105
+I1
+sVtryna
+p106
+I1
+sVhead
+p107
+I1
+sVtrus
+p108
+I1
+sVpark
+p109
+I1
+sVsomehow
+p110
+I1
+sVjus
+p111
+I1
+sVnigga
+p112
+I4
+sVcatch
+p113
+I2
+sVsumthin
+p114
+I1
+sVswoll
+p115
+I1
+sVcaptain
+p116
+I1
+sVlook
+p117
+I2
+sVdodge
+p118
+I1
+sVniggaz
+p119
+I12
+sVtrick
+p120
+I1
+sVdrill
+p121
+I1
+sVcharlie
+p122
+I1
+sVcurb
+p123
+I1
+sVreal
+p124
+I1
+sVirish
+p125
+I1
+sVchanged
+p126
+I1
+sVoutta
+p127
+I1
+sVmind
+p128
+I1
+sVfuck
+p129
+I3
+sVrip
+p130
+I1
+sVhigh
+p131
+I1
+sVsay
+p132
+I3
+sVhomie
+p133
+I6
+sVim
+p134
+I5
+sVshowers
+p135
+I3
+sVneed
+p136
+I1
+sVbucks
+p137
+I1
+sVshit
+p138
+I3
+sVchase
+p139
+I1
+sVhomicide
+p140
+I1
+sVstumbled
+p141
+I1
+sVend
+p142
+I3
+sVus
+p143
+I1
+sVrains
+p144
+I20
+sVsame
+p145
+I1
+sVhot
+p146
+I1
+sVnaw
+p147
+I1
+sVsick
+p148
+I1
+sVeyeball
+p149
+I1
+sVreup
+p150
+I1
+sVdoin
+p151
+I1
+sVspot
+p152
+I1
+sVstay
+p153
+I1
+sVpigs
+p154
+I1
+sVmad
+p155
+I1
+sVkinda
+p156
+I1
+sVcircled
+p157
+I1
+sVfucked
+p158
+I1
+sVman
+p159
+I4
+sVum
+p160
+I1
+sVwhores
+p161
+I3
+sVthird
+p162
+I1
+sVdirect
+p163
+I1
+sVsale
+p164
+I1
+sVthink
+p165
+I1
+sVlil
+p166
+I7
+sVjail
+p167
+I1
+sVtime
+p168
+I1
+sVparole
+p169
+I1
+sVnutin
+p170
+I2
+sVcame
+p171
+I1
+s.

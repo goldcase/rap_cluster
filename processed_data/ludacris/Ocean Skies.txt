@@ -1,67 +1,542 @@
-"ocean skies" lyrics
-ludacris lyrics
-"ocean skies"
-(feat. monica)
-(applause)
-and the winner, for the best rap album goes to
-ludacris it’s your year baby
-(applause)
-this goes out to my father, who is in critical condition right now
-i appreciate your prayers
-mr. wayne bridges
-i love you
-rest in peace wayne bridges
-you're still living through me
-listen!
-look, i lost my father to the bottle
-i'd hug him everyday like i might not see him tomorrow
-got a little sorrow for a lifetime
-cause when he was living i'm thinking how do i get him to listen
-when he was seldom in his right mind
-my early years i was too young to understand
-but i remember the smell of beer and seeing all the empty cans
-waking up, crying in the night, hearing arguments
-hands off my momma, somehow i knew he was the cause of it
-got a little older and he got a little worse
-drinking must be his remedy, he got a little cursed
-well, tell me what's the cure for a man who miss his pops
-the beat goes on, but the drinking's gotta stop!
-if i had have know i wouldn't see you tomorrow
-i would've had you hold to your heart, and put your love in a bottle, hey
-but now you got me  out that pain, gone after sorrow
-wishing every day you were here with me
-but now that you're gone, i lost my heart to the bottle, to the bottle
-ooh oh oh
-yeah, i lost my father to the bottle
-function and alcoholics what they call it far as i know
-became a teenager and started to understand
-but even through drinks he still taught me to be a man
-so before the hospital, when the paramedics rest him
-he knew that everybody who met him, instantly loved him
-i run the con concerts? would have made him even sicker
-cause who gon' tell him he can't drink none of his son's liquor
-and tell me without my father how am i supposed to manage?!
-he had the biggest heart, but also had that liver damage
-tell me what's the cure for a man who miss his paps
-the beat goes on, but the drinking' gotta stop!
-not a day goes by that i don't miss ya, and don't wish you were here with me
-no matter what you did, i forgive you!
-i lost my father to the bottle
-tell your parents you love 'em
-you might not see them tomorrow!
-i swallow my pride, try to put my problems aside
-but i feel so hollow inside
-gotta keep my eyes on the prize
-cause i'm steady wishing you were here
-to see the goals that i plan to reach
-you left the day after i put you into my grammy speech
-it's almost like you waited just to see me win
-well, pops i can't wait untill the day we meet!
-i can't get over you you you, hey
-love in a bottle, hey heyyy
-oh, i miss you!
-i wanna see you tomorrow
-i wanna see you again
-i wanna see you tomorrow
-i miss you, you you you you
-i love you, you you you
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I2
+sVya
+p4
+I1
+sVwishing
+p5
+I2
+sVrest
+p6
+I2
+sVyears
+p7
+I1
+sVpops
+p8
+I2
+sVwhats
+p9
+I2
+sVstill
+p10
+I2
+sVfeat
+p11
+I1
+sVgrammy
+p12
+I1
+sVbridges
+p13
+I2
+sValso
+p14
+I1
+sVthinking
+p15
+I1
+sVwinner
+p16
+I1
+sVfather
+p17
+I5
+sVyoung
+p18
+I1
+sVhim
+p19
+I2
+sVto
+p20
+I1
+sVwayne
+p21
+I2
+sVparents
+p22
+I1
+sVteenager
+p23
+I1
+sVcrying
+p24
+I1
+sVpride
+p25
+I1
+sVmight
+p26
+I2
+sVskies
+p27
+I2
+sVta
+p28
+I3
+sVmonica
+p29
+I1
+sVapplause
+p30
+I2
+sVworse
+p31
+I1
+sVget
+p32
+I2
+sVbeat
+p33
+I2
+sVstop
+p34
+I2
+sVearly
+p35
+I1
+sVremedy
+p36
+I1
+sValcoholics
+p37
+I1
+sVevery
+p38
+I1
+sVknow
+p39
+I2
+sVhollow
+p40
+I1
+sVhands
+p41
+I1
+sVdrinking
+p42
+I2
+sVnow
+p43
+I1
+sVday
+p44
+I4
+sVcondition
+p45
+I1
+sVprize
+p46
+I1
+sVlike
+p47
+I2
+sVlost
+p48
+I4
+sVseldom
+p49
+I1
+sVtry
+p50
+I1
+sVnight
+p51
+I1
+sVconcerts
+p52
+I1
+sVem
+p53
+I1
+sVright
+p54
+I2
+sVprayers
+p55
+I1
+sVliquor
+p56
+I1
+sVsomehow
+p57
+I1
+sVwaking
+p58
+I1
+sVsee
+p59
+I8
+sVtaught
+p60
+I1
+sVyear
+p61
+I1
+sVbest
+p62
+I1
+sVdrinks
+p63
+I1
+sValbum
+p64
+I1
+sVliving
+p65
+I2
+sVgon
+p66
+I1
+sVaside
+p67
+I1
+sVcritical
+p68
+I1
+sVgoes
+p69
+I5
+sVgot
+p70
+I8
+sVcause
+p71
+I4
+sVwouldve
+p72
+I1
+sVdrink
+p73
+I1
+sVrun
+p74
+I1
+sVreach
+p75
+I1
+sVsorrow
+p76
+I2
+sVforgive
+p77
+I1
+sVhere
+p78
+I1
+sVmet
+p79
+I1
+sVput
+p80
+I3
+sVwait
+p81
+I1
+sVwouldnt
+p82
+I1
+sVoh
+p83
+I3
+sVsicker
+p84
+I1
+sVkeep
+p85
+I1
+sVbecame
+p86
+I1
+sVswallow
+p87
+I1
+sVwaited
+p88
+I1
+sVcon
+p89
+I1
+sVseeing
+p90
+I1
+sVit\u2019s
+p91
+I1
+sVlove
+p92
+I5
+sVdont
+p93
+I2
+sVgone
+p94
+I2
+sVfeel
+p95
+I1
+sVwin
+p96
+I1
+sVmanage
+p97
+I1
+sVdrinkings
+p98
+I1
+sVsteady
+p99
+I1
+sVhearing
+p100
+I1
+sVcursed
+p101
+I1
+sVna
+p102
+I3
+sVmomma
+p103
+I1
+sVmiss
+p104
+I5
+sVtomorrow
+p105
+I5
+sVeverybody
+p106
+I1
+sVwan
+p107
+I3
+sVlittle
+p108
+I4
+sVwould
+p109
+I1
+sVhospital
+p110
+I1
+sVhey
+p111
+I3
+sVbeer
+p112
+I1
+sVcall
+p113
+I1
+sVbiggest
+p114
+I1
+sVtell
+p115
+I5
+sVempty
+p116
+I1
+sVlisten
+p117
+I2
+sVfunction
+p118
+I1
+sVeyes
+p119
+I1
+sVhug
+p120
+I1
+sVstarted
+p121
+I1
+sVooh
+p122
+I1
+sVyeah
+p123
+I1
+sVunderstand
+p124
+I2
+sVliver
+p125
+I1
+sVbaby
+p126
+I1
+sVhold
+p127
+I1
+sVmust
+p128
+I1
+sVme
+p129
+I3
+sVloved
+p130
+I1
+sVnone
+p131
+I1
+sVmade
+p132
+I1
+sVlook
+p133
+I1
+sVwish
+p134
+I1
+sVinside
+p135
+I1
+sVmatter
+p136
+I1
+sVsupposed
+p137
+I1
+sVmr
+p138
+I1
+sVmeet
+p139
+I1
+sVinstantly
+p140
+I1
+sVheart
+p141
+I3
+sValmost
+p142
+I1
+sVappreciate
+p143
+I1
+sVmind
+p144
+I1
+sVit
+p145
+I1
+sVcant
+p146
+I3
+sVcure
+p147
+I2
+sVim
+p148
+I2
+sVcans
+p149
+I1
+sVrap
+p150
+I1
+sVlifetime
+p151
+I1
+sVid
+p152
+I1
+sVagain
+p153
+I1
+sVparamedics
+p154
+I1
+sVpeace
+p155
+I1
+sVdamage
+p156
+I1
+sVeveryday
+p157
+I1
+sVfar
+p158
+I1
+sVwithout
+p159
+I1
+sVspeech
+p160
+I1
+sVarguments
+p161
+I1
+sVyou
+p162
+I5
+sVsmell
+p163
+I1
+sVeven
+p164
+I2
+sVuntill
+p165
+I1
+sVpain
+p166
+I1
+sVknew
+p167
+I2
+sVproblems
+p168
+I1
+sVplan
+p169
+I1
+sVpaps
+p170
+I1
+sVman
+p171
+I3
+sVremember
+p172
+I1
+sVolder
+p173
+I1
+sVyoure
+p174
+I2
+sVwell
+p175
+I2
+sVocean
+p176
+I2
+sVsons
+p177
+I1
+sVbottle
+p178
+I7
+sVheyyy
+p179
+I1
+sVleft
+p180
+I1
+sVgoals
+p181
+I1
+s.

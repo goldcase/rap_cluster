@@ -1,105 +1,347 @@
-"break my heart" lyrics
-common lyrics
-"break my heart"
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you,
-with lots of love to give you
-(love to give..you, you)
-love to give you
-love to give
-it was a dream day
-met her on spring break,
-look like the type that be like
-"no habla engle"
-she said you look like you rap
-where's your bling'e
-and yours clothes is tight
-but you dont seem gay
-i said naw
-thats dude from nsync'e
-she wasnt married
-kept her ring on her pinky
-she said "you know i dont be datin' rappers"
-i said i got my sag card, baby i'm an actor.
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you,
-with lots of love to give you (give, give it, uh)
-(love to give..you, you) (give, give it, yeah)
-love to give you (give, give it, uh)
-love to give (give, give it, yeah)
-see her again at all star weekend
-she didnt have tickets
-and she ain't into hoopers
-she was there to kick it
-with her roommate
-who was a video vixen
-spend so much on outfits
-she's about to get evicted
-said "i'm married to this rap shit,
-looking for a mistress"
-you can be by my side
-like flavor and deelicious
-long as you ain't scared of the kitchen and the dishes
-she said "you one of them fishes, i know your mind switches", and..
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you,
-with lots of love to give you (give, give it, uh)
-(love to give..you, you) (give, give it, yeah)
-love to give you (give, give it, uh)
-love to give (give, give it, yeah)
-time revolve
-we fell in love as crazy as nas and them
-broads were textin
-cuz i stop calling them
-i met the parents
-watch the game with her father and
-questions of marriage
-and i start dodging them
-what happen to me
-happens to lots of men
-get deep in love
-and then your needing some oxygen
-as far as wives i was thinking like solomon
-she said "there you go, breakin my heart again!"
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you,
-with lots of love to give you (give, give it, uh)
-(love to give..you, you) (give, give it, yeah)
-love to give you (give, give it, uh)
-love to give (give, give it, yeah)
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you
-(she said "don't break my heart")
-oo..we you break my heart,
-but i'll be there beside you,
-with lots of love to give you (give, give it, uh)
-(love to give..you, you) (give, give it, yeah)
-love to give you (give, give it, uh)
-love to give (give, give it, yeah)
+(dp1
+Vlyrics
+p2
+I2
+sVswitches
+p3
+I1
+sVquestions
+p4
+I1
+sVgo
+p5
+I1
+sVflavor
+p6
+I1
+sVevicted
+p7
+I1
+sVaint
+p8
+I2
+sVhabla
+p9
+I1
+sVnas
+p10
+I1
+sVthinking
+p11
+I1
+sVfather
+p12
+I1
+sVcuz
+p13
+I1
+sVparents
+p14
+I1
+sVkick
+p15
+I1
+sVthem
+p16
+I1
+sVget
+p17
+I2
+sVfar
+p18
+I1
+sVstop
+p19
+I1
+sVwives
+p20
+I1
+sVbreak
+p21
+I28
+sVoowe
+p22
+I15
+sVknow
+p23
+I2
+sVday
+p24
+I1
+sVtickets
+p25
+I1
+sVlike
+p26
+I5
+sVoxygen
+p27
+I1
+sVmarried
+p28
+I2
+sVcalling
+p29
+I1
+sVcommon
+p30
+I1
+sVside
+p31
+I1
+sVclothes
+p32
+I1
+sVspring
+p33
+I1
+sVscared
+p34
+I1
+sVyeah
+p35
+I8
+sVsee
+p36
+I1
+sVvideo
+p37
+I1
+sVshes
+p38
+I1
+sVhappen
+p39
+I1
+sVhappens
+p40
+I1
+sVsaid
+p41
+I17
+sVlots
+p42
+I6
+sVhoopers
+p43
+I1
+sVlooking
+p44
+I1
+sVgot
+p45
+I1
+sVtextin
+p46
+I1
+sVmen
+p47
+I1
+sVmet
+p48
+I2
+sVmistress
+p49
+I1
+sVcard
+p50
+I1
+sVkitchen
+p51
+I1
+sVengle
+p52
+I1
+sVnsynce
+p53
+I1
+sVill
+p54
+I15
+sVneeding
+p55
+I1
+sVoutfits
+p56
+I1
+sVblinge
+p57
+I1
+sVthats
+p58
+I1
+sVlove
+p59
+I22
+sVdont
+p60
+I12
+sVone
+p61
+I1
+sVring
+p62
+I1
+sVdatin
+p63
+I1
+sVvixen
+p64
+I1
+sVdude
+p65
+I1
+sVlong
+p66
+I1
+sVstart
+p67
+I1
+sVmuch
+p68
+I1
+sVtype
+p69
+I1
+sVgay
+p70
+I1
+sVmind
+p71
+I1
+sVgame
+p72
+I1
+sVbaby
+p73
+I1
+sVlook
+p74
+I2
+sVbroads
+p75
+I1
+sVsolomon
+p76
+I1
+sVmarriage
+p77
+I1
+sVuh
+p78
+I8
+sVdidnt
+p79
+I1
+sVand
+p80
+I2
+sVheart
+p81
+I28
+sVcrazy
+p82
+I1
+sVbreakin
+p83
+I1
+sVgive
+p84
+I47
+sVwasnt
+p85
+I1
+sVsag
+p86
+I1
+sVit
+p87
+I1
+sVdeep
+p88
+I1
+sVpinky
+p89
+I1
+sVim
+p90
+I2
+sVrap
+p91
+I2
+sVseem
+p92
+I1
+sVshit
+p93
+I1
+sVagain
+p94
+I1
+sVdishes
+p95
+I1
+sVactor
+p96
+I1
+sVbeside
+p97
+I15
+sVtight
+p98
+I1
+sVnaw
+p99
+I1
+sVyou
+p100
+I17
+sVstar
+p101
+I1
+sVwatch
+p102
+I1
+sVrappers
+p103
+I1
+sVgiveyou
+p104
+I5
+sVfell
+p105
+I1
+sVfishes
+p106
+I1
+sVrevolve
+p107
+I1
+sVweekend
+p108
+I1
+sVwheres
+p109
+I1
+sVdeelicious
+p110
+I1
+sVkept
+p111
+I1
+sVroommate
+p112
+I1
+sVtime
+p113
+I1
+sVdream
+p114
+I1
+sVspend
+p115
+I1
+sVdodging
+p116
+I1
+s.

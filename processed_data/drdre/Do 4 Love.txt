@@ -1,63 +1,195 @@
-"do 4 love" lyrics
-dr. dre lyrics
-"do 4 love"
-hmm hmm hmm yeah
-you make me do yeah, uh
-i never can erase
-the love that you have placed inside
-no girl, i can't deny
-i just never felt that i
-would ever be the one to find
-a special lady that'll make me do for love
-you make me do for love
-what i would not do
-cause every day my love
-you got me wanting you
-you make me do for love
-what i'd never do
-and what we do for love
-that all depends on you
-ooh ooh
-oh no man can recognize
-the love that's in the sky
-i just had to let you rain all over me
-then one day it dawned on me
-i had changed completely
-i don't know just how it happened
-but i love the way you make me do for love
-you make me do for love
-what i would not do
-cause every day my love
-you got me missing you
-you make me do for love
-what i'd never do
-and what we do for love
-that all depends on you
-ooh ooh
-no i never thought i'd find
-what love made of me
-come on the road with me baby
-i open my eyes, so lovely
-i love the way you make me do for love
-you make me do for love
-what i would not do
-cause every day my love
-you got me thinking of you
-you make me do for love
-what i'd never do
-and what we do for love
-that all depends on you
-ooh ooh
-you got me talking baby
-you got me spending baby
-you got me tripping
-you got me hooked on...
-you make me do for love
-what i would not do
-cause every day my love
-you got me missing you
-you make me do for love
-what i'd never do
-and what we do for love
-that all depends on you
-ooh ooh
+(dp1
+Vcome
+p2
+I1
+sVlove
+p3
+I26
+sVthatll
+p4
+I1
+sVlyrics
+p5
+I2
+sVrecognize
+p6
+I1
+sVyeah
+p7
+I2
+sVone
+p8
+I2
+sVtalking
+p9
+I1
+sVcant
+p10
+I1
+sVerase
+p11
+I1
+sVhooked
+p12
+I1
+sVgirl
+p13
+I1
+sVopen
+p14
+I1
+sVfind
+p15
+I2
+sVspecial
+p16
+I1
+sVdawned
+p17
+I1
+sVtripping
+p18
+I1
+sVwould
+p19
+I5
+sVthinking
+p20
+I1
+sVlady
+p21
+I1
+sVmake
+p22
+I12
+sVsky
+p23
+I1
+sVid
+p24
+I5
+sVdont
+p25
+I1
+sV4
+I2
+sVway
+p26
+I2
+sVgot
+p27
+I8
+sVyou
+p28
+I8
+sVlovely
+p29
+I1
+sVever
+p30
+I1
+sVhappened
+p31
+I1
+sVdo
+p32
+I8
+sVeyes
+p33
+I1
+sVnever
+p34
+I7
+sVmissing
+p35
+I2
+sVfelt
+p36
+I1
+sVooh
+p37
+I8
+sVrain
+p38
+I1
+sVhmm
+p39
+I3
+sVcompletely
+p40
+I1
+sVevery
+p41
+I4
+sVknow
+p42
+I1
+sVwanting
+p43
+I1
+sVbaby
+p44
+I3
+sVdr
+p45
+I1
+sVday
+p46
+I5
+sVman
+p47
+I1
+sVme
+p48
+I3
+sVon
+p49
+I1
+sVdeny
+p50
+I1
+sVmade
+p51
+I1
+sVoh
+p52
+I1
+sVi
+I1
+sVcause
+p53
+I4
+sVinside
+p54
+I1
+sVchanged
+p55
+I1
+sVdepends
+p56
+I4
+sVspending
+p57
+I1
+sVthought
+p58
+I1
+sVplaced
+p59
+I1
+sVuh
+p60
+I1
+sVlet
+p61
+I1
+sVdre
+p62
+I1
+sVroad
+p63
+I1
+sVthats
+p64
+I1
+s.

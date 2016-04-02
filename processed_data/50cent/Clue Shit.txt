@@ -1,58 +1,457 @@
-"clue shit!" lyrics
-50 cent lyrics
-"clue shit!"
-you know clue man, i'm tryin' to holler at this bitch right and i'm like
-yeah, i told her i write music for a living
-and she's like need i say yeah, my name is 50 cent
-and she said "oh you 50 cent, you know i love your music
-i listen to dj clue, i hear your music all the time"
-and i'm like yeah, this bitch on my dick
-i love this music shit, man, this shit is the shit right here, man
-hey yo, but i seen you in that black escalade, clue
-and i seen your boy skane in that silver 745 boy
-man, ya'll playin' hardball like a motherfucker
-see me i switch up hoopties cause niggaz play me, just to shoot me
-you know how it is in the hood
-dead men don't hear no applause
-don't men don't go off on tours
-dead men don't accept no awards
-50 that thought you was dead kid, kid
-50, it's 50, it's 50, motherfucker
-i'm back, i'm back, i'm back motherfucker
-niggaz thought they got me
-9, 9 shells couldn't stop me
-i "hit 'em up" worse than pac, watch me
-i don't hesitate to pull out the burnin' nigga
-i stick my snub nose in shit, that don't concern a nigga
-i'm the reason that coupe, ain't got no top
-i'm the reason that rouger, ain't got no shots
-and when i squeeze, i tend to keep on squeezin'
-if your lucky, you can run, and keep on breathin' (yeah)
-when my knife hit ya windpipe and you start wheezin' (huh)
-you put your hand over the hole, and it gonna stop the breathin' (woo)
-i am what i am, and i ain't gonna change
-my 5th clip loaded to the tip, i'll blow out ya brains
-trust me, i'm not what you used to homie (grrr)
-you little faggot, i'll tell ya fuckin' boss to blow me (uh huh)
-i'm puttin' pressure on you, you payin' the pump (yeah)
-about to die like a man, but you live like a chump (uh huh)
-i only walk wit a limp, when i walk wit a pump
-i can't wait to see you scatter, when i pull out and dunk ya (take that)
-50, it's 50, it's 50, motherfucker (uh huh)
-i'm back, i'm back, i'm back motherfucker (i'm back)
-niggaz thought they got me
-9, 9 shells couldn't stop me
-i "hit 'em up" worse than pac, watch me (do it up nigga)
-50, it's 50, it's 50, motherfucker
-i'm back, i'm back, i'm back motherfucker (uh huh)
-niggaz thought they got me
-9, 9 shells couldn't stop me
-i "hit 'em up" worse than pac, watch me
-this time, i'm gonna hit 'em harder (harder, harder)
-this time, i'm gonna hit 'em harder (harder, harder)
-50 cent (50 cent), g-unit (g-unit)
-dj clue (dj clue), early (early)
-(yo i'm over here chillin' wit my man 50 cent) (50 cent)
-damn, (we both from queens)
-that's hot man, rewind that (you know what i'm sayin')
-(hey, ya'll niggaz cannot stop queens) (woo)
+(dp1
+Vlyrics
+p2
+I2
+sVhoopties
+p3
+I1
+sVtours
+p4
+I1
+sVgo
+p5
+I1
+sVchillin
+p6
+I1
+sVaint
+p7
+I3
+sVsayin
+p8
+I1
+sVdick
+p9
+I1
+sVpump
+p10
+I2
+sVblack
+p11
+I1
+sVpayin
+p12
+I1
+sVhardball
+p13
+I1
+sVshoot
+p14
+I1
+sVhit
+p15
+I6
+sVworse
+p16
+I3
+sVyo
+p17
+I2
+sVya
+p18
+I4
+sVwatch
+p19
+I3
+sVlucky
+p20
+I1
+sVearly
+p21
+I2
+sVknow
+p22
+I4
+sVnot
+p23
+I1
+sVsilver
+p24
+I1
+sVlike
+p25
+I6
+sVname
+p26
+I1
+sVdie
+p27
+I1
+sV50
+p28
+I17
+sVwit
+p29
+I3
+sVnose
+p30
+I1
+sVman
+p31
+I7
+sVyall
+p32
+I2
+sVem
+p33
+I5
+sVskane
+p34
+I1
+sVright
+p35
+I2
+sVqueens
+p36
+I2
+sVyeah
+p37
+I5
+sVdead
+p38
+I3
+sVsee
+p39
+I2
+sVholler
+p40
+I1
+sVshes
+p41
+I1
+sVplayin
+p42
+I1
+sVconcern
+p43
+I1
+sVliving
+p44
+I1
+sVsaid
+p45
+I1
+sVtend
+p46
+I1
+sVwoo
+p47
+I2
+sVgot
+p48
+I5
+sVcause
+p49
+I1
+sVknife
+p50
+I1
+sVtold
+p51
+I1
+sVdunk
+p52
+I1
+sVblow
+p53
+I2
+sVrouger
+p54
+I1
+sVgrrr
+p55
+I1
+sVrun
+p56
+I1
+sVshots
+p57
+I1
+sVbreathin
+p58
+I2
+sVmen
+p59
+I3
+sVmotherfucker
+p60
+I7
+sVboss
+p61
+I1
+sVpressure
+p62
+I1
+sVreason
+p63
+I2
+sVawards
+p64
+I1
+sVput
+p65
+I1
+sVchange
+p66
+I1
+sVwait
+p67
+I1
+sVboy
+p68
+I2
+sVoh
+p69
+I1
+sVill
+p70
+I2
+sVkeep
+p71
+I2
+sV5th
+p72
+I1
+sVfuckin
+p73
+I1
+sVthats
+p74
+I1
+sVlove
+p75
+I2
+sVdont
+p76
+I6
+sVcan
+p77
+I1
+sVlimp
+p78
+I1
+sVwalk
+p79
+I2
+sVgunit
+p80
+I2
+sVnigga
+p81
+I3
+sVbitch
+p82
+I2
+sVsnub
+p83
+I1
+sVescalade
+p84
+I1
+sVloaded
+p85
+I1
+sVcouldnt
+p86
+I3
+sVtrust
+p87
+I1
+sVhood
+p88
+I1
+sVdj
+p89
+I3
+sVlittle
+p90
+I1
+sVshells
+p91
+I3
+sVtop
+p92
+I1
+sVhey
+p93
+I2
+sVcent
+p94
+I7
+sVcoupe
+p95
+I1
+sVstart
+p96
+I1
+sVlive
+p97
+I1
+sVmusic
+p98
+I4
+sVdamn
+p99
+I1
+sVtryin
+p100
+I1
+sVtell
+p101
+I1
+sVlisten
+p102
+I1
+sVthat
+p103
+I1
+sVbrains
+p104
+I1
+sVhuh
+p105
+I5
+sVback
+p106
+I10
+sVhear
+p107
+I2
+sVstick
+p108
+I1
+sVwindpipe
+p109
+I1
+sVhole
+p110
+I1
+sVsqueeze
+p111
+I1
+sVme
+p112
+I9
+sVpull
+p113
+I2
+sVharder
+p114
+I6
+sVcant
+p115
+I1
+sVniggaz
+p116
+I5
+sVuh
+p117
+I4
+sVfaggot
+p118
+I1
+sVscatter
+p119
+I1
+sV745
+p120
+I1
+sVclip
+p121
+I1
+sVaccept
+p122
+I1
+sVsay
+p123
+I1
+sVhomie
+p124
+I1
+sVim
+p125
+I21
+sVsqueezin
+p126
+I1
+sVwheezin
+p127
+I1
+sVneed
+p128
+I1
+sVseen
+p129
+I2
+sVshit
+p130
+I6
+sVhesitate
+p131
+I1
+sVburnin
+p132
+I1
+sVna
+p133
+I4
+sVtip
+p134
+I1
+sVwrite
+p135
+I1
+sVhot
+p136
+I1
+sVpac
+p137
+I3
+sVtake
+p138
+I1
+sVrewind
+p139
+I1
+sV9
+I6
+sVputtin
+p140
+I1
+sVplay
+p141
+I1
+sVused
+p142
+I1
+sVstop
+p143
+I5
+sVhand
+p144
+I1
+sVgon
+p145
+I4
+sVchump
+p146
+I1
+sVclue
+p147
+I7
+sVkid
+p148
+I2
+sVapplause
+p149
+I1
+sVthought
+p150
+I4
+sVswitch
+p151
+I1
+sVtime
+p152
+I3
+s.

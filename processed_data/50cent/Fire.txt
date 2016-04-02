@@ -1,52 +1,392 @@
-"fire" lyrics
-50 cent lyrics
-"fire"
-(feat. nicole scherzinger, young buck)
-fi-re~!!
-i make it hotter... friction turns to fire
-you want and desire... i'm comin to get you girl
-that's right, that's right, it's on tonight
-you're just my type, you're what i like
-i bring that heat, you heard me right
-everywhere i go, go, let's go~!
-somethin new it's another episode
-music bumpin, sweat drippin on the danceflo'
-i like it when shorty get to backin it back
-when she do it like that, i don't know how to act
-now work it
-shorty grind it on me, that's perfect
-i'll pay to play if it's worth it
-my phone when you want me you can chirp it - if you work it
-let me take these bricks and break 'em down
-if you want i can serve 'em by the pound
-shorty know she's got what i wanna flip
-baby girl tell me you can handle it
-well if you want it let's go
-i got that fire!! so hot i burn it down
-act like you already know
-i got that fire!! cause i'm the flyest chick around
-you want it, it's fire, i got it, that fire
-so i'm might, ignite ya, it's fire, it's fire
-i burn it down on stage, i make it hot
-'til the fire marshall come shut down the spot
-i have the club jam packed everytime i rock
-these other niggaz ain't got the style i got
-i go back to the basics and break it all the way all the way down
-you can hate it but face it b.i.g. and tupac just ain't around
-everywhere you go, there i go, i'm 50 cent
-ghetto star by the bar i get you bent
-you wanna party, you wanna freak be a freak
-you wanna freak we can freak tell me where we should we meet
-so you can
-take these bricks and break 'em down
-if you want i can serve 'em by the pound
-shorty know she's got what i wanna flip
-baby girl tell me you can handle it
-now are you really ready
-i said, are you really ready
-i make the temperature rise, now don't be surprised
-i have the ice on, stuntin heavy
-i got a helluva flow, you should already know
-sold over 30 million records already
-it's the third time around, you know how i get down
-i'm hands down, pound for pound, the best around
+(dp1
+Vignite
+p2
+I1
+sVlyrics
+p3
+I2
+sVhands
+p4
+I1
+sVfriction
+p5
+I1
+sVbring
+p6
+I1
+sVgo
+p7
+I7
+sVfeat
+p8
+I1
+sVperfect
+p9
+I1
+sVstyle
+p10
+I1
+sVyoung
+p11
+I1
+sVlets
+p12
+I2
+sVjam
+p13
+I1
+sVflyest
+p14
+I1
+sVmight
+p15
+I1
+sVworth
+p16
+I1
+sVsurprised
+p17
+I1
+sVhandle
+p18
+I2
+sVaround
+p19
+I4
+sVget
+p20
+I4
+sVya
+p21
+I1
+sVbig
+p22
+I1
+sVrise
+p23
+I1
+sVbreak
+p24
+I3
+sVrecords
+p25
+I1
+sVknow
+p26
+I6
+sVgot
+p27
+I8
+sVghetto
+p28
+I1
+sVdesire
+p29
+I1
+sVbasics
+p30
+I1
+sVbar
+p31
+I1
+sVlike
+p32
+I4
+sVeverytime
+p33
+I1
+sVturns
+p34
+I1
+sV50
+p35
+I2
+sVrock
+p36
+I1
+sVchick
+p37
+I1
+sVem
+p38
+I4
+sVright
+p39
+I3
+sVback
+p40
+I2
+sVshes
+p41
+I2
+sVhelluva
+p42
+I1
+sVgirl
+p43
+I3
+sVpacked
+p44
+I1
+sVreally
+p45
+I2
+sVsaid
+p46
+I1
+sVhate
+p47
+I1
+sVice
+p48
+I1
+sVnew
+p49
+I1
+sVscherzinger
+p50
+I1
+sVcause
+p51
+I1
+sVaint
+p52
+I2
+sVshut
+p53
+I1
+sVmillion
+p54
+I1
+sVsold
+p55
+I1
+sVburn
+p56
+I2
+sVlet
+p57
+I1
+sVcome
+p58
+I1
+sVstuntin
+p59
+I1
+sVstage
+p60
+I1
+sVbuck
+p61
+I1
+sVill
+p62
+I1
+sV30
+p63
+I1
+sVsweat
+p64
+I1
+sVact
+p65
+I2
+sVthats
+p66
+I3
+sVheavy
+p67
+I1
+sValready
+p68
+I3
+sVdont
+p69
+I2
+sVbricks
+p70
+I2
+sVmarshall
+p71
+I1
+sVdown
+p72
+I5
+sVanother
+p73
+I1
+sVcomin
+p74
+I1
+sVfreak
+p75
+I4
+sVnicole
+p76
+I1
+sVwan
+p77
+I5
+sVtemperature
+p78
+I1
+sVdanceflo
+p79
+I1
+sVcent
+p80
+I2
+sVmusic
+p81
+I1
+sVway
+p82
+I2
+sVtype
+p83
+I1
+sVtell
+p84
+I3
+sVfire
+p85
+I11
+sVserve
+p86
+I2
+sVshorty
+p87
+I4
+sVphone
+p88
+I1
+sVheat
+p89
+I1
+sVeverywhere
+p90
+I2
+sVbaby
+p91
+I2
+sVwork
+p92
+I2
+sVflip
+p93
+I2
+sVniggaz
+p94
+I1
+sVdrippin
+p95
+I1
+sVcan
+p96
+I1
+sVmeet
+p97
+I1
+sVpound
+p98
+I4
+sVhotter
+p99
+I1
+sVbent
+p100
+I1
+sVbest
+p101
+I1
+sVflow
+p102
+I1
+sVit
+p103
+I5
+sVtonight
+p104
+I1
+sVheard
+p105
+I1
+sVim
+p106
+I5
+sVwant
+p107
+I6
+sVready
+p108
+I2
+sVface
+p109
+I1
+sVtupac
+p110
+I1
+sVna
+p111
+I5
+sVmake
+p112
+I3
+sVtil
+p113
+I1
+sVclub
+p114
+I1
+sVhot
+p115
+I2
+sVtake
+p116
+I2
+sVparty
+p117
+I1
+sVplay
+p118
+I1
+sVstar
+p119
+I1
+sVtime
+p120
+I1
+sVspot
+p121
+I1
+sVbumpin
+p122
+I1
+sVchirp
+p123
+I1
+sVsomethin
+p124
+I1
+sVepisode
+p125
+I1
+sVthird
+p126
+I1
+sVyoure
+p127
+I2
+sVwell
+p128
+I1
+sVgrind
+p129
+I1
+sVpay
+p130
+I1
+sVbackin
+p131
+I1
+s.

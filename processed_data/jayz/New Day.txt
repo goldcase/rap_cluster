@@ -1,74 +1,476 @@
-"new day" lyrics
-kanye west lyrics
-"new day"
-(with jay-z)
-yeah, uh
-(sun in the sky)
-(you know how i feel)
-me and the rza connect
-(breeze driftin’ on by)
-yeah, me and the rza connect
-(breeze driftin’ on by)
-(it’s a new life for me)
-(for me, for me)
-(oooh, oooh)
-(and i’m feelin’ good)
-and i’ll never let my son have an ego
-he’ll be nice to everyone, wherever we go
-i mean, i might even make ‘em be republican
-so everybody know he love white people
-and i’ll never let ‘em leave his college girlfriend
-and get caught up with the groupies in the whirlwind
-and i’ll never let ‘em ever hit the telethon
-i mean even if people dyin’ and the world ends
-see, i just want ‘im to have an easy life, not like yeezy life
-just want ‘im to be someone people like
-don’t want ‘im to be hated, all the time judged
-don’t be like your daddy that would never budge
-and i’ll never let ‘im ever hit a strip club
-i learned the hard way, that ain’t the place to get love
-and i’ll never let his mom move to l.a.
-knowin’ she couldn’t take the pressure, now we all pray
-(sun in the sky)
-(you know how i feel)
-(breeze driftin’ on by)
-(breeze driftin’ on by)
-(it’s a new life for me)
-me and the rza connect
-(for me, for me)
-me and the rza connect (oooh, oooh)
-(and i’m feelin’ good)
-sorry junior, i already ruined ya
-‘cause you ain’t even alive, paparazzi pursuin’ ya
-sins of a father make yo’ life ten times harder
-i just wanna take ya to a barber
-bondin’ on charters, all the shit that i never did
-teach ya good values, so you cherish it
-took me 26 years to find my path
-my only job is cuttin’ the time in half
-so at 13 we’ll have our first drink together
-black bar mitzvahs, mazel tov, mogul talk
-look a man dead in his eyes
-so he know you talk truth when you speak it, give your word, keep it
-and if the day comes i only see him on the weekend
-i just pray we was in love on the night that we conceived him
-promise to never leave him even if his mama tweakin’
-cause my dad left me and i promise never repeat him
-never repeat him, never repeat him
-(sun in the sky)
-(you know how i feel)
-(breeze driftin’ on by)
-(breeze driftin’ on by)
-(it’s a new life for me)
-(for me, for me)
-(oooh, oooh)
-(and i’m feelin’ good)
-(sun in the sky, you know how i feel)
-(breeze driftin’ on by, you know how i feel)
-(breeze driftin’ on by, you know how i feel)
-(it’s a new life for me)
-(it’s a new dawn, it’s a new day)
-(it’s a new life for me)
-(oooh, oooh)
-(and i’m feelin’…)
-(birds flyin’ high, you know how i feel)
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVyears
+p4
+I1
+sVgo
+p5
+I1
+sVkanye
+p6
+I1
+sVeyes
+p7
+I1
+sVfind
+p8
+I1
+sV26
+p9
+I1
+sVla
+p10
+I1
+sVpray
+p11
+I2
+sVhated
+p12
+I1
+sVit\u2019s
+p13
+I7
+sVcouldn\u2019t
+p14
+I1
+sVcuttin\u2019
+p15
+I1
+sVhim
+p16
+I3
+sVblack
+p17
+I1
+sVjudged
+p18
+I1
+sVeasy
+p19
+I1
+sVsorry
+p20
+I1
+sVmight
+p21
+I1
+sVfather
+p22
+I1
+sVdad
+p23
+I1
+sVsomeone
+p24
+I1
+sVhit
+p25
+I2
+sVget
+p26
+I2
+sVi\u2019m
+p27
+I4
+sVpursuin\u2019
+p28
+I1
+sVtelethon
+p29
+I1
+sVknow
+p30
+I9
+sVmom
+p31
+I1
+sVnew
+p32
+I9
+sVworld
+p33
+I1
+sVrepublican
+p34
+I1
+sVday
+p35
+I4
+sVbar
+p36
+I1
+sVlike
+p37
+I3
+sVdid
+p38
+I1
+sVcause
+p39
+I1
+sVleave
+p40
+I2
+sVtruth
+p41
+I1
+sVoooh
+p42
+I8
+sVwhirlwind
+p43
+I1
+sVeveryone
+p44
+I1
+sVten
+p45
+I1
+sVpeople
+p46
+I3
+sVgroupies
+p47
+I1
+sVhard
+p48
+I1
+sVyeah
+p49
+I2
+sValive
+p50
+I1
+sVsee
+p51
+I2
+sVcollege
+p52
+I1
+sVconnect
+p53
+I4
+sVdawn
+p54
+I1
+sVmazel
+p55
+I1
+sVeven
+p56
+I4
+sVflyin\u2019
+p57
+I1
+sVsun
+p58
+I4
+sVbirds
+p59
+I1
+sVcharters
+p60
+I1
+sVdriftin\u2019
+p61
+I8
+sVlearned
+p62
+I1
+sVever
+p63
+I2
+sVknowin\u2019
+p64
+I1
+sVends
+p65
+I1
+sVconceived
+p66
+I1
+sVnever
+p67
+I11
+sV\u2018im
+p68
+I4
+sVsins
+p69
+I1
+sVpressure
+p70
+I1
+sVjob
+p71
+I1
+sVlet
+p72
+I5
+sVpath
+p73
+I1
+sVteach
+p74
+I1
+sVby
+p75
+I6
+sVwherever
+p76
+I1
+sVtimes
+p77
+I1
+sVplace
+p78
+I1
+sVcherish
+p79
+I1
+sVyeezy
+p80
+I1
+sVhe\u2019ll
+p81
+I1
+sVcomes
+p82
+I1
+sVfirst
+p83
+I1
+sValready
+p84
+I1
+sVlove
+p85
+I3
+sVfeelin\u2019
+p86
+I3
+sVfeel
+p87
+I7
+sVsky
+p88
+I4
+sVtweakin\u2019
+p89
+I1
+sVson
+p90
+I1
+sVna
+p91
+I1
+sVjayz
+p92
+I1
+sVpromise
+p93
+I2
+sVstrip
+p94
+I1
+sVspeak
+p95
+I1
+sVeverybody
+p96
+I1
+sVwan
+p97
+I1
+sVwould
+p98
+I1
+sVwest
+p99
+I1
+sVcaught
+p100
+I1
+sVnight
+p101
+I1
+sVtov
+p102
+I1
+sVdon\u2019t
+p103
+I2
+sVway
+p104
+I1
+sVmean
+p105
+I2
+sVwhite
+p106
+I1
+sVlife
+p107
+I8
+sVi\u2019ll
+p108
+I5
+sV\u2018cause
+p109
+I1
+sVclub
+p110
+I1
+sVtook
+p111
+I1
+sVit
+p112
+I2
+sVmama
+p113
+I1
+sVdead
+p114
+I1
+sVwe\u2019ll
+p115
+I1
+sVjunior
+p116
+I1
+sVme
+p117
+I8
+sV13
+p118
+I1
+sVword
+p119
+I1
+sVlook
+p120
+I1
+sVrza
+p121
+I4
+sVmogul
+p122
+I1
+sVain\u2019t
+p123
+I2
+sVharder
+p124
+I1
+sVruined
+p125
+I1
+sVvalues
+p126
+I1
+sVuh
+p127
+I1
+sVdaddy
+p128
+I1
+sVgive
+p129
+I1
+sVhalf
+p130
+I1
+sVpaparazzi
+p131
+I1
+sVhigh
+p132
+I1
+sVmitzvahs
+p133
+I1
+sVgood
+p134
+I4
+sVwant
+p135
+I3
+sVgirlfriend
+p136
+I1
+sVkeep
+p137
+I1
+sVshit
+p138
+I1
+sVfeelin\u2019\u2026
+p139
+I1
+sV\u2018em
+p140
+I3
+sVmake
+p141
+I2
+sVbondin\u2019
+p142
+I1
+sVya
+p143
+I4
+sVtake
+p144
+I2
+sVnice
+p145
+I1
+sVrepeat
+p146
+I3
+sVdrink
+p147
+I1
+sVbarber
+p148
+I1
+sVyo\u2019
+p149
+I1
+sVdyin\u2019
+p150
+I1
+sVweekend
+p151
+I1
+sVman
+p152
+I1
+sVtogether
+p153
+I1
+sVbudge
+p154
+I1
+sVbreeze
+p155
+I8
+sVego
+p156
+I1
+sVtime
+p157
+I2
+sVtalk
+p158
+I2
+sVleft
+p159
+I1
+s.

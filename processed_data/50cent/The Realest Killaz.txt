@@ -1,77 +1,665 @@
-"the realest killaz" lyrics
-50 cent lyrics
-"the realest killaz"
-(feat. 2pac, snoop dogg)
-yo, red spider...
-is that 50 cent and pac ready?
-lemme know, holla
-it's go'n be some stuff you go'n see
-that's go'n make it hard to smile in the future
-yea nigga...ha ha
-lets go nigga, dis is what it is
-tupac cut his head bald, then you want to cut yo head bald
-tupac wear a bandana, you wanna wear a banadana (what do we have here now)
-tupac put a cross on his back, you wanna put crosses on yo back
-nigga, you ain't tupac
-is it
-money and women, funny beginning's tragic ending's
-i can make a million and still not get enough of spendin'
-and since my life is based on sinnin', i'm hell bound
-rather be buried that be worried, livin' held down
-yo, that shit is crazy whoo kid
-bring that motherfucking beat back man
-it's go'n be some stuff you go'n see
-that's go'n make it hard to smile in the future
-yea nigga...ha ha
-lets go nigga, dis is what it is
-tupac cut his head bald, then you want to cut yo head bald
-tupac wear a bandana, you wanna wear a banadana (what do we have here now)
-tupac put a cross on his back, you wanna put crosses on yo back
-nigga, you ain't tupac
-is it
-money and women, funny beginning's tragic ending's
-i can make a million and still not get enough of spendin'
-and since my life is based on sinnin', i'm hell bound
-rather be buried that be worried, livin' held down
-my game plan to be trained in
-military mind of a thug lord sittin' in a cemetery crying
-i've been lost since my adolescence calling for jesus
-ballin' as a youngster wondering if he see's us
-young black males
-crack sales got me three strikes
-livin' in jail this is hell enemies die
-wonder when we all pass, is anybody listnin'
-got my hands on my semi shotty, everybody's snitchin'
-please god can you understand me, bless my family
-guide us all before we fall into insanity
-i'm makin' a point to make my beatin' bumpin' raw life
-drop some shit to make these stupid bitches jaw tight
-till makaveli return it's all eyes on me- on me (what do we have here now)
-and you can hate it or love it, but that's what it's go'n be- go'n be
-shoulda listened, i told you not to fuck wit me- wit me (what do we have here now)
-now can you take the pressure, that's what we go'n see- go'n see
-this is a cry for mercy, i promise
-my success would be the death of you
-low and behold, you sold ya soul, there's nothing left of you
-look in the mirror, ask yourself, who are you
-if you don't know who you are, how could ya dreams come true
-motherfucker, i sat backed and watched ya, you pretended to be pac
-you pretended to be hot, but you not, now (now)
-i see it so clear, you can't take the pressure, you pussy
-i warned you not to push me
-you see me, and chills, run up ya spine
-god made menace in war, but ya heart ain't like mine
-and plus, they look at me like i'ma menace
-i was playing wit guns, while ya momma had you punk ass playing tennis
-i'ma nightmare, you see me in ya dream
-wake up, and turn on ya t.v. and see my ass again
-you cowardly hearted, you couldn't make it on ya own
-fuck the source, i'm on the cover of rollin stone
-till makaveli return it's all eyes on me- on me (what do we have here now)
-and you can hate it or love it, but that's what it's go'n be- go'n be
-shoulda listened, i told you not to fuck wit me- wit me (what do we have here now)
-now can you take the pressure, that's what we go'n see- go'n see
-till makaveli return it's all eyes on me- on me (what do we have here now)
-and you can hate it or love it, but that's what it's go'n be- go'n be
-shoulda listened, i told you not to fuck wit me- wit me (what do we have here now)
-now can you take the pressure, that's what we go'n see- go'n see
+(dp1
+Vlyrics
+p2
+I2
+sVyea
+p3
+I2
+sVmoney
+p4
+I2
+sVfall
+p5
+I1
+sVbring
+p6
+I1
+sVsinnin
+p7
+I2
+sVgo
+p8
+I2
+sVhell
+p9
+I3
+sVstill
+p10
+I2
+sVfeat
+p11
+I1
+sVadolescence
+p12
+I1
+sVaint
+p13
+I3
+sVcut
+p14
+I4
+sVbased
+p15
+I2
+sVtill
+p16
+I3
+sVtv
+p17
+I1
+sVjaw
+p18
+I1
+sVcemetery
+p19
+I1
+sVyoung
+p20
+I1
+sVendings
+p21
+I2
+sVmakaveli
+p22
+I3
+sVsource
+p23
+I1
+sVlets
+p24
+I2
+sVblack
+p25
+I1
+sVyoungster
+p26
+I1
+sVcrying
+p27
+I1
+sVcrack
+p28
+I1
+sVsmile
+p29
+I2
+sVreturn
+p30
+I3
+sVlivin
+p31
+I3
+sVyo
+p32
+I6
+sVget
+p33
+I2
+sVbeat
+p34
+I1
+sVsittin
+p35
+I1
+sVhate
+p36
+I3
+sVmakin
+p37
+I1
+sVgame
+p38
+I1
+sVmade
+p39
+I1
+sVsales
+p40
+I1
+sVknow
+p41
+I2
+sVhands
+p42
+I1
+sVnow
+p43
+I9
+sVyou
+p44
+I3
+sVdreams
+p45
+I1
+sVlike
+p46
+I2
+sVsemi
+p47
+I1
+sVlost
+p48
+I1
+sVheld
+p49
+I2
+sVsnitchin
+p50
+I1
+sVdie
+p51
+I1
+sVdrop
+p52
+I1
+sV50
+p53
+I2
+sVworried
+p54
+I2
+sVbless
+p55
+I1
+sVspine
+p56
+I1
+sVstuff
+p57
+I2
+sVya
+p58
+I9
+sVwarned
+p59
+I1
+sVdis
+p60
+I2
+sVnigga
+p61
+I4
+sVniggaha
+p62
+I2
+sVhard
+p63
+I2
+sVspider
+p64
+I1
+sVsee
+p65
+I12
+sVpass
+p66
+I1
+sVcalling
+p67
+I1
+sVenemies
+p68
+I1
+sVmotherfucker
+p69
+I1
+sVgon
+p70
+I18
+sVmine
+p71
+I1
+sVgod
+p72
+I2
+sVspendin
+p73
+I2
+sVsince
+p74
+I3
+sVplease
+p75
+I1
+sVenough
+p76
+I2
+sVstupid
+p77
+I1
+sVgot
+p78
+I2
+sVguns
+p79
+I1
+sVred
+p80
+I1
+sVtold
+p81
+I3
+sVass
+p82
+I2
+sVbe
+p83
+I3
+sVrun
+p84
+I1
+sVcry
+p85
+I1
+sVsold
+p86
+I1
+sVmillion
+p87
+I2
+sVlem
+p88
+I1
+sVbehold
+p89
+I1
+sVpressure
+p90
+I4
+sVshotty
+p91
+I1
+sVwear
+p92
+I4
+sVima
+p93
+I2
+sVput
+p94
+I4
+sVbumpin
+p95
+I1
+sVcome
+p96
+I1
+sVshoulda
+p97
+I3
+sVstone
+p98
+I1
+sVwould
+p99
+I1
+sVlistnin
+p100
+I1
+sVcould
+p101
+I1
+sVpunk
+p102
+I1
+sVsuccess
+p103
+I1
+sVturn
+p104
+I1
+sVplus
+p105
+I1
+sVmilitary
+p106
+I1
+sVchills
+p107
+I1
+sVthats
+p108
+I8
+sVmotherfucking
+p109
+I1
+sVbanadana
+p110
+I2
+sVown
+p111
+I1
+sVlove
+p112
+I3
+sVdont
+p113
+I1
+sVfamily
+p114
+I1
+sVpoint
+p115
+I1
+sVpussy
+p116
+I1
+sVbound
+p117
+I2
+sVjesus
+p118
+I1
+sVdown
+p119
+I2
+sVask
+p120
+I1
+sVmomma
+p121
+I1
+sVwit
+p122
+I7
+sVpromise
+p123
+I1
+sVtrained
+p124
+I1
+sVcouldnt
+p125
+I1
+sVballin
+p126
+I1
+sVfuck
+p127
+I4
+sVwan
+p128
+I4
+sVsnoop
+p129
+I1
+sVdogg
+p130
+I1
+sVtennis
+p131
+I1
+sVthree
+p132
+I1
+sVcent
+p133
+I2
+sVwhoo
+p134
+I1
+sVtragic
+p135
+I2
+sVlow
+p136
+I1
+sVwondering
+p137
+I1
+sVman
+p138
+I1
+sVwar
+p139
+I1
+sVhead
+p140
+I4
+sVbitches
+p141
+I1
+sVstrikes
+p142
+I1
+sVback
+p143
+I5
+sVeyes
+p144
+I3
+sVunderstand
+p145
+I1
+sVlord
+p146
+I1
+sVhearted
+p147
+I1
+sVha
+p148
+I2
+sVtrue
+p149
+I1
+sV2pac
+p150
+I1
+sVwomen
+p151
+I2
+sVme
+p152
+I2
+sVmercy
+p153
+I1
+sVcrosses
+p154
+I2
+sVlook
+p155
+I2
+sVraw
+p156
+I1
+sVheart
+p157
+I1
+sVsoul
+p158
+I1
+sVus
+p159
+I2
+sVfuture
+p160
+I2
+sVagain
+p161
+I1
+sVguide
+p162
+I1
+sVtheres
+p163
+I1
+sVive
+p164
+I1
+sVcrazy
+p165
+I1
+sVsees
+p166
+I1
+sVcover
+p167
+I1
+sVis
+p168
+I2
+sVmirror
+p169
+I1
+sVmind
+p170
+I1
+sVit
+p171
+I2
+sVbeatin
+p172
+I1
+sVthug
+p173
+I1
+sVcant
+p174
+I1
+sVim
+p175
+I4
+sVburied
+p176
+I2
+sVwant
+p177
+I2
+sVin
+p178
+I1
+sVready
+p179
+I1
+sVwatched
+p180
+I1
+sVcowardly
+p181
+I1
+sVshit
+p182
+I2
+sVsat
+p183
+I1
+sVfunny
+p184
+I2
+sVlistened
+p185
+I3
+sVtupac
+p186
+I8
+sVrather
+p187
+I2
+sVna
+p188
+I4
+sVmake
+p189
+I7
+sVrealest
+p190
+I2
+sVcross
+p191
+I2
+sVtight
+p192
+I1
+sVhot
+p193
+I1
+sVpac
+p194
+I2
+sVtake
+p195
+I4
+sVbandana
+p196
+I2
+sVwonder
+p197
+I1
+sVeverybodys
+p198
+I1
+sVmales
+p199
+I1
+sVbeginnings
+p200
+I2
+sVholla
+p201
+I1
+sVbald
+p202
+I4
+sVpretended
+p203
+I2
+sVinsanity
+p204
+I1
+sVplan
+p205
+I1
+sVnightmare
+p206
+I1
+sVnothing
+p207
+I1
+sVkillaz
+p208
+I2
+sVkid
+p209
+I1
+sVdeath
+p210
+I1
+sVbacked
+p211
+I1
+sVclear
+p212
+I1
+sVlife
+p213
+I3
+sVanybody
+p214
+I1
+sVrollin
+p215
+I1
+sVjail
+p216
+I1
+sVpush
+p217
+I1
+sVwake
+p218
+I1
+sVmenace
+p219
+I2
+sVdream
+p220
+I1
+sVplaying
+p221
+I2
+sVleft
+p222
+I1
+s.

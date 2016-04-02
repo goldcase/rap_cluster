@@ -1,60 +1,395 @@
-"who are you now" lyrics
-lupe fiasco lyrics
-"who are you now"
-(feat. b.o.b)
-when first she had on baby clothes
-then she had on young lady clothes
-mom tried to keep her out the sexy clothes
-prom night she wore dressy clothes
-prom night, took all night to get ready for
-retro now she want 80′s clothes
-no colleges no scholarships so she put on some navy clothes
-pregnant now its bigger clothes
-living in ?
-different girl when the liquor flow
-stripper name, stripper clothes
-stripper pose on stripper poles
-then take off her stripper clothes
-right in front them gigalo’s
-cocaine what she sniffin on
-burnt out, turnt out ? now she walk around in n-ggas clothes
-out the sag, out the bag
-goodwill got to give her clothes
-oh the humanity, like the ?
-richard pryor lit on fire, she can’t tell what fit no more
-and…
-who are you now,
-it’s like everyday you change
-who are you now
-your style, your clothes, your name
-who are you now
-so who are you now
-who are you now
-who are you now
-so you spend all your time to fit in line
-to fit in the crowd and even in your mirror’s eyes
-yourself you can’t identify
-and just like the energiser rabbit
-you just be spinning round
-and as it intensifies, your life it de-materialises
-today’s stylings, injecting like a virus
-from tv screens to your iris
-you buy what you are provided with
-whatever your size is
-you lay it flat then iron it
-and if you fight it, its like david verse goliath
-cause that skin you supposed to hide it
-dress it up and deny it
-cant even go natural no more cause if do you probably wont get hired
-so tell me who’s lying
-if i am, i’m lying
-on the ground but i’m flying
-and they still tryna find me
-who are you now,
-it’s like everyday you change
-who are you now
-your style your clothes your name
-who are you now
-so who are you now
-who are you now
-who are you now
+(dp1
+Vcolleges
+p2
+I1
+sVlyrics
+p3
+I2
+sVidentify
+p4
+I1
+sVskin
+p5
+I1
+sVgo
+p6
+I1
+sV80\u2032s
+p7
+I1
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVground
+p11
+I1
+sVstyle
+p12
+I2
+sVfit
+p13
+I3
+sVtv
+p14
+I1
+sVlady
+p15
+I1
+sVit\u2019s
+p16
+I2
+sVyoung
+p17
+I1
+sVverse
+p18
+I1
+sVnggas
+p19
+I1
+sVhumanity
+p20
+I1
+sVaround
+p21
+I1
+sVget
+p22
+I2
+sVi\u2019m
+p23
+I2
+sVmom
+p24
+I1
+sVprobably
+p25
+I1
+sVfront
+p26
+I1
+sVnow
+p27
+I13
+sVburnt
+p28
+I1
+sVbigger
+p29
+I1
+sVname
+p30
+I3
+sVwont
+p31
+I1
+sVlike
+p32
+I6
+sVpregnant
+p33
+I1
+sVturnt
+p34
+I1
+sVbag
+p35
+I1
+sVwho\u2019s
+p36
+I1
+sVnight
+p37
+I3
+sVround
+p38
+I1
+sVmirror\u2019s
+p39
+I1
+sVclothes
+p40
+I13
+sVright
+p41
+I1
+sVcrowd
+p42
+I1
+sVliquor
+p43
+I1
+sVinjecting
+p44
+I1
+sVnavy
+p45
+I1
+sVgirl
+p46
+I1
+sVeven
+p47
+I2
+sVliving
+p48
+I1
+sVscholarships
+p49
+I1
+sVhide
+p50
+I1
+sVfor
+p51
+I1
+sVprom
+p52
+I2
+sVpoles
+p53
+I1
+sVretro
+p54
+I1
+sVgot
+p55
+I1
+sVgoliath
+p56
+I1
+sVcause
+p57
+I2
+sVcan\u2019t
+p58
+I2
+sVlupe
+p59
+I1
+sVpose
+p60
+I1
+sVdematerialises
+p61
+I1
+sVput
+p62
+I1
+sVsexy
+p63
+I1
+sVchange
+p64
+I2
+sVon
+p65
+I1
+sVoh
+p66
+I1
+sVgigalo\u2019s
+p67
+I1
+sVkeep
+p68
+I1
+sVsniffin
+p69
+I1
+sVbob
+p70
+I1
+sVfirst
+p71
+I1
+sVenergiser
+p72
+I1
+sVwhatever
+p73
+I1
+sVwalk
+p74
+I1
+sVscreens
+p75
+I1
+sVspinning
+p76
+I1
+sVcocaine
+p77
+I1
+sVsize
+p78
+I1
+sVpryor
+p79
+I1
+sVflying
+p80
+I1
+sVtryna
+p81
+I1
+sVfight
+p82
+I1
+sVtell
+p83
+I2
+sVmore
+p84
+I1
+sVflat
+p85
+I1
+sVeyes
+p86
+I1
+sVbuy
+p87
+I1
+sViris
+p88
+I1
+sVfire
+p89
+I1
+sVtoday\u2019s
+p90
+I1
+sVtook
+p91
+I1
+sVit
+p92
+I3
+sVrabbit
+p93
+I1
+sVbaby
+p94
+I1
+sVline
+p95
+I1
+sVwith
+p96
+I1
+sVme
+p97
+I1
+sVwore
+p98
+I1
+sVand\u2026
+p99
+I1
+sVdressy
+p100
+I1
+sVsupposed
+p101
+I1
+sViron
+p102
+I1
+sVstylings
+p103
+I1
+sVgive
+p104
+I1
+sVis
+p105
+I1
+sVsag
+p106
+I1
+sVlife
+p107
+I1
+sVcant
+p108
+I1
+sVwant
+p109
+I1
+sVready
+p110
+I1
+sVdavid
+p111
+I1
+sVdress
+p112
+I1
+sVeveryday
+p113
+I2
+sVstripper
+p114
+I5
+sVdifferent
+p115
+I1
+sVlit
+p116
+I1
+sVtake
+p117
+I1
+sVtried
+p118
+I1
+sVintensifies
+p119
+I1
+sVprovided
+p120
+I1
+sVtime
+p121
+I1
+sVvirus
+p122
+I1
+sVhired
+p123
+I1
+sVlay
+p124
+I1
+sVdeny
+p125
+I1
+sVnatural
+p126
+I1
+sVrichard
+p127
+I1
+sVgoodwill
+p128
+I1
+sVflow
+p129
+I1
+sVfiasco
+p130
+I1
+sVspend
+p131
+I1
+sVlying
+p132
+I2
+s.

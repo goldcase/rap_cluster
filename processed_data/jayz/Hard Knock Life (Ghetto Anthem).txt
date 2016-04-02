@@ -1,78 +1,646 @@
-"hard knock life (ghetto anthem)" lyrics
-jay-z lyrics
-"hard knock life (ghetto anthem)"
-check the bassline out, uh-huh
-jigga (bounce wit it), uh-huh uh-huh uh-huh, yeahh
-let it bump though
-it's the hard knock life (uh-huh) for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life!!
-from standin on the corners boppin
-to drivin some of the hottest cars new york has ever seen
-for droppin some of the hottest verses rap has ever heard
-from the dope spot, with the smoke glock
-fleein the murder scene, you know me well
-from nightmares of a lonely cell, my only hell
-but since when y'all niggaz know me to fail?  fuck naw
-where all my niggaz with the rubber grips, bust shots
-and if you with me mom i rub on your tits, and what-not
-i'm from the school of the hard knocks, we must not
-let outsiders violate our blocks, and my plot
-let's stick up the world and split it fifty/fifty, uh-huh
-let's take the dough and stay real jiggy, uh-huh
-and sip the cris' and get pissy-pissy
-flow infinitely like the memory of my nigga biggie, baby!
-you know it's hell when i come through
-the life and times of shawn carter
-nigga volume 2, y'all niggaz get ready
-it's the hard knock life, for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life!!
-i flow for those 'dro'ed out; all my niggaz
-locked down in the ten by fo', controllin the house
-we live in hard knocks, we don't take over we borrow blocks
-burn em down and you can have it back daddy, i'd rather that
-i flow for chicks wishin, they ain't have to strip to pay tuition
-i see you vision mama, i put my money on the longshots
-all my ballers that's born to clock
-now i'ma be on top whether i perform or not
-i went from lukewarm to hot; sleepin on futons and cots
-to king size, dream machines, the green fives
-i've seen pies let the thing between my eyes analyze life's ills
-then i put it down type braile
-i'm tight grill with the phony, rappers y'all might feel we homies
-i'm like still, y'all don't know me, shit!
-i'm tight grill when my situation ain't improvin
-i'm tryin to murder everything movin, feel me?!
-it's the hard knock life, for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life, for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life!!
-i don't how to sleep, i gotta eat, stay on my toes
-gotta a lot of beef, so logically, i prey on my foes
-hustling's still inside of me, and as far as progress
-you'd be hard-pressed, to find another rapper hot as me
-i gave you prophecy on my first joint, and y'all lamed out
-didn't really appreciate it, til the second one came out
-so i stretched the game out, x'ed your name out
-put jigga on top, and drop albums non-stop for ya, nigguh!
-it's the hard knock life, for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life, for us
-it's the hard knock life, for us!!
-steada treated, we get tricked
-steada kisses, we get kicked
-it's the hard knock life!!
-.. it's the hard knock life!!
-.. it's the hard knock life!!
+(dp1
+Vxed
+p2
+I1
+sVchicks
+p3
+I1
+sVstandin
+p4
+I1
+sVhardpressed
+p5
+I1
+sVlyrics
+p6
+I2
+sVya
+p7
+I1
+sVmoney
+p8
+I1
+sVfleein
+p9
+I1
+sVtricked
+p10
+I6
+sVverses
+p11
+I1
+sVnigguh
+p12
+I1
+sVdough
+p13
+I1
+sVworld
+p14
+I1
+sVhell
+p15
+I2
+sVstill
+p16
+I2
+sVeyes
+p17
+I1
+sVfind
+p18
+I1
+sVaint
+p19
+I2
+sVtil
+p20
+I1
+sVviolate
+p21
+I1
+sVinfinitely
+p22
+I1
+sVpissypissy
+p23
+I1
+sVfutons
+p24
+I1
+sValbums
+p25
+I1
+sVbust
+p26
+I1
+sVlets
+p27
+I2
+sVhomies
+p28
+I1
+sVgrill
+p29
+I2
+sVappreciate
+p30
+I1
+sVmight
+p31
+I1
+sVsplit
+p32
+I1
+sVreal
+p33
+I1
+sVlonely
+p34
+I1
+sVtits
+p35
+I1
+sVget
+p36
+I14
+sVfar
+p37
+I1
+sVdope
+p38
+I1
+sVcontrollin
+p39
+I1
+sVjoint
+p40
+I1
+sVgame
+p41
+I1
+sVknow
+p42
+I4
+sVmom
+p43
+I1
+sVgot
+p44
+I2
+sVnot
+p45
+I2
+sVknocks
+p46
+I2
+sVpies
+p47
+I1
+sVghetto
+p48
+I2
+sVknock
+p49
+I20
+sVschool
+p50
+I1
+sVlike
+p51
+I2
+sVhustlings
+p52
+I1
+sVcorners
+p53
+I1
+sVdrop
+p54
+I1
+sVrapper
+p55
+I1
+sVborrow
+p56
+I1
+sVshots
+p57
+I1
+sVsecond
+p58
+I1
+sVthrough
+p59
+I1
+sVwent
+p60
+I1
+sVyall
+p61
+I5
+sVstretched
+p62
+I1
+sVem
+p63
+I1
+sVnigga
+p64
+I2
+sVcarter
+p65
+I1
+sVten
+p66
+I1
+sVbump
+p67
+I1
+sVhouse
+p68
+I1
+sVhard
+p69
+I22
+sVills
+p70
+I1
+sVback
+p71
+I1
+sVbounce
+p72
+I1
+sVborn
+p73
+I1
+sVsee
+p74
+I1
+sVtoes
+p75
+I1
+sVgave
+p76
+I1
+sVus
+p77
+I12
+sVfail
+p78
+I1
+sVprogress
+p79
+I1
+sVmachines
+p80
+I1
+sVout
+p81
+I3
+sVmovin
+p82
+I1
+sVlukewarm
+p83
+I1
+sVclock
+p84
+I1
+sVanthem
+p85
+I2
+sVsince
+p86
+I1
+sVcell
+p87
+I1
+sVeverything
+p88
+I1
+sVnew
+p89
+I1
+sVsize
+p90
+I1
+sVever
+p91
+I2
+sVoutsiders
+p92
+I1
+sVima
+p93
+I1
+sVkicked
+p94
+I6
+sVdrivin
+p95
+I1
+sVrub
+p96
+I1
+sVcars
+p97
+I1
+sVburn
+p98
+I1
+sVtuition
+p99
+I1
+sVnightmares
+p100
+I1
+sVlet
+p101
+I3
+sVyork
+p102
+I1
+sVput
+p103
+I3
+sVcome
+p104
+I1
+sVfoes
+p105
+I1
+sVdidnt
+p106
+I1
+sVtimes
+p107
+I1
+sVthing
+p108
+I1
+sVvision
+p109
+I1
+sVsmoke
+p110
+I1
+sVthats
+p111
+I1
+sVwhatnot
+p112
+I1
+sVdont
+p113
+I3
+sVfeel
+p114
+I2
+sVyoud
+p115
+I1
+sVscene
+p116
+I1
+sVone
+p117
+I1
+sVjayz
+p118
+I1
+sVwit
+p119
+I1
+sVlogically
+p120
+I1
+sVanother
+p121
+I1
+sVstrip
+p122
+I1
+sVimprovin
+p123
+I1
+sVuhhuh
+p124
+I7
+sVcris
+p125
+I1
+sVtake
+p126
+I2
+sVplot
+p127
+I1
+sVwishin
+p128
+I1
+sVlifes
+p129
+I1
+sVfives
+p130
+I1
+sVbeef
+p131
+I1
+sVtop
+p132
+I2
+sVlongshots
+p133
+I1
+sVname
+p134
+I1
+sVlive
+p135
+I1
+sV2
+I1
+sVprey
+p136
+I1
+sVlot
+p137
+I1
+sVmemory
+p138
+I1
+sVmama
+p139
+I1
+sVhottest
+p140
+I2
+sVanalyze
+p141
+I1
+sVtype
+p142
+I1
+sVlife
+p143
+I21
+sVglock
+p144
+I1
+sVthat
+p145
+I1
+sVshawn
+p146
+I1
+sVphony
+p147
+I1
+sVvolume
+p148
+I1
+sVstick
+p149
+I1
+sVbaby
+p150
+I1
+sVprophecy
+p151
+I1
+sVeat
+p152
+I1
+sVsleep
+p153
+I1
+sVmust
+p154
+I1
+sVme
+p155
+I2
+sVking
+p156
+I1
+sVtryin
+p157
+I1
+sVlocked
+p158
+I1
+sVbiggie
+p159
+I1
+sVwhether
+p160
+I1
+sVinside
+p161
+I1
+sVballers
+p162
+I1
+sVniggaz
+p163
+I4
+sVdroppin
+p164
+I1
+sVsituation
+p165
+I1
+sVdaddy
+p166
+I1
+sVtreated
+p167
+I6
+sVive
+p168
+I1
+sVboppin
+p169
+I1
+sVflow
+p170
+I3
+sVkisses
+p171
+I6
+sVfuck
+p172
+I1
+sVdroed
+p173
+I1
+sVheard
+p174
+I1
+sVmurder
+p175
+I2
+sVim
+p176
+I5
+sVrap
+p177
+I1
+sVready
+p178
+I1
+sVseen
+p179
+I2
+sVcheck
+p180
+I1
+sVshit
+p181
+I1
+sVcots
+p182
+I1
+sVbraile
+p183
+I1
+sVfiftyfifty
+p184
+I1
+sVsip
+p185
+I1
+sVjigga
+p186
+I2
+sVrather
+p187
+I1
+sVpay
+p188
+I1
+sVbassline
+p189
+I1
+sVid
+p190
+I1
+sVrubber
+p191
+I1
+sVtight
+p192
+I2
+sVhot
+p193
+I2
+sVnaw
+p194
+I1
+sVyeahh
+p195
+I1
+sVgreen
+p196
+I1
+sVgrips
+p197
+I1
+sVreally
+p198
+I1
+sVnonstop
+p199
+I1
+sVjiggy
+p200
+I1
+sVblocks
+p201
+I2
+sVthough
+p202
+I1
+sVlamed
+p203
+I1
+sVrappers
+p204
+I1
+sVspot
+p205
+I1
+sVstay
+p206
+I2
+sVfo
+p207
+I1
+sVta
+p208
+I2
+sVsleepin
+p209
+I1
+sVwell
+p210
+I1
+sVperform
+p211
+I1
+sVsteada
+p212
+I12
+sVfirst
+p213
+I1
+sVdream
+p214
+I1
+sVcame
+p215
+I1
+s.

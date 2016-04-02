@@ -1,81 +1,739 @@
-"in the woods" lyrics
-de la soul lyrics
-"in the woods"
-(say party over here, party over here)
-(say party over there, party over there)
-(say party over here, party over here)
-(say party over there, party over there)
-(say party over here, party over here)
-(say party over there, party over there)
-(say party over here, party over here)
-(say party over there, party over there)
-hey yo you feel that shit (yeah it feels good)
-well it's that thumpin shit (well i'm soakin too)
-i'll introduce the split (i'll be the go)
-i'll be the get
-fixin with the ins for the outs we set
-hey shortie (yeah mister)
-make no mistake
-i challenge the bang for a bigger rhyme bouquet
-(you be buggin)
-well i bugs like roaches on rugs
-speaker of the bone like the speaks in my loans
-give me the night baby and i'll be good in the woods
-ya freakin my mind ya freakin my mind
-i told the maceo bout the days that go (he know)
-i know he know cuz he's out to get the gold
-the chattanooga cruisin' with the malibu shit
-the bigger of the isa (cuz he is the shit)
-i'm like hickory (dickory niggas)
-i make you feel lost like high school history
-creator of the rhymin dominoes
-watchin drop it's the joint see
-so hit me with the zsa zsa (indeed darling)
-the coolest fool be the coolest fool
-i know the watch be in the air but i kick a new bucket
-sippin it wit shortie so check the way we cuff it
-it's that indonesia funk up in your trunk
-makin' ya bob bob makin' ya bob
-makin' ya bob bob makin' ya bob
-makin' ya bob bob makin' ya bob
-it's that funky shit (in the woods)
-that be beyond understandin (in the woods)
-yo we do it with the soul (in the woods)
-timber (in the woods)
-punch that o for operator baby its a love solid
-i been stylin abstract since loose leafs was the shit
-catch me breathin on planes where the gangstas outdated
-fuck being hard posdnous is complicated
-as my pants play the sagatogah i can order sniffs of
-frequencies frequencies cuz i freak mc's with the rhythm rock live
-(man i'd rather point a pistol at ya head and try to burst it)
-no jive in the matter so niggas start runnin
-yo that native shit is dead so the stickabush is comin
-(stickabush) it's comin (stickabush) it's here
-fuck the five count it only takes three to bring it near
-so let me move ya won better as the salad is tossed
-and get a taste of the mase that you thought was lost
-i'm cautious wit my looks (in the woods)
-pickin them nines in my hair (in the woods)
-sniffin for the beats like litter (in the woods)
-the plugs just can't be found (in the woods)
-can i come off like the rest of em i think i should
-could i of course one verse now ya lost it
-found it realizing i came off it sounds mean
-but pal there's a new kid on the scene
-i got much soul on the down low tip
-lay back smooth one drink i'll be trippin
-never don't you dare consider me a fly gal
-pal i got props on a different tip
-i recall back i go for mines i get the goods
-wouldn't you know forgot my compass i got lost in the woods
-found my way and i was out i pronounce every letter
-and if i had the chance i'd do it better
-i heard a holler down the way and now i'm out for the time being
-ya wanna be in but you can't see what i'm seein
-time and time my friend i stay gettin it on
-and now they playin my song again
-i got feminine style (in the woods)
-i'm not tryin to be sexy (in the woods)
-and no you can't knock the boots (in the woods)
-a lot of things be happenin (in the woods)
+(dp1
+Vthings
+p2
+I1
+sVconsider
+p3
+I1
+sVlyrics
+p4
+I2
+sVbeing
+p5
+I1
+sVindeed
+p6
+I1
+sVmove
+p7
+I1
+sVrest
+p8
+I1
+sVmines
+p9
+I1
+sVcatch
+p10
+I1
+sVwoods
+p11
+I16
+sVlooks
+p12
+I1
+sVfreakin
+p13
+I2
+sVgo
+p14
+I3
+sVmister
+p15
+I1
+sVtimber
+p16
+I1
+sVstyle
+p17
+I1
+sVgold
+p18
+I1
+sVnines
+p19
+I1
+sVla
+p20
+I1
+sVmcs
+p21
+I1
+sVcuz
+p22
+I3
+sVshould
+p23
+I1
+sVbetter
+p24
+I2
+sVbouquet
+p25
+I1
+sVverse
+p26
+I1
+sVwon
+p27
+I1
+sVdare
+p28
+I1
+sVrhythm
+p29
+I1
+sVbout
+p30
+I1
+sVkick
+p31
+I1
+sVfool
+p32
+I2
+sVcount
+p33
+I1
+sVgood
+p34
+I2
+sVhit
+p35
+I1
+sVyo
+p36
+I3
+sVget
+p37
+I4
+sVya
+p38
+I12
+sVfrequencies
+p39
+I2
+sVde
+p40
+I1
+sVrhyme
+p41
+I1
+sVhickory
+p42
+I1
+sVintroduce
+p43
+I1
+sVscene
+p44
+I1
+sVheard
+p45
+I1
+sVjoint
+p46
+I1
+sVbang
+p47
+I1
+sVthumpin
+p48
+I1
+sVknow
+p49
+I5
+sVgot
+p50
+I4
+sVone
+p51
+I2
+sVroaches
+p52
+I1
+sVbigger
+p53
+I2
+sVtrippin
+p54
+I1
+sVschool
+p55
+I1
+sVlike
+p56
+I6
+sVlost
+p57
+I4
+sVrhymin
+p58
+I1
+sVdrop
+p59
+I1
+sVtry
+p60
+I1
+sVsolid
+p61
+I1
+sVnight
+p62
+I1
+sVfound
+p63
+I3
+sVtold
+p64
+I1
+sVbone
+p65
+I1
+sVmean
+p66
+I1
+sVem
+p67
+I1
+sVpants
+p68
+I1
+sVset
+p69
+I1
+sVsoakin
+p70
+I1
+sVcreator
+p71
+I1
+sVsmooth
+p72
+I1
+sVhard
+p73
+I1
+sVsagatogah
+p74
+I1
+sVyeah
+p75
+I2
+sVdead
+p76
+I1
+sVhair
+p77
+I1
+sVsee
+p78
+I2
+sVtheres
+p79
+I1
+sVholler
+p80
+I1
+sVforgot
+p81
+I1
+sVid
+p82
+I2
+sVplayin
+p83
+I1
+sVbeyond
+p84
+I1
+sVfixin
+p85
+I1
+sVouts
+p86
+I1
+sVsince
+p87
+I1
+sVrealizing
+p88
+I1
+sVshortie
+p89
+I2
+sVprops
+p90
+I1
+sVnew
+p91
+I2
+sVdarling
+p92
+I1
+sVpistol
+p93
+I1
+sVwatchin
+p94
+I1
+sVdickory
+p95
+I1
+sVnever
+p96
+I1
+sVbreathin
+p97
+I1
+sVrock
+p98
+I1
+sVloose
+p99
+I1
+sVpunch
+p100
+I1
+sVhere
+p101
+I5
+sVcomplicated
+p102
+I1
+sVsniffs
+p103
+I1
+sVlitter
+p104
+I1
+sVtrunk
+p105
+I1
+sVsexy
+p106
+I1
+sVcompass
+p107
+I1
+sVloans
+p108
+I1
+sVseein
+p109
+I1
+sVevery
+p110
+I1
+sVon
+p111
+I1
+sVpronounce
+p112
+I1
+sVcautious
+p113
+I1
+sVbring
+p114
+I1
+sVwouldnt
+p115
+I1
+sVof
+p116
+I1
+sVill
+p117
+I5
+sVdays
+p118
+I1
+sVo
+I1
+sVfunky
+p119
+I1
+sVlet
+p120
+I1
+sVisa
+p121
+I1
+sVmistake
+p122
+I1
+sVhead
+p123
+I1
+sVthink
+p124
+I1
+sVstickabush
+p125
+I3
+sVlove
+p126
+I1
+sVdont
+p127
+I1
+sVpoint
+p128
+I1
+sVfeel
+p129
+I2
+sVmakin
+p130
+I6
+sVthree
+p131
+I1
+sVhappenin
+p132
+I1
+sVwit
+p133
+I2
+sVcomin
+p134
+I2
+sVoperator
+p135
+I1
+sVsounds
+p136
+I1
+sVbeats
+p137
+I1
+sVwan
+p138
+I1
+sVtakes
+p139
+I1
+sVhes
+p140
+I1
+sVknock
+p141
+I1
+sVstylin
+p142
+I1
+sVthere
+p143
+I4
+sVhey
+p144
+I2
+sVposdnous
+p145
+I1
+sVstart
+p146
+I1
+sVlive
+p147
+I1
+sVmuch
+p148
+I1
+sVcome
+p149
+I1
+sVtoo
+p150
+I1
+sVway
+p151
+I3
+sVjive
+p152
+I1
+sVkid
+p153
+I1
+sVburst
+p154
+I1
+sVfriend
+p155
+I1
+sVlow
+p156
+I1
+sVback
+p157
+I2
+sVmalibu
+p158
+I1
+sVlot
+p159
+I1
+sVgangstas
+p160
+I1
+sVmase
+p161
+I1
+sVcant
+p162
+I3
+sVfuck
+p163
+I2
+sVfeminine
+p164
+I1
+sVgal
+p165
+I1
+sVboots
+p166
+I1
+sVgoods
+p167
+I1
+sVbaby
+p168
+I2
+sVbugs
+p169
+I1
+sVoutdated
+p170
+I1
+sVfunk
+p171
+I1
+sVrunnin
+p172
+I1
+sVtryin
+p173
+I1
+sVtossed
+p174
+I1
+sVsalad
+p175
+I1
+sVniggas
+p176
+I2
+sVmaceo
+p177
+I1
+sVrecall
+p178
+I1
+sVchallenge
+p179
+I1
+sVbucket
+p180
+I1
+sVsoul
+p181
+I3
+sVair
+p182
+I1
+sVmatter
+p183
+I1
+sVnear
+p184
+I1
+sVcuff
+p185
+I1
+sVzsa
+p186
+I2
+sVplanes
+p187
+I1
+sVcould
+p188
+I1
+sVcoolest
+p189
+I2
+sVhistory
+p190
+I1
+sVfreak
+p191
+I1
+sVgettin
+p192
+I1
+sVgive
+p193
+I1
+sVtaste
+p194
+I1
+sVabstract
+p195
+I1
+sVmind
+p196
+I2
+sVit
+p197
+I3
+sVins
+p198
+I1
+sVhigh
+p199
+I1
+sVfly
+p200
+I1
+sVsay
+p201
+I8
+sVim
+p202
+I6
+sVleafs
+p203
+I1
+sVrugs
+p204
+I1
+sVshit
+p205
+I7
+sVnative
+p206
+I1
+sVagain
+p207
+I1
+sVdifferent
+p208
+I1
+sVsippin
+p209
+I1
+sVrather
+p210
+I1
+sVna
+p211
+I1
+sVmake
+p212
+I2
+sVsong
+p213
+I1
+sVtip
+p214
+I2
+sVsniffin
+p215
+I1
+sVcheck
+p216
+I1
+sVspeaker
+p217
+I1
+sVsplit
+p218
+I1
+sVpickin
+p219
+I1
+sVparty
+p220
+I16
+sVspeaks
+p221
+I1
+sVpal
+p222
+I2
+sVplay
+p223
+I1
+sVwatch
+p224
+I1
+sVdrink
+p225
+I1
+sVstay
+p226
+I1
+sVchance
+p227
+I1
+sVlay
+p228
+I1
+sVletter
+p229
+I1
+sVplugs
+p230
+I1
+sVcourse
+p231
+I1
+sVbob
+p232
+I9
+sVman
+p233
+I1
+sVchattanooga
+p234
+I1
+sVunderstandin
+p235
+I1
+sVindonesia
+p236
+I1
+sVwell
+p237
+I3
+sVfeels
+p238
+I1
+sVthought
+p239
+I1
+sVbuggin
+p240
+I1
+sVcame
+p241
+I1
+sVtime
+p242
+I3
+sVdominoes
+p243
+I1
+sVfive
+p244
+I1
+sVorder
+p245
+I1
+sVcruisin
+p246
+I1
+s.

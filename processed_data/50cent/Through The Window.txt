@@ -1,55 +1,407 @@
-"through the window" lyrics
-50 cent lyrics
-"through the window"
-monster.
-how should i feel?
-creatures lie here.
-looking through the window
-first it's her neck, yeah then her back
-yeah i'm a freak, i get into all that
-girl i perform for ya, like a porno star
-till ya had enough then i just need a little bit more
-new music new move new position
-new erotic sounds is goin down now listen
-i can hear your heartbeat, you're sweatin i can paint a perfect picture
-i get deeper and deeper, i told ya i'll get ya
-i work that murk that just the way ya like it baby
-turn a quickie into an all nighter maybe
-your sex drive it match my sex drive
-then we be movin as fast as a nascar ride
-switch gears slow down, go down whoa now
-you can feel every inch of it when we intimate
-i'll use my tongue baby, i'll leave you sprung baby
-i'll have ya head spinnin sayin 50 so crazy
-yeah.. yeah..
-monster.
-how should i feel?
-creatures lie here.
-looking through the window
-you movin too fast, you movin too quick
-you heavy on the gas, you movin too swift
-can't keep up the pace
-might not finish the race
-but do it now for it's too late to switch
-and how you make a impala lift
-but the set car is ya heart
-and is hard to be fixed
-you gon break it if you don't downshift
-and i know you get a rush
-when you hang around risk
-but gon get enough
-when you breakin down sick
-all i'll cant move your wheels
-and feelin like shhh
-just a mile back you was fellin quite brisk
-now you sitting on bricks with your car on strict
-radio gone insuarance won't cover
-paint job wreck and you draggin your muffler
-wouldn't listen then, but i bet you hear now
-cos you got speed ticket
-cos you wouldn't slow down
-yeeeah!
-monster.
-how should i feel?
-creatures lie here.
-looking through the window
+(dp1
+Vsweatin
+p2
+I1
+sVlyrics
+p3
+I2
+sVmove
+p4
+I2
+sVmile
+p5
+I1
+sVradio
+p6
+I1
+sVgo
+p7
+I1
+sVspeed
+p8
+I1
+sVticket
+p9
+I1
+sVperfect
+p10
+I1
+sVporno
+p11
+I1
+sVsayin
+p12
+I1
+sVinsuarance
+p13
+I1
+sVlate
+p14
+I1
+sVbricks
+p15
+I1
+sVwindow
+p16
+I5
+sVmight
+p17
+I1
+sVmatch
+p18
+I1
+sVaround
+p19
+I1
+sVget
+p20
+I5
+sVya
+p21
+I7
+sVfeelin
+p22
+I1
+sVbreak
+p23
+I1
+sVevery
+p24
+I1
+sVknow
+p25
+I1
+sVgot
+p26
+I1
+sVbit
+p27
+I1
+sVnow
+p28
+I1
+sVshhh
+p29
+I1
+sVwont
+p30
+I1
+sVlike
+p31
+I3
+sV50
+p32
+I2
+sVleave
+p33
+I1
+sVrace
+p34
+I1
+sVgears
+p35
+I1
+sVquick
+p36
+I1
+sVfixed
+p37
+I1
+sVheavy
+p38
+I1
+sVdownshift
+p39
+I1
+sVmurk
+p40
+I1
+sVhard
+p41
+I1
+sVback
+p42
+I2
+sVsex
+p43
+I2
+sVerotic
+p44
+I1
+sVgirl
+p45
+I1
+sVcreatures
+p46
+I3
+sVmovin
+p47
+I4
+sVgon
+p48
+I2
+sVwreck
+p49
+I1
+sVlooking
+p50
+I3
+sVenough
+p51
+I2
+sVnew
+p52
+I4
+sVtold
+p53
+I1
+sVmonster
+p54
+I3
+sVintimate
+p55
+I1
+sVsprung
+p56
+I1
+sVhere
+p57
+I3
+sVquite
+p58
+I1
+sVquickie
+p59
+I1
+sVjob
+p60
+I1
+sVslow
+p61
+I2
+sVyeeeah
+p62
+I1
+sVswift
+p63
+I1
+sVcos
+p64
+I2
+sVwouldnt
+p65
+I2
+sVill
+p66
+I5
+sVbreakin
+p67
+I1
+sVfellin
+p68
+I1
+sVkeep
+p69
+I1
+sVturn
+p70
+I1
+sVheartbeat
+p71
+I1
+sVtongue
+p72
+I1
+sVdraggin
+p73
+I1
+sVfirst
+p74
+I1
+sVdont
+p75
+I1
+sVgone
+p76
+I1
+sVfeel
+p77
+I4
+sVdown
+p78
+I1
+sVset
+p79
+I1
+sVcent
+p80
+I1
+sVsounds
+p81
+I1
+sVlittle
+p82
+I1
+sVstrict
+p83
+I1
+sVfast
+p84
+I2
+sVpaint
+p85
+I2
+sVmusic
+p86
+I1
+sVway
+p87
+I1
+sVspinnin
+p88
+I1
+sVwhoa
+p89
+I1
+sVlisten
+p90
+I2
+sVhead
+p91
+I1
+sVdeeper
+p92
+I2
+sVbrisk
+p93
+I1
+sVgas
+p94
+I1
+sVyeah
+p95
+I4
+sVlift
+p96
+I1
+sVhear
+p97
+I2
+sVbaby
+p98
+I3
+sVrush
+p99
+I1
+sVcar
+p100
+I2
+sVride
+p101
+I1
+sVwork
+p102
+I1
+sVpace
+p103
+I1
+sVimpala
+p104
+I1
+sVbet
+p105
+I1
+sVheart
+p106
+I1
+sVcrazy
+p107
+I1
+sVfreak
+p108
+I1
+sVnascar
+p109
+I1
+sVcant
+p110
+I2
+sVim
+p111
+I1
+sVneed
+p112
+I1
+sVrisk
+p113
+I1
+sVlie
+p114
+I3
+sVperform
+p115
+I1
+sVmake
+p116
+I1
+sVsitting
+p117
+I1
+sVnighter
+p118
+I1
+sVtill
+p119
+I1
+sVsick
+p120
+I1
+sVinch
+p121
+I1
+sVpicture
+p122
+I1
+sVfinish
+p123
+I1
+sVstar
+p124
+I1
+sVuse
+p125
+I1
+sVhang
+p126
+I1
+sVmuffler
+p127
+I1
+sVwheels
+p128
+I1
+sVgoin
+p129
+I1
+sVneck
+p130
+I1
+sVmaybe
+p131
+I1
+sVyoure
+p132
+I1
+sVcover
+p133
+I1
+sVdrive
+p134
+I2
+sVswitch
+p135
+I2
+sVposition
+p136
+I1
+s.

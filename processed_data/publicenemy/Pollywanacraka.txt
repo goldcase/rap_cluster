@@ -1,45 +1,305 @@
-"pollywanacraka" lyrics
-public enemy lyrics
-"pollywanacraka"
-she wants a lover right now
-but not no brother
-her man gotta have a lotta money
-to get under her cover
-now she's a fine sister
-but up here she's missin' it
-she says she wanna learn about life
-no old black bull shit
-at the age of 15 a brother gave her a baby
-she's 19 now and it drover her crazy
-and now everytime
-she turns around
-all the people in the neighborhood
-look and get mand and sing
-meet mr. succesful
-i guess he's blessed yeah
-but he happens to be a brother
-who only wants blue eyes and blonde hair
-now this young mister
-he don't like sisters
-he couldn't find that special one
-he know why he missed her
-he says sisters wasn't good enuff
-they only wanted his green stuff
-that's why everytime he turned
-around all the people
-in the neighborhood
-looked and got mad
-and sang
-i try to tell my people
-there should not be any hatred
-for a brother or a sister
-whose opposite race they've mated
-no man is god
-and god put us all here (yeah)
-but this system has no wisdom
-the devil split us in pairs
-and taught us white is good, black is bad
-and black and white is still too bad
-that's why everytime i turn around
-all the people in my neighborhood
-look mad and sing....
+(dp1
+Vneighborhood
+p2
+I3
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVstill
+p5
+I1
+sVfine
+p6
+I1
+sVfind
+p7
+I1
+sVwhose
+p8
+I1
+sVyoung
+p9
+I1
+sVblack
+p10
+I3
+sVta
+p11
+I1
+sVgood
+p12
+I2
+sVaround
+p13
+I3
+sVget
+p14
+I2
+sVpollywanacraka
+p15
+I2
+sVknow
+p16
+I1
+sVnow
+p17
+I1
+sVenemy
+p18
+I1
+sVlike
+p19
+I1
+sVeverytime
+p20
+I3
+sVturns
+p21
+I1
+sVbrother
+p22
+I4
+sVtry
+p23
+I1
+sVsang
+p24
+I1
+sVbad
+p25
+I2
+sVrace
+p26
+I1
+sVright
+p27
+I1
+sVsays
+p28
+I2
+sVpeople
+p29
+I4
+sVyeah
+p30
+I2
+sVhair
+p31
+I1
+sVtaught
+p32
+I1
+sVshes
+p33
+I3
+sVcouldnt
+p34
+I1
+sVspecial
+p35
+I1
+sVhappens
+p36
+I1
+sVlotta
+p37
+I1
+sVmister
+p38
+I1
+sVdrover
+p39
+I1
+sVstuff
+p40
+I1
+sVgot
+p41
+I2
+sVpublic
+p42
+I1
+sVmr
+p43
+I1
+sVlover
+p44
+I1
+sVput
+p45
+I1
+sVsing
+p46
+I2
+sVwanted
+p47
+I1
+sVsuccesful
+p48
+I1
+sVsister
+p49
+I2
+sVturn
+p50
+I1
+sVmand
+p51
+I1
+sVhatred
+p52
+I1
+sVthats
+p53
+I2
+sVdont
+p54
+I1
+sVblessed
+p55
+I1
+sVone
+p56
+I1
+sVold
+p57
+I1
+sVblonde
+p58
+I1
+sVwan
+p59
+I1
+sVguess
+p60
+I1
+sVdevil
+p61
+I1
+sVher
+p62
+I1
+sVhes
+p63
+I1
+sVsystem
+p64
+I1
+sVenuff
+p65
+I1
+sVwhite
+p66
+I2
+sVman
+p67
+I2
+sVtell
+p68
+I1
+sVwants
+p69
+I2
+sVlife
+p70
+I1
+sVpairs
+p71
+I1
+sVwisdom
+p72
+I1
+sVbull
+p73
+I1
+sVbaby
+p74
+I1
+sVtheyve
+p75
+I1
+sV15
+p76
+I1
+sVlook
+p77
+I2
+sV19
+p78
+I1
+sVus
+p79
+I3
+sVlearn
+p80
+I1
+sVmeet
+p81
+I1
+sVgave
+p82
+I1
+sVcrazy
+p83
+I1
+sVmated
+p84
+I1
+sVwasnt
+p85
+I1
+sVturned
+p86
+I1
+sVit
+p87
+I1
+sVshit
+p88
+I1
+sVna
+p89
+I1
+sVsplit
+p90
+I1
+sVblue
+p91
+I1
+sVopposite
+p92
+I1
+sVmissin
+p93
+I1
+sVmad
+p94
+I2
+sVsisters
+p95
+I2
+sVeyes
+p96
+I1
+sVage
+p97
+I1
+sVcover
+p98
+I1
+sVlooked
+p99
+I1
+sVmissed
+p100
+I1
+sVgreen
+p101
+I1
+sVgod
+p102
+I2
+s.

@@ -1,105 +1,897 @@
-"full clip (remix)" lyrics
-gang starr lyrics
-"full clip (remix)"
-(feat. sticky fingaz)
-big l rest in peace
-do you wanna mess with this?
-i'm one of the best yet
-we've got it
-you can feel the realness
-in this business of rep
-go ahead
-fresh out the gate again, time to raise the stakes again
-fatten my plate again, y'all cats know we always play to win
-g-a-n-g to the starr son
-haters took this shit too far son
-so that's all for you, i'm whiping out your whole team
-i'll splatter your dreams with lyrics to shatter your schemes
-the badder you seem, the more lies you tell
-the more lies you sell then by surprise you fell
-into my deathtrap, right into my clutches
-stupid, you know the god must bless every single mic he touches
-i've suffered, just so i could return harder
-wanna be the shit starter? fuck around, make you a martyr
-i make ya famous, turn around and make ya nameless
-cause you never understood to me how vital this rap game is
-save it and hold that, you catch a hot one
-rhymes chase a fake nigga down soon as i spot one
-full clip
-do you wanna mess with this?
-gangstarr
-i'm one of the best yet
-i'm nice like that
-it's all good
-in this business of rep
-full clip
-do you wanna mess with this?
-gangstarr
-i'm one of the best yet
-i'm nice like that
-it's all good
-so i suggest you take a rest
-so if you stand in my way, i'm gonna have to spray
-learn that if you come against me son your gonna have to pray
-since back in the day i held the weight and kept my head up
-the wanna see the god catch an l it's all a set up
-i give no man or thing power over me
-why these niggaz so jealous and lookin sour over me?
-i'm bolder g i'm like impossible to stop
-i'm like that nigga in the ring with you, impossible to drop
-i'm like two magazine fully loaded to your one
-plus i ain't gonna quit spittin, till your done
-plus, more than over, i got my whole shit together
-more than a decade of hits, that'll live forever
-catchin rep off my name? your bound to fry
-know how many niggaz that i know, is done to die
-we never fail, and we ain't never been frail
-you niggaz talk crime, but you scared of jail
-attackin like a slick apache lyrics are trigger happy
-pullin back your wig piece just for the way your lookin at me
-talk back, blaow! i hit you up right now
-i don't know why so many of y'all wanna be thugs anyhow
-face the consequence, of your childish nonsense
-i could make your head explode just by my lyrical content
-get you in my scope and metaphorically snipe ya
-i never liked ya, i gas that ass and then ignite ya
-the flame thrower, make your peops afraid to know ya
-how many times i told ya play your position small soldier
-my heart is colder, makes me wanna resort to violence
-stop beatin me in the head son, nah, i'm not buyin it
-i'm ready to blast, ready to surpass and harass
-i'm ready to flip, yeah i'm ready to get with all that cash
-i hold my chrome steady, with a tight grip
-so watch your dome already cause this one might hit
-it's time to let this shit get started
-get to the back if you chicken hearted
-it's sticky fingaz nigga, i'm fuckin retarded
-niggaz schemin on you under your nose
-its funny how old friends turn into new foes
-battlin you? that would be a waste of breath
-i can see you now cowerin in the face of death
-had your girl on her knees, give her a taste of life
-yo bitch rather be my whore than your wife
-im already in hell, shit was worse than this
-im cursed with gifts, you heard the myths
-now hear the truth, i tear the roof
-we hear the wolves, i'm rippin shit ridiculous
-your clip be hiss your rap is piss
-the gat don't miss with platnium hits
-nigga who you think fuckin wit this?
-i mean how many whips i'ma have to cop?
-how many albums i'ma have to drop?
-how many bitchs i'ma have to fuck?
-and how many guns i'ma have to bust?
-how many hearts i'ma have to break?
-how much money i'ma have to make?
-how many lives i'ma have to take?
-to let y'all niggaz know i'll send you straight to your wake
-full clip
-do you wanna mess with this?
-gangstarr
-the best yet
-i'm nice like that
-it's all good
-so i suggest you take a rest
-full clip
+(dp1
+Vignite
+p2
+I1
+sVnow
+p3
+I1
+sVroof
+p4
+I1
+sVset
+p5
+I1
+sVlyrics
+p6
+I4
+sVya
+p7
+I7
+sVmoney
+p8
+I1
+sVsoon
+p9
+I1
+sVrest
+p10
+I3
+sVwatch
+p11
+I1
+sVheld
+p12
+I1
+sVgang
+p13
+I2
+sVsurpass
+p14
+I1
+sVgo
+p15
+I1
+sVhell
+p16
+I1
+sVchicken
+p17
+I1
+sVfeat
+p18
+I1
+sVyet
+p19
+I4
+sVdecade
+p20
+I1
+sVmyths
+p21
+I1
+sVaint
+p22
+I2
+sVtouches
+p23
+I1
+sVhold
+p24
+I2
+sVfingaz
+p25
+I2
+sVpray
+p26
+I1
+sVtrigger
+p27
+I1
+sVsend
+p28
+I1
+sVbust
+p29
+I1
+sVcrime
+p30
+I1
+sVresort
+p31
+I1
+sVlives
+p32
+I1
+sVcash
+p33
+I1
+sVwhips
+p34
+I1
+sVsuffered
+p35
+I1
+sVsave
+p36
+I1
+sVmight
+p37
+I1
+sVgrip
+p38
+I1
+sVplate
+p39
+I1
+sVclutches
+p40
+I1
+sVreturn
+p41
+I1
+sVaround
+p42
+I2
+sVbolder
+p43
+I1
+sVget
+p44
+I4
+sVfar
+p45
+I1
+sVbig
+p46
+I1
+sVshatter
+p47
+I1
+sVnonsense
+p48
+I1
+sVbreak
+p49
+I1
+sVfamous
+p50
+I1
+sVgame
+p51
+I1
+sVevery
+p52
+I1
+sVknow
+p53
+I7
+sVgot
+p54
+I2
+sVone
+p55
+I7
+sVday
+p56
+I1
+sVdreams
+p57
+I1
+sVname
+p58
+I1
+sVhearts
+p59
+I1
+sVlike
+p60
+I7
+sVdie
+p61
+I1
+sVtear
+p62
+I1
+sValways
+p63
+I1
+sVdrop
+p64
+I2
+sVl
+I2
+sVbless
+p65
+I1
+sVgood
+p66
+I3
+sVstupid
+p67
+I1
+sVnose
+p68
+I1
+sVwhore
+p69
+I1
+sVteam
+p70
+I1
+sVsmall
+p71
+I1
+sVattackin
+p72
+I1
+sVdeathtrap
+p73
+I1
+sVpiss
+p74
+I1
+sVyall
+p75
+I3
+sVmean
+p76
+I1
+sVschemes
+p77
+I1
+sVold
+p78
+I1
+sVweight
+p79
+I1
+sVchildish
+p80
+I1
+sVtill
+p81
+I1
+sVcolder
+p82
+I1
+sVscared
+p83
+I1
+sVback
+p84
+I4
+sVflip
+p85
+I1
+sVunderstood
+p86
+I1
+sVsee
+p87
+I2
+sVniggaz
+p88
+I5
+sVloaded
+p89
+I1
+sVfail
+p90
+I1
+sVgirl
+p91
+I1
+sVbest
+p92
+I4
+sVexplode
+p93
+I1
+sVgon
+p94
+I3
+sVbeatin
+p95
+I1
+sVpower
+p96
+I1
+sVgod
+p97
+I2
+sVrep
+p98
+I3
+sVsince
+p99
+I1
+sVslick
+p100
+I1
+sVcowerin
+p101
+I1
+sVcontent
+p102
+I1
+sVbitchs
+p103
+I1
+sVhiss
+p104
+I1
+sVsurprise
+p105
+I1
+sVcause
+p106
+I2
+sVguns
+p107
+I1
+sVtold
+p108
+I1
+sVass
+p109
+I1
+sVima
+p110
+I7
+sVknees
+p111
+I1
+sVfull
+p112
+I6
+sVtruth
+p113
+I1
+sVbusiness
+p114
+I2
+sVquit
+p115
+I1
+sVnever
+p116
+I4
+sVdome
+p117
+I1
+sVmetaphorically
+p118
+I1
+sVspray
+p119
+I1
+sVdeath
+p120
+I1
+sVlet
+p121
+I2
+sVthrower
+p122
+I1
+sVapache
+p123
+I1
+sVanyhow
+p124
+I1
+sVcome
+p125
+I1
+sVlyrical
+p126
+I1
+sVbattlin
+p127
+I1
+sVfoes
+p128
+I1
+sVhits
+p129
+I2
+sVahead
+p130
+I1
+sVmany
+p131
+I9
+sVill
+p132
+I2
+sVviolence
+p133
+I1
+sVtimes
+p134
+I1
+sVturn
+p135
+I2
+sVmagazine
+p136
+I1
+sVplus
+p137
+I2
+sVstand
+p138
+I1
+sVlookin
+p139
+I2
+sVretarded
+p140
+I1
+sVconsequence
+p141
+I1
+sVnameless
+p142
+I1
+sVwhole
+p143
+I2
+sVthink
+p144
+I1
+sVfuckin
+p145
+I2
+sVthats
+p146
+I1
+sVwig
+p147
+I1
+sVsuggest
+p148
+I2
+sVliked
+p149
+I1
+sValready
+p150
+I2
+sVdont
+p151
+I2
+sVheart
+p152
+I1
+sVfeel
+p153
+I1
+sVwin
+p154
+I1
+sVbound
+p155
+I1
+sVson
+p156
+I4
+sVcursed
+p157
+I1
+sVlies
+p158
+I2
+sVright
+p159
+I2
+sVdone
+p160
+I2
+sVbitch
+p161
+I1
+sVfake
+p162
+I1
+sVhear
+p163
+I2
+sVimpossible
+p164
+I2
+sVring
+p165
+I1
+sVmiss
+p166
+I1
+sVwan
+p167
+I8
+sVraise
+p168
+I1
+sVwould
+p169
+I1
+sVchrome
+p170
+I1
+sVtwo
+p171
+I1
+sVbreath
+p172
+I1
+sVlive
+p173
+I1
+sVcats
+p174
+I1
+sVbadder
+p175
+I1
+sVway
+p176
+I2
+sVstarr
+p177
+I2
+sVscope
+p178
+I1
+sVfry
+p179
+I1
+sVwaste
+p180
+I1
+sVtell
+p181
+I1
+sVhappy
+p182
+I1
+sVtight
+p183
+I1
+sVhead
+p184
+I3
+sVblaow
+p185
+I1
+sVworse
+p186
+I1
+sVthat
+p187
+I3
+sVstarted
+p188
+I1
+sVgat
+p189
+I1
+sVgas
+p190
+I1
+sVtook
+p191
+I1
+sVnew
+p192
+I1
+sVfuck
+p193
+I2
+sVbuyin
+p194
+I1
+sVcatchin
+p195
+I1
+sVnigga
+p196
+I4
+sVpeops
+p197
+I1
+sVcatch
+p198
+I2
+sValbums
+p199
+I1
+sVhaters
+p200
+I1
+sVsnipe
+p201
+I1
+sVstarter
+p202
+I1
+sVmust
+p203
+I1
+sVme
+p204
+I3
+sVg
+I1
+sVheard
+p205
+I1
+sVthis
+p206
+I6
+sVstraight
+p207
+I1
+sVwife
+p208
+I1
+sVharder
+p209
+I1
+sVup
+p210
+I2
+sVrhymes
+p211
+I1
+sVsour
+p212
+I1
+sVflame
+p213
+I1
+sVlearn
+p214
+I1
+sVpiece
+p215
+I1
+sVwake
+p216
+I1
+sVcould
+p217
+I2
+sVive
+p218
+I1
+sVthatll
+p219
+I1
+sVclip
+p220
+I7
+sVgive
+p221
+I2
+sVtaste
+p222
+I1
+sVsplatter
+p223
+I1
+sVis
+p224
+I1
+sVcop
+p225
+I1
+sVit
+p226
+I2
+sVplatnium
+p227
+I1
+sVsticky
+p228
+I2
+sVspittin
+p229
+I1
+sVhearted
+p230
+I1
+sVsingle
+p231
+I1
+sVweve
+p232
+I1
+sVim
+p233
+I20
+sVrap
+p234
+I2
+sVready
+p235
+I4
+sVhit
+p236
+I2
+sVseem
+p237
+I1
+sVmartyr
+p238
+I1
+sVshit
+p239
+I6
+sVchase
+p240
+I1
+sVsell
+p241
+I1
+sVagain
+p242
+I1
+sVthugs
+p243
+I1
+sVafraid
+p244
+I1
+sVyo
+p245
+I1
+sVthing
+p246
+I1
+sVrather
+p247
+I1
+sVna
+p248
+I11
+sVmake
+p249
+I6
+sVpeace
+p250
+I1
+sVrippin
+p251
+I1
+sVharass
+p252
+I1
+sVnah
+p253
+I1
+sVmakes
+p254
+I1
+sVwhiping
+p255
+I1
+sVhot
+p256
+I1
+sVvital
+p257
+I1
+sVgangstarr
+p258
+I3
+sVtake
+p259
+I3
+sVfrail
+p260
+I1
+sVgate
+p261
+I1
+sVschemin
+p262
+I1
+sVlife
+p263
+I1
+sVnice
+p264
+I3
+sVplay
+p265
+I2
+sVfunny
+p266
+I1
+sVmess
+p267
+I4
+sVstop
+p268
+I2
+sVsoldier
+p269
+I1
+sVspot
+p270
+I1
+sVmuch
+p271
+I1
+sVgifts
+p272
+I1
+sVfell
+p273
+I1
+sVrealness
+p274
+I1
+sVposition
+p275
+I1
+sVjealous
+p276
+I1
+sVfriends
+p277
+I1
+sVpullin
+p278
+I1
+sVman
+p279
+I1
+sVyeah
+p280
+I1
+sVforever
+p281
+I1
+sVremix
+p282
+I2
+sVkept
+p283
+I1
+sVfully
+p284
+I1
+sVfatten
+p285
+I1
+sVsteady
+p286
+I1
+sVtogether
+p287
+I1
+sVface
+p288
+I2
+sVwit
+p289
+I1
+sVblast
+p290
+I1
+sVridiculous
+p291
+I1
+sVjail
+p292
+I1
+sVtime
+p293
+I2
+sVfresh
+p294
+I1
+sVwolves
+p295
+I1
+sVstakes
+p296
+I1
+sVmic
+p297
+I1
+sVtalk
+p298
+I2
+s.

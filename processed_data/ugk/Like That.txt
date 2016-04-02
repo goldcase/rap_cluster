@@ -1,56 +1,350 @@
-"like that" lyrics
-ugk lyrics
-"like that"
-like that, like that
-bitch you know you like that, bitch you know i like that
-like that, know you like that
-bitch you know you like that
-uhhh! bitch gon' get down on the flo'
-you ain't gettin paper what you twerkin it fo'?
-all i see is a bunch of ones
-need to leave with a pimp, time to have some fun
-all these niggaz is really lame
-just talkin to a nigga cause you like the game
-later on you gon' bite, that
-bitch you know you like, that
-bitch you know you like, that
-bitch you know i like, that
-bitch you know i like, that
-bitch you know you like, that
-well it's big dick cheney and tony snow
-we go mighty joe young upside a hoe head
-and fuck her emotions, i want the whole bread
-i ain't payin attention to what the hoe said
-that hoe can go 'head, if she ain't feelin it
-she ain't goin nowhere, she love how i'm drillin it
-i throw it up on her she throw it right, back
-yeah bitch you know i like, that
-bitch you know i like, that
-bitch you know you like, that
-bitch i see you lookin at the chain
-can't take your eyes off the big ass rang
-bitch i'm standin on the top
-like rick in the 10th, young bitch i'm a pimp
-and you like everything i stand fo'
-bitch don't use no hands, hoe!
-all jaws, pull it back
-bitch you know i like that
-bitch you know you like that, bitch you know you like that
-bitch you know i like that, bitch you know i like that
-bitch you know you like that, bitch you know you like that
-bitch you know i like that, bitch you know you like that
-let me do what i wanna do let me do what i feel
-c'mon ride sidesaddle with the king of the trill
-all this damn conversatin ain't worth the breath
-just lean to the right while i work the left
-vice verse and reverse then it's upsy-daisy
-damn this pussy drives me fuckin crazy
-i'm fiendin to hit it baby like, crack
-cause bitch you know i like, that!
-bitch you know i like, that
-bitch you know you like, that
-that, that, bitch you know you like that
-that, that, y'knowmtalkinbout mayne?
-hold up, bitch you know you like that
-ah-ha ha ha ha, is you a crazy muh'fucker mayne
-you crazy!
+(dp1
+Vugk
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I2
+sVpaper
+p5
+I1
+sVgo
+p6
+I2
+sVbunch
+p7
+I1
+sVaint
+p8
+I5
+sVha
+p9
+I3
+sVchain
+p10
+I1
+sVdick
+p11
+I1
+sVcheney
+p12
+I1
+sVyoung
+p13
+I2
+sVking
+p14
+I1
+sVverse
+p15
+I1
+sVrick
+p16
+I1
+sVcrack
+p17
+I1
+sVdrillin
+p18
+I1
+sVworth
+p19
+I1
+sVhit
+p20
+I1
+sVtwerkin
+p21
+I1
+sVbig
+p22
+I2
+sVuhhh
+p23
+I1
+sVfeelin
+p24
+I1
+sVgame
+p25
+I1
+sVones
+p26
+I1
+sVfiendin
+p27
+I1
+sVknow
+p28
+I26
+sVhands
+p29
+I1
+sVbread
+p30
+I1
+sVlike
+p31
+I35
+sVpimp
+p32
+I2
+sVgettin
+p33
+I1
+sVleave
+p34
+I1
+sVnigga
+p35
+I1
+sVjaws
+p36
+I1
+sVback
+p37
+I2
+sVsee
+p38
+I2
+sVmighty
+p39
+I1
+sVniggaz
+p40
+I1
+sVreally
+p41
+I1
+sVgon
+p42
+I2
+sVlean
+p43
+I1
+sVemotions
+p44
+I1
+sVeverything
+p45
+I1
+sVcause
+p46
+I2
+sVass
+p47
+I1
+sVattention
+p48
+I1
+sVmayne
+p49
+I2
+sVlet
+p50
+I2
+sVnowhere
+p51
+I1
+sVupsydaisy
+p52
+I1
+sVfuck
+p53
+I1
+sVthrow
+p54
+I2
+sVyknowmtalkinbout
+p55
+I1
+sVconversatin
+p56
+I1
+sVreverse
+p57
+I1
+sVstand
+p58
+I1
+sVlookin
+p59
+I1
+sVwhole
+p60
+I1
+sVtop
+p61
+I1
+sVfuckin
+p62
+I1
+sVjoe
+p63
+I1
+sVrang
+p64
+I1
+sVlove
+p65
+I1
+sVdont
+p66
+I1
+sVfeel
+p67
+I1
+sVpussy
+p68
+I1
+sVright
+p69
+I2
+sVbitch
+p70
+I30
+sVtony
+p71
+I1
+sVwan
+p72
+I1
+sVuse
+p73
+I1
+sVbite
+p74
+I1
+sVbreath
+p75
+I1
+sVdamn
+p76
+I2
+sVfo
+p77
+I2
+sVahha
+p78
+I1
+sVhead
+p79
+I2
+sVthat
+p80
+I24
+sVit
+p81
+I2
+sVbaby
+p82
+I1
+sVhold
+p83
+I1
+sVpull
+p84
+I1
+sVride
+p85
+I1
+sVwork
+p86
+I1
+sVpayin
+p87
+I1
+sVflo
+p88
+I1
+sVfun
+p89
+I1
+sV10th
+p90
+I1
+sVcrazy
+p91
+I3
+sVcmon
+p92
+I1
+sVeyes
+p93
+I1
+sVcant
+p94
+I1
+sVim
+p95
+I4
+sVwant
+p96
+I1
+sVneed
+p97
+I1
+sVhoe
+p98
+I4
+sVtrill
+p99
+I1
+sVlame
+p100
+I1
+sVna
+p101
+I1
+sVget
+p102
+I1
+sVsnow
+p103
+I1
+sVtake
+p104
+I1
+sVtalkin
+p105
+I1
+sVdrives
+p106
+I1
+sVsaid
+p107
+I1
+sVmuhfucker
+p108
+I1
+sVgoin
+p109
+I1
+sVyeah
+p110
+I1
+sVvice
+p111
+I1
+sVlater
+p112
+I1
+sVwell
+p113
+I1
+sVupside
+p114
+I1
+sVtime
+p115
+I1
+sVsidesaddle
+p116
+I1
+sVleft
+p117
+I1
+s.

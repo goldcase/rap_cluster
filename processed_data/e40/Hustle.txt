@@ -1,91 +1,458 @@
-"hustle" lyrics
-e-40 lyrics
-"hustle"
-hustle, my name
-i, i live and sleep on these streets
-'cause i have got to get mine, my fam, see, we gotta eat
-so when people ask me why, why don't ever i slow down?
-oh, i just simply reply, i don't really know how
-so i, hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-so i hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-money and muscle
-i gotta black belt in hustling
-i'm doing my thang
-chain around my neck look like a playground swing
-unit mover, pockets fat like raspushia
-ask your chick, i got oil on my tongue
-pimp, i talk real slick, where the real ones go
-they don't make them like me no more
-hustler, i'ma whole 'nother animal
-i'ma whole 'nother animal, i'ma whole 'nother beast
-i can never switch up, i come from the streets
-papered up like a fax
-i'm rare like white running backs
-i'm getting my gouda
-i'ma be the first hustler that set up shop on jupiter
-i, i live and sleep on these streets
-'cause i have got to get mine, my fam, see we gotta eat
-so when people ask me why, why don't ever i slow down?
-oh, i just simply reply, i don't really know how
-so i, hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-so i hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-let me introduce myself, homeboy
-any mc i will destroy
-west, west, west coast boy
-speakers in the trunk keep making noise
-i'm so fly, i'm that guy
-28 inches sitting high
-i'm a star, what you thought?
-everywhere i go they snap shots
-everywhere i go they know turf
-medallions jiggling off my shirt
-see no skeep falling off my jeans
-benjamin frank, george washington
-gotta keep pushing, pushing weight
-fillet mignon steak on my plate
-staring in my rear view can't slow down
-if getting money is wrong, arrest me now
-i, i live and sleep on these streets
-'cause i have got to get mine, my fam, see we gotta eat
-so when people ask me why, why don't ever i slow down?
-oh, i just simply reply, i don't really know how
-so i, hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-so i hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-they ask me what you're doing bro
-i say that i hustle everyday
-my men don't sleep , we always up
-'cause we can't live off minimum wage
-middle finger right to the other side
-i know that i just want to get paid
-when you hear this one go ahead and turn it up
-from virgin islands out to the bay
-i, i live and sleep on these streets
-'cause i have got to get mine, my fam, see we gotta eat
-so when people ask me why, why don't ever i slow down?
-oh, i just simply reply, i don't really know how
-so i, hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
-so i hustle, hustle, hustle
-(i'ma hustler, believe me)
-you know i hustle, hustle, hustle
-(and this ain't easy)
+(dp1
+Vshop
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVfam
+p5
+I4
+sVsleep
+p6
+I5
+sVgo
+p7
+I4
+sVhustler
+p8
+I10
+sVima
+p9
+I12
+sVslow
+p10
+I5
+sVmedallions
+p11
+I1
+sVchain
+p12
+I1
+sVthang
+p13
+I1
+sV28
+p14
+I1
+sVarrest
+p15
+I1
+sVblack
+p16
+I1
+sVeasy
+p17
+I8
+sVsnap
+p18
+I1
+sVta
+p19
+I6
+sVreal
+p20
+I2
+sVfly
+p21
+I1
+sVfax
+p22
+I1
+sVaround
+p23
+I1
+sVget
+p24
+I5
+sVwashington
+p25
+I1
+sVintroduce
+p26
+I1
+sVcoast
+p27
+I1
+sVones
+p28
+I1
+sVknow
+p29
+I14
+sVgot
+p30
+I11
+sVnow
+p31
+I1
+sVrear
+p32
+I1
+sVname
+p33
+I1
+sVbro
+p34
+I1
+sVlike
+p35
+I5
+sVpimp
+p36
+I1
+sVcause
+p37
+I5
+sVbay
+p38
+I1
+sVshots
+p39
+I1
+sVjiggling
+p40
+I1
+sVchick
+p41
+I1
+sVguy
+p42
+I1
+sVsteak
+p43
+I1
+sVside
+p44
+I1
+sVview
+p45
+I1
+sVset
+p46
+I1
+sVweight
+p47
+I1
+sVpeople
+p48
+I4
+sVstreets
+p49
+I5
+sVup
+p50
+I2
+sVsee
+p51
+I5
+sVjupiter
+p52
+I1
+sVgouda
+p53
+I1
+sVreally
+p54
+I4
+sVslick
+p55
+I1
+sVfillet
+p56
+I1
+sVplayground
+p57
+I1
+sVmignon
+p58
+I1
+sVreply
+p59
+I4
+sVfalling
+p60
+I1
+sVever
+p61
+I4
+sVhustle
+p62
+I52
+sVbenjamin
+p63
+I1
+sVaint
+p64
+I8
+sVnoise
+p65
+I1
+sVfrank
+p66
+I1
+sVnever
+p67
+I1
+sVlet
+p68
+I1
+sVpapered
+p69
+I1
+sVtrunk
+p70
+I1
+sVask
+p71
+I6
+sVcome
+p72
+I1
+sVnother
+p73
+I3
+sVstaring
+p74
+I1
+sVboy
+p75
+I1
+sVrare
+p76
+I1
+sVahead
+p77
+I1
+sVoh
+p78
+I4
+sVwrong
+p79
+I1
+sVkeep
+p80
+I2
+sVturn
+p81
+I1
+sVpockets
+p82
+I1
+sVswing
+p83
+I1
+sVturf
+p84
+I1
+sVtongue
+p85
+I1
+sVwhole
+p86
+I3
+sVfirst
+p87
+I1
+sVdont
+p88
+I10
+sVjeans
+p89
+I1
+sVone
+p90
+I1
+sVdown
+p91
+I5
+sVright
+p92
+I1
+sVsimply
+p93
+I4
+sVhear
+p94
+I1
+sVskeep
+p95
+I1
+sVgeorge
+p96
+I1
+sVunit
+p97
+I1
+sVbelt
+p98
+I1
+sValways
+p99
+I1
+sVwest
+p100
+I3
+sVvirgin
+p101
+I1
+sVlive
+p102
+I5
+sVwhite
+p103
+I1
+sVmore
+p104
+I1
+sVinches
+p105
+I1
+sVeverywhere
+p106
+I2
+sVbelieve
+p107
+I8
+sVeat
+p108
+I4
+sVme
+p109
+I8
+sVe40
+p110
+I1
+sVlook
+p111
+I1
+sVmc
+p112
+I1
+sVgetting
+p113
+I2
+sVsay
+p114
+I1
+sVmaking
+p115
+I1
+sVwant
+p116
+I1
+sVplate
+p117
+I1
+sVmine
+p118
+I4
+sVhigh
+p119
+I1
+sVmiddle
+p120
+I1
+sVcant
+p121
+I2
+sVminimum
+p122
+I1
+sVim
+p123
+I6
+sVpushing
+p124
+I2
+sVmover
+p125
+I1
+sVeveryday
+p126
+I1
+sVspeakers
+p127
+I1
+sVshirt
+p128
+I1
+sVwage
+p129
+I1
+sVmake
+p130
+I1
+sVsitting
+p131
+I1
+sVbacks
+p132
+I1
+sVhomeboy
+p133
+I1
+sVhow
+p134
+I4
+sVanimal
+p135
+I2
+sVdestroy
+p136
+I1
+sVhustling
+p137
+I1
+sVoil
+p138
+I1
+sVstar
+p139
+I1
+sVpaid
+p140
+I1
+sVbeast
+p141
+I1
+sVrunning
+p142
+I1
+sVfat
+p143
+I1
+sVmen
+p144
+I1
+sVislands
+p145
+I1
+sVneck
+p146
+I1
+sVyoure
+p147
+I1
+sVfinger
+p148
+I1
+sVthought
+p149
+I1
+sVswitch
+p150
+I1
+sVraspushia
+p151
+I1
+sVmuscle
+p152
+I1
+sVtalk
+p153
+I1
+s.

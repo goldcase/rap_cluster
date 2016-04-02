@@ -1,79 +1,555 @@
-"40 water" lyrics
-e-40 lyrics
-"40 water"
-water, water, water, water
-water, water, water, water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-40 different ways, 40 days, 40 nights
-40 on the side, 40 thieves in the night
-been in the game for 20 years and i'm 40 years though?
-6 a cougar, 40 years cold
-40 ounce of brew, 40 this, 40 that
-40 at the crap table shooting 40 stacks
-40 thousands fans, 40 niggas on stage
-i heard 40's 40 but 40 don't act his age
-40 stay relevant, 40 ain't never played
-40 ain't a punk, 40 will pull the gage
-40 years change with the hawk sitting on her
-40 ain't left the hood, 40 around the corner
-40 like to drink, 40 be getting drunk
-my brodies, a hip-o-holic, he smoke 40 blunts
-40 kicks a blow, 40 pounds of grapes
-give me 40 feet and a ounce of space
-water, water, water, water
-water, water, water, water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-this that new water, this shit go
-water my grass and my green gone grow
-it takes water to live, it's water under the bridge
-water with the baking soda whipping up kids
-it's a drought without water, the soil can't crack
-water in the duals makes loud glass packs
-my family know me by earl but water my handle
-all the gooing in the club, drinking water like a camel
-put some paint where it ain't, water based paint
-if you don't drink no water, my ninja, you might faint
-water be everywhere but water from the v
-water be limping like he got water in his knee
-water pour, water simmer, water heat
-keep my head above water, still water run deep
-water in my bong, water do the fruit
-water trust no one, ain't no leaks in my pool
-water, water, water, water
-water, water, water, water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i don't be seeing anything, i be making sense
-y'all be looking for a walk, i be swing for the fence
-under pressure, never tense, rhyming is a synch
-change the rap game when they let me up off the bench
-back with that 91 super atlantic flow
-i've done seen your favorite rappers come and go
-i done seen a lot of blow, a lot of snow
-i done seen my homie grandma get beat by the po-po
-in the hill side of vallejo, county of selano
-get off a magazine and meet me over there by mcdonald's
-that's why i used to get my yola stacks off
-back then i was small time, all i had was rocks
-manage with it, a fixture on the streets
-he a vegan, he don't like beef
-they got their e's mixed up
-i just look like this but i'd fuck a nigga up
-water, water, water, water
-water, water, water, water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was water
-i wish i was 40, i wish i was
-i wish i was 40, i wish i was
-i wish i was 40, i wish i was
-i wish i was 40, i wish i was
+(dp1
+Vlyrics
+p2
+I2
+sVcamel
+p3
+I1
+sVpopo
+p4
+I1
+sVyears
+p5
+I4
+sV91
+p6
+I1
+sVrhyming
+p7
+I1
+sVgo
+p8
+I2
+sVcorner
+p9
+I1
+sVcold
+p10
+I1
+sVstill
+p11
+I1
+sVaint
+p12
+I5
+sVlooking
+p13
+I1
+sV20
+p14
+I1
+sVfavorite
+p15
+I1
+sVbench
+p16
+I1
+sVcougar
+p17
+I1
+sVthieves
+p18
+I1
+sVcrack
+p19
+I1
+sVthousands
+p20
+I1
+sVsimmer
+p21
+I1
+sVbridge
+p22
+I1
+sVhandle
+p23
+I1
+sVaround
+p24
+I1
+sVsitting
+p25
+I1
+sVbeat
+p26
+I1
+sVvallejo
+p27
+I1
+sVvegan
+p28
+I1
+sVswing
+p29
+I1
+sVgame
+p30
+I2
+sVknow
+p31
+I1
+sVgot
+p32
+I2
+sVninja
+p33
+I1
+sVdrinking
+p34
+I1
+sVwalk
+p35
+I1
+sVearl
+p36
+I1
+sVcounty
+p37
+I1
+sVbaking
+p38
+I1
+sVlike
+p39
+I5
+sVhipoholic
+p40
+I1
+sVpounds
+p41
+I1
+sVrocks
+p42
+I1
+sV40s
+p43
+I1
+sVnight
+p44
+I1
+sVsmall
+p45
+I1
+sVbong
+p46
+I1
+sVside
+p47
+I2
+sVyall
+p48
+I1
+sVhill
+p49
+I1
+sVnigga
+p50
+I1
+sVyola
+p51
+I1
+sVfence
+p52
+I1
+sVstreets
+p53
+I1
+sVfixture
+p54
+I1
+sVback
+p55
+I2
+sVatlantic
+p56
+I1
+sVfaint
+p57
+I1
+sVmcdonalds
+p58
+I1
+sVes
+p59
+I1
+sVmight
+p60
+I1
+sVspace
+p61
+I1
+sVways
+p62
+I1
+sVgage
+p63
+I1
+sVfans
+p64
+I1
+sVblunts
+p65
+I1
+sVnew
+p66
+I1
+sVget
+p67
+I3
+sVblow
+p68
+I2
+sVrun
+p69
+I1
+sVnever
+p70
+I2
+sVwater
+p71
+I73
+sVpressure
+p72
+I1
+sVlet
+p73
+I1
+sVgrapes
+p74
+I1
+sVgrandma
+p75
+I1
+sVput
+p76
+I1
+sVbased
+p77
+I1
+sVsuper
+p78
+I1
+sVchange
+p79
+I2
+sVstage
+p80
+I1
+sVkids
+p81
+I1
+sVbeef
+p82
+I1
+sVanything
+p83
+I1
+sVgetting
+p84
+I1
+sVpunk
+p85
+I1
+sVdays
+p86
+I1
+sVkeep
+p87
+I1
+sVmagazine
+p88
+I1
+sVounce
+p89
+I2
+sVsmoke
+p90
+I1
+sVsoda
+p91
+I1
+sVmixed
+p92
+I1
+sVmakes
+p93
+I1
+sVthats
+p94
+I1
+sVseeing
+p95
+I1
+sVrelevant
+p96
+I1
+sVdont
+p97
+I4
+sVfamily
+p98
+I1
+sVdrunk
+p99
+I1
+sVmeet
+p100
+I1
+sVmanage
+p101
+I1
+sVone
+p102
+I1
+sVfeet
+p103
+I1
+sVdone
+p104
+I3
+sVtable
+p105
+I1
+sVtrust
+p106
+I1
+sVhood
+p107
+I1
+sVcrap
+p108
+I1
+sVtakes
+p109
+I1
+sVher
+p110
+I1
+sVleaks
+p111
+I1
+sVcome
+p112
+I1
+sVwhipping
+p113
+I1
+sVgive
+p114
+I1
+sVpaint
+p115
+I2
+sVlive
+p116
+I1
+sVlot
+p117
+I2
+sV6
+I1
+sVwas
+p118
+I4
+sVduals
+p119
+I1
+sVhead
+p120
+I1
+sVthat
+p121
+I1
+sVclub
+p122
+I1
+sVglass
+p123
+I1
+sVheat
+p124
+I1
+sVeverywhere
+p125
+I1
+sVselano
+p126
+I1
+sVkicks
+p127
+I1
+sVpull
+p128
+I1
+sVe40
+p129
+I1
+sVlook
+p130
+I1
+sVniggas
+p131
+I1
+sVwish
+p132
+I40
+sVup
+p133
+I2
+sVpour
+p134
+I1
+sVact
+p135
+I1
+sVv
+I1
+sVmaking
+p136
+I1
+sVgrass
+p137
+I1
+sVgone
+p138
+I1
+sVplayed
+p139
+I1
+sVsoil
+p140
+I1
+sVfuck
+p141
+I1
+sVdeep
+p142
+I1
+sVive
+p143
+I1
+sVheard
+p144
+I1
+sVcant
+p145
+I1
+sVhomie
+p146
+I1
+sVim
+p147
+I1
+sVlimping
+p148
+I1
+sVrap
+p149
+I1
+sVsense
+p150
+I1
+sVseen
+p151
+I3
+sVshooting
+p152
+I1
+sVid
+p153
+I1
+sVshit
+p154
+I1
+sVdifferent
+p155
+I1
+sVnights
+p156
+I1
+sVloud
+p157
+I1
+sVpacks
+p158
+I1
+sVsnow
+p159
+I1
+sV40
+p160
+I51
+sVsynch
+p161
+I1
+sVused
+p162
+I1
+sVthough
+p163
+I1
+sVrappers
+p164
+I1
+sVdrink
+p165
+I2
+sVstay
+p166
+I1
+sVfruit
+p167
+I1
+sVknee
+p168
+I1
+sVdrought
+p169
+I1
+sVhawk
+p170
+I1
+sVgrow
+p171
+I1
+sVpool
+p172
+I1
+sVoff
+p173
+I1
+sVbrodies
+p174
+I1
+sVage
+p175
+I1
+sVflow
+p176
+I1
+sVgooing
+p177
+I1
+sVwithout
+p178
+I1
+sVgreen
+p179
+I1
+sVtime
+p180
+I1
+sVbrew
+p181
+I1
+sVtense
+p182
+I1
+sVstacks
+p183
+I2
+sVleft
+p184
+I1
+s.

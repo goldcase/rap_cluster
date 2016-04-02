@@ -1,108 +1,794 @@
-mercy lyrics
-kanye west lyrics
-mercy
-big sean pusha  2 chainz
-well
-weeping moaning gnashing teeth
-weeping moaning gnashing teeth
-comes sound champion sound
-believe believe
-lamborghini mercy
-chick thirsty
-im two seat lambo
-girl tryna jerk me
-ok drop floor
-make ass shake
-whoa make ground move thats ass quake
-built house ass thats ass state
-roll weed thats ass tray
-say ye say ye dont err dayday
-work long nights long nights get pay day
-finally got paid need shade vacay
-niggas still hatin much hate need ak
-paris yeah im perrierin
-white girls politicin thats sarah palin
-gettin high californicatin
-give d cause thats born raised in
-lamborghini mercy swerve
-chick thirsty swerve
-im two seat lambo swerve
-girl tryna jerk swerve
-weeping moaning gnashing teeth swerve
-weeping moaning gnashing teeth swerve
-comes sound champion sound swerve
-believe believe swerve
-yeah prime time top back pimp game hoe
-im red leather cocaine im rick james hoe
-im bill droppin ms pacman pill poppin ass hoe
-im poppin blue dolphins need two coffins
-want heel money
-need bill money
-take time counts out
-weighs thats real money
-check neck check wrist
-heads turnin thats exorcist
-audemar like mardi gras
-thats swiss time thats excellence
-two door preference
-roof gone george jefferson
-white frost pound cake
-duncan heinz irrelevant
-lambo mercylago go wherever go
-wherever go pronto
-lamborghini mercy swerve
-chick thirsty swerve
-im two seat lambo swerve
-girl tryna jerk swerve
-weeping moaning gnashing teeth swerve
-weeping moaning gnashing teeth swerve
-comes sound champion sound swerve
-believe believe swerve
-well weeping moaning gnashing teeth
-dance hall teeth run pon gums
-caw time comes sound champion sound
-bugle blown many times still one time left
-caw amount stripe weh deh pon shoulder
-let suicide doors up
-suicides tour bus
-suicides private jet
-know mean im fly death
-step def jam building like im shit
-tell em give fifty million im quit
-rappers taste level aint waist level
-turn bass til face level
-dont press get press kid
-plus bitch make bitch look like precious
-something bout mary gone molly
-whole party melted like dalÃ­
-everybody movin body
-dont sell apartment move lobby
-niggas loiterin feel important
-gon see lawyers niggas jordans
-catch campaign
-coupe color mayonnaise
-im drunk high time
-drinkin champagne airplane
-spit rounds like gun range
-beat like rampage
-100 bands cut girl girl need band aid
-grade a1
-chain color akon
-black diamonds backpack around me
-cosigned louis vuitton
-horse power horse power
-polo got horse power
-pound cost 4 thousand
-make rain want showers
-rain pourin
-cars foreign
-broads foreign
-money tall like jordan
-lamborghini mercy swerve
-chick thirsty swerve
-im two seat lambo swerve
-girl tryna jerk swerve
-weeping moaning gnashing teeth swerve
-weeping moaning gnashing teeth swerve
-comes sound champion sound swerve
-believe believe swerve
+(dp1
+Vmardi
+p2
+I1
+sVjordans
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I4
+sVmove
+p7
+I2
+sVbugle
+p8
+I1
+sVfifty
+p9
+I1
+sVpress
+p10
+I2
+sVquake
+p11
+I1
+sVshake
+p12
+I1
+sVgo
+p13
+I3
+sVkanye
+p14
+I1
+sVstill
+p15
+I2
+sVhate
+p16
+I1
+sVground
+p17
+I1
+sVaint
+p18
+I1
+sVsuicide
+p19
+I1
+sVcampaign
+p20
+I1
+sVduncan
+p21
+I1
+sVparis
+p22
+I1
+sVbackpack
+p23
+I1
+sVweh
+p24
+I1
+sVpoppin
+p25
+I2
+sVpourin
+p26
+I1
+sVhall
+p27
+I1
+sVfeel
+p28
+I1
+sVfinally
+p29
+I1
+sVjefferson
+p30
+I1
+sVblack
+p31
+I1
+sVrick
+p32
+I1
+sVbout
+p33
+I1
+sVpill
+p34
+I1
+sVreal
+p35
+I1
+sVsound
+p36
+I10
+sVaround
+p37
+I1
+sVjerk
+p38
+I4
+sVget
+p39
+I2
+sVbeat
+p40
+I1
+sVbig
+p41
+I1
+sVye
+p42
+I2
+sVband
+p43
+I1
+sVgame
+p44
+I1
+sVmoaning
+p45
+I9
+sVpreference
+p46
+I1
+sVkid
+p47
+I1
+sVcalifornicatin
+p48
+I1
+sV2
+I1
+sVday
+p49
+I1
+sVcolor
+p50
+I2
+sVlike
+p51
+I7
+sVprime
+p52
+I1
+sVd
+I1
+sVpimp
+p53
+I1
+sVlevel
+p54
+I3
+sVleather
+p55
+I1
+sVjames
+p56
+I1
+sVgettin
+p57
+I1
+sVgun
+p58
+I1
+sVgras
+p59
+I1
+sVexcellence
+p60
+I1
+sVaudemar
+p61
+I1
+sVlouis
+p62
+I1
+sVchick
+p63
+I4
+sVtray
+p64
+I1
+sVheel
+p65
+I1
+sVmean
+p66
+I1
+sVem
+p67
+I1
+sVweighs
+p68
+I1
+sVdrop
+p69
+I1
+sV100
+p70
+I1
+sVhouse
+p71
+I1
+sVturnin
+p72
+I1
+sVyeah
+p73
+I2
+sVseat
+p74
+I4
+sVpusha
+p75
+I1
+sVborn
+p76
+I1
+sVsee
+p77
+I1
+sVcost
+p78
+I1
+sVsean
+p79
+I1
+sVgirl
+p80
+I6
+sVout
+p81
+I1
+sVblue
+p82
+I1
+sVmovin
+p83
+I1
+sVgon
+p84
+I1
+sVmercylago
+p85
+I1
+sVforeign
+p86
+I2
+sVrounds
+p87
+I1
+sVstate
+p88
+I1
+sVmelted
+p89
+I1
+sVchainz
+p90
+I1
+sVdiamonds
+p91
+I1
+sVgot
+p92
+I2
+sVchampagne
+p93
+I1
+sVcause
+p94
+I1
+sVred
+p95
+I1
+sVass
+p96
+I6
+sVeverybody
+p97
+I1
+sVrampage
+p98
+I1
+sVrun
+p99
+I1
+sVbass
+p100
+I1
+sVpower
+p101
+I3
+sVdrinkin
+p102
+I1
+sVcars
+p103
+I1
+sVmillion
+p104
+I1
+sVmolly
+p105
+I1
+sVakon
+p106
+I1
+sVcut
+p107
+I1
+sVstep
+p108
+I1
+sVdeath
+p109
+I1
+sVlet
+p110
+I1
+sVrain
+p111
+I2
+sVaid
+p112
+I1
+sVpalin
+p113
+I1
+sVprecious
+p114
+I1
+sVvuitton
+p115
+I1
+sVvacay
+p116
+I1
+sVok
+p117
+I1
+sVmany
+p118
+I1
+sVwherever
+p119
+I2
+sVjam
+p120
+I1
+sVtimes
+p121
+I1
+sVgums
+p122
+I1
+sVpronto
+p123
+I1
+sVamount
+p124
+I1
+sVimportant
+p125
+I1
+sVplus
+p126
+I1
+sVroof
+p127
+I1
+sVchain
+p128
+I1
+sVwhole
+p129
+I1
+sVcomes
+p130
+I5
+sVthats
+p131
+I9
+sVraised
+p132
+I1
+sVdont
+p133
+I3
+sVpoliticin
+p134
+I1
+sVblown
+p135
+I1
+sVloiterin
+p136
+I1
+sVprivate
+p137
+I1
+sVone
+p138
+I1
+sVpon
+p139
+I2
+sVheinz
+p140
+I1
+sVbitch
+p141
+I2
+sVsuicides
+p142
+I2
+sVpolo
+p143
+I1
+sVcounts
+p144
+I1
+sVcocaine
+p145
+I1
+sVgeorge
+p146
+I1
+sVgnashing
+p147
+I9
+sVsarah
+p148
+I1
+sVquit
+p149
+I1
+sVhorse
+p150
+I3
+sVheads
+p151
+I1
+sVlambo
+p152
+I5
+sVjet
+p153
+I1
+sVwest
+p154
+I1
+sVtop
+p155
+I1
+sVgirls
+p156
+I1
+sVtwo
+p157
+I6
+sVlong
+p158
+I2
+sVcoupe
+p159
+I1
+sVmuch
+p160
+I1
+sVweeping
+p161
+I9
+sVgrade
+p162
+I1
+sVwhite
+p163
+I2
+sVbill
+p164
+I2
+sVwhoa
+p165
+I1
+sV4
+I1
+sVtryna
+p166
+I4
+sVdoor
+p167
+I1
+sVchampion
+p168
+I5
+sVspit
+p169
+I1
+sVdalí
+p170
+I1
+sVbus
+p171
+I1
+sVthousand
+p172
+I1
+sVfrost
+p173
+I1
+sVbody
+p174
+I1
+sVback
+p175
+I1
+sVcosigned
+p176
+I1
+sVjordan
+p177
+I1
+sVhatin
+p178
+I1
+sVcatch
+p179
+I1
+sVbelieve
+p180
+I8
+sVirrelevant
+p181
+I1
+sVwaist
+p182
+I1
+sVme
+p183
+I2
+sVmercy
+p184
+I6
+sVlamborghini
+p185
+I4
+sVlook
+p186
+I1
+sVerr
+p187
+I1
+sVniggas
+p188
+I3
+sVexorcist
+p189
+I1
+sVpacman
+p190
+I1
+sVwork
+p191
+I1
+sVcaw
+p192
+I2
+sVup
+p193
+I1
+sVdayday
+p194
+I1
+sVtell
+p195
+I1
+sVdeh
+p196
+I1
+sVbroads
+p197
+I1
+sVdroppin
+p198
+I1
+sVmary
+p199
+I1
+sVms
+p200
+I1
+sVcake
+p201
+I1
+sVshoulder
+p202
+I1
+sVdef
+p203
+I1
+sVdrunk
+p204
+I1
+sVgone
+p205
+I2
+sVswerve
+p206
+I24
+sVpound
+p207
+I2
+sVshowers
+p208
+I1
+sVthirsty
+p209
+I4
+sVgive
+p210
+I2
+sVtaste
+p211
+I1
+sVak
+p212
+I1
+sVhigh
+p213
+I2
+sVfly
+p214
+I1
+sVsay
+p215
+I2
+sVim
+p216
+I13
+sVsomething
+p217
+I1
+sVwant
+p218
+I2
+sVin
+p219
+I1
+sVneed
+p220
+I5
+sVairplane
+p221
+I1
+sVturn
+p222
+I1
+sVcheck
+p223
+I2
+sVshit
+p224
+I1
+sVcoffins
+p225
+I1
+sVsell
+p226
+I1
+sVapartment
+p227
+I1
+sVnights
+p228
+I2
+sVbuilt
+p229
+I1
+sVfloor
+p230
+I1
+sVpay
+p231
+I1
+sVmake
+p232
+I4
+sVtour
+p233
+I1
+sVtil
+p234
+I1
+sVperrierin
+p235
+I1
+sVtake
+p236
+I1
+sVdoors
+p237
+I1
+sVbands
+p238
+I1
+sVparty
+p239
+I1
+sVmayonnaise
+p240
+I1
+sVroll
+p241
+I1
+sVlawyers
+p242
+I1
+sVrappers
+p243
+I1
+sVtime
+p244
+I6
+sVpaid
+p245
+I1
+sVweed
+p246
+I1
+sVa1
+p247
+I1
+sVhoe
+p248
+I3
+sVwrist
+p249
+I1
+sVstripe
+p250
+I1
+sVrange
+p251
+I1
+sVlobby
+p252
+I1
+sVdolphins
+p253
+I1
+sVbuilding
+p254
+I1
+sVneck
+p255
+I1
+sVwell
+p256
+I2
+sVknow
+p257
+I1
+sVface
+p258
+I1
+sVshade
+p259
+I1
+sVteeth
+p260
+I10
+sVswiss
+p261
+I1
+sVtall
+p262
+I1
+sVleft
+p263
+I1
+s.

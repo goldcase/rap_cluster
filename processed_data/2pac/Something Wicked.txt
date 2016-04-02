@@ -1,55 +1,299 @@
-"something wicked" lyrics
-2pac lyrics
-"something wicked"
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-more than an adversary i'm very quick
-i'm ready to hit 'em with this gift
-i'm equipped to kick
-grab you coat and you hat, cause i'm prepared to clamp
-scared the , and caught them mutha-fuckas damp
-oh shit, 2pacalypse is back and strapped
-attacking the pacs, i'm kicking the facts for stacks to rap
-and those that max, relax and let the blacks get jacks
-i'm getting taxed, my pacs is packed with angry blacks
-i'm ready to go
-i'm ripping the shows, hitting the dough
-getting the hoes
-pumping the flow, gangster ho
-cause the nose knows
-check the pose, froze, when you see me close
-punks you gonna roast, host, in a cloud of smoke
-broke, choked on a rope, and then smoked
-wrote, crimes that'll bring me bank notes
-nope, i ain't the type of fella that you use though
-kkkkkkicking the funky flava
-pumping   producers
-run for cover when you hear the bass drop
-one verse is all it takes
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-something wicked this way come
-wicked wicked this way comes
-wicked wicked this way comes
-wicked wicked this way comes
-something wicked this way come
+(dp1
+Vlyrics
+p2
+I2
+sVbring
+p3
+I1
+sVdough
+p4
+I1
+sVfacts
+p5
+I1
+sVaint
+p6
+I1
+sVverse
+p7
+I1
+sVequipped
+p8
+I1
+sVhat
+p9
+I1
+sVkick
+p10
+I1
+sVhit
+p11
+I1
+sVget
+p12
+I1
+sVone
+p13
+I1
+sVbank
+p14
+I1
+sVgift
+p15
+I1
+sVcause
+p16
+I2
+sVnotes
+p17
+I1
+sVpacs
+p18
+I2
+sVmuthafuckas
+p19
+I1
+sVnose
+p20
+I1
+sVroast
+p21
+I1
+sVquick
+p22
+I1
+sVtaxed
+p23
+I1
+sVgrab
+p24
+I1
+sVwrote
+p25
+I1
+sVem
+p26
+I1
+sVdrop
+p27
+I1
+sVscared
+p28
+I1
+sVcrimes
+p29
+I1
+sVback
+p30
+I1
+sVgo
+p31
+I1
+sVsee
+p32
+I1
+sVhoes
+p33
+I1
+sVclose
+p34
+I1
+sVdamp
+p35
+I1
+sVpacked
+p36
+I1
+sVgon
+p37
+I1
+sVblacks
+p38
+I2
+sVripping
+p39
+I1
+sVnope
+p40
+I1
+sVshows
+p41
+I1
+sVrun
+p42
+I1
+sVbass
+p43
+I1
+sVfella
+p44
+I1
+sVpose
+p45
+I1
+sVpumping
+p46
+I2
+sVpunks
+p47
+I1
+sVkicking
+p48
+I1
+sVhost
+p49
+I1
+sVlet
+p50
+I1
+sVchoked
+p51
+I1
+sVcome
+p52
+I26
+sVgetting
+p53
+I2
+sVfunky
+p54
+I1
+sVsmoke
+p55
+I1
+sVangry
+p56
+I1
+sVcomes
+p57
+I3
+sVclamp
+p58
+I1
+sVfroze
+p59
+I1
+sVkkkkkkicking
+p60
+I1
+sVcloud
+p61
+I1
+sVstrapped
+p62
+I1
+sVuse
+p63
+I1
+sVtakes
+p64
+I1
+sVadversary
+p65
+I1
+sVcaught
+p66
+I1
+sVhitting
+p67
+I1
+sVway
+p68
+I29
+sVtype
+p69
+I1
+sVwicked
+p70
+I34
+sVknows
+p71
+I1
+sVrelax
+p72
+I1
+sVhear
+p73
+I1
+sVho
+p74
+I1
+sVbroke
+p75
+I1
+sV2pac
+p76
+I1
+sVgangster
+p77
+I1
+sVoh
+p78
+I1
+sVrope
+p79
+I1
+sV2pacalypse
+p80
+I1
+sVthatll
+p81
+I1
+sVcover
+p82
+I1
+sVim
+p83
+I8
+sVsomething
+p84
+I28
+sVrap
+p85
+I1
+sVready
+p86
+I2
+sVcheck
+p87
+I1
+sVshit
+p88
+I1
+sVjacks
+p89
+I1
+sVna
+p90
+I1
+sVthough
+p91
+I1
+sVmax
+p92
+I1
+sVprepared
+p93
+I1
+sVproducers
+p94
+I1
+sVcoat
+p95
+I1
+sVflow
+p96
+I1
+sVattacking
+p97
+I1
+sVflava
+p98
+I1
+sVsmoked
+p99
+I1
+sVstacks
+p100
+I1
+s.

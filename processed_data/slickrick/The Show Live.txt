@@ -1,104 +1,671 @@
-"the show live" lyrics
-slick rick lyrics
-"the show live"
-(feat. doug e. fresh)
-yo, aiyo rick!
-this one, this one, this one is for you
-(ok, baby)
-everybody, throw one hand up in the air like
-throw it up yo,  yea, yea,
-yea, yea
-yea, yea, yea, yea
-yea, yea, yea
-excuse me doug e. fresh (yes?)
-have you ever seen- {wit fellows on the mic}
-{wit} one minute rhymes and don't come out right
-they bite, that's not polite (yo) am i lying?
-(no, you're quite right)
-well tonight, on this very mic you're about to hear
-{we swear, the best damn rappers of the year
-so, cheerio, scream bravo}
-also, if you didn't know this is called the show!
-(are ya ready to get this on? are ya ready over here?
-ya ready right here? let's go...)
-yeah, yeah, yeah, yeah, yeah
-somebody say go doug e. fresh go doug e. fresh go
-ya don't say yo...
-aiyo doug (what?)
-put your ballys on
-(yo i was about to, but i need the shoehorn)
-why? (because the shoes always hurt my corn)
-six minutes (how many minutes?)
-six minutes (how many minutes?)
-six minutes, doug e. fresh you're on
-ah ah on, ah ah on, ah ah ah ah ah ah ah on
-ah ah on, ah ah on, ah ah ah ah ah ah ah on
-(aiyo rick let's see if they on, here we go)
-here we go (come on) come on
-here we go (come on) come on
-(yo, to ? the stream liquor
-on time, yo i forgot the date
-man, you did it again) oh no
-(yo, come on, come on)
-raekwon, yo!
-{we on no no no, no we didn't)
-(no n-n-n-no) what what what what
-(no we didn't) well don't get us wrong
-excuse me doug e., excuse me doug e.
-excuse me doug e. fresh you're on
-{ah ah on}
-give a round applause for raekwon, yo
-(now you know what) wu-tang clan in the house
-(is the east coast in here, is the west coast in here)
-somebody say owwwwwwww
-(where's the party at? tell me somethin, where's the party at?
-where's the party at? where's the party at?
-where's the party at? where's the party at?
-where's the party at? where's the party at?
-say oh la oh la, say oh la oh la
-say hidey hidey hidey ho, say hidey hidey hidey ho
-aiyo say oh la oh la, say hooo
-say ho-o-o
-all the ladies in the house tonight, let me hear you say aaow
-say a-a-aow, say a-a-aow)
-yo, we runnin wit honors, oh shit, come out here kid
-(aiyo, aiyo)
-yeah (what started up on 8th avenue
-and i made up the name called the get fresh crew
-it was me, my true dj, true that'll be
-my right hand man ricky d
-rappers sing, make sounds and things
-for example, here's a telephone ring
-ring, ring) hello, is doug e. fresh in right now
-(no, he's not in right now, but anyway, no more delay
-check out the new style i display
-now you got to be fresh, to rock wit fresh
-i'm d-o-u-g-i-e fresh, and i'm know for the-
-not for the--
-the human beat box on the entertainer
-no other title can fit me plainer
-passing generation, i am a remainder
-also known as a beat box trainer
-cashing checks, sound effects
-i'm finish rocking, slick rick is on next)
-you know it (slick rick)
-well, here's a little something that needs to be heard
-doug, i was going downtown (word rick?) word
-chillin all alone, no one to be wit
-stepped on the d-train, 205th
-i saw a pretty girl (so) so i sat beside her
-then she went roar, she was tony the tiger
-i said, oh darn, there has been a mistake
-honey, my name's slick rick, not frosty flakes
-(oh, golly wolly) she was raised in hell
-she said, um, my name is maggie, but call me michelle
-michelle by belle, something w--
-sippin on some, slick rick and i'm rock house
-ya know i'm sayin? when i'm on the mic, there won't be no delayin
-bust a move, we show and prove
-aiyo, doug (what?) do that record jam on a groove
-yeah doug, yeah doug, yeah doug, haha
-{as you can see} (most definitely, we are, fresh)
-{chill will} (right here, ricky d and i am the original
-human beatbox, the entertainer, doug e. e. e. e. fresh)
-yeah, yeah, yeah
+(dp1
+Vbelle
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I4
+sVyea
+p6
+I11
+sVmichelle
+p7
+I2
+sVmove
+p8
+I1
+sVcheerio
+p9
+I1
+sVanyway
+p10
+I1
+sVraekwon
+p11
+I2
+sVknown
+p12
+I1
+sVhuman
+p13
+I2
+sVgo
+p14
+I7
+sVhell
+p15
+I1
+sVyes
+p16
+I1
+sVricky
+p17
+I2
+sVfeat
+p18
+I1
+sVmake
+p19
+I1
+sVbeside
+p20
+I1
+sVstyle
+p21
+I1
+sVremainder
+p22
+I1
+sVsayin
+p23
+I1
+sVfit
+p24
+I1
+sVla
+p25
+I6
+sVoriginal
+p26
+I1
+sVbust
+p27
+I1
+sVcrew
+p28
+I1
+sVbeat
+p29
+I2
+sVaaow
+p30
+I1
+sVlets
+p31
+I2
+sVgoing
+p32
+I1
+sVrick
+p33
+I8
+sVpretty
+p34
+I1
+sVeast
+p35
+I1
+sVsound
+p36
+I1
+sVsomebody
+p37
+I2
+sVyo
+p38
+I11
+sVget
+p39
+I3
+sVya
+p40
+I5
+sVdj
+p41
+I1
+sVdelayin
+p42
+I1
+sVcoast
+p43
+I2
+sVnnnno
+p44
+I1
+sVdougie
+p45
+I1
+sVknow
+p46
+I5
+sVgot
+p47
+I1
+sVnow
+p48
+I1
+sVstepped
+p49
+I1
+sVminute
+p50
+I1
+sVname
+p51
+I2
+sVclan
+p52
+I1
+sVdtrain
+p53
+I1
+sVlike
+p54
+I1
+sValways
+p55
+I1
+sVring
+p56
+I3
+sVdarn
+p57
+I1
+sVrock
+p58
+I2
+sVwent
+p59
+I1
+sVround
+p60
+I1
+sVnames
+p61
+I1
+sVmaggie
+p62
+I1
+sVright
+p63
+I7
+sVgeneration
+p64
+I1
+sVbravo
+p65
+I1
+sVliquor
+p66
+I1
+sVyeah
+p67
+I12
+sVowwwwwwww
+p68
+I1
+sVd
+I2
+sVsee
+p69
+I2
+sVus
+p70
+I1
+sVyear
+p71
+I1
+sVwont
+p72
+I1
+sVgirl
+p73
+I1
+sVhonors
+p74
+I1
+sVbest
+p75
+I1
+sVwhat
+p76
+I2
+sVsaid
+p77
+I2
+sVdisplay
+p78
+I1
+sVheres
+p79
+I2
+sVavenue
+p80
+I1
+sVsaw
+p81
+I1
+sVslick
+p82
+I5
+sVfellows
+p83
+I1
+sVnew
+p84
+I1
+sVever
+p85
+I1
+sVchecks
+p86
+I1
+sVbe
+p87
+I1
+sVbeatbox
+p88
+I1
+sVcorn
+p89
+I1
+sVhere
+p90
+I2
+sVquite
+p91
+I1
+sVtiger
+p92
+I1
+sVlet
+p93
+I1
+sVput
+p94
+I1
+sVsing
+p95
+I1
+sVcome
+p96
+I8
+sVthrow
+p97
+I2
+sVbox
+p98
+I2
+sVon
+p99
+I9
+sVgolly
+p100
+I1
+sVprove
+p101
+I1
+sVok
+p102
+I1
+sVoh
+p103
+I10
+sVcashing
+p104
+I1
+sVmany
+p105
+I2
+sVtitle
+p106
+I1
+sVexample
+p107
+I1
+sVswear
+p108
+I1
+sVw
+I1
+sVpassing
+p109
+I1
+sVmistake
+p110
+I1
+sVshoehorn
+p111
+I1
+sVthats
+p112
+I1
+sVtrainer
+p113
+I1
+sVladies
+p114
+I1
+sVdont
+p115
+I3
+sVone
+p116
+I6
+sValone
+p117
+I1
+sVwolly
+p118
+I1
+sVwit
+p119
+I5
+sVhooo
+p120
+I2
+sVtony
+p121
+I1
+sVsounds
+p122
+I1
+sVeverybody
+p123
+I1
+sVlittle
+p124
+I1
+sVfrosty
+p125
+I1
+sVchillin
+p126
+I1
+sVher
+p127
+I1
+sVhes
+p128
+I1
+sVwest
+p129
+I1
+sVbite
+p130
+I1
+sVnext
+p131
+I1
+sVballys
+p132
+I1
+sVlive
+p133
+I2
+sVjam
+p134
+I1
+sVdamn
+p135
+I1
+sVhouse
+p136
+I3
+sVcall
+p137
+I1
+sVkid
+p138
+I1
+sVaaaow
+p139
+I2
+sVtell
+p140
+I1
+sVrecord
+p141
+I1
+sVeffects
+p142
+I1
+sVstarted
+p143
+I1
+sVgroove
+p144
+I1
+sVhaha
+p145
+I1
+sVhurt
+p146
+I1
+sVdowntown
+p147
+I1
+sVexcuse
+p148
+I4
+sVhear
+p149
+I2
+sVho
+p150
+I2
+sVbaby
+p151
+I1
+sVdidnt
+p152
+I3
+sVrocking
+p153
+I1
+sVtrue
+p154
+I2
+sVchill
+p155
+I1
+sVrunnin
+p156
+I1
+sVhoney
+p157
+I1
+sVmade
+p158
+I1
+sVword
+p159
+I2
+sVheard
+p160
+I1
+sVrhymes
+p161
+I1
+sVair
+p162
+I1
+sVum
+p163
+I1
+sVroar
+p164
+I1
+sVentertainer
+p165
+I2
+sVminutes
+p166
+I5
+sVcalled
+p167
+I2
+sVsomething
+p168
+I2
+sVthatll
+p169
+I1
+sVstream
+p170
+I1
+sVgive
+p171
+I1
+sVah
+p172
+I24
+sVdoug
+p173
+I16
+sVtelephone
+p174
+I1
+sVtonight
+p175
+I2
+sVneed
+p176
+I1
+sVsay
+p177
+I13
+sVim
+p178
+I6
+sVat
+p179
+I4
+sVready
+p180
+I3
+sVseen
+p181
+I1
+sVwutang
+p182
+I1
+sVhidey
+p183
+I6
+sVcheck
+p184
+I1
+sVaiyo
+p185
+I7
+sVsat
+p186
+I1
+sVneeds
+p187
+I1
+sVsippin
+p188
+I1
+sVraised
+p189
+I1
+sVno
+p190
+I1
+sVthings
+p191
+I1
+sVmic
+p192
+I3
+sVsix
+p193
+I3
+sVdelay
+p194
+I1
+sValso
+p195
+I2
+sVshit
+p196
+I1
+sVparty
+p197
+I8
+sVyou
+p198
+I1
+sVfinish
+p199
+I1
+sVrappers
+p200
+I2
+sVforgot
+p201
+I1
+sVpolite
+p202
+I1
+sVhand
+p203
+I2
+sVwrong
+p204
+I1
+sV205th
+p205
+I1
+sVplainer
+p206
+I1
+sVdate
+p207
+I1
+sVwheres
+p208
+I8
+sVman
+p209
+I2
+sVsomethin
+p210
+I1
+sVe
+I13
+sVapplause
+p211
+I1
+sVyoure
+p212
+I4
+sVwell
+p213
+I3
+sVhello
+p214
+I1
+sVdefinitely
+p215
+I1
+sVflakes
+p216
+I1
+sVtime
+p217
+I1
+sVfresh
+p218
+I13
+sVthe
+p219
+I2
+sVscream
+p220
+I1
+sVlying
+p221
+I1
+sV8th
+p222
+I1
+s.

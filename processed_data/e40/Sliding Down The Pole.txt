@@ -1,143 +1,449 @@
-"sliding down the pole" lyrics
-e-40 lyrics
-"sliding down the pole"
-(feat. too $hort)
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-there she is
-there she go
-there she go
-there she is
-there she is
-there she go
-there she go
-wow
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-yeah
-there she go
-uh huh
-there she is
-yeah
-there she go
-wow
-they she her brain is in her ass but she really smart
-all about her cash never been a mark
-raise in the trap seen a whole lot
-glutious maximums shape like a heart
-legs spread apart
-trying to go to clark
-looking for the light
-but always find dark
-some of my folks like trickin
-some of my folks like pimpin
-some of my folks spit rap
-some of my folks pitch crack
-give you a tycoon shower
-without the shower cap
-i got the money and the power
-sprinkle you a stack
-there she go sliding down the pole
-one dollar bills coming out her asshole
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-there she is
-there she go
-there she go
-there she is
-there she is
-there she go
-there she go
-wow
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-yeah
-there she go
-uh huh
-there she is
-yeah
-there she go
-uh huh
-wow
-there she go
-down the pole
-that's daddy's little girl
-but he don't know
-if he finds out she'll be in trouble
-but if he don't her money doubles
-everyday she goes to work
-put her on stage they go berserk
-i'm way in the back blowing purp
-you throwing cash in the air
-you suppose to flirt
-she come out dem draws ass everywhere
-don't keep her all night
-pass her player
-cause she's my favorite yes she is
-i wanna see her dance naked
-she the best in the biz
-bitch!
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-there she is
-there she go
-there she go
-there she is
-there she is
-there she go
-there she go
-wow
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-yeah
-there she go
-uh huh
-there she is
-yeah
-there she go
-uh huh
-wow
-bigger than all outdoors
-she got booty galore
-ass like i've never seen before
-she cakey
-she pickin up her money off the floor
-it's crazy all the ballers in the club know
-i called the crib told my broad i ain't coming back home
-i den found another chick i wanna bone
-they call me short
-i'm nothing nice
-been hangin out in clubs all my life
-seen a wild ass stripper
-hair was bushy
-upside down with a bear in her pussy
-lay up on the pole she can sit on a roof
-slid back down she was getting it loose
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-there she is
-there she go
-there she go
-there she is
-there she is
-there she go
-there she go
-wow
-there she go sliding down the pole
-there she go sliding down the pole
-there she is
-yeah
-there she go
-uh huh
-there she is
-yeah
-there she go
-uh huh
-wow
+(dp1
+Vlyrics
+p2
+I2
+sVdance
+p3
+I1
+sVmoney
+p4
+I3
+sVdollar
+p5
+I1
+sVbrain
+p6
+I1
+sVshape
+p7
+I1
+sVpitch
+p8
+I1
+sVgo
+p9
+I44
+sVyes
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVbefore
+p13
+I1
+sVaint
+p14
+I1
+sVspread
+p15
+I1
+sVbushy
+p16
+I1
+sVcrack
+p17
+I1
+sVfolks
+p18
+I4
+sVsmart
+p19
+I1
+sVballers
+p20
+I1
+sVbear
+p21
+I1
+sVdark
+p22
+I1
+sVbiz
+p23
+I1
+sVknow
+p24
+I2
+sVclubs
+p25
+I1
+sVtrouble
+p26
+I1
+sVbigger
+p27
+I1
+sVapart
+p28
+I1
+sVlike
+p29
+I4
+sValways
+p30
+I1
+sVglutious
+p31
+I1
+sVberserk
+p32
+I1
+sVnaked
+p33
+I1
+sVtrap
+p34
+I1
+sVnight
+p35
+I1
+sVdoubles
+p36
+I1
+sVbills
+p37
+I1
+sVbone
+p38
+I1
+sVcap
+p39
+I1
+sVbooty
+p40
+I1
+sVthrowing
+p41
+I1
+sVtold
+p42
+I1
+sVyeah
+p43
+I8
+sVhair
+p44
+I1
+sVsee
+p45
+I1
+sVhort
+p46
+I1
+sVpass
+p47
+I1
+sVhome
+p48
+I1
+sVgirl
+p49
+I1
+sVbest
+p50
+I1
+sVreally
+p51
+I1
+sVshower
+p52
+I2
+sVdraws
+p53
+I1
+sVbroad
+p54
+I1
+sVwow
+p55
+I8
+sVlooking
+p56
+I1
+sVgoes
+p57
+I1
+sVgot
+p58
+I2
+sVcause
+p59
+I1
+sVsliding
+p60
+I19
+sVdem
+p61
+I1
+sVass
+p62
+I4
+sVblowing
+p63
+I1
+sVmaximums
+p64
+I1
+sVpower
+p65
+I1
+sVnever
+p66
+I2
+sVfound
+p67
+I1
+sVput
+p68
+I1
+sVcome
+p69
+I1
+sVstage
+p70
+I1
+sVgetting
+p71
+I1
+sVfavorite
+p72
+I1
+sVgalore
+p73
+I1
+sVkeep
+p74
+I1
+sVwhole
+p75
+I1
+sVfinds
+p76
+I1
+sVthats
+p77
+I1
+sVdont
+p78
+I3
+sVclark
+p79
+I1
+sVive
+p80
+I1
+sVcakey
+p81
+I1
+sVpussy
+p82
+I1
+sVtrickin
+p83
+I1
+sVslid
+p84
+I1
+sVcrib
+p85
+I1
+sVone
+p86
+I1
+sVpole
+p87
+I21
+sVbitch
+p88
+I1
+sVanother
+p89
+I1
+sVwan
+p90
+I2
+sVlittle
+p91
+I1
+sVraise
+p92
+I1
+sVchick
+p93
+I1
+sVmark
+p94
+I1
+sVcall
+p95
+I1
+sVway
+p96
+I1
+sVlegs
+p97
+I1
+sVtycoon
+p98
+I1
+sVshell
+p99
+I1
+sVlot
+p100
+I1
+sVspit
+p101
+I1
+sVclub
+p102
+I1
+sVhuh
+p103
+I7
+sVback
+p104
+I3
+sVeverywhere
+p105
+I1
+sVloose
+p106
+I1
+sVtrying
+p107
+I1
+sVe40
+p108
+I1
+sVstripper
+p109
+I1
+sVwork
+p110
+I1
+sVcash
+p111
+I2
+sVroof
+p112
+I1
+sVair
+p113
+I1
+sVflirt
+p114
+I1
+sVsuppose
+p115
+I1
+sVuh
+p116
+I7
+sVden
+p117
+I1
+sVoutdoors
+p118
+I1
+sVwild
+p119
+I1
+sVcalled
+p120
+I1
+sVshes
+p121
+I1
+sVheart
+p122
+I1
+sVcrazy
+p123
+I1
+sVgive
+p124
+I1
+sVis
+p125
+I25
+sVlife
+p126
+I1
+sVdaddys
+p127
+I1
+sVplayer
+p128
+I1
+sVim
+p129
+I2
+sVrap
+p130
+I1
+sVseen
+p131
+I3
+sVeveryday
+p132
+I1
+sVpimpin
+p133
+I1
+sVpurp
+p134
+I1
+sVfloor
+p135
+I1
+sVna
+p136
+I2
+sVpickin
+p137
+I1
+sVasshole
+p138
+I1
+sVhangin
+p139
+I1
+sVnice
+p140
+I1
+sVsprinkle
+p141
+I1
+sVlay
+p142
+I1
+sVcoming
+p143
+I2
+sVnothing
+p144
+I1
+sVstack
+p145
+I1
+sVshort
+p146
+I1
+sVlight
+p147
+I1
+sVsit
+p148
+I1
+sVwithout
+p149
+I1
+sVupside
+p150
+I1
+s.

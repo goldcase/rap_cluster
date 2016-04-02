@@ -1,88 +1,758 @@
-"absolutely positively... practical jokes" lyrics
-mc lyte lyrics
-"absolutely positively... practical jokes"
-i play practical jokes, just to get a laugh (ha hah)
-i put roaches in my neighbor's bubblebath
-but anyway one day she called upon me
-she said, "lyte - it's an emergency!"
-my next door neighbor had an errand to run
-i said, "why ms. davis - ask your son"
-she said, "ricky's at his grandmother's"
-i said, "well what about tommy, the younger brother?"
-she said, "see, umm, he's at the pharmacy"
-i said, "he'll be back soon how much longer could it be?"
-she said, "c'mon please, it's just a trip uptown
-if you leave right now you'll be back before sundown
-hurry up, there's not a moment to spare
-it absolutely positively has to get there"
-umm, i contemplated then i played a good samaritan
-i started the car, then she threw the package in
-it absolutely positively has to get there
-(get there?)
-it absolutely positively has to get there
-(well then send it federal express!)
-it absolutely positively has to get there
-(it gotta get there?)
-it absolutely positively got to get there!
-(yo who you rushin?)
-pumpin out the music on the fdr
-not far behind me was a dt car
-so i eased up selector, 55 the digit
-but on the fdr, 40 is the limit
-here they come, sirens on
-i could see myself in jail til the break of dawn
-but they rolled right by it wasn't me they was after
-a little red corvette, they was tryin to capture
-dread i feel sweat so i set down my jacket
-look up ahead, now that's what i call traffic
-dipped to an exit and i made my way through
-couldn't believe when i hit first avenue
-on a honda's ass, just about to crash
-looked at the gauge and the shit said no gas
-zero, nada, nothing in here see
-in car terms the shit was on empty
-got out, and pushed the shit to the side
-hailed a cab, then i caught a quick ride
-to the house of inflation, yes the gas station
-gave a little tip to show my appreciation
-got back to the ave where i left my car
-it wasn't there, but it couldn't have gone far
-hot damn, i must have got towed
-tried to figure out how much money i owed
-went to the pound and i paid my debt
-think that was the worst?  you ain't heard nuttin yet
-bumped into that crackhead sam i used to see
-and like always, hand out, give me money
-in my tank was a dollar's worth of gas
-i had to get an ? machine fast
-it absolutely positively has to get there
-(get there?)
-it absolutely positively got to get there
-(what?)
-it absolutely positively got to get there
-(well send it some way else)
-it absolutely positively has to get there
-as i left the bank to walk back to the bm
-couldn't believe what my eyes were seein
-looked at the back tire, it was flate
-while the other three, were so damn fat
-a brother walked by and offered his help
-ordinarily i woulda did the shit myself
-but he, changed it quick, so i passed him a ten
-here i go on this journey again
-went to the gas station, to fill it up
-when a crackhead from nowhere grabbed the pump
-i said, "look, i don't need your help today"
-and i scared the motherfucker and he was on his way
-oops, a cat, shit, scrat!
-fur on my tires, and all that
-what's this, a stroke of bad luck?
-but at this point, i don't even give a fuck
-i got to get the package to the destination
-no matter what the confrontation
-i arrive, bag in my hand
-lookin for a woman named pam
-she opened the bag it was wrapped tight and snug
-but in that bag yo, in that bag
-45, guess what? (what was it lyte?)
-it was a box of q-tips.. a box of fuckin q-tips man!!!
+(dp1
+Vneighbors
+p2
+I1
+sV45
+p3
+I1
+sVlooked
+p4
+I2
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmoney
+p7
+I2
+sVrickys
+p8
+I1
+sVpound
+p9
+I1
+sVanyway
+p10
+I1
+sVthrough
+p11
+I1
+sVgo
+p12
+I1
+sVhell
+p13
+I1
+sVyes
+p14
+I1
+sVavenue
+p15
+I1
+sVyet
+p16
+I1
+sVhondas
+p17
+I1
+sVhah
+p18
+I1
+sVmachine
+p19
+I1
+sVha
+p20
+I1
+sVdipped
+p21
+I1
+sVtire
+p22
+I1
+sVwoman
+p23
+I1
+sVpoint
+p24
+I1
+sVhelp
+p25
+I2
+sVpump
+p26
+I1
+sVsend
+p27
+I2
+sVpharmacy
+p28
+I1
+sVrushin
+p29
+I1
+sVworth
+p30
+I1
+sVta
+p31
+I1
+sVdigit
+p32
+I1
+sVgood
+p33
+I1
+sVhit
+p34
+I1
+sVemergency
+p35
+I1
+sVget
+p36
+I15
+sVfar
+p37
+I2
+sVpumpin
+p38
+I1
+sVnada
+p39
+I1
+sVexpress
+p40
+I1
+sVguess
+p41
+I1
+sVfat
+p42
+I1
+sVsoon
+p43
+I1
+sVbreak
+p44
+I1
+sVhailed
+p45
+I1
+sVtraffic
+p46
+I1
+sVfur
+p47
+I1
+sVdt
+p48
+I1
+sVson
+p49
+I1
+sVroaches
+p50
+I1
+sVday
+p51
+I1
+sVbank
+p52
+I1
+sVlike
+p53
+I1
+sVmc
+p54
+I1
+sV55
+p55
+I1
+sValways
+p56
+I1
+sVeased
+p57
+I1
+sVtowed
+p58
+I1
+sVbrother
+p59
+I2
+sVpam
+p60
+I1
+sVleave
+p61
+I1
+sVjokes
+p62
+I3
+sVbad
+p63
+I1
+sVsnug
+p64
+I1
+sVquick
+p65
+I2
+sVgauge
+p66
+I1
+sVwent
+p67
+I2
+sVside
+p68
+I1
+sVluck
+p69
+I1
+sVass
+p70
+I1
+sVright
+p71
+I2
+sVnuttin
+p72
+I1
+sVten
+p73
+I1
+sVabsolutely
+p74
+I11
+sVhouse
+p75
+I1
+sVstation
+p76
+I2
+sVback
+p77
+I5
+sVgrandmothers
+p78
+I1
+sVup
+p79
+I1
+sVcrackhead
+p80
+I2
+sVsee
+p81
+I4
+sVchanged
+p82
+I1
+sVterms
+p83
+I1
+sVdawn
+p84
+I1
+sVflate
+p85
+I1
+sVeven
+p86
+I1
+sVwhat
+p87
+I1
+sVsaid
+p88
+I9
+sVopened
+p89
+I1
+sVbag
+p90
+I4
+sVfederal
+p91
+I1
+sVplease
+p92
+I1
+sVscrat
+p93
+I1
+sVbehind
+p94
+I1
+sVexit
+p95
+I1
+sVumm
+p96
+I2
+sVgot
+p97
+I8
+sVqtips
+p98
+I2
+sVyoull
+p99
+I1
+sVred
+p100
+I1
+sVsirens
+p101
+I1
+sVbe
+p102
+I1
+sVrun
+p103
+I1
+sVrolled
+p104
+I1
+sVbm
+p105
+I1
+sVmotherfucker
+p106
+I1
+sVspare
+p107
+I1
+sVnowhere
+p108
+I1
+sVask
+p109
+I1
+sVgrabbed
+p110
+I1
+sVdebt
+p111
+I1
+sVcome
+p112
+I1
+sVseein
+p113
+I1
+sVbox
+p114
+I2
+sVon
+p115
+I1
+sVarrive
+p116
+I1
+sVahead
+p117
+I1
+sVpackage
+p118
+I2
+sVcould
+p119
+I2
+sVsamaritan
+p120
+I1
+sVpractical
+p121
+I3
+sVtires
+p122
+I1
+sVsweat
+p123
+I1
+sVneighbor
+p124
+I1
+sVdavis
+p125
+I1
+sVthink
+p126
+I1
+sVfuckin
+p127
+I1
+sVthats
+p128
+I1
+sVlookin
+p129
+I1
+sVnamed
+p130
+I1
+sVdestination
+p131
+I1
+sVwhats
+p132
+I1
+sVdont
+p133
+I2
+sVowed
+p134
+I1
+sVfeel
+p135
+I1
+sVone
+p136
+I1
+sVput
+p137
+I1
+sVset
+p138
+I1
+sVfast
+p139
+I1
+sVlaugh
+p140
+I1
+sVuptown
+p141
+I1
+sVcouldnt
+p142
+I3
+sVlittle
+p143
+I2
+sVsam
+p144
+I1
+sVhes
+p145
+I1
+sVlyte
+p146
+I3
+sVcaught
+p147
+I1
+sVthere
+p148
+I12
+sVthree
+p149
+I1
+sVerrand
+p150
+I1
+sVnext
+p151
+I1
+sVcorvette
+p152
+I1
+sVconfrontation
+p153
+I1
+sVmuch
+p154
+I2
+sVmusic
+p155
+I1
+sVway
+p156
+I3
+sVwrapped
+p157
+I1
+sVcall
+p158
+I1
+sVtryin
+p159
+I1
+sVscared
+p160
+I1
+sVempty
+p161
+I1
+sVthrew
+p162
+I1
+sVeyes
+p163
+I1
+sVdoor
+p164
+I1
+sVpassed
+p165
+I1
+sVbumped
+p166
+I1
+sVstarted
+p167
+I1
+sVbelieve
+p168
+I2
+sVgas
+p169
+I4
+sVselector
+p170
+I1
+sVappreciation
+p171
+I1
+sVhurry
+p172
+I1
+sVpositively
+p173
+I11
+sVmust
+p174
+I1
+sVme
+p175
+I1
+sVagain
+p176
+I1
+sVmyself
+p177
+I1
+sVmade
+p178
+I1
+sVtank
+p179
+I1
+sVlook
+p180
+I2
+sVcontemplated
+p181
+I1
+sVheard
+p182
+I1
+sVcar
+p183
+I4
+sVride
+p184
+I1
+sVzero
+p185
+I1
+sVtommy
+p186
+I1
+sVmatter
+p187
+I1
+sVfdr
+p188
+I2
+sVlimit
+p189
+I1
+sVtoday
+p190
+I1
+sVms
+p191
+I1
+sVcab
+p192
+I1
+sVgave
+p193
+I1
+sVcalled
+p194
+I1
+sVtheres
+p195
+I1
+sVgone
+p196
+I1
+sVcmon
+p197
+I1
+sVfigure
+p198
+I1
+sVplayed
+p199
+I1
+sVwasnt
+p200
+I2
+sVfuck
+p201
+I1
+sVpushed
+p202
+I1
+sVstroke
+p203
+I1
+sVbubblebath
+p204
+I1
+sVsundown
+p205
+I1
+sVin
+p206
+I1
+sVneed
+p207
+I1
+sVcrash
+p208
+I1
+sVtrip
+p209
+I1
+sVshit
+p210
+I5
+sVfill
+p211
+I1
+sVcapture
+p212
+I1
+sVyo
+p213
+I2
+sVdollars
+p214
+I1
+sVthat
+p215
+I1
+sVtip
+p216
+I1
+sV40
+p217
+I1
+sVaint
+p218
+I1
+sVtil
+p219
+I1
+sVtight
+p220
+I1
+sVhot
+p221
+I1
+sVoffered
+p222
+I1
+sVoops
+p223
+I1
+sVplay
+p224
+I1
+sVused
+p225
+I1
+sVtried
+p226
+I1
+sVdamn
+p227
+I2
+sVafter
+p228
+I1
+sVupon
+p229
+I1
+sVpaid
+p230
+I1
+sVhand
+p231
+I2
+sVwalk
+p232
+I1
+sVmoment
+p233
+I1
+sVjourney
+p234
+I1
+sVwoulda
+p235
+I1
+sVnothing
+p236
+I1
+sVelse
+p237
+I1
+sVman
+p238
+I1
+sVave
+p239
+I1
+sVyounger
+p240
+I1
+sVgive
+p241
+I2
+sVlonger
+p242
+I1
+sVcat
+p243
+I1
+sVwell
+p244
+I3
+sVordinarily
+p245
+I1
+sVwalked
+p246
+I1
+sVjacket
+p247
+I1
+sVinflation
+p248
+I1
+sVjail
+p249
+I1
+sVdread
+p250
+I1
+sVworst
+p251
+I1
+sVfirst
+p252
+I1
+sVleft
+p253
+I2
+s.

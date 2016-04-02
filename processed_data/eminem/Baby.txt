@@ -1,135 +1,1144 @@
-"baby" lyrics
-eminem lyrics
-"baby"
-one thousand different houses and munchhausen
-i'mma make you wanna punch out some fuckin' one "ouch"
-what the fuck'd you hit me for?
-scream life as i punch counter and bunches out of anger
-i once encountered a stranger
-in a dumb gown, black hood
-with a scythe
-shit i laughed in his face spit
-bitch gave me an extra life, like take this
-now get your ass back in that game, bitch
-don't take shit for granted
-and don't take shit, give it!
-only bull you should take is by the horns
-a mixture of whitey ford and mighty thor
-i everlast, pen is mightier than sword
-finish writing then record
-replenish keep writing more
-nothing's riding on it but your pride is all you're fighting for
-so you fight, scratch, you claw
-back's to wall
-no one was there to catch you fall
-you pick yourself back up, you dust your jacket off
-you grab your balls, like they're gargantuan and
-ask yourself how fucking bad you want it
-pull out your pants, for whooping ass and flash it on em'
-nobodies gonna back you in the corner
-you're a hornet
-no one's more ig-norant then you fuckin' four in the morning you're at the laboratory, storming
-like there's nothing that's more important
-mc's you better consider this a formal warning, you're in for it
-girl, what would you do if i said your body was off the chain
-and i told you i smile every single time i saw your face?
-i ain't finished bitch
-i meant in half, oil the blades
-nobody wants to play
-they say i'm a spoiled little baby
-but
-nobody puts baby in the corner
-i'm only trying to warn ya
-'cause that baby gets mad
-and gets to throwing a tantrum
-he'll fucking flip on ya
-'cause nobody puts baby in the corner
-i'm only trying to warn ya
-'cause that baby gets mad
-and gets to throwing a tantrum
-he'll fucking flip on ya
-what goes through an addict's brain?
-besides static pain and big daddy kane
-break, beats and words
-an erratic train of thought
-like splatter paint
-scatter brain
-yeah maybe that explains
-why you're back but don't rap the same
-and you're looking way thinner
-because your hunger got you looking like
-they took away dinner (chooka)
-sugar ray leonard wouldn't sugar coat a fucking booger though
-just to wipe that bitch on a hooker's coat
-when you say you're a chooka what chooka what
-now fling that bitch from your fingertips
-hope it lands on another rap singers lips
-who can't think of shit
-anything of wit, that's interesting to spit
-who's king of this fucking english lit?
-let your middle fingers flip
-on each hand whilst extending this shit
-how low can you go?
-lower than chuck d ho
-hear the bass of this in my voice
-rocky's back, where's my adrian?
-nobodies crazy as shady in an eighty million mile radius
-i'm what tom brady is to the patriots of rap
-not a man, i'm a weapon
-who just happened to be a rapper
-who just happen to be on the crapper
-when it happened i had an epiphany
-in the bathroom, i'd never be the same after
-now i'm back with an appe-tite
-for destruction, the fucking recipe for disaster
-so let's eat cos' i'm famished
-every deed is a dastardly one
-evil its past it
-even you asking for me to be
-po-lite to people
-is like me having my teeth pulled
-so step inside of dimension
-the demented side of a mind
-that's like the inside of an engine
-while i multiply your undivided attention
-but be reminded that if i didn't mention
-i lose my mind and my temper
-you'll be the first one
-who finds him offensive
-got him climbing the fences
-lost some time to addiction
-but look up rhyme in the dictio-nary
-i'm in the picture
-eminem is the synonym for it
-i'm an enigma
-fuck it, let's get to the meat balls
-i'm gonna skip the veg and potatoes
-edgamacater, they are
-shit legends are made of
-spit treacherous data
-shit that you would say to your worst enemy
-this wretched is
-what you get when you mix treach with a jada
-and combine em' with method man and redman
-with meth-amphetamines in his left hand
-and in his right there's a sledge-hammer
-and pajamas, standing in front of a webcam
-beating himself in the head, til russell let's him off deaf jam
-maybe i need my head examined
-hannibal lecter with a dead lamb
-hanging from his ceiling dripping with a bed pan
-i need meds!
-swear to god 'cause if i go off the edge
-t.i ain't talking me off a ledge man
-heart throb at a fart, ah nah
-more like a smart slob, part blob
-that'll stab you with a sharp ob-ject
-to the heart and leave claw marks
-all over the wal-mart walls
-little baby with large balls
-fuck mud slinging, i'm blood flinging
-there's nothing on this fucking earth better than being
-the king of the playground
-i hate the swings but i love being an underdog
-cos when i'm pushed
-i end up swinging up
+(dp1
+Vgown
+p2
+I1
+sVconsider
+p3
+I1
+sVchain
+p4
+I1
+sVscratch
+p5
+I1
+sVouch
+p6
+I1
+sVfour
+p7
+I1
+sVmile
+p8
+I1
+sVhanging
+p9
+I1
+sVgo
+p10
+I2
+sVappetite
+p11
+I1
+sVhate
+p12
+I1
+sVimma
+p13
+I1
+sVflash
+p14
+I1
+sVveg
+p15
+I1
+sVskip
+p16
+I1
+sVsmile
+p17
+I1
+sVpride
+p18
+I1
+sVfences
+p19
+I1
+sVplayground
+p20
+I1
+sVflinging
+p21
+I1
+sVrhyme
+p22
+I1
+sVevery
+p23
+I2
+sVfall
+p24
+I1
+sVchooka
+p25
+I3
+sVwipe
+p26
+I1
+sVwhooping
+p27
+I1
+sVleave
+p28
+I1
+sVd
+I1
+sVpast
+p29
+I1
+sVearth
+p30
+I1
+sVpajamas
+p31
+I1
+sVeven
+p32
+I1
+sVwhat
+p33
+I1
+sVfingers
+p34
+I1
+sVgoes
+p35
+I1
+sVfuckd
+p36
+I1
+sVmethod
+p37
+I1
+sVtold
+p38
+I1
+sVbody
+p39
+I1
+sVnever
+p40
+I1
+sVpunch
+p41
+I2
+sVeminem
+p42
+I2
+sVscythe
+p43
+I1
+sVlet
+p44
+I1
+sVpick
+p45
+I1
+sVthats
+p46
+I3
+sVlove
+p47
+I1
+sVslinging
+p48
+I1
+sVextra
+p49
+I1
+sVsledgehammer
+p50
+I1
+sVwit
+p51
+I1
+sVpatriots
+p52
+I1
+sVstanding
+p53
+I1
+sVswings
+p54
+I1
+sVrussell
+p55
+I1
+sVwould
+p56
+I2
+sVmore
+p57
+I1
+sVwretched
+p58
+I1
+sVti
+p59
+I1
+sVleonard
+p60
+I1
+sVfuck
+p61
+I2
+sVwarn
+p62
+I2
+sVtrain
+p63
+I1
+sVignorant
+p64
+I1
+sVbaby
+p65
+I8
+sVballs
+p66
+I3
+sVanything
+p67
+I1
+sVthis
+p68
+I1
+sVdidnt
+p69
+I1
+sVscatter
+p70
+I1
+sVheart
+p71
+I2
+sVcrazy
+p72
+I1
+sVgive
+p73
+I1
+sVdripping
+p74
+I1
+sVpushed
+p75
+I1
+sVwant
+p76
+I1
+sVsharp
+p77
+I1
+sVgargantuan
+p78
+I1
+sVlamb
+p79
+I1
+sVend
+p80
+I1
+sVundivided
+p81
+I1
+sVepiphany
+p82
+I1
+sVid
+p83
+I1
+sVneed
+p84
+I2
+sVsword
+p85
+I1
+sVexplains
+p86
+I1
+sVmethamphetamines
+p87
+I1
+sVafter
+p88
+I1
+sVeighty
+p89
+I1
+sVfart
+p90
+I1
+sVmad
+p91
+I2
+sVdata
+p92
+I1
+sVman
+p93
+I3
+sVbrady
+p94
+I1
+sVcoat
+p95
+I2
+sVshady
+p96
+I1
+sVcounter
+p97
+I1
+sVlost
+p98
+I1
+sVworst
+p99
+I1
+sVaddiction
+p100
+I1
+sVpulled
+p101
+I1
+sVgranted
+p102
+I1
+sVbrain
+p103
+I2
+sVthinner
+p104
+I1
+sVhorns
+p105
+I1
+sVhell
+p106
+I2
+sVinteresting
+p107
+I1
+sVwriting
+p108
+I2
+sVbetter
+p109
+I2
+sVhappened
+p110
+I2
+sVfling
+p111
+I1
+sVya
+p112
+I4
+sVbreak
+p113
+I1
+sVmention
+p114
+I1
+sVwalls
+p115
+I1
+sVhalf
+p116
+I1
+sVfront
+p117
+I1
+sVmeat
+p118
+I1
+sVpotatoes
+p119
+I1
+sVnobodies
+p120
+I2
+sVerratic
+p121
+I1
+sVmunchhausen
+p122
+I1
+sVem
+p123
+I2
+sVkane
+p124
+I1
+sVtreacherous
+p125
+I1
+sVyeah
+p126
+I1
+sVfinish
+p127
+I1
+sVstatic
+p128
+I1
+sVfingertips
+p129
+I1
+sVlaboratory
+p130
+I1
+sVgirl
+p131
+I1
+sVlarge
+p132
+I1
+sVgon
+p133
+I2
+sVredman
+p134
+I1
+sVgod
+p135
+I1
+sVlooking
+p136
+I2
+sVbunches
+p137
+I1
+sVgot
+p138
+I2
+sVcause
+p139
+I4
+sVass
+p140
+I2
+sVbass
+p141
+I1
+sVdictionary
+p142
+I1
+sVmillion
+p143
+I1
+sVhouses
+p144
+I1
+sVbesides
+p145
+I1
+sVask
+p146
+I1
+sVkeep
+p147
+I1
+sVadrian
+p148
+I1
+sVhannibal
+p149
+I1
+sVthink
+p150
+I1
+sVfuckin
+p151
+I2
+sVfirst
+p152
+I1
+sVdont
+p153
+I3
+sVone
+p154
+I5
+sVbitch
+p155
+I5
+sVanother
+p156
+I1
+sVhood
+p157
+I1
+sVlittle
+p158
+I2
+sVpaint
+p159
+I1
+sVtom
+p160
+I1
+sVceiling
+p161
+I1
+sVnobody
+p162
+I3
+sVtook
+p163
+I1
+sVpart
+p164
+I1
+sVenigma
+p165
+I1
+sVking
+p166
+I2
+sVbed
+p167
+I1
+sVspoiled
+p168
+I1
+sVdumb
+p169
+I1
+sVand
+p170
+I1
+sVsplatter
+p171
+I1
+sVmind
+p172
+I2
+sVtalking
+p173
+I1
+sVsay
+p174
+I3
+sVrap
+p175
+I3
+sVanger
+p176
+I1
+sVsaw
+p177
+I1
+sVray
+p178
+I1
+sVlit
+p179
+I1
+sVmix
+p180
+I1
+sVtake
+p181
+I4
+sVlaughed
+p182
+I1
+sVblades
+p183
+I1
+sVplay
+p184
+I1
+sVpain
+p185
+I1
+sVthough
+p186
+I1
+sVobject
+p187
+I1
+sVextending
+p188
+I1
+sVmultiply
+p189
+I1
+sVeverlast
+p190
+I1
+sVwebcam
+p191
+I1
+sVsynonym
+p192
+I1
+sVface
+p193
+I2
+sVscream
+p194
+I1
+sVho
+p195
+I1
+sVlyrics
+p196
+I2
+sVhunger
+p197
+I1
+sVrecipe
+p198
+I1
+sVcorner
+p199
+I3
+sVaint
+p200
+I2
+sVtrying
+p201
+I2
+sVsugar
+p202
+I2
+sVjam
+p203
+I1
+sVblack
+p204
+I1
+sVslob
+p205
+I1
+sVriding
+p206
+I1
+sVhope
+p207
+I1
+sVmeant
+p208
+I1
+sVmixture
+p209
+I1
+sVhit
+p210
+I1
+sVget
+p211
+I3
+sVones
+p212
+I1
+sVwords
+p213
+I1
+sVlecter
+p214
+I1
+sVenemy
+p215
+I1
+sVwhilst
+p216
+I1
+sVrapper
+p217
+I1
+sVmorning
+p218
+I1
+sVbad
+p219
+I1
+sVgrab
+p220
+I1
+sVdisaster
+p221
+I1
+sVthrowing
+p222
+I2
+sVjada
+p223
+I1
+sVup
+p224
+I1
+sVdemented
+p225
+I1
+sVradius
+p226
+I1
+sVare
+p227
+I1
+sVsaid
+p228
+I1
+sVaway
+p229
+I1
+sVmud
+p230
+I1
+sVmarks
+p231
+I1
+sVyoull
+p232
+I1
+sVpants
+p233
+I1
+sVattention
+p234
+I1
+sVsingers
+p235
+I1
+sVtantrum
+p236
+I2
+sVthor
+p237
+I1
+sVfinds
+p238
+I1
+sVwall
+p239
+I1
+sVfamished
+p240
+I1
+sVbathroom
+p241
+I1
+sVputs
+p242
+I2
+sVwhos
+p243
+I1
+sVengine
+p244
+I1
+sVlife
+p245
+I2
+sVspit
+p246
+I3
+sVthousand
+p247
+I1
+sVcos
+p248
+I2
+sVfinished
+p249
+I1
+sVbull
+p250
+I1
+sVcatch
+p251
+I1
+sVmcs
+p252
+I1
+sVlook
+p253
+I1
+sVbeats
+p254
+I1
+sVmightier
+p255
+I1
+sVvoice
+p256
+I1
+sVtheres
+p257
+I3
+sVthatll
+p258
+I1
+sVis
+p259
+I1
+sVit
+p260
+I5
+sVencountered
+p261
+I1
+sVmiddle
+p262
+I1
+sVcant
+p263
+I1
+sVexamined
+p264
+I1
+sVim
+p265
+I12
+sVswinging
+p266
+I1
+sVedgamacater
+p267
+I1
+sVdifferent
+p268
+I1
+sVmake
+p269
+I1
+sVreminded
+p270
+I1
+sVsame
+p271
+I1
+sVgets
+p272
+I4
+sVpan
+p273
+I1
+sVoil
+p274
+I1
+sVevil
+p275
+I1
+sVhand
+p276
+I2
+sVwalmart
+p277
+I1
+sVdust
+p278
+I1
+sVclimbing
+p279
+I1
+sVwheres
+p280
+I1
+sVdestruction
+p281
+I1
+sVlower
+p282
+I1
+sVoff
+p283
+I1
+sVblood
+p284
+I1
+sVweapon
+p285
+I1
+sVyoure
+p286
+I7
+sVfighting
+p287
+I1
+sVthought
+p288
+I1
+sVedge
+p289
+I1
+sVenglish
+p290
+I1
+sVdimension
+p291
+I1
+sVleft
+p292
+I1
+sVunderdog
+p293
+I1
+sVbeing
+p294
+I1
+sVreplenish
+p295
+I1
+sVstorming
+p296
+I1
+sVlets
+p297
+I3
+sVcombine
+p298
+I1
+sVblob
+p299
+I1
+sVsmart
+p300
+I1
+sVgave
+p301
+I1
+sVbig
+p302
+I1
+sVaddicts
+p303
+I1
+sVgame
+p304
+I1
+sVformal
+p305
+I1
+sVlike
+p306
+I8
+sVstranger
+p307
+I1
+sVtheyre
+p308
+I1
+sVlose
+p309
+I1
+sVclaw
+p310
+I2
+sVright
+p311
+I1
+sVpeople
+p312
+I1
+sVfucking
+p313
+I7
+sVdeaf
+p314
+I1
+sVback
+p315
+I6
+sVdead
+p316
+I1
+sVchuck
+p317
+I1
+sVlips
+p318
+I1
+sVmighty
+p319
+I1
+sVfor
+p320
+I2
+sVmeds
+p321
+I1
+sVpen
+p322
+I1
+sVasking
+p323
+I1
+sVbeating
+p324
+I1
+sVbe
+p325
+I1
+sVthrob
+p326
+I1
+sVstep
+p327
+I1
+sVdastardly
+p328
+I1
+sVnothings
+p329
+I1
+sVwouldnt
+p330
+I1
+sVof
+p331
+I1
+sVside
+p332
+I1
+sVdinner
+p333
+I1
+sVswear
+p334
+I1
+sVwhitey
+p335
+I1
+sVlands
+p336
+I1
+sVnothing
+p337
+I2
+sVwan
+p338
+I1
+sVlegends
+p339
+I1
+sVfight
+p340
+I1
+sVlow
+p341
+I1
+sVway
+p342
+I1
+sVhookers
+p343
+I1
+sVhead
+p344
+I2
+sVcrapper
+p345
+I1
+sVbut
+p346
+I1
+sVford
+p347
+I1
+sVhear
+p348
+I1
+sVrockys
+p349
+I1
+sVtreach
+p350
+I1
+sVeat
+p351
+I1
+sVpull
+p352
+I1
+sVmade
+p353
+I1
+sVinside
+p354
+I2
+sVflip
+p355
+I3
+sVrecord
+p356
+I1
+sVdaddy
+p357
+I1
+sVtemper
+p358
+I1
+sVhornet
+p359
+I1
+sVwants
+p360
+I1
+sVah
+p361
+I1
+sVsingle
+p362
+I1
+sVwarning
+p363
+I1
+sVdeed
+p364
+I1
+sVhappen
+p365
+I1
+sVshit
+p366
+I7
+sVmaybe
+p367
+I2
+sVna
+p368
+I3
+sVnah
+p369
+I1
+sVoffensive
+p370
+I1
+sVbacks
+p371
+I1
+sVtil
+p372
+I1
+sVledge
+p373
+I1
+sVpicture
+p374
+I1
+sVbooger
+p375
+I1
+sVtime
+p376
+I2
+sVpolite
+p377
+I1
+sVimportant
+p378
+I1
+sVstab
+p379
+I1
+sVjacket
+p380
+I1
+sVteeth
+p381
+I1
+s.

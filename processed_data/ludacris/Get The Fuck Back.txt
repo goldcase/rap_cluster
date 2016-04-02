@@ -1,142 +1,852 @@
-"get the fuck back" lyrics
-ludacris lyrics
-"get the fuck back"
-(feat. fate wilson, i-20, shawna)
-what the fuck's up!
-dtp in this mother fucker
-and for all ya'll that don't like it
-do one thing, get the fuck back
-'cause all my niggas iz ready
-luda, 20, fate, shawna
-let's show these mutha fuckers how we disturb the peace
-get the fuck back, bitch
-fuck that!
-get the fuck back!
-luda make your skull crack
-tuck that
-bitch, your whole town's on my nutsack
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-fuck that!
-get the fuck back!
-d-low make your skull crack
-tuck that
-bitch, your whole town's on my nutsack
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-bronson, mutha fucker, give me more than three feet
-dtp in the club, we comin' more than three deep
-your whole crew is weak and my squad is real cash getters
-stayin' more to crunk, our shit bump like bad clippers
-how many try to hustle with dealer then went broke
-infamous, i'm a value meal, i come with the coke
-i gotta enough guns for beef, if you want it that way
-i'll push your wig back like finger waves or bad toupee
-i lick a load of you niggaz, leave kids in the hallways
-catch 'em at they locka (hoo-ahh, blocka blocka)(gun shots)
-see 'em on broadway and tap they ass
-catch 'em in the swimming pool and overlap they ass
-i'm from the southside, college park
-g road, niggas gone
-ride when the beef starts
-don't hold back, let the heat spark
-one's through his vest, one's through his chest
-sleepy hollows put the niggas to rest, uh
-fuck that!
-get the fuck back!
-luda make your skull crack
-tuck that
-bitch, your whole town's on my nutsack
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-fuck that!
-get the fuck back!
-shaw make your skull crack
-tuck that
-bitch, your whole town better love that
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-what you know about projects, hoes, and murda
-whole lotta game, whole lotta keys and burners
-whole lotta dope fiends, trying to scheme the workers
-whole lotta feds, got them niggas scared to surface
-type of bitch that got the brown in my sock
-find me on tha block tryin' to cop a piece of the crop
-watch me, pull up on me real sweet in a drop
-but if you fuckin' with my paper, feel the heat from the glock, nigga
-we pop bottles, bottles,
-right over you head, niggas
-put nozzles, nozzles
-right over your leg, niggas
-our motto, motto
-is kill 'em instead, niggas
-we make 'em loose weight, when we jenny craig, niggas
-all of ya'll is half nice, half thugs, and half assed
-the only time im goin' half, is half on a half
-but i use a full clip, cuz i'm a full fledged killa
-part-time mc, full-time drug dealer
-fuck that!
-get the fuck back!
-luda make your skull crack
-tuck that
-bitch, your whole town's on my nutsack
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-fuck that!
-get the fuck back!
-fate make your skull crack
-tuck that
-bitch, your whole town's on my nutsacks
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-we the filthy niggas from the south, a-town represent us
-strong armin' motherfuckers, like a russian sickle
-you got issues with us talkin' shit on mixed tapes
-ill catch you at a show and beat you with a mix tape
-you best pump brakes, 'fore i pump shells and blood oze
-i leave niggas like burps (burp), excuse
-just keep on pissin me off, like a week kidney
-and you will find your family reading your obituary
-these people tryin' to scrub the red off
-stains they don't get off
-they wanted to bring the pain, so this thang 'bout to set off
-barretas for getting cheddar, you're better off dead off
-yes, you can do it, cut his fuckin head off
-i got a letter from the government, the other day
-they told me that the bitches caught a shipment of my yay
-they on their way, three minutes to get the k
-two minutes to get the weight, one minute and imma spray
-fuck that!
-get the fuck back!
-we make your skull crack
-tuck that
-bitch, your whole town's on my nutsack
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-fuck that!
-get the fuck back!
-we make your skull crack
-tuck that
-bitch, your whole town better love that
-cuff that
-put it in your weed, nigga, puff that
-what's that
-people gon' die tonight
-bang bang kill a man let his brains hang
-and when i'm in the court, plead guilty insane
-they put me in a ward, imma have to maintain
-but when i hit bricks won't a damn thing change
+(dp1
+Vload
+p2
+I1
+sVset
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVstains
+p6
+I1
+sVburners
+p7
+I1
+sVhalf
+p8
+I6
+sVsleepy
+p9
+I1
+sVsickle
+p10
+I1
+sVrest
+p11
+I1
+sVrussian
+p12
+I1
+sVpaper
+p13
+I1
+sVkill
+p14
+I2
+sVpump
+p15
+I2
+sVbroadway
+p16
+I1
+sVyes
+p17
+I1
+sVfeat
+p18
+I1
+sVfind
+p19
+I2
+sVissues
+p20
+I1
+sVtrying
+p21
+I1
+sV20
+p22
+I1
+sVimma
+p23
+I2
+sVthang
+p24
+I1
+sVworkers
+p25
+I1
+sVshow
+p26
+I2
+sVcuz
+p27
+I1
+sVcrew
+p28
+I1
+sVbetter
+p29
+I3
+sVfeel
+p30
+I1
+sVlets
+p31
+I1
+sVtape
+p32
+I1
+sVminute
+p33
+I1
+sVcrack
+p34
+I8
+sVbout
+p35
+I1
+sVta
+p36
+I1
+sVreal
+p37
+I2
+sVbrown
+p38
+I1
+sVtwo
+p39
+I1
+sVhit
+p40
+I1
+sVfate
+p41
+I3
+sVget
+p42
+I15
+sVbeat
+p43
+I1
+sVcheddar
+p44
+I1
+sVdope
+p45
+I1
+sVwatch
+p46
+I1
+sVclippers
+p47
+I1
+sVgame
+p48
+I1
+sVones
+p49
+I2
+sVkilla
+p50
+I1
+sVknow
+p51
+I1
+sVsouthside
+p52
+I1
+sVday
+p53
+I1
+sVprojects
+p54
+I1
+sVsweet
+p55
+I1
+sVwont
+p56
+I1
+sVdisturb
+p57
+I1
+sVlike
+p58
+I6
+sVbring
+p59
+I1
+sVdie
+p60
+I8
+sVinsane
+p61
+I1
+sVpiece
+p62
+I1
+sVtry
+p63
+I1
+sVbad
+p64
+I2
+sVshots
+p65
+I1
+sVatown
+p66
+I1
+sVwent
+p67
+I1
+sVtold
+p68
+I1
+sVmeal
+p69
+I1
+sVyall
+p70
+I2
+sVus
+p71
+I2
+sVem
+p72
+I5
+sVnigga
+p73
+I9
+sVweight
+p74
+I2
+sVpeople
+p75
+I9
+sVbump
+p76
+I1
+sVblockagun
+p77
+I1
+sVscared
+p78
+I1
+sVback
+p79
+I14
+sVcrop
+p80
+I1
+sVup
+p81
+I1
+sVsee
+p82
+I1
+sVoze
+p83
+I1
+sVcollege
+p84
+I1
+sVniggaz
+p85
+I1
+sVhoes
+p86
+I1
+sVpain
+p87
+I1
+sVward
+p88
+I1
+sVbest
+p89
+I1
+sVleave
+p90
+I2
+sVgon
+p91
+I8
+sVrepresent
+p92
+I1
+sVlotta
+p93
+I4
+sVhallways
+p94
+I1
+sVmc
+p95
+I1
+sVfucks
+p96
+I1
+sVoverlap
+p97
+I1
+sVstayin
+p98
+I1
+sVenough
+p99
+I1
+sVfinger
+p100
+I1
+sVshipment
+p101
+I1
+sVgot
+p102
+I5
+sVreading
+p103
+I1
+sVcause
+p104
+I1
+sVguns
+p105
+I1
+sVred
+p106
+I1
+sVhustle
+p107
+I1
+sVass
+p108
+I2
+sVnutsacks
+p109
+I1
+sVfull
+p110
+I2
+sVburps
+p111
+I1
+sVlove
+p112
+I2
+sVleg
+p113
+I1
+sVloose
+p114
+I1
+sVweak
+p115
+I1
+sVgovernment
+p116
+I1
+sVspray
+p117
+I1
+sVcut
+p118
+I1
+sVlet
+p119
+I2
+sVmutha
+p120
+I2
+sVbrakes
+p121
+I1
+sVput
+p122
+I11
+sVspark
+p123
+I1
+sVstrong
+p124
+I1
+sVcome
+p125
+I1
+sVdead
+p126
+I1
+sVcop
+p127
+I1
+sVkids
+p128
+I1
+sVg
+I1
+sVtuck
+p129
+I8
+sVmany
+p130
+I1
+sVill
+p131
+I2
+sVguilty
+p132
+I1
+sVdrug
+p133
+I1
+sVkeep
+p134
+I1
+sVthing
+p135
+I2
+sVfulltime
+p136
+I1
+sVmixed
+p137
+I1
+sVpuff
+p138
+I8
+sVwhole
+p139
+I13
+sVmotherfuckers
+p140
+I1
+sVroad
+p141
+I1
+sVswimming
+p142
+I1
+sVwig
+p143
+I1
+sVfledged
+p144
+I1
+sVwhats
+p145
+I8
+sVdont
+p146
+I3
+sVfamily
+p147
+I1
+sVtoupee
+p148
+I1
+sVsock
+p149
+I1
+sVbronson
+p150
+I1
+sVone
+p151
+I2
+sVfeet
+p152
+I1
+sVpop
+p153
+I1
+sVlick
+p154
+I1
+sVbitch
+p155
+I10
+sVright
+p156
+I2
+sVcomin
+p157
+I1
+sVmotto
+p158
+I2
+sVuse
+p159
+I1
+sVwanted
+p160
+I1
+sVyay
+p161
+I1
+sVassed
+p162
+I1
+sVbeef
+p163
+I2
+sVshells
+p164
+I1
+sVcrunk
+p165
+I1
+sVbarretas
+p166
+I1
+sVcaught
+p167
+I1
+sVfuckers
+p168
+I1
+sVthree
+p169
+I3
+sVhollows
+p170
+I1
+sVburp
+p171
+I1
+sVdamn
+p172
+I1
+sVpool
+p173
+I1
+sVway
+p174
+I2
+sVletter
+p175
+I1
+sVscheme
+p176
+I1
+sVtype
+p177
+I1
+sVshawna
+p178
+I2
+sVhead
+p179
+I2
+sVglock
+p180
+I1
+sVthat
+p181
+I42
+sVclub
+p182
+I1
+sVbrains
+p183
+I1
+sVcoke
+p184
+I1
+sVgetters
+p185
+I1
+sVpark
+p186
+I1
+sVfore
+p187
+I1
+sVfuck
+p188
+I20
+sVchange
+p189
+I1
+sVexcuse
+p190
+I1
+sVheat
+p191
+I2
+sVnutsack
+p192
+I5
+sVsurface
+p193
+I1
+sVbroke
+p194
+I1
+sVcatch
+p195
+I3
+sVoff
+p196
+I5
+sVtowns
+p197
+I6
+sVhold
+p198
+I1
+sVtown
+p199
+I2
+sVpull
+p200
+I1
+sVfiends
+p201
+I1
+sVtapes
+p202
+I1
+sVskull
+p203
+I8
+sVniggas
+p204
+I10
+sVride
+p205
+I1
+sVgetting
+p206
+I1
+sVcash
+p207
+I1
+sVvalue
+p208
+I1
+sVman
+p209
+I1
+sVcuff
+p210
+I8
+sVuh
+p211
+I1
+sVstarts
+p212
+I1
+sVdtp
+p213
+I2
+sVminutes
+p214
+I2
+sVk
+I1
+sVluda
+p215
+I4
+sVgone
+p216
+I1
+sVvest
+p217
+I1
+sViz
+p218
+I1
+sVtap
+p219
+I1
+sVjenny
+p220
+I1
+sVclip
+p221
+I1
+sVgive
+p222
+I1
+sVcraig
+p223
+I1
+sVplead
+p224
+I1
+sVit
+p225
+I1
+sVdeep
+p226
+I1
+sVtonight
+p227
+I8
+sVarmin
+p228
+I1
+sVim
+p229
+I5
+sVwant
+p230
+I1
+sVready
+p231
+I1
+sVsouth
+p232
+I1
+sVdealer
+p233
+I2
+sVshit
+p234
+I2
+sVpissin
+p235
+I1
+sVobituary
+p236
+I1
+sVwilson
+p237
+I1
+sVbottles
+p238
+I2
+sVshaw
+p239
+I1
+sVi20
+p240
+I1
+sVmake
+p241
+I9
+sVpeace
+p242
+I1
+sVlocka
+p243
+I1
+sVmix
+p244
+I1
+sVchest
+p245
+I1
+sVsquad
+p246
+I1
+sVkidney
+p247
+I1
+sVinstead
+p248
+I1
+sVtalkin
+p249
+I1
+sVdlow
+p250
+I1
+sVnice
+p251
+I1
+sVweek
+p252
+I1
+sVbitches
+p253
+I1
+sVscrub
+p254
+I1
+sVkeys
+p255
+I1
+sVtime
+p256
+I1
+sVhang
+p257
+I1
+sVthugs
+p258
+I1
+sVfucker
+p259
+I2
+sVweed
+p260
+I8
+sVnozzles
+p261
+I2
+sVfeds
+p262
+I1
+sVblood
+p263
+I1
+sVblocka
+p264
+I1
+sVwaves
+p265
+I1
+sVcourt
+p266
+I1
+sVfilthy
+p267
+I1
+sVinfamous
+p268
+I1
+sVgoin
+p269
+I1
+sVfuckin
+p270
+I2
+sVdrop
+p271
+I1
+sVparttime
+p272
+I1
+sVyoure
+p273
+I1
+sVbang
+p274
+I2
+sVhooahh
+p275
+I1
+sVmaintain
+p276
+I1
+sVblock
+p277
+I1
+sVmother
+p278
+I1
+sVpush
+p279
+I1
+sVtryin
+p280
+I2
+sVbricks
+p281
+I1
+sVmurda
+p282
+I1
+sVtha
+p283
+I1
+s.

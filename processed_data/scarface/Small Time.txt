@@ -1,86 +1,692 @@
-"small time" lyrics
-scarface lyrics
-"small time"
-(feat. ghetto twiinz)
-i started small time, dope game, cocaine
-pushin' rocks on the block, i'm never broke main
-sportin' jewelry and the shit they came wit rollin' hard
-you try to serve me you'll get served, wit no regard
-i gotta do what i gotta do in this game
-i started small time, dope game, cocaine
-i went from quarters to ounces to slangin' ki's bitch
-i went from rags to riches and i'm stackin' g's quick
-now the popo's wanna come and get a nigga
-i'm gonna knock 'em on they ass 'cuz my shit is bigga
-i got my block sewed up, got them rocks swole up
-keep my shit on cock in case they roll up
-niggas wanna stick me for my g's and ki's
-but believe i'm gone make dem bitches bleed indeed
-you can bring it bring it bring it but you can't stop this
-bulletproof in case you bitches try to pop this
-can't stop what i'm ishin' out
-i'm thugged out
-final real cormega shit, a drughouse
-get the razorblade and a test tube and a cocaine
-niggas swell in this dope game
-check me out
-i'm on a all night flight
-swingin' these others, got these cluckers all on me
-steady sweatin' me for credit, tryin' to act like they know me
-show me the money, it ain't funny
-want a twenty or a dime
-see i'm a hustla on the grind
-can't do nothin' for five
-get out my face
-this ain't the place
-to run game on me homie
-that five dollars that you shakin'
-can't change nothin' here homie
-i saw some misses 'bout the riches
-double cross me, swim wit the fishes
-i'm inchin' wit one-way tickets
-to them bitches who didn't get it, get it
-twist it, paper chasin'
-on this bacon i'm makin'
-all that plottin' and that fakin'
-got you dancin' wit satan
-see you hatin' on a playa
-way too major for bustas
-bring the ruckus muthafuckas
-if you think you can touch us
-get on the prime co's
-load the black rhinos, in the 5-4
-villain, killin' children barricadin' my millions
-while i'm small time dealin'
-i'm just smugglin' chickens
-get my g's in position
-i'm cookin' ki's in the kitchen
-small time
-i got a pocket full of stones
-where the fiends at
-got them big ol' boulders
-that's where the g's at
-can't fuck wit rattin' ass hoes
-a bitch don't need dat
-and for you jackin' ass niggas
-i'll have that heat yeah
-i'm takin' 'em down
-i'm beatin' that ass
-i'm puttin that thang all in dey face
-comin' for my g's, nigga please
-bitch it's steady straight
-makin' 'em, gettin' dividend
-got it hot yeah in-between
-if them popo's come and get me
-let me out, i'm doin' again
-we low, kilo, everythang i worked fo'
-have my girl workin' that corner
-don't come up in this short, hoe
-never seen, you know what i mean
-all about that crispy green
-have it sewed up from h-town back to new orleans
-murder murder if you play me short
-takin' heads clean off this bitch and bustin' hard
-fiends have my block on fire and have me workin' it
-and my boys on the corner out there twirkin' it
-they twirkin' it
+(dp1
+Vishin
+p2
+I1
+sVstones
+p3
+I1
+sVsweatin
+p4
+I1
+sVgs
+p5
+I5
+sVlyrics
+p6
+I2
+sVshow
+p7
+I1
+sVindeed
+p8
+I1
+sVrhinos
+p9
+I1
+sVhot
+p10
+I1
+sVquarters
+p11
+I1
+sVbring
+p12
+I4
+sVpaper
+p13
+I1
+sVounces
+p14
+I1
+sVtouch
+p15
+I1
+sVsmugglin
+p16
+I1
+sVfeat
+p17
+I1
+sVchildren
+p18
+I1
+sVaint
+p19
+I2
+sVorleans
+p20
+I1
+sVrattin
+p21
+I1
+sVkilo
+p22
+I1
+sVthang
+p23
+I1
+sVchasin
+p24
+I1
+sVdancin
+p25
+I1
+sVcuz
+p26
+I1
+sVsportin
+p27
+I1
+sVsatan
+p28
+I1
+sVmoney
+p29
+I1
+sVbout
+p30
+I1
+sVmain
+p31
+I1
+sVta
+p32
+I2
+sVreal
+p33
+I1
+sVme
+p34
+I3
+sVworkin
+p35
+I2
+sVget
+p36
+I9
+sVbig
+p37
+I1
+sVdope
+p38
+I3
+sVstop
+p39
+I2
+sVpocket
+p40
+I1
+sVgame
+p41
+I5
+sVfive
+p42
+I2
+sVknow
+p43
+I2
+sVthugged
+p44
+I1
+sVghetto
+p45
+I1
+sVtickets
+p46
+I1
+sVknock
+p47
+I1
+sVdouble
+p48
+I1
+sVlike
+p49
+I1
+sV54
+p50
+I1
+sVgettin
+p51
+I1
+sVmuthafuckas
+p52
+I1
+sVpopos
+p53
+I2
+sVrocks
+p54
+I2
+sVtry
+p55
+I2
+sVnight
+p56
+I1
+sVquick
+p57
+I1
+sVserved
+p58
+I1
+sVwent
+p59
+I2
+sVmean
+p60
+I1
+sVem
+p61
+I3
+sVnigga
+p62
+I2
+sVhard
+p63
+I2
+sVbacon
+p64
+I1
+sVboulders
+p65
+I1
+sVsee
+p66
+I2
+sVhoes
+p67
+I1
+sVgirl
+p68
+I1
+sVout
+p69
+I3
+sVgon
+p70
+I1
+sVbeatin
+p71
+I1
+sVjewelry
+p72
+I1
+sVtakin
+p73
+I2
+sVtube
+p74
+I1
+sVplease
+p75
+I1
+sVmisses
+p76
+I1
+sVplaya
+p77
+I1
+sVgot
+p78
+I9
+sVhustla
+p79
+I1
+sVyoull
+p80
+I1
+sVdoin
+p81
+I1
+sVass
+p82
+I4
+sVslangin
+p83
+I1
+sVfull
+p84
+I1
+sVrun
+p85
+I1
+sVeverythang
+p86
+I1
+sVnever
+p87
+I2
+sVsmall
+p88
+I6
+sVlet
+p89
+I1
+sVothers
+p90
+I1
+sVdividend
+p91
+I1
+sVcome
+p92
+I3
+sVbleed
+p93
+I1
+sVchange
+p94
+I1
+sVcookin
+p95
+I1
+sVcos
+p96
+I1
+sVol
+p97
+I1
+sVjackin
+p98
+I1
+sVdidnt
+p99
+I1
+sVdollars
+p100
+I1
+sVtwiinz
+p101
+I1
+sVvillain
+p102
+I1
+sVkeep
+p103
+I1
+sVcredit
+p104
+I1
+sVplace
+p105
+I1
+sVact
+p106
+I1
+sVswim
+p107
+I1
+sVmurder
+p108
+I2
+sVthink
+p109
+I1
+sVblock
+p110
+I3
+sVthats
+p111
+I1
+sVload
+p112
+I1
+sVmajor
+p113
+I1
+sVdont
+p114
+I2
+sVmakin
+p115
+I2
+sVpop
+p116
+I1
+sVdown
+p117
+I1
+sVwit
+p118
+I6
+sVswingin
+p119
+I1
+sVbitch
+p120
+I4
+sVcomin
+p121
+I1
+sVrazorblade
+p122
+I1
+sVcocaine
+p123
+I3
+sVcrispy
+p124
+I1
+sVmillions
+p125
+I1
+sVwan
+p126
+I2
+sVkillin
+p127
+I1
+sVheads
+p128
+I1
+sVcluckers
+p129
+I1
+sVtwenty
+p130
+I1
+sVprime
+p131
+I1
+sVagain
+p132
+I1
+sVlow
+p133
+I1
+sVway
+p134
+I1
+sVblack
+p135
+I1
+sVtryin
+p136
+I1
+sVfinal
+p137
+I1
+sVback
+p138
+I1
+sVdrughouse
+p139
+I1
+sVflight
+p140
+I1
+sVcormega
+p141
+I1
+sVstarted
+p142
+I2
+sVbitches
+p143
+I3
+sVserve
+p144
+I1
+sVkitchen
+p145
+I1
+sVfuck
+p146
+I1
+sVboys
+p147
+I1
+sVheat
+p148
+I1
+sVcorner
+p149
+I2
+sVstick
+p150
+I1
+sVbroke
+p151
+I1
+sVhatin
+p152
+I1
+sVworked
+p153
+I1
+sVbelieve
+p154
+I1
+sVcase
+p155
+I2
+sVdey
+p156
+I1
+sVfiends
+p157
+I2
+sVdealin
+p158
+I1
+sVniggas
+p159
+I3
+sVthis
+p160
+I2
+sVswole
+p161
+I1
+sVstraight
+p162
+I1
+sVriches
+p163
+I2
+sVup
+p164
+I2
+sVus
+p165
+I1
+sVrags
+p166
+I1
+sVdem
+p167
+I1
+sVfakin
+p168
+I1
+sVbarricadin
+p169
+I1
+sVim
+p170
+I17
+sVinchin
+p171
+I1
+sVcock
+p172
+I1
+sVill
+p173
+I1
+sVpushin
+p174
+I1
+sVgone
+p175
+I1
+sVchickens
+p176
+I1
+sVstackin
+p177
+I1
+sVruckus
+p178
+I1
+sVit
+p179
+I4
+sVbigga
+p180
+I1
+sVtwist
+p181
+I1
+sVcant
+p182
+I5
+sVhomie
+p183
+I2
+sVscarface
+p184
+I1
+sVnothin
+p185
+I2
+sVwant
+p186
+I1
+sVneed
+p187
+I1
+sVseen
+p188
+I1
+sVface
+p189
+I2
+sVsaw
+p190
+I1
+sVcheck
+p191
+I1
+sVshit
+p192
+I4
+sVfunny
+p193
+I1
+sVhoe
+p194
+I1
+sVna
+p195
+I3
+sVmake
+p196
+I1
+sVcross
+p197
+I1
+sVfire
+p198
+I1
+sVshakin
+p199
+I1
+sVtest
+p200
+I1
+sVnew
+p201
+I1
+sVputtin
+p202
+I1
+sVtwirkin
+p203
+I2
+sVroll
+p204
+I1
+sVplottin
+p205
+I1
+sVplay
+p206
+I1
+sVregard
+p207
+I1
+sVdime
+p208
+I1
+sVkis
+p209
+I3
+sVswell
+p210
+I1
+sVoneway
+p211
+I1
+sVhtown
+p212
+I1
+sVbulletproof
+p213
+I1
+sVinbetween
+p214
+I1
+sVfishes
+p215
+I1
+sVfo
+p216
+I1
+sVyeah
+p217
+I2
+sVdat
+p218
+I1
+sVshort
+p219
+I2
+sVsewed
+p220
+I2
+sVbustas
+p221
+I1
+sVsteady
+p222
+I2
+sVbustin
+p223
+I1
+sVrollin
+p224
+I1
+sVgrind
+p225
+I1
+sVgreen
+p226
+I1
+sVclean
+p227
+I1
+sVtime
+p228
+I6
+sVat
+p229
+I2
+sVposition
+p230
+I1
+sVcame
+p231
+I1
+s.

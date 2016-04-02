@@ -1,84 +1,665 @@
-"i left it wet for you" lyrics
-ugk lyrics
-"i left it wet for you"
-yeah, yeah....ah yeah
-heh heh, my man, my nigga d
-i left it wet for ya
-my baby mama brother came and told me some shit
-about a nigga talking about pimp c ya wig'll get split
-i laughed then i dashed cause i'm fucking your chick
-she told me all she wanna do is ride my dick
-she kick it with the nigga cause he give her the stacks
-but every fucking night i try to break her fucking back
-and now a nigga say that he wanna fight
-but if you fucking around i'll put that fire in his life
-man keep fucking it raw
-and if he's trip then it's on
-never let a nigga say you a broad prove him wrong
-fool, i'm fucking this nigga girl now and he know it
-got a pistol but wont blow it, talking shit but wont show it
-yo it ain't nothing going on but nuts on they tricks
-they never faking licks, sucking dick while i'm taking shits
-i do a bitch bad and treat a nigga worse than that
-and make sure you show him that fat gat you left wet for him fool
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya nigga ( i left it wet )
-i left it wet for ya nigga ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya nigga ( i left it wet )
-i went to my nigga got that liquor dark
-my nigga 3-2 came down with the water
-a dip, dip, nigga trip, trip ya fried
-i took my fucking pistol and shot a dopey in his eye
-i ain't got no love for you fucking hos
-i'm hot from smoking click, gotcha drippin on my fucking clothes
-i got that fire bumpin in my brain
-i'm thinking to myself, i need to go to selling caine
-and all the time i'm bumpin w.c.
-cause it seem like he the only nigga making sense to me
-and the shit ain't really the same
-it's moving too fast, i just switched all of my aim
-i'm rollin' in a raggedy ride, thinking about suicide
-puffing the green outside, nigga
-and all the time i'm fried
-i left it wet for ya nigga
-i left it wet for ya nigga ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya nigga ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya nigga ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i never loved a punk ass, sorry son of a bitch
-which is why i can't lie about the hate i said it straight
-and never switched up my opinion, if you ain't down, you ain't down
-that's that, just go get your gat little bitch
-holla back when your pistol pack
-i promise anybody trying to be a bold bastard
-getting fried like that dip, i'm full of that dank and ready to trip
-it's been a lot of niggaz swearing that they hard
-like i care and i be sharing slugs with some of them studs
-and some of their barin, darin
-hoes and half playas, and hit the blunt and give it away
-and see which one these niggaz wont be living today
-hey what's up? got me a cup of that irk and jerk
-putting in work until i'm blown and never the 5-4 bitch
-cause i'm too cold, i expose like a bomb dropping them daily
-so don't say we never told ya, how a trill nigga fold ya
-texas trilla o big baby, maybe you didn't know i gets my blast on
-and let loose some of this stress, leaving blood all over your chest
-yes, i left it wet for ya fool
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-i left it wet for ya fool ( i left it wet )
-what a nigga trying to say is
-shiit, niggaz be straight up fucking your gal fool
-and what you gonna do then? what you gonna cry?
-step up, get you a pistol
-know what i'm sayin? busta ass nigga
-keep my name out your mouth boy, i ain't fucking wit ya
-it's the '94
+(dp1
+Vugk
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I2
+sVhalf
+p6
+I1
+sVbrain
+p7
+I1
+sVdopey
+p8
+I1
+sVgo
+p9
+I2
+sVwhats
+p10
+I1
+sVcold
+p11
+I1
+sVhate
+p12
+I1
+sVblow
+p13
+I1
+sVlicks
+p14
+I1
+sVshiit
+p15
+I1
+sVsayin
+p16
+I1
+sVcup
+p17
+I1
+sVthinking
+p18
+I2
+sVdick
+p19
+I2
+sVchest
+p20
+I1
+sVgoing
+p21
+I1
+sVwet
+p22
+I44
+sVsorry
+p23
+I1
+sVkick
+p24
+I1
+sVhos
+p25
+I1
+sVfool
+p26
+I17
+sVhit
+p27
+I1
+sVsucking
+p28
+I1
+sVyo
+p29
+I1
+sVget
+p30
+I3
+sVya
+p31
+I27
+sVbig
+p32
+I1
+sVfat
+p33
+I1
+sVbreak
+p34
+I1
+sVevery
+p35
+I1
+sVknow
+p36
+I3
+sVcaine
+p37
+I1
+sVone
+p38
+I1
+sVlike
+p39
+I4
+sVwont
+p40
+I3
+sVsuicide
+p41
+I1
+sVswitched
+p42
+I2
+sVd
+I1
+sVpimp
+p43
+I1
+sVblunt
+p44
+I1
+sVcry
+p45
+I1
+sVbrother
+p46
+I1
+sVjerk
+p47
+I1
+sVtry
+p48
+I1
+sVbad
+p49
+I1
+sVnight
+p50
+I1
+sVchick
+p51
+I1
+sVwent
+p52
+I1
+sVbarin
+p53
+I1
+sVdip
+p54
+I3
+sVstraight
+p55
+I2
+sVclothes
+p56
+I1
+sVnigga
+p57
+I22
+sVfucking
+p58
+I11
+sVliquor
+p59
+I1
+sVhard
+p60
+I1
+sVyeah
+p61
+I2
+sVfold
+p62
+I1
+sVsee
+p63
+I1
+sVhoes
+p64
+I1
+sVgirl
+p65
+I1
+sVclick
+p66
+I1
+sVbomb
+p67
+I1
+sVreally
+p68
+I1
+sVliving
+p69
+I1
+sVsaid
+p70
+I1
+sVbroad
+p71
+I1
+sVaway
+p72
+I1
+sVboy
+p73
+I1
+sVplayas
+p74
+I1
+sVoutside
+p75
+I1
+sVirk
+p76
+I1
+sVgot
+p77
+I5
+sVpistol
+p78
+I4
+sVcause
+p79
+I4
+sVslugs
+p80
+I1
+sVtold
+p81
+I3
+sVass
+p82
+I2
+sVaint
+p83
+I6
+sVfull
+p84
+I1
+sVwc
+p85
+I1
+sVbold
+p86
+I1
+sVnever
+p87
+I6
+sVwater
+p88
+I1
+sVstep
+p89
+I1
+sVworse
+p90
+I1
+sVlet
+p91
+I2
+sVput
+p92
+I1
+sVyes
+p93
+I1
+sVcare
+p94
+I1
+sVstuds
+p95
+I1
+sVon
+p96
+I2
+sVc
+I1
+sVgetting
+p97
+I1
+sV32
+p98
+I1
+sVill
+p99
+I1
+sVprove
+p100
+I1
+sVpunk
+p101
+I1
+sVo
+I1
+sVkeep
+p102
+I2
+sVopinion
+p103
+I1
+sVmouth
+p104
+I1
+sVthats
+p105
+I1
+sVswearing
+p106
+I1
+sVlove
+p107
+I1
+sVdont
+p108
+I1
+sVblown
+p109
+I1
+sVson
+p110
+I1
+sVdown
+p111
+I1
+sVwit
+p112
+I1
+sVpromise
+p113
+I1
+sVbitch
+p114
+I4
+sV54
+p115
+I1
+sVraggedy
+p116
+I1
+sVwan
+p117
+I2
+sVlittle
+p118
+I1
+sVeye
+p119
+I1
+sVhes
+p120
+I1
+sVhey
+p121
+I1
+sVfast
+p122
+I1
+sVfight
+p123
+I1
+sVdropping
+p124
+I1
+sVtreat
+p125
+I1
+sVlot
+p126
+I1
+sVmama
+p127
+I1
+sVheh
+p128
+I2
+sVtoday
+p129
+I1
+sVlife
+p130
+I1
+sVselling
+p131
+I1
+sVname
+p132
+I1
+sVthat
+p133
+I1
+sVfire
+p134
+I2
+sVgotcha
+p135
+I1
+sVgat
+p136
+I2
+sVtook
+p137
+I1
+sVback
+p138
+I2
+sVshits
+p139
+I1
+sVgal
+p140
+I1
+sVloose
+p141
+I1
+sVbaby
+p142
+I2
+sVsmoking
+p143
+I1
+sVtrying
+p144
+I2
+sV94
+p145
+I1
+sVme
+p146
+I1
+sVloved
+p147
+I1
+sVbusta
+p148
+I1
+sVraw
+p149
+I1
+sVride
+p150
+I2
+sVwork
+p151
+I1
+sVcant
+p152
+I1
+sVniggaz
+p153
+I3
+sVaim
+p154
+I1
+sVdrippin
+p155
+I1
+sVdank
+p156
+I1
+sVtexas
+p157
+I1
+sVdarin
+p158
+I1
+sVfaking
+p159
+I1
+sVmaking
+p160
+I1
+sVfried
+p161
+I3
+sVdidnt
+p162
+I1
+sVtaking
+p163
+I1
+sVpack
+p164
+I1
+sVready
+p165
+I1
+sVgive
+p166
+I2
+sVis
+p167
+I1
+sVit
+p168
+I2
+sVtalking
+p169
+I2
+sVsay
+p170
+I4
+sVsharing
+p171
+I1
+sVim
+p172
+I12
+sVdaily
+p173
+I1
+sVsense
+p174
+I1
+sVneed
+p175
+I1
+sVseem
+p176
+I1
+sVleaving
+p177
+I1
+sVtrip
+p178
+I4
+sVshit
+p179
+I3
+sVaround
+p180
+I1
+sVlie
+p181
+I1
+sVbastard
+p182
+I1
+sVwigll
+p183
+I1
+sVtrill
+p184
+I1
+sVdashed
+p185
+I1
+sVmake
+p186
+I1
+sVnuts
+p187
+I1
+sVsame
+p188
+I1
+sVhot
+p189
+I1
+sVsplit
+p190
+I1
+sVlaughed
+p191
+I1
+sVyou
+p192
+I1
+sVgets
+p193
+I1
+sVpuffing
+p194
+I1
+sVexpose
+p195
+I1
+sVyeahah
+p196
+I1
+sVsure
+p197
+I1
+sVholla
+p198
+I1
+sVtime
+p199
+I2
+sVtrilla
+p200
+I1
+sVbumpin
+p201
+I2
+sVwrong
+p202
+I1
+sVgon
+p203
+I2
+sVmoving
+p204
+I1
+sVblood
+p205
+I1
+sVnothing
+p206
+I1
+sVman
+p207
+I2
+sVdark
+p208
+I1
+sVstress
+p209
+I1
+sVmaybe
+p210
+I1
+sVtricks
+p211
+I1
+sVanybody
+p212
+I1
+sVrollin
+p213
+I1
+sVblast
+p214
+I1
+sVgreen
+p215
+I1
+sVna
+p216
+I4
+sVputting
+p217
+I1
+sVstacks
+p218
+I1
+sVcame
+p219
+I2
+sVleft
+p220
+I44
+s.

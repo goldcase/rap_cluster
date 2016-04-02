@@ -1,93 +1,772 @@
-"maxine" lyrics
-eminem lyrics
-"maxine"
-(feat. danaun porter and 3)
-maxine!! (phone rings)
-hello
-can i speak to maxine?
-yeah this is me what's up?
-what up?
-who dis?
-denaun
-yeah what's up?
-what are you doing?
-nothing, just laying in bed
-huh?
-nothing, just laying in bed
-why?
-i don't know, thinking about something freaky to do
-i know this crack fiend maxine who needs a vaccine
-she tests positive but tells you that her act's clean
-plus she got a sugar daddy
-asking every hooker that he takes in to crook her badly
-if you mistook her sadly, on her reputation
-you're in jepordation, if you ain't got no preparation
-when you step away son, she got her face done
-looking provocative, she'll let you knock it if
-you press the issue and get undressed to kiss you
-if you match the price, otherwise she won't look at you twice
-but when you catch the lice, or get the urgency
-to go to the emergency cause it burns to pee
-don't bring your germs to me, cause i ain't trying to hear it
-while your fighting you fucking disease trying to clear it (maxine!!)
-sometimes i wonder, what's your purpose? in life that is
-to get with every brother and unveil one of his kids, shit
-you living trife, got three kids at home and club hopping every night
-you say it's gonna stop but it.. just.. slows.. down
-and then speeds back to a regular pace, there is no end to this
-mystery, whatever your reason even is to be
-you say you wanna be with me, but how can you say that
-when you got niggas hiding in your closet
-i refrain from getting angry but you keep on that strangely
-i met this girl last week, she was a freak, and she liked me
-so i stepped on it and then asked my homies
-and chilled on the side and then watched they niggas
-big game over there and take notes, while i get this number
-i stepped to her first i cleared my throat and said "hey bitch..
-haven't i seen you before?", looked at my nigga
-turned around and got slapped throughout my hands
-and said "oh it's like that?"
-she said she just broke up with her nigga and shit
-she started crying, and asked me to forgive her and shit
-she said her name was maxine, so i told her i wanted her number
-she asked could i give her mine two
-got to the crib and called her up
-we got into a good conversation that's when she asked me could i fuck
-i said "maxine check this out,
-give me your address i'll be through and you'll find out"
-got to the crib she let me in
-she didn't waste time she grabbed my hand and proceeded to the bedroom
-i said "hold up, and stop proceeding, you rushing things"
-what the fuck are you doing?
-so i went for my protection, took off my clothes and started flexing
-as she went for my midsection
-i threw her down as i tore off her shirt
-pulled out my jimmy and i thought about putting in work
-before i hit it she said
-"3 don't get mad but there's something that i gotta tell your ass"
-i said "what is it, another nigga? it's ok"
-she said "no i forgot to tell you, that i got aids"
-i got up out
-hey, maxine
-what
-you thinking about sucking my dick?
-yeah for a small price
-for a small price? what you mean?
-you know, money nigga
-you don't need no damn money,
-i can't give you no money anyways, i heard you got some shit.
-(laughing) what you, what you hear i got?
-aids
-(laughing) who told you that bullshit?
-my nigga kyu, he wouldn't lie
-well if that's the case, kyu got it then
-oh for real, it's like that?
-(laughing) well i ain't got shit,
-so he ain't got shit, and if he do, he ain't get that shit from me,
-i ain't fucking around with no 3rd nigga
-fuck that, i ain't fucking with you
-no, see..
-you got that shit, i ain't gotta fuck with you
-hold on, why it ain't even like that
-i want ya'll to get paid, fucking..
-(laughing as the phone hangs up)
+(dp1
+Vthings
+p2
+I1
+sVmaxine
+p3
+I9
+sVlyrics
+p4
+I2
+sVmistook
+p5
+I1
+sVaids
+p6
+I2
+sVmoney
+p7
+I3
+sVhands
+p8
+I1
+sVtrife
+p9
+I1
+sVbring
+p10
+I1
+sVjimmy
+p11
+I1
+sVbedroom
+p12
+I1
+sVgo
+p13
+I1
+sVfeat
+p14
+I1
+sVfind
+p15
+I1
+sVaint
+p16
+I9
+sVone
+p17
+I1
+sVgrabbed
+p18
+I1
+sVthinking
+p19
+I2
+sVdick
+p20
+I1
+sVsugar
+p21
+I1
+sVcrying
+p22
+I1
+sVcrack
+p23
+I1
+sVmatch
+p24
+I1
+sVta
+p25
+I2
+sVreal
+p26
+I1
+sVdo
+p27
+I1
+sVtests
+p28
+I1
+sVslows
+p29
+I1
+sVhit
+p30
+I1
+sVaround
+p31
+I2
+sVemergency
+p32
+I1
+sVget
+p33
+I7
+sVbig
+p34
+I1
+sVstop
+p35
+I2
+sVunveil
+p36
+I1
+sVheard
+p37
+I1
+sVgame
+p38
+I1
+sVevery
+p39
+I3
+sVknow
+p40
+I3
+sVkiss
+p41
+I1
+sVpee
+p42
+I1
+sVpress
+p43
+I1
+sVburns
+p44
+I1
+sVundressed
+p45
+I1
+sVstepped
+p46
+I2
+sVname
+p47
+I1
+sVwont
+p48
+I1
+sVknock
+p49
+I1
+sVlike
+p50
+I3
+sVill
+p51
+I1
+sVcause
+p52
+I2
+sVnotes
+p53
+I1
+sVlaying
+p54
+I2
+sVbrother
+p55
+I1
+sVtwice
+p56
+I1
+sVlaughing
+p57
+I4
+sVnight
+p58
+I1
+sVsmall
+p59
+I2
+sVhavent
+p60
+I1
+sVside
+p61
+I1
+sVtwo
+p62
+I1
+sVdis
+p63
+I1
+sVnigga
+p64
+I6
+sVdenaun
+p65
+I1
+sVdoing
+p66
+I2
+sVyeah
+p67
+I3
+sVcrook
+p68
+I1
+sVsee
+p69
+I1
+sVanyways
+p70
+I1
+sVforgot
+p71
+I1
+sVcant
+p72
+I1
+sVhome
+p73
+I1
+sVgirl
+p74
+I1
+sVwonder
+p75
+I1
+sVeven
+p76
+I2
+sVliving
+p77
+I1
+sVwhat
+p78
+I1
+sVgon
+p79
+I1
+sVproceeding
+p80
+I1
+sVcloset
+p81
+I1
+sVmine
+p82
+I1
+sVaway
+p83
+I1
+sVrings
+p84
+I1
+sVmidsection
+p85
+I1
+sVslapped
+p86
+I1
+sVthats
+p87
+I2
+sVlooking
+p88
+I1
+sVcase
+p89
+I1
+sV3
+I2
+sVasking
+p90
+I1
+sVthen
+p91
+I1
+sVgot
+p92
+I19
+sVhooker
+p93
+I1
+sVfreaky
+p94
+I1
+sVporter
+p95
+I1
+sVtold
+p96
+I2
+sVass
+p97
+I1
+sVbe
+p98
+I1
+sVproceeded
+p99
+I1
+sVforgive
+p100
+I1
+sVeminem
+p101
+I1
+sVmet
+p102
+I1
+sVstep
+p103
+I1
+sVprotection
+p104
+I1
+sVlet
+p105
+I2
+sVaddress
+p106
+I1
+sVfuck
+p107
+I4
+sVgerms
+p108
+I1
+sVwanted
+p109
+I1
+sVwent
+p110
+I2
+sVvaccine
+p111
+I1
+sVhiding
+p112
+I1
+sVkids
+p113
+I2
+sVlast
+p114
+I1
+sVwouldnt
+p115
+I1
+sVgetting
+p116
+I1
+sVcould
+p117
+I2
+sVreason
+p118
+I1
+sVkeep
+p119
+I1
+sVconversation
+p120
+I1
+sVyoull
+p121
+I1
+sVplus
+p122
+I1
+sVyall
+p123
+I1
+sVdanaun
+p124
+I1
+sVclothes
+p125
+I1
+sVasked
+p126
+I4
+sVspeeds
+p127
+I1
+sVotherwise
+p128
+I1
+sVliked
+p129
+I1
+sVhold
+p130
+I2
+sVwhats
+p131
+I3
+sVdont
+p132
+I4
+sVhomies
+p133
+I1
+sVnumber
+p134
+I2
+sVwhatever
+p135
+I1
+sVson
+p136
+I1
+sVdown
+p137
+I1
+sVdone
+p138
+I1
+sVbitch
+p139
+I1
+sVanother
+p140
+I1
+sVthroughout
+p141
+I1
+sVspeak
+p142
+I1
+sVstrangely
+p143
+I1
+sVwan
+p144
+I1
+sVsadly
+p145
+I1
+sVtakes
+p146
+I1
+sVpositive
+p147
+I1
+sVangry
+p148
+I1
+sVthree
+p149
+I1
+sVhangs
+p150
+I1
+sVfucking
+p151
+I4
+sVdamn
+p152
+I1
+sVmean
+p153
+I1
+sVwaste
+p154
+I1
+sVtell
+p155
+I2
+sVbullshit
+p156
+I1
+sVthrew
+p157
+I1
+sVback
+p158
+I1
+sVlife
+p159
+I1
+sVshell
+p160
+I1
+sVsaid
+p161
+I9
+sVthat
+p162
+I4
+sVclub
+p163
+I1
+sVmad
+p164
+I1
+sVfiend
+p165
+I1
+sVhuh
+p166
+I1
+sVtook
+p167
+I1
+sVrefrain
+p168
+I1
+sVit
+p169
+I1
+sVphone
+p170
+I2
+sVhear
+p171
+I2
+sVbroke
+p172
+I1
+sVcatch
+p173
+I1
+sVok
+p174
+I1
+sVtrying
+p175
+I2
+sVcrib
+p176
+I2
+sVme
+p177
+I1
+sVlook
+p178
+I1
+sVniggas
+p179
+I2
+sVjepordation
+p180
+I1
+sVoh
+p181
+I2
+sVup
+p182
+I5
+sVbed
+p183
+I2
+sVpreparation
+p184
+I1
+sVpace
+p185
+I1
+sVdaddy
+p186
+I1
+sVdidnt
+p187
+I1
+sVcalled
+p188
+I1
+sVtheres
+p189
+I1
+sVsometimes
+p190
+I1
+sVfreak
+p191
+I1
+sVprovocative
+p192
+I1
+sVgive
+p193
+I3
+sVis
+p194
+I1
+sVin
+p195
+I1
+sVturned
+p196
+I1
+sVlice
+p197
+I1
+sVneed
+p198
+I1
+sVsay
+p199
+I3
+sVgood
+p200
+I1
+sVsomething
+p201
+I2
+sVwant
+p202
+I1
+sVseen
+p203
+I1
+sVthroat
+p204
+I1
+sVwatched
+p205
+I1
+sVwork
+p206
+I1
+sVrushing
+p207
+I1
+sVtells
+p208
+I1
+sVshit
+p209
+I8
+sVif
+p210
+I1
+sVthought
+p211
+I1
+sVneeds
+p212
+I1
+sVissue
+p213
+I1
+sVend
+p214
+I1
+sVshirt
+p215
+I1
+sVna
+p216
+I2
+sVacts
+p217
+I1
+sVsucking
+p218
+I1
+sVcheck
+p219
+I1
+sVstarted
+p220
+I2
+sVtake
+p221
+I1
+sVtore
+p222
+I1
+sVyou
+p223
+I3
+sVout
+p224
+I2
+sVweek
+p225
+I1
+sVbadly
+p226
+I1
+sVhey
+p227
+I2
+sVlie
+p228
+I1
+sVprice
+p229
+I3
+sVpaid
+p230
+I1
+sVhand
+p231
+I1
+sVregular
+p232
+I1
+sVpurpose
+p233
+I1
+sVkyu
+p234
+I2
+sVnothing
+p235
+I2
+sVmystery
+p236
+I1
+sVcleared
+p237
+I1
+sVwhy
+p238
+I1
+sVchilled
+p239
+I1
+sV3rd
+p240
+I1
+sVhopping
+p241
+I1
+sVclear
+p242
+I1
+sVyoure
+p243
+I1
+sVwell
+p244
+I2
+sVdisease
+p245
+I1
+sVfighting
+p246
+I1
+sVface
+p247
+I1
+sVlooked
+p248
+I1
+sVreputation
+p249
+I1
+sVflexing
+p250
+I1
+sVclean
+p251
+I1
+sVtime
+p252
+I1
+sVputting
+p253
+I1
+sVfirst
+p254
+I1
+sVpulled
+p255
+I1
+sVhello
+p256
+I1
+sVurgency
+p257
+I1
+s.

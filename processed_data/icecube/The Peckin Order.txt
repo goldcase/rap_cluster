@@ -1,59 +1,545 @@
-"the peckin' order" lyrics
-ice cube lyrics
-"the peckin' order"
-(feat. mack 10)
-"in the deep and dark bowels of the underworld,
-order must be maintained.
-without a strict and unforgiving chain of command,
-chaos is inevitable."
-whassup youngsta?
-since you the new booty, and don't know nothin,
-i got to show you bout the peckin order
-it's the order in how we do things and move things
-see, somebody gon' tell you what to do
-after i tell that motherfucker what to do
-it's the peckin order
-it's the peckin order
-we got the power to make you niggaz sour
-big fish whale like ichikowa, steppin out the shower
-it's the peckin order, ask ya daugther how we peck
-inspect, high class ass to projects
-push my lex through the california rain, gutter lane
-infamous schemes on the brain
-for my connect gang, put a strain on every link
-in our chain, that's right - we all get arraigned
-takin sworn notes to makin c-notes
-knowin all the while that bullshit floats and niggaz don't
-so nigga don't -  gangsta paradise ain't nuttin nice
-yeah we livin so trife we need je-sus in our life
-it's the peckin order
-it's the order how we do things
-and move things, only fuck with the true things
-havin heavy intercourse with the world of depression
-messin with the wrong bitches never learn our lesson
-stressin, no guessin, never question
-even when we playin, we testin, confession
-do you still wanna meet where the killers eat?
-held accountable for anythang you repeat
-it's the peckin order, ask your daughter how we peck
-when we smoke you, it's your best friend you suspect
-now c'mon, come on potnah, c'mon (it's the peckin order)
-fuck that, i don't wanna hear none of that shit man
-all that cryin and beggin and shit
-to be honest wit you that shit really don't even
-affect me in no kind of way potnah
-you wastin your muthafuckin time (it's the peckin order)
-let's get this shit goin, let's get it over with
-c'mon back here, back here
-i can't make no motherfuckin mess right here
-check this out homie, make it easy on yourself
-i know you want a motherfuckin open casket
-where your peoples can see you and kiss on you
-but you gon' piss me off
-and i'ma blow noodles out your motherfuckin head
-and ain't none of that happenin after that
-so, c'mon back here, c'mon, right - c'mon, ay
-but you know, one more thing before i do this
-it's the peckin order
-it's the peckin order
-it's the peckin order
+(dp1
+Vchain
+p2
+I2
+sVshow
+p3
+I1
+sVmove
+p4
+I2
+sVtrife
+p5
+I1
+sVbrain
+p6
+I1
+sVgang
+p7
+I1
+sVaffect
+p8
+I1
+sVstill
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I2
+sVunforgiving
+p12
+I1
+sVlyrics
+p13
+I2
+sVwith
+p14
+I1
+sVhappenin
+p15
+I1
+sVeat
+p16
+I1
+sVhavin
+p17
+I1
+sVlets
+p18
+I2
+sVeasy
+p19
+I1
+sVichikowa
+p20
+I1
+sVbout
+p21
+I1
+sVtestin
+p22
+I1
+sVdo
+p23
+I2
+sVcube
+p24
+I1
+sVsomebody
+p25
+I1
+sVlivin
+p26
+I1
+sVget
+p27
+I3
+sVya
+p28
+I1
+sVbig
+p29
+I1
+sVkind
+p30
+I1
+sVdark
+p31
+I1
+sVay
+p32
+I1
+sVkillers
+p33
+I1
+sVevery
+p34
+I1
+sVknow
+p35
+I3
+sVkiss
+p36
+I1
+sVnew
+p37
+I1
+sVcryin
+p38
+I1
+sVworld
+p39
+I1
+sVmessin
+p40
+I1
+sVbullshit
+p41
+I1
+sVprojects
+p42
+I1
+sVbeggin
+p43
+I1
+sVlike
+p44
+I1
+sVheld
+p45
+I1
+sVnotes
+p46
+I1
+sVwit
+p47
+I1
+sVpeckin
+p48
+I13
+sVwastin
+p49
+I1
+sVheavy
+p50
+I1
+sVschemes
+p51
+I1
+sVbooty
+p52
+I1
+sVfish
+p53
+I1
+sVyeah
+p54
+I1
+sVsee
+p55
+I2
+sVsteppin
+p56
+I1
+sVconnect
+p57
+I1
+sVyoungsta
+p58
+I1
+sVplayin
+p59
+I1
+sVnoodles
+p60
+I1
+sVdepression
+p61
+I1
+sVreally
+p62
+I1
+sVeven
+p63
+I2
+sVgon
+p64
+I2
+sVnigga
+p65
+I1
+sVintercourse
+p66
+I1
+sVtakin
+p67
+I1
+sVsince
+p68
+I1
+sVchaos
+p69
+I1
+sVice
+p70
+I1
+sVarraigned
+p71
+I1
+sVsuspect
+p72
+I1
+sVparadise
+p73
+I1
+sVwhassup
+p74
+I1
+sVgot
+p75
+I2
+sVpiss
+p76
+I1
+sVass
+p77
+I1
+sVima
+p78
+I1
+sVnever
+p79
+I2
+sVpower
+p80
+I1
+sVinspect
+p81
+I1
+sVmotherfucker
+p82
+I1
+sVhere
+p83
+I2
+sVcalifornia
+p84
+I1
+sVask
+p85
+I2
+sVcome
+p86
+I1
+sVinevitable
+p87
+I1
+sVfloats
+p88
+I1
+sVdaughter
+p89
+I1
+sVknowin
+p90
+I1
+sVmotherfuckin
+p91
+I3
+sVput
+p92
+I1
+sVhonest
+p93
+I1
+sVthing
+p94
+I1
+sVsmoke
+p95
+I1
+sVhead
+p96
+I1
+sVthats
+p97
+I1
+sVdont
+p98
+I5
+sVconfession
+p99
+I1
+sVmakin
+p100
+I1
+sVjesus
+p101
+I1
+sVlex
+p102
+I1
+sVmaintained
+p103
+I1
+sVright
+p104
+I3
+sVnuttin
+p105
+I1
+sVlesson
+p106
+I1
+sVopen
+p107
+I1
+sVyourself
+p108
+I1
+sVwan
+p109
+I2
+sVcasket
+p110
+I1
+sVunderworld
+p111
+I1
+sVquestion
+p112
+I1
+sVstrict
+p113
+I1
+sVway
+p114
+I1
+sVblow
+p115
+I1
+sVgoin
+p116
+I1
+sVtell
+p117
+I2
+sVfriend
+p118
+I1
+sVlife
+p119
+I1
+sVthat
+p120
+I1
+sVbitches
+p121
+I1
+sVback
+p122
+I3
+sVlink
+p123
+I1
+sVpeck
+p124
+I2
+sVtrue
+p125
+I1
+sVgangsta
+p126
+I1
+sVanythang
+p127
+I1
+sVmust
+p128
+I1
+sV10
+p129
+I1
+sVnone
+p130
+I2
+sVniggaz
+p131
+I2
+sVshower
+p132
+I1
+sVsour
+p133
+I1
+sVcnotes
+p134
+I1
+sVlearn
+p135
+I1
+sVmeet
+p136
+I1
+sVguessin
+p137
+I1
+sVcmon
+p138
+I6
+sVone
+p139
+I1
+sVfuck
+p140
+I2
+sVdeep
+p141
+I1
+sVhigh
+p142
+I1
+sVstrain
+p143
+I1
+sVcant
+p144
+I1
+sVhomie
+p145
+I1
+sVwant
+p146
+I1
+sVneed
+p147
+I1
+sVcheck
+p148
+I1
+sVshit
+p149
+I4
+sVthings
+p150
+I5
+sVmake
+p151
+I3
+sVmuthafuckin
+p152
+I1
+sVbest
+p153
+I1
+sVpeoples
+p154
+I1
+sVyou
+p155
+I1
+sVsworn
+p156
+I1
+sVnice
+p157
+I1
+sVrepeat
+p158
+I1
+sVmess
+p159
+I1
+sVtime
+p160
+I1
+sVdaugther
+p161
+I1
+sVrain
+p162
+I1
+sVwrong
+p163
+I1
+sVpotnah
+p164
+I2
+sVbowels
+p165
+I1
+sVwhale
+p166
+I1
+sVmack
+p167
+I1
+sVclass
+p168
+I1
+sVinfamous
+p169
+I1
+sVman
+p170
+I1
+sVlane
+p171
+I1
+sVgutter
+p172
+I1
+sVoff
+p173
+I1
+sVstressin
+p174
+I1
+sVnothin
+p175
+I1
+sVaccountable
+p176
+I1
+sVwithout
+p177
+I1
+sVcommand
+p178
+I1
+sVna
+p179
+I2
+sVpush
+p180
+I1
+sVhear
+p181
+I1
+sVorder
+p182
+I16
+s.

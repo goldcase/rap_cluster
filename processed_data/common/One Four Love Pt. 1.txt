@@ -1,124 +1,1005 @@
-"one four love pt. 1" lyrics
-common lyrics
-"one four love pt. 1"
-(feat. kool g. rap, mos def, pharoahe monch)
-yo you sent out the signal right?
-and this is what happened
-the voice of hip hop got heard
-never comprimised this is how we put it down c'mon
-throughout my thuglife i've seen the ???
-like ??? fight over the role of dice
-flashing whole lights when killas on a hiest
-so contight, get poltergiest over the bowl of christ
-who pulled the slice from cats aiming gats who showed the hiest
-told you right she be the one that come and hold your mic
-then aim it at the whole vice squad just like ???
-rollin like every prototype was dolomight
-one man recall his ice inside his gun hand he holds for life
-this for the ones with holes in they graves
-waitin for they piece when the law misbehave
-i say we off ??? watch 'em walk the beat
-like you can't cross streets make them all retreat
-(now) judges and the jury be a little to appointed
-making us defendants when we supossed to be the plantiffs
-laugh now cause soon the thrill stops
-heads get it on and start to kill cops
-i'm sober but the pull me over
-what i do yo? (what we do yo?)
-poe-poe go i'm drivin to slow (cool yo)
-i torin' them explorin them (damn)
-for them that's why i'm ignoring them (uh-oh)
-bring like king skip
-before they bring this to some rodeny king shit
-forget them fools
-now make no sudden moves
-they reachin for they tools (let's move)
-you buggin dude
-kirk you ran the stop, word them pigs frontin
-yo tell like you tell 'em cousin we ain't did nothin
-all they see is three blacks in a jeep with seats back
-lookin for ??? packs how the blood dog can eat that
-they thirstin for a reason to blast you can't beat that
-gats and a badge to match you can beat that so bounce 'em
-my people unite and let's all get down
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-do it right ya'll, keep it tight ya'll, do it right ya'll, just do it
-blood on they hands, blood on my mans
-destroying the fam
-more souljers die, another mother cries
-anthony buyers, ??? ???, diallo
-let it keep happenin and theirs more to follow
-it's even deeper then that penal shot in the back
-forever we fight and cus but the world still adjust
-so many bullets just to stop one man
-is that the plan,
-to leave us all dead in the street
-i'm an opponent of violence
-to many of my guys have to condome it in silence
-law takes lives and can only do violence
-and with night sticks i write quick
-hopin that
-i might hit somebody in the heart
-like an arrow with her eyes on a sparrow
-yo i feel my peoples pain all in my bone marrow
-i'm tellin pharoahe to let my folks go
-ma's been singin to law like they background vocals
-local, state, federal cops have been payed properly
-to protect the property
-how can i just stand by and watch a man die for nothin and not react
-the way we spit on this track is how we bustin back
-yo i pimp slap 5-0
-get behind them and make the marks drive slow
-yo, you wanna know how to improve on the quality life?
-try respectin it step into my zone and maifest a check in it
-cops they transport me from long island to medina
-with they fucked up demeanor
-dreamin of stickin it to me like abner louima
-pharoahe slash el-hajj malik shabazz
-with plans of retaliations of they coward ass
-god please allow me to preach for 'em
-a voiceless man through a spirit i speek for him
-step to city hall if a dove flew for diallo
-with a vision of cops inside the public enemy logo
-all that scheming and plotting
-the young absorb like cotton does
-ecspeacially in my city where the boys steady rockin in
-you would thought 5-0 would cut it all short
-but they play the biggest part in the art of living arms
-in our land cops guns clap more then hands
-as if we don't deserve what they hear to preserve
-we just tryin to do it right in these worlds that we rappin in
-while they trying to fill us all up with more lead then zepilin
-my people unite and let's all get down
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-my people unite and let's all get down
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-my people unite and let's all get down
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
-my people unite, hop up and do it right
-we gotta have what? love peace and understandin
-one god, one love, one light
-one aim, one voice, one fight
+(dp1
+Vreachin
+p2
+I1
+sVthuglife
+p3
+I1
+sVpeace
+p4
+I8
+sVshot
+p5
+I1
+sVforget
+p6
+I1
+sVlyrics
+p7
+I2
+sVsparrow
+p8
+I1
+sVyoung
+p9
+I1
+sVskip
+p10
+I1
+sVover
+p11
+I1
+sVmove
+p12
+I1
+sVboys
+p13
+I1
+sVsoon
+p14
+I1
+sVfour
+p15
+I2
+sVbring
+p16
+I2
+sVtorin
+p17
+I1
+sVkill
+p18
+I1
+sVstops
+p19
+I1
+sVseats
+p20
+I1
+sVgo
+p21
+I2
+sVfollow
+p22
+I1
+sVstill
+p23
+I1
+sVfeat
+p24
+I1
+sVrodeny
+p25
+I1
+sVfam
+p26
+I1
+sVaint
+p27
+I1
+sVwrite
+p28
+I1
+sVjudges
+p29
+I1
+sVaiming
+p30
+I1
+sVgraves
+p31
+I1
+sVdice
+p32
+I1
+sVzone
+p33
+I1
+sVkirk
+p34
+I1
+sVvoiceless
+p35
+I1
+sVtrying
+p36
+I1
+sVdrive
+p37
+I1
+sVbehind
+p38
+I1
+sVvision
+p39
+I1
+sVeat
+p40
+I1
+sVdolomight
+p41
+I1
+sVking
+p42
+I2
+sVlets
+p43
+I5
+sVdoes
+p44
+I1
+sVmarks
+p45
+I1
+sVfolks
+p46
+I1
+sVflashing
+p47
+I1
+sVcool
+p48
+I1
+sVmight
+p49
+I1
+sVcity
+p50
+I2
+sVsent
+p51
+I1
+sVhappened
+p52
+I1
+sVhip
+p53
+I1
+sVhit
+p54
+I1
+sVyo
+p55
+I8
+sVget
+p56
+I7
+sVmos
+p57
+I1
+sVhopin
+p58
+I1
+sVwatch
+p59
+I2
+sVstickin
+p60
+I1
+sVflew
+p61
+I1
+sVproperty
+p62
+I1
+sVspeek
+p63
+I1
+sVones
+p64
+I1
+sVevery
+p65
+I1
+sVknow
+p66
+I1
+sVbackground
+p67
+I1
+sVhands
+p68
+I2
+sVstep
+p69
+I2
+sVworld
+p70
+I1
+sVlouima
+p71
+I1
+sVwalk
+p72
+I1
+sVhim
+p73
+I1
+sVretreat
+p74
+I1
+sVcommon
+p75
+I1
+sVhall
+p76
+I1
+sVbiggest
+p77
+I1
+sVlike
+p78
+I10
+sVpimp
+p79
+I1
+sVcries
+p80
+I1
+sVbadge
+p81
+I1
+sVsignal
+p82
+I1
+sVgun
+p83
+I1
+sVplotting
+p84
+I1
+sVleave
+p85
+I1
+sVadjust
+p86
+I1
+sVmisbehave
+p87
+I1
+sVarrow
+p88
+I1
+sVdie
+p89
+I2
+sVquick
+p90
+I1
+sVenemy
+p91
+I1
+sVmaifest
+p92
+I1
+sVyall
+p93
+I3
+sVpreach
+p94
+I1
+sVem
+p95
+I4
+sVpreserve
+p96
+I1
+sVright
+p97
+I12
+sVart
+p98
+I1
+sVanother
+p99
+I1
+sVisland
+p100
+I1
+sVpeople
+p101
+I11
+sVstreets
+p102
+I1
+sVback
+p103
+I3
+sVmonch
+p104
+I1
+sV50
+p105
+I2
+sVdemeanor
+p106
+I1
+sVsee
+p107
+I1
+sVstreet
+p108
+I1
+sVthirstin
+p109
+I1
+sVdrivin
+p110
+I1
+sVarms
+p111
+I1
+sVdeserve
+p112
+I1
+sVtransport
+p113
+I1
+sVblast
+p114
+I1
+sVeven
+p115
+I1
+sVpayed
+p116
+I1
+sVslice
+p117
+I1
+sVchrist
+p118
+I1
+sVblacks
+p119
+I1
+sVfederal
+p120
+I1
+sVtools
+p121
+I1
+sVplease
+p122
+I1
+sVexplorin
+p123
+I1
+sVice
+p124
+I1
+sVthrill
+p125
+I1
+sVlights
+p126
+I1
+sVstate
+p127
+I1
+sVdiallo
+p128
+I2
+sVslash
+p129
+I1
+sVabsorb
+p130
+I1
+sVgot
+p131
+I9
+sVcause
+p132
+I1
+sVpublic
+p133
+I1
+sVrespectin
+p134
+I1
+sVtold
+p135
+I1
+sVass
+p136
+I1
+sVdreamin
+p137
+I1
+sVjury
+p138
+I1
+sVkool
+p139
+I1
+sVcus
+p140
+I1
+sVnever
+p141
+I1
+sVbuyers
+p142
+I1
+sVclap
+p143
+I1
+sVretaliations
+p144
+I1
+sVcut
+p145
+I1
+sVreason
+p146
+I1
+sVslow
+p147
+I2
+sVlet
+p148
+I2
+sVscheming
+p149
+I1
+sVput
+p150
+I1
+sVcousin
+p151
+I1
+sVcome
+p152
+I1
+sVdead
+p153
+I1
+sVimprove
+p154
+I1
+sVprotect
+p155
+I1
+sVvoice
+p156
+I9
+sVwould
+p157
+I2
+sVg
+I1
+sVjeep
+p158
+I1
+sVmany
+p159
+I2
+sVviolence
+p160
+I2
+sVsomebody
+p161
+I1
+sVignoring
+p162
+I1
+sVlogo
+p163
+I1
+sVcondome
+p164
+I1
+sVguns
+p165
+I1
+sVbone
+p166
+I1
+sVlookin
+p167
+I1
+sVunderstandin
+p168
+I8
+sVwhole
+p169
+I2
+sVsilence
+p170
+I1
+sVthats
+p171
+I1
+sVrappin
+p172
+I1
+sVlove
+p173
+I18
+sVdont
+p174
+I1
+sVheart
+p175
+I1
+sVfeel
+p176
+I1
+sVquality
+p177
+I1
+sVplantiffs
+p178
+I1
+sVone
+p179
+I53
+sVdown
+p180
+I4
+sVhappenin
+p181
+I1
+sVtellin
+p182
+I1
+sVlaugh
+p183
+I1
+sVsober
+p184
+I1
+sVpoltergiest
+p185
+I1
+sVthroughout
+p186
+I1
+sVdefendants
+p187
+I1
+sVshabazz
+p188
+I1
+sVwan
+p189
+I1
+sVlittle
+p190
+I1
+sVheads
+p191
+I1
+sVtakes
+p192
+I1
+sVpt
+p193
+I2
+sVdove
+p194
+I1
+sVnight
+p195
+I1
+sVdude
+p196
+I1
+sVthree
+p197
+I1
+sVlong
+p198
+I1
+sVfight
+p199
+I10
+sVstart
+p200
+I1
+sVuhoh
+p201
+I1
+sVcats
+p202
+I1
+sVdamn
+p203
+I1
+sVtry
+p204
+I1
+sVway
+p205
+I1
+sVworlds
+p206
+I1
+sVrockin
+p207
+I1
+sVprototype
+p208
+I1
+sVtell
+p209
+I2
+sVopponent
+p210
+I1
+sVtight
+p211
+I1
+sVlife
+p212
+I2
+sVdeeper
+p213
+I1
+sVkillas
+p214
+I1
+sVcomprimised
+p215
+I1
+sVcontight
+p216
+I1
+sVspirit
+p217
+I1
+sVlocal
+p218
+I1
+sVecspeacially
+p219
+I1
+sVanthony
+p220
+I1
+sVcops
+p221
+I5
+sVmans
+p222
+I1
+sVlives
+p223
+I1
+sVbounce
+p224
+I1
+sVhold
+p225
+I1
+sVappointed
+p226
+I1
+sVland
+p227
+I1
+sVplay
+p228
+I1
+sVpull
+p229
+I1
+sVhiest
+p230
+I2
+sVtryin
+p231
+I1
+sVword
+p232
+I1
+sVshowed
+p233
+I1
+sVabner
+p234
+I1
+sVelhajj
+p235
+I1
+sVrecall
+p236
+I1
+sVinside
+p237
+I2
+sVsouljers
+p238
+I1
+sVcant
+p239
+I2
+sVus
+p240
+I3
+sVaim
+p241
+I9
+sVvocals
+p242
+I1
+sVmatch
+p243
+I1
+sVpoepoe
+p244
+I1
+sVlight
+p245
+I8
+sVmaking
+p246
+I1
+sVproperly
+p247
+I1
+sVpiece
+p248
+I1
+sVdef
+p249
+I1
+sVpenal
+p250
+I1
+sVive
+p251
+I1
+sVcmon
+p252
+I1
+sVzepilin
+p253
+I1
+sVsticks
+p254
+I1
+sVran
+p255
+I1
+sVsteady
+p256
+I1
+sVpart
+p257
+I1
+sVin
+p258
+I2
+sVit
+p259
+I2
+sVslap
+p260
+I1
+sVbustin
+p261
+I1
+sVpharoahe
+p262
+I3
+sVheard
+p263
+I1
+sVsay
+p264
+I1
+sVsudden
+p265
+I1
+sVim
+p266
+I5
+sVnothin
+p267
+I2
+sVrap
+p268
+I1
+sVtrack
+p269
+I1
+sVsingin
+p270
+I1
+sVseen
+p271
+I1
+sVplan
+p272
+I1
+sVmoves
+p273
+I1
+sVcheck
+p274
+I1
+sVshit
+p275
+I1
+sVcotton
+p276
+I1
+sVcoward
+p277
+I1
+sVspit
+p278
+I1
+sVdestroying
+p279
+I1
+sVna
+p280
+I1
+sVmic
+p281
+I1
+sVholds
+p282
+I1
+sVbowl
+p283
+I1
+sVcross
+p284
+I1
+sVunite
+p285
+I11
+sVgats
+p286
+I2
+sV1
+I2
+sVbeat
+p287
+I3
+sVthat
+p288
+I3
+sVsquad
+p289
+I1
+sVrole
+p290
+I1
+sVmalik
+p291
+I1
+sVhop
+p292
+I8
+sVpeoples
+p293
+I1
+sVpacks
+p294
+I1
+sVfools
+p295
+I1
+sVfill
+p296
+I1
+sVstand
+p297
+I1
+sVwaitin
+p298
+I1
+sVmas
+p299
+I1
+sVpain
+p300
+I1
+sVplans
+p301
+I1
+sVeyes
+p302
+I1
+sVliving
+p303
+I1
+sVkeep
+p304
+I2
+sVstop
+p305
+I2
+sVmother
+p306
+I1
+sVmedina
+p307
+I1
+sVhand
+p308
+I1
+sVreact
+p309
+I1
+sVpigs
+p310
+I1
+sVbullets
+p311
+I1
+sVblood
+p312
+I3
+sVfucked
+p313
+I1
+sVmarrow
+p314
+I1
+sVlaw
+p315
+I3
+sVguys
+p316
+I1
+sVman
+p317
+I4
+sVforever
+p318
+I1
+sVshort
+p319
+I1
+sVlead
+p320
+I1
+sVvice
+p321
+I1
+sVta
+p322
+I8
+sVholes
+p323
+I1
+sVdog
+p324
+I1
+sVrollin
+p325
+I1
+sVsupossed
+p326
+I1
+sVthought
+p327
+I1
+sVbuggin
+p328
+I1
+sVfrontin
+p329
+I1
+sVallow
+p330
+I1
+sVgod
+p331
+I9
+sVhear
+p332
+I1
+sVpulled
+p333
+I1
+sVmake
+p334
+I3
+s.

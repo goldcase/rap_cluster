@@ -1,63 +1,466 @@
-"i get lifted" lyrics
-snoop dogg lyrics
-"i get lifted"
-(with wiz khalifa)
-i'm just soaking up this breeze, smoking on some trees
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-i get lifted, i get lifted, everyday
-i get lifted, i get lifted, i get lifted, i get lifted, everyday
-i get lifted, i get lifted, hey
-overzel me, propel me, propeller, cat pilla,
-rap healer, dope dealer, grip it back
-look it back now, reseller,
-exhale, inhaler, feller, juicys pored
-dueces for all you loud mouth bitches who adore
-i can't play on your field anymore
-take it flight, now look at me soar
-in and out of space with my foot to the floor
-higher and higher, i won't retire
-halfie don kaya, love smokin fire tata like satellite,
-all on the wire,
-keep it up, speed it up, slow it up
-throw it up
-your bitch is looking at me cause she probably wanna go with us
-it's cool with me, hop in, hop in, ain't no stopping
-we keep knocking, rocking
-i'm just soaking up this breeze, smoking on some trees
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-i get lifted, i get lifted, everyday
-i get lifted, i get lifted, i get lifted, i get lifted, everyday
-i get lifted, i get lifted, hey
-dimes, dubs, quarter ounce oz, put it in a zag
-let it burn slowly everywhere i am
-nigga got a blow tree rolling every gram
-they be like holy smokes, that man no joke
-can tell if it's that "mehh" (crap) if you don't choke
-never gonna quit, every chance i'm a toke
-zips smelling like the whole plants in my coat
-for autographs, coming at me with all the names
-and what i gotta have
-i got my own shit, and this ain't for the little kid
-this grown shit, having a party at my crib
-bring your own bitch, i got 3, so matter of fact you can take one
-and roll a joint baby girl let's bake one
-and take this weed and i can show you how to make one, ah
-i'm just soaking up this breeze, smoking on some trees
-niggas know i get lifted it's high school, i stay high, i mean i don't gotta get high i'm already there, yeah, i was high when i said that, haha, whatup snoop!
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-smoking on this weed, this is all i need
-i get lifted, i get lifted, everyday
-i get lifted, i get lifted, i get lifted, i get lifted, everyday
-i get lifted, i get lifted, hey
-i'm just soaking up the breeze, smoking on some trees
-i blame it on you, you blame it on me, we blame it on trees
-smoking on this weed, this is all i need
-i blame it on you, you blame it on me, we blame it on trees
-i get lifted, i get lifted, everyday
-i get lifted, i get lifted, i get lifted, i get lifted, everyday
-i get lifted, i get lifted, hey
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVretire
+p4
+I1
+sVpropeller
+p5
+I1
+sVoverzel
+p6
+I1
+sVhigher
+p7
+I2
+sVgo
+p8
+I1
+sVspeed
+p9
+I1
+sVaint
+p10
+I2
+sVslow
+p11
+I1
+sVsoaking
+p12
+I4
+sVlets
+p13
+I1
+sVta
+p14
+I2
+sVgrip
+p15
+I1
+sVplants
+p16
+I1
+sVwhatup
+p17
+I1
+sVget
+p18
+I36
+sVdope
+p19
+I1
+sVtrees
+p20
+I6
+sVjoint
+p21
+I1
+sVevery
+p22
+I2
+sVknow
+p23
+I1
+sVgot
+p24
+I5
+sVfoot
+p25
+I1
+sVcool
+p26
+I1
+sVwont
+p27
+I1
+sVschool
+p28
+I1
+sVlike
+p29
+I3
+sVbring
+p30
+I1
+sVgram
+p31
+I1
+sVtoke
+p32
+I1
+sVquarter
+p33
+I1
+sVdimes
+p34
+I1
+sVlifted
+p35
+I35
+sVnigga
+p36
+I1
+sVnames
+p37
+I1
+sVpropel
+p38
+I1
+sVkhalifa
+p39
+I1
+sVback
+p40
+I2
+sVpilla
+p41
+I1
+sVhealer
+p42
+I1
+sVgirl
+p43
+I1
+sVbake
+p44
+I1
+sVwire
+p45
+I1
+sVspace
+p46
+I1
+sVdealer
+p47
+I1
+sVlooking
+p48
+I1
+sV3
+I1
+sVprobably
+p49
+I1
+sVcause
+p50
+I1
+sVblow
+p51
+I1
+sVnever
+p52
+I1
+sVquit
+p53
+I1
+sVburn
+p54
+I1
+sVblame
+p55
+I6
+sVlet
+p56
+I1
+sVsmokin
+p57
+I1
+sVput
+p58
+I1
+sVinhaler
+p59
+I1
+sVstay
+p60
+I1
+sVthrow
+p61
+I1
+sVjoke
+p62
+I1
+sVjuicys
+p63
+I1
+sVkeep
+p64
+I2
+sVounce
+p65
+I1
+sVoz
+p66
+I1
+sVmean
+p67
+I1
+sVloud
+p68
+I1
+sValready
+p69
+I1
+sVlove
+p70
+I1
+sVdont
+p71
+I2
+sVzag
+p72
+I1
+sVcoming
+p73
+I1
+sVknocking
+p74
+I1
+sVcrib
+p75
+I1
+sVone
+p76
+I3
+sVzips
+p77
+I1
+sVhalfie
+p78
+I1
+sVfeller
+p79
+I1
+sVbitch
+p80
+I2
+sVwiz
+p81
+I1
+sVwan
+p82
+I1
+sVlittle
+p83
+I1
+sVcrap
+p84
+I1
+sVsnoop
+p85
+I2
+sVdogg
+p86
+I1
+sVtata
+p87
+I1
+sVhey
+p88
+I4
+sVslowly
+p89
+I1
+sVkid
+p90
+I1
+sVautographs
+p91
+I1
+sVtell
+p92
+I1
+sVflight
+p93
+I1
+sVsaid
+p94
+I1
+sVholy
+p95
+I1
+sVfire
+p96
+I1
+sVbitches
+p97
+I1
+sVhaha
+p98
+I1
+sVyeah
+p99
+I1
+sVeverywhere
+p100
+I1
+sVbaby
+p101
+I1
+sVsmoking
+p102
+I14
+sVrocking
+p103
+I1
+sVplay
+p104
+I1
+sVlook
+p105
+I2
+sVniggas
+p106
+I1
+sVtree
+p107
+I1
+sVup
+p108
+I2
+sVus
+p109
+I1
+sVcat
+p110
+I1
+sVmatter
+p111
+I1
+sVadore
+p112
+I1
+sVcoat
+p113
+I1
+sVstopping
+p114
+I1
+sVexhale
+p115
+I1
+sVhave
+p116
+I1
+sVmehh
+p117
+I1
+sVah
+p118
+I1
+sVam
+p119
+I1
+sVchoke
+p120
+I1
+sVhigh
+p121
+I4
+sVcant
+p122
+I1
+sVim
+p123
+I6
+sVrap
+p124
+I1
+sVneed
+p125
+I10
+sVeveryday
+p126
+I8
+sVshit
+p127
+I2
+sVgrown
+p128
+I1
+sVanymore
+p129
+I1
+sVfloor
+p130
+I1
+sVna
+p131
+I2
+sVmake
+p132
+I1
+sVkaya
+p133
+I1
+sVdueces
+p134
+I1
+sVfield
+p135
+I1
+sVtake
+p136
+I3
+sVhop
+p137
+I2
+sVparty
+p138
+I1
+sVroll
+p139
+I1
+sVsoar
+p140
+I1
+sVsatellite
+p141
+I1
+sVdubs
+p142
+I1
+sVweed
+p143
+I11
+sVchance
+p144
+I1
+sVgon
+p145
+I1
+sVmouth
+p146
+I1
+sVsmelling
+p147
+I1
+sVrolling
+p148
+I1
+sVman
+p149
+I1
+sVreseller
+p150
+I1
+sVwhole
+p151
+I1
+sVsmokes
+p152
+I1
+sVbreeze
+p153
+I4
+sVpored
+p154
+I1
+sVfact
+p155
+I1
+s.

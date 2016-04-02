@@ -1,86 +1,506 @@
-flashing lights remix lyrics
-kanye west lyrics
-flashing lights remix
-feat raheem devaughn
-turn ya radio suggest
-remix best
-raheem devaughn kanye west
-man hold head high
-cause test
-dont kill you
-make stronger brotha
-feelin brotha
-getta mournin lost mother
-heavens got brandnew angel shining like bright lights
-flashing lights lights
-bci chi town
-flashing lights lights
-see name like hollywood sign
-flashing lights lights
-hate im still gon shine
-flashing lights lights
-im still gon shine
-flashing lights lights
-yeah im still gon shine
-yeah still gon shine
-names spreadin lik rumor
-hood im buzzin like tumor
-ggirl aint gettin paper
-know youre starchaser
-hooked want love the
-flashing lights lights
-maybe way entertain
-maybe way shine like
-flashing lights lights
-thrist crave yearn the
-flashing light
-drunk
-cause cant hold yo liquor
-talkin bout came club wit yo na
-askin leave wit go figure
-would rather leave wit alicia keys
-southern paparizzi no
-flashing lights lights
-pictures videos
-good look scenrio
-flashing lights lights
-caught red carpet though
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-know sweetheart
-hardly talk thing
-know foul baybay
-abaybay lately brain
-somebody wouldve told month ago
-fronting though yo wouldnt wanna know
-somebody wouldve told year ago
-itd go get difficult
-feeling like katrina fema
-like martin gina
-like flight visa
-first class seat back still see ya
-past side glass
-memorys museum
-im saying hey mona lisa
-come home know cant rome without caesar
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-im speakers shinin like
-im stage shinin like
-im club shinin like
-im hood shinin like
-flashing lights lights
-put shades right
-flashing lights lights
-cause im shinin bright like flashing
-lights lights lights lights lights lights lightsfading
-lights
-im shininohhh ohhh
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I3
+sVbrotha
+p5
+I2
+sVfoul
+p6
+I1
+sVmonth
+p7
+I1
+sVbrain
+p8
+I1
+sVbright
+p9
+I2
+sVpaper
+p10
+I1
+sVkill
+p11
+I1
+sVgo
+p12
+I2
+sVkanye
+p13
+I2
+sVheavens
+p14
+I1
+sVfeat
+p15
+I1
+sVcarpet
+p16
+I1
+sVaint
+p17
+I1
+sVggirl
+p18
+I1
+sVcaesar
+p19
+I1
+sVvideos
+p20
+I1
+sVohhh
+p21
+I1
+sVflashing
+p22
+I21
+sVbrandnew
+p23
+I1
+sVitd
+p24
+I1
+sVlightsfading
+p25
+I1
+sVgood
+p26
+I1
+sVsomebody
+p27
+I2
+sVyo
+p28
+I3
+sVget
+p29
+I1
+sVya
+p30
+I2
+sValicia
+p31
+I1
+sVfeelin
+p32
+I1
+sVbuzzin
+p33
+I1
+sVknow
+p34
+I14
+sVdevaughn
+p35
+I2
+sVrumor
+p36
+I1
+sVlike
+p37
+I12
+sVname
+p38
+I1
+sVlost
+p39
+I1
+sVgettin
+p40
+I1
+sVyearn
+p41
+I1
+sVleave
+p42
+I2
+sVpaparizzi
+p43
+I1
+sVstarchaser
+p44
+I1
+sVmartin
+p45
+I1
+sVradio
+p46
+I1
+sVtold
+p47
+I2
+sVside
+p48
+I1
+sVraheem
+p49
+I2
+sVright
+p50
+I1
+sVliquor
+p51
+I1
+sVyeah
+p52
+I2
+sVsign
+p53
+I1
+sVpast
+p54
+I1
+sVsee
+p55
+I2
+sVkatrina
+p56
+I1
+sVyear
+p57
+I1
+sVhome
+p58
+I1
+sVthing
+p59
+I1
+sVbest
+p60
+I1
+sVshining
+p61
+I1
+sVstill
+p62
+I5
+sVhate
+p63
+I1
+sVhooked
+p64
+I1
+sVlights
+p65
+I44
+sVgot
+p66
+I1
+sVcause
+p67
+I3
+sVred
+p68
+I1
+sVwouldve
+p69
+I2
+sVspreadin
+p70
+I1
+sVnever
+p71
+I3
+sVentertain
+p72
+I1
+sVlisa
+p73
+I1
+sVput
+p74
+I1
+sVcome
+p75
+I1
+sVstage
+p76
+I1
+sVshine
+p77
+I5
+sVmemorys
+p78
+I1
+sVwouldnt
+p79
+I1
+sVmournin
+p80
+I1
+sVshades
+p81
+I1
+sVtumor
+p82
+I1
+sVturn
+p83
+I1
+sVvisa
+p84
+I1
+sVwest
+p85
+I2
+sVmuseum
+p86
+I1
+sVfirst
+p87
+I1
+sVsuggest
+p88
+I1
+sVlove
+p89
+I4
+sVdont
+p90
+I1
+sVbaybay
+p91
+I1
+sVdrunk
+p92
+I1
+sVwit
+p93
+I3
+sVnames
+p94
+I1
+sVfema
+p95
+I1
+sVhood
+p96
+I2
+sVwan
+p97
+I1
+sVfigure
+p98
+I1
+sVwould
+p99
+I4
+sVchi
+p100
+I1
+sVcaught
+p101
+I1
+sVseat
+p102
+I1
+sVhey
+p103
+I1
+sVscenrio
+p104
+I1
+sVway
+p105
+I2
+sVhollywood
+p106
+I1
+sVhardly
+p107
+I1
+sVhead
+p108
+I1
+sVflight
+p109
+I1
+sVclub
+p110
+I2
+sVgetta
+p111
+I1
+sVback
+p112
+I1
+sVglass
+p113
+I1
+sVhold
+p114
+I2
+sVbout
+p115
+I1
+sVtown
+p116
+I1
+sVlook
+p117
+I1
+sVrecall
+p118
+I3
+sVabaybay
+p119
+I1
+sVmona
+p120
+I1
+sVcrave
+p121
+I1
+sVshinin
+p122
+I5
+sVmaybe
+p123
+I2
+sVpictures
+p124
+I1
+sVfeeling
+p125
+I1
+sVlately
+p126
+I1
+sVangel
+p127
+I1
+sVsweetheart
+p128
+I1
+sVhigh
+p129
+I1
+sVcant
+p130
+I2
+sVfronting
+p131
+I1
+sVim
+p132
+I11
+sVwant
+p133
+I1
+sVgina
+p134
+I1
+sVspeakers
+p135
+I1
+sVno
+p136
+I1
+sVrather
+p137
+I1
+sVna
+p138
+I2
+sVmake
+p139
+I1
+sVlik
+p140
+I1
+sVfar
+p141
+I3
+sVwithout
+p142
+I1
+sVtake
+p143
+I3
+sVtest
+p144
+I1
+sVyou
+p145
+I1
+sVtalkin
+p146
+I1
+sVdifficult
+p147
+I1
+sVshininohhh
+p148
+I1
+sVaskin
+p149
+I1
+sVthough
+p150
+I2
+sVkeys
+p151
+I1
+sVsouthern
+p152
+I1
+sVgon
+p153
+I4
+sVclass
+p154
+I1
+sVman
+p155
+I1
+sVago
+p156
+I2
+sVremix
+p157
+I3
+sVoff
+p158
+I3
+sVbci
+p159
+I1
+sVlight
+p160
+I1
+sVyoure
+p161
+I1
+sVstronger
+p162
+I1
+sVthought
+p163
+I3
+sVrome
+p164
+I1
+sVtalk
+p165
+I1
+sVmother
+p166
+I1
+sVthe
+p167
+I2
+sVthrist
+p168
+I1
+sVcame
+p169
+I1
+s.

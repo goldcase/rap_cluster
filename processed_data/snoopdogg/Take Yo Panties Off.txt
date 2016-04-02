@@ -1,66 +1,362 @@
-"take yo panties off" lyrics
-snoop dogg lyrics
-"take yo panties off"
-(with craig robinson)
-girl you know you get me off
-girl, it's nothing to a boss
-give it to ya nice and soft
-take your panties off...
-(you are beautiful, you are wonderful)
-(i adore you, i appreciate you)
-girl i'm off this alcohol, leaning up against the wall
-put your hands up on my balls
-and take your panties off...
-(you are beautiful, you are wonderful)
-slip 'em to the side, girl (i adore you)
-let me slip inside, girl (i appreciate you)
-(she is your queen, she is my diva)
-take your panties off (she is my queen)
-slip 'em to the side, girl (she is my diva)
-let me slip inside, girl
-the problem that i seem to have
-each and every time i try
-to break down what i'm thinking
-girl, you know you got my eye
-i gotta see what's under there
-i gotta take my time too
-so come on, baby, come tonight
-and please take off your panties too
-somebody told me one time, ask
-ask and you shall receive
-so this is me being very polite
-take your panties off, please
-first you say yes, and then you say no
-and we ain't goin' tit for tat
-you might think that, you being cute
-but baby, ain't nobody got time for that
-pancakes and that nesquik
-mouth full of that lipstick
-play your cards right
-and you just might get yourself that dipstick
-lick me, lick me, lick me up
-and you can lick me down
-and let me slip it in, and let me take you down
-damn, girl, understand, girl
-your panties look better on the floor
-so me a favour, misbehaviour
-let 'em go, let 'em go
-leave your panties on the dresser
-muchacha...
-bad girl, now lift your dress up
-sexy-ass girl, and i'm your professor
-take 'em off, take 'em off, take 'em off, take 'em off...
-take 'em off...
-take 'em off, take 'em off, take 'em off, take 'em off...
-take 'em off...
-take 'em off, take 'em off, take 'em off, take 'em off...
-take 'em off...
-take 'em off, take 'em off, take 'em off, take 'em off...
-take 'em off...
-what is a king without a queen?
-what is the ding, without the ding-a-ling?
-it all matters, it's one thing
-with you pulling those panties down
-so, no time to waste - this is the place
-you're forced to so something you've always wanted to
-so take 'em off...
+(dp1
+Vcute
+p2
+I1
+sVlyrics
+p3
+I2
+sVqueen
+p4
+I3
+sVgo
+p5
+I2
+sVyes
+p6
+I1
+sVaint
+p7
+I2
+sVthinking
+p8
+I1
+sVbetter
+p9
+I1
+sVto
+p10
+I1
+sVmight
+p11
+I2
+sVta
+p12
+I2
+sVsomebody
+p13
+I1
+sVyo
+p14
+I2
+sVget
+p15
+I2
+sVya
+p16
+I1
+sVbreak
+p17
+I1
+sVmatters
+p18
+I1
+sVevery
+p19
+I1
+sVknow
+p20
+I2
+sVhands
+p21
+I1
+sValways
+p22
+I1
+sVtry
+p23
+I1
+sVbad
+p24
+I1
+sVdresser
+p25
+I1
+sVsoft
+p26
+I1
+sVside
+p27
+I2
+sVem
+p28
+I25
+sVright
+p29
+I1
+sVsee
+p30
+I1
+sVgirl
+p31
+I12
+sVleave
+p32
+I1
+sVlipstick
+p33
+I1
+sVplease
+p34
+I2
+sVfavour
+p35
+I1
+sVgot
+p36
+I4
+sVtold
+p37
+I1
+sVfull
+p38
+I1
+sVsexyass
+p39
+I1
+sVpancakes
+p40
+I1
+sVdipstick
+p41
+I1
+sVboss
+p42
+I1
+sVlet
+p43
+I6
+sVput
+p44
+I1
+sVwanted
+p45
+I1
+sVcome
+p46
+I2
+sVreceive
+p47
+I1
+sVthing
+p48
+I1
+sVplace
+p49
+I1
+sVyouve
+p50
+I1
+sVthink
+p51
+I1
+sVfirst
+p52
+I1
+sVding
+p53
+I1
+sVtat
+p54
+I1
+sVwhats
+p55
+I1
+sVmuchacha
+p56
+I1
+sVwall
+p57
+I1
+sVone
+p58
+I2
+sVdown
+p59
+I3
+sVask
+p60
+I2
+sVeye
+p61
+I1
+sVsnoop
+p62
+I1
+sVdogg
+p63
+I1
+sVthere
+p64
+I1
+sVwonderful
+p65
+I2
+sVdamn
+p66
+I1
+sVtoo
+p67
+I2
+sVgoin
+p68
+I1
+sVthat
+p69
+I1
+sVnobody
+p70
+I1
+sVlift
+p71
+I1
+sVunderstand
+p72
+I1
+sVbaby
+p73
+I2
+sVking
+p74
+I1
+sVballs
+p75
+I1
+sVlook
+p76
+I1
+sVmisbehaviour
+p77
+I1
+sVinside
+p78
+I2
+sVdingaling
+p79
+I1
+sVup
+p80
+I2
+sVadore
+p81
+I2
+sVleaning
+p82
+I1
+sVcards
+p83
+I1
+sVpulling
+p84
+I1
+sVproblem
+p85
+I1
+sVbeautiful
+p86
+I2
+sVlick
+p87
+I4
+sVslip
+p88
+I5
+sVgive
+p89
+I1
+sVcraig
+p90
+I1
+sVtonight
+p91
+I1
+sVsay
+p92
+I2
+sVnesquik
+p93
+I1
+sVim
+p94
+I3
+sVsomething
+p95
+I1
+sVhave
+p96
+I1
+sVseem
+p97
+I1
+sVrobinson
+p98
+I1
+sVforced
+p99
+I1
+sVno
+p100
+I1
+sVtit
+p101
+I1
+sVdress
+p102
+I1
+sVyoure
+p103
+I1
+sVtake
+p104
+I30
+sVyou
+p105
+I3
+sVpanties
+p106
+I10
+sVnice
+p107
+I1
+sVplay
+p108
+I1
+sVshall
+p109
+I1
+sVpolite
+p110
+I1
+sVdiva
+p111
+I2
+sVmouth
+p112
+I1
+sVnothing
+p113
+I1
+sVwaste
+p114
+I1
+sValcohol
+p115
+I1
+sVoff
+p116
+I13
+sVprofessor
+p117
+I1
+sVfloor
+p118
+I1
+sVappreciate
+p119
+I2
+sVwithout
+p120
+I2
+sVtime
+p121
+I5
+s.

@@ -1,74 +1,668 @@
-"hope" lyrics
-nas lyrics
-"hope"
-(feat. chrisette michele)
-hip-hop -  it will never die
-hip-hop - hip-hop will never, never die
-ghetto niggaz struttin' with nothin' but dreams and queens broke
-mack-10's, you can smell the pcp smoke
-mele mel told it real in the music he wrote
-those were the days i remember
-we used to be close, then i was nine, coldest winter i remember
-was slippin' in december, two feet of snow
-yeah, that's the east coast, that black ice
-symbolized the rap life
-it was slick and smooth
-i understood i had to come from the hood
-doin' the pee wee herman, the smurf
-before them phones chirped
-the block's drugs flowin', didn't have your own work
-you had to have somebody else's, a small chrome on your pelvis
-starter jacket, blue georgetown or green celtic
-your girl's too expensive, she wants shellfish
-red lobster was poppin', standin' on that line forever
-i wish somebody would step on my bally leather's
-now it's whatever... hip-hop's forever
-kept my radio on 98 or bls
-had a pre-pubescent lyric gift but niggaz never hear me spit
-my little brother tried to warn 'em, i was a tornado comin'
-he knew from inside, like the eye of a storm
-and told my pops about it
-he gave us tickets to that wild style flick
-double trouble, retarded, we was the proudest
-i never had a summer job
-sweepin' leaves, socks to my knees
-homemade shorts cutoff, lee's
-i ain't work a day in my life
-wipin' away eraser of the paper man
-i'm just tryin' to say it right
-big radio, tape slowin' down
-lower the lights go, battery dead
-i gotta freeze 'em 'til they ice cold
-in the freezer later, i'm starin' at the speaker
-sunk in them 808's deeper, cleanin' my sneakers
-wit the bristles of a toothbrush, soap and water
-i let the shoe strings soak in water...
-live hip-hop live, live hip-hop live
-give hip-hop give, give hip-hop give
-stay hip-hop stay, stay hip-hop stay
-i pray, hip-hop pray, i pray hip-hop stays
-ain't got nothin' to do wit old school, new school
-dirty south, west coast, east coast
-this about us, this our thing, 'knaw'sayin'?
-this came from the gut, from the blood, from the soul
-right here man, this is our thing man
-you know, so i say what i say
-and i say what i say, and i mean it
-y'all take it how you wanna take it
-cause if you're askin' - why is hip-hop dead?
-it's a pretty good chance you're the reason it died, man
-it's a pretty good chance your lame ass, corny ass, is the reason it died, man
-you don't give a fuck about, you don't know nothin' about it
-you want this paper, be a hustler
-you a hustler, you ain't a rapper
-get your paper man
-youknowwhati'msayin, but this rap shit is real
-bitch, this shit is real, bitch, ha-ha
-live hip-hop live, (stay) live hip-hop live
-give hip-hop give, give hip-hop give
-stay hip-hop stay, (live) stay hip-hop stay (live)
-i pray, hip-hop pray, i pray hip-hop stays
-live hip-hop live, (stay) live hip-hop live
-give hip-hop give, give hip-hop give
-stay hip-hop stay, stay hip-hop stay
-i pray, hip-hop pray, i pray hip-hop stays
+(dp1
+Vsummer
+p2
+I1
+sVstandin
+p3
+I1
+sVlyrics
+p4
+I2
+sVcutoff
+p5
+I1
+sVhiphops
+p6
+I1
+sVstays
+p7
+I3
+sVpops
+p8
+I1
+sVsunk
+p9
+I1
+sVpaper
+p10
+I3
+sVradio
+p11
+I2
+sVbls
+p12
+I1
+sVslippin
+p13
+I1
+sVchrisette
+p14
+I1
+sVfeat
+p15
+I1
+sVhustler
+p16
+I2
+sVaint
+p17
+I3
+sVstyle
+p18
+I1
+sVproudest
+p19
+I1
+sVshellfish
+p20
+I1
+sVwee
+p21
+I1
+sVpray
+p22
+I9
+sVpcp
+p23
+I1
+sVpoppin
+p24
+I1
+sVlower
+p25
+I1
+sVgut
+p26
+I1
+sVblack
+p27
+I1
+sVpretty
+p28
+I2
+sVreason
+p29
+I2
+sVeast
+p30
+I2
+sVhope
+p31
+I2
+sVgave
+p32
+I1
+sVreal
+p33
+I3
+sVeraser
+p34
+I1
+sVsomebody
+p35
+I2
+sVget
+p36
+I1
+sVbig
+p37
+I1
+sVcoast
+p38
+I3
+sVlame
+p39
+I1
+sVlees
+p40
+I1
+sVwipin
+p41
+I1
+sVsocks
+p42
+I1
+sVgot
+p43
+I2
+sVtrouble
+p44
+I1
+sVday
+p45
+I1
+sVdreams
+p46
+I1
+sVghetto
+p47
+I1
+sVtickets
+p48
+I1
+sVdown
+p49
+I1
+sVschool
+p50
+I2
+sVlike
+p51
+I1
+sVgift
+p52
+I1
+sVknawsayin
+p53
+I1
+sVdie
+p54
+I2
+sVrapper
+p55
+I1
+sVbrother
+p56
+I1
+sVyouknowwhatimsayin
+p57
+I1
+sVbally
+p58
+I1
+sVsmall
+p59
+I1
+sVlyric
+p60
+I1
+sVtold
+p61
+I2
+sVslowin
+p62
+I1
+sVwrote
+p63
+I1
+sVshoe
+p64
+I1
+sVem
+p65
+I2
+sVright
+p66
+I2
+sVold
+p67
+I1
+sVjob
+p68
+I1
+sVphones
+p69
+I1
+sVyeah
+p70
+I1
+sVdead
+p71
+I2
+sVfreeze
+p72
+I1
+sVunderstood
+p73
+I1
+sVaskin
+p74
+I1
+sVlobster
+p75
+I1
+sVus
+p76
+I2
+sVgo
+p77
+I1
+sVclose
+p78
+I1
+sVthing
+p79
+I2
+sVcold
+p80
+I1
+sVblue
+p81
+I1
+sVknees
+p82
+I1
+sVmack10s
+p83
+I1
+sVaway
+p84
+I1
+sVslick
+p85
+I1
+sVice
+p86
+I2
+sVlights
+p87
+I1
+sVsneakers
+p88
+I1
+sVexpensive
+p89
+I1
+sVpee
+p90
+I1
+sVcause
+p91
+I1
+sVred
+p92
+I1
+sVmele
+p93
+I1
+sVass
+p94
+I2
+sVmel
+p95
+I1
+sVnever
+p96
+I5
+sVtoothbrush
+p97
+I1
+sVwild
+p98
+I1
+sVstep
+p99
+I1
+sVlet
+p100
+I1
+sVelses
+p101
+I1
+sVcome
+p102
+I1
+sVwater
+p103
+I2
+sVstruttin
+p104
+I1
+sVchirped
+p105
+I1
+sVprepubescent
+p106
+I1
+sVdays
+p107
+I1
+sVbristles
+p108
+I1
+sVyall
+p109
+I1
+sVsmoke
+p110
+I1
+sVretarded
+p111
+I1
+sVsweepin
+p112
+I1
+sVmean
+p113
+I1
+sVcleanin
+p114
+I1
+sVthats
+p115
+I1
+sVflick
+p116
+I1
+sVdont
+p117
+I2
+sVbattery
+p118
+I1
+sVwhatever
+p119
+I1
+sVfeet
+p120
+I1
+sVwit
+p121
+I2
+sVbitch
+p122
+I2
+sVcomin
+p123
+I1
+sVhood
+p124
+I1
+sVwan
+p125
+I1
+sVlittle
+p126
+I1
+sVeye
+p127
+I1
+sVwould
+p128
+I1
+sVchrome
+p129
+I1
+sVwest
+p130
+I1
+sVgirls
+p131
+I1
+sVtwo
+p132
+I1
+sVlive
+p133
+I14
+sVmusic
+p134
+I1
+sVstorm
+p135
+I1
+sVsymbolized
+p136
+I1
+sVtape
+p137
+I1
+sVman
+p138
+I6
+sVwant
+p139
+I1
+sVwants
+p140
+I1
+sVgeorgetown
+p141
+I1
+sVlife
+p142
+I2
+sVhomemade
+p143
+I1
+sVspit
+p144
+I1
+sVshorts
+p145
+I1
+sVdrugs
+p146
+I1
+sVhaha
+p147
+I1
+sVceltic
+p148
+I1
+sVfuck
+p149
+I1
+sVwarn
+p150
+I1
+sV98
+p151
+I1
+sVhear
+p152
+I1
+sVbroke
+p153
+I1
+sVcoldest
+p154
+I1
+sVline
+p155
+I1
+sVstarter
+p156
+I1
+sVtryin
+p157
+I1
+sVwish
+p158
+I1
+sVinside
+p159
+I1
+sVwork
+p160
+I2
+sVsmooth
+p161
+I1
+sVsoul
+p162
+I1
+sVniggaz
+p163
+I2
+sVnine
+p164
+I1
+sVdirty
+p165
+I1
+sVleathers
+p166
+I1
+sVsmurf
+p167
+I1
+sVta
+p168
+I1
+sVdidnt
+p169
+I1
+sVleaves
+p170
+I1
+sVyoure
+p171
+I2
+sVcorny
+p172
+I1
+sVgive
+p173
+I13
+sVdecember
+p174
+I1
+sVmichele
+p175
+I1
+sVit
+p176
+I4
+sVsay
+p177
+I5
+sVgood
+p178
+I2
+sVim
+p179
+I2
+sVrap
+p180
+I2
+sVpelvis
+p181
+I1
+sVshit
+p182
+I2
+sVdeeper
+p183
+I1
+sVchance
+p184
+I2
+sVwinter
+p185
+I1
+sVsoak
+p186
+I1
+sV808s
+p187
+I1
+sVna
+p188
+I1
+sVsnow
+p189
+I1
+sVfreezer
+p190
+I1
+sVtil
+p191
+I1
+sVnas
+p192
+I1
+sVspeaker
+p193
+I1
+sVtake
+p194
+I2
+sVnew
+p195
+I1
+sVsmell
+p196
+I1
+sVsoap
+p197
+I1
+sVused
+p198
+I1
+sVblocks
+p199
+I1
+sVtried
+p200
+I1
+sVtornado
+p201
+I1
+sVdoin
+p202
+I1
+sVknew
+p203
+I1
+sVstay
+p204
+I14
+sVhiphop
+p205
+I28
+sVstarin
+p206
+I1
+sVblood
+p207
+I1
+sVflowin
+p208
+I1
+sVherman
+p209
+I1
+sVdied
+p210
+I2
+sVqueens
+p211
+I1
+sVforever
+p212
+I2
+sVkept
+p213
+I1
+sVremember
+p214
+I2
+sVlater
+p215
+I1
+sVnothin
+p216
+I3
+sVdouble
+p217
+I1
+sVjacket
+p218
+I1
+sVgreen
+p219
+I1
+sVsouth
+p220
+I1
+sVstrings
+p221
+I1
+sVcame
+p222
+I1
+sVknow
+p223
+I2
+s.

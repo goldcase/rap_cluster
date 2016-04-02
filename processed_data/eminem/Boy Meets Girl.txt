@@ -1,86 +1,638 @@
-"boy meets girl" lyrics
-eminem lyrics
-"boy meets girl"
-(feat. bow wow & drake)
-boy meets girl,
-you were my dream my world,
-but i was blind,
-you cheated on me from behind.
-'cause boy meets girl,
-you were my dream my world,
-but i was blind,
-you cheated on me from behind.
-now i know we said things,
-did things that we didn't mean,
-and we fall back into the same patterns,
-same teams,
-but your tempers' shit just bad as mine,
-you're same as me,
-but when it comes to love you just as blinded.
-baby please come back,
-it wasn't you,
-maybe it was me,
-maybe our relationship isn't as crazy as it seems,
-maybe that's what happens when a tornado meets a volcano,
-all i know is i love you too much,
-to walk away doe.
-come inside,
-pick up your bags off the sidewalk,
-don't you hear sincerity in my voice when i talk?,
-told you "this is my fault",
-look me in the eyeball,
-next time i'll miss to let my fist hit the dry wall,
-next time-,
-there won't be no next time,
-i apologize even though i know it's lies,
-i'm tired of the games,
-i just want it back,
-i know i'm a liar,
-if she ever tries to fucking leave again,
-ima fucking tie her to the bed...
-listen,
-i'm sitting lookin out the window like, "damn",
-tryna fix the situation that's at hand,
-you're still running through my mind when i'm knowing that you shouldn't be,
-me, you're gonna be mine when i'm knowing that you couldn't be.
-cuz you haven't called,
-i ain't even appalled
-i still got a lot of pain,
-i ain't dealt with it all,
-i've been runnin around with other chicks,
-i'm single and they lovin it,
-i'm likin it but i just want the one that i was in love with.
-it's not the end of it,
-i'm tryna let you go,
-i can't,
-get a grip of that i'm tryna let you know
-you got hold some kind of control of me,
-i don't know what it is,
-but i gotta get you goin for me,
-i'm working at it,
-it ain't getting no better,
-i'm just tryna be like,
-"yeah, whatever, forget it."
-instead of starin out this glass,
-lookin at this bad weather,
-damn, i gotta pull myself together,
-cuz.
-it sounds like a conversation,
-it's a celebration,
-lets toast to the fact i moved out my mamas basement,
-to a condo downtown,
-cuz it's all about location,
-i sit and drink wine and watch californication of life,
-you shoulda been here to kick it with me,
-we coulda split this whole thing up 50/50,
-but now i'm at the 40/40 gettin bitches tipsy,
-killin shit that ever so talented mr. riply,
-how did i go from bein a man that you argued with?,
-to meeting dwayne carter and putting alcohol an shit,
-should wanna go back to the one i started with,
-but i'm addicted to this life,
-it's gonna be hard to quit.
-yeah, just ask me how things are coming along,
-you can tell me that you've none of my songs,
-as long as you say one day you plan to listen,
-cuz what's a star...
+(dp1
+Vchicks
+p2
+I1
+sVall
+p3
+I1
+sVliar
+p4
+I1
+sVforget
+p5
+I1
+sVlyrics
+p6
+I2
+sVbasement
+p7
+I1
+sVisnt
+p8
+I1
+sVgo
+p9
+I3
+sVna
+p10
+I3
+sVstill
+p11
+I2
+sVfeat
+p12
+I1
+sVima
+p13
+I1
+sVhold
+p14
+I1
+sVfix
+p15
+I1
+sVseems
+p16
+I1
+sVcuz
+p17
+I4
+sVbetter
+p18
+I1
+sVwindow
+p19
+I1
+sVsounds
+p20
+I1
+sVlocation
+p21
+I1
+sVkick
+p22
+I1
+sVta
+p23
+I2
+sVgrip
+p24
+I1
+sVrunnin
+p25
+I1
+sVhit
+p26
+I1
+sVaround
+p27
+I1
+sVsitting
+p28
+I1
+sVbein
+p29
+I1
+sVwatch
+p30
+I1
+sVnone
+p31
+I1
+sVlovin
+p32
+I1
+sVputting
+p33
+I1
+sVknow
+p34
+I6
+sVfall
+p35
+I1
+sVworld
+p36
+I2
+sVone
+p37
+I3
+sVday
+p38
+I1
+sVwont
+p39
+I1
+sVinstead
+p40
+I1
+sVlike
+p41
+I3
+sVcause
+p42
+I1
+sVgettin
+p43
+I1
+sVtoast
+p44
+I1
+sVdrake
+p45
+I1
+sVteams
+p46
+I1
+sVleave
+p47
+I1
+sVbad
+p48
+I2
+sVman
+p49
+I1
+sVdealt
+p50
+I1
+sVaddicted
+p51
+I1
+sVvolcano
+p52
+I1
+sVsidewalk
+p53
+I1
+sVmean
+p54
+I1
+sVcarter
+p55
+I1
+sVtired
+p56
+I1
+sVfucking
+p57
+I2
+sVhard
+p58
+I1
+sVback
+p59
+I4
+sVargued
+p60
+I1
+sVfist
+p61
+I1
+sVstar
+p62
+I1
+sVgirl
+p63
+I4
+sVthing
+p64
+I1
+sVblinded
+p65
+I1
+sVhappens
+p66
+I1
+sVsaid
+p67
+I1
+sVcalifornication
+p68
+I1
+sValcohol
+p69
+I1
+sVdwayne
+p70
+I1
+sVwow
+p71
+I1
+sVplease
+p72
+I1
+sVbehind
+p73
+I2
+sVwhats
+p74
+I1
+sVgot
+p75
+I4
+sVever
+p76
+I2
+sVtold
+p77
+I1
+sVknowing
+p78
+I2
+sVbe
+p79
+I2
+sVmamas
+p80
+I1
+sVquit
+p81
+I1
+sVcoulda
+p82
+I1
+sVeven
+p83
+I2
+sVeminem
+p84
+I1
+sVlet
+p85
+I3
+sVask
+p86
+I1
+sVcondo
+p87
+I1
+sVcome
+p88
+I2
+sVhavent
+p89
+I1
+sVpull
+p90
+I1
+sVdry
+p91
+I1
+sVboy
+p92
+I4
+sVtalented
+p93
+I1
+sVgetting
+p94
+I1
+sVfault
+p95
+I1
+sVill
+p96
+I1
+sVeyeball
+p97
+I1
+sVlikin
+p98
+I1
+sVrunning
+p99
+I1
+sVbow
+p100
+I1
+sVconversation
+p101
+I1
+sVstarin
+p102
+I1
+sVgames
+p103
+I1
+sVlookin
+p104
+I2
+sVpick
+p105
+I1
+sVwhole
+p106
+I1
+sVcomes
+p107
+I1
+sVthats
+p108
+I2
+sVblind
+p109
+I2
+sVlove
+p110
+I3
+sVdont
+p111
+I2
+sVwall
+p112
+I1
+sVwhatever
+p113
+I1
+sVwalk
+p114
+I1
+sVlies
+p115
+I1
+sVweather
+p116
+I1
+sVapologize
+p117
+I1
+sVcouldnt
+p118
+I1
+sVmiss
+p119
+I1
+sVriply
+p120
+I1
+sVwan
+p121
+I1
+sVkillin
+p122
+I1
+sVworking
+p123
+I1
+sVaint
+p124
+I3
+sVlets
+p125
+I1
+sVlong
+p126
+I1
+sVnext
+p127
+I3
+sVmuch
+p128
+I1
+sVdamn
+p129
+I2
+sVlot
+p130
+I1
+sVcelebration
+p131
+I1
+sVmeeting
+p132
+I1
+sVtell
+p133
+I1
+sVlisten
+p134
+I2
+sVtryna
+p135
+I4
+sVlife
+p136
+I2
+sVtempers
+p137
+I1
+sVrelationship
+p138
+I1
+sVstarted
+p139
+I1
+sVmoved
+p140
+I1
+sVbitches
+p141
+I1
+sVit
+p142
+I4
+sVdowntown
+p143
+I1
+sVglass
+p144
+I1
+sVhear
+p145
+I1
+sVbaby
+p146
+I1
+sVappalled
+p147
+I1
+sVwith
+p148
+I3
+sVme
+p149
+I4
+sVagain
+p150
+I1
+sVkind
+p151
+I1
+sVlook
+p152
+I1
+sVinside
+p153
+I1
+sVcant
+p154
+I1
+sVbed
+p155
+I1
+sVyouve
+p156
+I1
+sVshoulda
+p157
+I1
+sVmr
+p158
+I1
+sVsituation
+p159
+I1
+sVvoice
+p160
+I1
+sVdidnt
+p161
+I1
+sVcalled
+p162
+I1
+sVsay
+p163
+I1
+sVcontrol
+p164
+I1
+sVive
+p165
+I1
+sVcrazy
+p166
+I1
+sVwasnt
+p167
+I1
+sVis
+p168
+I1
+sVmind
+p169
+I1
+sVmine
+p170
+I2
+sVsingle
+p171
+I1
+sVim
+p172
+I13
+sVsincerity
+p173
+I1
+sVwant
+p174
+I2
+sV5050
+p175
+I1
+sVshit
+p176
+I3
+sVbags
+p177
+I1
+sVend
+p178
+I1
+sVsit
+p179
+I1
+sVthings
+p180
+I3
+sVget
+p181
+I2
+sVsplit
+p182
+I1
+sVtie
+p183
+I1
+sVyou
+p184
+I1
+sVmeets
+p185
+I5
+sVshouldnt
+p186
+I1
+sVpain
+p187
+I1
+sVtipsy
+p188
+I1
+sVthough
+p189
+I1
+sVtornado
+p190
+I1
+sVdrink
+p191
+I1
+sVhand
+p192
+I1
+sVtries
+p193
+I1
+sVgon
+p194
+I2
+sVplan
+p195
+I1
+sVcoming
+p196
+I1
+sValong
+p197
+I1
+sV4040
+p198
+I1
+sVgoin
+p199
+I1
+sVyeah
+p200
+I2
+sVcheated
+p201
+I2
+sVmaybe
+p202
+I3
+sVyoure
+p203
+I3
+sVtogether
+p204
+I1
+sVdoe
+p205
+I1
+sVpatterns
+p206
+I1
+sVfact
+p207
+I1
+sVtime
+p208
+I3
+sVsongs
+p209
+I1
+sVdream
+p210
+I2
+sVaway
+p211
+I1
+sVtalk
+p212
+I1
+sVwine
+p213
+I1
+s.

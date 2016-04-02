@@ -1,56 +1,511 @@
-"can you dig it" lyrics
-mc lyte lyrics
-"can you dig it"
-i got the charm and the wit of a pop hit
-but i'm street.. "catch the beat"
-don't drop it, just don't stop it
-don't you dare step off the topic
-that i got a one-track mind and this track's all mind
-the whole three four five six seven eight nine
-in the pocket, burstin in the air are rockets
-creatin lots of lyte -- get it?
-how many different ways can i say it?
-piano man, how many ways can you play it?
-i spell it out, the l-y-t-e
-without a doubt.. "got to be funky!"
-and it damn sho' nuff is
-it gotta be like that, in this rough biz
-of music, baby, use it or lose it
-what's funky is funky, you can't refuse it
-i got a grip on the groove and it won't move
-an inch until i pinch this party
-"can you dig it?" "right on" "right on!"
-it's my style, love it, or lump it
-it's my beat, pass it or pump it
-and it thumps, like a heartbeat
-and when it gets old, it won't get weak
-it'll get stronger, much stronger
-long live the king, but the lyte lives longer
-it's well argumented and well documented
-i hold the title of the best, you can't prevent it
-with a ten foot pole, you can't hold em
-born to be wild is what a song once told me
-was my destiny, so i strive to be the best
-lo and behold..
-every rhyme i write, you gots to chant them
-every song i sing, a national anthem
-is there a message in my music?
-if i can do it - you can do it!
-"can you dig it?" "right on" "right on!"
-the l, y, t, e, has to make
-"funky funky funky hit records" constantly!
-so in the advent of an event
-i have to invent a dope style comment
-i come off with flyin colors
-i keep my own identity, compared to no others
-it's hard to do, but i pull it through
-cause i'm lyte the mc, that's what i do
-the body snatcher, yo i gots to catch a
-mc head up, bring on a batch of
-new ones, so i can systematically do em
-the old ones, huh, i already been through em
-two by two, i do em like noah
-yes you know the time, so let's go
-the bottom line, is i'm funk bound
-k-rock and master t, let's get down
-"can you dig it?" "right on" "right on!"
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVinvent
+p4
+I1
+sVfour
+p5
+I1
+sVcatch
+p6
+I2
+sVcolors
+p7
+I1
+sVthrough
+p8
+I1
+sVgo
+p9
+I1
+sVlove
+p10
+I1
+sVrough
+p11
+I1
+sVstyle
+p12
+I2
+sVnoah
+p13
+I1
+sVtitle
+p14
+I1
+sVlo
+p15
+I1
+sVitll
+p16
+I1
+sVkrock
+p17
+I1
+sVlets
+p18
+I2
+sVmaster
+p19
+I1
+sVpiano
+p20
+I1
+sVta
+p21
+I1
+sVgrip
+p22
+I1
+sVdo
+p23
+I1
+sVthem
+p24
+I1
+sVhit
+p25
+I2
+sVyo
+p26
+I1
+sVget
+p27
+I4
+sVbeat
+p28
+I2
+sVdope
+p29
+I1
+sVspell
+p30
+I1
+sVstop
+p31
+I1
+sVpocket
+p32
+I1
+sVrecords
+p33
+I1
+sVones
+p34
+I2
+sVbiz
+p35
+I1
+sVknow
+p36
+I1
+sVnew
+p37
+I1
+sVfoot
+p38
+I1
+sVdocumented
+p39
+I1
+sVdare
+p40
+I1
+sVstrive
+p41
+I1
+sVwont
+p42
+I2
+sVdown
+p43
+I1
+sVlike
+p44
+I3
+sVbring
+p45
+I1
+sVsystematically
+p46
+I1
+sVpinch
+p47
+I1
+sVdig
+p48
+I5
+sVadvent
+p49
+I1
+sVl
+I1
+sVrockets
+p50
+I1
+sVlose
+p51
+I1
+sVsho
+p52
+I1
+sVem
+p53
+I4
+sVcharm
+p54
+I1
+sVright
+p55
+I6
+sVold
+p56
+I2
+sVten
+p57
+I1
+sVnational
+p58
+I1
+sVhard
+p59
+I1
+sVbatch
+p60
+I1
+sVborn
+p61
+I1
+sVstreet
+p62
+I1
+sVpass
+p63
+I1
+sVevent
+p64
+I1
+sVbest
+p65
+I2
+sVyes
+p66
+I1
+sVdestiny
+p67
+I1
+sVbottom
+p68
+I1
+sVways
+p69
+I2
+sVanthem
+p70
+I1
+sVpump
+p71
+I1
+sVgot
+p72
+I5
+sVcause
+p73
+I1
+sVtold
+p74
+I1
+sVbody
+p75
+I1
+sVdoubt
+p76
+I1
+sVof
+p77
+I1
+sVweak
+p78
+I1
+sVstep
+p79
+I1
+sVothers
+p80
+I1
+sVgots
+p81
+I2
+sVcome
+p82
+I1
+sVpull
+p83
+I1
+sVevery
+p84
+I2
+sVmany
+p85
+I2
+sVtracks
+p86
+I1
+sVkeep
+p87
+I1
+sVfunky
+p88
+I6
+sVnuff
+p89
+I1
+sVheartbeat
+p90
+I1
+sVwhole
+p91
+I1
+sVthats
+p92
+I1
+sVcomment
+p93
+I1
+sVsnatcher
+p94
+I1
+sValready
+p95
+I1
+sVwhats
+p96
+I1
+sVdont
+p97
+I3
+sVprevent
+p98
+I1
+sVcreatin
+p99
+I1
+sVbound
+p100
+I1
+sVpop
+p101
+I1
+sVtwo
+p102
+I2
+sVargumented
+p103
+I1
+sVpole
+p104
+I1
+sVwit
+p105
+I1
+sVsing
+p106
+I1
+sVmessage
+p107
+I1
+sVonetrack
+p108
+I1
+sVuse
+p109
+I1
+sVlyte
+p110
+I5
+sVconstantly
+p111
+I1
+sVthree
+p112
+I1
+sVlong
+p113
+I1
+sVlive
+p114
+I1
+sVmuch
+p115
+I1
+sVmusic
+p116
+I2
+sVdamn
+p117
+I1
+sVhead
+p118
+I1
+sVhuh
+p119
+I1
+sVlives
+p120
+I1
+sVbaby
+p121
+I1
+sVline
+p122
+I1
+sVhold
+p123
+I2
+sVfunk
+p124
+I1
+sVme
+p125
+I1
+sVking
+p126
+I1
+sVthumps
+p127
+I1
+sVburstin
+p128
+I1
+sVmc
+p129
+I3
+sVcant
+p130
+I3
+sVair
+p131
+I1
+sVnine
+p132
+I1
+sVchant
+p133
+I1
+sVwild
+p134
+I1
+sVgroove
+p135
+I1
+sVseven
+p136
+I1
+sVwell
+p137
+I2
+sVis
+p138
+I1
+sVmind
+p139
+I2
+sVit
+p140
+I11
+sVtopic
+p141
+I1
+sVsay
+p142
+I1
+sVim
+p143
+I3
+sVdifferent
+p144
+I1
+sVcompared
+p145
+I1
+sVmake
+p146
+I1
+sVsix
+p147
+I1
+sVwrite
+p148
+I1
+sVinch
+p149
+I1
+sVparty
+p150
+I1
+sVbehold
+p151
+I1
+sVgets
+p152
+I1
+sVplay
+p153
+I1
+sVrhyme
+p154
+I1
+sVlump
+p155
+I1
+sVeight
+p156
+I1
+sVsong
+p157
+I2
+sVidentity
+p158
+I1
+sVman
+p159
+I1
+sVa
+I1
+sVrefuse
+p160
+I1
+sVdrop
+p161
+I1
+sVe
+I1
+sVlonger
+p162
+I1
+sVflyin
+p163
+I1
+sVstronger
+p164
+I2
+sVlots
+p165
+I1
+sVwithout
+p166
+I1
+sVtime
+p167
+I1
+sVy
+I1
+sVfive
+p168
+I1
+s.

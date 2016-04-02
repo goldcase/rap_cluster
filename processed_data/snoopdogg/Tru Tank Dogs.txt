@@ -1,70 +1,526 @@
-"tru tank dogs" lyrics
-snoop dogg lyrics
-"tru tank dogs"
-(feat. mystikal)
-we been holding back to motherfukin long
-nigga fuck the dumb shit
-it's time to represent nigga
-it's time to represent nigga
-it's time to let you niggas know man
-i'm the conscious in the toolbox that's coming for the carpenter
-i'm the mirror and the comb clipping the scissors that come from the
-barber they think i'm the godfather
-i'm one of the brand new number 2 pencils out the pencil sharpener
-i'm the scarlet water out the delta faucet
-i'm the rhyming i'm the artist
-i'm vomit in the toilet
-i'm the comet when it charges
-i'm the drama in new orleans
-i'm the vegetables that grow in the garden
-all the weeds, dope,coke and alcohol at the parties
-i'm the m.i.c.h.a.e.l tyler
-i'm the loud blackka, blackka, wakka, wakka coming from behind yah
-i'm the stitches of the shirt that make the polo man trill inside the
-timberland
-i'm the bells on trigger man
-who? me that's who
-i'm the voice in the microphone coming from the booth
-i'm the ground when you think
-i'm the file on the shank
-i'm the pile in the bank
-i'm the round off the tank
-i'm that nigga mystikal
-and i'm the dogg
-that's that nigga
-i like to hustle and ball
-we them niggas
-yeah tru tank dogs
-they them niggas
-you don't want to fuck wit at all
-knuckle up nigga, knuckle up nigga
-if you sleeping i'm sneaking buckle up nigga
-knuckle up nigga, knuckle up nigga
-if you sleeping i'm trippin buckle up nigga
-i'm in a club in new orleans
-just got finished eating a batch of chicken wings with some collard
-greens
-i'm down south in the house straight turning it out
-got bitches in my face and i can slap they mouth
-with  all the shit that they be tweaking
-nigga be speaking
-game leaking, but i'm streaking
-snoop dogg ain't leaking
-my game tough and tight
-see ain't nothing like
-this g-shit nigga
-lbc shit nigga
-i'm feeling i'ma fall of in this club tonight
-where my old lady at, i'm trying to find a fight
-in this motherfucker mad drunk, stupid and shit
-ready to take off on this moteherfuckin' trick ass bitch
-old pussy ass nigga looking at me strange
-like he don't know what gang i claim
-i'ma doggpound gangsta till i fall off the planet
-god damnit, don't take it for granted biatch
-biatch get your ming right mind right, get your mind right repeat
-boot up, or shut up
-pussy ass nigga
-put your set up,or shut up
-bitch ass nigga  repeat
-where they at ho repeat
+(dp1
+Vrepresent
+p2
+I2
+sVset
+p3
+I1
+sVlyrics
+p4
+I2
+sVfall
+p5
+I2
+sVgang
+p6
+I1
+sVtimberland
+p7
+I1
+sVchicken
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVground
+p11
+I1
+sVaint
+p12
+I2
+sVorleans
+p13
+I2
+sVclaim
+p14
+I1
+sVtill
+p15
+I1
+sVtrigger
+p16
+I1
+sVcollard
+p17
+I1
+sVtyler
+p18
+I1
+sVpile
+p19
+I1
+sVgangsta
+p20
+I1
+sVbiatch
+p21
+I2
+sVgarden
+p22
+I1
+sVget
+p23
+I2
+sVsharpener
+p24
+I1
+sVblackka
+p25
+I2
+sVgame
+p26
+I2
+sVvomit
+p27
+I1
+sVknow
+p28
+I2
+sVweeds
+p29
+I1
+sVdamnit
+p30
+I1
+sVtoolbox
+p31
+I1
+sVlady
+p32
+I1
+sVwings
+p33
+I1
+sVbank
+p34
+I1
+sVdoggpound
+p35
+I1
+sVtrippin
+p36
+I1
+sVlike
+p37
+I3
+sVgreens
+p38
+I1
+sVartist
+p39
+I1
+sVmichael
+p40
+I1
+sVstupid
+p41
+I1
+sVtru
+p42
+I3
+sVround
+p43
+I1
+sVclipping
+p44
+I1
+sVnigga
+p45
+I17
+sVold
+p46
+I2
+sVhouse
+p47
+I1
+sVback
+p48
+I1
+sVup
+p49
+I2
+sVsneaking
+p50
+I1
+sVsee
+p51
+I1
+sVrepeat
+p52
+I3
+sVdumb
+p53
+I1
+sVbooth
+p54
+I1
+sVmirror
+p55
+I1
+sVturning
+p56
+I1
+sVout
+p57
+I1
+sVplanet
+p58
+I1
+sValcohol
+p59
+I1
+sVgod
+p60
+I1
+sVlooking
+p61
+I1
+sVbehind
+p62
+I1
+sVstreaking
+p63
+I1
+sVnew
+p64
+I3
+sVhustle
+p65
+I1
+sVass
+p66
+I4
+sVima
+p67
+I2
+sVshut
+p68
+I2
+sVeating
+p69
+I1
+sVmouth
+p70
+I1
+sVgot
+p71
+I2
+sVmotherfucker
+p72
+I1
+sVwater
+p73
+I1
+sVlet
+p74
+I1
+sVput
+p75
+I1
+sVcomb
+p76
+I1
+sVcome
+p77
+I1
+sVfaucet
+p78
+I1
+sVfeeling
+p79
+I1
+sVming
+p80
+I1
+sVdrama
+p81
+I1
+sVcomet
+p82
+I1
+sVloud
+p83
+I1
+sVthink
+p84
+I2
+sVsouth
+p85
+I1
+sVthats
+p86
+I3
+sVrhyming
+p87
+I1
+sVtough
+p88
+I1
+sVdont
+p89
+I3
+sVdrunk
+p90
+I1
+sVpussy
+p91
+I2
+sVnumber
+p92
+I1
+sVone
+p93
+I1
+sVwit
+p94
+I1
+sVbitch
+p95
+I2
+sVright
+p96
+I3
+sVparties
+p97
+I1
+sVpolo
+p98
+I1
+sVscissors
+p99
+I1
+sVstraight
+p100
+I1
+sVstitches
+p101
+I1
+sVsnoop
+p102
+I2
+sVdogg
+p103
+I3
+sVvegetables
+p104
+I1
+sVlong
+p105
+I1
+sVfight
+p106
+I1
+sV2
+I1
+sVyah
+p107
+I1
+sVknuckle
+p108
+I4
+sVdogs
+p109
+I3
+sVspeaking
+p110
+I1
+sVpencil
+p111
+I1
+sVshank
+p112
+I1
+sVclub
+p113
+I2
+sVbrand
+p114
+I1
+sVbitches
+p115
+I1
+sVleaking
+p116
+I2
+sVyeah
+p117
+I1
+sVfinished
+p118
+I1
+sVho
+p119
+I1
+sVdelta
+p120
+I1
+sVtrying
+p121
+I1
+sVtank
+p122
+I4
+sVniggas
+p123
+I3
+sVinside
+p124
+I1
+sVmotherfukin
+p125
+I1
+sVbatch
+p126
+I1
+sVtrick
+p127
+I1
+sVtweaking
+p128
+I1
+sVvoice
+p129
+I1
+sVtoilet
+p130
+I1
+sVwant
+p131
+I1
+sVmind
+p132
+I2
+sVfuck
+p133
+I2
+sVslap
+p134
+I1
+sVsleeping
+p135
+I2
+sVtonight
+p136
+I1
+sVscarlet
+p137
+I1
+sVlbc
+p138
+I1
+sVim
+p139
+I29
+sVfile
+p140
+I1
+sVready
+p141
+I1
+sVshit
+p142
+I4
+sVmicrophone
+p143
+I1
+sVgshit
+p144
+I1
+sVshirt
+p145
+I1
+sVtrill
+p146
+I1
+sVmake
+p147
+I1
+sVboot
+p148
+I1
+sVtight
+p149
+I1
+sVstrange
+p150
+I1
+sVtake
+p151
+I2
+sVholding
+p152
+I1
+sVmoteherfuckin
+p153
+I1
+sVbells
+p154
+I1
+sVball
+p155
+I1
+sVgodfather
+p156
+I1
+sVdopecoke
+p157
+I1
+sVwho
+p158
+I1
+sVcarpenter
+p159
+I1
+sVupor
+p160
+I1
+sVbarber
+p161
+I1
+sVmad
+p162
+I1
+sVcoming
+p163
+I3
+sVnothing
+p164
+I1
+sVgrow
+p165
+I1
+sVman
+p166
+I3
+sVpencils
+p167
+I1
+sVconscious
+p168
+I1
+sVcharges
+p169
+I1
+sVbuckle
+p170
+I2
+sVface
+p171
+I1
+sVtime
+p172
+I3
+sVmystikal
+p173
+I2
+sVgranted
+p174
+I1
+sVwakka
+p175
+I2
+s.

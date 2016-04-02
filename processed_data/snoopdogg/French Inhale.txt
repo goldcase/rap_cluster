@@ -1,38 +1,307 @@
-"french inhale" lyrics
-snoop dogg lyrics
-"french inhale"
-(with wiz khalifa)
-(feat. mike posner)
-french inhale, i like the way you french inhale
-do it again
-french inhale, i like the way you french inhale
-do it again
-you don’t gotta sell it, cuz its already sold
-and you don’t gotta roll one cuz its already rolled
-check out my technique, just weed let it fold
-shit i’ve been smokin’ since i was 14 years old
-i had a dime who never smoked blunts just bowls
-taught me how to blow o’s, inhale threw my nose
-so if you see me smoking ‘ blow my high
-uh, so i roll one and we both gonna fly
-you smell it all in my clothes
-i'm taking in all the smoke when i…
-french inhale, i like the way you french inhale
-do it again
-french inhale, i like the way you french inhale
-do it again
-i take it to the face, inhale it threw my nose
-blowin’ with the homies on the low, man fuck these hoes!
-it crackalack, peel it back
-whatcha call that mack who crack a bad bitch like that?
-a cracker jack!
-i'm like a florist, touring like a tourist
-godzilla flying on a pegasaurus
-niggas know about it, even ‘fore i pull it out
-i put some fire on it, and now there beggin me to put it out
-i’m in the hallway rolling on the purple syke
-i know the in’s and out’s so i’mma do what the fuck i like
-french inhale, i like the way you french inhale
-do it again
-french inhale, i like the way you french inhale
-do it again
+(dp1
+Vi\u2019mma
+p2
+I1
+sVlyrics
+p3
+I2
+sVyears
+p4
+I1
+sV\u2018
+I1
+sVfeat
+p5
+I1
+sVblow
+p6
+I2
+sVtechnique
+p7
+I1
+sVcuz
+p8
+I2
+sVhomies
+p9
+I1
+sVpegasaurus
+p10
+I1
+sVta
+p11
+I2
+sVsyke
+p12
+I1
+sVtourist
+p13
+I1
+sVgodzilla
+p14
+I1
+sVi\u2019m
+p15
+I1
+sVjack
+p16
+I1
+sVbeggin
+p17
+I1
+sVlike
+p18
+I10
+sVbad
+p19
+I1
+sVnose
+p20
+I2
+sVwhatcha
+p21
+I1
+sVclothes
+p22
+I1
+sVold
+p23
+I1
+sVcrackalack
+p24
+I1
+sVkhalifa
+p25
+I1
+sVback
+p26
+I1
+sVbowls
+p27
+I1
+sVfold
+p28
+I1
+sVsee
+p29
+I1
+sVtaught
+p30
+I1
+sVhoes
+p31
+I1
+sVout
+p32
+I2
+sVeven
+p33
+I1
+sVgon
+p34
+I1
+sVpurple
+p35
+I1
+sVsince
+p36
+I1
+sVgot
+p37
+I2
+sVblowin\u2019
+p38
+I1
+sVpeel
+p39
+I1
+sVrolled
+p40
+I1
+sVsold
+p41
+I1
+sVnever
+p42
+I1
+sVo\u2019s
+p43
+I1
+sVfrench
+p44
+I14
+sVlet
+p45
+I1
+sVput
+p46
+I2
+sVweed
+p47
+I1
+sVtaking
+p48
+I1
+sVsmoke
+p49
+I1
+sVi\u2019ve
+p50
+I1
+sValready
+p51
+I2
+sVtouring
+p52
+I1
+sVone
+p53
+I2
+sVbitch
+p54
+I1
+sVflorist
+p55
+I1
+sVwiz
+p56
+I1
+sVblunts
+p57
+I1
+sVinhale
+p58
+I16
+sVsnoop
+p59
+I1
+sVsmokin\u2019
+p60
+I1
+sVdogg
+p61
+I1
+sVflying
+p62
+I1
+sVcall
+p63
+I1
+sVdon\u2019t
+p64
+I2
+sVway
+p65
+I6
+sVman
+p66
+I1
+sVlow
+p67
+I1
+sVmike
+p68
+I1
+sVin\u2019s
+p69
+I1
+sVthat
+p70
+I1
+sVfire
+p71
+I1
+sVcrack
+p72
+I1
+sVsmoking
+p73
+I1
+sVfly
+p74
+I1
+sVpull
+p75
+I1
+sV14
+p76
+I1
+sVniggas
+p77
+I1
+sVcracker
+p78
+I1
+sVuh
+p79
+I1
+sVthrew
+p80
+I2
+sVfuck
+p81
+I2
+sVhigh
+p82
+I1
+sVim
+p83
+I2
+sVcheck
+p84
+I1
+sVshit
+p85
+I1
+sVsell
+p86
+I1
+sVagain
+p87
+I6
+sVna
+p88
+I1
+sVtake
+p89
+I1
+sVsmell
+p90
+I1
+sVroll
+p91
+I2
+sVhallway
+p92
+I1
+sVdime
+p93
+I1
+sVposner
+p94
+I1
+sVout\u2019s
+p95
+I1
+sVrolling
+p96
+I1
+sVmack
+p97
+I1
+sVi\u2026
+p98
+I1
+sVface
+p99
+I1
+sV\u2018fore
+p100
+I1
+sVsmoked
+p101
+I1
+sVknow
+p102
+I2
+s.

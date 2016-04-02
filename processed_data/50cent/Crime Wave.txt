@@ -1,62 +1,422 @@
-"crime wave" lyrics
-50 cent lyrics
-"crime wave"
-yeah! yeah yeah yeah yeah!!!!
-when the strap out, you know what that 'bout
-we do it my way, cause a crime wave
-whoa!!! wave!!! whoa!!! wave!!!
-i wave the heat deep, with my right to speak
-leave the clip y'all, and talk shit y'all
-whoa!!! wave!!! whoa!!! wave!!!
-i'm not tellin you to shoot somebody, but if somebody try to shoot you shoot 'em
-don't waste time, lil' nigga just do it
-any nigga out of order, must be serviced
-see now now you hesitatin boy you makin me nervous
-the feds know i clap heat felonies on my rap sheet
-front on me try to run from me hollows be up your back b!
-pistol pop, dime for dime, burn baby burn
-revolver spinnin again and again you niggas never learn
-got a itchy itchy itchy itchy trigger finger nigga
-so if you hit me and you get me i'll be back to get ya
-man i might bring the homies in that's if it's necessary
-see you might not be worried, but i think you should worry
-them bullets come in flurrie, next thing you know you're buried
-yeah!!! i do away with nine niggas in nine days
-my nine sprays, which it don't go my way
-hold it sideways, fuck around cause a crimewave
-when the strap out, you know what that 'bout
-we do it my way, cause a crime wave
-whoa!!! wave!!! whoa!!! wave!!!
-i wave the heat deep, with my right to speak
-leave the clip y'all, and talk shit y'all
-whoa!!! wave!!! whoa!!! wave!!!
-yeah yeah yeah!!!! yeah yeah yeah!!!!
-yeah yeah yeah yeah!!!!!
-i talk about my arsenal, i rap about my infantry
-them crackers they be scared of me, the hood man, they into me
-yeah! - i'm #1 on forbes
-yeah!! - they can't fuck witcha boy
-'tack time is crank time, i flip that, get that back
-louie v. napsack filled up with g-stacks
-i'm sick in the head, me i'm all 'bout the bread
-go 'head fuck with the kid, see it's just what i said
-see the stash, i'm makin double makin kilos bubble
-{?} stop, boy i cut you til' your ma don't know you
-see when we play them +warriors+ come out to play
-you wanna play? get your ass laid out today
-see i'm back on the shit i was on before
-so if a nigga try to stunt, we gon' take 'em to war
-when the strap out, you know what that 'bout
-we do it my way, cause a crime wave
-whoa!!! wave!!! whoa!!! wave!!!
-i wave the heat deep, with my right to speak
-leave the clip y'all, and talk shit y'all
-whoa!!! wave!!! whoa!!! wave!!!
-ohhhhhhhh yeah!!!!!! ohhhhhhhh yeah!!!!!!
-yeah yeah yeah yeah!!!!!
-man, i be on some other shit, these niggas can't fuck with me
-yeah!!
-ohhhhhhhh yeah!!!!! ohhhhhhhh yeah!!!!!!
-yeah yeah yeah yeah!!!!!
-the homie said he fuck with me, i have him hit ya up for me
-yeah! yeah yeah yeah yeah!!!!!
+(dp1
+Vlyrics
+p2
+I2
+sVbring
+p3
+I1
+sVgo
+p4
+I2
+sVbefore
+p5
+I1
+sVtil
+p6
+I1
+sVcut
+p7
+I1
+sVnervous
+p8
+I1
+sVflurrie
+p9
+I1
+sVcrime
+p10
+I5
+sVsprays
+p11
+I1
+sVforbes
+p12
+I1
+sVgon
+p13
+I1
+sVhomies
+p14
+I1
+sVbout
+p15
+I4
+sVmight
+p16
+I2
+sVtake
+p17
+I1
+sVme
+p18
+I3
+sVhit
+p19
+I2
+sVaround
+p20
+I1
+sVget
+p21
+I4
+sVya
+p22
+I2
+sVstop
+p23
+I1
+sVwave
+p24
+I20
+sVknow
+p25
+I6
+sVkid
+p26
+I1
+sVfront
+p27
+I1
+sVstunt
+p28
+I1
+sVyou
+p29
+I1
+sVbread
+p30
+I1
+sVnecessary
+p31
+I1
+sV50
+p32
+I1
+sVworried
+p33
+I1
+sVtry
+p34
+I3
+sVclap
+p35
+I1
+sVlouie
+p36
+I1
+sVem
+p37
+I2
+sVright
+p38
+I3
+sVscared
+p39
+I1
+sVyeah
+p40
+I36
+sVkilos
+p41
+I1
+sVsee
+p42
+I6
+sVleave
+p43
+I3
+sVgstacks
+p44
+I1
+sVaway
+p45
+I1
+sVrevolver
+p46
+I1
+sVlaid
+p47
+I1
+sVfinger
+p48
+I1
+sVgot
+p49
+I1
+sVpistol
+p50
+I1
+sVcause
+p51
+I4
+sVfilled
+p52
+I1
+sVass
+p53
+I1
+sVburn
+p54
+I2
+sVrun
+p55
+I1
+sVsideways
+p56
+I1
+sVnever
+p57
+I1
+sVfelonies
+p58
+I1
+sVwitcha
+p59
+I1
+sVfuck
+p60
+I5
+sVcome
+p61
+I2
+sVboy
+p62
+I3
+sVill
+p63
+I1
+sVdays
+p64
+I1
+sVthing
+p65
+I1
+sVyall
+p66
+I6
+sVbullets
+p67
+I1
+sVthink
+p68
+I1
+sVthats
+p69
+I1
+sVdont
+p70
+I3
+sVnapsack
+p71
+I1
+sVmakin
+p72
+I3
+sVpop
+p73
+I1
+sVstrap
+p74
+I3
+sVna
+p75
+I1
+sVnigga
+p76
+I4
+sVnext
+p77
+I1
+sVhood
+p78
+I1
+sVspeak
+p79
+I3
+sVwan
+p80
+I1
+sVsheet
+p81
+I1
+sVcent
+p82
+I1
+sVhollows
+p83
+I1
+sVtrigger
+p84
+I1
+sVway
+p85
+I4
+sVspinnin
+p86
+I1
+sVwaste
+p87
+I1
+sVbubble
+p88
+I1
+sVwhoa
+p89
+I12
+sVtoday
+p90
+I1
+sVhead
+p91
+I2
+sVsaid
+p92
+I2
+sVohhhhhhhh
+p93
+I4
+sVback
+p94
+I4
+sVheat
+p95
+I4
+sVcrank
+p96
+I1
+sVbaby
+p97
+I1
+sVhold
+p98
+I1
+sVmust
+p99
+I1
+sVshoot
+p100
+I3
+sVb
+I1
+sVma
+p101
+I1
+sVniggas
+p102
+I3
+sVdouble
+p103
+I1
+sVflip
+p104
+I1
+sVtellin
+p105
+I1
+sVwar
+p106
+I1
+sVnine
+p107
+I3
+sVlearn
+p108
+I1
+sVcrackers
+p109
+I1
+sVarsenal
+p110
+I1
+sVv
+I1
+sVclip
+p111
+I3
+sVinfantry
+p112
+I1
+sVit
+p113
+I1
+sVdeep
+p114
+I3
+sVcant
+p115
+I2
+sVhomie
+p116
+I1
+sVim
+p117
+I6
+sVburied
+p118
+I1
+sVrap
+p119
+I2
+sVsomebody
+p120
+I2
+sVshit
+p121
+I5
+sVlil
+p122
+I1
+sVwarriors
+p123
+I1
+sV1
+I1
+sVhesitatin
+p124
+I1
+sVworry
+p125
+I1
+sVsick
+p126
+I1
+sVitchy
+p127
+I4
+sVplay
+p128
+I3
+sVdime
+p129
+I2
+sVserviced
+p130
+I1
+sVtack
+p131
+I1
+sVfeds
+p132
+I1
+sVman
+p133
+I3
+sVcrimewave
+p134
+I1
+sVyoure
+p135
+I1
+sVstash
+p136
+I1
+sVtime
+p137
+I3
+sVorder
+p138
+I1
+sVtalk
+p139
+I4
+s.

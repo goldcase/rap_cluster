@@ -1,83 +1,559 @@
-"reminder" lyrics
-jay-z lyrics
-"reminder"
-all rhymers with alzheimers line up please,
-all mommies with mind freeze please line up please,
-all bloggers with comments,
-please i come in peace,
-see if we can kill your amnesia by the time i leave,
-all mommies i harbour for vouch for me,
-tell em bout the time all your mommas couch mommy
-all hustlas who ever bought an eighth from me,
-take the time out to set the record straight for me,
-remember me, silver bullet hard top mentally
-they think think i'm outta shape so i have to jog there memory,
-think with indelible ink, i let the pen go,
-verses permanently tattooed serve as mementos,
-ah, im so mental, my track record speaks for itself,
-im so instrumental,
-allow me to rekindle lets all reminisce like mary did,
-think i have to send you a reminder,
-here it is,
-reminder
-reminder,
-i got it if you need it,
-a reminder
-reminder
-reminder,
-think i better give you a reminder,
-reminder
-reminder,
-i got it if you need it,
-a reminder
-reminder
-reminder,
-cos i can give you a friendly reminder,
-ah,
-what the hell have you done,
-to even have an opinion on what i been doing,
-what the hell have y'all won,
-only thing you can identify with is losing,
-10 number 1 albums in a row,
-who better than me?
-only the beatles nobody ahead of me,
-i crush elvis in his blue suede shoes,
-made the rolling stones seem sweet as coolaid 2,
-96, 97, 98, 99, 2000, 2001 and beyond,
-02, 03, 04, 05, 06 and 7, 08, 09
-back to back double plat, i did what you want,
-men lie women lie, numbers don't,
-ain't nothing changed for me except the year it is,
-i think have to send you a reminder, here it is
-reminder
-reminder,
-i got it if you need it,
-a reminder
-reminder
-reminder,
-think i better give you a reminder,
-reminder
-reminder,
-i got it if you need it,
-a reminder
-reminder
-reminder,
-cos i can give you a friendly reminder,
-do what i done without crying in the environment and what ya'll did it in without dying my n-gga,
-rap like i rap without lying and then tying both together like iron my n-gga,
-write 16's in between running 16 businesses,
-all the while showing these young punks what the business is,
-as if i'm gonna let you n-ggas style on me,
-as if,
-now everybody senile on me,
-go back to boonback,
-remember those button ups,
-young hov,
-tell them ordinary joes button up,
-i destroy your 4 points o's
-and benz 500 and all points to ohhhh,
-now you n-ggas 'memba me,
-how you forget, back to johnnys album cover,
-red and blue gucci sh-t,
-ain't nothing changed but the year it is,
-i think i have to send you a reminder here it is,
+(dp1
+Vstones
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVrhymers
+p5
+I1
+sVverses
+p6
+I1
+sVshape
+p7
+I1
+sVkill
+p8
+I1
+sVgo
+p9
+I2
+sVhell
+p10
+I2
+sValbum
+p11
+I1
+sVmommies
+p12
+I2
+sValbums
+p13
+I1
+sVrow
+p14
+I1
+sVaint
+p15
+I2
+sVcrush
+p16
+I1
+sVstyle
+p17
+I1
+sVexcept
+p18
+I1
+sVsend
+p19
+I3
+sVreminisce
+p20
+I1
+sVlets
+p21
+I1
+sVpermanently
+p22
+I1
+sVnggas
+p23
+I2
+sVcrying
+p24
+I1
+sVbout
+p25
+I1
+sVwomen
+p26
+I1
+sVfriendly
+p27
+I2
+sVbeatles
+p28
+I1
+sVshowing
+p29
+I1
+sVrekindle
+p30
+I1
+sVsilver
+p31
+I1
+sVboonback
+p32
+I1
+sVsht
+p33
+I1
+sVlike
+p34
+I3
+sVdid
+p35
+I1
+sVbutton
+p36
+I2
+sVleave
+p37
+I1
+sVjoes
+p38
+I1
+sVidentify
+p39
+I1
+sVngga
+p40
+I2
+sVups
+p41
+I1
+sVyall
+p42
+I2
+sVem
+p43
+I1
+sVset
+p44
+I1
+sVmental
+p45
+I1
+sVdoing
+p46
+I1
+sVhard
+p47
+I1
+sVback
+p48
+I4
+sVfreeze
+p49
+I1
+sVsee
+p50
+I1
+sVyear
+p51
+I2
+sVbeyond
+p52
+I1
+sVpoints
+p53
+I2
+sVeven
+p54
+I1
+sV03
+p55
+I1
+sVgon
+p56
+I1
+sV06
+p57
+I1
+sV04
+p58
+I1
+sV05
+p59
+I1
+sVtattooed
+p60
+I1
+sV08
+p61
+I1
+sV09
+p62
+I1
+sVplease
+p63
+I4
+sVcomments
+p64
+I1
+sVmementos
+p65
+I1
+sVpen
+p66
+I1
+sVwon
+p67
+I1
+sV7
+I1
+sVgot
+p68
+I4
+sVever
+p69
+I1
+sVred
+p70
+I1
+sVbought
+p71
+I1
+sVbusiness
+p72
+I1
+sVcoolaid
+p73
+I1
+sVmen
+p74
+I1
+sVpunks
+p75
+I1
+sVbloggers
+p76
+I1
+sVlet
+p77
+I2
+sVjog
+p78
+I1
+sVlosing
+p79
+I1
+sVcome
+p80
+I1
+sVordinary
+p81
+I1
+sVhov
+p82
+I1
+sVcos
+p83
+I2
+sVahead
+p84
+I1
+sVenvironment
+p85
+I1
+sV02
+p86
+I1
+sVmemba
+p87
+I1
+sVthing
+p88
+I1
+sVjohnnys
+p89
+I1
+sVsuede
+p90
+I1
+sVopinion
+p91
+I1
+sVos
+p92
+I1
+sVthink
+p93
+I8
+sVbusinesses
+p94
+I1
+sVhustlas
+p95
+I1
+sVdont
+p96
+I1
+sVsweet
+p97
+I1
+sVmommy
+p98
+I1
+sVnumber
+p99
+I1
+sVharbour
+p100
+I1
+sVyoung
+p101
+I2
+sVnothing
+p102
+I2
+sVjayz
+p103
+I1
+sVdone
+p104
+I2
+sVforget
+p105
+I1
+sV16s
+p106
+I1
+sVeverybody
+p107
+I1
+sVbetter
+p108
+I3
+sVsenile
+p109
+I1
+sVtop
+p110
+I1
+sV2
+I1
+sVamnesia
+p111
+I1
+sVmemory
+p112
+I1
+sVtell
+p113
+I2
+sV500
+p114
+I1
+sV4
+I1
+sVelvis
+p115
+I1
+sVnobody
+p116
+I1
+sVserve
+p117
+I1
+sVinstrumental
+p118
+I1
+sV98
+p119
+I1
+sVvouch
+p120
+I1
+sVtying
+p121
+I1
+sVline
+p122
+I2
+sV97
+p123
+I1
+sV96
+p124
+I1
+sVme
+p125
+I8
+sV10
+p126
+I1
+sVmade
+p127
+I1
+sV16
+p128
+I1
+sVdouble
+p129
+I1
+sVstraight
+p130
+I1
+sVup
+p131
+I1
+sVmary
+p132
+I1
+sVmommas
+p133
+I1
+sVrecord
+p134
+I2
+sVgucci
+p135
+I1
+sViron
+p136
+I1
+sVchanged
+p137
+I2
+sVoutta
+p138
+I1
+sVrap
+p139
+I2
+sVgive
+p140
+I4
+sVah
+p141
+I2
+sVis
+p142
+I6
+sVbenz
+p143
+I1
+sVmind
+p144
+I1
+sVit
+p145
+I4
+sVitself
+p146
+I1
+sVim
+p147
+I4
+sVnumbers
+p148
+I1
+sVwant
+p149
+I1
+sVink
+p150
+I1
+sVneed
+p151
+I4
+sVseem
+p152
+I1
+sVohhhh
+p153
+I1
+sVif
+p154
+I1
+sVlie
+p155
+I2
+sVdying
+p156
+I1
+sVna
+p157
+I1
+sVwrite
+p158
+I1
+sVpeace
+p159
+I1
+sValzheimers
+p160
+I1
+sVcouch
+p161
+I1
+sV1
+I1
+sVwithout
+p162
+I3
+sVtake
+p163
+I1
+sVdestroy
+p164
+I1
+sVreminder
+p165
+I29
+sVspeaks
+p166
+I1
+sVblue
+p167
+I2
+sVtrack
+p168
+I1
+sVindelible
+p169
+I1
+sVplat
+p170
+I1
+sVrunning
+p171
+I1
+sVrolling
+p172
+I1
+sVeighth
+p173
+I1
+sVmentally
+p174
+I1
+sV99
+p175
+I1
+sVremember
+p176
+I2
+sVbullet
+p177
+I1
+sVcover
+p178
+I1
+sVtogether
+p179
+I1
+sV2000
+p180
+I1
+sV2001
+p181
+I1
+sVallow
+p182
+I1
+sVtime
+p183
+I3
+sVlying
+p184
+I1
+s.

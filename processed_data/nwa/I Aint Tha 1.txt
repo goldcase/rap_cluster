@@ -1,99 +1,769 @@
-"i ain't tha 1" lyrics
-n.w.a. lyrics
-"i ain't tha 1"
-(feat. ice cube)
-(ice cube, do you think you could give me some money to get my hair done?)
-how short's your hair right now?
-(well you know i get it done every week, and i need my nails done too)
-look, i'ma tell you like this
-i ain't the one, the one to get played like a pooh butt
-see i'm from the street, so i know what's up
-on these silly games that's played by the women
-i'm only happy when i'm goin up in em
-but you know, i'm a menace to society
-but girls in biker shorts are so fly to me
-so i step to em, with aggression
-listen to the kid, and learn a lesson today
-see they think we narrow minded
-cause they got a cute face, and big-behinded
-so i walk over and say "how ya doin?"
-see i'm only down for screwin, but you know
-ya gotta play it off cool
-cause if they catch you slippin, you'll get schooled
-and they'll get you for your money, son
-next thing you know you're gettin their hair and they nails done
-fool, and they'll let you show em off
-but when it comes to sex, they got a bad cough
-or a headache, it's all give and no take
-run out of money, and watch your heart break
-they'll drop you like a bad habit
-cause a brother with money yo, they gotta have it
-messin with me though, they gets none
-you can't juice ice cube girl, cause i ain't the one
-(girrrrrl, you got to get these brothers for all the money
-you can honey.  cause if they ain't got no money, they can't
-do nothin for me but get out of my face.)
-(i know what you mean girl, it ain't nothin right jumpin off
-unless he got dollars)
-sometimes i used to wonder
-how the hell an ugly dude get a fine girl's number
-he's gettin juiced for his ducats
-i tell a girl in a minute yo, i drive a bucket
-and won't think nuttin of it
-she can ride or walk, either leave it or love it
-i show her that i'm not the o, the n-e, say
-i'm a ruthless n-i double-g a
-cause i'm gamin on a female that's gamin on me
-you know i spell girl with a b
-a brother like me is only out for one thing
-i think with my ding-a-ling, but i won't bring no
-flowers to your doorstep, when we goin out
-cause you'll take it for granted, no doubt
-and after the date, i'ma want to do the wild thing
-you want lobster huh?  i'm thinking burger king
-and when i take you, you get frustrated
-you can't juice ice cube and you hate it
-but you see, i don't go nuts
-over girls like you with the big ol butts
-it start comin out the pocket, to knock it
-but when the damage is done...
-you can only lay me girl, you can't play me girl
-for the simple fact that, i ain't the one
-(i don't care how they look if they got money,
-we can hook up but they ain't gettin none.)
-(yeah i just make em think they gonna get some,
-play up they mind a lil bit, and get that money.)
-(oh ice cube, can i have some money pleeeease?)
-give you money why bother
-cause you know i'm lookin nothin like your father
-girl, i can't be played or ganked
-ganked means getting took for your bank
-or your gold or your money or something
-nine times outta ten, she's giving up nothing
-they get mad when i put it in perspective
-but let's see if my knowledge is effective
-to the brothas man they robbing you blind
-cause they fine with a big behind, but pay it no mind
-keep your money to yourself homie
-and if you got enough game
-you'll get her name and her number
-without going under
-you can't leave em and love and stay above em
-i used to get no play now she stay behind me
-cause i said i had a benz 190
-but i lied and played the one
-just to get some now she feels dumb
-to my homies it's funny
-but that's what you get trying to play me for my money
-now don't you feel used
-but i don't give hoot, huh, because i knock boots
-you shouldn't be, so damn material
-and try to milk ice cube like cereal
-now how many times do i have to say it
-cause if i have to go get a gun
-you girls will learn i don't burn
-you think i'm a sucka, but i ain't the one
-(but you said you love me!)
-i don't see no rings on this finger
-(why you doin me like this?  i love you!)
-yeah you love my money, i got what i wanted - beat it
+(dp1
+Vcute
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I2
+sVmoney
+p5
+I14
+sVdamage
+p6
+I1
+sVbring
+p7
+I1
+sVbiker
+p8
+I1
+sVnwa
+p9
+I1
+sVslippin
+p10
+I1
+sVhell
+p11
+I1
+sVfeat
+p12
+I1
+sVmilk
+p13
+I1
+sVaggression
+p14
+I1
+sVaint
+p15
+I9
+sVnow
+p16
+I1
+sVgold
+p17
+I1
+sVthinking
+p18
+I1
+sVtrying
+p19
+I1
+sVfather
+p20
+I1
+sVenough
+p21
+I1
+sVfeel
+p22
+I1
+sVlets
+p23
+I1
+sVgoing
+p24
+I1
+sVganked
+p25
+I2
+sVbank
+p26
+I1
+sVunder
+p27
+I1
+sVta
+p28
+I2
+sVfool
+p29
+I1
+sVfly
+p30
+I1
+sVcube
+p31
+I6
+sVyo
+p32
+I2
+sVget
+p33
+I17
+sVya
+p34
+I2
+sVbig
+p35
+I2
+sVspell
+p36
+I1
+sVwatch
+p37
+I1
+sVhate
+p38
+I1
+sVbreak
+p39
+I1
+sVgame
+p40
+I1
+sVevery
+p41
+I1
+sVminded
+p42
+I1
+sVbit
+p43
+I1
+sVson
+p44
+I1
+sVminute
+p45
+I1
+sVcool
+p46
+I1
+sVwont
+p47
+I2
+sVknock
+p48
+I2
+sVlike
+p49
+I8
+sVyoull
+p50
+I3
+sVgettin
+p51
+I3
+sVbrother
+p52
+I2
+sVshouldnt
+p53
+I1
+sVleave
+p54
+I2
+sVbad
+p55
+I2
+sVeither
+p56
+I1
+sVman
+p57
+I1
+sVfunny
+p58
+I1
+sVout
+p59
+I1
+sVbother
+p60
+I1
+sVmean
+p61
+I1
+sVem
+p62
+I6
+sVright
+p63
+I2
+sVnuttin
+p64
+I1
+sVten
+p65
+I1
+sVhabit
+p66
+I1
+sVdingaling
+p67
+I1
+sVsome
+p68
+I1
+sVyeah
+p69
+I2
+sVboots
+p70
+I1
+sVsex
+p71
+I1
+sVhair
+p72
+I3
+sVsociety
+p73
+I1
+sVsee
+p74
+I6
+sVstreet
+p75
+I1
+sVlobster
+p76
+I1
+sVshes
+p77
+I1
+sVgo
+p78
+I2
+sVrobbing
+p79
+I1
+sVgirl
+p80
+I7
+sVdoorstep
+p81
+I1
+sVwonder
+p82
+I1
+sVnothing
+p83
+I1
+sVmaterial
+p84
+I1
+sVgon
+p85
+I1
+sVruthless
+p86
+I1
+sVfine
+p87
+I2
+sVrings
+p88
+I1
+sVice
+p89
+I6
+sVbehind
+p90
+I2
+sVfinger
+p91
+I1
+sVgot
+p92
+I10
+sVcause
+p93
+I11
+sVgirrrrrl
+p94
+I1
+sVima
+p95
+I2
+sVburn
+p96
+I1
+sVrun
+p97
+I1
+sVlove
+p98
+I5
+sVnails
+p99
+I2
+sVlearn
+p100
+I2
+sVbutts
+p101
+I1
+sVstep
+p102
+I1
+sVlet
+p103
+I1
+sVput
+p104
+I1
+sVcough
+p105
+I1
+sVcare
+p106
+I1
+sVol
+p107
+I1
+sVgun
+p108
+I1
+sVoh
+p109
+I1
+sVmany
+p110
+I1
+sVcould
+p111
+I1
+sVo
+I1
+sVtimes
+p112
+I2
+sVthing
+p113
+I3
+sVgames
+p114
+I1
+sVlookin
+p115
+I1
+sVnarrow
+p116
+I1
+sVthink
+p117
+I6
+sVcomes
+p118
+I1
+sVthats
+p119
+I3
+sVblind
+p120
+I1
+sVheadache
+p121
+I1
+sVwhats
+p122
+I1
+sVdont
+p123
+I6
+sVlied
+p124
+I1
+sVsimple
+p125
+I1
+sVdude
+p126
+I1
+sVnumber
+p127
+I2
+sVhoot
+p128
+I1
+sVone
+p129
+I7
+sVhook
+p130
+I1
+sVdone
+p131
+I5
+sVfemale
+p132
+I1
+sVcomin
+p133
+I1
+sVlesson
+p134
+I1
+sVwanted
+p135
+I1
+sVhes
+p136
+I1
+sVnine
+p137
+I1
+sVgive
+p138
+I4
+sVgirls
+p139
+I4
+sVnext
+p140
+I1
+sVmessin
+p141
+I1
+sVstart
+p142
+I1
+sVdoubt
+p143
+I1
+sVdamn
+p144
+I1
+sVtoo
+p145
+I1
+sVpleeeease
+p146
+I1
+sVkid
+p147
+I1
+sVtell
+p148
+I2
+sVtoday
+p149
+I1
+sVlisten
+p150
+I1
+sVfeels
+p151
+I1
+sVname
+p152
+I1
+sVshorts
+p153
+I2
+sVknowledge
+p154
+I1
+sVmad
+p155
+I1
+sVhomies
+p156
+I1
+sVhuh
+p157
+I2
+sVtook
+p158
+I1
+sVcant
+p159
+I6
+sV190
+p160
+I1
+sVbrothas
+p161
+I1
+sVcereal
+p162
+I1
+sVbutt
+p163
+I1
+sVcatch
+p164
+I1
+sVflowers
+p165
+I1
+sVwomen
+p166
+I1
+sVme
+p167
+I4
+sVking
+p168
+I1
+sVnone
+p169
+I2
+sVb
+I1
+sVlook
+p170
+I2
+sVburger
+p171
+I1
+sVthis
+p172
+I1
+sVride
+p173
+I1
+sVgetting
+p174
+I1
+sVbucket
+p175
+I1
+sVup
+p176
+I1
+sVdoubleg
+p177
+I1
+sVugly
+p178
+I1
+sVsilly
+p179
+I1
+sVschooled
+p180
+I1
+sVwild
+p181
+I1
+sVdumb
+p182
+I1
+sVbigbehinded
+p183
+I1
+sVhappy
+p184
+I1
+sVdollars
+p185
+I1
+sVsucka
+p186
+I1
+sVperspective
+p187
+I1
+sVheart
+p188
+I1
+sVsometimes
+p189
+I1
+sVoutta
+p190
+I1
+sVplayed
+p191
+I4
+sVbenz
+p192
+I1
+sVmind
+p193
+I2
+sVit
+p194
+I7
+sVhoney
+p195
+I1
+sVjuice
+p196
+I2
+sVsay
+p197
+I3
+sVhomie
+p198
+I1
+sVim
+p199
+I11
+sVsomething
+p200
+I1
+sVwant
+p201
+I2
+sVneed
+p202
+I1
+sVkeep
+p203
+I1
+sVni
+p204
+I1
+sVtheyll
+p205
+I3
+sVscrewin
+p206
+I1
+sVno
+p207
+I1
+sVlil
+p208
+I1
+sVna
+p209
+I1
+sVgranted
+p210
+I1
+sVmeans
+p211
+I1
+sVnuts
+p212
+I1
+sVne
+p213
+I1
+sV1
+I2
+sVbeat
+p214
+I1
+sVwithout
+p215
+I1
+sVtake
+p216
+I3
+sVyou
+p217
+I1
+sVgets
+p218
+I1
+sVweek
+p219
+I1
+sVplay
+p220
+I5
+sVused
+p221
+I3
+sVunless
+p222
+I1
+sVbrothers
+p223
+I1
+sVthough
+p224
+I1
+sVducats
+p225
+I1
+sVdoin
+p226
+I2
+sVstay
+p227
+I2
+sVwalk
+p228
+I2
+sVsaid
+p229
+I2
+sVlay
+p230
+I1
+sVjumpin
+p231
+I1
+sVdate
+p232
+I1
+sVpooh
+p233
+I1
+sVjuiced
+p234
+I1
+sVgoin
+p235
+I2
+sVa
+I1
+sVpocket
+p236
+I1
+sVdrop
+p237
+I1
+sVoff
+p238
+I2
+sVgamin
+p239
+I2
+sVeffective
+p240
+I1
+sVtry
+p241
+I1
+sVyoure
+p242
+I1
+sVwell
+p243
+I1
+sVdrive
+p244
+I1
+sVnothin
+p245
+I3
+sVface
+p246
+I2
+sVgiving
+p247
+I1
+sVfrustrated
+p248
+I1
+sVfact
+p249
+I1
+sVpay
+p250
+I1
+sVmenace
+p251
+I1
+sVmake
+p252
+I1
+sVtha
+p253
+I2
+sVknow
+p254
+I8
+s.

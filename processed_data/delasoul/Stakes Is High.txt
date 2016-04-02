@@ -1,110 +1,863 @@
-"stakes is high" lyrics
-de la soul lyrics
-"stakes is high"
-the instamatic focal point bringing damage to your boroughs
-be some brothers from the east with some beats that be thorough
-got the solar gravitation so i'm bound to pull it
-i gets down like brothers are found ducking from bullets
-gun control means using both hands in my land
-where it's all about the cautious livin'
-migrating to a higher form of consequence, compliments
-of strugglin', that shouldn't be notable,
-man every word i say should be a hip hop quotable.
-i'm sick of bitches shakin' asses
-i'm sick of talkin' about blunts,
-sick of versace glasses,
-sick of slang,
-sick of half-ass awards shows,
-sick of name brand clothes.
-sick of r&b bitches over bullshit tracks,
-cocaine and crack
-which brings sickness to blacks,
-sick of swoll' head rappers
-with their sicker-than raps
-clappers and gats
-makin' the whole sick world collapse
-the facts are gettin' sick
-even sicker perhaps
-stickabush to make a bundle to escape this synapse
-man life can get all up in your ass baby you betta work it out
-let me tell you what it's all about
-a skin not considered equal
-a meteor has more right than my people
-who be wastin' time screaming who they've hated
-that's why the native tongues have officially been re-instated
-(vibes....vibrations)
-stakes is high
-(higher than high)
-you know them stakes is high
-(higher than high)
-when we talkin' 'bout the
-(vibes....vibrations)
-stakes is high, you know them stakes is high
-when we dealin' with the
-(vibes....vibrations)
-stakes is high
-(hey yo, what about that love?)
-yo, it's about love for cars, love for funds
-loving to love mad sex, loving to love guns
-love for opposite, love for fame and wealth
-love for the fact of no longer loving yourself, kid
-we living in them days of the man-made ways
-where every aspect is vivid,
-these brothers no longer talk shit
-hey yo, these niggas live it
-'bout to give it to you 24/7 on the microphone
-plug one translating the zone
-no offense to a player, but yo, i don't play
-and if you take offense, fuck it, got to be that way
-j.d. dove, show your love, what you got to say?
-i say g's are making figures at a high regard
-and niggas dying for it nowadays ain't odd
-investing in fantasies and not god
-welcome to reality, see times is hard
-people try to snatch the credit, but can't claim the card
-showing out in videos, saying they cold stars
-see, shit like that will make your mama cry
-better watch the way you spend it
-'cause the stakes is high
-y'all know them stakes is high
-when we talkin' 'bout the
-(vibes....vibrations)
-stakes is high
-i think that smiling in public is against the law
-'cause love don't get you through life no more
-it's who you know and "how you, son?"
-and how you gettin' in, and who the man holding
-hey yo, and how was the scams and how high
-yo what up, huh? i heard you caught a body
-seem like every man and woman shared a life with john gotti
-but they ain't organized!
-mixing crimes with life enzymes
-taking the big scout route
-and niggas know doubt better
-than they know their daughters
-and their sons
-(oh boy)
-yo, people go through pain and still don't gain
-positive contact just like my main man
-who got others cleaning up his physical influence
-his mind got congested
-he got the nine and blew it
-neighborhoods are now hoods cause nobody's neighbors
-just animals surviving with that animal behavior
-under i who be rhyming from dark to light sky
-experiments when needles and skin connect
-no wonder where we live is called the projects
-when them stakes is high you damn sure try to do
-anything to get the piece of the pie
-electrify
-even die for the cash
-but at last i be out even though you wantin' more
-this issue is closed like an elevator door
-but soon re-opened once we get to the next floor where the
-(vibes....vibrations)
-stakes is high
-y'all know them stakes is high
-when we talkin' 'bout the
-(vibes....vibrations)
-stakes is high
-stakes is high, come on
+(dp1
+Vneighbors
+p2
+I1
+sVsaying
+p3
+I1
+sVgs
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVjohn
+p7
+I1
+sVsoon
+p8
+I1
+sVexperiments
+p9
+I1
+sVaspect
+p10
+I1
+sVusing
+p11
+I1
+sVfacts
+p12
+I1
+sVon
+p13
+I1
+sVcold
+p14
+I1
+sVboroughs
+p15
+I1
+sVaint
+p16
+I2
+sVzone
+p17
+I1
+sVla
+p18
+I1
+sVscreaming
+p19
+I1
+sVsky
+p20
+I1
+sVbetter
+p21
+I2
+sVcrack
+p22
+I1
+sVbout
+p23
+I4
+sVeast
+p24
+I1
+sVwantin
+p25
+I1
+sVhip
+p26
+I1
+sVdo
+p27
+I1
+sVreality
+p28
+I1
+sVlivin
+p29
+I1
+sVyo
+p30
+I7
+sVmeans
+p31
+I1
+sVhuh
+p32
+I1
+sVbig
+p33
+I1
+sVregard
+p34
+I1
+sVde
+p35
+I1
+sVversace
+p36
+I1
+sVmakin
+p37
+I1
+sVheard
+p38
+I1
+sVnext
+p39
+I1
+sVscout
+p40
+I1
+sVevery
+p41
+I3
+sVknow
+p42
+I7
+sVhands
+p43
+I1
+sVmixing
+p44
+I1
+sVworld
+p45
+I1
+sVson
+p46
+I1
+sVbringing
+p47
+I1
+sVbullshit
+p48
+I1
+sVprojects
+p49
+I1
+sVlike
+p50
+I5
+sVsynapse
+p51
+I1
+sVshowing
+p52
+I1
+sVname
+p53
+I1
+sVcongested
+p54
+I1
+sVcalled
+p55
+I1
+sVcause
+p56
+I3
+sVgettin
+p57
+I2
+sVgun
+p58
+I1
+sVpublic
+p59
+I1
+sVtry
+p60
+I2
+sVthough
+p61
+I1
+sVdie
+p62
+I1
+sVfound
+p63
+I1
+sVducking
+p64
+I1
+sVwastin
+p65
+I1
+sVclothes
+p66
+I1
+sVstill
+p67
+I1
+sVbody
+p68
+I1
+sVblew
+p69
+I1
+sVright
+p70
+I1
+sVpeople
+p71
+I3
+sVanimals
+p72
+I1
+sVmind
+p73
+I1
+sVskin
+p74
+I2
+sVplay
+p75
+I1
+sVbetta
+p76
+I1
+sVtranslating
+p77
+I1
+sVgo
+p78
+I1
+sVsee
+p79
+I2
+sVsure
+p80
+I1
+sVdoubt
+p81
+I1
+sVconnect
+p82
+I1
+sVescape
+p83
+I1
+sVodd
+p84
+I1
+sVsmiling
+p85
+I1
+sVout
+p86
+I1
+sVeven
+p87
+I3
+sVliving
+p88
+I1
+sVtongues
+p89
+I1
+sVgravitation
+p90
+I1
+sVblacks
+p91
+I1
+sVways
+p92
+I1
+sVgod
+p93
+I1
+sVcleaning
+p94
+I1
+sVopposite
+p95
+I1
+sVfantasies
+p96
+I1
+sVpiece
+p97
+I1
+sVrb
+p98
+I1
+sV247
+p99
+I1
+sVgot
+p100
+I6
+sVofficially
+p101
+I1
+sVguns
+p102
+I1
+sVshows
+p103
+I1
+sVass
+p104
+I1
+sVhalfass
+p105
+I1
+sVcars
+p106
+I1
+sVnotable
+p107
+I1
+sVtracks
+p108
+I1
+sVawards
+p109
+I1
+sVothers
+p110
+I1
+sVjd
+p111
+I1
+sVcome
+p112
+I1
+sVholding
+p113
+I1
+sVcard
+p114
+I1
+sVvivid
+p115
+I1
+sVplug
+p116
+I1
+sVshared
+p117
+I1
+sVabout
+p118
+I1
+sVcautious
+p119
+I1
+sVlast
+p120
+I1
+sVanything
+p121
+I1
+sVoh
+p122
+I1
+sVtaking
+p123
+I1
+sVsicker
+p124
+I1
+sVtimes
+p125
+I1
+sVcredit
+p126
+I1
+sVfigures
+p127
+I1
+sVyall
+p128
+I2
+sVscams
+p129
+I1
+sVhated
+p130
+I1
+sVconsequence
+p131
+I1
+sVstrugglin
+p132
+I1
+sVniggas
+p133
+I3
+sVglasses
+p134
+I1
+sVwhole
+p135
+I1
+sVthink
+p136
+I1
+sVstakes
+p137
+I15
+sVstickabush
+p138
+I1
+sVlive
+p139
+I2
+sVrhyming
+p140
+I1
+sVlove
+p141
+I10
+sVdont
+p142
+I3
+sVsurviving
+p143
+I1
+sVpoint
+p144
+I1
+sVwonder
+p145
+I1
+sVbound
+p146
+I1
+sVone
+p147
+I1
+sVinstamatic
+p148
+I1
+sVnowadays
+p149
+I1
+sVblunts
+p150
+I1
+sVpie
+p151
+I1
+sVlaw
+p152
+I1
+sVwealth
+p153
+I1
+sVelectrify
+p154
+I1
+sVpositive
+p155
+I1
+sVcaught
+p156
+I1
+sVquotable
+p157
+I1
+sVhey
+p158
+I3
+sVelevator
+p159
+I1
+sVcash
+p160
+I1
+sVasses
+p161
+I1
+sVcry
+p162
+I1
+sVdamn
+p163
+I1
+sVfocal
+p164
+I1
+sVway
+p165
+I2
+sVcocaine
+p166
+I1
+sVkid
+p167
+I1
+sVtell
+p168
+I1
+sVloving
+p169
+I3
+sVmain
+p170
+I1
+sVhead
+p171
+I1
+sVhard
+p172
+I1
+sVdoor
+p173
+I1
+sVcollapse
+p174
+I1
+sVform
+p175
+I1
+sVboy
+p176
+I1
+sVbrings
+p177
+I1
+sVbrand
+p178
+I1
+sVbitches
+p179
+I2
+sVmanmade
+p180
+I1
+sVcant
+p181
+I1
+sVfuck
+p182
+I1
+sVmama
+p183
+I1
+sVnobodys
+p184
+I1
+sVgain
+p185
+I1
+sVsolar
+p186
+I1
+sVmeteor
+p187
+I1
+sVbaby
+p188
+I1
+sVmigrating
+p189
+I1
+sVswoll
+p190
+I1
+sVpull
+p191
+I1
+sVgotti
+p192
+I1
+sVtheyve
+p193
+I1
+sVword
+p194
+I1
+sVdealin
+p195
+I1
+sVhop
+p196
+I1
+sVanimal
+p197
+I1
+sVwork
+p198
+I1
+sVsex
+p199
+I1
+sVsoul
+p200
+I1
+sVclaim
+p201
+I1
+sVenzymes
+p202
+I1
+sVnine
+p203
+I1
+sVbehavior
+p204
+I1
+sVmaking
+p205
+I1
+sVmore
+p206
+I2
+sVroute
+p207
+I1
+sVsay
+p208
+I3
+sVcontrol
+p209
+I1
+sVdays
+p210
+I1
+sVvideos
+p211
+I1
+sVgive
+p212
+I1
+sVraps
+p213
+I1
+sVorganized
+p214
+I1
+sVit
+p215
+I4
+sVequal
+p216
+I1
+sVhigh
+p217
+I19
+sVplayer
+p218
+I1
+sVbeats
+p219
+I1
+sVwoman
+p220
+I1
+sVim
+p221
+I3
+sVclappers
+p222
+I1
+sVneedles
+p223
+I1
+sVoffense
+p224
+I2
+sVseem
+p225
+I1
+sVfame
+p226
+I1
+sVshit
+p227
+I2
+sVnative
+p228
+I1
+sVmicrophone
+p229
+I1
+sVissue
+p230
+I1
+sVlet
+p231
+I1
+sVdying
+p232
+I1
+sVfloor
+p233
+I1
+sVsickerthan
+p234
+I1
+sVmake
+p235
+I2
+sVget
+p236
+I4
+sVdamage
+p237
+I1
+sVthorough
+p238
+I1
+sVgats
+p239
+I1
+sVreopened
+p240
+I1
+sVreinstated
+p241
+I1
+sVshakin
+p242
+I1
+sVcontact
+p243
+I1
+sVinvesting
+p244
+I1
+sVtake
+p245
+I1
+sVsick
+p246
+I10
+sVfunds
+p247
+I1
+sVhoods
+p248
+I1
+sVgets
+p249
+I1
+sVtalkin
+p250
+I4
+sVdaughters
+p251
+I1
+sVhigher
+p252
+I3
+sVvibesvibrations
+p253
+I6
+sVshouldnt
+p254
+I1
+sVpain
+p255
+I1
+sVbrothers
+p256
+I3
+sVsickness
+p257
+I1
+sVwatch
+p258
+I1
+sVrappers
+p259
+I1
+sVwelcome
+p260
+I1
+sVclosed
+p261
+I1
+sVbundle
+p262
+I1
+sVstars
+p263
+I1
+sVbullets
+p264
+I1
+sVmad
+p265
+I1
+sVinfluence
+p266
+I1
+sVsnatch
+p267
+I1
+sVdove
+p268
+I1
+sVslang
+p269
+I1
+sVman
+p270
+I5
+sVdark
+p271
+I1
+sVland
+p272
+I1
+sVphysical
+p273
+I1
+sVlonger
+p274
+I2
+sVneighborhoods
+p275
+I1
+sVcrimes
+p276
+I1
+sVconsidered
+p277
+I1
+sVlight
+p278
+I1
+sVlife
+p279
+I4
+sVperhaps
+p280
+I1
+sVcompliments
+p281
+I1
+sVsons
+p282
+I1
+sVtalk
+p283
+I1
+sVtime
+p284
+I1
+sVthe
+p285
+I5
+sVthats
+p286
+I1
+sVspend
+p287
+I1
+sVfact
+p288
+I1
+s.

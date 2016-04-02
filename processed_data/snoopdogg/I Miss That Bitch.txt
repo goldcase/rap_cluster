@@ -1,73 +1,529 @@
-"i miss that bitch" lyrics
-snoop dogg lyrics
-"i miss that bitch"
-(feat. e. white)
-this one right here is dedicated to a lot of famous players out there
-that might have been in love before
-i know some of you might not think gangstas fall in love (i miss that bitch)
-but uh, it's true
-if you been in love like i been in love before, you know
-it's hard to get with somebody once they gone (i miss that bitch)
-it's hard to replace that special someone
-when they just up and you know
-dip dive and so socialize
-and what we gon do right here (i miss that bitch)
-we go'n kick something over this hitek beat right here
-for all the players that lost somebody special
-and wonder where she at
-e. white kick that shit (i miss that bitch)
-i got my eyes wide open
-the whole time i'm holding on to hope with you on my mind
-it's been a while child, i'm getting down with dogg
-i bet my name all around your wall
-perhaps i went to jail
-that left us out of touch
-shoulda shot some mail or something
-ain't no telling where she at now
-i be god damn
-baby i really wanna see what you got now
-i'm all grown up with my shit together
-i don't know if i'mma see you ever
-i got a woman and shit,but i must admit this
-you at the top of my list
-unforgetable
-fuck with them nigga do
-i still miss, there aint no getting rid of you
-but in the mean time i'mma get with cha
-until i get somebody with your hook up imma hit ya
-i miss that bitch
-she was a pot of gold
-her body was cold
-i don't know where you went
-where did you go (i miss that bitch)
-shopping around looking around
-i'm try to see
-where could you be
-how could you do this to me (i miss that bitch)
-my momma got mad
-i was young when i hooked up with her
-one hit and i couldn't stop trippin
-a long lasting relationship
-pass you around, and let my niggas take a hit
-i used to break you down just to roll you up
-you the real, you never will slow me up
-and you was always on my mind
-say no more
-i still miss you at times
-all of a sudden you lost my interest
-i packed it up and set about my business
-you used to have a hold on me
-sometimes to the point that they said you controlled me
-i kept going to jail and all that
-get out, fuck with you again, i'm right back
-i guess i had to learn the hard way baby
-i'm leaving you alone cause you driving me crazy (i miss that bitch)
-ohhhhh
-mary, mary, mary
-quite contrary
-ohhhhh
-every time i think about that girl
-make a nigga wanna have a wet dream
-release some steam
-ohhhhhh, ohhhhhhh, ohhhhhh
-i miss that bitch
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVtouch
+p4
+I1
+sVcold
+p5
+I1
+sVstill
+p6
+I2
+sVfeat
+p7
+I1
+sVbefore
+p8
+I1
+sVaint
+p9
+I2
+sVnow
+p10
+I2
+sVgold
+p11
+I1
+sVimma
+p12
+I3
+sVyoung
+p13
+I1
+sVgoing
+p14
+I1
+sVwet
+p15
+I1
+sVmail
+p16
+I1
+sVset
+p17
+I1
+sVmight
+p18
+I2
+sVhope
+p19
+I1
+sVreal
+p20
+I1
+sVdo
+p21
+I1
+sVwoman
+p22
+I1
+sVsomebody
+p23
+I3
+sVaround
+p24
+I4
+sVget
+p25
+I4
+sVbeat
+p26
+I1
+sVstop
+p27
+I1
+sVbreak
+p28
+I1
+sVfamous
+p29
+I1
+sVevery
+p30
+I1
+sVknow
+p31
+I5
+sVfall
+p32
+I1
+sVtelling
+p33
+I1
+sVreplace
+p34
+I1
+sVlike
+p35
+I1
+sVtrippin
+p36
+I1
+sVname
+p37
+I1
+sVlost
+p38
+I2
+sValways
+p39
+I1
+sVlist
+p40
+I1
+sVpacked
+p41
+I1
+sVtry
+p42
+I1
+sVrelease
+p43
+I1
+sVwent
+p44
+I2
+sVdip
+p45
+I1
+sVsteam
+p46
+I1
+sVmean
+p47
+I1
+sVright
+p48
+I4
+sVhard
+p49
+I3
+sVback
+p50
+I1
+sVgo
+p51
+I1
+sVsee
+p52
+I3
+sVpass
+p53
+I1
+sVgirl
+p54
+I1
+sVspecial
+p55
+I2
+sVreally
+p56
+I1
+sVohhhhhh
+p57
+I2
+sVgon
+p58
+I2
+sVdriving
+p59
+I1
+sVopen
+p60
+I1
+sVhooked
+p61
+I1
+sVlooking
+p62
+I1
+sVgot
+p63
+I4
+sVever
+p64
+I1
+sVhitek
+p65
+I1
+sVuh
+p66
+I1
+sVbody
+p67
+I1
+sVbe
+p68
+I1
+sVbusiness
+p69
+I1
+sVcha
+p70
+I1
+sVnever
+p71
+I1
+sVhere
+p72
+I1
+sVquite
+p73
+I1
+sVsocialize
+p74
+I1
+sVslow
+p75
+I1
+sVlet
+p76
+I1
+sValone
+p77
+I1
+sVshoulda
+p78
+I1
+sVher
+p79
+I1
+sVgetting
+p80
+I2
+sVcould
+p81
+I2
+sVtimes
+p82
+I1
+sVplayers
+p83
+I2
+sVadmit
+p84
+I1
+sVohhhhh
+p85
+I2
+sVlasting
+p86
+I1
+sVwhole
+p87
+I1
+sVthink
+p88
+I2
+sVlove
+p89
+I4
+sVdont
+p90
+I2
+sVpoint
+p91
+I1
+sVwall
+p92
+I1
+sVpot
+p93
+I1
+sVway
+p94
+I1
+sVcrazy
+p95
+I1
+sVone
+p96
+I2
+sVhook
+p97
+I1
+sVmomma
+p98
+I1
+sVnigga
+p99
+I2
+sVbitch
+p100
+I11
+sVcouldnt
+p101
+I1
+sVmiss
+p102
+I13
+sVwan
+p103
+I2
+sVguess
+p104
+I1
+sVsnoop
+p105
+I1
+sVdogg
+p106
+I2
+sVtop
+p107
+I1
+sVthere
+p108
+I1
+sVlong
+p109
+I1
+sVdamn
+p110
+I1
+sVlot
+p111
+I1
+sVwhite
+p112
+I2
+sVmary
+p113
+I3
+sVmore
+p114
+I1
+sVeyes
+p115
+I1
+sVshopping
+p116
+I1
+sVinterest
+p117
+I1
+sVrelationship
+p118
+I1
+sVthat
+p119
+I1
+sVmind
+p120
+I2
+sVchild
+p121
+I1
+sVbaby
+p122
+I2
+sVkept
+p123
+I1
+sVhold
+p124
+I1
+sVtrue
+p125
+I1
+sVmust
+p126
+I1
+sVshitbut
+p127
+I1
+sVwide
+p128
+I1
+sVniggas
+p129
+I1
+sVthis
+p130
+I1
+sVup
+p131
+I2
+sVus
+p132
+I1
+sVsudden
+p133
+I1
+sVcontrary
+p134
+I1
+sVkick
+p135
+I2
+sVlearn
+p136
+I1
+sVbet
+p137
+I1
+sVsomething
+p138
+I2
+sVgone
+p139
+I1
+sVdedicated
+p140
+I1
+sVgangstas
+p141
+I1
+sVfuck
+p142
+I2
+sVsay
+p143
+I1
+sVsomeone
+p144
+I1
+sVim
+p145
+I6
+sVat
+p146
+I1
+sVhit
+p147
+I3
+sVrid
+p148
+I1
+sVleaving
+p149
+I1
+sVshit
+p150
+I2
+sVohhhhhhh
+p151
+I1
+sVgrown
+p152
+I1
+sVperhaps
+p153
+I1
+sVna
+p154
+I2
+sVmake
+p155
+I1
+sVya
+p156
+I1
+sVtake
+p157
+I1
+sVholding
+p158
+I1
+sVyou
+p159
+I1
+sVwonder
+p160
+I1
+sVroll
+p161
+I1
+sVunforgetable
+p162
+I1
+sVused
+p163
+I2
+sVdive
+p164
+I1
+sVtime
+p165
+I3
+sVme
+p166
+I2
+sVsaid
+p167
+I1
+sVmad
+p168
+I1
+sVcause
+p169
+I1
+sVe
+I2
+sVcontrolled
+p170
+I1
+sVsometimes
+p171
+I1
+sVtogether
+p172
+I1
+sVjail
+p173
+I2
+sVgod
+p174
+I1
+sVdream
+p175
+I1
+sVleft
+p176
+I1
+s.

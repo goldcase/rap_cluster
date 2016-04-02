@@ -1,102 +1,734 @@
-take one team lyrics
-kanye west lyrics
-take one team
-feat keri hilson pusha cyhi prynce
-thing pocket full green
-hand dick thousand dollar jeans
-girl queen girl thing
-know though im take im take one team
-im take one team
-good music
-yeah know what
-figured im nice guy
-shook hands kissed babies gave nice try
-know hate pictures peoples kids
-hate plastic couches peoples cribs
-hate peoples cribs smell like shit
-hate leave smell like crib
-whats cause poor smell
-said cleaned baby cant tell
-every ghetto bitch gotta smell like love spell
-goddamn cucumber bath body works
-still smell sweat shit hardly works
-cool water shit probably worse
-classic like ladi dadi verse
-man probably hollered hottie first
-score took charge
-ooooh shit gotta hurt
-nevermind ye fun
-cops ask thats gun
-thats weed anything need
-im take im take im take one team
-one fat ass one flat ass
-nigga hit switcheroo black ass
-ever seen joes jeans jackass
-bitch got tights tac ass
-im fly nigga carry on
-bottles rose perignon
-ever seen kingpin carrys on
-dookie chain herringbone
-real shit gotta feel this
-first class flights baby thats field trip
-double date dont cooperate kill switch
-fuck man real bitch
-ladies gentleman
-good music house
-got keri
-know one heard about
-know work way word mouth
-plus im test out
-dirty job sometimes gotta take team
-take team
-take team
-take team
-like mentality baby
-im blowing stinky come jar
-im playing kitty later come car
-red bone cousin dark
-little shape youll fuck dark
-start complaining bout feet hurt
-im trying fuck talking wanna eat first
-im like bitch bring her
-im tryna get back nest sting her
-hit big sean ringer
-said gotta chick thatd like singer
-scale 110 shes 15′er
-meaner shoulda seen nigga face seen her
-said bitch wasnt pretty enough finger
-though team fifth stringer
-said got fine one beamer
-im point guard need wing
-take team
-take team
-take team
-good fridays
-nigga love hate
-bad model bitches love date
-need check swag get date
-check check swag get date
-bathroom get back blew out
-cant clean bet got vacuum mouth
-bet im gon sweat vidal sassoon out
-friend buss god damn bought racoon out
-team ugh
-like always time
-like like always time
-go got to
-like always time
-like always time
-go go to
-like always time
-like always time
-southside gon set party right
-time
-time yeah yeah
-mike dean keys hey
-love hate bad model bitches love date
-need check swag get date
-check check check swag get date
-ey man love hate
-bad model bitches love date
-need check swag get date
-check check check swag get ugh hey
+(dp1
+Vugh
+p2
+I2
+sVlyrics
+p3
+I2
+sV15\u2032er
+p4
+I1
+sVqueen
+p5
+I1
+sVdollar
+p6
+I1
+sVprynce
+p7
+I1
+sVbring
+p8
+I1
+sVshape
+p9
+I1
+sVkill
+p10
+I1
+sVgo
+p11
+I3
+sVkanye
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVfifth
+p15
+I1
+sVdont
+p16
+I1
+sVswag
+p17
+I6
+sVchain
+p18
+I1
+sVrose
+p19
+I1
+sVstinky
+p20
+I1
+sVdick
+p21
+I1
+sVjar
+p22
+I1
+sVooooh
+p23
+I1
+sVverse
+p24
+I1
+sVblack
+p25
+I1
+sVgon
+p26
+I2
+sVpretty
+p27
+I1
+sVbout
+p28
+I1
+sVcool
+p29
+I1
+sVta
+p30
+I5
+sVreal
+p31
+I2
+sVgood
+p32
+I3
+sVhit
+p33
+I2
+sVworse
+p34
+I1
+sVget
+p35
+I8
+sVbig
+p36
+I1
+sVspell
+p37
+I1
+sVladi
+p38
+I1
+sVfat
+p39
+I1
+sVpocket
+p40
+I1
+sVvidal
+p41
+I1
+sVevery
+p42
+I1
+sVknow
+p43
+I5
+sVhands
+p44
+I1
+sVbath
+p45
+I1
+sVghetto
+p46
+I1
+sVnevermind
+p47
+I1
+sVlike
+p48
+I14
+sVcar
+p49
+I1
+sVever
+p50
+I2
+sVgun
+p51
+I1
+sVleave
+p52
+I1
+sVbad
+p53
+I3
+sVjoes
+p54
+I1
+sVteam
+p55
+I14
+sVchick
+p56
+I1
+sVguy
+p57
+I1
+sVworks
+p58
+I2
+sVbone
+p59
+I1
+sVass
+p60
+I4
+sVblew
+p61
+I1
+sVnigga
+p62
+I4
+sVdean
+p63
+I1
+sVdookie
+p64
+I1
+sVhilson
+p65
+I1
+sVgoddamn
+p66
+I1
+sVyeah
+p67
+I3
+sVpusha
+p68
+I1
+sVblowing
+p69
+I1
+sVey
+p70
+I1
+sVsean
+p71
+I1
+sVgirl
+p72
+I2
+sVout
+p73
+I4
+sVfridays
+p74
+I1
+sVtry
+p75
+I1
+sVwhat
+p76
+I1
+sVsaid
+p77
+I4
+sVhate
+p78
+I7
+sVvacuum
+p79
+I1
+sVgentleman
+p80
+I1
+sVkitty
+p81
+I1
+sVenough
+p82
+I1
+sVscore
+p83
+I1
+sVfinger
+p84
+I1
+sVswitcheroo
+p85
+I1
+sVgot
+p86
+I10
+sVcause
+p87
+I1
+sVred
+p88
+I1
+sVbought
+p89
+I1
+sVbody
+p90
+I1
+sVmodel
+p91
+I3
+sVfull
+p92
+I1
+sVlove
+p93
+I7
+sVherringbone
+p94
+I1
+sVkeri
+p95
+I2
+sVbathroom
+p96
+I1
+sVwater
+p97
+I1
+sVjob
+p98
+I1
+sVask
+p99
+I1
+sVcousin
+p100
+I1
+sVweed
+p101
+I1
+sVcome
+p102
+I2
+sVshoulda
+p103
+I1
+sVracoon
+p104
+I1
+sVon
+p105
+I2
+sVcarrys
+p106
+I1
+sVkids
+p107
+I1
+sVanything
+p108
+I1
+sVwasnt
+p109
+I1
+sVthatd
+p110
+I1
+sVgod
+p111
+I1
+sVlater
+p112
+I1
+sVthing
+p113
+I2
+sVyoull
+p114
+I1
+sVplus
+p115
+I1
+sVsweat
+p116
+I2
+sVbuss
+p117
+I1
+sVmouth
+p118
+I2
+sVfirst
+p119
+I3
+sVladies
+p120
+I1
+sVwhats
+p121
+I1
+sVtights
+p122
+I1
+sVpoint
+p123
+I1
+sVfeel
+p124
+I1
+sVjeans
+p125
+I2
+sVcrib
+p126
+I1
+sVone
+p127
+I9
+sVfeet
+p128
+I1
+sVguard
+p129
+I1
+sVset
+p130
+I1
+sVbitch
+p131
+I5
+sVright
+p132
+I1
+sVcarry
+p133
+I1
+sVcouches
+p134
+I1
+sVwan
+p135
+I1
+sVlittle
+p136
+I1
+sVher
+p137
+I3
+sVto
+p138
+I2
+sValways
+p139
+I6
+sVwest
+p140
+I1
+sVcharge
+p141
+I1
+sVtryna
+p142
+I1
+sVplastic
+p143
+I1
+sVstart
+p144
+I1
+sVmusic
+p145
+I2
+sVkingpin
+p146
+I1
+sVway
+p147
+I1
+sVhouse
+p148
+I1
+sVdamn
+p149
+I1
+sVjackass
+p150
+I1
+sVhardly
+p151
+I1
+sVtell
+p152
+I1
+sVfriend
+p153
+I1
+sVsassoon
+p154
+I1
+sVback
+p155
+I2
+sVflat
+p156
+I1
+sVmike
+p157
+I1
+sVthousand
+p158
+I1
+sVbitches
+p159
+I3
+sVmentality
+p160
+I1
+sVtook
+p161
+I1
+sVhurt
+p162
+I2
+sVcops
+p163
+I1
+sVfigured
+p164
+I1
+sVbaby
+p165
+I3
+sVprobably
+p166
+I2
+sVtrying
+p167
+I1
+sVeat
+p168
+I1
+sVstringer
+p169
+I1
+sVfly
+p170
+I1
+sVword
+p171
+I1
+sVtalking
+p172
+I1
+sVthis
+p173
+I1
+sVdouble
+p174
+I1
+sVwork
+p175
+I1
+sV110
+p176
+I1
+sVdirty
+p177
+I1
+sVhottie
+p178
+I1
+sVfun
+p179
+I1
+sVabout
+p180
+I1
+sVgave
+p181
+I1
+sVbet
+p182
+I2
+sVshook
+p183
+I1
+sVflights
+p184
+I1
+sVclassic
+p185
+I1
+sVmeaner
+p186
+I1
+sVringer
+p187
+I1
+sVtac
+p188
+I1
+sVfuck
+p189
+I3
+sVsting
+p190
+I1
+sVheard
+p191
+I1
+sVcant
+p192
+I2
+sVim
+p193
+I16
+sVcleaned
+p194
+I1
+sVneed
+p195
+I5
+sVseen
+p196
+I4
+sVkissed
+p197
+I1
+sVtrip
+p198
+I1
+sVshit
+p199
+I5
+sVcyhi
+p200
+I1
+sVshes
+p201
+I1
+sVbottles
+p202
+I1
+sVcomplaining
+p203
+I1
+sVna
+p204
+I1
+sVcheck
+p205
+I11
+sVfield
+p206
+I1
+sVtake
+p207
+I15
+sVbabies
+p208
+I1
+sVpeoples
+p209
+I3
+sVtest
+p210
+I1
+sVparty
+p211
+I1
+sVwing
+p212
+I1
+sVsmell
+p213
+I5
+sVnice
+p214
+I2
+sVpoor
+p215
+I1
+sVhey
+p216
+I2
+sVthough
+p217
+I2
+sVkeys
+p218
+I1
+sVye
+p219
+I1
+sVnest
+p220
+I1
+sVtime
+p221
+I8
+sVhand
+p222
+I1
+sVscale
+p223
+I1
+sVcucumber
+p224
+I1
+sVhollered
+p225
+I1
+sVdate
+p226
+I9
+sVperignon
+p227
+I1
+sVcooperate
+p228
+I1
+sVclass
+p229
+I1
+sVman
+p230
+I3
+sVdark
+p231
+I2
+sVsinger
+p232
+I1
+sVdadi
+p233
+I1
+sVsouthside
+p234
+I1
+sVcribs
+p235
+I2
+sVsometimes
+p236
+I1
+sVfine
+p237
+I1
+sVface
+p238
+I1
+sVswitch
+p239
+I1
+sVgreen
+p240
+I1
+sVclean
+p241
+I1
+sVpictures
+p242
+I1
+sVbeamer
+p243
+I1
+sVthats
+p244
+I3
+sVplaying
+p245
+I1
+s.

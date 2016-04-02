@@ -1,133 +1,730 @@
-"phat rabbit" lyrics
-ludacris lyrics
-"phat rabbit"
-i be that nigga named ludi
-a k a l-o-v-a l-o-v-a
-fuck that shit
-nigga what you wan say one time
-southside let's ride (say what)
-and if you love what you do, do what you feel
-then i know you gonna mark my words
-yall drop shit like birds
-then it's about the time for yo ass to get served
-just lay it on down
-just lay it on down
-while we relax to the tight raps
-and the phat tracks
-that that nigga timbaland put down
-oh yes, let's get it on down to the nitty grit
-don't have no time for the patient
-cuz i got more dick than a lil' bit
-and time flies, when i'm havin' fun
-i can make a hoe get like forrest gump and just "run baby run"
-i guess that they can't handle this
-brothers just to scandalous
-if you don't wanna get freaked
-then get out my way like an ambulance (say what)
-gitty up gitty up ride up on the real, let death to the fake
-and tell you boyfriend just to chill, don't playa hate
-kick back relax, and just take off yo shoes
-cuz i gotta tell you what i wants to do (uh oh)
-yea
-let me touch it (let me touch it)
-let me feel it (let me feel it)
-let me grab it (let me grab it)
-that fat rabbit (fat rabbit, fat rabbit, fat rabbit)
-let me touch it (let me touch it)
-let me feel it (let me feel it)
-let me grab it (let me grab it)
-that-that rabbit (ohhh, c'mon)
-let me touch it (let me touch it)
-let me feel it (let me feel it)
-let me grab it (let me grab it)
-fat rabbit (fat rabbit, fat rabbit)
-let me touch it (let me touch it)
-let me feel it (let me feel it)
-let me grab it (let me grab it)
-that-that fat rabbit (uh oh)
-fatter than fat facts like a dove sack
-showin' them where that love's at
-so open up your eyes and get a surprise like in crackerjacks
-punan' don happy
-givin' up that nappy dug out
-get the cut up, then i cut out
-why you standin there wit yo' butt out (whoo)
-and it's always in the back of my mind
-wherever the place, whenever the time
-even in college park, after dark, i'ma get my sunshine
-closer than close, closer than most, then i'm all up in ya
-beginner, give me a thigh, breast, and wing like ms. winner
-and let dinner be served
-can i get it on a platter, shatter your bladder
-and put so much light in yo' life i'll make the roaches scatter
-the wetta the betta, i'm ready to get ya
-gotta have rabbit like that cheddar
-so i can freak ya like i just met ya
-hot like a sauna, get comfy like in a cadillac
-nick nack paddy wack give a dog a bone jack
-kick back relax and just take off yo shoes
-cuz i gotta tell you what i wants to do (uh oh)
-yea
-let me touch it (let me touch it)
-let me feel it (let me feel it)
-let me grab it (let me grab it)
-that fat rabbit (fat rabbit, fat rabbit, fat rabbit)
-let me touch it (let me touch it)
-let me feel it, girl (let me feel it)
-let me grab it, girl (let me grab it)
-that-that rabbit, girl (ohhh, c'mon)
-let me touch it, girl (let me touch it)
-let me feel it, girl (let me feel it)
-let me grab it, girl (let me grab it)
-fat rabbit, girl (fat rabbit, fat rabbit)
-let me touch it, girl (let me touch it)
-let me feel it, girl (let me feel it)
-let me grab it, girl (let me grab it)
-that-that fat rabbit, girl  (uh oh)
-yo' love is supa-cala-fragalistic
-you don't know how bad i missed it
-if it broke then don't fix it
-yo stuff is butta like a biscuit
-reminisce like mary
-i gotta pop that cherry
-kinda like that coochie
-you wanna be my hoochie
-better than my advesary
-don't be so scary
-i, never thought that you could act up
-make a nigga wanna back up
-keep it tight through the night while i wet this track up
-so we can slip and slide
-make you wanna dip and dive
-trippin' while we rip and ride
-til i get to the coming side
-got you where i want yo ass
-in the case of an emergency, break the glass
-keep yo eyes on the president, erase the past
-we be happy if we had more blunts to pass
-get done up and run up
-and the guts of yo butt don't shake like they used to
-i wake 'em up like a rooster
-take it slow, not faster than a turbo rooster
-no worry, no hurry
-no pain, no gain
-keep yo eyes on strain
-cuz ain't a damn thing changed
-kick back, relax and take off yo shoes
-cuz i gotta tell you what i wants to do (uh oh)
-yea
-let me touch it, let me touch it
-let me feel it, let me feel it
-let me grab it, let me grab it
-fat rabbit, fat rabbit
-wha, uh huh
-yea
-dirty south, can y'all really feel me
-east coast, feel me
-west coast, feel me
-dirty south, can y'all really feel me
-east coast, feel me
-west coast, feel me
-dirty south, (uh huh) can y'all really feel me
-east coast, feel me
-west coast
+(dp1
+Vstandin
+p2
+I1
+sVshoes
+p3
+I3
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVyea
+p6
+I4
+sVbutt
+p7
+I2
+sVcheddar
+p8
+I1
+sVflies
+p9
+I1
+sVshake
+p10
+I1
+sVtouch
+p11
+I18
+sVyes
+p12
+I1
+sVfaster
+p13
+I1
+sVforrest
+p14
+I1
+sVbirds
+p15
+I1
+sVthigh
+p16
+I1
+sVima
+p17
+I1
+sVdeath
+p18
+I1
+sVgivin
+p19
+I1
+sVnick
+p20
+I1
+sVmuch
+p21
+I1
+sVfix
+p22
+I1
+sVdick
+p23
+I1
+sVcuz
+p24
+I5
+sVreminisce
+p25
+I1
+sVhavin
+p26
+I1
+sVlets
+p27
+I2
+sVwet
+p28
+I1
+sVohhh
+p29
+I2
+sVboyfriend
+p30
+I1
+sVkick
+p31
+I3
+sVta
+p32
+I5
+sVgitty
+p33
+I2
+sVme
+p34
+I8
+sVgrit
+p35
+I1
+sVyo
+p36
+I12
+sVget
+p37
+I13
+sVya
+p38
+I4
+sVcould
+p39
+I1
+sVshatter
+p40
+I1
+sVfat
+p41
+I19
+sVact
+p42
+I1
+sVdark
+p43
+I1
+sVknow
+p44
+I2
+sVwords
+p45
+I1
+sVsouthside
+p46
+I1
+sVcrackerjacks
+p47
+I1
+sVbit
+p48
+I1
+sVroaches
+p49
+I1
+sVtrippin
+p50
+I1
+sVlike
+p51
+I15
+sValways
+p52
+I1
+sVdrop
+p53
+I1
+sVbetta
+p54
+I1
+sVbad
+p55
+I1
+sVstuff
+p56
+I1
+sVnight
+p57
+I1
+sVserved
+p58
+I2
+sVgrab
+p59
+I18
+sVdip
+p60
+I1
+sVside
+p61
+I1
+sVyall
+p62
+I4
+sVem
+p63
+I1
+sVslow
+p64
+I1
+sVnigga
+p65
+I4
+sVbeginner
+p66
+I1
+sVback
+p67
+I5
+sVup
+p68
+I4
+sVpast
+p69
+I1
+sVfacts
+p70
+I1
+sVerase
+p71
+I1
+sVcollege
+p72
+I1
+sVpass
+p73
+I1
+sVrun
+p74
+I3
+sVgirl
+p75
+I11
+sVbreast
+p76
+I1
+sVout
+p77
+I2
+sVeven
+p78
+I1
+sVwhat
+p79
+I2
+sVgon
+p80
+I1
+sVmissed
+p81
+I1
+sVhate
+p82
+I1
+sVslide
+p83
+I1
+sVblunts
+p84
+I1
+sVplaya
+p85
+I1
+sVcadillac
+p86
+I1
+sVgot
+p87
+I7
+sVdirty
+p88
+I3
+sVass
+p89
+I2
+sVaint
+p90
+I1
+sVpatient
+p91
+I1
+sVms
+p92
+I1
+sVnever
+p93
+I1
+sVwack
+p94
+I1
+sVmet
+p95
+I1
+sVtracks
+p96
+I1
+sVcut
+p97
+I2
+sVlet
+p98
+I56
+sVnitty
+p99
+I1
+sVput
+p100
+I2
+sVsauna
+p101
+I1
+sVbutta
+p102
+I1
+sVfatter
+p103
+I1
+sVscary
+p104
+I1
+sVsupacalafragalistic
+p105
+I1
+sVoh
+p106
+I6
+sVk
+I1
+sVchanged
+p107
+I1
+sVwherever
+p108
+I1
+sVscatter
+p109
+I1
+sVthing
+p110
+I1
+sVdinner
+p111
+I1
+sVgump
+p112
+I1
+sVplace
+p113
+I1
+sVbone
+p114
+I1
+sVcherry
+p115
+I1
+sVadvesary
+p116
+I1
+sVwha
+p117
+I1
+sVjack
+p118
+I1
+sVlova
+p119
+I2
+sVguts
+p120
+I1
+sVnamed
+p121
+I1
+sVwinner
+p122
+I1
+sVlove
+p123
+I2
+sVdont
+p124
+I7
+sVfeel
+p125
+I27
+sVnack
+p126
+I1
+sVsack
+p127
+I1
+sVone
+p128
+I1
+sVdown
+p129
+I2
+sVfreaked
+p130
+I1
+sVpop
+p131
+I1
+sVwit
+p132
+I1
+sVdone
+p133
+I1
+sVfake
+p134
+I1
+sVdug
+p135
+I1
+sVopen
+p136
+I1
+sVhoochie
+p137
+I1
+sVwan
+p138
+I5
+sVguess
+p139
+I1
+sVto
+p140
+I1
+sVwetta
+p141
+I1
+sVgive
+p142
+I2
+sVcomfy
+p143
+I1
+sVmark
+p144
+I1
+sVraps
+p145
+I1
+sVshowin
+p146
+I1
+sVwhoo
+p147
+I1
+sVdamn
+p148
+I1
+sVwest
+p149
+I3
+sVway
+p150
+I1
+sVtell
+p151
+I4
+sVhappy
+p152
+I2
+sVwants
+p153
+I3
+sVturbo
+p154
+I1
+sVeyes
+p155
+I3
+sVrelax
+p156
+I4
+sVthatthat
+p157
+I4
+sVsunshine
+p158
+I1
+sVpark
+p159
+I1
+sVpunan
+p160
+I1
+sVit
+p161
+I29
+sVglass
+p162
+I1
+sVwake
+p163
+I1
+sVgain
+p164
+I1
+sVrabbit
+p165
+I23
+sVtimbaland
+p166
+I1
+sVbaby
+p167
+I1
+sVhurry
+p168
+I1
+sVchill
+p169
+I1
+sVcase
+p170
+I1
+sVeast
+p171
+I3
+sVthis
+p172
+I1
+sVbiscuit
+p173
+I1
+sVride
+p174
+I3
+sVcant
+p175
+I1
+sVmary
+p176
+I1
+sVuh
+p177
+I7
+sVloves
+p178
+I1
+sVfun
+p179
+I1
+sVill
+p180
+I1
+sVreal
+p181
+I1
+sVcmon
+p182
+I2
+sVfreak
+p183
+I1
+sVwant
+p184
+I1
+sVscandalous
+p185
+I1
+sVludi
+p186
+I1
+sVmind
+p187
+I1
+sVfuck
+p188
+I1
+sVrip
+p189
+I1
+sVrooster
+p190
+I2
+sVstrain
+p191
+I1
+sVsay
+p192
+I3
+sVim
+p193
+I3
+sVat
+p194
+I1
+sVslip
+p195
+I1
+sVclose
+p196
+I1
+sVready
+p197
+I1
+sVhandle
+p198
+I1
+sVkeep
+p199
+I3
+sVshit
+p200
+I2
+sVhoe
+p201
+I1
+sVbroke
+p202
+I1
+sVemergency
+p203
+I1
+sVlil
+p204
+I1
+sVna
+p205
+I5
+sVmake
+p206
+I4
+sVhuh
+p207
+I2
+sVtil
+p208
+I1
+sVtight
+p209
+I2
+sVhot
+p210
+I1
+sVtake
+p211
+I4
+sVbetter
+p212
+I1
+sVreally
+p213
+I3
+sVpaddy
+p214
+I1
+sVcloser
+p215
+I2
+sVused
+p216
+I1
+sVpain
+p217
+I1
+sVbrothers
+p218
+I1
+sVtrack
+p219
+I1
+sVsurprise
+p220
+I1
+sVdive
+p221
+I1
+sVtime
+p222
+I5
+sVbladder
+p223
+I1
+sVlay
+p224
+I2
+sVkinda
+p225
+I1
+sVcoming
+p226
+I1
+sVpresident
+p227
+I1
+sVcoast
+p228
+I6
+sVdove
+p229
+I1
+sVbreak
+p230
+I1
+sVcoochie
+p231
+I1
+sVwhenever
+p232
+I1
+sVlight
+p233
+I1
+sVphat
+p234
+I3
+sVlife
+p235
+I1
+sVdog
+p236
+I1
+sVthought
+p237
+I1
+sVsouth
+p238
+I3
+sVworry
+p239
+I1
+sVambulance
+p240
+I1
+sVplatter
+p241
+I1
+sVwing
+p242
+I1
+sVnappy
+p243
+I1
+s.

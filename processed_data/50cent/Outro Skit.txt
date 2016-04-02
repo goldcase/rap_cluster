@@ -1,12 +1,92 @@
-"outro skit" lyrics
-50 cent lyrics
-"outro skit"
-the murders that made it,
-impossible for them to dissolve the secret society...
-which leaves them only one course of action:
-to protect, defend, and expand.
-the bigger they get, the less vulnerable they become!
-be careful!
-they will do everything they can to manipulate you.
-only if and when they can't...
-will kill you!
+(dp1
+Vlyrics
+p2
+I2
+sVless
+p3
+I1
+sVit
+p4
+I1
+sVone
+p5
+I1
+sVcourse
+p6
+I1
+sVcant
+p7
+I1
+sVkill
+p8
+I1
+sVoutro
+p9
+I2
+sVimpossible
+p10
+I1
+sVvulnerable
+p11
+I1
+sVdefend
+p12
+I1
+sVcent
+p13
+I1
+sVeverything
+p14
+I1
+sVsecret
+p15
+I1
+sVexpand
+p16
+I1
+sVyou
+p17
+I2
+sVget
+p18
+I1
+sVskit
+p19
+I2
+sVmanipulate
+p20
+I1
+sVcareful
+p21
+I1
+sVbigger
+p22
+I1
+sVprotect
+p23
+I1
+sVmade
+p24
+I1
+sVsociety
+p25
+I1
+sVleaves
+p26
+I1
+sV50
+p27
+I1
+sVaction
+p28
+I1
+sVbecome
+p29
+I1
+sVmurders
+p30
+I1
+sVdissolve
+p31
+I1
+s.

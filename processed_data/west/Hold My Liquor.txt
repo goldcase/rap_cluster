@@ -1,46 +1,344 @@
-hold liquor lyrics
-kanye west lyrics
-hold liquor
-feat chief keef  justin vernon
-hold liquor
-man cant handle me
-man cant handle weed
-chicago south town
-im indiana
-im heard radio now
-cant handle liquor
-bitches cant handle me
-cant control niggas
-niggas cant control me
-say know nigga
-really know old me
-bitch im back coma waking sofa
-park range rover slightly scratch corolla
-okay smashed corolla im hanging hangover
-five years ask came over
-one hit ya one fuck ya
-one cold night october pussy floating
-feel like deepak chopra pussy dead
-might call 2pac yeezys sofa red octobers
-still aint learn manners love aint sober
-love im hungover even blow doja
-auntie came skinny bitch shoulders
-tellin im bogus bitch dont even know us
-baby girl hes loner baby girl hes loner
-late night organ donor disown ya
-hes hopeless soul mates become soulless
-hes sober bitch im back coma
-cant handle liquor
-bitches cant handle me
-cant control niggas
-niggas cant control me
-say know nigga
-really know old me
-heard need new fad
-heard need new stack
-heard need new phone
-know rents aint home
-callin uncles place
-shits place
-dont hear phone
-ohhh phone
+(dp1
+Vlyrics
+p2
+I2
+sVscratch
+p3
+I1
+sVover
+p4
+I1
+sVdoja
+p5
+I1
+sVyears
+p6
+I1
+sVradio
+p7
+I1
+sVhanging
+p8
+I1
+sVkanye
+p9
+I1
+sVcold
+p10
+I1
+sVstill
+p11
+I1
+sVfeat
+p12
+I1
+sVblow
+p13
+I1
+sVrover
+p14
+I1
+sVlate
+p15
+I1
+sVauntie
+p16
+I1
+sVohhh
+p17
+I1
+sVmight
+p18
+I1
+sVme
+p19
+I7
+sVcallin
+p20
+I1
+sVhit
+p21
+I1
+sVuncles
+p22
+I1
+sVya
+p23
+I3
+sVdeepak
+p24
+I1
+sVfive
+p25
+I1
+sVknow
+p26
+I6
+sVnow
+p27
+I1
+sVfad
+p28
+I1
+sVlike
+p29
+I1
+sVorgan
+p30
+I1
+sVsofa
+p31
+I2
+sVcorolla
+p32
+I2
+sVnight
+p33
+I2
+sVbecome
+p34
+I1
+sVnigga
+p35
+I2
+sVold
+p36
+I2
+sVrents
+p37
+I1
+sVliquor
+p38
+I5
+sVback
+p39
+I2
+sVdead
+p40
+I1
+sVwaking
+p41
+I1
+sVus
+p42
+I1
+sVhome
+p43
+I1
+sVgirl
+p44
+I2
+sVreally
+p45
+I2
+sVeven
+p46
+I2
+sVchicago
+p47
+I1
+sVbogus
+p48
+I1
+sVnew
+p49
+I3
+sVred
+p50
+I1
+sVaint
+p51
+I3
+sVsoulless
+p52
+I1
+sVhungover
+p53
+I1
+sVvernon
+p54
+I1
+sVcoma
+p55
+I2
+sVjustin
+p56
+I1
+sVchopra
+p57
+I1
+sVrange
+p58
+I1
+sVplace
+p59
+I2
+sVhopeless
+p60
+I1
+sVkeef
+p61
+I1
+sVslightly
+p62
+I1
+sVsouth
+p63
+I1
+sVlove
+p64
+I2
+sVdont
+p65
+I2
+sVfeel
+p66
+I1
+sVpussy
+p67
+I2
+sVmanners
+p68
+I1
+sVone
+p69
+I3
+sVask
+p70
+I1
+sVbitch
+p71
+I4
+sVsoul
+p72
+I1
+sVsober
+p73
+I2
+sVhes
+p74
+I4
+sVwest
+p75
+I1
+sVcall
+p76
+I1
+sVshits
+p77
+I1
+sVindiana
+p78
+I1
+sVshoulders
+p79
+I1
+sVbitches
+p80
+I2
+sVpark
+p81
+I1
+sVphone
+p82
+I3
+sVhear
+p83
+I1
+sVoctobers
+p84
+I1
+sVbaby
+p85
+I2
+sVhold
+p86
+I3
+sV2pac
+p87
+I1
+sVtown
+p88
+I1
+sVoctober
+p89
+I1
+sVniggas
+p90
+I4
+sVsay
+p91
+I2
+sVtellin
+p92
+I1
+sVlearn
+p93
+I1
+sVsmashed
+p94
+I1
+sVcontrol
+p95
+I4
+sVyeezys
+p96
+I1
+sVfuck
+p97
+I1
+sVheard
+p98
+I4
+sVcant
+p99
+I10
+sVmates
+p100
+I1
+sVim
+p101
+I7
+sVneed
+p102
+I3
+sVhandle
+p103
+I6
+sVfloating
+p104
+I1
+sVhangover
+p105
+I1
+sVdonor
+p106
+I1
+sVloner
+p107
+I2
+sVokay
+p108
+I1
+sVweed
+p109
+I1
+sVdisown
+p110
+I1
+sVstack
+p111
+I1
+sVman
+p112
+I2
+sVchief
+p113
+I1
+sVskinny
+p114
+I1
+sVcame
+p115
+I2
+s.

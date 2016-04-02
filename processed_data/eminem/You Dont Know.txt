@@ -1,101 +1,717 @@
-"you don't know" lyrics
-eminem lyrics
-"you don't know"
-(feat. 50 cent, lloyd banks, ca$his)
-yeah...
-who run it?
-you know, you acting like you don't know
-we run it
-you know but you acting like you don't know
-who run it?
-you know, you acting like you don't know
-we run it
-you know but you acting like you don't know
-you know, you acting like you don't know
-i tear the club up fo' sho'
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-now homie i say i run it (run it) cause i'm in control
-hypnotic, hennessey, a couple shots of patron
-i have you feeling aight, i get you high as a kite
-party popping shawty says she coming with me tonight
-i ain't shoulder leaning, i ain't snapping and popping
-either i'm bobbin ma head or i'm just standing their watching
-i'm a hustler i hustle, you can tell that i'm paid
-and i protect what i got, i'm in the house with my blade
-nigga you front you gone get it, ok now maybe i said it
-cause i want you to triddy, yeah i be on that shitty
-you should see when i'm stunting, i flash the stones to be wanting
-push the whip, see me rolling, you can tell that i'm holding
-i'm just doing ma thang, you know the units the game
-i got my grimy shady with me you front you gonna have to get me off your ass
-i pay the lawsuit and laugh (haha)
-it's not a big deal it's nothing but some cash (let's go)
-who run it?
-you know, you acting like you don't know
-i tear the club up fo' sho'
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-who run it?
-you know, you acting like you don't know
-i tear the club up fo' sho'
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-when me and fif got together to do this music
-the more we became enveloped we just developed a fellowship through it
-it's no pretend shit, it's friendship, me nemesis is su nemesis
-ain't for him, it's just media, see to them it's just images
-but this shit is no gimmicks, this is blood in and blood out
-when there's beef you jus' gotta know when to butt in and butt out
-if there's a problem we solve it, if we don't resolve it
-it usually just evolves into one big brawl and we all get involved in it
-we should all get a merit, this much beef we inherit
-and wear it like a badge with honor, pass it around and share it
-and let it go to whoever's holding the most current beef on their shoulders
-and their soldiers got their backs 'til it's over
-but tonight, we ain't coming here to beef with nobody
-we came to party, banks, cashis and mr. ferrari
-so it's shady aftermizat back in that ass, you wizzass
-come hizzon what kinda fuzukin quizition is that
-who run it?
-you know, you acting like you don't know
-i tear the club up fo' sho'
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-who run it?
-i say you know, you acting like you don't know
-i tear the club up fo' sho'
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-pistol play ricochet, see where the victim lay
-slumped over bleeding j.f.k
-hays k to your chest plate cave
-i ride to the death, do you rep that way?
-forever ima be a shady 7-4 gangsta
-plus i survive everything you got in that chamber
-i thrive off of danger, jumping in all beef
-you keep talking shit now the squad called me
-enough holding back the steam, em let off a magazine
-dappadon cappa queen mixed in with cashis creams
-started off with half a dream, developed into what you see
-telling ain't my cup of tea, can't tell i'm a fucking g
-i'm on automatic when i'm at it, start static
-and you splattered, shit shattered, i'm a walking bitch magnet
-spit it how i live it, live it all the way to the limit
-and i'm always on my pivot for my digits, you dig it?
-who run it?
-you know, you acting like you don't know
-i tear the club up fo sho
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-who run it?
-you know, you acting like you don't know
-i tear the club up fo sho
-this flow is gon' bring mo dough
-and you know but you acting like you don't know
-who run it?
-you know who this is
-shady, g-unit, aftermath
-lloyd bands, cashis, marshall mathers, ferrari f-50
-it's a movement, you can't stop it
-talk of new york, tony yayo...
+(dp1
+Vstones
+p2
+I1
+sVwalking
+p3
+I1
+sVcave
+p4
+I1
+sVkite
+p5
+I1
+sVlyrics
+p6
+I2
+sVis
+p7
+I1
+sVdeveloped
+p8
+I2
+sVover
+p9
+I1
+sVqueen
+p10
+I1
+sVmerit
+p11
+I1
+sVbring
+p12
+I7
+sVdough
+p13
+I7
+sVlloyd
+p14
+I2
+sVvictim
+p15
+I1
+sVgo
+p16
+I2
+sVinherit
+p17
+I1
+sVfeat
+p18
+I1
+sVhustler
+p19
+I1
+sVaint
+p20
+I5
+sVshattered
+p21
+I1
+sVnemesis
+p22
+I2
+sVeverything
+p23
+I1
+sVthang
+p24
+I1
+sVflash
+p25
+I1
+sVenough
+p26
+I1
+sVlets
+p27
+I1
+sVfif
+p28
+I1
+sVsu
+p29
+I1
+sVgangsta
+p30
+I1
+sVhennessey
+p31
+I1
+sVta
+p32
+I1
+sVplate
+p33
+I1
+sVaround
+p34
+I1
+sVwatching
+p35
+I1
+sVbig
+p36
+I2
+sVcouple
+p37
+I1
+sVstop
+p38
+I1
+sVshitty
+p39
+I1
+sVgame
+p40
+I1
+sVknow
+p41
+I41
+sVparty
+p42
+I2
+sVfront
+p43
+I2
+sVnew
+p44
+I1
+sV74
+p45
+I1
+sVshoulder
+p46
+I1
+sVjumping
+p47
+I1
+sVresolve
+p48
+I1
+sVwizzass
+p49
+I1
+sVlike
+p50
+I19
+sVf50
+p51
+I1
+sVtear
+p52
+I7
+sVbadge
+p53
+I1
+sVdig
+p54
+I1
+sV50
+p55
+I1
+sVmagnet
+p56
+I1
+sVchamber
+p57
+I1
+sVeither
+p58
+I1
+sVshots
+p59
+I1
+sValways
+p60
+I1
+sVwhoevers
+p61
+I1
+sVfriendship
+p62
+I1
+sVride
+p63
+I1
+sVsho
+p64
+I7
+sVem
+p65
+I1
+sVnigga
+p66
+I1
+sVsays
+p67
+I1
+sVdeal
+p68
+I1
+sVbleeding
+p69
+I1
+sVhouse
+p70
+I1
+sVyeah
+p71
+I2
+sVautomatic
+p72
+I1
+sVsee
+p73
+I5
+sVstatic
+p74
+I1
+sVmixed
+p75
+I1
+sVpass
+p76
+I1
+sVimages
+p77
+I1
+sVslumped
+p78
+I1
+sVhays
+p79
+I1
+sVcahis
+p80
+I1
+sVwhip
+p81
+I1
+sVout
+p82
+I2
+sVenveloped
+p83
+I1
+sVgon
+p84
+I8
+sVstunting
+p85
+I1
+sVrep
+p86
+I1
+sVcurrent
+p87
+I1
+sVfellowship
+p88
+I1
+sVacting
+p89
+I18
+sVcappa
+p90
+I1
+sVgot
+p91
+I6
+sVpistol
+p92
+I1
+sVcause
+p93
+I2
+sVthrive
+p94
+I1
+sVhustle
+p95
+I1
+sVass
+p96
+I2
+sVima
+p97
+I1
+sVcashis
+p98
+I3
+sVrun
+p99
+I13
+sVbrawl
+p100
+I1
+sVmr
+p101
+I1
+sVmathers
+p102
+I1
+sVeminem
+p103
+I1
+sVyork
+p104
+I1
+sVdeath
+p105
+I1
+sVlet
+p106
+I2
+sVwear
+p107
+I1
+sVgunit
+p108
+I1
+sVaftermath
+p109
+I1
+sVpretend
+p110
+I1
+sVlawsuit
+p111
+I1
+sVjfk
+p112
+I1
+sVprotect
+p113
+I1
+sVok
+p114
+I1
+sVg
+I1
+sVinvolved
+p115
+I1
+sVk
+I1
+sVcup
+p116
+I1
+sVgimmicks
+p117
+I1
+sVmovement
+p118
+I1
+sVkeep
+p119
+I1
+sVmagazine
+p120
+I1
+sVbecame
+p121
+I1
+sVplus
+p122
+I1
+sVusually
+p123
+I1
+sVhonor
+p124
+I1
+sVlay
+p125
+I1
+sVtony
+p126
+I1
+sVdont
+p127
+I21
+sVdanger
+p128
+I1
+sVmarshall
+p129
+I1
+sVone
+p130
+I1
+sVnothing
+p131
+I1
+sVsoldiers
+p132
+I1
+sVbitch
+p133
+I1
+sVlaugh
+p134
+I1
+sVfuzukin
+p135
+I1
+sVpivot
+p136
+I1
+sVsplattered
+p137
+I1
+sVaftermizat
+p138
+I1
+sVstanding
+p139
+I1
+sVbeef
+p140
+I5
+sVstart
+p141
+I1
+sVcome
+p142
+I1
+sVcent
+p143
+I1
+sVfucking
+p144
+I1
+sVlive
+p145
+I2
+sVmuch
+p146
+I1
+sVmusic
+p147
+I1
+sVtriddy
+p148
+I1
+sVgrimy
+p149
+I1
+sVsurvive
+p150
+I1
+sVcreams
+p151
+I1
+sVtell
+p152
+I3
+sVmedia
+p153
+I1
+sVhead
+p154
+I1
+sVway
+p155
+I2
+sVspit
+p156
+I1
+sVthat
+p157
+I1
+sVclub
+p158
+I7
+sVnobody
+p159
+I1
+sVhaha
+p160
+I1
+sVdigits
+p161
+I1
+sVcant
+p162
+I2
+sVback
+p163
+I2
+sVjus
+p164
+I1
+sVbutt
+p165
+I2
+sVyayo
+p166
+I1
+sVme
+p167
+I1
+sVtonight
+p168
+I2
+sVma
+p169
+I2
+sVmo
+p170
+I7
+sVblade
+p171
+I1
+sVcash
+p172
+I1
+sVlimit
+p173
+I1
+sVleaning
+p174
+I1
+sVaight
+p175
+I1
+sVdappadon
+p176
+I1
+sVproblem
+p177
+I1
+sVfeeling
+p178
+I1
+sVcalled
+p179
+I1
+sVtheres
+p180
+I2
+sVcontrol
+p181
+I1
+sVgone
+p182
+I1
+sVpatron
+p183
+I1
+sVtelling
+p184
+I1
+sVflow
+p185
+I7
+sVhalf
+p186
+I1
+sVshare
+p187
+I1
+sVit
+p188
+I18
+sVhigh
+p189
+I1
+sVtalking
+p190
+I1
+sVsay
+p191
+I2
+sVhomie
+p192
+I1
+sVim
+p193
+I14
+sVtogether
+p194
+I1
+sVwant
+p195
+I1
+sVtea
+p196
+I1
+sVricochet
+p197
+I1
+sVshit
+p198
+I4
+sVna
+p199
+I1
+sVget
+p200
+I5
+sVshoulders
+p201
+I1
+sVbacks
+p202
+I1
+sVtil
+p203
+I1
+sVstarted
+p204
+I1
+sVchest
+p205
+I1
+sVsquad
+p206
+I1
+sVpopping
+p207
+I2
+sVholding
+p208
+I3
+sVbands
+p209
+I1
+sVunits
+p210
+I1
+sVwanting
+p211
+I1
+sVshawty
+p212
+I1
+sVbobbin
+p213
+I1
+sVquizition
+p214
+I1
+sVplay
+p215
+I1
+sVhizzon
+p216
+I1
+sVpaid
+p217
+I1
+sVsteam
+p218
+I1
+sVbanks
+p219
+I2
+sVsaid
+p220
+I1
+sVblood
+p221
+I2
+sVkinda
+p222
+I1
+sVcoming
+p223
+I2
+sVrolling
+p224
+I1
+sVfo
+p225
+I7
+sVforever
+p226
+I1
+sVmaybe
+p227
+I1
+sVshady
+p228
+I4
+sVsnapping
+p229
+I1
+sVhypnotic
+p230
+I1
+sVevolves
+p231
+I1
+sVsolve
+p232
+I1
+sVtalk
+p233
+I1
+sVpay
+p234
+I1
+sVpush
+p235
+I1
+sVdream
+p236
+I1
+sVferrari
+p237
+I2
+sVcame
+p238
+I1
+s.

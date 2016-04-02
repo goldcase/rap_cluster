@@ -1,72 +1,644 @@
-"if i can't" lyrics
-50 cent lyrics
-"if i can't"
-yea, ha ha, yea, yea
-if i can't do it, homie, it can't be done
-now i'ma let the champagne bottle pop
-i'ma take it to the top
-fo sho i'ma make it hot, baby (baby)
-i apply pressure to pussies that stuntin i pop
-stand alone squeezin my pistol i'm sure that i gotta
-now peter piper picked peppers but run rocked rhymes
-i'm 50 cent, i write a lil bit but i pop nines
-tell niggaz, "get they money right," cuz i got mine
-and i'm around quit playin nigga you can't shine
-you gon be that next chump to end up in the trunk
-after bein hit by the pump, is that whut you want?
-be easy nigga, i'll lay your ass out
-believe me nigga, thats whut i'm about, gangsta
-you could find a nigga sittin on chrome
-hit the clutch, hit the gear, hit the gas & i'm gone (yea!)
-if i can't do it, homie, it can't be done
-now i'ma let the champagne bottle pop
-i'ma take it to the top
-fo sho i'ma make it hot, baby (baby)
-i'm down for the action, he smart with his mouth so smack em
-you holdin a strap, he might come back so clap em
-react like a gangsta, die like a gangsta for actin
-cuz you'll get hit & homicide'll be askin, "whut happened?"
-oh no look who clapped em with the fo'fo'
-20 inch rims sitting on lo pros
-eastside, westside niggaz know, yo, i'm loco
-even my mama said, "something really wrong with my brain"
-niggaz don't rob me they know i'm down to die for my chain
-g-unit! we get it poppin in the hood
-g-unit! muthafucka whuts good?
-i'm waitin on niggaz to act like they dont know how to act
-i had a sip of too much jack, i'll blow em off the map
-with the mack, thinkin its all rap
-til that ass get clapped and doc say "it's a wrap"
-(it's a wrap, nigga)
-if i can't do it, homie, it can't be done
-now i'ma let the champagne bottle pop
-i'ma take it to the top
-fo sho i'ma make it hot, baby (baby)
-i been feelin i had to teach lessons to slow learners
-go head act up, get smacked in the head with the burner
-i dont fight fair, i'm dirty-dirty
-i'm from southside jamaica, queens, nigga ya'heard me?
-when streetlights come on niggaz blast the nines
-get locked up, they read books to pass the time
-in the game there's up's and down's, so i stay on the grind
-niggaz on my dick more than my bitch, i stay on they mind
-they aint nothin they could do to stop my shine
-this is god's plan homey, this ain't mine
-i played the music loud so grandpa called me a nuisance
-and grandma; who always gotta throw in her two cents
-i'm the drop out who made more more money than these teachers
-roofless/ruthless like the coupe but i come with more features
-i am whut i am, you could like it or love it
-it feels good to pull 50 grand & think nothin of it
-fuck it
-if i can't do it, homie, it can't be done
-now i'ma let the champagne bottle pop
-i'ma take it to the top
-fo sho i'ma make it hot, baby (baby)
-if i can't do it, homie, it can't be done
-now i'ma let the champagne bottle pop
-i'ma take it to the top
-fo sho i'ma make it hot, baby (baby)
-uh huh, hood make it hot
-dr dre, aftermath
-shady, ha ha
+(dp1
+Vlyrics
+p2
+I2
+sVyea
+p3
+I4
+sVmoney
+p4
+I2
+sVrob
+p5
+I1
+sVbrain
+p6
+I1
+sVrocked
+p7
+I1
+sVgo
+p8
+I1
+sVfind
+p9
+I1
+sVclapped
+p10
+I2
+sVfeatures
+p11
+I1
+sVima
+p12
+I15
+sVtil
+p13
+I1
+sVha
+p14
+I4
+sV20
+p15
+I1
+sVchain
+p16
+I1
+sVnines
+p17
+I2
+sVlo
+p18
+I1
+sVdick
+p19
+I1
+sVpoppin
+p20
+I1
+sVcuz
+p21
+I2
+sVactin
+p22
+I1
+sVeasy
+p23
+I1
+sVgods
+p24
+I1
+sVfofo
+p25
+I1
+sVeastside
+p26
+I1
+sVgangsta
+p27
+I3
+sVmight
+p28
+I1
+sVsmart
+p29
+I1
+sVta
+p30
+I2
+sVgood
+p31
+I2
+sVhit
+p32
+I5
+sVaround
+p33
+I1
+sVyo
+p34
+I1
+sVget
+p35
+I6
+sVread
+p36
+I1
+sVbein
+p37
+I1
+sVsittin
+p38
+I1
+sVstop
+p39
+I1
+sVfeelin
+p40
+I1
+sVsmack
+p41
+I1
+sVknow
+p42
+I3
+sVsouthside
+p43
+I1
+sVbit
+p44
+I1
+sVblast
+p45
+I1
+sVdr
+p46
+I1
+sVpistol
+p47
+I1
+sVlike
+p48
+I5
+sVclutch
+p49
+I1
+sVdrop
+p50
+I1
+sV50
+p51
+I3
+sVholdin
+p52
+I1
+sVdie
+p53
+I2
+sVups
+p54
+I1
+sVclap
+p55
+I1
+sVsho
+p56
+I5
+sVem
+p57
+I4
+sVjamaica
+p58
+I1
+sVright
+p59
+I1
+sVfair
+p60
+I1
+sVdirtydirty
+p61
+I1
+sVback
+p62
+I1
+sVaskin
+p63
+I1
+sVrhymes
+p64
+I1
+sVpicked
+p65
+I1
+sVpass
+p66
+I1
+sVplayin
+p67
+I1
+sVpeter
+p68
+I1
+sVout
+p69
+I1
+sVeven
+p70
+I1
+sVgon
+p71
+I1
+sVpussies
+p72
+I1
+sVpiper
+p73
+I1
+sVpros
+p74
+I1
+sVpump
+p75
+I1
+sVrap
+p76
+I1
+sVit
+p77
+I3
+sVgot
+p78
+I3
+sVlearners
+p79
+I1
+sVchampagne
+p80
+I5
+sVyoull
+p81
+I1
+sVuh
+p82
+I1
+sVass
+p83
+I2
+sVblow
+p84
+I1
+sVrun
+p85
+I1
+sVrims
+p86
+I1
+sVmuthafucka
+p87
+I1
+sVpressure
+p88
+I1
+sVslow
+p89
+I1
+sVlet
+p90
+I5
+sVtrunk
+p91
+I1
+sValone
+p92
+I1
+sVaftermath
+p93
+I1
+sVhomicidell
+p94
+I1
+sVcome
+p95
+I3
+sVthrow
+p96
+I1
+sVstuntin
+p97
+I1
+sVshine
+p98
+I2
+sVstreetlights
+p99
+I1
+sVoh
+p100
+I1
+sVcould
+p101
+I3
+sVcalled
+p102
+I1
+sVcoupe
+p103
+I1
+sVstand
+p104
+I1
+sVact
+p105
+I3
+sVaction
+p106
+I1
+sVloud
+p107
+I1
+sVthink
+p108
+I1
+sVthats
+p109
+I1
+sVlove
+p110
+I1
+sVdont
+p111
+I3
+sVgrandma
+p112
+I1
+sVpop
+p113
+I7
+sVstrap
+p114
+I1
+sVgunit
+p115
+I2
+sVnigga
+p116
+I6
+sVdone
+p117
+I5
+sVbitch
+p118
+I1
+sVwrap
+p119
+I2
+sVapply
+p120
+I1
+sVfight
+p121
+I1
+sVteach
+p122
+I1
+sVhood
+p123
+I2
+sVquit
+p124
+I1
+sVaint
+p125
+I2
+sVchrome
+p126
+I1
+sVwestside
+p127
+I1
+sVtop
+p128
+I5
+sVtwo
+p129
+I1
+sVcent
+p130
+I2
+sVnext
+p131
+I1
+sVmuch
+p132
+I1
+sVmusic
+p133
+I1
+sVpeppers
+p134
+I1
+sVqueens
+p135
+I1
+sVtell
+p136
+I1
+sVhead
+p137
+I2
+sVfeels
+p138
+I1
+sVgear
+p139
+I1
+sVdre
+p140
+I1
+sVfuck
+p141
+I1
+sVgas
+p142
+I1
+sValways
+p143
+I1
+sVloco
+p144
+I1
+sVburner
+p145
+I1
+sVmama
+p146
+I1
+sVgrandpa
+p147
+I1
+sVrooflessruthless
+p148
+I1
+sVbaby
+p149
+I10
+sVbelieve
+p150
+I1
+sVme
+p151
+I1
+sVpull
+p152
+I1
+sVmade
+p153
+I1
+sVlocked
+p154
+I1
+sVlook
+p155
+I1
+sVhomey
+p156
+I1
+sVsay
+p157
+I1
+sVniggaz
+p158
+I6
+sVwhuts
+p159
+I1
+sVbooks
+p160
+I1
+sVteachers
+p161
+I1
+sVyaheard
+p162
+I1
+sVhappened
+p163
+I1
+sVill
+p164
+I2
+sVtheres
+p165
+I1
+sVgone
+p166
+I1
+sVsmacked
+p167
+I1
+sVwant
+p168
+I1
+sVwhut
+p169
+I4
+sVplayed
+p170
+I1
+sVcents
+p171
+I1
+sVmind
+p172
+I1
+sVmine
+p173
+I2
+sVcant
+p174
+I13
+sVhomie
+p175
+I5
+sVim
+p176
+I12
+sVsomething
+p177
+I1
+sVsqueezin
+p178
+I1
+sVplan
+p179
+I1
+sVsip
+p180
+I1
+sVend
+p181
+I1
+sVlil
+p182
+I1
+sVmake
+p183
+I6
+sVsitting
+p184
+I1
+sVwrite
+p185
+I1
+sVhot
+p186
+I6
+sVtake
+p187
+I5
+sVgrand
+p188
+I1
+sVinch
+p189
+I1
+sVreally
+p190
+I1
+sVdowns
+p191
+I1
+sVwaitin
+p192
+I1
+sVmap
+p193
+I1
+sVsure
+p194
+I1
+sVhuh
+p195
+I1
+sVstay
+p196
+I2
+sVreact
+p197
+I1
+sVwrong
+p198
+I1
+sVsaid
+p199
+I1
+sVmouth
+p200
+I1
+sVlay
+p201
+I1
+sVchump
+p202
+I1
+sVnuisance
+p203
+I1
+sVmack
+p204
+I1
+sVfo
+p205
+I5
+sVlessons
+p206
+I1
+sVdoc
+p207
+I1
+sVshady
+p208
+I1
+sVgame
+p209
+I1
+sVnothin
+p210
+I2
+sVgrind
+p211
+I1
+sVbottle
+p212
+I5
+sVtime
+p213
+I1
+sVthinkin
+p214
+I1
+sVjack
+p215
+I1
+s.

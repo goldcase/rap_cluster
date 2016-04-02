@@ -1,77 +1,674 @@
-"your ass got took" lyrics
-scarface lyrics
-"your ass got took"
-get em up motherfucker this is it
-hold them up where i can see em i take a small bit
-cuz if you make a false move it'll cost ya
-no need to cry for help, the world just lost ya
-hell i don't give a fuck about not witnesses
-witness this
-make it so you can't be figured out
-if you gotta kill a bitch, let her brain out
-have no mercy when you jack
-just the whole motherfuckin family in the black
-fuck a five-oh, you gotta bail out
-or your black ass is headed for the jail house
-people all the judges wanna bust you
-the d.a. does the hey and he agrees the court fuckin up
-hey, the redneck judge caught a boot
-a nigga like the brad cuz a nigga like the brad shoots
-don't be afraid my brother,
-put your finger on the trigger, close your eyes and squeeze the motherfucker
-fuck the press, you gotta pump your chest
-if they don't cooperate, grab some hostages
-kick an old bitch in her pouch
-skull an old nigga, knock his motherfuckin dentures out
-push an old man out his wheelchair
-he's still, his quill there, he gets killed there
-if it's left up to me i'll bury em
-they got a nigga livin in a sanitarium
-a real thief goes by the book
-and that's the first example of your ass gettin took
-i'm pullin them motherfuckin boot falls
-a nigga's dark as shit got me reachin for the firearm
-but i aint goin out like a sucker
-i open up and fall down on the fucker
-if you're caught in the crossfire
-it musta been time for your ass to expire
-cuz i don't shed tears on a victim
-fuck with me, i gotta get him
-that's how it is in the motherfuckin streets
-motherfuckin check your nuts and try to play a nigga weak
-but i got a little news for your ass
-here's a little blast from the brad
-now put that in your pipe and smoke it
-put your hands around your dick and doke it
-you gotta keep your nuts out your stomach fella
-cuz i'ma put a twelve gauge on your ass, nigga
-and never take a second look
-your ass got took
-here's some game for you dick-suckin bitches
-you're hoes who's givin up the pussy for the riches
-but a nigga like me don't pay shit
-to put it blunt to you, homey don't play bitch
-so open up and let me get it
-be payin for the pussy, bitch with it
-aint no pussy in the world worth cash flow
-put bank in your ass, oh no
-it aint no way, motherfucker
-you can be the world's best dick sucker
-but you still don't fit on the payroll
-i run game on a bitch and lay low
-and then i roll with someone else
-and let the other motherfucker play himself
-let her get his cash flow
-but i'm still gettin that ass broke
-let the other nigga keep her
-but everytime you fuck her aint that pussy gettin deeper?
-i bet it kinda makes you wonder
-when you're home all alone, "yo, action place is farther"
-ha ha ha, i thought you had her
-but when you fall asleep, yo, she's rollin with the bradster
-i peep out game and just chill
-you gave her money for rent, but honey paid my light bills
-it aint like a nigga aint rich
-but a bitch has gotta pay for this dick
-reverse the game, get her hooked
-yo, her ass got took
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVnuts
+p4
+I2
+sVhands
+p5
+I1
+sVmove
+p6
+I1
+sVbrain
+p7
+I1
+sVkill
+p8
+I1
+sVfarther
+p9
+I1
+sVvictim
+p10
+I1
+sVhell
+p11
+I1
+sVdicksuckin
+p12
+I1
+sVstill
+p13
+I3
+sVbail
+p14
+I1
+sVagrees
+p15
+I1
+sVaint
+p16
+I6
+sVjudges
+p17
+I1
+sVhold
+p18
+I1
+sVgivin
+p19
+I1
+sVfit
+p20
+I1
+sVitll
+p21
+I1
+sVcuz
+p22
+I4
+sVbust
+p23
+I1
+sVhim
+p24
+I1
+sVtears
+p25
+I1
+sVblack
+p26
+I2
+sVrich
+p27
+I1
+sVmoney
+p28
+I1
+sVworth
+p29
+I1
+sVkick
+p30
+I1
+sVtake
+p31
+I2
+sVreal
+p32
+I1
+sVpay
+p33
+I2
+sVsomeone
+p34
+I1
+sVlivin
+p35
+I1
+sVyo
+p36
+I3
+sVget
+p37
+I5
+sVpress
+p38
+I1
+sVsucker
+p39
+I2
+sVda
+p40
+I1
+sVdark
+p41
+I1
+sVgame
+p42
+I4
+sVjack
+p43
+I1
+sVfall
+p44
+I2
+sVjudge
+p45
+I1
+sVworld
+p46
+I2
+sVbit
+p47
+I1
+sVblast
+p48
+I1
+sVkilled
+p49
+I1
+sVbank
+p50
+I1
+sVknock
+p51
+I1
+sVlike
+p52
+I5
+sVlost
+p53
+I1
+sVeverytime
+p54
+I1
+sVcry
+p55
+I1
+sVbrother
+p56
+I1
+sVtry
+p57
+I1
+sVsmall
+p58
+I1
+sVgauge
+p59
+I1
+sVgrab
+p60
+I1
+sVbills
+p61
+I1
+sVem
+p62
+I3
+sVtwelve
+p63
+I1
+sVshed
+p64
+I1
+sVnigga
+p65
+I9
+sVold
+p66
+I3
+sVpeople
+p67
+I1
+sVhouse
+p68
+I1
+sVstreets
+p69
+I1
+sVthief
+p70
+I1
+sVquill
+p71
+I1
+sVcash
+p72
+I2
+sVsee
+p73
+I1
+sVcost
+p74
+I1
+sVasleep
+p75
+I1
+sVshes
+p76
+I1
+sVhoes
+p77
+I1
+sVclose
+p78
+I1
+sVwitness
+p79
+I1
+sVout
+p80
+I4
+sVheres
+p81
+I2
+sVha
+p82
+I3
+sVhooked
+p83
+I1
+sVbest
+p84
+I1
+sVwitnesses
+p85
+I1
+sVpump
+p86
+I1
+sVfinger
+p87
+I1
+sVgoes
+p88
+I1
+sVgot
+p89
+I13
+sVass
+p90
+I11
+sVmusta
+p91
+I1
+sVrun
+p92
+I1
+sVfella
+p93
+I1
+sVpayroll
+p94
+I1
+sVnever
+p95
+I1
+sVweak
+p96
+I1
+sVmotherfucker
+p97
+I4
+sVexpire
+p98
+I1
+sVlet
+p99
+I5
+sVpaid
+p100
+I1
+sVhostages
+p101
+I1
+sVima
+p102
+I1
+sVput
+p103
+I6
+sVnews
+p104
+I1
+sVpeep
+p105
+I1
+sVbury
+p106
+I1
+sVfigured
+p107
+I1
+sVher
+p108
+I2
+sVoh
+p109
+I1
+sVill
+p110
+I1
+sVkeep
+p111
+I2
+sVelse
+p112
+I1
+sVplace
+p113
+I1
+sVdentures
+p114
+I1
+sVbrad
+p115
+I3
+sVaction
+p116
+I1
+sVpullin
+p117
+I1
+sVwhole
+p118
+I1
+sVfuckin
+p119
+I1
+sVthats
+p120
+I2
+sVdick
+p121
+I3
+sVdont
+p122
+I7
+sVfamily
+p123
+I1
+sVheaded
+p124
+I1
+sVpussy
+p125
+I4
+sVwonder
+p126
+I1
+sVcrossfire
+p127
+I1
+sValone
+p128
+I1
+sVbitch
+p129
+I6
+sVgave
+p130
+I1
+sVshoots
+p131
+I1
+sVopen
+p132
+I2
+sVfirearm
+p133
+I1
+sVwan
+p134
+I1
+sVlittle
+p135
+I2
+sVsecond
+p136
+I1
+sVhes
+p137
+I1
+sVcaught
+p138
+I2
+sVthere
+p139
+I1
+sVhey
+p140
+I2
+sVwhos
+p141
+I1
+sVtrigger
+p142
+I1
+sVlow
+p143
+I1
+sVway
+p144
+I1
+sVworlds
+p145
+I1
+sVgoin
+p146
+I1
+sVeyes
+p147
+I1
+sVhimself
+p148
+I1
+sVstomach
+p149
+I1
+sVdeeper
+p150
+I1
+sVbitches
+p151
+I1
+sVtook
+p152
+I5
+sVfuck
+p153
+I5
+sVgettin
+p154
+I3
+sVbroke
+p155
+I1
+sVsqueeze
+p156
+I1
+sVpouch
+p157
+I1
+sVchill
+p158
+I1
+sVmercy
+p159
+I1
+sVlook
+p160
+I1
+sVskull
+p161
+I1
+sVniggas
+p162
+I1
+sVthis
+p163
+I1
+sVreachin
+p164
+I1
+sVhomey
+p165
+I1
+sVriches
+p166
+I1
+sVup
+p167
+I1
+sVpayin
+p168
+I1
+sVlight
+p169
+I1
+sVim
+p170
+I2
+sVta
+p171
+I6
+sVexample
+p172
+I1
+sVbet
+p173
+I1
+sVreverse
+p174
+I1
+sVfalse
+p175
+I1
+sVsanitarium
+p176
+I1
+sVgive
+p177
+I1
+sVit
+p178
+I5
+sVbradster
+p179
+I1
+sVhoney
+p180
+I1
+sVcant
+p181
+I1
+sVscarface
+p182
+I1
+sVrent
+p183
+I1
+sVhome
+p184
+I1
+sVneed
+p185
+I1
+sVcheck
+p186
+I1
+sVshit
+p187
+I2
+sVaround
+p188
+I1
+sVthought
+p189
+I1
+sVafraid
+p190
+I1
+sVcourt
+p191
+I1
+sVno
+p192
+I1
+sVna
+p193
+I1
+sVmake
+p194
+I2
+sVdoke
+p195
+I1
+sVboot
+p196
+I2
+sVya
+p197
+I2
+sVchest
+p198
+I1
+sVbook
+p199
+I1
+sVmotherfuckin
+p200
+I5
+sVyou
+p201
+I1
+sVgets
+p202
+I1
+sVblunt
+p203
+I1
+sVroll
+p204
+I1
+sVplay
+p205
+I3
+sVsmoke
+p206
+I1
+sVfucker
+p207
+I1
+sVfalls
+p208
+I1
+sVlay
+p209
+I1
+sVkinda
+p210
+I1
+sVredneck
+p211
+I1
+sVcooperate
+p212
+I1
+sVman
+p213
+I1
+sVmakes
+p214
+I1
+sVwheelchair
+p215
+I1
+sVyoure
+p216
+I3
+sVflow
+p217
+I2
+sVrollin
+p218
+I1
+sVpipe
+p219
+I1
+sVfiveoh
+p220
+I1
+sVjail
+p221
+I1
+sVtime
+p222
+I1
+sVpush
+p223
+I1
+sVfirst
+p224
+I1
+sVleft
+p225
+I1
+s.

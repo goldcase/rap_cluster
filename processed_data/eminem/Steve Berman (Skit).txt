@@ -1,38 +1,280 @@
-"steve berman (skit)" lyrics
-eminem lyrics
-"steve berman (skit)"
-(with steve berman)
-'eyyy!
-hey em, what's up?
-steve berman. what's goin' on, man, how you doin'?
-good to see you again. what's up?
-em, could you come in here and have a seat, please?
-umm, yeah, what's...
-vanessa? shut the door
-okay
-so what's up? how's orders looking for the first week?
-it would be better if you gave me nothing at all
-wh...
-this album is less than nothing. i can't sell this fucking record
-wha...
-do you know what's happening to me out there?
-wh-wha-what's the problem?
-violent ground told me to go fuck myself!
-who's violent...?
-tower records told me to shove this record up my ass!
-do you know what it feels like
-to be told to have a record shoved up your ass?
-but, i...
-i'm gonna lose my fuckin' job over this
-you know why dre's record was so successful?
-he's rappin' about big-screen t.v.s, blunts, 40's and bitches.
-you're rappin' about homosexuals and vicadin
-i mean-
-i can't sell this shit!
-what...
-either change the record or it's not coming out!
-what, i...
-now get the fuck out of my office!
-what am i supposed...
-now!
-alright man....
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVless
+p4
+I1
+sVeyyy
+p5
+I1
+sVskit
+p6
+I2
+sVsteve
+p7
+I4
+sVviolent
+p8
+I2
+sVgo
+p9
+I1
+sVground
+p10
+I1
+sVoffice
+p11
+I1
+sVbetter
+p12
+I1
+sVgave
+p13
+I1
+sVgood
+p14
+I1
+sVget
+p15
+I1
+sVvanessa
+p16
+I1
+sVrecords
+p17
+I1
+sVfeels
+p18
+I1
+sVknow
+p19
+I3
+sVnow
+p20
+I1
+sVhomosexuals
+p21
+I1
+sVlike
+p22
+I1
+sV40s
+p23
+I1
+sVeither
+p24
+I1
+sVlose
+p25
+I1
+sVtower
+p26
+I1
+sVmean
+p27
+I1
+sVem
+p28
+I2
+sVfucking
+p29
+I1
+sVyeah
+p30
+I1
+sVtvs
+p31
+I1
+sVseat
+p32
+I1
+sVsee
+p33
+I1
+sVout
+p34
+I1
+sValbum
+p35
+I1
+sVwhat
+p36
+I1
+sVgon
+p37
+I1
+sVplease
+p38
+I1
+sVlooking
+p39
+I1
+sVumm
+p40
+I1
+sVtold
+p41
+I3
+sVass
+p42
+I2
+sVshut
+p43
+I1
+sVdres
+p44
+I1
+sVeminem
+p45
+I1
+sVjob
+p46
+I1
+sVwh
+p47
+I1
+sVcome
+p48
+I1
+sVchange
+p49
+I1
+sVshove
+p50
+I1
+sVcould
+p51
+I1
+sVfuckin
+p52
+I1
+sVfirst
+p53
+I1
+sVwhats
+p54
+I6
+sVshoved
+p55
+I1
+sVwhos
+p56
+I1
+sVblunts
+p57
+I1
+sVwould
+p58
+I1
+sVhes
+p59
+I1
+sVthere
+p60
+I1
+sVhey
+p61
+I1
+sVbigscreen
+p62
+I1
+sVman
+p63
+I2
+sVdoor
+p64
+I1
+sVwhwhawhats
+p65
+I1
+sVbitches
+p66
+I1
+sVmyself
+p67
+I1
+sVrappin
+p68
+I2
+sVup
+p69
+I2
+sVrecord
+p70
+I5
+sVsupposed
+p71
+I1
+sVproblem
+p72
+I1
+sVfuck
+p73
+I2
+sVcant
+p74
+I2
+sVim
+p75
+I1
+sVorders
+p76
+I1
+sVshit
+p77
+I1
+sVsell
+p78
+I2
+sVvicadin
+p79
+I1
+sVna
+p80
+I1
+sVsuccessful
+p81
+I1
+sVweek
+p82
+I1
+sVokay
+p83
+I1
+sVwha
+p84
+I1
+sVdoin
+p85
+I1
+sVcoming
+p86
+I1
+sVnothing
+p87
+I2
+sVgoin
+p88
+I1
+sVhows
+p89
+I1
+sVhappening
+p90
+I1
+sVi
+I2
+sVyoure
+p91
+I1
+sVberman
+p92
+I4
+sValright
+p93
+I1
+s.

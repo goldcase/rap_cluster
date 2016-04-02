@@ -1,74 +1,571 @@
-"roll that shit" lyrics
-50 cent lyrics
-"roll that shit"
-(feat. kidd kidd)
-"i really hate havin to resort
-to knockin elderly people in the head for they money!
-but i'll do it! i'll do it!
-yea, you know i'll do it
-i'll do it, i'll do it
-yea, you know i'll do it
-i like gettin high, mm-uh-uh"
-{"sms, audio"}
-i'll roll the shit, i'll smoke the shit
-(nigga i'm high as a muh'fucker)
-i'll roll the shit, i'll smoke the shit {"the letter c"}
-(ain't nann nigga 'bout to come tell me nothin)
-i'll roll the shit, i'll smoke the shit
-(i'll make yo' bitch come smoke with me)
-i'll roll the shit - i'll roll the shit
-(that's why yo' bitch wan' roll with me, huh!)
-my bentley coupe ain't got no top
-it's hot, i'm checkin my ap
-if i shout let's roll, then bitch you wan' roll
-nigga you must be crazy
-i'll roll the shit, i'll smoke the shit...
-i'll roll the shit - i'll smoke the shit...
-hey slim, hey shady look what you done did
-made a southside nigga get a pocket full of bread
-got that bentley mulsanne to match that boat
-beige leather seats in it, they match that dope
-kush smoke same color to match that coat
-i'm chin-chillin; mo' spillin
-dom poppin, party rockin
-my beat knockin, your bitch watchin
-my feds clockin my shit
-blew a grand apiece on all of my kicks
-get your ass whipped you step on my shit
-nigga you blink i'm all in yo' bitch
-put her in the club, teach her to turn trick
-jack'll be nimble, jack'll cum quick
-this pimp shit, break the paper off bitch
-that shit fake, audemars don't tick
-them ain't diamonds, what is this shit?
-i'm confused, this bill don't go and pick
-i'm a match that deal with my hat
-they said i fell off, i snapped right back
-nigga my money can't fit in no safe
-got a mil' for e'ry lil' bump on yo' face
-tryin to count mine, i'm walkin up in the vault
-better have a pound if you niggaz wan' smoke
-huh! 50 cent, look what you done did
-took a ninth ward nigga from the hood made him big
-now every hoe want a kid from the kidd kidd
-they tripped, slipped and fell on my dick
-give me brain like i ain't got no sense
-i got change, dollars and lil' cents
-i got rich, they ain't seen me since
-now it's all startin to make sense
-i pull up in that brand new benz
-all of a sudden i got brand new friends
-brand new chopper, bitch go blakka
-brrrrrt, like i just broke wind
-(i roll the shit, i smoke the shit)
-i forgot she was in my bed
-(i roll the shit - i smoke the shit)
-damn! i blew through all my bread
-that lambo ain't got no top
-man i'm hotter than stove top
-rider gang, we on top
-and we havin a smoke-out
-eyes low but i'm so high
-don't ask me, i don't know why
-i'll roll the shit and i'll smoke the shit
-if i don't pass the shit don't task for shit, huh!
+(dp1
+Vlyrics
+p2
+I2
+sVyea
+p3
+I2
+sVmoney
+p4
+I2
+sVstove
+p5
+I1
+sVninth
+p6
+I1
+sVaudemars
+p7
+I1
+sVbrain
+p8
+I1
+sVpaper
+p9
+I1
+sVgang
+p10
+I1
+sVseats
+p11
+I1
+sVgo
+p12
+I2
+sVhate
+p13
+I1
+sVaint
+p14
+I6
+sVfit
+p15
+I1
+sVbrrrrrt
+p16
+I1
+sVdick
+p17
+I1
+sVpoppin
+p18
+I1
+sVbetter
+p19
+I1
+sVhavin
+p20
+I2
+sVshout
+p21
+I1
+sVrich
+p22
+I1
+sVbout
+p23
+I1
+sVhat
+p24
+I1
+sVmatch
+p25
+I4
+sVcount
+p26
+I1
+sVyo
+p27
+I4
+sVget
+p28
+I2
+sVbeat
+p29
+I1
+sVbig
+p30
+I1
+sVcheckin
+p31
+I1
+sVjackll
+p32
+I2
+sVpocket
+p33
+I1
+sVevery
+p34
+I1
+sVknow
+p35
+I3
+sVsouthside
+p36
+I1
+sVtick
+p37
+I1
+sVpimp
+p38
+I1
+sVbread
+p39
+I2
+sVlike
+p40
+I3
+sVknockin
+p41
+I2
+sVleather
+p42
+I1
+sVgettin
+p43
+I1
+sV50
+p44
+I2
+sVrider
+p45
+I1
+sVdid
+p46
+I2
+sVstartin
+p47
+I1
+sVquick
+p48
+I1
+sVblew
+p49
+I2
+sVnigga
+p50
+I7
+sVbentley
+p51
+I2
+sVpeople
+p52
+I1
+sVbump
+p53
+I1
+sVback
+p54
+I1
+sVelderly
+p55
+I1
+sVdope
+p56
+I1
+sVbed
+p57
+I1
+sVforgot
+p58
+I1
+sVreally
+p59
+I1
+sVman
+p60
+I1
+sVsaid
+p61
+I1
+sVmmuhuh
+p62
+I1
+sVnann
+p63
+I1
+sVmine
+p64
+I1
+sVfeat
+p65
+I1
+sVsince
+p66
+I1
+sVsms
+p67
+I1
+sVhood
+p68
+I1
+sVdiamonds
+p69
+I1
+sVgot
+p70
+I8
+sVwhipped
+p71
+I1
+sVwatchin
+p72
+I1
+sVass
+p73
+I1
+sVfull
+p74
+I1
+sVnimble
+p75
+I1
+sVstep
+p76
+I1
+sVput
+p77
+I1
+sVteach
+p78
+I1
+sVcome
+p79
+I2
+sVchange
+p80
+I1
+sVc
+I1
+sVill
+p81
+I21
+sVask
+p82
+I1
+sVwalkin
+p83
+I1
+sVturn
+p84
+I1
+sVkidd
+p85
+I4
+sVbeige
+p86
+I1
+sVsmoke
+p87
+I11
+sVpick
+p88
+I1
+sVvault
+p89
+I1
+sVthats
+p90
+I1
+sVchinchillin
+p91
+I1
+sVdont
+p92
+I6
+sVslipped
+p93
+I1
+sVcolor
+p94
+I1
+sVblink
+p95
+I1
+sVsnapped
+p96
+I1
+sVright
+p97
+I1
+sVdone
+p98
+I2
+sVbitch
+p99
+I7
+sVchopper
+p100
+I1
+sVfake
+p101
+I1
+sVhotter
+p102
+I1
+sVboat
+p103
+I1
+sVwan
+p104
+I3
+sVdeal
+p105
+I1
+sVresort
+p106
+I1
+sVblakka
+p107
+I1
+sVtop
+p108
+I4
+sVhey
+p109
+I2
+sVcent
+p110
+I2
+sVcoupe
+p111
+I1
+sVdamn
+p112
+I1
+sVlow
+p113
+I1
+sVrockin
+p114
+I1
+sVtryin
+p115
+I1
+sVtell
+p116
+I1
+sVhead
+p117
+I1
+sVbenz
+p118
+I1
+sVclub
+p119
+I1
+sVbrand
+p120
+I3
+sVhuh
+p121
+I3
+sVtook
+p122
+I1
+sVnew
+p123
+I3
+sVconfused
+p124
+I1
+sVlets
+p125
+I1
+sVbroke
+p126
+I1
+sVkicks
+p127
+I1
+sVward
+p128
+I1
+sVcum
+p129
+I1
+sVmust
+p130
+I1
+sVme
+p131
+I1
+sVpull
+p132
+I1
+sVmade
+p133
+I2
+sVlook
+p134
+I2
+sVmo
+p135
+I1
+sVbill
+p136
+I1
+sVery
+p137
+I1
+sVniggaz
+p138
+I1
+sVtrick
+p139
+I1
+sVapiece
+p140
+I1
+sVsmokeout
+p141
+I1
+sVdollars
+p142
+I1
+sVcrazy
+p143
+I1
+sVpound
+p144
+I1
+sVclockin
+p145
+I1
+sVlambo
+p146
+I1
+sVgive
+p147
+I1
+sVcents
+p148
+I1
+sVslim
+p149
+I1
+sVit
+p150
+I4
+sVhigh
+p151
+I3
+sVap
+p152
+I1
+sVcant
+p153
+I1
+sVsudden
+p154
+I1
+sVim
+p155
+I9
+sVwant
+p156
+I1
+sVsense
+p157
+I2
+sVseen
+p158
+I1
+sVshit
+p159
+I27
+sVkush
+p160
+I1
+sVhoe
+p161
+I1
+sVmil
+p162
+I1
+sVlil
+p163
+I2
+sVmake
+p164
+I2
+sVpass
+p165
+I1
+sVhot
+p166
+I1
+sVgrand
+p167
+I1
+sVparty
+p168
+I1
+sVtripped
+p169
+I1
+sVroll
+p170
+I15
+sVsafe
+p171
+I1
+sVspillin
+p172
+I1
+sVeyes
+p173
+I1
+sVfell
+p174
+I2
+sVfeds
+p175
+I1
+sVletter
+p176
+I1
+sVmuhfucker
+p177
+I1
+sVfriends
+p178
+I1
+sVwhy
+p179
+I1
+sVkid
+p180
+I1
+sVbreak
+p181
+I1
+sVtask
+p182
+I1
+sVdom
+p183
+I1
+sVcoat
+p184
+I1
+sVshady
+p185
+I1
+sVnothin
+p186
+I1
+sVface
+p187
+I1
+sVmulsanne
+p188
+I1
+sVaudio
+p189
+I1
+sVwind
+p190
+I1
+s.

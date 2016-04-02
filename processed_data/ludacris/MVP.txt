@@ -1,61 +1,507 @@
-"mvp" lyrics
-ludacris lyrics
-"mvp"
-i'm the mvp, i'm stupid with this rap shit
-here i am, yep, i'm i'm i'm i i'm the man...word
-here i am, yep, yep, i'm the m-man...word
-here i am, yep, i'm the m-m-man...word
-dtp's about that bomb shit
-when premier puts the needle on the record then i put it on blaast,
-your flow is garbage, i throw it in the trash,
-i'm the mvp, i'm stupid with this rap shit,
-rewind the verse, make the track do a back flip,
-your speakers poppin' on a handstand,
-they snaek dissin' niggas, throwin' little jabs like bam-bam,
-and i'm a bad man,
-they amatures like at apollo, i wipe 'em off the stage like sandman,
-damn man, what the hell you smokin' on,
-it's ludacris i got more cheese than prombolon,
-and the chrome is home, so i'm never home alone,
-and only keep friends with 2-x chromosomes,
-so i command all these rappers: "put the mic down!",
-throw a grenade in your mouth "nigga, bite down!!",
-'cause i'm back with premo on the track,
-takin' it to the essence, showin' niggas how to rap
-here i am, yep, i'm i'm i'm i i'm the man...word
-here i am, yep, yep, i'm the m-man...word
-here i am, yep, i'm the m-m-man...word
-dtp's about that bomb shit
-still hungry as the day i began
-i heat the booth up so much the engineer caught a muthafuckin' tan,
-i'm the truth, when it comes to it,
-i hold hip hop for hostage, since 2000 i put a gun to it,
-and i run through it, like a jamaican boat,
-and everyday is a vacation on jamaican smoke,
-charge your whole block,
-talk shit, they hear the four pop,
-"one, two!" and it don't stop,
-and my deliveries invaded your vicinity, hennesy is my remedy, takin' shots like kennedy,
-and i've been a g, for a long time,
-to these streets i'm connected like i'm online,
-on time for whatever,
-and everytime and album drop, i drop big like voletta,
-i'm ahead of the competition, they wishin' i just fade off,
-my career for your life, let's trade off
-here i am, yep, i'm i'm i'm i i'm the man...word
-here i am, yep, yep, i'm the m-man...word
-here i am, yep, i'm the m-m-man...word
-dtp's about that bomb shit
-8 years in the game, ain't a damn thang change,
-so i brought it back to one of the tracks, so where the damn thang came,
-and he goin' down in history, 'cause he don't sleep,
-and he the first southern rapper on a premo beat,
-i ate the kick and the snare,
-the samples always taste fine,
-and i shoot a hot sixteen from the baseline,
-i'm on point like cp3,
-and i'll be goin' down in rap as the mvp
-here i am, yep, i'm i'm i'm i i'm the man...word
-here i am, yep, yep, i'm the m-man...word
-here i am, yep, i'm the m-m-man...word
-dtp's about that bomb shit
+(dp1
+Vprombolon
+p2
+I1
+sVbomb
+p3
+I4
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I2
+sVessence
+p6
+I1
+sVjabs
+p7
+I1
+sVdeliveries
+p8
+I1
+sVtrade
+p9
+I1
+sVfour
+p10
+I1
+sVsleep
+p11
+I1
+sVamatures
+p12
+I1
+sVhell
+p13
+I1
+sVstill
+p14
+I1
+sVtakin
+p15
+I2
+sVdtps
+p16
+I4
+sVaint
+p17
+I1
+sVhold
+p18
+I1
+sVpremo
+p19
+I2
+sVthang
+p20
+I2
+sVpoppin
+p21
+I1
+sVvicinity
+p22
+I1
+sVwipe
+p23
+I1
+sVverse
+p24
+I1
+sVhennesy
+p25
+I1
+sVfade
+p26
+I1
+sV8
+I1
+sVkick
+p27
+I1
+sVhip
+p28
+I1
+sVvoletta
+p29
+I1
+sVmuthafuckin
+p30
+I1
+sVbig
+p31
+I1
+sVonline
+p32
+I1
+sVstop
+p33
+I1
+sVsandman
+p34
+I1
+sVremedy
+p35
+I1
+sVwhatever
+p36
+I1
+sVsnare
+p37
+I1
+sVyears
+p38
+I1
+sVdissin
+p39
+I1
+sVday
+p40
+I1
+sVcp3
+p41
+I1
+sVlike
+p42
+I8
+sVkennedy
+p43
+I1
+sValways
+p44
+I1
+sVeverytime
+p45
+I1
+sV2x
+p46
+I1
+sVgun
+p47
+I1
+sVbad
+p48
+I1
+sVstupid
+p49
+I2
+sVtruth
+p50
+I1
+sVhandstand
+p51
+I1
+sVem
+p52
+I1
+sVnigga
+p53
+I1
+sVrapper
+p54
+I1
+sVthrowin
+p55
+I1
+sVstreets
+p56
+I1
+sVback
+p57
+I3
+sVcompetition
+p58
+I1
+sVinvaded
+p59
+I1
+sVbooth
+p60
+I1
+sVyep
+p61
+I16
+sVhome
+p62
+I2
+sValbum
+p63
+I1
+sVfine
+p64
+I1
+sVsince
+p65
+I1
+sVgot
+p66
+I1
+sVcause
+p67
+I2
+sVsixteen
+p68
+I1
+sVmanword
+p69
+I4
+sVrun
+p70
+I1
+sVshots
+p71
+I1
+sVblaast
+p72
+I1
+sVnever
+p73
+I1
+sVwishin
+p74
+I1
+sVmic
+p75
+I1
+sVtracks
+p76
+I1
+sVsnaek
+p77
+I1
+sValone
+p78
+I1
+sVthrow
+p79
+I2
+sVchange
+p80
+I1
+sVstage
+p81
+I1
+sVmvp
+p82
+I5
+sVate
+p83
+I1
+sVg
+I1
+sVcareer
+p84
+I1
+sVill
+p85
+I1
+sVkeep
+p86
+I1
+sVsmoke
+p87
+I1
+sVconnected
+p88
+I1
+sVmmanword
+p89
+I4
+sVwhole
+p90
+I1
+sVbite
+p91
+I1
+sVcomes
+p92
+I1
+sVsmokin
+p93
+I1
+sVcheese
+p94
+I1
+sVdont
+p95
+I2
+sVgarbage
+p96
+I1
+sVpoint
+p97
+I1
+sVpop
+p98
+I1
+sVone
+p99
+I2
+sVbrought
+p100
+I1
+sVput
+p101
+I3
+sVboat
+p102
+I1
+sVengineer
+p103
+I1
+sVlittle
+p104
+I1
+sVcharge
+p105
+I1
+sVputs
+p106
+I1
+sVchrome
+p107
+I1
+sVcaught
+p108
+I1
+sVvacation
+p109
+I1
+sVlong
+p110
+I1
+sVtaste
+p111
+I1
+sVmuch
+p112
+I1
+sVdamn
+p113
+I3
+sVgoin
+p114
+I2
+sVlife
+p115
+I1
+sVsamples
+p116
+I1
+sVneedle
+p117
+I1
+sVheat
+p118
+I1
+sVlets
+p119
+I1
+sVhear
+p120
+I1
+sVbeat
+p121
+I1
+sVapollo
+p122
+I1
+sVshoot
+p123
+I1
+sVahead
+p124
+I1
+sVniggas
+p125
+I2
+sVflip
+p126
+I1
+sVrecord
+p127
+I1
+sVgame
+p128
+I1
+sVjamaican
+p129
+I2
+sVgrenade
+p130
+I1
+sVhistory
+p131
+I1
+sVive
+p132
+I1
+sVshowin
+p133
+I1
+sVpremier
+p134
+I1
+sVim
+p135
+I36
+sVrap
+p136
+I4
+sVtan
+p137
+I1
+sVmmmanword
+p138
+I4
+sVeveryday
+p139
+I1
+sVshit
+p140
+I7
+sVspeakers
+p141
+I1
+sVbaseline
+p142
+I1
+sVmake
+p143
+I1
+sVhostage
+p144
+I1
+sVhot
+p145
+I1
+sVhop
+p146
+I1
+sVrewind
+p147
+I1
+sVtrash
+p148
+I1
+sVchromosomes
+p149
+I1
+sVtrack
+p150
+I2
+sVrappers
+p151
+I1
+sVsouthern
+p152
+I1
+sVmouth
+p153
+I1
+sVtwo
+p154
+I1
+sVbambam
+p155
+I1
+sVfriends
+p156
+I1
+sVman
+p157
+I2
+sVdrop
+p158
+I2
+sVcame
+p159
+I1
+sVflow
+p160
+I1
+sVhungry
+p161
+I1
+sV2000
+p162
+I1
+sVcommand
+p163
+I1
+sVblock
+p164
+I1
+sVtime
+p165
+I2
+sVfirst
+p166
+I1
+sVbegan
+p167
+I1
+sVtalk
+p168
+I1
+s.

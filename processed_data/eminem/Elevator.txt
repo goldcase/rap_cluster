@@ -1,93 +1,814 @@
-"elevator" lyrics
-eminem lyrics
-"elevator"
-all aboard, okay, next stop, my basement… ha ha
-i'll meet you down there
-there once was a saying that i used to say
-back in the day when i met dre
-i used to sit and goof on the phone with, my friend proof
-that if i went gold, i'd go right through the roof
-he said what if you went platinum, i'd just laugh at him
-that's not happening, that i can't fathom
-eighty something million records worldwide later,
-i'm living in a house with a fucking elevator
-haters getting mad, they done had enough of shady
-you slay me, nothing you say matters enough to touche me
-rappers try to play me, they use hailie as a ukulele
-woopsa that a fucking daisy
-that's a no-no who even she knows dada's fucking crazy
-fucking animal, cookoo, bananas, fucking a b
-maybe it's because i never had a mother raise me
-fuck around and throw a baby at another baby
-you may think it's cause of the way that i was brought up
-but it's all caught up to me now, karma's in the waters
-every line i ever said has got me in a corner
-you might think it doesn't creep upon ya, but it all does
-you wouldn't listen man, i tried to warn ya when you started
-now your brain's all haunted cause of all the shit you thought of
-chainsaw slaughters turn your daughters into sawdust
-i never thought it'd come to this, i ought to just be honest but
-there once was a saying that i used to say
-back in the day when i met dre
-i used to sit and goof on the phone with, my friend proof
-that if i went gold, i'd go right through the roof
-he said what if you went platinum, i'd just laugh at him
-that's not happening, that i can't fathom
-eighty something million records worldwide later,
-i'm living in a house with a fucking elevator
-sorry lance, mr. lambert, and aiken ain't gonna make it
-they get so mad, when i call them both faggots
-it's all these fucking voices in my head i can't take it
-someone shut that fucking baby up, 'fore i shake it
-you're standing adjacent to jason's last slut, they're facing
-together makes 'em, a fucking bad combination
-i lashed at the doctor in my last operation
-shoved the weiner schnitzel up his ass, hopped away some-
-body please stop the patient, get the cops to mase him
-homie, i'm the sheisse, pass doctor dre some
-i can't leave the game, i just can't walk away son
-no not-a now, not a chance, not today son
-i can't believe i leave for one brief second
-and you pussys queef all over the rap game, naked
-and use a leaf to clean up the crap stains, feck it
-i just keep saying the same exact saying, check it
-there once was a saying that i used to say
-back in the day when i met dre
-i used to sit and goof on the phone with, my friend proof
-that if i went gold, i'd go right through the roof
-he said what if you went platinum, i'd just laugh at him
-that's not happening, that i can't fathom
-eighty something million records worldwide later
-later i'm living in a house with a fucking elevator
-elevator in my house, i'll smell ya later
-i blew the fuck up, a hamster in a microwave-i
-think about an escalator now, steps, i hate 'em
-told the neighbor step away, then i just pepper sprayed 'em
-yeah, for every time you ride down the street
-or hideout, drive by my house and beep
-like now motherfucker, try now to sleep
-lie down motherfucker, try countin' sheep
-and you're tryna find out, why now there's beef?
-mase in your face bitch, cry now pussy
-this is my house, all nine thousand feet
-so you can suck my dick with amy winehouse's teeth
-then i shove 'em in the elevator, take 'em to the top
-stand above em,just to cut the fucking cable, let 'em drop
-walk an hour to the damn refrigerator, get a pop
-while i let 'em fall all the way to the basement yelling stop!
-there once was a saying that i used to say
-back in the day when i met dre
-i used to sit and goof on the phone with, my friend proof
-that if i went gold, i'd go right through the roof
-he said what if you went platinum, i'd just laugh at him
-that's not happening, that i can't fathom
-eighty something million records worldwide later,
-i'm living in a house with a fucking elevator
-fucking son of a bitch, i can't believe this shit
-this must be all that there is, this must be it
-fucking-a even got a bidet
-wash my ass after i shit with gold toilet paper
-dishwasher's so big, when i'm pissed off
-i can just toss a flying saucer in it
-this shit's awesome, yeah, fucking elevator
-living in a house with a fucking elevator
+(dp1
+Vsaying
+p2
+I6
+sVqueef
+p3
+I1
+sVbananas
+p4
+I1
+sVlyrics
+p5
+I2
+sVstains
+p6
+I1
+sVitd
+p7
+I1
+sVtop
+p8
+I1
+sVbrief
+p9
+I1
+sVsprayed
+p10
+I1
+sVsleep
+p11
+I1
+sVshake
+p12
+I1
+sVgo
+p13
+I4
+sVcorner
+p14
+I1
+sVhopped
+p15
+I1
+sVhate
+p16
+I1
+sVfind
+p17
+I1
+sVescalator
+p18
+I1
+sVaiken
+p19
+I1
+sVaint
+p20
+I1
+sVemjust
+p21
+I1
+sVha
+p22
+I2
+sVgold
+p23
+I5
+sVdrive
+p24
+I1
+sVday
+p25
+I4
+sVbasement
+p26
+I1
+sVstand
+p27
+I1
+sVjasons
+p28
+I1
+sVsorry
+p29
+I1
+sVhideout
+p30
+I1
+sVmight
+p31
+I1
+sVought
+p32
+I1
+sVgoof
+p33
+I4
+sVsomeone
+p34
+I1
+sVaround
+p35
+I1
+sVukulele
+p36
+I1
+sVget
+p37
+I3
+sVya
+p38
+I3
+sVbig
+p39
+I1
+sVstop
+p40
+I3
+sVamy
+p41
+I1
+sVmatters
+p42
+I1
+sVchainsaw
+p43
+I1
+sVevery
+p44
+I2
+sVmakes
+p45
+I1
+sVfall
+p46
+I1
+sVcookoo
+p47
+I1
+sVson
+p48
+I3
+sVexact
+p49
+I1
+sVhim
+p50
+I5
+sVfeet
+p51
+I1
+sVlike
+p52
+I1
+sVcable
+p53
+I1
+sVadjacent
+p54
+I1
+sVever
+p55
+I1
+sVcry
+p56
+I1
+sVslaughters
+p57
+I1
+sVtheyre
+p58
+I1
+sVtry
+p59
+I3
+sVbad
+p60
+I1
+sVpaper
+p61
+I1
+sVsteps
+p62
+I1
+sVwent
+p63
+I8
+sVem
+p64
+I7
+sVlance
+p65
+I1
+sVblew
+p66
+I1
+sVright
+p67
+I4
+sVanother
+p68
+I1
+sVfucking
+p69
+I15
+sVhouse
+p70
+I8
+sVcombination
+p71
+I1
+sVsome
+p72
+I2
+sVback
+p73
+I4
+sVup
+p74
+I1
+sVlashed
+p75
+I1
+sVsecond
+p76
+I1
+sVstreet
+p77
+I1
+sVpass
+p78
+I1
+sVoperation
+p79
+I1
+sVfeck
+p80
+I1
+sVcreep
+p81
+I1
+sVsaucer
+p82
+I1
+sVeven
+p83
+I2
+sVliving
+p84
+I5
+sVsaid
+p85
+I5
+sVleaf
+p86
+I1
+sVaway
+p87
+I3
+sVplease
+p88
+I1
+sVfathom
+p89
+I4
+sVenough
+p90
+I2
+sVdoes
+p91
+I1
+sVwinehouses
+p92
+I1
+sVtheres
+p93
+I1
+sVgot
+p94
+I2
+sVdoctor
+p95
+I2
+sVcause
+p96
+I2
+sVwaters
+p97
+I1
+sVtold
+p98
+I1
+sVass
+p99
+I2
+sVstanding
+p100
+I1
+sVshut
+p101
+I1
+sVnever
+p102
+I2
+sVpatient
+p103
+I1
+sVupon
+p104
+I1
+sVmillion
+p105
+I4
+sVmotherfucker
+p106
+I2
+sVslut
+p107
+I1
+sVeminem
+p108
+I1
+sVmet
+p109
+I4
+sVstep
+p110
+I1
+sVcut
+p111
+I1
+sVlet
+p112
+I2
+sVcome
+p113
+I1
+sVthrow
+p114
+I1
+sVcops
+p115
+I1
+sVlast
+p116
+I2
+sVyelling
+p117
+I1
+sVwouldnt
+p118
+I1
+sVgetting
+p119
+I1
+sVwoopsa
+p120
+I1
+sVill
+p121
+I2
+sVpussys
+p122
+I1
+sVhonest
+p123
+I1
+sVturn
+p124
+I1
+sVbasement\u2026
+p125
+I1
+sVaboard
+p126
+I1
+sVneighbor
+p127
+I1
+sVdaisy
+p128
+I1
+sVcountin
+p129
+I1
+sVdre
+p130
+I5
+sVthink
+p131
+I3
+sVthats
+p132
+I5
+sVfaggots
+p133
+I1
+sVmr
+p134
+I1
+sVfuckinga
+p135
+I1
+sVnaked
+p136
+I1
+sVpussy
+p137
+I1
+sVshoved
+p138
+I1
+sVpop
+p139
+I1
+sVwalk
+p140
+I2
+sVbrought
+p141
+I1
+sVwash
+p142
+I1
+sVdoesnt
+p143
+I1
+sVdone
+p144
+I1
+sVbitch
+p145
+I2
+sVlaugh
+p146
+I4
+sVsheep
+p147
+I1
+sVplatinum
+p148
+I4
+sVuse
+p149
+I2
+sVcrap
+p150
+I1
+sVraise
+p151
+I1
+sVbeef
+p152
+I1
+sVcaught
+p153
+I1
+sVthere
+p154
+I1
+sVelevator
+p155
+I10
+sVnext
+p156
+I1
+sVbeep
+p157
+I1
+sVschnitzel
+p158
+I1
+sVcall
+p159
+I1
+sVpissed
+p160
+I1
+sVway
+p161
+I2
+sVteeth
+p162
+I1
+sVshits
+p163
+I1
+sVdamn
+p164
+I1
+sVfriend
+p165
+I4
+sVlisten
+p166
+I1
+sVflying
+p167
+I1
+sVtryna
+p168
+I1
+sVhead
+p169
+I1
+sVknows
+p170
+I1
+sVhailie
+p171
+I1
+sVstarted
+p172
+I1
+sVbrains
+p173
+I1
+sVbelieve
+p174
+I2
+sVbody
+p175
+I1
+sVmase
+p176
+I2
+sVbut
+p177
+I1
+sVit
+p178
+I7
+sVwarn
+p179
+I1
+sVphone
+p180
+I4
+sVgame
+p181
+I2
+sVbaby
+p182
+I3
+sVline
+p183
+I1
+sVhaters
+p184
+I1
+sVmust
+p185
+I2
+sVme
+p186
+I2
+sVb
+I1
+sVfore
+p187
+I1
+sVshove
+p188
+I1
+sVhour
+p189
+I1
+sVnono
+p190
+I1
+sVleave
+p191
+I2
+sVride
+p192
+I1
+sVcant
+p193
+I9
+sVroof
+p194
+I4
+sVdick
+p195
+I1
+sVnine
+p196
+I1
+sVtoday
+p197
+I1
+sVof
+p198
+I1
+sVmeet
+p199
+I1
+sVproof
+p200
+I4
+sVtoilet
+p201
+I1
+sVcrazy
+p202
+I1
+sVyoure
+p203
+I2
+sVslay
+p204
+I1
+sVsawdust
+p205
+I1
+sVtoss
+p206
+I1
+sVawesome
+p207
+I1
+sVbidet
+p208
+I1
+sVone
+p209
+I1
+sVfuck
+p210
+I2
+sVvoices
+p211
+I1
+sVsay
+p212
+I5
+sVhomie
+p213
+I1
+sVim
+p214
+I6
+sVsomething
+p215
+I4
+sVrap
+p216
+I1
+sVfacing
+p217
+I1
+sVkeep
+p218
+I1
+sVdishwashers
+p219
+I1
+sVid
+p220
+I8
+sVshit
+p221
+I3
+sVlie
+p222
+I1
+sVkarmas
+p223
+I1
+sVsit
+p224
+I4
+sVna
+p225
+I1
+sVmake
+p226
+I1
+sVcheck
+p227
+I1
+sVlambert
+p228
+I1
+sVnota
+p229
+I1
+sVtake
+p230
+I2
+sVanimal
+p231
+I1
+sVpepper
+p232
+I1
+sVsmell
+p233
+I1
+sVthousand
+p234
+I1
+sVdaughters
+p235
+I1
+sVhamster
+p236
+I1
+sVworldwide
+p237
+I4
+sVplay
+p238
+I1
+sVused
+p239
+I8
+sVokay
+p240
+I1
+sVtried
+p241
+I1
+sVmay
+p242
+I1
+sVrappers
+p243
+I1
+sVtime
+p244
+I1
+sVeighty
+p245
+I4
+sVdadas
+p246
+I1
+sVchance
+p247
+I1
+sVgon
+p248
+I1
+sVmad
+p249
+I2
+sVmicrowavei
+p250
+I1
+sVnothing
+p251
+I1
+sVsuck
+p252
+I1
+sVrefrigerator
+p253
+I1
+sVman
+p254
+I1
+sVyeah
+p255
+I2
+sVweiner
+p256
+I1
+sVdrop
+p257
+I1
+sVoff
+p258
+I1
+sVhappening
+p259
+I4
+sVrecords
+p260
+I4
+sVmaybe
+p261
+I1
+sVshady
+p262
+I1
+sVlater
+p263
+I6
+sVsheisse
+p264
+I1
+sVtogether
+p265
+I1
+sVface
+p266
+I1
+sVthought
+p267
+I2
+sVtouche
+p268
+I1
+sVclean
+p269
+I1
+sVmother
+p270
+I1
+sVhaunted
+p271
+I1
+s.

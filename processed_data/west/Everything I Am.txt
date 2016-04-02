@@ -1,66 +1,453 @@
-everything lyrics
-kanye west lyrics
-everything am
-oh oh oho
-damn go again
-oh oh oho
-common passed beat made jam
-everything im made everything am
-damn go again
-people talking shit shit hit fan
-everything im made everything am
-never pictureperfectbeyonce
-light al b black chauncey
-remember blackstreet
-black street was
-ill never laid back beat was
-never could see peoplell reach a
-fakeass facade couldnt keep up
-see creeped up
-see played big role chicago like queen latifah
-never rock mink coat winter time like killa cam
-rock mink boots summertime like william
-let know feel man
-cause everything im made everything am
-damn go again
-everybody sayin whats him
-everything im made everything am
-damn go again
-people talk shit shit hits fan
-everything im made everything am
-im back tear up
-haters start engines
-hear em gearin up
-people talk much shit barbershops
-forget get haircut
-ok fair enough streets flarin up
-cause want guntalk dont wear enough
-baggy clothes reeboks adidas
-add spaz shows
-say goodbye naacp award
-goodbye indiaarie award
-theyd rather give niggaplease award
-ill take igotalotofcheese award
-damn go again
-everything im made everything am
-damn go again
-people talk shit shit hits fan
-everything im made everything am
-know people wouldnt usually rap this
-got facts back this
-last year chicago 600 caskets
-man killings wack shit
-oh forgot cept niggas rappin
-know feel like people passin
-got changed chains block ashland
-need talk somebody pastor
-church want tithe cant afford pay
-slip door cause cant afford stay
-15 seconds got say
-thats enough mr west please today
-damn go again
-everybody sayin whats him
-everything im made everything am
-damn go again
-people talk shit shit hits fan
-everything im made everything am
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVqueen
+p4
+I1
+sVgo
+p5
+I8
+sVkanye
+p6
+I1
+sVindiaarie
+p7
+I1
+sVsayin
+p8
+I2
+sVenough
+p9
+I3
+sVadd
+p10
+I1
+sVjam
+p11
+I1
+sVblack
+p12
+I2
+sVnaacp
+p13
+I1
+sVhaircut
+p14
+I1
+sVhit
+p15
+I1
+sVget
+p16
+I1
+sVbeat
+p17
+I2
+sVbig
+p18
+I1
+sVmade
+p19
+I10
+sVfan
+p20
+I4
+sVknow
+p21
+I3
+sVpassin
+p22
+I1
+sV15
+p23
+I1
+sVhim
+p24
+I2
+sVlike
+p25
+I4
+sVslip
+p26
+I1
+sVniggaplease
+p27
+I1
+sVtear
+p28
+I1
+sVchains
+p29
+I1
+sVniggas
+p30
+I1
+sVcommon
+p31
+I1
+sVrock
+p32
+I2
+sVclothes
+p33
+I1
+sVem
+p34
+I1
+sVfakeass
+p35
+I1
+sVfair
+p36
+I1
+sVpeople
+p37
+I7
+sVstreets
+p38
+I1
+sVback
+p39
+I3
+sVboots
+p40
+I1
+sVfacts
+p41
+I1
+sVsee
+p42
+I3
+sVstreet
+p43
+I1
+sVyear
+p44
+I1
+sVcant
+p45
+I2
+sVchicago
+p46
+I2
+sVpeoplell
+p47
+I1
+sVplease
+p48
+I1
+sVeverything
+p49
+I20
+sVlaid
+p50
+I1
+sVgot
+p51
+I3
+sVcause
+p52
+I3
+sVshows
+p53
+I1
+sVflarin
+p54
+I1
+sVnever
+p55
+I4
+sVkillings
+p56
+I1
+sVlet
+p57
+I1
+sVwear
+p58
+I1
+sVcaskets
+p59
+I1
+sVhits
+p60
+I3
+sVok
+p61
+I1
+sVwouldnt
+p62
+I1
+sVoh
+p63
+I5
+sVill
+p64
+I2
+sVchanged
+p65
+I1
+sVkeep
+p66
+I1
+sVusually
+p67
+I1
+sVblock
+p68
+I1
+sVthats
+p69
+I1
+sVmr
+p70
+I1
+sVwhats
+p71
+I2
+sVdont
+p72
+I1
+sVadidas
+p73
+I1
+sVfeel
+p74
+I2
+sVlatifah
+p75
+I1
+sVmink
+p76
+I2
+sVtheyd
+p77
+I1
+sVcouldnt
+p78
+I1
+sV600
+p79
+I1
+sVeverybody
+p80
+I2
+sVspaz
+p81
+I1
+sVwack
+p82
+I1
+sVlight
+p83
+I1
+sVengines
+p84
+I1
+sVwest
+p85
+I2
+sVgive
+p86
+I1
+sVbaggy
+p87
+I1
+sVreeboks
+p88
+I1
+sVstart
+p89
+I1
+sVmuch
+p90
+I1
+sVdamn
+p91
+I8
+sVpassed
+p92
+I1
+sVchauncey
+p93
+I1
+sVwas
+p94
+I2
+sVtoday
+p95
+I1
+sVdoor
+p96
+I1
+sVsummertime
+p97
+I1
+sVafford
+p98
+I2
+sVcept
+p99
+I1
+sVpastor
+p100
+I1
+sVaward
+p101
+I4
+sVhear
+p102
+I1
+sVlast
+p103
+I1
+sVhaters
+p104
+I1
+sVchurch
+p105
+I1
+sVb
+I1
+sVrappin
+p106
+I1
+sVblackstreet
+p107
+I1
+sVthis
+p108
+I2
+sVup
+p109
+I5
+sVcam
+p110
+I1
+sVpictureperfectbeyonce
+p111
+I1
+sVcould
+p112
+I1
+sVbarbershops
+p113
+I1
+sVoho
+p114
+I2
+sVrap
+p115
+I1
+sVplayed
+p116
+I1
+sVforgot
+p117
+I1
+sVam
+p118
+I10
+sVal
+p119
+I1
+sVtalking
+p120
+I1
+sVsay
+p121
+I2
+sVim
+p122
+I10
+sVwant
+p123
+I2
+sVfacade
+p124
+I1
+sVsomebody
+p125
+I1
+sVguntalk
+p126
+I1
+sVshit
+p127
+I10
+sVagain
+p128
+I8
+sVigotalotofcheese
+p129
+I1
+sVwinter
+p130
+I1
+sVrather
+p131
+I1
+sVpay
+p132
+I1
+sVneed
+p133
+I1
+sVrole
+p134
+I1
+sVtake
+p135
+I1
+sVcreeped
+p136
+I1
+sVtithe
+p137
+I1
+sVreach
+p138
+I1
+sVstay
+p139
+I1
+sVwilliam
+p140
+I1
+sVashland
+p141
+I1
+sVgearin
+p142
+I1
+sVman
+p143
+I2
+sVa
+I1
+sVremember
+p144
+I1
+sVcoat
+p145
+I1
+sVseconds
+p146
+I1
+sVgoodbye
+p147
+I2
+sVtime
+p148
+I1
+sVkilla
+p149
+I1
+sVtalk
+p150
+I5
+s.

@@ -1,54 +1,466 @@
-"suicide" lyrics
-scarface lyrics
-"suicide"
-i took my chances, but i did my dirt
-and my adivce to any nigga if you crime, then you do the works
-its givin up and step the fuck back
-cuz in this game you can fame
-you gotta start dumpin these niggas off your nut-sack
-im just a nigga out the hood tryna have thangs
-when i got up on my feet and screamed the brand change
-and your excuse was that the money did came
-my excuse was that you was to blame
-simple ??, got to show my homies love tho
-i just don't fuck around with niggas that i don't know
-and you can take that how you wanna take it
-im from these motherfuckin streets,
-and the same rules apply in this game
-you never break it
-with my motherfucking luck, fallin over the craps
-and you niggas who wanna try to attack
-we steady dyin over dumb shit, and me im steady losin my sleep
-cuz niggas aint familiar with the rules of the street, and its a
-suicide, its a suicide
-suicide, its a suicide
-its a, suicide, its a suicide
-suicide, its a suicide
-to my niggas on the street cryin then (watch them haters)
-if im sittin on the side-line (get your paper)
-too many niggas complaining pointin fingers at the problem
-thats why i hate my baby momma
-im just a nigga from the very bottom
-skippin classes, throwin 8-balls into white powder
-tryna get it, while the motherfuckers gettin good
-wit possibilities of gettin out my neighborhood
-don't get me wrong, i had them dreams too
-but the only thing you do, is get your cream too
-get your motherfucking cream fool
-niggas aint know about the ange and the alicks
-first you get in, then you get out, you stuck in this game
-now when its over don't nobody cry
-just enjoy while you live life, cuz everybody got to die
-when  you see me i'll be hella high, beatin corners wit my top down
-checkin out the chasers in the sky, shootin paper clips at jupiter
-the more i lie, its like im gettin stupider and stupider
-tryna make the best, out of a fucked up desicion
-im just a nigga with a vision, which is to get up, get out
-gettin my props, tryna stay away from these bitches that jock dick
-and move enough to move on, gotta stay true to it
-thats just the way you gotta do it
-and these niggas here is really, dazed and don't give a fuck when you for real
-and you like it rough, nigga what, the fuck
-know what im sayin is real, now back the fuck up for you get killed
-cuz its a..
-suicide
+(dp1
+Vgivin
+p2
+I1
+sVshow
+p3
+I1
+sVchances
+p4
+I1
+sVmoney
+p5
+I1
+sVmove
+p6
+I2
+sVpaper
+p7
+I2
+sVsleep
+p8
+I1
+sVrough
+p9
+I1
+sVhate
+p10
+I1
+sVdown
+p11
+I1
+sVjock
+p12
+I1
+sVaint
+p13
+I2
+sVsuicide
+p14
+I11
+sVlyrics
+p15
+I2
+sVdick
+p16
+I1
+sVsky
+p17
+I1
+sVcuz
+p18
+I4
+sVcrime
+p19
+I1
+sVhomies
+p20
+I1
+sVta
+p21
+I3
+sVfool
+p22
+I1
+sVgood
+p23
+I1
+sVaround
+p24
+I1
+sVget
+p25
+I10
+sVrules
+p26
+I2
+sVfamiliar
+p27
+I1
+sVcheckin
+p28
+I1
+sVsittin
+p29
+I1
+sVwatch
+p30
+I1
+sVbreak
+p31
+I1
+sVgame
+p32
+I3
+sVknow
+p33
+I3
+sVcryin
+p34
+I1
+sVkilled
+p35
+I1
+sVdreams
+p36
+I1
+sVscreamed
+p37
+I1
+sVlike
+p38
+I2
+sVdie
+p39
+I1
+sVgettin
+p40
+I4
+sVtry
+p41
+I1
+sVcorners
+p42
+I1
+sVworks
+p43
+I1
+sVvision
+p44
+I1
+sVluck
+p45
+I1
+sVenjoy
+p46
+I1
+sVnigga
+p47
+I5
+sVneighborhood
+p48
+I1
+sVthrowin
+p49
+I1
+sVstreets
+p50
+I1
+sVback
+p51
+I2
+sVsee
+p52
+I1
+sVstreet
+p53
+I2
+sVdumb
+p54
+I1
+sVpowder
+p55
+I1
+sVbest
+p56
+I1
+sVout
+p57
+I1
+sVpossibilities
+p58
+I1
+sVbottom
+p59
+I1
+sVmotherfuckin
+p60
+I1
+sVaway
+p61
+I1
+sValicks
+p62
+I1
+sVfingers
+p63
+I1
+sVenough
+p64
+I1
+sVprops
+p65
+I1
+sVgot
+p66
+I6
+sVchasers
+p67
+I1
+sVdirt
+p68
+I1
+sVnever
+p69
+I1
+sVblame
+p70
+I1
+sVstep
+p71
+I1
+sVchange
+p72
+I1
+sVsayin
+p73
+I1
+sVange
+p74
+I1
+sVdyin
+p75
+I1
+sVmany
+p76
+I1
+sVill
+p77
+I1
+sVthing
+p78
+I1
+sVshootin
+p79
+I1
+sVmotherfuckers
+p80
+I1
+sVthats
+p81
+I2
+sVmotherfucking
+p82
+I2
+sVlove
+p83
+I1
+sVdont
+p84
+I5
+sVsimple
+p85
+I1
+sVfeet
+p86
+I1
+sVmomma
+p87
+I1
+sVwit
+p88
+I2
+sVstupider
+p89
+I2
+sVcraps
+p90
+I1
+sVfallin
+p91
+I1
+sVapply
+p92
+I1
+sVhood
+p93
+I1
+sVeverybody
+p94
+I1
+sVwan
+p95
+I2
+sVstuck
+p96
+I1
+sVtop
+p97
+I1
+sVlive
+p98
+I1
+sVskippin
+p99
+I1
+sVstart
+p100
+I1
+sVattack
+p101
+I1
+sVcry
+p102
+I1
+sVtoo
+p103
+I2
+sVway
+p104
+I1
+sVwhite
+p105
+I1
+sVtryna
+p106
+I4
+sVlife
+p107
+I1
+sVbrand
+p108
+I1
+sVnobody
+p109
+I1
+sVtook
+p110
+I1
+sVfuck
+p111
+I5
+sVexcuse
+p112
+I2
+sVnutsack
+p113
+I1
+sVlosin
+p114
+I1
+sVbaby
+p115
+I1
+sVhaters
+p116
+I1
+sVtrue
+p117
+I1
+sVdumpin
+p118
+I1
+sVniggas
+p119
+I8
+sVclips
+p120
+I1
+sVclasses
+p121
+I1
+sVdazed
+p122
+I1
+sVim
+p123
+I8
+sVproblem
+p124
+I1
+sVreal
+p125
+I2
+sVgive
+p126
+I1
+sVit
+p127
+I4
+sVbeatin
+p128
+I1
+sVhigh
+p129
+I1
+sVjupiter
+p130
+I1
+sVscarface
+p131
+I1
+sVfame
+p132
+I1
+sVshit
+p133
+I1
+sVcream
+p134
+I2
+sVlie
+p135
+I1
+sVsideline
+p136
+I1
+sVcomplaining
+p137
+I1
+sVna
+p138
+I2
+sVmake
+p139
+I1
+sVtake
+p140
+I2
+sVreally
+p141
+I1
+sVdesicion
+p142
+I1
+sVbitches
+p143
+I1
+sVadivce
+p144
+I1
+sVstay
+p145
+I2
+sVwrong
+p146
+I1
+sVfucked
+p147
+I1
+sVa
+I2
+sVpointin
+p148
+I1
+sV8balls
+p149
+I1
+sVsteady
+p150
+I2
+sVtho
+p151
+I1
+sVthangs
+p152
+I1
+sVhella
+p153
+I1
+sVfirst
+p154
+I1
+sVcame
+p155
+I1
+s.

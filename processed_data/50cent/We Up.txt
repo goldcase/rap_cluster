@@ -1,84 +1,724 @@
-"we up" lyrics
-50 cent lyrics
-"we up"
-(feat. kendrick lamar & kidd kidd)
-yeah, uh huh
-i'm round the bullshit like a matador
-i'm used to the bullshit, it don't matter, boy
-corporate acquisitions, accumulations of wealth
-build with the gods and double knowledge of self
-entrepreneur visions, moulin rouge religion
-that pussy make a weak nigga break down
-so what you want, the cheese or the cheeks?
-you want the cheeks but she want the cheese
-a bitch gotta eat
-i'm havin' the epiphany you niggas ain't shit to me
-worse than the scum in the slum i'm from
-i'm a southside nigga, yeah i'm 'bout mine
-you be that next nigga corners come outline
-you ain't made of what i'm made of
-you a bum nigga with a bum bitch
-who's shoes come from bakers
-counterfeit, fraudulent fakers
-what kind of rich nigga bitch look like that?
-ya'll know when we pullin' off the lot
-brake, hit the button, then we pullin' down the top
-shine's on stuntin' and i'm pullin' out a knot
-strapped with the glock, won't pull it out a lot but front, i'll make it pop
-you don't do it how we do
-niggas ain't own the shit we own
-everything new
-spikes on the louis vuittons (vuittons, vuittons)
-we up, nigga
-visualize everything i needed and dream (uh-huh)
-penalized every ho nigga that have a scheme (what else?)
-guns in your video get you locked in tha' bing
-yeah, i kill a nigga quick, no worries, my record clean
-murder one become manslaughter as soon as they brought up
-charity work, parking tickets and no charges
-fuck nigga you fucked over your father, when he gave you a dick should have been a bitch in pajamas
-i made my first million fucking dollars
-bought a bible, oh yeah, god got me
-made my second million dollars, bought a chopper and binocular
-i'm scared, this shit don't happens to everybody
-i'm on instagram looking at your favorite singer
-debating on should i fuck, or jump on her single
-20 thou, she got a hell of a adlib
-i'm in her mouth like i knew i could have kids, k-dot
-ya'll know when we pullin' off the lot
-brake, hit the button, then we pullin' down the top
-shine's on stuntin' and i'm pullin' out a knot
-strapped with the glock, won't pull it out a lot but front, i'll make it pop
-you don't do it how we do
-niggas ain't own the shit we own
-everything new
-spikes on the louis vuittons (vuittons, vuittons)
-we up, nigga
-'round the world tourin', the city got borin'
-bury me a g with a new pair of jordans
-coupe foreign, top peeled like an orange
-blue ferrari, so many iron horses
-living life with no worries
-my gun got a zodiac sign, it's a taurus
-don't make it slam on you like amar'e
-m'zone, rida gang, end of story
-oops that's your baby, my bad, i'm sorry
-she call me daddy too, we should be on maury
-everything you aren't, fly nigga soaring
-purple label ralph lauren, kick game like atari
-you so special, bedroom or restroom
-just keep performing, go girl
-about to film a movie, guess who it's starring?
-(ahhh.)
-ya'll know when we pullin' off the lot
-brake, hit the button, then we pullin' down the top
-shine's on stuntin', and i'm pullin' out a knot
-strapped with the glock, won't pull it out a lot but front, i'll make it pop
-you don't do it how we do
-niggas ain't own the shit we own
-everything new
-spikes on the louis vuittons (vuittons, vuittons)
-we up, nigga
-good pussy for dinner or bomb kush for breakfast
-d'd-deep-colored vs stones around my neck bitch
-feels like a nigga dreamin' (dreamin'), feels like a nigga dreamin' (dreamin')
+(dp1
+Vstones
+p2
+I1
+sVjordans
+p3
+I1
+sVbomb
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVgods
+p7
+I1
+sVsoon
+p8
+I1
+sVvuittons
+p9
+I9
+sVkill
+p10
+I1
+sVgang
+p11
+I1
+sVrouge
+p12
+I1
+sVgo
+p13
+I1
+sVhell
+p14
+I1
+sVlauren
+p15
+I1
+sVfeat
+p16
+I1
+sVaint
+p17
+I5
+sV20
+p18
+I1
+sVknowledge
+p19
+I1
+sVamare
+p20
+I1
+sVeverything
+p21
+I5
+sVdick
+p22
+I1
+sVfather
+p23
+I1
+sVborin
+p24
+I1
+sVhavin
+p25
+I1
+sVrich
+p26
+I1
+sVorange
+p27
+I1
+sVbout
+p28
+I1
+sVkick
+p29
+I1
+sVta
+p30
+I1
+sVdo
+p31
+I3
+sVgood
+p32
+I1
+sVhit
+p33
+I3
+sVworse
+p34
+I1
+sVget
+p35
+I1
+sVtickets
+p36
+I1
+sVbreak
+p37
+I1
+sVgame
+p38
+I1
+sVevery
+p39
+I1
+sVknow
+p40
+I3
+sVknot
+p41
+I3
+sVsouthside
+p42
+I1
+sVfront
+p43
+I3
+sVworld
+p44
+I1
+sVbullshit
+p45
+I2
+sVwont
+p46
+I3
+sVbrought
+p47
+I1
+sVspikes
+p48
+I3
+sVlike
+p49
+I8
+sVcorners
+p50
+I1
+sVbutton
+p51
+I3
+sVperforming
+p52
+I1
+sV50
+p53
+I1
+sVdebating
+p54
+I1
+sVbinocular
+p55
+I1
+sVbad
+p56
+I1
+sVlouis
+p57
+I3
+sVquick
+p58
+I1
+sVbecome
+p59
+I1
+sVround
+p60
+I2
+sVyall
+p61
+I3
+sVpenalized
+p62
+I1
+sVnigga
+p63
+I14
+sVinstagram
+p64
+I1
+sVfucking
+p65
+I1
+sVtourin
+p66
+I1
+sVscared
+p67
+I1
+sVbedroom
+p68
+I1
+sVyeah
+p69
+I4
+sVaround
+p70
+I1
+sVgun
+p71
+I1
+sVjump
+p72
+I1
+sVsecond
+p73
+I1
+sVvideo
+p74
+I1
+sVparking
+p75
+I1
+sVgirl
+p76
+I1
+sVpajamas
+p77
+I1
+sVspecial
+p78
+I1
+sVhappens
+p79
+I1
+sVliving
+p80
+I1
+sVvisualize
+p81
+I1
+sVvs
+p82
+I1
+sVrecord
+p83
+I1
+sVpurple
+p84
+I1
+sVgod
+p85
+I1
+sVdaddy
+p86
+I1
+sVralph
+p87
+I1
+sVlabel
+p88
+I1
+sVlooking
+p89
+I1
+sVreligion
+p90
+I1
+sVgot
+p91
+I5
+sVguns
+p92
+I1
+sVbought
+p93
+I2
+sVdreamin
+p94
+I4
+sVlamar
+p95
+I1
+sVpeeled
+p96
+I1
+sVatari
+p97
+I1
+sVcity
+p98
+I1
+sVmillion
+p99
+I2
+sVweak
+p100
+I1
+sVguess
+p101
+I1
+sVdddeepcolored
+p102
+I1
+sVworries
+p103
+I2
+sVsorry
+p104
+I1
+sVstarring
+p105
+I1
+sVslum
+p106
+I1
+sVfuck
+p107
+I2
+sVcome
+p108
+I2
+sVstuntin
+p109
+I3
+sVboy
+p110
+I1
+sVbible
+p111
+I1
+sVg
+I1
+sVoh
+p112
+I1
+sVthou
+p113
+I1
+sVof
+p114
+I1
+sVill
+p115
+I3
+sVfavorite
+p116
+I1
+sVforeign
+p117
+I1
+sVcoupe
+p118
+I1
+sVepiphany
+p119
+I1
+sVkidd
+p120
+I2
+sVarent
+p121
+I1
+sVpullin
+p122
+I9
+sVmanslaughter
+p123
+I1
+sVfirst
+p124
+I1
+sVcheese
+p125
+I2
+sVown
+p126
+I3
+sVdont
+p127
+I6
+sVfilm
+p128
+I1
+sVadlib
+p129
+I1
+sVpussy
+p130
+I2
+sVpop
+p131
+I3
+sVone
+p132
+I1
+sVdown
+p133
+I1
+sVentrepreneur
+p134
+I1
+sVsoaring
+p135
+I1
+sVfakers
+p136
+I1
+sVbitch
+p137
+I5
+sVchopper
+p138
+I1
+sVwhos
+p139
+I1
+sVvisions
+p140
+I1
+sVeverybody
+p141
+I1
+sVstrapped
+p142
+I3
+sVstory
+p143
+I1
+sVfrom
+p144
+I1
+sVwealth
+p145
+I1
+sVbury
+p146
+I1
+sVtop
+p147
+I4
+sVneck
+p148
+I1
+sVcent
+p149
+I1
+sVnext
+p150
+I1
+sVmoulin
+p151
+I1
+sVneeded
+p152
+I1
+sVcall
+p153
+I1
+sVlot
+p154
+I6
+sVahhh
+p155
+I1
+sVscheme
+p156
+I1
+sVmatador
+p157
+I1
+sVcheeks
+p158
+I2
+sVhorses
+p159
+I1
+sVlife
+p160
+I1
+sVglock
+p161
+I3
+sVfeels
+p162
+I2
+sVthat
+p163
+I1
+sVhuh
+p164
+I1
+sVelse
+p165
+I1
+sVmzone
+p166
+I1
+sVkids
+p167
+I1
+sVho
+p168
+I1
+sVbum
+p169
+I2
+sVbaby
+p170
+I1
+sVsign
+p171
+I1
+sVeat
+p172
+I1
+sVcharity
+p173
+I1
+sVme
+p174
+I2
+sVpull
+p175
+I3
+sVkind
+p176
+I1
+sVmade
+p177
+I4
+sVlocked
+p178
+I1
+sVlook
+p179
+I1
+sVniggas
+p180
+I4
+sVdouble
+p181
+I1
+sVwork
+p182
+I1
+sVup
+p183
+I2
+sVrida
+p184
+I1
+sVmatter
+p185
+I1
+sVslam
+p186
+I1
+sVcould
+p187
+I1
+sVuh
+p188
+I1
+sViron
+p189
+I1
+sVkendrick
+p190
+I1
+sVscum
+p191
+I1
+sVim
+p192
+I14
+sVzodiac
+p193
+I1
+sVgave
+p194
+I1
+sVdollars
+p195
+I2
+sVmaury
+p196
+I1
+sVmine
+p197
+I1
+sVfly
+p198
+I1
+sVsingle
+p199
+I1
+sVmurder
+p200
+I1
+sVbrake
+p201
+I3
+sVwant
+p202
+I3
+sVshines
+p203
+I3
+sVrestroom
+p204
+I1
+sVbreakfast
+p205
+I1
+sVshit
+p206
+I5
+sVcounterfeit
+p207
+I1
+sVkush
+p208
+I1
+sVend
+p209
+I1
+sVmake
+p210
+I5
+sVdinner
+p211
+I1
+sVuhhuh
+p212
+I1
+sVpair
+p213
+I1
+sVbuild
+p214
+I1
+sVnew
+p215
+I4
+sVmany
+p216
+I1
+sVblue
+p217
+I1
+sVused
+p218
+I1
+sVknew
+p219
+I1
+sVtaurus
+p220
+I1
+sVmouth
+p221
+I1
+sVfucked
+p222
+I1
+sVkeep
+p223
+I1
+sVacquisitions
+p224
+I1
+sVsinger
+p225
+I1
+sVoutline
+p226
+I1
+sVcharges
+p227
+I1
+sVdream
+p228
+I1
+sVbing
+p229
+I1
+sVaccumulations
+p230
+I1
+sVkdot
+p231
+I1
+sVfraudulent
+p232
+I1
+sVferrari
+p233
+I1
+sVoops
+p234
+I1
+sVclean
+p235
+I1
+sVmovie
+p236
+I1
+sVbakers
+p237
+I1
+sVthats
+p238
+I1
+sVcorporate
+p239
+I1
+sVself
+p240
+I1
+sVtha
+p241
+I1
+s.

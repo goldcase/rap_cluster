@@ -1,70 +1,577 @@
-"numb / encore" lyrics
-jay-z lyrics
-"numb / encore"
-(feat. linkin park)
-thank you, thank you, thank you, you're far too kind
-now can i get an encore, do you want more
-cookin raw with the brooklyn boy
-so for one last time i need y'all to roar
-now what the hell are you waitin for
-after me, there shall be no more
-so for one last time, nigga make some noise
-get em jay
-who you know fresher than hov'? riddle me that
-the rest of y'all know where i'm lyrically at
-can't none of y'all mirror me back
-yeah hearin me rap is like hearin g. rap in his prime
-i'm, young h.o., rap's grateful dead
-back to take over the globe, now break bread
-i'm in, boeing jets, global express
-out the country but the blueberry still connect
-on the low but the yacht got a triple deck
-but when you young, what the fuck you expect? yep, yep
-grand openin, grand closin
-god damn your man hov' cracked the can open again
-who you gon' find doper than him with no pen
-just draw off inspiration
-soon you gon' see you can't replace him
-with cheap imitations for dese generations
-now can i get an encore, do you want more
-cookin raw with the brooklyn boy
-so for one last time i need y'all to roar
-now what the hell are you waitin for
-after me, there shall be no more
-so for one last time, nigga make some noise
-what the hell are you waiting for
-look what you made me do, look what i made for you
-knew if i paid my dues, how will they pay you
-when you first come in the game, they try to play you
-then you drop a couple of hits, look how they wave to you
-from marcy to madison square
-to the only thing that matters in just a matter of years (yea)
-as fate would have it, jay's status appears
-to be at an all-time high, perfect time to say goodbye
-when i come back like jordan, wearin the 4-5
-it ain't to play games witchu
-it's to aim at you, probably maim you
-if i owe you i'm blowin you to smithereeens
-cocksucker take one for your team
-and i need you to remember one thing (one thing)
-i came, i saw, i conquered
-from record sales, to sold out concerts
-so muh'fucker if you want this encore
-i need you to scream, 'til your lungs get sore
-i'm tired of being what you want me to be
-feeling so faithless lost under the surface
-don't know what you're expecting of me
-put under the pressure of walking in your shoes
-(caught in the undertow just caught in the undertow)
-every step that i take is another mistake to you
-(caught in the undertow just caught in the undertow)
-and every second i waste is more than i can take
-i've become so numb i can't feel you there
-i've become so tired so much more aware
-i'm becoming this all i want to do
-is be more like me and be less like you
-i've become so numb
-can i get an encore, do you want more (more...)
-i've become so numb
-so for one last time i need y'all to roar
-one last time i need y'all to roar
+(dp1
+Vmadison
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVdeck
+p5
+I1
+sVyea
+p6
+I1
+sVglobal
+p7
+I1
+sVcheap
+p8
+I1
+sVsoon
+p9
+I1
+sVrest
+p10
+I1
+sVyears
+p11
+I1
+sVgrateful
+p12
+I1
+sVhell
+p13
+I3
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVfind
+p16
+I1
+sVperfect
+p17
+I1
+sVtil
+p18
+I1
+sVthank
+p19
+I3
+sVjay
+p20
+I1
+sVless
+p21
+I1
+sVyoung
+p22
+I2
+sVknew
+p23
+I1
+sVfeel
+p24
+I1
+sVmaim
+p25
+I1
+sVme
+p26
+I1
+sVtriple
+p27
+I1
+sVget
+p28
+I5
+sVfar
+p29
+I1
+sVcouple
+p30
+I1
+sVexpress
+p31
+I1
+sVkind
+p32
+I1
+sVwave
+p33
+I1
+sVbreak
+p34
+I1
+sVmatters
+p35
+I1
+sVgame
+p36
+I1
+sVlinkin
+p37
+I1
+sVsales
+p38
+I1
+sVknow
+p39
+I3
+sVprobably
+p40
+I1
+sVdese
+p41
+I1
+sVreplace
+p42
+I1
+sVhim
+p43
+I1
+sVbread
+p44
+I1
+sVprime
+p45
+I1
+sVlike
+p46
+I4
+sVlost
+p47
+I1
+sVbe
+p48
+I1
+sVdrop
+p49
+I1
+sVtry
+p50
+I1
+sVteam
+p51
+I1
+sValltime
+p52
+I1
+sVrecord
+p53
+I1
+sVconcerts
+p54
+I1
+sVyall
+p55
+I6
+sVem
+p56
+I1
+sVstatus
+p57
+I1
+sVnigga
+p58
+I2
+sVtired
+p59
+I2
+sVglobe
+p60
+I1
+sVback
+p61
+I3
+sVdead
+p62
+I1
+sVsee
+p63
+I1
+sVconnect
+p64
+I1
+sVmirror
+p65
+I1
+sVwalking
+p66
+I1
+sVgon
+p67
+I2
+sVfor
+p68
+I3
+sVwaiting
+p69
+I1
+sVgod
+p70
+I1
+sVdoper
+p71
+I1
+sVpen
+p72
+I1
+sVgot
+p73
+I1
+sVwitchu
+p74
+I1
+sVaint
+p75
+I1
+sVnoise
+p76
+I2
+sVsold
+p77
+I1
+sVpressure
+p78
+I1
+sVstep
+p79
+I1
+sVlyrically
+p80
+I1
+sVbecome
+p81
+I4
+sVjets
+p82
+I1
+sVcome
+p83
+I2
+sVappears
+p84
+I1
+sVcookin
+p85
+I2
+sVboy
+p86
+I2
+sVhits
+p87
+I1
+sVlast
+p88
+I6
+sVg
+I1
+sVroar
+p89
+I4
+sVcountry
+p90
+I1
+sVblowin
+p91
+I1
+sVthing
+p92
+I3
+sVgames
+p93
+I1
+sVgenerations
+p94
+I1
+sVconquered
+p95
+I1
+sVmistake
+p96
+I1
+sVfirst
+p97
+I1
+sVriddle
+p98
+I1
+sVdont
+p99
+I1
+sVowe
+p100
+I1
+sVone
+p101
+I9
+sVput
+p102
+I1
+sVjayz
+p103
+I1
+sVsquare
+p104
+I1
+sVanother
+p105
+I1
+sVjays
+p106
+I1
+sVopen
+p107
+I1
+sVsecond
+p108
+I1
+sVyep
+p109
+I2
+sVwould
+p110
+I1
+sVcaught
+p111
+I4
+sVthere
+p112
+I1
+sVmuch
+p113
+I1
+sVdamn
+p114
+I1
+sVlow
+p115
+I1
+sVinspiration
+p116
+I1
+sVblueberry
+p117
+I1
+sVmore
+p118
+I5
+sVlungs
+p119
+I1
+sVthat
+p120
+I1
+sVbecoming
+p121
+I1
+sVpark
+p122
+I1
+sVyeah
+p123
+I1
+sVsore
+p124
+I1
+sVjordan
+p125
+I1
+sVho
+p126
+I1
+sVundertow
+p127
+I4
+sVsmithereeens
+p128
+I1
+sVplay
+p129
+I2
+sVnone
+p130
+I1
+sVhearin
+p131
+I2
+sVlook
+p132
+I3
+sVwearin
+p133
+I1
+sVsay
+p134
+I1
+sVaim
+p135
+I1
+sVmatter
+p136
+I1
+sVcracked
+p137
+I1
+sVfeeling
+p138
+I1
+sVdues
+p139
+I1
+sVencore
+p140
+I6
+sVexpect
+p141
+I1
+sVive
+p142
+I4
+sVrap
+p143
+I2
+sVfresher
+p144
+I1
+sVdo
+p145
+I1
+sVraps
+p146
+I1
+sVfuck
+p147
+I1
+sVsurface
+p148
+I1
+sVhigh
+p149
+I1
+sVraw
+p150
+I2
+sVcant
+p151
+I3
+sVim
+p152
+I6
+sVat
+p153
+I1
+sVwant
+p154
+I6
+sVneed
+p155
+I6
+sVmade
+p156
+I2
+sVsaw
+p157
+I1
+sVcocksucker
+p158
+I1
+sVagain
+p159
+I1
+sVfate
+p160
+I1
+sVpay
+p161
+I1
+sVmake
+p162
+I2
+sV45
+p163
+I1
+sVimitations
+p164
+I1
+sVhov
+p165
+I2
+sVtake
+p166
+I4
+sVgrand
+p167
+I2
+sVexpecting
+p168
+I1
+sVyou
+p169
+I7
+sVwaitin
+p170
+I2
+sVdraw
+p171
+I1
+sVshall
+p172
+I2
+sVopenin
+p173
+I1
+sVpaid
+p174
+I1
+sVbrooklyn
+p175
+I2
+sVnumb
+p176
+I5
+sVmuhfucker
+p177
+I1
+sVclosin
+p178
+I1
+sVwaste
+p179
+I1
+sVaware
+p180
+I1
+sVman
+p181
+I1
+sVboeing
+p182
+I1
+sVremember
+p183
+I1
+sVyoure
+p184
+I2
+sVyacht
+p185
+I1
+sVfaithless
+p186
+I1
+sVgoodbye
+p187
+I1
+sVtime
+p188
+I7
+sVevery
+p189
+I2
+sVscream
+p190
+I1
+sVcame
+p191
+I1
+sVmarcy
+p192
+I1
+s.

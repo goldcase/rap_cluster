@@ -1,56 +1,483 @@
-"dance" lyrics
-nas lyrics
-"dance"
-one more time, one more time
-huh, one more time, huh
-one more time
-i dream of the day i could go back to when i was born
-laying in your arms, wishing you was here today mom
-wish you'd appear
-just for a second from heaven my tears would be gone
-i wouldn't be rapping this song
-i'd be happy driving up to your 8 bed room mansion
-up late, laughing bout the hard time we faced
-the galaxy is so enchanting beyond, galileo's understanding
-past the milky way and all the planets
-there's something out there greater
-but only god knows, scientist claim we came from apes
-but they lies though, that was part of our conversation
-i spark one up and start blazing
-thinking of how amazing she was
-a angel gave me love
-i'm thankful, to ever know a women so real
-i pray when i marry my wife'll have one of your skills
-but mom you could never be replaced
-i'd give my life up
-just to see you one more day
-to have...
-one more dance with you mama
-if i could only have
-one more dance with you mama
-praying, wish that i could have
-one more dance with you mama
-if i could only have
-one more dance with you mama
-i wish you were here,
-i miss you more each second i breathe
-you resting in peace forever i accepted you free
-a blessing to me, i see you dressed in all white
-smiling at me, happy knowing everything's all right
-if only i could hear your voice and your laughter
-just one more time, my chest would be filled up with sunshine
-april 7, 02
-that's when the gates of heaven opened up for you to stroll through
-beautiful anne jones
-job is done, raising ghetto kids in the hood
-you was my strength to carry on and now i'm good
-job well done, you lived through you sons and your grandchildren
-jesus finally got his bride, mommy dance with em
-and you've been my guide threw all the trouble i faced
-they playing our song the lifebeat my hand on your waist
-i grab your other hand and try not to step on your toes
-spin you around with my eyes closed
-dreaming i could have
-i love you forever mom
-you will always live threw me ... always
-huh, huh huh, yea
+(dp1
+Vgates
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I7
+sVwishing
+p5
+I1
+sVscientist
+p6
+I1
+sVthrough
+p7
+I1
+sVgo
+p8
+I1
+sVsmiling
+p9
+I1
+sVpraying
+p10
+I1
+sVgalaxy
+p11
+I1
+sVapes
+p12
+I1
+sVgalileos
+p13
+I1
+sVpray
+p14
+I1
+sVapril
+p15
+I1
+sVchest
+p16
+I1
+sVlate
+p17
+I1
+sVyea
+p18
+I1
+sVtears
+p19
+I1
+sV8
+I1
+sVbout
+p20
+I1
+sVgave
+p21
+I1
+sVreal
+p22
+I1
+sVgood
+p23
+I1
+sVgreater
+p24
+I1
+sVsong
+p25
+I2
+sVsons
+p26
+I1
+sVknow
+p27
+I1
+sVmom
+p28
+I3
+sVtrouble
+p29
+I1
+sVaccepted
+p30
+I1
+sVday
+p31
+I2
+sVstroll
+p32
+I1
+sVghetto
+p33
+I1
+sVheaven
+p34
+I2
+sVlies
+p35
+I1
+sVskills
+p36
+I1
+sValways
+p37
+I2
+sVmarry
+p38
+I1
+sVlaying
+p39
+I1
+sVblazing
+p40
+I1
+sVtry
+p41
+I1
+sVlaughing
+p42
+I1
+sVgrab
+p43
+I1
+sVem
+p44
+I1
+sVright
+p45
+I1
+sVeverythings
+p46
+I1
+sVhard
+p47
+I1
+sVback
+p48
+I1
+sVpast
+p49
+I1
+sVborn
+p50
+I1
+sVsecond
+p51
+I2
+sVbeyond
+p52
+I1
+sV02
+p53
+I1
+sVappear
+p54
+I1
+sVdriving
+p55
+I1
+sVgod
+p56
+I1
+sVopened
+p57
+I1
+sV7
+I1
+sVlifebeat
+p58
+I1
+sVgot
+p59
+I1
+sVanne
+p60
+I1
+sVever
+p61
+I1
+sVfilled
+p62
+I1
+sVknowing
+p63
+I1
+sVtoes
+p64
+I1
+sVrapping
+p65
+I1
+sVnever
+p66
+I1
+sVhere
+p67
+I1
+sVunderstanding
+p68
+I1
+sVjob
+p69
+I2
+sVfree
+p70
+I1
+sVspark
+p71
+I1
+sVfaced
+p72
+I2
+sVkids
+p73
+I1
+sVwouldnt
+p74
+I1
+sVcould
+p75
+I7
+sVstep
+p76
+I1
+sVthinking
+p77
+I1
+sVmilky
+p78
+I1
+sVthats
+p79
+I1
+sVlove
+p80
+I2
+sVclaim
+p81
+I1
+sVmommy
+p82
+I1
+sVyoud
+p83
+I1
+sVone
+p84
+I12
+sVthankful
+p85
+I1
+sVdone
+p86
+I2
+sVdreaming
+p87
+I1
+sVcarry
+p88
+I1
+sVmiss
+p89
+I1
+sVhood
+p90
+I1
+sVfinally
+p91
+I1
+sVwifell
+p92
+I1
+sVwould
+p93
+I2
+sVarms
+p94
+I1
+sVstart
+p95
+I1
+sVlive
+p96
+I1
+sVway
+p97
+I1
+sVmama
+p98
+I4
+sVwhite
+p99
+I1
+sVclosed
+p100
+I1
+sVwas
+p101
+I1
+sVtoday
+p102
+I1
+sVhappy
+p103
+I2
+sVbreathe
+p104
+I1
+sVresting
+p105
+I1
+sVlife
+p106
+I1
+sVlived
+p107
+I1
+sVknows
+p108
+I1
+sVgrandchildren
+p109
+I1
+sVjesus
+p110
+I1
+sVblessing
+p111
+I1
+sVhuh
+p112
+I5
+sVpart
+p113
+I1
+sVhear
+p114
+I1
+sVspin
+p115
+I1
+sVraising
+p116
+I1
+sVwomen
+p117
+I1
+sVroom
+p118
+I1
+sVwish
+p119
+I3
+sVup
+p120
+I1
+sVbed
+p121
+I1
+sVbride
+p122
+I1
+sVreplaced
+p123
+I1
+sVvoice
+p124
+I1
+sVlaughter
+p125
+I1
+sVguide
+p126
+I1
+sVtheres
+p127
+I1
+sVbeautiful
+p128
+I1
+sVgone
+p129
+I1
+sVhave
+p130
+I5
+sVangel
+p131
+I1
+sVgive
+p132
+I1
+sVeyes
+p133
+I1
+sVthrew
+p134
+I2
+sVim
+p135
+I2
+sVsomething
+p136
+I1
+sVplanets
+p137
+I1
+sVid
+p138
+I2
+sVaround
+p139
+I1
+sVstrength
+p140
+I1
+sVconversation
+p141
+I1
+sVdressed
+p142
+I1
+sVpeace
+p143
+I1
+sVnas
+p144
+I1
+sVamazing
+p145
+I1
+sVsunshine
+p146
+I1
+sVsee
+p147
+I2
+sVthough
+p148
+I1
+sVyouve
+p149
+I1
+sVhand
+p150
+I2
+sVmansion
+p151
+I1
+sVenchanting
+p152
+I1
+sVjones
+p153
+I1
+sVforever
+p154
+I2
+sVwaist
+p155
+I1
+sVwell
+p156
+I1
+sVtime
+p157
+I6
+sVdream
+p158
+I1
+sVplaying
+p159
+I1
+sVcame
+p160
+I1
+s.

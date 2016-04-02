@@ -1,87 +1,758 @@
-"the national anthem" lyrics
-lupe fiasco lyrics
-"the national anthem"
-your attention please, your attention i need it
-so i can sit you in a position from which i see it
-where i'm seated is scenic
-heavy-weighter, slim as the machinist, so bulimic
-which means you somewhere in between it
-i take it back for you like the wyld stallyns of san dimas
-i'm in the market for low-mile 360 modenas
-and a good organic cleaners
-my car always a winner
-your car's always pitted
-we should call it stanley steamers
-most of my friends in gangs
-my new nickname is gang is con/ghengis khan
-but without the 'ye, but his last name's my side
-i ride with the demeanors/the meanest
-i'm armed to the teeth
-you're venus and you've never been to the dinas/dentist)
-school of hard knocks, i dean it
-i done it, as well as a celebrated alumnus
-i donate to the campus and my name's on the arenas
-but you can't bring it to my court not even with subpoenas
-cause you can't play my sport but you can still cheerlead us
-and you can't sit there, that section's for the seniors
-and the sexy senoritas so just move up to the bleachers
-how you going to school me when i grew up with your teachers
-i know that you can't hear me
-cause i blew up all the speakers
-and the power line is hanging
-cause i threw up all the sneakers
-i ate up the imposters/pasta
-and i chewed through all the pizzas
-i blacked out with a black card
-and i maxed out all the visas
-accreditation so prestigious
-just walk across my stage
-your life will be completed
-don't need financial aid
-cause this is just some free shit
-you been properly prepared
-throw your hats up in the air
-i'm red hot, chilly/red hot chili, i'm anthony kiedis
-my spirit smells teenage
-and chi-town's feeling excellent
-we hit them with the president
-see we set the precedent
-i don't feel i'm best
-i just feel i'm better than
-everyone, everyone around here
-everyone is so near
-so alone, so alone
-see i don't disagree
-this is just a grievance
-this ain't dissing
-this is civil disobedience
-how you going to make hip-hop
-without all the ingredients?
-lot of mouths to feed
-plus a lot of greediness
-and that greed, outshines the neediness
-what niggas need is some question they authority
-and tune out all the tv shit
-and we be this
-so i give them more
-you see i did it for
-yeah, i am back up on the airwaves
-feeling like a soldier and i ain't talking where the bears play
-flair, look how i fred astaire down the staircases
-fixing to be a hair-raising tortoise versus hare race
-so you should hang around here/hair like some earrings
-i know attention's all about how you pair things
-so when i want them to hear me out
-i just sit them next to some pictures of rosa splitting with her titties out
-and what's written on her titties is what it's really about
-then her vagina is some poor kids from china
-nipples nuclear missiles
-ass is a daughter without a dad
-back is like afghanistan, iraq
-health care hair, drive-by thighs
-education lips, hiv eyes
-environment feet
-justice get her so wet, brains get you brains
-you can fuck her if you protest
-but before you bust in her face, finish listening to the tape
-enemy of the state
+(dp1
+Vgrievance
+p2
+I1
+sVlowmile
+p3
+I1
+sVgangs
+p4
+I1
+sVlyrics
+p5
+I2
+sVhats
+p6
+I1
+sVmove
+p7
+I1
+sVchillyred
+p8
+I1
+sVbring
+p9
+I1
+sVprotest
+p10
+I1
+sVgang
+p11
+I1
+sVhanging
+p12
+I1
+sVwhats
+p13
+I1
+sVstill
+p14
+I1
+sVchewed
+p15
+I1
+sVchili
+p16
+I1
+sVmeanest
+p17
+I1
+sVmake
+p18
+I1
+sVaint
+p19
+I2
+sVthighs
+p20
+I1
+sVsoldier
+p21
+I1
+sVsomewhere
+p22
+I1
+sVwinner
+p23
+I1
+sVrosa
+p24
+I1
+sVbust
+p25
+I1
+sVthan
+p26
+I1
+sVbetter
+p27
+I1
+sVcivil
+p28
+I1
+sVgoing
+p29
+I2
+sVblack
+p30
+I1
+sVwet
+p31
+I1
+sVhealth
+p32
+I1
+sVversus
+p33
+I1
+sVjustice
+p34
+I1
+sVgood
+p35
+I1
+sVhit
+p36
+I1
+sVaround
+p37
+I2
+sVhiv
+p38
+I1
+sVmeans
+p39
+I1
+sVye
+p40
+I1
+sVsplitting
+p41
+I1
+sVgrew
+p42
+I1
+sVknow
+p43
+I2
+sVlistening
+p44
+I1
+sVearrings
+p45
+I1
+sVstaircases
+p46
+I1
+sVknocks
+p47
+I1
+sVkiedis
+p48
+I1
+sVenemy
+p49
+I1
+sVschool
+p50
+I2
+sVlike
+p51
+I4
+sVcleaners
+p52
+I1
+sVthings
+p53
+I1
+sVdriveby
+p54
+I1
+sVrace
+p55
+I1
+sVred
+p56
+I1
+sValways
+p57
+I2
+sVvenus
+p58
+I1
+sVcheerlead
+p59
+I1
+sVside
+p60
+I1
+sVflair
+p61
+I1
+sVseniors
+p62
+I1
+sVblew
+p63
+I1
+sVset
+p64
+I1
+sVdean
+p65
+I1
+sVnational
+p66
+I2
+sVhard
+p67
+I1
+sVback
+p68
+I3
+sVauthority
+p69
+I1
+sVhair
+p70
+I1
+sVneediness
+p71
+I1
+sVsee
+p72
+I4
+sVus
+p73
+I1
+sVstanley
+p74
+I1
+sVsport
+p75
+I1
+sVbest
+p76
+I1
+sVtalking
+p77
+I1
+sVeven
+p78
+I1
+sVafghanistan
+p79
+I1
+sVmouths
+p80
+I1
+sVfor
+p81
+I1
+sVaccreditation
+p82
+I1
+sVanthem
+p83
+I2
+sVcelebrated
+p84
+I1
+sVplease
+p85
+I1
+sVlupe
+p86
+I1
+sVwritten
+p87
+I1
+sVsneakers
+p88
+I1
+sVheavyweighter
+p89
+I1
+sVnew
+p90
+I1
+sVdonate
+p91
+I1
+sVcause
+p92
+I4
+sVacross
+p93
+I1
+sV360
+p94
+I1
+sVattentions
+p95
+I1
+sVass
+p96
+I1
+sVnever
+p97
+I1
+sVdisobedience
+p98
+I1
+sVpower
+p99
+I1
+sVstate
+p100
+I1
+sVbulimic
+p101
+I1
+sVcars
+p102
+I1
+sVattention
+p103
+I2
+sVfree
+p104
+I1
+sVfred
+p105
+I1
+sVchina
+p106
+I1
+sVhere
+p107
+I1
+sValone
+p108
+I2
+sVsexy
+p109
+I1
+sViraq
+p110
+I1
+sVthrow
+p111
+I1
+sVcard
+p112
+I1
+sVstage
+p113
+I1
+sVtitties
+p114
+I2
+sVabout
+p115
+I1
+sVate
+p116
+I1
+sVlast
+p117
+I1
+sVtortoise
+p118
+I1
+sVpictures
+p119
+I1
+sVhairraising
+p120
+I1
+sVoutshines
+p121
+I1
+sVplus
+p122
+I1
+sVyouve
+p123
+I1
+sVfeed
+p124
+I1
+sVteenage
+p125
+I1
+sVimposterspasta
+p126
+I1
+sVsteamers
+p127
+I1
+sVdont
+p128
+I3
+sVfeel
+p129
+I2
+sVherehair
+p130
+I1
+sVwalk
+p131
+I1
+sVfeet
+p132
+I1
+sVeveryone
+p133
+I3
+sVdone
+p134
+I1
+sVnames
+p135
+I2
+sValumnus
+p136
+I1
+sVsenoritas
+p137
+I1
+sVsmells
+p138
+I1
+sVfinancial
+p139
+I1
+sVarmed
+p140
+I1
+sVnuclear
+p141
+I1
+sVmarket
+p142
+I1
+sVfuck
+p143
+I1
+sVenvironment
+p144
+I1
+sVgreediness
+p145
+I1
+sVkhan
+p146
+I1
+sVscenic
+p147
+I1
+sVbears
+p148
+I1
+sVnickname
+p149
+I1
+sVquestion
+p150
+I1
+sVnext
+p151
+I1
+sVvagina
+p152
+I1
+sVvisas
+p153
+I1
+sVcall
+p154
+I1
+sVlot
+p155
+I2
+sVtv
+p156
+I1
+sVpitted
+p157
+I1
+sVtape
+p158
+I1
+sVcare
+p159
+I1
+sVsections
+p160
+I1
+sVhare
+p161
+I1
+sVthrew
+p162
+I1
+sVdinasdentist
+p163
+I1
+sVkids
+p164
+I1
+sVairwaves
+p165
+I1
+sVbrains
+p166
+I2
+sVcompleted
+p167
+I1
+sVhang
+p168
+I1
+sVsubpoenas
+p169
+I1
+sVyeah
+p170
+I1
+sVanthony
+p171
+I1
+sVproperly
+p172
+I1
+sVhear
+p173
+I2
+sVexcellent
+p174
+I1
+sVorganic
+p175
+I1
+sVline
+p176
+I1
+sVspirit
+p177
+I1
+sVme
+p178
+I1
+sVdimas
+p179
+I1
+sVlook
+p180
+I1
+sVniggas
+p181
+I1
+sVthis
+p182
+I1
+sVcar
+p183
+I1
+sVride
+p184
+I1
+sVlips
+p185
+I1
+sVseated
+p186
+I1
+sVair
+p187
+I1
+sVnear
+p188
+I1
+sVteachers
+p189
+I1
+sVaid
+p190
+I1
+sVmachinist
+p191
+I1
+sVdad
+p192
+I1
+sVsan
+p193
+I1
+sVgive
+p194
+I1
+sVwyld
+p195
+I1
+sVastaire
+p196
+I1
+sVslim
+p197
+I1
+sVit
+p198
+I4
+sVmaxed
+p199
+I1
+sVprestigious
+p200
+I1
+sVcant
+p201
+I4
+sVim
+p202
+I7
+sVingredients
+p203
+I1
+sVwant
+p204
+I1
+sVneed
+p205
+I3
+sVarenas
+p206
+I1
+sVeducation
+p207
+I1
+sVcampus
+p208
+I1
+sVshit
+p209
+I2
+sVreally
+p210
+I1
+sVspeakers
+p211
+I1
+sVmissiles
+p212
+I1
+sVcourt
+p213
+I1
+sVsit
+p214
+I3
+sVfixing
+p215
+I1
+sVbleachers
+p216
+I1
+sVget
+p217
+I2
+sVhot
+p218
+I2
+sVtake
+p219
+I1
+sVfeeling
+p220
+I2
+sVout
+p221
+I2
+sVchitowns
+p222
+I1
+sVlife
+p223
+I1
+sVpoor
+p224
+I1
+sVblacked
+p225
+I1
+sVplay
+p226
+I2
+sVfinish
+p227
+I1
+sVdaughter
+p228
+I1
+sVstallyns
+p229
+I1
+sVfiasco
+p230
+I1
+sVdisagree
+p231
+I1
+sVnipples
+p232
+I1
+sVprepared
+p233
+I1
+sVhiphop
+p234
+I1
+sVposition
+p235
+I1
+sVpair
+p236
+I1
+sVpresident
+p237
+I1
+sVpizzas
+p238
+I1
+sVfriends
+p239
+I1
+sVdemeanorsthe
+p240
+I1
+sVtune
+p241
+I1
+sVeyes
+p242
+I1
+sVyoure
+p243
+I1
+sVwell
+p244
+I1
+sVdissing
+p245
+I1
+sVface
+p246
+I1
+sVmore
+p247
+I1
+sVwithout
+p248
+I3
+sVmodenas
+p249
+I1
+sVteeth
+p250
+I1
+sVconghengis
+p251
+I1
+sVprecedent
+p252
+I1
+sVgreed
+p253
+I1
+s.

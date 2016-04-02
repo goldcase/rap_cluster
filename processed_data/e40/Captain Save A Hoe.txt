@@ -1,90 +1,716 @@
-"captain save a hoe" lyrics
-e-40 lyrics
-"captain save a hoe"
-(feat. the click)
-ah is a, ah is a, should i save her?
-i want to be saved!!!!
-it's 1993 and niggas need to miss me be savin' these hoes
-you know how these tricks we be buyin' 'em clothes
-wanna taxi hoes on vogues with the beat
-and have 'em sittin' next to 'em in the front seat
-but not b see i'm a hog up out the v
-and my motto is fuck a hoe and hit the throttle
-to the smoke talkin' on my okie doe
-world wide i got a clydes up in tokoyo
-look up in the sky it's a bird it's a plane
-what's that niggas name?
-captain save a hoe main
-more faster than a speeding bullet
-to put on his cape and scared
-i put the fake the fake the funk the funk
-to me that's not the way to do it
-captain muthafuckin' save a hoe game to me
-flexin just like a little ol' bitch
-all up in front of my company
-had to check his ass with an ear check dump and pumpin'
-talkin' to him while i'm beatin' his ass
-pumpin' fear talkin' bout nigga you gone retrospect somethin here
-mr. super trick mr. super snitch
-yeah, you wanna kill me cuz i fucked ya bitch
-you should had your cape on tight that night
-cuz a nigga like the shot sho plugs 'em right
-and now yo batch is straight callin me lovin me
-on the under for the porno star that i be
-and don't you come in my face with that trick shit
-ya betta try some more shit
-i got the gift to grab any batch
-that i want but i don't
-cuz batches now a days will get you caught up in some funk
-oh no, i'm not tryin' to save you hoes 'n
-how come when i was broke you wasn't brown nosin'?
-the other day you see me smobbin' down magazine
-with some ol' nigga in your car lookin' at me mean
-i stopped in the middle of the street
-reached under seat to grab my heat
-man that's the same motherfucker
-that i got into it with at the club last week
-man them niggas can't fade
-they bith made
-and so they start
-but niggas with no heart
-don't want no part to this
-nigga rollin' with the funk mobb
-and when it's funk
-the pump will spit them double laws
-so what you doin' when we roll through you hideout
-i let my mack get off and then i rides out
-with your ass there smokin' like an incent
-you savin hoes nigga and that's bitch shit
-i'm crossin' up niggas and bitches
-and even snitches just for my riches
-captain save a hoe
-i ain't got no problem with that ol shit
-i gives a damn as long as he's payin'
-it ain't my fault because he's sprung off my land
-i'm cashin' ga checks, go to the bank hank
-if your breath stank, you get ganked main
-long as a trick comes fallin' down
-that gets me all upset to put on my suit and clown
-but make that nigga take care your kids
-make that nigga call your kids his
-make that nigga get out there and work
-make his ass buy you a brinun burk
-it's all part of that nigga take care of me
-pussy whipped nigga come save me
-batches out there be on the look out
-for captain save a hoe
-cuz he's savin hoes
-fuck that what they talkin about
-i save a hoe yeah ha ha
-yeah baby, what's up you wanna get your hair done
-come on let's go down to lee and kim nail's
-we can get your nails done, get your hair done
-what about your kids? how many kids you got? two?
-ah, yeah that's cool we can go feed and cloth them kids
-we can go down and get the hook up at durant square
-yeah baby i do anything for ya
-want you phone cranked on, i can get it cranked on to my name
-matter of fact i get you a cellular phone and a pager
-we can get that package deal down there at cellular one
-baby i'm here for you i got you
+(dp1
+Vtaxi
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVya
+p5
+I3
+sVclydes
+p6
+I1
+sVkill
+p7
+I1
+sVga
+p8
+I1
+sVcape
+p9
+I2
+sVgo
+p10
+I4
+sVfear
+p11
+I1
+sVcaptain
+p12
+I6
+sVsaved
+p13
+I1
+sVaint
+p14
+I2
+sVdurant
+p15
+I1
+sVporno
+p16
+I1
+sVtight
+p17
+I1
+sVsky
+p18
+I1
+sVcuz
+p19
+I4
+sVlets
+p20
+I1
+sVganked
+p21
+I1
+sVfade
+p22
+I1
+sVbout
+p23
+I1
+sVsave
+p24
+I10
+sVwork
+p25
+I1
+sVbrown
+p26
+I1
+sVcallin
+p27
+I1
+sVhit
+p28
+I1
+sVyo
+p29
+I1
+sVget
+p30
+I11
+sVmuthafuckin
+p31
+I1
+sVpumpin
+p32
+I2
+sVsittin
+p33
+I1
+sVe40
+p34
+I1
+sVlovin
+p35
+I1
+sVgame
+p36
+I1
+sVb
+I1
+sVknow
+p37
+I1
+sVcellular
+p38
+I2
+sVfront
+p39
+I2
+sVworld
+p40
+I1
+sVday
+p41
+I1
+sVbank
+p42
+I1
+sVlike
+p43
+I3
+sVburk
+p44
+I1
+sVname
+p45
+I2
+sVgift
+p46
+I1
+sVmade
+p47
+I1
+sVcool
+p48
+I1
+sVbetta
+p49
+I1
+sVclown
+p50
+I1
+sVroll
+p51
+I1
+sVtry
+p52
+I1
+sVstopped
+p53
+I1
+sVnight
+p54
+I1
+sVgrab
+p55
+I2
+sVclothes
+p56
+I1
+sVem
+p57
+I4
+sVhank
+p58
+I1
+sVnigga
+p59
+I10
+sVincent
+p60
+I1
+sVdump
+p61
+I1
+sVscared
+p62
+I1
+sVyeah
+p63
+I5
+sVseat
+p64
+I2
+sVhair
+p65
+I2
+sVchecks
+p66
+I1
+sVsee
+p67
+I2
+sVstreet
+p68
+I1
+sVhoes
+p69
+I5
+sVclick
+p70
+I1
+sVout
+p71
+I1
+sVeven
+p72
+I1
+sVsmobbin
+p73
+I1
+sVkids
+p74
+I5
+sVfeat
+p75
+I1
+sVha
+p76
+I2
+sVpump
+p77
+I1
+sVgot
+p78
+I6
+sVbird
+p79
+I1
+sVwhipped
+p80
+I1
+sVass
+p81
+I4
+sVbe
+p82
+I1
+sVpackage
+p83
+I1
+sVlee
+p84
+I1
+sVnails
+p85
+I2
+sVmr
+p86
+I2
+sVmotherfucker
+p87
+I1
+sVhere
+p88
+I1
+sVsprung
+p89
+I1
+sVbatches
+p90
+I2
+sVlet
+p91
+I1
+sVsmokin
+p92
+I1
+sVput
+p93
+I3
+sVflexin
+p94
+I1
+sVsuper
+p95
+I2
+sVcashin
+p96
+I1
+sVcare
+p97
+I2
+sVcranked
+p98
+I2
+sVabout
+p99
+I1
+sVol
+p100
+I3
+sVlast
+p101
+I1
+sVanything
+p102
+I1
+sVface
+p103
+I1
+sVfault
+p104
+I1
+sVhes
+p105
+I3
+sVdays
+p106
+I1
+sVmagazine
+p107
+I1
+sVsmoke
+p108
+I1
+sVstank
+p109
+I1
+sVsho
+p110
+I1
+sVcomes
+p111
+I1
+sVthats
+p112
+I4
+sVfeed
+p113
+I1
+sVwhats
+p114
+I2
+sVdont
+p115
+I3
+sVheart
+p116
+I1
+sVpussy
+p117
+I1
+sVone
+p118
+I1
+sVhook
+p119
+I1
+sVright
+p120
+I1
+sVdone
+p121
+I3
+sVbitch
+p122
+I3
+sVfake
+p123
+I2
+sVfallin
+p124
+I1
+sVreached
+p125
+I1
+sVmiss
+p126
+I1
+sVmotto
+p127
+I1
+sVwan
+p128
+I3
+sVlittle
+p129
+I1
+sVdeal
+p130
+I1
+sVher
+p131
+I1
+sVbith
+p132
+I1
+sVdouble
+p133
+I1
+sVcome
+p134
+I4
+sVcaught
+p135
+I1
+sVtwo
+p136
+I1
+sVlong
+p137
+I2
+sVnext
+p138
+I1
+sVbreath
+p139
+I1
+sVstart
+p140
+I1
+sVsavin
+p141
+I3
+sVdamn
+p142
+I1
+sVway
+p143
+I1
+sVsuit
+p144
+I1
+sVmean
+p145
+I1
+sVcall
+p146
+I1
+sVtryin
+p147
+I1
+sVgives
+p148
+I1
+sVbuy
+p149
+I1
+sVretrospect
+p150
+I1
+sVspit
+p151
+I1
+sVclub
+p152
+I1
+sVcompany
+p153
+I1
+sVbitches
+p154
+I1
+sVit
+p155
+I1
+sVbuyin
+p156
+I1
+sVcloth
+p157
+I1
+sVheat
+p158
+I1
+sVpart
+p159
+I2
+sVbroke
+p160
+I1
+sVbaby
+p161
+I3
+sVear
+p162
+I1
+sVfunk
+p163
+I5
+sVmatter
+p164
+I1
+sVme
+p165
+I4
+sVwide
+p166
+I1
+sV1993
+p167
+I1
+sVmain
+p168
+I2
+sVthrottle
+p169
+I1
+sVlook
+p170
+I2
+sVniggas
+p171
+I5
+sVcar
+p172
+I1
+sVstraight
+p173
+I1
+sVoh
+p174
+I1
+sVriches
+p175
+I1
+sVbatch
+p176
+I2
+sVpayin
+p177
+I1
+sVn
+I1
+sVtrick
+p178
+I3
+sVhideout
+p179
+I1
+sVv
+I1
+sVsnitches
+p180
+I1
+sVproblem
+p181
+I1
+sVgone
+p182
+I1
+sVwasnt
+p183
+I1
+sVah
+p184
+I3
+sVfuck
+p185
+I2
+sVbeatin
+p186
+I1
+sVmiddle
+p187
+I1
+sVcant
+p188
+I1
+sVhis
+p189
+I1
+sVim
+p190
+I6
+sVwant
+p191
+I4
+sVneed
+p192
+I1
+sVcrossin
+p193
+I1
+sVvogues
+p194
+I1
+sVcheck
+p195
+I2
+sVshit
+p196
+I4
+sVtokoyo
+p197
+I1
+sVhog
+p198
+I1
+sVhoe
+p199
+I8
+sVna
+p200
+I3
+sVmake
+p201
+I4
+sVokie
+p202
+I1
+sVbeat
+p203
+I1
+sVsquare
+p204
+I1
+sVtake
+p205
+I2
+sVspeeding
+p206
+I1
+sVyou
+p207
+I1
+sVgets
+p208
+I1
+sVrides
+p209
+I1
+sVtalkin
+p210
+I4
+sVpager
+p211
+I1
+sVweek
+p212
+I1
+sVstar
+p213
+I1
+sVlookin
+p214
+I1
+sVdoin
+p215
+I1
+sVplane
+p216
+I1
+sVkim
+p217
+I1
+sVsnitch
+p218
+I1
+sVfucked
+p219
+I1
+sVplugs
+p220
+I1
+sVmack
+p221
+I1
+sVman
+p222
+I2
+sVsomethin
+p223
+I1
+sVland
+p224
+I1
+sVfaster
+p225
+I1
+sVbullet
+p226
+I1
+sVphone
+p227
+I2
+sVmobb
+p228
+I1
+sVtricks
+p229
+I1
+sVmany
+p230
+I1
+sVupset
+p231
+I1
+sVrollin
+p232
+I1
+sVdoe
+p233
+I1
+sVnosin
+p234
+I1
+sVbrinun
+p235
+I1
+sVfact
+p236
+I1
+sVlaws
+p237
+I1
+s.

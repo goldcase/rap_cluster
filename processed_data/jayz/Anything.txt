@@ -1,69 +1,421 @@
-"anything" lyrics
-jay-z lyrics
-"anything"
-(feat. usher, pharrell)
-anything you want girl
-i'll bet you never seen it like this
-just stay up on that floor girl
-and i'll grant all your wishes
-you know, you know, you know,
-you know, you know, you know,
-you hot
-especially when you bounce, bounce
-i really like it when you bounce, bounce
-ooh you so nasty
-amateur pole dancing
-come and get this cash from me
-they call me rain man
-she tried to rain dance
-money so long it will drown you girl
-buried under so much stacks
-they had to pull back about 50 thou
-before they found ya girl
-i brought book bags of that bankroll
-i'm a d boy baby they know
-i'm an original d boy
-they go bankrupt if they try to keep up
-no roof in my car but i got mirrors on the ceiling
-i'll spread bread on the bed
-ever had sex on a million
-tell me
-red light, tlc
-through the left eye
-my pov
-on the eye chat
-how's that for computer love
-she rolled her eyes back
-i'm like ooh you're so nasty
-you turned my maybach back seat
-into the hotel de'paris
-i ain't gotta go
-down to the go-go
-you got a private show that's like magic city
-i got stacks of fifties
-i got piles of hundreds
-that's role play
-act like you want it
-you know you know you hot like fire
-you throw that body
-i'll throw them dollars
-but not them 1's and not no 5's
-have you ever seen a grover cleveland?
-that's a thousand dollars
-girl
-you know
-you hot like fire
-as i blow some dough
-you might retire
-take it slow like ne-yo
-when shots was fired
-in the matrix have patience
-got lots of bottles
-rock-a-bye baby jay-z got notes like mariah
-got no 1's got no 5's
-my d notes are higher
-i'm a d boy, they decoys
-they money is lighter
-like nicole richie
-roll with me
-they on the diet baby
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVdance
+p4
+I1
+sVmoney
+p5
+I2
+sVretire
+p6
+I1
+sVdough
+p7
+I1
+sVgo
+p8
+I2
+sVfeat
+p9
+I1
+sVaint
+p10
+I1
+sVslow
+p11
+I1
+sV5s
+p12
+I2
+sVspread
+p13
+I1
+sVbread
+p14
+I1
+sVmight
+p15
+I1
+sVmaybach
+p16
+I1
+sVta
+p17
+I1
+sVget
+p18
+I1
+sVya
+p19
+I1
+sVgogo
+p20
+I1
+sVbankroll
+p21
+I1
+sVknow
+p22
+I10
+sVlighter
+p23
+I1
+sVnasty
+p24
+I2
+sVrichie
+p25
+I1
+sVlike
+p26
+I10
+sVmariah
+p27
+I1
+sVmagic
+p28
+I1
+sVd
+I4
+sVnotes
+p29
+I2
+sVpole
+p30
+I1
+sVtry
+p31
+I1
+sVdecoys
+p32
+I1
+sVshots
+p33
+I1
+sVdeparis
+p34
+I1
+sVfound
+p35
+I1
+sVfired
+p36
+I1
+sVback
+p37
+I3
+sVbounce
+p38
+I4
+sVcash
+p39
+I1
+sVcomputer
+p40
+I1
+sVusher
+p41
+I1
+sVroof
+p42
+I1
+sVcleveland
+p43
+I1
+sVgirl
+p44
+I5
+sVreally
+p45
+I1
+sVmatrix
+p46
+I1
+sVlots
+p47
+I1
+sVfifties
+p48
+I1
+sVgot
+p49
+I9
+sVever
+p50
+I2
+sVred
+p51
+I1
+sVbody
+p52
+I1
+sVblow
+p53
+I1
+sVnever
+p54
+I1
+sVrolled
+p55
+I1
+sVmillion
+p56
+I1
+sVhundreds
+p57
+I1
+sVdiet
+p58
+I1
+sVcome
+p59
+I1
+sVthrow
+p60
+I2
+sVboy
+p61
+I3
+sVanything
+p62
+I3
+sVthou
+p63
+I1
+sVill
+p64
+I4
+sVkeep
+p65
+I1
+sVtlc
+p66
+I1
+sVact
+p67
+I1
+sVthats
+p68
+I3
+sVlove
+p69
+I1
+sVpov
+p70
+I1
+sVprivate
+p71
+I1
+sVbrought
+p72
+I1
+sVpatience
+p73
+I1
+sVjayz
+p74
+I2
+sVrockabye
+p75
+I1
+sVnicole
+p76
+I1
+sVcity
+p77
+I1
+sV1s
+p78
+I2
+sVeye
+p79
+I2
+sVseat
+p80
+I1
+sVlong
+p81
+I1
+sVmuch
+p82
+I1
+sVcall
+p83
+I1
+sVtell
+p84
+I1
+sVceiling
+p85
+I1
+sVamateur
+p86
+I1
+sVgrant
+p87
+I1
+sVfire
+p88
+I2
+sVthousand
+p89
+I1
+sVhotel
+p90
+I1
+sVooh
+p91
+I2
+sVit
+p92
+I1
+sVdrown
+p93
+I1
+sVbaby
+p94
+I3
+sVsex
+p95
+I1
+sVme
+p96
+I3
+sVpull
+p97
+I1
+sVpiles
+p98
+I1
+sVpharrell
+p99
+I1
+sVthis
+p100
+I1
+sVcar
+p101
+I1
+sVup
+p102
+I1
+sVbed
+p103
+I1
+sVgrover
+p104
+I1
+sVneyo
+p105
+I1
+sVdollars
+p106
+I2
+sVbet
+p107
+I1
+sVyoure
+p108
+I1
+sVwant
+p109
+I2
+sVmirrors
+p110
+I1
+sVturned
+p111
+I1
+sVeyes
+p112
+I1
+sVim
+p113
+I4
+sVburied
+p114
+I1
+sVchat
+p115
+I1
+sVseen
+p116
+I2
+sVbags
+p117
+I1
+sVbottles
+p118
+I1
+sVbankrupt
+p119
+I1
+sVfloor
+p120
+I1
+sVhot
+p121
+I3
+sVbook
+p122
+I1
+sVrole
+p123
+I1
+sVtake
+p124
+I1
+sVroll
+p125
+I1
+sVhigher
+p126
+I1
+sVplay
+p127
+I1
+sVtried
+p128
+I1
+sVrain
+p129
+I2
+sVstay
+p130
+I1
+sV50
+p131
+I1
+sVman
+p132
+I1
+sVhows
+p133
+I1
+sVespecially
+p134
+I1
+sVlight
+p135
+I1
+sVdancing
+p136
+I1
+sVstacks
+p137
+I2
+sVwishes
+p138
+I1
+sVoriginal
+p139
+I1
+sVleft
+p140
+I1
+s.

@@ -1,75 +1,560 @@
-"piggy bank" lyrics
-50 cent lyrics
-"piggy bank"
-clickity clank clickity clank
-the money goes into my piggy bank
-i'll get atcha, my knife cuts ya skin
-i'll get atcha, blow shots at ya man
-i'll get atcha, tupac don't pretend
-i'll get atcha, i'll put that to an end
-that shit is oh, don't be screamin' get at me dawg
-have you runnin' for ya life when i match ya boy
-i get to wavin' that semi, like its legal
-a lil nigga hurt his arm lettin' off that eagle
-you know me, black on black bentley, big ol' black nine
-i'll clap your monkey ass, get black on black crime
-big ol' chrome rims, clean you know why i shine
-c'mon man, you know how i shine
-i'm in the hood, in the drop, teflon vinyl top
-got a hundred guns, a hundred clips, why i don't hear no shots
-that fat nigga thought lean back was "in da club"
-my shit sold 11 mill, his shit was a dud
-jada don't fuck with me if you wanna eat
-cause i'll do your lil ass like jay did mobb deep
-yeah homie, in new york, niggas like your vocals
-but thats only new york dawg, your ass is local
-clickity clank clickity clank
-the money goes into my piggy bank
-yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah
-banks shit sells, buck shit sells, game shit sells
-i'm rich as hell, shyne poppin' off his mouth from a cell
-he don't want it with me, he in pc
-i can have a nigga run up on him with a shank
-for just a few pennies out my piggy bank
-yayo, bring the condoms, i'm in room 203
-freak bitch look like kim before the surgeory
-its an emergency, a michael jackson see
-looked at a picture and said she looks like me
-kelis said her milkshake brings all the boys to the yard
-then nas went and tattooed the bitch on his arm
-i mean that way out in cali, niggas know these guns
-first thing they say about you, is you a sucker for love
-this is chess, not checkers, these are warning shots
-after your next move i'll give you what i got
-clickity clank clickity clank
-the money goes into my piggy bank
-yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah yeah yeah, get more money, more money
-yeah
-i'll get atcha, i'll punch out your grill
-i'll get atcha, let off that blue steal
-i'll get atcha, nigga i'm for real
-i'll get atcha, you'll get your ass killed
-yeah
-yeah
-hahahaha
-ya'll niggas gotta do somethin' now man
-all that shoot 'em up shit ya'll be talkin'
-you gotta do somethin' baby
-i mean, i mean c'mon man everybody's listenin'
-nigga everybody's listenin'
-hahahaha
-i know you ain't gon' just let 50 do you like that
-i mean damn rep your hood nigga
-nigga you hard right?
-pop off
-yayo get mobs niggas on the phone
-and tell the niggas i said grip up
-niggas got a green light on these monkies
-hahahaha
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I19
+sVmove
+p4
+I1
+sVbring
+p5
+I1
+sVlooks
+p6
+I1
+sVcuts
+p7
+I1
+sVhell
+p8
+I1
+sVmill
+p9
+I1
+sVtattooed
+p10
+I1
+sVblow
+p11
+I1
+sVjay
+p12
+I1
+sVpoppin
+p13
+I1
+sVcrime
+p14
+I1
+sVblack
+p15
+I5
+sVrich
+p16
+I1
+sVpennies
+p17
+I1
+sVlocal
+p18
+I1
+sVmatch
+p19
+I1
+sVfirst
+p20
+I1
+sVreal
+p21
+I1
+sV11
+p22
+I1
+sVclank
+p23
+I6
+sVemergency
+p24
+I1
+sVget
+p25
+I21
+sVya
+p26
+I4
+sVbig
+p27
+I2
+sVfat
+p28
+I1
+sVda
+p29
+I1
+sVme
+p30
+I1
+sVgame
+p31
+I1
+sVknow
+p32
+I5
+sVnew
+p33
+I2
+sVkilled
+p34
+I1
+sVbank
+p35
+I6
+sVlook
+p36
+I1
+sVlike
+p37
+I6
+sVsemi
+p38
+I1
+sVyoull
+p39
+I1
+sVdrop
+p40
+I1
+sVmichael
+p41
+I1
+sV50
+p42
+I2
+sVpiggy
+p43
+I6
+sVshots
+p44
+I3
+sVwent
+p45
+I1
+sVsteal
+p46
+I1
+sVclap
+p47
+I1
+sVmean
+p48
+I4
+sVem
+p49
+I1
+sVnigga
+p50
+I7
+sVbentley
+p51
+I1
+sVskin
+p52
+I1
+sVback
+p53
+I1
+sVjada
+p54
+I1
+sVsee
+p55
+I1
+sVdawg
+p56
+I2
+sVlistenin
+p57
+I2
+sVarm
+p58
+I2
+sVblue
+p59
+I1
+sVsaid
+p60
+I3
+sVjackson
+p61
+I1
+sVrep
+p62
+I1
+sVlean
+p63
+I1
+sVlegal
+p64
+I1
+sVcell
+p65
+I1
+sVgoes
+p66
+I3
+sVgot
+p67
+I5
+sVcause
+p68
+I1
+sVguns
+p69
+I2
+sVknife
+p70
+I1
+sVass
+p71
+I4
+sVeagle
+p72
+I1
+sVrun
+p73
+I1
+sVlettin
+p74
+I1
+sVrims
+p75
+I1
+sVsold
+p76
+I1
+sVkelis
+p77
+I1
+sVpunch
+p78
+I1
+sVlet
+p79
+I2
+sVvinyl
+p80
+I1
+sVput
+p81
+I1
+sVshine
+p82
+I2
+sVboy
+p83
+I1
+sVol
+p84
+I2
+sVcondoms
+p85
+I1
+sVoh
+p86
+I1
+sVill
+p87
+I13
+sVscreamin
+p88
+I1
+sVthing
+p89
+I1
+sVmilkshake
+p90
+I1
+sVyall
+p91
+I2
+sVvocals
+p92
+I1
+sVwavin
+p93
+I1
+sVyork
+p94
+I2
+sVlove
+p95
+I1
+sVdont
+p96
+I5
+sVpop
+p97
+I1
+sVshyne
+p98
+I1
+sVright
+p99
+I1
+sVbitch
+p100
+I2
+sVhood
+p101
+I2
+sV203
+p102
+I1
+sVwan
+p103
+I1
+sVmonkey
+p104
+I1
+sVcali
+p105
+I1
+sVchrome
+p106
+I1
+sVtop
+p107
+I1
+sVdud
+p108
+I1
+sVcent
+p109
+I1
+sVnext
+p110
+I1
+sVpc
+p111
+I1
+sVdamn
+p112
+I1
+sVway
+p113
+I1
+sVhundred
+p114
+I2
+sVtell
+p115
+I1
+sVlife
+p116
+I1
+sVhard
+p117
+I1
+sVshank
+p118
+I1
+sVbuck
+p119
+I1
+sVclub
+p120
+I1
+sVbrings
+p121
+I1
+sVshoot
+p122
+I1
+sVhurt
+p123
+I1
+sVboys
+p124
+I1
+sVhear
+p125
+I1
+sVbaby
+p126
+I1
+sVyard
+p127
+I1
+sVeat
+p128
+I1
+sVyayo
+p129
+I2
+sVrunnin
+p130
+I1
+sVgrill
+p131
+I1
+sVroom
+p132
+I1
+sVniggas
+p133
+I6
+sVpretend
+p134
+I1
+sVup
+p135
+I1
+sVclips
+p136
+I1
+sVsurgeory
+p137
+I1
+sVwarning
+p138
+I1
+sVnine
+p139
+I1
+sVta
+p140
+I2
+sVeverybodys
+p141
+I2
+sVgrip
+p142
+I1
+sVcmon
+p143
+I2
+sVfreak
+p144
+I1
+sVgive
+p145
+I1
+sVfuck
+p146
+I1
+sVdeep
+p147
+I1
+sVsay
+p148
+I1
+sVhomie
+p149
+I1
+sVim
+p150
+I4
+sVwant
+p151
+I1
+sVsells
+p152
+I3
+sVshit
+p153
+I7
+sVlooked
+p154
+I1
+sVend
+p155
+I1
+sVtupac
+p156
+I1
+sVlil
+p157
+I2
+sVna
+p158
+I1
+sVthat
+p159
+I1
+sVaint
+p160
+I1
+sVnas
+p161
+I1
+sVclickity
+p162
+I6
+sVchess
+p163
+I1
+sVsucker
+p164
+I1
+sVtalkin
+p165
+I1
+sVpicture
+p166
+I1
+sVteflon
+p167
+I1
+sVmonkies
+p168
+I1
+sVgon
+p169
+I1
+sVmouth
+p170
+I1
+sVkim
+p171
+I1
+sVhahahaha
+p172
+I3
+sVcheckers
+p173
+I1
+sVman
+p174
+I4
+sVyeah
+p175
+I27
+sVsomethin
+p176
+I2
+sVoff
+p177
+I1
+sVphone
+p178
+I1
+sVmobb
+p179
+I1
+sVlight
+p180
+I1
+sVatcha
+p181
+I8
+sVthought
+p182
+I1
+sVgreen
+p183
+I1
+sVclean
+p184
+I1
+sVbanks
+p185
+I1
+sVmobs
+p186
+I1
+sVthats
+p187
+I1
+s.

@@ -1,71 +1,515 @@
-blood leaves lyrics
-kanye west lyrics
-blood leaves
-feat tony williams
-wanna clear mind now
-racin since summertime
-im holdin summer now
-want cant buy now
-cause aint got money right now
-told wait
-yeah told wait
-im need little time now
-cause aint got money right now
-thought could wait
-yeah thought could wait
-bitches surroundin me
-want somethin me
-talk me
-would lost without me
-couldve somebody
-thought youd different bout it
-know naughty
-lets get it
-couldve somebody
-stead tell somebody
-lets take back first party
-tried first molly
-came body
-came body
-running naked lobby
-screamin love me
-limelight tore ya
-limelight stole ya
-remember young
-would hold you
-glory
-know aint wrong me
-something strange happening
-couldve somethin
-couldve couldve somebody
-first party
-tried first molly
-came body
-came body
-call lawyers
-tried destroy us
-gon lie lawyers
-like dont even know ya
-gotta bring back nolia
-fuck niggas cause im niggas
-fuck niggas cause im niggas
-fuck niggas cause im niggas
-ride niggas ill die my
-second string bitches trying get baby
-trying get baby talkin crazy
-dont give damn used talk jayz
-aint beyonce need stop actin lazy
-instagram like bad bitch alert
-instagram watch like mad rich alert
-wanna see ass reverse
-two thousand dollar bag cash purse
-sittin courtside wifey side
-gotta keep em separated call apartheid
-said impregnated thats night heart died
-gotta go tell girl report that
-main reason cause pastor said cant abort that
-driver say new benz cant afford that
-cocaine table cant snort that
-going owing money court got
-alimony uh yeahyeah got homie
-til death part unholy matrimony
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I3
+sVdollar
+p5
+I1
+sVbring
+p6
+I1
+sVwifey
+p7
+I1
+sVgo
+p8
+I1
+sVkanye
+p9
+I1
+sVfeat
+p10
+I1
+sVlimelight
+p11
+I2
+sVtrying
+p12
+I2
+sVbeyonce
+p13
+I1
+sVyoung
+p14
+I1
+sVlets
+p15
+I2
+sVgoing
+p16
+I1
+sVactin
+p17
+I1
+sVrich
+p18
+I1
+sValimony
+p19
+I1
+sVbout
+p20
+I1
+sVmain
+p21
+I1
+sVsurroundin
+p22
+I1
+sVsomebody
+p23
+I4
+sVstring
+p24
+I1
+sVget
+p25
+I3
+sVya
+p26
+I3
+sVsittin
+p27
+I1
+sVstop
+p28
+I1
+sVknow
+p29
+I3
+sVparty
+p30
+I2
+sVreport
+p31
+I1
+sVracin
+p32
+I1
+sVnow
+p33
+I6
+sVcourtside
+p34
+I1
+sVlike
+p35
+I3
+sVlost
+p36
+I1
+sVill
+p37
+I1
+sVdie
+p38
+I1
+sVnaked
+p39
+I1
+sVbag
+p40
+I1
+sVbad
+p41
+I1
+sVstead
+p42
+I1
+sVsnort
+p43
+I1
+sVapartheid
+p44
+I1
+sVside
+p45
+I1
+sVem
+p46
+I1
+sVass
+p47
+I1
+sVright
+p48
+I2
+sVinstagram
+p49
+I2
+sVyeah
+p50
+I2
+sVcash
+p51
+I1
+sVsecond
+p52
+I1
+sVowing
+p53
+I1
+sVyeahyeah
+p54
+I1
+sVnolia
+p55
+I1
+sVgirl
+p56
+I1
+sVeven
+p57
+I1
+sVgon
+p58
+I1
+sVsince
+p59
+I1
+sVholdin
+p60
+I1
+sVgot
+p61
+I7
+sVcause
+p62
+I6
+sVtold
+p63
+I2
+sVbody
+p64
+I4
+sVtore
+p65
+I1
+sVlazy
+p66
+I1
+sVimpregnated
+p67
+I1
+sVnight
+p68
+I1
+sVmolly
+p69
+I2
+sVreason
+p70
+I1
+sVdeath
+p71
+I1
+sVfuck
+p72
+I3
+sVwait
+p73
+I4
+sVreverse
+p74
+I1
+sVcould
+p75
+I2
+sVmatrimony
+p76
+I1
+sVwrong
+p77
+I1
+sVscreamin
+p78
+I1
+sVkeep
+p79
+I1
+sVfirst
+p80
+I4
+sVnaughty
+p81
+I1
+sVlove
+p82
+I1
+sVdont
+p83
+I2
+sVyoud
+p84
+I1
+sVjayz
+p85
+I1
+sVbitch
+p86
+I1
+sVtony
+p87
+I1
+sVtable
+p88
+I1
+sVcocaine
+p89
+I1
+sVthousand
+p90
+I1
+sVwan
+p91
+I2
+sVlittle
+p92
+I1
+sVwould
+p93
+I2
+sVaint
+p94
+I4
+sVwest
+p95
+I1
+sVtwo
+p96
+I1
+sVcall
+p97
+I2
+sVsummertime
+p98
+I1
+sVdamn
+p99
+I1
+sVtell
+p100
+I2
+sVwilliams
+p101
+I1
+sVseparated
+p102
+I1
+sVbuy
+p103
+I1
+sVsaid
+p104
+I2
+sVthat
+p105
+I4
+sVafford
+p106
+I1
+sVpurse
+p107
+I1
+sVmad
+p108
+I1
+sVbitches
+p109
+I2
+sVpastor
+p110
+I1
+sVnew
+p111
+I1
+sVback
+p112
+I2
+sVpart
+p113
+I1
+sVbaby
+p114
+I2
+sVhold
+p115
+I1
+sVremember
+p116
+I1
+sVme
+p117
+I6
+sVglory
+p118
+I1
+sVniggas
+p119
+I7
+sVride
+p120
+I1
+sVsee
+p121
+I1
+sVus
+p122
+I1
+sVhomie
+p123
+I1
+sVuh
+p124
+I1
+sVta
+p125
+I3
+sVmy
+p126
+I1
+sVleaves
+p127
+I2
+sVsay
+p128
+I1
+sVheart
+p129
+I1
+sVcrazy
+p130
+I1
+sVgive
+p131
+I1
+sVbenz
+p132
+I1
+sVmind
+p133
+I1
+sVit
+p134
+I2
+sVcant
+p135
+I4
+sVabort
+p136
+I1
+sVim
+p137
+I5
+sVsomething
+p138
+I1
+sVwant
+p139
+I2
+sVneed
+p140
+I2
+sVstole
+p141
+I1
+sVunholy
+p142
+I1
+sVlie
+p143
+I1
+sVdifferent
+p144
+I1
+sVcourt
+p145
+I1
+sVna
+p146
+I2
+sVtil
+p147
+I1
+sVstrange
+p148
+I1
+sVtake
+p149
+I1
+sVdestroy
+p150
+I1
+sVyou
+p151
+I1
+sVtalkin
+p152
+I1
+sVused
+p153
+I1
+sVlawyers
+p154
+I2
+sVtried
+p155
+I3
+sVwatch
+p156
+I1
+sVdriver
+p157
+I1
+sValert
+p158
+I2
+sVrunning
+p159
+I1
+sVcouldve
+p160
+I5
+sVblood
+p161
+I2
+sVlobby
+p162
+I1
+sVdied
+p163
+I1
+sVsomethin
+p164
+I2
+sVhappening
+p165
+I1
+sVclear
+p166
+I1
+sVthought
+p167
+I3
+sVwithout
+p168
+I1
+sVtalk
+p169
+I2
+sVtime
+p170
+I1
+sVthats
+p171
+I1
+sVcame
+p172
+I4
+s.

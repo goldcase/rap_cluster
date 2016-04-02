@@ -1,91 +1,761 @@
-"act a ass" lyrics
-e-40 lyrics
-"act a ass"
-(feat. rankin' scroo)
-walla walla walla bang bang (ehh-yeahhhh)
-one me on the grand tree damn come from around kingsman (heh heh heh)
-walla walla walla bang bang walla dang dang dang (yea yea)
-walla walla walla bang bang what a dang thang (yea yea oh yea yea oh)
-its smoky up in here, so open up the vents
-we heated up in here... the street instruments
-my piranhas is hungry, we play for keep
-we freakin this booch, we 60something deep
-we licorice booch if you feel a frog its leap
-promiscuous booch sometimes we like to cheat
-i'm spillin' my liquor, its all on my clothes
-i'm smellin like alcohol bout to follow my nose
-i'm mad doggin and thuggin, buckin and grudging
-we off of them pills, and we aint talking bout bufferin
-(you flossin grills?) like they do down south
-(100 dollar bills?) with furniture in they mouth
-if you like it, i love it, when its dry as a drought
-if you dig it, i dug it, be about your paper route
-if its woofers and sub hits, clientele and clout
-party and clubbing, up in the building talking loud
-we gon' act a ass (push my glock up in the grass)
-we gon' do the fool (we'll be breaking all the rules)
-so don't make me murdah (eh)
-emcees up in side (eh)
-we gon' tap nigga and grind like that boy yeah
-we gon' act a ass (aye-yeahhhh)
-(yo) i'm having my yay-per, im feeling my scrill
-i'm seeing my money mayne, im a hustler for real
-gotta get it while its good, aint no time to wait
-its dangerous in my hood, with plenty money to make
-i'm drinking a beer, im smoking a swisher
-i barely can steer, im full of this liquor
-i handles my biz, im takin' my exit
-then parking this britch, the magazine street exit
-i pull up my truck, im stopping my soul
-stop at the 7-11, talking shit on my phone
-hustler by nature (nature), buster by choice
-i'm checkin' my pager, im checkin' my voice
-re-up and re-coppin', peddlin' and pushin'
-more keys than a janitor, my nick-name is bookman
-bitches be lookin', old-folk be starin'
-patin' me down, searchin' the clothes that im wearin'
-we gon' act a ass (push my glock up in the grass)
-we gon' do the fool (we'll be breaking all the rules)
-so don't make me murdah (eh)
-emcees up in side (eh)
-we gon' tap nigga and grind like that boy yeah
-we gon' act a ass (aye-yeahhhh)
-(yo) many fourteens, m-1 therapy
-ar-15 pimpin' m16s without me
-wont be no slang in the gang, it'll be extinct
-i've been bamboozled and hit with mayne
-people hit with all kind of these identity thieves
-underrated and hated, on by all these squares in the industry
-man i'm a legend pimp, they call me ee four owe
-xp boy used to push that blow
-gas, break, dip, stop, and go
-ride the strip, hit the sto'e
-you know that i bought it, you know that i got it
-had to cop a bottle of the blue hypnotiq
-incredible hulks, you know what i mean
-mix it with some bark and watch that shit turn green
-higher than an elephants eye, me and my guys
-off rossi and hash, after that ass...
-we gon' act a ass (push my glock up in the grass)
-we gon' do the fool (we'll be breaking all the rules)
-so don't make me murdah (eh)
-emcees up in side (eh)
-we gon' tap nigga and grind like that boy yeah
-we gon' act a ass (aye-yeahhhh)
-well allllright
-me a bad man, ruff by nature
-you punkin' on me you goin' into danger
-me and the don, ruff and down low ranger
-me thought me pot was comin' from jamaica
-no mess with stranger, no like imposta
-call me forecaster, we more like rasta
-with the mix for ganja, i buy a lil cha cha
-when they know inside, they blow sofa
-we gon' act a ass (push my glock up in the grass)
-we gon' do the fool (we'll be breaking all the rules)
-so don't make me murdah (eh)
-emcees up in side (eh)
-we gon' tap nigga and grind like that boy yeah
-we gon' act a ass (aye-yeahhhh)
-walla walla walla bang bang walla dang dang dang (yea yea)
-walla walla walla bang bang what a dang dang thang (yea yea oh yea yea oh)
+(dp1
+Vlyrics
+p2
+I2
+sVyea
+p3
+I12
+sVmoney
+p4
+I2
+sVgreen
+p5
+I1
+sVdollar
+p6
+I1
+sVfour
+p7
+I1
+sVforecaster
+p8
+I1
+sVpaper
+p9
+I1
+sVgang
+p10
+I1
+sVfreakin
+p11
+I1
+sVgo
+p12
+I1
+sVfollow
+p13
+I1
+sVscroo
+p14
+I1
+sVfeat
+p15
+I1
+sVhustler
+p16
+I2
+sVaint
+p17
+I2
+sVoldfolk
+p18
+I1
+sVcall
+p19
+I2
+sVjamaica
+p20
+I1
+sVthang
+p21
+I2
+sVitll
+p22
+I1
+sVbufferin
+p23
+I1
+sVcheat
+p24
+I1
+sVthieves
+p25
+I1
+sVvents
+p26
+I1
+sVbout
+p27
+I2
+sVpot
+p28
+I1
+sVta
+p29
+I1
+sVwalla
+p30
+I17
+sVbookman
+p31
+I1
+sVgood
+p32
+I1
+sVhit
+p33
+I3
+sVaround
+p34
+I1
+sVyo
+p35
+I2
+sVget
+p36
+I1
+sVrules
+p37
+I4
+sVcheckin
+p38
+I2
+sVm16s
+p39
+I1
+sVstop
+p40
+I2
+sVkind
+p41
+I1
+sV711
+p42
+I1
+sVchoice
+p43
+I1
+sVbreak
+p44
+I1
+sVbang
+p45
+I10
+sVbiz
+p46
+I1
+sVknow
+p47
+I4
+sVpeddlin
+p48
+I1
+sVdrinking
+p49
+I1
+sVsmoking
+p50
+I1
+sVfurniture
+p51
+I1
+sVwont
+p52
+I1
+sVlike
+p53
+I10
+sVpimp
+p54
+I1
+sVbritch
+p55
+I1
+sVsofa
+p56
+I1
+sVclientele
+p57
+I1
+sVdig
+p58
+I1
+sVstranger
+p59
+I1
+sVbad
+p60
+I1
+sVnose
+p61
+I1
+sVkingsman
+p62
+I1
+sVbuckin
+p63
+I1
+sVbills
+p64
+I1
+sVdip
+p65
+I1
+sVside
+p66
+I4
+sVclothes
+p67
+I2
+sVass
+p68
+I11
+sVnigga
+p69
+I4
+sVmess
+p70
+I1
+sVeh
+p71
+I8
+sVpeople
+p72
+I1
+sVee
+p73
+I1
+sVliquor
+p74
+I2
+sVstrip
+p75
+I1
+sVyeah
+p76
+I4
+sVsoul
+p77
+I1
+sVbooch
+p78
+I3
+sVstreet
+p79
+I2
+sVstoe
+p80
+I1
+sVparking
+p81
+I1
+sVemcees
+p82
+I4
+sVbark
+p83
+I1
+sVallllright
+p84
+I1
+sVpills
+p85
+I1
+sVblue
+p86
+I1
+sVgon
+p87
+I16
+sValcohol
+p88
+I1
+sVhulks
+p89
+I1
+sVtakin
+p90
+I1
+sVinside
+p91
+I1
+sVvoice
+p92
+I1
+sVleap
+p93
+I1
+sVexit
+p94
+I2
+sVgot
+p95
+I2
+sVsquares
+p96
+I1
+sVbought
+p97
+I1
+sVpiranhas
+p98
+I1
+sVblow
+p99
+I2
+sVfull
+p100
+I1
+sVhash
+p101
+I1
+sVehhyeahhhh
+p102
+I1
+sVnature
+p103
+I3
+sVyayper
+p104
+I1
+sVmayne
+p105
+I2
+sVflossin
+p106
+I1
+sVstopping
+p107
+I1
+sV100
+p108
+I1
+sVpunkin
+p109
+I1
+sVcome
+p110
+I1
+sVlegend
+p111
+I1
+sVwait
+p112
+I1
+sVwoofers
+p113
+I1
+sVboy
+p114
+I5
+sVhits
+p115
+I1
+sVfeeling
+p116
+I1
+sVbuster
+p117
+I1
+sVoh
+p118
+I4
+sV60something
+p119
+I1
+sVsmoky
+p120
+I1
+sVbarely
+p121
+I1
+sVowe
+p122
+I1
+sVkeep
+p123
+I1
+sVturn
+p124
+I1
+sVmagazine
+p125
+I1
+sVlookin
+p126
+I1
+sVact
+p127
+I10
+sVreal
+p128
+I1
+sVscrill
+p129
+I1
+sVloud
+p130
+I1
+sVsouth
+p131
+I1
+sVseeing
+p132
+I1
+sVlove
+p133
+I1
+sVdont
+p134
+I4
+sVive
+p135
+I1
+sVfeel
+p136
+I1
+sVinstruments
+p137
+I1
+sVranger
+p138
+I1
+sVclout
+p139
+I1
+sVone
+p140
+I1
+sVheated
+p141
+I1
+sVextinct
+p142
+I1
+sVopen
+p143
+I1
+sVrossi
+p144
+I1
+sVhood
+p145
+I1
+sVcha
+p146
+I2
+sVeye
+p147
+I1
+sVgoin
+p148
+I1
+sVnickname
+p149
+I1
+sVelephants
+p150
+I1
+sVlicorice
+p151
+I1
+sVhandles
+p152
+I1
+sVfrog
+p153
+I1
+sVdug
+p154
+I1
+sVganja
+p155
+I1
+sVbeer
+p156
+I1
+sVguys
+p157
+I1
+sVdamn
+p158
+I1
+sVidentity
+p159
+I1
+sVmean
+p160
+I1
+sVm1
+p161
+I1
+sVman
+p162
+I2
+sVheh
+p163
+I3
+sVlow
+p164
+I1
+sVdry
+p165
+I1
+sVglock
+p166
+I4
+sVpimpin
+p167
+I1
+sVcop
+p168
+I1
+sVbitches
+p169
+I1
+sVgas
+p170
+I1
+sVrecoppin
+p171
+I1
+sVphone
+p172
+I1
+sVgrills
+p173
+I1
+sVme
+p174
+I1
+sVpull
+p175
+I1
+sVe40
+p176
+I1
+sVwearin
+p177
+I1
+sVdangerous
+p178
+I1
+sVride
+p179
+I1
+sVtree
+p180
+I1
+sVgrudging
+p181
+I1
+sVreup
+p182
+I1
+sVsearchin
+p183
+I1
+sVdang
+p184
+I9
+sVthuggin
+p185
+I1
+sVgrass
+p186
+I4
+sVjanitor
+p187
+I1
+sVroute
+p188
+I1
+sVsteer
+p189
+I1
+sVpushin
+p190
+I1
+sVfool
+p191
+I4
+sVtap
+p192
+I4
+sVhated
+p193
+I1
+sVbamboozled
+p194
+I1
+sVit
+p195
+I1
+sVdeep
+p196
+I1
+sVdanger
+p197
+I1
+sVtalking
+p198
+I3
+sVimposta
+p199
+I1
+sVbuy
+p200
+I1
+sVim
+p201
+I16
+sVxp
+p202
+I1
+sVgrind
+p203
+I4
+sVshit
+p204
+I2
+sVmurdah
+p205
+I4
+sVrasta
+p206
+I1
+sVincredible
+p207
+I1
+sVlil
+p208
+I1
+sVmake
+p209
+I5
+sVbreaking
+p210
+I4
+sVfourteens
+p211
+I1
+sVswisher
+p212
+I1
+sVmix
+p213
+I2
+sVclubbing
+p214
+I1
+sVgrand
+p215
+I1
+sVparty
+p216
+I1
+sVmany
+p217
+I1
+sVhigher
+p218
+I1
+sVplay
+p219
+I1
+sVused
+p220
+I1
+sVspillin
+p221
+I1
+sVkeys
+p222
+I1
+sVwatch
+p223
+I1
+sVpromiscuous
+p224
+I1
+sVar15
+p225
+I1
+sVayeyeahhhh
+p226
+I4
+sVrankin
+p227
+I1
+sVcomin
+p228
+I1
+sVstarin
+p229
+I1
+sVmouth
+p230
+I1
+sVmad
+p231
+I1
+sVplenty
+p232
+I1
+sVdrought
+p233
+I1
+sVruff
+p234
+I2
+sVpager
+p235
+I1
+sVslang
+p236
+I1
+sVsub
+p237
+I1
+sVbuilding
+p238
+I1
+sVdoggin
+p239
+I1
+sVindustry
+p240
+I1
+sVsometimes
+p241
+I1
+sVwell
+p242
+I5
+sVhungry
+p243
+I1
+sVsmellin
+p244
+I1
+sVthought
+p245
+I1
+sVwithout
+p246
+I1
+sVtruck
+p247
+I1
+sVbottle
+p248
+I1
+sVtime
+p249
+I1
+sVpush
+p250
+I5
+sVtherapy
+p251
+I1
+sVunderrated
+p252
+I1
+sVhypnotiq
+p253
+I1
+sVpatin
+p254
+I1
+s.

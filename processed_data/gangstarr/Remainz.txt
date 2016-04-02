@@ -1,81 +1,668 @@
-"remainz" lyrics
-gang starr lyrics
-"remainz"
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
-phrases i spit like slugs after i sip from my mug
-life is bugged, the bassline groove is my drug
-now that you feel me, yo here's some advice
-all you foul niggaz gonna pay the fuckin price
-so take that phony hardcore look off your grill
-cause i be stompin ya still with the intent to kill
-this is a battle rhyme in case you haven't noticed
-you get replaced you get demoted
-i give chumps cranium lumps just like louisville
-i stand tall, just like the catskill mountains
-preyin like a cougar ready to pounce and
-denouncin, all the unrealistic fake gangsters
-fake mystics; so let me make this specific
-you know we're nearest the original gifted
-rhymes get twisted, brain cells dissolve
-as the world revolves, wack crews lick my balls
-they can't deal with the realism
-when they go for the mic, they better bring their steel with them
-they're gonna need crazy help
-when i get down for mine, murderin suckers for delf
-"ask yourself the same question"
-"what is it.."
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
-so umm.. "there's no need to worry!"
-my sight is never blurry, i hit you with the flurry
-of rhymes and laws, combined with raw style and grace
-you're just a pile of waste if you can't place in this rap race
-i've been here, i'm stayin, what, think i'm playin?
-i've been down, i came up, the hard way, i'm sayin
-bless my pops he's divine
-but what he owns is his, and what's mine is mine
-so god bless the child in the streets that's wild
-i can easily pull, a perpin mc's file
-you can study for years and be the world's top scholar
-out here, life's a gamble, people scramble for dollars
-with the textbook sense, you can still be dense
-rather master the game than dwell in sorrow and shame
-i'm a survivor, so i'ma always remain
-the little nigga with the voice to leave a stain on your brain
-"ask yourself the same question"
-..
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
-my microphone, is callin
-so i'm one-two checkin, and yes yes y'allin
-fallen, heroes are zeroes, i ain't down with the weirdos
-i'm true to the game, fuck fame, peep my concerto
-and yea though i walk through the valley, from brooklyn to cali
-huh, i leave the real niggaz rallied
-cause i ain't fakin no jax, mc's are taken aback
-cause the songs they be makin crazy wack
-so i subtract them, i'm one ill black man
-i pack man, liable to cap when i'm rappin
-so all that's left is the bloodstains
-but still the question remains
-"ask yourself the same question"
-"what is it.."
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
-the question remains.. which mc's will reign
-which ones will gain, how many suckers will feel pain
-"ask yourself the same question"
-"what is it.."
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVtrue
+p4
+I1
+sVvalley
+p5
+I1
+sVfoul
+p6
+I1
+sVyears
+p7
+I1
+sVpops
+p8
+I1
+sVbrain
+p9
+I2
+sVbugged
+p10
+I1
+sVgang
+p11
+I1
+sVleft
+p12
+I1
+sVbattle
+p13
+I1
+sVmystics
+p14
+I1
+sVyes
+p15
+I2
+sVstill
+p16
+I3
+sVima
+p17
+I1
+sVstyle
+p18
+I1
+sVsayin
+p19
+I1
+sVjax
+p20
+I1
+sVunrealistic
+p21
+I1
+sVbetter
+p22
+I1
+sVcougar
+p23
+I1
+sVpile
+p24
+I1
+sVdemoted
+p25
+I1
+sVstain
+p26
+I1
+sVyallin
+p27
+I1
+sVadvice
+p28
+I1
+sVsteel
+p29
+I1
+sVthem
+p30
+I1
+sVpreyin
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I1
+sVget
+p34
+I4
+sVya
+p35
+I1
+sVcheckin
+p36
+I1
+sVrhyme
+p37
+I1
+sVgame
+p38
+I2
+sVones
+p39
+I6
+sVknow
+p40
+I1
+sVworld
+p41
+I1
+sVdelf
+p42
+I1
+sVone
+p43
+I1
+sVscholar
+p44
+I1
+sVeasily
+p45
+I1
+sVlike
+p46
+I4
+sVbring
+p47
+I1
+sValways
+p48
+I1
+sVgifted
+p49
+I1
+sVtheyre
+p50
+I1
+sVspecific
+p51
+I1
+sVgangsters
+p52
+I1
+sVrace
+p53
+I1
+sVman
+p54
+I2
+sVliable
+p55
+I1
+sVkill
+p56
+I1
+sVhavent
+p57
+I1
+sVrealism
+p58
+I1
+sVblack
+p59
+I1
+sVweirdos
+p60
+I1
+sVnigga
+p61
+I1
+sVdeal
+p62
+I1
+sVpeople
+p63
+I1
+sVhard
+p64
+I1
+sVgo
+p65
+I1
+sVrhymes
+p66
+I2
+sVsight
+p67
+I1
+sVplayin
+p68
+I1
+sVdivine
+p69
+I1
+sVpounce
+p70
+I1
+sVbless
+p71
+I2
+sVchumps
+p72
+I1
+sVgon
+p73
+I2
+sVdense
+p74
+I1
+sVheres
+p75
+I1
+sVgod
+p76
+I1
+sVrevolves
+p77
+I1
+sVremain
+p78
+I1
+sVstayin
+p79
+I1
+sVmug
+p80
+I1
+sVbloodstains
+p81
+I1
+sVconcerto
+p82
+I1
+sVumm
+p83
+I1
+sVcause
+p84
+I3
+sVslugs
+p85
+I1
+sVblurry
+p86
+I1
+sVaint
+p87
+I2
+sVaback
+p88
+I1
+sVsorrow
+p89
+I1
+sVnever
+p90
+I1
+sVlittle
+p91
+I1
+sVmic
+p92
+I1
+sVlet
+p93
+I1
+sVask
+p94
+I9
+sVsuckers
+p95
+I7
+sVpeep
+p96
+I1
+sVsubtract
+p97
+I1
+sVsurvivor
+p98
+I1
+sVmany
+p99
+I6
+sVstudy
+p100
+I1
+sVbrooklyn
+p101
+I1
+sVdrug
+p102
+I1
+sVscramble
+p103
+I1
+sVdollars
+p104
+I1
+sVplace
+p105
+I1
+sVstand
+p106
+I1
+sVreal
+p107
+I1
+sVmurderin
+p108
+I1
+sVpack
+p109
+I1
+sVfallen
+p110
+I1
+sVthink
+p111
+I1
+sVfuckin
+p112
+I1
+sVthats
+p113
+I2
+sVwhats
+p114
+I1
+sVive
+p115
+I2
+sVfeel
+p116
+I7
+sVcatskill
+p117
+I1
+sVmakin
+p118
+I1
+sVcranium
+p119
+I1
+sVwalk
+p120
+I1
+sVfake
+p121
+I2
+sVfuck
+p122
+I1
+sVremainz
+p123
+I2
+sVwack
+p124
+I2
+sVlifes
+p125
+I1
+sVstompin
+p126
+I1
+sVyea
+p127
+I1
+sVhes
+p128
+I1
+sVremains
+p129
+I7
+sVtop
+p130
+I1
+sVquestion
+p131
+I16
+sVtwisted
+p132
+I1
+sVnoticed
+p133
+I1
+sVshame
+p134
+I1
+sVcali
+p135
+I1
+sVmaster
+p136
+I1
+sVcombined
+p137
+I1
+sVway
+p138
+I1
+sVstarr
+p139
+I1
+sVtaken
+p140
+I1
+sVdwell
+p141
+I1
+sVwaste
+p142
+I1
+sVonetwo
+p143
+I1
+sVzeroes
+p144
+I1
+sVmountains
+p145
+I1
+sVlife
+p146
+I1
+sVstreets
+p147
+I1
+sVspit
+p148
+I1
+sVgroove
+p149
+I1
+sVcrews
+p150
+I1
+sVhuh
+p151
+I1
+sVphony
+p152
+I1
+sVreign
+p153
+I6
+sVmine
+p154
+I3
+sVgain
+p155
+I6
+sVchild
+p156
+I1
+sVhardcore
+p157
+I1
+sVmcs
+p158
+I8
+sVgrace
+p159
+I1
+sVill
+p160
+I1
+sVcase
+p161
+I1
+sVgrill
+p162
+I1
+sVballs
+p163
+I1
+sVrappin
+p164
+I1
+sVlook
+p165
+I1
+sVraw
+p166
+I1
+sVleave
+p167
+I2
+sVcells
+p168
+I1
+sVcap
+p169
+I1
+sVniggaz
+p170
+I2
+sVworlds
+p171
+I1
+sVreplaced
+p172
+I1
+sVfakin
+p173
+I1
+sVphrases
+p174
+I1
+sVwild
+p175
+I1
+sVvoice
+p176
+I1
+sVdenouncin
+p177
+I1
+sVdissolve
+p178
+I1
+sVtheres
+p179
+I1
+sVand
+p180
+I1
+sVnearest
+p181
+I1
+sVcrazy
+p182
+I2
+sVlick
+p183
+I1
+sVfile
+p184
+I1
+sVgive
+p185
+I1
+sVit
+p186
+I8
+sVtextbook
+p187
+I1
+sVneed
+p188
+I2
+sVcant
+p189
+I2
+sVcallin
+p190
+I1
+sVim
+p191
+I8
+sVrap
+p192
+I1
+sVsense
+p193
+I1
+sVready
+p194
+I1
+sVfame
+p195
+I1
+sVworry
+p196
+I1
+sVmicrophone
+p197
+I1
+sVsip
+p198
+I1
+sVlumps
+p199
+I1
+sVna
+p200
+I2
+sVmake
+p201
+I1
+sVbassline
+p202
+I1
+sVlouisville
+p203
+I1
+sVtake
+p204
+I1
+sVgamble
+p205
+I1
+sVpain
+p206
+I6
+sVthough
+p207
+I1
+sVperpin
+p208
+I1
+sVprice
+p209
+I1
+sVflurry
+p210
+I1
+sVintent
+p211
+I1
+sVheroes
+p212
+I1
+sVpull
+p213
+I1
+sVrallied
+p214
+I1
+sVowns
+p215
+I1
+sVyoure
+p216
+I1
+sVrather
+p217
+I1
+sVpay
+p218
+I1
+sVtall
+p219
+I1
+sVsongs
+p220
+I1
+sVoriginal
+p221
+I1
+sVcame
+p222
+I1
+sVlaws
+p223
+I1
+s.

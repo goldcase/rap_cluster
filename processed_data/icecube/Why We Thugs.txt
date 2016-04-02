@@ -1,67 +1,563 @@
-"why we thugs" lyrics
-ice cube lyrics
-"why we thugs"
-yeah
-every hood's the same
-come on
-they give us guns and drugs
-then wonder why in the fuck we thugs
-they wanna count the slugs
-then come around here and fuck with us (uh huh)
-they give us guns and drugs
-then wonder why in the fuck we thugs
-they wanna count the slugs
-then come around here and fuck with us
-i'm from the land of the gang bang
-since i was little, ain't a god damn thang changed
-it's the same ol same
-bush run shit like sadaam hussien
-i cock and aim, clinically insane
-to deal with this bullshit day to day
-if i sell some yay or smoke some hay
-you bitches wanna throw me up in pelican's bay
-call me an animal up in the system
-but who's the animal that built this prison
-who's the animal that invented lower living
-the projects, thank god for russell simmons
-thank god for sugarhill
-i'm putting a different kind of steel up to my grill
-y'all know what it is, scared for your own kids
-how these ghetto niggaz taken over showbiz
-it's boyz in the hood, it's toys in the hood
-y'all wanna know why there's noise in the hood
-cause there's drugs in the hood, thugs in the hood
-nigga killed a crip and a blood in the hood (for real)
-cause when niggaz get tribal
-it's all about survival, nobody liable
-i got caught by five-oh
-grandmama came to court with her bible
-but when the judge hit the gavel
-now i'm too far from my family to travel (fuck)
-i just came unraveled
-socked the d.a. before i got gaffled
-owned by c.a, state property
-just like the year fifteen fifty three
-looking for me, a one-way ticket out
-don't understand, what's so hard to figure out?
-(damn) i can't take the pressure
-pulled the fo-fo up out the dresser
-grabbed the weight up out the closet
-po-po coming but i'm scared to toss it
-y'all know what happened last time i lost it
-can't tell you niggaz what the fucking boss did
-the game got a nigga exhausted
-gotta go for the plea bargain they offered
-twenty years for what?
-breaking these laws that's so corrupt
-taking these halls and filling 'em up
-some powder keg shit that's about to erupt
-ay y'all, i'm about to be stuck
-until the year two thousand, what the fuck?
-in the hood, don't press your luck
-cause these motherfuckers will set you up, word up
-every hood's the same
-every hood's the same
-stop tripping on it
-every hood's the same
-every hood's the same
+(dp1
+Vlyrics
+p2
+I2
+sVpopo
+p3
+I1
+sVfifty
+p4
+I1
+sVpress
+p5
+I1
+sVgang
+p6
+I1
+sVgo
+p7
+I1
+sVaint
+p8
+I1
+sVsadaam
+p9
+I1
+sVgrabbed
+p10
+I1
+sVthank
+p11
+I2
+sVthang
+p12
+I1
+sVbullshit
+p13
+I1
+sVhay
+p14
+I1
+sVbush
+p15
+I1
+sVprison
+p16
+I1
+sVfofo
+p17
+I1
+sVtwo
+p18
+I1
+sVhappened
+p19
+I1
+sVreal
+p20
+I1
+sVcount
+p21
+I2
+sVcube
+p22
+I1
+sVhit
+p23
+I1
+sVaround
+p24
+I2
+sVget
+p25
+I1
+sVfar
+p26
+I1
+sVsurvival
+p27
+I1
+sVstop
+p28
+I1
+sVda
+p29
+I1
+sVpowder
+p30
+I1
+sVbang
+p31
+I1
+sVsimmons
+p32
+I1
+sVevery
+p33
+I5
+sVknow
+p34
+I3
+sVjudge
+p35
+I1
+sVticket
+p36
+I1
+sVyears
+p37
+I1
+sVday
+p38
+I2
+sVprojects
+p39
+I1
+sVghetto
+p40
+I1
+sVlike
+p41
+I2
+sVlost
+p42
+I1
+sVdid
+p43
+I1
+sVbay
+p44
+I1
+sVfilling
+p45
+I1
+sVerupt
+p46
+I1
+sVliable
+p47
+I1
+sVyall
+p48
+I4
+sVluck
+p49
+I1
+sVinsane
+p50
+I1
+sVnigga
+p51
+I2
+sVdeal
+p52
+I1
+sVfucking
+p53
+I1
+sVscared
+p54
+I2
+sVhard
+p55
+I1
+sVyeah
+p56
+I1
+sVup
+p57
+I2
+sVus
+p58
+I4
+sVyear
+p59
+I2
+sVcorrupt
+p60
+I1
+sVwonder
+p61
+I2
+sVtripping
+p62
+I1
+sVliving
+p63
+I1
+sVwhat
+p64
+I1
+sVcloset
+p65
+I1
+sVgod
+p66
+I3
+sVsince
+p67
+I1
+sVice
+p68
+I1
+sVlooking
+p69
+I1
+sVstate
+p70
+I1
+sVgot
+p71
+I4
+sVcause
+p72
+I3
+sVslugs
+p73
+I2
+sVnoise
+p74
+I1
+sVrun
+p75
+I1
+sVkeg
+p76
+I1
+sVboss
+p77
+I1
+sVpressure
+p78
+I1
+sVplea
+p79
+I1
+sVinvented
+p80
+I1
+sVcome
+p81
+I3
+sVthrow
+p82
+I1
+sVon
+p83
+I1
+sVkids
+p84
+I1
+sVlast
+p85
+I1
+sVpelicans
+p86
+I1
+sVtaking
+p87
+I1
+sVchanged
+p88
+I1
+sVsocked
+p89
+I1
+sVsmoke
+p90
+I1
+sVtwenty
+p91
+I1
+sVmotherfuckers
+p92
+I1
+sVthats
+p93
+I2
+sVem
+p94
+I1
+sVwhats
+p95
+I1
+sVdont
+p96
+I2
+sVfamily
+p97
+I1
+sVca
+p98
+I1
+sVowned
+p99
+I1
+sVthree
+p100
+I1
+sVhussien
+p101
+I1
+sVset
+p102
+I1
+sVtoys
+p103
+I1
+sVgavel
+p104
+I1
+sVcrip
+p105
+I1
+sVhood
+p106
+I7
+sVwan
+p107
+I4
+sVlittle
+p108
+I1
+sVyay
+p109
+I1
+sVrussell
+p110
+I1
+sVbible
+p111
+I1
+sVfifteen
+p112
+I1
+sVcaught
+p113
+I1
+sVsystem
+p114
+I1
+sVwhos
+p115
+I2
+sVstuck
+p116
+I1
+sVdamn
+p117
+I2
+sVtaken
+p118
+I1
+sVcall
+p119
+I1
+sVtell
+p120
+I1
+sVkilled
+p121
+I1
+sVdrugs
+p122
+I3
+sVoffered
+p123
+I1
+sVbitches
+p124
+I1
+sVhuh
+p125
+I1
+sVweight
+p126
+I1
+sVit
+p127
+I3
+sVol
+p128
+I1
+sVunderstand
+p129
+I1
+sVboyz
+p130
+I1
+sVunraveled
+p131
+I1
+sVsteel
+p132
+I1
+sVgrill
+p133
+I1
+sVkind
+p134
+I1
+sVword
+p135
+I1
+sVhalls
+p136
+I1
+sVtribal
+p137
+I1
+sVbargain
+p138
+I1
+sVniggaz
+p139
+I3
+sVdifferent
+p140
+I1
+sVaim
+p141
+I1
+sVuh
+p142
+I1
+sVproperty
+p143
+I1
+sVcock
+p144
+I1
+sVtheres
+p145
+I2
+sVshowbiz
+p146
+I1
+sVfigure
+p147
+I1
+sVgive
+p148
+I2
+sVexhausted
+p149
+I1
+sVtoss
+p150
+I1
+sVfuck
+p151
+I6
+sVcant
+p152
+I2
+sVim
+p153
+I5
+sVay
+p154
+I1
+sVshit
+p155
+I2
+sVsell
+p156
+I1
+sVsugarhill
+p157
+I1
+sVcourt
+p158
+I1
+sVbuilt
+p159
+I1
+sVna
+p160
+I4
+sVtravel
+p161
+I1
+sVbreaking
+p162
+I1
+sVsame
+p163
+I1
+sVguns
+p164
+I2
+sVtake
+p165
+I1
+sVanimal
+p166
+I3
+sVhoods
+p167
+I5
+sVout
+p168
+I2
+sVthousand
+p169
+I1
+sVdresser
+p170
+I1
+sVnobody
+p171
+I1
+sVtime
+p172
+I1
+sVthugs
+p173
+I5
+sVblood
+p174
+I1
+sVcoming
+p175
+I1
+sVlower
+p176
+I1
+sVland
+p177
+I1
+sVclinically
+p178
+I1
+sVgaffled
+p179
+I1
+sVta
+p180
+I1
+sVgame
+p181
+I1
+sVfiveoh
+p182
+I1
+sVoneway
+p183
+I1
+sVputting
+p184
+I1
+sVlaws
+p185
+I1
+sVpulled
+p186
+I1
+sVcame
+p187
+I2
+sVgrandmama
+p188
+I1
+s.

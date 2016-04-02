@@ -1,91 +1,638 @@
-"record company pimpin'" lyrics
-ice cube lyrics
-"record company pimpin'"
-please listen to my demo
-a nigga told me, the record company's the pimp
-the artist is the hoe, the stage is the corner
-and the audience is the trip, god damn
-incredible young nigga, you can't belive i'm just one nigga
-god damn i've gotten bigger
-intellect superior,
-walk in a room and make the whole interior, inferior
-if you look me in my eyes
-you might fuck around and loose control of your mind body and your soul
-grab ahold
-undisputed on the microphone, what choo think
-if you wink, i'll make you ich think
-did you blink, did you ever drink your own brain matter
-shotgun enima, this ain't no cinema
-all praises due to the creator
---for this man here, that can't no nigga stand near--
-true, inventor of the double-you
-what choo wanna do, i got the red and the blue
-show me one nigga dedicated to raps
-i'll show you ten niggas dedicated to snaps
-record company death traps settin' decoys
-just to pimp young b-boys
-with a cup full of yak, studio contact
-maniac with a contract
-well turn up the bass and the motherfuckin' treble
-about to do a deal with the devil for my vocal level
-bullshit points, plus he want to rub it in
-and take all my publishin', god damn
-do i take it up the rectum
-just to rock the spectrum
-give up a right arm, just to do a form
-hell no, all you motherfukers goan leave this bitch limpin'
-no more, record company pimpin'
-no more (no more), record company pimpin'
-no more (no more), record company pimpin'
-no more (no more), record company pimpin'
-no more no more no more no more
-you ain't pimpin' me (uhn uhh, uhn uhh)
-i ain't pimpin' you (uhn uhh, uhn uhh)
-i just wanna be free (i just wanna be free)
-so what we gonna do (can i holla at you, holla at you)
-you ain't pimpin' me (please listen to my demo)
-i ain't pimpin' you (please listen to my demo)
-i just wanna be free (i just wanna be free)
-so what we gonna do (can i holla at you, holla at you)
-i'ma keep it simple, it went from "please listen to my demo"
-to "get your ass out my limo"
-stretch presidential
-it's essential cuz the record company will have your ass in a rental
-if you let 'em, you have to behead 'em
-contracts you never read 'em
-ceo's you never met 'em
-sent to an atourney, burnstein and burney
-nigga that's his lawyer, ain't got nothin' for ya
-treat ya like they emloy ya, i'm a warrior
-bite you in the ass like a georgetown hoya
-when they ignore ya cause, you got to hold your balls
-catch a motherfucker slippin' in bathroom stalls
-and then you show 'em that you ain't a rookie
-let 'em know that you'd rather have, more points than more pussy
-pimp turned bookie
-now how the fuck i get in so much debt
-god damn, we just met
-welcome to the rap game
-motherfucker be confused and broke before he know whats happenin'
-you can be the star and fuck women
-i'ma just play the back and keep winnin'
-no more (no more), record company pimpin'
-no more (no more), record company pimpin'
-no more (no more), record company pimpin'
-no more no more no more no more
-you ain't pimpin' me (please listen to my demo)
-i ain't pimpin' you (please listen to my demo)
-i just wanna be free (i just wanna be free)
-so what we gonna do (i got to holla at you, holla at you)
-you ain't pimpin' me (uhn uhh, uhn uhh)
-i ain't pimpin' you (uhn uhh, uhn uhh)
-i just wanna be free (i just wanna be free)
-so what we gonna do (can i holla at you, holla at you)
-it went from please listen to my demo
-to get your ass out my limo
-mama's, don't let your kids grow up to be rappers
-unless you tell them if they gonna get in this buisness
-they better learn this buisness
-or they goan get fucked
-simple as that
-simple as that
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I3
+sVya
+p4
+I4
+sVarm
+p5
+I1
+sVbrain
+p6
+I1
+sVslippin
+p7
+I1
+sVcorner
+p8
+I1
+sVundisputed
+p9
+I1
+sVaint
+p10
+I11
+sVsuperior
+p11
+I1
+sVdeath
+p12
+I1
+sVpraises
+p13
+I1
+sVcup
+p14
+I1
+sVcompanys
+p15
+I1
+sVhappenin
+p16
+I1
+sVyoung
+p17
+I2
+sVbetter
+p18
+I1
+sVpresidential
+p19
+I1
+sVwomen
+p20
+I1
+sVmight
+p21
+I1
+sVburney
+p22
+I1
+sVinferior
+p23
+I1
+sVtake
+p24
+I2
+sVcube
+p25
+I1
+sVaround
+p26
+I1
+sVget
+p27
+I5
+sVuhn
+p28
+I8
+sVuhh
+p29
+I8
+sVhoya
+p30
+I1
+sVgame
+p31
+I1
+sVknow
+p32
+I2
+sVdont
+p33
+I1
+sVblink
+p34
+I1
+sVrental
+p35
+I1
+sVbullshit
+p36
+I1
+sVbigger
+p37
+I1
+sVroom
+p38
+I1
+sVlike
+p39
+I2
+sVpimp
+p40
+I3
+sVartist
+p41
+I1
+sVcause
+p42
+I1
+sVlevel
+p43
+I1
+sVleave
+p44
+I1
+sVdecoys
+p45
+I1
+sVaudience
+p46
+I1
+sVrock
+p47
+I1
+sVgrab
+p48
+I1
+sVessential
+p49
+I1
+sVlimo
+p50
+I2
+sVem
+p51
+I6
+sVass
+p52
+I4
+sVnigga
+p53
+I6
+sVten
+p54
+I1
+sVcreator
+p55
+I1
+sVplay
+p56
+I1
+sVatourney
+p57
+I1
+sVlawyer
+p58
+I1
+sVhell
+p59
+I1
+sVunless
+p60
+I1
+sVintellect
+p61
+I1
+sVpoints
+p62
+I2
+sVblue
+p63
+I1
+sVignore
+p64
+I1
+sVich
+p65
+I1
+sVrecord
+p66
+I12
+sVgod
+p67
+I4
+sVdebt
+p68
+I1
+sVplease
+p69
+I7
+sVice
+p70
+I1
+sVdeal
+p71
+I1
+sVgot
+p72
+I4
+sVever
+p73
+I1
+sVred
+p74
+I1
+sVtold
+p75
+I1
+sVbody
+p76
+I1
+sVima
+p77
+I2
+sVmamas
+p78
+I1
+sVfull
+p79
+I1
+sVbass
+p80
+I1
+sVbookie
+p81
+I1
+sVrub
+p82
+I1
+sVwarrior
+p83
+I1
+sVloose
+p84
+I1
+sVmotherfucker
+p85
+I2
+sVfree
+p86
+I8
+sVmet
+p87
+I2
+sVstudio
+p88
+I1
+sVconfused
+p89
+I1
+sVemloy
+p90
+I1
+sVwent
+p91
+I2
+sVstage
+p92
+I1
+sVkids
+p93
+I1
+sVmaniac
+p94
+I1
+sVill
+p95
+I2
+sVstalls
+p96
+I1
+sVcontract
+p97
+I1
+sVchoo
+p98
+I2
+sVturn
+p99
+I1
+sVplus
+p100
+I1
+sVstand
+p101
+I1
+sVlet
+p102
+I3
+sVbehead
+p103
+I1
+sVwhole
+p104
+I1
+sVthink
+p105
+I2
+sVthats
+p106
+I1
+sVtreble
+p107
+I1
+sVwinnin
+p108
+I1
+sVwhats
+p109
+I1
+sVceos
+p110
+I1
+sVsimple
+p111
+I3
+sVpussy
+p112
+I1
+sVburnstein
+p113
+I1
+sVwelcome
+p114
+I1
+sVone
+p115
+I2
+sVpublishin
+p116
+I1
+sVright
+p117
+I1
+sVbitch
+p118
+I1
+sVwan
+p119
+I9
+sVbathroom
+p120
+I1
+sVdevil
+p121
+I1
+sVdoubleyou
+p122
+I1
+sVstretch
+p123
+I1
+sVbite
+p124
+I1
+sVgive
+p125
+I1
+sVdue
+p126
+I1
+sVbuisness
+p127
+I2
+sVmuch
+p128
+I1
+sVdamn
+p129
+I4
+sVtreat
+p130
+I1
+sVyak
+p131
+I1
+sVsettin
+p132
+I1
+sVtell
+p133
+I1
+sVlisten
+p134
+I7
+sVback
+p135
+I1
+sVgeorgetown
+p136
+I1
+sVeyes
+p137
+I1
+sVpimpin
+p138
+I17
+sVform
+p139
+I1
+sVthat
+p140
+I2
+sVturned
+p141
+I1
+sVcompany
+p142
+I11
+sVspectrum
+p143
+I1
+sVyoud
+p144
+I1
+sVbroke
+p145
+I1
+sVcatch
+p146
+I1
+sVrectum
+p147
+I1
+sVhold
+p148
+I1
+sVtrue
+p149
+I1
+sVinventor
+p150
+I1
+sVlimpin
+p151
+I1
+sVballs
+p152
+I1
+sVlook
+p153
+I1
+sVniggas
+p154
+I1
+sVgotten
+p155
+I1
+sVsoul
+p156
+I1
+sVvocal
+p157
+I1
+sVmatter
+p158
+I1
+sVnear
+p159
+I1
+sVsent
+p160
+I1
+sVlearn
+p161
+I1
+sVmore
+p162
+I2
+sVcontrol
+p163
+I1
+sVive
+p164
+I1
+sVdedicated
+p165
+I2
+sVrap
+p166
+I1
+sVcinema
+p167
+I1
+sVraps
+p168
+I1
+sVdemo
+p169
+I7
+sVmotherfukers
+p170
+I1
+sVmind
+p171
+I1
+sVfuck
+p172
+I3
+sVcant
+p173
+I2
+sVim
+p174
+I2
+sVnothin
+p175
+I1
+sVwant
+p176
+I1
+sVin
+p177
+I1
+sVkeep
+p178
+I2
+sVenima
+p179
+I1
+sVholla
+p180
+I8
+sVmicrophone
+p181
+I1
+sVhoe
+p182
+I1
+sVincredible
+p183
+I1
+sVrather
+p184
+I1
+sVna
+p185
+I14
+sVmake
+p186
+I2
+sVtrip
+p187
+I1
+sVwalk
+p188
+I1
+sVcontracts
+p189
+I1
+sVahold
+p190
+I1
+sVmotherfuckin
+p191
+I1
+sVrookie
+p192
+I1
+sVinterior
+p193
+I1
+sVyou
+p194
+I4
+sVsnaps
+p195
+I1
+sVstar
+p196
+I1
+sVrappers
+p197
+I1
+sVdrink
+p198
+I1
+sVbelive
+p199
+I1
+sVgon
+p200
+I5
+sVnever
+p201
+I2
+sVfucked
+p202
+I1
+sVgrow
+p203
+I1
+sVman
+p204
+I1
+sVtraps
+p205
+I1
+sVread
+p206
+I1
+sVshotgun
+p207
+I1
+sVgoan
+p208
+I2
+sVwell
+p209
+I1
+sVbboys
+p210
+I1
+sVwink
+p211
+I1
+sVcontact
+p212
+I1
+sVcuz
+p213
+I1
+s.

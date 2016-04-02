@@ -1,55 +1,413 @@
-"good lovin'" lyrics
-ludacris lyrics
-"good lovin'"
-(feat. miguel)
-i keep dwellin' on the past, babe
-know what i need, yeah
-i need some real good lovin'
-cause i'm troubled by the things that i see
-i need some real good lovin'
-cause ain't nobody been around here lovin' on me
-it's better to love and then lost than to never have loved at all
-if that was true i wouldn't be drinking this alcohol
-every relationship failed to take a toll on you
-especially when you had hoes and area codes on you
-is it easier to erase my memories
-at a point when most of my past women became my enemies?
-some on the fence, some befriended me
-but when we see each other it's gon' be some weird energy
-i'm sorry that we couldn't make it work
-believe in your heart, i never intended to make you hurt
-now they see me on the blogs with my new girl
-friends talking 'bout "that's supposed to be you, girl"
-i need some real good lovin'
-cause i'm troubled by the things that i see
-i need some real good lovin'
-cause ain't nobody been around here lovin' on me
-i got a empty hole in my chest
-how do i fill it? somebody give a prescription
-i guess i gotta learn to live with regrets
-pay for mistakes and your exes take a commission
-but what's a percent off the top when you hit the bottom
-after you break up wondering how to live without 'em?
-need solutions, less problems
-cause if love will drive you crazy i belong in the insane asylum
-hear the rain, feel the pain inside 'em
-kinda lost, need someone to guide 'em
-it's nothin' worse than feelin' alone
-but i'll admit to feelin' better when i'm hearing this song, it goes
-i need some real good lovin'
-cause i'm troubled by the things that i see
-i need some real good lovin'
-cause ain't nobody been around here lovin' on me
-so i, dwelling on the past, all the moments on repeat, baby
-playing empty songs when i'm blowing my high
-feeding my heart to a lion called guilt on an empty bed
-on an empty bed
-dwelling on the past, all the moments on repeat
-playing empty songs when i'm blowing my high
-feeding my heart to a lion called guilt on an empty bed
-while i lose my mind
-so you know what i need
-i need some real good lovin'
-cause i'm troubled by the things that i see
-i need some real good lovin'
-cause ain't nobody been around here lovin' on me
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVmoments
+p5
+I2
+sVmistakes
+p6
+I1
+sVsolutions
+p7
+I1
+sVwhats
+p8
+I1
+sVasylum
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I4
+sVfeeding
+p12
+I2
+sVless
+p13
+I1
+sVbetter
+p14
+I2
+sVfailed
+p15
+I1
+sVsorry
+p16
+I1
+sVtroubled
+p17
+I4
+sVeasier
+p18
+I1
+sVta
+p19
+I1
+sVreal
+p20
+I8
+sVgood
+p21
+I10
+sVsomebody
+p22
+I1
+sVaround
+p23
+I4
+sVsong
+p24
+I1
+sVlovin
+p25
+I14
+sVbreak
+p26
+I1
+sVevery
+p27
+I1
+sVknow
+p28
+I2
+sVgot
+p29
+I2
+sVdrinking
+p30
+I1
+sVlost
+p31
+I2
+sVcalled
+p32
+I2
+sVlose
+p33
+I1
+sVem
+p34
+I3
+sVfence
+p35
+I1
+sVenergy
+p36
+I1
+sVyeah
+p37
+I1
+sVpast
+p38
+I4
+sVsee
+p39
+I6
+sVerase
+p40
+I1
+sVhoes
+p41
+I1
+sVgirl
+p42
+I2
+sVenemies
+p43
+I1
+sVgon
+p44
+I1
+sValcohol
+p45
+I1
+sVbottom
+p46
+I1
+sVmemories
+p47
+I1
+sVgoes
+p48
+I1
+sVtoll
+p49
+I1
+sVnew
+p50
+I1
+sVcause
+p51
+I9
+sVblowing
+p52
+I2
+sVnever
+p53
+I2
+sVdwelling
+p54
+I2
+sValone
+p55
+I1
+sVbefriended
+p56
+I1
+sVprescription
+p57
+I1
+sVwouldnt
+p58
+I1
+sVill
+p59
+I1
+sVkeep
+p60
+I1
+sVadmit
+p61
+I1
+sVbecame
+p62
+I1
+sVweird
+p63
+I1
+sVthats
+p64
+I1
+sVinsane
+p65
+I1
+sVlove
+p66
+I2
+sVpoint
+p67
+I1
+sVfeel
+p68
+I1
+sVhearing
+p69
+I1
+sVcouldnt
+p70
+I1
+sVguess
+p71
+I1
+sVarea
+p72
+I1
+sVtop
+p73
+I1
+sVcommission
+p74
+I1
+sVlive
+p75
+I2
+sVwondering
+p76
+I1
+sVempty
+p77
+I6
+sVbabe
+p78
+I1
+sVrelationship
+p79
+I1
+sVnobody
+p80
+I4
+sVhurt
+p81
+I1
+sVhear
+p82
+I1
+sVbaby
+p83
+I1
+sVhole
+p84
+I1
+sVbelieve
+p85
+I1
+sVtrue
+p86
+I1
+sVbout
+p87
+I1
+sVwomen
+p88
+I1
+sVme
+p89
+I5
+sVloved
+p90
+I1
+sVinside
+p91
+I1
+sVwork
+p92
+I1
+sVlion
+p93
+I2
+sVbed
+p94
+I3
+sVregrets
+p95
+I1
+sVmiguel
+p96
+I1
+sVguilt
+p97
+I2
+sVsupposed
+p98
+I1
+sVlearn
+p99
+I1
+sVguide
+p100
+I1
+sVheart
+p101
+I3
+sVcrazy
+p102
+I1
+sVgive
+p103
+I1
+sVmind
+p104
+I1
+sVhigh
+p105
+I2
+sVtalking
+p106
+I1
+sVsomeone
+p107
+I1
+sVim
+p108
+I8
+sVneed
+p109
+I12
+sVhit
+p110
+I1
+sVworse
+p111
+I1
+sVfill
+p112
+I1
+sVcodes
+p113
+I1
+sVthings
+p114
+I4
+sVmake
+p115
+I2
+sVbelong
+p116
+I1
+sVpercent
+p117
+I1
+sVchest
+p118
+I1
+sVtake
+p119
+I2
+sVyou
+p120
+I2
+sVdwellin
+p121
+I1
+sVrepeat
+p122
+I2
+sVpain
+p123
+I1
+sVintended
+p124
+I1
+sVproblems
+p125
+I1
+sVrain
+p126
+I1
+sVkinda
+p127
+I1
+sVexes
+p128
+I1
+sVfeelin
+p129
+I2
+sVfriends
+p130
+I1
+sVespecially
+p131
+I1
+sVblogs
+p132
+I1
+sVdrive
+p133
+I1
+sVnothin
+p134
+I1
+sVwithout
+p135
+I1
+sVpay
+p136
+I1
+sVplaying
+p137
+I2
+sVsongs
+p138
+I2
+s.

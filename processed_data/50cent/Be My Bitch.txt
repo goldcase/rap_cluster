@@ -1,73 +1,390 @@
-"be my bitch" lyrics
-50 cent lyrics
-"be my bitch"
-(feat. brevi)
-shawty say she straight, cant wait till tonight to turn her out babee
-take her to a different world, get her baby girl
-i'll pick you up at 8, we can call it a first date (get her baby)
-we gonna have some drinks on me, it my treat, you ain't gotta pay
-take her ass downtown, the bentley drop top show her all around
-later when we get back we can show her how we live
-man she take it off as soon as she step foot in the crib
-your so sweet come see me, i'm gonna give you what you need
-you can be my bitccch
-you can be my bitch
-you can be my bitch
-i'm gonna take you to the spot jump on top
-i'm gonna give you everything that i got
-you can be my bitch
-you can be my bitch
-you can be my bitch
-my girl got a girl friend i call her my play thing
-why would i complain shes everything to me man
-we match together perfect isn't this amazing isn't this amazing
-back massage minaj they turned on i'm hard
-great sex latex i'm playing my part
-penetration oral fixation no camera taking we making the head boards shaking
-until its damn near breaking
-i can tell you from the get go
-so you know how this shit go
-this thing i got with my bitch is so ill its mental
-i'm about to break it down all the freaky shit we into
-if your not into her your into me and well still get u
-right when we get to the crib step right in
-boy you know what they say
-you can be my bitch
-your so sweet come see me, i'm gonna give you what you need
-you can be my bitccch
-you can be her bitch
-you can be my bitch
-you can be my bitch
-i'm gonna take you to the spot jump on top
-i'm gonna give you everything that i got
-you can be my bitch
-you can be her bitch
-you can be my bitch
-i'm headed out of state, i got a jet ready on the runway baby
-i'll be gone for a while i'm leaving you in charge now haha haha
-shwaty wanna play at anytime i'm away it ain't ok
-but when i come back you know that's how its going down
-well be back up in this bitch passing her around
-you don't want me just to play my roll
-you don't want me to come take control
-you don't want me to move in too slow
-you just wanna see me run this show
-lets go lets go lets go
-your so sweet come see me, i'm gonna give you what you need
-you can be my bitccch
-you can be her bitch
-you can be my bitch
-i'm gonna take you to the spot jump on top
-i'm gonna give you everything that i got
-you can be my bitch
-you can be her bitch
-you can be my bitch
-your so sweet come see me, i'm gonna give you what you need
-you can be my bitccch
-you can be her bitch
-you can be my bitch
-i'm gonna take you to the spot jump on top
-i'm gonna give you everything that i got
-you can be my bitch
-you can be her bitch
-you can be my bitch
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I3
+sVmove
+p4
+I1
+sVsoon
+p5
+I1
+sVisnt
+p6
+I2
+sVgo
+p7
+I5
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVperfect
+p10
+I1
+sVslow
+p11
+I1
+sVcharge
+p12
+I1
+sVgoing
+p13
+I1
+sV8
+I1
+sVmatch
+p14
+I1
+sVta
+p15
+I1
+sVaround
+p16
+I2
+sVget
+p17
+I6
+sVfixation
+p18
+I1
+sVbreak
+p19
+I1
+sVpenetration
+p20
+I1
+sVknow
+p21
+I3
+sVfoot
+p22
+I1
+sVworld
+p23
+I1
+sVcomplain
+p24
+I1
+sVdrop
+p25
+I1
+sV50
+p26
+I1
+sVshaking
+p27
+I1
+sVrunway
+p28
+I1
+sVright
+p29
+I2
+sVmental
+p30
+I1
+sVbentley
+p31
+I1
+sVhard
+p32
+I1
+sVback
+p33
+I4
+sVsex
+p34
+I1
+sVjump
+p35
+I4
+sVsee
+p36
+I5
+sVshes
+p37
+I1
+sVgirl
+p38
+I3
+sVdrinks
+p39
+I1
+sVgon
+p40
+I13
+sVaway
+p41
+I1
+sVeverything
+p42
+I5
+sVstate
+p43
+I1
+sVgot
+p44
+I8
+sVfreaky
+p45
+I1
+sVass
+p46
+I1
+sVaint
+p47
+I2
+sVrun
+p48
+I1
+sVstep
+p49
+I2
+sVcome
+p50
+I6
+sVwait
+p51
+I1
+sVboy
+p52
+I1
+sVgreat
+p53
+I1
+sVok
+p54
+I1
+sVboards
+p55
+I1
+sVtaking
+p56
+I1
+sVleaving
+p57
+I1
+sVthing
+p58
+I2
+sVpick
+p59
+I1
+sVpassing
+p60
+I1
+sVmassage
+p61
+I1
+sVfirst
+p62
+I1
+sVdont
+p63
+I3
+sVheaded
+p64
+I1
+sVsweet
+p65
+I4
+sVinto
+p66
+I1
+sVcrib
+p67
+I2
+sVjet
+p68
+I1
+sVbitch
+p69
+I26
+sVwan
+p70
+I2
+sVwould
+p71
+I1
+sVtop
+p72
+I5
+sVlets
+p73
+I3
+sVcent
+p74
+I1
+sVlive
+p75
+I1
+sVcamera
+p76
+I1
+sVcall
+p77
+I2
+sVtreat
+p78
+I1
+sVdamn
+p79
+I1
+sVtell
+p80
+I1
+sVfriend
+p81
+I1
+sVhead
+p82
+I1
+sVhaha
+p83
+I2
+sVdowntown
+p84
+I1
+sVpart
+p85
+I1
+sVbaby
+p86
+I3
+sVbrevi
+p87
+I1
+sVstraight
+p88
+I1
+sVcant
+p89
+I1
+sVnear
+p90
+I1
+sVmaking
+p91
+I1
+sVill
+p92
+I3
+sVcontrol
+p93
+I1
+sVgone
+p94
+I1
+sVgive
+p95
+I8
+sVminaj
+p96
+I1
+sVturned
+p97
+I1
+sVtonight
+p98
+I1
+sVready
+p99
+I1
+sVsay
+p100
+I2
+sVim
+p101
+I18
+sVanytime
+p102
+I1
+sVwant
+p103
+I3
+sVneed
+p104
+I4
+sVshit
+p105
+I2
+sVbabee
+p106
+I1
+sVdifferent
+p107
+I1
+sVturn
+p108
+I1
+sVna
+p109
+I15
+sVbreaking
+p110
+I1
+sVtill
+p111
+I1
+sVamazing
+p112
+I2
+sVtake
+p113
+I8
+sVbitccch
+p114
+I4
+sVshawty
+p115
+I1
+sVroll
+p116
+I1
+sVplay
+p117
+I3
+sVshwaty
+p118
+I1
+sVspot
+p119
+I4
+sVdate
+p120
+I1
+sVman
+p121
+I2
+sVlatex
+p122
+I1
+sVlater
+p123
+I1
+sVwell
+p124
+I2
+sVtogether
+p125
+I1
+sVu
+I1
+sVpay
+p126
+I1
+sVthats
+p127
+I1
+sVoral
+p128
+I1
+sVplaying
+p129
+I1
+s.

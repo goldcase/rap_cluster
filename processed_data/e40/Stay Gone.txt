@@ -1,83 +1,521 @@
-"stay gone" lyrics
-e-40 lyrics
-"stay gone"
-rock, paper, scissors
-last resort a dull butter knife
-try'na get rich twice
-taking my chances rolling the dice
-grittin' all day
-califor-nye-aye
-where we love the kids but we don't play
-like my nigga keak da sneak say
-i make my money fast
-i stay gone like the past
-try'na make my money greener
-greener than my grass
-see that brall right there she got ass
-i met this chick from poland
-i'm all up in her colon
-left the pussy swollen
-when i was poking
-i just need just one more sip to-to-to take home
-i been in the streets i just can't leave em alone
-make my money fast yeah i'm in my zone
-better catch me while i'm moving baby i'm on the go
-i stay gone
-stay gone
-i stay gone
-stay gone
-uhh!
-it ain't enough hours in the day to get what i need done
-the breadwinner of the family, the chosen one
-imagine a car without a motor
-i carry the world on my shoulder
-errday since i was a kid age 12
-throwing papers from vallejo times herald
-on the hillside of vallejo
-i went to franklin junior high
-english and reading not always fail
-but when it came to math i was the god
-uhh, i be busy
-i ain't got time to watch tv
-i ain't got time to play call of duty
-i ain't got time to watch a movie
-i ain't got time to listen to what's going on in your home i got problems on my own
-beatch!
-i just need just one more sip to-to-to take home
-i been in the streets i just can't leave em alone
-make my money fast yeah i'm in my zone
-better catch me while i'm moving baby i'm on the go
-i stay gone... stay gone
-i stay gone... stay gone
-i stay gone
-stay gone
-i stay gone
-stay gone
-uhh!
-i got gouda to get that's what i told my tendo
-i'll be gone till decembo
-about a half a year
-don't nothing come to a sleeper but a nightmare
-i'm a hustler not a loser
-try'na make our lifes better for the future
-i'm a pimp polly gamish up in curle
-on my way to the nevtherlands, amsterdam, eurail
-me and a couple of my hoe bitches
-finna go in to buisness
-no bullshit all legit
-brought the step-up shop in the red light district
-the red light district like ludacris' song?
-yeah, and i'll be sending y'all some money home
-i'll fly ya out if your horny i know you goin be lonely
-but if ya cheat on me i'm going upside your dormitory
-beotch!
-i just need just one more sip to-to-to take home
-i been in the streets i just can't leave em alone
-make my money fast yeah i'm in my zone
-better catch me while i'm moving baby i'm on the go
-i stay gone... stay gone
-i stay gone... stay gone
-i stay gone
-stay gone
-i stay gone
-stay gone
+(dp1
+Vshop
+p2
+I1
+sVtendo
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVchances
+p6
+I1
+sVmoney
+p7
+I6
+sVhillside
+p8
+I1
+sVcatch
+p9
+I3
+sVpaper
+p10
+I1
+sVgo
+p11
+I4
+sVwhats
+p12
+I1
+sVhorny
+p13
+I1
+sVhustler
+p14
+I1
+sVaint
+p15
+I5
+sVbusy
+p16
+I1
+sVdice
+p17
+I1
+sVzone
+p18
+I3
+sVchosen
+p19
+I1
+sVjunior
+p20
+I1
+sVbetter
+p21
+I4
+sVresort
+p22
+I1
+sVgoing
+p23
+I2
+sVrich
+p24
+I1
+sVcurle
+p25
+I1
+sVbeatch
+p26
+I1
+sVbeotch
+p27
+I1
+sVmovie
+p28
+I1
+sVget
+p29
+I3
+sVya
+p30
+I2
+sVcouple
+p31
+I1
+sVsleeper
+p32
+I1
+sVwatch
+p33
+I2
+sVvallejo
+p34
+I2
+sVuhh
+p35
+I3
+sVda
+p36
+I1
+sVknow
+p37
+I1
+sVcheat
+p38
+I1
+sVhalf
+p39
+I1
+sVworld
+p40
+I1
+sVday
+p41
+I2
+sVshoulder
+p42
+I1
+sVlike
+p43
+I3
+sVpimp
+p44
+I1
+sVill
+p45
+I3
+sVeurail
+p46
+I1
+sValways
+p47
+I1
+sVloser
+p48
+I1
+sVleave
+p49
+I3
+sVtwice
+p50
+I1
+sVmath
+p51
+I1
+sVrock
+p52
+I1
+sVdone
+p53
+I1
+sVwent
+p54
+I1
+sVyall
+p55
+I1
+sVem
+p56
+I3
+sVnigga
+p57
+I1
+sVthrowing
+p58
+I1
+sVstreets
+p59
+I3
+sVyeah
+p60
+I4
+sVpast
+p61
+I1
+sVsee
+p62
+I1
+sVgreener
+p63
+I2
+sVfail
+p64
+I1
+sVhome
+p65
+I5
+sVgouda
+p66
+I1
+sVdecembo
+p67
+I1
+sVfinna
+p68
+I1
+sVherald
+p69
+I1
+sVgod
+p70
+I1
+sVnightmare
+p71
+I1
+sVsince
+p72
+I1
+sVdormitory
+p73
+I1
+sVenough
+p74
+I1
+sVgot
+p75
+I7
+sVreading
+p76
+I1
+sVknife
+p77
+I1
+sVtold
+p78
+I1
+sVass
+p79
+I1
+sVproblems
+p80
+I1
+sVsneak
+p81
+I1
+sVhours
+p82
+I1
+sVmet
+p83
+I1
+sVimagine
+p84
+I1
+sValone
+p85
+I3
+sVcome
+p86
+I1
+sVlegit
+p87
+I1
+sVsending
+p88
+I1
+sVkids
+p89
+I1
+sVlast
+p90
+I1
+sVtaking
+p91
+I1
+sVtimes
+p92
+I1
+sVtv
+p93
+I1
+sVnothing
+p94
+I1
+sVfranklin
+p95
+I1
+sVerrday
+p96
+I1
+sVduty
+p97
+I1
+sVown
+p98
+I1
+sVlove
+p99
+I1
+sVdont
+p100
+I2
+sVfamily
+p101
+I1
+sVnevtherlands
+p102
+I1
+sVpussy
+p103
+I1
+sVone
+p104
+I4
+sVbrought
+p105
+I1
+sVrolling
+p106
+I1
+sVright
+p107
+I1
+sVcolon
+p108
+I1
+sVmotor
+p109
+I1
+sVcarry
+p110
+I1
+sVscissors
+p111
+I1
+sVred
+p112
+I2
+sVlifes
+p113
+I1
+sVdistrict
+p114
+I2
+sVchick
+p115
+I1
+sVamsterdam
+p116
+I1
+sVfast
+p117
+I4
+sVbuisness
+p118
+I1
+sVcall
+p119
+I1
+sVway
+p120
+I1
+sVtime
+p121
+I4
+sVgoin
+p122
+I1
+sVbullshit
+p123
+I1
+sVlisten
+p124
+I1
+sVtryna
+p125
+I3
+sVbitches
+p126
+I1
+sVstepup
+p127
+I1
+sVbaby
+p128
+I3
+sVgamish
+p129
+I1
+sVdull
+p130
+I1
+sVfly
+p131
+I1
+sVpolly
+p132
+I1
+sVe40
+p133
+I1
+sV12
+p134
+I1
+sVcar
+p135
+I1
+sVcant
+p136
+I3
+sVfuture
+p137
+I1
+sVgrass
+p138
+I1
+sVage
+p139
+I1
+sVgone
+p140
+I24
+sVcalifornyeaye
+p141
+I1
+sVyear
+p142
+I1
+sVhigh
+p143
+I1
+sVsay
+p144
+I1
+sVlonely
+p145
+I1
+sVim
+p146
+I13
+sVneed
+p147
+I4
+sVsip
+p148
+I3
+sVmake
+p149
+I6
+sVsong
+p150
+I1
+sVpoking
+p151
+I1
+sVtill
+p152
+I1
+sVtake
+p153
+I3
+sVpapers
+p154
+I1
+sVplay
+p155
+I2
+sVkeak
+p156
+I1
+sVenglish
+p157
+I1
+sVbreadwinner
+p158
+I1
+sVtototo
+p159
+I3
+sVstay
+p160
+I23
+sVhoe
+p161
+I1
+sVmoving
+p162
+I3
+sVbrall
+p163
+I1
+sVkid
+p164
+I1
+sVbutter
+p165
+I1
+sVlight
+p166
+I2
+sVpoland
+p167
+I1
+sVwithout
+p168
+I1
+sVupside
+p169
+I1
+sVgrittin
+p170
+I1
+sVswollen
+p171
+I1
+sVthats
+p172
+I1
+sVcame
+p173
+I1
+sVleft
+p174
+I1
+s.

@@ -1,65 +1,537 @@
-"real niggaz don't die" lyrics
-n.w.a. lyrics
-"real niggaz don't die"
-i'm a muthafuking nigga wit an attitude
-i got a case of spitting in a muthafukers face
-so me and my ace we got a taste
-of a muthafukers billy club he took his gun and
-put it to my head and said nigga start running
-so tell me what's the next episode
-is he crazy, does he want to chase me and waste me
-i thought run nigga run but i caught myself
-because my secondary thought was death
-i get hit hard real but still muthafuker said
-i want another black muthafuker dead
-niggaz ain't good for shit for me
-'cause this is a race fo second class
-so get your ass up against the wall bitch
-and then he tried
-they jumped me but the punk became a victim of a walkby
-fuking wit dre, you can't afford to be an asshole
-it's just another way to let you know
-niggaz send them,niggaz send them, niggaz send them
-punk can't fuk wit me
-real muthafuking g (got that)
-straight from the streets of the cpt
-telling you why real niggaz don't die
-i just want to celebrate
-real niggaz don't die 'cause they eventually multiply
-the niggaz are wit it but taking out on i
-because the times are so wrong, got to stay so strong
-niggaz got to keep going on and on
-and don't let no pail face, they throw your ass in a cell race
-have you resident suck a pie in a jail space
-that's what they want to do 'cause the system is fuked around
-i try to let you know what the record it's underground
-they don't give a fuk about a nigga
-they would rather pull the trigger
-and have you running from barrels smiling saying geez
-so nigga get smart and rebel back
-i'm not wit that black just so i'm not gonna nail that
-all i see is niggaz getting harrass
-we can't do nothing about it but get a foot in they ass
-yo, but a very nigga grabbed a nine
-and started shooting muthafukers, it would put them in line
-and that's how it's suppose to be
-when the pussy ass niggas try to fuk wit me
-yo because the shoes let the dry
-to kill a nigga cause nigga a muthafuking real nigga don't die
-i'm a muthafuking nigga wit an attitude
-oh let the good die young, so they make me young and bad
-putting ass kickings on the niggaz that never had
-so i guess that makes me tough shit
-straight up gangsta, bum nigga to fuk wit
-so how can a nigga die when he's causing the bloodshed
-by shooting muthafukas in the head
-trying to make a nigga extinct because they fear me
-but never want to hear me
-so i'm a let 'em know how a nigga's living
-checking for muthafukas cause nobody ain't giving a damn thing
-to a nigga, a real nigga
-so i'm living by the muthafuking trigger
-cause a nigga ain't afraid of being locked up
-i'm out of luck, so why should i give a fuk
-but they still want to try
-to kill a nigga like me but muthafuking real niggaz don't die
+(dp1
+Vsaying
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVfoot
+p5
+I1
+sVattitude
+p6
+I2
+sVkill
+p7
+I2
+sVnwa
+p8
+I1
+sVvictim
+p9
+I1
+sVtough
+p10
+I1
+sVsmiling
+p11
+I1
+sVstill
+p12
+I2
+sVaint
+p13
+I3
+sVdeath
+p14
+I1
+sVgrabbed
+p15
+I1
+sVhad
+p16
+I1
+sVyoung
+p17
+I2
+sVsend
+p18
+I3
+sVup
+p19
+I1
+sVgoing
+p20
+I1
+sVblack
+p21
+I2
+sVgangsta
+p22
+I1
+sVsmart
+p23
+I1
+sVreal
+p24
+I9
+sVcase
+p25
+I1
+sVthem
+p26
+I1
+sVgood
+p27
+I2
+sVhit
+p28
+I1
+sVaround
+p29
+I1
+sVyo
+p30
+I2
+sVget
+p31
+I4
+sVchecking
+p32
+I1
+sVputting
+p33
+I1
+sVknow
+p34
+I3
+sVtelling
+p35
+I1
+sVlocked
+p36
+I1
+sVcelebrate
+p37
+I1
+sVsecondary
+p38
+I1
+sVlike
+p39
+I1
+sVcause
+p40
+I6
+sVgun
+p41
+I1
+sVtry
+p42
+I3
+sVbilly
+p43
+I1
+sVbad
+p44
+I1
+sVrace
+p45
+I2
+sVdie
+p46
+I8
+sVkickings
+p47
+I1
+sVluck
+p48
+I1
+sVbarrels
+p49
+I1
+sVnigga
+p50
+I17
+sVhard
+p51
+I1
+sVback
+p52
+I1
+sVdead
+p53
+I1
+sVstarted
+p54
+I1
+sVnail
+p55
+I1
+sVsecond
+p56
+I1
+sVfear
+p57
+I1
+sVliving
+p58
+I2
+sVsaid
+p59
+I2
+sVspace
+p60
+I1
+sVgiving
+p61
+I1
+sVjumped
+p62
+I1
+sVcell
+p63
+I1
+sVmuthafuker
+p64
+I2
+sVgot
+p65
+I5
+sVthemniggaz
+p66
+I1
+sVass
+p67
+I5
+sVbe
+p68
+I1
+sVrun
+p69
+I2
+sVgeez
+p70
+I1
+sVnever
+p71
+I2
+sVmuthafuking
+p72
+I6
+sVharrass
+p73
+I1
+sVlet
+p74
+I6
+sVrebel
+p75
+I1
+sVput
+p76
+I2
+sVstrong
+p77
+I1
+sVthrow
+p78
+I1
+sVdry
+p79
+I1
+sVon
+p80
+I1
+sVg
+I1
+sVgetting
+p81
+I1
+sVtaking
+p82
+I1
+sVpunk
+p83
+I2
+sVwrong
+p84
+I1
+sVtimes
+p85
+I1
+sVthing
+p86
+I1
+sVbecame
+p87
+I1
+sVdre
+p88
+I1
+sVafraid
+p89
+I1
+sVthats
+p90
+I2
+sVem
+p91
+I1
+sVwhats
+p92
+I1
+sVdont
+p93
+I8
+sVwall
+p94
+I1
+sVpussy
+p95
+I1
+sVnothing
+p96
+I1
+sVwit
+p97
+I8
+sVbitch
+p98
+I1
+sVanother
+p99
+I2
+sVextinct
+p100
+I1
+sVguess
+p101
+I1
+sVwould
+p102
+I2
+sVhes
+p103
+I1
+sVcaught
+p104
+I1
+sVgive
+p105
+I2
+sVsystem
+p106
+I1
+sVnext
+p107
+I1
+sVstart
+p108
+I1
+sVtrigger
+p109
+I2
+sVdamn
+p110
+I1
+sVway
+p111
+I1
+sVwaste
+p112
+I1
+sVtell
+p113
+I1
+sVbloodshed
+p114
+I1
+sVhead
+p115
+I2
+sVstreets
+p116
+I1
+sVwalkby
+p117
+I1
+sVthat
+p118
+I2
+sVclub
+p119
+I1
+sVnobody
+p120
+I1
+sVtook
+p121
+I1
+sVhear
+p122
+I1
+sVbum
+p123
+I1
+sVline
+p124
+I1
+sVtrying
+p125
+I1
+sVme
+p126
+I6
+sVpull
+p127
+I1
+sVmyself
+p128
+I1
+sVfuking
+p129
+I1
+sVace
+p130
+I1
+sVniggas
+p131
+I2
+sVstraight
+p132
+I2
+sVoh
+p133
+I1
+sVsee
+p134
+I1
+sVniggaz
+p135
+I12
+sVrecord
+p136
+I1
+sVnine
+p137
+I1
+sVfuk
+p138
+I5
+sVand
+p139
+I1
+sVcrazy
+p140
+I1
+sVeventually
+p141
+I1
+sVtaste
+p142
+I1
+sVpie
+p143
+I1
+sVcant
+p144
+I3
+sVim
+p145
+I7
+sVwant
+p146
+I6
+sVkeep
+p147
+I1
+sVshit
+p148
+I2
+sVchase
+p149
+I1
+sVshooting
+p150
+I2
+sVrather
+p151
+I1
+sVna
+p152
+I1
+sVmake
+p153
+I2
+sVmakes
+p154
+I1
+sVafford
+p155
+I1
+sVcausing
+p156
+I1
+sVunderground
+p157
+I1
+sVmuthafukas
+p158
+I2
+sVasshole
+p159
+I1
+sVmuthafukers
+p160
+I3
+sVtried
+p161
+I1
+sVpail
+p162
+I1
+sVsuppose
+p163
+I1
+sVstay
+p164
+I1
+sVrunning
+p165
+I2
+sVgon
+p166
+I1
+sVspitting
+p167
+I1
+sVmultiply
+p168
+I1
+sVsuck
+p169
+I1
+sVclass
+p170
+I1
+sVfo
+p171
+I1
+sVresident
+p172
+I1
+sVepisode
+p173
+I1
+sVi
+I1
+sVfuked
+p174
+I1
+sVface
+p175
+I2
+sVthought
+p176
+I2
+sVjail
+p177
+I1
+sVcpt
+p178
+I1
+s.

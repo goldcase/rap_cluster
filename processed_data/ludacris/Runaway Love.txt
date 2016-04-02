@@ -1,78 +1,581 @@
-"runaway love" lyrics
-ludacris lyrics
-"runaway love"
-(feat. mary j. blige)
-runaway love
-runaway love
-runaway love
-runaway love
-runaway love
-runaway love
-runaway love
-runaway love
-now little lisa is only 9 years old
-she's trying to figure out why the world is so cold
-why she's all alone and ain't never met her family
-mama's always gone and she never met her daddy
-part of her is missing and nobody will listen
-mama is on drugs getting high up in the kitchen
-bringing home men at different hours of the night
-starting with some laughs - usually ending in a fight
-sneaking in her room while her mama's knocked out
-trying to have his way and little lisa says 'ouch'
-she tries to resist but then all he does is beat her
-tries to tell her mom but her mama don't believe her
-lisa is stuck up in the world on her own
-forced to think that hell is a place called home
-nothing else to do but get some clothes and pack
-she says she's 'bout to run away and never come back.
-runaway love
-little nicole is only 10 years old
-she's steady trying to figure why the world is so cold
-why she's not pretty and nobody seems to like her
-alcoholic step-dad always wanna strike her
-yells and abuses, leaves her with some bruises
-teachers ask questions she making up excuses
-bleeding on the inside, crying on the out
-it's only one girl really knows what she about
-her name is little stacy and they become friends
-promise that they always be tight 'til the end
-until one day little stacy gets shot
-a drive by bullet went stray up on her block
-now nicole stuck up in the world on her own
-forced to think that hell is a place called home
-nothing else to do but get her clothes and pack
-she says she's 'bout to run away and never come back.
-runaway love
-little erica is eleven years old
-she's steady trying to figure why the world is so cold
-so she pops x to get rid of all the pain
-plus she's having sex with a boy who's sixteen
-emotions run deep and she thinks she's in love
-so there's no protection he's using no glove
-never thinking 'bout the consequences of her actions
-living for today and not tomorrow's satisfaction
-the days go by and her belly gets big
-the father bails out he ain't ready for a kid
-knowing her mama will blow it all outta proportion
-plus she lives poor so no money for abortion
-erica is stuck up in the world on her own
-forced to think that hell is a place called home
-nothing else to do but get her clothes and pack
-she say she's about to run away and never come back.
-runaway love
-don't keep on runnin'
-runnin'
-don't keep on running
-i know how you feel, i've been there
-i was runnin' away too
-i will run away with you
-runaway runaway love
-don't keep running away
-i'll run away with you, if you want me too
-yeah, i can only imagine what you're going through ladies,
-sometimes i feel like running away myself,
-so do me a favor right now and close your eyes,
-and picture us running away together,
-when we come back everything is gonna be okay,
-open your eyes...
+(dp1
+Vshot
+p2
+I1
+sVtomorrows
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVmoney
+p6
+I1
+sVouch
+p7
+I1
+sVactions
+p8
+I1
+sVyears
+p9
+I3
+sVpops
+p10
+I1
+sVquestions
+p11
+I1
+sVusing
+p12
+I1
+sVsneaking
+p13
+I1
+sVhell
+p14
+I3
+sVcold
+p15
+I3
+sVfeat
+p16
+I1
+sVaint
+p17
+I2
+sVtrying
+p18
+I4
+sVstray
+p19
+I1
+sVtight
+p20
+I1
+sVthinking
+p21
+I1
+sVseems
+p22
+I1
+sVgoing
+p23
+I1
+sVpretty
+p24
+I1
+sVbout
+p25
+I3
+sVbails
+p26
+I1
+sVrunning
+p27
+I4
+sVget
+p28
+I4
+sVbeat
+p29
+I1
+sVbig
+p30
+I1
+sVsixteen
+p31
+I1
+sVknow
+p32
+I1
+sVmom
+p33
+I1
+sVworld
+p34
+I6
+sVending
+p35
+I1
+sVbringing
+p36
+I1
+sVday
+p37
+I1
+sVname
+p38
+I1
+sVgets
+p39
+I2
+sVlike
+p40
+I2
+sVill
+p41
+I1
+sValways
+p42
+I3
+sVglove
+p43
+I1
+sVnight
+p44
+I1
+sVlisa
+p45
+I3
+sVwent
+p46
+I1
+sVclothes
+p47
+I3
+sVproportion
+p48
+I1
+sVright
+p49
+I1
+sVold
+p50
+I3
+sVbleeding
+p51
+I1
+sVokay
+p52
+I1
+sVback
+p53
+I4
+sVsex
+p54
+I1
+sVresist
+p55
+I1
+sVgo
+p56
+I1
+sVshes
+p57
+I10
+sVhome
+p58
+I4
+sVgirl
+p59
+I1
+sVerica
+p60
+I2
+sVthinks
+p61
+I1
+sVout
+p62
+I2
+sVliving
+p63
+I1
+sVgon
+p64
+I1
+sVaway
+p65
+I9
+sVemotions
+p66
+I1
+sVfavor
+p67
+I1
+sVnicole
+p68
+I2
+sVknowing
+p69
+I1
+sVblow
+p70
+I1
+sVmamas
+p71
+I2
+sVmen
+p72
+I1
+sVrun
+p73
+I6
+sVmissing
+p74
+I1
+sVnever
+p75
+I6
+sVhours
+p76
+I1
+sVmet
+p77
+I2
+sVprotection
+p78
+I1
+sVbecome
+p79
+I1
+sValone
+p80
+I1
+sVconsequences
+p81
+I1
+sVcome
+p82
+I4
+sVkitchen
+p83
+I1
+sVboy
+p84
+I1
+sVabout
+p85
+I1
+sVgetting
+p86
+I1
+sVleaves
+p87
+I1
+sVhes
+p88
+I1
+sVdays
+p89
+I1
+sVkeep
+p90
+I3
+sVplace
+p91
+I3
+sVusually
+p92
+I1
+sVtheres
+p93
+I1
+sVthink
+p94
+I3
+sVblock
+p95
+I1
+sVladies
+p96
+I1
+sVown
+p97
+I3
+sVlove
+p98
+I15
+sVdont
+p99
+I4
+sVfamily
+p100
+I1
+sVive
+p101
+I1
+sVfeel
+p102
+I2
+sVfather
+p103
+I1
+sVimagine
+p104
+I1
+sVyells
+p105
+I1
+sVone
+p106
+I2
+sVsatisfaction
+p107
+I1
+sVask
+p108
+I1
+sVpromise
+p109
+I1
+sVsays
+p110
+I3
+sVwhos
+p111
+I1
+sVopen
+p112
+I1
+sVrunaway
+p113
+I15
+sVwan
+p114
+I1
+sVlittle
+p115
+I6
+sVher
+p116
+I4
+sVeleven
+p117
+I1
+sVthere
+p118
+I1
+sVfight
+p119
+I1
+sVstuck
+p120
+I3
+sVtoo
+p121
+I2
+sVway
+p122
+I1
+sVmama
+p123
+I3
+sVmary
+p124
+I1
+sVtoday
+p125
+I1
+sVlisten
+p126
+I1
+sVeyes
+p127
+I2
+sVcrying
+p128
+I1
+sVdrugs
+p129
+I1
+sVnobody
+p130
+I2
+sVelse
+p131
+I3
+sVstrike
+p132
+I1
+sVpart
+p133
+I1
+sVlives
+p134
+I1
+sVstepdad
+p135
+I1
+sVbelieve
+p136
+I1
+sVrunnin
+p137
+I3
+sV10
+p138
+I1
+sVmyself
+p139
+I1
+sVroom
+p140
+I1
+sVblige
+p141
+I1
+sVinside
+p142
+I1
+sVj
+I1
+sVabortion
+p143
+I1
+sVus
+p144
+I1
+sVtell
+p145
+I1
+sVteachers
+p146
+I1
+sVabuses
+p147
+I1
+sVknocked
+p148
+I1
+sVmaking
+p149
+I1
+sVdaddy
+p150
+I1
+sVcalled
+p151
+I3
+sVpack
+p152
+I3
+sVgone
+p153
+I1
+sVsometimes
+p154
+I1
+sVoutta
+p155
+I1
+sVfigure
+p156
+I3
+sValcoholic
+p157
+I1
+sVlaughs
+p158
+I1
+sVdeep
+p159
+I1
+sVhigh
+p160
+I1
+sVsay
+p161
+I1
+sVwant
+p162
+I1
+sVclose
+p163
+I1
+sVready
+p164
+I1
+sVrid
+p165
+I1
+sVknows
+p166
+I1
+sVforced
+p167
+I3
+sVdifferent
+p168
+I1
+sVend
+p169
+I1
+sVna
+p170
+I2
+sVtil
+p171
+I1
+sVexcuses
+p172
+I1
+sVbelly
+p173
+I1
+sV9
+I1
+sVbruises
+p174
+I1
+sVreally
+p175
+I1
+sVpoor
+p176
+I1
+sVpicture
+p177
+I1
+sVpain
+p178
+I1
+sVstacy
+p179
+I2
+sVtries
+p180
+I2
+sVplus
+p181
+I2
+sVx
+I1
+sVnothing
+p182
+I3
+sVfriends
+p183
+I1
+sVkid
+p184
+I1
+sVyeah
+p185
+I1
+sVbullet
+p186
+I1
+sVyoure
+p187
+I1
+sVsteady
+p188
+I2
+sVdrive
+p189
+I1
+sVtogether
+p190
+I1
+sVeverything
+p191
+I1
+sVstarting
+p192
+I1
+s.

@@ -1,101 +1,815 @@
-"area" lyrics
-de la soul lyrics
-"area"
-(i can just remember the number...)
-just another area
-for me to patrol
-just another area
-that shows i got soul
-just another area
-for me to patrol
-just another area
-that shows i got soul
-i got soul you see, i'm swimming in the de la
-i'm in my hood man, my manhood worries ya
-i'm known for sampling of soul food
-off the old school plates
-when i met up with my niggas from the 718
-one the jungle bro, the other questers from queens
-yet i had the matrix of the 516 in my jeans
-still i sided with my funk to bring my second on call
-for me and the sheep, our mission's on the beach of 804
-(you're runnin' on an empty tank)
-but still get paid in full
-(and get the girls)
-man, i'm packing gravitational pull
-bring the instamatic avalanche, my code intervenes
-i'm out to scout the areas that remains to be seen
-(what?)
-well, many many digits had me seeking in my wizard
-man, who's ringing up my area (ooh) oh!
-i used to shoe it to the bridge but that's gone
-like the 718's out of vietnam
-sniffin' skypagers had me drugged
-(man i knew a psycho)
-703's on my love bug
-i made mates with the brothers up in 215
-crazy buddhas in my mind
-my chattanooga champ had me late for the camp
-and my 202 keeps me marvellous
-i guess mars was my hideaway
-but if the stars for a getaway...
-since i'm capable i conjure up a walk in this way
-i slip a syllable for aspen and a chester souffle
-i be the 919 seeker, 'cause ain't off logic
-so when i'm with my crew i always have a place to sit
-due to this, a brother tries to play me
-(yeah, like one in 514)
-yo, some kid tried to flip on me
-they instigated a brawl
-(so we set our knuckles on stun and made them all fall)
-then i just laughed
-(ha ha ha ha ha ha)
-(we whooped that ass)
-and put the feelings aside, i know who i am
-i cast the grain by the pound
-i make sounds with the horn
-when i colour the corn, caught the fit
-and sit the two when honey slung the tip
-well i'm taking my finds to the 301's
-and im playing my flute in the rear kibbut
-my man from the 908's, he don't like it like that
-so i pipes till the sunshine hikes
-a kettle of our master plan makes a malibu idol
-(god forgive me) well, it's a hook
-the third to the 0 to the 5 had top feel the vibe
-when the 516 played convicts
-the man maseo is here to put the habit along
-and what you have, i'm 'bout to speak about your area code
-is it 918? (no)
-is it 212? (no)
-speakin' on 404? (hell no)
-what about 516? (i dunno)
-what is it? (not tellin' ya)
-what is it? (not tellin' ya)
-what is it? (not tellin' ya)
-what is it? (not tellin' ya)
-(huh? what?)
-just another area for me to patrol
-i got status 'cause i'm baddest with the paint
-giving upside down frowns to london wood 703
-her moms didn't like it, i had to let be
-for the fact i lays bricks
-'cause my semen ends with the letter t
-my seed is hard to submerge
-i play the tack in the wall if my rear's not watched
-'cause some knuckle might just head for the urge
-but i got prince paul in the area
-(oh, it's like that now)
-i got hot dog in the area
-(heh heh heh)
-i got the violators in the area
-(aaah)
-i's got the violators in the area
-(aaah)
-it don't matter where you hide, i clear up the fall
-cop the fuck outta here, you fake-ass fraud
-clear my area
-(i'm going home now, i have been up all night.)
-(i been up all night, it's still friday to me.)
-(come on now. hey, ellory, i'm going home!)
-(bob to the bob, d-dang, d-dang diggy-diggy)
+(dp1
+Vmaseo
+p2
+I1
+sVurge
+p3
+I1
+sVcode
+p4
+I2
+sV212
+p5
+I1
+sVkettle
+p6
+I1
+sVlyrics
+p7
+I2
+sVgetaway
+p8
+I1
+sVtop
+p9
+I1
+sVdiggydiggy
+p10
+I1
+sVbring
+p11
+I2
+sVavalanche
+p12
+I1
+sV215
+p13
+I1
+sVlondon
+p14
+I1
+sVshoe
+p15
+I1
+sVellory
+p16
+I1
+sVhell
+p17
+I1
+sVpsycho
+p18
+I1
+sVstill
+p19
+I3
+sVyet
+p20
+I1
+sVconjure
+p21
+I1
+sVaint
+p22
+I1
+sVnow
+p23
+I1
+sVfit
+p24
+I1
+sVla
+p25
+I2
+sVbaddest
+p26
+I1
+sVwizard
+p27
+I1
+sVhot
+p28
+I1
+sVcrew
+p29
+I1
+sVlate
+p30
+I1
+sV0
+I1
+sVslung
+p31
+I1
+sV404
+p32
+I1
+sVknuckle
+p33
+I1
+sVbout
+p34
+I1
+sVmight
+p35
+I1
+sVfrowns
+p36
+I1
+sVme
+p37
+I3
+sVyo
+p38
+I1
+sVget
+p39
+I2
+sVfood
+p40
+I1
+sVde
+p41
+I2
+sVfraud
+p42
+I1
+sVscout
+p43
+I1
+sVknow
+p44
+I1
+sVkid
+p45
+I1
+sVfall
+p46
+I2
+sVone
+p47
+I2
+sVrear
+p48
+I1
+sVareas
+p49
+I1
+sVfakeass
+p50
+I1
+sVgoing
+p51
+I2
+sVschool
+p52
+I1
+sVlike
+p53
+I6
+sVhook
+p54
+I1
+sVmarvellous
+p55
+I1
+sVdrugged
+p56
+I1
+sVbrother
+p57
+I1
+sVflute
+p58
+I1
+sVlays
+p59
+I1
+sVman
+p60
+I6
+sValways
+p61
+I1
+sVworries
+p62
+I1
+sVsubmerge
+p63
+I1
+sVskypagers
+p64
+I1
+sVset
+p65
+I1
+sVold
+p66
+I1
+sVgrain
+p67
+I1
+sVhabit
+p68
+I1
+sVwood
+p69
+I1
+sVhard
+p70
+I1
+sV908s
+p71
+I1
+sVyeah
+p72
+I1
+sVsoul
+p73
+I5
+sVsee
+p74
+I1
+sV202
+p75
+I1
+sVhome
+p76
+I2
+sV703
+p77
+I1
+sVpaul
+p78
+I1
+sVtried
+p79
+I1
+sVkibbut
+p80
+I1
+sVwhat
+p81
+I2
+sVhide
+p82
+I1
+sVmatrix
+p83
+I1
+sVmatter
+p84
+I1
+sVgiving
+p85
+I1
+sV301s
+p86
+I1
+sVpipes
+p87
+I1
+sVsince
+p88
+I1
+sVwhooped
+p89
+I1
+sVprince
+p90
+I1
+sV919
+p91
+I1
+sV918
+p92
+I1
+sVt
+I1
+sVgot
+p93
+I8
+sVcause
+p94
+I4
+sVshows
+p95
+I2
+sVass
+p96
+I1
+sVbe
+p97
+I1
+sVends
+p98
+I1
+sVfull
+p99
+I1
+sVddang
+p100
+I2
+sVgod
+p101
+I1
+sVbrawl
+p102
+I1
+sVcorn
+p103
+I1
+sVnight
+p104
+I2
+sVknuckles
+p105
+I1
+sVforgive
+p106
+I1
+sVfeelings
+p107
+I1
+sVmet
+p108
+I1
+sVpacking
+p109
+I1
+sV703s
+p110
+I1
+sVlet
+p111
+I1
+sVno
+p112
+I3
+sVput
+p113
+I2
+sValong
+p114
+I1
+sVspeakin
+p115
+I1
+sVwall
+p116
+I1
+sVswimming
+p117
+I1
+sVdigits
+p118
+I1
+sVcop
+p119
+I1
+sVbuddhas
+p120
+I1
+sVstun
+p121
+I1
+sVviolators
+p122
+I2
+sVmissions
+p123
+I1
+sVoh
+p124
+I2
+sVmany
+p125
+I2
+sVseeking
+p126
+I1
+sVcapable
+p127
+I1
+sVsniffin
+p128
+I1
+sVplace
+p129
+I1
+sVlogic
+p130
+I1
+sVbob
+p131
+I2
+sVmakes
+p132
+I1
+sV514
+p133
+I1
+sVthats
+p134
+I1
+sVaaah
+p135
+I2
+sVlove
+p136
+I1
+sVdont
+p137
+I2
+sVgone
+p138
+I1
+sVfeel
+p139
+I1
+sVjeans
+p140
+I1
+sVnumber
+p141
+I1
+sVsampling
+p142
+I1
+sVbro
+p143
+I1
+sVtill
+p144
+I1
+sVpound
+p145
+I1
+sVchamp
+p146
+I1
+sVanother
+p147
+I5
+sVmanhood
+p148
+I1
+sVsounds
+p149
+I1
+sVinstamatic
+p150
+I1
+sVhey
+p151
+I1
+sVhood
+p152
+I1
+sVspeak
+p153
+I1
+sVsheep
+p154
+I1
+sVsouffle
+p155
+I1
+sVguess
+p156
+I1
+sVarea
+p157
+I14
+sVremains
+p158
+I1
+sVcome
+p159
+I1
+sVcaught
+p160
+I1
+sVgirls
+p161
+I1
+sVdue
+p162
+I1
+sVwhos
+p163
+I1
+sVpaint
+p164
+I1
+sVseeker
+p165
+I1
+sVcall
+p166
+I1
+sVstars
+p167
+I1
+sVmars
+p168
+I1
+sVmaster
+p169
+I1
+sVintervenes
+p170
+I1
+sVheh
+p171
+I3
+sVempty
+p172
+I1
+sVmalibu
+p173
+I1
+sVoutta
+p174
+I1
+sVway
+p175
+I1
+sVthat
+p176
+I1
+sVam
+p177
+I1
+sVsunshine
+p178
+I1
+sVhuh
+p179
+I1
+sVooh
+p180
+I1
+sVfuck
+p181
+I1
+sVknown
+p182
+I1
+sVha
+p183
+I6
+sVbug
+p184
+I1
+sVfunk
+p185
+I1
+sVrunnin
+p186
+I1
+sVpull
+p187
+I1
+sVmade
+p188
+I2
+sVtank
+p189
+I1
+sVfriday
+p190
+I1
+sVniggas
+p191
+I1
+sVgravitational
+p192
+I1
+sVsecond
+p193
+I1
+sVtellin
+p194
+I4
+sVcast
+p195
+I1
+sVinstigated
+p196
+I1
+sVseed
+p197
+I1
+sVidol
+p198
+I1
+sVdunno
+p199
+I1
+sVdidnt
+p200
+I1
+sVtaking
+p201
+I1
+sVclear
+p202
+I2
+sVbridge
+p203
+I1
+sVcrazy
+p204
+I1
+sVcamp
+p205
+I1
+sVpatrol
+p206
+I3
+sVringing
+p207
+I1
+sVplayed
+p208
+I1
+sVmind
+p209
+I1
+sVhead
+p210
+I1
+sVhoney
+p211
+I1
+sVmates
+p212
+I1
+sVim
+p213
+I13
+sVslip
+p214
+I1
+sVwatched
+p215
+I1
+sVseen
+p216
+I1
+sVplan
+p217
+I1
+sVsemen
+p218
+I1
+sVsit
+p219
+I2
+sVvibe
+p220
+I1
+sVmake
+p221
+I1
+sV718
+p222
+I1
+sVtip
+p223
+I1
+sVaside
+p224
+I1
+sVquesters
+p225
+I1
+sVwalk
+p226
+I1
+sVya
+p227
+I5
+sVbricks
+p228
+I1
+sV5
+I1
+sVlaughed
+p229
+I1
+sVplates
+p230
+I1
+sV718s
+p231
+I1
+sVbeach
+p232
+I1
+sVchester
+p233
+I1
+sVstatus
+p234
+I1
+sVconvicts
+p235
+I1
+sVplay
+p236
+I2
+sVused
+p237
+I1
+sVaspen
+p238
+I1
+sVbrothers
+p239
+I1
+sVhideaway
+p240
+I1
+sVflip
+p241
+I1
+sVsyllable
+p242
+I1
+sVsided
+p243
+I1
+sVknew
+p244
+I1
+sVhorn
+p245
+I1
+sVpaid
+p246
+I1
+sVtries
+p247
+I1
+sVtack
+p248
+I1
+sVtwo
+p249
+I1
+sVletter
+p250
+I1
+sVqueens
+p251
+I1
+sVchattanooga
+p252
+I1
+sVremember
+p253
+I1
+sVthird
+p254
+I1
+sVmoms
+p255
+I1
+sVcolour
+p256
+I1
+sVyoure
+p257
+I1
+sVwell
+p258
+I3
+sVdog
+p259
+I1
+sVfinds
+p260
+I1
+sVhikes
+p261
+I1
+sVvietnam
+p262
+I1
+sVupside
+p263
+I1
+sVjungle
+p264
+I1
+sVkeeps
+p265
+I1
+sVrears
+p266
+I1
+sV516
+p267
+I3
+sVplaying
+p268
+I1
+sVfact
+p269
+I1
+sV804
+p270
+I1
+s.

@@ -1,91 +1,618 @@
-"the recipe" lyrics
-e-40 lyrics
-"the recipe"
-hey, this is cooking with brook
-on the cooking channel
-today we're gonna be making crack
-first take 36 ounces of coke
-mixing it with water in a pot on the stove
-next step to make them boulders add, baking soda
-if the flame is low then turn it up and stir it up
-finally, just wait till it gets hard
-then bag it up, you got a key
-homie, that's the recipe, that's the recipe
-that's the recipe
-first take 36 ounces of coke
-mixing it with water in a pot on the stove
-next step to make them boulders add, baking soda
-if the flame is low then turn it up and stir it up
-finally, just wait till it gets hard
-then bag it up, you got a key
-homie, that's the recipe, that's the recipe
-that's the recipe
-before you decide to elect yourself in the game of dope
-better know that it is cut throat
-can't be cracking under pressure when your backed in a corner
-against the ropes
-they ain't calling it snitching no more
-they calling it telling the truth
-they say you better get down first
-before they decide to get down on you
-mixing it up, shake and bake
-it's 2008, they got more data than '88
-we used to make crazy cake, flipping weight
-gotta get in and out before it be too late
-i don't want to be 6 feet under
-so i pack and tote my thump
-suckas want to hate and block my thunder
-'cause i got more kicks than a punter
-murder rates go up in the summer
-killers go hunting like a hunter
-(how good can you live?)
-you can live good for 6 years
-but then it's football numbers
-first take 36 ounces of coke
-mixing it with water in a pot on the stove
-next step to make them boulders add, baking soda
-if the flame is low then turn it up and stir it up
-finally, just wait till it gets hard
-then bag it up, you got a key
-homie, that's the recipe, that's the recipe
-that's the recipe
-chef for the year, better yet, the fucking century
-dread head killers with me before dem up insolate
-i'm in the kitchen scrapping up the pottery
-working with my hands like the maestro at the symphony
-sniff, i'm cocaine, shawty, take a wiff off me
-stiff a liffy pisso nigga come and comprehend from me
-talk slick to me, e40 style, you hearing me?
-got a green skirt and i bought it off a recipe
-hella p's, hella keys, yellow, purple, readily
-put me in the feds if these crackers on the recipe
-33 yellow d's purchased off my recipe
-heavy cocaine in the g, plus i got a recipe
-first take 36 ounces of coke
-mixing it with water in a pot on the stove
-next step to make them boulders add, baking soda
-if the flame is low then turn it up and stir it up
-finally, just wait till it gets hard
-then bag it up, you got a key
-homie, that's the recipe, that's the recipe
-that's the recipe
-well, it's chef boy a bun b, the king of the kitchen
-i got exactly what you need to do your thing when you pitching
-guarantee to add a few layers of bling on your stitching
-bein' teeded in your chest get you stinging and itching
-got to have the right ingredients before you can start
-like 1 part gangsterism with 1 part heart
-2 parts of keeping it g and add you one hundred
-milligrams of a killer, man and you'd had done it
-put it all inside a cadillac with them 3's and them 4's
-swang wide and mix scurrily while skating on vogues
-don't forget to shake them haters off homie that's a necessity
-now you done made you a trill, nigga, now that's the recipe
-first take 36 ounces of coke
-mixing it with water in a pot on the stove
-next step to make them boulders add, baking soda
-if the flame is low then turn it up and stir it up
-finally, just wait till it gets hard
-then bag it up, you got a key
-homie, that's the recipe, that's the recipe
-that's the recipe
+(dp1
+Vsummer
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVstove
+p5
+I5
+sVrecipe
+p6
+I22
+sVyellow
+p7
+I2
+sVyears
+p8
+I1
+sVmixing
+p9
+I6
+sVshake
+p10
+I2
+sVgo
+p11
+I2
+sVcorner
+p12
+I1
+sVhate
+p13
+I1
+sVyet
+p14
+I1
+sVaint
+p15
+I1
+sVstyle
+p16
+I1
+sVcut
+p17
+I1
+sVhunting
+p18
+I1
+sVmix
+p19
+I1
+sVounces
+p20
+I5
+sVbrook
+p21
+I1
+sVcomprehend
+p22
+I1
+sVlate
+p23
+I1
+sVfinally
+p24
+I5
+sVpunter
+p25
+I1
+sVunder
+p26
+I1
+sVta
+p27
+I1
+sVgood
+p28
+I2
+sVmade
+p29
+I1
+sVget
+p30
+I4
+sVdope
+p31
+I1
+sVkiller
+p32
+I1
+sVhunter
+p33
+I1
+sVkeeping
+p34
+I1
+sVgame
+p35
+I1
+sVkillers
+p36
+I2
+sVknow
+p37
+I1
+sVdecide
+p38
+I2
+sVhands
+p39
+I1
+sVtelling
+p40
+I1
+sVstitching
+p41
+I1
+sVone
+p42
+I1
+sVshawty
+p43
+I1
+sVbaking
+p44
+I5
+sVlike
+p45
+I3
+sVstiff
+p46
+I1
+sVcalling
+p47
+I2
+sVbag
+p48
+I5
+sVscrapping
+p49
+I1
+sVtruth
+p50
+I1
+sVheavy
+p51
+I1
+sVnigga
+p52
+I2
+sVweight
+p53
+I1
+sVfucking
+p54
+I1
+sVhundred
+p55
+I1
+sVhard
+p56
+I5
+sVteeded
+p57
+I1
+sVchef
+p58
+I2
+sV88
+p59
+I1
+sVyear
+p60
+I1
+sVbake
+p61
+I1
+sVgon
+p62
+I1
+sVtote
+p63
+I1
+sVpurple
+p64
+I1
+sVthunder
+p65
+I1
+sVexactly
+p66
+I1
+sVcooking
+p67
+I2
+sVslick
+p68
+I1
+sVnecessity
+p69
+I1
+sVwide
+p70
+I1
+sVitching
+p71
+I1
+sVgot
+p72
+I12
+sVcause
+p73
+I1
+sVbought
+p74
+I1
+sVlayers
+p75
+I1
+sVswang
+p76
+I1
+sVps
+p77
+I1
+sVthump
+p78
+I1
+sVwater
+p79
+I5
+sVpressure
+p80
+I1
+sVstep
+p81
+I5
+sVadd
+p82
+I7
+sVkey
+p83
+I5
+sVbacked
+p84
+I1
+sVgangsterism
+p85
+I1
+sVcome
+p86
+I1
+sVwait
+p87
+I5
+sVboy
+p88
+I1
+sVsniff
+p89
+I1
+sVg
+I2
+sV33
+p90
+I1
+sV36
+p91
+I5
+sVboulders
+p92
+I5
+sVds
+p93
+I1
+sVturn
+p94
+I5
+sVplus
+p95
+I1
+sVsoda
+p96
+I5
+sVscurrily
+p97
+I1
+sVblock
+p98
+I1
+sVthats
+p99
+I17
+sVbling
+p100
+I1
+sVelect
+p101
+I1
+sVdont
+p102
+I2
+sVpot
+p103
+I5
+sVyoud
+p104
+I1
+sVflipping
+p105
+I1
+sVhearing
+p106
+I1
+sVfeet
+p107
+I1
+sVput
+p108
+I2
+sVright
+p109
+I1
+sVdone
+p110
+I2
+sVcocaine
+p111
+I2
+sVreadily
+p112
+I1
+sVbetter
+p113
+I3
+sVworking
+p114
+I1
+sVropes
+p115
+I1
+sVhey
+p116
+I1
+sVnext
+p117
+I5
+sVstart
+p118
+I1
+sVlive
+p119
+I2
+sVsymphony
+p120
+I1
+sVrates
+p121
+I1
+sVlow
+p122
+I5
+sVpitching
+p123
+I1
+sV6
+I2
+sVkitchen
+p124
+I2
+sVtoday
+p125
+I1
+sVmore
+p126
+I1
+sVhead
+p127
+I1
+sVmurder
+p128
+I1
+sVsuckas
+p129
+I1
+sVcoke
+p130
+I5
+sVcrack
+p131
+I1
+sVsnitching
+p132
+I1
+sVit
+p133
+I1
+sVpart
+p134
+I2
+sVbun
+p135
+I1
+sVkicks
+p136
+I1
+sVhaters
+p137
+I1
+sVme
+p138
+I3
+sVking
+p139
+I1
+sVe40
+p140
+I2
+sVb
+I1
+sVinside
+p141
+I1
+sVmilligrams
+p142
+I1
+sVup
+p143
+I5
+sV2
+I1
+sVliffy
+p144
+I1
+sVflame
+p145
+I5
+sVdem
+p146
+I1
+sVcake
+p147
+I1
+sVmaking
+p148
+I1
+sVcrackers
+p149
+I1
+sVsay
+p150
+I1
+sVpack
+p151
+I1
+sVskating
+p152
+I1
+sVheart
+p153
+I1
+sVcrazy
+p154
+I1
+sVpurchased
+p155
+I1
+sVcentury
+p156
+I1
+sVstinging
+p157
+I1
+sVneed
+p158
+I1
+sVcant
+p159
+I1
+sVhomie
+p160
+I6
+sVim
+p161
+I2
+sVnumbers
+p162
+I1
+sVwant
+p163
+I2
+sVthroat
+p164
+I1
+sVvogues
+p165
+I1
+sVskirt
+p166
+I1
+sVinsolate
+p167
+I1
+sVpisso
+p168
+I1
+sVtrill
+p169
+I1
+sVthing
+p170
+I1
+sVna
+p171
+I1
+sVmake
+p172
+I6
+sV1
+I2
+sVtill
+p173
+I5
+sVchest
+p174
+I1
+sVparts
+p175
+I1
+sVguarantee
+p176
+I1
+sVtake
+p177
+I6
+sVmaestro
+p178
+I1
+sVyou
+p179
+I1
+sVgets
+p180
+I5
+sVstir
+p181
+I5
+sVbein
+p182
+I1
+sVchannel
+p183
+I1
+sVused
+p184
+I1
+sVkeys
+p185
+I1
+sVcadillac
+p186
+I1
+sVfootball
+p187
+I1
+sVfeds
+p188
+I1
+sVcracking
+p189
+I1
+sVdata
+p190
+I1
+sVman
+p191
+I1
+sVpottery
+p192
+I1
+sVwiff
+p193
+I1
+sVingredients
+p194
+I1
+sVwell
+p195
+I1
+sV4s
+p196
+I1
+sV3s
+p197
+I1
+sVhella
+p198
+I2
+sVgreen
+p199
+I1
+sVdread
+p200
+I1
+sV2008
+p201
+I1
+sVfirst
+p202
+I6
+sVtalk
+p203
+I1
+s.

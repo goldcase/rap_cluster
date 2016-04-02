@@ -1,72 +1,573 @@
-"riders on the storm (fredwreck remix)" lyrics
-snoop dogg lyrics
-"riders on the storm (fredwreck remix)"
-(feat. the doors)
-hey yo jim man
-why don't ya
-you don't you kick some of that
-you know, you know how you do it man
-it's a trip people don't even believe were together right now (wow)
-but tell your story, man
-you know the one i like
-say it for me (ride, ride, ride)
-riders on the storm (ride, ride, ride)
-riders on the storm (ride, ride, ride)
-into this house we're born (into this house we're born)
-into this world we're thrown (into this world we're thrown)
-like a dog without a bone (like a dog without a bone)
-an actor out on loan(an actor out alone)
-riders on the storm (ride, ride, ride)
-there's a killer on the road (killer, murder)
-his brain is squirmin' like a toad
-take a long holiday (holidays, holidays)
-let your children play (play)
-if ya give this man a ride
-sweet family will die (die)
-killer on the road, yeah (killer, murder)
-goin' off of this roll off of that with the lizard king
-bumpin' in the back (wow) how bout that (yeah)
-driftin', liftin', swiftin', coastin', testaroastin'
-but the wheels won't stop 200 (errrr) on the highway fresh
-up off the block he's a rider, na he's a killer dresses in all black
-but his hat says stella (stella)
-pedal to the metal i gotta go hard
-drive by and say hello hey fredwreck you my mello now let me
-hear what i sound like acapella (shhh) wow ride dip swish now
-bring it back just like this like a dog with out his bone unlike
-a g with out his chrome it's hard to imagine the homey dog in a
-jag and he's checkin' for the checkered flag comin' in first never
-in last cause my car to fast (zoom, zoom) i neva eva run out of
-gas cause i just to clean i do it upper class so fasten your seat
-belts it's so hot it will even make heat melt (woo, woo) so get a bowl
-and roll and ride slip through the slip and slide
-like a dog without a bone
-an actor out on loan
-riders on the storm
-there's a killer on the road
-his brain is squirmin' like a toad
-take a long holiday
-let your children play
-if ya give this man a ride
-sweet family will die
-killer on the road, yeah
-away chameleon
-need for speed i'm trying to take the lead hold on little homey
-before you run into the trees (watch out, watch out) i've seen things that
-i would have never saw before hey yo jim let'em in, let'em in open up
-my back tire smokin' (errrr) the whole street and now the police wanna
-flash there lights and chase the dogg all night (woof) but i won't pull over
-nor give up, 'cause i just don't give a fuck (what, what, what)
-yeah from the side boy where we was born and raised straight up to ride
-boy (west side) continuously, (continuously) we get to it expeditiously
-keep the light on east side on snoop dogg and the doors
-and yeah we bout to ride on
-riders on the storm
-riders on the storm
-into this house we're born
-into this world we're thrown (were thrown)
-like a dog without a bone
-an actor out on loan
-riders on the storm
-riders on the storm
-and let's ride
+(dp1
+Vlyrics
+p2
+I2
+sVletem
+p3
+I2
+sVover
+p4
+I1
+sVswiftin
+p5
+I1
+sVbrain
+p6
+I2
+sVgo
+p7
+I1
+sVfeat
+p8
+I1
+sVchildren
+p9
+I2
+sVaway
+p10
+I1
+sVtrying
+p11
+I1
+sVpolice
+p12
+I1
+sVacapella
+p13
+I1
+sVtire
+p14
+I1
+sVjim
+p15
+I2
+sVwoof
+p16
+I1
+sVlets
+p17
+I1
+sVblack
+p18
+I1
+sVjag
+p19
+I1
+sVbout
+p20
+I2
+sVholiday
+p21
+I2
+sVhat
+p22
+I1
+sVkick
+p23
+I1
+sVdriftin
+p24
+I1
+sVsound
+p25
+I1
+sVyo
+p26
+I2
+sVget
+p27
+I2
+sVya
+p28
+I3
+sVcheckin
+p29
+I1
+sVkiller
+p30
+I7
+sVstop
+p31
+I1
+sVtrees
+p32
+I1
+sVknow
+p33
+I3
+sVworld
+p34
+I3
+sVnow
+p35
+I1
+sVshhh
+p36
+I1
+sVwont
+p37
+I2
+sVlike
+p38
+I10
+sVbring
+p39
+I1
+sVdie
+p40
+I3
+sVbelts
+p41
+I1
+sVliftin
+p42
+I1
+sVzoom
+p43
+I2
+sVroll
+p44
+I2
+sVslide
+p45
+I1
+sVeva
+p46
+I1
+sVdip
+p47
+I1
+sVside
+p48
+I3
+sVbone
+p49
+I5
+sVupper
+p50
+I1
+sVright
+p51
+I1
+sVsays
+p52
+I1
+sVpeople
+p53
+I1
+sVhouse
+p54
+I3
+sVhard
+p55
+I2
+sVyeah
+p56
+I5
+sVseat
+p57
+I1
+sVborn
+p58
+I4
+sVstreet
+p59
+I1
+sVneva
+p60
+I1
+sVeven
+p61
+I2
+sVwhat
+p62
+I1
+sVlead
+p63
+I1
+sVspeed
+p64
+I1
+sVwow
+p65
+I3
+sVmelt
+p66
+I1
+sVlights
+p67
+I1
+sVwoo
+p68
+I2
+sVtestaroastin
+p69
+I1
+sVgot
+p70
+I1
+sVhold
+p71
+I1
+sVcause
+p72
+I3
+sVhighway
+p73
+I1
+sVcheckered
+p74
+I1
+sVrun
+p75
+I2
+sVnever
+p76
+I2
+sVlittle
+p77
+I1
+sVlet
+p78
+I3
+sVsmokin
+p79
+I1
+sVimagine
+p80
+I1
+sValone
+p81
+I1
+sVbumpin
+p82
+I1
+sVheat
+p83
+I1
+sVpull
+p84
+I1
+sVthrown
+p85
+I4
+sVboy
+p86
+I2
+sVlast
+p87
+I1
+sVwould
+p88
+I1
+sVg
+I1
+sVof
+p89
+I1
+sVkeep
+p90
+I1
+sVstella
+p91
+I2
+sVwest
+p92
+I1
+sVwheels
+p93
+I1
+sVmello
+p94
+I1
+sVblock
+p95
+I1
+sVfirst
+p96
+I1
+sVraised
+p97
+I1
+sVflash
+p98
+I1
+sVdont
+p99
+I4
+sVfamily
+p100
+I2
+sVsweet
+p101
+I2
+sVloan
+p102
+I2
+sVcoastin
+p103
+I1
+sVone
+p104
+I1
+sVfast
+p105
+I1
+sVcomin
+p106
+I1
+sVopen
+p107
+I1
+sVstraight
+p108
+I1
+sVwan
+p109
+I1
+sVstory
+p110
+I1
+sVsnoop
+p111
+I2
+sVhes
+p112
+I3
+sVchrome
+p113
+I1
+sVdogg
+p114
+I3
+sVnight
+p115
+I1
+sVhey
+p116
+I3
+sVlong
+p117
+I2
+sVsquirmin
+p118
+I2
+sVstorm
+p119
+I10
+sVman
+p120
+I5
+sVtell
+p121
+I1
+sVerrrr
+p122
+I2
+sVmurder
+p123
+I2
+sVthat
+p124
+I2
+sVloanan
+p125
+I1
+sVgas
+p126
+I1
+sVback
+p127
+I3
+sVflag
+p128
+I1
+sVhear
+p129
+I1
+sVbelieve
+p130
+I1
+sVriders
+p131
+I10
+sVme
+p132
+I1
+sVking
+p133
+I1
+sVeast
+p134
+I1
+sVunlike
+p135
+I1
+sVcar
+p136
+I1
+sVride
+p137
+I19
+sVhomey
+p138
+I2
+sVup
+p139
+I1
+sVlizard
+p140
+I1
+sVlight
+p141
+I1
+sVcontinuously
+p142
+I2
+sVta
+p143
+I1
+sVtheres
+p144
+I2
+sVive
+p145
+I1
+sVgive
+p146
+I4
+sVexpeditiously
+p147
+I1
+sVfuck
+p148
+I1
+sVdrive
+p149
+I1
+sVsay
+p150
+I2
+sVim
+p151
+I1
+sVslip
+p152
+I2
+sVneed
+p153
+I1
+sVseen
+p154
+I1
+sVsaw
+p155
+I1
+sVtrip
+p156
+I1
+sVchase
+p157
+I1
+sVna
+p158
+I2
+sVmake
+p159
+I1
+sVchameleon
+p160
+I1
+sVbowl
+p161
+I1
+sVactor
+p162
+I4
+sVhot
+p163
+I1
+sVtake
+p164
+I3
+sVdoors
+p165
+I2
+sVrider
+p166
+I1
+sVdresses
+p167
+I1
+sV200
+p168
+I1
+sVplay
+p169
+I3
+sVtoad
+p170
+I2
+sVwatch
+p171
+I2
+sVholidays
+p172
+I2
+sVfredwreck
+p173
+I3
+sVfasten
+p174
+I1
+sVpedal
+p175
+I1
+sVon
+p176
+I1
+sVclass
+p177
+I1
+sVgoin
+p178
+I1
+sVa
+I1
+sVremix
+p179
+I2
+sVswish
+p180
+I1
+sVwhole
+p181
+I1
+sVmetal
+p182
+I1
+sVdog
+p183
+I6
+sVtogether
+p184
+I1
+sVwithout
+p185
+I4
+sVroad
+p186
+I4
+sVclean
+p187
+I1
+sVthings
+p188
+I1
+sVfresh
+p189
+I1
+sVhello
+p190
+I1
+s.

@@ -1,8 +1,68 @@
-"outta bounds" lyrics
-e-40 lyrics
-"outta bounds"
-mmmmhmmm this bitch act like she  gonna do something
-i about to get me some of this cuerve man
-finna go up to this bitch man got my motherfuckin helmet man
-i'm finna get me some pussy! i'm gonna get some pussy!
-yessuh!
+(dp1
+Voutta
+p2
+I2
+sVlyrics
+p3
+I2
+sVpussy
+p4
+I2
+sVim
+p5
+I2
+sVsomething
+p6
+I1
+sVgo
+p7
+I1
+sVfinna
+p8
+I2
+sVhelmet
+p9
+I1
+sVgon
+p10
+I2
+sVna
+p11
+I2
+sVmotherfuckin
+p12
+I1
+sVgot
+p13
+I1
+sVget
+p14
+I3
+sVcuerve
+p15
+I1
+sVman
+p16
+I3
+sVe40
+p17
+I1
+sVlike
+p18
+I1
+sVbounds
+p19
+I2
+sVact
+p20
+I1
+sVyessuh
+p21
+I1
+sVmmmmhmmm
+p22
+I1
+sVbitch
+p23
+I2
+s.

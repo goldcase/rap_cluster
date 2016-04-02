@@ -1,107 +1,833 @@
-"hurt locker" lyrics
-eminem lyrics
-"hurt locker"
-(with linkin park)
-like an army, falling
-one by one by one
-i'm supposed to be the soldier who never blows his composure
-even though i hold the weight of the whole world on my shoulders
-i ain't never supposed to show it, my crew ain't supposed to know it
-even if it means goin' toe to toe with a benzino it don't matter
-i'd never drag them in battles that i can handle unless i absolutely have to
-i'm supposed to set an example
-i need to be the leader, my crew looks for me to guide 'em
-if some shit ever does pop off, i'm supposed to be beside 'em
-that ja shit i tried to squash it, it was too late to stop it
-there's a certain line you just don't cross and he crossed it
-i heard him say hailie's name on a song and i just lost it
-it was crazy, this shit went way beyond some jay-z and nas shit
-and even though the battle was won, i feel like we lost it
-i spent too much energy on it, honestly i'm exhausted
-and i'm so caught in it i almost feel i'm the one who caused it
-this ain't what i'm in hip-hop for, it's not why i got in it
-that was never my object for someone to get killed
-why would i wanna destroy something i help build
-it wasn't my intentions, my intentions were good
-i went through my whole career without ever mentionin'
-and that was just out of respect for not runnin' my mouth
-and talkin' about something that i knew nothing about
-plus dre told me stay out, this just wasn't my beef
-so i did, i just fell back, watched and gritted my teeth
-while he's all over t.v. down talkin' a man who literally saved my life
-like fuck it i understand this is business
-and this shit just isn't none of my business
-but still knowin' this shit could pop off at any minute cause
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-there used to be a time when you could just say a rhyme
-and wouldn't have to worry about one of your people dyin'
-but now it's elevated cause once you put someone's kids in it
-the shit gets escalated, it ain't just words no more is it?
-it's a different ball game, callin' names and you ain't just rappin'
-we actually tried to stop the 50 and ja beef from happenin'
-me and dre had sat with him, kicked it and had a chat with him
-and asked him not to start it he wasn't gonna go after him
-until ja started yappin' in magazines how we stabbed him
-fuck it 50 smash 'em, mash 'em and let him have it
-meanwhile my attention is pullin' in other directions
-some receptionist at the source who answers phones at his desk
-has an erection for me and thinks that i'll be his resurrection
-tries to blow the dust off his mic and make a new record
-but now he's fucked the game up cause one of the ways i came up
-was through that publication the same one that made me famous
-now the owner of it has got a grudge against me for nothin'
-well fuck it, that motherfucker can get it too, fuck him then
-but i'm so busy being pissed off i don't stop to think
-that we just inherited 50's beef with murder inc.
-and he's inherited mine which is fine ain't like either of us mind
-we still have soldiers that's on the front line
-that's willing to die for us as soon as we give the orders
-never to extort us, strictly to show they support us
-we'll maybe shout 'em out in a rap or up in a chorus
-to show them we love 'em back and let 'em know how important it is
-to have runyan avenue, soldiers up in our corners
-their loyalty to us is worth more than any award is
-but i ain't tryna have none of my people hurt and murdered
-it ain't worth it, i can't think of a perfecter way to word it
-then to just say that i love ya'll too much to see the verdict
-i'll walk away from it all before i let it go any further
-but don't get it twisted, it's not a plea that i'm coppin'
-i'm just willin' to be the bigger man
-if ya'll can quit poppin' off at the jaws, well then i can
-cause frankly i'm sick of talkin'
-i'm not gonna let someone else's coffin rest on my conscience cause
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-now in my remains
-are promises that never came
-set the silence free
-to wash away the worst of me
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
-like an army, falling
-one by one by one
+(dp1
+Vthink
+p2
+I2
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I3
+sVcaused
+p6
+I1
+sVsoon
+p7
+I1
+sVrest
+p8
+I1
+sVfront
+p9
+I1
+sVisnt
+p10
+I1
+sVlooks
+p11
+I1
+sV50s
+p12
+I1
+sVbattle
+p13
+I1
+sVsoldiers
+p14
+I2
+sVstill
+p15
+I2
+sVsaved
+p16
+I1
+sVaint
+p17
+I8
+sVbusy
+p18
+I1
+sVtv
+p19
+I1
+sVpoppin
+p20
+I1
+sVwash
+p21
+I1
+sVcrew
+p22
+I2
+sVlate
+p23
+I1
+sVto
+p24
+I1
+sVshout
+p25
+I1
+sVwilling
+p26
+I1
+sVbigger
+p27
+I1
+sVkicked
+p28
+I1
+sVworth
+p29
+I2
+sVthen
+p30
+I1
+sVsomeone
+p31
+I2
+sVhandle
+p32
+I1
+sVsick
+p33
+I1
+sVmeans
+p34
+I1
+sVstop
+p35
+I3
+sVfamous
+p36
+I1
+sVgame
+p37
+I2
+sVmade
+p38
+I1
+sVworst
+p39
+I1
+sVknow
+p40
+I2
+sVwords
+p41
+I1
+sVdesk
+p42
+I1
+sVreceptionist
+p43
+I1
+sVworld
+p44
+I1
+sVstabbed
+p45
+I1
+sVwalk
+p46
+I1
+sVkilled
+p47
+I1
+sVminute
+p48
+I1
+sVlike
+p49
+I20
+sVsmash
+p50
+I1
+sVerection
+p51
+I1
+sVname
+p52
+I1
+sVlost
+p53
+I2
+sVhappenin
+p54
+I1
+sVcause
+p55
+I5
+sVtwisted
+p56
+I1
+sVstrictly
+p57
+I1
+sV50
+p58
+I2
+sVchorus
+p59
+I1
+sVverdict
+p60
+I1
+sVsource
+p61
+I1
+sVdie
+p62
+I1
+sVwell
+p63
+I3
+sVwent
+p64
+I2
+sVyall
+p65
+I2
+sVem
+p66
+I7
+sVset
+p67
+I2
+sVmine
+p68
+I1
+sVweight
+p69
+I1
+sVpeople
+p70
+I2
+sVabsolutely
+p71
+I1
+sVphones
+p72
+I1
+sVenergy
+p73
+I1
+sVperfecter
+p74
+I1
+sVback
+p75
+I2
+sVhim
+p76
+I3
+sVup
+p77
+I1
+sVgo
+p78
+I2
+sVsee
+p79
+I1
+sVball
+p80
+I1
+sVcant
+p81
+I1
+sVill
+p82
+I2
+sVcoffin
+p83
+I1
+sVbeyond
+p84
+I1
+sVthinks
+p85
+I1
+sVeven
+p86
+I3
+sVgon
+p87
+I2
+sVavenue
+p88
+I1
+sVrecord
+p89
+I1
+sVways
+p90
+I1
+sVliterally
+p91
+I1
+sVaway
+p92
+I2
+sVrunyan
+p93
+I1
+sVwon
+p94
+I1
+sVwillin
+p95
+I1
+sVgot
+p96
+I2
+sVfalling
+p97
+I17
+sVever
+p98
+I2
+sVleader
+p99
+I1
+sVtold
+p100
+I1
+sVblow
+p101
+I1
+sVknew
+p102
+I1
+sVbusiness
+p103
+I2
+sVquit
+p104
+I1
+sVgritted
+p105
+I1
+sVword
+p106
+I1
+sVnever
+p107
+I6
+sVmotherfucker
+p108
+I1
+sVbenzino
+p109
+I1
+sVeminem
+p110
+I1
+sVmurdered
+p111
+I1
+sVlet
+p112
+I4
+sVanswers
+p113
+I1
+sVplea
+p114
+I1
+sVelses
+p115
+I1
+sVfuck
+p116
+I4
+sVresurrection
+p117
+I1
+sVdirections
+p118
+I1
+sVja
+p119
+I3
+sVpissed
+p120
+I1
+sVabout
+p121
+I1
+sVkids
+p122
+I1
+sVwould
+p123
+I1
+sVknowin
+p124
+I1
+sVwasnt
+p125
+I3
+sVcareer
+p126
+I1
+sVcoppin
+p127
+I1
+sVcould
+p128
+I2
+sVhes
+p129
+I3
+sVdrag
+p130
+I1
+sVexample
+p131
+I1
+sVsoldier
+p132
+I1
+sVimportant
+p133
+I1
+sVplus
+p134
+I1
+sVpullin
+p135
+I1
+sVwhole
+p136
+I2
+sVasked
+p137
+I1
+sVsilence
+p138
+I1
+sVthats
+p139
+I2
+sVgrudge
+p140
+I1
+sVlove
+p141
+I2
+sVdont
+p142
+I4
+sVcan
+p143
+I1
+sVfeel
+p144
+I2
+sVpromises
+p145
+I1
+sVpop
+p146
+I2
+sVone
+p147
+I55
+sVput
+p148
+I1
+sVjayz
+p149
+I1
+sVmagazines
+p150
+I1
+sVnames
+p151
+I1
+sVelevated
+p152
+I1
+sVowner
+p153
+I1
+sVrespect
+p154
+I1
+sVblows
+p155
+I1
+sVactually
+p156
+I1
+sVfine
+p157
+I1
+sVwan
+p158
+I1
+sVpublication
+p159
+I1
+sVcomposure
+p160
+I1
+sVarmy
+p161
+I17
+sVremains
+p162
+I1
+sVcaught
+p163
+I1
+sVsupport
+p164
+I1
+sVescalated
+p165
+I1
+sValmost
+p166
+I1
+sVmuch
+p167
+I2
+sVway
+p168
+I2
+sVtime
+p169
+I1
+sVman
+p170
+I2
+sVstart
+p171
+I1
+sVtoe
+p172
+I2
+sVfree
+p173
+I1
+sVtryna
+p174
+I1
+sVshoulders
+p175
+I1
+sVmurder
+p176
+I1
+sVstarted
+p177
+I1
+sVinherited
+p178
+I2
+sVpark
+p179
+I1
+sVsquash
+p180
+I1
+sVnew
+p181
+I1
+sVhurt
+p182
+I3
+sVunderstand
+p183
+I1
+sVline
+p184
+I2
+sVhold
+p185
+I1
+sVtries
+p186
+I1
+sVrunnin
+p187
+I1
+sVnone
+p188
+I2
+sVlinkin
+p189
+I1
+sVrappin
+p190
+I1
+sVwouldnt
+p191
+I1
+sVfrankly
+p192
+I1
+sVdyin
+p193
+I1
+sVus
+p194
+I5
+sVyappin
+p195
+I1
+sVmatter
+p196
+I1
+sVlocker
+p197
+I2
+sVcrossed
+p198
+I1
+sVsupposed
+p199
+I5
+sVattention
+p200
+I1
+sVmaybe
+p201
+I1
+sVguide
+p202
+I1
+sVtheres
+p203
+I1
+sVcrazy
+p204
+I1
+sVrap
+p205
+I1
+sVgive
+p206
+I1
+sVexhausted
+p207
+I1
+sVcertain
+p208
+I1
+sVis
+p209
+I2
+sVmind
+p210
+I1
+sVit
+p211
+I11
+sVheard
+p212
+I1
+sVsay
+p213
+I3
+sVgood
+p214
+I1
+sVim
+p215
+I12
+sVsomething
+p216
+I2
+sVchat
+p217
+I1
+sVfurther
+p218
+I1
+sVneed
+p219
+I1
+sVwatched
+p220
+I1
+sVid
+p221
+I1
+sVshit
+p222
+I7
+sVsat
+p223
+I1
+sVdifferent
+p224
+I1
+sVbeef
+p225
+I3
+sVinc
+p226
+I1
+sVcorners
+p227
+I1
+sVjaws
+p228
+I1
+sVna
+p229
+I3
+sVmic
+p230
+I1
+sVsong
+p231
+I1
+sVcross
+p232
+I1
+sVbattles
+p233
+I1
+sVorders
+p234
+I1
+sVbeside
+p235
+I1
+sVnas
+p236
+I1
+sVhailies
+p237
+I1
+sVbuild
+p238
+I1
+sVget
+p239
+I3
+sVsomeones
+p240
+I1
+sVdestroy
+p241
+I1
+sVgets
+p242
+I1
+sVtalkin
+p243
+I3
+sVeither
+p244
+I1
+sVconscience
+p245
+I1
+sVused
+p246
+I1
+sVunless
+p247
+I1
+sVtried
+p248
+I2
+sVthough
+p249
+I2
+sVrhyme
+p250
+I1
+sVobject
+p251
+I1
+sVfucked
+p252
+I1
+sVloyalty
+p253
+I1
+sVme
+p254
+I1
+sVstay
+p255
+I1
+sVintentions
+p256
+I2
+sVhiphop
+p257
+I1
+sVfell
+p258
+I1
+sVmouth
+p259
+I1
+sVaward
+p260
+I1
+sVnothing
+p261
+I1
+sVgoin
+p262
+I1
+sVextort
+p263
+I1
+sVcallin
+p264
+I1
+sVmentionin
+p265
+I1
+sVdre
+p266
+I2
+sVlife
+p267
+I1
+sVspent
+p268
+I1
+sVnothin
+p269
+I1
+sVmash
+p270
+I1
+sVwithout
+p271
+I1
+sVhonestly
+p272
+I1
+sVworry
+p273
+I1
+sVteeth
+p274
+I1
+sVmeanwhile
+p275
+I1
+sVdust
+p276
+I1
+sVmake
+p277
+I1
+sVcame
+p278
+I2
+s.

@@ -1,65 +1,503 @@
-"been around tha world" lyrics
-snoop dogg lyrics
-"been around tha world"
-yeah, this record's for my baby, my baby boo
-i know i'm always on the road, i'm always gone
-and you say i'll never make records for you no more
-well this record is from me to you baby
-yeah, real talk
-been around tha world
-i've been into many places seen some unfamiliar faces
-but baby none of them compares to you
-soon as i get home i'm racing to unplug my phone
-i seen everything twice
-been around tha world, i've seen every scene twice
-stopping down in tokyo, dipping in the rice
-i'm a boss at the wind, i cracked every colored dice
-i do it big, fuck the rumors
-rich and infamous with the blue and gray pumas
-gangstas don't die, they just move to miami
-i did all that, i was voted ...
-i'm sorta like sammy
-smoother than marvin, i need me a tammy
-sipping chardinae, making deals on my hands free
-fatherhood, now the actors can't stand me
-'cause i own rap and i'm coming for your day job
-until then i'm chilling at the day spa
-relax my mind and just chill
-'cause without you none of this is real
-baby you know i
-been around tha world
-i've been into many places, seen some unfamiliar faces
-but baby none of them compares to you
-soon as i get home i'm racing to unplug my phone
-yeah, but now i'm back across the water
-i'm in sydney with somebody's daughter
-blowing sticky by the zips and they can tell
-by my rag hanging, fuck this is crip, but i'm chilling
-it feels so good to get away
-especially when your name is d o double gizzee
-coast to coast jetting, man i been doing that
-what's up, just start balling ... i been around the track
-hop in peas with the bosses
-300 for the yacht, the third deck got a office
-docking down in monaco, churching with my folks
-bad luck had me dying when i fell up out that boat
-my life is like a movie
-but the bad guy don't die at the end, so sue me
-then i relax and chill
-'cause without you none of this is real
-baby you know i
-been around tha world
-i've been into many places, seen some unfamiliar faces
-but baby none of them compares to you
-soon as i get home i'm racing to unplug my phone
-been around tha world
-i've been into many places, seen some unfamiliar faces
-but baby none of them compares to you
-soon as i get home i'm racing to unplug my phone
-just for you baby
-yeah, i'm on my way home right now
-i'm on my way right now
-i'm leaving the studio right now
-yeah, soon as i get home tomorrow i'ma go unplug it
-matter of fact i ain't even gonna bring it in the house
-see you in a minute
+(dp1
+Vlyrics
+p2
+I2
+sVdeck
+p3
+I1
+sVmove
+p4
+I1
+sVsoon
+p5
+I5
+sVbring
+p6
+I1
+sVfact
+p7
+I1
+sVhanging
+p8
+I1
+sVgo
+p9
+I1
+sVima
+p10
+I1
+sVdice
+p11
+I1
+sVgot
+p12
+I1
+sVvoted
+p13
+I1
+sVrich
+p14
+I1
+sVfolks
+p15
+I1
+sVactors
+p16
+I1
+sVrice
+p17
+I1
+sVreal
+p18
+I3
+sVgood
+p19
+I1
+sVaround
+p20
+I8
+sVget
+p21
+I6
+sVbig
+p22
+I1
+sVend
+p23
+I1
+sVunfamiliar
+p24
+I4
+sVsipping
+p25
+I1
+sVrecords
+p26
+I2
+sVfeels
+p27
+I1
+sVevery
+p28
+I2
+sVknow
+p29
+I3
+sVhands
+p30
+I1
+sVworld
+p31
+I7
+sVnow
+p32
+I3
+sVday
+p33
+I2
+sVminute
+p34
+I1
+sVname
+p35
+I1
+sVgray
+p36
+I1
+sVlike
+p37
+I2
+sVmiami
+p38
+I1
+sVdie
+p39
+I2
+sVdipping
+p40
+I1
+sVdeals
+p41
+I1
+sVtwice
+p42
+I2
+sVbad
+p43
+I2
+sValways
+p44
+I2
+sVguy
+p45
+I1
+sVchardinae
+p46
+I1
+sVluck
+p47
+I1
+sVright
+p48
+I3
+sVhouse
+p49
+I1
+sVyeah
+p50
+I5
+sVchurching
+p51
+I1
+sVd
+I1
+sVsee
+p52
+I1
+sVhome
+p53
+I6
+sVblue
+p54
+I1
+sVsue
+p55
+I1
+sVgon
+p56
+I1
+sVmatter
+p57
+I1
+sVsorta
+p58
+I1
+sVmovie
+p59
+I1
+sVaway
+p60
+I1
+sVeverything
+p61
+I1
+sVjetting
+p62
+I1
+sVit
+p63
+I1
+sVbosses
+p64
+I1
+sVracing
+p65
+I4
+sVacross
+p66
+I1
+sVaint
+p67
+I1
+sVblowing
+p68
+I1
+sV300
+p69
+I1
+sVmarvin
+p70
+I1
+sVnever
+p71
+I1
+sVfree
+p72
+I1
+sVboss
+p73
+I1
+sVwater
+p74
+I1
+sVjob
+p75
+I1
+sVstudio
+p76
+I1
+sVzips
+p77
+I1
+sVdaughter
+p78
+I1
+sVcolored
+p79
+I1
+sVmany
+p80
+I4
+sVill
+p81
+I1
+sVo
+I1
+sVleaving
+p82
+I1
+sVstand
+p83
+I1
+sVfaces
+p84
+I4
+sVtha
+p85
+I7
+sVroad
+p86
+I1
+sVwhats
+p87
+I1
+sVdont
+p88
+I2
+sVive
+p89
+I5
+sVscene
+p90
+I1
+sVsammy
+p91
+I1
+sVcrip
+p92
+I1
+sVtomorrow
+p93
+I1
+sVboat
+p94
+I1
+sVsnoop
+p95
+I1
+sVdogg
+p96
+I1
+sVsmoother
+p97
+I1
+sVstart
+p98
+I1
+sVway
+p99
+I2
+sVtell
+p100
+I1
+sVmore
+p101
+I1
+sVback
+p102
+I1
+sVlife
+p103
+I1
+sVsydney
+p104
+I1
+sVrelax
+p105
+I2
+sVmind
+p106
+I1
+sVunplug
+p107
+I5
+sVphone
+p108
+I4
+sVbaby
+p109
+I10
+sVchill
+p110
+I2
+sVme
+p111
+I2
+sVnone
+p112
+I6
+sVplaces
+p113
+I4
+sVtokyo
+p114
+I1
+sVdouble
+p115
+I1
+sVcant
+p116
+I1
+sVrecord
+p117
+I1
+sVstopping
+p118
+I1
+sVmaking
+p119
+I1
+sVcracked
+p120
+I1
+sVchilling
+p121
+I2
+sVgone
+p122
+I1
+sVfatherhood
+p123
+I1
+sVyacht
+p124
+I1
+sVgangstas
+p125
+I1
+sVfuck
+p126
+I2
+sVsticky
+p127
+I1
+sVsay
+p128
+I1
+sVim
+p129
+I16
+sVrap
+p130
+I1
+sVspa
+p131
+I1
+sVneed
+p132
+I1
+sVseen
+p133
+I6
+sVsomebodys
+p134
+I1
+sVrumors
+p135
+I1
+sVdying
+p136
+I1
+sVna
+p137
+I1
+sVmake
+p138
+I1
+sVthat
+p139
+I1
+sVballing
+p140
+I1
+sVcompares
+p141
+I4
+sVhop
+p142
+I1
+sVrag
+p143
+I1
+sVyou
+p144
+I4
+sVgizzee
+p145
+I1
+sVeven
+p146
+I1
+sVpumas
+p147
+I1
+sVtrack
+p148
+I1
+sVoffice
+p149
+I1
+sVboo
+p150
+I1
+sVpeas
+p151
+I1
+sVfell
+p152
+I1
+sVcoming
+p153
+I1
+sVdocking
+p154
+I1
+sVcoast
+p155
+I2
+sVinfamous
+p156
+I1
+sVman
+p157
+I1
+sVcause
+p158
+I3
+sVespecially
+p159
+I1
+sVthird
+p160
+I1
+sVi
+I2
+sVwell
+p161
+I1
+sVwithout
+p162
+I2
+sVwind
+p163
+I1
+sVmonaco
+p164
+I1
+sVtalk
+p165
+I1
+sVtammy
+p166
+I1
+s.

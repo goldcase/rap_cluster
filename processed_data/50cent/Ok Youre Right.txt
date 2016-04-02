@@ -1,43 +1,395 @@
-"ok, you're right" lyrics
-50 cent lyrics
-"ok, you're right"
-okay okay okay
-okay okay okay
-okay okay okay
-okay okay okay
-when they talk about me they say i be trippin (yeah)
-what they say about me doesn't make me mad (naw, naw)
-i think they hatin cause they see me when i'm rollin (yeah)
-man i can't help it that they really doin bad (naw, naw)
-okay, alright (they sick)
-okay, you're right (i'm rich)
-okay, alright (i grind)
-okay, you're right (for mine)
-i'm in that 760 leanin when i'm stuntin
-i blow 50 g's, i mean with ease like this is nothin
-please don't interrupt me when i'm talkin to my jeweler
-he's puttin them diamonds all over my franck muller
-me i get busy, i put that work in if it's worth it
-come through hit you up, i'll make a crime scene perfect
-niggaz talk about me all the time behind my back
-they don't talk about me in my face because i'm strapped
-see me in the club, i got that henny and that 'gnac
-a couple cups of that and i just don't know how to act
-by the second bottle that's when i just get to buzzin
-i say i run new york and ain't nobody sayin nothin (okay okay okay)
-i blew a hundred g's on my bitches in miami
-they think i'm the sweetest thing invented since candy
-me i catch amnesia when you ask me 'bout the shotty
-i don't even know my name, switchin lanes in my bugatti
-nigga i ain't crazy, bitches like me cause i'm paid
-they want me, lebron, kobe or dwyane wade
-when i say i'm ballin i'm not talkin 'bout a ball
-i'm talkin 'bout tiffany & co. stones out the mall
-niggaz they can hate all they want but they know they like this
-me i'm like that paintin on the wall, baby i'm priceless
-you could come and work me over baby on the night shift
-catch me on the night shift, see how freaky i get (okay okay okay)
-okay okay okay okay - sho' you right
-okay okay okay okay - you know you right
-okay, alright, okay, alright
-okay, alright, okay, you're right
+(dp1
+Vstones
+p2
+I1
+sVgs
+p3
+I2
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sV760
+p6
+I1
+sVdwyane
+p7
+I1
+sVbaby
+p8
+I2
+sVhate
+p9
+I1
+sVblow
+p10
+I1
+sVbusy
+p11
+I1
+sVsayin
+p12
+I1
+sVease
+p13
+I1
+sVsweetest
+p14
+I1
+sVjeweler
+p15
+I1
+sVrich
+p16
+I1
+sVgnac
+p17
+I1
+sVbout
+p18
+I3
+sVworth
+p19
+I1
+sVhit
+p20
+I1
+sVget
+p21
+I3
+sVcouple
+p22
+I1
+sVknow
+p23
+I4
+sVgot
+p24
+I1
+sVinterrupt
+p25
+I1
+sVname
+p26
+I1
+sVtrippin
+p27
+I1
+sVlike
+p28
+I4
+sVmiami
+p29
+I1
+sVfreaky
+p30
+I1
+sV50
+p31
+I2
+sVcandy
+p32
+I1
+sVbad
+p33
+I1
+sVpaintin
+p34
+I1
+sVnight
+p35
+I2
+sVmean
+p36
+I1
+sVblew
+p37
+I1
+sVright
+p38
+I7
+sVtiffany
+p39
+I1
+sVyeah
+p40
+I2
+sVsee
+p41
+I3
+sVball
+p42
+I1
+sVperfect
+p43
+I1
+sVleanin
+p44
+I1
+sVreally
+p45
+I1
+sVeven
+p46
+I1
+sVmine
+p47
+I1
+sVballin
+p48
+I1
+sVsince
+p49
+I1
+sVplease
+p50
+I1
+sVbehind
+p51
+I1
+sVdiamonds
+p52
+I1
+sVnew
+p53
+I1
+sVcause
+p54
+I2
+sVaint
+p55
+I2
+sVrun
+p56
+I1
+sVfranck
+p57
+I1
+sVshotty
+p58
+I1
+sVyork
+p59
+I1
+sVput
+p60
+I1
+sVinvented
+p61
+I1
+sVcome
+p62
+I2
+sVmuller
+p63
+I1
+sVstuntin
+p64
+I1
+sVbugatti
+p65
+I1
+sVok
+p66
+I2
+sVcrime
+p67
+I1
+sVill
+p68
+I1
+sVthing
+p69
+I1
+sVact
+p70
+I1
+sVpriceless
+p71
+I1
+sVsho
+p72
+I1
+sVthink
+p73
+I2
+sVthats
+p74
+I1
+sVco
+p75
+I1
+sVdont
+p76
+I4
+sVwall
+p77
+I1
+sVscene
+p78
+I1
+sVask
+p79
+I1
+sVdoesnt
+p80
+I1
+sVkobe
+p81
+I1
+sVcups
+p82
+I1
+sVlebron
+p83
+I1
+sVstrapped
+p84
+I1
+sVsecond
+p85
+I1
+sVhes
+p86
+I1
+sVcent
+p87
+I1
+sVamnesia
+p88
+I1
+sVswitchin
+p89
+I1
+sVhundred
+p90
+I1
+sVlanes
+p91
+I1
+sVclub
+p92
+I1
+sVnobody
+p93
+I1
+sVback
+p94
+I1
+sVnigga
+p95
+I1
+sVhatin
+p96
+I1
+sVcatch
+p97
+I2
+sVthis
+p98
+I1
+sVwork
+p99
+I2
+sVwade
+p100
+I1
+sVcant
+p101
+I1
+sVniggaz
+p102
+I2
+sVmall
+p103
+I1
+sVshift
+p104
+I2
+sVcould
+p105
+I1
+sVcrazy
+p106
+I1
+sVit
+p107
+I1
+sVsay
+p108
+I4
+sVim
+p109
+I13
+sVrollin
+p110
+I1
+sVwant
+p111
+I2
+sVgrind
+p112
+I1
+sVmake
+p113
+I2
+sVhenny
+p114
+I1
+sVnaw
+p115
+I4
+sVsick
+p116
+I1
+sVbuzzin
+p117
+I1
+sVputtin
+p118
+I1
+sVtalkin
+p119
+I3
+sVbitches
+p120
+I2
+sVokay
+p121
+I34
+sVdoin
+p122
+I1
+sVpaid
+p123
+I1
+sVmad
+p124
+I1
+sVman
+p125
+I1
+sVyoure
+p126
+I5
+sVnothin
+p127
+I2
+sVface
+p128
+I1
+sVbottle
+p129
+I1
+sVtime
+p130
+I1
+sValright
+p131
+I5
+sVtalk
+p132
+I3
+s.

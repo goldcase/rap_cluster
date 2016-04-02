@@ -1,65 +1,596 @@
-"diary of a madman" lyrics
-scarface lyrics
-"diary of a madman"
-yo anybody seen my diary? oh there it is.
-i gotta write this shit down. check it out.
-dear diary, i'm having a little problem
-i cant make it by myself maybe you can help me solve em
-i'm confused and i dont know what to do
-i'm hoping you can help me cause there's no one else to talk to
-i want to die, but it ain't for me
-i try to talk to my dad, but my old man ignores me
-he says i'm delirious
-and i drink too much, so he doesnt take me serious
-but little does he know i'm really losing it
-i got a head, but aint no screws in it
-i be thinking deep
-thats one of the reasons at night i cant sleep
-i thought it would change when i was older
-but even now i'm still peeping over my shoulder
-theres your life after death too
-and what about the man with the cane and the black suit?
-and what about cancer?
-too many motherfucking questions, and not enough answers
-aint no use in trying
-we might as all face it we were all born dying
-theres a black book in brad's hands
-and its the diary of a madman
-dear diary today i hit a nigga with a torch
-shot him on his face and watched him die on his front porch
-left his family heartbroken
-flashbacks of him laying there bleeding with his eyes open
-i cant put the shit behind me
-i'm know i'm here somewhere, but i cant find me
-i used to be a drug dealer
-on the for reala, now i'm a born killer
-and it aint no changing me
-it used to be hard, but now it aint no thing to me
-to go up to a niggas house
-put a pistol in his mouth, and blow his fucking brains out
-no doubt if you cross then i'ma take ya
-cause i'm a fucking killer by nature
-you got an m11, bring your weapon
-huh, i got an ak-47
-it's gonna be a bloody sunday
-cause your fucking with a nigga like bundy
-and i was taught not to kill
-like a vietnam vet with a thousand yard stare
-so welcome to the slaughterhouse nigga
-redrum and i'ma be the grave digger
-and if you want to cap, come cap me
-i'm trigger happy like my great-grandpappy
-just watch for the chrome in my right hand
-my second entry from the diary of a madman
-dear diary, help me cause i'm frantic
-s-sometimes i think i'm going schizophrantic
-the world's looking dark for instance
-maybe cause i'm looking from a distance
-but then again i wear a blindfold
-staring at the motherfucking world with my eyes closed
-to myself i'm a stranger
-walking in the foot steps of danger
-it's a long path ahead of me
-i gotta get somewhere cause everybody here is scared of me
-i had a job but they fired me
-my wife walked out now i'm living in my diary
+(dp1
+Vwalking
+p2
+I1
+sVshot
+p3
+I1
+sVhelp
+p4
+I3
+sVlyrics
+p5
+I2
+sVeverybody
+p6
+I1
+sVbring
+p7
+I1
+sVsleep
+p8
+I1
+sVquestions
+p9
+I1
+sVgo
+p10
+I1
+sVstill
+p11
+I1
+sVeyes
+p12
+I2
+sVfind
+p13
+I1
+sVaint
+p14
+I5
+sVvet
+p15
+I1
+sVdeath
+p16
+I1
+sVfamily
+p17
+I1
+sVthinking
+p18
+I1
+sVtrigger
+p19
+I1
+sVmadman
+p20
+I4
+sVbehind
+p21
+I1
+sVto
+p22
+I1
+sVgoing
+p23
+I1
+sVblack
+p24
+I2
+sVmight
+p25
+I1
+sVta
+p26
+I2
+sVdad
+p27
+I1
+sVdo
+p28
+I1
+sVhit
+p29
+I1
+sVssometimes
+p30
+I1
+sVyo
+p31
+I1
+sVdelirious
+p32
+I1
+sVya
+p33
+I1
+sVkiller
+p34
+I2
+sVwatch
+p35
+I1
+sVdark
+p36
+I1
+sVdiary
+p37
+I9
+sVknow
+p38
+I3
+sVhands
+p39
+I1
+sVfront
+p40
+I1
+sVworld
+p41
+I1
+sVbloody
+p42
+I1
+sVshoulder
+p43
+I1
+sVworlds
+p44
+I1
+sVlike
+p45
+I3
+sVstranger
+p46
+I1
+sVdie
+p47
+I2
+sVlaying
+p48
+I1
+sVtry
+p49
+I1
+sVsteps
+p50
+I1
+sVnight
+p51
+I1
+sVkill
+p52
+I1
+sVem
+p53
+I1
+sVnigga
+p54
+I3
+sVold
+p55
+I1
+sVfired
+p56
+I1
+sVbleeding
+p57
+I1
+sVhouse
+p58
+I1
+sVscared
+p59
+I1
+sVtorch
+p60
+I1
+sVborn
+p61
+I2
+sVsecond
+p62
+I1
+sVtaught
+p63
+I1
+sVgreatgrandpappy
+p64
+I1
+sVignores
+p65
+I1
+sVwife
+p66
+I1
+sVdear
+p67
+I3
+sVflashbacks
+p68
+I1
+sVout
+p69
+I2
+sVeven
+p70
+I1
+sVliving
+p71
+I1
+sVgon
+p72
+I1
+sVlooking
+p73
+I2
+sVenough
+p74
+I1
+sVclosed
+p75
+I1
+sVgot
+p76
+I5
+sVpistol
+p77
+I1
+sVcause
+p78
+I6
+sVblow
+p79
+I1
+sVwelcome
+p80
+I1
+sVright
+p81
+I1
+sVnature
+p82
+I1
+sVdoubt
+p83
+I1
+sVuse
+p84
+I1
+sVanswers
+p85
+I1
+sVjob
+p86
+I1
+sVwear
+p87
+I1
+sVima
+p88
+I2
+sVlosing
+p89
+I1
+sVpath
+p90
+I1
+sVcome
+p91
+I1
+sVchange
+p92
+I1
+sVstaring
+p93
+I1
+sVyard
+p94
+I1
+sVahead
+p95
+I1
+sVoh
+p96
+I1
+sVmany
+p97
+I1
+sVdrug
+p98
+I1
+sVsomewhere
+p99
+I2
+sVheartbroken
+p100
+I1
+sVhead
+p101
+I1
+sVthink
+p102
+I1
+sVthats
+p103
+I1
+sVmotherfucking
+p104
+I2
+sVdont
+p105
+I1
+sVcancer
+p106
+I1
+sVdanger
+p107
+I1
+sVreasons
+p108
+I1
+sVfrantic
+p109
+I1
+sVone
+p110
+I2
+sVm11
+p111
+I1
+sVput
+p112
+I2
+sVdoesnt
+p113
+I1
+sVsays
+p114
+I1
+sVopen
+p115
+I1
+sVstare
+p116
+I1
+sVlittle
+p117
+I2
+sVwould
+p118
+I1
+sVchrome
+p119
+I1
+sVlong
+p120
+I1
+sVfucking
+p121
+I3
+sVmuch
+p122
+I1
+sVwatched
+p123
+I1
+sVtoo
+p124
+I1
+sVsuit
+p125
+I1
+sVtoday
+p126
+I1
+sVhappy
+p127
+I1
+sVlife
+p128
+I1
+sVhard
+p129
+I1
+sVpeeping
+p130
+I1
+sVporch
+p131
+I1
+sVbrains
+p132
+I1
+sVthousand
+p133
+I1
+sVak47
+p134
+I1
+sVhuh
+p135
+I1
+sVit
+p136
+I2
+sVtrying
+p137
+I1
+sVdigger
+p138
+I1
+sVblindfold
+p139
+I1
+sVbundy
+p140
+I1
+sVme
+p141
+I9
+sVdistance
+p142
+I1
+sVniggas
+p143
+I1
+sVcap
+p144
+I2
+sVscarface
+p145
+I1
+sVproblem
+p146
+I1
+sVtheres
+p147
+I3
+sVcane
+p148
+I1
+sVhoping
+p149
+I1
+sVis
+p150
+I1
+sVconfused
+p151
+I1
+sVdeep
+p152
+I1
+sVcant
+p153
+I4
+sVim
+p154
+I16
+sVwant
+p155
+I2
+sVseen
+p156
+I1
+sVscrews
+p157
+I1
+sVbrads
+p158
+I1
+sVcheck
+p159
+I1
+sVshit
+p160
+I2
+sVredrum
+p161
+I1
+sVdying
+p162
+I1
+sVthing
+p163
+I1
+sVreala
+p164
+I1
+sVna
+p165
+I1
+sVmake
+p166
+I1
+sVget
+p167
+I1
+sVcross
+p168
+I1
+sVdealer
+p169
+I1
+sVwrite
+p170
+I1
+sVinstance
+p171
+I1
+sVsunday
+p172
+I1
+sVbook
+p173
+I1
+sVtake
+p174
+I2
+sVreally
+p175
+I1
+sVused
+p176
+I2
+sVdrink
+p177
+I1
+sVhand
+p178
+I1
+sVmouth
+p179
+I1
+sVentry
+p180
+I1
+sVchanging
+p181
+I1
+sVelse
+p182
+I1
+sVschizophrantic
+p183
+I1
+sVgrave
+p184
+I1
+sVman
+p185
+I2
+sVolder
+p186
+I1
+sVfoot
+p187
+I1
+sVmaybe
+p188
+I2
+sVweapon
+p189
+I1
+sVslaughterhouse
+p190
+I1
+sVanybody
+p191
+I1
+sVwalked
+p192
+I1
+sVface
+p193
+I2
+sVthought
+p194
+I1
+sVvietnam
+p195
+I1
+sVsolve
+p196
+I1
+sVserious
+p197
+I1
+sVtalk
+p198
+I2
+sVleft
+p199
+I1
+s.

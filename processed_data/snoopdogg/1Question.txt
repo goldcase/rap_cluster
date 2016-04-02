@@ -1,41 +1,203 @@
-"1question?" lyrics
-snoop dogg lyrics
-"1question?"
-(feat. steve arrington)
-hear me knockin, i’ll be knockin on your door
-hear me knockin, i’ll be knockin on your door
-i just got one question to ask, do you love me? (do you love me?)
-i just got one question to ask, do you love me? love me
-you said you do but i’m not sure if you love me, love me
-i just got to know right now do you really love me? do you really love me?
-i just got one question to ask, do you love me? (do you love me?)
-insecurity, be askin heavy questions, heavy questions
-don’t know why i feel this deep expression, expression
-it’s so heavy heavy on my face and my mind
-i keep letting it spoil my grind
-just got to go, it’s that time
-i just got one question to ask, do you love me? (do you love me?)
-l-o-v-e
-do-you-love-me?
-l-o-v-e
-do-you-love-me?
-i just wanna know, do you really really care?
-just wanna know will you always be there?
-will you always be there?
-or is this a con to get what you want
-cus you really don’t care
-i just need you near me
-hear me, feel me homie, love me only
-and if you can do that for me
-hold me back like you owe me
-click clock, hip-hop
-ready or not?
-ready or not not not not not not here
-ready or not not not, that means ready or not
-ready or not not not not not not here
-ready or not not not, that means ready or not
-not not not not not not here
-not not not, that means ready or not
-not not not not not not here
-not not not, i’ll make love to you girl
-i just got one question to ask, do you love me? (do you love me?)
+(dp1
+Vheavy
+p2
+I4
+sVready
+p3
+I8
+sVright
+p4
+I1
+sVlove
+p5
+I18
+sVwant
+p6
+I1
+sVlyrics
+p7
+I2
+sVfeel
+p8
+I2
+sVthere
+p9
+I2
+sVmind
+p10
+I1
+sVback
+p11
+I1
+sVdeep
+p12
+I1
+sVone
+p13
+I5
+sVsteve
+p14
+I1
+sVdoyouloveme
+p15
+I2
+sVaskin
+p16
+I1
+sVquestions
+p17
+I2
+sVgo
+p18
+I1
+sVna
+p19
+I2
+sVgirl
+p20
+I1
+sVkeep
+p21
+I1
+sVfeat
+p22
+I1
+sVclick
+p23
+I1
+sVreally
+p24
+I5
+sVletting
+p25
+I1
+sVwan
+p26
+I2
+sVsaid
+p27
+I1
+sVcus
+p28
+I1
+sVsnoop
+p29
+I1
+sVclock
+p30
+I1
+sVnot
+p31
+I4
+sVdogg
+p32
+I1
+sVmake
+p33
+I1
+sVit\u2019s
+p34
+I2
+sVquestion
+p35
+I5
+sVonly
+p36
+I1
+sVowe
+p37
+I1
+sVneed
+p38
+I1
+sVdon\u2019t
+p39
+I2
+sVi\u2019ll
+p40
+I3
+sVgrind
+p41
+I1
+sVgot
+p42
+I7
+sVmeans
+p43
+I3
+sVsure
+p44
+I1
+sVdoor
+p45
+I2
+sVget
+p46
+I1
+sVi\u2019m
+p47
+I1
+sVtime
+p48
+I1
+sVhere
+p49
+I4
+sVhiphop
+p50
+I1
+sVarrington
+p51
+I1
+sV1question
+p52
+I2
+sVknow
+p53
+I4
+sVspoil
+p54
+I1
+sVask
+p55
+I5
+sVhold
+p56
+I1
+sVcare
+p57
+I2
+sVme
+p58
+I6
+sVlike
+p59
+I1
+sVknockin
+p60
+I4
+sValways
+p61
+I2
+sVface
+p62
+I1
+sVnear
+p63
+I1
+sVhomie
+p64
+I1
+sVinsecurity
+p65
+I1
+sVhear
+p66
+I3
+sVexpression
+p67
+I2
+sVcon
+p68
+I1
+s.

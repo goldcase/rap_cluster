@@ -1,95 +1,847 @@
-"nobody move" lyrics
-eazy-e lyrics
-"nobody move"
-yo ren, you're ready to go get this move?
-(believe that, boy)
-you're strapped?
-(yeah, you know it)
-let's go do this, man, i got it all planned out
-(yeah, shoot any motherfucker that moves)
-("alright everybody...")
-this is a stick-up, everybody get face-down
-ren, gag their mouths so they can't make a sound
-tie em up for the fact that i'm kickin ass
-i got my hand on my gat, and i'm tempted to blast
-my name is eazy, but i go the hard way out
-this ain't personal, but now i'm about
-to commit a crime and go thru with it
-you know what, no need for shakin, because i'm used to it
-take out the security guard with a slap of my hand
-yeah, he's wearin' a badge, but he's a ol ass man
-pump his ass in the head, and take his gun
-so me and the punk can go one on one
-cover the lens on the tv screen
-you know, so me and my gang just can't be seen
-lock the doors, and throw away the key
-close the blinds, so no motherfuckers can see
-and smile, you know, cause i'm controllin the shit
-and no sucker ass nigga's gonna stop the hit
-wardrobes and locs, and a ruthless shirt
-that means i'm ready to work, and rush a fool to the dirt, so
-("nobody moves, nobody gets hurt")
-(alright, anybody move and i'll blow your fuckin head off)
-allright...
-empty your pockets, but do it slow
-take everything you got and lay it on the fuckin floor
-don't make me have to set an example today
-and blow one of you crazy motherfuckers away
-i'm in a bank, and it's a little bit funny
-takin all you stupid motherfuckers' money
-peepin at a bitch cause my dick's on hard
-laughin at the dumb ass security guard
-who's tied up for the moment, not sayin' a word
-i should have known it before, the motherfucker's a nerd
-but back to the bitches i'm peepin
-and then untie the hoe, so i can start creepin
-took her to the backroom, about to jack
-cold trailed the bitch, with a gun in the back
-i said: "lay down, and unbutton your bra!"
-there was the biggest titties that a nigga ever saw
-i said: "damn", then the air got thinner
-only thought in my mind, was goin' up in her
-the suspense was makin' me sick
-she took her panties down and the bitch had a dick!
-i said: "damn", dropped the gat from my hand
-(what i thought was a bitch, was nothing but a man)
-put the gat to his legs, all the way up his skirt
-because this is one faggot that i had to hurt, so
-(i said get down. i want you all face-down on the floor
-anybody moves and i shoot)
-stackin up the money and there's more to collect
-cause i don't give a fuck, i take traveler's checks
-yo, ren, peep out the window, and tell me what you see
-(three motherfuckin police starin at me; what to do now?)
-hurry up and get on
-allright, tell me, who is the motherfuckin alarm?
-i'm a give ya a chance, and count to three
-or else five of ya bitches are comin with me
-( allright, allright, come out niggaz, or we're coming in
-this is the only chance to turn yourself in)
-fuck you! we got hostages, and plenty of loot
-and don't give a damn and not afraid to shoot
-we're sendin out the hostages, all except five
-and if you don't meet our demands, they won't stay alive
-we want a copter, so we can get away clean
-and take some pussy along, if you know what i mean
-one hostage got brave, and got off the floor
-but i smoked his ass before he got to the door
-( they shot a hostage, they shot a hostage!)
-( you stupid motherfucker tryin' to run
-now you're dead as fuck tryin' to race a gun)
-( allright, this is the last chance to get off your ass
-or else the tear gas is about to blast)
-i ran to the back and ren followed behind
-to a hell of a spot that was hard to find
-the bank was fucked up, the shit was smokin
-with screamin hostages, runnin and chokin
-gettin away, but i was suddenly stopped
-at point blank range, by a motherfuckin cop
-and i hope they don't think that a lesson was taught
-cause a nigga like the e was finally caught
-my gat wouldn't fire, the shit wouldn't work
-so, y'all know what time it is
-( well i'm giving you five seconds to let us thru the gate or
-i'm gonna shoot two of your guards)
-(hehe, they got me once, but they'll never get me again)
+(dp1
+Vnow
+p2
+I1
+sVshot
+p3
+I2
+sVlyrics
+p4
+I2
+sVis
+p5
+I1
+sVmoney
+p6
+I2
+sVmove
+p7
+I4
+sVknown
+p8
+I1
+sVever
+p9
+I1
+sVgang
+p10
+I1
+sVbehind
+p11
+I1
+sVgo
+p12
+I5
+sVon
+p13
+I1
+sVtempted
+p14
+I1
+sVtakin
+p15
+I1
+sVfind
+p16
+I1
+sVcount
+p17
+I1
+sVaint
+p18
+I1
+sVfaggot
+p19
+I1
+sVslow
+p20
+I1
+sVpolice
+p21
+I1
+sVsayin
+p22
+I1
+sVpersonal
+p23
+I1
+sVdick
+p24
+I1
+sVexcept
+p25
+I1
+sVcrime
+p26
+I1
+sVlets
+p27
+I1
+sVpussy
+p28
+I1
+sVsmile
+p29
+I1
+sVblinds
+p30
+I1
+sVdicks
+p31
+I1
+sVhope
+p32
+I1
+sVmotherfuckin
+p33
+I3
+sVfool
+p34
+I1
+sVshoot
+p35
+I4
+sVhit
+p36
+I1
+sVsick
+p37
+I1
+sVyo
+p38
+I2
+sVget
+p39
+I7
+sVya
+p40
+I2
+sVsucker
+p41
+I1
+sVstop
+p42
+I1
+sVbitches
+p43
+I2
+sVblank
+p44
+I1
+sVhurry
+p45
+I1
+sVfive
+p46
+I3
+sVknow
+p47
+I6
+sVgate
+p48
+I1
+sVbit
+p49
+I1
+sVblast
+p50
+I2
+sVbank
+p51
+I2
+sVlike
+p52
+I1
+sVwont
+p53
+I1
+sVcop
+p54
+I1
+sVcontrollin
+p55
+I1
+sVpanties
+p56
+I1
+sVname
+p57
+I1
+sVtrailed
+p58
+I1
+sVcause
+p59
+I4
+sVgettin
+p60
+I1
+sVgun
+p61
+I3
+sVpeepin
+p62
+I2
+sVstupid
+p63
+I2
+sVstopped
+p64
+I1
+sVwell
+p65
+I1
+sVtear
+p66
+I1
+sVsecurity
+p67
+I2
+sVyall
+p68
+I1
+sVmean
+p69
+I1
+sVem
+p70
+I1
+sVcreepin
+p71
+I1
+sVset
+p72
+I1
+sVhostages
+p73
+I3
+sVhard
+p74
+I3
+sVyeah
+p75
+I3
+sValive
+p76
+I1
+sVsee
+p77
+I2
+sVtaught
+p78
+I1
+sVdumb
+p79
+I1
+sVus
+p80
+I1
+sVhell
+p81
+I1
+sVclose
+p82
+I1
+sVcold
+p83
+I1
+sVout
+p84
+I2
+sVturn
+p85
+I1
+sVgon
+p86
+I2
+sVbrave
+p87
+I1
+sVfuck
+p88
+I3
+sVcollect
+p89
+I1
+sVruthless
+p90
+I1
+sVbackroom
+p91
+I1
+sVaway
+p92
+I4
+sVfinally
+p93
+I1
+sVeverything
+p94
+I1
+sVpump
+p95
+I1
+sVrace
+p96
+I1
+sVren
+p97
+I4
+sVgot
+p98
+I9
+sVeazye
+p99
+I1
+sVbadge
+p100
+I1
+sVchecks
+p101
+I1
+sVass
+p102
+I7
+sVblow
+p103
+I2
+sVfacedown
+p104
+I2
+sVrun
+p105
+I1
+sVdirt
+p106
+I1
+sVseconds
+p107
+I1
+sVscreen
+p108
+I1
+sVnever
+p109
+I1
+sVmotherfucker
+p110
+I2
+sVlet
+p111
+I1
+sVsmokin
+p112
+I1
+sVkey
+p113
+I1
+sVmeet
+p114
+I1
+sVput
+p115
+I1
+sVlaughin
+p116
+I1
+sVpeep
+p117
+I1
+sVstay
+p118
+I1
+sVcome
+p119
+I1
+sVthrow
+p120
+I1
+sVboy
+p121
+I1
+sVabout
+p122
+I1
+sVol
+p123
+I1
+sVlast
+p124
+I1
+sVher
+p125
+I1
+sVwouldnt
+p126
+I2
+sVill
+p127
+I1
+sVor
+p128
+I1
+sVpunk
+p129
+I1
+sVchance
+p130
+I3
+sVscreamin
+p131
+I1
+sVtv
+p132
+I1
+sVelse
+p133
+I2
+sVstarin
+p134
+I1
+sVplanned
+p135
+I1
+sVpockets
+p136
+I1
+sVcommit
+p137
+I1
+sVmotherfuckers
+p138
+I4
+sVfuckin
+p139
+I2
+sVtwo
+p140
+I1
+sVthinner
+p141
+I1
+sVfollowed
+p142
+I1
+sVdont
+p143
+I5
+sVpoint
+p144
+I1
+sVsuddenly
+p145
+I1
+sVtravelers
+p146
+I1
+sVdemands
+p147
+I1
+sVmakin
+p148
+I1
+sVone
+p149
+I5
+sVfucked
+p150
+I1
+sVguard
+p151
+I2
+sVnigga
+p152
+I2
+sVbitch
+p153
+I4
+sVcomin
+p154
+I1
+sVme
+p155
+I1
+sVlesson
+p156
+I1
+sVhehe
+p157
+I1
+sValong
+p158
+I1
+sVbra
+p159
+I1
+sVeverybody
+p160
+I2
+sVstrapped
+p161
+I1
+sVlittle
+p162
+I1
+sVthree
+p163
+I2
+sVgoin
+p164
+I1
+sVhes
+p165
+I2
+sVcaught
+p166
+I1
+sVunbutton
+p167
+I1
+sVwindow
+p168
+I1
+sVwhos
+p169
+I1
+sVstart
+p170
+I1
+sVuntie
+p171
+I1
+sVtell
+p172
+I2
+sVway
+p173
+I2
+sVbiggest
+p174
+I1
+sVdamn
+p175
+I3
+sVthru
+p176
+I2
+sVstackin
+p177
+I1
+sVempty
+p178
+I1
+sVback
+p179
+I3
+sVhead
+p180
+I2
+sVdoor
+p181
+I1
+sVtitties
+p182
+I1
+sVfire
+p183
+I1
+sVnobody
+p184
+I4
+sVgas
+p185
+I1
+sVtook
+p186
+I2
+sVit
+p187
+I3
+sVcopter
+p188
+I1
+sVdead
+p189
+I1
+sVgag
+p190
+I1
+sVe
+I1
+sVbelieve
+p191
+I1
+sVsound
+p192
+I1
+sVrush
+p193
+I1
+sVlegs
+p194
+I1
+sVword
+p195
+I1
+sVwearin
+p196
+I1
+sVniggas
+p197
+I1
+sVwork
+p198
+I2
+sVniggaz
+p199
+I1
+sVair
+p200
+I1
+sVguards
+p201
+I1
+sVtoday
+p202
+I1
+sVsuspense
+p203
+I1
+sVgat
+p204
+I4
+sVexample
+p205
+I1
+sVtheres
+p206
+I1
+sVcrazy
+p207
+I1
+sVrunnin
+p208
+I1
+sVgive
+p209
+I3
+sVran
+p210
+I1
+sVlock
+p211
+I1
+sVwardrobes
+p212
+I1
+sVin
+p213
+I2
+sVmind
+p214
+I1
+sVeazy
+p215
+I1
+sVslap
+p216
+I1
+sVsendin
+p217
+I1
+sVneed
+p218
+I1
+sVcant
+p219
+I2
+sVim
+p220
+I11
+sVdropped
+p221
+I1
+sVwant
+p222
+I2
+sVlocs
+p223
+I1
+sVready
+p224
+I2
+sVseen
+p225
+I1
+sVmoves
+p226
+I3
+sVsaw
+p227
+I1
+sVnerd
+p228
+I1
+sVshit
+p229
+I3
+sVfunny
+p230
+I1
+sVhoe
+p231
+I1
+sVtheyll
+p232
+I1
+sVshirt
+p233
+I1
+sVfloor
+p234
+I3
+sVloot
+p235
+I1
+sVna
+p236
+I2
+sVmake
+p237
+I2
+sVmeans
+p238
+I1
+sVrange
+p239
+I1
+sVhostage
+p240
+I3
+sVshakin
+p241
+I1
+sVtake
+p242
+I5
+sVdoors
+p243
+I1
+sVstickup
+p244
+I1
+sVtie
+p245
+I1
+sVgets
+p246
+I1
+sVused
+p247
+I1
+sVchokin
+p248
+I1
+sVmouths
+p249
+I1
+sVagain
+p250
+I1
+sVspot
+p251
+I1
+sVtied
+p252
+I1
+sVhand
+p253
+I3
+sVlens
+p254
+I1
+sVskirt
+p255
+I1
+sVmoment
+p256
+I1
+sVsaid
+p257
+I4
+sVlay
+p258
+I2
+sVplenty
+p259
+I1
+sVcoming
+p260
+I1
+sVnothing
+p261
+I1
+sVhurt
+p262
+I2
+sVman
+p263
+I3
+sVafraid
+p264
+I1
+sVoff
+p265
+I1
+sVallright
+p266
+I5
+sValarm
+p267
+I1
+sVyoure
+p268
+I3
+sVcover
+p269
+I1
+sVanybody
+p270
+I2
+sVthink
+p271
+I1
+sVthought
+p272
+I2
+sVgiving
+p273
+I1
+sVso
+p274
+I2
+sVclean
+p275
+I1
+sVtime
+p276
+I1
+sValright
+p277
+I2
+sVtryin
+p278
+I2
+sVsmoked
+p279
+I1
+sVkickin
+p280
+I1
+sVfact
+p281
+I1
+sVjack
+p282
+I1
+s.

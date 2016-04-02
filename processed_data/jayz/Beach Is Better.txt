@@ -1,27 +1,193 @@
-"beach is better" lyrics
-jay-z lyrics
-"beach is better"
-get ya ass on the celly
-cause i ain't got time
-to be arguing with your ass
-if you ain't really ready
-girl why you never ready
-for as long as you took
-you better look like halle berry
-or beyoncÃ¨. shit then we getting married
-i brought sand to the beach
-cause my beach is better
-you can keep ya beach
-cause that beach whatever
-started out at the darby
-ended up at 1 oak
-left the house with 100 grand
-ended up near broke
-don't get mad at me
-i'm buying bucket after bucket
-when it's gone i'm like fuck it
-i replace it with another one
-can't take this money with you
-burn this shit up like i'm richer
-nigga's asking
-if the oven's on
+(dp1
+Vgone
+p2
+I1
+sVdarby
+p3
+I1
+sVmoney
+p4
+I1
+sVdont
+p5
+I1
+sVlyrics
+p6
+I2
+sVhouse
+p7
+I1
+sVfuck
+p8
+I1
+sVwhatever
+p9
+I1
+sVstarted
+p10
+I1
+sVbrought
+p11
+I1
+sVended
+p12
+I2
+sVjayz
+p13
+I1
+sVim
+p14
+I3
+sVanother
+p15
+I1
+sVready
+p16
+I2
+sVgirl
+p17
+I1
+sVshit
+p18
+I2
+sVreally
+p19
+I1
+sVaint
+p20
+I2
+sVbeyoncè
+p21
+I1
+sVone
+p22
+I1
+sVricher
+p23
+I1
+sVhalle
+p24
+I1
+sVoak
+p25
+I1
+sVnear
+p26
+I1
+sVlong
+p27
+I1
+sVbetter
+p28
+I4
+sVarguing
+p29
+I1
+sVasking
+p30
+I1
+sVtake
+p31
+I1
+sVgrand
+p32
+I1
+sVgot
+p33
+I1
+sVyou
+p34
+I1
+sVcause
+p35
+I3
+sVass
+p36
+I2
+sVme
+p37
+I1
+sVburn
+p38
+I1
+sVget
+p39
+I2
+sVya
+p40
+I2
+sVnever
+p41
+I1
+sVtook
+p42
+I1
+sVit
+p43
+I1
+sVmad
+p44
+I1
+sVbroke
+p45
+I1
+sV100
+p46
+I1
+sVreplace
+p47
+I1
+sVbuying
+p48
+I1
+sVlook
+p49
+I1
+sVcelly
+p50
+I1
+sVon
+p51
+I1
+sVniggas
+p52
+I1
+sVlike
+p53
+I3
+sVgetting
+p54
+I1
+sVbeach
+p55
+I6
+sVmarried
+p56
+I1
+sVbucket
+p57
+I2
+sVcant
+p58
+I1
+sVkeep
+p59
+I1
+sVsand
+p60
+I1
+sV1
+I1
+sVberry
+p61
+I1
+sVtime
+p62
+I1
+sVovens
+p63
+I1
+sVleft
+p64
+I1
+s.

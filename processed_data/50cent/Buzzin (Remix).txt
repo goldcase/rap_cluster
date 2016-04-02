@@ -1,67 +1,532 @@
-"buzzin' (remix)" lyrics
-50 cent lyrics
-"buzzin' (remix)"
-(with mann)
-50!
-haha!
-whoo, whoo, whoo!
-man i feel like moneyyyyy! (man i feel like money!) {yeah!}
-they're attracted to me! (oh, yeah?)
-they come around like honeyyyyyy! (they come around like honey!) {hahaaa!}
-cause i'm fly like a bee! (oh, yeah?) {say what?}
-man i got 'em all buzzin', (buzzin'!) buzzin', (buzzin'!) buzzin', (buzzin'!) buzzin',
-like da-da-da-da-da-da-da! {say what?}
-man i got 'em all buzzin', (buzzin'!) buzzin', (buzzin'!) buzzin', (buzzin'!) buzzin',
-like da-da-da-da-da-da-da!
-yeah, uh! - audi r-8, laid back, black on black
-diamonds on my neck and my wrist matchin' that.
-black mask, black mag' - brown bag;
-drop down now or nigga i'll shoot your black ass!
-i'm a magnet to money, the paper is where i'm at
-they attracted to me, they treat me like pimp c.
-i'm a p-i-m-p yo chick just chose me
-i got so much swag, is that why you mad?
-control your hate trick, nothing good to say
-don't say shit, keep walkin' quit talkin' keep it movin'!
-we can keep the club jumpin' till daylight
-from new york to l.a. through the bay; right?
-back up to back up in the mix like that (yeah!)
-and i know ya like it when it's just like that. (that!)
-all the girlies just love my swag (swag!)
-from my kicks to the way i fix my hat.  (hat!)
-i'm - back! (hey!) - fresh like some new j's (yeah!)
-brodie got next nba to pay.
-i'm too paid! (paid!) - shaded - with some ladies
-reppin' my city; west l.a. baby! (west l.a., baby!)
-west l.a. made me this way. (way!)
-two rules: stay fresh, homie and get paid!
-hey! (heeyy!) - never broke! - and never bummy! (why)
-i'm from where it's forever sunny. (okay!)
-when i come around! - 'round, 'round...
-they go...
-yeah, yeah! it's going down, down, down...
-they go...
-uh! - new cat with a' old school feel (feel!)
-only new artist with a old school deal. (yeah!)
-tied to the game by steve lobell (yup!)
-so we always win, don't receive no help. (nah!)
-new girls act like they know me so well
-but i shows no love and be like: "oh, well! " (well!)
-when my album drops, sure as hell goin' sell (yup!)
-stack cash and laugh like l-o-l!
-when i come around! - 'round, 'round...
-they go...
-yeah! - when i come around! - 'round, 'round...
-they go...
-when i step in yo town! - town, town...
-they go...
-yeah, yeah! - it's going down; down, down...
-they go...
-yee-uh yee-uh! - shawty in my ear (uhh!)
-saying all the things that i wanna hear.
-buzzin'! - and as the night ends (uhh!)
-i'm a have her and get all her friends.
-buzzin'! - okay! - hands in the air (yee-uh!)
-from the back to the front everywhere.
-buzzin'! - throwin' out 20's, throwin' out hundreds
-ladies gotta love it!
+(dp1
+Vsaying
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I2
+sVhands
+p6
+I1
+sVsteve
+p7
+I1
+sVbaby
+p8
+I2
+sVpaper
+p9
+I1
+sVgo
+p10
+I6
+sVhell
+p11
+I1
+sVhate
+p12
+I1
+sVswag
+p13
+I3
+sVla
+p14
+I4
+sVeverywhere
+p15
+I1
+sVfix
+p16
+I1
+sVgoing
+p17
+I2
+sVblack
+p18
+I5
+sVhat
+p19
+I2
+sVcity
+p20
+I1
+sVta
+p21
+I1
+sVbrown
+p22
+I1
+sVgood
+p23
+I1
+sVaround
+p24
+I5
+sVyo
+p25
+I2
+sVget
+p26
+I2
+sVya
+p27
+I1
+sVair
+p28
+I1
+sVsunny
+p29
+I1
+sVuhh
+p30
+I2
+sVshoot
+p31
+I1
+sVgame
+p32
+I1
+sVcat
+p33
+I1
+sVknow
+p34
+I2
+sVnew
+p35
+I5
+sVfront
+p36
+I1
+sVschool
+p37
+I2
+sVlike
+p38
+I15
+sVpimp
+p39
+I2
+sVartist
+p40
+I1
+sValways
+p41
+I1
+sVdrop
+p42
+I1
+sV50
+p43
+I2
+sVbay
+p44
+I1
+sVmagnet
+p45
+I1
+sVbag
+p46
+I1
+sVnight
+p47
+I1
+sVchick
+p48
+I1
+sVround
+p49
+I6
+sVem
+p50
+I2
+sVnigga
+p51
+I1
+sVold
+p52
+I2
+sVdeal
+p53
+I1
+sVthrowin
+p54
+I2
+sVdadadadadadada
+p55
+I2
+sVyeah
+p56
+I12
+sVdaylight
+p57
+I1
+sVbrodie
+p58
+I1
+sVnba
+p59
+I1
+sVtheyre
+p60
+I1
+sValbum
+p61
+I1
+sVwhat
+p62
+I2
+sVyeeuh
+p63
+I3
+sVattracted
+p64
+I2
+sVlaid
+p65
+I1
+sVdiamonds
+p66
+I1
+sVgot
+p67
+I5
+sVcause
+p68
+I1
+sVshows
+p69
+I1
+sVass
+p70
+I1
+sVends
+p71
+I1
+sVchose
+p72
+I1
+sVquit
+p73
+I1
+sVnever
+p74
+I2
+sVjs
+p75
+I1
+sVstep
+p76
+I1
+sVyork
+p77
+I1
+sVhundreds
+p78
+I1
+sVcome
+p79
+I5
+sVc
+I1
+sVoh
+p80
+I3
+sVreceive
+p81
+I1
+sVyup
+p82
+I2
+sVill
+p83
+I1
+sVr8
+p84
+I1
+sVkeep
+p85
+I3
+sVwalkin
+p86
+I1
+sVlobell
+p87
+I1
+sVact
+p88
+I1
+sVtied
+p89
+I1
+sVshaded
+p90
+I1
+sVmann
+p91
+I1
+sVhoneyyyyyy
+p92
+I1
+sVladies
+p93
+I2
+sVlove
+p94
+I3
+sVdont
+p95
+I2
+sVfeel
+p96
+I4
+sVwin
+p97
+I1
+sVhahaaa
+p98
+I1
+sVtwo
+p99
+I1
+sVdown
+p100
+I2
+sVna
+p101
+I1
+sVright
+p102
+I1
+sVlol
+p103
+I1
+sVlaugh
+p104
+I1
+sVwan
+p105
+I1
+sVmatchin
+p106
+I1
+sVwest
+p107
+I3
+sVgirls
+p108
+I1
+sVhey
+p109
+I2
+sVcent
+p110
+I1
+sVnext
+p111
+I1
+sVreppin
+p112
+I1
+sVmuch
+p113
+I1
+sVtreat
+p114
+I1
+sVway
+p115
+I3
+sVgoin
+p116
+I1
+sVthat
+p117
+I2
+sVclub
+p118
+I1
+sVhaha
+p119
+I1
+sVforever
+p120
+I1
+sVback
+p121
+I5
+sVhear
+p122
+I1
+sVbroke
+p123
+I1
+sVkicks
+p124
+I1
+sVear
+p125
+I1
+sVme
+p126
+I1
+sVmade
+p127
+I1
+sVthings
+p128
+I1
+sVstack
+p129
+I1
+sVmoneyyyyy
+p130
+I1
+sVcash
+p131
+I1
+sVbee
+p132
+I1
+sVtrick
+p133
+I1
+sVheeyy
+p134
+I1
+sVuh
+p135
+I2
+sVdrops
+p136
+I1
+sVcontrol
+p137
+I1
+sV20s
+p138
+I1
+sVwell
+p139
+I3
+sVbummy
+p140
+I1
+sVhoney
+p141
+I1
+sVfly
+p142
+I1
+sVsay
+p143
+I4
+sVhomie
+p144
+I1
+sVim
+p145
+I8
+sVat
+p146
+I1
+sVshit
+p147
+I1
+sVaudi
+p148
+I1
+sVsell
+p149
+I1
+sVmix
+p150
+I1
+sVwhoo
+p151
+I3
+sVnah
+p152
+I1
+sVtill
+p153
+I1
+sVbuzzin
+p154
+I19
+sVshawty
+p155
+I1
+sVtalkin
+p156
+I1
+sVgirlies
+p157
+I1
+sVsure
+p158
+I1
+sVokay
+p159
+I2
+sVmovin
+p160
+I1
+sVpaid
+p161
+I3
+sVstay
+p162
+I1
+sVtown
+p163
+I3
+sVwrist
+p164
+I1
+sVmad
+p165
+I1
+sVmag
+p166
+I1
+sVjumpin
+p167
+I1
+sVnothing
+p168
+I1
+sVfriends
+p169
+I1
+sVwhy
+p170
+I1
+sVman
+p171
+I4
+sVremix
+p172
+I2
+sVneck
+p173
+I1
+sVrules
+p174
+I1
+sVmask
+p175
+I1
+sVpay
+p176
+I1
+sVfresh
+p177
+I2
+s.

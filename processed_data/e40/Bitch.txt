@@ -1,66 +1,489 @@
-"bitch" lyrics
-e-40 lyrics
-"bitch"
-(feat. too $hort)
-nigga don't act like a (bitch!)
-that's why i don't got love for a (bitch!)
-oh that's why too $hort and e-40 say (bitch!)
-so homey, please don't marry that (bitch!)
-and that's why i'll never be a (bitch!)
-don't do it!
-$hort holla at 'em
-see me, i get everything i wanna get
-i have some fun with it, and make her momma trip
-cause if i'm in her life, it's a problem
-a real player's at your girl, you better stop him
-turn your back on the bitch she ain't actin right
-he hit it way before you now he's back in her life
-what'chu gon' do when you lose her?
-she got a nigga on the side just to use her
-if it's me, i'm parkin at the front do'
-and you be knockin on her bedroom window
-you see the shadows, you hear the sounds
-but you don't do nothin you just turn back around
-like a (bitch!) feelings hurt, ready to cry
-you cain't believe, everything she said was a lie
-she got a lot of bitch in her but not more than you
-i never underestimate what these whores'll do
-40! never slippin and slippin and skippin and drippin and missin (missin)
-these cats that i be hangin around don't listen (don't listen)
-i be hippin and sippin and smokin and drinkin and spittin (spittin)
-and these musty mouth broads they be trippin (they be trippin)
-i mean the bitch thought she was bad (bad)
-i knew what that batch was thinkin
-when she thought what she was thinkin, but she shouldn'ta thought that
-i told her the money costs too much and i ain't got a dime
-you got to pay me (pay me) or pay me no never mind
-i (i) don't sit on the toilet when i go piss (piss)
-you (you) got feminine tendencies like a bitch (bitch)
-me (me) i'm solid and concrete i keep it funky (funky)
-we (we) we pull up in somethin, actin a donkey (donkey)
-she (she) she liftin her dress up showin her monkey (monkey)
-see (see) he trippin, he trickin, throwin her money (money)
-b (b) i-t-c-h, all in her face (face)
-e (e) 40 so laced, stay on the case
-40 water, 40 water
-too $hort, too $hort
-too $hort
-short dawg in the house
-40 water!
-ay sho't, you know what i been noticin?
-all bitches ain't women?
-mayne! all bitches ain't women mayne
-nah nah
-some of these niggaz man be actin like bitches mannn
-yeah!
-female puppies man
-you already know
-look, get a real one in your life man
-get a real one in your life - that's what i tell a bitch
-beatch!
-that's how we do it
-uhhh
-fa'sho'
-niggaz be actin like bi-tchess
-be-itch!! female puppies mayne
-you bitch!
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I3
+sVbedroom
+p5
+I1
+sVslippin
+p6
+I2
+sVfeat
+p7
+I1
+sVmannn
+p8
+I1
+sVaint
+p9
+I4
+sVlaced
+p10
+I1
+sVmuch
+p11
+I1
+sVbetter
+p12
+I1
+sVnoticin
+p13
+I1
+sVwindow
+p14
+I1
+sVactin
+p15
+I4
+sVbeatch
+p16
+I1
+sVreal
+p17
+I3
+sVdo
+p18
+I2
+sVhit
+p19
+I1
+sVaround
+p20
+I2
+sVcaint
+p21
+I1
+sVget
+p22
+I4
+sVshouldnta
+p23
+I1
+sVuhhh
+p24
+I1
+sVstop
+p25
+I1
+sVspittin
+p26
+I2
+sVknow
+p27
+I2
+sVfront
+p28
+I1
+sVone
+p29
+I2
+sVhim
+p30
+I1
+sVshadows
+p31
+I1
+sVtrippin
+p32
+I3
+sVwhatchu
+p33
+I1
+sVlike
+p34
+I5
+sVknockin
+p35
+I1
+sVmarry
+p36
+I1
+sVcry
+p37
+I1
+sVliftin
+p38
+I1
+sVbad
+p39
+I2
+sVlose
+p40
+I1
+sVpiss
+p41
+I2
+sVside
+p42
+I1
+sVmean
+p43
+I1
+sVem
+p44
+I1
+sVnigga
+p45
+I2
+sVhouse
+p46
+I1
+sVthrowin
+p47
+I1
+sVback
+p48
+I3
+sVgo
+p49
+I1
+sVsee
+p50
+I4
+sVdawg
+p51
+I1
+sVhort
+p52
+I6
+sVgirl
+p53
+I1
+sVbitchess
+p54
+I1
+sVgon
+p55
+I1
+sVbroads
+p56
+I1
+sVdime
+p57
+I1
+sVplease
+p58
+I1
+sVmusty
+p59
+I1
+sVeverything
+p60
+I2
+sVgot
+p61
+I6
+sVcause
+p62
+I1
+sVtold
+p63
+I1
+sVdrinkin
+p64
+I1
+sVknew
+p65
+I1
+sVnever
+p66
+I4
+sVmayne
+p67
+I3
+sVwater
+p68
+I3
+sVsmokin
+p69
+I1
+sVoh
+p70
+I1
+sVill
+p71
+I1
+sVkeep
+p72
+I1
+sVturn
+p73
+I2
+sVfunky
+p74
+I2
+sVbeitch
+p75
+I1
+sVact
+p76
+I1
+sVpuppies
+p77
+I2
+sVthats
+p78
+I5
+sValready
+p79
+I1
+sVlove
+p80
+I1
+sVdont
+p81
+I8
+sVtrickin
+p82
+I1
+sVfeelings
+p83
+I1
+sVmomma
+p84
+I1
+sVright
+p85
+I1
+sVbitch
+p86
+I15
+sVfemale
+p87
+I2
+sVsounds
+p88
+I1
+sVwan
+p89
+I1
+sVuse
+p90
+I1
+sVmonkey
+p91
+I2
+sVher
+p92
+I2
+sVhes
+p93
+I1
+sVskippin
+p94
+I1
+sVhippin
+p95
+I1
+sVcats
+p96
+I1
+sVlot
+p97
+I1
+sVwhoresll
+p98
+I1
+sVparkin
+p99
+I1
+sVtell
+p100
+I1
+sVlisten
+p101
+I2
+sVlife
+p102
+I4
+sVway
+p103
+I1
+sVthat
+p104
+I1
+sVfasho
+p105
+I1
+sVbitches
+p106
+I3
+sVhurt
+p107
+I1
+sVfeminine
+p108
+I1
+sVhear
+p109
+I1
+sVbelieve
+p110
+I1
+sVwomen
+p111
+I2
+sVcase
+p112
+I1
+sVpull
+p113
+I1
+sVe40
+p114
+I2
+sVb
+I2
+sVlook
+p115
+I1
+sVsolid
+p116
+I1
+sVhomey
+p117
+I1
+sVbatch
+p118
+I1
+sVniggaz
+p119
+I2
+sVdrippin
+p120
+I1
+sVfun
+p121
+I1
+sVproblem
+p122
+I1
+sVtoilet
+p123
+I1
+sVdonkey
+p124
+I2
+sVshowin
+p125
+I1
+sVmind
+p126
+I1
+sVit
+p127
+I2
+sVay
+p128
+I1
+sVsay
+p129
+I1
+sVim
+p130
+I3
+sVready
+p131
+I1
+sVdress
+p132
+I1
+sVtrip
+p133
+I1
+sVlie
+p134
+I1
+sVsippin
+p135
+I1
+sVplayers
+p136
+I1
+sVna
+p137
+I1
+sVmake
+p138
+I1
+sV40
+p139
+I5
+sVnah
+p140
+I2
+sVunderestimate
+p141
+I1
+sVyou
+p142
+I1
+sVhangin
+p143
+I1
+sVitch
+p144
+I1
+sVholla
+p145
+I1
+sVmissin
+p146
+I2
+sVstay
+p147
+I1
+sVsaid
+p148
+I1
+sVmouth
+p149
+I1
+sVtendencies
+p150
+I1
+sVman
+p151
+I3
+sVyeah
+p152
+I1
+sVsomethin
+p153
+I1
+sVshort
+p154
+I1
+sVe
+I2
+sVsit
+p155
+I1
+sVnothin
+p156
+I1
+sVface
+p157
+I2
+sVthought
+p158
+I3
+sVconcrete
+p159
+I1
+sVcosts
+p160
+I1
+sVpay
+p161
+I3
+sVthinkin
+p162
+I2
+s.

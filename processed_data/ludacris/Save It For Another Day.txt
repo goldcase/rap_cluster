@@ -1,80 +1,536 @@
-"save it for another day" lyrics
-ludacris lyrics
-"save it for another day"
-ey! save it for another day
-i ain't try to hear that shit, no way
-hold up, let me take two sips
-and you can can miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-hold up, let me take two sips
-and you can can miss me with that bullshit
-you look like an a 8 figya nigga
-gone off the liquor
-and i'm fired up like the booty of a swisha
-make the trunk shake like a california quake
-and everywhere i go these bitches tryna take my pictcha
-all white beama accentuated features
-talk around the rim like a fucking margarita
-cops profiling but i'm still wildin' hoping that they never find this cannibis sativa
-toke in moderation like niggers on probation
-i break it like a record then i put it on rotation
-pass it like a test cause the system got me stressed
-so when they stop me askin for license and registration
-i'm like
-ey! save it for another day
-i ain't try to hear that shit, no way
-hold up, let me take two sips
-and you can can miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-hold up, let me take two sips
-and you can can miss me with that bullshit
-yeah, pass the lighta i'm rollin like a tire
-yeah we bout to blow i got that bomb like al queda
-the streets is not at ease so i keep a desert e
-and any given day you get that cannon like mariah
-yeah i rock the cradle, drop you like your label
-i got so fired up some illegal like my cable
-try me and you wishin for a gang of ammunition
-i'm handy with this cap people thinkin i'm disabled
-couple ladies with me cause i'm long like pippy
-so you'll just find yourself like a minaj like nicki
-a sucka for them curves went over a billion serves
-i said bitch! get on deez and i ain't talkin about micky
-she said
-ey! save it for another day
-i ain't try to hear that shit, no way
-hold up, let me take two sips
-and you can can miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-hold up, let me take two sips
-and you can can miss me with that bullshit
-problem's ova, driving on the shoulda
-bass booms trunk got that thunda like oklahoma
-woofers on them tweets my accura's got beats
-my kicka's go hard, yeah my speakers got a boner
-crome kitted 5% tinted on the highway gettin head i told her push me to the limit
-she got my balls sprung like a i hit a homerun
-she make her mouth stretch like the fuckin 7th inning
-so it, one, two, three strikes you outta there luda got em playing with theyself like solitaire
-birds of a feather supposed to stick togetha
-but sick of women saying they friend look like halle berry
-i'm like
-ey! save it for another day
-i ain't try to hear that shit, no way
-hold up, let me take two sips
-and you can can miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-miss me with that bullshit
-hold up, let me take two sips
-and you can can miss me with that bullshit
+(dp1
+Vinning
+p2
+I1
+sVbomb
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVdisabled
+p6
+I1
+sVgang
+p7
+I1
+sVquake
+p8
+I1
+sVshake
+p9
+I1
+sVgo
+p10
+I2
+sVoutta
+p11
+I1
+sVstill
+p12
+I1
+sVfind
+p13
+I2
+sVaint
+p14
+I5
+sVone
+p15
+I1
+sVsativa
+p16
+I1
+sVtire
+p17
+I1
+sVniggers
+p18
+I1
+sVease
+p19
+I1
+sVkitted
+p20
+I1
+sVbullshit
+p21
+I24
+sVnicki
+p22
+I1
+sVtweets
+p23
+I1
+sV8
+I1
+sVbout
+p24
+I1
+sVsave
+p25
+I6
+sVtake
+p26
+I9
+sVhit
+p27
+I1
+sVaround
+p28
+I1
+sVget
+p29
+I2
+sVcannon
+p30
+I1
+sVcouple
+p31
+I1
+sVrock
+p32
+I1
+sVstop
+p33
+I1
+sVbreak
+p34
+I1
+sVsaying
+p35
+I1
+sVsupposed
+p36
+I1
+sVtheyself
+p37
+I1
+sVrotation
+p38
+I1
+sVbeama
+p39
+I1
+sVday
+p40
+I7
+sVmargarita
+p41
+I1
+sVmariah
+p42
+I1
+sVlike
+p43
+I22
+sVcable
+p44
+I1
+sVyoull
+p45
+I1
+sVdrop
+p46
+I1
+sVserves
+p47
+I1
+sVtry
+p48
+I5
+sVhighway
+p49
+I1
+sVtoke
+p50
+I1
+sVwent
+p51
+I1
+sVem
+p52
+I1
+sVnigga
+p53
+I1
+sVbooty
+p54
+I1
+sVfired
+p55
+I2
+sVpeople
+p56
+I1
+sVfucking
+p57
+I1
+sVliquor
+p58
+I1
+sVstreets
+p59
+I1
+sVyeah
+p60
+I4
+sVey
+p61
+I4
+sVsips
+p62
+I8
+sV7th
+p63
+I1
+sVlighta
+p64
+I1
+sVdriving
+p65
+I1
+sVoklahoma
+p66
+I1
+sVlabel
+p67
+I1
+sVcradle
+p68
+I1
+sVgot
+p69
+I8
+sVammunition
+p70
+I1
+sVcause
+p71
+I2
+sVhandy
+p72
+I1
+sVtold
+p73
+I1
+sVblow
+p74
+I1
+sVprofiling
+p75
+I1
+sVbass
+p76
+I1
+sVqueda
+p77
+I1
+sVnever
+p78
+I1
+sVwishin
+p79
+I1
+sVsprung
+p80
+I1
+sVcalifornia
+p81
+I1
+sVtrunk
+p82
+I2
+sVput
+p83
+I1
+sVshoulda
+p84
+I1
+sVtogetha
+p85
+I1
+sVwoofers
+p86
+I1
+sVlicense
+p87
+I1
+sVkeep
+p88
+I1
+sVova
+p89
+I1
+sVberry
+p90
+I1
+sVstressed
+p91
+I1
+sVlet
+p92
+I8
+sVfuckin
+p93
+I1
+sVwildin
+p94
+I1
+sVladies
+p95
+I1
+sVfeatures
+p96
+I1
+sVaccuras
+p97
+I1
+sVtwo
+p98
+I9
+sVbitch
+p99
+I1
+sVanother
+p100
+I6
+sVregistration
+p101
+I1
+sVprobation
+p102
+I1
+sVmiss
+p103
+I24
+sVgiven
+p104
+I1
+sVbooms
+p105
+I1
+sVstretch
+p106
+I1
+sVillegal
+p107
+I1
+sVhalle
+p108
+I1
+sVsystem
+p109
+I1
+sVlong
+p110
+I1
+sVway
+p111
+I4
+sVwhite
+p112
+I1
+sVfriend
+p113
+I1
+sVtryna
+p114
+I1
+sVhead
+p115
+I1
+sVhard
+p116
+I1
+sVcannibis
+p117
+I1
+sVbitches
+p118
+I1
+sVstrikes
+p119
+I1
+sVcops
+p120
+I1
+sVmoderation
+p121
+I1
+sVgettin
+p122
+I1
+sVeverywhere
+p123
+I1
+sVswisha
+p124
+I1
+sVhold
+p125
+I8
+sVfeather
+p126
+I1
+sVwomen
+p127
+I1
+sVballs
+p128
+I1
+sVlook
+p129
+I2
+sVcap
+p130
+I1
+sVtinted
+p131
+I1
+sVrecord
+p132
+I1
+sVlimit
+p133
+I1
+sVthree
+p134
+I1
+sVsucka
+p135
+I1
+sVluda
+p136
+I1
+sVgone
+p137
+I1
+sVaccentuated
+p138
+I1
+sVhoping
+p139
+I1
+sVminaj
+p140
+I1
+sVpass
+p141
+I2
+sVmicky
+p142
+I1
+sVal
+p143
+I1
+sVcurves
+p144
+I1
+sVbeats
+p145
+I1
+sVrim
+p146
+I1
+sVim
+p147
+I8
+sVboner
+p148
+I1
+sVshit
+p149
+I4
+sVpippy
+p150
+I1
+sVspeakers
+p151
+I1
+sVhomerun
+p152
+I1
+sVmake
+p153
+I2
+sVpictcha
+p154
+I1
+sV5
+I1
+sVfigya
+p155
+I1
+sVsick
+p156
+I1
+sVtest
+p157
+I1
+sVtalkin
+p158
+I1
+sVaskin
+p159
+I1
+sVsolitaire
+p160
+I1
+sVproblems
+p161
+I1
+sVsaid
+p162
+I2
+sVmouth
+p163
+I1
+sVbirds
+p164
+I1
+sVkickas
+p165
+I1
+sVdesert
+p166
+I1
+sVbillion
+p167
+I1
+sVe
+I1
+sVcrome
+p168
+I1
+sVrollin
+p169
+I1
+sVplaying
+p170
+I1
+sVthunda
+p171
+I1
+sVpush
+p172
+I1
+sVhear
+p173
+I4
+sVdeez
+p174
+I1
+sVthinkin
+p175
+I1
+sVtalk
+p176
+I1
+sVstick
+p177
+I1
+s.

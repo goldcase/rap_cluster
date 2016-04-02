@@ -1,91 +1,452 @@
-"break ya ankles" lyrics
-e-40 lyrics
-"break ya ankles"
-show them how to break they ankles, mayne
-yeah, e-40 and shawty lo
-hey, let's go
-from the west coast to atlanta
-if a nigga gonna hate, well, got damn 'em
-hey, gonna break ya ankles
-hit the dance floor
-gonna break ya ankles
-go stupid, get retarded
-(dumb, dumb)
-wake the game up, them boys made it
-(dumb, dumb)
-hey, gonna break ya ankles
-we be the shit out of me
-gonna break ya ankles
-this a boy, this thang slap
-i brought the whole hood with me, brought the whole trap
-mama, this your song, you know the lyrics
-gonna break ya ankles, yeah, that's the spirit
-go nutty, go bananas, go berserk
-show them how to do it, let me see your foot work
-we runnin' up a tab, havin' money so we spend it
-bottles everywhere, celebrating like we won the pennant
-you recognize the fixture, you see the brightling watch
-you get the big picture, you know that i'm a boss
-i'mma show up, i'mma show out
-from the west coast to the dirty south
-hey, let's go
-from the west coast to atlanta
-if a nigga gonna hate, well, got damn 'em
-hey, gonna break ya ankles
-hit the dance floor
-gonna break ya ankles
-go stupid, get retarded
-(dumb, dumb)
-wake the game up, them boys made it
-(dumb, dumb)
-hey, gonna break ya ankles
-we be the shit out of me
-gonna break ya ankles
-fresh off tour, i brought a mil with me
-now the whole club gonna have to deal with me
-like 3-6, tear the club up
-like pac-man 'cause i don't give a fuck
-i'm throwing big bucks, cash everywhere
-shawty over here, 40 over there
-you know the broads out 'cause the stars out
-you see the parking lot, we brought the cars out
-we going stupid, get retarded
-and we ain't playin' with 'em, we came to party
-i brought a lot of doe, i'm steadin' throwin' singles
-so hit the dance floor, so gonna break ya ankles
-from the west coast to atlanta
-if a nigga gonna hate, well, got damn 'em
-hey, gonna break ya ankles
-hit the dance floor
-gonna break ya ankles
-go stupid, get retarded
-(dumb, dumb)
-wake the game up, them boys made it
-(dumb, dumb)
-hey, gonna break ya ankles
-we be the shit out of me
-gonna break ya ankles
-do it like this, do it like that
-do it like this, then you do it like that
-break it on down, show 'em how to clown
-mean mug with it, let me see you rep your town
-all street money, bonafide trapper
-never seen a check, ballin' like a rapper
-80 on the arm, a hundred on my neck
-shoe game sick, in the bay we call it wet
-more jury than the court room, glowin' like the moon
-more jury than the court room, i'mma tycoon
-designer everything, throw it in the bag
-i don't know how much it costs, i don't look at price tags
-from the west coast to atlanta
-if a nigga gonna hate, well, got damn 'em
-hey, gonna break ya ankles
-hit the dance floor
-gonna break ya ankles
-go stupid, get retarded
-(dumb, dumb)
-wake the game up, them boys made it
-(dumb, dumb)
-hey, gonna break ya ankles
-we be the shit out of me
-gonna break ya ankles
+(dp1
+Vbananas
+p2
+I1
+sVlyrics
+p3
+I3
+sVshow
+p4
+I5
+sVdance
+p5
+I5
+sVmoney
+p6
+I2
+sVshoe
+p7
+I1
+sVgo
+p8
+I9
+sVhate
+p9
+I4
+sVaint
+p10
+I1
+sVeverything
+p11
+I1
+sVimma
+p12
+I3
+sVthang
+p13
+I1
+sVsteadin
+p14
+I1
+sVhavin
+p15
+I1
+sVlets
+p16
+I2
+sVgoing
+p17
+I1
+sVwet
+p18
+I1
+sVme
+p19
+I6
+sVhit
+p20
+I5
+sVsong
+p21
+I1
+sVya
+p22
+I20
+sVbig
+p23
+I2
+sVwatch
+p24
+I1
+sVcoast
+p25
+I5
+sVbreak
+p26
+I22
+sVgame
+p27
+I5
+sVknow
+p28
+I4
+sVfoot
+p29
+I1
+sVlook
+p30
+I1
+sVlike
+p31
+I9
+sVtear
+p32
+I1
+sVrapper
+p33
+I1
+sVclown
+p34
+I1
+sVbay
+p35
+I1
+sVbag
+p36
+I1
+sVstupid
+p37
+I5
+sVtrap
+p38
+I1
+sVmean
+p39
+I1
+sVem
+p40
+I6
+sVankles
+p41
+I21
+sVnigga
+p42
+I4
+sVdeal
+p43
+I1
+sVthrowing
+p44
+I1
+sVthrowin
+p45
+I1
+sVfixture
+p46
+I1
+sVyeah
+p47
+I2
+sVcash
+p48
+I1
+sVcelebrating
+p49
+I1
+sVsee
+p50
+I4
+sVstreet
+p51
+I1
+sVdumb
+p52
+I16
+sVparking
+p53
+I1
+sVplayin
+p54
+I1
+sV80
+p55
+I1
+sVarm
+p56
+I1
+sVout
+p57
+I3
+sVgon
+p58
+I23
+sVrep
+p59
+I1
+sVmoon
+p60
+I1
+sVnutty
+p61
+I1
+sVmug
+p62
+I1
+sVwon
+p63
+I1
+sVgot
+p64
+I4
+sVcause
+p65
+I2
+sVberserk
+p66
+I1
+sVglowin
+p67
+I1
+sVjury
+p68
+I2
+sVtags
+p69
+I1
+sVcars
+p70
+I1
+sVnever
+p71
+I1
+sVmayne
+p72
+I1
+sVboss
+p73
+I1
+sVlet
+p74
+I2
+sVthrow
+p75
+I1
+sVboy
+p76
+I1
+sV36
+p77
+I1
+sVtour
+p78
+I1
+sVlo
+p79
+I1
+sVwhole
+p80
+I3
+sVsouth
+p81
+I1
+sVthats
+p82
+I1
+sVbrightling
+p83
+I1
+sVdont
+p84
+I3
+sVbrought
+p85
+I5
+sVballin
+p86
+I1
+sVhood
+p87
+I1
+sVwest
+p88
+I5
+sVthere
+p89
+I1
+sVhey
+p90
+I10
+sVmuch
+p91
+I1
+sVdamn
+p92
+I4
+sVstars
+p93
+I1
+sVmama
+p94
+I1
+sVcall
+p95
+I1
+sVhundred
+p96
+I1
+sVtycoon
+p97
+I1
+sVlot
+p98
+I2
+sVthat
+p99
+I2
+sVclub
+p100
+I2
+sVfuck
+p101
+I1
+sVboys
+p102
+I4
+sVeverywhere
+p103
+I2
+sVatlanta
+p104
+I4
+sVspirit
+p105
+I1
+sVrunnin
+p106
+I1
+sVe40
+p107
+I2
+sVmade
+p108
+I4
+sVroom
+p109
+I2
+sVpacman
+p110
+I1
+sVwork
+p111
+I1
+sVup
+p112
+I1
+sVbroads
+p113
+I1
+sVdirty
+p114
+I1
+sVbonafide
+p115
+I1
+sVgive
+p116
+I1
+sVrecognize
+p117
+I1
+sVit
+p118
+I5
+sVslap
+p119
+I1
+sVim
+p120
+I3
+sVtab
+p121
+I1
+sVseen
+p122
+I1
+sVbucks
+p123
+I1
+sVcheck
+p124
+I1
+sVshit
+p125
+I4
+sVbottles
+p126
+I1
+sVmil
+p127
+I1
+sVfloor
+p128
+I5
+sVna
+p129
+I23
+sVget
+p130
+I6
+sV40
+p131
+I1
+sVsick
+p132
+I1
+sVparty
+p133
+I1
+sVshawty
+p134
+I2
+sVpicture
+p135
+I1
+sVdesigner
+p136
+I1
+sVsingles
+p137
+I1
+sVprice
+p138
+I1
+sVretarded
+p139
+I5
+sVtown
+p140
+I1
+sVfresh
+p141
+I1
+sVcourt
+p142
+I2
+sVneck
+p143
+I1
+sVtrapper
+p144
+I1
+sVwell
+p145
+I4
+sVdoe
+p146
+I1
+sVcosts
+p147
+I1
+sVpennant
+p148
+I1
+sVwake
+p149
+I4
+sVspend
+p150
+I1
+sVcame
+p151
+I1
+s.

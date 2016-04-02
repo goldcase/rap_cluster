@@ -1,87 +1,616 @@
-"brooklyn" lyrics
-mc lyte lyrics
-"brooklyn"
-(brooklyn, brooklyn, brooklyn...)
-i got the intro along with the cash flow
-make all the bad boys seem like nymphos
-yeah, i'm hard, i get sexy like veronica
-i use sex as an instrument like the philharmonica
-no, i ain't tall, but i'm small and i'm slender
-ask him who's been in, shit is like tender
-if he didn't like it, then return to sender
-he didn't do that, it's too fat, he remembers
-never ever have i ever said i was good lookin
-just one bad-ass bitch from brooklyn
-not here to steal your loot, your coat, your rocks
-makin niggas drop whenever we hit the block
-they hear 'brooklyn', and we up to no good
-well, here we come, so there goes your neighborhood
-timbos scuffed up, sess bein puffed up
-mess with the wrong one, kid, you get ruffed up
-peace to my people in
-(brooklyn, brooklyn, brooklyn...)
-(you know the place)
-i got the rhythm that'll rip up shows
-blow down foes, they kill at will to get a taste of my flow
-vocally i rock locally and worldwide
-those that got bad wish they woulda never tried
-cause when you come from where i come from
-you gotta be tough
-cause niggas'll call your bluff quick enough
-cause if your hood is like my hood, you gotta think quick
-shit stink, niggas are slick, have you turnin tricks
-i gotta give it up to mr. cool j
-for givin up the props to the girls around the way
-it ain't safe after dark to throw a jam in the park
-if you wanna get naughty, bring your forty to the arc
-cause we get down when it comes to a jam
-just watch your backpocket, keep a eye on the man
-if your town is like my town, you don't wanna mess around
-wind up gettin bagged up, beat down
-peace to my people in
-(brooklyn, brooklyn, brooklyn...)
-(you know the place)
-everyhwere that i step they know my rep
-cause i'm sayin and doin ill shit they won't forget
-breakin down doors, although i never break laws
-come to a town that's yours, and i be rippin the whole tour
-comin hard for your section, slow up
-live in the flesh and about to blow up
-so yo, come down, and then get the fuck up
-looks are hooked, you lucked up, you're booked
-you gotta be hard, cause i ain't with softies
-hit, then you miss, gotta get offa this
-so come with your game, cause you can't be lame
-as soon as you walk, i'm forgettin your name
-as long as you know all that enter are equal
-straight from the lyte i send peace to my people
-(yeah)
-peace to my people
-(yeah)
-peace to my people
-peace to my people on the east coast
-peace to my people on the west
-peace to the people up north
-peace to the people down south
-peace to the people in brooklyn
-peace to the people in the bronx
-peace to my people in compton
-peace to my people goin uptown
-peace to my people in detroit
-peace to my people in houston
-peace to my people in philly
-peace to my people in boston
-peace to my people in jersey
-peace to my people in georgia
-peace to my people in philly
-peace to my people in richmond
-peace to my people in cali
-peace to my people in queens
-peace to my people goin uptown
-peace to my people in the islands
-peace to my people on the beach
-peace to my people in miami
-peace to my people
-i send peace to my people
-(you know the place)
-(brooklyn, brooklyn, brooklyn...)
+(dp1
+Vhouston
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVflesh
+p5
+I1
+sVhooked
+p6
+I1
+sVsoon
+p7
+I1
+sVforty
+p8
+I1
+sVbring
+p9
+I1
+sVkill
+p10
+I1
+sVlooks
+p11
+I1
+sVaint
+p12
+I3
+sVslow
+p13
+I1
+sVgivin
+p14
+I1
+sVsend
+p15
+I2
+sVenough
+p16
+I1
+sVruffed
+p17
+I1
+sVboston
+p18
+I1
+sVinstrument
+p19
+I1
+sVjam
+p20
+I2
+sVrhythm
+p21
+I1
+sVcash
+p22
+I1
+sVeast
+p23
+I1
+sVta
+p24
+I5
+sVgood
+p25
+I2
+sVhit
+p26
+I2
+sVaround
+p27
+I2
+sVyo
+p28
+I1
+sVget
+p29
+I7
+sVbeat
+p30
+I1
+sVbein
+p31
+I1
+sVsafe
+p32
+I1
+sVwatch
+p33
+I1
+sVfat
+p34
+I1
+sVcoast
+p35
+I1
+sVdark
+p36
+I1
+sVgame
+p37
+I1
+sVknow
+p38
+I5
+sVwalk
+p39
+I1
+sVcool
+p40
+I1
+sVwont
+p41
+I1
+sVoffa
+p42
+I1
+sVlike
+p43
+I7
+sVmiami
+p44
+I1
+sVcause
+p45
+I7
+sVbackpocket
+p46
+I1
+sVdrop
+p47
+I1
+sVdetroit
+p48
+I1
+sVrocks
+p49
+I1
+sVbad
+p50
+I2
+sVrock
+p51
+I1
+sVsmall
+p52
+I1
+sVsteal
+p53
+I1
+sVgettin
+p54
+I1
+sVneighborhood
+p55
+I1
+sVsofties
+p56
+I1
+sVpeople
+p57
+I29
+sVturnin
+p58
+I1
+sVhard
+p59
+I3
+sVyeah
+p60
+I3
+sVsex
+p61
+I1
+sVarc
+p62
+I1
+sVtender
+p63
+I1
+sVsouth
+p64
+I1
+sVsaid
+p65
+I1
+sVscuffed
+p66
+I1
+sVrep
+p67
+I1
+sVtimbos
+p68
+I1
+sVslick
+p69
+I1
+sVrichmond
+p70
+I1
+sVphilharmonica
+p71
+I1
+sVgoes
+p72
+I1
+sVprops
+p73
+I1
+sVgot
+p74
+I8
+sVever
+p75
+I2
+sVforgettin
+p76
+I1
+sVshows
+p77
+I1
+sVblow
+p78
+I2
+sVeye
+p79
+I1
+sVnever
+p80
+I3
+sVsess
+p81
+I1
+sVquick
+p82
+I2
+sVstep
+p83
+I1
+sValthough
+p84
+I1
+sVask
+p85
+I1
+sVsexy
+p86
+I1
+sValong
+p87
+I1
+sVcome
+p88
+I6
+sVthrow
+p89
+I1
+sVsayin
+p90
+I1
+sVfoes
+p91
+I1
+sVsender
+p92
+I1
+sVill
+p93
+I1
+sVbreakin
+p94
+I1
+sVbrooklyn
+p95
+I17
+sVslender
+p96
+I1
+sVkeep
+p97
+I1
+sVtour
+p98
+I1
+sVplace
+p99
+I3
+sVnymphos
+p100
+I1
+sVlookin
+p101
+I1
+sVbronx
+p102
+I1
+sVislands
+p103
+I1
+sVwhole
+p104
+I1
+sVthink
+p105
+I1
+sVblock
+p106
+I1
+sVthats
+p107
+I1
+sVnaughty
+p108
+I1
+sVtough
+p109
+I1
+sVdont
+p110
+I1
+sVmakin
+p111
+I1
+sVone
+p112
+I2
+sVdown
+p113
+I1
+sVpuffed
+p114
+I1
+sVbitch
+p115
+I1
+sVcomin
+p116
+I1
+sVuptown
+p117
+I2
+sVmiss
+p118
+I1
+sVhood
+p119
+I2
+sVwan
+p120
+I2
+sVuse
+p121
+I1
+sVfrom
+p122
+I1
+sVgoin
+p123
+I2
+sVlyte
+p124
+I2
+sVwest
+p125
+I1
+sVlocally
+p126
+I1
+sVgirls
+p127
+I1
+sVlong
+p128
+I1
+sVwhos
+p129
+I1
+sVcali
+p130
+I1
+sVlive
+p131
+I1
+sVcall
+p132
+I1
+sVway
+p133
+I1
+sVniggasll
+p134
+I1
+sVman
+p135
+I1
+sVbagged
+p136
+I1
+sVnorth
+p137
+I1
+sVname
+p138
+I1
+sVpark
+p139
+I1
+sVboys
+p140
+I1
+sVhear
+p141
+I1
+sVtown
+p142
+I3
+sVgeorgia
+p143
+I1
+sVmc
+p144
+I1
+sVniggas
+p145
+I2
+sVthis
+p146
+I1
+sVwish
+p147
+I1
+sVstraight
+p148
+I1
+sVj
+I1
+sVup
+p149
+I5
+sVmr
+p150
+I1
+sVloot
+p151
+I1
+sVdidnt
+p152
+I2
+sVremembers
+p153
+I1
+sVveronica
+p154
+I1
+sVstink
+p155
+I1
+sVcompton
+p156
+I1
+sVthatll
+p157
+I1
+sVgive
+p158
+I1
+sVtaste
+p159
+I1
+sVflow
+p160
+I2
+sVfuck
+p161
+I1
+sVrip
+p162
+I1
+sVequal
+p163
+I1
+sVcant
+p164
+I1
+sVintro
+p165
+I1
+sVim
+p166
+I5
+sVin
+p167
+I2
+sVreturn
+p168
+I1
+sVseem
+p169
+I1
+sVphilly
+p170
+I2
+sVshit
+p171
+I3
+sVlame
+p172
+I1
+sVna
+p173
+I2
+sVmake
+p174
+I1
+sVpeace
+p175
+I29
+sVrippin
+p176
+I1
+sVjersey
+p177
+I1
+sVlucked
+p178
+I1
+sVdoors
+p179
+I1
+sVbeach
+p180
+I1
+sVeveryhwere
+p181
+I1
+sVworldwide
+p182
+I1
+sVqueens
+p183
+I1
+sVtried
+p184
+I1
+sVmess
+p185
+I2
+sVdoin
+p186
+I1
+sVwrong
+p187
+I1
+sVwoulda
+p188
+I1
+sVbluff
+p189
+I1
+sVtall
+p190
+I1
+sVbadass
+p191
+I1
+sVkid
+p192
+I1
+sVbreak
+p193
+I1
+sVbooked
+p194
+I1
+sVwhenever
+p195
+I1
+sVcoat
+p196
+I1
+sVtricks
+p197
+I1
+sVyoure
+p198
+I1
+sVwell
+p199
+I1
+sVcomes
+p200
+I1
+sVenter
+p201
+I1
+sVvocally
+p202
+I1
+sVsection
+p203
+I1
+sVwind
+p204
+I1
+sVlaws
+p205
+I1
+s.

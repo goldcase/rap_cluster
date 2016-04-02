@@ -1,48 +1,449 @@
-"it wasn't us" lyrics
-ludacris lyrics
-"it wasn't us"
-they wanna know why i hit like that, spit like that,
-shit like that, maybe because i get like that,
-kick like that, rip like that
-they wanna know why i rhyme like that, shine like that,
-climb like that, cuz the world is mine like that
-(yours like that) mine like that
-you can get your whole crews, even niggas that owe you
-they ain't paid you shit you can drink some cold brew
-and throw on them old shoes and jump in the whip
-you can come and find us, be right behind us and insert the clip
-you hear something that went "clack" "clack" "clack"
-somebody went down but it wasn't us
-you can settle 'bout two meals get hooked up with a good deal
-start stackin' dough you can ride your mobile
-get 20 inch big wheels and collect some hoes
-tou can even start eatin' good and smokin' good
-but you pressin' your luck and you say wha'
-somebody went bankrupt shiit but it wasn't us
-you can go to the drawing board just start from stratch
-all over again clean
-or you can tell a bunch of officers that i'm the one to catch
-but my niggas is the police
-you can try to blame me or even try to frame me but i'll make bail now
-somebody goin' to jail shit but it wasn't us
-you do track after track, and walls get plaque after plaque
-cd's on rack after rack no moe selling sac' after sac'
-you could've had that good life, good kids and a good wife
-it was yours to earn but the records stores gettin' returns
-shiit but it wasn't us
-you could be
-goin on worldwide tours and see your face on every magezine
-or you can flip to channel after channel
-and see that ass on the tv screen
-you can pay for expensive videos
-and have whole lot of big bootie hoes
-but when the shit start comin to a close
-shiiit but it wasn't us
-you can use your back-up plan, even call him your back-up man
-and start think'in quick
-you can call on your back-up hoes, even call the back-up pros
-and tell 'em to suck a dick
-and you tell just to get deez
-and you tell just to pay the fees
-and to pay their dues, and they catchin those std's
-shiit but it wasn't us
+(dp1
+Vstores
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVpros
+p6
+I1
+sVdough
+p7
+I1
+sVcds
+p8
+I1
+sVgo
+p9
+I1
+sVclimb
+p10
+I1
+sVcold
+p11
+I1
+sVbail
+p12
+I1
+sVfind
+p13
+I1
+sVbunch
+p14
+I1
+sVaint
+p15
+I1
+sV20
+p16
+I1
+sVtv
+p17
+I1
+sVdick
+p18
+I1
+sVcuz
+p19
+I1
+sVboard
+p20
+I1
+sVbout
+p21
+I1
+sVkick
+p22
+I1
+sVgood
+p23
+I6
+sVsomebody
+p24
+I3
+sVget
+p25
+I6
+sVbig
+p26
+I2
+sVrhyme
+p27
+I1
+sVrecords
+p28
+I1
+sVwalls
+p29
+I1
+sVpressin
+p30
+I1
+sVevery
+p31
+I1
+sVknow
+p32
+I2
+sVworld
+p33
+I1
+sVmoe
+p34
+I1
+sVthinkin
+p35
+I1
+sVinsert
+p36
+I1
+sVearn
+p37
+I1
+sVlike
+p38
+I12
+sVgettin
+p39
+I1
+sVtry
+p40
+I2
+sVcollect
+p41
+I1
+sVsettle
+p42
+I1
+sVquick
+p43
+I1
+sVtours
+p44
+I1
+sVwent
+p45
+I3
+sVrack
+p46
+I2
+sVluck
+p47
+I1
+sVem
+p48
+I1
+sVright
+p49
+I1
+sVold
+p50
+I1
+sVdeal
+p51
+I1
+sVframe
+p52
+I1
+sVfees
+p53
+I1
+sVpolice
+p54
+I1
+sVjump
+p55
+I1
+sVsee
+p56
+I2
+sVhoes
+p57
+I3
+sVsac
+p58
+I2
+sVwhip
+p59
+I1
+sVeven
+p60
+I5
+sVhooked
+p61
+I1
+sVbehind
+p62
+I1
+sVass
+p63
+I1
+sVscreen
+p64
+I1
+sVblame
+p65
+I1
+sVsmokin
+p66
+I1
+sVshiit
+p67
+I3
+sVcome
+p68
+I1
+sVthrow
+p69
+I1
+sVshine
+p70
+I1
+sVkids
+p71
+I1
+sVill
+p72
+I1
+sVdues
+p73
+I1
+sVeatin
+p74
+I1
+sVstratch
+p75
+I1
+sVwheels
+p76
+I1
+sVwhole
+p77
+I2
+sVbackup
+p78
+I4
+sVowe
+p79
+I1
+sVone
+p80
+I1
+sVclack
+p81
+I3
+sVcomin
+p82
+I1
+sVexpensive
+p83
+I1
+sVwan
+p84
+I2
+sVuse
+p85
+I1
+sVvideos
+p86
+I1
+sVtwo
+p87
+I1
+sVtou
+p88
+I1
+sVstart
+p89
+I5
+sVreturns
+p90
+I1
+sVcall
+p91
+I3
+sVlot
+p92
+I1
+sVcrews
+p93
+I1
+sVman
+p94
+I1
+sVtell
+p95
+I4
+sVlife
+p96
+I1
+sVselling
+p97
+I1
+sVspit
+p98
+I1
+sVthat
+p99
+I2
+sVcatchin
+p100
+I1
+sVhear
+p101
+I1
+sVcatch
+p102
+I1
+sVniggas
+p103
+I2
+sVride
+p104
+I1
+sVflip
+p105
+I1
+sVus
+p106
+I10
+sVmagezine
+p107
+I1
+sVcould
+p108
+I1
+sVdeez
+p109
+I1
+sVclip
+p110
+I1
+sVwasnt
+p111
+I8
+sVstackin
+p112
+I1
+sVmine
+p113
+I2
+sVrip
+p114
+I1
+sVbootie
+p115
+I1
+sVsay
+p116
+I1
+sVim
+p117
+I1
+sVsomething
+p118
+I1
+sVclose
+p119
+I1
+sVhit
+p120
+I1
+sVshit
+p121
+I4
+sVbankrupt
+p122
+I1
+sVna
+p123
+I2
+sVmake
+p124
+I1
+sVofficers
+p125
+I1
+sVstds
+p126
+I1
+sVinch
+p127
+I1
+sVyou
+p128
+I1
+sVchannel
+p129
+I2
+sVworldwide
+p130
+I1
+sVwha
+p131
+I1
+sVshiiit
+p132
+I1
+sVtrack
+p133
+I2
+sVdrink
+p134
+I1
+sVpaid
+p135
+I1
+sVcouldve
+p136
+I1
+sVplan
+p137
+I1
+sVsuck
+p138
+I1
+sVmeals
+p139
+I1
+sVgoin
+p140
+I2
+sVwife
+p141
+I1
+sVmobile
+p142
+I1
+sVmaybe
+p143
+I1
+sVface
+p144
+I1
+sVjail
+p145
+I1
+sVclean
+p146
+I1
+sVpay
+p147
+I3
+sVbrew
+p148
+I1
+sVdrawing
+p149
+I1
+sVplaque
+p150
+I2
+s.

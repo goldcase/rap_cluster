@@ -1,54 +1,335 @@
-"respect it or check it" lyrics
-50 cent lyrics
-"respect it or check it"
-"forever king"!
-some niggaz jus' wanna smoke! - some niggaz wanna smoke niggaz...
-some niggaz sell coke! - some niggaz sellin' dope nigga...  {come on!}
-we all hood, different pedigrees
-now! - che-che-che-che- check out my melody!
-you fuck around i catch a felony...
-now! - che-che-che-che- check out my melody! {let's go!}
-since a little nigga i been on my own
-me, i hold a chrome, you don't think,
-so respect it or check it nigga!
-that shorty shit is over now i'm grown
-me, i'm full blown, you don't think,
-so respect it or check it nigga!
-i don't know if i'm worse when i'm rich or when i'm broke niggaz
-same attitude you got it go 'head smoke nigga!
-i'm fuckin' with a blonde bitch i got my own fragrance
-power by 50 goddamn it i think i made it! {haha!}
-i tried to keep it basic, they wanna complicate shit,
-the feds on my phone that's why i don't ever say shit.
-portray bein' a friend to me and i'll make you a memory,
-the .40 cali burn you be smokin' like a chimney!  {damn!}
-niggaz sick of pussy shit and me i'm jus' a remedy!
-'03 "get rich", nigga you remember me?
-ayo pull that back, man!
-ayo play that again man, youkno'msayin'?
-can't forget... thisis50.com!
-some ni...  {bring it back!}
-some niggaz jus' wanna smoke! - some niggaz wanna smoke niggaz...  {damn!}
-some niggaz sell coke! - some niggaz sellin' dope nigga...  {damn!}
-we all hood, different pedigrees
-now! - che-che-che-che- check out my melody!
-you fuck around i catch a felony...
-now! - che-che-che-che- check out my melody! {whoooooooooooooooooo kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiid!}
-since a little nigga i been on my own
-me, i hold a chrome, you don't think,
-so respect it or check it nigga!
-that shorty shit is over now i'm grown
-me, i'm full blown, you don't think,
-so respect it or check it nigga!  {shadyville!}
-i don't know if i'm worse when i'm rich or when i'm broke niggaz
-same attitude you got it go 'head smoke nigga!
-i'm fuckin' with a blonde bitch i got my own fragrance
-power by 50, goddamn it; i think i made it!
-i tried to keep it basic, they wanna complicate shit,
-the feds on my phone that's why i don't ever say shit.
-portray bein' a friend to me and i'll make you a memory,
-the .40 cali burn you be smokin' like a chimney!
-niggaz sick of pussy shit and me i'm jus' a remedy!
-'03 "get rich", nigga you remember me?
-shorty rock her hips she get to lookin' like a entree
-bad bitch phat ass bouncin' it' like beyonc
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVbring
+p4
+I1
+sVattitude
+p5
+I2
+sVgo
+p6
+I3
+sVmelody
+p7
+I4
+sVcomplicate
+p8
+I2
+sVlets
+p9
+I1
+sVrich
+p10
+I4
+sVworse
+p11
+I2
+sVget
+p12
+I3
+sVbein
+p13
+I2
+sVremedy
+p14
+I2
+sVknow
+p15
+I2
+sVchimney
+p16
+I2
+sVlike
+p17
+I4
+sV50
+p18
+I3
+sVbad
+p19
+I1
+sVrock
+p20
+I1
+sVnigga
+p21
+I12
+sVgoddamn
+p22
+I2
+sVback
+p23
+I2
+sVbeyonc
+p24
+I1
+sV03
+p25
+I2
+sVsince
+p26
+I2
+sVwhoooooooooooooooooo
+p27
+I1
+sVgot
+p28
+I4
+sVever
+p29
+I2
+sVass
+p30
+I1
+sVfull
+p31
+I2
+sVpower
+p32
+I2
+sVfelony
+p33
+I2
+sVburn
+p34
+I2
+sVyouknomsayin
+p35
+I1
+sVayo
+p36
+I2
+sVsmokin
+p37
+I2
+sVcome
+p38
+I1
+sVon
+p39
+I1
+sVbouncin
+p40
+I1
+sVill
+p41
+I2
+sVkeep
+p42
+I2
+sVgrown
+p43
+I2
+sVsmoke
+p44
+I6
+sVthink
+p45
+I6
+sVfuckin
+p46
+I2
+sVthats
+p47
+I2
+sVlookin
+p48
+I1
+sVown
+p49
+I2
+sVdont
+p50
+I8
+sVblown
+p51
+I2
+sVpussy
+p52
+I2
+sVbitch
+p53
+I3
+sVrespect
+p54
+I6
+sVblonde
+p55
+I2
+sVhood
+p56
+I2
+sVwan
+p57
+I6
+sVlittle
+p58
+I2
+sVchrome
+p59
+I2
+sVcent
+p60
+I1
+sVshadyville
+p61
+I1
+sVcali
+p62
+I2
+sVdamn
+p63
+I3
+sVfragrance
+p64
+I2
+sVbasic
+p65
+I2
+sVman
+p66
+I2
+sVpedigrees
+p67
+I2
+sVfriend
+p68
+I2
+sVhead
+p69
+I2
+sVcoke
+p70
+I2
+sVmemory
+p71
+I2
+sVhaha
+p72
+I1
+sVshorty
+p73
+I3
+sVfuck
+p74
+I2
+sVjus
+p75
+I4
+sVbroke
+p76
+I2
+sVcatch
+p77
+I2
+sVhold
+p78
+I2
+sVme
+p79
+I1
+sVking
+p80
+I1
+sVmade
+p81
+I2
+sVcant
+p82
+I1
+sVniggaz
+p83
+I14
+sVphat
+p84
+I1
+sVit
+p85
+I2
+sVsay
+p86
+I2
+sVim
+p87
+I14
+sVcheck
+p88
+I10
+sVshit
+p89
+I8
+sVaround
+p90
+I2
+sVsell
+p91
+I2
+sVni
+p92
+I1
+sVdifferent
+p93
+I2
+sVchechecheche
+p94
+I4
+sVsellin
+p95
+I2
+sVna
+p96
+I6
+sVmake
+p97
+I2
+sV40
+p98
+I2
+sVthisis50com
+p99
+I1
+sVsick
+p100
+I2
+sVdope
+p101
+I2
+sVportray
+p102
+I2
+sVplay
+p103
+I1
+sVentree
+p104
+I1
+sVtried
+p105
+I2
+sVfeds
+p106
+I2
+sVpull
+p107
+I1
+sVforever
+p108
+I1
+sVremember
+p109
+I2
+sVphone
+p110
+I2
+sVkiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiid
+p111
+I1
+sVhips
+p112
+I1
+s.

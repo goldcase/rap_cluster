@@ -1,85 +1,704 @@
-"i do it for hip hop" lyrics
-ludacris lyrics
-"i do it for hip hop"
-(feat. nas, jay-z)
-i do it for hip-hop
-i do it for hip-hop
-yeah, i do it for hip-hop
-now this is what they call poetry in motion
-my soul bleeds on the paper, heart screams with emotion
-this my daily devotion, that verses stay deeper than the ocean
-so hip-hop you owe me a promotion
-yeah, i do a little boastin’ and braggin’
-what’s all the commotion and naggin’ about
-‘cause i’m still the champ in the south
-‘cause rappers get in the booth and i keep draggin’ them out
-where they fired and these pink slips i keep handin’ them out
-‘cause this is theater of mind, consider it a sign
-of what’s to come next, my money’s just fine
-bank filled with dump checks
-terrorist threat flow, proceed to drop (bombs) like mr. funk flex
-but i don’t do it for the money, i do it from the heart
-i’ll do it with the beatbox, i did it from the start
-i’ll do it for the djs, i’ll do it for the charts
-the van gogh flow, luda do it ‘cause it’s art
-i do it for the fans, i do it on command
-i do it for the front row, i do it for the stands
-i spit it for the hood, i do it for the block
-and since nine years old, i did it for hip-hop
-so, i don’t do for the chains and the fancy drops
-i do it for hip-hop
-i do it for hip-hop
-i do it for hip-hop
-and i don’t do for the chains and the flashin’ rocks
-i do it for hip-hop
-i do it for hip-hop
-i do it for hip-hop
-they say i’m so low key, i’m socially awkward
-only those that really know me are the ones that i talk with
-they smile in the light, hate in the dark,
-you call it beef, to me its's just a fuckin’ walk in the park
-because you are who you are when nobody is looking
-that's who you are so when the cash and cars is gone, the day after tomorrow
-don’t be askin’ to borrow, ski maskin’ it hard, like the way you rap in your bars
-i could ride on you and whoever, devise new endeavors
-i’m as live as hive full of predators
-twenty thousands different species of bees
-some half poisonous sting, some just pollinating their leafs
-it's just like rap, some will buzz some will attack, compromising their own life in fact
-sixteen years since my first sixteen, pardon the rest of my niggas
-but i’m the best whoever did it
-i don’t do for the cars and the fancy drops
-uh, i do it for hip-hop
-yeah, i do it for hip-hop, uh
-i do it for hip-hop
-and i don’t do for the chains and the flashin’ rocks
-why we do it kid, i do it for hip-hop
-yeah, i do it for hip-hop, uh
-i do it for hip-hop
-hip-hop, started out in the park
-we used to do it to avoid the narcs
-i used to do it so the homeboy clark can get the fuck off my back while i knocked off these packs
-i used to rap to impress my friends
-the past of time when i was gettin’ it in
-just so happens i’m so illegal with the pen, they ain’t want me to do anything illegal again
-i lost a lot of dawgs to these streets
-i got grammy awards on these beats
-thank god for cool herc
-without this shit i probably would’ve got murked
-shout outs to grandmaster flash and the cash
-and even jaz bum ass
-hip hop helped me wash my rocks
-these other rappers couldn’t wash my socks
-that’s why i took the number one slot
-the realest shit in rap comes from my voice box
-lord knows when i was on my clock
-i probably never would’ve stopped
-thank god for hip-hop
-i don’t do for the cars and the fancy drops
-i do it for hip-hop
-i do it for hip-hop
-i do it for hip-hop
-and i don’t do for the chains and the flashin’ rocks
-come on, i do it for hip-hop
-i do it for hip-hop
-i do it for hip-hop
+(dp1
+Vrealest
+p2
+I1
+sVconsider
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVmoney
+p6
+I1
+sVhalf
+p7
+I1
+sVrest
+p8
+I1
+sVyears
+p9
+I2
+sVverses
+p10
+I1
+sVpaper
+p11
+I1
+sVfact
+p12
+I1
+sVitss
+p13
+I1
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVrow
+p16
+I1
+sVone
+p17
+I1
+sVdjs
+p18
+I1
+sVjaz
+p19
+I1
+sVpardon
+p20
+I1
+sVgot
+p21
+I2
+sVit\u2019s
+p22
+I1
+sVcouldn\u2019t
+p23
+I1
+sVpen
+p24
+I1
+sVshout
+p25
+I1
+sVwant
+p26
+I1
+sVcash
+p27
+I2
+sVsmile
+p28
+I1
+sVwould\u2019ve
+p29
+I2
+sVski
+p30
+I1
+sVhip
+p31
+I3
+sVflex
+p32
+I1
+sVflashin\u2019
+p33
+I3
+sVget
+p34
+I2
+sVi\u2019m
+p35
+I6
+sVsocially
+p36
+I1
+sVhate
+p37
+I1
+sVdark
+p38
+I1
+sVflash
+p39
+I1
+sVones
+p40
+I1
+sVknow
+p41
+I1
+sVgogh
+p42
+I1
+sVfront
+p43
+I1
+sVsixteen
+p44
+I2
+sVcomes
+p45
+I1
+sVday
+p46
+I1
+sVbank
+p47
+I1
+sVcool
+p48
+I1
+sVlike
+p49
+I3
+sVlost
+p50
+I1
+sVdrop
+p51
+I1
+sVborrow
+p52
+I1
+sVhive
+p53
+I1
+sVrocks
+p54
+I4
+sVstopped
+p55
+I1
+sVpredators
+p56
+I1
+sVbombs
+p57
+I1
+sVbeats
+p58
+I1
+sVain\u2019t
+p59
+I1
+sVbars
+p60
+I1
+sVmoney\u2019s
+p61
+I1
+sVart
+p62
+I1
+sVfired
+p63
+I1
+sVdump
+p64
+I1
+sVthat\u2019s
+p65
+I1
+sVhard
+p66
+I1
+sVyeah
+p67
+I4
+sVsign
+p68
+I1
+sVpast
+p69
+I1
+sVbooth
+p70
+I1
+sVgettin\u2019
+p71
+I1
+sVbest
+p72
+I1
+sVout
+p73
+I2
+sVhappens
+p74
+I1
+sVsocks
+p75
+I1
+sVouts
+p76
+I1
+sVstands
+p77
+I1
+sVclock
+p78
+I1
+sVfine
+p79
+I1
+sVpoisonous
+p80
+I1
+sVsince
+p81
+I2
+sVlooking
+p82
+I1
+sVherc
+p83
+I1
+sVfans
+p84
+I1
+sVlord
+p85
+I1
+sVmaskin\u2019
+p86
+I1
+sVnine
+p87
+I1
+sVchains
+p88
+I4
+sVchecks
+p89
+I1
+sVfilled
+p90
+I1
+sVass
+p91
+I1
+sVslot
+p92
+I1
+sVfull
+p93
+I1
+sVscreams
+p94
+I1
+sVbeatbox
+p95
+I1
+sVcars
+p96
+I3
+sVnever
+p97
+I1
+sVaskin\u2019
+p98
+I1
+sVawards
+p99
+I1
+sVkey
+p100
+I1
+sVstay
+p101
+I1
+sVcome
+p102
+I2
+sVthank
+p103
+I2
+sVbox
+p104
+I1
+sVabout
+p105
+I1
+sVvoice
+p106
+I1
+sVanything
+p107
+I1
+sVgod
+p108
+I2
+sVcould
+p109
+I1
+sVkeep
+p110
+I2
+sVmotion
+p111
+I1
+sVthreat
+p112
+I1
+sVbuzz
+p113
+I1
+sVillegal
+p114
+I2
+sVpromotion
+p115
+I1
+sVpollinating
+p116
+I1
+sVbleeds
+p117
+I1
+sVsouth
+p118
+I1
+sVthats
+p119
+I1
+sVemotion
+p120
+I1
+sVcompromising
+p121
+I1
+sVgrammy
+p122
+I1
+sVclark
+p123
+I1
+sVgone
+p124
+I1
+sVowe
+p125
+I1
+sVnumber
+p126
+I1
+sVfancy
+p127
+I3
+sVwalk
+p128
+I1
+sVwash
+p129
+I2
+sVjayz
+p130
+I1
+sVchamp
+p131
+I1
+sVwhoever
+p132
+I2
+sVold
+p133
+I1
+sVnaggin\u2019
+p134
+I1
+sVtomorrow
+p135
+I1
+sVhood
+p136
+I1
+sVlittle
+p137
+I1
+sVvan
+p138
+I1
+sVproceed
+p139
+I1
+sVbeef
+p140
+I1
+sVtwenty
+p141
+I1
+sVcharts
+p142
+I1
+sVnext
+p143
+I1
+sVstart
+p144
+I1
+sVlive
+p145
+I1
+sVbees
+p146
+I1
+sVcall
+p147
+I2
+sVdon\u2019t
+p148
+I8
+sVi\u2019ll
+p149
+I3
+sVlow
+p150
+I1
+sVslips
+p151
+I1
+sVlife
+p152
+I1
+sVstreets
+p153
+I1
+sVdeeper
+p154
+I1
+sVspit
+p155
+I1
+sV\u2018cause
+p156
+I4
+sVstarted
+p157
+I1
+sVnobody
+p158
+I1
+sVpark
+p159
+I2
+sVtook
+p160
+I1
+sVfuck
+p161
+I1
+sVbum
+p162
+I1
+sVprobably
+p163
+I2
+sVwith
+p164
+I1
+sVfunk
+p165
+I1
+sVniggas
+p166
+I1
+sVthousands
+p167
+I1
+sVride
+p168
+I1
+sVsoul
+p169
+I1
+sVwhat\u2019s
+p170
+I2
+sVuh
+p171
+I3
+sVmr
+p172
+I1
+sVknocked
+p173
+I1
+sVdrops
+p174
+I3
+sVdevotion
+p175
+I1
+sVluda
+p176
+I1
+sVheart
+p177
+I2
+sVleafs
+p178
+I1
+sVdevise
+p179
+I1
+sVmind
+p180
+I1
+sVit
+p181
+I1
+sVsting
+p182
+I1
+sVhelped
+p183
+I1
+sVsay
+p184
+I1
+sVway
+p185
+I1
+sVgrandmaster
+p186
+I1
+sVrap
+p187
+I4
+sVin
+p188
+I1
+sVspecies
+p189
+I1
+sVshit
+p190
+I2
+sVknows
+p191
+I1
+sVpink
+p192
+I1
+sVagain
+p193
+I1
+sVdifferent
+p194
+I1
+sVterrorist
+p195
+I1
+sVawkward
+p196
+I1
+sVpacks
+p197
+I1
+sVcommotion
+p198
+I1
+sVpoetry
+p199
+I1
+sVhomeboy
+p200
+I1
+sVnas
+p201
+I1
+sVwithout
+p202
+I1
+sVhop
+p203
+I3
+sVnew
+p204
+I1
+sVreally
+p205
+I1
+sVhandin\u2019
+p206
+I1
+sVeven
+p207
+I1
+sVused
+p208
+I3
+sVfuckin\u2019
+p209
+I1
+sVimpress
+p210
+I1
+sVrappers
+p211
+I2
+sVendeavors
+p212
+I1
+sVbraggin\u2019
+p213
+I1
+sVhiphop
+p214
+I25
+sVlot
+p215
+I1
+sVattack
+p216
+I1
+sVnarcs
+p217
+I1
+sVboastin\u2019
+p218
+I1
+sVfriends
+p219
+I1
+sVkid
+p220
+I1
+sVtheater
+p221
+I1
+sVdraggin\u2019
+p222
+I1
+sVlight
+p223
+I1
+sVflow
+p224
+I2
+sVdaily
+p225
+I1
+sVocean
+p226
+I1
+sVmurked
+p227
+I1
+sVdawgs
+p228
+I1
+sVcommand
+p229
+I1
+sVblock
+p230
+I1
+sVback
+p231
+I1
+sVtime
+p232
+I1
+sVfirst
+p233
+I1
+sVavoid
+p234
+I1
+sVtalk
+p235
+I1
+s.

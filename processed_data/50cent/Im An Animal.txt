@@ -1,71 +1,594 @@
-"i'm an animal" lyrics
-50 cent lyrics
-"i'm an animal"
-yeah,
-this is gonna hurt you this time
-gon’ see if y’all niggas can survive to second round
-you said what?!
-it’s over boy!
-it’s like a  murder inc clearance sale…
-ask about me
-they’ll tell you i’m an animal, an animal
-you touch one of mines i’ll react like an animal, an animal
-they say i have no conscience
-i’ll kill if i have to, y’all
-they say i’m an animal
-sometimes a nigga cross the line and he got to go
-move on him like an animal
-nigga don't talk to me if you ain't in my bracket
-100 mil, that's 60 after taxes
-i was a little dirty nigga flipping my mattress
-sneakers fuck up til i started pumping packs, kid
-beefin' with the older niggas getting my ass kicked
-bought a little .380 i stopped all that shit
-back on that bullshit you know i’ve been on
-riding with the same 9 tre used to kill bon
-niggas dead serious, niggas though we was playin
-picture me laughing in the crib after tre shot wayne
-southside ain't southside without the team
-niggas starving i feed em they'll ride for me
-when feds come, nigga shit gets funky
-irv love preme he fittin' to be his bunkee
-in a park full of kids, i pop of the mack
-they see the flare from the nozzle and scatter like rats
-i know the police is listening, this is for the d's
-me and star was cool & i ain't hit cheese
-signed a deal and made a mil before bags got shot
-made 20 more 'fore tah-tah got knocked
-man this rap shit is me b, i got this locked
-treat it just like the block workout non-stop
-i dazzle with the footwork, maneuver with the heat
-think boy or get your brains left in the street
-yeah the stick-up kids say it’s out the tax,
-but i get your shines back for you homie, relax
-i send my little shooters right at 'em with gats
-hit 'em so hard they gonna send that back
-you know i know who ran up in your crib
-the first thing they do is holla at the kid
-they say 50 fucked with us man, we poor need work
-they need niggas like us to do their dirt.
-ask about me
-they’ll tell you i’m an animal, an animal
-you touch one of mines i’ll react like an animal, an animal
-they say i have no conscience i’ll kill if i have to, y’all
-they say i’m an animal
-sometimes a nigga cross the line and he got to go
-move on him like an animal
-yeah
-nigga what?!
-get a good look nigga!
-see the flash of my diamonds and shit nigga!
-hahaha
-ridin back since this shit cost more than yo momma house
-you’re fucking playing with me nigga?
-i came up hard nigga!
-you already know what i’m about!
-what?! hahaha…
-aye,
-aye tell preme
-that if he send me a written apology
-we can squash this shit
-naaww nigga…we ain’t squashing this shit
+(dp1
+Vsince
+p2
+I1
+sVshot
+p3
+I2
+sVbeefin
+p4
+I1
+sVlyrics
+p5
+I2
+sVmove
+p6
+I2
+sVpreme
+p7
+I2
+sVds
+p8
+I1
+sValready
+p9
+I1
+sVkill
+p10
+I3
+sVgo
+p11
+I2
+sVaint
+p12
+I3
+sVpolice
+p13
+I1
+sVit\u2019s
+p14
+I3
+sVwritten
+p15
+I1
+sVsend
+p16
+I3
+sVmattress
+p17
+I1
+sVwayne
+p18
+I1
+sVriding
+p19
+I1
+sVfirst
+p20
+I1
+sVstarving
+p21
+I1
+sVgood
+p22
+I1
+sVhit
+p23
+I2
+sVyo
+p24
+I1
+sVget
+p25
+I3
+sVi\u2019m
+p26
+I5
+sVworkout
+p27
+I1
+sVsquashing
+p28
+I1
+sVstickup
+p29
+I1
+sVb
+I1
+sVknow
+p30
+I5
+sVlistening
+p31
+I1
+sVsouthside
+p32
+I2
+sVbullshit
+p33
+I1
+sVcool
+p34
+I1
+sVlike
+p35
+I8
+sVtre
+p36
+I2
+sV50
+p37
+I2
+sVtaxes
+p38
+I1
+sVstopped
+p39
+I1
+sVlaughing
+p40
+I1
+sVteam
+p41
+I1
+sVshooters
+p42
+I1
+sVround
+p43
+I1
+sVem
+p44
+I3
+sVfittin
+p45
+I1
+sVnigga
+p46
+I10
+sVrats
+p47
+I1
+sVdeal
+p48
+I1
+sVmaneuver
+p49
+I1
+sVfucking
+p50
+I1
+sVhouse
+p51
+I1
+sVhard
+p52
+I2
+sVyeah
+p53
+I3
+sVdead
+p54
+I1
+sVyou\u2019re
+p55
+I1
+sVtouch
+p56
+I2
+sVsee
+p57
+I3
+sVfull
+p58
+I1
+sVus
+p59
+I2
+sVplayin
+p60
+I1
+sVconscience
+p61
+I2
+sVwhat
+p62
+I2
+sVgon
+p63
+I2
+sVboy
+p64
+I2
+sVmines
+p65
+I2
+sVirv
+p66
+I1
+sVhahaha\u2026
+p67
+I1
+sVsneakers
+p68
+I1
+sVdiamonds
+p69
+I1
+sVgot
+p70
+I5
+sVain\u2019t
+p71
+I1
+sVbought
+p72
+I1
+sVass
+p73
+I1
+sVtahtah
+p74
+I1
+sVkicked
+p75
+I1
+sVdirt
+p76
+I1
+sVpumping
+p77
+I1
+sVridin
+p78
+I1
+sV380
+p79
+I1
+sVask
+p80
+I2
+sV20
+p81
+I1
+sV100
+p82
+I1
+sVcome
+p83
+I1
+sVon
+p84
+I1
+sVabout
+p85
+I1
+sVkids
+p86
+I2
+sVgetting
+p87
+I1
+sVflare
+p88
+I1
+sVbunkee
+p89
+I1
+sVthing
+p90
+I1
+sVfunky
+p91
+I1
+sVbon
+p92
+I1
+sVi\u2019ve
+p93
+I1
+sVthink
+p94
+I1
+sVblock
+p95
+I1
+sVthats
+p96
+I1
+sVfeed
+p97
+I1
+sVcheese
+p98
+I1
+sVflash
+p99
+I1
+sVlove
+p100
+I1
+sVdont
+p101
+I1
+sVthey\u2019ll
+p102
+I2
+sVflipping
+p103
+I1
+sVcrib
+p104
+I2
+sVone
+p105
+I2
+sV60
+p106
+I1
+sVfucked
+p107
+I1
+sVpop
+p108
+I1
+sVright
+p109
+I1
+sVcost
+p110
+I1
+sVholla
+p111
+I1
+sVlittle
+p112
+I3
+sVaye
+p113
+I2
+sVhomie
+p114
+I1
+sVcent
+p115
+I1
+sVtreat
+p116
+I1
+sVi\u2019ll
+p117
+I4
+sVsurvive
+p118
+I1
+sVman
+p119
+I2
+sVtell
+p120
+I3
+sVback
+p121
+I4
+sVmurder
+p122
+I1
+sVpacks
+p123
+I1
+sVstarted
+p124
+I1
+sVbrains
+p125
+I1
+sVpark
+p126
+I1
+sVsquash
+p127
+I1
+sVfore
+p128
+I1
+sVhurt
+p129
+I1
+sVheat
+p130
+I1
+sVline
+p131
+I2
+sVme
+p132
+I3
+sVmade
+p133
+I2
+sVlocked
+p134
+I1
+sVlook
+p135
+I1
+sVniggas
+p136
+I6
+sVride
+p137
+I1
+sVwork
+p138
+I1
+sVsecond
+p139
+I1
+sVsigned
+p140
+I1
+sVy\u2019all
+p141
+I3
+sVstreet
+p142
+I1
+sVdirty
+p143
+I1
+sVhahaha
+p144
+I1
+sVknocked
+p145
+I1
+sVscatter
+p146
+I1
+sVran
+p147
+I1
+sVnozzle
+p148
+I1
+sVtax
+p149
+I1
+sVfuck
+p150
+I1
+sVsay
+p151
+I6
+sVfootwork
+p152
+I1
+sVim
+p153
+I2
+sVrap
+p154
+I1
+sVneed
+p155
+I2
+sVshines
+p156
+I1
+sVshit
+p157
+I7
+sVinc
+p158
+I1
+sVbags
+p159
+I1
+sVdazzle
+p160
+I1
+sVtheyll
+p161
+I1
+sVmil
+p162
+I2
+sVna
+p163
+I2
+sVrelax
+p164
+I1
+sVcross
+p165
+I2
+sVgats
+p166
+I1
+sVtil
+p167
+I1
+sVwithout
+p168
+I1
+sVanimal
+p169
+I14
+sV9
+I1
+sVgets
+p170
+I1
+sVnonstop
+p171
+I1
+sVpoor
+p172
+I1
+sVpicture
+p173
+I1
+sVused
+p174
+I1
+sVstar
+p175
+I1
+sVthough
+p176
+I1
+sVnaaww
+p177
+I1
+sVreact
+p178
+I2
+sVsaid
+p179
+I1
+sVfeds
+p180
+I1
+sVsale\u2026
+p181
+I1
+sVmomma
+p182
+I1
+sVmack
+p183
+I1
+sVkid
+p184
+I2
+sVapology
+p185
+I1
+sVolder
+p186
+I1
+sVsometimes
+p187
+I2
+sVnigga\u2026we
+p188
+I1
+sVplaying
+p189
+I1
+sVbracket
+p190
+I1
+sVcame
+p191
+I1
+sVtime
+p192
+I1
+sVserious
+p193
+I1
+sVclearance
+p194
+I1
+sVgon\u2019
+p195
+I1
+sVtalk
+p196
+I1
+sVleft
+p197
+I1
+s.

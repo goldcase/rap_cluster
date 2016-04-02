@@ -1,36 +1,307 @@
-"i'd rather fuck you" lyrics
-n.w.a. lyrics
-"i'd rather fuck you"
-aaaah, this is one of them songs
-you can kick back and smoke a joint to.
-and get real fucked up.
-i like to dedicate this one to all the lovely young ladies out there.
-oh me? i'm eazy e, alias a whole taming motherfucker.
-and i want all you ladies to know something...
-i'd rather fuck with you all goddamn night,
-cause your pussy's good.
-now i'm fucking all your friends,
-cause you ran your mouth like i knew you would.
-you were bragging to your friends,
-saying "eazy e knows how to fuck".
-so bring your ass in here and give me some,
-so i can bust a but (go on and sing that shit).
-i'd rather fuck you, yeah (said i'd rather fuck with you)
-i'd rather fuck with you,
-cause i like the way you scream my name.
-i know you like this dick,
-cause you enjoy the pleasure and pain.
-now i'm riding on this pussy here,
-and i'm not gonna stop (i'm not gonna stop bitch).
-we can do it doggy style,
-and you can get on top (sing this motherfucker).
-whoo boy, i'd rather fuck with you, yeah (sing that song bitch).
-i need you baby, whoo, i'd rather fuck you, i'd rather fuck with you.
-i'd rather fuck with you,
-cause the other bitches wanna wine and dine (fuck all that).
-i better hurry up and bust a nut,
-cause it's check-out time.
-she said she wanted me to eat the pussy,
-well i think i'll pass (i don't think so).
-so get your ass up you funky bitch,
-and wash your ass (sing this motherfucking shit).
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVdine
+p4
+I1
+sVbring
+p5
+I1
+sVnwa
+p6
+I1
+sVgo
+p7
+I1
+sVstyle
+p8
+I1
+sVdick
+p9
+I1
+sVyoung
+p10
+I1
+sVbust
+p11
+I2
+sVbetter
+p12
+I1
+sVto
+p13
+I1
+sVriding
+p14
+I1
+sVkick
+p15
+I1
+sVreal
+p16
+I1
+sVgood
+p17
+I1
+sVget
+p18
+I3
+sVstop
+p19
+I2
+sVpussys
+p20
+I1
+sVknow
+p21
+I2
+sVlike
+p22
+I4
+sVname
+p23
+I1
+sVnight
+p24
+I1
+sVenjoy
+p25
+I1
+sVfucking
+p26
+I1
+sVgoddamn
+p27
+I1
+sVnut
+p28
+I1
+sVsome
+p29
+I1
+sVback
+p30
+I1
+sVpass
+p31
+I1
+sVsaid
+p32
+I2
+sVtaming
+p33
+I1
+sVdoggy
+p34
+I1
+sVcause
+p35
+I6
+sVass
+p36
+I3
+sVmotherfucker
+p37
+I2
+sVhere
+p38
+I1
+sVsing
+p39
+I4
+sVwanted
+p40
+I1
+sVboy
+p41
+I1
+sVoh
+p42
+I1
+sVill
+p43
+I1
+sVdedicate
+p44
+I1
+sVfunky
+p45
+I1
+sVsmoke
+p46
+I1
+sVwhole
+p47
+I1
+sVthink
+p48
+I2
+sVmotherfucking
+p49
+I1
+sVladies
+p50
+I2
+sVdont
+p51
+I1
+sVpussy
+p52
+I2
+sVone
+p53
+I2
+sVwash
+p54
+I1
+sVbitch
+p55
+I3
+sVwan
+p56
+I1
+sVwould
+p57
+I1
+sVtop
+p58
+I1
+sVthere
+p59
+I1
+sVwhoo
+p60
+I2
+sVway
+p61
+I1
+sVlovely
+p62
+I1
+sVcheckout
+p63
+I1
+sVknows
+p64
+I1
+sVthat
+p65
+I1
+sVbitches
+p66
+I1
+sVfuck
+p67
+I12
+sVbaby
+p68
+I1
+sVhurry
+p69
+I1
+sVeat
+p70
+I1
+sVup
+p71
+I1
+sVgive
+p72
+I1
+sVran
+p73
+I1
+sVeazy
+p74
+I2
+sVim
+p75
+I5
+sVsomething
+p76
+I1
+sVwant
+p77
+I1
+sVneed
+p78
+I1
+sVid
+p79
+I10
+sVshit
+p80
+I2
+sVrather
+p81
+I10
+sVna
+p82
+I3
+sVsong
+p83
+I1
+sVbragging
+p84
+I1
+sVyou
+p85
+I4
+sVpain
+p86
+I1
+sVknew
+p87
+I1
+sVaaaah
+p88
+I1
+sVgon
+p89
+I2
+sVmouth
+p90
+I1
+sVfucked
+p91
+I1
+sVfriends
+p92
+I2
+sVyeah
+p93
+I2
+sVe
+I2
+sVjoint
+p94
+I1
+sVwell
+p95
+I1
+sValias
+p96
+I1
+sVso
+p97
+I1
+sVtime
+p98
+I1
+sVpleasure
+p99
+I1
+sVsongs
+p100
+I1
+sVscream
+p101
+I1
+sVwine
+p102
+I1
+s.

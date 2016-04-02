@@ -1,72 +1,550 @@
-"act like you know" lyrics
-mc lyte lyrics
-"act like you know"
-moonroof open, in the b.m.
-windows tinted, they can't see in..
-..they know it's me though
-mc lyte, she's bigger than bolo
-gusto, gusto, i got so much so
-you could have some, you just got to lay low
-do as i say so and don't try to fess
-do whatcha wanna just clean up the mess
-i'm here, arrrrrruff, kick it in the rear
-rhymes and rhymes and rhymes i gots to spare
-act like you know
-the things that i do just ain't for show
-this is my living, so i am giving
-everything i got if not a lot more
-for the people, for the buyers
-for all of those that seem to want to try a
-mc lyte tape in your benzi box
-what can i say? hey, thanks a lot
-cause i'll flip and trip and do all that good shit
-that's why the brothers, they can't get off my tip
-they know whose show this is
-who's show is this?
-act like you know!
-act like you know!
-like i said, i'm in the b.m.
-swingin it solo, enjoyin my freedom
-turn the radio on, nuttin but weak raps
-slide the tape in, that's where it's at
-look up at the sign and i see winthrop
-can't hear nuttin so i turn down the hip-hop
-window down, reggae hit or somethin
-now hear a little shotty go pow-pow-pow
-brooklyn 90's, that's where i'm at
-reached to the back seat, get the baseball hat
-now i'm chillin so act like you know
-this is my show
-act like you know!
-act like you know!
-act like you know!
-"lyte that's right huh, she could win a rap fight"
-abra-cadabra, hocus pocus
-i got somethin that'll make your eyes focus
-takin on the world, slammin it and bangin it
-keepin it hard, but still i'm changin it
-breakin all types of grounds
-here comes wolf and epic with the new sound
-they get the job done
-the name of the year is lyte slash ninety-one
-so i'm chillin, in the b.m.
-waitin for those, that might see in
-straighten my jacket, fix my hair
-turn up the system, as i prepare
-to let the whole wide world know
-this is my show
-now that i've schooled you and put you up on the scoop
-posse or massive, solo or group
-take it in stride, it's an inside
-top secret heavy duty type of thing that i'm swingin
-i got the key to success but i won't press
-i'm sure that i can relieve you, of the stress
-if you ad-mit, and just per-mit
-me to go for mine and drop a line and ex-it
-so just agree with me and simply act like you know
-this is my show!
-act like you know!
-act like you know!
-act like you know!
-act like you know!
-act like you know!
+(dp1
+Vbenzi
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I6
+sVrelieve
+p5
+I1
+sVfocus
+p6
+I1
+sVradio
+p7
+I1
+sVthanks
+p8
+I1
+sVgo
+p9
+I2
+sVstill
+p10
+I1
+sVchillin
+p11
+I2
+sVaint
+p12
+I1
+sVwhose
+p13
+I1
+sVbuyers
+p14
+I1
+sVshotty
+p15
+I1
+sVgroup
+p16
+I1
+sVfix
+p17
+I1
+sVwindow
+p18
+I1
+sVtape
+p19
+I2
+sVrear
+p20
+I1
+sVhat
+p21
+I1
+sVkick
+p22
+I1
+sVwont
+p23
+I1
+sVgood
+p24
+I1
+sVhit
+p25
+I1
+sVslash
+p26
+I1
+sVget
+p27
+I3
+sVknow
+p28
+I18
+sVnew
+p29
+I1
+sVpress
+p30
+I1
+sVworld
+p31
+I2
+sVbigger
+p32
+I1
+sVname
+p33
+I1
+sVarrrrrruff
+p34
+I1
+sVlike
+p35
+I16
+sVsuccess
+p36
+I1
+sVdrop
+p37
+I1
+sVtry
+p38
+I2
+sVslide
+p39
+I1
+sVwhatcha
+p40
+I1
+sVdone
+p41
+I1
+sVheavy
+p42
+I1
+sVright
+p43
+I1
+sVnuttin
+p44
+I2
+sVpeople
+p45
+I1
+sVabracadabra
+p46
+I1
+sVback
+p47
+I1
+sVflip
+p48
+I1
+sVhair
+p49
+I1
+sVsee
+p50
+I3
+sVshes
+p51
+I1
+sVyear
+p52
+I1
+sVthing
+p53
+I1
+sVmight
+p54
+I1
+sVliving
+p55
+I1
+sVsaid
+p56
+I1
+sVgiving
+p57
+I1
+sVtakin
+p58
+I1
+sVposse
+p59
+I1
+sVeverything
+p60
+I1
+sVexit
+p61
+I1
+sVrap
+p62
+I1
+sVmoonroof
+p63
+I1
+sVgot
+p64
+I5
+sVepic
+p65
+I1
+sVcause
+p66
+I1
+sVsolo
+p67
+I2
+sVbm
+p68
+I3
+sVweak
+p69
+I1
+sVbolo
+p70
+I1
+sVjob
+p71
+I1
+sVspare
+p72
+I1
+sVkey
+p73
+I1
+sVput
+p74
+I1
+sVgots
+p75
+I1
+sVslammin
+p76
+I1
+sVbox
+p77
+I1
+sVfreedom
+p78
+I1
+sVcould
+p79
+I2
+sVbreakin
+p80
+I1
+sVgusto
+p81
+I2
+sVagree
+p82
+I1
+sVturn
+p83
+I3
+sVadmit
+p84
+I1
+sVwolf
+p85
+I1
+sVmassive
+p86
+I1
+sVninetyone
+p87
+I1
+sVact
+p88
+I15
+sVbaseball
+p89
+I1
+sVwhole
+p90
+I1
+sVcomes
+p91
+I1
+sVthats
+p92
+I4
+sVduty
+p93
+I1
+sVdont
+p94
+I1
+sVsimply
+p95
+I1
+sVwin
+p96
+I1
+sVsystem
+p97
+I1
+sVswingin
+p98
+I2
+sVchangin
+p99
+I1
+sVreached
+p100
+I1
+sVenjoyin
+p101
+I1
+sVopen
+p102
+I1
+sVthatll
+p103
+I1
+sVwan
+p104
+I1
+sVlittle
+p105
+I1
+sVprepare
+p106
+I1
+sVlyte
+p107
+I5
+sVtop
+p108
+I1
+sVpowpowpow
+p109
+I1
+sVseat
+p110
+I1
+sVhey
+p111
+I1
+sVwhos
+p112
+I1
+sVsecret
+p113
+I1
+sVmuch
+p114
+I1
+sVlow
+p115
+I1
+sVlot
+p116
+I2
+sVstraighten
+p117
+I1
+sVtype
+p118
+I1
+sVmore
+p119
+I1
+sVbrooklyn
+p120
+I1
+sVeyes
+p121
+I1
+sVhard
+p122
+I1
+sVhuh
+p123
+I1
+sVmine
+p124
+I1
+sVhear
+p125
+I2
+sVfess
+p126
+I1
+sVline
+p127
+I1
+sVsign
+p128
+I1
+sVsound
+p129
+I1
+sVwide
+p130
+I1
+sVlook
+p131
+I1
+sVmc
+p132
+I3
+sVthis
+p133
+I1
+sV90s
+p134
+I1
+sVinside
+p135
+I1
+sVtinted
+p136
+I1
+sVrhymes
+p137
+I3
+sVfight
+p138
+I1
+sVschooled
+p139
+I1
+sVill
+p140
+I1
+sVsay
+p141
+I2
+sVive
+p142
+I1
+sVwinthrop
+p143
+I1
+sVraps
+p144
+I1
+sVis
+p145
+I1
+sVit
+p146
+I2
+sVcant
+p147
+I3
+sVim
+p148
+I8
+sVat
+p149
+I2
+sVwant
+p150
+I1
+sVin
+p151
+I2
+sVseem
+p152
+I1
+sVtrip
+p153
+I1
+sVshit
+p154
+I1
+sVhocus
+p155
+I1
+sVlet
+p156
+I1
+sVstride
+p157
+I1
+sVthings
+p158
+I1
+sVmake
+p159
+I1
+sVtip
+p160
+I1
+sVtake
+p161
+I1
+sVpocus
+p162
+I1
+sVwaitin
+p163
+I1
+sVreggae
+p164
+I1
+sVsure
+p165
+I1
+sVbrothers
+p166
+I1
+sVthough
+p167
+I1
+sVmess
+p168
+I1
+sVpermit
+p169
+I1
+sVkeepin
+p170
+I1
+sVhiphop
+p171
+I1
+sVlay
+p172
+I1
+sVtypes
+p173
+I1
+sVa
+I1
+sVsomethin
+p174
+I2
+sVstress
+p175
+I1
+sVwindows
+p176
+I1
+sVbangin
+p177
+I1
+sVjacket
+p178
+I1
+sVscoop
+p179
+I1
+sVso
+p180
+I1
+sVclean
+p181
+I1
+sVna
+p182
+I1
+sVgrounds
+p183
+I1
+s.

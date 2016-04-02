@@ -1,80 +1,484 @@
-made america lyrics
-kanye west lyrics
-made america
-jayz
-feat frank ocean
-bring darkness
-sweet king martin
-sweet queen coretta
-sweet brother malcolm
-sweet queen betty
-sweet mother mary
-sweet father joseph
-sweet jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
-told mama come up
-said going school ill give summer
-met id gave number
-10 years later driving hummer
-niggas hustle every day beat ye
-turn around gave beats jay
-im rapping beat supposed buy
-guess im getting high supply
-downtown mixing fabrics trying find magic
-started little blog get traffic
-old folksll tell play traffic
-million hits web crashes – damn
-south park em laughing
-niggas designing swaggin
-ignore critics say it
-aint fashion show motherfucker live it
-sweet king martin
-sweet queen coretta
-sweet brother malcolm
-sweet queen betty
-sweet mother mary
-sweet father joseph
-sweet jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
-pledge allegiance uh grandma
-banana pudding piece americana
-apple pie supplied arm  hammer
-straight kitchen shh dont wake nana
-built republic still stands
-im trying lead nation leave little mans
-daughter im boiling water
-scales lopsided im restoring order
-hold comes grandma whats yaya
-whats smell oh im boiling agua
-papa bad santa
-streets raised pardon bad manners
-got liberty chopping grams up
-street justice pray god understand us
-pledge allegiance scramblers
-star spangled banner
-sweet king martin
-sweet queen coretta
-sweet brother malcolm
-sweet queen betty
-sweet mother mary
-sweet father joseph
-sweet jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
-sweet baby jesus ooh
-oh sweet baby jesus
-made america
+(dp1
+Vsummer
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVqueen
+p5
+I6
+sVyears
+p6
+I1
+sVbring
+p7
+I1
+sVmanners
+p8
+I1
+sVkanye
+p9
+I1
+sVstill
+p10
+I1
+sVfeat
+p11
+I1
+sVfind
+p12
+I1
+sVdont
+p13
+I1
+sVaint
+p14
+I1
+sVweb
+p15
+I1
+sVhold
+p16
+I1
+sVpardon
+p17
+I1
+sVjay
+p18
+I1
+sVjustice
+p19
+I1
+sVswaggin
+p20
+I1
+sVfather
+p21
+I3
+sVfabrics
+p22
+I1
+sVblog
+p23
+I1
+sVgoing
+p24
+I1
+sVgave
+p25
+I2
+sVliberty
+p26
+I1
+sVaround
+p27
+I1
+sVget
+p28
+I1
+sVbeat
+p29
+I2
+sVye
+p30
+I1
+sVagua
+p31
+I1
+sVallegiance
+p32
+I2
+sVevery
+p33
+I1
+sVmixing
+p34
+I1
+sVbanner
+p35
+I1
+sVday
+p36
+I1
+sVschool
+p37
+I1
+sVmagic
+p38
+I1
+sVbrother
+p39
+I3
+sVignore
+p40
+I1
+sVbad
+p41
+I2
+sVbetty
+p42
+I3
+sVmartin
+p43
+I3
+sVshh
+p44
+I1
+sVhustle
+p45
+I1
+sVem
+p46
+I1
+sVold
+p47
+I1
+sVpledge
+p48
+I2
+sVunderstand
+p49
+I1
+sVstreets
+p50
+I1
+sV\u2013
+I1
+sVstreet
+p51
+I1
+sVchopping
+p52
+I1
+sVspangled
+p53
+I1
+sVuh
+p54
+I1
+sVhammer
+p55
+I1
+sVarm
+p56
+I1
+sVscales
+p57
+I1
+sVstands
+p58
+I1
+sVsaid
+p59
+I1
+sVdarkness
+p60
+I1
+sVdriving
+p61
+I1
+sVnana
+p62
+I1
+sVgod
+p63
+I1
+sVsupplied
+p64
+I1
+sVdesigning
+p65
+I1
+sVgot
+p66
+I1
+sVrestoring
+p67
+I1
+sVtold
+p68
+I1
+sVhummer
+p69
+I1
+sVbanana
+p70
+I1
+sVrapping
+p71
+I1
+sVfrank
+p72
+I1
+sVmillion
+p73
+I1
+sVguess
+p74
+I1
+sVmotherfucker
+p75
+I1
+sVwater
+p76
+I1
+sVmet
+p77
+I1
+sVsanta
+p78
+I1
+sVgrandma
+p79
+I2
+sVcome
+p80
+I1
+sVkitchen
+p81
+I1
+sVhits
+p82
+I1
+sVmans
+p83
+I1
+sVdaughter
+p84
+I1
+sVgetting
+p85
+I1
+sVill
+p86
+I1
+sVturn
+p87
+I1
+sVpudding
+p88
+I1
+sVscramblers
+p89
+I1
+sVsouth
+p90
+I1
+sVking
+p91
+I3
+sVraised
+p92
+I1
+sVwhats
+p93
+I2
+sVapple
+p94
+I1
+sVamericana
+p95
+I1
+sVsupply
+p96
+I1
+sVsweet
+p97
+I33
+sVmalcolm
+p98
+I3
+sVnumber
+p99
+I1
+sVjesus
+p100
+I15
+sVjayz
+p101
+I1
+sVlittle
+p102
+I2
+sVwest
+p103
+I1
+sVlive
+p104
+I1
+sVjoseph
+p105
+I3
+sVdamn
+p106
+I1
+sVmama
+p107
+I1
+sVtell
+p108
+I1
+sVbuy
+p109
+I1
+sVstarted
+p110
+I1
+sVpark
+p111
+I1
+sVooh
+p112
+I6
+sVpie
+p113
+I1
+sVdowntown
+p114
+I1
+sVwake
+p115
+I1
+sVbaby
+p116
+I12
+sVtrying
+p117
+I2
+sVgrams
+p118
+I1
+sV10
+p119
+I1
+sVmade
+p120
+I11
+sVniggas
+p121
+I2
+sVleave
+p122
+I1
+sVstraight
+p123
+I1
+sVoh
+p124
+I7
+sVup
+p125
+I2
+sVus
+p126
+I1
+sVmary
+p127
+I3
+sVsupposed
+p128
+I1
+sVpiece
+p129
+I1
+sVsay
+p130
+I1
+sVfashion
+p131
+I1
+sVgive
+p132
+I1
+sVit
+p133
+I2
+sVhigh
+p134
+I1
+sVbeats
+p135
+I1
+sVim
+p136
+I6
+sVnation
+p137
+I1
+sVid
+p138
+I1
+sVlopsided
+p139
+I1
+sVbuilt
+p140
+I1
+sVrepublic
+p141
+I1
+sVsmell
+p142
+I1
+sVpray
+p143
+I1
+sVplay
+p144
+I1
+sVstar
+p145
+I1
+sVcrashes
+p146
+I1
+sVcritics
+p147
+I1
+sVpapa
+p148
+I1
+sVboiling
+p149
+I2
+sVamerica
+p150
+I11
+sVlaughing
+p151
+I1
+sVyaya
+p152
+I1
+sVlead
+p153
+I1
+sVcoretta
+p154
+I3
+sVlater
+p155
+I1
+sVocean
+p156
+I1
+sVcomes
+p157
+I1
+sVmother
+p158
+I3
+sVtraffic
+p159
+I2
+sVfolksll
+p160
+I1
+sVorder
+p161
+I1
+s.

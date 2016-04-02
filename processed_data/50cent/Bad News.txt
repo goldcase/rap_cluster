@@ -1,81 +1,660 @@
-"bad news" lyrics
-50 cent lyrics
-"bad news"
-lloyd banks in the house, bad news
-tony yayo in the house, bad news
-50 cent in the house, bad news whenever 50 around its bad news
-tray pound's in the house, bad news
-40 kal's in the house, bad news
-i got a knife in the house, bad news whenever 50 around its bad news
-i get little man mad cause i'm flossin' bad
-i ain't a wrestler, but i'll put your bitch the boston crab
-i talk money cause it costs to brag
-round here bitches walk round with hair that the horses had
-rap it get your face stuck on them bricks
-i don't really like to exercise but i'll push up on a bitch
-y'all sweet like 99 bananas
-that's why i got 99 niggaz wit 99 hammers
-they all want a nigga to stop
-cause i rap slick enough to slip the ring off of vivica fox
-i'm just a player that found out what the coaches know
-that's why i'm gonna be around longer than the oprah show
-you and your man y'all both should know
-that all it takes is a finger to send you where the ghosts go
-shit i been hated since the 5th grade
-that's why my best friend the tray pound, a ice pick, and a switch blade
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, banks' back at it again)
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, tony's back at it again)
-rule number one pick a target and study him for weeks
-see where they rest at and lay with their peeps
-now you got the drop, know their daily routine
-so the 2nd rule please leave the crime scene please
-3rd rule pick a day, 4th rule pick a time
-5th rule pick a fifth, 6th rule pick a nine
-and the seventh rule make sure your sidearm sweet
-so when the shootout you leave him 6 feet deep
-8th meet in a fast car with disguise
-use a ski mask with shades on your eyes
-9th rule don't say shit cause po-po listen
-fuck around you end up being stuck in the system
-and the 10th rule don't put a tag on a broken heart
-just put a toe-tag on your mark
-and rule number 11, you caught a body but you not a legend
-you better watch where you heading
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, 50's back at it again)
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, 50's back at it again)
-go ahead go against me i'll hurt your feelings
-stones in my cross the size of your earrings
-my confidence level's high nigga can't tell
-licking my lips at you bitch like i'm l l.
-i smile like a nigga in jail receiving mail
-better yet like nigga bookers that made bail
-from day one i came in the game they said i was hot
-they got scared, "cent got money", and i got shot
-you put pressure on me when you compare me to pac
-i'm just a new kid, i can't help that i'm hot
-what little niggaz say to 50 cent don't matter
-i'll fire shots at the ship and watch the seas scatter
-my enemies never turn into friends, my friends turn into enemies
-you scared then get the fuck around me
-record execs know not to play with my checks
-i come through and put my knife cause i'm a pain your neck (yeah!)
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, 50's back at it again)
-i don't like you, you don't like me
-its not likely that we'll ever be friends
-why pretend? (ma, 50's back at it again)
-lloyd banks in the house, bad news
-tony yayo in the house, bad news
-50 cent in the house, bad news whenever 50 around its bad news
-tray pound's in the house, bad news
-40 kal's in the house, bad news
-i got a knife in the house, bad news whenever 50 around its bad news
+(dp1
+Vstones
+p2
+I1
+sVshot
+p3
+I1
+sVbananas
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmoney
+p7
+I2
+sVlay
+p8
+I1
+sVpopo
+p9
+I1
+sVrest
+p10
+I1
+sVdisguise
+p11
+I1
+sVkals
+p12
+I2
+sVlloyd
+p13
+I2
+sV50s
+p14
+I4
+sVgo
+p15
+I3
+sVbookers
+p16
+I1
+sVyet
+p17
+I1
+sVfifth
+p18
+I1
+sVhelp
+p19
+I1
+sVaint
+p20
+I1
+sVtonys
+p21
+I1
+sVhated
+p22
+I1
+sVhad
+p23
+I1
+sVmask
+p24
+I1
+sVsend
+p25
+I1
+sVcrime
+p26
+I1
+sVbetter
+p27
+I2
+sVgrade
+p28
+I1
+sVsmile
+p29
+I1
+sVhammers
+p30
+I1
+sVski
+p31
+I1
+sV11
+p32
+I1
+sVaround
+p33
+I7
+sVget
+p34
+I3
+sVstop
+p35
+I1
+sVscene
+p36
+I1
+sVgame
+p37
+I1
+sVknow
+p38
+I4
+sVearrings
+p39
+I1
+sVone
+p40
+I2
+sVday
+p41
+I2
+sVlike
+p42
+I17
+sVslip
+p43
+I1
+sVpounds
+p44
+I2
+sVever
+p45
+I6
+sVdrop
+p46
+I1
+sVpeeps
+p47
+I1
+sV50
+p48
+I8
+sVsidearm
+p49
+I1
+sVleave
+p50
+I2
+sVbad
+p51
+I19
+sVexercise
+p52
+I1
+sVshots
+p53
+I1
+sVfound
+p54
+I1
+sVrecord
+p55
+I1
+sVtray
+p56
+I3
+sVround
+p57
+I2
+sVyall
+p58
+I2
+sVexecs
+p59
+I1
+sVnigga
+p60
+I4
+sVseas
+p61
+I1
+sVhouse
+p62
+I12
+sVscared
+p63
+I2
+sVback
+p64
+I6
+sVl
+I2
+sVhair
+p65
+I1
+sVlikely
+p66
+I6
+sVlicking
+p67
+I1
+sVghosts
+p68
+I1
+sVbest
+p69
+I1
+sVreally
+p70
+I1
+sVgon
+p71
+I1
+sVbanks
+p72
+I3
+sV3rd
+p73
+I1
+sVoprah
+p74
+I1
+sVbail
+p75
+I1
+sVsince
+p76
+I1
+sVfox
+p77
+I1
+sVslick
+p78
+I1
+sVice
+p79
+I1
+sVenough
+p80
+I1
+sVfinger
+p81
+I1
+sVroutine
+p82
+I1
+sVgot
+p83
+I7
+sVreceiving
+p84
+I1
+sVcause
+p85
+I5
+sVchecks
+p86
+I1
+sVknife
+p87
+I3
+sVbody
+p88
+I1
+sVtoetag
+p89
+I1
+sVnever
+p90
+I1
+sV9th
+p91
+I1
+sVconfidence
+p92
+I1
+sVseventh
+p93
+I1
+sVuse
+p94
+I1
+sVfeelings
+p95
+I1
+sVbroken
+p96
+I1
+sVplease
+p97
+I2
+sVlips
+p98
+I1
+sVput
+p99
+I5
+sVnews
+p100
+I18
+sVpretend
+p101
+I6
+sVcome
+p102
+I1
+sVlegend
+p103
+I1
+sVahead
+p104
+I1
+sVpressure
+p105
+I1
+sVill
+p106
+I4
+sVshades
+p107
+I1
+sVheading
+p108
+I1
+sVturn
+p109
+I2
+sVlevels
+p110
+I1
+sVbrag
+p111
+I1
+sVpick
+p112
+I6
+sVcaught
+p113
+I1
+sVthats
+p114
+I3
+sVdont
+p115
+I16
+sVbricks
+p116
+I1
+sVsweet
+p117
+I2
+sVnumber
+p118
+I2
+sVwalk
+p119
+I1
+sVfeet
+p120
+I1
+sVwit
+p121
+I1
+sVbitch
+p122
+I3
+sVtony
+p123
+I2
+sVring
+p124
+I1
+sVsize
+p125
+I1
+sVlittle
+p126
+I2
+sVfast
+p127
+I1
+sVtakes
+p128
+I1
+sV5th
+p129
+I2
+sVsystem
+p130
+I1
+sVcent
+p131
+I5
+sVmark
+p132
+I1
+sVstuck
+p133
+I2
+sVcrab
+p134
+I1
+sV6
+I1
+sVkid
+p135
+I1
+sVtell
+p136
+I1
+sVfriend
+p137
+I1
+sVlisten
+p138
+I1
+sVhorses
+p139
+I1
+sVeyes
+p140
+I1
+sVsaid
+p141
+I1
+sVfire
+p142
+I1
+sVbitches
+p143
+I1
+sVcant
+p144
+I2
+sVhurt
+p145
+I1
+sV99
+p146
+I3
+sVvivica
+p147
+I1
+sVmail
+p148
+I1
+sVweeks
+p149
+I1
+sVyayo
+p150
+I2
+sVneck
+p151
+I1
+sVme
+p152
+I7
+sVmade
+p153
+I1
+sVma
+p154
+I6
+sVtarget
+p155
+I1
+sVcar
+p156
+I1
+sVblade
+p157
+I1
+sVsee
+p158
+I1
+sVniggaz
+p159
+I2
+sVmatter
+p160
+I1
+sVnine
+p161
+I1
+sVwrestler
+p162
+I1
+sVscatter
+p163
+I1
+sVmeet
+p164
+I1
+sV10th
+p165
+I1
+sVstudy
+p166
+I1
+sVheart
+p167
+I1
+sVcompare
+p168
+I1
+sVpound
+p169
+I1
+sVwant
+p170
+I1
+sVboston
+p171
+I1
+sVfuck
+p172
+I2
+sVdeep
+p173
+I1
+sVhigh
+p174
+I1
+sVplayer
+p175
+I1
+sVsay
+p176
+I2
+sVtag
+p177
+I1
+sVim
+p178
+I7
+sVdaily
+p179
+I1
+sVrap
+p180
+I2
+sVship
+p181
+I1
+sVshit
+p182
+I2
+sVagain
+p183
+I6
+sVend
+p184
+I1
+sVna
+p185
+I1
+sVmake
+p186
+I1
+sVcross
+p187
+I1
+sV40
+p188
+I2
+sVhot
+p189
+I2
+sVpac
+p190
+I1
+sVnew
+p191
+I1
+sVenemies
+p192
+I2
+sVplay
+p193
+I1
+sVsure
+p194
+I1
+sVpain
+p195
+I1
+sVwatch
+p196
+I2
+sVflossin
+p197
+I1
+sVcoaches
+p198
+I1
+sV4th
+p199
+I1
+sVmad
+p200
+I1
+sVfriends
+p201
+I8
+sVman
+p202
+I2
+sVyeah
+p203
+I1
+sVshootout
+p204
+I1
+sVlonger
+p205
+I1
+sVwhenever
+p206
+I4
+sV6th
+p207
+I1
+sVwell
+p208
+I6
+sVrule
+p209
+I10
+sVface
+p210
+I1
+sV2nd
+p211
+I1
+sVswitch
+p212
+I1
+sVcosts
+p213
+I1
+sVjail
+p214
+I1
+sVcame
+p215
+I1
+sVtime
+p216
+I1
+sVpush
+p217
+I1
+sVtalk
+p218
+I1
+sV8th
+p219
+I1
+s.

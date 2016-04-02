@@ -1,64 +1,536 @@
-"can't live with you" lyrics
-ludacris lyrics
-"can't live with you"
-(feat. monica)
-i can't live with ya, can't live without you
-i say i can't live with ya, can't live without you
-ooh i can't live with ya, can't live without you
-i can't live with ya, can't live without you
-one day i love you, the next i can't stand you
-huh, it's too much for me to handle
-i made my mind up thinkin i'm on the right track
-so then i leave you, but then come right back
-and i don't like that, i swear i'm so confused
-don't know what i want or what's the right thing to do
-but the right thing is you, you're my destiny
-even at my worst you still bringin out the best in me
-but then you testin me, know how to push my buttons
-fussin, fightin, yeah we always gettin into somethin
-so mad i make you cry, then we make love
-a never-endin cycle, make up to break up
-it's time to wake up, i need to smell the coffee
-play with these other women, or get 'em all off me
-and you wonder why your man'll just doubt ya
-can't live with ya, can't live without ya
-i can't live with ya, can't live without you
-i say i can't live with you, can't live without you
-ooh i can't live with ya, can't live without you
-the one thing that i know, is i can't seem to let you (go)
-you got me to the point of walking out the (door)
-and then i find myself coming back for (more)
-i don't know what to do
-cause i can't live with ya, and can't live without you
-one day i love you, the next i can't stand you
-huh, it's too much for me to handle
-one minute naggin me, always harrassin me
-next minute squeezin me, huggin, kissin and grabbin me
-just when i think it's cool, you back startin shit
-findin the smallest things just to start an argument
-goin through my phone, know you shouldn'ta took it though
-i hope your stupid ass find what you're lookin fo'
-stormin out the house mad, throwin breakin shit
-callin your girls, exaggeratin and fakin shit
-pack your clothes like you really 'bout to leave this time
-know you messed up but actin like it's me this time
-it's a revolvin door, that keeps spinnin 'round
-are we gon' be together, or are we finished now?
-and you wonder why your man'll just doubt ya
-can't live with ya, can't live without ya
-when the going get tough and the fightin be rough
-now some folks may call it hood but i guess we call it love
-i be askin for your touch then i don't give you my trust
-first i hate you with a passion then i can't need you enough
-i be, wantin to spend my whole life wit'chu
-and i be, talkin 'bout how you and me are through
-and my mind says yes but my heart says no
-and my mind says walk but my feet won't go away yeahhhh
-see i be tellin you to go
-but deep inside i want you to stayyyyy
-uh, and you know how to make me smile
-but at times you ruin my dayyyyy
-ooh, we gotta get better
-gotta get it together
-and you wonder why your girl just doubt ya
-can't live with you, can't live without youuuuu
+(dp1
+Vwalking
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVthrough
+p5
+I1
+sVgo
+p6
+I3
+sVwhats
+p7
+I1
+sVrough
+p8
+I1
+sVstill
+p9
+I1
+sVfeat
+p10
+I1
+sVfind
+p11
+I2
+sVmessed
+p12
+I1
+sVruin
+p13
+I1
+sVbuttons
+p14
+I1
+sVgoing
+p15
+I1
+sVactin
+p16
+I1
+sVfolks
+p17
+I1
+sVsmile
+p18
+I1
+sVbout
+p19
+I2
+sVhope
+p20
+I1
+sVtestin
+p21
+I1
+sVmonica
+p22
+I1
+sVcoffee
+p23
+I1
+sVcallin
+p24
+I1
+sVhandle
+p25
+I2
+sVtouch
+p26
+I1
+sVget
+p27
+I4
+sVya
+p28
+I14
+sVshouldnta
+p29
+I1
+sVbreak
+p30
+I1
+sVworst
+p31
+I1
+sVknow
+p32
+I7
+sVfussin
+p33
+I1
+sVnow
+p34
+I1
+sVday
+p35
+I2
+sVminute
+p36
+I2
+sVcool
+p37
+I1
+sVwont
+p38
+I1
+sVlike
+p39
+I3
+sValways
+p40
+I2
+sVcry
+p41
+I1
+sVleave
+p42
+I2
+sVstupid
+p43
+I1
+sVstartin
+p44
+I1
+sVround
+p45
+I1
+sVclothes
+p46
+I1
+sVem
+p47
+I1
+sVmanll
+p48
+I2
+sVright
+p49
+I4
+sVsays
+p50
+I3
+sVhouse
+p51
+I1
+sVthrowin
+p52
+I1
+sVback
+p53
+I3
+sVharrassin
+p54
+I1
+sVsee
+p55
+I1
+sVtellin
+p56
+I1
+sVgirl
+p57
+I1
+sVyes
+p58
+I1
+sVbest
+p59
+I1
+sVwonder
+p60
+I3
+sVeven
+p61
+I1
+sVgon
+p62
+I1
+sVdestiny
+p63
+I1
+sVhate
+p64
+I1
+sVnaggin
+p65
+I1
+sVmay
+p66
+I1
+sVenough
+p67
+I1
+sVsmallest
+p68
+I1
+sVpassion
+p69
+I1
+sVgot
+p70
+I3
+sVcause
+p71
+I1
+sVuh
+p72
+I1
+sVass
+p73
+I1
+sVdoubt
+p74
+I3
+sVlet
+p75
+I1
+sVcome
+p76
+I1
+sVargument
+p77
+I1
+sVbreakin
+p78
+I1
+sVfightin
+p79
+I2
+sVtimes
+p80
+I1
+sVthing
+p81
+I3
+sVswear
+p82
+I1
+sVstand
+p83
+I2
+sVlookin
+p84
+I1
+sVstormin
+p85
+I1
+sVwhole
+p86
+I1
+sVthink
+p87
+I1
+sVrevolvin
+p88
+I1
+sVlove
+p89
+I4
+sVdont
+p90
+I4
+sVexaggeratin
+p91
+I1
+sVpoint
+p92
+I1
+sVwitchu
+p93
+I1
+sVone
+p94
+I4
+sVfeet
+p95
+I1
+sVaway
+p96
+I1
+sVtrust
+p97
+I1
+sVhood
+p98
+I1
+sVbetter
+p99
+I1
+sVguess
+p100
+I1
+sVgive
+p101
+I1
+sVgirls
+p102
+I1
+sVnext
+p103
+I3
+sVstart
+p104
+I1
+sVlive
+p105
+I24
+sVmuch
+p106
+I2
+sVcall
+p107
+I2
+sVspinnin
+p108
+I1
+sVgoin
+p109
+I1
+sVyeahhhh
+p110
+I1
+sVmore
+p111
+I1
+sVlife
+p112
+I1
+sVdoor
+p113
+I2
+sVgrabbin
+p114
+I1
+sVhuh
+p115
+I2
+sVooh
+p116
+I3
+sVfindin
+p117
+I1
+sVyeah
+p118
+I1
+sVphone
+p119
+I1
+sVfinished
+p120
+I1
+sVgettin
+p121
+I1
+sVwake
+p122
+I1
+sVbringin
+p123
+I1
+sVyouuuuu
+p124
+I1
+sVwomen
+p125
+I1
+sVme
+p126
+I4
+sVmade
+p127
+I1
+sVinside
+p128
+I1
+sVup
+p129
+I1
+sVneverendin
+p130
+I1
+sVkissin
+p131
+I1
+sVfakin
+p132
+I1
+sVdayyyyy
+p133
+I1
+sVta
+p134
+I2
+sVsay
+p135
+I2
+sVpack
+p136
+I1
+sVheart
+p137
+I1
+sVsqueezin
+p138
+I1
+sVdo
+p139
+I2
+sVmind
+p140
+I3
+sVconfused
+p141
+I1
+sVdeep
+p142
+I1
+sVcant
+p143
+I28
+sVim
+p144
+I2
+sVwant
+p145
+I2
+sVneed
+p146
+I2
+sVseem
+p147
+I1
+sVshit
+p148
+I3
+sVtough
+p149
+I1
+sVno
+p150
+I1
+sVthings
+p151
+I1
+sVthinkin
+p152
+I1
+sVwalk
+p153
+I1
+sVwantin
+p154
+I1
+sVfo
+p155
+I1
+sVyou
+p156
+I11
+sVreally
+p157
+I1
+sVsmell
+p158
+I1
+sVtalkin
+p159
+I1
+sVplay
+p160
+I1
+sVaskin
+p161
+I1
+sVthough
+p162
+I1
+sVtrack
+p163
+I1
+sVkeeps
+p164
+I1
+sVtook
+p165
+I1
+sVmad
+p166
+I2
+sVcoming
+p167
+I1
+sVstayyyyy
+p168
+I1
+sVcycle
+p169
+I1
+sVsomethin
+p170
+I1
+sVyoure
+p171
+I2
+sVtogether
+p172
+I2
+sVspend
+p173
+I1
+sVwithout
+p174
+I11
+sVtime
+p175
+I3
+sVpush
+p176
+I1
+sVfirst
+p177
+I1
+sVhuggin
+p178
+I1
+sVmake
+p179
+I4
+s.

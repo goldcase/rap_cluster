@@ -1,91 +1,801 @@
-"georgia" lyrics
-ludacris lyrics
-"georgia"
-(feat. jamie foxx)
-georgia, georgia
-georgia, georgia
-we on the grind in... georgia
-all the time, it ain't
-nothin on my mind but... georgia
-we ain't playin witcha
-country name
-country slang
-fiens at the liquor store
-lac cruisin
-crap shootin
-50 on the 10 to 4
-overcast the forecast
-shows clouds from plenty dro
-and we ready for war in the state of... georgia
-dirty words
-dirty birds
-it's mean in the dirty south
-if you ever disrespect it then we'll clean out your dirty mouth
-bulldawgs is clockin
-these look out boys is hawkin
-you gotta be brave in the state of... georgia
-i got 5 georgia homes where i rest my georgia bones
-come anywhere on my land and i'll aim at your georgia dome
-if you get in an altercation just hop on your mobile phone
-and tell somebody you need help in the middle of... georgia
-we some atl thrashers
-scope your pumpkin and smasha
-we'll come through your hood worse than a tsunami disaster
-don't know who they gonna get or who them robbers gonna hit
-thats why i keep my georgia tech in the state of... georgia
-we on the grind in... georgia
-all the time, it ain't
-nothin on my mind but... georgia
-we ain't playin witcha
-i'm from the home of the neck bones, black eyed peas, turnip and collard greens
-we the children on the corn dirtier than bob marley's pee pee
-ga the peach state where we stay
-my small city's called albany... georgia
-pecan country like catfish with grits
-candy yams and chitlins
-gram's homemade baked biscuits
-the land of classical caprices and impala super sports
-ingredients in the peach cobbler called... georgia
-i love the women out in l.a.
-and the shopping stores in new york
-the beaches in mia
-but they ain't nothin like that ga red clay
-look on your map, we right above florida
-next to bama
-under the carolinas and tennesse you'll see... georgia
-where gladys knights and the midnight train
-the birthplace of martin luther king
-where ass so plump and hips are thick
-where lac trucks sit on 26's
-know where your going or your get lost
-found on these plum trees in the south
-these choppas will tomahawk your top down here in... georgia
-we on the grind in... georgia
-all the time, it ain't
-nothin on my mind but... georgia
-we ain't playin witcha
-now i was born in the belly of the bottom of the map,
-where the wet paint drip jelly on pirelliz an the chrome on the chevy when i'm choppin in the trap
-country as hell, dey sum warriorz, told sum to spray sumthan the same shape as florida,
-lookin for me boy, ya find me, outta dougherty county in a small city call'd albany... georgia
-where dey use to call us sum bamas,
-an now dey jockin da grammar
-watch ya mouf unless you out foe sum mannar,
-bunch of hustlaz run on every corna like the waffle house in atlanta
-r.i.p camoflauge out in savannah... georgia
-now u might come foe vacachun,
-leave on probachun
-home of da strip club,
-known foe da thyck gulz
-where da chickz put tipz in da tip cup,
-of thyck chick in a thong wit a big butt
-when it gettin on, won't b cheap when it on like peachtree,
-make a chick take it off like freaknik, down here in... georgia
-when you see dem confederate flagz ya know wut it iz,
-ya folkz pick cotton here datz y we call it da field
-i got a chevrolet on 26'zzz,
-i'm frum ga.. .ga... georgia
-we on the grind in... georgia
-all the time, it ain't
-nothin on my mind but... georgia
-we ain't playin witcha
+(dp1
+Vjockin
+p2
+I1
+sVstores
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I1
+sVsavannah
+p7
+I1
+sVconfederate
+p8
+I1
+sVmidnight
+p9
+I1
+sVrest
+p10
+I1
+sV26s
+p11
+I1
+sVknown
+p12
+I1
+sVshape
+p13
+I1
+sVga
+p14
+I4
+sVking
+p15
+I1
+sVhell
+p16
+I1
+sVchoppas
+p17
+I1
+sVfeat
+p18
+I1
+sVbirds
+p19
+I1
+sVcarolinas
+p20
+I1
+sVaint
+p21
+I9
+sVbirthplace
+p22
+I1
+sVpeachtree
+p23
+I1
+sVla
+p24
+I1
+sVwut
+p25
+I1
+sVyams
+p26
+I1
+sVchickz
+p27
+I1
+sVcollard
+p28
+I1
+sVgoing
+p29
+I1
+sVblack
+p30
+I1
+sV4
+I1
+sVwet
+p31
+I1
+sVmarleys
+p32
+I1
+sVwomen
+p33
+I1
+sVmight
+p34
+I1
+sVpumpkin
+p35
+I1
+sVwont
+p36
+I1
+sVsomebody
+p37
+I1
+sVworse
+p38
+I1
+sVget
+p39
+I3
+sVya
+p40
+I4
+sVbig
+p41
+I1
+sVsmasha
+p42
+I1
+sVwatch
+p43
+I1
+sVtrees
+p44
+I1
+sVda
+p45
+I6
+sVb
+I1
+sVevery
+p46
+I1
+sVknow
+p47
+I3
+sVwords
+p48
+I1
+sVpee
+p49
+I2
+sVgrammar
+p50
+I1
+sVlike
+p51
+I5
+sVdey
+p52
+I3
+sVclouds
+p53
+I1
+sVname
+p54
+I1
+sVgreens
+p55
+I1
+sVcalled
+p56
+I2
+sVyoull
+p57
+I1
+sVgettin
+p58
+I1
+sV50
+p59
+I1
+sVcandy
+p60
+I1
+sVleave
+p61
+I1
+sVtsunami
+p62
+I1
+sVwit
+p63
+I1
+sVtrap
+p64
+I1
+sVclay
+p65
+I1
+sVsmall
+p66
+I2
+sVfound
+p67
+I1
+sVdirtier
+p68
+I1
+sVtold
+p69
+I1
+sVrobbers
+p70
+I1
+sVmean
+p71
+I1
+sVbrave
+p72
+I1
+sVdisaster
+p73
+I1
+sVclassical
+p74
+I1
+sVhouse
+p75
+I1
+sVliquor
+p76
+I1
+sVwaffle
+p77
+I1
+sVborn
+p78
+I1
+sVsee
+p79
+I2
+sVturnip
+p80
+I1
+sVplayin
+p81
+I4
+sVvacachun
+p82
+I1
+sVfreaknik
+p83
+I1
+sVcotton
+p84
+I1
+sVgon
+p85
+I2
+sVmannar
+p86
+I1
+sVbottom
+p87
+I1
+sVplum
+p88
+I1
+sVsum
+p89
+I4
+sVthong
+p90
+I1
+sVrip
+p91
+I1
+sVforecast
+p92
+I1
+sVfoe
+p93
+I3
+sVstate
+p94
+I4
+sVtipz
+p95
+I1
+sValtercation
+p96
+I1
+sVgrits
+p97
+I1
+sVgot
+p98
+I3
+sVbunch
+p99
+I1
+sVever
+p100
+I1
+sVthyck
+p101
+I2
+sVred
+p102
+I1
+sVshows
+p103
+I1
+sVass
+p104
+I1
+sVfiens
+p105
+I1
+sVfrum
+p106
+I1
+sVrun
+p107
+I1
+sVcity
+p108
+I1
+sVtomahawk
+p109
+I1
+sVcorn
+p110
+I1
+sVmartin
+p111
+I1
+sVdome
+p112
+I1
+sVcheap
+p113
+I1
+sVdisrespect
+p114
+I1
+sVspray
+p115
+I1
+sVwitcha
+p116
+I4
+sVyork
+p117
+I1
+sVknights
+p118
+I1
+sVput
+p119
+I1
+sVcitys
+p120
+I1
+sVstay
+p121
+I1
+sVcome
+p122
+I3
+sVcaprices
+p123
+I1
+sVgladys
+p124
+I1
+sVluther
+p125
+I1
+sVcountry
+p126
+I4
+sVill
+p127
+I1
+sVcup
+p128
+I1
+sVflorida
+p129
+I2
+sVjelly
+p130
+I1
+sVchoppin
+p131
+I1
+sVkeep
+p132
+I1
+sVchevy
+p133
+I1
+sVhawkin
+p134
+I1
+sVdro
+p135
+I1
+sVthrashers
+p136
+I1
+sVbob
+p137
+I1
+sVshootin
+p138
+I1
+sVsouth
+p139
+I2
+sVthats
+p140
+I1
+sVchitlins
+p141
+I1
+sVlove
+p142
+I1
+sVdont
+p143
+I1
+sVhustlaz
+p144
+I1
+sVbama
+p145
+I1
+sVcounty
+p146
+I1
+sVchildren
+p147
+I1
+sVdem
+p148
+I1
+sVright
+p149
+I1
+sVstrip
+p150
+I1
+sVoutta
+p151
+I1
+sVthick
+p152
+I1
+sVnext
+p153
+I1
+sVu
+I1
+sVhood
+p154
+I1
+sVtake
+p155
+I1
+sVbiscuits
+p156
+I1
+sVuse
+p157
+I1
+sVsumthan
+p158
+I1
+sVcrap
+p159
+I1
+sVchick
+p160
+I2
+sVchrome
+p161
+I1
+sVsuper
+p162
+I1
+sVtop
+p163
+I1
+sVbamas
+p164
+I1
+sVsports
+p165
+I1
+sVpaint
+p166
+I1
+sVcall
+p167
+I2
+sVbeaches
+p168
+I1
+sVhomemade
+p169
+I1
+sVscope
+p170
+I1
+sV26zzz
+p171
+I1
+sVtell
+p172
+I1
+sVstore
+p173
+I1
+sVfield
+p174
+I1
+sVshopping
+p175
+I1
+sVboy
+p176
+I1
+sVclub
+p177
+I1
+sVjamie
+p178
+I1
+sVboys
+p179
+I1
+sVtrain
+p180
+I1
+sVpecan
+p181
+I1
+sVeyed
+p182
+I1
+sVbutt
+p183
+I1
+sVsit
+p184
+I1
+sVatlanta
+p185
+I1
+sVdougherty
+p186
+I1
+sVgulz
+p187
+I1
+sVgrams
+p188
+I1
+sVhomes
+p189
+I1
+sVgeorgia
+p190
+I30
+sVlook
+p191
+I2
+sVmiddle
+p192
+I1
+sVbelly
+p193
+I1
+sVtennesse
+p194
+I1
+sVus
+p195
+I1
+sVwar
+p196
+I1
+sVaim
+p197
+I1
+sVanywhere
+p198
+I1
+sVdirty
+p199
+I4
+sVcobbler
+p200
+I1
+sVta
+p201
+I1
+sVimpala
+p202
+I1
+sVatl
+p203
+I1
+sVready
+p204
+I1
+sViz
+p205
+I1
+sVclockin
+p206
+I1
+sVfolkz
+p207
+I1
+sVmind
+p208
+I4
+sVcorna
+p209
+I1
+sVdrip
+p210
+I1
+sVbones
+p211
+I2
+sVim
+p212
+I3
+sVhome
+p213
+I2
+sVneed
+p214
+I1
+sVhit
+p215
+I1
+sVmouf
+p216
+I1
+sVwarriorz
+p217
+I1
+sValbany
+p218
+I2
+sVpeach
+p219
+I2
+sVingredients
+p220
+I1
+sVmia
+p221
+I1
+sVna
+p222
+I2
+sVmake
+p223
+I1
+sVpirelliz
+p224
+I1
+sVtip
+p225
+I1
+sVfoxx
+p226
+I1
+sVfind
+p227
+I1
+sV5
+I1
+sVcatfish
+p228
+I1
+sVhop
+p229
+I1
+sVnew
+p230
+I1
+sVprobachun
+p231
+I1
+sVcamoflauge
+p232
+I1
+sV10
+p233
+I1
+sVmap
+p234
+I2
+sVunless
+p235
+I1
+sVlookin
+p236
+I1
+sVdatz
+p237
+I1
+sVplump
+p238
+I1
+sVpick
+p239
+I1
+sVpeas
+p240
+I1
+sVlac
+p241
+I2
+sVmouth
+p242
+I1
+sVplenty
+p243
+I1
+sVtrucks
+p244
+I1
+sVslang
+p245
+I1
+sVland
+p246
+I2
+sVneck
+p247
+I1
+sVphone
+p248
+I1
+sVmobile
+p249
+I1
+sVchevrolet
+p250
+I1
+sVovercast
+p251
+I1
+sVwell
+p252
+I2
+sVlost
+p253
+I1
+sVnothin
+p254
+I5
+sVgrind
+p255
+I4
+sVcalld
+p256
+I1
+sVbulldawgs
+p257
+I1
+sVtech
+p258
+I1
+sVhips
+p259
+I1
+sVclean
+p260
+I1
+sVtime
+p261
+I4
+sVy
+I1
+sVbaked
+p262
+I1
+sVflagz
+p263
+I1
+sVcruisin
+p264
+I1
+s.

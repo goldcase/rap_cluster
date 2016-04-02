@@ -1,78 +1,639 @@
-"my city" lyrics
-common lyrics
-"my city"
-(feat. malik yusef)
-this the city of chicago
-the state of confusion
-this style i'm using is free
-or prolly it would be if my mind was
-peep i'm behind cause
-i didn't handle my function while in high school
-although i was cool
-the hood i live in ain't that proper
-cause a cop a stop ya
-and have you at a hundred and eleventh before you can say not guilty
-i'm not filthy
-nor am i rich
-ain't that a bitch
-like life is
-not your wife is
-see that your butter halve
-do your math
-and peep that two halves make a whole
-and all i have to hold
-is my self pride
-so these here streets i strive
-like a black pantha
-asking can the
-situation get much worst
-all i do is try to appeal to the masses
-as the phrase keep it real passes
-the teeth of too many phoney individuals
-snakes, that smooth like criminals
-they create chemicals
-that the earth hate
-doing their damndest to decrease my birth rate
-i'd settle for lesser knowing i'm worth wait
-or worth my weight in precious gems
-so i'm steadily steadly steadly
-trying to lose my religion, like r e m
-created in his own image so am i we him?
-and in the middle of this crises
-shit i wonder where christ is
-well he damn sure not in k town or in the wild hundreds
-where they broadcast g.d. till the world blow-up
-and stone run it
-hunted by police for display in state vile cages
-come out to receive minimum wages
-plus with a desiese that's contagious
-it is fucking outrages
-the amounts of black and brown they lock up
-but the most high encourages me to put the glock up
-and stock up on do for self knowledge
-a brother couldn't afford to go to collage
-so i went to the school of hard knock
-on the hard blocks of the chi
-even i, think about moving out to river oaks
-as my liver soaks
-in mad hennesy
-cause i have a bad tendency
-to do a lot of drinking
-but now i do a lot of thinking
-blinking, was your third eye
-when you heard i
-was one of the chosen
-industry doors keep closing
-(sing) watch the closing doors
-but btothas still want a record deal
-but can they deal with a record?
-cause once they get rich
-they tend to switch
-like a sissy
-please miss me
-with all that bullshit you popping
-this science i'm gonna keep on droppin'
-and me i won't be stoppin'
-even if you had one of them red octagon
-folks say mylik how you make your living?
-i say by breathin' oxygen
+(dp1
+Vlyrics
+p2
+I2
+sVgd
+p3
+I1
+sVworld
+p4
+I1
+sVgo
+p5
+I1
+sVearth
+p6
+I1
+sVstill
+p7
+I1
+sVfeat
+p8
+I1
+sVdrinking
+p9
+I1
+sVtendency
+p10
+I1
+sVaint
+p11
+I2
+sVstyle
+p12
+I1
+sVtrying
+p13
+I1
+sVpolice
+p14
+I1
+sVvile
+p15
+I1
+sVreligion
+p16
+I1
+sVthinking
+p17
+I1
+sVcrises
+p18
+I1
+sVmasses
+p19
+I1
+sVbehind
+p20
+I1
+sVbullshit
+p21
+I1
+sVindustry
+p22
+I1
+sVdamndest
+p23
+I1
+sVrich
+p24
+I2
+sVfolks
+p25
+I1
+sVcollage
+p26
+I1
+sVpride
+p27
+I1
+sVworth
+p28
+I2
+sVsure
+p29
+I1
+sVreal
+p30
+I1
+sVbrown
+p31
+I1
+sVpantha
+p32
+I1
+sVget
+p33
+I2
+sVya
+p34
+I1
+sVoutrages
+p35
+I1
+sVstop
+p36
+I1
+sVblinking
+p37
+I1
+sVme
+p38
+I1
+sVworst
+p39
+I1
+sVbirth
+p40
+I1
+sVusing
+p41
+I1
+sVhunted
+p42
+I1
+sVhim
+p43
+I1
+sVcool
+p44
+I1
+sVwont
+p45
+I1
+sVknock
+p46
+I1
+sVschool
+p47
+I2
+sVlike
+p48
+I5
+sVcontagious
+p49
+I1
+sVbrother
+p50
+I1
+sVtry
+p51
+I1
+sVdesiese
+p52
+I1
+sVbad
+p53
+I1
+sVindividuals
+p54
+I1
+sVcommon
+p55
+I1
+sVlose
+p56
+I1
+sVwent
+p57
+I1
+sVriver
+p58
+I1
+sVphoney
+p59
+I1
+sVsnakes
+p60
+I1
+sVweight
+p61
+I1
+sVfucking
+p62
+I1
+sVstreets
+p63
+I1
+sVup
+p64
+I2
+sVsee
+p65
+I1
+sVsteadly
+p66
+I2
+sVhennesy
+p67
+I1
+sVproper
+p68
+I1
+sVstoppin
+p69
+I1
+sVcouldnt
+p70
+I1
+sVpopping
+p71
+I1
+sVwonder
+p72
+I1
+sVeven
+p73
+I2
+sVliving
+p74
+I1
+sVgon
+p75
+I1
+sVprolly
+p76
+I1
+sVchrist
+p77
+I1
+sVchicago
+p78
+I1
+sVhate
+p79
+I1
+sVbreathin
+p80
+I1
+sVplease
+p81
+I1
+sVsissy
+p82
+I1
+sVtend
+p83
+I1
+sVhalves
+p84
+I1
+sVstate
+p85
+I2
+sVasking
+p86
+I1
+sVoaks
+p87
+I1
+sVappeal
+p88
+I1
+sVcause
+p89
+I4
+sVmath
+p90
+I1
+sVknowing
+p91
+I1
+sVgems
+p92
+I1
+sVrun
+p93
+I1
+sVpasses
+p94
+I1
+sVconfusion
+p95
+I1
+sVfree
+p96
+I1
+sVhundreds
+p97
+I1
+sValthough
+p98
+I1
+sVput
+p99
+I1
+sVsing
+p100
+I1
+sVpeep
+p101
+I2
+sVcome
+p102
+I1
+sVwait
+p103
+I1
+sVhandle
+p104
+I1
+sVcop
+p105
+I1
+sVstone
+p106
+I1
+sVhard
+p107
+I2
+sVcreated
+p108
+I1
+sVreceive
+p109
+I1
+sVmany
+p110
+I1
+sVk
+I1
+sVguilty
+p111
+I1
+sVkeep
+p112
+I3
+sVchosen
+p113
+I1
+sVplus
+p114
+I1
+sVsteadily
+p115
+I1
+sVwhole
+p116
+I1
+sVthink
+p117
+I1
+sVthats
+p118
+I1
+sVimage
+p119
+I1
+sVstrive
+p120
+I1
+sVoxygen
+p121
+I1
+sVone
+p122
+I2
+sVsoaks
+p123
+I1
+sVeleventh
+p124
+I1
+sVdecrease
+p125
+I1
+sVbitch
+p126
+I1
+sVwages
+p127
+I1
+sVmiss
+p128
+I1
+sVprecious
+p129
+I1
+sVhood
+p130
+I1
+sVred
+p131
+I1
+sVcity
+p132
+I3
+sVcriminals
+p133
+I1
+sVeye
+p134
+I1
+sVdeal
+p135
+I2
+sVwould
+p136
+I1
+sVchi
+p137
+I1
+sVcreate
+p138
+I1
+sVtwo
+p139
+I1
+sVmylik
+p140
+I1
+sVencourages
+p141
+I1
+sVlive
+p142
+I1
+sVmuch
+p143
+I1
+sVdamn
+p144
+I1
+sVlot
+p145
+I2
+sVlock
+p146
+I1
+sVblack
+p147
+I2
+sVhundred
+p148
+I1
+sVwas
+p149
+I1
+sVknowledge
+p150
+I1
+sVfunction
+p151
+I1
+sVlife
+p152
+I1
+sVglock
+p153
+I1
+sVafford
+p154
+I1
+sVbroadcast
+p155
+I1
+sVchemicals
+p156
+I1
+sVliver
+p157
+I1
+sVyusef
+p158
+I1
+sVhold
+p159
+I1
+sVtown
+p160
+I1
+sVheard
+p161
+I1
+sVscience
+p162
+I1
+sVsmooth
+p163
+I1
+sVrate
+p164
+I1
+sVlesser
+p165
+I1
+sVrecord
+p166
+I2
+sVr
+I1
+sVmalik
+p167
+I1
+sVwild
+p168
+I1
+sVsituation
+p169
+I1
+sVclosing
+p170
+I2
+sVdidnt
+p171
+I1
+sVdisplay
+p172
+I1
+sVcages
+p173
+I1
+sVwell
+p174
+I1
+sVis
+p175
+I3
+sVmind
+p176
+I1
+sVit
+p177
+I1
+sVhigh
+p178
+I2
+sVmiddle
+p179
+I1
+sVsay
+p180
+I3
+sVminimum
+p181
+I1
+sVim
+p182
+I6
+sVwant
+p183
+I1
+sVphrase
+p184
+I1
+sVid
+p185
+I1
+sVshit
+p186
+I1
+sVamounts
+p187
+I1
+sVna
+p188
+I1
+sVmake
+p189
+I2
+sVdroppin
+p190
+I1
+sVtill
+p191
+I1
+sVdoors
+p192
+I2
+sVstock
+p193
+I1
+sVsettle
+p194
+I1
+sVblocks
+p195
+I1
+sVwatch
+p196
+I1
+sVoctagon
+p197
+I1
+sVmoving
+p198
+I1
+sVmad
+p199
+I1
+sVfilthy
+p200
+I1
+sVbutter
+p201
+I1
+sVe
+I1
+sVthird
+p202
+I1
+sVwife
+p203
+I1
+sVi
+I1
+sVhalve
+p204
+I1
+sVm
+I1
+sVbtothas
+p205
+I1
+sVblowup
+p206
+I1
+sVswitch
+p207
+I1
+sVteeth
+p208
+I1
+sVthe
+p209
+I1
+sVself
+p210
+I2
+s.

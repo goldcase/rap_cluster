@@ -1,72 +1,661 @@
-"guns & roses" lyrics
-jay-z lyrics
-"guns & roses"
-(feat. lenny kravitz)
-yeah it's magic
-uhh, jay-z and lenny kravitz
-and it's a heavy d product you bastards
-come on
-ha hey yo stop playing man
-this is real serious
-ha (it's the rock) yeah yo
-post postatono, hov' hanging with bono
-you too can live like salvatore ferragamo
-and you too can cool out poolside after delano
-and you too flow like you was out of your mind yo
-and who knew dude who loved apple pies from mcdonald's
-would soon be the boss of the big apple, ya know
-and who knew dude would play ball for the nba
-would make a mistake on the who know it stayed still in the way
-who knew that would be his last shot, who drew up that play
-they giveth and they taketh life is cruel that way
-but even a broken clock is right at least two times a day
-you could have turned guns into roses like two times today
-now there's something you gotta say two times to jay
-i got my shades on waiting for the sun to shine my way
-got my boom box, suntan lotion waiting for action
-its safe when you play with skills, good luck could happen
-let's go
-(c'mon) it's the roc
-that's right
-it got to hot so i jumped off in this rap shit
-you got it criss-crossed ain't no turning me backwards
-too many district attorneys concerned with the actions
-of one individual he's criminally attached
-i turned in all my rap chips i'm earning my bachelors
-while dating all the models and actresses
-i'm learning all the potholes in every single barrio
-trying not to mess up my axis kid
-on the road to riches through trafficking
-through rappining whatever's happening
-roc-a-wear i'm the young black ralph lauren
-every time i get out they put me right back in
-the michael corleone of the microphone
-the michelangelo of flow i paint pictures with poems
-i gather no moss like a rolling stone
-case the grim reaper visits my home, nigga i'm gone c'mon
-(c'mon) it's the roc
-(c'mon) that's right (c'mon)
-life is all about guns and roses
-bittersweet like friends and foes
-some get left behind, some get chosen
-just like life, guns and roses
-tote, more guns then roses, foes is, visibly shook of the invisible book, let's go
-flowers need water to grow, it gotta rain
-and in order to experience joy you need pain
-every time a baby is born, somebody slain
-you know the saying, somebody's loss is another's gain
-the sun comes out when the water goes down the drain
-a rainbow then the cloud comes out we do it again
-everything evens up, you just wait
-even a garbage can gets a steak
-you ain't even a garbage can you have faith
-but when it turns your way before it turns away
-to turn that into something you gotta learn from jay
-you will get return in your investment if attention you pay let's go
-(c'mon) it's the roc
-(c'mon) that's right (c'mon)
-life is all about guns and roses
-bittersweet like friends and foes
-some get left behind, some get chosen
-just like life, guns and roses
-life is all about guns and roses
+(dp1
+Vsaying
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVrocawear
+p5
+I1
+sVflowers
+p6
+I1
+sVroc
+p7
+I3
+sVsoon
+p8
+I1
+sVactions
+p9
+I1
+sVbaby
+p10
+I1
+sVhanging
+p11
+I1
+sVgo
+p12
+I3
+sVmcdonalds
+p13
+I1
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVaint
+p16
+I2
+sVha
+p17
+I2
+sVjay
+p18
+I2
+sVchosen
+p19
+I2
+sVconcerned
+p20
+I1
+sVyoung
+p21
+I1
+sVpies
+p22
+I1
+sVlets
+p23
+I3
+sVblack
+p24
+I1
+sVfaith
+p25
+I1
+sVta
+p26
+I3
+sVreal
+p27
+I1
+sVcase
+p28
+I1
+sVgood
+p29
+I1
+sVsomebody
+p30
+I1
+sVyo
+p31
+I3
+sVget
+p32
+I6
+sVya
+p33
+I1
+sVbig
+p34
+I1
+sVsafe
+p35
+I1
+sVstop
+p36
+I1
+sVuhh
+p37
+I1
+sVbastards
+p38
+I1
+sVknow
+p39
+I3
+sVattorneys
+p40
+I1
+sVone
+p41
+I1
+sVchips
+p42
+I1
+sVday
+p43
+I1
+sVcool
+p44
+I1
+sVloss
+p45
+I1
+sVmagic
+p46
+I1
+sVlike
+p47
+I8
+sVskills
+p48
+I1
+sVturns
+p49
+I2
+sVmichael
+p50
+I1
+sVslain
+p51
+I1
+sVbono
+p52
+I1
+sVrock
+p53
+I1
+sVsteak
+p54
+I1
+sVtrying
+p55
+I1
+sVluck
+p56
+I1
+sVheavy
+p57
+I1
+sVright
+p58
+I5
+sVriches
+p59
+I1
+sVcomes
+p60
+I2
+sVyeah
+p61
+I2
+sVd
+I1
+sVborn
+p62
+I1
+sVindividual
+p63
+I1
+sVsomebodys
+p64
+I1
+sVpoolside
+p65
+I1
+sVgiveth
+p66
+I1
+sVnba
+p67
+I1
+sVinvestment
+p68
+I1
+sVeven
+p69
+I3
+sVlauren
+p70
+I1
+sVtote
+p71
+I1
+sVclock
+p72
+I1
+sVsun
+p73
+I2
+sVaway
+p74
+I1
+sVcriminally
+p75
+I1
+sVmess
+p76
+I1
+sVwaiting
+p77
+I2
+sVgoes
+p78
+I1
+sVeverything
+p79
+I1
+sVgot
+p80
+I7
+sVdating
+p81
+I1
+sVguns
+p82
+I9
+sVturning
+p83
+I1
+sVjoy
+p84
+I1
+sVattention
+p85
+I1
+sVdrew
+p86
+I1
+sVboss
+p87
+I1
+sVwater
+p88
+I2
+sVbroken
+p89
+I1
+sVsuntan
+p90
+I1
+sVput
+p91
+I1
+sVpoems
+p92
+I1
+sVpost
+p93
+I1
+sVlotion
+p94
+I1
+sVcome
+p95
+I1
+sVbarrio
+p96
+I1
+sVwait
+p97
+I1
+sVshine
+p98
+I1
+sVon
+p99
+I1
+sVstone
+p100
+I1
+sVbackwards
+p101
+I1
+sVlast
+p102
+I1
+sVdistrict
+p103
+I1
+sVwhatevers
+p104
+I1
+sVmany
+p105
+I1
+sVcould
+p106
+I2
+sVshades
+p107
+I1
+sVexperience
+p108
+I1
+sVtimes
+p109
+I3
+sVbittersweet
+p110
+I2
+sVturn
+p111
+I1
+sVaction
+p112
+I1
+sVmistake
+p113
+I1
+sVroad
+p114
+I1
+sVthats
+p115
+I3
+sVapple
+p116
+I2
+sVgarbage
+p117
+I2
+sVgone
+p118
+I1
+sVanothers
+p119
+I1
+sVpostatono
+p120
+I1
+sVvisibly
+p121
+I1
+sVdelano
+p122
+I1
+sVinvisible
+p123
+I1
+sVjayz
+p124
+I2
+sVralph
+p125
+I1
+sVlearning
+p126
+I1
+sVearning
+p127
+I1
+sVcloud
+p128
+I1
+sVbehind
+p129
+I2
+sVwould
+p130
+I4
+sVhes
+p131
+I1
+sVdude
+p132
+I2
+sVhey
+p133
+I1
+sVleast
+p134
+I1
+sVpaint
+p135
+I1
+sVlive
+p136
+I1
+sVway
+p137
+I4
+sVtime
+p138
+I2
+sVkid
+p139
+I1
+sVtoday
+p140
+I1
+sVbox
+p141
+I1
+sVlife
+p142
+I6
+sVfoes
+p143
+I3
+sVturned
+p144
+I2
+sVback
+p145
+I1
+sVcorleone
+p146
+I1
+sVnigga
+p147
+I1
+sVgain
+p148
+I1
+sVrain
+p149
+I1
+sVtaketh
+p150
+I1
+sVgrim
+p151
+I1
+sVplay
+p152
+I3
+sVloved
+p153
+I1
+sVrappining
+p154
+I1
+sVattached
+p155
+I1
+sVsingle
+p156
+I1
+sVcruel
+p157
+I1
+sVbachelors
+p158
+I1
+sVlearn
+p159
+I1
+sVshook
+p160
+I1
+sVpictures
+p161
+I1
+sVtheres
+p162
+I1
+sVactresses
+p163
+I1
+sVcmon
+p164
+I8
+sVpotholes
+p165
+I1
+sVcrisscrossed
+p166
+I1
+sVagain
+p167
+I1
+sVmind
+p168
+I1
+sVmichelangelo
+p169
+I1
+sVreturn
+p170
+I1
+sVsay
+p171
+I1
+sVim
+p172
+I4
+sVsomething
+p173
+I2
+sVrap
+p174
+I2
+sVin
+p175
+I1
+sVneed
+p176
+I2
+sVevery
+p177
+I3
+sVhappen
+p178
+I1
+sVshit
+p179
+I1
+sVaxis
+p180
+I1
+sVferragamo
+p181
+I1
+sVmicrophone
+p182
+I1
+sVevens
+p183
+I1
+sVpay
+p184
+I1
+sVmake
+p185
+I1
+sVstayed
+p186
+I1
+sVhov
+p187
+I1
+sVroses
+p188
+I9
+sVhot
+p189
+I1
+sVbook
+p190
+I1
+sVboom
+p191
+I1
+sVkravitz
+p192
+I2
+sVgets
+p193
+I1
+sVproduct
+p194
+I1
+sVball
+p195
+I1
+sVpain
+p196
+I1
+sVrainbow
+p197
+I1
+sVmodels
+p198
+I1
+sVknew
+p199
+I3
+sVvisits
+p200
+I1
+sVtwo
+p201
+I3
+sVmoss
+p202
+I1
+sVrolling
+p203
+I1
+sVfriends
+p204
+I2
+sVgrow
+p205
+I1
+sVman
+p206
+I1
+sVdrain
+p207
+I1
+sVhappening
+p208
+I1
+sVlenny
+p209
+I2
+sVhome
+p210
+I1
+sVgather
+p211
+I1
+sVflow
+p212
+I2
+sVorder
+p213
+I1
+sVreaper
+p214
+I1
+sVtrafficking
+p215
+I1
+sVsalvatore
+p216
+I1
+sVjumped
+p217
+I1
+sVserious
+p218
+I1
+sVplaying
+p219
+I1
+sVleft
+p220
+I2
+s.

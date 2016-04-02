@@ -1,91 +1,670 @@
-"get your mind right mami" lyrics
-jay-z lyrics
-"get your mind right mami"
-(feat. memphis bleek, snoop dogg)
-sup ma? you want to roll with us, y'knowhati'msayin?
-it's good, it's love, it's all love
-we got cases of belvedere, we gon' play truth or dare
-we gon' really get to know one another
-all you gotta do is put your hair down, get your mind right
-knahmean? i'm here for you, yo
-relax yourself, let your conscience be free
-you now rollin with them thugs from the r-o-c
-ain't no place on the planet that you'd rather be
-but in the blue flame, bitch you're new to the game
-cross over to the roc, make yourself hot
-the topic of discussion in every nail shop
-it's a secret society, all we ask is trust
-and within a week, watch your arm freeze up
-brassiere get right, a to a d cup
-weave get tight, pedicure your feet up
-ears get iced, gear get spiced
-from hoodrat to superstar, there's your life
-fuck with hova, he can take you out of your hell
-say bye to reebok, say hi to chanel
-say hi to gucci, prada as well
-take a look in the mirror, be proud of yourself
-get your mind right mami, get your mind right
-you gotta play your part when you're rollin with the r-o-c
-get your mind right mami, get your mind right
-you gotta know what it takes to be down with a nigga like me
-get your mind right mami, get your mind right
-i need a gangsta girl, who can ride in my passenger seat
-get your mind right mami, get your mind right
-and i need gangsta girls, for my gangsta family
-yo, i'm young memphis, used to play the apprentice
-now i'm like the teacher, c'mere, let me teach ya
-how to play them benches, hold this work in your dentures
-how to play it cool when police come to pinch us
-relax mami, let the belvy flow
-inhale the 'dro, exhale it slow
-i could teach you how to roll, teach you bout fly kicks
-teach you how to keep your nose up out of my shit
-when the beeper goes off, please don't reach
-like you put a ring or spend cheese on bleek
-get your mind right baby, goin through mine crazy
-when i'm in the shower, *69 me crazy
-track my last call, contact my broad
-with a bitch ?? had physical contact in the mall
-you got issues {inhales} problems you need to iron out
-i will, holla, for now you on time out
-you gotta play your part when you're rollin with the r-o-c
-c'mon little mama, c'mon
-you gotta know what it takes to be down with a nigga like me
-get your mind right mami, get your mind right
-c'mon little mama, c'mon
-i need a gangsta girl, who can ride in my passenger seat
-get your mind right mami, get your mind right
-c'mon baby girl, c'mon
-and i need gangsta girls, for my gangsta family
-get your mind right mami, get your mind right
-c'mon little mama, c'mon
-p-i-m-p-ology
-i played you and you paid me
-believe me when i tell you girl i know you a freak
-for fuckin with me, that ain't all you can be
-just put your mind to it you can go real far
-i know times gettin hard on the boulevard
-they say, pimpin is dead; man, pimpin ain't dead
-these hoes just scared and they blind tryin and dyin to be lead
-but who's to lead 'em? talk shit to 'em and beat 'em
-get they mind right and feed 'em
-now i don't need 'em (uh uh) but i can do that there
-put on a three-piece suit and shirley temple my hair
-so i can, feel like a player when i walk in the place
-got yo' bitch all on my line and now she up in my face
-is this yo' bitch is that yo' bitch cause if she's not she mine
-she fallin fo' a nigga and i ain't even dropped a line
-get out my limelight bitch and get your mind right
-c'mon little mama, c'mon
-get your mind right bitch, get your mind right
-c'mon baby girl, c'mon, c'mon
-you gotta play your part when you're rollin with the r-o-c
-get your mind right mami, get your mind right
-you gotta know what it takes to be down with a nigga like me
-get your mind right ma, get your mind right
-i need a gangsta girl, who can ride in my passenger seat
-got ta get your mind right baby, get your mind right
-and i need gangsta girls for my gangsta family
-get your mind right mami, get your mind right
-get your mind right ma, get your mind right huh?
-got ta get your mind right baby, get your mind right
+(dp1
+Vshop
+p2
+I1
+sVfeed
+p3
+I1
+sVlyrics
+p4
+I2
+sVroc
+p5
+I5
+sVbaby
+p6
+I5
+sVshirley
+p7
+I1
+sVgo
+p8
+I1
+sVhell
+p9
+I1
+sVfeat
+p10
+I1
+sVline
+p11
+I2
+sVissues
+p12
+I1
+sVaint
+p13
+I4
+sVbeeper
+p14
+I1
+sVhold
+p15
+I1
+sVpolice
+p16
+I1
+sVbrassiere
+p17
+I1
+sVthreepiece
+p18
+I1
+sVyoung
+p19
+I1
+sVbeat
+p20
+I1
+sVgangsta
+p21
+I9
+sVbye
+p22
+I1
+sVta
+p23
+I9
+sVreal
+p24
+I1
+sVfly
+p25
+I1
+sVgood
+p26
+I1
+sVyo
+p27
+I5
+sVget
+p28
+I40
+sVya
+p29
+I1
+sVprada
+p30
+I1
+sVwatch
+p31
+I1
+sVgame
+p32
+I1
+sVevery
+p33
+I1
+sVknow
+p34
+I6
+sVnew
+p35
+I1
+sVyourself
+p36
+I1
+sVchanel
+p37
+I1
+sVdare
+p38
+I1
+sVlike
+p39
+I6
+sVd
+I1
+sVpinch
+p40
+I1
+sVcool
+p41
+I1
+sVgettin
+p42
+I1
+sVnose
+p43
+I1
+sVtruth
+p44
+I1
+sVboulevard
+p45
+I1
+sVride
+p46
+I3
+sVears
+p47
+I1
+sVem
+p48
+I5
+sVright
+p49
+I35
+sVscared
+p50
+I1
+sVhard
+p51
+I1
+sVdead
+p52
+I2
+sVfreeze
+p53
+I1
+sVhair
+p54
+I2
+sVsociety
+p55
+I1
+sVshes
+p56
+I1
+sVgoin
+p57
+I1
+sVmirror
+p58
+I1
+sVgirl
+p59
+I6
+sVarm
+p60
+I1
+sVreally
+p61
+I1
+sVconscience
+p62
+I1
+sVshower
+p63
+I1
+sVgon
+p64
+I2
+sVlead
+p65
+I2
+sVpedicure
+p66
+I1
+sVbroad
+p67
+I1
+sVplease
+p68
+I1
+sVmall
+p69
+I1
+sVgoes
+p70
+I1
+sVsup
+p71
+I1
+sVgot
+p72
+I12
+sVcause
+p73
+I1
+sVtemple
+p74
+I1
+sVbe
+p75
+I2
+sVyoud
+p76
+I1
+sVproblems
+p77
+I1
+sVeven
+p78
+I1
+sVfree
+p79
+I1
+sVbleek
+p80
+I2
+sVslow
+p81
+I1
+sVlet
+p82
+I3
+sVpimpin
+p83
+I2
+sVput
+p84
+I4
+sVteach
+p85
+I4
+sVinhales
+p86
+I1
+sVyknowhatimsayin
+p87
+I1
+sVteacher
+p88
+I1
+sVsuperstar
+p89
+I1
+sVbenches
+p90
+I1
+sVface
+p91
+I1
+sVdyin
+p92
+I1
+sVcould
+p93
+I1
+sVcup
+p94
+I1
+sVspiced
+p95
+I1
+sVkeep
+p96
+I1
+sVplace
+p97
+I2
+sVdentures
+p98
+I1
+sVfuckin
+p99
+I1
+sVblind
+p100
+I1
+sVcheese
+p101
+I1
+sVlove
+p102
+I2
+sVdont
+p103
+I2
+sVfamily
+p104
+I3
+sVfeel
+p105
+I1
+sVwithin
+p106
+I1
+sVone
+p107
+I1
+sVfeet
+p108
+I1
+sVask
+p109
+I1
+sVjayz
+p110
+I1
+sVnigga
+p111
+I4
+sVbitch
+p112
+I7
+sVanother
+p113
+I1
+sVfallin
+p114
+I1
+sV69
+p115
+I1
+sVring
+p116
+I1
+sVtrust
+p117
+I1
+sVlittle
+p118
+I4
+sVinhale
+p119
+I1
+sVtakes
+p120
+I3
+sVsnoop
+p121
+I1
+sViced
+p122
+I1
+sVdogg
+p123
+I1
+sVthere
+p124
+I1
+sVgirls
+p125
+I3
+sVwhos
+p126
+I1
+sVmami
+p127
+I12
+sVsecret
+p128
+I1
+sVcome
+p129
+I1
+sVsuit
+p130
+I1
+sVmama
+p131
+I4
+sVcall
+p132
+I1
+sVcmere
+p133
+I1
+sVtell
+p134
+I1
+sVlife
+p135
+I1
+sVgear
+p136
+I1
+sVrelax
+p137
+I2
+sVbelieve
+p138
+I1
+sVhuh
+p139
+I1
+sVmine
+p140
+I2
+sVbelvedere
+p141
+I1
+sVhi
+p142
+I2
+sVlimelight
+p143
+I1
+sVkicks
+p144
+I1
+sVlast
+p145
+I1
+sVcases
+p146
+I1
+sVseat
+p147
+I3
+sVmemphis
+p148
+I2
+sVbout
+p149
+I1
+sVapprentice
+p150
+I1
+sVme
+p151
+I4
+sVnail
+p152
+I1
+sVtryin
+p153
+I1
+sVma
+p154
+I3
+sVlook
+p155
+I1
+sVreebok
+p156
+I1
+sVwork
+p157
+I1
+sVup
+p158
+I2
+sVus
+p159
+I2
+sVman
+p160
+I1
+sVplanet
+p161
+I1
+sVgucci
+p162
+I1
+sVflame
+p163
+I1
+sVuh
+p164
+I2
+sViron
+p165
+I1
+sVexhale
+p166
+I1
+sVtheres
+p167
+I1
+sVpassenger
+p168
+I3
+sVcrazy
+p169
+I2
+sVproud
+p170
+I1
+sVfreak
+p171
+I1
+sVplayed
+p172
+I1
+sVpimpology
+p173
+I1
+sVflow
+p174
+I1
+sVhoes
+p175
+I1
+sVmind
+p176
+I35
+sVfuck
+p177
+I1
+sVtopic
+p178
+I1
+sVplayer
+p179
+I1
+sVsay
+p180
+I4
+sVim
+p181
+I4
+sVdropped
+p182
+I1
+sVwant
+p183
+I1
+sVknahmean
+p184
+I1
+sVneed
+p185
+I8
+sVtimes
+p186
+I1
+sVshit
+p187
+I2
+sVphysical
+p188
+I1
+sVholla
+p189
+I1
+sVthugs
+p190
+I1
+sVrather
+p191
+I1
+sVmake
+p192
+I1
+sVcross
+p193
+I1
+sVwalk
+p194
+I1
+sVtight
+p195
+I1
+sVhot
+p196
+I1
+sVcontact
+p197
+I2
+sVtake
+p198
+I2
+sVfo
+p199
+I1
+sVout
+p200
+I2
+sVhova
+p201
+I1
+sVroll
+p202
+I2
+sVweek
+p203
+I1
+sVblue
+p204
+I1
+sVplay
+p205
+I7
+sVused
+p206
+I1
+sVdro
+p207
+I1
+sVtrack
+p208
+I1
+sVhoodrat
+p209
+I1
+sVtime
+p210
+I1
+sVreach
+p211
+I1
+sVpaid
+p212
+I1
+sVcmon
+p213
+I13
+sVweave
+p214
+I1
+sVyoure
+p215
+I4
+sVwell
+p216
+I1
+sVrollin
+p217
+I4
+sVspend
+p218
+I1
+sVpart
+p219
+I3
+sVbelvy
+p220
+I1
+sVfar
+p221
+I1
+sVdiscussion
+p222
+I1
+sVtalk
+p223
+I1
+s.

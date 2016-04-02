@@ -1,124 +1,737 @@
-"soon as i get home" lyrics
-2pac lyrics
-"soon as i get home"
-(feat. yaki kadafi)
-soon as i get home...
-soon as i get home
-dear baby it's me again
-stuck inside this max' pen'
-trying to pay my debt for all my sins
-see
-these penitentiary time's be so heavy on my mind
-at times it's like i'm living just to die
-i'm living in hell
-stuck in my jail cell
-stranded in the county jail
-waiting for my chance to post bail
-i wanna be paid in large stacks
-and mash in fast jag's
-i blast and wonder how long will i last
-my memories fade when i'm intoxicated
-busters be shady
-so i'm dumping on cowards crazy whenever faded
-i know i said it all before but now i mean it
-visions of me and you balling so crystal clear i seen it
-even though you mad at me you'll be glad to see the strategy
-of making these chips come so easily
-i max out in the morning baby life is good
-me and you against the whole hood
-soon as i come home
-grab my strap
-locate my comrades
-let's get my enemies not knowing i'm coming back
-(as soon as i get home)
-go get the money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-sitting here looking at pictures of me and you living
-but now you out in the world
-while i'm twisted in prison
-love letters come daily, words of affection
-you send me money and news clips, begging for some sex
-stay wide open keep yours eyes peeled
-and my advice is keep it real or you can die squealing
-plus i never have to worry about a visit cause your there daily
-guards trying to get your number you don't dare tell me
-tongue kissing steady humping
-trying to touch or something
-before the co. in the corner jump in
-frontin'
-late night reminiscing
-everybody's quiet, i think something's in the air
-prepare for the riot
-it's padlocks in my socks, steel from the bed springs
-i touch 'em with thug love, but then let they head's ring
-started a war but now i'm gone
-release me to the streets in the morning it's on
-soon as i get home
-grab my gats
-locate my comrades
-let's get my enemies not knowing i'm coming back
-(soon as i get home)
-let's get the money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-since you've been gone my whole life's been like a game of cee-lo
-thinking big like that kid casino fulfilling my dreams like nino
-brown, the whole town be shook up
-and me and momma surviving depends on how many rocks a young nigga cooked up
-narcotics got drastic, seen them niggas you blasted
-wanting me in a casket, on the grind coping plastic's
-yea nigga i heard, lil moo gave the word
-you get paroled on the third, it's all love
-still these herb's, be out here fronting
-still here but all about nothing
-my double's o's what i'm wanting and i'm trying to see something we ain't never had
-luxury life's results living bad tricks of the trade shit that should of been taught by dad
-but learnt through the crew, lesson's between me and you
-and once we lock this shit down, there ain't a thing they can do
-meanwhile i'll stay waiting by the phone
-hoping i'll get the call telling a nigga that you home
-what?
-grab the gats
-locate my comrades
-let's get my enemies not knowing i'm coming back
-go get the money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-go get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-let's get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-let's get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-go get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-go get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-soon as i get home
-grab my gats
-locate my comrades
-go get my enemies not knowing i'm coming back
-go get my money out the safe
-it's time to turn the streets to a war zone
-a war zone
-(yeah)
+(dp1
+Vlyrics
+p2
+I2
+sVyoung
+p3
+I1
+sVmoney
+p4
+I10
+sVsoon
+p5
+I16
+sVtrade
+p6
+I1
+sVtelling
+p7
+I1
+sVnarcotics
+p8
+I1
+sVgo
+p9
+I12
+sVhell
+p10
+I1
+sVrocks
+p11
+I1
+sVfeat
+p12
+I1
+sVaint
+p13
+I2
+sVlooking
+p14
+I1
+sVzone
+p15
+I10
+sVthinking
+p16
+I1
+sVhad
+p17
+I1
+sVpen
+p18
+I1
+sVsend
+p19
+I1
+sVcrew
+p20
+I1
+sVlate
+p21
+I1
+sVyea
+p22
+I1
+sVlets
+p23
+I6
+sV2pac
+p24
+I1
+sVfade
+p25
+I1
+sVprison
+p26
+I1
+sVgave
+p27
+I1
+sVreal
+p28
+I1
+sVsteel
+p29
+I1
+sVgood
+p30
+I1
+sVdepends
+p31
+I1
+sVget
+p32
+I36
+sVbig
+p33
+I1
+sVsafe
+p34
+I9
+sVbegging
+p35
+I1
+sVresults
+p36
+I1
+sVgame
+p37
+I1
+sVfrontin
+p38
+I1
+sVmoo
+p39
+I1
+sVknow
+p40
+I1
+sVwords
+p41
+I1
+sVyaki
+p42
+I1
+sVdad
+p43
+I1
+sVworld
+p44
+I1
+sVblast
+p45
+I1
+sVchips
+p46
+I1
+sVdare
+p47
+I1
+sVeasily
+p48
+I1
+sVlike
+p49
+I4
+sVceelo
+p50
+I1
+sVcoping
+p51
+I1
+sVdie
+p52
+I2
+sVbail
+p53
+I1
+sVmorning
+p54
+I2
+sVlarge
+p55
+I1
+sVbad
+p56
+I1
+sVnight
+p57
+I1
+sVrelease
+p58
+I1
+sVdoubles
+p59
+I1
+sVgrab
+p60
+I9
+sVmean
+p61
+I1
+sVheavy
+p62
+I1
+sVknowing
+p63
+I9
+sVnigga
+p64
+I3
+sVdo
+p65
+I1
+sVdumping
+p66
+I1
+sVstreets
+p67
+I10
+sVback
+p68
+I9
+sVsex
+p69
+I1
+sVjump
+p70
+I1
+sVtouch
+p71
+I2
+sVsee
+p72
+I3
+sVtaught
+p73
+I1
+sVcorner
+p74
+I1
+sVdear
+p75
+I1
+sVhome
+p76
+I17
+sVlifes
+p77
+I2
+sVair
+p78
+I1
+sVwonder
+p79
+I1
+sVeven
+p80
+I1
+sVliving
+p81
+I4
+sVwhat
+p82
+I1
+sVsaid
+p83
+I1
+sVlearnt
+p84
+I1
+sVmemories
+p85
+I1
+sVsince
+p86
+I1
+sVtricks
+p87
+I1
+sVcell
+p88
+I1
+sVwaiting
+p89
+I2
+sVgot
+p90
+I1
+sVyoull
+p91
+I1
+sVlocate
+p92
+I9
+sVlessons
+p93
+I1
+sVnever
+p94
+I2
+sVsquealing
+p95
+I1
+sVshit
+p96
+I2
+sVpeeled
+p97
+I1
+sVsins
+p98
+I1
+sVlet
+p99
+I1
+sVkissing
+p100
+I1
+sVnews
+p101
+I1
+sVpost
+p102
+I1
+sVdebt
+p103
+I1
+sVcome
+p104
+I3
+sVblasted
+p105
+I1
+sVon
+p106
+I1
+sVlast
+p107
+I1
+sVherbs
+p108
+I1
+sVmany
+p109
+I1
+sVill
+p110
+I2
+sVpictures
+p111
+I1
+sVquiet
+p112
+I1
+sVtimes
+p113
+I2
+sVintoxicated
+p114
+I1
+sVplus
+p115
+I1
+sVnino
+p116
+I1
+sVyouve
+p117
+I1
+sVcomrades
+p118
+I9
+sVwhole
+p119
+I3
+sVthink
+p120
+I1
+sVem
+p121
+I1
+sVplastics
+p122
+I1
+sVlove
+p123
+I3
+sVdont
+p124
+I1
+sVsurviving
+p125
+I1
+sVnumber
+p126
+I1
+sVsocks
+p127
+I1
+sVstrap
+p128
+I1
+sVcounty
+p129
+I1
+sVmomma
+p130
+I1
+sVfast
+p131
+I1
+sVsprings
+p132
+I1
+sVring
+p133
+I1
+sVvisions
+p134
+I1
+sVbusters
+p135
+I1
+sVhood
+p136
+I1
+sVwan
+p137
+I1
+sVcasket
+p138
+I1
+sVheads
+p139
+I1
+sVprepare
+p140
+I1
+sVvisit
+p141
+I1
+sVtwisted
+p142
+I1
+sVlong
+p143
+I1
+sVstrategy
+p144
+I1
+sVcowards
+p145
+I1
+sVstuck
+p146
+I2
+sVcall
+p147
+I1
+sVkid
+p148
+I1
+sVdreams
+p149
+I1
+sVwar
+p150
+I11
+sVhumping
+p151
+I1
+sVlife
+p152
+I1
+sVriot
+p153
+I1
+sVstarted
+p154
+I1
+sVkadafi
+p155
+I1
+sVyeah
+p156
+I1
+sVphone
+p157
+I1
+sVparoled
+p158
+I1
+sVbaby
+p159
+I2
+sVjags
+p160
+I1
+sVthing
+p161
+I1
+sVtrying
+p162
+I4
+sVglad
+p163
+I1
+sVme
+p164
+I1
+sVwide
+p165
+I1
+sVword
+p166
+I1
+sVco
+p167
+I1
+sVniggas
+p168
+I1
+sVfulfilling
+p169
+I1
+sVinside
+p170
+I1
+sVup
+p171
+I2
+sVbed
+p172
+I1
+sVtell
+p173
+I1
+sVclips
+p174
+I1
+sVcrystal
+p175
+I1
+sVletters
+p176
+I1
+sVfaded
+p177
+I1
+sVmaking
+p178
+I1
+sVreminiscing
+p179
+I1
+sVclear
+p180
+I1
+sVaffection
+p181
+I1
+sVshook
+p182
+I1
+sVgone
+p183
+I2
+sVcrazy
+p184
+I1
+sVcasino
+p185
+I1
+sVhoping
+p186
+I1
+sVbrown
+p187
+I1
+sVlock
+p188
+I1
+sVmind
+p189
+I1
+sVit
+p190
+I2
+sVheard
+p191
+I1
+sVfronting
+p192
+I1
+sVim
+p193
+I17
+sVsomething
+p194
+I2
+sVin
+p195
+I1
+sVthug
+p196
+I1
+sVseen
+p197
+I2
+sVkeep
+p198
+I2
+sVworry
+p199
+I1
+sVagain
+p200
+I1
+sVopen
+p201
+I1
+sVturn
+p202
+I9
+sVlil
+p203
+I1
+sVpay
+p204
+I1
+sVsitting
+p205
+I1
+sVsomethings
+p206
+I1
+sVballing
+p207
+I1
+sVgats
+p208
+I8
+sVguards
+p209
+I1
+sVluxury
+p210
+I1
+sVgrind
+p211
+I1
+sVwanting
+p212
+I2
+sVyou
+p213
+I1
+sVenemies
+p214
+I9
+sVeverybodys
+p215
+I1
+sVthough
+p216
+I1
+sVstill
+p217
+I2
+sVmax
+p218
+I2
+sVadvice
+p219
+I1
+sVtime
+p220
+I9
+sVpaid
+p221
+I1
+sVstay
+p222
+I2
+sVtown
+p223
+I1
+sVchance
+p224
+I1
+sVmad
+p225
+I1
+sVcoming
+p226
+I9
+sVnothing
+p227
+I1
+sVdrastic
+p228
+I1
+sVtongue
+p229
+I1
+sVeyes
+p230
+I1
+sVpenitentiary
+p231
+I1
+sVcause
+p232
+I1
+sVthird
+p233
+I1
+sVwhenever
+p234
+I1
+sVos
+p235
+I1
+sVshady
+p236
+I1
+sVstranded
+p237
+I1
+sVsteady
+p238
+I1
+sVdaily
+p239
+I2
+sVmash
+p240
+I1
+sVcooked
+p241
+I1
+sVjail
+p242
+I2
+sVna
+p243
+I1
+sVpadlocks
+p244
+I1
+sVmeanwhile
+p245
+I1
+sVstacks
+p246
+I1
+s.

@@ -1,40 +1,289 @@
-"luv drunk" lyrics
-snoop dogg lyrics
-"luv drunk"
-oooh oooooh.
-close the door
-i'mma goin in
-and that for sure
-gonna lay ya out out out
-and i know you luv a nigga breakin it down
-everytime i'm with her, i get her hooo, i get her hoo, luv drunk
-everytime she's with, she in me, luv drunk
-you know who i am i'm the mothafockin dogg
-the sheets fucked up and you know it was me
-you hit a bedspreak all way down the street
-it sounds like a song we fuckin' to the beat
-i put ma rat-tat-tat in her boom boom pow
-then she put her tit-tit-tit all up in my mouth
-i told you before i don't luv them ho's
-but she got that good good can't let 'r go
-and i gotta let 'r know
-everytime i'm with her, i get her hooo, i get her hoo, luv drunk
-everytime she's with, she in me, luv drunk
-she make me say good luv that's what she's feelin' for..
-and i got that fire luvin', the more you need the more
-oooh lemme say oooohooh aaahaaaah
-everytime she's with me, me i'm dizzy
-shoot to the spot cause the spot is the lick
-pull your lunchbreak lemme hit it real quick
-back to your job before they know what is
-luvin so good, we already made three kids
-i dont know what it is but i luv what i did
-huggin and touchin' and all that shit
-drink to your drunk, see my luv is a fill
-yea this for you boo it's a gift
-everytime i'm with her, i get her hooo, i get her hoo, luv drunk
-everytime she's with, she in me, luv drunk
-she make me say good luv that's what she's feelin' for..
-and i got that fire luvin', the more you need the more
-oooh lemme say oooohooh aaahaaaah
-everytime she's with me, me i'm dizzy
+(dp1
+Voooohooh
+p2
+I2
+sVlyrics
+p3
+I2
+sVyea
+p4
+I1
+sValready
+p5
+I1
+sVgo
+p6
+I1
+sVimma
+p7
+I1
+sVrattattat
+p8
+I1
+sVhos
+p9
+I1
+sVreal
+p10
+I1
+sVme
+p11
+I4
+sVgood
+p12
+I5
+sVhit
+p13
+I2
+sVsong
+p14
+I1
+sVbeat
+p15
+I1
+sVfeelin
+p16
+I2
+sVknow
+p17
+I6
+sVlike
+p18
+I1
+sVgift
+p19
+I1
+sVeverytime
+p20
+I8
+sVdid
+p21
+I1
+sVoooh
+p22
+I3
+sVquick
+p23
+I1
+sVnigga
+p24
+I1
+sVback
+p25
+I1
+sVsee
+p26
+I1
+sVstreet
+p27
+I1
+sVshes
+p28
+I7
+sVclose
+p29
+I1
+sVtittittit
+p30
+I1
+sVout
+p31
+I1
+sVgon
+p32
+I1
+sVfor
+p33
+I2
+sVgot
+p34
+I4
+sVcause
+p35
+I1
+sVtold
+p36
+I1
+sVlem
+p37
+I3
+sVjob
+p38
+I1
+sVlet
+p39
+I2
+sVput
+p40
+I2
+sVkids
+p41
+I1
+sVaaahaaaah
+p42
+I2
+sVbreakin
+p43
+I1
+sVboo
+p44
+I1
+sVfuckin
+p45
+I1
+sVthats
+p46
+I2
+sVlunchbreak
+p47
+I1
+sVdont
+p48
+I2
+sVdrunk
+p49
+I9
+sVpow
+p50
+I1
+sVdown
+p51
+I1
+sVtouchin
+p52
+I1
+sVhooo
+p53
+I3
+sVsounds
+p54
+I1
+sVsnoop
+p55
+I1
+sVdogg
+p56
+I2
+sVthree
+p57
+I1
+sVway
+p58
+I1
+sVoooooh
+p59
+I1
+sVluvin
+p60
+I3
+sVmore
+p61
+I2
+sVdoor
+p62
+I1
+sVfire
+p63
+I2
+sVshoot
+p64
+I1
+sVpull
+p65
+I1
+sVmade
+p66
+I1
+sVma
+p67
+I1
+sVsay
+p68
+I4
+sVr
+I2
+sVta
+p69
+I1
+sVlick
+p70
+I1
+sVis
+p71
+I1
+sVcant
+p72
+I1
+sVdizzy
+p73
+I2
+sVim
+p74
+I6
+sVin
+p75
+I1
+sVneed
+p76
+I2
+sVshit
+p77
+I1
+sVfill
+p78
+I1
+sVhoo
+p79
+I3
+sVmake
+p80
+I2
+sVget
+p81
+I6
+sVya
+p82
+I1
+sVboom
+p83
+I2
+sVsure
+p84
+I1
+sVmothafockin
+p85
+I1
+sVdrink
+p86
+I1
+sVspot
+p87
+I2
+sVmouth
+p88
+I1
+sVlay
+p89
+I1
+sVsheets
+p90
+I1
+sVfucked
+p91
+I1
+sVgoin
+p92
+I1
+sVluv
+p93
+I14
+sVna
+p94
+I1
+sVhuggin
+p95
+I1
+sVbedspreak
+p96
+I1
+s.

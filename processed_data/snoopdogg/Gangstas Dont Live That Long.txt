@@ -1,64 +1,587 @@
-"gangstas don't live that long" lyrics
-snoop dogg lyrics
-"gangstas don't live that long"
-alright i'm ready
-rollin' rollin' rollin' rollin'...
-for life, for life...
-(i like that)
-gangsta shit
-(we gon')
-real smooth, you dig?
-the big boss dogg
-snoop d-o-double-g
-(see you niggas on )
-cause my life's worth more than
-the money that ya' live and die for
-and where i'm from my nigga you get shot
-for sellin' out your man when he the reason you got on
-(i ain't trippin')
-you know they say, that gangsters don't live that long
-but how can i be here homes if i wasn't real-ly that strong
-i pro'ly should be long gone
-tell me (tell me, tell me, tell me)
-tell me, what does it take to be dangerous
-everytime i look around, the game steady changin'
-from coast to coast, rearranging
-them boys out west, we insist to keep it bangin' (westside)
-ah yeah, we maintaining, burnin' up the charts, we spark, now we blazin'
-my young home boy, he amazing
-the cookie, rookie, shook him and took him
-and now he famous (wow)
-couldn't quite picture that, wonder what he fishin' at
-now ya talkin' bout this and that
-but pass that loc, i don't diss no mo'
-i make number one hits, you know
-believe me, i make it look easy
-you wanna know how to do it, then watch snoop deezie
-yeah, cuz, the game won't wait up
-dismissed all the beef and shook all the haters
-and took on the new routine
-started coaching youth football to go straight clean
-like mean joe green, i step on the scene
-they want an autograph and a picture, you know what i mean? (nah mean?)
-i get to 'em, nigga, don't ask why
-i'm real to my people, that's just how i ride
-yeah, since i slid in the do', i been at this
-some gangsta mack shit, but i did it with practice
-yeah, yeah, y'all know i get actin'
-i live to learn, teach to reach my status
-top of the charts, have heart, have money
-to have money, you gotta have heart
-it's been thirteen years, no pain, no tears
-respected by all my peers
-no matter where i'm posted at, my hands stay close to that
-ratta da dat dada dadat dadat
-and as a matter of fact, no beef on the streets
-no black on black. we gon' be all on one track
-so i fall in ride or get lost in the pack
-it's like that, fo' real, we ain't bluffin'
-right now it's west coast or nothin'
-i'll push that line and in due time
-y'all gon' respect this cause out here, fool, we rhyme
-oh, yeah, we bang, but right now it ain't time
-so put away yo' nine, an' fall in line
-(tell 'em why)
+(dp1
+Vdiss
+p2
+I1
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I3
+sVhands
+p6
+I1
+sVyears
+p7
+I1
+sVgo
+p8
+I1
+sVaint
+p9
+I3
+sVhaters
+p10
+I1
+sVyoung
+p11
+I1
+sVcoaching
+p12
+I1
+sVactin
+p13
+I1
+sVeasy
+p14
+I1
+sVgangsta
+p15
+I2
+sVworth
+p16
+I1
+sVta
+p17
+I1
+sVreal
+p18
+I3
+sVtears
+p19
+I1
+sVaround
+p20
+I1
+sVyo
+p21
+I1
+sVget
+p22
+I4
+sVya
+p23
+I2
+sVbig
+p24
+I1
+sVfishin
+p25
+I1
+sVwatch
+p26
+I1
+sVcoast
+p27
+I3
+sVdat
+p28
+I1
+sVfamous
+p29
+I1
+sVgame
+p30
+I2
+sVknow
+p31
+I5
+sVnew
+p32
+I1
+sVnothin
+p33
+I1
+sVhim
+p34
+I1
+sVmaintaining
+p35
+I1
+sVwont
+p36
+I1
+sVtrippin
+p37
+I1
+sVbout
+p38
+I1
+sVscene
+p39
+I1
+sVlike
+p40
+I3
+sVlost
+p41
+I1
+sVeverytime
+p42
+I1
+sVdie
+p43
+I1
+sVdig
+p44
+I1
+sVgangsters
+p45
+I1
+sVstraight
+p46
+I1
+sVyall
+p47
+I2
+sVmean
+p48
+I3
+sVem
+p49
+I2
+sVnigga
+p50
+I2
+sVpeople
+p51
+I1
+sVstreets
+p52
+I1
+sVyeah
+p53
+I6
+sVsee
+p54
+I1
+sVthirteen
+p55
+I1
+sVpass
+p56
+I1
+sVdeezie
+p57
+I1
+sVhome
+p58
+I1
+sVquite
+p59
+I1
+sVreally
+p60
+I1
+sVgon
+p61
+I3
+sVfor
+p62
+I1
+sVwow
+p63
+I1
+sVboy
+p64
+I1
+sVroutine
+p65
+I1
+sVgot
+p66
+I2
+sVfall
+p67
+I2
+sVcause
+p68
+I2
+sVwan
+p69
+I1
+sVboss
+p70
+I1
+sVreason
+p71
+I1
+sVcookie
+p72
+I1
+sVjoe
+p73
+I1
+sVask
+p74
+I1
+sVspark
+p75
+I1
+sVstrong
+p76
+I1
+sVwestside
+p77
+I1
+sVdada
+p78
+I1
+sVrearranging
+p79
+I1
+sVon
+p80
+I1
+sVhits
+p81
+I1
+sVbeef
+p82
+I2
+sVoh
+p83
+I1
+sVill
+p84
+I1
+sVstep
+p85
+I1
+sVkeep
+p86
+I1
+sVdue
+p87
+I1
+sVwest
+p88
+I2
+sVpack
+p89
+I1
+sVthats
+p90
+I1
+sVdont
+p91
+I5
+sVheart
+p92
+I2
+sVnumber
+p93
+I1
+sVinsist
+p94
+I1
+sVone
+p95
+I2
+sVput
+p96
+I1
+sVright
+p97
+I2
+sVchangin
+p98
+I1
+sVaway
+p99
+I1
+sVfool
+p100
+I1
+sVrespect
+p101
+I1
+sVcouldnt
+p102
+I1
+sVteach
+p103
+I1
+sVloc
+p104
+I1
+sVlifes
+p105
+I1
+sVsnoop
+p106
+I3
+sVdogg
+p107
+I2
+sVtop
+p108
+I1
+sVcharts
+p109
+I2
+sVlong
+p110
+I4
+sVratta
+p111
+I1
+sVlive
+p112
+I5
+sVblack
+p113
+I2
+sVwait
+p114
+I1
+sVtell
+p115
+I6
+sVlife
+p116
+I2
+sVthat
+p117
+I3
+sVstarted
+p118
+I1
+sVtook
+p119
+I2
+sVboys
+p120
+I1
+sVbluffin
+p121
+I1
+sVline
+p122
+I2
+sVbelieve
+p123
+I1
+sVthan
+p124
+I1
+sVposted
+p125
+I1
+sVme
+p126
+I1
+sVhomes
+p127
+I1
+sVlook
+p128
+I2
+sVniggas
+p129
+I1
+sVthis
+p130
+I1
+sVdangerous
+p131
+I1
+sVmo
+p132
+I1
+sVsmooth
+p133
+I1
+sVup
+p134
+I1
+sVyouth
+p135
+I1
+sVmatter
+p136
+I2
+sVnine
+p137
+I1
+sVlearn
+p138
+I1
+sVshook
+p139
+I2
+sVgone
+p140
+I1
+sVslid
+p141
+I1
+sVwasnt
+p142
+I1
+sVah
+p143
+I1
+sVgangstas
+p144
+I2
+sVrespected
+p145
+I1
+sVsay
+p146
+I1
+sVim
+p147
+I4
+sVat
+p148
+I1
+sVwant
+p149
+I1
+sVclose
+p150
+I1
+sVready
+p151
+I1
+sVproly
+p152
+I1
+sVshit
+p153
+I2
+sVride
+p154
+I2
+sVburnin
+p155
+I1
+sVsince
+p156
+I1
+sVsellin
+p157
+I1
+sVna
+p158
+I1
+sVmake
+p159
+I2
+sVdismissed
+p160
+I1
+sVnah
+p161
+I1
+sVrhyme
+p162
+I1
+sVamazing
+p163
+I1
+sVtake
+p164
+I1
+sVfo
+p165
+I1
+sVrookie
+p166
+I1
+sVmack
+p167
+I1
+sVwonder
+p168
+I1
+sVtalkin
+p169
+I1
+sVstatus
+p170
+I1
+sVpicture
+p171
+I2
+sVpractice
+p172
+I1
+sVpain
+p173
+I1
+sVtrack
+p174
+I1
+sVdadat
+p175
+I2
+sVdodoubleg
+p176
+I1
+sVfootball
+p177
+I1
+sVreach
+p178
+I1
+sVstay
+p179
+I1
+sVpush
+p180
+I1
+sVda
+p181
+I1
+sVblazin
+p182
+I1
+sVwhy
+p183
+I2
+sVautograph
+p184
+I1
+sVman
+p185
+I1
+sVpeers
+p186
+I1
+sVbangin
+p187
+I1
+sVsteady
+p188
+I1
+sVbang
+p189
+I1
+sVrollin
+p190
+I4
+sVgreen
+p191
+I1
+sVclean
+p192
+I1
+sVtime
+p193
+I2
+sValright
+p194
+I1
+sVcuz
+p195
+I1
+sVfact
+p196
+I1
+s.

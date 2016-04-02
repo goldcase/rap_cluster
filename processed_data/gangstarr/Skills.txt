@@ -1,80 +1,622 @@
-"skills" lyrics
-gang starr lyrics
-"skills"
-skills, skills, skills
-"my microphone"
-"it's skills"-
-"the funky beat"
-"it's skills"-
-(skills) top rank point blank we vital
-spit flows rip shows peep the recital
-(skills) now, you feel it when we drop those
-hot beats stop phoes killin shit we got those
-(skills) it's, the music that the street love
-each thug, is now reppin this with deep love
-(skills) gang starr duelin again rulin again
-watch as we do it again
-it's the, true enliven with a youthful vengeance
-and i'm a judge rap is your ass give you a crucial sentence
-you need at least twelve jewels to practice
-your too enthusiastic male groupie bastard
-still tryin to convince us some more
-pretendin your raw that's what you need a minister for
-again it's the law got you up against the wall
-we the gulliest fuck it then it's us against y'all
-mic skills type grills like i'm michael jill
-like when he write for the pill is how i stay for the ill
-slide off kid, and let a grown man finesse it
-we bold and impressive that old manifest shit
-some new product from a known team
-niggas know me, and you can bet they know preme
-so here we go for your stereo
-and you could tell that it's real when you hear me go hear me go
-(skills) top rank point blank we vital
-spit flows rip shows peep the recital
-(skills) now, you feel it when we drop those
-hot beats stop phoes killin shit we got those
-(skills) it's, the music that the street love
-each thug, is now reppin this with deep love
-(skills) gang starr duelin again rulin again
-watch as we do it again
-you little suckers know better, i go head up
-if your man left the joint in the whip then tell him go get it
-we hold it down like a holy crown
-fools actin like they know me throw me phoney pounds
-fuck that i'm sittin back like an aristocrat
-shell shocked chief assasin with a whole fuckin list of cats
-thought you was on the case but you missed the fact
-the bitch talkin this and that i'm a make it simple jack
-i doubled up and tripled that, soldiers where your pistols at?
-life wrong move lose the gift of that
-why they callin us the most consistent?
-most significant ("once again"-chuck d) some old slick shit
-fulfill your need and catch joyful rush
-enjoy your dutch haters annoyed with us
-oh boy it's us you know the face in the club
-blazin it up, with my niggas raisin it up for these
-(skills) top rank point blank we vital
-spit flows rip shows peep the recital
-(skills) now, you feel it when we drop those
-hot beats stop phoes killin shit we got those
-(skills) it's, the music that the street love
-each thug, is now reppin this with deep love
-(skills) gang starr duelin again rulin again
-watch as we do it again
-btohers are amused by other brother's rep
-some niggas pull tecks catch others for checks
-all for respect, all for the bread
-for the chance of success they might hand him his head
-remain humble cause i know enough
-plus the road is tough especially when you roll with us
-but i'm a stay with my peeps, stay in these streets
-rhyme sprayin and i'm playin for keeps cause i got those
-(skills) top rank point blank we vital
-spit flows rip shows peep the recital
-(skills) now, you feel it when we drop those
-hot beats stop phoes killin shit we got those
-(skills) it's, the music that the street love
-each thug, is now reppin this with deep love
-(skills) gang starr duelin again rulin again
-watch as we do it again....(skills)
+(dp1
+Vlyrics
+p2
+I2
+sVsentence
+p3
+I1
+sVmove
+p4
+I1
+sVpreme
+p5
+I1
+sVcatch
+p6
+I2
+sVgang
+p7
+I5
+sVrulin
+p8
+I4
+sVgo
+p9
+I5
+sVsoldiers
+p10
+I1
+sVstill
+p11
+I1
+sVhaters
+p12
+I1
+sVrhyme
+p13
+I1
+sVphoes
+p14
+I4
+sVbetter
+p15
+I1
+sVwall
+p16
+I1
+sVactin
+p17
+I1
+sVduelin
+p18
+I4
+sVbread
+p19
+I1
+sVmight
+p20
+I1
+sVpill
+p21
+I1
+sVreal
+p22
+I1
+sVroad
+p23
+I1
+sVcallin
+p24
+I1
+sVagainchuck
+p25
+I1
+sVget
+p26
+I1
+sVbeat
+p27
+I1
+sVpractice
+p28
+I1
+sVwatch
+p29
+I4
+sVjoint
+p30
+I1
+sVknow
+p31
+I6
+sVrip
+p32
+I4
+sVnew
+p33
+I1
+sVjudge
+p34
+I1
+sVimpressive
+p35
+I1
+sVlike
+p36
+I5
+sVgift
+p37
+I1
+sVpounds
+p38
+I1
+sVskills
+p39
+I24
+sVcause
+p40
+I2
+sVdrop
+p41
+I4
+sVmichael
+p42
+I1
+sVdoubled
+p43
+I1
+sVmanifest
+p44
+I1
+sVslide
+p45
+I1
+sVman
+p46
+I2
+sVteam
+p47
+I1
+sVyall
+p48
+I1
+sVenjoy
+p49
+I1
+sVtwelve
+p50
+I1
+sVphoney
+p51
+I1
+sVold
+p52
+I2
+sVlist
+p53
+I1
+sVconsistent
+p54
+I1
+sVstreets
+p55
+I1
+sVcrown
+p56
+I1
+sVback
+p57
+I1
+sVd
+I1
+sVaristocrat
+p58
+I1
+sVstreet
+p59
+I4
+sVagainskills
+p60
+I1
+sVplayin
+p61
+I1
+sVwhip
+p62
+I1
+sVpretendin
+p63
+I1
+sVmissed
+p64
+I1
+sVfor
+p65
+I1
+sVrep
+p66
+I1
+sVcrucial
+p67
+I1
+sVslick
+p68
+I1
+sVenough
+p69
+I1
+sVdutch
+p70
+I1
+sVgot
+p71
+I6
+sVgroupie
+p72
+I1
+sVchecks
+p73
+I1
+sVshows
+p74
+I4
+sVass
+p75
+I1
+sVbold
+p76
+I1
+sVamused
+p77
+I1
+sVlose
+p78
+I1
+sVjack
+p79
+I1
+sVjill
+p80
+I1
+sVlet
+p81
+I1
+sVothers
+p82
+I1
+sVsuckers
+p83
+I1
+sVpeep
+p84
+I4
+sVhand
+p85
+I1
+sVthrow
+p86
+I1
+sVboy
+p87
+I1
+sVoh
+p88
+I1
+sVill
+p89
+I1
+sVraisin
+p90
+I1
+sVchance
+p91
+I1
+sVtecks
+p92
+I1
+sVfunky
+p93
+I1
+sVtripled
+p94
+I1
+sVplus
+p95
+I1
+sVwhole
+p96
+I1
+sVyouthful
+p97
+I1
+sVthats
+p98
+I1
+sVpistols
+p99
+I1
+sVlove
+p100
+I8
+sVpoint
+p101
+I4
+sVfeel
+p102
+I4
+sVrank
+p103
+I4
+sVbitch
+p104
+I1
+sVblank
+p105
+I4
+sVrespect
+p106
+I1
+sVsprayin
+p107
+I1
+sVlittle
+p108
+I1
+sVkillin
+p109
+I4
+sVenliven
+p110
+I1
+sVtop
+p111
+I4
+sVleast
+p112
+I1
+sVgulliest
+p113
+I1
+sVreppin
+p114
+I4
+sVassasin
+p115
+I1
+sVcats
+p116
+I1
+sVmusic
+p117
+I4
+sVstarr
+p118
+I5
+sVtryin
+p119
+I1
+sVtype
+p120
+I1
+sVtell
+p121
+I2
+sVmore
+p122
+I1
+sVhead
+p123
+I2
+sVshell
+p124
+I1
+sVspit
+p125
+I4
+sVthat
+p126
+I1
+sVclub
+p127
+I1
+sVit
+p128
+I2
+sVhear
+p129
+I2
+sVdeep
+p130
+I4
+sVknown
+p131
+I1
+sVgrills
+p132
+I1
+sVhold
+p133
+I1
+sVtrue
+p134
+I1
+sVthose
+p135
+I9
+sVcase
+p136
+I1
+sVpull
+p137
+I1
+sVrush
+p138
+I1
+sVniggas
+p139
+I3
+sVraw
+p140
+I1
+sVthese
+p141
+I1
+sVup
+p142
+I1
+sVus
+p143
+I6
+sVjoyful
+p144
+I1
+sVremain
+p145
+I1
+sVconvince
+p146
+I1
+sVbtohers
+p147
+I1
+sVfulfill
+p148
+I1
+sVmale
+p149
+I1
+sVcould
+p150
+I1
+sVbet
+p151
+I1
+sVgive
+p152
+I1
+sVfuck
+p153
+I2
+sVjewels
+p154
+I1
+sVroll
+p155
+I1
+sVthug
+p156
+I4
+sVbeats
+p157
+I4
+sVim
+p158
+I6
+sVat
+p159
+I1
+sVrap
+p160
+I1
+sVneed
+p161
+I3
+sVface
+p162
+I1
+sVshit
+p163
+I6
+sVgrown
+p164
+I1
+sVagain
+p165
+I7
+sVmicrophone
+p166
+I1
+sVholy
+p167
+I1
+sVtough
+p168
+I1
+sVmic
+p169
+I1
+sVshocked
+p170
+I1
+sVwrite
+p171
+I1
+sVhot
+p172
+I4
+sVvital
+p173
+I4
+sVsuccess
+p174
+I1
+sVfools
+p175
+I1
+sVtalkin
+p176
+I1
+sVlife
+p177
+I1
+sVproduct
+p178
+I1
+sVsittin
+p179
+I1
+sVbrothers
+p180
+I1
+sVstop
+p181
+I4
+sVbastard
+p182
+I1
+sVflows
+p183
+I4
+sVstay
+p184
+I3
+sVwrong
+p185
+I1
+sVvengeance
+p186
+I1
+sVsignificant
+p187
+I1
+sVlaw
+p188
+I1
+sVblazin
+p189
+I1
+sVkid
+p190
+I1
+sVstereo
+p191
+I1
+sVfinesse
+p192
+I1
+sVespecially
+p193
+I1
+sVenthusiastic
+p194
+I1
+sVhumble
+p195
+I1
+sVsimple
+p196
+I1
+sVrecital
+p197
+I4
+sVannoyed
+p198
+I1
+sVthought
+p199
+I1
+sVpeeps
+p200
+I1
+sVchief
+p201
+I1
+sVfuckin
+p202
+I1
+sVkeeps
+p203
+I1
+sVleft
+p204
+I1
+sVmake
+p205
+I1
+sVfact
+p206
+I1
+sVminister
+p207
+I1
+s.

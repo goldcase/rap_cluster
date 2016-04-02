@@ -1,86 +1,709 @@
-"back in business" lyrics
-e-40 lyrics
-"back in business"
-prepared for the hatred
-with my problem solver my patriot
-goon up and get tooned up
-dropped off erased it
-stay dedicated and faithful to my camp (what about yo camp?)
-try  my loved ones they get stamped
-stapled, removed
-soil tested and block approved
-really a good dude
-but he can get trooped
-from the school of hubbarocks some life savers up in the socks
-sprintin and runnin from the cops
-the cherries, the sirens
-the po-po penelope one time
-the alphabet boy’s stilettos
-the sophisticated dog trained attackers
-the k9 sheppards
-in order to do some right you gotta do some wrong
-got hella shit goin on
-the dusty, the dirty, the smirk (ugh)
-i ain't paranoid i’m prepared
-i ain't nervous
-when you cookin birdies in the kitchen
-can't be slippin like a transmission
-gotta be on your peesin toes
-it's hard to make an honest livin
-when your kids ain't got no clothes
-playin the game how it was meant to be played
-the way it's supposed to be
-money hungry and sany
-soil savy and grainy
-hard headed and mannish
-me and my philippinos and hispanics
-romanians and asians, samoans, tongans and caucasians
-not no california bears
-not no california raisins
-all of us is fools
-all of us is patients
-ethiopians, afghanis and eritreans
-africans, jamaicans and indians
-ugh, ave animal
-we some hood hysterians
-you can tell by the way i carry it that i'm a block barbarian
-a goon witta spoon, wrist game sick
-pay the neighbourhood chef to teach a nigga how to whip
-a nigga how to whip
-a fixture how to mix
-got it clock wise twistin it
-drop it off, deliver it
-never half step
-go for the juggler
-get yo money man
-don't be no couch potato hustler
-fella you're a silent dude
-your name just came up
-bro you gon' live a long time
-we just talked you up
-wha-what was the subject
-what about was the subject
-was it good or was it bad?
-the subject was about how you make them suckaz back up like sea crab
-gotta raise the white flag
-too many drinks they had
-disrespecting the boss, that's how you got fucked off
-you mean something
-you somebody
-you really stand for something
-they got big ass m on they chest (for what?)
-for nothing
-you know my homie with the two-toned legs (what about him)
-he thuggin
-a couple of them niggas were off
-they licked the sweaty balls
-these hoes nowadays is dogs
-givin up them drawers
-do anything for the cash
-wipe the coochie off witta napkin and take a hooker bath
-ain't none of my niggers kept us
-they gotta pay our mackin ass
-we be slummin'em we be trapin'em
-in the slow lane and the fast
-money hogs fame and kissin
-alcohol weed and bitches man we back da fuck in business
+(dp1
+Vugh
+p2
+I2
+sVstamped
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I3
+sVtrapinem
+p6
+I1
+sVpopo
+p7
+I1
+sVnone
+p8
+I1
+sVslippin
+p9
+I1
+sVwhawhat
+p10
+I1
+sVhustler
+p11
+I1
+sVaint
+p12
+I4
+sVslow
+p13
+I1
+sVgivin
+p14
+I1
+sVslumminem
+p15
+I1
+sVsavy
+p16
+I1
+sVparanoid
+p17
+I1
+sVnervous
+p18
+I1
+sVweed
+p19
+I1
+sVtwistin
+p20
+I1
+sVhad
+p21
+I1
+sVhim
+p22
+I1
+sVattackers
+p23
+I1
+sVcherries
+p24
+I1
+sVethiopians
+p25
+I1
+sVta
+p26
+I4
+sVmeant
+p27
+I1
+sVpay
+p28
+I2
+sVgood
+p29
+I2
+sVsomebody
+p30
+I1
+sVlivin
+p31
+I1
+sVyo
+p32
+I2
+sVget
+p33
+I4
+sVi\u2019m
+p34
+I1
+sVgoon
+p35
+I2
+sVcouple
+p36
+I1
+sVe40
+p37
+I1
+sVda
+p38
+I1
+sVhispanics
+p39
+I1
+sVgame
+p40
+I2
+sVones
+p41
+I1
+sVjamaicans
+p42
+I1
+sVhalf
+p43
+I1
+sVwise
+p44
+I1
+sVbarbarian
+p45
+I1
+sVfools
+p46
+I1
+sVtongans
+p47
+I1
+sVbro
+p48
+I1
+sVschool
+p49
+I1
+sVlike
+p50
+I2
+sVsolver
+p51
+I1
+sVtransmission
+p52
+I1
+sVdrop
+p53
+I1
+sVsany
+p54
+I1
+sVtry
+p55
+I1
+sVstapled
+p56
+I1
+sVman
+p57
+I2
+sVraise
+p58
+I1
+sVballs
+p59
+I1
+sVclothes
+p60
+I1
+sVass
+p61
+I2
+sVright
+p62
+I1
+sVhard
+p63
+I2
+sVfixture
+p64
+I1
+sVback
+p65
+I4
+sVcash
+p66
+I1
+sVchef
+p67
+I1
+sVgo
+p68
+I1
+sVeritreans
+p69
+I1
+sVsea
+p70
+I1
+sVhoes
+p71
+I1
+sVplayin
+p72
+I1
+sVneighbourhood
+p73
+I1
+sVreally
+p74
+I2
+sVwhat
+p75
+I1
+sVgon
+p76
+I1
+sValcohol
+p77
+I1
+sVclock
+p78
+I1
+sVwitta
+p79
+I2
+sVsmirk
+p80
+I1
+sVtake
+p81
+I1
+sVbad
+p82
+I1
+sVmannish
+p83
+I1
+sVgot
+p84
+I9
+sVhooker
+p85
+I1
+sVtrooped
+p86
+I1
+sVsupposed
+p87
+I1
+sVsirens
+p88
+I1
+sVbe
+p89
+I1
+sVtoes
+p90
+I1
+sVbusiness
+p91
+I3
+sVnever
+p92
+I1
+sVdeliver
+p93
+I1
+sVboss
+p94
+I1
+sVpeesin
+p95
+I1
+sVcalifornia
+p96
+I2
+sVfuck
+p97
+I1
+sVromanians
+p98
+I1
+sVteach
+p99
+I1
+sVprepared
+p100
+I2
+sVcoochie
+p101
+I1
+sVcookin
+p102
+I1
+sVon
+p103
+I1
+sVkids
+p104
+I1
+sVanything
+p105
+I1
+sVdusty
+p106
+I1
+sVmany
+p107
+I1
+sVstep
+p108
+I1
+sVhonest
+p109
+I1
+sVdrawers
+p110
+I1
+sVlicked
+p111
+I1
+sVnothing
+p112
+I1
+sVstand
+p113
+I1
+sVhysterians
+p114
+I1
+sVhatred
+p115
+I1
+sVmean
+p116
+I1
+sVblock
+p117
+I2
+sVthats
+p118
+I1
+sVbath
+p119
+I1
+sVdont
+p120
+I1
+sVheaded
+p121
+I1
+sVboy\u2019s
+p122
+I1
+sVsocks
+p123
+I1
+sVone
+p124
+I1
+sVpenelope
+p125
+I1
+sVsprintin
+p126
+I1
+sVnigga
+p127
+I2
+sVtwotoned
+p128
+I1
+sVtrained
+p129
+I1
+sVcarry
+p130
+I1
+sVnowadays
+p131
+I1
+sVbirdies
+p132
+I1
+sVhood
+p133
+I1
+sVerased
+p134
+I1
+sVfella
+p135
+I1
+sVfast
+p136
+I1
+sVsilent
+p137
+I1
+sVbears
+p138
+I1
+sVindians
+p139
+I1
+sVdude
+p140
+I2
+sVlong
+p141
+I1
+sVname
+p142
+I1
+sVlive
+p143
+I1
+sVsamoans
+p144
+I1
+sVway
+p145
+I2
+sVwhite
+p146
+I1
+sVkitchen
+p147
+I1
+sVtell
+p148
+I1
+sVjuggler
+p149
+I1
+sVlife
+p150
+I1
+sVcrab
+p151
+I1
+sVraisins
+p152
+I1
+sVbitches
+p153
+I1
+sVsuckaz
+p154
+I1
+sVsophisticated
+p155
+I1
+sVtested
+p156
+I1
+sVflag
+p157
+I1
+sVsick
+p158
+I1
+sVkept
+p159
+I1
+sVremoved
+p160
+I1
+sVrunnin
+p161
+I1
+sVloved
+p162
+I1
+sVpatriot
+p163
+I1
+sVlegs
+p164
+I1
+sVspoon
+p165
+I1
+sVcaucasians
+p166
+I1
+sVniggas
+p167
+I1
+sVpotato
+p168
+I1
+sVgrainy
+p169
+I1
+sVup
+p170
+I3
+sVus
+p171
+I3
+sVdogs
+p172
+I1
+sVpatients
+p173
+I1
+sVdirty
+p174
+I1
+sVthuggin
+p175
+I1
+sVproblem
+p176
+I1
+sVsomething
+p177
+I2
+sVdedicated
+p178
+I1
+sVyoure
+p179
+I1
+sVplayed
+p180
+I1
+sVsweaty
+p181
+I1
+sVsoil
+p182
+I2
+sVmackin
+p183
+I1
+sVhogs
+p184
+I1
+sVit
+p185
+I3
+sVhungry
+p186
+I1
+sVcant
+p187
+I1
+sVhomie
+p188
+I1
+sVim
+p189
+I1
+sVdropped
+p190
+I1
+sVsavers
+p191
+I1
+sVave
+p192
+I1
+sVhubbarocks
+p193
+I1
+sVfame
+p194
+I1
+sVshit
+p195
+I1
+sVasians
+p196
+I1
+sVtooned
+p197
+I1
+sVtalked
+p198
+I1
+sVfaithful
+p199
+I1
+sVniggers
+p200
+I1
+sValphabet
+p201
+I1
+sVmake
+p202
+I2
+sVafricans
+p203
+I1
+sVwipe
+p204
+I1
+sVcouch
+p205
+I1
+sVmix
+p206
+I1
+sVchest
+p207
+I1
+sVstilettos
+p208
+I1
+sVwhip
+p209
+I2
+sVanimal
+p210
+I1
+sVbig
+p211
+I1
+sVk9
+p212
+I1
+sVsubject
+p213
+I3
+sVafghanis
+p214
+I1
+sVkissin
+p215
+I1
+sVm
+I1
+sVstay
+p216
+I1
+sVwrong
+p217
+I1
+sVwrist
+p218
+I1
+sVsheppards
+p219
+I1
+sVfucked
+p220
+I1
+sVphilippinos
+p221
+I1
+sVapproved
+p222
+I1
+sVgoin
+p223
+I1
+sVlane
+p224
+I1
+sVoff
+p225
+I2
+sVcops
+p226
+I1
+sVcamp
+p227
+I2
+sVdrinks
+p228
+I1
+sVdog
+p229
+I1
+sVnapkin
+p230
+I1
+sVhella
+p231
+I1
+sVtime
+p232
+I2
+sVdisrespecting
+p233
+I1
+sVorder
+p234
+I1
+sVcame
+p235
+I1
+sVknow
+p236
+I1
+s.

@@ -1,52 +1,302 @@
-wonder lyrics
-kanye west lyrics
-wonder
-find dreams come true
-wonder know
-means means
-wonder know
-means means
-wonder know
-means find dreams
-ive waiting whole life
-dreams waking night
-say think im never wrong
-know maybe youre right aight
-wonder know
-means means
-wonder know
-means find dreams
-say get fucking nerves
-hope get deserves word
-even remember issue is
-trying find tissue is
-still wish is
-aint happen yet
-thats intuition is
-hop back car
-drive back crib
-run back arms
-smokescreens
-chokes screams
-ever wonder really mean
-wonder know
-means means
-wonder know
-means find dreams
-im back grind
-psychic read lifeline
-told lifetime
-name would help light chicago skyline
-thats im
-seven oclock thats primetime
-heavenll watch god calling hot lines
-keep giving hot lines
-im star could shine
-many ladies house
-many ladies house without spouse
-something blouse got feeling aroused
-about
-independent shit
-trade husband kids
-ever wonder really mean
-ever wonder youll find dreams
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVladies
+p4
+I2
+sVtrade
+p5
+I1
+sVkanye
+p6
+I1
+sVstill
+p7
+I1
+sVfind
+p8
+I6
+sVaint
+p9
+I1
+sVlifeline
+p10
+I1
+sVoclock
+p11
+I1
+sVhope
+p12
+I1
+sVget
+p13
+I2
+sVread
+p14
+I1
+sVwatch
+p15
+I1
+sVknow
+p16
+I8
+sVdreams
+p17
+I6
+sVname
+p18
+I1
+sVever
+p19
+I3
+sVcalling
+p20
+I1
+sVskyline
+p21
+I1
+sVcar
+p22
+I1
+sVnerves
+p23
+I1
+sVhusband
+p24
+I1
+sVmean
+p25
+I2
+sVright
+p26
+I1
+sVindependent
+p27
+I1
+sVfucking
+p28
+I1
+sVhouse
+p29
+I2
+sVback
+p30
+I4
+sVwaking
+p31
+I1
+sVhappen
+p32
+I1
+sVaroused
+p33
+I1
+sVwonder
+p34
+I12
+sVeven
+p35
+I1
+sVchicago
+p36
+I1
+sVgiving
+p37
+I1
+sVgod
+p38
+I1
+sVpsychic
+p39
+I1
+sVheavenll
+p40
+I1
+sVyet
+p41
+I1
+sVwaiting
+p42
+I1
+sVgot
+p43
+I1
+sVissue
+p44
+I1
+sVtold
+p45
+I1
+sVrun
+p46
+I1
+sVscreams
+p47
+I1
+sVnever
+p48
+I1
+sVchokes
+p49
+I1
+sVcome
+p50
+I1
+sVshine
+p51
+I1
+sVsmokescreens
+p52
+I1
+sVkids
+p53
+I1
+sVmany
+p54
+I2
+sVcould
+p55
+I1
+sVkeep
+p56
+I1
+sVdeserves
+p57
+I1
+sVyoull
+p58
+I1
+sVwhole
+p59
+I1
+sVthink
+p60
+I1
+sVthats
+p61
+I3
+sVintuition
+p62
+I1
+sVcrib
+p63
+I1
+sVprimetime
+p64
+I1
+sVwould
+p65
+I1
+sVwest
+p66
+I1
+sVnight
+p67
+I1
+sVarms
+p68
+I1
+sVlife
+p69
+I1
+sVabout
+p70
+I1
+sVtrying
+p71
+I1
+sVtrue
+p72
+I1
+sVword
+p73
+I1
+sVwish
+p74
+I1
+sVmaybe
+p75
+I1
+sVaight
+p76
+I1
+sVfeeling
+p77
+I1
+sVive
+p78
+I1
+sVseven
+p79
+I1
+sVis
+p80
+I4
+sVsay
+p81
+I2
+sVtissue
+p82
+I1
+sVim
+p83
+I4
+sVsomething
+p84
+I1
+sVlifetime
+p85
+I1
+sVshit
+p86
+I1
+sVmeans
+p87
+I11
+sVhot
+p88
+I2
+sVhop
+p89
+I1
+sVreally
+p90
+I2
+sVblouse
+p91
+I1
+sVstar
+p92
+I1
+sVwrong
+p93
+I1
+sVspouse
+p94
+I1
+sVremember
+p95
+I1
+sVlight
+p96
+I1
+sVyoure
+p97
+I1
+sVlines
+p98
+I2
+sVdrive
+p99
+I1
+sVgrind
+p100
+I1
+sVwithout
+p101
+I1
+s.

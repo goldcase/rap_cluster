@@ -1,48 +1,449 @@
-"my chick bad" lyrics
-ludacris lyrics
-"my chick bad"
-(feat. nicki minaj)
-my chick bad
-my chick hood
-my chick do stuff dat ya chick wish she could
-my chick bad, badder than yours
-my my chick bad, badder than yours
-my my my chick bad, badder than yours
-i’m saying my chick bad
-my chick hood
-my chick do stuff that your chick wish she could
-my chick bad, badder than yours
-my chick do stuff that i can’t even put in words
-her swagger don’t stop
-her body won’t quit
-so fool pipe down you ain’t talkin bout shit
-my chick bad, tell me if you seen her
-she always bring the racket like venus and serena
-all white top, all white belt
-and all white jeans, body looking like milk
-no time for games, she’s full grown
-my chick bad, tell your chick to go home
-now your girl might be sick but my girl sicker
-she rides that dick and she handles her liquor
-she knock a bitch out and fight
-coming out swinging like tiger woods wife
-yeah she could get a little hasty
-chicks better cover up there chests like pasty’s
-couple girl friends and they all a little crazy
-coming down the street like a parade macy’s
-i fill her up balloons
-test her and guns get drawn like cartoons
-doh, but i aint talkin bout homer
-chick so bad the whole crew wanna bone her
-yo, now all these bitches wanna try and be my bestie
-but i take a left and leave them hanging like a testi
-trash talk to em then i put em in a hefty
-running down the court i'm dunkin on em lisa leslie.
-it’s going down, basement, friday the 13th guess who’s playing jason
-tuck yourself in you better hold on to your teddy
-it’s nightmare on elm street and guess who’s playing freddy
-(my chick bad)
-chef cooking for me, they say my shoe game crazy
-the mental asylum looking for me
-you a rookie to me
-i’m in dat wam bam purple lam’ damn bitch you been a fan.
+(dp1
+Vsaying
+p2
+I1
+sVcooking
+p3
+I1
+sVjason
+p4
+I1
+sVbestie
+p5
+I1
+sVlyrics
+p6
+I2
+sVludacris
+p7
+I1
+sVbring
+p8
+I1
+sVwoods
+p9
+I1
+sVshoe
+p10
+I1
+sVhanging
+p11
+I1
+sVgo
+p12
+I1
+sVasylum
+p13
+I1
+sVfeat
+p14
+I1
+sVmilk
+p15
+I1
+sVaint
+p16
+I1
+sVelm
+p17
+I1
+sVwon\u2019t
+p18
+I1
+sVdick
+p19
+I1
+sVcrew
+p20
+I1
+sVbetter
+p21
+I2
+sVnicki
+p22
+I1
+sVmental
+p23
+I1
+sVpasty\u2019s
+p24
+I1
+sVbout
+p25
+I2
+sVmight
+p26
+I1
+sVfool
+p27
+I1
+sVhomer
+p28
+I1
+sVyo
+p29
+I1
+sVget
+p30
+I2
+sVya
+p31
+I1
+sVcouple
+p32
+I1
+sVstop
+p33
+I1
+sVdat
+p34
+I2
+sVme
+p35
+I2
+sVgame
+p36
+I1
+sVfan
+p37
+I1
+sVwords
+p38
+I1
+sVbasement
+p39
+I1
+sVtesti
+p40
+I1
+sVknock
+p41
+I1
+sVlike
+p42
+I7
+sValways
+p43
+I1
+sVtry
+p44
+I1
+sVbad
+p45
+I12
+sVstuff
+p46
+I3
+sVcartoons
+p47
+I1
+sVchick
+p48
+I20
+sVvenus
+p49
+I1
+sVbam
+p50
+I1
+sVbone
+p51
+I1
+sVem
+p52
+I3
+sVcan\u2019t
+p53
+I1
+sVparade
+p54
+I1
+sVliquor
+p55
+I1
+sVyeah
+p56
+I1
+sVchests
+p57
+I1
+sVstreet
+p58
+I2
+sVleslie
+p59
+I1
+sVracket
+p60
+I1
+sVhome
+p61
+I1
+sVgirl
+p62
+I3
+sVeven
+p63
+I1
+sVleave
+p64
+I1
+sVpurple
+p65
+I1
+sVnightmare
+p66
+I1
+sVdunkin
+p67
+I1
+sVlooking
+p68
+I2
+sVdrawn
+p69
+I1
+sVguns
+p70
+I1
+sVwho\u2019s
+p71
+I2
+sVbody
+p72
+I2
+sVfull
+p73
+I1
+sVwan
+p74
+I2
+sVhefty
+p75
+I1
+sVfriday
+p76
+I1
+sVguess
+p77
+I2
+sVlisa
+p78
+I1
+sVput
+p79
+I2
+sVtuck
+p80
+I1
+sVcould
+p81
+I3
+sVsicker
+p82
+I1
+sVgames
+p83
+I1
+sVwhole
+p84
+I1
+sVballoons
+p85
+I1
+sVit\u2019s
+p86
+I2
+sVjeans
+p87
+I1
+sVbitch
+p88
+I2
+sVhood
+p89
+I2
+sVbelt
+p90
+I1
+sVquit
+p91
+I1
+sVlittle
+p92
+I2
+sVher
+p93
+I2
+sVteddy
+p94
+I1
+sVtop
+p95
+I1
+sVfight
+p96
+I1
+sVhandles
+p97
+I1
+sVgoing
+p98
+I1
+sVbadder
+p99
+I4
+sVdon\u2019t
+p100
+I1
+sVdamn
+p101
+I1
+sVwhite
+p102
+I3
+sVswagger
+p103
+I1
+sVtell
+p104
+I2
+sVbitches
+p105
+I1
+sVtiger
+p106
+I1
+sVhold
+p107
+I1
+sVmacy\u2019s
+p108
+I1
+sVchef
+p109
+I1
+sVwish
+p110
+I2
+sVain\u2019t
+p111
+I1
+sVfreddy
+p112
+I1
+sVcrazy
+p113
+I2
+sVminaj
+p114
+I1
+sV13th
+p115
+I1
+sVsay
+p116
+I1
+sVim
+p117
+I1
+sVswinging
+p118
+I1
+sVseen
+p119
+I1
+sVshit
+p120
+I1
+sVfill
+p121
+I1
+sVgrown
+p122
+I1
+sVcourt
+p123
+I1
+sVna
+p124
+I2
+sVi\u2019m
+p125
+I2
+sVchicks
+p126
+I1
+sVtake
+p127
+I1
+sVsick
+p128
+I1
+sVrookie
+p129
+I1
+sVtest
+p130
+I1
+sVtrash
+p131
+I1
+sVrides
+p132
+I1
+sVtalkin
+p133
+I2
+sVserena
+p134
+I1
+sVshe\u2019s
+p135
+I1
+sVrunning
+p136
+I1
+sVcoming
+p137
+I2
+sVlam\u2019
+p138
+I1
+sVfriends
+p139
+I1
+sVdoh
+p140
+I1
+sVwife
+p141
+I1
+sVhasty
+p142
+I1
+sVcover
+p143
+I1
+sVplaying
+p144
+I2
+sVpipe
+p145
+I1
+sVwam
+p146
+I1
+sVtime
+p147
+I1
+sVyours
+p148
+I4
+sVtalk
+p149
+I1
+sVleft
+p150
+I1
+s.

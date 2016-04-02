@@ -1,22 +1,160 @@
-school spirit skit 2 lyrics
-kanye west lyrics
-school spirit skit 2
-keep going man keep books rolling
-pick books going read
-remember roll man
-get sociate degree okay
-get bachelors get masters
-get masters masters
-get doctron
-go man everybody says quit
-show degree man when
-everybody says hey working
-making money
-say look degrees look life
-yeah im 52 hate want
-im smart im smart im school
-guys making
-money ways im spended mine smart
-know why
-die buddy know
-going keep warm right degrees
+(dp1
+Vright
+p2
+I1
+sVsays
+p3
+I2
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoney
+p6
+I2
+sVskit
+p7
+I2
+sVsay
+p8
+I1
+sVbooks
+p9
+I2
+sVim
+p10
+I5
+sVwant
+p11
+I1
+sVkanye
+p12
+I1
+sVgo
+p13
+I1
+sVsociate
+p14
+I1
+sV52
+p15
+I1
+sVhate
+p16
+I1
+sVeverybody
+p17
+I2
+sVquit
+p18
+I1
+sVbuddy
+p19
+I1
+sVworking
+p20
+I1
+sVways
+p21
+I1
+sVwest
+p22
+I1
+sVwhen
+p23
+I1
+sVhey
+p24
+I1
+sVwhy
+p25
+I1
+sVgoing
+p26
+I3
+sVdegrees
+p27
+I2
+sVroll
+p28
+I1
+sVsmart
+p29
+I3
+sVlife
+p30
+I1
+sVokay
+p31
+I1
+sVdegree
+p32
+I2
+sVget
+p33
+I5
+sVread
+p34
+I1
+sVmasters
+p35
+I3
+sVyeah
+p36
+I1
+sVwarm
+p37
+I1
+sVknow
+p38
+I2
+sVrolling
+p39
+I1
+sV2
+I2
+sVspended
+p40
+I1
+sVguys
+p41
+I1
+sVspirit
+p42
+I2
+sVman
+p43
+I4
+sVschool
+p44
+I3
+sVremember
+p45
+I1
+sVdoctron
+p46
+I1
+sVdie
+p47
+I1
+sVkeep
+p48
+I3
+sVlook
+p49
+I2
+sVbachelors
+p50
+I1
+sVpick
+p51
+I1
+sVmine
+p52
+I1
+sVmaking
+p53
+I2
+s.

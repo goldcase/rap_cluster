@@ -1,117 +1,764 @@
-"and he gets the girl" lyrics
-lupe fiasco lyrics
-"and he gets the girl"
-yo
-(hold it now)
-uh
-get up and walk up to her and say
-(go over there)
-hi, that's all you gotta do is say hi
-that's all you gotta do, say hi
-well, i know i'm not the coolest
-and this might sound kind of foolish
-'cause i know i'm not the smoothest
-told myself i shouldn't do this
-'cause i'm not very well suited
-not the popularist of students
-we ain't in the same crowd
-always see you with the hoopers
-but we got the same lunch
-you might see me with the cooler
-that's 'cause i don't eat pork
-you can never be sure
-oh, you like linkin' park
-that's the hat from the tour
-i got a autographed shirt
-they wrote, "much love to ya"
-man that's really funny
-how we like tha same music
-but i really love jazz
-i was gonna play the tuba
-i tried to join tha band
-they said i was really really bad
-didn't really make me sad
-i'm used to being the loser
-but you, i think you're super
-so much i had to pursue ya
-i don't believe the things they say
-or the football teams rumors
-tha quarterback can't spell
-i'm his after school tutor
-i just took a cue from cupid
-now i think it's stupid
-i'm sorry
-and then i walked away
-thinkin' that she would never talk to me
-like what were you thinking?
-bringing up the band
-you would have got a better result
-if would have just beat her up and ran
-you shouldn't have worn your glasses
-take your shirt up out your pants
-see, now it's all over
-and you won't get another chance, damn
-i was so close to her
-then i felt a hand on my shoulder
-she said i know you're not the coolest
-but i swear you are the cutest
-and i know you played the tuba
-i seen you at the recital
-it takes a lot to get up there and embarrass yourself
-but you shouldn't put down you should merit yourself
-that's just mean you not a punk
-i like the loneliest monk
-hest the wallpaper on my computer
-i love final fantasy
-i hate first person shooters
-(me too)
-meteora was nice but i bought hybrid theory twice
-half of tha cheerleading squad is in the stouper
-tha only reason i do it 'cause of my mother
-took state when she was a junior
-and she want me to du tha same so i'm like naw
-i wanna be an oncologist and diagnose tumors
-i gotta a pet parrot his name is mister tuna
-my favorite food is fish
-remember that for the future
-my im name is miss luana, you can hit me after six
-(how you feelin' right now?)
-yes, yes, yes, yes, yes, yes
-come see more, we have things to do
-(how you feelin' right now?)
-and just like everything in life
-things grow
-people grow
-and people grow apart
-it's like some things....
-were just never meant to be.....you see
-but...then again
-maybe some things are
-hold it now
-you know today gonn' be the coolest
-and you know how far your school is
-know how dangerous the flu is so button up your coat
-and finish off your breakfast
-you know how important fuel is
-food is to humans as buoyancy's to boat
-i knew this
-everyday we gotta go through this
-and i ask why you quote.."cause i'm your father lucas"
-pop last night i was looking over the futures
-commodities is failing
-rental properties is selling
-the bio-tech marketshare is at its hugest
-i think we should ride this wave
-we can't reinvent the rubix
-woh!!!
-we should of played her more music
-lucas dear why's your bookbag full of tulips
-who are these flowers for?
-well ma, see theres this girl
-and i was thinking i might walk to her
-you know talk to her
-discuss different things that would talk to her
-and see what makes her tick
-hey!!! yeah
-you know momma?
-it's funny right?
+(dp1
+Vnow
+p2
+I4
+sVlyrics
+p3
+I2
+sVfood
+p4
+I2
+sVover
+p5
+I1
+sVbeyou
+p6
+I1
+sVmerit
+p7
+I1
+sVquotecause
+p8
+I1
+sVgo
+p9
+I2
+sVyes
+p10
+I6
+sVhest
+p11
+I1
+sVaint
+p12
+I1
+sVbelieve
+p13
+I1
+sVmother
+p14
+I1
+sVthinking
+p15
+I2
+sVrental
+p16
+I1
+sVfather
+p17
+I1
+sVcupid
+p18
+I1
+sVjunior
+p19
+I1
+sVbetter
+p20
+I1
+sVcue
+p21
+I1
+sVflowers
+p22
+I1
+sVfuel
+p23
+I1
+sVsorry
+p24
+I1
+sVapart
+p25
+I1
+sVmight
+p26
+I3
+sVhugest
+p27
+I1
+sVta
+p28
+I4
+sVmeant
+p29
+I1
+sVme
+p30
+I1
+sVmister
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I1
+sVget
+p34
+I3
+sVya
+p35
+I2
+sVjazz
+p36
+I1
+sVpants
+p37
+I1
+sVhate
+p38
+I1
+sVfeelin
+p39
+I2
+sVband
+p40
+I2
+sVknow
+p41
+I10
+sVhalf
+p42
+I1
+sVma
+p43
+I1
+sVwalk
+p44
+I2
+sVbringing
+p45
+I1
+sVdiscuss
+p46
+I1
+sVis
+p47
+I2
+sVname
+p48
+I2
+sVwont
+p49
+I1
+sVschool
+p50
+I2
+sVlike
+p51
+I7
+sVparrot
+p52
+I1
+sVcooler
+p53
+I1
+sValways
+p54
+I1
+sVtumors
+p55
+I1
+sVbutthen
+p56
+I1
+sVshouldnt
+p57
+I3
+sVteams
+p58
+I1
+sVthis
+p59
+I3
+sVbad
+p60
+I1
+sVstupid
+p61
+I1
+sVdangerous
+p62
+I1
+sVfoolish
+p63
+I1
+sVbutton
+p64
+I1
+sVwrote
+p65
+I1
+sVglasses
+p66
+I1
+sVpork
+p67
+I1
+sVright
+p68
+I3
+sVcrowd
+p69
+I1
+sVpeople
+p70
+I2
+sVdo
+p71
+I1
+sVfish
+p72
+I1
+sVluana
+p73
+I1
+sVyeah
+p74
+I1
+sVwhys
+p75
+I1
+sVtick
+p76
+I1
+sVsee
+p77
+I7
+sVsure
+p78
+I1
+sVloser
+p79
+I1
+sVdear
+p80
+I1
+sVclose
+p81
+I1
+sVgirl
+p82
+I3
+sVwallpaper
+p83
+I1
+sVreally
+p84
+I5
+sVsaid
+p85
+I2
+sVfor
+p86
+I1
+sVtwice
+p87
+I1
+sVpet
+p88
+I1
+sVhoopers
+p89
+I1
+sVaway
+p90
+I1
+sVtuba
+p91
+I2
+sVlooking
+p92
+I1
+sVeverything
+p93
+I1
+sVstate
+p94
+I1
+sVfuture
+p95
+I1
+sVwoh
+p96
+I1
+sVtheres
+p97
+I1
+sVgot
+p98
+I7
+sVcause
+p99
+I4
+sVmarketshare
+p100
+I1
+sVtold
+p101
+I1
+sVfelt
+p102
+I1
+sVtheory
+p103
+I1
+sVcutest
+p104
+I1
+sVwan
+p105
+I1
+sVlupe
+p106
+I1
+sVask
+p107
+I1
+sVnever
+p108
+I3
+sVfailing
+p109
+I1
+sVreason
+p110
+I1
+sVput
+p111
+I1
+sVembarrass
+p112
+I1
+sVsuper
+p113
+I1
+sVproperties
+p114
+I1
+sVreinvent
+p115
+I1
+sVlast
+p116
+I1
+sVher
+p117
+I4
+sVoh
+p118
+I1
+sVpunk
+p119
+I1
+sVmonk
+p120
+I1
+sVtour
+p121
+I1
+sVswear
+p122
+I1
+sVnaw
+p123
+I1
+sVmean
+p124
+I1
+sVbookbag
+p125
+I1
+sVthink
+p126
+I3
+sVthats
+p127
+I6
+sVlove
+p128
+I3
+sVdont
+p129
+I2
+sVoncologist
+p130
+I1
+sVimportant
+p131
+I1
+sVpop
+p132
+I1
+sVautographed
+p133
+I1
+sVfantasy
+p134
+I1
+sVmomma
+p135
+I1
+sVpopularist
+p136
+I1
+sVanother
+p137
+I1
+sVmiss
+p138
+I1
+sVshooters
+p139
+I1
+sVboat
+p140
+I1
+sVyourself
+p141
+I2
+sVbought
+p142
+I1
+sVtakes
+p143
+I1
+sVwould
+p144
+I4
+sVrubix
+p145
+I1
+sVcome
+p146
+I1
+sVthere
+p147
+I1
+sVhey
+p148
+I1
+sVtutor
+p149
+I1
+sVmuch
+p150
+I2
+sVmusic
+p151
+I2
+sVtoo
+p152
+I1
+sVlot
+p153
+I1
+sVdamn
+p154
+I1
+sVfinal
+p155
+I1
+sVtoday
+p156
+I1
+sVlife
+p157
+I1
+sVselling
+p158
+I1
+sVhumans
+p159
+I1
+sVloneliest
+p160
+I1
+sVpark
+p161
+I1
+sVtook
+p162
+I2
+sVcheerleading
+p163
+I1
+sVhi
+p164
+I3
+sVhold
+p165
+I2
+sVeat
+p166
+I1
+sVlucas
+p167
+I2
+sVsound
+p168
+I1
+sVkind
+p169
+I1
+sVlinkin
+p170
+I1
+sVjoin
+p171
+I1
+sVfull
+p172
+I1
+sVpursue
+p173
+I1
+sVhat
+p174
+I1
+sVride
+p175
+I1
+sVflu
+p176
+I1
+sVcant
+p177
+I2
+sVworn
+p178
+I1
+sVcomputer
+p179
+I1
+sVuh
+p180
+I1
+sVmeteora
+p181
+I1
+sVcoat
+p182
+I1
+sVshoulder
+p183
+I1
+sVdidnt
+p184
+I1
+sVcoolest
+p185
+I3
+sVresult
+p186
+I1
+sVdiagnose
+p187
+I1
+sVbiotech
+p188
+I1
+sVfutures
+p189
+I1
+sVplayed
+p190
+I2
+sVran
+p191
+I1
+sVfavorite
+p192
+I1
+sVgonn
+p193
+I1
+sVsad
+p194
+I1
+sVsay
+p195
+I4
+sVim
+p196
+I9
+sVstouper
+p197
+I1
+sVwant
+p198
+I1
+sVseen
+p199
+I1
+sVbreakfast
+p200
+I1
+sVsmoothest
+p201
+I1
+sVeveryday
+p202
+I1
+sVare
+p203
+I1
+sVfunny
+p204
+I2
+sVspell
+p205
+I1
+sVrumors
+p206
+I1
+sVshirt
+p207
+I2
+sVtulips
+p208
+I1
+sVthings
+p209
+I6
+sVmake
+p210
+I1
+sVsix
+p211
+I1
+sVhybrid
+p212
+I1
+sVmakes
+p213
+I1
+sVbeat
+p214
+I1
+sVfinish
+p215
+I1
+sVsquad
+p216
+I1
+sVtake
+p217
+I1
+sVgets
+p218
+I2
+sVquarterback
+p219
+I1
+sVnice
+p220
+I1
+sVplay
+p221
+I1
+sVused
+p222
+I1
+sVdu
+p223
+I1
+sVtried
+p224
+I1
+sVagain
+p225
+I1
+sVstudents
+p226
+I1
+sVknew
+p227
+I1
+sVfootball
+p228
+I1
+sVbuoyancys
+p229
+I1
+sVdifferent
+p230
+I1
+sVhand
+p231
+I1
+sVchance
+p232
+I1
+sVgon
+p233
+I1
+sVsuited
+p234
+I1
+sVfiasco
+p235
+I1
+sVtuna
+p236
+I1
+sVwave
+p237
+I1
+sVgrow
+p238
+I3
+sVman
+p239
+I1
+sVnight
+p240
+I1
+sVremember
+p241
+I1
+sVlunch
+p242
+I1
+sVmaybe
+p243
+I1
+sVyoure
+p244
+I2
+sVwell
+p245
+I3
+sVrecital
+p246
+I1
+sVwalked
+p247
+I1
+sVcommodities
+p248
+I1
+sVperson
+p249
+I1
+sVtalk
+p250
+I3
+sVna
+p251
+I2
+sVfar
+p252
+I1
+sVfirst
+p253
+I1
+sVthinkin
+p254
+I1
+sVtha
+p255
+I6
+s.

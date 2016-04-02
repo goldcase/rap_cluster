@@ -1,80 +1,577 @@
-"the death of a true thug" lyrics
-2pac lyrics
-"the death of a true thug"
-'cause they're bragging, telling the fuckers in jail yo, we just got pumped woo
-and that's why we don't do it, i know what i'm doing, imma destroy 'em
-got some static for some niggaz on the other side of town
-let my little cousin k roll, he's a rider now
-what they want from us motherfuckin thug niggaz?
-used to love niggaz now i plug niggaz, and slug niggaz
-am i wrong? niggaz makin songs, tryin to get with us
-must be gone on stress weed, in the west we trust
-to the chest i bust! then we ride 'til the sun come
-shinin back to brighten up the sky, many die
-heard the fugees was tryin to do me - look bitch!
-i cut yo' face, this ain't no motherfuckin movie
-then! we watch the other two die slow
-castrated entertainin at my motherfuckin sideshow
-bam! set my plan in mo', time to exterminate my foes
-i can't stand you hoes, uhh
-now label this my fuckin trick shot
-my lyrics runnin all you cowards out of hip-hop
-when we ride
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-and still, we try to change the past, in vain
-never knowin if this game'll last, feelin ashamed
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-a man of military means in my artillery
-watchin over me through every murder scene
-come take a journey through my mind's eye
-you crossed the game, don't explain, nigga time to die, say goodbye
-watch my eyes when i pull the trigger
-so right before you die you bow before a bigga nigga, now dry yo' eyes
-you was heartless on yo' hits
-niggaz love to scream peace after they start some shit - pay attention
-here's a word to those that robbed me
-i murder you then i, run a train on mobb deep! don't fuck with me
-nigga you're barely livin, don't you got sickle cell?
-see me have a seizure on stage, you ain't feelin well, hell
-how many niggaz wanna be involved?
-see i was only talkin to biggie, but i'll kill allay'all, then ball
-then tell da brat to keep her mouth closed
-fuck around and get tossed up, by the fuckin outlawz
-before i leave, make sure everybody heard
-know i meant, every motherfuckin word
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-and still, we try to change the past, in vain
-never knowin if this game'll last, feelin ashamed
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-a man of military means in my artillery
-watchin over me through every murder scene
-i really didn't believe until i got shot that no black person would shoot me.
-i was their representative, they would never harm me
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-and still, we try to change the past, in vain
-never knowin if this game'll last, feelin ashamed
-and if i die by a slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-a man of military means in my artillery
-watchin over me through every murder scene
-and if i die by slug, the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-and still, we try to change the past, in vain
-never knowin if this game'll last, feelin ashamed
-and if i die by slug the death of a true thug
-tell me will my niggaz mourn me?
-the death of a true thug
-a man of military means in my artillery
-watchin over me through every murder scene
+(dp1
+Vpeace
+p2
+I1
+sVshot
+p3
+I2
+sVlyrics
+p4
+I3
+sVexterminate
+p5
+I1
+sVkeep
+p6
+I1
+sVsickle
+p7
+I1
+sVkill
+p8
+I1
+sVhell
+p9
+I1
+sVstill
+p10
+I4
+sVaint
+p11
+I2
+sVdeath
+p12
+I18
+sVimma
+p13
+I1
+sVtalkin
+p14
+I1
+sVexplain
+p15
+I1
+sVsky
+p16
+I1
+sVbrighten
+p17
+I1
+sVbust
+p18
+I1
+sVblack
+p19
+I1
+sVsure
+p20
+I1
+sVtake
+p21
+I1
+sVmeant
+p22
+I1
+sVrunnin
+p23
+I1
+sVlivin
+p24
+I1
+sVyo
+p25
+I4
+sVget
+p26
+I2
+sVwatch
+p27
+I2
+sVdry
+p28
+I1
+sVuhh
+p29
+I1
+sVfeelin
+p30
+I5
+sVme
+p31
+I12
+sVgame
+p32
+I1
+sVmourn
+p33
+I8
+sVknow
+p34
+I2
+sVtelling
+p35
+I1
+sVtossed
+p36
+I1
+sVnow
+p37
+I1
+sVbiggie
+p38
+I1
+sVscene
+p39
+I4
+sVdie
+p40
+I12
+sVrider
+p41
+I1
+sVtry
+p42
+I4
+sVmovie
+p43
+I1
+sVbam
+p44
+I1
+sVmo
+p45
+I1
+sVem
+p46
+I1
+sVharm
+p47
+I1
+sVset
+p48
+I1
+sVback
+p49
+I1
+sVpast
+p50
+I4
+sVsee
+p51
+I2
+sVshinin
+p52
+I1
+sVstatic
+p53
+I1
+sVniggaz
+p54
+I16
+sVhoes
+p55
+I1
+sVtheyre
+p56
+I1
+sVreally
+p57
+I1
+sVleave
+p58
+I1
+sVrepresentative
+p59
+I1
+sVheres
+p60
+I1
+sVsun
+p61
+I1
+sVlabel
+p62
+I1
+sVcell
+p63
+I1
+sVwoo
+p64
+I1
+sVclosed
+p65
+I1
+sVgot
+p66
+I4
+sVcause
+p67
+I1
+sVinvolved
+p68
+I1
+sVwatchin
+p69
+I4
+sVgamell
+p70
+I4
+sVattention
+p71
+I1
+sVrun
+p72
+I1
+sVright
+p73
+I1
+sVnever
+p74
+I5
+sVcut
+p75
+I1
+sVslow
+p76
+I1
+sVlet
+p77
+I1
+sVcousin
+p78
+I1
+sVcome
+p79
+I2
+sVslug
+p80
+I9
+sVchange
+p81
+I4
+sVstage
+p82
+I1
+sVplug
+p83
+I1
+sVfoes
+p84
+I1
+sVhits
+p85
+I1
+sVlast
+p86
+I4
+sVknowin
+p87
+I4
+sVbrat
+p88
+I1
+sVmany
+p89
+I2
+sVk
+I1
+sVbarely
+p90
+I1
+sVhiphop
+p91
+I1
+sVminds
+p92
+I1
+sVside
+p93
+I1
+sVstand
+p94
+I1
+sVmilitary
+p95
+I4
+sVfuckin
+p96
+I2
+sVthats
+p97
+I1
+sVlove
+p98
+I2
+sVdont
+p99
+I4
+sVvain
+p100
+I4
+sVmakin
+p101
+I1
+sVseizure
+p102
+I1
+sVna
+p103
+I1
+sVnigga
+p104
+I3
+sVbitch
+p105
+I1
+sVtrust
+p106
+I1
+sVeverybody
+p107
+I1
+sVwan
+p108
+I1
+sVlittle
+p109
+I1
+sVeye
+p110
+I1
+sVwould
+p111
+I2
+sVhes
+p112
+I1
+sVwest
+p113
+I1
+sVfuckers
+p114
+I1
+sVtwo
+p115
+I1
+sVcowards
+p116
+I1
+sVstart
+p117
+I1
+sVtrigger
+p118
+I1
+sVoutlawz
+p119
+I1
+sVtryin
+p120
+I2
+sVtell
+p121
+I9
+sVfugees
+p122
+I1
+sVeyes
+p123
+I2
+sVmurder
+p124
+I5
+sVrobbed
+p125
+I1
+sVshoot
+p126
+I1
+sVsideshow
+p127
+I1
+sVtrain
+p128
+I1
+sVdeep
+p129
+I1
+sVashamed
+p130
+I4
+sVbelieve
+p131
+I1
+sVtrue
+p132
+I18
+sV2pac
+p133
+I1
+sVmust
+p134
+I1
+sVtown
+p135
+I1
+sVpull
+p136
+I1
+sVword
+p137
+I2
+sVlook
+p138
+I1
+sVride
+p139
+I2
+sVsay
+p140
+I1
+sVus
+p141
+I2
+sVtrick
+p142
+I1
+sVcrossed
+p143
+I1
+sVpumped
+p144
+I1
+sVdidnt
+p145
+I1
+sVill
+p146
+I1
+sVgone
+p147
+I1
+sVcastrated
+p148
+I1
+sVartillery
+p149
+I4
+sVfuck
+p150
+I2
+sVheartless
+p151
+I1
+sVbigga
+p152
+I1
+sVentertainin
+p153
+I1
+sVheard
+p154
+I2
+sVcant
+p155
+I1
+sVim
+p156
+I1
+sVwant
+p157
+I1
+sVthug
+p158
+I19
+sVbow
+p159
+I1
+sVshit
+p160
+I1
+sVaround
+p161
+I1
+sVpay
+p162
+I1
+sVmake
+p163
+I1
+sVmeans
+p164
+I4
+sVallayall
+p165
+I1
+sVtil
+p166
+I1
+sVbragging
+p167
+I1
+sVchest
+p168
+I1
+sVmotherfuckin
+p169
+I4
+sVdestroy
+p170
+I1
+sVroll
+p171
+I1
+sVused
+p172
+I1
+sVball
+p173
+I1
+sVweed
+p174
+I1
+sVwrong
+p175
+I1
+sVjourney
+p176
+I1
+sVmouth
+p177
+I1
+sVplan
+p178
+I1
+sVda
+p179
+I1
+sVman
+p180
+I4
+sVstress
+p181
+I1
+sVmobb
+p182
+I1
+sVyoure
+p183
+I1
+sVwell
+p184
+I1
+sVface
+p185
+I1
+sVperson
+p186
+I1
+sVjail
+p187
+I1
+sVgoodbye
+p188
+I1
+sVtime
+p189
+I2
+sVevery
+p190
+I5
+sVscream
+p191
+I1
+sVsongs
+p192
+I1
+s.

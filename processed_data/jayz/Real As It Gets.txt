@@ -1,93 +1,682 @@
-"real as it gets" lyrics
-jay-z lyrics
-"real as it gets"
-(feat. young jeezy)
-yeah, see it's that
-it's that blueprint 3 shit right here
-it's that tm 103 shit right here
-you ready? you ready hov'? let's go! (hands up!)
-allow me to re-introduce myself
-at the same time re-introduce my wealth
-at the same time rejuvenate the game
-it's for my ol'dawg niggas that's used to 'caine
-not what b-dawg said, i respect the game
-gd's, vice lords, crips the same
-and i know you're 'bout to say this off the chain
-tell 'em fake trappin' ass niggas stay out my lane
-see i ain't dead or in jail, i can't complain
-and when these fake niggas gone, i shall remain
-and if you just tunin' in, let me explain
-you know i keep that 47 who ??
-these niggas way too far, i played the game
-and if you listen hard enough i say some things
-and when that sack got low, i shave them things
-and put 'em right back together, i made them things
-put your sacks in the air if you represent your click
-money in the air if you ever hear the lick, baby
-put your hands in the air, if you know that you that bitch
-say you looking for the real, hey well this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
-wassup, wassup
-i got it jeezy
-now where the south side at, wassup, wassup
-where the west coast at, put your w's up
-where my east coast niggas that hustle to live
-and all my niggas up north that's doin' it big
-oh yeah i'm rare, i'm aware that i'm rare
-i rap and i'm real, i'm one of the few here
-these other boys lyin', i wonder if y'all care
-they stories out this world, i wonder if y'all hear
-but don't really matter as long as they stay clear
-clear of the real shit we doin' over here
-when my nigga get home, i'm gonna send him a lear
-for all the time he been down, get him right up in the air
-with a couple of broads get him right up in the air
-mile high club get him right up in there
-send my nigga some gear like he never missed a year
-by the time you hear this song, he'll be standing right here
-real nigga shit there!
-put your sacks in the air if you represent your click
-money in the air if you ever hear the lick, baby
-put your hands in the air, if you know that you that bitch
-say you looking for the real, hey well this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
-a hundred million to the good and i'm still talkin' yayo
-at a snails pace i won this race that y'all trail
-uh, uh, blueprint's for sale
-followin' my footprints you can't fail
-set sail, i used to duck shots but now i eat quail
-i'll probably never see jail
-each tale contains more of the truth
-of the statue allows me to go into detail
-uh, close your eyes you can smell
-hov's the audio equivalent of braille
-that's why they feel me in the favelas in brazil
-and water-house 'cause real recognize real
-rrraaahhh!
-you know me, i don't need no introductions
-call me make a lil' somethin' out of nothin'
-anywhere you go, we're the topic of discussion
-damn, that's gotta be disgustin'
-err, shit make me wanna throw up
-it's big boy music, it should make me wanna grow up
-flows like selvage, it just make me wanna pour up
-and is it just me or this makes you wanna roll up
-a big fat one, then unpack one
-then unwrap one, peel back one
-they use to call me jizzle when they stamp in the middle
-and you can tell the color when it's damp in the middle
-wassup!
-put your sacks in the air if you represent your click
-money in the air if you ever hear the lick, baby
-put your hands in the air, if you know that you that bitch
-say you looking for the real, hey well this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
-hey! hey! ohh! ohh!
-this is real as it gets
+(dp1
+Vrepresent
+p2
+I3
+sVgds
+p3
+I1
+sVset
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I3
+sVrrraaahhh
+p7
+I1
+sVhands
+p8
+I4
+sVintroductions
+p9
+I1
+sVmile
+p10
+I1
+sVhovs
+p11
+I1
+sVgo
+p12
+I3
+sVhell
+p13
+I1
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVduck
+p16
+I1
+sVaint
+p17
+I1
+sVlear
+p18
+I1
+sVchain
+p19
+I1
+sVmusic
+p20
+I1
+sVexplain
+p21
+I1
+sVwassup
+p22
+I5
+sVyoung
+p23
+I1
+sVsend
+p24
+I2
+sVeat
+p25
+I1
+sVlyin
+p26
+I1
+sVjizzle
+p27
+I1
+sVlets
+p28
+I1
+sVtm
+p29
+I1
+sVpace
+p30
+I1
+sVbout
+p31
+I1
+sVeast
+p32
+I1
+sVta
+p33
+I1
+sVreal
+p34
+I19
+sVgood
+p35
+I1
+sV3
+I1
+sVfar
+p36
+I1
+sVbig
+p37
+I3
+sVcouple
+p38
+I1
+sVjeezy
+p39
+I2
+sVcoast
+p40
+I2
+sVgame
+p41
+I3
+sVknow
+p42
+I6
+sVcaine
+p43
+I1
+sVworld
+p44
+I1
+sVcomplain
+p45
+I1
+sVcolor
+p46
+I1
+sVblueprints
+p47
+I1
+sVlike
+p48
+I2
+sVtrappin
+p49
+I1
+sVroll
+p50
+I1
+sVselvage
+p51
+I1
+sVrace
+p52
+I1
+sVshots
+p53
+I1
+sVunwrap
+p54
+I1
+sVsnails
+p55
+I1
+sVside
+p56
+I1
+sVyall
+p57
+I3
+sVem
+p58
+I2
+sVright
+p59
+I7
+sVhard
+p60
+I1
+sVyeah
+p61
+I2
+sVdead
+p62
+I1
+sVsee
+p63
+I3
+sVyear
+p64
+I1
+sVfail
+p65
+I1
+sVhome
+p66
+I1
+sVclick
+p67
+I3
+sVwonder
+p68
+I2
+sVbrazil
+p69
+I1
+sVsaid
+p70
+I1
+sVmissed
+p71
+I1
+sVbroads
+p72
+I1
+sVsail
+p73
+I1
+sVlooking
+p74
+I3
+sVenough
+p75
+I1
+sVwon
+p76
+I1
+sVgot
+p77
+I3
+sVever
+p78
+I3
+sVfootprints
+p79
+I1
+sVhustle
+p80
+I1
+sVass
+p81
+I1
+sVmillion
+p82
+I1
+sVtruth
+p83
+I1
+sVpeel
+p84
+I1
+sVdisgustin
+p85
+I1
+sVequivalent
+p86
+I1
+sVnever
+p87
+I2
+sVhere
+p88
+I5
+sVlet
+p89
+I1
+sVput
+p90
+I8
+sV103
+p91
+I1
+sVtrail
+p92
+I1
+sVcare
+p93
+I1
+sVboy
+p94
+I1
+sVrare
+p95
+I2
+sVoh
+p96
+I1
+sVbraille
+p97
+I1
+sVill
+p98
+I1
+sVallows
+p99
+I1
+sVkeep
+p100
+I1
+sVws
+p101
+I1
+sVmakes
+p102
+I1
+sVsouth
+p103
+I1
+sVthats
+p104
+I4
+sVshave
+p105
+I1
+sVthere
+p106
+I2
+sVdont
+p107
+I2
+sVlords
+p108
+I1
+sVfeel
+p109
+I1
+sVsack
+p110
+I1
+sVone
+p111
+I5
+sVna
+p112
+I5
+sVjayz
+p113
+I1
+sVnigga
+p114
+I3
+sVbitch
+p115
+I3
+sVfake
+p116
+I2
+sVrespect
+p117
+I1
+sVstanding
+p118
+I1
+sVwan
+p119
+I4
+sVuse
+p120
+I1
+sVwealth
+p121
+I1
+sVstamp
+p122
+I1
+sVwest
+p123
+I1
+sVdamp
+p124
+I1
+sVrejuvenate
+p125
+I1
+sVhey
+p126
+I15
+sVlong
+p127
+I1
+sVthrow
+p128
+I1
+sVlive
+p129
+I1
+sVcall
+p130
+I2
+sVlow
+p131
+I1
+sVway
+p132
+I1
+sVdamn
+p133
+I1
+sVhundred
+p134
+I1
+sVreally
+p135
+I1
+sVtell
+p136
+I2
+sVcrips
+p137
+I1
+sVlisten
+p138
+I1
+sVblueprint
+p139
+I1
+sVeyes
+p140
+I1
+sVfavelas
+p141
+I1
+sVnorth
+p142
+I1
+sVgear
+p143
+I1
+sVdiscussion
+p144
+I1
+sVthat
+p145
+I1
+sVclub
+p146
+I1
+sVcontains
+p147
+I1
+sVback
+p148
+I2
+sVboys
+p149
+I1
+sVhear
+p150
+I5
+sVbaby
+p151
+I3
+sVprobably
+p152
+I1
+sVunpack
+p153
+I1
+sVfollowin
+p154
+I1
+sVyayo
+p155
+I1
+sVtopic
+p156
+I1
+sVmyself
+p157
+I1
+sVmade
+p158
+I1
+sVerr
+p159
+I1
+sVniggas
+p160
+I6
+sVtunin
+p161
+I1
+sVup
+p162
+I6
+sVpour
+p163
+I1
+sVair
+p164
+I11
+sVmiddle
+p165
+I2
+sVmatter
+p166
+I1
+sVremain
+p167
+I1
+sVanywhere
+p168
+I1
+sVstories
+p169
+I1
+sVuh
+p170
+I3
+sVsay
+p171
+I5
+sVgone
+p172
+I1
+sVlick
+p173
+I3
+sVohh
+p174
+I12
+sVplayed
+p175
+I1
+sVrecognize
+p176
+I1
+sVhigh
+p177
+I1
+sVneed
+p178
+I1
+sVcant
+p179
+I2
+sVim
+p180
+I7
+sVnothin
+p181
+I1
+sVrap
+p182
+I1
+sVclose
+p183
+I1
+sVready
+p184
+I2
+sVquail
+p185
+I1
+sVshit
+p186
+I5
+sVbdawg
+p187
+I1
+sVlil
+p188
+I1
+sV47
+p189
+I1
+sVmake
+p190
+I4
+sVget
+p191
+I4
+sVdetail
+p192
+I1
+sVsame
+p193
+I1
+sVhov
+p194
+I1
+sVgets
+p195
+I11
+sVsmell
+p196
+I1
+sVtalkin
+p197
+I1
+sVused
+p198
+I2
+sVshall
+p199
+I1
+sVdoin
+p200
+I2
+sVtime
+p201
+I4
+sVflows
+p202
+I1
+sVstay
+p203
+I2
+sVgon
+p204
+I1
+sVfat
+p205
+I1
+sVstatue
+p206
+I1
+sVwaterhouse
+p207
+I1
+sVsong
+p208
+I1
+sVaware
+p209
+I1
+sVgrow
+p210
+I1
+sVoldawg
+p211
+I1
+sVsomethin
+p212
+I1
+sVlane
+p213
+I1
+sVcause
+p214
+I1
+sVvice
+p215
+I1
+sVsacks
+p216
+I3
+sVclear
+p217
+I2
+sVyoure
+p218
+I1
+sVwell
+p219
+I3
+sVsale
+p220
+I1
+sVtogether
+p221
+I1
+sVtale
+p222
+I1
+sVjail
+p223
+I2
+sVallow
+p224
+I1
+sVthings
+p225
+I3
+sVaudio
+p226
+I1
+sVreintroduce
+p227
+I2
+s.

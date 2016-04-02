@@ -1,57 +1,479 @@
-"universal mind control" lyrics
-common lyrics
-"universal mind control"
-(feat. pharrell)
-ayo
-all they wanna do is dance
-thats all they wanna do
-uh uh
-get get it
-this is that automatic i stay fresh like i'm wrapped in plastic.
-beat goes fast, exceed galactic.
-southside boy we cadillac it charismatic, asiatic, i hustle for mathematics
-cameras, action, change the status
-actor type of your favorite actress
-gucci - rock it
-coochies - pop it
-movie - watch it
-booties - drop it
-body - move it
-showin - groovin
-stylin and being fly.
-i touch the masses like a catholic expensive rap shit my futures backlit
-interact with the cat who max and stacks my van-ac to trash yall react so lets go uh
-this is that new shit. keep em' standing in line. that universal mind control, now move your
-behind. you know you like it, it's calling your name. nigga, this is that new shit and it don't
-feel the same. its got that dang digga dang dang dang dang. dang digga dang dang dang dang.
-bawitdaba da bang a dang digga digga. bawitdaba da bang a dang dang.
-some pop, some lock, some move robotic.
-like cash money, i stay in pocket.
-umc ra ra ra rock, don't stop it.
-chick's exotic, mix hypnotic.
-superhero-ro boy i'm bionic. you a fad, on some other level supersonic.
-girl you bout it, you can strip like comic and transe the melodic techno-tronic.
-beats - rockin
-seats - droppin
-seeds - poppin
-streets - rockin
-freakin, shakin, money makin, stylin and being fly.
-i'm the one the lady ladies chose to
-strip and pose to, shake off they clothes to
-chose to the one that go coast to coastal mr. global focal lets go uh
-this is that new shit. keep em' standing in line. that universal mind control, now move your
-behind. you know you like it, it's calling your name. nigga, this is that new shit and it don't
-feel the same. its got that dang digga dang dang dang dang. dang digga dang dang dang dang.
-bawitdaba da bang a dang digga digga. bawitdaba da bang a dang dang.
-get get it
-i am a renegade
-i've never been afraid. fresh and i'm gettin' paid
-the future-future of this age!
-from the chi, so i talk this way.
-twista hate at the grand marquee.
-rock the faucet like everday.
-to the top and i'm on my way. let's go, uh!
-this is that new shit. keep em' standing in line. that universal mind control, now move your
-behind. you know you like it, it's calling your name. nigga, this is that new shit and it don't
-feel the same. its got that dang digga dang dang dang dang. dang digga dang dang dang dang.
-bawitdaba da bang a dang digga digga. bawitdaba da bang a dang dang
+(dp1
+Vchicks
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I1
+sVmoney
+p5
+I2
+sVmove
+p6
+I5
+sVactress
+p7
+I1
+sVseats
+p8
+I1
+sVgo
+p9
+I4
+sVfeat
+p10
+I1
+sVbawitdaba
+p11
+I6
+sVeverday
+p12
+I1
+sVmasses
+p13
+I1
+sVpoppin
+p14
+I1
+sVto
+p15
+I2
+sVlets
+p16
+I3
+sVbooties
+p17
+I1
+sVbout
+p18
+I1
+sVfreakin
+p19
+I1
+sVdo
+p20
+I1
+sVglobal
+p21
+I1
+sVumc
+p22
+I1
+sVget
+p23
+I4
+sVbeat
+p24
+I1
+sVwatch
+p25
+I1
+sVhate
+p26
+I1
+sVda
+p27
+I6
+sVpocket
+p28
+I1
+sVbang
+p29
+I6
+sVknow
+p30
+I3
+sVsouthside
+p31
+I1
+sVlady
+p32
+I1
+sVfad
+p33
+I1
+sVlike
+p34
+I8
+sVname
+p35
+I3
+sVlevel
+p36
+I1
+sVdrop
+p37
+I1
+sVcalling
+p38
+I3
+sVcommon
+p39
+I1
+sVrock
+p40
+I3
+sVhustle
+p41
+I1
+sVautomatic
+p42
+I1
+sVyall
+p43
+I1
+sVclothes
+p44
+I1
+sVem
+p45
+I3
+sVexceed
+p46
+I1
+sVnigga
+p47
+I3
+sVcoastal
+p48
+I1
+sVstreets
+p49
+I1
+sVtouch
+p50
+I1
+sVvanac
+p51
+I1
+sVtechnotronic
+p52
+I1
+sVmovie
+p53
+I1
+sVcameras
+p54
+I1
+sVyour
+p55
+I3
+sVdigga
+p56
+I12
+sVbehind
+p57
+I3
+sVra
+p58
+I3
+sVgoes
+p59
+I1
+sVcadillac
+p60
+I1
+sVnew
+p61
+I6
+sVsuperheroro
+p62
+I1
+sVcoochies
+p63
+I1
+sVbody
+p64
+I1
+sVasiatic
+p65
+I1
+sVnever
+p66
+I1
+sVchose
+p67
+I2
+sVgot
+p68
+I3
+sVpose
+p69
+I1
+sVbacklit
+p70
+I1
+sVchange
+p71
+I1
+sVboy
+p72
+I2
+sVfaucet
+p73
+I1
+sVfavorite
+p74
+I1
+sVkeep
+p75
+I3
+sVseeds
+p76
+I1
+sVchi
+p77
+I1
+sVaction
+p78
+I1
+sVtop
+p79
+I1
+sVthats
+p80
+I1
+sVexotic
+p81
+I1
+sVladies
+p82
+I1
+sVdont
+p83
+I4
+sVfeel
+p84
+I3
+sVmakin
+p85
+I1
+sVpop
+p86
+I2
+sVone
+p87
+I2
+sVstop
+p88
+I1
+sVbionic
+p89
+I1
+sVstrip
+p90
+I2
+sVcomic
+p91
+I1
+sVcharismatic
+p92
+I1
+sVexpensive
+p93
+I1
+sVstanding
+p94
+I3
+sVwan
+p95
+I2
+sVayo
+p96
+I1
+sVstylin
+p97
+I2
+sVinteract
+p98
+I1
+sVfast
+p99
+I1
+sVplastic
+p100
+I1
+sVway
+p101
+I2
+sVwrapped
+p102
+I1
+sVrenegade
+p103
+I1
+sVtype
+p104
+I1
+sVmelodic
+p105
+I1
+sVrockin
+p106
+I2
+sVgettin
+p107
+I1
+sVline
+p108
+I3
+sVfly
+p109
+I2
+sVpharrell
+p110
+I1
+sVcash
+p111
+I1
+sVcat
+p112
+I1
+sVgucci
+p113
+I1
+sVdroppin
+p114
+I1
+sVuh
+p115
+I5
+sVmr
+p116
+I1
+sVdang
+p117
+I39
+sVshake
+p118
+I1
+sVmarquee
+p119
+I1
+sVcontrol
+p120
+I5
+sVive
+p121
+I1
+sVfuturefuture
+p122
+I1
+sVshowin
+p123
+I1
+sVlock
+p124
+I1
+sVuniversal
+p125
+I5
+sVgroovin
+p126
+I1
+sVmind
+p127
+I5
+sVit
+p128
+I6
+sVbeats
+p129
+I1
+sVim
+p130
+I5
+sVrap
+p131
+I1
+sVtwista
+p132
+I1
+sVtranse
+p133
+I1
+sVgirl
+p134
+I1
+sVshit
+p135
+I7
+sVcatholic
+p136
+I1
+sVafraid
+p137
+I1
+sVna
+p138
+I2
+sVactor
+p139
+I1
+sVmix
+p140
+I1
+sVshakin
+p141
+I1
+sVgrand
+p142
+I1
+sVmathematics
+p143
+I1
+sVtrash
+p144
+I1
+sVstatus
+p145
+I1
+sVgalactic
+p146
+I1
+sVmax
+p147
+I1
+sVpaid
+p148
+I1
+sVstay
+p149
+I2
+sVreact
+p150
+I1
+sVrobotic
+p151
+I1
+sVcoast
+p152
+I1
+sVfocal
+p153
+I1
+sVsupersonic
+p154
+I1
+sVage
+p155
+I1
+sVfutures
+p156
+I1
+sVhypnotic
+p157
+I1
+sVfresh
+p158
+I2
+sVstacks
+p159
+I1
+sVtalk
+p160
+I1
+s.

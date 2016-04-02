@@ -1,86 +1,556 @@
-"wasted" lyrics
-e-40 lyrics
-"wasted"
-(feat. cousin fik)
-party goin up, like a airplane
-i gotta cup full of octane
-yeah i'm on one, more like 2
-i don't know about you, but i'm wasted
-oh oh oh oh oh oh i'm wasted
-one one one one one
-one shot two shot three shot
-dj let that beat drop cuz i'm wasted
-i'm so wasted
-ughhhh
-i'm goin up like the price of goad
-i'm on the phone with the homie
-with ya bitch on hold
-deep pockets, my paper can't fold
-look bankroll so swoll think like a dictionary book
-in my demographics we push elbows and bricks
-we like to hear ourselves talk, and say slick shit
-like i had this one broad named one young ho
-her best friends name was nopay
-i changed her name to get my dough
-operation stack a dollar, i'm having my multiplication
-i get faded every day, every days a special occasion
-every nights a celebration, used to like a preso
-double fist to gettin green like gettin pesto
-party goin up, like a airplane
-i gotta cup full of octane
-yeah i'm on one, more like 2
-i dont know about you, but i'm wasted
-oh oh oh oh oh oh i'm wasted
-one one one one one
-one shot two shot three shot
-dj let that beat drop cuz i'm wasted
-i'm so wasted
-look.... i'm out my body wasted
-octane in my cup, can't taste it
-so it don't make a difference if i chase it
-as long as when i finish somebody replace it
-fo gotta nigga movin slow like the matrix
-dro gotta nigga on like somebody laced it
-gucci louis fendi prada all my bitches basic
-beat the pussy up yeah my dick catch cases
-like young frank ho my dick ain't racist
-h got me feeling like i'm in two different places
-we blowin out the pound
-them haters goin down
-but the... but the
-party goin up, like a airplane
-i gotta cup full of octane
-yeah i'm on one, more like 2
-i don't know about you, but i'm wasted
-oh oh oh oh oh oh i'm wasted
-one one one one one
-one shot two shot three shot
-dj let that beat drop cuz i'm wasted
-i'm so wasted
-listen to this here
-i'm married to my street sign, jump the broom
-don't plan on gettin no divorce, no time soon
-the black daniel boone, alcohol consume
-been drinkin since 1 o clock, this afternoon
-cool with all the goons
-i'm a tycoon air this bitch out like a helium balloon
-ready for war state of mind always on the case
-black arsenal like travis air force base
-deep like yo bitches throat
-yapered up money long like train smoke
-she cali pigeon, body crazy
-the definition of cali pigeon is shapeless, buttocks
-kerne had to get a second taste
-how she stack?
-stack like some buttermilk pancakes
-i'm loaded and i'm twisted and i'm faded
-in the function gettin white boy wasted
-party goin up, like a airplane
-gotta cup full of octane
-yeah i'm on one, more like 2
-i don't know about you, but i'm wasted
-oh oh oh oh oh oh i'm wasted
-one one one one one
-one shot two shot three shot
-dj let that beat drop cuz i'm wasted
-i'm so wasted
+(dp1
+Vshot
+p2
+I12
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVdollar
+p5
+I1
+sVsoon
+p6
+I1
+sVcatch
+p7
+I1
+sVpaper
+p8
+I1
+sVdough
+p9
+I1
+sVfeat
+p10
+I1
+sVconsume
+p11
+I1
+sVaint
+p12
+I1
+sVlaced
+p13
+I1
+sVslow
+p14
+I1
+sVcup
+p15
+I5
+sVbroom
+p16
+I1
+sVdick
+p17
+I2
+sVyoung
+p18
+I2
+sVblack
+p19
+I2
+sVfik
+p20
+I1
+sVpesto
+p21
+I1
+sVfendi
+p22
+I1
+sVkerne
+p23
+I1
+sVta
+p24
+I6
+sVcase
+p25
+I1
+sVdj
+p26
+I4
+sVyo
+p27
+I1
+sVget
+p28
+I3
+sVya
+p29
+I1
+sVdemographics
+p30
+I1
+sVgoons
+p31
+I1
+sVbankroll
+p32
+I1
+sVevery
+p33
+I3
+sVknow
+p34
+I4
+sVdifference
+p35
+I1
+sVday
+p36
+I1
+sVspecial
+p37
+I1
+sVlike
+p38
+I23
+sVname
+p39
+I2
+sVlouis
+p40
+I1
+sVcool
+p41
+I1
+sVgettin
+p42
+I4
+sVtwisted
+p43
+I1
+sVmarried
+p44
+I1
+sVh
+I1
+sVdrop
+p45
+I4
+sVforce
+p46
+I1
+sVyeah
+p47
+I5
+sVsign
+p48
+I1
+sVjump
+p49
+I1
+sVfold
+p50
+I1
+sVsecond
+p51
+I1
+sVfinish
+p52
+I1
+sVfist
+p53
+I1
+sVoperation
+p54
+I1
+sVoctane
+p55
+I5
+sVmovin
+p56
+I1
+sVmatrix
+p57
+I1
+sVclock
+p58
+I1
+sVbroad
+p59
+I1
+sVsince
+p60
+I1
+sVpigeon
+p61
+I2
+sVslick
+p62
+I1
+sVstate
+p63
+I1
+sVdaniel
+p64
+I1
+sVprada
+p65
+I1
+sVgot
+p66
+I7
+sVbody
+p67
+I2
+sVdrinkin
+p68
+I1
+sVfull
+p69
+I4
+sVdictionary
+p70
+I1
+sVpancakes
+p71
+I1
+sVfrank
+p72
+I1
+sVballoon
+p73
+I1
+sVhere
+p74
+I1
+sVbase
+p75
+I1
+sVlet
+p76
+I4
+sVcousin
+p77
+I1
+sVhaters
+p78
+I1
+sVcelebration
+p79
+I1
+sVdefinition
+p80
+I1
+sVoh
+p81
+I24
+sVchanged
+p82
+I1
+sVdays
+p83
+I1
+sVo
+I1
+sValcohol
+p84
+I1
+sVafternoon
+p85
+I1
+sVpockets
+p86
+I1
+sVthink
+p87
+I1
+sVnamed
+p88
+I1
+sVdont
+p89
+I6
+sVbricks
+p90
+I1
+sVpussy
+p91
+I1
+sVarsenal
+p92
+I1
+sVone
+p93
+I30
+sVdown
+p94
+I1
+sVnigga
+p95
+I2
+sVbitch
+p96
+I2
+sVughhhh
+p97
+I1
+sVloaded
+p98
+I1
+sVbuttermilk
+p99
+I1
+sValways
+p100
+I1
+sVdivorce
+p101
+I1
+sVtwo
+p102
+I5
+sVlong
+p103
+I2
+sVcali
+p104
+I2
+sV2
+I4
+sVracist
+p105
+I1
+sVbasic
+p106
+I1
+sVwhite
+p107
+I1
+sVfo
+p108
+I1
+sVwar
+p109
+I1
+sVlisten
+p110
+I1
+sVfunction
+p111
+I1
+sVtycoon
+p112
+I1
+sVboy
+p113
+I1
+sVnopay
+p114
+I1
+sVbitches
+p115
+I2
+sVphone
+p116
+I1
+sVtrain
+p117
+I1
+sVhear
+p118
+I1
+sVho
+p119
+I2
+sVwasted
+p120
+I20
+sVcases
+p121
+I1
+sVhold
+p122
+I1
+sVswoll
+p123
+I1
+sVe40
+p124
+I1
+sVbuttocks
+p125
+I1
+sVlook
+p126
+I2
+sVplaces
+p127
+I1
+sVtravis
+p128
+I1
+sVdouble
+p129
+I1
+sVsay
+p130
+I1
+sVair
+p131
+I2
+sVgucci
+p132
+I1
+sVstreet
+p133
+I1
+sVthree
+p134
+I4
+sVfaded
+p135
+I2
+sVblowin
+p136
+I1
+sVfeeling
+p137
+I1
+sVcrazy
+p138
+I1
+sVpound
+p139
+I1
+sVshapeless
+p140
+I1
+sVtaste
+p141
+I2
+sVmind
+p142
+I1
+sVit
+p143
+I4
+sVdeep
+p144
+I2
+sVsomebody
+p145
+I2
+sVthroat
+p146
+I1
+sVcant
+p147
+I2
+sVhomie
+p148
+I1
+sVim
+p149
+I30
+sVready
+p150
+I1
+sVpreso
+p151
+I1
+sVairplane
+p152
+I4
+sVhelium
+p153
+I1
+sVshit
+p154
+I1
+sVchase
+p155
+I1
+sVdifferent
+p156
+I1
+sVnights
+p157
+I1
+sVmake
+p158
+I1
+sVgoad
+p159
+I1
+sV1
+I1
+sVbeat
+p160
+I5
+sVbook
+p161
+I1
+sVbest
+p162
+I1
+sVparty
+p163
+I4
+sVelbows
+p164
+I1
+sVused
+p165
+I1
+sVdro
+p166
+I1
+sVprice
+p167
+I1
+sVreplace
+p168
+I1
+sVplan
+p169
+I1
+sVmultiplication
+p170
+I1
+sVfriends
+p171
+I1
+sVstack
+p172
+I3
+sVgoin
+p173
+I6
+sVsmoke
+p174
+I1
+sVgreen
+p175
+I1
+sVboone
+p176
+I1
+sVtime
+p177
+I1
+sVpush
+p178
+I1
+sVoccasion
+p179
+I1
+sVthe
+p180
+I1
+sVcuz
+p181
+I4
+sVtalk
+p182
+I1
+sVyapered
+p183
+I1
+s.

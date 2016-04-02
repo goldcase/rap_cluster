@@ -1,116 +1,737 @@
-"really doe" lyrics
-ice cube lyrics
-"really doe"
-"ain't nobody talkin when i'm talkin fellas so shut the fuck up!"
-"and who the fuck are you?"
-ohh.. steppin up in my motherfuckin uhh..
-chuck taylors, knick kickers, wallabee's, ??
-on my ass i got the umm.. um.. khakis, 501's
-on my back i got the uhh.. sweatshirt
-you know, with the fat three creases
-uhh, my t-shirt, slingshot, uhh.. khaki shirt
-umm, and i got the k-cutter, in my, in my pocket
-uhh, got the afro, the braids
-motherfuckin uhh, rollers
-"you got to believe, somethin.."
-and i just ask my motherfuckin self, uhh
-"i got to believe in me.."
-{"and who the fuck are you?"}
-{"and who the fuck are you?"}
-to g or not to g, is the question
-and like smith told wesson
-i'm shady with the .380 old school diploma
-i'll leave that ass in a coma, so
-if you got a herringbone, _welcome to the terrordome_
-two-eleven, sorry reverend
-oh my god, gettin robbed
-reach for the small, "atomic dog"
-hard to swallow, janky as rollo
-count to ten, and don't try to follow
-cause just like waco, i can take fo' --
--- atf, to they death
-bust a left on western, go and get a room
-don't want to be a felon like stacey koon
-get the right bitch, hit the light switch, here we go
-tap that ass like this - really doe
-"you got to believe, somethin.."
-west side lench mob
-"i got to believe in me.."
-cause i'm a motherfuckin g
-cause i'm a mother-fuckin..
-{"and who the fuck are you?"}
-thirty in a holdin tank, catch the vapors
-make me a pillow out of toilet paper
-concrete bench kickin off the hemorrhoids
-ese's deep, don't fuck with dem boys
-phone check, co-llect call from the baller
-her mama said please don't call her
-do-wah-diddy, far from +new jack city+
-seen one of my peers, "what the fuck you doin in here?"
-he said, "one-eighty-seven on the enemy"
-and they treat me like i just shot a kennedy!
-deputy bitch thinks she's the queen bee
-ink on my thumb, index, and pinky
-"sir, what set you from?"  play dumb
-"general popu-la-tion"
-mama put your house up, and i can bounce up
-out this motherfucker, that's why i love ya
-out like a boss, with a half-pint of sauce
-got the shit sewed up like betsy ross
-what a friend know?  buy some indo
-never fuck with a silly ho - really doe
-"you got to believe, somethin.."
-really doe, bitch
-"i got to believe in me.."
-cause i'm a motherfuckin g
-god damn i'm a motherfuckin g
-"you got to believe, somethin.."
-yup, that's right
-"i got to believe in me.."
-cause i'm a motherfuckin g
-god damn i'm a..
-{"and who the fuck are you?"}
-knock you out like nyquil, i'll kill you quick
-you sucker-for-love-ass trick
-so don't run up, wit ya gun up
-cause i got the back breaker, double pump rump shaker
-cause we can play hookie in the _aqua boogie_
-with concrete nikes, ya gets no stripes
-livin unforgiven with the mic on
-and punks runnin like roaches with the light on
-and that's all the shit i'm startin
-bust a cap (ka-kow-pow) like jerome on martin
-you lookin for a punk with benefits
-cause you got a baby, that take many shits
-and you know i got a grip like a baby on a tit
-scopin hopin, thighs open
-but i kick back, six-pack, and hit the phillie slow
-hooker hoe - really doe
-"you got to believe, somethin.."
-ice cube, yup
-"i got to believe in me.."
-cause i'm a motherfuckin g
-god damn i'm a motherfuckin g
-"you got to believe, somethin.."
-really doe - west side
-"i got to believe in me.."
-cause i'm a motherfuckin g
-motherfuckin o, motherfuckin g
-"you got to believe, somethin.."
-east side
-"i got to believe in me.."
-{"and who the fuck are you?"}
-{"and who the fuck are you?"}
-"you got to believe, somethin.."
-south.. side
-"i got to believe in me.."
-cause i'm a motherfuckin g
-g, g, g, motherfuckin g
-"you got to believe, somethin.."
-north side
-"i got to believe in me.."
-{"and who the fuck are you?"}
-{"and who the fuck are you?"}
-"you got to believe, somethin.."
-"i got to believe in me.."
-{"and who the fuck are you?"}
+(dp1
+Vthirty
+p2
+I1
+sVshot
+p3
+I1
+sVpunk
+p4
+I1
+sVlyrics
+p5
+I2
+sVqueen
+p6
+I1
+sVbaby
+p7
+I2
+sVpaper
+p8
+I1
+sVkill
+p9
+I1
+sVatomic
+p10
+I1
+sVfelon
+p11
+I1
+sVgo
+p12
+I2
+sVfellas
+p13
+I1
+sVafro
+p14
+I1
+sVjerome
+p15
+I1
+sVshits
+p16
+I1
+sVaint
+p17
+I1
+sVlench
+p18
+I1
+sVdeath
+p19
+I1
+sVeses
+p20
+I1
+sVthumb
+p21
+I1
+sVkakowpow
+p22
+I1
+sVsmith
+p23
+I1
+sVbust
+p24
+I2
+sVbench
+p25
+I1
+sVbetsy
+p26
+I1
+sVsorry
+p27
+I1
+sVeast
+p28
+I1
+sVsauce
+p29
+I1
+sVkick
+p30
+I1
+sVtake
+p31
+I2
+sVgrip
+p32
+I1
+sVme
+p33
+I10
+sVknick
+p34
+I1
+sVhit
+p35
+I2
+sVlivin
+p36
+I1
+sVget
+p37
+I2
+sVfar
+p38
+I1
+sVhopin
+p39
+I1
+sVstripes
+p40
+I1
+sVfat
+p41
+I1
+sVpocket
+p42
+I1
+sVknow
+p43
+I3
+sVnew
+p44
+I1
+sVmob
+p45
+I1
+sVone
+p46
+I1
+sVroaches
+p47
+I1
+sVenemy
+p48
+I1
+sVschool
+p49
+I1
+sVgets
+p50
+I1
+sVlike
+p51
+I11
+sVkennedy
+p52
+I1
+sVnorth
+p53
+I1
+sVjanky
+p54
+I1
+sVgettin
+p55
+I1
+sVchuck
+p56
+I1
+sVleave
+p57
+I1
+sVcollect
+p58
+I1
+sVwit
+p59
+I1
+sVholdin
+p60
+I1
+sVthighs
+p61
+I1
+sVstartin
+p62
+I1
+sVkickin
+p63
+I1
+sVsmall
+p64
+I1
+sVside
+p65
+I5
+sVslow
+p66
+I1
+sVright
+p67
+I2
+sVold
+p68
+I1
+sVten
+p69
+I1
+sVhouse
+p70
+I1
+sVhard
+p71
+I1
+sVback
+p72
+I3
+sVbounce
+p73
+I1
+sVgun
+p74
+I1
+sVtrick
+p75
+I1
+sVmartin
+p76
+I1
+sV501s
+p77
+I1
+sVsteppin
+p78
+I1
+sVshes
+p79
+I1
+sVfollow
+p80
+I1
+sVsweatshirt
+p81
+I1
+sVwesson
+p82
+I1
+sVthinks
+p83
+I1
+sVreally
+p84
+I7
+sVtry
+p85
+I1
+sVsaid
+p86
+I2
+sVgod
+p87
+I4
+sVboogie
+p88
+I1
+sVplease
+p89
+I1
+sVice
+p90
+I2
+sVreverend
+p91
+I1
+sVpump
+p92
+I1
+sVoneeightyseven
+p93
+I1
+sVsixpack
+p94
+I1
+sVumm
+p95
+I2
+sVgot
+p96
+I29
+sVhooker
+p97
+I1
+sVsuckerforloveass
+p98
+I1
+sVcause
+p99
+I11
+sVslingshot
+p100
+I1
+sVtold
+p101
+I1
+sVass
+p102
+I3
+sVshut
+p103
+I1
+sVkhaki
+p104
+I1
+sVrun
+p105
+I1
+sVkoon
+p106
+I1
+sVherringbone
+p107
+I1
+sVnever
+p108
+I1
+sVmotherfucker
+p109
+I1
+sVhere
+p110
+I1
+sVboss
+p111
+I1
+sV380
+p112
+I1
+sVquick
+p113
+I1
+sVunforgiven
+p114
+I1
+sVhalfpint
+p115
+I1
+sVpunks
+p116
+I1
+sVcoma
+p117
+I1
+sVballer
+p118
+I1
+sVatf
+p119
+I1
+sVon
+p120
+I2
+sVmic
+p121
+I1
+sVbenefits
+p122
+I1
+sVher
+p123
+I1
+sVg
+I15
+sVoh
+p124
+I1
+sVyup
+p125
+I2
+sVill
+p126
+I2
+sVput
+p127
+I1
+sVo
+I1
+sVwallabees
+p128
+I1
+sVlookin
+p129
+I1
+sVshaker
+p130
+I1
+sVswallow
+p131
+I1
+sVrollers
+p132
+I1
+sVpillow
+p133
+I1
+sVjack
+p134
+I1
+sVhemorrhoids
+p135
+I1
+sVrollo
+p136
+I1
+sVlove
+p137
+I1
+sVdont
+p138
+I5
+sVdeputy
+p139
+I1
+sVvapors
+p140
+I1
+sVask
+p141
+I1
+sVset
+p142
+I1
+sVbitch
+p143
+I3
+sVtap
+p144
+I1
+sVopen
+p145
+I1
+sVcity
+p146
+I1
+sVwaco
+p147
+I1
+sVknock
+p148
+I1
+sVwest
+p149
+I2
+sVquestion
+p150
+I1
+sVthree
+p151
+I1
+sVcall
+p152
+I2
+sVtreat
+p153
+I1
+sVmama
+p154
+I2
+sVdamn
+p155
+I3
+sVnikes
+p156
+I1
+sVfriend
+p157
+I1
+sVnyquil
+p158
+I1
+sVbuy
+p159
+I1
+sVgeneral
+p160
+I1
+sVrobbed
+p161
+I1
+sVnobody
+p162
+I1
+sVkickers
+p163
+I1
+sVboys
+p164
+I1
+sVwestern
+p165
+I1
+sVcatch
+p166
+I1
+sVbelieve
+p167
+I20
+sVpopulation
+p168
+I1
+sVcount
+p169
+I1
+sVkcutter
+p170
+I1
+sVtank
+p171
+I1
+sVroom
+p172
+I1
+sVdouble
+p173
+I1
+sVcap
+p174
+I1
+sVup
+p175
+I3
+sVbee
+p176
+I1
+sVum
+p177
+I1
+sVsilly
+p178
+I1
+sVdem
+p179
+I1
+sVmany
+p180
+I1
+sVdumb
+p181
+I1
+sVross
+p182
+I1
+sVphillie
+p183
+I1
+sVstacey
+p184
+I1
+sVrump
+p185
+I1
+sVtoilet
+p186
+I1
+sVohh
+p187
+I1
+sVhookie
+p188
+I1
+sVfuck
+p189
+I14
+sVdeep
+p190
+I1
+sVcreases
+p191
+I1
+sVpinky
+p192
+I1
+sVtshirt
+p193
+I1
+sVcube
+p194
+I2
+sVim
+p195
+I13
+sVaqua
+p196
+I1
+sVwant
+p197
+I1
+sVink
+p198
+I1
+sVseen
+p199
+I1
+sVcheck
+p200
+I1
+sVshit
+p201
+I2
+sVsir
+p202
+I1
+sVhoe
+p203
+I1
+sVshirt
+p204
+I1
+sVkhakis
+p205
+I1
+sVtit
+p206
+I1
+sVself
+p207
+I1
+sVbraids
+p208
+I1
+sVya
+p209
+I3
+sVmotherfuckin
+p210
+I15
+sVterrordome
+p211
+I1
+sVyou
+p212
+I10
+sVtaylors
+p213
+I1
+sVtalkin
+p214
+I2
+sVplay
+p215
+I2
+sVindex
+p216
+I1
+sVdoin
+p217
+I1
+sVwelcome
+p218
+I1
+sVreach
+p219
+I1
+sVdiploma
+p220
+I1
+sVuhh
+p221
+I7
+sVfo
+p222
+I1
+sVa
+I1
+sVsomethin
+p223
+I10
+sVpeers
+p224
+I1
+sVbreaker
+p225
+I1
+sVsewed
+p226
+I1
+sVphone
+p227
+I1
+sVlight
+p228
+I2
+sVshady
+p229
+I1
+sVdowahdiddy
+p230
+I1
+sVdog
+p231
+I1
+sVdoe
+p232
+I7
+sVconcrete
+p233
+I2
+sVswitch
+p234
+I1
+sVso
+p235
+I1
+sVsouth
+p236
+I1
+sVho
+p237
+I1
+sVscopin
+p238
+I1
+sVrunnin
+p239
+I1
+sVindo
+p240
+I1
+sVthats
+p241
+I3
+sVtwoeleven
+p242
+I1
+sVmake
+p243
+I1
+sVleft
+p244
+I1
+s.

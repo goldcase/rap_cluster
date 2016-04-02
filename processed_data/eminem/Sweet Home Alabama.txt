@@ -1,24 +1,209 @@
-"sweet home alabama" lyrics
-eminem lyrics
-"sweet home alabama"
-well jimmy moved in with his mother
-cos he ain't go no place to go
-and now i'm right back in the gutter
-with a garbage bag that's full of clothes
-cause you live at home in a trailer
-what the hell you gonna do (yee-hah!)
-cause i live at home in a trailer
-mom i'm coming home to you
-well my name is jimmy
-he's name's greg buehl
-me and him and you, - we went to the same school
-this ain't cool... i'm in a rage
-he's tapping my mom and we're almost the same age
-on the microphone i drop bombs
-look at this car... 'thanks a lot, mom!'
-"here and happy birthday rabbit! here's a brand new car, you can have it. a 1928 delta..."
-this shit won't even get me to the shelter
-and i can't even say i'm from mowtown
-cause i'm back in the 810 now
-cos i live at home in a trailer
-mom i'm coming home to you
+(dp1
+Vjimmy
+p2
+I2
+sVrabbit
+p3
+I1
+sVgarbage
+p4
+I1
+sVlook
+p5
+I1
+sValmost
+p6
+I1
+sVsweet
+p7
+I2
+sVdelta
+p8
+I1
+sVmoved
+p9
+I1
+sVback
+p10
+I2
+sV1928
+p11
+I1
+sVcant
+p12
+I1
+sVright
+p13
+I1
+sVim
+p14
+I6
+sVnames
+p15
+I1
+sVhell
+p16
+I1
+sVgo
+p17
+I2
+sVhome
+p18
+I7
+sVbuehl
+p19
+I1
+sVshit
+p20
+I1
+sVaint
+p21
+I2
+sVmicrophone
+p22
+I1
+sVgon
+p23
+I1
+sVlyrics
+p24
+I2
+sVhes
+p25
+I2
+sVheres
+p26
+I1
+sVna
+p27
+I1
+sVthanks
+p28
+I1
+sVlive
+p29
+I3
+sVlot
+p30
+I1
+sV810
+p31
+I1
+sVnew
+p32
+I1
+sVyou
+p33
+I2
+sVcause
+p34
+I3
+sVhappy
+p35
+I1
+sVeven
+p36
+I2
+sVfull
+p37
+I1
+sVget
+p38
+I1
+sVshelter
+p39
+I1
+sVbrand
+p40
+I1
+sVschool
+p41
+I1
+sVeminem
+p42
+I1
+sVbirthday
+p43
+I1
+sVtapping
+p44
+I1
+sVmom
+p45
+I4
+sVcoming
+p46
+I2
+sVnow
+p47
+I1
+sVwent
+p48
+I1
+sVcool
+p49
+I1
+sVwont
+p50
+I1
+sVcos
+p51
+I2
+sVgutter
+p52
+I1
+sVyeehah
+p53
+I1
+sVname
+p54
+I1
+sVrage
+p55
+I1
+sVcar
+p56
+I2
+sVage
+p57
+I1
+sVdrop
+p58
+I1
+sVwell
+p59
+I2
+sVsay
+p60
+I1
+sVbag
+p61
+I1
+sVgreg
+p62
+I1
+sVplace
+p63
+I1
+sVbombs
+p64
+I1
+sVmother
+p65
+I1
+sVmowtown
+p66
+I1
+sValabama
+p67
+I2
+sVthats
+p68
+I1
+sVtrailer
+p69
+I3
+sVclothes
+p70
+I1
+s.

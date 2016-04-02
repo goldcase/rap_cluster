@@ -1,59 +1,430 @@
-"leave me alone" lyrics
-snoop dogg lyrics
-"leave me alone"
-yo.. uh-huh
-i'ma try somethin different on this right here
-but i know y'all gon' feel it
-cause i know y'all feel me
-it's some real shit right here, y'knahmsayin?
-i ain't never did it like this before
-check this out..
-i'm the kind of g that everybody knows
-but i'm so low-key, when it comes to hoes
-i never break the rules and that's just how it goes
-all my friends and foes - know that's just how it goes
-i can flip the script but i chose not to this time
-there's so much to say with so little time, but i like it
-(yes i like it)
-i'm gon' dip dive socialize and get high
-i wish my people had, other ways
-i'm thankful, that a brother's paid (that a brother's paid)
-but how can i be happy?  my hair is still nappy
-i miss my grandpappy
-i wanna do right but the world is wrong
-that's why i'm singin this song
-i'm tryin to stack a dollar pop my collar while i'm singin my song
-y'all niggaz better leave me alone (i think you better leave me alone)
-i think y'all betta leave me alone (i think you better leave me alone)
-i'm tryin to stack a dollar pop my collar while i'm singin my song
-you bitches better leave me alone (i think you better leave me alone)
-i think y'all betta leave me alone (i think you better leave me alone)
-there's so much goin on out there in the world today
-all these - ladies, players, gangsters, and suckers
-i get caught up sometimes, some of the people i hang with
-they turn out to be snitches, bitches, yeah they switches
-but you know like i know i can't stop doin, what i got to do
-i'ma keep doin what i got to (i'ma keep doin) y'know!
-everywhere i go, the game is the same
-people lookin at me want me to say somethin
-want me to do somethin, but i don't know nuttin
-if i ain't gettin paid, i can't drop no rhymes
-i can't do nothin for you no mo', i ain't got that kinda time
-and they know..
-i try to be to myself, and try to stay.. away from the world
-but the world just keeps runnin after me (runnin after me)
-i try to shield myself away from all the wickedness
-but somehow, the wickedness is in my circle - what am i to do?
-i try to ask god to help me get through this
-what am i to do to this?  just do this, let's do this
-so i, continue to mash, day by day (day by day)
-i continue to play, play by play
-and i con-tinue to spit my manuscript (spit it)
-and say what i want to say (say it)
-and i do it to ya ev-ery-day
-leave me alone, i think you better leave me alone
-leave me alone, leave me alone - better leave me alone
-if it don't pay you wrong, leave me alone
-i think you better leave me alone, leave me alone
-leave me alonnnne, leave me alonnnne
-if it don't pay you wrong..
+(dp1
+Vshield
+p2
+I1
+sVlyrics
+p3
+I2
+sVya
+p4
+I1
+sVdollar
+p5
+I2
+sVswitches
+p6
+I1
+sVgo
+p7
+I1
+sVyes
+p8
+I1
+sVstill
+p9
+I1
+sVwickedness
+p10
+I2
+sVbefore
+p11
+I1
+sVima
+p12
+I3
+sVhelp
+p13
+I1
+sVbetter
+p14
+I9
+sVlets
+p15
+I1
+sVpay
+p16
+I2
+sVcircle
+p17
+I1
+sVreal
+p18
+I1
+sVdo
+p19
+I2
+sVyo
+p20
+I1
+sVget
+p21
+I3
+sVrules
+p22
+I1
+sVstop
+p23
+I1
+sVbreak
+p24
+I1
+sVgame
+p25
+I1
+sVknow
+p26
+I7
+sVworld
+p27
+I4
+sVday
+p28
+I4
+sVlike
+p29
+I4
+sVgettin
+p30
+I1
+sVbetta
+p31
+I2
+sVleave
+p32
+I20
+sVgangsters
+p33
+I1
+sVcontinue
+p34
+I3
+sVdip
+p35
+I1
+sVyall
+p36
+I5
+sVright
+p37
+I3
+sVnuttin
+p38
+I1
+sVlowkey
+p39
+I1
+sVpeople
+p40
+I3
+sVyeah
+p41
+I1
+sVhair
+p42
+I1
+sValonnnne
+p43
+I2
+sVrhymes
+p44
+I1
+sVhoes
+p45
+I1
+sVyknow
+p46
+I1
+sVout
+p47
+I1
+sVtry
+p48
+I5
+sVgon
+p49
+I2
+sVways
+p50
+I1
+sVgod
+p51
+I1
+sVaway
+p52
+I2
+sVgoes
+p53
+I2
+sVgot
+p54
+I3
+sVcause
+p55
+I1
+sVdoin
+p56
+I3
+sVaint
+p57
+I3
+sVchose
+p58
+I1
+sVyknahmsayin
+p59
+I1
+sVnever
+p60
+I2
+sVhere
+p61
+I1
+sVsocialize
+p62
+I1
+sVsingin
+p63
+I3
+sValone
+p64
+I18
+sVsuckers
+p65
+I1
+sVfoes
+p66
+I1
+sVg
+I1
+sVask
+p67
+I1
+sVkeep
+p68
+I2
+sVplayers
+p69
+I1
+sVlookin
+p70
+I1
+sVthink
+p71
+I8
+sVcomes
+p72
+I1
+sVthats
+p73
+I3
+sVladies
+p74
+I1
+sVdont
+p75
+I3
+sVmanuscript
+p76
+I1
+sVfeel
+p77
+I2
+sVpop
+p78
+I2
+sVthankful
+p79
+I1
+sVuhhuh
+p80
+I1
+sVmiss
+p81
+I1
+sVeverybody
+p82
+I1
+sVwan
+p83
+I1
+sVlittle
+p84
+I1
+sVsnoop
+p85
+I1
+sVscript
+p86
+I1
+sVdogg
+p87
+I1
+sVcaught
+p88
+I1
+sVstack
+p89
+I2
+sVmuch
+p90
+I2
+sVtryin
+p91
+I2
+sVtoday
+p92
+I1
+sVhappy
+p93
+I1
+sVknows
+p94
+I1
+sVspit
+p95
+I2
+sVbitches
+p96
+I2
+sVcant
+p97
+I3
+sVsomehow
+p98
+I1
+sVeverywhere
+p99
+I1
+sVwith
+p100
+I1
+sVme
+p101
+I2
+sVkind
+p102
+I1
+sVthis
+p103
+I2
+sVwish
+p104
+I1
+sVmo
+p105
+I1
+sVflip
+p106
+I1
+sVniggaz
+p107
+I1
+sVsnitches
+p108
+I1
+sVtheres
+p109
+I2
+sVit
+p110
+I5
+sVhigh
+p111
+I1
+sVsay
+p112
+I5
+sVim
+p113
+I9
+sVwant
+p114
+I3
+sVcheck
+p115
+I1
+sVshit
+p116
+I1
+sVdifferent
+p117
+I1
+sVturn
+p118
+I1
+sVna
+p119
+I1
+sVsong
+p120
+I3
+sVsame
+p121
+I1
+sVeveryday
+p122
+I1
+sVrunnin
+p123
+I2
+sVplay
+p124
+I3
+sVbrothers
+p125
+I2
+sVdive
+p126
+I1
+sVkeeps
+p127
+I1
+sVhang
+p128
+I1
+sVpaid
+p129
+I3
+sVstay
+p130
+I1
+sVwrong
+p131
+I3
+sVkinda
+p132
+I1
+sVfriends
+p133
+I1
+sVcollar
+p134
+I2
+sVgoin
+p135
+I1
+sVsomethin
+p136
+I3
+sVdrop
+p137
+I1
+sVsometimes
+p138
+I1
+sVnothin
+p139
+I1
+sVmash
+p140
+I1
+sVgrandpappy
+p141
+I1
+sVtime
+p142
+I3
+sVnappy
+p143
+I1
+s.

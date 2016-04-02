@@ -1,91 +1,748 @@
-"captain save a hoe (remix)" lyrics
-e-40 lyrics
-"captain save a hoe (remix)"
-(feat. the click)
-ah is a, ah is a
-should i save her (i wanna be saved)
-ah is a, ah is a
-should i save her (i wanna be saved)
-ah is a, ah is a
-should i save her (i wanna be saved)
-it's 1994 and fools need to miss me be savin' these foes
-you know how these tricks be, be buyin' em' clothes
-wanna taxi those on vogues with the beat
-and have em' sittin' next to em' in the front seat
-but not b see i'm a hog up out the v
-and my motto is bust a batch and hit the throttle
-to the smoke talkin' on my okie doe
-world wide i got a clydes up in tokoyo
-look up in the sky it's a bird it's a plane
-what's that fool name? (captain save a hoe main)
-more faster than a speeding bullet
-to put on his cape and scared
-i put the fake the fake the funk the funk
-to me that's not the way to do it
-captain mutha-f em' save a soul came to me
-flexin' just like a little ol' batch
-all up in front of my company
-had to check him fast with an ear check dump and pumpin'
-talkin' to him while i'm beatin' him down
-pumpin' fear talkin' bout partner you gone retrospect something here
-mr. super-snitch, mr. super-trick
-yeah, you wanna kill me cause i tossed ya chick
-you should had your cape on tight that night
-cause a brother like the shot sho plugs em' right
-and now yo batch is straight callin me lovin me
-on the under for the porno star that i be
-and don't you come in my face with that trick shhh
-ya betta try some more shhh
-i got the gift to grab any batch
-that i want but i don't
-cause batches now a days will get you caught up in some funk
-oh no, i'm not tryin' to save you girls 'n
-how come when i was broke you wasn't brown nosin'?
-the other day you see me smobbin' down magazine
-with some ol' sucker in your car lookin' at me mean
-i stopped in the middle of the street
-reached under seat to grab my heat
-man that's the same ol' buster
-that i got into it with at the club last week
-man them suckers can't fade
-they batch made
-and so they start
-but suckers with no heart
-don't want no part to this
-fool rollin' with the funk mobb
-and when it's funk
-the pump will spit them double laws
-so what you doin' when we roll through you hideout
-i let my mack get off and then i rides out
-with your ass there smokin' like a dope fiend
-you savin em' man and that's batch thang
-i'm lovin' tricks when i'm pimpin'
-and even snitches just for my riches
-captain save me, it's all good if ya slippin'
-it's all good as long as ya payin' yeah
-it ain't my fault if you get sprung off my land
-i'm takin' ga checks, go to the bank hank
-if ya comin' faulty, you get ganked main
-long as a trick comes fallin' down
-that gets me all upset to put on my suit and clown
-but make that man take care your kids
-make that fella call your kids his
-make that mark get out there and work
-make him fool buy you a brinun burk
-it's all part of that sucker take care of me
-crevice whipped fool come save me
-batches out there be on the look out
-for captain save em' though
-cause he's savin though
-ha ha
-yeah baby, what's up you wanna get your hair done
-come on let's go down to lee and kim nail's
-we can get your nails done, get your hair done
-what about your kids? how many kids you got? two?
-ah, yeah that's cool we can go feed and cloth them kids
-we can go down and get the hook up at durant square
-yeah baby i do anything for ya
-want you phone cranked on, i can get it cranked on to my name
-matter of fact i get you a cellular phone and a pager
-we can get that package deal down there at cellular one
-baby i'm here for you i got you
+(dp1
+Vtaxi
+p2
+I1
+sVfade
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVclydes
+p6
+I1
+sVkill
+p7
+I1
+sVga
+p8
+I1
+sVworld
+p9
+I1
+sVslippin
+p10
+I1
+sVfear
+p11
+I1
+sVcaptain
+p12
+I6
+sVsaved
+p13
+I3
+sVaint
+p14
+I1
+sVdurant
+p15
+I1
+sVporno
+p16
+I1
+sVtight
+p17
+I1
+sVthang
+p18
+I1
+sVsky
+p19
+I1
+sVbust
+p20
+I1
+sVday
+p21
+I1
+sVlets
+p22
+I1
+sVganked
+p23
+I1
+sVface
+p24
+I1
+sVfiend
+p25
+I1
+sVbout
+p26
+I1
+sVsave
+p27
+I11
+sVwork
+p28
+I1
+sVfool
+p29
+I4
+sVmuthaf
+p30
+I1
+sVcallin
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I1
+sVget
+p34
+I12
+sVbeat
+p35
+I1
+sVpumpin
+p36
+I2
+sVdope
+p37
+I1
+sVsittin
+p38
+I1
+sVlovin
+p39
+I2
+sVb
+I1
+sVknow
+p40
+I1
+sVcellular
+p41
+I2
+sVfront
+p42
+I2
+sVcape
+p43
+I2
+sVshhh
+p44
+I2
+sVbank
+p45
+I1
+sVlike
+p46
+I3
+sVburk
+p47
+I1
+sVgets
+p48
+I1
+sVname
+p49
+I2
+sVgift
+p50
+I1
+sVmade
+p51
+I1
+sVcool
+p52
+I1
+sVsupertrick
+p53
+I1
+sVbrother
+p54
+I1
+sVclown
+p55
+I1
+sVroll
+p56
+I1
+sVtry
+p57
+I1
+sVstopped
+p58
+I1
+sVbatch
+p59
+I6
+sVchick
+p60
+I1
+sVgrab
+p61
+I2
+sVclothes
+p62
+I1
+sVem
+p63
+I7
+sVhank
+p64
+I1
+sVright
+p65
+I1
+sVdump
+p66
+I1
+sVscared
+p67
+I1
+sVcomin
+p68
+I1
+sVyeah
+p69
+I5
+sVphone
+p70
+I2
+sVseat
+p71
+I2
+sVhair
+p72
+I2
+sVchecks
+p73
+I1
+sVsee
+p74
+I2
+sVstreet
+p75
+I1
+sVgo
+p76
+I4
+sVclick
+p77
+I1
+sVout
+p78
+I2
+sVeven
+p79
+I1
+sVtossed
+p80
+I1
+sVsmobbin
+p81
+I1
+sVkids
+p82
+I5
+sVfeat
+p83
+I1
+sVha
+p84
+I2
+sVpump
+p85
+I1
+sVgot
+p86
+I5
+sVcause
+p87
+I4
+sVbird
+p88
+I1
+sVwhipped
+p89
+I1
+sVass
+p90
+I1
+sVbe
+p91
+I1
+sVpackage
+p92
+I1
+sVlee
+p93
+I1
+sVfella
+p94
+I1
+sVnails
+p95
+I2
+sVmr
+p96
+I2
+sVsprung
+p97
+I1
+sVhere
+p98
+I1
+sVbatches
+p99
+I2
+sVlet
+p100
+I1
+sVsmokin
+p101
+I1
+sVpimpin
+p102
+I1
+sVput
+p103
+I3
+sVsuckers
+p104
+I2
+sVflexin
+p105
+I1
+sVcome
+p106
+I4
+sVcare
+p107
+I2
+sVfoes
+p108
+I1
+sVbetta
+p109
+I1
+sVol
+p110
+I3
+sVlast
+p111
+I1
+sVbuster
+p112
+I1
+sVanything
+p113
+I1
+sV1994
+p114
+I1
+sVfault
+p115
+I1
+sVdays
+p116
+I1
+sVmagazine
+p117
+I1
+sVsmoke
+p118
+I1
+sVsho
+p119
+I1
+sVcomes
+p120
+I1
+sVthats
+p121
+I4
+sVfeed
+p122
+I1
+sVwhats
+p123
+I2
+sVdont
+p124
+I3
+sVheart
+p125
+I1
+sVone
+p126
+I1
+sVdown
+p127
+I2
+sVhook
+p128
+I1
+sVsquare
+p129
+I1
+sVdone
+p130
+I3
+sVlong
+p131
+I2
+sVfake
+p132
+I2
+sVfallin
+p133
+I1
+sVreached
+p134
+I1
+sVmark
+p135
+I1
+sVmiss
+p136
+I1
+sVmotto
+p137
+I1
+sVwan
+p138
+I6
+sVlittle
+p139
+I1
+sVdeal
+p140
+I1
+sVsucker
+p141
+I2
+sVhes
+p142
+I1
+sVdouble
+p143
+I1
+sVnosin
+p144
+I1
+sVcaught
+p145
+I1
+sVnight
+p146
+I1
+sVgirls
+p147
+I1
+sVtwo
+p148
+I1
+sVfast
+p149
+I1
+sVnext
+p150
+I1
+sVstart
+p151
+I1
+sVsavin
+p152
+I3
+sVcall
+p153
+I1
+sVway
+p154
+I1
+sVsuit
+p155
+I1
+sVmean
+p156
+I1
+sVtryin
+p157
+I1
+sVbuy
+p158
+I1
+sVretrospect
+p159
+I1
+sVspit
+p160
+I1
+sVcranked
+p161
+I2
+sVclub
+p162
+I1
+sVcompany
+p163
+I1
+sVyou
+p164
+I1
+sVbuyin
+p165
+I1
+sVcloth
+p166
+I1
+sVheat
+p167
+I1
+sVpart
+p168
+I2
+sVbroke
+p169
+I1
+sVbaby
+p170
+I3
+sVear
+p171
+I1
+sVfunk
+p172
+I5
+sVmatter
+p173
+I1
+sVme
+p174
+I4
+sVwide
+p175
+I1
+sVe40
+p176
+I1
+sVmain
+p177
+I2
+sVthrottle
+p178
+I1
+sVlook
+p179
+I2
+sVthis
+p180
+I1
+sVcar
+p181
+I1
+sVstraight
+p182
+I1
+sVoh
+p183
+I1
+sVriches
+p184
+I1
+sVsoul
+p185
+I1
+sVpayin
+p186
+I1
+sVn
+I1
+sVtrick
+p187
+I2
+sVhideout
+p188
+I1
+sVv
+I1
+sVsnitches
+p189
+I1
+sVgone
+p190
+I1
+sVhis
+p191
+I1
+sVbrown
+p192
+I1
+sVwasnt
+p193
+I1
+sVah
+p194
+I7
+sVit
+p195
+I1
+sVbeatin
+p196
+I1
+sVmiddle
+p197
+I1
+sVcant
+p198
+I1
+sVgood
+p199
+I2
+sVim
+p200
+I7
+sVsomething
+p201
+I1
+sVwant
+p202
+I3
+sVneed
+p203
+I1
+sVpartner
+p204
+I1
+sVvogues
+p205
+I1
+sVcheck
+p206
+I2
+sVtokoyo
+p207
+I1
+sVhog
+p208
+I1
+sVhoe
+p209
+I3
+sVna
+p210
+I6
+sVmake
+p211
+I4
+sVtakin
+p212
+I1
+sVokie
+p213
+I1
+sVya
+p214
+I6
+sVtake
+p215
+I2
+sVspeeding
+p216
+I1
+sVfools
+p217
+I1
+sVfaulty
+p218
+I1
+sVrides
+p219
+I1
+sVtalkin
+p220
+I3
+sVpager
+p221
+I1
+sVweek
+p222
+I1
+sVstar
+p223
+I1
+sVlookin
+p224
+I1
+sVthough
+p225
+I2
+sVdoin
+p226
+I1
+sVplane
+p227
+I1
+sVkim
+p228
+I1
+sVplugs
+p229
+I1
+sVmack
+p230
+I1
+sVman
+p231
+I4
+sVa
+I3
+sVcrevice
+p232
+I1
+sVremix
+p233
+I2
+sVland
+p234
+I1
+sVfaster
+p235
+I1
+sVbullet
+p236
+I1
+sVsupersnitch
+p237
+I1
+sVmobb
+p238
+I1
+sVtricks
+p239
+I2
+sVmany
+p240
+I1
+sVupset
+p241
+I1
+sVrollin
+p242
+I1
+sVdoe
+p243
+I1
+sVfact
+p244
+I1
+sVbrinun
+p245
+I1
+sVcame
+p246
+I1
+sVlaws
+p247
+I1
+s.

@@ -1,87 +1,597 @@
-"hard as hell" lyrics
-ugk lyrics
-"hard as hell"
-ooh ay ay
-ooh ay ay
-ooh ay ay
-it's akon and ugkayyy
-and ugkayyy
-and ugkayyy
-it's akon
-that girl she got me the way she movin in place
-bendin over spreadin eagle all that ass in my face
-she got me hard as hell
-got me pokin like a nail
-she got me hard as hell
-i can't control it can't you tell baby
-show me whatcha workin with
-ever got knocked out on a brotha kid
-i keep a gold magnum rubber with some k-y
-tryna see where i'm cummin from get it in your eye (in your eye)
-i like when ya get downnn like a gus of poles
-rolled on a dolphin get that shit up out your nose
-is that where all your money goes
-i spend mine on bendz and roles
-royces choices get on the pole
-slide down move around and bring that money back home
-he ain't pimp hes a clone
-wanna eat my dick when it smell my cologne
-i'm so thrown in a gang like that
-the good cat ball but the motha fucka fat
-girl whatcha gonna do with all that
-can see your missin t's i hithca from the back
-that girl she got me the way she movin in place
-bendin over spreadin eagle all that ass in my face
-she got me hard as hell
-got me pokin like a nail
-she got me hard as hell
-i can't control it can't you tell baby
-she was 36 24 40
-centerfold stallion uh life of the party
-all eyes on her and that goes for me too
-five inch heels and a dress that's see through
-as soon as i saw her i knew that it was time
-as soon as she saw me she knew that she was mine
-if this is a dream then i don't wanna wake
-and if this is as good as it seems commone you gotta shake
-the body's not real it look like crunk drew her
-if she don't step to me i'm finna run to her
-and off top man my mouth will drop man
-and for a minute it felt like the world just stopped man
-then started again and now i'm startin to feel like i could really give
-baby girl i hearted a tril and once you got the heart
-you got the dope but right now we gots to go cause baby girl gots ta know
-that girl she got me the way she movin in place
-bendin over spreadin eagle all that ass in my face
-she got me hard as hell
-got me pokin like a nail
-she got me hard as hell
-i can't control it can't you tell baby
-the boyz we mean they on bended knee
-make it disappear you want the texas t
-girls in france like texas d
-they soo ooo lala a wee wee wee
-mercie voku baby girl you know you
-got the hot butter my knife gotta go through
-sometimes it cuts slow sometimes it cut quick
-it don't matter cause it's still good dick come on
-shorty got me swollen now
-chicka say wanna nigga hold her now
-grippin the tie she ready to bone me now
-diggin up in that belly got her moanin now
-and round and round i go
-when i come up and down she go
-when she cum everybody know
-when we cum moneys on the floor baby
-that girl she got me the way she movin in place
-bendin over spreadin eagle all that ass in my face
-she got me hard as hell
-got me pokin like a nail
-she got me hard as hell
-i can't control it can't you tell baby
-that girl she got me the way she movin in place
-bendin over spreadin eagle all that ass in my face
-she got me hard as hell
-got me pokin like a nail
-she got me hard as hell
-i can't control it can't you tell baby.
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I2
+sVbrotha
+p6
+I1
+sVmove
+p7
+I1
+sVhot
+p8
+I1
+sVsoon
+p9
+I2
+sVfelt
+p10
+I1
+sVeverybody
+p11
+I1
+sVbring
+p12
+I1
+sVchicka
+p13
+I1
+sVthrough
+p14
+I2
+sVgang
+p15
+I1
+sVshake
+p16
+I1
+sVgo
+p17
+I4
+sVhell
+p18
+I12
+sVstill
+p19
+I1
+sVeyes
+p20
+I1
+sVaint
+p21
+I1
+sVslow
+p22
+I1
+sVgold
+p23
+I1
+sVbendin
+p24
+I5
+sVdick
+p25
+I2
+sVseems
+p26
+I1
+sVts
+p27
+I1
+sVsaw
+p28
+I2
+sVcum
+p29
+I2
+sVtexas
+p30
+I2
+sVta
+p31
+I3
+sVreal
+p32
+I1
+sVgood
+p33
+I3
+sVworkin
+p34
+I1
+sVaround
+p35
+I1
+sVget
+p36
+I4
+sVya
+p37
+I1
+sVdope
+p38
+I1
+sVfat
+p39
+I1
+sVfive
+p40
+I1
+sVknow
+p41
+I3
+sV24
+p42
+I1
+sVworld
+p43
+I1
+sVnow
+p44
+I4
+sVmoanin
+p45
+I1
+sVminute
+p46
+I1
+sVd
+I1
+sVlike
+p47
+I12
+sVpimp
+p48
+I1
+sVcause
+p49
+I2
+sVdrop
+p50
+I1
+sVlala
+p51
+I1
+sVgus
+p52
+I1
+sVslide
+p53
+I1
+sVstopped
+p54
+I1
+sVnose
+p55
+I1
+sVstartin
+p56
+I1
+sVwhatcha
+p57
+I2
+sVquick
+p58
+I1
+sVroyces
+p59
+I1
+sVround
+p60
+I2
+sVbone
+p61
+I1
+sVmean
+p62
+I1
+sVright
+p63
+I1
+sVhard
+p64
+I12
+sVbendz
+p65
+I1
+sVback
+p66
+I2
+sVnail
+p67
+I5
+sVsee
+p68
+I3
+sVhome
+p69
+I1
+sVgirl
+p70
+I9
+sVchoices
+p71
+I1
+sVfinna
+p72
+I1
+sVreally
+p73
+I1
+sVmovin
+p74
+I5
+sVgon
+p75
+I1
+sVpokin
+p76
+I5
+sVdiggin
+p77
+I1
+sVpoles
+p78
+I1
+sVgoes
+p79
+I2
+sVgot
+p80
+I28
+sVhold
+p81
+I1
+sVever
+p82
+I1
+sVknife
+p83
+I1
+sVfucka
+p84
+I1
+sVass
+p85
+I5
+sVeagle
+p86
+I5
+sVknew
+p87
+I2
+sVspreadin
+p88
+I5
+sVrolled
+p89
+I1
+sVstallion
+p90
+I1
+sVdrew
+p91
+I1
+sVakon
+p92
+I2
+sVugkayyy
+p93
+I3
+sVstep
+p94
+I1
+sVcut
+p95
+I1
+sVgots
+p96
+I2
+sVcome
+p97
+I2
+sVthrown
+p98
+I1
+sVcenterfold
+p99
+I1
+sVcommone
+p100
+I1
+sVwee
+p101
+I3
+sVswollen
+p102
+I1
+sVcould
+p103
+I1
+sV36
+p104
+I1
+sVkeep
+p105
+I1
+sVtie
+p106
+I1
+sVplace
+p107
+I5
+sVthats
+p108
+I1
+sVdont
+p109
+I3
+sVheart
+p110
+I1
+sVfeel
+p111
+I1
+sVsoo
+p112
+I1
+sVboyz
+p113
+I1
+sVpole
+p114
+I1
+sVnigga
+p115
+I1
+sVfrance
+p116
+I1
+sVdownnn
+p117
+I1
+sVbended
+p118
+I1
+sVwan
+p119
+I3
+sVeye
+p120
+I2
+sVher
+p121
+I2
+sVhes
+p122
+I1
+sVcrunk
+p123
+I1
+sVtop
+p124
+I1
+sVgirls
+p125
+I1
+sVt
+I1
+sVtoo
+p126
+I1
+sVway
+p127
+I5
+sVbodys
+p128
+I1
+sVman
+p129
+I3
+sVtell
+p130
+I5
+sVmercie
+p131
+I1
+sVtryna
+p132
+I1
+sVlife
+p133
+I1
+sVthat
+p134
+I2
+sVstarted
+p135
+I1
+sVooo
+p136
+I1
+sVooh
+p137
+I3
+sVmoneys
+p138
+I1
+sVwake
+p139
+I1
+sVbaby
+p140
+I9
+sVcummin
+p141
+I1
+sVcuts
+p142
+I1
+sVwith
+p143
+I1
+sVeat
+p144
+I1
+sVcologne
+p145
+I1
+sVlook
+p146
+I1
+sVroles
+p147
+I1
+sVbelly
+p148
+I1
+sVsay
+p149
+I1
+sVcat
+p150
+I1
+sVmatter
+p151
+I1
+sVgrippin
+p152
+I1
+sVuh
+p153
+I1
+sVknocked
+p154
+I1
+sVcontrol
+p155
+I5
+sVtril
+p156
+I1
+sVready
+p157
+I1
+sVgive
+p158
+I1
+sVdolphin
+p159
+I1
+sVmine
+p160
+I2
+sVheels
+p161
+I1
+sVcant
+p162
+I10
+sVim
+p163
+I4
+sVwant
+p164
+I1
+sVay
+p165
+I6
+sVhithca
+p166
+I1
+sVdress
+p167
+I1
+sVshit
+p168
+I1
+sVparty
+p169
+I1
+sVfloor
+p170
+I1
+sVna
+p171
+I4
+sVmake
+p172
+I1
+sV40
+p173
+I1
+sVrubber
+p174
+I1
+sVrun
+p175
+I1
+sVdisappear
+p176
+I1
+sVinch
+p177
+I1
+sVmagnum
+p178
+I1
+sVyou
+p179
+I1
+sVsmell
+p180
+I1
+sVmotha
+p181
+I1
+sVhearted
+p182
+I1
+sVball
+p183
+I1
+sVclone
+p184
+I1
+sVmissin
+p185
+I1
+sVshorty
+p186
+I1
+sVmouth
+p187
+I1
+sVvoku
+p188
+I1
+sVknee
+p189
+I1
+sVon
+p190
+I1
+sVkid
+p191
+I1
+sVbutter
+p192
+I1
+sVsometimes
+p193
+I2
+sVface
+p194
+I5
+sVtime
+p195
+I1
+sVky
+p196
+I1
+sVdream
+p197
+I1
+sVspend
+p198
+I1
+s.

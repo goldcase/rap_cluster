@@ -1,53 +1,416 @@
-"still cruisin'" lyrics
-eazy-e lyrics
-"still cruisin'"
-(feat. the game)
-1 2 3 and to the 4
-eazy mutherfuckin e with the crome to ya dome
-cruising in my 64 ragtop
-i got alotta juice alotta fuckin block
-now when i hit that switch im bouncin
-more bounce to the ounce and im clownin
-keep the gat in my lap
-cuz im fully strapped
-for the carjackas ,but no haps cuz i pack the tech 9'
-1 2 3 and to the 4
-eazy mutherfuckin e with the crome to ya dome
-cruisin in my 64 ragtop
-i got alotta juice alotta fuckin block
-now when i hit that switch im bouncin
-more bounce to the ounce and im clownin
-keep the gat in my lap
-cuz im fully strapped
-for the carjackas ,but no haps
-cuz i pack the tech 9' plus an ak47
-send a one way ticket to my hell or maybe heaven
-peep nigga i dont sleep
-bury mutherfuckers in the concrete
-you try to creep kinda slow in the astro
-but i peep you niggaz out in my left window
-so i blast and i blast 'til i blast no more
-yo they call a mutherfucker john doe
-old nigga e still cruisin
-cruisin down the street in my 64
-1, 2, 3 and to the 4
-pumps in the trunk of that cherry red '64
-im riding with the ghost of eazy hoppin the leany
-he watching for demons
-nigga if you try me then im cocking the nina
-begging lucifer to gimmie a reason
-to have a hundred thou. cash brought down to the precinct
-ima make bail money, this rap shit is a monopoly
-and i got property, thats get out of jail money
-nigga i came from poverty
-shoot-outs, gang-banging, and robberies
-car-jacking, snatching mata's impalas
-do that with or without the ... going inside of me
-hop out the ride and empty the 45 into his body
-im not to be fucked with
-whether im straight out of compton
-or straight out of cashville on that young buck shit
-terrorizing whoo kid 24/7
-'til 1 of you niggas put me with eazy in heaven.
-old nigga e still cruisin
-cruisin down the street in my 64
+(dp1
+V45
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVyoung
+p5
+I1
+sVsleep
+p6
+I1
+sVhell
+p7
+I1
+sVstill
+p8
+I4
+sVfeat
+p9
+I1
+sVragtop
+p10
+I2
+sVima
+p11
+I1
+sVtil
+p12
+I2
+sVslow
+p13
+I1
+sVterrorizing
+p14
+I1
+sVcherry
+p15
+I1
+sVcuz
+p16
+I4
+sVsend
+p17
+I1
+sVwindow
+p18
+I1
+sVlucifer
+p19
+I1
+sV4
+I3
+sVriding
+p20
+I1
+sVhit
+p21
+I2
+sVyo
+p22
+I1
+sVwatching
+p23
+I1
+sVya
+p24
+I2
+sVbegging
+p25
+I1
+sVgame
+p26
+I1
+sVticket
+p27
+I1
+sVblast
+p28
+I3
+sVgoing
+p29
+I1
+sVheaven
+p30
+I2
+sVfully
+p31
+I2
+sVniggas
+p32
+I1
+sVtry
+p33
+I2
+sVride
+p34
+I1
+sVnigga
+p35
+I5
+sVold
+p36
+I2
+sVbounce
+p37
+I2
+sVstreet
+p38
+I2
+sVimpalas
+p39
+I1
+sVmutherfuckers
+p40
+I1
+sVcreep
+p41
+I1
+sVbail
+p42
+I1
+sVdemons
+p43
+I1
+sVmatas
+p44
+I1
+sV3
+I3
+sVmutherfuckin
+p45
+I2
+sVcarjacking
+p46
+I1
+sVgot
+p47
+I3
+sVeazye
+p48
+I1
+sVred
+p49
+I1
+sVbody
+p50
+I1
+sVdome
+p51
+I2
+sVreason
+p52
+I1
+sVpoverty
+p53
+I1
+sVcashville
+p54
+I1
+sVtrunk
+p55
+I1
+sVput
+p56
+I1
+sVpeep
+p57
+I2
+sVbury
+p58
+I1
+sVbuck
+p59
+I1
+sVbouncin
+p60
+I2
+sVthou
+p61
+I1
+sVcompton
+p62
+I1
+sV247
+p63
+I1
+sVkeep
+p64
+I2
+sVounce
+p65
+I2
+sVplus
+p66
+I1
+sVcarjackas
+p67
+I2
+sVshootouts
+p68
+I1
+sVblock
+p69
+I2
+sVthats
+p70
+I1
+sVhoppin
+p71
+I1
+sVdont
+p72
+I1
+sVhaps
+p73
+I2
+sVone
+p74
+I1
+sVbrought
+p75
+I1
+sV64
+p76
+I5
+sVstraight
+p77
+I2
+sVstrapped
+p78
+I2
+sV2
+I3
+sVcall
+p79
+I1
+sVway
+p80
+I1
+sVak47
+p81
+I1
+sVjohn
+p82
+I1
+sVempty
+p83
+I1
+sVmore
+p84
+I1
+sVsnatching
+p85
+I1
+sVgat
+p86
+I2
+sVastro
+p87
+I1
+sVclownin
+p88
+I2
+sVprecinct
+p89
+I1
+sVwith
+p90
+I1
+sVme
+p91
+I1
+sVhundred
+p92
+I1
+sVmonopoly
+p93
+I1
+sVwhether
+p94
+I1
+sVinside
+p95
+I1
+sVcash
+p96
+I1
+sVniggaz
+p97
+I1
+sVnina
+p98
+I1
+sVrobberies
+p99
+I1
+sVproperty
+p100
+I1
+sVpack
+p101
+I2
+sValotta
+p102
+I4
+sVleany
+p103
+I1
+sVeazy
+p104
+I4
+sVjuice
+p105
+I2
+sVim
+p106
+I10
+sVrap
+p107
+I1
+sVcruising
+p108
+I1
+sVshit
+p109
+I2
+sVcocking
+p110
+I1
+sVwhoo
+p111
+I1
+sVmake
+p112
+I1
+sVget
+p113
+I1
+sV1
+I4
+sVhop
+p114
+I1
+sV9
+I2
+sVjail
+p115
+I1
+sVmutherfucker
+p116
+I1
+sVcame
+p117
+I1
+sVpumps
+p118
+I1
+sVkinda
+p119
+I1
+sVfucked
+p120
+I1
+sVlap
+p121
+I2
+sVkid
+p122
+I1
+sVghost
+p123
+I1
+sVe
+I4
+sVcrome
+p124
+I2
+sVmaybe
+p125
+I1
+sVgimmie
+p126
+I1
+sVdoe
+p127
+I1
+sVconcrete
+p128
+I1
+sVswitch
+p129
+I2
+sVwithout
+p130
+I1
+sVtech
+p131
+I2
+sVfuckin
+p132
+I2
+sVgangbanging
+p133
+I1
+sVcruisin
+p134
+I7
+sVleft
+p135
+I1
+s.

@@ -1,51 +1,439 @@
-"9 shots" lyrics
-50 cent lyrics
-"9 shots"
-fifty, fifty
-fifty, fifty
-fifty, fifty
-ferrari, ferrari
-ferrari, ferrari
-ferrari, ferrari
-shooter, shooter
-shooter, shooter
-i was innocent then, i ain’t do no wrong
-she said, “you mommy little man,” i said, “yep, uh huh”
-she was everything to me, when she came, i just lit up
-sunday morning i was so sharp, all did up
-it was welfare hustlin', they killed her for that
-the first shot, bullet wound in my back
-i’m fucked up, look at my sneakers, i’m fucked up
-now i’m on my own, mommy gone
-sam said, “you a young boy, why your clothes look so old?
-you don’t need fish, little nigga, you need a pole
-you don’t need no new kicks, you need an o”
-chop that, bag it, get right back at it
-that touched me, it hit me in my heart
-i’m a hustler, homie, you was giving me my start
-i am what i am, sabrina’s only baby
-practicing in the mirror, pulling out my .380
-oh man, i fucked up nana gonna kill me
-whenever shit can go wrong it always will
-see, seven grams of cocaine, three grams of dope
-saint mary medallion hanging from my rope
-try to punk me and my gun smoke
-look, i’m outta control, my gun go
-off like it’s legal, call the cops, you need to
-give ‘em my description, i ain’t bullshittin'
-my high school sweetheart love didn’t last long
-niggas start flashing that bread and she was gone
-that hurt me like the bullet in my calf then
-my next girl was a pain in the ass
-i got two shots left, in case niggas try to get me
-that’s nine shots, we just call it fifty
-mama said the lord gon’ bless us
-mama said, mama said
-mama said the lord gon’ bless us
-then in came the landlord, beef, and the stresses
-mama said the lord gon’ bless us
-mama said, mama said
-mama said the lord gon’ bless us
-the dope bought the shit the food stamps couldn’t get us
-mama said the lord gon’ bless us
-that’s what mama said, that's what mama said
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVfifty
+p4
+I7
+sVbaby
+p5
+I1
+sV\u201cyep
+p6
+I1
+sVkill
+p7
+I1
+sVwelfare
+p8
+I1
+sVgo
+p9
+I2
+sVhustler
+p10
+I1
+sVit\u2019s
+p11
+I1
+sVcouldn\u2019t
+p12
+I1
+sVyoung
+p13
+I1
+sVto
+p14
+I1
+sVtouched
+p15
+I1
+sVinnocent
+p16
+I1
+sVlord
+p17
+I5
+sVflashing
+p18
+I1
+sVthen
+p19
+I1
+sVhit
+p20
+I1
+sVget
+p21
+I3
+sVi\u2019m
+p22
+I5
+sVdope
+p23
+I2
+sVdidn\u2019t
+p24
+I1
+sVgot
+p25
+I1
+sVkilled
+p26
+I1
+sVbread
+p27
+I1
+sVschool
+p28
+I1
+sVlike
+p29
+I2
+sValways
+p30
+I1
+sV50
+p31
+I1
+sVmorning
+p32
+I1
+sVtry
+p33
+I2
+sVbag
+p34
+I1
+sVshots
+p35
+I4
+sVclothes
+p36
+I1
+sVnigga
+p37
+I1
+sVold
+p38
+I1
+sVfish
+p39
+I1
+sVhanging
+p40
+I1
+sVman\u201d
+p41
+I1
+sVgun
+p42
+I2
+sVo\u201d
+p43
+I1
+sVmirror
+p44
+I1
+sVgirl
+p45
+I1
+sVthat\u2019s
+p46
+I2
+sVrope
+p47
+I1
+sVsaid
+p48
+I14
+sVgiving
+p49
+I1
+sVlegal
+p50
+I1
+sVthats
+p51
+I1
+sVeverything
+p52
+I1
+sVstamps
+p53
+I1
+sVsneakers
+p54
+I1
+sVnew
+p55
+I1
+sVbought
+p56
+I1
+sVass
+p57
+I1
+sVlandlord
+p58
+I1
+sV380
+p59
+I1
+sVmedallion
+p60
+I1
+sVstresses
+p61
+I1
+sVboy
+p62
+I1
+sVlast
+p63
+I1
+sVoh
+p64
+I1
+sVpunk
+p65
+I1
+sVchop
+p66
+I1
+sVsmoke
+p67
+I1
+sVsabrina\u2019s
+p68
+I1
+sVlove
+p69
+I1
+sVheart
+p70
+I1
+sVmommy
+p71
+I2
+sVtwo
+p72
+I1
+sVpole
+p73
+I1
+sVright
+p74
+I1
+sVlong
+p75
+I1
+sVcocaine
+p76
+I1
+sVlittle
+p77
+I2
+sVbeef
+p78
+I1
+sVthree
+p79
+I1
+sVcent
+p80
+I1
+sVnext
+p81
+I1
+sVstart
+p82
+I2
+sVcall
+p83
+I2
+sVdon\u2019t
+p84
+I2
+sVhustlin
+p85
+I1
+sVmama
+p86
+I11
+sVmary
+p87
+I1
+sVcalf
+p88
+I1
+sVsweetheart
+p89
+I1
+sVsaint
+p90
+I1
+sVthat
+p91
+I1
+sVback
+p92
+I2
+sVcops
+p93
+I1
+sVkicks
+p94
+I1
+sVme
+p95
+I2
+sVpracticing
+p96
+I1
+sVlook
+p97
+I3
+sVniggas
+p98
+I2
+sVain\u2019t
+p99
+I2
+sVup
+p100
+I3
+sVus
+p101
+I6
+sVbullshittin
+p102
+I1
+sVwill
+p103
+I1
+sVnine
+p104
+I1
+sVuh
+p105
+I1
+sVcontrol
+p106
+I1
+sVgone
+p107
+I2
+sVseven
+p108
+I1
+sVoutta
+p109
+I1
+sVsam
+p110
+I1
+sVgive
+p111
+I1
+sV\u201cyou
+p112
+I2
+sVit
+p113
+I1
+sVhigh
+p114
+I1
+sVcase
+p115
+I1
+sVhomie
+p116
+I1
+sVpulling
+p117
+I1
+sVneed
+p118
+I5
+sVsharp
+p119
+I1
+sVshit
+p120
+I2
+sVna
+p121
+I1
+sVbless
+p122
+I5
+sVwound
+p123
+I1
+sVlit
+p124
+I1
+sVfood
+p125
+I1
+sVsunday
+p126
+I1
+sVhuh\u201d
+p127
+I1
+sV9
+I2
+sVpain
+p128
+I1
+sVdescription
+p129
+I1
+sVsee
+p130
+I1
+sVwrong
+p131
+I2
+sVgon
+p132
+I1
+sVfucked
+p133
+I3
+sVhurt
+p134
+I1
+sVman
+p135
+I1
+sVgrams
+p136
+I2
+sVbullet
+p137
+I2
+sVwhenever
+p138
+I1
+sVshooter
+p139
+I4
+sVnana
+p140
+I1
+sVferrari
+p141
+I6
+sV\u2018em
+p142
+I1
+sVfirst
+p143
+I1
+sVgon\u2019
+p144
+I5
+sVcame
+p145
+I2
+sVleft
+p146
+I1
+s.

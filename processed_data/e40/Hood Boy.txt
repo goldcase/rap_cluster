@@ -1,76 +1,375 @@
-"hood boy" lyrics
-e-40 lyrics
-"hood boy"
-i bet you ain't never seen 26's on a range
-iced out vvs stones and a chain
-she want a hood boy
-i bet you ain't never seen a nigga pushin' that work
-gettin it, how he live stuntin' on the turf
-she want a hood boy
-she want a hood boy
-she don't want no mark
-body art on his arm's and neck and across his heart
-they throwin' up the block
-i represent my part
-it's a zoo i got more animals then noah's ark
-i keep the bottles cracked
-i got the dro sparked
-44 cocked
-s65 parked
-i'm a hood boy
-i be ridin' wet
-insides jelly
-touchscreen deck
-they say you go boy
-i love yo' swag and 'staljha'
-i remember fo' you rap you used to sell that yowder
-breitling for bentley watch
-26 inch socks
-pick a ride girl
-i got a car lot
-i bet you ain't never seen 26's on a range
-iced out vvs stones and a chain
-she want a hood boy
-i bet you ain't never seen a nigga pushin' that work
-gettin it, how he live stuntin' on the turf
-she want a hood boy
-i got paper
-but i be on the under
-every 3 or 4 weeks i change my phone number
-pope's be trying to watch me
-on some old shit
-i give em' the same line
-i don't know shit
-i don't want a model
-i want some stretch marks
-30 pound butt meat cheeks pull apart
-damn i be coonin'
-japanese jeans on
-shorty on my line
-she got me on her ringtone
-she love me
-i like her
-i'm too hood
-to wife her
-i'm to hood to wife her
-plus i got 3 just like her
-i'm on this xo landy
-mixed with 40 water
-i bet you ain't never seen 26's on a range
-iced out vvs stones and a chain
-she want a hood boy
-i bet you ain't never seen a nigga pushin' that work
-gettin it, how he live stuntin' on the turf
-she want a hood boy
-i can tell when she lookin' at me
-i can tell she wan't a nigga from the streets
-she wan't that hood boy
-i can tell when she lookin' at me
-i can tell she wan't a nigga like 40
-she wan't that hood boy
-i bet you ain't never seen 26's on a range
-iced out vvs stones and a chain
-she want a hood boy
-i bet you ain't never seen a nigga pushin' that work
-gettin it, how he live stuntin' on the turf
-she want a hood boy
+(dp1
+Vstones
+p2
+I4
+sVrepresent
+p3
+I1
+sVchain
+p4
+I4
+sVdeck
+p5
+I1
+sV26s
+p6
+I4
+sVpaper
+p7
+I1
+sVparked
+p8
+I1
+sVgo
+p9
+I1
+sVcocked
+p10
+I1
+sVaint
+p11
+I8
+sVswag
+p12
+I1
+sVlike
+p13
+I3
+sVlyrics
+p14
+I2
+sV4
+I1
+sVunder
+p15
+I1
+sVweeks
+p16
+I1
+sVtouchscreen
+p17
+I1
+sVyo
+p18
+I1
+sVwatch
+p19
+I2
+sVmarks
+p20
+I1
+sVevery
+p21
+I1
+sVknow
+p22
+I1
+sVapart
+p23
+I1
+sVmeat
+p24
+I1
+sVgettin
+p25
+I4
+sVem
+p26
+I1
+sVnigga
+p27
+I6
+sVart
+p28
+I1
+sVbentley
+p29
+I1
+sVthrowin
+p30
+I1
+sVstreets
+p31
+I1
+sVjapanese
+p32
+I1
+sVgirl
+p33
+I1
+sVark
+p34
+I1
+sV3
+I2
+sVgot
+p35
+I6
+sVacross
+p36
+I1
+sVbody
+p37
+I1
+sVnever
+p38
+I8
+sVsparked
+p39
+I1
+sV26
+p40
+I1
+sVstaljha
+p41
+I1
+sVridin
+p42
+I1
+sVwater
+p43
+I1
+sVchange
+p44
+I1
+sVboy
+p45
+I15
+sV30
+p46
+I1
+sVjelly
+p47
+I1
+sVkeep
+p48
+I1
+sVnoahs
+p49
+I1
+sVrange
+p50
+I4
+sVplus
+p51
+I1
+sVdro
+p52
+I1
+sVpick
+p53
+I1
+sVmixed
+p54
+I1
+sVturf
+p55
+I4
+sVs65
+p56
+I1
+sVblock
+p57
+I1
+sVlove
+p58
+I2
+sVdont
+p59
+I3
+sVlandy
+p60
+I1
+sVjeans
+p61
+I1
+sVnumber
+p62
+I1
+sVsocks
+p63
+I1
+sVold
+p64
+I1
+sVhood
+p65
+I16
+sVher
+p66
+I4
+sViced
+p67
+I4
+sVstretch
+p68
+I1
+sVarms
+p69
+I1
+sVmark
+p70
+I1
+sVinsides
+p71
+I1
+sVlive
+p72
+I4
+sVdamn
+p73
+I1
+sVstuntin
+p74
+I4
+sVlot
+p75
+I1
+sVyowder
+p76
+I1
+sVtell
+p77
+I4
+sVbreitling
+p78
+I1
+sVon
+p79
+I1
+sVwet
+p80
+I1
+sVshorty
+p81
+I1
+sVphone
+p82
+I1
+sVpart
+p83
+I1
+sVbutt
+p84
+I1
+sVline
+p85
+I2
+sVtrying
+p86
+I1
+sVneck
+p87
+I1
+sVme
+p88
+I4
+sVpull
+p89
+I1
+sVe40
+p90
+I1
+sVanimals
+p91
+I1
+sV40
+p92
+I2
+sVcar
+p93
+I1
+sVride
+p94
+I1
+sVwork
+p95
+I4
+sVcracked
+p96
+I1
+sVcheeks
+p97
+I1
+sVbet
+p98
+I8
+sVpushin
+p99
+I4
+sVheart
+p100
+I1
+sVpound
+p101
+I1
+sVrap
+p102
+I1
+sVgive
+p103
+I1
+sVcoonin
+p104
+I1
+sVsay
+p105
+I1
+sVim
+p106
+I4
+sVwant
+p107
+I16
+sVseen
+p108
+I8
+sVshit
+p109
+I2
+sVsell
+p110
+I1
+sVpopes
+p111
+I1
+sVbottles
+p112
+I1
+sV44
+p113
+I1
+sVringtone
+p114
+I1
+sVzoo
+p115
+I1
+sVinch
+p116
+I1
+sVused
+p117
+I1
+sVlookin
+p118
+I2
+sVvvs
+p119
+I4
+sVfo
+p120
+I1
+sVremember
+p121
+I1
+sVwife
+p122
+I2
+sVxo
+p123
+I1
+sVmodel
+p124
+I1
+s.

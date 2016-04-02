@@ -1,101 +1,683 @@
-one lyrics
-kanye west lyrics
-one
-big sean
-feat 2 chainz  marsha ambrosius
-storm horizon
-im standing alone
-got pistol hip
-gonna shit
-want bring on
-see im motherfuckin soldier
-ima till done
-asking im shit
-tell im one
-one one one
-tell im one
-one one one
-tell im one
-im one baby
-yeah im one baby
-since god gave begotten son baby
-hard preachin gospel slums lately
-put church drums baby
-run baby
-run baby
-think free slave funds baby
-think aint done lately
-mhm thats cool runnin sun baby
-galaxy haters cannot visit
-thats reality get scott disick
-ever held title belt would know michael felt
-tyson jackson jordan  michael phelps
-yeah take another realm
-cause everything around got underwhelmed
-best way describe position helm
-best way describe new whip  yeeeaaaalmmp
-storm horizon
-im standing alone
-got pistol hip
-gonna shit
-want bring on
-see im motherfuckin soldier
-ima till done
-asking im shit
-tell im one
-one one one
-tell im one
-one one one
-tell im one
-told detroit ima fuckin get it
-told brother well fuckin winnin
-ye told im man job
-told mom call tell em quittin
-started chevrolet ferraris gotta drive
-im hbo entourage
-im 59 fuck 9 5
-need hundred million compromise
-im double xl nigga
-magazine condom size
-see seen traumatized
-dont wait marinate variate erryday
-erry state sold fuck around need barricade
-weed loud need hearing aid
-livin life behind pair shades
-billionaire could get dollar
-bullshit hear day
-it
-storm horizon
-im standing alone
-got pistol hip
-gonna shit
-want bring on
-see im motherfuckin soldier
-ima till done
-asking im shit
-tell im one
-one one one
-tell im one
-one one one
-tell im one
-treat back seat like sofa bed
-break bread niggas call profit share
-good shit get better
-yeah bitch cold nigga thin sweater
-like verse suede beat leather
-tryin stay sea level
-nigga went jail said free gucci
-done bought much shit get free gucci
-bought baby momma anaconda bags
-shouldnt bought all
-shouldve went cut grass
-snake ass niggas fuckin face
-bring girl nigga could fuck face
-yeah run place cash mill swag
-niggas treadmillin goin nowhere fast
-sittin courtside hawks game
-louies could trip fuckin ball player
-fuck yeah awesome yeah lost mind
-found weed really kind awesome
-possible goddamn right
-ive honest whole time
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVdollar
+p4
+I1
+sVbring
+p5
+I4
+sVscott
+p6
+I1
+sVhelm
+p7
+I1
+sVkanye
+p8
+I1
+sVcold
+p9
+I1
+sVreality
+p10
+I1
+sVfeat
+p11
+I1
+sVgalaxy
+p12
+I1
+sVaint
+p13
+I1
+sVswag
+p14
+I1
+sVcut
+p15
+I1
+sVtitle
+p16
+I1
+sVmuch
+p17
+I1
+sVbehind
+p18
+I1
+sVday
+p19
+I1
+sVbetter
+p20
+I1
+sVverse
+p21
+I1
+sVwhole
+p22
+I1
+sVcondom
+p23
+I1
+sVbread
+p24
+I1
+sVmotherfuckin
+p25
+I3
+sVhip
+p26
+I3
+sVgood
+p27
+I1
+sVaround
+p28
+I2
+sVphelps
+p29
+I1
+sVget
+p30
+I5
+sVbeat
+p31
+I1
+sVbig
+p32
+I1
+sVsittin
+p33
+I1
+sVye
+p34
+I1
+sVpossible
+p35
+I1
+sVvariate
+p36
+I1
+sVtraumatized
+p37
+I1
+sVgame
+p38
+I1
+sVknow
+p39
+I1
+sVmom
+p40
+I1
+sVnew
+p41
+I1
+sVnot
+p42
+I1
+sVson
+p43
+I1
+sVtreadmillin
+p44
+I1
+sVbullshit
+p45
+I1
+sVcool
+p46
+I1
+sVcourtside
+p47
+I1
+sVmhm
+p48
+I1
+sV59
+p49
+I1
+sVlike
+p50
+I2
+sVlost
+p51
+I1
+sVheld
+p52
+I1
+sVleather
+p53
+I1
+sVcause
+p54
+I1
+sVlevel
+p55
+I1
+sVmichael
+p56
+I2
+sVbrother
+p57
+I1
+sVdetroit
+p58
+I1
+sVwhip
+p59
+I1
+sVfound
+p60
+I1
+sVgospel
+p61
+I1
+sVbought
+p62
+I3
+sVem
+p63
+I1
+sVentourage
+p64
+I1
+sVnigga
+p65
+I4
+sVthin
+p66
+I1
+sVgoddamn
+p67
+I1
+sVmind
+p68
+I1
+sVhard
+p69
+I1
+sVyeah
+p70
+I6
+sVseat
+p71
+I1
+sVsee
+p72
+I4
+sVball
+p73
+I1
+sVsean
+p74
+I1
+sVsea
+p75
+I1
+sVanaconda
+p76
+I1
+sVgirl
+p77
+I1
+sVmill
+p78
+I1
+sVbest
+p79
+I2
+sVreally
+p80
+I1
+sVgon
+p81
+I3
+sVjackson
+p82
+I1
+sVmarinate
+p83
+I1
+sVprofit
+p84
+I1
+sVsun
+p85
+I1
+sVsince
+p86
+I1
+sVeverything
+p87
+I1
+sVstate
+p88
+I1
+sVasking
+p89
+I3
+sVmarsha
+p90
+I1
+sVchainz
+p91
+I1
+sVgot
+p92
+I5
+sVpistol
+p93
+I3
+sVever
+p94
+I1
+sVtold
+p95
+I4
+sVass
+p96
+I1
+sVima
+p97
+I4
+sVrun
+p98
+I3
+sVsold
+p99
+I1
+sVmillion
+p100
+I1
+sVfree
+p101
+I3
+sVambrosius
+p102
+I1
+sVjob
+p103
+I1
+sVmomma
+p104
+I1
+sVnowhere
+p105
+I1
+sVdrums
+p106
+I1
+sValone
+p107
+I3
+sVstay
+p108
+I1
+sVwent
+p109
+I2
+sVwait
+p110
+I1
+sVhearing
+p111
+I1
+sVon
+p112
+I3
+sVferraris
+p113
+I1
+sVgrass
+p114
+I1
+sVcould
+p115
+I3
+sVshades
+p116
+I1
+sVhonest
+p117
+I1
+sVsoldier
+p118
+I3
+sVmagazine
+p119
+I1
+sVplace
+p120
+I1
+sVsuede
+p121
+I1
+sVhorizon
+p122
+I3
+sVloud
+p123
+I1
+sVthink
+p124
+I2
+sVfuckin
+p125
+I4
+sVthats
+p126
+I2
+sVsize
+p127
+I1
+sVwinnin
+p128
+I1
+sVdont
+p129
+I1
+sVxl
+p130
+I1
+sVone
+p131
+I31
+sVput
+p132
+I1
+sVerry
+p133
+I1
+sVright
+p134
+I1
+sVdone
+p135
+I5
+sVbitch
+p136
+I1
+sVanother
+p137
+I1
+sVchurch
+p138
+I1
+sVhear
+p139
+I1
+sVbelt
+p140
+I1
+sVstanding
+p141
+I3
+sVwould
+p142
+I1
+sVwest
+p143
+I1
+sVsweater
+p144
+I1
+sVhawks
+p145
+I1
+sVvisit
+p146
+I1
+sVfast
+p147
+I1
+sV2
+I1
+sVcall
+p148
+I2
+sVtreat
+p149
+I1
+sVstorm
+p150
+I3
+sVtime
+p151
+I1
+sVbegotten
+p152
+I1
+sVcompromise
+p153
+I1
+sVhundred
+p154
+I1
+sVtell
+p155
+I10
+sVback
+p156
+I1
+sVlife
+p157
+I1
+sVway
+p158
+I2
+sVsofa
+p159
+I1
+sVstarted
+p160
+I1
+sVfunds
+p161
+I1
+sVfuck
+p162
+I4
+sVhbo
+p163
+I1
+sVslums
+p164
+I1
+sVjordan
+p165
+I1
+sVbaby
+p166
+I9
+sVyeeeaaaalmmp
+p167
+I1
+sVhaters
+p168
+I1
+sVrunnin
+p169
+I1
+sVkind
+p170
+I1
+sVtryin
+p171
+I1
+sVniggas
+p172
+I3
+sVdouble
+p173
+I1
+sVcash
+p174
+I1
+sVbed
+p175
+I1
+sVgucci
+p176
+I2
+sVbarricade
+p177
+I1
+sVcan
+p178
+I1
+sVaid
+p179
+I1
+sVgave
+p180
+I1
+sVive
+p181
+I1
+sVerryday
+p182
+I1
+sVawesome
+p183
+I2
+sVdescribe
+p184
+I2
+sVshare
+p185
+I1
+sVit
+p186
+I2
+sVplayer
+p187
+I1
+sVim
+p188
+I24
+sVwant
+p189
+I3
+sVseen
+p190
+I1
+sVneed
+p191
+I3
+sVdisick
+p192
+I1
+sVlouies
+p193
+I1
+sVtrip
+p194
+I1
+sVshit
+p195
+I8
+sVlivin
+p196
+I1
+sVpreachin
+p197
+I1
+sVchevrolet
+p198
+I1
+sVrealm
+p199
+I1
+sVna
+p200
+I3
+sVunderwhelmed
+p201
+I1
+sVlately
+p202
+I2
+sVtill
+p203
+I3
+sV5
+I1
+sVtake
+p204
+I1
+sVbillionaire
+p205
+I1
+sV9
+I1
+sVquittin
+p206
+I1
+sVshouldnt
+p207
+I1
+sVslave
+p208
+I1
+sVgoin
+p209
+I1
+sVbags
+p210
+I1
+sVshouldve
+p211
+I1
+sVfelt
+p212
+I1
+sVweed
+p213
+I2
+sVsaid
+p214
+I1
+sVpair
+p215
+I1
+sVtyson
+p216
+I1
+sVman
+p217
+I1
+sVbreak
+p218
+I1
+sVta
+p219
+I1
+sVwell
+p220
+I1
+sVdrive
+p221
+I1
+sVface
+p222
+I2
+sVjail
+p223
+I1
+sVgod
+p224
+I1
+sVposition
+p225
+I1
+sVsnake
+p226
+I1
+s.

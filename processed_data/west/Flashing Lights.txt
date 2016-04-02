@@ -1,55 +1,377 @@
-flashing lights lyrics
-kanye west lyrics
-flashing lights
-feat dwele
-flashing lights lights
-flashing lights lights
-flashing lights lights
-flashing lights lights
-dont believe shootin stars
-believe shoes  cars
-wood floors new apartment
-couture stores department
-like leau de stardee shit
-im trips florida
-order horderves views water
-straight page favorite author
-weather breezy
-man cant life always easy
-mirror dancing sleazy
-get call like yeezy
-try hit oeur de whopee
-till get flashed paparazzi
-damn niggas got me
-hate niggas nazis
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-know while
-sweetheart hardly talk thing
-know foul baybay
-abay lately brain
-somebody wouldve told month ago
-fronting though yo wouldnt wanna know
-somebody wouldve told year ago
-itd go get difficult
-feeling like katrina fema
-like martin gina
-like flight visa
-first class seat back still see ya
-past side glass
-memorys museum
-im saying hey mona lisa
-come home know cant rome without caesar
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-recall know love show off
-never thought would take far
-know flashing lights lights
-know flashing lights lights
-flashing lights lights
-flashing lights lights
-lights lights lights lights
+(dp1
+Vsaying
+p2
+I1
+sVstores
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I3
+sVya
+p7
+I1
+sVitd
+p8
+I1
+sVfoul
+p9
+I1
+sVmonth
+p10
+I1
+sVbrain
+p11
+I1
+sVgo
+p12
+I1
+sVkanye
+p13
+I1
+sVabay
+p14
+I1
+sVfeat
+p15
+I1
+sVapartment
+p16
+I1
+sVwood
+p17
+I1
+sVeasy
+p18
+I1
+sVstardee
+p19
+I1
+sVflashing
+p20
+I14
+sVsomebody
+p21
+I2
+sVyo
+p22
+I1
+sVget
+p23
+I3
+sVfar
+p24
+I3
+sVde
+p25
+I2
+sVknow
+p26
+I13
+sVnew
+p27
+I1
+sVlike
+p28
+I5
+sValways
+p29
+I1
+sVtry
+p30
+I1
+sVweather
+p31
+I1
+sVmartin
+p32
+I1
+sVlisa
+p33
+I1
+sVwouldve
+p34
+I2
+sVpage
+p35
+I1
+sVback
+p36
+I1
+sVseat
+p37
+I1
+sVpast
+p38
+I1
+sVcouture
+p39
+I1
+sVkatrina
+p40
+I1
+sVmirror
+p41
+I1
+sVhome
+p42
+I1
+sVstill
+p43
+I1
+sVhate
+p44
+I1
+sVlights
+p45
+I30
+sVleau
+p46
+I1
+sVgot
+p47
+I1
+sVnazis
+p48
+I1
+sVtold
+p49
+I2
+sVcars
+p50
+I1
+sVnever
+p51
+I3
+sVwater
+p52
+I1
+sVcome
+p53
+I1
+sVmemorys
+p54
+I1
+sVwouldnt
+p55
+I1
+sVmona
+p56
+I1
+sVfavorite
+p57
+I1
+sVside
+p58
+I1
+sVthing
+p59
+I1
+sVwhopee
+p60
+I1
+sVyeezy
+p61
+I1
+sVshootin
+p62
+I1
+sVfirst
+p63
+I1
+sVlove
+p64
+I3
+sVdont
+p65
+I1
+sVbaybay
+p66
+I1
+sVfloors
+p67
+I1
+sVfema
+p68
+I1
+sVwan
+p69
+I1
+sVwould
+p70
+I3
+sVwest
+p71
+I1
+sVmuseum
+p72
+I1
+sVhey
+p73
+I1
+sVhorderves
+p74
+I1
+sVdwele
+p75
+I1
+sVcall
+p76
+I1
+sVstars
+p77
+I1
+sVdamn
+p78
+I1
+sVhardly
+p79
+I1
+sVsweetheart
+p80
+I1
+sVflight
+p81
+I1
+sVglass
+p82
+I1
+sVbelieve
+p83
+I2
+sVme
+p84
+I1
+sVniggas
+p85
+I2
+sVrecall
+p86
+I3
+sVstraight
+p87
+I1
+sVsee
+p88
+I1
+sVflashed
+p89
+I1
+sVwhile
+p90
+I1
+sVsleazy
+p91
+I1
+sVfeeling
+p92
+I1
+sVtrips
+p93
+I1
+sVflorida
+p94
+I1
+sVyear
+p95
+I1
+sVpaparazzi
+p96
+I1
+sVcant
+p97
+I2
+sVfronting
+p98
+I1
+sVim
+p99
+I2
+sVhit
+p100
+I1
+sVcaesar
+p101
+I1
+sVshit
+p102
+I1
+sVauthor
+p103
+I1
+sVna
+p104
+I1
+sVviews
+p105
+I1
+sVlately
+p106
+I1
+sVtill
+p107
+I1
+sVwithout
+p108
+I1
+sVtake
+p109
+I3
+sVdepartment
+p110
+I1
+sVdifficult
+p111
+I1
+sVgina
+p112
+I1
+sVthough
+p113
+I1
+sVoeur
+p114
+I1
+sVvisa
+p115
+I1
+sVclass
+p116
+I1
+sVman
+p117
+I1
+sVago
+p118
+I2
+sVoff
+p119
+I3
+sVdancing
+p120
+I1
+sVlife
+p121
+I1
+sVbreezy
+p122
+I1
+sVthought
+p123
+I3
+sVrome
+p124
+I1
+sVorder
+p125
+I1
+sVtalk
+p126
+I1
+s.

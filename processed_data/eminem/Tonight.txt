@@ -1,84 +1,722 @@
-"tonight" lyrics
-eminem lyrics
-"tonight"
-tonight, tonight, tonight, tonight, tonight
-i'm getting mad love, i'm snuggling hugs
-druggling thugs, smuggling drugs, juggling jobs, guzzling jugs
-so here's a toast to federal checks
-hetero sex, unaffordable medical debts, huh
-we travel in packs and ravel in facts and gravel in cracks
-to find babbling max, gaffling tracks
-i grapple an axe for them baffling acts
-the mysterious stab in the backs who dabble in wax
-still in my yard when i sculpted the culprit
-the tall shit that will end up with his skull split
-then i buried the hatchet, i carried on my back
-butterfingers is here and it's necessary to scratch it
-baby all i wanna do is swallow one and two
-smoke a little bit and follow one of you
-back home when the party ends
-so tonight i'm dropping naughty hints
-to the finest women in the audience
-tonight, tonight, tonight, tonight, tonight (blends in with lyrics)
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
-ayo, biters are like tarantulas, vandealous
-living as scandalous as a television evangelist
-but i can handle this, i'm the rhyme biter crime fighter
-caped crusader, taking care of undeserving lime lighters
-i think a living never meant for me
-experimentally i found a way to spread interamentally
-when i stumbled upon this resolution
-by using a special fusion of chemical solution for this resolution
-you couldn't see me with binoculars
-i armed like an octopus
-step on stage and you get socked and pushed
-talking that junk like you went black, guarded your back
-come battle me and you get smacked as hard as you act
-when i rap i represent it and will never referee in it
-every minute so when i win it you never resent it
-i'm forever demented, come up with funk, i'll never be scented
-you got the point when i cleverly said it
-tonight, tonight, tonight, tonight, tonight (blends in with lyrics)
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
-eminem is heading skyward
-for those who thought that i would make you bored and treat you like a piece
-of plywood
-i've got miracle lyrical capability all in me
-with the agility to escape a killer bee colony
-so get your cameras and capture how miraculous
-i rap for all you draculas and showed you all how whack you was
-i meant it as a dis, cause you don't posses the pizzazz as this
-i'm hazardous enough already as it is
-without you adding fuel to the fire
-i'm cruel to the liar
-who fails to recognize my reign of hell, rule to the sire
-clinical studies show that i'm cynical
-there's no one who's identical to my fresh and authentic flow
-i'm sure the party people can agree
-that i'm enchanting, with the romantic
-freaking the vocals so frantically
-so throw your hands up in the atmosphere
-and let them know the only party that was phat was here, just be like
-tonight, tonight, tonight, tonight, tonight (blends in with lyrics)
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
-cause we came here to do this tonight
-we don't wanna fight, we don't want no one feeling uptight
-cause we came here to do this tonight
-till the morning light hope that everyone's feeling alright
+(dp1
+Vrepresent
+p2
+I1
+sVatmosphere
+p3
+I1
+sVliar
+p4
+I1
+sVlyrics
+p5
+I5
+sVpizzazz
+p6
+I1
+sVscratch
+p7
+I1
+sVfinest
+p8
+I1
+sVshowed
+p9
+I1
+sVbattle
+p10
+I1
+sVexperimentally
+p11
+I1
+sVfacts
+p12
+I1
+sVfollow
+p13
+I1
+sVstill
+p14
+I1
+sVgaffling
+p15
+I1
+sVfind
+p16
+I1
+sVtoast
+p17
+I1
+sVadding
+p18
+I1
+sVdebts
+p19
+I1
+sVwhack
+p20
+I1
+sVcrime
+p21
+I1
+sVspread
+p22
+I1
+sVblack
+p23
+I1
+sVminute
+p24
+I1
+sVcaped
+p25
+I1
+sVfuel
+p26
+I1
+sVgravel
+p27
+I1
+sVravel
+p28
+I1
+sVhope
+p29
+I6
+sVmeant
+p30
+I2
+sVguarded
+p31
+I1
+sVhandle
+p32
+I1
+sVget
+p33
+I3
+sVkiller
+p34
+I1
+sVrhyme
+p35
+I1
+sVresent
+p36
+I1
+sVlighters
+p37
+I1
+sVfusion
+p38
+I1
+sVevery
+p39
+I1
+sVknow
+p40
+I1
+sVhands
+p41
+I1
+sVstep
+p42
+I1
+sVtaking
+p43
+I1
+sVbit
+p44
+I1
+sVone
+p45
+I9
+sVblends
+p46
+I3
+sVfreaking
+p47
+I1
+sVnecessary
+p48
+I1
+sVlike
+p49
+I5
+sVinteramentally
+p50
+I1
+sVtarantulas
+p51
+I1
+sVsolution
+p52
+I1
+sVmiracle
+p53
+I1
+sVmorning
+p54
+I6
+sVcapability
+p55
+I1
+sVaudience
+p56
+I1
+sVmiraculous
+p57
+I1
+sVfound
+p58
+I1
+sVwent
+p59
+I1
+sVheading
+p60
+I1
+sVdis
+p61
+I1
+sVguzzling
+p62
+I1
+sVhell
+p63
+I1
+sVcynical
+p64
+I1
+sVpeople
+p65
+I1
+sVhard
+p66
+I1
+sVback
+p67
+I3
+sVsex
+p68
+I1
+sVhetero
+p69
+I1
+sVsee
+p70
+I1
+sVjuggling
+p71
+I1
+sVescape
+p72
+I1
+sVcleverly
+p73
+I1
+sVhome
+p74
+I1
+sVspecial
+p75
+I1
+sVliving
+p76
+I2
+sVfails
+p77
+I1
+sVeveryones
+p78
+I6
+sVculprit
+p79
+I1
+sVfederal
+p80
+I1
+sVcameras
+p81
+I1
+sVfrantically
+p82
+I1
+sVbiters
+p83
+I1
+sVenough
+p84
+I1
+sVplywood
+p85
+I1
+sVrap
+p86
+I2
+sVgot
+p87
+I2
+sVcause
+p88
+I13
+sVchecks
+p89
+I1
+sVjunk
+p90
+I1
+sVends
+p91
+I1
+sVjobs
+p92
+I1
+sVbored
+p93
+I1
+sVill
+p94
+I1
+sVnever
+p95
+I4
+sVayo
+p96
+I1
+sVeminem
+p97
+I2
+sVtracks
+p98
+I1
+sVlet
+p99
+I1
+sVcome
+p100
+I2
+sVlyrical
+p101
+I1
+sVcare
+p102
+I1
+sVpiece
+p103
+I1
+sVyard
+p104
+I1
+sVcarried
+p105
+I1
+sVgetting
+p106
+I1
+sVhatchet
+p107
+I1
+sVuptight
+p108
+I6
+sVagree
+p109
+I1
+sVsocked
+p110
+I1
+sVsmoke
+p111
+I1
+sVact
+p112
+I1
+sVswallow
+p113
+I1
+sVoctopus
+p114
+I1
+sVthink
+p115
+I1
+sVnaughty
+p116
+I1
+sVlove
+p117
+I1
+sVdont
+p118
+I13
+sVvandealous
+p119
+I1
+sVpoint
+p120
+I1
+sVwin
+p121
+I1
+sVcolony
+p122
+I1
+sVsnuggling
+p123
+I1
+sVbutterfingers
+p124
+I1
+sVbabbling
+p125
+I1
+sVcouldnt
+p126
+I1
+sVwhos
+p127
+I1
+sVarmed
+p128
+I1
+sVlime
+p129
+I1
+sVfire
+p130
+I1
+sVwan
+p131
+I7
+sVlittle
+p132
+I1
+sVjugs
+p133
+I1
+sVwould
+p134
+I1
+sVscented
+p135
+I1
+sVscandalous
+p136
+I1
+sVtwo
+p137
+I1
+sVfight
+p138
+I6
+sVdropping
+p139
+I1
+sVtreat
+p140
+I1
+sVway
+p141
+I1
+sVwax
+p142
+I1
+sVmysterious
+p143
+I1
+sVclinical
+p144
+I1
+sVstage
+p145
+I1
+sVwas
+p146
+I1
+sVskyward
+p147
+I1
+sVagility
+p148
+I1
+sVreferee
+p149
+I1
+sVpacks
+p150
+I1
+sVdrugs
+p151
+I1
+sVsmuggling
+p152
+I1
+sVhuh
+p153
+I1
+sVforever
+p154
+I1
+sVreign
+p155
+I1
+sVundeserving
+p156
+I1
+sVbaby
+p157
+I1
+sVthrow
+p158
+I1
+sVfunk
+p159
+I1
+sVwomen
+p160
+I1
+sVme
+p161
+I2
+sVtelevision
+p162
+I1
+sVcracks
+p163
+I1
+sVromantic
+p164
+I1
+sVskull
+p165
+I1
+sVtalking
+p166
+I1
+sVthis
+p167
+I1
+sVshow
+p168
+I1
+sVdemented
+p169
+I1
+sVbee
+p170
+I1
+sVcruel
+p171
+I1
+sVvocals
+p172
+I1
+sValready
+p173
+I1
+sVfeeling
+p174
+I12
+sVbiter
+p175
+I1
+sVtheres
+p176
+I1
+sVdruggling
+p177
+I1
+sVive
+p178
+I1
+sVsmacked
+p179
+I1
+sVcrusader
+p180
+I1
+sVunaffordable
+p181
+I1
+sVrecognize
+p182
+I1
+sVis
+p183
+I1
+sVit
+p184
+I4
+sVstudies
+p185
+I1
+sVtonight
+p186
+I35
+sVpushed
+p187
+I1
+sVim
+p188
+I10
+sVburied
+p189
+I1
+sVwant
+p190
+I6
+sVshit
+p191
+I1
+sVsire
+p192
+I1
+sVcapture
+p193
+I1
+sVthugs
+p194
+I1
+sVend
+p195
+I1
+sVna
+p196
+I7
+sVtravel
+p197
+I1
+sVacts
+p198
+I1
+sVbacks
+p199
+I1
+sVchemical
+p200
+I1
+sVtill
+p201
+I6
+sVgrapple
+p202
+I1
+sVsplit
+p203
+I1
+sVhugs
+p204
+I1
+sVparty
+p205
+I3
+sVhazardous
+p206
+I1
+sVdraculas
+p207
+I1
+sVevangelist
+p208
+I1
+sVsure
+p209
+I1
+sVmax
+p210
+I1
+sVupon
+p211
+I1
+sVstumbled
+p212
+I1
+sVbaffling
+p213
+I1
+sVbinoculars
+p214
+I1
+sVsaid
+p215
+I1
+sVstab
+p216
+I1
+sVmad
+p217
+I1
+sVfresh
+p218
+I1
+sVidentical
+p219
+I1
+sVauthentic
+p220
+I1
+sVenchanting
+p221
+I1
+sVdabble
+p222
+I1
+sVfighter
+p223
+I1
+sVusing
+p224
+I1
+sVlight
+p225
+I6
+sVmedical
+p226
+I1
+sVphat
+p227
+I1
+sVflow
+p228
+I1
+sVrule
+p229
+I1
+sVthought
+p230
+I1
+sVheres
+p231
+I1
+sVhints
+p232
+I1
+sVwithout
+p233
+I1
+sVsculpted
+p234
+I1
+sVaxe
+p235
+I1
+sValright
+p236
+I6
+sVtall
+p237
+I1
+sVresolution
+p238
+I2
+sVmake
+p239
+I1
+sVcame
+p240
+I12
+sVposses
+p241
+I1
+s.

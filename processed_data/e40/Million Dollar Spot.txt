@@ -1,94 +1,764 @@
-"million dollar spot" lyrics
-e-40 lyrics
-"million dollar spot"
-(feat. 2pac, b-legit)
-righteous people be knowin what i be doin is protect my peoples
-million dollar spot
-uhh, that's right, uhh, my million dollar spot
-my million dollar spot (beyatch) my million dollar spot
-my million dollar spot, on the block bring it hot (beyatch)
-on the spot, my million dollar spot, uhh
-major loot, seriously niggaz don't wanna dispute
-mysteriously a nigga die, when you play this game and ain't know the time
-i suck the life out your ass by pushin mute
-shit can get stanky like a poot (like a poot)
-i got dog poop crank yes i pollute
-leave the whole block fully unrecouped
-i'm like a record company, givin out advancements
-get my money back, by any circumstances
-my million dollar spot, not to mention
-drive through service, church's chicken
-a bu-a-bucket full of acid by the do'
-just in case i gotta throw away my yole
-bars around the house, bars around the window
-dope around the corner, broken down pinto
-you can tell who got the mail who got the biggest chops
-my million dollar spot... beyatch!
-i can take a chance, i could live in cans
-bring it on the block, my million dollar spot
-haha, my million dollar spot bigger
-i can take a chance, i could live in cans
-get my motherfuckin cash on
-you know how we do it out here in california, beatch!
-bring it on the block, my million dollar spot
-it was, more than just a dream for me
-to be the king it seems i need a killer team to get the green for me
-hit the scene clean in my chevy, now i'm ready for trouble
-count my rocks, set up shop, collect my fetti and bubble
-faded visions of me as a timer
-though marijuana clouds my vision i'm still watch for drama, ha-ha
-they got me crossed tryin to be the boss, no one can stop us
-niggaz dream of six figures, handle our business in choppers
-feds can't comprehend my ghetto slang, so i evade
-and plot and plan a life of better thangs, all about my chedder main
-help me if i fall, can i ball for life
-a half a key in my drawers, bein cautious like
-i wanna rise keep my eyes open
-witness motherfuckers die with they eyes open, my niggaz rise smokin
-any busta bitch tryin to stop my wish
-to have a million dollar spot gettin riches, nigga
-i can take a chance, i could live in cans
-in my million dollar spot
-bring it on the block, million dollar spot
-get your money nigga!  fuck the cops, in my million dollar spot
-i can take a chance, i could live in cans
-we got rocks, coke and hops, in my million dollar spot
-gimme all your motherfuckin money all money good money
-bring it on the block, million dollar spot
-hear me, get money nigga!
-nuttin but the motherfuckin hog in me
-hit the hillside trapped with thirty-six o-z's
-serve nothin but doves, no twat no love
-now nigga don't make me get these burner gloves
-i got the whole block jumpin like the mardi gras
-nothin but a dope fiend party y'all
-i'm lovin this game, it's my favorite sport
-come short get burnt with the newport
-i'm in the four-oh, and 'pac came to see me
-smobbin in a nine-six drop rose bentley, shit be
-caution for these niggaz on the ocean
-a sip of the potion now your nigga be in motion
-bossin hopin fede-ral thieves don't raid
-catch me with a glock and a box of grenades
-i'm tryin to get paid, all about my lucci
-now bitch put this motherfuckin key in your coochie
-motherfuckers hoe hard!
-ya understand that?  motherfuckers hoe hard!
-we got shit jumpin off on every spot
-we got crank methamphetamines
-dope for ass to get yo' cash, motherfucker
-we got big pimpin, ya understand
-we got solicitin, ya know
-we got all kind of shit, prostitution
-it don't stop
-motherfucker tryin to just get his cash on the motherfuckin
-million dollar spot, beyatch!
-i can take a chance, i could live in cans
-that's right, my million dollar spot
-bring it on the block, my million dollar spot
-uhh, for ya knot, my million dollar spot
-i can take a chance, i could live in cans
-my million dollar spot, my million dollar spot
-bring it on the block, my million dollar spot
-righteous people know what i be doin be protectin my peoples
-million dollar spot, my million dollar spot beyatch!
+(dp1
+Vshop
+p2
+I1
+sVmardi
+p3
+I1
+sVset
+p4
+I1
+sVhelp
+p5
+I1
+sVlyrics
+p6
+I2
+sVmute
+p7
+I1
+sVserve
+p8
+I1
+sVmoney
+p9
+I6
+sVhalf
+p10
+I1
+sVdollar
+p11
+I28
+sVhillside
+p12
+I1
+sVbring
+p13
+I7
+sVhog
+p14
+I1
+sVcorner
+p15
+I1
+sVyes
+p16
+I1
+sVbuabucket
+p17
+I1
+sVfeat
+p18
+I1
+sVaint
+p19
+I1
+sVgivin
+p20
+I1
+sVhops
+p21
+I1
+sVrose
+p22
+I1
+sVseems
+p23
+I1
+sVcomprehend
+p24
+I1
+sVbetter
+p25
+I1
+sVwindow
+p26
+I1
+sVblegit
+p27
+I1
+sVfiend
+p28
+I1
+sVmail
+p29
+I1
+sVrighteous
+p30
+I2
+sVta
+p31
+I1
+sVdo
+p32
+I1
+sVgood
+p33
+I1
+sVhit
+p34
+I2
+sVaround
+p35
+I3
+sVyo
+p36
+I1
+sVget
+p37
+I11
+sVya
+p38
+I4
+sVhopin
+p39
+I1
+sVdope
+p40
+I3
+sVkiller
+p41
+I1
+sVwatch
+p42
+I1
+sVkind
+p43
+I1
+sVuhh
+p44
+I4
+sVlovin
+p45
+I1
+sVmention
+p46
+I1
+sVgame
+p47
+I2
+sVevery
+p48
+I1
+sVknow
+p49
+I4
+sVknot
+p50
+I1
+sVfall
+p51
+I1
+sVsmobbin
+p52
+I1
+sVtrouble
+p53
+I1
+sVburnt
+p54
+I1
+sVbigger
+p55
+I1
+sVghetto
+p56
+I1
+sVclouds
+p57
+I1
+sVlike
+p58
+I5
+sVfully
+p59
+I1
+sVgettin
+p60
+I1
+sVevade
+p61
+I1
+sVrocks
+p62
+I2
+sVleave
+p63
+I1
+sVcollect
+p64
+I1
+sVgras
+p65
+I1
+sVgloves
+p66
+I1
+sVlucci
+p67
+I1
+sVdie
+p68
+I2
+sVdrop
+p69
+I1
+sVvision
+p70
+I1
+sVyole
+p71
+I1
+sVbars
+p72
+I2
+sVright
+p73
+I2
+sVnuttin
+p74
+I1
+sVbentley
+p75
+I1
+sVpeople
+p76
+I2
+sVpaid
+p77
+I1
+sVhouse
+p78
+I1
+sVhard
+p79
+I2
+sVpoop
+p80
+I1
+sVcash
+p81
+I3
+sVsee
+p82
+I1
+sVpotion
+p83
+I1
+sVus
+p84
+I1
+sVmethamphetamines
+p85
+I1
+sVbusta
+p86
+I1
+sVacid
+p87
+I1
+sVchicken
+p88
+I1
+sVwitness
+p89
+I1
+sVstill
+p90
+I1
+sVfederal
+p91
+I1
+sVmotherfuckin
+p92
+I5
+sVaway
+p93
+I1
+sVburner
+p94
+I1
+sVsport
+p95
+I1
+sVnewport
+p96
+I1
+sVseriously
+p97
+I1
+sVgot
+p98
+I12
+sVprotectin
+p99
+I1
+sVass
+p100
+I2
+sVbe
+p101
+I1
+sVstanky
+p102
+I1
+sVfull
+p103
+I1
+sVbusiness
+p104
+I1
+sVplot
+p105
+I1
+sVsolicitin
+p106
+I1
+sVteam
+p107
+I1
+sVmillion
+p108
+I28
+sVmotherfucker
+p109
+I2
+sVboss
+p110
+I1
+sVbroken
+p111
+I1
+sVcalifornia
+p112
+I1
+sVsmokin
+p113
+I1
+sVkey
+p114
+I2
+sVfouroh
+p115
+I1
+sVfuck
+p116
+I1
+sVfetti
+p117
+I1
+sVcome
+p118
+I1
+sVthrow
+p119
+I1
+sVbox
+p120
+I1
+sVon
+p121
+I1
+sVprotect
+p122
+I1
+sVcautious
+p123
+I1
+sVknowin
+p124
+I1
+sVmarijuana
+p125
+I1
+sVcould
+p126
+I6
+sVfavorite
+p127
+I1
+sVcount
+p128
+I1
+sVtimer
+p129
+I1
+sVkeep
+p130
+I1
+sVchevy
+p131
+I1
+sVdrawers
+p132
+I1
+sVfigures
+p133
+I1
+sVyall
+p134
+I1
+sVwhole
+p135
+I2
+sVmotherfuckers
+p136
+I3
+sVblock
+p137
+I9
+sVthats
+p138
+I2
+sVmajor
+p139
+I1
+sVlove
+p140
+I1
+sVdont
+p141
+I4
+sVchurchs
+p142
+I1
+sVchoppers
+p143
+I1
+sVscene
+p144
+I1
+sVone
+p145
+I1
+sVtwat
+p146
+I1
+sVput
+p147
+I1
+sVnigga
+p148
+I6
+sVbitch
+p149
+I2
+sVvisions
+p150
+I1
+sVwan
+p151
+I2
+sVservice
+p152
+I1
+sVhoe
+p153
+I2
+sVcoochie
+p154
+I1
+sVgrenades
+p155
+I1
+sVlive
+p156
+I6
+sVthieves
+p157
+I1
+sVbiggest
+p158
+I1
+sVgim
+p159
+I1
+sVtryin
+p160
+I4
+sVbubble
+p161
+I1
+sVtell
+p162
+I1
+sVmain
+p163
+I1
+sVlife
+p164
+I3
+sVglock
+p165
+I1
+sVpimpin
+p166
+I1
+sVozs
+p167
+I1
+sVtrapped
+p168
+I1
+sVcompany
+p169
+I1
+sVhaha
+p170
+I2
+sVback
+p171
+I1
+sVcops
+p172
+I1
+sVcrank
+p173
+I2
+sVcatch
+p174
+I1
+sVunrecouped
+p175
+I1
+sV2pac
+p176
+I1
+sVcircumstances
+p177
+I1
+sVcase
+p178
+I1
+sVking
+p179
+I1
+sVe40
+p180
+I1
+sVbeatch
+p181
+I1
+sVwish
+p182
+I1
+sVriches
+p183
+I1
+sVbeyatch
+p184
+I5
+sVniggaz
+p185
+I4
+sVrecord
+p186
+I1
+sVcrossed
+p187
+I1
+sVfaded
+p188
+I1
+sVcaution
+p189
+I1
+sVloot
+p190
+I1
+sVdispute
+p191
+I1
+sVmotion
+p192
+I1
+sVpushin
+p193
+I1
+sVunderstand
+p194
+I2
+sVthirtysix
+p195
+I1
+sVpollute
+p196
+I1
+sVadvancements
+p197
+I1
+sVprostitution
+p198
+I1
+sVdrive
+p199
+I1
+sVready
+p200
+I1
+sVcant
+p201
+I1
+sVrise
+p202
+I2
+sVim
+p203
+I6
+sVcans
+p204
+I6
+sVneed
+p205
+I1
+sVhandle
+p206
+I1
+sVmysteriously
+p207
+I1
+sVshit
+p208
+I4
+sVdrama
+p209
+I1
+sVpinto
+p210
+I1
+sVopen
+p211
+I2
+sVna
+p212
+I2
+sVchops
+p213
+I1
+sVsix
+p214
+I1
+sVcoke
+p215
+I1
+sVbossin
+p216
+I1
+sVhot
+p217
+I1
+sVpac
+p218
+I1
+sVtake
+p219
+I6
+sVpeoples
+p220
+I2
+sVparty
+p221
+I1
+sVbein
+p222
+I1
+sVninesix
+p223
+I1
+sVplay
+p224
+I1
+sVball
+p225
+I1
+sVraid
+p226
+I1
+sVpoot
+p227
+I2
+sVthough
+p228
+I1
+sVstop
+p229
+I3
+sVdoin
+p230
+I2
+sVspot
+p231
+I30
+sVme
+p232
+I5
+sVchance
+p233
+I6
+sVsip
+p234
+I1
+sVfeds
+p235
+I1
+sVplan
+p236
+I1
+sVjumpin
+p237
+I2
+sVsuck
+p238
+I1
+sVslang
+p239
+I1
+sVeyes
+p240
+I2
+sVshort
+p241
+I1
+sVbig
+p242
+I1
+sVdog
+p243
+I1
+sVnothin
+p244
+I2
+sVocean
+p245
+I1
+sVchedder
+p246
+I1
+sVthangs
+p247
+I1
+sVgreen
+p248
+I1
+sVcame
+p249
+I1
+sVclean
+p250
+I1
+sVtime
+p251
+I1
+sVhear
+p252
+I1
+sVdream
+p253
+I2
+sVmake
+p254
+I1
+sVdoves
+p255
+I1
+s.

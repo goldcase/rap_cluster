@@ -1,77 +1,494 @@
-"a dream" lyrics
-jay-z lyrics
-"a dream"
-(feat. faith evans, notorious b.i.g.)
-it was all a dream
-last night i had a dream
-thoughts was racing through my head (it was all a dream)
-felt so real to me
-this is what was said..
-had a dream i said, about who he said?
-about b.i.g. i said, that's big he said
-dig what he said, proceed he said
-indeed i said, so - breathe i did
-don't repeat what i say i said, he said nothing
-he agreed with his head, he just nodded like this
-what i believe to be a yes i repeated what was said
-it came to me like a well as even i said
-"what's the deal, playboy?" was the greeting he said
-first thing i wanted to know, what's the reason he was dead?
-"more money -- more problems, better believe it," he said
-"careful what you wish for you might receive it," he said
-i see i said, jealousy i said
-got the whole industry mad at me i said
-then b.i. said, "hov' remind yourself
-nobody built like you, you've designed yourself"
-i agree i said, my one of a kind self
-get stoned every day like jesus did
-what he said, i said, has been said before
-"just keep doing your thing," he said, say no more
-was it all a dream - tell me
-was it all a dream, was it a dream
-was it all a dream
-i gotta know ("it was all a dream")
-was it all a dream - was it a dream
-was it all a dream, a dream
-was it all a dream
-it was all a dream, i used to read word up magazine
-salt'n'pepa and heavy d up in the limousine
-hanging pictures on my wall
-every saturday, "rap attack," mr. magic, marley marl
-i let my tape rock 'til my tape popped
-smoking weed and bamboo, sipping on private stock
-way back, when i had the red and black lumberjack
-with the hat to match
-remember rappin' duke? "duh-ha, duh-ha"
-you never thought that hip-hop would take it this far
-now i'm in the limelight 'cause i rhyme tight
-time to get paid, blow up like the ("world trade")
-born sinner, the opposite of a winner
-remember when i used to eat sardines for dinner
-peace to ron g, brucey b, kid capri
-funkmaster flex, lovebug starsky
-i'm blowing up like you thought i would
-call the crib, same number same hood, it's all good
-uh, and if you don't know, now you know, nigga
-was it all a dream - tell me
-was it all a dream, was it a dream
-was it all a dream
-i gotta know ("it was all a dream")
-was it all a dream - was it a dream
-was it all a dream, a dream
-was it all a dream
-("it was all.. a dream")
-("it was all..")
-("it was all.. a dream")
-("it was all a dream")
-("it was all.. a dream")
-("it was all..")
-("it was all.. a dream")
-i see i said, jealousy i said
-got the whole industry mad at me i said
-then b.i. said, "hov' remind yourself
-nobody built like you, you've designed yourself"
-i agree i said, my one of a kind self
-get stoned every day like jesus did
-what he said, i said, has been said before
-"just keep doing your thing," he said, say no more
+(dp1
+Vcrib
+p2
+I1
+sVlyrics
+p3
+I2
+sVindeed
+p4
+I1
+sVagreed
+p5
+I1
+sVall
+p6
+I2
+sVtrade
+p7
+I1
+sVfunkmaster
+p8
+I1
+sVstoned
+p9
+I2
+sVyes
+p10
+I1
+sVfeat
+p11
+I1
+sVbefore
+p12
+I2
+sVlimelight
+p13
+I1
+sVtil
+p14
+I1
+sVbelieve
+p15
+I2
+sVron
+p16
+I1
+sVtight
+p17
+I1
+sVwinner
+p18
+I1
+sVbetter
+p19
+I1
+sVtape
+p20
+I2
+sVmoney
+p21
+I1
+sVmight
+p22
+I1
+sVmatch
+p23
+I1
+sVta
+p24
+I2
+sVreal
+p25
+I1
+sVflex
+p26
+I1
+sVgood
+p27
+I1
+sVget
+p28
+I3
+sVread
+p29
+I1
+sVbig
+p30
+I3
+sVrhyme
+p31
+I1
+sVsipping
+p32
+I1
+sVevery
+p33
+I3
+sVknow
+p34
+I5
+sVrappin
+p35
+I1
+sVone
+p36
+I2
+sVday
+p37
+I2
+sVd
+I1
+sVmagic
+p38
+I1
+sVlike
+p39
+I8
+sVdid
+p40
+I3
+sVcause
+p41
+I1
+sVdig
+p42
+I1
+sVgreeting
+p43
+I1
+sVremind
+p44
+I2
+sVnight
+p45
+I1
+sVnotorious
+p46
+I1
+sVbamboo
+p47
+I1
+sVheavy
+p48
+I1
+sVnigga
+p49
+I1
+sVdeal
+p50
+I1
+sVhanging
+p51
+I1
+sVback
+p52
+I1
+sVdead
+p53
+I1
+sVborn
+p54
+I1
+sVsee
+p55
+I2
+sVused
+p56
+I2
+sVmarley
+p57
+I1
+sVsaturday
+p58
+I1
+sVeven
+p59
+I1
+sVsaid
+p60
+I33
+sVpictures
+p61
+I1
+sVthats
+p62
+I1
+sVgot
+p63
+I4
+sVracing
+p64
+I1
+sVred
+p65
+I1
+sVblow
+p66
+I1
+sVnever
+p67
+I1
+sVrock
+p68
+I1
+sVbi
+p69
+I2
+sVreason
+p70
+I1
+sVlet
+p71
+I1
+sVsardines
+p72
+I1
+sVbrucey
+p73
+I1
+sVwanted
+p74
+I1
+sVfaith
+p75
+I1
+sVlast
+p76
+I1
+sVworld
+p77
+I1
+sVreceive
+p78
+I1
+sVindustry
+p79
+I2
+sVkeep
+p80
+I2
+sVthing
+p81
+I3
+sVmagazine
+p82
+I1
+sVyouve
+p83
+I2
+sVwhole
+p84
+I2
+sVmad
+p85
+I2
+sVduke
+p86
+I1
+sVwhats
+p87
+I2
+sVdont
+p88
+I2
+sVevans
+p89
+I1
+sVwall
+p90
+I1
+sVnumber
+p91
+I1
+sVprivate
+p92
+I1
+sVyourself
+p93
+I4
+sVjayz
+p94
+I1
+sVhood
+p95
+I1
+sVproceed
+p96
+I1
+sVwould
+p97
+I2
+sVmarl
+p98
+I1
+sVjealousy
+p99
+I2
+sVcapri
+p100
+I1
+sVattack
+p101
+I1
+sVcall
+p102
+I1
+sVway
+p103
+I1
+sVblack
+p104
+I1
+sVlimousine
+p105
+I1
+sVtell
+p106
+I2
+sVmore
+p107
+I2
+sVbreathe
+p108
+I1
+sVhead
+p109
+I2
+sVplayboy
+p110
+I1
+sVjesus
+p111
+I2
+sVnobody
+p112
+I2
+sVrepeated
+p113
+I1
+sVsmoking
+p114
+I1
+sVcareful
+p115
+I1
+sVnodded
+p116
+I1
+sVeat
+p117
+I1
+sVme
+p118
+I3
+sVkind
+p119
+I2
+sVb
+I1
+sVword
+p120
+I1
+sVg
+I1
+sVduhha
+p121
+I2
+sVthis
+p122
+I1
+sVwish
+p123
+I1
+sVlumberjack
+p124
+I1
+sVuh
+p125
+I1
+sVmr
+p126
+I1
+sVagree
+p127
+I2
+sVpopped
+p128
+I1
+sVsay
+p129
+I3
+sVim
+p130
+I2
+sVrap
+p131
+I1
+sVsaltnpepa
+p132
+I1
+sVbuilt
+p133
+I2
+sVself
+p134
+I2
+sVpeace
+p135
+I1
+sVdinner
+p136
+I1
+sVlovebug
+p137
+I1
+sVhov
+p138
+I2
+sVfar
+p139
+I1
+sVtake
+p140
+I1
+sVstock
+p141
+I1
+sVstarsky
+p142
+I1
+sVrepeat
+p143
+I1
+sVopposite
+p144
+I1
+sVfelt
+p145
+I1
+sVproblems
+p146
+I1
+sVpaid
+p147
+I1
+sVweed
+p148
+I1
+sVhiphop
+p149
+I1
+sVdesigned
+p150
+I2
+sVblowing
+p151
+I1
+sVnothing
+p152
+I1
+sVhat
+p153
+I1
+sVthoughts
+p154
+I1
+sVkid
+p155
+I1
+sVremember
+p156
+I2
+sVwell
+p157
+I1
+sVthought
+p158
+I2
+sVtime
+p159
+I1
+sVfirst
+p160
+I1
+sVdream
+p161
+I32
+sVcame
+p162
+I1
+sVsinner
+p163
+I1
+s.

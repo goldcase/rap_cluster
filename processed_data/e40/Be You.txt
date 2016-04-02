@@ -1,66 +1,522 @@
-"be you" lyrics
-e-40 lyrics
-"be you"
-(feat. too short & j banks)
-they was wrong when they said ain't nothin new under the sun,
-cause everything under the sun has not been done,
-what they shouldn't miss? don't miss your call,
-the biggest chance you can take is not taking the chance at all,
-like who you wanna like, love who you wanna love,
-kiss who you wanna kiss, hug who you wanna hug,
-latin, white, black, fat, tall, small,
-opposites attract whatever it's on y'all,
-i came in the game with a hope and a wish,
-with no bait on my hook tryna catch a fish,
-tryna have meals, 4 courses,
-got hella ideas but no resourses,
-don't let em knock your motivation keep tryin',
-your probably just ahead of your time,
-like me, they told me i'd never progress and be-come,
-what i am today them niggas dead wrong
-you gotta be original, just be you, just be you
-take a chance and show the world you, just be you
-we gonna hop in the ride and let the rims roll,
-gotta hundred pair of nikes no timbos,
-and no i never had no afro,
-but i still keep everything natural,
-so many people wanna look alike,
-and act the same, but what's the price,
-when you got no game, they won't let you play,
-your too stingy, you shouldn't act that way,
-cause your goin have to pay, if you don't speak your mind,
-you been a follower a long time,
-stop lying and just be yourself,
-ain't nothin wrong with that,
-you got racks, you must be on some crack,
-cause the last time i checked you was struggling,
-had a whole lotta bad luck drug dealing,
-now get back on track like you need to,
-stop following the crew and be you, nigga!
-do what they don't
-when it come to follow trends, you won't,
-you got your own mind and your own ideas,
-refuse to be like everybody else, (for realz)
-so original, (like who?), like me
-creative and unique, people love the way i speak
-they hatin on the son of the man up above
-anything different they afraid of
-we comin' through hard again
-we got chains and pieces, new car and rims
-it's e-40, short dogg and them
-alota hustlers, gangstas, all the pimps
-it sounds good when you turn it up loud
-do it your way and rock your style
-your hair your clothes even your smile
-they goin love you cause your so original
-stop being somebody else when you can be you mane,
-be you
-you mane
-be you
-when you can be you mane, be you
-stop being somebody else when you can be you mane,
-be you,
-you mane,
-be you,
-when you can be you mane,
-biatch!
+(dp1
+Vson
+p2
+I1
+sVall
+p3
+I1
+sVbait
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVhatin
+p7
+I1
+sVwhats
+p8
+I1
+sVstill
+p9
+I1
+sVfeat
+p10
+I1
+sVaint
+p11
+I2
+sVstyle
+p12
+I1
+sVcrew
+p13
+I1
+sVto
+p14
+I1
+sVblack
+p15
+I1
+sV4
+I1
+sVcrack
+p16
+I1
+sVsmile
+p17
+I1
+sVhope
+p18
+I1
+sVta
+p19
+I2
+sVpay
+p20
+I1
+sVthem
+p21
+I1
+sVgood
+p22
+I1
+sVsomebody
+p23
+I2
+sVget
+p24
+I1
+sVrock
+p25
+I1
+sVstop
+p26
+I4
+sVfat
+p27
+I1
+sVgame
+p28
+I2
+sVkiss
+p29
+I2
+sVnew
+p30
+I2
+sVworld
+p31
+I1
+sVunique
+p32
+I1
+sVstruggling
+p33
+I1
+sVwont
+p34
+I2
+sVknock
+p35
+I1
+sVlike
+p36
+I7
+sVchains
+p37
+I1
+sVresourses
+p38
+I1
+sVcourses
+p39
+I1
+sVbad
+p40
+I1
+sVman
+p41
+I1
+sVcar
+p42
+I1
+sVsmall
+p43
+I1
+sVbecome
+p44
+I1
+sVyall
+p45
+I1
+sVluck
+p46
+I1
+sVem
+p47
+I1
+sVnigga
+p48
+I1
+sVpeople
+p49
+I2
+sVdealing
+p50
+I1
+sVfish
+p51
+I1
+sVhard
+p52
+I1
+sVback
+p53
+I1
+sVdead
+p54
+I1
+sVhair
+p55
+I1
+sVtrends
+p56
+I1
+sVfollow
+p57
+I1
+sVeven
+p58
+I1
+sVsaid
+p59
+I1
+sVlotta
+p60
+I1
+sVsun
+p61
+I2
+sVtimbos
+p62
+I1
+sVcreative
+p63
+I1
+sVeverything
+p64
+I2
+sVabove
+p65
+I1
+sVprogress
+p66
+I1
+sVcause
+p67
+I4
+sVtold
+p68
+I1
+sVlatin
+p69
+I1
+sVrims
+p70
+I2
+sVgot
+p71
+I7
+sVnever
+p72
+I2
+sVlet
+p73
+I3
+sVcome
+p74
+I1
+sVlast
+p75
+I1
+sVahead
+p76
+I1
+sVmany
+p77
+I1
+sVtaking
+p78
+I1
+sVwrong
+p79
+I3
+sVdrug
+p80
+I1
+sVkeep
+p81
+I2
+sVhustlers
+p82
+I1
+sVturn
+p83
+I1
+sVmane
+p84
+I6
+sVact
+p85
+I2
+sVclothes
+p86
+I1
+sVwhole
+p87
+I1
+sVafro
+p88
+I1
+sVlove
+p89
+I4
+sVdont
+p90
+I4
+sVwhatever
+p91
+I1
+sVyourself
+p92
+I1
+sVhook
+p93
+I1
+sVfollower
+p94
+I1
+sVdone
+p95
+I1
+sVcomin
+p96
+I1
+sVsounds
+p97
+I1
+sVmiss
+p98
+I2
+sVstingy
+p99
+I1
+sVspeak
+p100
+I2
+sVeverybody
+p101
+I1
+sVwan
+p102
+I5
+sVchecked
+p103
+I1
+sVgoin
+p104
+I2
+sVdogg
+p105
+I1
+sVlong
+p106
+I1
+sVracks
+p107
+I1
+sValota
+p108
+I1
+sVcall
+p109
+I1
+sVway
+p110
+I3
+sVbiggest
+p111
+I1
+sVwhite
+p112
+I1
+sVhundred
+p113
+I1
+sVtoday
+p114
+I1
+sVtryna
+p115
+I2
+sVhug
+p116
+I2
+sVthat
+p117
+I1
+sVgangstas
+p118
+I1
+sVelse
+p119
+I3
+sVopposites
+p120
+I1
+sVcatch
+p121
+I1
+sVprobably
+p122
+I1
+sVbiatch
+p123
+I1
+sVmust
+p124
+I1
+sVme
+p125
+I1
+sVe40
+p126
+I2
+sVtryin
+p127
+I1
+sVlook
+p128
+I1
+sVniggas
+p129
+I1
+sVwish
+p130
+I1
+sVride
+p131
+I1
+sVj
+I1
+sVof
+p132
+I1
+sVfollowing
+p133
+I1
+sVmotivation
+p134
+I1
+sVmind
+p135
+I2
+sVpieces
+p136
+I1
+sValike
+p137
+I1
+sVneed
+p138
+I1
+sVattract
+p139
+I1
+sVid
+p140
+I1
+sVagain
+p141
+I1
+sVdifferent
+p142
+I1
+sVafraid
+p143
+I1
+sVna
+p144
+I6
+sVideas
+p145
+I2
+sVanything
+p146
+I1
+sVrealz
+p147
+I1
+sVtake
+p148
+I2
+sVhop
+p149
+I1
+sVyou
+p150
+I8
+sVroll
+p151
+I1
+sVplay
+p152
+I1
+sVshouldnt
+p153
+I2
+sVtrack
+p154
+I1
+sVprice
+p155
+I1
+sVpimps
+p156
+I1
+sVchance
+p157
+I3
+sVgon
+p158
+I1
+sVpair
+p159
+I1
+sVmeals
+p160
+I1
+sVnikes
+p161
+I1
+sVrefuse
+p162
+I1
+sVshort
+p163
+I2
+sVnatural
+p164
+I1
+sVloud
+p165
+I1
+sVnothin
+p166
+I2
+sVhella
+p167
+I1
+sVlying
+p168
+I1
+sVtime
+p169
+I3
+sVbanks
+p170
+I1
+sVtall
+p171
+I1
+sVoriginal
+p172
+I3
+sVcame
+p173
+I1
+s.

@@ -1,71 +1,551 @@
-"suicide watch" lyrics
-50 cent lyrics
-"suicide watch"
-hallo? oh, shit nigga! oh, shiit!
-fuck is going on?
-when i die fuck it, i wanna go to hell!
-i'm a piece of shit it ain't hard to fucking tell! (yeah!)
-crime after crime, from drugs to extortion
-i know my momma wish she got a fucking abortion! (yeah!)
-when i die fuck it, i wanna go to hell!
-i'm a piece of shit it ain't hard to fucking tell! (uh-huh!)
-crime after crime, from drugs to extortion!
-i know my momma wish she got a fucking abortion! (whooo, whooo, whoooooooooooo!)
-some niggas is broke! - tryna be on some dumb shit.
-me? i'm a grunt - comfortable in that conflict!
-go 'head nigga stunt! - it's cool 'til i get on it, (uh-huh!)
-you can keep the blunt but the chain nigga we want it! (take it!)
-to all the? jux? or whatever you wanna call it, (yeah!)
-call the police and get hit with a clip for it!
-ya know how i move! - that semi be on my waistline, (whooo!)
-ain't nobody ever gave me shit, nigga i take mine! (yeah!)
-i run in your crack house, mack out! screaming: "go 'head make me!" (uh-huh!)
-duck tape! you, the fiends and that snotty nose baby! (aahhhh!)
-calm down and cooperate! - 'fore i hit you with some shit that doc' operate
-for hours you coward! (whooooooo-whoooooooooooooooooo!)  {damn!}
-when i die fuck it, i wanna go to hell!
-i'm a piece of shit it ain't hard to fucking tell! (hahaa!)
-crime after crime, from drugs to extortion
-i know my momma wish she got a fucking abortion! (aaaaaaahhhhhhhh!)
-when i die fuck it, i wanna go to hell! {can't forget...}
-i'm a piece of shit it ain't hard to fucking tell! {light the barber!} (yeah!)
-crime after crime, from drugs to extortion! {southside!}
-i know my momma wish she got a fucking abortion!
-i try to keep it keep it cool, he hobby niggas make the rhyme (eh-heh!)
-i split ya fucking head, yeah that would stop ya ass from whining! (yeeah!)
-baby i'm delusional, distorted, no defying! (hahaaa!)
-you think you can play me? pussy go 'head nigga {god-...} try it! (aaaaahhhhhhhhhhhhh!) {damn!}
-i fell i broke my arm i felt pain wen i was six,
-they kill mommy, at it by 12 i was selling nicks!
-see me i'm a survivor; i tell nigga suck a dick! (yeah!)
-and niggas know i'm strapped; so they ain't saying shit! (shit!)
-me, i'm a party pooper;  i be fucking up for fun, (uh-huh!)
-these niggas wanna stunt  i wan' get at 'em with a gun! (yeah!)
-since a lil' nigga i been on the same shit,
-don't act like something new when niggas getting hit. - whattup big? {50 cent!}
-when i die fuck it, i wanna go to hell! (uh-huh)
-i'm a piece of shit it ain't hard to fucking tell! (whaat?)
-crime after crime, from drugs to extortion (yeah!) {can't forget...}
-i know my momma wish she got a fucking abortion! (rrrrrrrrrr!) {nelson!}
-when i die fuck it, i wanna go to hell!
-i'm a piece of shit it ain't hard to fucking tell! (hahaaahhh!) {g-unit!}
-crime after crime, from drugs to extortion!
-i know my momma wish she got a fucking abortion!
-i'm notoriousssss!
-biggie ain't around now you need me alright!
-i'm notoriousssss!
-you can chill with 'pac, nigga in your next life!
-i'm notoriousssss!
-it's 50 nigga!
-i'm back mashed
-whassup?
-man this shit getting ready to change man!
-telling you mayne!
-muthafuckin' gangstas can't do the skanky leg!
-what's next mayne?
-you gon be dropping it low like a stripper? !
-ahh, shit!
-i'm tryna fit in and i ca'nt fit in!
-damn!
-i'm back baby!
-aaahhh!    {"forever king"!}
+(dp1
+Vsaying
+p2
+I1
+sVwhattup
+p3
+I1
+sVforget
+p4
+I2
+sVlyrics
+p5
+I2
+sVmove
+p6
+I1
+sVgun
+p7
+I1
+sVtelling
+p8
+I1
+sVkill
+p9
+I1
+sVgo
+p10
+I9
+sVhell
+p11
+I6
+sVleg
+p12
+I1
+sVaint
+p13
+I9
+sVsuicide
+p14
+I2
+sVshiit
+p15
+I1
+sVchain
+p16
+I1
+sVfit
+p17
+I2
+sVnicks
+p18
+I1
+sVdick
+p19
+I1
+sVwen
+p20
+I1
+sVnew
+p21
+I1
+sVcrime
+p22
+I12
+sVgoing
+p23
+I1
+sVtape
+p24
+I1
+sVgon
+p25
+I1
+sVcrack
+p26
+I1
+sVhobby
+p27
+I1
+sVhahaa
+p28
+I1
+sVahh
+p29
+I1
+sVgave
+p30
+I1
+sVhit
+p31
+I3
+sVaround
+p32
+I1
+sVget
+p33
+I3
+sVya
+p34
+I3
+sVbig
+p35
+I1
+sVwatch
+p36
+I2
+sVwhassup
+p37
+I1
+sV12
+p38
+I1
+sVknow
+p39
+I8
+sVsouthside
+p40
+I1
+sVlife
+p41
+I1
+sVstunt
+p42
+I2
+sVehheh
+p43
+I1
+sVscreaming
+p44
+I1
+sVcool
+p45
+I2
+sVskanky
+p46
+I1
+sVlike
+p47
+I2
+sVsemi
+p48
+I1
+sVdie
+p49
+I6
+sV50
+p50
+I3
+sVtry
+p51
+I2
+sVnose
+p52
+I1
+sVem
+p53
+I1
+sVnigga
+p54
+I9
+sVwhooooooowhoooooooooooooooooo
+p55
+I1
+sVfucking
+p56
+I14
+sVhouse
+p57
+I1
+sVhard
+p58
+I6
+sVyeah
+p59
+I9
+sVsplit
+p60
+I1
+sVsee
+p61
+I1
+sVdumb
+p62
+I1
+sVrun
+p63
+I1
+sVarm
+p64
+I1
+sVwhining
+p65
+I1
+sVwhaat
+p66
+I1
+sVgod
+p67
+I1
+sVsince
+p68
+I1
+sVyeeah
+p69
+I1
+sVit
+p70
+I1
+sVgot
+p71
+I6
+sVever
+p72
+I1
+sVass
+p73
+I1
+sVaahhhh
+p74
+I1
+sVwan
+p75
+I9
+sVmayne
+p76
+I2
+sVhours
+p77
+I1
+sVgunit
+p78
+I1
+sVpolice
+p79
+I1
+sVaaaaahhhhhhhhhhhhh
+p80
+I1
+sVchange
+p81
+I1
+sVsurvivor
+p82
+I1
+sVoh
+p83
+I2
+sVkeep
+p84
+I3
+sVact
+p85
+I1
+sVthink
+p86
+I1
+sVwhats
+p87
+I1
+sVdont
+p88
+I1
+sVpussy
+p89
+I1
+sVmommy
+p90
+I1
+sVhahaaa
+p91
+I1
+sVwhatever
+p92
+I1
+sVwhooo
+p93
+I3
+sVstop
+p94
+I1
+sVmomma
+p95
+I6
+sVduck
+p96
+I1
+sVuhhuh
+p97
+I5
+sVdelusional
+p98
+I1
+sVhallo
+p99
+I1
+sVlight
+p100
+I1
+sVwould
+p101
+I1
+sVcent
+p102
+I2
+sVnext
+p103
+I2
+sVdropping
+p104
+I1
+sVcall
+p105
+I2
+sVcalm
+p106
+I1
+sVwaistline
+p107
+I1
+sVdamn
+p108
+I3
+sVtell
+p109
+I7
+sVlow
+p110
+I1
+sVback
+p111
+I2
+sVtryna
+p112
+I2
+sVhead
+p113
+I4
+sVselling
+p114
+I1
+sVdrugs
+p115
+I6
+sVnotoriousssss
+p116
+I3
+sVnobody
+p117
+I1
+sVfore
+p118
+I1
+sVmine
+p119
+I1
+sVaaahhh
+p120
+I1
+sVhahaaahhh
+p121
+I1
+sVbroke
+p122
+I2
+sVbaby
+p123
+I3
+sVjux
+p124
+I1
+sVgrunt
+p125
+I1
+sVchill
+p126
+I1
+sVking
+p127
+I1
+sVfiends
+p128
+I1
+sVbiggie
+p129
+I1
+sVniggas
+p130
+I5
+sVwish
+p131
+I6
+sVcoward
+p132
+I1
+sVgetting
+p133
+I2
+sVabortion
+p134
+I6
+sVwhoooooooooooo
+p135
+I1
+sVfun
+p136
+I1
+sVpiece
+p137
+I6
+sVready
+p138
+I1
+sVclip
+p139
+I1
+sVgangstas
+p140
+I1
+sVfuck
+p141
+I7
+sVcomfortable
+p142
+I1
+sVpooper
+p143
+I1
+sVcant
+p144
+I4
+sVim
+p145
+I17
+sVsomething
+p146
+I1
+sVwant
+p147
+I1
+sVdistorted
+p148
+I1
+sVneed
+p149
+I1
+sVshit
+p150
+I15
+sVstripper
+p151
+I1
+sVlil
+p152
+I1
+sVna
+p153
+I8
+sVmake
+p154
+I2
+sVsix
+p155
+I1
+sVstrapped
+p156
+I1
+sVtil
+p157
+I1
+sVmuthafuckin
+p158
+I1
+sVpac
+p159
+I1
+sVtake
+p160
+I2
+sVparty
+p161
+I1
+sVblunt
+p162
+I1
+sVconflict
+p163
+I1
+sVplay
+p164
+I1
+sVpain
+p165
+I1
+sVrhyme
+p166
+I1
+sVfelt
+p167
+I1
+sVmashed
+p168
+I1
+sVfell
+p169
+I1
+sVbarber
+p170
+I1
+sVsuck
+p171
+I1
+sVcooperate
+p172
+I1
+sVmack
+p173
+I1
+sVextortion
+p174
+I6
+sVman
+p175
+I2
+sVsnotty
+p176
+I1
+sVforever
+p177
+I1
+sVdoc
+p178
+I1
+sVaaaaaaahhhhhhhh
+p179
+I1
+sVnelson
+p180
+I1
+sValright
+p181
+I1
+sVoperate
+p182
+I1
+sVrrrrrrrrrr
+p183
+I1
+sVdefying
+p184
+I1
+s.

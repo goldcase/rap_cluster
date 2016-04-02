@@ -1,67 +1,602 @@
-"i love my momma" lyrics
-e-40 lyrics
-"i love my momma"
-(feat. r.o.d. & mic conn)
-my mama man, she does errythang
-she's a superhero
-nobody like you, there's nobody else
-that i place above you
-that's why i dedicate this song to you
-i love you mama!
-3 boys, 1 girl, no chumps
-i was the oldest, she carried me for 9 months
-made her way out of no way with little money
-but somehow we always had clothes for easter sunday
-you always gave us our freedom, you never sheltered us
-that's why we ? to this day, ain't no pumkin us
-worked 3 jobs all through the weekdays
-but still managed to make it out to my baseball games
-we didn't have much, but we was grateful
-had a roof over our head and food on the table
-and to make ends meet and pay some bills
-we'd swallow our pride and have an old-school rummage sale
-if i talked back and got loud
-you'd say "boy i brought you into this world
-and i'll take your ass out!"
-it's a trip how history repeats itself, for real
-and the things you said to me now, i say that to my children
-nobody like you, there's nobody else
-that i place above you
-that's why i dedicate this song to you
-i love you mama!
-gotta love your mama, even if she crazy or away
-you could be gone tomorrow, but you're here today
-every night before i go to bed i pray
-and ask the lord to put the blood of jesus
-around my familay. the less-fortunate, the underprivileged
-urban life, inner-city, single parent living
-every thanksgiving, you'd make our favorite dish: chips
-macaroni and cheese, mustard greens, turkey and dressing
-and as far as sweets, can't nobody touch you
-when you'd make your famous banana nut bread and 7-up cake
-i'm so happy mama, you learned how to text
-and smack me up the side when i don't visit
-cache creek casino, mother's day i put you on the bus
-to go play bingo. talk about my mama, man?
-probably shouldn't do that!
-my mama would give you the shirt off her back
-nobody like you, there's nobody else
-that i place above you
-that's why i dedicate this song to you
-i love you mama!
-my mama hip! my mama ain't no sap
-my mama listen to al green and she listen to rap
-when i was busy with my own hood drama
-she would jump in and tell them go get they mama
-true story. real talk. you know your mama gon' have your back
-even if you ?
-i'm just talking about the past
-if i didn't fight back, my mama would beat my ass!
-so i'd rather see you than her
-tears on my face, putting ? on your bro
-bar none, taught me to be hard
-my god-sisteer donna and her brother bernard
-it's different from now, but back then
-we'd fight our best friends, next day they'd be back friends
-it's a trip how history repeats itself, for real
-and the things you said to me now, i say that to my children
+(dp1
+Vmanaged
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVrod
+p5
+I1
+sVnone
+p6
+I1
+sVgrateful
+p7
+I1
+sVerrythang
+p8
+I1
+sVgo
+p9
+I3
+sVoldschool
+p10
+I1
+sVoldest
+p11
+I1
+sVfeat
+p12
+I1
+sVchildren
+p13
+I2
+sVaint
+p14
+I2
+sVbusy
+p15
+I1
+sVlisten
+p16
+I2
+sVwed
+p17
+I2
+sVpray
+p18
+I1
+sVcache
+p19
+I1
+sVbernard
+p20
+I1
+sVtears
+p21
+I1
+sVgon
+p22
+I1
+sVdressing
+p23
+I1
+sVlord
+p24
+I1
+sVpride
+p25
+I1
+sVeaster
+p26
+I1
+sVgave
+p27
+I1
+sVreal
+p28
+I3
+sVaround
+p29
+I1
+sVtouch
+p30
+I1
+sVsong
+p31
+I3
+sVfood
+p32
+I1
+sVpumkin
+p33
+I1
+sVsweets
+p34
+I1
+sVsmack
+p35
+I1
+sVevery
+p36
+I2
+sVknow
+p37
+I1
+sVprobably
+p38
+I1
+sVworld
+p39
+I1
+sVchips
+p40
+I1
+sVday
+p41
+I3
+sVbread
+p42
+I1
+sVbro
+p43
+I1
+sVbar
+p44
+I1
+sVlike
+p45
+I3
+sVgreens
+p46
+I1
+sVmothers
+p47
+I1
+sValways
+p48
+I2
+sVbrother
+p49
+I1
+sVdonna
+p50
+I1
+sVnight
+p51
+I1
+sVbills
+p52
+I1
+sVside
+p53
+I1
+sVclothes
+p54
+I1
+sVtalked
+p55
+I1
+sVcreek
+p56
+I1
+sVnut
+p57
+I1
+sVhard
+p58
+I1
+sVsomehow
+p59
+I1
+sVjump
+p60
+I1
+sVdish
+p61
+I1
+sVsee
+p62
+I1
+sVtaught
+p63
+I1
+sVshes
+p64
+I1
+sVgirl
+p65
+I1
+sVinnercity
+p66
+I1
+sVbest
+p67
+I1
+sVeven
+p68
+I2
+sVliving
+p69
+I1
+sVchumps
+p70
+I1
+sVstill
+p71
+I1
+sVsuperhero
+p72
+I1
+sVaway
+p73
+I1
+sV3
+I2
+sVgot
+p74
+I2
+sVlearned
+p75
+I1
+sVass
+p76
+I2
+sVbingo
+p77
+I1
+sVends
+p78
+I1
+sV7up
+p79
+I1
+sVjobs
+p80
+I1
+sVbed
+p81
+I1
+sVparent
+p82
+I1
+sVnever
+p83
+I1
+sVstory
+p84
+I1
+sVgodsisteer
+p85
+I1
+sVbaseball
+p86
+I1
+sVask
+p87
+I1
+sVboy
+p88
+I1
+sVcarried
+p89
+I1
+sVfreedom
+p90
+I1
+sVill
+p91
+I1
+sVmonths
+p92
+I1
+sVfavorite
+p93
+I1
+sVdedicate
+p94
+I3
+sVdrama
+p95
+I1
+sVgames
+p96
+I1
+sVroof
+p97
+I1
+sVswallow
+p98
+I1
+sVtheres
+p99
+I3
+sVloud
+p100
+I1
+sVthats
+p101
+I4
+sVcheese
+p102
+I1
+sVlove
+p103
+I6
+sVdont
+p104
+I1
+sVal
+p105
+I1
+sVyoud
+p106
+I3
+sVjesus
+p107
+I1
+sVbrought
+p108
+I1
+sVput
+p109
+I2
+sVmomma
+p110
+I2
+sVtheyd
+p111
+I1
+sVtable
+p112
+I1
+sVnext
+p113
+I1
+sVtomorrow
+p114
+I1
+sVhood
+p115
+I1
+sVturkey
+p116
+I1
+sVlittle
+p117
+I1
+sVwould
+p118
+I3
+sVhip
+p119
+I1
+sVgive
+p120
+I1
+sVvisit
+p121
+I1
+sVweekdays
+p122
+I1
+sVfight
+p123
+I2
+sVmuch
+p124
+I1
+sVway
+p125
+I2
+sVmama
+p126
+I14
+sVbanana
+p127
+I1
+sVtoday
+p128
+I1
+sVhappy
+p129
+I1
+sVrummage
+p130
+I1
+sVhead
+p131
+I1
+sVfamilay
+p132
+I1
+sVbus
+p133
+I1
+sVnobody
+p134
+I7
+sVcant
+p135
+I1
+sVback
+p136
+I6
+sVboys
+p137
+I1
+sVbeat
+p138
+I1
+sVworked
+p139
+I1
+sVtrue
+p140
+I1
+sVpast
+p141
+I1
+sVe40
+p142
+I1
+sVmade
+p143
+I1
+sVsingle
+p144
+I1
+sVus
+p145
+I3
+sVtell
+p146
+I1
+sVcake
+p147
+I1
+sVmeet
+p148
+I1
+sVta
+p149
+I1
+sVdidnt
+p150
+I2
+sVcould
+p151
+I1
+sVhistory
+p152
+I2
+sVgone
+p153
+I1
+sVcrazy
+p154
+I1
+sVcasino
+p155
+I1
+sVlessfortunate
+p156
+I1
+sVurban
+p157
+I1
+sVunderprivileged
+p158
+I1
+sVthanksgiving
+p159
+I1
+sVtalking
+p160
+I1
+sVsay
+p161
+I3
+sVim
+p162
+I2
+sVrap
+p163
+I1
+sVtake
+p164
+I1
+sVsap
+p165
+I1
+sVtrip
+p166
+I2
+sVconn
+p167
+I1
+sVdifferent
+p168
+I1
+sVshirt
+p169
+I1
+sVrather
+p170
+I1
+sVpay
+p171
+I1
+sVmake
+p172
+I4
+sVget
+p173
+I1
+sVgreen
+p174
+I1
+sVid
+p175
+I1
+sV1
+I1
+sVfar
+p176
+I1
+sVsunday
+p177
+I1
+sVmacaroni
+p178
+I1
+sVsheltered
+p179
+I1
+sV9
+I1
+sVplace
+p180
+I3
+sVplay
+p181
+I1
+sVshouldnt
+p182
+I1
+sVmustard
+p183
+I1
+sVsaid
+p184
+I2
+sVblood
+p185
+I1
+sVelse
+p186
+I3
+sVfriends
+p187
+I2
+sVman
+p188
+I2
+sVrepeats
+p189
+I2
+sVfamous
+p190
+I1
+sVyoure
+p191
+I1
+sVlife
+p192
+I1
+sVsale
+p193
+I1
+sVface
+p194
+I1
+sVtext
+p195
+I1
+sVthings
+p196
+I2
+sVputting
+p197
+I1
+sVmic
+p198
+I1
+sVtalk
+p199
+I2
+s.

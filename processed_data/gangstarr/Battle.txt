@@ -1,58 +1,520 @@
-"battle" lyrics
-gang starr lyrics
-"battle"
-"what?  you wanna battle me?"
-"yo man, how much money you got?"
-"what?  you wanna battle me?"
-"yo man, how much money you got?"
-i used to guzzle 40's, and own a beat up caddy
-since the hood still love me, i'll turn the heat up daddy
-i went from mackin fly honies on the train
-to straight relaxin on the beach, countin money gettin brain
-soon as you rappers get a chance you wanna floss a lot
-you buy a iced out watch because it cost a lot
-then you in the club, stylin with dough
-profilin with hoes that we boned, a while ago
-you rookies haven't done enough laps around the track
-you had one hot single, but then your album sounds wack
-son you bore me with your war stories
-you ain't even do that shit, so that's just more stories
-how you expect us to take you seriously?
-the look in my eye punk, has got you scared of me
-i'm blastin your sons, i'm snatchin your funds
-you catch a royal ass-whoopin, you've been askin for one
-"i'm bout to slap rappers around and bruise the game"
-"what.. what?"  "we thorough to the end"
-"yo man.." "you know the drill"
-"i'm bout to slap rappers around and bruise the game"
-"what.. what?"  "you wanna battle me?"
-"yo man.." "how much money you got?"
-bitch you don't even know, the half about me
-i bring it straight to your chest, ask your staff about me
-i'm just a little bit older, plus a whole lot wiser
-i might advise ya, or i might pulverize ya
-i can visit any city, get respect in the street
-while you alone in your room, shook to death of the streets
-i'll take a second to speak, i keep my weapon in reach
-i ain't talkin romance but you'll get swept off your feet
-i keeps a ghetto chick, that loves to blast and she peddle shit
-groupies fake moves, i get her to settle shit
-you can't compare to the status right here
-legendary worldwide, we can battle right here
-listen junior, i'ma tear back your wig
-this ain't tv but i'll show you what a "fear factor" is
-stop grillin me, and all that frontin is killin me
-you leave me no choice but to hurt your feelings g
-"i'm bout to slap rappers around and bruise the game"
-"what.. what?"  "you wanna battle me?"
-"yo man.." "how much money you got?"
-"what.. what?"  "we thorough to the end"
-"yo man.." "you know the drill"
-"i'm bout to slap rappers around and bruise the game"
-"i'm bout to slap rappers around and bruise the game"
-"we thorough to the end"
-"i'm bout to slap rappers around"
-"you know the drill"
-"we thorough to the end"
-"i'm bout to slap rappers around and bruise the game"
-"you know the drill"
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmoney
+p4
+I5
+sVwiser
+p5
+I1
+sVbruise
+p6
+I6
+sVsoon
+p7
+I1
+sVbrain
+p8
+I1
+sVdough
+p9
+I1
+sVgang
+p10
+I1
+sVbattle
+p11
+I7
+sVpeddle
+p12
+I1
+sVstill
+p13
+I1
+sVstaff
+p14
+I1
+sVaint
+p15
+I3
+sVromance
+p16
+I1
+sVdeath
+p17
+I1
+sVrelaxin
+p18
+I1
+sVtv
+p19
+I1
+sVroyal
+p20
+I1
+sVenough
+p21
+I1
+sVfactor
+p22
+I1
+sVbout
+p23
+I7
+sVghetto
+p24
+I1
+sVmight
+p25
+I2
+sVcity
+p26
+I1
+sVme
+p27
+I8
+sVaround
+p28
+I8
+sVyo
+p29
+I6
+sVprofilin
+p30
+I1
+sVbeat
+p31
+I1
+sVwatch
+p32
+I1
+sVchoice
+p33
+I1
+sVgame
+p34
+I6
+sVsons
+p35
+I1
+sVknow
+p36
+I5
+sVlegendary
+p37
+I1
+sVhalf
+p38
+I1
+sVbit
+p39
+I1
+sVone
+p40
+I2
+sVroom
+p41
+I1
+sVgrillin
+p42
+I1
+sVbring
+p43
+I1
+sVtear
+p44
+I1
+sVgettin
+p45
+I1
+sVchest
+p46
+I1
+sVleave
+p47
+I1
+sVsettle
+p48
+I1
+sV40s
+p49
+I1
+sVchick
+p50
+I1
+sVhavent
+p51
+I1
+sVworldwide
+p52
+I1
+sVright
+p53
+I2
+sVswept
+p54
+I1
+sVscared
+p55
+I1
+sVstreets
+p56
+I1
+sVback
+p57
+I1
+sVsecond
+p58
+I1
+sVcost
+p59
+I1
+sVexpect
+p60
+I1
+sVhoes
+p61
+I1
+sVbore
+p62
+I1
+sVfear
+p63
+I1
+sValbum
+p64
+I1
+sVsince
+p65
+I1
+sVseriously
+p66
+I1
+sVgot
+p67
+I5
+sVyoull
+p68
+I1
+sVima
+p69
+I1
+sVloves
+p70
+I1
+sVpulverize
+p71
+I1
+sVlittle
+p72
+I1
+sVhere
+p73
+I2
+sVfeelings
+p74
+I1
+sVfloss
+p75
+I1
+sVask
+p76
+I1
+sVwent
+p77
+I1
+sVg
+I1
+sVill
+p78
+I3
+sViced
+p79
+I1
+sVpunk
+p80
+I1
+sVkeep
+p81
+I1
+sVturn
+p82
+I1
+sVplus
+p83
+I1
+sVyouve
+p84
+I1
+sVcountin
+p85
+I1
+sVwhole
+p86
+I1
+sVthats
+p87
+I1
+sVwig
+p88
+I1
+sVlove
+p89
+I1
+sVdont
+p90
+I1
+sVson
+p91
+I1
+sVfeet
+p92
+I1
+sValone
+p93
+I1
+sVguzzle
+p94
+I1
+sVdone
+p95
+I1
+sVbitch
+p96
+I1
+sVfake
+p97
+I1
+sVrespect
+p98
+I1
+sVsounds
+p99
+I1
+sVhood
+p100
+I1
+sVspeak
+p101
+I1
+sVwan
+p102
+I5
+sVwack
+p103
+I1
+sVkillin
+p104
+I1
+sVeye
+p105
+I1
+sVrookies
+p106
+I1
+sVstylin
+p107
+I1
+sVlaps
+p108
+I1
+sVvisit
+p109
+I1
+sVmuch
+p110
+I4
+sVlot
+p111
+I3
+sVstarr
+p112
+I1
+sVwar
+p113
+I1
+sVlisten
+p114
+I1
+sVbuy
+p115
+I1
+sVclub
+p116
+I1
+sVfunds
+p117
+I1
+sVcaddy
+p118
+I1
+sVaskin
+p119
+I1
+sVhurt
+p120
+I1
+sVheat
+p121
+I1
+sVtrain
+p122
+I1
+sVcatch
+p123
+I1
+sVjunior
+p124
+I1
+sVfly
+p125
+I1
+sVhonies
+p126
+I1
+sVlook
+p127
+I1
+sVgroupies
+p128
+I1
+sVstraight
+p129
+I2
+sVcant
+p130
+I1
+sVus
+p131
+I1
+sVstreet
+p132
+I1
+sVstories
+p133
+I2
+sVdrill
+p134
+I4
+sVdaddy
+p135
+I1
+sVshook
+p136
+I1
+sVcompare
+p137
+I1
+sVis
+p138
+I1
+sVmackin
+p139
+I1
+sVslap
+p140
+I7
+sVboned
+p141
+I1
+sVsingle
+p142
+I1
+sVasswhoopin
+p143
+I1
+sVim
+p144
+I10
+sVmoves
+p145
+I1
+sVshit
+p146
+I3
+sVend
+p147
+I4
+sVna
+p148
+I5
+sVget
+p149
+I4
+sVthorough
+p150
+I4
+sVsnatchin
+p151
+I1
+sVya
+p152
+I2
+sVhot
+p153
+I1
+sVtake
+p154
+I2
+sVadvise
+p155
+I1
+sVbeach
+p156
+I1
+sVtalkin
+p157
+I1
+sVstatus
+p158
+I1
+sVeven
+p159
+I2
+sVused
+p160
+I1
+sVtrack
+p161
+I1
+sVstop
+p162
+I1
+sVrappers
+p163
+I8
+sVreach
+p164
+I1
+sVchance
+p165
+I1
+sVman
+p166
+I6
+sVago
+p167
+I1
+sVolder
+p168
+I1
+sVweapon
+p169
+I1
+sVblastin
+p170
+I1
+sVblast
+p171
+I1
+sVfrontin
+p172
+I1
+sVkeeps
+p173
+I1
+s.

@@ -1,66 +1,460 @@
-"young black male" lyrics
-2pac lyrics
-"young black male"
-("hard like an erection..." -- ed o.g.)  young black male!
-("hard like an erection...")
-("...ain't shit to fool with" -- ice cube)
-("hard like an erection...")  young black male!
-("...ain't shit to fool with")
-young black male!
-yes niggaz... yes niggaz... yes niggaz
-young black male!
-("hard like an erection...")  young black male!
-("hard like an erection...") ("...ain't shit to fool with")
-("hard like an erection...")  young black male!
-("hard like an erection...") ("...ain't shit to fool with")
-go nigga, go!!
-young black male
-i try to effect by kicking the facts
-and stacking much mail
-i'm packing a gat cuz guys wanna jack
-and fuck goin to jail
-cuz i ain't equipped to stop how i look
-i don't sell ya-yo
-they teachin a brother like i was in books
-follow me into a flow
-i'm sure you know, which way to go
-i'm hittin em out of the dopes
-so slip on the slope, let's skip on the flow
-i'm fuckin the sluts and hoes
-the bigger the butts the tighter the clothes
-the gimminy jimminy grows
-then whaddya know, it's off with some clothes
-rowd when the crowd says hoe
-that let's me know, they know i can flow
-love when they come to my shows
-i get up and go, with skins before
-when i'm collecting my dough
-i never respect, the one that i back
-the quicker the nigga can rap
-the bigger the check, now watch how they sweat
-what kind of style is that?
-the style of a mack, and ready to jack
-i rendered up piles of black
-the wacker the pack, the fatter the smack
-i hate it when real nigga bust
-they hate when i cuss, they threaten to bust
-i had enough of the fuss
-i bust what i bust, and cuss when i must
-they gave me a charge for sales
-for selling the tales... of young black males
-yes nigga, n-i-g-g-a niggaz
-ay nigga you can't handle that shit!
-pass that man!
-hit that shit, that's the shit!
-it smell like skunk, skunk smell like that nigga momma
-we ain't nuttin but some low down dirty niggaz
-keep it real nigga, fuck you nigga!
-you ain't givin me near a dime on this real motherfucker
-fuck st. ide's it's an old e thing baby
-strictly some of that hennesee
-can i drink with you fellas?  can i get it on it?
-fuck you capo.  you ain't in baby.
-i tell you what!  you guys are not gonna be talking
-all that shit, when i come back, ok?
-we gonna say who the big mouth, when i come back
-young black male!
+(dp1
+Vslope
+p2
+I1
+sVlyrics
+p3
+I2
+sVskip
+p4
+I1
+sVdough
+p5
+I1
+sVfacts
+p6
+I1
+sVfollow
+p7
+I1
+sVyes
+p8
+I4
+sVdopes
+p9
+I1
+sVbefore
+p10
+I1
+sVaint
+p11
+I8
+sVstyle
+p12
+I2
+sVgivin
+p13
+I1
+sVcuz
+p14
+I2
+sVbust
+p15
+I4
+sVlets
+p16
+I2
+sVblack
+p17
+I12
+sV2pac
+p18
+I1
+sVequipped
+p19
+I1
+sVmail
+p20
+I1
+sVgave
+p21
+I1
+sVfool
+p22
+I4
+sVcuss
+p23
+I2
+sVcube
+p24
+I1
+sVhandle
+p25
+I1
+sVget
+p26
+I2
+sVbig
+p27
+I1
+sVmales
+p28
+I1
+sVstop
+p29
+I1
+sVsmack
+p30
+I1
+sVcapo
+p31
+I1
+sVjack
+p32
+I2
+sVone
+p33
+I1
+sVbigger
+p34
+I2
+sVerection
+p35
+I7
+sVlike
+p36
+I10
+sVbrother
+p37
+I1
+sVtry
+p38
+I1
+sVhittin
+p39
+I1
+sVclothes
+p40
+I2
+sVem
+p41
+I1
+sVnigga
+p42
+I9
+sVsays
+p43
+I1
+sVcrowd
+p44
+I1
+sVed
+p45
+I1
+sVhard
+p46
+I7
+sVback
+p47
+I3
+sVskins
+p48
+I1
+sVgo
+p49
+I4
+sVbooks
+p50
+I1
+sVhoes
+p51
+I1
+sVides
+p52
+I1
+sVgimminy
+p53
+I1
+sVwhaddya
+p54
+I1
+sVsluts
+p55
+I1
+sVhate
+p56
+I2
+sVtales
+p57
+I1
+sVice
+p58
+I1
+sVenough
+p59
+I1
+sVit
+p60
+I1
+sVshows
+p61
+I1
+sVnever
+p62
+I1
+sVmotherfucker
+p63
+I1
+sVbutts
+p64
+I1
+sVkicking
+p65
+I1
+sVpacking
+p66
+I1
+sVcome
+p67
+I3
+sVfatter
+p68
+I1
+sVok
+p69
+I1
+sVpiles
+p70
+I1
+sVog
+p71
+I1
+sVhennesee
+p72
+I1
+sVkeep
+p73
+I1
+sVthing
+p74
+I1
+sVsweat
+p75
+I1
+sVfuckin
+p76
+I1
+sVthats
+p77
+I1
+sVrendered
+p78
+I1
+sVlove
+p79
+I1
+sVdont
+p80
+I1
+sVyoung
+p81
+I11
+sVmomma
+p82
+I1
+sVquicker
+p83
+I1
+sVrespect
+p84
+I1
+sVnuttin
+p85
+I1
+sVwan
+p86
+I1
+sVmack
+p87
+I1
+sVstrictly
+p88
+I1
+sVcharge
+p89
+I1
+sVfellas
+p90
+I1
+sVmuch
+p91
+I1
+sVrowd
+p92
+I1
+sVlow
+p93
+I1
+sVway
+p94
+I1
+sVthreaten
+p95
+I1
+sVman
+p96
+I1
+sVtell
+p97
+I1
+sVselling
+p98
+I1
+sVthat
+p99
+I1
+sVgat
+p100
+I1
+sVsales
+p101
+I1
+sVbaby
+p102
+I2
+sVwith
+p103
+I3
+sVyayo
+p104
+I1
+sVmust
+p105
+I1
+sVkind
+p106
+I1
+sVlook
+p107
+I1
+sVtalking
+p108
+I1
+sVsay
+p109
+I1
+sVniggaz
+p110
+I5
+sVnear
+p111
+I1
+sVdirty
+p112
+I1
+sVjimminy
+p113
+I1
+sVmale
+p114
+I10
+sVpack
+p115
+I1
+sVcollecting
+p116
+I1
+sVreal
+p117
+I3
+sVrap
+p118
+I1
+sVstacking
+p119
+I1
+sVpass
+p120
+I1
+sVfuck
+p121
+I4
+sVay
+p122
+I1
+sVcant
+p123
+I1
+sVim
+p124
+I5
+sVslip
+p125
+I1
+sVready
+p126
+I1
+sVhit
+p127
+I1
+sVcheck
+p128
+I1
+sVshit
+p129
+I8
+sVsell
+p130
+I1
+sVhoe
+p131
+I1
+sVna
+p132
+I3
+sVold
+p133
+I1
+sVsmell
+p134
+I2
+sVgrows
+p135
+I1
+sVsure
+p136
+I1
+sVfuss
+p137
+I1
+sVdime
+p138
+I1
+sVwatch
+p139
+I1
+sVdrink
+p140
+I1
+sVeffect
+p141
+I1
+sVgon
+p142
+I2
+sVmouth
+p143
+I1
+sVguys
+p144
+I2
+sVtighter
+p145
+I1
+sVgoin
+p146
+I1
+sVe
+I1
+sVflow
+p147
+I3
+sVst
+p148
+I1
+sVwacker
+p149
+I1
+sVjail
+p150
+I1
+sVteachin
+p151
+I1
+sVskunk
+p152
+I2
+sVknow
+p153
+I4
+s.

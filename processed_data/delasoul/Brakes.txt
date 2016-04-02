@@ -1,135 +1,780 @@
-"brakes" lyrics
-de la soul lyrics
-"brakes"
-there's a lot of people out here
-who just don't know
-what plays a factor
-in movin' heads and toes
-it be them hits
-hangin' out of them stereo kits
-whether cassette radio or cd bits
-mix tapes from the best
-going on and on
-throughout the city grounds
-to suburban lawns
-man, we don't play
-even where we stay
-videos shows the visuals
-of jams today
-coinciding with the rhythm
-of the heart and neck
-the brakes got you
-in your proper context
-you let your lex or your
-sixty-four suspension
-bounce away all your tension
-en route to the club
-where girls need the quenchin'
-diamonds on your wrist
-sunroof top
-but niggas out front
-makin' guns go pop
-so the spot gets shut
-but on to the next
-'cause your ears get vexed
-when they don't get the fix cause
-(these are the brakes)
-it be your listenin pleasure
-while you're doin your chores
-(these are the brakes)
-no matter where you from
-it's for you and yours
-(these are the brakes)
-bringing it back to the brakes
-like the 'yes yes y'all'
-(these are the brakes)
-so let it be your anthem
-when you're havin' a ball
-well it's silly of me
-to think that i
-would never get a chance to see
-a piece of this pie
-i sat dead in front of speakers
-thinkin' that could be me
-anticipatin' open microphones
-so i could emcee
-had a catalogue of raps
-impressin' all the 'round-the-wayers
-before i went to bed
-included rhymes into my prayers
-but that rhyme is all on paper
-i want my song on vinyl plates
-i dreamin' hits and doin' shows
-makin my niggas spines shake
-expectin' nuttin but a little bit
-of radio play
-gettin diced on 1 and 2's
-by the best djs, hey
-time was kinda tight
-but still i dotted on the line
-and some expected me
-to start buhlooning in the mind
-seein' spaces and places
-that i couldn't pronounce
-but still i had the pulleys
-to make all the bullies bounce
-with the blessings of the great
-we took it from state to state
-'cause we landed on the good foot
-and got our biggest brake cause
-(these are the brakes)
-a mother gets mugged
-by her crackhead son
-"that's the brakes, that's the brakes"
-you're in the wrong part of town
-so the shots make you run
-"that's the brakes, that's the brakes"
-your best comrades put six tabs
-in your o.e.
-"that's the brakes, that's the brakes"
-your boyfriend made you a carrier of hiv
-"that's the brakes, that's the brakes"
-now what's gonna happen
-when the sun don't shine
-i'm buyin tickets aboard
-the caravan of love
-hey fellas
-see, money don't make shots repel
-i break woes and compose
-some rhymes to tell
-so when the party's live
-it shouldn't be beef
-or playin' indian roles
-i guess you thought you was chief
-seems all broke up
-and now you woke up surprised
-situation's gettin sticky
-dead in front of your eyes
-we play the wall
-similar to tacks
-until the dj plays
-the necessary track
-in fact as the jam plays on
-out comes all your bread
-to pay for drinks
-for them girls you want to spread
-don't be mislead
-when the brakes inside your head
-and have you reminiscing
-on them kids who got you fed
-until reality reveals a miss
-who wants to know
-if you can play her real close
-out on the dance floor 'cause
-(these are the brakes)
-it be your listenin pleasure
-while you're doin your chores
-(these are the brakes)
-no matter where you from
-it's for you and yours
-(these are the brakes)
-ringin it back to the brakes
-like the 'yes yes y'all'
-(these are the brakes)
-so let it be your anthem
-when you're havin, a ball
+(dp1
+Vsix
+p2
+I1
+sVlyrics
+p3
+I2
+sVdance
+p4
+I1
+sVmoney
+p5
+I1
+sVsuburban
+p6
+I1
+sVfoot
+p7
+I1
+sVkits
+p8
+I1
+sVradio
+p9
+I2
+sVshake
+p10
+I1
+sVgo
+p11
+I1
+sVlove
+p12
+I1
+sVyes
+p13
+I4
+sVstill
+p14
+I2
+sVmake
+p15
+I3
+sVdjs
+p16
+I1
+sVcompose
+p17
+I1
+sVtook
+p18
+I1
+sVla
+p19
+I1
+sVsituations
+p20
+I1
+sVfix
+p21
+I1
+sVseems
+p22
+I1
+sVstate
+p23
+I2
+sVroundthewayers
+p24
+I1
+sVhavin
+p25
+I2
+sVgoing
+p26
+I1
+sVcassette
+p27
+I1
+sVrhythm
+p28
+I1
+sVfactor
+p29
+I1
+sVdiced
+p30
+I1
+sVsuspension
+p31
+I1
+sVpay
+p32
+I1
+sVsurprised
+p33
+I1
+sVimpressin
+p34
+I1
+sVreal
+p35
+I1
+sVme
+p36
+I3
+sVgood
+p37
+I1
+sVdj
+p38
+I1
+sVhiv
+p39
+I1
+sVget
+p40
+I3
+sVmugged
+p41
+I1
+sVde
+p42
+I1
+sVrhyme
+p43
+I1
+sVbreak
+p44
+I1
+sVknow
+p45
+I2
+sVexpectin
+p46
+I1
+sVfront
+p47
+I3
+sVbit
+p48
+I1
+sVson
+p49
+I1
+sVbringing
+p50
+I1
+sVbread
+p51
+I1
+sVtickets
+p52
+I1
+sVgets
+p53
+I2
+sVnecessary
+p54
+I1
+sVlike
+p55
+I2
+sV2s
+p56
+I1
+sVgettin
+p57
+I2
+sVpaper
+p58
+I1
+sVshots
+p59
+I2
+sVwent
+p60
+I1
+sVyall
+p61
+I2
+sVears
+p62
+I1
+sVmicrophones
+p63
+I1
+sVreveals
+p64
+I1
+sVen
+p65
+I1
+sVnuttin
+p66
+I1
+sVbrakes
+p67
+I23
+sVpeople
+p68
+I1
+sVvisuals
+p69
+I1
+sVpronounce
+p70
+I1
+sVback
+p71
+I2
+sVbounce
+p72
+I2
+sVup
+p73
+I1
+sVsee
+p74
+I2
+sVshouldnt
+p75
+I1
+sVrhymes
+p76
+I2
+sVfellas
+p77
+I1
+sVproper
+p78
+I1
+sVplayin
+p79
+I1
+sVhappen
+p80
+I1
+sVbest
+p81
+I3
+sVdrinks
+p82
+I1
+sVeven
+p83
+I1
+sVmovin
+p84
+I1
+sVgon
+p85
+I1
+sVplays
+p86
+I3
+sVanthem
+p87
+I2
+sVaway
+p88
+I1
+sVringin
+p89
+I1
+sVcatalogue
+p90
+I1
+sVindian
+p91
+I1
+sVdiamonds
+p92
+I1
+sVgot
+p93
+I3
+sVcause
+p94
+I5
+sVguns
+p95
+I1
+sVshows
+p96
+I2
+sVdreamin
+p97
+I1
+sVshut
+p98
+I1
+sVtoes
+p99
+I1
+sVrun
+p100
+I1
+sVanticipatin
+p101
+I1
+sVnever
+p102
+I1
+sVguess
+p103
+I1
+sVhere
+p104
+I1
+sVlet
+p105
+I3
+sVvinyl
+p106
+I1
+sVlex
+p107
+I1
+sVfrom
+p108
+I2
+sVshine
+p109
+I1
+sVon
+p110
+I2
+sVhits
+p111
+I2
+sVkids
+p112
+I1
+sVbeef
+p113
+I1
+sVtapes
+p114
+I1
+sVjams
+p115
+I1
+sVoe
+p116
+I1
+sVroute
+p117
+I1
+sVput
+p118
+I1
+sVwrong
+p119
+I1
+sVspines
+p120
+I1
+sVblessings
+p121
+I1
+sVaboard
+p122
+I1
+sVcontext
+p123
+I1
+sVsixtyfour
+p124
+I1
+sVbuhlooning
+p125
+I1
+sVjam
+p126
+I1
+sVhead
+p127
+I1
+sVthink
+p128
+I1
+sVemcee
+p129
+I1
+sVgrounds
+p130
+I1
+sVpulleys
+p131
+I1
+sVwhats
+p132
+I1
+sVdont
+p133
+I6
+sVvexed
+p134
+I1
+sVwall
+p135
+I1
+sVcaravan
+p136
+I1
+sVbullies
+p137
+I1
+sVmakin
+p138
+I2
+sVpop
+p139
+I1
+sVcd
+p140
+I1
+sVcoinciding
+p141
+I1
+sVroles
+p142
+I1
+sVcouldnt
+p143
+I1
+sVthroughout
+p144
+I1
+sVopen
+p145
+I1
+sVyour
+p146
+I1
+sVspread
+p147
+I1
+sVcity
+p148
+I1
+sVlittle
+p149
+I1
+sVheads
+p150
+I1
+sVseein
+p151
+I1
+sVwould
+p152
+I1
+sVtop
+p153
+I1
+sVprayers
+p154
+I1
+sVgirls
+p155
+I2
+sVhey
+p156
+I2
+sVnext
+p157
+I1
+sVstart
+p158
+I1
+sVlive
+p159
+I1
+sVtacks
+p160
+I1
+sVlot
+p161
+I1
+sVexpected
+p162
+I1
+sVbits
+p163
+I1
+sVtell
+p164
+I1
+sVtoday
+p165
+I1
+sVreminiscing
+p166
+I1
+sVwants
+p167
+I1
+sVtight
+p168
+I1
+sVeyes
+p169
+I1
+sVlawns
+p170
+I1
+sVclub
+p171
+I1
+sVgreat
+p172
+I1
+sVbuyin
+p173
+I1
+sVbiggest
+p174
+I1
+sVlanded
+p175
+I1
+sVpart
+p176
+I1
+sVdead
+p177
+I2
+sVbroke
+p178
+I1
+sVsun
+p179
+I1
+sVline
+p180
+I1
+sVboyfriend
+p181
+I1
+sVlistenin
+p182
+I2
+sVmade
+p183
+I1
+sVplaces
+p184
+I1
+sVniggas
+p185
+I2
+sVwhether
+p186
+I1
+sVinside
+p187
+I1
+sVsoul
+p188
+I1
+sVbed
+p189
+I1
+sVmatter
+p190
+I2
+sVsilly
+p191
+I1
+sVwoke
+p192
+I1
+sVcomrades
+p193
+I1
+sVpiece
+p194
+I1
+sVsimilar
+p195
+I1
+sVcould
+p196
+I2
+sVtheres
+p197
+I1
+sVheart
+p198
+I1
+sVvideos
+p199
+I1
+sVpartys
+p200
+I1
+sVraps
+p201
+I1
+sVtabs
+p202
+I1
+sVim
+p203
+I1
+sVsunroof
+p204
+I1
+sVmind
+p205
+I1
+sVpie
+p206
+I1
+sVsticky
+p207
+I1
+sVrepel
+p208
+I1
+sVmiss
+p209
+I1
+sVbrake
+p210
+I1
+sVspaces
+p211
+I1
+sVwant
+p212
+I2
+sVclose
+p213
+I1
+sVneed
+p214
+I1
+sVcrackhead
+p215
+I1
+sVsat
+p216
+I1
+sVchores
+p217
+I2
+sVmislead
+p218
+I1
+sVspeakers
+p219
+I1
+sVdotted
+p220
+I1
+sVfloor
+p221
+I1
+sVna
+p222
+I1
+sVthinkin
+p223
+I1
+sVsong
+p224
+I1
+sVreality
+p225
+I1
+sV1
+I1
+sVmix
+p226
+I1
+sVcarrier
+p227
+I1
+sVfed
+p228
+I1
+sVplates
+p229
+I1
+sVyou
+p230
+I1
+sVhangin
+p231
+I1
+sVtension
+p232
+I1
+sVplay
+p233
+I4
+sVball
+p234
+I2
+sVtrack
+p235
+I1
+sVdoin
+p236
+I3
+sVmother
+p237
+I1
+sVspot
+p238
+I1
+sVwoes
+p239
+I1
+sVstay
+p240
+I1
+sVtown
+p241
+I1
+sVchance
+p242
+I1
+sVwrist
+p243
+I1
+sVkinda
+p244
+I1
+sVincluded
+p245
+I1
+sVman
+p246
+I1
+sVstereo
+p247
+I1
+sVneck
+p248
+I1
+sVi
+I1
+sVyoure
+p249
+I5
+sVwell
+p250
+I1
+sVquenchin
+p251
+I1
+sVthought
+p252
+I1
+sVchief
+p253
+I1
+sVcomes
+p254
+I1
+sVtime
+p255
+I1
+sVpleasure
+p256
+I2
+sVthats
+p257
+I8
+sVyours
+p258
+I2
+sVfact
+p259
+I1
+s.

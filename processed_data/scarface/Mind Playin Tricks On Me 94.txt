@@ -1,61 +1,554 @@
-"mind playin tricks on me '94" lyrics
-scarface lyrics
-"mind playin tricks on me '94"
-i sit alone in my four cornered room starin' at candles
-are we on the radio dukes?
-awww yeah, give it to me
-yeah, at night i can't sleep
-i'm tossin' and turnin'
-i still got the candlesticks burnin'
-it ain't changed but it's a different time
-and i'm still playin' tricks with my mind
-my mothers always stressin' that i'm livin' wrong
-but i got my smith and wesson so i'm gettin' grown
-and their lookin' at your little boys success
-and i been thinkin', i'm dealin' with too much stress
-so i stay up on my p's and q's
-and watch out for the g's and fools
-cause the homies that i thought i had
-see me stackin' up a grip
-and they just started talkin' bad
-so i stay away from outsiders
-and when i roll through, it makes 'em open they mouth wider
-i used to think that you was my one and only homie
-my mind was playin' tricks on me
-my mind was playin' tricks on me
-yeah
-dear diary i'm havin' a little trouble with my mind state
-how many bullets would it take to change my mind? wait
-sometimes i want to end it but i don't though
-they tell me see my pastor but i don't go
-cause they all be on this one street
-so i take it on myself to thank him one deep
-and give my money to the most needy
-and never put it in the hands of the most greedy
-cause their puttin' a price tag on a man's word
-and it's a fashion show, so the men flirt
-the world is endin' so they try to make us switch fast
-and they openin' up these churches for some quick cash
-and usin' the money fo' they new cribs
-while brother johnson just got kicked out where he lived
-i follow no man, cause man be phoney
-my mind was playin' tricks on me
-my mind was playin' tricks on me
-day by day it's more impossible to cope
-i feel like i'm the one that's doin' dope
-can't seem to keep my mind on a steady track
-i'm all about gettin' mine so i study that
-but it seems they want to get me
-so i try to keep my nine millimeter wit me
-just in case they want to see a homies head blown
-but i got to stay around to see my kids grown
-i finally found a woman who could deal wit me
-back then i had a woman who wouldn't real wit me
-and now she's back with her old lady
-and now i got it goin' on and they sure hate me
-now i'm a gone and she's alone
-hahahaha, her mind was playin' tricks on her
-one time for your motherfuckin' mind
-bringin' it back like this here
-1-9-9-1 all the way to the 1-9-9-4 and they me face
-my mind was playin' tricks on me
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I2
+sVfour
+p6
+I1
+sVsleep
+p7
+I1
+sVgo
+p8
+I1
+sVfollow
+p9
+I1
+sVstill
+p10
+I2
+sVhate
+p11
+I1
+sVaint
+p12
+I1
+sVthank
+p13
+I1
+sVsmith
+p14
+I1
+sVday
+p15
+I2
+sVhavin
+p16
+I1
+sVfinally
+p17
+I1
+sVhomies
+p18
+I2
+sVdukes
+p19
+I1
+sVsure
+p20
+I1
+sVmotherfuckin
+p21
+I1
+sVgrip
+p22
+I1
+sVcase
+p23
+I1
+sVtossin
+p24
+I1
+sVwoman
+p25
+I2
+sVgone
+p26
+I1
+sVlivin
+p27
+I1
+sVchurches
+p28
+I1
+sVget
+p29
+I1
+sVdope
+p30
+I1
+sVwatch
+p31
+I1
+sV1991
+p32
+I1
+sVawww
+p33
+I1
+sVdiary
+p34
+I1
+sVhands
+p35
+I1
+sVworld
+p36
+I1
+sVtrouble
+p37
+I1
+sVlady
+p38
+I1
+sVputtin
+p39
+I1
+sVroom
+p40
+I1
+sVqs
+p41
+I1
+sVlike
+p42
+I2
+sVsuccess
+p43
+I1
+sVmothers
+p44
+I1
+sValways
+p45
+I1
+sVgettin
+p46
+I2
+sVbrother
+p47
+I1
+sVtalkin
+p48
+I1
+sVtry
+p49
+I2
+sVbad
+p50
+I1
+sVnight
+p51
+I1
+sVquick
+p52
+I1
+sVradio
+p53
+I1
+sVem
+p54
+I1
+sVphoney
+p55
+I1
+sVold
+p56
+I1
+sVdeal
+p57
+I1
+sVturnin
+p58
+I1
+sVyeah
+p59
+I3
+sVsee
+p60
+I4
+sVstreet
+p61
+I1
+sVshes
+p62
+I2
+sVgoin
+p63
+I1
+sVdear
+p64
+I1
+sVplayin
+p65
+I9
+sVwesson
+p66
+I1
+sVaway
+p67
+I1
+sVusin
+p68
+I1
+sVstate
+p69
+I1
+sVgot
+p70
+I5
+sVcause
+p71
+I4
+sVoutsiders
+p72
+I1
+sVmen
+p73
+I1
+sVnever
+p74
+I1
+sVgreedy
+p75
+I1
+sVfound
+p76
+I1
+sValone
+p77
+I2
+sVchange
+p78
+I1
+sVwait
+p79
+I1
+sVmillimeter
+p80
+I1
+sVmans
+p81
+I1
+sVher
+p82
+I1
+sVwouldnt
+p83
+I1
+sV1994
+p84
+I1
+sVmany
+p85
+I1
+sVstudy
+p86
+I1
+sVchanged
+p87
+I1
+sVkeep
+p88
+I2
+sVlookin
+p89
+I1
+sVbullets
+p90
+I1
+sVmakes
+p91
+I1
+sVthink
+p92
+I1
+sVthats
+p93
+I1
+sVcornered
+p94
+I1
+sVdont
+p95
+I2
+sVblown
+p96
+I1
+sVfeel
+p97
+I1
+sVseems
+p98
+I1
+sVone
+p99
+I5
+sVcandlesticks
+p100
+I1
+sVput
+p101
+I1
+sVwit
+p102
+I3
+sVkicked
+p103
+I1
+sVwider
+p104
+I1
+sVimpossible
+p105
+I1
+sVopen
+p106
+I1
+sVps
+p107
+I1
+sVlittle
+p108
+I2
+sVwould
+p109
+I1
+sVfast
+p110
+I1
+sVmuch
+p111
+I1
+sVway
+p112
+I1
+sVman
+p113
+I2
+sVtell
+p114
+I1
+sVhead
+p115
+I1
+sVlived
+p116
+I1
+sVcope
+p117
+I1
+sVstarted
+p118
+I1
+sVpastor
+p119
+I1
+sVback
+p120
+I3
+sVboys
+p121
+I1
+sVkids
+p122
+I1
+sVbringin
+p123
+I1
+sV94
+p124
+I2
+sVme
+p125
+I11
+sVword
+p126
+I1
+sVdealin
+p127
+I1
+sVcash
+p128
+I1
+sVus
+p129
+I1
+sVflirt
+p130
+I1
+sVtag
+p131
+I1
+sVnine
+p132
+I1
+sVcandles
+p133
+I1
+sVscarface
+p134
+I1
+sVcould
+p135
+I1
+sVreal
+p136
+I1
+sVfashion
+p137
+I1
+sVgive
+p138
+I2
+sVstackin
+p139
+I1
+sVmind
+p140
+I13
+sVmine
+p141
+I1
+sVdeep
+p142
+I1
+sVcant
+p143
+I2
+sVhomie
+p144
+I1
+sVim
+p145
+I9
+sVwant
+p146
+I3
+sVseem
+p147
+I1
+sVaround
+p148
+I1
+sVgrown
+p149
+I2
+sVdifferent
+p150
+I1
+sVburnin
+p151
+I1
+sVsit
+p152
+I1
+sVneedy
+p153
+I1
+sVthinkin
+p154
+I1
+sVthat
+p155
+I1
+sVtake
+p156
+I2
+sVnew
+p157
+I1
+sVfools
+p158
+I1
+sVroll
+p159
+I1
+sVused
+p160
+I1
+sVthough
+p161
+I1
+sVtrack
+p162
+I1
+sVprice
+p163
+I1
+sVopenin
+p164
+I1
+sVstay
+p165
+I3
+sVdoin
+p166
+I1
+sVwrong
+p167
+I1
+sVstarin
+p168
+I1
+sVmouth
+p169
+I1
+sVhahahaha
+p170
+I1
+sVend
+p171
+I1
+sVfo
+p172
+I1
+sVstress
+p173
+I1
+sVjohnson
+p174
+I1
+sVcribs
+p175
+I1
+sVstressin
+p176
+I1
+sVtricks
+p177
+I9
+sVsometimes
+p178
+I1
+sVsteady
+p179
+I1
+sVface
+p180
+I1
+sVthought
+p181
+I1
+sVswitch
+p182
+I1
+sVtime
+p183
+I2
+sVmake
+p184
+I1
+sVendin
+p185
+I1
+s.

@@ -1,50 +1,422 @@
-gotta lyrics
-kanye west lyrics
-gotta it
-jayz
-turn headphones up
-louder
-uhhuh uhhuh
-need need
-need need
-oh got need
-hello hello hello white america assassinate character
-money matrimony yeah tryna break marriage up
-gon’ act phonier gon’ try embarrass ya
-i’ma need day think i’ll call ferris up
-bueller mueller switched miele
-‘cause i’m richer prior shit movin’ freebase
-conference djs yeah puerto rico threedays
-parlay gds got shit replay
-sorry i’m pajamas got pj
-last party shut prive
-ain’t heat play yep niggas hate ballers days
-ain’t like lebron james ain’t like dwade
-wait
-need need
-got need you
-need need
-got need
-wassup wassup wassup wassup
-wassup ma’fucka money at
-gon’ make come house yo’ mummy at
-mummy wrap kids ‘em cryin’ mummy back
-dummy daddy tell ‘em want racks
-racks racks racks racks
-maybachs bachs bachs bachs bachs that
-oh shit it’s blacks blacks blacks
-hundred stack get nigga layin’ raps tracks
-wish could give feelin’ i’m planking million
-i’m riding yo’ hood bank ain’t got ceiling
-made left nostrand ave right bed stuy
-made right 79th i’m coming south shore drive
-remain chitown brooklyn ‘til die
-take ‘em home take ‘em home…
-take ‘em home take ‘em home…
-got need need
-take ‘em home
-need need
-got need need
-take ‘em home take ‘em home…
-take ‘em home take ‘em home…
-tryna hurt name huh
+(dp1
+Vgds
+p2
+I1
+sVlyrics
+p3
+I2
+sVswitched
+p4
+I1
+sVthreedays
+p5
+I1
+sVmoney
+p6
+I2
+sVbueller
+p7
+I1
+sVlayin\u2019
+p8
+I1
+sVyep
+p9
+I1
+sVparlay
+p10
+I1
+sVhate
+p11
+I1
+sVdjs
+p12
+I1
+sVcryin\u2019
+p13
+I1
+sVwassup
+p14
+I5
+sVcharacter
+p15
+I1
+sVma\u2019fucka
+p16
+I1
+sVrico
+p17
+I1
+sVpuerto
+p18
+I1
+sVsorry
+p19
+I1
+sVta
+p20
+I2
+sVmiele
+p21
+I1
+sVget
+p22
+I1
+sVya
+p23
+I1
+sVbreak
+p24
+I1
+sVday
+p25
+I1
+sVbank
+p26
+I1
+sVname
+p27
+I1
+sVlike
+p28
+I2
+sVbachs
+p29
+I4
+sVjames
+p30
+I1
+sVhello
+p31
+I3
+sVnostrand
+p32
+I1
+sVtry
+p33
+I1
+sVdie
+p34
+I1
+sVnigga
+p35
+I1
+sVhouse
+p36
+I1
+sVyeah
+p37
+I2
+sVup
+p38
+I3
+sVmaybachs
+p39
+I1
+sVballers
+p40
+I1
+sVlouder
+p41
+I1
+sVkanye
+p42
+I1
+sVhome
+p43
+I5
+sVpajamas
+p44
+I1
+sVblacks
+p45
+I3
+sVmummy
+p46
+I3
+sVstuy
+p47
+I1
+sVgot
+p48
+I10
+sVhurt
+p49
+I1
+sV\u2018til
+p50
+I1
+sVshut
+p51
+I1
+sVmillion
+p52
+I1
+sV79th
+p53
+I1
+sVtracks
+p54
+I1
+sVembarrass
+p55
+I1
+sVcome
+p56
+I1
+sVwait
+p57
+I1
+sVkids
+p58
+I1
+sVlast
+p59
+I1
+sVoh
+p60
+I2
+sVcould
+p61
+I1
+sVmatrimony
+p62
+I1
+sVdays
+p63
+I1
+sVprior
+p64
+I1
+sVphonier
+p65
+I1
+sVact
+p66
+I1
+sVthink
+p67
+I1
+sVsouth
+p68
+I1
+sVit\u2019s
+p69
+I1
+sVfeelin\u2019
+p70
+I1
+sVjayz
+p71
+I1
+sVright
+p72
+I2
+sVwrap
+p73
+I1
+sVuhhuh
+p74
+I2
+sVlebron
+p75
+I1
+sVhood
+p76
+I1
+sVconference
+p77
+I1
+sVplanking
+p78
+I1
+sVwest
+p79
+I1
+sVstack
+p80
+I1
+sVferris
+p81
+I1
+sVcall
+p82
+I1
+sVi\u2019ll
+p83
+I1
+sVfreebase
+p84
+I1
+sVpj
+p85
+I1
+sVhome\u2026
+p86
+I4
+sVwhite
+p87
+I1
+sVhundred
+p88
+I1
+sVdwade
+p89
+I1
+sVtell
+p90
+I1
+sVback
+p91
+I1
+sVtryna
+p92
+I2
+sVceiling
+p93
+I1
+sV\u2018cause
+p94
+I1
+sVhuh
+p95
+I1
+sVyou
+p96
+I1
+sVheat
+p97
+I1
+sVriding
+p98
+I1
+sVmade
+p99
+I2
+sVniggas
+p100
+I1
+sVwish
+p101
+I1
+sVain\u2019t
+p102
+I4
+sVricher
+p103
+I1
+sVbed
+p104
+I1
+sVprive
+p105
+I1
+sVremain
+p106
+I1
+sVreplay
+p107
+I1
+sVmarriage
+p108
+I1
+sVdaddy
+p109
+I1
+sVheadphones
+p110
+I1
+sVgive
+p111
+I1
+sVraps
+p112
+I1
+sVit
+p113
+I1
+sVat
+p114
+I2
+sVwant
+p115
+I1
+sVneed
+p116
+I18
+sVave
+p117
+I1
+sVshit
+p118
+I3
+sVturn
+p119
+I1
+sV\u2018em
+p120
+I11
+sVmake
+p121
+I1
+sVthat
+p122
+I1
+sVi\u2019m
+p123
+I5
+sVtake
+p124
+I9
+sVparty
+p125
+I1
+sVassassinate
+p126
+I1
+sVmueller
+p127
+I1
+sVplay
+p128
+I1
+sVi\u2019ma
+p129
+I1
+sVchitown
+p130
+I1
+sVbrooklyn
+p131
+I1
+sVyo\u2019
+p132
+I2
+sVcoming
+p133
+I1
+sVamerica
+p134
+I1
+sVracks
+p135
+I5
+sVdummy
+p136
+I1
+sVdrive
+p137
+I1
+sVgon\u2019
+p138
+I3
+sVshore
+p139
+I1
+sVmovin\u2019
+p140
+I1
+sVleft
+p141
+I1
+s.

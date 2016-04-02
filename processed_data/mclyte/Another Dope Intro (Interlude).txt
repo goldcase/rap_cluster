@@ -1,18 +1,154 @@
-"another dope intro (interlude)" lyrics
-mc lyte lyrics
-"another dope intro (interlude)"
-yo who is it?
-yo lyte it's epic, you got time to chill?
-nah umm, sorry i ain't got no time to chill
-but i got umm..
-skins, skins, every now and then
-i meet a peter with a pecker that tries to be in
-because my tongue is the mind of a readywriter
-like chuck d said, i'm a rhyme fighter
-no there is no other, because i'm smooth like butter
-or should i say parkay, butter - parkay
-butter - parkay, fuck it anyway
-yo, you get the rhythm (what the rhythm?) that i'm promotin
-and if not, i say it in slow motion
-l.... y.... yeah.... t.... e....
-uhh! ("there it is")
+(dp1
+Vslow
+p2
+I1
+sVanyway
+p3
+I1
+sVlyrics
+p4
+I2
+sVis
+p5
+I1
+sVmind
+p6
+I1
+sVit
+p7
+I1
+sVskins
+p8
+I2
+sVd
+I1
+sVsay
+p9
+I2
+sVintro
+p10
+I2
+sVim
+p11
+I3
+sVanother
+p12
+I2
+sVin
+p13
+I1
+sVpeter
+p14
+I1
+sVaint
+p15
+I1
+sVreadywriter
+p16
+I1
+sVpromotin
+p17
+I1
+sVlyte
+p18
+I2
+sVnah
+p19
+I1
+sVinterlude
+p20
+I2
+sVrhythm
+p21
+I2
+sVumm
+p22
+I2
+sVgot
+p23
+I3
+sVsorry
+p24
+I1
+sVepic
+p25
+I1
+sVthen
+p26
+I1
+sVyo
+p27
+I3
+sVget
+p28
+I1
+sVdope
+p29
+I2
+sVrhyme
+p30
+I1
+sVuhh
+p31
+I1
+sVfuck
+p32
+I1
+sVtries
+p33
+I1
+sVsaid
+p34
+I1
+sVevery
+p35
+I1
+sVe
+I1
+sVpecker
+p36
+I1
+sVchill
+p37
+I2
+sVbutter
+p38
+I3
+sVfighter
+p39
+I1
+sVlike
+p40
+I2
+sVmc
+p41
+I1
+sVl
+I1
+sVyeah
+p42
+I1
+sVsmooth
+p43
+I1
+sVchuck
+p44
+I1
+sVmotion
+p45
+I1
+sVparkay
+p46
+I3
+sVtime
+p47
+I2
+sVy
+I1
+sVmeet
+p48
+I1
+sVtongue
+p49
+I1
+s.

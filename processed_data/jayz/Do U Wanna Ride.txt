@@ -1,104 +1,903 @@
-"do u wanna ride" lyrics
-jay-z lyrics
-"do u wanna ride"
-(feat. john legend)
-this is the operator with a collect call from "emory jones"
-to accept the charges, press one now
-uhh, woo!
-emory whattup?
-told you i ain't too good with writin letters and all
-shit i don't even write rhymes
-but what i will do
-i'ma send you this opus scribed through the airwaves
-vibe with me
-i knowwwww.. i knowwwwww
-some places we can go, some places we can go
-i knowwwww.. i knowwwwww!
-some places we can go, some places we can go
-do you wanna riiiiiiide... with me
-do you wanna riiiiiiide... with me
-uh-huh, uh-huh
-yeah nigga i bet we was kids and had dreams of bein here
-i said "we" cause i'm here, you here!
-uhh
-yeah, ride with me, your spot is reserved family
-cigarette boats, yachts, ain't nowhere we can't go
-we in south beach and the hamptons too baby!
-you know why they call the projects a project, because it's a project!
-an experiment, where in it, only it's objects
-and the object for us to explore our prospects
-and sidestep cops on the way to the top - yes!
-as kids we would daydream, sittin on our steps
-pointin at cars like yeah that's our sex
-hustlers, prophets, made our eyes stretch
-swanson got the spot, shit we started our trek
-some of us made it, most of us digressed
-in the name of those who ain't made it my progress
-show success please live through me
-see i'm the eyes for emory, keep him alive
-(this is a collect call) so everytime i press five
-all he wanna hear is his boy talk fly
-up in the fed, and still holdin his head
-so when he hits the streets he gon' eat through this bread
-now let's ride
-uh-huh, geah
-i'm crushin 'em all for jones
-mtv, bet, the grammys, crushed linen, purple label
-all that fly shit we talked about
-give him some nice pinky rings with the blue diamonds and e'rything
-hehehe, that's what we talked about right?
-uh-huh... tried to told you, ride with me
-international hov', i told you so
-forty 40's out in tokyo
-singapore, all this from singin songs
-comin up though we thought slingin raw
-was the end all be all of bein rich didn't we
-little did i know my mo' potent delivery
-would deliver me, kingpin of the inkpen
-monster of the double entendre, coke is still my sponsor
-heh, the cola, yeah
-hova still gettin it in with soda
-diet, no sir, i ain't lose no weight
-started from the crates now i'm sittin on a whole case
-since they got you sittin on that old case
-our dreams is on hold like tivo
-so i can't wait 'til you get your date
-i got some temp plates outside of the gate
-we gon' ride
-uh-huh, uh-huh
-geah
-don't even worry about it though, you ain't missed nuttin
-it only gets better, they got the maybach coupe now
-look like the batmobile, the phantom the top just comes off that joint
-it only gets better
-they caught your body they can't trap your mind
-keep your spirit alive read your books
-matter of fact, let me take you somewhere
-vibe with me, c'mon
-now me and my lil' mama, kita and tata
-juan and dez out in san tropez
-jay round in gabana, sneakin marijuana
-you know that mary j. give you +no more drama+
-lost a couple friends this whole shit got weird
-but when you get home you know your spot's reserved, ya heard?
-i put my niggaz on, my niggaz put they niggaz on
-now we all somewhere fun, chillin in the sun
-i ain't forget you cousin, hehe
-yeah nigga y'all can wear sneakers on the beach if you want to
-y'all niggaz come and c'mon, playin money marathon
-my young'n is lebron, you know what that makes me baby
-big homey! hehe, emory what's up?
-wan' ride with us? you're more than welcome
-we ain't on no bullshit, uhh
-put your feet up
-big tye i see you boy
-guru, i don't usually do this but
-roll me up son man
-let me get mellow on this shit right here
-uh-huh, yeah
-uh-huh, white paper though nigga
-can't even fuck with those blunts
-white paper baby, old school nigga gimme a joint
-smooth it out, young h.o.
-henry jones
-word to my momma we livin!
+(dp1
+Vson
+p2
+I1
+sVkita
+p3
+I1
+sVwhattup
+p4
+I1
+sVsince
+p5
+I1
+sVentendre
+p6
+I1
+sVlyrics
+p7
+I2
+sVshow
+p8
+I1
+sVyoung
+p9
+I1
+sVrings
+p10
+I1
+sVgim
+p11
+I1
+sVall
+p12
+I1
+sV40s
+p13
+I1
+sVyoungn
+p14
+I1
+sVhehehe
+p15
+I1
+sVgo
+p16
+I5
+sVwhats
+p17
+I1
+sVyes
+p18
+I1
+sVstill
+p19
+I3
+sVfeat
+p20
+I1
+sVbatmobile
+p21
+I1
+sVcola
+p22
+I1
+sVaint
+p23
+I7
+sVhov
+p24
+I1
+sVwear
+p25
+I1
+sVjay
+p26
+I1
+sVsomewhere
+p27
+I2
+sVinkpen
+p28
+I1
+sVscribed
+p29
+I1
+sVsend
+p30
+I1
+sVspirit
+p31
+I1
+sVbetter
+p32
+I2
+sVprophets
+p33
+I1
+sVlets
+p34
+I1
+sVdreams
+p35
+I2
+sVrich
+p36
+I1
+sVmoney
+p37
+I1
+sVdrama
+p38
+I1
+sVgabana
+p39
+I1
+sVbread
+p40
+I1
+sVgate
+p41
+I1
+sVoutside
+p42
+I1
+sVdo
+p43
+I1
+sVgood
+p44
+I1
+sVto
+p45
+I1
+sVget
+p46
+I3
+sVread
+p47
+I1
+sVbig
+p48
+I2
+sVbein
+p49
+I2
+sVsittin
+p50
+I3
+sVcrushed
+p51
+I1
+sVuhh
+p52
+I3
+sVheard
+p53
+I1
+sVjoint
+p54
+I2
+sVfive
+p55
+I1
+sVknow
+p56
+I5
+sVswanson
+p57
+I1
+sVprogress
+p58
+I1
+sVpress
+p59
+I2
+sVword
+p60
+I1
+sVnow
+p61
+I2
+sVbullshit
+p62
+I1
+sVprojects
+p63
+I1
+sVname
+p64
+I1
+sVschool
+p65
+I1
+sVlike
+p66
+I3
+sVsuccess
+p67
+I1
+sVdaydream
+p68
+I1
+sVhova
+p69
+I1
+sVeverytime
+p70
+I1
+sVmomma
+p71
+I1
+sVroll
+p72
+I1
+sVcollect
+p73
+I2
+sVpaper
+p74
+I2
+sVsteps
+p75
+I1
+sVtrap
+p76
+I1
+sVman
+p77
+I1
+sVlose
+p78
+I1
+sVmo
+p79
+I1
+sVyall
+p80
+I2
+sVem
+p81
+I1
+sVnigga
+p82
+I4
+sVold
+p83
+I2
+sVweight
+p84
+I1
+sVsmooth
+p85
+I1
+sVstreets
+p86
+I1
+sVyeah
+p87
+I6
+sValive
+p88
+I2
+sVsex
+p89
+I1
+sVsee
+p90
+I2
+sVbooks
+p91
+I1
+sVrhymes
+p92
+I1
+sVhome
+p93
+I1
+sVeven
+p94
+I3
+sVplates
+p95
+I1
+sVsaid
+p96
+I1
+sVmissed
+p97
+I1
+sVpurple
+p98
+I1
+sVfact
+p99
+I1
+sVriiiiiiide
+p100
+I2
+sVthough
+p101
+I3
+sVplease
+p102
+I1
+sVforty
+p103
+I1
+sVhehe
+p104
+I2
+sVlabel
+p105
+I1
+sVholdin
+p106
+I1
+sVwoo
+p107
+I1
+sVexperiment
+p108
+I1
+sVsneakers
+p109
+I1
+sVdiamonds
+p110
+I1
+sVgot
+p111
+I5
+sVcause
+p112
+I1
+sVtold
+p113
+I3
+sVbody
+p114
+I1
+sVima
+p115
+I1
+sVwe
+p116
+I1
+sVwelcome
+p117
+I1
+sVmonster
+p118
+I1
+sVright
+p119
+I2
+sVcars
+p120
+I1
+sVdeliver
+p121
+I1
+sVlittle
+p122
+I1
+sVhere
+p123
+I3
+sVexplore
+p124
+I1
+sVobjects
+p125
+I1
+sVlet
+p126
+I2
+sVnowhere
+p127
+I1
+sVput
+p128
+I3
+sVcousin
+p129
+I1
+sVcome
+p130
+I1
+sVlegend
+p131
+I1
+sVwait
+p132
+I1
+sVboy
+p133
+I2
+sVprospects
+p134
+I1
+sVkids
+p135
+I2
+sVsingin
+p136
+I1
+sVkeep
+p137
+I2
+sVhustlers
+p138
+I1
+sVerything
+p139
+I1
+sVsoda
+p140
+I1
+sVusually
+p141
+I1
+sVweird
+p142
+I1
+sVwhole
+p143
+I2
+sVcaught
+p144
+I1
+sVsouth
+p145
+I1
+sVthats
+p146
+I2
+sVwritin
+p147
+I1
+sVletters
+p148
+I1
+sVdont
+p149
+I3
+sVfamily
+p150
+I1
+sVlil
+p151
+I1
+sVone
+p152
+I1
+sVfeet
+p153
+I1
+sVknowwwwww
+p154
+I2
+sVjayz
+p155
+I1
+sVdigressed
+p156
+I1
+sVtropez
+p157
+I1
+sVcrates
+p158
+I1
+sVcomin
+p159
+I1
+sVoperator
+p160
+I1
+sVraw
+p161
+I1
+sVnuttin
+p162
+I1
+sVuhhuh
+p163
+I8
+sVforget
+p164
+I1
+sVblunts
+p165
+I1
+sVfuck
+p166
+I1
+sVwan
+p167
+I6
+sVfed
+p168
+I1
+sVround
+p169
+I1
+sVchillin
+p170
+I1
+sVwould
+p171
+I2
+sVemory
+p172
+I4
+sVstretch
+p173
+I1
+sVtop
+p174
+I2
+sVtata
+p175
+I1
+sVspots
+p176
+I1
+sVcoupe
+p177
+I1
+sVopus
+p178
+I1
+sVlive
+p179
+I1
+sVcall
+p180
+I3
+sVkingpin
+p181
+I1
+sVway
+p182
+I1
+sVmama
+p183
+I1
+sVhamptons
+p184
+I1
+sVwhite
+p185
+I2
+sVjohn
+p186
+I1
+sVheh
+p187
+I1
+sVmary
+p188
+I1
+sVeyes
+p189
+I2
+sVairwaves
+p190
+I1
+sVon
+p191
+I1
+sVstarted
+p192
+I2
+sVslingin
+p193
+I1
+sVcoke
+p194
+I1
+sVcrushin
+p195
+I1
+sVhits
+p196
+I1
+sVpotent
+p197
+I1
+sVmarijuana
+p198
+I1
+sVdelivery
+p199
+I1
+sVcops
+p200
+I1
+sVgettin
+p201
+I1
+sVhear
+p202
+I1
+sVyachts
+p203
+I1
+sVbaby
+p204
+I3
+sVmellow
+p205
+I1
+sVhold
+p206
+I1
+sVeat
+p207
+I1
+sVgeah
+p208
+I2
+sVme
+p209
+I6
+sVtrek
+p210
+I1
+sVmade
+p211
+I3
+sVcouple
+p212
+I1
+sVlook
+p213
+I1
+sVplaces
+p214
+I4
+sVtokyo
+p215
+I1
+sVdouble
+p216
+I1
+sVride
+p217
+I7
+sVj
+I1
+sVmtv
+p218
+I1
+sVknowwwww
+p219
+I2
+sVus
+p220
+I4
+sVproject
+p221
+I2
+sVmatter
+p222
+I1
+sVmaybach
+p223
+I1
+sVcase
+p224
+I2
+sVhenry
+p225
+I1
+sVfun
+p226
+I1
+sVabout
+p227
+I1
+sVhomey
+p228
+I1
+sVdidnt
+p229
+I1
+sVbet
+p230
+I2
+sVsponsor
+p231
+I1
+sVup
+p232
+I2
+sVcmon
+p233
+I2
+sVreserved
+p234
+I2
+sVsan
+p235
+I1
+sVgive
+p236
+I2
+sVsidestep
+p237
+I1
+sVmind
+p238
+I1
+sVhead
+p239
+I1
+sVaccept
+p240
+I1
+sVpinky
+p241
+I1
+sVfly
+p242
+I2
+sVcant
+p243
+I4
+sVim
+p244
+I4
+sVniggaz
+p245
+I4
+sVplayin
+p246
+I1
+sVtake
+p247
+I1
+sVshit
+p248
+I5
+sVlivin
+p249
+I1
+sVphantom
+p250
+I1
+sVsir
+p251
+I1
+sVtalked
+p252
+I2
+sVwant
+p253
+I1
+sVguru
+p254
+I1
+sVvibe
+p255
+I2
+sVna
+p256
+I5
+sVjuan
+p257
+I1
+sVwrite
+p258
+I1
+sVya
+p259
+I1
+sVcomes
+p260
+I1
+sVworry
+p261
+I1
+sVboats
+p262
+I1
+sVso
+p263
+I1
+sVsneakin
+p264
+I1
+sVgets
+p265
+I2
+sVbeach
+p266
+I2
+sVgrammys
+p267
+I1
+sVnice
+p268
+I1
+sVblue
+p269
+I1
+sVdez
+p270
+I1
+sVtried
+p271
+I1
+sVsingapore
+p272
+I1
+sVtye
+p273
+I1
+sVobject
+p274
+I1
+sVspot
+p275
+I2
+sVdiet
+p276
+I1
+sVcigarette
+p277
+I1
+sVgon
+p278
+I2
+sVbut
+p279
+I1
+sVdate
+p280
+I1
+sVend
+p281
+I1
+sVfriends
+p282
+I1
+sVlebron
+p283
+I1
+sVjones
+p284
+I3
+sVtivo
+p285
+I1
+sVtil
+p286
+I1
+sVpointin
+p287
+I1
+sVmarathon
+p288
+I1
+sVcharges
+p289
+I1
+sVmakes
+p290
+I1
+sVyoure
+p291
+I1
+sVlost
+p292
+I1
+sVthought
+p293
+I1
+sVlinen
+p294
+I1
+sVu
+I2
+sVtemp
+p295
+I1
+sVho
+p296
+I1
+sVsun
+p297
+I1
+sVinternational
+p298
+I1
+sVtalk
+p299
+I1
+sVsongs
+p300
+I1
+s.

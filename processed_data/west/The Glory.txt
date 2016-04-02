@@ -1,122 +1,644 @@
-glory lyrics
-kanye west lyrics
-glory
-got fury soul
-furys gonna take glory goal
-mind cant study war more
-gonna take glory
-oh cant study war
-yeah
-cant study war
-no
-cant study war
-yeah
-cant study war
-uh
-cant study war
-south side
-cant study war
-uh uh uh
-cant study war
-west side
-cant study war
-yep
-cant study war
-uh
-talk shit again
-even dont hit again
-dog fucking kidding
-hat shoes coat louis vuitton stitch donatello versace
-thats louis vuitton bitch
-think hennessy drank im gone bacardi lemon corona im zoning
-class back session upt grade
-two years dwayne wayne became dwyane wade
-a
-please dont start me
-im like gnarls barkley meets charles barkley
-im pop barkers im hood like parkers
-limbo raised bar up
-touched everything
-married game rock chain stead wedding ring
-brides maids catch garter
-nights romance
-cameras flash much
-gotta yayo dance
-im world tour common man
-every show couple dykes van
-easy
-hood love listen jeezy weezy o yeah yeezy
-glory
-cant study war
-no
-cant study war
-no
-glory
-cant study war
-no
-cant study war
-glory
-cant study war
-cant study war
-cant study war
-glory
-cant study war
-cant study war
-glory
-no
-cant study war
-uh
-supposed now
-man game messed up
-suppose stand everyone get dressed up
-yeah grammies went ultra travolta
-yeah tuxedo might little gweedo
-ego stand speedo
-still looked like fucking hero
-glory story chain polo nike chronic
-empty bottles dos
-tank empty whipping mammas volvo
-spent gas money clothes logos
-furrest man shit dont floss
-goyard hard man im hugos boss
-gotta ask door cost
-house hill
-two doors tracey ross
-im asking girlfriends yeah dark skinned ones
-asking speed boats yeah admit rented em
-meet person feel like
-know know look better real life
-hear people compare big lot
-know big pac know get hot
-guess live wanna compared big
-anyone big pun big l notorious
-fit in
-get money stunt stay glorious
-im gonna start killin niggas soon chorus hit
-cant study war
-yeah im gonna start killin niggas soon chorus hit
-cant study war
-no
-uh
-haters killing wanna come get glory
-cant study war
-cant study war
-uh
-cant study war
-glory
-cant study war
-cant study war
-uh ha
-cant study war
-cant study war
-south side
-cant study war
-cant study war
-yeah
-west side
-cant study war
-yeah
-cant study war
-no
-cant study war
-no
+(dp1
+Vshoes
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVdance
+p5
+I1
+sVmoney
+p6
+I2
+sVcharles
+p7
+I1
+sVdwyane
+p8
+I1
+sVsoon
+p9
+I2
+sVyears
+p10
+I1
+sVbacardi
+p11
+I1
+sVsession
+p12
+I1
+sVstunt
+p13
+I1
+sVyep
+p14
+I1
+sVstill
+p15
+I1
+sVspeed
+p16
+I1
+sVmessed
+p17
+I1
+sVha
+p18
+I1
+sVchain
+p19
+I2
+sVfit
+p20
+I1
+sVmuch
+p21
+I1
+sVflash
+p22
+I1
+sVbetter
+p23
+I1
+sVfeel
+p24
+I1
+sVwayne
+p25
+I1
+sVtouched
+p26
+I1
+sVeasy
+p27
+I1
+sVhat
+p28
+I1
+sVlimbo
+p29
+I1
+sVta
+p30
+I2
+sVreal
+p31
+I1
+sVhit
+p32
+I3
+sVget
+p33
+I4
+sVbig
+p34
+I5
+sVcouple
+p35
+I1
+sVversace
+p36
+I1
+sVzoning
+p37
+I1
+sVjeezy
+p38
+I1
+sVdark
+p39
+I1
+sVgame
+p40
+I2
+sVones
+p41
+I1
+sVevery
+p42
+I1
+sVknow
+p43
+I4
+sVwedding
+p44
+I1
+sVworld
+p45
+I1
+sVnow
+p46
+I1
+sVbar
+p47
+I1
+sVlike
+p48
+I4
+sVmammas
+p49
+I1
+sVlouis
+p50
+I2
+sVgnarls
+p51
+I1
+sVl
+I1
+sVchorus
+p52
+I2
+sVstead
+p53
+I1
+sVcommon
+p54
+I1
+sVtracey
+p55
+I1
+sVrock
+p56
+I1
+sVnotorious
+p57
+I1
+sVupt
+p58
+I1
+sVside
+p59
+I4
+sVclothes
+p60
+I1
+sVem
+p61
+I1
+sVmarried
+p62
+I1
+sVpeople
+p63
+I1
+sVfucking
+p64
+I2
+sVhouse
+p65
+I1
+sVhard
+p66
+I1
+sVyeah
+p67
+I10
+sVsoul
+p68
+I1
+sVgoyard
+p69
+I1
+sVcost
+p70
+I1
+sVkanye
+p71
+I1
+sVbarkers
+p72
+I1
+sVguess
+p73
+I1
+sVfurrest
+p74
+I1
+sVeven
+p75
+I1
+sVgon
+p76
+I4
+sVstitch
+p77
+I1
+sVgweedo
+p78
+I1
+sVcameras
+p79
+I1
+sVplease
+p80
+I1
+sVkilling
+p81
+I1
+sVeverything
+p82
+I1
+sVfloss
+p83
+I1
+sVasking
+p84
+I2
+sVhill
+p85
+I1
+sVgot
+p86
+I3
+sVhugos
+p87
+I1
+sVsupposed
+p88
+I1
+sVpun
+p89
+I1
+sVweezy
+p90
+I1
+sVhero
+p91
+I1
+sVnike
+p92
+I1
+sVstory
+p93
+I1
+sVtravolta
+p94
+I1
+sVdonatello
+p95
+I1
+sVask
+p96
+I1
+sVross
+p97
+I1
+sVboss
+p98
+I1
+sVcome
+p99
+I1
+sVwent
+p100
+I1
+sVvuitton
+p101
+I2
+sVspeedo
+p102
+I1
+sVultra
+p103
+I1
+sVoh
+p104
+I1
+sVstudy
+p105
+I34
+sVo
+I1
+sVtour
+p106
+I1
+sVbecame
+p107
+I1
+sVstand
+p108
+I2
+sVbrides
+p109
+I1
+sVyeezy
+p110
+I1
+sVthink
+p111
+I1
+sVsouth
+p112
+I2
+sVthats
+p113
+I1
+sVraised
+p114
+I1
+sVlove
+p115
+I1
+sVdont
+p116
+I3
+sVgrade
+p117
+I1
+sVtuxedo
+p118
+I1
+sVpop
+p119
+I1
+sVchronic
+p120
+I1
+sVeveryone
+p121
+I1
+sVbitch
+p122
+I1
+sVpolo
+p123
+I1
+sVwade
+p124
+I1
+sVring
+p125
+I1
+sVdwayne
+p126
+I1
+sVhood
+p127
+I2
+sVrented
+p128
+I1
+sVwan
+p129
+I2
+sVlittle
+p130
+I1
+sVkillin
+p131
+I2
+sVvan
+p132
+I1
+sVwest
+p133
+I3
+sVwhipping
+p134
+I1
+sVtwo
+p135
+I2
+sVkidding
+p136
+I1
+sVanyone
+p137
+I1
+sVstart
+p138
+I3
+sVlive
+p139
+I1
+sVdrank
+p140
+I1
+sVlot
+p141
+I1
+sVparkers
+p142
+I1
+sVwar
+p143
+I34
+sVempty
+p144
+I2
+sVmore
+p145
+I1
+sVlife
+p146
+I1
+sVdoor
+p147
+I1
+sVgas
+p148
+I1
+sVhennessy
+p149
+I1
+sVgirlfriends
+p150
+I1
+sVback
+p151
+I1
+sVhear
+p152
+I1
+sVcatch
+p153
+I1
+sVdressed
+p154
+I1
+sVhaters
+p155
+I1
+sVyayo
+p156
+I1
+sVme
+p157
+I1
+sVlogos
+p158
+I1
+sVtank
+p159
+I1
+sVlook
+p160
+I1
+sVglory
+p161
+I12
+sVniggas
+p162
+I2
+sVmight
+p163
+I1
+sVup
+p164
+I3
+sVvolvo
+p165
+I1
+sVsuppose
+p166
+I1
+sVuh
+p167
+I9
+sVmeet
+p168
+I1
+sVlisten
+p169
+I1
+sVdykes
+p170
+I1
+sVgone
+p171
+I1
+sVcompare
+p172
+I1
+sVfury
+p173
+I1
+sVgarter
+p174
+I1
+sVmind
+p175
+I1
+sVspent
+p176
+I1
+sVcant
+p177
+I34
+sVim
+p178
+I10
+sVin
+p179
+I1
+sVshit
+p180
+I2
+sVagain
+p181
+I2
+sVnights
+p182
+I1
+sVlemon
+p183
+I1
+sVgoal
+p184
+I1
+sVno
+p185
+I8
+sVna
+p186
+I6
+sVadmit
+p187
+I1
+sVgrammies
+p188
+I1
+sVromance
+p189
+I1
+sVhot
+p190
+I1
+sVpac
+p191
+I1
+sVtake
+p192
+I2
+sVdoors
+p193
+I1
+sVboats
+p194
+I1
+sVmeets
+p195
+I1
+sVskinned
+p196
+I1
+sVstay
+p197
+I1
+sVfurys
+p198
+I1
+sVcompared
+p199
+I1
+sVbottles
+p200
+I1
+sVclass
+p201
+I1
+sVman
+p202
+I4
+sVa
+I1
+sVcoat
+p203
+I1
+sVbarkley
+p204
+I2
+sVdog
+p205
+I1
+sVcorona
+p206
+I1
+sVlooked
+p207
+I1
+sVperson
+p208
+I1
+sVego
+p209
+I1
+sVglorious
+p210
+I1
+sVmaids
+p211
+I1
+sVdos
+p212
+I1
+sVtalk
+p213
+I1
+s.

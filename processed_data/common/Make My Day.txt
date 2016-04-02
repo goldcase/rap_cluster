@@ -1,62 +1,361 @@
-"make my day" lyrics
-common lyrics
-"make my day"
-(feat. cee-lo)
-ahh the sun is shining brighter cause you really make my day
-you really make my day
-ohhh oh oh
-yeah i think i like her cause she really makes my day
-yeah she really makes my day
-ohhh oh oh
-(ohhh oh oh) see her on the beach she was wrappped in a towel
-her bodys going down see her ass crack to smile
-enjoying the nile (woo) take it the breeze
-or some cat a mouse
-and she was the cheese on the sun keys
-yeah on a conversation
-california dreamin now california-cation
-said she had drinks in the coller and i had an inventation if i wanted i could brewer this is just an invdication on
-how cool she was
-a couple of chicks came
-groupie love
-they aint want no pictures
-im think damn damn thats really cool because sometimes i wannta chill sometimes the best things in life are not even planned
-came to the sand and got more than a tan
-baby girl im a man
-and we can do this my way
-take a ride on the highway and pretend that its friday
-ahh the sun is shining brighter cause you really make my day
-you really make my day
-ohhh oh oh
-yeah i think i like her cause she really makes my day
-yeah she really makes my day
-ohhh oh oh
-(ohhh) she was at a bar-b-que
-pretty painted nails she took off her shoes
-grammer school
-sippin on some l thinking man shes cool
-sun smiling on her hair
-playing spades and we can be a pair
-i love it when its sunny girl
-you could be my cher
-inderpendence day and freedoms in the air
-dance and danced away yo
-showing steppin like a tango
-like me, got me
-sweet as icy spicy
-drip from my lips
-we can do something hip
-trip around the world in a day
-play phonia a
-ahh the sun is shining brighter cause you really make my day
-you really make my day
-ohhh oh oh
-yeah i think i like her cause she really makes my day
-yeah she really makes my day
-ohhh oh oh
-ahh the sun is shining brighter cause you really make my day
-you really make my day
-ohhh oh oh
-yeah i think i like her cause she really makes my day
-yeah she really makes my day
-ohhh oh oh
+(dp1
+Vchicks
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVworld
+p6
+I1
+sVsmiling
+p7
+I1
+sVfeat
+p8
+I1
+sVaint
+p9
+I1
+sVthinking
+p10
+I1
+sVicy
+p11
+I1
+sVbrighter
+p12
+I4
+sVgoing
+p13
+I1
+sVpretty
+p14
+I1
+sVcrack
+p15
+I1
+sVohhh
+p16
+I10
+sVenjoying
+p17
+I1
+sVhip
+p18
+I1
+sVaround
+p19
+I1
+sVyo
+p20
+I1
+sVcouple
+p21
+I1
+sVsunny
+p22
+I1
+sVbarbque
+p23
+I1
+sVday
+p24
+I20
+sVcool
+p25
+I3
+sVschool
+p26
+I1
+sVtowel
+p27
+I1
+sVlike
+p28
+I6
+sVceelo
+p29
+I1
+sVcause
+p30
+I8
+sVl
+I1
+sVphonia
+p31
+I1
+sVsand
+p32
+I1
+sVcommon
+p33
+I1
+sVass
+p34
+I1
+sVcher
+p35
+I1
+sVyeah
+p36
+I9
+sVhair
+p37
+I1
+sVsee
+p38
+I2
+sVsteppin
+p39
+I1
+sVshes
+p40
+I1
+sVgirl
+p41
+I2
+sVair
+p42
+I1
+sVbest
+p43
+I1
+sVreally
+p44
+I17
+sVeven
+p45
+I1
+sVsaid
+p46
+I1
+sVsun
+p47
+I6
+sVaway
+p48
+I1
+sVwoo
+p49
+I1
+sVgot
+p50
+I2
+sVgroupie
+p51
+I1
+sVhighway
+p52
+I1
+sVwrappped
+p53
+I1
+sVcaliforniacation
+p54
+I1
+sVcoller
+p55
+I1
+sVnails
+p56
+I1
+sVfriday
+p57
+I1
+sVcalifornia
+p58
+I1
+sVwanted
+p59
+I1
+sVoh
+p60
+I18
+sVcould
+p61
+I2
+sVnile
+p62
+I1
+sVconversation
+p63
+I1
+sVplanned
+p64
+I1
+sVmakes
+p65
+I8
+sVthink
+p66
+I5
+sVthats
+p67
+I1
+sVcheese
+p68
+I1
+sVlove
+p69
+I2
+sVdanced
+p70
+I1
+sVsweet
+p71
+I1
+sVahh
+p72
+I4
+sVinvdication
+p73
+I1
+sVfreedoms
+p74
+I1
+sVtango
+p75
+I1
+sVdreamin
+p76
+I1
+sVdamn
+p77
+I2
+sVway
+p78
+I1
+sVbodys
+p79
+I1
+sVlife
+p80
+I1
+sVspicy
+p81
+I1
+sVpainted
+p82
+I1
+sVtook
+p83
+I1
+sVsmile
+p84
+I1
+sVbaby
+p85
+I1
+sVchill
+p86
+I1
+sVgrammer
+p87
+I1
+sVride
+p88
+I1
+sVpretend
+p89
+I1
+sVlips
+p90
+I1
+sVcat
+p91
+I1
+sVbrewer
+p92
+I1
+sVim
+p93
+I2
+sVsomething
+p94
+I1
+sVwant
+p95
+I1
+sVtan
+p96
+I1
+sVmouse
+p97
+I1
+sVtrip
+p98
+I1
+sVwannta
+p99
+I1
+sVthings
+p100
+I1
+sVmake
+p101
+I10
+sVtake
+p102
+I2
+sVshining
+p103
+I4
+sVbeach
+p104
+I1
+sVshowing
+p105
+I1
+sVplay
+p106
+I1
+sVkeys
+p107
+I1
+sVsippin
+p108
+I1
+sVpair
+p109
+I1
+sVman
+p110
+I2
+sVspades
+p111
+I1
+sVsometimes
+p112
+I2
+sVdrinks
+p113
+I1
+sVdrip
+p114
+I1
+sVbreeze
+p115
+I1
+sVinderpendence
+p116
+I1
+sVpictures
+p117
+I1
+sVinventation
+p118
+I1
+sVplaying
+p119
+I1
+sVcame
+p120
+I2
+s.

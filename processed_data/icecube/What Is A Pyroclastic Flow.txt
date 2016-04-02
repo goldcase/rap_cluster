@@ -1,11 +1,83 @@
-"what is a pyroclastic flow?" lyrics
-ice cube lyrics
-"what is a pyroclastic flow?"
-(feat. keith david)
-what's the definition of a pyroclastic flow?
-that's what happens when a volcano blow
-that's what happens when ice cube starts to flow
-red hot lava mixed with salava
-pulvarising everything in it's wake
-nothing can survive a pyroclastic flow
-and noone will survive this one
+(dp1
+Vwhats
+p2
+I1
+sVlyrics
+p3
+I2
+sVone
+p4
+I1
+sVlava
+p5
+I1
+sVfeat
+p6
+I1
+sVblow
+p7
+I1
+sVpulvarising
+p8
+I1
+sVice
+p9
+I2
+sVeverything
+p10
+I1
+sVhot
+p11
+I1
+sVsurvive
+p12
+I2
+sVred
+p13
+I1
+sVhappens
+p14
+I2
+sVcube
+p15
+I2
+sVwake
+p16
+I1
+sVnothing
+p17
+I1
+sVkeith
+p18
+I1
+sVpyroclastic
+p19
+I4
+sVdefinition
+p20
+I1
+sVstarts
+p21
+I1
+sVnoone
+p22
+I1
+sVflow
+p23
+I5
+sVdavid
+p24
+I1
+sVsalava
+p25
+I1
+sVmixed
+p26
+I1
+sVvolcano
+p27
+I1
+sVthats
+p28
+I2
+s.

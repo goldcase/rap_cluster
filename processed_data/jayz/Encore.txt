@@ -1,77 +1,700 @@
-"encore" lyrics
-jay-z lyrics
-"encore"
-thank you, thank you, thank you, you're far too kind
-now can i get an encore, do you want more
-cookin raw with the brooklyn boy
-so for one last time i need y'all to roar
-now what the hell are you waitin for
-after me, there shall be no more
-so for one last time, nigga make some noise
-who you know fresher than hov'?  riddle me that
-the rest of y'all know where i'm lyrically at
-can't none of y'all mirror me back
-yeah hearin me rap is like hearin g. rap in his prime
-i'm, young h.o., rap's grateful dead
-back to take over the globe, now break bread
-i'm in, boeing jets, global express
-out the country but the blueberry still connect
-on the low but the yacht got a triple deck
-but when you young, what the fuck you expect?  yep, yep
-grand openin, grand closin
-god damn your man hov' cracked the can open again
-who you gon' find doper than him with no pen
-just draw off inspiration
-soon you gon' see you can't replace him
-with cheap imitations for dese generations
-{what the hell are you waiting forrrr?}
-look what you made me do, look what i made for you
-knew if i paid my dues, how will they pay you
-when you first come in the game, they try to play you
-then you drop a couple of hits, look how they wave to you
-from marcy to madison square
-to the only thing that matters in just a matter of years (yea)
-as fate would have it, jay's status appears
-to be at an all-time high, perfect time to say goodbye
-when i come back like jordan, wearin the 4-5
-it ain't to play games witchu
-it's to aim at you, probably maim you
-if i owe you i'm blowin you to smithereeens
-cocksucker take one for your team
-and i need you to remember one thing (one thing)
-i came, i saw, i conquered
-from record sales, to sold out concerts
-so muh'fucker if you want this encore
-i need you to scream, 'til your lungs get sore
-owwww!  it's star time
-this man is made!  he's killin all y'all jive turkeys
-do y'all want more of the jigga man?
-well if y'all want more of the jigga man
-then i need y'all to help me, bring him back to stage
-say hova, c'mon say it!
-ho-va!  ho-va!  are y'all out there?
-are y'all out there?  c'mon, louder!
-yeah, now see that's what i'm talkin bout
-they love you jigga - they love you jigga!
-i like the way this one feel
-it's so muh'fuckin soulful man!
-(whoaaaaaahhhh, whoahhhhhhhhhhhhh, whoahhhhhhhhhhhhh)
-yeah  okay
-so this here is the victory lap
-then i'm lea-vin, that's how you get me back
-after a year of them 16's, it's one point two
-and that's two point four, and i'm only doin two
-you wanted to gain attention new dudes
-i can get you bet and trl too
-you wanna be in the public, send your budget
-well fuck it, i ain't budgin!
-young did it to death, you gotta love it
-record companies told me i couldn't cut it
-now look at me, all star-studded
-golfer above par like i putted
-all cause the shit i uttered, was utterly ridiculous
-how sick is this?
-you want to bang, send kanye change, send just some dust
-send hip a grip, then you got' spit
-a little somethin like this, woo!
-{what the hell are you waiting forrrr?}
+(dp1
+Vmadison
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVdeck
+p5
+I1
+sVyea
+p6
+I1
+sVtoo
+p7
+I1
+sVglobal
+p8
+I1
+sVcheap
+p9
+I1
+sVsoon
+p10
+I1
+sVrest
+p11
+I1
+sVyears
+p12
+I1
+sVfour
+p13
+I1
+sVbring
+p14
+I1
+sVgrateful
+p15
+I1
+sVhell
+p16
+I3
+sVstill
+p17
+I1
+sVfind
+p18
+I1
+sVmuhfuckin
+p19
+I1
+sVperfect
+p20
+I1
+sVtil
+p21
+I1
+sVdeath
+p22
+I1
+sVthank
+p23
+I3
+sVblowin
+p24
+I1
+sVyoung
+p25
+I3
+sVknew
+p26
+I1
+sVfeel
+p27
+I1
+sVmaim
+p28
+I1
+sVbout
+p29
+I1
+sVta
+p30
+I1
+sVhip
+p31
+I1
+sVbudgin
+p32
+I1
+sVdust
+p33
+I1
+sVtriple
+p34
+I1
+sVget
+p35
+I4
+sVfar
+p36
+I1
+sVcouple
+p37
+I1
+sVexpress
+p38
+I1
+sVkind
+p39
+I1
+sVwave
+p40
+I1
+sVbreak
+p41
+I1
+sVmatters
+p42
+I1
+sVgame
+p43
+I1
+sVmade
+p44
+I3
+sVsales
+p45
+I1
+sVknow
+p46
+I2
+sVprobably
+p47
+I1
+sVdese
+p48
+I1
+sVreplace
+p49
+I1
+sVhim
+p50
+I1
+sVbread
+p51
+I1
+sVprime
+p52
+I1
+sVspit
+p53
+I1
+sVlike
+p54
+I5
+sVcause
+p55
+I1
+sVdrop
+p56
+I1
+sVcompanies
+p57
+I1
+sVtry
+p58
+I1
+sVvictory
+p59
+I1
+sVteam
+p60
+I1
+sValltime
+p61
+I1
+sVrecord
+p62
+I2
+sVconcerts
+p63
+I1
+sVyall
+p64
+I9
+sVstatus
+p65
+I1
+sVwhoahhhhhhhhhhhhh
+p66
+I2
+sVnigga
+p67
+I1
+sVowwww
+p68
+I1
+sVwoo
+p69
+I1
+sVglobe
+p70
+I1
+sVback
+p71
+I5
+sVdead
+p72
+I1
+sVbudget
+p73
+I1
+sVsee
+p74
+I2
+sVlouder
+p75
+I1
+sVconnect
+p76
+I1
+sVmirror
+p77
+I1
+sVokay
+p78
+I1
+sVtrl
+p79
+I1
+sVgon
+p80
+I2
+sVbet
+p81
+I1
+sVfor
+p82
+I1
+sVwaiting
+p83
+I2
+sVgod
+p84
+I1
+sVdoper
+p85
+I1
+sVpen
+p86
+I1
+sVit
+p87
+I3
+sVgot
+p88
+I3
+sVputted
+p89
+I1
+sVpublic
+p90
+I1
+sVtold
+p91
+I1
+sVwitchu
+p92
+I1
+sVaint
+p93
+I2
+sVnoise
+p94
+I1
+sVwanted
+p95
+I1
+sVsold
+p96
+I1
+sVattention
+p97
+I1
+sVcut
+p98
+I1
+sVlyrically
+p99
+I1
+sVjets
+p100
+I1
+sVforrrr
+p101
+I2
+sVcome
+p102
+I2
+sVappears
+p103
+I1
+sVchange
+p104
+I1
+sVcookin
+p105
+I1
+sVboy
+p106
+I1
+sVhits
+p107
+I1
+sVuttered
+p108
+I1
+sVlast
+p109
+I2
+sVg
+I1
+sVroar
+p110
+I1
+sVcountry
+p111
+I1
+sVthing
+p112
+I3
+sVgames
+p113
+I1
+sVgenerations
+p114
+I1
+sVconquered
+p115
+I1
+sVfirst
+p116
+I1
+sVriddle
+p117
+I1
+sVlove
+p118
+I3
+sVpoint
+p119
+I2
+sVowe
+p120
+I1
+sVdudes
+p121
+I1
+sVone
+p122
+I7
+sVna
+p123
+I1
+sVjayz
+p124
+I1
+sVsquare
+p125
+I1
+sVsend
+p126
+I4
+sVcouldnt
+p127
+I1
+sVjays
+p128
+I1
+sVopen
+p129
+I1
+sVstage
+p130
+I1
+sV16s
+p131
+I1
+sVwan
+p132
+I1
+sVlittle
+p133
+I1
+sVkillin
+p134
+I1
+sVyep
+p135
+I2
+sVturkeys
+p136
+I1
+sVwould
+p137
+I1
+sVhes
+p138
+I1
+sVtwo
+p139
+I3
+sVdamn
+p140
+I1
+sVlow
+p141
+I1
+sVway
+p142
+I1
+sVjive
+p143
+I1
+sVman
+p144
+I5
+sVblueberry
+p145
+I1
+sVmore
+p146
+I2
+sVkanye
+p147
+I1
+sVlungs
+p148
+I1
+sVthat
+p149
+I1
+sVyeah
+p150
+I3
+sVsore
+p151
+I1
+sVridiculous
+p152
+I1
+sVjordan
+p153
+I1
+sVho
+p154
+I1
+sVsmithereeens
+p155
+I1
+sVplay
+p156
+I2
+sVnone
+p157
+I1
+sVhearin
+p158
+I2
+sVlook
+p159
+I4
+sVwearin
+p160
+I1
+sVthis
+p161
+I1
+sVsay
+p162
+I3
+sVaim
+p163
+I1
+sVmatter
+p164
+I1
+sVstarstudded
+p165
+I1
+sVcracked
+p166
+I1
+sVdues
+p167
+I1
+sVencore
+p168
+I4
+sVexpect
+p169
+I1
+sVgrip
+p170
+I1
+sVcmon
+p171
+I2
+sVwant
+p172
+I5
+sVfresher
+p173
+I1
+sVraps
+p174
+I1
+sVwell
+p175
+I2
+sVyear
+p176
+I1
+sVfuck
+p177
+I2
+sVhigh
+p178
+I1
+sVraw
+p179
+I1
+sVcant
+p180
+I2
+sVim
+p181
+I7
+sVat
+p182
+I1
+sVrap
+p183
+I2
+sVneed
+p184
+I4
+sVsaw
+p185
+I1
+sVcocksucker
+p186
+I1
+sVshit
+p187
+I1
+sVagain
+p188
+I1
+sVpar
+p189
+I1
+sVfate
+p190
+I1
+sVjigga
+p191
+I4
+sVpay
+p192
+I1
+sVmake
+p193
+I1
+sV45
+p194
+I1
+sVimitations
+p195
+I1
+sVhov
+p196
+I2
+sVwhoaaaaaahhhh
+p197
+I1
+sVtake
+p198
+I2
+sVsick
+p199
+I1
+sVgrand
+p200
+I2
+sVnew
+p201
+I1
+sVyou
+p202
+I5
+sVhova
+p203
+I3
+sVtalkin
+p204
+I1
+sVwaitin
+p205
+I1
+sVdraw
+p206
+I1
+sVleavin
+p207
+I1
+sVstar
+p208
+I1
+sVshall
+p209
+I1
+sVdoin
+p210
+I1
+sVopenin
+p211
+I1
+sVpaid
+p212
+I1
+sVsoulful
+p213
+I1
+sVbrooklyn
+p214
+I1
+sVutterly
+p215
+I1
+sVmuhfucker
+p216
+I1
+sVclosin
+p217
+I1
+sVlap
+p218
+I1
+sVgain
+p219
+I1
+sVinspiration
+p220
+I1
+sVsomethin
+p221
+I1
+sVboeing
+p222
+I1
+sVremember
+p223
+I1
+sVyoure
+p224
+I1
+sVyacht
+p225
+I1
+sVbang
+p226
+I1
+sVgolfer
+p227
+I1
+sVgoodbye
+p228
+I1
+sVtime
+p229
+I4
+sVthats
+p230
+I3
+sVscream
+p231
+I1
+sVcame
+p232
+I1
+sVmarcy
+p233
+I1
+s.

@@ -1,12 +1,119 @@
-"tonya (skit)" lyrics
-eminem lyrics
-"tonya (skit)"
-hey! hey, stop, hey. please stop, fuck stop!
-thank god you stopped.
-fuck, my fucking on star isn't working,  i left my fucking phone at home!
-god, i've been standing out here for like, an hour i'n soaking wet, freezing
-thank you so much. really, you're a life-saver what are you doing?
-fucking! get away from me! what the fuck! fuckin asshole!
-get away from me you motherfucker! get away!
-get away you fuckin freak! get away from me!
-goddamit fuck! help me!
+(dp1
+Vive
+p2
+I1
+sVfreak
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVfucking
+p6
+I3
+sVskit
+p7
+I2
+sVisnt
+p8
+I1
+sVhome
+p9
+I1
+sVreally
+p10
+I1
+sVstanding
+p11
+I1
+sVthank
+p12
+I2
+sVworking
+p13
+I1
+sVgoddamit
+p14
+I1
+sVgod
+p15
+I2
+sVaway
+p16
+I5
+sVplease
+p17
+I1
+sVhey
+p18
+I3
+sVtonya
+p19
+I2
+sVdoing
+p20
+I1
+sVmuch
+p21
+I1
+sVwet
+p22
+I1
+sVasshole
+p23
+I1
+sVstar
+p24
+I1
+sVget
+p25
+I5
+sVfreezing
+p26
+I1
+sVstop
+p27
+I3
+sVmotherfucker
+p28
+I1
+sVfuck
+p29
+I4
+sVphone
+p30
+I1
+sVeminem
+p31
+I1
+sVme
+p32
+I1
+sVlifesaver
+p33
+I1
+sVlike
+p34
+I1
+sVhour
+p35
+I1
+sVyoure
+p36
+I1
+sVstopped
+p37
+I1
+sVsoaking
+p38
+I1
+sVfuckin
+p39
+I2
+sVleft
+p40
+I1
+s.

@@ -1,71 +1,320 @@
-"panic zone" lyrics
-n.w.a. lyrics
-"panic zone"
-(feat. egyptian lover)
-panic zone, don't get your girl in here
-a way out in here, a way out in here
-a way out in here, a way out in here
-a way out in here, a way out in here
-a way out in here, a way out in here
-panic zone, don't get your girl in here
-panic zone, don't get your girl in here
-panic zone, don't get your girl
-it's called the panic zone
-(the panic zone!) that's right the panic zone
-some people call it torture, but it's where we call home
-(we are the renegades of this territory, and you're the prey)
-i'm the arabian prince (and we're n.w.a.)
-don't interfere with the sound you here
-cause it's a dangerous groove
-i'm in control of your mind and soul
-don't be afraid, just bust the moves
-so out your home, you're on your own
-in the land of the unknown
-it's the darkside, the dirty-side
-it's called the panic zone
-do not attempt to adjust your radio; there is nothing wrong
-the underworld is taking control
-we're not only in dimension of sight and sound but of mind
-there's a sign posted up in here, and it reads the panic zone
-now the party is at the peek
-co we suggest you move your feet
-n.w.a. create the groove, and dr. dre creates the beat
-so if you got the juice, and your feeling loose
-let the music take your mind
-the prince is here, don't interfere
-our world is one of a kind
-this place is called the west, west-coast of the usa
-the panic zone's homebase, in a place we call l.a.
-so ladies, all the ladies, if your all alone
-just call arabian prince, in the panic zone (pa-pa-panic zone)
-a way out in here, a way out in here
-a way out in here, a way out in here
-a way out in here, a way out in here
-a way out in here, a way out in here
-ice cube is from l.a.
-he is in the (panic zone, pa-panic zone)
-eazy-e is from compton
-he is in the (panic zone, pa-panic zone)
-arabian prince from inglewood
-he is in the (panic zone, pa-panic zone)
-dr. dre is from compton
-he is in the (panic zone, pa-panic zone)
-d.o.c. is from east l.a.
-he is in the (panic zone, pa-panic zone)
-ron-de-vu is from compton
-he is in the (panic zone, pa-panic zone)
-c.i.a. is from l.a.
-they're in the (panic zone, pa-panic zone)
-movie star is from crenshaw
-he is in the (panic zone, pa-panic zone)
-the wrecking crew is from l.a.
-they're in the (panic zone, pa-panic zone)
-smooth man is from compton
-he is in the (panic zone, pa-panic zone)
-our manager is from l.a.
-he is in the (panic zone, pa-panic zone)
-and the engineer is from the.. (panic zone, pa-panic zone)
-the panic zone, don't get your girl in here
-panic zone, don't get your girl in here
-panic zone, don't get your girl in here
-panic zone, don't get your girl in the panic zone
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVmanager
+p4
+I1
+sVradio
+p5
+I1
+sVnwa
+p6
+I3
+sVfeat
+p7
+I1
+sVprince
+p8
+I4
+sVzone
+p9
+I42
+sVla
+p10
+I6
+sVbust
+p11
+I1
+sVcrew
+p12
+I1
+sVarabian
+p13
+I3
+sVeast
+p14
+I1
+sVcube
+p15
+I1
+sVtorture
+p16
+I1
+sVget
+p17
+I8
+sVbeat
+p18
+I1
+sVcia
+p19
+I1
+sVdarkside
+p20
+I1
+sVworld
+p21
+I1
+sVdr
+p22
+I2
+sVrondevu
+p23
+I1
+sVtheyre
+p24
+I2
+sVadjust
+p25
+I1
+sVright
+p26
+I1
+sVpeople
+p27
+I1
+sVsign
+p28
+I1
+sVzones
+p29
+I1
+sVsight
+p30
+I1
+sVhome
+p31
+I2
+sVgirl
+p32
+I8
+sVwestcoast
+p33
+I1
+sVinglewood
+p34
+I1
+sVmovie
+p35
+I1
+sVice
+p36
+I1
+sVgot
+p37
+I1
+sVeazye
+p38
+I1
+sVcause
+p39
+I1
+sVpeek
+p40
+I1
+sVpapanic
+p41
+I12
+sVloose
+p42
+I1
+sVhere
+p43
+I15
+sVinterfere
+p44
+I2
+sVlet
+p45
+I1
+sValone
+p46
+I1
+sVwrecking
+p47
+I1
+sVtaking
+p48
+I1
+sVcompton
+p49
+I4
+sVcreates
+p50
+I1
+sVplace
+p51
+I2
+sVwest
+p52
+I1
+sVdre
+p53
+I2
+sVrenegades
+p54
+I1
+sVthats
+p55
+I1
+sVdirtyside
+p56
+I1
+sVladies
+p57
+I2
+sVown
+p58
+I1
+sVco
+p59
+I1
+sVdont
+p60
+I11
+sVone
+p61
+I1
+sVfeet
+p62
+I1
+sVengineer
+p63
+I1
+sVunderworld
+p64
+I1
+sVusa
+p65
+I1
+sVunknown
+p66
+I1
+sVcreate
+p67
+I1
+sVmusic
+p68
+I1
+sVway
+p69
+I16
+sVcall
+p70
+I4
+sVterritory
+p71
+I1
+sVhomebase
+p72
+I1
+sVposted
+p73
+I1
+sVsound
+p74
+I2
+sVkind
+p75
+I1
+sVcrenshaw
+p76
+I1
+sVprey
+p77
+I1
+sVdangerous
+p78
+I1
+sVsmooth
+p79
+I1
+sVsoul
+p80
+I1
+sVlover
+p81
+I1
+sVpapapanic
+p82
+I1
+sVfeeling
+p83
+I1
+sVgroove
+p84
+I2
+sVcalled
+p85
+I3
+sVtheres
+p86
+I1
+sVcontrol
+p87
+I2
+sVmind
+p88
+I3
+sVjuice
+p89
+I1
+sVreads
+p90
+I1
+sVim
+p91
+I2
+sVmoves
+p92
+I1
+sVafraid
+p93
+I1
+sVsuggest
+p94
+I1
+sVegyptian
+p95
+I1
+sVtake
+p96
+I1
+sVparty
+p97
+I1
+sVpanic
+p98
+I30
+sVstar
+p99
+I1
+sVwrong
+p100
+I1
+sVnothing
+p101
+I1
+sVman
+p102
+I1
+sVland
+p103
+I1
+sVattempt
+p104
+I1
+sVdoc
+p105
+I1
+sVyoure
+p106
+I2
+sVdimension
+p107
+I1
+s.

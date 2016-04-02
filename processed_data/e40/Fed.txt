@@ -1,119 +1,899 @@
-"fed" lyrics
-e-40 lyrics
-"fed"
-(feat. suga t)
-"there is something going on down here..."
-"in vallejo."
-"fedex!"
-"in vallejo, california" ->
-"in vallejo."
-"in vallejo, california" ->
-he said he's just a, timah name, rang-in
-major factor, fed ex
-high-powered lawyers, and a
-young nigga havin his wayyyy!
-lil' mannish ass nigga on restriction
-cryin with his motherfuckin nose in the corner
-broke up out of that old punk shit and said,
-"momma i'ma do what the fuck i wanna!"
-hit the streets and make a wheelbarrow full of bread if i end up dead
-then press delete -- i'm tired of eating powdered meat
-within a nigga timah to get to the grind, so that boy scored a quarter key
-two hundred and fifty-two electronic milligrams
-we'll sell it like a coke candy organization
-and i'm plugged with it, bail off into that old high-powered shit
-these are the type of niggaz that'll let a nigga know
-when the drought about to hit, my ?peach and jelly?
-get a 40 and mask it, post it on god
-because me got me scratch paper buried in the backyard
-me and my click roll thick f'real and be thinkin of funk like you a moth
-problems nigga?  let that go or get your head tooken off
-catch you out of bounds on the wrong fuckin s-oil
-wrap that ass up like aluminim f-oil
-i'm fed ex, heavy duty nigga, pushin weight (pushin weight)
-from sardines and spam to teriyaki steak; motherfucker ain't but
-plus sixteen, fuckin around with the skillet, makin a killin
-runnin through three or four units a week on the over over
-puttin the whammy on em (whammy on em)
-cake up and baking soda, all that old shit
-(what's yo' occupation?)  motherfucker i'm a timah
-timah name, rang-in
-major factor, fed ex
-high-powered lawyers, and a
-young nigga havin his wayyyy!
-let em know, let em know main
-let em know, let em know, let em know-ow
-let em know, let em know main
-let em know, let em know, let em know-ow
-bitch i thought ya knew, bitch i thought ya knew -- huh, now check it
-i'm to the point where i don't touch it no mo'
-you probably got lieutenants and killers all on the squadron
-with po-po's on payroll, huh
-lavish vehicles, they only make life fo'-up
-front row seats at the fights, takin long expensive flights, huh
-q's, p's, birth certificates and fake id's
-like to drink liquor, with beadies and leaves
-the motherfuckin fuzz wanna stop us
-found our fingerprints on some choppers
-listenin to the scanner, i hear the penelope's say
-"man uhh, them nigger boys, i can't stand uhh"
-young hoodlums sellin hawk, cloggin up the block
-inna come-a new 6-double-zero drop
-we party in mansions v.i.p.'s nigga fuck a flier
-invite celebrities like e-40 and j.r. ridah, timah
-"i'm so serious!"
-"i'm so serious brotha!"
-"i'm so serious brotha!"
-"i got n...."
-he said he's just a, timah name, rang-in
-major factor, fed ex
-high-powered lawyers, and a
-young nigga havin his wayyyy!
-let em know, let em know main
-let em know, let em know, let em know-ow
-let em know, let em know main
-let em know, let em know, let em know-ow
-"hall-oh??"
-"wassup fool!"
-"whas happenin who dis?"
-"nigga it's yo' boy!"
-"my bo-...?"
-"whassup you timah when yo' ass goin town?"
-"on a mission about my mail, to the hillside of vallejo"
-you niggaz got me fucked, fucked up
-me yanked myself up out the game, hold up, motherfucker
-i got bills to pay, nigga if you don't get out my way
-i'm gonna peels your toupee
-i'm in it to stay and i'm straight from the bay
-but i never woulda thought that i would feel like
-that i can invest my money in a franchise
-get em up out the hood before my homies lose they lizzives
-buy a fuckin record company and watch my mail rise
-ha ha, yeah, timah
-big timah, a motherfucker have his br-ead, may-an
-fed ex to the highest degree, tax free
-ballin out of motherfuckin control
-a major factor playin a white man's game man
-sneak in and sneak out
-campaign champagne and clam thang
-game can be sold and told at the same time
-and this shit here is designed to sprinkle yo' mind
-high-powered ass shit man for my high-powered ass clickalation
-get it while it's good before it's to graduation
-understand me?
-he said he's just a, timah name, rang-in
-major factor, fed ex
-high-powered lawyers, and a
-young nigga havin his wayyyy!
-let em know, let em know main
-let em know, let em know, let em know-ow
-let em know, let em know main
-let em know, let em know, let em know-ow
-timah name, rang-in
-major factor, fed ex
-high-powered lawyers, and a
-young nigga havin his wayyyy!
-let em know, let em know main
-let em know, let em know, let em know-ow
-let em know, let em know main
-let em know, let em know, let em know-ow
+(dp1
+Vrestriction
+p2
+I1
+sVhalloh
+p3
+I1
+sVlyrics
+p4
+I2
+sVscratch
+p5
+I1
+sVover
+p6
+I1
+sVcelebrities
+p7
+I1
+sVmission
+p8
+I1
+sVfour
+p9
+I1
+sVcryin
+p10
+I1
+sVfoup
+p11
+I1
+sVpaper
+p12
+I1
+sVseats
+p13
+I1
+sVgo
+p14
+I1
+sVcorner
+p15
+I1
+sVbail
+p16
+I1
+sVoccupation
+p17
+I1
+sVima
+p18
+I1
+sVpeels
+p19
+I1
+sVha
+p20
+I2
+sVfront
+p21
+I1
+sVthang
+p22
+I1
+sVwassup
+p23
+I1
+sVyoung
+p24
+I6
+sVgood
+p25
+I1
+sVhavin
+p26
+I5
+sVflights
+p27
+I1
+sVgoing
+p28
+I1
+sVfactor
+p29
+I6
+sVmail
+p30
+I2
+sVmain
+p31
+I8
+sVteriyaki
+p32
+I1
+sVbrotha
+p33
+I2
+sVtold
+p34
+I1
+sVfool
+p35
+I1
+sVdrink
+p36
+I1
+sVbills
+p37
+I1
+sVhit
+p38
+I2
+sVaround
+p39
+I1
+sVyo
+p40
+I4
+sVget
+p41
+I6
+sVya
+p42
+I2
+sVbig
+p43
+I1
+sVrise
+p44
+I1
+sVstop
+p45
+I1
+sVvallejo
+p46
+I5
+sVuhh
+p47
+I2
+sVwhassup
+p48
+I1
+sVgame
+p49
+I3
+sVkillers
+p50
+I1
+sVknow
+p51
+I33
+sVbirth
+p52
+I1
+sVprobably
+p53
+I1
+sVpress
+p54
+I1
+sVsixteen
+p55
+I1
+sVbread
+p56
+I2
+sVhillside
+p57
+I1
+sVqs
+p58
+I1
+sVchampagne
+p59
+I1
+sVbaking
+p60
+I1
+sVlike
+p61
+I6
+sVmansions
+p62
+I1
+sVlavish
+p63
+I1
+sVlizzives
+p64
+I1
+sVfingerprints
+p65
+I1
+sVcandy
+p66
+I1
+sVbay
+p67
+I1
+sVnigger
+p68
+I1
+sVfuzz
+p69
+I1
+sVnose
+p70
+I1
+sVlose
+p71
+I1
+sVfound
+p72
+I1
+sVbuy
+p73
+I1
+sVquarter
+p74
+I1
+sVfiftytwo
+p75
+I1
+sVstraight
+p76
+I1
+sVdis
+p77
+I1
+sVheavy
+p78
+I1
+sVweek
+p79
+I1
+sVbeadies
+p80
+I1
+sVnigga
+p81
+I13
+sVold
+p82
+I3
+sVweight
+p83
+I2
+sVtired
+p84
+I1
+sVunderstand
+p85
+I1
+sVliquor
+p86
+I1
+sVstreets
+p87
+I1
+sVyeah
+p88
+I1
+sVdead
+p89
+I1
+sVup
+p90
+I1
+sVtouch
+p91
+I1
+sVtooken
+p92
+I1
+sVex
+p93
+I7
+sVinna
+p94
+I1
+sVcant
+p95
+I1
+sVplayin
+p96
+I1
+sVclick
+p97
+I1
+sVdegree
+p98
+I1
+sVfoil
+p99
+I1
+sVsaid
+p100
+I4
+sVwhas
+p101
+I1
+sVfeat
+p102
+I1
+sVhighest
+p103
+I1
+sVmayan
+p104
+I1
+sVfedex
+p105
+I1
+sVcomea
+p106
+I1
+sVyanked
+p107
+I1
+sVcertificates
+p108
+I1
+sVgot
+p109
+I5
+sVrow
+p110
+I1
+sVsardines
+p111
+I1
+sVt
+I1
+sVass
+p112
+I5
+sVaint
+p113
+I1
+sVfull
+p114
+I1
+sVeating
+p115
+I1
+sVshit
+p116
+I5
+sVps
+p117
+I1
+sVpayroll
+p118
+I1
+sVsold
+p119
+I1
+sVbo
+p120
+I1
+sVsuga
+p121
+I1
+sVmotherfucker
+p122
+I4
+sVhere
+p123
+I1
+sVwhammy
+p124
+I2
+sVridah
+p125
+I1
+sVcalifornia
+p126
+I2
+sVjr
+p127
+I1
+sVkey
+p128
+I1
+sVwheelbarrow
+p129
+I1
+sVfranchise
+p130
+I1
+sVpost
+p131
+I1
+sVpopos
+p132
+I1
+sVboy
+p133
+I2
+sVsteak
+p134
+I1
+sVwould
+p135
+I1
+sVleaves
+p136
+I1
+sVspam
+p137
+I1
+sVpunk
+p138
+I1
+sVjelly
+p139
+I1
+sVgraduation
+p140
+I1
+sVplus
+p141
+I1
+sVstand
+p142
+I1
+sVsoda
+p143
+I1
+sVlet
+p144
+I42
+sVtakin
+p145
+I1
+sVpushin
+p146
+I2
+sVfuckin
+p147
+I3
+sVdesigned
+p148
+I1
+sVduty
+p149
+I1
+sVem
+p150
+I43
+sVmajor
+p151
+I6
+sVflier
+p152
+I1
+sVwhats
+p153
+I1
+sVdont
+p154
+I2
+sVcampaign
+p155
+I1
+sVpoint
+p156
+I1
+sVchoppers
+p157
+I1
+sVwithin
+p158
+I1
+sVmakin
+p159
+I1
+sVtoupee
+p160
+I1
+sVthree
+p161
+I1
+sVhappenin
+p162
+I1
+sVmomma
+p163
+I1
+sVbitch
+p164
+I2
+sVcompany
+p165
+I1
+sVbackyard
+p166
+I1
+sVwrap
+p167
+I1
+sVfucked
+p168
+I2
+sVthick
+p169
+I1
+sVskillet
+p170
+I1
+sVelectronic
+p171
+I1
+sVmannish
+p172
+I1
+sVexpensive
+p173
+I1
+sVscanner
+p174
+I1
+sVwan
+p175
+I2
+sVfed
+p176
+I9
+sVkillin
+p177
+I1
+sVgoin
+p178
+I1
+sVhes
+p179
+I3
+sVlieutenants
+p180
+I1
+sVtwo
+p181
+I1
+sVlong
+p182
+I1
+sVname
+p183
+I5
+sValuminim
+p184
+I1
+sVway
+p185
+I1
+sVsoil
+p186
+I1
+sVpowdered
+p187
+I1
+sVwhite
+p188
+I1
+sVhundred
+p189
+I1
+sVtype
+p190
+I1
+sVpay
+p191
+I1
+sVfree
+p192
+I1
+sVhead
+p193
+I1
+sVfake
+p194
+I1
+sVinvite
+p195
+I1
+sVvips
+p196
+I1
+sVmind
+p197
+I1
+sVcoke
+p198
+I1
+sVhomies
+p199
+I1
+sVhuh
+p200
+I3
+sVbut
+p201
+I1
+sVit
+p202
+I1
+sVlistenin
+p203
+I1
+sVmans
+p204
+I1
+sVhear
+p205
+I1
+sVbroke
+p206
+I1
+sVcatch
+p207
+I1
+sVclam
+p208
+I1
+sVhold
+p209
+I1
+sVfunk
+p210
+I1
+sVrunnin
+p211
+I1
+sVe40
+p212
+I2
+sVknowow
+p213
+I8
+sVmo
+p214
+I1
+sVmilligrams
+p215
+I1
+sVbounds
+p216
+I1
+sVniggaz
+p217
+I2
+sVn
+I1
+sVrecord
+p218
+I1
+sVballin
+p219
+I1
+sVtime
+p220
+I1
+sVcake
+p221
+I1
+sVdelete
+p222
+I1
+sVcontrol
+p223
+I1
+sVfreal
+p224
+I1
+sVmoney
+p225
+I1
+sVthatll
+p226
+I1
+sVclickalation
+p227
+I1
+sVmoth
+p228
+I1
+sVmask
+p229
+I1
+sVfights
+p230
+I1
+sVtax
+p231
+I1
+sVfuck
+p232
+I2
+sVids
+p233
+I1
+sV6doublezero
+p234
+I1
+sVsay
+p235
+I1
+sVsquadron
+p236
+I1
+sVim
+p237
+I11
+sVsomething
+p238
+I1
+sVcheck
+p239
+I1
+sVwayyyy
+p240
+I5
+sVsell
+p241
+I1
+sVparty
+p242
+I1
+sVhood
+p243
+I1
+sVend
+p244
+I1
+sVus
+p245
+I1
+sVpeach
+p246
+I1
+sVsellin
+p247
+I1
+sVlil
+p248
+I1
+sVna
+p249
+I3
+sVmake
+p250
+I2
+sV40
+p251
+I1
+sVplugged
+p252
+I1
+sVmotherfuckin
+p253
+I3
+sVunits
+p254
+I1
+sVnew
+p255
+I1
+sVputtin
+p256
+I1
+sVout
+p257
+I1
+sVroll
+p258
+I1
+sVlife
+p259
+I1
+sVhighpowered
+p260
+I8
+sVscored
+p261
+I1
+sVfeel
+p262
+I1
+sVsprinkle
+p263
+I1
+sVlawyers
+p264
+I5
+sVhoodlums
+p265
+I1
+sVtimah
+p266
+I11
+sVwatch
+p267
+I1
+sVknew
+p268
+I2
+sVproblems
+p269
+I1
+sVsneak
+p270
+I2
+sVme
+p271
+I1
+sVstay
+p272
+I1
+sVtown
+p273
+I1
+sVwrong
+p274
+I1
+sVgon
+p275
+I1
+sVcloggin
+p276
+I1
+sVwoulda
+p277
+I1
+sVnever
+p278
+I1
+sVserious
+p279
+I3
+sVburied
+p280
+I1
+sVrangin
+p281
+I5
+sVdrought
+p282
+I1
+sVhawk
+p283
+I1
+sVman
+p284
+I3
+sVa
+I5
+sVdrop
+p285
+I1
+sVoff
+p286
+I1
+sVboys
+p287
+I1
+sVinvest
+p288
+I1
+sVvehicles
+p289
+I1
+sVwell
+p290
+I1
+sVgrind
+p291
+I1
+sVthought
+p292
+I3
+sVblock
+p293
+I1
+sVgod
+p294
+I1
+sVorganization
+p295
+I1
+sVpenelopes
+p296
+I1
+sVmeat
+p297
+I1
+sVthinkin
+p298
+I1
+s.

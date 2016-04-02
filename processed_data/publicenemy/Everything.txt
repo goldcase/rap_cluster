@@ -1,40 +1,230 @@
-"everything" lyrics
-public enemy lyrics
-"everything"
-(feat. gerald albright & sheila brody)
-i got no fancy car
-never was no superstar
-i got no grammy trophy
-got no problem if you approach me
-never had no rolling stone cover
-never had no top 10 hits brother
-got no tv show
-got no maybach benz or rolls
-got no movie roles
-got no platinum or gold
-i got no diamond rings
-watches and all them things
-got no waiting plane
-what i mean is
-i got no private jets
-but i also got no regrets
-got no swag
-but got no love
-for something i ain't never had
-got no mansions
-restaurants
-i got no yacht
-but i got no choice
-but to show
-what some of us forgot
-never was hot
-never was pop
-but i never ever stoppin
-that real hip hop
-got no million follower friends
-on twitter
-on and facebook
-look my friends
-got no thing for video games
-got no shame
-sayin i ain't never playin
+(dp1
+Vsheila
+p2
+I1
+sVthings
+p3
+I1
+sVlove
+p4
+I1
+sVgrammy
+p5
+I1
+sVlyrics
+p6
+I2
+sVshow
+p7
+I2
+sVhad
+p8
+I1
+sVtwitter
+p9
+I1
+sVbenz
+p10
+I1
+sVfancy
+p11
+I1
+sVjets
+p12
+I1
+sVpop
+p13
+I1
+sVever
+p14
+I1
+sVvideo
+p15
+I1
+sVsomething
+p16
+I1
+sVforgot
+p17
+I1
+sVplayin
+p18
+I1
+sVstoppin
+p19
+I1
+sVfeat
+p20
+I1
+sVrolls
+p21
+I1
+sVplatinum
+p22
+I1
+sVswag
+p23
+I1
+sVgold
+p24
+I1
+sVmillion
+p25
+I1
+sValso
+p26
+I1
+sVtv
+p27
+I1
+sVgerald
+p28
+I1
+sVtop
+p29
+I1
+sVrings
+p30
+I1
+sVhot
+p31
+I1
+sVaint
+p32
+I2
+sVeverything
+p33
+I2
+sVwaiting
+p34
+I1
+sVhop
+p35
+I1
+sVgot
+p36
+I19
+sVapproach
+p37
+I1
+sVpublic
+p38
+I1
+sVmaybach
+p39
+I1
+sVreal
+p40
+I1
+sVtrophy
+p41
+I1
+sVdiamond
+p42
+I1
+sVhip
+p43
+I1
+sV10
+p44
+I1
+sVnever
+p45
+I8
+sVhits
+p46
+I1
+sVyacht
+p47
+I1
+sVplane
+p48
+I1
+sVfacebook
+p49
+I1
+sVwatches
+p50
+I1
+sVfollower
+p51
+I1
+sVrolling
+p52
+I1
+sVchoice
+p53
+I1
+sVfriends
+p54
+I2
+sVlook
+p55
+I1
+sVme
+p56
+I1
+sVenemy
+p57
+I1
+sVstone
+p58
+I1
+sVsuperstar
+p59
+I1
+sVmansions
+p60
+I1
+sVroles
+p61
+I1
+sVshame
+p62
+I1
+sVcar
+p63
+I1
+sVbrody
+p64
+I1
+sVcover
+p65
+I1
+sVbrother
+p66
+I1
+sVus
+p67
+I1
+sVregrets
+p68
+I1
+sVthing
+p69
+I1
+sVprivate
+p70
+I1
+sVgames
+p71
+I1
+sValbright
+p72
+I1
+sVmovie
+p73
+I1
+sVproblem
+p74
+I1
+sVrestaurants
+p75
+I1
+sVsayin
+p76
+I1
+sVmean
+p77
+I1
+s.

@@ -1,112 +1,761 @@
-big brother lyrics
-kanye west lyrics
-big brother
-staduim status
-uh
-big brother bigs brother
-used dame bigs brother
-hip hop brother
-id friend
-id mentor
-let story begin
-hard knock life tour
-sell picture us mall
-coping iceberg yell jigga
-yea thats would yell out
-yell out
-know name dude
-gotta spell tell bout
-j y ye shy
-wont even step idol say hi
-standing like mime
-let chance pass by
-back mind could change life
-beats least let hear it
-least could brag friends back gig
-got mama crib
-help get mama crib
-big brother bigs brother
-used dame bigs brother
-hip hop brother
-id friend
-id mentor
-let story begin
-let story begin
-feel way feel dont wave hands
-fresh plane im baseline
-nothing handed out
-im take mine
-around time blueprint 1
-beats pocket blueprint form
-id play little song old back room
-would bob head say damn oh thats you
-black album blacking out
-party sobs packed crowd
-big brother got show madison square
-im like yea yea gonna there
-get chance spit it
-carleen told could buy two tickets
-guess big brother thinking little different
-kept little brother bay distance
-put everything felt focused
-made focused
-wrote potent
-thing wanna know get looked over
-guess ill understand get older
-big brother saw bottom todum
-im top everybody scrodum
-big brother bigs brother
-used dame bigs brother
-hip hops brother
-ids friend
-id mentor
-let story begin
-begin
-let story begin
-feel way feel dont wave hands
-ever walked shadow giant
-client presidito
-hola ovito
-game getting foul heres free throw
-always side peep hole
-dropped jesus walks im steep hole
-know
-new jack city gotta keep brother
-number 1 im beat brother
-diamond remix swore spaz
-big brother came kicked ass
-sibling rivery could see
-pride driving me
-grammies said inspired me
-big brother always tried be
-kick flow like pick roll
-cause even gave rock give go
-guess beanies style slam dunk
-shit like finger roll
-singles though
-hoes show gonna minggle yo
-ya know
-told jay song cold play
-next thing know got song coldplay
-back mind im like damn way
-translate espanol
-way jose
-went told jay brown
-known gonna come back around
-told like man told first
-told somebody else thats made shit worse
-big brother bigs brother
-heres words kid brother
-admire somebody go ahead tell um
-people never get flowers could smell um
-ideal eyes god game
-heart cityrockafella chain
-never never another
-number 1 young hov also big brother
-big brother bigs brother
-used dame bigs brother
-hip hops brother
-ids friend
-id mentor
-thats story ends
-dont kill shit
+(dp1
+Vmadison
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I2
+sVyea
+p6
+I3
+sVover
+p7
+I1
+sVpeople
+p8
+I1
+sVfoul
+p9
+I1
+sVkill
+p10
+I1
+sVgo
+p11
+I2
+sVkanye
+p12
+I1
+sVcold
+p13
+I1
+sValbum
+p14
+I1
+sVeyes
+p15
+I1
+sVjose
+p16
+I1
+sVgiant
+p17
+I1
+sVchain
+p18
+I1
+sVjay
+p19
+I2
+sVthinking
+p20
+I1
+sVspaz
+p21
+I1
+sVyoung
+p22
+I1
+sVblacking
+p23
+I1
+sVblack
+p24
+I1
+sVbout
+p25
+I1
+sVpride
+p26
+I1
+sVstyle
+p27
+I1
+sVkick
+p28
+I1
+sVta
+p29
+I2
+sVhip
+p30
+I4
+sVtickets
+p31
+I1
+sVsomebody
+p32
+I2
+sVaround
+p33
+I2
+sVyo
+p34
+I1
+sVget
+p35
+I5
+sVbeat
+p36
+I1
+sVbig
+p37
+I13
+sVspell
+p38
+I1
+sVye
+p39
+I1
+sVwave
+p40
+I2
+sVpocket
+p41
+I1
+sVme
+p42
+I2
+sVgame
+p43
+I2
+sVknow
+p44
+I5
+sVwords
+p45
+I1
+sVhands
+p46
+I2
+sVshadow
+p47
+I1
+sVjesus
+p48
+I1
+sVovito
+p49
+I1
+sVname
+p50
+I1
+sVwont
+p51
+I1
+sVknock
+p52
+I1
+sVspit
+p53
+I1
+sVlike
+p54
+I6
+sVcoping
+p55
+I1
+sVshy
+p56
+I1
+sVbrother
+p57
+I30
+sVtodum
+p58
+I1
+sVbay
+p59
+I1
+sValways
+p60
+I2
+sVwent
+p61
+I1
+sVside
+p62
+I1
+sVwrote
+p63
+I1
+sVdunk
+p64
+I1
+sVespanol
+p65
+I1
+sVsquare
+p66
+I1
+sVold
+p67
+I1
+sVrivery
+p68
+I1
+sVcrowd
+p69
+I1
+sVbe
+p70
+I1
+sVunderstand
+p71
+I1
+sVhard
+p72
+I1
+sVback
+p73
+I5
+sVpotent
+p74
+I1
+sVminggle
+p75
+I1
+sVsee
+p76
+I1
+sVpass
+p77
+I1
+sVguess
+p78
+I3
+sVslam
+p79
+I1
+sVpacked
+p80
+I1
+sVout
+p81
+I4
+sVeven
+p82
+I2
+sVum
+p83
+I2
+sVgon
+p84
+I3
+sVfocused
+p85
+I2
+sVdriving
+p86
+I1
+sVbottom
+p87
+I1
+sVheres
+p88
+I2
+sVgod
+p89
+I1
+sVeverything
+p90
+I1
+sVahead
+p91
+I1
+sVhov
+p92
+I1
+sVfinger
+p93
+I1
+sVgot
+p94
+I5
+sVever
+p95
+I1
+sVtold
+p96
+I6
+sVass
+p97
+I1
+sVeverybody
+p98
+I1
+sVends
+p99
+I1
+sVkicked
+p100
+I1
+sVcity
+p101
+I1
+sVrock
+p102
+I1
+sVlittle
+p103
+I3
+sVfree
+p104
+I1
+sVstep
+p105
+I1
+sVlet
+p106
+I7
+sVput
+p107
+I1
+sVpeep
+p108
+I1
+sVcome
+p109
+I1
+sVby
+p110
+I1
+sVchange
+p111
+I1
+sVcityrockafella
+p112
+I1
+sVbrown
+p113
+I1
+sVoh
+p114
+I1
+sVcould
+p115
+I5
+sVids
+p116
+I2
+sVkeep
+p117
+I1
+sVthing
+p118
+I2
+sVtour
+p119
+I1
+sVbrag
+p120
+I1
+sVmentor
+p121
+I4
+sVbigs
+p122
+I9
+sVmime
+p123
+I1
+sVbob
+p124
+I1
+sVhead
+p125
+I1
+sVthats
+p126
+I4
+sVkid
+p127
+I1
+sVdont
+p128
+I3
+sVfeel
+p129
+I4
+sVnumber
+p130
+I2
+sVcrib
+p131
+I2
+sVgetting
+p132
+I1
+sVbeanies
+p133
+I1
+sVanother
+p134
+I1
+sVnext
+p135
+I1
+sVhoes
+p136
+I1
+sVstanding
+p137
+I1
+sVwan
+p138
+I1
+sVstory
+p139
+I6
+sVwould
+p140
+I2
+sVwest
+p141
+I1
+sVtop
+p142
+I1
+sVthere
+p143
+I1
+sVdude
+p144
+I1
+sVtwo
+p145
+I1
+sVleast
+p146
+I2
+sVthrow
+p147
+I1
+sVgig
+p148
+I1
+sVdamn
+p149
+I2
+sVway
+p150
+I4
+sVmama
+p151
+I2
+sVcoldplay
+p152
+I1
+sVtranslate
+p153
+I1
+sVtell
+p154
+I2
+sVfriend
+p155
+I4
+sVdame
+p156
+I4
+sVblueprint
+p157
+I2
+sVlife
+p158
+I2
+sVbuy
+p159
+I1
+sVsaid
+p160
+I1
+sVform
+p161
+I1
+sVnew
+p162
+I1
+sVmine
+p163
+I1
+sVhi
+p164
+I1
+sVhear
+p165
+I1
+sVknown
+p166
+I1
+sVhole
+p167
+I2
+sVflowers
+p168
+I1
+sVhola
+p169
+I1
+sVplay
+p170
+I2
+sVdistance
+p171
+I1
+sVmade
+p172
+I2
+sViceberg
+p173
+I1
+sVroom
+p174
+I1
+sValso
+p175
+I1
+sVj
+I1
+sVbeats
+p176
+I2
+sVus
+p177
+I1
+sVcarleen
+p178
+I1
+sVadmire
+p179
+I1
+sVmall
+p180
+I1
+sVidol
+p181
+I1
+sVuh
+p182
+I1
+sVsobs
+p183
+I1
+sVgave
+p184
+I1
+sVsteep
+p185
+I1
+sVill
+p186
+I1
+sVpick
+p187
+I1
+sVheart
+p188
+I1
+sVpresidito
+p189
+I1
+sVgive
+p190
+I1
+sVwalks
+p191
+I1
+sVmind
+p192
+I2
+sVit
+p193
+I2
+sVstaduim
+p194
+I1
+sVsibling
+p195
+I1
+sVsay
+p196
+I2
+sVdiamond
+p197
+I1
+sVim
+p198
+I7
+sVdropped
+p199
+I1
+sVhops
+p200
+I2
+sVsaw
+p201
+I1
+sVid
+p202
+I7
+sVshit
+p203
+I3
+sVworse
+p204
+I1
+sVsell
+p205
+I1
+sVdifferent
+p206
+I1
+sVbaseline
+p207
+I1
+sVjigga
+p208
+I1
+sVna
+p209
+I4
+sVsong
+p210
+I3
+sVhanded
+p211
+I1
+sVgrammies
+p212
+I1
+sV1
+I3
+sVya
+p213
+I1
+sVideal
+p214
+I1
+sVtake
+p215
+I1
+sVhop
+p216
+I2
+sVswore
+p217
+I1
+sVparty
+p218
+I1
+sVyou
+p219
+I1
+sVsmell
+p220
+I1
+sVroll
+p221
+I2
+sVstatus
+p222
+I1
+sVpicture
+p223
+I1
+sVbegin
+p224
+I6
+sVused
+p225
+I4
+sVtried
+p226
+I1
+sVthough
+p227
+I1
+sVsingles
+p228
+I1
+sVfelt
+p229
+I1
+sVchance
+p230
+I2
+sVplane
+p231
+I1
+sVnever
+p232
+I3
+sVnothing
+p233
+I1
+sVelse
+p234
+I1
+sVfriends
+p235
+I1
+sVman
+p236
+I1
+sVremix
+p237
+I1
+sVcause
+p238
+I1
+sVkept
+p239
+I1
+sVolder
+p240
+I1
+sVinspired
+p241
+I1
+sVflow
+p242
+I1
+sVwalked
+p243
+I1
+sVlooked
+p244
+I1
+sVclient
+p245
+I1
+sVscrodum
+p246
+I1
+sVtime
+p247
+I1
+sVy
+I1
+sVfresh
+p248
+I1
+sVyell
+p249
+I3
+sVfirst
+p250
+I1
+sVcame
+p251
+I1
+sVjack
+p252
+I1
+s.

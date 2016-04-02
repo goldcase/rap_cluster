@@ -1,52 +1,443 @@
-"i just wanna" lyrics
-50 cent lyrics
-"i just wanna"
-(feat. tony yayo)
-look nigga, if you don’t love yourself
-ain’t nobody gon love you
-your shit ain’t right
-what bitch in her right mind gon’ fuck you
-that’s what they told me then
-so i was like "fuck a bitch"
-bitch imma grind, imma shine, everytime blow they mind
-oh now she like me, oh oh oh now they like me
-all i want is a blow job
-this bitch wanna be wifey
-no 3-course meal, all i want is fast food
-i wanna have fun, how about a cookie huh?
-i don’t wanna love you
-i just wanna unbutton your blouse
-and let the girls out
-i wanna fuck you
-maybe later on, if you’re free
-you can come to my house
-only if you want to
-we can get freakier and freakier than
-you’ve ever been, if you want to
-we can get freakier and freakier
-you can bring a friend
-bitches from belize, keep all in the weed
-remy crew got me sweating out a remi weave
-fuck a model tonight, my bitch is from the
-she the project pimp tease
-them hood bitches always bring back memories
-they all catch the makers like "yayo you remember me?"
-i certainly do, pull the curtain on a ’62
-hands was free, she on her menstrual
-i promise i don’t love em, i don’t cuff em
-i don’t pay a bitch’s rent to have the next nigga fuckin’
-i’m a pimp with principles
-killin with visuals
-my diamonds like
-i don’t want a relationship, i just wanna have fun
-in every position, we can come up with til we’re done
-and my request is to be kickin shit in my ear
-like to hear what you're thinking, after laughing and drinking
-we can have a ball, we can do it all
-moonshine light up the sky at night time
-any time could be the right time
-i’m sort of impulsive, i’m kinda explosive
-me, take a little at a time in doses
-once you’re addicted, i just wanna kick it
-you could pick the spot, i’ll be there with the quickness
-give it to you good, when i’m gone i’m sure you gon miss this
+(dp1
+Vall
+p2
+I1
+sVlyrics
+p3
+I2
+sVoh
+p4
+I4
+sVbring
+p5
+I2
+sVwifey
+p6
+I1
+sVimpulsive
+p7
+I1
+sVfeat
+p8
+I1
+sVblow
+p9
+I2
+sVcertainly
+p10
+I1
+sVbitch\u2019s
+p11
+I1
+sVthinking
+p12
+I1
+sVimma
+p13
+I2
+sVsky
+p14
+I1
+sVcrew
+p15
+I1
+sVto
+p16
+I2
+sVkick
+p17
+I1
+sVthen
+p18
+I1
+sVgood
+p19
+I1
+sVget
+p20
+I2
+sVfood
+p21
+I1
+sVquickness
+p22
+I1
+sVevery
+p23
+I1
+sVhands
+p24
+I1
+sVdrinking
+p25
+I1
+sVlike
+p26
+I6
+sVpimp
+p27
+I2
+sVeverytime
+p28
+I1
+sValways
+p29
+I1
+sVkickin
+p30
+I1
+sV50
+p31
+I1
+sVlaughing
+p32
+I1
+sVnight
+p33
+I1
+sVaddicted
+p34
+I1
+sVdone
+p35
+I1
+sVmeal
+p36
+I1
+sVem
+p37
+I2
+sVnigga
+p38
+I2
+sVvisuals
+p39
+I1
+sVhouse
+p40
+I1
+sVback
+p41
+I1
+sVlight
+p42
+I1
+sVyou\u2019re
+p43
+I2
+sVball
+p44
+I1
+sVdoses
+p45
+I1
+sVmakers
+p46
+I1
+sVout
+p47
+I1
+sVblouse
+p48
+I1
+sVgon
+p49
+I2
+sVmemories
+p50
+I1
+sVdiamonds
+p51
+I1
+sVit
+p52
+I1
+sVgot
+p53
+I1
+sVever
+p54
+I1
+sVtold
+p55
+I1
+sVexplosive
+p56
+I1
+sV\u201962
+p57
+I1
+sVfree
+p58
+I2
+sVjob
+p59
+I1
+sVcookie
+p60
+I1
+sVbelize
+p61
+I1
+sVcome
+p62
+I2
+sVpull
+p63
+I1
+sVshine
+p64
+I1
+sVtease
+p65
+I1
+sVcould
+p66
+I2
+sVkeep
+p67
+I1
+sVunbutton
+p68
+I1
+sVfuckin\u2019
+p69
+I1
+sVpick
+p70
+I1
+sVlet
+p71
+I1
+sVyou\u2019ve
+p72
+I1
+sVlove
+p73
+I4
+sVgone
+p74
+I1
+sVyourself
+p75
+I1
+sVright
+p76
+I3
+sVpromise
+p77
+I1
+sVbitch
+p78
+I5
+sVtony
+p79
+I1
+sVmiss
+p80
+I1
+sVhood
+p81
+I1
+sVsweating
+p82
+I1
+sVwan
+p83
+I9
+sVlittle
+p84
+I1
+sVkillin
+p85
+I1
+sVgirls
+p86
+I1
+sVfast
+p87
+I1
+sVnext
+p88
+I1
+sVdon\u2019t
+p89
+I6
+sVi\u2019ll
+p90
+I1
+sVcurtain
+p91
+I1
+sVfriend
+p92
+I1
+sVmenstrual
+p93
+I1
+sVrelationship
+p94
+I1
+sVbitches
+p95
+I2
+sVhuh
+p96
+I1
+sVprinciples
+p97
+I1
+sVcent
+p98
+I1
+sVhear
+p99
+I1
+sVcatch
+p100
+I1
+sVear
+p101
+I1
+sVthan
+p102
+I1
+sVyayo
+p103
+I2
+sVme
+p104
+I2
+sVremy
+p105
+I1
+sVlook
+p106
+I1
+sVthis
+p107
+I1
+sVain\u2019t
+p108
+I2
+sVfreakier
+p109
+I4
+sVproject
+p110
+I1
+sVremi
+p111
+I1
+sVcuff
+p112
+I1
+sVmoonshine
+p113
+I1
+sVfun
+p114
+I2
+sVsort
+p115
+I1
+sV3course
+p116
+I1
+sVgive
+p117
+I1
+sVwe\u2019re
+p118
+I1
+sVmind
+p119
+I2
+sVfuck
+p120
+I4
+sVtonight
+p121
+I1
+sVrent
+p122
+I1
+sVwant
+p123
+I5
+sVshit
+p124
+I2
+sVna
+p125
+I9
+sVtil
+p126
+I1
+sVi\u2019m
+p127
+I5
+sVtake
+p128
+I1
+sVyou
+p129
+I4
+sVyoure
+p130
+I1
+sVnobody
+p131
+I1
+sVthat\u2019s
+p132
+I1
+sVtime
+p133
+I4
+sVspot
+p134
+I1
+sVweed
+p135
+I1
+sVsure
+p136
+I1
+sVkinda
+p137
+I1
+sVmodel
+p138
+I1
+sVweave
+p139
+I1
+sVremember
+p140
+I1
+sVmaybe
+p141
+I1
+sVlater
+p142
+I1
+sVrequest
+p143
+I1
+sVgrind
+p144
+I1
+sVpay
+p145
+I1
+sVposition
+p146
+I1
+sVthe
+p147
+I1
+sVgon\u2019
+p148
+I1
+s.

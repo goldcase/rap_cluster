@@ -1,58 +1,529 @@
-"blueberry yum yum" lyrics
-ludacris lyrics
-"blueberry yum yum"
-yeah, um, i think ima try somthin that i ain't,
-that i ain't neva did before on this one, lets go
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-got a lil bit of blueberry yum yum
-and i neva would of thought that they could eva taste this goooooood
-thank god for the man who put it in my hoooooood
-its got me singin' melodies i neva thought i woooouuuuld
-i'm feelin' sorry for the homies that be smokin' wooood
-chop chop, break it down for a playa like me me me me me
-i'm 'bout to find me a women that skeet skeet skeet skeet
-ima keep smokin' 'till i reach my peak peak peak peak
-or till i'm stuck and my body feel weak weak weak weak weak
-headed down to the dungeon woundren, if they got, some more
-and if they don't then ima have ta settle for some droooo
-and it just ain't cool cuz i don't have ta, ima have ta gooooo
-and continue on my mission fishin for tha yum yum but i'm movin' sloooo
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-yess, fire fire got me so tired ima stop drop and rooooooolll
-put a wet towel under the doooooooor
-don't pass it i cant take it no mooooore
-somebody take a trip down to the stoooooore
-hurry please cus i need some snacks snacks snacks snacks
-and how long will it take to get back back back back
-yes indeed ima lil off track track track track track
-off this weed and i'm full of that yac yac yac yac yac
-get on in that stinkin' lincoln crank it up and riiiiide
-and it ain't enough room to fit the other chicks inside
-i'm so hungry wit tha munchies ima eat everything in siiiiiight
-me and my blueberrys together and everything's all right
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-get ya lighters, roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-get the propane, rollin' things and lets blow this place uuuuuup
-you already know whats uuup
-i mighta had to pay some extra buuuuuucks
-but i really don't give a fuuuuuck
-cuz a brotha feels great great great great great
-but i'm barely awake wake wake wake wake
-all bent outta shape shape shape shape shape
-so stomp on ya brake brake brake brake brake
-if u token good, then all my smokas, let me see ya flames
-don't know what ya got but my bag will, put yo stuff, ta shame
-all tha different kinds of otha flavors, they don't mean a thing
-you cant compare it don't stare cuz i got the ultimate mary jane
-get ya lighters roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
-get ya lighters roll that sticky, lets get higher (lets get higher)
-got that blueberry yum yum and its that fire
+(dp1
+Vchicks
+p2
+I1
+sVriiiiide
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVindeed
+p6
+I1
+sVbrotha
+p7
+I1
+sVmission
+p8
+I1
+sVshape
+p9
+I5
+sVgo
+p10
+I1
+sVyes
+p11
+I1
+sVfind
+p12
+I1
+sVima
+p13
+I7
+sVcus
+p14
+I1
+sVthank
+p15
+I1
+sVfit
+p16
+I1
+sVextra
+p17
+I1
+sVcuz
+p18
+I3
+sVeat
+p19
+I1
+sVgooooo
+p20
+I1
+sVlets
+p21
+I18
+sVwooood
+p22
+I1
+sVhomies
+p23
+I1
+sVsorry
+p24
+I1
+sVta
+p25
+I4
+sVgood
+p26
+I1
+sVsomebody
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I27
+sVya
+p30
+I11
+sVstomp
+p31
+I1
+sVstop
+p32
+I1
+sVfeelin
+p33
+I1
+sVbreak
+p34
+I1
+sVfeels
+p35
+I1
+sVknow
+p36
+I2
+sVbit
+p37
+I1
+sVcool
+p38
+I1
+sVlincoln
+p39
+I1
+sVstuff
+p40
+I1
+sVtowel
+p41
+I1
+sVlike
+p42
+I1
+sVeva
+p43
+I1
+sVdrop
+p44
+I1
+sVtry
+p45
+I1
+sVbag
+p46
+I1
+sVtoken
+p47
+I1
+sVcontinue
+p48
+I1
+sVmelodies
+p49
+I1
+sVdoooooooor
+p50
+I1
+sVmean
+p51
+I1
+sVright
+p52
+I1
+sVfuuuuuck
+p53
+I1
+sVtired
+p54
+I1
+sVeverythings
+p55
+I1
+sVmighta
+p56
+I1
+sVyeah
+p57
+I1
+sVsee
+p58
+I1
+sVneva
+p59
+I3
+sVpass
+p60
+I1
+sVwoundren
+p61
+I1
+sVmooooore
+p62
+I1
+sVdungeon
+p63
+I1
+sVmovin
+p64
+I1
+sVstoooooore
+p65
+I1
+sVgod
+p66
+I1
+sVplease
+p67
+I1
+sVeverything
+p68
+I1
+sVenough
+p69
+I1
+sVsettle
+p70
+I1
+sVplaya
+p71
+I1
+sVgot
+p72
+I14
+sVbody
+p73
+I1
+sVaint
+p74
+I4
+sVfull
+p75
+I1
+sVskeet
+p76
+I4
+sVweak
+p77
+I5
+sVsmokas
+p78
+I1
+sVsingin
+p79
+I1
+sVlet
+p80
+I1
+sVsmokin
+p81
+I2
+sVput
+p82
+I3
+sVsloooo
+p83
+I1
+sVfishin
+p84
+I1
+sVgreat
+p85
+I5
+sVblueberrys
+p86
+I1
+sVflames
+p87
+I1
+sVsomthin
+p88
+I1
+sVcould
+p89
+I1
+sVbarely
+p90
+I1
+sVotha
+p91
+I1
+sVkeep
+p92
+I1
+sVchop
+p93
+I2
+sVthing
+p94
+I1
+sVyum
+p95
+I24
+sVyess
+p96
+I1
+sVthink
+p97
+I1
+sVbuuuuuucks
+p98
+I1
+sValready
+p99
+I1
+sVwhats
+p100
+I1
+sVdont
+p101
+I7
+sVheaded
+p102
+I1
+sVfeel
+p103
+I1
+sVsiiiiiight
+p104
+I1
+sVone
+p105
+I1
+sVrooooooolll
+p106
+I1
+sVwit
+p107
+I1
+sVdroooo
+p108
+I1
+sVfire
+p109
+I10
+sVmunchies
+p110
+I1
+sVwould
+p111
+I1
+sVgive
+p112
+I1
+sVlong
+p113
+I1
+sVstuck
+p114
+I1
+sVhoooooood
+p115
+I1
+sVflavors
+p116
+I1
+sVblow
+p117
+I1
+sVjane
+p118
+I1
+sVblueberry
+p119
+I11
+sVyac
+p120
+I5
+sVmore
+p121
+I1
+sVlighters
+p122
+I8
+sVwet
+p123
+I1
+sVback
+p124
+I4
+sVcrank
+p125
+I1
+sVuuup
+p126
+I1
+sVhurry
+p127
+I1
+sVbout
+p128
+I1
+sVwomen
+p129
+I1
+sVme
+p130
+I1
+sVroom
+p131
+I1
+sVinside
+p132
+I1
+sVmary
+p133
+I1
+sVum
+p134
+I1
+sVbrake
+p135
+I5
+sVwake
+p136
+I4
+sVcompare
+p137
+I1
+sVoutta
+p138
+I1
+sVbent
+p139
+I1
+sVsnacks
+p140
+I4
+sVtaste
+p141
+I1
+sVsticky
+p142
+I8
+sVshame
+p143
+I1
+sVcant
+p144
+I2
+sVim
+p145
+I7
+sVrollin
+p146
+I1
+sVneed
+p147
+I1
+sVpropane
+p148
+I1
+sVtrip
+p149
+I1
+sVdifferent
+p150
+I1
+sVlil
+p151
+I2
+sVthings
+p152
+I1
+sVwoooouuuuld
+p153
+I1
+sVtill
+p154
+I2
+sVtake
+p155
+I3
+sVplace
+p156
+I1
+sVreally
+p157
+I1
+sVroll
+p158
+I8
+sVhigher
+p159
+I16
+sVkinds
+p160
+I1
+sVstare
+p161
+I1
+sVtrack
+p162
+I5
+sVreach
+p163
+I1
+sVgoooooood
+p164
+I1
+sVweed
+p165
+I1
+sVpeak
+p166
+I4
+sVstinkin
+p167
+I1
+sVman
+p168
+I1
+sVhungry
+p169
+I1
+sVtogether
+p170
+I1
+sVuuuuuup
+p171
+I1
+sVthought
+p172
+I2
+sVu
+I1
+sVultimate
+p173
+I1
+sVpay
+p174
+I1
+sVawake
+p175
+I1
+sVtha
+p176
+I3
+s.

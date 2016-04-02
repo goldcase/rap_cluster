@@ -1,28 +1,200 @@
-"la la la" lyrics
-snoop dogg lyrics
-"la la la"
-den i walk and i talk bout dis one
-den i laugh and go on to dat other one
-hey what you want, you can't getty, getty
-and the problem will get real dready, dready
-who feels it knows, and i suppose that you’ll never know
-ohh, you’ll reap what you sow
-can’t plant the corn where the peas want fit grow, nooo
-la la la la la la la la la la, oh yeah
-la la la la la la la la la la, oh yeah
-la la la la la la la la la la, oh yeah
-la la la la la la la la la la, oh yeah
-see them hypocrites they come again
-demma spread dirty lies, them man no me friend
-though, a story like that happened
-and the one who spilled on him will have a problem
-hey, who feels it knows, and i suppose them heart made out of stone
-hoo, you’ll reap what you sow but it the one well that you are bound to drop off
-who feels it knows, and i suppose that you’ll never know
-ohh, you’ll reap what you sow
-can’t plant the corn where the peas want fit grow, nooo
-la la la la la la la la la la, ooh yeah
-la la la la la la la la la la, ooh yeah
-la la la la la la la la la la, ooh yeah
-la la la la la la la la la la, ooh yeah
-respect! every time
+(dp1
+Vcan\u2019t
+p2
+I2
+sVohh
+p3
+I2
+sVwant
+p4
+I3
+sVlyrics
+p5
+I2
+sVheart
+p6
+I1
+sVdemma
+p7
+I1
+sVyeah
+p8
+I8
+sVthough
+p9
+I1
+sVwalk
+p10
+I1
+sVlies
+p11
+I1
+sVcant
+p12
+I1
+sVlaugh
+p13
+I1
+sVgo
+p14
+I1
+sVrespect
+p15
+I1
+sVtime
+p16
+I1
+sVbound
+p17
+I1
+sVagain
+p18
+I1
+sVstory
+p19
+I1
+sVsnoop
+p20
+I1
+sVla
+p21
+I86
+sVdogg
+p22
+I1
+sVnooo
+p23
+I2
+sVhey
+p24
+I2
+sVdready
+p25
+I2
+sVspread
+p26
+I1
+sVcome
+p27
+I1
+sVsow
+p28
+I3
+sVbout
+p29
+I1
+sVfriend
+p30
+I1
+sVhappened
+p31
+I1
+sVreal
+p32
+I1
+sVplant
+p33
+I2
+sVyou\u2019ll
+p34
+I5
+sVknows
+p35
+I3
+sVget
+p36
+I1
+sVcorn
+p37
+I2
+sVnever
+p38
+I2
+sVpeas
+p39
+I2
+sVlike
+p40
+I1
+sVdat
+p41
+I1
+sVfeels
+p42
+I3
+sVgetty
+p43
+I2
+sVknow
+p44
+I2
+sVooh
+p45
+I4
+sVone
+p46
+I4
+sVreap
+p47
+I3
+sVgrow
+p48
+I2
+sVman
+p49
+I1
+sVstone
+p50
+I1
+sVmade
+p51
+I1
+sVoff
+p52
+I1
+sVfit
+p53
+I2
+sVoh
+p54
+I4
+sVspilled
+p55
+I1
+sVdrop
+p56
+I1
+sVwell
+p57
+I1
+sVsee
+p58
+I1
+sVsuppose
+p59
+I3
+sVdirty
+p60
+I1
+sVden
+p61
+I2
+sVhoo
+p62
+I1
+sVhypocrites
+p63
+I1
+sVevery
+p64
+I1
+sVproblem
+p65
+I2
+sVtalk
+p66
+I1
+sVdis
+p67
+I1
+s.

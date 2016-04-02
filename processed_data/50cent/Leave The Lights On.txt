@@ -1,73 +1,524 @@
-"leave the lights on" lyrics
-50 cent lyrics
-"leave the lights on"
-say man we don't need much to come to the freak show
-come to the freak show
-fuck that, leave the lights on
-girl, 68-69 leave the lights on
-can't see shit leave the lights on
-girl, i can't see shit leave the lights on
-girl, leave the lights on
-68-69 leave the lights on
-damn, leave the lights on
-zip down my zipper and play with the python
-girl i make the bed rock like i'm on a yacht
-shit citation tink prick lick my cock baby
-time's money check my turbion movement
-i'm rich bitch, i say move, you get to moving
-and now my bentley moves on, tight nigga i'm crusing
-it ain't hard to tell who's running, who's loosing
-got a pent house around my wrist, i'm flashing out
-condo around my neck, i'm cashing out
-i'm nigga rich, got everything a rich nigga get
-i got whip for days, i got kick for days
-louie, hermes', hard the jimmy choo's
-ferogamo, dolce gabana, red bottom blues
-plus i got the prada collection
-i might leave my socks on sex on old habbits
-babe show me what you know
-let the freak in you come out on the low
-68-69 all the time, shorty
-you can be a freak for me
-come and be a freak for me
-baby i can make girls lick my shorty
-you can be a freak for me
-come and be a freak tonight
-this kid right, leave the lights on
-attention shit, leave the lights on
-damn, leave the lights on
-zip down my zipper and play with the python
-girl i never known all that s&m shit
-girl leave the spikes for me but you can get your ass whiped
-limited time, skip the foreplay
-i be a chocolate whopper you could have this shit your way
-hope the head games good you be looking exotic
-seven hour flight she already 'rotic
-london, paris, france, japan
-talk to me girl while we fuck, i can't understand
-let's get to stroking, boning, moaning, groaning
-start in the afternoon, end up the next morning
-started the next round, lick from my neck down
-so she did do felatio correct. wow!
-i'll play monkey see, monkey do
-so everything you do to me i do to you
-it tickles but i am quite here
-what the fuck she tryna say with her tongue stuck in my ear
-68-69 all the time, shorty
-you can be a freak for me
-come and be a freak for me
-baby i can lick yours and you can lick mine shorty
-you can be a freak for me
-come and be a freak tonight
-this kid right, leave the lights on
-attention shit, leave the lights on
-damn, leave the lights on
-zip down my zipper and play with the python
-girl girl i know you want me
-well why the hell wouldn't you want me?
-shorty now push up on it
-zip down my zipper, play with the python
-you gon be just be like that?
-you so insensitive, hurt my feelings
-i mean from the bottom of my heart
-i love you
+(dp1
+Vlimited
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I3
+sVmoney
+p5
+I1
+sVmove
+p6
+I1
+sVknown
+p7
+I1
+sValready
+p8
+I1
+sVlondon
+p9
+I1
+sVjapan
+p10
+I1
+sVaint
+p11
+I1
+sVpent
+p12
+I1
+sVeverything
+p13
+I2
+sVparis
+p14
+I1
+sVhope
+p15
+I1
+sVlets
+p16
+I1
+sVrich
+p17
+I3
+sVskip
+p18
+I1
+sVflashing
+p19
+I1
+sVmight
+p20
+I1
+sVfelatio
+p21
+I1
+sVkick
+p22
+I1
+sVstarted
+p23
+I1
+sVdo
+p24
+I1
+sVgood
+p25
+I1
+sVinsensitive
+p26
+I1
+sVaround
+p27
+I2
+sVget
+p28
+I4
+sVpython
+p29
+I4
+sVnext
+p30
+I2
+sVmoaning
+p31
+I1
+sVknow
+p32
+I2
+sVtickles
+p33
+I1
+sVspikes
+p34
+I1
+sVhermes
+p35
+I1
+sVlike
+p36
+I2
+sV50
+p37
+I1
+sVmorning
+p38
+I1
+sVleave
+p39
+I17
+sVrock
+p40
+I1
+sVround
+p41
+I1
+sVlouie
+p42
+I1
+sVnigga
+p43
+I3
+sVold
+p44
+I1
+sVbentley
+p45
+I1
+sVhouse
+p46
+I1
+sVhard
+p47
+I2
+sVwhopper
+p48
+I1
+sVsex
+p49
+I1
+sVsee
+p50
+I3
+sVhell
+p51
+I1
+sVgirl
+p52
+I9
+sVwhip
+p53
+I1
+sVout
+p54
+I2
+sVgon
+p55
+I1
+sVblues
+p56
+I1
+sVbottom
+p57
+I2
+sVmine
+p58
+I1
+sVwow
+p59
+I1
+sVlooking
+p60
+I1
+sVlights
+p61
+I15
+sVcrusing
+p62
+I1
+sVprada
+p63
+I1
+sVit
+p64
+I1
+sVgot
+p65
+I5
+sVcorrect
+p66
+I1
+sVred
+p67
+I1
+sVmovement
+p68
+I1
+sVass
+p69
+I1
+sVhabbits
+p70
+I1
+sVnever
+p71
+I1
+sVdolce
+p72
+I1
+sVboning
+p73
+I1
+sVattention
+p74
+I2
+sVhere
+p75
+I1
+sVquite
+p76
+I1
+sVturbion
+p77
+I1
+sVrotic
+p78
+I1
+sVlet
+p79
+I1
+sVcondo
+p80
+I1
+sVzipper
+p81
+I4
+sVon
+p82
+I14
+sVwouldnt
+p83
+I1
+sVcashing
+p84
+I1
+sVcould
+p85
+I1
+sVdays
+p86
+I2
+sVtimes
+p87
+I1
+sVplus
+p88
+I1
+sVafternoon
+p89
+I1
+sVwrist
+p90
+I1
+sVtongue
+p91
+I1
+sVmean
+p92
+I1
+sVexotic
+p93
+I1
+sVjimmy
+p94
+I1
+sVlove
+p95
+I1
+sVdont
+p96
+I1
+sVsocks
+p97
+I1
+sVfeelings
+p98
+I1
+sVdown
+p99
+I1
+sVright
+p100
+I2
+sVbitch
+p101
+I1
+sVfrance
+p102
+I1
+sVstroking
+p103
+I1
+sVwhiped
+p104
+I1
+sVmonkey
+p105
+I2
+sVzip
+p106
+I4
+sVstuck
+p107
+I1
+sVcome
+p108
+I7
+sVgirls
+p109
+I1
+sVcent
+p110
+I1
+sVwhos
+p111
+I2
+sVstart
+p112
+I1
+sVmuch
+p113
+I1
+sVdamn
+p114
+I3
+sVlow
+p115
+I1
+sVway
+p116
+I1
+sVkid
+p117
+I2
+sVtink
+p118
+I1
+sVtell
+p119
+I1
+sVtryna
+p120
+I1
+sVhead
+p121
+I1
+sVbabe
+p122
+I1
+sVthat
+p123
+I1
+sVforeplay
+p124
+I1
+sVshorty
+p125
+I5
+sVchocolate
+p126
+I1
+sVunderstand
+p127
+I1
+sVbaby
+p128
+I3
+sVear
+p129
+I1
+sVgabana
+p130
+I1
+sVme
+p131
+I8
+sVhour
+p132
+I1
+sVsay
+p133
+I3
+sVbed
+p134
+I1
+sVferogamo
+p135
+I1
+sVcock
+p136
+I1
+sVill
+p137
+I1
+sVheart
+p138
+I1
+sVseven
+p139
+I1
+sVlick
+p140
+I5
+sVfreak
+p141
+I11
+sVgroaning
+p142
+I1
+sVwell
+p143
+I1
+sVcitation
+p144
+I1
+sVfuck
+p145
+I3
+sVtonight
+p146
+I2
+sVneed
+p147
+I1
+sVcant
+p148
+I3
+sVim
+p149
+I6
+sVwant
+p150
+I2
+sVloosing
+p151
+I1
+sVflight
+p152
+I1
+sVmoves
+p153
+I1
+sVcheck
+p154
+I1
+sVshit
+p155
+I7
+sVend
+p156
+I1
+sVmake
+p157
+I2
+sVtight
+p158
+I1
+sVgames
+p159
+I1
+sVyou
+p160
+I2
+sVplay
+p161
+I5
+sVprick
+p162
+I1
+sVtime
+p163
+I3
+sVcollection
+p164
+I1
+sVrunning
+p165
+I1
+sVmoving
+p166
+I1
+sV6869
+p167
+I4
+sVhurt
+p168
+I1
+sVman
+p169
+I1
+sVneck
+p170
+I2
+sVyacht
+p171
+I1
+sVsm
+p172
+I1
+sVchoos
+p173
+I1
+sVpush
+p174
+I1
+sVtalk
+p175
+I1
+s.

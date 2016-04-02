@@ -1,55 +1,431 @@
-"eyes are the soul" lyrics
-mc lyte lyrics
-"eyes are the soul"
-he knows he's leaving, not much time left
-holding on to his very last breath
-i saw him last week, nervous and uptight
-losing sleep, stays up all night
-wishin he woulda used his mind and not rushed
-to push in the bush but took his time
-to get to know the girl he slapped skins with
-shared needles with
-wish he could go back, change the direction
-but now he's got the infection
-i spoke to him, gave him inspired words
-i'm sure he's heard
-live by the sword, die by the sword
-what's left, pray to the oh lord
-you can deny but the truth will unfold
-because the eyes are the soul
-eyes are the soul..
-eyes are the soul..
-i look into his eyes, but he's so high
-from the crack, he thinks that he can fly
-he has problems he doesn't like solving
-takes one hit, and thinks the world stops revolving
-19, his eyes full of tears
-he hasn't smiled at least for a year
-his mom is gone cause he was high one night
-while they killed her, because of the crack pipe
-he's wanted by the law
-because he's robbed at least three grocery stores
-he's lost, all control
-take a look, eyes are the soul
-eyes are the soul..
-eyes are the soul..
-eyes are the soul..
-i look into her eyes, she's so young
-but i know, where she's comin from
-i've watched her grow, little girl down the street
-white shirts and skirts with pleats
-she cried, fear in her voice
-not knowing, she had a choice
-oh so sad, oh so lonely
-if she knew that she's not the only
-one in school that didn't use the caution
-facin, raisin a baby or abortion
-her mother said she had to leave
-who wants to be where a baby is not received
-no ultimatum, she's goin to the g.y.n.
-to put it to an end
-she's learned a lesson i suppose
-i can tell, eyes are the soul
-eyes are the soul..
-eyes are the soul..
-eyes are the soul..
+(dp1
+Vstores
+p2
+I1
+sVwords
+p3
+I1
+sVlyrics
+p4
+I2
+sVstays
+p5
+I1
+sVsleep
+p6
+I1
+sVslapped
+p7
+I1
+sVgo
+p8
+I1
+sVfear
+p9
+I1
+sVcried
+p10
+I1
+sVmother
+p11
+I1
+sVpray
+p12
+I1
+sVnervous
+p13
+I1
+sVsolving
+p14
+I1
+sVyoung
+p15
+I1
+sVbush
+p16
+I1
+sVcrack
+p17
+I2
+sVlord
+p18
+I1
+sVgave
+p19
+I1
+sVlonely
+p20
+I1
+sVhit
+p21
+I1
+sVsword
+p22
+I2
+sVget
+p23
+I1
+sVwoulda
+p24
+I1
+sVchoice
+p25
+I1
+sVknow
+p26
+I2
+sVmom
+p27
+I1
+sVrevolving
+p28
+I1
+sVworld
+p29
+I1
+sVkilled
+p30
+I1
+sVschool
+p31
+I1
+sVlike
+p32
+I1
+sVlost
+p33
+I1
+sVdie
+p34
+I1
+sVleave
+p35
+I1
+sVpleats
+p36
+I1
+sVtruth
+p37
+I1
+sVnight
+p38
+I2
+sVback
+p39
+I1
+sVskins
+p40
+I1
+sVused
+p41
+I1
+sVshes
+p42
+I5
+sVyear
+p43
+I1
+sVgirl
+p44
+I2
+sVthinks
+p45
+I2
+sVsaid
+p46
+I1
+sVstops
+p47
+I1
+sVuse
+p48
+I1
+sVshared
+p49
+I1
+sVlearned
+p50
+I1
+sVcause
+p51
+I1
+sVknowing
+p52
+I1
+sVfull
+p53
+I1
+sVgot
+p54
+I1
+sVlittle
+p55
+I1
+sVuptight
+p56
+I1
+sVunfold
+p57
+I1
+sVlosing
+p58
+I1
+sVwanted
+p59
+I1
+sVchange
+p60
+I1
+sVtakes
+p61
+I1
+sVreceived
+p62
+I1
+sVlast
+p63
+I2
+sVoh
+p64
+I3
+sVcould
+p65
+I1
+sVrushed
+p66
+I1
+sVraisin
+p67
+I1
+sVleaving
+p68
+I1
+sVwhats
+p69
+I1
+sVive
+p70
+I1
+sVone
+p71
+I3
+sVput
+p72
+I1
+sVdoesnt
+p73
+I1
+sVcomin
+p74
+I1
+sVlesson
+p75
+I1
+sVfacin
+p76
+I1
+sVwishin
+p77
+I1
+sVfrom
+p78
+I1
+sVspoke
+p79
+I1
+sVhes
+p80
+I7
+sVlyte
+p81
+I1
+sVtears
+p82
+I1
+sVleast
+p83
+I2
+sVbreath
+p84
+I1
+sVlive
+p85
+I1
+sVmuch
+p86
+I1
+sVwhite
+p87
+I1
+sVtell
+p88
+I1
+sVwants
+p89
+I1
+sVdirection
+p90
+I1
+sVonly
+p91
+I1
+sVknows
+p92
+I1
+sVrobbed
+p93
+I1
+sVgyn
+p94
+I1
+sVtook
+p95
+I1
+sVinfection
+p96
+I1
+sVneedles
+p97
+I1
+sVbaby
+p98
+I2
+sVwith
+p99
+I2
+sVfly
+p100
+I1
+sVgrocery
+p101
+I1
+sVultimatum
+p102
+I1
+sVlook
+p103
+I3
+sVmc
+p104
+I1
+sV19
+p105
+I1
+sVwish
+p106
+I1
+sVabortion
+p107
+I1
+sVsoul
+p108
+I13
+sVstreet
+p109
+I1
+sVsuppose
+p110
+I1
+sVthree
+p111
+I1
+sVcaution
+p112
+I1
+sVvoice
+p113
+I1
+sVdidnt
+p114
+I1
+sVinspired
+p115
+I1
+sVskirts
+p116
+I1
+sVshirts
+p117
+I1
+sVcontrol
+p118
+I1
+sVgone
+p119
+I1
+sVmind
+p120
+I1
+sVeyes
+p121
+I16
+sVsad
+p122
+I1
+sVhigh
+p123
+I2
+sVheard
+p124
+I1
+sVim
+p125
+I1
+sVwatched
+p126
+I1
+sVsaw
+p127
+I1
+sVhasnt
+p128
+I1
+sVend
+p129
+I1
+sVtake
+p130
+I1
+sVholding
+p131
+I1
+sVweek
+p132
+I1
+sVsure
+p133
+I1
+sVknew
+p134
+I1
+sVproblems
+p135
+I1
+sVsmiled
+p136
+I1
+sVlaw
+p137
+I1
+sVgrow
+p138
+I1
+sVgoin
+p139
+I1
+sVdeny
+p140
+I1
+sVpipe
+p141
+I1
+sVtime
+p142
+I2
+sVpush
+p143
+I1
+sVleft
+p144
+I2
+s.

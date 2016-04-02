@@ -1,75 +1,425 @@
-"drink it up" lyrics
-n.w.a. lyrics
-"drink it up"
-(feat. d.o.c. and fila fresh crew)
-(winos never get afraid of nothin but runnin outta wine)
-oww, drink it up baby! (drink it up baby)
-gulp it on down! (gulp it on down)
-come on, suck it up baby! (suck it up baby)
-sip it and pass it around! (pass it around)
-now i can start with crown royal! (with crown royal)
-and then i drink mad dog! (drink mad dog)
-it doesn't matter what i'm drinkin! (doesn't matter)
-as long as it's alcohol! (alcohol)
-now some of you drink gin! (you drink gin)
-and some drink old crow! (drink old crow)
-now when the bottle gets empty! (bottle gets empty)
-i'm goin' to the liquor stooore! (liquor store)
-drink it up baby! (drink it up baby)
-gulp it on down! (gulp it on down)
-now suck it up baby! (suck it up baby)
-sip it and pass it around! (pass it around)
-drink it up baby! (drink it up baby)
-till you fall out! (till you fall out)
-come on, bust some wine baby! (bust some wine)
-let me pour it in your mouth! (in your mouth)
-now all you kool-aid drinkers! (kool-aid drinkers)
-who don't like to get druuuunk! (like to get drunk)
-next time i come to your party (come to your party)
-i'm gonna spike your puuunch! (spike yo punch)
-i always get pulled over (get pulled over)
-and have to walk a straight line (a straight line)
-i always get the tickets! (get the tickets)
-but the wine stays mine! (wine stays mine)
-drink it up baby! (drink it up baby)
-gulp it on down! (gulp it on down)
-come on, come on, suck it up baby! (suck it up baby)
-sip it and pass it around! (pass it around)
-now the boys in the hood! (boys in the hood)
-sometimes get high! (sometimes get high)
-but i just drink 8-balllllls! (just drink 8-ball)
-because it's cheaper to buy! (cheaper to buy)
-so it's time to go home! (time to go home)
-before the police come! (the police come)
-cause if i go to jail, y'all! (go to jail)
-i can't drink no more rum! (drink no more rum)
-drink it up baby! (drink it up baby)
-gulp it on down! (gulp it on down)
-come on, come on, suck it up baby! (suck it up baby)
-sip it and pass it around! (pass it around)
-awwwwww.....
-awwwwww.....
-awwwwww.....
-awwwwww.....
-wait a minute man, winos can't sing! yall, oughta cut that out!
-since we're talkin bout drinkin, here's a suggestion
-people listen up, here's a question
-do you drink crown roooo-yal!
-(yeah!)
-what about maaad doooogg!
-(noooooow)
-what about jack daaaniels!
-(yeah!)
-gin and (sooockllllle?)
-(yeah!)
-what about some night train?
-(yeah!)
-compton's fiiiinest!
-(reeeeeuhhh!)
-but if you're not a hard drinker.....(you must be a ruler)
-i wanna hear you scream (all the folks who drink coolers)
-(ayiyiyiyiyiyiyiyiyiyi!)
-(watapatata-wabaaaahhh!)
-(arrrrrrrribaaaaaa!)
-(a cheese dog! i did it in about 87 seconds!)
-(i ate your mama's burrito, man!)
+(dp1
+Vlyrics
+p2
+I2
+sVover
+p3
+I1
+sVstays
+p4
+I2
+sVnwa
+p5
+I1
+sVgo
+p6
+I4
+sVfeat
+p7
+I1
+sVdrinkin
+p8
+I2
+sVcut
+p9
+I1
+sVpolice
+p10
+I2
+sVroyal
+p11
+I2
+sVbust
+p12
+I2
+sVcrew
+p13
+I1
+sVgulp
+p14
+I8
+sVfolks
+p15
+I1
+sVbout
+p16
+I1
+sVdruuuunk
+p17
+I1
+sVrooooyal
+p18
+I1
+sVaround
+p19
+I8
+sVyo
+p20
+I1
+sVget
+p21
+I9
+sVayiyiyiyiyiyiyiyiyiyi
+p22
+I1
+sVruler
+p23
+I1
+sVcheaper
+p24
+I2
+sVjack
+p25
+I1
+sVfall
+p26
+I2
+sVminute
+p27
+I1
+sVwinos
+p28
+I2
+sVtickets
+p29
+I2
+sVlike
+p30
+I2
+sValways
+p31
+I2
+sVdaaaniels
+p32
+I1
+sVyall
+p33
+I2
+sVold
+p34
+I2
+sVpeople
+p35
+I1
+sVcrow
+p36
+I2
+sVliquor
+p37
+I2
+sVhard
+p38
+I1
+sVcrown
+p39
+I3
+sVyeah
+p40
+I4
+sVpass
+p41
+I8
+sVhome
+p42
+I2
+sV8ball
+p43
+I1
+sV87
+p44
+I1
+sVout
+p45
+I2
+sVgon
+p46
+I1
+sV8balllllls
+p47
+I1
+sValcohol
+p48
+I2
+sVheres
+p49
+I2
+sVsince
+p50
+I1
+sVate
+p51
+I1
+sVcause
+p52
+I1
+sVcoolers
+p53
+I1
+sVmamas
+p54
+I1
+sVrum
+p55
+I2
+sVseconds
+p56
+I1
+sVnever
+p57
+I1
+sVpunch
+p58
+I1
+sVlet
+p59
+I1
+sVpuuunch
+p60
+I1
+sVsing
+p61
+I1
+sVcome
+p62
+I10
+sVwait
+p63
+I1
+sVnoooooow
+p64
+I1
+sVreeeeeuhhh
+p65
+I1
+sVsuggestion
+p66
+I1
+sVcheese
+p67
+I1
+sVdont
+p68
+I1
+sVdrunk
+p69
+I1
+sVwalk
+p70
+I1
+sVdown
+p71
+I4
+sVdoesnt
+p72
+I2
+sVoughta
+p73
+I1
+sVoww
+p74
+I1
+sVhood
+p75
+I2
+sVwan
+p76
+I1
+sVnight
+p77
+I1
+sVquestion
+p78
+I1
+sVlong
+p79
+I1
+sVnext
+p80
+I1
+sVstart
+p81
+I1
+sVspike
+p82
+I2
+sVgin
+p83
+I3
+sVman
+p84
+I2
+sVempty
+p85
+I2
+sVlisten
+p86
+I1
+sVbuy
+p87
+I2
+sVstooore
+p88
+I1
+sVawwwwww
+p89
+I4
+sVdoooogg
+p90
+I1
+sVcant
+p91
+I2
+sVkoolaid
+p92
+I2
+sVboys
+p93
+I2
+sVtrain
+p94
+I1
+sVhear
+p95
+I1
+sVbaby
+p96
+I19
+sVline
+p97
+I2
+sVmust
+p98
+I1
+sVrunnin
+p99
+I1
+sVdrinkers
+p100
+I2
+sVmaaad
+p101
+I1
+sVstraight
+p102
+I2
+sVup
+p103
+I1
+sVpour
+p104
+I1
+sVsooockllllle
+p105
+I1
+sVmatter
+p106
+I2
+sVwatapatatawabaaaahhh
+p107
+I1
+sVstore
+p108
+I1
+sVyoure
+p109
+I1
+sVoutta
+p110
+I1
+sVmine
+p111
+I2
+sVhigh
+p112
+I2
+sVfila
+p113
+I1
+sVarrrrrrrribaaaaaa
+p114
+I1
+sVim
+p115
+I3
+sVafraid
+p116
+I1
+sVna
+p117
+I2
+sVtill
+p118
+I2
+sVparty
+p119
+I2
+sVgets
+p120
+I2
+sVtalkin
+p121
+I1
+sVcomptons
+p122
+I1
+sVdrinkeryou
+p123
+I1
+sVdrink
+p124
+I24
+sVsip
+p125
+I4
+sVmouth
+p126
+I2
+sVmad
+p127
+I2
+sVfiiiinest
+p128
+I1
+sVsuck
+p129
+I8
+sVgoin
+p130
+I1
+sVburrito
+p131
+I1
+sVdoc
+p132
+I1
+sVsometimes
+p133
+I2
+sVdog
+p134
+I3
+sVnothin
+p135
+I1
+sVjail
+p136
+I2
+sVbottle
+p137
+I2
+sVtime
+p138
+I3
+sVfresh
+p139
+I1
+sVpulled
+p140
+I2
+sVscream
+p141
+I1
+sVwine
+p142
+I5
+s.

@@ -1,97 +1,869 @@
-"the remedy" lyrics
-common lyrics
-"the remedy"
-(feat. q-tip)
-yo, we all got different things we got to deal with. we always are trying
-to put the blame on something else rather than sometimes looking at
-ourselves, recognizing a lot of the stuff that happens...but if we look
-within ourselves, we could prevent a lot of this nonsense. it's about
-relating back to the essence, where it all stems from. i'm-a do my thing
-over this drum, like a native tongue.
-do what you will, if you feel that your steeze is real
-complicated with the skills over reel to reel
-brown skin is what i feel, my mind and body's appeal
-is to the no-frill mills, who hear the beats to chill
-constantly, i'm hearing black americans just sneering
-looking for a leader who can fill us up with either
-hitting us up with great emotional chat
-about the fact
-that the black
-is constantly held back
-like 50 tracks back in a relay race
-and the white team's ahead
-so let's keep up the pace
-and i be needing something
-to feed my logical taste
-at the end of the race is there a paradise place?
-yo, we can't get involved in what the next man is doing
-material gain we put too much in persuing
-"yo duke, i need this dough so we can step to this party"
-but we can all mardi grati
-minus that shit in our body
-"what that got to do with that"
-'cause kid that's the essence,
-your physical presence
-embodies every lesson
-you can't run the rolls royce if the engine is busted.
-can't even life the knife to cut the mustard.
-what we need to do first
-now listen to this verse
-let's concentrate on our spiritual plate.
-recognize your existence in this vast blue space
-from a tiny cloud of blood
-to the human beings with taste, sight, touch, smell
-and sound
-let's deem it profound!
-and prioritize this cause it was allah's wish
-"allah? i'm god"
-"no i ddon't believe that. that's a mystery"
-"if god is so good why does shit be happening to me?"
-there's divinity within
-because we come from the divine
-a froce that's not seen but you feel it every time
-when the wind blows, and the world turns,
-and the rain drops, and the baby cries
-and the bird flies, and the ground quake,
-and the stars gleam
-so many things are eident of its existence
-what we need to do is link it with persistence
-once we recognize that, we can move ahead
-native tongue, common sense yo he's hip-hop bred...
-from the spiritual world my former life has developed
-first person i lost close to me was stella
-some of my mellows
-lost their mothers and their brothers
-for them i feel empathy
-but i ain't pouring out no liquor for no niggas
-i pour my heart out when i see dot out on the deck
-knowing two weeks ago he slapped-box with death
-i hear of niggas dying in the wind-in the news
-but when it's somebody you know it hits you
-and emotions get bruised
-i ain't been in your shoes,
-i won't judge you for knocking
-because the spirit of the ghetto says "you gotta!"
-they snatch you again from rock flippin'
-give back into the neighborhood, you better start kickin'
-stickin' stores
-on the strip
-i'm tired of arabs giving me my change back
-devil bomb my yesterday
-my tomorrow he never gave back
-i lay back, looking at the ceiling
-wonndering what can i do
-so my homie won't have to be dealing
-not cause you serving and i'm rapping i'm better
-just different pieces to the puzzle of black life
-that we have to put together, better ourselves
-cause families we gotta raise
-no matter how long the money
-shorter become the days
-men become like women
-and no difference in the season
-if you got popped five times
-you breathing for a reason
-let's put the five tenure plan into progression
-before we count our paper
-count our blessings
+(dp1
+Vmardi
+p2
+I1
+sVserving
+p3
+I1
+sVstores
+p4
+I1
+sVshoes
+p5
+I1
+sVlyrics
+p6
+I2
+sVdeck
+p7
+I1
+sVessence
+p8
+I2
+sVlay
+p9
+I1
+sVmove
+p10
+I1
+sVheld
+p11
+I1
+sVpaper
+p12
+I1
+sVdough
+p13
+I1
+sVcount
+p14
+I2
+sVhuman
+p15
+I1
+sVskin
+p16
+I1
+sVtouch
+p17
+I1
+sVexistence
+p18
+I2
+sVfeat
+p19
+I1
+sVslappedbox
+p20
+I1
+sVground
+p21
+I1
+sVima
+p22
+I1
+sVcut
+p23
+I1
+sVdivinity
+p24
+I1
+sVformer
+p25
+I1
+sVbetter
+p26
+I3
+sVlets
+p27
+I4
+sVblack
+p28
+I3
+sVroyce
+p29
+I1
+sVdeveloped
+p30
+I1
+sVreason
+p31
+I1
+sVweeks
+p32
+I1
+sVallahs
+p33
+I1
+sVpuzzle
+p34
+I1
+sVta
+p35
+I2
+sVreal
+p36
+I1
+sVbrown
+p37
+I1
+sVgood
+p38
+I1
+sVsomebody
+p39
+I1
+sVyo
+p40
+I4
+sVget
+p41
+I2
+sVmaterial
+p42
+I1
+sVme
+p43
+I1
+sVremedy
+p44
+I2
+sVevery
+p45
+I2
+sVknow
+p46
+I1
+sVspirit
+p47
+I1
+sVjudge
+p48
+I1
+sVworld
+p49
+I2
+sVdifference
+p50
+I1
+sVbird
+p51
+I1
+sVvast
+p52
+I1
+sVlook
+p53
+I1
+sVmystery
+p54
+I1
+sVmellows
+p55
+I1
+sVlike
+p56
+I3
+sVlost
+p57
+I2
+sVprofound
+p58
+I1
+sVskills
+p59
+I1
+sValways
+p60
+I1
+sVmothers
+p61
+I1
+sV50
+p62
+I1
+sVteams
+p63
+I1
+sVrace
+p64
+I2
+sVeither
+p65
+I1
+sVturns
+p66
+I1
+sVbecome
+p67
+I2
+sVtwo
+p68
+I1
+sVprevent
+p69
+I1
+sVspiritual
+p70
+I2
+sVsays
+p71
+I1
+sVquake
+p72
+I1
+sVdeal
+p73
+I1
+sVtired
+p74
+I1
+sVdoing
+p75
+I1
+sVdealing
+p76
+I1
+sVliquor
+p77
+I1
+sVallah
+p78
+I1
+sVback
+p79
+I7
+sVsee
+p80
+I1
+sVgave
+p81
+I1
+sVpour
+p82
+I1
+sVsight
+p83
+I1
+sVlink
+p84
+I1
+sVclose
+p85
+I1
+sVdivine
+p86
+I1
+sVblows
+p87
+I1
+sVbomb
+p88
+I1
+sVbrothers
+p89
+I1
+sVqtip
+p90
+I1
+sVgive
+p91
+I1
+sVspace
+p92
+I1
+sVgiving
+p93
+I1
+sVgod
+p94
+I2
+sVemotions
+p95
+I1
+sVtomorrow
+p96
+I1
+sVlooking
+p97
+I3
+sVstuff
+p98
+I1
+sVdays
+p99
+I1
+sVembodies
+p100
+I1
+sVparadise
+p101
+I1
+sVgot
+p102
+I6
+sVappeal
+p103
+I1
+sVcause
+p104
+I4
+sVleader
+p105
+I1
+sVknife
+p106
+I1
+sVcommon
+p107
+I2
+sVbody
+p108
+I1
+sVaint
+p109
+I2
+sVnever
+p110
+I1
+sVrun
+p111
+I1
+sVdo
+p112
+I1
+sVtenure
+p113
+I1
+sVrock
+p114
+I1
+sVblame
+p115
+I1
+sVtracks
+p116
+I1
+sVconcentrate
+p117
+I1
+sVcomplicated
+p118
+I1
+sVput
+p119
+I4
+sVnews
+p120
+I1
+sVrelating
+p121
+I1
+sVcome
+p122
+I1
+sVchange
+p123
+I1
+sVgreat
+p124
+I1
+sVempathy
+p125
+I1
+sVdrum
+p126
+I1
+sVahead
+p127
+I2
+sVinvolved
+p128
+I1
+sVcould
+p129
+I1
+sVneeding
+p130
+I1
+sVstep
+p131
+I1
+sVkeep
+p132
+I1
+sVthing
+p133
+I1
+sVwomen
+p134
+I1
+sVbusted
+p135
+I1
+sVplace
+p136
+I1
+sVtogether
+p137
+I1
+sVtongue
+p138
+I2
+sVtheres
+p139
+I1
+sVbruised
+p140
+I1
+sVthats
+p141
+I3
+sVfeed
+p142
+I1
+sVduke
+p143
+I1
+sVflies
+p144
+I1
+sVeident
+p145
+I1
+sVflippin
+p146
+I1
+sVpresence
+p147
+I1
+sVfeel
+p148
+I4
+sVbreathing
+p149
+I1
+sVghetto
+p150
+I1
+sVwithin
+p151
+I2
+sVknocking
+p152
+I1
+sVnonsense
+p153
+I1
+sVlogical
+p154
+I1
+sVhearing
+p155
+I1
+sVddont
+p156
+I1
+sVbeings
+p157
+I1
+sVsneering
+p158
+I1
+sVamericans
+p159
+I1
+sVlong
+p160
+I1
+sVstrip
+p161
+I1
+sVneighborhood
+p162
+I1
+sVlesson
+p163
+I1
+sVrolls
+p164
+I1
+sVcloud
+p165
+I1
+sVpouring
+p166
+I1
+sVdevil
+p167
+I1
+sVraise
+p168
+I1
+sVhes
+p169
+I1
+sVgleam
+p170
+I1
+sVconstantly
+p171
+I2
+sVknowing
+p172
+I1
+sVverse
+p173
+I1
+sVtiny
+p174
+I1
+sVnext
+p175
+I1
+sVhitting
+p176
+I1
+sVstart
+p177
+I1
+sVmuch
+p178
+I1
+sVlot
+p179
+I2
+sVblessings
+p180
+I1
+sVwhite
+p181
+I1
+sVkid
+p182
+I1
+sVlisten
+p183
+I1
+sVengine
+p184
+I1
+sVlife
+p185
+I3
+sVfamilies
+p186
+I1
+sVstars
+p187
+I1
+sVrelay
+p188
+I1
+sVthat
+p189
+I1
+sVseason
+p190
+I1
+sVbelieve
+p191
+I1
+sVwonndering
+p192
+I1
+sVabout
+p193
+I1
+sVelse
+p194
+I1
+sVhear
+p195
+I2
+sVgain
+p196
+I1
+sVstems
+p197
+I1
+sVbaby
+p198
+I1
+sVtrying
+p199
+I1
+sVreel
+p200
+I2
+sVbodys
+p201
+I1
+sVdot
+p202
+I1
+sVchill
+p203
+I1
+sVsound
+p204
+I1
+sVstickin
+p205
+I1
+sVniggas
+p206
+I2
+sVnofrill
+p207
+I1
+sVpersuing
+p208
+I1
+sVwish
+p209
+I1
+sVfroce
+p210
+I1
+sVcant
+p211
+I3
+sVus
+p212
+I2
+sVpace
+p213
+I1
+sVhomie
+p214
+I1
+sVmany
+p215
+I1
+sVemotional
+p216
+I1
+sVsteeze
+p217
+I1
+sVdrops
+p218
+I1
+sVminus
+p219
+I1
+sVsomething
+p220
+I2
+sVheart
+p221
+I1
+sVbred
+p222
+I1
+sVmoney
+p223
+I1
+sVplate
+p224
+I1
+sVtaste
+p225
+I2
+sVrecognize
+p226
+I2
+sVarabs
+p227
+I1
+sVmind
+p228
+I1
+sVceiling
+p229
+I1
+sVmatter
+p230
+I1
+sVpieces
+p231
+I1
+sVdeath
+p232
+I1
+sVbeats
+p233
+I1
+sVdeem
+p234
+I1
+sVim
+p235
+I5
+sVat
+p236
+I1
+sVchat
+p237
+I1
+sVsense
+p238
+I1
+sVneed
+p239
+I3
+sVseen
+p240
+I1
+sVplan
+p241
+I1
+sVtimes
+p242
+I1
+sVhits
+p243
+I1
+sVshit
+p244
+I2
+sVnative
+p245
+I2
+sVdifferent
+p246
+I2
+sVend
+p247
+I1
+sVdying
+p248
+I1
+sVstella
+p249
+I1
+sVrather
+p250
+I1
+sVthings
+p251
+I2
+sVpopped
+p252
+I1
+sVmills
+p253
+I1
+sVourselves
+p254
+I1
+sVshorter
+p255
+I1
+sVrecognizing
+p256
+I1
+sVwont
+p257
+I2
+sVparty
+p258
+I1
+sVyou
+p259
+I1
+sVfill
+p260
+I1
+sVsmell
+p261
+I1
+sVwindin
+p262
+I1
+sVpersistence
+p263
+I1
+sVeven
+p264
+I1
+sVmustard
+p265
+I1
+sVblue
+p266
+I1
+sVyesterday
+p267
+I1
+sVrain
+p268
+I1
+sVhiphop
+p269
+I1
+sVblood
+p270
+I1
+sVmen
+p271
+I1
+sVsnatch
+p272
+I1
+sVman
+p273
+I1
+sVago
+p274
+I1
+sVphysical
+p275
+I1
+sVhappening
+p276
+I1
+sVprioritize
+p277
+I1
+sVsometimes
+p278
+I1
+sVhappensbut
+p279
+I1
+sVrapping
+p280
+I1
+sVperson
+p281
+I1
+sVcries
+p282
+I1
+sVwind
+p283
+I1
+sVtime
+p284
+I1
+sVfive
+p285
+I2
+sVgrati
+p286
+I1
+sVprogression
+p287
+I1
+sVfirst
+p288
+I2
+sVkickin
+p289
+I1
+sVfact
+p290
+I1
+s.

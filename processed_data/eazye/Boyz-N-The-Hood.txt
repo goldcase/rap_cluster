@@ -1,113 +1,927 @@
-"boyz-n-the-hood" lyrics
-eazy-e lyrics
-"boyz-n-the-hood"
-"aiyo, man you remember that shit eazy did a while back
-muthafuckaz said wasnt gonna work (that crazy shit)
-stupid shit man, aiyo eazy
-why dont you come out from the piano
-and bust this crazy shit"
-woke up quick, at about noon
-jus' thought that i had to be in compton soon
-i gotta get drunk before the day begins
-before my mother starts bitchin about ma friends
-about to go and damn near went blind
-young niggaz at the path throwin up gang signs
-ran in the house, and grabbed ma clip
-wit the mack 10 on the side of ma hip
-bailed outside and pointed ma weapon
-just as i thought the fools kept steppin
-jumped in the fo' hit the juice on ma ride
-i got front back, and side to side
-then i let the alpine play (play)
-pumpin new shit by nwa
-it was gangsta gangsta at the top of the list
-then i played my own shit and it went somethin' like this
-cruisin down the street in my six-fo''
-jockin the bitches, slappin the hoes
-went to the park to get the scoop
-knuckleheads out there cold, shootin some hoops
-a car pulls up, who can it be
-a fresh el camino rollin kilo g
-he rolled down his window and he started to say
-its all about makin that g.t.a.
-coz the boys in the hood are always hard
-you come talkin that trash, we'll pull ya card
-knowin' nutin in life but to be legit'
-dont quote me boy coz i aint said shit
-yo man
-"get the fuck out"
-pump that beat
-"muthafucka, say what"
-down on b's is the place to give me the pace
-he said ma man j.d. is on freebase
-the boy j.d. was a friend of mine
-'till i caught him in my car tryin to steal the alpine
-chased him down the street to call a truce
-the silly muthafucka pulls out a deuce deuce
-little did he know i had a loaded 12 guage
-one sucker dead, l.a. times front page
-coz the boys in the hood are always hard
-you come talkin that trash, well pull ya card
-knowin' nutin in life but to be legit'
-dont quote me boy coz i aint said shit
-"yo leroy"
-"beer drinkin breath stinkin sniffin glue"
-bored as hell and i wanna get ill
-so i went to a spot where ma homeboys chill
-the fellas out there makin dat dollar
-i pulled up in ma 6 fo' impala
-they greet me wit a 40 and i start drinkin
-and from the 8 ball, my breath starts stinkin
-left to get ma girl to rock that body
-before i left, i hit the bac-ardi
-went to her house to get her out of the pad
-dumb hoe said somethin that made me mad
-she said somethin that i couldnt believe
-so i grabbed the stupid bitch by her nappy-ass weave
-she started talkin shit, wouldnt you know
-reached back like a pimp, slapped the hoe
-her father jumped up and he started to shout
-so i threw a right cross and knocked his old-ass out
-coz the boys in the hood are always hard
-you come talkin that trash, well pull ya card
-knowin' nutin in life but to be legit'
-dont quote me boy coz i aint said shit
-"who do u think you are mr. big stuff"
-"rock this muthafucka like the hard 3 tha hard way"
-i'm rollin hard, now under control
-then wrapped the 6 fo' round a telephone pole
-i looked at ma car and i said "oh brother"
-i'll throw it in the gutter and go buy another
-walkin home and i seen the g ride
-now cat is drivin, kilo on the side
-as they busted a u, they got pulled over
-a undercover cop in a dark green nova
-cat got beat for resistin arrest
-he socked a pig in the head for rippin his guess
-now g is caught, for doin the crime
-fourth offense on the boy, he'll do some time
-coz the boys in the hood are always hard
-you come talkin that trash, well pull ya card
-knowin nutin in life but to be legit'
-dont quote me boy coz i aint said shit
-l.a. playa
-big drum beater
-i went to get them out but there was no bail
-the fellas caused a riot in the county jail
-two days later in municipal court
-kilo g on trial cold cut a fart
-obstruction of the court said the judge
-on a six year sentence, ma man didnt budge
-baliff came over to turn him in
-kilo g looked up and gave a grin
-he yelled out fire, then came suzie
-the bitch came in with a sub-machine uzi
-police shot the bitch but they didnt hurt her
-both upstate for attempted murder
-coz the boys in the hood are always hard
-you come talkin that trash, well pull ya card
-knowin nutin in life but to be legit'
-dont quote me boy coz i aint said shit
-"yeah, i kicked a little ass
-but that was a blast from the past muthafucka
-"get busy ya ya ya yall"
+(dp1
+Vjockin
+p2
+I1
+sVsubmachine
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVsentence
+p6
+I1
+sVcaused
+p7
+I1
+sVpointed
+p8
+I1
+sVdollar
+p9
+I1
+sVsoon
+p10
+I1
+sVcross
+p11
+I1
+sVbacardi
+p12
+I1
+sVreached
+p13
+I1
+sVgang
+p14
+I1
+sVsigns
+p15
+I1
+sVgo
+p16
+I2
+sVhell
+p17
+I2
+sVcold
+p18
+I2
+sVglue
+p19
+I1
+sVbail
+p20
+I1
+sVuzi
+p21
+I1
+sVaint
+p22
+I5
+sVgta
+p23
+I1
+sVbitchin
+p24
+I1
+sVbelieve
+p25
+I1
+sVgrabbed
+p26
+I2
+sVtill
+p27
+I1
+sVfather
+p28
+I1
+sVyoung
+p29
+I1
+sVbust
+p30
+I1
+sVcrime
+p31
+I1
+sVarrest
+p32
+I1
+sVwindow
+p33
+I1
+sV8
+I1
+sVpiano
+p34
+I1
+sVover
+p35
+I1
+sVround
+p36
+I1
+sVta
+p37
+I1
+sVhip
+p38
+I1
+sVbusy
+p39
+I1
+sVhit
+p40
+I2
+sVmunicipal
+p41
+I1
+sVyo
+p42
+I2
+sVget
+p43
+I8
+sVya
+p44
+I8
+sVpumpin
+p45
+I1
+sVlater
+p46
+I1
+sVcamino
+p47
+I1
+sVdat
+p48
+I1
+sV12
+p49
+I1
+sVknow
+p50
+I2
+sVnew
+p51
+I1
+sVfront
+p52
+I2
+sVsuzie
+p53
+I1
+sVblast
+p54
+I1
+sVday
+p55
+I1
+sVgrin
+p56
+I1
+sValpine
+p57
+I2
+sVmuthafuckaz
+p58
+I1
+sVlike
+p59
+I3
+sVpimp
+p60
+I1
+sVobstruction
+p61
+I1
+sValways
+p62
+I5
+sVlist
+p63
+I1
+sVbrother
+p64
+I1
+sVstupid
+p65
+I2
+sVrock
+p66
+I2
+sVquick
+p67
+I1
+sVwent
+p68
+I6
+sVsteal
+p69
+I1
+sVside
+p70
+I4
+sVtwo
+p71
+I1
+sVnwa
+p72
+I1
+sVbaliff
+p73
+I1
+sVel
+p74
+I1
+sVjudge
+p75
+I1
+sVright
+p76
+I1
+sVhouse
+p77
+I2
+sVthrowin
+p78
+I1
+sVkilo
+p79
+I4
+sVback
+p80
+I3
+sVdead
+p81
+I1
+sVpolice
+p82
+I1
+sVpast
+p83
+I1
+sVstreet
+p84
+I2
+sVsteppin
+p85
+I1
+sVweave
+p86
+I1
+sVhoes
+p87
+I1
+sVhome
+p88
+I1
+sVgirl
+p89
+I1
+sVguess
+p90
+I1
+sVout
+p91
+I2
+sVwhat
+p92
+I1
+sVsaid
+p93
+I11
+sVguage
+p94
+I1
+sVmine
+p95
+I1
+sVjumped
+p96
+I2
+sVnoon
+p97
+I1
+sVslapped
+p98
+I1
+sVwouldnt
+p99
+I1
+sVoutside
+p100
+I1
+sVstuff
+p101
+I1
+sVplaya
+p102
+I1
+sVbeater
+p103
+I1
+sVgot
+p104
+I4
+sVeazye
+p105
+I1
+sVbody
+p106
+I1
+sVbe
+p107
+I1
+sVkicked
+p108
+I1
+sVdrivin
+p109
+I1
+sVdrinkin
+p110
+I2
+sVrolled
+p111
+I1
+sVmuthafucka
+p112
+I4
+sVcut
+p113
+I1
+sVlet
+p114
+I1
+sVbs
+p115
+I1
+sVjd
+p116
+I2
+sVpath
+p117
+I1
+sVass
+p118
+I1
+sVcome
+p119
+I6
+sVthrow
+p120
+I1
+sVcard
+p121
+I5
+sVpull
+p122
+I5
+sVboy
+p123
+I7
+sVdays
+p124
+I1
+sVdrum
+p125
+I1
+sVg
+I5
+sVoh
+p126
+I1
+sVstarts
+p127
+I2
+sVill
+p128
+I2
+sVcompton
+p129
+I1
+sVjail
+p130
+I1
+sVtimes
+p131
+I1
+sVwalkin
+p132
+I1
+sVtrial
+p133
+I1
+sVsniffin
+p134
+I1
+sVbusted
+p135
+I1
+sVplace
+p136
+I1
+sVsocked
+p137
+I1
+sVoldass
+p138
+I1
+sVmurder
+p139
+I1
+sVshootin
+p140
+I1
+sVhead
+p141
+I1
+sVcaught
+p142
+I2
+sVblind
+p143
+I1
+sV6
+I2
+sVbored
+p144
+I1
+sVfellas
+p145
+I2
+sVdont
+p146
+I6
+sVdrunk
+p147
+I1
+sVbudge
+p148
+I1
+sVyear
+p149
+I1
+sVmakin
+p150
+I2
+sVone
+p151
+I1
+sVcounty
+p152
+I1
+sVpole
+p153
+I1
+sVwit
+p154
+I2
+sVhoops
+p155
+I1
+sVbitch
+p156
+I3
+sVanother
+p157
+I1
+sVpulls
+p158
+I2
+sVcouldnt
+p159
+I1
+sVloaded
+p160
+I1
+sVwan
+p161
+I1
+sVhood
+p162
+I5
+sVfire
+p163
+I1
+sVbreath
+p164
+I2
+sVlittle
+p165
+I2
+sVher
+p166
+I1
+sVstart
+p167
+I1
+sVmack
+p168
+I1
+sVtop
+p169
+I1
+sVgive
+p170
+I1
+sVchased
+p171
+I1
+sVshout
+p172
+I1
+sVnova
+p173
+I1
+sVupstate
+p174
+I1
+sVsixfo
+p175
+I1
+sVran
+p176
+I1
+sVbeer
+p177
+I1
+sVdamn
+p178
+I1
+sVlegit
+p179
+I5
+sVway
+p180
+I1
+sVfreebase
+p181
+I1
+sVwrapped
+p182
+I1
+sVcall
+p183
+I1
+sVman
+p184
+I5
+sVyall
+p185
+I1
+sVwoke
+p186
+I1
+sVthrew
+p187
+I1
+sVhomeboys
+p188
+I1
+sVlife
+p189
+I5
+sVhard
+p190
+I8
+sVbig
+p191
+I2
+sVpump
+p192
+I1
+sVstarted
+p193
+I3
+sVattempted
+p194
+I1
+sVbitches
+p195
+I1
+sVpark
+p196
+I1
+sVfuck
+p197
+I1
+sVjus
+p198
+I1
+sVgutter
+p199
+I1
+sVtelephone
+p200
+I1
+sVdidnt
+p201
+I2
+sVdeuce
+p202
+I2
+sVgangsta
+p203
+I2
+sVchill
+p204
+I1
+sVbegins
+p205
+I1
+sV10
+p206
+I1
+sVtryin
+p207
+I1
+sVma
+p208
+I11
+sVknowin
+p209
+I5
+sVthis
+p210
+I1
+sVcar
+p211
+I3
+sVride
+p212
+I2
+sVwork
+p213
+I1
+sVniggaz
+p214
+I1
+sVcat
+p215
+I2
+sVpace
+p216
+I1
+sVnear
+p217
+I1
+sVsilly
+p218
+I1
+sVfriend
+p219
+I1
+sVmr
+p220
+I1
+sVknocked
+p221
+I1
+sVdumb
+p222
+I1
+sVgave
+p223
+I1
+sVimpala
+p224
+I1
+sVyelled
+p225
+I1
+sVcontrol
+p226
+I1
+sVcrazy
+p227
+I2
+sVcoz
+p228
+I10
+sVriot
+p229
+I1
+sVclip
+p230
+I1
+sVplayed
+p231
+I1
+sVwasnt
+p232
+I1
+sVresistin
+p233
+I1
+sVcop
+p234
+I1
+sVeazy
+p235
+I2
+sVpig
+p236
+I1
+sVjuice
+p237
+I1
+sVsay
+p238
+I2
+sVbuy
+p239
+I1
+sVim
+p240
+I1
+sVgreet
+p241
+I1
+sVoffense
+p242
+I1
+sVseen
+p243
+I1
+sVmade
+p244
+I1
+sVshit
+p245
+I12
+sVlooked
+p246
+I2
+sVhoe
+p247
+I2
+sVcourt
+p248
+I2
+sVbailed
+p249
+I1
+sVin
+p250
+I1
+sVturn
+p251
+I1
+sVna
+p252
+I2
+sVsix
+p253
+I1
+sVrippin
+p254
+I1
+sVboyznthehood
+p255
+I2
+sV40
+p256
+I1
+sVundercover
+p257
+I1
+sVbeat
+p258
+I2
+sVpad
+p259
+I1
+sVaiyo
+p260
+I2
+sVfourth
+p261
+I1
+sVsucker
+p262
+I1
+sVgreen
+p263
+I1
+sVfools
+p264
+I1
+sVtrash
+p265
+I5
+sVtalkin
+p266
+I6
+sVslappin
+p267
+I1
+sVplay
+p268
+I2
+sVball
+p269
+I1
+sVla
+p270
+I2
+sVquote
+p271
+I5
+sVdoin
+p272
+I1
+sVtime
+p273
+I1
+sVspot
+p274
+I1
+sV3
+I1
+sVfart
+p275
+I1
+sVgon
+p276
+I1
+sVmad
+p277
+I1
+sVdark
+p278
+I1
+sVhurt
+p279
+I1
+sVfriends
+p280
+I1
+sVstinkin
+p281
+I2
+sVfo
+p282
+I3
+sVyeah
+p283
+I1
+sVsomethin
+p284
+I3
+sVnappyass
+p285
+I1
+sVkept
+p286
+I1
+sVremember
+p287
+I1
+sVboys
+p288
+I5
+sVleroy
+p289
+I1
+sVcame
+p290
+I3
+sVweapon
+p291
+I1
+sVpage
+p292
+I1
+sVwell
+p293
+I5
+sVrollin
+p294
+I2
+sVthink
+p295
+I1
+sVthought
+p296
+I2
+sVscoop
+p297
+I1
+sVu
+I2
+sVtha
+p298
+I1
+sVmother
+p299
+I1
+sVknuckleheads
+p300
+I1
+sVfresh
+p301
+I1
+sVtruce
+p302
+I1
+sVpulled
+p303
+I2
+sVnutin
+p304
+I5
+sVcruisin
+p305
+I1
+sVleft
+p306
+I2
+s.

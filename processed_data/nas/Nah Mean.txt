@@ -1,156 +1,754 @@
-"nah mean" lyrics
-nas lyrics
-"nah mean"
-(with damian marley)
-tougher than concrete
-eh bwoy
-go labbajuice
-watch ya
-check it!
-boom
-you nah mean
-mi dip out a whole fourteen
-nah mean
-and reload man extra magazine
-nah mean
-a wounded them housing scheme
-nah mean
-nuff a dem a move sideways and lean
-nah mean
-cant come bout when man deh in
-nah mean
-we nuh like dem colonial regime
-nah mean
-ethiopian nuh like mussoline
-nah mean
-mi queen hafi rock and come in
-nah mean
-and jump pon mi big trampoline
-nah mean
-and boost up her self-esteem
-nah mean
-nuff a wonder how man kitchen so clean
-nah mean
-and which recipe dat a steam
-nah mean
-the lyrics dem a flow like a stream
-nah mean
-mek you feel like you living in a dream
-nah mean
-it come to the crop man a cream
-nah mean
-it come to discipline man a dean
-nah mean
-mi tougher than a hummer limousine
-nah mean
-we stepping we fresh and we clean
-nah mean
-i burn the stinkest of green
-nah mean
-better listen up careful and keen
-nah mean
-a puppa nas a rock and come in
-nah mean
-we celebrate like i finished probation
-boy boy
-notty head with no chaser
-boy boy
-from the mouth i can spit out a razor
-boy boy
-open up your facial like your boy roy
-in his prime
-eat food
-dinnertime
-jr. gong pass the guinness
-handle business
-black velvet sippers
-females never bid us farewell
-they with us
-cause we arrive on the scene
-just like a high beam
-nah mean
-dont let us have to make the 9 scream
-nah mean
-at your racial
-policing regime
-nah mean
-spiritual like a elohim
-nah mean
-in a casino or a yacht
-wherever im seen
-my brothers and sisters are never forgot
-nah mean
-dont wanna hear another soldier drop
-nah mean
-another dope addict get shot with the morphine
-and feds are indicting my block
-nah mean
-theyre wearing red from they shoes to they top
-nah mean
-im wishing that all the violence would stop
-nah mean
-we nuh like the sound of siren
-nah mean
-and some bwoy soft like ice cream
-nah mean
-from a bwoy mek the feds intervene
-nah mean
-we send a bwoy go tek intravene
-nah mean
-parabellum dem a itch up inna spleen
-nah mean
-inna queens
-gunman reign supreme
-nah mean
-kingstonians are real blood fiends
-nah mean
-the world is a big crime scene
-nah mean
-yo yo mr. president
-what you doing for my residence?
-yo mr. minister
-why you being sinister?
-yo yo mr. president
-what you doing for my residence?
-yo mr. minister
-why you being sinister?
-se man a di real buffalo inna rastafari regime
-bush bungalow is where mi dwell with mi queen
-trash to the bone down inna camouflage green
-nuff a dem that cant go the places we been
-nuff a dem that cant see the sights whe we seen
-thats why them face all a twist up and a lean
-nah mean
-dem better mine we kick it off clean
-nah mean
-man a gangster just like gambine
-dat mean
-dem cant serve congo dread court supine
-nah mean
-a who you want come in convene
-nah mean
-attorney have to rock and come in
-nah mean
-mi pocket dem green like spurlene
-nah mean
-mi regular fly out and fly in
-nah mean
-the stadium pack like sardine
-nah mean
-cant catch mi speed a fassy hole need caffeine
-nah mean
-run out a breath and antihistamine
-nah mean
-wash over gold dem come in like listerine
-nah mean
-you think a lie we badder than al pacine
-nah mean
-its genocide
-its a genocide
-its a genocide
-its genocide
-5th floor cooking raw
-had my own supply
-cause of capitalist ways
-that was back in the days
-so now i do rap and it pays
+(dp1
+Vthink
+p2
+I1
+sVshot
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I3
+sVviolence
+p6
+I1
+sVfood
+p7
+I1
+sVmove
+p8
+I1
+sVrecipe
+p9
+I1
+sVroy
+p10
+I1
+sVgunman
+p11
+I1
+sVstepping
+p12
+I1
+sVgo
+p13
+I3
+sVspeed
+p14
+I1
+sVintravene
+p15
+I1
+sVmake
+p16
+I1
+sVdiscipline
+p17
+I1
+sVgold
+p18
+I1
+sVcapitalist
+p19
+I1
+sVsupply
+p20
+I1
+sVsend
+p21
+I1
+sVcrime
+p22
+I1
+sVbetter
+p23
+I2
+sVbush
+p24
+I1
+sVblack
+p25
+I1
+sVdinnertime
+p26
+I1
+sVbout
+p27
+I1
+sVkick
+p28
+I1
+sVwearing
+p29
+I1
+sVfly
+p30
+I2
+sVqueen
+p31
+I2
+sVhandle
+p32
+I1
+sVyo
+p33
+I6
+sVget
+p34
+I1
+sVya
+p35
+I1
+sVbig
+p36
+I2
+sVbid
+p37
+I1
+sVwatch
+p38
+I1
+sVdat
+p39
+I2
+sVbeam
+p40
+I1
+sVnotty
+p41
+I1
+sVfacial
+p42
+I1
+sVlisterine
+p43
+I1
+sVworld
+p44
+I1
+sVcelebrate
+p45
+I1
+sVprime
+p46
+I1
+sVserve
+p47
+I1
+sVtrash
+p48
+I1
+sVdamian
+p49
+I1
+sVlike
+p50
+I14
+sVcause
+p51
+I2
+sVindicting
+p52
+I1
+sVdrop
+p53
+I1
+sVtheyre
+p54
+I1
+sVsupine
+p55
+I1
+sVreload
+p56
+I1
+sVcongo
+p57
+I1
+sVrock
+p58
+I3
+sVdip
+p59
+I1
+sVsteam
+p60
+I1
+sVbone
+p61
+I1
+sVmean
+p62
+I54
+sVspiritual
+p63
+I1
+sVintervene
+p64
+I1
+sVdean
+p65
+I1
+sVeh
+p66
+I1
+sVqueens
+p67
+I1
+sVtougher
+p68
+I2
+sVback
+p69
+I1
+sVcrop
+p70
+I1
+sVmussoline
+p71
+I1
+sVgangster
+p72
+I1
+sVsee
+p73
+I1
+sVfarewell
+p74
+I1
+sVnuh
+p75
+I3
+sVpass
+p76
+I1
+sVracial
+p77
+I1
+sVmarley
+p78
+I1
+sVwonder
+p79
+I1
+sVliving
+p80
+I1
+sVvelvet
+p81
+I1
+sVways
+p82
+I1
+sVcolonial
+p83
+I1
+sVcooking
+p84
+I1
+sVlean
+p85
+I2
+sVcaffeine
+p86
+I1
+sVice
+p87
+I1
+sVrap
+p88
+I1
+sVkingstonians
+p89
+I1
+sVfassy
+p90
+I1
+sVboost
+p91
+I1
+sVred
+p92
+I1
+sVhummer
+p93
+I1
+sVgambine
+p94
+I1
+sVtrampoline
+p95
+I1
+sVrun
+p96
+I1
+sVbusiness
+p97
+I1
+sVwan
+p98
+I1
+sVsideways
+p99
+I1
+sVburn
+p100
+I1
+sVmek
+p101
+I2
+sVfourteen
+p102
+I1
+sVlet
+p103
+I1
+sVjr
+p104
+I1
+sVcome
+p105
+I8
+sVregular
+p106
+I1
+sVkitchen
+p107
+I1
+sVboy
+p108
+I7
+sVtwist
+p109
+I1
+sVsoft
+p110
+I1
+sVcasino
+p111
+I1
+sVwherever
+p112
+I1
+sVdays
+p113
+I1
+sVkeen
+p114
+I1
+sVmagazine
+p115
+I1
+sVnuff
+p116
+I4
+sVgenocide
+p117
+I4
+sVfeds
+p118
+I2
+sVwhole
+p119
+I1
+sVtop
+p120
+I1
+sVblock
+p121
+I1
+sVblood
+p122
+I1
+sVdont
+p123
+I2
+sVextra
+p124
+I1
+sVfeel
+p125
+I1
+sVpays
+p126
+I1
+sVethiopian
+p127
+I1
+sVscene
+p128
+I2
+sVpon
+p129
+I1
+sVwash
+p130
+I1
+sVtek
+p131
+I1
+sVstinkest
+p132
+I1
+sVanother
+p133
+I2
+sVprobation
+p134
+I1
+sVopen
+p135
+I1
+sVrazor
+p136
+I1
+sVwould
+p137
+I1
+sVguinness
+p138
+I1
+sVhousing
+p139
+I1
+sVbeen
+p140
+I1
+sVbreath
+p141
+I1
+sVbadder
+p142
+I1
+sVpacine
+p143
+I1
+sVstadium
+p144
+I1
+sVconvene
+p145
+I1
+sVdwell
+p146
+I1
+sVchaser
+p147
+I1
+sVscheme
+p148
+I1
+sVlimousine
+p149
+I1
+sVlisten
+p150
+I1
+sVhead
+p151
+I1
+sVfemales
+p152
+I1
+sVspit
+p153
+I1
+sVlabbajuice
+p154
+I1
+sVbuffalo
+p155
+I1
+sVreign
+p156
+I1
+sVmine
+p157
+I1
+sVfinished
+p158
+I1
+sVhear
+p159
+I1
+sVminister
+p160
+I2
+sVcatch
+p161
+I1
+sVhole
+p162
+I1
+sVcareful
+p163
+I1
+sVeat
+p164
+I1
+sVelohim
+p165
+I1
+sVsound
+p166
+I1
+sVjump
+p167
+I1
+sVfiends
+p168
+I1
+sVplaces
+p169
+I1
+sVmi
+p170
+I9
+sVparabellum
+p171
+I1
+sVus
+p172
+I3
+sVdeh
+p173
+I1
+sVbungalow
+p174
+I1
+sVdem
+p175
+I10
+sVattorney
+p176
+I1
+sVmr
+p177
+I4
+sVarrive
+p178
+I1
+sVpack
+p179
+I1
+sVreal
+p180
+I2
+sVsupreme
+p181
+I1
+sVgong
+p182
+I1
+sVinna
+p183
+I4
+sVstream
+p184
+I1
+sVsinister
+p185
+I2
+sVyacht
+p186
+I1
+sVforgot
+p187
+I1
+sVit
+p188
+I1
+sVal
+p189
+I1
+sVhigh
+p190
+I1
+sVraw
+p191
+I1
+sVcant
+p192
+I5
+sVpolicing
+p193
+I1
+sVim
+p194
+I2
+sVwant
+p195
+I1
+sVin
+p196
+I5
+sVneed
+p197
+I1
+sVseen
+p198
+I2
+sVface
+p199
+I1
+sVcheck
+p200
+I1
+sVregime
+p201
+I3
+sVlie
+p202
+I1
+sVsiren
+p203
+I1
+sVpuppa
+p204
+I1
+sVcourt
+p205
+I1
+sVresidence
+p206
+I2
+sVsoldier
+p207
+I1
+sVna
+p208
+I1
+sVnah
+p209
+I53
+sVdi
+p210
+I1
+sVspurlene
+p211
+I1
+sVcamouflage
+p212
+I1
+sVnas
+p213
+I2
+sVboom
+p214
+I1
+sV5th
+p215
+I1
+sV9
+I1
+sVcream
+p216
+I2
+sVdope
+p217
+I1
+sVwishing
+p218
+I1
+sVselfesteem
+p219
+I1
+sVwhe
+p220
+I1
+sVrastafari
+p221
+I1
+sVantihistamine
+p222
+I1
+sVbrothers
+p223
+I1
+sVitch
+p224
+I1
+sVstop
+p225
+I1
+sVsippers
+p226
+I1
+sVmouth
+p227
+I1
+sVaddict
+p228
+I1
+sVnever
+p229
+I2
+sVwounded
+p230
+I1
+sVsisters
+p231
+I1
+sVpresident
+p232
+I2
+sVsights
+p233
+I1
+sVman
+p234
+I7
+sVpocket
+p235
+I1
+sVsardine
+p236
+I1
+sVmorphine
+p237
+I1
+sVspleen
+p238
+I1
+sVbwoy
+p239
+I4
+sVfloor
+p240
+I1
+sVflow
+p241
+I1
+sVscream
+p242
+I1
+sVconcrete
+p243
+I1
+sVgreen
+p244
+I3
+sVdread
+p245
+I1
+sVclean
+p246
+I3
+sVfresh
+p247
+I1
+sVthats
+p248
+I1
+sVdream
+p249
+I1
+sVhafi
+p250
+I1
+sVse
+p251
+I1
+s.

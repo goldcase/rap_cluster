@@ -1,89 +1,756 @@
-"choppin' blades" lyrics
-ugk lyrics
-"choppin' blades"
-uh...hol' up (hol' up)
-for all them niggas out there ridin' candy
-know what i'm talkin' about?
-uh...uh...blowin' on somethin' sweet, (uh)
-goin' down (goin' down)
-hol' up (hol' up)....uh
-check it..
-boys kickin' back, layin' in the shade
-ain't nobody trippin' 'cause the money already made
-the 90s was for jackin', 2000 for the ballers:
-the drop top jag or the candy red impala
-if you sellin' big cheese, keep pushin', my nigga
-polo horses on my bed - fuck hilfiger
-i'm pimp c, bitch, in the ghetto i'm a star
-i made this for the niggas tryin' ta chop in they cars...cars...cars..
-could i, would i, should i break 'em?
-uh...i wanna chop blades
-could i, would i, should i break 'em?
-uh...i wanna chop blades
-could i, would i, should i break 'em?
-uh...i wanna chop blades
-could i, would i, should i break 'em?
-uh...i wanna chop blades
-now, when i turn my knock up, and bangin' yo' block up
-without pickin' my glock up, i'm raisin' my stock up
-i got haters on lock-up...boy, they slangin' rock up
-and bangin' makaveli 7, crankin' my 'pac up
-now, ain't no stoppin' when the tops start droppin'
-hearin' fat pat rappin', your hat back capin'
-in a black 'lac mackin' wit' a bop in a fade
-boy, we fat stack packin', steady choppin' on blades...blades...blades..
-it's time to hit the slab
-benz sittin' low
-i'm puffin' on the 'dro, i got the pistol in the do'
-i pulled up in my ride, these hoes lookin' hot
-if she get up on my leatha, then her panties gon' drop
-i just can't stop...bleedin' my block
-got some prime cut cock, i mean some private-ass stock
-they put it in they mouth and never say no
-some nut-suckin' hoes, i mean some dick-suckin' pros
-that like to get exposed, and play with they nose
-and bend they pussy over, for my nigga, and touch they toes
-she do that shit for daddy, but them tricks gotta pay
-just like e-40: pimpin' in a major way
-it's all for the money
-she tryin' ta stay paid
-she steady breakin' niggas on them shiny-ass thangs
-i'm deep up in the street
-i'm tryin' to fill my nuts
-and later on i'ma try to skeet it on her butt...her butt..
-say, nigga, i keeps my rims clean
-shinin through a dim scene
-got yo' bitch wetter than the captain of the swim team
-steppin' out the caddy, bitch, i'm fresher than dentyne
-slicker than crisco, sweeter than nabisco
-from philly to 'frisco where the don be a sisqo
-you better get some blades if you still ridin' this ho
-boys puttin' swangers on benzes, it gotta stop
-if you fittin' ta ride foreign, then, nigga, you gotta chop
-and southern niggas still got the nerve to ride d's
-i ain't hatin' on daytons, but it's 2000, nigga please
-it's all about the candy paint, it's all about the vogues
-it's all about the slab, baby, it's all about the hoes
-got some cars and some pros: some real and some fraud;
-hated on by a nigga, hated on by a broad
-so long as j's sell, and them boppin' hoes slut
-i'll be ridin' chromin' blades, steady choppin' hoes up...hoes up...hoes up..
-yeah...dedicated to boys choppin' on chromin' thangs
-damn blades, know what i'm sayin'?
-boys choppin' in the ??
-choppin' in that 4th
-choppin' in the 5th
-acres home
-southside mlk
-southwest ??
-club ??
-boys choppin' on blades in p.a
-up and down gulf way
-on the westside
-eastside
-boys choppin' in d-town
-in that oakcliff
-in that north dallas
-boys choppin' all over this damn south
-boys even be choppin' up in new york
-know what i'm sayin'? and that l.a.
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVnerve
+p4
+I1
+sVmoney
+p5
+I2
+sVhatin
+p6
+I1
+sVyeahdedicated
+p7
+I1
+sVbaby
+p8
+I1
+sVcarscarscars
+p9
+I1
+sVtouch
+p10
+I1
+sVdicksuckin
+p11
+I1
+sVcaptain
+p12
+I1
+sVleatha
+p13
+I1
+sVstopbleedin
+p14
+I1
+sVaint
+p15
+I3
+sVcut
+p16
+I1
+sVsayin
+p17
+I2
+sVgulf
+p18
+I1
+sVla
+p19
+I1
+sVhated
+p20
+I2
+sVprivateass
+p21
+I1
+sVacres
+p22
+I1
+sVmakaveli
+p23
+I1
+sVuhuhblowin
+p24
+I1
+sVblack
+p25
+I1
+sVfade
+p26
+I1
+sVpussy
+p27
+I1
+sVjag
+p28
+I1
+sVteam
+p29
+I1
+sVhat
+p30
+I1
+sVpay
+p31
+I1
+sVta
+p32
+I6
+sVswim
+p33
+I1
+sVdo
+p34
+I1
+sVhit
+p35
+I1
+sVyo
+p36
+I2
+sVtrippin
+p37
+I1
+sVbig
+p38
+I1
+sVsittin
+p39
+I1
+sVstop
+p40
+I1
+sVfat
+p41
+I2
+sVuhi
+p42
+I4
+sVbreak
+p43
+I4
+sVphilly
+p44
+I1
+sVhearin
+p45
+I1
+sVknow
+p46
+I3
+sVsouthside
+p47
+I1
+sVds
+p48
+I1
+sVghetto
+p49
+I1
+sVpackin
+p50
+I1
+sVknock
+p51
+I1
+sVslicker
+p52
+I1
+sVlike
+p53
+I2
+sVpimp
+p54
+I1
+sVdaytons
+p55
+I1
+sVdrop
+p56
+I2
+sVbenzes
+p57
+I1
+sVcandy
+p58
+I3
+sVtry
+p59
+I1
+sVnose
+p60
+I1
+sVrock
+p61
+I1
+sVclean
+p62
+I1
+sVblades
+p63
+I10
+sVride
+p64
+I3
+sVmean
+p65
+I2
+sVem
+p66
+I4
+sVnigga
+p67
+I6
+sVexposed
+p68
+I1
+sVstill
+p69
+I2
+sVback
+p70
+I2
+sVdtown
+p71
+I1
+sVfrisco
+p72
+I1
+sVballers
+p73
+I1
+sVstreet
+p74
+I1
+sVsteppin
+p75
+I1
+sVhoes
+p76
+I5
+sVhome
+p77
+I1
+sVstoppin
+p78
+I1
+sVuphoes
+p79
+I2
+sVeven
+p80
+I1
+sV90s
+p81
+I1
+sVgon
+p82
+I1
+sVeastside
+p83
+I1
+sVbroad
+p84
+I1
+sVpros
+p85
+I2
+sVuhhol
+p86
+I1
+sV7
+I1
+sVcars
+p87
+I1
+sVgot
+p88
+I9
+sVpistol
+p89
+I1
+sVcause
+p90
+I1
+sVred
+p91
+I1
+sVfittin
+p92
+I1
+sVslangin
+p93
+I1
+sVtoes
+p94
+I1
+sVshinin
+p95
+I1
+sVskeet
+p96
+I1
+sVrims
+p97
+I1
+sVsouthern
+p98
+I1
+sVnever
+p99
+I1
+sVridin
+p100
+I3
+sVslut
+p101
+I1
+sVjs
+p102
+I1
+sVbutther
+p103
+I1
+sVplease
+p104
+I1
+sVyork
+p105
+I1
+sVima
+p106
+I1
+sVput
+p107
+I1
+sVstay
+p108
+I1
+sVwestside
+p109
+I1
+sVboy
+p110
+I1
+sVc
+I1
+sVjackin
+p111
+I1
+sVbop
+p112
+I1
+sVcock
+p113
+I1
+sVcould
+p114
+I4
+sVbreakin
+p115
+I1
+sVraisin
+p116
+I1
+sVprime
+p117
+I1
+sVchoppin
+p118
+I12
+sVkeep
+p119
+I1
+sVchop
+p120
+I6
+sVturn
+p121
+I1
+sVpuffin
+p122
+I1
+sV4th
+p123
+I1
+sVdro
+p124
+I1
+sV5th
+p125
+I1
+sVblock
+p126
+I2
+sVcheese
+p127
+I1
+sVmajor
+p128
+I1
+sValready
+p129
+I1
+sVupuh
+p130
+I1
+sVsweet
+p131
+I1
+sVpa
+p132
+I1
+sVscene
+p133
+I1
+sVdown
+p134
+I1
+sVswangers
+p135
+I1
+sVwit
+p136
+I1
+sVbitch
+p137
+I3
+sVpolo
+p138
+I1
+sVfraud
+p139
+I1
+sVbenz
+p140
+I1
+sVwan
+p141
+I4
+sVboppin
+p142
+I1
+sVwould
+p143
+I4
+sVpaint
+p144
+I1
+sVtop
+p145
+I1
+sVlong
+p146
+I1
+sVstart
+p147
+I1
+sVnutsuckin
+p148
+I1
+sVdamn
+p149
+I2
+sVlow
+p150
+I1
+sVway
+p151
+I2
+sVtryin
+p152
+I3
+sVhorses
+p153
+I1
+sVglock
+p154
+I1
+sVnorth
+p155
+I1
+sVpimpin
+p156
+I1
+sVnabisco
+p157
+I1
+sVclub
+p158
+I1
+sVnobody
+p159
+I1
+sVcaddy
+p160
+I1
+sVabout
+p161
+I1
+sVfuck
+p162
+I1
+sVboys
+p163
+I8
+sVho
+p164
+I1
+sVbutt
+p165
+I1
+sVcapin
+p166
+I1
+sVhaters
+p167
+I1
+sVe40
+p168
+I1
+sVmade
+p169
+I2
+sVrappin
+p170
+I1
+sVniggas
+p171
+I4
+sVmlk
+p172
+I1
+sVlayin
+p173
+I1
+sVup
+p174
+I6
+sVbed
+p175
+I1
+sVdentyne
+p176
+I1
+sVdroppin
+p177
+I1
+sVuh
+p178
+I1
+sVsweeter
+p179
+I1
+sVdaddy
+p180
+I1
+sVimpala
+p181
+I1
+sVill
+p182
+I1
+sVsay
+p183
+I2
+sVpushin
+p184
+I1
+sVreal
+p185
+I1
+sVhilfiger
+p186
+I1
+sVlater
+p187
+I1
+sVfresher
+p188
+I1
+sVsouthwest
+p189
+I1
+sVmackin
+p190
+I1
+sVoakcliff
+p191
+I1
+sVit
+p192
+I1
+sVdeep
+p193
+I1
+sVchromin
+p194
+I2
+sVcrisco
+p195
+I1
+sVcant
+p196
+I1
+sVim
+p197
+I10
+sVbend
+p198
+I1
+sVdallas
+p199
+I1
+sVforeign
+p200
+I1
+sVslab
+p201
+I2
+sVcheck
+p202
+I1
+sVshit
+p203
+I1
+sVfill
+p204
+I1
+sVsell
+p205
+I1
+sVvogues
+p206
+I1
+sVpat
+p207
+I1
+sVsellin
+p208
+I1
+sVna
+p209
+I4
+sVhol
+p210
+I3
+sVget
+p211
+I3
+sVnuts
+p212
+I1
+sVhot
+p213
+I1
+sVpac
+p214
+I1
+sVdim
+p215
+I1
+sVbetter
+p216
+I1
+sVpickin
+p217
+I1
+sVnew
+p218
+I1
+sVputtin
+p219
+I1
+sVpanties
+p220
+I1
+sVshinyass
+p221
+I1
+sVtalkin
+p222
+I1
+sVstock
+p223
+I2
+sVplay
+p224
+I1
+sVstar
+p225
+I1
+sVlookin
+p226
+I1
+sVkeeps
+p227
+I1
+sVtops
+p228
+I1
+sVlockupboy
+p229
+I1
+sVpaid
+p230
+I1
+sVlac
+p231
+I1
+sVwetter
+p232
+I1
+sVmouth
+p233
+I1
+sVbladesbladesblades
+p234
+I1
+sVstack
+p235
+I1
+sVgoin
+p236
+I2
+sVsomethin
+p237
+I1
+sVsisqo
+p238
+I1
+sVcrankin
+p239
+I1
+sVbangin
+p240
+I2
+sVtricks
+p241
+I1
+sVno
+p242
+I1
+sVsteady
+p243
+I3
+sVthangs
+p244
+I2
+sV2000
+p245
+I2
+sVwithout
+p246
+I1
+sVsouth
+p247
+I1
+sVshade
+p248
+I1
+sVtime
+p249
+I1
+sVpulled
+p250
+I1
+sVkickin
+p251
+I1
+s.

@@ -1,54 +1,479 @@
-"entrepreneur" lyrics
-e-40 lyrics
-"entrepreneur"
-(with too $hort)
-i got a plug on the white, a bitch sellin pussy
-my partner got dvds and hood movies
-i can get the j's before they come to the store
-bitch, i'm a entrepreneur
-he was born with spitt'ms
-the gift of gab, izm
-mattress on the floor, borderline poor
-who woulda thought he'd be a entrepreneur?
-he used to always say his blessings
-liked to ask a lotta questions
-look like a square but he got a lotta street knowledge
-hung around addicts, gangsters and alcoholics
-when he first started off
-a young intern, but a soon-to-be boss
-found himself, cause he used to be lost
-cooler than fan belt, cold like a cough
-dottin his i's and crossin his t's he be poppin his p's
-internationally known in the states and all overseas
-he be  or pushin bags of blow
-he got 'em wonderin what he do like tommy from martin show
-they lock niggas up all over the land
-now we affiliated to county jails and pens
-get anything you want, just like that
-i'm tryina get some money, i ain't tryina go back
-gotta stay on the street, keep the fam straight
-it's hundreds to get, grands to make
-stackin for a whip, waitin to get
-paint and rims, then lift that bitch
-28's, i'ma ride real big
-choppin up game with my real nig
-i know it's hell bein broke
-but you gotta stop sellin that coke
-sooner or later, can't do it forever
-need a new hustle, still gettin that cheddar
-mo' paper, less penitentiary chance
-all you need is a business plan
-where they at?
-shout-out to the money makers
-(to the money makers)
-if you a hustler
-(what about 'em?)
-then you a entrepreneur
-(a entrepreneur)
-that's written, mane
-scared money don't make no money
-invest in yourself, mane
-ya understand me?
-it's a lotta opportunities out there, mane
-ya got your health and your life and your strength, mane
-go get it, breh
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmoney
+p4
+I5
+sVcheddar
+p5
+I1
+sVpaper
+p6
+I1
+sVquestions
+p7
+I1
+sVgo
+p8
+I2
+sVhell
+p9
+I1
+sVcold
+p10
+I1
+sVstill
+p11
+I1
+sVhustler
+p12
+I1
+sVblow
+p13
+I1
+sVpens
+p14
+I1
+sVknowledge
+p15
+I1
+sVinternationally
+p16
+I1
+sVless
+p17
+I1
+sVpoppin
+p18
+I1
+sVyoung
+p19
+I1
+sVopportunities
+p20
+I1
+sVmattress
+p21
+I1
+sVta
+p22
+I2
+sVreal
+p23
+I2
+sVaround
+p24
+I1
+sVget
+p25
+I6
+sVya
+p26
+I2
+sVdvds
+p27
+I1
+sVbein
+p28
+I1
+sVstop
+p29
+I1
+sVaddicts
+p30
+I1
+sVwoulda
+p31
+I1
+sVgame
+p32
+I1
+sValcoholics
+p33
+I1
+sVfan
+p34
+I1
+sVknow
+p35
+I1
+sVfam
+p36
+I1
+sVlike
+p37
+I4
+sVlost
+p38
+I1
+sVcooler
+p39
+I1
+sValways
+p40
+I1
+sVgettin
+p41
+I1
+sVgangsters
+p42
+I1
+sVmartin
+p43
+I1
+sVhung
+p44
+I1
+sVfound
+p45
+I1
+sV28s
+p46
+I1
+sVride
+p47
+I1
+sVem
+p48
+I2
+sVpoor
+p49
+I1
+sVsquare
+p50
+I1
+sVscared
+p51
+I1
+sVback
+p52
+I1
+sVborn
+p53
+I1
+sVintern
+p54
+I1
+sVstreet
+p55
+I2
+sVhort
+p56
+I1
+sVmakers
+p57
+I2
+sVwhip
+p58
+I1
+sVlotta
+p59
+I3
+sVborderline
+p60
+I1
+sVplan
+p61
+I1
+sVizm
+p62
+I1
+sVwritten
+p63
+I1
+sVhealth
+p64
+I1
+sVgot
+p65
+I7
+sVcause
+p66
+I1
+sVhustle
+p67
+I1
+sVaint
+p68
+I1
+sVbusiness
+p69
+I1
+sVrims
+p70
+I1
+sVdottin
+p71
+I1
+sVjs
+p72
+I1
+sVima
+p73
+I1
+sVask
+p74
+I1
+sVaffiliated
+p75
+I1
+sVcough
+p76
+I1
+sVcome
+p77
+I1
+sVplug
+p78
+I1
+sVsoontobe
+p79
+I1
+sVanything
+p80
+I1
+sVchoppin
+p81
+I1
+sVkeep
+p82
+I1
+sVblessings
+p83
+I1
+sVmane
+p84
+I4
+sVfirst
+p85
+I1
+sVliked
+p86
+I1
+sVdont
+p87
+I1
+sVpussy
+p88
+I1
+sVts
+p89
+I1
+sVcounty
+p90
+I1
+sVentrepreneur
+p91
+I6
+sVbitch
+p92
+I3
+sVhood
+p93
+I1
+sVbelt
+p94
+I1
+sVps
+p95
+I1
+sVwaitin
+p96
+I1
+sVgift
+p97
+I1
+sVhed
+p98
+I1
+sVpaint
+p99
+I1
+sVwhite
+p100
+I1
+sVstore
+p101
+I1
+sVlife
+p102
+I1
+sVspittms
+p103
+I1
+sVthat
+p104
+I1
+sVstarted
+p105
+I1
+sVcoke
+p106
+I1
+sVhundreds
+p107
+I1
+sVgrands
+p108
+I1
+sVunderstand
+p109
+I1
+sVbroke
+p110
+I1
+sVknown
+p111
+I1
+sVgab
+p112
+I1
+sVme
+p113
+I1
+sVe40
+p114
+I1
+sVlook
+p115
+I1
+sVniggas
+p116
+I1
+sVstraight
+p117
+I1
+sVcant
+p118
+I1
+sVboss
+p119
+I1
+sVtommy
+p120
+I1
+sVmovies
+p121
+I1
+sVmo
+p122
+I1
+sVpushin
+p123
+I1
+sVlater
+p124
+I1
+sVlock
+p125
+I1
+sVstackin
+p126
+I1
+sVstates
+p127
+I1
+sVsay
+p128
+I1
+sVim
+p129
+I2
+sVat
+p130
+I1
+sVwant
+p131
+I1
+sVneed
+p132
+I2
+sVpartner
+p133
+I1
+sVcrossin
+p134
+I1
+sVbags
+p135
+I1
+sVstrength
+p136
+I1
+sVjails
+p137
+I1
+sVsellin
+p138
+I2
+sVtryina
+p139
+I2
+sVbig
+p140
+I1
+sVnew
+p141
+I1
+sVwonderin
+p142
+I1
+sVused
+p143
+I2
+sVnig
+p144
+I1
+sVstay
+p145
+I1
+sVchance
+p146
+I1
+sVsooner
+p147
+I1
+sVpenitentiary
+p148
+I1
+sVforever
+p149
+I1
+sVland
+p150
+I1
+sVoff
+p151
+I1
+sVbreh
+p152
+I1
+sVinvest
+p153
+I1
+sVfloor
+p154
+I1
+sVshoutout
+p155
+I1
+sVthought
+p156
+I1
+sVlift
+p157
+I1
+sVoverseas
+p158
+I1
+sVthats
+p159
+I1
+sVmake
+p160
+I2
+s.

@@ -1,55 +1,436 @@
-bittersweet poetry lyrics
-kanye west lyrics
-bittersweet poetry
-feat john mayer
-bittersweet
-youre gonna death me
-dont want need you
-love hate time
-bittersweet
-see want much shit never hurt bad
-never thats virgin says
-weve generally warned thats surgeon says
-god talk emergency
-claim currency
-cut deep bitch cut like surgery
-proud admit hurting me
-id never least purposely
-breaking making again
-dont love guess fucking then
-ever felt ever want kill her
-mix emotions tequila
-mix little bad advice
-one bad nights yall bad fight
-talking bout family aunts shit
-say motherfucker yo mommas bitch
-know domestic drama shit attitude
-ill never hit girl ill shake shit outta you
-imma bigger man big pimpin like jiggaman
-oh guess figure its
-see want much shit never hurt bad
-never thats virgin says
-weve generally warned thats surgeon says
-god talk emergency
-nigga said shouldnt let worry me
-need focus girls getting currently
-thinking got back sinking and
-relationship even got back drinking this
-hennessy
-gonna death me
-always thought child destiny
-cant even vibe sexually
-cuz every time would try would question me
-saying fucking girls disrespecting me
-dont see ya lies affecting me
-dont see life supposed be
-never let nigga get close me
-aint cracked supposed be
-always gone youll always hoesll be
-first time ever spilled soul me
-fucked know g
-guess bittersweet poetry
-see want much shit never hurt bad
-never thats virgin says
-weve generally warned thats surgeon says
-god talk emergency
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVtequila
+p4
+I1
+sVdomestic
+p5
+I1
+sVfocus
+p6
+I1
+sVattitude
+p7
+I1
+sVkill
+p8
+I1
+sVshake
+p9
+I1
+sVkanye
+p10
+I1
+sVhate
+p11
+I1
+sVits
+p12
+I1
+sVaint
+p13
+I1
+sVdeath
+p14
+I2
+sVimma
+p15
+I1
+sVcuz
+p16
+I1
+sVbout
+p17
+I1
+sVfirst
+p18
+I1
+sVsinking
+p19
+I1
+sVthen
+p20
+I1
+sVhurting
+p21
+I1
+sVweve
+p22
+I3
+sVhit
+p23
+I1
+sVemergency
+p24
+I3
+sVget
+p25
+I1
+sVya
+p26
+I1
+sVbig
+p27
+I1
+sVdrinking
+p28
+I1
+sVknow
+p29
+I2
+sVsurgeon
+p30
+I3
+sVbigger
+p31
+I1
+sVlike
+p32
+I2
+sVgirl
+p33
+I1
+sVwarned
+p34
+I3
+sVtry
+p35
+I1
+sVbad
+p36
+I6
+sValways
+p37
+I3
+sVyall
+p38
+I1
+sVhoesll
+p39
+I1
+sVnigga
+p40
+I2
+sVsays
+p41
+I6
+sVfucking
+p42
+I2
+sVback
+p43
+I2
+sVsoul
+p44
+I1
+sVsee
+p45
+I5
+sVsexually
+p46
+I1
+sVclose
+p47
+I1
+sVsurgery
+p48
+I1
+sVeven
+p49
+I2
+sVgon
+p50
+I2
+sVdestiny
+p51
+I1
+sVfeat
+p52
+I1
+sVcurrently
+p53
+I1
+sVemotions
+p54
+I1
+sVaffecting
+p55
+I1
+sVgot
+p56
+I2
+sVever
+p57
+I3
+sVbe
+p58
+I3
+sVfelt
+p59
+I1
+sVnever
+p60
+I9
+sVlittle
+p61
+I1
+sVmotherfucker
+p62
+I1
+sVcut
+p63
+I2
+sVlet
+p64
+I2
+sVwould
+p65
+I2
+sVjiggaman
+p66
+I1
+sVoh
+p67
+I1
+sVill
+p68
+I2
+sVdrama
+p69
+I1
+sVthinking
+p70
+I1
+sVadmit
+p71
+I1
+sVyoull
+p72
+I1
+sVthats
+p73
+I6
+sVlove
+p74
+I2
+sVdont
+p75
+I4
+sVfamily
+p76
+I1
+sVclaim
+p77
+I1
+sVquestion
+p78
+I1
+sVone
+p79
+I1
+sVlies
+p80
+I1
+sVbitch
+p81
+I2
+sVguess
+p82
+I3
+sVher
+p83
+I1
+sVwest
+p84
+I1
+sVgirls
+p85
+I2
+sVleast
+p86
+I1
+sVfight
+p87
+I1
+sVvirgin
+p88
+I3
+sVmuch
+p89
+I3
+sVjohn
+p90
+I1
+sVpurposely
+p91
+I1
+sVlife
+p92
+I1
+sVpimpin
+p93
+I1
+sVrelationship
+p94
+I1
+sVhennessy
+p95
+I1
+sVhurt
+p96
+I3
+sVchild
+p97
+I1
+sVme
+p98
+I9
+sVg
+I1
+sVcurrency
+p99
+I1
+sVthis
+p100
+I1
+sVgetting
+p101
+I1
+sVcant
+p102
+I1
+sVmommas
+p103
+I1
+sVsupposed
+p104
+I2
+sVmaking
+p105
+I1
+sVcracked
+p106
+I1
+sVspilled
+p107
+I1
+sVand
+p108
+I1
+sVbittersweet
+p109
+I5
+sVyoure
+p110
+I1
+sVoutta
+p111
+I1
+sVfigure
+p112
+I1
+sVdeep
+p113
+I1
+sVtalking
+p114
+I1
+sVsay
+p115
+I1
+sVwant
+p116
+I5
+sVneed
+p117
+I2
+sVid
+p118
+I1
+sVshit
+p119
+I6
+sVgone
+p120
+I1
+sVagain
+p121
+I1
+sVnights
+p122
+I1
+sVyo
+p123
+I1
+sVaunts
+p124
+I1
+sVvibe
+p125
+I1
+sVna
+p126
+I2
+sVbreaking
+p127
+I1
+sVgenerally
+p128
+I3
+sVpoetry
+p129
+I3
+sVmix
+p130
+I2
+sVworry
+p131
+I1
+sVyou
+p132
+I2
+sVmayer
+p133
+I1
+sVshouldnt
+p134
+I1
+sVadvice
+p135
+I1
+sVtime
+p136
+I3
+sVsaid
+p137
+I1
+sVfucked
+p138
+I1
+sVman
+p139
+I1
+sVproud
+p140
+I1
+sVthought
+p141
+I1
+sVgod
+p142
+I3
+sVevery
+p143
+I1
+sVdisrespecting
+p144
+I1
+sVtalk
+p145
+I3
+s.

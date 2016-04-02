@@ -1,58 +1,401 @@
-"when it all goes down (freestyle)" lyrics
-50 cent lyrics
-"when it all goes down (freestyle)"
-it go down, it go down, it go down
-it go down, it go down
-it go down, it go down, it go down
-it go down, it go down
-when it all goes down, and the clips run out
-i bet i make history
-i bet i make history
-when it all goes down, and the cops come round
-that murder’s a mystery
-that murder’s a mystery
-it’s that gangsta shit, it sound stupid don’t it
-feel like fifty, flocka and gucci on it
-move grams of this, move o’s of that
-move the muthafucking bricks, where the money at
-bitches scared huh, pussy, hold ya strength
-when the beat pop off no controlling that
-you wan’ call the cops
-run call the cops
-look nigga we don’t care if they comin’ or not
-got the pump in the trunk, nigga biting a lot
-one buck shot clear the whole block
-had this bitch taped off make it so hot
-nigga with a 12 gauge i’m a sure shot
-call it shell shock when ya ass drop
-get it shakin’ like a muthafuckin’ rattle nigga
-go ‘head fuckin’ with me and be a casualty
-you think a nigga bullshittin, then come and see
-when it all goes down, and the clips run out
-i bet i make history
-i bet i make history
-when it all goes down, and the cops come round
-that murder’s a mystery
-that murder’s a mystery
-now while you waitin’, all debatin’
-shouldn’t you niggas be retaliatin’
-we laughin bout it, you cryin damn
-hit ya muthafuckin’ homie when his gun jam
-his chest red, his back red
-man, that nigga there damn near dead
-he coughin’, he weezin’
-man that nigga finna stop breathin’
-his momma there, his daddy there
-hit him by the escalade, get a caddy there
-his shines on him, his dimes on him
-had hoes all in the club grindin’ on him
-niggas talkin’ bout it, keep talkin’ bout it
-cause they know nigga don’t give a fuck
-quit talkin’ bout it, for you talkin’ bout it
-when the muthafuckin pigs show up
-when it all goes down, and the clips run out
-i bet i make history
-i bet i make history
-when it all goes down, and the cops come round
-that murder’s a mystery
-that murder’s a mystery
+(dp1
+Vshakin\u2019
+p2
+I1
+sVshot
+p3
+I2
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVya
+p6
+I3
+sVmoney
+p7
+I1
+sVmove
+p8
+I3
+sVfifty
+p9
+I1
+sVdebatin\u2019
+p10
+I1
+sVcryin
+p11
+I1
+sVgauge
+p12
+I1
+sVgo
+p13
+I11
+sVit\u2019s
+p14
+I1
+sVchest
+p15
+I1
+sVbricks
+p16
+I1
+sVjam
+p17
+I1
+sVgangsta
+p18
+I1
+sVbreathin\u2019
+p19
+I1
+sVhit
+p20
+I2
+sVget
+p21
+I2
+sVbeat
+p22
+I1
+sVstop
+p23
+I1
+sVknow
+p24
+I1
+sVgot
+p25
+I1
+sVnot
+p26
+I1
+sVretaliatin\u2019
+p27
+I1
+sVweezin\u2019
+p28
+I1
+sVshouldn\u2019t
+p29
+I1
+sVhim
+p30
+I2
+sVmystery
+p31
+I6
+sVlike
+p32
+I2
+sVdrop
+p33
+I1
+sV50
+p34
+I1
+sVstupid
+p35
+I1
+sVmuthafuckin
+p36
+I1
+sVround
+p37
+I3
+sVdimes
+p38
+I1
+sVnigga
+p39
+I8
+sVscared
+p40
+I1
+sVback
+p41
+I1
+sVdead
+p42
+I1
+sVgun
+p43
+I1
+sVsee
+p44
+I1
+sVhoes
+p45
+I1
+sVfinna
+p46
+I1
+sVout
+p47
+I3
+sVnear
+p48
+I1
+sVpump
+p49
+I1
+sVgoes
+p50
+I8
+sVmurder\u2019s
+p51
+I6
+sVcause
+p52
+I1
+sVred
+p53
+I2
+sVass
+p54
+I1
+sVrun
+p55
+I4
+sVwaitin\u2019
+p56
+I1
+sVo\u2019s
+p57
+I1
+sVgrindin\u2019
+p58
+I1
+sVtrunk
+p59
+I1
+sVlaughin
+p60
+I1
+sVcome
+p61
+I4
+sVcare
+p62
+I1
+sVbuck
+p63
+I1
+sVkeep
+p64
+I1
+sVtaped
+p65
+I1
+sVfuckin\u2019
+p66
+I1
+sVbiting
+p67
+I1
+sVwhole
+p68
+I1
+sVthink
+p69
+I1
+sVblock
+p70
+I1
+sVfeel
+p71
+I1
+sVpussy
+p72
+I1
+sVpop
+p73
+I1
+sVone
+p74
+I1
+sVdown
+p75
+I4
+sVmomma
+p76
+I1
+sVbitch
+p77
+I1
+sVescalade
+p78
+I1
+sVquit
+p79
+I1
+sVthere
+p80
+I2
+sVcent
+p81
+I1
+sVcall
+p82
+I3
+sVdon\u2019t
+p83
+I3
+sVlot
+p84
+I1
+sVdamn
+p85
+I2
+sVbullshittin
+p86
+I1
+sVshell
+p87
+I1
+sVthat
+p88
+I2
+sVfreestyle
+p89
+I2
+sVbitches
+p90
+I1
+sVhuh
+p91
+I1
+sVfuck
+p92
+I1
+sVcops
+p93
+I5
+sVshock
+p94
+I1
+sVcontrolling
+p95
+I1
+sVhold
+p96
+I1
+sVbout
+p97
+I5
+sVsound
+p98
+I1
+sV12
+p99
+I1
+sVlook
+p100
+I1
+sVniggas
+p101
+I2
+sV\u2018head
+p102
+I1
+sVup
+p103
+I1
+sVclips
+p104
+I3
+sVgucci
+p105
+I1
+sVdaddy
+p106
+I1
+sVbet
+p107
+I6
+sVhistory
+p108
+I6
+sVcoughin\u2019
+p109
+I1
+sVrattle
+p110
+I1
+sVit
+p111
+I4
+sVhomie
+p112
+I1
+sVat
+p113
+I1
+sVshines
+p114
+I1
+sVmuthafuckin\u2019
+p115
+I2
+sVshit
+p116
+I1
+sVstrength
+p117
+I1
+sVcomin\u2019
+p118
+I1
+sVmake
+p119
+I7
+sVi\u2019m
+p120
+I1
+sVhot
+p121
+I1
+sVcasualty
+p122
+I1
+sVclub
+p123
+I1
+sVsure
+p124
+I1
+sVcaddy
+p125
+I1
+sVpigs
+p126
+I1
+sVman
+p127
+I2
+sVmuthafucking
+p128
+I1
+sVgive
+p129
+I1
+sVgrams
+p130
+I1
+sVclear
+p131
+I1
+sVtalkin\u2019
+p132
+I4
+sVflocka
+p133
+I1
+sVwan\u2019
+p134
+I1
+s.

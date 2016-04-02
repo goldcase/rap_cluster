@@ -1,60 +1,337 @@
-"around the world" lyrics
-snoop dogg lyrics
-"around the world"
-(snoop x daz)
-around the world, around the world
-around the world, around the world
-around the world, around the world
-around the world, around the world
-catch us in m.i.a
-cleveland and dallas
-we be european, d-p-gin' in malice
-roll up the best dro, we here now
-turn up, when you get down
-roll call, all my dogs, spent 10 g's at the strip mall
-round and round we go
-where we stop, no-one will know
-baby it's  austria, beli  tokyo
-then i, spin the globe, putting my fingers on it
-like a g-6, pop a  flight then i'm  on it
-then i zoom straight to  uk, belgium, then back to france
-around the world, around the world
-around the world, around the world
-around the world, around the world
-around the world, around the world
-it was all on you, now it's all on me
-all around the world, this is volume three
-me and my cousin, d-a-z
-ain't too many spots that we don't be
-mad when i play us
-cute lil' egyptian, met her in arabia
-mad when a nigga stop paging her
-i had to let her know, i ain't saving ya
-you know, we know the flight's shit
-strap it/traffic ten s with the flyest beach
-in dubai, you know we don't  smoking, we high
-and then we fly over to the states with the cars we drive
-and then we end up at the leopard nine (everyday)
-this guy  gon' party like all day long
-who gon' tell him when we end up next?
-beach cmon
-around the world, around the world
-around the world, around the world
-around the world, around the world
-around the world, around the world
-all around the world babe
-(all around the world babe)
-people say the same things
-people say they on they own
-(people say they on they own)
-but they do the same
-(but they do the same thing)
-all around the world mayne
-(all around the world mayne)
-everything's the same game
-people say they on they own
-but they do the same thing
-around the world, around the world
-around the world, around the world
-around the world, around the world
-around the world, around the world
+(dp1
+Vcute
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVcatch
+p5
+I1
+sVgo
+p6
+I1
+sVaint
+p7
+I2
+sVflights
+p8
+I1
+sVflyest
+p9
+I1
+sVg6
+p10
+I1
+sVaround
+p11
+I39
+sVegyptian
+p12
+I1
+sVya
+p13
+I1
+sVstop
+p14
+I2
+sVgame
+p15
+I1
+sVputting
+p16
+I1
+sVknow
+p17
+I5
+sVbelgium
+p18
+I1
+sVworld
+p19
+I39
+sVnow
+p20
+I1
+sVday
+p21
+I1
+sVdaz
+p22
+I2
+sVstates
+p23
+I1
+sVdubai
+p24
+I1
+sVlike
+p25
+I2
+sVzoom
+p26
+I1
+sVx
+I1
+sVguy
+p27
+I1
+sVround
+p28
+I2
+sVnigga
+p29
+I1
+sVten
+p30
+I1
+sVpeople
+p31
+I4
+sVeverythings
+p32
+I1
+sVglobe
+p33
+I1
+sVmalice
+p34
+I1
+sVcleveland
+p35
+I1
+sVthing
+p36
+I2
+sVbest
+p37
+I1
+sVgon
+p38
+I2
+sVfingers
+p39
+I1
+sVbe
+p40
+I1
+sVcars
+p41
+I1
+sVmayne
+p42
+I2
+sVmet
+p43
+I1
+sVlet
+p44
+I1
+sVcousin
+p45
+I1
+sVher
+p46
+I1
+sVmany
+p47
+I1
+sVturn
+p48
+I1
+sVdro
+p49
+I1
+sVbeli
+p50
+I1
+sVown
+p51
+I3
+sVsaving
+p52
+I1
+sVdont
+p53
+I2
+sVpop
+p54
+I1
+sVstrap
+p55
+I1
+sVdown
+p56
+I1
+sVaustria
+p57
+I1
+sVlong
+p58
+I1
+sVstrip
+p59
+I1
+sVnext
+p60
+I1
+sVittraffic
+p61
+I1
+sVsnoop
+p62
+I2
+sVdogg
+p63
+I1
+sVthree
+p64
+I1
+sVspots
+p65
+I1
+sVfrance
+p66
+I1
+sVcall
+p67
+I1
+sVdpgin
+p68
+I1
+sVdogs
+p69
+I1
+sVflight
+p70
+I1
+sVback
+p71
+I1
+sVvolume
+p72
+I1
+sVbaby
+p73
+I1
+sVsmoking
+p74
+I1
+sVspin
+p75
+I1
+sVme
+p76
+I1
+sV10
+p77
+I1
+sVtokyo
+p78
+I1
+sVstraight
+p79
+I1
+sVus
+p80
+I2
+sVtell
+p81
+I1
+sVpaging
+p82
+I1
+sVnine
+p83
+I1
+sVuk
+p84
+I1
+sVcmon
+p85
+I1
+sVit
+p86
+I2
+sVdrive
+p87
+I1
+sVhigh
+p88
+I1
+sVfly
+p89
+I1
+sVsay
+p90
+I4
+sVim
+p91
+I1
+sVarabia
+p92
+I1
+sVbabe
+p93
+I2
+sVeveryday
+p94
+I1
+sVshit
+p95
+I1
+sVend
+p96
+I2
+sVdallas
+p97
+I1
+sVmia
+p98
+I1
+sVthings
+p99
+I1
+sVget
+p100
+I1
+sVsame
+p101
+I1
+sVparty
+p102
+I1
+sVbeach
+p103
+I2
+sVroll
+p104
+I2
+sVeuropean
+p105
+I1
+sVplay
+p106
+I1
+sVleopard
+p107
+I1
+sVmad
+p108
+I2
+sVmall
+p109
+I1
+sVnoone
+p110
+I1
+sVspent
+p111
+I1
+sVlil
+p112
+I1
+s.

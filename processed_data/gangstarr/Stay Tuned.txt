@@ -1,57 +1,488 @@
-"stay tuned" lyrics
-gang starr lyrics
-"stay tuned"
-get with this get with this
-get with this cuz you got no choice
-rappers sometimes you'll find make dough
-but yo you know they've got no voice
-get him off the podium he ain't no speaker
-yes he's just a phony and look at his sneakers
-played out of style out of rhymes
-he's out his mind
-lost his way lost his pay
-i'm takin' his props so call the cops
-you can call 'em but i know 'em
-sweet mcs i think i'll ho 'em
-cuz they front so very hard and big or small
-i'll break 'em all
-ain't gotta say that i'm the best
-my skills will show i passed the test
-when it comes to beats and rhymes
-we come correctly everytime
-and stay tuned
-stay tuned...
-with information like the cnn
-i can take you there and then
-the rest is up to you to choose
-the bottom line is win or lose
-suckers suckers suckers don't be listening
-so i can't be waitin' on 'em
-i ain't got no time to play, do you?
-look at the state of things and tell me true
-in the city any city life's a paradox of good and evil
-many fall into the vicious cycle
-living by the gun or by the rifle
-think they got a reason that ain't really sure
-the death toll rises more
-it's trife the way some live life
-i love rap, i like the city
-but for a fool i have no pity
-there'stoo much suffering too much struggle
-too much injustice and don't it bug you
-enough for you to press on harder
-against the odds the wayn our forefathers
-made away but foolishly we go astray
-think about it and stay tuned
-what you really oughta do is lay back smooth
-as my vocals compliment the slow fat groove
-just for you to blast around the way
-play it nice and loud and hear me say
-gang starr is hitting '92 and on
-showing how to make a dope rap song
-doing this while some disperse
-then dissolve like specs of dirt
-our music pertains to those who remain
-down with the real not wealth or the fame
-peace out, we'll be back, stay tuned...
-please stay tuned
+(dp1
+Vall
+p2
+I1
+sVpeace
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVtrife
+p6
+I1
+sVrest
+p7
+I1
+sVpress
+p8
+I1
+sVdough
+p9
+I1
+sVgang
+p10
+I2
+sVgo
+p11
+I1
+sVyes
+p12
+I1
+sVtakin
+p13
+I1
+sVfind
+p14
+I1
+sVaint
+p15
+I4
+sVstyle
+p16
+I1
+sVdeath
+p17
+I1
+sVtrue
+p18
+I1
+sVcuz
+p19
+I2
+sVchoose
+p20
+I1
+sVwin
+p21
+I1
+sVfoolishly
+p22
+I1
+sVta
+p23
+I1
+sVfool
+p24
+I1
+sVthen
+p25
+I1
+sVgood
+p26
+I1
+sVaround
+p27
+I1
+sVyo
+p28
+I1
+sVget
+p29
+I4
+sVbig
+p30
+I1
+sVshowing
+p31
+I1
+sVtoll
+p32
+I1
+sVfat
+p33
+I1
+sVchoice
+p34
+I1
+sVbreak
+p35
+I1
+sVsuffering
+p36
+I1
+sVmade
+p37
+I1
+sVknow
+p38
+I2
+sVlistening
+p39
+I1
+sVfall
+p40
+I1
+sVfront
+p41
+I1
+sVblast
+p42
+I1
+sVlike
+p43
+I3
+sVlost
+p44
+I2
+sVeverytime
+p45
+I1
+sVskills
+p46
+I1
+sVgun
+p47
+I1
+sVtuned
+p48
+I7
+sVlose
+p49
+I1
+sVsmall
+p50
+I1
+sVpertains
+p51
+I1
+sVdisperse
+p52
+I1
+sVem
+p53
+I5
+sVsmooth
+p54
+I1
+sVhard
+p55
+I1
+sVback
+p56
+I2
+sVspecs
+p57
+I1
+sVbest
+p58
+I1
+sVreally
+p59
+I2
+sVliving
+p60
+I1
+sVbottom
+p61
+I1
+sVaway
+p62
+I1
+sVplease
+p63
+I1
+sVastray
+p64
+I1
+sVstate
+p65
+I1
+sVsneakers
+p66
+I1
+sVinjustice
+p67
+I1
+sVcorrectly
+p68
+I1
+sVprops
+p69
+I1
+sVcnn
+p70
+I1
+sVgot
+p71
+I5
+sVyoull
+p72
+I1
+sVcompliment
+p73
+I1
+sVdirt
+p74
+I1
+sVreason
+p75
+I1
+sVslow
+p76
+I1
+sVstruggle
+p77
+I1
+sVsuckers
+p78
+I3
+sVrises
+p79
+I1
+sVcome
+p80
+I1
+sVpity
+p81
+I1
+sVon
+p82
+I1
+sVmany
+p83
+I1
+sVill
+p84
+I2
+sVloud
+p85
+I1
+sVthink
+p86
+I3
+sVcomes
+p87
+I1
+sVlove
+p88
+I1
+sVdont
+p89
+I2
+sVsweet
+p90
+I1
+sVoughta
+p91
+I1
+sVbeats
+p92
+I1
+sVcity
+p93
+I3
+sVlifes
+p94
+I1
+sVwealth
+p95
+I1
+sVhes
+p96
+I2
+sVhitting
+p97
+I1
+sVlive
+p98
+I1
+sVmuch
+p99
+I3
+sVcall
+p100
+I2
+sVway
+p101
+I3
+sVstarr
+p102
+I2
+sVmusic
+p103
+I1
+sVforefathers
+p104
+I1
+sVtell
+p105
+I1
+sVmore
+p106
+I1
+sVlife
+p107
+I1
+sVpassed
+p108
+I1
+sVenough
+p109
+I1
+sVphony
+p110
+I1
+sVcops
+p111
+I1
+sVhear
+p112
+I1
+sVho
+p113
+I1
+sVrifle
+p114
+I1
+sVline
+p115
+I1
+sV92
+p116
+I1
+sVmcs
+p117
+I1
+sVbug
+p118
+I1
+sVwayn
+p119
+I1
+sVtheyve
+p120
+I1
+sVlook
+p121
+I2
+sVharder
+p122
+I1
+sVcant
+p123
+I1
+sVrhymes
+p124
+I2
+sVtherestoo
+p125
+I1
+sVremain
+p126
+I1
+sVvocals
+p127
+I1
+sVvoice
+p128
+I1
+sVgroove
+p129
+I1
+sVdissolve
+p130
+I1
+sVreal
+p131
+I1
+sVplayed
+p132
+I1
+sVmind
+p133
+I1
+sVsay
+p134
+I2
+sVim
+p135
+I2
+sVrap
+p136
+I2
+sVfame
+p137
+I1
+sVinformation
+p138
+I1
+sVparadox
+p139
+I1
+sVthings
+p140
+I1
+sVmake
+p141
+I2
+sVsong
+p142
+I1
+sVspeaker
+p143
+I1
+sVtake
+p144
+I1
+sVtest
+p145
+I1
+sVyou
+p146
+I2
+sVdope
+p147
+I1
+sVnice
+p148
+I1
+sVwaitin
+p149
+I1
+sVplay
+p150
+I2
+sVsure
+p151
+I1
+sVrappers
+p152
+I1
+sVtime
+p153
+I1
+sVvicious
+p154
+I1
+sVevil
+p155
+I1
+sVstay
+p156
+I7
+sVpodium
+p157
+I1
+sVlay
+p158
+I1
+sVcycle
+p159
+I1
+sVodds
+p160
+I1
+sVsometimes
+p161
+I1
+sVwell
+p162
+I1
+sVpay
+p163
+I1
+s.

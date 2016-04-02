@@ -1,61 +1,452 @@
-"so amazing" lyrics
-50 cent lyrics
-"so amazing"
-summer, winter, spring, and fall
-i'll be around to catch ya calls
-cause you're my baby (you're my baby)
-and i adore you
-you always brighten up my day
-i never ever let you wait
-cause you're my baby (you're my baby)
-and you're amazing (so amazing)
-i'm from city to city to shop the show
-see me i been gridin' across the globe
-i hustle hard to get the grib fa sho'
-so when i make time to call you, you should pick up the phone
-tell me, whats on your mind when you're alone
-have ya touchin' on yourself, girl all in the zone
-now if i turned you on
-what things i say would i be wrong
-then i wouldn't wanna be right
-matter fact i'd be on the next flight
-tryna get it on with you tonight
-do the things you like
-touch the right spot, have ya piped and hot
-while the wind blow through your hair in the drop
-just lay back, relax to the sounds of the sex
-and let me to what i do until you climax
-you can go straight to sleep after its all over
-in the mornin' roll over and we can start over
-summer, winter, spring, and fall
-i'll be around to catch ya calls
-cause you're my baby (you're my baby)
-and i adore you
-you always brighten up my day
-i never ever let you wait
-cause you're my baby (you're my baby)
-and you're amazing (so amazing)
-yeah i called just to say hope you havin' a nice day
-you're special, i get into you, oops i mean i'm into you
-every chance i get, i find time to spend with you
-jet to bring you to me, just to watch a movie
-better yet to watch you climb into the jacuzzi
-bubbles in the bath, don in the glass
-funny how time flies when you full of laughs
-its fun but before long, a nigga gotta dash
-for the lifestyle i live, a nigga need cash
-to come quick, so i don't fuck with the stash
-i know you like pumps and boots
-i like jeeps and coupes, so i grind all the time, just gimme some loot
-i put a spell on you, i like to call it a spell
-in the bedroom, workin' it well, i don't kiss and tell
-but i don't care if you kiss and tell
-you can tell your girlfriend the details
-summer, winter, spring, and fall
-i'll be around to catch ya calls
-cause you're my baby (you're my baby)
-and i adore you
-you always brighten up my day
-i never ever let you wait
-cause you're my baby (you're my baby)
-and you're amazing (so amazing)
+(dp1
+Vshop
+p2
+I1
+sVsummer
+p3
+I3
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVover
+p6
+I2
+sVbaby
+p7
+I12
+sVjacuzzi
+p8
+I1
+sVsleep
+p9
+I1
+sVbedroom
+p10
+I1
+sVgo
+p11
+I1
+sVfind
+p12
+I1
+sVblow
+p13
+I1
+sVzone
+p14
+I1
+sVbrighten
+p15
+I3
+sVbetter
+p16
+I1
+sVhavin
+p17
+I1
+sVhope
+p18
+I1
+sVta
+p19
+I1
+sVmornin
+p20
+I1
+sVworkin
+p21
+I1
+sVaround
+p22
+I3
+sVget
+p23
+I4
+sVya
+p24
+I5
+sVspell
+p25
+I2
+sVwatch
+p26
+I2
+sVgrib
+p27
+I1
+sVevery
+p28
+I1
+sVknow
+p29
+I1
+sVkiss
+p30
+I2
+sVfall
+p31
+I3
+sVbubbles
+p32
+I1
+sVday
+p33
+I4
+sVgridin
+p34
+I1
+sVlike
+p35
+I4
+sVbring
+p36
+I1
+sVcause
+p37
+I6
+sVdrop
+p38
+I1
+sV50
+p39
+I1
+sVacross
+p40
+I1
+sValways
+p41
+I3
+sVquick
+p42
+I1
+sVlaughs
+p43
+I1
+sVsho
+p44
+I1
+sVright
+p45
+I2
+sVspring
+p46
+I3
+sVglobe
+p47
+I1
+sVhard
+p48
+I1
+sVback
+p49
+I1
+sVboots
+p50
+I1
+sVsex
+p51
+I1
+sVhair
+p52
+I1
+sVtouch
+p53
+I1
+sVsee
+p54
+I1
+sVgirl
+p55
+I1
+sVspecial
+p56
+I1
+sVmovie
+p57
+I1
+sVyet
+p58
+I1
+sVgot
+p59
+I1
+sVever
+p60
+I3
+sVpiped
+p61
+I1
+sVhustle
+p62
+I1
+sVfull
+p63
+I1
+sVcity
+p64
+I2
+sVnever
+p65
+I3
+sVlet
+p66
+I4
+sValone
+p67
+I1
+sVcome
+p68
+I1
+sVwait
+p69
+I3
+sVon
+p70
+I1
+sVlifestyle
+p71
+I1
+sVjet
+p72
+I1
+sVwouldnt
+p73
+I1
+sVill
+p74
+I3
+sVchance
+p75
+I1
+sVamazing
+p76
+I8
+sVpick
+p77
+I1
+sVclimb
+p78
+I1
+sVmean
+p79
+I1
+sVflies
+p80
+I1
+sVwhats
+p81
+I1
+sVdont
+p82
+I3
+sVbath
+p83
+I1
+sVput
+p84
+I1
+sVtouchin
+p85
+I1
+sVlong
+p86
+I1
+sVsounds
+p87
+I1
+sVwan
+p88
+I1
+sVwould
+p89
+I1
+sVcent
+p90
+I1
+sVnext
+p91
+I1
+sVstart
+p92
+I1
+sVlive
+p93
+I1
+sVcall
+p94
+I2
+sVgim
+p95
+I1
+sVcare
+p96
+I1
+sVtell
+p97
+I4
+sVtryna
+p98
+I1
+sVflight
+p99
+I1
+sVrelax
+p100
+I1
+sVturned
+p101
+I1
+sVyeah
+p102
+I1
+sVphone
+p103
+I1
+sVnigga
+p104
+I2
+sVcatch
+p105
+I3
+sVme
+p106
+I1
+sVdash
+p107
+I1
+sVstraight
+p108
+I1
+sVcash
+p109
+I1
+sVmatter
+p110
+I1
+sVadore
+p111
+I3
+sVfun
+p112
+I1
+sVloot
+p113
+I1
+sVcalled
+p114
+I1
+sVclimax
+p115
+I1
+sVcoupes
+p116
+I1
+sVmind
+p117
+I1
+sVfuck
+p118
+I1
+sVtonight
+p119
+I1
+sVgirlfriend
+p120
+I1
+sVsay
+p121
+I2
+sVim
+p122
+I2
+sVneed
+p123
+I1
+sVid
+p124
+I1
+sVfunny
+p125
+I1
+sVwinter
+p126
+I3
+sVna
+p127
+I1
+sVmake
+p128
+I1
+sVoops
+p129
+I1
+sVhot
+p130
+I1
+sVdetails
+p131
+I1
+sVyou
+p132
+I5
+sVroll
+p133
+I1
+sVnice
+p134
+I1
+sVtime
+p135
+I4
+sVspot
+p136
+I1
+sVfa
+p137
+I1
+sVwrong
+p138
+I1
+sVpumps
+p139
+I1
+sVlay
+p140
+I1
+sVjeeps
+p141
+I1
+sVcalls
+p142
+I3
+sVglass
+p143
+I1
+sVyoure
+p144
+I17
+sVwell
+p145
+I1
+sVstash
+p146
+I1
+sVgrind
+p147
+I1
+sVfact
+p148
+I1
+sVthings
+p149
+I2
+sVspend
+p150
+I1
+sVwind
+p151
+I1
+s.

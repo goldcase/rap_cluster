@@ -1,121 +1,929 @@
-"playaz from the south" lyrics
-ugk lyrics
-"playaz from the south"
-(feat. master p, silkk the shocker)
-yeah...uh huh...ha ha ha
-well live and direct, break yo neck to get a peep
-of a true and livin' got damn fool
-i came to sweep you off yo got damn feet
-now pass that sweet & get back
-lookin' for action, retaliation, and reaction
-that's where that shit at
-click clack that's that pistol
-bullets cuttin' wind make a fucked up ass whistle
-you know it's yo dismissal
-now this'll nip it in the bud
-for my brothers in the pen
-every day i gots to bust two nuts nigga, what
-i put it down, keep puttin' it down,
-so i advise hoes to not fuck around
-this that underground
-bitch you couldn't cut the sound
-would blow up, hold up
-wrong move, but it's time
-to call the first family to handle these niggas
-because we are the worst
-you bitch niggas laid yo eyes on
-i'm so fo' sure
-that these g's goin' fo', fo' and blow for blow
-it's silkk, master p, and u.g.k
-front door, front row, slow it down ho, you know
-playas from the south stack g's
-flippin' tight on that white
-with that candy on them gold d's
-fools hate the p cause i'm bout it (bout it)
-i got them black soldiers on and i'm rowdy
-ready to bust on the nigga that talkin' shit
-i'm bad, like jason
-don't compare with them other niggas
-cause i ain't freebasin'
-y'all niggas gone on that fried black
-i had fucked mo' niggas in the game then a quarterback
-i got them g's, them killers, them keys
-i'm fuckin' doublin' them d's
-i'm triplin' them t's
-tryin' to make this dope into quarter keys
-ask me where i'm from, new orleans (new orleans)
-where them niggas in the projects be ballin' (ballin')
-slangin' that iceberg and plirens
-runnin' from the sirens
-don't know how to comp
-but work the fuck out a triple beam
-eliminate niggas like calgon (calgon)
-if there was a motherfuckin' band i'd be a baritone
-see the p is from that motherfuckin' calliope (calliope)
-where them niggas boot up and gold teeth
-don't give a fuck about a ho (ho)
-and niggas stuntin' on that water, water
-you know we bout it, bout it
-don't give a fuck about seein no motherfuckin' tomorrow
-and won't stop, send me to the pen
-i won't stop til them motherfuckin' saints go marchin' in
-1-2-3, you know silkk a g (g)
-all about that motherfuckin' mail (mail)
-gold on my ride, front back side-to-side
-you know a nigga all about them sales
-i don't fuck around with them niggas that front and stunt
-nigga ain't ask yo bitch ass to come
-i'm from that third ward nigga (uptown)
-in other words i run this shit right chea'
-for them niggas that boast, i be like blast it
-watch the ground gets full of smoke
-and watch y'all get ghost like casper
-shit ain't gonna fuckin' change nigga
-uh, i think not
-cause i be on the same block, same house
-same spot, same glock, cook more rock
-fuck what ya heard recognize what i be sayin'
-bitch ain't gon' never gon' die
-so when u.g.k master p called me up
-be on down south hustlers, i wasn't surprised
-cause i'ma be the man to stand, i'm bound to make a mill
-whoop, there it is y'all haven't heard
-but y'all bitches will
-believe me, i got two for three, four for five
-holla at cha' boy if ya need me
-and bitch i'm out
-now if ya gave me a sweet for every bitch that i fucked
-you'd have to bring four eightteen wheelers
-fill em' from back to front
-cause i'm pimp c bitch, ain't no mistakin'
-niggas tryin' to get the cheese
-but bitch i'm gettin' the bacon
-and wood and candy just an every day thing rubbin' bud
-because ya like the way that fifth wheel
-and that grill look
-cause i be comin' down, nigga my heart be true
-i'm fuckin' ya boo, i'm bumpin' that screw
-nigga what's up with you
-i live and wept for ya nigga, he had it comin' though
-i represent my shit cause nigga i can't be no ho
-and just because we do perform
-bitches be thinkin'
-that we don't have a fuckin' pocket full of stones
-i done drunk miller with killers
-sipped syrup with murderers
-keep a boot in my mouth
-just in case you bitches ain't heard of us
-nigga, i live for the rush, i live for the crush
-i'm down with drinkin' royal and the motherfuckin' plush
-yeah, and the motherfuckin organized noise boy, what's up
-now i got holla at port arthur
-and all them motherfuckin' niggas in texas
-know what i'm talkin' about
-i know niggas be hollerin' texas
-just because it rhymes with lexus
-but see, we just cool like that
-and uh understand that, uh
-it ain't all about this rap boy
-i'm tellin' you, i'm tellin' you, i told you
-comin' down boy, fifth wheel
-grill, candy ha ha
+(dp1
+Vugk
+p2
+I3
+sVrepresent
+p3
+I1
+sVgs
+p4
+I3
+sVlyrics
+p5
+I2
+sVcheese
+p6
+I1
+sVsales
+p7
+I1
+sVboot
+p8
+I2
+sVmove
+p9
+I1
+sVfour
+p10
+I2
+sVnot
+p11
+I1
+sVcasper
+p12
+I1
+sVstunt
+p13
+I1
+sVgo
+p14
+I1
+sVsoldiers
+p15
+I1
+sVmill
+p16
+I1
+sVfeat
+p17
+I1
+sVfifth
+p18
+I2
+sVrow
+p19
+I1
+sVblow
+p20
+I3
+sVorleans
+p21
+I2
+sVcut
+p22
+I1
+sVgold
+p23
+I3
+sVsend
+p24
+I1
+sVsaints
+p25
+I1
+sVlaid
+p26
+I1
+sVbust
+p27
+I2
+sVds
+p28
+I2
+sVeightteen
+p29
+I1
+sVblack
+p30
+I2
+sVmaster
+p31
+I3
+sVmail
+p32
+I2
+sVbout
+p33
+I4
+sVcool
+p34
+I1
+sVsurprised
+p35
+I1
+sVgave
+p36
+I1
+sVfool
+p37
+I1
+sVrunnin
+p38
+I1
+sVhandle
+p39
+I1
+sVaround
+p40
+I2
+sVyo
+p41
+I5
+sVget
+p42
+I4
+sVya
+p43
+I6
+sVdope
+p44
+I1
+sVstop
+p45
+I2
+sVsidetoside
+p46
+I1
+sVbreak
+p47
+I1
+sVwhistle
+p48
+I1
+sVgame
+p49
+I1
+sVkillers
+p50
+I2
+sVevery
+p51
+I3
+sVknow
+p52
+I8
+sVwords
+p53
+I1
+sVnew
+p54
+I2
+sVfront
+p55
+I5
+sVcalliope
+p56
+I2
+sVem
+p57
+I1
+sVblast
+p58
+I1
+sVday
+p59
+I2
+sVprojects
+p60
+I1
+sVlook
+p61
+I1
+sVwont
+p62
+I2
+sVdown
+p63
+I1
+sVhollerin
+p64
+I1
+sVlike
+p65
+I6
+sVpimp
+p66
+I1
+sVbring
+p67
+I1
+sVdie
+p68
+I1
+sVgettin
+p69
+I1
+sVretaliation
+p70
+I1
+sVcandy
+p71
+I3
+sVtriplin
+p72
+I1
+sVheart
+p73
+I1
+sVp
+I5
+sVbad
+p74
+I1
+sVman
+p75
+I1
+sVrock
+p76
+I1
+sVyou
+p77
+I2
+sVhavent
+p78
+I1
+sVquarter
+p79
+I1
+sVride
+p80
+I1
+sVyall
+p81
+I4
+sVclack
+p82
+I1
+sVfreebasin
+p83
+I1
+sVsirens
+p84
+I1
+sVnigga
+p85
+I11
+sVslangin
+p86
+I1
+sVhouse
+p87
+I1
+sVtold
+p88
+I1
+sVbacon
+p89
+I1
+sVdirect
+p90
+I1
+sVsee
+p91
+I2
+sVnoise
+p92
+I1
+sVrhymes
+p93
+I1
+sVband
+p94
+I1
+sVhoes
+p95
+I1
+sVclick
+p96
+I1
+sVout
+p97
+I1
+sVpocket
+p98
+I1
+sVwhat
+p99
+I1
+sVgon
+p100
+I3
+sVbaritone
+p101
+I1
+sVplayaz
+p102
+I2
+sVhate
+p103
+I1
+sVha
+p104
+I4
+sVboy
+p105
+I4
+sVplayas
+p106
+I1
+sVarthur
+p107
+I1
+sVthats
+p108
+I2
+sVcrush
+p109
+I1
+sVcase
+p110
+I1
+sVpen
+p111
+I2
+sVsilkk
+p112
+I3
+sVeliminate
+p113
+I1
+sVit
+p114
+I3
+sVgot
+p115
+I6
+sVpistol
+p116
+I1
+sVcause
+p117
+I7
+sVplush
+p118
+I1
+sVwhoop
+p119
+I1
+sVuh
+p120
+I3
+sVass
+p121
+I2
+sVaint
+p122
+I7
+sVlexus
+p123
+I1
+sVfull
+p124
+I2
+sVrun
+p125
+I1
+sVdrinkin
+p126
+I1
+sVrubbin
+p127
+I1
+sVcomp
+p128
+I1
+sVnever
+p129
+I1
+sVwater
+p130
+I2
+sVslow
+p131
+I1
+sVmarchin
+p132
+I1
+sVput
+p133
+I1
+sVgots
+p134
+I1
+sVpeep
+p135
+I1
+sVcome
+p136
+I1
+sVsipped
+p137
+I1
+sVstuntin
+p138
+I1
+sVsayin
+p139
+I1
+sVwept
+p140
+I1
+sVreaction
+p141
+I1
+sVc
+I1
+sVyeahuh
+p142
+I1
+sVg
+I2
+sVhuhha
+p143
+I1
+sVkeep
+p144
+I2
+sVhustlers
+p145
+I1
+sVthing
+p146
+I1
+sVstand
+p147
+I1
+sVlookin
+p148
+I1
+sVboo
+p149
+I1
+sVaction
+p150
+I1
+sVmouth
+p151
+I1
+sVthink
+p152
+I1
+sVsouth
+p153
+I4
+sVputtin
+p154
+I1
+sVdoublin
+p155
+I1
+sVwhats
+p156
+I2
+sVdont
+p157
+I6
+sVfamily
+p158
+I1
+sVima
+p159
+I1
+sVground
+p160
+I1
+sVsweet
+p161
+I2
+sVyoud
+p162
+I1
+sVsweep
+p163
+I1
+sVts
+p164
+I1
+sVfeet
+p165
+I1
+sVask
+p166
+I2
+sVthisll
+p167
+I1
+sVright
+p168
+I1
+sVdone
+p169
+I1
+sVbitch
+p170
+I8
+sVcomin
+p171
+I3
+sVuptown
+p172
+I1
+sVcouldnt
+p173
+I1
+sVballin
+p174
+I2
+sVtomorrow
+p175
+I1
+sVbound
+p176
+I1
+sVcha
+p177
+I1
+sVthree
+p178
+I1
+sVfill
+p179
+I1
+sVseein
+p180
+I1
+sVwould
+p181
+I1
+sVthough
+p182
+I1
+sVtwo
+p183
+I2
+sVlive
+p184
+I4
+sVwood
+p185
+I1
+sVcall
+p186
+I1
+sVchange
+p187
+I1
+sVway
+p188
+I1
+sVrecognize
+p189
+I1
+sVdamn
+p190
+I2
+sVwhite
+p191
+I1
+sVgoin
+p192
+I1
+sVsyrup
+p193
+I1
+sVjason
+p194
+I1
+sVeyes
+p195
+I1
+sVglock
+p196
+I1
+sVdoor
+p197
+I1
+sVtellin
+p198
+I2
+sVon
+p199
+I1
+sVbelieve
+p200
+I1
+sVbitches
+p201
+I3
+sVblock
+p202
+I1
+sVback
+p203
+I3
+sVcook
+p204
+I1
+sVunderstand
+p205
+I1
+sVho
+p206
+I4
+sVcuttin
+p207
+I1
+sVward
+p208
+I1
+sVhold
+p209
+I1
+sVtrue
+p210
+I2
+sVmistakin
+p211
+I1
+sVbud
+p212
+I2
+sVroyal
+p213
+I1
+sVsound
+p214
+I1
+sVgrill
+p215
+I2
+sVrush
+p216
+I1
+sVtryin
+p217
+I2
+sViceberg
+p218
+I1
+sVboast
+p219
+I1
+sVniggas
+p220
+I14
+sVneed
+p221
+I1
+sVmo
+p222
+I1
+sVwork
+p223
+I1
+sVup
+p224
+I3
+sVus
+p225
+I1
+sVwill
+p226
+I1
+sVchea
+p227
+I1
+sVabout
+p228
+I1
+sVfried
+p229
+I1
+sVcalled
+p230
+I1
+sVdrunk
+p231
+I1
+sVgone
+p232
+I1
+sVcompare
+p233
+I1
+sVunderground
+p234
+I1
+sVrap
+p235
+I1
+sVgive
+p236
+I2
+sVwasnt
+p237
+I1
+sVrowdy
+p238
+I1
+sVpass
+p239
+I1
+sVorganized
+p240
+I1
+sVfuck
+p241
+I6
+sVsmoke
+p242
+I1
+sVheard
+p243
+I3
+sVcant
+p244
+I1
+sVim
+p245
+I18
+sVat
+p246
+I1
+sVtriple
+p247
+I1
+sVin
+p248
+I1
+sVready
+p249
+I1
+sVmiller
+p250
+I1
+sVtexas
+p251
+I2
+sVid
+p252
+I1
+sVshit
+p253
+I5
+sVlivin
+p254
+I1
+sVyeah
+p255
+I1
+sVholla
+p256
+I2
+sVstones
+p257
+I1
+sVperform
+p258
+I1
+sVna
+p259
+I1
+sVmake
+p260
+I3
+sVthat
+p261
+I1
+sVnuts
+p262
+I1
+sVport
+p263
+I1
+sVtil
+p264
+I1
+sVtight
+p265
+I1
+sVcalgon
+p266
+I2
+sVfools
+p267
+I1
+sVmotherfuckin
+p268
+I8
+sVshocker
+p269
+I1
+sVadvise
+p270
+I1
+sVgets
+p271
+I1
+sVtalkin
+p272
+I2
+sVquarterback
+p273
+I1
+sVthinkin
+p274
+I1
+sVwheel
+p275
+I2
+sVmurderers
+p276
+I1
+sVsure
+p277
+I1
+sVbrothers
+p278
+I1
+sVscrew
+p279
+I1
+sVkeys
+p280
+I2
+sVwatch
+p281
+I2
+sVteeth
+p282
+I1
+sVspot
+p283
+I1
+sVme
+p284
+I1
+sVbumpin
+p285
+I1
+sVwrong
+p286
+I1
+sVbullets
+p287
+I1
+sVfucked
+p288
+I3
+sVnip
+p289
+I1
+sVstack
+p290
+I1
+sVfo
+p291
+I3
+sVghost
+p292
+I1
+sVfuckin
+p293
+I4
+sVplirens
+p294
+I1
+sVneck
+p295
+I1
+sVthird
+p296
+I1
+sVbeam
+p297
+I1
+sVwell
+p298
+I1
+sVflippin
+p299
+I1
+sV123
+p300
+I1
+sVcame
+p301
+I1
+sVtime
+p302
+I1
+sVfive
+p303
+I1
+sVworst
+p304
+I1
+sVfirst
+p305
+I1
+sVwheelers
+p306
+I1
+sVdismissal
+p307
+I1
+sVwind
+p308
+I1
+s.

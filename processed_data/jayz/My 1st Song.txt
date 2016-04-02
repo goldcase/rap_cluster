@@ -1,109 +1,907 @@
-"my 1st song" lyrics
-jay-z lyrics
-"my 1st song"
-i'm just, tryin to stay above water y'know
-just stay busy, stay workin
-puff told me like, the key to this joint
-the key to staying, on top of things
-is treat everything like it's your first project, knahmsayin?
-like it's your first day like back when you was an intern
-like, that's how you try to treat things like, just stay hungry
-uhh, uhh, yes, yes
-y'all wanna know, why he don't stop
-y'all wanna know, why he don't flop
-let me tell you pe-eople why
-came from the bottom of the block i
-when i was born, it was sworn, i was never gon' be shit
-had to pull the opposite out this bitch
-had to get my ri-ide on
-eyes on the prize, shawn knew i had to
-had to had to get these chips
-had to make moves like olajuwon
-started out sellin dimes and nicks
-graduated to a brick
-no exaggeration, my infatuation with the strip
-legendary like a schoolboy
-crushin merely nearly every every chick
-heavy shit - that's how schoolboy got whipped
-and got left on some "just +me, myself and i+"
-on some trugoy shit
-had your boys threw place up, to a place of no return
-had to play with fire and get burned
-only way the boy ever gon' learn
-had to lay way in the cut, 'til i finally got my turn
-now i'm on top in the spot that i earned
-it's my life - it's my pain and my struggle
-the song that i sing to you it's my ev-ery-thing
-treat my first like my last, and my last like my first
-and my thirst is the same as - when i came
-it's my joy and my tears and the laughter it brings to me
-it's my ev-ery-thing
-like i never rode in a limo
-like i just dropped flows to a demo
-like it's ninety-two again and
-and i got o's in the rental
-back in the stu' again, no prob' livin was a whole lot simpler
-when you think back, you thought that
-you would never make it this far, then you
-take advantage of the luck you handed
-or the talent, you been given
-ain't no, half steppin, ain't no, no slippin
-ain't no different from a block that's hidden
-gotta get it while the getting's good
-gotta strike while the iron's hot, 'fore you stop
-then you gotta bid it, good riddance
-goodbye, this is my second major breakup
-my first was, with a pager
-with a hooptie, a cookpot, and the game
-this one's with the stool, with the stage, with the fortune
-maybe not the fortune, but certainly the fame
-it's my life - my pain and my struggle
-the song that i sing to you it's my ev-ery-thing
-treat my first like my last, and my last like my first
-and my thirst is the same as - when i came
-it's my joy and my tears and my laughter it brings to me
-it's my ev-ery-thing
-treat my first like my last, and my last like my first
-and my thirst like the first song i sang
-woo!  it's like the blues - we gon' ride out on this one
-ta-tah, be-hah
-yo hah, 'member you was makin them dashes
-for them niggaa at radio and shit?
-clark kent, that was good lookin out nigga
-carlene - who ever thought we'd make it this far homey?
-sha, they can't stop us, knahmsayin?  lenny s
-dame whattup?  robbin the bank
-niggaz thought we was crazy man, 'member uhh
-you had that fucked up ass handwritin
-you was writin all the numbers that we was spendin now
-for the videos we was doin ourselves, whattup?
-original flavor, your accountant was crazy wrong and shit
-but we we still put it together
-bigs, whassup?  'member we went to st. thomas and uh
-but y'all my nizzle, your dog peed on homey leg and shit
-at his crib - i think that was rudy
-and they was havin a lil trouble with the pool
-you and ta-tah was laughin
-emory was there, whattup emory?  what up ta?
-hip-hop, whattup man?
-ay, ay hobb, you ain't, you ain't have no uhh
-you ain't have no muh'fuckin seat on your, on your bicycle
-now you uhh, the head of black music
-that's what i'm talkin bout right there homey - g, whattup g?
-yessir, e'rybody in the roc
-hey guru, i know you spoiled man
-i be takin them shits in one take
-you gon' have to punch niggaz shit, stick it, you gon' be tight
-og one, whattup?
-i'm a little upset that you wasn't involved in this whole process
-but it's all good - whassup dash?
-my whole family, my nephew, cousin angie, whassup?  te-tee
-(b, b, b, b)  mom, you made the album, how crazy is that?
-bob allah, rest in peace
-my pops, rest in peace (sup a.j.?)
-biggie smalls, rest in peace
-uh-uh, uh-uh, uh-uh, uh-uh
-nigga, i'm bout to go golfin man
-ay, i might even have me a cappuccino, fuck it!
-i'm goin somewhere nice where no mosquitos at nigga
-holla at me - it's your boy!
+(dp1
+Vwhattup
+p2
+I6
+sVpeace
+p3
+I3
+sVmom
+p4
+I1
+sVlyrics
+p5
+I2
+sVroc
+p6
+I1
+sVthomas
+p7
+I1
+sVrest
+p8
+I3
+sVpops
+p9
+I1
+sVspoiled
+p10
+I1
+sVradio
+p11
+I1
+sVinfatuation
+p12
+I1
+sVleft
+p13
+I1
+sVslippin
+p14
+I1
+sVnephew
+p15
+I1
+sVyes
+p16
+I2
+sVstill
+p17
+I1
+sVtakin
+p18
+I1
+sVmuhfuckin
+p19
+I1
+sVshits
+p20
+I1
+sVaint
+p21
+I6
+sVmember
+p22
+I3
+sVcertainly
+p23
+I1
+sVbusy
+p24
+I1
+sVfamily
+p25
+I1
+sVhead
+p26
+I1
+sVearned
+p27
+I1
+sVsomewhere
+p28
+I1
+sVnicks
+p29
+I1
+sVhot
+p30
+I1
+sVolajuwon
+p31
+I1
+sVto
+p32
+I1
+sVfinally
+p33
+I1
+sVblack
+p34
+I1
+sVwed
+p35
+I1
+sVhandwritin
+p36
+I1
+sVhidden
+p37
+I1
+sVmight
+p38
+I1
+sVta
+p39
+I4
+sVme
+p40
+I2
+sVgood
+p41
+I4
+sVworkin
+p42
+I1
+sVlivin
+p43
+I1
+sVexaggeration
+p44
+I1
+sVget
+p45
+I4
+sVfar
+p46
+I2
+sVbid
+p47
+I1
+sVstop
+p48
+I3
+sVhavin
+p49
+I1
+sVuhh
+p50
+I5
+sVjoint
+p51
+I1
+sVgame
+p52
+I1
+sVones
+p53
+I1
+sVevery
+p54
+I2
+sVknow
+p55
+I3
+sVlegendary
+p56
+I1
+sVhalf
+p57
+I1
+sVtrouble
+p58
+I1
+sVnow
+p59
+I1
+sVchips
+p60
+I1
+sVday
+p61
+I1
+sVbank
+p62
+I1
+sVlike
+p63
+I19
+sVfortune
+p64
+I2
+sVprize
+p65
+I1
+sVcarlene
+p66
+I1
+sVeven
+p67
+I1
+sVrobbin
+p68
+I1
+sVtry
+p69
+I1
+sVsang
+p70
+I1
+sVgolfin
+p71
+I1
+sVuh
+p72
+I1
+sVchick
+p73
+I1
+sVwent
+p74
+I1
+sVhooptie
+p75
+I1
+sVyall
+p76
+I3
+sVdimes
+p77
+I1
+sVheavy
+p78
+I1
+sVnigga
+p79
+I3
+sVbicycle
+p80
+I1
+sV1st
+p81
+I2
+sVnizzle
+p82
+I1
+sVback
+p83
+I3
+sVseat
+p84
+I1
+sVborn
+p85
+I1
+sVintern
+p86
+I1
+sVsteppin
+p87
+I1
+sVniggaz
+p88
+I2
+sVgo
+p89
+I1
+sVbiggie
+p90
+I1
+sVblues
+p91
+I1
+sVangie
+p92
+I1
+sVtrugoy
+p93
+I1
+sVyknow
+p94
+I1
+sVflavor
+p95
+I1
+sVirons
+p96
+I1
+sVtetee
+p97
+I1
+sVgon
+p98
+I5
+sVbottom
+p99
+I1
+sVspendin
+p100
+I1
+sVstool
+p101
+I1
+sVthirst
+p102
+I3
+sVeverything
+p103
+I5
+sVwoo
+p104
+I1
+sVkent
+p105
+I1
+sVsup
+p106
+I1
+sVwhassup
+p107
+I3
+sVgot
+p108
+I7
+sVburned
+p109
+I1
+sVever
+p110
+I2
+sVprob
+p111
+I1
+sVwhipped
+p112
+I1
+sVtold
+p113
+I1
+sVass
+p114
+I1
+sVhah
+p115
+I1
+sVsmalls
+p116
+I1
+sVgoin
+p117
+I1
+sVleg
+p118
+I1
+sVjoy
+p119
+I2
+sVnever
+p120
+I3
+sVpunch
+p121
+I1
+sVpeed
+p122
+I1
+sVmosquitos
+p123
+I1
+sVwater
+p124
+I1
+sVcut
+p125
+I1
+sVlet
+p126
+I1
+sVstruggle
+p127
+I2
+sVkey
+p128
+I2
+sVgraduated
+p129
+I1
+sVsing
+p130
+I2
+sVgettings
+p131
+I1
+sVstu
+p132
+I1
+sVon
+p133
+I1
+sVlast
+p134
+I6
+sVg
+I2
+sVog
+p135
+I1
+sVinvolved
+p136
+I1
+sVbehah
+p137
+I1
+sVput
+p138
+I1
+sVhiphop
+p139
+I1
+sVturn
+p140
+I1
+sVs
+I1
+sVhobb
+p141
+I1
+sVplace
+p142
+I2
+sVlookin
+p143
+I1
+sVbigs
+p144
+I1
+sVknahmsayin
+p145
+I2
+sVbob
+p146
+I1
+sVluck
+p147
+I1
+sVos
+p148
+I1
+sVthink
+p149
+I2
+sVblock
+p150
+I2
+sVthats
+p151
+I4
+sVmajor
+p152
+I1
+sVwritin
+p153
+I1
+sVdont
+p154
+I2
+sVclark
+p155
+I1
+sVmerely
+p156
+I1
+sVmakin
+p157
+I1
+sVcrib
+p158
+I1
+sVone
+p159
+I3
+sVdame
+p160
+I1
+sVjayz
+p161
+I1
+sVright
+p162
+I1
+sVtatah
+p163
+I2
+sVbitch
+p164
+I1
+sVstrip
+p165
+I1
+sVsimpler
+p166
+I1
+sVfire
+p167
+I1
+sVwan
+p168
+I2
+sVgiven
+p169
+I1
+sVninetytwo
+p170
+I1
+sVwould
+p171
+I1
+sVsha
+p172
+I1
+sVbreakup
+p173
+I1
+sVtop
+p174
+I2
+sVtears
+p175
+I2
+sVprocess
+p176
+I1
+sVaccountant
+p177
+I1
+sVmusic
+p178
+I1
+sVtreat
+p179
+I5
+sVway
+p180
+I2
+sVstrike
+p181
+I1
+sVbrick
+p182
+I1
+sVtryin
+p183
+I1
+sVtell
+p184
+I1
+sVstage
+p185
+I1
+sVschoolboy
+p186
+I2
+sVtight
+p187
+I1
+sVeyes
+p188
+I1
+sVallah
+p189
+I1
+sVlimo
+p190
+I1
+sVlot
+p191
+I1
+sVboy
+p192
+I2
+sVstarted
+p193
+I1
+sVbrings
+p194
+I2
+sVcrushin
+p195
+I1
+sVfore
+p196
+I1
+sVfuck
+p197
+I1
+sVyo
+p198
+I1
+sVboys
+p199
+I1
+sVstick
+p200
+I1
+sVtalent
+p201
+I1
+sVit
+p202
+I1
+sVbout
+p203
+I2
+sVplay
+p204
+I1
+sVpull
+p205
+I1
+sVb
+I4
+sVguru
+p206
+I1
+sVride
+p207
+I1
+sVhomey
+p208
+I3
+sVsecond
+p209
+I1
+sVus
+p210
+I1
+sVproject
+p211
+I1
+sVriide
+p212
+I1
+sVlittle
+p213
+I1
+sVniggaa
+p214
+I1
+sVlearn
+p215
+I1
+sVriddance
+p216
+I1
+sVthrew
+p217
+I1
+sVlaughter
+p218
+I2
+sVpeeople
+p219
+I1
+sVnumbers
+p220
+I1
+sVand
+p221
+I1
+sVcrazy
+p222
+I3
+sVvideos
+p223
+I1
+sVwasnt
+p224
+I1
+sVdemo
+p225
+I1
+sVaj
+p226
+I1
+sVrode
+p227
+I1
+sVlife
+p228
+I2
+sVdog
+p229
+I1
+sVdash
+p230
+I1
+sVemory
+p231
+I2
+sVcant
+p232
+I1
+sVcappuccino
+p233
+I1
+sVim
+p234
+I6
+sVdropped
+p235
+I1
+sVmade
+p236
+I1
+sVay
+p237
+I3
+sVreturn
+p238
+I1
+sVcousin
+p239
+I1
+sVmoves
+p240
+I1
+sVfame
+p241
+I1
+sVshit
+p242
+I7
+sVholla
+p243
+I1
+sVdifferent
+p244
+I1
+sVmaybe
+p245
+I1
+sVadvantage
+p246
+I1
+sVuhuh
+p247
+I4
+sVsellin
+p248
+I1
+sVlil
+p249
+I1
+sVthings
+p250
+I2
+sVmake
+p251
+I3
+sVsong
+p252
+I5
+sVhanded
+p253
+I1
+sVerybody
+p254
+I1
+sVtil
+p255
+I1
+sVshawn
+p256
+I1
+sVthat
+p257
+I2
+sVlaughin
+p258
+I1
+sVtake
+p259
+I2
+sVyessir
+p260
+I1
+sVyou
+p261
+I1
+sVsworn
+p262
+I1
+sVtalkin
+p263
+I1
+sVdashes
+p264
+I1
+sVnice
+p265
+I1
+sValbum
+p266
+I1
+sVstaying
+p267
+I1
+sVpain
+p268
+I2
+sVhey
+p269
+I1
+sVopposite
+p270
+I1
+sVdoin
+p271
+I1
+sVknew
+p272
+I1
+sVspot
+p273
+I1
+sVflows
+p274
+I1
+sVstay
+p275
+I4
+sVwrong
+p276
+I1
+sVlay
+p277
+I1
+sVpuff
+p278
+I1
+sVfucked
+p279
+I1
+sVrudy
+p280
+I1
+sVpager
+p281
+I1
+sVwhy
+p282
+I1
+sVpool
+p283
+I1
+sVman
+p284
+I4
+sVrental
+p285
+I1
+sVlenny
+p286
+I1
+sVi
+I2
+sVwhole
+p287
+I3
+sVflop
+p288
+I1
+sVupset
+p289
+I1
+sVhungry
+p290
+I1
+sVtogether
+p291
+I1
+sVst
+p292
+I1
+sVthought
+p293
+I3
+sVgoodbye
+p294
+I1
+sVna
+p295
+I2
+sVcookpot
+p296
+I1
+sVfirst
+p297
+I10
+sVoriginal
+p298
+I1
+sVcame
+p299
+I3
+sVnearly
+p300
+I1
+s.

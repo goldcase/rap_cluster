@@ -1,101 +1,747 @@
-"8 minutes to sunrise" lyrics
-common lyrics
-"8 minutes to sunrise"
-(feat. jill scott)
-yeah, yo, yo, yo-yo, yo, yo
-yo, a touch of jazz y'all, yeah, yeah
-?? y'all, yo they got us on the run, like
-8 minutes to sunrise
-oh baby now, what are we gonna do? (i don't know..)
-pressure is mountin
-oh baby now, how we gonna get through? (i, don't, know)
-can't go left (uh-uh) can't go right (uh-uh)
-don't know, how we made it through the night (c'mon c'mon c'mon)
-7 minutes to sunrise
-oh baby now, what are we gonna do? (do it, do it..)
-it was once said by black thought that +things fall apart+
-knew i shouldn't have been messin with dude's girl from start
-but i pimp from the heart, the art of it made it interestin
-plus me and sister blend before we got intimate
-friend or no friend, my man caught wind
-this chick is payin me, it'll either cost me or cost him
-told her she shoulda lost him (when?) a while ago
-cause dude'll drink a pile of mo' and defile her yo
-i ain't here to start on this  for me to wreck his broad
-you could tell what i thought of this
-nickname was smoke, don't know if that was cause of cigarettes
-(or what?) or guns he tote, he called shots on the deck
-so i wasn't tryin to call his bluff, by his persona
-you could see, he think he tough!
-if that wasn't enough, old girl had his son
-this is wild like the west i'm like jesse on the run, uhh
-6 minutes to sunrise
-oh baby now, what are we gonna do? (i don't know..)
-pressure is mountin
-oh baby now, how we gon' get through? (i, don't, know)
-can't go left and (uh-uh) can't go right and (uh-uh)
-don't know, how we made it through the night (yo, we got..)
-5 minutes to sunrise
-oh baby now, what are we gonna do? (do it, do it..)
-i understand that time is runnin out, i'm thinkin of town-skippin
-got a chevy but the alternator be trippin
-i'm hittin rum straight, thinkin of a route to truncate
-the streets is watchin, out is one way i put myself in his nike's
-his position is, "aight man, somebody bonin my lady"
-probably snap like rod-man
-my plan was to meet at this bar called the tiki (when?)
-'round four, when she was comin she would beep me
-i sat deep in the corner, drinkin zombies, becomin one by now
-wonderin if my style would support her and her child
-out the corner of my eye saw this stud i recognized (who?)
-one of smoke's guys, to stay out of sight i tried
-told jill scott to meet we coulda picked a better spot
-on some "nobody's supposed to be here"  like deborah cox
-looked at my watch,  i don't even got a watch
-felt for my glock, damnit i don't even got a glock, yo
-4 minutes to sunrise
-oh baby now, what are we gonna do? (i don't know..)
-pressure is mountin
-oh baby now, how we gon' get through? (i, don't, know)
-can't go left and (uh-uh) can't go right and (uh-uh)
-don't know, how we made it through the night (c'mon c'mon)
-3 minutes to sunrise
-oh baby now, what are we gonna do? (do it, do it..)
-pressure puh-pressure what? the pressure's cookin
-it ain't good lookin, like a black promoter i'm talkin bookin
-not that i'm spooked of dude, i could whup him
-but he was on the horn informin the rest of them hoodlums (aight)
-usually i wouldn't fight over a woman, old girl had a sun-shine
-was messed up, on smoke's payroll was one-time
-my pager went off, it read one line: "come get me
-from halsted," i'm thinkin this is monkey bar
-went to the phone quick, called her (what happened?) her line was busy
-situation number nine, got my mind dizzy
-wondered if this plan was designed to get me
-i've been drinkin too strong to be thinkin too long
-like 40 goin north i'm doin 50, headed for the spot
-askin god to be with me, and lately
-she has been actin shifty -- (but what?)
-but then it hit me (hit me) it hit me (hit me)
-it hit me (hit me) it hit me
-2 minutes to sunrise
-oh baby now, what are we gonna do? (i don't know..)
-pressure is mountin
-oh baby now, how we gonna get through? (yo -- i said i, don't, know)
-can't go left and (uh-uh) can't go right and (nope)
-don't know, how we made it through the night (yo, we got)
-1 minute to sunrise
-oh baby now, what are we gonna do? (one-one, one.. ha?)
-1 minute.. (we got, we got) one, one
-1 minute.. (ahh shit, we got) one, one
-1 minute.. (what we got girl?) one, one
-1 minute.. (baby, com sense on the run) now, now
-1 minute.. (com sense on the run) one..
-1 minute.. (just got on the run, just got on the run)
-(com sense on the run, com sense on the run)
-(just got on the run, just got on the run)
-(they got us on the run like.. they got us on the run)
-(they got us on the.. yo, they got us on the run)
-(uhh, yo, they got us on the run)
-(they got us on the.. yo, they got us on the run)
-(and we out..)
+(dp1
+Valternator
+p2
+I1
+sVnow
+p3
+I2
+sVlyrics
+p4
+I2
+sVdeck
+p5
+I1
+sVoneone
+p6
+I1
+sVwatchin
+p7
+I1
+sVfelt
+p8
+I1
+sVfour
+p9
+I1
+sVscott
+p10
+I2
+sV40
+p11
+I1
+sVgo
+p12
+I8
+sVcorner
+p13
+I2
+sVrest
+p14
+I1
+sVfeat
+p15
+I1
+sVaint
+p16
+I2
+sVmessed
+p17
+I1
+sVstyle
+p18
+I1
+sVone
+p19
+I12
+sVitll
+p20
+I1
+sVpager
+p21
+I1
+sV3
+I1
+sVstud
+p22
+I1
+sVbetter
+p23
+I1
+sVpile
+p24
+I1
+sV4
+I1
+sVsnap
+p25
+I1
+sV8
+I3
+sVspot
+p26
+I2
+sVhappened
+p27
+I1
+sVme
+p28
+I5
+sVgood
+p29
+I1
+sVsomebody
+p30
+I1
+sVmountin
+p31
+I4
+sVyo
+p32
+I14
+sVget
+p33
+I6
+sVread
+p34
+I1
+sVjazz
+p35
+I1
+sVwatch
+p36
+I2
+sVpersona
+p37
+I1
+sVknow
+p38
+I13
+sVdudell
+p39
+I1
+sVfall
+p40
+I1
+sVdamnit
+p41
+I1
+sVson
+p42
+I1
+sVlady
+p43
+I1
+sVhim
+p44
+I2
+sVminute
+p45
+I7
+sVapart
+p46
+I1
+sVtrippin
+p47
+I1
+sVshifty
+p48
+I1
+sVbar
+p49
+I2
+sVlike
+p50
+I8
+sVpimp
+p51
+I1
+sVnope
+p52
+I1
+sV50
+p53
+I1
+sVbecomin
+p54
+I1
+sVtiki
+p55
+I1
+sVeither
+p56
+I1
+sVshots
+p57
+I1
+sVnight
+p58
+I4
+sVquick
+p59
+I1
+sVchick
+p60
+I1
+sVwent
+p61
+I2
+sVtold
+p62
+I2
+sVout
+p63
+I1
+sVstraight
+p64
+I1
+sVyall
+p65
+I2
+sVactin
+p66
+I1
+sVheaded
+p67
+I1
+sVinformin
+p68
+I1
+sVright
+p69
+I4
+sVart
+p70
+I1
+sVbonin
+p71
+I1
+sVstreets
+p72
+I1
+sVyeah
+p73
+I3
+sVhorn
+p74
+I1
+sVtouch
+p75
+I1
+sVsee
+p76
+I1
+sVcost
+p77
+I2
+sVus
+p78
+I8
+sVsight
+p79
+I1
+sVgirl
+p80
+I4
+sVuhuh
+p81
+I7
+sVsunrise
+p82
+I10
+sVtried
+p83
+I1
+sVeven
+p84
+I2
+sVwhat
+p85
+I1
+sVgon
+p86
+I12
+sVtote
+p87
+I1
+sVwreck
+p88
+I1
+sVbroad
+p89
+I1
+sVrum
+p90
+I1
+sVpressures
+p91
+I1
+sVenough
+p92
+I1
+sV7
+I1
+sVgot
+p93
+I23
+sVcause
+p94
+I2
+sVguns
+p95
+I1
+sVdeborah
+p96
+I1
+sVcommon
+p97
+I1
+sVdrinkin
+p98
+I2
+sVknew
+p99
+I1
+sVrun
+p100
+I15
+sVhittin
+p101
+I1
+sVgod
+p102
+I1
+sVintimate
+p103
+I1
+sVcoulda
+p104
+I1
+sVbookin
+p105
+I1
+sVonetime
+p106
+I1
+sVpressure
+p107
+I5
+sVjill
+p108
+I2
+sVsituation
+p109
+I1
+sVput
+p110
+I1
+sVstrong
+p111
+I1
+sVcome
+p112
+I1
+sVinterestin
+p113
+I1
+sVcookin
+p114
+I1
+sVsister
+p115
+I1
+sVwould
+p116
+I2
+sVwouldnt
+p117
+I1
+sVoh
+p118
+I12
+sVcox
+p119
+I1
+sVcould
+p120
+I3
+sVrecognized
+p121
+I1
+sVround
+p122
+I1
+sVchevy
+p123
+I1
+sVplus
+p124
+I1
+sVsmoke
+p125
+I1
+sVsupposed
+p126
+I1
+sVusually
+p127
+I1
+sVcom
+p128
+I4
+sVthink
+p129
+I1
+sVplan
+p130
+I2
+sVlookin
+p131
+I1
+sVtough
+p132
+I1
+sVdont
+p133
+I15
+sVdefile
+p134
+I1
+sVahh
+p135
+I1
+sVnumber
+p136
+I1
+sVdudes
+p137
+I1
+sVmessin
+p138
+I1
+sVcomin
+p139
+I1
+sVold
+p140
+I2
+sVfight
+p141
+I1
+sVpromoter
+p142
+I1
+sVeye
+p143
+I1
+sVmonkey
+p144
+I1
+sVnikes
+p145
+I1
+sVwest
+p146
+I1
+sVcaught
+p147
+I1
+sVsupport
+p148
+I1
+sVdude
+p149
+I1
+sVlong
+p150
+I1
+sVshoulda
+p151
+I1
+sVbeep
+p152
+I1
+sVstart
+p153
+I2
+sV2
+I1
+sVcall
+p154
+I1
+sVway
+p155
+I1
+sV6
+I1
+sVblack
+p156
+I2
+sVtryin
+p157
+I1
+sVtell
+p158
+I1
+sVfriend
+p159
+I2
+sVrodman
+p160
+I1
+sVnorth
+p161
+I1
+sVroute
+p162
+I1
+sVdesigned
+p163
+I1
+sVsunshine
+p164
+I1
+sVaskin
+p165
+I1
+sVyoyo
+p166
+I1
+sVphone
+p167
+I1
+sVnobodys
+p168
+I1
+sVunderstand
+p169
+I1
+sVchild
+p170
+I1
+sVbaby
+p171
+I13
+sVprobably
+p172
+I1
+sVline
+p173
+I2
+sVha
+p174
+I1
+sVrunnin
+p175
+I1
+sVwoman
+p176
+I1
+sVmade
+p177
+I5
+sVhalsted
+p178
+I1
+sVmo
+p179
+I1
+sVpayin
+p180
+I1
+sVdizzy
+p181
+I1
+sVnine
+p182
+I1
+sVtime
+p183
+I1
+sVwild
+p184
+I1
+sVmeet
+p185
+I2
+sVminutes
+p186
+I9
+sVcalled
+p187
+I3
+sVheart
+p188
+I1
+sVwhup
+p189
+I1
+sVcmon
+p190
+I5
+sVpicked
+p191
+I1
+sVwasnt
+p192
+I2
+sVmind
+p193
+I1
+sVit
+p194
+I3
+sVdeep
+p195
+I1
+sVive
+p196
+I1
+sVcant
+p197
+I8
+sVglock
+p198
+I2
+sVim
+p199
+I7
+sVsense
+p200
+I4
+sVhit
+p201
+I7
+sVspooked
+p202
+I1
+sVsaw
+p203
+I1
+sVpuhpressure
+p204
+I1
+sVshit
+p205
+I1
+sVjesse
+p206
+I1
+sVlooked
+p207
+I1
+sVbusy
+p208
+I1
+sVthings
+p209
+I1
+sVthinkin
+p210
+I4
+sVwhen
+p211
+I1
+sVwho
+p212
+I1
+sVlately
+p213
+I1
+sV1
+I7
+sV5
+I1
+sVpayroll
+p214
+I1
+sVgoin
+p215
+I1
+sVsat
+p216
+I1
+sVtalkin
+p217
+I1
+sVguys
+p218
+I1
+sVwonderin
+p219
+I1
+sVshouldnt
+p220
+I1
+sVtownskippin
+p221
+I1
+sVtruncate
+p222
+I1
+sVhoodlums
+p223
+I1
+sVdoin
+p224
+I1
+sVdrink
+p225
+I1
+sVzombies
+p226
+I1
+sVstay
+p227
+I1
+sVsaid
+p228
+I2
+sVuhh
+p229
+I2
+sVbluff
+p230
+I1
+sVnickname
+p231
+I1
+sVman
+p232
+I2
+sVago
+p233
+I1
+sVaight
+p234
+I2
+sVwondered
+p235
+I1
+sVsmokes
+p236
+I2
+sVlost
+p237
+I1
+sVthought
+p238
+I2
+sVcigarettes
+p239
+I1
+sVna
+p240
+I10
+sVposition
+p241
+I1
+sVblend
+p242
+I1
+sVwind
+p243
+I1
+sVleft
+p244
+I4
+s.

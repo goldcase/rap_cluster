@@ -1,46 +1,423 @@
-"swishas & erb" lyrics
-ugk lyrics
-"swishas & erb"
-(feat. sleepy brown)
-don't wanna be disturbed, i got my swishas & erb
-don't wanna be disturbed, i got my swishas & erb
-sippin' lean, smokin' on some pine
-girl i'm pimpin', got money on my mind
-game is crazy, niggaz lazy, i got heavy fire
-?? put one on it bitch, it's still five for sure, for sure
-don't wanna be disturbed, i got my swishas & erb
-don't wanna be disturbed, i got my swishas & erb
-you know bun b the business street soulja in the trenches
-frontline comin' down on twenty four inches
-dope boys hangin' on the corners and the benches
-sayin' it's a drout so it's plenty of heat pinches
-boy, used to come up from the rags to the riches
-plush lifestyle with the bad ass bitches
-but now it's like the game is full of nothin' but some snitches
-and wanna be gangsters that's scared to put 'em in ditches
-fed's takin' pictures so the cameras go click
-and video rollin' while i'm holdin' my dick
-they follow me around like they doin' they job
-but while you watchin' me how many people gettin' robbed
-let's keep it trill 'cause we already know
-what it already is and how it already go
-that's why we chop blades comin' down real slow
-pop trunks, swang, riders slam cadillac door
-pass the swisha let's blow
-don't wanna be disturbed, i got my swishas & erb
-don't wanna be disturbed, i got my swishas & erb
-before we get started, every body roll up one for pimp c
-before we go any further, take your lighter, light it up for me
-now let's go, now let's go and all the girls get down on the floor
-throw your money in the air and let 'em know
-throw your money in the air and let 'em know
-i'm whippin' big wheels, whippin' big wheels
-hope your drink don't spill whippin' big wheels
-tell me how you feel, tell me how you feel
-?? lady on my side, hey
-and if you all down for me
-put your hands in the air raise 'em up for pimp c
-and if you all down with me
-put your hands in the air raise 'em up for pimp c
-don't wanna be disturbed, i got my swishas & erb
-don't wanna be disturbed, i got my swishas & erb
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I3
+sVsleepy
+p5
+I1
+sVfour
+p6
+I1
+sVsoulja
+p7
+I1
+sVgo
+p8
+I5
+sVfollow
+p9
+I1
+sVstill
+p10
+I1
+sVfeat
+p11
+I1
+sVblow
+p12
+I1
+sVslow
+p13
+I1
+sVsayin
+p14
+I1
+sVdick
+p15
+I1
+sVswang
+p16
+I1
+sVlets
+p17
+I4
+sVsure
+p18
+I2
+sVreal
+p19
+I1
+sVbrown
+p20
+I1
+sVaround
+p21
+I1
+sVget
+p22
+I2
+sVbig
+p23
+I3
+sVdope
+p24
+I1
+sVgame
+p25
+I2
+sVfive
+p26
+I1
+sVknow
+p27
+I4
+sVlighter
+p28
+I1
+sVhands
+p29
+I2
+sVlady
+p30
+I1
+sVlike
+p31
+I2
+sVpimp
+p32
+I3
+sVcorners
+p33
+I1
+sVgettin
+p34
+I1
+sVgangsters
+p35
+I1
+sVbad
+p36
+I1
+sVholdin
+p37
+I1
+sVside
+p38
+I1
+sVheavy
+p39
+I1
+sVbody
+p40
+I1
+sVtrunks
+p41
+I1
+sVpeople
+p42
+I1
+sVscared
+p43
+I1
+sVstarted
+p44
+I1
+sVstreet
+p45
+I1
+sVvideo
+p46
+I1
+sVpass
+p47
+I1
+sVgirl
+p48
+I1
+sVclick
+p49
+I1
+sVfrontline
+p50
+I1
+sVpictures
+p51
+I1
+sVcameras
+p52
+I1
+sVlean
+p53
+I1
+sVgot
+p54
+I10
+sVcause
+p55
+I1
+sVplush
+p56
+I1
+sVwatchin
+p57
+I1
+sVass
+p58
+I1
+sVlazy
+p59
+I1
+sVfull
+p60
+I1
+sVbusiness
+p61
+I1
+sVswishas
+p62
+I10
+sVjob
+p63
+I1
+sVlet
+p64
+I2
+sVsmokin
+p65
+I1
+sVpinches
+p66
+I1
+sVput
+p67
+I4
+sVcome
+p68
+I1
+sVthrow
+p69
+I2
+sVboy
+p70
+I1
+sVc
+I3
+sVlifestyle
+p71
+I1
+sVbenches
+p72
+I1
+sVspill
+p73
+I1
+sVmany
+p74
+I1
+sVkeep
+p75
+I1
+sVchop
+p76
+I1
+sVdisturbed
+p77
+I8
+sVtakin
+p78
+I1
+sVthats
+p79
+I2
+sVem
+p80
+I5
+sValready
+p81
+I3
+sVdont
+p82
+I9
+sVfeel
+p83
+I2
+sVpop
+p84
+I1
+sVone
+p85
+I2
+sVbitch
+p86
+I1
+sVcomin
+p87
+I2
+sVwan
+p88
+I9
+sVraise
+p89
+I2
+sVtwenty
+p90
+I1
+sVgirls
+p91
+I1
+sVhey
+p92
+I1
+sVtrenches
+p93
+I1
+sVtell
+p94
+I2
+sVdoor
+p95
+I1
+sVpimpin
+p96
+I1
+sVinches
+p97
+I1
+sVfire
+p98
+I1
+sVbitches
+p99
+I1
+sVboys
+p100
+I1
+sVheat
+p101
+I1
+sVbun
+p102
+I1
+sVswisha
+p103
+I1
+sVriders
+p104
+I1
+sVme
+p105
+I3
+sVb
+I1
+sVriches
+p106
+I1
+sVniggaz
+p107
+I1
+sVair
+p108
+I4
+sVrags
+p109
+I1
+sVhope
+p110
+I1
+sVerb
+p111
+I10
+sVsnitches
+p112
+I1
+sVcrazy
+p113
+I1
+sVditches
+p114
+I1
+sVmind
+p115
+I1
+sVslam
+p116
+I1
+sVim
+p117
+I3
+sVrollin
+p118
+I1
+sVsippin
+p119
+I1
+sVtrill
+p120
+I1
+sVfloor
+p121
+I1
+sVna
+p122
+I9
+sVpine
+p123
+I1
+sVrobbed
+p124
+I1
+sVtake
+p125
+I1
+sVhangin
+p126
+I1
+sVroll
+p127
+I1
+sVblades
+p128
+I1
+sVused
+p129
+I1
+sVcadillac
+p130
+I1
+sVdoin
+p131
+I1
+sVdrink
+p132
+I1
+sVdrout
+p133
+I1
+sVwhippin
+p134
+I3
+sVfeds
+p135
+I1
+sVplenty
+p136
+I1
+sVwheels
+p137
+I3
+sVlight
+p138
+I1
+sVnothin
+p139
+I1
+sVevery
+p140
+I1
+s.

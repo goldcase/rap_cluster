@@ -1,127 +1,652 @@
-"wonder why they call u" lyrics
-2pac lyrics
-"wonder why they call u"
-you wonda why they call u bitch
-you wonda why they call u bitch.
-you wonda why they call u bitch
-you wonda why they call u bitch.
-you wonda why they call u bitch
-you wonda why they call u bitch.
-look here miss thang
-hate to salt your game
-but yous a money hungry woman
-and you need to change.
-in tha locker room
-all the homies do is laugh.
-high five's cuz anotha nigga
-played your ass.
-it was said you were sleeezy
-even easy
-sleepin around for what
-you need
-see it's your thang
-and you can shake it how you wanna.
-give it up free
-or make your money on the corner.
-but don't be bad and play the game
-get mad and change.
-then you wonda why these muthafuckas
-call you names.
-still lookin' for a way out
-and that's ok
-i can see you wanna stray
-there's a way out.
-keep your mind on your money,
-enroll in school.
-and as the years pass by
-you can show them fools.
-but you ain't tryin' to hear me
-cuz your stuck,
-you're headin' for the bathroom
-'bout to get tossed up.
-still lookin' for a rich man
-you dug a ditch,
-got your legs up
-tryin' to get rich.
-i love you like a sista
-but you need to switch
-and that's why they called
-u bitch, i betcha.
-you leave your kids with your mama
-cuz your headin' for the club
-in a skin tight miniskirt
-lookin' for some love.
-got them legs wide open
-while you're sittin' at the bar
-talkin' to some nigga
-'bout his car.
-i guess he said he
-had a lexxxus, what's next?
-you headin' to his car for some sex
-i pass by
-can't hold back tears inside
-cuz, lord knows
-for years i tried.
-and all the other people
-on my block hate your guts
-then you wonda why they stare
-and call you slut.
-it's like your mind don't understand
-you don't have to kill your
-dreams ploten'
-schemes on a man
-keep your head up, legs closed, eyes open
-either a nigga wear a rubber or he die smokin'
-i'm hearin' rumors so you need to switch
-and niggas wouldn't call you bitch, i betcha.
-i guess times gettin' hard
-even harder for you
-cuz, hey now, got a baby
-on the way now
-more money from the county
-and thanks to the welfare
-you're about to
-get your hair done.
-got a dinner date
-can't be late
-trick or treat, sweet thang
-got anotha trick to meet.
-the way he did it
-it was smooth
-plottin' while he gamin' you
-so baby, peep tha rules.
-i shoulda seen it in the first case
-the worst case
-i shoulda never called you back
-in the first place.
-i remember back in high school
-baby you was fast
-straight sex
-and barely move your ass.
-but now things change
-cuz you don't look the same
-let the ghetto get the best of you
-baby, that's a shame
-caught hiv and now you 'bout to be deceased
-and finally be in peace.
-so where your niggas at now
-cuz everybody left
-they stepped
-and left you on your own
-see i loved you like a sista
-but you died to quick
-and that's why we called u bitch, i betcha.
-dear ms. deloris tucker
-keep stressen me
-fuckin' with a muthafucken mind
-i figured you wanted to know
-you know
-why we call them hos bitches
-and maybe this might help you understand
-it ain't personal
-strictly business baby
-strictly business
-so if you wonder why we call u bitch
-you wonder why we call u bitch
-if you wonder why we call u bitch
-you wonder why we call u bitch
+(dp1
+Vlexxxus
+p2
+I1
+sVsmokin
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVmoney
+p7
+I4
+sVmove
+p8
+I1
+sVyears
+p9
+I2
+sVkill
+p10
+I1
+sVthanks
+p11
+I1
+sVshake
+p12
+I1
+sVcorner
+p13
+I1
+sVstill
+p14
+I2
+sVhate
+p15
+I2
+sVaint
+p16
+I2
+sVwear
+p17
+I1
+sVhold
+p18
+I1
+sVpersonal
+p19
+I1
+sVthang
+p20
+I3
+sVguts
+p21
+I1
+sVcuz
+p22
+I7
+sVlate
+p23
+I1
+sVto
+p24
+I1
+sVtears
+p25
+I1
+sVeasy
+p26
+I1
+sVhomies
+p27
+I1
+sVwonda
+p28
+I8
+sVlord
+p29
+I1
+sVbout
+p30
+I3
+sVghetto
+p31
+I1
+sVmight
+p32
+I1
+sVstepped
+p33
+I1
+sVcase
+p34
+I2
+sVwoman
+p35
+I1
+sVaround
+p36
+I1
+sVhiv
+p37
+I1
+sVget
+p38
+I5
+sVrules
+p39
+I1
+sVsittin
+p40
+I1
+sVtucker
+p41
+I1
+sVnext
+p42
+I1
+sVgame
+p43
+I2
+sVhearin
+p44
+I1
+sVworst
+p45
+I1
+sVknow
+p46
+I2
+sVnow
+p47
+I2
+sVyou
+p48
+I3
+sVdreams
+p49
+I1
+sVroom
+p50
+I1
+sVschool
+p51
+I2
+sVanotha
+p52
+I2
+sVbar
+p53
+I1
+sVlike
+p54
+I3
+sVdie
+p55
+I1
+sVgettin
+p56
+I1
+sVmuthafuckas
+p57
+I1
+sVleave
+p58
+I1
+sVbad
+p59
+I1
+sVdeloris
+p60
+I1
+sVeither
+p61
+I1
+sVquick
+p62
+I1
+sVshoulda
+p63
+I2
+sVstraight
+p64
+I1
+sVnames
+p65
+I1
+sVnigga
+p66
+I3
+sVfives
+p67
+I1
+sVpeople
+p68
+I1
+sVsmooth
+p69
+I1
+sVskin
+p70
+I1
+sVback
+p71
+I3
+sVsex
+p72
+I2
+sVhair
+p73
+I1
+sVsee
+p74
+I3
+sVheadin
+p75
+I3
+sVdear
+p76
+I1
+sVbest
+p77
+I1
+sVwonder
+p78
+I6
+sVeven
+p79
+I2
+sVsaid
+p80
+I2
+sVsleepin
+p81
+I1
+sVmiss
+p82
+I1
+sVfinally
+p83
+I1
+sVploten
+p84
+I1
+sVloved
+p85
+I1
+sVsista
+p86
+I2
+sVwelfare
+p87
+I1
+sVwhats
+p88
+I1
+sVgot
+p89
+I5
+sVass
+p90
+I2
+sVeverybody
+p91
+I1
+sVbusiness
+p92
+I2
+sVnever
+p93
+I1
+sVguess
+p94
+I2
+sVfree
+p95
+I1
+sVlet
+p96
+I1
+sVslut
+p97
+I1
+sVpeep
+p98
+I1
+sVwanted
+p99
+I1
+sVby
+p100
+I1
+sVchange
+p101
+I3
+sVenroll
+p102
+I1
+sVkids
+p103
+I1
+sVok
+p104
+I1
+sVwouldnt
+p105
+I1
+sVbarely
+p106
+I1
+sVkeep
+p107
+I3
+sVdinner
+p108
+I1
+sVplace
+p109
+I1
+sVlookin
+p110
+I3
+sVstressen
+p111
+I1
+sVblock
+p112
+I1
+sVthats
+p113
+I4
+sVown
+p114
+I1
+sVlove
+p115
+I2
+sVdont
+p116
+I4
+sVstray
+p117
+I1
+sVsweet
+p118
+I1
+sVcounty
+p119
+I1
+sVschemes
+p120
+I1
+sVdone
+p121
+I1
+sVbitch
+p122
+I13
+sVlaugh
+p123
+I1
+sVstrictly
+p124
+I2
+sVditch
+p125
+I1
+sVyous
+p126
+I1
+sVyour
+p127
+I1
+sVstare
+p128
+I1
+sVwan
+p129
+I2
+sVbathroom
+p130
+I1
+sVcaught
+p131
+I1
+sVgive
+p132
+I1
+sVhey
+p133
+I1
+sVfast
+p134
+I1
+sVdug
+p135
+I1
+sVstuck
+p136
+I1
+sVcall
+p137
+I16
+sVtreat
+p138
+I1
+sVway
+p139
+I4
+sVmama
+p140
+I1
+sVlegs
+p141
+I3
+sVclosed
+p142
+I1
+sVhead
+p143
+I1
+sVhard
+p144
+I1
+sVrich
+p145
+I2
+sVclub
+p146
+I1
+sVbitches
+p147
+I1
+sVit
+p148
+I1
+sVfigured
+p149
+I1
+sVhear
+p150
+I1
+sVbaby
+p151
+I5
+sVbetcha
+p152
+I3
+sV2pac
+p153
+I1
+sVremember
+p154
+I1
+sVme
+p155
+I2
+sVwide
+p156
+I1
+sVtryin
+p157
+I2
+sVtossed
+p158
+I1
+sVlook
+p159
+I2
+sVniggas
+p160
+I2
+sVcar
+p161
+I2
+sVinside
+p162
+I1
+sVharder
+p163
+I1
+sVup
+p164
+I2
+sVtrick
+p165
+I2
+sVlocker
+p166
+I1
+sVms
+p167
+I1
+sVmeet
+p168
+I1
+sVcalled
+p169
+I3
+sVdeceased
+p170
+I1
+sVtheres
+p171
+I1
+sVplayed
+p172
+I1
+sVpass
+p173
+I2
+sVmind
+p174
+I3
+sVeyes
+p175
+I1
+sVhigh
+p176
+I2
+sVshame
+p177
+I1
+sVcant
+p178
+I2
+sVim
+p179
+I1
+sVneed
+p180
+I4
+sVseen
+p181
+I1
+sVtimes
+p182
+I1
+sVsleeezy
+p183
+I1
+sVknows
+p184
+I1
+sVrumors
+p185
+I1
+sVopen
+p186
+I2
+sVna
+p187
+I2
+sVmake
+p188
+I1
+sVpeace
+p189
+I1
+sVsame
+p190
+I1
+sVrubber
+p191
+I1
+sVtight
+p192
+I1
+sVhos
+p193
+I1
+sVminiskirt
+p194
+I1
+sVfools
+p195
+I1
+sVout
+p196
+I2
+sVtalkin
+p197
+I1
+sVplottin
+p198
+I1
+sVplay
+p199
+I1
+sVtried
+p200
+I1
+sVmad
+p201
+I1
+sVdate
+p202
+I1
+sVmuthafucken
+p203
+I1
+sVdied
+p204
+I1
+sVman
+p205
+I2
+sVgamin
+p206
+I1
+sVmaybe
+p207
+I1
+sVyoure
+p208
+I3
+sVhungry
+p209
+I1
+sVswitch
+p210
+I2
+sVu
+I14
+sVfuckin
+p211
+I1
+sVthings
+p212
+I1
+sVunderstand
+p213
+I2
+sVfirst
+p214
+I2
+sVsalt
+p215
+I1
+sVtha
+p216
+I2
+sVleft
+p217
+I2
+s.

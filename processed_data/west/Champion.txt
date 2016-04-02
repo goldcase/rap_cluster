@@ -1,55 +1,398 @@
-champion lyrics
-kanye west lyrics
-champion
-realize
-champion
-eyes
-yes packed brought back crib
-little somethin show live
-everybody want aint serious
-thats shit
-youre gonna like this
-realize
-champion
-eyes
-dont see wild crowd is
-dont see fly style is
-dont see need stylist
-shop much speak italian
-dont know wanted better kids
-aint sayin projects
-everytime want layaway deposit
-dadll say see clothes close eyelids
-sort like smith son
-movie aint talkin bout rich ones
-cause every summer hell get some
-brand new harebrained scheme get rich from
-dont know dough
-hed sent back school new wardrobe hey
-feel like livings harder dyin
-givin ups way harder tryin
-lauryn hill say heart zion
-wish heart still rhymin
-cause kids gonna listen huh
-guess isnt you
-last week paid visit institute
-got drop keepin kids school
-guess ill clean act like princell do
-pleasure least principle
-got cd got see drop gems
-like dropped pe
-used feel invisible
-know invincible
-realize
-champion
-eyes
-story champion
-rounders mob pop guns
-stand stand comes
-tell takes number one
-tell takes number one
-story champion
-rounders mob pop guns
-stand stand comes
-tell takes number one
-tell takes number one
+(dp1
+Vshop
+p2
+I1
+sVsummer
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVlayaway
+p6
+I1
+sVisnt
+p7
+I1
+sVdough
+p8
+I1
+sVkanye
+p9
+I1
+sVyes
+p10
+I1
+sVstill
+p11
+I1
+sVaint
+p12
+I3
+sVstyle
+p13
+I1
+sVone
+p14
+I4
+sVgivin
+p15
+I1
+sVsmith
+p16
+I1
+sVbetter
+p17
+I1
+sVrich
+p18
+I2
+sVbout
+p19
+I1
+sVsent
+p20
+I1
+sVdo
+p21
+I1
+sVzion
+p22
+I1
+sVget
+p23
+I2
+sVones
+p24
+I1
+sVevery
+p25
+I1
+sVknow
+p26
+I3
+sVgot
+p27
+I3
+sVmob
+p28
+I2
+sVlauryn
+p29
+I1
+sVrealize
+p30
+I3
+sVprojects
+p31
+I1
+sVlike
+p32
+I5
+sVschool
+p33
+I2
+sVstylist
+p34
+I1
+sVeverytime
+p35
+I1
+sVrhymin
+p36
+I1
+sVeyelids
+p37
+I1
+sVharebrained
+p38
+I1
+sVinvincible
+p39
+I1
+sVups
+p40
+I1
+sVclothes
+p41
+I1
+sVdrop
+p42
+I2
+sVdadll
+p43
+I1
+sVsome
+p44
+I1
+sVback
+p45
+I2
+sVsee
+p46
+I5
+sVhell
+p47
+I1
+sVclose
+p48
+I1
+sVpacked
+p49
+I1
+sVgon
+p50
+I2
+sVmovie
+p51
+I1
+sVcd
+p52
+I1
+sVhill
+p53
+I1
+sVnew
+p54
+I2
+sVcause
+p55
+I2
+sVguns
+p56
+I2
+sVgems
+p57
+I1
+sVguess
+p58
+I2
+sVinvisible
+p59
+I1
+sVwanted
+p60
+I1
+sVsayin
+p61
+I1
+sVkids
+p62
+I3
+sVlast
+p63
+I1
+sVdyin
+p64
+I1
+sVill
+p65
+I1
+sVstand
+p66
+I4
+sVact
+p67
+I1
+sVitalian
+p68
+I1
+sVcomes
+p69
+I2
+sVthats
+p70
+I1
+sVrounders
+p71
+I2
+sVdont
+p72
+I5
+sVfeel
+p73
+I2
+sVnumber
+p74
+I4
+sVcrib
+p75
+I1
+sVson
+p76
+I1
+sVbrought
+p77
+I1
+sVpop
+p78
+I2
+sVspeak
+p79
+I1
+sVeverybody
+p80
+I1
+sVlittle
+p81
+I1
+sVfrom
+p82
+I1
+sVcrowd
+p83
+I1
+sVwest
+p84
+I1
+sVvisit
+p85
+I1
+sVhey
+p86
+I1
+sVleast
+p87
+I1
+sVhed
+p88
+I1
+sVlive
+p89
+I1
+sVmuch
+p90
+I1
+sVway
+p91
+I1
+sVpe
+p92
+I1
+sVscheme
+p93
+I1
+sVtell
+p94
+I4
+sVlisten
+p95
+I1
+sVsort
+p96
+I1
+sVeyes
+p97
+I3
+sVchampion
+p98
+I7
+sVbrand
+p99
+I1
+sVhuh
+p100
+I1
+sVwardrobe
+p101
+I1
+sVfly
+p102
+I1
+sVtryin
+p103
+I1
+sVthis
+p104
+I1
+sVwish
+p105
+I1
+sVharder
+p106
+I2
+sVinstitute
+p107
+I1
+sVwild
+p108
+I1
+sVheart
+p109
+I2
+sVis
+p110
+I2
+sVsay
+p111
+I2
+sVdropped
+p112
+I1
+sVwant
+p113
+I2
+sVneed
+p114
+I1
+sVstory
+p115
+I2
+sVshit
+p116
+I1
+sVna
+p117
+I2
+sVyou
+p118
+I1
+sVtalkin
+p119
+I1
+sVprinciple
+p120
+I1
+sVweek
+p121
+I1
+sVlivings
+p122
+I1
+sVused
+p123
+I1
+sVpaid
+p124
+I1
+sVkeepin
+p125
+I1
+sVprincell
+p126
+I1
+sVpleasure
+p127
+I1
+sVsomethin
+p128
+I1
+sVtakes
+p129
+I4
+sVyoure
+p130
+I1
+sVdeposit
+p131
+I1
+sVclean
+p132
+I1
+sVserious
+p133
+I1
+s.

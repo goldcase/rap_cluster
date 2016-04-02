@@ -1,33 +1,275 @@
-"everywhere" lyrics
-common lyrics
-"everywhere"
-how did you know i been waiting for this time to come
-and though it tastes like for ever it may not stay long…
-everywhere it’s summer
-a shaman since before my birth
-and i came down to rock the earth
-my mission condition:
-i give you, you listen
-im syncing in time in parallel
-in binary, no 3rd return
-im planning intention
-with love the redemption
-no pop, no pop, no pop, no pop
-we gon do this thang till the sky just drop
-lock into you mind away we rock
-in a rocket is the 87th astronaut
-top of the soul, dove and i got in a hole
-at the moment they were sayin
-it was outa control
-strap into your mind
-why eyes see some recline
-you’ll see in time your season to shine
-when the stadium is dark
-mc’s are defined
-get ready, on your mark, put your feet on the line
-the race is on, to space beyond
-you gon get there by doin what you want
-sometimes the most famous feel all alone
-so we trip to a place that we call our home
-i was known as being spaced and outa my dome
-now i know, it all i’ve known
+(dp1
+Vsummer
+p2
+I1
+sVspaced
+p3
+I1
+sVlyrics
+p4
+I2
+sVmission
+p5
+I1
+sVplanning
+p6
+I1
+sVearth
+p7
+I1
+sVhole
+p8
+I1
+sVrocket
+p9
+I1
+sVthang
+p10
+I1
+sVit\u2019s
+p11
+I1
+sVsky
+p12
+I1
+sVreturn
+p13
+I1
+sVget
+p14
+I2
+sVdark
+p15
+I1
+sVfamous
+p16
+I1
+sVknow
+p17
+I2
+sVbirth
+p18
+I1
+sVcondition
+p19
+I1
+sVlike
+p20
+I1
+sVdrop
+p21
+I1
+sVrace
+p22
+I1
+sVcommon
+p23
+I1
+sVrock
+p24
+I2
+sVi\u2019ve
+p25
+I1
+sVsee
+p26
+I2
+sVhome
+p27
+I1
+sVbeyond
+p28
+I1
+sVgon
+p29
+I2
+sV3rd
+p30
+I1
+sVspace
+p31
+I1
+sVmc\u2019s
+p32
+I1
+sVaway
+p33
+I1
+sVsince
+p34
+I1
+sVouta
+p35
+I2
+sVwaiting
+p36
+I1
+sVgot
+p37
+I1
+sVever
+p38
+I1
+sVyou\u2019ll
+p39
+I1
+sVdome
+p40
+I1
+sVput
+p41
+I1
+sVcome
+p42
+I1
+sVsayin
+p43
+I1
+sVshine
+p44
+I1
+sVredemption
+p45
+I1
+sVplace
+p46
+I1
+sVlove
+p47
+I1
+sVfeel
+p48
+I1
+sVlong\u2026
+p49
+I1
+sVpop
+p50
+I4
+sVstrap
+p51
+I1
+sVfeet
+p52
+I1
+sVshaman
+p53
+I1
+sVintention
+p54
+I1
+sVtop
+p55
+I1
+sVmark
+p56
+I1
+sVdefined
+p57
+I1
+sVcall
+p58
+I1
+sVstadium
+p59
+I1
+sVlisten
+p60
+I1
+sVeyes
+p61
+I1
+sVseason
+p62
+I1
+sVeverywhere
+p63
+I3
+sVknown
+p64
+I2
+sVline
+p65
+I1
+sVsoul
+p66
+I1
+sVcontrol
+p67
+I1
+sVgive
+p68
+I1
+sVsyncing
+p69
+I1
+sVlock
+p70
+I1
+sVmind
+p71
+I2
+sVtastes
+p72
+I1
+sVim
+p73
+I2
+sVwant
+p74
+I1
+sV87th
+p75
+I1
+sVready
+p76
+I1
+sValone
+p77
+I1
+sVtrip
+p78
+I1
+sVbinary
+p79
+I1
+sVtill
+p80
+I1
+sVastronaut
+p81
+I1
+sVthough
+p82
+I1
+sVmay
+p83
+I1
+sVdoin
+p84
+I1
+sVrecline
+p85
+I1
+sVstay
+p86
+I1
+sVmoment
+p87
+I1
+sVdove
+p88
+I1
+sVparallel
+p89
+I1
+sVsometimes
+p90
+I1
+sVtime
+p91
+I3
+sVcame
+p92
+I1
+s.

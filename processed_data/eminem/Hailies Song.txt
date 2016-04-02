@@ -1,80 +1,683 @@
-"hailie's song" lyrics
-eminem lyrics
-"hailie's song"
-yo, i can't sing but
-i feel like singin'
-i wanna fuckin' sing
-'cause i'm happy
-yeah, i'm happy
-ha ha
-i got my baby back
-yo, check it out
-some days i sit starin' out the window
-watchin' this world pass me by
-sometimes i think there's nothin' to live for
-i almost break down and cry
-sometimes i think i'm crazy
-i'm crazy, oh, so crazy
-why am i here, am i just wasting my time?
-but when i see my baby
-suddenly i'm not crazy
-it all makes sense when i look into her eyes
-sometimes it feels like the world's on my shoulders
-everyone's leanin' on me
-'cause sometimes it feels like the world's almost over
-but then she comes back to me
-my baby girl  keeps gettin' older
-i watch her grow up with pride
-people make jokes 'cause they don't understand me
-they just don't see my real side
-i act like shit don't phase me,
-inside it drives me crazy
-my insecurities could eat me alive
-but when i see my baby
-suddenly i'm not crazy
-it all makes sense when i look into her eyes, oh, no.
-man, if i could sing, i'd keep singing this song to my daughter
-if i could hit the notes, i'd blow something as long as my father
-to show her how i feel about her, how proud i am that i got her
-god, i'm a daddy, i'm so glad that her mum didn't abort
-now you probably get this picture from my public persona
-that i'm a pistol-packing drug-addict who bags on his momma,
-but i wanna just take this time out to be perfectly honest
-'cause there's a lot of shit i keep bottled that hurts deep inside o' my soul,
-and just know that i grow colder the older i grow
-this boulder on my shoulder gets heavy and harder to hold
-and this load is like the weight of the world
-and i think my neck is breaking.
-should i just give up or try to live up to these expectations?
-now look, i love my daughter more than life in itself,
-but i got a wife that's determined to make my life livin' hell
-but i handle it well, given the circumstances i'm dealt
-so many chances, man, it's too bad, could've had someone else
-but the years that i've wasted are nothing to the tears that i've tasted
-so here's what i'm facin':
-3 felonies, 6 years of probation
-i've went to jail for this woman,
-i've been to bat for this woman
-i've taken bats to people's backs, bent over backwards for this woman
-man, i should've seen it comin', what'd i stick my penis up in?
-would've ripped the pre-nup up if i'd seen what she was fuckin'
-but fuck it, it's over, there's no more reason to cry no more
-i got my baby, baby the only lady that i adore, hailie
-so sayonara, try tomorrow, nice to know ya
-my baby's travelled back to the arms of her rightful owner
-and suddenly it seems that my shoulder blades have just shifted
-it's like the greatest gift you can get
-the weight has been lifted
-now it don't feel like the world's on my shoulders
-everyone's leanin' on me
-'cause my baby knows that her daddy's a soldier
-nothin' can take her from me
-woo!
-i told you i can't sing.
-oh well, i tried
-hailie, 'member when i said
-if you ever need anything, daddy will be right there?
-well guess what?
-daddy's here.
-and i ain't goin' nowhere baby
-i love you! (kiss)
+(dp1
+Vbreaking
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVchances
+p5
+I1
+sVover
+p6
+I1
+sVyears
+p7
+I2
+sVseen
+p8
+I2
+sVwasted
+p9
+I1
+sVhell
+p10
+I1
+sVeveryones
+p11
+I2
+sVblow
+p12
+I1
+sVhold
+p13
+I1
+sVfather
+p14
+I1
+sVexpectations
+p15
+I1
+sVwasting
+p16
+I1
+sVwindow
+p17
+I1
+sVreason
+p18
+I1
+sVpride
+p19
+I1
+sVreal
+p20
+I1
+sVsomeone
+p21
+I1
+sVhit
+p22
+I1
+sVlivin
+p23
+I1
+sVyo
+p24
+I2
+sVsong
+p25
+I3
+sVya
+p26
+I1
+sVwatch
+p27
+I1
+sVbabys
+p28
+I1
+sVbreak
+p29
+I1
+sVgreatest
+p30
+I1
+sVfeels
+p31
+I2
+sVdaddys
+p32
+I2
+sVknow
+p33
+I2
+sVkiss
+p34
+I1
+sVprobably
+p35
+I1
+sVworld
+p36
+I2
+sVlady
+p37
+I1
+sVshoulder
+p38
+I2
+sVworlds
+p39
+I3
+sVbat
+p40
+I1
+sVlike
+p41
+I7
+sVgift
+p42
+I1
+sVever
+p43
+I1
+sVnotes
+p44
+I1
+sVcry
+p45
+I2
+sVcouldve
+p46
+I1
+sVtry
+p47
+I2
+sVjokes
+p48
+I1
+sVbad
+p49
+I1
+sVdealt
+p50
+I1
+sVwent
+p51
+I1
+sVwouldve
+p52
+I1
+sVside
+p53
+I1
+sVsuddenly
+p54
+I3
+sVheavy
+p55
+I1
+sVlifted
+p56
+I1
+sVgettin
+p57
+I1
+sVweight
+p58
+I2
+sVpeople
+p59
+I1
+sVcolder
+p60
+I1
+sVtold
+p61
+I1
+sVyeah
+p62
+I1
+sValive
+p63
+I1
+sVsee
+p64
+I3
+sVgoin
+p65
+I1
+sVpass
+p66
+I1
+sVgirl
+p67
+I1
+sVleanin
+p68
+I2
+sVout
+p69
+I1
+sVwhat
+p70
+I1
+sVsaid
+p71
+I1
+sVfor
+p72
+I1
+sVheres
+p73
+I1
+sVgod
+p74
+I1
+sV3
+I1
+sVdetermined
+p75
+I1
+sVsayonara
+p76
+I1
+sVmum
+p77
+I1
+sVgot
+p78
+I4
+sVcause
+p79
+I5
+sVpublic
+p80
+I1
+sVwatchin
+p81
+I1
+sVaint
+p82
+I1
+sVripped
+p83
+I1
+sVproud
+p84
+I1
+sVpenis
+p85
+I1
+sVguess
+p86
+I1
+sVhere
+p87
+I1
+sVeminem
+p88
+I1
+sVsingin
+p89
+I1
+sVfelonies
+p90
+I1
+sVnowhere
+p91
+I1
+sVhurts
+p92
+I1
+sVfuck
+p93
+I1
+sVsing
+p94
+I4
+sVby
+p95
+I1
+sVbackwards
+p96
+I1
+sVdaughter
+p97
+I2
+sVanything
+p98
+I1
+sVoh
+p99
+I3
+sVmany
+p100
+I1
+sVcould
+p101
+I3
+sVdays
+p102
+I1
+sVo
+I1
+sVkeep
+p103
+I2
+sVsoldier
+p104
+I1
+sVdrugaddict
+p105
+I1
+sVact
+p106
+I1
+sVmakes
+p107
+I2
+sVthink
+p108
+I3
+sVcomes
+p109
+I1
+sVthats
+p110
+I1
+sVload
+p111
+I1
+sVlove
+p112
+I2
+sVdont
+p113
+I4
+sVive
+p114
+I5
+sVfeel
+p115
+I3
+sVseems
+p116
+I1
+sVarms
+p117
+I1
+sVnothing
+p118
+I1
+sVmomma
+p119
+I1
+sVwhatd
+p120
+I1
+sVbats
+p121
+I1
+sVright
+p122
+I1
+sVcomin
+p123
+I1
+sVowner
+p124
+I1
+sVprobation
+p125
+I1
+sVsinging
+p126
+I1
+sVtomorrow
+p127
+I1
+sVfacin
+p128
+I1
+sVbent
+p129
+I1
+sVwan
+p130
+I2
+sVgiven
+p131
+I1
+sVher
+p132
+I1
+sVthere
+p133
+I1
+sVtears
+p134
+I1
+sVlong
+p135
+I1
+sVlive
+p136
+I2
+sVlot
+p137
+I1
+sVtime
+p138
+I2
+sVtaken
+p139
+I1
+sVtravelled
+p140
+I1
+sVperfectly
+p141
+I1
+sVhappy
+p142
+I2
+sVshifted
+p143
+I1
+sVshoulders
+p144
+I2
+sVknows
+p145
+I1
+sVhailie
+p146
+I2
+sV6
+I1
+sVbut
+p147
+I1
+sVback
+p148
+I3
+sVwoo
+p149
+I1
+sVunderstand
+p150
+I1
+sVstick
+p151
+I1
+sVbaby
+p152
+I8
+sVha
+p153
+I2
+sVeat
+p154
+I1
+sVglad
+p155
+I1
+sVcircumstances
+p156
+I1
+sVme
+p157
+I6
+sVwoman
+p158
+I3
+sVlook
+p159
+I3
+sVblades
+p160
+I1
+sVinside
+p161
+I2
+sVpistolpacking
+p162
+I1
+sVharder
+p163
+I1
+sVsoul
+p164
+I1
+sVitself
+p165
+I1
+sVadore
+p166
+I1
+sVdaddy
+p167
+I2
+sVdidnt
+p168
+I1
+sVtheres
+p169
+I3
+sVboulder
+p170
+I1
+sVcrazy
+p171
+I6
+sVsometimes
+p172
+I4
+sVtasted
+p173
+I1
+sVgive
+p174
+I1
+sValmost
+p175
+I2
+sVwell
+p176
+I3
+sVin
+p177
+I1
+sVeyes
+p178
+I2
+sVdeep
+p179
+I1
+sVwife
+p180
+I1
+sVcant
+p181
+I2
+sVabort
+p182
+I1
+sVim
+p183
+I11
+sVsomething
+p184
+I1
+sVsense
+p185
+I2
+sVneed
+p186
+I1
+sVhandle
+p187
+I1
+sVhonest
+p188
+I1
+sVid
+p189
+I3
+sVshit
+p190
+I2
+sVbags
+p191
+I1
+sVsit
+p192
+I1
+sVna
+p193
+I2
+sVmake
+p194
+I2
+sVget
+p195
+I2
+sVbacks
+p196
+I1
+sVcheck
+p197
+I1
+sVmember
+p198
+I1
+sVbottled
+p199
+I1
+sVhailies
+p200
+I2
+sVtake
+p201
+I2
+sVprenup
+p202
+I1
+sVpeoples
+p203
+I1
+sVgets
+p204
+I1
+sVnice
+p205
+I1
+sVpicture
+p206
+I1
+sVpersona
+p207
+I1
+sVtried
+p208
+I1
+sVshouldve
+p209
+I1
+sVinsecurities
+p210
+I1
+sVdrives
+p211
+I1
+sVstarin
+p212
+I1
+sVphase
+p213
+I1
+sVelse
+p214
+I1
+sVgrow
+p215
+I3
+sVman
+p216
+I3
+sVneck
+p217
+I1
+sVrightful
+p218
+I1
+sVolder
+p219
+I2
+sVno
+p220
+I1
+sVlife
+p221
+I2
+sVnothin
+p222
+I2
+sVmore
+p223
+I1
+sVjail
+p224
+I1
+sVfuckin
+p225
+I2
+sVkeeps
+p226
+I1
+s.

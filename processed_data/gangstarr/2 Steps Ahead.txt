@@ -1,78 +1,688 @@
-"2 steps ahead" lyrics
-gang starr lyrics
-"2 steps ahead"
-chumps tryin me, but when they eyein me
-i build in skills, and to enhance my chances
-i'm thrilled, to be involved with solvin
-all the problems, with the way that the sound
-has gone down, so i frown at the scene
-where you be takin it, and like the winds of change
-i'll be breakin it up, shakin it up
-clearing it out, airing it out, and bearing the clout
-on my chest, like a crest that rests
-on a tidal wave, only the good i'll save
-when i plunge, and engulf the ones
-who aren't sons, who converse with ? and make friends
-yo, i recommend that you get back there
-and sit back there, contemplate, calculate
-and concentrate on these rhymes, that i picked to stick
-to your mind, and then i'll raise you straight
-to the next phase, cause i will amaze
-with much force, and like the power that comes
-from the source, which is greater and stronger, of course
-if you didn't know, i will tell you
-that all the blind no-minds i give hell to
-and if you comprehend what is said
-then you'll be stayin two steps ahead
-"one, two" steps ahead
-"one, two" steps ahead
-"one, two"
-i can't work with, those jerks who front
-with the mic, cause i never liked fabrications
-wack creations that lack authenticity
-for some time in my mind i've been wishin the
-fiends who do would just yield
-and at the foot of my bed, i have kneeled
-thus revealed as a gift i have nurtured
-and i hurt ya if you're not knowin
-that the musical need is now growin
-and like a man obsessed, i must
-go all out, show all out, blow all out
-throw all out, get on out of my path
-cause i laugh at the ones with no gas
-i surpass the class to get geesed
-like the way the ballistic's released
-and i won't cease til i cap them
-or slap the saps with my rappin
-continue on with my journey
-all the negative ones don't concern me
-my eyes are wise, i got cause to live
-positive, have to give, every way
-every day of my life, so i fight for the right
-and get hype, so heed what i feed
-and get fed, then you'll be livin two steps ahead
-"one, two" steps ahead
-"one, two" steps ahead
-"one, two"
-i'm way ahead of you, yes i'm on top
-it's me instead of you, with the lyrics you fear it
-so get near it, and then you'll hear it clear
-and concise, cause i paid the price to be
-talking here, rocking there, shocking here
-stop and stare, then compare if you wish
-because the others fess, i insist
-so i will assist you to blend with this
-bend with this, tend with this, fend with this
-as i ascend with my orals
-you define and defy with high morals
-and at the spot i will stop to throw darts
-at the ones who proclaim with no aim
-cause they don't hold the fame, they're on mine
-and since i'm well inclined and divine
-i will have to ask you to come in
-move along with the tongue and the drummin
-progress and let the blessings be read
-and you'll be staying two steps ahead
-"one, two" steps ahead
-"one, two" steps ahead
-"one, two"
+(dp1
+Vfeed
+p2
+I1
+sVlyrics
+p3
+I3
+sVshow
+p4
+I1
+sVchances
+p5
+I1
+sVlack
+p6
+I1
+sVlivin
+p7
+I1
+sVcourse
+p8
+I1
+sVcease
+p9
+I1
+sVgang
+p10
+I1
+sVsurpass
+p11
+I1
+sVwinds
+p12
+I1
+sVhell
+p13
+I1
+sVyes
+p14
+I1
+sVtakin
+p15
+I1
+sVto
+p16
+I1
+sVblow
+p17
+I1
+sVfend
+p18
+I1
+sVcalculate
+p19
+I1
+sVshakin
+p20
+I1
+sVcomprehend
+p21
+I1
+sVsource
+p22
+I1
+sVmust
+p23
+I1
+sVcreations
+p24
+I1
+sVsave
+p25
+I1
+sVcrest
+p26
+I1
+sVme
+p27
+I2
+sVthem
+p28
+I1
+sVgood
+p29
+I1
+sVgreater
+p30
+I1
+sVyo
+p31
+I1
+sVget
+p32
+I6
+sVya
+p33
+I1
+sVstop
+p34
+I2
+sVwave
+p35
+I1
+sVones
+p36
+I4
+sVevery
+p37
+I2
+sVknow
+p38
+I1
+sVgot
+p39
+I1
+sVfront
+p40
+I1
+sV2
+I2
+sVairing
+p41
+I1
+sVday
+p42
+I1
+sVwont
+p43
+I1
+sVlike
+p44
+I5
+sVgift
+p45
+I1
+sVskills
+p46
+I1
+sVyoull
+p47
+I4
+sVyield
+p48
+I1
+sVproclaim
+p49
+I1
+sVcontinue
+p50
+I1
+sVsteps
+p51
+I11
+sVheed
+p52
+I1
+sVhype
+p53
+I1
+sVenhance
+p54
+I1
+sVgrowin
+p55
+I1
+sVcap
+p56
+I1
+sVforce
+p57
+I1
+sVconcise
+p58
+I1
+sVascend
+p59
+I1
+sVback
+p60
+I2
+sVballistics
+p61
+I1
+sVgo
+p62
+I1
+sVbed
+p63
+I1
+sVpicked
+p64
+I1
+sVauthenticity
+p65
+I1
+sVprogress
+p66
+I1
+sVtheyre
+p67
+I1
+sVfear
+p68
+I1
+sVout
+p69
+I1
+sVgeesed
+p70
+I1
+sVchumps
+p71
+I1
+sVsaid
+p72
+I1
+sVmine
+p73
+I1
+sVclearing
+p74
+I1
+sVsince
+p75
+I1
+sVtend
+p76
+I1
+sVstayin
+p77
+I1
+sVit
+p78
+I1
+sVwise
+p79
+I1
+sVcause
+p80
+I6
+sVdefy
+p81
+I1
+sVsaps
+p82
+I1
+sVbe
+p83
+I1
+sVassist
+p84
+I1
+sVpower
+p85
+I1
+sVspot
+p86
+I1
+sVnever
+p87
+I1
+sVwishin
+p88
+I1
+sVhere
+p89
+I1
+sVcontemplate
+p90
+I1
+sVconcentrate
+p91
+I1
+sVlet
+p92
+I1
+sVothers
+p93
+I1
+sVask
+p94
+I1
+sVtidal
+p95
+I1
+sValong
+p96
+I1
+sVcome
+p97
+I1
+sVthrow
+p98
+I2
+sVchange
+p99
+I1
+sVkneeled
+p100
+I1
+sVshocking
+p101
+I1
+sVahead
+p102
+I12
+sVrests
+p103
+I1
+sVinvolved
+p104
+I1
+sVill
+p105
+I3
+sVbreakin
+p106
+I1
+sVnegative
+p107
+I1
+sVblessings
+p108
+I1
+sVarent
+p109
+I1
+sVpositive
+p110
+I1
+sVtongue
+p111
+I1
+sVcomes
+p112
+I1
+sVblind
+p113
+I1
+sVliked
+p114
+I1
+sVdont
+p115
+I2
+sVmorals
+p116
+I1
+sVbearing
+p117
+I1
+sVscene
+p118
+I1
+sVclout
+p119
+I1
+sVone
+p120
+I9
+sVinsist
+p121
+I1
+sVright
+p122
+I1
+sVlaugh
+p123
+I1
+sVpath
+p124
+I1
+sVfight
+p125
+I1
+sVstare
+p126
+I1
+sVwack
+p127
+I1
+sVraise
+p128
+I1
+sVwould
+p129
+I1
+sVamaze
+p130
+I1
+sVrevealed
+p131
+I1
+sVtop
+p132
+I1
+sVthere
+p133
+I1
+sVtwo
+p134
+I12
+sVnext
+p135
+I1
+sVjerks
+p136
+I1
+sVlive
+p137
+I1
+sVmuch
+p138
+I1
+sVway
+p139
+I4
+sVrecommend
+p140
+I1
+sVtryin
+p141
+I1
+sVtell
+p142
+I1
+sVdefine
+p143
+I1
+sVsons
+p144
+I1
+sVplunge
+p145
+I1
+sVdrummin
+p146
+I1
+sVthus
+p147
+I1
+sVinclined
+p148
+I1
+sVstarr
+p149
+I1
+sVgas
+p150
+I1
+sVhurt
+p151
+I1
+sVreleased
+p152
+I1
+sVhear
+p153
+I1
+sVstick
+p154
+I1
+sVrocking
+p155
+I1
+sVhold
+p156
+I1
+sVsolvin
+p157
+I1
+sVsound
+p158
+I1
+sVhigh
+p159
+I1
+sVfiends
+p160
+I1
+sVrappin
+p161
+I1
+sVknowin
+p162
+I1
+sVthis
+p163
+I2
+sVwish
+p164
+I1
+sVstraight
+p165
+I1
+sVwork
+p166
+I1
+sVup
+p167
+I1
+sVrhymes
+p168
+I1
+sVaim
+p169
+I1
+sVnear
+p170
+I1
+sVdidnt
+p171
+I1
+sVfabrications
+p172
+I1
+sVeyein
+p173
+I1
+sVgone
+p174
+I1
+sVcompare
+p175
+I1
+sVgive
+p176
+I2
+sVwell
+p177
+I1
+sVmind
+p178
+I2
+sVeyes
+p179
+I1
+sVslap
+p180
+I1
+sVive
+p181
+I1
+sVtalking
+p182
+I1
+sVcant
+p183
+I1
+sVim
+p184
+I4
+sVengulf
+p185
+I1
+sVin
+p186
+I1
+sVneed
+p187
+I1
+sVfame
+p188
+I1
+sVorals
+p189
+I1
+sVfrown
+p190
+I1
+sVdivine
+p191
+I1
+sVsit
+p192
+I1
+sVmake
+p193
+I1
+sVtil
+p194
+I1
+sVread
+p195
+I1
+sVchest
+p196
+I1
+sVbuild
+p197
+I1
+sVinstead
+p198
+I1
+sVyou
+p199
+I1
+sVconcern
+p200
+I1
+sVlife
+p201
+I1
+sVstaying
+p202
+I1
+sVconverse
+p203
+I1
+sVobsessed
+p204
+I1
+sVthrilled
+p205
+I1
+sVprice
+p206
+I1
+sVfed
+p207
+I1
+sVproblems
+p208
+I1
+sVpaid
+p209
+I1
+sVjourney
+p210
+I1
+sVdarts
+p211
+I1
+sVphase
+p212
+I1
+sVnurtured
+p213
+I1
+sVfriends
+p214
+I1
+sVclass
+p215
+I1
+sVman
+p216
+I1
+sVmove
+p217
+I1
+sVfoot
+p218
+I1
+sVbend
+p219
+I1
+sVclear
+p220
+I1
+sVyoure
+p221
+I1
+sVstronger
+p222
+I1
+sVmusical
+p223
+I1
+sVnominds
+p224
+I1
+sVtime
+p225
+I1
+sVthe
+p226
+I1
+sVblend
+p227
+I1
+sVmic
+p228
+I1
+sVfess
+p229
+I1
+s.

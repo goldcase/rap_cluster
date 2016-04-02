@@ -1,62 +1,504 @@
-"happy new year" lyrics
-50 cent lyrics
-"happy new year"
-after 2 bottles of moet and two bottles of rose
-don't dare say nothing to me, you niggas don't know me
-it's ebony and ivory, the white boy, the black boy
-eminem and fifty who the fucks with me and micky
-there's hollow's in my tongue, kush smoked in my lung
-cocaine in my cum, look i don't give a fuck
-i took x and viagra now my dick hard
-shining like them diamonds floating round in my shepard
-look this is my house, we got 50 fucking rooms here
-butlers, maids and them baccarat chandeliers
-dog named oprah and a cat named gayle
-stash in the floor in case i got to make bail
-happy new year
-i got some liquor, got some hoes
-got the music playing come and have fun
-happy new year
-i got some kush, i got some purple
-got some dro' in case you wanna smoke some
-happy new year
-i got some goose, i got some henny
-some patron, man i know you want some
-happy new year
-i got some porn star bitches in the back
-freakin off you wan come?
-first nigga front i'mma shoot me a chump
-i stuff 2 million in my lambo trunk
-me i do whatever the fuck i want
-you must be confused, me i never lose
-fuck me, no fuck you
-why people fuck with different drugs
-that shit aint hit the circuit yet
-niggas fuck with dope and coke not vicodin and percocets
-tonight i'm open minded, fuck it i'll give it a try
-what does it matter anyway, gettin' high's gettin high
-how many shots will it take to make a nigga to drop his shit
-like he having convulsions, choking, eyes open
-bong smoking, thats the shit you've seen in high times
-they grow underwater that shit look like a grapevine
-i started out with one pill, now i'm taking ten a day
-em said i need help, dre said that shit ok
-next thing you know a nigga sittin' up in aa
-hi, my name is curits jackson, i'm an addict, gotta have it
-happy new year
-i got some liquor, got some hoes
-got the music playing come and have fun
-happy new year
-i got some kush got some purple
-got some dro' in case you wanna smoke some
-happy new year
-i got some goose, i got some henny
-some patron, man i know you want some
-happy new year
-i got some porn star bitches in the back
-freakin off you wan come?
-first nigga front i'mma shoot me a chump
-i stuff 2 million in my lambo trunk
-me i do whatever the fuck i want
-you must be confused, me i never lose
-fuck me, no fuck you
+(dp1
+Vnext
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVanyway
+p5
+I1
+sVfifty
+p6
+I1
+sVrooms
+p7
+I1
+sVfreakin
+p8
+I2
+sVbail
+p9
+I1
+sVyet
+p10
+I1
+sVaint
+p11
+I1
+sVunderwater
+p12
+I1
+sVmoet
+p13
+I1
+sVimma
+p14
+I2
+sVrose
+p15
+I1
+sVbaccarat
+p16
+I1
+sVviagra
+p17
+I1
+sVblack
+p18
+I1
+sVcum
+p19
+I1
+sVpill
+p20
+I1
+sVtake
+p21
+I1
+sVme
+p22
+I1
+sVhit
+p23
+I1
+sVdope
+p24
+I1
+sVsittin
+p25
+I1
+sVshoot
+p26
+I2
+sVknow
+p27
+I4
+sVgot
+p28
+I21
+sVfront
+p29
+I2
+sVday
+p30
+I1
+sVdare
+p31
+I1
+sVname
+p32
+I1
+sVlike
+p33
+I3
+sVgettin
+p34
+I2
+sV50
+p35
+I2
+sVtry
+p36
+I1
+sVcircuit
+p37
+I1
+sVstuff
+p38
+I2
+sVshots
+p39
+I1
+sVlose
+p40
+I2
+sVx
+I1
+sVbong
+p41
+I1
+sVround
+p42
+I1
+sVem
+p43
+I1
+sVnigga
+p44
+I4
+sVten
+p45
+I1
+sVporn
+p46
+I2
+sVfucking
+p47
+I1
+sVhouse
+p48
+I1
+sVliquor
+p49
+I2
+sVhard
+p50
+I1
+sVsome
+p51
+I4
+sVback
+p52
+I2
+sVgoose
+p53
+I2
+sVhoes
+p54
+I2
+sVcurits
+p55
+I1
+sVshining
+p56
+I1
+sVsaid
+p57
+I2
+sVjackson
+p58
+I1
+sVoprah
+p59
+I1
+sVpurple
+p60
+I2
+sVfucks
+p61
+I1
+sVthats
+p62
+I1
+sVdiamonds
+p63
+I1
+sVit
+p64
+I1
+sVnew
+p65
+I10
+sVconvulsions
+p66
+I1
+sVnever
+p67
+I2
+sVmillion
+p68
+I2
+sVhere
+p69
+I1
+sVeminem
+p70
+I1
+sVtrunk
+p71
+I2
+sVcome
+p72
+I4
+sVboy
+p73
+I2
+sVok
+p74
+I1
+sVmany
+p75
+I1
+sVill
+p76
+I1
+sVtimes
+p77
+I1
+sVthing
+p78
+I1
+sVchandeliers
+p79
+I1
+sVsmoke
+p80
+I2
+sVyouve
+p81
+I1
+sVtongue
+p82
+I1
+sVdre
+p83
+I1
+sVfirst
+p84
+I2
+sVnamed
+p85
+I2
+sVdick
+p86
+I1
+sVdont
+p87
+I3
+sVwhatever
+p88
+I2
+sVone
+p89
+I1
+sVchump
+p90
+I2
+sVlung
+p91
+I1
+sVpercocets
+p92
+I1
+sVcocaine
+p93
+I1
+sVopen
+p94
+I2
+sVebony
+p95
+I1
+sVwan
+p96
+I4
+sVpatron
+p97
+I2
+sVgrapevine
+p98
+I1
+sVpeople
+p99
+I1
+sVtwo
+p100
+I1
+sVcent
+p101
+I1
+sVhollows
+p102
+I1
+sV2
+I3
+sVmusic
+p103
+I2
+sVgayle
+p104
+I1
+sVwhite
+p105
+I1
+sVhappy
+p106
+I10
+sVivory
+p107
+I1
+sVdrugs
+p108
+I1
+sVcoke
+p109
+I1
+sVbitches
+p110
+I2
+sVtook
+p111
+I1
+sVbutlers
+p112
+I1
+sVconfused
+p113
+I2
+sVhi
+p114
+I1
+sVsmoking
+p115
+I1
+sVmust
+p116
+I2
+sVcase
+p117
+I3
+sVhigh
+p118
+I2
+sVlook
+p119
+I3
+sVniggas
+p120
+I2
+sVcat
+p121
+I1
+sVmatter
+p122
+I1
+sVfun
+p123
+I2
+sVta
+p124
+I1
+sVtaking
+p125
+I1
+sVtheres
+p126
+I1
+sVaa
+p127
+I1
+sVshepard
+p128
+I1
+sVgive
+p129
+I2
+sVyear
+p130
+I10
+sVmicky
+p131
+I1
+sVfuck
+p132
+I10
+sVtonight
+p133
+I1
+sVsay
+p134
+I1
+sVim
+p135
+I3
+sVwant
+p136
+I4
+sVneed
+p137
+I1
+sVseen
+p138
+I1
+sVfloating
+p139
+I1
+sVshit
+p140
+I5
+sVkush
+p141
+I3
+sVdifferent
+p142
+I1
+sVbottles
+p143
+I2
+sVlambo
+p144
+I2
+sVfloor
+p145
+I1
+sVna
+p146
+I2
+sVmake
+p147
+I2
+sVstarted
+p148
+I1
+sVhenny
+p149
+I2
+sVvicodin
+p150
+I1
+sVyou
+p151
+I2
+sVstar
+p152
+I2
+sVdro
+p153
+I2
+sVeyes
+p154
+I1
+sVhighs
+p155
+I1
+sVaddict
+p156
+I1
+sVnothing
+p157
+I1
+sVgrow
+p158
+I1
+sVman
+p159
+I2
+sVdrop
+p160
+I1
+sVchoking
+p161
+I1
+sVdog
+p162
+I1
+sVstash
+p163
+I1
+sVmaids
+p164
+I1
+sVsmoked
+p165
+I1
+sVplaying
+p166
+I2
+sVminded
+p167
+I1
+s.

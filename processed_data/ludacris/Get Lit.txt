@@ -1,97 +1,631 @@
-"get lit" lyrics
-ludacris lyrics
-"get lit"
-when the liquor get up in me
-when the liquor get up in me
-when the liquor get up in me
-when the liquor get up in me
-i'm a motherfuckin' beast (when the liquor get up in me)
-tell these niggas clear the streets (when the liquor get up in me)
-i'll be all up in my zone (when the liquor get up in me)
-i ain't never going home (when the liquor get up in me)
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-ima drink until i'm drunk (drunk), smoke until i'm high (high)
-hustle till i ball (ball), get money till i die (die)
-these haters want my paper and the snakes is out to get me
-so when i leave this bitch i'm taking everything with me
-with my wrist glowing and my fist throwing
-and my lamborghini aventador sneak it on the block
-been going and i been flowing i gotta say that ludacris, a nigga never gonna stop
-hanging with women that's loving them drugs
-neighborhood call me the plug of the plug
-poppin' a pill and then jump in the tub
-we buy out the bar, we buy out the club
-got a black, amx, i left home, no visa
-talk money, and my money, talk back, like caesar
-mix soda, with the syrup, we be leaning like the tower of pisa
-and if y'all don't fuck with us, then we don't fuck with y'all either
-i'm a motherfuckin' beast (when the liquor get up in me)
-tell these niggas clear the streets (when the liquor get up in me)
-i'll be all up in my zone (when the liquor get up in me)
-i ain't never going home (when the liquor get up in me)
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-i'm talking 1 shot, 2 shots, 3 shots, 4
-how many shots to hit the motherfucking floor
-you sipping man, quit tripping man, stop acting like a ho
-waitress said another round? i said you already know
-you see i started from nothing and made it up outta the hood
-dollar and a dream and i made what i could
-fifty to a hundred, then a hundred to a grand
-then a grand to a milli, nigga really what's good
-its wood in the whip the wood like a wood shop
-neighbor's all think that i cook rocks
-no peace in the streets
-really got me thinking ain't no such thing as a good cop
-my neck froze and my ice steel
-flows, rappers just bite still
-platinum plaques, three grammy's
-i'd said i made it like mike will
-with coupes all on that freeway
-pockets on gabby sidibe
-got cake and women blowing like everyday is my b-day
-we be getting mighty bold (when the liquor get up in her)
-she be sliding down that pole (when the liquor get up in her)
-she be shaking it for daddy (when the liquor get up in her)
-getting freaky in the caddy (when the liquor get up in her)
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-she dragging a mink coat got peter pissed its a pity
-a titans like tennessee but she chiefing like kansas city
-she love it when she get tipsy and strip to the core essentials
-with her legs sprawled out like the air jordan's symbols
-she be twenty thousand feet in my apartment in the sky
-y'all hoes just drink and drive, my woman just drink and fly
-she a lady in the street ain't nothing fake about her booty
-she call me for special ops, i told her that's my call of duty
-we be getting mighty bold (when the liquor get up in her)
-she be sliding down that pole (when the liquor get up in her)
-she be shaking it for daddy (when the liquor get up in her)
-getting freaky in the caddy (when the liquor get up in her)
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
-get lit (get lit)
-get lit (get lit)
-get lit (get lit)
-ahh shit
+(dp1
+Vshop
+p2
+I1
+sVneighbors
+p3
+I1
+sVjordans
+p4
+I1
+sVshot
+p5
+I1
+sVlyrics
+p6
+I2
+sVludacris
+p7
+I2
+sVmoney
+p8
+I3
+sVdollar
+p9
+I1
+sVfifty
+p10
+I1
+sVsymbols
+p11
+I1
+sVpaper
+p12
+I1
+sVhanging
+p13
+I1
+sVlove
+p14
+I1
+sVstill
+p15
+I1
+sVfroze
+p16
+I1
+sVima
+p17
+I1
+sV1
+I1
+sVapartment
+p18
+I1
+sVessentials
+p19
+I1
+sVzone
+p20
+I2
+sVtill
+p21
+I2
+sVthinking
+p22
+I1
+sVpoppin
+p23
+I1
+sVacting
+p24
+I1
+sVgoing
+p25
+I3
+sVblack
+p26
+I1
+sV4
+I1
+sVtitans
+p27
+I1
+sVpill
+p28
+I1
+sVta
+p29
+I1
+sVstarted
+p30
+I1
+sVsteel
+p31
+I1
+sVgood
+p32
+I2
+sVhit
+p33
+I1
+sVget
+p34
+I73
+sVcould
+p35
+I1
+sVstop
+p36
+I2
+sVsipping
+p37
+I1
+sVamx
+p38
+I1
+sVmade
+p39
+I3
+sVsidibe
+p40
+I1
+sVknow
+p41
+I1
+sVcook
+p42
+I1
+sVlady
+p43
+I1
+sVspecial
+p44
+I1
+sVbar
+p45
+I1
+sVlike
+p46
+I9
+sVdie
+p47
+I2
+sVrocks
+p48
+I1
+sVleave
+p49
+I1
+sVeither
+p50
+I1
+sVshots
+p51
+I3
+sVtower
+p52
+I1
+sVtold
+p53
+I1
+sVshaking
+p54
+I2
+sVround
+p55
+I1
+sVyall
+p56
+I3
+sVduty
+p57
+I1
+sVnigga
+p58
+I2
+sVneighborhood
+p59
+I1
+sVsnakes
+p60
+I1
+sVcore
+p61
+I1
+sVthrowing
+p62
+I1
+sVliquor
+p63
+I20
+sVstreets
+p64
+I3
+sVback
+p65
+I1
+sVjump
+p66
+I1
+sVsee
+p67
+I1
+sVfly
+p68
+I1
+sVmighty
+p69
+I2
+sVfist
+p70
+I1
+sVhoes
+p71
+I1
+sVhome
+p72
+I3
+sVpeter
+p73
+I1
+sVwhip
+p74
+I1
+sVreally
+p75
+I2
+sVgon
+p76
+I1
+sVpisa
+p77
+I1
+sVice
+p78
+I1
+sVeverything
+p79
+I1
+sV3
+I1
+sVflowing
+p80
+I1
+sVgot
+p81
+I5
+sVfreaky
+p82
+I2
+sVsliding
+p83
+I2
+sVhustle
+p84
+I1
+sVaint
+p85
+I4
+sVblowing
+p86
+I1
+sVbold
+p87
+I2
+sVcity
+p88
+I1
+sVnever
+p89
+I3
+sVtub
+p90
+I1
+sVtripping
+p91
+I1
+sVpissed
+p92
+I1
+sVplug
+p93
+I2
+sVcop
+p94
+I1
+sVgetting
+p95
+I4
+sVmany
+p96
+I1
+sVtaking
+p97
+I1
+sVthing
+p98
+I1
+sVsmoke
+p99
+I1
+sVsoda
+p100
+I1
+sVchiefing
+p101
+I1
+sVthink
+p102
+I1
+sVblock
+p103
+I1
+sVthats
+p104
+I2
+sVfake
+p105
+I1
+sVmotherfucking
+p106
+I1
+sValready
+p107
+I1
+sVwhats
+p108
+I1
+sVdont
+p109
+I2
+sVdrunk
+p110
+I2
+sVlegs
+p111
+I1
+sVahh
+p112
+I8
+sVfeet
+p113
+I1
+sVpole
+p114
+I2
+sVtennessee
+p115
+I1
+sVbitch
+p116
+I1
+sVanother
+p117
+I1
+sVstrip
+p118
+I1
+sVbooty
+p119
+I1
+sVsprawled
+p120
+I1
+sVhood
+p121
+I1
+sVsky
+p122
+I1
+sVplatinum
+p123
+I1
+sVquit
+p124
+I1
+sVher
+p125
+I8
+sVtwenty
+p126
+I1
+sVbite
+p127
+I1
+sVthree
+p128
+I1
+sV2
+I1
+sVcall
+p129
+I3
+sVhundred
+p130
+I2
+sVsyrup
+p131
+I1
+sVtell
+p132
+I2
+sVloving
+p133
+I1
+sVpity
+p134
+I1
+sVmike
+p135
+I1
+sVbuy
+p136
+I2
+sVsaid
+p137
+I3
+sVclub
+p138
+I1
+sVthousand
+p139
+I1
+sVcaddy
+p140
+I2
+sVho
+p141
+I1
+sVaventador
+p142
+I1
+sVhaters
+p143
+I1
+sVwomen
+p144
+I2
+sVme
+p145
+I14
+sVwood
+p146
+I3
+sVlamborghini
+p147
+I1
+sVops
+p148
+I1
+sVniggas
+p149
+I2
+sVus
+p150
+I1
+sVair
+p151
+I1
+sVwill
+p152
+I1
+sVstreet
+p153
+I1
+sVleaning
+p154
+I1
+sVcake
+p155
+I1
+sVgabby
+p156
+I1
+sVdaddy
+p157
+I2
+sVill
+p158
+I2
+sVmink
+p159
+I1
+sVoutta
+p160
+I1
+sVcoupes
+p161
+I1
+sVfuck
+p162
+I2
+sVkansas
+p163
+I1
+sVhigh
+p164
+I2
+sVtalking
+p165
+I1
+sVsay
+p166
+I1
+sVwoman
+p167
+I1
+sVim
+p168
+I6
+sVwant
+p169
+I1
+sVdragging
+p170
+I1
+sVplaques
+p171
+I1
+sVid
+p172
+I1
+sVshit
+p173
+I8
+sVdrugs
+p174
+I1
+sVfloor
+p175
+I1
+sVna
+p176
+I1
+sVpeace
+p177
+I1
+sVeveryday
+p178
+I1
+sVlit
+p179
+I50
+sVmix
+p180
+I1
+sVglowing
+p181
+I1
+sVcaesar
+p182
+I1
+sVmotherfuckin
+p183
+I2
+sVmilli
+p184
+I1
+sVgrand
+p185
+I2
+sVgrammys
+p186
+I1
+sVball
+p187
+I2
+sVpockets
+p188
+I1
+sVtipsy
+p189
+I1
+sVbday
+p190
+I1
+sVrappers
+p191
+I1
+sVdrink
+p192
+I3
+sVsneak
+p193
+I1
+sVflows
+p194
+I1
+sVbeast
+p195
+I2
+sVvisa
+p196
+I1
+sVwrist
+p197
+I1
+sVnothing
+p198
+I2
+sVman
+p199
+I2
+sVneck
+p200
+I1
+sVcoat
+p201
+I1
+sVclear
+p202
+I2
+sVdrive
+p203
+I1
+sVfreeway
+p204
+I1
+sVwaitress
+p205
+I1
+sVdream
+p206
+I1
+sVtalk
+p207
+I2
+sVleft
+p208
+I1
+s.

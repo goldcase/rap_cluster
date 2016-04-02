@@ -1,75 +1,692 @@
-"new york strait talk" lyrics
-gang starr lyrics
-"new york strait talk"
-"from new york straight talk, america's best"
-"yo i'm not new to this i'm true to this"
-"word up!"
-"from new york straight talk... america's best"
-yo, it doesn't make sense, for you to compete against
-this new york vibe that gets your whole body tense
-calm down, listen to a brother who knows
-cause the rappers out here come up with mad different types of flows
-switch-up, change-up, yo pull the range up
-so we can build on this shit, for real that's how we came up
-used to ride the subway trains back and forth
-now i push an e-class, four-two-zero of course
-still material gains, make one more aware
-of all the madness and the civil unrest that's out here
-i doubt there, is anyplace more complex
-you can get lost in the sauce, new york'll have you vexed
-who's next to get served, herbs'll get knocked off
-burning flammable rappers, is how i get my rocks off
-i pop your top off as if you were the bottle
-then i'll drain all your fluid, you're better off playing lotto
-bright lights, big city and the dark alleyways
-new york we get the money all day everyday
-"from new york straight talk, america's best"
-"yo i'm not new to this i'm true to this"
-"word up!"
-"from new york straight talk... america's best"
-true if you can make it out here, you can make it anywhere
-that means a lot of rappers, they should stay away from here
-cause we still care, about the total artform
-niggaz could sell more records but they still can't flip a live forum
-plus everybody out here ain't talkin true shit either
-mad niggaz is fakin jacks, i don't like them neither
-but the competition keeps me on point
-that's why i lamp in the studio composin fresh new joints
-from the streets, medina, manhattan, staten, p-lawn
-the struggle continues, everybody wants to be on
-the rat race, makes this lifestyle fast paced
-i've loved it since the days of fat shoelace
-screwface me all you want, but i'm used to it
-i'll never give up rep in new york, i'm true to it
-from forty-deuce to queens, back to east new yi
-we takin no shorts, and plus we showin no pity
-bright lights, big city and the dark alleyways
-new york, we get the money all day everyday
-"from new york... straight talk..."
-"yo.. i'm.. not.. new.. to.. this"
-"america's best" "word up!"
-"from new york straight talk, america's best"
-"yo i'm not new to this i'm true to this"
-"word up!"
-"from new york straight talk... america's best"
-you get bent up, sent up creek, without a paddle
-you wanna battle?  well i live in new york
-so think twice blink twice now your roley and lincoln's gone
-don't come into this rap game if you don't belong
-you won't be on but for a minute anyway
-you're just a scavenger, you don't live this life everyday
-rap is regional, so you can check the demographics
-everybody represent where they live, cause shit is drastic
-confusion, while i'm givin rappers contusions
-and people don't realize that real hip-hop is losing
-they wanna shut us down, and i say, "shut up clown!"
-cause new york is too corrupt and too tough to lay down
-and just quit, cause mc's out here kick serious lyrics
-and i come to you, with my infinite spirit
-not takin nothin from your hood or your set
-but gangstarr could be a threat, in new york we rep
-that's where it comes from, that's why you're feelin it
-so why supress it, i'd rather be revealin it
-bright lights, big city and dark alleyways
-new york we get the money all day everyday
-"from new york straight talk... america's best"
+(dp1
+Vrepresent
+p2
+I1
+sVsince
+p3
+I1
+sVlyrics
+p4
+I3
+sVmoney
+p5
+I3
+sValleyways
+p6
+I3
+sVanyway
+p7
+I1
+sVcourse
+p8
+I1
+sVbright
+p9
+I3
+sVlincolns
+p10
+I1
+sVgang
+p11
+I1
+sVbattle
+p12
+I1
+sVtough
+p13
+I1
+sVstill
+p14
+I3
+sVtakin
+p15
+I2
+sVcomposin
+p16
+I1
+sVaint
+p17
+I1
+sVgivin
+p18
+I1
+sVtalkin
+p19
+I1
+sVpoint
+p20
+I1
+sVrealize
+p21
+I1
+sVbetter
+p22
+I1
+sVyorkll
+p23
+I1
+sVeast
+p24
+I1
+sVsauce
+p25
+I1
+sVrat
+p26
+I1
+sVloved
+p27
+I1
+sVreal
+p28
+I2
+sVcontinues
+p29
+I1
+sVswitchup
+p30
+I1
+sVgone
+p31
+I1
+sVgains
+p32
+I1
+sVyo
+p33
+I6
+sVget
+p34
+I8
+sVbig
+p35
+I3
+sVdemographics
+p36
+I1
+sVmaterial
+p37
+I1
+sVfluid
+p38
+I1
+sVfat
+p39
+I1
+sVchangeup
+p40
+I1
+sVdark
+p41
+I3
+sVrecords
+p42
+I1
+sVgame
+p43
+I1
+sVmakes
+p44
+I1
+sVkick
+p45
+I1
+sVherbsll
+p46
+I1
+sVday
+p47
+I3
+sVminute
+p48
+I1
+sVwont
+p49
+I1
+sVflammable
+p50
+I1
+sVlike
+p51
+I1
+sVlost
+p52
+I1
+sVunrest
+p53
+I1
+sVshoelace
+p54
+I1
+sVforth
+p55
+I1
+sVbrother
+p56
+I1
+sVclown
+p57
+I1
+sVrocks
+p58
+I1
+sVtwice
+p59
+I2
+sVrace
+p60
+I1
+sVsubway
+p61
+I1
+sVserved
+p62
+I1
+sVride
+p63
+I1
+sVset
+p64
+I1
+sVcreek
+p65
+I1
+sVpeople
+p66
+I1
+sVstreets
+p67
+I1
+sVback
+p68
+I2
+sVcompetition
+p69
+I1
+sVflip
+p70
+I1
+sVus
+p71
+I1
+sVcorrupt
+p72
+I1
+sVartform
+p73
+I1
+sVbest
+p74
+I8
+sVtotal
+p75
+I1
+sVaway
+p76
+I1
+sVlotto
+p77
+I1
+sVpaddle
+p78
+I1
+sVlights
+p79
+I3
+sVrevealin
+p80
+I1
+sVrap
+p81
+I2
+sVit
+p82
+I4
+sVnew
+p83
+I25
+sVneither
+p84
+I1
+sVcause
+p85
+I5
+sVeither
+p86
+I1
+sVbody
+p87
+I1
+sVshut
+p88
+I2
+sVrep
+p89
+I2
+sVconfusion
+p90
+I1
+sVnever
+p91
+I1
+sVhere
+p92
+I2
+sVregional
+p93
+I1
+sVstudio
+p94
+I1
+sVyork
+p95
+I18
+sVlosing
+p96
+I1
+sVcome
+p97
+I3
+sVcare
+p98
+I1
+sVpity
+p99
+I1
+sVon
+p100
+I1
+sVlifestyle
+p101
+I1
+sVforum
+p102
+I1
+sVill
+p103
+I2
+sVdays
+p104
+I1
+sVagainst
+p105
+I1
+sVamericas
+p106
+I8
+sVrange
+p107
+I1
+sVplus
+p108
+I2
+sVlay
+p109
+I1
+sVscrewface
+p110
+I1
+sVmcs
+p111
+I1
+sVwhole
+p112
+I1
+sVthink
+p113
+I1
+sVcomes
+p114
+I1
+sVthats
+p115
+I5
+sVmadness
+p116
+I1
+sVdont
+p117
+I5
+sVburning
+p118
+I1
+sVvexed
+p119
+I1
+sVcivil
+p120
+I1
+sVpaced
+p121
+I1
+sVpop
+p122
+I1
+sVone
+p123
+I1
+sVdown
+p124
+I1
+sVstruggle
+p125
+I1
+sVdoesnt
+p126
+I1
+sVyi
+p127
+I1
+sVnext
+p128
+I1
+sVplawn
+p129
+I1
+sVhood
+p130
+I1
+sVanyplace
+p131
+I1
+sVeverybody
+p132
+I3
+sVcity
+p133
+I3
+sVtop
+p134
+I1
+sVblink
+p135
+I1
+sVfast
+p136
+I1
+sVwhos
+p137
+I1
+sVlive
+p138
+I4
+sVdoubt
+p139
+I1
+sVcalm
+p140
+I1
+sVlot
+p141
+I1
+sVstarr
+p142
+I1
+sVid
+p143
+I1
+sVcontusions
+p144
+I1
+sVlisten
+p145
+I1
+sVwants
+p146
+I1
+sVlife
+p147
+I1
+sVknows
+p148
+I1
+sVfourtwozero
+p149
+I1
+sVsupress
+p150
+I1
+sVaware
+p151
+I1
+sVtense
+p152
+I1
+sVwan
+p153
+I2
+sVtrue
+p154
+I6
+sVspirit
+p155
+I1
+sVbelong
+p156
+I1
+sVpull
+p157
+I1
+sVword
+p158
+I4
+sVthis
+p159
+I4
+sVstraight
+p160
+I8
+sVroley
+p161
+I1
+sVup
+p162
+I6
+sVniggaz
+p163
+I2
+sVanywhere
+p164
+I1
+sVsent
+p165
+I1
+sVfakin
+p166
+I1
+sVknocked
+p167
+I1
+sVcould
+p168
+I2
+sVsay
+p169
+I1
+sVive
+p170
+I1
+sVbent
+p171
+I1
+sVgive
+p172
+I1
+sVshowin
+p173
+I1
+sVjoints
+p174
+I1
+sVstrait
+p175
+I2
+sVstaten
+p176
+I1
+sVcant
+p177
+I1
+sVim
+p178
+I10
+sVwant
+p179
+I1
+sVsense
+p180
+I1
+sVscavenger
+p181
+I1
+sVfortydeuce
+p182
+I1
+sVeveryday
+p183
+I4
+sVshit
+p184
+I3
+sVjacks
+p185
+I1
+sVsell
+p186
+I1
+sVdifferent
+p187
+I1
+sVvibe
+p188
+I1
+sVna
+p189
+I2
+sVmake
+p190
+I4
+sVmeans
+p191
+I1
+sVcheck
+p192
+I1
+sVlamp
+p193
+I1
+sVcomplex
+p194
+I1
+sVgangstarr
+p195
+I1
+sVbuild
+p196
+I1
+sVgets
+p197
+I1
+sVeclass
+p198
+I1
+sVshorts
+p199
+I1
+sVused
+p200
+I2
+sVthreat
+p201
+I1
+sVrappers
+p202
+I4
+sVkeeps
+p203
+I1
+sVquit
+p204
+I1
+sVflows
+p205
+I1
+sVstay
+p206
+I1
+sVhiphop
+p207
+I1
+sVmad
+p208
+I2
+sVserious
+p209
+I1
+sVinfinite
+p210
+I1
+sVdrastic
+p211
+I1
+sVfeelin
+p212
+I1
+sVtypes
+p213
+I1
+sVqueens
+p214
+I1
+sVdrain
+p215
+I1
+sVoff
+p216
+I2
+sVmedina
+p217
+I1
+sVmanhattan
+p218
+I1
+sVyoure
+p219
+I3
+sVwell
+p220
+I1
+sVnothin
+p221
+I1
+sVrather
+p222
+I1
+sVwithout
+p223
+I1
+sVcompete
+p224
+I1
+sVtalk
+p225
+I10
+sVbottle
+p226
+I1
+sVtrains
+p227
+I1
+sVpush
+p228
+I1
+sVfresh
+p229
+I1
+sVplaying
+p230
+I1
+sVcame
+p231
+I1
+s.

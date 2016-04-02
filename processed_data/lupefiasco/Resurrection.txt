@@ -1,88 +1,359 @@
-"resurrection" lyrics
-lupe fiasco lyrics
-"resurrection"
-(feat. kenna)
-"the international community struggles
-to get help into haiti following
-the worst disaster in united nations history
-amidst the frustration and chaos
-surrounding the humanitarian efforts on the ground
-there have been some miraculous rescues"
-like a phoenix
-from its ashes
-we will rise
-follow angels
-into heavens
-we will rise
-nothing's gonna take you down
-we are everlasting now
-we are everlasting now, now
-now i've been shaken
-but i'm not broken
-i won't be braking
-anytime
-i have fallen
-but i'm not ruined
-i'll keep on moving
-into my
-resurrection
-(oh, oh, oh, ohhh, oh)
-resurrection
-(oh, oh, oh, ohhh, oh)
-urgency, emergency among us
-life is in the crisis, tragedy's upon us
-and we won't leave you stranded
-rapidly we cometh
-to take you out the darkness
-show you where the sun is
-cries from the rubble
-are the voices this is sung with
-and those that have stopped singing
-we can still hear you under it
-right up out your worrying
-right into the wondrous
-right up off the ground
-right to where the thunder is
-and it's where your sisters
-and your mothers and your brothers is
-aunties and your friends
-and your fathers and your husbads is
-watching with the rest of the world in astonishment
-live from up above, us via news coverage
-seen even more than the misery that happens is
-the love, the strength, the history, the passion
-the courage of an impoverished people
-that the world once abandoned
-shining, infinite everlasting now
-now i've been shaken
-but i'm not broken
-i won't be braking
-anytime
-i have fallen
-but i'm not ruined
-i'll keep on moving
-into my
-resurrection
-(oh, oh, oh, ohhh, oh)
-resurrection
-into my resurrection
-(oh, oh, oh, ohhh, oh)
-resurrection
-into my resurrection
-resurrection
-(oh, oh, oh, ohhh, oh)
-resurrection
-(oh, oh, oh, ohhh, oh)
-we pray every prayer we know
-(oh, oh, oh, ohhh, oh)
-we will rise up
-we will rise up
-oh, oh, oh, ohhh, oh
-we will rise up
-we will rise up
-oh, oh, oh, ohhh, oh
-we will rise up
-we will rise up
-oh, oh, oh, ohhh, oh
-we will rise up
-(resurrection)
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVrest
+p5
+I1
+sVcries
+p6
+I1
+sVfollow
+p7
+I1
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVsung
+p10
+I1
+sVground
+p11
+I2
+sVrapidly
+p12
+I1
+sVpray
+p13
+I1
+sVastonishment
+p14
+I1
+sVohhh
+p15
+I10
+sVimpoverished
+p16
+I1
+sVstrength
+p17
+I1
+sVemergency
+p18
+I1
+sVget
+p19
+I1
+sVmiraculous
+p20
+I1
+sVrise
+p21
+I9
+sVcourage
+p22
+I1
+sVworst
+p23
+I1
+sVknow
+p24
+I1
+sVworld
+p25
+I2
+sVhaiti
+p26
+I1
+sVnow
+p27
+I3
+sVwont
+p28
+I3
+sVlike
+p29
+I1
+sVmothers
+p30
+I1
+sVleave
+p31
+I1
+sVashes
+p32
+I1
+sVstopped
+p33
+I1
+sVworrying
+p34
+I1
+sVright
+p35
+I4
+sVdisaster
+p36
+I1
+sVpeople
+p37
+I1
+sVfathers
+p38
+I1
+sVsurrounding
+p39
+I1
+sVnations
+p40
+I1
+sVshining
+p41
+I1
+sVeven
+p42
+I1
+sVheavens
+p43
+I1
+sVdarkness
+p44
+I1
+sVthunder
+p45
+I1
+sVchaos
+p46
+I1
+sVpassion
+p47
+I1
+sVwondrous
+p48
+I1
+sVinternational
+p49
+I1
+sVeverlasting
+p50
+I3
+sVlupe
+p51
+I1
+sVbroken
+p52
+I2
+sVresurrection
+p53
+I12
+sVshaken
+p54
+I2
+sVoh
+p55
+I40
+sVill
+p56
+I2
+sVkeep
+p57
+I2
+sVmisery
+p58
+I1
+sVefforts
+p59
+I1
+sVfallen
+p60
+I2
+sVamong
+p61
+I1
+sVvia
+p62
+I1
+sVlove
+p63
+I1
+sVhusbads
+p64
+I1
+sVcommunity
+p65
+I1
+sVdown
+p66
+I1
+sVinfinite
+p67
+I1
+sVnews
+p68
+I1
+sVsinging
+p69
+I1
+sVcrisis
+p70
+I1
+sVnothings
+p71
+I1
+sVamidst
+p72
+I1
+sVlive
+p73
+I1
+sVaunties
+p74
+I1
+sVfrustration
+p75
+I1
+sVangels
+p76
+I1
+sVlife
+p77
+I1
+sVhear
+p78
+I1
+sVsun
+p79
+I1
+sVwith
+p80
+I1
+sVabandoned
+p81
+I1
+sVup
+p82
+I7
+sVus
+p83
+I3
+sVruined
+p84
+I2
+sVtragedys
+p85
+I1
+sVfollowing
+p86
+I1
+sVmy
+p87
+I2
+sVhistory
+p88
+I2
+sVive
+p89
+I2
+sVhumanitarian
+p90
+I1
+sVis
+p91
+I5
+sVrubble
+p92
+I1
+sVit
+p93
+I1
+sVvoices
+p94
+I1
+sVim
+p95
+I4
+sVprayer
+p96
+I1
+sVseen
+p97
+I1
+sVcometh
+p98
+I1
+sVkenna
+p99
+I1
+sVunited
+p100
+I1
+sVna
+p101
+I1
+sVwatching
+p102
+I1
+sVstruggles
+p103
+I1
+sVtake
+p104
+I2
+sVhappens
+p105
+I1
+sVbrothers
+p106
+I1
+sVphoenix
+p107
+I1
+sVbraking
+p108
+I2
+sVupon
+p109
+I1
+sVgon
+p110
+I1
+sVmoving
+p111
+I2
+sVcoverage
+p112
+I1
+sVsisters
+p113
+I1
+sVfriends
+p114
+I1
+sVstranded
+p115
+I1
+sVanytime
+p116
+I2
+sVfiasco
+p117
+I1
+sVevery
+p118
+I1
+sVrescues
+p119
+I1
+sVurgency
+p120
+I1
+s.

@@ -1,82 +1,529 @@
-"hooked" lyrics
-snoop dogg lyrics
-"hooked"
-hey yo, soopafly
-these niggaz act like they don't know my motherfuckin' name (gangsta)
-hmm...ain't that a trip
-now i put half these niggaz on (ain't that something)
-snoop d-o double g (from the dp)
-niggaz wasn't even rapping till i came out
-you know what i'm sayin?
-y'all know what time it is
-every nigga in this rap game, to the dope game
-now i got the hook up on the dodo, for sure tho'
-but i'm not a weed seller, but a crocka sack beller
-a rap star plus a 2 time felon
-sellin' phones out the trunk i mix g with funk
-i put it all together, and rock it till it chump
-then bag it up and sag it up and then serve
-i'm always on the pager, never on the curb
-i'm big time, get mine, stay down for the grizind
-i keep it gangsta, nigga, all the tizime
-ask them niggaz, from way down south (who?)
-the boys right there with the gold in they mouth
-they'll tell ya (tell ya)
-there ain't no bullshit to sell ya
-snoop d-o double g who wannabes wannabe
-i got love for my folkers out in 'lejo
-and all my soldiers gettin' busy down in n-o
-gangsta's, get respect from me
-and all you other niggaz gettin' checked by me
-that's on the c, dpg will never break up
-there's too much motherfuckin' paper to cake up
-that's on me (dpg)
-now what?
-i'm
-now all the bitches if you with me, come get me
-i'm in room 210, don't forget to bring the gin
-that's the old fashion way, and bring a friend with ya
-so when i'm through with ya she can hit ya
-shit i ain't trippin'
-i'm dippin'
-there's money to be made
-it's funny how she layed when i told her she couldn't stay
-look here, my boo'll be through
-so you gotta raise, boy game pays
-on the next phase, gotta show to do at 4
-then i'm headed right back to the studio
-if you need the hook up
-give a nigga a holla
-i slide through your hood, in the gold impala
-drop off a sack, then i head right back
-and i hope i don't get jacked, cause you know i'm ridin' strapped
-but if the boys decide to pull me over loc
-they recognize my face, and so they go
-gangsta's get respect ya see
-all y'all other niggaz gettin' shook like fleas
-that's on the c
-dpg will never break up
-there's too much motherfuckin' paper to cake up
-that's on me
-dogg pound gangsta's
-say it with me
-say it with me
-say it with me
-say it for me
-right back at ya
-who go the hook up?
-i do
-i got the hook up
-i got the hook up
-if ya need it
-i got the hook up
-yeah
-that's gangsta
-straight up
-98
-doggy dogg
-ain't no limit to this shit
-ain't no limit to this shit nigga
-straight up
-that's gangsta
-and we out
+(dp1
+Vforget
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVmoney
+p5
+I1
+sVpound
+p6
+I1
+sVbring
+p7
+I2
+sVpaper
+p8
+I2
+sVthrough
+p9
+I1
+sVfelon
+p10
+I1
+sVgo
+p11
+I2
+sVsoldiers
+p12
+I1
+sVtizime
+p13
+I1
+sVaint
+p14
+I5
+sVbusy
+p15
+I1
+sVgold
+p16
+I2
+sVmix
+p17
+I1
+sVmuch
+p18
+I2
+sVfolkers
+p19
+I1
+sV4
+I1
+sVgangsta
+p20
+I4
+sVhope
+p21
+I1
+sVta
+p22
+I2
+sVdo
+p23
+I1
+sVhit
+p24
+I1
+sVyo
+p25
+I1
+sVget
+p26
+I5
+sVya
+p27
+I9
+sVbig
+p28
+I1
+sVdope
+p29
+I1
+sVbreak
+p30
+I2
+sVgame
+p31
+I3
+sVevery
+p32
+I1
+sVknow
+p33
+I4
+sVdecide
+p34
+I1
+sVhalf
+p35
+I1
+sVbullshit
+p36
+I1
+sVdp
+p37
+I1
+sVname
+p38
+I1
+sVtrippin
+p39
+I1
+sVfleas
+p40
+I1
+sVlike
+p41
+I2
+sVsoopafly
+p42
+I1
+sValways
+p43
+I1
+sVgettin
+p44
+I3
+sVyeah
+p45
+I1
+sVbeller
+p46
+I1
+sVbag
+p47
+I1
+sVslide
+p48
+I1
+sVphase
+p49
+I1
+sVrock
+p50
+I1
+sVwannabe
+p51
+I1
+sVyall
+p52
+I2
+sVwannabes
+p53
+I1
+sVnigga
+p54
+I4
+sVold
+p55
+I1
+sVphones
+p56
+I1
+sVhmmaint
+p57
+I1
+sVbooll
+p58
+I1
+sVsee
+p59
+I1
+sVout
+p60
+I2
+sVeven
+p61
+I1
+sVdpg
+p62
+I3
+sVwhat
+p63
+I1
+sVhooked
+p64
+I2
+sVseller
+p65
+I1
+sVit
+p66
+I1
+sVgot
+p67
+I7
+sVdoggy
+p68
+I1
+sVcause
+p69
+I1
+sVtold
+p70
+I1
+sVrapping
+p71
+I1
+sVloc
+p72
+I1
+sVnever
+p73
+I3
+sVridin
+p74
+I1
+sVstudio
+p75
+I1
+sVtrunk
+p76
+I1
+sVput
+p77
+I2
+sVstay
+p78
+I2
+sVcome
+p79
+I1
+sVsayin
+p80
+I1
+sVboy
+p81
+I1
+sVc
+I2
+sVg
+I3
+sVask
+p82
+I1
+sVkeep
+p83
+I1
+sVlejo
+p84
+I1
+sVplus
+p85
+I1
+sVact
+p86
+I1
+sVshook
+p87
+I1
+sVsouth
+p88
+I1
+sVthats
+p89
+I7
+sVdippin
+p90
+I1
+sVlove
+p91
+I1
+sVdont
+p92
+I3
+sVheaded
+p93
+I1
+sVpays
+p94
+I1
+sVsack
+p95
+I2
+sVhook
+p96
+I6
+sVright
+p97
+I4
+sVrespect
+p98
+I2
+sVcouldnt
+p99
+I1
+sVhood
+p100
+I1
+sVstrapped
+p101
+I1
+sVchecked
+p102
+I1
+sVraise
+p103
+I1
+sVsnoop
+p104
+I3
+sVdogg
+p105
+I3
+sV210
+p106
+I1
+sVgive
+p107
+I1
+sVhey
+p108
+I1
+sVnext
+p109
+I1
+sV2
+I1
+sVway
+p110
+I2
+sVgin
+p111
+I1
+sVtell
+p112
+I2
+sVfriend
+p113
+I1
+sVhead
+p114
+I1
+sVcrocka
+p115
+I1
+sVgangstas
+p116
+I3
+sVlayed
+p117
+I1
+sVbitches
+p118
+I1
+sVserve
+p119
+I1
+sVback
+p120
+I3
+sVboys
+p121
+I2
+sVfunk
+p122
+I1
+sVme
+p123
+I8
+sVpull
+p124
+I1
+sVmade
+p125
+I1
+sVroom
+p126
+I1
+sVdouble
+p127
+I2
+sVstraight
+p128
+I2
+sVdodo
+p129
+I1
+sVup
+p130
+I11
+sVniggaz
+p131
+I6
+sVlimit
+p132
+I2
+sVcake
+p133
+I2
+sVcurb
+p134
+I1
+sVimpala
+p135
+I1
+sVtheres
+p136
+I3
+sVfashion
+p137
+I1
+sVlook
+p138
+I1
+sVwasnt
+p139
+I1
+sVrecognize
+p140
+I1
+sVis
+p141
+I1
+sVsag
+p142
+I1
+sVmine
+p143
+I1
+sVsay
+p144
+I4
+sVim
+p145
+I10
+sVsomething
+p146
+I1
+sVrap
+p147
+I2
+sVneed
+p148
+I2
+sVtrip
+p149
+I1
+sVshit
+p150
+I3
+sVsell
+p151
+I1
+sVfunny
+p152
+I1
+sVtheyll
+p153
+I1
+sVsellin
+p154
+I1
+sVtill
+p155
+I2
+sVmotherfuckin
+p156
+I3
+sVsure
+p157
+I1
+sVstar
+p158
+I1
+sVholla
+p159
+I1
+sVwho
+p160
+I1
+sVweed
+p161
+I1
+sVmouth
+p162
+I1
+sVgrizind
+p163
+I1
+sVchump
+p164
+I1
+sVpager
+p165
+I1
+sVjacked
+p166
+I1
+sVdrop
+p167
+I1
+sV98
+p168
+I1
+sVno
+p169
+I1
+sVtogether
+p170
+I1
+sVface
+p171
+I1
+sVtho
+p172
+I1
+sVtime
+p173
+I3
+sVcame
+p174
+I1
+s.

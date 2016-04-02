@@ -1,61 +1,550 @@
-"all that" lyrics
-mc lyte lyrics
-"all that"
-there's a song.. that i sing.. whenever i'm sad.. feelin bad
-it was a date, a simple little fuckin date
-or so i thought, wasn't that my great mistake
-he picked me up at eight, from my crib
-we went to dinner and he ordered babyback ribs
-what a waste, a waste of the mind and body
-and then he said, "lyte, would you like to go and party?"
-i thought about it, and then i said, "no!
-pay for my food motherfucker and let's go!"
-he said, "my, aren't we agressive.."
-damn right, and i'm also perceptive
-i know your kind, you roam around the fuckin town
-you wanna slap it, flip it, and rub it down
-you want some booty but you're gettin none this way
-you better ask suzy sally or that girl fay
-you gets none, you hear me you cheesy rat?
-because i'm lyte, and i'm havin none of that
-i'm all that, yes i'm all that
-you ask how?  i'm all that now
-i'm all of that, yes i'm all that
-and rollin through your hood with a baseball bat
-first i head out, into the red-eyed
-turn the ac, so it feels cool inside
-step in the jam, baring good news
-although for some folks, i bring the blues
-always solo, no relyin on a posse
-i see what you see, do you see what i see?
-i see suckers, many pucker-uppers
-ass-kissers, as well as buttlickers
-many many that will do me good and plenty
-don't know me from adam, but wanna get with me
-claimin they will do or have done or have did me
-talkin that yang, your ass'll get slapped
-because i'm lyte and i'm havin none of that
-that!! that!!
-aiyyo milk, aiyyo milk, this is teddy b
-yo i just checked out lyte's new cut (that!! that!!)
-and yo it's all that, all that
-yo i get with you, peace!
-back, way back when, shit wasn't funny
-i'm talkin l-q days, your gold and your money
-if you wore gold, the shit was gettin taken
-hard rocks, don't even bother fakin
-cause they can sense a sucker as soon as they saw ya
-and oh well, how i felt sorry for the
-razor in my pocket, for my protection
-blackjack in my bag for a little selection
-you got beef?  bitch, chose your weapon
-i sliced and diced, and then i kept steppin
-for me to go for that woulda just been wack
-because i'm lyte, and i'm havin none of that
-(that!! that!!)
-yo yo, yo lyte, you there?
-(that!! that!!)
-alright i just called to see if you was still shittin on wax
-yo and don't make that shit soft alright?
-yo pump it up
-alright when you get in just give me a buzz
+(dp1
+Vpeace
+p2
+I1
+sVlyrics
+p3
+I2
+sVya
+p4
+I1
+sVmoney
+p5
+I1
+sVsoon
+p6
+I1
+sVbring
+p7
+I1
+sVperceptive
+p8
+I1
+sVgo
+p9
+I3
+sVyes
+p10
+I2
+sVstill
+p11
+I1
+sVmilk
+p12
+I2
+sVcut
+p13
+I1
+sVgold
+p14
+I2
+sVbetter
+p15
+I1
+sVhavin
+p16
+I3
+sVlets
+p17
+I1
+sVjam
+p18
+I1
+sVlq
+p19
+I1
+sVfolks
+p20
+I1
+sVsorry
+p21
+I1
+sVme
+p22
+I2
+sVfay
+p23
+I1
+sVaround
+p24
+I1
+sVyo
+p25
+I8
+sVsong
+p26
+I1
+sVfood
+p27
+I1
+sVsucker
+p28
+I1
+sVkind
+p29
+I1
+sVwoulda
+p30
+I1
+sVfeelin
+p31
+I1
+sVpocket
+p32
+I1
+sVfeels
+p33
+I1
+sVknow
+p34
+I2
+sVgot
+p35
+I1
+sVnow
+p36
+I1
+sVpuckeruppers
+p37
+I1
+sVcool
+p38
+I1
+sVsliced
+p39
+I1
+sVbat
+p40
+I1
+sVgets
+p41
+I1
+sVlike
+p42
+I1
+sValways
+p43
+I1
+sVgettin
+p44
+I2
+sVrocks
+p45
+I1
+sVbag
+p46
+I1
+sVbad
+p47
+I1
+sVwent
+p48
+I1
+sVsoft
+p49
+I1
+sVbother
+p50
+I1
+sVright
+p51
+I1
+sVbooty
+p52
+I1
+sVclaimin
+p53
+I1
+sVhard
+p54
+I1
+sVback
+p55
+I2
+sVup
+p56
+I1
+sVsee
+p57
+I6
+sVsteppin
+p58
+I1
+sVpicked
+p59
+I1
+sVgirl
+p60
+I1
+sVbuzz
+p61
+I1
+sVeven
+p62
+I1
+sVsaid
+p63
+I3
+sVblues
+p64
+I1
+sVposse
+p65
+I1
+sVslapped
+p66
+I1
+sVpump
+p67
+I1
+sVnew
+p68
+I1
+sVsuckers
+p69
+I1
+sVcause
+p70
+I1
+sVbody
+p71
+I1
+sVsolo
+p72
+I1
+sVdiced
+p73
+I1
+sVfelt
+p74
+I1
+sVchose
+p75
+I1
+sVrazor
+p76
+I1
+sVrub
+p77
+I1
+sVmotherfucker
+p78
+I1
+sVbaring
+p79
+I1
+sVstep
+p80
+I1
+sVprotection
+p81
+I1
+sVbaseball
+p82
+I1
+sValthough
+p83
+I1
+sVask
+p84
+I2
+sVsing
+p85
+I1
+sVgreat
+p86
+I1
+sVbeef
+p87
+I1
+sVoh
+p88
+I1
+sVmany
+p89
+I3
+sVribs
+p90
+I1
+sVdays
+p91
+I1
+sVturn
+p92
+I1
+sVdinner
+p93
+I1
+sVarent
+p94
+I1
+sVroam
+p95
+I1
+sVrelyin
+p96
+I1
+sVmistake
+p97
+I1
+sVshittin
+p98
+I1
+sVfuckin
+p99
+I2
+sVfirst
+p100
+I1
+sVwack
+p101
+I1
+sVasskissers
+p102
+I1
+sVdont
+p103
+I3
+sVassll
+p104
+I1
+sVsimple
+p105
+I1
+sVcrib
+p106
+I1
+sVdown
+p107
+I1
+sVdone
+p108
+I1
+sVbitch
+p109
+I1
+sVnews
+p110
+I1
+sVcheesy
+p111
+I1
+sVhood
+p112
+I1
+sVwan
+p113
+I2
+sVlittle
+p114
+I2
+sVchecked
+p115
+I1
+sVwould
+p116
+I1
+sVteddy
+p117
+I1
+sVlyte
+p118
+I6
+sVthere
+p119
+I1
+sVdamn
+p120
+I1
+sVway
+p121
+I2
+sVwax
+p122
+I1
+sVtaken
+p123
+I1
+sVwaste
+p124
+I2
+sVselection
+p125
+I1
+sVhead
+p126
+I1
+sVthat
+p127
+I9
+sVhear
+p128
+I1
+sVtown
+p129
+I1
+sVnone
+p130
+I5
+sVb
+I1
+sVwore
+p131
+I1
+sVmc
+p132
+I1
+sVinside
+p133
+I1
+sVflip
+p134
+I1
+sVfakin
+p135
+I1
+sVcalled
+p136
+I1
+sVtheres
+p137
+I1
+sVac
+p138
+I1
+sVordered
+p139
+I1
+sVgive
+p140
+I1
+sVwasnt
+p141
+I2
+sVmind
+p142
+I1
+sVslap
+p143
+I1
+sVsad
+p144
+I1
+sVrat
+p145
+I1
+sVgood
+p146
+I2
+sVim
+p147
+I14
+sVwant
+p148
+I1
+sVsense
+p149
+I1
+sVsaw
+p150
+I1
+sVbabyback
+p151
+I1
+sVshit
+p152
+I3
+sVfunny
+p153
+I1
+sVno
+p154
+I1
+sVna
+p155
+I2
+sVmake
+p156
+I1
+sVget
+p157
+I4
+sVlytes
+p158
+I1
+sValso
+p159
+I1
+sVparty
+p160
+I1
+sVredeyed
+p161
+I1
+sVagressive
+p162
+I1
+sVtalkin
+p163
+I2
+sVsuzy
+p164
+I1
+sVbuttlickers
+p165
+I1
+sVaiyyo
+p166
+I2
+sVeight
+p167
+I1
+sVplenty
+p168
+I1
+sVdate
+p169
+I2
+sVsally
+p170
+I1
+sVkept
+p171
+I1
+sVwhenever
+p172
+I1
+sVweapon
+p173
+I1
+sVyoure
+p174
+I1
+sVwell
+p175
+I2
+sVrollin
+p176
+I1
+sVthought
+p177
+I2
+sVyang
+p178
+I1
+sVadam
+p179
+I1
+sVpay
+p180
+I1
+sValright
+p181
+I3
+sVthe
+p182
+I1
+sVblackjack
+p183
+I1
+s.

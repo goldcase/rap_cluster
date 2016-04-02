@@ -1,82 +1,618 @@
-"the best of both worlds" lyrics
-jay-z lyrics
-"the best of both worlds"
-yeah, yeah, it's here niggaz! (wooo-weee!)
-rockland/roc-a-fella collaboration
-what, what, what, what..
-tone the referee - the best of both worlds
-welcome to the best of both worlds
-r. kelly
-chi-town
-let's just start frontin on 'em right away (c'mon jay)
-i pull up with the big boy truck, nigga big boy drop
-we be the only big boys that the big boys watch
-sing to 'em kelly
-best of.. both worlds.. (rock for 'em hov')
-the combination of pappy mason and larry davis
-martin and malcolm, this is the bigger than the album
-r-ah
-oh yeah
-the best of (best of both) both worlds - ohhhhhhh!
-i got a million on that boy singin whatever on the flow
-y'all got cheddar to blow, whatever, let a nigga know
-kel's
-the best of..
-back and forth, back and forth, let's do it
-.. both worlds (rock for 'em hov')
-it's not even close, just leave it alone
-i'm michael jordan, i play for the team i own
-sing to 'em kel'
-the best of.. both worlds - ohhhhhhh!
-young.. h - flow feared in fifty states
-young.. kel's - nigga the best of both worlds
-holla
-the best of..
-just get gangsta with a nigga
-.. both worlds
-just get gangsta with it (rock for 'em hov')
-you can't possibly think you can stop this
-it's prophecy; plus i feel like the nigga big watchin me
-kel..
-best of.. both worlds
-stop playin with these niggaz, talk to 'em!
-this is for my niggaz down bottom and them hustlers on twenty-two's
-single parent mothers in the hood is who i'm talkin to
-i know it's rough in the ghetto but let me walk witchu
-talk witchu, uh-huh, yeah-hea
-and for the ones who put you down and said you wouldn't make it
-but you still held your ground and came up out that basement
-in the memory of those that we lost, it's deicated
-we miss y'all, uh-huh, yeah-hea
-this right here this whole album's..
-in the memory of all our fallen soldiers (uh-huh)
-we lost along the way (ohhhhhoooh) knahmsayin, ghetto to ghetto
-city to city, worldwide, we got y'all, y'knahmean?
-(ghetto america) this album right here represents strength
-(ohhhh! yeahhh) strength in our people, understand it
-cock-suckers can not touch us, the block love us
-we got the ghetto on our back muh'fuckers
-the best of..
-yeah, right
-both worlds (rock for 'em hov')
-we got this locked for two reasons: we from the hood
-plus we promised both our mommas that we would
-kel - take 'em to church
-the best of.. both worlds - ohhhhhhh!
-we mastered this, don't you know
-i eat beef and breathe acid, weak bastards
-we copped and we crash it
-then we cop again cause we are classic
-let me speak for ya r we "scarface" re-enacted
-"the godfather" trilogy re-casted
-but it's real like we grievin for aaliyah with the masses
-but i hope my boy dash get to see it when he passes
-i feel her soul when the lee passes
-when the wind blows, it's almost like i see her in the hamptons
-even more reason to be up in them mansions
-laid back, feet up in the hammock, i'ma live for ya
-big too, 'til they put me in the grave
-i'ma floss 'til they toss me a bed-stuy parade
-'til chi-town make a nigga mayor for a day
-in the memory of joanne kelly, let us pray
-both worlds... welcome to the best of both worlds
+(dp1
+Vlyrics
+p2
+I2
+sVcheddar
+p3
+I1
+sVfifty
+p4
+I1
+sVheld
+p5
+I1
+sVtouch
+p6
+I1
+sVsoldiers
+p7
+I1
+sVrough
+p8
+I1
+sVstill
+p9
+I1
+sValbums
+p10
+I1
+sVground
+p11
+I1
+sVblow
+p12
+I1
+sVrecasted
+p13
+I1
+sVjoanne
+p14
+I1
+sVjay
+p15
+I1
+sVpray
+p16
+I1
+sVmasses
+p17
+I1
+sVyoung
+p18
+I2
+sVto
+p19
+I1
+sVlets
+p20
+I2
+sVkels
+p21
+I2
+sVgangsta
+p22
+I2
+sVteam
+p23
+I1
+sVhope
+p24
+I1
+sVtake
+p25
+I1
+sVreal
+p26
+I1
+sVcrash
+p27
+I1
+sVcombination
+p28
+I1
+sVget
+p29
+I3
+sVya
+p30
+I2
+sVbig
+p31
+I6
+sVrock
+p32
+I4
+sVstop
+p33
+I2
+sVpossibly
+p34
+I1
+sVyeahhea
+p35
+I2
+sVfrontin
+p36
+I1
+sVbastards
+p37
+I1
+sVknow
+p38
+I3
+sVbasement
+p39
+I1
+sVday
+p40
+I1
+sVbigger
+p41
+I1
+sVghetto
+p42
+I5
+sVworlds
+p43
+I15
+sVlike
+p44
+I3
+sVlost
+p45
+I2
+sVmothers
+p46
+I1
+sVh
+I1
+sVdrop
+p47
+I1
+sVmichael
+p48
+I1
+sVleave
+p49
+I1
+sVreasons
+p50
+I1
+sVmastered
+p51
+I1
+sVmartin
+p52
+I1
+sVmayor
+p53
+I1
+sVyall
+p54
+I3
+sVem
+p55
+I9
+sVdeicated
+p56
+I1
+sVright
+p57
+I4
+sVparade
+p58
+I1
+sVpeople
+p59
+I1
+sVcopped
+p60
+I1
+sVyeah
+p61
+I4
+sVsoul
+p62
+I1
+sVsee
+p63
+I2
+sVus
+p64
+I3
+sVclose
+p65
+I1
+sVyknahmean
+p66
+I1
+sVrocklandrocafella
+p67
+I1
+sVfeared
+p68
+I1
+sValbum
+p69
+I2
+sVwhat
+p70
+I1
+sVsaid
+p71
+I1
+sVbottom
+p72
+I1
+sVaway
+p73
+I1
+sVtil
+p74
+I3
+sVmason
+p75
+I1
+sVreenacted
+p76
+I1
+sVlaid
+p77
+I1
+sVhammock
+p78
+I1
+sVgot
+p79
+I5
+sVforth
+p80
+I2
+sVwatchin
+p81
+I1
+sVwitchu
+p82
+I2
+sVima
+p83
+I2
+sVkel
+p84
+I3
+sVlee
+p85
+I1
+sVparent
+p86
+I1
+sVpasses
+p87
+I2
+sVmillion
+p88
+I1
+sVweak
+p89
+I1
+sVwoooweee
+p90
+I1
+sVaaliyah
+p91
+I1
+sVsingin
+p92
+I1
+sVlet
+p93
+I4
+sVfloss
+p94
+I1
+sValone
+p95
+I1
+sVsing
+p96
+I2
+sValong
+p97
+I1
+sVboy
+p98
+I4
+sValmost
+p99
+I1
+sVyeahhh
+p100
+I1
+sVwouldnt
+p101
+I1
+sVoh
+p102
+I1
+sVof
+p103
+I3
+sVreason
+p104
+I1
+sVhustlers
+p105
+I1
+sVplus
+p106
+I2
+sVdavis
+p107
+I1
+sVknahmsayin
+p108
+I1
+sVwhole
+p109
+I1
+sVthink
+p110
+I1
+sVblock
+p111
+I1
+sVown
+p112
+I1
+sVtone
+p113
+I1
+sVdont
+p114
+I1
+sVfeel
+p115
+I2
+sVmalcolm
+p116
+I1
+sVwhatever
+p117
+I2
+sVwalk
+p118
+I1
+sVfeet
+p119
+I1
+sVput
+p120
+I2
+sVjayz
+p121
+I1
+sVnigga
+p122
+I6
+sVchurch
+p123
+I1
+sVblows
+p124
+I1
+sVuhhuh
+p125
+I3
+sVmiss
+p126
+I1
+sVhood
+p127
+I2
+sVspeak
+p128
+I1
+sVcity
+p129
+I2
+sVgrievin
+p130
+I1
+sVwould
+p131
+I1
+sVtrilogy
+p132
+I1
+sVtwo
+p133
+I1
+sVstart
+p134
+I1
+sVlive
+p135
+I1
+sVhamptons
+p136
+I1
+sVway
+p137
+I1
+sVmemory
+p138
+I3
+sVbreathe
+p139
+I1
+sVdash
+p140
+I1
+sVreferee
+p141
+I1
+sVohhhhhhh
+p142
+I3
+sVcop
+p143
+I1
+sVback
+p144
+I4
+sVboys
+p145
+I2
+sVlarry
+p146
+I1
+sVjordan
+p147
+I1
+sVprophecy
+p148
+I1
+sVeat
+p149
+I1
+sVme
+p150
+I1
+sVpull
+p151
+I1
+sVmuhfuckers
+p152
+I1
+sVlocked
+p153
+I1
+sVthis
+p154
+I1
+sVsingle
+p155
+I1
+sVniggaz
+p156
+I3
+sVmommas
+p157
+I1
+sVr
+I2
+sVrepresents
+p158
+I1
+sVscarface
+p159
+I1
+sVmansions
+p160
+I1
+sVlove
+p161
+I1
+sVcmon
+p162
+I1
+sVclassic
+p163
+I1
+sVtwentytwos
+p164
+I1
+sVtoss
+p165
+I1
+sVit
+p166
+I4
+sVrah
+p167
+I1
+sVstates
+p168
+I1
+sVcant
+p169
+I1
+sVim
+p170
+I2
+sVpromised
+p171
+I1
+sVplayin
+p172
+I1
+sVbedstuy
+p173
+I1
+sVohhhh
+p174
+I1
+sVholla
+p175
+I1
+sVstrength
+p176
+I2
+sVcause
+p177
+I1
+sVmake
+p178
+I2
+sVhov
+p179
+I4
+sVbest
+p180
+I15
+sVpappy
+p181
+I1
+sVgodfather
+p182
+I1
+sVtalkin
+p183
+I1
+sVworldwide
+p184
+I1
+sVeven
+p185
+I2
+sVplay
+p186
+I1
+sVbeef
+p187
+I1
+sVchitown
+p188
+I2
+sVwatch
+p189
+I1
+sVcollaboration
+p190
+I1
+sVwelcome
+p191
+I2
+sVohhhhhoooh
+p192
+I1
+sVwind
+p193
+I1
+sVamerica
+p194
+I1
+sVgrave
+p195
+I1
+sVacid
+p196
+I1
+sVfallen
+p197
+I1
+sVflow
+p198
+I2
+sVcocksuckers
+p199
+I1
+sVones
+p200
+I1
+sVtruck
+p201
+I1
+sVcame
+p202
+I1
+sVkelly
+p203
+I3
+sVunderstand
+p204
+I1
+sVtalk
+p205
+I2
+s.

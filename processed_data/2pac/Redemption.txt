@@ -1,33 +1,65 @@
-"redemption" lyrics
-2pac lyrics
-"redemption"
-hahahahaha!
-(thug life bitch, goin out like that)
-once again! hahaha!
-once again! hahaha!
-(thug life bitch)
-y'all can't kill me!
-(goin out like that)
-hahahaha!
-y'all can't kill me! *lower pitch*
-y'all can't kill me! *lower pitch*
-open fire on you niggaz
-(thug life bitch)
-y'all can't kill me! hahahaha
-(goin out like that)
-once again! hahaha!
-once again! hahaha!
-(thug life bitch, goin out like that)
-open fire on you niggaz *lower pitch*
-y'all can't kill me! *lower pitch*
-once again! hahaha!
-(thug life bitch, goin out like that)
-(thug life bitch, goin out like that)
-y'all can't kill me!
-once again! hahaha!
-open fire on you niggaz *lower pitch*
-once again! hahaha!
-y'all can't kill me!
-y'all can't kill me! hahahaha
-y'all can't kill me! *lower pitch*
-(thug life bitch, goin out like that)
+(dp1
+Vme
+p2
+I3
+sVlife
+p3
+I7
+sVhahahahaha
+p4
+I1
+sVredemption
+p5
+I2
+sVlyrics
+p6
+I2
+sVthat
+p7
+I7
+sVfire
+p8
+I3
+sVpitch
+p9
+I6
+sVyall
+p10
+I9
+sVniggaz
+p11
+I3
+sVlike
+p12
+I7
+sVhahahaha
+p13
+I3
+sVcant
+p14
+I9
+sVlower
+p15
+I6
+sVkill
+p16
+I9
+sVbitch
+p17
+I7
+sVhahaha
+p18
+I7
+sVthug
+p19
+I7
+sVopen
+p20
+I3
+sV2pac
+p21
+I1
+sVgoin
+p22
+I7
+s.

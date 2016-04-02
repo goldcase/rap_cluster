@@ -1,78 +1,522 @@
-"let's get crazy" lyrics
-slick rick lyrics
-"let's get crazy"
-get, get, get, get, get a lil' stupid (let's get crazy!)
-get, get, get, get, get a lil' stupid (let's get crazy!)
-get, get, get, get (let's get crazy!)
-get, get, get, get, get a lil' stupid (let's get crazy!)
-well it's me, and it's time to mingle
-so wake up world and bus' out my new single
-i take dead bodies and i boost them up live
-so straighten up and be alert because the ruler's arrived
-no {not uncle sam} but i can still recruit
-as {hip-hop commander} of the people's troop
-so troop be troopers and follow commands
-cuz' {no one can rule like the ruler rick can}
-though some like it hot and some may like the shock
-so let's get together what i mean is rock
-no vanity, insanity {strictly cloud}
-now put your hands together and scream and shout
-{go slick rick!} and then go bizerk
-but {keep it at a limit so no one gets hurt}
-and don't be boring please not lazy
-my jam's packed so let's get crazy
-get a lil' stupid (let's get crazy!)
-get, get, get a lil' stupid (let's get crazy!)
-get, get, get a lil' stupid (let's get crazy!)
-get, get, get, get a lil' stupid (let's get crazy!)
-the original, that's the title i've earned
-anybody disagreeing been burnt' and learnt'
-told a theif straighten up as i humble hell
-and i {bring a little rhythm} wherever i dwell
-cuz' the door's wide open and i'm taking a chance
-as i dip through europe and i'm going to (france)
-now i always may try and play like full of fun
-but in this type of rap i number one
-not number (two) on a wild-style blizzard
-and if i was in the oz i'd be (slick rick the wizzard)
-or some yound man named mc ricky d
-and no fool can say they created me
-so wild child, lets go bizerk
-but keep it at a limit so no one gets hurt
-and don't freeload cuz' i'm not lazy
-my jam's packed so let's get crazy
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-oh my god!
-oh my god!
-oh my god!
-excuse me doug e. fresh (yes)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-well we're in the last station of the final chapter
-{oh ricky don't go} but you know that i have to
-so tell me daily news and all the magazines
-(ricky d's in control) of what? (hip-hop scene)
-uptown downtown the man's rated supreme
-if martin luther were here he'd say (hey rick i had a dream)
-and if i'm at a jam it must be pumping
-people dwell us light cuz' it's them i'm stomping
-so y'all be adventurous (shake and twist)
-i insist that this will bring more than just bliss
-a posse's and crewies' (is the size you best)
-it's time to get (stupid), what i mean is (fresh)
-hey wild child lets go bizerk
-but keep it at a limit so no one gets hurt
-and don't be a crumb and try to phase me
-my jam's stacked so lets get crazy
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
-get a lil' stupid (let's get crazy!)
+(dp1
+Vmingle
+p2
+I1
+sVlyrics
+p3
+I2
+sVoh
+p4
+I4
+sVbring
+p5
+I2
+sVshake
+p6
+I1
+sVgo
+p7
+I5
+sVhell
+p8
+I1
+sVyes
+p9
+I1
+sVstill
+p10
+I1
+sVtitle
+p11
+I1
+sVdaily
+p12
+I1
+sVoriginal
+p13
+I1
+sVcuz
+p14
+I4
+sVyound
+p15
+I1
+sVadventurous
+p16
+I1
+sVwizzard
+p17
+I1
+sVto
+p18
+I1
+sVshout
+p19
+I1
+sVgoing
+p20
+I1
+sVbliss
+p21
+I1
+sVrick
+p22
+I5
+sVrhythm
+p23
+I1
+sVsupreme
+p24
+I1
+sVfool
+p25
+I1
+sVget
+p26
+I75
+sVruler
+p27
+I1
+sVwildstyle
+p28
+I1
+sVscene
+p29
+I1
+sVknow
+p30
+I1
+sVhands
+p31
+I1
+sVworld
+p32
+I1
+sVburnt
+p33
+I1
+sVds
+p34
+I1
+sVvanity
+p35
+I1
+sVlike
+p36
+I4
+sValways
+p37
+I1
+sVshock
+p38
+I1
+sVtry
+p39
+I2
+sVstupid
+p40
+I23
+sVtroop
+p41
+I2
+sVrock
+p42
+I1
+sVdip
+p43
+I1
+sVyall
+p44
+I1
+sVmean
+p45
+I2
+sVpeople
+p46
+I1
+sVdead
+p47
+I1
+sVstraighten
+p48
+I2
+sVfollow
+p49
+I1
+sVpacked
+p50
+I2
+sVlearnt
+p51
+I1
+sVgod
+p52
+I3
+sVplease
+p53
+I1
+sVslick
+p54
+I3
+sVbest
+p55
+I1
+sVricky
+p56
+I3
+sVnew
+p57
+I1
+sVboost
+p58
+I1
+sVtold
+p59
+I1
+sVeurope
+p60
+I1
+sVlazy
+p61
+I2
+sVfull
+p62
+I1
+sVmartin
+p63
+I1
+sVpumping
+p64
+I1
+sVwild
+p65
+I2
+sVput
+p66
+I1
+sVnews
+p67
+I1
+sValert
+p68
+I1
+sVchapter
+p69
+I1
+sVjam
+p70
+I1
+sVcommands
+p71
+I1
+sVmans
+p72
+I1
+sVlast
+p73
+I1
+sVjams
+p74
+I3
+sVtaking
+p75
+I1
+sVearned
+p76
+I1
+sVwherever
+p77
+I1
+sVchance
+p78
+I1
+sVkeep
+p79
+I3
+sVoz
+p80
+I1
+sVthats
+p81
+I1
+sVnamed
+p82
+I1
+sVdont
+p83
+I4
+sVblizzard
+p84
+I1
+sVnumber
+p85
+I2
+sVinsist
+p86
+I1
+sVone
+p87
+I5
+sVd
+I1
+sVmagazines
+p88
+I1
+sVtype
+p89
+I1
+sVuptown
+p90
+I1
+sVopen
+p91
+I1
+sVcloud
+p92
+I1
+sVsize
+p93
+I1
+sVlittle
+p94
+I1
+sVrated
+p95
+I1
+sVtheif
+p96
+I1
+sVstrictly
+p97
+I1
+sVlets
+p98
+I31
+sVfrance
+p99
+I1
+sVhed
+p100
+I1
+sVlive
+p101
+I1
+sVstation
+p102
+I1
+sVdwell
+p103
+I2
+sVtroopers
+p104
+I1
+sVfinal
+p105
+I1
+sVbus
+p106
+I1
+sVluther
+p107
+I1
+sVhurt
+p108
+I3
+sVdowntown
+p109
+I1
+sVexcuse
+p110
+I1
+sVcrewies
+p111
+I1
+sVuncle
+p112
+I1
+sVchild
+p113
+I2
+sVbizerk
+p114
+I3
+sVmust
+p115
+I1
+sVme
+p116
+I2
+sVwide
+p117
+I1
+sVcrumb
+p118
+I1
+sVmc
+p119
+I1
+sVboring
+p120
+I1
+sVcreated
+p121
+I1
+sVrecruit
+p122
+I1
+sVus
+p123
+I1
+sVtell
+p124
+I1
+sVlimit
+p125
+I3
+sVcan
+p126
+I1
+sVfun
+p127
+I1
+sVsay
+p128
+I2
+sVcontrol
+p129
+I1
+sVive
+p130
+I1
+sVcrazy
+p131
+I28
+sVsam
+p132
+I1
+sVstomping
+p133
+I1
+sVdoug
+p134
+I1
+sVcommander
+p135
+I1
+sVtwist
+p136
+I1
+sVrulers
+p137
+I1
+sVsingle
+p138
+I1
+sVim
+p139
+I5
+sVrule
+p140
+I1
+sVrap
+p141
+I1
+sVid
+p142
+I1
+sVlil
+p143
+I22
+sVhot
+p144
+I1
+sVtake
+p145
+I1
+sVdoors
+p146
+I1
+sVpeoples
+p147
+I1
+sVgets
+p148
+I3
+sVstacked
+p149
+I1
+sVplay
+p150
+I1
+sVfreeload
+p151
+I1
+sVhey
+p152
+I2
+sVthough
+p153
+I1
+sVmay
+p154
+I2
+sVinsanity
+p155
+I1
+sVhiphop
+p156
+I2
+sVarrived
+p157
+I1
+sVtwo
+p158
+I1
+sVfresh
+p159
+I2
+sVphase
+p160
+I1
+sVman
+p161
+I1
+sVe
+I1
+sVlight
+p162
+I1
+sVhumble
+p163
+I1
+sVwell
+p164
+I2
+sVanybody
+p165
+I1
+sVtogether
+p166
+I2
+sVdisagreeing
+p167
+I1
+sVtime
+p168
+I2
+sVwake
+p169
+I1
+sVdream
+p170
+I1
+sVscream
+p171
+I1
+sVbodies
+p172
+I1
+sVposses
+p173
+I1
+s.

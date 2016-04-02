@@ -1,81 +1,637 @@
-"keep it movin'" lyrics
-mc lyte lyrics
-"keep it movin'"
-(feat. payne)
-yeah, hmm-huh
-hmm-huh, yeah
-yeah
-she's arrived, miss hotness
-all up in the limo, yeah me and my partners
-got a lot of dough like it's supposed to be
-they smell it and they want to come close to me
-they see me at the club try approaching me
-sending notes to me, want to toast to me
-stop, i got a lot of history
-that you need to know before you start kissing me
-i'm a libra and if you tip my scales
-you'll be riding on the third rail ready to bail, shhhh
-i give them hell when they copy my sounds
-trying to rock me ‘round when they be knocking me downtown
-quick to bed, want to know what i said
-off the top of the head cause i'm living on the edge
-ain't that rough now you know what's up
-it's the ride of your life, now buckle up, come on
-you got to be special to get down with me
-if you're not (if you're not)
-keep it movin' (keep it movin')
-all the negativity don't bring that to me
-if you are (if you are)
-keep it movin' (keep it movin')
-ain't no mediocre here, you're dealing with the top
-when you're coming for my spot, i'm as light as a rock
-when you enter my world, well bring the whole house down
-i'm the chosen girl with the golden sound
-i'm feisty, ain't nobody as nice as me
-precisely, killing them all softly when they shiesty
-got crazy ways to stay crazy paid
-so all lazy days my seeds don't fade away
-i got rhymes that be late for those that want to play
-rhymes on lay-way for those who can't pay
-i switch mode wild west episode, overload
-everybody wants to know a horse like rowe
-gitty up, put your money where your tongue rest
-is it jane west or loveless
-i guess it will be the last man on the street
-holding the heat, standing in middle of the street, come on
-keep it on them
-case closed, everyone knows
-i'm the best at what i do
-so you better never doze
-i rock your bulge and those mc's
-that any track no room to breath
-ain't no replacing me, stop chasing me
-not knowing how to act when you're facing me
-oh you wanna roll with me, ride shotgun
-look hun do you got more to drop some
-can't hustle with the hustler
-bout to go up in your mouth
-get your jugular, i strategize and lock them in
-box them in so tight they need oxygen
-ooh please you're not next to me
-baby icons keeping you guessing b
-if you've never been impressed by me
-just mess with me, that's the recipe
-to get blessed from me
-all that right there
-(keep it movin')
-for all you non-believers
-(keep it movin')
-if you not on my level
-(keep it movin')
-i ain't got time for that there
-(keep it movin')
-if you're not nice with yours
-(keep it movin')
-talking that yang put it on pause
-(keep it movin')
-if you not about them papers
-(keep it movin')
-you catch up with me lataz
-(keep it movin')
-keep it movin'
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVrecipe
+p4
+I1
+sVrest
+p5
+I1
+sVbring
+p6
+I2
+sVdough
+p7
+I1
+sVgo
+p8
+I1
+sVhell
+p9
+I1
+sVrough
+p10
+I1
+sVfeat
+p11
+I1
+sVhustler
+p12
+I1
+sVlayway
+p13
+I1
+sVtoast
+p14
+I1
+sVpartners
+p15
+I1
+sVcopy
+p16
+I1
+sVicons
+p17
+I1
+sVchosen
+p18
+I1
+sVlate
+p19
+I1
+sVlibra
+p20
+I1
+sVfade
+p21
+I1
+sVriding
+p22
+I1
+sVbout
+p23
+I1
+sVgitty
+p24
+I1
+sVsound
+p25
+I1
+sVthem
+p26
+I1
+sVget
+p27
+I3
+sVstop
+p28
+I2
+sVknow
+p29
+I4
+sVnot
+p30
+I1
+sVworld
+p31
+I1
+sVlook
+p32
+I1
+sVlike
+p33
+I2
+sVoxygen
+p34
+I1
+sVlevel
+p35
+I1
+sVbulge
+p36
+I1
+sVyoull
+p37
+I1
+sVnotes
+p38
+I1
+sVdrop
+p39
+I1
+sVtry
+p40
+I1
+sVsoftly
+p41
+I1
+sVmode
+p42
+I1
+sVrock
+p43
+I3
+sVquick
+p44
+I1
+sVhotness
+p45
+I1
+sVapproaching
+p46
+I1
+sVguessing
+p47
+I1
+sVeveryone
+p48
+I1
+sVmess
+p49
+I1
+sVbe
+p50
+I1
+sVdo
+p51
+I1
+sVdealing
+p52
+I1
+sVjugular
+p53
+I1
+sVsome
+p54
+I1
+sVyeah
+p55
+I4
+sVstanding
+p56
+I1
+sVsee
+p57
+I1
+sVstreet
+p58
+I2
+sVshes
+p59
+I1
+sVclose
+p60
+I1
+sVgirl
+p61
+I1
+sVspecial
+p62
+I1
+sVliving
+p63
+I1
+sVmovin
+p64
+I15
+sVhmmhuh
+p65
+I2
+sVways
+p66
+I1
+sVbail
+p67
+I1
+sVaway
+p68
+I1
+sVplease
+p69
+I1
+sVoverload
+p70
+I1
+sVcase
+p71
+I1
+sVclosed
+p72
+I1
+sVgot
+p73
+I7
+sVcause
+p74
+I1
+sVhustle
+p75
+I1
+sVknowing
+p76
+I1
+sVaint
+p77
+I5
+sVlazy
+p78
+I1
+sV\u2018round
+p79
+I1
+sVwan
+p80
+I1
+sVspot
+p81
+I1
+sVnever
+p82
+I2
+sVfeisty
+p83
+I1
+sVguess
+p84
+I1
+sVkilling
+p85
+I1
+sVpause
+p86
+I1
+sVput
+p87
+I2
+sVtalking
+p88
+I1
+sVcome
+p89
+I3
+sVbox
+p90
+I1
+sVon
+p91
+I2
+sVlast
+p92
+I1
+sVoh
+p93
+I1
+sVdays
+p94
+I1
+sVkeep
+p95
+I16
+sVseeds
+p96
+I1
+sVact
+p97
+I1
+sVdoze
+p98
+I1
+sVmouth
+p99
+I1
+sVtongue
+p100
+I1
+sVhistory
+p101
+I1
+sVwhole
+p102
+I1
+sVtop
+p103
+I2
+sVthats
+p104
+I1
+sVgolden
+p105
+I1
+sVwhats
+p106
+I1
+sVdont
+p107
+I2
+sVscales
+p108
+I1
+sVloveless
+p109
+I1
+sVknocking
+p110
+I1
+sVblessed
+p111
+I1
+sVdown
+p112
+I1
+sVna
+p113
+I1
+sVright
+p114
+I1
+sVlimo
+p115
+I1
+sVsounds
+p116
+I1
+sVprecisely
+p117
+I1
+sVmiss
+p118
+I1
+sVeverybody
+p119
+I1
+sVbetter
+p120
+I1
+sVhorse
+p121
+I1
+sVrhymes
+p122
+I2
+sVshhhh
+p123
+I1
+sVlyte
+p124
+I1
+sVwest
+p125
+I2
+sVbuckle
+p126
+I1
+sVthere
+p127
+I2
+sVnext
+p128
+I1
+sVbreath
+p129
+I1
+sVstart
+p130
+I1
+sVrowe
+p131
+I1
+sVlot
+p132
+I2
+sVhouse
+p133
+I1
+sVjane
+p134
+I1
+sVwants
+p135
+I1
+sVhead
+p136
+I1
+sVknows
+p137
+I1
+sVsending
+p138
+I1
+sVclub
+p139
+I1
+sVhun
+p140
+I1
+sVnobody
+p141
+I1
+sVooh
+p142
+I1
+sVdowntown
+p143
+I1
+sVheat
+p144
+I1
+sVbaby
+p145
+I1
+sVchasing
+p146
+I1
+sVtrying
+p147
+I1
+sVmcs
+p148
+I1
+sVnegativity
+p149
+I1
+sVme
+p150
+I12
+sVkeeping
+p151
+I1
+sVb
+I1
+sVroom
+p152
+I1
+sVmc
+p153
+I1
+sVmiddle
+p154
+I1
+sVride
+p155
+I2
+sVup
+p156
+I1
+sVbed
+p157
+I1
+sVstrategize
+p158
+I1
+sVsupposed
+p159
+I1
+sVshotgun
+p160
+I1
+sVwild
+p161
+I1
+sVkissing
+p162
+I1
+sVare
+p163
+I1
+sVcatch
+p164
+I1
+sVcrazy
+p165
+I2
+sVreplacing
+p166
+I1
+sVgive
+p167
+I1
+sVlock
+p168
+I1
+sVlife
+p169
+I1
+sVnonbelievers
+p170
+I1
+sVneed
+p171
+I2
+sVcant
+p172
+I2
+sVim
+p173
+I6
+sVwant
+p174
+I4
+sVin
+p175
+I1
+sVready
+p176
+I1
+sVfacing
+p177
+I1
+sVmediocre
+p178
+I1
+sVlataz
+p179
+I1
+sVimpressed
+p180
+I1
+sVpay
+p181
+I1
+sVtip
+p182
+I1
+sVtight
+p183
+I1
+sVyang
+p184
+I1
+sVbest
+p185
+I1
+sVholding
+p186
+I1
+sVpapers
+p187
+I1
+sVshiesty
+p188
+I1
+sVsmell
+p189
+I1
+sVroll
+p190
+I1
+sVnice
+p191
+I2
+sVplay
+p192
+I1
+sVtime
+p193
+I1
+sVtrack
+p194
+I1
+sVyouve
+p195
+I1
+sVrail
+p196
+I1
+sVpaid
+p197
+I1
+sVstay
+p198
+I1
+sVsaid
+p199
+I1
+sVarrived
+p200
+I1
+sVcoming
+p201
+I1
+sVman
+p202
+I1
+sVpayne
+p203
+I1
+sVepisode
+p204
+I1
+sVthird
+p205
+I1
+sVlight
+p206
+I1
+sVyoure
+p207
+I7
+sVwell
+p208
+I1
+sVswitch
+p209
+I1
+sVedge
+p210
+I1
+sVenter
+p211
+I1
+sVyours
+p212
+I1
+s.

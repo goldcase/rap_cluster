@@ -1,71 +1,500 @@
-"just a lil' bit" lyrics
-50 cent lyrics
-"just a lil' bit"
-yeah
-shady
-aftermath
-g-unit
-damn baby all i need is a lil bit
-a lil bit of this, a lil bit of that
-get it crackin' in the club when you hear this shit
-drop it like its hot, get to workin' that back
-go shake that thang, yeah work that thang
-let me see it go up and down
-rotate that thang, i wanna touch that thang
-can you make it go round and round
-i step up in the club, i'm like who you with
-g-unit in the house, yeah thats my clique
-yeah i'm young, but a nigga from the old school
-on the dance floor, a nigga doin' old moves
-i don't give a fuck, i do what i wan' do
-i hit your ass up, boy i done warned you
-better listen, when i talk, nigga don't trip
-yo' heat in the car, mine's in this bitch
-i ain't tryna beef, i'm tryna get my drink on
-got my diamonds, my fitted, and my mink on
-i'ma kick it at the bar till its time to go
-then i'ma get shorty here and i'ma let her know
-all a nigga really need is a lil bit
-not a lot baby girl just a lil bit
-we can head to the crib in a lil bit
-i can show ya how i live in a lil bit
-i wanna unbutton your pants just a lil bit
-take 'em off and pull 'em down just a lil bit
-get to kissin' and touchin' a lil bit
-get to lickin' and fucking a lil bit
-this is 50, comin' out your stereos
-hard to tell though, cause i switched the flow
-eyes a lil low, cause i twist the dro'
-pockets on swoll cause i move the o's
-my neck, my wrist, my ears is froze
-come get ya bitch, she on me dawg
-she musta heard about the dough
-now captain come on and save a hoe
-i get it crunk in the club, i'm off the chain
-number one on the chart, all the time mayn
-when the kid in the house, i turn it out
-keep the dance floor packed, thats without a doubt
-and shorty shake that thang like a pro mayn
-she back it up on me i'm like oh mayn
-i get close enough to her so i know she can hear
-system thumpin', party jumpin', i said loud and clear
-all a nigga really need is a lil bit
-not a lot baby girl just a lil bit
-we can head to the crib in a lil bit
-i can show ya how i live in a lil bit
-i wanna unbutton your pants just a lil bit
-take 'em off and pull 'em down just a lil bit
-get to kissin' and touchin' a lil bit
-get to lickin' and -- a lil bit
-baby you got me feelin' right (ya heard me)
-my mama gone, you can spend the night (ya heard me)
-i ain't playin', i'ma tryna fuck tonight (ya heard me)
-clothes off, face down, ass up, c'mon
-all a nigga really need is a lil bit
-not a lot baby girl just a lil bit
-we can head to the crib in a lil bit
-i can show ya how i live in a lil bit
-i wanna unbutton your pants just a lil bit
-take 'em off and pull 'em down a lil bit
-get to kissin' and touchin' a lil bit
-get to lickin' and -- a lil bit
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I3
+sVdance
+p4
+I2
+sVmove
+p5
+I1
+sVdough
+p6
+I1
+sVshake
+p7
+I2
+sVgo
+p8
+I4
+sVcaptain
+p9
+I1
+sVeyes
+p10
+I1
+sVfroze
+p11
+I1
+sVaint
+p12
+I2
+sVchain
+p13
+I1
+sVthang
+p14
+I5
+sVswitched
+p15
+I1
+sVyoung
+p16
+I1
+sVbetter
+p17
+I1
+sVsave
+p18
+I1
+sVkick
+p19
+I1
+sVdo
+p20
+I1
+sVhit
+p21
+I1
+sVyo
+p22
+I1
+sVget
+p23
+I13
+sVya
+p24
+I7
+sVmayn
+p25
+I3
+sVfeelin
+p26
+I1
+sVme
+p27
+I3
+sVcrackin
+p28
+I1
+sVknow
+p29
+I2
+sVbit
+p30
+I29
+sVschool
+p31
+I1
+sVrotate
+p32
+I1
+sVbar
+p33
+I1
+sVlike
+p34
+I4
+sVwarned
+p35
+I1
+sVdrop
+p36
+I1
+sV50
+p37
+I2
+sVnight
+p38
+I1
+sVround
+p39
+I2
+sVears
+p40
+I1
+sVem
+p41
+I6
+sVnigga
+p42
+I6
+sVold
+p43
+I2
+sVfucking
+p44
+I1
+sVhouse
+p45
+I2
+sVhard
+p46
+I1
+sVyeah
+p47
+I4
+sVtouch
+p48
+I1
+sVsee
+p49
+I1
+sVdawg
+p50
+I1
+sVclose
+p51
+I1
+sVgirl
+p52
+I3
+sVpacked
+p53
+I1
+sVreally
+p54
+I3
+sVturn
+p55
+I1
+sVsaid
+p56
+I1
+sVboy
+p57
+I1
+sVmines
+p58
+I1
+sVenough
+p59
+I1
+sVmusta
+p60
+I1
+sVdiamonds
+p61
+I1
+sVgot
+p62
+I2
+sVcause
+p63
+I3
+sVpants
+p64
+I3
+sVass
+p65
+I2
+sVima
+p66
+I4
+sVright
+p67
+I1
+sVstep
+p68
+I1
+sVlet
+p69
+I2
+sVclique
+p70
+I1
+sVgunit
+p71
+I2
+sVaftermath
+p72
+I1
+sVcome
+p73
+I2
+sVon
+p74
+I2
+sVoh
+p75
+I1
+sVkeep
+p76
+I1
+sVunbutton
+p77
+I3
+sVdro
+p78
+I1
+sVclothes
+p79
+I1
+sVos
+p80
+I1
+sVthats
+p81
+I2
+sVdont
+p82
+I2
+sVnumber
+p83
+I1
+sVcrib
+p84
+I3
+sVone
+p85
+I1
+sVdown
+p86
+I1
+sVstereos
+p87
+I1
+sVtouchin
+p88
+I3
+sVdone
+p89
+I1
+sVbitch
+p90
+I2
+sVcomin
+p91
+I1
+sVwan
+p92
+I5
+sVbeef
+p93
+I1
+sVcrunk
+p94
+I1
+sVsystem
+p95
+I1
+sVcent
+p96
+I1
+sVlive
+p97
+I3
+sVdoubt
+p98
+I1
+sVdamn
+p99
+I1
+sVlow
+p100
+I1
+sVlot
+p101
+I3
+sVmama
+p102
+I1
+sVtell
+p103
+I1
+sVlisten
+p104
+I1
+sVtryna
+p105
+I3
+sVhead
+p106
+I3
+sVthat
+p107
+I1
+sVclub
+p108
+I3
+sVshorty
+p109
+I2
+sVback
+p110
+I2
+sVheat
+p111
+I1
+sVhear
+p112
+I2
+sVbaby
+p113
+I5
+sVwith
+p114
+I1
+sVswoll
+p115
+I1
+sVpull
+p116
+I3
+sVcar
+p117
+I1
+sVwork
+p118
+I1
+sVkissin
+p119
+I3
+sVclear
+p120
+I1
+sVgone
+p121
+I1
+sVmink
+p122
+I1
+sVgive
+p123
+I1
+sVpro
+p124
+I1
+sVcmon
+p125
+I1
+sVfuck
+p126
+I2
+sVtwist
+p127
+I1
+sVheard
+p128
+I4
+sVim
+p129
+I5
+sVplayin
+p130
+I1
+sVneed
+p131
+I4
+sVworkin
+p132
+I1
+sVmoves
+p133
+I1
+sVtrip
+p134
+I1
+sVshit
+p135
+I1
+sVhoe
+p136
+I1
+sVfloor
+p137
+I2
+sVlil
+p138
+I30
+sVna
+p139
+I4
+sVmake
+p140
+I1
+sVtill
+p141
+I1
+sVhot
+p142
+I1
+sVtake
+p143
+I3
+sVparty
+p144
+I1
+sVyou
+p145
+I1
+sVout
+p146
+I1
+sVtonight
+p147
+I1
+sVpockets
+p148
+I1
+sVthough
+p149
+I1
+sVdoin
+p150
+I1
+sVdrink
+p151
+I1
+sVchart
+p152
+I1
+sVwrist
+p153
+I1
+sVjumpin
+p154
+I1
+sVlickin
+p155
+I3
+sVkid
+p156
+I1
+sVneck
+p157
+I1
+sVloud
+p158
+I1
+sVshady
+p159
+I1
+sVflow
+p160
+I1
+sVface
+p161
+I1
+sVwithout
+p162
+I1
+sVtalk
+p163
+I1
+sVtime
+p164
+I2
+sVthumpin
+p165
+I1
+sVspend
+p166
+I1
+sVfitted
+p167
+I1
+s.

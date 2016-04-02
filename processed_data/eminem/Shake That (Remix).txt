@@ -1,104 +1,688 @@
-"shake that (remix)" lyrics
-eminem lyrics
-"shake that (remix)"
-(feat. obie trice, bobby creekwater)
-shady, aftermath
-btov
-there she goes shaking that ass on the floor
-bumpin and grindin that pole
-the way she's grindin that pole
-i think i'm losing control
-bobby creek
-i'm on the patron
-in the end i'm gone
-my eyes ain't clear
-i'm gone
-so she hear me wrong
-i'm kinda in the zone
-cause the dj playin' my song
-just another opportunity for sayin' i'm known
-i'm from atlanta
-so southern ain't just part of my grammar
-i can up and cock the hammer
-for any nigga
-but i came here to get on goose and tropicana
-get loose put some more of my juice
-in your caboose
-sippin everything from white grain
-to deuce juice
-with nothin' to gain
-but my grace and loose tooths
-eminem came obie stat and proof too
-bobby creek is in the place
-the name is snoop too
-my drinks is 10 around
-i can make her spin around
-if she keep her dinner down
-simmer down
-we can hit the telly when the fun stops
-and i hit you in ya ?
-come sip on my gumdrops
-i met a bad bitch last night in the d
-let me tell you how i made her leave with me
-conversation and hennessey
-i've been to the muthafuckin mountain top
-heard muthafuckers talk, seen 'em drop
-if i ain't got a weapon i'ma pick up a rock
-and when i bust yo ass i'm gonna continue to rock
-getcha ass of the wall with your two left feet
-it's real easy just follow the beat
-don't let that fine girl pass you by
-look real close cause strobe lights lie
-we bout to have a party (turn the music up)
-let's get it started (go head shake your butt)
-i'm lookin for a girl with a body and a sexy strut
-wanna get it poppin baby step right up
-some girls they act retarded
-some girls are bout it bout it
-i'm lookin for a girl
-that will do whatever the fuck
-i say everyday she be givin it up
-shake that ass for me,
-shake that ass for me
-come on girl, shake that ass for me,
-shake that ass for me
-ohh girl, shake that ass for me,
-shake that ass for me
-come on girl, shake that ass for me,
-shake that ass for me
-obie trice!
-one slug
-couldn't snuff young cuz
-goodness gracious
-haters stay on these nuts
-just like a hood rat chick who was curious
-serious
-full breast, ready to touch
-who's that in the cool blue back
-with a new rag
-givin' head while he poppin' the clutch
-true i had a few
-obie rollin' with brews
-annually knockin' the boots
-it's on manual
-the way i knock em outta they shoes
-talk a little shit
-then they anus'll ooze
-talk a little spit on my ding-a-lang
-who
-it's shady
-you know the name of the crew
-you know the aim is to bang you
-in the mansion
-with a magnum
-with a night pass to the matinee
-obie
-came to party
-you better ask somebody
-shake that ass for me, shake that ass for me
-come on girl, shake that ass for me,
-shake that ass for me
-ohh girl, shake that ass for me,
-shake that ass for me
-come on girl, shake that ass for me,
-shake that ass for me
+(dp1
+Vshoes
+p2
+I1
+sVlyrics
+p3
+I2
+sVannually
+p4
+I1
+sVseen
+p5
+I1
+sVbaby
+p6
+I1
+sVanusll
+p7
+I1
+sVshake
+p8
+I19
+sVgo
+p9
+I1
+sVfollow
+p10
+I1
+sVfeat
+p11
+I1
+sVaint
+p12
+I3
+sVhaters
+p13
+I1
+sVsayin
+p14
+I1
+sVzone
+p15
+I1
+sVlights
+p16
+I1
+sVtrue
+p17
+I1
+sVpoppin
+p18
+I2
+sVyoung
+p19
+I1
+sVbust
+p20
+I1
+sVcrew
+p21
+I1
+sVbeat
+p22
+I1
+sVrag
+p23
+I1
+sVlets
+p24
+I1
+sVeasy
+p25
+I1
+sVmagnum
+p26
+I1
+sVbout
+p27
+I3
+sVhennessey
+p28
+I1
+sVrat
+p29
+I1
+sVreal
+p30
+I2
+sVdj
+p31
+I1
+sVaround
+p32
+I2
+sVtropicana
+p33
+I1
+sVget
+p34
+I4
+sVya
+p35
+I1
+sVtooths
+p36
+I1
+sVstrut
+p37
+I1
+sVbang
+p38
+I1
+sVbreast
+p39
+I1
+sVparty
+p40
+I2
+sVnew
+p41
+I1
+sVgumdrops
+p42
+I1
+sVweapon
+p43
+I1
+sVgrammar
+p44
+I1
+sVname
+p45
+I2
+sVknockin
+p46
+I1
+sVbobby
+p47
+I3
+sVclutch
+p48
+I1
+sVcool
+p49
+I1
+sVdrop
+p50
+I1
+sVmanual
+p51
+I1
+sVfeet
+p52
+I1
+sVleave
+p53
+I1
+sVbad
+p54
+I1
+sVcontinue
+p55
+I1
+sVnight
+p56
+I2
+sVbtov
+p57
+I1
+sVshaking
+p58
+I1
+sVem
+p59
+I2
+sVbody
+p60
+I1
+sVbrews
+p61
+I1
+sVnigga
+p62
+I1
+sVdingalang
+p63
+I1
+sVcreek
+p64
+I2
+sVknock
+p65
+I1
+sVback
+p66
+I1
+sVboots
+p67
+I1
+sVd
+I1
+sVgoose
+p68
+I1
+sVtouch
+p69
+I1
+sVshes
+p70
+I1
+sVpass
+p71
+I2
+sVplayin
+p72
+I1
+sVgirl
+p73
+I9
+sVhammer
+p74
+I1
+sVdrinks
+p75
+I1
+sVblue
+p76
+I1
+sVsnuff
+p77
+I1
+sVgon
+p78
+I1
+sVcurious
+p79
+I1
+sVfine
+p80
+I1
+sVgrindin
+p81
+I2
+sVstops
+p82
+I1
+sVeverything
+p83
+I1
+sVsimmer
+p84
+I1
+sVgoes
+p85
+I1
+sVgot
+p86
+I1
+sVcause
+p87
+I2
+sVass
+p88
+I19
+sVima
+p89
+I1
+sVfull
+p90
+I1
+sVrock
+p91
+I2
+sVloose
+p92
+I2
+sVeminem
+p93
+I2
+sVmet
+p94
+I1
+sVstep
+p95
+I1
+sVlet
+p96
+I2
+sVstarted
+p97
+I1
+sVchick
+p98
+I1
+sVlosing
+p99
+I1
+sVaftermath
+p100
+I1
+sVstay
+p101
+I1
+sVcome
+p102
+I5
+sVby
+p103
+I1
+sVlast
+p104
+I1
+sVgivin
+p105
+I2
+sVask
+p106
+I1
+sVkeep
+p107
+I1
+sVconversation
+p108
+I1
+sVdinner
+p109
+I1
+sVplace
+p110
+I1
+sVlookin
+p111
+I2
+sVpick
+p112
+I1
+sVthink
+p113
+I1
+sVdont
+p114
+I1
+sVive
+p115
+I1
+sVwall
+p116
+I1
+sVwhatever
+p117
+I1
+sVone
+p118
+I1
+sVdown
+p119
+I2
+sVput
+p120
+I1
+sVpole
+p121
+I2
+sVright
+p122
+I1
+sVbitch
+p123
+I1
+sVanother
+p124
+I1
+sVsexy
+p125
+I1
+sVoutta
+p126
+I1
+sVcouldnt
+p127
+I1
+sVwhos
+p128
+I1
+sVhood
+p129
+I1
+sVwan
+p130
+I1
+sVlittle
+p131
+I2
+sVsnoop
+p132
+I1
+sVtop
+p133
+I1
+sVgirls
+p134
+I2
+sVtwo
+p135
+I1
+sVslug
+p136
+I1
+sVfew
+p137
+I1
+sVmusic
+p138
+I1
+sVtoo
+p139
+I2
+sVway
+p140
+I2
+sVwhite
+p141
+I1
+sVtell
+p142
+I1
+sVeyes
+p143
+I1
+sVspit
+p144
+I1
+sVcaboose
+p145
+I1
+sVgetcha
+p146
+I1
+sVfuck
+p147
+I1
+sVmuthafuckers
+p148
+I1
+sVit
+p149
+I1
+sVpart
+p150
+I1
+sVhear
+p151
+I1
+sVgain
+p152
+I1
+sVbutt
+p153
+I1
+sVknown
+p154
+I1
+sVatlanta
+p155
+I1
+sVdeuce
+p156
+I1
+sVspin
+p157
+I1
+sVgrace
+p158
+I1
+sVgracious
+p159
+I1
+sVme
+p160
+I16
+sV10
+p161
+I1
+sVmade
+p162
+I1
+sVlook
+p163
+I1
+sVheard
+p164
+I1
+sVup
+p165
+I3
+sVaim
+p166
+I1
+sVmansion
+p167
+I1
+sVooze
+p168
+I1
+sVfun
+p169
+I1
+sVcock
+p170
+I1
+sVshady
+p171
+I2
+sVtrice
+p172
+I2
+sVproof
+p173
+I1
+sVcontrol
+p174
+I1
+sVgone
+p175
+I2
+sVready
+p176
+I1
+sVohh
+p177
+I2
+sVpatron
+p178
+I1
+sVmatinee
+p179
+I1
+sVhead
+p180
+I2
+sVsomebody
+p181
+I1
+sVjuice
+p182
+I2
+sVsay
+p183
+I1
+sVim
+p184
+I10
+sVrollin
+p185
+I1
+sVgoodness
+p186
+I1
+sVtelly
+p187
+I1
+sVclose
+p188
+I1
+sVhit
+p189
+I2
+sVturn
+p190
+I1
+sVeveryday
+p191
+I1
+sVshit
+p192
+I1
+sVretarded
+p193
+I1
+sVmountain
+p194
+I1
+sVsippin
+p195
+I1
+sVend
+p196
+I1
+sVyo
+p197
+I1
+sVknow
+p198
+I2
+sVfloor
+p199
+I1
+sVna
+p200
+I2
+sVmake
+p201
+I1
+sVsong
+p202
+I1
+sVnuts
+p203
+I1
+sVwho
+p204
+I1
+sVmuthafuckin
+p205
+I1
+sVbetter
+p206
+I1
+sVgrain
+p207
+I1
+sVyou
+p208
+I1
+sVstrobe
+p209
+I1
+sVstat
+p210
+I1
+sVlie
+p211
+I1
+sVact
+p212
+I1
+sVsouthern
+p213
+I1
+sVobie
+p214
+I5
+sVbumpin
+p215
+I1
+sVwrong
+p216
+I1
+sVsip
+p217
+I1
+sVkinda
+p218
+I1
+sVopportunity
+p219
+I1
+sVcreekwater
+p220
+I1
+sVremix
+p221
+I2
+sVclear
+p222
+I1
+sVnothin
+p223
+I1
+sVlike
+p224
+I1
+sVtalk
+p225
+I3
+sVserious
+p226
+I1
+sVcuz
+p227
+I1
+sVcame
+p228
+I3
+sVleft
+p229
+I1
+s.

@@ -1,112 +1,857 @@
-blame game lyrics
-kanye west lyrics
-blame game
-feat john legend
-lets play blame game love more
-lets play blame game sure
-lets call names names hate more
-lets call names names sure
-ill call bitch short last resort first result
-call motherfucker long
-end know wrong
-love play blame game love more
-lets play blame game sure
-lets call names names hate more
-lets call names names sure
-bathroom wall wrote
-id rather argue someone else else else else
-took piss dismiss like fuck went found somebody else
-fuck arguing harvesting feelings id rather fucking self
-till 2am call back hang start blame myself
-somebody help
-werent perfect made life worth it
-stick around real feelings might surface
-long time since spoke bathroom gripping fuckin choking you
-hell supposed do
-know aint getting type dick local dude
-hope good time
-cause definitely mine
-aint finna see mogul get emotional
-every time hear bout niggas stroking you
-might say hit you
-sitting consoling you
-runnin name mud
-whos provoking you
-grateful nigga like ever noticed you
-noticeable cant nobody control you
-1 cant nobody get hold you
-im calling brothers phone like supposed do
-even though knew never told truth
-gon say whatever gon told too
-certain point stop asking questions
-chuck dirt eachother like mud wrestlers
-heard bought coke money
-dat aint right girl
-getting blackmailed white girl
-always said yeezy aint youre right girl
-probably find one like art type girls
-lights caught hype girl
-satisfied love lie
-blame blame blame
-pain poured every time rained
-lets play blame game
-lets play blame game love more
-lets play blame game sure
-things used not
-anything us are
-disguising secret lovers
-weve become public enemies
-walk away like strangers street
-gone eternity
-erased one another
-far came
-much everything leave nothing
-lack visual empathy equates meaning love
-hatred attitude tear us entirely
-lets play blame game love more
-lets play blame game sure
-lets call names names hate more
-lets call names names sure
-cant love much
-cant love much
-cant love much
-cant love much
-cant love much
-cant love much
-know somehwere thing
-phone called ring ring
-aint pick phone accidently called back
-heard whole thing
-heard whole thing whole thing whole thing
-ohh god
-baby done took shit another motherfucking level
-neighbourhood nigga like aint supposed gettin pussy like this
-damn damn taught get sexy nigga
-yeezy taught me
-never used talk dirty got damn disgusting
-god whered learn that
-yeezy taught me
-look motherfucking butt ass naked motherfucking jimmy choos off
-taught put motherfucking jimmy choos on
-yeezy taught me
-yo took game whole nother level cirque u soleil now
-done went porno k love it
-thank thank dick thanks you
-learn game come up
-yeezy taught me
-fucking parts pussy never fuck before
-like oo never ive never even seen part town before
-like got shit reupholstered something fuck happened
-fuck got pussy reupholstered
-yeezy reupholstered pussy
-know got thank yeezy
-see nigga imma thank him
-imma buy album imma download imma shoot bootlegger
-thats good feel nigga
-oww still cant believe got watch motherfucker exact motherfucker wanted
-even bezel motherfucker wanted saw shit saw it
-twista shit source remember twista motherfucker source
-thats right thats right yo yo babe yo yo best birthday ever
-learn treat nigga like this
-yeezy taught me
-yeezy taught well yeezy taught well
+(dp1
+Vhelp
+p2
+I1
+sVlyrics
+p3
+I2
+sVmotherfucking
+p4
+I4
+sVmoney
+p5
+I1
+sVlack
+p6
+I1
+sVsatisfied
+p7
+I1
+sVbirthday
+p8
+I1
+sVwatch
+p9
+I1
+sVattitude
+p10
+I1
+sVthanks
+p11
+I1
+sVgrateful
+p12
+I1
+sVdirty
+p13
+I1
+sVhell
+p14
+I1
+sVstill
+p15
+I1
+sVhate
+p16
+I3
+sVfind
+p17
+I1
+sVbefore
+p18
+I2
+sVaint
+p19
+I6
+sVnow
+p20
+I1
+sVbootlegger
+p21
+I1
+sVthank
+p22
+I4
+sVlights
+p23
+I1
+sVimma
+p24
+I4
+sVmuch
+p25
+I7
+sVdick
+p26
+I2
+sVdisgusting
+p27
+I1
+sVresort
+p28
+I1
+sVlets
+p29
+I14
+sVpussy
+p30
+I4
+sVbout
+p31
+I1
+sVmight
+p32
+I2
+sVworth
+p33
+I1
+sVhope
+p34
+I1
+sVharvesting
+p35
+I1
+sVreal
+p36
+I1
+sVdo
+p37
+I2
+sVsomeone
+p38
+I1
+sVsomebody
+p39
+I2
+sVaround
+p40
+I1
+sVyo
+p41
+I5
+sVget
+p42
+I3
+sVfar
+p43
+I1
+sVstop
+p44
+I1
+sVbought
+p45
+I1
+sVreupholstered
+p46
+I3
+sVheard
+p47
+I3
+sVme
+p48
+I5
+sVgame
+p49
+I13
+sVstreet
+p50
+I1
+sVevery
+p51
+I2
+sVknow
+p52
+I4
+sVwerent
+p53
+I1
+sVnot
+p54
+I1
+sVone
+p55
+I2
+sVexact
+p56
+I1
+sVhim
+p57
+I1
+sVname
+p58
+I1
+sVlike
+p59
+I11
+sVlevel
+p60
+I2
+sVtear
+p61
+I1
+sVever
+p62
+I2
+sVgettin
+p63
+I1
+sVchuck
+p64
+I1
+sVcalling
+p65
+I1
+sVleave
+p66
+I1
+sVprovoking
+p67
+I1
+sVtruth
+p68
+I1
+sValways
+p69
+I1
+sVhype
+p70
+I1
+sVfound
+p71
+I1
+sVwent
+p72
+I2
+sVtold
+p73
+I2
+sVwrote
+p74
+I1
+sVnames
+p75
+I12
+sVweve
+p76
+I1
+sVnigga
+p77
+I6
+sVgripping
+p78
+I1
+sVquestions
+p79
+I1
+sVfucking
+p80
+I2
+sVback
+p81
+I2
+sVfeel
+p82
+I1
+sVup
+p83
+I1
+sVbelieve
+p84
+I1
+sVsee
+p85
+I2
+sVused
+p86
+I2
+sVresult
+p87
+I1
+sVkanye
+p88
+I1
+sVdownload
+p89
+I1
+sVgirl
+p90
+I4
+sVfinna
+p91
+I1
+sVneighbourhood
+p92
+I1
+sVenemies
+p93
+I1
+sVeven
+p94
+I3
+sVnaked
+p95
+I1
+sVgon
+p96
+I2
+sVmine
+p97
+I1
+sVfeat
+p98
+I1
+sVaway
+p99
+I1
+sVsince
+p100
+I1
+sVbest
+p101
+I1
+sVbezel
+p102
+I1
+sVstrangers
+p103
+I1
+sVmud
+p104
+I2
+sVasking
+p105
+I1
+sVprobably
+p106
+I1
+sVcause
+p107
+I1
+sVpublic
+p108
+I1
+sVpiss
+p109
+I1
+sVass
+p110
+I1
+sVperfect
+p111
+I1
+sVdirt
+p112
+I1
+sVgot
+p113
+I5
+sVnever
+p114
+I5
+sVmotherfucker
+p115
+I5
+sVblame
+p116
+I15
+sVporno
+p117
+I1
+sVtaught
+p118
+I9
+sVbecome
+p119
+I1
+sVfuck
+p120
+I5
+sVsexy
+p121
+I1
+sVwanted
+p122
+I2
+sVcome
+p123
+I1
+sVlegend
+p124
+I1
+sVnother
+p125
+I1
+sVoo
+p126
+I1
+sVon
+p127
+I1
+sVempathy
+p128
+I1
+sVlast
+p129
+I1
+sVnoticeable
+p130
+I1
+sVgetting
+p131
+I2
+sVgod
+p132
+I2
+sVill
+p133
+I1
+sVmeaning
+p134
+I1
+sVcalled
+p135
+I2
+sVthing
+p136
+I5
+sVk
+I1
+sVpick
+p137
+I1
+sVyeezy
+p138
+I10
+sVdismiss
+p139
+I1
+sVargue
+p140
+I1
+sVwhole
+p141
+I5
+sVfuckin
+p142
+I1
+sVfirst
+p143
+I1
+sVwrestlers
+p144
+I1
+sVjimmy
+p145
+I2
+sVlove
+p146
+I14
+sVpoint
+p147
+I1
+sVwall
+p148
+I1
+sVgirls
+p149
+I1
+sVoww
+p150
+I1
+sVwhatever
+p151
+I1
+sVfeelings
+p152
+I2
+sVput
+p153
+I1
+sVright
+p154
+I4
+sVdone
+p155
+I2
+sVbitch
+p156
+I1
+sVanother
+p157
+I2
+sVart
+p158
+I1
+sVring
+p159
+I2
+sVnoticed
+p160
+I1
+sVstroking
+p161
+I1
+sVdisguising
+p162
+I1
+sVerased
+p163
+I1
+sVbathroom
+p164
+I2
+sVcirque
+p165
+I1
+sVspoke
+p166
+I1
+sVsource
+p167
+I2
+sVwest
+p168
+I1
+sVcaught
+p169
+I1
+sVequates
+p170
+I1
+sVdude
+p171
+I1
+sVlong
+p172
+I2
+sVwhos
+p173
+I1
+sVstart
+p174
+I1
+sVsecret
+p175
+I1
+sVpoured
+p176
+I1
+sVcall
+p177
+I9
+sVtoo
+p178
+I1
+sVdamn
+p179
+I3
+sVwhite
+p180
+I1
+sVjohn
+p181
+I1
+sVtype
+p182
+I2
+sVmore
+p183
+I7
+sVlife
+p184
+I1
+sVbuy
+p185
+I1
+sVbabe
+p186
+I1
+sVconsoling
+p187
+I1
+sVtreat
+p188
+I1
+sVcoke
+p189
+I1
+sV2am
+p190
+I1
+sVtook
+p191
+I3
+sVshoot
+p192
+I1
+sVelse
+p193
+I5
+sVphone
+p194
+I3
+sVvisual
+p195
+I1
+sVpart
+p196
+I1
+sVhear
+p197
+I1
+sVstick
+p198
+I1
+sVbutt
+p199
+I1
+sVbaby
+p200
+I1
+sVhold
+p201
+I1
+sVremember
+p202
+I1
+sVrunnin
+p203
+I1
+sVmyself
+p204
+I1
+sVmade
+p205
+I1
+sVanything
+p206
+I1
+sVniggas
+p207
+I1
+sVthis
+p208
+I2
+sVlocal
+p209
+I1
+sVcant
+p210
+I9
+sVus
+p211
+I2
+sVrained
+p212
+I1
+sVaccidently
+p213
+I1
+sVsupposed
+p214
+I3
+sVlearn
+p215
+I3
+sVemotional
+p216
+I1
+sVhappened
+p217
+I1
+sVsomehwere
+p218
+I1
+sVare
+p219
+I1
+sVcontrol
+p220
+I1
+sVgone
+p221
+I1
+sVohh
+p222
+I1
+sVlook
+p223
+I1
+sVcertain
+p224
+I1
+sVit
+p225
+I3
+sVsurface
+p226
+I1
+sVive
+p227
+I1
+sVmogul
+p228
+I1
+sVsay
+p229
+I2
+sVgood
+p230
+I2
+sVim
+p231
+I1
+sVsomething
+p232
+I1
+sVseen
+p233
+I1
+sVtwista
+p234
+I2
+sVhit
+p235
+I1
+sVsaw
+p236
+I2
+sVid
+p237
+I2
+sVshit
+p238
+I4
+sVlie
+p239
+I1
+sVend
+p240
+I1
+sVentirely
+p241
+I1
+sVchoking
+p242
+I1
+sVrather
+p243
+I2
+sVthings
+p244
+I1
+sVself
+p245
+I1
+sVsitting
+p246
+I1
+sV1
+I1
+sVtill
+p247
+I1
+sVthat
+p248
+I1
+sVparts
+p249
+I1
+sVlovers
+p250
+I1
+sVyou
+p251
+I9
+sVeternity
+p252
+I1
+sValbum
+p253
+I1
+sVplay
+p254
+I9
+sVsure
+p255
+I7
+sVpain
+p256
+I1
+sVbrothers
+p257
+I1
+sVthough
+p258
+I1
+sVarguing
+p259
+I1
+sVwhered
+p260
+I1
+sVknew
+p261
+I1
+sVhang
+p262
+I1
+sVwalk
+p263
+I1
+sVtown
+p264
+I1
+sVwrong
+p265
+I1
+sVsaid
+p266
+I1
+sVblackmailed
+p267
+I1
+sVnothing
+p268
+I1
+sVhatred
+p269
+I1
+sVdat
+p270
+I1
+sVshort
+p271
+I1
+sVoff
+p272
+I1
+sVsoleil
+p273
+I1
+sVchoos
+p274
+I2
+sVnobody
+p275
+I2
+sVeachother
+p276
+I1
+sVyoure
+p277
+I1
+sVwell
+p278
+I2
+sVdefinitely
+p279
+I1
+sVu
+I1
+sVtalk
+p280
+I1
+sVtime
+p281
+I4
+sVeverything
+p282
+I1
+sVthats
+p283
+I3
+sVcame
+p284
+I1
+s.

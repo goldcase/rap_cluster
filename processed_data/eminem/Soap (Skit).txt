@@ -1,17 +1,101 @@
-"soap (skit)" lyrics
-eminem lyrics
-"soap (skit)"
-(feat. roger, skyler)
-skylar montgomery?
-what do you want from me roger?
-i know it was you all along messing around with my dear veronica!
-wait a minute, you hold it right there.
-me and that woman love each other
-love!?
-what do you know of love?
-we were destined to be together
-i met her on the beach!
-are you out to destroy me?
-no roger. that's not what i want to do
-i love her! and were going to be together
-never!
+(dp1
+Vveronica
+p2
+I1
+sVright
+p3
+I1
+sVlove
+p4
+I4
+sVlyrics
+p5
+I2
+sVskit
+p6
+I2
+sVwant
+p7
+I2
+sVdear
+p8
+I1
+sVfeat
+p9
+I1
+sVskyler
+p10
+I1
+sVmontgomery
+p11
+I1
+sVskylar
+p12
+I1
+sVother
+p13
+I1
+sVdestroy
+p14
+I1
+sVmessing
+p15
+I1
+sVbeach
+p16
+I1
+sVsoap
+p17
+I2
+sVdo
+p18
+I1
+sVwoman
+p19
+I1
+sVaround
+p20
+I1
+sVnever
+p21
+I1
+sVeminem
+p22
+I1
+sVmet
+p23
+I1
+sVknow
+p24
+I2
+sVdestined
+p25
+I1
+sValong
+p26
+I1
+sVhold
+p27
+I1
+sVminute
+p28
+I1
+sVwait
+p29
+I1
+sVme
+p30
+I1
+sVgoing
+p31
+I1
+sVtogether
+p32
+I2
+sVroger
+p33
+I3
+sVthats
+p34
+I1
+s.

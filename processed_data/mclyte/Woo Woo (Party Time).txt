@@ -1,72 +1,494 @@
-"woo woo (party time)" lyrics
-mc lyte lyrics
-"woo woo (party time)"
-(feat. nicci gillbert)
-uh, yeah
-uh, yeah
-naughty but you like and nasty but you want it
-i'm the chick that never front it
-picture that
-me wearin a pager
-so you can be down my back
-it ain't happin jack
-am i too fine?
-if so i can leave
-have somewhere to go
-you better believe
-i keep a tight schedule
-not many are blessed
-still on a quest
-not knowin i'm da best
-causin a mess wherever i go
-they still want me there i'm the star of the show
-your ride is sweet
-my ride is much sweeter
-come take a ride with this senorita
-theres more to me that the eye can't see
-but i'm twice as much as you'd thought i'd be
-when i hit da scene
-all better be where cause da party don't jump till i get there
-come on
-we're doin it everyday
-all night is how we like to play
-feel the rhythm do what you want to do
-kick back we're doin it at the woooooo
-you took to long to ask
-now i don't know
-if you can hang wit my flow
-keep it on da dlow i start da fire
-watch it go down
-when it's time to put the flame out
-i put the juice down
-when you woo-woo
-so nasty it's sick wanna know my tricks
-studyin' me like a flick
-i'm the girl your mama warned you about at night
-ask ronnie, bobby, ricky and mike
-i'm that candy girl
-i got da suga for your sweet toothe
-comin in your crib in my birthday suit
-i'm that, bad habit you just can't shake
-what i want i take
-some a y'all could relate
-got the yab yum
-to get ya stuck like glue
-it ain't over to we all come through
-when i hit the scene
-all better be where cause da party don't jump til i get there
-so you wanna be da tiger roaming through my woods huh
-babe boy you gotta bring da goods
-not just any penny
-can get in my piggy
-bently or empty you just can't tip me
-lyte got, just what you like
-all up in your ear but i'm not like mike
-red hot
-be the brown chili peppa
-y'all know my words
-let's sing it together
-light to infinite
-like dusk til dawn
-when i hit da scene
-all better beware cause da party don't ump da jump til i get there
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVbeware
+p4
+I1
+sVbring
+p5
+I1
+sVwoods
+p6
+I1
+sVthrough
+p7
+I1
+sVshake
+p8
+I1
+sVgo
+p9
+I3
+sVnicci
+p10
+I1
+sVfeat
+p11
+I1
+sVaint
+p12
+I2
+sVear
+p13
+I1
+sVdawn
+p14
+I1
+sVtight
+p15
+I1
+sVsomewhere
+p16
+I1
+sVhot
+p17
+I1
+sVbetter
+p18
+I4
+sVlets
+p19
+I1
+sVrhythm
+p20
+I1
+sVrelate
+p21
+I1
+sVkick
+p22
+I1
+sVta
+p23
+I1
+sVgillbert
+p24
+I1
+sVhit
+p25
+I3
+sVget
+p26
+I5
+sVya
+p27
+I1
+sVwatch
+p28
+I1
+sVscene
+p29
+I3
+sVwoooooo
+p30
+I1
+sVquest
+p31
+I1
+sVjack
+p32
+I1
+sVwords
+p33
+I1
+sVfront
+p34
+I1
+sVnasty
+p35
+I2
+sVtoothe
+p36
+I1
+sVlike
+p37
+I7
+sVbobby
+p38
+I1
+sVwarned
+p39
+I1
+sVcandy
+p40
+I1
+sVleave
+p41
+I1
+sVtwice
+p42
+I1
+sVbad
+p43
+I1
+sVpeppa
+p44
+I1
+sVpiggy
+p45
+I1
+sVnight
+p46
+I2
+sVchick
+p47
+I1
+sVyall
+p48
+I2
+sVflick
+p49
+I1
+sVsenorita
+p50
+I1
+sVyeah
+p51
+I2
+sVjump
+p52
+I3
+sVsee
+p53
+I1
+sVgirl
+p54
+I2
+sVbest
+p55
+I1
+sVout
+p56
+I1
+sVstill
+p57
+I2
+sVump
+p58
+I1
+sVfine
+p59
+I1
+sVricky
+p60
+I1
+sVwoo
+p61
+I4
+sVgot
+p62
+I4
+sVcause
+p63
+I3
+sVred
+p64
+I1
+sVbe
+p65
+I1
+sVschedule
+p66
+I1
+sVglue
+p67
+I1
+sVnever
+p68
+I1
+sVsuga
+p69
+I1
+sVask
+p70
+I2
+sVsing
+p71
+I1
+sVroaming
+p72
+I1
+sVcome
+p73
+I3
+sVboy
+p74
+I1
+sVgoods
+p75
+I1
+sVknowin
+p76
+I1
+sVmany
+p77
+I1
+sVcould
+p78
+I1
+sVwherever
+p79
+I1
+sVkeep
+p80
+I2
+sVyum
+p81
+I1
+sVhabit
+p82
+I1
+sVnaughty
+p83
+I1
+sVdont
+p84
+I4
+sVfeel
+p85
+I1
+sVsweet
+p86
+I2
+sVyoud
+p87
+I1
+sVblessed
+p88
+I1
+sVcrib
+p89
+I1
+sVdown
+p90
+I2
+sVput
+p91
+I2
+sVwit
+p92
+I1
+sVcomin
+p93
+I1
+sVwan
+p94
+I2
+sVeye
+p95
+I1
+sVstuck
+p96
+I1
+sVlyte
+p97
+I2
+sVthere
+p98
+I3
+sVlong
+p99
+I1
+sVstart
+p100
+I1
+sVmuch
+p101
+I2
+sVcausin
+p102
+I1
+sVmama
+p103
+I1
+sVempty
+p104
+I1
+sVyab
+p105
+I1
+sVmike
+p106
+I2
+sVbabe
+p107
+I1
+sVthat
+p108
+I1
+sVfire
+p109
+I1
+sVsuit
+p110
+I1
+sVhuh
+p111
+I1
+sVtook
+p112
+I1
+sVback
+p113
+I2
+sVtiger
+p114
+I1
+sVmc
+p115
+I1
+sVchili
+p116
+I1
+sVbelieve
+p117
+I1
+sVme
+p118
+I1
+sVbrown
+p119
+I1
+sVwearin
+p120
+I1
+sVride
+p121
+I3
+sVflame
+p122
+I1
+sVuh
+p123
+I2
+sVsweeter
+p124
+I1
+sVtheres
+p125
+I1
+sVwant
+p126
+I4
+sVdo
+p127
+I1
+sVpenny
+p128
+I1
+sVit
+p129
+I2
+sVjuice
+p130
+I1
+sVcant
+p131
+I3
+sVim
+p132
+I8
+sVhappin
+p133
+I1
+sVid
+p134
+I1
+sVwoowoo
+p135
+I1
+sVna
+p136
+I2
+sVtip
+p137
+I1
+sVeveryday
+p138
+I1
+sVtil
+p139
+I3
+sVtill
+p140
+I1
+sVbently
+p141
+I1
+sVtake
+p142
+I2
+sVsick
+p143
+I1
+sVparty
+p144
+I5
+sVronnie
+p145
+I1
+sVdlow
+p146
+I1
+sVpicture
+p147
+I1
+sVplay
+p148
+I1
+sVstar
+p149
+I1
+sVstudyin
+p150
+I1
+sVdusk
+p151
+I1
+sVmess
+p152
+I1
+sVdoin
+p153
+I2
+sVhang
+p154
+I1
+sVbirthday
+p155
+I1
+sVinfinite
+p156
+I1
+sVda
+p157
+I12
+sVpager
+p158
+I1
+sVlight
+p159
+I1
+sVtricks
+p160
+I1
+sVflow
+p161
+I1
+sVtogether
+p162
+I1
+sVthought
+p163
+I1
+sVtime
+p164
+I3
+sVknow
+p165
+I3
+s.

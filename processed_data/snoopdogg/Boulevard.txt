@@ -1,56 +1,410 @@
-"boulevard" lyrics
-snoop dogg lyrics
-"boulevard"
-(feat. jahdan blakkamoore)
-as i take a look down the boulevard
-fun of get to you, life is very hard
-so many faces bearing the battle scars
-but love i bring to the people
-coming straight from the heart
-if crisis is what we see
-all over the world is pure controversy
-one man can't put the price pan humanity
-it seems like the whole world's gone crazy
-everybody knows johnny came from the roughest part of town
-survived the school of hard knox but still came up and made his chips
-the realest life, never watch it down
-walk with a gun through the heart of town
-we hearin bam bam bam, a familiar sound
-to the youth down in the gully where johnny boy done grow
-he never thought that he would make it out
-it's crabs in the barrel down in st close
-as i take a look down the boulevard
-fun of get to you, life is very hard
-so many faces bearing the battle scars
-but love i bring to the people
-coming straight from the heart
-if crisis is what we see
-all over the world is pure controversy
-one man can't put the price pan humanity
-it seems like the whole world's gone crazy
-poor johnny johnny got stuck for his money
-things get funny when you rump with the daddy
-later on the goons pull up in the black caddy
-next step on the news them find another dead body
-tales for the inner city
-we break it right down to the nitty glitty
-who's responsible for the crime and poverty?
-what a tragedy
-wayoo
-i wish that i could singlehandedly free the entire planet
-turn from crying man poverty
-love me when the love he say they near
-when we burn real seize and jealousy unheard
-and you take me one, you are part of this effect
-come into slavery, we would be emancipated
-if they break our eggs then co-operate
-not a gyal stop me from achieving the greatest
-as i take a look down the boulevard
-fun of get to you, life is very hard
-so many faces bearing the battle scars
-but love i bring to the people
-coming straight from the heart
-if crisis is what we see
-all over the world is pure controversy
-one man can't put the price pan humanity
-it seems like the whole world's gone crazy
+(dp1
+Vresponsible
+p2
+I1
+sVgully
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVbring
+p6
+I3
+sVbattle
+p7
+I3
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVentire
+p11
+I1
+sVseems
+p12
+I3
+sVcrime
+p13
+I1
+sVblack
+p14
+I1
+sVcrying
+p15
+I1
+sVhumanity
+p16
+I3
+sVreal
+p17
+I1
+sVtown
+p18
+I2
+sVget
+p19
+I4
+sVfamiliar
+p20
+I1
+sVwatch
+p21
+I1
+sVbreak
+p22
+I2
+sVgoons
+p23
+I1
+sVmade
+p24
+I1
+sVworld
+p25
+I3
+sVknox
+p26
+I1
+sVwalk
+p27
+I1
+sVchips
+p28
+I1
+sVcrabs
+p29
+I1
+sVworlds
+p30
+I3
+sVschool
+p31
+I1
+sVlike
+p32
+I3
+sVroughest
+p33
+I1
+sVheart
+p34
+I4
+sVwayoo
+p35
+I1
+sVbam
+p36
+I3
+sVright
+p37
+I1
+sVpeople
+p38
+I3
+sVhard
+p39
+I4
+sVunheard
+p40
+I1
+sVdead
+p41
+I1
+sVgun
+p42
+I1
+sVsee
+p43
+I3
+sVclose
+p44
+I1
+sVout
+p45
+I1
+sVplanet
+p46
+I1
+sVtales
+p47
+I1
+sVgot
+p48
+I1
+sVeggs
+p49
+I1
+sVbody
+p50
+I1
+sVburn
+p51
+I1
+sVnever
+p52
+I2
+sVfree
+p53
+I1
+sVstep
+p54
+I1
+sVpoverty
+p55
+I2
+sVnitty
+p56
+I1
+sVjahdan
+p57
+I1
+sVnews
+p58
+I1
+sVcome
+p59
+I1
+sVtragedy
+p60
+I1
+sVblakkamoore
+p61
+I1
+sVsnoop
+p62
+I1
+sVmany
+p63
+I3
+sVcould
+p64
+I1
+sVscars
+p65
+I3
+sVcontroversy
+p66
+I3
+sVturn
+p67
+I1
+sVfaces
+p68
+I3
+sVglitty
+p69
+I1
+sVwhole
+p70
+I3
+sVlove
+p71
+I5
+sVgone
+p72
+I3
+sVone
+p73
+I4
+sVdown
+p74
+I1
+sVput
+p75
+I3
+sVdone
+p76
+I1
+sVanother
+p77
+I1
+sVwhos
+p78
+I1
+sVcrisis
+p79
+I3
+sVeverybody
+p80
+I1
+sVcity
+p81
+I1
+sVboulevard
+p82
+I5
+sVslavery
+p83
+I1
+sVwould
+p84
+I2
+sVdogg
+p85
+I1
+sVjealousy
+p86
+I1
+sVnext
+p87
+I1
+sVstuck
+p88
+I1
+sVinner
+p89
+I1
+sVrump
+p90
+I1
+sVachieving
+p91
+I1
+sVlife
+p92
+I4
+sVknows
+p93
+I1
+sVboy
+p94
+I1
+sVcaddy
+p95
+I1
+sVcooperate
+p96
+I1
+sVpart
+p97
+I2
+sVsurvived
+p98
+I1
+sVsound
+p99
+I1
+sVpull
+p100
+I1
+sVhearin
+p101
+I1
+sVlook
+p102
+I3
+sVgyal
+p103
+I1
+sVwish
+p104
+I1
+sVstraight
+p105
+I3
+sVsay
+p106
+I1
+sVyouth
+p107
+I1
+sVnear
+p108
+I1
+sVfun
+p109
+I3
+sVdaddy
+p110
+I1
+sVbearing
+p111
+I3
+sVcrazy
+p112
+I3
+sVjohnny
+p113
+I4
+sVcant
+p114
+I3
+sVfunny
+p115
+I1
+sVthings
+p116
+I1
+sVmake
+p117
+I1
+sVrealest
+p118
+I1
+sVtake
+p119
+I4
+sVpure
+p120
+I3
+sVpan
+p121
+I3
+sVpoor
+p122
+I1
+sVstop
+p123
+I1
+sVprice
+p124
+I3
+sVeffect
+p125
+I1
+sVcoming
+p126
+I3
+sVgrow
+p127
+I1
+sVman
+p128
+I4
+sVseize
+p129
+I1
+sVlater
+p130
+I1
+sVst
+p131
+I1
+sVthought
+p132
+I1
+sVgreatest
+p133
+I1
+sVbarrel
+p134
+I1
+sVemancipated
+p135
+I1
+sVcame
+p136
+I2
+sVsinglehandedly
+p137
+I1
+s.

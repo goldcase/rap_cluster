@@ -1,107 +1,700 @@
-"ain't nut'in personal" lyrics
-snoop dogg lyrics
-"ain't nut'in personal"
-(feat. c-murder, silkk the shocker)
-kill kill kill
-how many killas you got on your mother fuckin pay roll nigga?
-snoop dogg, c-murder, and silkk the shocker
-no limit  (biatch)
-nigga nigga i'ma rida
-ride with g's
-and ship keys over seas by the three's
-keep an eye on my enemies
-snoop and silkk
-in da back of the lac
-with that ak
-in da blue tint, with a infer-red
-mother fucker gonna die tonight
-that's why i smoke weed, get high tonight
-cuz i'ma no limit soldier
-with tru datted in blood
-i went to jail for years, for movin, burnin da drugs
-murda murda, kill kill
-if you put me in danger
-i aint trippin noo
-no limit niggaz no strangers
-i'ma tank representer till im history
-making playa hatas into a mother fucking memory
-so throw'em up if you a soldier
-and snoop dogg pass tha mother fucking dolja
-i know you mother fucking feel me
-c-murder aint gonna die, till a bitch nigga kill me
-kill-kill-kill
-murda-murda-murda
-ain't nut'in personal tru
-see it's all about respect
-kill-kill-kill
-murda-murda-murda
-im never got slippin
-keep my heat on the dash
-now, how many niggaz you know that can fuck around
-and die and come back
-they get hooked up with the number one rap label
-and rap, like that
-shit i can't be duplicated
-but i'm highly playa hated
-and i been reinstated
-and i thank god that i finally made it
-fated many niggas, just to get one back
-remember im that young nigga
-that put gangsta rap on the map
-never craps, only five duices
-mix that moet, white star, with them orange juices
-i hang out with real niggas
-like silkk and c-murder
-tru niggas, do niggas
-like you niggas
-ghetto ass, lower class
-never hesitate to blast
-and im so serious about my hustlin
-gots to have my cash
-can you imagin if i was broke
-shit i wouldn't be bustin no raps
-id have my strap, running up in your door
-takin all your dough and your gold and your cars
-cuz big snoop dogg, aint no mother fucking rap star
-see ima gangsta(gangsta) and you a notch(you a notch)
-and you a sucka(bitch ass nigga), and i rock
-im draped in my army fatigue
-blowing on green trees
-in the navigator, and keep the heat for them playa hatas
-now look at murda, murda, murda
-and this kill, kill, kill
-this shits real
-stay strapped and capped, to get pealed
-and mama always told me
-if you aint down to ride with god
-down to die with god
-you aint no mother fucking soldier
-no limit datted on my back and my stomach
-cuz ima mother fucking fool
-uhhh, show me love
-cuz when i make music with thugs, i make moves
-well im coming out hard
-i was coming out large
-seen this guy named van
-i bring the pain
-look everybody coming out stars
-see now me, c, and snoop in da coupe
-in da house thinking about loop
-i told niggas
-rap shit isnt bad, i blast'em, so i ask'em, i shoot
-just a young nigga bout raising hell and makin mail
-if you a trip
-i told you i was making this shit on bail (that's cool)
-back up nigga, cant flame that shit like drugs
-and see ima nigga, im gonna hang like a nigga
-bang that shit like it was crips and bloods
-now deal weed nigga
-strapped up in my fatigue
-cant hold me down
-don't even trip my nigga snoop
-if you a soldier now
-do what ya think bitch
-for this tank bitch
-i stay quick and work
-and i got no limit scattered on my fucking forehead
-that's why i do so much dirt
+(dp1
+Vnow
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVscattered
+p6
+I1
+sVyoung
+p7
+I2
+sVyears
+p8
+I1
+sVseen
+p9
+I1
+sVbring
+p10
+I1
+sVisnt
+p11
+I1
+sVkill
+p12
+I9
+sVslippin
+p13
+I1
+sVhell
+p14
+I1
+sVfeat
+p15
+I1
+sVduplicated
+p16
+I1
+sVaint
+p17
+I8
+sVblast
+p18
+I1
+sVnumber
+p19
+I1
+sVthank
+p20
+I1
+sVreinstated
+p21
+I1
+sVpersonal
+p22
+I3
+sVhated
+p23
+I1
+sVcuz
+p24
+I4
+sVfinally
+p25
+I1
+sVvan
+p26
+I1
+sVorange
+p27
+I1
+sVmail
+p28
+I1
+sVgangsta
+p29
+I1
+sVcool
+p30
+I1
+sVreal
+p31
+I2
+sVshoot
+p32
+I1
+sVnoo
+p33
+I1
+sVaround
+p34
+I1
+sVstay
+p35
+I2
+sVget
+p36
+I4
+sVya
+p37
+I1
+sVbig
+p38
+I1
+sVuhhh
+p39
+I1
+sVtrees
+p40
+I1
+sVda
+p41
+I5
+sVbang
+p42
+I1
+sVfive
+p43
+I1
+sVknow
+p44
+I2
+sVdont
+p45
+I1
+sVhighly
+p46
+I1
+sVghetto
+p47
+I1
+sVtrippin
+p48
+I1
+sVlike
+p49
+I6
+sVeven
+p50
+I1
+sVdie
+p51
+I4
+sVthrowem
+p52
+I1
+sVbail
+p53
+I1
+sVsuckabitch
+p54
+I1
+sVlarge
+p55
+I1
+sVbad
+p56
+I1
+sVrock
+p57
+I1
+sVquick
+p58
+I1
+sVdough
+p59
+I1
+sVwent
+p60
+I1
+sVtru
+p61
+I3
+sVcapped
+p62
+I1
+sVimagin
+p63
+I1
+sVnigga
+p64
+I12
+sVdeal
+p65
+I1
+sVseas
+p66
+I1
+sVhouse
+p67
+I1
+sVhard
+p68
+I1
+sVback
+p69
+I5
+sVsee
+p70
+I4
+sVrida
+p71
+I1
+sVpass
+p72
+I1
+sVpain
+p73
+I1
+sVenemies
+p74
+I1
+sVblue
+p75
+I1
+sVarmy
+p76
+I1
+sVmovin
+p77
+I1
+sVgon
+p78
+I3
+sVdatted
+p79
+I2
+sVgod
+p80
+I3
+sVdolja
+p81
+I1
+sVhooked
+p82
+I1
+sVlabel
+p83
+I1
+sVstrangers
+p84
+I1
+sVsilkk
+p85
+I4
+sVplaya
+p86
+I3
+sVit
+p87
+I1
+sVgot
+p88
+I3
+sVtold
+p89
+I3
+sVass
+p90
+I2
+sVima
+p91
+I6
+sVblowing
+p92
+I1
+sVdirt
+p93
+I1
+sVcars
+p94
+I1
+sVnever
+p95
+I3
+sVrepresenter
+p96
+I1
+sVstrap
+p97
+I1
+sVblastem
+p98
+I1
+sVput
+p99
+I2
+sVgots
+p100
+I1
+sVlac
+p101
+I1
+sVcome
+p102
+I1
+sVguy
+p103
+I1
+sVc
+I1
+sVwouldnt
+p104
+I1
+sValways
+p105
+I1
+sVmany
+p106
+I3
+sVmoet
+p107
+I1
+sVkeep
+p108
+I3
+sVsoldier
+p109
+I4
+sVaskem
+p110
+I1
+sVsmoke
+p111
+I1
+sVthink
+p112
+I1
+sVfuckin
+p113
+I1
+sVthats
+p114
+I3
+sVnamed
+p115
+I1
+sVlove
+p116
+I1
+sVbloods
+p117
+I1
+sVdanger
+p118
+I1
+sVfeel
+p119
+I1
+sVduices
+p120
+I1
+sVthrees
+p121
+I1
+sVone
+p122
+I2
+sVdown
+p123
+I1
+sVbitch
+p124
+I3
+sVcraps
+p125
+I1
+sVrespect
+p126
+I1
+sVnavigator
+p127
+I1
+sVeverybody
+p128
+I1
+sVstrapped
+p129
+I2
+sVhatas
+p130
+I2
+sVtint
+p131
+I1
+sVeye
+p132
+I1
+sVsnoop
+p133
+I7
+sVfated
+p134
+I1
+sVdogg
+p135
+I4
+sVcoupe
+p136
+I1
+sVfucking
+p137
+I7
+sVmuch
+p138
+I1
+sVmusic
+p139
+I1
+sVhustlin
+p140
+I1
+sVmemory
+p141
+I1
+sVshits
+p142
+I1
+sVwhite
+p143
+I1
+sVkillkillkill
+p144
+I2
+sVcrips
+p145
+I1
+sVdash
+p146
+I1
+sVdoor
+p147
+I1
+sVstars
+p148
+I1
+sVkillas
+p149
+I1
+sVthat
+p150
+I1
+sVdrugs
+p151
+I2
+sVfuck
+p152
+I1
+sVdraped
+p153
+I1
+sVmama
+p154
+I1
+sVheat
+p155
+I2
+sVbroke
+p156
+I1
+sVbiatch
+p157
+I1
+sVgold
+p158
+I1
+sVhold
+p159
+I1
+sVbout
+p160
+I1
+sVraising
+p161
+I1
+sVme
+p162
+I3
+sVtonight
+p163
+I2
+sVmade
+p164
+I1
+sVtank
+p165
+I2
+sVlook
+p166
+I2
+sVniggas
+p167
+I6
+sVride
+p168
+I2
+sVwork
+p169
+I1
+sVcash
+p170
+I1
+sVniggaz
+p171
+I2
+sVlimit
+p172
+I5
+sVgangstagangsta
+p173
+I1
+sVmaking
+p174
+I2
+sVloop
+p175
+I1
+sVhistory
+p176
+I1
+sVfool
+p177
+I1
+sVmakin
+p178
+I1
+sVraps
+p179
+I1
+sVak
+p180
+I1
+sVcmurder
+p181
+I4
+sVbustin
+p182
+I1
+sVhigh
+p183
+I1
+sVcant
+p184
+I3
+sVim
+p185
+I8
+sVrap
+p186
+I5
+sVpealed
+p187
+I1
+sVstomach
+p188
+I1
+sVship
+p189
+I1
+sVmoves
+p190
+I1
+sVid
+p191
+I1
+sVshit
+p192
+I6
+sVnotchyou
+p193
+I1
+sVmix
+p194
+I1
+sVthugs
+p195
+I1
+sVburnin
+p196
+I1
+sVtrip
+p197
+I2
+sVna
+p198
+I3
+sVmake
+p199
+I2
+sVtakin
+p200
+I1
+sVthinking
+p201
+I1
+sVforehead
+p202
+I1
+sVtill
+p203
+I2
+sVmurdamurdamurda
+p204
+I2
+sVshocker
+p205
+I2
+sVgreen
+p206
+I1
+sVroll
+p207
+I1
+sVmap
+p208
+I1
+sVstar
+p209
+I2
+sVhesitate
+p210
+I1
+sVkeys
+p211
+I1
+sVjuices
+p212
+I1
+sVmother
+p213
+I8
+sVhang
+p214
+I2
+sVfucker
+p215
+I1
+sVweed
+p216
+I2
+sVrunning
+p217
+I1
+sVfatigue
+p218
+I2
+sVblood
+p219
+I1
+sVcoming
+p220
+I3
+sVclass
+p221
+I1
+sVlower
+p222
+I1
+sVremember
+p223
+I1
+sVwell
+p224
+I1
+sVinferred
+p225
+I1
+sVjail
+p226
+I1
+sVflame
+p227
+I1
+sVpay
+p228
+I1
+sVserious
+p229
+I1
+sVnotch
+p230
+I1
+sVmurda
+p231
+I5
+sVnutin
+p232
+I3
+sVtha
+p233
+I1
+s.

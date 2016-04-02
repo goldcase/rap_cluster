@@ -1,7 +1,47 @@
-"don't drink that wine" lyrics
-n.w.a. lyrics
-"don't drink that wine"
-don't drink that wine, coke would be better
-it's easy to find
-if that won't do smoke a joint or two
-but don't drink that wine, oh oh that wine
+(dp1
+Vwont
+p2
+I1
+sVsmoke
+p3
+I1
+sVwould
+p4
+I1
+sVdont
+p5
+I4
+sVlyrics
+p6
+I2
+sVoh
+p7
+I2
+sVcoke
+p8
+I1
+sVdrink
+p9
+I4
+sVtwo
+p10
+I1
+sVbetter
+p11
+I1
+sVjoint
+p12
+I1
+sVnwa
+p13
+I1
+sVeasy
+p14
+I1
+sVfind
+p15
+I1
+sVwine
+p16
+I5
+s.

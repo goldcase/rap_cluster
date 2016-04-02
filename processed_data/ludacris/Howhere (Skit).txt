@@ -1,35 +1,257 @@
-"howhere (skit)" lyrics
-ludacris lyrics
-"howhere (skit)"
-yo hello
-luda
-what's up boy
-what's up nigga this is 20
-where you at?
-shit over here at the texa-hoe filling up
-yeah yeah i feel that
-yo yo check it out
-yo you still got that girl stacy number from valle-hoe
-no no i think i lost that
-oh no c'mon man i'm trying to cut her man
-you can't check your hoe-ledex or something
-man hold on let me see dog
-stacy, stacy oh chicag-hoe
-nah nah nigga valle-hoe
-oh ohio-hoe that's what you talking about
-valle-hoe, valle-hoe
-man your ass here we hoe again
-nah man i'm sitting here looking and
-i don't have it i don't see no valle-hoe
-fuck fuck man i'll call shondrae
-oh hey man congratulations i forgot to
-tell you that shit didn't your sister
-graduate today?
-oh yeah dog you know what i'm saying
-valor-dick-whorian and all man
-yeah that's tight man
-shit look i'm about to break out though dog what's up
-for real nigga where you feeling to hoe
-yeah man i'm about to hit these roomster hoe's right quick.
-oh nigga you can't come get me?
-ah nigga i'm in the middle of howhere!
+(dp1
+Vluda
+p2
+I1
+sVass
+p3
+I1
+sVnigga
+p4
+I5
+sVwhats
+p5
+I3
+sVdont
+p6
+I2
+sVlyrics
+p7
+I2
+sVludacris
+p8
+I1
+sVfeel
+p9
+I1
+sVah
+p10
+I1
+sVhoes
+p11
+I1
+sVyeah
+p12
+I5
+sVtexahoe
+p13
+I1
+sVtalking
+p14
+I1
+sVcant
+p15
+I2
+sVcmon
+p16
+I1
+sVim
+p17
+I6
+sVat
+p18
+I1
+sVright
+p19
+I1
+sVforgot
+p20
+I1
+sVhit
+p21
+I1
+sVgirl
+p22
+I1
+sVstill
+p23
+I1
+sVcheck
+p24
+I2
+sVshit
+p25
+I3
+sVout
+p26
+I1
+sVagain
+p27
+I1
+sVtrying
+p28
+I1
+sV20
+p29
+I1
+sVvalordickwhorian
+p30
+I1
+sVnah
+p31
+I3
+sVsitting
+p32
+I1
+sVhoe
+p33
+I2
+sVgraduate
+p34
+I1
+sVlooking
+p35
+I1
+sVtight
+p36
+I1
+sVcongratulations
+p37
+I1
+sVcall
+p38
+I1
+sVtell
+p39
+I1
+sVsee
+p40
+I2
+sVgot
+p41
+I1
+sVhold
+p42
+I1
+sVshondrae
+p43
+I1
+sVtoday
+p44
+I1
+sVhoeledex
+p45
+I1
+sVroomster
+p46
+I1
+sVsister
+p47
+I1
+sVhey
+p48
+I1
+sVyo
+p49
+I4
+sVthat
+p50
+I2
+sVchicaghoe
+p51
+I1
+sVskit
+p52
+I2
+sVbreak
+p53
+I1
+sVquick
+p54
+I1
+sVcut
+p55
+I1
+sVlet
+p56
+I1
+sVknow
+p57
+I1
+sVsaying
+p58
+I1
+sVfuck
+p59
+I2
+sVnumber
+p60
+I1
+sVstacy
+p61
+I3
+sVcome
+p62
+I1
+sVget
+p63
+I1
+sVman
+p64
+I10
+sVme
+p65
+I1
+sVboy
+p66
+I1
+sVthink
+p67
+I1
+sVfeeling
+p68
+I1
+sVlook
+p69
+I1
+sVlost
+p70
+I1
+sVoh
+p71
+I6
+sVill
+p72
+I1
+sVdog
+p73
+I3
+sVvallehoe
+p74
+I5
+sVup
+p75
+I2
+sVhowhere
+p76
+I3
+sVmiddle
+p77
+I1
+sVfilling
+p78
+I1
+sVohiohoe
+p79
+I1
+sVthough
+p80
+I1
+sVreal
+p81
+I1
+sVabout
+p82
+I1
+sVthats
+p83
+I2
+sVdidnt
+p84
+I1
+sVhello
+p85
+I1
+sVsomething
+p86
+I1
+s.

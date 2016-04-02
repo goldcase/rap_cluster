@@ -1,62 +1,514 @@
-"tell me when to go" lyrics
-e-40 lyrics
-"tell me when to go"
-(feat. keak da sneak)
-tell me when to go... tell me when to go...
-tell me when to go... tell me when to go...
-go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-ooh. jesus christ had dreads, so shake em
-i ain't got none, but i'm planning on growing some
-imagine all the hebrews going dumb
-dancing on top of chariots and turning tight ones (eeerrrrr!)
-ooh, tell me when to go (dumb)
-talking on my ghettro on the way to the store
-... my 2nd or 3rd trip
-some henny, some swishers and some listerine strips
-dr. greenthumb lips, just to ease my thoughts
-not just the cops, but the homies you got to watch
-the moon is full, look at the dark clouds
-sitting in my scraper, watching oakland gone wild... ta-dow
-i don't bump mainstream, i knock underground
-all that other shit, sugar-coated and watered down
-i'm from the bay where we hyphy and go dumb
-from the soil where them rappers be getting their lingo from
-tell me when to go... tell me when to go...
-tell me when to go... tell me when to go...
-go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-i'm off that 18 dummy juice
-.... yadamean, labeled the black zeus
-king of the super dooper hyphy (hyphy, hyphy, hyphy, hyphy)
-and your wife, she don't like me (like me, like me, like me, like me)
-from the bay to the a
-put me in the back wood, swisher sweet bud, orange lace (let's go, it's dope)
-bitches wish i wrote, i said they couldn't be saved by john the pope (john the pope)
-i slid past on the gas, bitches looking at me
-it's good, it's good like the granddaddy
-cross game, you get flipped like a burger patty
-or zig-zagged... pass me a big old fatty
-.... i drink white, with a snow bunny
-talking big shit in the scraper, going hella dummy
-1800, jose cuervo
-yadada mean, yadada i'm saying though
-tell me when to go... tell me when to go...
-tell me when to go... tell me when to go...
-go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-now let me direct traffic for a minute..
-(talk to 'em)
-now, let me tell you about this hyphy movement we got going in the bay..
-when i say something you say it right back to me, you smell me?
-we're gonna do it like this right here...
-ghost-ride the whip
-now... scrape
-put your stunna shades on
-now... gas, brake, dip, dip
-shake them dreads
-let me see you show your grill
-now... thizz face
-doors open, mayne
-now... watch em swang
-go stupid, go (dumb, dumb)
-tell me when to go... tell me when to go...
-tell me when to go... tell me when to go...
-go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
+(dp1
+Vsaying
+p2
+I1
+sVlace
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVsnow
+p6
+I1
+sVplanning
+p7
+I1
+sVsugarcoated
+p8
+I1
+sVgo
+p9
+I27
+sVfeat
+p10
+I1
+sVaint
+p11
+I1
+sVlooking
+p12
+I1
+sVpope
+p13
+I2
+sVease
+p14
+I1
+sVswang
+p15
+I1
+sVlets
+p16
+I1
+sVgoing
+p17
+I3
+sVblack
+p18
+I1
+sVstunna
+p19
+I1
+sVghostride
+p20
+I1
+sVhomies
+p21
+I1
+sVorange
+p22
+I1
+sVgood
+p23
+I2
+sVmainstream
+p24
+I1
+sVgranddaddy
+p25
+I1
+sVwatching
+p26
+I1
+sVbig
+p27
+I2
+sVdope
+p28
+I1
+sVwatch
+p29
+I2
+sVe40
+p30
+I1
+sVda
+p31
+I1
+sVdark
+p32
+I1
+sVgame
+p33
+I1
+sVones
+p34
+I1
+sVtraffic
+p35
+I1
+sVcuervo
+p36
+I1
+sVlisterine
+p37
+I1
+sV2nd
+p38
+I1
+sVdr
+p39
+I1
+sVminute
+p40
+I1
+sVknock
+p41
+I1
+sVclouds
+p42
+I1
+sVlike
+p43
+I8
+sVwatered
+p44
+I1
+sVbay
+p45
+I3
+sVstupid
+p46
+I1
+sVwish
+p47
+I1
+sVdip
+p48
+I2
+sVwrote
+p49
+I1
+sVmean
+p50
+I1
+sVem
+p51
+I3
+sVright
+p52
+I2
+sVold
+p53
+I1
+sVhebrews
+p54
+I1
+sVbump
+p55
+I1
+sVshake
+p56
+I2
+sVsome
+p57
+I1
+sVscraper
+p58
+I2
+sVpast
+p59
+I1
+sVburger
+p60
+I1
+sVlips
+p61
+I1
+sVdumb
+p62
+I37
+sVpass
+p63
+I1
+sVswishers
+p64
+I1
+sVsaid
+p65
+I1
+sVchrist
+p66
+I1
+sV3rd
+p67
+I1
+sVsaved
+p68
+I1
+sVmoon
+p69
+I1
+sVtadow
+p70
+I1
+sVgot
+p71
+I3
+sVget
+p72
+I1
+sVmovement
+p73
+I1
+sVfull
+p74
+I1
+sVturning
+p75
+I1
+sVjose
+p76
+I1
+sVbitches
+p77
+I2
+sVmayne
+p78
+I1
+sVhere
+p79
+I1
+sVgrowing
+p80
+I1
+sVlet
+p81
+I3
+sVimagine
+p82
+I1
+sVput
+p83
+I2
+sVsuper
+p84
+I1
+sVon
+p85
+I1
+sVgetting
+p86
+I1
+sVshades
+p87
+I1
+sVflipped
+p88
+I1
+sVyadada
+p89
+I2
+sVpatty
+p90
+I1
+sVdont
+p91
+I2
+sVsweet
+p92
+I1
+sVjesus
+p93
+I1
+sVdown
+p94
+I1
+sVcouldnt
+p95
+I1
+sVoakland
+p96
+I1
+sVopen
+p97
+I1
+sVfrom
+p98
+I1
+sVzigzagged
+p99
+I1
+sVtop
+p100
+I1
+sVwood
+p101
+I1
+sVway
+p102
+I1
+sVwhite
+p103
+I1
+sVjohn
+p104
+I2
+sVtell
+p105
+I20
+sVstore
+p106
+I1
+sVgrill
+p107
+I1
+sVgreenthumb
+p108
+I1
+sVeeerrrrr
+p109
+I1
+sVgas
+p110
+I2
+sVooh
+p111
+I2
+sVback
+p112
+I2
+sVcops
+p113
+I1
+sVdooper
+p114
+I1
+sVbud
+p115
+I1
+sVme
+p116
+I3
+sVking
+p117
+I1
+sVnone
+p118
+I1
+sVlook
+p119
+I1
+sVjuice
+p120
+I1
+sV18
+p121
+I1
+sVzeus
+p122
+I1
+sV1800
+p123
+I1
+sVsee
+p124
+I1
+sVlabeled
+p125
+I1
+sVchariots
+p126
+I1
+sVwild
+p127
+I1
+sVbrake
+p128
+I1
+sVlingo
+p129
+I1
+sVgone
+p130
+I1
+sVslid
+p131
+I1
+sVsoil
+p132
+I1
+sVdirect
+p133
+I1
+sVtalking
+p134
+I2
+sVsay
+p135
+I2
+sVim
+p136
+I4
+sVsomething
+p137
+I1
+sVface
+p138
+I1
+sVtrip
+p139
+I1
+sVshit
+p140
+I2
+sVghettro
+p141
+I1
+sVdreads
+p142
+I2
+sVdancing
+p143
+I1
+sVna
+p144
+I1
+sVsitting
+p145
+I1
+sVcross
+p146
+I1
+sVscrape
+p147
+I1
+sVswisher
+p148
+I1
+sVtight
+p149
+I1
+sVhenny
+p150
+I1
+sVwhip
+p151
+I1
+sVdoors
+p152
+I1
+sVunderground
+p153
+I1
+sVsmell
+p154
+I1
+sVbunny
+p155
+I1
+sVstrips
+p156
+I1
+sVfatty
+p157
+I1
+sVthough
+p158
+I1
+sVkeak
+p159
+I1
+sVrappers
+p160
+I1
+sVdrink
+p161
+I1
+sVsneak
+p162
+I1
+sVyadamean
+p163
+I1
+sVgon
+p164
+I1
+sVthoughts
+p165
+I1
+sVa
+I1
+sVdummy
+p166
+I2
+sVwife
+p167
+I1
+sVhyphy
+p168
+I7
+sVhella
+p169
+I1
+sVtalk
+p170
+I1
+sVthizz
+p171
+I1
+s.

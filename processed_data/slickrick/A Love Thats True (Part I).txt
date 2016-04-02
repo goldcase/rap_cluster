@@ -1,97 +1,745 @@
-"a love that's true (part i)" lyrics
-slick rick lyrics
-"a love that's true (part i)"
-so you get my point son
-you just don't trust no bitch, you know what i'm sayin?
-"okay, daddy, i understand"
-cause bitches ain't no good, you know what i'm sayin?
-"okay, i get your point"
-anyway, listen to this, check it out
-1994, as the world gets trifer
-i'm wondering, the fuck i need a woman in my life for? (ya know)
-cause its like a nigga whole history
-with you hoes been nothing but misery
-first rater, five-one stood
-mad coke fiend though the bitch looked good
-met her at the fever
-"what's going on, stranger?"
-and like a fool took her in and tried to change her
-i don't who i thought i's bluffing
-that bitch wasn't giving up that coke for nothing
-"oh you trying to dis, mister bougeois nigga
-yet back in the day, you used to smoke coke cigarettes too
-that type shit you ain't admitting"
-because, homegirl, i grew out of it, you didn't
-anyway, dead out of order
-came in with a sheepskin her ex-lover bought her
-who gave you that?
-"my ex"
-i said "who?"
-believe she had the nerve to say "you can wear it too"
-when i found strength to depart, i do
-withdrew, for something brand new
-someone who would be true
-yes i should find someone who would be true
-cause ricky needs a love that's true
-truuuuuuuuuuue, oh dear, scooby dooby doo
-scooby doo doo
-then i met sin,
-sweating the viking
-a brown skinned fox, slim just like i like them
-"what?  sweating you?  picture that, nerd.  please"
-anyway, the bitch had herpes!  (you know)
-imagine me, the fool being the spouse
-doctor said i couldn't catch it unless i got aroused
-found out snooping in her bag what she got
-now why you ain't tell me?  you worthless slut!
-"because i loved you at the time and couldn't afford to"
-you know homegirl should get the oscar award for her lying
-anyway, stayed with the creep
-one day, sybil here, talking in her sleep
-"chris, wait," the bum bitch said
-so loud till a motherfucker fell out the bed
-who the hell is chris?  she putting up resistance
-until i caught her calling the nigga long distance
-had the nerve to dis patch loving
-boy am i lucky that i didn't catch nothing
-when i found strength to depart, i do
-withdrew, for something brand new
-someone who would be true
-yes i should find someone who would be true
-cause ricky needs a love that's true
-truuuuuuuuuuue, truuuuuuuuue
-indeed, i need a love that's true
-it seems i need a love that's true
-oh dear, scooby dooby doo
-oh gosh, scooby doo doo-ooh (doo-ooh)
-though happy i was free
-the need for love was still in me
-got to the point where the need for it was killing me
-then i met short here, hanging with my cousin
-found out later how young the bitch was and
-though i done hit it and she opened up a world
-and remind me of that song "go away, little girl"
-it had to end because the bitch weren't loyal, and spoiled
-"that's because i had you pussy whipped royal"
-you see the type of shit a nigga was gonna marry?
-you see the type of attitude the bum bitch carry?
-like oil and water, impossible mixture
-then temper tantrums came into the picture
-yelling (ahhhh), carrying on bad and cursing
-complete embarassment to the ruler as a person
-"gimme shorts"
-ruler will not permit you
-then she goes wild, starts breaking up my furniture
-flirts too, excuse me, a whore
-like the world's worst groupie when i brought her on tour
-so when i found strength to depart, i do
-withdrew, for something brand new
-someone who would be true
-yes i should find someone who would be true
-cause ricky needs a love that's true
-truuuuuuuuuuue, truuuuuuuuue
-indeed, i need a love that's true
-it seems i need a love that's true
-oh dear, scooby dooby doo
-oh gosh, scooby doo doo
-ricky needs a love that's true-hoo-hoo
+(dp1
+Vbreaking
+p2
+I1
+sVlyrics
+p3
+I2
+sVplease
+p4
+I1
+sVwerent
+p5
+I1
+sVanyway
+p6
+I4
+sVattitude
+p7
+I1
+sVsleep
+p8
+I1
+sVhanging
+p9
+I1
+sVgo
+p10
+I1
+sVwhats
+p11
+I1
+sVyes
+p12
+I3
+sVsheepskin
+p13
+I1
+sVmister
+p14
+I1
+sVyet
+p15
+I1
+sVaint
+p16
+I3
+sVbelieve
+p17
+I1
+sVsayin
+p18
+I2
+sVseems
+p19
+I2
+sVyoung
+p20
+I1
+sVto
+p21
+I1
+sVgoing
+p22
+I1
+sVahhhh
+p23
+I1
+sVrick
+p24
+I1
+sVfiend
+p25
+I1
+sVgirl
+p26
+I1
+sVgave
+p27
+I1
+sVfool
+p28
+I2
+sVdo
+p29
+I3
+sVthem
+p30
+I1
+sVwoman
+p31
+I1
+sVhit
+p32
+I1
+sVget
+p33
+I3
+sVya
+p34
+I1
+sVruler
+p35
+I2
+sVhappy
+p36
+I1
+sVlucky
+p37
+I1
+sVadmitting
+p38
+I1
+sVresistance
+p39
+I1
+sVcursing
+p40
+I1
+sVputting
+p41
+I1
+sVknow
+p42
+I5
+sVgot
+p43
+I3
+sVworld
+p44
+I2
+sVone
+p45
+I1
+sVday
+p46
+I2
+sVfurniture
+p47
+I1
+sVworlds
+p48
+I1
+sVand
+p49
+I1
+sVindeed
+p50
+I2
+sVlike
+p51
+I6
+sVstranger
+p52
+I1
+sVgroupie
+p53
+I1
+sVmarry
+p54
+I1
+sVtrifer
+p55
+I1
+sVbougeois
+p56
+I1
+sVhomegirl
+p57
+I2
+sVbag
+p58
+I1
+sVsomeone
+p59
+I6
+sVfound
+p60
+I5
+sVdis
+p61
+I2
+sVstill
+p62
+I1
+sVnigga
+p63
+I4
+sVhell
+p64
+I1
+sVbad
+p65
+I1
+sVback
+p66
+I1
+sVdead
+p67
+I1
+sVsee
+p68
+I2
+sVfever
+p69
+I1
+sVex
+p70
+I1
+sVhoes
+p71
+I1
+sVdear
+p72
+I3
+sVunless
+p73
+I1
+sVlittle
+p74
+I1
+sVcalling
+p75
+I1
+sVaroused
+p76
+I1
+sVcreep
+p77
+I1
+sVout
+p78
+I1
+sVsaid
+p79
+I3
+sVstood
+p80
+I1
+sVopened
+p81
+I1
+sVremind
+p82
+I1
+sVgiving
+p83
+I1
+sVaway
+p84
+I1
+sVfox
+p85
+I1
+sVslick
+p86
+I1
+sVfind
+p87
+I3
+sVgoes
+p88
+I1
+sVnew
+p89
+I3
+sVcause
+p90
+I5
+sVwhipped
+p91
+I1
+sVbought
+p92
+I1
+sVtruuuuuuuuue
+p93
+I2
+sVmotherfucker
+p94
+I1
+sVslut
+p95
+I1
+sVkilling
+p96
+I1
+sVwater
+p97
+I1
+sVmet
+p98
+I3
+sVwear
+p99
+I1
+sVimagine
+p100
+I1
+sVcousin
+p101
+I1
+sVherpes
+p102
+I1
+sVchange
+p103
+I1
+sVwait
+p104
+I1
+sVboy
+p105
+I1
+sVdaddy
+p106
+I1
+sVwould
+p107
+I6
+sVoh
+p108
+I6
+sVstarts
+p109
+I1
+sVwithdrew
+p110
+I3
+sVtour
+p111
+I1
+sVperson
+p112
+I1
+sVsmoke
+p113
+I1
+sVmisery
+p114
+I1
+sVfiveone
+p115
+I1
+sVwhole
+p116
+I1
+sVfirst
+p117
+I1
+sVnerve
+p118
+I2
+sVmixture
+p119
+I1
+sVlove
+p120
+I11
+sVdont
+p121
+I2
+sVdepart
+p122
+I3
+sVpoint
+p123
+I3
+sVpussy
+p124
+I1
+sVson
+p125
+I1
+sVbrought
+p126
+I1
+sVchris
+p127
+I2
+sVyelling
+p128
+I1
+sVdone
+p129
+I1
+sVbitch
+p130
+I8
+sVcarry
+p131
+I1
+sVimpossible
+p132
+I1
+sVcouldnt
+p133
+I2
+sVtrust
+p134
+I1
+sVsweating
+p135
+I2
+sVworthless
+p136
+I1
+sVtruuuuuuuuuuue
+p137
+I3
+sVher
+p138
+I2
+sVcaught
+p139
+I1
+sVpatch
+p140
+I1
+sVlong
+p141
+I1
+sVshorts
+p142
+I1
+sVtoo
+p143
+I2
+sVwondering
+p144
+I1
+sVworst
+p145
+I1
+sVgim
+p146
+I1
+sVtype
+p147
+I3
+sVtell
+p148
+I1
+sVskinned
+p149
+I1
+sVrater
+p150
+I1
+sVfree
+p151
+I1
+sVlife
+p152
+I1
+sVcomplete
+p153
+I1
+sVthat
+p154
+I1
+sVafford
+p155
+I1
+sVoscar
+p156
+I1
+sVcoke
+p157
+I3
+sVbitches
+p158
+I1
+sVtook
+p159
+I1
+sVaward
+p160
+I1
+sVloving
+p161
+I1
+sVexcuse
+p162
+I1
+sVpart
+p163
+I2
+sVunderstand
+p164
+I1
+sVbum
+p165
+I2
+sVcatch
+p166
+I2
+sVtrying
+p167
+I1
+sVtrue
+p168
+I15
+sVsnooping
+p169
+I1
+sVme
+p170
+I3
+sVloved
+p171
+I1
+sVgrew
+p172
+I1
+sV1994
+p173
+I1
+sVpermit
+p174
+I1
+sVroyal
+p175
+I1
+sVbed
+p176
+I1
+sVspoiled
+p177
+I1
+sVwild
+p178
+I1
+sVtantrums
+p179
+I1
+sVlisten
+p180
+I1
+sVdidnt
+p181
+I2
+sVtemper
+p182
+I1
+sVhistory
+p183
+I1
+sVricky
+p184
+I4
+sVviking
+p185
+I1
+sVexlover
+p186
+I1
+sVbluffing
+p187
+I1
+sVbrown
+p188
+I1
+sVwasnt
+p189
+I1
+sVtruehoohoo
+p190
+I1
+sVslim
+p191
+I1
+sVdooby
+p192
+I3
+sVfuck
+p193
+I1
+sVtalking
+p194
+I1
+sVsay
+p195
+I1
+sVgood
+p196
+I2
+sVim
+p197
+I3
+sVsomething
+p198
+I3
+sVneed
+p199
+I7
+sVgon
+p200
+I1
+sVcheck
+p201
+I1
+sVshit
+p202
+I2
+sVlooked
+p203
+I1
+sVneeds
+p204
+I4
+sVstrength
+p205
+I3
+sVend
+p206
+I1
+sVdoctor
+p207
+I1
+sVna
+p208
+I1
+sVsong
+p209
+I1
+sVstayed
+p210
+I1
+sVnerd
+p211
+I1
+sVtill
+p212
+I1
+sVwhore
+p213
+I1
+sVgosh
+p214
+I2
+sVyou
+p215
+I1
+sVgets
+p216
+I1
+sVbrand
+p217
+I3
+sVpicture
+p218
+I2
+sVused
+p219
+I1
+sVokay
+p220
+I2
+sVtried
+p221
+I1
+sVdooooh
+p222
+I2
+sVthough
+p223
+I3
+sVwho
+p224
+I1
+sVdistance
+p225
+I1
+sVscooby
+p226
+I6
+sVfell
+p227
+I1
+sVmad
+p228
+I1
+sVnothing
+p229
+I3
+sVsybil
+p230
+I1
+sVoil
+p231
+I1
+sVspouse
+p232
+I1
+sVshort
+p233
+I1
+sVdoo
+p234
+I8
+sVi
+I1
+sVloud
+p235
+I1
+sVflirts
+p236
+I1
+sVlater
+p237
+I1
+sVthought
+p238
+I1
+sVcigarettes
+p239
+I1
+sVloyal
+p240
+I1
+sVcarrying
+p241
+I1
+sVlying
+p242
+I1
+sVtime
+p243
+I1
+sVembarassment
+p244
+I1
+sVsin
+p245
+I1
+sVthats
+p246
+I11
+sVorder
+p247
+I1
+sVcame
+p248
+I2
+s.

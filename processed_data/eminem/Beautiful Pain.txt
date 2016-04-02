@@ -1,79 +1,701 @@
-"beautiful pain" lyrics
-eminem lyrics
-"beautiful pain"
-(feat. sia)
-i can feel the heat rising, everything is on fire
-today is a painful reminder of why
-we can only get brighter
-the further you put it behind ya
-but right now i'm on the inside
-(lookin' out, cause)
-i'm standin' in the flames
-it's a beautiful kind of pain
-settin' fire to yesterday
-find the light, find the light, find the light
-yesterday was the tornado warning
-today's like the morning after
-your world is torn in half
-you wake in it's wake to start the mourning process
-and rebuilding, you're still a work in progress
-today's a whole new chapter
-it's like an enormous asth-ma
-thunderstorm has passed ya
-you weathered it and poked it's eye out
-with the thorn bush that you
-used to smell the roses
-stopped to inhale, can't even tell your nose is, stuffed
-so focused on the bright side
-then you floor the gas pedal
-and hit the corner fast the more asserted
-never looking back
-may hit the curb
-but every day is a new learning curve as you
-steer through life, sometimes you might not wanna swerve
-but you have to
-to avert a disaster
-lucky no permanent damage
-cause they hurt you so bad
-it's like they murdered your ass
-and threw dirt on your casket but you've returned from the ashes
-and that hurt that you have, you just converted to gasoline
-and while you're burning the past, standing in the inferno and chant
-you're so familiarized with what having to swallow this pill is like
-it happens all the time, they take your heart and steal your life
-and it's as though you feel you've died
-cause you've been killed inside
-but yet you're still alive
-which means you will survive
-although today you may weep cause you're weakened
-and everything seems so bleak and hopeless
-the light that you're seekin'
-it begins to seep in
-that's the only thing keepin'
-you from leapin' off the mothafreakin' deep end
-and i'm pullin' for you to push through this feeling
-and with a little time that should do the healing
-and by tomorrow
-you may even feel so good that you're willing to forgive 'em even after
-all the shit you been put through this feeling of resilience is building
-and the flames are burning quick as fire would through this building
-you're sealed in but you're fireproof, flame retardant, you withstood it
-and as you climb up to the roof, you're just chillin' you look down
-cause you're so over 'em
-you could put the heel of your foot through the ceiling
-as time passes
-things change every day
-but wounds, wounds heal, but scars still remain the same
-but tomorrow today's going down in flames
-throw the match, set the past ablaze
-so feel the fire beneath your feet as you barely even perspire
-from the heat
-exhale deep and breathe a sigh of relief
-and as you say goodbye to the grief
-it's like watching the walls melt in your prison cell
-but you've extinguished this living hell
-still a little piece of you dies as you scream
-i feel the burn, watch the smoke as i turn
-rising, a phoenix from the flames
-i have learned, from fighting fights, that weren't mine
-not with fists, but with wings that i will fly
+(dp1
+Vthings
+p2
+I1
+sVstandin
+p3
+I1
+sVtodays
+p4
+I3
+sVlyrics
+p5
+I2
+sVhalf
+p6
+I1
+sVbright
+p7
+I1
+sVclimb
+p8
+I1
+sVcorner
+p9
+I1
+sVwerent
+p10
+I1
+sVstill
+p11
+I4
+sVfeat
+p12
+I1
+sVfind
+p13
+I3
+sVcell
+p14
+I1
+sVasthma
+p15
+I1
+sVtorn
+p16
+I1
+sVseems
+p17
+I1
+sVperspire
+p18
+I1
+sVday
+p19
+I2
+sVbrighter
+p20
+I1
+sVbush
+p21
+I1
+sVpermanent
+p22
+I1
+sVbarely
+p23
+I1
+sVwatching
+p24
+I1
+sVmight
+p25
+I1
+sVpill
+p26
+I1
+sVmatch
+p27
+I1
+sVfists
+p28
+I1
+sVfly
+p29
+I1
+sVgood
+p30
+I1
+sVhit
+p31
+I2
+sVto
+p32
+I1
+sVget
+p33
+I1
+sVya
+p34
+I2
+sVleapin
+p35
+I1
+sVseekin
+p36
+I1
+sVwatch
+p37
+I1
+sVlucky
+p38
+I1
+sVwalls
+p39
+I1
+sVevery
+p40
+I2
+sVnew
+p41
+I2
+sVfoot
+p42
+I1
+sVworld
+p43
+I1
+sVyou
+p44
+I2
+sVgoing
+p45
+I1
+sVlike
+p46
+I5
+sVkilled
+p47
+I1
+sVmorning
+p48
+I1
+sVashes
+p49
+I1
+sVbad
+p50
+I1
+sVstopped
+p51
+I1
+sVnose
+p52
+I1
+sVquick
+p53
+I1
+sVbeneath
+p54
+I1
+sVsteal
+p55
+I1
+sVside
+p56
+I1
+sVheel
+p57
+I1
+sVem
+p58
+I2
+sVright
+p59
+I1
+sVdisaster
+p60
+I1
+sVsigh
+p61
+I1
+sVback
+p62
+I1
+sValive
+p63
+I1
+sVfireproof
+p64
+I1
+sVpast
+p65
+I2
+sVhell
+p66
+I1
+sVablaze
+p67
+I1
+sVwings
+p68
+I1
+sVout
+p69
+I1
+sVeven
+p70
+I4
+sVliving
+p71
+I1
+sVmine
+p72
+I1
+sVchillin
+p73
+I1
+sVmelt
+p74
+I1
+sVyet
+p75
+I1
+sVlooking
+p76
+I1
+sVeverything
+p77
+I2
+sVbehind
+p78
+I1
+sVprogress
+p79
+I1
+sVlearned
+p80
+I1
+sVcause
+p81
+I5
+sVass
+p82
+I1
+sVrebuilding
+p83
+I1
+sVburn
+p84
+I1
+sVavert
+p85
+I1
+sVdirt
+p86
+I1
+sVnever
+p87
+I1
+sVforgive
+p88
+I1
+sVeminem
+p89
+I1
+sVmurdered
+p90
+I1
+sVcasket
+p91
+I1
+sVfocused
+p92
+I1
+sVhealing
+p93
+I1
+sValthough
+p94
+I1
+sVexhale
+p95
+I1
+sVput
+p96
+I3
+sVmourning
+p97
+I1
+sVceiling
+p98
+I1
+sVthrow
+p99
+I1
+sVchange
+p100
+I1
+sVchapter
+p101
+I1
+sVenormous
+p102
+I1
+sVpiece
+p103
+I1
+sVwould
+p104
+I1
+sVflames
+p105
+I4
+sVchant
+p106
+I1
+sVcould
+p107
+I1
+sVscars
+p108
+I1
+sVthing
+p109
+I1
+sVhopeless
+p110
+I1
+sVlookin
+p111
+I1
+sVyouve
+p112
+I4
+sVswallow
+p113
+I1
+sVwhole
+p114
+I1
+sVthats
+p115
+I1
+sVburning
+p116
+I2
+sVfeel
+p117
+I5
+sVdown
+p118
+I1
+sVset
+p119
+I1
+sVrising
+p120
+I2
+sVlearning
+p121
+I1
+sVsealed
+p122
+I1
+sVasserted
+p123
+I1
+sVtomorrow
+p124
+I2
+sVstanding
+p125
+I1
+sVwan
+p126
+I1
+sVlittle
+p127
+I2
+sVinhale
+p128
+I1
+sVeye
+p129
+I1
+sVweathered
+p130
+I1
+sVmay
+p131
+I3
+sVfast
+p132
+I1
+sVstart
+p133
+I1
+sVresilience
+p134
+I1
+sVwilling
+p135
+I1
+sVbleak
+p136
+I1
+sVpassed
+p137
+I1
+sVsettin
+p138
+I1
+sVsurvive
+p139
+I1
+sVinferno
+p140
+I1
+sVtell
+p141
+I1
+sVtoday
+p142
+I2
+sVthrew
+p143
+I1
+sVbreathe
+p144
+I1
+sVlife
+p145
+I2
+sVstuffed
+p146
+I1
+sVfire
+p147
+I4
+sVheal
+p148
+I1
+sVprison
+p149
+I1
+sVgas
+p150
+I1
+sVwounds
+p151
+I2
+sVhurt
+p152
+I2
+sVgrief
+p153
+I1
+sVheat
+p154
+I2
+sVwake
+p155
+I2
+sVpullin
+p156
+I1
+sVbegins
+p157
+I1
+sVkind
+p158
+I1
+sVlook
+p159
+I1
+sVinside
+p160
+I2
+sVwork
+p161
+I1
+sVgasoline
+p162
+I1
+sVsay
+p163
+I1
+sVroof
+p164
+I1
+sVremain
+p165
+I1
+sVconverted
+p166
+I1
+sVflame
+p167
+I1
+sVpainful
+p168
+I1
+sVcurb
+p169
+I1
+sVfeeling
+p170
+I2
+sVpasses
+p171
+I1
+sVsteer
+p172
+I1
+sVbeautiful
+p173
+I3
+sVheart
+p174
+I1
+sVswerve
+p175
+I1
+sVsometimes
+p176
+I1
+sVseep
+p177
+I1
+sVprocess
+p178
+I1
+sVfights
+p179
+I1
+sVit
+p180
+I1
+sVdeep
+p181
+I2
+sVcant
+p182
+I1
+sVwarning
+p183
+I1
+sVim
+p184
+I3
+sVin
+p185
+I1
+sVturn
+p186
+I1
+sVshit
+p187
+I1
+sVreturned
+p188
+I1
+sVend
+p189
+I1
+sVweakened
+p190
+I1
+sVfloor
+p191
+I1
+sVna
+p192
+I1
+sVmeans
+p193
+I1
+sVdamage
+p194
+I1
+sVsame
+p195
+I1
+sVroses
+p196
+I1
+sVsia
+p197
+I1
+sVtake
+p198
+I1
+sVextinguished
+p199
+I1
+sVreminder
+p200
+I1
+sVsmell
+p201
+I1
+sVwithstood
+p202
+I1
+sVhappens
+p203
+I1
+sVused
+p204
+I1
+sVpain
+p205
+I3
+sVsmoke
+p206
+I1
+sVphoenix
+p207
+I1
+sVthough
+p208
+I1
+sVtornado
+p209
+I1
+sVdies
+p210
+I1
+sVafter
+p211
+I2
+sVyesterday
+p212
+I2
+sVkeepin
+p213
+I1
+sVfamiliarized
+p214
+I1
+sVpoked
+p215
+I1
+sVpedal
+p216
+I1
+sVthunderstorm
+p217
+I1
+sVweep
+p218
+I1
+sVwhy
+p219
+I1
+sVdied
+p220
+I1
+sVmothafreakin
+p221
+I1
+sVbuilding
+p222
+I2
+sVfeet
+p223
+I1
+sVretardant
+p224
+I1
+sVlight
+p225
+I4
+sVthorn
+p226
+I1
+sVyoure
+p227
+I11
+sVcurve
+p228
+I1
+sVfighting
+p229
+I1
+sVrelief
+p230
+I1
+sVgoodbye
+p231
+I1
+sVtime
+p232
+I3
+sVpush
+p233
+I1
+sVscream
+p234
+I1
+s.

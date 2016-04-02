@@ -1,44 +1,113 @@
-street lights lyrics
-kanye west lyrics
-street lights
-let know
-still got time grow
-things aint always set stone
-known let know
-let me
-seems like street lights glowin
-happen like moments passin
-front hopped cab and
-paid fare see know destination
-im there
-streets glowin
-happen like moments passin
-front hopped cab and
-paid fare see know destination
-im there
-streets
-streets
-im streets
-im there
-lifes fair
-seems like street lights glowin
-happen like moments passin
-front hopped cab and
-paid fare see know destination
-im there
-street lights glowin
-happen like moments passin
-front hopped cab and
-paid fare see know destination
-im there
-street lights glowin
-happen like moments passin
-front hopped cab and
-paid fare see know destination
-im there
-streets
-streets
-im streets
-im there
-lifes fair
-lifes fair
+(dp1
+Vand
+p2
+I5
+sVfare
+p3
+I5
+sVset
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoments
+p6
+I5
+sVthere
+p7
+I7
+sVstreets
+p8
+I7
+sVpassin
+p9
+I5
+sVsee
+p10
+I5
+sVstreet
+p11
+I6
+sVim
+p12
+I9
+sVkanye
+p13
+I1
+sVhappen
+p14
+I5
+sVstill
+p15
+I1
+sVhopped
+p16
+I5
+sVaint
+p17
+I1
+sVlifes
+p18
+I3
+sVfair
+p19
+I3
+sVfront
+p20
+I5
+sVthings
+p21
+I1
+sVdestination
+p22
+I5
+sVseems
+p23
+I2
+sVlights
+p24
+I6
+sVgot
+p25
+I1
+sVglowin
+p26
+I5
+sVtime
+p27
+I1
+sVpaid
+p28
+I5
+sVlet
+p29
+I3
+sVknow
+p30
+I7
+sVknown
+p31
+I1
+sVgrow
+p32
+I1
+sVme
+p33
+I1
+sVstone
+p34
+I1
+sVlike
+p35
+I7
+sValways
+p36
+I1
+sVwest
+p37
+I1
+sVcab
+p38
+I5
+s.

@@ -1,48 +1,245 @@
-"ashtrays & heartbreaks" lyrics
-snoop dogg lyrics
-"ashtrays & heartbreaks"
-(feat. miley cyrus)
-tonight, there's gonna be a whole lot of smoke in the air
-blow it hard for the ones who ain't here
-seems like every day we're putting one six feet underground
-so blessed - what goes up, must come down
-now my buzz is gone, i need to re-up on reality
-can't let them see me weak, i need to pause on it
-is there any possibility that everyone feels like me?
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so put 'em high, let's reminisce
-you're gone, but you never miss
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so raise a glass to the memories
-set 'em free and fill up all those ashtrays
-fill up all those ashtrays
-tomorrow when you wake up and realize life ain't fair
-throw it back, and make the whole world disappear
-you never miss what you had until it's gone
-when it's right, something always will go wrong
-now my buzz is gone, i need to re-up on reality
-can't let them see me weak, i need to pause on it
-is there any possibility that everyone feels like me?
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so put 'em high, let's reminisce
-you're gone but you never miss
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so raise a glass to the memories
-set 'em free and fill up all those ashtrays
-fill up all those ashtrays
-now my buzz is gone, i need to re-up on reality
-can't let them see me weak, i need to pause on it
-is there any possibility that everyone feels like me?
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so put 'em high, let's reminisce
-you're gone but you never miss
-ashtrays and heartbreaks
-i lost some, let's toast to one
-so raise a glass to the memories
-set 'em free and fill up all those ashtrays
-fill up all those ashtrays
+(dp1
+Vem
+p2
+I6
+sVgone
+p3
+I7
+sVeveryone
+p4
+I3
+sVset
+p5
+I3
+sVlyrics
+p6
+I2
+sVhard
+p7
+I1
+sVblessed
+p8
+I1
+sVone
+p9
+I7
+sVtonight
+p10
+I1
+sVgo
+p11
+I1
+sVcant
+p12
+I3
+sVheartbreaks
+p13
+I8
+sVright
+p14
+I1
+sVsomething
+p15
+I1
+sVneed
+p16
+I6
+sVreality
+p17
+I3
+sVfeat
+p18
+I1
+sVtomorrow
+p19
+I1
+sVdown
+p20
+I1
+sVmiss
+p21
+I4
+sVblow
+p22
+I1
+sVhigh
+p23
+I3
+sVgon
+p24
+I1
+sVlet
+p25
+I3
+sVraise
+p26
+I3
+sVsnoop
+p27
+I1
+sValways
+p28
+I1
+sVdogg
+p29
+I1
+sVmake
+p30
+I1
+sVsix
+p31
+I1
+sVseems
+p32
+I1
+sVcyrus
+p33
+I1
+sVreminisce
+p34
+I3
+sVlets
+p35
+I9
+sVdisappear
+p36
+I1
+sVlot
+p37
+I1
+sVunderground
+p38
+I1
+sVfill
+p39
+I6
+sVrealize
+p40
+I1
+sVfree
+p41
+I3
+sVaint
+p42
+I2
+sVlife
+p43
+I1
+sVnever
+p44
+I4
+sVgoes
+p45
+I1
+sVwake
+p46
+I1
+sVmemories
+p47
+I3
+sVbuzz
+p48
+I3
+sVweak
+p49
+I3
+sVhere
+p50
+I1
+sVit
+p51
+I3
+sVglass
+p52
+I3
+sVfeels
+p53
+I3
+sVones
+p54
+I1
+sVevery
+p55
+I1
+sVpossibility
+p56
+I3
+sVputting
+p57
+I1
+sVput
+p58
+I3
+sVworld
+p59
+I1
+sVashtrays
+p60
+I14
+sVcome
+p61
+I1
+sVday
+p62
+I1
+sVfair
+p63
+I1
+sVmust
+p64
+I1
+sVme
+p65
+I3
+sVfeet
+p66
+I1
+sVthrow
+p67
+I1
+sVback
+p68
+I1
+sVlike
+p69
+I4
+sVlost
+p70
+I6
+sVtoast
+p71
+I6
+sVpause
+p72
+I3
+sVyoure
+p73
+I3
+sVsee
+p74
+I3
+sVair
+p75
+I1
+sVreup
+p76
+I3
+sVwrong
+p77
+I1
+sVsmoke
+p78
+I1
+sVna
+p79
+I1
+sVmiley
+p80
+I1
+sVwhole
+p81
+I2
+sVtheres
+p82
+I1
+s.

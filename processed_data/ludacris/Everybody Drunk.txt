@@ -1,62 +1,540 @@
-"everybody drunk" lyrics
-ludacris lyrics
-"everybody drunk"
-(feat. shawnna)
-everybody with me drunk as fuck
-break it down and roll it up
-everybody with me drunk as fuck
-break it down and roll it up
-ok, ok, ok now everybody with me drunk as fuck
-break it down and roll it up
-everybody got they killaz with 'em
-rep yo side and throw it up
-po' it up and it's goin' down
-light another blunt and it's goin' round
-puff puff pass you can toast yo glass
-later we'll screw and slow it up
-if you make it fast, i can make it last
-and i'm a nigga that's makin' cash
-8 figures in the bank and i pull yo rank
-what you thank with ya hatin' ass
-hehehehehe, you think you fly, i know you not
-hehehehehe, you tote yo knife, i tote my glock
-big body cadillac, women in the backseat,
-speakers steady pumpin' as i pass these losers
-yo car too small, why? cause i can't fit my women in a pt cruiser
-get ya cake up, get ya weight up way up to the top 'til u can't go further
-these snitches is after my riches and yes i smell bloody murder
-when i cock back with a drop dat can't block dat lock dat fools betta stop dat
-otherwise you can pop back
-but after dumpin a round you'll be wonderin' where the cops at
-where the cops at? cause i'm drunk as fuck
-tell'em i'm far from sober
-cause if the po po happen to pull me over
-i'm a just tell'em...
-swisha after swisha, i blow dat official
-this one fo' my niggas and everybody witcha
-pop another bottle, i'm a rep chicago
-with dem 22s on dat black on black gallardo, in da front door
-gotta bottle of goose you know i'm finna get loose
-get it buck, buck holla wassup
-to all my niggas in back and all my bitches in front put ya cups up
-put ya drank in, put ya smoke in
-put ya pop in, get ya roll in
-do the oc, got me open
-big diamonds, you jokin'
-and i don't know what i'm gone do
-but i'm gone so i'm thinkin' 'bout rollin' up
-one to the head like a real thoroughbread
-know what i'm sayin' let me hit it
-roll it, roll it up
-and i smoke it up
-don't give a damn if i choke it up
-i broke it up and i toke it up
-eyes hella red and my throat lit up
-i don't give up and i don't give in
-you don't get high nigga don't get in
-but won't yo friend cause he want my friend
-and i been on fire since i don't know when, i don't know when
-now errbody with me pourin' up
-errbody with me hold it up
-errbody with me know, if i say so,
-it's gone be throwin' up
+(dp1
+Vlyrics
+p2
+I2
+sVludacris
+p3
+I1
+sVover
+p4
+I1
+sVfront
+p5
+I2
+sVgo
+p6
+I1
+sVyes
+p7
+I1
+sVfeat
+p8
+I1
+sVtoast
+p9
+I1
+sVlit
+p10
+I1
+sVslow
+p11
+I1
+sVthank
+p12
+I1
+sVfit
+p13
+I1
+sVwassup
+p14
+I1
+sVpourin
+p15
+I1
+sVblack
+p16
+I2
+sV8
+I1
+sVbout
+p17
+I1
+sVerrbody
+p18
+I3
+sVta
+p19
+I1
+sVreal
+p20
+I1
+sVtellem
+p21
+I2
+sVhit
+p22
+I1
+sVyo
+p23
+I6
+sVget
+p24
+I7
+sVya
+p25
+I8
+sVbig
+p26
+I2
+sVstop
+p27
+I1
+sVda
+p28
+I1
+sVbreak
+p29
+I3
+sVknow
+p30
+I7
+sVnot
+p31
+I1
+sVone
+p32
+I2
+sVbank
+p33
+I1
+sVwont
+p34
+I1
+sVlike
+p35
+I1
+sVsmell
+p36
+I1
+sVdrop
+p37
+I1
+sVbetta
+p38
+I1
+sVlosers
+p39
+I1
+sVred
+p40
+I1
+sVtoke
+p41
+I1
+sVsmall
+p42
+I1
+sVround
+p43
+I2
+sVem
+p44
+I1
+sVass
+p45
+I1
+sVnigga
+p46
+I2
+sVweight
+p47
+I1
+sVjokin
+p48
+I1
+sVthrowin
+p49
+I1
+sVback
+p50
+I3
+sVup
+p51
+I14
+sVgoose
+p52
+I1
+sVpass
+p53
+I2
+sVfurther
+p54
+I1
+sVhappen
+p55
+I1
+sVfinna
+p56
+I1
+sVtote
+p57
+I2
+sVchicago
+p58
+I1
+sVopen
+p59
+I1
+sVrep
+p60
+I2
+sVsince
+p61
+I1
+sVthoroughbread
+p62
+I1
+sVdiamonds
+p63
+I1
+sVit
+p64
+I1
+sVgot
+p65
+I3
+sVcause
+p66
+I4
+sVknife
+p67
+I1
+sVbody
+p68
+I1
+sVblow
+p69
+I1
+sVloose
+p70
+I1
+sVwitcha
+p71
+I1
+sVput
+p72
+I4
+sVthrow
+p73
+I1
+sVsayin
+p74
+I1
+sVbuck
+p75
+I2
+sVlast
+p76
+I1
+sVoc
+p77
+I1
+sVchoke
+p78
+I1
+sVside
+p79
+I1
+sVyoull
+p80
+I1
+sVfigures
+p81
+I1
+sVsmoke
+p82
+I2
+sVpuff
+p83
+I2
+sVthink
+p84
+I1
+sVblock
+p85
+I1
+sVthats
+p86
+I1
+sVdont
+p87
+I8
+sVdrunk
+p88
+I6
+sVmakin
+p89
+I1
+sVrank
+p90
+I1
+sVbloody
+p91
+I1
+sVdown
+p92
+I1
+sVpop
+p93
+I3
+sVanother
+p94
+I2
+sVsober
+p95
+I1
+sVcups
+p96
+I1
+sV22s
+p97
+I1
+sVeverybody
+p98
+I7
+sVpt
+p99
+I1
+sVtop
+p100
+I1
+sVgive
+p101
+I3
+sVfast
+p102
+I1
+sVdrank
+p103
+I1
+sVdamn
+p104
+I1
+sVway
+p105
+I1
+sVlock
+p106
+I1
+sVfo
+p107
+I1
+sVpo
+p108
+I3
+sVfriend
+p109
+I2
+sVshawnna
+p110
+I1
+sVhead
+p111
+I1
+sVglock
+p112
+I1
+sVdoor
+p113
+I1
+sVfire
+p114
+I1
+sVbitches
+p115
+I1
+sVkillaz
+p116
+I1
+sVglass
+p117
+I1
+sVswisha
+p118
+I2
+sVbroke
+p119
+I1
+sVhatin
+p120
+I1
+sVok
+p121
+I3
+sVcruiser
+p122
+I1
+sVhold
+p123
+I1
+sVwomen
+p124
+I2
+sVfly
+p125
+I1
+sVpull
+p126
+I2
+sVdumpin
+p127
+I1
+sVniggas
+p128
+I2
+sVcar
+p129
+I1
+sVofficial
+p130
+I1
+sVriches
+p131
+I1
+sVcash
+p132
+I1
+sVdem
+p133
+I1
+sVcake
+p134
+I1
+sVsnitches
+p135
+I1
+sVcock
+p136
+I1
+sVsay
+p137
+I1
+sVgone
+p138
+I3
+sVdo
+p139
+I1
+sVwell
+p140
+I1
+sVfuck
+p141
+I4
+sVhigh
+p142
+I1
+sVcant
+p143
+I3
+sVmurder
+p144
+I1
+sVim
+p145
+I10
+sVat
+p146
+I1
+sVwant
+p147
+I1
+sVin
+p148
+I4
+sVthroat
+p149
+I1
+sVbackseat
+p150
+I1
+sVscrew
+p151
+I1
+sVspeakers
+p152
+I1
+sVlet
+p153
+I1
+sVhehehehehe
+p154
+I2
+sVmake
+p155
+I2
+sVwhen
+p156
+I1
+sVtil
+p157
+I1
+sVfar
+p158
+I1
+sVpumpin
+p159
+I1
+sVso
+p160
+I1
+sVfools
+p161
+I1
+sVblunt
+p162
+I1
+sVroll
+p163
+I6
+sVwonderin
+p164
+I1
+sVeyes
+p165
+I1
+sVholla
+p166
+I1
+sVcadillac
+p167
+I1
+sVgallardo
+p168
+I1
+sVgoin
+p169
+I2
+sVdat
+p170
+I6
+sVcops
+p171
+I2
+sVlight
+p172
+I1
+sVlater
+p173
+I1
+sVsteady
+p174
+I1
+sVrollin
+p175
+I1
+sVhella
+p176
+I1
+sVu
+I1
+sVbottle
+p177
+I2
+sVotherwise
+p178
+I1
+sVthinkin
+p179
+I1
+s.

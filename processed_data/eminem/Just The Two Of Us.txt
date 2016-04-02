@@ -1,95 +1,691 @@
-"just the two of us" lyrics
-eminem lyrics
-"just the two of us"
-just the two of us..
-baby your da-da loves you (hey)
-and i'ma always be here for you (hey) no matter what happens
-you're all i got in this world
-i would never give you up for nothin
-nobody in this world is ever gonna keep you from me
-i love you
-c'mon hai-hai, we goin to the beach
-grab a couple of toys and let da-da strap you in the car seat
-oh where's mama? she's takin a little nap in the trunk
-oh that smell (whew!) da-da musta runned over a skunk
-now i know what you're thinkin - it's kind of late to go swimmin
-but you know your mama, she's one of those type of women
-that do crazy things, and if she don't get her way, she'll throw a fit
-don't play with da-da's toy knife, honey, let go of it (no!)
-and don't look so upset, why you actin bashful?
-don't you wanna help da-da build a sand castle? (yeah!)
-and mama said she wants to show how far she can float
-and don't worry about that little boo-boo on her throat
-it's just a little scratch - it don't hurt, her was eatin
-dinner while you were sweepin and spilled ketchup on her shirt
-mama's messy isn't she? we'll let her wash off in the water
-and me and you can pway by ourselves, can't we?
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-see honey.. there's a place called heaven and a place called hell
-a place called prison and a place called jail
-and da-da's probably on his way to all of em except one
-cause mama's got a new husband and a stepson
-and you don't want a brother do ya? (nah)
-maybe when you're old enough to understand a little better
-i'll explain it to ya
-but for now we'll just say mama was real real bad
-she was bein mean to dad and made him real real mad
-but i still feel sad that i put her on time-out
-sit back in your chair honey, quit tryin to climb out (wahh!)
-i told you it's okay haihai, wanna ba-ba?
-take a night-night? nan-a-boo, goo-goo ga-ga?
-her make goo-goo ca-ca? da-da change your dia-dee
-clean the baby up so her can take a nighty-nighty
-your dad'll wake her up as soon as we get to the water
-ninety-seven bonnie and clyde, me and my daughter
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-wake up sweepy head we're here, before we pway
-we're gonna take mama for a wittle walk along the pier
-baby, don't cry honey, don't get the wrong idea
-mama's too sweepy to hear you screamin in her ear (ma-maa!)
-that's why you can't get her to wake, but don't worry
-da-da made a nice bed for mommy at the bottom of the lake
-here, you wanna help da-da tie a rope around this rock? (yeah!)
-we'll tie it to her footsie then we'll roll her off the dock
-ready now, here we go, on the count of free..
-one.. two.. free.. wheeeeee! (whoooooshhhhh)
-there goes mama, spwashin in the wa-ta
-no more fightin wit dad, no more restraining order
-no more step-da-da, no more new brother
-blow her kisses bye-bye, tell mama you love her (mommy!)
-now we'll go play in the sand, build a castle and junk
-but first, just help dad with two more things out the trunk
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-just the two of us..
-and when we ride!
-just the two of us..
-just you and i!
-just the two of us..
-just me and you baby
-is all we need in this world
-just me and you
-your da-da will always be there for you
-your da-da's always gonna love you
-remember that
-if you ever need me i will always be here for you
-if you ever need anything, just ask
-da-da will be right there
-your da-da loves you
-i love you baby
+(dp1
+Vwahh
+p2
+I1
+sVhelp
+p3
+I3
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVbyebye
+p6
+I1
+sVscratch
+p7
+I1
+sVsoon
+p8
+I1
+sVspwashin
+p9
+I1
+sVisnt
+p10
+I1
+sVclimb
+p11
+I1
+sVgo
+p12
+I4
+sVhell
+p13
+I1
+sVchair
+p14
+I1
+sVstill
+p15
+I1
+sVtakin
+p16
+I1
+sVmake
+p17
+I1
+sVima
+p18
+I1
+sVfit
+p19
+I1
+sVexplain
+p20
+I1
+sVrestraining
+p21
+I1
+sVexcept
+p22
+I1
+sVlate
+p23
+I1
+sVclyde
+p24
+I1
+sVactin
+p25
+I1
+sVswimmin
+p26
+I1
+sVlake
+p27
+I1
+sVwhew
+p28
+I1
+sVreal
+p29
+I4
+sVcount
+p30
+I1
+sVninetyseven
+p31
+I1
+sVaround
+p32
+I1
+sVget
+p33
+I4
+sVfar
+p34
+I1
+sVcouple
+p35
+I1
+sVrock
+p36
+I1
+sVbashful
+p37
+I1
+sVfirst
+p38
+I1
+sVnightnight
+p39
+I1
+sVbaba
+p40
+I1
+sVdock
+p41
+I1
+sVknow
+p42
+I2
+sVprobably
+p43
+I1
+sVworld
+p44
+I3
+sVstrap
+p45
+I1
+sVpier
+p46
+I1
+sVketchup
+p47
+I1
+sVheaven
+p48
+I1
+sVsmell
+p49
+I1
+sVcry
+p50
+I1
+sVbrother
+p51
+I2
+sVroll
+p52
+I1
+sVsand
+p53
+I2
+sVwit
+p54
+I1
+sVtimeout
+p55
+I1
+sValways
+p56
+I4
+sVclean
+p57
+I1
+sVgrab
+p58
+I1
+sVnanaboo
+p59
+I1
+sVhusband
+p60
+I1
+sVmean
+p61
+I1
+sVem
+p62
+I1
+sVpway
+p63
+I2
+sVright
+p64
+I1
+sVold
+p65
+I1
+sVdadll
+p66
+I1
+sVyeah
+p67
+I2
+sVseat
+p68
+I1
+sVmessy
+p69
+I1
+sVsee
+p70
+I1
+sVshes
+p71
+I2
+sVill
+p72
+I1
+sVstepson
+p73
+I1
+sVgoes
+p74
+I1
+sVhappens
+p75
+I1
+sVgon
+p76
+I3
+sVbottom
+p77
+I1
+sVprison
+p78
+I1
+sVbad
+p79
+I1
+sVenough
+p80
+I1
+sVgaga
+p81
+I1
+sVmusta
+p82
+I1
+sVfootsie
+p83
+I1
+sVgot
+p84
+I2
+sVever
+p85
+I3
+sVknife
+p86
+I1
+sVtold
+p87
+I1
+sVwhoooooshhhhh
+p88
+I1
+sVblow
+p89
+I1
+sVmamas
+p90
+I3
+sVbed
+p91
+I1
+sVquit
+p92
+I1
+sVask
+p93
+I1
+sVnever
+p94
+I1
+sVback
+p95
+I1
+sVhaihai
+p96
+I2
+sVeminem
+p97
+I1
+sVwater
+p98
+I2
+sVlet
+p99
+I3
+sVfree
+p100
+I2
+sVtrunk
+p101
+I2
+sVput
+p102
+I1
+sValong
+p103
+I1
+sVthrow
+p104
+I1
+sVchange
+p105
+I1
+sVmamaa
+p106
+I1
+sVdaughter
+p107
+I1
+sVanything
+p108
+I1
+sVoh
+p109
+I2
+sVspilled
+p110
+I1
+sVfightin
+p111
+I1
+sVscreamin
+p112
+I1
+sVkeep
+p113
+I1
+sVtie
+p114
+I2
+sVeatin
+p115
+I1
+sVplace
+p116
+I4
+sVneed
+p117
+I3
+sVcastle
+p118
+I2
+sVthats
+p119
+I1
+sVlove
+p120
+I4
+sVdont
+p121
+I10
+sVfeel
+p122
+I1
+sVmommy
+p123
+I2
+sVfloat
+p124
+I1
+sVone
+p125
+I3
+sVwash
+p126
+I1
+sVwittle
+p127
+I1
+sVtoys
+p128
+I1
+sVhear
+p129
+I1
+sVidea
+p130
+I1
+sVwan
+p131
+I3
+sVlittle
+p132
+I4
+sVtoy
+p133
+I1
+sVi
+I6
+sVwould
+p134
+I1
+sVthere
+p135
+I1
+sVtwo
+p136
+I18
+sVway
+p137
+I2
+sVmama
+p138
+I7
+sVtryin
+p139
+I1
+sVtype
+p140
+I1
+sVtell
+p141
+I1
+sVstepdada
+p142
+I1
+sVwants
+p143
+I1
+sVhead
+p144
+I1
+sVshell
+p145
+I1
+sVthat
+p146
+I1
+sVnobody
+p147
+I1
+sVhurt
+p148
+I1
+sVunderstand
+p149
+I1
+sVbaby
+p150
+I5
+sVear
+p151
+I1
+sVnightynighty
+p152
+I1
+sVwomen
+p153
+I1
+sVme
+p154
+I1
+sVkind
+p155
+I1
+sVmade
+p156
+I2
+sVlook
+p157
+I1
+sVsweepy
+p158
+I2
+sVcar
+p159
+I1
+sVride
+p160
+I6
+sVsay
+p161
+I1
+sVus
+p162
+I16
+sVrope
+p163
+I1
+sVmatter
+p164
+I1
+sVloves
+p165
+I2
+sVwake
+p166
+I3
+sVcalled
+p167
+I4
+sVtheres
+p168
+I1
+sVdad
+p169
+I3
+sVcrazy
+p170
+I1
+sVcmon
+p171
+I1
+sVjunk
+p172
+I1
+sVgive
+p173
+I1
+sVdada
+p174
+I10
+sVkisses
+p175
+I1
+sVsad
+p176
+I1
+sVhoney
+p177
+I4
+sVsit
+p178
+I1
+sVcant
+p179
+I2
+sVdiadee
+p180
+I1
+sVwant
+p181
+I1
+sVthroat
+p182
+I1
+sVtake
+p183
+I3
+sVwell
+p184
+I5
+sVrunned
+p185
+I1
+sVwheeeeee
+p186
+I1
+sVshirt
+p187
+I1
+sVno
+p188
+I1
+sVthings
+p189
+I2
+sVthinkin
+p190
+I1
+sVbonnie
+p191
+I1
+sVdinner
+p192
+I1
+sVwalk
+p193
+I1
+sVya
+p194
+I2
+sVnap
+p195
+I1
+sVbuild
+p196
+I2
+sVbetter
+p197
+I1
+sVnew
+p198
+I2
+sVyou
+p199
+I6
+sVbeach
+p200
+I1
+sVbein
+p201
+I1
+sVnice
+p202
+I1
+sVgoogoo
+p203
+I2
+sVplay
+p204
+I2
+sVokay
+p205
+I1
+sVhey
+p206
+I2
+sVwata
+p207
+I1
+sVdadas
+p208
+I3
+sVwrong
+p209
+I1
+sVsaid
+p210
+I1
+sVmad
+p211
+I1
+sVbooboo
+p212
+I1
+sVready
+p213
+I1
+sVsweepin
+p214
+I1
+sVwheres
+p215
+I1
+sVgoin
+p216
+I1
+sVcause
+p217
+I1
+sVremember
+p218
+I1
+sVwe
+p219
+I1
+sVmaybe
+p220
+I1
+sVyoure
+p221
+I3
+sVupset
+p222
+I1
+sVnothin
+p223
+I1
+sVorder
+p224
+I1
+sVjail
+p225
+I1
+sVworry
+p226
+I2
+sVna
+p227
+I6
+sVcaca
+p228
+I1
+sVskunk
+p229
+I1
+sVnah
+p230
+I1
+s.

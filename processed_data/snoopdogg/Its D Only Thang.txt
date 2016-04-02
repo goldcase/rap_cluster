@@ -1,49 +1,385 @@
-"it's d only thang" lyrics
-snoop dogg lyrics
-"it's d only thang"
-winners, everybody wants to be a winner
-winning is everything uh, nah, winning it’s the only thing
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-i can jump out the jet, i can run, i can swim
-i am heavy on the case, i stay in first place
-mud on my shoes, taste blood on my face
-out of town, touch down never out of bounds
-i train for the gold, i can go twelve rounds
-steal city baby, we are super bowl bound
-recollect a stack while i check a checker flag
-all this winning got me grinning
-all this losing got you mad
-no more chuck t’s on my feet, it’s just adidas
-man they kept it true to the streets
-and like he c, i’m on a 50 game win streak
-i can’t be beat, i am the real heat
-real king real rings, that’s what we say
-i threw a shirt out and cut out i’m on my way
-pga car under he may play?
-it’s what amazing happens in the nba, eh
-eo, we don’t take them on the west side
-yeah, i was born to be the best right
-rest and sleep is for the weak
-the last shot y’all can go and put it on me
-the last swing, the last throw, double u is all a dog know
-w-i-n, w-e-s-t og, snoop d-o double g
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-winning ain’t everything, winning it’s d only thang
-when you’re living life in the game,
-no matter what game it is, winning it ain’t everything, it’s the only thang
-and make sure you go hard, blood sweat and tears
-shout out to all the winners out there
-that’s all i do is win, ya digg? it ain’t easy
-congratulations, winner.
+(dp1
+Vshot
+p2
+I1
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVya
+p5
+I1
+sVrest
+p6
+I1
+sVsleep
+p7
+I1
+sVgo
+p8
+I3
+sVcut
+p9
+I1
+sVgold
+p10
+I1
+sVeverything
+p11
+I10
+sVthang
+p12
+I11
+sVwinner
+p13
+I2
+sVwinning
+p14
+I20
+sVtears
+p15
+I1
+sVeasy
+p16
+I1
+sVswim
+p17
+I1
+sVcase
+p18
+I1
+sVbeat
+p19
+I1
+sVme
+p20
+I1
+sVgame
+p21
+I10
+sVknow
+p22
+I1
+sVd
+I10
+sVlike
+p23
+I1
+sV50
+p24
+I1
+sVdouble
+p25
+I2
+sVsteal
+p26
+I1
+sVside
+p27
+I1
+sVt\u2019s
+p28
+I1
+sVheavy
+p29
+I1
+sVtwelve
+p30
+I1
+sVeo
+p31
+I1
+sVright
+p32
+I1
+sVeh
+p33
+I1
+sVstreets
+p34
+I1
+sVyeah
+p35
+I1
+sVyou\u2019re
+p36
+I8
+sVjump
+p37
+I1
+sVtouch
+p38
+I1
+sVchuck
+p39
+I1
+sVnba
+p40
+I1
+sVbest
+p41
+I1
+sVhappens
+p42
+I1
+sVliving
+p43
+I8
+sVrings
+p44
+I1
+sVmud
+p45
+I1
+sVgot
+p46
+I2
+sVcan\u2019t
+p47
+I1
+sVrun
+p48
+I1
+sVnever
+p49
+I1
+sVweak
+p50
+I1
+sVlosing
+p51
+I1
+sVsuper
+p52
+I1
+sVthrow
+p53
+I1
+sVc
+I1
+sVlast
+p54
+I3
+sVsnoop
+p55
+I2
+sVg
+I1
+sVog
+p56
+I1
+sVrecollect
+p57
+I1
+sVthing
+p58
+I1
+sVplace
+p59
+I1
+sVsweat
+p60
+I1
+sVwest
+p61
+I2
+sVblood
+p62
+I2
+sVit\u2019s
+p63
+I12
+sVadidas
+p64
+I1
+sVpga
+p65
+I1
+sVwin
+p66
+I3
+sVbound
+p67
+I1
+sVfeet
+p68
+I1
+sVput
+p69
+I1
+sVrounds
+p70
+I1
+sVeverybody
+p71
+I1
+sVcity
+p72
+I1
+sVjet
+p73
+I1
+sVdogg
+p74
+I1
+sVthere
+p75
+I1
+sVshout
+p76
+I1
+sVchecker
+p77
+I1
+sVdon\u2019t
+p78
+I1
+sVway
+p79
+I1
+sVthrew
+p80
+I1
+sVwants
+p81
+I1
+sVlife
+p82
+I8
+sVhard
+p83
+I1
+sVheat
+p84
+I1
+sVtrain
+p85
+I1
+sVbaby
+p86
+I1
+sVdigg
+p87
+I1
+sVtrue
+p88
+I1
+sVtown
+p89
+I1
+sVking
+p90
+I1
+sVcongratulations
+p91
+I1
+sVborn
+p92
+I1
+sVcar
+p93
+I1
+sVain\u2019t
+p94
+I10
+sVbounds
+p95
+I1
+sVgrinning
+p96
+I1
+sVmatter
+p97
+I1
+sVy\u2019all
+p98
+I1
+sVuh
+p99
+I1
+sVstreak
+p100
+I1
+sVreal
+p101
+I3
+sVtaste
+p102
+I1
+sVdog
+p103
+I1
+sVsay
+p104
+I1
+sVcheck
+p105
+I1
+sVshirt
+p106
+I1
+sVnah
+p107
+I1
+sVbowl
+p108
+I1
+sVi\u2019m
+p109
+I2
+sVamazing
+p110
+I1
+sVwinners
+p111
+I2
+sVtake
+p112
+I1
+sVplay
+p113
+I1
+sVsure
+p114
+I1
+sVthat\u2019s
+p115
+I2
+sVmay
+p116
+I1
+sVswing
+p117
+I1
+sVstay
+p118
+I1
+sVmad
+p119
+I1
+sVstack
+p120
+I1
+sVman
+p121
+I1
+sVkept
+p122
+I1
+sVflag
+p123
+I1
+sVface
+p124
+I1
+sVu
+I1
+sVfirst
+p125
+I1
+sVmake
+p126
+I1
+s.

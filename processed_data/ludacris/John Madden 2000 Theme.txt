@@ -1,31 +1,239 @@
-"john madden 2000 theme" lyrics
-ludacris lyrics
-"john madden 2000 theme"
-maaaaaaaaan, get out my way and watch out as i come through
-bustin' in your line, crackin' helmets in two
-i bring the pain, so what'cha gone do?
-stand there and just get shook out your shoes
-so clean out your locker, i'm out to get'cha
-cuz i just popped ya, you can't take the pressure
-you might as well quit, cuz you just can't last
-madden two thou put your face in the grass
-and your spine in the dirt, so put on a skirt
-if you step on the field and don't wanna get hurt
-just bruised and beaten, all black and blue
-and it's been like that since madden '92
-you better come harder than hard, rougher than rough
-put up your guard, get ready to crush
-it's thangs on this field that you just can't change
-e.a. sports, it's in the game, what'cha want?
-(the rock in the palm of my hands!!!)
-what'cha got? (i got john madden!!!!)
-what'cha want?
-(the rock in the palm of my hands!!!)
-what'cha got? (i got john madden!!!!)
-what'cha want?
-(the rock in the palm of my hands!!!)
-what'cha got? (i got john madden!!!!)
-what'cha want?
-(the rock in the palm of my hands!!!)
-what'cha got? (i got john madden!!!!)
-feel the power
+(dp1
+Vgone
+p2
+I1
+sVbeaten
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVludacris
+p6
+I1
+sVfeel
+p7
+I1
+sVharder
+p8
+I1
+sVhard
+p9
+I1
+sVea
+p10
+I1
+sVtwo
+p11
+I2
+sVbring
+p12
+I1
+sVcant
+p13
+I3
+sVthrough
+p14
+I1
+sVwant
+p15
+I4
+sVready
+p16
+I1
+sVrough
+p17
+I1
+sVsports
+p18
+I1
+sVskirt
+p19
+I1
+sVwan
+p20
+I1
+sVdont
+p21
+I1
+sVblue
+p22
+I1
+sVquit
+p23
+I1
+sVlocker
+p24
+I1
+sV92
+p25
+I1
+sVcrush
+p26
+I1
+sVsince
+p27
+I1
+sVfield
+p28
+I2
+sVna
+p29
+I1
+sVdirt
+p30
+I1
+sVmadden
+p31
+I8
+sVrougher
+p32
+I1
+sVbetter
+p33
+I1
+sVya
+p34
+I1
+sVtheme
+p35
+I2
+sVblack
+p36
+I1
+sVtake
+p37
+I1
+sVway
+p38
+I1
+sVgot
+p39
+I8
+sVjohn
+p40
+I6
+sVmight
+p41
+I1
+sVhelmets
+p42
+I1
+sVpopped
+p43
+I1
+sVpain
+p44
+I1
+sVdo
+p45
+I1
+sVget
+p46
+I4
+sVgetcha
+p47
+I1
+sVrock
+p48
+I4
+sVwatch
+p49
+I1
+sVmaaaaaaaaan
+p50
+I1
+sVpressure
+p51
+I1
+sVstep
+p52
+I1
+sVthangs
+p53
+I1
+sVcrackin
+p54
+I1
+sVhands
+p55
+I4
+sVput
+p56
+I3
+sVline
+p57
+I1
+sVhurt
+p58
+I1
+sVcome
+p59
+I2
+sVgame
+p60
+I1
+sVchange
+p61
+I1
+sVlast
+p62
+I1
+sVlike
+p63
+I1
+sVpalm
+p64
+I4
+sVthou
+p65
+I1
+sVwell
+p66
+I1
+sVbustin
+p67
+I1
+sVface
+p68
+I1
+sVpower
+p69
+I1
+sVspine
+p70
+I1
+sV2000
+p71
+I2
+sVbruised
+p72
+I1
+sVstand
+p73
+I1
+sVclean
+p74
+I1
+sVwhatcha
+p75
+I9
+sVim
+p76
+I1
+sVguard
+p77
+I1
+sVgrass
+p78
+I1
+sVcuz
+p79
+I2
+sVshook
+p80
+I1
+s.

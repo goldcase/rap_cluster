@@ -1,75 +1,591 @@
-"niggas in paris" lyrics
-kanye west lyrics
-"niggas in paris"
-(with jay-z)
-we're gonna skate to one song and one song only.
-so i ball so hard muhfuckas wanna fine me
-first niggas gotta find me
-what’s 50 grand to a muhfucka like me
-can you please remind me?
-ball so hard, this shit crazy
-y’all don’t know that don’t shit phase me
-the nets could go 0-82 and i look at you like this shit gravy
-ball so hard, this shit weird
-we ain’t even supposed to be here,
-ball so hard, since we here
-it’s only right that we be fair
-psycho, i’m liable to go michael
-take your pick, jackson, tyson, jordan, game 6
-ball so hard, got a broke clock, rolleys that don’t tick tock
-audemars that’s losing time, hidden behind all these big rocks
-ball so hard, i’m shocked too,
-i’m supposed to be locked up too
-you escaped what i’ve escaped
-you’d be in paris getting fucked up too
-ball so hard, let’s get faded, le meurice for like 6 days
-gold bottles, scold models, spillin’ ace on my sick j’s
-so ball so hard, bitch behave, just might let you meet ye,
-chi towns d. rose, i’m movin’ the nets to bk
-ball so hard muhfuckas wanna fine me
-that shit cray
-she said ye can we get married at the mall?
-i said look you need to crawl ‘fore you ball
-come and meet me in the bathroom stall
-and show me why you deserve to have it all
-ball so hard
-that shit cray (that shit cray), ain’t it jay?
-ball so hard
-what she order (what she order), fish filet
-ball so hard
-your whip so cold (whip so cold), this old thing
-ball so hard
-act like you’ll never be around motherfuckers like this again
-bougie girl, grab her hand
-fuck that bitch she don’t wanna dance
-excuse my french but i’m in france (i’m just sayin’)
-prince william’s ain’t do it right if you ask me
-cause i was him i would have married kate & ashley
-what's gucci my nigga?
-what's louis my killa?
-what's drugs my deala?
-what's that jacket, margiela?
-doctors say i’m the illest
-cause i’m suffering from realness
-got my niggas in paris
-and they going gorillas, huh!
-i don't even know what that means.
-(no one knows what it means, but it's provocative)
-no, it's not, it's gross
-(it gets the people going!)
-ball so hard muhfuckas wanna fine me
-ball so hard muhfuckas wanna fine me
-you are now watching the throne
-don’t let me get in my zone
-these other niggas is lyin’
-actin’ like the summer ain’t mine
-i got that hot bitch in my home
-you know how many hot bitches i own?
-don’t let me get in my zone
-the stars is in the building
-they hands is to the ceiling
-i know i’m bout to kill it
-how you know, i got that feeling
-you are now watching the throne
-don’t let me into my zone
-i’m definitely in my zone
+(dp1
+Vsummer
+p2
+I1
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVdance
+p6
+I1
+sVaudemars
+p7
+I1
+sVskate
+p8
+I1
+sVkill
+p9
+I1
+sVgo
+p10
+I2
+sVkanye
+p11
+I1
+sVpsycho
+p12
+I1
+sVfine
+p13
+I4
+sVfind
+p14
+I1
+sVle
+p15
+I1
+sVgold
+p16
+I1
+sVzone
+p17
+I4
+sVjay
+p18
+I1
+sVparis
+p19
+I4
+sVrose
+p20
+I1
+sVit\u2019s
+p21
+I1
+sVscold
+p22
+I1
+sVonly
+p23
+I1
+sVgoing
+p24
+I2
+sVhidden
+p25
+I1
+sVmight
+p26
+I1
+sVta
+p27
+I1
+sVtock
+p28
+I1
+sVillest
+p29
+I1
+sVaround
+p30
+I1
+sVget
+p31
+I4
+sVi\u2019m
+p32
+I10
+sVbig
+p33
+I1
+sVye
+p34
+I2
+sVdeala
+p35
+I1
+sVgame
+p36
+I1
+sVkilla
+p37
+I1
+sVknow
+p38
+I5
+sVhands
+p39
+I1
+sVtick
+p40
+I1
+sVd
+I1
+sVlet\u2019s
+p41
+I1
+sVlike
+p42
+I6
+sVlouis
+p43
+I1
+sVmarried
+p44
+I2
+sVmichael
+p45
+I1
+sV50
+p46
+I1
+sVrocks
+p47
+I1
+sVremind
+p48
+I1
+sVliable
+p49
+I1
+sVgrab
+p50
+I1
+sVsayin\u2019
+p51
+I1
+sVright
+p52
+I2
+sVold
+p53
+I1
+sVfair
+p54
+I1
+sVpeople
+p55
+I1
+sVfish
+p56
+I1
+sVhard
+p57
+I15
+sVi\u2019ve
+p58
+I1
+sVhome
+p59
+I1
+sVgirl
+p60
+I1
+sVcold
+p61
+I2
+sVwhip
+p62
+I2
+sVj\u2019s
+p63
+I1
+sVeven
+p64
+I2
+sVgross
+p65
+I1
+sVgon
+p66
+I1
+sVjackson
+p67
+I1
+sVclock
+p68
+I1
+sVnets
+p69
+I2
+sVsince
+p70
+I1
+sVplease
+p71
+I1
+sVmall
+p72
+I1
+sVprince
+p73
+I1
+sVbehind
+p74
+I1
+sVbehave
+p75
+I1
+sVyou\u2019d
+p76
+I1
+sVit
+p77
+I1
+sVgot
+p78
+I5
+sVcause
+p79
+I2
+sVyou\u2019ll
+p80
+I1
+sVnever
+p81
+I1
+sVactin\u2019
+p82
+I1
+sVhere
+p83
+I2
+sVbk
+p84
+I1
+sVlet
+p85
+I4
+sVfrench
+p86
+I1
+sVlosing
+p87
+I1
+sVmuhfuckas
+p88
+I4
+sVcome
+p89
+I1
+sVthrone
+p90
+I2
+sVace
+p91
+I1
+sVgetting
+p92
+I1
+sVmuhfucka
+p93
+I1
+sVbougie
+p94
+I1
+sVcould
+p95
+I1
+sVask
+p96
+I1
+sVdays
+p97
+I1
+sVthing
+p98
+I1
+sVpick
+p99
+I1
+sVmargiela
+p100
+I1
+sVweird
+p101
+I1
+sVmotherfuckers
+p102
+I1
+sVfirst
+p103
+I1
+sVown
+p104
+I1
+sVwhats
+p105
+I4
+sVdont
+p106
+I1
+sVone
+p107
+I3
+sVphase
+p108
+I1
+sVjayz
+p109
+I1
+sVmeurice
+p110
+I1
+sVbitch
+p111
+I3
+sVgorillas
+p112
+I1
+sVwan
+p113
+I5
+sVbathroom
+p114
+I1
+sVwould
+p115
+I1
+sVwest
+p116
+I1
+sVkate
+p117
+I1
+sVcray
+p118
+I3
+sVfrance
+p119
+I1
+sVtoo
+p120
+I3
+sVstars
+p121
+I1
+sV6
+I2
+sVmeans
+p122
+I2
+sVdon\u2019t
+p123
+I7
+sVceiling
+p124
+I1
+sVknows
+p125
+I1
+sVfilet
+p126
+I1
+sVdrugs
+p127
+I1
+sVbitches
+p128
+I1
+sVhuh
+p129
+I1
+sVrolleys
+p130
+I1
+sVmine
+p131
+I1
+sVdeserve
+p132
+I1
+sVjordan
+p133
+I1
+sVbroke
+p134
+I1
+sVdoctors
+p135
+I1
+sVtowns
+p136
+I1
+sVcrawl
+p137
+I1
+sVbout
+p138
+I1
+sVme
+p139
+I9
+sVlocked
+p140
+I1
+sVlook
+p141
+I2
+sVniggas
+p142
+I5
+sVain\u2019t
+p143
+I4
+sVwilliam\u2019s
+p144
+I1
+sVact
+p145
+I1
+sVy\u2019all
+p146
+I1
+sVstall
+p147
+I1
+sVwhat\u2019s
+p148
+I1
+sVsupposed
+p149
+I2
+sVfaded
+p150
+I1
+sVmeet
+p151
+I2
+sVfeeling
+p152
+I1
+sVlyin\u2019
+p153
+I1
+sVcrazy
+p154
+I1
+sVprovocative
+p155
+I1
+sVfuck
+p156
+I1
+sVescaped
+p157
+I2
+sVsay
+p158
+I1
+sVneed
+p159
+I1
+sVchi
+p160
+I1
+sVshit
+p161
+I7
+sVagain
+p162
+I1
+sVbottles
+p163
+I1
+sVna
+p164
+I6
+sVmovin\u2019
+p165
+I1
+sVsong
+p166
+I2
+sVshocked
+p167
+I1
+sVgucci
+p168
+I1
+sVhot
+p169
+I2
+sVtake
+p170
+I1
+sVsick
+p171
+I1
+sVgrand
+p172
+I1
+sVgets
+p173
+I1
+sVgravy
+p174
+I1
+sVball
+p175
+I16
+sVthat\u2019s
+p176
+I1
+sVmodels
+p177
+I1
+sV082
+p178
+I1
+sV\u2018fore
+p179
+I1
+sVhand
+p180
+I1
+sVwatching
+p181
+I2
+sVsaid
+p182
+I2
+sVnigga
+p183
+I1
+sVrealness
+p184
+I1
+sVfucked
+p185
+I1
+sVtyson
+p186
+I1
+sVbuilding
+p187
+I1
+sVashley
+p188
+I1
+sVexcuse
+p189
+I1
+sVmany
+p190
+I1
+sVsuffering
+p191
+I1
+sVjacket
+p192
+I1
+sVdefinitely
+p193
+I1
+sVspillin\u2019
+p194
+I1
+sVtime
+p195
+I1
+sVorder
+p196
+I2
+s.

@@ -1,68 +1,607 @@
-"ridin' dirty" lyrics
-ugk lyrics
-"ridin' dirty"
-ridin dirty
-straight up dedicated to the cadillacs
-ridin dirty, know what i'm sayin
-comin down on the slab, boy
-ridin dirty, forreal tho, ridin dirty ...
-have you ever been rollin in a clean ass 'llac
-blowin big out the window, everybody got a sack
-got my heat right between my seat, got a box of them thangs
-in case these fools start playin with me
-you'd be surprised how them boppers wink, girl i can't stop
-give my headlights a blink and roll them up out the top
-and keep movin, and keep rollin
-fools that don't be holdin, i'm comin through and foldin
-and i can't stand snitches, wanna kill alla y'all
-even though some bustas thought i'm still rollin like a ball
-and having things my way, hittin that highway
-sellin that big yay, a plush-ass place to stay
-po-lice, they wanna run in
-talkin on cell phones got a lotta kids done in
-i wanna live like arnold, willis and mr. drummond
-and keep my paper sturdy, big birds and tight herbs
-fool, i'm ridin dirty, uh, whaaaat
-big birds and tight herbs, fool i'm ridin dirty
-ridin dirty, uh, whaaat
-fool, ridin dirty, uh... whaaaat?
-tell me can you feel it? man, nothin can save ya
-i believe it's that season for gettin yo papers
-or haven't you heard about them birds? we call it that cheese
-in texas we get it with ease, hit i-10 if you please
-but these polices - they think they sharp as creases
-for no reasons man, they straight up strippin cars to pieces
-out of suspicion, or if they thinkin you on a mission
-ain't no wishin or prayin, they sayin assume the position
-hands behind ya head, down on ya knees
-you get the case and they get yo weight and yo g's
-come on! i use to ride them port arthur city streets
-with a chick with pretty feets and a box of philly sweets
-they tried to finish me but couldn't get it done
-so somebody told the law big bun was the one ridin dirty
-man, somebody told the law big bun was the one ridin dirty
-sup pa, uh, what, ridin dirty
-beamount, yeah, uh, man, ridin dirty
-uh, ridin dirty, uh, ridin dirty
-uh, chillin in new york, ridin dirty
-uh, big d-town, know what i'm talmbout, ridin dirty
-that big h-town, know what i'm sayin (wussup southside)
-ridin dirty, uh, uh, ridin dirty
-uh, southwest ridin dirty, wussup lord j (know what i'm talmbout)
-uh, that northside ridin dirty
-yeah, that westside ridin dirty
-uh, that, that, that eastside ridin dirty
-uh, california ridin dirty, fools in oakland ridin dirty
-my fool spice ridin dirty, i know that fool brad ridin dirty
-and big mike ridin dirty, and all my fools ridin dirty
-uh, uh, whaaat, baby ridin dirty
-and big bun ridin dirty, fool leroy ridin dirty
-and big mitch ridin dirty,
-uh, uh uh, all my fools in louisiana ridin dirty
-mister chris ridin dirty, all my fools in atlanta ridin dirty
-south carolina, north carolina, ridin dirty
-flippin, dippin (ridin dirty) know what i'm sayin
-up in washington, ridin dirty
-miami, florida - where they film the vice
-know what i'm talmbout? ridin dirty
-uh, ridin dirty... ridin dirty...
+(dp1
+Vugk
+p2
+I1
+sVnorthside
+p3
+I1
+sVgs
+p4
+I1
+sVlyrics
+p5
+I2
+sVsouthside
+p6
+I1
+sVmission
+p7
+I1
+sVhtown
+p8
+I1
+sVleroy
+p9
+I1
+sVpaper
+p10
+I1
+sVkill
+p11
+I1
+sVstill
+p12
+I1
+sVchillin
+p13
+I1
+sVbirds
+p14
+I3
+sVaint
+p15
+I1
+sVpolice
+p16
+I1
+sVsayin
+p17
+I4
+sValla
+p18
+I1
+sVblowin
+p19
+I1
+sVease
+p20
+I1
+sVreasons
+p21
+I1
+sVwindow
+p22
+I1
+sVsuspicion
+p23
+I1
+sVpretty
+p24
+I1
+sVlord
+p25
+I1
+sVsave
+p26
+I1
+sVsurprised
+p27
+I1
+sVsouthwest
+p28
+I1
+sVfool
+p29
+I6
+sVme
+p30
+I1
+sVplushass
+p31
+I1
+sVhit
+p32
+I1
+sVyo
+p33
+I3
+sVget
+p34
+I4
+sVya
+p35
+I3
+sVbig
+p36
+I11
+sVfeets
+p37
+I1
+sVstop
+p38
+I1
+sVsweets
+p39
+I1
+sVthangs
+p40
+I1
+sVknow
+p41
+I7
+sVhands
+p42
+I1
+sVwhaaat
+p43
+I2
+sVone
+p44
+I2
+sVbeamount
+p45
+I1
+sVlike
+p46
+I2
+sVmiami
+p47
+I1
+sVgettin
+p48
+I1
+sVroll
+p49
+I1
+sVarthur
+p50
+I1
+sVholdin
+p51
+I1
+sVhittin
+p52
+I1
+sVchick
+p53
+I1
+sVhavent
+p54
+I1
+sVtold
+p55
+I2
+sVride
+p56
+I1
+sVyall
+p57
+I1
+sVright
+p58
+I1
+sVweight
+p59
+I1
+sVphones
+p60
+I1
+sVstreets
+p61
+I1
+sVyeah
+p62
+I2
+sVseat
+p63
+I1
+sVpolices
+p64
+I1
+sVfinish
+p65
+I1
+sVstrippin
+p66
+I1
+sVplayin
+p67
+I1
+sVgirl
+p68
+I1
+sVport
+p69
+I1
+sVeven
+p70
+I1
+sVknees
+p71
+I1
+sVmovin
+p72
+I1
+sVlotta
+p73
+I1
+sVmitch
+p74
+I1
+sVmister
+p75
+I1
+sVwillis
+p76
+I1
+sVplease
+p77
+I1
+sVcell
+p78
+I1
+sVbehind
+p79
+I1
+sVuse
+p80
+I1
+sVsup
+p81
+I1
+sVgot
+p82
+I4
+sVever
+p83
+I1
+sVhighway
+p84
+I1
+sVuh
+p85
+I21
+sVass
+p86
+I1
+sVrun
+p87
+I1
+sVcity
+p88
+I1
+sVcars
+p89
+I1
+sVridin
+p90
+I43
+sVcalifornia
+p91
+I1
+sVyork
+p92
+I1
+sVvice
+p93
+I1
+sVcome
+p94
+I1
+sVbox
+p95
+I2
+sVboy
+p96
+I1
+sVkids
+p97
+I1
+sVtalmbout
+p98
+I3
+sVllac
+p99
+I1
+sVkeep
+p100
+I3
+sVflippin
+p101
+I1
+sVplace
+p102
+I1
+sVstand
+p103
+I1
+sVbrad
+p104
+I1
+sVfoldin
+p105
+I1
+sVsouth
+p106
+I1
+sVcheese
+p107
+I1
+sVdippin
+p108
+I1
+sVdont
+p109
+I1
+sVfeel
+p110
+I1
+sVyoud
+p111
+I1
+sVwashington
+p112
+I1
+sVsack
+p113
+I1
+sVblink
+p114
+I1
+sVdone
+p115
+I2
+sVcomin
+p116
+I2
+sVcouldnt
+p117
+I1
+sVoakland
+p118
+I1
+sVheadlights
+p119
+I1
+sVeverybody
+p120
+I1
+sVwan
+p121
+I3
+sVwishin
+p122
+I1
+sVyay
+p123
+I1
+sVwussup
+p124
+I2
+sVwestside
+p125
+I1
+sVtop
+p126
+I1
+sVstart
+p127
+I1
+sVlive
+p128
+I1
+sVpa
+p129
+I1
+sVcall
+p130
+I1
+sVway
+p131
+I1
+sVlouisiana
+p132
+I1
+sVtell
+p133
+I1
+sVhead
+p134
+I1
+sVnorth
+p135
+I1
+sVseason
+p136
+I1
+sVforreal
+p137
+I1
+sVheat
+p138
+I1
+sVbun
+p139
+I3
+sVbaby
+p140
+I1
+sVatlanta
+p141
+I1
+sVbelieve
+p142
+I1
+sVspice
+p143
+I1
+sVcase
+p144
+I2
+sVwhaaaat
+p145
+I2
+sVstraight
+p146
+I2
+sVj
+I1
+sVdtown
+p147
+I1
+sVarnold
+p148
+I1
+sVprayin
+p149
+I1
+sVassume
+p150
+I1
+sVdirty
+p151
+I43
+sVmr
+p152
+I1
+sVsnitches
+p153
+I1
+sVcarolina
+p154
+I2
+sVeastside
+p155
+I1
+sVdedicated
+p156
+I1
+sVgive
+p157
+I1
+sVflorida
+p158
+I1
+sVmike
+p159
+I1
+sVcreases
+p160
+I1
+sVsomebody
+p161
+I2
+sVheard
+p162
+I1
+sVcant
+p163
+I2
+sVim
+p164
+I10
+sVnothin
+p165
+I1
+sVin
+p166
+I2
+sVsharp
+p167
+I1
+sVtexas
+p168
+I1
+sVslab
+p169
+I1
+sVfilm
+p170
+I1
+sVtho
+p171
+I1
+sVsellin
+p172
+I1
+sVna
+p173
+I3
+sVthinkin
+p174
+I1
+sVtight
+p175
+I2
+sVpapers
+p176
+I1
+sVnew
+p177
+I1
+sVfools
+p178
+I6
+sVtalkin
+p179
+I1
+sVball
+p180
+I1
+sVboppers
+p181
+I1
+sVtried
+p182
+I1
+sVthough
+p183
+I1
+sVpieces
+p184
+I1
+sVstay
+p185
+I1
+sVherbs
+p186
+I2
+sVdrummond
+p187
+I1
+sVposition
+p188
+I1
+sVchris
+p189
+I1
+sVlaw
+p190
+I2
+sVman
+p191
+I4
+sVsturdy
+p192
+I1
+sVbustas
+p193
+I1
+sVphilly
+p194
+I1
+sVi10
+p195
+I1
+sVrollin
+p196
+I3
+sVthink
+p197
+I1
+sVthought
+p198
+I1
+sVwink
+p199
+I1
+sVclean
+p200
+I1
+sVthings
+p201
+I1
+sVcadillacs
+p202
+I1
+s.

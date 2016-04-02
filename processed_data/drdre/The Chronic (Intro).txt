@@ -1,45 +1,412 @@
-"the chronic (intro)" lyrics
-dr. dre lyrics
-"the chronic (intro)"
-(feat. snoop doggy dogg)
-this is dedicated to the niggaz that was down from day one
-welcome to death row
-... like we always do about this time
-ha haa haaa haaa, yeah, nine deuce
-death row records creepin while you sleepin'
-niggaz with attitudes, no loc', niggaz on a motherfuckin mission
-what up niggaz and niggettes
-that crazy-ass-niggaz is back in the motherfuckin hizzouse
-yeah, and notorious compton g
-d-r-e on a solo tip, fuck them other fools
-whattup ren
-yeah, droppin chronic flakes on your ass bitch
-west coast flavor, niggaz who talked shit
-get dealt with real quick
-so if you wanna take a trip to the row
-let a nigga like snoop doggy dogg know
-protected by niggaz with big dicks, ak's and 187 skills
-so if it's must you test us
-we can handle it the streets nigga, fuck makin records
-yeah, g's up, hoes down
-if that bitch can't swim, she bound to drizzown
-peace to my nigga drizzae, another platinum hit nigga
-peace to the d.o.c, still makin it funky enough
-and death row records is in full motherfuckin effizzect
-aww yeah, p.s.
-fuck mr. roarke and tattoo, a.k.a. jerry and eazy
-sincerely yours, deeez motherfuckin nuuutz
-i don't love eazy
-i don't love jerry
-i don't love ruthless records
-frankly, i don't love nothin they got to do with
-but... but... but you know what i what you do for me
-jerry and eazy, check this shit right here
-i want y'all to put this bizzalls, in your jizzaws
-and walk them like a strizzaw, tell me what you sizzaw
-yeah, you know what, you know what
-fuck all y'all, fuck y'all, really though
-it's death row nigga
-you better ask somebody, you really better ask somebody
-yeah, yeah, yeah, i don't know them no more
-yeah nigga, you'se a penguin lookin motherfucker
+(dp1
+Vwhattup
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVmission
+p5
+I1
+sVeazy
+p6
+I3
+sVflavor
+p7
+I1
+sVstill
+p8
+I1
+sVfeat
+p9
+I1
+sVrow
+p10
+I5
+sVdeath
+p11
+I4
+sVhaa
+p12
+I1
+sVcrazyassniggaz
+p13
+I1
+sVren
+p14
+I1
+sVdicks
+p15
+I1
+sVtake
+p16
+I1
+sVswim
+p17
+I1
+sVhandle
+p18
+I1
+sVget
+p19
+I1
+sVbig
+p20
+I1
+sVbound
+p21
+I1
+sVrecords
+p22
+I4
+sVknow
+p23
+I5
+sVgot
+p24
+I1
+sVwalk
+p25
+I1
+sVdr
+p26
+I1
+sVday
+p27
+I1
+sVlike
+p28
+I3
+sVsincerely
+p29
+I1
+sVskills
+p30
+I1
+sValways
+p31
+I1
+sVjizzaws
+p32
+I1
+sVdealt
+p33
+I1
+sVquick
+p34
+I1
+sVnotorious
+p35
+I1
+sVyall
+p36
+I3
+sVps
+p37
+I1
+sVcreepin
+p38
+I1
+sVtalked
+p39
+I1
+sVstreets
+p40
+I1
+sVyeah
+p41
+I10
+sVniggaz
+p42
+I6
+sVhoes
+p43
+I1
+sVhaaa
+p44
+I2
+sVreally
+p45
+I2
+sVwhat
+p46
+I1
+sVsleepin
+p47
+I1
+sVruthless
+p48
+I1
+sVha
+p49
+I1
+sVhizzouse
+p50
+I1
+sVroarke
+p51
+I1
+sVenough
+p52
+I1
+sVdroppin
+p53
+I1
+sVattitudes
+p54
+I1
+sVbizzalls
+p55
+I1
+sVdrizzown
+p56
+I1
+sVdoggy
+p57
+I2
+sVass
+p58
+I1
+sVsolo
+p59
+I1
+sVfull
+p60
+I1
+sVloc
+p61
+I1
+sVpenguin
+p62
+I1
+sVmotherfucker
+p63
+I1
+sVhere
+p64
+I1
+sVlet
+p65
+I1
+sVput
+p66
+I1
+sVdeeez
+p67
+I1
+sVg
+I1
+sVaks
+p68
+I1
+sVcompton
+p69
+I1
+sVask
+p70
+I2
+sVfunky
+p71
+I1
+sVsizzaw
+p72
+I1
+sVwest
+p73
+I1
+sVaka
+p74
+I1
+sVdre
+p75
+I2
+sVlove
+p76
+I4
+sVdont
+p77
+I5
+sVmakin
+p78
+I2
+sVone
+p79
+I1
+sVdown
+p80
+I1
+sVchronic
+p81
+I3
+sVnigga
+p82
+I6
+sVbitch
+p83
+I2
+sVanother
+p84
+I1
+sVplatinum
+p85
+I1
+sVwan
+p86
+I1
+sVsnoop
+p87
+I2
+sVyouse
+p88
+I1
+sVdogg
+p89
+I2
+sV187
+p90
+I1
+sVtell
+p91
+I1
+sVmore
+p92
+I1
+sVback
+p93
+I1
+sVstrizzaw
+p94
+I1
+sVdeuce
+p95
+I1
+sVwith
+p96
+I1
+sVmust
+p97
+I1
+sVme
+p98
+I1
+sVnuuutz
+p99
+I1
+sVfrankly
+p100
+I1
+sVus
+p101
+I1
+sVprotected
+p102
+I1
+sVnine
+p103
+I1
+sVmr
+p104
+I1
+sVreal
+p105
+I1
+sVdedicated
+p106
+I1
+sVfuck
+p107
+I5
+sVsomebody
+p108
+I2
+sVcant
+p109
+I1
+sVintro
+p110
+I2
+sVright
+p111
+I1
+sVwant
+p112
+I1
+sVhit
+p113
+I1
+sVeffizzect
+p114
+I1
+sVtrip
+p115
+I1
+sVshit
+p116
+I2
+sVtattoo
+p117
+I1
+sVna
+p118
+I1
+sVdrizzae
+p119
+I1
+sVpeace
+p120
+I2
+sVtip
+p121
+I1
+sVjerry
+p122
+I3
+sVcheck
+p123
+I1
+sVniggettes
+p124
+I1
+sVmotherfuckin
+p125
+I4
+sVbetter
+p126
+I2
+sVtest
+p127
+I1
+sVfools
+p128
+I1
+sVlookin
+p129
+I1
+sVthough
+p130
+I1
+sVaww
+p131
+I1
+sVwelcome
+p132
+I1
+sVcoast
+p133
+I1
+sVdoc
+p134
+I1
+sVnothin
+p135
+I1
+sVflakes
+p136
+I1
+sVtime
+p137
+I1
+s.

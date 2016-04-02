@@ -1,106 +1,500 @@
-"one on one" lyrics
-mc lyte lyrics
-"one on one"
-yeah, yeah, ooh
-smooth better that i ever seen him look
-as i flip the vibe book
-he's on the front page, never looking his age
-he's all that and i'm all in so let the games begin
-now i'ma give you something' so you could get into it
-i got the side view so i could watch ya do it
-you've been on my mind but you're so hard to find
-holly woods got a hold on that behind
-i ain't ashamed to play the game
-listen here, i won't say no names
-put your ass out, make your woman put your ass out
-if you knew i was talking to you, you would pass out
-'cause i gave you no type of indication
-and if i did i was probably on some medication
-i got the hots for your daddy and i just begun
-let's do this one on one
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(you and me, baby, one on one)
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(just you and me, baby, one on one)
-half way across the world i seen you at my show
-with your girl back in italy, but are you still into me?
-'cause if you are i'm here to let you know
-you don't have to be a superstar for me and you to go find
-now i ain't never lied you got the body of an angel
-bangle, bangle, watch the bojangle from every angle
-i'm clocking you, honey
-we could sign a prenup, i got my own money
-i just wanna get to know you a little better
-in the lyte after dark on the dl whatever
-i wanna feel your muscle flex off your backbone
-i got the jones and i can't leave you alone
-i wanna rub your deltoid down to your bicep
-better late than never and i'm sorry i slept
-but now i'm well awake and i'm ready for the fun
-let's do this one on one
-one, one, one, one
-one, one, one, one
-(i wanna play that game)
-one, one, one, one
-one, one, one, one
-(you and me, baby, one on one)
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(just you and me, baby, one on one)
-damn, the only brother make me look twice
-believe that baby, i wanna sacrifice
-i'm on it, you couldn't shake me off if you tried
-no sleeping on the job and i'm wide eyed
-i like the video you got out, the song is butter
-try to keep a clean head and my mind out the gutter
-but it's hard, you bring out the best and the worst
-if i knew you way back when i would have let you hit it first
-love, it's like water on the brain
-only you can tame this run away train
-last time i seen ya, gleam in your eye
-you was looking fly with your girl by your side
-shit, i ain't trying to take her place
-i just wanna have your face all up in my space
-i got the hots for ya and i just begun
-you and me, baby, one on one
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(you and me, baby, one on one)
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(just you and me, baby, one on one)
-one, one, one, one
-one, one, one, one
-(one on one, i wanna play that game, yeah)
-one, one, one, one
-one, one, one, one
-(you and me, baby)
-one, one, one, one
-one, one, one, one
-(one on one, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(you and me just one on one)
-one, one, one, one
-one, one, one, one
-(yeah, i wanna play that game)
-one, one, one, one
-one, one, one, one
-(yeah, yeah, yeah, i wanna play that game)
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I1
+sVmoney
+p4
+I1
+sVhalf
+p5
+I1
+sVbring
+p6
+I1
+sVwoods
+p7
+I1
+sVshake
+p8
+I1
+sVgo
+p9
+I1
+sVstill
+p10
+I1
+sVfind
+p11
+I2
+sVima
+p12
+I1
+sVbelieve
+p13
+I1
+sVbangle
+p14
+I2
+sVtrying
+p15
+I1
+sVbetter
+p16
+I3
+sVlets
+p17
+I2
+sVlate
+p18
+I1
+sVsorry
+p19
+I1
+sVgave
+p20
+I1
+sVme
+p21
+I1
+sVdl
+p22
+I1
+sVwoman
+p23
+I1
+sVhit
+p24
+I1
+sVget
+p25
+I2
+sVya
+p26
+I3
+sVwatch
+p27
+I2
+sVdark
+p28
+I1
+sVgame
+p29
+I11
+sVevery
+p30
+I1
+sVknow
+p31
+I2
+sVprobably
+p32
+I1
+sVfront
+p33
+I1
+sVworld
+p34
+I1
+sVwont
+p35
+I1
+sVlike
+p36
+I2
+sVbrain
+p37
+I1
+sVcause
+p38
+I2
+sVbrother
+p39
+I1
+sVleave
+p40
+I1
+sVtwice
+p41
+I1
+sVindication
+p42
+I1
+sVside
+p43
+I2
+sVview
+p44
+I1
+sVbody
+p45
+I1
+sVhard
+p46
+I2
+sVyeah
+p47
+I12
+sVsign
+p48
+I1
+sVvideo
+p49
+I1
+sVbegun
+p50
+I2
+sVpass
+p51
+I1
+sVgirl
+p52
+I2
+sVbest
+p53
+I1
+sVout
+p54
+I2
+sVtry
+p55
+I1
+sVspace
+p56
+I1
+sVaway
+p57
+I1
+sVlooking
+p58
+I2
+sVbehind
+p59
+I1
+sVgot
+p60
+I8
+sVever
+p61
+I1
+sVacross
+p62
+I1
+sVass
+p63
+I2
+sVaint
+p64
+I3
+sVbackbone
+p65
+I1
+sVrun
+p66
+I1
+sVrub
+p67
+I1
+sVnever
+p68
+I3
+sVwater
+p69
+I1
+sVjob
+p70
+I1
+sVlet
+p71
+I3
+sVput
+p72
+I2
+sVeye
+p73
+I1
+sVsuperstar
+p74
+I1
+sVclocking
+p75
+I1
+sVcould
+p76
+I3
+sVbojangle
+p77
+I1
+sVpage
+p78
+I1
+sVgames
+p79
+I1
+sVyouve
+p80
+I1
+sVfirst
+p81
+I1
+sVlove
+p82
+I1
+sVdont
+p83
+I1
+sVlied
+p84
+I1
+sVfeel
+p85
+I1
+sVwhatever
+p86
+I1
+sVone
+p87
+I172
+sValone
+p88
+I1
+sVnames
+p89
+I1
+sVcouldnt
+p90
+I1
+sVwan
+p91
+I15
+sVlittle
+p92
+I1
+sVhots
+p93
+I2
+sVwould
+p94
+I2
+sVhes
+p95
+I2
+sVlyte
+p96
+I2
+sVgleam
+p97
+I1
+sVslept
+p98
+I1
+sVtame
+p99
+I1
+sVdamn
+p100
+I1
+sVway
+p101
+I2
+sVtype
+p102
+I1
+sVlisten
+p103
+I1
+sVbutter
+p104
+I1
+sVhead
+p105
+I1
+sVfly
+p106
+I1
+sVooh
+p107
+I1
+sVcant
+p108
+I1
+sVback
+p109
+I2
+sVtrain
+p110
+I1
+sVawake
+p111
+I1
+sVeyed
+p112
+I1
+sVashamed
+p113
+I1
+sVbaby
+p114
+I9
+sVlast
+p115
+I1
+sVhold
+p116
+I1
+sVplay
+p117
+I11
+sVwide
+p118
+I1
+sVlook
+p119
+I2
+sVmc
+p120
+I1
+sVsmooth
+p121
+I1
+sVflip
+p122
+I1
+sVflex
+p123
+I1
+sVfun
+p124
+I1
+sVdaddy
+p125
+I1
+sVready
+p126
+I1
+sVmedication
+p127
+I1
+sVangel
+p128
+I1
+sVgive
+p129
+I1
+sVmind
+p130
+I2
+sVit
+p131
+I2
+sVsleeping
+p132
+I1
+sVhoney
+p133
+I1
+sVtalking
+p134
+I1
+sVsay
+p135
+I1
+sVim
+p136
+I8
+sVsomething
+p137
+I1
+sVbicep
+p138
+I1
+sVseen
+p139
+I3
+sVkeep
+p140
+I1
+sVshit
+p141
+I1
+sVitaly
+p142
+I1
+sVvibe
+p143
+I1
+sVna
+p144
+I15
+sVmake
+p145
+I2
+sVsong
+p146
+I1
+sVbook
+p147
+I1
+sVtake
+p148
+I1
+sVprenup
+p149
+I1
+sVholly
+p150
+I1
+sVbegin
+p151
+I1
+sVtried
+p152
+I1
+sVsacrifice
+p153
+I1
+sVknew
+p154
+I2
+sVdeltoid
+p155
+I1
+sVangle
+p156
+I1
+sVjones
+p157
+I1
+sVgutter
+p158
+I1
+sVage
+p159
+I1
+sVyoure
+p160
+I1
+sVwell
+p161
+I1
+sVface
+p162
+I1
+sVplace
+p163
+I1
+sVclean
+p164
+I1
+sVtime
+p165
+I1
+sVworst
+p166
+I1
+sVmuscle
+p167
+I1
+s.

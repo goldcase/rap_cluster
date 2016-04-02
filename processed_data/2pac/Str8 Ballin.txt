@@ -1,88 +1,766 @@
-"str8 ballin" lyrics
-2pac lyrics
-"str8 ballin"
-i would share the definition of balling
-with you white folks but now...
-the game is to be sold not told
-so fuck you.
-i'm up before the sunrise, first to hit the block.
-little bad motherfucker with a pocket full of rocks.
-and i'm totin' these thangs, get my skinny little ass kicked.
-and niggas laugh, 'til the first motherfucker got blasted.
-i put the nigga in his casket,
-now they coverin' the bastard in plastic.
-i smoke blunts on a regular buck when it counts.
-i'm tryin' to make a million dollars outta quarter ounce.
-and gettin' lost on the five-o, fuck them hos.
-got a 45 screamin' about survival.
-hey nigga can i lay low? cook some yay-yo.
-hollar "one-time" when i say so.
-don't want to go to the pen, i'm hittin' fences.
-narcs on a nigga's back, missin' me by inches.
-and they say how do you survive weighin' 165
-in a city where the skinny niggas die?
-tell mama don't cry.
-even when they kill me,
-they can never take the game from a young g.
-i'm st8 ballin'!
-st8 ballin'!
-still on parole and i'm the first nigga servin'
-pour some liquor on the curb for my niggas that deserve it.
-but if i want to make a million, gotta stay dealin'.
-it's kinda boomin' and today i'll make a killin'.
-dressin' down like a villian', but only on the block.
-it's a clever disguise to keep me runnin' from the cops.
-ha, i'm gettin' high. i think i'll die if i don't get no ends.
-i'm in a bucket with 'em ridin' it like it's a benz.
-i hit the strip let my music bump,
-drinkin' liquor, and i'm lookin' for some hoes to fuck.
-rather die makin' money than live poor and legal
-as i slang another ounce, i wish it was a kilo.
-a need money in a major way.
-time to fuck my beach! hey! and gettin' paid
-you other motherfuckers callin',
-but me and my motherfucking thug niggas,
-we st8 ballin'!!
-st8 ballin'!
-damned if i don't, and damned if a nigga do.
-so watch a young motherfucker pull a trigger just to raise up!
-but don't let them see you cry, dry your eyes
-young nigga time to do or die.
-i keep a pistol in my pocket,
-ready on my block.
-ain't no time for a nigga to even cock shit.
-and now they see that motherfucker beat pain,
-at point blank range 'cause he slept on the game.
-ain't a damned thing changed
-shakin' the dice, now roll 'em,
-if you can't stand pain better hold 'em.
-'cause ain't no tellin' what you might roll.
-you might go catch aids from a slight cold.  nigga.
-better live your life to the fullest,
-you're 'bout to kill a fool, got a pistol motherfucker better pull it.
-'cause even when they kill me,
-they can never take the game from a young g.
-we st8 ballin'!
-we st8 ballin'!
-to my niggas in the penitentiary,
-locked up like a motherfucker when they mention me.
-'cause you're fuckin' with the realest motherfucker ever born,
-and once again it's on,
-i'm bustin' on these bitches till they're gone.
-who the hell can you get to stop me?
-i'm in the projects, parlaying with my posse.
-i keep my glock cocked
-i need it 'cause they're all shady.
-i finally made it
-now these jealous bitches tryin' to fade me!
-i ain't goin' out i'd rather blast back.
-i'm on the corner with my niggas watchin' cash stack.
-and i came up a long way from food stamps.
-and takin' shit from the low-life ghetto tramps.
-could you blame me if they sweat me i'm gonna open fire?
-what could i do? pull my trigger or watch my nigga die.
-i'm representin' to the fullest givin' devil slugs.
-i'm on the block slangin' drugs with the young thugs.
-and motherfucker, we be ballin'!
-all motherfucking day long, stay strong!
-we st8 ballin'.
+(dp1
+Vrealest
+p2
+I1
+sVstamps
+p3
+I1
+sVlyrics
+p4
+I2
+sVfood
+p5
+I1
+sVmoney
+p6
+I2
+sVwatchin
+p7
+I1
+sVdisguise
+p8
+I1
+sVever
+p9
+I1
+sVkill
+p10
+I3
+sVkilo
+p11
+I1
+sVgo
+p12
+I2
+sVhell
+p13
+I1
+sVcold
+p14
+I1
+sVstill
+p15
+I1
+sVtakin
+p16
+I1
+sVfullest
+p17
+I2
+sVcocked
+p18
+I1
+sVdrinkin
+p19
+I1
+sVhold
+p20
+I1
+sVdice
+p21
+I1
+sVtrigger
+p22
+I2
+sVpoint
+p23
+I1
+sVyoung
+p24
+I5
+sVbetter
+p25
+I3
+sVfinally
+p26
+I1
+sVgivin
+p27
+I1
+sVfade
+p28
+I1
+sVfolks
+p29
+I1
+sVbout
+p30
+I1
+sVfences
+p31
+I1
+sVtake
+p32
+I2
+sVfool
+p33
+I1
+sVrunnin
+p34
+I1
+sVvillian
+p35
+I1
+sVservin
+p36
+I1
+sVhit
+p37
+I2
+sVboomin
+p38
+I1
+sVget
+p39
+I3
+sVbeat
+p40
+I1
+sVcould
+p41
+I2
+sVsurvival
+p42
+I1
+sVwatch
+p43
+I2
+sVpocket
+p44
+I2
+sVmention
+p45
+I1
+sVgame
+p46
+I4
+sVcook
+p47
+I1
+sVridin
+p48
+I1
+sVnow
+p49
+I1
+sVday
+p50
+I1
+sVprojects
+p51
+I1
+sVghetto
+p52
+I1
+sVlike
+p53
+I3
+sVlost
+p54
+I1
+sVdie
+p55
+I5
+sVgettin
+p56
+I3
+sVrocks
+p57
+I1
+sVbad
+p58
+I1
+sVhittin
+p59
+I1
+sVquarter
+p60
+I1
+sVem
+p61
+I3
+sVnigga
+p62
+I8
+sVanother
+p63
+I1
+sVslangin
+p64
+I1
+sVbump
+p65
+I1
+sVliquor
+p66
+I2
+sVblank
+p67
+I1
+sVback
+p68
+I2
+sVyayyo
+p69
+I1
+sVcash
+p70
+I1
+sVborn
+p71
+I1
+sVsee
+p72
+I2
+sVfull
+p73
+I1
+sVtellin
+p74
+I1
+sVhoes
+p75
+I1
+sVaids
+p76
+I1
+sVfiveo
+p77
+I1
+sVtheyre
+p78
+I2
+sVsunrise
+p79
+I1
+sVmight
+p80
+I2
+sVeven
+p81
+I3
+sVgon
+p82
+I1
+sVopen
+p83
+I1
+sVposse
+p84
+I1
+sVlegal
+p85
+I1
+sVlowlife
+p86
+I1
+sVpen
+p87
+I1
+sVgot
+p88
+I4
+sVpistol
+p89
+I2
+sVcause
+p90
+I5
+sVslugs
+p91
+I1
+sVtold
+p92
+I1
+sVass
+p93
+I1
+sVaint
+p94
+I4
+sVends
+p95
+I1
+sVkicked
+p96
+I1
+sVslight
+p97
+I1
+sVdevil
+p98
+I1
+sVsold
+p99
+I1
+sVmillion
+p100
+I2
+sVmotherfucker
+p101
+I8
+sVdressin
+p102
+I1
+sVonetime
+p103
+I1
+sVkillin
+p104
+I1
+sVlet
+p105
+I2
+sVput
+p106
+I1
+sVstrong
+p107
+I1
+sVblasted
+p108
+I1
+sVdry
+p109
+I1
+sVbuck
+p110
+I1
+sVg
+I2
+sVdollars
+p111
+I1
+sVchanged
+p112
+I1
+sVscreamin
+p113
+I1
+sVkeep
+p114
+I3
+sVthing
+p115
+I1
+sVrange
+p116
+I1
+sVounce
+p117
+I2
+sVparlaying
+p118
+I1
+sVstand
+p119
+I1
+sVsmoke
+p120
+I1
+sVthink
+p121
+I1
+sVblock
+p122
+I4
+sVfirst
+p123
+I3
+sVmotherfucking
+p124
+I2
+sVmajor
+p125
+I1
+sVdont
+p126
+I5
+sVdamned
+p127
+I3
+sVmakin
+p128
+I1
+sVna
+p129
+I1
+sVjealous
+p130
+I1
+sVlaugh
+p131
+I1
+sVstrip
+p132
+I1
+sVkinda
+p133
+I1
+sVcounts
+p134
+I1
+sVballin
+p135
+I10
+sVblunts
+p136
+I1
+sVcity
+p137
+I1
+sVlittle
+p138
+I2
+sVcasket
+p139
+I1
+sVraise
+p140
+I1
+sVwould
+p141
+I1
+sVslept
+p142
+I1
+sVhey
+p143
+I2
+sVlong
+p144
+I2
+sVplastic
+p145
+I1
+sVlive
+p146
+I2
+sVcry
+p147
+I2
+sVmusic
+p148
+I1
+sVlow
+p149
+I1
+sVway
+p150
+I2
+sVmama
+p151
+I1
+sVsurvive
+p152
+I1
+sVwhite
+p153
+I1
+sVtryin
+p154
+I2
+sVst8
+p155
+I7
+sVtell
+p156
+I1
+sVtoday
+p157
+I1
+sVeyes
+p158
+I1
+sVclever
+p159
+I1
+sVinches
+p160
+I1
+sVdefinition
+p161
+I1
+sVfire
+p162
+I1
+sVbitches
+p163
+I2
+sVcant
+p164
+I1
+sVit
+p165
+I3
+sVcops
+p166
+I1
+sVcorner
+p167
+I1
+sVcatch
+p168
+I1
+sV165
+p169
+I1
+sVha
+p170
+I1
+sV2pac
+p171
+I1
+sVcoverin
+p172
+I1
+sVme
+p173
+I5
+sVpull
+p174
+I3
+sVmade
+p175
+I1
+sVlocked
+p176
+I1
+sVdealin
+p177
+I1
+sVniggas
+p178
+I7
+sVwish
+p179
+I1
+sVbucket
+p180
+I1
+sVup
+p181
+I1
+sVpour
+p182
+I1
+sVcurb
+p183
+I1
+sVta
+p184
+I1
+sVcock
+p185
+I1
+sVill
+p186
+I2
+sVweighin
+p187
+I1
+sVgone
+p188
+I1
+sVready
+p189
+I1
+sVoutta
+p190
+I1
+sVdo
+p191
+I1
+sVbenz
+p192
+I1
+sVshare
+p193
+I1
+sVfuck
+p194
+I4
+sVhigh
+p195
+I1
+sVneed
+p196
+I2
+sVsay
+p197
+I2
+sVcallin
+p198
+I1
+sVim
+p199
+I15
+sVwant
+p200
+I2
+sVhollar
+p201
+I1
+sVid
+p202
+I1
+sVshit
+p203
+I2
+sVdrugs
+p204
+I1
+sVbastard
+p205
+I1
+sVstr8
+p206
+I2
+sVrather
+p207
+I2
+sVdeserve
+p208
+I1
+sVmake
+p209
+I3
+sV45
+p210
+I1
+sVballing
+p211
+I1
+sVtil
+p212
+I1
+sVtill
+p213
+I1
+sVshakin
+p214
+I1
+sVhos
+p215
+I1
+sVyou
+p216
+I1
+sVbeach
+p217
+I1
+sVroll
+p218
+I2
+sVsweat
+p219
+I1
+sVpoor
+p220
+I1
+sVthug
+p221
+I1
+sVpain
+p222
+I2
+sVlookin
+p223
+I1
+sVstop
+p224
+I1
+sVglock
+p225
+I1
+sVmissin
+p226
+I1
+sVblame
+p227
+I1
+sVthugs
+p228
+I1
+sVpaid
+p229
+I1
+sVstay
+p230
+I2
+sVregular
+p231
+I1
+sVlay
+p232
+I1
+sVnever
+p233
+I2
+sVnarcs
+p234
+I1
+sVon
+p235
+I1
+sVstack
+p236
+I1
+sVslang
+p237
+I1
+sVgoin
+p238
+I1
+sVpenitentiary
+p239
+I1
+sVtotin
+p240
+I1
+sVtramps
+p241
+I1
+sVshady
+p242
+I1
+sVyoure
+p243
+I2
+sVlife
+p244
+I1
+sVbustin
+p245
+I1
+sVmotherfuckers
+p246
+I1
+sVthangs
+p247
+I1
+sVblast
+p248
+I1
+sVso
+p249
+I1
+sVfuckin
+p250
+I1
+sVrepresentin
+p251
+I1
+sVtime
+p252
+I3
+sVskinny
+p253
+I2
+sVparole
+p254
+I1
+sVcame
+p255
+I1
+s.

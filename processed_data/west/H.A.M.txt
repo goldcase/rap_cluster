@@ -1,69 +1,551 @@
-ham lyrics
-kanye west lyrics
-ham
-jayz
-good week ago
-niggas feel theyselves watch throne drop
-niggas kill themselves
-niggas gon hov
-new crack new stove
-im twodoor true that
-niggas tellin back
-like nigga ever left bitch huh
-life bitch suck dick huh
-bet fucked whole clique huh
-way nigga fuckin quit nigga
-forget talk live it
-like eli jokes muthafucker get it
-paper hoe me
-orgy speakin methaphorically
-historically im kickin bitches like pam nigga
-goin ham nigga jigga
-nigga still young wanna kids
-ive practicing actresses bad shit
-white girls asses flat shit
-head good damn nigga glad hit
-got em jumpin building
-watch million door
-im go ham
-hard muthafucker
-let niggas know am
-im go ham
-hard muthafucker
-let niggas know am
-fuck yall mad for
-dont even know ive through
-play chicken mack truck
-yall muthafuckers woulda moved
-swam waters great whites
-yall muthafuckers woulda chewed
-hustle vultures late nights
-yall muthafuckers woulda food
-fuck wrong dudes
-try walk around shoes
-see shit saw growing up
-maybe take peek boos
-niggas fantasize shit daily like
-rappers rap shit really
-im like really half billi nigga
-really got baby money
-keep real niggas
-niggas aint got lady money
-watch throne dont step road
-bad enough let step globe
-nephew died daddy dead
-niggas took price uncles head
-nobody called cops uncle bled
-feel like would like know uncles bread
-bow brother pay homage
-dont spill hate garments
-commes des garcon fuck fresh
-head shots nigga fuck vests
-fuck pig pork fork
-peace god cause know nigga went ham
-hard muthafucker
-let niggas know am
-yeah im bout go ham
-hard muthafucker
-let niggas know am
-yeah im bout go ham
+(dp1
+Vpeace
+p2
+I1
+sVforget
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I2
+sVstove
+p6
+I1
+sVhalf
+p7
+I1
+sVpaper
+p8
+I1
+sVkill
+p9
+I1
+sVgo
+p10
+I4
+sVkanye
+p11
+I1
+sVchicken
+p12
+I1
+sVstill
+p13
+I1
+sVchewed
+p14
+I1
+sVdont
+p15
+I3
+sVaint
+p16
+I1
+sVeli
+p17
+I1
+sVham
+p18
+I8
+sVhomage
+p19
+I1
+sVswam
+p20
+I1
+sVdick
+p21
+I1
+sVyoung
+p22
+I1
+sVlate
+p23
+I1
+sVwhites
+p24
+I1
+sVcrack
+p25
+I1
+sVbout
+p26
+I2
+sVactresses
+p27
+I1
+sVgood
+p28
+I2
+sVhit
+p29
+I1
+sVaround
+p30
+I1
+sVuncles
+p31
+I2
+sVget
+p32
+I1
+sVfood
+p33
+I1
+sVwatch
+p34
+I3
+sVwoulda
+p35
+I3
+sVknow
+p36
+I7
+sVgot
+p37
+I3
+sVlady
+p38
+I1
+sVbread
+p39
+I1
+sVbilli
+p40
+I1
+sVvests
+p41
+I1
+sVlike
+p42
+I7
+sVcause
+p43
+I1
+sVdrop
+p44
+I1
+sVbrother
+p45
+I1
+sVtry
+p46
+I1
+sVjokes
+p47
+I1
+sVbad
+p48
+I2
+sVshots
+p49
+I1
+sVthrough
+p50
+I1
+sVwent
+p51
+I1
+sVyall
+p52
+I4
+sVem
+p53
+I1
+sVpork
+p54
+I1
+sVnigga
+p55
+I10
+sVglobe
+p56
+I1
+sVhard
+p57
+I4
+sVback
+p58
+I1
+sVdead
+p59
+I1
+sVbled
+p60
+I1
+sVsee
+p61
+I1
+sVnephew
+p62
+I1
+sVreally
+p63
+I3
+sVeven
+p64
+I1
+sVgon
+p65
+I1
+sVfor
+p66
+I1
+sVhate
+p67
+I1
+sVenough
+p68
+I1
+sVtwodoor
+p69
+I1
+sVnew
+p70
+I2
+sVever
+p71
+I1
+sVrappers
+p72
+I1
+sVhustle
+p73
+I1
+sVpeek
+p74
+I1
+sVquit
+p75
+I1
+sVmillion
+p76
+I1
+sVstep
+p77
+I2
+sVlet
+p78
+I5
+sVmethaphorically
+p79
+I1
+sVclique
+p80
+I1
+sVfuck
+p81
+I5
+sVspeakin
+p82
+I1
+sVthrone
+p83
+I2
+sVgreat
+p84
+I1
+sVkids
+p85
+I1
+sVspill
+p86
+I1
+sVgod
+p87
+I1
+sVshoes
+p88
+I1
+sVkeep
+p89
+I1
+sVgarcon
+p90
+I1
+sVreal
+p91
+I1
+sVfantasize
+p92
+I1
+sVwhole
+p93
+I1
+sVfuckin
+p94
+I1
+sVago
+p95
+I1
+sVfeel
+p96
+I2
+sVcommes
+p97
+I1
+sVdudes
+p98
+I1
+sVwalk
+p99
+I1
+sVprice
+p100
+I1
+sVjayz
+p101
+I1
+sVbitch
+p102
+I2
+sVvultures
+p103
+I1
+sVwan
+p104
+I1
+sVwould
+p105
+I1
+sVwest
+p106
+I1
+sVgirls
+p107
+I1
+sVlive
+p108
+I1
+sVasses
+p109
+I1
+sVdamn
+p110
+I1
+sVway
+p111
+I1
+sVthemselves
+p112
+I1
+sVhistorically
+p113
+I1
+sVfork
+p114
+I1
+sVflat
+p115
+I1
+sVhead
+p116
+I3
+sVdoor
+p117
+I1
+sVthat
+p118
+I1
+sVmoved
+p119
+I1
+sVbitches
+p120
+I1
+sVhuh
+p121
+I3
+sVtook
+p122
+I1
+sVmuthafuckers
+p123
+I3
+sVit
+p124
+I2
+sVcops
+p125
+I1
+sVuncle
+p126
+I1
+sVtheyselves
+p127
+I1
+sVbaby
+p128
+I1
+sVtrue
+p129
+I1
+sVwhite
+p130
+I1
+sVglad
+p131
+I1
+sVme
+p132
+I1
+sVpracticing
+p133
+I1
+sVniggas
+p134
+I12
+sVdes
+p135
+I1
+sVup
+p136
+I1
+sVtellin
+p137
+I1
+sVmuthafucker
+p138
+I5
+sVorgy
+p139
+I1
+sVgrowing
+p140
+I1
+sVdaddy
+p141
+I1
+sVcalled
+p142
+I1
+sVbet
+p143
+I1
+sVive
+p144
+I2
+sVam
+p145
+I4
+sVlife
+p146
+I1
+sVpig
+p147
+I1
+sVim
+p148
+I7
+sVrap
+p149
+I1
+sVbow
+p150
+I1
+sVsaw
+p151
+I1
+sVshit
+p152
+I5
+sVyeah
+p153
+I2
+sVhoe
+p154
+I1
+sVjigga
+p155
+I1
+sVna
+p156
+I1
+sVboos
+p157
+I1
+sVhov
+p158
+I1
+sVtake
+p159
+I1
+sVpam
+p160
+I1
+sVweek
+p161
+I1
+sVplay
+p162
+I1
+sVnobody
+p163
+I1
+sVwaters
+p164
+I1
+sVwrong
+p165
+I1
+sVnights
+p166
+I1
+sVmad
+p167
+I1
+sVjumpin
+p168
+I1
+sVfucked
+p169
+I1
+sVsuck
+p170
+I1
+sVmack
+p171
+I1
+sVdied
+p172
+I1
+sVgoin
+p173
+I1
+sVbuilding
+p174
+I1
+sVgarments
+p175
+I1
+sVmaybe
+p176
+I1
+sVdaily
+p177
+I1
+sVtruck
+p178
+I1
+sVroad
+p179
+I1
+sVpay
+p180
+I1
+sVfresh
+p181
+I1
+sVkickin
+p182
+I1
+sVtalk
+p183
+I1
+sVleft
+p184
+I1
+s.

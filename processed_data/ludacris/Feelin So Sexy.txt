@@ -1,132 +1,512 @@
-"feelin' so sexy" lyrics
-ludacris lyrics
-"feelin' so sexy"
-ring...
-ring...
-hello?
-what's up?
-what's up baby?
-i need you right now...
-what you doing?
-i'm all alone in my room,
-layin' on my bed sheets,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy...
-come undress me,
-i'm feelin' so sexy...
-my body's so tight,
-and i'm needin' you to strech me,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy... (ha ha)
-come undress me,
-i'm feelin' so sexy...
-well i'm way over on the south side,
-cruisin' in the lac,
-but imma make it to your crib,
-in about four minutes flat...
-keep talkin' how you talkin',
-baby what you got on?
-i got a black lace bra,
-leather boots and a thong,
-well i'll be there in a double,
-expect when i step through the door
-that it's about to be
-some mother fuckin' trouble...
-oooo what you gonna do?
-sweat you out til' you thirsty,
-pin your body to the ground,
-and have you beggin' for mercy...
-oooo baby wait a minute,
-you in my head,
-if i walk away from dreamin',
-i'd see you in my bed,
-'til you makin' me uhh...
-and you makin' me yeah...
-now hurry up and make it to me,
-'cause you makin' me wet...
-i'm drivin' fast as i can,
-baby hold it together,
-'cause when i get you in my arms,
-imma hold you forever,
-get you wet as niagra falls,
-a rebel with a cause,
-i'll be breakin down the doors,
-so tell me where you are...
-i'm all alone in my room,
-layin' on my bed sheets,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy...
-come undress me,
-i'm feelin' so sexy...
-my body's so tight,
-and i'm needin' you to strech me,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy... (ha ha)
-come undress me,
-i'm feelin' so sexy...
-see you got me
-eagar as a beaver,
-see this the type shit get you
-the keys to the beemer,
-or some cheese if ya need it ,
-'cause you got that good good,
-you love it how i beat it
-like you stole it
-when you throw it
-'cause we keep it hood hood,
-and i wish you would would,
-be my slave for the night,
-we can turn the bed room
-into my cave for the night...
-i'll be your favorite delight,
-and make me call you daddy,
-while i'm takin' the pipe,
-you makin' me bite,
-i think you push it too deep,
-i need that type of lovein'
-that'll put you to sleep,
-i wish you could see...
-well i can see it if you want me to,
-we can get the camera,
-we can role play,
-you the artist, i'll be ya manager,
-you can be the nurse,
-i'm the doctor (doc' feel me in),
-play cops and robbers,
-or cowboy and indians,
-in the end,
-lets say you won't know what hit cha',
-now i'm pullin' in the drive way,
-and commin' to get cha'...
-i'm all alone in my room,
-layin' on my bed sheets,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy...
-come undress me,
-i'm feelin' so sexy...
-my body's so tight,
-and i'm needin' you to strech me,
-come undress me,
-i'm feelin' so sexy...
-(you feelin' so sexy?)
-i'm feelin' so sexy... (ha ha)
-come undress me,
-i'm feelin' so sexy...
-hey baby
-what's up?
-took you long enough
-yeah, imma' make it worth the wait though... lay down
-yeah
-mmm hmm
-ohh
-yeah
+(dp1
+Vlace
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVfour
+p5
+I1
+sVmanager
+p6
+I1
+sVlovein
+p7
+I1
+sVsleep
+p8
+I1
+sVlove
+p9
+I1
+sVtakin
+p10
+I1
+sVneedin
+p11
+I3
+sVhurry
+p12
+I1
+sVimma
+p13
+I3
+sVbeat
+p14
+I1
+sVlets
+p15
+I1
+sVblack
+p16
+I1
+sVwet
+p17
+I2
+sVworth
+p18
+I1
+sVdo
+p19
+I1
+sVgood
+p20
+I2
+sVhit
+p21
+I1
+sVget
+p22
+I5
+sVya
+p23
+I2
+sVuhh
+p24
+I1
+sVfeelin
+p25
+I26
+sVknow
+p26
+I1
+sVtrouble
+p27
+I1
+sVnow
+p28
+I1
+sVnurse
+p29
+I1
+sVminute
+p30
+I1
+sVwont
+p31
+I1
+sVbeggin
+p32
+I1
+sVlike
+p33
+I1
+sVartist
+p34
+I1
+sVleather
+p35
+I1
+sVoooo
+p36
+I2
+sVwish
+p37
+I2
+sVrobbers
+p38
+I1
+sVside
+p39
+I1
+sVright
+p40
+I1
+sVdoing
+p41
+I1
+sVniagra
+p42
+I1
+sVundress
+p43
+I12
+sVboots
+p44
+I1
+sVsee
+p45
+I5
+sVexpect
+p46
+I1
+sVgon
+p47
+I1
+sVaway
+p48
+I1
+sVenough
+p49
+I1
+sVhood
+p50
+I2
+sVgot
+p51
+I4
+sVhold
+p52
+I2
+sVground
+p53
+I1
+sVcause
+p54
+I5
+sVbody
+p55
+I1
+sVbe
+p56
+I1
+sVdrivin
+p57
+I1
+sVthong
+p58
+I1
+sVnight
+p59
+I2
+sVmmm
+p60
+I1
+sVstep
+p61
+I1
+sVrebel
+p62
+I1
+sValone
+p63
+I3
+sVsexy
+p64
+I26
+sVfalls
+p65
+I1
+sVcome
+p66
+I12
+sVthrow
+p67
+I1
+sVwait
+p68
+I2
+sVon
+p69
+I1
+sVcommin
+p70
+I1
+sVcowboy
+p71
+I1
+sVill
+p72
+I4
+sVbreakin
+p73
+I1
+sVfavorite
+p74
+I1
+sVkeep
+p75
+I2
+sVturn
+p76
+I1
+sVsweat
+p77
+I1
+sVpullin
+p78
+I1
+sVthink
+p79
+I1
+sVfuckin
+p80
+I1
+sVcheese
+p81
+I1
+sVwhats
+p82
+I3
+sVfeel
+p83
+I1
+sVstrech
+p84
+I3
+sVmakin
+p85
+I4
+sVcrib
+p86
+I1
+sVwalk
+p87
+I1
+sVdown
+p88
+I1
+sVput
+p89
+I1
+sVlong
+p90
+I1
+sVring
+p91
+I2
+sVbra
+p92
+I1
+sVcha
+p93
+I2
+sVthirsty
+p94
+I1
+sVwould
+p95
+I2
+sVbite
+p96
+I1
+sVindians
+p97
+I1
+sVarms
+p98
+I1
+sVfast
+p99
+I1
+sVdreamin
+p100
+I1
+sVcamera
+p101
+I1
+sVcall
+p102
+I1
+sVway
+p103
+I2
+sVbodys
+p104
+I3
+sVtype
+p105
+I2
+sVtell
+p106
+I1
+sVflat
+p107
+I1
+sVhead
+p108
+I1
+sVdoor
+p109
+I1
+sVtook
+p110
+I1
+sVyeah
+p111
+I4
+sVcops
+p112
+I1
+sVeagar
+p113
+I1
+sVbaby
+p114
+I5
+sVha
+p115
+I6
+sVme
+p116
+I1
+sVmercy
+p117
+I1
+sVroom
+p118
+I4
+sVdouble
+p119
+I1
+sVlayin
+p120
+I3
+sVup
+p121
+I2
+sVbed
+p122
+I5
+sVcan
+p123
+I1
+sVdaddy
+p124
+I1
+sVminutes
+p125
+I1
+sVcould
+p126
+I1
+sVare
+p127
+I1
+sVohh
+p128
+I1
+sVthatll
+p129
+I1
+sVpin
+p130
+I1
+sVdeep
+p131
+I1
+sVsay
+p132
+I1
+sVim
+p133
+I29
+sVwant
+p134
+I1
+sVneed
+p135
+I3
+sVbeaver
+p136
+I1
+sVstole
+p137
+I1
+sVid
+p138
+I1
+sVshit
+p139
+I1
+sVend
+p140
+I1
+sVbeemer
+p141
+I1
+sVdoctor
+p142
+I1
+sVna
+p143
+I1
+sVmake
+p144
+I4
+sVcave
+p145
+I1
+sVtil
+p146
+I2
+sVtight
+p147
+I3
+sVrole
+p148
+I1
+sVdoors
+p149
+I1
+sVtalkin
+p150
+I2
+sVplay
+p151
+I2
+sVslave
+p152
+I1
+sVhey
+p153
+I1
+sVthough
+p154
+I1
+sVkeys
+p155
+I1
+sVlac
+p156
+I1
+sVdelight
+p157
+I1
+sVlay
+p158
+I1
+sVsheets
+p159
+I3
+sVforever
+p160
+I1
+sVhmm
+p161
+I1
+sVdoc
+p162
+I1
+sVwell
+p163
+I3
+sVdrive
+p164
+I1
+sVtogether
+p165
+I1
+sVpipe
+p166
+I1
+sVsouth
+p167
+I1
+sVmother
+p168
+I1
+sVpush
+p169
+I1
+sVhello
+p170
+I1
+sVcruisin
+p171
+I1
+s.

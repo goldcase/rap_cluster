@@ -1,82 +1,697 @@
-"f.a.l.a." lyrics
-gang starr lyrics
-"f.a.l.a."
-(feat. big shug)
-fuck around, lay around, do or die
-"you figgedy fuck around, you lay around"
-word to joe frazier, got ta do what pays ya
-give a nigga pain, like displasure
-but close your hips in, nigga you can't win
-i walk around, with a scowl and a grin
-parties try to rock me, chicks try to clock me
-niggaz try to block me, but they can't stop me
-i'm a bad man, understand where i come from
-treatin niggaz dumb, as i drink my rum
-i'm a mad man, i get respect with the tec
-put punks in check, shug's on the set
-i'm the one with the game, the twelve round
-crack to the concrete, from the underground
-i'm a bad nigga, how do you figure to take me
-you cannot break me, so don't mistake me
-for your brother, i'm not a punk motherfucker see
-i did my time, and now i'm free
-i'm a dope one, ready to rip and wreck shop
-i will not stop, i won't be dropped by the cops
-i'm bad, understand me with the game i kick
-i got crazy bitches like a trojan on my dick
-yo hobb we got more rep than lucky luciano
-suckers we wet to the sound of the dope piano
-this is something you can't handle, here's one example
-i got your head as a trophy up on the mantle
-each and every sect we wreck, the crowd's electrified
-mystified, you get dissed, when you try, you die
-fish niggaz, they get fried upon my skillet
-i kill it, fuck it, my shit is on hit
-and hittin you blaow (blaow) so what you wanna do now?
-you stepped up, i whacked ya, you crept up, i smacked ya
-got infinite length, with the strength of a real master
-if you don't bow down now you'll get plowed down now
-you know, like pow
-fuck around, lay around, do or die
-so fuck around, lay around, do or die
-fuck around, lay around, do or die
-"you figgedy fuck around, you lay around"
-word to mike tyson, hit you quick like lightnin
-swing my left jab first, and then come in with the right
-cold deck ya, nah i could never respect a
-punk like you, you get dropped like one two
-and you're out son, just like a one round bout son
-the outcome, is that you'll get that ass hung
-easily, swiftly, you'ew stupid you can't get with me
-fuck around, lay around, do or die
-i said fuck around, lay around, do or die
-fumin!  heahhh, i'm boomin down on niggaz
-i figure, how could they take out a big nigga
-they don't know, so i don't never give em a clue
-that's you and you and you, and oh yeah you
-you can't get with this or take me down
-i'm always laughin ha ha cause you punks are clowns
-since i'm passin emcees, with my skill
-i'm up on the hill, and i force them dudes to chill
-rippin up shit as i do, because i'm violent
-that's why when i walk in the room, punks are silent
-my name is shug, as if you didn't know
-i'm pimpin hard, and punks are just a hoe
-fuck around, lay around, do or die
-i said you fuck around, lay around, do or die
-fuck around, lay around, do or die
-i said you fuck around, lay around, do or die
-fuck around, lay around, do or die
-"you figgedy fuck around, you lay around"
-yea yea that's shug for ninety-three
-i wanna say whattup to all my people, yaknowhati'msayin?
-we got the guru in the house, and my man lil' dap
-showin motherfuckers where we're truly at
-i wanna say whattup to my homegirl, my main girl and my kids
-whassup kerry, marie and lisa how y'all chillin?
-i know y'all in the motherfuckin house too, yea!
-i like to say whattup also, to all the peoples back home
-that know what time it is, and the niggaz tryin to get real
-and on that note, right
-i'ma get the fuck up out of here
-"you figgedy fuck around, you lay around"
+(dp1
+Vshop
+p2
+I1
+sVchicks
+p3
+I1
+sVwhattup
+p4
+I3
+sVlyrics
+p5
+I2
+sVdeck
+p6
+I1
+sVyea
+p7
+I3
+sVrippin
+p8
+I1
+sVlay
+p9
+I15
+sVcrept
+p10
+I1
+sVpassin
+p11
+I1
+sVviolent
+p12
+I1
+sVkill
+p13
+I1
+sVgang
+p14
+I1
+sVcold
+p15
+I1
+sVfeat
+p16
+I1
+sVima
+p17
+I1
+sVnow
+p18
+I2
+sVfumin
+p19
+I1
+sVdick
+p20
+I1
+sVhere
+p21
+I1
+sVson
+p22
+I2
+sVcrack
+p23
+I1
+sVheahhh
+p24
+I1
+sVpiano
+p25
+I1
+sVmain
+p26
+I1
+sVcrowds
+p27
+I1
+sVkick
+p28
+I1
+sVta
+p29
+I1
+sVreal
+p30
+I2
+sVsound
+p31
+I1
+sVtreatin
+p32
+I1
+sVhandle
+p33
+I1
+sVaround
+p34
+I31
+sVyo
+p35
+I1
+sVget
+p36
+I10
+sVya
+p37
+I4
+sVbig
+p38
+I2
+sVdope
+p39
+I2
+sVstop
+p40
+I2
+sVlucky
+p41
+I1
+sVtruly
+p42
+I1
+sVbreak
+p43
+I1
+sVwhassup
+p44
+I1
+sVgame
+p45
+I2
+sVevery
+p46
+I1
+sVknow
+p47
+I5
+sVnot
+p48
+I1
+sVfala
+p49
+I2
+sVone
+p50
+I5
+sVyou
+p51
+I1
+sVgrin
+p52
+I1
+sVname
+p53
+I1
+sVwont
+p54
+I1
+sVeasily
+p55
+I1
+sVlightnin
+p56
+I1
+sVlike
+p57
+I8
+sVdie
+p58
+I12
+sVbrother
+p59
+I1
+sVhomegirl
+p60
+I1
+sVtry
+p61
+I4
+sVbad
+p62
+I3
+sVstupid
+p63
+I1
+sVclowns
+p64
+I1
+sVhittin
+p65
+I1
+sVrock
+p66
+I1
+sVquick
+p67
+I1
+sVlisa
+p68
+I1
+sVpow
+p69
+I1
+sVround
+p70
+I2
+sVyall
+p71
+I2
+sVem
+p72
+I1
+sVtwelve
+p73
+I1
+sVnigga
+p74
+I4
+sVforce
+p75
+I1
+sVpeople
+p76
+I1
+sVhouse
+p77
+I2
+sVfish
+p78
+I1
+sVtec
+p79
+I1
+sVyeah
+p80
+I1
+sVsee
+p81
+I1
+sVdumb
+p82
+I1
+sVclose
+p83
+I1
+sVgirl
+p84
+I1
+sVwin
+p85
+I1
+sVskill
+p86
+I1
+sVfiggedy
+p87
+I4
+sVsaid
+p88
+I3
+sVclock
+p89
+I1
+sVheres
+p90
+I1
+sVchillin
+p91
+I1
+sVrep
+p92
+I1
+sVsince
+p93
+I1
+sVmystified
+p94
+I1
+sVthats
+p95
+I3
+sVhill
+p96
+I1
+sVdisplasure
+p97
+I1
+sVgot
+p98
+I6
+sVyoull
+p99
+I2
+sVass
+p100
+I1
+sVswiftly
+p101
+I1
+sVright
+p102
+I2
+sVrum
+p103
+I1
+sVnever
+p104
+I2
+sVmotherfucker
+p105
+I1
+sVfree
+p106
+I1
+sVelectrified
+p107
+I1
+sVshug
+p108
+I3
+sVhobb
+p109
+I1
+sVpunks
+p110
+I4
+sVput
+p111
+I1
+sVsuckers
+p112
+I1
+sVwhacked
+p113
+I1
+sVcome
+p114
+I2
+sVtrophy
+p115
+I1
+sVoutcome
+p116
+I1
+sVoh
+p117
+I1
+sVmotherfuckin
+p118
+I1
+sVcould
+p119
+I2
+sVpunk
+p120
+I2
+sVbow
+p121
+I1
+sVlength
+p122
+I1
+sVswing
+p123
+I1
+sVmotherfuckers
+p124
+I1
+sVblock
+p125
+I1
+sVjoe
+p126
+I1
+sVdont
+p127
+I4
+sVmantle
+p128
+I1
+sVpays
+p129
+I1
+sVdudes
+p130
+I1
+sVwalk
+p131
+I2
+sVdown
+p132
+I1
+sVyouew
+p133
+I1
+sVset
+p134
+I1
+sVparties
+p135
+I1
+sVrespect
+p136
+I2
+sVskillet
+p137
+I1
+sVwan
+p138
+I3
+sVkerry
+p139
+I1
+sVfrom
+p140
+I1
+sVsilent
+p141
+I1
+sValways
+p142
+I1
+sVtwo
+p143
+I1
+sVmaster
+p144
+I1
+sVstarr
+p145
+I1
+sVtryin
+p146
+I1
+sVback
+p147
+I1
+sVhead
+p148
+I1
+sVhard
+p149
+I1
+sVblaow
+p150
+I2
+sVpimpin
+p151
+I1
+sVsomething
+p152
+I1
+sVhung
+p153
+I1
+sVbitches
+p154
+I1
+sVemcees
+p155
+I1
+sVclue
+p156
+I1
+sVcops
+p157
+I1
+sVkids
+p158
+I1
+sVunderstand
+p159
+I2
+sVha
+p160
+I2
+sVbout
+p161
+I1
+sVchill
+p162
+I1
+sVme
+p163
+I5
+sVtrojan
+p164
+I1
+sVword
+p165
+I2
+sVroom
+p166
+I1
+sVwet
+p167
+I1
+sVsay
+p168
+I3
+sVniggaz
+p169
+I5
+sVdissed
+p170
+I1
+sVcan
+p171
+I1
+sVluciano
+p172
+I1
+sVfried
+p173
+I1
+sVdidnt
+p174
+I1
+sVexample
+p175
+I1
+sVmistake
+p176
+I1
+sVyaknowhatimsayin
+p177
+I1
+sVcrazy
+p178
+I1
+sVsmacked
+p179
+I1
+sVfigure
+p180
+I2
+sVgive
+p181
+I2
+sVshowin
+p182
+I1
+sVfuck
+p183
+I17
+sVrip
+p184
+I1
+sVcant
+p185
+I5
+sVim
+p186
+I14
+sVdropped
+p187
+I2
+sVhome
+p188
+I1
+sVready
+p189
+I1
+sVhit
+p190
+I2
+sVcheck
+p191
+I1
+sVshit
+p192
+I2
+sVstrength
+p193
+I1
+sVboomin
+p194
+I1
+sVguru
+p195
+I1
+sVlil
+p196
+I1
+sVna
+p197
+I3
+sVnah
+p198
+I1
+sVmike
+p199
+I1
+sVnote
+p200
+I1
+sValso
+p201
+I1
+sVyoure
+p202
+I1
+sVlaughin
+p203
+I1
+sVtake
+p204
+I3
+sVpeoples
+p205
+I1
+sVunderground
+p206
+I1
+sVstepped
+p207
+I1
+sVfrazier
+p208
+I1
+sVsect
+p209
+I1
+sVpain
+p210
+I1
+sVshugs
+p211
+I1
+sVdrink
+p212
+I1
+sVupon
+p213
+I1
+sVhoe
+p214
+I1
+sVmad
+p215
+I1
+sVinfinite
+p216
+I1
+sVtyson
+p217
+I1
+sVmarie
+p218
+I1
+sVman
+p219
+I3
+sVa
+I1
+sVcause
+p220
+I1
+sVplowed
+p221
+I1
+sVwreck
+p222
+I2
+sVjab
+p223
+I1
+sVconcrete
+p224
+I1
+sVninetythree
+p225
+I1
+sVscowl
+p226
+I1
+sVtime
+p227
+I2
+sVat
+p228
+I1
+sVdap
+p229
+I1
+sVfirst
+p230
+I1
+sVhips
+p231
+I1
+sVleft
+p232
+I1
+s.

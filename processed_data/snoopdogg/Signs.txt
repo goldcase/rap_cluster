@@ -1,62 +1,388 @@
-"signs" lyrics
-snoop dogg lyrics
-"signs"
-(feat. charlie wilson, justin timberlake)
-i'm not sure what i see
-cupid don't fuck wit me!
-are you telling me this is a sign?
-she's looking in my eyes, now i see no other guys
-are you telling me this is a sign? (ohhh!!!)
-don't think about it, boy leave her alone
-(ooh wee!!) nigga you ain't no g!
-she likes my tone, my colone and the way i roll, you ain't no g!
-it's legit, you know it's a hit
-when the neptunes and the doggy dogg fin to spit
-you know he's in - tune with the season
-come here baby, tell me why you leaving?
-tell me if it's weed that you needing
-you wanna breathe? i got the best weed minus seeds
-ain't nobody tripping vip they can't get in
-if something go wrong then you know we get to cripping
-i'm not sure what i see
-you better don't fuck wit me!
-are you telling me this is a sign?
-she's looking in my eyes, now i see no other guys
-are you telling me this is a sign?
-don't think about it, boy leave her alone
-(oh ohhh!! yeah!) nigga you ain't no g!
-she likes my tone, my colone and the way i roll, you ain't no g!
-now you stepping wit a g, from los angeles
-where helicopters got cameras, just to get a glimpse of our chucks
-and our khakis and our bouncer cars
-you wit you friend right? (yeah)
-she ain't trying to bring over no men right? (no)
-shiieet, she ain't gotta be in the distance
-she could get high all in an instant
-i'm not sure what i see
-you better don't fuck wit me!
-are you telling me this is a sign?
-she's looking in my eyes, now i see no other guys
-are you telling me this is a sign?
-don't think about it, boy leave her alone
-(oh ohhh!! yeah!) nigga you ain't no g!
-she likes my tone, my colone and the way i roll, you ain't no g!
-mami, mamasita, have you ever - flown on g5s
-from london - to ibiza. you gotta have cape town
-you'll have sunday's with chiquitas
-you'll see venus and serena, in the wimbledon arena
-and i can take you (uncle charlie, preach!!)
-nigga don't be young and foolish
-you don't know what you're doing
-you don't know what you've lost until she's gone (gone)
-and her pretty face, drove you wild
-but you ain't got that snoop doggy dogg style
-i'm not sure what i see
-cupid don't fuck wit me!
-are you telling me this is a sign?
-she's looking in my eyes, now i see no other guys
-are you telling me this is a sign? (ohhh!!!)
-don't think about it, boy leave her alone
-(ooh wee!!) nigga you ain't no g!
-she likes my tone, my colone and the way i roll (hey!) you ain't no g!
-(ooh wee!!) you ain't no g! (oh oh ohh! .. ooh wee!!)
+(dp1
+Vlyrics
+p2
+I2
+sVbring
+p3
+I1
+sVlondon
+p4
+I1
+sVstepping
+p5
+I1
+sVsigns
+p6
+I2
+sVgo
+p7
+I1
+sVfeat
+p8
+I1
+sVaint
+p9
+I13
+sVhelicopters
+p10
+I1
+sVglimpse
+p11
+I1
+sVwee
+p12
+I4
+sVyoull
+p13
+I2
+sVyoung
+p14
+I1
+sVcupid
+p15
+I2
+sVbetter
+p16
+I2
+sVpretty
+p17
+I1
+sVohhh
+p18
+I4
+sVfin
+p19
+I1
+sVta
+p20
+I2
+sVtown
+p21
+I1
+sVhit
+p22
+I1
+sVget
+p23
+I4
+sVknow
+p24
+I5
+sVtelling
+p25
+I8
+sVcape
+p26
+I1
+sVlost
+p27
+I1
+sVsundays
+p28
+I1
+sVmamasita
+p29
+I1
+sVg5s
+p30
+I1
+sVshiieet
+p31
+I1
+sVleave
+p32
+I4
+sVvenus
+p33
+I1
+sVfoolish
+p34
+I1
+sVpreach
+p35
+I1
+sVnigga
+p36
+I5
+sVdoing
+p37
+I1
+sVyeah
+p38
+I3
+sVsign
+p39
+I8
+sVsee
+p40
+I9
+sVshes
+p41
+I5
+sVbest
+p42
+I1
+sVcameras
+p43
+I1
+sVlooking
+p44
+I4
+sVgot
+p45
+I5
+sVdoggy
+p46
+I2
+sVever
+p47
+I1
+sVright
+p48
+I2
+sVcars
+p49
+I1
+sVmen
+p50
+I1
+sVstyle
+p51
+I1
+sValone
+p52
+I4
+sVweed
+p53
+I2
+sVcome
+p54
+I1
+sVtripping
+p55
+I1
+sVlegit
+p56
+I1
+sVarena
+p57
+I1
+sVboy
+p58
+I4
+sVinstant
+p59
+I1
+sVjustin
+p60
+I1
+sVg
+I10
+sVoh
+p61
+I4
+sVcould
+p62
+I1
+sVneeding
+p63
+I1
+sVleaving
+p64
+I1
+sVangeles
+p65
+I1
+sVseeds
+p66
+I1
+sVyouve
+p67
+I1
+sVneptunes
+p68
+I1
+sVthink
+p69
+I4
+sVtone
+p70
+I4
+sVdont
+p71
+I11
+sVcolone
+p72
+I4
+sVvip
+p73
+I1
+sVwit
+p74
+I6
+sVlikes
+p75
+I4
+sVchiquitas
+p76
+I1
+sVdrove
+p77
+I1
+sVwan
+p78
+I1
+sVsnoop
+p79
+I2
+sVhes
+p80
+I1
+sVdogg
+p81
+I3
+sVhey
+p82
+I1
+sVmami
+p83
+I1
+sVlos
+p84
+I1
+sVway
+p85
+I4
+sVtell
+p86
+I2
+sVfriend
+p87
+I1
+sVbreathe
+p88
+I1
+sVeyes
+p89
+I4
+sVspit
+p90
+I1
+sVseason
+p91
+I1
+sVnobody
+p92
+I1
+sVchucks
+p93
+I1
+sVuncle
+p94
+I1
+sVbaby
+p95
+I1
+sVtrying
+p96
+I1
+sVme
+p97
+I4
+sVdistance
+p98
+I1
+sVcripping
+p99
+I1
+sVwild
+p100
+I1
+sVminus
+p101
+I1
+sVgone
+p102
+I2
+sVyoure
+p103
+I1
+sVohh
+p104
+I1
+sVfuck
+p105
+I4
+sVhigh
+p106
+I1
+sVcant
+p107
+I1
+sVim
+p108
+I4
+sVsomething
+p109
+I1
+sVin
+p110
+I1
+sVwilson
+p111
+I1
+sVkhakis
+p112
+I1
+sVna
+p113
+I1
+sVtimberlake
+p114
+I1
+sVtake
+p115
+I1
+sVroll
+p116
+I4
+sVwimbledon
+p117
+I1
+sVsure
+p118
+I4
+sVserena
+p119
+I1
+sVooh
+p120
+I4
+sVwrong
+p121
+I1
+sVflown
+p122
+I1
+sVguys
+p123
+I4
+sVtune
+p124
+I1
+sVcharlie
+p125
+I2
+sVno
+p126
+I1
+sVbouncer
+p127
+I1
+sVface
+p128
+I1
+sVibiza
+p129
+I1
+s.

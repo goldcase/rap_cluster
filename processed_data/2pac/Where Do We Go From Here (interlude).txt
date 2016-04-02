@@ -1,50 +1,425 @@
-"where do we go from here (interlude)" lyrics
-2pac lyrics
-"where do we go from here (interlude)"
-power.. pow.. power...
-guess who's back?  hahaha, here we go
-it's ninety-fo', what's next?
-power.. enter my world
-i guess this year gonna be a motherfucker for real niggaz
-i swear these playa haters done got a taste of power
-it ain't all good in the hood
-least not on my side, from where i stand
-and the law?  man, fuck the law!
-niggaz must outthink, outstep, and continuously outsmart
-the motherfuckin law, in every way
-key word in ninety-four is 'down low'
-gots to be struggling
-i see how the rich got theirs
-nigga i'm legit, shit
-where do we go from here?
-(who's afraid, of the punk police?
-to my niggaz run the streets, fuck peace) --
-heyyy niggaz, where your heart at?
-see motherfuckers killin babies, killin mommas
-killin kids, puttin this in they motherfuckin mark
-now what type of mixed up trick would kill the future of our race
-before he would he look his enemy dead in the eye, and open fire?
-these crazy motherfuckers got toys with guns
-jails for guns, but still, no god damn jobs
-and they wonder why we loc'n up
-where do we go from here?
-where do we go?
-all you niggaz out there
-the clouds shook, the world listened
-we stood together in april of ninety-two
-with duty, and a sense of honor
-there is no limit to what we can achieve
-that's all on us... us...
-not my niggaz, not the whites, not the enemies
-or none of them motherfuckers, us
-what can we do? shit
-i declare a death sentence to all child molestors
-fake-ass bitches, male and female
-and all you punk-ass snitches
-we can do without your asshole
-let no man break, what we set
-where do we go from here?
-rest in peace, to cato, i miss you
-all the other real g's that passed away in ninety-three
-in ninety-four, and more
-what do we do? for us?
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVsentence
+p4
+I1
+sVrest
+p5
+I1
+sVkill
+p6
+I1
+sVgo
+p7
+I7
+sVstill
+p8
+I1
+sVaint
+p9
+I1
+sVdeath
+p10
+I1
+sVpolice
+p11
+I1
+sVrich
+p12
+I1
+sVpassed
+p13
+I1
+sVachieve
+p14
+I1
+sVreal
+p15
+I2
+sVgood
+p16
+I1
+sVlistened
+p17
+I1
+sVbreak
+p18
+I1
+sVevery
+p19
+I1
+sVworld
+p20
+I2
+sVpunkass
+p21
+I1
+sVputtin
+p22
+I1
+sVlook
+p23
+I1
+sVenemy
+p24
+I1
+sVclouds
+p25
+I1
+sVrace
+p26
+I1
+sVside
+p27
+I1
+sVnigga
+p28
+I1
+sVfakeass
+p29
+I1
+sVstreets
+p30
+I1
+sVback
+p31
+I1
+sVdead
+p32
+I1
+sVsee
+p33
+I2
+sVus
+p34
+I4
+sVyear
+p35
+I1
+sVjobs
+p36
+I1
+sVwonder
+p37
+I1
+sVmommas
+p38
+I1
+sVgon
+p39
+I1
+sVstood
+p40
+I1
+sVoutsmart
+p41
+I1
+sVgod
+p42
+I1
+sVaway
+p43
+I1
+sVmolestors
+p44
+I1
+sVplaya
+p45
+I1
+sVgot
+p46
+I3
+sVguns
+p47
+I2
+sVrun
+p48
+I1
+sVpower
+p49
+I4
+sVmotherfucker
+p50
+I1
+sVhere
+p51
+I3
+sVlet
+p52
+I1
+sVkey
+p53
+I1
+sVgots
+p54
+I1
+sVlegit
+p55
+I1
+sVkids
+p56
+I1
+sVmiss
+p57
+I1
+sVtheirs
+p58
+I1
+sVpunk
+p59
+I1
+sVapril
+p60
+I1
+sVswear
+p61
+I1
+sVstand
+p62
+I1
+sVmixed
+p63
+I1
+sVmotherfuckers
+p64
+I3
+sVthats
+p65
+I1
+sVduty
+p66
+I1
+sVcato
+p67
+I1
+sVwhats
+p68
+I1
+sVwhites
+p69
+I1
+sVpow
+p70
+I1
+sVset
+p71
+I1
+sVdone
+p72
+I1
+sVfemale
+p73
+I1
+sVtoys
+p74
+I1
+sVinterlude
+p75
+I2
+sVopen
+p76
+I1
+sVhood
+p77
+I1
+sVguess
+p78
+I2
+sVkillin
+p79
+I3
+sVeye
+p80
+I1
+sVwould
+p81
+I2
+sVninetytwo
+p82
+I1
+sVthere
+p83
+I1
+sVleast
+p84
+I1
+sVnext
+p85
+I1
+sVwhos
+p86
+I2
+sVdamn
+p87
+I1
+sVlow
+p88
+I1
+sVway
+p89
+I1
+sVtype
+p90
+I1
+sVmore
+p91
+I1
+sVoutstep
+p92
+I1
+sVfire
+p93
+I1
+sVbitches
+p94
+I1
+sVyou
+p95
+I1
+sVchild
+p96
+I1
+sVhaters
+p97
+I1
+sV2pac
+p98
+I1
+sVmust
+p99
+I1
+sVnone
+p100
+I1
+sVword
+p101
+I1
+sVheyyy
+p102
+I1
+sVup
+p103
+I1
+sVniggaz
+p104
+I6
+sVtrick
+p105
+I1
+sVfuture
+p106
+I1
+sVlimit
+p107
+I1
+sVhahaha
+p108
+I1
+sVcontinuously
+p109
+I1
+sVsnitches
+p110
+I1
+sVmale
+p111
+I1
+sVdeclare
+p112
+I1
+sVshook
+p113
+I1
+sVheart
+p114
+I1
+sVcrazy
+p115
+I1
+sVtaste
+p116
+I1
+sVninetyfo
+p117
+I1
+sVlocn
+p118
+I1
+sVfuck
+p119
+I2
+sVim
+p120
+I1
+sVat
+p121
+I1
+sVsense
+p122
+I1
+sVshit
+p123
+I2
+sVafraid
+p124
+I1
+sVjails
+p125
+I1
+sVna
+p126
+I1
+sVpeace
+p127
+I2
+sVasshole
+p128
+I1
+sVninetyfour
+p129
+I2
+sVmotherfuckin
+p130
+I2
+sVbabies
+p131
+I1
+sVstruggling
+p132
+I1
+sVenemies
+p133
+I1
+sVoutthink
+p134
+I1
+sVlaw
+p135
+I3
+sVman
+p136
+I2
+sVtogether
+p137
+I1
+sVhonor
+p138
+I1
+sVmark
+p139
+I1
+sVwithout
+p140
+I1
+sVninetythree
+p141
+I1
+sVenter
+p142
+I1
+s.

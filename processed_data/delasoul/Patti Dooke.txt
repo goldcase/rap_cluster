@@ -1,138 +1,946 @@
-"patti dooke" lyrics
-de la soul lyrics
-"patti dooke"
-(why do we have to cross over?)
-(why are niggas always crossing over, huh?)
-(i mean, what's the matter?)
-(they can accept our music as long as they can't see our faces?)
-(one, two, one two; you got it)
-wootah!
-runnin' through the trenches (what?)
-runnin' through the trenches (what?)
-runnin' through the trenches it's the patti dooke
-(it's the patti what?)
-runnin' through the trenches (oh!!)
-runnin' through the trenches it's the patti's dooke
-runnin' through the trenches (what?)
-runnin' through the trenches (what?)
-runnin' through the trenches it's the patti dooke
-(it's the patti what?)
-runnin' through the trenches (oh!!)
-runnin' through the trenches it's the patti's dooke
-just the other day i got a starter kit
-(an m is a terrible thing to waste)
-caught the face from the backs of the border of the mindstate
-i play control to a fraud
-(nah it ain't happenin')
-nada to make it even
-robbin' and theivin' is one who infiltrates with a colgate frown
-y'all remember my nasal for i sniff frequencies
-(well, it started in the year of '78)
-but it's '93 or should i say '94 for my style is much more
-(i said, "come in")
-come in
-(come on)
-come out into my reservoir
-as i macks a men your bastard style has just been stuck
-by a sticker with a 'frigerator lickin'
-what if... how's about why would
-never thought that the napalm would bust the jeans
-mash it up
-the one with the beard
-mega moustache the beat (hide it)
-deep under sheets, cover this hint
-hostin' all threats but watch out mr. jarbage
-jimmy and the jet, standin' on the pier
-i'm known as the farmer
-cultivatin' mate without mendin'
-bendin', comprimising any of my styles to gain a smile
-listen while you hear it
-there's no pink in my slip
-i reckon that the rhythm and the blues in the rap got me red
-while the boys from tommy plant bridge crossin' to a larger community
-yet they're soon to see i have a brother named luck
-a nigga named dres
-a groupie named cassandra caught bobbin' on the head
-of a baby named chris, i missed a kid who caught wreck when sayin'
-(afrika and i when sammy b's on the set)
-runnin' through the trenches (what?)
-runnin' through the trenches (what?)
-runnin' through the trenches it's the patti dooke
-(it's the patti what?)
-runnin' through the trenches (oh!!)
-runnin' through the trenches it's the patti's dooke
-(prevention against sucka m.c.'s)
-(prevention against sucka m.c.'s)
-(prevention against sucka m.c.'s)
-(and now, prevention against sucka m.c.'s)
-(we decided to change the cover a little bit)
-(because we see the big picture)
-(negroes and white folks buyin' this album)
-(negroes and white folks buyin' this album)
-(everybody's gonna know who this group is)
-(we just felt that the picture wasn't as important as it was that we
-succeeed in crossing over)
-(cross over ain't nuthin' but a double cross)
-(once we lose our audience we never gon' get them back)
-(he may even try to change our sound)
-let no man put asunder
-severin' the groups i never blunder
-cashin' all the checks on the mic
-i might cherry to the bush, brand plug wonder
-funk to the fame against hoods
-bridges saggin' to woods down under
-they can't be raised with the feminine praise
-in conjunction with no chocolate in the mix
-white boy roy cannot feel it
-but the first to try and steal it
-dilute it, pollute it, kill it
-i see him infiltratin' to the masses
-and when the leechin' i mo shoot 'em all in they asses
-runnin' through the trenches (what?)
-runnin' through the trenches (yeah!)
-runnin' through the trenches it's the patti dooke
-(it's the patti what?)
-runnin' through the trenches (aaah!!)
-runnin' through the trenches it's the patti's dooke
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-(it might blow up but it won't go pop)
-i shed light and not skin
-i ain't from europe
-afro connects at the root of the retina of the third
-mums the word when ya blind baby
-blind to the fact
-don't rest in compton so i don't own a gat
-but respect is clear crystal
-cause millie got a pistol
-and she's down with me
-wild of most wild
-born child to the old school legitimate (soul)
-talker of the many paragraphs ago
-walker of the plenty broken calves ago
-phantom of the phrase black in many ways
-cause i see her runnin' through the trenches
-comin' in to rent my style
-i'm not the one to fuck with
-i'm lockin' you out
-i'm just not to fuck wit so check it
-y'all know who i am
-listen up son
-peace to my man premier
-and y'all better guard your trenches 'cause we runnin' through 'em
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(do it....fluid....mess up my mind....)
-(tell me somethin' huh?)
-(how come they never cross over to us, huh?)
-(i never seen five niggas on elvis presley album cover!)
+(dp1
+Vson
+p2
+I1
+sVstandin
+p3
+I1
+sVset
+p4
+I1
+sVlyrics
+p5
+I2
+sVya
+p6
+I1
+sVover
+p7
+I2
+sVjarbage
+p8
+I1
+sVsoon
+p9
+I1
+sVrest
+p10
+I1
+sVcross
+p11
+I4
+sVseen
+p12
+I1
+sVbaby
+p13
+I2
+sVwoods
+p14
+I1
+sVkill
+p15
+I1
+sVskin
+p16
+I1
+sVgo
+p17
+I8
+sValbum
+p18
+I3
+sVafro
+p19
+I1
+sVyet
+p20
+I1
+sVaint
+p21
+I3
+sVbridges
+p22
+I1
+sVstyle
+p23
+I3
+sVgroup
+p24
+I1
+sVreservoir
+p25
+I1
+sVbendin
+p26
+I1
+sVla
+p27
+I1
+sVcherry
+p28
+I1
+sVmasses
+p29
+I1
+sVdooke
+p30
+I10
+sVbust
+p31
+I1
+sVbetter
+p32
+I1
+sVbush
+p33
+I1
+sVsomethin
+p34
+I1
+sVblack
+p35
+I1
+sVfunk
+p36
+I1
+sVrhythm
+p37
+I1
+sVfarmer
+p38
+I1
+sVfolks
+p39
+I2
+sVsmile
+p40
+I1
+sVtell
+p41
+I1
+sVmight
+p42
+I9
+sVstyles
+p43
+I1
+sVsound
+p44
+I1
+sVtheivin
+p45
+I1
+sVfrown
+p46
+I1
+sVmindstate
+p47
+I1
+sVget
+p48
+I1
+sVbeat
+p49
+I1
+sVfrequencies
+p50
+I1
+sVnada
+p51
+I1
+sVde
+p52
+I1
+sVwatch
+p53
+I1
+sVcover
+p54
+I3
+sVshoot
+p55
+I1
+sVfive
+p56
+I1
+sVknow
+p57
+I2
+sVkid
+p58
+I1
+sVpresley
+p59
+I1
+sVnot
+p60
+I1
+sVbit
+p61
+I1
+sVconjunction
+p62
+I1
+sVpier
+p63
+I1
+sVday
+p64
+I1
+sVwont
+p65
+I8
+sVschool
+p66
+I1
+sVroy
+p67
+I1
+sValways
+p68
+I1
+sVwith
+p69
+I1
+sVbrother
+p70
+I1
+sVrobbin
+p71
+I1
+sVtheyre
+p72
+I1
+sVtry
+p73
+I2
+sVaudience
+p74
+I1
+sVwit
+p75
+I1
+sVman
+p76
+I2
+sVhostin
+p77
+I1
+sVcrossing
+p78
+I2
+sVraised
+p79
+I1
+sVsteal
+p80
+I1
+sVyall
+p81
+I3
+sVmean
+p82
+I1
+sVeverybodys
+p83
+I1
+sVshed
+p84
+I1
+sVnigga
+p85
+I1
+sVinfiltrates
+p86
+I1
+sVmums
+p87
+I1
+sVpicture
+p88
+I2
+sVplant
+p89
+I1
+sVsoul
+p90
+I2
+sVborn
+p91
+I1
+sVsee
+p92
+I5
+sVdecided
+p93
+I1
+sVshes
+p94
+I1
+sVyear
+p95
+I1
+sVelvis
+p96
+I1
+sVblues
+p97
+I1
+sVwonder
+p98
+I1
+sVcolgate
+p99
+I1
+sVwhat
+p100
+I11
+sVsaid
+p101
+I1
+sVhide
+p102
+I1
+sVmissed
+p103
+I1
+sVwreck
+p104
+I1
+sVways
+p105
+I1
+sVfact
+p106
+I1
+sVlockin
+p107
+I1
+sVsucceeed
+p108
+I1
+sVmay
+p109
+I1
+sVmate
+p110
+I1
+sVrap
+p111
+I1
+sVconnects
+p112
+I1
+sVgot
+p113
+I4
+sVpistol
+p114
+I1
+sVgroupie
+p115
+I1
+sVchecks
+p116
+I1
+sVred
+p117
+I1
+sVmendin
+p118
+I1
+sVeurope
+p119
+I1
+sVblow
+p120
+I8
+sVwe
+p121
+I1
+sVnever
+p122
+I5
+sVleechin
+p123
+I1
+sVblunder
+p124
+I1
+sVdres
+p125
+I1
+sVmen
+p126
+I1
+sVsaggin
+p127
+I1
+sVmic
+p128
+I1
+sVwild
+p129
+I2
+sVlet
+p130
+I1
+sVgroups
+p131
+I1
+sVbs
+p132
+I1
+sVput
+p133
+I1
+sVcome
+p134
+I5
+sVitfluidmess
+p135
+I8
+sVchange
+p136
+I2
+sVsayin
+p137
+I1
+sVseverin
+p138
+I1
+sVon
+p139
+I1
+sVsniff
+p140
+I1
+sVmega
+p141
+I1
+sVoh
+p142
+I3
+sVroot
+p143
+I1
+sVhint
+p144
+I1
+sVterrible
+p145
+I1
+sVpatti
+p146
+I10
+sVthing
+p147
+I1
+sVimportant
+p148
+I1
+sVout
+p149
+I1
+sVfaces
+p150
+I1
+sVcultivatin
+p151
+I1
+sVbroken
+p152
+I1
+sVluck
+p153
+I1
+sVfirst
+p154
+I1
+sVblind
+p155
+I2
+sVem
+p156
+I2
+sVnamed
+p157
+I4
+sVjimmy
+p158
+I1
+sVwhats
+p159
+I1
+sVdont
+p160
+I2
+sVbridge
+p161
+I1
+sVfeel
+p162
+I1
+sVjeans
+p163
+I1
+sVphrase
+p164
+I1
+sVcommunity
+p165
+I1
+sVone
+p166
+I5
+sVhappenin
+p167
+I1
+sVpop
+p168
+I8
+sVjet
+p169
+I1
+sVlong
+p170
+I1
+sVcomin
+p171
+I1
+sVrespect
+p172
+I1
+sVsammy
+p173
+I1
+sVphantom
+p174
+I1
+sVfuck
+p175
+I2
+sVlittle
+p176
+I1
+sVdilute
+p177
+I1
+sVcompton
+p178
+I1
+sVwould
+p179
+I2
+sVcaught
+p180
+I3
+sVago
+p181
+I2
+sVtwo
+p182
+I2
+sVtrenches
+p183
+I22
+sVstuck
+p184
+I1
+sVasses
+p185
+I1
+sVmuch
+p186
+I1
+sVmusic
+p187
+I1
+sVcashin
+p188
+I1
+sVnegroes
+p189
+I2
+sVafrika
+p190
+I1
+sVwhite
+p191
+I3
+sVwaste
+p192
+I1
+sVis
+p193
+I1
+sVmore
+p194
+I1
+sVplug
+p195
+I1
+sVhead
+p196
+I1
+sVpremier
+p197
+I1
+sVboy
+p198
+I1
+sVstarted
+p199
+I1
+sVmind
+p200
+I8
+sVbrand
+p201
+I1
+sVpattis
+p202
+I4
+sVhuh
+p203
+I3
+sVinfiltratin
+p204
+I1
+sVback
+p205
+I1
+sVbuyin
+p206
+I2
+sVboys
+p207
+I1
+sVhear
+p208
+I1
+sVdeep
+p209
+I1
+sVchild
+p210
+I1
+sVknown
+p211
+I1
+sV93
+p212
+I1
+sVmcs
+p213
+I4
+sV94
+p214
+I1
+sVstarter
+p215
+I1
+sVasunder
+p216
+I1
+sVrunnin
+p217
+I22
+sVfraud
+p218
+I1
+sVword
+p219
+I1
+sVniggas
+p220
+I2
+sVdouble
+p221
+I1
+sVmo
+p222
+I1
+sVsay
+p223
+I1
+sVus
+p224
+I1
+sVtommy
+p225
+I1
+sVmatter
+p226
+I1
+sVcan
+p227
+I1
+sVpraise
+p228
+I1
+sVmr
+p229
+I1
+sVnuthin
+p230
+I1
+sVunder
+p231
+I1
+sVgat
+p232
+I1
+sVbeard
+p233
+I1
+sVmoustache
+p234
+I1
+sVsucka
+p235
+I4
+sVtheres
+p236
+I1
+sVcontrol
+p237
+I1
+sVlisten
+p238
+I2
+sVlarger
+p239
+I1
+sVnapalm
+p240
+I1
+sVpollute
+p241
+I1
+sVup
+p242
+I1
+sVwasnt
+p243
+I1
+sVm
+I1
+sVsticker
+p244
+I1
+sVparagraphs
+p245
+I1
+sVam
+p246
+I1
+sVit
+p247
+I7
+sVaccept
+p248
+I1
+sVcant
+p249
+I2
+sVfrigerator
+p250
+I1
+sVim
+p251
+I4
+sVrent
+p252
+I1
+sVslip
+p253
+I1
+sVin
+p254
+I2
+sVaaah
+p255
+I1
+sVcrossin
+p256
+I1
+sVmash
+p257
+I1
+sVborder
+p258
+I1
+sVfame
+p259
+I1
+sVcassandra
+p260
+I1
+sVpink
+p261
+I1
+sVbastard
+p262
+I1
+sVna
+p263
+I1
+sVmake
+p264
+I1
+sVpeace
+p265
+I1
+sVcrystal
+p266
+I1
+sVbacks
+p267
+I1
+sVwootah
+p268
+I1
+sVcheck
+p269
+I1
+sVmix
+p270
+I1
+sVold
+p271
+I1
+sVbig
+p272
+I1
+sVhoods
+p273
+I1
+sVmillie
+p274
+I1
+sVmany
+p275
+I2
+sVcomprimising
+p276
+I1
+sVbobbin
+p277
+I1
+sVtalker
+p278
+I1
+sVeven
+p279
+I2
+sVplay
+p280
+I1
+sVretina
+p281
+I1
+sVreckon
+p282
+I1
+sVfelt
+p283
+I1
+sVnasal
+p284
+I1
+sVme
+p285
+I1
+sVkit
+p286
+I1
+sVgon
+p287
+I2
+sVsheets
+p288
+I1
+sVchris
+p289
+I1
+sVthreats
+p290
+I1
+sVplenty
+p291
+I1
+sVchocolate
+p292
+I1
+sVlickin
+p293
+I1
+sVlegitimate
+p294
+I1
+sV78
+p295
+I1
+sVyeah
+p296
+I1
+sVhows
+p297
+I1
+sVcause
+p298
+I3
+sVcalves
+p299
+I1
+sVremember
+p300
+I1
+sVthird
+p301
+I1
+sVfeminine
+p302
+I1
+sVlight
+p303
+I1
+sVclear
+p304
+I1
+sVlose
+p305
+I1
+sVwell
+p306
+I1
+sVface
+p307
+I1
+sVthought
+p308
+I1
+sVwithout
+p309
+I1
+sVprevention
+p310
+I4
+sVwalker
+p311
+I1
+sVguard
+p312
+I1
+sVnah
+p313
+I1
+sVmacks
+p314
+I1
+sVgain
+p315
+I1
+s.

@@ -1,54 +1,482 @@
-"a dream" lyrics
-common lyrics
-"a dream"
-(i am happy...i have a dream) i got a dream
-(that one day ) we gonna work it out out out
-(that one day ) we gonna work it out out out
-(that one day ) we gonna work it out
-(i have a dream) i got a dream
-(that one day ) we gonna work it out out out
-(that one day ) we gonna work it out out out
-(that one day ) we gonna work it out
-(i have a dream) i got a dream
-(that one day) that one day
-(that one day) i'ma look deep within myself
-(i have a dream) i gotta find a way...
-my dream is to be free
-my dream is to be
-my dream is to be
-my dream is to be free
-in search of brighter days, i ride through the maze of the madness,
-struggle is my address, where pain and crack lives,
-gunshots comin' from sounds of blackness,
-given this game with no time to practice,
-born on the black list, told i'm below average,
-a life with no cabbage,
-that's no money if you from where i'm from,
-funny, i just want some of your sun,
-dark clouds seem to follow me,
-alcohol that my pops swallowed bottled me,
-no apology, i walk with a boulder on my shoulder,
-it's a cold war - i'm a colder soldier,
-hold the same fight that made martin luther the king,
-i ain't usin' it for the right thing,
-in between lean and the fiends, hustle and the schemes,
-i put together pieces of a dream
-i still have one
-the world's seen me lookin' in the mirror,
-images of me, gettin' much clearer,
-dear self, i wrote a letter just to better my soul,
-if i don't express it then forever i'll hold, inside
-i'm from a side where we out of control,
-rap music in the 'hood played a fatherly role,
-my story's like yours, yo it gotta be told,
-tryna make it from a gangsta to a godlier role,
-read scrolls and stow slaves,
-and jewish people in cold cage,
-hate has no color or age, flip the page,
-now my rage became freedom,
-writin' dreams in the dark, they far but i can see 'em,
-i believe in heaven more than hell,
-blessings more than jail,
-in the ghetto let love prevail,
-with a story to tell, my eyes see the glory and well,
-the world waitin' for me to yell "i have a dream"
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I1
+sVpops
+p4
+I1
+sVfollow
+p5
+I1
+sVcold
+p6
+I2
+sVstill
+p7
+I1
+sVhate
+p8
+I1
+sVfind
+p9
+I1
+sVima
+p10
+I1
+sVbelieve
+p11
+I1
+sVbetter
+p12
+I1
+sVbrighter
+p13
+I1
+sVblack
+p14
+I1
+sVcrack
+p15
+I1
+sVgangsta
+p16
+I1
+sVta
+p17
+I2
+sVboulder
+p18
+I1
+sVhappyi
+p19
+I1
+sVyo
+p20
+I1
+sVfatherly
+p21
+I1
+sVread
+p22
+I1
+sVpractice
+p23
+I1
+sVdark
+p24
+I2
+sVgame
+p25
+I1
+sVmade
+p26
+I1
+sVworld
+p27
+I1
+sVwalk
+p28
+I1
+sVcage
+p29
+I1
+sVday
+p30
+I9
+sVdreams
+p31
+I1
+sVghetto
+p32
+I1
+sVshoulder
+p33
+I1
+sVworlds
+p34
+I1
+sVheaven
+p35
+I1
+sVclouds
+p36
+I1
+sVlike
+p37
+I1
+sVgettin
+p38
+I1
+sVlist
+p39
+I1
+sVcommon
+p40
+I1
+sVmartin
+p41
+I1
+sVtold
+p42
+I2
+sVinside
+p43
+I1
+sVwrote
+p44
+I1
+sVem
+p45
+I1
+sVright
+p46
+I1
+sVhell
+p47
+I1
+sVpeople
+p48
+I1
+sVcolder
+p49
+I1
+sVflip
+p50
+I1
+sVborn
+p51
+I1
+sVsee
+p52
+I2
+sVmirror
+p53
+I1
+sVimages
+p54
+I1
+sVout
+p55
+I6
+sVgon
+p56
+I6
+sValcohol
+p57
+I1
+sVsun
+p58
+I1
+sVlean
+p59
+I1
+sVusin
+p60
+I1
+sVgot
+p61
+I5
+sVhustle
+p62
+I1
+sVbe
+p63
+I2
+sVscrolls
+p64
+I1
+sVlove
+p65
+I1
+sVstory
+p66
+I1
+sVfree
+p67
+I2
+sVlet
+p68
+I1
+sVstruggle
+p69
+I1
+sVaddress
+p70
+I1
+sVput
+p71
+I1
+sVgodlier
+p72
+I1
+sVluther
+p73
+I1
+sVgunshots
+p74
+I1
+sVill
+p75
+I1
+sVdays
+p76
+I1
+sVside
+p77
+I1
+sVthing
+p78
+I1
+sVstow
+p79
+I1
+sVbecame
+p80
+I1
+sVblackness
+p81
+I1
+sVlookin
+p82
+I1
+sVthats
+p83
+I1
+sVwritin
+p84
+I1
+sVmadness
+p85
+I1
+sVdont
+p86
+I1
+sVcolor
+p87
+I1
+sVwithin
+p88
+I1
+sVone
+p89
+I10
+sVschemes
+p90
+I1
+sVcomin
+p91
+I1
+sVsounds
+p92
+I1
+sVswallowed
+p93
+I1
+sVhood
+p94
+I1
+sVgiven
+p95
+I1
+sVfrom
+p96
+I1
+sVaint
+p97
+I1
+sVfight
+p98
+I1
+sVmuch
+p99
+I1
+sVmusic
+p100
+I1
+sVway
+p101
+I1
+sVmaze
+p102
+I1
+sVwar
+p103
+I1
+sVstorys
+p104
+I1
+sVtryna
+p105
+I1
+sVlife
+p106
+I1
+sVjewish
+p107
+I1
+sVblessings
+p108
+I1
+sVsearch
+p109
+I1
+sVlives
+p110
+I1
+sVhold
+p111
+I2
+sVme
+p112
+I2
+sVking
+p113
+I1
+sVmyself
+p114
+I1
+sVfiends
+p115
+I1
+sVlook
+p116
+I1
+sVglory
+p117
+I1
+sVrage
+p118
+I1
+sVride
+p119
+I1
+sVwork
+p120
+I6
+sVsoul
+p121
+I1
+sVtell
+p122
+I1
+sVfreedom
+p123
+I1
+sVage
+p124
+I1
+sVcontrol
+p125
+I1
+sVrap
+p126
+I1
+sVplayed
+p127
+I1
+sVeyes
+p128
+I1
+sVdeep
+p129
+I1
+sVpieces
+p130
+I1
+sVdear
+p131
+I1
+sVim
+p132
+I4
+sVwant
+p133
+I1
+sVseen
+p134
+I1
+sVseem
+p135
+I1
+sVprevail
+p136
+I1
+sVfunny
+p137
+I1
+sVsoldier
+p138
+I1
+sVna
+p139
+I6
+sVself
+p140
+I1
+sVfar
+p141
+I1
+sVbottled
+p142
+I1
+sVrole
+p143
+I2
+sVwaitin
+p144
+I1
+sVexpress
+p145
+I1
+sVpain
+p146
+I1
+sVclearer
+p147
+I1
+sVletter
+p148
+I1
+sVcabbage
+p149
+I1
+sVforever
+p150
+I1
+sVapology
+p151
+I1
+sVaverage
+p152
+I1
+sVpage
+p153
+I1
+sVwell
+p154
+I1
+sVtogether
+p155
+I1
+sVjail
+p156
+I1
+sVslaves
+p157
+I1
+sVtime
+p158
+I1
+sVyell
+p159
+I1
+sVdream
+p160
+I15
+sVmake
+p161
+I1
+s.

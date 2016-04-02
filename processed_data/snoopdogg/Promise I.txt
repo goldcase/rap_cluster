@@ -1,59 +1,412 @@
-"promise i" lyrics
-snoop dogg lyrics
-"promise i"
-promise i never leave you...
-boy boy boy
-you know that you got me snoop
-you're a joy joy joy
-it's all the pimpin things you do
-you got me in a daze
-and i dont know if it's the haze
-cuz we smoke so much ooh ooh
-(ooh ooh ooh ooh)
-yea the bitch gotta bitch
-hang out with the d-o-double
-girl be apart of this
-now hang up your coat
-blaze the dope
-never missin a stroke
-yeah yea
-now this here is a tapita
-you ever seen a stretch li jet two seater (no)
-it aint what you want it's what you need
-a real ass nigga to help you kick your feet up (yea)
-now flip your channel to lifetime
-you stay on my mind even when i'm writing rhymes
-we can chill all day until the nightime
-i'll let you know when to go at the right time
-i know you don't want to go
-but you got to get the hell up outta here
-i say go, you say no, go
-have a drink have a toast
-what it do, whateva you want
-and we dont wait until the first of the month
-we never hesitate to roll a hundred dolla blunt
-nigga money it's nothing to us
-it's big pimpin over here baby you fuckin wit us
-struck it rich with the struck of the luck of the dutch
-tripled you up you alittle late for the flush
-you got plans for a honeymoon
-i got plans to move your fine ass up in my living room
-at the studio on the d-low is you wit it
-you gots to stay committed
-to do what i say no matter how i spit it, you wit it
-if i say go, that means go
-now go
-ooh ooh
-yea come spend a week with the black jack tripper
-unzip your zipper
-got a couple of bitches that's gonna help you up outta that
-i want you to sing wit 'em
-all of yall sing together
-come on we gon get
-let me hear you say
-promise i never leave you
-all my bitches let me hear you say
-promise i never leave you
-c'mon let me hear you say
-promise i never leave you
-promise i never leave you
+(dp1
+Vhelp
+p2
+I2
+sVlyrics
+p3
+I2
+sVyea
+p4
+I4
+sVmoney
+p5
+I1
+sVmove
+p6
+I1
+sVmonth
+p7
+I1
+sVcommitted
+p8
+I1
+sVgo
+p9
+I7
+sVhell
+p10
+I1
+sVfine
+p11
+I1
+sVaint
+p12
+I1
+sVcuz
+p13
+I1
+sVwriting
+p14
+I1
+sVlate
+p15
+I1
+sVblack
+p16
+I1
+sVblaze
+p17
+I1
+sVdaze
+p18
+I1
+sVstruck
+p19
+I2
+sVkick
+p20
+I1
+sVta
+p21
+I1
+sVreal
+p22
+I1
+sVdo
+p23
+I1
+sVunzip
+p24
+I1
+sVget
+p25
+I2
+sVbig
+p26
+I1
+sVdope
+p27
+I1
+sVknow
+p28
+I4
+sVday
+p29
+I1
+sVapart
+p30
+I1
+sVleave
+p31
+I5
+sVwit
+p32
+I4
+sVdlow
+p33
+I1
+sVrich
+p34
+I1
+sVyall
+p35
+I1
+sVluck
+p36
+I1
+sVem
+p37
+I1
+sVnigga
+p38
+I2
+sVtripper
+p39
+I1
+sVyeah
+p40
+I1
+sVus
+p41
+I2
+sVflush
+p42
+I1
+sVgirl
+p43
+I1
+sVeven
+p44
+I1
+sVliving
+p45
+I1
+sVgon
+p46
+I2
+sVhaze
+p47
+I1
+sVdutch
+p48
+I1
+sVgot
+p49
+I7
+sVever
+p50
+I1
+sVass
+p51
+I2
+sVtoast
+p52
+I1
+sVmissin
+p53
+I1
+sVjoy
+p54
+I3
+sVnever
+p55
+I7
+sVhere
+p56
+I1
+sVtripled
+p57
+I1
+sVlet
+p58
+I4
+sVgots
+p59
+I1
+sVcome
+p60
+I2
+sVwait
+p61
+I1
+sVboy
+p62
+I3
+sVjet
+p63
+I1
+sVill
+p64
+I1
+sVsmoke
+p65
+I1
+sVstudio
+p66
+I1
+sVfuckin
+p67
+I1
+sVfirst
+p68
+I1
+sVdont
+p69
+I3
+sVhoneymoon
+p70
+I1
+sVdolla
+p71
+I1
+sVfeet
+p72
+I1
+sVna
+p73
+I1
+sVright
+p74
+I1
+sVpromise
+p75
+I7
+sVbitch
+p76
+I2
+sVsing
+p77
+I2
+sVoutta
+p78
+I2
+sVli
+p79
+I1
+sVsnoop
+p80
+I2
+sVtapita
+p81
+I1
+sVstretch
+p82
+I1
+sVdogg
+p83
+I1
+sVtwo
+p84
+I1
+sVmuch
+p85
+I1
+sVhundred
+p86
+I1
+sVpimpin
+p87
+I2
+sVspit
+p88
+I1
+sVthat
+p89
+I1
+sVbitches
+p90
+I2
+sVooh
+p91
+I8
+sVhear
+p92
+I3
+sVbaby
+p93
+I1
+sVchill
+p94
+I1
+sVcouple
+p95
+I1
+sVroom
+p96
+I1
+sVthis
+p97
+I1
+sVflip
+p98
+I1
+sVrhymes
+p99
+I1
+sVmatter
+p100
+I1
+sVzipper
+p101
+I1
+sVseater
+p102
+I1
+sVsay
+p103
+I7
+sVwhateva
+p104
+I1
+sVcmon
+p105
+I1
+sVdodouble
+p106
+I1
+sVmind
+p107
+I1
+sVit
+p108
+I2
+sVstroke
+p109
+I1
+sVim
+p110
+I1
+sVwant
+p111
+I4
+sVseen
+p112
+I1
+sVneed
+p113
+I1
+sVlifetime
+p114
+I1
+sVhesitate
+p115
+I1
+sVno
+p116
+I1
+sVthings
+p117
+I1
+sVmeans
+p118
+I1
+sVyou
+p119
+I5
+sVblunt
+p120
+I1
+sVroll
+p121
+I1
+sVchannel
+p122
+I1
+sVweek
+p123
+I1
+sVplans
+p124
+I2
+sValittle
+p125
+I1
+sVdrink
+p126
+I1
+sVhang
+p127
+I2
+sVstay
+p128
+I2
+sVnothing
+p129
+I1
+sVnightime
+p130
+I1
+sVi
+I1
+sVcoat
+p131
+I1
+sVyoure
+p132
+I1
+sVtogether
+p133
+I1
+sVtime
+p134
+I1
+sVthats
+p135
+I1
+sVspend
+p136
+I1
+sVjack
+p137
+I1
+s.

@@ -1,84 +1,728 @@
-"gatman and robbin" lyrics
-50 cent lyrics
-"gatman and robbin"
-(feat. eminem)
-gee wilikers gatman they got me surrounded
-i'm on my way
-i got a gatman
-there's a problem i'ma solve it
-a nigga movin' around
-with a big ass revolver and a batman
-what the fuck are you retarded
-you touch shady i'll leave you dearly departed
-they say batman
-robin, cagney or lacey, it's 50 cent and shady
-the worst baby, put your hands on my people
-i'll react crazy, put a hole thru ya front and ya back maybe
-but dude if you try me, i'll have ya ass hooked up to an iv
-i'll leave ya witnesses when i ride b
-you fuck with me, you see
-i'll react like an animal, i'll tear you apart
-if the masterpiece was murder, i'd major in art
-niggas knew i wasn't wrapped too tight from start
-but bein' a little off, landed me on top of the charts (whoo)
-so you take the good with the bad, i guess
-level three teflon plate on my chest
-and my cock back hollow tip in the chamber
-danger, anger will change ya
-and make ya aim that and squeeze
-i got a gat man
-there's a problem i'ma solve it
-a nigga movin' around
-with a big ass revolver and a batman
-mothafucka you retarded,
-you touch 50, i'll leave you dearly departed
-we're walkin away from a beef, one which clearly you started
-i said, were walkin away, did u hear me? you oughta
-be thankful that we aint beefin. were still breathin and just leave it at that
-that's when me and 50 and g-unit hop back in the bat
-mobile it aint gonna be no more rap its gonna be rrrat
-retaliation will be like them muslim shiite attacks
-some where along the line its like me and 50 made pact
-he's got my back, i got his back, back
-its almost like were kinda, like siamese twins
-cuz when we beef, we pull each other in,
-to the bull shit like were conjoined at the hip,
-its just unavoidable, some of the shit is squashable
-some shit'll never boil over
-some of it will just simmer at best, if left alone
-but let it be known there will be no sit downs
-with no daves and 'zinos
-there will be no peace discussions with me
-there aint gone be no friendly debates over crumpets and tea
-just quit fuckin with me and ill gladly quit fuckin with you
-just spit ya 16 and do what you gotta do to get through
-without mentionin me or the machine or jimmy iovine
-or dre or 50 or d-twizzy, obie and just let it be
-or we'll be back with a:.
-gatman
-there's a problem i'ma solve it
-a nigga movin' around
-with a big ass revolver and a batman
-what the fuck are you retarded
-you touch shady i'll leave you dearly departed
-nigga you get it twisted, you can get ya wig splitted
-i don't give a fuck, i don't care if police know i did it
-man i hustle, i get money, in the sunshine or a blizzard
-i go hard for that paper, homie i just gotta get it
-got a money scheme, i'm plottin' in the county and i'm with it
-you cross me and you gon' make a cemetery visit
-that's gangsta, you know me i told it, cuz i live it
-shell cases drop, when that chopper chop
-way up the block, get hit with copper tops
-when drama pop, the llama pop
-and it won't stop, you can run, call the cops
-this ain't new, niggas know how i be on it
-that shit you got, put my pistol to you i want it
-its not a game, perfect ai,m you feel the flame
-up against ya brain, man its so hot i'll make ya wish it rained
-i got a gat man
-there's a problem i'ma solve it
-a nigga movin' around
-with a big ass revolver and a bat, man
-what the fuck are you retarded
-you touch shady i'll leave you dearly departed
+(dp1
+Vrrrat
+p2
+I1
+sViovine
+p3
+I1
+sVunavoidable
+p4
+I1
+sVdeparted
+p5
+I4
+sVlyrics
+p6
+I2
+sVzinos
+p7
+I1
+sVover
+p8
+I1
+sVdearly
+p9
+I4
+sVknown
+p10
+I1
+sVpaper
+p11
+I1
+sVthrough
+p12
+I1
+sVtouch
+p13
+I4
+sVstill
+p14
+I1
+sVfeat
+p15
+I1
+sVline
+p16
+I1
+sVbeefin
+p17
+I1
+sVima
+p18
+I4
+sVone
+p19
+I1
+sVpolice
+p20
+I1
+sVcemetery
+p21
+I1
+sVcuz
+p22
+I2
+sVmoney
+p23
+I2
+sVgangsta
+p24
+I1
+sVfriendly
+p25
+I1
+sVlacey
+p26
+I1
+sVhip
+p27
+I1
+sVplate
+p28
+I1
+sVgood
+p29
+I1
+sVshell
+p30
+I1
+sVaround
+p31
+I4
+sVget
+p32
+I6
+sVya
+p33
+I10
+sVbig
+p34
+I4
+sVbein
+p35
+I1
+sVstop
+p36
+I1
+sVme
+p37
+I1
+sVgatman
+p38
+I5
+sVmade
+p39
+I1
+sVworst
+p40
+I1
+sVknow
+p41
+I3
+sVgee
+p42
+I1
+sVhands
+p43
+I1
+sVfront
+p44
+I1
+sVhollow
+p45
+I1
+sVbe
+p46
+I1
+sVapart
+p47
+I1
+sVwont
+p48
+I1
+sVbat
+p49
+I2
+sVhop
+p50
+I1
+sVlike
+p51
+I6
+sVlevel
+p52
+I1
+sVtear
+p53
+I1
+sVtwisted
+p54
+I1
+sV16
+p55
+I1
+sV50
+p56
+I6
+sVrobbin
+p57
+I2
+sVtry
+p58
+I1
+sVchamber
+p59
+I1
+sVbad
+p60
+I1
+sVsplitted
+p61
+I1
+sVtold
+p62
+I1
+sVshiite
+p63
+I1
+sVnigga
+p64
+I5
+sVwilikers
+p65
+I1
+sVchopper
+p66
+I1
+sVpeople
+p67
+I1
+sVtea
+p68
+I1
+sVhard
+p69
+I1
+sVback
+p70
+I7
+sVretaliation
+p71
+I1
+sVgo
+p72
+I1
+sVsee
+p73
+I1
+sVperfect
+p74
+I1
+sVdiscussions
+p75
+I1
+sVbest
+p76
+I1
+sVleave
+p77
+I6
+sVmovin
+p78
+I4
+sVsaid
+p79
+I1
+sVbrain
+p80
+I1
+sVsquashable
+p81
+I1
+sVaway
+p82
+I2
+sVsurrounded
+p83
+I1
+sVhooked
+p84
+I1
+sVrevolver
+p85
+I4
+sVwitnesses
+p86
+I1
+sVtwins
+p87
+I1
+sVsimmer
+p88
+I1
+sVgot
+p89
+I10
+sVpistol
+p90
+I1
+sVchop
+p91
+I1
+sVhustle
+p92
+I1
+sVass
+p93
+I5
+sVaint
+p94
+I4
+sVnever
+p95
+I1
+sVrun
+p96
+I1
+sVbreathin
+p97
+I1
+sVmuslim
+p98
+I1
+sVlittle
+p99
+I1
+sVeminem
+p100
+I1
+sVta
+p101
+I2
+sVmasterpiece
+p102
+I1
+sVlet
+p103
+I2
+sVput
+p104
+I3
+sVmothafucka
+p105
+I1
+sValong
+p106
+I1
+sVllama
+p107
+I1
+sVdrama
+p108
+I1
+sVchange
+p109
+I1
+sVcare
+p110
+I1
+sValmost
+p111
+I1
+sVattacks
+p112
+I1
+sVill
+p113
+I11
+sVcagney
+p114
+I1
+sVhot
+p115
+I1
+sVwalkin
+p116
+I2
+sVretarded
+p117
+I4
+sVscheme
+p118
+I1
+sVdre
+p119
+I1
+sVfuckin
+p120
+I2
+sVthats
+p121
+I2
+sVwig
+p122
+I1
+sVcopper
+p123
+I1
+sVmajor
+p124
+I1
+sVjimmy
+p125
+I1
+sVdont
+p126
+I2
+sVblizzard
+p127
+I1
+sVdanger
+p128
+I1
+sVfeel
+p129
+I1
+sVvisit
+p130
+I1
+sVpop
+p131
+I2
+sVthree
+p132
+I1
+sVcounty
+p133
+I1
+sVthankful
+p134
+I1
+sVconjoined
+p135
+I1
+sVoughta
+p136
+I1
+sVart
+p137
+I1
+sVquit
+p138
+I2
+sVguess
+p139
+I1
+sVbeef
+p140
+I2
+sVhes
+p141
+I1
+sVtop
+p142
+I1
+sVdude
+p143
+I1
+sVcharts
+p144
+I1
+sVcent
+p145
+I2
+sVstart
+p146
+I1
+sVlive
+p147
+I1
+sVwhoo
+p148
+I1
+sVcall
+p149
+I1
+sVway
+p150
+I2
+sVwrapped
+p151
+I1
+sVthru
+p152
+I1
+sVboil
+p153
+I1
+sVmurder
+p154
+I1
+sVdaves
+p155
+I1
+sVthat
+p156
+I1
+sVstarted
+p157
+I1
+sVbatman
+p158
+I4
+sVgat
+p159
+I2
+sVnew
+p160
+I1
+sVfuck
+p161
+I5
+sVcops
+p162
+I1
+sVlanded
+p163
+I1
+sVhear
+p164
+I1
+sVbull
+p165
+I1
+sVbaby
+p166
+I1
+sVgladly
+p167
+I1
+sVhole
+p168
+I1
+sVsqueeze
+p169
+I1
+sVgunit
+p170
+I1
+sVpact
+p171
+I1
+sVpull
+p172
+I1
+sVb
+I1
+sVdebates
+p173
+I1
+sVniggas
+p174
+I2
+sVwish
+p175
+I1
+sVride
+p176
+I1
+sVaim
+p177
+I2
+sVsiamese
+p178
+I1
+sVrained
+p179
+I1
+sVflame
+p180
+I1
+sVproblem
+p181
+I4
+sVcrumpets
+p182
+I1
+sVcock
+p183
+I1
+sVrobin
+p184
+I1
+sVtheres
+p185
+I4
+sVgone
+p186
+I1
+sVcrazy
+p187
+I1
+sVwant
+p188
+I1
+sVgive
+p189
+I1
+sVwasnt
+p190
+I1
+sVshitll
+p191
+I1
+sVit
+p192
+I10
+sViv
+p193
+I1
+sVsay
+p194
+I1
+sVhomie
+p195
+I1
+sVim
+p196
+I3
+sVrap
+p197
+I1
+sVin
+p198
+I1
+sVanger
+p199
+I1
+sVhit
+p200
+I1
+sValone
+p201
+I1
+sVid
+p202
+I1
+sVshit
+p203
+I3
+sVdtwizzy
+p204
+I1
+sVspit
+p205
+I1
+sVsit
+p206
+I1
+sVna
+p207
+I2
+sVmake
+p208
+I3
+sVpeace
+p209
+I1
+sVtip
+p210
+I1
+sVcross
+p211
+I1
+sVclearly
+p212
+I1
+sVmachine
+p213
+I1
+sVtight
+p214
+I1
+sVchest
+p215
+I1
+sVtake
+p216
+I1
+sVanimal
+p217
+I1
+sVu
+I1
+sVyou
+p218
+I1
+sVdowns
+p219
+I1
+sVplottin
+p220
+I1
+sVteflon
+p221
+I1
+sVsunshine
+p222
+I1
+sVknew
+p223
+I1
+sVtops
+p224
+I1
+sVobie
+p225
+I1
+sVreact
+p226
+I2
+sVgon
+p227
+I3
+sVkinda
+p228
+I1
+sVcases
+p229
+I1
+sVman
+p230
+I5
+sVa
+I1
+sVdrop
+p231
+I1
+sVmentionin
+p232
+I1
+sVmobile
+p233
+I1
+sVmaybe
+p234
+I1
+sVshady
+p235
+I4
+sVwell
+p236
+I1
+sVgame
+p237
+I1
+sVwithout
+p238
+I1
+sVsolve
+p239
+I4
+sVblock
+p240
+I1
+sVleft
+p241
+I1
+s.

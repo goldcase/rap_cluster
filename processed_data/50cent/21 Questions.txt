@@ -1,73 +1,490 @@
-"21 questions" lyrics
-50 cent lyrics
-"21 questions"
-(feat. nate dogg)
-new york city!
-you are now rapping...with 50 cent
-you gotta love it...
-i just wanna chill and twist a la
-catch suns in my 7-45
-you drive me crazy shorty i
-need to see you and feel you next to me
-i provide everything you need and i
-like your smile i don't wanna see you cry
-got some questions that i got to ask and i
-hope you can come up with the answers babe
-girl...it's easy to love me now
-would you love me if i was down and out?
-would you still have love for me?
-girl...it's easy to love me now
-would you love me if i was down and out?
-would you still have love for me?
-girl...
-if i fell off tomorrow would you still love me?
-if i didn't smell so good would you still hug me?
-if i got locked up and sentenced to a quarter century,
-could i count on you to be there to support me mentally?
-if i went back to a hoopty from a benz, would you poof and disappear like
-some of my friends?
-if i was hit and i was hurt would you be by my side?
-if it was time to put in work would you be down to ride?
-i'd get out and peel a nigga cap and chill and drive
-i'm asking questions to find out how you feel inside
-if i ain't rap 'cause i flipped burgers at burger king
-would you be ashamed to tell your friends you feelin' me?
-in the bed if i used my tongue would you like that?
-if i wrote you a love letter would you write back?
-now we can have a lil' drink you know a nightcap
-and we could go do what you like, i know you like that
-girl...it's easy to love me now
-would you love me if i was down and out?
-would you still have love for me?
-girl...it's easy to love me now (woo!)
-would you love me if i was down and out?
-would you still have love for me?
-girl...
-now would you leave me if you're father found out i was thuggin'?
-do you believe me when i tell you, you the one i'm loving?
-are you mad 'cause i'm asking you 21 questions?
-are you my soulmate? 'cause if so, girl you a blessing
-do you trust me enough, to tell me your dreams?
-i'm staring at ya' trying to figure how you got in them jeans
-if i was down would you say things to make me smile?
-i treat you how you want to be treated just teach me how
-if i was with some other chick and someone happened to see?
-and when you asked me about it i said it wasn't me
-would you believe me? or up and leave me?
-how deep is our bond if that's all it takes for you to be gone?
-we're only humans girl we make mistakes, to make it up i do whatever it take
-i love you like a fat kid loves cake
-you know my style i say anything to make you smile
-girl...it's easy to love me now
-would you love me if i was down and out?
-would you still have love for me?
-girl...it's easy to love me now
-would you love me if i was down and out?
-would you still have love for me?
-girl...
-could you love me in a bentley?
-could you love me on a bus?
-i'll ask 21 questions, and they all about us
-could you love me in a bentley?
-could you love me on a bus?
-i'll ask 21 questions, and they all about us
+(dp1
+Vthings
+p2
+I1
+sVlyrics
+p3
+I2
+sVsuns
+p4
+I1
+sVmistakes
+p5
+I1
+sVquestions
+p6
+I7
+sVgo
+p7
+I1
+sVstill
+p8
+I8
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I1
+sVstyle
+p12
+I1
+sVtrying
+p13
+I1
+sV21
+p14
+I5
+sVla
+p15
+I1
+sVfather
+p16
+I1
+sVenough
+p17
+I1
+sVeasy
+p18
+I6
+sVsmile
+p19
+I3
+sVnate
+p20
+I1
+sVta
+p21
+I1
+sVme
+p22
+I12
+sVnightcap
+p23
+I1
+sVgood
+p24
+I1
+sVhit
+p25
+I1
+sVget
+p26
+I1
+sVya
+p27
+I1
+sVfat
+p28
+I1
+sVfeelin
+p29
+I1
+sVknow
+p30
+I3
+sVnew
+p31
+I1
+sVnow
+p32
+I5
+sVdreams
+p33
+I1
+sVhoopty
+p34
+I1
+sVlike
+p35
+I6
+sVcry
+p36
+I1
+sV50
+p37
+I2
+sVleave
+p38
+I2
+sVfound
+p39
+I1
+sVwent
+p40
+I1
+sVquarter
+p41
+I1
+sVside
+p42
+I1
+sVwrote
+p43
+I1
+sVbond
+p44
+I1
+sVnigga
+p45
+I1
+sVbentley
+p46
+I2
+sVhumans
+p47
+I1
+sVback
+p48
+I2
+sVburger
+p49
+I1
+sVsee
+p50
+I3
+sVus
+p51
+I2
+sVgirl
+p52
+I5
+sVout
+p53
+I6
+sVsaid
+p54
+I1
+sVinside
+p55
+I1
+sVeverything
+p56
+I1
+sVwoo
+p57
+I1
+sVasking
+p58
+I2
+sVgot
+p59
+I5
+sVsoulmate
+p60
+I1
+sVcause
+p61
+I3
+sVpeel
+p62
+I1
+sVwan
+p63
+I2
+sVanswers
+p64
+I1
+sVyork
+p65
+I1
+sVchick
+p66
+I1
+sVask
+p67
+I3
+sVteach
+p68
+I1
+sVcome
+p69
+I1
+sVstaring
+p70
+I1
+sVanything
+p71
+I1
+sVtreated
+p72
+I1
+sVcould
+p73
+I6
+sVflipped
+p74
+I1
+sVtongue
+p75
+I1
+sVasked
+p76
+I1
+sVthats
+p77
+I1
+sVlove
+p78
+I26
+sVdont
+p79
+I1
+sVfeel
+p80
+I2
+sVjeans
+p81
+I1
+sVwhatever
+p82
+I1
+sVone
+p83
+I1
+sVput
+p84
+I1
+sVtrust
+p85
+I1
+sVtomorrow
+p86
+I1
+sVcity
+p87
+I1
+sVrappingwith
+p88
+I1
+sVtakes
+p89
+I1
+sVwould
+p90
+I23
+sVdogg
+p91
+I1
+sVsupport
+p92
+I1
+sVcent
+p93
+I2
+sVnext
+p94
+I1
+sVtreat
+p95
+I1
+sVtell
+p96
+I3
+sVloving
+p97
+I1
+sVhug
+p98
+I1
+sVbabe
+p99
+I1
+sVthat
+p100
+I2
+sVbus
+p101
+I2
+sVblessing
+p102
+I1
+sVshorty
+p103
+I1
+sVhurt
+p104
+I1
+sVlil
+p105
+I1
+sVashamed
+p106
+I1
+sVcatch
+p107
+I1
+sVbelieve
+p108
+I2
+sVchill
+p109
+I2
+sVcount
+p110
+I1
+sVking
+p111
+I1
+sVlocked
+p112
+I1
+sVride
+p113
+I1
+sVwork
+p114
+I1
+sVbed
+p115
+I1
+sVhope
+p116
+I1
+sVloves
+p117
+I1
+sVcake
+p118
+I1
+sVthuggin
+p119
+I1
+sVhappened
+p120
+I1
+sVdidnt
+p121
+I1
+sVill
+p122
+I2
+sVsentenced
+p123
+I1
+sVgone
+p124
+I1
+sVcrazy
+p125
+I1
+sV745
+p126
+I1
+sVfigure
+p127
+I1
+sVcentury
+p128
+I1
+sVwasnt
+p129
+I1
+sVbenz
+p130
+I1
+sVit
+p131
+I1
+sVdeep
+p132
+I1
+sVtwist
+p133
+I1
+sVsay
+p134
+I2
+sVsomeone
+p135
+I1
+sVim
+p136
+I4
+sVrap
+p137
+I1
+sVneed
+p138
+I2
+sVid
+p139
+I1
+sVdisappear
+p140
+I1
+sVwant
+p141
+I1
+sVprovide
+p142
+I1
+sVna
+p143
+I2
+sVmake
+p144
+I4
+sVwrite
+p145
+I1
+sVhow
+p146
+I1
+sVgirlits
+p147
+I6
+sVtake
+p148
+I1
+sVsmell
+p149
+I1
+sVused
+p150
+I1
+sVdrink
+p151
+I1
+sVfell
+p152
+I1
+sVpoof
+p153
+I1
+sVmad
+p154
+I1
+sVletter
+p155
+I1
+sVcap
+p156
+I1
+sVfriends
+p157
+I2
+sVmentally
+p158
+I1
+sVkid
+p159
+I1
+sVi
+I3
+sVyoure
+p160
+I1
+sVdrive
+p161
+I2
+sVburgers
+p162
+I1
+sVtime
+p163
+I1
+s.

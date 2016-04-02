@@ -1,123 +1,866 @@
-"the geto" lyrics
-scarface lyrics
-"the geto"
-(feat. ice cube, willie d)
-i dedicate this to my world doug strugglers
-i hope metafy you with peace and all hustling
-i'm busting, for ya'll niggas
-cause your my niggas on tha realer
-beground these streets for stacking peeler
-for the dealers, save back on your teams
-and underrestamate with these who do
-you get the paper and then get of the street
-ya'll remember, you'll never give the money and the dope to me
-cause i wont give a shee to a nigga starvin
-so we can fluss and blow weed hangin' with the warden
-how many niggas on the quad who don't giva a fuck
-survivin struggls hiting licks out the hippieclub
-i'm just a homie out the hood who did something
-so why are you fronting
-i'm in for ten years and i'll still wanted
-you heard me homie!
-or do you try to tell it to the dumdums
-they call you niggas
-and niggas try steel were they come from
-i bring the front to all my homies out riding
-help a homie get on his feet, and we'll all riding
-sange, and fange in this game, but it's true
-be sure that you'll respecting the power, and that's you
-never forget the neighbourhood were it started
-the ghette south eight is my hood and my hearts with the...
-ghetto,
-ghetto.
-i can't get out of here
-ghetto
-nigga
-ghetto
-i can't get out of here
-i represent the southeast, of southeast
-millenium muthafucka and kay-doo were ya at
-(one time) bring tha rockas
-cause muthafuckas being talkin' for so long
-but now i'm down with the innerface clik and it's on
-give a fuck were you're from nigga
-and kay-doo always represtentin
-that nigga is a fact i've lived in it
-now look at me, ya'll can't steel rabbit
-for all ya'll niggas talking that shit, i'm still strapping
-will i strapp ya?
-niggas with all that hot capit
-niggas packin' in fake and it ain't happning
-will you think we're smacking
-that yellow road is steady packing
-the home of the ghetto slangin
-and car jacking
-nigga, i ain't acting
-i was brought up in this bitch
-from the o.p's and all down to the eastwike
-even flat joe's and even the lingwood is all hood
-for the christ your all driving is all hood
-the ghetto
-ghetto
-ghetto
-i can't get out of here
-i got give it up to my ghetto niggas
-in the ghetto, bitch, looking forthem ghetto licks
-geting ghetto rich
-knowing that the steam in the book flip the gang
-quick to get my telephone turned on in my mama's name
-this ghetto slang is some shit thatcan beat collage,
-you ain't fucking with this hustla with street knolledge
-9 to 5
-still fliping twenties on the side
-try to get by the feints
-i'm making dollars out of fifty cents
-got the big body benz, with the wheels on it
-a celuarphone with no bills on it
-get your ass on this, got to fill on, still want it
-baby, leen on it, and i can put the kill on it
-you gotot strap a nigga lie like a singer
-puting your baby to sleep
-and turn of your ring and you can catch me on banewick
-looking sick in a six
-and some schweiz on my wrist
-now picture this
-you got to blow, cause to many niggas out for mr. jackson's dope
-ya'll niggas got to go, to the ghetto
-ghetto,
-ghetto.
-i can't get out of here
-ghetto
-nigga
-ghetto
-i can't get out of here
-deathwall is the site
-when the mic be light
-as twice as shipp advice to my homies who write me in te pine
-now the sale is hell but kids keep sending me mail
-with their laberty bell, so i can tell you about the half
-and who got cow for riches, and sending bithces,
-i'm making bitches
-i remember when i just to get beat with extensioncars
-and we slanged by to see were my house was
-started stealing out of my mama's perce
-now that she's gone
-she lives thrue my songs
-and it sure hurts
-i couldn't  have treated her worse then in the ghetto
-and turn our womens into wideows
-sick to see my homie that i ain't with, trade with, payed with, laughed with
-dead in a casket.
-to my pumps we can reach the top
-but you got a chance to get of the pop
-if you see your chance baby take it
-i was the last mothafucka in the world who thoiught i would make it
-but look at me now, a six on the beach in greeze
-check from the muthafucka stretts of the ghetto
-ghetto,
-ghetto.
-i can't get out of here
-ghetto
-nigga
-ghetto
-i can't get out of here
+(dp1
+Vrepresent
+p2
+I1
+sVsix
+p3
+I2
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I1
+sVhalf
+p7
+I1
+sVperce
+p8
+I1
+sVyellow
+p9
+I1
+sVyears
+p10
+I1
+sVtop
+p11
+I1
+sVbring
+p12
+I2
+sVpaper
+p13
+I1
+sVkill
+p14
+I1
+sVgang
+p15
+I1
+sVmetafy
+p16
+I1
+sVgo
+p17
+I1
+sVhell
+p18
+I1
+sVstill
+p19
+I4
+sVfeat
+p20
+I1
+sVforget
+p21
+I1
+sVblow
+p22
+I2
+sVlicks
+p23
+I2
+sVfange
+p24
+I1
+sVhappning
+p25
+I1
+sVextensioncars
+p26
+I1
+sVwith
+p27
+I1
+sVfeints
+p28
+I1
+sVshipp
+p29
+I1
+sVsending
+p30
+I2
+sVrich
+p31
+I1
+sVhomies
+p32
+I2
+sVriding
+p33
+I2
+sVsave
+p34
+I1
+sVhope
+p35
+I1
+sVdo
+p36
+I1
+sVcube
+p37
+I1
+sVworse
+p38
+I1
+sVlaberty
+p39
+I1
+sVget
+p40
+I15
+sVya
+p41
+I2
+sVbig
+p42
+I1
+sVdope
+p43
+I2
+sVme
+p44
+I1
+sVgame
+p45
+I1
+sVghette
+p46
+I1
+sVstrugglers
+p47
+I1
+sVdeathwall
+p48
+I1
+sVfront
+p49
+I1
+sVworld
+p50
+I2
+sVkaydoo
+p51
+I2
+sVwomens
+p52
+I1
+sVghetto
+p53
+I24
+sVwont
+p54
+I1
+sVbrought
+p55
+I1
+sVd
+I1
+sVwillie
+p56
+I1
+sVmake
+p57
+I1
+sVmillenium
+p58
+I1
+sVpumps
+p59
+I1
+sVmuthafuckas
+p60
+I1
+sVteams
+p61
+I1
+sVtry
+p62
+I3
+sVtwice
+p63
+I1
+sVjoes
+p64
+I1
+sValways
+p65
+I1
+sVquick
+p66
+I1
+sVpackin
+p67
+I1
+sVbills
+p68
+I1
+sVsteam
+p69
+I1
+sVyall
+p70
+I5
+sVknowing
+p71
+I1
+sVshee
+p72
+I1
+sVbeground
+p73
+I1
+sVslangin
+p74
+I1
+sVcollage
+p75
+I1
+sVriches
+p76
+I1
+sVops
+p77
+I1
+sVstreets
+p78
+I1
+sVfluss
+p79
+I1
+sVback
+p80
+I1
+sVdead
+p81
+I1
+sVass
+p82
+I1
+sVsee
+p83
+I3
+sVstreet
+p84
+I2
+sVshes
+p85
+I1
+sVdoug
+p86
+I1
+sVhome
+p87
+I1
+sVreprestentin
+p88
+I1
+sV5
+I1
+sVcouldnt
+p89
+I1
+sVneighbourhood
+p90
+I1
+sVeven
+p91
+I2
+sVsurvivin
+p92
+I1
+sVcents
+p93
+I1
+sVchrist
+p94
+I1
+sVdriving
+p95
+I1
+sVknolledge
+p96
+I1
+sVice
+p97
+I1
+sVthrue
+p98
+I1
+sVlooking
+p99
+I2
+sVbithces
+p100
+I1
+sVacting
+p101
+I1
+sVputing
+p102
+I1
+sVit
+p103
+I7
+sVgot
+p104
+I7
+sVhustla
+p105
+I1
+sVyoull
+p106
+I2
+sVjacking
+p107
+I1
+sVaint
+p108
+I4
+sVmamas
+p109
+I2
+sVstruggls
+p110
+I1
+sVpower
+p111
+I1
+sVstarvin
+p112
+I1
+sVreach
+p113
+I1
+sVnever
+p114
+I2
+sVmuthafucka
+p115
+I2
+sVhere
+p116
+I7
+sVlike
+p117
+I1
+sVstrap
+p118
+I1
+sVsoutheast
+p119
+I2
+sVpacking
+p120
+I1
+sVmaking
+p121
+I2
+sVput
+p122
+I1
+sVtalking
+p123
+I1
+sVstretts
+p124
+I1
+sVwanted
+p125
+I1
+sVcome
+p126
+I1
+sVpeeler
+p127
+I1
+sVceluarphone
+p128
+I1
+sVschweiz
+p129
+I1
+sVbusting
+p130
+I1
+sVkids
+p131
+I1
+sVlast
+p132
+I1
+sVcow
+p133
+I1
+sVsmacking
+p134
+I1
+sVfliping
+p135
+I1
+sVmany
+p136
+I2
+sVill
+p137
+I1
+sVdedicate
+p138
+I1
+sVside
+p139
+I1
+sVturn
+p140
+I2
+sVgotot
+p141
+I1
+sVwrist
+p142
+I1
+sVwheels
+p143
+I1
+sVstrapping
+p144
+I1
+sVthink
+p145
+I1
+sVsouth
+p146
+I1
+sVsange
+p147
+I1
+sVdont
+p148
+I1
+sVive
+p149
+I1
+sVhurts
+p150
+I1
+sVpop
+p151
+I1
+sVone
+p152
+I1
+sVfeet
+p153
+I1
+sVinnerface
+p154
+I1
+sVnigga
+p155
+I8
+sVbitch
+p156
+I2
+sVfake
+p157
+I1
+sVjacksons
+p158
+I1
+sVring
+p159
+I1
+sVbeach
+p160
+I1
+sVrockas
+p161
+I1
+sVhood
+p162
+I4
+sVbaby
+p163
+I3
+sVtrade
+p164
+I1
+sVcasket
+p165
+I1
+sVfrom
+p166
+I1
+sVten
+p167
+I1
+sVwould
+p168
+I1
+sVsongs
+p169
+I1
+sVfifty
+p170
+I1
+sVthoiught
+p171
+I1
+sVpayed
+p172
+I1
+sVeastwike
+p173
+I1
+sVroad
+p174
+I1
+sVlong
+p175
+I1
+sVhiting
+p176
+I1
+sVrespecting
+p177
+I1
+sVtwenties
+p178
+I1
+sVcall
+p179
+I1
+sVhouse
+p180
+I1
+sVmothafucka
+p181
+I1
+sVwas
+p182
+I1
+sVtell
+p183
+I2
+sVflat
+p184
+I1
+sVcapit
+p185
+I1
+sVlived
+p186
+I1
+sVname
+p187
+I1
+sVon
+p188
+I1
+sVunderrestamate
+p189
+I1
+sVgreeze
+p190
+I1
+sVbitches
+p191
+I1
+sVbody
+p192
+I1
+sVrealer
+p193
+I1
+sVbanewick
+p194
+I1
+sVlives
+p195
+I1
+sVrabbit
+p196
+I1
+sVmail
+p197
+I1
+sVbeat
+p198
+I2
+sVquad
+p199
+I1
+sVtrue
+p200
+I1
+sVsleep
+p201
+I1
+sVdealers
+p202
+I1
+sVsteel
+p203
+I2
+sVgeting
+p204
+I1
+sVte
+p205
+I1
+sVlook
+p206
+I2
+sVniggas
+p207
+I11
+sVthis
+p208
+I1
+sVcar
+p209
+I1
+sVdumdums
+p210
+I1
+sVflip
+p211
+I1
+sVhomie
+p212
+I4
+sVmr
+p213
+I1
+sVsite
+p214
+I1
+sVscarface
+p215
+I1
+sVtreated
+p216
+I1
+sVdollars
+p217
+I1
+sVat
+p218
+I1
+sVcatch
+p219
+I1
+sVhippieclub
+p220
+I1
+sVgiva
+p221
+I1
+sVbell
+p222
+I1
+sVgive
+p223
+I4
+sVstacking
+p224
+I1
+sVsteady
+p225
+I1
+sVbenz
+p226
+I1
+sVturned
+p227
+I1
+sVfuck
+p228
+I2
+sVheard
+p229
+I1
+sVcant
+p230
+I8
+sVfronting
+p231
+I1
+sVim
+p232
+I7
+sVsomething
+p233
+I1
+sVwant
+p234
+I1
+sVkeep
+p235
+I1
+sVclik
+p236
+I1
+sVshit
+p237
+I2
+sVfill
+p238
+I1
+sVgone
+p239
+I1
+sVlie
+p240
+I1
+sVgeto
+p241
+I2
+sVfucking
+p242
+I1
+sVpeace
+p243
+I1
+sVpine
+p244
+I1
+sVcheck
+p245
+I1
+sVwrite
+p246
+I1
+sVstarted
+p247
+I2
+sVhot
+p248
+I1
+sVbook
+p249
+I1
+sVthatcan
+p250
+I1
+sVtake
+p251
+I1
+sVsick
+p252
+I2
+sVlaughed
+p253
+I1
+sV9
+I1
+sVyou
+p254
+I1
+sVhangin
+p255
+I1
+sVhustling
+p256
+I1
+sVtalkin
+p257
+I1
+sVforthem
+p258
+I1
+sVpicture
+p259
+I1
+sVsure
+p260
+I2
+sVadvice
+p261
+I1
+sVstealing
+p262
+I1
+sVweed
+p263
+I1
+sVchance
+p264
+I2
+sVleen
+p265
+I1
+sVeight
+p266
+I1
+sVwarden
+p267
+I1
+sVlingwood
+p268
+I1
+sVslang
+p269
+I1
+sVsinger
+p270
+I1
+sVcause
+p271
+I4
+sVremember
+p272
+I2
+sVwideows
+p273
+I1
+sVstrapp
+p274
+I1
+sVlight
+p275
+I1
+sVyoure
+p276
+I1
+sVwell
+p277
+I1
+sVsale
+p278
+I1
+sVfact
+p279
+I1
+sVtime
+p280
+I1
+sVtelephone
+p281
+I1
+sVhearts
+p282
+I1
+sVthe
+p283
+I1
+sVthats
+p284
+I1
+sVmic
+p285
+I1
+sVtha
+p286
+I2
+sVslanged
+p287
+I1
+s.

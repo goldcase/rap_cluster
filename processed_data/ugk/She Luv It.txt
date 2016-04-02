@@ -1,55 +1,307 @@
-"she luv it" lyrics
-ugk lyrics
-"she luv it"
-hold up
-n she luv it
-n she luv it
-hold up (luv it mayne)
-i make her get down on the down
-open up a store
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor (luv it mayne)
-get down on the down
-open up a store
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor (luv it mayne)
-put my dick inside her mouth
-tried to fit my whole dick and nuts inside her mouth
-i'm jumpin in an out your pussy tryna stretch out
-when i hitchu from the back you say don't take it out out out
-any nigga that you live with ain't like me
-ain't from atlanta but i know these hoes like me
-they pulling on my zipper wanna bite me
-i got a bitch from okland like to get hyfie
-in a bed with her head n a jig
-eat on my dick like it's a corn or a bar-b-que rib
-drop it to the floor let me fuck witcha
-get the camara out bitch i'm finna take my picture
-get down on the down
-open up a store
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor (luv it mayne)
-get down on the down
-open up a store
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor
-n she luv it
-slide down slow she gettin down on the floor (luv it mayne)
-shes a big fine something ain't she
-with that big ass bet she can grind something can't she
-she shake it fast shake it slow
-to and fro, back n forth, up and down
-apple bottom brown and it ain't fucking around
-she got them rocket republics on fitting kinda tight
-real snug on her back side it's looking kinda right
-with a juicey tite chop n the luther tin heels on
+(dp1
+Vugk
+p2
+I1
+sVlyrics
+p3
+I2
+sVshake
+p4
+I2
+sVfine
+p5
+I1
+sVapple
+p6
+I1
+sVaint
+p7
+I4
+sVjig
+p8
+I1
+sVslow
+p9
+I13
+sVrocket
+p10
+I1
+sVfit
+p11
+I1
+sVdick
+p12
+I3
+sVtin
+p13
+I1
+sVreal
+p14
+I1
+sVbrown
+p15
+I1
+sVaround
+p16
+I1
+sVget
+p17
+I6
+sVbig
+p18
+I2
+sVrepublics
+p19
+I1
+sVknow
+p20
+I1
+sVbarbque
+p21
+I1
+sVlike
+p22
+I4
+sVdrop
+p23
+I1
+sVslide
+p24
+I12
+sVshe
+p25
+I2
+sVside
+p26
+I1
+sVnigga
+p27
+I1
+sVfucking
+p28
+I1
+sVback
+p29
+I3
+sVup
+p30
+I1
+sVshes
+p31
+I1
+sVhoes
+p32
+I1
+sVfinna
+p33
+I1
+sVout
+p34
+I2
+sVluv
+p35
+I17
+sVbottom
+p36
+I1
+sVlooking
+p37
+I1
+sVgot
+p38
+I2
+sVforth
+p39
+I1
+sVass
+p40
+I1
+sVright
+p41
+I1
+sVcorn
+p42
+I1
+sVmayne
+p43
+I5
+sVlet
+p44
+I1
+sVput
+p45
+I1
+sVzipper
+p46
+I1
+sVon
+p47
+I1
+sVluther
+p48
+I1
+sVhitchu
+p49
+I1
+sVchop
+p50
+I1
+sVwitcha
+p51
+I1
+sVwhole
+p52
+I1
+sVdont
+p53
+I1
+sVpussy
+p54
+I1
+sVdown
+p55
+I5
+sVsnug
+p56
+I1
+sVbitch
+p57
+I2
+sVopen
+p58
+I4
+sVwan
+p59
+I1
+sVstretch
+p60
+I1
+sVbite
+p61
+I1
+sVfro
+p62
+I1
+sVfast
+p63
+I1
+sVlive
+p64
+I1
+sVstore
+p65
+I4
+sVokland
+p66
+I1
+sVtryna
+p67
+I1
+sVhead
+p68
+I1
+sVfuck
+p69
+I1
+sVgettin
+p70
+I12
+sVatlanta
+p71
+I1
+sVhold
+p72
+I2
+sVeat
+p73
+I1
+sVme
+p74
+I3
+sVinside
+p75
+I2
+sVcant
+p76
+I1
+sVbed
+p77
+I1
+sVn
+I13
+sVpulling
+p78
+I1
+sVbet
+p79
+I1
+sVcamara
+p80
+I1
+sVit
+p81
+I11
+sVsay
+p82
+I1
+sVim
+p83
+I2
+sVsomething
+p84
+I2
+sVheels
+p85
+I1
+sVrib
+p86
+I1
+sVtite
+p87
+I1
+sVfloor
+p88
+I13
+sVna
+p89
+I1
+sVmake
+p90
+I1
+sVnuts
+p91
+I1
+sVtight
+p92
+I1
+sVfitting
+p93
+I1
+sVtake
+p94
+I2
+sVpicture
+p95
+I1
+sVjuicey
+p96
+I1
+sVtried
+p97
+I1
+sVmouth
+p98
+I2
+sVkinda
+p99
+I2
+sVjumpin
+p100
+I1
+sVgrind
+p101
+I1
+sVhyfie
+p102
+I1
+s.

@@ -1,88 +1,530 @@
-"can't say goodbye" lyrics
-snoop dogg lyrics
-"can't say goodbye"
-(feat. charlie wilson, the gap band)
-i'm a man i gotta take care of my family
-fighting these precious in my life
-i know my mind should be on shining and getting grammies
-but these streets won't say a goodbye
-i can't say goodbye
-to the blocks
-goodbye
-to the hood
-goodbye
-to the streets (to my problems)
-i can't say goodbye
-to the hood
-goodbye
-to the blocks
-goodbye
-to the streets
-i can't say goodbye goodbye
-to the blocks
-goodbye
-to the streets
-goodbye
-to the hood
-i can't say goodbye
-to the hood
-goodbye
-to the blocks
-goodbye
-to the homies
-i guess it's true, you can't take the hood out a homeboy
-plus, my hood just lost another homeboy
-another one got life, and we don't know, if he coming home boy
-they in the street tell me "just leave it alone boy,
-let them do them take care of your own boy"
-but i said back brake a bound, before i was drome boy
-you had dreams of being a dope boy
-yeah, i was runnin' from the po po
-banging for the truth, late night huntin'
-puttin' me in work, good day comin', airbrush, shirt,
-pay day, get the spot, got my hair cut first
-made mom sick when i wouldn't go to church
-yeah i live in the burbs, but i think 21st
-i know since i left that it's gotten much worse
-but i'd still be there, if i couldn't write a verse
-to the the blocks that raise me, the enemies and the homies that made
-me, tough enough to hang on the corners that would moul me
-critics wonder if i'm tryna be the old me,
-but if the thing the old me ever left, then they don't really know me,
-and don't know, we don't change, we just become og, you always addicted
-to the life, you just don't od, i owe the streets before they owe me
-took me in when my momma didn't want me, to wild to be a child, and cops
-not around now, all i got now is the homies, to teach me, how to be a man
-in what not, how to brake ounces in the grams ??
-the reason i'm so nice with my hands ?? shit, you think i forgot, man
-thank good every day that the boy could spit
-and all around the world they enjoyin' my shit
-i know i got plenty more awards to get
-i got a, beautiful wife and some gorgeous kids
-but it wouldn't be right if i ignore the shit
-they made me how i am, the music in the man
-told me that i can for the world gave a damn
-if it wasn't for my shit, they sayin' stick to the plan
-probably be a gun instead of a pen in my hand
-probably be doin' a dub and the pin with my man
-the say leaders streets but they don't really understand
-all i had was the block, when i didn't have fans
-wrapped on the corners when i couldn't get spins
-all i had was the homies when i didn't have kids
-if it all come down and my carrier was to end, i'm sure my name
-would live.. in the streets
-i just can't say goodbye
-i can't say goodbye
-goodbye
-goodbye
-i can't say goodbye
-goodbye
-goodbye
-i can't say goodbye
-goodbye
-goodbye
-i can't say goodbye
-goodbye
-goodbye
-you can take the man out the streets,
-but you can't take the streets out the man
+(dp1
+Vlyrics
+p2
+I2
+sVounces
+p3
+I1
+sVgo
+p4
+I1
+sVstill
+p5
+I1
+sVfeat
+p6
+I1
+sV21st
+p7
+I1
+sVcut
+p8
+I1
+sVthank
+p9
+I1
+sVpen
+p10
+I1
+sVlate
+p11
+I1
+sVverse
+p12
+I1
+sVhomies
+p13
+I4
+sVta
+p14
+I1
+sVme
+p15
+I4
+sVgood
+p16
+I2
+sVdrome
+p17
+I1
+sVget
+p18
+I3
+sVdope
+p19
+I1
+sVmoul
+p20
+I1
+sVband
+p21
+I1
+sVevery
+p22
+I1
+sVknow
+p23
+I6
+sVmom
+p24
+I1
+sVhands
+p25
+I1
+sVworld
+p26
+I2
+sVday
+p27
+I3
+sVdreams
+p28
+I1
+sVwont
+p29
+I1
+sVname
+p30
+I1
+sVlost
+p31
+I1
+sVcorners
+p32
+I2
+sVgun
+p33
+I1
+sVleave
+p34
+I1
+sVtruth
+p35
+I1
+sVnight
+p36
+I1
+sVaddicted
+p37
+I1
+sVbecome
+p38
+I1
+sVspins
+p39
+I1
+sVright
+p40
+I1
+sVold
+p41
+I2
+sVleaders
+p42
+I1
+sVstreets
+p43
+I9
+sVback
+p44
+I1
+sVaround
+p45
+I2
+sVhair
+p46
+I1
+sVstreet
+p47
+I1
+sVforgot
+p48
+I1
+sVhome
+p49
+I1
+sVshining
+p50
+I1
+sVignore
+p51
+I1
+sVsaid
+p52
+I1
+sVchurch
+p53
+I1
+sVsince
+p54
+I1
+sVenough
+p55
+I1
+sVgot
+p56
+I6
+sVever
+p57
+I1
+sVtold
+p58
+I1
+sVproblems
+p59
+I1
+sVreason
+p60
+I1
+sVlet
+p61
+I1
+sVsayin
+p62
+I1
+sValone
+p63
+I1
+sVprecious
+p64
+I1
+sVcome
+p65
+I1
+sVchange
+p66
+I1
+sVcare
+p67
+I2
+sVboy
+p68
+I6
+sVkids
+p69
+I2
+sVwould
+p70
+I2
+sVwouldnt
+p71
+I2
+sVgetting
+p72
+I1
+sVog
+p73
+I1
+sVcould
+p74
+I1
+sVod
+p75
+I1
+sVthing
+p76
+I1
+sVcarrier
+p77
+I1
+sVplus
+p78
+I1
+sVawards
+p79
+I1
+sVthink
+p80
+I2
+sVblock
+p81
+I1
+sVfirst
+p82
+I1
+sVtough
+p83
+I1
+sVdont
+p84
+I6
+sVfamily
+p85
+I1
+sVowe
+p86
+I2
+sVwonder
+p87
+I1
+sVbound
+p88
+I1
+sVone
+p89
+I1
+sVmomma
+p90
+I1
+sVanother
+p91
+I2
+sVcomin
+p92
+I1
+sVcouldnt
+p93
+I2
+sVenjoyin
+p94
+I1
+sVhang
+p95
+I1
+sVteach
+p96
+I1
+sVhood
+p97
+I6
+sVguess
+p98
+I1
+sVairbrush
+p99
+I1
+sVraise
+p100
+I1
+sVsnoop
+p101
+I1
+sValways
+p102
+I1
+sVdogg
+p103
+I1
+sVdub
+p104
+I1
+sVlive
+p105
+I2
+sVmuch
+p106
+I1
+sVmusic
+p107
+I1
+sVgorgeous
+p108
+I1
+sVwrapped
+p109
+I1
+sVdamn
+p110
+I1
+sVreally
+p111
+I2
+sVtell
+p112
+I1
+sVtryna
+p113
+I1
+sVlife
+p114
+I3
+sVhuntin
+p115
+I1
+sVspit
+p116
+I1
+sVtook
+p117
+I1
+sVgap
+p118
+I1
+sVcops
+p119
+I1
+sVunderstand
+p120
+I1
+sVstick
+p121
+I1
+sVchild
+p122
+I1
+sVprobably
+p123
+I2
+sVtrue
+p124
+I1
+sVrunnin
+p125
+I1
+sVmade
+p126
+I3
+sVgotten
+p127
+I1
+sVwork
+p128
+I1
+sVcant
+p129
+I13
+sVpo
+p130
+I2
+sVwild
+p131
+I1
+sVbrake
+p132
+I2
+sVgave
+p133
+I1
+sVdidnt
+p134
+I3
+sVburbs
+p135
+I1
+sVbeautiful
+p136
+I1
+sVpin
+p137
+I1
+sVfans
+p138
+I1
+sVwasnt
+p139
+I1
+sVmind
+p140
+I1
+sVsay
+p141
+I13
+sVim
+p142
+I4
+sVwant
+p143
+I1
+sVid
+p144
+I1
+sVshit
+p145
+I4
+sVworse
+p146
+I1
+sVwilson
+p147
+I1
+sVend
+p148
+I1
+sVshirt
+p149
+I1
+sVpay
+p150
+I1
+sVhomeboy
+p151
+I2
+sVgrammies
+p152
+I1
+sVwrite
+p153
+I1
+sVtake
+p154
+I5
+sVsick
+p155
+I1
+sVinstead
+p156
+I1
+sVputtin
+p157
+I1
+sVenemies
+p158
+I1
+sVnice
+p159
+I1
+sVsure
+p160
+I1
+sVblocks
+p161
+I5
+sVcritics
+p162
+I1
+sVdoin
+p163
+I1
+sVspot
+p164
+I1
+sVhand
+p165
+I1
+sVplan
+p166
+I1
+sVplenty
+p167
+I1
+sVcoming
+p168
+I1
+sVman
+p169
+I7
+sVyeah
+p170
+I2
+sVgrams
+p171
+I1
+sVwife
+p172
+I1
+sVcharlie
+p173
+I1
+sVbanging
+p174
+I1
+sVfighting
+p175
+I1
+sVgoodbye
+p176
+I29
+sVleft
+p177
+I2
+s.

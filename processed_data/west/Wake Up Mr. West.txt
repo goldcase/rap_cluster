@@ -1,25 +1,182 @@
-wake mr west lyrics
-kanye west lyrics
-wake mr west
-feat bernie mac
-knew gonna see ya knew gonna see again
-gonna see again
-god damn book bag at
-always carryin lil book bag
-nobody wanna see that
-god damn fourth grader
-sit yo ass down
-wanna play like got somethin else do
-aint got nothin else do
-aint doin nothin wit yo life
-nothing life
-think is
-betta look im talkin you
-think easy dont you
-think promised
-oh aint nothin promised you
-look face got promise face
-look like promise anything
-kanye
-nia snorin class
-wake mr west mr west
+(dp1
+Vmr
+p2
+I4
+sVdont
+p3
+I1
+sVlyrics
+p4
+I2
+sVwit
+p5
+I1
+sVis
+p6
+I1
+sVlife
+p7
+I2
+sVdown
+p8
+I1
+sVna
+p9
+I5
+sVsee
+p10
+I4
+sVcarryin
+p11
+I1
+sVim
+p12
+I1
+sVat
+p13
+I1
+sVkanye
+p14
+I2
+sVsnorin
+p15
+I1
+sVfeat
+p16
+I1
+sVaint
+p17
+I3
+sVagain
+p18
+I2
+sVgon
+p19
+I3
+sVsit
+p20
+I1
+sVlil
+p21
+I1
+sVwest
+p22
+I5
+sVthat
+p23
+I1
+sVbook
+p24
+I2
+sVdamn
+p25
+I2
+sVfourth
+p26
+I1
+sVpromised
+p27
+I2
+sVgot
+p28
+I3
+sVyou
+p29
+I3
+sVtalkin
+p30
+I1
+sVass
+p31
+I1
+sVdo
+p32
+I2
+sVplay
+p33
+I1
+sVnobody
+p34
+I1
+sVeasy
+p35
+I1
+sVyo
+p36
+I2
+sVwan
+p37
+I2
+sVya
+p38
+I1
+sVdoin
+p39
+I1
+sVknew
+p40
+I2
+sVelse
+p41
+I2
+sVmac
+p42
+I1
+sVwake
+p43
+I3
+sVnothing
+p44
+I1
+sVclass
+p45
+I1
+sVlook
+p46
+I3
+sVsomethin
+p47
+I1
+sVlike
+p48
+I2
+sVanything
+p49
+I1
+sVoh
+p50
+I1
+sValways
+p51
+I1
+sVbetta
+p52
+I1
+sVnothin
+p53
+I3
+sVface
+p54
+I2
+sVbag
+p55
+I2
+sVgrader
+p56
+I1
+sVgod
+p57
+I2
+sVpromise
+p58
+I2
+sVthink
+p59
+I3
+sVnia
+p60
+I1
+sVbernie
+p61
+I1
+s.

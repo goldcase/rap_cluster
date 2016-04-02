@@ -1,103 +1,817 @@
-new god flow lyrics
-kanye west lyrics
-new god flow
-pusha t
-shake body party body
-shake body party body
-shake body party body
-come good time god
-believe theres god me
-im god everything else
-put hoes everything else
-new god flow fuck everything else
-supreme dope dealer write bold letters
-love nigga spirit like pac coachella
-said pusha aint fit umbrella
-good yay wholeseller
-think good ye got blow dealer
-hot temper matched cold killer
-came rhyme him
-think 99 puff wouldve shyne him
-matching daytonas rose gold us
-going ham ibiza done took toll us
-well since imma pour more
-well going coupe im going four doorwooo
-shake body party bodythats rare nigga
-shake body party bodyric flair nigga
-shake body party bodyyeah nigga
-come good time godyeah
-shake body party bodywoaa
-shake body party bodywoaa
-shake body party bodyits new god flow
-come good time god
-step necks till cant breathe
-claim five stars sell dreams
-say death multiplies threes
-lined lets see
-fuck em ye fuck em ye
-wouldnt piss nigga grand marnier
-shit shopping target
-shit luxury balmain
-im balling im red
-nick sold park want in
-whats king without crown nigga
-whats circus without clown niggas
-whats brick outta town nigga
-flood drown niggas
-good music golden child
-ma dollar sign cant nobody hold down
-shake body party body
-shake body party body
-shake body party body
-come good time god
-hold aint trying stunt man
-new yeezys jumped jump man
-went hated champion god flow
-guess thats feeling lebron know
-im living three dreams
-biggie smalls dr kings rodney kings
-cause cant get along resolution
-till drown haters rest peace whitney houston
-cars money girls clothes
-aww man sold soul
-naww man mad people frontin
-aww man made something nothing
-picture working hard cant cut through
-mess whole life like uncle touched you
-world come im 312
-cops dont come dreams dont come true
-like god go murcielago
-working mcdonalds barely paying car note
-even got enough get mama condo
-ran shot right front mom
-40 killings weekend 40 killings week
-man summer hot feel street
-welcome sunday service hope someday serve us
-got green eyes follow erick sermon
-moses part water cane
-strippers make ark made rain
-yeezy get signed hov dame
-went jacob made new jesus chains
-jesus name let choir say
-im fire ay thats richard pryor say
-annihilate anybody violate
-ask dope boy know admire ye
-shake body party body
-shake body party body
-shake body party body
-come good time god
-good music good music good music good music
-niggas say good music
-ladies say good music
-dont know ive told
-dont know ive told
-get fresh get hoes
-get fresh get hoes
-im way fresher foes
-im way fresher foes
-somebody please pick clothes
-somebody please pick clothes
-niggas say good music
-ladies say good music
-running shit today good music
-running shit today good music
+(dp1
+Vhouston
+p2
+I1
+sVworld
+p3
+I1
+sVshot
+p4
+I1
+sVlyrics
+p5
+I2
+sVgolden
+p6
+I1
+sVserve
+p7
+I1
+sVmoney
+p8
+I1
+sVdollar
+p9
+I1
+sVrest
+p10
+I1
+sVfour
+p11
+I1
+sVjacob
+p12
+I1
+sVthrough
+p13
+I1
+sV40
+p14
+I2
+sVshake
+p15
+I15
+sVgo
+p16
+I1
+sVkanye
+p17
+I1
+sVcold
+p18
+I1
+sVeyes
+p19
+I1
+sVaint
+p20
+I2
+sVnote
+p21
+I1
+sVdeath
+p22
+I1
+sVgold
+p23
+I1
+sVfit
+p24
+I1
+sVnick
+p25
+I1
+sVimma
+p26
+I1
+sVrose
+p27
+I1
+sVtrying
+p28
+I1
+sVsunday
+p29
+I1
+sVhim
+p30
+I2
+sVlets
+p31
+I1
+sVgoing
+p32
+I3
+sVtouched
+p33
+I1
+sVjumped
+p34
+I1
+sVmoses
+p35
+I1
+sVhope
+p36
+I1
+sVtown
+p37
+I1
+sVgood
+p38
+I18
+sVsomebody
+p39
+I2
+sVget
+p40
+I7
+sVdope
+p41
+I2
+sVkiller
+p42
+I1
+sVrhyme
+p43
+I1
+sVbodyyeah
+p44
+I1
+sVerick
+p45
+I1
+sVfrontin
+p46
+I1
+sVfive
+p47
+I1
+sVknow
+p48
+I4
+sVmom
+p49
+I1
+sVnew
+p50
+I6
+sVfront
+p51
+I1
+sVstunt
+p52
+I1
+sVpart
+p53
+I1
+sVdr
+p54
+I1
+sVdaytonas
+p55
+I1
+sVdreams
+p56
+I3
+sVmatched
+p57
+I1
+sVdown
+p58
+I1
+sVlike
+p59
+I3
+sVchains
+p60
+I1
+sVclown
+p61
+I1
+sVchoir
+p62
+I1
+sVfollow
+p63
+I1
+sVt
+I1
+sVcar
+p64
+I1
+sVbalmain
+p65
+I1
+sVwent
+p66
+I2
+sVpiss
+p67
+I1
+sVflair
+p68
+I1
+sVem
+p69
+I2
+sVsomeday
+p70
+I1
+sVnigga
+p71
+I7
+sVmess
+p72
+I1
+sVpeople
+p73
+I1
+sV312
+p74
+I1
+sVtold
+p75
+I2
+sVhard
+p76
+I1
+sVcrown
+p77
+I1
+sVham
+p78
+I1
+sVsign
+p79
+I1
+sVpusha
+p80
+I2
+sVsee
+p81
+I1
+sVstreet
+p82
+I1
+sVsummer
+p83
+I1
+sVus
+p84
+I3
+sVhoes
+p85
+I3
+sVmurcielago
+p86
+I1
+sVark
+p87
+I1
+sVmatching
+p88
+I1
+sVeven
+p89
+I1
+sVliving
+p90
+I1
+sVmcdonalds
+p91
+I1
+sVsaid
+p92
+I1
+sVrichard
+p93
+I1
+sVgod
+p94
+I12
+sVjump
+p95
+I1
+sVsince
+p96
+I1
+sVplease
+p97
+I2
+sVeverything
+p98
+I3
+sVenough
+p99
+I1
+sVhov
+p100
+I1
+sVwhats
+p101
+I3
+sVtoll
+p102
+I1
+sVgot
+p103
+I3
+sVhold
+p104
+I2
+sVcause
+p105
+I1
+sVred
+p106
+I1
+sVwouldve
+p107
+I1
+sVbody
+p108
+I24
+sVblow
+p109
+I1
+sVsmalls
+p110
+I1
+sVumbrella
+p111
+I1
+sVbold
+p112
+I1
+sVlove
+p113
+I1
+sVcars
+p114
+I1
+sVsold
+p115
+I2
+sVwater
+p116
+I1
+sVmarnier
+p117
+I1
+sVstep
+p118
+I1
+sVcut
+p119
+I1
+sVlet
+p120
+I1
+sVmultiplies
+p121
+I1
+sVput
+p122
+I1
+sValong
+p123
+I1
+sVcome
+p124
+I8
+sVbodyric
+p125
+I1
+sVwholeseller
+p126
+I1
+sVboy
+p127
+I1
+sVfeeling
+p128
+I1
+sVrare
+p129
+I1
+sVservice
+p130
+I1
+sVwouldnt
+p131
+I1
+sVnaww
+p132
+I1
+sVclothes
+p133
+I3
+sVask
+p134
+I1
+sVsigned
+p135
+I1
+sVhated
+p136
+I1
+sVpuff
+p137
+I1
+sVrodney
+p138
+I1
+sVgodyeah
+p139
+I1
+sVthink
+p140
+I2
+sVthats
+p141
+I2
+sVflood
+p142
+I1
+sVladies
+p143
+I2
+sVletters
+p144
+I1
+sVdont
+p145
+I4
+sVpick
+p146
+I2
+sVyeezys
+p147
+I1
+sVfeel
+p148
+I1
+sVthrees
+p149
+I1
+sVjesus
+p150
+I2
+sVshyne
+p151
+I1
+sVdame
+p152
+I1
+sVright
+p153
+I1
+sVdone
+p154
+I1
+sVsoul
+p155
+I1
+sVkings
+p156
+I2
+sVlebron
+p157
+I1
+sVcondo
+p158
+I1
+sVsermon
+p159
+I1
+sVfire
+p160
+I1
+sVpryor
+p161
+I1
+sVguess
+p162
+I1
+sVyay
+p163
+I1
+sVbodyits
+p164
+I1
+sVworking
+p165
+I2
+sVwest
+p166
+I1
+sVgirls
+p167
+I1
+sVthree
+p168
+I1
+sVcoupe
+p169
+I1
+sVkillings
+p170
+I2
+sVmusic
+p171
+I11
+sVstars
+p172
+I1
+sVmama
+p173
+I1
+sVbrick
+p174
+I1
+sVtoday
+p175
+I2
+sVbodythats
+p176
+I1
+sVbreathe
+p177
+I1
+sVlife
+p178
+I1
+sVshopping
+p179
+I1
+sVchampion
+p180
+I1
+sVname
+p181
+I1
+sVannihilate
+p182
+I1
+sVsomething
+p183
+I1
+sVnobody
+p184
+I1
+sVpark
+p185
+I1
+sVtook
+p186
+I1
+sVelse
+p187
+I3
+sV99
+p188
+I1
+sVcops
+p189
+I1
+sVdrown
+p190
+I2
+sVuncle
+p191
+I1
+sVwhitney
+p192
+I1
+sVchild
+p193
+I1
+sVbelieve
+p194
+I1
+sVtrue
+p195
+I1
+sVspirit
+p196
+I1
+sVme
+p197
+I1
+sVking
+p198
+I1
+sVmade
+p199
+I3
+sVma
+p200
+I1
+sVtarget
+p201
+I1
+sVniggas
+p202
+I4
+sVbiggie
+p203
+I1
+sVhaters
+p204
+I1
+sVsay
+p205
+I7
+sVpour
+p206
+I1
+sVadmire
+p207
+I1
+sVviolate
+p208
+I1
+sVmore
+p209
+I1
+sVtemper
+p210
+I1
+sVtheres
+p211
+I1
+sVclaim
+p212
+I1
+sVsupreme
+p213
+I1
+sVbarely
+p214
+I1
+sVoutta
+p215
+I1
+sVfresher
+p216
+I2
+sVran
+p217
+I1
+sVflow
+p218
+I5
+sVcircus
+p219
+I1
+sVcane
+p220
+I1
+sVfuck
+p221
+I3
+sVive
+p222
+I2
+sVay
+p223
+I1
+sVcant
+p224
+I4
+sVway
+p225
+I2
+sVim
+p226
+I9
+sVnecks
+p227
+I1
+sVwant
+p228
+I1
+sVin
+p229
+I1
+sVbodywoaa
+p230
+I2
+sVdealer
+p231
+I2
+sVshit
+p232
+I4
+sVsell
+p233
+I1
+sVpaying
+p234
+I1
+sVmake
+p235
+I1
+sVpeace
+p236
+I1
+sVgreen
+p237
+I1
+sVballing
+p238
+I1
+sVwrite
+p239
+I1
+sVtill
+p240
+I2
+sVhot
+p241
+I2
+sVpac
+p242
+I1
+sVluxury
+p243
+I1
+sVgrand
+p244
+I1
+sVparty
+p245
+I15
+sVyou
+p246
+I1
+sVweek
+p247
+I1
+sVpicture
+p248
+I1
+sVaww
+p249
+I2
+sVye
+p250
+I4
+sVwelcome
+p251
+I1
+sVcoachella
+p252
+I1
+sVrain
+p253
+I1
+sVfoes
+p254
+I2
+sVrunning
+p255
+I2
+sVmad
+p256
+I1
+sVyeezy
+p257
+I1
+sVnothing
+p258
+I1
+sVweekend
+p259
+I1
+sVman
+p260
+I6
+sVwhole
+p261
+I1
+sVwell
+p262
+I2
+sVanybody
+p263
+I1
+sVibiza
+p264
+I1
+sVstrippers
+p265
+I1
+sVwithout
+p266
+I2
+sVdoorwooo
+p267
+I1
+sVtime
+p268
+I5
+sVfresh
+p269
+I2
+sVlined
+p270
+I1
+sVresolution
+p271
+I1
+sVcame
+p272
+I1
+s.

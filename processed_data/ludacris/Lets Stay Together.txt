@@ -1,78 +1,634 @@
-"let's stay together" lyrics
-ludacris lyrics
-"let's stay together"
-everybody breaking, breaking up...
-let's stay together, (together )
-let's stay together yea!
-yea! tell y'all a lil' story right quick man, luda!
-first the fat boyz break up,
-now everyday i wake up,
-somebody done call it quits,
-shit i thought bobby and whitney stay together forever if they made it that long,
-i guess the drugs weren't that strong
-and now it's russel and kimora even jordan and wanita
-and to top it off brad left jen for angelina!
-what the hell is going on in this world?!
-this just can't be! if will and jada can do it, then why can't we?!
-hillary is still with bill clinton,
-how did they do it? he got his dick sucked and the whole damn world knew it!
-now paul mccartney losing half of his life,
-all because he got divorced from his wife,
-somebody said "it's cheaper to keep her",
-but not in k-fed's case (nope!)
-'cause britney even had to pay for k-fed's case (cha-ching!) nick and jessica, trina and wayne
-and if you broke up with your girl i know you feelin' the pain because...
-everybody's breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall common!
-everybody's breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall
-first it was shaq and kobe (yea), then iverson and philly (yea),
-t.o. and mcnabb (yea), even game and 50 (yep!),
-i guess sometimes you gotta let the past be the past (past),
-but i'd give a hundred thou' to see jay with dame dash,
-b.g. with lil' wayne (yea!), juvenile and turk (yea!),
-mannie fresh with baby (un huh),
-how can we make it work? crunchy with 3-6 (yea!),
-diamond with crime mob (yea!), lauryn hill with the fugees (what?!),
-remy with terror squad (woo!), lil' kim back with c's and snoop with more dre,
-dre with mo-big boys, cd's with mo-plays,
-tribes with no quest, salt with no pepa,
-even the eagles broke up and got the fuck back together,
-selling millions of copies and getting that cash
-and raz b said "chris stokes was getting that ass", i don't even understand it,
-what the hell went wrong? maybe folks will wise up and take heed to this song because...
-everybody's breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall common!
-everybody's breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall (i can't take it, oh!)
-first wu-tang broke up, now o.d.b. is gone,
-now i'm hearing cam'ron don't talk to jim jones,
-who would've saw that shit coming?
-certainly not me, or tha dogg pound break up, or goodie m-o-b,
-then shawnna almost jumped ship from dtp,
-if chingy left and came back
-then damn it why can't she?
-we gotta think us of all for one
-and one for all hip hop
-united we stand divided we
-fall so why is?
-everybody breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall come on!
-everybody breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall come on!
-everybody breaking, breaking up,
-let's stay together (together )
-united we stand, divided we fall
-let's stay together united we stand, divided we fall
+(dp1
+Vchaching
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVyea
+p5
+I9
+sVwerent
+p6
+I1
+sVbaby
+p7
+I1
+sVmob
+p8
+I2
+sVhell
+p9
+I2
+sVpaul
+p10
+I1
+sVstill
+p11
+I1
+sVone
+p12
+I2
+sVcertainly
+p13
+I1
+sVjay
+p14
+I1
+sVdick
+p15
+I1
+sVcrime
+p16
+I1
+sVtrina
+p17
+I1
+sVlets
+p18
+I18
+sVgoing
+p19
+I1
+sVterror
+p20
+I1
+sVchingy
+p21
+I1
+sVb
+I1
+sVta
+p22
+I2
+sVhip
+p23
+I1
+sVsomebody
+p24
+I2
+sVsong
+p25
+I1
+sVfat
+p26
+I1
+sVcheaper
+p27
+I1
+sVbreak
+p28
+I2
+sVgame
+p29
+I1
+sVquest
+p30
+I1
+sVknow
+p31
+I1
+sVhalf
+p32
+I1
+sVworld
+p33
+I2
+sVhearing
+p34
+I1
+sVsucked
+p35
+I1
+sVdivorced
+p36
+I1
+sVbobby
+p37
+I1
+sVcause
+p38
+I1
+sVcrunchy
+p39
+I1
+sV50
+p40
+I1
+sVcommon
+p41
+I2
+sVheed
+p42
+I1
+sVquick
+p43
+I1
+sVtribes
+p44
+I1
+sVwent
+p45
+I1
+sVshawnna
+p46
+I1
+sVyall
+p47
+I1
+sVright
+p48
+I1
+sVunderstand
+p49
+I1
+sVkfeds
+p50
+I2
+sVcds
+p51
+I1
+sVback
+p52
+I3
+sVjada
+p53
+I1
+sVcash
+p54
+I1
+sVpast
+p55
+I3
+sVsee
+p56
+I1
+sVbg
+p57
+I1
+sVyep
+p58
+I1
+sVgirl
+p59
+I1
+sVmoplays
+p60
+I1
+sVeven
+p61
+I5
+sVwayne
+p62
+I2
+sVwhat
+p63
+I1
+sVsaid
+p64
+I2
+sVjumped
+p65
+I1
+sVsaw
+p66
+I1
+sVwoo
+p67
+I1
+sVhill
+p68
+I1
+sVmannie
+p69
+I1
+sVfolks
+p70
+I1
+sVgot
+p71
+I5
+sVfall
+p72
+I15
+sVnope
+p73
+I1
+sVwouldve
+p74
+I1
+sVass
+p75
+I1
+sVwe
+p76
+I2
+sVangelina
+p77
+I1
+sVjessica
+p78
+I1
+sVguess
+p79
+I2
+sVlet
+p80
+I1
+sVodb
+p81
+I1
+sVlosing
+p82
+I1
+sVquits
+p83
+I1
+sVstrong
+p84
+I1
+sVcome
+p85
+I2
+sVkimora
+p86
+I1
+sVsnoop
+p87
+I1
+sVgetting
+p88
+I2
+sVthou
+p89
+I1
+sVwanita
+p90
+I1
+sV36
+p91
+I1
+sVkeep
+p92
+I1
+sVturk
+p93
+I1
+sVstand
+p94
+I15
+sVbrad
+p95
+I1
+sVwhole
+p96
+I1
+sVthink
+p97
+I1
+sVfirst
+p98
+I3
+sVjim
+p99
+I1
+sVclinton
+p100
+I1
+sVdont
+p101
+I2
+sVon
+p102
+I2
+sVcoming
+p103
+I1
+sVlauryn
+p104
+I1
+sVbecause
+p105
+I2
+sVdone
+p106
+I1
+sVmobig
+p107
+I1
+sVcs
+p108
+I1
+sVkobe
+p109
+I1
+sVmillions
+p110
+I1
+sVeverybody
+p111
+I4
+sVstory
+p112
+I1
+sVher
+p113
+I1
+sVdogg
+p114
+I1
+sVtop
+p115
+I1
+sVcopies
+p116
+I1
+sVlong
+p117
+I1
+sVmccartney
+p118
+I1
+sVcall
+p119
+I1
+sVship
+p120
+I1
+sVdamn
+p121
+I2
+sVhundred
+p122
+I1
+sVjen
+p123
+I1
+sVtell
+p124
+I1
+sVdame
+p125
+I1
+sVfugees
+p126
+I1
+sVlife
+p127
+I1
+sVdiamond
+p128
+I1
+sVstokes
+p129
+I1
+sVdrugs
+p130
+I1
+sVhuh
+p131
+I1
+sVfuck
+p132
+I1
+sVboys
+p133
+I1
+sVhillary
+p134
+I1
+sVwake
+p135
+I1
+sVwhitney
+p136
+I1
+sVbroke
+p137
+I3
+sVeagles
+p138
+I1
+sVboyz
+p139
+I1
+sVcase
+p140
+I2
+sVremy
+p141
+I1
+sVmade
+p142
+I1
+sVwise
+p143
+I1
+sVbritney
+p144
+I1
+sVraz
+p145
+I1
+sVbill
+p146
+I1
+sVup
+p147
+I10
+sVus
+p148
+I1
+sVun
+p149
+I1
+sVmaybe
+p150
+I1
+sVdtp
+p151
+I1
+sVluda
+p152
+I1
+sVgone
+p153
+I1
+sVjuvenile
+p154
+I1
+sVpound
+p155
+I1
+sVgive
+p156
+I1
+sValmost
+p157
+I1
+sVis
+p158
+I1
+sVit
+p159
+I2
+sViverson
+p160
+I1
+sVdash
+p161
+I1
+sVcant
+p162
+I4
+sVselling
+p163
+I1
+sVim
+p164
+I1
+sVgoodie
+p165
+I1
+sVwutang
+p166
+I1
+sVwork
+p167
+I1
+sVrussel
+p168
+I1
+sVeveryday
+p169
+I1
+sVshit
+p170
+I2
+sVshe
+p171
+I1
+sVunited
+p172
+I15
+sVlil
+p173
+I3
+sVpay
+p174
+I1
+sVdivided
+p175
+I15
+sVbreaking
+p176
+I16
+sVoh
+p177
+I1
+sVid
+p178
+I1
+sVnick
+p179
+I1
+sVsquad
+p180
+I1
+sVtake
+p181
+I2
+sVhop
+p182
+I1
+sVeverybodys
+p183
+I4
+sVpain
+p184
+I1
+sVmcnabb
+p185
+I1
+sVknew
+p186
+I1
+sVcame
+p187
+I1
+sVstay
+p188
+I19
+sVwrong
+p189
+I1
+sVshaq
+p190
+I1
+sVkim
+p191
+I1
+sVfresh
+p192
+I1
+sVchris
+p193
+I1
+sVfeelin
+p194
+I1
+sVman
+p195
+I1
+sVjones
+p196
+I1
+sVcamron
+p197
+I1
+sVforever
+p198
+I1
+sVwife
+p199
+I1
+sVdre
+p200
+I2
+sVphilly
+p201
+I1
+sVsometimes
+p202
+I1
+sVtogether
+p203
+I28
+sVthought
+p204
+I1
+sVpepa
+p205
+I1
+sVtha
+p206
+I1
+sVjordan
+p207
+I1
+sVsalt
+p208
+I1
+sVmake
+p209
+I1
+sVtalk
+p210
+I1
+sVleft
+p211
+I2
+s.

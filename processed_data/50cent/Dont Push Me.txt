@@ -1,118 +1,755 @@
-"don't push me" lyrics
-50 cent lyrics
-"don't push me"
-(feat. lloyd banks, eminem)
-i need you to pray for me and
-i need you to care for me and
-i need you to want me to win
-i need to know where i'm heading,'cause i know where i've been
-flows, bones, crushing it's nothing
-i come up with something
-come through your strip, fronting, stunting
-it's something you want, 745 chrome spinning
-haters hate that i'm winnning
-man i've been hot from the beginning
-motherfuckers envy the kid, control your jealousy
-'cause i can't control my temper, i'm fitting to catch a felony
-pistol in hand homie, i'm down to get it popping
-once i squeeze the first shot
-no i aint stopping till my clip is empty
-i'm simply not that nigga you should try your luck with
-fuck with, hollow-tip shells struck with your bones broke
-gun smoking, still locing, what nigga
-lay your ass down paramedics get you up feeling
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
-i cross my bigger nigga and i didn't cry
-to young to understand, the consequences of man
-living a lie, i gotta get that money
-i'll be damned if if i'm bummy
-gotta watch my back around these niggas
-'cause they fronting 20 years
-of watching my mama's tears
-got me heated, heavily weeded
-smoking that bong 'cause i need it
-these niggas don't want me balling, they want me bury
-thrown in the dirt, from shots flurry
-laying with bugs under my shirt
-i got plans to hop up in that hummer
-'cause i'mma stunner, i sit back and wonder
-when them angels gon' call my number
-under, my chest is a heart of a lion
-i ain't lieing , bounty hunters got me flying
-with my iron, high as a giant
-i'm running from nothing, my stomach is touching
-what i'm clutching, to give you more then a concussion
-end of discussion
-my blood is colder, so i'm bolder
-hennesy and soda
-hood on my my shoulder
-looking in the mirror, i see a soldier
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
-these are my ideas
-this is my sweat and tears
-this is shit that i saw with my eyeballs, my ears
-this is me who's gotta be
-what you see on tv
-what you hear on cd
-what appears easy
-man these teenie boppers see me on these magazine covers
-in these beanies and these rags, living fantasies
-fronting like it's all fun and games
-till they shoot 'em up bang
-then you see brains hang and you see we ain't playing
-ain't saying we ain't laying down at night and ain't praying
-i bully my way in this game, man i'm done playing
-man i'm done saying that i'm done playing
-i'mma start laying any of these motherfucking cocksuckers
-there's no way i'mma back down, like a goddamn coward
-i can't, how would i look as man bowing to his knees
-like the mad cow disease, let somebody lash out at me
-and not lash back out at 'em, please
-oh, whoa, yo, ho, hold up, oh no, not me
-not marshall, you wanna see marshall?
-i'll show you marshall, i try to show you art
-put you just pick it apart, so i see i have to start
-showing you fucken old farts a whole other side
-i wanted to not show you, so you know you're not dealing with
-some fucken marshmellow, little soft yellow
-punk pussy, who's heart's jello, 'cause
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
-right now i'm on the edge
-so don't push me
-i aim straight for your head
-so don't push me
-fill your ass up with lead
-so don't push me
-i got something for your ass, keep thinking i'm pussy
+(dp1
+Vsaying
+p2
+I2
+sVshot
+p3
+I1
+sVlyrics
+p4
+I2
+sVheavily
+p5
+I1
+sVmoney
+p6
+I1
+sVyellow
+p7
+I1
+sVyears
+p8
+I1
+sVstunner
+p9
+I1
+sVhollowtip
+p10
+I1
+sVhennesy
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVaint
+p14
+I6
+sVenvy
+p15
+I1
+sVhaters
+p16
+I1
+sV20
+p17
+I1
+sVpray
+p18
+I1
+sVshow
+p19
+I3
+sVhot
+p20
+I1
+sVheated
+p21
+I1
+sVtears
+p22
+I2
+sVlieing
+p23
+I1
+sVpussy
+p24
+I7
+sVstruck
+p25
+I1
+sVta
+p26
+I3
+sVshoot
+p27
+I1
+sVsomebody
+p28
+I1
+sVaround
+p29
+I1
+sVbury
+p30
+I1
+sVget
+p31
+I3
+sVchest
+p32
+I1
+sVshowing
+p33
+I1
+sVwatch
+p34
+I1
+sVbang
+p35
+I1
+sVtouching
+p36
+I1
+sVknow
+p37
+I3
+sVdealing
+p38
+I1
+sVcd
+p39
+I1
+sVfucken
+p40
+I2
+sVbigger
+p41
+I1
+sVapart
+p42
+I1
+sVshoulder
+p43
+I1
+sVlike
+p44
+I3
+sVcry
+p45
+I1
+sVlaying
+p46
+I3
+sVgun
+p47
+I1
+sVtry
+p48
+I2
+sVcocksuckers
+p49
+I1
+sVshots
+p50
+I1
+sVnight
+p51
+I1
+sVdone
+p52
+I3
+sVbong
+p53
+I1
+sVcoward
+p54
+I1
+sVluck
+p55
+I1
+sVem
+p56
+I2
+sVhummer
+p57
+I1
+sVnigga
+p58
+I3
+sVart
+p59
+I1
+sVcolder
+p60
+I1
+sVcrushing
+p61
+I1
+sVback
+p62
+I4
+sVpraying
+p63
+I1
+sV50
+p64
+I1
+sVlion
+p65
+I1
+sVclutching
+p66
+I1
+sVpopping
+p67
+I1
+sVwonder
+p68
+I1
+sVliving
+p69
+I2
+sVgon
+p70
+I1
+sVstunting
+p71
+I1
+sVlead
+p72
+I6
+sVlocing
+p73
+I1
+sVhate
+p74
+I1
+sVdisease
+p75
+I1
+sVplease
+p76
+I1
+sVfantasies
+p77
+I1
+sVlooking
+p78
+I1
+sVfarts
+p79
+I1
+sVgot
+p80
+I12
+sVhold
+p81
+I1
+sVpistol
+p82
+I1
+sVcause
+p83
+I5
+sVside
+p84
+I1
+sVass
+p85
+I13
+sVbe
+p86
+I1
+sVmamas
+p87
+I1
+sVbully
+p88
+I1
+sVdirt
+p89
+I1
+sVgoddamn
+p90
+I1
+sVfelony
+p91
+I1
+sVgiant
+p92
+I1
+sVeminem
+p93
+I1
+sVfun
+p94
+I1
+sVlet
+p95
+I1
+sVtv
+p96
+I1
+sVbowing
+p97
+I1
+sVwanted
+p98
+I1
+sVcome
+p99
+I2
+sVappears
+p100
+I1
+sVcare
+p101
+I1
+sVthrown
+p102
+I1
+sVheadingcause
+p103
+I1
+sVcow
+p104
+I1
+sVoh
+p105
+I2
+sVsoft
+p106
+I1
+sVill
+p107
+I2
+sVput
+p108
+I1
+sVrunning
+p109
+I1
+sVkeep
+p110
+I6
+sVthinking
+p111
+I6
+sVmagazine
+p112
+I1
+sVgames
+p113
+I1
+sVsweat
+p114
+I1
+sVsoda
+p115
+I1
+sVlash
+p116
+I2
+sVheart
+p117
+I1
+sVwhole
+p118
+I1
+sVmotherfuckers
+p119
+I1
+sVfirst
+p120
+I1
+sVcontrol
+p121
+I2
+sVdont
+p122
+I21
+sVpick
+p123
+I1
+sVdamned
+p124
+I1
+sVwin
+p125
+I1
+sVmarshall
+p126
+I3
+sVconcussion
+p127
+I1
+sVbolder
+p128
+I1
+sVnumber
+p129
+I1
+sVyoung
+p130
+I1
+sVbeanies
+p131
+I1
+sVspinning
+p132
+I1
+sVright
+p133
+I6
+sVsimply
+p134
+I1
+sVcent
+p135
+I1
+sVstrip
+p136
+I1
+sVold
+p137
+I1
+sVhood
+p138
+I1
+sVwan
+p139
+I1
+sVlittle
+p140
+I1
+sVwould
+p141
+I1
+sVshells
+p142
+I1
+sVchrome
+p143
+I1
+sVbeginning
+p144
+I1
+sVhunters
+p145
+I1
+sVflying
+p146
+I1
+sVjealousy
+p147
+I1
+sVbeen
+p148
+I1
+sVwhos
+p149
+I2
+sVstart
+p150
+I2
+sVcall
+p151
+I1
+sVway
+p152
+I2
+sVimma
+p153
+I3
+sVkid
+p154
+I1
+sVangels
+p155
+I1
+sVwhoa
+p156
+I1
+sVempty
+p157
+I1
+sVhead
+p158
+I6
+sVstomach
+p159
+I1
+sVeasy
+p160
+I1
+sVbrains
+p161
+I1
+sVmad
+p162
+I1
+sVbounty
+p163
+I1
+sVteenie
+p164
+I1
+sVit
+p165
+I1
+sVyo
+p166
+I1
+sVunderstand
+p167
+I1
+sVho
+p168
+I1
+sVbroke
+p169
+I1
+sVcatch
+p170
+I1
+sVsmoking
+p171
+I2
+sVsqueeze
+p172
+I1
+sVwith
+p173
+I2
+sVme
+p174
+I21
+sVlook
+p175
+I1
+sVniggas
+p176
+I2
+sVstraight
+p177
+I6
+sVmotherfucking
+p178
+I1
+sVsee
+p179
+I7
+sVaim
+p180
+I6
+sVrags
+p181
+I1
+sVgame
+p182
+I1
+sVhomie
+p183
+I1
+sVlloyd
+p184
+I1
+sViron
+p185
+I1
+sVstopping
+p186
+I1
+sVfeeling
+p187
+I1
+sVdidnt
+p188
+I1
+sVtemper
+p189
+I1
+sVtheres
+p190
+I1
+sVand
+p191
+I2
+sVive
+p192
+I2
+sV745
+p193
+I1
+sVclip
+p194
+I1
+sVballing
+p195
+I1
+sVpunk
+p196
+I1
+sVblood
+p197
+I1
+sVmirror
+p198
+I1
+sVfuck
+p199
+I1
+sVcovers
+p200
+I1
+sVbummy
+p201
+I1
+sVhigh
+p202
+I1
+sVneed
+p203
+I5
+sVcant
+p204
+I2
+sVfronting
+p205
+I3
+sVim
+p206
+I24
+sVsomething
+p207
+I8
+sVwant
+p208
+I4
+sVbones
+p209
+I2
+sVsaw
+p210
+I1
+sVshit
+p211
+I1
+sVfill
+p212
+I6
+sVlie
+p213
+I1
+sVend
+p214
+I1
+sVshirt
+p215
+I1
+sVsit
+p216
+I1
+sVideas
+p217
+I1
+sVparamedics
+p218
+I1
+sVwinnning
+p219
+I1
+sVwatching
+p220
+I1
+sVcross
+p221
+I1
+sVweeded
+p222
+I1
+sVtill
+p223
+I2
+sVfitting
+p224
+I1
+sVhop
+p225
+I1
+sVmarshmellow
+p226
+I1
+sVeyeballs
+p227
+I1
+sVboppers
+p228
+I1
+sVplans
+p229
+I1
+sVknees
+p230
+I1
+sVears
+p231
+I1
+sVsoldier
+p232
+I1
+sVhang
+p233
+I1
+sVflows
+p234
+I1
+sVhand
+p235
+I1
+sVbanks
+p236
+I1
+sVflurry
+p237
+I1
+sVlay
+p238
+I1
+sVhearts
+p239
+I1
+sVnothing
+p240
+I2
+sVman
+p241
+I6
+sVjello
+p242
+I1
+sVgive
+p243
+I1
+sVconsequences
+p244
+I1
+sVyoure
+p245
+I1
+sVbugs
+p246
+I1
+sVplaying
+p247
+I3
+sVedge
+p248
+I6
+sVna
+p249
+I1
+sVpush
+p250
+I20
+sVhear
+p251
+I1
+sVdiscussion
+p252
+I1
+s.

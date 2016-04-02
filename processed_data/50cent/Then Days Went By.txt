@@ -1,69 +1,605 @@
-"then days went by" lyrics
-50 cent lyrics
-"then days went by"
-this is how monster's function..
-leave me aloneee..
-i ain' fuckin' with nobody..
-keep fuckin' with me you gon' turn me back to boo boo
-have me casin' out your crib, tryna pop your fuckin' noodles
-she was twenty i was twelve, man my nana said she raped me
-i jus' smiled from ear to ear, sayin' take me baby take me
-since high school, nigga i ain't got no friends
-got two three-eighty's like the ying yang twinz, ahh..
-that's spot clickin' till the d's run in
-then it's bail money and lawyer fees you got to have ends
-freshman year i had that cbr hurricane
-in a ill herringbone i got 'um swingin' heroine
-i shoot a nigga in a heartbeat i ain't no chump
-then you can run forrest run retard when i dump
-they take kindness for weakness, niggaz don't respect that
-so me i'm where that reuger, that pump and that tech at
-some look at me i'm on now, i thought we was rich then
-shit man, but you had like, twenty bricks in richmond
-we was in cocaine heaven, i was fishscale dreamin'
-we jus' got in the town, we was strapped up schemin'
-first country caught a body, then country caught a body then
-i popped a couple niggaz, then country shot everybody
-it's cold blooded, it's real shit you got to love it
-tre-eight snub it, and don't think nuttin' of it
-it's the way of the wolves, it's how they train us to move
-get it poppin' when we shoppin' niggaz hold down the two's..
-i seen niggaz gettin' rich..
-then days went by, then days went by, then days went by..
-i was tired of havin' shit..
-then days went by, then days went by, then days went by..
-i seen niggaz gettin' hit..
-then days went by, then days went by, then days went by..
-we was slingin' that shit..
-then days went by, then days went by, then days went by..
-here i am..
-yeah..
-i was ?? since we was little niggaz son since we were seven
-armed robbery, first degree, my man did seven
-niggaz popped his whip up, hit his can we were seven
-he a lucky muhfucker i bet he make it to heaven
-my grandpa drunk, my uncle rock drunk
-my uncle champ pump crack, smoked my fuckin' stash up
-i had two-hundred and fifty grams stashed on the porch
-i mean i'm what you call smoke man, i'm what you call snort
-first the vcr went, then the tv went
-he stole outta mommy purse, she thought it was me kid
-i ain' ask her for no money son cause i was out hustlin'
-she was lookin' at me sideways like i'm a thief or somethin'
-that hurt me, c'mon son that wouldn't hurt you
-i pistol whip that nigga till his face was purple
-i need anger management, see i hold on to a grudge
-the same way i hold on to that nickel-plate snub..
-the lord don't have imperfections baby..
-so i think i'm perfect the way he made me..
-some say i'm cool, some say i'm crazy..
-some say i ain't shit, some say i'm amazin'..
-i seen niggaz gettin' rich..
-then days went by, then days went by, then days went by..
-i was tired of havin' shit..
-then days went by, then days went by, then days went by..
-i seen niggaz gettin' hit..
-then days went by, then days went by, then days went by..
-we was slingin' that shit..
-then days went by, then days went by, then days went by..
-here i am..
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVmove
+p5
+I1
+sVtreeight
+p6
+I1
+sVfifty
+p7
+I1
+sVfishscale
+p8
+I1
+sVcold
+p9
+I1
+sVbail
+p10
+I1
+sVaint
+p11
+I3
+sVhold
+p12
+I3
+sVsayin
+p13
+I1
+sVtv
+p14
+I1
+sVblooded
+p15
+I1
+sVpoppin
+p16
+I1
+sVvcr
+p17
+I1
+sVhavin
+p18
+I2
+sVrich
+p19
+I3
+sVcrack
+p20
+I1
+sVlord
+p21
+I1
+sVmommy
+p22
+I1
+sVreal
+p23
+I1
+sVme
+p24
+I3
+sVhit
+p25
+I3
+sVget
+p26
+I1
+sVweakness
+p27
+I1
+sVcouple
+p28
+I1
+sVlucky
+p29
+I1
+sVimperfections
+p30
+I1
+sVcasin
+p31
+I1
+sVperfect
+p32
+I1
+sVcrib
+p33
+I1
+sVthreeeightys
+p34
+I1
+sVkindness
+p35
+I1
+sVds
+p36
+I1
+sVcool
+p37
+I1
+sVschool
+p38
+I1
+sVheaven
+p39
+I2
+sVlike
+p40
+I3
+sVgettin
+p41
+I4
+sV50
+p42
+I1
+sVtwinz
+p43
+I1
+sVleave
+p44
+I1
+sVsnort
+p45
+I1
+sVrobbery
+p46
+I1
+sVrock
+p47
+I1
+sVchamp
+p48
+I1
+sVwent
+p49
+I28
+sVmean
+p50
+I1
+sVtwelve
+p51
+I1
+sVnigga
+p52
+I3
+sVnuttin
+p53
+I1
+sVdump
+p54
+I1
+sVtired
+p55
+I2
+sVback
+p56
+I1
+sVnickelplate
+p57
+I1
+sVsee
+p58
+I1
+sVus
+p59
+I1
+sVlawyer
+p60
+I1
+sVyear
+p61
+I1
+sVnoodles
+p62
+I1
+sVwhip
+p63
+I2
+sVgon
+p64
+I1
+sVnana
+p65
+I1
+sVforrest
+p66
+I1
+sVsince
+p67
+I3
+sVhurricane
+p68
+I1
+sVrichmond
+p69
+I1
+sVpump
+p70
+I2
+sVgot
+p71
+I6
+sVpistol
+p72
+I1
+sVcause
+p73
+I1
+sVmonsters
+p74
+I1
+sVbody
+p75
+I2
+sVdreamin
+p76
+I1
+sVends
+p77
+I1
+sVrun
+p78
+I3
+sVdegree
+p79
+I1
+sVsideways
+p80
+I1
+sVherringbone
+p81
+I1
+sVreuger
+p82
+I1
+sVask
+p83
+I1
+sVpurse
+p84
+I1
+sVby
+p85
+I9
+sVwouldnt
+p86
+I1
+sVcountry
+p87
+I3
+sVill
+p88
+I1
+sVtwohundred
+p89
+I1
+sVdays
+p90
+I26
+sVkeep
+p91
+I1
+sVturn
+p92
+I1
+sVsmoke
+p93
+I1
+sVboo
+p94
+I2
+sVheartbeat
+p95
+I1
+sVthink
+p96
+I2
+sVfuckin
+p97
+I4
+sVthats
+p98
+I1
+sVlove
+p99
+I1
+sVdont
+p100
+I3
+sVdrunk
+p101
+I2
+sVbricks
+p102
+I1
+sVahh
+p103
+I1
+sVcrazy
+p104
+I1
+sVpop
+p105
+I1
+sVson
+p106
+I3
+sVchump
+p107
+I1
+sVswingin
+p108
+I1
+sVsnub
+p109
+I2
+sVfees
+p110
+I1
+sVrespect
+p111
+I1
+sVying
+p112
+I1
+sVarmed
+p113
+I1
+sVeverybody
+p114
+I1
+sVstrapped
+p115
+I1
+sVlittle
+p116
+I1
+sVmanagement
+p117
+I1
+sVtwenty
+p118
+I2
+sVcaught
+p119
+I2
+sVtwo
+p120
+I1
+sVcent
+p121
+I1
+sVraped
+p122
+I1
+sVcall
+p123
+I2
+sVway
+p124
+I3
+sVcocaine
+p125
+I1
+sVkid
+p126
+I1
+sVamazin
+p127
+I1
+sVfunction
+p128
+I1
+sVtryna
+p129
+I1
+sVpopped
+p130
+I2
+sVhustlin
+p131
+I1
+sVthat
+p132
+I1
+sVslingin
+p133
+I2
+sVclickin
+p134
+I1
+sVnobody
+p135
+I1
+sVgrudge
+p136
+I1
+sVyeah
+p137
+I1
+sVjus
+p138
+I2
+sVtrain
+p139
+I1
+sVgrandpa
+p140
+I1
+sVbaby
+p141
+I2
+sVear
+p142
+I2
+sVshoot
+p143
+I1
+sVcbr
+p144
+I1
+sVmade
+p145
+I1
+sVlook
+p146
+I1
+sVup
+p147
+I1
+sVniggaz
+p148
+I9
+sVum
+p149
+I1
+sVain
+p150
+I2
+sVtwos
+p151
+I1
+sVbet
+p152
+I1
+sVthief
+p153
+I1
+sVseven
+p154
+I3
+sVcmon
+p155
+I1
+sVoutta
+p156
+I1
+sVthen
+p157
+I2
+sVam
+p158
+I2
+sVit
+p159
+I2
+sVhigh
+p160
+I1
+sVanger
+p161
+I1
+sVsay
+p162
+I4
+sVim
+p163
+I9
+sVat
+p164
+I1
+sVin
+p165
+I1
+sVneed
+p166
+I1
+sVseen
+p167
+I4
+sVstole
+p168
+I1
+sVshit
+p169
+I7
+sVmake
+p170
+I1
+sVporch
+p171
+I1
+sVtill
+p172
+I2
+sVtake
+p173
+I3
+sVtech
+p174
+I1
+sVschemin
+p175
+I1
+sVlookin
+p176
+I1
+sVspot
+p177
+I1
+sVstashed
+p178
+I1
+sVtown
+p179
+I1
+sVsaid
+p180
+I1
+sVsmiled
+p181
+I1
+sVmuhfucker
+p182
+I1
+sVfreshman
+p183
+I1
+sVhurt
+p184
+I2
+sVfriends
+p185
+I1
+sVheroine
+p186
+I1
+sVman
+p187
+I4
+sVsomethin
+p188
+I1
+sVretard
+p189
+I1
+sVsmoked
+p190
+I1
+sVgrams
+p191
+I1
+sVstash
+p192
+I1
+sVface
+p193
+I1
+sVthought
+p194
+I2
+sVpurple
+p195
+I1
+sVyang
+p196
+I1
+sValoneee
+p197
+I1
+sVshoppin
+p198
+I1
+sVyou
+p199
+I1
+sVuncle
+p200
+I2
+sVwolves
+p201
+I1
+sVfirst
+p202
+I3
+s.

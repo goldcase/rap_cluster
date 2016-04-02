@@ -1,85 +1,479 @@
-"first date" lyrics
-50 cent lyrics
-"first date"
-(feat. too short)
-just one night, two night
-it could be three of us
-yeh yeh yeh
-girl, we could get it ooon
-where ya’ girlfriend
-girl, we can have a ball
-bring ya’ girlfriend
-life’s too short to not fuck on the first date
-no one knows if we’re promised tomorrow
-but if we make love into the next day
-we’ll have the rest of our time to celebrate
-four in the morning girl
-now i don’t wanna talk, we’ve been talkin for hours
-now you know i wanna’ fuck
-look i don’t understand what it
-is you don’t understand
-my watch a hundred grand
-my chain a hundred grand
-bitch, i’m a wanted man
-i say i run new york
-cuz i do what the fuck i wanna do
-they know wussup
-they say my screws are lose
-i say who cares, you know i’m rich
-look i don’t have time to blow wit’ a bitch shootin the shit
-now maybe you can loosen up and let me go to work
-so i can whisper in your ear while pullin’ down your skirt
-when i get the strokin’ girl you don’t know what to say
-quicky come quick, girl, i’m gone right away, yeh, you nasty, girl, you nasty
-and i’m into that, so get at me!
-i don’t want no good, good, good, good, girl
-me, i want a nasty girl
-come creep wit’ me
-be a freak for me
-life’s too short to not fuck on the first date
-no one knows if we’re promised tomorrow
-but if we make love into the next day
-we’ll have the rest of our time to celebrate
-i said beetch
-i wanna fuck you in the worst way
-hell yeah, i wanna fuck you on the first date
-if i don’t i say, fuck you on thursday
-cuz then i won’t want you
-watch how fast i dump you
-but right now i’m infatuated
-you get to hang wit’ me
-girl, you graduated
-i take you out for drinks and get you tipsy
-then i pull my dick out and i say kiss me
-you’re ’bout to laugh ya little panties off
-you only get one date
-you better grab these balls
-they wanna’ ride in fancy cars
-that’s what bitches do
-they like to rub it then suck it and lick it too
-she’s a nasty little trap ho slut
-but i like that shit, so let’s fuck
-beeeeitch
-i don’t want no good, good, good, good, girl
-me, i want a nasty girl
-come creep wit’ me
-be a freak for me
-life’s too short to not fuck on the first date
-no one knows if we’re promised tomorrow
-but if we make love into the next day
-we’ll have the rest of our time to celebrate
-ohhh, ehhhh
-it sounds crazy
-but tomorrow’s not promised
-i mean, i mean i wanna’ do it today
-i want it now
-i don’t wanna’ wait
-wait for what?
-my time’s runnin’ out
-your time’s runnin’ out
-come ‘er girl
-wanna’ fuck you beeeitch
-i wanna fuck you beeitch
-you only got
-one date
-ain’t no tomorrows
+(dp1
+Vyeh
+p2
+I4
+sVtomorrows
+p3
+I1
+sVlyrics
+p4
+I2
+sVrest
+p5
+I3
+sVfour
+p6
+I1
+sVbring
+p7
+I1
+sVgo
+p8
+I1
+sVhell
+p9
+I1
+sVfeat
+p10
+I1
+sVblow
+p11
+I1
+sVchain
+p12
+I1
+sVwon\u2019t
+p13
+I1
+sVdick
+p14
+I1
+sVcuz
+p15
+I2
+sVthursday
+p16
+I1
+sVbetter
+p17
+I1
+sVrich
+p18
+I1
+sVohhh
+p19
+I1
+sVdo
+p20
+I2
+sVgood
+p21
+I8
+sVget
+p22
+I6
+sVi\u2019m
+p23
+I5
+sVwatch
+p24
+I2
+sVballs
+p25
+I1
+sVworst
+p26
+I1
+sVknow
+p27
+I4
+sVkiss
+p28
+I1
+sVgot
+p29
+I1
+sVnasty
+p30
+I5
+sVnow
+p31
+I1
+sVday
+p32
+I3
+sVcelebrate
+p33
+I3
+sVbeeeeitch
+p34
+I1
+sVlet\u2019s
+p35
+I1
+sVlike
+p36
+I2
+sV\u2019bout
+p37
+I1
+sV50
+p38
+I1
+sVmorning
+p39
+I1
+sVooon
+p40
+I1
+sVtrap
+p41
+I1
+sVlose
+p42
+I1
+sVquick
+p43
+I1
+sVgrab
+p44
+I1
+sVout
+p45
+I2
+sVain\u2019t
+p46
+I1
+sVmean
+p47
+I2
+sVright
+p48
+I2
+sVdump
+p49
+I1
+sVyeah
+p50
+I1
+sVyou\u2019re
+p51
+I1
+sVwe\u2019ve
+p52
+I1
+sVgirl
+p53
+I12
+sVcreep
+p54
+I2
+sVdrinks
+p55
+I1
+sVwhat
+p56
+I1
+sVsaid
+p57
+I1
+sVaway
+p58
+I1
+sVrub
+p59
+I1
+sVnew
+p60
+I1
+sVbeeitch
+p61
+I1
+sVtomorrow\u2019s
+p62
+I1
+sVrun
+p63
+I1
+sVwit\u2019
+p64
+I4
+sVquicky
+p65
+I1
+sVcars
+p66
+I1
+sVnight
+p67
+I2
+sVslut
+p68
+I1
+sVhours
+p69
+I1
+sVlet
+p70
+I1
+sVyork
+p71
+I1
+sVgraduated
+p72
+I1
+sVwanted
+p73
+I1
+sVcome
+p74
+I4
+sVwait
+p75
+I2
+sVcould
+p76
+I2
+sVcares
+p77
+I1
+sVbeetch
+p78
+I1
+sVlife\u2019s
+p79
+I3
+sVshootin
+p80
+I1
+sVfirst
+p81
+I6
+sVlove
+p82
+I3
+sVcrazy
+p83
+I1
+sVfancy
+p84
+I1
+sVone
+p85
+I6
+sVbitch
+p86
+I2
+sVlaugh
+p87
+I1
+sVsounds
+p88
+I1
+sVtomorrow
+p89
+I3
+sVwan
+p90
+I5
+sVlittle
+p91
+I2
+sVfast
+p92
+I1
+sVwussup
+p93
+I1
+sVtwo
+p94
+I1
+sVcent
+p95
+I1
+sVnext
+p96
+I3
+sVwanna\u2019
+p97
+I5
+sVdon\u2019t
+p98
+I9
+sVway
+p99
+I1
+sVhundred
+p100
+I2
+sVtoday
+p101
+I1
+sVtoo
+p102
+I1
+sVya\u2019
+p103
+I2
+sVknows
+p104
+I3
+sVbitches
+p105
+I1
+sVit
+p106
+I1
+sVunderstand
+p107
+I2
+sVho
+p108
+I1
+sVear
+p109
+I1
+sVwe\u2019ll
+p110
+I3
+sVme
+p111
+I7
+sVpull
+p112
+I1
+sVstrokin\u2019
+p113
+I1
+sVlook
+p114
+I2
+sVride
+p115
+I1
+sVwork
+p116
+I1
+sVus
+p117
+I1
+sVthree
+p118
+I1
+sVgone
+p119
+I1
+sVloosen
+p120
+I1
+sVlick
+p121
+I1
+sVfreak
+p122
+I2
+sVwhisper
+p123
+I1
+sVwe\u2019re
+p124
+I3
+sVfuck
+p125
+I11
+sVsay
+p126
+I6
+sVpromised
+p127
+I4
+sVwant
+p128
+I6
+sVgirlfriend
+p129
+I2
+sVscrews
+p130
+I1
+sVskirt
+p131
+I1
+sVshit
+p132
+I2
+sVinfatuated
+p133
+I1
+sVna
+p134
+I5
+sVmake
+p135
+I3
+sVrunnin\u2019
+p136
+I2
+sVya
+p137
+I1
+sVtake
+p138
+I1
+sV\u2018er
+p139
+I1
+sVgrand
+p140
+I2
+sVyou
+p141
+I2
+sVpanties
+p142
+I1
+sVtalkin
+p143
+I1
+sVball
+p144
+I1
+sVthat\u2019s
+p145
+I1
+sVtipsy
+p146
+I1
+sVshe\u2019s
+p147
+I1
+sVbeeeitch
+p148
+I1
+sVhang
+p149
+I1
+sVdate
+p150
+I8
+sVsuck
+p151
+I1
+sVman
+p152
+I1
+sVshort
+p153
+I4
+sVoff
+p154
+I1
+sVmaybe
+p155
+I1
+sVpullin\u2019
+p156
+I1
+sVehhhh
+p157
+I1
+sVtime\u2019s
+p158
+I2
+sVtime
+p159
+I4
+sVtalk
+p160
+I1
+s.

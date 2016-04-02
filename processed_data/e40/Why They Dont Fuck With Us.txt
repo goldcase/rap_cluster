@@ -1,59 +1,530 @@
-"why they don't fuck with us" lyrics
-e-40 lyrics
-"why they don't fuck with us"
-y'all ready for this
-are you ready!!!!!!
-ho, uh, uh
-why they don't fuck with us
-don't fuck with us, don't fuck with us
-don't fuck with us
-i use colorful rhymes, you probably heard
-from somebody else's lit, but really it's my spit
-i came from the streets, i'm not from the 'burbs
-although i stay in the burbs, i come from the streets
-money hungry hustlers trying to make ends meet
-stingy young brothers when we walk we squeak
-have street, have money, have heart
-i ain't trying to but i'm trying to go off the park
-i'm on deck, sick wid it records i rep
-i'm a vet, but i spit  like a youngster from the set
-i ain't tripping, i knew it was political
-they left us out the top for us, me and mystikal
-i rap fast but you could quote my rhymes
-the greatest game spitter of all times
-the most underrated rapper in the game
-but everybody wanna use my slang
-i don't know what they was thinking
-when they thought what they was thinking
-but they shit enough to fuck it
-i've been a hustler since birth
-so when they haul me off and
-put me up in that hearse remember this verse
-i did a song with fred durst, as far as the independent
-underground rap scene, i was the first
-to get a big deal, couple mill, and some mo'
-see times have changed ever since then back in '94
-playa been eating off that bill, for a while
-i always did me i never changed my style
-i gave it to you raw and uncut
-75 percent of the words, i made it up
-you ask me why i speak the real the way i feel
-how come e-40 so groupie and y'all so game goofy
-started to the back that i'm a force
-they never put me on the cover of the source
-next tape, they can't trace the calls
-i change numbers, like a playa changes draws
-i'm having money, money long stretch like a ?burshie?
-when he use to come around ask the easter bunny
-(tell me do you know e-40)
-bet you the players say that's the homie
-you liable to find me on the ave. on the main drag
-or on the corner sipping yac up out a brown paper bag
-i don't need no iron on my ready crease
-enough game to sell sand to a beach
-enough game to sell a hooker to a priest
-enough game to sell rookie rocket scottie to a street
-i rap fast but you could quote my rhymes
-the greatest game spitter of all times
-the most underrated rapper in the game
-but everybody wanna use my slang
+(dp1
+Vwords
+p2
+I1
+sVlyrics
+p3
+I2
+sVdeck
+p4
+I1
+sVmoney
+p5
+I4
+sVgroupie
+p6
+I1
+sVgo
+p7
+I1
+sVcorner
+p8
+I1
+sVmill
+p9
+I1
+sVfind
+p10
+I1
+sVhustler
+p11
+I1
+sVaint
+p12
+I2
+sVvet
+p13
+I1
+sVrocket
+p14
+I1
+sVthinking
+p15
+I2
+sVyoung
+p16
+I1
+sVsource
+p17
+I1
+sVverse
+p18
+I1
+sVtape
+p19
+I1
+sVyoungster
+p20
+I1
+sVburshie
+p21
+I1
+sVeaster
+p22
+I1
+sVgave
+p23
+I1
+sVreal
+p24
+I1
+sVbrown
+p25
+I1
+sVsomebody
+p26
+I1
+sVaround
+p27
+I1
+sVcolorful
+p28
+I1
+sVsong
+p29
+I1
+sVfar
+p30
+I1
+sVbig
+p31
+I1
+sVcouple
+p32
+I1
+sVsipping
+p33
+I1
+sVrecords
+p34
+I1
+sVgame
+p35
+I8
+sVknow
+p36
+I2
+sVbirth
+p37
+I1
+sVdurst
+p38
+I1
+sVsay
+p39
+I1
+sVlike
+p40
+I3
+sValways
+p41
+I1
+sVrapper
+p42
+I2
+sVbag
+p43
+I1
+sVsand
+p44
+I1
+sVgoofy
+p45
+I1
+sVliable
+p46
+I1
+sVyall
+p47
+I2
+sVset
+p48
+I1
+sVforce
+p49
+I1
+sVdeal
+p50
+I1
+sVstreets
+p51
+I2
+sVback
+p52
+I2
+sVsee
+p53
+I1
+sVstreet
+p54
+I2
+sVhaul
+p55
+I1
+sVus
+p56
+I8
+sVreally
+p57
+I1
+sVdraws
+p58
+I1
+sVrep
+p59
+I1
+sVsince
+p60
+I2
+sVscottie
+p61
+I1
+sVenough
+p62
+I4
+sVpriest
+p63
+I1
+sVplaya
+p64
+I2
+sVprobably
+p65
+I1
+sVhooker
+p66
+I1
+sVever
+p67
+I1
+sVends
+p68
+I1
+sVeating
+p69
+I1
+sVnever
+p70
+I2
+sVstyle
+p71
+I1
+sVfred
+p72
+I1
+sVpaper
+p73
+I1
+sValthough
+p74
+I1
+sVelses
+p75
+I1
+sVput
+p76
+I2
+sVcome
+p77
+I3
+sVtripping
+p78
+I1
+sVchange
+p79
+I1
+sVcould
+p80
+I2
+sVchanged
+p81
+I2
+sVdrag
+p82
+I1
+sVtimes
+p83
+I3
+sVhustlers
+p84
+I1
+sVplayers
+p85
+I1
+sVchanges
+p86
+I1
+sVhearse
+p87
+I1
+sVfirst
+p88
+I1
+sVwid
+p89
+I1
+sVdont
+p90
+I8
+sVive
+p91
+I1
+sVfeel
+p92
+I1
+sVscene
+p93
+I1
+sVwalk
+p94
+I1
+sVask
+p95
+I2
+sVlong
+p96
+I1
+sVstingy
+p97
+I1
+sVspeak
+p98
+I1
+sVeverybody
+p99
+I2
+sVwan
+p100
+I2
+sVuse
+p101
+I4
+sVstretch
+p102
+I1
+sVtop
+p103
+I1
+sVpolitical
+p104
+I1
+sVfast
+p105
+I2
+sVnext
+p106
+I1
+sVway
+p107
+I1
+sVtell
+p108
+I1
+sVyac
+p109
+I1
+sVmain
+p110
+I1
+sVspit
+p111
+I2
+sVstarted
+p112
+I1
+sVpark
+p113
+I1
+sVit
+p114
+I1
+sVho
+p115
+I1
+sVtrying
+p116
+I3
+sV94
+p117
+I1
+sVuncut
+p118
+I1
+sVe40
+p119
+I3
+sVmade
+p120
+I1
+sVraw
+p121
+I1
+sVthis
+p122
+I1
+sVmo
+p123
+I1
+sVbill
+p124
+I1
+sVspitter
+p125
+I2
+sVup
+p126
+I1
+sVrhymes
+p127
+I3
+sVwhile
+p128
+I1
+sVuh
+p129
+I2
+sViron
+p130
+I1
+sVmeet
+p131
+I1
+sVbet
+p132
+I1
+sVburbs
+p133
+I2
+sVheart
+p134
+I1
+sVfuck
+p135
+I7
+sVheard
+p136
+I1
+sVcant
+p137
+I1
+sVhomie
+p138
+I1
+sVim
+p139
+I6
+sVnumbers
+p140
+I1
+sVrap
+p141
+I3
+sVready
+p142
+I3
+sVave
+p143
+I1
+sVshit
+p144
+I1
+sVsell
+p145
+I3
+sVna
+p146
+I2
+sVmake
+p147
+I1
+sVget
+p148
+I1
+sVpercent
+p149
+I1
+sVlit
+p150
+I1
+sVneed
+p151
+I1
+sVsick
+p152
+I1
+sVrookie
+p153
+I1
+sVunderground
+p154
+I1
+sVbeach
+p155
+I1
+sVbunny
+p156
+I1
+sVindependent
+p157
+I1
+sVbrothers
+p158
+I1
+sVtrace
+p159
+I1
+sVquote
+p160
+I2
+sVknew
+p161
+I1
+sVstay
+p162
+I1
+sV75
+p163
+I1
+sVsqueak
+p164
+I1
+sVslang
+p165
+I2
+sVremember
+p166
+I1
+sVcalls
+p167
+I1
+sVcover
+p168
+I1
+sVhungry
+p169
+I1
+sVcrease
+p170
+I1
+sVthought
+p171
+I1
+sVgreatest
+p172
+I2
+sVmystikal
+p173
+I1
+sVunderrated
+p174
+I2
+sVthats
+p175
+I1
+sVcame
+p176
+I1
+sVleft
+p177
+I1
+s.

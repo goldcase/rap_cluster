@@ -1,95 +1,854 @@
-"one day at a time" lyrics
-2pac lyrics
-"one day at a time"
-(feat. eminem, outlawz)
-sometimes its hard to wake up in the morning
-mind full of demons, i don't wanna hear them anymore
-got me heartbroken,fine, so many babies screaming
-cause they seeing destruction before they a see human being
-so they start smoking weed, we'll never get our day
-until we learn to pray, keep our families in shape
-cause they all broke. and why do ghetto birds die
-before we learn to fly, some bodies else's child caught in guns
-smoking weed, can all make a change
-so i'm told, but i haven't seen the change unfold,
-i keep hoping please, if you prefer to breathe,
-communities in need of people that will lead
-keep your eyes open, i can only say i'll try
-until the day i die, i promise to be wise
-with my heart open, greed, brings only misery
-a way to tragedy, so i stay sucker free
-only a few chosen, rise (rise)
-my ghetto queen, rise (rise)
-don't be afraid to try (try)
-too many of us died to the door to open wide
-my brother be wise, stay focused on the prize
-though everybody dies
-we can...
-only learn to take, our anger and our hate
-control our mental state, settle down, and just set it straight
-maybe we can learn to take a second to pump the brakes
-for we said it, regret it later, and let it escalate
-cause by then its too just late, theres so much we can take
-theres only so much someone can swallow and tolerate
-to the point that he just breaks, snaps and thats all it takes
-you'd think that we was learning from other rappers mistakes
-but we aint
-its plain to go against, with every artists, comes the image he portrays
-and a picture that he paints
-but in the midst of all this anger and this angst
-never once did you hear me say i'm a gangster and i aint hear no complaints
-but i know, that i will always continue to grow,
-as long as i lead and never follow no one else's shadow
-there will never be another me
-and that i can guarantee
-thats why the fuck i remain sucker free to this day
-the game will never be the same
-no matter how much fame or success they attain
-there will never be another me
-and no matter what they do
-there will never be another you
-you can search but you'll never find
-you can try to rewind time
-but in your hearts and your minds
-we will never die
-we are forever alive
-and we continue growing....
-one day at a time
-don't be caught in the publicity and caught in the hype
-rappers are regular people minus money and light
-searching for fortune and fame, and super stardom
-all the jewelry, all the cars, whose crew is the hardest.
-now the hip-hop police, the villains is watching
-and kids think beef is the only option
-outlaws born filthy, guilty as charged
-my memories of khaddafi, but makaveli lives on
-you think the industry is fun
-and no pity with guns
-and when your money is up
-thats when your enemies come
-so if he died and came back
-would he try to save rap?
-we needing a change, the drama remains
-i spent my whole life, fighting myself
-that i cant win so i'm inviting some help
-and every now and then i take rights from left
-im still just like a kid, looking for stripes on my belt
-and that there is a fight in itself
-so i just pray and hope god
-take a like to myself
-no matter how much i try (stay alive)
-i'm gunna die mad, still standing there in love with my pride
-heard frivolous beats, we past that
-i'm trying to keep some income coming in
-and collect on my ass cap
-the rappers in the game aint changed
-and i finally realized that we not in the same game
-the hating will never end, so i guess i'll deal wit it
-them 4-5 with cop killers, just some steel wit it
-the streets is military, you gotta be a soldier
-gotta stay leery and keep your eyes on the rollers
-as they do what they gotta do to shackle and hold us
-so we gotta do what we gotta do to keep rolling
-one way at a time, keep the faith in your mind
-and we continue growin...
-...one day at a time. damn!
+(dp1
+V45
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVbeing
+p5
+I1
+sVmoney
+p6
+I2
+sVgunna
+p7
+I1
+sVqueen
+p8
+I1
+sVshape
+p9
+I1
+sVmistakes
+p10
+I1
+sVit
+p11
+I2
+sVhuman
+p12
+I1
+sVhating
+p13
+I1
+sVgo
+p14
+I1
+sVfollow
+p15
+I1
+sVstill
+p16
+I2
+sVfeat
+p17
+I1
+sVbirds
+p18
+I1
+sVaint
+p19
+I3
+sVwhose
+p20
+I1
+sVpaints
+p21
+I1
+sVpolice
+p22
+I1
+sVstardom
+p23
+I1
+sVchosen
+p24
+I1
+sVpump
+p25
+I1
+sVcrew
+p26
+I1
+sVlate
+p27
+I1
+sVindustry
+p28
+I1
+sVfinally
+p29
+I1
+sVfaith
+p30
+I1
+sVsave
+p31
+I1
+sVhope
+p32
+I1
+sVta
+p33
+I5
+sVme
+p34
+I2
+sVsomeone
+p35
+I1
+sVpublicity
+p36
+I1
+sVget
+p37
+I1
+sVsucker
+p38
+I2
+sVbreaks
+p39
+I1
+sVrise
+p40
+I4
+sVstripes
+p41
+I1
+sVheard
+p42
+I1
+sVgame
+p43
+I3
+sVkillers
+p44
+I1
+sVevery
+p45
+I2
+sVknow
+p46
+I1
+sVcommunities
+p47
+I1
+sVshadow
+p48
+I1
+sVscreaming
+p49
+I1
+sVday
+p50
+I7
+sVghetto
+p51
+I2
+sVfortune
+p52
+I1
+sVprize
+p53
+I1
+sVsuccess
+p54
+I1
+sVdie
+p55
+I4
+sVrights
+p56
+I1
+sVbrother
+p57
+I1
+sVmorning
+p58
+I1
+sVtry
+p59
+I6
+sVcollect
+p60
+I1
+sVsettle
+p61
+I1
+sVfrivolous
+p62
+I1
+sValways
+p63
+I1
+sVhype
+p64
+I1
+sVshackle
+p65
+I1
+sVhavent
+p66
+I1
+sVset
+p67
+I1
+sVmental
+p68
+I1
+sVbrakes
+p69
+I1
+sVpeople
+p70
+I2
+sVdoor
+p71
+I1
+sVhard
+p72
+I1
+sVsearching
+p73
+I1
+sValive
+p74
+I2
+sVup
+p75
+I1
+sVpast
+p76
+I1
+sVgangster
+p77
+I1
+sVsee
+p78
+I1
+sVchanged
+p79
+I1
+sVleery
+p80
+I1
+sVenemies
+p81
+I1
+sVsaid
+p82
+I1
+sVjewelry
+p83
+I1
+sVlead
+p84
+I2
+sVhate
+p85
+I1
+sVplease
+p86
+I1
+sVhardest
+p87
+I1
+sVdemons
+p88
+I1
+sVfind
+p89
+I1
+sVlooking
+p90
+I1
+sVmemories
+p91
+I1
+sVstate
+p92
+I1
+sVcontinue
+p93
+I3
+sVdeal
+p94
+I1
+sVgot
+p95
+I6
+sVhold
+p96
+I1
+sVbelt
+p97
+I1
+sVcause
+p98
+I3
+sVguns
+p99
+I2
+sVtold
+p100
+I1
+sVass
+p101
+I1
+sVkhaddafi
+p102
+I1
+sVfull
+p103
+I1
+sVgod
+p104
+I1
+sVmilitary
+p105
+I1
+sVcars
+p106
+I1
+sVnever
+p107
+I10
+sVsteel
+p108
+I1
+sVfree
+p109
+I2
+sVeminem
+p110
+I1
+sVfun
+p111
+I1
+sVfocused
+p112
+I1
+sVportrays
+p113
+I1
+sVunfold
+p114
+I1
+sVelses
+p115
+I2
+sVweed
+p116
+I2
+sVheartbrokenfine
+p117
+I1
+sVtragedy
+p118
+I1
+sVchange
+p119
+I3
+sVpity
+p120
+I1
+sVon
+p121
+I1
+sVsearch
+p122
+I1
+sVkids
+p123
+I1
+sVwould
+p124
+I1
+sVrollers
+p125
+I1
+sVmany
+p126
+I2
+sVill
+p127
+I2
+sVneeding
+p128
+I1
+sVguilty
+p129
+I1
+sVinviting
+p130
+I1
+sVminds
+p131
+I1
+sVkeep
+p132
+I7
+sVdrama
+p133
+I1
+sVpray
+p134
+I2
+sVyoull
+p135
+I1
+sVmisery
+p136
+I1
+sVlet
+p137
+I1
+sVswallow
+p138
+I1
+sVwhole
+p139
+I1
+sVthink
+p140
+I3
+sVcomes
+p141
+I1
+sVthats
+p142
+I3
+sVseeing
+p143
+I1
+sVlove
+p144
+I1
+sVdont
+p145
+I3
+sVpoint
+p146
+I1
+sVwin
+p147
+I1
+sVimage
+p148
+I1
+sVyoud
+p149
+I1
+sVprefer
+p150
+I1
+sVgrowin
+p151
+I1
+sVone
+p152
+I6
+sVrolling
+p153
+I1
+sVwit
+p154
+I2
+sVpromise
+p155
+I1
+sVlearning
+p156
+I1
+sVartists
+p157
+I1
+sVopen
+p158
+I3
+sVbeats
+p159
+I1
+sVregret
+p160
+I1
+sVeverybody
+p161
+I1
+sVwan
+p162
+I1
+sVguess
+p163
+I1
+sVlight
+p164
+I1
+sVtakes
+p165
+I1
+sVbeef
+p166
+I1
+sVremains
+p167
+I1
+sVsuper
+p168
+I1
+sVcaught
+p169
+I3
+sVlong
+p170
+I1
+sVfight
+p171
+I1
+sVoutlaws
+p172
+I1
+sVstart
+p173
+I1
+sVmuch
+p174
+I4
+sVcome
+p175
+I1
+sVincome
+p176
+I1
+sVway
+p177
+I2
+sVoutlawz
+p178
+I1
+sVkid
+p179
+I1
+sVbreathe
+p180
+I1
+sVeyes
+p181
+I2
+sVstreets
+p182
+I1
+sVfamilies
+p183
+I1
+sVoption
+p184
+I1
+sVmakaveli
+p185
+I1
+sVbrings
+p186
+I1
+sVrealized
+p187
+I1
+sVcant
+p188
+I1
+sVback
+p189
+I1
+sVhear
+p190
+I3
+sVbroke
+p191
+I1
+sVchild
+p192
+I1
+sVsmoking
+p193
+I2
+sVmidst
+p194
+I1
+sVtrying
+p195
+I1
+sV2pac
+p196
+I1
+sVfly
+p197
+I1
+sVwide
+p198
+I1
+sVmyself
+p199
+I2
+sVpride
+p200
+I1
+sVwise
+p201
+I2
+sVthat
+p202
+I1
+sVborn
+p203
+I1
+sVplain
+p204
+I1
+sVstraight
+p205
+I1
+sVcap
+p206
+I1
+sVtolerate
+p207
+I1
+sVsecond
+p208
+I1
+sVus
+p209
+I2
+sVmatter
+p210
+I3
+sVremain
+p211
+I1
+sVcan
+p212
+I1
+sVlearn
+p213
+I4
+sVgrowing
+p214
+I1
+sVminus
+p215
+I1
+sVtheres
+p216
+I2
+sVcontrol
+p217
+I1
+sVheart
+p218
+I1
+sVlater
+p219
+I1
+sVvillains
+p220
+I1
+sVhoping
+p221
+I1
+sVdo
+p222
+I1
+sVlives
+p223
+I1
+sVcop
+p224
+I1
+sVmind
+p225
+I2
+sVfuck
+p226
+I1
+sVstanding
+p227
+I1
+sVanger
+p228
+I2
+sVsay
+p229
+I2
+sVitself
+p230
+I1
+sVim
+p231
+I6
+sVattain
+p232
+I1
+sVrap
+p233
+I1
+sVin
+p234
+I1
+sVneed
+p235
+I1
+sVseen
+p236
+I1
+sVfame
+p237
+I2
+sVguarantee
+p238
+I1
+sVafraid
+p239
+I1
+sVend
+p240
+I1
+sVanymore
+p241
+I1
+sVsoldier
+p242
+I1
+sVna
+p243
+I1
+sVmake
+p244
+I1
+sVwatching
+p245
+I1
+sVsame
+p246
+I1
+sVdamn
+p247
+I1
+sVanother
+p248
+I3
+sVtake
+p249
+I5
+sVbabies
+p250
+I1
+sVrewind
+p251
+I1
+sVyou
+p252
+I1
+sVlife
+p253
+I1
+sVpicture
+p254
+I1
+sVsnaps
+p255
+I1
+sVcoming
+p256
+I1
+sVthough
+p257
+I1
+sVescalate
+p258
+I1
+sVdies
+p259
+I1
+sVrappers
+p260
+I3
+sVcame
+p261
+I1
+sVstay
+p262
+I4
+sVhiphop
+p263
+I1
+sVregular
+p264
+I1
+sVmad
+p265
+I1
+sVhearts
+p266
+I1
+sVcomplaints
+p267
+I1
+sVfilthy
+p268
+I1
+sVgrow
+p269
+I1
+sVdied
+p270
+I2
+sVdestruction
+p271
+I1
+sVforever
+p272
+I1
+sVangst
+p273
+I1
+sVmaybe
+p274
+I1
+sVsometimes
+p275
+I1
+sVwell
+p276
+I1
+sVspent
+p277
+I1
+sVfighting
+p278
+I1
+sVlike
+p279
+I2
+sVbodies
+p280
+I1
+sVtime
+p281
+I6
+sVwake
+p282
+I1
+sVleft
+p283
+I1
+sVgreed
+p284
+I1
+sVcharged
+p285
+I1
+s.

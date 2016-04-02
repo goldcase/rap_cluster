@@ -1,67 +1,527 @@
-"get up" lyrics
-50 cent lyrics
-"get up"
-man i finna do my thang (get up!)
-it's crazy in the club when i'm in there mayne (get up!)
-trust me homie i'm not playin (get up!)
-i have the dance floor off the chain, i said (get up!)
-i came to bring you that california love
-and a little new york hate, it's all of the above
-i'm not playin, i said i'm off the chain
-you niggas better follow instructions, i said (get up!)
-i bought two all fours, stunt till i drive
-'em off the showroom floor, not the used car lot
-you buy a bottle, i buy the bar
-i make every other week feel like mardi gras
-when i get into it, i get into it
-everybody can't do it the way i do it
-i make it rain, till the sun come out
-a nigga playin, we make the guns come out
-now, my question is who they gon' blame
-when i'm back number one on the billboard again?
-shit shift now, the game done changed
-since mike made thriller and prince made purple rain
-i guess i made the kids want slang
-and n.w.a. made the west coast bang
-nah, it's just music man, it's just music
-now get your ass on the dance floor and move it
-i have the south warfare
-i'm the reason everybody here, i say (get up!)
-i make it hot, i make it hot in here
-your feet hurtin? i really don't care, i said (get up!)
-i wanna see, i, i wanna see ya move
-and get all into the groove, i say (get up!)
-i'm gettin money man, i really don't care
-let me see you put your ass in the air, i said (get up!)
-yeah lady, you look good, i wanna get to know you better
-you look good in them jeans and them red stilettos
-you got a bentley coupe booty baby, i wanna drive
-see it'll tell you what your mileage is when i'm inside
-i wanna take you for a spin, you know, round and round
-switch gears till you won't come down
-i take you to the point of no return, if you listen you learn
-just how a nigga earn, i got money to burn
-while they can't get a place, she drop the bomb on me
-it's up and down and up and down gracefully
-rick james would've said she a brick house
-but fifty you should go home and see what that bitch bout
-i find out she like it how i like it, huh
-back it up, get ya some, i know how to get ya sprung
-tune ya up and use the tongue, under the hood is so good
-she said it so good, goddamn i'm so hood, nigga what up?
-i have the south warfare
-i'm the reason everybody here, i say (get up!)
-i make it hot, i make it hot in here
-your feet hurtin? i really don't care, i said (get up!)
-i wanna see, i, i wanna see ya move
-and get all into the groove, i say (get up!)
-i'm gettin money man, i really don't care
-let me see you put your ass in the air, i said (get up!)
-and get into it
-you're now rockin with the unit, i say (get up!)
-and get into it
-we gon' show you just how we do it, i said (get up!)
-aftermath
-still shady aftermath, i said (get up!)
-aftermath
-still shady aftermath
+(dp1
+Vmardi
+p2
+I1
+sVbomb
+p3
+I1
+sVchain
+p4
+I2
+sVshow
+p5
+I1
+sVdance
+p6
+I2
+sVmoney
+p7
+I3
+sVmove
+p8
+I3
+sVfifty
+p9
+I1
+sVbring
+p10
+I1
+sVnwa
+p11
+I1
+sVgo
+p12
+I1
+sVfollow
+p13
+I1
+sVstill
+p14
+I2
+sVhate
+p15
+I1
+sVprince
+p16
+I1
+sVlyrics
+p17
+I2
+sVthang
+p18
+I1
+sVitll
+p19
+I1
+sVbetter
+p20
+I2
+sVrick
+p21
+I1
+sVtune
+p22
+I1
+sVbout
+p23
+I1
+sVgood
+p24
+I4
+sVreturn
+p25
+I1
+sVget
+p26
+I29
+sVya
+p27
+I5
+sVcoast
+p28
+I1
+sVgame
+p29
+I1
+sVevery
+p30
+I1
+sVknow
+p31
+I3
+sVgot
+p32
+I2
+sVstunt
+p33
+I1
+sVlady
+p34
+I1
+sVinstructions
+p35
+I1
+sVwont
+p36
+I1
+sVdown
+p37
+I1
+sVearn
+p38
+I1
+sVbar
+p39
+I1
+sVlike
+p40
+I3
+sVjames
+p41
+I1
+sVgras
+p42
+I1
+sV50
+p43
+I1
+sVgears
+p44
+I1
+sVwouldve
+p45
+I1
+sVround
+p46
+I2
+sVem
+p47
+I1
+sVsprung
+p48
+I1
+sVnigga
+p49
+I3
+sVbooty
+p50
+I1
+sVbentley
+p51
+I1
+sVhouse
+p52
+I1
+sVback
+p53
+I2
+sVsee
+p54
+I8
+sVmileage
+p55
+I1
+sVbillboard
+p56
+I1
+sVplayin
+p57
+I3
+sVfinna
+p58
+I1
+sVout
+p59
+I2
+sVsaid
+p60
+I11
+sVpurple
+p61
+I1
+sVsun
+p62
+I1
+sVsince
+p63
+I1
+sVfind
+p64
+I1
+sVbang
+p65
+I1
+sVunit
+p66
+I1
+sVabove
+p67
+I1
+sVnew
+p68
+I1
+sVshowroom
+p69
+I1
+sVguns
+p70
+I1
+sVred
+p71
+I1
+sVbought
+p72
+I1
+sVass
+p73
+I3
+sVwan
+p74
+I7
+sVburn
+p75
+I1
+sVguess
+p76
+I1
+sVhere
+p77
+I2
+sVmayne
+p78
+I1
+sVblame
+p79
+I1
+sVreason
+p80
+I2
+sVcalifornia
+p81
+I1
+sVyork
+p82
+I1
+sVput
+p83
+I2
+sVaftermath
+p84
+I4
+sVcome
+p85
+I3
+sVcare
+p86
+I4
+sVkids
+p87
+I1
+sVshift
+p88
+I1
+sVchanged
+p89
+I1
+sVplace
+p90
+I1
+sVlet
+p91
+I2
+sVtongue
+p92
+I1
+sVsouth
+p93
+I2
+sVlove
+p94
+I1
+sVdont
+p95
+I4
+sVpoint
+p96
+I1
+sVfeel
+p97
+I1
+sVjeans
+p98
+I1
+sVnumber
+p99
+I1
+sVone
+p100
+I1
+sVfeet
+p101
+I2
+sVdone
+p102
+I1
+sVbitch
+p103
+I1
+sVtrust
+p104
+I1
+sVhood
+p105
+I2
+sVeverybody
+p106
+I3
+sVhurtin
+p107
+I2
+sVlittle
+p108
+I1
+sVwest
+p109
+I1
+sVquestion
+p110
+I1
+sVtwo
+p111
+I1
+sVcent
+p112
+I1
+sVcoupe
+p113
+I1
+sVmusic
+p114
+I2
+sVslang
+p115
+I1
+sVway
+p116
+I1
+sVgoddamn
+p117
+I1
+sVrockin
+p118
+I1
+sVbrick
+p119
+I1
+sVtell
+p120
+I1
+sVlisten
+p121
+I1
+sVmike
+p122
+I1
+sVbuy
+p123
+I2
+sVlot
+p124
+I1
+sVclub
+p125
+I1
+sVfours
+p126
+I1
+sVhuh
+p127
+I1
+sVyeah
+p128
+I1
+sVgettin
+p129
+I2
+sVbaby
+p130
+I1
+sVspin
+p131
+I1
+sVme
+p132
+I1
+sVmade
+p133
+I4
+sVwarfare
+p134
+I2
+sVniggas
+p135
+I1
+sVcar
+p136
+I1
+sVinside
+p137
+I1
+sVup
+p138
+I18
+sVair
+p139
+I2
+sVlearn
+p140
+I1
+sVgroove
+p141
+I2
+sVsay
+p142
+I5
+sVcrazy
+p143
+I1
+sVlook
+p144
+I2
+sVit
+p145
+I5
+sVcant
+p146
+I2
+sVhomie
+p147
+I1
+sVim
+p148
+I11
+sVwant
+p149
+I1
+sVhome
+p150
+I1
+sVshit
+p151
+I1
+sVagain
+p152
+I1
+sVfloor
+p153
+I3
+sVna
+p154
+I7
+sVmake
+p155
+I7
+sVtill
+p156
+I3
+sVhot
+p157
+I4
+sVstilettos
+p158
+I1
+sVtake
+p159
+I2
+sVreally
+p160
+I4
+sVweek
+p161
+I1
+sVused
+p162
+I1
+sVuse
+p163
+I1
+sVrain
+p164
+I2
+sVgon
+p165
+I2
+sVthriller
+p166
+I1
+sVman
+p167
+I4
+sVdrop
+p168
+I1
+sVshady
+p169
+I2
+sVyoure
+p170
+I1
+sVdrive
+p171
+I2
+sVgracefully
+p172
+I1
+sVswitch
+p173
+I1
+sVbottle
+p174
+I1
+sVnah
+p175
+I1
+sVcame
+p176
+I1
+s.

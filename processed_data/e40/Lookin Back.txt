@@ -1,79 +1,672 @@
-"lookin' back" lyrics
-e-40 lyrics
-"lookin' back"
-(feat. devin the dude)
-lookin back when the days wasn't so easy
-you were either hustlin or strugglin
-make it or break it, would take all different pieces
-and we'll make somethin of nothin
-lookin back at the times when we had to grind
-when it came to freestylin we was glad to rhyme
-when it was hard to make a dime, let alone get a dollar
-had to get your hustle on, knew not to ask your mama for it
-when you got it you couldn't blow it
-so i saved what i had in the bag, then i would go get
-radio batteries, i'd buy the cassettes
-lps, 4-tracks, wires and (?)
-and we was down for hours, we was known around town
-come through with the crew and break the cardboard down
-heh... glide (?)
-then the whole thing started with the odd squad parties
-met e-40 at the rap-a-lot office
-him and bela cool niggas with the click that stay drunk
-we was gettin houstin high, they already had the bay crunk
-straight up old school, wasn't no protools
-jack you for your jacket, and they'll jack you for yo shoes
-back then you had friends who had your back
-you only had three choices - sports, rap or crack
-and ah, it's a blessing to still be part of the game
-and i wouldn't change one thing
-lookin back when the days wasn't so easy
-(it wasn't easy, mane)
-were either hustlin or strugglin
-(workin, hustlin and strugglin)
-make it or break it, would take all different pieces
-(all of the pieces)
-and we'll make somethin of nothin
-(that's right, mane, we'd make somethin of nothin, mane)
-make somethin out of nothin
-hey devin
-this 40, mane
-let me gas it right quick, bro
-let it tell it from my perspective, you smell me?
-look here
-i just wanna spit a few bars
-listen up, family
-listen
-lookin back before youtube and social networks was founded
-a&r's'd go to the hood to find artists with talent
-recording engineers was low-key lightweight crooks
-not all of 'em but some of 'em'd take all day to fly hooks
-that's how they did it back then, based on a hourly rate
-the longer they make, the mo' money they make
-all we wanted to do was rap, young and enthusiastic
-hopin that one day our tapes would be in stores shrinkwrapped and packaged
-we used to beg the promoters to do us a favor
-let us perform for free, pimpin, mane, the money gon' come later
-we knew the money was gon' come later
-we was just tryina get our name out there
-and it ended up workin, mane, for real though
-rehearse and practise, practise and rehearse
-me and too $hort, bun and pimp c wouldn't charge each other to spit a verse
-we all knew what we was worth, future legends up in the game
-rip pimp c, way ahead of his time
-everybody wanna be that guy, everybody wanna be that dude
-but everybody don't wanna pay dues like 40 and devin the dude
-two good dudes, old school but new school
-meet 'em in person, you gon' say, "them some cool fools"
-good music still around, just gotta know where to find it
-the seasoned entrepreneur independently grindin
-20 plus 3 years deep in this music
-people always be askin me, "40, how the fuck is you still doin it?"
-lookin back when the days wasn't so easy
-(it wasn't easy, mane)
-were either hustlin or strugglin
-(workin, hustlin and strugglin)
-make it or break it, would take all different pieces
-(all of the pieces)
-and we'll make somethin of nothin
-(that's right, mane, we'd make somethin of nothin, mane)
+(dp1
+Vrehearse
+p2
+I2
+sVstores
+p3
+I1
+sVshoes
+p4
+I1
+sVlyrics
+p5
+I2
+sVhooks
+p6
+I1
+sVdollar
+p7
+I1
+sVyears
+p8
+I1
+sVfounded
+p9
+I1
+sVended
+p10
+I1
+sVbatteries
+p11
+I1
+sVradio
+p12
+I1
+sVgo
+p13
+I2
+sVstill
+p14
+I3
+sVfeat
+p15
+I1
+sVnetworks
+p16
+I1
+sVblow
+p17
+I1
+sVbased
+p18
+I1
+sVoffice
+p19
+I1
+sVglide
+p20
+I1
+sVwed
+p21
+I2
+sVverse
+p22
+I1
+sVyoung
+p23
+I1
+sVcrew
+p24
+I1
+sVcharge
+p25
+I1
+sVeasy
+p26
+I5
+sVcrack
+p27
+I1
+sVpay
+p28
+I1
+sVpractise
+p29
+I2
+sVworth
+p30
+I1
+sVta
+p31
+I1
+sVreal
+p32
+I1
+sVme
+p33
+I1
+sVgood
+p34
+I2
+sVworkin
+p35
+I3
+sVaround
+p36
+I2
+sVyo
+p37
+I1
+sVget
+p38
+I4
+sVhopin
+p39
+I1
+sVrhyme
+p40
+I1
+sVbreak
+p41
+I4
+sVgame
+p42
+I2
+sVrapalot
+p43
+I1
+sVjack
+p44
+I2
+sVnew
+p45
+I1
+sVday
+p46
+I2
+sVpeople
+p47
+I1
+sVcool
+p48
+I2
+sVbro
+p49
+I1
+sVschool
+p50
+I3
+sVname
+p51
+I1
+sVpimp
+p52
+I2
+sVentrepreneur
+p53
+I1
+sValways
+p54
+I1
+sVgettin
+p55
+I1
+sVbay
+p56
+I1
+sVbag
+p57
+I1
+sVeither
+p58
+I3
+sVquick
+p59
+I1
+sVguy
+p60
+I1
+sVmo
+p61
+I1
+sVem
+p62
+I2
+sVahead
+p63
+I1
+sVbars
+p64
+I1
+sVright
+p65
+I3
+sVold
+p66
+I2
+sVlowkey
+p67
+I1
+sVemd
+p68
+I1
+sVhard
+p69
+I1
+sVback
+p70
+I10
+sVbeg
+p71
+I1
+sVrate
+p72
+I1
+sVused
+p73
+I1
+sVperspective
+p74
+I1
+sVodd
+p75
+I1
+sVclick
+p76
+I1
+sVhourly
+p77
+I1
+sVgon
+p78
+I3
+sVsaved
+p79
+I1
+sVthough
+p80
+I1
+sVgrindin
+p81
+I1
+sVfind
+p82
+I2
+sVartists
+p83
+I1
+sVfavor
+p84
+I1
+sV3
+I1
+sVshrinkwrapped
+p85
+I1
+sVhood
+p86
+I1
+sVgot
+p87
+I2
+sVhustle
+p88
+I1
+sVwan
+p89
+I4
+sVcrooks
+p90
+I1
+sVpackaged
+p91
+I1
+sVhere
+p92
+I1
+sVlike
+p93
+I1
+sVhours
+p94
+I1
+sVmet
+p95
+I1
+sVstrugglin
+p96
+I5
+sVfree
+p97
+I1
+sVask
+p98
+I1
+sV20
+p99
+I1
+sVcardboard
+p100
+I1
+sVcome
+p101
+I3
+sVchange
+p102
+I1
+sVc
+I2
+sVtalent
+p103
+I1
+sVwouldnt
+p104
+I2
+sVdays
+p105
+I3
+sVtimes
+p106
+I1
+sVthing
+p107
+I2
+sVplus
+p108
+I1
+sVmane
+p109
+I9
+sVlookin
+p110
+I7
+sVsocial
+p111
+I1
+sVlet
+p112
+I4
+sVwhole
+p113
+I1
+sVthats
+p114
+I3
+sVtapes
+p115
+I1
+sValready
+p116
+I1
+sVdont
+p117
+I1
+sVfamily
+p118
+I1
+sVdrunk
+p119
+I1
+sVbela
+p120
+I1
+sVway
+p121
+I1
+sVdudes
+p122
+I1
+sVone
+p123
+I2
+sVdown
+p124
+I1
+sValone
+p125
+I1
+sVparties
+p126
+I1
+sVcouldnt
+p127
+I1
+sVprotools
+p128
+I1
+sVeverybody
+p129
+I3
+sVdevin
+p130
+I3
+sVwanted
+p131
+I1
+sVlegends
+p132
+I1
+sVwould
+p133
+I5
+sVcrunk
+p134
+I1
+sVthere
+p135
+I1
+sVdude
+p136
+I3
+sVthree
+p137
+I1
+sVsports
+p138
+I1
+sVmusic
+p139
+I2
+sVhustlin
+p140
+I5
+sVah
+p141
+I1
+sVmama
+p142
+I1
+sVseasoned
+p143
+I1
+sVheh
+p144
+I1
+sVtell
+p145
+I1
+sVlisten
+p146
+I2
+sVbuy
+p147
+I1
+sVpimpin
+p148
+I1
+sVspit
+p149
+I2
+sVstarted
+p150
+I1
+sVhort
+p151
+I1
+sVblessing
+p152
+I1
+sVgas
+p153
+I1
+sVaskin
+p154
+I1
+sVfuck
+p155
+I1
+sVpart
+p156
+I1
+sVbun
+p157
+I1
+sVdeep
+p158
+I1
+sVknown
+p159
+I1
+sVtryina
+p160
+I1
+sVglad
+p161
+I1
+sVtown
+p162
+I1
+sVe40
+p163
+I2
+sVlook
+p164
+I1
+sVniggas
+p165
+I1
+sVstraight
+p166
+I1
+sVyoutube
+p167
+I1
+sVus
+p168
+I2
+sVchoices
+p169
+I1
+sVrecording
+p170
+I1
+sVhoustin
+p171
+I1
+sVmeet
+p172
+I1
+sVdues
+p173
+I1
+sVengineers
+p174
+I1
+sVmoney
+p175
+I3
+sVwasnt
+p176
+I6
+sVwell
+p177
+I3
+sVit
+p178
+I4
+sVrip
+p179
+I1
+sVpieces
+p180
+I5
+sVhigh
+p181
+I1
+sVfly
+p182
+I1
+sVsay
+p183
+I1
+sVfreestylin
+p184
+I1
+sVrap
+p185
+I2
+sVlightweight
+p186
+I1
+sVid
+p187
+I1
+sVdifferent
+p188
+I3
+sVtheyll
+p189
+I1
+sV4tracks
+p190
+I1
+sVperform
+p191
+I1
+sVna
+p192
+I4
+sVmake
+p193
+I12
+sV40
+p194
+I3
+sVsquad
+p195
+I1
+sVtake
+p196
+I4
+sVfools
+p197
+I1
+sVsmell
+p198
+I1
+sVwires
+p199
+I1
+sVhey
+p200
+I1
+sVdime
+p201
+I1
+sVpromoters
+p202
+I1
+sVdoin
+p203
+I1
+sVknew
+p204
+I3
+sVcassettes
+p205
+I1
+sVstay
+p206
+I1
+sVtwo
+p207
+I1
+sVfuture
+p208
+I1
+sVfriends
+p209
+I1
+sVarsd
+p210
+I1
+sVsomethin
+p211
+I6
+sVindependently
+p212
+I1
+sVlonger
+p213
+I1
+sVenthusiastic
+p214
+I1
+sVlater
+p215
+I2
+sVlps
+p216
+I1
+sVnothin
+p217
+I6
+sVgrind
+p218
+I1
+sVjacket
+p219
+I1
+sVperson
+p220
+I1
+sVtime
+p221
+I1
+sVcame
+p222
+I1
+sVknow
+p223
+I1
+s.

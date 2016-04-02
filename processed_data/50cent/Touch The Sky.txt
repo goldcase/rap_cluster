@@ -1,69 +1,484 @@
-"touch the sky" lyrics
-50 cent lyrics
-"touch the sky"
-(feat. tony yayo)
-man i run this rap shit
-get your hands up high, hands up high, hands up high
-rest in piece to biggie smalls
-get your hands up high, hands up high, hands up high
-r.i.p. to tupac
-get your hands up high, hands up high, hands up high
-nigga roll that good shit
-get your hands up high, hands up high, hands up high
-u wanna dance lets dance nigga ill take u to da prom
-im armed tre pound in my palm im calm
-nigga my mamma made a baby boy the hood made a man
-my first 14 grams took that and made a grand
-i do this you knew this i told you pussy
-ur fate ur death date ill fucking come for u pussy
-have you like ei-ei-uh oh after the 44 blow
-i get low they say i go like a pro
-its a rap when im doseing
-you smoked like a roach
-u been clapped then in fact theres no coming back from that
-im the last of my breed
-no henny no weed
-just my vest and my semi
-in the back of that bentley
-im nos and im bras
-see im there and im gone
-cause my loyals is strong
-and my money here is long
-so when im right im right
-and when im wrong im right
-ill hit your ass up right
-nigga its nighty night
-man i run this rap shit
-get your hands up high, hands up high, hands up high
-rest in piece to biggie smalls
-get your hands up high, hands up high, hands up high
-r.i.p. to tupac
-get your hands up high, hands up high, hands up high
-nigga roll that good shit
-get your hands up high, hands up high, hands up high
-hey yo im higher than a pilot man
-ill cut your body man
-beat the case i lied on a polygram
-these ogs talk about back in the days
-i have an r.i.p. sign on your myspace page
-im your top eight nigga
-drop eight nigga
-gct coupe its sour grape nigga
-im an ape nigga a gorilla in the mist
-i hold weight nigga my connect gots bricks
-i wear gold you wear platinum we still got the same cars
-same house and still fuck the same broads
-dreams of fucking an r&b bitch
-yeah you look good girl but get your teeth fixed
-im the teflon don boy i get busy
-ur legs to strong doing sex with pretty ricky
-760 drive by light tint
-with two hoes in the whip looking like flip
-man i run this rap shit
-get your hands up high, hands up high, hands up high
-rest in piece to biggie smalls
-get your hands up high, hands up high, hands up high
-r.i.p. to tupac
-get your hands up high, hands up high, hands up high
-nigga roll that good shit
-get your hands up high, hands up high, hands up high
+(dp1
+Vlyrics
+p2
+I2
+sVdance
+p3
+I2
+sVmoney
+p4
+I1
+sV760
+p5
+I1
+sVrest
+p6
+I3
+sVtouch
+p7
+I2
+sVstill
+p8
+I2
+sVfeat
+p9
+I1
+sVclapped
+p10
+I1
+sVblow
+p11
+I1
+sVdeath
+p12
+I1
+sVgrape
+p13
+I1
+sVgold
+p14
+I1
+sVsky
+p15
+I2
+sVlets
+p16
+I1
+sVpretty
+p17
+I1
+sVnos
+p18
+I1
+sVgct
+p19
+I1
+sVbusy
+p20
+I1
+sVgood
+p21
+I4
+sVhit
+p22
+I1
+sVfate
+p23
+I1
+sVget
+p24
+I15
+sVbeat
+p25
+I1
+sVda
+p26
+I1
+sVhands
+p27
+I36
+sVroach
+p28
+I1
+sVdreams
+p29
+I1
+sVbiggie
+p30
+I3
+sVlike
+p31
+I4
+sVsemi
+p32
+I1
+sVdrop
+p33
+I1
+sVtre
+p34
+I1
+sV50
+p35
+I1
+sVnight
+p36
+I1
+sVfixed
+p37
+I1
+sVpage
+p38
+I1
+sVbitch
+p39
+I1
+sVbody
+p40
+I1
+sVnigga
+p41
+I11
+sVbentley
+p42
+I1
+sVfucking
+p43
+I2
+sVhouse
+p44
+I1
+sVback
+p45
+I3
+sVsign
+p46
+I1
+sVgo
+p47
+I1
+sVsee
+p48
+I1
+sVpalm
+p49
+I1
+sVconnect
+p50
+I1
+sVhoes
+p51
+I1
+sVgirl
+p52
+I1
+sVeieiuh
+p53
+I1
+sVwhip
+p54
+I1
+sVricky
+p55
+I1
+sVlooking
+p56
+I1
+sVprom
+p57
+I1
+sVrb
+p58
+I1
+sVgot
+p59
+I1
+sVcause
+p60
+I1
+sVtold
+p61
+I1
+sVass
+p62
+I1
+sVsmalls
+p63
+I3
+sVrun
+p64
+I3
+sVcars
+p65
+I1
+sVcut
+p66
+I1
+sVwear
+p67
+I2
+sVgots
+p68
+I1
+sVstrong
+p69
+I2
+sVcome
+p70
+I1
+sVbras
+p71
+I1
+sVboy
+p72
+I2
+sVlast
+p73
+I1
+sVoh
+p74
+I1
+sVill
+p75
+I4
+sVdays
+p76
+I1
+sVfirst
+p77
+I1
+sVdoseing
+p78
+I1
+sVmyspace
+p79
+I1
+sVlied
+p80
+I1
+sVbricks
+p81
+I1
+sVpussy
+p82
+I2
+sVtwo
+p83
+I1
+sVright
+p84
+I4
+sVlong
+p85
+I1
+sVtony
+p86
+I1
+sVmist
+p87
+I1
+sVarmed
+p88
+I1
+sVhood
+p89
+I1
+sVape
+p90
+I1
+sVplatinum
+p91
+I1
+sVwan
+p92
+I1
+sVtint
+p93
+I1
+sVweight
+p94
+I1
+sVtop
+p95
+I1
+sVbreed
+p96
+I1
+sVhey
+p97
+I1
+sVcent
+p98
+I1
+sVcoupe
+p99
+I1
+sVlow
+p100
+I1
+sVteeth
+p101
+I1
+sVlegs
+p102
+I1
+sVcalm
+p103
+I1
+sVthat
+p104
+I1
+sVtook
+p105
+I1
+sVogs
+p106
+I1
+sVyeah
+p107
+I1
+sVbaby
+p108
+I1
+sVhold
+p109
+I1
+sVyayo
+p110
+I1
+sVpilot
+p111
+I1
+sVcase
+p112
+I1
+sVmade
+p113
+I3
+sV14
+p114
+I1
+sVsex
+p115
+I1
+sVflip
+p116
+I1
+sVur
+p117
+I3
+sVbroads
+p118
+I1
+sVsour
+p119
+I1
+sVpiece
+p120
+I3
+sVtheres
+p121
+I1
+sVgone
+p122
+I1
+sVvest
+p123
+I1
+sVpound
+p124
+I1
+sVlook
+p125
+I1
+sVpro
+p126
+I1
+sVfuck
+p127
+I1
+sVrip
+p128
+I4
+sVhigh
+p129
+I36
+sVsay
+p130
+I1
+sVim
+p131
+I16
+sVrap
+p132
+I4
+sVpolygram
+p133
+I1
+sVshit
+p134
+I6
+sVyo
+p135
+I1
+sVtupac
+p136
+I3
+sVna
+p137
+I1
+sV44
+p138
+I1
+sVhenny
+p139
+I1
+sVtake
+p140
+I1
+sVgrand
+p141
+I1
+sVu
+I4
+sVroll
+p142
+I3
+sVhigher
+p143
+I1
+sVteflon
+p144
+I1
+sVknew
+p145
+I1
+sVweed
+p146
+I1
+sVloyals
+p147
+I1
+sVwrong
+p148
+I1
+sVeight
+p149
+I2
+sVcoming
+p150
+I1
+sVdate
+p151
+I1
+sVman
+p152
+I6
+sVgrams
+p153
+I1
+sVlight
+p154
+I1
+sVdrive
+p155
+I1
+sVgorilla
+p156
+I1
+sVmamma
+p157
+I1
+sVtalk
+p158
+I1
+sVnighty
+p159
+I1
+sVsmoked
+p160
+I1
+sVfact
+p161
+I1
+s.

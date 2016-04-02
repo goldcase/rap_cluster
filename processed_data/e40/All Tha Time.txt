@@ -1,91 +1,749 @@
-"all tha time" lyrics
-e-40 lyrics
-"all tha time"
-(feat. b-legit)
-uhhhh.. uhhhh.. uhhhh!  ah?  ah?
-you got moesha e?
-all tha time b
-you got your indonesia b?
-all tha time e
-you got the street sweeper broom?
-all tha time b
-you got your chronic there too?
-all tha time!
-might not know how to read and right, but i do know arm & hammer
-if the screen from a tweaker's pipe turns black, that means it's bamma
-if it's too many seeds in your weed, then chop em down
-if your bud gets bogus, then run his ass out of town
-i'm on the carquinez bridge, terminal three, quarter after seven
-pockets full of hundreds, can't seem to find no ones, engine revvin
-smebbin, talkin hella shit to the cashier
-pi-pi's get right behind me askin me how much i been had to drink
-and i said, "a beer"
-blitzed, out of my wits, drivin drunk
-let's see i done hit one, two, three ain't no tellin how many skunk
-in and out of the holdin cell, blood alcohol like a warrior
-and i refuse to answer any questions without the advisory of my lawyer
-i been in it, all around it, co-founded
-did it when i done it, i musta been blunted
-ninety-six hundred for the two p's
-i let the homie k-one run through these
-places that i roam i let the hubs alone
-i wonder if they're trippin at nextel phones
-a bad motherfucker for the butter n grits
-and you niggaz need to know this shit
-you got moesha e?
-all tha time b
-you got your indonesia b?
-all tha time e
-you got the street sweeper broom?
-all tha time b
-you got your chronic there too?
-all tha time!
-i got the turf on lock, twenty-six block
-one beeper on my side gotta be in the house by eight o'clock
-organized crime bitch, all the time bitch
-get off his dick and get on mine bitch
-i be smokin like a broke-down coupe deville
-poppin them generic brand golden seals
-parole can't hold me, and neither could y'all
-bitch me and my click is off the wall
-i fucks with everybody to somebody, major factors
-to niggaz if you can't understand this shit
-then nigga you must got your mask on backwards
-tiptoeing through the hood nigga, is no good nigga
-gotta have a pass, so we get that ass
-you got moesha e?
-all tha time b
-you got your indonesia b?
-all tha time e
-you got the street sweeper broom?
-all tha time b
-you got your chronic there too?
-all tha time!
-now the parties don't start until we walk in
-drunk off that gin, down to check yo' chin
-i'm a mannish motherfucker with the chips and bread
-and enough, to have your head kind of tough
-bluffin don't exist, we pull the whole cards
-tail between the legs when you walk in the yard
-so if you hard, and wanna stay that way
-you better watch what the fuck you play
-check it out
-it's bring yo' own bottle, cause i be likin
-to get to perkin somethin awful
-and compute that motherfucker slurrin
-talkin crazy to bitches, weeble-wobblin
-burpin, gurgin, stomach growlin off the hinges
-lurkin, torqin my stay highs with red ledges
-i'm tryin to get that fast quarter, fuck a slow nickel
-run a smooth ass operation without gettin caught in the pickle
-take my cool ass on a vacation that maybe someday stop
-buy me an empty commercial lot
-and turn it into a car wax wash and detail shop
-you got moesha e?
-all tha time b
-you got your indonesia b?
-all tha time e
-you got the street sweeper broom?
-all tha time b
-you got your chronic there too?
-all tha time!
+(dp1
+Vshop
+p2
+I1
+sVadvisory
+p3
+I1
+sVlyrics
+p4
+I2
+sVkone
+p5
+I1
+sVseals
+p6
+I1
+sVbring
+p7
+I1
+sVquestions
+p8
+I1
+sVfeat
+p9
+I1
+sVfind
+p10
+I1
+sVaint
+p11
+I1
+sVslow
+p12
+I1
+sVexist
+p13
+I1
+sVbroom
+p14
+I4
+sVbamma
+p15
+I1
+sVpoppin
+p16
+I1
+sVenough
+p17
+I1
+sVcrime
+p18
+I1
+sVterminal
+p19
+I1
+sVoclock
+p20
+I1
+sVlets
+p21
+I1
+sVblegit
+p22
+I1
+sVblack
+p23
+I1
+sVmust
+p24
+I1
+sVmight
+p25
+I1
+sVmusta
+p26
+I1
+sVgood
+p27
+I1
+sVhit
+p28
+I1
+sVaround
+p29
+I1
+sVyo
+p30
+I2
+sVget
+p31
+I6
+sVread
+p32
+I1
+sVwatch
+p33
+I1
+sVkind
+p34
+I1
+sVones
+p35
+I1
+sVknow
+p36
+I3
+sVawful
+p37
+I1
+sVwalk
+p38
+I2
+sVchips
+p39
+I1
+sVbread
+p40
+I1
+sVtrippin
+p41
+I1
+sVtail
+p42
+I1
+sVlike
+p43
+I2
+sVwash
+p44
+I1
+sVturns
+p45
+I1
+sVhinges
+p46
+I1
+sVmoesha
+p47
+I4
+sVcofounded
+p48
+I1
+sVsmebbin
+p49
+I1
+sVbad
+p50
+I1
+sVholdin
+p51
+I1
+sVquarter
+p52
+I2
+sVout
+p53
+I1
+sVside
+p54
+I1
+sVyall
+p55
+I1
+sVem
+p56
+I1
+sVuhhhh
+p57
+I3
+sVright
+p58
+I2
+sVphones
+p59
+I1
+sVhard
+p60
+I1
+sVplay
+p61
+I1
+sVsee
+p62
+I1
+sVstreet
+p63
+I4
+sVniggaz
+p64
+I2
+sVlawyer
+p65
+I1
+sVpass
+p66
+I1
+sVrun
+p67
+I3
+sVoperation
+p68
+I1
+sVtheyre
+p69
+I1
+sVhammer
+p70
+I1
+sVarm
+p71
+I1
+sVwonder
+p72
+I1
+sVrevvin
+p73
+I1
+sVsaid
+p74
+I1
+sValcohol
+p75
+I1
+sVfactors
+p76
+I1
+sVhouse
+p77
+I1
+sVtake
+p78
+I1
+sVfucks
+p79
+I1
+sVcell
+p80
+I1
+sVbehind
+p81
+I1
+sVbogus
+p82
+I1
+sVgrits
+p83
+I1
+sVgot
+p84
+I20
+sVneither
+p85
+I1
+sVcause
+p86
+I1
+sVred
+p87
+I1
+sVass
+p88
+I4
+sVwarrior
+p89
+I1
+sVfull
+p90
+I1
+sVdrivin
+p91
+I1
+sVwan
+p92
+I1
+sVtwentysix
+p93
+I1
+sVblunted
+p94
+I1
+sVscreen
+p95
+I1
+sVcommercial
+p96
+I1
+sVmotherfucker
+p97
+I3
+sVhundreds
+p98
+I1
+sVcards
+p99
+I1
+sVlet
+p100
+I2
+sVsmokin
+p101
+I1
+sValone
+p102
+I1
+sVblitzed
+p103
+I1
+sVbuy
+p104
+I1
+sVstay
+p105
+I2
+sVbackwards
+p106
+I1
+sVyard
+p107
+I1
+sVtiptoeing
+p108
+I1
+sVtweakers
+p109
+I1
+sVmany
+p110
+I2
+sVcould
+p111
+I1
+sVlikin
+p112
+I1
+sVchop
+p113
+I1
+sVturn
+p114
+I1
+sVseeds
+p115
+I1
+sVpockets
+p116
+I1
+sVroam
+p117
+I1
+sVturf
+p118
+I1
+sVwhole
+p119
+I1
+sVblock
+p120
+I1
+sVgolden
+p121
+I1
+sVmajor
+p122
+I1
+sVdick
+p123
+I1
+sVtough
+p124
+I1
+sVdont
+p125
+I2
+sVnextel
+p126
+I1
+sVdrunk
+p127
+I2
+sVwall
+p128
+I1
+sVlegs
+p129
+I1
+sVcrazy
+p130
+I1
+sVone
+p131
+I2
+sVdown
+p132
+I1
+sVchronic
+p133
+I4
+sVnigga
+p134
+I3
+sVdone
+p135
+I2
+sVbitch
+p136
+I4
+sVparties
+p137
+I1
+sVmannish
+p138
+I1
+sVhood
+p139
+I1
+sVeverybody
+p140
+I1
+sVps
+p141
+I1
+sVcaught
+p142
+I1
+sVtwo
+p143
+I2
+sVfast
+p144
+I1
+sVcoupe
+p145
+I1
+sVstart
+p146
+I1
+sVbeer
+p147
+I1
+sVmuch
+p148
+I1
+sVtoo
+p149
+I4
+sVway
+p150
+I1
+sVlock
+p151
+I1
+sVdeville
+p152
+I1
+sVgin
+p153
+I1
+sVhundred
+p154
+I1
+sVempty
+p155
+I1
+sVengine
+p156
+I1
+sVhead
+p157
+I1
+sVtorqin
+p158
+I1
+sVstomach
+p159
+I1
+sVlot
+p160
+I1
+sVwits
+p161
+I1
+sVbrand
+p162
+I1
+sVbitches
+p163
+I1
+sVcashier
+p164
+I1
+sVfuck
+p165
+I2
+sVgettin
+p166
+I1
+sVunderstand
+p167
+I1
+sVburpin
+p168
+I1
+sVninetysix
+p169
+I1
+sVbluffin
+p170
+I1
+sVhold
+p171
+I1
+sVbud
+p172
+I1
+sVbeeper
+p173
+I1
+sVtown
+p174
+I1
+sVpull
+p175
+I1
+sVe40
+p176
+I1
+sVb
+I12
+sVcompute
+p177
+I1
+sVplaces
+p178
+I1
+sVsomeday
+p179
+I1
+sVthese
+p180
+I1
+sVcar
+p181
+I1
+sVsmooth
+p182
+I1
+sVcool
+p183
+I1
+sVtellin
+p184
+I1
+sVn
+I1
+sVthree
+p185
+I2
+sVhubs
+p186
+I1
+sVchin
+p187
+I1
+sVta
+p188
+I2
+sVpickle
+p189
+I1
+sVbridge
+p190
+I1
+sVseven
+p191
+I1
+sVah
+p192
+I2
+sVorganized
+p193
+I1
+sVmine
+p194
+I1
+sVcant
+p195
+I3
+sVhomie
+p196
+I1
+sVim
+p197
+I3
+sVin
+p198
+I1
+sVneed
+p199
+I1
+sVsomebody
+p200
+I1
+sVseem
+p201
+I1
+sVperkin
+p202
+I1
+sVcheck
+p203
+I2
+sVpipis
+p204
+I1
+sVlurkin
+p205
+I1
+sVgurgin
+p206
+I1
+sVgeneric
+p207
+I1
+sVna
+p208
+I1
+sVmeans
+p209
+I1
+sVledges
+p210
+I1
+sVdetail
+p211
+I1
+sVclick
+p212
+I1
+sVwax
+p213
+I1
+sVwithout
+p214
+I2
+sVshit
+p215
+I3
+sVbetter
+p216
+I1
+sVanswer
+p217
+I1
+sVbrokedown
+p218
+I1
+sVgets
+p219
+I1
+sVtalkin
+p220
+I2
+sVsweeper
+p221
+I4
+sVaskin
+p222
+I1
+sVstop
+p223
+I1
+sVhighs
+p224
+I1
+sVdrink
+p225
+I1
+sVvacation
+p226
+I1
+sVweed
+p227
+I1
+sVeight
+p228
+I1
+sVblood
+p229
+I1
+sVweeblewobblin
+p230
+I1
+sVbutter
+p231
+I1
+sVsomethin
+p232
+I1
+sVrefuse
+p233
+I1
+sVparole
+p234
+I1
+sVe
+I8
+sVnickel
+p235
+I1
+sVmaybe
+p236
+I1
+sVindonesia
+p237
+I4
+sVmask
+p238
+I1
+sVpipe
+p239
+I1
+sVslurrin
+p240
+I1
+sVhella
+p241
+I1
+sVcarquinez
+p242
+I1
+sVbottle
+p243
+I1
+sVtime
+p244
+I19
+sVtryin
+p245
+I1
+sVskunk
+p246
+I1
+sVgrowlin
+p247
+I1
+sVtha
+p248
+I18
+s.

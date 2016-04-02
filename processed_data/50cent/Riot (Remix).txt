@@ -1,72 +1,460 @@
-"riot (remix)" lyrics
-50 cent lyrics
-"riot (remix)"
-(feat. 2 chainz)
-i don't even know what to say
-ain't got to say much
-you here my voice
-you know it's 50
-damn right they got it, damn right they got it
-damn right they got it, damn right they got it
-damn right they got it, damn right they got it
-damn right they got it, damn right they got it
-i say lame niggas be quiet, lame niggas be quiet
-lame niggas be quiet you in the presence of a real nigga
-i say lame niggas be quiet, lame niggas be quiet,
-lame niggas be quiet
-you in the real nigga's presence
-i eat your girl up for breakfast, won't save you no extras
-say she fuck with me cause a real nigga's her preference
-drinking like i'm from texas, and you know i stay flexin'
-and if you don't know i go by tity two necklace
-nigga that cocaine that i'm flipping
-wood-wood grain when i'm dipping
-codeine when i'm sippin'
-bitch, you fucking right i be trippin'
-i put your bitch face in my lap
-2-2-3s all in my strap
-count-count my paper
-all of them stacks
-fuck something up and get it right back
-nigga try me
-i'm a start a riot, i'm a start a riot
-i'm a start a riot, i'm a start a riot
-i'm a start a riot, i'm a start a riot
-i'm a start a riot, i'm a start a riot
-i ain't stunnin' these niggas
-i ain't stunnin' these bitches
-2 cigarrellas, look look like extensions (damn)
-yeah i'm from the south side, her mouth wide
-my pack loud, my gat loud, i back out
-and click clack pow pow
-court dates, still trial
-my rep is a reptile
-now later, alligators
-i step on a work like a step child (whoo)
-pimps up, hoes down
-make your girl pull her clothes down
-her hair down and i'm down
-her phone off so don't dial
-that-that pyrex in my kitchen
-rich niggas still bitching
-them gds and them vicelords
-or that gangsta shit i be kicking
-who blood now? who cripping?
-who pussy? tell me who snitching?
-i got a firearm to fire on
-for whoever done let that bitch in
-these niggas don't live by the codes
-then cut in and fucked up the game
-throw your sets up if you don't give a fuck
-it's 50 and 2 chainz
-got the hood back poppin', i dance to this
-i buy the whole bar, nigga you can drank to this
-get the bottles poppin'
-while the hoes watchin'
-and damn i love this gangsta shit
-i'm a start a riot, i'm a start a riot (yeah)
-i'm a start a riot, i'm a start a riot
-i'm a start a riot, i'm a start a riot (that's what i'm talkin about)
-i'm a start a riot, i'm a start a riot
-we gone get back to the real shit,
-quit fucking around
+(dp1
+Vgds
+p2
+I1
+sVlyrics
+p3
+I2
+sVwhoever
+p4
+I1
+sVdance
+p5
+I1
+sVpaper
+p6
+I1
+sVgo
+p7
+I1
+sVstill
+p8
+I2
+sVfeat
+p9
+I1
+sVmake
+p10
+I1
+sVaint
+p11
+I3
+sVcut
+p12
+I1
+sVpyrex
+p13
+I1
+sVpoppin
+p14
+I2
+sVrich
+p15
+I1
+sVpussy
+p16
+I1
+sVgangsta
+p17
+I2
+sVsave
+p18
+I1
+sVtexas
+p19
+I1
+sVreal
+p20
+I4
+sVaround
+p21
+I1
+sVget
+p22
+I3
+sVgame
+p23
+I1
+sVknow
+p24
+I4
+sV2
+I3
+sVdrinking
+p25
+I1
+sVwont
+p26
+I1
+sVtrippin
+p27
+I1
+sVbar
+p28
+I1
+sVlike
+p29
+I3
+sVdipping
+p30
+I1
+sV50
+p31
+I3
+sVtry
+p32
+I1
+sVthis
+p33
+I2
+sVside
+p34
+I1
+sVclack
+p35
+I1
+sVwoodwood
+p36
+I1
+sVright
+p37
+I10
+sVfucking
+p38
+I2
+sVyeah
+p39
+I2
+sVhair
+p40
+I1
+sVhoes
+p41
+I2
+sVgirl
+p42
+I2
+sVclick
+p43
+I1
+sVout
+p44
+I1
+sVeven
+p45
+I1
+sVdial
+p46
+I1
+sVrep
+p47
+I1
+sVchainz
+p48
+I2
+sVgot
+p49
+I11
+sVcause
+p50
+I1
+sVwatchin
+p51
+I1
+sVcountcount
+p52
+I1
+sVkicking
+p53
+I1
+sVstep
+p54
+I2
+sVlet
+p55
+I1
+sVput
+p56
+I1
+sVflexin
+p57
+I1
+sVthrow
+p58
+I1
+sVkitchen
+p59
+I1
+sVon
+p60
+I1
+sVdates
+p61
+I1
+sVdrank
+p62
+I1
+sVquiet
+p63
+I6
+sVtrial
+p64
+I1
+sVextensions
+p65
+I1
+sVclothes
+p66
+I1
+sVloud
+p67
+I2
+sVsouth
+p68
+I1
+sVthats
+p69
+I1
+sVreptile
+p70
+I1
+sVlove
+p71
+I1
+sVdont
+p72
+I5
+sVpresence
+p73
+I2
+sVpow
+p74
+I2
+sVcigarrellas
+p75
+I1
+sVflipping
+p76
+I1
+sVstrap
+p77
+I1
+sVdown
+p78
+I3
+sVnigga
+p79
+I4
+sVdone
+p80
+I1
+sVbitch
+p81
+I3
+sVstunnin
+p82
+I2
+sVcocaine
+p83
+I1
+sVfirearm
+p84
+I1
+sVhood
+p85
+I1
+sVquit
+p86
+I1
+sVtwo
+p87
+I1
+sVcent
+p88
+I1
+sVstart
+p89
+I16
+sVlive
+p90
+I1
+sVmuch
+p91
+I1
+sVdamn
+p92
+I10
+sVtell
+p93
+I1
+sVback
+p94
+I4
+sVbuy
+p95
+I1
+sVriot
+p96
+I18
+sVthatthat
+p97
+I1
+sVgat
+p98
+I1
+sVabout
+p99
+I1
+sVsnitching
+p100
+I1
+sVfuck
+p101
+I3
+sVphone
+p102
+I1
+sVchild
+p103
+I1
+sVeat
+p104
+I1
+sVme
+p105
+I1
+sVwide
+p106
+I1
+sVlook
+p107
+I2
+sVniggas
+p108
+I11
+sVcripping
+p109
+I1
+sVwork
+p110
+I1
+sVvoice
+p111
+I1
+sVpack
+p112
+I1
+sVgone
+p113
+I1
+sVgive
+p114
+I1
+sVvicelords
+p115
+I1
+sVit
+p116
+I4
+sVsay
+p117
+I5
+sVim
+p118
+I23
+sVsomething
+p119
+I1
+sVin
+p120
+I1
+sVbreakfast
+p121
+I1
+sVshit
+p122
+I3
+sVsippin
+p123
+I1
+sVcourt
+p124
+I1
+sVlame
+p125
+I6
+sVwhoo
+p126
+I1
+sV223s
+p127
+I1
+sVfire
+p128
+I1
+sVgrain
+p129
+I1
+sVtity
+p130
+I1
+sVtalkin
+p131
+I1
+sVbitching
+p132
+I1
+sVbitches
+p133
+I1
+sVstay
+p134
+I1
+sVpimps
+p135
+I1
+sVcodes
+p136
+I1
+sVmouth
+p137
+I1
+sVblood
+p138
+I1
+sVfucked
+p139
+I1
+sVbottles
+p140
+I1
+sValligators
+p141
+I1
+sVlap
+p142
+I1
+sVpull
+p143
+I1
+sVremix
+p144
+I2
+sVwhole
+p145
+I1
+sVlater
+p146
+I1
+sVcodeine
+p147
+I1
+sVface
+p148
+I1
+sVextras
+p149
+I1
+sVsets
+p150
+I1
+sVnecklace
+p151
+I1
+sVstacks
+p152
+I1
+sVpreference
+p153
+I1
+s.

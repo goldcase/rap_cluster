@@ -1,61 +1,512 @@
-"full of that shit" lyrics
-snoop dogg lyrics
-"full of that shit"
-the boss in the building, feeling so cold
-if this was houston i'd be feeling so throwed
-i'mma stand up, you better man up
-who going home with dogg?
-put your hands up
-puff pass and slide, you know the deal ho
-i'm 10 shots in, that's on the real though
-i got money love, and i ain't never scared
-watch your bitch mayne, it's pimping everywhere
-i got a lot of bad ones, yeah you see the troops
-they get to popping off, until they see it's snoop
-i'm loc'd out, the vodka all in me
-baby got the henney, and we from rolling twenties
-turn it up boy, high as a bitch too
-that obama kush, that'll fix you
-you better get em' mayne, i'm fucking all chicks
-i'm off the wall bitch, i'm full of that shit
-if you see me in the club and you know i'm turnt up
-but your bitch keep looking at me
-yeah you better tell her keep her eyes on the motherfucking prize
-before you come fucking with me
-cause i'm full of that shit
-i'm full of that shit
-i'm full of that shit
-i'm full of that shit
-eyes so glassy
-bitch in the club, tryna harass me
-i'm a taxi
-i take her home, like a dog do
-and cover everything, like a fog do
-bottle after bottle, nigga i'm turnt up
-my eyes getting low, swisher burnt up
-these hoes on one, tryna press a player
-balling overseas, nigga i'm heavy there
-leaning to the side, mixing all drinks
-dubs up in here, like a gold mink
-this long beach bitch, d-o-double-g
-since 93', on top of v.i.p
-watch your look mayne, the stare make it worse
-i understand i'm famous, but i'm a gangster first
-you better get him mayne, i'll beat his ass quick
-i'm off the wall bitch, i'm full of that shit
-got my rag hanging, like snoopy do
-sound like a hater, like snoopy who?
-the homies all in, niggas deep as fuck
-super s with vodka, niggas creeping up
-fire it up, go on pass it round
-i smell the kush fool, i'm like a basset hound
-yeah i'm rich, nigga and what?
-still 'd up, nigga that's what's up
-pour some more in, cause i can handle that
-i'm in a pontiac, she said where the phantom at
-bitch you got me fucked up
-i do this for me, i don't do it for any slut
-like a b i don't do this for any butt
-i do this for the c, and my niggas up in the cut
-it's snoopy d-o-g and i turn it up in the club
-i'm high as a bitch, and full of that shit
+(dp1
+Vtaxi
+p2
+I1
+sVhouston
+p3
+I1
+sVsuper
+p4
+I1
+sVlyrics
+p5
+I2
+sVchicks
+p6
+I1
+sVmoney
+p7
+I1
+sVmixing
+p8
+I1
+sVhanging
+p9
+I1
+sVgo
+p10
+I1
+sVwhats
+p11
+I1
+sVcold
+p12
+I1
+sVstill
+p13
+I1
+sVaint
+p14
+I1
+sVcut
+p15
+I1
+sVgold
+p16
+I1
+sVimma
+p17
+I1
+sVfix
+p18
+I1
+sVbetter
+p19
+I4
+sVgoing
+p20
+I1
+sVrich
+p21
+I1
+sVhomies
+p22
+I1
+sVround
+p23
+I1
+sVhater
+p24
+I1
+sVreal
+p25
+I1
+sVdo
+p26
+I3
+sVhandle
+p27
+I1
+sVworse
+p28
+I1
+sVfire
+p29
+I1
+sVget
+p30
+I3
+sVbeat
+p31
+I1
+sVwatch
+p32
+I2
+sVfamous
+p33
+I1
+sVones
+p34
+I1
+sVknow
+p35
+I2
+sVsnoopy
+p36
+I3
+sVhands
+p37
+I1
+sVpress
+p38
+I1
+sVburnt
+p39
+I1
+sVlike
+p40
+I8
+sVthrowed
+p41
+I1
+sVprize
+p42
+I1
+sVsmell
+p43
+I1
+sVturnt
+p44
+I2
+sVbad
+p45
+I1
+sVshots
+p46
+I1
+sVquick
+p47
+I1
+sVside
+p48
+I1
+sVem
+p49
+I1
+sVglassy
+p50
+I1
+sVdeal
+p51
+I1
+sVfucking
+p52
+I2
+sVscared
+p53
+I1
+sVyeah
+p54
+I3
+sVd
+I1
+sVgangster
+p55
+I1
+sVsee
+p56
+I3
+sVpass
+p57
+I2
+sVhome
+p58
+I2
+sVheavy
+p59
+I1
+sVpopping
+p60
+I1
+sVdrinks
+p61
+I1
+sVwhat
+p62
+I1
+sVsaid
+p63
+I1
+sVsince
+p64
+I1
+sVslide
+p65
+I1
+sVlooking
+p66
+I1
+sVeverything
+p67
+I1
+sVfog
+p68
+I1
+sVbasset
+p69
+I1
+sVgot
+p70
+I5
+sVcause
+p71
+I2
+sVass
+p72
+I1
+sVfull
+p73
+I9
+sVnever
+p74
+I1
+sVmayne
+p75
+I4
+sVslut
+p76
+I1
+sVboss
+p77
+I1
+sVput
+p78
+I1
+sVcome
+p79
+I1
+sVboy
+p80
+I1
+sVc
+I1
+sVgetting
+p81
+I1
+sVpimping
+p82
+I1
+sVill
+p83
+I1
+sVkeep
+p84
+I2
+sVturn
+p85
+I2
+sVharass
+p86
+I1
+sVstand
+p87
+I1
+sVpuff
+p88
+I1
+sVthats
+p89
+I2
+sVhenney
+p90
+I1
+sVlove
+p91
+I1
+sVdont
+p92
+I2
+sVwall
+p93
+I2
+sVone
+p94
+I1
+sVfucked
+p95
+I1
+sVvip
+p96
+I1
+sVnigga
+p97
+I4
+sVbitch
+p98
+I9
+sVfool
+p99
+I1
+sVstare
+p100
+I1
+sVtroops
+p101
+I1
+sVsnoop
+p102
+I2
+sVdogg
+p103
+I2
+sVtop
+p104
+I1
+sVthere
+p105
+I1
+sVlong
+p106
+I1
+sVtwenties
+p107
+I1
+sVtoo
+p108
+I1
+sVlot
+p109
+I1
+sVtell
+p110
+I1
+sVlow
+p111
+I1
+sVtryna
+p112
+I2
+sVeyes
+p113
+I3
+sVthat
+p114
+I1
+sVclub
+p115
+I3
+sVeverywhere
+p116
+I1
+sVho
+p117
+I1
+sVbutt
+p118
+I1
+sVbaby
+p119
+I1
+sV93
+p120
+I1
+sVobama
+p121
+I1
+sVme
+p122
+I4
+sV10
+p123
+I1
+sVb
+I1
+sVlook
+p124
+I1
+sVniggas
+p125
+I3
+sVmotherfucking
+p126
+I1
+sVup
+p127
+I8
+sVpour
+p128
+I1
+sVleaning
+p129
+I1
+sVfeeling
+p130
+I2
+sVcreeping
+p131
+I1
+sVrag
+p132
+I1
+sVvodka
+p133
+I2
+sVmink
+p134
+I1
+sVthatll
+p135
+I1
+sVlocd
+p136
+I1
+sVhoes
+p137
+I1
+sVfuck
+p138
+I1
+sVdeep
+p139
+I1
+sVhigh
+p140
+I2
+sVplayer
+p141
+I1
+sVim
+p142
+I21
+sVat
+p143
+I1
+sVhound
+p144
+I1
+sVid
+p145
+I1
+sVshit
+p146
+I9
+sVphantom
+p147
+I1
+sVkush
+p148
+I2
+sVmake
+p149
+I1
+sVballing
+p150
+I1
+sVswisher
+p151
+I1
+sVsound
+p152
+I1
+sVtake
+p153
+I1
+sVyou
+p154
+I1
+sVbeach
+p155
+I1
+sVpontiac
+p156
+I1
+sVthough
+p157
+I1
+sVdodoubleg
+p158
+I1
+sVwho
+p159
+I1
+sVdubs
+p160
+I1
+sVrolling
+p161
+I1
+sVman
+p162
+I1
+sVbuilding
+p163
+I1
+sVcover
+p164
+I1
+sVdog
+p165
+I2
+sVbottle
+p166
+I2
+sVunderstand
+p167
+I1
+sVoverseas
+p168
+I1
+sVfirst
+p169
+I1
+s.

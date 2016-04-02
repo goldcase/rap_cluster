@@ -1,27 +1,103 @@
-ill fly away lyrics
-kanye west lyrics
-ill fly away
-glad morning life over
-ill fly away
-home gods celestial shore
-ill fly away
-ill fly away o glory
-ill fly away
-die hallelujah bye bye
-ill fly away
-shadows life flown
-ill fly away
-like bird thrown driven storm
-ill fly away
-ill fly away o glory
-ill fly away
-die hallelujah bye bye
-ill fly away
-weary days then
-ill fly away
-land joy shall never end
-ill fly away
-ill fly away o glory
-ill fly away
-die hallelujah bye bye
-ill fly away
+(dp1
+Vcelestial
+p2
+I1
+sVlyrics
+p3
+I2
+sVthen
+p4
+I1
+sVgods
+p5
+I1
+sVover
+p6
+I1
+sVkanye
+p7
+I1
+sVhome
+p8
+I1
+sVend
+p9
+I1
+sVwest
+p10
+I1
+sVaway
+p11
+I17
+sVstorm
+p12
+I1
+sVbye
+p13
+I6
+sVbird
+p14
+I1
+sVshadows
+p15
+I1
+sVlife
+p16
+I2
+sVshall
+p17
+I1
+sVjoy
+p18
+I1
+sVnever
+p19
+I1
+sVweary
+p20
+I1
+sVdriven
+p21
+I1
+sVflown
+p22
+I1
+sVthrown
+p23
+I1
+sVglad
+p24
+I1
+sVfly
+p25
+I17
+sVland
+p26
+I1
+sVlike
+p27
+I1
+sVglory
+p28
+I3
+sVdie
+p29
+I3
+sVill
+p30
+I17
+sVdays
+p31
+I1
+sVo
+I3
+sVmorning
+p32
+I1
+sVshore
+p33
+I1
+sVhallelujah
+p34
+I3
+s.

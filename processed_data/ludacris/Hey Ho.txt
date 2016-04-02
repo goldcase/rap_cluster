@@ -1,62 +1,475 @@
-"hey ho" lyrics
-ludacris lyrics
-"hey ho"
-(feat. lil kim and lil fate)
-if men sleep around we some players but for women
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-now i be riding in my bentley coupe stuntin with the top down
-four 24 inch rims so heavy they hold the block down
-24 carrot necklace so heavy it hurt my neck
-3 things you can’t take away from me, money, power and respect
-i got it and hold on to it you knew that i never let it go
-you prostitute it but money i never let it ho
-speakin of hoe’s oh yes we meet em and we g’ em dude
-and we may see em but we wouldn’t want to be em dude
-i put my fist up, i got the power girl
-i wash my nuts off, go take a shower girl
-it’s been an hour girl, it’s time to go
-and if my neighbour see you while you walking out my door (hey ho)
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-they be saying hey ho
-can’t nobody do it like kim
-only women that can do it like men
-vvs is be them gems
-(ho, now count that)
-my money coming in
-bringing them corners on them rims
-so play the check book tell me how do you bounce that
-i bounce into position like i am vinegar kama sutra
-but money make me come, go and ask luda
-and women cheat better than men we don’t disturb them
-my motto is "what they don’t know won’t hurt them"
-we just do it like you do, see the roles done switched
-if i’m a ho you’s a ho, if i’m a bitch you’s a bitch
-know that i’ma stay rich so fella’s do what you do
-cause you don’t fuck us niggas we fuck you
-(hey ho)
-now we saying (hey ho)
-now we saying (hey ho)
-now we saying (hey ho)
-now we saying (hey ho)
-now we saying (hey ho)
-if men sleep around we some players but for women they be saying...
-if men sleep around we some players but for women they be saying...
-she likes the night lights, brights lights, big spending
-lil fate been big pimpin, pimpin
-so don’t be mad at my raps and try and look at me funny
-cause you know that most you ladies trading sex for money
-so if you coming out the pocket then you might get laid
-thats how the rent car no the cell phone get paid
-i bet the snakes all show once you cut that grass
-and i’m a pimp so it’s time that i exploit they ass
-you see it’s hoes after the party it’s hoes after the show
-it’s hoes up in the lobby, it’s hoes out on the stroll
-here’s some no dough, no dough no sleep
-ho on your feet, if you don’t work you don’t eat
+(dp1
+Vsaying
+p2
+I17
+sVwalking
+p3
+I1
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVcheat
+p6
+I1
+sVmoney
+p7
+I5
+sVfour
+p8
+I1
+sVsleep
+p9
+I4
+sVgo
+p10
+I4
+sVyes
+p11
+I1
+sVfeat
+p12
+I1
+sV24
+p13
+I2
+sVcut
+p14
+I1
+sVlikes
+p15
+I1
+sVwon\u2019t
+p16
+I1
+sVit\u2019s
+p17
+I7
+sVlaid
+p18
+I1
+sVeat
+p19
+I1
+sVbetter
+p20
+I1
+sVrich
+p21
+I1
+sVriding
+p22
+I1
+sVmight
+p23
+I1
+sVdo
+p24
+I1
+sVthem
+p25
+I2
+sVaround
+p26
+I3
+sVfate
+p27
+I2
+sVget
+p28
+I2
+sVi\u2019m
+p29
+I3
+sVbig
+p30
+I2
+sVpocket
+p31
+I1
+sVknow
+p32
+I3
+sVbringing
+p33
+I1
+sVstroll
+p34
+I1
+sVhere\u2019s
+p35
+I1
+sVfeet
+p36
+I1
+sVdisturb
+p37
+I1
+sVswitched
+p38
+I1
+sVlike
+p39
+I4
+sVpimp
+p40
+I1
+sVwash
+p41
+I1
+sVcorners
+p42
+I1
+sVg\u2019
+p43
+I1
+sVtry
+p44
+I1
+sVnight
+p45
+I1
+sVdough
+p46
+I2
+sVbitch
+p47
+I2
+sVheavy
+p48
+I2
+sVass
+p49
+I1
+sVsnakes
+p50
+I1
+sVbentley
+p51
+I1
+sVsutra
+p52
+I1
+sVbounce
+p53
+I2
+sVsex
+p54
+I1
+sVsee
+p55
+I4
+sVtrading
+p56
+I1
+sVfist
+p57
+I1
+sVhoes
+p58
+I4
+sVgirl
+p59
+I3
+sVyou\u2019s
+p60
+I2
+sVaway
+p61
+I1
+sVcell
+p62
+I1
+sVlights
+p63
+I2
+sV3
+I1
+sVgot
+p64
+I2
+sVcause
+p65
+I2
+sVcan\u2019t
+p66
+I2
+sVgems
+p67
+I1
+sVkama
+p68
+I1
+sVnever
+p69
+I2
+sVpower
+p70
+I2
+sVrims
+p71
+I2
+sVmen
+p72
+I5
+sVlet
+p73
+I2
+sVput
+p74
+I1
+sVmotto
+p75
+I1
+sVspeakin
+p76
+I1
+sVstuntin
+p77
+I1
+sVvinegar
+p78
+I1
+sVoh
+p79
+I1
+sVfella\u2019s
+p80
+I1
+sVask
+p81
+I1
+sVplayers
+p82
+I3
+sVblock
+p83
+I1
+sVthats
+p84
+I1
+sVem
+p85
+I4
+sVladies
+p86
+I1
+sVdown
+p87
+I2
+sVwouldn\u2019t
+p88
+I1
+sVexploit
+p89
+I1
+sVdone
+p90
+I1
+sVroles
+p91
+I1
+sVrespect
+p92
+I1
+sVspending
+p93
+I1
+sVcome
+p94
+I1
+sVtop
+p95
+I1
+sVdude
+p96
+I2
+sVhey
+p97
+I19
+sVcoupe
+p98
+I1
+sVdon\u2019t
+p99
+I6
+sVshow
+p100
+I2
+sVtell
+p101
+I1
+sVdoor
+p102
+I1
+sVpimpin
+p103
+I2
+sVthat
+p104
+I2
+sVbrights
+p105
+I1
+sVnobody
+p106
+I1
+sVhurt
+p107
+I2
+sVneighbour
+p108
+I1
+sVphone
+p109
+I1
+sVho
+p110
+I24
+sVhold
+p111
+I2
+sVhoe\u2019s
+p112
+I1
+sVwomen
+p113
+I5
+sVcount
+p114
+I1
+sVlook
+p115
+I1
+sVhour
+p116
+I1
+sVniggas
+p117
+I1
+sVcar
+p118
+I1
+sVwork
+p119
+I1
+sVus
+p120
+I1
+sVshower
+p121
+I1
+sVmeet
+p122
+I1
+sVgrass
+p123
+I1
+sVbet
+p124
+I1
+sVluda
+p125
+I1
+sVraps
+p126
+I1
+sVfuck
+p127
+I2
+sVcarrot
+p128
+I1
+sVrent
+p129
+I1
+sVwant
+p130
+I1
+sVin
+p131
+I1
+sVcheck
+p132
+I1
+sVfunny
+p133
+I1
+sVlil
+p134
+I3
+sVthings
+p135
+I1
+sVmake
+p136
+I1
+sVnuts
+p137
+I1
+sVbook
+p138
+I1
+sVtake
+p139
+I2
+sVinch
+p140
+I1
+sVparty
+p141
+I1
+sVyou
+p142
+I1
+sVplay
+p143
+I1
+sVi\u2019ma
+p144
+I1
+sVmay
+p145
+I1
+sVknew
+p146
+I1
+sVvvs
+p147
+I1
+sVpaid
+p148
+I1
+sVstay
+p149
+I1
+sVmad
+p150
+I1
+sVkim
+p151
+I2
+sVcoming
+p152
+I2
+sVlobby
+p153
+I1
+sVprostitute
+p154
+I1
+sVneck
+p155
+I1
+sVtime
+p156
+I2
+sVnecklace
+p157
+I1
+sVposition
+p158
+I1
+s.

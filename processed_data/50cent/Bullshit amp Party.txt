@@ -1,51 +1,320 @@
-"bullshit & party" lyrics
-50 cent lyrics
-"bullshit & party"
-(with david guetta)
-all we do is bullshit and party then bullshit some more
-all we do is bullshit then party around the globe on world tour
-that’s that bullshit, let’s party
-that’s that bullshit, let’s party
-look bitch its 50, you know its hot
-number one on the billboard spot
-you must be high saying it’s not
-you must be drunk, you must be drunk
-i got guetta going ghetto now
-i suggest you don’t fuck around
-everybody know how i get down, you know how i get down
-all we do is bullshit and party then bullshit some more
-all we do is bullshit then party around the globe on world tour
-that’s that bullshit, let’s party
-that’s that bullshit, let’s party
-man i get the club jumping, yea it’s nothing
-i do this all the time
-now bartender bring 10 bottles i’m ballin’ out of my mind
-wait the bitches on me, bitch get off me
-you fucking up the flo’ you got the go
-don’t trip, don’t trip, this that certified rich nigga shit
-sound like a tech over techno (it’s on)
-from new york its sexual (it’s on)
-give it yo you from the get go (it’s on)
-every position (it’s on)
-girl slow it down, matter of fact turn around
-back it up, break it down, you know how we get down
-all we do is bullshit and party then bullshit some more
-all we do is bullshit then party around the globe on world tour
-that’s that bullshit, let’s party
-that’s that bullshit, let’s party
-till the sun come up, till we all fucked up, till the champagne gone
-this is celebration, till the music stop, and the lights come on
-till everybody gone, where’s everybody gone to?
-to my house, it’s the after party, better grab somebody
-come and move your body, now let’s make a toast
-to success, you’re my guest i’m your host, 50
-sound like a tech over techno (it’s on)
-from new york its sexual (it’s on)
-give it yo you from the get go (it’s on)
-every position (it’s on)
-girl slow it down, matter of fact turn around
-back it up, break it down, you know how we get down
-all we do is bullshit and party then bullshit some more
-all we do is bullshit and party run the globe on world tour
-that’s that bullshit, let’s party
-that’s that bullshit, let’s party
+(dp1
+Vsaying
+p2
+I1
+sVlyrics
+p3
+I2
+sVyea
+p4
+I1
+sVmove
+p5
+I1
+sVbring
+p6
+I1
+sVgo
+p7
+I3
+sVtoast
+p8
+I1
+sVslow
+p9
+I2
+sVit\u2019s
+p10
+I11
+sVbetter
+p11
+I1
+sVto
+p12
+I1
+sVgoing
+p13
+I1
+sVrich
+p14
+I1
+sVme
+p15
+I1
+sVsomebody
+p16
+I1
+sVaround
+p17
+I6
+sVyo
+p18
+I2
+sVget
+p19
+I8
+sVi\u2019m
+p20
+I2
+sVstop
+p21
+I1
+sVbreak
+p22
+I2
+sVevery
+p23
+I2
+sVknow
+p24
+I5
+sVgot
+p25
+I2
+sVnot
+p26
+I1
+sVworld
+p27
+I4
+sVnow
+p28
+I1
+sVbullshit
+p29
+I22
+sVghetto
+p30
+I1
+sVlet\u2019s
+p31
+I9
+sVlike
+p32
+I2
+sVsuccess
+p33
+I1
+sV50
+p34
+I3
+sVgrab
+p35
+I1
+sVnigga
+p36
+I1
+sVfucking
+p37
+I1
+sVhouse
+p38
+I1
+sVglobe
+p39
+I4
+sVback
+p40
+I2
+sVyou\u2019re
+p41
+I1
+sVbillboard
+p42
+I1
+sVgirl
+p43
+I2
+sVsexual
+p44
+I2
+sVsun
+p45
+I1
+sVlights
+p46
+I1
+sVnew
+p47
+I2
+sVchampagne
+p48
+I1
+sVbody
+p49
+I1
+sVrun
+p50
+I1
+sVhost
+p51
+I1
+sVtechno
+p52
+I2
+sVyork
+p53
+I2
+sVcome
+p54
+I3
+sVcertified
+p55
+I1
+sVwait
+p56
+I1
+sVon
+p57
+I9
+sVdavid
+p58
+I1
+sVturn
+p59
+I2
+sVtour
+p60
+I4
+sVdrunk
+p61
+I2
+sVguetta
+p62
+I2
+sVnumber
+p63
+I1
+sVone
+p64
+I1
+sVdown
+p65
+I3
+sVfucked
+p66
+I1
+sVbitch
+p67
+I2
+sVeverybody
+p68
+I3
+sVguest
+p69
+I1
+sVcent
+p70
+I1
+sVmusic
+p71
+I1
+sVdon\u2019t
+p72
+I3
+sVcelebration
+p73
+I1
+sVmore
+p74
+I4
+sVclub
+p75
+I1
+sVbitches
+p76
+I1
+sVmust
+p77
+I3
+sVsound
+p78
+I2
+sV10
+p79
+I1
+sVbartender
+p80
+I1
+sVlook
+p81
+I1
+sVmatter
+p82
+I2
+sVgone
+p83
+I3
+sVflo\u2019
+p84
+I1
+sVgive
+p85
+I2
+sVmind
+p86
+I1
+sVfuck
+p87
+I1
+sVhigh
+p88
+I1
+sVtrip
+p89
+I2
+sVshit
+p90
+I1
+sVbottles
+p91
+I1
+sVsuggest
+p92
+I1
+sVmake
+p93
+I1
+sVtill
+p94
+I5
+sVhot
+p95
+I1
+sVparty
+p96
+I19
+sVthat\u2019s
+p97
+I8
+sVspot
+p98
+I1
+sVballin\u2019
+p99
+I1
+sVjumping
+p100
+I1
+sVnothing
+p101
+I1
+sVman
+p102
+I1
+sVwhere\u2019s
+p103
+I1
+sVtech
+p104
+I2
+sVtime
+p105
+I1
+sVposition
+p106
+I2
+sVfact
+p107
+I2
+s.

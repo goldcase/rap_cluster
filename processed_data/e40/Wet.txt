@@ -1,99 +1,789 @@
-"wet" lyrics
-e-40 lyrics
-"wet"
-(feat. cousin fik & ya boy)
-i’m locked in
-i’m in a zone
-i’m blanking
-trainwreck got da whole room stanking
-i’m feeling like i’m ‘posed to be
-and sober is my enemy
-baileys n landy, that’s the remedy
-money and power that’s a friend of me
-chain licking like i'm mini-me
-campaigning like a kennedy
-they ain’t got no idea, where this finna be
-getcha wet make you sweat out your perm
-bay boy talk slicker than worm sperm
-i used to ride with yola in my drawers
-1970 cut less, wet as niagara falls
-i’m so wet i need a cloft (wipe me down)
-popo tryin' to dry a motherfucker off
-my hydroponics will make you cough
-off dat under water weed keep smoking like a bad exhaust
-you mad cause i got your bitch wetter than bed weather
-you have to dry like a sweater bro
-i’m the reason she left ya
-i threw a party in her mouth than we fucked on her mama’s couch
-now she fuckin witta boss she ain’t fuckin wit no slouch
-man i go bad like a bad tooth
-it’s real that i’m caught loose
-my 40 calibre is my ooze
-you game goofy motherfuckers is false man i’m the truth
-the proof
-respect
-a vet
-bootch!
-i get her (wet) – i get her (wet)
-i miss dat (wet) – i miss dat (wet)
-she say i’m (wet) – she say i’m (wet)
-burner on my hip
-nigga don’t get (wet)
-they gon’ have to hunt for me
-it’s something clean
-wetter than a submarine
-or sub-machine
-funds are mean yb got mad cash
-shittin on niggas just wait till the gas pass
-kush fillin' the room niggas need gas masks
-all blackjack 15’s kickin like van damme
-nigga on my momma we (wet) like a ocean
-say we ain’t the dopest
-nigga whatcha smoking
-gotta be da sherm
-if it ain’t money than it’s not in my concern
-money to blow, matter fact money to burn
-see her money is mines but my money ain’t hers
-flyest nigga standin on da corner of the curb
-cup full of grey goose, wrap full of herb
-always been a hustler
-fuck what you heard
-even outta school i had work like a nerd
-yb da rock star fly as a bird
-everybody know ya boy da shit like a turd
-pickin it up i know you see the pot ‘sturb
-the realest in the game you niggas imposters
-look…
-money is the password
-i never been a bastard
-i always been a master
-don’t believe me then ask her
-you ain’t getting cash then your life’s a disaster
-keep your foot on the gas
-quit fast, get casper
-i’m so proud and cocky
-can’t let you cowards stop me
-come through ’em cow and suck these
-with the shower posse
-and we all got tats
-pull up in your jacks
-and we will leave yo ass (wet)
-that’s a bet
-then i’m a jet
-cause i just got a text from my ex
-say she wanna have sex
-better yet she just gotta check
-then leave it up to me to collect
-i’ma have her in deck
-and she can’t even invest
-and yes
-i guess
-it’s on to the next
-fit the crown on my sweats
-threw the chrome in the lex
-left, now i’m on the phone with her best
-next, i’ma get some dome and leave her messed
-all these wet girls
-are prone to arrest
-cause they heavy a plus
-and they pussy be the best
+(dp1
+Vstandin
+p2
+I1
+sVsubmachine
+p3
+I1
+sVpussy
+p4
+I1
+sVlyrics
+p5
+I2
+sVless
+p6
+I1
+sVmoney
+p7
+I7
+sVslouch
+p8
+I1
+sVpopo
+p9
+I1
+sVsperm
+p10
+I1
+sVfoot
+p11
+I1
+sVtats
+p12
+I1
+sVcocky
+p13
+I1
+sVcasper
+p14
+I1
+sVgo
+p15
+I1
+sVcorner
+p16
+I1
+sVcurb
+p17
+I1
+sVfeat
+p18
+I1
+sVyet
+p19
+I1
+sVhustler
+p20
+I1
+sVblow
+p21
+I1
+sVmessed
+p22
+I1
+sVvet
+p23
+I1
+sVcut
+p24
+I1
+sVchain
+p25
+I1
+sVzone
+p26
+I1
+sV\u2018posed
+p27
+I1
+sVit\u2019s
+p28
+I4
+sVcalibre
+p29
+I1
+sVbetter
+p30
+I1
+sVarrest
+p31
+I1
+sVblanking
+p32
+I1
+sVwet
+p33
+I15
+sVfik
+p34
+I1
+sVex
+p35
+I1
+sVta
+p36
+I2
+sVreal
+p37
+I1
+sVfly
+p38
+I1
+sVyo
+p39
+I1
+sVget
+p40
+I5
+sVi\u2019m
+p41
+I14
+sVyb
+p42
+I2
+sVstop
+p43
+I1
+sVschool
+p44
+I1
+sVda
+p45
+I5
+sVdat
+p46
+I3
+sVremedy
+p47
+I1
+sVblackjack
+p48
+I1
+sVimposters
+p49
+I1
+sVlook\u2026
+p50
+I1
+sVpassword
+p51
+I1
+sVwipe
+p52
+I1
+sVenemy
+p53
+I1
+sVslicker
+p54
+I1
+sVlike
+p55
+I10
+sVkennedy
+p56
+I1
+sValways
+p57
+I2
+sVhunt
+p58
+I1
+sVlicking
+p59
+I1
+sVbay
+p60
+I1
+sVleave
+p61
+I3
+sVcollect
+p62
+I1
+sVbad
+p63
+I3
+sVwit
+p64
+I1
+sVtruth
+p65
+I1
+sVwhatcha
+p66
+I1
+sVride
+p67
+I1
+sVmean
+p68
+I1
+sVheavy
+p69
+I1
+sVass
+p70
+I1
+sVnigga
+p71
+I4
+sVyola
+p72
+I1
+sVfit
+p73
+I1
+sVcrown
+p74
+I1
+sVidea
+p75
+I1
+sVcash
+p76
+I2
+sVgoose
+p77
+I1
+sVwrap
+p78
+I1
+sV\u2013
+I3
+sVfull
+p79
+I2
+sVtrainwreck
+p80
+I1
+sVpass
+p81
+I1
+sVi\u2019ma
+p82
+I2
+sVfinna
+p83
+I1
+sVbest
+p84
+I2
+sVconcern
+p85
+I1
+sVeven
+p86
+I2
+sVshower
+p87
+I1
+sVwetter
+p88
+I2
+sVsweats
+p89
+I1
+sVwitta
+p90
+I1
+sVposse
+p91
+I1
+sVburner
+p92
+I1
+sVmines
+p93
+I1
+sVgoofy
+p94
+I1
+sVgot
+p95
+I8
+sVcause
+p96
+I3
+sVbird
+p97
+I1
+sVcan\u2019t
+p98
+I2
+sVbe
+p99
+I2
+sVburn
+p100
+I1
+sVpower
+p101
+I1
+sVwan
+p102
+I1
+sVherb
+p103
+I1
+sVrock
+p104
+I1
+sVloose
+p105
+I1
+sVmotherfucker
+p106
+I1
+sVbaileys
+p107
+I1
+sVboss
+p108
+I1
+sVwater
+p109
+I1
+sVreason
+p110
+I1
+sVlife\u2019s
+p111
+I1
+sVhers
+p112
+I1
+sVcousin
+p113
+I1
+sVcough
+p114
+I1
+sVcome
+p115
+I1
+sVwait
+p116
+I1
+sVdry
+p117
+I2
+sVboy
+p118
+I3
+sVjet
+p119
+I1
+sVcow
+p120
+I1
+sVgetting
+p121
+I1
+sVdeck
+p122
+I1
+sVcup
+p123
+I1
+sVask
+p124
+I1
+sVbro
+p125
+I1
+sVkeep
+p126
+I2
+sVdrawers
+p127
+I1
+sVplus
+p128
+I1
+sVsweat
+p129
+I1
+sVdopest
+p130
+I1
+sVturd
+p131
+I1
+sVwhole
+p132
+I1
+sVcaught
+p133
+I1
+sVfuckin
+p134
+I2
+sVbootch
+p135
+I1
+sVmotherfuckers
+p136
+I1
+sVminime
+p137
+I1
+sVlandy
+p138
+I1
+sVpot
+p139
+I1
+sVdown
+p140
+I1
+sVtill
+p141
+I1
+sVmomma
+p142
+I1
+sVweather
+p143
+I1
+sVbitch
+p144
+I1
+sVsober
+p145
+I1
+sVrespect
+p146
+I1
+sVmiss
+p147
+I2
+sVdome
+p148
+I1
+sVhydroponics
+p149
+I1
+sVeverybody
+p150
+I1
+sVquit
+p151
+I1
+sVguess
+p152
+I1
+sVfast
+p153
+I1
+sVvan
+p154
+I1
+sVher
+p155
+I1
+sVchrome
+p156
+I1
+sVsweater
+p157
+I1
+sVgirls
+p158
+I1
+sVperm
+p159
+I1
+sVnext
+p160
+I2
+sVcowards
+p161
+I1
+sVsubmarine
+p162
+I1
+sVmama\u2019s
+p163
+I1
+sVlex
+p164
+I1
+sVmaster
+p165
+I1
+sVdon\u2019t
+p166
+I2
+sVocean
+p167
+I1
+sVtryin
+p168
+I1
+sVfriend
+p169
+I1
+sVthrew
+p170
+I2
+sVprone
+p171
+I1
+sVyes
+p172
+I1
+sVoutta
+p173
+I1
+sVjacks
+p174
+I1
+sVgetcha
+p175
+I1
+sVfunds
+p176
+I1
+sVflyest
+p177
+I1
+sVgas
+p178
+I3
+sVkickin
+p179
+I1
+sVphone
+p180
+I1
+sVsherm
+p181
+I1
+sVdamme
+p182
+I1
+sVsmoking
+p183
+I2
+sVbelieve
+p184
+I1
+sVme
+p185
+I3
+sVpull
+p186
+I1
+sVe40
+p187
+I1
+sVlocked
+p188
+I1
+sVroom
+p189
+I2
+sVniggas
+p190
+I3
+sVthese
+p191
+I1
+sVain\u2019t
+p192
+I6
+sVwork
+p193
+I1
+sVsex
+p194
+I1
+sVworm
+p195
+I1
+sVbed
+p196
+I1
+sVn
+I1
+sV\u2018sturb
+p197
+I1
+sVmatter
+p198
+I1
+sVooze
+p199
+I1
+sVinvest
+p200
+I1
+sVniagara
+p201
+I1
+sVfeeling
+p202
+I1
+sVbet
+p203
+I1
+sVproof
+p204
+I1
+sVfillin
+p205
+I1
+sVhip
+p206
+I1
+sVfalse
+p207
+I1
+sVfuck
+p208
+I1
+sVgrey
+p209
+I1
+sVheard
+p210
+I1
+sVsay
+p211
+I4
+sVim
+p212
+I1
+sVsomething
+p213
+I1
+sVin
+p214
+I1
+sVneed
+p215
+I2
+sVcampaigning
+p216
+I1
+sVtooth
+p217
+I1
+sVnerd
+p218
+I1
+sVshit
+p219
+I1
+sVkush
+p220
+I1
+sVbastard
+p221
+I1
+sVlet
+p222
+I1
+sVfalls
+p223
+I1
+sVcheck
+p224
+I1
+sVna
+p225
+I1
+sVmake
+p226
+I2
+sVrealest
+p227
+I1
+sV40
+p228
+I1
+sVcouch
+p229
+I1
+sVya
+p230
+I3
+sV15\u2019s
+p231
+I1
+sVpickin
+p232
+I1
+sVparty
+p233
+I1
+sVdisaster
+p234
+I1
+sVexhaust
+p235
+I1
+sVused
+p236
+I1
+sVstar
+p237
+I1
+sVthat\u2019s
+p238
+I3
+sVsee
+p239
+I2
+sVmasks
+p240
+I1
+sVweed
+p241
+I1
+sVmouth
+p242
+I1
+sVmad
+p243
+I2
+sVnever
+p244
+I1
+sVfucked
+p245
+I1
+sVstanking
+p246
+I1
+sVsuck
+p247
+I1
+sV\u2019em
+p248
+I1
+sVman
+p249
+I2
+sVcloft
+p250
+I1
+sVoff
+p251
+I1
+sVshittin
+p252
+I1
+sVproud
+p253
+I1
+sVgame
+p254
+I2
+sVknow
+p255
+I2
+sV1970
+p256
+I1
+sVtext
+p257
+I1
+sVfact
+p258
+I1
+sVclean
+p259
+I1
+sVgon\u2019
+p260
+I1
+sVtalk
+p261
+I1
+sVleft
+p262
+I2
+s.

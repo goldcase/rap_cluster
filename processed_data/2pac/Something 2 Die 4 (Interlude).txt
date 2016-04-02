@@ -1,45 +1,228 @@
-"something 2 die 4 (interlude)" lyrics
-2pac lyrics
-"something 2 die 4 (interlude)"
-i've changed...
-you mothafuckas kill me
-i've changed...
-it ain't that i've changed
-but it's strange how you mothafuckas rearrange
-when i found fame
-point ya finger at tha bad guy
-you know what my momma usta tell me
-if ya can't find something ta live 4
-then you best, find something ta die 4
-(eazy saying 'if there's hell below, we're all gonna
-go'--this is all through out tha interlude)
-deep deep
-la'tasha hardings
-remember that name...
-cause a bottle of juice...
-ain't something 2 die 4
-young quaid
-remember that name...
-cause all you mothafuckas
-that go to your grave with that name on your brain
-cause jelousy and recklousness
-is not, something 2 die 4
-all you niggas out there
-got a crack that crumbles
-when i say all you niggas (all you niggas)
-unite
-one nigga, teach 2 niggas
-4 niggas teach more niggas
-all tha poor niggas
-tha penn niggas
-tha rich niggas
-tha strong niggas
-unite
-there's more of us than there is of them
-look around...
-check your strip
-deep deep
-that's something 2 die 4
-black
-that's something 2 live 4
-what do i know?
+(dp1
+Vive
+p2
+I3
+sVcheck
+p3
+I1
+sVthere
+p4
+I1
+sVgothis
+p5
+I1
+sVlyrics
+p6
+I2
+sVpoint
+p7
+I1
+sVfind
+p8
+I2
+sVeazy
+p9
+I1
+sVdeep
+p10
+I4
+sVone
+p11
+I1
+sVjuice
+p12
+I1
+sVmomma
+p13
+I1
+sVnigga
+p14
+I1
+sVkill
+p15
+I1
+sVsomething
+p16
+I8
+sVstrip
+p17
+I1
+sVgo
+p18
+I1
+sVhell
+p19
+I1
+sVfame
+p20
+I1
+sVbest
+p21
+I1
+sVaint
+p22
+I2
+sVgon
+p23
+I1
+sVlatasha
+p24
+I1
+sVgrave
+p25
+I1
+sVna
+p26
+I1
+sVmothafuckas
+p27
+I3
+sVyoung
+p28
+I1
+sVunite
+p29
+I2
+sVinterlude
+p30
+I3
+sVlive
+p31
+I2
+sVstrange
+p32
+I1
+sVblack
+p33
+I1
+sVfinger
+p34
+I1
+sVrich
+p35
+I1
+sVcrack
+p36
+I1
+sVgot
+p37
+I1
+sVcause
+p38
+I3
+sVtell
+p39
+I1
+sV4
+I9
+sVpoor
+p40
+I1
+sVthem
+p41
+I1
+sVsaying
+p42
+I1
+sVaround
+p43
+I1
+sVya
+p44
+I2
+sVrearrange
+p45
+I1
+sVcrumbles
+p46
+I1
+sVbrain
+p47
+I1
+sVknow
+p48
+I2
+sVpenn
+p49
+I1
+sVsay
+p50
+I1
+sV2
+I7
+sVteach
+p51
+I2
+sVstrong
+p52
+I1
+sVjelousy
+p53
+I1
+sV2pac
+p54
+I1
+sVname
+p55
+I3
+sVme
+p56
+I2
+sVniggas
+p57
+I10
+sVremember
+p58
+I2
+sVquaid
+p59
+I1
+sVdie
+p60
+I6
+sVchanged
+p61
+I3
+sVcant
+p62
+I1
+sVus
+p63
+I1
+sVthats
+p64
+I2
+sVlook
+p65
+I1
+sVbad
+p66
+I1
+sVusta
+p67
+I1
+sVbottle
+p68
+I1
+sVrecklousness
+p69
+I1
+sVhardings
+p70
+I1
+sVfound
+p71
+I1
+sVguy
+p72
+I1
+sVta
+p73
+I2
+sVtha
+p74
+I6
+sVtheres
+p75
+I2
+s.

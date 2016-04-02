@@ -1,85 +1,596 @@
-"smoke" lyrics
-50 cent lyrics
-"smoke"
-(feat. trey songz)
-somebody pull the fire alarm, girl, where you from?
-cause you got this club on fire and outside i bet all they smell is smoke
-(all they smell is smoke)
-the way your body roll i'ma lose control
-cause you got this club on fire and outside i bet all they smell is smoke
-(all they smell is smoke)
-pink diamonds, pink sand, beaches aruba
-blue sapphires on days when she feeling hoover
-she hood and in the mood when i'm in the mood
-erotic, so exotic, i'm psychotic about it
-i don't want forever, i just wanna taste her love sample
-that product, i bet a nigga tongue go numb
-she's a narcotic, that bomb shit burning, we smoking
-my old flame, my mary jane, we got a love thing
-she ain't jealous, i keep nina around
-in the small of my back in case some shit go down
-right under my hermes, i'm hearing the word is
-me, i'm a p.i.m.p
-i let trey hit some, then dre hit some
-then pass it to the homies 'til we all get done
-niggas can't comprehend what this shit 'bout
-police coming, you like, put this shit out
-you like smoke and you got me high
-(you make a nigga want to get down)
-high (high feeling like i'm up in a cloud)
-girl what the fuck you done to me
-you got me feeling like you just rolled up for me
-you're like smoke
-and you got me high
-(so high make your love come down)
-high (one time have that ass turnt out)
-girl what the fuck you've done to me?
-you got me feeling like you just rolled up for me
-you're like smoke
-shawty hot, she full blown, she hot now
-100 degrees, that's with or without the top down
-but when she get to working her hips you know the temperature rise
-oh lord, soon as she see the dick in her thighs
-she like the stones in my cross, she flawless
-i'm thinking damn, why would god give one woman all this?
-you know i got the kind of conversation that make her feel like she need me
-it's complicated, my occupation pimping ain't easy
-facts, i stack racks on racks and racks
-back when i was pumping crack, now my cards are black
-nigga get on my level, bark with the big dogs
-if i want it i buy it, i don't care what this shit costs
-luther said it: a house is not a home without her
-i had them panties on the grey hound filled up with powder
-but what she showed what she'll do for me has no limits
-her wantin is temporary cause fo' sho' she gon' get it
-what's up?
-you like smoke and you got me high
-(you make a nigga want to get down)
-high (high feeling like i'm up in a cloud)
-girl what the fuck you done to me
-you got me feeling like you just rolled up for me
-you're like smoke
-and you got me high
-(so high make your love come down)
-high (one time have that ass turnt out)
-girl what the fuck you've done to me?
-you got me feeling like you just rolled up for me
-you're like smoke
-everybody showing the love when she at the door
-turn this bitch down, that's fire in the hole
-i'm trying to get it and hit it, i don't wanna pass that
-got me addicted, i'm tripping, where the stash at?
-baby, baby, don't you know?
-baby, baby, you're just like smoke
-you like smoke and you got me high
-(you make a nigga want to get down)
-high (high feeling like i'm up in a cloud)
-girl what the fuck you done to me
-you got me feeling like you just rolled up for me
-you're like smoke
-and you got me high
-(so high make your love come down)
-high (one time have that ass turnt out)
-girl what the fuck you've done to me?
-you got me feeling like you just rolled up for me
-you're like smoke
+(dp1
+Vstones
+p2
+I1
+sVbomb
+p3
+I1
+sVlyrics
+p4
+I2
+sVsoon
+p5
+I1
+sVnarcotic
+p6
+I1
+sVgo
+p7
+I2
+sVwhats
+p8
+I1
+sVconversation
+p9
+I1
+sVfeat
+p10
+I1
+sVoccupation
+p11
+I1
+sVima
+p12
+I1
+sVnow
+p13
+I1
+sVpolice
+p14
+I1
+sVthinking
+p15
+I1
+sVdick
+p16
+I1
+sVhot
+p17
+I2
+sVcomprehend
+p18
+I1
+sVaruba
+p19
+I1
+sVeasy
+p20
+I1
+sVhomies
+p21
+I1
+sVlord
+p22
+I1
+sVbout
+p23
+I1
+sVme
+p24
+I13
+sVwoman
+p25
+I1
+sVsomebody
+p26
+I1
+sVaround
+p27
+I1
+sVget
+p28
+I8
+sVbig
+p29
+I1
+sVshowing
+p30
+I1
+sVrise
+p31
+I1
+sVknow
+p32
+I3
+sVone
+p33
+I4
+sVlike
+p34
+I22
+sVpimp
+p35
+I1
+sVlevel
+p36
+I1
+sV50
+p37
+I1
+sVturnt
+p38
+I3
+sVsand
+p39
+I1
+sVthighs
+p40
+I1
+sVlose
+p41
+I1
+sVsmall
+p42
+I1
+sVblack
+p43
+I1
+sVass
+p44
+I3
+sVnigga
+p45
+I5
+sVold
+p46
+I1
+sVhouse
+p47
+I1
+sVsome
+p48
+I1
+sVback
+p49
+I2
+sVgrey
+p50
+I1
+sVfacts
+p51
+I1
+sVerotic
+p52
+I1
+sVshes
+p53
+I1
+sVpass
+p54
+I2
+sVhome
+p55
+I1
+sVgirl
+p56
+I7
+sVout
+p57
+I4
+sVblue
+p58
+I1
+sVtrey
+p59
+I2
+sVturn
+p60
+I1
+sVsaid
+p61
+I1
+sVmood
+p62
+I2
+sVgod
+p63
+I1
+sVoutside
+p64
+I2
+sVcloud
+p65
+I3
+sVdiamonds
+p66
+I1
+sVgot
+p67
+I17
+sVcause
+p68
+I3
+sVfilled
+p69
+I1
+sVbody
+p70
+I1
+sVaint
+p71
+I2
+sVfull
+p72
+I1
+sVrolled
+p73
+I6
+sVpumping
+p74
+I1
+sVaddicted
+p75
+I1
+sVlet
+p76
+I1
+sVput
+p77
+I1
+sV100
+p78
+I1
+sVhermes
+p79
+I1
+sVtripping
+p80
+I1
+sVbeaches
+p81
+I1
+sVcare
+p82
+I1
+sVluther
+p83
+I1
+sVwould
+p84
+I1
+sVlimits
+p85
+I1
+sVoh
+p86
+I1
+sVpimping
+p87
+I1
+sVdays
+p88
+I1
+sVkeep
+p89
+I1
+sVthing
+p90
+I1
+sVher
+p91
+I1
+sVsmoke
+p92
+I16
+sVyouve
+p93
+I3
+sVcomplicated
+p94
+I1
+sVtongue
+p95
+I1
+sVsho
+p96
+I1
+sVdre
+p97
+I1
+sVthats
+p98
+I2
+sVexotic
+p99
+I1
+sVsapphires
+p100
+I1
+sVlove
+p101
+I6
+sVdont
+p102
+I4
+sVburning
+p103
+I1
+sVblown
+p104
+I1
+sVfeel
+p105
+I1
+sVhearing
+p106
+I1
+sVdown
+p107
+I8
+sVright
+p108
+I1
+sVdone
+p109
+I7
+sVbitch
+p110
+I1
+sVhood
+p111
+I1
+sVeverybody
+p112
+I1
+sVwan
+p113
+I2
+sVfrom
+p114
+I1
+sVtemperature
+p115
+I1
+sVworking
+p116
+I1
+sVcome
+p117
+I3
+sVtop
+p118
+I1
+sVcent
+p119
+I1
+sVracks
+p120
+I3
+sVpsychotic
+p121
+I1
+sVdamn
+p122
+I1
+sVway
+p123
+I1
+sVjane
+p124
+I1
+sVdegrees
+p125
+I1
+sVmary
+p126
+I1
+sVbuy
+p127
+I1
+sVdoor
+p128
+I1
+sVthat
+p129
+I1
+sVclub
+p130
+I2
+sVcrack
+p131
+I1
+sVfuck
+p132
+I6
+sVbaby
+p133
+I4
+sVsmoking
+p134
+I1
+sVhole
+p135
+I1
+sVtrying
+p136
+I1
+sVcase
+p137
+I1
+sVpull
+p138
+I1
+sVkind
+p139
+I1
+sVword
+p140
+I1
+sVshowed
+p141
+I1
+sVniggas
+p142
+I1
+sVthis
+p143
+I1
+sVsee
+p144
+I1
+sVdogs
+p145
+I1
+sVnina
+p146
+I1
+sVflame
+p147
+I1
+sVcards
+p148
+I1
+sVfeeling
+p149
+I10
+sVbet
+p150
+I3
+sVpowder
+p151
+I1
+sVcontrol
+p152
+I1
+sVgive
+p153
+I1
+sVtaste
+p154
+I1
+sVis
+p155
+I1
+sVit
+p156
+I2
+sVsample
+p157
+I1
+sVcant
+p158
+I1
+sVshell
+p159
+I1
+sVim
+p160
+I10
+sVat
+p161
+I1
+sVwant
+p162
+I5
+sVneed
+p163
+I1
+sVhit
+p164
+I3
+sVhound
+p165
+I1
+sVbark
+p166
+I1
+sVshit
+p167
+I5
+sVpink
+p168
+I2
+sVflawless
+p169
+I1
+sVna
+p170
+I2
+sVmake
+p171
+I7
+sVcross
+p172
+I1
+sVtil
+p173
+I1
+sVfire
+p174
+I4
+sVhigh
+p175
+I18
+sVcosts
+p176
+I1
+sVwantin
+p177
+I1
+sVshawty
+p178
+I1
+sVpanties
+p179
+I1
+sVsmell
+p180
+I4
+sVroll
+p181
+I1
+sVproduct
+p182
+I1
+sVhoover
+p183
+I1
+sVtemporary
+p184
+I1
+sVgon
+p185
+I1
+sVnumb
+p186
+I1
+sVcoming
+p187
+I1
+sVjealous
+p188
+I1
+sVstack
+p189
+I1
+sVfo
+p190
+I1
+sVforever
+p191
+I1
+sVup
+p192
+I1
+sValarm
+p193
+I1
+sVyoure
+p194
+I7
+sVstash
+p195
+I1
+sVwithout
+p196
+I2
+sVsongz
+p197
+I1
+sVtime
+p198
+I3
+sVhips
+p199
+I1
+s.

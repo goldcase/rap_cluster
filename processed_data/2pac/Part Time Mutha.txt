@@ -1,108 +1,686 @@
-"part time mutha" lyrics
-2pac lyrics
-"part time mutha"
-she's a part time
-a part time
-part time
-she's a (part time mutha)
-a part time
-a part time
-part time
-she's a (part time mutha)
-meet cindi, she's twenty-two, lives right on the dope track
-used to be fat now weighs less than a tic-tac
-now what's that say about, this big epidemic
-this hypocritical world, and the people in it
-now speaking of in it cindi loved to get buckwild
-fuck with a smile single file she'll bust nuff styles
-that would be cool, if she was your lover
-but fuck that, cindi was my dope fiend mother
-welfare checks never stepped through the front door
-cuz moms would run to the dopeman once more
-all those days, had me fiending for a hot meal
-now i'm a crook, got steel, i do not feel
-so don't even trip, when i flip, with my thirty-eight
-revenge is a bitch, and my hit shake the murder rate
-word to the mutha, i'm touched
-when moms come by, niggaz hush or get rushed
-maybe one day she'll recover
-but what will it take, to shake, or break
-my part time mutha
-i gotta live with a part time
-a part time
-a part time
-she's a (part time mutha)
-a part time
-a part time
-she's a (part time mutha)
-i grew up in a home where no-one liked me
-moms would hit the pipe, everynight, she would fight me
-poppa was a nasty old man, like the rest
-he's feeling on my chest, with his hand in my dress
-just another pest, and yes i was nervous
-blood sensor tests, i just don't deserve this
-i wanna tell mom, but would she listen
-she's bound to be bitchin if she hasn't got a fix in
-so... now i lay me down to sleep
-lord don't let him rape me
-if he does my soul to keep
-don't let the devil take me
-can't concentrate i contemplate in my classroom
-thinkin how my step dad, raped me in the bathroom
-every day i make class, and yet i'm missing periods
-the thought of pregnancy is in my head and now i'm fearing it
-i gotta tell mom, before she sees me
-i told her how he g'd me, and she didn't believe me
-callin me a slut cuz my butt's kinda big so
-still that ain't no way to be talkin to your kids though
-i can't believe the way you call it
-gotta believe in him, and dissin her own daughter
-time for me to break and find another
-that's when i discovered
-the ways of the days of a part time mutha
-i got a part time
-a part time
-a part time
-she's a (part time mutha)
-part time
-a part time
-a part time mutha
-she's a (part time mutha)
-i rush to tend her, talked as i touch her
-she blushed, the clothes came off, and i bust her
-i'm up now, ready to get drunk on the block
-here, take a cab, thanks a lot for the cot
-she's gone, and i'm thinkin that my game's so strong
-pat myself on the back and move on
-is this just how it is hell no
-cuz she came back with the kid and yo
-i been payin ever since
-the clothes the food the cars and oh the rent
-all of my time gets spent at the workplace
-no time to kiss her got me list in the first place
-so i do the dishes and clean the floor
-when i sleep i can't dream anymore
-oh no... now i'm a part time mutha
-and i, change the diapers and clean the shit
-the tables are turned i can't take this
-oh no... now i'm a part time mutha
-a part time
-a part time mutha
-now i'm a part time mutha
-i'm a (part time mutha)
-a part time
-a part time
-part time
-now i'ma (part time mutha)
-she's a part time
-a part time mutha
-he's a part time mutha
-she's a (part time mutha)
-a part time
-a part time
-a part time
-part time mutha
-a part time
-a part time mutha
-pa-pa-pa-part time
-pa-pa-pa-part time...
+(dp1
+Vkiss
+p2
+I1
+sVlyrics
+p3
+I2
+sVless
+p4
+I1
+sVlay
+p5
+I1
+sVmove
+p6
+I1
+sVrest
+p7
+I1
+sVdiscovered
+p8
+I1
+sVfirst
+p9
+I1
+sVgd
+p10
+I1
+sVsleep
+p11
+I2
+sVthanks
+p12
+I1
+sVshake
+p13
+I2
+sVtouch
+p14
+I1
+sVhell
+p15
+I1
+sVyes
+p16
+I1
+sVstill
+p17
+I1
+sVyet
+p18
+I1
+sVaint
+p19
+I1
+sVtables
+p20
+I1
+sVbitchin
+p21
+I1
+sVnervous
+p22
+I1
+sVfix
+p23
+I1
+sVcuz
+p24
+I3
+sVbust
+p25
+I2
+sVtouched
+p26
+I1
+sVfiend
+p27
+I1
+sVsmile
+p28
+I1
+sVthirtyeight
+p29
+I1
+sVstyles
+p30
+I1
+sVme
+p31
+I6
+sVtests
+p32
+I1
+sVcallin
+p33
+I1
+sVhit
+p34
+I2
+sVtictac
+p35
+I1
+sVget
+p36
+I3
+sVmoms
+p37
+I3
+sVbig
+p38
+I2
+sVdope
+p39
+I2
+sVfat
+p40
+I1
+sVbreak
+p41
+I2
+sVevery
+p42
+I1
+sVmom
+p43
+I2
+sVfront
+p44
+I1
+sVworld
+p45
+I1
+sVnasty
+p46
+I1
+sVdissin
+p47
+I1
+sVday
+p48
+I2
+sVcool
+p49
+I1
+sVpoppa
+p50
+I1
+sVlike
+p51
+I1
+sVever
+p52
+I1
+sVlist
+p53
+I1
+sVtend
+p54
+I1
+sVdopeman
+p55
+I1
+sVmeal
+p56
+I1
+sVblushed
+p57
+I1
+sVclothes
+p58
+I2
+sVweighs
+p59
+I1
+sVright
+p60
+I1
+sVold
+p61
+I1
+sVfearing
+p62
+I1
+sVpeople
+p63
+I1
+sVwelfare
+p64
+I1
+sVback
+p65
+I2
+sVflip
+p66
+I1
+sVhush
+p67
+I1
+sVcrook
+p68
+I1
+sVrate
+p69
+I1
+sVshes
+p70
+I12
+sVkinda
+p71
+I1
+sVhome
+p72
+I1
+sVeven
+p73
+I1
+sVkeep
+p74
+I1
+sVkids
+p75
+I1
+sVways
+p76
+I1
+sVsince
+p77
+I1
+sVfind
+p78
+I1
+sVpayin
+p79
+I1
+sVcars
+p80
+I1
+sVgot
+p81
+I7
+sVsensor
+p82
+I1
+sVchecks
+p83
+I1
+sVtold
+p84
+I1
+sVbuckwild
+p85
+I1
+sVrun
+p86
+I1
+sVshit
+p87
+I1
+sVmissing
+p88
+I1
+sVhypocritical
+p89
+I1
+sVnever
+p90
+I1
+sVrevenge
+p91
+I1
+sVslut
+p92
+I1
+sVbutts
+p93
+I1
+sVcontemplate
+p94
+I1
+sVstep
+p95
+I1
+sVconcentrate
+p96
+I1
+sVlet
+p97
+I2
+sVcab
+p98
+I1
+sVstrong
+p99
+I1
+sVcome
+p100
+I1
+sVchange
+p101
+I1
+sVon
+p102
+I1
+sVfeeling
+p103
+I1
+sVdaughter
+p104
+I1
+sVher
+p105
+I2
+sVcindi
+p106
+I3
+sVoh
+p107
+I3
+sVhes
+p108
+I2
+sVdays
+p109
+I2
+sVhot
+p110
+I1
+sVnuff
+p111
+I1
+sVgames
+p112
+I1
+sVworkplace
+p113
+I1
+sVpapapapart
+p114
+I2
+sVblock
+p115
+I1
+sVchest
+p116
+I1
+sVliked
+p117
+I1
+sVeverynight
+p118
+I1
+sVwhats
+p119
+I1
+sVdont
+p120
+I4
+sVdrunk
+p121
+I1
+sVfeel
+p122
+I1
+sVbound
+p123
+I1
+sVepidemic
+p124
+I1
+sVone
+p125
+I1
+sVna
+p126
+I1
+sVtalked
+p127
+I1
+sVbitch
+p128
+I1
+sVanother
+p129
+I2
+sVsoul
+p130
+I1
+sVpregnancy
+p131
+I1
+sVraped
+p132
+I1
+sVwan
+p133
+I1
+sVbathroom
+p134
+I1
+sVdevil
+p135
+I1
+sVwould
+p136
+I5
+sVrushed
+p137
+I1
+sVfight
+p138
+I1
+sVlive
+p139
+I1
+sVcall
+p140
+I1
+sVway
+p141
+I2
+sVkid
+p142
+I1
+sVtell
+p143
+I2
+sVspeaking
+p144
+I1
+sVmore
+p145
+I1
+sVhead
+p146
+I1
+sVshell
+p147
+I2
+sVdoor
+p148
+I1
+sVlot
+p149
+I1
+sVcant
+p150
+I4
+sVfuck
+p151
+I2
+sVpart
+p152
+I47
+sVlives
+p153
+I1
+sVlord
+p154
+I1
+sVbelieve
+p155
+I3
+sV2pac
+p156
+I1
+sVcot
+p157
+I1
+sVsteel
+p158
+I1
+sVloved
+p159
+I1
+sVrush
+p160
+I1
+sVgrew
+p161
+I1
+sVword
+p162
+I1
+sVthis
+p163
+I2
+sVsingle
+p164
+I1
+sVniggaz
+p165
+I1
+sVdiapers
+p166
+I1
+sVpest
+p167
+I1
+sVlover
+p168
+I1
+sVmeet
+p169
+I1
+sVta
+p170
+I3
+sVdidnt
+p171
+I1
+sVrent
+p172
+I1
+sVlisten
+p173
+I1
+sVsees
+p174
+I1
+sVturned
+p175
+I1
+sVit
+p176
+I3
+sVsay
+p177
+I1
+sVmurder
+p178
+I1
+sVim
+p179
+I10
+sVperiods
+p180
+I1
+sVfile
+p181
+I1
+sVin
+p182
+I1
+sVready
+p183
+I1
+sVrecover
+p184
+I1
+sVdress
+p185
+I1
+sVtrip
+p186
+I1
+sVrape
+p187
+I1
+sVgone
+p188
+I1
+sVthought
+p189
+I1
+sVhasnt
+p190
+I1
+sVpat
+p191
+I1
+sVyo
+p192
+I1
+sVdishes
+p193
+I1
+sVno
+p194
+I1
+sVdeserve
+p195
+I1
+sVthinkin
+p196
+I2
+sVdad
+p197
+I1
+sVfood
+p198
+I1
+sVtwentytwo
+p199
+I1
+sVtake
+p200
+I4
+sVplace
+p201
+I1
+sVstepped
+p202
+I1
+sVgets
+p203
+I1
+sVtalkin
+p204
+I1
+sVused
+p205
+I1
+sVthough
+p206
+I1
+sVtrack
+p207
+I1
+sVtime
+p208
+I52
+sVima
+p209
+I1
+sVmutha
+p210
+I23
+sVhand
+p211
+I1
+sVblood
+p212
+I1
+sVfiending
+p213
+I1
+sVclass
+p214
+I1
+sVman
+p215
+I1
+sVclassroom
+p216
+I1
+sVanymore
+p217
+I1
+sVmaybe
+p218
+I1
+sVnoone
+p219
+I1
+sVfloor
+p220
+I1
+sVspent
+p221
+I1
+sVpipe
+p222
+I1
+sVso
+p223
+I1
+sVclean
+p224
+I2
+sVmother
+p225
+I1
+sVthats
+p226
+I1
+sVdream
+p227
+I1
+sVmake
+p228
+I1
+sVcame
+p229
+I2
+s.

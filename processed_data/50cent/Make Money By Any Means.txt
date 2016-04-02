@@ -1,83 +1,596 @@
-"make money by any means" lyrics
-50 cent lyrics
-"make money by any means"
-(feat. noreaga)
-it ain't easy to make money (whoo)
-so now everybody wanna take money (uh huh, uh huh)
-you ain't a thug, matter fact you a fake money (take money, uh)
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-you can call me player yeah, but i ain't playing fair (uh huh)
-takers say i'm the hottest thang comin' this year (no doubt, ha ha ha)
-in the hood niggas know, how i handle my problems
-i walk up close, and i fo', fo' revolve 'em
-don't make me run to you, put the gun to you
-have yo ass on phil donahue explaining what the fuck i done to you
-thug niggas in the street saying i'm sunning you
-dude i'll smoke you every motherfucker under you
-people say chill, but still i do, what i wanna do
-for now on, when i speak, y'all niggas better listen
-why run against a thoroughbred when you ain't in no condition
-still got shit on ya nose, from all that ass you been kissing (hahaha)
-it ain't easy to make money
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-it ain't easy to make money
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-yo where my down south niggas at, i'm playing piddy-pat
-wit this kitty cat, bitch swear she a city rat
-it's nore now, here look read the story now
-my name nore, and niggas know how i rip
-and if i don't feel a nigga, i don't get on his shit
-y'all can love me, or hate me, or suck my dick
-i like my hoes just like summer, no class
-and niggas working so hard, and getting no ass
-why y'all niggas acting like, it's all ill in y'all square
-motherfucker you ain't know that it's a hood everywhere
-me and 50 vandal, no we always run scandal
-weak niggas, have us lighting up candles
-sending out roses, condolences, notices
-focuses on, niggas like fu quan
-yo in they ground, niggas that don't get no bound
-y'all keep my word, don't love no bird
-get a beef from tm, and just twist my herb
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-it ain't easy to make money
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-yo it's all about the cash you getting
-bricks you flipping, the whips you sitting
-the bitches you hitting, when you living the thug life
-bitches i don't love no of 'em, the guns i'm running 'em
-punk niggas i'm sunning 'em, every chance i get
-man i know niggas is a trip, so i save all my grip
-for these babies faggots flippin', dial 1-800-tips
-force me to bury the bricks, and the whips and take trips
-every word that come out of my mouth, i mean it, you could eat
-'cause when i stick you, you gon' cough it up like you bulimic
-i'm no magician, but i could make, somethin' outta nothin'
-like turn an empty block, into a crack spot that's pumping
-so all you niggas out there, thinking you the nicest
-me 50, i'm ya motherfucking mid-life crisis
-southside, alright baby, 50 cent, noreaga, trackmasters, teflon
-it ain't easy to make money
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-it ain't easy to make money
-so now everybody wanna take money
-you ain't a thug, matter fact you a fake money
-fuck wit mines, i'ma view you at ya weight money
-it ain't a game
-know what i'm saying
+(dp1
+Vsaying
+p2
+I2
+sVlyrics
+p3
+I2
+sVsummer
+p4
+I1
+sVmoney
+p5
+I30
+sVsouthside
+p6
+I1
+sVstill
+p7
+I2
+sVfeat
+p8
+I1
+sVground
+p9
+I1
+sVaint
+p10
+I23
+sVroses
+p11
+I1
+sVthinking
+p12
+I1
+sVthang
+p13
+I1
+sVdick
+p14
+I1
+sVbetter
+p15
+I1
+sVbricks
+p16
+I2
+sVtm
+p17
+I1
+sVeasy
+p18
+I6
+sVcash
+p19
+I1
+sVwhips
+p20
+I2
+sVsave
+p21
+I1
+sVspot
+p22
+I1
+sVgrip
+p23
+I1
+sVdo
+p24
+I1
+sVhandle
+p25
+I1
+sVyo
+p26
+I4
+sVmeans
+p27
+I2
+sVya
+p28
+I9
+sVcould
+p29
+I2
+sVkitty
+p30
+I1
+sVflipping
+p31
+I1
+sVgame
+p32
+I7
+sVevery
+p33
+I3
+sVknow
+p34
+I5
+sVdonahue
+p35
+I1
+sVnow
+p36
+I1
+sVcondition
+p37
+I1
+sVlike
+p38
+I6
+sVpumping
+p39
+I1
+sVname
+p40
+I1
+sValways
+p41
+I1
+sVgun
+p42
+I1
+sVguns
+p43
+I1
+sVnose
+p44
+I1
+sVyall
+p45
+I5
+sVview
+p46
+I7
+sVem
+p47
+I4
+sVnigga
+p48
+I1
+sVforce
+p49
+I1
+sVweight
+p50
+I7
+sVpeople
+p51
+I1
+sVfake
+p52
+I7
+sVyeah
+p53
+I1
+sV50
+p54
+I4
+sVstreet
+p55
+I1
+sVyear
+p56
+I1
+sVclose
+p57
+I1
+sVliving
+p58
+I1
+sVdial
+p59
+I1
+sVgon
+p60
+I1
+sVhate
+p61
+I1
+sVmines
+p62
+I7
+sVcrisis
+p63
+I1
+sVacting
+p64
+I1
+sVherb
+p65
+I1
+sVgot
+p66
+I1
+sVcause
+p67
+I1
+sVbird
+p68
+I1
+sVass
+p69
+I3
+sVnoreaga
+p70
+I2
+sVfocuses
+p71
+I1
+sVrun
+p72
+I3
+sVcity
+p73
+I1
+sVbulimic
+p74
+I1
+sVdoubt
+p75
+I1
+sVweak
+p76
+I1
+sVmotherfucker
+p77
+I2
+sVsunning
+p78
+I2
+sVima
+p79
+I7
+sVput
+p80
+I1
+sVsitting
+p81
+I1
+sVcough
+p82
+I1
+sVbury
+p83
+I1
+sVsending
+p84
+I1
+sVbeef
+p85
+I1
+sVgetting
+p86
+I2
+sVill
+p87
+I2
+sVpunk
+p88
+I1
+sVchance
+p89
+I1
+sVkeep
+p90
+I1
+sVturn
+p91
+I1
+sVswear
+p92
+I1
+sVsmoke
+p93
+I1
+sVmouth
+p94
+I1
+sVmean
+p95
+I1
+sVsouth
+p96
+I1
+sVthats
+p97
+I1
+sVfaggots
+p98
+I1
+sVmotherfucking
+p99
+I1
+sVlove
+p100
+I3
+sVdont
+p101
+I6
+sVfeel
+p102
+I1
+sVbound
+p103
+I1
+sVwalk
+p104
+I1
+sVwit
+p105
+I8
+sVdone
+p106
+I1
+sVbitch
+p107
+I1
+sVcomin
+p108
+I1
+sVscandal
+p109
+I1
+sVvandal
+p110
+I1
+sVsuck
+p111
+I1
+sVhood
+p112
+I2
+sVspeak
+p113
+I1
+sVeverybody
+p114
+I7
+sVwan
+p115
+I8
+sVstory
+p116
+I1
+sVfair
+p117
+I1
+sVworking
+p118
+I1
+sVcome
+p119
+I1
+sVmidlife
+p120
+I1
+sVdude
+p121
+I1
+sVcent
+p122
+I2
+sVhitting
+p123
+I1
+sVwhoo
+p124
+I1
+sVcall
+p125
+I1
+sVnotices
+p126
+I1
+sVhottest
+p127
+I1
+sVman
+p128
+I1
+sVempty
+p129
+I1
+sVlisten
+p130
+I1
+sVlife
+p131
+I1
+sVhard
+p132
+I1
+sVnore
+p133
+I2
+sVbitches
+p134
+I2
+sVhuh
+p135
+I3
+sVquan
+p136
+I1
+sVeverywhere
+p137
+I1
+sVstick
+p138
+I1
+sVbaby
+p139
+I1
+sVha
+p140
+I3
+sVeat
+p141
+I1
+sVchill
+p142
+I1
+sVword
+p143
+I2
+sVlook
+p144
+I1
+sVniggas
+p145
+I13
+sVcondolences
+p146
+I1
+sVcrack
+p147
+I1
+sVrat
+p148
+I1
+sVus
+p149
+I1
+sVcat
+p150
+I1
+sVmatter
+p151
+I7
+sVnicest
+p152
+I1
+sVuh
+p153
+I4
+sVhahaha
+p154
+I1
+sVkissing
+p155
+I1
+sVtrips
+p156
+I1
+sVoutta
+p157
+I1
+sVthoroughbred
+p158
+I1
+sVhoes
+p159
+I1
+sVfuck
+p160
+I8
+sVrip
+p161
+I1
+sVtwist
+p162
+I1
+sVplayer
+p163
+I1
+sVsay
+p164
+I2
+sVim
+p165
+I8
+sVthug
+p166
+I9
+sVtrip
+p167
+I1
+sVshit
+p168
+I2
+sVna
+p169
+I8
+sVmake
+p170
+I10
+sVget
+p171
+I4
+sVread
+p172
+I1
+sVsquare
+p173
+I1
+sVtake
+p174
+I9
+sVbabies
+p175
+I1
+sVyou
+p176
+I4
+sVexplaining
+p177
+I1
+sVteflon
+p178
+I1
+sVfu
+p179
+I1
+sVproblems
+p180
+I1
+sVrunning
+p181
+I1
+sVlighting
+p182
+I1
+sVtakers
+p183
+I1
+sVrevolve
+p184
+I1
+sVmagician
+p185
+I1
+sVclass
+p186
+I1
+sVfo
+p187
+I2
+sVsomethin
+p188
+I1
+sV1800tips
+p189
+I1
+sVcandles
+p190
+I1
+sVphil
+p191
+I1
+sVtrackmasters
+p192
+I1
+sVnothin
+p193
+I1
+sVflippin
+p194
+I1
+sVblock
+p195
+I1
+sValright
+p196
+I1
+sVplaying
+p197
+I2
+sVfact
+p198
+I7
+sVpiddypat
+p199
+I1
+s.

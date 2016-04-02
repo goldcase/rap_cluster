@@ -1,25 +1,229 @@
-skit 4 lyrics
-kanye west lyrics
-skit 4
-broke broke broke phi broke aint got it
-broke broke broke phi broke aint got it
-broke broke broke phi broke aint got it
-broke broke broke phi
-ive called private meeting today imposter among us
-imposter among us
-brother right making beats side yes has
-pretending hes broke walking amongst us
-brother eating every day believe eating every day
-pretending hes us hes one us
-want believe walked brother kanyes closet found new shoes
-found new shoes
-kanye would like step forward explain new shoes
-wasyou crazy wasnt didnt um um was
-speak brother
-gon stickim tryin stick roots and
-what
-wanna stick roots and
-march new shoes kanye
-dont ever come back em dont ever come back smellin good taking showers shit like
-right dont appreciate broke phi broke
-whats next
+(dp1
+Vand
+p2
+I2
+sVive
+p3
+I1
+sVwalking
+p4
+I1
+sVright
+p5
+I2
+sVwhats
+p6
+I1
+sVpretending
+p7
+I2
+sVlyrics
+p8
+I2
+sVamong
+p9
+I2
+sVwasnt
+p10
+I1
+sVimposter
+p11
+I2
+sVskit
+p12
+I2
+sVprivate
+p13
+I1
+sVone
+p14
+I1
+sVbeats
+p15
+I1
+sVever
+p16
+I2
+sVwalked
+p17
+I1
+sVwant
+p18
+I1
+sVkanye
+p19
+I3
+sVyes
+p20
+I1
+sVsmellin
+p21
+I1
+sVwasyou
+p22
+I1
+sVroots
+p23
+I2
+sVshoes
+p24
+I4
+sVaint
+p25
+I3
+sVkanyes
+p26
+I1
+sVwhat
+p27
+I1
+sVgon
+p28
+I1
+sVcloset
+p29
+I1
+sVhes
+p30
+I3
+sVwest
+p31
+I1
+sVexplain
+p32
+I1
+sVnext
+p33
+I1
+sVmarch
+p34
+I1
+sVdont
+p35
+I3
+sV4
+I2
+sVshowers
+p36
+I1
+sVforward
+p37
+I1
+sVgot
+p38
+I3
+sVhas
+p39
+I1
+sVmeeting
+p40
+I1
+sVtoday
+p41
+I1
+sVback
+p42
+I2
+sVphi
+p43
+I5
+sVgood
+p44
+I1
+sVeating
+p45
+I2
+sVshit
+p46
+I1
+sVwan
+p47
+I1
+sVamongst
+p48
+I1
+sVit
+p49
+I3
+sVspeak
+p50
+I1
+sVstep
+p51
+I1
+sVcrazy
+p52
+I1
+sVevery
+p53
+I2
+sVstick
+p54
+I2
+sVbroke
+p55
+I18
+sVfound
+p56
+I2
+sVem
+p57
+I1
+sVbelieve
+p58
+I2
+sVnew
+p59
+I4
+sVday
+p60
+I2
+sVlike
+p61
+I2
+sVstickim
+p62
+I1
+sVtryin
+p63
+I1
+sVwould
+p64
+I1
+sVwas
+p65
+I1
+sVtaking
+p66
+I1
+sVappreciate
+p67
+I1
+sVbrother
+p68
+I4
+sVus
+p69
+I5
+sVside
+p70
+I1
+sVum
+p71
+I2
+sVna
+p72
+I1
+sVmaking
+p73
+I1
+sVdidnt
+p74
+I1
+sVcalled
+p75
+I1
+sVcome
+p76
+I2
+s.

@@ -1,58 +1,371 @@
-black skinhead lyrics
-kanye west lyrics
-black skinhead
-theme song leather black jeans on
-means pardon im getting scream on
-enter kingdom watch bring home
-see black man white woman top floor gone come kill king kong
-middle america packed came see black skin
-number one question asking fuck every question asking
-dont get ran catholics come conservative baptists
-claiming im overreacting like black kids chiraq bitch
-four morning im zonin
-say im possessed omen
-keep 300 like romans
-300 bitches wheres trojans
-baby livin moment
-ive menace longest
-aint finished im devoted
-know know it
-follow cause shits go down
-im doin 500 im outta control now
-theres nowhere go now
-theres way slow down
-knew knew past
-would blacked ass
-four mornin im zonin
-say im possessed omen
-keep 300 like romans
-300 bitches wheres trojans
-baby livin moment
-ive menace longest
-aint finished im devoted
-know know it
-stop coon shit early morning cartoon shit
-goon shit fuck whole afternoon shit
-im aware im wolf soon moon hit
-im aware im king back tomb bitch
-black room bitch stop coon shit
-niggas aint doin shit niggas aint doin shit
-come homie happened
-niggas aint breathing gasping
-niggas aint ready action
-ready ready action
-four mornin im zonin
-think im possessed omen
-keep 300 like romans
-300 bitches wheres trojans
-baby livin moment
-ive menace longest
-aint finished im devoted
-know know it
-follow cause shits go down
-im doin 500 im outta control now
-theres nowhere go now
-theres way slow down
-knew knew past
-wouldve blacked ass
-god
+(dp1
+Vlyrics
+p2
+I2
+sVsoon
+p3
+I1
+sVkong
+p4
+I1
+sVfour
+p5
+I3
+sVbring
+p6
+I1
+sVkill
+p7
+I1
+sVskin
+p8
+I1
+sVgo
+p9
+I4
+sVkanye
+p10
+I1
+sVmoon
+p11
+I1
+sVgasping
+p12
+I1
+sVdevoted
+p13
+I3
+sVslow
+p14
+I2
+sVpardon
+p15
+I1
+sVtheme
+p16
+I1
+sVblack
+p17
+I7
+sVhappened
+p18
+I1
+sVkingdom
+p19
+I1
+sVwoman
+p20
+I1
+sVhit
+p21
+I1
+sVlivin
+p22
+I3
+sVmeans
+p23
+I1
+sVgoon
+p24
+I1
+sVwatch
+p25
+I1
+sVearly
+p26
+I1
+sVaware
+p27
+I2
+sVevery
+p28
+I1
+sVlongest
+p29
+I3
+sVnow
+p30
+I4
+sVcoon
+p31
+I2
+sVzonin
+p32
+I3
+sVlike
+p33
+I4
+sVleather
+p34
+I1
+sVmorning
+p35
+I2
+sVback
+p36
+I1
+sVpast
+p37
+I2
+sVsee
+p38
+I2
+sVfollow
+p39
+I2
+sVhome
+p40
+I1
+sVpacked
+p41
+I1
+sVgod
+p42
+I1
+sVconservative
+p43
+I1
+sVasking
+p44
+I2
+sVcause
+p45
+I2
+sVwouldve
+p46
+I1
+sVass
+p47
+I2
+sVaint
+p48
+I7
+sV300
+p49
+I6
+sVromans
+p50
+I3
+sVnowhere
+p51
+I2
+sVcome
+p52
+I3
+sVon
+p53
+I2
+sVkids
+p54
+I1
+sVgetting
+p55
+I1
+sVkeep
+p56
+I3
+sVwolf
+p57
+I1
+sVafternoon
+p58
+I1
+sVchiraq
+p59
+I1
+sVtomb
+p60
+I1
+sVwhole
+p61
+I1
+sVthink
+p62
+I1
+sVdont
+p63
+I1
+sVive
+p64
+I3
+sVjeans
+p65
+I1
+sVnumber
+p66
+I1
+sVone
+p67
+I1
+sVdown
+p68
+I4
+sVbaptists
+p69
+I1
+sVbitch
+p70
+I3
+sVwould
+p71
+I1
+sVwest
+p72
+I1
+sVtop
+p73
+I1
+sVquestion
+p74
+I2
+sVway
+p75
+I2
+sVshits
+p76
+I2
+sVwhite
+p77
+I1
+sV500
+p78
+I2
+sVcatholics
+p79
+I1
+sVskinhead
+p80
+I2
+sVbitches
+p81
+I3
+sVfuck
+p82
+I2
+sVfinished
+p83
+I3
+sVbaby
+p84
+I3
+sVtrojans
+p85
+I3
+sVking
+p86
+I2
+sVroom
+p87
+I1
+sVniggas
+p88
+I4
+sVhomie
+p89
+I1
+sVtheres
+p90
+I4
+sVcontrol
+p91
+I2
+sVgone
+p92
+I1
+sVoutta
+p93
+I2
+sVran
+p94
+I1
+sVit
+p95
+I3
+sVmiddle
+p96
+I1
+sVsay
+p97
+I2
+sVmornin
+p98
+I2
+sVim
+p99
+I19
+sVready
+p100
+I3
+sVshit
+p101
+I7
+sVbreathing
+p102
+I1
+sVoverreacting
+p103
+I1
+sVfloor
+p104
+I1
+sVget
+p105
+I1
+sVclaiming
+p106
+I1
+sVblacked
+p107
+I2
+sVstop
+p108
+I2
+sVdoin
+p109
+I4
+sVknew
+p110
+I4
+sVaction
+p111
+I2
+sVmoment
+p112
+I3
+sVsong
+p113
+I1
+sVamerica
+p114
+I1
+sVcartoon
+p115
+I1
+sVwheres
+p116
+I3
+sVman
+p117
+I1
+sVomen
+p118
+I3
+sVpossessed
+p119
+I3
+sVenter
+p120
+I1
+sVmenace
+p121
+I3
+sVscream
+p122
+I1
+sVcame
+p123
+I1
+sVknow
+p124
+I6
+s.

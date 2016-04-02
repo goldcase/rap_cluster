@@ -1,69 +1,614 @@
-"the bounce" lyrics
-jay-z lyrics
-"the bounce"
-uhh, just point out the bounce
-uh-huh, show me the bounce, yeah
-just point out the bounce, yeah
-timbo the king, yeah
-young hov' the king, yeah
-just point out the bounce..
-yes, just point out the bounce nigga
-yo, listen
-rumor has it "the blueprint" classic
-couldn't even be stopped by bin laden
-so september 11th marks the era forever
-of a revolutionary che gueverra
-now it's a whole museum of, hov' mcers
-everybody dupin the flow, you see 'em
-everybody loopin up soul
-it's like you tryin to make "the blueprint 2" before hov'
-shout out to just bleezy and, kan-yeezy
-see how we adjusted the game so easy
-chicks barely dancin, glancin every chance they get
-like - oh shit, he's so handsome
-still in demand in the longest run standin
-kidnap rap seven years, no ransom
-can't one nigga get it back no rap
-young hov's goin to canton, i'm now eligible
-point out the bounce - and show you how to get this dough in
-large amounts 'til it's hard to count
-point out the bounce - i turn a 8 to an ounce
-to a whole ki to the r.o.c.
-point out the bounce - timbo the king nigga
-uhh, yeah, uhh
-point out the bounce - jeah, young hov' the king nigga
-uhh, i got y'all..
-for those that think hov' fingers bling bling'n
-either haven't heard the album or they don't know english
-they only know what the single is, and singled that out
-to be the meaning of what he is about
-and bein i'm about my business, not minglin much
-runnin my mouth, that shit kept lingerin
-but no dummy, that's the shit i'm sprinklin
-the album width to keep the registers ringin
-in real life, i'm much more distinguished
-i'm like a bloke from london, england
-jeah, you jinglin baby
-see i go right back and i bring 'em in baby
-business mind of a ross perot, but never lost my soul
-crossed the line, i bought pop across the row
-then i walk through the hood, where they up to no good
-slangin them o's like a real o.g. should
-oh, he's good, no he would never sell out he's so young
-magazines call me a rock star, girls call me cock star
-billboard, pop star, neighborhood block star
-chi-town go-gettin pimps, we mobsters
-gingerbread man even said, "you're a monster!"
-yeah, that's how i feel
-to be down, you must appeal
-to the crew, we're rated r
-o.c., o.g., bobby johnson son
-ask me, "rey-rey, is that yo' car?"
-i seen mtv, i know who you are
-you did "takeover," do you got beef with nas?
-i did take over the game, brought back the soul
-got tracks to go, got plaques that's gold
-platinum to go, yeah that's the flow
-all i, know, i gots the flow
-and i don't play cause i'm from chicago
-point out the bounce
+(dp1
+Vson
+p2
+I1
+sVchicks
+p3
+I1
+sVstandin
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I2
+sVseptember
+p7
+I1
+sVroc
+p8
+I1
+sVyears
+p9
+I1
+sVseen
+p10
+I1
+sVbring
+p11
+I1
+sVregisters
+p12
+I1
+sVdough
+p13
+I1
+sVgo
+p14
+I3
+sVyes
+p15
+I1
+sVstill
+p16
+I1
+sVrow
+p17
+I1
+sVhov
+p18
+I5
+sVdupin
+p19
+I1
+sVgold
+p20
+I1
+sVeligible
+p21
+I1
+sVmuch
+p22
+I2
+sVdancin
+p23
+I1
+sVyoung
+p24
+I4
+sVshould
+p25
+I1
+sVjinglin
+p26
+I1
+sVshout
+p27
+I1
+sVeasy
+p28
+I1
+sVmarks
+p29
+I1
+sV8
+I1
+sVmust
+p30
+I1
+sVross
+p31
+I1
+sVbin
+p32
+I1
+sVrunnin
+p33
+I1
+sVgood
+p34
+I2
+sVyo
+p35
+I2
+sVget
+p36
+I3
+sVbein
+p37
+I1
+sVuhh
+p38
+I4
+sVgame
+p39
+I2
+sVevery
+p40
+I1
+sVlongest
+p41
+I1
+sVwalk
+p42
+I1
+sVrumor
+p43
+I1
+sVlike
+p44
+I4
+sVlost
+p45
+I1
+sVbobby
+p46
+I1
+sVplatinum
+p47
+I1
+sVlarge
+p48
+I1
+sVstopped
+p49
+I1
+sVeither
+p50
+I1
+sVgogettin
+p51
+I1
+sVrock
+p52
+I1
+sVlingerin
+p53
+I1
+sVlondon
+p54
+I1
+sVhavent
+p55
+I1
+sVyall
+p56
+I1
+sVem
+p57
+I2
+sVnigga
+p58
+I4
+sVengland
+p59
+I1
+sVhard
+p60
+I1
+sVyeah
+p61
+I7
+sVbounce
+p62
+I12
+sVsee
+p63
+I3
+sVare
+p64
+I1
+sVbillboard
+p65
+I1
+sV11th
+p66
+I1
+sVkidnap
+p67
+I1
+sVout
+p68
+I1
+sVeven
+p69
+I2
+sVman
+p70
+I1
+sVsaid
+p71
+I1
+sVbusiness
+p72
+I2
+sVchicago
+p73
+I1
+sVfingers
+p74
+I1
+sVringin
+p75
+I1
+sVsprinklin
+p76
+I1
+sVtimbo
+p77
+I2
+sVgot
+p78
+I4
+sVappeal
+p79
+I1
+sVcause
+p80
+I1
+sVacross
+p81
+I1
+sVbought
+p82
+I1
+sVslangin
+p83
+I1
+sVrun
+p84
+I1
+sVmonster
+p85
+I1
+sVsingled
+p86
+I1
+sVbloke
+p87
+I1
+sVnever
+p88
+I2
+sVtracks
+p89
+I1
+sVtakeover
+p90
+I1
+sVask
+p91
+I1
+sVmobsters
+p92
+I1
+sVrevolutionary
+p93
+I1
+sVabout
+p94
+I1
+sVbeef
+p95
+I1
+sVoh
+p96
+I2
+sVog
+p97
+I2
+sVbarely
+p98
+I1
+sVoc
+p99
+I1
+sVmeaning
+p100
+I1
+sVkeep
+p101
+I1
+sVturn
+p102
+I1
+sVounce
+p103
+I1
+sVgingerbread
+p104
+I1
+sVblingn
+p105
+I1
+sVwhole
+p106
+I2
+sVthink
+p107
+I1
+sVblock
+p108
+I1
+sVthats
+p109
+I4
+sVadjusted
+p110
+I1
+sVbling
+p111
+I1
+sVdont
+p112
+I2
+sVpoint
+p113
+I9
+sVfeel
+p114
+I1
+sVperot
+p115
+I1
+sVmcers
+p116
+I1
+sVpop
+p117
+I2
+sVone
+p118
+I1
+sVbrought
+p119
+I1
+sVjayz
+p120
+I1
+sVright
+p121
+I1
+sVmagazines
+p122
+I1
+sVgots
+p123
+I1
+sVneighborhood
+p124
+I1
+sVcouldnt
+p125
+I1
+sVuhhuh
+p126
+I1
+sVhood
+p127
+I1
+sVeverybody
+p128
+I2
+sVrated
+p129
+I1
+sVche
+p130
+I1
+sVwould
+p131
+I1
+sVhes
+p132
+I3
+sVmuseum
+p133
+I1
+sVgirls
+p134
+I1
+sVwidth
+p135
+I1
+sV2
+I1
+sVcall
+p136
+I2
+sVtryin
+p137
+I1
+sVloopin
+p138
+I1
+sVlisten
+p139
+I1
+sVblueprint
+p140
+I2
+sVlife
+p141
+I1
+sVkanyeezy
+p142
+I1
+sVback
+p143
+I3
+sVdemand
+p144
+I1
+sVbaby
+p145
+I2
+sVglancin
+p146
+I1
+sVline
+p147
+I1
+sVhandsome
+p148
+I1
+sVcount
+p149
+I1
+sVking
+p150
+I4
+sVsell
+p151
+I1
+sVgueverra
+p152
+I1
+sVcar
+p153
+I1
+sVmtv
+p154
+I1
+sVsoul
+p155
+I3
+sVr
+I1
+sVcrossed
+p156
+I1
+sVera
+p157
+I1
+sVcock
+p158
+I1
+sVdistinguished
+p159
+I1
+sVreyrey
+p160
+I1
+sVreal
+p161
+I2
+sVseven
+p162
+I1
+sVclassic
+p163
+I1
+sVmind
+p164
+I1
+sVheard
+p165
+I1
+sVcant
+p166
+I1
+sVim
+p167
+I6
+sVrap
+p168
+I2
+sVin
+p169
+I1
+sVcrew
+p170
+I1
+sVplaques
+p171
+I1
+sVshit
+p172
+I3
+sVransom
+p173
+I1
+sVladen
+p174
+I1
+sVamounts
+p175
+I1
+sVmake
+p176
+I1
+sVbleezy
+p177
+I1
+sVhovs
+p178
+I1
+sVcanton
+p179
+I1
+sVtil
+p180
+I1
+sVnas
+p181
+I1
+sVtake
+p182
+I1
+sValbum
+p183
+I2
+sVplay
+p184
+I1
+sVminglin
+p185
+I1
+sVstar
+p186
+I4
+sVchitown
+p187
+I1
+sVpimps
+p188
+I1
+sVchance
+p189
+I1
+sVmouth
+p190
+I1
+sVsingle
+p191
+I1
+sVgoin
+p192
+I1
+sVdummy
+p193
+I1
+sVforever
+p194
+I1
+sVkept
+p195
+I1
+sVjohnson
+p196
+I1
+sVos
+p197
+I1
+sVki
+p198
+I1
+sVyoure
+p199
+I1
+sVflow
+p200
+I3
+sVenglish
+p201
+I1
+sVjeah
+p202
+I2
+sVknow
+p203
+I4
+s.

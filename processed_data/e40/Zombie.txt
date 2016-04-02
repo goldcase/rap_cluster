@@ -1,69 +1,604 @@
-"zombie" lyrics
-e-40 lyrics
-"zombie"
-(feat. tech n9ne & brotha lynch hung)
-if you're zombie,
-if you're zombie, monster, ghoul or fiend,
-if you're...
-lynch, e-40,
-it's that season of the sickness your witnessing nigga sittin spin (fuck you),
-i'm a get you addicted when i spit shit venomous shit, shit again,
-shit so much i gotta go to costco to get my toilet paper,
-hit so much, spit so much with the pistol up, i'm a skitzo nut,
-reap a raper keep her safe or he could take her,
-chill pill, real deal, kill bill,
-i might be sick,
-but that ain't the reason that i still spit real i'll,
-niggas ain't got no lyrics when i hear it
-i'm like "what's up with that" everybody wanna copy me,
-so i'm choppin em up leave rotten meat,
-(if you're zombie)
-i'm a be drama free like my momma be,
-suicide before i let a nigga ride on me, that ain't comedy (i'm bullshit),
-i don't get, i don't have to get it,
-mini ak, i call him midget,
-and he got a sister heatin em up makin his skin blister,
-i'm a monster your a zombie.
-if you're zombie,
-if you're zombie, monster, ghoul or fiend,
-if you're...
-i'm lookin out the window when it's thundering and lighting
-in 2 in the afternoon the sky is black and it's frightening,
-there howling, looking n prowling, growling,
-back we're smiling, crowding,
-around my place,
-gimme 40 feed and a house of space,
-before i bust you in the face,
-witch thumper, thumper,
-pack 3 guns like a hunter, hunter,
-kick a nigga ass like a putter, putter,
-beat a muthafucka like a drummer, drummer,
-base play crazy half a hate a hazy,
-4 game like the gracie's,
-i a monster, i'm a fiend on the microphone,
-walk into my twilight zone,
-play me foul get tombstoned,
-send you to hell where you belong,
-gonna wish ya had a muthafuckin snow cone, no coat on,
-i got the wickedest flow,
-serve a muthafucka take out to go,
-send a hubba head to a sucka front door, lynch n 40 water nina in this hoe.
-if you're zombie,
-if you're zombie, monster, ghoul or fiend,
-if you're...
-if your a zombie, monster, ghoul or fiend,
-if your a zombie see your lovin every way tech, lynch and 40 sing,
-see ya gotta be conscious of what it means,
-then i know that your ready for what it brings,
-do you know what i mean when i say caribou lou,
-then your tellin me tech nina go ahead and do you,
-do ya never get enough of nina and you listen when you with the crew,
-kct you know and just what it do,
-your ass probly startin to moshpit,
-lovin every minute of bangin this boss shit,
-you throwin up your set around all cliques,
-you never wanna be hangin with a soft bitch,
-you know who you are muthafuckas.
-if you're zombie,
-if you're zombie, monster, ghoul or fiend,
-if you're...
+(dp1
+Vgrowling
+p2
+I1
+sVlyrics
+p3
+I3
+sVbrotha
+p4
+I1
+sVmeans
+p5
+I1
+sVfoul
+p6
+I1
+sVpaper
+p7
+I1
+sVkill
+p8
+I1
+sVskin
+p9
+I1
+sVgo
+p10
+I3
+sVhell
+p11
+I1
+sVsmiling
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVaint
+p15
+I3
+sVsuicide
+p16
+I1
+sVwitch
+p17
+I1
+sVzone
+p18
+I1
+sVfrightening
+p19
+I1
+sVcostco
+p20
+I1
+sVsky
+p21
+I1
+sV3
+I1
+sVbust
+p22
+I1
+sVcrew
+p23
+I1
+sVwindow
+p24
+I1
+sVblack
+p25
+I1
+sV4
+I1
+sVfiend
+p26
+I6
+sVmight
+p27
+I1
+sVpill
+p28
+I1
+sVkick
+p29
+I1
+sVta
+p30
+I2
+sVreal
+p31
+I2
+sVdo
+p32
+I1
+sVhit
+p33
+I1
+sVaround
+p34
+I2
+sVget
+p35
+I6
+sVbeat
+p36
+I1
+sVsafe
+p37
+I1
+sVhunter
+p38
+I2
+sVlovin
+p39
+I2
+sVkct
+p40
+I1
+sVgame
+p41
+I1
+sVevery
+p42
+I2
+sVlynch
+p43
+I4
+sVhalf
+p44
+I1
+sVfront
+p45
+I1
+sV2
+I1
+sVreap
+p46
+I1
+sVbullshit
+p47
+I1
+sVminute
+p48
+I1
+sVmeat
+p49
+I1
+sVhangin
+p50
+I1
+sVlike
+p51
+I6
+sVmuthafuckas
+p52
+I1
+sVleave
+p53
+I1
+sVstartin
+p54
+I1
+sVaddicted
+p55
+I1
+sVsoft
+p56
+I1
+sVghoul
+p57
+I5
+sVgracies
+p58
+I1
+sVem
+p59
+I2
+sVnigga
+p60
+I3
+sVdeal
+p61
+I1
+sVhouse
+p62
+I1
+sVnut
+p63
+I1
+sVback
+p64
+I1
+sVsee
+p65
+I2
+sVgon
+p66
+I1
+sVspace
+p67
+I1
+sVhate
+p68
+I1
+sVputter
+p69
+I2
+sVhazy
+p70
+I1
+sVlooking
+p71
+I1
+sVrotten
+p72
+I1
+sVbitch
+p73
+I1
+sVgot
+p74
+I5
+sVpistol
+p75
+I1
+sVguns
+p76
+I1
+sVass
+p77
+I2
+sVbe
+p78
+I1
+sVmoshpit
+p79
+I1
+sVn9ne
+p80
+I1
+sVmonster
+p81
+I7
+sVcliques
+p82
+I1
+sVskitzo
+p83
+I1
+sVnever
+p84
+I2
+sVmuthafucka
+p85
+I2
+sVfree
+p86
+I1
+sVboss
+p87
+I1
+sVzombie
+p88
+I14
+sVhung
+p89
+I1
+sVreason
+p90
+I1
+sVbase
+p91
+I1
+sVlet
+p92
+I1
+sVsing
+p93
+I1
+sVblister
+p94
+I1
+sVon
+p95
+I1
+sVsister
+p96
+I1
+sVahead
+p97
+I1
+sVheatin
+p98
+I1
+sVcould
+p99
+I1
+sVchoppin
+p100
+I1
+sVkeep
+p101
+I1
+sVdrama
+p102
+I1
+sVplace
+p103
+I1
+sVafternoon
+p104
+I1
+sVlookin
+p105
+I1
+sVlighting
+p106
+I1
+sVmean
+p107
+I1
+sVfeed
+p108
+I1
+sVwhats
+p109
+I1
+sVdont
+p110
+I2
+sVmini
+p111
+I1
+sVmakin
+p112
+I1
+sVwalk
+p113
+I1
+sVmomma
+p114
+I1
+sVset
+p115
+I1
+sVsend
+p116
+I2
+sVeverybody
+p117
+I1
+sVwan
+p118
+I2
+sVher
+p119
+I1
+sVmuch
+p120
+I3
+sVcall
+p121
+I1
+sVwitnessing
+p122
+I1
+sVwickedest
+p123
+I1
+sVlou
+p124
+I1
+sVprowling
+p125
+I1
+sVraper
+p126
+I1
+sVgim
+p127
+I1
+sVthrowin
+p128
+I1
+sVlisten
+p129
+I1
+sVhead
+p130
+I1
+sVdoor
+p131
+I1
+sVway
+p132
+I1
+sVspit
+p133
+I3
+sVenough
+p134
+I1
+sVseason
+p135
+I1
+sVserve
+p136
+I1
+sVit
+p137
+I2
+sVhear
+p138
+I1
+sVtombstoned
+p139
+I1
+sVcopy
+p140
+I1
+sVspin
+p141
+I1
+sVchill
+p142
+I1
+sVme
+p143
+I2
+sVe40
+p144
+I2
+sVtwilight
+p145
+I1
+sVniggas
+p146
+I1
+sVwish
+p147
+I1
+sVride
+p148
+I1
+sVbill
+p149
+I1
+sVthumper
+p150
+I2
+sVtellin
+p151
+I1
+sVn
+I2
+sVnina
+p152
+I3
+sVbangin
+p153
+I1
+sVvenomous
+p154
+I1
+sVill
+p155
+I1
+sVsucka
+p156
+I1
+sVpack
+p157
+I1
+sVtoilet
+p158
+I1
+sVcrazy
+p159
+I1
+sVak
+p160
+I1
+sVfuck
+p161
+I1
+sVhowling
+p162
+I1
+sVsay
+p163
+I1
+sVim
+p164
+I9
+sVcone
+p165
+I1
+sVready
+p166
+I1
+sVshit
+p167
+I5
+sVagain
+p168
+I1
+sVmicrophone
+p169
+I1
+sVhoe
+p170
+I1
+sVna
+p171
+I3
+sVprobly
+p172
+I1
+sVbelong
+p173
+I1
+sVwater
+p174
+I1
+sVsnow
+p175
+I1
+sV40
+p176
+I3
+sVya
+p177
+I3
+sVdrummer
+p178
+I2
+sVtake
+p179
+I2
+sVsick
+p180
+I1
+sVbrings
+p181
+I1
+sVthundering
+p182
+I1
+sVyou
+p183
+I2
+sVcomedy
+p184
+I1
+sVplay
+p185
+I2
+sVsittin
+p186
+I1
+sVcrowding
+p187
+I1
+sVsickness
+p188
+I1
+sVmidget
+p189
+I1
+sVhubba
+p190
+I1
+sVconscious
+p191
+I1
+sVcoat
+p192
+I1
+sVyoure
+p193
+I13
+sVflow
+p194
+I1
+sVface
+p195
+I1
+sVtech
+p196
+I3
+sVmuthafuckin
+p197
+I1
+sVcaribou
+p198
+I1
+sVknow
+p199
+I4
+s.

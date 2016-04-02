@@ -1,58 +1,296 @@
-celebration lyrics
-kanye west lyrics
-celebration
-yeah know is
-celebration bitches
-grab drink grab glass
-grab yo ass
-actin all
-shy all
-yall
-lyin for
-never before
-stop that
-want petron
-got that
-mean promise yall
-fine all
-girlfriend kinda raw
-like you
-like you
-right need mute monologue
-talkin gon give tylenol
-put nigga sleep im tired yall
-right louis vuitton signing off
-thought know
-hit liquor store
-got cris mo
-let floooooow
-problems see let em go
-got ounce dro
-let bloooooow
-yeah know is
-celebration bitches
-grab drink grab glass
-grab yo ass
-see know style
-im wild
-vow child well endowed
-like daddy
-tell mama fattie
-looked said daddy thats reason me
-yep praticing
-til one day ass bust packaging
-know though favorite accident
-go head pop cristal
-newborn child cuz yall
-know is
-celebration bitches
-grab drink grab glass
-grab yo ass
-thought know
-hit liquor store
-got cris mo
-let floooooow
-problems see let em go
-got ounce dro
-let bloooooow
-ho ho lookin ho ho
+(dp1
+Vall
+p2
+I3
+sVlyrics
+p3
+I2
+sVmute
+p4
+I1
+sVfloooooow
+p5
+I2
+sVsleep
+p6
+I1
+sVgo
+p7
+I3
+sVyep
+p8
+I1
+sVfine
+p9
+I1
+sVbefore
+p10
+I1
+sVstyle
+p11
+I1
+sVcuz
+p12
+I1
+sVbust
+p13
+I1
+sVlyin
+p14
+I1
+sVactin
+p15
+I1
+sVhit
+p16
+I2
+sVyo
+p17
+I3
+sVstop
+p18
+I1
+sVgirlfriend
+p19
+I1
+sVknow
+p20
+I7
+sVday
+p21
+I1
+sVnewborn
+p22
+I1
+sVlike
+p23
+I3
+sVshy
+p24
+I1
+sVfattie
+p25
+I1
+sVlouis
+p26
+I1
+sVmonologue
+p27
+I1
+sVyall
+p28
+I4
+sVmean
+p29
+I1
+sVem
+p30
+I2
+sVsigning
+p31
+I1
+sVright
+p32
+I2
+sVtired
+p33
+I1
+sVliquor
+p34
+I2
+sVyeah
+p35
+I2
+sVbloooooow
+p36
+I2
+sVsee
+p37
+I3
+sVkanye
+p38
+I1
+sVgon
+p39
+I1
+sVfor
+p40
+I1
+sVgot
+p41
+I5
+sVass
+p42
+I4
+sVnever
+p43
+I1
+sVreason
+p44
+I1
+sVlet
+p45
+I6
+sVput
+p46
+I1
+sVgrab
+p47
+I9
+sVcelebration
+p48
+I5
+sVvuitton
+p49
+I1
+sVaccident
+p50
+I1
+sVfavorite
+p51
+I1
+sVounce
+p52
+I2
+sVdro
+p53
+I2
+sVthats
+p54
+I1
+sVpop
+p55
+I1
+sVone
+p56
+I1
+sVpackaging
+p57
+I1
+sVnigga
+p58
+I1
+sVpromise
+p59
+I1
+sVcris
+p60
+I2
+sVwest
+p61
+I1
+sVmama
+p62
+I1
+sVtell
+p63
+I1
+sVstore
+p64
+I2
+sVhead
+p65
+I1
+sVthat
+p66
+I2
+sVbitches
+p67
+I3
+sVglass
+p68
+I3
+sVho
+p69
+I4
+sVchild
+p70
+I2
+sVme
+p71
+I1
+sVmo
+p72
+I2
+sVpraticing
+p73
+I1
+sVwild
+p74
+I1
+sVdaddy
+p75
+I2
+sVgive
+p76
+I1
+sVendowed
+p77
+I1
+sVis
+p78
+I3
+sVraw
+p79
+I1
+sVvow
+p80
+I1
+sVim
+p81
+I2
+sVwant
+p82
+I1
+sVtylenol
+p83
+I1
+sVthought
+p84
+I2
+sVtil
+p85
+I1
+sVneed
+p86
+I1
+sVyou
+p87
+I2
+sVtalkin
+p88
+I1
+sVcristal
+p89
+I1
+sVlookin
+p90
+I1
+sVthough
+p91
+I1
+sVpetron
+p92
+I1
+sVdrink
+p93
+I3
+sVproblems
+p94
+I2
+sVsaid
+p95
+I1
+sVkinda
+p96
+I1
+sVoff
+p97
+I1
+sVwell
+p98
+I1
+sVlooked
+p99
+I1
+s.

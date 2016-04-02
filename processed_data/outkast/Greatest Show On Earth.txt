@@ -1,40 +1,292 @@
-"greatest show on earth" lyrics
-outkast lyrics
-"greatest show on earth"
-(feat. macy gray)
-how ya'll feelin' tonight?
-i don't give a damn
-mama i'm leavin' way from home to join the circus
-and papa i go into that place where them clowns get down (get down)
-sister i know that there are lions tigers and bears
-i'll be safe and sure to call ya'll when i get there
-nothing but the greatest show on earth
-(shut up while i'm singing) step right up step right up come one come all
-what u want what u need
-wanna drank wanna chief
-i got it yeah i got it
-mama i'm moving up and i'll be selling cotton candy
-and papa next week they'll let me sit on the trapeze-eze whoo
-uncle you should see all these dancing girls
-and every night i get to sleep under the big top
-ain't nothing like...great
-it's the greatest show on earth
-da da da da da da
-what u want what u need
-wanna drank wanna chief
-i...i got it hey i got it
-ooh ooh ooh ooh ooh whoa
-yeah yeah oh yeah
-ooh ooh yeah yeah
-ok ok ok ok ok
-i got good love
-i got true love
-i got green love
-i got blue love
-i got dark love
-i got light love
-i got white love
-i got chinese love
-i got plaid love
-i got stripeded love
-what you clapping for i ain't done yet
+(dp1
+Vlyrics
+p2
+I2
+sVshow
+p3
+I4
+sVsleep
+p4
+I1
+sVgo
+p5
+I1
+sVearth
+p6
+I4
+sVfeat
+p7
+I1
+sVyet
+p8
+I1
+sVaint
+p9
+I2
+sVchinese
+p10
+I1
+sVgood
+p11
+I1
+sVget
+p12
+I4
+sVbig
+p13
+I1
+sVsafe
+p14
+I1
+sVfeelin
+p15
+I1
+sVdark
+p16
+I1
+sVevery
+p17
+I1
+sVknow
+p18
+I1
+sVgray
+p19
+I1
+sVcandy
+p20
+I1
+sVclowns
+p21
+I1
+sVnight
+p22
+I1
+sVyall
+p23
+I2
+sVright
+p24
+I2
+sVlikegreat
+p25
+I1
+sVyeah
+p26
+I6
+sVsee
+p27
+I1
+sVleavin
+p28
+I1
+sVlions
+p29
+I1
+sVhome
+p30
+I1
+sVblue
+p31
+I1
+sVgot
+p32
+I14
+sVshut
+p33
+I1
+sVoutkast
+p34
+I1
+sVwhoo
+p35
+I1
+sVstep
+p36
+I2
+sVlet
+p37
+I1
+sVcome
+p38
+I2
+sVsister
+p39
+I1
+sVok
+p40
+I5
+sVoh
+p41
+I1
+sVill
+p42
+I2
+sVplace
+p43
+I1
+sVlove
+p44
+I10
+sVdont
+p45
+I1
+sVclapping
+p46
+I1
+sVone
+p47
+I1
+sVdown
+p48
+I1
+sVdone
+p49
+I1
+sVsinging
+p50
+I1
+sVwan
+p51
+I4
+sVbears
+p52
+I1
+sVtop
+p53
+I1
+sVthere
+p54
+I1
+sVgirls
+p55
+I1
+sVhey
+p56
+I1
+sVnext
+p57
+I1
+sVdrank
+p58
+I2
+sVcall
+p59
+I1
+sVway
+p60
+I1
+sVmama
+p61
+I2
+sVdamn
+p62
+I1
+sVwhite
+p63
+I1
+sVtrapezeeze
+p64
+I1
+sVwhoa
+p65
+I1
+sVselling
+p66
+I1
+sVtigers
+p67
+I1
+sVooh
+p68
+I7
+sVuncle
+p69
+I1
+sVtrue
+p70
+I1
+sVtonight
+p71
+I1
+sVplaid
+p72
+I1
+sVjoin
+p73
+I1
+sVstripeded
+p74
+I1
+sVgive
+p75
+I1
+sVcircus
+p76
+I1
+sVit
+p77
+I2
+sVii
+p78
+I1
+sVim
+p79
+I3
+sVwant
+p80
+I2
+sVneed
+p81
+I2
+sVcotton
+p82
+I1
+sVtheyll
+p83
+I1
+sVdancing
+p84
+I1
+sVna
+p85
+I4
+sVgreen
+p86
+I1
+sVweek
+p87
+I1
+sVsure
+p88
+I1
+sVpapa
+p89
+I2
+sVmacy
+p90
+I1
+sVmoving
+p91
+I1
+sVnothing
+p92
+I2
+sVda
+p93
+I6
+sVlight
+p94
+I1
+sVsit
+p95
+I1
+sVchief
+p96
+I2
+sVu
+I4
+sVgreatest
+p97
+I4
+s.

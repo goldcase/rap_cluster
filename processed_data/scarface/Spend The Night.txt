@@ -1,74 +1,470 @@
-"spend the night" lyrics
-scarface lyrics
-"spend the night"
-(feat. tanya herron)
-this a wake up
-ain't nothing like the sunnyside sunshine (sunshine)
-hitting corners ducking one-time
-in my platinum color four dog
-tinted out roll rolls (yea i roll, roll)
-i hit the beach and i say tops down
-girls with they tops down (whistle)
-they got bikinis and they thongs on
-dancing to the thong song (thong song)
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-i see that lately that my loves on
-stop at papa joes and get my grub on
-i ran into my old fling tasha
-still looking cute but she was knocked up (knocked up)
-i'm like ay how you been girl
-i see you finna have a kid girl
-the funny thing about tasha (what's that)
-is that she was destined to be knocked up (knocked up)
-she twenty-nine and still a cold freak
-but she got a baby in the car seat
-she wanted to be seen in all the funk spots
-still getting crunk staying drunk huh (drunk huh)
-the friday nights are still the same things
-looking for diamonds and the chrome things (bling, bling)
-i'm sitting in my benz in a nice spot
-i bet you want to be my wife huh
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-and i been lonely for a long time
-that's why i'm glad the baby ain't mine
-ran up to the door but left my car keys
-i went back in the store and i saw daffany
-lookin like she did back in eighth grade (eighth grade)
-just like she did back in eighth grade
-we used to skip school and do the wild thang
-and i'm like daffany was up man
-i just got out law school
-she said attorney for the criminals
-i'm making six figures every six months
-she said she had everything a bitch want
-and been lookin for a nigga for her whole life (whole life)
-don't you want to make me your wife? (uh, uh)
-i guess my answer must have stunned her
-(i don't think so)
-i guess i must have stunned her
-bye, bye baby
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-you been to blocks and drinking brews
-you been hanging out with your crew
-but i'm rolling the spotty for you
-can i spend the night with you
-i guess i didn't know, i guess i didn't know
-i'm calling; i'm calling not anybody just you now baby
-keep your eyes on me baby
+(dp1
+Vcute
+p2
+I1
+sVsix
+p3
+I2
+sVlyrics
+p4
+I2
+sVyea
+p5
+I1
+sVskip
+p6
+I1
+sVfour
+p7
+I1
+sVhanging
+p8
+I6
+sVcold
+p9
+I1
+sVstill
+p10
+I4
+sVfeat
+p11
+I1
+sVaint
+p12
+I2
+sVstunned
+p13
+I2
+sVthang
+p14
+I1
+sVcrew
+p15
+I6
+sVgrade
+p16
+I3
+sVglad
+p17
+I1
+sVbye
+p18
+I2
+sVspot
+p19
+I1
+sVlonely
+p20
+I1
+sVhit
+p21
+I1
+sVfling
+p22
+I1
+sVstop
+p23
+I1
+sVwhistle
+p24
+I1
+sVevery
+p25
+I1
+sVknow
+p26
+I2
+sVdrinking
+p27
+I6
+sVschool
+p28
+I2
+sVlike
+p29
+I5
+sVcorners
+p30
+I1
+sVcalling
+p31
+I2
+sVjoes
+p32
+I1
+sVnight
+p33
+I8
+sVducking
+p34
+I1
+sVbitch
+p35
+I1
+sVbrews
+p36
+I6
+sVnigga
+p37
+I1
+sVold
+p38
+I1
+sVgrub
+p39
+I1
+sVback
+p40
+I3
+sVseat
+p41
+I1
+sVsee
+p42
+I2
+sVgirl
+p43
+I2
+sVthing
+p44
+I1
+sVfinna
+p45
+I1
+sVsaid
+p46
+I2
+sVlooking
+p47
+I2
+sVeverything
+p48
+I1
+sVtanya
+p49
+I1
+sVthongs
+p50
+I1
+sVdiamonds
+p51
+I1
+sVgot
+p52
+I3
+sVthong
+p53
+I2
+sVtasha
+p54
+I2
+sVpapa
+p55
+I1
+sVfriday
+p56
+I1
+sVonetime
+p57
+I1
+sVwild
+p58
+I1
+sVmaking
+p59
+I1
+sVsitting
+p60
+I1
+sVwanted
+p61
+I1
+sVwent
+p62
+I1
+sVchrome
+p63
+I1
+sVon
+p64
+I3
+sVgetting
+p65
+I1
+sVmonths
+p66
+I1
+sVkeep
+p67
+I1
+sVcrunk
+p68
+I1
+sVfigures
+p69
+I1
+sVbet
+p70
+I1
+sVlookin
+p71
+I2
+sVspotty
+p72
+I6
+sVwhole
+p73
+I2
+sVthink
+p74
+I1
+sVthats
+p75
+I1
+sVbling
+p76
+I2
+sVwhats
+p77
+I1
+sVdont
+p78
+I2
+sVdrunk
+p79
+I2
+sVcolor
+p80
+I1
+sVattorney
+p81
+I1
+sVdown
+p82
+I1
+sVnothing
+p83
+I1
+sVlong
+p84
+I1
+sVrolls
+p85
+I1
+sVplatinum
+p86
+I1
+sVguess
+p87
+I4
+sVcriminals
+p88
+I1
+sVher
+p89
+I2
+sVbikinis
+p90
+I1
+sVgirls
+p91
+I1
+sVspots
+p92
+I1
+sVhitting
+p93
+I1
+sVdaffany
+p94
+I2
+sVman
+p95
+I1
+sVstore
+p96
+I1
+sVherron
+p97
+I1
+sVlife
+p98
+I2
+sVdoor
+p99
+I1
+sVthat
+p100
+I1
+sVsunshine
+p101
+I2
+sVhuh
+p102
+I3
+sVwake
+p103
+I1
+sVbaby
+p104
+I5
+sVfunk
+p105
+I1
+sVmust
+p106
+I2
+sVcar
+p107
+I2
+sVup
+p108
+I3
+sVuh
+p109
+I2
+sVloves
+p110
+I1
+sVknocked
+p111
+I4
+sVim
+p112
+I13
+sVdidnt
+p113
+I2
+sVsay
+p114
+I1
+sVfreak
+p115
+I1
+sVran
+p116
+I2
+sVbenz
+p117
+I1
+sVmine
+p118
+I1
+sVanybody
+p119
+I1
+sVtinted
+p120
+I1
+sVscarface
+p121
+I1
+sVwant
+p122
+I3
+sVay
+p123
+I1
+sVseen
+p124
+I1
+sVsaw
+p125
+I1
+sVfunny
+p126
+I1
+sVnights
+p127
+I1
+sVdancing
+p128
+I1
+sVsunnyside
+p129
+I1
+sVmake
+p130
+I1
+sVget
+p131
+I1
+sVlately
+p132
+I1
+sVanswer
+p133
+I1
+sVyou
+p134
+I12
+sVbeach
+p135
+I1
+sVroll
+p136
+I3
+sVnice
+p137
+I1
+sVstaying
+p138
+I1
+sVused
+p139
+I1
+sVblocks
+p140
+I6
+sVeyes
+p141
+I1
+sVkeys
+p142
+I1
+sVtime
+p143
+I1
+sVtops
+p144
+I2
+sVdestined
+p145
+I1
+sVrolling
+p146
+I6
+sVsong
+p147
+I2
+sVlaw
+p148
+I1
+sVeighth
+p149
+I3
+sVkid
+p150
+I1
+sVtwentynine
+p151
+I1
+sVwife
+p152
+I2
+sVdog
+p153
+I1
+sVso
+p154
+I1
+sVthings
+p155
+I2
+sVspend
+p156
+I8
+sVleft
+p157
+I1
+s.

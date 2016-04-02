@@ -1,75 +1,610 @@
-perfect bitch lyrics
-kanye west lyrics
-perfect bitch
-uh know motherfuckers
-niggas wack
-fuck swag
-gone girl gone
-uh bitches nuts yeah dawg
-swarfing urging
-got bitch shes purging
-shiny nigga rick curbings
-fuck swag virgin
-tight shit virgin
-miss marlene margin
-way niggas know surfin
-uh something said
-youre upset nigga get head
-aint got hoes well nigga get bread
-grind youre blind nigga well stay instead
-liberty chivalry
-thirsty trick sipping me
-im e im gonna take leak weak niggas
-want hate me
-im laughing bank like hihihi
-corny shit dont blame nigga
-im free nigga im gonna smoke whiskey leaf
-thats spotted pale better inhale
-dont clown get shape
-get shape try get crown
-guessed dont try act ho
-niggas hide eyes aint low
-squad full niggas like horizons coast
-fuck ibm nigga most
-turned shit thats life chose
-fuck school gon pack bitch
-knows better study this
-hate fuck love this
-finish track nigga ya might missed
-uh never mother fucker
-aka dinero aka fucked hole
-fuck bitch fuck cool fuck emt
-fuck js shut bitch uh
-youre callie stew shes damie green
-shit flight shit flame
-fire yall shift lane
-whore means
-fame faithful trance
-perfect glance thirsty grin
-get fuckin opinion
-low bitch bore us type cleans
-aw hell no
-back point dont feel yall
-type niggas shopin mall
-fucking ranches dirty drawers
-dont get wrong dont get wrong
-im turned nigga couple flaws
-ive shit wouldnt get rich
-fuck bad flip thats real shit
-next like real quick
-wow coco white girl sipping cocoa
-mean nothing personal
-disrespect might flex tho
-make drop drawers
-make ho pill eyes closed
-make suck dick blindfold
-im trying win nigga rhinestone
-yeah im shit
-know couple niggas cliff
-niggas want issue unload shit
-fuck em niggas dont give shit
-untill shits flossing me
-talking shit like bossing me
-tryin take swag like won them
-chose dont know them
-uh bitch im yo daddy nigga shut up
+(dp1
+Vtrance
+p2
+I1
+sVlyrics
+p3
+I2
+sVshape
+p4
+I2
+sVaw
+p5
+I1
+sVkanye
+p6
+I1
+sVhate
+p7
+I2
+sVdamie
+p8
+I1
+sVperfect
+p9
+I3
+sVswag
+p10
+I3
+sVflossing
+p11
+I1
+sVpersonal
+p12
+I1
+sVshopin
+p13
+I1
+sVbetter
+p14
+I2
+sVwon
+p15
+I1
+sVrick
+p16
+I1
+sVrich
+p17
+I1
+sVcool
+p18
+I1
+sVmight
+p19
+I2
+sVpill
+p20
+I1
+sVreal
+p21
+I2
+sVflex
+p22
+I1
+sVthem
+p23
+I2
+sVyo
+p24
+I1
+sVget
+p25
+I9
+sVya
+p26
+I1
+sVcouple
+p27
+I2
+sVsipping
+p28
+I2
+sVknow
+p29
+I4
+sVbank
+p30
+I1
+sVbread
+p31
+I1
+sVschool
+p32
+I1
+sVlike
+p33
+I5
+sVdrop
+p34
+I1
+sVclown
+p35
+I1
+sVtry
+p36
+I2
+sVthis
+p37
+I2
+sVbad
+p38
+I1
+sVlaughing
+p39
+I1
+sVwhore
+p40
+I1
+sVcallie
+p41
+I1
+sVyall
+p42
+I2
+sVmean
+p43
+I1
+sVspotted
+p44
+I1
+sVnigga
+p45
+I11
+sVhell
+p46
+I1
+sVmarlene
+p47
+I1
+sVfucking
+p48
+I1
+sVcrown
+p49
+I1
+sVyeah
+p50
+I2
+sVup
+p51
+I1
+sVdawg
+p52
+I1
+sVshes
+p53
+I2
+sVhoes
+p54
+I1
+sVgirl
+p55
+I2
+sVpale
+p56
+I1
+sVgon
+p57
+I3
+sVleaf
+p58
+I1
+sVmissed
+p59
+I1
+sVemt
+p60
+I1
+sVleak
+p61
+I1
+sVwow
+p62
+I1
+sVliberty
+p63
+I1
+sVbossing
+p64
+I1
+sVclosed
+p65
+I1
+sVgot
+p66
+I2
+sVissue
+p67
+I1
+sVdirty
+p68
+I1
+sVgrin
+p69
+I1
+sVaint
+p70
+I2
+sVshut
+p71
+I2
+sVfull
+p72
+I1
+sVchose
+p73
+I2
+sVlove
+p74
+I1
+sVdinero
+p75
+I1
+sVnever
+p76
+I1
+sVweak
+p77
+I1
+sVfree
+p78
+I1
+sVjs
+p79
+I1
+sVblame
+p80
+I1
+sVquick
+p81
+I1
+sVstew
+p82
+I1
+sVdisrespect
+p83
+I1
+sVwouldnt
+p84
+I1
+sVshift
+p85
+I1
+sVstudy
+p86
+I1
+sVcleans
+p87
+I1
+sVdrawers
+p88
+I2
+sVsmoke
+p89
+I1
+sVact
+p90
+I1
+sVopinion
+p91
+I1
+sVaka
+p92
+I2
+sVshiny
+p93
+I1
+sVmotherfuckers
+p94
+I1
+sVfuckin
+p95
+I1
+sVthats
+p96
+I3
+sVblind
+p97
+I1
+sVem
+p98
+I1
+sVdick
+p99
+I1
+sVchivalry
+p100
+I1
+sVdont
+p101
+I8
+sVpoint
+p102
+I1
+sVfeel
+p103
+I1
+sVwin
+p104
+I1
+sVcocoa
+p105
+I1
+sVnothing
+p106
+I1
+sVbitch
+p107
+I8
+sVswarfing
+p108
+I1
+sVglance
+p109
+I1
+sVmiss
+p110
+I1
+sVwack
+p111
+I1
+sVinhale
+p112
+I1
+sVflaws
+p113
+I1
+sVwest
+p114
+I1
+sVnext
+p115
+I1
+sVrhinestone
+p116
+I1
+sVvirgin
+p117
+I2
+sVlow
+p118
+I2
+sVway
+p119
+I1
+sVshits
+p120
+I1
+sVranches
+p121
+I1
+sVwhite
+p122
+I1
+sVcliff
+p123
+I1
+sVtype
+p124
+I2
+sVhead
+p125
+I1
+sVflight
+p126
+I1
+sVknows
+p127
+I1
+sVbore
+p128
+I1
+sVfire
+p129
+I1
+sVbitches
+p130
+I1
+sVback
+p131
+I1
+sVho
+p132
+I2
+sVhole
+p133
+I1
+sVtrying
+p134
+I1
+sVblindfold
+p135
+I1
+sVme
+p136
+I4
+sVtryin
+p137
+I1
+sVibm
+p138
+I1
+sVniggas
+p139
+I9
+sVhorizons
+p140
+I1
+sVflip
+p141
+I1
+sVus
+p142
+I1
+sVtrick
+p143
+I1
+sVwhiskey
+p144
+I1
+sVmall
+p145
+I1
+sVflame
+p146
+I1
+sVuh
+p147
+I6
+sVcoco
+p148
+I1
+sVdaddy
+p149
+I1
+sVmargin
+p150
+I1
+sVurging
+p151
+I1
+sVpack
+p152
+I1
+sVgone
+p153
+I2
+sVcorny
+p154
+I1
+sVthirsty
+p155
+I2
+sVgive
+p156
+I1
+sVupset
+p157
+I1
+sVturned
+p158
+I2
+sVfuck
+p159
+I11
+sVive
+p160
+I1
+sVtalking
+p161
+I1
+sVguessed
+p162
+I1
+sVim
+p163
+I9
+sVsomething
+p164
+I1
+sVwant
+p165
+I2
+sVpurging
+p166
+I1
+sVfame
+p167
+I1
+sVshit
+p168
+I11
+sVcurbings
+p169
+I1
+sVfaithful
+p170
+I1
+sVno
+p171
+I1
+sVna
+p172
+I2
+sVmake
+p173
+I3
+sVmeans
+p174
+I1
+sVnuts
+p175
+I1
+sVhihihi
+p176
+I1
+sVtight
+p177
+I1
+sVsquad
+p178
+I1
+sVtake
+p179
+I2
+sVinstead
+p180
+I1
+sVlife
+p181
+I1
+sVuntill
+p182
+I1
+sVfinish
+p183
+I1
+sVsurfin
+p184
+I1
+sVtrack
+p185
+I1
+sVfucker
+p186
+I1
+sVstay
+p187
+I1
+sVmost
+p188
+I1
+sVwrong
+p189
+I2
+sVsaid
+p190
+I1
+sVfucked
+p191
+I1
+sVhide
+p192
+I1
+sVsuck
+p193
+I1
+sVcoast
+p194
+I1
+sVeyes
+p195
+I2
+sVlane
+p196
+I1
+sVe
+I1
+sVunload
+p197
+I1
+sVyoure
+p198
+I3
+sVwell
+p199
+I2
+sVgrind
+p200
+I1
+sVtho
+p201
+I1
+sVgreen
+p202
+I1
+sVmother
+p203
+I1
+s.

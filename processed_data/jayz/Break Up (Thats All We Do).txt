@@ -1,84 +1,545 @@
-"break up (thats all we do)" lyrics
-jay-z lyrics
-"break up (thats all we do)"
-make up, and break up
-that's all we do
-then we have sex, next thing you know
-everything is cool
-best of both worlds!  holla at your boy
-like we always do about this time
-uh-huh, yeah
-i know what you doin ma
-tryin to get in an argument with me so i can
-do my mad thing, you want me to do my mad thing
-i understand - c'mon!
-seems we're always arguing, but
-right after the arguing we have, sex
-and somehow it's the best, yes
-seems we're always arguing, but
-right after the arguing we have, sex
-and somehow it's the best girl
-gangsta love, gangsta love
-think about it while the streets you roam
-it's dom p and army in the fridge when you get home
-sex is always better fresh off a vendetta
-we break up or break you off then we right back together
-then this brand new leathers and caroline aurera
-marijuana, white wine, somewhere under the weather
-like we sick but we fine, shit we couldn't feel better
-just some sunshine in mind lookin fine as ever
-who got a mouth on her, woo, she put some words together
-sometimes'll make a nigga wanna leave, but when we make up
-woo!
-boy talk boy!
-break up to make up baby
-seems that's all we do darlin
-but no one wants to walk out the door
-after all of the holla'n
-cursing and fighting
-and me sleeping on the couch
-in the midst of our stormy weather
-sex brings the sun out
-after i hit that there
-seems we don't have a care
-sex makes you say i'm sorry
-and things like i'm not goin nowhere
-it's somethin bout the p-u-s-s-y
-that keeps brother in check, even i
-even if you was a pimp you couldn't survive
-without the h-e-l-p to provide you
-think about it while the streets you roam
-it's dom p and army in the fridge when you get home
-remember that night?  you was all like
-maybe we should go our seperate ways for life
-i hit the lights fit you tight at the lil' place right
-i hit it right you look me right in the eyes like psych
-you was goin through your act 'til i caught you in the sack
-and i made you relax when i (hit it hard from the back)
-yeah now we back friends
-and the next time you need some sex counselin, we
-seems we're always arguing, but
-right after the arguing we have, sex
-sex with best friends
-from the bathroom to the kitchen (we sex)
-from the kitchen to living room (we sex)
-from the living room to upstairs (we sex)
-upstairs to the attic (we sex)
-attic to the basement (we sex)
-from the basement to the car garage (we sex)
-garage to the back of the jeep (we sex)
-bicycle to the treadmill (we sex)
-even over by the dirty lawnmower (we sex)
-the neighbors and the dogs are lookin crazy (we sex)
-i don't care because you're my baby (we sex)
-it's our house, and we can have sex (we sex)
-anytime we want to (we sex)
-they can kiss my ass, because whoa-ho-hoo
-hey l don you feel me?
-yeah yeah yeah i feel you
-you and jay crazy man, but it's all good
-let's go
-la-la-la-la-lah-la-la
-la-la-la-la-lah-la-la - sex
-la-la-la-la-lah-la-la
-la-la-la-la-lah-la-la - sex
+(dp1
+Vneighbors
+p2
+I1
+sVthings
+p3
+I1
+sVhelp
+p4
+I1
+sVlyrics
+p5
+I2
+sVbasement
+p6
+I2
+sVpsych
+p7
+I1
+sVgo
+p8
+I2
+sVyes
+p9
+I1
+sVfine
+p10
+I2
+sVstormy
+p11
+I1
+sVlights
+p12
+I1
+sVsomewhere
+p13
+I1
+sVseems
+p14
+I5
+sVbetter
+p15
+I2
+sVlets
+p16
+I1
+sVgangsta
+p17
+I2
+sVcaroline
+p18
+I1
+sVdo
+p19
+I2
+sVgood
+p20
+I1
+sVhit
+p21
+I4
+sVget
+p22
+I3
+sVfridge
+p23
+I2
+sVbreak
+p24
+I6
+sVseperate
+p25
+I1
+sVknow
+p26
+I2
+sVwords
+p27
+I1
+sVgot
+p28
+I1
+sVwalk
+p29
+I1
+sVcool
+p30
+I1
+sVworlds
+p31
+I1
+sVbout
+p32
+I1
+sVlike
+p33
+I5
+sVpimp
+p34
+I1
+sValways
+p35
+I5
+sVbrother
+p36
+I1
+sVleave
+p37
+I1
+sVp
+I2
+sVweather
+p38
+I2
+sVman
+p39
+I1
+sVnight
+p40
+I1
+sVright
+p41
+I7
+sVbicycle
+p42
+I1
+sVupstairs
+p43
+I2
+sVattic
+p44
+I2
+sVhouse
+p45
+I1
+sVlalalalalahlala
+p46
+I4
+sVstreets
+p47
+I2
+sVyeah
+p48
+I5
+sVsex
+p49
+I25
+sVkitchen
+p50
+I2
+sVhome
+p51
+I2
+sVgirl
+p52
+I1
+sVbest
+p53
+I4
+sVout
+p54
+I1
+sVeven
+p55
+I3
+sVliving
+p56
+I2
+sVgarage
+p57
+I2
+sVways
+p58
+I1
+sVsun
+p59
+I1
+sVeverything
+p60
+I1
+sVwoo
+p61
+I2
+sVtreadmill
+p62
+I1
+sVnew
+p63
+I1
+sVever
+p64
+I1
+sVdirty
+p65
+I1
+sVass
+p66
+I1
+sVwe
+p67
+I1
+sVwhoahohoo
+p68
+I1
+sVnowhere
+p69
+I1
+sVlawnmower
+p70
+I1
+sVput
+p71
+I1
+sVcare
+p72
+I2
+sVaurera
+p73
+I1
+sVboy
+p74
+I3
+sVfit
+p75
+I1
+sVmarijuana
+p76
+I1
+sVjay
+p77
+I1
+sVkiss
+p78
+I1
+sVthing
+p79
+I3
+sVplace
+p80
+I1
+sVcounselin
+p81
+I1
+sVlookin
+p82
+I2
+sVroam
+p83
+I2
+sVmakes
+p84
+I1
+sVthink
+p85
+I2
+sVthats
+p86
+I4
+sVlove
+p87
+I2
+sVdont
+p88
+I2
+sVfeel
+p89
+I3
+sVpussy
+p90
+I1
+sVsack
+p91
+I1
+sVone
+p92
+I1
+sVjayz
+p93
+I1
+sVnigga
+p94
+I1
+sVdarlin
+p95
+I1
+sVcouldnt
+p96
+I2
+sVuhhuh
+p97
+I1
+sVwan
+p98
+I1
+sVbathroom
+p99
+I1
+sVarmy
+p100
+I2
+sVcaught
+p101
+I1
+sVthere
+p102
+I1
+sVhey
+p103
+I1
+sVnext
+p104
+I2
+sVsometimesll
+p105
+I1
+sVwhite
+p106
+I1
+sVtryin
+p107
+I1
+sVdogs
+p108
+I1
+sVback
+p109
+I4
+sVlife
+p110
+I1
+sVhard
+p111
+I1
+sVdoor
+p112
+I1
+sVsomethin
+p113
+I1
+sVbrings
+p114
+I1
+sVbrand
+p115
+I1
+sVsunshine
+p116
+I1
+sVbut
+p117
+I3
+sVsomehow
+p118
+I2
+sVunderstand
+p119
+I1
+sVsurvive
+p120
+I1
+sVbaby
+p121
+I2
+sVmidst
+p122
+I1
+sVsorry
+p123
+I1
+sVme
+p124
+I1
+sVmade
+p125
+I1
+sVma
+p126
+I1
+sVlook
+p127
+I1
+sVvendetta
+p128
+I1
+sVcar
+p129
+I1
+sVup
+p130
+I2
+sVact
+p131
+I1
+sVjeep
+p132
+I1
+sVcan
+p133
+I1
+sVleathers
+p134
+I1
+sVanytime
+p135
+I1
+sVwants
+p136
+I1
+sVcrazy
+p137
+I2
+sVcmon
+p138
+I1
+sVhollan
+p139
+I1
+sVmind
+p140
+I1
+sVargument
+p141
+I1
+sVsleeping
+p142
+I1
+sVsay
+p143
+I1
+sVim
+p144
+I2
+sVfighting
+p145
+I1
+sVwant
+p146
+I2
+sVneed
+p147
+I1
+sVcheck
+p148
+I1
+sVshit
+p149
+I1
+sVholla
+p150
+I1
+sVroom
+p151
+I2
+sVprovide
+p152
+I1
+sVna
+p153
+I1
+sVmake
+p154
+I4
+sVrelax
+p155
+I1
+sVcouch
+p156
+I1
+sVtil
+p157
+I1
+sVtight
+p158
+I1
+sVsick
+p159
+I1
+sVyou
+p160
+I2
+sVeyes
+p161
+I1
+sVarguing
+p162
+I6
+sVdoin
+p163
+I1
+sVkeeps
+p164
+I1
+sVmouth
+p165
+I1
+sVmad
+p166
+I2
+sVfriends
+p167
+I2
+sVgoin
+p168
+I2
+sVcursing
+p169
+I1
+sVl
+I1
+sVremember
+p170
+I1
+sVdom
+p171
+I2
+sVi
+I1
+sVmaybe
+p172
+I1
+sVyoure
+p173
+I1
+sVtogether
+p174
+I2
+sVlil
+p175
+I1
+sVwithout
+p176
+I1
+sVtime
+p177
+I2
+sVfresh
+p178
+I1
+sVtalk
+p179
+I1
+sVwine
+p180
+I1
+s.

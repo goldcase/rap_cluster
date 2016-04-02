@@ -1,76 +1,552 @@
-"rotten apple" lyrics
-50 cent lyrics
-"rotten apple"
-i'm on parole, i used to be on probaaaaaation
-i'm with my gun i get full coporaaaaaation
-i tell you "take it off" no hesitaaaaaation
-nigga you play around, i lay you down
-that's how it's goin' down
-don't play wit' me, i don't have patieeeeeents
-my headachin', and i need my medicaaaaaaation
-niggaz be hatin', they don't know what they faaaaaacin'
-nigga you play around, i lay you down
-that's how it's goin' down
-i be in court throwin' signs like i'm a maaaaaason
-nigga witness against me, i'ma eraaaaaase 'em
-if they try an runaway, i'ma chaaaaaaase 'em
-now with the pound, and i'm a lay 'em down
-that's how it's goin' down
-better watch how you talk
-better watch where you walk
-on the streets of new york
-that's how we get down
-22's on the jeep
-somthin' deep in the seat
-when we creep wit the heat
-that's how we get down
-wise men listen and laugh while fools talk
-stick up kids don't live long in new york
-fuck around and catch the wrong jukes on the street
-get caught slippin', then get hit wit' like three
-in every hood in the us, i'm that nigga they feelin'
-rap full of good guys, 50 cent is the villan
-i play the bar with 8 bottles all night gettin' right
-teachin' the hoodrats what cristal taste like
-i put 60 on wrist, 12 on my fist, 100 on my neck
-we in the hood nigga schemin', what you expect?
-my s on 22's leave ya hos confuuuuuused
-on the track ready to choose, like "daddy we want you"
-my love live ain't change, the shorties still hug me
-bullet wound in my face, and bitches still love me
-now nelly told you how them country boys talk
-i came to teach you how we put it down in new york
-that's how we get down
-better watch how you talk
-better watch where you walk
-on the streets of new york
-that's how we get down
-22's on the jeep
-somthin' deep in the seat
-when we creep wit the heat
-that's how we get down
-in the city, a young buck'll tell you how the mac spit
-o.g. give 'em the word, you gonna get yo' ass hit
-i don't know why niggaz like to talk bad about me
-i'm the richest nigga they know without a g.e.d.
-man it could be the money, it could be the ice
-it could be they'd like to be me and can't live my life
-you should here they be sayin' man "50 be flippin'"
-"shot my man over 7 grams, that nigga be trippin'"
-i know death is promised, i don't fear gettin' murked
-it's when a nigga half-way killa ya homie, it hurts
-now we can hit the club and get it crunked
-or you could start some shit, and i could hit you with
-the pump, you can have it how you want
-but i know you like my style (uh-huh)
-ya like how i break it down, wanna get rich?
-i'll show you how, take this pack, pump these pieces
-that's how we get down
-better watch how you talk
-better watch where you walk
-on the streets of new york
-that's how we get down
-22's on the jeep
-somthin' deep in the seat
-when we creep wit the heat
-that's how we get down
+(dp1
+Vshot
+p2
+I1
+sVcrunked
+p3
+I1
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoney
+p6
+I1
+sVmedicaaaaaaation
+p7
+I1
+sVheadachin
+p8
+I1
+sVsigns
+p9
+I1
+sVslippin
+p10
+I1
+sVfear
+p11
+I1
+sVstill
+p12
+I2
+sVdont
+p13
+I6
+sVima
+p14
+I2
+sVstyle
+p15
+I1
+sVdeath
+p16
+I1
+sVsayin
+p17
+I1
+sVyoung
+p18
+I1
+sVbetter
+p19
+I6
+sVchoose
+p20
+I1
+sVrich
+p21
+I1
+sV8
+I1
+sVhos
+p22
+I1
+sVgood
+p23
+I1
+sVhit
+p24
+I4
+sVaround
+p25
+I3
+sVyo
+p26
+I1
+sVget
+p27
+I14
+sVya
+p28
+I3
+sVwatch
+p29
+I6
+sVfeelin
+p30
+I1
+sVbreak
+p31
+I1
+sVevery
+p32
+I1
+sVknow
+p33
+I5
+sVged
+p34
+I1
+sVword
+p35
+I1
+sVschemin
+p36
+I1
+sV60
+p37
+I1
+sVbar
+p38
+I1
+sVlike
+p39
+I8
+sVgettin
+p40
+I2
+sVgun
+p41
+I1
+sVchaaaaaaase
+p42
+I1
+sVtry
+p43
+I1
+sVbad
+p44
+I1
+sVnight
+p45
+I1
+sVgrams
+p46
+I1
+sVem
+p47
+I4
+sVnigga
+p48
+I8
+sVthrowin
+p49
+I1
+sVstreets
+p50
+I3
+sVseat
+p51
+I3
+sVstreet
+p52
+I1
+sVniggaz
+p53
+I2
+sVfist
+p54
+I1
+sVwitness
+p55
+I1
+sVleave
+p56
+I1
+sVpatieeeeeents
+p57
+I1
+sVgon
+p58
+I1
+sVice
+p59
+I1
+sVfaaaaaacin
+p60
+I1
+sVrotten
+p61
+I2
+sVhood
+p62
+I2
+sV7
+I1
+sVnew
+p63
+I5
+sVhalfway
+p64
+I1
+sVcreep
+p65
+I3
+sVtold
+p66
+I1
+sVass
+p67
+I1
+sVaint
+p68
+I1
+sVfull
+p69
+I2
+sVright
+p70
+I1
+sVwan
+p71
+I1
+sVmen
+p72
+I1
+sVrichest
+p73
+I1
+sVnelly
+p74
+I1
+sVyork
+p75
+I5
+sVhurts
+p76
+I1
+sVput
+p77
+I2
+sV100
+p78
+I1
+sVchange
+p79
+I1
+sVkids
+p80
+I1
+sVjeep
+p81
+I3
+sVsomthin
+p82
+I3
+sVcould
+p83
+I5
+sVmac
+p84
+I1
+sVpack
+p85
+I1
+sVthats
+p86
+I11
+sVlove
+p87
+I2
+sVapple
+p88
+I2
+sVjukes
+p89
+I1
+sVwalk
+p90
+I3
+sVdown
+p91
+I14
+sVwit
+p92
+I5
+sVcent
+p93
+I2
+sVlaugh
+p94
+I1
+sVtheyd
+p95
+I1
+sVuhhuh
+p96
+I1
+sV22s
+p97
+I4
+sVteach
+p98
+I1
+sVrunaway
+p99
+I1
+sVcity
+p100
+I1
+sVbuckll
+p101
+I1
+sVcaught
+p102
+I1
+sVthree
+p103
+I1
+sVlong
+p104
+I1
+sVstart
+p105
+I1
+sVlive
+p106
+I3
+sVman
+p107
+I3
+sVtell
+p108
+I2
+sVlisten
+p109
+I1
+sVlife
+p110
+I1
+sVhug
+p111
+I1
+sVspit
+p112
+I1
+sVpump
+p113
+I2
+sVclub
+p114
+I1
+sVbitches
+p115
+I1
+sVconfuuuuuused
+p116
+I1
+sVyou
+p117
+I1
+sVboys
+p118
+I1
+sVheat
+p119
+I3
+sVstick
+p120
+I1
+sVhatin
+p121
+I1
+sVcatch
+p122
+I1
+sVwith
+p123
+I1
+sVneck
+p124
+I1
+sVme
+p125
+I3
+sV12
+p126
+I1
+sVwise
+p127
+I1
+sVcoporaaaaaation
+p128
+I1
+sVshorties
+p129
+I1
+sVus
+p130
+I1
+sVog
+p131
+I1
+sVcountry
+p132
+I1
+sVdaddy
+p133
+I1
+sVhesitaaaaaation
+p134
+I1
+sVill
+p135
+I1
+sVexpect
+p136
+I1
+sVpound
+p137
+I1
+sVwant
+p138
+I2
+sVgive
+p139
+I1
+sVtaste
+p140
+I1
+sVfuck
+p141
+I1
+sVdeep
+p142
+I3
+sVpieces
+p143
+I1
+sVready
+p144
+I1
+sVcant
+p145
+I1
+sVhomie
+p146
+I1
+sVim
+p147
+I6
+sVpromised
+p148
+I1
+sVrap
+p149
+I1
+sVneed
+p150
+I1
+sVshit
+p151
+I1
+sVcourt
+p152
+I1
+sVna
+p153
+I2
+sVwound
+p154
+I1
+sVtake
+p155
+I2
+sVfools
+p156
+I1
+sVcristal
+p157
+I1
+sVplay
+p158
+I4
+sVused
+p159
+I1
+sVtrack
+p160
+I1
+sVwrong
+p161
+I1
+sVwrist
+p162
+I1
+sVlay
+p163
+I3
+sVprobaaaaaation
+p164
+I1
+sVbottles
+p165
+I1
+sVhoodrats
+p166
+I1
+sVmaaaaaason
+p167
+I1
+sVguys
+p168
+I1
+sVgoin
+p169
+I3
+sVeraaaaaase
+p170
+I1
+sVbullet
+p171
+I1
+sVtrippin
+p172
+I1
+sVvillan
+p173
+I1
+sVcame
+p174
+I1
+sVface
+p175
+I1
+sVflippin
+p176
+I1
+sVmurked
+p177
+I1
+sVwithout
+p178
+I1
+sVteachin
+p179
+I1
+sVkilla
+p180
+I1
+sVparole
+p181
+I1
+sVtalk
+p182
+I6
+sV50
+p183
+I3
+s.

@@ -1,71 +1,644 @@
-"you don't hear me doe" lyrics
-scarface lyrics
-"you don't hear me doe"
-(feat. dmg)
-call me psychotive but i'm bad, nigga yo!
-and i'ma do ya bad, black
-and when i come, i'm bustin up niggas to hear me, black
-ya should of never let a nigga see
-if there was niggas and bitches and bitches and niggas that hated me
-huh, i waited for my date to come-of-age
-and now i'm of-age i can't escape the fuckin front page
-so i guess that nigga d is up to hit again
-i kicks the funky shit and coke, and stupid like i'm gilligan
-i'm p, supposed to hit a lick for a jack
-the only thing i gained is the pain of niggas comin back
-nigga lookin for they shit, aggravated and pissed
-niggas they can't fuck with my clique
-i'm here to break em off for chunk
-a d-e-a-t-h-l-y, a motherfuckin punk
-and i be rollin with the brass
-don't answer with the ziggers in your hood, he break your neck to roll a
-pass, nigga
-don't even stop to say 'whattup?' cos i bust for the fuck
-and pay some quick to light a motherfucker up
-next time you stop me on your block, i hope you leave the place
-or be the next to meet the lord face-to-face
-nigga, i ain't the one to take no bullshit
-cos see a nigga like the d is game to empty out the full clip
-so when i come for ya, act like ya know
-sittin motherfuckin smooth to the curb but you don't hear do'
-i'ma bring ya to ya asshole (uh)
-do it like the g-to-o (yeah)
-bustin on that ass but still i see that you don't hear me do'
-(but you don't hear me do')
-bring ya to ya asshole (uh)
-do it like the g-to-o (yeah)
-bustin on that ass but still i see that you don't hear me do'
-it's time to fuck em up, here it comes, blast, nigga!
-thump to your chest and they comin out your ass, nigga
-i grew apart, livin my life as a criminal
-niggas g to kill but still i see that you don't hear me do'
-so i'ma serve it to ya fat, hit the deck, mate
-hit the deck mate, call me flipper when i checkmate
-d-um divertin nine, tre-9, full glock, glock
-my glock makin sounds and it don't stop
-so nigga pass the swisha quick
-and i'ma blaze til the motherfucker burn me off my fingertips
-cos, see a nigga gotta saty high
-i try to smoke til i can't smoke and then i won't smoke
-but still i got my fingers on my shit
-and click, click, click, ya die, die, die, ya dead, bitch!
-you tried to test the wrong nigga, be a tested
-straight from st.paul but clockin g's down in texas
-some think i'm talk cos i play it cool
-but i ain't the average motherfucker, i do the shit that niggas won't do
-huh, like pistol whip a woodie for his bank
-then after that i gate and grab his bitch and do the same thang
-and i will pain up the asshole
-collectin grips on my drips as i stroll but you don't hear me do'
-ain't no mistakin what i'm bringin, you motherfuckers still ain't had
-enough
-so i'ma continue to break you off for proper ass chunk
-may it be 9, may it be a gauge, may it be a shank
-any way you come i'm in your motherfuckin shit, mate!
-huh, a nigga bustin caps, smokin fires
-quick to bring it to your ass and keep on goin til your ass die
-and it ain't no runnin down dem backstreets
-cos i got slugs to catch em with carl lewis on the track meet
-huh, and still you wanna test a nigga so
-audi 5, nigga, hate to see ya go but you don't hear me do'
-yeah, check it!
+(dp1
+Vwhattup
+p2
+I1
+sVgs
+p3
+I1
+sVlyrics
+p4
+I2
+sVdeck
+p5
+I2
+sVlewis
+p6
+I1
+sVfingertips
+p7
+I1
+sVbring
+p8
+I3
+sVkill
+p9
+I1
+sVgo
+p10
+I1
+sVcurb
+p11
+I1
+sVstill
+p12
+I6
+sVfeat
+p13
+I1
+sVima
+p14
+I5
+sVdeathly
+p15
+I1
+sVcollectin
+p16
+I1
+sVhated
+p17
+I1
+sVthang
+p18
+I1
+sVbust
+p19
+I1
+sVdivertin
+p20
+I1
+sVcontinue
+p21
+I1
+sVblack
+p22
+I2
+sVblaze
+p23
+I1
+sVthump
+p24
+I1
+sVdrips
+p25
+I1
+sVlord
+p26
+I1
+sVapart
+p27
+I1
+sVhope
+p28
+I1
+sVtake
+p29
+I1
+sVdo
+p30
+I8
+sVhit
+p31
+I4
+sVlivin
+p32
+I1
+sVyo
+p33
+I1
+sVdem
+p34
+I1
+sVya
+p35
+I12
+sVsittin
+p36
+I1
+sVstop
+p37
+I3
+sVfat
+p38
+I1
+sVcaps
+p39
+I1
+sVbreak
+p40
+I3
+sVtest
+p41
+I2
+sVgame
+p42
+I1
+sVtry
+p43
+I1
+sVjack
+p44
+I1
+sVfront
+p45
+I1
+sVblast
+p46
+I1
+sVbullshit
+p47
+I1
+sVbank
+p48
+I1
+sVd
+I2
+sVwont
+p49
+I2
+sVlike
+p50
+I6
+sVdie
+p51
+I4
+sVcool
+p52
+I1
+sVniggas
+p53
+I7
+sVstroll
+p54
+I1
+sV9
+I1
+sVleave
+p55
+I1
+sVp
+I1
+sVbad
+p56
+I2
+sVstupid
+p57
+I1
+sVfires
+p58
+I1
+sVuh
+p59
+I2
+sVquick
+p60
+I3
+sVgauge
+p61
+I1
+sVgrab
+p62
+I1
+sVpage
+p63
+I1
+sVem
+p64
+I3
+sVnigga
+p65
+I15
+sVchunk
+p66
+I2
+sVback
+p67
+I1
+sVdead
+p68
+I1
+sVaggravated
+p69
+I1
+sVsee
+p70
+I7
+sVescape
+p71
+I1
+sVproper
+p72
+I1
+sVclick
+p73
+I3
+sVwhip
+p74
+I1
+sVtried
+p75
+I1
+sVeven
+p76
+I1
+sVcomeofage
+p77
+I1
+sVpsychotive
+p78
+I1
+sVhate
+p79
+I1
+sVfingers
+p80
+I1
+sVtrack
+p81
+I1
+sVenough
+p82
+I1
+sVmate
+p83
+I3
+sVcheckmate
+p84
+I1
+sVit
+p85
+I1
+sVgot
+p86
+I3
+sVpistol
+p87
+I1
+sVslugs
+p88
+I1
+sVofage
+p89
+I1
+sVass
+p90
+I6
+sVaint
+p91
+I5
+sVfull
+p92
+I2
+sVnever
+p93
+I1
+sVmotherfucker
+p94
+I3
+sVlet
+p95
+I1
+sVsmokin
+p96
+I1
+sVcarl
+p97
+I1
+sVclique
+p98
+I1
+sVcome
+p99
+I3
+sVpissed
+p100
+I1
+sVgained
+p101
+I1
+sVcos
+p102
+I5
+sVg
+I1
+sVpunk
+p103
+I1
+sVkeep
+p104
+I1
+sVthing
+p105
+I1
+sVfunky
+p106
+I1
+sVplace
+p107
+I1
+sVlookin
+p108
+I1
+sVact
+p109
+I1
+sVflipper
+p110
+I1
+sVthink
+p111
+I1
+sVfuckin
+p112
+I1
+sVstpaul
+p113
+I1
+sVmotherfuckers
+p114
+I1
+sVdont
+p115
+I12
+sVhad
+p116
+I1
+sVmakin
+p117
+I1
+sVone
+p118
+I1
+sVna
+p119
+I1
+sVbitch
+p120
+I2
+sVcomin
+p121
+I2
+sVsounds
+p122
+I1
+sVhood
+p123
+I1
+sVwan
+p124
+I1
+sVguess
+p125
+I1
+sVdum
+p126
+I1
+sVnext
+p127
+I2
+sVtre9
+p128
+I1
+sVcomes
+p129
+I1
+sVburn
+p130
+I1
+sVcall
+p131
+I2
+sVway
+p132
+I1
+sVbackstreets
+p133
+I1
+sVtexas
+p134
+I1
+sVempty
+p135
+I1
+sVlife
+p136
+I1
+sVglock
+p137
+I3
+sVziggers
+p138
+I1
+sVgrips
+p139
+I1
+sVshank
+p140
+I1
+sVwoodie
+p141
+I1
+sVcoke
+p142
+I1
+sVbitches
+p143
+I2
+sVhuh
+p144
+I4
+sVfuck
+p145
+I3
+sVfacetoface
+p146
+I1
+sVhear
+p147
+I10
+sVswisha
+p148
+I1
+sVbringin
+p149
+I1
+sVkicks
+p150
+I1
+sVmistakin
+p151
+I1
+sVme
+p152
+I1
+sVgrew
+p153
+I1
+sVdmg
+p154
+I1
+sVstraight
+p155
+I1
+sVsmooth
+p156
+I1
+sVup
+p157
+I1
+sVnine
+p158
+I1
+sVsupposed
+p159
+I1
+sVscarface
+p160
+I1
+sVta
+p161
+I1
+sVsay
+p162
+I1
+sVcatch
+p163
+I1
+sVblock
+p164
+I1
+sVlick
+p165
+I1
+sVclockin
+p166
+I1
+sVclip
+p167
+I1
+sVpass
+p168
+I2
+sVgilligan
+p169
+I1
+sVhigh
+p170
+I1
+sVcant
+p171
+I3
+sVim
+p172
+I9
+sVgtoo
+p173
+I2
+sVcheck
+p174
+I1
+sVshit
+p175
+I5
+sVaudi
+p176
+I1
+sVyeah
+p177
+I3
+sVagain
+p178
+I1
+sVknow
+p179
+I1
+sVpay
+p180
+I1
+sVtil
+p181
+I3
+sVrunnin
+p182
+I1
+sVchest
+p183
+I1
+sV5
+I1
+sVmotherfuckin
+p184
+I3
+sVanswer
+p185
+I1
+sVgate
+p186
+I1
+sVasshole
+p187
+I3
+sVroll
+p188
+I1
+sVcriminal
+p189
+I1
+sVplay
+p190
+I1
+sVpain
+p191
+I2
+sVsmoke
+p192
+I3
+sVmay
+p193
+I3
+sVserve
+p194
+I1
+sVwrong
+p195
+I1
+sVdate
+p196
+I1
+sVbrass
+p197
+I1
+sVgoin
+p198
+I1
+sVa
+I1
+sVsaty
+p199
+I1
+sVneck
+p200
+I1
+sVtested
+p201
+I1
+sVlight
+p202
+I1
+sVaverage
+p203
+I1
+sVbustin
+p204
+I4
+sVrollin
+p205
+I1
+sVdoe
+p206
+I2
+sVso
+p207
+I1
+sVwaited
+p208
+I1
+sVtime
+p209
+I2
+sVtalk
+p210
+I1
+sVmeet
+p211
+I2
+s.

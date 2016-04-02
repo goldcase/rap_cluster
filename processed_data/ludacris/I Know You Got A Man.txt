@@ -1,66 +1,578 @@
-"i know you got a man" lyrics
-ludacris lyrics
-"i know you got a man"
-(feat. flo rida)
-i know you got a man, man, man
-but tell me what your man, man, man
-got to do with me me me
-uh oh uh oh oh
-got to do with me me me
-uh oh uh oh oh
-i know you got a girl, girl, girl
-but tell me what your girl, girl, girl
-got to do with me me me
-uh oh uh oh oh
-got to do with me me me
-uh oh uh oh oh
-listen,
-i know you got a man, but your man ain't luda
-so please don't let him fool ya
-cos the nigga don't really know how to do ya
-who's your daddy rolling all up in the caddy
-sun roof top with the diamond in the back
-coming to get some of the bomb in the sack
-like a bomb in iraq imma come and attack
-every inch of your body after the after party
-and then on to the hotel lobby riding me like a ducatti
-faster than a bugatti
-im like whoa kimosabe
-good golly shortie a freak or she been practising pilates
-i'm probably just stripping tongue sk-skipping like a track broke
-but if she think i'm fronting just wait til she see my back stroke
-haa, i be your side piece but whats our future plans
-cause i be on ya like damnnn
-hey, ok ok, so thats your mans and 'em
-i aint tellin you to cancel him
-do do your thing, look shorty i gotta respect your answer 'em
-them there's your boyfirend, i just wanna be your toy friend
-your other other man
-not not your lo-lo-lover man, undercover man
-how many rubber man's would it take for you lil mama to be apart of my plan
-what do you need in advance,
-i can see both of us showing in france
-i can look back at your thong in my hand
-louis vuitton no more donna karen
-couple of stacks so what is you saying
-like denzel washington "my man"
-i don't wanna hear no mo' more bout him
-what it gotta do with me you grown ass woman
-i'm a grown ass man so we both know a lot about the birds and the bee's
-hold on shorty lets conversate, conjugate, constipate
-get stuck on each other, you coming up outta your lingerie, hey
-i know you got a man
-nada, nada, not a damn thing
-he wouldn't know what to do if he tried it
-and i ain't hating, you need some room to breathe and i can be your ventilation
-you need a lil lovin' just a lil stimulation
-a hug a lil kissing and then a lil penetration
-give it to you like you never had it before
-and you aint never gon think about his ass again
-lips, hips, eyes, thighs here i'm gon have to give that ass a ten
-and they can get a five even though one of them kinda fine
-but ain't none of them got nothing on you you
-so lets go somewhere to dine and sip some expensive wine
-later on tell me what we gon do do
-we gon bump and we gon grind so good it should be a crime
-and next time tell your friends to come too, too.
+(dp1
+Vsaying
+p2
+I1
+sVbomb
+p3
+I2
+sVlyrics
+p4
+I2
+sVludacris
+p5
+I1
+sVhating
+p6
+I1
+sVgo
+p7
+I1
+sVoutta
+p8
+I1
+sVfeat
+p9
+I1
+sVbirds
+p10
+I1
+sVbefore
+p11
+I1
+sVaint
+p12
+I5
+sVrubber
+p13
+I1
+sVlololover
+p14
+I1
+sVimma
+p15
+I1
+sVhaa
+p16
+I1
+sVcrime
+p17
+I1
+sVlets
+p18
+I2
+sVriding
+p19
+I1
+sVbout
+p20
+I1
+sVnada
+p21
+I2
+sVta
+p22
+I2
+sVfool
+p23
+I1
+sVdo
+p24
+I1
+sVgood
+p25
+I2
+sVget
+p26
+I3
+sVya
+p27
+I3
+sVshowing
+p28
+I1
+sVnone
+p29
+I1
+sVlovin
+p30
+I1
+sVanswer
+p31
+I1
+sVevery
+p32
+I1
+sVknow
+p33
+I9
+sVprobably
+p34
+I1
+sVhim
+p35
+I2
+sVapart
+p36
+I1
+sVlike
+p37
+I7
+sVlouis
+p38
+I1
+sVkaren
+p39
+I1
+sVconstipate
+p40
+I1
+sVventilation
+p41
+I1
+sVlingerie
+p42
+I1
+sVdenzel
+p43
+I1
+sVdonna
+p44
+I1
+sVside
+p45
+I1
+sVem
+p46
+I2
+sVass
+p47
+I4
+sVnigga
+p48
+I1
+sVten
+p49
+I1
+sVbump
+p50
+I1
+sVsomewhere
+p51
+I1
+sVback
+p52
+I3
+sVsee
+p53
+I2
+sVpractising
+p54
+I1
+sVrida
+p55
+I1
+sVgirl
+p56
+I6
+sVreally
+p57
+I1
+sVeven
+p58
+I1
+sVpilates
+p59
+I1
+sVsun
+p60
+I1
+sVtried
+p61
+I1
+sVplease
+p62
+I1
+sVshortie
+p63
+I1
+sVgot
+p64
+I13
+sVcause
+p65
+I1
+sVthighs
+p66
+I1
+sVbody
+p67
+I1
+sVskskipping
+p68
+I1
+sVthong
+p69
+I1
+sVnever
+p70
+I2
+sVfive
+p71
+I1
+sVboyfirend
+p72
+I1
+sVtoy
+p73
+I1
+sVlet
+p74
+I1
+sVhand
+p75
+I1
+sViraq
+p76
+I1
+sVcome
+p77
+I2
+sVbugatti
+p78
+I1
+sVvuitton
+p79
+I1
+sVadvance
+p80
+I1
+sVgolly
+p81
+I1
+sVdaddy
+p82
+I1
+sVok
+p83
+I2
+sVwouldnt
+p84
+I1
+sVoh
+p85
+I12
+sVmany
+p86
+I1
+sVundercover
+p87
+I1
+sVthing
+p88
+I2
+sVtongue
+p89
+I1
+sVthink
+p90
+I2
+sVthats
+p91
+I1
+sVdine
+p92
+I1
+sVwhats
+p93
+I1
+sVdont
+p94
+I3
+sVwashington
+p95
+I1
+sVsack
+p96
+I1
+sVone
+p97
+I1
+sVnothing
+p98
+I1
+sVdamnnn
+p99
+I1
+sVcancel
+p100
+I1
+sVrespect
+p101
+I1
+sVfrance
+p102
+I1
+sVexpensive
+p103
+I1
+sVwan
+p104
+I2
+sVkimosabe
+p105
+I1
+sVwould
+p106
+I1
+sVtop
+p107
+I1
+sVhey
+p108
+I2
+sVwhos
+p109
+I1
+sVstimulation
+p110
+I1
+sVstuck
+p111
+I1
+sVattack
+p112
+I1
+sVbees
+p113
+I1
+sVdamn
+p114
+I1
+sVtoo
+p115
+I1
+sVlot
+p116
+I1
+sVmama
+p117
+I1
+sVhug
+p118
+I1
+sVwait
+p119
+I1
+sVtell
+p120
+I4
+sVfriend
+p121
+I1
+sVlisten
+p122
+I1
+sVbreathe
+p123
+I1
+sVeyes
+p124
+I1
+sVdiamond
+p125
+I1
+sVtellin
+p126
+I1
+sVhotel
+p127
+I1
+sVcaddy
+p128
+I1
+sVcos
+p129
+I1
+sVnext
+p130
+I1
+sVmans
+p131
+I2
+sVhear
+p132
+I1
+sVbroke
+p133
+I1
+sVhold
+p134
+I1
+sVme
+p135
+I4
+sVwoman
+p136
+I1
+sVlook
+p137
+I2
+sVmo
+p138
+I1
+sVlips
+p139
+I1
+sVroof
+p140
+I1
+sVwhoa
+p141
+I1
+sVfuture
+p142
+I1
+sVuh
+p143
+I8
+sVflo
+p144
+I1
+sVkissing
+p145
+I1
+sVpiece
+p146
+I1
+sVtheres
+p147
+I1
+sVluda
+p148
+I1
+sVfreak
+p149
+I1
+sVgive
+p150
+I2
+sVconversate
+p151
+I1
+sVit
+p152
+I1
+sVstroke
+p153
+I1
+sVfronting
+p154
+I1
+sVim
+p155
+I5
+sVconjugate
+p156
+I1
+sVneed
+p157
+I3
+sVgrown
+p158
+I2
+sVagain
+p159
+I1
+sVsip
+p160
+I1
+sVus
+p161
+I1
+sVlil
+p162
+I5
+sVna
+p163
+I2
+sVtil
+p164
+I1
+sVtake
+p165
+I1
+sVinch
+p166
+I1
+sVparty
+p167
+I1
+sVyou
+p168
+I1
+sVcouple
+p169
+I1
+sVplans
+p170
+I1
+sVthough
+p171
+I1
+sVtrack
+p172
+I1
+sVshorty
+p173
+I2
+sVgon
+p174
+I5
+sVplan
+p175
+I1
+sVkinda
+p176
+I1
+sVcoming
+p177
+I2
+sVrolling
+p178
+I1
+sVfriends
+p179
+I1
+sVlobby
+p180
+I1
+sVman
+p181
+I16
+sVfaster
+p182
+I1
+sVroom
+p183
+I1
+sVlater
+p184
+I1
+sVfine
+p185
+I1
+sVgrind
+p186
+I1
+sVstripping
+p187
+I1
+sVducatti
+p188
+I1
+sVtime
+p189
+I1
+sVpenetration
+p190
+I1
+sVstacks
+p191
+I1
+sVhips
+p192
+I1
+sVwine
+p193
+I1
+s.

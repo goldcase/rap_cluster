@@ -1,72 +1,584 @@
-"babylon" lyrics
-outkast lyrics
-"babylon"
-i came into this world high as a bird
-from second hand cocaine powder
-i know it sounds absurd
-i never tooted but its in my veins
-while the rest of the country bungies off bridges
-without no snap back
-and bitches they say they need that
-to shake they fannies in the ass clubs
-they go the other route
-turn each other out
-burn each other out
-where a bonified nigga like me
-can't even get no back rub these days
-ain't that bleak on they part
-but let me hold it down
-cause they shut you down
-when you speak from your heart
-now that's hard
-while we ranting and raving bout gats
-nigga they made them gats
-they got some shit that'll blow out our backs
-from where they stay at
-ooooh, i fear the battle's just begun
-ooooh, though we're here someday we will be gone
-so i'm hoping, wishing, praying
-to keep my faith in you, in you
-(yo, yo, yo in background)
-i'm fascinated by the way yo
-nipples peak at me through yo blouse
-freaky me, freaky you
-can't help but be aroused
-'scuse me lord less for thinking
-but that's the way we was brought up
-sneaking to watch playboy at night
-we all must be caught up in worldly ways
-chemistry between boys and girls
-is a lot like when we went to the woods
-and laid with the squirrels
-during p.e., we'd be
-exploring each others privates
-hunching with all our clothes on
-until we felt excited then, aaaah
-oh now its on from here on out
-put yo hands in the atmosphere
-if you know what i'm talking bout
-now if two hearts done walk on out
-and i see you on the next song
-they call it horny
-because its devilish
-now see we dead wrong
-people don't know the stress i'm dealing with day to day
-speaking about the feeling i'm possessing for rene
-moping around and wondering where she stay
-saw her last that she lay
-give it another day i say
-but the lord he taketh away
-now give it back lawd
-cause that's like backboards without the rims
-me and my auntie was tight like southwest
-before the pinks moved in
-like the niggas who owned the liquor store
-crack cocaine, pimps and whores
-living up on this earth
-before a nigga like daddy was born
-but they be making a scene
-that my music and crime are a team
-but i'm speaking the truth not dreams
-so what in the fuck they mean
-my lyrics ain't clean
+(dp1
+Vatmosphere
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I3
+sVless
+p5
+I1
+sVlay
+p6
+I1
+sVwishing
+p7
+I1
+sVrest
+p8
+I1
+sVwoods
+p9
+I1
+sVshake
+p10
+I1
+sVgo
+p11
+I1
+sVearth
+p12
+I1
+sVfear
+p13
+I1
+sVpraying
+p14
+I1
+sVhorny
+p15
+I1
+sVblow
+p16
+I1
+sVbridges
+p17
+I1
+sVtaketh
+p18
+I1
+sVwed
+p19
+I1
+sVthinking
+p20
+I1
+sVcrime
+p21
+I1
+sVooooh
+p22
+I2
+sVcrack
+p23
+I1
+sVsnap
+p24
+I1
+sVlord
+p25
+I2
+sVbout
+p26
+I2
+sVteam
+p27
+I1
+sVexcited
+p28
+I1
+sVsouthwest
+p29
+I1
+sVaround
+p30
+I1
+sVyo
+p31
+I6
+sVget
+p32
+I1
+sVhoping
+p33
+I1
+sVwatch
+p34
+I1
+sVknow
+p35
+I3
+sVbackground
+p36
+I1
+sVhands
+p37
+I1
+sVworld
+p38
+I1
+sVday
+p39
+I3
+sVdreams
+p40
+I1
+sVbrought
+p41
+I1
+sVfannies
+p42
+I1
+sVranting
+p43
+I1
+sVlike
+p44
+I6
+sVfreaky
+p45
+I2
+sVhunching
+p46
+I1
+sVtruth
+p47
+I1
+sVnight
+p48
+I1
+sVveins
+p49
+I1
+sVwent
+p50
+I1
+sVclothes
+p51
+I1
+sVsomeday
+p52
+I1
+sVnigga
+p53
+I3
+sVanother
+p54
+I1
+sVbe
+p55
+I1
+sVdealing
+p56
+I1
+sVliquor
+p57
+I1
+sVhard
+p58
+I1
+sVback
+p59
+I3
+sVdead
+p60
+I1
+sVup
+p61
+I1
+sVsneaking
+p62
+I1
+sVsecond
+p63
+I1
+sVpowder
+p64
+I1
+sVbegun
+p65
+I1
+sVaroused
+p66
+I1
+sVout
+p67
+I4
+sVeven
+p68
+I1
+sVliving
+p69
+I1
+sVborn
+p70
+I1
+sVwondering
+p71
+I1
+sVscuse
+p72
+I1
+sVways
+p73
+I1
+sVfascinated
+p74
+I1
+sVlaid
+p75
+I1
+sVgot
+p76
+I1
+sVcause
+p77
+I2
+sVbird
+p78
+I1
+sVass
+p79
+I1
+sVaint
+p80
+I2
+sVshut
+p81
+I1
+sVburn
+p82
+I1
+sVoutkast
+p83
+I1
+sVrims
+p84
+I1
+sVrub
+p85
+I1
+sVnever
+p86
+I1
+sVlet
+p87
+I1
+sVothers
+p88
+I1
+sVput
+p89
+I1
+sVstay
+p90
+I2
+sVfaith
+p91
+I1
+sVdaddy
+p92
+I1
+sVlast
+p93
+I1
+sVoh
+p94
+I1
+sVcountry
+p95
+I1
+sVroute
+p96
+I1
+sVdays
+p97
+I1
+sVkeep
+p98
+I1
+sVturn
+p99
+I1
+sVmean
+p100
+I1
+sVthats
+p101
+I3
+sVdont
+p102
+I1
+sVgone
+p103
+I1
+sVauntie
+p104
+I1
+sVtight
+p105
+I1
+sVpossessing
+p106
+I1
+sVscene
+p107
+I1
+sVowned
+p108
+I1
+sVwalk
+p109
+I1
+sVdown
+p110
+I2
+sVdone
+p111
+I1
+sVworldly
+p112
+I1
+sVtooted
+p113
+I1
+sVsounds
+p114
+I1
+sVcocaine
+p115
+I2
+sVspeak
+p116
+I1
+sVprivates
+p117
+I1
+sVcaught
+p118
+I1
+sVpeople
+p119
+I1
+sVgirls
+p120
+I1
+sVtwo
+p121
+I1
+sVnext
+p122
+I1
+sVcall
+p123
+I1
+sVway
+p124
+I2
+sVpe
+p125
+I1
+sVmusic
+p126
+I1
+sVspeaking
+p127
+I2
+sVexploring
+p128
+I1
+sVplayboy
+p129
+I1
+sVlot
+p130
+I1
+sVdevilish
+p131
+I1
+sVthat
+p132
+I1
+sVbitches
+p133
+I1
+sVboys
+p134
+I1
+sVpart
+p135
+I1
+sVhold
+p136
+I1
+sVsquirrels
+p137
+I1
+sVmust
+p138
+I1
+sVme
+p139
+I1
+sVmade
+p140
+I1
+sVniggas
+p141
+I1
+sVclubs
+p142
+I1
+sVbonified
+p143
+I1
+sVstore
+p144
+I1
+sVmaking
+p145
+I1
+sVfeeling
+p146
+I1
+sVsay
+p147
+I2
+sVheart
+p148
+I1
+sVrene
+p149
+I1
+sVthatll
+p150
+I1
+sVgive
+p151
+I2
+sVmoved
+p152
+I1
+sVfuck
+p153
+I1
+sVhigh
+p154
+I1
+sVtalking
+p155
+I1
+sVcant
+p156
+I2
+sVim
+p157
+I6
+sVat
+p158
+I1
+sVmoping
+p159
+I1
+sVin
+p160
+I1
+sVneed
+p161
+I1
+sVpinks
+p162
+I1
+sVsaw
+p163
+I1
+sVshit
+p164
+I1
+sVnipples
+p165
+I1
+sVsong
+p166
+I1
+sVbacks
+p167
+I1
+sVbattles
+p168
+I1
+sVgats
+p169
+I2
+sVbackboards
+p170
+I1
+sVyou
+p171
+I2
+sVbabylon
+p172
+I2
+sVblouse
+p173
+I1
+sVsee
+p174
+I2
+sVthough
+p175
+I1
+sVfelt
+p176
+I1
+sVhand
+p177
+I1
+sVpimps
+p178
+I1
+sVaaaah
+p179
+I1
+sVwrong
+p180
+I1
+sVpeak
+p181
+I1
+sVon
+p182
+I1
+sVbleak
+p183
+I1
+sVstress
+p184
+I1
+sVchemistry
+p185
+I1
+sVwhores
+p186
+I1
+sVlawd
+p187
+I1
+sVbungies
+p188
+I1
+sVwithout
+p189
+I2
+sVabsurd
+p190
+I1
+sVclean
+p191
+I1
+sVhearts
+p192
+I1
+sVraving
+p193
+I1
+sVaway
+p194
+I1
+sVcame
+p195
+I1
+s.

@@ -1,47 +1,421 @@
-"i can't make a mistake" lyrics
-mc lyte lyrics
-"i can't make a mistake"
-hehah, yeah...yeah...yeah...yeah...come on
-i can't make a mistake
-missing the dancefloor shake
-i gotta get to the floor, i gotta get to the floor
-romancing in the dark, i spark the light
-it's alright tonight, i gotta get the mic
-as i scope the crowd, i spot red eyes
-grippin' them heinekens, they don't know where they been
-baby got back see, rollin' like ten deep
-but you look for good luck, swing in the expo g
-i mean no harm, but that lucky charm
-you need to ditch it quick, get with the brooklyn bomb
-i be, we be, bumpin' the spot g
-wherever we be, we hit correctly
-it's been so long, we gotta get it on
-to this song, my song, now sing along come on
-come here, let's rap a taste a little
-floor's too high, not to jiggle in the middle of tender vittle
-cell phone, on roam, syl rhone, come home we double chrome
-but i can't make a mistake, hmmm
-leave the dance floor now (uhn uhn, no no)
-i'm on to somethin', he bubblin' the sugar baby
-shoulda, woulda, coulda, that ain't me baby
-when i step into my mizrahi  frame
-i change the game, it'll never look the same
-obstruct it, abstract it, my tactic, fantastic
-it's been so long, we gotta get it on
-to this song, my song, now sing along come on
-i can't make a mistake, i can't make a mistake
-yeah...here he come, lookin' like he 21
-knowing damn well, he too could get done
-but he got a partner, and that ain't too hard to fix
-once i slide up in the mix
-juggin' it baby, from right to left
-jigged out, gotta pick ya out from what's left
-it's no mystery, the way ya humpin' and bumpin'
-i what you comin' home with me?
-i'm-gon'-get-some-satisfaction
-the way you comin' at me with the action
-you betta know it, when ya dealing with the poet
-whatever  you got, you betta show it
-it's been so long, we gotta get it on
-to this song, my song, now sing along come on
-i can't make a mistake, i can't make a mistake
+(dp1
+Vbomb
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I1
+sVdance
+p5
+I1
+sVjigged
+p6
+I1
+sVshake
+p7
+I1
+sVheinekens
+p8
+I1
+sVhmmm
+p9
+I1
+sVaint
+p10
+I2
+sV21
+p11
+I1
+sVfix
+p12
+I1
+sVitll
+p13
+I1
+sVsugar
+p14
+I1
+sVlets
+p15
+I1
+sVhehah
+p16
+I1
+sVgrippin
+p17
+I1
+sVta
+p18
+I7
+sVgood
+p19
+I1
+sVhit
+p20
+I1
+sVsong
+p21
+I6
+sVuhn
+p22
+I2
+sVlucky
+p23
+I1
+sVwoulda
+p24
+I1
+sVdark
+p25
+I1
+sVgame
+p26
+I1
+sVknow
+p27
+I2
+sVmystery
+p28
+I1
+sVlike
+p29
+I2
+sVyeahyeahyeahyeahcome
+p30
+I1
+sVbetta
+p31
+I2
+sVleave
+p32
+I1
+sVslide
+p33
+I1
+sVya
+p34
+I3
+sVquick
+p35
+I1
+sVmean
+p36
+I1
+sVobstruct
+p37
+I1
+sVharm
+p38
+I1
+sVright
+p39
+I1
+sVvittle
+p40
+I1
+sVten
+p41
+I1
+sVdealing
+p42
+I1
+sVframe
+p43
+I1
+sVhard
+p44
+I1
+sVback
+p45
+I1
+sVsee
+p46
+I1
+sVtender
+p47
+I1
+sVhome
+p48
+I2
+sVdancefloor
+p49
+I1
+sVjiggle
+p50
+I1
+sVcell
+p51
+I1
+sVcorrectly
+p52
+I1
+sVgot
+p53
+I10
+sVred
+p54
+I1
+sVknowing
+p55
+I1
+sVmissing
+p56
+I1
+sVnever
+p57
+I1
+sVstep
+p58
+I1
+sVrhone
+p59
+I1
+sVsing
+p60
+I3
+sValong
+p61
+I3
+sVsyl
+p62
+I1
+sVcome
+p63
+I6
+sVshoulda
+p64
+I1
+sVchange
+p65
+I1
+sVon
+p66
+I7
+sVg
+I2
+sVcoulda
+p67
+I1
+sVwherever
+p68
+I1
+sVchrome
+p69
+I1
+sVromancing
+p70
+I1
+sVlookin
+p71
+I1
+sVroam
+p72
+I1
+sVaction
+p73
+I1
+sVluck
+p74
+I1
+sVfantastic
+p75
+I1
+sVwhats
+p76
+I1
+sVdont
+p77
+I1
+sVpick
+p78
+I1
+sVwhatever
+p79
+I1
+sVfloors
+p80
+I1
+sVdone
+p81
+I1
+sVbeen
+p82
+I1
+sVmizrahi
+p83
+I1
+sVditch
+p84
+I1
+sVspark
+p85
+I1
+sVlittle
+p86
+I1
+sVcrowd
+p87
+I1
+sVlyte
+p88
+I1
+sVlong
+p89
+I3
+sVdamn
+p90
+I1
+sVway
+p91
+I2
+sVpoet
+p92
+I1
+sVscope
+p93
+I1
+sVeyes
+p94
+I1
+sVbubblin
+p95
+I1
+sVimgongetsomesatisfaction
+p96
+I1
+sVphone
+p97
+I1
+sVbaby
+p98
+I4
+sVme
+p99
+I1
+sVhigh
+p100
+I1
+sVlook
+p101
+I2
+sVmc
+p102
+I1
+sVdouble
+p103
+I1
+sVexpo
+p104
+I1
+sVyeahhere
+p105
+I1
+sVcould
+p106
+I1
+sVmistake
+p107
+I8
+sVhumpin
+p108
+I1
+sVtaste
+p109
+I1
+sVabstract
+p110
+I1
+sVit
+p111
+I1
+sVdeep
+p112
+I1
+sVtonight
+p113
+I1
+sVmiddle
+p114
+I1
+sVcant
+p115
+I8
+sVim
+p116
+I1
+sVrap
+p117
+I1
+sVneed
+p118
+I1
+sVpartner
+p119
+I1
+sVfloor
+p120
+I3
+sVmake
+p121
+I8
+sVget
+p122
+I8
+sVsame
+p123
+I1
+sVmix
+p124
+I1
+sVtactic
+p125
+I1
+sVjuggin
+p126
+I1
+sVswing
+p127
+I1
+sVspot
+p128
+I2
+sVbumpin
+p129
+I2
+sVcomin
+p130
+I2
+sVbrooklyn
+p131
+I1
+sVcharm
+p132
+I1
+sVsomethin
+p133
+I1
+sVlight
+p134
+I1
+sVno
+p135
+I1
+sVwell
+p136
+I1
+sVrollin
+p137
+I1
+sValright
+p138
+I1
+sVmic
+p139
+I1
+sVleft
+p140
+I2
+s.

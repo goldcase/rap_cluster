@@ -1,76 +1,476 @@
-"never forget you" lyrics
-lupe fiasco lyrics
-"never forget you"
-(feat. john legend)
-take me to that old familiar place
-take me to memories we won’t erase
-take me to all that we had
-good and the bad
-i’ll never forget you
-i’ll never let you go
-i’ll never forget you
-i’ll always remember, i hope you know
-let the record reflect the records we set
-best foot forward with every step
-and let’s push towards it, never regress
-and let’s remember, if ever we get
-down, the places that we came from ’round
-and all the good times on the bad side of town
-the upside of bad, flip it upside down
-came from the bottom but we up high now
-believe, and from this view we achieved
-we looked back at the rules we received
-and how we broke those, dismantled and rewrote those
-and the ghost still alive in the photos
-sounds of the summer, day and go wise
-cold wind blowin’ through a city on fire
-moments of the past, came here to find you
-not to relive them, just to remind you
-take to that old familiar place
-take me to memories we won’t erase
-take me to all that we had
-good and the bad
-i’ll never forget you
-i’ll never let you go
-i’ll never forget you
-i’ll always remember, i hope you know
-and let the evidence show, the future’s so bright
-it’s never been more, not like tonight
-we walk into the glow, right into the light
-the past all around us, the time of our life
-the first love kisses, the broke heart disses
-this is just like a first-class ticket
-back, to the first written rap
-the crumbled-up paper and the pen with no cap
-the hand-me-down clothes and the unturned hat
-the hookers on the corner and the kids sellin’ crack
-the needles in the yard where we used to play catch
-stories from the project we could never go at
-or to, these are shades of my youth
-trials of a child, everything truth
-moments of the past, comin’ back to find us
-not to relive them, just to remind us
-take to that old familiar place
-take me to memories we won’t erase
-take me to all that we had
-good and the bad
-i’ll never forget you
-i’ll never let you go
-i’ll never forget you
-i’ll always remember, i hope you know
-everything cherished, remembered in my heart
-so you will never perish, you will never part
-i tell ‘em all about you, drummin’ in the park
-we put you in the ground, but i see you in the stars
-go’n, take a bow, a round of applause
-the best that ever, always ready we are
-love always shines, that’s how i’ll find you
-in case you forgot, i hope this reminds you
-take to that old familiar place
-take me to memories we won’t erase
-take me to all that we had
-good and the bad
-i’ll never forget you
-i’ll never let you go
-i’ll never forget you
-i’ll always remember, i hope you know
+(dp1
+Vsummer
+p2
+I1
+sVforget
+p3
+I10
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVmoments
+p6
+I2
+sVbright
+p7
+I1
+sVpaper
+p8
+I1
+sVgo
+p9
+I6
+sVcorner
+p10
+I1
+sVcold
+p11
+I1
+sVstill
+p12
+I1
+sVfeat
+p13
+I1
+sVfind
+p14
+I3
+sVground
+p15
+I1
+sVwon\u2019t
+p16
+I4
+sVit\u2019s
+p17
+I1
+sVhad
+p18
+I4
+sVpen
+p19
+I1
+sVgo\u2019n
+p20
+I1
+sVcrack
+p21
+I1
+sVhat
+p22
+I1
+sVhope
+p23
+I5
+sVcase
+p24
+I1
+sVgood
+p25
+I5
+sVaround
+p26
+I1
+sVget
+p27
+I1
+sVrules
+p28
+I1
+sVfamiliar
+p29
+I4
+sVrecords
+p30
+I1
+sVevery
+p31
+I1
+sVknow
+p32
+I4
+sVfoot
+p33
+I1
+sVticket
+p34
+I1
+sVnow
+p35
+I1
+sVday
+p36
+I1
+sVlet\u2019s
+p37
+I2
+sVlike
+p38
+I2
+sVfuture\u2019s
+p39
+I1
+sVremind
+p40
+I2
+sVbad
+p41
+I6
+sVtruth
+p42
+I1
+sValways
+p43
+I6
+sVside
+p44
+I1
+sVview
+p45
+I1
+sVcomin\u2019
+p46
+I1
+sVset
+p47
+I1
+sVold
+p48
+I4
+sVachieved
+p49
+I1
+sVback
+p50
+I3
+sValive
+p51
+I1
+sVpast
+p52
+I3
+sVsee
+p53
+I1
+sVerase
+p54
+I4
+sVare
+p55
+I1
+sVforgot
+p56
+I1
+sVdrummin\u2019
+p57
+I1
+sVbest
+p58
+I2
+sVrelive
+p59
+I2
+sVyouth
+p60
+I1
+sVbottom
+p61
+I1
+sVmemories
+p62
+I4
+sVeverything
+p63
+I2
+sVwritten
+p64
+I1
+sVcrumbledup
+p65
+I1
+sVever
+p66
+I2
+sVblowin\u2019
+p67
+I1
+sVrewrote
+p68
+I1
+sVperish
+p69
+I1
+sVlupe
+p70
+I1
+sVnever
+p71
+I19
+sVstep
+p72
+I1
+sVlet
+p73
+I6
+sVput
+p74
+I1
+sVlegend
+p75
+I1
+sVfirstclass
+p76
+I1
+sVreceived
+p77
+I1
+sVkids
+p78
+I1
+sVyard
+p79
+I1
+sVcould
+p80
+I1
+sVshades
+p81
+I1
+sVused
+p82
+I1
+sVtimes
+p83
+I1
+sVplace
+p84
+I4
+sVregress
+p85
+I1
+sVclothes
+p86
+I1
+sVfirst
+p87
+I2
+sVlove
+p88
+I2
+sVwalk
+p89
+I1
+sVdown
+p90
+I1
+sVright
+p91
+I1
+sVsounds
+p92
+I1
+sVcity
+p93
+I1
+sVround
+p94
+I1
+sV\u2018em
+p95
+I1
+sVcherished
+p96
+I1
+sVi\u2019ll
+p97
+I17
+sVforward
+p98
+I1
+sVjohn
+p99
+I1
+sVsellin\u2019
+p100
+I1
+sVhookers
+p101
+I1
+sVlife
+p102
+I1
+sVstars
+p103
+I1
+sVdismantled
+p104
+I1
+sVfire
+p105
+I1
+sVunturned
+p106
+I1
+sVpark
+p107
+I1
+sVphotos
+p108
+I1
+sVremembered
+p109
+I1
+sVneedles
+p110
+I1
+sVbroke
+p111
+I2
+sVchild
+p112
+I1
+sVcatch
+p113
+I1
+sVbelieve
+p114
+I1
+sVthose
+p115
+I1
+sVapplause
+p116
+I1
+sVtown
+p117
+I1
+sVtonight
+p118
+I1
+sVwise
+p119
+I1
+sVdisses
+p120
+I1
+sVplaces
+p121
+I1
+sVcap
+p122
+I1
+sVflip
+p123
+I1
+sVus
+p124
+I3
+sVtell
+p125
+I1
+sVproject
+p126
+I1
+sVrecord
+p127
+I1
+sVstories
+p128
+I1
+sVheart
+p129
+I2
+sVkisses
+p130
+I1
+sVevidence
+p131
+I1
+sVhigh
+p132
+I1
+sVat
+p133
+I1
+sVrap
+p134
+I1
+sVready
+p135
+I1
+sVshines
+p136
+I1
+sVbow
+p137
+I1
+sVtrials
+p138
+I1
+sV\u2019round
+p139
+I1
+sVtake
+p140
+I13
+sVyou
+p141
+I13
+sVplay
+p142
+I1
+sVtowards
+p143
+I1
+sVthat\u2019s
+p144
+I1
+sVtime
+p145
+I1
+sVhandmedown
+p146
+I1
+sVreflect
+p147
+I1
+sVglow
+p148
+I1
+sVghost
+p149
+I1
+sVremember
+p150
+I5
+sVreminds
+p151
+I1
+sVlight
+p152
+I1
+sVlooked
+p153
+I1
+sVpart
+p154
+I1
+sVupside
+p155
+I2
+sVcame
+p156
+I3
+sVfiasco
+p157
+I1
+sVpush
+p158
+I1
+sVwind
+p159
+I1
+s.

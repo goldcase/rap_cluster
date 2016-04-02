@@ -1,76 +1,474 @@
-"l.a. is the place" lyrics
-n.w.a. lyrics
-"l.a. is the place"
-(feat. the d.o.c.)
-l.a. l.a. l.a. l.a. l.a. l.a. l.a. l.a.
-l.a. l.a. l.a. l.a. l.a. l.a. l.a. l.a.
-l.a. l.a. l.a. l.a. l.a. l.a. l.a. l.a.
-l.a. is the place!
-i'm not a renegade but you wish i would
-just because i like to hang with boys in the hood
-live in l.a. always chill on the west coast
-a tilly mogul got it close just i mean to boast
-i said what's up, we'll be who riding on you
-nick name eazy-e, and i'm down with the crew
-you come talking that trash, we'll pull your card
-it's not the bronx, it's l.a. but just as hard
-don't get me wrong i like to brag on the city i own
-the subway r-t-d, don't ride it alone
-you might have silly thoughts, that were insane
-but the city i'm from, let me explain
-in l.a. there things you do not do
-first of all, homeboy, don't mess with the crew
-you might have silly thoughts that were too soft
-but don't play it sweet, or get took off
-y'all know the time, it's time to get l
-we moved back to l.a. - cal-i-forn-ia
-we moved back to l.a. - cal-i-forn-ia
-we moved back to l.a. - cal-i-forn-ia
-the city of angels.. hollywood.. we love it
-i turned you on to the best females in the world
-i wish they all could be california girls
-like the east where your girls wear too many coats
-bring your clothesie, runny noiseie, with a sore throat
-that the girls in the south i cannot bust
-because the girls are fly and down with us
-in the valley not the alley, misdemeanor not ball-ey
-eazy-e that's me, always chill in cali'
-hollywood's a bit of beef, where the scene is raw
-ohh yeah, the strip is a trip on south crenshaw
-don't get me wrong i like to brag on the city i own
-(boy you walk do what?) don't walk alone
-because in l.a. there things you do not do
-first of all, homeboy, don't mess with the crew
-you might have silly thoughts that were too soft
-but don't play it sweet, or get took off
-l.a. l.a. l.a. l.a. l.a. l.a. l.a. l.a.
-l.a. l.a. l.a. l.a. l.a. l.a. l.a. l.a.
-l.a. is the place!
-build with the brothers who build the old school
-get a.. get a.. get a little some of that.. beat box
-get get get a little some of that beat box
-west coast style from l.a.
-yes i gets mine, it's got to be that way
-it's sunny california that's where i be
-if you forgot homeboy i chill with e
-in the west i stand that's where you fall
-fila wearing a punk goes snatching it all
-rhyme by rhyme record by e
-in the city of angels, with a devil like me
-she's contaminated where the boys are hard
-and people like me don't perpetrate the fraud
-you want to mess around, you better get wise
-we'll find your butt, and cut you down to size
-because in l.a. there things you do not do
-first of all, homeboy, don't mess with the crew
-you might have silly thoughts that were too soft
-but don't play it sweet, or get took off
-y'all know the time, it's time to get l
-we moved back to l.a. - cal-i-forn-ia
-we moved back to l.a. - cal-i-forn-ia
-we moved back to l.a. - cal-i-forn-ia
-city of angels.. hollywood.. we love it
-because in l.a. there things you do not do
-first of all, homeboy, don't mess with the crew
-you might have silly thoughts that were too soft
-but don't play it sweet, or get took off
+(dp1
+Vrtd
+p2
+I1
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVmisdemeanor
+p5
+I1
+sVbring
+p6
+I1
+sVnwa
+p7
+I1
+sVlove
+p8
+I2
+sVyes
+p9
+I1
+sVfeat
+p10
+I1
+sVfind
+p11
+I1
+sVcontaminated
+p12
+I1
+sVhollywoods
+p13
+I1
+sVstyle
+p14
+I1
+sVtilly
+p15
+I1
+sVla
+p16
+I57
+sVexplain
+p17
+I1
+sVbust
+p18
+I1
+sVcrew
+p19
+I5
+sVbetter
+p20
+I1
+sVriding
+p21
+I1
+sVeast
+p22
+I1
+sVmight
+p23
+I5
+sVwearing
+p24
+I1
+sVme
+p25
+I1
+sVaround
+p26
+I1
+sVget
+p27
+I15
+sVbeat
+p28
+I2
+sVsunny
+p29
+I1
+sVrunny
+p30
+I1
+sVcoast
+p31
+I2
+sVfraud
+p32
+I1
+sVknow
+p33
+I2
+sVfall
+p34
+I1
+sVnot
+p35
+I1
+sVworld
+p36
+I1
+sVbit
+p37
+I1
+sVrenegade
+p38
+I1
+sVschool
+p39
+I1
+sVgets
+p40
+I1
+sVname
+p41
+I1
+sValways
+p42
+I2
+sVl
+I2
+sVsubway
+p43
+I1
+sVsoft
+p44
+I4
+sVyall
+p45
+I2
+sVmean
+p46
+I1
+sVinsane
+p47
+I1
+sVold
+p48
+I1
+sVpeople
+p49
+I1
+sVhard
+p50
+I2
+sVback
+p51
+I6
+sVshes
+p52
+I1
+sVforgot
+p53
+I1
+sVclose
+p54
+I1
+sVbest
+p55
+I1
+sVsaid
+p56
+I1
+sVrecord
+p57
+I1
+sVmine
+p58
+I1
+sVgoes
+p59
+I1
+sVgot
+p60
+I2
+sVeazye
+p61
+I2
+sVbe
+p62
+I1
+sVlike
+p63
+I6
+sVcut
+p64
+I1
+sVlet
+p65
+I1
+sVwear
+p66
+I1
+sValone
+p67
+I2
+sVcome
+p68
+I1
+sVcard
+p69
+I1
+sVbox
+p70
+I2
+sVboy
+p71
+I1
+sVbeef
+p72
+I1
+sVboast
+p73
+I1
+sVmany
+p74
+I1
+sVcould
+p75
+I1
+sVpunk
+p76
+I1
+sVbrag
+p77
+I2
+sVstand
+p78
+I1
+sVbronx
+p79
+I1
+sVcalifornia
+p80
+I8
+sVsouth
+p81
+I2
+sVfirst
+p82
+I4
+sVown
+p83
+I2
+sVwhats
+p84
+I1
+sVdont
+p85
+I13
+sVsweet
+p86
+I4
+sVscene
+p87
+I1
+sVwalk
+p88
+I2
+sVstrip
+p89
+I1
+sVraw
+p90
+I1
+sVballey
+p91
+I1
+sVhood
+p92
+I1
+sVsize
+p93
+I1
+sVcity
+p94
+I6
+sVlittle
+p95
+I2
+sVdevil
+p96
+I1
+sVwould
+p97
+I1
+sVwest
+p98
+I3
+sVgirls
+p99
+I4
+sVclothesie
+p100
+I1
+sVcali
+p101
+I1
+sVlive
+p102
+I1
+sVway
+p103
+I1
+sVhollywood
+p104
+I2
+sVvalley
+p105
+I1
+sVangels
+p106
+I3
+sVfemales
+p107
+I1
+sVsnatching
+p108
+I1
+sVturned
+p109
+I1
+sVtook
+p110
+I4
+sVyeah
+p111
+I1
+sVboys
+p112
+I2
+sVbutt
+p113
+I1
+sVe
+I2
+sVchill
+p114
+I3
+sVfly
+p115
+I1
+sVpull
+p116
+I1
+sVcrenshaw
+p117
+I1
+sVwise
+p118
+I1
+sVtalking
+p119
+I1
+sVwish
+p120
+I2
+sVride
+p121
+I1
+sVus
+p122
+I1
+sVcoats
+p123
+I1
+sVsilly
+p124
+I5
+sVcan
+p125
+I1
+sVohh
+p126
+I1
+sVmoved
+p127
+I6
+sVit
+p128
+I2
+sValley
+p129
+I1
+sVmogul
+p130
+I1
+sVfila
+p131
+I1
+sVnoiseie
+p132
+I1
+sVim
+p133
+I3
+sVwant
+p134
+I1
+sVthroat
+p135
+I1
+sVtrip
+p136
+I1
+sVthings
+p137
+I4
+sVhomeboy
+p138
+I5
+sVnick
+p139
+I1
+sVbuild
+p140
+I2
+sVplace
+p141
+I4
+sVyou
+p142
+I1
+sVtrash
+p143
+I1
+sVplay
+p144
+I4
+sVbrothers
+p145
+I1
+sVmess
+p146
+I5
+sVrhyme
+p147
+I2
+sVhang
+p148
+I1
+sVwrong
+p149
+I2
+sVthoughts
+p150
+I5
+sVoff
+p151
+I4
+sVsore
+p152
+I1
+sVdoc
+p153
+I1
+sVwell
+p154
+I3
+sVperpetrate
+p155
+I1
+sVtime
+p156
+I4
+sVthats
+p157
+I3
+s.

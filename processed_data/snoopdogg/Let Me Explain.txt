@@ -1,87 +1,669 @@
-"let me explain" lyrics
-snoop dogg lyrics
-"let me explain"
-(with erick sermon, method man)
-(feat. rl)
-have you ever seen a woman go from frantic to calm?
-like real fast? let me explain
-don't ever snap on me what? over forty nigga! what!
-you know i'm what? i'm doin me and what?!
-still look good too and what? nigga you see me? you see me man
-nigga! nigga look at the boy! nigga look at the boy!
-i see ya! uh look look look look hey hey hey look real quick
-yep! i'm like go team erick
-i was born with dopeness just swag you inherit (uh huh!)
-kids! this is why i'm hot
-playboy approach me wrong, this is why i shot
-huh! ball! i get the game from my pop
-'til everyone know my name the game don't stop
-now! not! so i keep pumpin the block
-until i'm big as rihanna and mason's rock
-while you love sosa
-i'm over here lovin this rg3 redskin that's on my sofa
-her ass alone man bigger than oprah
-puerto rican, dominican first name rosa
-anyway, let me explain one time
-uzi, we up in here makin a movie
-check slate, it's a wrap
-i'm a bigger nigga with figure you figure how's that? huh!
-hey! hey! let me explain this
-hey! hey! let me explain this
-hey! hey! (say it with your chest!)
-(lil' ass nigga! say it with your chest!)
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-my money bigger than homie you funny niggas is phony
-tony told me he showed me so i gotta get mine
-let me just slip into the back of the wide
-open your eyes let your window down now you in the passenger side
-get in, now you get it, quit it and with it
-waan come test me now tell 'em the lion did it
-and bit 'em off a chip of the block of the wood
-lil' homie couldn't rock if he could click cockin and pull
-hip hopin over lot of the bull more pull
-and yes, i am paid and full
-fa schizzay, my nizzay, erick d-i-iznay!
-that's all i'm a sizznay, okizzay
-'cause i'm too mean too cool too cold too slick
-hey! hey! nigga look real quick
-that nigga snoop about to take yo' bitch
-with no hesitation or explanation
-pimp!
-hey! hey! let me explain this
-hey! hey! let me explain this
-hey! hey! (say it with your chest!)
-(lil' ass nigga! say it with your chest!)
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-yo! like a room full of black of raw heat
-they see the flow back gettin all geek, it's like i'm pete charles i'm all street
-they come in time money but talk cheap
-but rappers wanna kick it i'm all feet
-every line artistic that's all me, my man's son autistic that's so key
-the why go and get it i'm so g
-that's why i wear the fitted so low key, that's why i kill the critic for no fee
-then tell the judge i did it and go free
-e double e my co-d
-let's throw the book at 'em what's yo' plea?
-guilty as charged that's how it is when your guilty and charged
-took a bunch of def, artist and built me a squad
-what's today's math? build with the god, weed, women and cars
-lock the game down i'm givin 'em bars
-what is life if you ain't livin it large? if you ain't livin it large
-go get the price checked and get you a job
-but wait
-hey! hey! let me explain this
-hey! hey! let me explain this
-hey! hey! (say it with your chest!)
-(lil' ass nigga! say it with your chest!)
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-hey! hey! nigga look real quick!
-yeah!
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I2
+sVmasons
+p5
+I1
+sVcheap
+p6
+I1
+sVanyway
+p7
+I1
+sVwaan
+p8
+I1
+sVkill
+p9
+I1
+sVgo
+p10
+I5
+sVyep
+p11
+I1
+sVyes
+p12
+I1
+sVstill
+p13
+I1
+sVfeat
+p14
+I1
+sVautistic
+p15
+I1
+sVuzi
+p16
+I1
+sVaint
+p17
+I2
+sVswag
+p18
+I1
+sVgivin
+p19
+I1
+sVexplain
+p20
+I10
+sVcockin
+p21
+I1
+sVrosa
+p22
+I1
+sVrihanna
+p23
+I1
+sVwindow
+p24
+I1
+sVwood
+p25
+I1
+sVblack
+p26
+I1
+sVsnap
+p27
+I1
+sVpuerto
+p28
+I1
+sVcool
+p29
+I1
+sVkick
+p30
+I1
+sVta
+p31
+I1
+sVreal
+p32
+I15
+sVgood
+p33
+I1
+sVlivin
+p34
+I2
+sVyo
+p35
+I3
+sVget
+p36
+I7
+sVya
+p37
+I1
+sVpumpin
+p38
+I1
+sVslate
+p39
+I1
+sVstop
+p40
+I1
+sVlovin
+p41
+I1
+sVgeek
+p42
+I1
+sVgame
+p43
+I3
+sVrg3
+p44
+I1
+sVevery
+p45
+I1
+sVknow
+p46
+I2
+sVjudge
+p47
+I1
+sVbit
+p48
+I1
+sVson
+p49
+I1
+sVbigger
+p50
+I3
+sVdominican
+p51
+I1
+sVschizzay
+p52
+I1
+sVcold
+p53
+I1
+sVdopeness
+p54
+I1
+sVname
+p55
+I2
+sVpimp
+p56
+I1
+sVartist
+p57
+I1
+sVsofa
+p58
+I1
+sVgettin
+p59
+I1
+sVchest
+p60
+I6
+sVcritic
+p61
+I1
+sVmethod
+p62
+I1
+sVlarge
+p63
+I2
+sVrock
+p64
+I2
+sVquick
+p65
+I14
+sVside
+p66
+I1
+sVtodays
+p67
+I1
+sVmean
+p68
+I1
+sVem
+p69
+I4
+sVbars
+p70
+I1
+sVnigga
+p71
+I23
+sVback
+p72
+I2
+sVcharles
+p73
+I1
+sVborn
+p74
+I1
+sVsee
+p75
+I4
+sVstreet
+p76
+I1
+sVerick
+p77
+I3
+sVcouldnt
+p78
+I1
+sVpete
+p79
+I1
+sVwhat
+p80
+I2
+sVhesitation
+p81
+I1
+sVoprah
+p82
+I1
+sVmovie
+p83
+I1
+sVforty
+p84
+I1
+sVwhats
+p85
+I2
+sVrl
+p86
+I1
+sVgot
+p87
+I1
+sVbunch
+p88
+I1
+sVever
+p89
+I2
+sVredskin
+p90
+I1
+sVmath
+p91
+I1
+sVtold
+p92
+I1
+sVass
+p93
+I4
+sVfull
+p94
+I2
+sVgod
+p95
+I1
+sVwan
+p96
+I1
+sVcars
+p97
+I1
+sVteam
+p98
+I1
+sVokizzay
+p99
+I1
+sVlike
+p100
+I4
+sVjob
+p101
+I1
+sVlet
+p102
+I12
+sVwear
+p103
+I1
+sVkey
+p104
+I2
+sValone
+p105
+I1
+sVweed
+p106
+I1
+sVcome
+p107
+I2
+sVthrow
+p108
+I1
+sVpull
+p109
+I2
+sVboy
+p110
+I2
+sVkids
+p111
+I1
+sVg
+I1
+sVfitted
+p112
+I1
+sVcould
+p113
+I1
+sVguilty
+p114
+I2
+sVkeep
+p115
+I1
+sVcod
+p116
+I1
+sVblock
+p117
+I2
+sVfirst
+p118
+I1
+sVlove
+p119
+I1
+sVdont
+p120
+I2
+sVhopin
+p121
+I1
+sVmakin
+p122
+I1
+sVpop
+p123
+I1
+sVone
+p124
+I1
+sVfeet
+p125
+I1
+sVeveryone
+p126
+I1
+sVbitch
+p127
+I1
+sVsosa
+p128
+I1
+sVwrap
+p129
+I1
+sVrican
+p130
+I1
+sVopen
+p131
+I1
+sVsermon
+p132
+I1
+sVquit
+p133
+I1
+sVfee
+p134
+I1
+sVchecked
+p135
+I1
+sVsnoop
+p136
+I2
+sVhip
+p137
+I1
+sVdogg
+p138
+I1
+sVhey
+p139
+I47
+sVfast
+p140
+I1
+sVapproach
+p141
+I1
+sVcalm
+p142
+I1
+sVlot
+p143
+I1
+sVwait
+p144
+I1
+sVtell
+p145
+I2
+sVlow
+p146
+I1
+sVfree
+p147
+I1
+sVeyes
+p148
+I1
+sVplayboy
+p149
+I1
+sVexplanation
+p150
+I1
+sVhuh
+p151
+I3
+sVphony
+p152
+I1
+sVit
+p153
+I2
+sVheat
+p154
+I1
+sVmans
+p155
+I1
+sVbull
+p156
+I1
+sVline
+p157
+I1
+sVsquad
+p158
+I1
+sVwomen
+p159
+I1
+sVwide
+p160
+I1
+sVlook
+p161
+I21
+sVshowed
+p162
+I1
+sVniggas
+p163
+I1
+sVthis
+p164
+I6
+sVdouble
+p165
+I1
+sVsizznay
+p166
+I1
+sVlion
+p167
+I1
+sVplea
+p168
+I1
+sVhomie
+p169
+I2
+sVuh
+p170
+I2
+sVim
+p171
+I14
+sVdef
+p172
+I1
+sVpassenger
+p173
+I1
+sVfigure
+p174
+I2
+sVlock
+p175
+I1
+sVchip
+p176
+I1
+sVmine
+p177
+I1
+sVraw
+p178
+I1
+sVsay
+p179
+I6
+sVwoman
+p180
+I1
+sVfrantic
+p181
+I1
+sVslip
+p182
+I1
+sVseen
+p183
+I1
+sVprice
+p184
+I1
+sVcheck
+p185
+I1
+sVfunny
+p186
+I1
+sVbuilt
+p187
+I1
+sVlil
+p188
+I4
+sVna
+p189
+I1
+sVclick
+p190
+I1
+sVtil
+p191
+I1
+sVhot
+p192
+I1
+sVbook
+p193
+I1
+sVtake
+p194
+I1
+sVbig
+p195
+I1
+sVtest
+p196
+I1
+sVlife
+p197
+I1
+sVartistic
+p198
+I1
+sVslick
+p199
+I1
+sVball
+p200
+I1
+sVlets
+p201
+I1
+sVnizzay
+p202
+I1
+sVdoin
+p203
+I1
+sVdiiznay
+p204
+I1
+sVpaid
+p205
+I1
+sVtook
+p206
+I1
+sVrappers
+p207
+I1
+sVfa
+p208
+I1
+sVwrong
+p209
+I1
+sVbuild
+p210
+I1
+sVman
+p211
+I3
+sVyeah
+p212
+I1
+sVhows
+p213
+I1
+sVcause
+p214
+I1
+sVe
+I2
+sVroom
+p215
+I1
+sVflow
+p216
+I1
+sVinherit
+p217
+I1
+sVtalk
+p218
+I1
+sVtime
+p219
+I2
+sVthats
+p220
+I7
+sVtony
+p221
+I1
+sVcharged
+p222
+I2
+s.

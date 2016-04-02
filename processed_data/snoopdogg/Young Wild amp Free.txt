@@ -1,60 +1,517 @@
-"young, wild & free" lyrics
-snoop dogg lyrics
-"young, wild & free"
-(with wiz khalifa)
-(feat. bruno mars)
-so what we get drunk?
-so what we smoke weed?
-we’re just having fun
-we don’t care who sees
-so what we go out?
-that’s how its supposed to be
-living young and wild and free
-so what i keep ‘em rolled up?
-saggin’ my pants, not caring what i show
-keep it real with my niggas
-keep it player for these hoes
-and look clean don't it?
-washed it the other day, watch how you lean on it
-give me some 501 jeans on it
-roll joints bigger than king kong’s fingers
-and smoke them hoes down ’til they stingers
-you a class clown and if i skip for the day
-i’m with your bitch smokin’ grade a
-you know what?
-it’s like i’m 17 again
-peach fuzz on my face
-lookin’, on the case
-tryna find a hella taste
-oh my god, i’m on the chase, chevy
-it's gettin’ kinda heavy, relevant, sellin’ it
-dippin’ away, time keeps slippin’ away
-zip in the safe, flippin’ for pay
-tippin’ like i’m drippin’ in paint
-up front, four blunts, like, “khalifa put the weed in a j”
-and i don't even care
-cause if me and my team in there
-there's gonna be some weed in the air
-tell 'em mac
-blowin' everywhere we goin' and now you knowin'
-when i step right up, get my lighter so i can light up
-that's how it should be done
-soon as you thinkin' you're down
-find how to turn things around
-now things are lookin' up
-from the ground up, pound up, this taylor gang
-so turn my sound up and mount up and do my thang
-now i'm chillin', fresh outta class, feelin'
-like i'm on my own and i could probably own a building
-got my own car, no job, no children
-had a science project, me and mac killed it
-t-h-c, m-a-c, d-e-v, h-d-3, high as me
-this is us, we gon' fuss
-and we gon' fight and we gon' roll
-and live off life
-yea, roll one, smoke one
-when you live like this you’re supposed to party
-roll one, smoke one, and we all just having fun
-so we just, roll one, smoke one
-when you live like this you’re supposed to party
-roll one, smoke one, and we all just having fun
+(dp1
+Vscience
+p2
+I1
+sVthings
+p3
+I2
+sVlyrics
+p4
+I2
+sVshow
+p5
+I1
+sVyea
+p6
+I1
+sVwashed
+p7
+I1
+sVslippin\u2019
+p8
+I1
+sVsoon
+p9
+I1
+sVchillin
+p10
+I1
+sVfour
+p11
+I1
+sVdippin\u2019
+p12
+I1
+sVgang
+p13
+I1
+sVgo
+p14
+I1
+sVfeat
+p15
+I1
+sVfind
+p16
+I2
+sVground
+p17
+I1
+sVblowin
+p18
+I1
+sVthang
+p19
+I1
+sVit\u2019s
+p20
+I1
+sVyoung
+p21
+I3
+sVkilled
+p22
+I1
+sVskip
+p23
+I1
+sVtell
+p24
+I1
+sVreal
+p25
+I1
+sVpay
+p26
+I1
+sVaround
+p27
+I1
+sVget
+p28
+I2
+sVi\u2019m
+p29
+I4
+sVfuss
+p30
+I1
+sVsafe
+p31
+I1
+sVwatch
+p32
+I1
+sVfeelin
+p33
+I1
+sVme
+p34
+I1
+sVknow
+p35
+I1
+sVlighter
+p36
+I1
+sVgot
+p37
+I1
+sVfront
+p38
+I1
+sVday
+p39
+I2
+sVbigger
+p40
+I1
+sVlike
+p41
+I6
+sVclown
+p42
+I1
+sVfuzz
+p43
+I1
+sVteam
+p44
+I1
+sVheavy
+p45
+I1
+sVstingers
+p46
+I1
+sVright
+p47
+I1
+sVkhalifa
+p48
+I1
+sVyou\u2019re
+p49
+I2
+sVus
+p50
+I1
+sVhoes
+p51
+I2
+sVgettin\u2019
+p52
+I1
+sVkong\u2019s
+p53
+I1
+sVout
+p54
+I1
+sVeven
+p55
+I1
+sVliving
+p56
+I1
+sVwhat
+p57
+I1
+sVgon
+p58
+I4
+sVgod
+p59
+I1
+sVaway
+p60
+I2
+sVlean
+p61
+I1
+sVfingers
+p62
+I1
+sVchildren
+p63
+I1
+sVbruno
+p64
+I1
+sVprobably
+p65
+I1
+sVcause
+p66
+I1
+sVthc
+p67
+I1
+sVpants
+p68
+I1
+sVbe
+p69
+I1
+sVrolled
+p70
+I1
+sVlookin\u2019
+p71
+I1
+sVfun
+p72
+I3
+sVstep
+p73
+I1
+sVfree
+p74
+I3
+sVput
+p75
+I1
+sVcare
+p76
+I2
+sVzip
+p77
+I1
+sVknowin
+p78
+I1
+sVoh
+p79
+I1
+sVcould
+p80
+I1
+sVjob
+p81
+I1
+sVkeep
+p82
+I3
+sVchevy
+p83
+I1
+sVturn
+p84
+I2
+sVsmoke
+p85
+I6
+sVthats
+p86
+I1
+sVem
+p87
+I1
+sVtippin\u2019
+p88
+I1
+sVrelevant
+p89
+I1
+sVdont
+p90
+I2
+sVdrunk
+p91
+I1
+sVgrade
+p92
+I1
+sVjeans
+p93
+I1
+sVone
+p94
+I8
+sVdown
+p95
+I1
+sVna
+p96
+I1
+sVtaylor
+p97
+I1
+sVdone
+p98
+I1
+sVbitch
+p99
+I1
+sVoutta
+p100
+I1
+sVwiz
+p101
+I1
+sVblunts
+p102
+I1
+sVcaring
+p103
+I1
+sVhd3
+p104
+I1
+sVsnoop
+p105
+I1
+sVsmokin\u2019
+p106
+I1
+sVdogg
+p107
+I1
+sVthere
+p108
+I1
+sVfight
+p109
+I1
+sVpaint
+p110
+I1
+sVlive
+p111
+I3
+sVdon\u2019t
+p112
+I1
+sVmars
+p113
+I1
+sVsellin\u2019
+p114
+I1
+sV501
+p115
+I1
+sVtryna
+p116
+I1
+sVlife
+p117
+I1
+sVbuilding
+p118
+I1
+sVeverywhere
+p119
+I1
+sVcase
+p120
+I1
+sVking
+p121
+I1
+sVlook
+p122
+I1
+sV17
+p123
+I1
+sVniggas
+p124
+I1
+sVcar
+p125
+I1
+sVmount
+p126
+I1
+sVup
+p127
+I3
+sVdev
+p128
+I1
+sVair
+p129
+I1
+sVproject
+p130
+I1
+sVflippin\u2019
+p131
+I1
+sVsupposed
+p132
+I3
+sVwild
+p133
+I3
+sVim
+p134
+I2
+sVsaggin\u2019
+p135
+I1
+sVtheres
+p136
+I1
+sVpound
+p137
+I1
+sVsees
+p138
+I1
+sVgive
+p139
+I1
+sVtaste
+p140
+I1
+sVjoints
+p141
+I1
+sVwe\u2019re
+p142
+I1
+sVit
+p143
+I5
+sVhigh
+p144
+I1
+sVplayer
+p145
+I1
+sV\u2019til
+p146
+I1
+sVlookin
+p147
+I1
+sVchase
+p148
+I1
+sVagain
+p149
+I1
+sVpeach
+p150
+I1
+sV\u2018em
+p151
+I1
+sVthinkin
+p152
+I1
+sVsound
+p153
+I1
+sVdrippin\u2019
+p154
+I1
+sVparty
+p155
+I2
+sVroll
+p156
+I6
+sVthat\u2019s
+p157
+I1
+sVj\u201d
+p158
+I1
+sVkeeps
+p159
+I1
+sVweed
+p160
+I3
+sVmac
+p161
+I3
+sVkinda
+p162
+I1
+sVclass
+p163
+I2
+sVgoin
+p164
+I1
+sVa
+I1
+sVlight
+p165
+I1
+sVyoure
+p166
+I1
+sVface
+p167
+I1
+sVhella
+p168
+I1
+sVclean
+p169
+I1
+sVtime
+p170
+I1
+sVfresh
+p171
+I1
+sV\u201ckhalifa
+p172
+I1
+s.

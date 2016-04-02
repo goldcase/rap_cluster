@@ -1,85 +1,680 @@
-"money and the power" lyrics
-scarface lyrics
-"money and the power"
-money and the power, money and the power
-i ain't fallin short i got the
-money and the power
-yup!  hehehahaha, hehe ha hah hah.. yeah
-money and the power, money and the power
-never goin back cause i got
-money and the power
-deep in the heart of south park lurks a stalker
-s.a. fool, native houston south parker
-born and brought up to be a heartless motherfucker
-no one else to blame, fuck it blame it on my mother
-when i was growin up nobody seemed to give a shit
-and that's what makes me one hard son of a bitch
-since they ain't give a shit, i ain't give a shit either
-sweet 16, time to stack me up some ki's
-learned the game of hustlin, fuckin dopefienders
-sellin niggaz beat, in other words amphetamines
-my game was more advanced, sellin speed i'm goin broke
-got em up with floyd and floyd had fronted me some dope
-learned to rock it up, now i got it sold
-time to go for broke, motherfuck who i owe
-business started boomin, started movin powder
-motherfuck the bitches i want money and the power.. yup!
-money and the power, money and the power
-i ain't fallin short i got the
-money and the power
-yup!
-money and the power, money and the power
-bitches on my dick cause i got
-money and the power
-bought me a caddy, 30's and vogues
-brand new crib, brand new clothes
-mom would ask questions, and often pitch a bitch
-where am i gettin the money?  mickey d's ain't paid me shit
-i'd make up a story, just to get her off my back
-uh oh i got a beep i think my boys are out of crack
-everything was smooth, exactly how i played it
-a dollar to be made, best believe a nigga made it
-nickels dimes and twenties, and sixty cent bumps
-nigga rollin hard, stackin paper like trump
-and i ain't give a fuck i told you that from the jump
-didn't worry about no static i had a motherfuckin pump
-ass out of line, word em up a nigga sprayed em
-momma told me shoot first, and ask questions later..
-six hundred bucks a motherfuckin hour
-and i ain't fallin short cause i got money and the power, yup
-money and the power, money and the power
-i ain't fallin short i got the
-money and the power
-yeah..
-money and the power, money and the power
-i got it like dat, cause i got
-money and the power
-there goes 21, and still stackin 30's
-brought my brother warren lee down from new jersey
-he helped me for a minute then he started screwin up
-said fuck gettin paid, i guess my brother'd rather fuck
-bitches ran his life, and they're still runnin lee
-i guess he doesn't realize the bitch is fuckin me
-it really doesn't matter, cause ac'll never tell
-he can stay broke, but i got dope to sell
-i step out on the cut, shit was lookin funny
-i ran back in the house and started callin up my money
-i signaled for my workers, to bring in all the dope
-i can feel the bust and sure enough in comes the 5-0
-niggaz stayed relaxed but they was friskin niggaz up
-if someone said my name then i was definitely fucked
-but i'ma play it cool, if i kill i gotta kill
-fightin for my shit, i never ran and never will
-come to find out, they wasn't fuckin with my boys
-busted a nigga who said he paid em, talkin noise
-hehehehehe.. i guess the juices are sour
-but i ain't fallin short cause i got money and the power yup!
-money and the power, money and the power
-sold a million records i got
-money and the power
-yup!
-money and the power, money and the power
-best to come clean, cause i got
-money and the power
-money and the power, money and the power
-money and the pow-the-pow-the-pow-the-pow-the-power!
+(dp1
+Vhouston
+p2
+I1
+sVparker
+p3
+I1
+sVmom
+p4
+I1
+sVlyrics
+p5
+I2
+sVmoney
+p6
+I34
+sVdollar
+p7
+I1
+sVbring
+p8
+I1
+sVpaper
+p9
+I1
+sVkill
+p10
+I2
+sVquestions
+p11
+I2
+sVstalker
+p12
+I1
+sVgo
+p13
+I1
+sVstill
+p14
+I2
+sVspeed
+p15
+I1
+sVfind
+p16
+I1
+sVseemed
+p17
+I1
+sVaint
+p18
+I9
+sVbelieve
+p19
+I1
+sV21
+p20
+I1
+sVmillion
+p21
+I1
+sVtalkin
+p22
+I1
+sVworkers
+p23
+I1
+sVdick
+p24
+I1
+sVenough
+p25
+I1
+sVbust
+p26
+I1
+sVrealize
+p27
+I1
+sVfeel
+p28
+I1
+sVnickels
+p29
+I1
+sVminute
+p30
+I1
+sVcrack
+p31
+I1
+sVcool
+p32
+I1
+sVmotherfuckin
+p33
+I2
+sVfool
+p34
+I1
+sVrunnin
+p35
+I1
+sVcallin
+p36
+I1
+sVboomin
+p37
+I1
+sVget
+p38
+I1
+sVbeat
+p39
+I1
+sVdope
+p40
+I3
+sVdat
+p41
+I1
+sVme
+p42
+I1
+sVgame
+p43
+I2
+sVcrib
+p44
+I1
+sVwords
+p45
+I1
+sVnew
+p46
+I3
+sVone
+p47
+I2
+sVds
+p48
+I1
+sVadvanced
+p49
+I1
+sVname
+p50
+I1
+sVlike
+p51
+I2
+sVgettin
+p52
+I2
+sVbrother
+p53
+I1
+sVtheyre
+p54
+I1
+sVhehehahaha
+p55
+I1
+sVsprayed
+p56
+I1
+sVeither
+p57
+I1
+sVrock
+p58
+I1
+sVtold
+p59
+I2
+sVclothes
+p60
+I1
+sVem
+p61
+I4
+sVthe
+p62
+I3
+sVnigga
+p63
+I4
+sVoften
+p64
+I1
+sVhouse
+p65
+I1
+sVhard
+p66
+I2
+sVyeah
+p67
+I2
+sV50
+p68
+I1
+sVjump
+p69
+I1
+sVborn
+p70
+I1
+sVsure
+p71
+I1
+sVstatic
+p72
+I1
+sVpowder
+p73
+I1
+sVuh
+p74
+I1
+sVguess
+p75
+I3
+sVbest
+p76
+I2
+sVreally
+p77
+I1
+sVmovin
+p78
+I1
+sVsaid
+p79
+I3
+sVpower
+p80
+I31
+sVexactly
+p81
+I1
+sVsince
+p82
+I1
+sVlurks
+p83
+I1
+sVeverything
+p84
+I1
+sVpump
+p85
+I1
+sVgoes
+p86
+I1
+sVjuices
+p87
+I1
+sVit
+p88
+I2
+sVgot
+p89
+I16
+sVlearned
+p90
+I2
+sVwarren
+p91
+I1
+sVcause
+p92
+I7
+sVbought
+p93
+I1
+sVass
+p94
+I1
+sVhah
+p95
+I2
+sVnoise
+p96
+I1
+sVlee
+p97
+I2
+sVbusiness
+p98
+I1
+sVsold
+p99
+I2
+sVnever
+p100
+I4
+sVmotherfucker
+p101
+I1
+sVsignaled
+p102
+I1
+sVblame
+p103
+I2
+sVbumps
+p104
+I1
+sVcut
+p105
+I1
+sVima
+p106
+I1
+sVask
+p107
+I2
+sVcome
+p108
+I2
+sVoh
+p109
+I1
+sVyup
+p110
+I6
+sVfightin
+p111
+I1
+sVstep
+p112
+I1
+sVbusted
+p113
+I1
+sVlookin
+p114
+I1
+sVfriskin
+p115
+I1
+sVdimes
+p116
+I1
+sVmakes
+p117
+I1
+sVthink
+p118
+I1
+sVfuckin
+p119
+I3
+sVthats
+p120
+I1
+sVowe
+p121
+I1
+sVsweet
+p122
+I1
+sVgrowin
+p123
+I1
+sVson
+p124
+I1
+sVbrought
+p125
+I2
+sVsixty
+p126
+I1
+sVmomma
+p127
+I1
+sVdoesnt
+p128
+I2
+sVbitch
+p129
+I3
+sVfallin
+p130
+I5
+sVhehe
+p131
+I1
+sVstory
+p132
+I1
+sVwould
+p133
+I1
+sVplayed
+p134
+I1
+sVcent
+p135
+I1
+sVbeep
+p136
+I1
+sVcomes
+p137
+I1
+sVtwenties
+p138
+I1
+sVhustlin
+p139
+I1
+sVamphetamines
+p140
+I1
+sVhundred
+p141
+I1
+sVtell
+p142
+I1
+sVlife
+p143
+I1
+sV30s
+p144
+I2
+sVmotherfuck
+p145
+I2
+sVstarted
+p146
+I4
+sVbrand
+p147
+I2
+sVbitches
+p148
+I3
+sVpark
+p149
+I1
+sVback
+p150
+I3
+sVboys
+p151
+I2
+sVfloyd
+p152
+I2
+sVheartless
+p153
+I1
+sVbroke
+p154
+I3
+sVline
+p155
+I1
+sVha
+p156
+I1
+sVdopefienders
+p157
+I1
+sVshoot
+p158
+I1
+sVmade
+p159
+I2
+sVword
+p160
+I1
+sVhour
+p161
+I1
+sV16
+p162
+I1
+sVsmooth
+p163
+I1
+sVup
+p164
+I2
+sVniggaz
+p165
+I3
+sVwill
+p166
+I1
+sVmatter
+p167
+I1
+sVsour
+p168
+I1
+sVfronted
+p169
+I1
+sVim
+p170
+I1
+sVpitch
+p171
+I1
+sVdidnt
+p172
+I1
+sVmickey
+p173
+I1
+sVheart
+p174
+I1
+sVtrump
+p175
+I1
+sVgive
+p176
+I4
+sVran
+p177
+I3
+sVstackin
+p178
+I2
+sVfuck
+p179
+I4
+sVdeep
+p180
+I1
+sVhelped
+p181
+I1
+sVwasnt
+p182
+I1
+sVsomeone
+p183
+I1
+sVscarface
+p184
+I1
+sVwant
+p185
+I1
+sVbucks
+p186
+I1
+sVvogues
+p187
+I1
+sVid
+p188
+I1
+sVshit
+p189
+I6
+sVnative
+p190
+I1
+sVsell
+p191
+I1
+sVfunny
+p192
+I1
+sVhehehehehe
+p193
+I1
+sVscrewin
+p194
+I1
+sVsellin
+p195
+I2
+sVrather
+p196
+I1
+sVmake
+p197
+I1
+sVsix
+p198
+I1
+sVacll
+p199
+I1
+sVstayed
+p200
+I1
+sVjersey
+p201
+I1
+sVworry
+p202
+I1
+sVrelaxed
+p203
+I1
+sVplay
+p204
+I1
+sVnobody
+p205
+I1
+sVkis
+p206
+I1
+sVcaddy
+p207
+I1
+sVpowthepowthepowthepowthepower
+p208
+I1
+sVmother
+p209
+I1
+sVpaid
+p210
+I3
+sVstay
+p211
+I1
+sVbrotherd
+p212
+I1
+sVfucked
+p213
+I1
+sVelse
+p214
+I1
+sVstack
+p215
+I1
+sVgoin
+p216
+I2
+sVshort
+p217
+I5
+sVrecords
+p218
+I1
+sVta
+p219
+I1
+sVlater
+p220
+I1
+sVrollin
+p221
+I1
+sVdefinitely
+p222
+I1
+sVsouth
+p223
+I2
+sVclean
+p224
+I1
+sVtime
+p225
+I2
+sVsa
+p226
+I1
+sVfirst
+p227
+I1
+s.

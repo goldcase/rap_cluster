@@ -1,73 +1,404 @@
-pinocchio story lyrics
-kanye west lyrics
-pinocchio story
-wise men say
-wise men say
-wise men say
-baddest niggas bro
-never figure real love
-youll never figure real love
-youll never figure real love
-crazy
-got everything figured out
-reason never find real love about
-doubt
-everything world figured never seem find real love about
-think sacrificed real life
-fame flashing lights
-think sacrifice real life
-fame flashing lights
-gucci buy
-louis vuitton put on
-ysl could sell
-get heart hell
-mind jail
-clothes could buy
-could turn back time
-vacation spot could fly
-could bring back piece real life
-real life feel like
-ask tonight ask tonight
-feel like ask tonight
-live real life
-want real boy
-always say kanye keeps real boy
-pinocchio story want real boy
-pinocchio story real boy
-funny pinocchio lied thats kept it
-tell truth keep running
-like im looking something trying find something
-turn tv see see nothing
-feel like live real life real
-facade tv really feel
-really stamina
-everybody sees say wheres camera
-everybody sees says sign autograph
-everybody sees says that
-that
-want real boy
-pinocchio story goes want real boy
-pinocchio story goes
-gepetto guide one right beside me
-one behind cant find more
-cant find cant
-one come tour stay stay stay
-back living home big dream
-fame got caught
-day moved la
-maybe fault
-fault real boy
-chasing american dream
-chasing everything seen
-tv screen
-benz left
-clothes left
-hoes left
-talk hoes death thinkin money the
-spent doughs death
-tell whattf real boy
-say kanye keep real boy
-perspective wise man say one day youll find way
-wise man say youll find way
-wise man say youll find way
-wise man say
+(dp1
+Vgepetto
+p2
+I1
+sVlyrics
+p3
+I2
+sVmoney
+p4
+I1
+sVbring
+p5
+I1
+sVhell
+p6
+I1
+sVfind
+p7
+I8
+sVdeath
+p8
+I2
+sVdoughs
+p9
+I1
+sVpinocchio
+p10
+I7
+sVtv
+p11
+I3
+sVbaddest
+p12
+I1
+sVflashing
+p13
+I2
+sVreal
+p14
+I21
+sVme
+p15
+I1
+sVget
+p16
+I1
+sVbig
+p17
+I1
+sVworld
+p18
+I1
+sVday
+p19
+I2
+sVlike
+p20
+I4
+sVsacrificed
+p21
+I1
+sValways
+p22
+I1
+sVniggas
+p23
+I1
+sVtruth
+p24
+I1
+sVlouis
+p25
+I1
+sVclothes
+p26
+I2
+sVright
+p27
+I1
+sVsays
+p28
+I2
+sVback
+p29
+I3
+sVsign
+p30
+I1
+sVsee
+p31
+I2
+sVperspective
+p32
+I1
+sVkanye
+p33
+I3
+sVhome
+p34
+I1
+sVout
+p35
+I1
+sVliving
+p36
+I1
+sVlooking
+p37
+I1
+sVeverything
+p38
+I3
+sVbehind
+p39
+I1
+sVgoes
+p40
+I2
+sVgot
+p41
+I2
+sVyoull
+p42
+I5
+sVmen
+p43
+I3
+sVlights
+p44
+I2
+sVscreen
+p45
+I1
+sVnever
+p46
+I5
+sVreason
+p47
+I1
+sVput
+p48
+I1
+sVcome
+p49
+I1
+sVvuitton
+p50
+I1
+sVboy
+p51
+I9
+sVabout
+p52
+I2
+sVfigured
+p53
+I2
+sVfault
+p54
+I2
+sVcould
+p55
+I5
+sVla
+p56
+I1
+sVkeep
+p57
+I2
+sVturn
+p58
+I2
+sVtour
+p59
+I1
+sVthink
+p60
+I2
+sVthats
+p61
+I1
+sVlove
+p62
+I5
+sVlied
+p63
+I1
+sVfeel
+p64
+I4
+sVone
+p65
+I4
+sVbro
+p66
+I1
+sVask
+p67
+I3
+sVhoes
+p68
+I2
+sVeverybody
+p69
+I3
+sVstory
+p70
+I6
+sVwest
+p71
+I1
+sVcaught
+p72
+I1
+sVvacation
+p73
+I1
+sVstamina
+p74
+I1
+sVlive
+p75
+I2
+sVdoubt
+p76
+I1
+sVautograph
+p77
+I1
+sVway
+p78
+I3
+sVtell
+p79
+I2
+sVmore
+p80
+I1
+sVlife
+p81
+I6
+sVbuy
+p82
+I2
+sVon
+p83
+I1
+sVmoved
+p84
+I1
+sVchasing
+p85
+I2
+sVtrying
+p86
+I1
+sVfly
+p87
+I1
+sVwise
+p88
+I7
+sVysl
+p89
+I1
+sVcant
+p90
+I3
+sVgucci
+p91
+I1
+sVwhattf
+p92
+I1
+sVpiece
+p93
+I1
+sVguide
+p94
+I1
+sVheart
+p95
+I1
+sVcrazy
+p96
+I1
+sVsees
+p97
+I3
+sVfigure
+p98
+I3
+sVbenz
+p99
+I1
+sVmind
+p100
+I1
+sVit
+p101
+I1
+sVtonight
+p102
+I3
+sVsay
+p103
+I10
+sVim
+p104
+I1
+sVsomething
+p105
+I2
+sVwant
+p106
+I4
+sVfacade
+p107
+I1
+sVseen
+p108
+I1
+sVseem
+p109
+I1
+sVfame
+p110
+I3
+sVsell
+p111
+I1
+sVfunny
+p112
+I1
+sVthinkin
+p113
+I1
+sVthat
+p114
+I2
+sVamerican
+p115
+I1
+sVbeside
+p116
+I1
+sVreally
+p117
+I2
+sVcamera
+p118
+I1
+sVsacrifice
+p119
+I1
+sVtime
+p120
+I1
+sVspot
+p121
+I1
+sVstay
+p122
+I3
+sVrunning
+p123
+I1
+sVnothing
+p124
+I1
+sVwheres
+p125
+I1
+sVman
+p126
+I4
+sVkept
+p127
+I1
+sVmaybe
+p128
+I1
+sVspent
+p129
+I1
+sVjail
+p130
+I1
+sVkeeps
+p131
+I1
+sVthe
+p132
+I1
+sVdream
+p133
+I2
+sVtalk
+p134
+I1
+sVleft
+p135
+I3
+s.

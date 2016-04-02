@@ -1,104 +1,920 @@
-"murder" lyrics
-ugk lyrics
-"murder"
-i'm still pimp c bitch so what the fuck is up?
-i'm puttin' powder on the streets cause i got
-big fuckin' nut's comin' back from louisiana
-in a fleetwood lac <<corrected
-i just served them nigga's shit to put them feinds on they back
-got the pound goin for four cause you know i just
-pay two nigga bought thirty from me
-so i fronted forty two, he gonna pop to seven hundred
-times sixty two, twenty four eight is what i do
-so nigga fuck what 'cha do
-if i told ya cocaine number's you think i was lyin'
-young ass nigga's twenty two talkin' bout they retirin'
-in the game ain't a thang comin' forgien in benz
-rick ass home two apartment's where i entertain
-friends mo bounce to the ounce
-cause the bomb the shit, i done got me
-fifty ounces out of a bird in dis bitch
-tightin' up no slackin bitches checkin' my stock
-got some birds i sell to niggas some i go rock for rock
-just got back from california kicked it with b-legit
-put me down with purple chronic and that hurricane shit
-at the studio with tone, man i wish i could stay
-i got to holla at master p, cause we got money to make
-were big playa'z from the south stack gee'z man
-like ball i got to stack big cheeze man
-bitch say he wanna show ya
-you got nine grand i ain't rappin' shit
-till my money in my hand
-south texas mutherfucka that's where i stay
-gettin' money from yo bitches every
-got damn day
-big paper i'm foldin'
-hoes is on my mutherfuckin' jock
-for all this dick i be holdin'
-i hate clone man show it
-especially if a fool take our style and
-act like my nigga's don't know it
-i kick it with the trill nigga's so you best's
-not trip if ya keep on talkin' shit
-my nigga empty clips
-hoe azz nigga
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
-well this bun-b bitch and i'm the king
-i'm movin' chickens got 'em finger lickin'
-stickin' nigga's dat be trippin'
-you need a swift kickin' yo azz is right for the pickin'
-now as my pocket's thicken
-i be thinkin' nigga's slippin' you sick
-when i be clickin' now take a look at the
-bigger nigga malt liquor swigger
-playa hata ditch digger figure
-my hair trigger give a hot one in yo liver
-you shiver shake and quiver
-i'm frivoulous of a nigga you wetter den a river
-for what it's worth it's the purpose some nigga's doin' dirt
-fuck her first now take off her skirt
-make the pussy hurt mister master
-hit the swisha faster then fever bilstar
-blister bastard fuck her sister faster
-peep the elbows for sale yo
-brother better have my mail hoe
-before i catch a murder case and go to jail oh
-hell no, time to bail hit the trail so
-we can sell mo fuckin' yayo get the scale
-no other bullet duckers can sove up
-out of this game they better buck us
-cause the clucker's they love us
-make them class dick suckers
-shake they jelly like smucker's
-i hit like nun-chuckers
-cause short texas bring the ruckus
-this for my mufuckas
-cookin' cheese to crooked geez
-rockin' up quarter key's
-just to get the hook with ease
-wanna bee's get on yo knee's
-feel the squeeze from them hk one three's
-from here to over sea's
-we do what we please
-don't trip cause we flip
-light up a dip
-i'm breakin' 'em off from they hip to yo lip
-go ask that boy skip
-that nigga bun rip
-with one clip, soon as the gun slip
-now i done ripped out my barrette
-flyin' through yo pelle pelle and
-some smelly red jelly is drippin' out of ya belly
-servin' 'em up like a deli jumped on my cellular telly
-hoe sell it like it's goin' out of style
-you can't see me marcus so have a
-motherfuckin' sweet and smile.
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
-murder, mur, mur, murder
+(dp1
+Vugk
+p2
+I1
+sVthicken
+p3
+I1
+sVbomb
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I2
+sVmoney
+p7
+I3
+sVsoon
+p8
+I1
+sVfifty
+p9
+I1
+sVfour
+p10
+I2
+sVcatch
+p11
+I1
+sVbilstar
+p12
+I1
+sVpaper
+p13
+I1
+sVwetter
+p14
+I1
+sVsmelly
+p15
+I1
+sVounces
+p16
+I1
+sVgo
+p17
+I3
+sVhell
+p18
+I1
+sVstill
+p19
+I1
+sVhate
+p20
+I1
+sVbirds
+p21
+I1
+sVjock
+p22
+I1
+sVaint
+p23
+I2
+sVstyle
+p24
+I2
+sVjust
+p25
+I1
+sVthang
+p26
+I1
+sVretirin
+p27
+I1
+sVdick
+p28
+I2
+sVyoung
+p29
+I1
+sVsove
+p30
+I1
+sVlyin
+p31
+I1
+sVfeel
+p32
+I1
+sVblegit
+p33
+I1
+sVrick
+p34
+I1
+sVhook
+p35
+I1
+sVbests
+p36
+I1
+sVmail
+p37
+I1
+sVbout
+p38
+I1
+sVworth
+p39
+I1
+sVtexas
+p40
+I2
+sVbelly
+p41
+I1
+sVfool
+p42
+I1
+sVdo
+p43
+I2
+sVservin
+p44
+I1
+sVhit
+p45
+I3
+sVyo
+p46
+I7
+sVget
+p47
+I3
+sVya
+p48
+I4
+sVbig
+p49
+I4
+sVcheckin
+p50
+I1
+sVdat
+p51
+I1
+sVnunchuckers
+p52
+I1
+sVgame
+p53
+I2
+sVevery
+p54
+I1
+sVknow
+p55
+I2
+sVcellular
+p56
+I1
+sVkick
+p57
+I1
+sVshiver
+p58
+I1
+sVday
+p59
+I1
+sVbigger
+p60
+I1
+sVthinkin
+p61
+I1
+sVtrippin
+p62
+I1
+sVlike
+p63
+I6
+sVpimp
+p64
+I1
+sVchronic
+p65
+I1
+sVgettin
+p66
+I1
+sVbrother
+p67
+I1
+sVbail
+p68
+I1
+sVp
+I1
+sVholdin
+p69
+I1
+sVman
+p70
+I4
+sVrock
+p71
+I2
+sVdeli
+p72
+I1
+sVserved
+p73
+I1
+sVbought
+p74
+I1
+sVdip
+p75
+I1
+sVmalt
+p76
+I1
+sVdis
+p77
+I1
+sVem
+p78
+I3
+sVthe
+p79
+I1
+sVnigga
+p80
+I7
+sVapartments
+p81
+I1
+sVseas
+p82
+I1
+sVliquor
+p83
+I1
+sVstreets
+p84
+I1
+sVback
+p85
+I3
+sVbounce
+p86
+I1
+sVflip
+p87
+I1
+sVhair
+p88
+I1
+sVslippin
+p89
+I1
+sVsee
+p90
+I1
+sVball
+p91
+I1
+sVpowder
+p92
+I1
+sVhoes
+p93
+I1
+sVhome
+p94
+I1
+sVknees
+p95
+I1
+sVmovin
+p96
+I1
+sVgon
+p97
+I1
+sVplayaz
+p98
+I1
+sVmur
+p99
+I20
+sVpurple
+p100
+I1
+sVmister
+p101
+I1
+sVdirt
+p102
+I1
+sVhurricane
+p103
+I1
+sVforty
+p104
+I1
+sVmarcus
+p105
+I1
+sVcase
+p106
+I1
+sVmutherfuckin
+p107
+I1
+sVfinger
+p108
+I1
+sVplaya
+p109
+I1
+sVgot
+p110
+I11
+sVmufuckas
+p111
+I1
+sVcause
+p112
+I7
+sVbird
+p113
+I1
+sVred
+p114
+I1
+sVtold
+p115
+I1
+sVass
+p116
+I2
+sVripped
+p117
+I1
+sVkicked
+p118
+I1
+sVfrivoulous
+p119
+I1
+sVden
+p120
+I1
+sVlove
+p121
+I1
+sVwan
+p122
+I2
+sVentertain
+p123
+I1
+sVcalifornia
+p124
+I1
+sVsmuckers
+p125
+I1
+sVsixty
+p126
+I1
+sVsuckers
+p127
+I1
+sVpeep
+p128
+I1
+sVstay
+p129
+I2
+sVswift
+p130
+I1
+sVcookin
+p131
+I1
+sVblister
+p132
+I1
+sVbuck
+p133
+I1
+sVc
+I1
+sVriver
+p134
+I1
+sVazz
+p135
+I2
+sVbarrette
+p136
+I1
+sVthirty
+p137
+I1
+sVoh
+p138
+I1
+sVmotherfuckin
+p139
+I1
+sVcould
+p140
+I1
+sVbreakin
+p141
+I1
+sVask
+p142
+I1
+sVjelly
+p143
+I2
+sVtimes
+p144
+I1
+sVounce
+p145
+I1
+sVtightin
+p146
+I1
+sVact
+p147
+I1
+sVstudio
+p148
+I1
+sVfeinds
+p149
+I1
+sVthink
+p150
+I1
+sVfuckin
+p151
+I2
+sVthats
+p152
+I1
+sVcheese
+p153
+I1
+sVscale
+p154
+I1
+sVtone
+p155
+I1
+sVdont
+p156
+I2
+sVshake
+p157
+I2
+sVpussy
+p158
+I1
+sVthrees
+p159
+I1
+sVpop
+p160
+I1
+sVone
+p161
+I3
+sVput
+p162
+I2
+sVright
+p163
+I1
+sVdone
+p164
+I2
+sVbitch
+p165
+I4
+sVcomin
+p166
+I2
+sVcocaine
+p167
+I1
+sVcha
+p168
+I1
+sVease
+p169
+I1
+sVclip
+p170
+I1
+sVbring
+p171
+I1
+sVcluckers
+p172
+I1
+sVtwenty
+p173
+I2
+sVfoldin
+p174
+I1
+sVgive
+p175
+I1
+sVtwo
+p176
+I5
+sVclass
+p177
+I1
+sVtrigger
+p178
+I1
+sVmaster
+p179
+I2
+sVrockin
+p180
+I1
+sVdamn
+p181
+I1
+sVhundred
+p182
+I1
+sVlouisiana
+p183
+I1
+sVempty
+p184
+I1
+sVpelle
+p185
+I2
+sVmurder
+p186
+I23
+sVplease
+p187
+I1
+sVboy
+p188
+I1
+sVditch
+p189
+I1
+sVclickin
+p190
+I1
+sVbitches
+p191
+I2
+sVcorrected
+p192
+I1
+sVsister
+p193
+I1
+sVcant
+p194
+I1
+sVit
+p195
+I2
+sVtrail
+p196
+I1
+sVskip
+p197
+I1
+sVliver
+p198
+I1
+sVgun
+p199
+I1
+sVsmile
+p200
+I1
+sVmutherfucka
+p201
+I1
+sVduckers
+p202
+I1
+sVsqueeze
+p203
+I1
+sVdigger
+p204
+I1
+sVyayo
+p205
+I1
+sVfaster
+p206
+I2
+sVme
+p207
+I2
+sVking
+p208
+I1
+sVstickin
+p209
+I1
+sVrappin
+p210
+I1
+sVlook
+p211
+I1
+sVniggas
+p212
+I8
+sVwish
+p213
+I1
+sVmo
+p214
+I2
+sVjumped
+p215
+I1
+sVruckus
+p216
+I1
+sVup
+p217
+I2
+sVus
+p218
+I2
+sVclips
+p219
+I1
+sVdrippin
+p220
+I1
+sVslackin
+p221
+I1
+sVnine
+p222
+I1
+sVfronted
+p223
+I1
+sVhand
+p224
+I1
+sVsweet
+p225
+I1
+sVand
+p226
+I2
+sVhip
+p227
+I1
+sVseven
+p228
+I1
+sVpound
+p229
+I1
+sVquiver
+p230
+I1
+sVfigure
+p231
+I1
+sVgeez
+p232
+I2
+sVchickens
+p233
+I1
+sVbenz
+p234
+I1
+sVfuck
+p235
+I4
+sVrip
+p236
+I1
+sVsay
+p237
+I1
+sVim
+p238
+I7
+sVnumbers
+p239
+I1
+sVslip
+p240
+I1
+sVtelly
+p241
+I1
+sVneed
+p242
+I1
+sVkeep
+p243
+I1
+sVskirt
+p244
+I1
+sVtrip
+p245
+I2
+sVshit
+p246
+I5
+sVsell
+p247
+I3
+sVholla
+p248
+I1
+sVbastard
+p249
+I1
+sVhoe
+p250
+I3
+sVtrill
+p251
+I1
+sVpay
+p252
+I1
+sVmake
+p253
+I3
+sVnuts
+p254
+I1
+sVtill
+p255
+I1
+sVhot
+p256
+I1
+sVlip
+p257
+I1
+sVtake
+p258
+I3
+sVsick
+p259
+I1
+sVgrand
+p260
+I1
+sVpickin
+p261
+I1
+sVso
+p262
+I1
+sVputtin
+p263
+I1
+sVlickin
+p264
+I1
+sVtalkin
+p265
+I2
+sVbetter
+p266
+I2
+sVstock
+p267
+I1
+sVelbows
+p268
+I1
+sVforgien
+p269
+I1
+sVpockets
+p270
+I1
+sVkeys
+p271
+I1
+sVclone
+p272
+I1
+sVtime
+p273
+I1
+sVlac
+p274
+I1
+sVdoin
+p275
+I1
+sVquarter
+p276
+I1
+sVbunb
+p277
+I1
+sVeight
+p278
+I1
+sVpurpose
+p279
+I1
+sVhata
+p280
+I1
+sVbees
+p281
+I1
+sVhurt
+p282
+I1
+sVfriends
+p283
+I1
+sVstack
+p284
+I2
+sVcheeze
+p285
+I1
+sVgoin
+p286
+I2
+sVa
+I1
+sVshort
+p287
+I1
+sVespecially
+p288
+I1
+sVbullet
+p289
+I1
+sVhk
+p290
+I1
+sVlight
+p291
+I1
+sVflyin
+p292
+I1
+sVwell
+p293
+I1
+sVsale
+p294
+I1
+sVfever
+p295
+I1
+sVcrooked
+p296
+I1
+sVswigger
+p297
+I1
+sVjail
+p298
+I1
+sVsouth
+p299
+I2
+sVna
+p300
+I3
+sVbun
+p301
+I1
+sVfleetwood
+p302
+I1
+sVfirst
+p303
+I1
+sVkickin
+p304
+I1
+sVswisha
+p305
+I1
+s.

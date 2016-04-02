@@ -1,74 +1,541 @@
-barry bonds lyrics
-kanye west lyrics
-barry bonds
-feat lil wayne
-waiting aint it
-people pay paper damn it
-cant stand want something new
-lets get reacquainted
-became hood favorite
-cant even explain it
-surprise too
-life lights keep glowin
-comin club wit fresh shit something crazy arm
-ha ha hum heres another hit barry bonds
-yeah yeah yeah yeah
-outta baby
-outta baby
-outta baby
-dude
-fresh plane konitchiwa bitches
-turn around another plane passport pivot
-asshole done it
-talked lived spitted shitted
-dont need write hits might bounce ideas
-could come shit like this
-done played underdog whole career
-ive good sport havent year
-said hes going crazy seen before
-im pretty good far geniuses go
-im pretty hood pink polo
-nigga please gonna say aint lowhead
-cos dior got model head
-im insulted
-go head
-bow hard till knees hit forehead
-flow hit code red
-top 5 mcs aint gotta remind me
-top 5 mcs gotta rewind me
-im high line get behind me
-heads big cant sit behind me
-life lights keep glowin
-comin club wit fresh shit something crazy arm
-ha ha hum heres another hit barry bonds
-yeah yeah yeah yeah
-yeah yeah outta baby
-wha wha outta baby
-mr west outta baby
-im mr weezy baby
-im bright shady
-teeth eyes wight like shady
-ice teeth refrigerated
-i’m fucking good like i’m sleeping megan
-i’m franklins lincolns reagans
-whenever make shall hayve them
-oops meant im crazy
-play crazy sleeping daisies
-hayvic oops meant havoc
-drinks still pinker easter rabbit
-im still cold cole like keishas family
-stove waist turn beef patties
-ate cos im it
-dont front dont go backwards
-dont practice
-dont lack shit
-get barried
-suck bat bitch
-outta baby
-outta baby
-outta baby
-life lights keep glowin
-comin club wit fresh shit on
-wit something crazy arm
-ha ha hum man heres another hit barry bonds
-yeah yeah yeah yeah
+(dp1
+Vcode
+p2
+I1
+sVunderdog
+p3
+I1
+sVrabbit
+p4
+I1
+sVlyrics
+p5
+I2
+sVstove
+p6
+I1
+sVlack
+p7
+I1
+sVbright
+p8
+I1
+sVpaper
+p9
+I1
+sVlincolns
+p10
+I1
+sVhavoc
+p11
+I1
+sVgo
+p12
+I3
+sVkanye
+p13
+I1
+sVcold
+p14
+I1
+sVstill
+p15
+I2
+sVfeat
+p16
+I1
+sVbefore
+p17
+I1
+sVaint
+p18
+I3
+sVforehead
+p19
+I1
+sVhead
+p20
+I2
+sVexplain
+p21
+I1
+sVbehind
+p22
+I2
+sVlets
+p23
+I1
+sVwayne
+p24
+I1
+sVgon
+p25
+I1
+sVpretty
+p26
+I2
+sVmight
+p27
+I1
+sVta
+p28
+I2
+sVhayve
+p29
+I1
+sVthem
+p30
+I1
+sVgood
+p31
+I3
+sVhit
+p32
+I5
+sVaround
+p33
+I1
+sVget
+p34
+I3
+sVfar
+p35
+I1
+sVbig
+p36
+I1
+sVpractice
+p37
+I1
+sVfranklins
+p38
+I1
+sVrefrigerated
+p39
+I1
+sVsurprise
+p40
+I1
+sVfront
+p41
+I1
+sVasshole
+p42
+I1
+sVbat
+p43
+I1
+sVlike
+p44
+I4
+sVmeant
+p45
+I2
+sVremind
+p46
+I1
+sVhavent
+p47
+I1
+sVcole
+p48
+I1
+sVtalked
+p49
+I1
+sVpeople
+p50
+I1
+sVfucking
+p51
+I1
+sVhard
+p52
+I1
+sVyeah
+p53
+I14
+sVbounce
+p54
+I1
+sVyear
+p55
+I1
+sVsport
+p56
+I1
+sVarm
+p57
+I3
+sVdrinks
+p58
+I1
+sVeven
+p59
+I1
+sVkonitchiwa
+p60
+I1
+sVsaid
+p61
+I1
+sVpatties
+p62
+I1
+sVheres
+p63
+I3
+sVshall
+p64
+I1
+sVplease
+p65
+I1
+sVice
+p66
+I1
+sVpinker
+p67
+I1
+sVlights
+p68
+I3
+sVwaiting
+p69
+I1
+sVnew
+p70
+I1
+sVred
+p71
+I1
+sVglowin
+p72
+I3
+sVweezy
+p73
+I1
+sVgot
+p74
+I3
+sVbarried
+p75
+I1
+sVcome
+p76
+I1
+sVon
+p77
+I1
+sVhits
+p78
+I1
+sVate
+p79
+I1
+sVcareer
+p80
+I1
+sVcould
+p81
+I1
+sVfavorite
+p82
+I1
+sVkeep
+p83
+I3
+sVturn
+p84
+I2
+sVbecame
+p85
+I1
+sVstand
+p86
+I1
+sVbarry
+p87
+I5
+sVgeniuses
+p88
+I1
+sVwhole
+p89
+I1
+sVdaisies
+p90
+I1
+sVdont
+p91
+I5
+sVfamily
+p92
+I1
+sVwit
+p93
+I4
+sVdone
+p94
+I2
+sVbitch
+p95
+I1
+sVanother
+p96
+I4
+sVcomin
+p97
+I3
+sVpolo
+p98
+I1
+sVpivot
+p99
+I1
+sVhood
+p100
+I2
+sVheads
+p101
+I1
+sVbeef
+p102
+I1
+sVhes
+p103
+I1
+sVwest
+p104
+I2
+sVtop
+p105
+I2
+sVkeishas
+p106
+I1
+sVdude
+p107
+I1
+sVgoing
+p108
+I1
+sVdamn
+p109
+I1
+sVtoo
+p110
+I1
+sVpassport
+p111
+I1
+sVman
+p112
+I1
+sVlife
+p113
+I3
+sVlived
+p114
+I1
+sVclub
+p115
+I3
+sVhum
+p116
+I3
+sVbitches
+p117
+I1
+sVcos
+p118
+I2
+sVwight
+p119
+I1
+sVlowhead
+p120
+I1
+sVnigga
+p121
+I1
+sVdior
+p122
+I1
+sVbackwards
+p123
+I1
+sVbaby
+p124
+I10
+sVline
+p125
+I1
+sVha
+p126
+I6
+sVmcs
+p127
+I2
+sVme
+p128
+I4
+sVthis
+p129
+I1
+sVeaster
+p130
+I1
+sVsay
+p131
+I1
+sVwhenever
+p132
+I1
+sVinsulted
+p133
+I1
+sVmr
+p134
+I2
+sVspitted
+p135
+I1
+sVreagans
+p136
+I1
+sVhayvic
+p137
+I1
+sVive
+p138
+I1
+sVcrazy
+p139
+I6
+sVoutta
+p140
+I9
+sVplay
+p141
+I1
+sVplayed
+p142
+I1
+sVit
+p143
+I5
+sVsleeping
+p144
+I2
+sVhigh
+p145
+I1
+sVcant
+p146
+I3
+sVim
+p147
+I9
+sVsomething
+p148
+I4
+sVwant
+p149
+I1
+sVneed
+p150
+I1
+sVseen
+p151
+I1
+sVbow
+p152
+I1
+sVshit
+p153
+I5
+sVpink
+p154
+I1
+sVsit
+p155
+I1
+sVlil
+p156
+I1
+sVpay
+p157
+I1
+sVmake
+p158
+I1
+sVbonds
+p159
+I5
+sVideas
+p160
+I1
+sVwrite
+p161
+I1
+sVtill
+p162
+I1
+sV5
+I2
+sVrewind
+p163
+I1
+sVreacquainted
+p164
+I1
+sVshitted
+p165
+I1
+sVwha
+p166
+I2
+sVknees
+p167
+I1
+sVteeth
+p168
+I2
+sVmegan
+p169
+I1
+sVplane
+p170
+I2
+sVsuck
+p171
+I1
+sVeyes
+p172
+I1
+sVwaist
+p173
+I1
+sVi\u2019m
+p174
+I3
+sVshady
+p175
+I2
+sVflow
+p176
+I1
+sVoops
+p177
+I2
+sVna
+p178
+I1
+sVfresh
+p179
+I4
+sVmodel
+p180
+I1
+s.

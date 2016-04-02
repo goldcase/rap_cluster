@@ -1,104 +1,614 @@
-christmas harlem lyrics
-kanye west lyrics
-christmas harlem
-feat teyana taylor cyhi da prince
-christmas harlem
-right autumn falls
-soaking in
-go hit mall
-even though aint balling
-feels like bought all
-mistletoes right here
-come give kiss santa claus
-merry christmas good night
-huh living good life
-yeah though forty wind chill
-wiping snow windshield
-still wonderful night alive baby
-im happy im baby
-lil late christmas gifts
-rushing mall dont trip know drive crazy
-streets lit feel like christmas officially
-told star top christmas tree
-question presents
-said shhh got gift aint kids see
-well like way think mami
-pour eggnog drink mami
-got surprise aint christmas listes
-gave hot chocolate said dricious
-christmas harlem
-right autumn falls
-soaking in
-go hit mall im like bad santa though
-even though aint balling might sit lap
-feels like bought ho ho ho
-mistletoes right here
-come give kiss santa claus
-first wanted say merry christmas yall
-santa claus bake turkey burn logs
-soon sled rudolph
-thugs think im blood cause wont take red suit off
-ha swear got freshest wardrobe
-let beard grow cause cold north pole
-voice slow cause always got sore throat
-okay stop jokes
-never see cause shop stores close
-sleigh go faster porsche go
-ha got nine reindeers
-thats dancer thats prancer fourth flo
-thats comet thats cupid thats vixen
-thats donner thats dasher thats blitzen
-happy kwanzaa ones arent christian
-everybody gets gifts long im living
-look forward having
-christmas harlem
-right autumn falls
-soaking in
-go hit mall
-even though aint balling
-feels like bought all
-mistletoes right here
-come give kiss santa claus
-flashing lights tree
-house lit nice
-familys wanna be
-christmas night
-wake see gifts
-dont make feel good
-since snowed harlem
-lets christmas hoohood
-flashing lights
-yeah shine bright
-always me
-baby youre christmas eve
-like see me
-wont come sit knee
-tell everything want
-cause baby im santa claus
-christmas harlem
-right autumn falls
-soaking in
-go hit mall
-even though aint balling
-feels like bought all
-mistletoes right here
-come give kiss santa claus
-peeped know what
-need reindeer one
-wanna hear sleigh bells one
-got new suit one
-newborn look cute one
-yeah new winter coat one
-yeah gotta let snow one
-huh christmas cheer one
-whole family one
-yeah
-christmas harlem
-right autumn falls
-soaking in
-gon hit mall
-even though aint balling
-feels like bought all
-mistletoes right here
-come give kiss santa claus
-au au au au au
+(dp1
+Vshop
+p2
+I1
+sVcute
+p3
+I1
+sVall
+p4
+I4
+sVstores
+p5
+I1
+sVlyrics
+p6
+I2
+sVsoon
+p7
+I1
+sVwardrobe
+p8
+I1
+sVbright
+p9
+I1
+sVgo
+p10
+I6
+sVkanye
+p11
+I1
+sVcold
+p12
+I1
+sVwindshield
+p13
+I1
+sVfeat
+p14
+I1
+sVprince
+p15
+I1
+sVdont
+p16
+I2
+sVaint
+p17
+I7
+sVslow
+p18
+I1
+sVnice
+p19
+I1
+sVeverything
+p20
+I1
+sVdonner
+p21
+I1
+sVsoaking
+p22
+I5
+sVdricious
+p23
+I1
+sVcupid
+p24
+I1
+sVpresents
+p25
+I1
+sVlets
+p26
+I1
+sVwhole
+p27
+I1
+sVfamilys
+p28
+I1
+sVflashing
+p29
+I2
+sVpeeped
+p30
+I1
+sVmight
+p31
+I1
+sVgave
+p32
+I1
+sVgood
+p33
+I3
+sVhit
+p34
+I5
+sVstop
+p35
+I1
+sVda
+p36
+I1
+sVfeels
+p37
+I5
+sVones
+p38
+I1
+sVreindeers
+p39
+I1
+sVknow
+p40
+I2
+sVkiss
+p41
+I5
+sVsurprise
+p42
+I1
+sVshhh
+p43
+I1
+sVcyhi
+p44
+I1
+sVwont
+p45
+I2
+sVlike
+p46
+I9
+sVgift
+p47
+I1
+sVcause
+p48
+I5
+sVeve
+p49
+I1
+sVjokes
+p50
+I1
+sVbad
+p51
+I1
+sVnight
+p52
+I3
+sVsleigh
+p53
+I2
+sVbought
+p54
+I5
+sVyall
+p55
+I1
+sVright
+p56
+I10
+sVlogs
+p57
+I1
+sVbe
+p58
+I1
+sVhouse
+p59
+I1
+sVstreets
+p60
+I1
+sVyeah
+p61
+I5
+sValive
+p62
+I1
+sVsee
+p63
+I4
+sVbells
+p64
+I1
+sVokay
+p65
+I1
+sVbake
+p66
+I1
+sVmistletoes
+p67
+I5
+sVeven
+p68
+I5
+sVliving
+p69
+I2
+sVwhat
+p70
+I1
+sVstill
+p71
+I1
+sVteyana
+p72
+I1
+sVsince
+p73
+I1
+sVforty
+p74
+I1
+sVrushing
+p75
+I1
+sVlights
+p76
+I2
+sVgot
+p77
+I7
+sVofficially
+p78
+I1
+sVchristmas
+p79
+I17
+sVred
+p80
+I1
+sVtold
+p81
+I1
+sVeverybody
+p82
+I1
+sVnever
+p83
+I1
+sVchristian
+p84
+I1
+sVvixen
+p85
+I1
+sVburn
+p86
+I1
+sVhere
+p87
+I5
+sVta
+p88
+I1
+sVblitzen
+p89
+I1
+sVlet
+p90
+I2
+sVmerry
+p91
+I2
+sVwanted
+p92
+I1
+sVcome
+p93
+I6
+sVshine
+p94
+I1
+sVkids
+p95
+I1
+sValways
+p96
+I2
+sVswear
+p97
+I1
+sVarent
+p98
+I1
+sVcomet
+p99
+I1
+sVfreshest
+p100
+I1
+sVthink
+p101
+I2
+sVfirst
+p102
+I1
+sVsanta
+p103
+I8
+sVfamily
+p104
+I1
+sVfeel
+p105
+I2
+sVkwanzaa
+p106
+I1
+sVone
+p107
+I8
+sVnewborn
+p108
+I1
+sVpole
+p109
+I1
+sVdancer
+p110
+I1
+sVhoohood
+p111
+I1
+sVwan
+p112
+I2
+sVturkey
+p113
+I1
+sVlate
+p114
+I1
+sVlistes
+p115
+I1
+sVwest
+p116
+I1
+sVtop
+p117
+I1
+sVporsche
+p118
+I1
+sVquestion
+p119
+I1
+sVlong
+p120
+I1
+sVmami
+p121
+I2
+sVreindeer
+p122
+I1
+sVwonderful
+p123
+I1
+sVway
+p124
+I1
+sVsuit
+p125
+I2
+sVforward
+p126
+I1
+sVtell
+p127
+I1
+sVhappy
+p128
+I2
+sVlife
+p129
+I1
+sVnorth
+p130
+I1
+sVclaus
+p131
+I7
+sVhuh
+p132
+I2
+sVchocolate
+p133
+I1
+sVsore
+p134
+I1
+sVwiping
+p135
+I1
+sVeggnog
+p136
+I1
+sVwake
+p137
+I1
+sVho
+p138
+I3
+sVbaby
+p139
+I4
+sVha
+p140
+I2
+sVchill
+p141
+I1
+sVme
+p142
+I2
+sVlook
+p143
+I2
+sVtree
+p144
+I2
+sVpour
+p145
+I1
+sVmall
+p146
+I6
+sVnine
+p147
+I1
+sVflo
+p148
+I1
+sVau
+p149
+I5
+sVbeard
+p150
+I1
+sVcrazy
+p151
+I1
+sVtaylor
+p152
+I1
+sVclose
+p153
+I1
+sVgive
+p154
+I5
+sVautumn
+p155
+I5
+sVneed
+p156
+I1
+sVsay
+p157
+I1
+sVim
+p158
+I6
+sVwant
+p159
+I1
+sVin
+p160
+I5
+sVthroat
+p161
+I1
+sVvoice
+p162
+I1
+sVgon
+p163
+I1
+sVtrip
+p164
+I1
+sVthugs
+p165
+I1
+sVwinter
+p166
+I1
+sVsit
+p167
+I2
+sVlil
+p168
+I1
+sVna
+p169
+I2
+sVmake
+p170
+I1
+sVrudolph
+p171
+I1
+sVsnow
+p172
+I2
+sVballing
+p173
+I5
+sVlit
+p174
+I2
+sVhot
+p175
+I1
+sVcheer
+p176
+I1
+sVtake
+p177
+I1
+sVfourth
+p178
+I1
+sVnew
+p179
+I2
+sVgets
+p180
+I1
+sVsled
+p181
+I1
+sVdasher
+p182
+I1
+sVstar
+p183
+I1
+sVthough
+p184
+I7
+sVprancer
+p185
+I1
+sVdrink
+p186
+I1
+sVfalls
+p187
+I5
+sVgifts
+p188
+I3
+sVsaid
+p189
+I2
+sVblood
+p190
+I1
+sVknee
+p191
+I1
+sVlap
+p192
+I1
+sVgrow
+p193
+I1
+sVoff
+p194
+I1
+sVfaster
+p195
+I1
+sVcoat
+p196
+I1
+sVyoure
+p197
+I1
+sVwell
+p198
+I1
+sVdrive
+p199
+I1
+sVthats
+p200
+I8
+sVsnowed
+p201
+I1
+sVhear
+p202
+I1
+sVharlem
+p203
+I8
+sVhaving
+p204
+I1
+sVwind
+p205
+I1
+s.

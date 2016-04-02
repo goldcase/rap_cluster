@@ -1,77 +1,565 @@
-thats bitch lyrics
-kanye west lyrics
-thats bitch
-jayz
-feat la roux
-hello speak yeah know are
-look idea ya dealing with
-something realest shit
-something something
-yeah thats bitch
-thats bitch
-shshorty right there
-thats bitch
-thats bitch
-ive waiting long long time
-get throw hands high
-live life
-live life
-get throw hands high
-paid titties get own
-aint safe city watch throne
-say care basquions basquiats
-learning new word yacht
-blew world soon hit club her
-short called told fell love her
-seen actors ball players drug dealers
-lesbians never loved niggas
-twisted love story true romance
-mary magdalene pole dance
-im freak huh rock star life
-second girl us thats wife
-hey boys girls got new riddle
-whos new old perv thats tryna play second fiddle
-disrespect im tryna belittle
-dick worth money put monie middle
-ive waiting long long time
-get throw hands high
-live life
-live life
-get throw hands high high high high
-silly little vixen mixes til morning
-swerving oh yeah
-swear never strolled bottle potion
-stop motion ooh yeah
-go harder nigga nigga go figure
-told keep money ever split up
-somethin gangsta pretty pictures
-jeans blazer louboutin slippers
-uh picasso alive woulda made her
-thats right nigga mona lisa cant fade her
-mean marilyn monroe shes quite nice
-pretty icons always white
-back beyonces
-deserve 3 stacks andre
-call larry gagosian belong museums
-belong vintage clothes watching whole building
-belong niggas used known dope dealing
-dope civilians
-shoot trigga stop looking tits
-get ya dog ya heard
-thats bitch
-ive waiting long long time
-get throw hands high
-live life
-live life
-get throw hands high
-silly little vixen mixes til morning
-swerving oh yeah
-swear never strolled bottle potion
-stop motion ooh yeah
-idea youre dealing with
-something realest shit
-pop nines give fifth
-something something yeah
-thats bitch thats bitch
-shshorty right thats bitch
-thats bitch
+(dp1
+Vwatching
+p2
+I1
+sVgagosian
+p3
+I1
+sVlyrics
+p4
+I2
+sVdance
+p5
+I1
+sVmoney
+p6
+I2
+sVbelittle
+p7
+I1
+sVsoon
+p8
+I1
+sVandre
+p9
+I1
+sVpicasso
+p10
+I1
+sVgo
+p11
+I2
+sVkanye
+p12
+I1
+sVfeat
+p13
+I1
+sVfifth
+p14
+I1
+sVaint
+p15
+I1
+sVtil
+p16
+I2
+sVnines
+p17
+I1
+sVla
+p18
+I1
+sVtrue
+p19
+I1
+sVdick
+p20
+I1
+sV3
+I1
+sVpretty
+p21
+I2
+sVgangsta
+p22
+I1
+sVworth
+p23
+I1
+sVtrigga
+p24
+I1
+sVhit
+p25
+I1
+sVget
+p26
+I8
+sVya
+p27
+I3
+sVdope
+p28
+I2
+sVsafe
+p29
+I1
+sVwatch
+p30
+I1
+sVwoulda
+p31
+I1
+sVswerving
+p32
+I2
+sVheard
+p33
+I1
+sVknow
+p34
+I1
+sVhands
+p35
+I6
+sVworld
+p36
+I1
+sVshshorty
+p37
+I2
+sValways
+p38
+I1
+sVjayz
+p39
+I1
+sVmorning
+p40
+I2
+sVfiddle
+p41
+I1
+sVlesbians
+p42
+I1
+sVrock
+p43
+I1
+sVlisa
+p44
+I1
+sVmagdalene
+p45
+I1
+sVmean
+p46
+I1
+sVblew
+p47
+I1
+sVright
+p48
+I3
+sVold
+p49
+I1
+sVdealing
+p50
+I3
+sVyeah
+p51
+I7
+sValive
+p52
+I1
+sVsecond
+p53
+I2
+sVpotion
+p54
+I2
+sVare
+p55
+I1
+sVgirl
+p56
+I1
+sVlouboutin
+p57
+I1
+sVpictures
+p58
+I1
+sVlooking
+p59
+I1
+sVwaiting
+p60
+I3
+sVnew
+p61
+I3
+sVever
+p62
+I1
+sVtold
+p63
+I2
+sVvixen
+p64
+I2
+sVgot
+p65
+I1
+sVnever
+p66
+I3
+sVlittle
+p67
+I2
+sVquite
+p68
+I1
+sVdisrespect
+p69
+I1
+sVcivilians
+p70
+I1
+sVput
+p71
+I1
+sVthrow
+p72
+I6
+sVcare
+p73
+I1
+sVthrone
+p74
+I1
+sVtitties
+p75
+I1
+sVblazer
+p76
+I1
+sVoh
+p77
+I2
+sVicons
+p78
+I1
+sVdrug
+p79
+I1
+sVmixes
+p80
+I2
+sVmotion
+p81
+I2
+sVplayers
+p82
+I1
+sVswear
+p83
+I2
+sVclothes
+p84
+I1
+sVwhole
+p85
+I1
+sVthats
+p86
+I14
+sVriddle
+p87
+I1
+sVown
+p88
+I1
+sVlove
+p89
+I2
+sVjeans
+p90
+I1
+sVpop
+p91
+I1
+sVhey
+p92
+I1
+sVpole
+p93
+I1
+sVnigga
+p94
+I3
+sVbitch
+p95
+I11
+sVlearning
+p96
+I1
+sVspeak
+p97
+I1
+sVcity
+p98
+I1
+sVstory
+p99
+I1
+sVher
+p100
+I4
+sVwest
+p101
+I1
+sVthere
+p102
+I1
+sVgirls
+p103
+I1
+sVtwisted
+p104
+I1
+sVlong
+p105
+I6
+sVwhos
+p106
+I1
+sVlive
+p107
+I6
+sVcall
+p108
+I1
+sVperv
+p109
+I1
+sVmonroe
+p110
+I1
+sVwhite
+p111
+I1
+sVmary
+p112
+I1
+sVback
+p113
+I1
+sVtryna
+p114
+I2
+sVlife
+p115
+I7
+sVfade
+p116
+I1
+sVsomethin
+p117
+I1
+sVclub
+p118
+I1
+sVhuh
+p119
+I1
+sVooh
+p120
+I2
+sVcant
+p121
+I1
+sVidea
+p122
+I2
+sVmarilyn
+p123
+I1
+sVboys
+p124
+I1
+sVlarry
+p125
+I1
+sVknown
+p126
+I1
+sVwith
+p127
+I2
+sVbeyonces
+p128
+I1
+sVshoot
+p129
+I1
+sVloved
+p130
+I1
+sVmade
+p131
+I1
+sVword
+p132
+I1
+sVlook
+p133
+I1
+sVniggas
+p134
+I2
+sVbasquions
+p135
+I1
+sVmona
+p136
+I1
+sVharder
+p137
+I1
+sVup
+p138
+I1
+sVus
+p139
+I1
+sVsilly
+p140
+I2
+sVuh
+p141
+I1
+sVcalled
+p142
+I1
+sVslippers
+p143
+I1
+sVshes
+p144
+I1
+sVive
+p145
+I3
+sVyoure
+p146
+I1
+sVfreak
+p147
+I1
+sVfigure
+p148
+I1
+sVgive
+p149
+I1
+sVhigh
+p150
+I9
+sVmiddle
+p151
+I1
+sVsay
+p152
+I1
+sVim
+p153
+I2
+sVsomething
+p154
+I6
+sVseen
+p155
+I1
+sVkeep
+p156
+I1
+sVshit
+p157
+I2
+sVmuseums
+p158
+I1
+sVroux
+p159
+I1
+sVdeserve
+p160
+I1
+sVrealest
+p161
+I2
+sVromance
+p162
+I1
+sVactors
+p163
+I1
+sVsplit
+p164
+I1
+sVtits
+p165
+I1
+sVbasquiats
+p166
+I1
+sVbelong
+p167
+I3
+sVnice
+p168
+I1
+sVvintage
+p169
+I1
+sVplay
+p170
+I1
+sVball
+p171
+I1
+sVstar
+p172
+I1
+sVstop
+p173
+I3
+sVpaid
+p174
+I1
+sVfell
+p175
+I1
+sVbuilding
+p176
+I1
+sVmonie
+p177
+I1
+sVshort
+p178
+I1
+sVdealers
+p179
+I1
+sVwife
+p180
+I1
+sVstrolled
+p181
+I2
+sVyacht
+p182
+I1
+sVdog
+p183
+I1
+sVstacks
+p184
+I1
+sVused
+p185
+I1
+sVbottle
+p186
+I2
+sVtime
+p187
+I3
+sVhello
+p188
+I1
+s.

@@ -1,87 +1,572 @@
-"borrow yo' broad" lyrics
-e-40 lyrics
-"borrow yo' broad"
-(feat. b-legit)
-beeyatch!
-it's a fool cause i'm in texas-arkana right?
-i seen baby girl, she say, look ah uh you know what i say to myself
-i say, she look like baby dattaway! (dattaway!)
-you smell that?  i say look here
-i been lookin for you in the broad daylight with a flashlight baby
-where you been?  (where you been?)
-yeah, like my nigga pimpin' ken
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-well let me borrow yo' broad (let me borrow yo' broad)
-let me borrow yo' batch (let me borrow yo' batch)
-let me borrow yo' bootch (let me borrow yo' bootch)
-let me borrow that hoe! (let me borrow that hoe!)
-i hear fetti (petty) callin (callin)
-callin (callin) yeah the bitch subject again
-broke and reckless eyeballin, fuckin around with charlie hustle main
-it's in my spine (it's in my spine)
-and what's deeply and hella obvious that what the broad think
-is her business, must be mine
-i put the tick in the time, i thought you knew (i thought you knew)
-retire (retire) - tsh, beeyatch (beeytach!)
-through with it before most of these square dancers
-even had any kind of idea what to with it, get tired (get tired)
-he ain't gon' bust a girl, that ain't you toughest (that ain't you toughest)
-dude i cain't play a fool, potnah i'm a solid nigga dig this (dig that)
-suspension (suspension)
-bitch got to pay me hoe, or pay me no attention!
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-well let me borrow yo' broad (let me borrow yo' broad)
-let me borrow yo' batch (let me borrow yo' batch)
-let me borrow yo' bootch (let me borrow yo' bootch)
-let me borrow that hoe! (let me borrow that hoe!)
-pay attention, this one with extension, big boots with the gloves
-seems she's lookin for love
-spent a dub at the bar with her, see i promised not to hit her
-long as i can get her
-to the floor fashion show, short skirt and high heels
-so the ass can show, satisfaction
-action make her ask for mo', gettin dough
-don't need no hoe that's po', you know?
-you'd rather blow fo' with the snowbunny, well i ain't mad
-cause the hoe money mo' money, sweet as snow money
-bring it to a pimp so he maintain wealth
-forty g's on the yacht, i got cock for sale
-might bail to miami, nine hoes deep
-red bull and my bad hoes get no sleep
-gators on my feet, i talk shit you know
-on how everything here is a hoe
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-what we really need to do is put that hoe on the track man
-(any batch, superbad, any batch, smell that?)
-well let me borrow yo' broad (let me borrow yo' broad)
-let me borrow yo' batch (let me borrow yo' batch)
-let me borrow yo' bootch (let me borrow yo' bootch)
-let me borrow that hoe! (let me borrow that hoe!)
-beeyatch!
-smell, smell, char-lie
-smell, smell, smell me
-smell, smell, the cheezie
-smell, smell, smell away
-you can't make a tramp a champ even if you put her on a stamp
-that bitch still wouldn't be worth a cryin dime
-a blue nickel, or a screamin quarter
-40-water put it in order
-bitch it's about cb&h and i ain't talkin about pure cane sugar
-i'm talkin about cock a butt and head
-cock, butt, and head
-cock, butt, and head
-cock, butt, and head
-cock, butt, and head
-beeyatch!
-what you need to do is put that hoe on the track baby
-right now, or let me borrow that broad
-let me borrow that batch
-let me borrow that bootch
-let me borrow that hoe
+(dp1
+Vgs
+p2
+I1
+sVlyrics
+p3
+I2
+sVshow
+p4
+I2
+sVmoney
+p5
+I3
+sVretire
+p6
+I2
+sVbring
+p7
+I1
+sVdough
+p8
+I1
+sVlove
+p9
+I1
+sVdattaway
+p10
+I2
+sVfeat
+p11
+I1
+sVcheezie
+p12
+I1
+sVeyeballin
+p13
+I1
+sVtsh
+p14
+I1
+sVseems
+p15
+I1
+sVbust
+p16
+I1
+sVsugar
+p17
+I1
+sVtramp
+p18
+I1
+sVblegit
+p19
+I1
+sVsuspension
+p20
+I2
+sVmain
+p21
+I1
+sVmight
+p22
+I1
+sVworth
+p23
+I1
+sVfool
+p24
+I2
+sVdancers
+p25
+I1
+sVhit
+p26
+I1
+sVaround
+p27
+I1
+sVyo
+p28
+I20
+sVget
+p29
+I4
+sVbig
+p30
+I1
+sVmyself
+p31
+I1
+sVknow
+p32
+I3
+sVcryin
+p33
+I1
+sVtick
+p34
+I1
+sVfeet
+p35
+I1
+sVbeeyatch
+p36
+I4
+sVbar
+p37
+I1
+sVlike
+p38
+I2
+sVpimp
+p39
+I1
+sVspine
+p40
+I2
+sVdig
+p41
+I2
+sVborrow
+p42
+I30
+sVbail
+p43
+I1
+sVmiami
+p44
+I1
+sVyacht
+p45
+I1
+sVgloves
+p46
+I1
+sVsleep
+p47
+I1
+sVquarter
+p48
+I1
+sVstill
+p49
+I1
+sVright
+p50
+I2
+sVtired
+p51
+I2
+sVken
+p52
+I1
+sVyeah
+p53
+I2
+sVboots
+p54
+I1
+sVdaylight
+p55
+I1
+sVshes
+p56
+I1
+sVhoes
+p57
+I2
+sVgirl
+p58
+I2
+sVreally
+p59
+I6
+sVeven
+p60
+I2
+sVgon
+p61
+I1
+sV40water
+p62
+I1
+sVbroad
+p63
+I11
+sVaway
+p64
+I1
+sVforty
+p65
+I1
+sVeverything
+p66
+I1
+sVgot
+p67
+I2
+sVcause
+p68
+I2
+sVred
+p69
+I1
+sVhustle
+p70
+I1
+sVass
+p71
+I1
+sVflashlight
+p72
+I1
+sVbusiness
+p73
+I1
+sVattention
+p74
+I2
+sVhere
+p75
+I1
+sVlet
+p76
+I28
+sVgators
+p77
+I1
+sVput
+p78
+I10
+sVfetti
+p79
+I1
+sVextension
+p80
+I1
+sVe40
+p81
+I1
+sVscreamin
+p82
+I1
+sVlookin
+p83
+I2
+sVaction
+p84
+I1
+sVthink
+p85
+I1
+sVfuckin
+p86
+I1
+sVbootch
+p87
+I7
+sVwouldnt
+p88
+I1
+sVwhats
+p89
+I1
+sVdont
+p90
+I1
+sVsweet
+p91
+I1
+sVyoud
+p92
+I1
+sVone
+p93
+I1
+sVsatisfaction
+p94
+I1
+sVask
+p95
+I1
+sVnigga
+p96
+I2
+sVchamp
+p97
+I1
+sVbitch
+p98
+I4
+sVpetty
+p99
+I1
+sVwealth
+p100
+I1
+sVher
+p101
+I2
+sVaint
+p102
+I5
+sVstamp
+p103
+I1
+sVnine
+p104
+I1
+sVdub
+p105
+I1
+sVdude
+p106
+I1
+sVbeen
+p107
+I1
+sVblow
+p108
+I1
+sVfo
+p109
+I1
+sVpo
+p110
+I1
+sVtexasarkana
+p111
+I1
+sVbutt
+p112
+I5
+sVhead
+p113
+I5
+sVnickel
+p114
+I1
+sVpimpin
+p115
+I1
+sVsnowbunny
+p116
+I1
+sVthat
+p117
+I7
+sVcant
+p118
+I1
+sVidea
+p119
+I1
+sVgettin
+p120
+I1
+sVhear
+p121
+I1
+sVbroke
+p122
+I1
+sVbull
+p123
+I1
+sVbaby
+p124
+I4
+sVdeeply
+p125
+I1
+sVmust
+p126
+I1
+sVme
+p127
+I1
+sVkind
+p128
+I1
+sVlook
+p129
+I3
+sVsolid
+p130
+I1
+sVmo
+p131
+I2
+sVbatch
+p132
+I19
+sVbeeytach
+p133
+I1
+sVobvious
+p134
+I1
+sVuh
+p135
+I1
+sVcock
+p136
+I6
+sVfashion
+p137
+I1
+sVbad
+p138
+I1
+sVah
+p139
+I1
+sVcbh
+p140
+I1
+sVcane
+p141
+I1
+sVmine
+p142
+I1
+sVdeep
+p143
+I1
+sVsale
+p144
+I1
+sVhigh
+p145
+I1
+sVheels
+p146
+I1
+sVsay
+p147
+I4
+sVcallin
+p148
+I4
+sVim
+p149
+I3
+sVpromised
+p150
+I1
+sVneed
+p151
+I8
+sVseen
+p152
+I1
+sVskirt
+p153
+I1
+sVshit
+p154
+I1
+sVagain
+p155
+I1
+sVhoe
+p156
+I18
+sVcaint
+p157
+I1
+sVfloor
+p158
+I1
+sVrather
+p159
+I1
+sVpay
+p160
+I3
+sVmake
+p161
+I2
+sVsnow
+p162
+I1
+sVmaintain
+p163
+I1
+sVsquare
+p164
+I1
+sVpure
+p165
+I1
+sVsubject
+p166
+I1
+sVsmell
+p167
+I17
+sVtalkin
+p168
+I2
+sVreckless
+p169
+I1
+sVtoughest
+p170
+I2
+sVblue
+p171
+I1
+sVplay
+p172
+I1
+sVsee
+p173
+I1
+sVdime
+p174
+I1
+sVtrack
+p175
+I7
+sVknew
+p176
+I2
+sVlong
+p177
+I1
+sVpotnah
+p178
+I1
+sVmad
+p179
+I1
+sVman
+p180
+I6
+sVsuperbad
+p181
+I6
+sVshort
+p182
+I1
+sVcharlie
+p183
+I2
+sVwell
+p184
+I4
+sVspent
+p185
+I1
+sVthought
+p186
+I2
+sVhella
+p187
+I1
+sVtime
+p188
+I1
+sVthats
+p189
+I1
+sVorder
+p190
+I1
+sVtalk
+p191
+I1
+s.

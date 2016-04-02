@@ -1,84 +1,622 @@
-"farewell" lyrics
-eminem lyrics
-"farewell"
-i don't wanna say goodbye
-but sometimes things just don't go as we'd like
-all i wanna do is cry
-say my farewells, pack up and leave tonight
-farewell miss i know that you can care less
-but i'm sorry for everything i was careless
-but i need you to know that i love you so much
-and i've been drinking myself to sleep my soul's crushed
-a couple more shots i know i'm gonna go nuts
-i can't deal with the fact you left me with no crutch
-i was in love with you how could you do this to me
-actually i did this to myself, what a tragedy!
-and now what do i do?
-where do i go?
-cause everywhere i go i see your face
-it's hard starting over
-trying to find another shoulder
-to lean on
-i feel like my whole life just got peed on
-they say time heals but dammit i wanna stop time and feel this pain
-as crazy as it sounds to me it's sane
-and i like it, why? 'cause i feel like we're still united
-in some weird way i don't wanna fight it
-i don't wanna say goodbye
-but sometimes things just don't go as we'd like
-all i wanna do is cry
-say my farewells, pack up and leave tonight
-i wrote you the other day and you didn't write back!
-it's like that!? after all the crap we been through!?
-i can't believe you! i know i fucked up!
-but look within you and find some love and stop being stuck up!
-you keep sending me to voicemail!
-i'm annoyed, hell!, shit you coulda at least sent a text
-but you're probably busy kissing someone else's lips
-while i'm sitting here cleaning my shoes from this shit!
-you're hard headed a sharp headache
-i need help call a medic
-i just cut myself, yeah, i did it
-without you i'm nothing don't you get it!?
-every time that i said i loved you i meant it!
-you turn and tell me you hate me and regret that
-we ever met, i can't believe you just said that
-you're so cold you just hit me so low
-i can't take this no more, so hit the road
-i don't wanna say goodbye
-but sometimes things just don't go as we'd like
-all i wanna do is cry
-say my farewells, pack up and leave tonight
-some things just don't seem the way they do
-one day you tell me i love you and only you
-i wake up to find out it was a dream
-you're telling me you hate me, you're leaving me
-people change everything changes
-we go from best friends then become strangers
-we go from seeing each other everyday then
-farewell to never seeing your face again
-i can't get you outta of my head
-so i'm out of bed at 4 in the morning
-wishing i was dead
-but for some odd reason i can't do it
-for some reason i needed to write
-what's on my mind and what's going through it
-cause if i don't i'll probably suffocate
-why do you have so much hate
-towards me you need some loving babe
-god i fucking love you i hate myself
-for falling in love with you
-just to find out all i did was trouble you
-my heart is aching i'm medicated
-i tried meditating
-but nothing works i don't even feel sedated
-i wish you could feel what i feel for one second
-i reckon you would jump out your window bare naked
-fuck humiliation, you do anything to get me back
-opinions wouldn't matter what they thought in fact
-you would tell everyone to fuck themselves good
-and do everything to have me if you could
-i don't wanna say goodbye
-but sometimes things just don't go as we'd like
-all i wanna do is cry
-say my farewells, pack up and leave tonight
+(dp1
+Vthings
+p2
+I5
+sVshoes
+p3
+I1
+sVlyrics
+p4
+I2
+sVless
+p5
+I1
+sVtext
+p6
+I1
+sVover
+p7
+I1
+sVwishing
+p8
+I1
+sVsouls
+p9
+I1
+sVsleep
+p10
+I1
+sVfalling
+p11
+I1
+sVgo
+p12
+I9
+sVhell
+p13
+I1
+sVcold
+p14
+I1
+sVstill
+p15
+I1
+sVhate
+p16
+I4
+sVfind
+p17
+I4
+sVhelp
+p18
+I1
+sVbelieve
+p19
+I2
+sVhead
+p20
+I1
+sVwed
+p21
+I4
+sVactually
+p22
+I1
+sVwindow
+p23
+I1
+sVgoing
+p24
+I1
+sV4
+I1
+sVsorry
+p25
+I1
+sVmeditating
+p26
+I1
+sVsent
+p27
+I1
+sVmeant
+p28
+I1
+sVdo
+p29
+I2
+sVsomeone
+p30
+I1
+sVhit
+p31
+I2
+sVopinions
+p32
+I1
+sVsitting
+p33
+I1
+sVcouple
+p34
+I1
+sVstop
+p35
+I2
+sVcrushed
+p36
+I1
+sVevery
+p37
+I1
+sVknow
+p38
+I4
+sVprobably
+p39
+I2
+sVtelling
+p40
+I1
+sVdrinking
+p41
+I1
+sVday
+p42
+I2
+sVshoulder
+p43
+I1
+sVlike
+p44
+I8
+sVever
+p45
+I1
+sVcry
+p46
+I4
+sVmorning
+p47
+I1
+sVleave
+p48
+I4
+sVsane
+p49
+I1
+sVcareless
+p50
+I1
+sVshots
+p51
+I1
+sVthrough
+p52
+I1
+sVworks
+p53
+I1
+sVwrote
+p54
+I1
+sVmedicated
+p55
+I1
+sVregret
+p56
+I1
+sVdeal
+p57
+I1
+sVpeople
+p58
+I1
+sVfucking
+p59
+I1
+sVhard
+p60
+I2
+sVback
+p61
+I2
+sVdead
+p62
+I1
+sVup
+p63
+I2
+sVjump
+p64
+I1
+sVsee
+p65
+I1
+sVfarewell
+p66
+I4
+sVchanges
+p67
+I1
+sVill
+p68
+I1
+sVodd
+p69
+I1
+sVbest
+p70
+I1
+sVeven
+p71
+I1
+sVnaked
+p72
+I1
+sVgon
+p73
+I1
+sVheals
+p74
+I1
+sVlean
+p75
+I1
+sVfarewells
+p76
+I4
+sVstrangers
+p77
+I1
+sVeverything
+p78
+I3
+sVwhats
+p79
+I2
+sVgot
+p80
+I1
+sVget
+p81
+I3
+sVcause
+p82
+I3
+sVcoulda
+p83
+I1
+sVnever
+p84
+I1
+sVpeed
+p85
+I1
+sVeminem
+p86
+I1
+sVcut
+p87
+I1
+sVreason
+p88
+I2
+sVbusy
+p89
+I1
+sVlips
+p90
+I1
+sVelses
+p91
+I1
+sVfuck
+p92
+I2
+sVtragedy
+p93
+I1
+sVchange
+p94
+I1
+sVcare
+p95
+I1
+sVon
+p96
+I2
+sVdammit
+p97
+I1
+sVwould
+p98
+I2
+sVanything
+p99
+I1
+sVmet
+p100
+I1
+sVgod
+p101
+I1
+sVcould
+p102
+I3
+sVkeep
+p103
+I1
+sVturn
+p104
+I1
+sVweird
+p105
+I1
+sVheart
+p106
+I1
+sVwhole
+p107
+I1
+sVroad
+p108
+I1
+sVseeing
+p109
+I2
+sVbare
+p110
+I1
+sVwouldnt
+p111
+I1
+sVlove
+p112
+I6
+sVdont
+p113
+I13
+sVheaded
+p114
+I1
+sVfeel
+p115
+I6
+sVwithin
+p116
+I1
+sVone
+p117
+I2
+sVnothing
+p118
+I2
+sVeveryone
+p119
+I1
+sVanother
+p120
+I1
+sVsounds
+p121
+I1
+sVmiss
+p122
+I1
+sVwan
+p123
+I10
+sVcrap
+p124
+I1
+sVhumiliation
+p125
+I1
+sVsecond
+p126
+I1
+sVbecome
+p127
+I1
+sVleast
+p128
+I1
+sVfight
+p129
+I1
+sVstuck
+p130
+I1
+sVmuch
+p131
+I2
+sVcall
+p132
+I1
+sVlow
+p133
+I1
+sVway
+p134
+I2
+sVtell
+p135
+I3
+sVheadache
+p136
+I1
+sVlife
+p137
+I1
+sVbabe
+p138
+I1
+sVsending
+p139
+I1
+sVyeah
+p140
+I1
+sVsuffocate
+p141
+I1
+sVeverywhere
+p142
+I1
+sVtrying
+p143
+I1
+sVme
+p144
+I2
+sVloved
+p145
+I1
+sVmyself
+p146
+I1
+sVlook
+p147
+I1
+sVwish
+p148
+I1
+sVcant
+p149
+I6
+sVbed
+p150
+I1
+sVcrutch
+p151
+I1
+sVmatter
+p152
+I1
+sVkissing
+p153
+I1
+sVloving
+p154
+I1
+sVdidnt
+p155
+I1
+sVvoicemail
+p156
+I1
+sVpack
+p157
+I4
+sVive
+p158
+I1
+sVcrazy
+p159
+I1
+sVyoure
+p160
+I5
+sVoutta
+p161
+I1
+sVthen
+p162
+I1
+sVmind
+p163
+I1
+sVit
+p164
+I6
+sVtonight
+p165
+I4
+sVsay
+p166
+I9
+sVgood
+p167
+I1
+sVim
+p168
+I7
+sVneed
+p169
+I3
+sVsharp
+p170
+I1
+sVseem
+p171
+I1
+sVleaving
+p172
+I1
+sVeveryday
+p173
+I1
+sVshit
+p174
+I2
+sVagain
+p175
+I1
+sVunited
+p176
+I1
+sVna
+p177
+I11
+sVmedic
+p178
+I1
+sVnuts
+p179
+I1
+sVwrite
+p180
+I2
+sVsedated
+p181
+I1
+sVthat
+p182
+I2
+sVtake
+p183
+I1
+sVaching
+p184
+I1
+sVyou
+p185
+I3
+sVtowards
+p186
+I1
+sVpain
+p187
+I1
+sVtried
+p188
+I1
+sVreckon
+p189
+I1
+sVsaid
+p190
+I2
+sVtrouble
+p191
+I1
+sVcleaning
+p192
+I1
+sVfucked
+p193
+I1
+sVfriends
+p194
+I1
+sVneeded
+p195
+I1
+sVdream
+p196
+I1
+sVsometimes
+p197
+I4
+sVface
+p198
+I2
+sVthought
+p199
+I1
+sVwithout
+p200
+I1
+sVgoodbye
+p201
+I4
+sVtime
+p202
+I3
+sVwake
+p203
+I1
+sVstarting
+p204
+I1
+sVannoyed
+p205
+I1
+sVfact
+p206
+I2
+sVleft
+p207
+I1
+s.

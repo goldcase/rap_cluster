@@ -1,56 +1,457 @@
-"mack minister" lyrics
-e-40 lyrics
-"mack minister"
-i'd like to thank the mack god for all tha playa prophets that he sent
-i'd like to thank him for donald going and iceberg slim
-for dottin their i's and crossin their t's, poppin their p's, and
-flexin their g's
-i'd like to thank the mack god for all the playa prophets that he
-sent before me and 40 water
-for the mack i chose 40 water
-to come into the world and change and rearrange
-to lace the suckers and the anti playa
-he came in the middle of the atlantic ocean, on the glad sandwich bag
-and floated ashore
-and as soon as he hit the shore, he balanced the game
-he said that nine-tenths of his law was possession
-and that nine-tenths of his game was position
-and that everything was done on the approach
-the mack god said that he would send an extraordinary one
-on the side of 40 water and he won't just be a playa
-he will be an extraordinary playa
-now we gonna turn the mack book from page 211 to chapter 187
-and it talks about how they had a kangaroo court for the playas
-and how dem suckas is out there with trumped up charged on e-40
-well, if you wanna judge the 40 water, bring him before 12 g's
-and open his files
-and you will see that he has been true with a capital t since he
-was knee high to a grasshopper
-that the mack god said that in the year 1555, that there was a
-great explosion and some of the playas inhaled some fumes
-pertaining additives, preservatives and artificial flavors
-the mack god refers to them as suckas
-and he said that he would send one that would come from one
-that was despised and rejected
-and that he would send this extraordinary one in the world
-and when he come, he would come with ten commandments
-and the commandments would be:
-thou shall not snitch
-thou shall not infiltrate
-thou shall not perpetrate
-thou shall not playa hate
-thou shall not hold trust
-thou shall not hold say
-thou shall not pay a trick
-thou shall not disrespect the game
-thou shall not be broke
-and thou shall not be without their thang
-the mack god said that just because you meet a hoe
-and she wears a jersey that say champion and eat a bowl of wheaties
-don't make her a winner
-will she sell her hips, her lips and her fingertips
-will you tear down doors
-and knock out co's
-can you go the distance
-will you be the one with the checkered flag in your hand
-yeah, cuz i will be the winner
+(dp1
+Vgs
+p2
+I2
+sVlace
+p3
+I1
+sVlyrics
+p4
+I2
+sV211
+p5
+I1
+sVfingertips
+p6
+I1
+sVsoon
+p7
+I1
+sVbring
+p8
+I1
+sVtalks
+p9
+I1
+sVhate
+p10
+I1
+sVthank
+p11
+I3
+sVthang
+p12
+I1
+sVwinner
+p13
+I2
+sVpoppin
+p14
+I1
+sVts
+p15
+I1
+sVsend
+p16
+I3
+sVprophets
+p17
+I2
+sVgoing
+p18
+I1
+sVinfiltrate
+p19
+I1
+sVsent
+p20
+I2
+sVninetenths
+p21
+I2
+sVhit
+p22
+I1
+sVdoors
+p23
+I1
+sVfloated
+p24
+I1
+sVgame
+p25
+I3
+sVjudge
+p26
+I1
+sVworld
+p27
+I2
+sVwont
+p28
+I1
+sVknock
+p29
+I1
+sV1555
+p30
+I1
+sVlike
+p31
+I3
+sVtear
+p32
+I1
+sVbag
+p33
+I1
+sVdone
+p34
+I1
+sVpage
+p35
+I1
+sVpertaining
+p36
+I1
+sVten
+p37
+I1
+sVgrasshopper
+p38
+I1
+sVyeah
+p39
+I1
+sVgo
+p40
+I1
+sVdonald
+p41
+I1
+sVyear
+p42
+I1
+sVwears
+p43
+I1
+sVsaid
+p44
+I5
+sVgod
+p45
+I6
+sVwheaties
+p46
+I1
+sVsince
+p47
+I1
+sVplayas
+p48
+I2
+sVartificial
+p49
+I1
+sVeverything
+p50
+I1
+sVplaya
+p51
+I6
+sVcapital
+p52
+I1
+sVapproach
+p53
+I1
+sVbe
+p54
+I1
+sVcheckered
+p55
+I1
+sVexplosion
+p56
+I1
+sVchose
+p57
+I1
+sVps
+p58
+I1
+sVdottin
+p59
+I1
+sVkangaroo
+p60
+I1
+sVinhaled
+p61
+I1
+sVwater
+p62
+I4
+sVextraordinary
+p63
+I3
+sVlips
+p64
+I1
+sVsuckers
+p65
+I1
+sVflexin
+p66
+I1
+sVrefers
+p67
+I1
+sVcome
+p68
+I4
+sVchange
+p69
+I1
+sVchapter
+p70
+I1
+sVdisrespect
+p71
+I1
+sVgreat
+p72
+I1
+sVthou
+p73
+I10
+sVside
+p74
+I1
+sVturn
+p75
+I1
+sVadditives
+p76
+I1
+sVdont
+p77
+I1
+sVcommandments
+p78
+I2
+sVone
+p79
+I5
+sVfumes
+p80
+I1
+sVanti
+p81
+I1
+sVbalanced
+p82
+I1
+sVtrust
+p83
+I1
+sVopen
+p84
+I1
+sVflavors
+p85
+I1
+sVwan
+p86
+I1
+sVdespised
+p87
+I1
+sVwould
+p88
+I6
+sV187
+p89
+I1
+sVfiles
+p90
+I1
+sVsuckas
+p91
+I2
+sVchampion
+p92
+I1
+sVpreservatives
+p93
+I1
+sVcos
+p94
+I1
+sVrejected
+p95
+I1
+sVflag
+p96
+I1
+sVatlantic
+p97
+I1
+sVminister
+p98
+I2
+sVbroke
+p99
+I1
+sVhold
+p100
+I2
+sVtrue
+p101
+I1
+sVeat
+p102
+I1
+sVglad
+p103
+I1
+sVhe
+p104
+I2
+sVdistance
+p105
+I1
+sVe40
+p106
+I2
+sV12
+p107
+I1
+sViceberg
+p108
+I1
+sVhips
+p109
+I1
+sVsee
+p110
+I1
+sVtrick
+p111
+I1
+sVdem
+p112
+I1
+sVmeet
+p113
+I1
+sVand
+p114
+I1
+sVpossession
+p115
+I1
+sVslim
+p116
+I1
+sVtrumped
+p117
+I1
+sVhigh
+p118
+I1
+sVmiddle
+p119
+I1
+sVsay
+p120
+I2
+sVcrossin
+p121
+I1
+sVid
+p122
+I3
+sVsell
+p123
+I1
+sVhoe
+p124
+I1
+sVcourt
+p125
+I1
+sVna
+p126
+I2
+sVmake
+p127
+I1
+sVbowl
+p128
+I1
+sV40
+p129
+I4
+sVjersey
+p130
+I1
+sVbook
+p131
+I1
+sVashore
+p132
+I1
+sVsandwich
+p133
+I1
+sVshall
+p134
+I10
+sVhand
+p135
+I1
+sVrearrange
+p136
+I1
+sVgon
+p137
+I1
+sVsnitch
+p138
+I1
+sVknee
+p139
+I1
+sVlaw
+p140
+I1
+sVmack
+p141
+I10
+sVa
+I1
+sVwell
+p142
+I1
+sVocean
+p143
+I1
+sVperpetrate
+p144
+I1
+sVshore
+p145
+I1
+sVwithout
+p146
+I1
+sVtha
+p147
+I1
+sVpay
+p148
+I1
+sVposition
+p149
+I1
+sVcuz
+p150
+I1
+sVcame
+p151
+I1
+sVcharged
+p152
+I1
+s.

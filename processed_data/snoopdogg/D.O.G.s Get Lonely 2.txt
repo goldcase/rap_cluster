@@ -1,48 +1,382 @@
-"d.o.g.'s get lonely 2" lyrics
-snoop dogg lyrics
-"d.o.g.'s get lonely 2"
-what's up baby can i get with you?
-its called dogs get lonely 2
-bow-wow
-i dont give a damn, what your homies say
-you don't stay on me, your always out to play
-your so hard to find, seems your shaking me
-d.o.g.'s we get lonely
-look here babygirl d.o.g.'s we get lonely
-you can ask all my homies, all d.p.g. got tenderoni's
-now when we on the road trying to get this paper
-and phone call away is what you say
-but some times you got to find time to get up
-to get out and get away you feel me
-now all i want to do is stay real and stay true
-i'm trying to have a little something, and keep you satisfied, but
-(when) my homeboys say its time to ride then i'm a ride
-see i'm a gangsta i'm a always be a gangsta you cant change me
-dispite at night i might get lonely ya heard me come and serve me
-i'd love to take you to the mall
-buy you a little somthing go to the movies too
-if thats what you want to do, thats what you trying to do
-thats what we going to do
-now i'm a put you on a back burner
-cause i got to get this cheese with my crew
-but baby momma full of drama aint that right
-d.a.z. dog's get lonely too
-now you knew the dog was dangerous and you took it
-you got good loving
-you hook me up a good meal
-but you still couldnt hook me
-let me stop lying, i'm trying to be too cool, i shaking the real
-all my homies do y'all know d.o.g.'s can get lonely too thats real
-yo yo check this out baby
-im not even going to rap on this one
-i'm not i'm not much of a rapper at all
-but check this out i'm a put this p.i. down to you real small
-i mean i got to get this money i'm out here hanging with my homeboys
-we do what we do we been doing this
-before i even met you you know what i'm saying
-times get hard my homies gone be there i know you there for me
-i know you want to do those things that
-that a women supposed to do for a nigga like me
-i mean when i get lonely i'm a holler at you
-you gone be there for me
-thats real
+(dp1
+Vsaying
+p2
+I1
+sVall
+p3
+I1
+sVlyrics
+p4
+I2
+sVmoney
+p5
+I1
+sVsatisfied
+p6
+I1
+sVpaper
+p7
+I1
+sVhanging
+p8
+I1
+sVgo
+p9
+I1
+sVlove
+p10
+I1
+sVstill
+p11
+I1
+sVfind
+p12
+I2
+sVaint
+p13
+I1
+sVsomthing
+p14
+I1
+sVmuch
+p15
+I1
+sVseems
+p16
+I1
+sVcrew
+p17
+I1
+sVgoing
+p18
+I2
+sVhomies
+p19
+I4
+sVgangsta
+p20
+I2
+sVmight
+p21
+I1
+sVreal
+p22
+I5
+sVdo
+p23
+I2
+sVlonely
+p24
+I9
+sVyo
+p25
+I2
+sVget
+p26
+I17
+sVya
+p27
+I1
+sVstop
+p28
+I1
+sVknow
+p29
+I4
+sVdaz
+p30
+I1
+sVcool
+p31
+I1
+sVlike
+p32
+I1
+sVhook
+p33
+I2
+sValways
+p34
+I2
+sVrapper
+p35
+I1
+sVdpg
+p36
+I1
+sVdispite
+p37
+I1
+sVnight
+p38
+I1
+sVsmall
+p39
+I1
+sVshaking
+p40
+I2
+sVmeal
+p41
+I1
+sVyall
+p42
+I1
+sVmean
+p43
+I2
+sVbabygirl
+p44
+I1
+sVright
+p45
+I1
+sVhard
+p46
+I2
+sVback
+p47
+I1
+sVup
+p48
+I1
+sVsee
+p49
+I1
+sVholler
+p50
+I1
+sVeven
+p51
+I2
+sVaway
+p52
+I2
+sVburner
+p53
+I1
+sVgot
+p54
+I5
+sVcause
+p55
+I1
+sVfull
+p56
+I1
+sVmet
+p57
+I1
+sVbowwow
+p58
+I1
+sVlet
+p59
+I1
+sVask
+p60
+I1
+sVcome
+p61
+I1
+sVchange
+p62
+I1
+sVkeep
+p63
+I1
+sVdrama
+p64
+I1
+sVroad
+p65
+I1
+sVthats
+p66
+I5
+sVcheese
+p67
+I1
+sVwhats
+p68
+I1
+sVdont
+p69
+I2
+sVfeel
+p70
+I1
+sVone
+p71
+I1
+sVput
+p72
+I2
+sVmomma
+p73
+I1
+sVnigga
+p74
+I1
+sVcouldnt
+p75
+I1
+sVlittle
+p76
+I2
+sVsnoop
+p77
+I1
+sVdogg
+p78
+I1
+sV2
+I3
+sVcall
+p79
+I1
+sVtoo
+p80
+I2
+sVdamn
+p81
+I1
+sVpi
+p82
+I1
+sVdogs
+p83
+I7
+sVloving
+p84
+I1
+sVhomeboys
+p85
+I2
+sVbuy
+p86
+I1
+sVthat
+p87
+I1
+sVserve
+p88
+I1
+sVtook
+p89
+I1
+sVphone
+p90
+I1
+sVtenderonis
+p91
+I1
+sVbaby
+p92
+I3
+sVtrying
+p93
+I4
+sVtrue
+p94
+I1
+sVwomen
+p95
+I1
+sVme
+p96
+I8
+sVlook
+p97
+I1
+sVthis
+p98
+I1
+sVdangerous
+p99
+I1
+sVride
+p100
+I2
+sVcant
+p101
+I1
+sVmovies
+p102
+I1
+sVmall
+p103
+I1
+sVsupposed
+p104
+I1
+sVcalled
+p105
+I1
+sVgone
+p106
+I2
+sVrap
+p107
+I1
+sVgive
+p108
+I1
+sVit
+p109
+I1
+sVheard
+p110
+I1
+sVsay
+p111
+I3
+sVgood
+p112
+I2
+sVim
+p113
+I13
+sVsomething
+p114
+I1
+sVwant
+p115
+I3
+sVtimes
+p116
+I2
+sVid
+p117
+I1
+sVthings
+p118
+I1
+sVcheck
+p119
+I2
+sVtake
+p120
+I1
+sVyou
+p121
+I2
+sVplay
+p122
+I1
+sVknew
+p123
+I1
+sVstay
+p124
+I3
+sVdog
+p125
+I1
+sVtime
+p126
+I2
+sVlying
+p127
+I1
+s.

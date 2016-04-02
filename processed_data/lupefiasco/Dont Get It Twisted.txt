@@ -1,41 +1,314 @@
-"don't get it twisted" lyrics
-lupe fiasco lyrics
-"don't get it twisted"
-"neeeeeeeeerrrrrrrrrrrdd!"
-westside, baby
-what's good?
-i'm only gonna do this once, man
-once
-till the album come
-so, check it out
-from the m-a...d-i to the s to the o-n
-po'in, to getcha open
-move like a nigga's supposed to get the dough
-it'll go with the flow that i'm holdin'
-joe'n'em, they ownin' up - up on enough
-stay in the zone, that i go in
-that i go in, when i go in and go in
-of the po'ins, and the rope man
-crucial conflict was smokin'
-but a nigga like me, i don't be chokin'
-so i proceed at low speed, low key
-like a og in a '03 loc-in'
-rollin', like a oz in a b-league
-both pins, like a bowlin' ball when i ball
-but i never fall for the oki-dokin'
-white walls, with the slow-speed motion
-stash-box for the police pokin'
-rolie showin, shorty showin, hokey pokin'
-turnin it around with me to bust em down cuz they know he golden
-exactly
-i'm in it from the minute i was in it till the minute
-that i spit it and it's finished
-and it's sad for me
-until the second wind, and reinvent it with a vengeance
-revisit and make 'em give it
-back to me
-all right, that's all you get
-i'm done
-you know what i'm sayin'?
-and the streets where they traffic me
-nigga what
+(dp1
+Vlyrics
+p2
+I2
+sVmove
+p3
+I1
+sVownin
+p4
+I1
+sVdough
+p5
+I1
+sVgo
+p6
+I5
+sVspeed
+p7
+I1
+sVpolice
+p8
+I1
+sVlocin
+p9
+I1
+sVzone
+p10
+I1
+sVitll
+p11
+I1
+sVcuz
+p12
+I1
+sVbust
+p13
+I1
+sVgood
+p14
+I1
+sVaround
+p15
+I1
+sVget
+p16
+I4
+sVwalls
+p17
+I1
+sVrolie
+p18
+I1
+sVknow
+p19
+I2
+sVpoin
+p20
+I1
+sVfall
+p21
+I1
+sVminute
+p22
+I2
+sVlike
+p23
+I5
+sVholdin
+p24
+I1
+sVreinvent
+p25
+I1
+sVem
+p26
+I2
+sVnigga
+p27
+I2
+sVturnin
+p28
+I1
+sVstreets
+p29
+I1
+sVback
+p30
+I1
+sVsecond
+p31
+I1
+sVout
+p32
+I1
+sValbum
+p33
+I1
+sV03
+p34
+I1
+sVwhat
+p35
+I1
+sVgon
+p36
+I1
+sVpokin
+p37
+I2
+sVcrucial
+p38
+I1
+sVlupe
+p39
+I1
+sVenough
+p40
+I1
+sVjoenem
+p41
+I1
+sVnever
+p42
+I1
+sVsmokin
+p43
+I1
+sVkey
+p44
+I1
+sVcome
+p45
+I1
+sVsayin
+p46
+I1
+sVon
+p47
+I1
+sVstashbox
+p48
+I1
+sVog
+p49
+I1
+sVmotion
+p50
+I1
+sVhokey
+p51
+I1
+sVoz
+p52
+I1
+sVthats
+p53
+I1
+sVpoins
+p54
+I1
+sVgolden
+p55
+I1
+sVwhats
+p56
+I1
+sVdont
+p57
+I3
+sVright
+p58
+I1
+sVdone
+p59
+I1
+sVopen
+p60
+I1
+sVproceed
+p61
+I1
+sVwestside
+p62
+I1
+sVtwisted
+p63
+I2
+sVlow
+p64
+I2
+sVwhite
+p65
+I1
+sVspit
+p66
+I1
+sVgetcha
+p67
+I1
+sVexactly
+p68
+I1
+sVshorty
+p69
+I1
+sVfinished
+p70
+I1
+sVbaby
+p71
+I1
+sVme
+p72
+I3
+sVniggas
+p73
+I1
+sVmadi
+p74
+I1
+sVrope
+p75
+I1
+sVsupposed
+p76
+I1
+sVgive
+p77
+I1
+sVshowin
+p78
+I2
+sVit
+p79
+I1
+sVsad
+p80
+I1
+sVim
+p81
+I5
+sVrollin
+p82
+I1
+sVin
+p83
+I2
+sVbowlin
+p84
+I1
+sVcheck
+p85
+I1
+sVna
+p86
+I1
+sVmake
+p87
+I1
+sVrevisit
+p88
+I1
+sVtill
+p89
+I2
+sVpins
+p90
+I1
+sVconflict
+p91
+I1
+sVball
+p92
+I2
+sVchokin
+p93
+I1
+sVstay
+p94
+I1
+sVvengeance
+p95
+I1
+sVman
+p96
+I2
+sVneeeeeeeeerrrrrrrrrrrdd
+p97
+I1
+sVslowspeed
+p98
+I1
+sVflow
+p99
+I1
+sVokidokin
+p100
+I1
+sVbleague
+p101
+I1
+sVfiasco
+p102
+I1
+sVtraffic
+p103
+I1
+sVwind
+p104
+I1
+sVonce
+p105
+I1
+s.

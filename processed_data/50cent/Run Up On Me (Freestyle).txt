@@ -1,48 +1,442 @@
-"run up on me (freestyle)" lyrics
-50 cent lyrics
-"run up on me (freestyle)"
-this is the unit bitch
-nigga this is ground hog day
-back to buying toasters
-i'm i'll, no doc, no diagnosis
-no cure, i smell fear
-nigga my eyes don't cry, my heart so cold
-let's play, let's make a deal nigga, sell me your soul
-got a fetish for the guns, calico drums
-rap meyer lansky steady counting my ones
-death dealer, heron, meth dealer
-top biller, point blank, i'm that nigga
-barrell smokin', fiend smokin', rims pokin'
-out on that 550 benz, bitch is open
-inhale, exhale, feel a different high
-andrew mcqueen shirt and jeans, this a different fly
-presidential time, nigga watch the rolie shine
-no need for pens and paper, this is, what's on my mind
-i don't suggest you play boy
-i don't think you should fuck with me
-i'll shoot right away boy
-find out when you run up on me
-i'm riding with that k boy
-i put that on my dead homies
-i spray it right away boy
-find out when you run up on me
-when niggas shot me, i must have bled out my conscience
-go 'head play boy, i bang that thing at you like bronson
-i feel for you niggas i'm back now
-i told you pussy niggas '03 i don't back down
-me still a rookie, nah, i'm more like veteran
-i bet ya ipod is full of niggas i'm better than
-magician i make grams turn to cash, kush turn in to ash
-heads turn into ass, i'm the bum nigga of the class
-that's me in a nutshell, run tell i did it
-interrogation hours go on, i won't admit it
-got cash coming out of my ass, i'm so compelling
-these niggas act hard till you hit 'em, they start tellin'
-i don't suggest you play boy
-i don't think you should fuck with me
-i'll shoot right away boy
-find out when you run up on me
-i'm riding with that k boy
-i put that on my dead homies
-i spray it right away boy
-find out when you run up on me
+(dp1
+Vshot
+p2
+I1
+sVlyrics
+p3
+I2
+sVpaper
+p4
+I1
+sVgo
+p5
+I2
+sVfear
+p6
+I1
+sVstill
+p7
+I1
+sVfind
+p8
+I4
+sVground
+p9
+I1
+sVdeath
+p10
+I1
+sVpens
+p11
+I1
+sVheron
+p12
+I1
+sVthan
+p13
+I1
+sVbetter
+p14
+I1
+sVlets
+p15
+I2
+sVcompelling
+p16
+I1
+sVfiend
+p17
+I1
+sVriding
+p18
+I2
+sVshoot
+p19
+I2
+sVhit
+p20
+I1
+sVya
+p21
+I1
+sVwatch
+p22
+I1
+sVinterrogation
+p23
+I1
+sVme
+p24
+I6
+sVbang
+p25
+I1
+sVones
+p26
+I1
+sVrolie
+p27
+I1
+sVfetish
+p28
+I1
+sVnow
+p29
+I1
+sVday
+p30
+I1
+sVpresidential
+p31
+I1
+sVwont
+p32
+I1
+sVlike
+p33
+I2
+sVcry
+p34
+I1
+sV50
+p35
+I1
+sVtoasters
+p36
+I1
+sVem
+p37
+I1
+sVnigga
+p38
+I6
+sVdeal
+p39
+I1
+sVhard
+p40
+I1
+sVback
+p41
+I3
+sVdead
+p42
+I2
+sVcash
+p43
+I2
+sVbled
+p44
+I1
+sVmeth
+p45
+I1
+sVcold
+p46
+I1
+sVbarrell
+p47
+I1
+sVconscience
+p48
+I1
+sV03
+p49
+I1
+sVpokin
+p50
+I1
+sVit
+p51
+I2
+sVgot
+p52
+I2
+sVguns
+p53
+I1
+sVtold
+p54
+I1
+sVass
+p55
+I2
+sVfull
+p56
+I1
+sVrun
+p57
+I7
+sVrims
+p58
+I1
+sVipod
+p59
+I1
+sVhours
+p60
+I1
+sVspray
+p61
+I2
+sVsmokin
+p62
+I2
+sVdrums
+p63
+I1
+sVput
+p64
+I2
+sVash
+p65
+I1
+sVmeyer
+p66
+I1
+sVshine
+p67
+I1
+sVboy
+p68
+I9
+sVill
+p69
+I3
+sVmcqueen
+p70
+I1
+sVthing
+p71
+I1
+sVadmit
+p72
+I1
+sVact
+p73
+I1
+sVhead
+p74
+I1
+sVthink
+p75
+I2
+sVthats
+p76
+I1
+sVwhats
+p77
+I1
+sVdont
+p78
+I6
+sVpoint
+p79
+I1
+sVfeel
+p80
+I2
+sVpussy
+p81
+I1
+sVjeans
+p82
+I1
+sVbronson
+p83
+I1
+sVdown
+p84
+I1
+sVright
+p85
+I4
+sVbitch
+p86
+I2
+sVblank
+p87
+I1
+sVopen
+p88
+I1
+sVunit
+p89
+I1
+sVinhale
+p90
+I1
+sVheads
+p91
+I1
+sVtop
+p92
+I1
+sVcent
+p93
+I1
+sVstart
+p94
+I1
+sVveteran
+p95
+I1
+sVtell
+p96
+I1
+sVeyes
+p97
+I1
+sVfreestyle
+p98
+I2
+sVhomies
+p99
+I2
+sVbiller
+p100
+I1
+sVandrew
+p101
+I1
+sVfuck
+p102
+I2
+sVbum
+p103
+I1
+sVcalico
+p104
+I1
+sVbuying
+p105
+I1
+sVmust
+p106
+I1
+sVfly
+p107
+I1
+sVniggas
+p108
+I5
+sVsoul
+p109
+I1
+sVtellin
+p110
+I1
+sVexhale
+p111
+I1
+sVk
+I2
+sVbet
+p112
+I1
+sVheart
+p113
+I1
+sVbenz
+p114
+I1
+sVmind
+p115
+I1
+sV550
+p116
+I1
+sVlansky
+p117
+I1
+sVhigh
+p118
+I1
+sVcure
+p119
+I1
+sVim
+p120
+I9
+sVrap
+p121
+I1
+sVneed
+p122
+I1
+sVcounting
+p123
+I1
+sVdealer
+p124
+I2
+sVsell
+p125
+I1
+sVhog
+p126
+I1
+sVdifferent
+p127
+I2
+sVshirt
+p128
+I1
+sVnutshell
+p129
+I1
+sVturn
+p130
+I3
+sVsuggest
+p131
+I2
+sVmake
+p132
+I2
+sVnah
+p133
+I1
+sVtill
+p134
+I1
+sVrookie
+p135
+I1
+sVsmell
+p136
+I1
+sVplay
+p137
+I4
+sVkush
+p138
+I1
+sVcoming
+p139
+I1
+sVmagician
+p140
+I1
+sVclass
+p141
+I1
+sVgrams
+p142
+I1
+sVdoc
+p143
+I1
+sVsteady
+p144
+I1
+sVdiagnosis
+p145
+I1
+sVtime
+p146
+I1
+sVaway
+p147
+I4
+s.

@@ -1,111 +1,653 @@
-"i can sell it" lyrics
-e-40 lyrics
-"i can sell it"
-(feat. cousin fik)
-man i can sell anything mane (anything mane)
-i got the mouth piece of a pimp
-who want it
-who want it
-i can sell it
-i can sell it
-who need it
-who need it
-i can sell it
-i can sell it
-i got a gold mouthpiece
-i can sell it
-holla at me in the streets
-i can sell it
-i can sell a flat tire to a bike
-a left to a right
-a root beet to a sprite
-a dick to a dyke
-a mute to a mic
-wind to a kite
-dark to bright
-a shadow to a light
-cheese to pizza
-slut to a diva
-stripes to a zebra
-spots to a cheetah
-tall can to a liter
-sell sound to a speaker
-a bucket to a beemer
-a scam to a schemer
-sell love to hate
-the truth to lies
-sell real to fake
-sell shit to flies
-sell gas to texaco
-insurance to geico
-tank full of petro
-minutes to metro
-hill billy like jethro
-magazines street though
-screaming that hillside (hillside)
-straight up out the valley joe
-it's sick wid it
-in case you suckas didn't know
-i can sell snow to a ski slope (biatch)
-i can sell mud to a worm
-sell a pimp a perm
-knock a bitch on a straight path
-sell her a term
-sell fire to a match
-ice to a freezer
-sell itch to a scratch
-sell credit to a visa
-sell the club for street weed
-zip for zip
-and fly to iraq & sell extra clips
-sell sand to the beach
-fuzz to a peach
-get double for each
-sell lips to a leach
-i can sell buffy some ass
-a bum some trash
-sell trees in a forest
-sell a yard some grass
-sell the future to the past
-a blind man some glasses
-miles to a car
-cigar some ashes
-sell wool to a sheep
-dead man some sleep
-i can sell some best friends some beef
-shit
-i can sell a shark some teeth
-i got a nigga's nigga
-yall can get it from me
-i can sell grapes to a vineyard
-chicken to the colonel
-keys to a custodian
-speed to turbo
-kicks to beckham
-skills to a veteran
-pills to excedrin
-joy to depression
-sell a bar some drinks
-a coat to a mink
-sell some thoughts to a thinker
-psychologists to a shrink
-i can sell weight to a gym
-11 times outta 10
-sell rain to a storm
-sell blow to a horn
-look i can sell sugar to a cake
-water to a lake
-shoes to a snake
-shake to a quake
-wings to a boat
-sleeves to a coat
-a page to a book
-some crimes to a crook
-i can sell thin to frail
-a shell to a snail
-white to pale
-off to a scale
-grind to a block
-time to a clock
-silent to a rock
-detox to a knock
+(dp1
+Vslope
+p2
+I1
+sVkite
+p3
+I1
+sVlyrics
+p4
+I2
+sVmute
+p5
+I1
+sVscratch
+p6
+I1
+sVbum
+p7
+I1
+sVhillside
+p8
+I2
+sVbright
+p9
+I1
+sVsleep
+p10
+I1
+sVquake
+p11
+I1
+sVshake
+p12
+I1
+sVchicken
+p13
+I1
+sVfeat
+p14
+I1
+sVshoes
+p15
+I1
+sVblow
+p16
+I1
+sVgold
+p17
+I1
+sVtire
+p18
+I1
+sVdick
+p19
+I1
+sVlake
+p20
+I1
+sVsugar
+p21
+I1
+sVbike
+p22
+I1
+sVfik
+p23
+I1
+sVwool
+p24
+I1
+sVski
+p25
+I1
+sVmatch
+p26
+I1
+sVreal
+p27
+I1
+sVsound
+p28
+I1
+sVliter
+p29
+I1
+sVget
+p30
+I2
+sVcustodian
+p31
+I1
+sVstripes
+p32
+I1
+sVtrees
+p33
+I1
+sVdark
+p34
+I1
+sVme
+p35
+I1
+sVknow
+p36
+I1
+sVshadow
+p37
+I1
+sVscreaming
+p38
+I1
+sVwings
+p39
+I1
+sVlook
+p40
+I1
+sVknock
+p41
+I2
+sVterm
+p42
+I1
+sVbar
+p43
+I1
+sVlike
+p44
+I1
+sVpimp
+p45
+I2
+sVskills
+p46
+I1
+sVbilly
+p47
+I1
+sVsand
+p48
+I1
+sVfuzz
+p49
+I1
+sVtruth
+p50
+I1
+sVeach
+p51
+I1
+sVpath
+p52
+I1
+sVpage
+p53
+I1
+sVyall
+p54
+I1
+sVbitch
+p55
+I1
+sVschemer
+p56
+I1
+sVright
+p57
+I1
+sVweight
+p58
+I1
+sVstreets
+p59
+I1
+sVdead
+p60
+I1
+sVhorn
+p61
+I1
+sVpast
+p62
+I1
+sVcrook
+p63
+I1
+sVlips
+p64
+I1
+sVstreet
+p65
+I2
+sVzebra
+p66
+I1
+sVjethro
+p67
+I1
+sVinsurance
+p68
+I1
+sVbest
+p69
+I1
+sVdrinks
+p70
+I1
+sVscale
+p71
+I1
+sVsnail
+p72
+I1
+sVashes
+p73
+I1
+sVhate
+p74
+I1
+sVice
+p75
+I1
+sVmud
+p76
+I1
+sVpetro
+p77
+I1
+sVhill
+p78
+I1
+sVgot
+p79
+I3
+sVspeed
+p80
+I1
+sVass
+p81
+I1
+sVfull
+p82
+I1
+sVjoy
+p83
+I1
+sVrock
+p84
+I1
+sVslut
+p85
+I1
+sVwater
+p86
+I1
+sVjoe
+p87
+I1
+sVgrapes
+p88
+I1
+sVcousin
+p89
+I1
+sViraq
+p90
+I1
+sVgrass
+p91
+I1
+sVyard
+p92
+I1
+sVbeef
+p93
+I1
+sVmetro
+p94
+I1
+sVroot
+p95
+I1
+sVtimes
+p96
+I1
+sVcredit
+p97
+I1
+sVmane
+p98
+I2
+sVglasses
+p99
+I1
+sVblock
+p100
+I1
+sVblind
+p101
+I1
+sVcheese
+p102
+I1
+sVflies
+p103
+I1
+sVwid
+p104
+I1
+sVlove
+p105
+I1
+sVextra
+p106
+I1
+sVsnake
+p107
+I1
+sVlies
+p108
+I1
+sVgeico
+p109
+I1
+sVnigga
+p110
+I1
+sVmagazines
+p111
+I1
+sVperm
+p112
+I1
+sVfake
+p113
+I1
+sVoutta
+p114
+I1
+sVbeckham
+p115
+I1
+sVboat
+p116
+I1
+sVsheep
+p117
+I1
+sVsilent
+p118
+I1
+sVzip
+p119
+I2
+sVtexaco
+p120
+I1
+sVmouthpiece
+p121
+I1
+sVspots
+p122
+I1
+sVvineyard
+p123
+I1
+sVbeet
+p124
+I1
+sVstorm
+p125
+I1
+sVtime
+p126
+I1
+sVwhite
+p127
+I1
+sVvalley
+p128
+I1
+sVflat
+p129
+I1
+sVleach
+p130
+I1
+sVcrimes
+p131
+I1
+sVsuckas
+p132
+I1
+sVsprite
+p133
+I1
+sVfire
+p134
+I1
+sVgym
+p135
+I1
+sVgas
+p136
+I1
+sVdepression
+p137
+I1
+sVbuffy
+p138
+I1
+sVsleeves
+p139
+I1
+sVbiatch
+p140
+I1
+sVkicks
+p141
+I1
+sVdidnt
+p142
+I1
+sVcase
+p143
+I1
+sV10
+p144
+I1
+sVe40
+p145
+I1
+sVtank
+p146
+I1
+sVanything
+p147
+I2
+sVniggas
+p148
+I1
+sVdouble
+p149
+I1
+sVstraight
+p150
+I2
+sVbucket
+p151
+I1
+sVworm
+p152
+I1
+sVbeemer
+p153
+I1
+sVclips
+p154
+I1
+sVfuture
+p155
+I1
+sVthin
+p156
+I1
+sVcoat
+p157
+I2
+sVcake
+p158
+I1
+sVpiece
+p159
+I1
+sVminutes
+p160
+I1
+sVshark
+p161
+I1
+sVmink
+p162
+I1
+sVscam
+p163
+I1
+sVturbo
+p164
+I1
+sVit
+p165
+I10
+sVfly
+p166
+I1
+sVshell
+p167
+I1
+sVwant
+p168
+I2
+sVneed
+p169
+I2
+sVcolonel
+p170
+I1
+sVdyke
+p171
+I1
+sVshit
+p172
+I2
+sVcar
+p173
+I1
+sVsell
+p174
+I41
+sVholla
+p175
+I1
+sVpeach
+p176
+I1
+sVthinker
+p177
+I1
+sVmic
+p178
+I1
+sVsnow
+p179
+I1
+sVfreezer
+p180
+I1
+sVpills
+p181
+I1
+sVclub
+p182
+I1
+sVbook
+p183
+I1
+sVspeaker
+p184
+I1
+sVforest
+p185
+I1
+sVsick
+p186
+I1
+sVfrail
+p187
+I1
+sVcheetah
+p188
+I1
+sVtrash
+p189
+I1
+sVbeach
+p190
+I1
+sVshrink
+p191
+I1
+sVpizza
+p192
+I1
+sVitch
+p193
+I1
+sVthough
+p194
+I1
+sVkeys
+p195
+I1
+sVcigar
+p196
+I1
+sVdiva
+p197
+I1
+sVweed
+p198
+I1
+sVpale
+p199
+I1
+sVvisa
+p200
+I1
+sVmouth
+p201
+I1
+sVdetox
+p202
+I1
+sVfriends
+p203
+I1
+sVthoughts
+p204
+I1
+sVman
+p205
+I3
+sVrain
+p206
+I1
+sVmiles
+p207
+I1
+sVpsychologists
+p208
+I1
+sVexcedrin
+p209
+I1
+sVlight
+p210
+I1
+sVclock
+p211
+I1
+sVgrind
+p212
+I1
+sVteeth
+p213
+I1
+sV11
+p214
+I1
+sVtall
+p215
+I1
+sVveteran
+p216
+I1
+sVwind
+p217
+I1
+sVleft
+p218
+I1
+s.

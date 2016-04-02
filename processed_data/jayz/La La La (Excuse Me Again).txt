@@ -1,94 +1,680 @@
-"la, la, la (excuse me again)" lyrics
-jay-z lyrics
-"la, la, la (excuse me again)"
-whooo! whooo!
-memph bleek always smoking that la, la, la
-beanie sigel always smoking that la, la, la
-neptunes track smoke like la, la, la
-it's the roc baby sing our lulla-bye (c'mon)
-excuse me miss, i'm the shit
-you should come, hang with me, basically
-hold up, skip all the singing let's get right tonight
-mami
-i know my english ain't as modest as you like
-but come, get some you little bums
-i take the cake from under the bakers thumb
-i bake the cake and two it up from one
-then i moved to weight like i'm oprah's son
-uh, i show you how to do this son
-young don't mess with chicks in burberry patterns
-fake menolo's boots straight from steve madden
-he tatted his-self, as the rap j.f.k.
-you wanna pass for my jaqueline, onassis, then
-hop ya ass out that s-class
-lay back in the maybach, roll the best grass, i ask
-have you in your long-legged life
-ever seen a watch surrounded by this much pink ice
-look but don't touch, muthafucka think twice
-cuz this gat that i clutch gotta little red light
-need a light?
-(to smoke that la, la, la)
-beanie sigel always smoking that la, la, la
-memph bleek always smoking that la, la, la
-it's the roc mami sing our lulla-bye
-c'mon
-excuse me miss, i'm the shit
-you should come, hang with me, basically
-hold up, skip all the singing let's get right tonight
-mami
-we got brothers full of army, mami's in manolo
-bags by chanel or louis vuitton logo's
-all attracted to hov because they know dough
-when they see him, whips be european
-if your a 10 chances your with him
-if your a 5 you know you ridin' with them
-sick with the pen nigga no physician, in the world could fix him
-no prescription, you can prescribe to subside his affliction
-he's not a sane man, he's more like the rainman twitchin'
-you can't reign dance on this picnic
-no haitian voodoo, no headless chicken
-can dead or sickness, no quiji board
-you can't see me dawg, niggaz ya cb-4
-this ain't chris rock bitch, it's the roc bitch
-and i'm the franchise like the houston rockets
-yao ming
-still smokin' that la, la, la
-memph bleek still smokin' that la, la, la
-beanie sigel desert eagle the .45
-it's the roc baby sing our lulla-bye
-c'mon
-excuse me miss, i'm the shit
-you should come, hang with me, basically
-hold up, skip all the singing let's get right tonight
-mami
-forget english, talk body language
-i be all over mami's like body painters
-pink diamond necklace, strawberry wrist
-please excuse yourself, your very sick
-don't confuse me with marbury out this bitch
-run up on me at the light, you could lose your life
-muthafucka's must be smokin' they la, la, la or crack
-.45 gun smoke, choke off that
-let's get back to the music, i ain't with all that
-plus the fedz tappin' my music, yall get all that?
-i'm thee! public industry #1
-public industry #2 is my whole crew (r.o.c.!)
-now i ain't down with who like me or who like you
-that's gay, i ain't into liking dudes no way
-but get a pen, i can tell you pricks my plans for the future
-i never make the news again, my man'll shoot ya
-as we, smoke that la, la, la
-memph bleek still smokin' that la, la, la
-beanie sigel desert eagle the .45
-it's the roc bitch sing our lulla-bye
-c'mon
-excuse me miss, i'm the shit
-you should come, hang with me, basically
-hold up, skip all the singing let's get right tonight
-mami
-well watch me now
-uh!
-ho!, ho!
-c'mon
-do you want me to do it
-well watch me now
+(dp1
+Vchicks
+p2
+I1
+sVnow
+p3
+I2
+sVforget
+p4
+I1
+sVlyrics
+p5
+I2
+sVshow
+p6
+I1
+sVchances
+p7
+I1
+sVskip
+p8
+I4
+sVroc
+p9
+I6
+sVgun
+p10
+I1
+sVsteve
+p11
+I1
+sVoprahs
+p12
+I1
+sVdough
+p13
+I1
+sVtouch
+p14
+I1
+sVjaqueline
+p15
+I1
+sVchicken
+p16
+I1
+sVstill
+p17
+I3
+sVquiji
+p18
+I1
+sVmake
+p19
+I1
+sVaint
+p20
+I5
+sV1
+I1
+sVone
+p21
+I1
+sVthumb
+p22
+I1
+sVla
+p23
+I39
+sVfix
+p24
+I1
+sVyoung
+p25
+I1
+sVhim
+p26
+I2
+sVpainters
+p27
+I1
+sVdance
+p28
+I1
+sVlets
+p29
+I5
+sVboard
+p30
+I1
+sVcrack
+p31
+I1
+sVattracted
+p32
+I1
+sVmaybach
+p33
+I1
+sVta
+p34
+I1
+sVthen
+p35
+I1
+sVthem
+p36
+I1
+sVsick
+p37
+I2
+sVget
+p38
+I8
+sVya
+p39
+I3
+sVthee
+p40
+I1
+sVwatch
+p41
+I3
+sVtatted
+p42
+I1
+sVknow
+p43
+I3
+sVworld
+p44
+I1
+sVwhooo
+p45
+I2
+sVchanel
+p46
+I1
+sVmemph
+p47
+I4
+sVlike
+p48
+I8
+sVhisself
+p49
+I1
+sVmuthafuckas
+p50
+I1
+sVtwice
+p51
+I1
+sVsane
+p52
+I1
+sVrockets
+p53
+I1
+sVmanolo
+p54
+I1
+sValways
+p55
+I4
+sVyall
+p56
+I1
+sVbody
+p57
+I2
+sVright
+p58
+I4
+sVpicnic
+p59
+I1
+sVtwitchin
+p60
+I1
+sVweight
+p61
+I1
+sVbums
+p62
+I1
+sVback
+p63
+I2
+sVboots
+p64
+I1
+sVphysician
+p65
+I1
+sVsee
+p66
+I2
+sVdawg
+p67
+I1
+sVpass
+p68
+I1
+sVlonglegged
+p69
+I1
+sVliking
+p70
+I1
+sVbake
+p71
+I1
+sVnews
+p72
+I1
+sVbest
+p73
+I1
+sVbrothers
+p74
+I1
+sVsinging
+p75
+I4
+sVsurrounded
+p76
+I1
+sVplease
+p77
+I1
+sVice
+p78
+I1
+sVwhole
+p79
+I1
+sVtrack
+p80
+I1
+sVpen
+p81
+I2
+sVgot
+p82
+I2
+sVtappin
+p83
+I1
+sVever
+p84
+I1
+sVpublic
+p85
+I2
+sVred
+p86
+I1
+sVass
+p87
+I1
+sVeagle
+p88
+I2
+sVfull
+p89
+I1
+sVrun
+p90
+I1
+sV10
+p91
+I1
+sVrock
+p92
+I1
+sVprescribe
+p93
+I1
+sVmuthafucka
+p94
+I1
+sVridin
+p95
+I1
+sVbleek
+p96
+I4
+sVsmokin
+p97
+I4
+sVask
+p98
+I1
+sVsing
+p99
+I4
+sVindustry
+p100
+I2
+sVcome
+p101
+I5
+sVdead
+p102
+I1
+sVjfk
+p103
+I1
+sVprescription
+p104
+I1
+sVnecklace
+p105
+I1
+sVlanguage
+p106
+I1
+sVmamis
+p107
+I2
+sVhes
+p108
+I2
+sVchoke
+p109
+I1
+sVheadless
+p110
+I1
+sVhouston
+p111
+I1
+sVsmoke
+p112
+I4
+sVneptunes
+p113
+I1
+sVwhips
+p114
+I1
+sVthink
+p115
+I1
+sVthats
+p116
+I1
+sVdont
+p117
+I3
+sVmanll
+p118
+I1
+sVconfuse
+p119
+I1
+sVdudes
+p120
+I1
+sVson
+p121
+I2
+sVfranchise
+p122
+I1
+sVjayz
+p123
+I1
+sVnigga
+p124
+I1
+sVbitch
+p125
+I4
+sVfake
+p126
+I1
+sVcrew
+p127
+I1
+sVmiss
+p128
+I4
+sVwan
+p129
+I1
+sVlittle
+p130
+I2
+sVarmy
+p131
+I1
+sVsubside
+p132
+I1
+sVtwo
+p133
+I1
+sVfedz
+p134
+I1
+sVmami
+p135
+I5
+sVyao
+p136
+I1
+sVmuch
+p137
+I1
+sVmusic
+p138
+I2
+sVway
+p139
+I1
+sVtell
+p140
+I1
+sVvuitton
+p141
+I1
+sVlife
+p142
+I2
+sVdiamond
+p143
+I1
+sVgay
+p144
+I1
+sVthat
+p145
+I3
+sVgat
+p146
+I1
+sVreign
+p147
+I1
+sVexcuse
+p148
+I7
+sVbasically
+p149
+I4
+sVaffliction
+p150
+I1
+sVbaby
+p151
+I2
+sVsmoking
+p152
+I4
+sVhold
+p153
+I4
+sVhaitian
+p154
+I1
+sVmust
+p155
+I1
+sVshoot
+p156
+I1
+sVlogos
+p157
+I1
+sVlook
+p158
+I1
+sVstraight
+p159
+I1
+sVnever
+p160
+I1
+sVniggaz
+p161
+I1
+sVstrawberry
+p162
+I1
+sVfuture
+p163
+I1
+sVuh
+p164
+I2
+sVlight
+p165
+I3
+sVcake
+p166
+I2
+sVgrass
+p167
+I1
+sVcould
+p168
+I2
+sVburberry
+p169
+I1
+sVcmon
+p170
+I5
+sVwant
+p171
+I1
+sVrainman
+p172
+I1
+sVonassis
+p173
+I1
+sVmoved
+p174
+I1
+sVit
+p175
+I1
+sVming
+p176
+I1
+sVtonight
+p177
+I4
+sVcant
+p178
+I2
+sVim
+p179
+I7
+sVrap
+p180
+I1
+sVneed
+p181
+I1
+sVseen
+p182
+I1
+sVshit
+p183
+I4
+sVmarbury
+p184
+I1
+sVpink
+p185
+I2
+sVagain
+p186
+I1
+sVlullabye
+p187
+I4
+sVclutch
+p188
+I1
+sVna
+p189
+I1
+sVplans
+p190
+I1
+sV45
+p191
+I3
+sVhov
+p192
+I1
+sV5
+I1
+sVtake
+p193
+I1
+sVhop
+p194
+I1
+sVplus
+p195
+I1
+sVyou
+p196
+I1
+sVroll
+p197
+I1
+sVeuropean
+p198
+I1
+sVmadden
+p199
+I1
+sVsickness
+p200
+I1
+sVbags
+p201
+I1
+sVmess
+p202
+I1
+sVhang
+p203
+I4
+sVvoodoo
+p204
+I1
+sVmodest
+p205
+I1
+sVwrist
+p206
+I1
+sVlay
+p207
+I1
+sVcb4
+p208
+I1
+sVlouis
+p209
+I1
+sVchris
+p210
+I1
+sVdesert
+p211
+I2
+sVman
+p212
+I1
+sV2
+I1
+sVbeanie
+p213
+I4
+sVsclass
+p214
+I1
+sVmenolos
+p215
+I1
+sVsigel
+p216
+I4
+sVlose
+p217
+I1
+sVwell
+p218
+I2
+sVpatterns
+p219
+I1
+sVpricks
+p220
+I1
+sVenglish
+p221
+I2
+sVbakers
+p222
+I1
+sVcuz
+p223
+I1
+sVtalk
+p224
+I1
+sVho
+p225
+I2
+s.

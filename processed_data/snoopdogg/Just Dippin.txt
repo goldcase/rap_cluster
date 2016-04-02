@@ -1,90 +1,661 @@
-"just dippin'" lyrics
-snoop dogg lyrics
-"just dippin'"
-(feat. dr. dre, jewell)
-yeah, uhh
-wanna say whattup to all them riders
-all them siders, all them gangstas, and all them beotches
-yeah, we keep it gangsta
-yeah, we keep it gangsta
-dippin down long beach boulevard
-i only rides with my doggs, and i don't give a fuck
-about none of y'all, i'm ridin til the wheels fall off
-i only rides with my doggs
-dippin down compton boulevard
-i only rides with my doggs (say what) i don't give a fuck
-about none of y'all (fuck y'all) i'm ridin til the wheels fall off
-i only rides with my doggs
-beware of the big mash, you knew he wasn't finished witcha ass
-he'll stay on it til it's burnt out, looked how it turned out
-nuttin you can do, can't help you out
-so fall down, dr. dre done fell back into the house (dpg)
-with the pound, bitches keep throwin pussy at us
-we don't want it, yea bitch it don't matter
-it's all about the money, if you got it, throw that up (throw it up)
-hmm, ride along witcha set (eastsiiide)
-and watch us, you motherfuckers can't do that yet
-i skirt out, i hit a corner on ya, fuck doin halfway
-i do it to the fullest, i'll probably catch bullets on my last day
-i hope a prayer come through so i can eat
-my shoes lookin like about a buck fifty each (but i ain't trippin)
-but i'ma come up, that's on my momma
-now that's on me, cause that's a burden on my momma
-and she done suffered, the shit's gettin rougher
-and when the goin get tough, the tough get a strap
-and low-ridin's on the map
-snoop dogg's #1 the whole pound's got snaps (nigga)
-yeahh, tell me, have you seen us?
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it
-uhh, actin a fool, nigga done paid his dues
-and got my receipt in return, so i recline the leather seats
-with a trunk full of beats and, chronic filled leafs to burn
-no concern as i make a left turn on the sharpe (sup nigga?)
-off of jefferson, feelin awfully naked at the u-turn
-shit, left my gun, that's a no-no
-fuck ronald parks, i'm my own po'-po'
-nigga talkin dirty after dark, startin stuff
-may have to mark up a nigga fubu logo
-lettin off like a ruger promo
-and even though i'm about the hoes, i never doubt the dulos
-you know the rule goes, where there's a hoe there's a hater
-(fuck them niggaz!) well there's some hoes over there,
-and i concentrate on the haters later (what?)
-give these bitches numbers to the pager
-invite em to the next dre function as party favors
-who said pimpin's hard labor?
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-heyyy, ohh yeah, ohh yeah
-better watch out, cause here we come
-always, dippin
-better watch out, cause here we come
-always, dippin
-better watch out, cause here we come
-always, dippin
-better watch out, cause here we come
-we're always, dippin
-better watch out, cause here we come
-al-always, dippin
-better watch out, cause here we come
-we're always, we're dippin (dippin)
-better watch out, cause here we come
-in them streets, dippin (dippin)
-better watch out, cause here we come
-hittin them corners, dippin (dippin)
-better watch out, cause here we come
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it, naw however you need it, we just dippin!
-bendin corners on gold daytona's, we heated, so beat it
-however you want it
+(dp1
+Vwhattup
+p2
+I1
+sVhelp
+p3
+I1
+sVlyrics
+p4
+I2
+sVyea
+p5
+I1
+sVmoney
+p6
+I1
+sVbeware
+p7
+I1
+sVpopo
+p8
+I1
+sVfifty
+p9
+I1
+sVseats
+p10
+I1
+sVcorner
+p11
+I1
+sVruger
+p12
+I1
+sVfeat
+p13
+I1
+sVyet
+p14
+I1
+sVhalfway
+p15
+I1
+sVaint
+p16
+I1
+sV1
+I1
+sVgold
+p17
+I9
+sVbendin
+p18
+I9
+sVdr
+p19
+I2
+sVeat
+p20
+I1
+sVbetter
+p21
+I9
+sVstreets
+p22
+I1
+sVactin
+p23
+I1
+sVgangsta
+p24
+I2
+sVhope
+p25
+I1
+sVhater
+p26
+I1
+sVfool
+p27
+I1
+sVhit
+p28
+I1
+sVbeotches
+p29
+I1
+sVya
+p30
+I1
+sVbig
+p31
+I1
+sVwatch
+p32
+I10
+sVuhh
+p33
+I2
+sVfeelin
+p34
+I1
+sVdark
+p35
+I1
+sVfubu
+p36
+I1
+sVknow
+p37
+I1
+sVburden
+p38
+I1
+sVfall
+p39
+I3
+sVlabor
+p40
+I1
+sVfullest
+p41
+I1
+sVawfully
+p42
+I1
+sVburnt
+p43
+I1
+sVday
+p44
+I1
+sVtrippin
+p45
+I1
+sVlike
+p46
+I2
+sVpounds
+p47
+I1
+sVleather
+p48
+I1
+sVrides
+p49
+I4
+sVgettin
+p50
+I1
+sVgun
+p51
+I1
+sVdpg
+p52
+I1
+sVstuff
+p53
+I1
+sVstartin
+p54
+I1
+sVcorners
+p55
+I10
+sVyall
+p56
+I3
+sVem
+p57
+I1
+sVset
+p58
+I1
+sVnuttin
+p59
+I1
+sVhouse
+p60
+I1
+sVthrowin
+p61
+I1
+sVreceipt
+p62
+I1
+sVyeah
+p63
+I5
+sVfull
+p64
+I1
+sVniggaz
+p65
+I1
+sVhell
+p66
+I1
+sVlogo
+p67
+I1
+sVout
+p68
+I2
+sVeven
+p69
+I1
+sVnaked
+p70
+I1
+sVwhat
+p71
+I1
+sVsaid
+p72
+I1
+sVpimpins
+p73
+I1
+sVdoggs
+p74
+I5
+sVgoes
+p75
+I1
+sVsup
+p76
+I1
+sVit
+p77
+I11
+sVgot
+p78
+I3
+sVcause
+p79
+I10
+sVfilled
+p80
+I1
+sVass
+p81
+I1
+sVima
+p82
+I1
+sVrecline
+p83
+I1
+sVhittin
+p84
+I1
+sVlettin
+p85
+I1
+sVburn
+p86
+I1
+sVridin
+p87
+I2
+sVhowever
+p88
+I16
+sVconcentrate
+p89
+I1
+sVwitcha
+p90
+I2
+sVtrunk
+p91
+I1
+sValong
+p92
+I1
+sVcome
+p93
+I11
+sVthrow
+p94
+I2
+sVbuck
+p95
+I1
+sVlast
+p96
+I1
+sValways
+p97
+I5
+sVill
+p98
+I1
+sVcompton
+p99
+I1
+sVshoes
+p100
+I1
+sVkeep
+p101
+I3
+sVturn
+p102
+I1
+sVlookin
+p103
+I1
+sVdulos
+p104
+I1
+sVwheels
+p105
+I2
+sVdre
+p106
+I3
+sVmotherfuckers
+p107
+I1
+sVthats
+p108
+I4
+sVdippin
+p109
+I22
+sVtough
+p110
+I2
+sVdont
+p111
+I4
+sVpussy
+p112
+I1
+sVstrap
+p113
+I1
+sVchronic
+p114
+I1
+sVmomma
+p115
+I2
+sVsuffered
+p116
+I1
+sVdone
+p117
+I3
+sVbitch
+p118
+I1
+sVheated
+p119
+I9
+sVnext
+p120
+I1
+sVrougher
+p121
+I1
+sVdaytonas
+p122
+I9
+sVwan
+p123
+I1
+sVboulevard
+p124
+I2
+sVsnoop
+p125
+I2
+sVdogg
+p126
+I1
+sVthere
+p127
+I1
+sVlong
+p128
+I1
+sVmark
+p129
+I1
+sVdoubt
+p130
+I1
+sVshits
+p131
+I1
+sVlowridins
+p132
+I1
+sVtell
+p133
+I1
+sVfunction
+p134
+I1
+sVhard
+p135
+I1
+sVinvite
+p136
+I1
+sVturned
+p137
+I1
+sVbitches
+p138
+I2
+sVcant
+p139
+I2
+sVback
+p140
+I1
+sVhmm
+p141
+I1
+sVeastsiiide
+p142
+I1
+sVnigga
+p143
+I5
+sVcatch
+p144
+I1
+sVprobably
+p145
+I1
+sVhaters
+p146
+I1
+sVriders
+p147
+I1
+sVuturn
+p148
+I1
+sVnone
+p149
+I2
+sVpromo
+p150
+I1
+sVheyyy
+p151
+I1
+sVnono
+p152
+I1
+sVfavors
+p153
+I1
+sVride
+p154
+I1
+sVup
+p155
+I1
+sVus
+p156
+I3
+sVmatter
+p157
+I1
+sVdirty
+p158
+I1
+sVdues
+p159
+I1
+sVtheres
+p160
+I3
+sVpound
+p161
+I1
+sVohh
+p162
+I2
+sVleafs
+p163
+I1
+sVgive
+p164
+I3
+sVwasnt
+p165
+I1
+sVhoes
+p166
+I2
+sVgangstas
+p167
+I1
+sVfuck
+p168
+I6
+sVreturn
+p169
+I1
+sVjewell
+p170
+I1
+sVsay
+p171
+I2
+sVim
+p172
+I4
+sVnumbers
+p173
+I1
+sVwant
+p174
+I10
+sVprayer
+p175
+I1
+sVneed
+p176
+I7
+sVseen
+p177
+I1
+sVskirt
+p178
+I1
+sVshit
+p179
+I1
+sVhoe
+p180
+I1
+sVbeats
+p181
+I1
+sVna
+p182
+I1
+sVmake
+p183
+I1
+sVget
+p184
+I2
+sVparks
+p185
+I1
+sVtil
+p186
+I3
+sVbeat
+p187
+I9
+sVjefferson
+p188
+I1
+sVnaw
+p189
+I7
+sVyeahh
+p190
+I1
+sVsharpe
+p191
+I1
+sVparty
+p192
+I1
+sVconcern
+p193
+I1
+sVbeach
+p194
+I1
+sVtalkin
+p195
+I1
+sVsiders
+p196
+I1
+sVmap
+p197
+I1
+sVsnaps
+p198
+I1
+sVthough
+p199
+I1
+sVmay
+p200
+I1
+sVdoin
+p201
+I1
+sVknew
+p202
+I1
+sValalways
+p203
+I1
+sVpaid
+p204
+I1
+sVstay
+p205
+I1
+sVronald
+p206
+I1
+sVfell
+p207
+I1
+sVbullets
+p208
+I1
+sVnever
+p209
+I1
+sVpager
+p210
+I1
+sVgoin
+p211
+I1
+sVoff
+p212
+I2
+sVwhole
+p213
+I1
+sVlater
+p214
+I1
+sVwell
+p215
+I1
+sVfinished
+p216
+I1
+sVrule
+p217
+I1
+sVmash
+p218
+I1
+sVlooked
+p219
+I1
+sVleft
+p220
+I2
+s.

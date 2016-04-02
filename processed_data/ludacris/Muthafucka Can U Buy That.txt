@@ -1,52 +1,418 @@
-"muthafucka can u buy that" lyrics
-ludacris lyrics
-"muthafucka can u buy that"
-mutherfucker can you buy that? (buy that, buy that, buy that)
-i could buy that!
-mutherfucker can you buy that? (buy that, buy that, buy that)
-i could buy that!
-mutherfucker can you buy that? (buy that, buy that, buy that)
-awww, here this nigga luda go again talking 'bout how much money he got in this yet
-luda! oh no, don't try that
-twenty million dollar crib motherfucker i could buy that
-you can see me in a fly lap
-maserati's, lamborghini's or a mutherfuckin' maybach
-lay back making pay stacks
-conjure on the rocks, don't chase that
-buss all in your bitch face, and like puff, tell her take that, take that!
-champagne by the boatload
-keep a bottle of a veuve clicquot in a choke hold
-i'm rough i choke hoes, cockin' a magnum like 44′s
-get it? i'm loco! i know people mob like no does
-all night with the door closed
-women jumpin' on my stick like pogo's
-higher, my rubbers all rotate like tires
-i fuck the bitch before i fuck you
-damn right i'm tired!
-i'm filthy rich, bitch, go spend some mula
-i went to the dealership and the ferrari dude was like errr luda?
-mutherfucker can you buy that? (buy that, buy that, buy that)
-i could buy that!
-mutherfucker can you buy that? (buy that, buy that, buy that)
-i could buy that!
-mutherfucker can you buy that? (buy that, buy that, buy that)
-big bank take little bank nigga, i could buy that
-mutherfucker can you buy that? (buy that, buy that, buy that)
-your money is my money
-i can buy that!
-i can buy that shit
-no nigga can even deny that shit
-pull up at the light in a harley and a bugatti
-whatever you driving you better hide that shit
-oh, fuck your life, kill yourself nigga
-go buy a casket, and kill yourself nigga!
-you can find me freaking a puerto rican
-or down in panama with the stamina of an athlete
-overlooking the women in guatemala, tahiti
-they in bikini's i'm running them like a track meet
-bloaw! ready, set go, i'm so outrageous
-yo' money is tied up, bitch my money is the dominatrix
-yo' money's funny, my money's mean
-yo' money's scummy, my money's clean
-yo' money is... stupid
-my money is "get over here, finish him. haduken"
+(dp1
+Vset
+p2
+I1
+sVlyrics
+p3
+I2
+sVludacris
+p4
+I1
+sVmoney
+p5
+I7
+sVdollar
+p6
+I1
+sVkill
+p7
+I2
+sVgo
+p8
+I4
+sVrough
+p9
+I1
+sVyet
+p10
+I1
+sVconjure
+p11
+I1
+sVbuss
+p12
+I1
+sVcockin
+p13
+I1
+sVbetter
+p14
+I1
+sVmutherfuckin
+p15
+I1
+sVrich
+p16
+I1
+sVpuerto
+p17
+I1
+sVbout
+p18
+I1
+sVferrari
+p19
+I1
+sVmaybach
+p20
+I1
+sVboatload
+p21
+I1
+sVyo
+p22
+I4
+sVlamborghinis
+p23
+I1
+sVbig
+p24
+I1
+sVawww
+p25
+I1
+sVknow
+p26
+I1
+sVmob
+p27
+I1
+sVspend
+p28
+I1
+sVbank
+p29
+I2
+sVfreaking
+p30
+I1
+sVrotate
+p31
+I1
+sVlike
+p32
+I7
+sVrocks
+p33
+I1
+sVtry
+p34
+I1
+sVstupid
+p35
+I1
+sVdealership
+p36
+I1
+sVnight
+p37
+I1
+sVwent
+p38
+I1
+sVmaseratis
+p39
+I1
+sVmean
+p40
+I1
+sVnigga
+p41
+I5
+sVtired
+p42
+I1
+sVback
+p43
+I1
+sVtires
+p44
+I1
+sVsee
+p45
+I1
+sVhoes
+p46
+I1
+sVclicquot
+p47
+I1
+sVeven
+p48
+I1
+sVhide
+p49
+I1
+sVdriving
+p50
+I1
+sV44\u2032s
+p51
+I1
+sVpanama
+p52
+I1
+sVfind
+p53
+I1
+sVdoes
+p54
+I1
+sVclosed
+p55
+I1
+sVgot
+p56
+I1
+sVchampagne
+p57
+I1
+sVdominatrix
+p58
+I1
+sVmula
+p59
+I1
+sVmillion
+p60
+I1
+sVmuthafucka
+p61
+I2
+sVmotherfucker
+p62
+I1
+sVrubbers
+p63
+I1
+sVmeet
+p64
+I1
+sVlap
+p65
+I1
+sVbugatti
+p66
+I1
+sVoh
+p67
+I2
+sVcould
+p68
+I6
+sVchoke
+p69
+I2
+sVkeep
+p70
+I1
+sVpuff
+p71
+I1
+sVdont
+p72
+I2
+sVcrib
+p73
+I1
+sVright
+p74
+I1
+sVbitch
+p75
+I4
+sVerrr
+p76
+I1
+sVrican
+p77
+I1
+sVlittle
+p78
+I1
+sVcasket
+p79
+I1
+sVbikinis
+p80
+I1
+sVtwenty
+p81
+I1
+sVpeople
+p82
+I1
+sVdude
+p83
+I1
+sVhaduken
+p84
+I1
+sVstamina
+p85
+I1
+sVmuch
+p86
+I1
+sVdamn
+p87
+I1
+sVtell
+p88
+I1
+sVlife
+p89
+I1
+sVbuy
+p90
+I39
+sVdoor
+p91
+I1
+sVthat
+p92
+I17
+sVscummy
+p93
+I1
+sVloco
+p94
+I1
+sVmoneys
+p95
+I4
+sVwhatever
+p96
+I1
+sVpogos
+p97
+I1
+sVhold
+p98
+I1
+sVwomen
+p99
+I2
+sVfly
+p100
+I1
+sVpull
+p101
+I1
+sVbloaw
+p102
+I1
+sVathlete
+p103
+I1
+sVoutrageous
+p104
+I1
+sVmaking
+p105
+I1
+sVluda
+p106
+I3
+sVtahiti
+p107
+I1
+sVfuck
+p108
+I3
+sVtalking
+p109
+I1
+sVim
+p110
+I6
+sVready
+p111
+I1
+sVharley
+p112
+I1
+sVshit
+p113
+I3
+sVchase
+p114
+I1
+sVfunny
+p115
+I1
+sVveuve
+p116
+I1
+sVpay
+p117
+I1
+sVget
+p118
+I2
+sVtake
+p119
+I3
+sVmagnum
+p120
+I1
+sVyou
+p121
+I1
+sVmutherfucker
+p122
+I7
+sVhigher
+p123
+I1
+sVfinish
+p124
+I1
+sVclean
+p125
+I1
+sVtrack
+p126
+I1
+sVtied
+p127
+I1
+sVrunning
+p128
+I1
+sVlay
+p129
+I1
+sVjumpin
+p130
+I1
+sVfilthy
+p131
+I1
+sVdeny
+p132
+I1
+sVoverlooking
+p133
+I1
+sVlight
+p134
+I1
+sVguatemala
+p135
+I1
+sVface
+p136
+I1
+sVu
+I2
+sVbottle
+p137
+I1
+sVstacks
+p138
+I1
+sVstick
+p139
+I1
+s.

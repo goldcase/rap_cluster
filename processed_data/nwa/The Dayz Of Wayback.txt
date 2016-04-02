@@ -1,70 +1,578 @@
-"the dayz of wayback" lyrics
-n.w.a. lyrics
-"the dayz of wayback"
-what we gonna do right here is go back...
-now this is some shit that's from the dayz of wayback,
-when niggas in compton first started to jack.
-when the bitches wouldn't give you no pussy if you wasn't sellin' drug,
-so many bitches in my neighborhood got mugged.
-they always loved that shit. they want a nigga that's sellin' ks.
-but nowadays they workin' at mickey d's.
-but in the dayz of wayback
-i couldn't be laid back,
-because i needed ends and i made that.
-i get the nine from my nigga that he lend me and
-start robbin' muthafuckas, just like cowboys and indians.
-anything it took to get paid.
-a nigga like ren already had the plane made.
-and i was in it to win it and not to lose.
-and shit, it start blowin' up, once i lit the fuse.
-and police couldn't touch me because i was payin'em.
-but not with no money - yo, i was frayin'em.
-and never get caught because nobody is snitch,
-but one hoe did - so ren had to shoot the bitch!
-now she's in a coffin and my life is better off and
-'cause everybody knows who's the bossin':
-that black nigga that they call ren.
-you fuck with me, you gotta fuck with a mac-10.
-so listen to me as i reminisce the dayz of wayback...
-so check it out y'all...
-it was once a time in the dayz of wayback
-when niggas was gettin' jacked.
-in fact it was one i used to pass through up,
-and kickin' ass through up.
-muthafuckin' compton massacre...
-now let me tell you a little something about compton
-when i was a kid and puttin' my bid in.
-yo, compton was like still water - just strictly calm.
-now it's like muthafuckin' vietnam.
-everybody killin', tryin' to make a killin',
-niggas stealin', muthafuckas willin' to dealin'.
-with so many ways to come up
-the average nigga didn't give a fuck
-about another muthafucka in this game and
-claimin' what he claimin',
-livin' like he livin',
-killin' after killin'.
-murder was a dirty job. to rob a dead man
-was the best plan 'cause a dead man never ran.
-but now your best friend is your worst friend.
-greed, cash the fee. make a me more some of what you holdin'.
-so now your shit is stolen
-and you and your niggas start rollin'.
-yo, to get your shit back ain't a word of.
-muff? it's more murder, more murder, more murder.
-they wanna make you think that it's a crack thang,
-or a black thang
-or some niggas in a muthafuckin' gang...
-but guns and money they go together like the ku klux klan
-a nigga brung up and strung up.
-why do i call myself a nigga you ask me?
-rememberin' the days that's past me...
-yo, never givin' niggas a chance to rest.
-the ghetto is like a fuckin' survival test.
-and number one way for you to pass,
-yo, get treated like a king and they'll crown your ass.
-they never in the wrong though,
-so i made a song so
-muthafuckas had know
-if, yo, livin situations make you wanna get a gat...
-that's 'cause you livin' in the dayz of wayback...
+(dp1
+Vlyrics
+p2
+I2
+sVmoney
+p3
+I2
+sVrob
+p4
+I1
+sVrest
+p5
+I1
+sVnwa
+p6
+I1
+sVtouch
+p7
+I1
+sVstill
+p8
+I1
+sVaint
+p9
+I1
+sVbossin
+p10
+I1
+sVpolice
+p11
+I1
+sVgivin
+p12
+I1
+sVblowin
+p13
+I1
+sVthang
+p14
+I2
+sVbetter
+p15
+I1
+sVking
+p16
+I1
+sVblack
+p17
+I2
+sVwin
+p18
+I1
+sVghetto
+p19
+I1
+sVta
+p20
+I1
+sVme
+p21
+I2
+sVworkin
+p22
+I1
+sVlivin
+p23
+I4
+sVyo
+p24
+I6
+sVget
+p25
+I6
+sVmuthafuckin
+p26
+I3
+sVmugged
+p27
+I1
+sVbid
+p28
+I1
+sVmassacre
+p29
+I1
+sVwayback
+p30
+I7
+sVgame
+p31
+I1
+sVstolen
+p32
+I1
+sVworst
+p33
+I1
+sVjack
+p34
+I1
+sVds
+p35
+I1
+sVdealin
+p36
+I1
+sVlike
+p37
+I8
+sValways
+p38
+I1
+sVgettin
+p39
+I1
+sVmuthafuckas
+p40
+I3
+sVrobbin
+p41
+I1
+sVbrung
+p42
+I1
+sVmuff
+p43
+I1
+sVholdin
+p44
+I1
+sVman
+p45
+I2
+sVlose
+p46
+I1
+sVyall
+p47
+I1
+sVgang
+p48
+I1
+sVright
+p49
+I1
+sVneighborhood
+p50
+I1
+sVclaimin
+p51
+I2
+sVcrown
+p52
+I1
+sVback
+p53
+I3
+sVdead
+p54
+I2
+sVcash
+p55
+I1
+sVpast
+p56
+I1
+sVgo
+p57
+I2
+sVused
+p58
+I1
+sVshes
+p59
+I1
+sVcowboys
+p60
+I1
+sVbest
+p61
+I2
+sVgon
+p62
+I1
+sVways
+p63
+I1
+sVklux
+p64
+I1
+sVthough
+p65
+I1
+sVwrong
+p66
+I1
+sVlaid
+p67
+I1
+sVren
+p68
+I3
+sVwillin
+p69
+I1
+sVgot
+p70
+I2
+sVcause
+p71
+I3
+sVguns
+p72
+I1
+sVass
+p73
+I2
+sVends
+p74
+I1
+sVwan
+p75
+I2
+sVnever
+p76
+I4
+sVmuthafucka
+p77
+I1
+sVwater
+p78
+I1
+sVjob
+p79
+I1
+sVfee
+p80
+I1
+sVlet
+p81
+I1
+sVask
+p82
+I1
+sVcome
+p83
+I1
+sVdayz
+p84
+I7
+sVanything
+p85
+I1
+sVmany
+p86
+I2
+sVcompton
+p87
+I4
+sVdays
+p88
+I1
+sVdrug
+p89
+I1
+sVfuse
+p90
+I1
+sVsurvival
+p91
+I1
+sVsituations
+p92
+I1
+sVstrictly
+p93
+I1
+sVfuckin
+p94
+I1
+sVthats
+p95
+I4
+sVtreated
+p96
+I1
+sVand
+p97
+I3
+sValready
+p98
+I1
+sVpussy
+p99
+I1
+sVnumber
+p100
+I1
+sVone
+p101
+I3
+sVran
+p102
+I1
+sVnigga
+p103
+I7
+sVbitch
+p104
+I1
+sVanother
+p105
+I1
+sVcouldnt
+p106
+I2
+sVnowadays
+p107
+I1
+sVeverybody
+p108
+I2
+sVreminisce
+p109
+I1
+sVlittle
+p110
+I1
+sVkillin
+p111
+I4
+sVstart
+p112
+I3
+sVtogether
+p113
+I1
+sVcaught
+p114
+I1
+sVindians
+p115
+I1
+sVwhos
+p116
+I1
+sVneeded
+p117
+I1
+sVmac10
+p118
+I1
+sVcall
+p119
+I2
+sVcalm
+p120
+I1
+sVway
+p121
+I1
+sVtryin
+p122
+I1
+sVtell
+p123
+I1
+sVfriend
+p124
+I2
+sVlisten
+p125
+I1
+sVlife
+p126
+I1
+sVmurder
+p127
+I4
+sVknows
+p128
+I1
+sVpayinem
+p129
+I1
+sVthat
+p130
+I1
+sVstarted
+p131
+I1
+sVnobody
+p132
+I1
+sVtook
+p133
+I1
+sVshoot
+p134
+I1
+sVloved
+p135
+I1
+sVmade
+p136
+I3
+sVword
+p137
+I1
+sVwouldnt
+p138
+I1
+sVniggas
+p139
+I6
+sVcrack
+p140
+I1
+sVup
+p141
+I4
+sVnine
+p142
+I1
+sVdirty
+p143
+I1
+sVof
+p144
+I1
+sVgat
+p145
+I1
+sVdidnt
+p146
+I1
+sVcoffin
+p147
+I1
+sVmickey
+p148
+I1
+sVgive
+p149
+I2
+sVwasnt
+p150
+I1
+sVpass
+p151
+I2
+sVfuck
+p152
+I3
+sVsomething
+p153
+I1
+sVwant
+p154
+I1
+sVin
+p155
+I1
+sVcheck
+p156
+I1
+sVshit
+p157
+I5
+sVhoe
+p158
+I1
+sVtheyll
+p159
+I1
+sVsellin
+p160
+I2
+sVna
+p161
+I3
+sVmake
+p162
+I4
+sVsong
+p163
+I1
+sVrememberin
+p164
+I1
+sVstealin
+p165
+I1
+sVlit
+p166
+I1
+sVtest
+p167
+I1
+sVfrayinem
+p168
+I1
+sVputtin
+p169
+I1
+sVstrung
+p170
+I1
+sVbitches
+p171
+I2
+sVlend
+p172
+I1
+sVpaid
+p173
+I1
+sVchance
+p174
+I1
+sVplane
+p175
+I1
+sVplan
+p176
+I1
+sVsnitch
+p177
+I1
+sVklan
+p178
+I1
+sVkid
+p179
+I1
+sVjacked
+p180
+I1
+sVaverage
+p181
+I1
+sVrollin
+p182
+I1
+sVthink
+p183
+I1
+sVks
+p184
+I1
+sVvietnam
+p185
+I1
+sVso
+p186
+I1
+sVgreed
+p187
+I1
+sVku
+p188
+I1
+sVtime
+p189
+I1
+sVfirst
+p190
+I1
+sVkickin
+p191
+I1
+sVfact
+p192
+I1
+sVknow
+p193
+I1
+s.
