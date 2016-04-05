@@ -1,7 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import KMeans
 from random import shuffle
+
+import os, cPickle
+
+PROCESSED_DATA_DIR = "processed_data"
 
 # K Means attempts to cluster data by splitting data into groups of equal variance.
 # Requires number of clusters to be specified.
@@ -19,31 +24,30 @@ from random import shuffle
 # As such, centroid initialization is done several times.
 
 # In other words, k-means is EM w/small, all-equal diagonal covar matrix.
+def get_data():
+    ret = []
+    vec = DictVectorizer()
+
+    dirs_list        = next(os.walk(PROCESSED_DATA_DIR))[1]
+    joined_dirs_list = [os.path.join(PROCESSED_DATA_DIR, d) for d in dirs_list]
+
+    for subdir in joined_dirs_list:
+        # Walk files in every subdirectory.
+        for root, dirs, files in os.walk(subdir):
+            for file_item in files:
+                file_path = os.path.join(subdir, file_item)
+
+                # Read file and vectorize lyrics.
+                with open(file_path) as f:
+                    ret.append(cPickle.load(f))
+
+    return vec.fit_transform(ret).toarray()
+
+data = get_data()
+print data
 
 estimator = KMeans()
 estimator.fit(data)
 
 # Verify center clusters are around 25 and 10.
 print(estimator.cluster_centers_)
-
-# Plot actual, generated values.
-plt.figure(0)
-plt.scatter(x_vals_c1, y_vals_c1, color='r')
-plt.scatter(x_vals_c2, y_vals_c2, color='b')
-plt.show()
-
-cluster_1 = []
-cluster_2 = []
-
-# Split the labeled points into cluster 1, cluster 2.
-for i, v in enumerate(estimator.labels_):
-    if v:
-        cluster_1.append(data[i])
-    else:
-        cluster_2.append(data[i])
-
-# Plot the two clusters in different colors. Christmas-themed.
-plt.figure(1)
-plt.scatter(*zip(*cluster_1), color='g')
-plt.scatter(*zip(*cluster_2), color='r')
-plt.show()
