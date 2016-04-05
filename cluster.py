@@ -46,8 +46,9 @@ def get_data():
 data = get_data()
 print data
 
-estimator = KMeans()
+estimator = KMeans(n_jobs=-1)
 estimator.fit(data)
 
 # Verify center clusters are around 25 and 10.
 print(estimator.cluster_centers_)
+
