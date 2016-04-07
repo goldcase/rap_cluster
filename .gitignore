@@ -18,3 +18,6 @@ Session.vim
 __pycache__/
 *.py[cod]
 *$py.class
+
+# iPython Notebook
+.ipynb_checkpoints/
